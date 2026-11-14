@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "agna āyeti mantreṇa",
+     "gloss": "with-agna-āya-thus-mantra",
+     "grounds": "mantra phrase agna āyā iti with mantreṇa; treated as a single token",
+     "morph": "mantra-phrase + m.ins.sg"
+    },
+    {
+     "surface": "paścimasya",
+     "gloss": "of-the-western",
+     "grounds": "qualifies the western archway in context",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "niveśanam",
+     "gloss": "installation",
+     "grounds": "act of placing or installing",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which mantra governs the installation of the western archway?",
+   "premises": [
+    "The eastern archway is installed with the agnimīḷiti mantra.",
+    "The western archway requires its own specified mantra.",
+    "The mantra agna āyā iti is prescribed for this act."
+   ],
+   "inference": "Therefore the western archway is to be installed with the agna āyā iti mantra.",
+   "uncertainties": [
+    "The gender of paścimasya is inferred from context as referring to the archway."
+   ],
+   "plain_english": "The installation of the western archway is to be done with the mantra 'agna āyā iti'."
+  }
+ ]
+}

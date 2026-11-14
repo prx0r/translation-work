@@ -3,34 +3,44 @@
  "verse": 1957,
  "rows": [
   {
-   "lemma": "brahmādayo",
-   "morph": "m.nom.pl",
-   "grounds": "group beginning with Brahmā; internal sandhi in fused form"
+   "lemma": "pañcakāmāśca",
+   "morph": "compound+m.nom.pl",
+   "grounds": "compound: panca+kama with enclitic ca"
   },
   {
-   "lemma": "devā",
-   "morph": "m.nom.pl",
-   "grounds": "identifies the group as deities"
-  },
-  {
-   "lemma": "na",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negates knowledge"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "viduḥ",
-   "morph": "3.pl.perf.act √vid",
-   "grounds": "states lack of knowledge"
+   "lemma": "deveśi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   },
   {
-   "lemma": "paramaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "qualifies the state"
+   "lemma": "jainā",
+   "morph": "m.nom.pl",
+   "grounds": "related to Jain tradition"
   },
   {
-   "lemma": "padam",
-   "morph": "n.acc.sg",
-   "grounds": "the ultimate locus or reality"
+   "lemma": "bauddhāstathaiva",
+   "morph": "m.nom.pl",
+   "grounds": "with tatha and eva fused"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "particle"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
   }
  ]
 }

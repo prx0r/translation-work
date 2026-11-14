@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[page](p.) [197](197)) [womb](garbha) + [support](ādhāra) + [holder](dharā)
+[womb](garbha) [support](ādhāra) [holder](dharā) [goddess](devī)
 
 ## mukta-m0-p63-v1552
-[womb](garbhaṃ) [should-hold](dadhyāt) [not](na) [if](cet) [should-do](kuryād) [womb](garbha) + [support](ādhāra) + [holder](dharā) [compassion](dayām)
+[womb](garbhaṃ) [should-hold](dadhyāt) [not](na) [if](cet) [should-make](kuryāt) [womb-support-holder](garbhādhāra+dharā) [compassion](dayām)
 
 ## mukta-m0-p63-v1553
-[empty](śūnyā)
+[empty](śūnyā) [void](śūnyā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p63-v1554
-[empty](śūnyā) + [thus](iti) [she](sā) [how](kathaṃ) [sung](gītā) [always](sadā) + [full](pūrṇā) [great-goddess](maheśvarī)
+[empty](śūnyā) [thus](iti) [she](sā) [how](kathaṃ) [sung](gītā) [always-full](sadā+pūrṇā) [great-goddess](mahā+īśvarī)
 
 ## mukta-m0-p63-v1555
-[womb](garbha) + [abode](āśayana) + [dwelling](nivāsinī)
+[womb](garbha) [abode](āśaya) [dweller](nivāsinī) [goddess](devī)
 
 ## mukta-m0-p63-v1556
-[womb's](garbhasya) [ten](daśama) + [months](āsu) + [this](eṣā) [womb](garbha) + [abode](āśayana) + [dwelling](nivāsinī)
+[womb's](garbhasya) [ten-months](daśa+māsu) [this](eṣā) [womb-abode-dweller](garbha+āśaya+nivāsinī)
 
 ## mukta-m0-p63-v1557
-[god](sura) + [enemy](ari) + [slaying](ghātinī) [magical-act](kṛtyā)
+[god](sura) [enemy](ari) [slaying](ghātinī) [magical-power](kṛtyā)
 
 ## mukta-m0-p63-v1558
-[god](sura) + [enemy](ari) + [slaying](ghātinī) [magical-act](kṛtyā) [by-compassion](kṛpayā) [by-own](nijayā) [may-become](bhavet)
+[god-enemy-slaying](sura+ari+ghātinī) [magical-power](kṛtyā) [by-compassion](kṛpayā) [own](nijayā) [may-become](bhavet)
 
 ## mukta-m0-p63-v1559
-[Pūtanā](pūtanā)
+[Pūtanā](pūtanā) [demoness](rākṣasī) [she](sā) [named](nāma)
 
 ## mukta-m0-p63-v1560
-[strong](balī) [having-become](bhūtvā) + [killed](ahanat) + [demons](daityān) + [weak](abalaḥ) [Pūtanā](pūtanā) + [thus](iti) [she](sā)
+[strong](balī) [having-become](bhūtvā) [killed](ahanat) [demons](daityān) [weak](abalaḥ) [Pūtanā](pūtanā) [thus](iti) [she](sā)
 
 ## mukta-m0-p63-v1561
-[Tilottamā](tilottamā)
+[Tilottamā](tilottamā) [apsaras](apsarā) [she](sā) [named](nāma)
 
 ## mukta-m0-p63-v1562
-[of-whom](yasyāḥ) [auspicious-goddess](śivāyāḥ) + [indeed](tu) [Tilottamā](tilottamā) + [thus](iti) [she](sā)
+[whose](yasyāḥ) [of-Śivā](śivāyāḥ) [indeed](tu) [Tilottamā](tila+uttamā) [thus](iti) [she](sā)
 
 ## mukta-m0-p63-v1563
-[page](p.) [198](198)) [modesty](lajjā)
+[modesty](lajjā) [shame](lajjā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p63-v1564
-[modesty](lajjā) [not](na) [I-know](jāne) [supreme-goddess](parameśvarī) [you](tvam)
+[modesty](lajjā) [not](na) [I-know](jāne) [supreme-goddess](parama+īśvarī) [you](tvam)
 
 ## mukta-m0-p63-v1565
-[full-of-essence](rasavatī)
+[full-of-essence](rasavatī) [juicy](rasavatī) [she](sā) [goddess](devī)
 
 ## mukta-m0-p63-v1566
-[essence](rasa) + [mere](mātra) + [remainder](avaśeṣaḥ) [may-be](syāt) + [if](cet) [may-be](syāt) + [full-of-essence](rasavatī) [compassion](dayā)
+[essence](rasa) [mere](mātra) [remainder](avaśeṣaḥ) [if-it-were](syāt) [if](cet) [would-be](syāt) [full-of-essence](rasavatī) [compassion](dayā)
 
 ## mukta-m0-p63-v1567
-[joy](nandā)
+[Nandā](nandā) [joy](nandā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p63-v1568
-[how](kathaṃ) [not](na) [may-be](syuḥ) + [people](janāḥ) [all](sarve) [by-whom](yena) [Nandā](nandā) [worshipped](samarcitā)
+[how](kathaṃ) [not](na) [would-be](syuḥ) [people](janāḥ) [all](sarve) [by-whom](yena) [Nandā](nandā) [worshipped](samarcitā)
 
 ## mukta-m0-p63-v1569
-[Bhavānī](bhavānī)
+[Bhavānī](bhavānī) [consort-of-Bhava](bhavānī) [she](sā) [goddess](devī)
 
 ## mukta-m0-p63-v1570
-[may-be](bhavat) + [you](tvaṃ) [new](nava) + [bliss](ānanda) + [heap](rāśiṃ) [wondrous](sucitram)
+[may-be](bhavat) [you](tvaṃ) [new](nava) [bliss](ānanda) [mass](rāśiṃ) [beautiful](sucitram)
 
 ## mukta-m0-p63-v1571
-[sin](pāpa) + [destroying](nāśinī)
+[sin](pāpa) [destroyer](nāśinī) [she](sā) [goddess](devī)
 
 ## mukta-m0-p63-v1572
-[by-whose](yadīyayā) [auspicious-goddess](śivā) [she](sā) + [this](iyaṃ) [proclaimed](kīrtitā) [sin](pāpa) + [destroying](nāśinī)
+[by-whose](yadīyayā) [Śivā](śivā) [this](sā) [she](iyaṃ) [proclaimed](kīrtitā) [sin-destroyer](pāpa+nāśinī)
 
 ## mukta-m0-p63-v1573
-[page](p.) [199](199)) [silk](paṭṭa) + [garment](āmbara) + [wearing](dharā)
+[silk](paṭṭa) [garment](ambara) [wearer](dharā) [goddess](devī)
 
 ## mukta-m0-p63-v1574
-[blue](nīla) + [lotus-plant](utpalinī) + [devoted-to](upāsaktā) [lotus-plant](padminī) + [like](iva) [shines](virājate)
+[blue-lotus-plant](nīla+utpalinī) [devoted](upāsaktā) [like-lotus-plant](padminī+iva) [shines](virājate)
 
 ## mukta-m0-p63-v1575
-[song](gītiḥ)
+[song](gītiḥ) [verse](gītiḥ) [melody](gītiḥ) [hymn](gītiḥ)

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2018,
- "question": "How should features not explicitly described here be determined?",
+ "question": "What specifications define the proper worship pedestal to be made?",
  "premises": [
-  "Some features are not stated in this section",
-  "A prior description exists for Umā together with Skanda",
-  "The unstated features should follow that prior description"
+  "A worship pedestal must be made.",
+  "Its measure should be a pala.",
+  "It should be charming."
  ],
- "inference": "Whatever is not stated here should be understood as described for Umā together with Skanda.",
- "uncertainties": [],
- "plain_english": "Whatever is not stated here should be taken as described for Umā together with Skanda."
+ "inference": "A charming worship pedestal should be made to the measure of a pala.",
+ "uncertainties": [
+  "The exact weight or size denoted by pala is not specified here."
+ ],
+ "plain_english": "A charming worship pedestal should be made to the measure of a pala."
 }

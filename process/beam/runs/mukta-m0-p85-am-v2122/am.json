@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2122,
- "question": "What ornaments and garments characterize the figure in this description?",
+ "question": "What further geometric operation should the knower of mantras perform using the corner measure?",
  "premises": [
-  "The figure is endowed with all ornaments.",
-  "The figure wears white garments and the sacred thread."
+  "A further operation is required after division.",
+  "The operation uses the corner measure.",
+  "The knower of mantras performs a rotation."
  ],
- "inference": "The figure is distinguished by complete ornamentation, white garments, and the sacred thread.",
- "uncertainties": [],
- "plain_english": "He is endowed with all ornaments, wearing white garments and the sacred thread."
+ "inference": "The knower of mantras should then also rotate another line using the corner measure.",
+ "uncertainties": [
+  "The exact geometric object being rotated is implied rather than explicit."
+ ],
+ "plain_english": "Then the knower of mantras should also rotate another line using the corner measure."
 }

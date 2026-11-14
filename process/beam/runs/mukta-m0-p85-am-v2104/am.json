@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2104,
- "question": "What combined attributes distinguish the fearless four-armed peaceful crowned figure?",
+ "question": "What length and breadth proportions are prescribed for the ritual pillar?",
  "premises": [
-  "The figure is fearless, four-armed, and peaceful.",
-  "The figure is adorned with a crown of matted hair."
+  "The pillar requires defined dimensions.",
+  "Its length is specified as nine fingers.",
+  "Its breadth is specified as a fourth part of that measure."
  ],
- "inference": "The figure is identified by fearlessness, four arms, peacefulness, and a matted-hair crown.",
- "uncertainties": [],
- "plain_english": "He is fearless, four-armed, peaceful, and adorned with a crown of matted hair."
+ "inference": "The pillar should be nine fingers long with breadth equal to one fourth of its length.",
+ "uncertainties": [
+  "The exact referent of śūla as pillar or spike is context-dependent."
+ ],
+ "plain_english": "For the pillar, the length should be nine fingers and the breadth one fourth of that."
 }

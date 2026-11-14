@@ -1,12 +1,13 @@
 {
  "song": "mukta-m0-p83",
  "verse": 2065,
- "question": "What qualities of radiance, age, color, and hair define this female figure?",
+ "question": "How does the height vary between the highest and the middle or lowest measures?",
  "premises": [
-  "The figure is very radiant, youthful, and red.",
-  "The figure has a mass of curly hair."
+  "Different measure classes exist.",
+  "The highest has a reference height.",
+  "Middle and lowest are half that height."
  ],
- "inference": "This female figure is youthful, radiant, red, and distinguished by abundant curly hair.",
+ "inference": "In the middle and lowest cases, they are half the height of the highest.",
  "uncertainties": [],
- "plain_english": "She is very radiant, youthful, red, and endowed with a mass of curly hair."
+ "plain_english": "In the highest case they have that height, and in the middle and lowest cases they are half as high."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2020,
- "question": "What physical traits and garment colors characterize the goddess described here?",
+ "question": "What dimensions are prescribed for the width and elevation of the construction?",
  "premises": [
-  "The figure is described with hanging breasts and belly",
-  "The garment may be blue or red",
-  "These features define her appearance"
+  "The width should be three fingers.",
+  "The elevation should be half a barley grain.",
+  "These measurements define the proper form."
  ],
- "inference": "The goddess is depicted with hanging breasts and belly, wearing a blue or red garment.",
- "uncertainties": [],
- "plain_english": "She has hanging breasts and belly, and wears a blue or red garment."
+ "inference": "The construction should have a width of three fingers and an elevation of half a barley grain.",
+ "uncertainties": [
+  "agni is interpreted as the number three by traditional convention."
+ ],
+ "plain_english": "The width should be three fingers and the elevation should be half a barley grain."
 }

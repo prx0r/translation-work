@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "prācīsūtraṃ",
+     "gloss": "eastern-line",
+     "grounds": "compound denoting the east reference line",
+     "morph": "compound: prācī+sūtra; n.nom.sg"
+    },
+    {
+     "surface": "pūrvabhāge",
+     "gloss": "in-eastern-part",
+     "grounds": "locative indicating placement in the eastern portion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-northern",
+     "grounds": "locative indicating placement toward the north",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarāyaṇe",
+     "gloss": "in-northern-course",
+     "grounds": "locative indicating the period of the sun's northward movement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where must the eastern reference line be placed during the sun's northern course?",
+   "premises": [
+    "The eastern reference line is located in the eastern part.",
+    "A contrasting placement is specified for the northern course.",
+    "During the northern course the placement shifts to the northern side."
+   ],
+   "inference": "Therefore, during the northern course the eastern reference line is to be placed in the northern part.",
+   "uncertainties": [
+    "The exact spatial or diagrammatic referent of prācīsūtraṃ depends on the broader ritual or astronomical context."
+   ],
+   "plain_english": "The eastern line is in the eastern part, but during the northern course it is in the northern part."
+  }
+ ]
+}

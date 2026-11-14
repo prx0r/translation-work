@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2101,
+   "rows": [
+    {
+     "surface": "yāgopakaraṇānāṃ",
+     "gloss": "of-sacrificial-implements",
+     "grounds": "genitive plural of compound yāga-upakaraṇa",
+     "morph": "compound=yāga+upakaraṇa; m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "mānāṃgulena",
+     "gloss": "by-measure-finger",
+     "grounds": "instrumental singular of compound māna-aṅgula",
+     "morph": "compound=māna+aṅgula; n.inst.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what unit of measurement should the dimensions of sacrificial implements be determined?",
+   "premises": [
+    "Sacrificial implements require prescribed dimensions.",
+    "The text enjoins making them by a measure-finger unit.",
+    "The particle vai emphasizes this standard."
+   ],
+   "inference": "The dimensions of sacrificial implements must be made using the measure-finger unit.",
+   "uncertainties": [],
+   "plain_english": "And one should indeed make the sacrificial implements according to the measure-finger unit."
+  },
+  {
+   "verse": 2102,
+   "rows": [
+    {
+     "surface": "dehalabdhāṃgulenaiva",
+     "gloss": "by-body-derived-finger-alone",
+     "grounds": "instrumental singular of compound deha-labdha-aṅgula with emphatic eva",
+     "morph": "compound=deha+labdha+aṅgula; n.inst.sg + (indecl.)"
+    },
+    {
+     "surface": "pratimāṅgāni",
+     "gloss": "image-limbs",
+     "grounds": "accusative plural of compound pratimā-aṅga",
+     "morph": "compound=pratimā+aṅga; n.acc.pl"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "optative of kḷp",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "Which finger measure governs the fashioning of the limbs of ritual images?",
+   "premises": [
+    "Ritual images have limbs that must be proportioned.",
+    "The text specifies the body-derived finger as the measure.",
+    "The emphatic eva restricts the measure to this standard."
+   ],
+   "inference": "The limbs of images must be fashioned using only the body-derived finger measure.",
+   "uncertainties": [],
+   "plain_english": "One should fashion the limbs of the image using only the finger measure derived from the body."
+  },
+  {
+   "verse": 2103,
+   "rows": [
+    {
+     "surface": "catuṣkuṇḍī",
+     "gloss": "four-fire-pits",
+     "grounds": "nominative singular of compound catur-kuṇḍī",
+     "morph": "compound=catur+kuṇḍī; f.nom.sg"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative singular of madhyama",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "kaniṣṭhe'pyekakuṇḍakam",
+     "gloss": "in-smallest-even-one-fire-pit",
+     "grounds": "locative singular kaniṣṭha with api and compound eka-kuṇḍaka",
+     "morph": "n.loc.sg + (indecl.) + compound=eka+kuṇḍaka; n.nom.sg"
+    }
+   ],
+   "question": "How many fire pits are prescribed for the middle and smallest ritual arrangements?",
+   "premises": [
+    "Ritual arrangements vary by scale.",
+    "The middle arrangement is assigned four fire pits.",
+    "The smallest arrangement is assigned even a single fire pit."
+   ],
+   "inference": "The middle setup should have four fire pits, while the smallest may have one.",
+   "uncertainties": [],
+   "plain_english": "In the middle arrangement there should be four fire pits, and in the smallest even a single fire pit."
+  },
+  {
+   "verse": 2104,
+   "rows": [
+    {
+     "surface": "śūle",
+     "gloss": "on-pillar",
+     "grounds": "locative singular of śūla",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "navāṃgulaṃ",
+     "gloss": "nine-fingers",
+     "grounds": "nominative singular of compound nava-aṅgula",
+     "morph": "compound=nava+aṅgula; n.nom.sg"
+    },
+    {
+     "surface": "dairghya",
+     "gloss": "length",
+     "grounds": "nominative singular, truncated form of dairghya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "turīyāṃśena",
+     "gloss": "by-fourth-part",
+     "grounds": "instrumental singular of compound turīya-aṃśa",
+     "morph": "compound=turīya+aṃśa; m.inst.sg"
+    },
+    {
+     "surface": "vistṛtiḥ",
+     "gloss": "breadth",
+     "grounds": "nominative singular of vistṛti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What length and breadth proportions are prescribed for the ritual pillar?",
+   "premises": [
+    "The pillar requires defined dimensions.",
+    "Its length is specified as nine fingers.",
+    "Its breadth is specified as a fourth part of that measure."
+   ],
+   "inference": "The pillar should be nine fingers long with breadth equal to one fourth of its length.",
+   "uncertainties": [
+    "The exact referent of śūla as pillar or spike is context-dependent."
+   ],
+   "plain_english": "For the pillar, the length should be nine fingers and the breadth one fourth of that."
+  },
+  {
+   "verse": 2105,
+   "rows": [
+    {
+     "surface": "hīne caivaṃ",
+     "gloss": "in-inferior-and-thus",
+     "grounds": "locative singular hīna with ca and evam",
+     "morph": "n.loc.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle of sam-ā-khyā",
+     "morph": "n.nom.sg ppp √khyā"
+    },
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "nominative singular of compound dvi-aṅgula",
+     "morph": "compound=dvi+aṅgula; n.nom.sg"
+    },
+    {
+     "surface": "ropayettathā",
+     "gloss": "one-should-set-thus",
+     "grounds": "optative of ropay with tathā",
+     "morph": "3.sg.act-opt √ruh(caus.) + (indecl.)"
+    }
+   ],
+   "question": "What adjustment is prescribed for the pillar in an inferior ritual arrangement?",
+   "premises": [
+    "An inferior arrangement requires modified dimensions.",
+    "The text declares a two-finger measure in that case.",
+    "The instruction directs setting it accordingly."
+   ],
+   "inference": "In the inferior arrangement, the pillar should be set with a two-finger measure as declared.",
+   "uncertainties": [
+    "Whether dvyaṃgulaṃ qualifies length, breadth, or insertion depth is not explicit."
+   ],
+   "plain_english": "In the inferior case it is thus declared as two fingers, and one should set it accordingly."
+  },
+  {
+   "verse": 2106,
+   "rows": [
+    {
+     "surface": "prāgādikramayogena",
+     "gloss": "by-eastward-order-application",
+     "grounds": "instrumental singular of compound prāk-ādi-krama-yoga",
+     "morph": "compound=prāk+ādi+krama+yoga; m.inst.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative of ni-as",
+     "morph": "3.sg.act-opt √as(ni)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svadārujam",
+     "gloss": "own-wood-born",
+     "grounds": "accusative singular of compound sva-dāru-ja",
+     "morph": "compound=sva+dāru+ja; n.acc.sg"
+    }
+   ],
+   "question": "In what order and material should the associated ritual items be placed?",
+   "premises": [
+    "The items must be placed in a prescribed sequence.",
+    "The sequence proceeds from the east onward.",
+    "Each item should be made from its own appropriate wood."
+   ],
+   "inference": "One should place their wood-born items in order beginning from the east.",
+   "uncertainties": [
+    "The exact items referred to by teṣāṃ depend on the preceding context."
+   ],
+   "plain_english": "One should place their items, born of their own wood, in order beginning from the east."
+  },
+  {
+   "verse": 2107,
+   "rows": [
+    {
+     "surface": "navaikādaśabhāgaiḥ",
+     "gloss": "by-nine-eleven-parts",
+     "grounds": "instrumental plural of compound nava-ekādaśa-bhāga",
+     "morph": "compound=nava+ekādaśa+bhāga; m.inst.pl"
+    },
+    {
+     "surface": "tāmiṣṭakābhiḥ",
+     "gloss": "with-those-bricks",
+     "grounds": "instrumental plural of tād and iṣṭakā",
+     "morph": "f.inst.pl + f.inst.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "optative of pra-kḷp",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "How should the construction be fashioned using bricks and proportional divisions?",
+   "premises": [
+    "The construction requires proportional division.",
+    "The divisions are specified as nine and eleven parts.",
+    "Bricks are the material used for fashioning it."
+   ],
+   "inference": "One should fashion it with those bricks according to nine and eleven parts.",
+   "uncertainties": [
+    "The precise application of nine versus eleven parts is not fully specified."
+   ],
+   "plain_english": "One should fashion it with those bricks in nine or eleven parts."
+  },
+  {
+   "verse": 2108,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmitale",
+     "gloss": "on-ground-surface",
+     "grounds": "locative singular of compound bhūmi-tala",
+     "morph": "compound=bhūmi+tala; n.loc.sg"
+    },
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "locative singular, truncated form of śuddhe",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tuṣāṅgāravivarjite",
+     "gloss": "devoid-of-husk-charcoal",
+     "grounds": "locative singular of compound tuṣa-aṅgāra-vivarjita",
+     "morph": "compound=tuṣa+aṅgāra+vivarjita; n.loc.sg"
+    }
+   ],
+   "question": "What condition must the ground surface meet before the next ritual construction step?",
+   "premises": [
+    "The ritual proceeds on a prepared ground surface.",
+    "The ground must be pure.",
+    "The ground must be free from husk and charcoal."
+   ],
+   "inference": "The next step should be performed on a pure ground surface devoid of husk and charcoal.",
+   "uncertainties": [],
+   "plain_english": "Then, on a pure ground surface free from husk and charcoal."
+  },
+  {
+   "verse": 2109,
+   "rows": [
+    {
+     "surface": "pañcibhaḥ",
+     "gloss": "with-five",
+     "grounds": "instrumental plural form related to five",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saptabhirhastaiḥ",
+     "gloss": "with-seven-cubits",
+     "grounds": "instrumental plural of saptan and hasta",
+     "morph": "m.inst.pl + m.inst.pl"
+    },
+    {
+     "surface": "navabhirvā",
+     "gloss": "or-with-nine",
+     "grounds": "instrumental plural of navan with vā",
+     "morph": "m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "mitāntaram",
+     "gloss": "measured-interval",
+     "grounds": "accusative singular of compound mita-antara",
+     "morph": "compound=mita+antara; n.acc.sg"
+    }
+   ],
+   "question": "What interval measurements are permitted for spacing in the ritual layout?",
+   "premises": [
+    "The layout requires a measured interval.",
+    "The text lists five, seven, or nine cubits as measures.",
+    "The particle vā indicates alternatives."
+   ],
+   "inference": "The interval may be measured as five, seven, or nine cubits.",
+   "uncertainties": [
+    "The form pañcibhaḥ is unusual and its exact reading is uncertain."
+   ],
+   "plain_english": "The interval should be measured with five, seven, or nine cubits."
+  },
+  {
+   "verse": 2110,
+   "rows": [
+    {
+     "surface": "aṣṭahastasamucchrāyāḥ",
+     "gloss": "eight-cubit-height",
+     "grounds": "nominative plural of compound aṣṭa-hasta-samucchrāya",
+     "morph": "compound=aṣṭa+hasta+samucchrāya; f.nom.pl"
+    },
+    {
+     "surface": "saṃsthāpyā",
+     "gloss": "to-be-established",
+     "grounds": "gerundive of sam-sthā",
+     "morph": "f.nom.pl gerundive √sthā"
+    },
+    {
+     "surface": "dvādaśābhitaḥ",
+     "gloss": "twelve-around",
+     "grounds": "dvādaśa with abhitas",
+     "morph": "(indecl.) + (indecl.)"
+    }
+   ],
+   "question": "What height and number are prescribed for the structures to be established around the site?",
+   "premises": [
+    "Structures must be established around the site.",
+    "Their height is specified as eight cubits.",
+    "Their number is specified as twelve around."
+   ],
+   "inference": "Twelve structures of eight cubits in height should be established around the site.",
+   "uncertainties": [
+    "The exact type of structure is implied by context rather than stated."
+   ],
+   "plain_english": "Twelve structures, each eight cubits high, should be established all around."
+  },
+  {
+   "verse": 2111,
+   "rows": [
+    {
+     "surface": "tatpañcamāṃśaṃ",
+     "gloss": "that-fifth-part",
+     "grounds": "accusative singular of compound tad-pañcama-aṃśa",
+     "morph": "compound=tad+pañcama+aṃśa; m.acc.sg"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "optative of ni-khan",
+     "morph": "3.sg.act-opt √khan"
+    },
+    {
+     "surface": "medinyāṃ",
+     "gloss": "in-earth",
+     "grounds": "locative singular of medinī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tantravittamaḥ",
+     "gloss": "best-tantra-knower",
+     "grounds": "nominative singular of compound tantra-vid-tama",
+     "morph": "compound=tantra+vid+tama; m.nom.sg"
+    }
+   ],
+   "question": "How deeply should the expert in tantra embed the structure into the earth?",
+   "premises": [
+    "The structure requires partial embedding in the earth.",
+    "The depth is specified as a fifth part of it.",
+    "The best knower of tantra is the agent of this action."
+   ],
+   "inference": "The best knower of tantra should bury a fifth part of it in the earth.",
+   "uncertainties": [],
+   "plain_english": "The best knower of tantra should bury a fifth part of it in the earth."
+  },
+  {
+   "verse": 2112,
+   "rows": [
+    {
+     "surface": "dvāreṣu",
+     "gloss": "at-gates",
+     "grounds": "locative plural of dvāra",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "toraṇāni",
+     "gloss": "arches",
+     "grounds": "nominative plural of toraṇa",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.pl.act-opt √as"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular of krama",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kṣīramahīruhām",
+     "gloss": "of-milk-trees",
+     "grounds": "genitive plural of compound kṣīra-mahīruha",
+     "morph": "compound=kṣīra+mahīruha; m.gen.pl"
+    }
+   ],
+   "question": "What material and placement are prescribed for the arches at the gates?",
+   "premises": [
+    "Arches are required at the gates.",
+    "They should be placed in proper order.",
+    "They should be made from milk-bearing trees."
+   ],
+   "inference": "Arches made of milk-bearing trees should be placed in order at the gates.",
+   "uncertainties": [],
+   "plain_english": "At the gates there should be arches, in order, made from milk-bearing trees."
+  },
+  {
+   "verse": 2113,
+   "rows": [
+    {
+     "surface": "daśāṃgulapramāṇena",
+     "gloss": "by-ten-finger-measure",
+     "grounds": "instrumental singular of compound daśa-aṅgula-pramāṇa",
+     "morph": "compound=daśa+aṅgula+pramāṇa; n.inst.sg"
+    },
+    {
+     "surface": "tatparīṇāhaḥ",
+     "gloss": "its-circumference",
+     "grounds": "nominative singular of compound tad-parīṇāha",
+     "morph": "compound=tad+parīṇāha; m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle of īr",
+     "morph": "m.nom.sg ppp √īr"
+    }
+   ],
+   "question": "What circumference is declared for the arches described in the ritual?",
+   "premises": [
+    "The arches require a specified circumference.",
+    "The measure is given as ten fingers.",
+    "This measure is explicitly declared."
+   ],
+   "inference": "The circumference of those arches is declared to be ten fingers.",
+   "uncertainties": [],
+   "plain_english": "Its circumference is declared to be ten fingers in measure."
+  },
+  {
+   "verse": 2114,
+   "rows": [
+    {
+     "surface": "śūlāni",
+     "gloss": "pillars",
+     "grounds": "accusative plural of śūla",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "optative of kḷp",
+     "morph": "3.sg.act-opt √kḷp"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative singular of madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "toraṇe",
+     "gloss": "in-arch",
+     "grounds": "locative singular of toraṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hastamānataḥ",
+     "gloss": "by-cubit-measure",
+     "grounds": "ablative singular of compound hasta-māna with adverbial sense",
+     "morph": "compound=hasta+māna; n.abl.sg"
+    }
+   ],
+   "question": "Where and at what size should the pillars within the arch be fashioned?",
+   "premises": [
+    "Pillars must be fashioned for the arch.",
+    "They are to be placed in the middle of the arch.",
+    "Their measure is specified as one cubit."
+   ],
+   "inference": "One should fashion pillars in the middle of the arch measuring one cubit.",
+   "uncertainties": [],
+   "plain_english": "One should fashion pillars in the middle of the arch, measuring one cubit."
+  },
+  {
+   "verse": 2115,
+   "rows": [
+    {
+     "surface": "vitānadarbhamālādyaiḥ",
+     "gloss": "with-canopy-grass-garlands-etc",
+     "grounds": "instrumental plural of compound vitāna-darbha-mālā-ādi",
+     "morph": "compound=vitāna+darbha+mālā+ādi; n.inst.pl"
+    },
+    {
+     "surface": "alaṃkurvīta",
+     "gloss": "one-should-decorate",
+     "grounds": "optative of alaṃ-kṛ",
+     "morph": "3.sg.mid-opt √kṛ"
+    },
+    {
+     "surface": "maṇḍapam",
+     "gloss": "pavilion",
+     "grounds": "accusative singular of maṇḍapa",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "With what materials should the ritual pavilion be decorated?",
+   "premises": [
+    "The pavilion requires decoration.",
+    "The text lists canopy, darbha garlands, and similar items.",
+    "These items are the means of adornment."
+   ],
+   "inference": "One should decorate the pavilion with a canopy, darbha garlands, and the like.",
+   "uncertainties": [],
+   "plain_english": "One should decorate the pavilion with a canopy, darbha garlands, and other such items."
+  },
+  {
+   "verse": 2116,
+   "rows": [
+    {
+     "surface": "caturasrāṃ",
+     "gloss": "four-cornered",
+     "grounds": "accusative singular of caturasra",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedīṃ",
+     "gloss": "altar",
+     "grounds": "accusative singular of vedī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "maṇḍalāya",
+     "gloss": "for-diagram",
+     "grounds": "dative singular of maṇḍala",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "optative of pra-kḷp",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "What shape and purpose are prescribed for the altar fashioned after the pavilion?",
+   "premises": [
+    "An altar is to be fashioned after the pavilion.",
+    "The altar must be four-cornered.",
+    "The altar is intended for the ritual diagram."
+   ],
+   "inference": "One should then fashion a four-cornered altar for the maṇḍala.",
+   "uncertainties": [],
+   "plain_english": "Then one should fashion a four-cornered altar for the maṇḍala."
+  },
+  {
+   "verse": 2117,
+   "rows": [
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "accusative singular of kṣetra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "absolutive of vi-bhaj",
+     "morph": "gerund √bhaj"
+    },
+    {
+     "surface": "madhyeṃ'śe",
+     "gloss": "in-middle-part",
+     "grounds": "locative singular of compound madhya-aṃśa with sandhi",
+     "morph": "compound=madhya+aṃśa; m.loc.sg"
+    },
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "accusative singular of compound pūrva-ādi",
+     "morph": "compound=pūrva+ādi; n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative of pari-kḷp",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "How should the ritual field be divided and arranged in its central part?",
+   "premises": [
+    "The field must be divided before arrangement.",
+    "The arrangement is made in the middle part.",
+    "The arrangement proceeds beginning from the east."
+   ],
+   "inference": "After dividing the field, one should arrange the middle part beginning from the east.",
+   "uncertainties": [],
+   "plain_english": "Having divided the field, one should arrange the middle part beginning from the east."
+  },
+  {
+   "verse": 2118,
+   "rows": [
+    {
+     "surface": "caturasraṃ",
+     "gloss": "four-cornered",
+     "grounds": "accusative singular of caturasra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yonim",
+     "gloss": "womb-shape",
+     "grounds": "accusative singular of yoni",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ardhacandraṃ",
+     "gloss": "half-moon",
+     "grounds": "accusative singular of compound ardha-candra",
+     "morph": "compound=ardha+candra; m.acc.sg"
+    },
+    {
+     "surface": "tryasraṃ",
+     "gloss": "triangle",
+     "grounds": "accusative singular of tryasra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartulam",
+     "gloss": "circle",
+     "grounds": "accusative singular of vartula",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What geometric shapes are to be arranged within the divided ritual field?",
+   "premises": [
+    "The divided field requires specific shapes.",
+    "The text lists square, yoni, half-moon, triangle, and circle.",
+    "These shapes are objects of arrangement."
+   ],
+   "inference": "One should arrange a square, a yoni, a half-moon, a triangle, and a circle.",
+   "uncertainties": [],
+   "plain_english": "One should arrange a square, a yoni, a half-moon, a triangle, and a circle."
+  },
+  {
+   "verse": 2119,
+   "rows": [
+    {
+     "surface": "ācāryakuṇḍaṃ",
+     "gloss": "teacher-fire-pit",
+     "grounds": "nominative singular of compound ācārya-kuṇḍa",
+     "morph": "compound=ācārya+kuṇḍa; n.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative singular of madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "gaurīpatimahendrayoḥ",
+     "gloss": "of-gaurīpati-and-mahendra",
+     "grounds": "genitive dual of compound gaurīpati-mahendra",
+     "morph": "compound=gaurīpati+mahendra; m.gen.du"
+    }
+   ],
+   "question": "Where should the teacher's fire pit be placed relative to the directions of Gaurīpati and Mahendra?",
+   "premises": [
+    "The teacher's fire pit has a prescribed location.",
+    "It is to be placed in the middle.",
+    "Its position is defined in relation to Gaurīpati and Mahendra."
+   ],
+   "inference": "The teacher's fire pit should be in the middle between the directions of Gaurīpati and Mahendra.",
+   "uncertainties": [
+    "The directional referents of Gaurīpati and Mahendra follow ritual convention."
+   ],
+   "plain_english": "The teacher's fire pit should be in the middle, between the directions of Gaurīpati and Mahendra."
+  },
+  {
+   "verse": 2120,
+   "rows": [
+    {
+     "surface": "samantāt",
+     "gloss": "on-all-sides",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍametat",
+     "gloss": "this-fire-pit",
+     "grounds": "nominative singular of kuṇḍa with etad",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "four-cornered",
+     "grounds": "nominative singular of caturasra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubhāvaham",
+     "gloss": "auspicious-bringing",
+     "grounds": "nominative singular of compound śubha-āvaha",
+     "morph": "compound=śubha+āvaha; n.nom.sg"
+    }
+   ],
+   "question": "What shape and quality are prescribed for this fire pit on all sides?",
+   "premises": [
+    "This fire pit has a prescribed form.",
+    "It should be four-cornered on all sides.",
+    "It is described as bringing auspiciousness."
+   ],
+   "inference": "This fire pit should be four-cornered on all sides and bring auspiciousness.",
+   "uncertainties": [],
+   "plain_english": "This fire pit should be four-cornered on all sides and bring auspiciousness."
+  },
+  {
+   "verse": 2121,
+   "rows": [
+    {
+     "surface": "caturasrīkṛtaṃ",
+     "gloss": "made-four-cornered",
+     "grounds": "accusative singular past passive participle of compound caturasrī-kṛ",
+     "morph": "compound=caturasrī+kṛta; n.acc.sg ppp √kṛ"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "accusative singular of kṣetra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "adverbial numeral derivative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "one-should-divide",
+     "grounds": "optative of vi-bhaj",
+     "morph": "3.sg.act-opt √bhaj"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular of sudhī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner divide a field that has been made four-cornered?",
+   "premises": [
+    "The field has been made four-cornered.",
+    "The wise practitioner is the agent of division.",
+    "The division is specified as fivefold."
+   ],
+   "inference": "The wise one should divide the four-cornered field into five parts.",
+   "uncertainties": [],
+   "plain_english": "The wise one should divide the field, made four-cornered, into five parts."
+  },
+  {
+   "verse": 2122,
+   "rows": [
+    {
+     "surface": "bhrāmayet",
+     "gloss": "one-should-rotate",
+     "grounds": "optative causative of bhram",
+     "morph": "3.sg.act-opt √bhram(caus.)"
+    },
+    {
+     "surface": "koṇamānena",
+     "gloss": "by-corner-measure",
+     "grounds": "instrumental singular of compound koṇa-māna",
+     "morph": "compound=koṇa+māna; n.inst.sg"
+    },
+    {
+     "surface": "tadānyadapi",
+     "gloss": "then-other-also",
+     "grounds": "tadā with anya and api",
+     "morph": "(indecl.) + n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "nominative singular of compound mantra-vid",
+     "morph": "compound=mantra+vid; m.nom.sg"
+    }
+   ],
+   "question": "What further geometric operation should the knower of mantras perform using the corner measure?",
+   "premises": [
+    "A further operation is required after division.",
+    "The operation uses the corner measure.",
+    "The knower of mantras performs a rotation."
+   ],
+   "inference": "The knower of mantras should then also rotate another line using the corner measure.",
+   "uncertainties": [
+    "The exact geometric object being rotated is implied rather than explicit."
+   ],
+   "plain_english": "Then the knower of mantras should also rotate another line using the corner measure."
+  },
+  {
+   "verse": 2123,
+   "rows": [
+    {
+     "surface": "caturasrīkṛtaṃ",
+     "gloss": "made-four-cornered",
+     "grounds": "accusative singular past passive participle of compound caturasrī-kṛ",
+     "morph": "compound=caturasrī+kṛta; n.acc.sg ppp √kṛ"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "accusative singular of kṣetra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "adverbial numeral derivative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "one-should-divide",
+     "grounds": "optative of vi-bhaj",
+     "morph": "3.sg.act-opt √bhaj"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What subsequent division is prescribed for the four-cornered ritual field?",
+   "premises": [
+    "The field remains four-cornered.",
+    "A further division is required.",
+    "The division is specified as tenfold."
+   ],
+   "inference": "One should again divide the four-cornered field into ten parts.",
+   "uncertainties": [],
+   "plain_english": "One should again divide the field, made four-cornered, into ten parts."
+  },
+  {
+   "verse": 2124,
+   "rows": [
+    {
+     "surface": "jyāsūtraṃ",
+     "gloss": "cord-string",
+     "grounds": "accusative singular of compound jyā-sūtra",
+     "morph": "compound=jyā+sūtra; n.acc.sg"
+    },
+    {
+     "surface": "pātayed",
+     "gloss": "one-should-lay",
+     "grounds": "optative causative of pat",
+     "morph": "3.sg.act-opt √pat(caus.)"
+    },
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "locative singular of agra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tanmānāt",
+     "gloss": "by-that-measure",
+     "grounds": "ablative singular of compound tad-māna",
+     "morph": "compound=tad+māna; n.abl.sg"
+    },
+    {
+     "surface": "bhrāmayet",
+     "gloss": "one-should-rotate",
+     "grounds": "optative causative of bhram",
+     "morph": "3.sg.act-opt √bhram(caus.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the cord be used to complete the geometric construction of the field?",
+   "premises": [
+    "A cord is used in the construction.",
+    "The cord should be laid in front according to that measure.",
+    "The cord should then be rotated to complete the form."
+   ],
+   "inference": "One should lay the cord in front by that measure and then rotate it.",
+   "uncertainties": [],
+   "plain_english": "One should lay the cord in front, and then rotate it according to that measure."
+  }
+ ]
+}

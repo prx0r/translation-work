@@ -1,0 +1,501 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1826,
+   "rows": [
+    {
+     "surface": "mandasmitalasaddantamarīcidyotitānanāḥ",
+     "gloss": "gentle-smile-shining-tooth-ray-illuminated-faces",
+     "grounds": "bahuvrihi compound describing those whose faces are lit by rays from teeth gleaming in a gentle smile",
+     "morph": "compound: manda-smita-lasat-danta-marīci-dyotita-ānana, f.nom.pl"
+    }
+   ],
+   "question": "What feature illuminates the faces of the described women?",
+   "premises": [
+    "The women have gentle smiles.",
+    "Their teeth shine within those smiles.",
+    "Rays from the shining teeth illuminate their faces."
+   ],
+   "inference": "Their faces are radiant with light reflected from their smiling teeth.",
+   "uncertainties": [],
+   "plain_english": "Their faces are illuminated by the rays of teeth gleaming in gentle smiles."
+  },
+  {
+   "verse": 1827,
+   "rows": [
+    {
+     "surface": "jalpākapuṃskokilodyaddevavṛndaṃ nirantram",
+     "gloss": "chattering-like-male-cuckoo-rising-god-host-continually",
+     "grounds": "compound comparing or describing a host of gods rising like chattering male cuckoos, continuously present",
+     "morph": "compound: jalpa-āka-puṃskokila-udyat-deva-vṛnda-nirantaram, n.acc.sg"
+    }
+   ],
+   "question": "How is the continuous presence of the divine host characterized?",
+   "premises": [
+    "A host of gods is present.",
+    "Their activity is likened to chattering male cuckoos.",
+    "This presence is described as continuous."
+   ],
+   "inference": "The divine host is vividly present, rising and sounding like chattering cuckoos without pause.",
+   "uncertainties": [
+    "The exact syntactic role of the compound in the larger sentence is unclear without surrounding verses."
+   ],
+   "plain_english": "Continuously, there is a host of gods rising like chattering male cuckoos."
+  },
+  {
+   "verse": 1828,
+   "rows": [
+    {
+     "surface": "suśroṇibhārādatyarthamandagāminya uttamāḥ",
+     "gloss": "beautiful-hip-weight-from-very-slow-moving excellent",
+     "grounds": "compound describing excellent women who move very slowly because of the weight of their beautiful hips",
+     "morph": "compound: su-śroṇi-bhāra-ati-artha-manda-gāminī, f.nom.pl; uttamāḥ, f.nom.pl"
+    }
+   ],
+   "question": "Why do the excellent women move with such slow grace?",
+   "premises": [
+    "The women are described as excellent.",
+    "They possess beautiful, heavy hips.",
+    "The weight of their hips makes their gait very slow."
+   ],
+   "inference": "Their slow movement is a graceful effect of their full, beautiful hips.",
+   "uncertainties": [],
+   "plain_english": "The excellent women walk very slowly because of the weight of their beautiful hips."
+  },
+  {
+   "verse": 1829,
+   "rows": [
+    {
+     "surface": "mārasenāpatiriva vanalakṣmyā gṛhaṃ yathā",
+     "gloss": "love-god-army-commander-like forest-beauty-of home as",
+     "grounds": "comparative expression likening the scene to the commander of Mara's army or to the home of the forest goddess",
+     "morph": "compound: māra-senāpati-iva, m.nom.sg; vanalakṣmyāḥ, f.gen.sg; gṛham, n.nom.sg; yathā, (indecl.)"
+    }
+   ],
+   "question": "What comparisons evoke the splendor of the described setting?",
+   "premises": [
+    "The scene is compared to the commander of Mara's army.",
+    "It is also compared to the home of the forest goddess.",
+    "Both comparisons suggest beauty and commanding presence."
+   ],
+   "inference": "The setting is portrayed as both enchantingly powerful and naturally splendid.",
+   "uncertainties": [
+    "The precise referent being compared is supplied by the broader context."
+   ],
+   "plain_english": "Like the commander of the god of love’s army, and as if it were the home of the goddess of the forest."
+  },
+  {
+   "verse": 1830,
+   "rows": [
+    {
+     "surface": "indirāyāḥ sodarasya navaratnamayasya ca",
+     "gloss": "of-lakshmi of-brother nine-gem-made and",
+     "grounds": "refers to the brother of Indira (Lakshmi), identified with the moon or a gem-born being, made of nine gems",
+     "morph": "indirāyāḥ, f.gen.sg; sodarasya, m.gen.sg; compound: nava-ratna-mayasya, m.gen.sg; ca, (indecl.)"
+    }
+   ],
+   "question": "Which gem-adorned figure associated with Lakshmi is being indicated?",
+   "premises": [
+    "Indira is another name for Lakshmi.",
+    "Her brother is referenced.",
+    "That brother is described as made of nine gems."
+   ],
+   "inference": "The verse points to Lakshmi’s brother, characterized as composed of the nine gems.",
+   "uncertainties": [
+    "The identity of Indira’s brother here may be the moon or a jeweled object; context is needed."
+   ],
+   "plain_english": "And of the brother of Indira, who is made of the nine gems."
+  },
+  {
+   "verse": 1831,
+   "rows": [
+    {
+     "surface": "svarṇakuṭṭimasaṃśobhimahāratnamanorame",
+     "gloss": "gold-floor-shining-great-gem-delightful",
+     "grounds": "compound describing a place delightful with great gems and shining with a golden floor",
+     "morph": "compound: svarṇa-kuṭṭima-saṃśobhi-mahā-ratna-manorama, n.loc.sg"
+    }
+   ],
+   "question": "What makes the described location visually delightful and radiant?",
+   "premises": [
+    "The location has a golden floor.",
+    "The floor shines brightly.",
+    "The place is made delightful by great gems."
+   ],
+   "inference": "The setting is a radiant and charming place adorned with gold and precious gems.",
+   "uncertainties": [],
+   "plain_english": "In a place delightful with great gems and shining with a golden floor."
+  },
+  {
+   "verse": 1832,
+   "rows": [
+    {
+     "surface": "prasiddhavikramaughasya pakṣirājasya copari",
+     "gloss": "renowned-valor-multitude-of bird-king-of and-upon",
+     "grounds": "locative expression indicating a position above the king of birds, whose valor is renowned",
+     "morph": "compound: prasiddha-vikrama-oghasya, m.gen.sg; compound: pakṣi-rājasya, m.gen.sg; ca, (indecl.); upari, (indecl.)"
+    }
+   ],
+   "question": "Upon which renowned and valorous being is the figure situated?",
+   "premises": [
+    "A king of birds is mentioned.",
+    "This bird-king is known for abundant valor.",
+    "The position described is above him."
+   ],
+   "inference": "The figure is seated above the famed and valorous king of birds.",
+   "uncertainties": [
+    "The bird-king is likely Garuda, though not named explicitly in this token."
+   ],
+   "plain_english": "And upon the king of birds, renowned for his abundant valor."
+  },
+  {
+   "verse": 1833,
+   "rows": [
+    {
+     "surface": "ratnodyanmakarākāracārukuṇḍalamaṇḍitam",
+     "gloss": "gem-rising-makara-shaped-beautiful-earring-adorned",
+     "grounds": "compound describing someone adorned with beautiful earrings shaped like makaras rising with gems",
+     "morph": "compound: ratna-udyat-makara-ākāra-cāru-kuṇḍala-maṇḍita, m.acc.sg"
+    }
+   ],
+   "question": "What kind of earrings adorn the described divine figure?",
+   "premises": [
+    "The figure wears earrings.",
+    "The earrings are beautiful and shaped like makaras.",
+    "The makara forms are set with rising gems."
+   ],
+   "inference": "The figure is adorned with exquisite gem-studded makara-shaped earrings.",
+   "uncertainties": [],
+   "plain_english": "Adorned with beautiful gem-studded earrings shaped like makaras."
+  },
+  {
+   "verse": 1834,
+   "rows": [
+    {
+     "surface": "śaśikhaṇḍalasacchubhrakḷptāmalaviśeṣakam",
+     "gloss": "moon-piece-shining-white-made-pure-forehead-mark",
+     "grounds": "compound describing a pure forehead mark made bright and white like a shining piece of the moon",
+     "morph": "compound: śaśi-khaṇḍa-lasat-śubhra-kḷpta-amala-viśeṣaka, m.acc.sg"
+    }
+   ],
+   "question": "How is the forehead mark of the divine figure described?",
+   "premises": [
+    "The figure bears a forehead mark.",
+    "The mark is pure and well-made.",
+    "It shines white like a piece of the moon."
+   ],
+   "inference": "The forehead mark is a spotless, moon-bright adornment.",
+   "uncertainties": [],
+   "plain_english": "With a pure forehead mark made bright and white like a shining piece of the moon."
+  },
+  {
+   "verse": 1835,
+   "rows": [
+    {
+     "surface": "smitasaṃśobhivaktrendukapolaphalakojjvalam",
+     "gloss": "smile-beautified-face-moon-cheek-surface-radiant",
+     "grounds": "compound describing radiance from cheek surfaces beside a face-moon beautified by a smile",
+     "morph": "compound: smita-saṃśobhi-vaktra-indu-kapola-phalaka-ujjvala, m.acc.sg"
+    }
+   ],
+   "question": "What gives the figure’s cheeks their radiant brilliance?",
+   "premises": [
+    "The figure’s face is likened to the moon.",
+    "That face-moon is beautified by a smile.",
+    "The cheek surfaces shine radiantly beside it."
+   ],
+   "inference": "The smiling moon-like face makes the cheeks glow with radiance.",
+   "uncertainties": [],
+   "plain_english": "Radiant with cheek surfaces beside a moon-like face beautified by a smile."
+  },
+  {
+   "verse": 1836,
+   "rows": [
+    {
+     "surface": "pakvabimbādharaṃ ramyaraktapadmapalāśavat",
+     "gloss": "ripe-bimba-lip lovely-red-lotus-petal-like",
+     "grounds": "compound describing lips like a ripe bimba fruit and like lovely red lotus petals",
+     "morph": "compound: pakva-bimba-adhara, m.acc.sg; compound: ramya-rakta-padma-palāśa-vat, (indecl.)"
+    }
+   ],
+   "question": "To what are the divine figure’s lips compared for color and beauty?",
+   "premises": [
+    "The figure’s lips are mentioned.",
+    "They are compared to a ripe bimba fruit.",
+    "They are also compared to lovely red lotus petals."
+   ],
+   "inference": "The lips are vividly red and beautiful, like ripe bimba fruit and red lotus petals.",
+   "uncertainties": [],
+   "plain_english": "With lips like a ripe bimba fruit, like lovely red lotus petals."
+  },
+  {
+   "verse": 1837,
+   "rows": [
+    {
+     "surface": "uruhāramaṇivrātadīdhitiprollasadgalam",
+     "gloss": "large-necklace-gem-mass-ray-gleaming-neck",
+     "grounds": "compound describing a neck gleaming with rays from a mass of gems in a large necklace",
+     "morph": "compound: uru-hāra-maṇi-vrāta-dīdhiti-prollasad-gala, m.acc.sg"
+    }
+   ],
+   "question": "What causes the figure’s neck to gleam brilliantly?",
+   "premises": [
+    "The figure wears a large necklace.",
+    "The necklace contains a mass of gems.",
+    "Rays from those gems make the neck gleam."
+   ],
+   "inference": "The neck shines brightly from the radiance of the gem-studded necklace.",
+   "uncertainties": [],
+   "plain_english": "With a neck gleaming from the rays of gems in a large necklace."
+  },
+  {
+   "verse": 1838,
+   "rows": [
+    {
+     "surface": "gadākamalaśaṅkhāridhāriṇaṃ bāhudaṇḍakaiḥ",
+     "gloss": "mace-lotus-conch-disc-holding with-arm-staffs",
+     "grounds": "describes the figure holding mace, lotus, conch, and discus with staff-like arms",
+     "morph": "compound: gadā-kamala-śaṅkha-ari-dhārin, m.acc.sg; compound: bāhu-daṇḍakaiḥ, m.inst.pl"
+    }
+   ],
+   "question": "Which divine attributes are held by the figure’s strong arms?",
+   "premises": [
+    "The figure has staff-like arms.",
+    "The figure holds a mace, a lotus, a conch, and a discus.",
+    "These are held by those arms."
+   ],
+   "inference": "The figure is identified by bearing the mace, lotus, conch, and discus in powerful arms.",
+   "uncertainties": [],
+   "plain_english": "Holding the mace, lotus, conch, and discus with his staff-like arms."
+  },
+  {
+   "verse": 1839,
+   "rows": [
+    {
+     "surface": "lasatkaustubhadīptyoghavidyotitatalena ca",
+     "gloss": "shining-kaustubha-radiance-stream-illuminated-chest and",
+     "grounds": "compound describing a chest illuminated by streams of radiance from the shining Kaustubha gem",
+     "morph": "compound: lasat-kaustubha-dīpti-ogha-vidyotita-tala, m.inst.sg; ca, (indecl.)"
+    }
+   ],
+   "question": "What illuminates the chest of the described divine figure?",
+   "premises": [
+    "The figure wears the Kaustubha gem.",
+    "The Kaustubha shines brightly.",
+    "Streams of its radiance illuminate the chest."
+   ],
+   "inference": "The chest is lit up by the brilliant radiance of the Kaustubha gem.",
+   "uncertainties": [],
+   "plain_english": "And with a chest illuminated by streams of radiance from the shining Kaustubha gem."
+  },
+  {
+   "verse": 1840,
+   "rows": [
+    {
+     "surface": "trivalīśobhinā samyagromarājilasadrucā",
+     "gloss": "three-fold-beautified well-body-hair-line-shining-splendor",
+     "grounds": "compound describing a torso beautified by three folds and by the shining splendor of the line of body hair",
+     "morph": "compound: tri-valī-śobhin, m.inst.sg; compound: samyak-roma-rāji-lasat-ruc, m.inst.sg"
+    }
+   ],
+   "question": "What features beautify the figure’s torso with graceful lines and luster?",
+   "premises": [
+    "The torso has three folds.",
+    "There is a line of body hair.",
+    "Both the folds and the hair-line shine with beauty."
+   ],
+   "inference": "The torso is adorned by the triple folds and the radiant line of body hair.",
+   "uncertainties": [],
+   "plain_english": "Beautified by the three folds and by the shining splendor of the line of body hair."
+  },
+  {
+   "verse": 1841,
+   "rows": [
+    {
+     "surface": "pītapaṭṭāṃśukarucā vilasanmaṇimekhalam",
+     "gloss": "yellow-silk-garment-splendor shining-gem-belt",
+     "grounds": "describes the figure with the splendor of yellow silk and a shining jeweled belt",
+     "morph": "compound: pīta-paṭṭa-aṃśuka-ruc, m.inst.sg; compound: vilasat-maṇi-mekhala, m.acc.sg"
+    }
+   ],
+   "question": "What garments and ornaments adorn the figure’s waist and lower body?",
+   "premises": [
+    "The figure wears yellow silk.",
+    "The silk has a radiant splendor.",
+    "A jeweled belt shines at the waist."
+   ],
+   "inference": "The figure is adorned with radiant yellow silk and a glittering gem-studded belt.",
+   "uncertainties": [],
+   "plain_english": "With the splendor of yellow silk and a shining jeweled belt."
+  },
+  {
+   "verse": 1842,
+   "rows": [
+    {
+     "surface": "kekikaṇṭhalasatkāntijaṅghāyugamanoharam",
+     "gloss": "peacock-throat-shining-beauty-shank-pair-charming",
+     "grounds": "compound describing a pair of shanks charming with beauty shining like a peacock’s throat",
+     "morph": "compound: kekī-kaṇṭha-lasat-kānti-jaṅghā-yuga-manohara, m.acc.sg"
+    }
+   ],
+   "question": "How is the beauty of the figure’s pair of shanks characterized?",
+   "premises": [
+    "The figure has a pair of shanks.",
+    "Their beauty shines like a peacock’s throat.",
+    "This makes them charming."
+   ],
+   "inference": "The shanks are captivating with a lustrous beauty like that of a peacock’s neck.",
+   "uncertainties": [],
+   "plain_english": "Charming with a pair of shanks whose beauty shines like a peacock’s throat."
+  },
+  {
+   "verse": 1843,
+   "rows": [
+    {
+     "surface": "śaśaraktasadṛkkāntidhvajābjāṅkitapattalam",
+     "gloss": "hare-blood-like-luster-flag-lotus-marked-feet",
+     "grounds": "compound describing feet marked with flag and lotus, having a luster like hare’s blood",
+     "morph": "compound: śaśa-rakta-sadṛk-kānti-dhvaja-abja-aṅkita-pattala, m.acc.sg"
+    }
+   ],
+   "question": "What marks and color distinguish the soles of the figure’s feet?",
+   "premises": [
+    "The feet have a distinctive luster.",
+    "That luster is like the color of hare’s blood.",
+    "The soles are marked with a flag and a lotus."
+   ],
+   "inference": "The feet are reddish and bear the auspicious marks of the flag and lotus.",
+   "uncertainties": [
+    "The comparison 'hare’s blood' is a traditional color image; the exact shade is interpretive."
+   ],
+   "plain_english": "With feet marked by the flag and lotus, glowing with a luster like hare’s blood."
+  },
+  {
+   "verse": 1844,
+   "rows": [
+    {
+     "surface": "kṣamayā copagūḍhaṃ ca navamāṇikyaśobhitam",
+     "gloss": "by-forbearance and-embraced and new-ruby-adorned",
+     "grounds": "describes the figure embraced by Kshama (Forbearance) and adorned with new rubies",
+     "morph": "kṣamayā, f.inst.sg; ca, (indecl.); upagūḍham, m.acc.sg; ca, (indecl.); compound: nava-māṇikya-śobhita, m.acc.sg"
+    }
+   ],
+   "question": "Who embraces the figure and what jewels enhance his appearance?",
+   "premises": [
+    "The figure is embraced by Kshama.",
+    "The figure is adorned with new rubies.",
+    "Both companionship and ornamentation are highlighted."
+   ],
+   "inference": "The figure is lovingly embraced by Forbearance and beautified by fresh ruby ornaments.",
+   "uncertainties": [
+    "Kshama may be a personified goddess or the quality of forbearance; the verse suggests personification."
+   ],
+   "plain_english": "Embraced by Kshama and adorned with new rubies."
+  },
+  {
+   "verse": 1845,
+   "rows": [
+    {
+     "surface": "surāsurarṣipramukhaiḥ sevitaṃ cāpsarogaṇaiḥ",
+     "gloss": "god-demon-sage-chief-by served and-apsara-group-by",
+     "grounds": "describes the figure being served by gods, demons, sages, and groups of apsaras",
+     "morph": "compound: sura-asura-ṛṣi-pramukhaiḥ, m.inst.pl; sevitam, m.acc.sg; ca, (indecl.); compound: apsaras-gaṇaiḥ, m.inst.pl"
+    }
+   ],
+   "question": "Which diverse beings attend upon the described divine figure?",
+   "premises": [
+    "Gods, demons, and sages are present.",
+    "Groups of apsaras are also present.",
+    "All of them serve the figure."
+   ],
+   "inference": "The figure is honored and attended by beings from across the divine and celestial realms.",
+   "uncertainties": [],
+   "plain_english": "Served by gods, demons, sages, and hosts of apsaras."
+  },
+  {
+   "verse": 1846,
+   "rows": [
+    {
+     "surface": "surayopākarābjālilasaccāmararājitam",
+     "gloss": "by-sura-with-offering-lotus-row-shining-chowrie-adorned",
+     "grounds": "compound describing the figure adorned with shining chowries held amid rows of lotuses offered by Sura",
+     "morph": "compound: surayā-upākara-abja-āli-lasat-cāmara-rājita, m.acc.sg"
+    }
+   ],
+   "question": "What ceremonial honors surround the figure in this scene?",
+   "premises": [
+    "Offerings of lotuses are present.",
+    "Shining chowries are waving.",
+    "These honors adorn the figure."
+   ],
+   "inference": "The figure is ceremonially honored with lotus offerings and gleaming chowries.",
+   "uncertainties": [
+    "The identity of 'Sura' as the offerer is not fully specified in this token."
+   ],
+   "plain_english": "Adorned with shining chowries amid rows of lotuses offered in worship."
+  },
+  {
+   "verse": 1847,
+   "rows": [
+    {
+     "surface": "yakṣavidyādharavyūhacāraṇādiniṣevitam",
+     "gloss": "yaksha-vidyadhara-host-carana-etc-served",
+     "grounds": "compound describing the figure served by hosts of yakshas, vidyadharas, caranas, and others",
+     "morph": "compound: yakṣa-vidyādhara-vyūha-cāraṇa-ādi-niṣevita, m.acc.sg"
+    }
+   ],
+   "question": "What other celestial hosts are depicted as serving the figure?",
+   "premises": [
+    "Yakshas and vidyadharas are mentioned.",
+    "Caranas and others are included.",
+    "These hosts serve the figure."
+   ],
+   "inference": "A wide array of celestial beings attends and serves the divine figure.",
+   "uncertainties": [],
+   "plain_english": "Served by hosts of yakshas, vidyadharas, caranas, and others."
+  },
+  {
+   "verse": 1848,
+   "rows": [
+    {
+     "surface": "kṛśānūpamajyotiṣā grastadaityaṃ śiraḥśobhidaṃṣṭrāsudīptadvijihvam",
+     "gloss": "fire-like-light-by swallowed-demon head-beautifying-fang-very-bright-two-tongue",
+     "grounds": "compound describing a being who has swallowed a demon with fire-like light, with head-beautifying fangs and two very bright tongues",
+     "morph": "compound: kṛśānu-upama-jyotis, n.inst.sg; compound: grasta-daitya, m.acc.sg; compound: śiras-śobhi-daṃṣṭrā-su-dīpta-dvi-jihva, m.acc.sg"
+    }
+   ],
+   "question": "What fearsome act and features characterize this radiant being?",
+   "premises": [
+    "The being emits light like fire.",
+    "A demon has been swallowed by this being.",
+    "The being has head-beautifying fangs and two very bright tongues."
+   ],
+   "inference": "The being is depicted as a fiery, fearsome devourer of a demon with striking fangs and twin tongues.",
+   "uncertainties": [
+    "The exact mythic identity of this being is not explicit in this token alone."
+   ],
+   "plain_english": "With fire-like radiance he has swallowed a demon, his head adorned with fangs and two very bright tongues."
+  },
+  {
+   "verse": 1849,
+   "rows": [
+    {
+     "surface": "veṇumādāya hastābhyāṃ vādayantaṃ mudānvitam",
+     "gloss": "flute-having-taken with-two-hands playing joy-endowed",
+     "grounds": "describes the figure taking a flute in both hands, playing it, and filled with joy",
+     "morph": "veṇum, m.acc.sg; ādāya, (indecl., absolutive); hastābhyām, m.inst.dual; vādayantam, m.acc.sg.pres.part.act; compound: mudā-anvita, m.acc.sg"
+    }
+   ],
+   "question": "What joyful musical action is the divine figure performing?",
+   "premises": [
+    "The figure takes a flute.",
+    "The flute is held and played with both hands.",
+    "The figure is filled with joy while playing."
+   ],
+   "inference": "The divine figure is joyfully playing the flute with both hands.",
+   "uncertainties": [],
+   "plain_english": "Taking the flute in both hands, playing it, filled with joy."
+  }
+ ]
+}

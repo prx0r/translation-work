@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "aṣṭamāṃśadvayena",
+     "gloss": "by-two-eighth-parts",
+     "grounds": "instrumental compound specifying the measure; aṣṭama-aṃśa-dvaya",
+     "morph": "compound:aṣṭama+member,aṃśa+member,dvaya+head; n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyato",
+     "gloss": "from-middle",
+     "grounds": "indicates the point of origin for the measurement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartulaṃ",
+     "gloss": "round",
+     "grounds": "describes the resulting shape of the fire pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What measurement from the center produces a circular fire pit?",
+   "premises": [
+    "The prescribed measure is two eighth-parts.",
+    "This measure is taken from the middle point.",
+    "Applying this measure yields a round shape."
+   ],
+   "inference": "Therefore the fire pit becomes circular when drawn with a radius of two eighth-parts from the center.",
+   "uncertainties": [
+    "The use of a compass is implied from the preceding verse but not stated explicitly."
+   ],
+   "plain_english": "Indeed, by taking two eighth-parts from the middle, it should become round."
+  }
+ ]
+}

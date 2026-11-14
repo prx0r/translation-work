@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "pītāmbarā",
+     "gloss": "yellow-robed",
+     "grounds": "bahuvrīhi compound pīta-ambara",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhoginī",
+     "gloss": "enjoyer",
+     "grounds": "feminine agentive noun from bhoga",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmyakuṇḍe",
+     "gloss": "in-southern-basin",
+     "grounds": "compound yāmya-kuṇḍa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres pra-śaṃs"
+    }
+   ],
+   "question": "Which alternative female power is commended in the southern basin?",
+   "premises": [
+    "A yellow-robed female power is named.",
+    "She is identified as an enjoyer.",
+    "Her locus is the southern basin."
+   ],
+   "inference": "The yellow-robed enjoyer is the commended presence in the southern basin.",
+   "uncertainties": [
+    "Whether kuṇḍa refers to a ritual basin or a subtle center is not specified."
+   ],
+   "plain_english": "Or the yellow-robed Bhoginī is praised in the southern basin."
+  }
+ ]
+}

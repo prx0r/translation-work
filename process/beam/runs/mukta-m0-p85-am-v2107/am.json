@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2107,
- "question": "What crown and posture identify the female figure upon the lotus seat?",
+ "question": "How should the construction be fashioned using bricks and proportional divisions?",
  "premises": [
-  "The figure is endowed with a basket-shaped crown.",
-  "The figure is upon a lotus seat.",
-  "The figure is standing."
+  "The construction requires proportional division.",
+  "The divisions are specified as nine and eleven parts.",
+  "Bricks are the material used for fashioning it."
  ],
- "inference": "The female figure stands upon a lotus seat wearing a basket-shaped crown.",
- "uncertainties": [],
- "plain_english": "She wears a basket-shaped crown and stands upon a lotus seat."
+ "inference": "One should fashion it with those bricks according to nine and eleven parts.",
+ "uncertainties": [
+  "The precise application of nine versus eleven parts is not fully specified."
+ ],
+ "plain_english": "One should fashion it with those bricks in nine or eleven parts."
 }

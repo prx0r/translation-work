@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2036,
- "question": "What alternative crown types are specified for different depictions of the deity?",
+ "question": "How do the concluding modes differ between the stability wheel and the dissolution context?",
  "premises": [
-  "One depiction includes a basket-shaped crown.",
-  "Another depiction features a crown of its own circle.",
-  "The alternatives are explicitly distinguished."
+  "The stability wheel has a specific conclusion",
+  "The dissolution context has a different conclusion",
+  "Each conclusion matches its domain"
  ],
- "inference": "The deity may be shown with either a basket crown or a crown of its own circle.",
- "uncertainties": [
-  "The exact referent of svamaṇḍala is uncertain."
- ],
- "plain_english": "In one form he wears a basket-shaped crown, while in another he wears a crown of his own circle."
+ "inference": "The stability wheel ends in stability, while dissolution ends in dissolution",
+ "uncertainties": [],
+ "plain_english": "In the stability wheel the conclusion is stability, but in dissolution the conclusion is dissolution."
 }

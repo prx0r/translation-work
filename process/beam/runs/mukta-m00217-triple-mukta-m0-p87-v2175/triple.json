@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "kulīrasiṃhāvatha",
+     "gloss": "cancer-and-lion-then",
+     "grounds": "dvandva compound 'kulīra-siṃhau' (cancer and lion) fused with following particle 'atha'",
+     "morph": "compound:kulīra+siṃha(m.nom.du)+atha(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating correspondence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannir-ṛtyāṃ",
+     "gloss": "in-that-nirṛti-direction",
+     "grounds": "compound referring to the Nirṛti quarter; locative of place/direction",
+     "morph": "compound:tad+nirṛti(f.loc.sg)"
+    },
+    {
+     "surface": "kanyakā",
+     "gloss": "virgin",
+     "grounds": "zodiac sign Virgo",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating correspondence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which zodiac signs are assigned in the Nirṛti direction for the prescribed ritual fire-pits?",
+   "premises": [
+    "Cancer and Leo are specified as the relevant signs.",
+    "The specification applies in the Nirṛti direction.",
+    "Virgo is likewise assigned in that context."
+   ],
+   "inference": "In the Nirṛti direction, the fire-pits are associated with Cancer and Leo, and likewise with Virgo.",
+   "uncertainties": [
+    "The exact syntactic scope of each 'tathā' in relation to the preceding instructions is slightly ambiguous without broader ritual context."
+   ],
+   "plain_english": "Then Cancer and Leo are assigned, and likewise in the Nirṛti direction Virgo is assigned."
+  }
+ ]
+}
