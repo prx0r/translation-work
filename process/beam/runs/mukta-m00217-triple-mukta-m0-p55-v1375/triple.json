@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "jāgratsvapnasuṣuptyaśca",
+     "gloss": "waking-dream-deep-sleep-and",
+     "grounds": "dvandva compound of jāgrat, svapna, suṣupti with enclitic ca fused",
+     "morph": "compound.f.nom.pl+indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "turīyā",
+     "gloss": "fourth",
+     "grounds": "the fourth state of consciousness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle",
+     "morph": "f.nom.pl.ppp.pra-√kīrt"
+    }
+   ],
+   "question": "Which four states of consciousness are proclaimed as established here?",
+   "premises": [
+    "Waking, dream, and deep sleep are enumerated together.",
+    "The fourth state is included alongside these three.",
+    "All these states are explicitly proclaimed."
+   ],
+   "inference": "Waking, dream, deep sleep, and the fourth are formally declared as the recognized states.",
+   "uncertainties": [
+    "The grammatical number of turīyā differs from the plural predicate prakīrtitāḥ, which encompasses all listed states."
+   ],
+   "plain_english": "Waking, dream, deep sleep, and the fourth state are proclaimed."
+  }
+ ]
+}

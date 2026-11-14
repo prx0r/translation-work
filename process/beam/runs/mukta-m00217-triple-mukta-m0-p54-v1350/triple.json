@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāre",
+     "gloss": "in-sixteen-spoked",
+     "grounds": "locative of compound ṣoḍaśa-āra indicating the sixteen-petaled enclosure",
+     "morph": "ṣoḍaśa+āra; n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "compound pūrva-ādi indicating sequence starting from the eastern direction",
+     "morph": "pūrva+ādi; n.nom.sg"
+    },
+    {
+     "surface": "śrīpātrāmṛtabindubhiḥ",
+     "gloss": "with-auspicious-vessel-nectar-drops",
+     "grounds": "instrumental plural of compound śrī-pātra-amṛta-bindu denoting drops of nectar from the sacred vessel",
+     "morph": "śrī+pātra+amṛta+bindu; m.inst.pl"
+    }
+   ],
+   "question": "Where and with what substance does the ritual sequence proceed in the sixteen-petaled enclosure?",
+   "premises": [
+    "The ritual locus is the sixteen-spoked enclosure.",
+    "The sequence begins from the eastern direction.",
+    "Drops of nectar from the auspicious vessel are the employed substance."
+   ],
+   "inference": "The ritual sequence in the sixteen-petaled enclosure proceeds eastward using nectar drops from the auspicious vessel.",
+   "uncertainties": [
+    "The governing verb is supplied from context and not explicit in this verse."
+   ],
+   "plain_english": "But in the sixteen-petaled enclosure, beginning from the east, it is done with drops of nectar from the auspicious vessel."
+  }
+ ]
+}
