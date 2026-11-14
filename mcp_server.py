@@ -173,6 +173,22 @@ def audit_align(work: str = "", all: bool = False) -> dict:
     return _run(cmd, timeout=3600)
 
 
+@mcp.tool()
+def verify_core(work: str = "") -> dict:
+    """Re-verify the Trika core from current bytes — do NOT trust stored proofs.
+    For every REGISTRY work (or one work) recomputes each song's deterministic
+    gate + schema validation and reports where reality differs from the stored
+    claim: REGRESSION (stored PASS, recompute BLOCKED), IMPROVED, GATE-OK,
+    NO-PROOF, VALIDATE-ERR. Also align min-ratio distribution and how many
+    verses lean on a disposition. Writes nothing. The honesty check: if this
+    is not clean, the "gold" count is not fully true. Backed by
+    tools/verify_core.py."""
+    cmd = ["tools/verify_core.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    return _run(cmd, timeout=3600)
+
+
 def _lore_path(work: str) -> Path | None:
     """Transmission brief for a work's front.
 
@@ -903,7 +919,7 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
          "recycle", "watchdog", "progress", "queue_guard",
-         "serve_status", "make_readable", "make_traces", "health", "audit_align"]
+         "serve_status", "make_readable", "make_traces", "health", "audit_align", "verify_core"]
 
 
 if __name__ == "__main__":

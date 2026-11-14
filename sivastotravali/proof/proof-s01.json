@@ -4,13 +4,17 @@
  "work": "sivastotravali",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [],
- "mode": "shastra",
+ "warnings": [
+  "LEDGER_GLOSS_MISSING ['bhaktiśālin=possessor-of-devotion', 'samāveśa=immersion']"
+ ],
  "source_sha": "1da56456ffbd9ba6",
+ "source_digest_normalized_sha256": "1da56456ffbd9ba668634269607391c53f315c6145187edc1522ebfd070cccd9",
+ "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/sivastotravali-u.txt",
  "source_verses": 26,
  "t1_verses": 26,
  "l0": {
-  "parsed": 0,
+  "parsed": 342,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 342
@@ -35,15 +39,18 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 78,
+ "c1_words": 45,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 52,
+  "checked": 26,
   "failures": []
  },
  "ledger": {
-  "pairs": 0,
-  "gloss_missing_in_l2": []
+  "pairs": 6,
+  "gloss_missing_in_l2": [
+   "bhaktiśālin=possessor-of-devotion",
+   "samāveśa=immersion"
+  ]
  },
  "data_objects": {
   "errors": [],
@@ -82,9 +89,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "1da56456ffbd9ba6",
-  "t1": "s01/data/s01.t1.json",
-  "l0": "s01/data/s01.l0.json",
-  "l2": "s01/data/s01.l2.json",
-  "c1": "s01/data/s01.c1.json"
+  "t1": "T1-s01.md",
+  "l0": "T1-s01.l0.jsonl",
+  "l2": "L2-s01.md",
+  "c1": "c1/C1-s01.md"
  }
 }
