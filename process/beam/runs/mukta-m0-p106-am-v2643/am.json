@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p106",
  "verse": 2643,
- "question": "Where is the next sacred location situated relative to Kedāra’s northern direction?",
+ "question": "What alternative nadyāvarta should be temple-like and adorned?",
  "premises": [
-  "The reference point is Kedāra.",
-  "The direction specified is northern.",
-  "The distance is within three arrow-throws."
+  "nadyāvarta is named",
+  "alternative should be",
+  "temple-like is named",
+  "adorned is named"
  ],
- "inference": "The location lies in Kedāra’s northern direction within three arrow-throws.",
- "uncertainties": [],
- "plain_english": "And in the northern direction of Kedāra, within the distance of three arrow-throws."
+ "inference": "The verse prescribes an alternative nadyāvarta that is temple-like and adorned.",
+ "uncertainties": [
+  "nadyāvarta variant"
+ ],
+ "plain_english": "An alternative nadyāvarta should be temple-like and adorned."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2546,
- "question": "What mental, knowledge-destroying obstacles is the beloved asked to hear about?",
+ "question": "Which enclosure-endowed variants are arranged by two parts or broad enclosure?",
  "premises": [
-  "The obstacles are described as mental.",
-  "They are described as knowledge-destroying.",
-  "The beloved is asked to hear about them from the speaker."
+  "enclosure-endowed form is named",
+  "two parts are named",
+  "broad enclosure is named"
  ],
- "inference": "The beloved is asked to hear about mental obstacles that destroy knowledge.",
- "uncertainties": [],
- "plain_english": "Hear from me, O beloved, about those mental obstacles that destroy knowledge."
+ "inference": "The enclosure-endowed form may be by two parts or with broad enclosure.",
+ "uncertainties": [
+  "choice conditions"
+ ],
+ "plain_english": "Endowed with enclosure by two parts, or with broad enclosure."
 }

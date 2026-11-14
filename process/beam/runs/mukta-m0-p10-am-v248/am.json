@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 248,
- "question": "What was declared in the thirty-fifth chapter?",
+ "question": "Which phonetic units are enumerated for this mantra sequence?",
  "premises": [
-  "The verse names the thirty-fifth chapter.",
-  "It says declared.",
-  "It refers to prior teaching."
+  "The verse lists phonetic units.",
+  "The listed items are treated as units.",
+  "The sequence is presented as an enumeration."
  ],
- "inference": "The relevant teaching was declared in the thirty-fifth chapter.",
+ "inference": "The verse enumerates phonetic units in sequence.",
  "uncertainties": [
-  "The exact teaching is not repeated here."
+  "Exact doctrinal referent remains unclear from the supplied token list."
  ],
- "plain_english": "As declared in the thirty-fifth chapter."
+ "plain_english": "The verse enumerates phonetic units."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2685,
- "question": "What sequence of movement follows bathing at Durlabhā?",
+ "question": "What width and length define the middle hall?",
  "premises": [
-  "Bathing is performed.",
-  "The bathing occurs at Durlabhā.",
-  "Going to the house of Hari is prescribed afterward."
+  "The middle hall has two-part width",
+  "Its length is joined with six parts",
+  "The dimensions are specified separately"
  ],
- "inference": "After bathing at Durlabhā, one should proceed to the house of Hari.",
- "uncertainties": [],
- "plain_english": "Having bathed, afterwards at Durlabhā, one should then go to the house of Hari."
+ "inference": "The middle hall has a width of two parts and a length joined with six parts.",
+ "uncertainties": [
+  "Whether the six parts are added or total is not explicit"
+ ],
+ "plain_english": "In the middle, the width is two parts and the length is joined with six parts."
 }

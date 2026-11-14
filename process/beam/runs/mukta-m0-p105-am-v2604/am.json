@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2604,
- "question": "Where is the next sacred location situated in relation to the landscape?",
+ "question": "What stair and door features join the courtyard in this plan?",
  "premises": [
-  "The location is in the north",
-  "It lies on a lake shore",
-  "It is on Mount Bhadrakāśaka"
+  "left stair is joined",
+  "eye-pair door is joined"
  ],
- "inference": "The sacred location is on the shore of a lake on Mount Bhadrakāśaka in the north.",
- "uncertainties": [],
- "plain_english": "And in the north, on the shore of a lake, on Mount Bhadrakāśaka."
+ "inference": "The courtyard is joined with a left stair and a paired-eye door.",
+ "uncertainties": [
+  "exact meaning of eye-pair door"
+ ],
+ "plain_english": "It is joined with a left stair and a door with paired eyes."
 }

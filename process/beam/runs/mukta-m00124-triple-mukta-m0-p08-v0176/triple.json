@@ -1,0 +1,1296 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "token as given",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How is the seed syllable paired with fire in this construction?",
+   "premises": [
+    "pair is named",
+    "fire is named",
+    "seed is named"
+   ],
+   "inference": "The verse links pair, fire, and seed as one construction.",
+   "uncertainties": [
+    "exact syntactic relation unclear"
+   ],
+   "plain_english": "A pair is joined with fire and seed."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "bhedo",
+     "gloss": "difference",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dvitīya",
+     "gloss": "second",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "sthaṃ",
+     "gloss": "situated",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "dhātu",
+     "gloss": "element",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "prior",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How does the second seed differ from the prior element in order?",
+   "premises": [
+    "difference is named",
+    "second seed is named",
+    "prior element is named"
+   ],
+   "inference": "The verse orders a second seed after a prior element.",
+   "uncertainties": [
+    "exact difference unspecified"
+   ],
+   "plain_english": "The second seed is situated after the prior element in order."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "sadyojātādayo",
+     "gloss": "sadyojāta-etc",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "there",
+     "grounds": "token as given",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhayaṃ",
+     "gloss": "both",
+     "grounds": "token as given",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can both readings stand in the same place for sadyojāta and related forms?",
+   "premises": [
+    "sadyojāta-etc is named",
+    "place is named",
+    "both is named"
+   ],
+   "inference": "The verse allows both alternatives in that place.",
+   "uncertainties": [
+    "exact alternatives unspecified"
+   ],
+   "plain_english": "Either sadyojāta forms or both may occupy that place."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "pāṭhaḥ",
+     "gloss": "reading",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What reading is being established for this mantra unit?",
+   "premises": [
+    "reading is named"
+   ],
+   "inference": "The verse names a reading.",
+   "uncertainties": [
+    "reading content unspecified"
+   ],
+   "plain_english": "A reading is given."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "other",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "manner",
+     "grounds": "token as given",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "token as given",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How else may a mantra's characteristic be described?",
+   "premises": [
+    "other manner is named",
+    "mantra is named",
+    "characteristic is named"
+   ],
+   "inference": "The verse offers another way to state mantra characteristics.",
+   "uncertainties": [
+    "exact manner unspecified"
+   ],
+   "plain_english": "Otherwise a mantra's characteristic is said in another manner."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "hṛc",
+     "gloss": "heart",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "cūḍā",
+     "gloss": "crown",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "āsya",
+     "gloss": "face",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tanutrāṇa",
+     "gloss": "protection",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "upward",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dṛg",
+     "gloss": "sight",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "astra",
+     "gloss": "weapon",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kān",
+     "gloss": "kān",
+     "grounds": "token as given",
+     "morph": "pron.acc.pl.m"
+    }
+   ],
+   "question": "Which mantra limbs are named from heart through weapon?",
+   "premises": [
+    "heart is named",
+    "crown is named",
+    "face is named",
+    "protection is named",
+    "upward is named",
+    "root is named",
+    "sight is named",
+    "weapon is named"
+   ],
+   "inference": "The verse lists mantra limbs from heart to weapon.",
+   "uncertainties": [
+    "exact grammatical role of kān unclear"
+   ],
+   "plain_english": "Heart, crown, face, protection, upward, root, sight, and weapon are named."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "analāsana",
+     "gloss": "fire-seat",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ārūḍho",
+     "gloss": "mounted",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vyoma",
+     "gloss": "space",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "indu",
+     "gloss": "moon",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhāskaraiḥ",
+     "gloss": "sun",
+     "grounds": "token as given",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "How is the syllable mounted on fire-seat with space, moon, and sun?",
+   "premises": [
+    "or is named",
+    "fire-seat is named",
+    "mounted is named",
+    "syllable is named",
+    "space is named",
+    "moon is named",
+    "sun is named"
+   ],
+   "inference": "The verse describes a syllable mounted on fire-seat with celestial supports.",
+   "uncertainties": [
+    "exact construction unclear"
+   ],
+   "plain_english": "Or the syllable is mounted on fire-seat with space, moon, and sun."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "token as given",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "bhūtastu",
+     "gloss": "bhūta",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "prāgvad",
+     "gloss": "as-before",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "token as given",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kalpanā",
+     "gloss": "arrangement",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "How is this root mantra's limb arrangement made as before?",
+   "premises": [
+    "mantra is named",
+    "this is named",
+    "root is named",
+    "bhūta is named",
+    "as-before is named",
+    "its is named",
+    "limb is named",
+    "arrangement is named"
+   ],
+   "inference": "The verse says this root mantra's limb arrangement follows the prior pattern.",
+   "uncertainties": [
+    "exact bhūta role unclear"
+   ],
+   "plain_english": "This root mantra's limb arrangement is as before."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "khabījā",
+     "gloss": "space-seed",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "anala",
+     "gloss": "fire",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bījasthaṃ",
+     "gloss": "seed-situated",
+     "grounds": "token as given",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kāraṇa",
+     "gloss": "cause",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "sitārṇakam",
+     "gloss": "white-syllable",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is the space-seed situated in fire as cause of the white syllable?",
+   "premises": [
+    "space-seed is named",
+    "fire is named",
+    "seed-situated is named",
+    "cause is named",
+    "stated is named",
+    "white-syllable is named"
+   ],
+   "inference": "The verse states the space-seed in fire as cause of the white syllable.",
+   "uncertainties": [
+    "exact causal relation unclear"
+   ],
+   "plain_english": "The space-seed situated in fire is stated as cause of the white syllable."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahma",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "saṃkḷptiḥ",
+     "gloss": "arrangement",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "anuloma",
+     "gloss": "anuloma",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vilomataḥ",
+     "gloss": "viloma",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How is brahma's limb arrangement made in anuloma and viloma order?",
+   "premises": [
+    "there is named",
+    "brahma is named",
+    "limb is named",
+    "arrangement is named",
+    "anuloma is named",
+    "viloma is named"
+   ],
+   "inference": "The verse describes brahma limb arrangement in forward and reverse order.",
+   "uncertainties": [
+    "exact arrangement unspecified"
+   ],
+   "plain_english": "There brahma's limb arrangement is anuloma and viloma."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "sanāmi",
+     "gloss": "with-name",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "saṃlikhya",
+     "gloss": "having-drawn",
+     "grounds": "token as given",
+     "morph": "ger"
+    },
+    {
+     "surface": "prāgdalādyakṣarān",
+     "gloss": "east-petal-etc",
+     "grounds": "token as given",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "places",
+     "grounds": "token as given",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How are east-petal letters placed after drawing the named lotus?",
+   "premises": [
+    "with-name is named",
+    "lotus is named",
+    "having-drawn is named",
+    "east-petal-etc is named",
+    "places is named"
+   ],
+   "inference": "The verse instructs drawing a named lotus and placing east-petal letters.",
+   "uncertainties": [
+    "exact placement order unclear"
+   ],
+   "plain_english": "Having drawn the named lotus, one places east-petal letters."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "pradakṣiṇaṃ",
+     "gloss": "clockwise",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "nyāso",
+     "gloss": "placement",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "uddhāro",
+     "gloss": "extraction",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dala",
+     "gloss": "petal",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "order",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How is clockwise placement used for mantra extraction by petal order?",
+   "premises": [
+    "thus is named",
+    "clockwise is named",
+    "placement is named",
+    "mantra is named",
+    "extraction is named",
+    "petal is named",
+    "order is named"
+   ],
+   "inference": "The verse links clockwise placement, mantra extraction, and petal order.",
+   "uncertainties": [
+    "exact extraction method unclear"
+   ],
+   "plain_english": "Thus clockwise placement extracts the mantra by petal order."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "token as given",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "nipātāśca",
+     "gloss": "particles",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "viśveśa",
+     "gloss": "viśveśa",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "svarādyo",
+     "gloss": "vowel-etc",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asvarādikam",
+     "gloss": "vowel-etc",
+     "grounds": "token as given",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which particles and vowel forms are excluded from the non-vowel class?",
+   "premises": [
+    "which is named",
+    "particles is named",
+    "viśveśa is named",
+    "vowel-etc is named",
+    "not is named",
+    "vowel-etc is named"
+   ],
+   "inference": "The verse distinguishes particles and vowel forms from non-vowel forms.",
+   "uncertainties": [
+    "exact classification unclear"
+   ],
+   "plain_english": "Particles and vowel forms are not the non-vowel class."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "manetātāśca",
+     "gloss": "manetātāśca",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "siddhaṃ",
+     "gloss": "siddha",
+     "grounds": "token as given",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "yā",
+     "gloss": "yā",
+     "grounds": "token as given",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "dīpako",
+     "gloss": "lamp",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kathayo",
+     "gloss": "says",
+     "grounds": "token as given",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "upakṛt",
+     "gloss": "upakṛt",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What does the lamp say about siddha and upakṛt?",
+   "premises": [
+    "manetātāśca is named",
+    "siddha is named",
+    "yā is named",
+    "lamp is named",
+    "says is named",
+    "upakṛt is named"
+   ],
+   "inference": "The verse has a lamp speak about siddha and upakṛt.",
+   "uncertainties": [
+    "exact meaning of manetātāśca unclear"
+   ],
+   "plain_english": "The lamp says something about siddha and upakṛt."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "dhyāśiyaśca",
+     "gloss": "dhyāśiyaśca",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "yakāraśca",
+     "gloss": "ya-kāra",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vakāro",
+     "gloss": "va-kāra",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "yaśca",
+     "gloss": "yaśca",
+     "grounds": "token as given",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "tataḥ",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How are ya-kāra and va-kāra related to dhyāśiyaśca?",
+   "premises": [
+    "dhyāśiyaśca is named",
+    "ya-kāra is named",
+    "va-kāra is named",
+    "yaśca is named",
+    "vā is named",
+    "tataḥ is named"
+   ],
+   "inference": "The verse groups ya-kāra and va-kāra with dhyāśiyaśca.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Dhyāśiyaśca, ya-kāra, and va-kāra are grouped."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "jñārvāvanto",
+     "gloss": "jñārvāvanto",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "dhūk",
+     "gloss": "dhūk",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyautat",
+     "gloss": "niyautat",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tad",
+     "gloss": "tad",
+     "grounds": "token as given",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "visargataḥ",
+     "gloss": "visarga",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How is the twofold class connected to visarga?",
+   "premises": [
+    "jñārvāvanto is named",
+    "twofold is named",
+    "dhūk is named",
+    "ca is named",
+    "niyautat is named",
+    "tad is named",
+    "visarga is named"
+   ],
+   "inference": "The verse connects a twofold class with visarga.",
+   "uncertainties": [
+    "exact class unclear"
+   ],
+   "plain_english": "A twofold class is connected to visarga."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "varau",
+     "gloss": "varau",
+     "grounds": "token as given",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "dvarādyau",
+     "gloss": "dvarādyau",
+     "grounds": "token as given",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "tuścaiva",
+     "gloss": "tuścaiva",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nadāvante",
+     "gloss": "nadāvante",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ne",
+     "gloss": "ne",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are varau and dvarādyau placed with nadāvante?",
+   "premises": [
+    "varau is named",
+    "dvarādyau is named",
+    "tuścaiva is named",
+    "nadāvante is named",
+    "tathā is named",
+    "ca is named",
+    "ne is named"
+   ],
+   "inference": "The verse places varau and dvarādyau with nadāvante.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Varau and dvarādyau are placed with nadāvante."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "nirgarhāsī",
+     "gloss": "nirgarhāsī",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "prasā",
+     "gloss": "prasā",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "prāścai",
+     "gloss": "prāścai",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "svakuśāmī",
+     "gloss": "svakuśāmī",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "plako",
+     "gloss": "plako",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "tataḥ",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How do nirgarhāsī and prasā relate to svakuśāmī?",
+   "premises": [
+    "nirgarhāsī is named",
+    "prasā is named",
+    "prāścai is named",
+    "svakuśāmī is named",
+    "plako is named",
+    "tataḥ is named"
+   ],
+   "inference": "The verse groups these terms with svakuśāmī.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Nirgarhāsī, prasā, and related terms are grouped with svakuśāmī."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "vaśca",
+     "gloss": "vaśca",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "svaśca",
+     "gloss": "svaśca",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "token as given",
+     "morph": "adv"
+    },
+    {
+     "surface": "dīṃścastisṛ",
+     "gloss": "dīṃścastisṛ",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "dhūthamate",
+     "gloss": "dhūthamate",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How are vaśca and svaśca grouped with dīṃścastisṛ?",
+   "premises": [
+    "vaśca is named",
+    "svaśca is named",
+    "tathā is named",
+    "dīṃścastisṛ is named",
+    "dhūthamate is named",
+    "tathā is named"
+   ],
+   "inference": "The verse groups vaśca and svaśca with dīṃścastisṛ.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Vaśca and svaśca are grouped with dīṃścastisṛ."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "śāgīndra",
+     "gloss": "śāgīndra",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "iguścaiva",
+     "gloss": "iguścaiva",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoravyamavarāṭikāḥ",
+     "gloss": "yoravyamavarāṭikāḥ",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.f"
+    }
+   ],
+   "question": "How is śāgīndra connected to yoravyamavarāṭikāḥ?",
+   "premises": [
+    "śāgīndra is named",
+    "iguścaiva is named",
+    "yoravyamavarāṭikāḥ is named"
+   ],
+   "inference": "The verse connects śāgīndra with yoravyamavarāṭikāḥ.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Śāgīndra is connected to yoravyamavarāṭikāḥ."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "savisarge",
+     "gloss": "savisarge",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "makārastu",
+     "gloss": "makāra",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vyontāśca",
+     "gloss": "vyontāśca",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavau",
+     "gloss": "bhavau",
+     "grounds": "token as given",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How is makāra in savisarge distinguished from bhavau?",
+   "premises": [
+    "savisarge is named",
+    "makāra is named",
+    "vyontāśca is named",
+    "not is named",
+    "bhavau is named",
+    "tathā is named"
+   ],
+   "inference": "The verse distinguishes makāra in savisarge from bhavau.",
+   "uncertainties": [
+    "exact distinction unclear"
+   ],
+   "plain_english": "Makāra in savisarge is not bhavau."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "taśaśca",
+     "gloss": "taśaśca",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "darśikāronte",
+     "gloss": "darśikāronte",
+     "grounds": "token as given",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "mayaṣkā",
+     "gloss": "mayaṣkā",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "syāścave",
+     "gloss": "syāścave",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How are taśaśca and syāścave placed with darśikāronte?",
+   "premises": [
+    "taśaśca is named",
+    "darśikāronte is named",
+    "mayaṣkā is named",
+    "syāścave is named",
+    "tathā is named"
+   ],
+   "inference": "The verse groups taśaśca and syāścave with darśikāronte.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Taśaśca and syāścave are grouped with darśikāronte."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "maśca",
+     "gloss": "maśca",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "dīpotha",
+     "gloss": "dīpotha",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rāgārvā",
+     "gloss": "rāgārvā",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "sūrūpū",
+     "gloss": "sūrūpū",
+     "grounds": "token as given",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "pagvasūpava",
+     "gloss": "pagvasūpava",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How are maśca and rāgārvā grouped with dīpotha?",
+   "premises": [
+    "maśca is named",
+    "dīpotha is named",
+    "rāgārvā is named",
+    "sūrūpū is named",
+    "pagvasūpava is named"
+   ],
+   "inference": "The verse groups maśca and rāgārvā with dīpotha.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Maśca and rāgārvā are grouped with dīpotha."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "token as given",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "svarādyātha",
+     "gloss": "svarādyātha",
+     "grounds": "token as given",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhūrāmodhiśakhādyarpitaṃ",
+     "gloss": "bhūrāmodhiśakhādyarpitaṃ",
+     "grounds": "token as given",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kṣathā",
+     "gloss": "kṣathā",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How are svarādyātha and bhūrāmodhiśakhādyarpitaṃ related?",
+   "premises": [
+    "te is named",
+    "svarādyātha is named",
+    "bhūrāmodhiśakhādyarpitaṃ is named",
+    "kṣathā is named"
+   ],
+   "inference": "The verse relates svarādyātha to bhūrāmodhiśakhādyarpitaṃ.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Svarādyātha and bhūrāmodhiśakhādyarpitaṃ are related."
+  }
+ ]
+}

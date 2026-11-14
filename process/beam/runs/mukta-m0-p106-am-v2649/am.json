@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p106",
  "verse": 2649,
- "question": "What ritual action involving Kāmadhenu follows drinking the water of Kedāra?",
+ "question": "What hall-measure is endowed with all-ornament by two-part?",
  "premises": [
-  "The water of Kedāra is drunk.",
-  "Kāmadhenu is present as an object of touch.",
-  "The action is expressed conditionally."
+  "hall-measure is named",
+  "two-part is named",
+  "all-ornament is named",
+  "endowed is named"
  ],
- "inference": "If one drinks Kedāra’s water, one should then touch Kāmadhenu.",
- "uncertainties": [],
- "plain_english": "If one drinks the water of Kedāra, one should touch Kāmadhenu."
+ "inference": "The verse states that hall-measure is endowed with all-ornament by two-part.",
+ "uncertainties": [
+  "dvibhāgena instrument"
+ ],
+ "plain_english": "The hall-measure is endowed with all-ornament by two-part."
 }

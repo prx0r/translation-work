@@ -1,0 +1,1025 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2476,
+   "rows": [
+    {
+     "surface": "etaddaṇḍakamuddiṣṭaṃ",
+     "gloss": "this-stick-structure-described",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śālānāṃ",
+     "gloss": "of-halls",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ṣaḍaṃśakāḥ",
+     "gloss": "six-parts",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many parts are assigned to the described stick-structure halls?",
+   "premises": [
+    "The verse names six parts.",
+    "It refers to described stick-structures.",
+    "It concerns halls."
+   ],
+   "inference": "The described stick-structure halls are divided into six parts.",
+   "uncertainties": [
+    "Exact architectural referent of daṇḍaka is not specified."
+   ],
+   "plain_english": "This described stick-structure is for halls in six parts."
+  },
+  {
+   "verse": 2477,
+   "rows": [
+    {
+     "surface": "gehatāro",
+     "gloss": "house-roof",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-part",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dvyaṃśaṃ",
+     "gloss": "two-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaṇaṃ",
+     "gloss": "process",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "bhavet",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What roof and process proportions are given for the house?",
+   "premises": [
+    "The house roof is two-part.",
+    "A two-part process is stated.",
+    "The verse uses syāt and bhavet."
+   ],
+   "inference": "The house roof and process are each described in two parts.",
+   "uncertainties": [
+    "Technical sense of kramaṇa is unclear."
+   ],
+   "plain_english": "The house roof is two-part, and the process is two-part."
+  },
+  {
+   "verse": 2478,
+   "rows": [
+    {
+     "surface": "tribhāgo",
+     "gloss": "three-part",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gehavistāro",
+     "gloss": "house-width",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dairghyamiṣyate",
+     "gloss": "length",
+     "grounds": "fused form",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is house width related to length in this proportion?",
+   "premises": [
+    "House width is three-part.",
+    "Length is double.",
+    "The verse states the relation."
+   ],
+   "inference": "The house width is three-part and the length is double.",
+   "uncertainties": [
+    "Exact numerical ratio is not fully explicit."
+   ],
+   "plain_english": "The house width is three-part, and the length is double."
+  },
+  {
+   "verse": 2479,
+   "rows": [
+    {
+     "surface": "kulyābhadvārasaṃyuktaṃ",
+     "gloss": "well-gate-joined",
+     "grounds": "fused form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is said about the remainder joined with well and gate?",
+   "premises": [
+    "The remainder is joined with well and gate.",
+    "All else is as before.",
+    "The verse uses tu."
+   ],
+   "inference": "The remainder joined with well and gate follows the earlier pattern.",
+   "uncertainties": [
+    "Meaning of kulyābha is unclear."
+   ],
+   "plain_english": "The remainder joined with well and gate is as before."
+  },
+  {
+   "verse": 2480,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuḍyaṃ",
+     "gloss": "wall",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raṅgaṃ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādasamanvitam",
+     "gloss": "foot-accompanied",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What wall and color arrangement is prescribed everywhere around?",
+   "premises": [
+    "Walls are everywhere around.",
+    "Color is mentioned.",
+    "Foot-accompaniment is included."
+   ],
+   "inference": "Walls everywhere around have color and foot-accompaniment.",
+   "uncertainties": [
+    "Exact sense of pādasamanvita is unclear."
+   ],
+   "plain_english": "Everywhere around, the wall has color and foot-accompaniment."
+  },
+  {
+   "verse": 2481,
+   "rows": [
+    {
+     "surface": "prāsādavadalaṅkuryāt",
+     "gloss": "like-palace",
+     "grounds": "fused form",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daṇḍakaṃ",
+     "gloss": "stick-structure",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "matam",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the third stick-structure to be ornamented?",
+   "premises": [
+    "The third stick-structure is named.",
+    "It should be ornamented like a palace.",
+    "The verse uses matam."
+   ],
+   "inference": "The third stick-structure is to be ornamented like a palace.",
+   "uncertainties": [
+    "Whether matam is opinion or doctrine is unclear."
+   ],
+   "plain_english": "The third stick-structure should be ornamented like a palace."
+  },
+  {
+   "verse": 2482,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavaduddiṣṭaṃ",
+     "gloss": "as-before-described",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daṇḍakaṃ",
+     "gloss": "stick-structure",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "matam",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is said about the fourth stick-structure?",
+   "premises": [
+    "The remainder is as before described.",
+    "The fourth stick-structure is named.",
+    "The verse uses matam."
+   ],
+   "inference": "The fourth stick-structure follows the earlier described remainder.",
+   "uncertainties": [
+    "Exact scope of remainder is unclear."
+   ],
+   "plain_english": "The remainder is as before described for the fourth stick-structure."
+  },
+  {
+   "verse": 2483,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alinda",
+     "gloss": "portico",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śālāvyāso",
+     "gloss": "hall-width",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvibhāgataḥ",
+     "gloss": "two-part",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the portico arranged around the hall width?",
+   "premises": [
+    "Portico is around.",
+    "Hall width is mentioned.",
+    "Two-part relation is given."
+   ],
+   "inference": "The portico around the hall width is arranged in two parts.",
+   "uncertainties": [
+    "Exact instrumental relation is unclear."
+   ],
+   "plain_english": "The portico around the hall width is in two parts."
+  },
+  {
+   "verse": 2484,
+   "rows": [
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "sides",
+     "grounds": "locative dual",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "dvitribhāgena",
+     "gloss": "two-three-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tārāyāmau",
+     "gloss": "star-length",
+     "grounds": "fused form",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vivāsakau",
+     "gloss": "vivāsakau",
+     "grounds": "noun",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What side proportions and lengths are given?",
+   "premises": [
+    "Sides are mentioned.",
+    "Two-three-part proportion is given.",
+    "Star-lengths and vivāsakau are named."
+   ],
+   "inference": "The sides have a two-three-part proportion with named lengths.",
+   "uncertainties": [
+    "Meaning of vivāsakau is unclear."
+   ],
+   "plain_english": "The sides have a two-three-part proportion with star-lengths and vivāsakau."
+  },
+  {
+   "verse": 2485,
+   "rows": [
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daṇḍakaṃ",
+     "gloss": "stick-structure",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "proktaṃ",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "ācaret",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How is the fifth stick-structure to be performed?",
+   "premises": [
+    "The fifth stick-structure is named.",
+    "The remainder is as before.",
+    "The verse uses ācaret."
+   ],
+   "inference": "The fifth stick-structure is performed with the remainder as before.",
+   "uncertainties": [
+    "Exact ritual sense of ācaret is unclear."
+   ],
+   "plain_english": "The fifth stick-structure is performed with the remainder as before."
+  },
+  {
+   "verse": 2486,
+   "rows": [
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "four",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "purato",
+     "gloss": "front",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alindaṃ",
+     "gloss": "portico",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ekadvitriśālake",
+     "gloss": "one-two-three-hall",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How many porticos are placed in front?",
+   "premises": [
+    "Four is stated.",
+    "Portico is in front.",
+    "One-two-three-hall is named."
+   ],
+   "inference": "Four porticos are placed in front in the one-two-three-hall arrangement.",
+   "uncertainties": [
+    "Exact counting relation is unclear."
+   ],
+   "plain_english": "Four porticos are in front in the one-two-three-hall arrangement."
+  },
+  {
+   "verse": 2487,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "purato",
+     "gloss": "front",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadraṃ",
+     "gloss": "bhadra",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturdvyaṃśe",
+     "gloss": "four-two-part",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sammataṃ",
+     "gloss": "sammataṃ",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What front bhadra arrangement is approved?",
+   "premises": [
+    "That same front bhadra is named.",
+    "Four-two-part is stated.",
+    "The verse uses sammataṃ."
+   ],
+   "inference": "The front bhadra in four-two-part is approved.",
+   "uncertainties": [
+    "Meaning of sammataṃ is unclear."
+   ],
+   "plain_english": "That same front bhadra in four-two-part is approved."
+  },
+  {
+   "verse": 2488,
+   "rows": [
+    {
+     "surface": "aśaṃke",
+     "gloss": "without-doubt",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alindakaṃ",
+     "gloss": "portico",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "kuryāt",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vyāse",
+     "gloss": "width",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "netratrayānvitam",
+     "gloss": "three-eyes",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the portico be made in width?",
+   "premises": [
+    "Portico is to be made.",
+    "Width is mentioned.",
+    "Three-eyes accompaniment is stated."
+   ],
+   "inference": "The portico is to be made with three-eyes accompaniment in width.",
+   "uncertainties": [
+    "Exact sense of netratraya is unclear."
+   ],
+   "plain_english": "The portico is to be made with three-eyes accompaniment in width."
+  },
+  {
+   "verse": 2489,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pṛṣṭhato",
+     "gloss": "behind",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadrayuktaṃ",
+     "gloss": "bhadra-joined",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadvat",
+     "gloss": "yadvat",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puro",
+     "gloss": "front",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "bhavet",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How is the bhadra arrangement behind related to the front?",
+   "premises": [
+    "That same bhadra-joined is behind.",
+    "It is as in front.",
+    "The verse uses bhavet."
+   ],
+   "inference": "The bhadra arrangement behind is the same as in front.",
+   "uncertainties": [
+    "Exact comparative force of yadvat is unclear."
+   ],
+   "plain_english": "That same bhadra-joined behind is as in front."
+  },
+  {
+   "verse": 2490,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānādivārgāḍhyaṃ",
+     "gloss": "pedestal-etc-rich",
+     "grounds": "fused form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāsādavadalaṅkṛtam",
+     "gloss": "like-palace",
+     "grounds": "fused form",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the structure ornamented from pedestal onward?",
+   "premises": [
+    "It is rich from pedestal onward.",
+    "It is ornamented like a palace.",
+    "Both compounds describe the structure."
+   ],
+   "inference": "The structure is rich from pedestal onward and ornamented like a palace.",
+   "uncertainties": [
+    "Exact scope of ādi is unclear."
+   ],
+   "plain_english": "It is rich from pedestal onward and ornamented like a palace."
+  },
+  {
+   "verse": 2491,
+   "rows": [
+    {
+     "surface": "caturmukhamidaṃ",
+     "gloss": "four-faced",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "nāmnā",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātyādināmabhāk",
+     "gloss": "jātyādi-name-bearer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What name and order are given to the four-faced structure?",
+   "premises": [
+    "The four-faced structure is named.",
+    "Name and order are mentioned.",
+    "Jātyādi name-bearer is stated."
+   ],
+   "inference": "The four-faced structure bears names in order from jātyādi.",
+   "uncertainties": [
+    "Exact naming list is not given."
+   ],
+   "plain_english": "This four-faced structure bears names in order from jātyādi."
+  },
+  {
+   "verse": 2492,
+   "rows": [
+    {
+     "surface": "svāmicittavaśānnyastaṃ",
+     "gloss": "by-lord-wish-placed",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthānavinyāsasaṃyutam",
+     "gloss": "place-arrangement-joined",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the structure placed and arranged?",
+   "premises": [
+    "It is placed by lord's wish.",
+    "It is joined with place arrangement.",
+    "Both compounds describe it."
+   ],
+   "inference": "The structure is placed by the lord's wish and joined with place arrangement.",
+   "uncertainties": [
+    "Exact meaning of svāmi is unclear."
+   ],
+   "plain_english": "It is placed by the lord's wish and joined with place arrangement."
+  },
+  {
+   "verse": 2493,
+   "rows": [
+    {
+     "surface": "sadvicūlītricūlyaṅgaṃ",
+     "gloss": "two-three-peak-angled",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sugrīvaṃ",
+     "gloss": "sugrīva",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "savitalpakam",
+     "gloss": "with-couch",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What peak and couch features are assigned?",
+   "premises": [
+    "Two-three-peak-angled is stated.",
+    "Sugrīva is named.",
+    "With-couch is included."
+   ],
+   "inference": "The structure has two-three-peak-angled features, sugrīva, and a couch.",
+   "uncertainties": [
+    "Exact architectural sense of sugrīva is unclear."
+   ],
+   "plain_english": "It has two-three-peak-angled features, sugrīva, and a couch."
+  },
+  {
+   "verse": 2494,
+   "rows": [
+    {
+     "surface": "daṇḍakaṃ",
+     "gloss": "stick-structure",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maulikaṃ",
+     "gloss": "maulika",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "vāpi",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatheṣṭadiśi",
+     "gloss": "as-desired-direction",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vāraṇam",
+     "gloss": "vāraṇam",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "In what direction may the maulika stick-structure be placed?",
+   "premises": [
+    "Maulika stick-structure is named.",
+    "As-desired-direction is stated.",
+    "Vāraṇam is mentioned."
+   ],
+   "inference": "The maulika stick-structure may be placed in the desired direction.",
+   "uncertainties": [
+    "Meaning of vāraṇam is unclear."
+   ],
+   "plain_english": "The maulika stick-structure may be placed in the desired direction."
+  },
+  {
+   "verse": 2495,
+   "rows": [
+    {
+     "surface": "bahirbhāgena",
+     "gloss": "outside-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vāraḥ",
+     "gloss": "vāra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dvyaṃśaśālāviśālataḥ",
+     "gloss": "two-part-hall-wide",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What outside part and hall width are stated?",
+   "premises": [
+    "Outside part is stated.",
+    "Vāra is named.",
+    "Two-part-hall-wide is given."
+   ],
+   "inference": "The outside part is vāra with two-part-hall-wide relation.",
+   "uncertainties": [
+    "Meaning of vāra is unclear."
+   ],
+   "plain_english": "The outside part is vāra, with two-part-hall-wide relation."
+  },
+  {
+   "verse": 2496,
+   "rows": [
+    {
+     "surface": "tadāvṛtya",
+     "gloss": "that-covering",
+     "grounds": "fused form",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ekakālindaṃ",
+     "gloss": "one-portico",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaṇaṃ",
+     "gloss": "process",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "bhavet",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What covering and process are prescribed after that?",
+   "premises": [
+    "That covering is stated.",
+    "One portico and remainder are named.",
+    "Process is stated."
+   ],
+   "inference": "After that covering, one portico and the remainder follow the process.",
+   "uncertainties": [
+    "Exact sense of tadāvṛtya is unclear."
+   ],
+   "plain_english": "After that covering, one portico and the remainder follow the process."
+  },
+  {
+   "verse": 2497,
+   "rows": [
+    {
+     "surface": "caturmukhasamāyuktaṃ",
+     "gloss": "four-faced-joined",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dviśālamiha",
+     "gloss": "two-hall",
+     "grounds": "fused form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "kīrtitam",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What two-hall structure is declared four-faced?",
+   "premises": [
+    "Four-faced-joined is stated.",
+    "Two-hall is named.",
+    "The verse uses kīrtitam."
+   ],
+   "inference": "The two-hall structure is declared four-faced-joined.",
+   "uncertainties": [
+    "Exact meaning of kīrtitam is unclear."
+   ],
+   "plain_english": "The two-hall structure is declared four-faced-joined."
+  },
+  {
+   "verse": 2498,
+   "rows": [
+    {
+     "surface": "alindenānvitaṃ",
+     "gloss": "with-portico",
+     "grounds": "fused form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "vāpi",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviśālaṃ",
+     "gloss": "two-hall",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "parikalpayet",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How may a two-hall structure be arranged with a portico?",
+   "premises": [
+    "With-portico is stated.",
+    "Two-hall is named.",
+    "The verse uses parikalpayet."
+   ],
+   "inference": "A two-hall structure may be arranged with a portico.",
+   "uncertainties": [
+    "Exact force of parikalpayet is unclear."
+   ],
+   "plain_english": "A two-hall structure may be arranged with a portico."
+  },
+  {
+   "verse": 2499,
+   "rows": [
+    {
+     "surface": "dvāraṃ",
+     "gloss": "gate",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavaduddiṣṭaṃ",
+     "gloss": "as-before-described",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvālaṅkāraśobhitam",
+     "gloss": "all-ornament-beautiful",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the gate described?",
+   "premises": [
+    "Gate is named.",
+    "It is as before described.",
+    "It is beautiful with all ornaments."
+   ],
+   "inference": "The gate is as before described and beautiful with all ornaments.",
+   "uncertainties": [
+    "Exact earlier description is not restated."
+   ],
+   "plain_english": "The gate is as before described and beautiful with all ornaments."
+  }
+ ]
+}

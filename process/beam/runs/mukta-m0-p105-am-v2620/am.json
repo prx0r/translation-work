@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2620,
- "question": "Where is the next sacred spot located relative to Gokarṇa and Vikarṇa?",
+ "question": "What low courtyard or hall proportion is desired?",
  "premises": [
-  "The spot is near Gokarṇa",
-  "The spot is near Vikarṇa",
-  "The goddess is addressed about this location"
+  "courtyard may be low",
+  "courtyard may be two-part",
+  "hall one-part is desired"
  ],
- "inference": "The next sacred spot lies not far from the deities Gokarṇa and Vikarṇa.",
- "uncertainties": [],
- "plain_english": "O great goddess, not far from the god Gokarṇa and from Vikarṇa."
+ "inference": "A low courtyard may be two-part, or a one-part hall is desired.",
+ "uncertainties": [
+  "whether vāramekāṃśamiṣyate is one fused token"
+ ],
+ "plain_english": "The courtyard may be low and two-part, or a one-part hall is desired."
 }

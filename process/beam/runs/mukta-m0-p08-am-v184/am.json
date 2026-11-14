@@ -1,14 +1,18 @@
 {
  "song": "mukta-m0-p08",
  "verse": 184,
- "question": "How should worship be performed in the third enclosure?",
+ "question": "How is the space-seed situated in fire as cause of the white syllable?",
  "premises": [
-  "The procedure was previously stated.",
-  "The third enclosure is named."
+  "space-seed is named",
+  "fire is named",
+  "seed-situated is named",
+  "cause is named",
+  "stated is named",
+  "white-syllable is named"
  ],
- "inference": "Worship in the third enclosure follows the previously stated procedure.",
+ "inference": "The verse states the space-seed in fire as cause of the white syllable.",
  "uncertainties": [
-  "The procedure itself is not repeated."
+  "exact causal relation unclear"
  ],
- "plain_english": "Worship in the third enclosure by the previously stated procedure."
+ "plain_english": "The space-seed situated in fire is stated as cause of the white syllable."
 }

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2486,
- "question": "What remains after establishing the cakra here?",
+ "question": "How many porticos are placed in front?",
  "premises": [
-  "cakra is established",
-  "remainder is named",
-  "here in cakra is named"
+  "Four is stated.",
+  "Portico is in front.",
+  "One-two-three-hall is named."
  ],
- "inference": "The verse says the remainder is in this cakra after establishment.",
+ "inference": "Four porticos are placed in front in the one-two-three-hall arrangement.",
  "uncertainties": [
-  "what remainder means"
+  "Exact counting relation is unclear."
  ],
- "plain_english": "Having established the cakra, the remainder is here in the cakra."
+ "plain_english": "Four porticos are in front in the one-two-three-hall arrangement."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2684,
- "question": "Which sacred pools are named as sites for ritual bathing?",
+ "question": "How is the middle joined with two courtyards in the five-hall?",
  "premises": [
-  "A pool at Vārāṇasī is mentioned.",
-  "The pool of Mārkaṇḍeya is mentioned.",
-  "Both are presented in parallel."
+  "The middle is measured by two parts",
+  "Two courtyards are joined to it",
+  "The arrangement is as stated"
  ],
- "inference": "The pool at Vārāṇasī and the pool of Mārkaṇḍeya are named as sacred bathing sites.",
- "uncertainties": [],
- "plain_english": "In the pool at Vārāṇasī, and likewise in the pool of Mārkaṇḍeya."
+ "inference": "The middle, measured by two parts, is joined with two courtyards.",
+ "uncertainties": [
+  "The exact spatial relation is implied rather than diagrammed"
+ ],
+ "plain_english": "Thus the middle, by two parts, is joined with two courtyards."
 }

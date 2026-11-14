@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2601,
- "question": "What destination does a man reach after bathing at that place?",
+ "question": "How should the side of a temple hall be joined with water and land divisions?",
  "premises": [
-  "A man bathes there",
-  "After bathing he goes onward",
-  "His destination is the sun's abode"
+  "side may be water-joined",
+  "side may be land-joined",
+  "barrier creates two divisions"
  ],
- "inference": "Bathing at that place leads a man toward the abode of the sun.",
- "uncertainties": [],
- "plain_english": "Having bathed there, a man goes toward the abode of the sun."
+ "inference": "The side arrangement permits water-land division by barrier.",
+ "uncertainties": [
+  "exact architectural referent of vāḥ"
+ ],
+ "plain_english": "The side is joined with water or land, divided into two by a barrier."
 }

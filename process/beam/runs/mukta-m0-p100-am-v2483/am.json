@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2483,
- "question": "What is placed on the seat and cakra?",
+ "question": "How is the portico arranged around the hall width?",
  "premises": [
-  "worshipped form is named",
-  "seat is named",
-  "cakra is named"
+  "Portico is around.",
+  "Hall width is mentioned.",
+  "Two-part relation is given."
  ],
- "inference": "The verse describes placing the worshipped form on seat and cakra.",
+ "inference": "The portico around the hall width is arranged in two parts.",
  "uncertainties": [
-  "tat referent"
+  "Exact instrumental relation is unclear."
  ],
- "plain_english": "Having placed the worshipped form on the seat, place that cakra."
+ "plain_english": "The portico around the hall width is in two parts."
 }

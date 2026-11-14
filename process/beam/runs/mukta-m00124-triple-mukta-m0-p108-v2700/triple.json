@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p108",
+ "items": [
+  {
+   "verse": 2700,
+   "rows": [
+    {
+     "surface": "samantāt",
+     "gloss": "all-around",
+     "grounds": "adverb indicating surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgena",
+     "gloss": "one-part",
+     "grounds": "instrumental singular masculine of ekabhāga",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "numeral used adverbially with the verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śālāṃ",
+     "gloss": "hall",
+     "grounds": "accusative singular feminine object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act.opt (root kalp)"
+    }
+   ],
+   "question": "How should four halls be arranged all around in one part?",
+   "premises": [
+    "Four halls are arranged.",
+    "They surround on all sides.",
+    "Each occupies one part."
+   ],
+   "inference": "The layout prescribes four surrounding halls in equal parts.",
+   "uncertainties": [
+    "Exact ritual context is not specified in this verse."
+   ],
+   "plain_english": "One should arrange four halls all around, each in one part."
+  }
+ ]
+}

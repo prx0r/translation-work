@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2495,
- "question": "Which tithi vidyas are ordered here?",
+ "question": "What outside part and hall width are stated?",
  "premises": [
-  "twelfth is named",
-  "fourteenth is named",
-  "fifteenth is named",
-  "order is named"
+  "Outside part is stated.",
+  "Vāra is named.",
+  "Two-part-hall-wide is given."
  ],
- "inference": "The verse groups twelfth, fourteenth, and fifteenth in order.",
+ "inference": "The outside part is vāra with two-part-hall-wide relation.",
  "uncertainties": [
-  "syllable counts omitted"
+  "Meaning of vāra is unclear."
  ],
- "plain_english": "Indeed, the twelfth, fourteenth, and fifteenth are in order."
+ "plain_english": "The outside part is vāra, with two-part-hall-wide relation."
 }

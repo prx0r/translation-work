@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p104",
  "verse": 2586,
- "question": "What procedural model must be followed during the placement of the ritual pot?",
+ "question": "Where is the two-part middle court placed in the best width part?",
  "premises": [
-  "The action concerns the placement of the pot.",
-  "A specific procedure is prescribed.",
-  "The procedure is to follow the model of śiva-vinyāsa."
+  "uttamavyāsabhāge locates the best width part",
+  "dvibhāgam describes the two-part measure",
+  "madhyamāṅkaṇam names the middle court",
+  "tu marks the contrast"
  ],
- "inference": "The pot-placement must be performed according to the procedure used for śiva-vinyāsa.",
- "uncertainties": [],
- "plain_english": "In this placement of the pot, the procedure should be carried out just as in the placement of Śiva."
+ "inference": "In the best width part, the middle court is taken as two parts.",
+ "uncertainties": [
+  "the exact best width part is not quantified"
+ ],
+ "plain_english": "But in the best width part, the middle court is two-part."
 }

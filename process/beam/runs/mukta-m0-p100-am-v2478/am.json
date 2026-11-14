@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2478,
- "question": "Which described forms are all-auspicious there in tithis?",
+ "question": "How is house width related to length in this proportion?",
  "premises": [
-  "tithis are named",
-  "described forms appear",
-  "all-auspicious quality is asserted"
+  "House width is three-part.",
+  "Length is double.",
+  "The verse states the relation."
  ],
- "inference": "The verse identifies described forms as all-auspicious in tithis.",
+ "inference": "The house width is three-part and the length is double.",
  "uncertainties": [
-  "referent of tāṃ"
+  "Exact numerical ratio is not fully explicit."
  ],
- "plain_english": "There in tithis, the described forms are all-auspicious."
+ "plain_english": "The house width is three-part, and the length is double."
 }

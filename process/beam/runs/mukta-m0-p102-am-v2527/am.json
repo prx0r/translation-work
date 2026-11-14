@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2527,
- "question": "To which mountain-born goddess is obeisance offered in this mantra?",
+ "question": "Which all-auspicious hall named by caste is declared for kings here?",
  "premises": [
-  "Obeisance is expressed as a salutation.",
-  "The salutation is directed to a goddess.",
-  "The goddess is described as mountain-born."
+  "kings are addressed",
+  "all-auspicious hall is named",
+  "declaration is local"
  ],
- "inference": "The mantra offers obeisance to the goddess born of the mountain.",
- "uncertainties": [],
- "plain_english": "Obeisance be to the goddess born of the mountain; obeisance."
+ "inference": "A caste-named all-auspicious hall is declared for kings in this context.",
+ "uncertainties": [
+  "caste classification details"
+ ],
+ "plain_english": "The caste-named all-auspicious hall for kings is declared here."
 }

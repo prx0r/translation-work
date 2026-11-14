@@ -1,14 +1,19 @@
 {
  "song": "mukta-m0-p08",
  "verse": 192,
- "question": "Where is Tripurasundari placed in the left bhaga garland?",
+ "question": "How are varau and dvarādyau placed with nadāvante?",
  "premises": [
-  "The left bhaga garland is named.",
-  "Tripurasundari is in the middle."
+  "varau is named",
+  "dvarādyau is named",
+  "tuścaiva is named",
+  "nadāvante is named",
+  "tathā is named",
+  "ca is named",
+  "ne is named"
  ],
- "inference": "Tripurasundari is placed in the middle of the left bhaga garland.",
+ "inference": "The verse places varau and dvarādyau with nadāvante.",
  "uncertainties": [
-  "The full garland structure is not described."
+  "exact relation unclear"
  ],
- "plain_english": "In the left bhaga garland, indeed, place Tripurasundari in the middle."
+ "plain_english": "Varau and dvarādyau are placed with nadāvante."
 }

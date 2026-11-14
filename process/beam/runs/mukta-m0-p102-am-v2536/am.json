@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2536,
- "question": "Which guardian figures named Kāla, Raṇabhadra, and mighty Saurabha are listed?",
+ "question": "How is the path and two-part hall arranged in a two-halled building?",
  "premises": [
-  "A figure named Kāla is listed.",
-  "Raṇabhadra is listed.",
-  "Saurabha, described as greatly mighty, is listed."
+  "path is named",
+  "two-part hall is named",
+  "two-halled setting is named"
  ],
- "inference": "The verse enumerates Kāla, Raṇabhadra, and the greatly mighty Saurabha as guardians.",
- "uncertainties": [],
- "plain_english": "The one named Kāla, Raṇabhadra, and the greatly mighty Saurabha."
+ "inference": "The path and two-part hall are arranged in a two-halled building.",
+ "uncertainties": [
+  "exact spatial relation"
+ ],
+ "plain_english": "On all sides by part, the path; two-part hall in a two-halled building."
 }

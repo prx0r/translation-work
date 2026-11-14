@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2692,
- "question": "Which divine attributes are invoked in this vocative praise?",
+ "question": "How is the courtyard length increased?",
  "premises": [
-  "The deity is addressed as staff-handed.",
-  "The deity is addressed as great-armed.",
-  "The deity is addressed as slayer of the Kāla demon."
+  "The courtyard is joined with increased length",
+  "The increase is by part",
+  "The statement contrasts with prior measure"
  ],
- "inference": "The invocation praises the deity as powerful, armed, and victorious over the Kāla demon.",
- "uncertainties": [],
- "plain_english": "O staff-handed one, O great-armed one, O slayer of the demon Kāla."
+ "inference": "The courtyard is joined with an increased length by part.",
+ "uncertainties": [
+  "The exact increase amount is not specified"
+ ],
+ "plain_english": "But the courtyard is joined with an increased length by part."
 }

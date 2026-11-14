@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2681,
- "question": "What mantra practice is prescribed at the gate of heaven?",
+ "question": "For which castes is the solid-less four-hall suitable?",
  "premises": [
-  "The location is the gate of heaven.",
-  "A specific mantra is indicated.",
-  "Uttering the mantra is prescribed."
+  "The four-hall is solid-less",
+  "It is suitable for all castes",
+  "The suitability is stated generally"
  ],
- "inference": "One should utter this mantra at the gate of heaven.",
- "uncertainties": [],
- "plain_english": "And there indeed, at the gate of heaven, one should utter this mantra."
+ "inference": "The solid-less four-hall is suitable for all castes.",
+ "uncertainties": [
+  "No further caste-specific restrictions are given"
+ ],
+ "plain_english": "The solid-less four-hall is suitable for all castes."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2526,
- "question": "What morning recitation is prescribed after rising and beholding the sun?",
+ "question": "Which alinda and intervening-space variants are permitted for the hall?",
  "premises": [
-  "One should rise first.",
-  "One should behold the sun.",
-  "One should recite a pair of mantras."
+  "variants are listed",
+  "alinda may be present",
+  "space may intervene"
  ],
- "inference": "The prescribed morning practice is to rise, behold the sun, and recite two mantras.",
- "uncertainties": [],
- "plain_english": "O beloved, having risen and beheld the sun, one should recite the pair of mantras."
+ "inference": "The hall may be configured with or without alinda and intervening space.",
+ "uncertainties": [
+  "exact architectural referent of alinda"
+ ],
+ "plain_english": "With alinda or without alinda, or with intervening space, but."
 }

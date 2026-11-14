@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2505,
- "question": "What food offering is prescribed for Indrajaya in the corner cell below the prior location?",
+ "question": "How are parts to be made from eleven down to two, beginning from three parts?",
  "premises": [
-  "Indrajaya is the designated recipient.",
-  "The location is a corner cell below the previous one.",
-  "Rice mixed with ghee is the offering."
+  "The verse describes making parts.",
+  "The range runs from eleven to two.",
+  "Three parts is the starting point."
  ],
- "inference": "Ghee-rice should be offered to Indrajaya in the corner cell below that position.",
- "uncertainties": [],
- "plain_english": "Below that, in the corner cell, one should offer ghee-rice to Indrajaya."
+ "inference": "Parts are to be made from eleven down to two, starting from three parts.",
+ "uncertainties": [
+  "The precise counting method is not fully explicit."
+ ],
+ "plain_english": "Parts are to be made from eleven down to two, starting from three parts."
 }

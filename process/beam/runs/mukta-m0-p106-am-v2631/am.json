@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p106",
  "verse": 2631,
- "question": "How is the deity’s iconic form described in terms of crest and body adornment?",
+ "question": "How should the courtyard be divided and the path made?",
  "premises": [
-  "The deity is crested with matted hair, crown, and moon.",
-  "The deity’s limbs are smeared with cool ash.",
-  "Both descriptions qualify the same divine form."
+  "courtyard should be two-part",
+  "path should be made",
+  "one makes the path"
  ],
- "inference": "The deity is depicted with a moon-crested matted crown and ash-smeared body.",
- "uncertainties": [],
- "plain_english": "Crested with matted hair, a crown, and the moon, with limbs smeared with cool ash."
+ "inference": "The verse prescribes a two-part courtyard and a path made by one.",
+ "uncertainties": [
+  "ekena agent"
+ ],
+ "plain_english": "The courtyard should be two-part, and the path should be made by one."
 }

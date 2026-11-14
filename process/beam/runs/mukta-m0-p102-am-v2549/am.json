@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2549,
- "question": "What mental conceit arises from thinking oneself righteous and filled with various vows?",
+ "question": "How may a two-part hall division occur with inner enclosure from one side?",
  "premises": [
-  "A state filled with various vows is mentioned.",
-  "A person thinks 'I am righteous'.",
-  "This thought is identified as a mental conceit."
+  "two-part hall division is named",
+  "inner enclosure is named",
+  "one side is named"
  ],
- "inference": "The mental conceit is the thought of being righteous and filled with various vows.",
- "uncertainties": [],
- "plain_english": "The mental conceit: 'I am righteous, filled with various vows.'"
+ "inference": "A two-part hall division may occur with inner enclosure from one side.",
+ "uncertainties": [
+  "side specification"
+ ],
+ "plain_english": "A two-part hall division may be, with inner enclosure from one side."
 }

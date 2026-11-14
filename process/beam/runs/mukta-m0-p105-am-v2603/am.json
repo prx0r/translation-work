@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2603,
- "question": "Which divine forms are to be beheld at this sacred site?",
+ "question": "What shapes may the courtyard take in this temple plan?",
  "premises": [
-  "Gokarṇa is present in bull-shaped form",
-  "Vikarṇa is present in man-shaped form",
-  "Both forms are objects of vision"
+  "courtyard may be pavilion-shaped",
+  "courtyard may be hall-shaped",
+  "alternatives are allowed"
  ],
- "inference": "The site presents Gokarṇa as bull-shaped and Vikarṇa as man-shaped.",
- "uncertainties": [],
- "plain_english": "One should see Gokarṇa in the form of a bull and Vikarṇa in the form of a man."
+ "inference": "The courtyard may be shaped like a pavilion or a hall.",
+ "uncertainties": [
+  "whether both shapes combine"
+ ],
+ "plain_english": "The courtyard may be pavilion-shaped or hall-shaped."
 }

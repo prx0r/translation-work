@@ -3,29 +3,34 @@
  "verse": 250,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "takāraśca",
+   "morph": "m.nom.sg + (indecl.)",
+   "grounds": "ta-kāra plus enclitic ca"
+  },
+  {
+   "lemma": "yayo",
+   "morph": "m.gen.sg",
+   "grounds": "relative pronoun form"
+  },
+  {
+   "lemma": "bhūśca",
+   "morph": "f.nom.sg + (indecl.)",
+   "grounds": "bhū plus enclitic ca"
+  },
+  {
+   "lemma": "kāca",
+   "morph": "m.nom.sg",
+   "grounds": "substance term"
+  },
+  {
+   "lemma": "niśca",
    "morph": "(indecl.)",
-   "grounds": "concluding particle marking end of exposition"
+   "grounds": "indeclinable particle"
   },
   {
-   "lemma": "tripura+sundaryāḥ",
-   "morph": "gen.sg.f",
-   "grounds": "genitive of deity name; sandhi fusion marked by +"
-  },
-  {
-   "lemma": "vidyā",
-   "morph": "nom.sg.f",
-   "grounds": "subject of the declaration"
-  },
-  {
-   "lemma": "samyak",
-   "morph": "(indecl.)",
-   "grounds": "adverb qualifying the declaration"
-  },
-  {
-   "lemma": "samīritā",
-   "morph": "3.sg.pass.past-part + root īr",
-   "grounds": "concludes exposition of the mantra"
+   "lemma": "kapūrvaśaḥ",
+   "morph": "m.nom.pl",
+   "grounds": "ka-pūrva with śas suffix"
   }
  ]
 }

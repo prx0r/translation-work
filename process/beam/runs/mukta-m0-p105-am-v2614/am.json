@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2614,
- "question": "What spiritual destination follows bathing in the pool named Mārkaṇḍeya?",
+ "question": "What hall form is spacious and ornament-joined?",
  "premises": [
-  "There is a pool named Mārkaṇḍeya",
-  "One bathes there",
-  "One would go to Śiva"
+  "two-part hall is spacious",
+  "all ornaments are joined"
  ],
- "inference": "Bathing in the Mārkaṇḍeya pool leads one to Śiva.",
- "uncertainties": [],
- "plain_english": "There is a pool named Mārkaṇḍeya; having bathed there, one would go to Śiva."
+ "inference": "The spacious two-part hall is joined with all ornaments.",
+ "uncertainties": [
+  "whether dvyaṃśa means two parts or two shares"
+ ],
+ "plain_english": "The spacious two-part hall is joined with all ornaments."
 }
