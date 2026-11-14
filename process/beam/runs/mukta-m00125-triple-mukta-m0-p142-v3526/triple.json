@@ -1,0 +1,949 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3526,
+   "rows": [
+    {
+     "surface": "kumbhādyā",
+     "gloss": "pot-and-others",
+     "grounds": "compound kumbha+ādi referring to ritual pots and related items",
+     "morph": "compound: kumbha+ādi; m.nom.pl"
+    },
+    {
+     "surface": "vastrahīnāśced",
+     "gloss": "if-devoid-of-cloth",
+     "grounds": "fused form vastrahīnāḥ+ced; condition of lacking cloth",
+     "morph": "compound: vastra+hīna; m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "vātarogo",
+     "gloss": "wind-disease",
+     "grounds": "ailment caused by wind imbalance",
+     "morph": "compound: vāta+roga; m.nom.sg"
+    },
+    {
+     "surface": "bhavennṛṇām",
+     "gloss": "would-arise-of-people",
+     "grounds": "fused form bhavet+nṛṇām; result affecting people",
+     "morph": "3.sg.opt.act.√bhū + m.gen.pl"
+    }
+   ],
+   "question": "What affliction arises for people when ritual pots and related items lack cloth coverings?",
+   "premises": [
+    "Ritual pots and related items may lack cloth coverings",
+    "Such deficiency constitutes a ritual fault",
+    "Ritual faults can produce bodily afflictions"
+   ],
+   "inference": "If pots and related items are without cloth, people suffer a wind-related disease",
+   "uncertainties": [],
+   "plain_english": "If the pots and other ritual items are without cloth coverings, a wind-related disease will arise among the people."
+  },
+  {
+   "verse": 3527,
+   "rows": [
+    {
+     "surface": "pañcaratnādi",
+     "gloss": "five-gems-and-others",
+     "grounds": "compound pañcaratna+ādi referring to the five gems and similar items",
+     "morph": "compound: pañca+ratna+ādi; n.nom.sg"
+    },
+    {
+     "surface": "vaikalye'py",
+     "gloss": "even-in-deficiency",
+     "grounds": "fused form vaikalyē+api; condition of lack or defect",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "evameva",
+     "gloss": "in-same-way",
+     "grounds": "emphatic instruction to act similarly",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act.√sam-ā-car"
+    }
+   ],
+   "question": "How should a ritual deficiency involving the five gems and similar items be addressed?",
+   "premises": [
+    "The five gems and similar items may be deficient",
+    "Ritual deficiencies require corrective action",
+    "The prescribed response follows the same procedure"
+   ],
+   "inference": "Even when the five gems and similar items are deficient, one should act in the same prescribed manner",
+   "uncertainties": [],
+   "plain_english": "Even if the five gems and similar items are deficient, one should proceed in the same way."
+  },
+  {
+   "verse": 3528,
+   "rows": [
+    {
+     "surface": "hīne",
+     "gloss": "when-deficient",
+     "grounds": "locative condition indicating lack",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kautukabandhetu",
+     "gloss": "in-protective-thread-tying",
+     "grounds": "compound kautuka+bandha; ritual tying of the protective thread",
+     "morph": "compound: kautuka+bandha; m.loc.sg"
+    },
+    {
+     "surface": "tadaṅge",
+     "gloss": "in-that-limb",
+     "grounds": "compound tat+aṅga; refers to the relevant part or limb",
+     "morph": "compound: tad+aṅga; n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purodite",
+     "gloss": "previously-stated",
+     "grounds": "refers to what was mentioned earlier",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What ritual situations involving deficiency in thread-tying or a stated limb require corrective response?",
+   "premises": [
+    "The protective thread-tying may be deficient",
+    "A previously stated limb may be deficient",
+    "Either deficiency constitutes a ritual fault"
+   ],
+   "inference": "A deficiency in the protective thread-tying or in the previously stated limb requires remedial action",
+   "uncertainties": [
+    "The exact referent of tadaṅge is context-dependent"
+   ],
+   "plain_english": "If there is a deficiency in the tying of the protective thread, or in that limb as previously stated,"
+  },
+  {
+   "verse": 3529,
+   "rows": [
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "compound śānti+homa; expiatory fire ritual",
+     "morph": "compound: śānti+homa; m.acc.sg"
+    },
+    {
+     "surface": "tadākuryāt",
+     "gloss": "then-one-should-perform",
+     "grounds": "fused form tadā+kuryāt; prescriptive sequence",
+     "morph": "(indecl.) + 3.sg.opt.act.√kṛ"
+    },
+    {
+     "surface": "kautukaṃ",
+     "gloss": "protective-thread",
+     "grounds": "ritual thread to be tied",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bandhayettataḥ",
+     "gloss": "should-tie-then",
+     "grounds": "fused form bandhayet+tataḥ; subsequent action",
+     "morph": "3.sg.opt.caus.act.√bandh + (indecl.)"
+    }
+   ],
+   "question": "What corrective sequence must follow a deficiency in the protective thread-tying ritual?",
+   "premises": [
+    "A deficiency in thread-tying has occurred",
+    "A peace fire-offering can remedy ritual faults",
+    "The protective thread must be properly tied afterward"
+   ],
+   "inference": "One should perform a peace fire-offering and then tie the protective thread",
+   "uncertainties": [],
+   "plain_english": "One should then perform a peace fire-offering and afterward tie the protective thread."
+  },
+  {
+   "verse": 3530,
+   "rows": [
+    {
+     "surface": "tadvadahnikṛte",
+     "gloss": "like-that-in-daily-rite",
+     "grounds": "compound tadvat+ahni+kṛte; performed as in the daily ritual",
+     "morph": "compound: tadvat+ahan+kṛta; n.loc.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "refers to the ritual context mentioned",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action before consecration",
+     "morph": "absolutive.√kṛ"
+    },
+    {
+     "surface": "sadyo'dhivāsanam",
+     "gloss": "immediate-consecration",
+     "grounds": "fused form sadyaḥ+adhivāsanam; prompt consecration rite",
+     "morph": "(indecl.) + compound: adhi+vāsana; n.acc.sg"
+    }
+   ],
+   "question": "What consecration procedure should be performed in that context following the daily rite pattern?",
+   "premises": [
+    "The ritual is performed as in the daily rite",
+    "Certain actions must be completed first",
+    "Immediate consecration is required afterward"
+   ],
+   "inference": "After performing the required actions as in the daily rite, one should carry out immediate consecration",
+   "uncertainties": [],
+   "plain_english": "Having done it in that context as in the daily rite, one should perform the immediate consecration."
+  },
+  {
+   "verse": 3531,
+   "rows": [
+    {
+     "surface": "ānīte",
+     "gloss": "when-brought",
+     "grounds": "locative condition of arrival",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maṇṭapādau",
+     "gloss": "to-pavilion-and-such",
+     "grounds": "compound maṇṭapa+ādi; pavilion and related places",
+     "morph": "compound: maṇṭapa+ādi; m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvāghoraṃ",
+     "gloss": "having-chanted-aghora",
+     "grounds": "fused form japtvā+aghoraṃ; recitation of the Aghora mantra",
+     "morph": "absolutive.√jap + m.acc.sg"
+    },
+    {
+     "surface": "śatārdhakam",
+     "gloss": "half-hundred-times",
+     "grounds": "compound śata+ardhaka; fifty repetitions",
+     "morph": "compound: śata+ardhaka; n.acc.sg"
+    }
+   ],
+   "question": "What mantra recitation is required when the deity is brought to the pavilion or similar place?",
+   "premises": [
+    "The deity may be brought to the pavilion or similar place",
+    "Mantra recitation accompanies such arrival",
+    "The Aghora mantra is specified with a count"
+   ],
+   "inference": "When brought to the pavilion or similar place, one should chant the Aghora mantra fifty times",
+   "uncertainties": [],
+   "plain_english": "When brought to the pavilion or the like, one should chant the Aghora mantra fifty times."
+  },
+  {
+   "verse": 3532,
+   "rows": [
+    {
+     "surface": "triśataṃ",
+     "gloss": "three-hundred",
+     "grounds": "numerical count for recitation or action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīpahānau",
+     "gloss": "in-lamp-loss",
+     "grounds": "compound dīpa+hāni; deficiency or loss of the lamp",
+     "morph": "compound: dīpa+hāni; f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "twice the usual measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīpamācaret",
+     "gloss": "one-should-perform-lamp-rite",
+     "grounds": "fused form dīpam+ācaret; perform the lamp ritual",
+     "morph": "m.acc.sg + 3.sg.opt.act.√ā-car"
+    }
+   ],
+   "question": "What corrective lamp ritual is prescribed when there is a loss or deficiency of the lamp?",
+   "premises": [
+    "A loss or deficiency of the lamp may occur",
+    "Corrective recitation is required in such cases",
+    "The lamp ritual must be performed in double measure"
+   ],
+   "inference": "In case of lamp loss, one should recite three hundred times and perform the lamp ritual doubly",
+   "uncertainties": [
+    "Whether triśataṃ counts mantra recitations or lamp offerings is inferred from context"
+   ],
+   "plain_english": "In case of loss of the lamp, one should do three hundred and perform the lamp rite doubly."
+  },
+  {
+   "verse": 3533,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "ritual-bathing",
+     "grounds": "ablution rite for the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "compound śānti+homa; expiatory fire ritual",
+     "morph": "compound: śānti+homa; m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiyānaṃ",
+     "gloss": "return-procession",
+     "grounds": "compound prati+yāna; return movement or procession",
+     "morph": "compound: prati+yāna; n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act.√sam-ā-car"
+    }
+   ],
+   "question": "What additional rites must be performed following the corrective response to lamp deficiency?",
+   "premises": [
+    "A lamp deficiency requires corrective measures",
+    "Ritual bathing restores purity",
+    "A peace fire-offering and return procession complete the remedy"
+   ],
+   "inference": "One should perform ritual bathing, a peace fire-offering, and the return procession",
+   "uncertainties": [],
+   "plain_english": "One should perform the ritual bathing, the peace fire-offering, and the return procession."
+  },
+  {
+   "verse": 3534,
+   "rows": [
+    {
+     "surface": "grāmapradakṣiṇaṃ",
+     "gloss": "village-circumambulation",
+     "grounds": "compound grāma+pradakṣiṇa; circumambulation of the village",
+     "morph": "compound: grāma+pradakṣiṇa; n.nom.sg"
+    },
+    {
+     "surface": "neṣṭam",
+     "gloss": "not-desired",
+     "grounds": "fused form na+iṣṭam; not approved",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "approved or preferred",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhāmapradakṣiṇam",
+     "gloss": "temple-circumambulation",
+     "grounds": "compound dhāma+pradakṣiṇa; circumambulation of the shrine",
+     "morph": "compound: dhāman+pradakṣiṇa; n.nom.sg"
+    }
+   ],
+   "question": "Which form of circumambulation is preferred during the ritual procession in this context?",
+   "premises": [
+    "Circumambulation can be performed around the village or the temple",
+    "Ritual prescriptions distinguish preferred and non-preferred options",
+    "Temple circumambulation is favored here"
+   ],
+   "inference": "Village circumambulation is not desired, while temple circumambulation is desired",
+   "uncertainties": [],
+   "plain_english": "Circumambulation of the village is not desired; circumambulation of the temple is desired."
+  },
+  {
+   "verse": 3535,
+   "rows": [
+    {
+     "surface": "ekavāstuni",
+     "gloss": "in-one-dwelling-place",
+     "grounds": "compound eka+vāstu; a single site or residence",
+     "morph": "compound: eka+vāstu; n.loc.sg"
+    },
+    {
+     "surface": "viprendrā",
+     "gloss": "best-twice-born",
+     "grounds": "compound vipra+indra; vocative addressing eminent priests",
+     "morph": "compound: vipra+indra; m.voc.pl"
+    },
+    {
+     "surface": "vartamāne",
+     "gloss": "when-occurring",
+     "grounds": "locative condition of an ongoing event",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivotsave",
+     "gloss": "in-shiva-festival",
+     "grounds": "compound śiva+utsava; festival of Śiva",
+     "morph": "compound: śiva+utsava; m.loc.sg"
+    }
+   ],
+   "question": "What ritual situation involving a Śiva festival at a single dwelling place requires attention?",
+   "premises": [
+    "A Śiva festival may occur at a single dwelling place",
+    "Such a situation is addressed to eminent priests",
+    "This condition may give rise to a ritual fault"
+   ],
+   "inference": "When a Śiva festival takes place in one dwelling place, a specific fault condition arises",
+   "uncertainties": [],
+   "plain_english": "O best of twice-born ones, when a Śiva festival is taking place in a single dwelling place,"
+  },
+  {
+   "verse": 3536,
+   "rows": [
+    {
+     "surface": "taddoṣavinivṛtyarthaṃ",
+     "gloss": "for-removal-of-that-fault",
+     "grounds": "compound tat+doṣa+vinivṛtti+artha; purpose of removing that fault",
+     "morph": "compound: tad+doṣa+vinivṛtti+artha; n.acc.sg"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "compound śānti+homa; expiatory fire ritual",
+     "morph": "compound: śānti+homa; m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act.√sam-ā-car"
+    }
+   ],
+   "question": "What remedial rite removes the fault arising from a Śiva festival held in one dwelling place?",
+   "premises": [
+    "A fault arises from the stated festival situation",
+    "Ritual faults require removal",
+    "A peace fire-offering serves as expiation"
+   ],
+   "inference": "To remove that fault, one should perform a peace fire-offering",
+   "uncertainties": [],
+   "plain_english": "To remove that fault, one should perform a peace fire-offering."
+  },
+  {
+   "verse": 3537,
+   "rows": [
+    {
+     "surface": "aṅgārakabaliścaiva",
+     "gloss": "and-also-charcoal-offering",
+     "grounds": "compound aṅgāraka+bali; offering to Aṅgāraka, with emphatic particles",
+     "morph": "compound: aṅgāraka+bali; m.nom.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "yāmalokto",
+     "gloss": "stated-in-yama-tradition",
+     "grounds": "compound yāma+ukta; prescribed in the Yāma teaching",
+     "morph": "compound: yāma+ukta; m.nom.sg"
+    },
+    {
+     "surface": "nadoṣadaḥ",
+     "gloss": "not-fault-giving",
+     "grounds": "fused form na+doṣadaḥ; does not produce fault",
+     "morph": "(indecl.) + compound: doṣa+da; m.nom.sg"
+    }
+   ],
+   "question": "Why does the charcoal offering prescribed in the Yāma tradition not produce ritual fault?",
+   "premises": [
+    "A charcoal offering is prescribed in the Yāma tradition",
+    "Some offerings may be thought to cause fault",
+    "This prescribed offering is exempt from fault"
+   ],
+   "inference": "The charcoal offering stated in the Yāma tradition does not give rise to fault",
+   "uncertainties": [
+    "The exact identity of yāmalokta may refer to a specific textual tradition"
+   ],
+   "plain_english": "And the charcoal offering stated in the Yāma tradition does not cause fault."
+  },
+  {
+   "verse": 3538,
+   "rows": [
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pramādāddattaścec",
+     "gloss": "if-given-through-negligence",
+     "grounds": "fused form pramādāt+dattaḥ+ced; offering made by carelessness",
+     "morph": "m.abl.sg + m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "compound śānti+homa; expiatory fire ritual",
+     "morph": "compound: śānti+homa; m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act.√sam-ā-car"
+    }
+   ],
+   "question": "What expiation is required when an offering is given through negligence?",
+   "premises": [
+    "An offering may be given through negligence",
+    "Negligent ritual action constitutes a fault",
+    "A peace fire-offering serves as expiation"
+   ],
+   "inference": "If an offering is given through negligence, one should perform a peace fire-offering",
+   "uncertainties": [],
+   "plain_english": "If an offering is given through negligence, one should perform a peace fire-offering."
+  },
+  {
+   "verse": 3539,
+   "rows": [
+    {
+     "surface": "śūnyagrāmaṃ",
+     "gloss": "empty-village",
+     "grounds": "compound śūnya+grāma; deserted or uninhabited village",
+     "morph": "compound: śūnya+grāma; m.acc.sg"
+    },
+    {
+     "surface": "samāśritya",
+     "gloss": "having-resorted-to",
+     "grounds": "taking as the place for the rite",
+     "morph": "absolutive.√sam-ā-śri"
+    },
+    {
+     "surface": "baliyāne",
+     "gloss": "in-offering-procession",
+     "grounds": "compound bali+yāna; vehicle or procession for offerings",
+     "morph": "compound: bali+yāna; n.loc.sg"
+    },
+    {
+     "surface": "prakalpite",
+     "gloss": "when-arranged",
+     "grounds": "locative condition of being prepared",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What ritual condition arises when the offering procession is arranged in an empty village?",
+   "premises": [
+    "The offering procession may be arranged in an empty village",
+    "The location of the procession affects ritual suitability",
+    "Such a condition requires further evaluation"
+   ],
+   "inference": "Arranging the offering procession in an empty village creates a problematic ritual condition",
+   "uncertainties": [],
+   "plain_english": "When the offering procession is arranged after resorting to an empty village,"
+  },
+  {
+   "verse": 3540,
+   "rows": [
+    {
+     "surface": "ālaye",
+     "gloss": "in-shrine",
+     "grounds": "temple or sacred abode",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "baliyāne",
+     "gloss": "in-offering-procession",
+     "grounds": "compound bali+yāna; vehicle or procession for offerings",
+     "morph": "compound: bali+yāna; n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "refers to the specified enclosure",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "devālayāvṛtau",
+     "gloss": "in-temple-enclosure",
+     "grounds": "compound devālaya+āvṛti; surrounding area of the temple",
+     "morph": "compound: deva+ālaya+āvṛti; f.loc.sg"
+    }
+   ],
+   "question": "Which locations for the offering procession are considered in relation to the temple and its enclosure?",
+   "premises": [
+    "The offering procession may occur in the shrine",
+    "It may occur in the temple enclosure",
+    "These locations are alternatives for evaluation"
+   ],
+   "inference": "The offering procession may be situated in the shrine or in that temple enclosure",
+   "uncertainties": [],
+   "plain_english": "Or in the shrine, or in the offering procession, or in that enclosure of the temple,"
+  },
+  {
+   "verse": 3541,
+   "rows": [
+    {
+     "surface": "tathaivāsannavāstuśca",
+     "gloss": "and-likewise-nearby-site",
+     "grounds": "compound tathā+eva+āsanna+vāstu; a nearby site as well",
+     "morph": "(indecl.) + (indecl.) + compound: āsanna+vāstu; n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "dūravāstau",
+     "gloss": "in-distant-site",
+     "grounds": "compound dūra+vāstu; a faraway site",
+     "morph": "compound: dūra+vāstu; n.loc.sg"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "compound dvija+uttama; vocative addressing eminent priests",
+     "morph": "compound: dvija+uttama; m.voc.pl"
+    }
+   ],
+   "question": "How do nearby and distant sites compare for the offering procession, O best twice-born ones?",
+   "premises": [
+    "Sites for the procession may be nearby or distant",
+    "The suitability of sites must be assessed",
+    "The instruction is addressed to eminent priests"
+   ],
+   "inference": "Both nearby and distant sites are under consideration for the offering procession",
+   "uncertainties": [],
+   "plain_english": "O best of twice-born ones, likewise a nearby site, and in a distant site,"
+  },
+  {
+   "verse": 3542,
+   "rows": [
+    {
+     "surface": "itarasmāt",
+     "gloss": "than-the-other",
+     "grounds": "comparison with an alternative site",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "praśastassyād",
+     "gloss": "would-be-auspicious",
+     "grounds": "fused form praśastaḥ+syāt; deemed favorable",
+     "morph": "m.nom.sg + 3.sg.opt.act.√as"
+    },
+    {
+     "surface": "viparīte",
+     "gloss": "in-opposite-case",
+     "grounds": "contrary condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vipatkaram",
+     "gloss": "disaster-causing",
+     "grounds": "compound vipat+kara; producing calamity",
+     "morph": "compound: vipad+kara; n.nom.sg"
+    }
+   ],
+   "question": "What outcomes distinguish an auspicious site choice from its opposite for the offering procession?",
+   "premises": [
+    "One site may be better than another",
+    "An auspicious choice yields favorable results",
+    "The opposite choice brings disaster"
+   ],
+   "inference": "Compared to the other, one choice is auspicious, while the opposite brings disaster",
+   "uncertainties": [],
+   "plain_english": "It would be auspicious compared to the other; in the opposite case, it brings disaster."
+  },
+  {
+   "verse": 3543,
+   "rows": [
+    {
+     "surface": "anukalpo",
+     "gloss": "substitute-procedure",
+     "grounds": "alternative ritual arrangement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyaśaktānām",
+     "gloss": "indeed-for-incapable",
+     "grounds": "fused form hi+aśaktānām; for those unable to follow the main rule",
+     "morph": "(indecl.) + m.gen.pl"
+    },
+    {
+     "surface": "anyatraiva",
+     "gloss": "elsewhere-only",
+     "grounds": "fused form anyatra+eva; in another place exclusively",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act.√sam-ā-car"
+    }
+   ],
+   "question": "What substitute procedure is permitted for those incapable of following the primary site rule?",
+   "premises": [
+    "Some practitioners are incapable of the primary procedure",
+    "A substitute procedure is allowed for them",
+    "The substitute may be performed elsewhere"
+   ],
+   "inference": "For those who are incapable, one should perform the substitute procedure elsewhere",
+   "uncertainties": [],
+   "plain_english": "For those who are incapable, one should indeed perform the substitute procedure elsewhere."
+  },
+  {
+   "verse": 3544,
+   "rows": [
+    {
+     "surface": "tadvinādhiṣṭhito",
+     "gloss": "without-that-not-consecrated",
+     "grounds": "compound tad+vinā+adhiṣṭhita; not consecrated without that",
+     "morph": "compound: tad+vinā+adhiṣṭhita; m.nom.sg"
+    },
+    {
+     "surface": "vāstur",
+     "gloss": "site",
+     "grounds": "ritual site or ground",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hīna",
+     "gloss": "deficient",
+     "grounds": "lacking or inferior",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-is-called",
+     "grounds": "fused form iti+abhidhīyate; technical designation",
+     "morph": "(indecl.) + 3.sg.pres.pass.√abhi-dhā"
+    }
+   ],
+   "question": "Why is a site not consecrated in the proper manner designated as deficient?",
+   "premises": [
+    "A site may lack proper consecration",
+    "Proper consecration is required for ritual suitability",
+    "Such a site is technically termed deficient"
+   ],
+   "inference": "A site not consecrated without the required procedure is called deficient",
+   "uncertainties": [
+    "The precise scope of tadvinā depends on the preceding context"
+   ],
+   "plain_english": "A site not consecrated without that is called deficient."
+  },
+  {
+   "verse": 3545,
+   "rows": [
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "single location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliyāne",
+     "gloss": "in-offering-procession",
+     "grounds": "compound bali+yāna; vehicle or procession for offerings",
+     "morph": "compound: bali+yāna; n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreṣṭhamityabhidhīyate",
+     "gloss": "best-thus-is-called",
+     "grounds": "fused form śreṣṭham+iti+abhidhīyate; designated as the best",
+     "morph": "n.nom.sg + (indecl.) + 3.sg.pres.pass.√abhi-dhā"
+    }
+   ],
+   "question": "What arrangement of the offering procession is designated as the best option?",
+   "premises": [
+    "The offering procession can be arranged in different ways",
+    "A single-location arrangement is possible",
+    "This arrangement is given a superior designation"
+   ],
+   "inference": "Conducting the offering procession in one place is called the best",
+   "uncertainties": [],
+   "plain_english": "And when the offering procession is in one place, it is called the best."
+  },
+  {
+   "verse": 3546,
+   "rows": [
+    {
+     "surface": "anukalpapravṛttānāṃ",
+     "gloss": "of-those-following-substitute",
+     "grounds": "compound anukalpa+pravṛtta; those engaged in the substitute procedure",
+     "morph": "compound: anukalpa+pravṛtta; m.gen.pl"
+    },
+    {
+     "surface": "śāntihomo",
+     "gloss": "peace-fire-offering",
+     "grounds": "compound śānti+homa; expiatory fire ritual",
+     "morph": "compound: śānti+homa; m.nom.sg"
+    },
+    {
+     "surface": "japo'thavā",
+     "gloss": "or-recitation",
+     "grounds": "fused form japaḥ+athavā; alternative of mantra recitation",
+     "morph": "m.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "What remedial practices are prescribed for those who follow the substitute ritual procedure?",
+   "premises": [
+    "Some practitioners follow the substitute procedure",
+    "Substitute performance may require expiation",
+    "Peace fire-offering or recitation can serve as remedy"
+   ],
+   "inference": "For those following the substitute procedure, a peace fire-offering or recitation is prescribed",
+   "uncertainties": [],
+   "plain_english": "For those who follow the substitute procedure, there should be a peace fire-offering or recitation."
+  },
+  {
+   "verse": 3547,
+   "rows": [
+    {
+     "surface": "dhveja",
+     "gloss": "flag",
+     "grounds": "ritual flag; surface form as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vihīne'py",
+     "gloss": "even-when-deficient",
+     "grounds": "fused form vihīne+api; condition of lacking the flag",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act.√as"
+    },
+    {
+     "surface": "japo'tra",
+     "gloss": "recitation-here",
+     "grounds": "fused form japaḥ+atra; mantra recitation in this case",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śatasaṃkhyayā",
+     "gloss": "by-hundred-count",
+     "grounds": "compound śata+saṃkhyā; numbering one hundred",
+     "morph": "compound: śata+saṃkhyā; f.inst.sg"
+    }
+   ],
+   "question": "What remedial recitation is required when the ritual flag is deficient or absent?",
+   "premises": [
+    "The ritual flag may be deficient",
+    "A deficiency requires remedial action",
+    "Recitation of a hundred repetitions is prescribed"
+   ],
+   "inference": "Even when the flag is deficient, there should be recitation numbering one hundred",
+   "uncertainties": [],
+   "plain_english": "Even if the flag is deficient, there should likewise be recitation here numbering one hundred."
+  },
+  {
+   "verse": 3548,
+   "rows": [
+    {
+     "surface": "balidravye",
+     "gloss": "in-offering-material",
+     "grounds": "compound bali+dravya; substances used for offerings",
+     "morph": "compound: bali+dravya; n.loc.sg"
+    },
+    {
+     "surface": "vihīne",
+     "gloss": "when-deficient",
+     "grounds": "locative condition indicating lack",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣudbādhā",
+     "gloss": "hunger-affliction",
+     "grounds": "compound kṣudh+bādhā; suffering caused by hunger",
+     "morph": "compound: kṣudh+bādhā; f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "resulting condition",
+     "morph": "3.sg.pres.mid.√jan"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-people",
+     "grounds": "those affected by the fault",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What affliction befalls people when the materials for ritual offerings are deficient?",
+   "premises": [
+    "Offering materials may be deficient",
+    "Ritual deficiencies produce harmful consequences",
+    "People are affected by such consequences"
+   ],
+   "inference": "When offering materials are deficient, hunger affliction arises among people",
+   "uncertainties": [],
+   "plain_english": "When the offering materials are deficient, an affliction of hunger arises among the people."
+  },
+  {
+   "verse": 3549,
+   "rows": [
+    {
+     "surface": "balidravya",
+     "gloss": "offering-material",
+     "grounds": "compound bali+dravya; substances used for offerings",
+     "morph": "compound: bali+dravya; n.acc.sg"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "properly-supplied",
+     "grounds": "endowed or furnished with the required items",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dāpayed",
+     "gloss": "one-should-cause-to-give",
+     "grounds": "causative instruction to provide offerings",
+     "morph": "3.sg.opt.caus.act.√dā"
+    },
+    {
+     "surface": "anyasandhike",
+     "gloss": "at-another-juncture",
+     "grounds": "compound anya+sandhi; at a different ritual junction or time",
+     "morph": "compound: anya+sandhi; n.loc.sg"
+    }
+   ],
+   "question": "How should deficient offering materials be remedied at a subsequent ritual juncture?",
+   "premises": [
+    "Offering materials were previously deficient",
+    "The deficiency must be corrected",
+    "Properly supplied materials can be given at another juncture"
+   ],
+   "inference": "One should cause properly supplied offering materials to be given at another ritual juncture",
+   "uncertainties": [],
+   "plain_english": "One should cause properly supplied offering materials to be given at another ritual juncture."
+  }
+ ]
+}

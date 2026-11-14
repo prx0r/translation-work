@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3466,
- "question": "Where are bolt and socket placed?",
+ "question": "How is the duration of a festival determined from prior practice?",
  "premises": [
-  "the bolt is on the right part",
-  "the socket is on the left part",
-  "placement is paired"
+  "A festival was formerly conducted over certain days.",
+  "That duration was previously decided.",
+  "The festival proceeds according to that determination."
  ],
- "inference": "the bolt is on the right and the socket on the left",
- "uncertainties": [
-  "exact door side unspecified"
- ],
- "plain_english": "Place the bolt on the right and the socket on the left."
+ "inference": "The festival proceeds for the number of days previously decided in former practice.",
+ "uncertainties": [],
+ "plain_english": "The festival proceeds for the number of days that were previously decided in former times."
 }

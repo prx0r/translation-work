@@ -3,34 +3,44 @@
  "verse": 3454,
  "rows": [
   {
-   "lemma": "śeṣeṇa",
-   "morph": "n.inst.sg",
-   "grounds": "instrumental"
+   "lemma": "kṣetra",
+   "morph": "compound-member",
+   "grounds": "first member of compound series"
   },
   {
-   "lemma": "bhūṣaṇaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "noun"
+   "lemma": "dāra",
+   "morph": "compound-member",
+   "grounds": "second member of compound series"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act-opt + root kṛ",
-   "grounds": "optative"
+   "lemma": "hara",
+   "morph": "m.nom.sg (compound: kṣetra+dāra+hara)",
+   "grounds": "agentive member; compound kṣetra-dāra-hara"
   },
   {
-   "lemma": "śuddha+dvāraṃ",
-   "morph": "compound",
-   "grounds": "compound"
-  },
-  {
-   "lemma": "tu",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "connective"
   },
   {
-   "lemma": "madhyamam",
-   "morph": "n.acc.sg",
-   "grounds": "adjective"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
+  },
+  {
+   "lemma": "ṣaḍ",
+   "morph": "(indecl.)",
+   "grounds": "number of aggressors"
+  },
+  {
+   "lemma": "ete",
+   "morph": "m.nom.pl",
+   "grounds": "demonstrative subject"
+  },
+  {
+   "lemma": "ātatāyinaḥ",
+   "morph": "m.nom.pl",
+   "grounds": "category named"
   }
  ]
 }

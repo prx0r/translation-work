@@ -3,34 +3,39 @@
  "verse": 3550,
  "rows": [
   {
-   "lemma": "siṃhaśrotraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "compound siṃha+śrotra, neuter nominative singular"
-  },
-  {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
-  },
-  {
-   "lemma": "ṣaṣṭhaṃ",
-   "morph": "adj.nom.sg.n",
-   "grounds": "ordinal adjective agreeing with siṃhaśrotraṃ"
-  },
-  {
-   "lemma": "syāt",
-   "morph": "v.3.sg.opt.act (root as)",
-   "grounds": "third singular optative of as"
-  },
-  {
-   "lemma": "khaṇḍaniryūhakaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "compound khaṇḍa+niryūhaka, neuter nominative singular"
+   "lemma": "mūrtihomaṃ",
+   "morph": "mūrti+homam.acc.sg.m",
+   "grounds": "compound object of nayet/kṛtvā sequence"
   },
   {
    "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb"
+   "grounds": "temporal sequence marker"
+  },
+  {
+   "lemma": "kṛtvā",
+   "morph": "gerund.kṛ",
+   "grounds": "absolutive indicating prior action"
+  },
+  {
+   "lemma": "yānānte",
+   "morph": "yāna+ante.loc.sg.m",
+   "grounds": "locative compound indicating occasion"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle presenting alternative"
+  },
+  {
+   "lemma": "baliṃ",
+   "morph": "acc.sg.m",
+   "grounds": "object of nayet"
+  },
+  {
+   "lemma": "nayet",
+   "morph": "3.sg.opt.act.√nī",
+   "grounds": "prescriptive optative"
   }
  ]
 }

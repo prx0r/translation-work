@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3456,
- "question": "Which panels should be taken for the door?",
+ "question": "Under what condition may an approaching aggressor be killed?",
  "premises": [
-  "odd panels are selected",
-  "the middle joint is avoided",
-  "selection follows this rule"
+  "An aggressor may approach with hostile intent.",
+  "Deliberation is required before acting.",
+  "Killing is permitted in such a case."
  ],
- "inference": "odd panels devoid of the middle joint should be taken",
- "uncertainties": [
-  "panel count unspecified"
- ],
- "plain_english": "Take odd panels without the middle joint."
+ "inference": "An approaching aggressor may indeed be killed after due deliberation.",
+ "uncertainties": [],
+ "plain_english": "One should indeed kill an approaching aggressor, but only after deliberation."
 }

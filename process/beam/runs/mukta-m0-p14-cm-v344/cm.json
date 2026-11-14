@@ -3,24 +3,39 @@
  "verse": 344,
  "rows": [
   {
-   "lemma": "nirlakṣaṇaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "adjective"
+   "lemma": "kṛtvā",
+   "morph": "gerund √kṛ",
+   "grounds": "completion of a prior act"
   },
   {
-   "lemma": "nirguṇaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "adjective"
+   "lemma": "homaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "the completed ritual act"
+  },
+  {
+   "lemma": "praviśya",
+   "morph": "gerund √viś",
+   "grounds": "movement into the ritual space"
+  },
+  {
+   "lemma": "antar",
+   "morph": "(indecl.)",
+   "grounds": "indicates entering within"
+  },
+  {
+   "lemma": "dvārapūjāṃ",
+   "morph": "compound=dvāra+pūjāṃ; f.acc.sg",
+   "grounds": "ritual worship at the door"
+  },
+  {
+   "lemma": "vidhāya",
+   "morph": "gerund √dhā",
+   "grounds": "completion of door worship"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "kularūpavivarjitam",
-   "morph": "compound",
-   "grounds": "compound"
+   "grounds": "connects sequential actions"
   }
  ]
 }

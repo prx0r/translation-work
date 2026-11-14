@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3455,
- "question": "By what divisions is pillar thickness measured?",
+ "question": "Does killing an attacker incur the guilt of embryo-slaying?",
  "premises": [
-  "pillar thickness is measured by parts",
-  "the parts are three, four, five, and six"
+  "One may kill a person who intends to kill.",
+  "Such killing is a defensive act.",
+  "Defensive killing does not produce the guilt of embryo-slaying."
  ],
- "inference": "pillar thickness is measured by three, four, five, or six parts",
- "uncertainties": [
-  "which part applies when unspecified"
- ],
- "plain_english": "Pillar thickness is measured by three, four, five, or six parts."
+ "inference": "Killing one who seeks to kill does not make one an embryo-slayer.",
+ "uncertainties": [],
+ "plain_english": "One may kill a person who wishes to kill, and by that act one does not become an embryo-slayer."
 }

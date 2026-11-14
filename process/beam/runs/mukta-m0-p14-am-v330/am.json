@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p14",
  "verse": 330,
- "question": "What result follows from merely performing this practice?",
+ "question": "How should measures for clay and other unspecified materials be determined?",
  "premises": [
-  "Performance is mentioned.",
-  "The ocean of becoming is the danger.",
-  "Sinking does not occur."
+  "The measure for clay is declared as before.",
+  "Other materials are also included.",
+  "The same method should be inferred for them."
  ],
- "inference": "Merely performing it prevents sinking in the ocean of becoming.",
- "uncertainties": [
-  "Agent parsing approximate."
- ],
- "plain_english": "By merely performing it, one does not sink in the ocean of becoming."
+ "inference": "Clay follows the previously stated measure, and other materials should be measured by the same inferred method.",
+ "uncertainties": [],
+ "plain_english": "The measure for clay is as declared before, and other things also should be inferred in the same way."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3470,
- "question": "How else may a door be made?",
+ "question": "When should flag-hoisting occur if a threefold day is appointed?",
  "premises": [
-  "a door may be made",
-  "mechanisms may be used",
-  "many kinds are allowed"
+  "A threefold day may be appointed.",
+  "Flag-hoisting is part of the festival sequence.",
+  "The verse specifies it should occur before."
  ],
- "inference": "a door may also be made with various mechanisms",
- "uncertainties": [
-  "mechanism types unspecified"
- ],
- "plain_english": "A door may also be made with various mechanisms."
+ "inference": "If a threefold day is appointed, flag-hoisting should be done beforehand.",
+ "uncertainties": [],
+ "plain_english": "If a threefold day is appointed, the flag-hoisting should be done beforehand."
 }

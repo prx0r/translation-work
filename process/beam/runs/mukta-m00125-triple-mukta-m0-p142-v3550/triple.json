@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "mūrtihomaṃ",
+     "gloss": "image-fire-offering",
+     "grounds": "compound object of nayet/kṛtvā sequence",
+     "morph": "mūrti+homam.acc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund.kṛ"
+    },
+    {
+     "surface": "yānānte",
+     "gloss": "at-vehicle-end",
+     "grounds": "locative compound indicating occasion",
+     "morph": "yāna+ante.loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "object of nayet",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-present",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act.√nī"
+    }
+   ],
+   "question": "At what stage should the image-fire-offering or the offering be presented during the vehicle procession?",
+   "premises": [
+    "An image-fire-offering may be performed as a ritual action.",
+    "The conclusion of the vehicle procession provides an alternative occasion.",
+    "An offering is to be presented in this ritual sequence."
+   ],
+   "inference": "Therefore, after performing the image-fire-offering, or at the end of the vehicle procession, one should present the offering.",
+   "uncertainties": [
+    "Whether nayet governs mūrtihomaṃ directly or only baliṃ in the alternative construction is slightly ambiguous."
+   ],
+   "plain_english": "Then, having performed the image-fire-offering, or at the end of the vehicle procession, one should present the offering."
+  }
+ ]
+}

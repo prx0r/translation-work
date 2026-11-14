@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3534,
- "question": "What sword-etc-plank-limbed form above is like a full pot?",
+ "question": "Which form of circumambulation is preferred during the ritual procession in this context?",
  "premises": [
-  "The form is sword-etc-plank-limbed.",
-  "Above it is full-pot-like."
+  "Circumambulation can be performed around the village or the temple",
+  "Ritual prescriptions distinguish preferred and non-preferred options",
+  "Temple circumambulation is favored here"
  ],
- "inference": "The verse describes a sword-etc-plank-limbed form with a full-pot-like element above.",
- "uncertainties": [
-  "The exact plank-limbed referent is unclear."
- ],
- "plain_english": "The sword-etc-plank-limbed form has a full-pot-like element above."
+ "inference": "Village circumambulation is not desired, while temple circumambulation is desired",
+ "uncertainties": [],
+ "plain_english": "Circumambulation of the village is not desired; circumambulation of the temple is desired."
 }

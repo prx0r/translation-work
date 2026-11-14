@@ -3,49 +3,34 @@
  "verse": 329,
  "rows": [
   {
-   "lemma": "sṛṣṭisthitisaṃhāralakṣaṇam",
-   "morph": "compound",
-   "grounds": "compound"
-  },
-  {
-   "lemma": "athavā",
+   "lemma": "tathaiva",
    "morph": "(indecl.)",
-   "grounds": "alternative"
+   "grounds": "extends the previous rule"
   },
   {
-   "lemma": "kutaḥ",
+   "lemma": "pātramānaṃ",
+   "morph": "compound=pātra+mānaṃ; n.nom.sg",
+   "grounds": "measure determined by the vessel"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "interrogative"
+   "grounds": "marks specification"
   },
   {
-   "lemma": "sthānādudeti",
-   "morph": "3.sg.act-pres + root",
-   "grounds": "fused form"
+   "lemma": "mūlamānaṃ",
+   "morph": "compound=mūla+mānaṃ; n.nom.sg",
+   "grounds": "measure determined by roots"
   },
   {
-   "lemma": "kutra",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "interrogative"
+   "grounds": "connects specifications"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "līnā",
-   "morph": "f.nom.sg",
-   "grounds": "participle"
-  },
-  {
-   "lemma": "bhavati",
-   "morph": "3.sg.act-pres + root",
-   "grounds": "verb"
-  },
-  {
-   "lemma": "ityarthaḥ",
-   "morph": "compound",
-   "grounds": "fused form"
+   "lemma": "gandhavat",
+   "morph": "compound=gandha+vat",
+   "grounds": "indicates similarity to the measure of fragrance"
   }
  ]
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p14",
  "verse": 327,
- "question": "What practice concerning the great goddess is now introduced?",
+ "question": "How should the ritual mixture be completed when fruits are unavailable?",
  "premises": [
-  "The speaker turns to a new topic.",
-  "The topic concerns the great goddess.",
-  "It is one-by-one letter accomplishment."
+  "Fruits may be absent.",
+  "Available substitutes may be used as obtained.",
+  "The remainder must be filled with water."
  ],
- "inference": "The verse introduces letter-by-letter accomplishment of the great goddess.",
- "uncertainties": [
-  "Verb root parsing approximate."
- ],
- "plain_english": "Now he speaks of the one-by-one letter accomplishment of the great goddess."
+ "inference": "If fruits are unavailable, one should use what is available and fill the rest with water.",
+ "uncertainties": [],
+ "plain_english": "If fruits are unavailable, use what can be obtained and fill the remainder with water."
 }

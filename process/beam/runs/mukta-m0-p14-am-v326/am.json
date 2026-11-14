@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 326,
- "question": "What textual unit and authorship does this colophon identify for the third chapter?",
+ "question": "What quantities of ghee and honey are prescribed for the ritual mixture?",
  "premises": [
-  "The colophon names Jayaratha as composer.",
-  "It names the commentary on Vamakeshvari doctrine.",
-  "It labels the unit as third chapter."
+  "Ghee is measured like milk.",
+  "Ghee may be half or a quarter in measure.",
+  "Honey is likewise prescribed as one pala."
  ],
- "inference": "This verse marks the third chapter's colophon.",
+ "inference": "The ritual mixture requires ghee in a half or quarter measure and honey in the measure of one pala.",
  "uncertainties": [
-  "Exact editorial punctuation not represented."
+  "The exact base unit relative to which half or quarter is taken is not explicit in this verse."
  ],
- "plain_english": "Thus ends the third chapter composed by the glorious lord Jayaratha in the commentary on the glorious Vamakeshvari doctrine."
+ "plain_english": "Ghee, like milk, should be half or a quarter, and honey likewise one pala."
 }

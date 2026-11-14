@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p144",
  "verse": 3593,
- "question": "How should the odd stair be led?",
+ "question": "What consequence for the king follows from deficiency in the ritual hunt?",
  "premises": [
-  "Only an odd stair is led.",
-  "It is led in clockwise order."
+  "The ritual hunt may be deficient",
+  "The king is connected to this rite",
+  "Deficiency brings adverse consequences"
  ],
- "inference": "The odd stair is led in clockwise order.",
- "uncertainties": [
-  "Whether even stairs are excluded entirely."
- ],
- "plain_english": "Lead only an odd stair in clockwise order."
+ "inference": "If the hunt is deficient, there would be defeat for the king.",
+ "uncertainties": [],
+ "plain_english": "But if the hunt is deficient, there would be defeat for the king."
 }
