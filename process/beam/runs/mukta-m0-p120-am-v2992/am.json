@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2992,
- "question": "How is outer arrangement ordered or made universal?",
+ "question": "Which type of object must be abandoned and which type must be accepted instead?",
  "premises": [
-  "outer arrangement may follow order",
-  "or it may be universal"
+  "A human-made object may be involved",
+  "Human-made objects are to be abandoned",
+  "Self-born and similar objects are to be accepted"
  ],
- "inference": "Outer arrangement is either ordered or universal.",
+ "inference": "If it is human-made, it must be abandoned and a self-born or similar object must be taken instead.",
  "uncertainties": [
-  "choice between order and universality remains unclear"
+  "The specific object class is implied by context"
  ],
- "plain_english": "The outer arrangement is either according to order or universal."
+ "plain_english": "If it is human-made, it should be abandoned, and a self-born or similar one should be taken."
 }

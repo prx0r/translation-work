@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2988,
- "question": "How is the channel divided by three, five, seven, six, eight, and eighteen?",
+ "question": "What remedial action is required if even a minute fire occurs?",
  "premises": [
-  "channel is divided",
-  "divisors include three, five, seven, six, eight, and eighteen"
+  "A fire may occur",
+  "The fire may be only minute in size",
+  "A peace rite is prescribed as remedy"
  ],
- "inference": "Channel division uses these numerical divisors.",
- "uncertainties": [
-  "exact division rule remains unclear"
- ],
- "plain_english": "The channel is divided using three, five, seven, six, eight, and eighteen."
+ "inference": "If even a minute fire occurs, one should perform a peace rite.",
+ "uncertainties": [],
+ "plain_english": "If there is even a minute fire, one should perform a rite of pacification."
 }

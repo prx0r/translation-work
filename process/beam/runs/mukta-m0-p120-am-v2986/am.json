@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2986,
- "question": "How do seven, three, and eleven parts relate to four, five, and six parts?",
+ "question": "What consequence for the king follows from a small or great disturbance in the rite?",
  "premises": [
-  "seven, three, and eleven parts occur",
-  "four, five, and six parts also occur"
+  "The disturbance may be small",
+  "The disturbance may be great",
+  "A consequence for the king is predicted"
  ],
- "inference": "The verse pairs seven-three-eleven parts with four-five-six parts.",
- "uncertainties": [
-  "exact proportional relation remains unclear"
- ],
- "plain_english": "Seven, three, and eleven parts are paired with four, five, and six parts."
+ "inference": "Whether the disturbance is small or great, disease will arise for the king.",
+ "uncertainties": [],
+ "plain_english": "Whether the disturbance is small or great, the king will suffer disease."
 }

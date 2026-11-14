@@ -3,19 +3,29 @@
  "verse": 2956,
  "rows": [
   {
-   "lemma": "yuktam",
-   "morph": "n.nom.sg",
-   "grounds": "participle"
+   "lemma": "eka",
+   "morph": "compound = eka+member",
+   "grounds": "first member of compound indicating one month"
   },
   {
-   "lemma": "drāmiḍavinyāsam",
-   "morph": "m.acc.sg",
-   "grounds": "compound"
+   "lemma": "māsāvadhiṃ",
+   "morph": "compound = māsa+member + avadhi+object.member",
+   "grounds": "upper limit of one month"
   },
   {
-   "lemma": "nāgarakriyayānvitam",
-   "morph": "n.nom.sg",
-   "grounds": "compound"
+   "lemma": "yāvat",
+   "morph": "(indecl.)",
+   "grounds": "extent of the period"
+  },
+  {
+   "lemma": "tatsaṃprokṣaṇaṃ",
+   "morph": "compound = tad+member + saṃprokṣaṇa+object.member",
+   "grounds": "ritual sprinkling as remedy"
+  },
+  {
+   "lemma": "nayet",
+   "morph": "3.sg.optative-active (√nī)",
+   "grounds": "injunctive prescription to carry out"
   }
  ]
 }

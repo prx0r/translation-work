@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2996,
- "question": "How are root parts two, five, six, seven, four, five, and six used?",
+ "question": "What ritual action must be performed when an oblation is given to the deity?",
  "premises": [
-  "root parts include two, five, six, and seven",
-  "four, five, and six parts also occur"
+  "An oblation is given to the deity",
+  "A bathing rite is prescribed",
+  "The bathing must be performed"
  ],
- "inference": "The verse lists root parts in a combined numerical scheme.",
- "uncertainties": [
-  "exact root proportion remains unclear"
- ],
- "plain_english": "At the root, parts two, five, six, seven, four, five, and six are used."
+ "inference": "When an oblation is given to the deity, one must perform a bathing rite.",
+ "uncertainties": [],
+ "plain_english": "When an oblation is given to the deity, one should perform a bathing rite."
 }
