@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2535,
- "question": "What effect does tormenting the mantra produce on its disposition?",
+ "question": "What alternative numerical divisions are permitted for the prescribed measurement scheme?",
  "premises": [
-  "The mantra is subjected to tormenting.",
-  "Ritual pressure can alter the mantra's response.",
-  "The mantra becomes pleased as a result."
+  "One option is twenty plus one third",
+  "Another option is exactly twenty-one",
+  "The alternatives are presented as permissible choices"
  ],
- "inference": "Tormenting the mantra causes it to become favorable.",
- "uncertainties": [],
- "plain_english": "That mantra, when tormented, becomes pleased."
+ "inference": "The measure may alternatively be set as twenty and one third or as twenty-one.",
+ "uncertainties": [
+  "The exact unit to which these numbers apply is carried over from context."
+ ],
+ "plain_english": "Or it may be twenty and one third, or else twenty-one."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2531,
- "question": "What corrective action should be taken if the target is not subdued?",
+ "question": "Which image forms are identified as the sixteenth and the one stated thereafter?",
  "premises": [
-  "The ritual aims to subdue a target.",
-  "The target may fail to become subdued.",
-  "A further coercive action is prescribed in that case."
+  "The Dakṣiṇāmūrti form is designated as sixteenth",
+  "The enemy-of-time form is stated after that",
+  "The text explicitly declares these positions"
  ],
- "inference": "If subjugation fails, one should perform the tormenting rite.",
- "uncertainties": [],
- "plain_english": "If the target does not become subdued, one should perform tormenting."
+ "inference": "The sixteenth image is Dakṣiṇāmūrti and the next one stated is the enemy-of-time form.",
+ "uncertainties": [
+  "The ordinal position of kālāri is not explicitly numbered in this verse."
+ ],
+ "plain_english": "The sixteenth is Dakṣiṇāmūrti, and after that the enemy-of-time form is said."
 }

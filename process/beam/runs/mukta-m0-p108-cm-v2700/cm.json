@@ -3,29 +3,39 @@
  "verse": 2700,
  "rows": [
   {
-   "lemma": "samantāt",
+   "lemma": "īśo",
+   "morph": "m.nom.sg",
+   "grounds": "nominal subject in enumeration; sandhi form of īśaḥ before brahmā"
+  },
+  {
+   "lemma": "brahmā",
+   "morph": "m.nom.sg",
+   "grounds": "nominal subject in enumeration"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating surrounding placement"
+   "grounds": "connective adverb extending the enumeration"
   },
   {
-   "lemma": "ekabhāgena",
-   "morph": "m.instr.sg",
-   "grounds": "instrumental singular masculine of ekabhāga"
+   "lemma": "viṣṇu",
+   "morph": "m.nom.sg",
+   "grounds": "nominal subject in enumeration"
   },
   {
-   "lemma": "catuḥ",
+   "lemma": "śaktir",
+   "morph": "f.nom.sg",
+   "grounds": "nominal subject in enumeration; sandhi form of śaktiḥ before ity"
+  },
+  {
+   "lemma": "ity",
    "morph": "(indecl.)",
-   "grounds": "numeral used adverbially with the verb"
+   "grounds": "quotative particle marking designation; sandhi form of iti before abhidhīyate"
   },
   {
-   "lemma": "śālāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "accusative singular feminine object"
-  },
-  {
-   "lemma": "prakalpayet",
-   "morph": "3.sg.act.opt (root kalp)",
-   "grounds": "causative optative third singular"
+   "lemma": "abhidhīyate",
+   "morph": "3.sg.pass-pres.ind (√dhā + abhi)",
+   "grounds": "predicate stating how the enumerated figures are named"
   }
  ]
 }
