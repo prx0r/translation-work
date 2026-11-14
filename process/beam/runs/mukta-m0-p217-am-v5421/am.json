@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p217",
  "verse": 5421,
- "question": "What ultimate result does a mortal obtain by performing the rite in this manner?",
+ "question": "Which personal-use items are being listed as subject to ritual restriction?",
  "premises": [
-  "A mortal performs the rite thus.",
-  "The rite leads to a final outcome.",
-  "The outcome is liberation."
+  "Seats, food, and vessels are personal-use items",
+  "Sandals and beddings are also listed",
+  "These items are grouped together in instruction"
  ],
- "inference": "A mortal who acts thus would obtain liberation in the end.",
- "uncertainties": [],
- "plain_english": "And a mortal who does thus would obtain liberation in the end."
+ "inference": "Personal-use items such as seat, food, vessel, sandals, and beddings are under ritual restriction",
+ "uncertainties": [
+  "The specific prohibition is carried from the surrounding context"
+ ],
+ "plain_english": "A seat, food, a vessel, and sandals and beddings."
 }

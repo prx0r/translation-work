@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p220",
+ "items": [
+  {
+   "verse": 5500,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb referring to the preceding condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive expressing prior understanding",
+     "morph": "gerund (√jñā)"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "O-great-god",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śāntisvastyayanaṃ",
+     "gloss": "peace-and-welfare-rite",
+     "grounds": "compound naming the ritual to be performed",
+     "morph": "n.acc.sg (compound: śānti+svastyayana)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative enjoining the rite",
+     "morph": "3.sg.optative-active (√car)"
+    }
+   ],
+   "question": "What ritual action follows from understanding that refusing the offering prevents auspicious results?",
+   "premises": [
+    "The preceding verses state that refusing the offered portion prevents auspicious results.",
+    "This consequence is to be understood as stated.",
+    "A peace-and-welfare rite is prescribed as the appropriate response."
+   ],
+   "inference": "Therefore, having understood this consequence, one should perform the peace-and-welfare rite.",
+   "uncertainties": [
+    "The intended performer of caret is not explicitly specified in this verse alone."
+   ],
+   "plain_english": "O great god, having understood this, one should perform the rite of peace and welfare."
+  }
+ ]
+}

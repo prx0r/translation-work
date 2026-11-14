@@ -3,29 +3,44 @@
  "verse": 5380,
  "rows": [
   {
-   "lemma": "śarabheśa",
-   "morph": "compound-member",
-   "grounds": "first member of compound with mantra"
-  },
-  {
-   "lemma": "manunyastvā",
-   "morph": "gerund nyas",
-   "grounds": "mantra installation prior to worship; sandhi form as given"
-  },
-  {
-   "lemma": "yajet",
-   "morph": "3.sg.opt.par yaj",
-   "grounds": "injunction to perform worship"
-  },
-  {
-   "lemma": "viṣṇau",
-   "morph": "m.loc.sg",
-   "grounds": "locus or recipient context of worship"
-  },
-  {
-   "lemma": "saduktavat",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "indicates conformity with prior instruction"
+   "grounds": "negates disclosure"
+  },
+  {
+   "lemma": "tena",
+   "morph": "m.inst.sg",
+   "grounds": "agent who must not disclose"
+  },
+  {
+   "lemma": "mantraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "sacred formula not to be spoken"
+  },
+  {
+   "lemma": "vaktavyaḥ",
+   "morph": "gerundive.m.nom.sg",
+   "grounds": "expresses prohibition of utterance"
+  },
+  {
+   "lemma": "mudrā",
+   "morph": "f.nom.sg",
+   "grounds": "ritual gesture not to be revealed"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "adds alternatives"
+  },
+  {
+   "lemma": "samayāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "observances not to be disclosed"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "further inclusion"
   }
  ]
 }

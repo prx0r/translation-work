@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p218",
  "verse": 5445,
- "question": "What concluding acts of bathing and offering should be performed?",
+ "question": "What substitute is permitted when the Kaula nectar is unavailable in this rite?",
  "premises": [
-  "Bathing should be caused at the end",
-  "Food offering should be given thereafter"
+  "One should request the Kaula nectar.",
+  "The nectar may be absent.",
+  "An alternative designated as kula may be used."
  ],
- "inference": "The rite concludes with bathing and then presentation of the food offering",
- "uncertainties": [],
- "plain_english": "At the end one should have the bathing performed, and then offer the food offering."
+ "inference": "If the Kaula nectar is unavailable, the kula alternative may be used.",
+ "uncertainties": [
+  "The exact referent of 'kulaṃ' as substance or category is context-dependent."
+ ],
+ "plain_english": "One should request the Kaula nectar; in its absence, the kula may be used."
 }
