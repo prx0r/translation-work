@@ -1,0 +1,1125 @@
+{
+ "song": "mukta-m0-p323",
+ "items": [
+  {
+   "verse": 8051,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introductory particle marking a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "another",
+     "grounds": "indicates a different mantra to be taught",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sampravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "speaker announces forthcoming instruction",
+     "morph": "1.sg.act-fut sam-pra-√vac"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula being introduced",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaḍviṃśa",
+     "gloss": "twenty-six",
+     "grounds": "first member of compound specifying syllable count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇakam",
+     "gloss": "syllabled",
+     "grounds": "having syllables; completes compound with ṣaḍviṃśa",
+     "morph": "m.acc.sg compound-final"
+    }
+   ],
+   "question": "What new mantra is introduced and how many syllables does it contain?",
+   "premises": [
+    "The speaker announces a new teaching.",
+    "Another mantra is to be declared.",
+    "The mantra consists of twenty-six syllables."
+   ],
+   "inference": "A distinct twenty-six-syllable mantra is now being taught.",
+   "uncertainties": [],
+   "plain_english": "Now I shall declare another mantra consisting of twenty-six syllables."
+  },
+  {
+   "verse": 8052,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "connects to the preceding instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucchiṣṭa",
+     "gloss": "ucchiṣṭa",
+     "grounds": "epithet or name element in the mantra formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mahātmane",
+     "gloss": "to-great-soul",
+     "grounds": "dative address within the mantra formula",
+     "morph": "m.dat.sg compound-final"
+    }
+   ],
+   "question": "Which divine epithet is included in the formulation of this mantra?",
+   "premises": [
+    "The instruction continues with a formulaic phrase.",
+    "The phrase addresses Ucchiṣṭa.",
+    "Ucchiṣṭa is qualified as the great-souled one."
+   ],
+   "inference": "The mantra includes the address to Ucchiṣṭa, the great-souled one.",
+   "uncertainties": [
+    "The exact syntactic boundary of the mantra phrase across verses is interpretive."
+   ],
+   "plain_english": "Thus: to Ucchiṣṭa, the great-souled one."
+  },
+  {
+   "verse": 8053,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "ritual act associated with the mantra",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual action accompanies the use of this mantra?",
+   "premises": [
+    "The teaching adds a further element.",
+    "That element is worship.",
+    "Worship is presented alongside the mantra."
+   ],
+   "inference": "Worship is to be performed in connection with this mantra.",
+   "uncertainties": [],
+   "plain_english": "And worship is to be performed."
+  },
+  {
+   "verse": 8054,
+   "rows": [
+    {
+     "surface": "hastipiśāci",
+     "gloss": "hastipiśāci",
+     "grounds": "name or mantra element to be written",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "prescriptive instruction for forming the mantra",
+     "morph": "3.sg.act-opt √likh"
+    },
+    {
+     "surface": "svāheti",
+     "gloss": "svāhā-thus",
+     "grounds": "closing mantra syllable with quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrakaḥ",
+     "gloss": "mantra",
+     "grounds": "identifies the formulated sequence as the mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the mantra formula completed and identified in this instruction?",
+   "premises": [
+    "The practitioner is instructed to write Hastipiśāci.",
+    "The formula ends with svāhā.",
+    "This sequence is called the mantra."
+   ],
+   "inference": "The mantra is formed by writing Hastipiśāci and concluding with svāhā.",
+   "uncertainties": [],
+   "plain_english": "One should write 'Hastipiśāci' and end with 'svāhā'; this is the mantra."
+  },
+  {
+   "verse": 8055,
+   "rows": [
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-practice",
+     "grounds": "preparatory ritual discipline for the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "arkalakṣā",
+     "gloss": "hundred-thousand",
+     "grounds": "specifies the number of repetitions; arka often denotes twelve but used here as a large count marker",
+     "morph": "f.nom.sg compound-final"
+    },
+    {
+     "surface": "asyāt",
+     "gloss": "of-it-should-be",
+     "grounds": "prescribes the preliminary practice for this mantra",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "prayogā",
+     "gloss": "applications",
+     "grounds": "ritual uses of the mantra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional related matters",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "refers to previously stated procedures",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preliminary discipline and applications are prescribed for this mantra?",
+   "premises": [
+    "A preliminary practice is required for this mantra.",
+    "The preliminary practice consists of one hundred thousand repetitions.",
+    "Applications and related matters follow the earlier pattern."
+   ],
+   "inference": "This mantra requires one hundred thousand preliminary repetitions, with applications performed as before.",
+   "uncertainties": [
+    "The exact numerical value implied by arkalakṣā may depend on technical convention."
+   ],
+   "plain_english": "Its preliminary practice should be one hundred thousand repetitions, and its applications and so forth are as before."
+  },
+  {
+   "verse": 8056,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "refers to the whole procedure or effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-it",
+     "grounds": "refers back to the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numerical element indicating syllable count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arṇavat",
+     "gloss": "syllabled-like",
+     "grounds": "indicates the mantra is of ten syllables",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllable count is attributed to this mantra in its complete form?",
+   "premises": [
+    "The statement concerns this mantra as a whole.",
+    "The mantra is described by a syllable measure.",
+    "That measure is ten syllables."
+   ],
+   "inference": "The mantra in question is characterized as having ten syllables.",
+   "uncertainties": [
+    "The relation of this ten-syllable form to the previously mentioned twenty-six-syllable mantra is not explicit."
+   ],
+   "plain_english": "All of this is like a ten-syllabled mantra."
+  },
+  {
+   "verse": 8057,
+   "rows": [
+    {
+     "surface": "ekonaviṃśa",
+     "gloss": "nineteen",
+     "grounds": "numerical element specifying syllable count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "syllabled",
+     "grounds": "describes the mantra as having that many syllables",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive or conditional statement",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the resulting condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject whose effect is described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "su",
+     "gloss": "good",
+     "grounds": "intensifying prefix indicating excellence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "successful attainment produced by the mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "making",
+     "grounds": "agentive element meaning producing accomplishment",
+     "morph": "m.nom.sg compound-final"
+    }
+   ],
+   "question": "What effect follows when the mantra is formed with nineteen syllables?",
+   "premises": [
+    "The mantra may be nineteen syllables in form.",
+    "A specific result is stated for that form.",
+    "The result is the production of excellent accomplishment."
+   ],
+   "inference": "A nineteen-syllable form of the mantra brings about excellent accomplishment.",
+   "uncertainties": [],
+   "plain_english": "If it is nineteen syllables, then the mantra becomes a producer of excellent accomplishment."
+  },
+  {
+   "verse": 8058,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescribes a property of the mantra",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numerical element indicating six limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅgakam",
+     "gloss": "limbed",
+     "grounds": "indicates the mantra has six ancillary parts",
+     "morph": "n.nom.sg compound-final"
+    }
+   ],
+   "question": "How many ancillary limbs should this mantra possess?",
+   "premises": [
+    "The mantra is assigned a structural property.",
+    "That property concerns its limbs.",
+    "The number of limbs is six."
+   ],
+   "inference": "The mantra should be endowed with six limbs.",
+   "uncertainties": [],
+   "plain_english": "It should have six limbs."
+  },
+  {
+   "verse": 8059,
+   "rows": [
+    {
+     "surface": "hastimukheti",
+     "gloss": "hastimukha-thus",
+     "grounds": "mantra word followed by quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅentaṃ",
+     "gloss": "ending-in-ṅa",
+     "grounds": "grammatical instruction for forming the word",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "lambodaraṃ",
+     "gloss": "lambodara",
+     "grounds": "name or epithet to be uttered in the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive instruction for recitation",
+     "morph": "3.sg.act-opt √vad"
+    }
+   ],
+   "question": "Which spoken elements must be uttered in this part of the mantra?",
+   "premises": [
+    "The instruction specifies words to be spoken.",
+    "One element is Hastimukha.",
+    "Another is Lambodara in a form ending in ṅa."
+   ],
+   "inference": "One should utter Hastimukha and Lambodara with the specified ending.",
+   "uncertainties": [
+    "The precise grammatical realization of ṅentaṃ in the mantra is technical."
+   ],
+   "plain_english": "One should say 'Hastimukha' and also say 'Lambodara' ending in ṅa."
+  },
+  {
+   "verse": 8060,
+   "rows": [
+    {
+     "surface": "haṃ",
+     "gloss": "haṃ",
+     "grounds": "bīja syllable in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghe",
+     "gloss": "ghe",
+     "grounds": "syllable in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "indicates the syllable ghe is repeated twice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds another element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucchiṣṭāya",
+     "gloss": "to-ucchiṣṭa",
+     "grounds": "dative mantra element",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "first member of compound naming the consort",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gehinī",
+     "gloss": "wife",
+     "grounds": "completes the compound referring to the fire's consort",
+     "morph": "f.nom.sg compound-final"
+    }
+   ],
+   "question": "Which syllables and divine names complete this segment of the mantra?",
+   "premises": [
+    "The mantra includes the syllable haṃ.",
+    "The syllable ghe is given as a pair.",
+    "The formula also includes ucchiṣṭāya and the fire's consort."
+   ],
+   "inference": "This mantra segment consists of haṃ, ghe ghe, ucchiṣṭāya, and the name of the fire's consort.",
+   "uncertainties": [
+    "agni-gehinī may function as a mantra name or epithet; its exact referent is context-dependent."
+   ],
+   "plain_english": "Say 'haṃ', the pair 'ghe ghe', and also 'ucchiṣṭāya', followed by the wife of fire."
+  },
+  {
+   "verse": 8061,
+   "rows": [
+    {
+     "surface": "ucchiṣṭagaṇanāthasya",
+     "gloss": "of-ucchiṣṭa-gaṇanātha",
+     "grounds": "refers to the deity Ucchiṣṭa Gaṇanātha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mantreṣu",
+     "gloss": "in-mantras",
+     "grounds": "locative indicating the domain of the rule",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "eṣu",
+     "gloss": "in-these",
+     "grounds": "specifies the mantras under discussion",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhanam",
+     "gloss": "purification",
+     "grounds": "ritual purification procedure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual procedure is explicitly excluded for these Ucchiṣṭa Gaṇanātha mantras?",
+   "premises": [
+    "The rule concerns these mantras of Ucchiṣṭa Gaṇanātha.",
+    "Purification is a possible ritual procedure.",
+    "Purification is negated for these mantras."
+   ],
+   "inference": "No purification is required in these mantras of Ucchiṣṭa Gaṇanātha.",
+   "uncertainties": [],
+   "plain_english": "In these mantras of Ucchiṣṭa Gaṇanātha, there is no purification."
+  },
+  {
+   "verse": 8062,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "emphasizes constant observance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopyā",
+     "gloss": "to-be-kept-secret",
+     "grounds": "prescribes secrecy regarding the mantras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates disclosure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyā",
+     "gloss": "to-be-revealed",
+     "grounds": "forbids making the mantras public",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "itaḥ",
+     "gloss": "here",
+     "grounds": "indicates one place or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "and-there",
+     "grounds": "indicates other places or contexts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rule of secrecy governs the transmission of these mantras?",
+   "premises": [
+    "The mantras must always be kept secret.",
+    "They must not be revealed.",
+    "This restriction applies everywhere."
+   ],
+   "inference": "These mantras must always remain secret and never be disclosed anywhere.",
+   "uncertainties": [],
+   "plain_english": "They must always be kept secret and never revealed here or there."
+  },
+  {
+   "verse": 8063,
+   "rows": [
+    {
+     "surface": "nirdhanatvaṃ",
+     "gloss": "poverty",
+     "grounds": "adverse consequence of violating secrecy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaṃśa",
+     "gloss": "lineage",
+     "grounds": "first member of compound indicating family line",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chedaḥ",
+     "gloss": "destruction",
+     "grounds": "cutting off or extinction of the lineage",
+     "morph": "m.nom.sg compound-final"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "condition of acting contrary to the rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "states the consequence that would arise",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What consequences follow from violating the secrecy of these mantras?",
+   "premises": [
+    "The secrecy rule may be violated.",
+    "Violation leads to poverty.",
+    "Violation leads to destruction of the lineage."
+   ],
+   "inference": "If the secrecy is violated, poverty and the destruction of one's lineage will result.",
+   "uncertainties": [],
+   "plain_english": "Otherwise, there would be poverty and the destruction of one's lineage."
+  },
+  {
+   "verse": 8064,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "emphasizes constant secrecy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopyā",
+     "gloss": "to-be-kept-secret",
+     "grounds": "reiterates the requirement of secrecy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "marks a heightened restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "first member of compound referring to Vedic rites",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karmaṇaḥ",
+     "gloss": "from-rites",
+     "grounds": "context from which the mantras must especially be kept secret",
+     "morph": "n.abl.sg compound-final"
+    }
+   ],
+   "question": "From which ritual domain must these mantras be especially kept secret?",
+   "premises": [
+    "The mantras must always be kept secret.",
+    "A special restriction is added.",
+    "That restriction concerns Vedic rites."
+   ],
+   "inference": "These mantras must always be kept secret, especially from the domain of Vedic rites.",
+   "uncertainties": [],
+   "plain_english": "They must always be kept secret, especially from Vedic rites."
+  },
+  {
+   "verse": 8065,
+   "rows": [
+    {
+     "surface": "va",
+     "gloss": "va",
+     "grounds": "syllable element of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "indicates the syllable va is taken three times",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "bindu",
+     "grounds": "diacritical mark to be added",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "visargābhyāṃ",
+     "gloss": "with-visargas",
+     "grounds": "indicates accompaniment by two visargas",
+     "morph": "m.inst.du compound-final"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "states that these elements are combined",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the mantra syllable sequence constructed with bindu and visarga?",
+   "premises": [
+    "The syllable va is taken as a triad.",
+    "Bindu and visarga are specified.",
+    "These elements are joined together."
+   ],
+   "inference": "The mantra is formed by a triad of va joined with bindu and two visargas.",
+   "uncertainties": [
+    "The exact placement of bindu and visargas on the triad is not fully specified."
+   ],
+   "plain_english": "A triad of 'va', joined with bindu and two visargas."
+  },
+  {
+   "verse": 8066,
+   "rows": [
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "indicates the mantra's enduring presence or efficacy",
+     "morph": "3.sg.act-pres √sthā"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "identifies the mantra in question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates affliction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the practitioner protected by the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vighnaiḥ",
+     "gloss": "by-obstacles",
+     "grounds": "agents of hindrance or harm",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bādhyate",
+     "gloss": "is-afflicted",
+     "grounds": "states the negated effect of obstacles",
+     "morph": "3.sg.pass-pres √bādh"
+    }
+   ],
+   "question": "What protective power does this mantra provide against obstacles?",
+   "premises": [
+    "This mantra stands firm.",
+    "Obstacles may threaten the practitioner.",
+    "The practitioner is not afflicted by those obstacles."
+   ],
+   "inference": "When this mantra is established, the practitioner is not harmed by obstacles.",
+   "uncertainties": [],
+   "plain_english": "This mantra stands firm, and he is indeed not afflicted by obstacles."
+  },
+  {
+   "verse": 8067,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "first member of compound describing adornment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "alaṅkāra",
+     "gloss": "ornament",
+     "grounds": "adornment element in the compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktāṃ",
+     "gloss": "adorned-with",
+     "grounds": "describes the figure as joined with red ornaments",
+     "morph": "f.acc.sg compound-final"
+    },
+    {
+     "surface": "guṇa",
+     "gloss": "string",
+     "grounds": "first member of compound referring to garland strings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hāra",
+     "gloss": "of-garlands",
+     "grounds": "garlands forming part of the adornment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "virājitām",
+     "gloss": "resplendent",
+     "grounds": "describes the figure as shining with garlands",
+     "morph": "f.acc.sg compound-final"
+    }
+   ],
+   "question": "How should the deity be visualized in terms of adornment for this practice?",
+   "premises": [
+    "The deity is described with specific adornments.",
+    "She is joined with red ornaments.",
+    "She is resplendent with strings of garlands."
+   ],
+   "inference": "The deity should be visualized as adorned with red ornaments and shining with garlands.",
+   "uncertainties": [
+    "The grammatical object of this description is supplied by context in surrounding verses."
+   ],
+   "plain_english": "Adorned with red ornaments and resplendent with strings of garlands."
+  },
+  {
+   "verse": 8068,
+   "rows": [
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation presented to the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior action before recitation",
+     "morph": "(indecl.) gerund √dā"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribes mantra recitation",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "tatgata",
+     "gloss": "fixed-on-that",
+     "grounds": "mind directed toward the deity or mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mānasaḥ",
+     "gloss": "mind",
+     "grounds": "describes the practitioner's mental state",
+     "morph": "m.nom.sg compound-final"
+    }
+   ],
+   "question": "What ritual actions and mental state are required for reciting the mantra?",
+   "premises": [
+    "An offering must be given first.",
+    "The mantra should then be recited.",
+    "The practitioner's mind must be fixed on that."
+   ],
+   "inference": "After giving an offering, one should recite the mantra with the mind fixed on it.",
+   "uncertainties": [],
+   "plain_english": "Having given an offering, one should recite the mantra with the mind fixed on that."
+  },
+  {
+   "verse": 8069,
+   "rows": [
+    {
+     "surface": "japataḥ",
+     "gloss": "of-reciting",
+     "grounds": "refers to the practitioner engaged in recitation",
+     "morph": "m.gen.sg act-pres-part √jap"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to this practitioner or this mantra practice",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "are-born",
+     "grounds": "indicates the arising of results",
+     "morph": "3.pl.mid-pres √jan"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies the accomplishments as complete",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "supernatural or spiritual attainments",
+     "morph": "f.nom.pl compound-final"
+    }
+   ],
+   "question": "What results arise for the practitioner who recites this mantra?",
+   "premises": [
+    "The practitioner engages in recitation.",
+    "Recitation produces results.",
+    "Those results are all accomplishments."
+   ],
+   "inference": "For one who recites this mantra, all accomplishments arise.",
+   "uncertainties": [],
+   "plain_english": "Indeed, for one who recites this, all accomplishments arise."
+  },
+  {
+   "verse": 8070,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes ritual worship",
+     "morph": "3.sg.act-opt √pūj"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "ritual diagram used in worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-the-goddess",
+     "grounds": "identifies the deity to whom the maṇḍala belongs",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "first member of compound specifying the primary mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument used in worship",
+     "morph": "m.inst.sg compound-final"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound describing the practitioner",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vit",
+     "gloss": "knower",
+     "grounds": "one who knows the mantra",
+     "morph": "m.nom.sg compound-final"
+    }
+   ],
+   "question": "How should a knower of the mantra perform worship of the goddess's maṇḍala?",
+   "premises": [
+    "The goddess's maṇḍala is to be worshipped.",
+    "Worship is performed with the root mantra.",
+    "The worshipper is a knower of the mantra."
+   ],
+   "inference": "A knower of the mantra should worship the goddess's maṇḍala with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "The knower of the mantra should worship the goddess's maṇḍala with the root mantra."
+  },
+  {
+   "verse": 8071,
+   "rows": [
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "person who becomes subject to control",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.act-pres √bhū"
+    },
+    {
+     "surface": "vaśya",
+     "gloss": "under-control",
+     "grounds": "first member of compound indicating subjugation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gaḥ",
+     "gloss": "gone",
+     "grounds": "completes compound meaning brought under control",
+     "morph": "m.nom.sg compound-final"
+    }
+   ],
+   "question": "What power over a king results from this ritual practice?",
+   "premises": [
+    "The practice yields a specific result.",
+    "The result concerns a king.",
+    "The king becomes brought under control."
+   ],
+   "inference": "Through this practice, a king becomes brought under one's control.",
+   "uncertainties": [],
+   "plain_english": "The king becomes brought under control."
+  },
+  {
+   "verse": 8072,
+   "rows": [
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "domain of learning or lore",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śastra",
+     "gloss": "weapon",
+     "grounds": "first member of paired compound with śāstra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śāstra",
+     "gloss": "scripture",
+     "grounds": "second member of paired compound with śastra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaśīkṛtām",
+     "gloss": "subdued",
+     "grounds": "brought under control or mastered",
+     "morph": "f.acc.sg compound-final"
+    }
+   ],
+   "question": "Which domains of knowledge and power become mastered through this practice?",
+   "premises": [
+    "The practice affects specific domains.",
+    "These domains include knowledge, weapons, and scriptures.",
+    "These domains become subdued or mastered."
+   ],
+   "inference": "Knowledge, weapons, and scriptures become brought under control.",
+   "uncertainties": [
+    "The syntactic connection to the preceding or following verse is supplied by context."
+   ],
+   "plain_english": "Knowledge, weapons, and scriptures are brought under control."
+  },
+  {
+   "verse": 8073,
+   "rows": [
+    {
+     "surface": "vidhānena",
+     "gloss": "by-procedure",
+     "grounds": "according to the prescribed ritual method",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "come-to-be",
+     "grounds": "states the arising of results",
+     "morph": "3.pl.act-pres √bhū"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of compound specifying type of accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "attainments related to wealth",
+     "morph": "f.nom.pl compound-final"
+    }
+   ],
+   "question": "What kind of accomplishments arise when the ritual is performed according to procedure?",
+   "premises": [
+    "The ritual is performed by the prescribed procedure.",
+    "Accomplishments arise from this performance.",
+    "These accomplishments pertain to wealth."
+   ],
+   "inference": "When performed according to procedure, accomplishments of wealth arise.",
+   "uncertainties": [],
+   "plain_english": "By this procedure, accomplishments of wealth come to be."
+  },
+  {
+   "verse": 8074,
+   "rows": [
+    {
+     "surface": "māsāt",
+     "gloss": "within-a-month",
+     "grounds": "time period after which results manifest",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "come-to-be",
+     "grounds": "states the arising of results",
+     "morph": "3.pl.act-pres √bhū"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhāḥ",
+     "gloss": "accomplished",
+     "grounds": "perfected or attained",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vidyāḥ",
+     "gloss": "knowledges",
+     "grounds": "forms of knowledge or lore",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "specifies the number of knowledges",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Within what time frame and to what extent are the fourteen knowledges accomplished?",
+   "premises": [
+    "The practitioner performs the practice.",
+    "A specific time frame is given.",
+    "Fourteen knowledges become accomplished."
+   ],
+   "inference": "Within a month, the fourteen knowledges become accomplished for the practitioner.",
+   "uncertainties": [],
+   "plain_english": "Within a month, the fourteen knowledges indeed become accomplished for him."
+  }
+ ]
+}

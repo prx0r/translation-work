@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p338",
+ "items": [
+  {
+   "verse": 8450,
+   "rows": [
+    {
+     "surface": "siddhe",
+     "gloss": "accomplished",
+     "grounds": "locative absolute, qualifying manau",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "manau",
+     "gloss": "mantra",
+     "grounds": "locative absolute with siddhe",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.middle-optative √kṛ (pra-)"
+    },
+    {
+     "surface": "prayogāniṣṭasiddhaye",
+     "gloss": "for-ritual-desired-accomplishment",
+     "grounds": "dative of purpose; compound: prayoga + aniṣṭa + siddhi",
+     "morph": "compound.f.dat.sg"
+    }
+   ],
+   "question": "What action should be undertaken once the mantra has been accomplished, and for what purpose?",
+   "premises": [
+    "The mantra has reached an accomplished state.",
+    "Ritual applications are to be performed after such accomplishment.",
+    "The purpose of these applications is the attainment of desired results."
+   ],
+   "inference": "Once the mantra is accomplished, one should perform ritual applications to achieve the desired accomplishment.",
+   "uncertainties": [
+    "The specific range of prayogāni (ritual applications) intended is not specified in this verse alone."
+   ],
+   "plain_english": "When the mantra has been accomplished, one should perform ritual applications for the attainment of the desired result."
+  }
+ ]
+}

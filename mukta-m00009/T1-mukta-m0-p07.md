@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[burning](jalate) + [essence](jaḥ) + [wind](anila) + [space](ākāśa) + [intellect](buddhi) + [unmanifest](avyakteṣu) + [ego](ahaṅkṛtau)
+[water](jala) [fire](tejas) [wind](anila) [ether](ākāśa) [intellect](buddhi) [unmanifest](avyakteṣu) [and-in-ego](ahaṅkṛtau)
 
 ## mukta-m0-p07-v152
-[head](śiraḥ) + [left](vāmaḥ) + [ca](ca) + [two](dvau) + [mantras](mantrau) + [viṣṇuḥ](viṣṇuḥ) + [cause](kāraṇam) + [is said](ucyate)
+[head](śiraḥ) [and-vāma](vāmaḥ) [and](ca) [mantras](mantrau) [two](dvau) [Viṣṇu](viṣṇuḥ) [cause](kāraṇam) [is-called](ucyate)
 
 ## mukta-m0-p07-v153
-[to be meditated on](dhyātavyā) + [throat](gala) + [lotus](padma) + [within](antar) + [abundant](bahula) + [light](āloka) + [possessing](śālinī)
+[to-be-meditated](dhyātavyā) [within-throat-lotus](galapadmāntar) [abundant-light-shining](bahulālokaśālinī)
 
 ## mukta-m0-p07-v154
-[established](pratiṣṭhitaḥ) + [since](yataḥ) + [by that](tena) + [foundation](pratiṣṭhā) + [name](nāma) + [that](sā) + [art](kalā)
+[because-established](pratiṣṭhitaḥ) [since](yatas) [therefore](tena) [pratiṣṭhā](pratiṣṭhā) [by-name](nāma) [that](sā) [kalā](kalā)
 
 ## mukta-m0-p07-v155
-[in knowledge](vidyāyām) + [seven](sapta) + [puruṣaḥ](puruṣaḥ) + [passion](rāgaḥ) + [niyati](niyati) + [united with](saṃyutaḥ)
+[in-vidyā](vidyāyām) [seven](sapta) [puruṣa](puruṣaḥ) [rāga](rāgaḥ) [with-niyati](niyatisaṃyutaḥ)
 
 ## mukta-m0-p07-v156
-[māyā](māyā) + [beginning with](ādi) + [worlds](bhuvanānām) + [ca](ca) + [to be known](vijñeyāḥ) + [seven-and-twenty](saptaviṃśatiḥ)
+[of-māyā-and-other-worlds](māyādibhuvanānām) [and](ca) [to-be-known](vijñeyāḥ) [twenty-seven](saptaviṃśatiḥ)
 
 ## mukta-m0-p07-v157
-[feet/steps](padāni) + [twenty](viṃśatiḥ) + [mantra](mantrau) + [śikhā](śikhā) + [ghorau](ghorau) + [situated](vyavasthitau)
+[words](padāni) [twenty](viṃśatiḥ) [mantras](mantrau) [śikhā-and-aghora](śikhāghorau) [situated](vyavasthitau)
 
 ## mukta-m0-p07-v158
-[that](sā) + [tu](tu) + [flashing](sphurata) + [many](aneka) + [rays](arcis) + [triangle](trikoṇā) + [svastika](svastika) + [marked](aṅkitā)
+[that](sā) [indeed](tu) [flashing-many-rays](sphuradanekārciḥ) [triangular](trikoṇā) [marked-with-svastika](svastikāṅkitā)
 
 ## mukta-m0-p07-v159
-[therein](tat) + [dissolved](pralīna) + [atom](aṇu) + [multitude](saṃghasya) + [thought](saṃkalpaḥ) + [all](aśeṣa) + [object](gocaraḥ)
+[of-the-multitude-of-souls-dissolved-therein](tatpralīnāṇusaṃghasya) [will](saṃkalpaḥ) [having-all-objects](aśeṣagocaraḥ)
 
 ## mukta-m0-p07-v160
-[in śānta](śāntau) + [tu](tu) + [three](trīṇi) + [tattvas](tattvāni) + [ten](daśa) + [eight](aṣṭau) + [worlds](bhuvanāni) + [ca](ca)
+[in-śānti](śāntau) [indeed](tu) [three](trīṇi) [principles](tattvāni) [ten-and-eight](daśāṣṭau) [worlds](bhuvanāni) [and](ca)
 
 ## mukta-m0-p07-v161
-[steps](padāni) + [eleven](ekādaśa) + [atra](atra) + [āsana](āsan) + [mantra](mantrau) + [face](vaktra) + [body](tanu) + [coverings](cchadau)
+[words](padāni) [eleven](ekādaśa) [here](atra) [were](āsan) [mantras](mantrau) [vaktra-and-tanucchada](vaktratanucchadau)
 
 ## mukta-m0-p07-v162
-[six-angled](ṣaṭkoṇa) + [arisen](uditam) + [small](alpānta) + [thousand](sahasra) + [rays](kiraṇa) + [splendor](dyutiḥ)
+[hexagon-risen](ṣaṭkoṇodita) [within-subtle](alpānta) [thousand-ray-splendor](sahasrakiraṇadyutiḥ)
 
 ## mukta-m0-p07-v163
-[therein](tat) + [dissolved](pralīna) + [atom](aṇu) + [multitude](saṃghasya) + [aversion](dveṣa) + [passion](rāga) + [ādi](ādi) + [absence](abhāvataḥ)
+[of-the-multitude-of-souls-dissolved-therein](tatpralīnāṇusaṃghasya) [due-to-absence-of-aversion-attachment-etc](dveṣarāgādyabhāvataḥ)
 
 ## mukta-m0-p07-v164
-[īśvaraḥ](īśvaraḥ) + [cause](kāraṇam) + [tatra](tatra) + [mantra](mantraḥ) + [tatpuruṣa](tatpuruṣa) + [named](āhvayaḥ)
+[Īśvara](īśvaraḥ) [cause](kāraṇam) [there](tatra) [mantra](mantraḥ) [called-tatpuruṣa](tatpuruṣāhvayaḥ)
 
 ## mukta-m0-p07-v165
-[atra](atra) + [ca](ca) + [three](trīṇi) + [tattvas](tattvāni) + [fifth](pañcamī) + [tu](tu) + [supreme](parā) + [art](kalā)
+[here](atra) [and](ca) [three](trīṇi) [principles](tattvāni) [fifth](pañcamī) [indeed](tu) [supreme](parā) [kalā](kalā)
 
 ## mukta-m0-p07-v166
-[syllables](varṇāḥ) + [visarga](visarga) + [preceded by](pūrvāḥ) + [ye](ye) + [sixteen](ṣoḍaśa) + [svara](svara) + [named](saṃjñitāḥ)
+[letters](varṇāḥ) [preceded-by-visarga](visargapūrvāḥ) [which](ye) [sixteen](ṣoḍaśa) [known-as-vowels](svarasaṃjñitāḥ)
 
 ## mukta-m0-p07-v167
-[śāntyatītā](śāntyatītā) + [ca](ca) + [five](pañca) + [path](adhvan) + [womb](garbhiṇī) + [supreme](paramā) + [art](kalā)
+[śāntyatītā](śāntyatītā) [and](ca) [containing-five-paths](pañcādhvāgarbhiṇī) [supreme](paramā) [kalā](kalā)
 
 ## mukta-m0-p07-v168
-[īśānaḥ](īśānaḥ) + [mantra-king](mantrarāṭ) + [enam](enām) + [abides over](adhitiṣṭhati) + [cause](kāraṇam)
+[Īśāna](īśānaḥ) [king-of-mantras](mantrarāṭ) [this](enām) [presides-over](adhitiṣṭhati) [cause](kāraṇam)
 
 ## mukta-m0-p07-v169
-[pervading](vyāpakaḥ) + [worlds](bhuvanādīnām) + [pervaded](abhivyāptaḥ) + [saḥ](saḥ) + [bindu](bindunā)
+[pervading](vyāpakaḥ) [of-worlds-etc](bhuvanādīnām) [pervaded](abhivyāptaḥ) [he](saḥ) [by-bindu](bindunā)
 
 ## mukta-m0-p07-v170
-[saḥ](saḥ) + [hi](hi) + [devaḥ](devaḥ) + [enveloping](samāvṛtya) + [sva](sva) + [śaktyā](śaktyā) + [ananya](ananya) + [bhūtayā](bhūtayā)
+[he](saḥ) [indeed](hi) [god](devaḥ) [having-enveloped](samāvṛtya) [by-his-own-power](svaśaktyā) [not-other-in-nature](ananyabhūtayā)
 
 ## mukta-m0-p07-v171
-[ataḥ](ataḥ) + [śakteḥ](śakteḥ) + [omniscience](sarvajña) + [action](kriyā) + [nature](rūpatvam) + [siddham](siddham)
+[therefore](ataḥ) [of-power](śakteḥ) [nature-of-omniscience-and-omnipotence](sarvajñānakriyārūpatvam) [established](siddham)
 
 ## mukta-m0-p07-v172
-[other](anyasya) + [in other](anyatra) + [being](sadbhāvaḥ) + [always](sarvadā) + [infallible](avyabhicāriṇī)
+[of-another](anyasya) [in-another](anyatra) [existence](sadbhāvaḥ) [always](sarvadā) [invariable](avyabhicāriṇī)
 
 ## mukta-m0-p07-v173
-[twofold](dvidhā) + [sā](sā) + [presence](sannidhā) + [ekā](ekā) + [supreme-self](paramātman) + [by ordinance](vidhānataḥ)
+[twofold](dvidhā) [that](sā) [in-presence](sannidhau) [one](ekā) [by-ordination-of-supreme-self](paramātmavidhānataḥ)
 
 ## mukta-m0-p07-v174
-[as](yathā) + [sun](arkaḥ) + [day](dina) + [activities](ceṣṭānām) + [by presence](sannidheḥ) + [helper](upakārakaḥ)
+[just-as](yathā) [sun](arkaḥ) [of-daytime-activities](dinaceṣṭānām) [by-presence](sannidheḥ) [beneficial](upakārakaḥ)
 
 ## mukta-m0-p07-v175
-[by thought alone](saṅkalpa) + [mātreṇa](mātreṇa) + [agency](kartṛtvam) + [seen](dṛṣṭam)
+[by-mere-will](saṅkalpamātreṇa) [agency](kartṛtvam) [observed](dṛṣṭam)

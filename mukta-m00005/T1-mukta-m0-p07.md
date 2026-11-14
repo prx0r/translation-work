@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[like-a-lamp](pradīpavat) [of-that](tasya) [intellect](matiḥ) [self-and-other-illuminating](svaparātmaprakāśikā)
+[lamp-like](pradīpavat) [intellect](matiḥ) [of-that](tasya) [own+other+self+illuminating](sva+para+ātma+prakāśikā)
 
 ## mukta-m0-p07-v152
-[of-another-instrument-attainment](karaṇāntarasiddhiḥ)
+[instrument+other+establishment](karaṇa+antara+siddhiḥ)
 
 ## mukta-m0-p07-v153
-[a-lamp](pradīpaḥ) [instrument](karaṇaṃ) [of-the-puruṣa](puṃsaḥ) [in-the-apprehension-of-post-etc-objects](stambhādyarthopalabdhiṣu)
+[lamp](pradīpaḥ) [instrument](karaṇaṃ) [of-person](puṃsaḥ) [pillar+etc+object+perceptions](stambha+ādi+artha+upalabdhiṣu)
 
 ## mukta-m0-p07-v154
-[dependent-on-another-instrument](karaṇāntarasāpekṣaḥ) [capable](saktaḥ) [to-make-known](grāhayitum) [the-self](ātmānam) [||](||) [(ślo0-14)](ślo0) [iti](iti)
+[instrument+other+dependent](karaṇa+antara+sāpekṣaḥ) [capable](sakto) [to-make-known](grāhayitum) [self](ātmānam) [verse-14](||) [(ślo0 14)]((ślo0 14)) [thus](iti)
 
 ## mukta-m0-p07-v155
-[by-the-three-guṇas](traiguṇyāt) [it](sā) [by-discrimination](vivekena) [capable](śaktā) [to-show](darśayitum) [not](nahi)
+[due-to-three-guṇas](traiguṇyāt) [that](sā) [by-discrimination](vivekena) [capable](śaktā) [to-show](darśayituṃ) [not](nahi)
 
 ## mukta-m0-p07-v156
-[knowledge](vidyā) [transcending-the-guṇas](guṇaparā) [the-object-to-be-known](vedyaṃ) [discriminated](viviktā) [therefore](ataḥ) [by-discrimination](vivekataḥ)
+[knowledge](vidyā) [guṇa+dependent](guṇa+parā) [knowable](vedyaṃ) [distinct](viviktā) [therefore](ataḥ) [by-discrimination](vivekataḥ)
 
 ## mukta-m0-p07-v157
-[action-etc](karmādikārakānīka) [the-impeller](prayoktā) [for-the-attainment-of-enjoyment](bhogasiddhaye)
+[action+etc+factor+group+employer](karma+ādi+kāraka+anīka+prayoktā) [for-enjoyment+accomplishment](bhoga+siddhaye)
 
 ## mukta-m0-p07-v158
-[in-the-scriptures](śāstreṣu) [is-declared](ucyate)
+[in-scriptures](śāstreṣu) [is-stated](ucyate)
 
 ## mukta-m0-p07-v159
-[in-the-acceptance-of-non-agency](akartṛtvā'bhyupagame) [the-word-enjoyer](bhoktṛśabdaḥ) [meaningless](nirarthakaḥ)
+[non-agency+acceptance](akartṛtva+abhyupagame) [enjoyer+word](bhoktṛ+śabdaḥ) [meaningless](nirarthakaḥ)
 
 ## mukta-m0-p07-v160
-[of-instrument-etc-connection](karaṇādisaṃbandhasya) [on-account-of-meaninglessness](nirarthakatvāt)
+[instrument+etc+connection](karaṇa+ādi+saṃbandhasya) [due-to-meaninglessness](nirarthakatvāt)
 
 ## mukta-m0-p07-v161
-[the-agent](kartṛmat) [action](karma) [gods-etc](devādi) [by-reason-of-being-the-means-of-action](kriyāsādhanabhāvataḥ)
+[agent-possessing](kartṛmat) [action+god+etc](karma+deva+ādi) [due-to-being-means-of-action](kriyā+sādhana+bhāvataḥ)
 
 ## mukta-m0-p07-v162
-[in-the-case-of-the-enjoyment-action](bhogakriyāvidhau) [of-the-being](jantoh) [its-own](nija) [agent-and-instrument](guḥkartṛkārakam) [||](||) [(vi0-10|7)](vi0) [iti](iti)
+[in-enjoyment+action+injunction](bhoga+kriyā+vidhau) [of-creature](jantoḥ) [they-declared](nijaguḥ) [agent+factor](kartṛ+kārakam) [verse](||) [(vi0 10|7)]((vi0 10|7)) [thus](iti)
 
 ## mukta-m0-p07-v163
-[of-the-manifest-agent](vyaktikartran) [not-dependent](apekṣasya) [in-the-agent-state](kartṛbhāve) [being-desired](samīhite)
+[manifest+agent+independent](vyakti+kartṛ+anapekṣasya) [in-agency+state](kartṛ+bhāve) [being-desired](samīhite)
 
 ## mukta-m0-p07-v164
-[of-all-agency-connection](sarvakartṛtvasaṃbandhāt) [all-knowing](sarvajñaḥ) [like-the-supreme-lord](parameśavat)
+[all-agency+connection](sarva+kartṛtva+saṃbandhāt) [omniscient](sarvajñaḥ) [like-supreme-lord](parameśa+vat)
 
 ## mukta-m0-p07-v165
-[and](ca) [not](na) [of-this](asya) [all-agency](sarvakartṛtvaṃ) [on-account-of-bondage](baddhatvāt) [like-an-ox-etc](govṛṣādivat)
+[and-not](na ca) [of-this](asya) [all-agency](sarva+kartṛtvaṃ) [due-to-boundedness](baddhatvāt) [like-cow+bull+etc](go+vṛṣa+ādi+vat)
 
 ## mukta-m0-p07-v166
-[the-shoulder](skandhaḥ) [another](aparaḥ) [of-kalā](kalāyāḥ) [tu](tu) [from-which](yasmāt) [these](etāḥ) [were-born](prajajñire)
+[section](skandhaḥ) [another](aparaḥ) [of-kalā](kalāyāḥ) [but](tu) [from-which](yasmāt) [these](etāḥ) [were-born](prajajñire)
 
 ## mukta-m0-p07-v167
-[the-pasu](paśum) [||](||) [(vi0-10|14)](vi0) [iti](iti)
+[bound-soul](paśum) [verse](||) [(vi0 10|14)]((vi0 10|14)) [thus](iti)
 
 ## mukta-m0-p07-v168
-[earth-etc](vasudhādi) [up-to-kalā](kalāprāntā) [the-aggregate-of-means-of-enjoyment](bhogasādhanasaṃhatiḥ)
+[earth+etc+kalā+ending](vasudhā+ādi+kalā+prāntā) [enjoyment+means+aggregate](bhoga+sādhana+saṃhatiḥ)
 
 ## mukta-m0-p07-v169
-[wanders](paryaṭati) [by-force-of-karma](karmavaśato) [in-worlds-and-bodies](bhuvanajahedeṣu) [this](ayam) [ca](ca) [in-all](sarveṣu) [||](||) [(ślo0-24-25)](ślo0) [iti](iti)
+[wanders](paryaṭati) [by-force-of-karma](karma+vaśataḥ) [in-world+body+group](bhuvana+jahedeṣu) [this](ayaṃ) [and](ca) [in-all](sarveṣu) [verse](||) [(ślo0 24-25)]((ślo0 24-25)) [thus](iti)
 
 ## mukta-m0-p07-v170
-[otherwise](anyathā) [hi](hi) [of-pleasure-etc](sukhādīnām) [seen](dṛṣṭaḥ) [difference](bhedaḥ) [not](na) [is-fitting](yujyate)
+[otherwise](anyathā) [indeed](hi) [of-pleasure+etc](sukha+ādīnāṃ) [observed](dṛṣṭaḥ) [difference](bhedaḥ) [not](na) [is-fitting](yujyate)
 
 ## mukta-m0-p07-v171
-[by-connection-etc](sambandhādy) [simultaneously](yugapat) [that](sā) [tu](tu) [doing](kurvantī) [by-action-and-agents](karmakartṛbhiḥ)
+[connection+etc](sambandha+ādi) [simultaneously](yugapat) [that](sā) [but](tu) [producing](kurvantī) [with-karma+agents](karma+kartṛbhiḥ)
 
 ## mukta-m0-p07-v172
-[a-subtle-body-difference](sūkṣmadehabhedaḥ) [necessarily](avaśyam) [is-to-be-accepted](abhyupagantavyaḥ)
+[subtle+body+difference](sūkṣma+deha+bhedaḥ) [necessarily](avaśyam) [to-be-admitted](abhyupagantavyaḥ)
 
 ## mukta-m0-p07-v173
-[of-selves](ātmanām) [api](api) [manifoldness](anekatvam) [by-this-very-reason](ata-eva) [is-inferred](pratīyate)
+[of-selves](ātmanām) [also](api) [plurality](anekatvam) [from-this-very-reason](ataḥ eva) [is-understood](pratīyate)
 
 ## mukta-m0-p07-v174
-[in-detail](vistareṇa) [has-been-shown](darśitaḥ)
+[in-detail](vistareṇa) [shown](darśitaḥ)
 
 ## mukta-m0-p07-v175
-[action-indication](karmanirdeśa) [agitation-of-instrument](vikṣobhakaraṇatvaṃ) [ca](ca) [not](na) [the-latter](uttaram)
+[karma+designation+disturbance+causing](karma+nirdeśa+vikṣobha+karaṇatvaṃ) [and](ca) [not](na) [subsequent](uttaram)

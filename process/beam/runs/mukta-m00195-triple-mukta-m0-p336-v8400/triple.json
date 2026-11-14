@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p336",
+ "items": [
+  {
+   "verse": 8400,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introductory particle marking transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra+antaraṃ",
+     "gloss": "another-mantra",
+     "grounds": "compound denoting a different mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-shall-declare",
+     "grounds": "verb of speaking introducing the forthcoming teaching",
+     "morph": "1.sg.future.ātmanepada √vac"
+    },
+    {
+     "surface": "bhāmajasya",
+     "gloss": "of-Mars",
+     "grounds": "genitive indicating the deity or planet to whom the mantra belongs",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mahā+adbhutam",
+     "gloss": "very-wondrous",
+     "grounds": "compound qualifying the mantra as greatly marvelous",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which wondrous alternative mantra is taught for the planet Mars?",
+   "premises": [
+    "The speaker introduces a new topic.",
+    "An alternative mantra is to be declared.",
+    "This mantra belongs to Mars and is very wondrous."
+   ],
+   "inference": "Therefore, a wondrous alternative mantra of Mars will be taught.",
+   "uncertainties": [],
+   "plain_english": "Now I shall declare another very wondrous mantra of Mars."
+  }
+ ]
+}

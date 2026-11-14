@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[because](yataḥ) [this](ayam) [endless](anantaḥ) [of-transformation](pariṇāmasya) [agent](kartā) [therefore](tataḥ) [of-such-nature](tathāvidha) [with-conceptual+knowledge-possessor](savikalpakajñānavān) [thus](iti) [meaning](arthaḥ)
+[because](yataḥ) [this](ayam) [endless](anantaḥ) [of-transformation](pariṇāmasya) [agent](kartā) [therefore](tatas) [of-such-kind](tathāvidha) [with-conceptual](savikalpaka) [possessing-knowledge](jñānavān) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p05-v102
-[thus](iti) [knows](jānāti) [who](yaḥ) [capable](śaktaḥ) [he](saḥ) [agent](kartā) [of-transforming-things](pariṇāminām)
+[thus](iti) [knows](jānāti) [who](yaḥ) [capable](śaktaḥ) [he](sa) [agent](kartā) [of-the-transforming](pariṇāminām)
 
 ## mukta-m0-p05-v103
-[for-example](tathāhi) [everyone](sarvaḥ) [freed-from-concepts](nirdhūtavikalpam) [perceiving](avalokayan)
+[for-example](tathāhi) [everyone](sarvo) [having-dispelled](nirdhūta) [conceptualization](vikalpam) [perceiving](avalokayan)
 
 ## mukta-m0-p05-v104
 [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p05-v105
-[by-endless](anantena) [also](api) [word-accompanied+cognition-preceded](śabdānuviddhavijñānapūrvakam)
+[by-the-infinite](anantenāpi) [word](śabda) [pervaded](anuviddha) [cognition](vijñāna) [preceded-by](pūrvakam)
 
 ## mukta-m0-p05-v106
-[with-concept](savikalpaṃ) [I-know](vijānāmi) [thus](iti) [awareness-presumption](avabodhābhimānataḥ)
+[with-conceptualization](savikalpaṃ) [I-know](vijānāmi) [thus](iti) [awareness](avabodha) [due-to-presumption](abhimānataḥ)
 
 ## mukta-m0-p05-v107
-[in-non-conceptual+cognition](nirvikalpakabodhe) [also](api) [bindu](bindum) [Lord](īśaḥ) [presides-over](adhitiṣṭhati)
+[in-non-conceptual](nirvikalpaka) [cognition](bodhe) [also](api) [the-drop](bindum) [the-Lord](īśaḥ) [presides-over](adhitiṣṭhati)
 
 ## mukta-m0-p05-v108
-[not](na) [by-activity+and-by-transformation](vṛttipariṇāmābhyāṃ) [agent-difference](kartṛbhedaḥ) [is-ascertained](avadhāryate)
+[not](na) [by-function](vṛtti) [and-by-transformation](pariṇāmābhyāṃ) [of-agent](kartṛ) [difference](bhedaḥ) [is-ascertained](avadhāryate)
 
 ## mukta-m0-p05-v109
-[of-bindu](bindoḥ) [also](api) [in-form-of-principle+world+etc.](tattvabhuvanādirūpeṇa) [because-of-scriptural-statement-of-transformation](pariṇāmaśruteḥ) [of-activity+and-transformation](vṛttipariṇamayoḥ) [absolute+difference+non-existence](atyantabhedābhāvāt) [and](ca)
+[of-the-drop](bindoḥ) [also](api) [as-principle](tattva) [world](bhuvana) [and-so-on](ādi) [in-form](rūpeṇa) [of-transformation](pariṇāma) [because-of-scriptural-statement](śruteḥ) [of-function](vṛtti) [and-transformation](pariṇāmayoḥ) [absolute](atyanta) [non-difference](bheda) [and-because-of-absence](abhāvāt) [and](ca)
 
 ## mukta-m0-p05-v110
-[sound-principle](śabdatattvam) [unstruck](aghoṣā) [speech](vāk) [Brahman](brahma) [Kuṇḍalinī](kuṇḍalinī) [fixed](dhruvam)
+[sound](śabda) [principle](tattvam) [unstruck](aghoṣā) [speech](vāg) [Brahman](brahma) [coiled-one](kuṇḍalinī) [fixed](dhruvam)
 
 ## mukta-m0-p05-v111
-[bindu](binduḥ) [thus](evaṃ) [designated](samākhyātaḥ) [ether](vyoma) [unstruck](anāhatam) [thus](iti) [also](api)
+[the-drop](binduḥ) [thus](evaṃ) [designated](samākhyāto) [ether](vyoma) [unstruck](anāhatam) [thus](iti) [also](api)
 
 ## mukta-m0-p05-v112
-[vaikharī](vaikharī) [called-madhyamā](madhyamābhikhyā) [paśyantī](paśyantī) [named-subtle](sūkṣmasaṃjñitā)
+[articulated](vaikharī) [middle](madhyamā) [named](abhikhyā) [seeing](paśyantī) [subtle](sūkṣma) [called](saṃjñitā)
 
 ## mukta-m0-p05-v113
-[therefore](ataḥ) [of-these](āsāṃ) [as-cause](kāraṇatvena) [bindu](binduḥ) [established](siddhaḥ) [thus](iti) [meaning](arthaḥ)
+[therefore](ataḥ) [of-these](āsāṃ) [as-cause](kāraṇatvena) [the-drop](binduḥ) [established](siddhaḥ) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p05-v114
-[in-places](sthāneṣu) [restrained](vidhṛte) [air](vāyau) [having-assumed-letters](kṛtavarṇaparigrahā)
+[in-places](sthāneṣu) [restrained](vidhṛte) [when-air](vāyau) [having-assumed](kṛta) [letter](varṇa) [form](parigrahā)
 
 ## mukta-m0-p05-v115
-[merely](kevalaṃ) [having-intellect-as-material](buddhyupādānā) [gradually](kramāt) [following-letters](varṇānupātinī)
+[merely](kevalaṃ) [intellect](buddhi) [having-as-material](upādānā) [gradually](kramād) [letters](varṇān) [following](upātinī)
 
 ## mukta-m0-p05-v116
-[vital-breath+activity](prāṇavṛttim) [transcending](atikramya) [functions](vartate) [called-madhyamā](madhyamāhvayā)
+[vital-breath](prāṇa) [function](vṛttim) [having-transcended](atikramya) [operates](vartate) [middle](madhyamā) [named](āhvayā)
 
 ## mukta-m0-p05-v117
-[self-luminous](svayaṃprakāśā) [paśyantī](paśyantī) [like-peacock-egg-fluid](māyūrāṇḍarasopamā)
+[self-luminous](svayaṃprakāśā) [seeing](paśyantī) [peacock](māyūra) [egg](āṇḍa) [fluid](rasa) [resembling](upamā)
 
 ## mukta-m0-p05-v118
-[this](iyam) [and](ca) [of-syllable+bindu-form](akṣarabindurūpā) [thus](iti) [stated](uktam)
+[this](iyaṃ) [and](ca) [syllable](akṣara) [drop](bindu) [form](rūpā) [thus](iti) [stated](uktam)
 
 ## mukta-m0-p05-v119
-[in-which](yasyāṃ) [having-seen-own-nature](dṛṣtasvarūpāyām) [qualification](adhikāraḥ) [ceases](nivartate)
+[in-which](yasyāṃ) [seen](dṛṣṭa) [own-nature](svarūpāyām) [agency](adhikāro) [ceases](nivartate)
 
 ## mukta-m0-p05-v120
-[because-of-accomplishment-of-cessation](nivṛttisiddheḥ)
+[of-cessation](nivṛtti) [because-of-accomplishment](siddheḥ)
 
 ## mukta-m0-p05-v121
-[alone](kevalaḥ) [supreme-bliss](paramānandaḥ) [wise](dhīraḥ) [eternally-risen](nityoditaḥ) [lord](prabhuḥ)
+[alone](kevalaḥ) [supreme](parama) [bliss](ānando) [wise](dhīro) [eternally-risen](nityoditaḥ) [lord](prabhuḥ)
 
 ## mukta-m0-p05-v122
-[moving-within-all-beings](sarvabhūtāntaracaraḥ) [of-sound-Brahman-nature](śabdabrahmātmakaḥ) [sun](raviḥ)
+[all](sarva) [beings](bhūta) [within](antara) [moving](caraḥ) [sound](śabda) [Brahman](brahma) [natured](ātmako) [sun](raviḥ)
 
 ## mukta-m0-p05-v123
-[that](tām) [indeed](eva) [speech](vāṇīṃ) [called-subtle](sūkṣmākhyām) [say](āhuḥ) [knowers-of-self](ātmavidaḥ) [people](janāḥ)
+[that](tām) [indeed](eva) [speech](vāṇīṃ) [subtle](sūkṣma) [named](ākhyām) [call](āhuḥ) [self](ātma) [knowers](vido) [people](janāḥ)
 
 ## mukta-m0-p05-v124
-[because-of-insentience](jaḍatvāt) [in-conjunction-with-that](tatsamavāye) [of-person](puruṣasya) [also](api) [because-of-consequence-of-faults-such-as-mutability+insentience+etc.](vikāritvā'cetanatvādidoṣaprasaṅgāt)
+[because-of-insentience](jaḍatvāt) [with-that](tat) [in-conjunction](samavāye) [of-the-person](puruṣasya) [also](api) [mutability](vikāritva) [non-consciousness](acetanatva) [and-so-on](ādi) [fault](doṣa) [because-of-entailment](prasaṅgāt)
 
 ## mukta-m0-p05-v125
-[from-these](ābhyaḥ) [distinct](viviktam) [self](ātmānaṃ) [not](nahi) [see](paśyanti) [individuals](pudgalāḥ)
+[from-these](ābhyo) [distinct](viviktam) [self](ātmānaṃ) [not](nahi) [see](paśyanti) [individuals](pudgalāḥ)

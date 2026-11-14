@@ -1,0 +1,83 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p327",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v8175 ratio=0.889",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "01bc92dfcee975e1",
+ "source_digest_normalized_sha256": "01bc92dfcee975e1a6ab2bdf01a1f083883c6c645353384656f34256270f7774",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 134
+ },
+ "align": {
+  "min_ratio": 0.889,
+  "sub090": {
+   "8175": {
+    "ratio": 0.889,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "This cake gives great satisfaction to the śaktis."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 60,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 134,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v8175"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "7a22492c1bff8c415dced135b9b7aeafa0b50a9e594b1f377361dd7ced1dbaa4",
+  "l0": "02f2a1873c8db58697ecf9c947ef83c2697c06996e0b259f6818a1934661d421",
+  "argmap": "48b6dad5c6e8bed60829167f1978bd573e575d4aa8242e0fab5a134d810ca125",
+  "l2": "1e365483783a629be44ac2d45867bc89ffbcc453c5cf99cd999bd2af434d0a41",
+  "c1": "7aa934974b6c45a03d784a74f7d26d975546493b4f52e10eafa3275476b83bdf"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "01bc92dfcee975e1",
+  "t1": "mukta-m0-p327/data/mukta-m0-p327.t1.json",
+  "l0": "mukta-m0-p327/data/mukta-m0-p327.l0.json",
+  "l2": "mukta-m0-p327/data/mukta-m0-p327.l2.json",
+  "c1": "mukta-m0-p327/data/mukta-m0-p327.c1.json"
+ }
+}

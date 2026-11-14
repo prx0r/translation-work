@@ -1,0 +1,1137 @@
+{
+ "song": "mukta-m0-p327",
+ "items": [
+  {
+   "verse": 8151,
+   "rows": [
+    {
+     "surface": "māṣa",
+     "gloss": "black-gram",
+     "grounds": "ingredient in the mixture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āḍhakī",
+     "gloss": "pigeon-pea",
+     "grounds": "ingredient in the mixture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "masūraiḥ",
+     "gloss": "with-lentils",
+     "grounds": "ingredient in the mixture",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇaka",
+     "gloss": "chickpea",
+     "grounds": "ingredient in the mixture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "annaiḥ",
+     "gloss": "with-grains",
+     "grounds": "ingredient in the mixture",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "mixed-with",
+     "grounds": "describes the prepared mixture",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ingredients must be combined to prepare the prescribed ritual mixture?",
+   "premises": [
+    "Black gram and pigeon pea are included in the mixture.",
+    "Lentils, chickpea, and grains are included in the mixture.",
+    "All these ingredients are combined together."
+   ],
+   "inference": "The prescribed mixture consists of black gram, pigeon pea, lentils, chickpea, and grains combined together.",
+   "uncertainties": [],
+   "plain_english": "The mixture is prepared with black gram, pigeon pea, lentils, chickpea, and grains."
+  },
+  {
+   "verse": 8152,
+   "rows": [
+    {
+     "surface": "kaṭu",
+     "gloss": "pungent",
+     "grounds": "qualifies the oil",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tailena",
+     "gloss": "with-oil",
+     "grounds": "medium of cooking",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pakvāḥ",
+     "gloss": "cooked",
+     "grounds": "describes preparation of the cake",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "mudrikā",
+     "gloss": "cake",
+     "grounds": "ritual offering item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "qualifies the cake",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the mixture be cooked to become the supreme ritual cake?",
+   "premises": [
+    "The preparation involves cooking in pungent oil.",
+    "The resulting item is called a mudrikā or cake.",
+    "This cake is described as supreme."
+   ],
+   "inference": "When cooked in pungent oil, the mixture becomes the supreme ritual cake.",
+   "uncertainties": [],
+   "plain_english": "Cooked in pungent oil, it should become the supreme cake."
+  },
+  {
+   "verse": 8153,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madya",
+     "gloss": "liquor",
+     "grounds": "first permitted liquid; fused with following m",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "m",
+     "gloss": "and",
+     "grounds": "sandhi fragment forming madyam with preceding token",
+     "morph": "(indecl.-fragment)"
+    },
+    {
+     "surface": "āsavaṃ",
+     "gloss": "spirituous-liquor",
+     "grounds": "second permitted liquid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itarat",
+     "gloss": "other",
+     "grounds": "excludes other liquids",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which liquids are permitted or excluded for this ritual preparation?",
+   "premises": [
+    "Liquor is mentioned as a permitted option.",
+    "Spirituous liquor is mentioned as a permitted option.",
+    "Other liquids are explicitly excluded."
+   ],
+   "inference": "Only liquor and spirituous liquor are permitted, and no other liquid should be used.",
+   "uncertainties": [
+    "The token 'm' appears as a sandhi fragment of 'madyam'; analyzed in fused form."
+   ],
+   "plain_english": "One may use liquor or spirituous liquor, but nothing else."
+  },
+  {
+   "verse": 8154,
+   "rows": [
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpyaṃ",
+     "gloss": "to-be-placed",
+     "grounds": "prescribes placement action",
+     "morph": "n.nom.sg.gerundive √sthā"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "temporal limit particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amlaṃ",
+     "gloss": "sour",
+     "grounds": "desired resulting state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "describes transformation",
+     "morph": "3.sg.present-passive √jan"
+    }
+   ],
+   "question": "How long must the preparation remain in water during this process?",
+   "premises": [
+    "The preparation must be placed in water.",
+    "The duration is defined by a resulting condition.",
+    "The process continues until sourness is produced."
+   ],
+   "inference": "The preparation should be kept in water until it becomes sour.",
+   "uncertainties": [],
+   "plain_english": "It should be placed in water until it becomes sour."
+  },
+  {
+   "verse": 8155,
+   "rows": [
+    {
+     "surface": "mudrā",
+     "gloss": "cake",
+     "grounds": "ritual offering item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktīnām",
+     "gloss": "of-the-śaktis",
+     "grounds": "recipients of satisfaction",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ati",
+     "gloss": "great",
+     "grounds": "intensifier in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tṛpti",
+     "gloss": "satisfaction",
+     "grounds": "effect produced by the cake",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giving",
+     "grounds": "describes function of the cake",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What effect does this ritual cake have upon the śaktis?",
+   "premises": [
+    "The item is identified as a mudrā or cake.",
+    "The cake is directed toward the śaktis.",
+    "The cake gives great satisfaction."
+   ],
+   "inference": "This cake gives great satisfaction to the śaktis.",
+   "uncertainties": [],
+   "plain_english": "This cake gives great satisfaction to the śaktis."
+  },
+  {
+   "verse": 8156,
+   "rows": [
+    {
+     "surface": "dakṣa",
+     "gloss": "right",
+     "grounds": "qualifies the path in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mārga",
+     "gloss": "path",
+     "grounds": "ritual path in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stha",
+     "gloss": "situated",
+     "grounds": "describes location of the śaktis",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-the-śaktis",
+     "grounds": "recipients associated with the cakes",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mudrikāḥ",
+     "gloss": "cakes",
+     "grounds": "ritual offering items",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "are-declared",
+     "grounds": "authoritative designation",
+     "morph": "f.nom.pl.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "For which śaktis are these cakes specifically declared as offerings?",
+   "premises": [
+    "The cakes are formally declared in the text.",
+    "The recipients are śaktis.",
+    "These śaktis are situated in the right path."
+   ],
+   "inference": "These cakes are declared for the śaktis situated in the right path.",
+   "uncertainties": [],
+   "plain_english": "These cakes are declared for the śaktis of the right-hand path."
+  },
+  {
+   "verse": 8157,
+   "rows": [
+    {
+     "surface": "harimanthānaṃ",
+     "gloss": "harimantha",
+     "grounds": "primary ingredient to be mixed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvidalena",
+     "gloss": "with-split-pulse",
+     "grounds": "ingredient mixed with harimantha",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "melayet",
+     "gloss": "one-should-mix",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-act √mil"
+    }
+   ],
+   "question": "What ingredients must be mixed together in this preparation step?",
+   "premises": [
+    "Harimantha is specified as an ingredient.",
+    "Split pulse is specified as an ingredient.",
+    "The instruction is to mix them together."
+   ],
+   "inference": "One should mix harimantha with split pulse.",
+   "uncertainties": [
+    "The exact identity of 'harimantha' is not specified in the verse."
+   ],
+   "plain_english": "One should mix harimantha with split pulse."
+  },
+  {
+   "verse": 8158,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-added",
+     "grounds": "prior action in preparation",
+     "morph": "(indecl.) absolutive √dā"
+    },
+    {
+     "surface": "maricāni",
+     "gloss": "peppercorns",
+     "grounds": "spice ingredient added",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patrajam",
+     "gloss": "leaf-born-spice",
+     "grounds": "additional spice ingredient",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional spices should be added to the mixture?",
+   "premises": [
+    "Peppercorns are to be added.",
+    "A leaf-born spice is to be added.",
+    "These additions follow the mixing step."
+   ],
+   "inference": "Peppercorns and a leaf-born spice should be added to the mixture.",
+   "uncertainties": [
+    "The specific leaf-born spice denoted by 'patrajam' is not identified."
+   ],
+   "plain_english": "Then add peppercorns and a leaf-born spice."
+  },
+  {
+   "verse": 8159,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "qualifies the path in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mārga",
+     "gloss": "path",
+     "grounds": "ritual path in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gaṇeśānāṃ",
+     "gloss": "of-the-gaṇeśas",
+     "grounds": "recipients of the offering",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "offering",
+     "grounds": "ritual item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "qualifies satisfaction in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "toṣa",
+     "gloss": "satisfaction",
+     "grounds": "effect produced in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "producing",
+     "grounds": "describes function of the offering",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "For whom does this offering produce supreme satisfaction in the left path?",
+   "premises": [
+    "The offering is associated with the left path.",
+    "The recipients are the gaṇeśas.",
+    "The offering produces supreme satisfaction."
+   ],
+   "inference": "This offering produces supreme satisfaction for the gaṇeśas of the left path.",
+   "uncertainties": [],
+   "plain_english": "This offering brings supreme satisfaction to the gaṇeśas of the left-hand path."
+  },
+  {
+   "verse": 8160,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "well",
+     "grounds": "manner of grinding",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "prior preparation action",
+     "morph": "(indecl.) absolutive √piṣ"
+    },
+    {
+     "surface": "nibaddhaṃ",
+     "gloss": "bound-together",
+     "grounds": "describes the prepared mass",
+     "morph": "n.nom.sg.past-passive-participle √bandh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "ingredient added",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-added",
+     "grounds": "prior action in preparation",
+     "morph": "(indecl.) absolutive √dā"
+    },
+    {
+     "surface": "viloḍitam",
+     "gloss": "stirred",
+     "grounds": "final preparation action",
+     "morph": "n.nom.sg.past-passive-participle √luḍ"
+    }
+   ],
+   "question": "What preparation steps must follow grinding in making this offering?",
+   "premises": [
+    "The ingredients must be well ground.",
+    "The mixture is bound together and curd is added.",
+    "The mixture is then stirred."
+   ],
+   "inference": "After grinding well and binding the mixture, one should add curd and stir it.",
+   "uncertainties": [],
+   "plain_english": "Grind it well, bind it together, add curd, and stir it."
+  },
+  {
+   "verse": 8161,
+   "rows": [
+    {
+     "surface": "elā",
+     "gloss": "cardamom",
+     "grounds": "first fragrance ingredient in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates additional similar items",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kasugandhaiḥ",
+     "gloss": "with-fragrances",
+     "grounds": "aromatic ingredients added",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddhūlikā",
+     "gloss": "uddhūlikā",
+     "grounds": "name or type of cake in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mudrikā",
+     "gloss": "cake",
+     "grounds": "ritual offering item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "authoritative designation",
+     "morph": "f.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What is the name and composition of the cake made with fragrant ingredients?",
+   "premises": [
+    "Cardamom and other fragrances are included.",
+    "The prepared item is a mudrikā or cake.",
+    "It is considered an uddhūlikā cake."
+   ],
+   "inference": "A cake prepared with cardamom and other fragrances is considered the uddhūlikā cake.",
+   "uncertainties": [
+    "The exact meaning of 'uddhūlikā' as a cake type is not fully specified."
+   ],
+   "plain_english": "With cardamom and other fragrances, it is considered the uddhūlikā cake."
+  },
+  {
+   "verse": 8162,
+   "rows": [
+    {
+     "surface": "bhānu",
+     "gloss": "sun",
+     "grounds": "source of rays in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kiraṇaiḥ",
+     "gloss": "by-rays",
+     "grounds": "means of cooking or heating",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "rājye",
+     "gloss": "in-ghee",
+     "grounds": "medium of cooking; legacy hint suggests ghee",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pakvasya",
+     "gloss": "of-cooked",
+     "grounds": "refers to the cooked substance",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numerical factor in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "guṇe",
+     "gloss": "times",
+     "grounds": "indicates proportion or multiple",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Under what cooking conditions and proportion is this preparation made?",
+   "premises": [
+    "The preparation is cooked by the rays of the sun.",
+    "The cooking occurs in ghee.",
+    "A sixfold proportion is specified."
+   ],
+   "inference": "The substance is cooked in ghee by the sun's rays in a sixfold proportion.",
+   "uncertainties": [
+    "The exact referent of the sixfold proportion is unclear from this verse alone."
+   ],
+   "plain_english": "It is cooked in ghee by the sun's rays in a sixfold measure."
+  },
+  {
+   "verse": 8163,
+   "rows": [
+    {
+     "surface": "priyā",
+     "gloss": "dear",
+     "grounds": "describes the offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "toṣa",
+     "gloss": "satisfaction",
+     "grounds": "effect produced in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karī",
+     "gloss": "producing",
+     "grounds": "describes function of the offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates constant effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lasting effect does this preparation have as an offering?",
+   "premises": [
+    "The preparation is described as dear.",
+    "It produces satisfaction.",
+    "This effect is said to occur always."
+   ],
+   "inference": "This preparation is always dear and produces satisfaction.",
+   "uncertainties": [],
+   "plain_english": "It is always dear and brings satisfaction."
+  },
+  {
+   "verse": 8164,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "refers back to previous substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "indicates equal proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caṇaka",
+     "gloss": "chickpea",
+     "grounds": "ingredient in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cūrṇakam",
+     "gloss": "flour",
+     "grounds": "form of the chickpea ingredient",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ingredient should be added in equal proportion to the previous substance?",
+   "premises": [
+    "A previous substance is taken as reference.",
+    "An equal quantity is prescribed.",
+    "Chickpea flour is the added ingredient."
+   ],
+   "inference": "Chickpea flour should be added in a quantity equal to that substance.",
+   "uncertainties": [],
+   "plain_english": "Add chickpea flour equal in amount to that."
+  },
+  {
+   "verse": 8165,
+   "rows": [
+    {
+     "surface": "mudrikā",
+     "gloss": "cake",
+     "grounds": "ritual offering item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the cake",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaṇeśānāṃ",
+     "gloss": "of-the-gaṇeśas",
+     "grounds": "recipients of the offering",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "priyaṃ",
+     "gloss": "dear",
+     "grounds": "effect or quality in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karā",
+     "gloss": "making",
+     "grounds": "describes function of the cake",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What effect does this particular cake have for the gaṇeśas?",
+   "premises": [
+    "This item is identified as a cake.",
+    "The cake is associated with the gaṇeśas.",
+    "It makes or brings what is dear to them."
+   ],
+   "inference": "This cake is pleasing to the gaṇeśas.",
+   "uncertainties": [],
+   "plain_english": "And this cake is pleasing to the gaṇeśas."
+  },
+  {
+   "verse": 8166,
+   "rows": [
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-gaṇeśa",
+     "grounds": "recipient of pleasure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prīti",
+     "gloss": "pleasure",
+     "grounds": "effect produced in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giving",
+     "grounds": "describes function of the cake",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mudrikā",
+     "gloss": "cake",
+     "grounds": "ritual offering item",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "authoritative designation",
+     "morph": "f.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "How is this cake regarded in relation to gaṇeśa's pleasure?",
+   "premises": [
+    "The cake is associated with gaṇeśa.",
+    "It gives pleasure.",
+    "It is formally considered as such."
+   ],
+   "inference": "This cake is considered to give pleasure to gaṇeśa.",
+   "uncertainties": [],
+   "plain_english": "This cake is considered to give pleasure to gaṇeśa."
+  },
+  {
+   "verse": 8167,
+   "rows": [
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "prescribes recognition or classification",
+     "morph": "n.nom.sg.gerundive √jñā"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "numerical element in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "days",
+     "grounds": "time period in compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kālīyakasya",
+     "gloss": "of-kālīyaka",
+     "grounds": "refers to the substance or preparation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What time period must be known regarding the kālīyaka preparation?",
+   "premises": [
+    "The subject is kālīyaka.",
+    "A duration of three days is specified.",
+    "This duration is to be known or observed."
+   ],
+   "inference": "The kālīyaka preparation is to be known as involving a period of three days.",
+   "uncertainties": [
+    "The exact nature of 'kālīyaka' and what occurs over three days is not fully specified."
+   ],
+   "plain_english": "The kālīyaka should be understood as lasting three days."
+  },
+  {
+   "verse": 8168,
+   "rows": [
+    {
+     "surface": "khādya",
+     "gloss": "edible",
+     "grounds": "qualifies the meat in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "substance to be offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daivatāyai",
+     "gloss": "to-the-deity",
+     "grounds": "recipient of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the meat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-causative-act √vid"
+    }
+   ],
+   "question": "What food substance must be properly offered to the deity?",
+   "premises": [
+    "Edible meat is specified as the substance.",
+    "The deity is the recipient of the offering.",
+    "The offering must be made properly."
+   ],
+   "inference": "One should properly offer edible meat to the deity.",
+   "uncertainties": [],
+   "plain_english": "One should properly offer edible meat to the deity."
+  },
+  {
+   "verse": 8169,
+   "rows": [
+    {
+     "surface": "keśara",
+     "gloss": "with-saffron",
+     "grounds": "first anointing substance in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hima",
+     "gloss": "with-camphor",
+     "grounds": "second anointing substance in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rocanābhiḥ",
+     "gloss": "with-gorocanā",
+     "grounds": "third anointing substance",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-anoint",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-act √likh"
+    }
+   ],
+   "question": "With which substances should the ritual anointing be performed?",
+   "premises": [
+    "Saffron is included among the substances.",
+    "Camphor is included among the substances.",
+    "Gorocanā is included among the substances."
+   ],
+   "inference": "One should anoint with saffron, camphor, and gorocanā.",
+   "uncertainties": [],
+   "plain_english": "One should anoint it with saffron, camphor, and gorocanā."
+  },
+  {
+   "verse": 8170,
+   "rows": [
+    {
+     "surface": "ṣaṇ",
+     "gloss": "six",
+     "grounds": "numerical element in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māsa",
+     "gloss": "months",
+     "grounds": "time period in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjanāt",
+     "gloss": "by-worship",
+     "grounds": "cause or means of attainment",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the worshipped entity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tvaritaṃ",
+     "gloss": "quickly",
+     "grounds": "manner of attaining success",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "success",
+     "grounds": "result attained through worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-obtains",
+     "grounds": "result of the prescribed worship",
+     "morph": "3.sg.optative-act √āp"
+    }
+   ],
+   "question": "What result follows from six months of worship of this entity?",
+   "premises": [
+    "Worship is performed for six months.",
+    "The worship is directed to that entity.",
+    "Success is obtained as a result."
+   ],
+   "inference": "By worshipping him for six months, one quickly obtains success.",
+   "uncertainties": [],
+   "plain_english": "By worshipping him for six months, one quickly attains success."
+  },
+  {
+   "verse": 8171,
+   "rows": [
+    {
+     "surface": "taruṇyāḥ",
+     "gloss": "of-a-young-woman",
+     "grounds": "source of the substance",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīrogāyā",
+     "gloss": "disease-free",
+     "grounds": "qualifies the young woman",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "rajo",
+     "gloss": "menstrual-fluid",
+     "grounds": "substance specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "is-considered",
+     "grounds": "authoritative designation",
+     "morph": "n.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What substance is prescribed as coming from a healthy young woman?",
+   "premises": [
+    "The source is a young woman.",
+    "The woman is specified as disease-free.",
+    "The substance is menstrual fluid."
+   ],
+   "inference": "The menstrual fluid of a healthy young woman is the prescribed substance.",
+   "uncertainties": [],
+   "plain_english": "The menstrual fluid of a healthy young woman is prescribed."
+  },
+  {
+   "verse": 8172,
+   "rows": [
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "prior action in preparation",
+     "morph": "(indecl.) absolutive √kṣip"
+    },
+    {
+     "surface": "gharṣitaṃ",
+     "gloss": "rubbed",
+     "grounds": "describes preparation of the substance",
+     "morph": "n.nom.sg.past-passive-participle √ghṛṣ"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "qualifies sandalwood in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "candanam",
+     "gloss": "sandalwood",
+     "grounds": "substance used in preparation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substance must be placed and rubbed in this preparation step?",
+   "premises": [
+    "An action of placing is performed.",
+    "The substance is rubbed.",
+    "The substance is red sandalwood."
+   ],
+   "inference": "Red sandalwood should be placed and rubbed.",
+   "uncertainties": [],
+   "plain_english": "Place and rub red sandalwood."
+  },
+  {
+   "verse": 8173,
+   "rows": [
+    {
+     "surface": "surayā",
+     "gloss": "with-wine",
+     "grounds": "first accompanying substance",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ghṛta",
+     "gloss": "with-ghee",
+     "grounds": "second accompanying substance in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "with-red",
+     "grounds": "qualifies sandalwood in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kacandanaiḥ",
+     "gloss": "with-sandalwood",
+     "grounds": "third accompanying substance; fused form with ka- prefix",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "Which substances are combined together in this ritual mixture?",
+   "premises": [
+    "Wine is included in the mixture.",
+    "Ghee is included in the mixture.",
+    "Red sandalwood is included in the mixture."
+   ],
+   "inference": "The mixture is prepared with wine, ghee, and red sandalwood.",
+   "uncertainties": [
+    "The form 'kacandanaiḥ' may involve a prefix or sandhi nuance; analyzed as given."
+   ],
+   "plain_english": "Mix it with wine, ghee, and red sandalwood."
+  },
+  {
+   "verse": 8174,
+   "rows": [
+    {
+     "surface": "prakāśesti",
+     "gloss": "is-revealed",
+     "grounds": "states manifestation or revelation; fused verbal form",
+     "morph": "3.sg.present-act √kāś"
+    },
+    {
+     "surface": "vāmamārge",
+     "gloss": "in-the-left-path",
+     "grounds": "ritual context of the revelation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "surottamāḥ",
+     "gloss": "O-best-of-gods",
+     "grounds": "vocative address to the audience",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "In which ritual path is this teaching revealed to the best of gods?",
+   "premises": [
+    "Something is revealed or manifested.",
+    "The context is the left path.",
+    "The address is directed to the best of gods."
+   ],
+   "inference": "This is revealed in the left path, O best of gods.",
+   "uncertainties": [
+    "The verbal form 'prakāśesti' appears fused or nonstandard; analyzed as a present form of √kāś."
+   ],
+   "plain_english": "O best of gods, this is revealed in the left-hand path."
+  }
+ ]
+}

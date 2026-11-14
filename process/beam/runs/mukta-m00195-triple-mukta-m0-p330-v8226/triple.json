@@ -1,0 +1,1104 @@
+{
+ "song": "mukta-m0-p330",
+ "items": [
+  {
+   "verse": 8226,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astrāṇi",
+     "gloss": "weapons",
+     "grounds": "ritual weapons/mantras",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "compound locative",
+     "morph": "compound=tat+bahya; n.loc.sg"
+    },
+    {
+     "surface": "bhāskara+arcanam",
+     "gloss": "sun-worship",
+     "grounds": "compound",
+     "morph": "compound=bhāskara+arcana; n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg; √īr"
+    }
+   ],
+   "question": "What ritual acts are prescribed outside that location?",
+   "premises": [
+    "Those weapons are included in the prescription.",
+    "Outside that area sun-worship is declared."
+   ],
+   "inference": "The practitioner must perform the weapon rites and sun-worship outside that designated space.",
+   "uncertainties": [
+    "The referent of 'tat' depends on prior context."
+   ],
+   "plain_english": "Those weapons and, outside that area, the worship of the sun are declared."
+  },
+  {
+   "verse": 8227,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.act.opt; √hu"
+    },
+    {
+     "surface": "tat+sahasrāṇi",
+     "gloss": "thousands-of-that",
+     "grounds": "compound object",
+     "morph": "compound=tat+sahasra; n.acc.pl"
+    },
+    {
+     "surface": "dugdhāktaiḥ",
+     "gloss": "smeared-with-milk",
+     "grounds": "instrumental plural describing oblations",
+     "morph": "compound=dugdha+akta; n.ins.pl"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound subject",
+     "morph": "compound=sādhaka+uttama; m.nom.sg"
+    }
+   ],
+   "question": "How many oblations should the best practitioner offer and with what?",
+   "premises": [
+    "The best practitioner is the agent of the oblation.",
+    "Thousands of offerings are to be made.",
+    "The offerings are smeared with milk."
+   ],
+   "inference": "The best practitioner should offer thousands of milk-smeared oblations.",
+   "uncertainties": [
+    "The exact substance counted in thousands is implied by context."
+   ],
+   "plain_english": "The best practitioner should offer thousands of oblations smeared with milk."
+  },
+  {
+   "verse": 8228,
+   "rows": [
+    {
+     "surface": "svābhiṣekaṃ",
+     "gloss": "own-consecration",
+     "grounds": "compound object",
+     "morph": "compound=sva+abhiṣeka; m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "(indecl.); √kṛ"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "recipients",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "should-feed",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √bhuj-caus"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions must follow the practitioner's self-consecration?",
+   "premises": [
+    "The practitioner first performs his own consecration.",
+    "After that he should feed brahmins."
+   ],
+   "inference": "After completing self-consecration, the practitioner must feed brahmins.",
+   "uncertainties": [],
+   "plain_english": "Then, having performed his own consecration, he should feed the brahmins."
+  },
+  {
+   "verse": 8229,
+   "rows": [
+    {
+     "surface": "raktāmbaradharo",
+     "gloss": "wearing-red-garment",
+     "grounds": "compound adjective",
+     "morph": "compound=rakta+ambara+dhara; m.nom.sg"
+    },
+    {
+     "surface": "raktamālyo",
+     "gloss": "wearing-red-garland",
+     "grounds": "compound adjective",
+     "morph": "compound=rakta+mālya; m.nom.sg"
+    },
+    {
+     "surface": "raktānulepanaḥ",
+     "gloss": "smeared-with-red-unguent",
+     "grounds": "compound adjective",
+     "morph": "compound=rakta+anulepana; m.nom.sg"
+    }
+   ],
+   "question": "What red ritual attire and adornments must the practitioner wear?",
+   "premises": [
+    "The practitioner wears a red garment.",
+    "The practitioner wears a red garland.",
+    "The practitioner is smeared with red unguent."
+   ],
+   "inference": "The practitioner must be fully adorned in red clothing, garland, and unguent.",
+   "uncertainties": [],
+   "plain_english": "He should wear red garments, a red garland, and red unguent."
+  },
+  {
+   "verse": 8230,
+   "rows": [
+    {
+     "surface": "bhikṣāhāras",
+     "gloss": "living-on-alms",
+     "grounds": "compound adjective",
+     "morph": "compound=bhikṣā+āhāra; m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vītasaṅgaḥ",
+     "gloss": "free-from-attachment",
+     "grounds": "compound adjective",
+     "morph": "compound=vīta+saṅga; m.nom.sg"
+    },
+    {
+     "surface": "santoṣavān",
+     "gloss": "possessing-contentment",
+     "grounds": "compound adjective",
+     "morph": "compound=santoṣa+vat; m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What conduct and inner disposition must the practitioner maintain?",
+   "premises": [
+    "The practitioner lives on alms.",
+    "The practitioner is free from attachment.",
+    "The practitioner is always content."
+   ],
+   "inference": "The practitioner must maintain an ascetic, detached, and contented mode of life.",
+   "uncertainties": [],
+   "plain_english": "He should live on alms, be free from attachment, and always content."
+  },
+  {
+   "verse": 8231,
+   "rows": [
+    {
+     "surface": "ratham",
+     "gloss": "chariot",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "(indecl.); √arc"
+    },
+    {
+     "surface": "bhāsvantañ",
+     "gloss": "radiant-one",
+     "grounds": "epithet of the sun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √nived-caus"
+    }
+   ],
+   "question": "To whom and after what worship must the water offering be presented?",
+   "premises": [
+    "The chariot and the radiant sun are worshipped.",
+    "A water offering is to be presented.",
+    "The offering is directed to him."
+   ],
+   "inference": "After worshipping the chariot and the radiant sun, the practitioner should offer arghya to him.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the chariot and the radiant sun, he should offer the water offering to him."
+  },
+  {
+   "verse": 8232,
+   "rows": [
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "circle",
+     "grounds": "ritual diagram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "having-drawn",
+     "grounds": "absolutive",
+     "morph": "(indecl.); √likh"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √yaj"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "ritual seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial compound",
+     "morph": "compound=yathā+vidhi; (indecl.)"
+    }
+   ],
+   "question": "What ritual preparation and worship must be performed according to rule?",
+   "premises": [
+    "A circle is drawn in front.",
+    "The pedestal is to be worshipped.",
+    "The worship must follow the prescribed rule."
+   ],
+   "inference": "After drawing a circle in front, the practitioner should worship the pedestal according to rule.",
+   "uncertainties": [],
+   "plain_english": "Having drawn a circle in front, he should worship the pedestal according to the prescribed rule."
+  },
+  {
+   "verse": 8233,
+   "rows": [
+    {
+     "surface": "ramyaṃ",
+     "gloss": "delightful",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasthajalagrāhi",
+     "gloss": "holding-prastha-water",
+     "grounds": "compound adjective describing vessel or act",
+     "morph": "compound=prastha+jala+grāhin; n.acc.sg"
+    },
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "compound object",
+     "morph": "compound=mūla+mantra; m.acc.sg"
+    },
+    {
+     "surface": "samuccaret",
+     "gloss": "should-utter",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √uc-car"
+    }
+   ],
+   "question": "What mantra must be uttered while holding a prastha of water?",
+   "premises": [
+    "A delightful measure holding a prastha of water is involved.",
+    "The root mantra is the object of utterance."
+   ],
+   "inference": "The practitioner should utter the root mantra while holding a prastha of water.",
+   "uncertainties": [
+    "Whether 'ramyaṃ' qualifies the vessel or the act is context-dependent."
+   ],
+   "plain_english": "He should utter the root mantra while holding a delightful prastha of water."
+  },
+  {
+   "verse": 8234,
+   "rows": [
+    {
+     "surface": "rocanāṃ",
+     "gloss": "yellow-pigment",
+     "grounds": "substance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rājikāṃ",
+     "gloss": "mustard-seed",
+     "grounds": "substance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "raktacandanaṃ",
+     "gloss": "red-sandalwood",
+     "grounds": "compound substance",
+     "morph": "compound=rakta+candana; n.acc.sg"
+    },
+    {
+     "surface": "vaṃśataṇḍulān",
+     "gloss": "bamboo-rice-grains",
+     "grounds": "compound substance",
+     "morph": "compound=vaṃśa+taṇḍula; m.acc.pl"
+    }
+   ],
+   "question": "Which specific substances are enumerated for the ritual preparation?",
+   "premises": [
+    "Yellow pigment is included.",
+    "Mustard seed is included.",
+    "Red sandalwood and bamboo rice grains are included."
+   ],
+   "inference": "The ritual preparation requires yellow pigment, mustard seed, red sandalwood, and bamboo rice grains.",
+   "uncertainties": [],
+   "plain_english": "He should use yellow pigment, mustard seed, red sandalwood, and bamboo rice grains."
+  },
+  {
+   "verse": 8235,
+   "rows": [
+    {
+     "surface": "sañcintya",
+     "gloss": "having-contemplated",
+     "grounds": "absolutive",
+     "morph": "(indecl.); √cint"
+    },
+    {
+     "surface": "devatātmaikyaṃ",
+     "gloss": "deity-self-oneness",
+     "grounds": "compound object of contemplation",
+     "morph": "compound=devatā+ātman+aikya; n.acc.sg"
+    },
+    {
+     "surface": "bhāskaraṃ",
+     "gloss": "sun",
+     "grounds": "deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √arc-caus"
+    }
+   ],
+   "question": "What contemplative state must precede proper worship of the sun?",
+   "premises": [
+    "Oneness of deity and self is contemplated.",
+    "The sun is the object of worship.",
+    "The worship must be performed properly."
+   ],
+   "inference": "After contemplating identity with the deity, the practitioner should properly worship the sun.",
+   "uncertainties": [],
+   "plain_english": "Having contemplated oneness with the deity, he should properly worship the sun."
+  },
+  {
+   "verse": 8236,
+   "rows": [
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound numeral",
+     "morph": "compound=aṣṭa+uttara+śata; n.acc.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpādibhir",
+     "gloss": "with-flowers-etc",
+     "grounds": "instrumental plural",
+     "morph": "compound=puṣpa+ādi; n.ins.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √yaj"
+    }
+   ],
+   "question": "How many times and with what materials must the worship be repeated?",
+   "premises": [
+    "The worship is performed properly again.",
+    "The count is one hundred and eight.",
+    "Flowers and similar items are used."
+   ],
+   "inference": "The practitioner should again properly worship one hundred and eight times with flowers and so forth.",
+   "uncertainties": [],
+   "plain_english": "He should again properly worship one hundred and eight times with flowers and other offerings."
+  },
+  {
+   "verse": 8237,
+   "rows": [
+    {
+     "surface": "dṛṣṭiṃ",
+     "gloss": "gaze",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "having-fixed",
+     "grounds": "absolutive",
+     "morph": "(indecl.); √dhā"
+    },
+    {
+     "surface": "vyomny",
+     "gloss": "in-sky",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "arkaṃ",
+     "gloss": "sun",
+     "grounds": "object of remembrance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāṅgaṃ",
+     "gloss": "with-limbs",
+     "grounds": "compound adjective",
+     "morph": "compound=sa+aṅga; m.acc.sg"
+    },
+    {
+     "surface": "sāvaraṇaṃ",
+     "gloss": "with-retinue",
+     "grounds": "compound adjective",
+     "morph": "compound=sa+āvaraṇa; m.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √smṛ"
+    }
+   ],
+   "question": "How must the practitioner visualize the sun during remembrance?",
+   "premises": [
+    "The gaze is fixed in the sky.",
+    "The sun is remembered with its limbs.",
+    "The sun is remembered with its retinue."
+   ],
+   "inference": "Fixing the gaze in the sky, the practitioner should remember the sun together with its limbs and retinue.",
+   "uncertainties": [],
+   "plain_english": "Fixing his gaze in the sky, he should remember the sun together with its limbs and retinue."
+  },
+  {
+   "verse": 8238,
+   "rows": [
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prasannacetāḥ",
+     "gloss": "serene-minded",
+     "grounds": "compound adjective",
+     "morph": "compound=prasanna+cetas; m.nom.sg"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "present participle",
+     "morph": "m.nom.sg; √as"
+    },
+    {
+     "surface": "dadyāc",
+     "gloss": "should-give",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √dā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sumanoñjalim",
+     "gloss": "handful-of-flowers",
+     "grounds": "compound object",
+     "morph": "compound=sumanas+añjali; m.acc.sg"
+    }
+   ],
+   "question": "What offerings must be given with a serene state of mind?",
+   "premises": [
+    "The practitioner is serene-minded.",
+    "A water offering is to be given.",
+    "A handful of flowers is to be given."
+   ],
+   "inference": "With a serene mind, the practitioner should give the water offering and a handful of flowers.",
+   "uncertainties": [],
+   "plain_english": "Being serene-minded, he should give the water offering and a handful of flowers."
+  },
+  {
+   "verse": 8239,
+   "rows": [
+    {
+     "surface": "arghādikaṃ",
+     "gloss": "water-offering-etc",
+     "grounds": "compound object",
+     "morph": "compound=argha+ādi; n.acc.sg"
+    },
+    {
+     "surface": "samādatte",
+     "gloss": "takes-up",
+     "grounds": "present verb",
+     "morph": "3.sg.mid.pres; √dā"
+    },
+    {
+     "surface": "japed",
+     "gloss": "should-recite",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √jap"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound numeral",
+     "morph": "compound=aṣṭa+uttara; n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What recitation count accompanies taking up the water offering and related items?",
+   "premises": [
+    "The water offering and related items are taken up.",
+    "Recitation is prescribed.",
+    "The recitation count is one hundred and eight."
+   ],
+   "inference": "After taking up the water offering and related items, the practitioner should recite one hundred and eight times.",
+   "uncertainties": [],
+   "plain_english": "He takes up the water offering and so forth and should recite one hundred and eight times."
+  },
+  {
+   "verse": 8240,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "demonstrative instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogeṇa",
+     "gloss": "by-practice",
+     "grounds": "ritual application",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √bhū"
+    },
+    {
+     "surface": "āyur",
+     "gloss": "long-life",
+     "grounds": "result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirugṇatā",
+     "gloss": "freedom-from-disease",
+     "grounds": "compound result",
+     "morph": "compound=nir+ugṇa+tā; f.nom.sg"
+    }
+   ],
+   "question": "What benefits result from performing this ritual practice?",
+   "premises": [
+    "This practice is performed.",
+    "Long life is a possible result.",
+    "Freedom from disease is a possible result."
+   ],
+   "inference": "By this practice one obtains long life and freedom from disease.",
+   "uncertainties": [],
+   "plain_english": "Indeed, by this practice one gains long life and freedom from disease."
+  },
+  {
+   "verse": 8241,
+   "rows": [
+    {
+     "surface": "tanmantrasahitāmbhobhiḥ",
+     "gloss": "with-waters-accompanied-by-that-mantra",
+     "grounds": "compound instrumental",
+     "morph": "compound=tat+mantra+sahita+ambhas; n.ins.pl"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "seven-times",
+     "grounds": "adverbial numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "añjalisecanam",
+     "gloss": "sprinkling-with-handful",
+     "grounds": "compound action",
+     "morph": "compound=añjali+secana; n.nom.sg"
+    }
+   ],
+   "question": "How must the sprinkling with mantra-charged water be performed?",
+   "premises": [
+    "Waters accompanied by that mantra are used.",
+    "The sprinkling is done with a handful.",
+    "The action is performed seven times."
+   ],
+   "inference": "One must perform sprinkling seven times with handfuls of water accompanied by that mantra.",
+   "uncertainties": [],
+   "plain_english": "Sprinkling with handfuls of water accompanied by that mantra should be done seven times."
+  },
+  {
+   "verse": 8242,
+   "rows": [
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-ground-altar",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √sthā-caus"
+    },
+    {
+     "surface": "kumbhaṃ",
+     "gloss": "pot",
+     "grounds": "ritual vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tīrthodakasupūritam",
+     "gloss": "well-filled-with-sacred-water",
+     "grounds": "compound adjective",
+     "morph": "compound=tīrtha+udaka+supūrita; m.acc.sg"
+    }
+   ],
+   "question": "Where and in what condition must the ritual pot be placed?",
+   "premises": [
+    "The pot is placed on a ground altar.",
+    "The pot is well filled with sacred water."
+   ],
+   "inference": "A pot well filled with sacred water should be placed on the ground altar.",
+   "uncertainties": [],
+   "plain_english": "He should place on the ground altar a pot well filled with sacred water."
+  },
+  {
+   "verse": 8243,
+   "rows": [
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saparivāran",
+     "gloss": "with-retinue",
+     "grounds": "compound adjective",
+     "morph": "compound=sa+parivāra; m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāguktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound instrumental",
+     "morph": "compound=prāk+ukta+vidhi; m.ins.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what method must the deity with retinue be worshipped next?",
+   "premises": [
+    "The deity is worshipped together with retinue.",
+    "The previously stated method is to be followed."
+   ],
+   "inference": "Then the deity with retinue should be worshipped by the previously stated method.",
+   "uncertainties": [
+    "The verb of worship is implied from context."
+   ],
+   "plain_english": "Then he should worship the deity together with his retinue by the previously stated method."
+  },
+  {
+   "verse": 8244,
+   "rows": [
+    {
+     "surface": "pacet",
+     "gloss": "should-cook",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √pac"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental demonstrative",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "should-offer",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √hu"
+    },
+    {
+     "surface": "ravyājyasahitena",
+     "gloss": "accompanied-by-substance-and-ghee",
+     "grounds": "compound instrumental",
+     "morph": "compound=ravya+ājya+sahita; n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must be cooked and offered together with ghee in the oblation?",
+   "premises": [
+    "Something is to be cooked.",
+    "That same thing is used for oblation.",
+    "It is accompanied by substance and ghee."
+   ],
+   "inference": "He should cook it and offer oblations with that, accompanied by the substance and ghee.",
+   "uncertainties": [
+    "The exact referent of 'tena' and 'ravya' depends on prior context."
+   ],
+   "plain_english": "He should cook it and offer oblations with that, accompanied by the prepared substance and ghee."
+  },
+  {
+   "verse": 8245,
+   "rows": [
+    {
+     "surface": "ṛtusnātāṃ",
+     "gloss": "bathed-after-season",
+     "grounds": "compound adjective describing a woman",
+     "morph": "compound=ṛtu+snāta; f.acc.sg"
+    },
+    {
+     "surface": "suniyatāṃ",
+     "gloss": "well-restrained",
+     "grounds": "compound adjective",
+     "morph": "compound=su+niyata; f.acc.sg"
+    },
+    {
+     "surface": "pūrvāṅgasamupoṣitām",
+     "gloss": "having-fasted-for-prior-rite",
+     "grounds": "compound adjective",
+     "morph": "compound=pūrva+aṅga+samupoṣita; f.acc.sg"
+    }
+   ],
+   "question": "What qualifications must the woman possess for the subsequent rite?",
+   "premises": [
+    "The woman has bathed after her season.",
+    "The woman is well restrained.",
+    "The woman has fasted for the prior rite."
+   ],
+   "inference": "The woman for the rite must be ritually bathed, well restrained, and having fasted for the preliminary observance.",
+   "uncertainties": [],
+   "plain_english": "She should be a woman who has bathed after her season, is well restrained, and has fasted for the preliminary rite."
+  },
+  {
+   "verse": 8246,
+   "rows": [
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "should-sprinkle",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √sic"
+    },
+    {
+     "surface": "kumbhajalair",
+     "gloss": "with-pot-waters",
+     "grounds": "compound instrumental",
+     "morph": "compound=kumbha+jala; n.ins.pl"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt; √dā"
+    },
+    {
+     "surface": "tasyai",
+     "gloss": "to-her",
+     "grounds": "recipient",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "compound agent",
+     "morph": "compound=mantra+vid; m.nom.sg"
+    }
+   ],
+   "question": "Who must sprinkle the woman with pot waters and give offerings to her?",
+   "premises": [
+    "The woman is sprinkled with waters from the pot.",
+    "Something is given to her.",
+    "The agent is one who knows the mantra."
+   ],
+   "inference": "The mantra-knower should sprinkle her with the pot waters and give offerings to her.",
+   "uncertainties": [
+    "The specific object given to her is not stated in this verse."
+   ],
+   "plain_english": "The knower of the mantra should sprinkle her with the waters from the pot and give to her."
+  },
+  {
+   "verse": 8247,
+   "rows": [
+    {
+     "surface": "naro",
+     "gloss": "man",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pi",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryya",
+     "gloss": "sun",
+     "grounds": "deity identification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "pronoun",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive",
+     "morph": "(indecl.); √dhyai"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "with-her",
+     "grounds": "instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What identification must the man meditate upon while together with her?",
+   "premises": [
+    "The man meditates a specific thought.",
+    "The thought is 'I am indeed the sun'.",
+    "This meditation occurs together with her."
+   ],
+   "inference": "The man, together with her, must meditate 'I am indeed the sun'.",
+   "uncertainties": [],
+   "plain_english": "The man also, meditating 'I am indeed the sun', should be together with her."
+  },
+  {
+   "verse": 8248,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrāntaraṃ",
+     "gloss": "another-mantra",
+     "grounds": "compound object",
+     "morph": "compound=mantra+antara; n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-shall-tell",
+     "grounds": "future verb",
+     "morph": "1.sg.mid.fut; √vac"
+    },
+    {
+     "surface": "dineśasya",
+     "gloss": "of-lord-of-day",
+     "grounds": "compound genitive",
+     "morph": "compound=dina+īśa; m.gen.sg"
+    },
+    {
+     "surface": "ṣaḍakṣaram",
+     "gloss": "six-syllabled",
+     "grounds": "compound adjective",
+     "morph": "compound=ṣaṣ+akṣara; n.acc.sg"
+    }
+   ],
+   "question": "What additional mantra of the lord of day is about to be taught?",
+   "premises": [
+    "The speaker announces another mantra.",
+    "The mantra belongs to the lord of day.",
+    "The mantra consists of six syllables."
+   ],
+   "inference": "The speaker will now teach another six-syllabled mantra of the lord of day.",
+   "uncertainties": [],
+   "plain_english": "Now I shall tell another six-syllabled mantra of the lord of day."
+  },
+  {
+   "verse": 8249,
+   "rows": [
+    {
+     "surface": "munir",
+     "gloss": "sage",
+     "grounds": "seer of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "Brahmā",
+     "grounds": "name of the sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatraṃ",
+     "gloss": "Gāyatra",
+     "grounds": "meter name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "savitṛdaivatam",
+     "gloss": "having-Savitṛ-as-deity",
+     "grounds": "compound adjective",
+     "morph": "compound=savitṛ+daivata; n.nom.sg"
+    }
+   ],
+   "question": "What sage, meter, and deity are assigned to this six-syllabled mantra?",
+   "premises": [
+    "The sage is Brahmā.",
+    "The meter is Gāyatra.",
+    "The deity is Savitṛ."
+   ],
+   "inference": "This mantra has Brahmā as sage, Gāyatra as meter, and Savitṛ as deity.",
+   "uncertainties": [],
+   "plain_english": "Its sage is Brahmā, its meter is Gāyatra, and its deity is Savitṛ."
+  }
+ ]
+}

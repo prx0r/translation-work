@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p330",
+ "items": [
+  {
+   "verse": 8250,
+   "rows": [
+    {
+     "surface": "sūkṣmākārāyāgnivadhūriti",
+     "gloss": "to-subtle-form-fire-consort-thus",
+     "grounds": "fused mantra phrase: sūkṣmākārāya + agnivadhū + iti; bīja/mantra material kept as given",
+     "morph": "mantra-phrase+iti (indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument by which the placement is performed",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śīrṣakam",
+     "gloss": "head",
+     "grounds": "body part designated for ritual placement",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mantra formula is prescribed for ritual placement on the head?",
+   "premises": [
+    "The verse specifies a ritual placement on the head.",
+    "A particular mantra phrase is designated for this placement.",
+    "The phrase is expressed as the formula sūkṣmākārāya agnivadhū iti."
+   ],
+   "inference": "Therefore the head is to be consecrated with the mantra formula sūkṣmākārāyāgnivadhū iti.",
+   "uncertainties": [
+    "The internal segmentation of the fused mantra token follows conventional sandhi resolution but is not split in the surface."
+   ],
+   "plain_english": "With the mantra 'sūkṣmākārāya agnivadhū iti', one should consecrate the head."
+  }
+ ]
+}
