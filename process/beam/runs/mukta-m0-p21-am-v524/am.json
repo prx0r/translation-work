@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 524,
- "question": "How many times must the mantra be recited to break its sleep?",
+ "question": "What total mantra recitation counts are prescribed in this final instruction?",
  "premises": [
-  "The purpose is breaking sleep.",
-  "The mantra is to be recited.",
-  "The recitation is specified as ten times."
+  "A recitation of one thousand and eight is prescribed.",
+  "Another hundred is added.",
+  "The word hundred is repeated."
  ],
- "inference": "To break the mantra's sleep, one should recite it ten times.",
- "uncertainties": [],
- "plain_english": "O Pārvatī, one should recite the mantra ten times for the breaking of sleep."
+ "inference": "One should recite one thousand and eight times and then another hundred and hundred.",
+ "uncertainties": [
+  "The repetition śataṃ śatam may indicate two hundred or emphatic repetition; the exact total is ambiguous."
+ ],
+ "plain_english": "One should recite one thousand and eight times, and another hundred, a hundred."
 }
