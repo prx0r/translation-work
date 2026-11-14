@@ -1,0 +1,76 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p265",
+ "work": "mukta-m00125",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v6615 ratio=0.886"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "9c417ad940f2b35b",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 173
+ },
+ "align": {
+  "min_ratio": 0.886,
+  "sub090": {
+   "6615": {
+    "ratio": 0.886,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 79,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 173,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v6615"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "8ae58d08aa00d2defe85eefccb91034219100c526438e33ecdd252bfd8590749",
+  "l0": "eaa0440714c26db80b507a923264c9c92c8c8ec94b2e1e5efaa13acb7973c58f",
+  "argmap": "5a7a835c70523cab28a6d1d4206f9db116a3e18379a214a1754f34e5b9fa96e4",
+  "l2": "3fcbc959eee97c0a569a09463307efdc4eae56719e79e97c5dba06fdbd67413a",
+  "c1": "d09f945b44f6888c8b2e12dec9f2e6ca4dd24bdabf0c13f07931d8d93f486a4e"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "9c417ad940f2b35b",
+  "t1": "mukta-m0-p265/data/mukta-m0-p265.t1.json",
+  "l0": "mukta-m0-p265/data/mukta-m0-p265.l0.json",
+  "l2": "mukta-m0-p265/data/mukta-m0-p265.l2.json",
+  "c1": "mukta-m0-p265/data/mukta-m0-p265.c1.json"
+ }
+}

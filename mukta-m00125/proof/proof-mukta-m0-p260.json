@@ -1,0 +1,80 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p260",
+ "work": "mukta-m00125",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v6492 ratio=0.870",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "9b9e836c7815cc05",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 124
+ },
+ "align": {
+  "min_ratio": 0.87,
+  "sub090": {
+   "6492": {
+    "ratio": 0.87,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "The desired ring for that purpose should be made of gold."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 73,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 124,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v6492"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "c91479d6b8b68311185116d26427b5d49596cac2bb3a3f01c0f1425db04503f0",
+  "l0": "75a021e9725b83b6ef4e8cfcc27b0f8281f9d3acc4495f57b9be34aa4cc383aa",
+  "argmap": "a34019d21e0128c19c269a8d09bb350c5418c3b2529e6051bcc2996e846f2d34",
+  "l2": "c32a89228e5e93bc12fa3c47bfeece7cbdd1441322994ba2db2ae5d6dd34092d",
+  "c1": "30540f03d1b1ab73219c3a19f199533c9b0bda1fef6cb49100aea8ff51484dcc"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "9b9e836c7815cc05",
+  "t1": "mukta-m0-p260/data/mukta-m0-p260.t1.json",
+  "l0": "mukta-m0-p260/data/mukta-m0-p260.l0.json",
+  "l2": "mukta-m0-p260/data/mukta-m0-p260.l2.json",
+  "c1": "mukta-m0-p260/data/mukta-m0-p260.c1.json"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p271",
+ "items": [
+  {
+   "verse": 6775,
+   "rows": [
+    {
+     "surface": "tadvaj",
+     "gloss": "likewise",
+     "grounds": "indeclinable expressing similarity to the previously stated case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagatpatiḥ",
+     "gloss": "lord-of-world",
+     "grounds": "compound denoting the ruler of the world",
+     "morph": "jagat+patiḥ, m.nom.sg"
+    },
+    {
+     "surface": "puṣṭo",
+     "gloss": "nourished",
+     "grounds": "describes the resulting state of thriving",
+     "morph": "m.nom.sg, ppp √puṣ"
+    },
+    {
+     "surface": "nīrogī",
+     "gloss": "free-from-disease",
+     "grounds": "compound indicating absence of illness",
+     "morph": "nis+roga+in, m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the two resulting states",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-become",
+     "grounds": "expresses the assured outcome of the ritual",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "indeclinable emphasizing the certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What assured benefit does the śānti ritual confer upon the lord of the world?",
+   "premises": [
+    "The preceding verses state that the śānti ritual restores health to elephants and others.",
+    "The term tadvaj extends the same ritual effect to the lord of the world.",
+    "Nourishment and freedom from disease are presented as certain outcomes."
+   ],
+   "inference": "Therefore, the lord of the world certainly becomes nourished and free from disease through the śānti ritual.",
+   "uncertainties": [
+    "The specific identity or referent of jagatpatiḥ in this ritual context is not explicitly specified."
+   ],
+   "plain_english": "Likewise, the lord of the world would certainly become nourished and free from disease."
+  }
+ ]
+}

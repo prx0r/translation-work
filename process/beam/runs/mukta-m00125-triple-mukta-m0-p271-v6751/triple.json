@@ -1,0 +1,1131 @@
+{
+ "song": "mukta-m0-p271",
+ "items": [
+  {
+   "verse": 6751,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative compound indicating location within that",
+     "morph": "compound: tat+middle (n.loc.sg)"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "one-should-visualize",
+     "grounds": "injunction to meditate",
+     "morph": "3.sg.optative-active √smṛ with sam"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "object of visualization",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bījanāladalāni",
+     "gloss": "seed-stalk-petals",
+     "grounds": "parts of the lotus",
+     "morph": "compound: bīja+nāla+dala (n.acc.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be visualized in the middle of that space during the ritual?",
+   "premises": [
+    "The visualization takes place in its middle.",
+    "A lotus is the object of visualization.",
+    "The lotus includes seed, stalk, and petals."
+   ],
+   "inference": "One should visualize a lotus with its seed, stalk, and petals in the middle of that space.",
+   "uncertainties": [],
+   "plain_english": "In its middle, one should visualize a lotus together with its seed, stalk, and petals."
+  },
+  {
+   "verse": 6752,
+   "rows": [
+    {
+     "surface": "mūrti+bhūtaṃ",
+     "gloss": "embodied-in-form",
+     "grounds": "describes the pot as having manifest form",
+     "morph": "compound: mūrti+bhūta (m.acc.sg)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-visualize",
+     "grounds": "injunction to meditate",
+     "morph": "3.sg.optative-active √smṛ"
+    },
+    {
+     "surface": "kumbhaṃ",
+     "gloss": "pot",
+     "grounds": "ritual vessel to be visualized",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrvoktadhyāna",
+     "gloss": "previously-stated-meditation",
+     "grounds": "refers to earlier prescribed visualization",
+     "morph": "compound: pūrva+ukta+dhyāna (member)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "indicates accompaniment by prior meditation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the ritual pot be visualized in relation to the earlier meditation?",
+   "premises": [
+    "The pot is to be visualized.",
+    "The pot is embodied in form.",
+    "The visualization is joined with the previously stated meditation."
+   ],
+   "inference": "One should visualize the embodied pot together with the previously prescribed meditation.",
+   "uncertainties": [],
+   "plain_english": "One should visualize the pot as embodied in form, endowed with the meditation described earlier."
+  },
+  {
+   "verse": 6753,
+   "rows": [
+    {
+     "surface": "aghorāṇum",
+     "gloss": "aghora-mantra",
+     "grounds": "sacred formula to be uttered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samucārya",
+     "gloss": "having-uttered",
+     "grounds": "prior action before worship",
+     "morph": "absolutive √uc with sam"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "pādyādibhir",
+     "gloss": "with-water-for-feet-etc",
+     "grounds": "offerings beginning with foot-water",
+     "morph": "compound: pādya+ādi (n.ins.pl)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who performs the worship and with what mantra and offerings in this rite?",
+   "premises": [
+    "The Aghora mantra is uttered.",
+    "Worship is performed with offerings such as foot-water.",
+    "The teacher is the officiant."
+   ],
+   "inference": "The teacher, having uttered the Aghora mantra, should worship with offerings beginning with foot-water.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the Aghora mantra, the teacher should worship with offerings of water for the feet and so on."
+  },
+  {
+   "verse": 6754,
+   "rows": [
+    {
+     "surface": "elālavaṅga",
+     "gloss": "cardamom-clove",
+     "grounds": "aromatic ingredients",
+     "morph": "compound: elā+lavaṅga (member)"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "indicates mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalatraya",
+     "gloss": "three-fruits",
+     "grounds": "triad of fruits",
+     "morph": "compound: phala+traya (member)"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied-by",
+     "grounds": "indicates inclusion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What aromatic and fruit ingredients are combined in the prescribed mixture?",
+   "premises": [
+    "Cardamom and clove are included.",
+    "The mixture is joined together.",
+    "The three fruits accompany it."
+   ],
+   "inference": "The mixture is combined with cardamom, clove, and the three fruits.",
+   "uncertainties": [
+    "The specific identity of the three fruits is not stated here."
+   ],
+   "plain_english": "It is joined with cardamom and clove and accompanied by the three fruits."
+  },
+  {
+   "verse": 6755,
+   "rows": [
+    {
+     "surface": "āpaḥ",
+     "gloss": "water",
+     "grounds": "ritual substance",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kṣīra",
+     "gloss": "milk",
+     "grounds": "ritual substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuśāgrāṇi",
+     "gloss": "kuśa-grass-tips",
+     "grounds": "ritual substance",
+     "morph": "compound: kuśa+agra (n.nom.pl)"
+    },
+    {
+     "surface": "taṇḍulās",
+     "gloss": "rice-grains",
+     "grounds": "ritual substance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sumanās",
+     "gloss": "flowers",
+     "grounds": "ritual substance",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tilāḥ",
+     "gloss": "sesame-seeds",
+     "grounds": "ritual substance",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which basic substances are enumerated as components of the ritual preparation?",
+   "premises": [
+    "Water and milk are listed.",
+    "Kuśa-grass tips and rice grains are listed.",
+    "Flowers and sesame seeds are listed."
+   ],
+   "inference": "The ritual preparation includes water, milk, kuśa-grass tips, rice grains, flowers, and sesame seeds.",
+   "uncertainties": [],
+   "plain_english": "Water, milk, kuśa-grass tips, rice grains, flowers, and sesame seeds."
+  },
+  {
+   "verse": 6756,
+   "rows": [
+    {
+     "surface": "candana",
+     "gloss": "sandalwood",
+     "grounds": "fragrant substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "laghu+kuṣṭaṃ",
+     "gloss": "light-costus",
+     "grounds": "fragrant substance",
+     "morph": "compound: laghu+kuṣṭa (n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhādyaṃ",
+     "gloss": "fragrance-etc",
+     "grounds": "group beginning with fragrance",
+     "morph": "compound: gandha+ādi (n.nom.sg)"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "triad",
+     "grounds": "set of three items",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation statement",
+     "morph": "3.sg.present-passive √vac"
+    }
+   ],
+   "question": "What three fragrant substances are designated as the fragrance triad in this context?",
+   "premises": [
+    "Sandalwood is included.",
+    "Light costus is included.",
+    "Together they form a triad called fragrance and so on."
+   ],
+   "inference": "Sandalwood, light costus, and the related fragrant item are called the fragrance triad.",
+   "uncertainties": [
+    "The third member implied by gandhādyaṃ is not explicitly named."
+   ],
+   "plain_english": "Sandalwood, light costus, and the like are called the triad of fragrances."
+  },
+  {
+   "verse": 6757,
+   "rows": [
+    {
+     "surface": "tatpadmadalamūle",
+     "gloss": "at-that-lotus-petal-root",
+     "grounds": "location for the action",
+     "morph": "compound: tat+padma+dala+mūla (n.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-the-south",
+     "grounds": "directional specification",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon-mantra",
+     "grounds": "mantra to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuccaran",
+     "gloss": "uttering",
+     "grounds": "accompanying action",
+     "morph": "m.nom.sg.present-participle-active √car with sam+ud"
+    }
+   ],
+   "question": "Where and in which direction should the weapon mantra be uttered during the rite?",
+   "premises": [
+    "The action occurs at the root of that lotus petal.",
+    "The southern direction is specified.",
+    "The weapon mantra is uttered."
+   ],
+   "inference": "One should utter the weapon mantra at the root of that lotus petal in the south.",
+   "uncertainties": [],
+   "plain_english": "Then, at the root of that lotus petal in the south, uttering the weapon mantra."
+  },
+  {
+   "verse": 6758,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-offered",
+     "grounds": "prior ritual action",
+     "morph": "absolutive √dā"
+    },
+    {
+     "surface": "svāvaraṇopetaṃ",
+     "gloss": "with-its-retinue",
+     "grounds": "option including surrounding deities",
+     "morph": "compound: sva+āvaraṇa+upeta (n.acc.sg)"
+    },
+    {
+     "surface": "nirāvaraṇam",
+     "gloss": "without-retinue",
+     "grounds": "alternative option",
+     "morph": "compound: nis+āvaraṇa (n.acc.sg)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative modes of worship are permitted regarding the deity's retinue?",
+   "premises": [
+    "An offering is made.",
+    "Worship may include its retinue.",
+    "Worship may be without retinue."
+   ],
+   "inference": "After offering, one may worship with the retinue or without the retinue.",
+   "uncertainties": [],
+   "plain_english": "Having made the offering, one may do so with its retinue or indeed without retinue."
+  },
+  {
+   "verse": 6759,
+   "rows": [
+    {
+     "surface": "asitāṅgo",
+     "gloss": "asitāṅga",
+     "grounds": "name of a Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ruruś",
+     "gloss": "ruru",
+     "grounds": "name of a Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caṇḍaḥ",
+     "gloss": "caṇḍa",
+     "grounds": "name of a Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krota",
+     "gloss": "krota",
+     "grounds": "name of a Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "unmatta+bhairavaḥ",
+     "gloss": "unmatta-bhairava",
+     "grounds": "name of a Bhairava",
+     "morph": "compound: unmatta+bhairava (m.nom.sg)"
+    }
+   ],
+   "question": "Which specific Bhairava deities are named as part of the retinue in this sequence?",
+   "premises": [
+    "Asitāṅga is named.",
+    "Ruru, Caṇḍa, and Krota are named.",
+    "Unmatta Bhairava is named."
+   ],
+   "inference": "The named deities are Asitāṅga, Ruru, Caṇḍa, Krota, and Unmatta Bhairava.",
+   "uncertainties": [
+    "The form krota may reflect a variant name in this tradition."
+   ],
+   "plain_english": "Asitāṅga, Ruru, Caṇḍa, Krota, and Unmatta Bhairava."
+  },
+  {
+   "verse": 6760,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "location beyond the previous area",
+     "morph": "compound: tat+bāhya (n.loc.sg)"
+    },
+    {
+     "surface": "lokapān+iṣṭvā",
+     "gloss": "having-worshipped-direction-guardians",
+     "grounds": "worship of guardians of directions",
+     "morph": "compound: lokapāla+absolutive √yaj"
+    },
+    {
+     "surface": "tadastrāṇi",
+     "gloss": "their-weapons",
+     "grounds": "weapons of those guardians",
+     "morph": "compound: tat+astra (n.acc.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbahiḥ",
+     "gloss": "outside-that",
+     "grounds": "further outer location",
+     "morph": "compound: tat+bahis (indecl.)"
+    }
+   ],
+   "question": "What entities are worshipped outside the previous area and in what sequence?",
+   "premises": [
+    "The action takes place outside that area.",
+    "The guardians of the directions are worshipped.",
+    "Their weapons are worshipped outside that."
+   ],
+   "inference": "Outside that area one worships the guardians of the directions and, further outside, their weapons.",
+   "uncertainties": [],
+   "plain_english": "Outside that, having worshipped the guardians of the directions and their weapons, and further outside that."
+  },
+  {
+   "verse": 6761,
+   "rows": [
+    {
+     "surface": "gandhādyai",
+     "gloss": "with-fragrance-etc",
+     "grounds": "offerings beginning with fragrance",
+     "morph": "compound: gandha+ādi (n.ins.pl)"
+    },
+    {
+     "surface": "r+āvṛtān+iṣṭvā",
+     "gloss": "having-worshipped-surrounding-deities",
+     "grounds": "worship of surrounding deities",
+     "morph": "compound: āvṛta+absolutive √yaj (m.acc.pl)"
+    },
+    {
+     "surface": "dīpam",
+     "gloss": "lamp",
+     "grounds": "offering item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ājya+samudbhavam",
+     "gloss": "arising-from-ghee",
+     "grounds": "lamp made from ghee",
+     "morph": "compound: ājya+samudbhava (m.acc.sg)"
+    }
+   ],
+   "question": "What offerings and lamp are presented to the surrounding deities in this stage?",
+   "premises": [
+    "Surrounding deities are worshipped.",
+    "Offerings begin with fragrance.",
+    "A lamp arising from ghee is offered."
+   ],
+   "inference": "After worshipping the surrounding deities with fragrance and other offerings, one offers a lamp made of ghee.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the surrounding deities with fragrance and so on, offer a lamp made from ghee."
+  },
+  {
+   "verse": 6762,
+   "rows": [
+    {
+     "surface": "aghorāya",
+     "gloss": "to-aghora",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tadastraya",
+     "gloss": "to-that-weapon",
+     "grounds": "recipient weapon-mantra",
+     "morph": "compound: tat+astra (n.dat.sg)"
+    },
+    {
+     "surface": "pānīyaṃ",
+     "gloss": "water",
+     "grounds": "offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √nived with ni"
+    }
+   ],
+   "question": "To whom should water be offered at this point in the ritual sequence?",
+   "premises": [
+    "Aghora is a recipient.",
+    "That weapon-mantra is a recipient.",
+    "Water is to be offered."
+   ],
+   "inference": "One should offer water to Aghora and to that weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "One should offer water to Aghora and to that weapon."
+  },
+  {
+   "verse": 6763,
+   "rows": [
+    {
+     "surface": "aghorāya",
+     "gloss": "to-aghora",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tadastrāya",
+     "gloss": "to-that-weapon",
+     "grounds": "recipient weapon-mantra",
+     "morph": "compound: tat+astra (n.dat.sg)"
+    },
+    {
+     "surface": "saṃnivedya",
+     "gloss": "having-dedicated",
+     "grounds": "prior act of dedication",
+     "morph": "absolutive √nived with sam+ni"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra recitation to be dedicated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What act of dedication should the teacher perform after the preceding offerings?",
+   "premises": [
+    "Aghora and that weapon-mantra are recipients.",
+    "Recitation is the object dedicated.",
+    "The teacher performs the act."
+   ],
+   "inference": "The teacher should dedicate the recitation to Aghora and to that weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "Having dedicated the recitation to Aghora and to that weapon, the teacher proceeds."
+  },
+  {
+   "verse": 6764,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates continuity with prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "of-the-fire-pit",
+     "grounds": "object of consecration",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃskāraṃ",
+     "gloss": "consecration",
+     "grounds": "ritual purification and preparation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcasaṃskāra+saṃskṛte",
+     "gloss": "consecrated-by-five-consecrations",
+     "grounds": "state of prior ritual preparation",
+     "morph": "compound: pañca+saṃskāra+saṃskṛta (n.loc.sg)"
+    }
+   ],
+   "question": "How should the fire pit be consecrated in relation to prior ritual preparations?",
+   "premises": [
+    "The consecration is done as before.",
+    "The fire pit is consecrated.",
+    "It is in a state prepared by five consecrations."
+   ],
+   "inference": "The fire pit should be consecrated as before in that which has been prepared by the five consecrations.",
+   "uncertainties": [
+    "The specific five consecrations are not enumerated here."
+   ],
+   "plain_english": "As before, one should perform the consecration of the fire pit in that which has been consecrated by the five consecrations."
+  },
+  {
+   "verse": 6765,
+   "rows": [
+    {
+     "surface": "kṣīra+vṛkṣa+samidbhiś",
+     "gloss": "with-milk-tree-fuel-sticks",
+     "grounds": "fuel for oblation",
+     "morph": "compound: kṣīra+vṛkṣa+samidh (f.ins.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "oblation substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "caruṇā",
+     "gloss": "with-cooked-rice",
+     "grounds": "oblation substance",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuation of procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials are used for the oblations in this stage of the fire ritual?",
+   "premises": [
+    "Fuel sticks from milk trees are used.",
+    "Ghee is used.",
+    "Cooked rice is used."
+   ],
+   "inference": "Oblations are made again with milk-tree fuel sticks, ghee, and cooked rice.",
+   "uncertainties": [],
+   "plain_english": "Again, with fuel sticks of milk trees, with ghee, and with cooked rice."
+  },
+  {
+   "verse": 6766,
+   "rows": [
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "one-should-offer-in-fire",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-the-end",
+     "grounds": "timing of the offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svadevāyā",
+     "gloss": "to-one's-own-deity",
+     "grounds": "recipient of offering",
+     "morph": "compound: sva+deva (m.dat.sg)"
+    },
+    {
+     "surface": "astra+rūpiṇe",
+     "gloss": "having-weapon-form",
+     "grounds": "form of the deity",
+     "morph": "compound: astra+rūpin (m.dat.sg)"
+    }
+   ],
+   "question": "What final offering is made into the fire and to which form of the deity?",
+   "premises": [
+    "Betel is offered at the end.",
+    "The offering is made into the fire.",
+    "The recipient is one's own deity in weapon form."
+   ],
+   "inference": "At the end one should offer betel into the fire to one's own deity in weapon form.",
+   "uncertainties": [],
+   "plain_english": "At the end, one should offer betel into the fire to one's own deity in the form of the weapon."
+  },
+  {
+   "verse": 6767,
+   "rows": [
+    {
+     "surface": "aghoreṇa",
+     "gloss": "with-aghora",
+     "grounds": "mantra used in the action",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbhasma",
+     "gloss": "that-ash",
+     "grounds": "ritual residue to be collected",
+     "morph": "compound: tat+bhasman (n.acc.sg)"
+    },
+    {
+     "surface": "saṃgrāhya",
+     "gloss": "having-collected",
+     "grounds": "prior action",
+     "morph": "absolutive √grah with sam"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "mantra used for protection",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "rakṣayet",
+     "gloss": "one-should-protect",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √rakṣ"
+    }
+   ],
+   "question": "How should the ritual ash be collected and protected after the fire offering?",
+   "premises": [
+    "The ash is collected with Aghora.",
+    "The ash is then protected.",
+    "Protection is done with the weapon-mantra."
+   ],
+   "inference": "Having collected that ash with Aghora, one should protect it with the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "Having collected that ash with the Aghora mantra, one should protect it with the weapon mantra."
+  },
+  {
+   "verse": 6768,
+   "rows": [
+    {
+     "surface": "homakarma",
+     "gloss": "fire-ritual",
+     "grounds": "completed ritual act",
+     "morph": "compound: homa+karman (n.acc.sg)"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-dedicated",
+     "grounds": "prior act of dedication",
+     "morph": "absolutive √nived with ni"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhasthe",
+     "gloss": "to-the-one-in-the-pot",
+     "grounds": "recipient abiding in the pot",
+     "morph": "compound: kumbha+stha (m.dat.sg)"
+    },
+    {
+     "surface": "aghora+rūpiṇe",
+     "gloss": "having-aghora-form",
+     "grounds": "form of the recipient",
+     "morph": "compound: aghora+rūpin (m.dat.sg)"
+    }
+   ],
+   "question": "To whom is the completed fire ritual dedicated in this stage of the procedure?",
+   "premises": [
+    "The fire ritual is completed.",
+    "It is dedicated afterward.",
+    "The recipient abides in the pot in Aghora form."
+   ],
+   "inference": "Having dedicated the fire ritual, one offers it to the one abiding in the pot in Aghora form.",
+   "uncertainties": [],
+   "plain_english": "Then, having dedicated the fire ritual, to the one abiding in the pot in the form of Aghora."
+  },
+  {
+   "verse": 6769,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior offering action",
+     "morph": "absolutive √dā"
+    },
+    {
+     "surface": "parāṅmukhārghyaṃ",
+     "gloss": "arghya-turned-away",
+     "grounds": "dismissal offering",
+     "morph": "compound: parāṅmukha+arghya (n.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogāṅgāny",
+     "gloss": "enjoyment-limbs",
+     "grounds": "subsidiary elements of enjoyment worship",
+     "morph": "compound: bhoga+aṅga (n.acc.pl)"
+    },
+    {
+     "surface": "upasaṃharet",
+     "gloss": "one-should-withdraw",
+     "grounds": "ritual injunction to conclude",
+     "morph": "3.sg.optative-active √hṛ with upa+sam"
+    }
+   ],
+   "question": "What concluding actions are prescribed after giving the dismissal offering?",
+   "premises": [
+    "The dismissal arghya is given.",
+    "The enjoyment limbs have been employed.",
+    "They are to be withdrawn."
+   ],
+   "inference": "After giving the dismissal arghya, one should withdraw the enjoyment limbs.",
+   "uncertainties": [],
+   "plain_english": "Then, having given the dismissal arghya, one should withdraw the limbs of enjoyment."
+  },
+  {
+   "verse": 6770,
+   "rows": [
+    {
+     "surface": "hṛtsaroruha+madhye",
+     "gloss": "in-heart-lotus-middle",
+     "grounds": "internal location for visualization or sprinkling",
+     "morph": "compound: hṛt+saroruha+madhya (n.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svasyā",
+     "gloss": "of-oneself",
+     "grounds": "refers to one's own self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "anyān",
+     "gloss": "others",
+     "grounds": "additional recipients",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śambarān",
+     "gloss": "śambaras",
+     "grounds": "entities to be sprinkled or treated",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Who or what may be included in the action performed in the middle of the heart lotus?",
+   "premises": [
+    "The action occurs in the middle of the heart lotus.",
+    "It concerns oneself.",
+    "Others, including śambaras, may also be included."
+   ],
+   "inference": "In the middle of the heart lotus, the action may include oneself and also others, the śambaras.",
+   "uncertainties": [
+    "The term śambarān is contextually unclear in this ritual passage."
+   ],
+   "plain_english": "Then, in the middle of the heart lotus, of oneself and also others, the śambaras."
+  },
+  {
+   "verse": 6771,
+   "rows": [
+    {
+     "surface": "prokṣayed",
+     "gloss": "one-should-sprinkle",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √ukṣ with pra"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattoyaiḥ",
+     "gloss": "with-those-waters",
+     "grounds": "instrument for sprinkling",
+     "morph": "compound: tat+toya (n.ins.pl)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "frequency of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "thus",
+     "grounds": "procedural particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √car with ā"
+    }
+   ],
+   "question": "How frequently and with what substance should the sprinkling practice be performed?",
+   "premises": [
+    "Sprinkling may be performed.",
+    "It is done with those waters.",
+    "It should be performed every day in this manner."
+   ],
+   "inference": "One should sprinkle with those waters and perform the practice thus every day.",
+   "uncertainties": [],
+   "plain_english": "Or one should sprinkle with those waters; thus one should perform it every day."
+  },
+  {
+   "verse": 6772,
+   "rows": [
+    {
+     "surface": "hitvā+aghoram",
+     "gloss": "having-abandoned-aghora",
+     "grounds": "alternative omission of Aghora",
+     "morph": "compound: absolutive √hā + aghora (m.acc.sg)"
+    },
+    {
+     "surface": "aghorāstraṃ",
+     "gloss": "aghora-weapon",
+     "grounds": "object of worship",
+     "morph": "compound: aghora+astra (n.acc.sg)"
+    },
+    {
+     "surface": "kumbhamadhye",
+     "gloss": "in-pot-middle",
+     "grounds": "location of worship",
+     "morph": "compound: kumbha+madhya (n.loc.sg)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √arc"
+    }
+   ],
+   "question": "What alternative focus of worship is permitted in the middle of the pot?",
+   "premises": [
+    "Aghora may be set aside.",
+    "The Aghora weapon may be worshipped.",
+    "The worship takes place in the middle of the pot."
+   ],
+   "inference": "Alternatively, having set aside Aghora, one should worship the Aghora weapon in the middle of the pot.",
+   "uncertainties": [],
+   "plain_english": "Or, having set aside Aghora, one may worship the Aghora weapon in the middle of the pot."
+  },
+  {
+   "verse": 6773,
+   "rows": [
+    {
+     "surface": "pakṣāhaṃ",
+     "gloss": "for-a-fortnight",
+     "grounds": "duration option",
+     "morph": "compound: pakṣa+ahan (m.acc.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsaṃ",
+     "gloss": "for-a-month",
+     "grounds": "duration option",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitrimāsam",
+     "gloss": "for-two-or-three-months",
+     "grounds": "duration option",
+     "morph": "compound: dvi+tri+māsa (m.acc.sg)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative durations are allowed for continuing this ritual practice?",
+   "premises": [
+    "A fortnight is a possible duration.",
+    "A month is a possible duration.",
+    "Two or three months are possible durations."
+   ],
+   "inference": "The practice may be continued for a fortnight, a month, or two or three months.",
+   "uncertainties": [],
+   "plain_english": "For a fortnight, or for a month, or for two or three months."
+  },
+  {
+   "verse": 6774,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-performed",
+     "grounds": "performance of the rite",
+     "morph": "3.sg.present-passive √kṛ"
+    },
+    {
+     "surface": "śāntir",
+     "gloss": "pacification",
+     "grounds": "ritual of peace",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "naṣṭarogā",
+     "gloss": "with-diseases-destroyed",
+     "grounds": "resulting condition",
+     "morph": "compound: naṣṭa+roga (m.nom.pl)"
+    },
+    {
+     "surface": "gajādayaḥ",
+     "gloss": "elephants-etc",
+     "grounds": "affected beings beginning with elephants",
+     "morph": "compound: gaja+ādi (m.nom.pl)"
+    }
+   ],
+   "question": "What beneficial outcome results for beings where this pacification rite is performed?",
+   "premises": [
+    "This pacification rite is performed in some place.",
+    "Elephants and other beings are present there.",
+    "Their diseases are destroyed."
+   ],
+   "inference": "Where this pacification is performed, elephants and others become free from disease.",
+   "uncertainties": [],
+   "plain_english": "Where this pacification is performed, elephants and others have their diseases destroyed."
+  }
+ ]
+}

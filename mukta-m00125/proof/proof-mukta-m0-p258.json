@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p258",
+ "work": "mukta-m00125",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "6a3edf6d0fba9445",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 116
+ },
+ "align": {
+  "min_ratio": 0.93,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "The guru should perform the oblation together with the lords of the true form."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 65,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 116,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "5c5072ee302c21d0714dffb78a0b27b1c49b46a0c26fb0a68a9b2e6b765c1274",
+  "l0": "3c33ac56aa358a70d92627d2a69da5b11e560310d46787b40de66cc4d7012d4d",
+  "argmap": "64c60089b5fdd496c846bb1e86f4a080107da7629d4825287eb683e26cd5f20f",
+  "l2": "2b9ea21abfc1107773c1c0180dc3f0475465b0c31a432f27b5394df44100a837",
+  "c1": "bf47fa739a8b5bd6f2372b9f48f898689397792d9d19e95879f46be346ef7d58"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "6a3edf6d0fba9445",
+  "t1": "mukta-m0-p258/data/mukta-m0-p258.t1.json",
+  "l0": "mukta-m0-p258/data/mukta-m0-p258.l0.json",
+  "l2": "mukta-m0-p258/data/mukta-m0-p258.l2.json",
+  "c1": "mukta-m0-p258/data/mukta-m0-p258.c1.json"
+ }
+}
