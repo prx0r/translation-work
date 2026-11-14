@@ -26,18 +26,12 @@ step_workers() {
 
 step_assess() {
   python3 tools/beam_swarm.py auto-review 2>&1 | while IFS= read -r l; do log "assess: $l"; done
-  python3 tools/ralph_convert.py 2>&1 | while IFS= read -r l; do log "convert: $l"; done
+  log "conversion, proof and PASS decisions require owner review"
 }
 
-step_gates_commit() {
+step_gates() {
   if python3 tools/validate_all.py --quick >/dev/null 2>&1; then
-    git add -A >/dev/null 2>&1
-    git reset -q process/beam/queue.json process/beam/claims process/beam/w1.log process/beam/w2.log process/beam/w3.log process/beam/w4.log process/beam/w5.log process/beam/ralph.log process/beam/continue.log process/beam/validate_all.log ipvv/cm/beam process/beam/runs 2>/dev/null
-    if ! git diff --cached --quiet; then
-      git commit -qm "continue: swarm progress (machine-proposed)" && git push -q origin HEAD && log "pushed"
-    else
-      log "clean tree, nothing to push"
-    fi
+    log "quick gate green; changes remain machine-proposed for owner review"
   else
     log "gates red — holding, needs assessor"
   fi
@@ -48,7 +42,7 @@ step_status() {
 }
 
 if [ "$ONCE" = "once" ]; then
-  step_sync_seed; step_workers; sleep 5; step_assess; step_gates_commit; step_status
+  step_sync_seed; step_workers; sleep 5; step_assess; step_gates; step_status
   log "single pass done"
   exit 0
 fi

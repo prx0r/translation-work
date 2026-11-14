@@ -2,9 +2,9 @@
 """ralph_convert — convert approved pilot prose to canonical JSON (assessor lane).
 
 For every queue task with status approved + kind pilot_pair whose song still
-lacks data/<song>.argmap.json: run shastra_convert_chunk.py --layers-only
-(convert + validate + proof). Records PASS/BLOCKED honestly; BLOCKED stays
-BLOCKED with its disposition need — never forced. Prints a summary line per
+lacks data/<song>.argmap.json: run shastra_convert_chunk.py --layers-only.
+This prepares machine-proposed layers and deterministic validation only;
+proof, PASS and promotion remain owner decisions. Prints a summary line per
 chunk for the ralph log.
 """
 from __future__ import annotations

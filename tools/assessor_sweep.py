@@ -64,7 +64,14 @@ def check_am(am: dict) -> list[str]:
 
 
 def main() -> int:
-    q = json.loads(Q.read_text())
+    from beam_swarm import _locked, load_q, queue_update
+
+    if not Q.is_file():
+        raise FileNotFoundError(f"queue does not exist: {Q}")
+    with _locked():
+        if not Q.is_file():
+            raise FileNotFoundError(f"queue does not exist: {Q}")
+        q = load_q()
     seen = logged_ids()
     n_verdict = n_esc = n_lore = n_ready = 0
     # 1-2. verdict new dones; escalate content-failures at max
@@ -101,31 +108,32 @@ def main() -> int:
     # 3. lore gaps: fronts with triple work but no brief and no query task
     briefed = {p.stem for p in (ROOT / "process" / "beam" / "lore").glob("tal-*.md")}
     briefed |= {"tal-V3B"}
-    have_query = {t["id"] for t in q if t["kind"] == "lore_queries"}
-    need = sorted({t["args"].get("work", "") for t in q
-                   if t["kind"] == "tal_triple"
-                   and t["args"].get("work", "").startswith("tantraloka-a")})
-    seeded = 0
-    for work in need:
-        ahn = work.split("tantraloka-a")[-1]
-        if f"tal-a{ahn}" in briefed:
-            continue
-        qid = f"lore-q-{ahn}"
-        if qid in have_query:
-            continue
-        nw = time.strftime("%Y-%m-%dT%H:%M:%S")
-        q.append({"id": qid, "kind": "lore_queries",
-                  "args": {"work": work, "ahnika": ahn,
-                           "context": f"propose 2-6 scholarship searches for Tantraloka ahnika {ahn}"},
-                  "status": "pending", "attempts": 0, "max_attempts": 3,
-                  "worker": "", "note": "daemon-seeded: brief missing",
-                  "created": nw, "updated": nw})
-        seeded += 1
-    if seeded:
-        tmp = Q.with_name(f"{Q.name}.sweep.tmp")
-        tmp.write_text(json.dumps(q, indent=1))
-        tmp.replace(Q)
-    n_lore = seeded
+    def seed_missing_lore(current: list[dict]) -> tuple[list[dict], int]:
+        if not Q.is_file():
+            raise FileNotFoundError(f"queue does not exist: {Q}")
+        have_query = {t["id"] for t in current if t.get("kind") == "lore_queries"}
+        need = sorted({(t.get("args") or {}).get("work", "") for t in current
+                       if t.get("kind") == "tal_triple"
+                       and (t.get("args") or {}).get("work", "").startswith("tantraloka-a")})
+        seeded = 0
+        for work in need:
+            ahn = work.split("tantraloka-a")[-1]
+            if f"tal-a{ahn}" in briefed:
+                continue
+            qid = f"lore-q-{ahn}"
+            if qid in have_query:
+                continue
+            nw = time.strftime("%Y-%m-%dT%H:%M:%S")
+            current.append({"id": qid, "kind": "lore_queries",
+                            "args": {"work": work, "ahnika": ahn,
+                                     "context": f"propose 2-6 scholarship searches for Tantraloka ahnika {ahn}"},
+                            "status": "pending", "attempts": 0, "max_attempts": 3,
+                            "worker": "", "note": "daemon-seeded: brief missing",
+                            "created": nw, "updated": nw})
+            seeded += 1
+        return current, seeded
+
+    n_lore = queue_update(seed_missing_lore)
     print(f"sweep: verdicts={n_verdict} escalated={n_esc} lore_seeded={n_lore}")
     return 0
 

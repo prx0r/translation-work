@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convert one IPVV chunk to the shastra-minimal canonical stack (T1/L0/argmap/L2/C1 + proof).
+"""Convert one IPVV chunk to machine-proposed canonical layers (T1/L0/argmap/L2/C1).
 
 Usage:
   python3 tools/shastra_convert_chunk.py --song <song> --verse <N> --v1 <rows.jsonl>
@@ -182,10 +182,9 @@ def main():
     _forked = [o['id'] for o in l0 if o.get('fork', 'none') != 'none']
     if _forked and not am[0].get('option_choices'):
         print(f'FORK-ADJUDICATION-NEEDED {song}: L0 forks {_forked} have no argmap option_choices — assessor must adjudicate (converter will not invent it)', flush=True)
-    # 3. validate + proof
+    # 3. deterministic validation only; proof and PASS are owner decisions
     run(['python3', 'tools/validate_song.py', '--song', song, '--work', work])
-    run(['python3', 'tools/proof_record.py', '--song', song, '--work', work, '--shastra'])
-    print(f'CONVERTED {song}: PASS')
+    print(f'CONVERTED {song}: machine-proposed and validated; owner proof review required')
 
 
 if __name__ == '__main__':

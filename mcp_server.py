@@ -13,10 +13,19 @@ Usage:
   python3 mcp_server.py --list         # list tools
   python3 mcp_server.py <tool> '<json-args>'   # CLI call (testing)
 
+HTTP write policy:
+  Reads in PUBLIC_READ_TOOLS are public. All other calls require an explicit
+  OWNER_WRITE_TOOLS entry, SHASTRA_ENABLE_WRITES=1, and an HTTP
+  Authorization: Bearer <SHASTRA_WRITE_BEARER> header (at least 32 bytes).
+  Keep writes disabled
+  unless the endpoint is behind an owner-controlled connector credential.
+
 No pushes, no signoffs, no PASS minting. Ever.
 """
 from __future__ import annotations
+import hmac
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -25,8 +34,65 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "tools"))
 
 from fastmcp import FastMCP
+from fastmcp.exceptions import ToolError
+from fastmcp.server.dependencies import get_http_request
+from fastmcp.server.middleware import Middleware
 
-mcp = FastMCP("shastra")
+
+# Only tools whose implementation is read-only appear here. Ambiguous tools
+# with optional mutating modes (queue_guard, beam_review, swarm_workers) stay
+# protected on every call. Unknown tool names are denied even with a token.
+PUBLIC_READ_TOOLS = frozenset({
+    "status", "validate", "lore", "swarm_status", "swarm_review", "skill",
+    "concepts", "watchdog", "progress", "gates", "recon", "bibliography",
+    "priority", "schema", "stats", "works", "editions", "links", "availability",
+    "health", "audit_align", "serve_status",
+})
+OWNER_WRITE_TOOLS = frozenset({
+    "swarm_seed", "swarm_decide", "promote", "recycle", "queue_guard",
+    "onboard", "burn", "assemble", "supervise", "swarm_workers",
+    "review_sweep", "beam_review", "make_readable", "make_traces",
+})
+
+
+def _owner_write_authorized(tool_name: str, authorization: str,
+                            writes_enabled: str, expected_token: str) -> bool:
+    """Fail-closed owner gate. Token comparison is constant-time for configured writes."""
+    if (tool_name not in OWNER_WRITE_TOOLS or writes_enabled != "1"
+            or len(expected_token.encode("utf-8")) < 32):
+        return False
+    scheme, separator, supplied_token = authorization.partition(" ")
+    token_matches = hmac.compare_digest(supplied_token.encode("utf-8"),
+                                        expected_token.encode("utf-8"))
+    return bool(separator and scheme.lower() == "bearer" and token_matches)
+
+
+class OwnerWriteAuthorizationMiddleware(Middleware):
+    """Public read tools plus explicitly allowlisted, bearer-gated writes."""
+
+    async def on_call_tool(self, context, call_next):
+        tool_name = getattr(context.message, "name", None)
+        if tool_name in PUBLIC_READ_TOOLS:
+            return await call_next(context)
+        if tool_name not in OWNER_WRITE_TOOLS:
+            raise ToolError("tool is not in the owner-write allowlist")
+        if os.environ.get("SHASTRA_ENABLE_WRITES") != "1":
+            raise ToolError("owner writes are disabled on this endpoint")
+        expected_token = os.environ.get("SHASTRA_WRITE_BEARER", "")
+        if not expected_token:
+            raise ToolError("owner writes are disabled: bearer credential is not configured")
+        try:
+            authorization = get_http_request().headers.get("authorization", "")
+        except Exception as exc:  # no HTTP request means no owner credential
+            raise ToolError("owner authorization requires an authenticated HTTP request") from exc
+        if not _owner_write_authorized(
+            tool_name, authorization, os.environ.get("SHASTRA_ENABLE_WRITES", ""),
+            expected_token,
+        ):
+            raise ToolError("owner authorization required for this write")
+        return await call_next(context)
+
+mcp = FastMCP("shastra", middleware=[OwnerWriteAuthorizationMiddleware()])
 
 
 def _run(cmd: list[str], timeout: int = 300) -> dict:
@@ -36,21 +102,14 @@ def _run(cmd: list[str], timeout: int = 300) -> dict:
         data = json.loads(r.stdout) if r.stdout.strip() else {}
     except ValueError:
         data = {"raw": r.stdout[-2000:], "stderr": r.stderr[-2000:]}
+    if r.returncode and r.stderr.strip():
+        data.setdefault("stderr", r.stderr[-2000:])
     data["_rc"] = r.returncode
     return data
 
 
 def _registry() -> dict:
     return json.loads((ROOT / "REGISTRY.json").read_text())
-
-
-def _proof_cmd(work: str, song: str) -> list[str]:
-    """Canonical proof invocation: always honour recorded dispositions."""
-    cmd = ["tools/proof_record.py", "--song", song, "--work", work, "--shastra"]
-    disp = ROOT / "tools" / "proof-disp.json"
-    if disp.exists():
-        cmd += ["--disp", str(disp.relative_to(ROOT))]
-    return cmd
 
 
 @mcp.tool()
@@ -240,12 +299,12 @@ def status(work: str, song: str = "") -> dict:
 
 @mcp.tool()
 def validate(work: str, song: str) -> dict:
-    """Run the deterministic gates: validate_song (schemas + cross-layer
-    invariants) + proof_record --shastra. Read-only report; fixes nothing.
-    Exit nonzero in the payload when errors exist."""
+    """Run deterministic validation only. Never writes a proof or PASS record;
+    proof and sign-off remain with the owner. Exit nonzero in the payload when
+    validation errors exist."""
     v = _run(["tools/validate_song.py", "--song", song, "--work", work])
-    p = _run(_proof_cmd(work, song))
-    return {"validate": v, "proof": p}
+    return {"validate": v, "proof_recorded": False,
+            "note": "proof, PASS and sign-off require owner review"}
 
 
 @mcp.tool()
@@ -361,65 +420,40 @@ def swarm_decide(task_id: str, verdict: str, note: str = "") -> dict:
     if verdict == "bounce" and len(note.strip()) < 10:
         return {"error": "bounce notes must be actionable (>=10 chars): name the fix"}
     sys.path.insert(0, str(ROOT / "tools"))
-    from beam_swarm import load_q, save_q
-    q = load_q()
-    t = next((x for x in q if x["id"] == task_id), None)
-    if not t:
-        return {"error": f"unknown task {task_id}"}
-    if verdict == "approve":
-        if t["kind"] not in ("tal_brief", "pilot_pair", "lore_distill"):
-            return {"error": f"kind {t['kind']} is not approvable here (triple assembles via promote)"}
-        t["status"] = "approved"
-        t["note"] = (t.get("note", "") + " | assessor approved via MCP").strip(" |")
-    else:
-        if t["attempts"] >= t.get("max_attempts", 3):
-            t["status"] = "failed"
-            t["note"] = f"escalated to assessor hand-draft after {t['attempts']} attempts: {note}"
+    from beam_swarm import queue_update
+
+    def decide(q: list[dict]) -> tuple[list[dict], dict]:
+        t = next((x for x in q if x["id"] == task_id), None)
+        if not t:
+            return q, {"error": f"unknown task {task_id}"}
+        if verdict == "approve":
+            if t["kind"] not in ("tal_brief", "pilot_pair", "lore_distill"):
+                return q, {"error": f"kind {t['kind']} is not approvable here (triple assembles via promote)"}
+            t["status"] = "approved"
+            t["note"] = (t.get("note", "") + " | assessor approved via MCP").strip(" |")
         else:
-            t["status"] = "pending"
-            t["note"] = f"bounce: {note}"
-    import datetime
-    t["updated"] = datetime.datetime.now().isoformat(timespec="seconds")
-    save_q(q)
-    return {"task": t["id"], "status": t["status"], "note": t["note"]}
+            if t["attempts"] >= t.get("max_attempts", 3):
+                t["status"] = "failed"
+                t["note"] = f"escalated to assessor hand-draft after {t['attempts']} attempts: {note}"
+            else:
+                t["status"] = "pending"
+                t["note"] = f"bounce: {note}"
+        import datetime
+        t["updated"] = datetime.datetime.now().isoformat(timespec="seconds")
+        return q, {"task": t["id"], "status": t["status"], "note": t["note"]}
+
+    return queue_update(decide)
 
 
 @mcp.tool()
 def promote(work: str, song: str) -> dict:
-    """Assessor promotion: assemble runs -> working files -> data/*.json ->
-    validate_song + proof_record. Records STATUS/REGISTRY as machine-proposed
-    (minimal: L3/L4 waived). REFUSES on gate failure. Never pushes, never
-    signs off, never marks final."""
-    v = _run(["tools/validate_song.py", "--song", song, "--work", work])
-    if v["_rc"] != 0:
-        return {"promoted": False, "reason": "validate_song has errors — fix first", "validate": v}
-    p = _run(_proof_cmd(work, song))
-    gate = p.get("gate")
-    if gate != "PASS":
-        return {"promoted": False, "reason": f"proof gate={gate} — BLOCKED needs recorded disposition",
-                "proof": p}
-    sp = ROOT / work / "STATUS.json"
-    st = json.loads(sp.read_text()) if sp.exists() else {"work": work}
-    st.update({"next": "minimal gold complete; L3/L4 waived; human review pending"})
-    st.setdefault("counts", {})["proof"] = "PASS"
-    import datetime
-    st["updated"] = datetime.datetime.now().date().isoformat()
-    sp.write_text(json.dumps(st, indent=1, ensure_ascii=False))
-    rp = ROOT / "REGISTRY.json"
-    reg = json.loads(rp.read_text())
-    n = v.get("validate", {}).get("counts", {}).get("t1", 0)
-    for w in reg["works"]:
-        if w["work"] == work:
-            w.update({"status": "gold (machine-proposed, minimal: L3/L4 waived)",
-                      "gold": True, "verses": n or w.get("verses"),
-                      "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."})
-    reg["gold"] = sum(1 for w in reg["works"] if w.get("gold"))
-    reg["pending"] = sum(1 for w in reg["works"] if not w.get("gold"))
-    reg["total_works"] = len(reg["works"])
-    rp.write_text(json.dumps(reg, indent=1, ensure_ascii=False))
-    _run([str(ROOT / "tools" / "manifest.py"), "gen"], timeout=300)
-    return {"promoted": True, "gate": gate, "proof": p,
-            "note": "machine-proposed, needs human review. STATUS+REGISTRY updated. No push performed."}
+    """Promotion is disabled until authenticated owner approval exists.
+
+    A model-supplied boolean or prompt instruction is not owner authentication.
+    """
+    return {"promoted": False, "work": work, "song": song,
+            "reason": "MCP promotion is disabled pending authenticated owner approval; "
+                      "proof, PASS and status changes remain with the owner."}
 
 
 @mcp.tool()
@@ -459,7 +493,7 @@ def concepts(term: str, top: int = 5) -> dict:
 def recycle(dry_run: bool = False) -> dict:
     """Halve + requeue retryable failed triples (the failure recycler).
     Safe: one generation only (rc2- ids), skips covered ranges."""
-    return _run(["--", "recycle_failed.py"] + (["--dry"] if dry_run else []))
+    return _run(["tools/recycle_failed.py"] + (["--dry"] if dry_run else []))
 
 
 @mcp.tool()
@@ -482,7 +516,7 @@ def queue_guard(fix: bool = False) -> dict:
     MUST run this (or the guarded seeder) before adding tasks: enforces
     unique ids and non-overlapping tal_triple verse ranges per song.
     fix=true marks overlapping pending/claimed rows 'superseded'."""
-    return _run(["--", "queue_guard.py"] + (["--fix"] if fix else []))
+    return _run(["tools/queue_guard.py"] + (["--fix"] if fix else []))
 
 
 @mcp.tool()
@@ -581,10 +615,8 @@ def burn(work: str, lo: int = 1, hi: int = 999) -> dict:
 
 @mcp.tool()
 def assemble(work: str, song: str) -> dict:
-    """Assessor act: assemble beam runs -> working-T1/L0 + data t1/l0/argmap/
-    l2 (+C1-essence skeleton) -> validate_song + proof_record. Writes working
-    + data files as machine-proposed. Requires complete runs; use swarm_seed
-    + workers first. Promote with `promote` after this passes."""
+    """Assemble machine-proposed data and validate deterministic structure.
+    This never records proof/PASS or promotes work; those remain with the owner."""
     return _run(["tools/tal_stage.py", "--work", work, "--song", song], timeout=600)
 
 
@@ -896,11 +928,11 @@ def availability(catalog: str = "", work: str = "", language: str = "",
 TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_seed", "swarm_review", "swarm_decide", "promote",
          "skill", "concepts", "gates", "recon", "assemble", "supervise",
-         "swarm_workers", "review_sweep", "beam_review",
+         "swarm_workers", "review_sweep", "beam_review", "recycle", "queue_guard",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
-         "recycle", "watchdog", "progress", "queue_guard",
-         "serve_status", "make_readable", "make_traces", "health", "audit_align"]
+         "watchdog", "progress", "health", "audit_align",
+         "serve_status", "make_readable", "make_traces"]
 
 
 if __name__ == "__main__":

@@ -25,6 +25,8 @@ RETRYABLE = ("question rejected", "premise too short", "schema fail",
 
 
 def _recycle(q):
+    if not QUEUE.is_file():
+        raise FileNotFoundError(f"queue does not exist: {QUEUE}")
     have = {t["id"] for t in q}
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
     live = {}
@@ -63,7 +65,10 @@ def _recycle(q):
         size = 12 if len(vs) > 12 else len(vs)
         for i in range(0, len(vs), size):
             grp = vs[i:i + size]
-            if any(lo <= grp[0] and grp[-1] <= hi for lo, hi in live.get((a["work"], a["song"]), [])):
+            # A partial overlap also duplicates live verse work; leave it for
+            # an assessor instead of creating a conflicting retry window.
+            if any(lo <= max(grp) and min(grp) <= hi
+                   for lo, hi in live.get((a["work"], a["song"]), [])):
                 continue
             tid = f"rc2-{a['work'][:6]}-{a['song'][-4:]}-v{grp[0]:04d}"
             if tid in have:
@@ -86,11 +91,12 @@ def _recycle(q):
 
 def main() -> int:
     dry = "--dry" in sys.argv
-    from beam_swarm import queue_update
+    from beam_swarm import _locked, load_q, queue_update
     from collections import Counter
     if dry:
-        q = json.loads(QUEUE.read_text())
-        _, summary = _recycle(q)
+        with _locked():
+            q = load_q()
+            _, summary = _recycle(q)
         print(summary + f" (dry) | queue: {dict(Counter(t['status'] for t in q))}")
         return 0
     box = {}

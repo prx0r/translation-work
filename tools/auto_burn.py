@@ -56,15 +56,6 @@ def seed_locked(work: str, song: str, verses: list, note: str) -> int:
     return box['n']
 
 
-def load_queue() -> list:
-    return json.loads((ROOT / "process/beam/queue.json").read_text())
-
-
-def save_queue(q: list) -> None:
-    (ROOT / "process/beam/queue.json").write_text(
-        json.dumps(q, ensure_ascii=False, indent=0))
-
-
 def seed(q: list, work: str, song: str, verses: list, note: str) -> int:
     # NEVER seed a song that already exists as assembled gold in this repo.
     if (ROOT / work / "data" / f"{song}.t1.json").exists():

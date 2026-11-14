@@ -1,7 +1,7 @@
 #!/bin/bash
 # RALPH — autonomous swarm supervisor + assessor-batch machine.
-# Safe to run, kill, and re-run: every step is idempotent, nothing marks
-# PASS without validators, workers self-heal. Judgment stays queued for the
+# Safe to run, kill, and re-run: workers self-heal. PASS and publishing are
+# never automated. Judgment stays queued for the
 # assessor (pilot prose review, fork calls, signoff).
 #
 # Usage: setsid nohup bash tools/ralph.sh [max_iter] [sleep_secs] > process/beam/ralph.log 2>&1 < /dev/null &
@@ -57,19 +57,12 @@ for ((i = 1; i <= MAX_ITER; i++)); do
     timeout 240 python3 tools/beam_review.py --sweep --max 1 --apply 2>&1 | while IFS= read -r l; do log "beam-review: $l"; done
   fi
 
-  # 3. convert approved pilots whose canonical JSON is missing
-  python3 tools/ralph_convert.py 2>&1 | while IFS= read -r l; do log "convert: $l"; done
-
-  # 4. commit + push material changes (never queue/logs/claims/staging)
-  git add -A >/dev/null 2>&1
-  git reset -q process/beam/queue.json process/beam/claims process/beam/w1.log process/beam/w2.log process/beam/w3.log process/beam/w4.log process/beam/w5.log process/beam/ralph.log ipvv/cm/beam 2>/dev/null
-  if ! git diff --cached --quiet; then
-    if python3 tools/validate_all.py --quick >/dev/null 2>&1; then
-      git commit -qm "ralph pass $i: swarm progress (machine-proposed)" && git push -q origin HEAD 2>&1 | while IFS= read -r l; do log "push: $l"; done
-      log "committed+pushed pass $i"
-    else
-      log "validate_all (--quick) FAILED — holding commit, needs assessor"
-    fi
+  # Conversion, proof, PASS, commit and push remain with the owner.
+  log "machine-proposed work awaits owner review; no automatic conversion or publishing"
+  if python3 tools/validate_all.py --quick >/dev/null 2>&1; then
+    log "quick gate green (not a proof or publication approval)"
+  else
+    log "quick gate red — needs assessor"
   fi
 
   # 5. drained? (no pending/claimed worker tasks, no due conversions)
