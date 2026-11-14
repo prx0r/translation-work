@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1391,
- "question": "In which astrological positions do malefic planets become auspicious at night?",
+ "question": "What three-eyed character is assigned in contexts beginning with Viṣṇu and Rudra?",
  "premises": [
-  "Malefic planets are usually unfavorable.",
-  "Specific house positions are named.",
-  "Nighttime alters their effect."
+  "Contexts beginning with Viṣṇu and Rudra are named.",
+  "A specific character is attributed in those contexts.",
+  "That character consists of three eyes."
  ],
- "inference": "At night, malefic planets are auspicious in the third, sixth, and eleventh positions.",
- "uncertainties": [],
- "plain_english": "At night, malefic planets are auspicious when placed in the third, sixth, or eleventh position."
+ "inference": "In contexts beginning with Viṣṇu and Rudra, the act is characterized as consisting of three eyes.",
+ "uncertainties": [
+  "The exact ritual referent described as netra+traya+ātmakam is implicit."
+ ],
+ "plain_english": "In contexts beginning with Viṣṇu and with Rudra, it is of the nature of the three eyes."
 }

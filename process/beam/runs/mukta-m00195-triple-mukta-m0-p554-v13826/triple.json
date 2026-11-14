@@ -1,0 +1,1259 @@
+{
+ "song": "mukta-m0-p554",
+ "items": [
+  {
+   "verse": 13826,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior instruction",
+     "morph": "pron.nom/acc.sg.n"
+    },
+    {
+     "surface": "keśareṣu",
+     "gloss": "in-filaments",
+     "grounds": "location on lotus filaments",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ālikhyat",
+     "gloss": "should-be-written",
+     "grounds": "injunctive instruction to inscribe",
+     "morph": "3.sg.pass.opt/impv + ā-√likh"
+    },
+    {
+     "surface": "dala+madhye",
+     "gloss": "in-petal-middle",
+     "grounds": "compound indicating middle of petals",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb indicating prior manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the inscription be placed following the previous method?",
+   "premises": [
+    "The instruction refers to a prior procedure",
+    "Writing is prescribed in the filaments",
+    "Writing is prescribed in the middle of petals"
+   ],
+   "inference": "The inscription must be placed in the filaments and petal-middles as before",
+   "uncertainties": [
+    "Exact referent of tat is context-dependent"
+   ],
+   "plain_english": "That should be written in the filaments and in the middle of the petals, as before."
+  },
+  {
+   "verse": 13827,
+   "rows": [
+    {
+     "surface": "vṛtta+dvaya",
+     "gloss": "circle-pair",
+     "grounds": "compound denoting two circles",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "antar+vīthyām",
+     "gloss": "in-intermediate-path",
+     "grounds": "compound indicating space between circles",
+     "morph": "compound=f.loc.sg"
+    },
+    {
+     "surface": "āṃ",
+     "gloss": "āṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krāṃ",
+     "gloss": "krāṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījābhyām",
+     "gloss": "with-two-seeds",
+     "grounds": "instrumental dual referring to the two syllables",
+     "morph": "n.inst.du"
+    },
+    {
+     "surface": "praveṣṭayet",
+     "gloss": "one-should-insert",
+     "grounds": "causative instruction to place within",
+     "morph": "3.sg.act.opt + pra-√viś (caus.)"
+    }
+   ],
+   "question": "Which seed syllables must be inserted in the path between two circles?",
+   "premises": [
+    "A pair of circles forms a boundary",
+    "An intermediate path lies between them",
+    "Two specific seed syllables are named"
+   ],
+   "inference": "The syllables āṃ and krāṃ should be inserted in the path between the two circles",
+   "uncertainties": [],
+   "plain_english": "In the path between the pair of circles, one should insert the two seed syllables āṃ and krāṃ."
+  },
+  {
+   "verse": 13828,
+   "rows": [
+    {
+     "surface": "aṣṭa+arṇaka",
+     "gloss": "eight-syllabled",
+     "grounds": "compound describing mantra length",
+     "morph": "compound=m.acc.sg"
+    },
+    {
+     "surface": "eka+varṇam",
+     "gloss": "one-letter",
+     "grounds": "compound describing a single-letter form",
+     "morph": "compound=m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manum+etam",
+     "gloss": "this-mantra",
+     "grounds": "demonstrative referring to the mantra",
+     "morph": "compound=m.acc.sg"
+    },
+    {
+     "surface": "su+durlabham",
+     "gloss": "very-rare",
+     "grounds": "compound emphasizing rarity",
+     "morph": "compound=m.acc.sg"
+    }
+   ],
+   "question": "What special qualities characterize the mantra being described here?",
+   "premises": [
+    "The mantra is described as eight-syllabled",
+    "The mantra is also described as one-letter",
+    "The mantra is said to be very rare"
+   ],
+   "inference": "This mantra is eight-syllabled, one-letter, and very rare",
+   "uncertainties": [
+    "How eight-syllabled and one-letter are reconciled is unclear"
+   ],
+   "plain_english": "But this mantra, eight-syllabled and of one letter, is very rare."
+  },
+  {
+   "verse": 13829,
+   "rows": [
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭa+dalam",
+     "gloss": "eight-petaled",
+     "grounds": "compound describing the lotus",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) + √kṛ"
+    },
+    {
+     "surface": "karṇikāyām",
+     "gloss": "in-pericarp",
+     "grounds": "location within the lotus",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + sam-ā-√likh"
+    }
+   ],
+   "question": "What diagram must be prepared before writing in the pericarp?",
+   "premises": [
+    "A lotus must be made first",
+    "The lotus has eight petals",
+    "Writing is to be done in the pericarp"
+   ],
+   "inference": "After making an eight-petaled lotus, one should write in its pericarp",
+   "uncertainties": [],
+   "plain_english": "Having made an eight-petaled lotus, one should write in the pericarp."
+  },
+  {
+   "verse": 13830,
+   "rows": [
+    {
+     "surface": "daleṣu",
+     "gloss": "in-petals",
+     "grounds": "location for inscription",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + sam-√likh"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "objects to be written",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "caturaḥ",
+     "gloss": "four",
+     "grounds": "number of letters per group",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "caturaḥ",
+     "gloss": "four",
+     "grounds": "repeated number indicating distribution",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "source of the letters",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How should the mantra letters be distributed across the lotus petals?",
+   "premises": [
+    "Letters are to be written in the petals",
+    "The letters belong to the mantra",
+    "The number four is repeated"
+   ],
+   "inference": "Four letters of the mantra should be written in each petal group as indicated",
+   "uncertainties": [
+    "Exact distribution pattern implied by repeated caturaḥ is context-dependent"
+   ],
+   "plain_english": "One should write the letters of the mantra in the petals, four by four."
+  },
+  {
+   "verse": 13831,
+   "rows": [
+    {
+     "surface": "khaga",
+     "gloss": "bird",
+     "grounds": "first member of a compound list",
+     "morph": "compound"
+    },
+    {
+     "surface": "pataṅga",
+     "gloss": "insect",
+     "grounds": "second member of a compound list",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates additional similar items",
+     "morph": "compound"
+    },
+    {
+     "surface": "upadravān",
+     "gloss": "calamities",
+     "grounds": "objects to be destroyed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nāśaya",
+     "gloss": "destroy",
+     "grounds": "imperative verb within mantra phrase",
+     "morph": "2.sg.act.impv + √naś (caus.)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "mantra element to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "instruction to utter",
+     "morph": "3.sg.act.opt + √vad"
+    }
+   ],
+   "question": "What mantra phrase should be uttered to destroy bird and insect calamities?",
+   "premises": [
+    "Birds, insects, and similar causes bring calamities",
+    "A command to destroy is specified",
+    "A word or phrase must be spoken"
+   ],
+   "inference": "One should utter the phrase commanding destruction of calamities caused by birds, insects, and the like",
+   "uncertainties": [],
+   "plain_english": "One should say the word: 'Destroy the calamities caused by birds, insects, and so on.'"
+  },
+  {
+   "verse": 13832,
+   "rows": [
+    {
+     "surface": "tat+antarāla+vīthyām",
+     "gloss": "in-its-intermediate-path",
+     "grounds": "compound indicating location within that space",
+     "morph": "compound=f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ka+ādi+kṣa+antān",
+     "gloss": "from-ka-to-kṣa",
+     "grounds": "compound denoting range of letters",
+     "morph": "compound=m.acc.pl"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + √likh"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sequence of letters must be written in the intermediate path?",
+   "premises": [
+    "An intermediate path is specified",
+    "A range from ka to kṣa is named",
+    "Sequential order is required"
+   ],
+   "inference": "The letters from ka to kṣa should be written in order in that intermediate path",
+   "uncertainties": [],
+   "plain_english": "But in its intermediate path, one should write the letters from ka to kṣa in order."
+  },
+  {
+   "verse": 13833,
+   "rows": [
+    {
+     "surface": "pradāya",
+     "gloss": "having-given",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) + pra-√dā"
+    },
+    {
+     "surface": "lakṣmaṇa",
+     "gloss": "to-lakṣmaṇa",
+     "grounds": "recipient named in mantra context",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "iti+uktvā",
+     "gloss": "thus-having-said",
+     "grounds": "compound indicating quoted utterance",
+     "morph": "compound=(gerund) + √vac"
+    },
+    {
+     "surface": "dātre",
+     "gloss": "to-giver",
+     "grounds": "recipient designation in mantra phrase",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sītā",
+     "gloss": "sītā",
+     "grounds": "name in mantra phrase",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "mantra element to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "instruction to utter",
+     "morph": "3.sg.act.opt + √vad"
+    }
+   ],
+   "question": "What words must be spoken when invoking Lakṣmaṇa and Sītā in this mantra?",
+   "premises": [
+    "Lakṣmaṇa is addressed in the utterance",
+    "Sītā is named in the phrase",
+    "A specific word sequence must be spoken"
+   ],
+   "inference": "One should say the phrase including 'having given to Lakṣmaṇa' and 'to the giver Sītā'",
+   "uncertainties": [
+    "Exact syntactic role of dātre sītā within the mantra is unclear"
+   ],
+   "plain_english": "Having said 'given to Lakṣmaṇa,' one should utter the words 'to the giver, Sītā.'"
+  },
+  {
+   "verse": 13834,
+   "rows": [
+    {
+     "surface": "darppa+hāya",
+     "gloss": "to-pride-destroyer",
+     "grounds": "compound epithet in mantra phrase",
+     "morph": "compound=m.dat.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "inclusive term in mantra phrase",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅ+antaḥ",
+     "gloss": "ending-in-ṅ",
+     "grounds": "grammatical description of form",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "duṣṭa+vināśanaḥ",
+     "gloss": "evil-destroyer",
+     "grounds": "compound epithet",
+     "morph": "compound=m.nom.sg"
+    }
+   ],
+   "question": "Which epithets and grammatical form are specified in this mantra segment?",
+   "premises": [
+    "The phrase includes 'to the destroyer of pride'",
+    "The phrase includes 'all'",
+    "A form ending in ṅ and 'destroyer of evil' are stated"
+   ],
+   "inference": "The mantra segment includes the epithets pride-destroyer and evil-destroyer with a form ending in ṅ",
+   "uncertainties": [
+    "Precise application of ṅ+antaḥ to the preceding words is unclear"
+   ],
+   "plain_english": "Say 'to the destroyer of pride,' 'all,' and the form ending in ṅ, 'destroyer of evil.'"
+  },
+  {
+   "verse": 13835,
+   "rows": [
+    {
+     "surface": "pataṅga",
+     "gloss": "insect",
+     "grounds": "first member of compound list",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates additional similar items",
+     "morph": "compound"
+    },
+    {
+     "surface": "duṣṭa+sattva",
+     "gloss": "evil-beings",
+     "grounds": "compound denoting harmful creatures",
+     "morph": "compound"
+    },
+    {
+     "surface": "vināśana",
+     "gloss": "destruction",
+     "grounds": "action named in mantra phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "mantra element to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "instruction to utter",
+     "morph": "3.sg.act.opt + √vad"
+    }
+   ],
+   "question": "What phrase should be uttered for destroying insects and other evil beings?",
+   "premises": [
+    "Insects and similar beings are targeted",
+    "They are described as evil beings",
+    "A destruction phrase must be spoken"
+   ],
+   "inference": "One should utter the phrase for the destruction of insects and other evil beings",
+   "uncertainties": [],
+   "plain_english": "One should say the word for the destruction of insects and other evil beings."
+  },
+  {
+   "verse": 13836,
+   "rows": [
+    {
+     "surface": "tat+bahiḥ",
+     "gloss": "outside-that",
+     "grounds": "compound indicating outer location",
+     "morph": "compound=(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturasram",
+     "gloss": "square",
+     "grounds": "shape of the diagram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantram",
+     "gloss": "diagram",
+     "grounds": "ritual diagram to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the diagram",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "su+lekhayet",
+     "gloss": "one-should-draw-well",
+     "grounds": "instruction to draw carefully",
+     "morph": "3.sg.act.opt + su-√likh (caus.)"
+    }
+   ],
+   "question": "What outer structure must be carefully drawn around the diagram?",
+   "premises": [
+    "A location outside the previous figure is specified",
+    "A square shape is prescribed",
+    "The diagram must be drawn well"
+   ],
+   "inference": "Outside that, one should carefully draw this diagram as a square",
+   "uncertainties": [],
+   "plain_english": "And outside that, one should carefully draw this diagram as a square."
+  },
+  {
+   "verse": 13837,
+   "rows": [
+    {
+     "surface": "go+gale",
+     "gloss": "on-cow-dung-cake",
+     "grounds": "compound indicating writing surface",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "also",
+     "grounds": "particle introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃlekhyam",
+     "gloss": "should-be-written",
+     "grounds": "gerundive indicating obligation",
+     "morph": "n.nom.sg.gerundive + sam-√likh"
+    },
+    {
+     "surface": "rocanā",
+     "gloss": "with-gorocanā",
+     "grounds": "writing substance",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "nābhi",
+     "gloss": "musk",
+     "grounds": "writing substance in compound context",
+     "morph": "compound"
+    },
+    {
+     "surface": "keśaraiḥ",
+     "gloss": "and-saffron",
+     "grounds": "writing substance",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "On what surface and with which substances should the diagram be written?",
+   "premises": [
+    "A cow-dung cake is given as a possible surface",
+    "Writing is required",
+    "Gorocanā, musk, and saffron are specified"
+   ],
+   "inference": "The diagram should be written on a cow-dung cake or otherwise with gorocanā, musk, and saffron",
+   "uncertainties": [
+    "Exact compound analysis of nābhi keśaraiḥ is context-dependent"
+   ],
+   "plain_english": "It should be written on a cow-dung cake, or else with gorocanā, musk, and saffron."
+  },
+  {
+   "verse": 13838,
+   "rows": [
+    {
+     "surface": "bāla+graha",
+     "gloss": "child-seizers",
+     "grounds": "compound denoting harmful entities affecting children",
+     "morph": "compound"
+    },
+    {
+     "surface": "āmaya",
+     "gloss": "disease",
+     "grounds": "affliction to be removed",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyāghra",
+     "gloss": "tiger",
+     "grounds": "source of fear",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhaya",
+     "gloss": "fear",
+     "grounds": "affliction to be removed",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādyam",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional similar afflictions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "indicates sequential removal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haret",
+     "gloss": "it-removes",
+     "grounds": "states the effect of the diagram",
+     "morph": "3.sg.act.opt + √hṛ"
+    }
+   ],
+   "question": "What afflictions does this diagram remove when properly used?",
+   "premises": [
+    "Child-seizers and disease are named",
+    "Fear of tigers and similar dangers are named",
+    "Removal occurs in order"
+   ],
+   "inference": "The diagram removes child-seizers, disease, fear of tigers, and similar afflictions in order",
+   "uncertainties": [],
+   "plain_english": "It removes, in order, child-seizing demons, disease, fear of tigers, and so forth."
+  },
+  {
+   "verse": 13839,
+   "rows": [
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-make",
+     "grounds": "instruction to create",
+     "morph": "3.sg.act.opt + √kṛ"
+    },
+    {
+     "surface": "aṣṭa+dalam",
+     "gloss": "eight-petaled",
+     "grounds": "compound describing the lotus",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇikāyām",
+     "gloss": "in-pericarp",
+     "grounds": "location for writing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + sam-ā-√likh"
+    }
+   ],
+   "question": "What initial diagram and inscription location are prescribed in this procedure?",
+   "premises": [
+    "An eight-petaled lotus must be made",
+    "The pericarp is specified as a location",
+    "Writing must be done there"
+   ],
+   "inference": "One should make an eight-petaled lotus and write in its pericarp",
+   "uncertainties": [],
+   "plain_english": "One should make an eight-petaled lotus and write in the pericarp."
+  },
+  {
+   "verse": 13840,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādya+dale",
+     "gloss": "in-first-petal",
+     "grounds": "compound indicating location",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "lekhyāḥ",
+     "gloss": "to-be-written",
+     "grounds": "gerundive indicating obligation",
+     "morph": "m.nom.pl.gerundive + √likh"
+    },
+    {
+     "surface": "a",
+     "gloss": "a",
+     "grounds": "letter to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "umāḥ",
+     "gloss": "umā-syllables",
+     "grounds": "syllables or letters to be written",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāra",
+     "gloss": "tāra",
+     "grounds": "sacred syllable",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇakāḥ",
+     "gloss": "letters",
+     "grounds": "characters to be inscribed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which letters must be written in the first petal of the lotus?",
+   "premises": [
+    "The first petal is specified",
+    "Certain letters are to be written",
+    "The letters include a, umā, and tāra"
+   ],
+   "inference": "In the first petal, the letters a, umā, and tāra should be written",
+   "uncertainties": [
+    "Exact interpretation of umāḥ as letters or syllables is unclear"
+   ],
+   "plain_english": "Then, in the first petal, the letters a, umā, and tāra should be written."
+  },
+  {
+   "verse": 13841,
+   "rows": [
+    {
+     "surface": "caturthe",
+     "gloss": "in-fourth",
+     "grounds": "location in fourth petal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "dakṣiṇā",
+     "grounds": "word to be written",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrttaye",
+     "gloss": "to-form",
+     "grounds": "mantra phrase element",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "pañcame",
+     "gloss": "in-fifth",
+     "grounds": "location in fifth petal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + √likh"
+    }
+   ],
+   "question": "What inscriptions are assigned to the fourth and fifth petals?",
+   "premises": [
+    "The fourth petal is specified",
+    "The fifth petal is specified",
+    "The words dakṣiṇā and mūrttaye are given"
+   ],
+   "inference": "One should write 'dakṣiṇā' in the fourth petal and 'to the form' in the fifth",
+   "uncertainties": [
+    "Exact mantra segmentation is context-dependent"
+   ],
+   "plain_english": "In the fourth, write 'dakṣiṇā,' and in the fifth, write 'to the form.'"
+  },
+  {
+   "verse": 13842,
+   "rows": [
+    {
+     "surface": "ccha",
+     "gloss": "ccha",
+     "grounds": "syllable to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭame+patre",
+     "gloss": "in-eighth-petal",
+     "grounds": "compound indicating location",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "vṛttayoḥ",
+     "gloss": "of-two-circles",
+     "grounds": "reference to two circles",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "antare",
+     "gloss": "in-between",
+     "grounds": "location between circles",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates next step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the syllables ccha and svāhā be placed in the diagram?",
+   "premises": [
+    "The eighth petal is specified",
+    "The space between two circles is specified",
+    "The syllables ccha and svāhā are given"
+   ],
+   "inference": "The syllables ccha and svāhā should be written in the eighth petal and then in the space between the two circles",
+   "uncertainties": [
+    "Whether both locations receive the same syllables is unclear"
+   ],
+   "plain_english": "Write 'ccha svāhā' in the eighth petal, and then in the space between the two circles."
+  },
+  {
+   "verse": 13843,
+   "rows": [
+    {
+     "surface": "catuṣkoṇe",
+     "gloss": "in-four-corners",
+     "grounds": "location in the square",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caturthasya",
+     "gloss": "of-fourth",
+     "grounds": "ordinal specifying a group",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vargasya",
+     "gloss": "of-class",
+     "grounds": "consonant class",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prathama+akṣaram",
+     "gloss": "first-letter",
+     "grounds": "compound indicating initial letter",
+     "morph": "compound=n.acc.sg"
+    }
+   ],
+   "question": "Which letter must be written in the four corners of the diagram?",
+   "premises": [
+    "The four corners are specified",
+    "The fourth consonant class is named",
+    "The first letter of that class is required"
+   ],
+   "inference": "The first letter of the fourth consonant class should be written in the four corners",
+   "uncertainties": [],
+   "plain_english": "In the four corners, write the first letter of the fourth class."
+  },
+  {
+   "verse": 13844,
+   "rows": [
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + √likh"
+    },
+    {
+     "surface": "śaiva+aṣṭa+gandhena",
+     "gloss": "with-śaiva-eight-fragrances",
+     "grounds": "compound indicating ritual substances",
+     "morph": "compound=m.inst.sg"
+    },
+    {
+     "surface": "bhūrjje",
+     "gloss": "on-birch-bark",
+     "grounds": "writing surface",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhāryyam",
+     "gloss": "to-be-worn",
+     "grounds": "gerundive indicating use as amulet",
+     "morph": "n.nom.sg.gerundive + √dhṛ"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continuous wearing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gale",
+     "gloss": "on-neck",
+     "grounds": "place of wearing",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How and where should the written diagram be worn for its effect?",
+   "premises": [
+    "The diagram should be written with Śaiva eight fragrances",
+    "It should be written on birch bark",
+    "It should be worn always on the neck"
+   ],
+   "inference": "Written on birch bark with the Śaiva eight fragrances, it should always be worn on the neck",
+   "uncertainties": [
+    "Exact composition of śaiva+aṣṭa+gandhena is not specified here"
+   ],
+   "plain_english": "One should write it with the eight Śaiva fragrances on birch bark and always wear it on the neck."
+  },
+  {
+   "verse": 13845,
+   "rows": [
+    {
+     "surface": "kṛtyā",
+     "gloss": "witchcraft",
+     "grounds": "harmful force to be destroyed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "apasmāra",
+     "gloss": "epilepsy",
+     "grounds": "affliction to be destroyed",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūta",
+     "gloss": "spirits",
+     "grounds": "harmful beings to be destroyed",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates additional similar harms",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "effect of the diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+kāma+dam",
+     "gloss": "all-desires-granting",
+     "grounds": "compound describing beneficial effect",
+     "morph": "compound=n.nom.sg"
+    }
+   ],
+   "question": "What destructive and beneficial powers does this amulet possess?",
+   "premises": [
+    "Witchcraft, epilepsy, and spirits are named",
+    "Destruction of these harms is stated",
+    "Granting all desires is stated"
+   ],
+   "inference": "The amulet destroys witchcraft, epilepsy, spirits, and the like, and grants all desires",
+   "uncertainties": [],
+   "plain_english": "It destroys witchcraft, epilepsy, spirits, and so on, and grants all desires."
+  },
+  {
+   "verse": 13846,
+   "rows": [
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + √likh"
+    },
+    {
+     "surface": "aṣṭa+dalam",
+     "gloss": "eight-petaled",
+     "grounds": "compound describing the lotus",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "diagram to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇikāyām",
+     "gloss": "in-pericarp",
+     "grounds": "location for writing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.opt + √likh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "imperishable-syllable",
+     "grounds": "sacred syllable to be written",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must be written in the pericarp of the newly drawn eight-petaled lotus?",
+   "premises": [
+    "An eight-petaled lotus should be drawn",
+    "The pericarp is the writing location",
+    "The imperishable syllable is specified"
+   ],
+   "inference": "One should draw an eight-petaled lotus and write the imperishable syllable in its pericarp",
+   "uncertainties": [
+    "The exact syllable meant by dhruvam is context-dependent"
+   ],
+   "plain_english": "One should draw an eight-petaled lotus and write the imperishable syllable in the pericarp."
+  },
+  {
+   "verse": 13847,
+   "rows": [
+    {
+     "surface": "vidik+patreṣu",
+     "gloss": "in-intermediate-petals",
+     "grounds": "compound indicating petals in intermediate directions",
+     "morph": "compound=n.loc.pl"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior element",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "lekhyaḥ",
+     "gloss": "to-be-written",
+     "grounds": "gerundive indicating obligation",
+     "morph": "m.nom.sg.gerundive + √likh"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "location beyond the petals",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhū+puram",
+     "gloss": "earth-enclosure",
+     "grounds": "compound denoting square enclosure",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "one-should-draw",
+     "grounds": "instruction to draw",
+     "morph": "3.sg.act.opt + ā-√likh"
+    }
+   ],
+   "question": "Where should the specified element and the outer enclosure be drawn?",
+   "premises": [
+    "Intermediate-direction petals are specified",
+    "An element must be written there",
+    "An earth-enclosure must be drawn outside"
+   ],
+   "inference": "That should be written in the intermediate petals, and an earth-enclosure should be drawn outside",
+   "uncertainties": [
+    "The referent of saḥ is context-dependent"
+   ],
+   "plain_english": "That should be written in the intermediate-direction petals, and outside one should draw the square enclosure."
+  },
+  {
+   "verse": 13848,
+   "rows": [
+    {
+     "surface": "yantram",
+     "gloss": "diagram",
+     "grounds": "ritual diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛtyuñjayasya",
+     "gloss": "of-mṛtyuñjaya",
+     "grounds": "deity associated with the diagram",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the diagram",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "ritual practice in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "homa",
+     "gloss": "oblation",
+     "grounds": "ritual practice in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates additional practices",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhitam",
+     "gloss": "accomplished",
+     "grounds": "states the diagram is empowered by practice",
+     "morph": "n.nom.sg.ppp + √sidh (caus.)"
+    }
+   ],
+   "question": "How is this diagram of Mṛtyuñjaya ritually empowered for use?",
+   "premises": [
+    "The diagram belongs to Mṛtyuñjaya",
+    "Recitation and oblation are named",
+    "Additional practices are implied"
+   ],
+   "inference": "This diagram of Mṛtyuñjaya is accomplished through recitation, oblation, and similar practices",
+   "uncertainties": [],
+   "plain_english": "This is the diagram of Mṛtyuñjaya, accomplished through recitation, oblation, and so on."
+  },
+  {
+   "verse": 13849,
+   "rows": [
+    {
+     "surface": "graha",
+     "gloss": "planets",
+     "grounds": "harmful influences in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "roga",
+     "gloss": "disease",
+     "grounds": "affliction in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "viṣa",
+     "gloss": "poison",
+     "grounds": "harm in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādīnām",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional harms",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "effect of the diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛtyu+bhañjanam",
+     "gloss": "death-conquering",
+     "grounds": "compound describing supreme effect",
+     "morph": "compound=n.nom.sg"
+    }
+   ],
+   "question": "What protective effects does the Mṛtyuñjaya diagram ultimately provide?",
+   "premises": [
+    "Planets, disease, and poison are named as harms",
+    "Destruction of these harms is stated",
+    "Conquering death is stated"
+   ],
+   "inference": "The diagram destroys planetary afflictions, disease, poison, and the like, and conquers death",
+   "uncertainties": [],
+   "plain_english": "It brings destruction of planetary afflictions, disease, poison, and so on, and conquers death."
+  }
+ ]
+}
