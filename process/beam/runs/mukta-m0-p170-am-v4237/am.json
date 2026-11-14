@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4237,
- "question": "How should the pit be purified with a weapon after it becomes firm?",
+ "question": "What bathing restriction applies during the rite of removing a decayed image?",
  "premises": [
-  "firm is named",
-  "pit is named",
-  "weapon is named",
-  "purify is named"
+  "The context is the rite of removing a decayed image",
+  "Bathing is considered in that rite",
+  "Bathing is not desired and should be omitted"
  ],
- "inference": "the verse instructs purifying the pit with a weapon",
- "uncertainties": [
-  "weapon type unspecified"
- ],
- "plain_english": "It would be firm; the pit, as produced, should be purified with a weapon."
+ "inference": "In the rite of removing a decayed image, bathing should be omitted.",
+ "uncertainties": [],
+ "plain_english": "O twice-born ones, in the rite of removing a decayed image, bathing is not to be done and should be omitted."
 }

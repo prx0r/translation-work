@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4247,
- "question": "What materials are listed for the temple, crystal, sugar, and guruvindaka?",
+ "question": "What remains the same for liṅgas characterized by common ritual procedure?",
  "premises": [
-  "temple is named",
-  "crystal is named",
-  "sugar is named",
-  "guruvindaka is named"
+  "Some liṅgas are marked by common ritual procedure",
+  "Other aspects are considered",
+  "All other aspects should be the same"
  ],
- "inference": "the verse lists temple, crystal, sugar, and guruvindaka materials",
- "uncertainties": [
-  "exact material role unclear"
- ],
- "plain_english": "Temple, and crystal, and indeed sugar, guruvindaka."
+ "inference": "For liṅgas characterized by common ritual procedure, all other aspects should remain the same.",
+ "uncertainties": [],
+ "plain_english": "For liṅgas marked by common ritual procedure, everything else should be the same."
 }
