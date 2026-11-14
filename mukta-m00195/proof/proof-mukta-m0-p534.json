@@ -1,0 +1,72 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p534",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "6877659138068a0a",
+ "source_digest_normalized_sha256": "6877659138068a0a874600713bfd5078298105620cabf3e5042684d04749526e",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 144
+ },
+ "align": {
+  "min_ratio": 0.935,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 81,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 144,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "23f5d8efe75625819551fdab488ff35f93a7d61aab629cbb62304381824bff36",
+  "l0": "f360ca7505eb1689e946b9fd9c6ae10a60205364fadbda43df55785c972952d2",
+  "argmap": "915e6663a513613293423b54b12294e8d2cf5d0f894861a69647f26935402939",
+  "l2": "a6941c4a018545c1c8261b331545316801ec6ab4f061cd3c76b7f4a4082a13bb",
+  "c1": "41a9037a012ce769b9d9e2e86c556cb51794f530d7854f4f62611477137f664b"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "6877659138068a0a",
+  "t1": "mukta-m0-p534/data/mukta-m0-p534.t1.json",
+  "l0": "mukta-m0-p534/data/mukta-m0-p534.l0.json",
+  "l2": "mukta-m0-p534/data/mukta-m0-p534.l2.json",
+  "c1": "mukta-m0-p534/data/mukta-m0-p534.c1.json"
+ }
+}
