@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p30",
  "verse": 748,
- "question": "Where is the pādukā mantra placed after utterance?",
+ "question": "What is the maximum prescribed measure for the altar per person?",
  "premises": [
-  "The verse names pādukā-mantra.",
-  "It says uttering.",
-  "It names brahma-aperture and should-place."
+  "An altar is to be prepared.",
+  "Its measure is specified per person.",
+  "The maximum measure is four prasthas."
  ],
- "inference": "After uttering the pādukā mantra, it is placed at the brahma-aperture.",
- "uncertainties": [
-  "The exact pādukā mantra syllables are not given."
- ],
- "plain_english": "After uttering the pādukā mantra, place it at the brahma-aperture."
+ "inference": "The altar should measure at most four prasthas per person.",
+ "uncertainties": [],
+ "plain_english": "The altar should be at most four prasthas in measure per person."
 }
