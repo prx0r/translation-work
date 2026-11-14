@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p122",
  "verse": 3033,
- "question": "How many times should the self-controlled person recite the mantra while touching water?",
+ "question": "What ritual fault arises if interruptions occur in music or dance performances?",
  "premises": [
-  "touching-water is stated",
-  "should-recite-mantra is stated",
-  "three-thousand is specified"
+  "Interruptions may occur in ritual music.",
+  "Interruptions may occur in ritual dance.",
+  "Such interruptions are fault-causing."
  ],
- "inference": "The verse prescribes three thousand recitations by a self-controlled person while touching water.",
- "uncertainties": [
-  "exact mantra"
- ],
- "plain_english": "The self-controlled person should recite the mantra three thousand times while touching water."
+ "inference": "Therefore, interruptions in music or dance produce a ritual fault.",
+ "uncertainties": [],
+ "plain_english": "In the same way, if a fault-causing interruption occurs in music or in dance, it is a ritual defect."
 }

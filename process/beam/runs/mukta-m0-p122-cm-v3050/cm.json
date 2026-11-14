@@ -3,24 +3,34 @@
  "verse": 3050,
  "rows": [
   {
-   "lemma": "jyeṣṭhe",
+   "lemma": "saukhyadīpasya",
+   "morph": "compound gen.sg.m",
+   "grounds": "compound: saukhya (comfort) + dīpa (lamp); dependent member"
+  },
+  {
+   "lemma": "vicchede",
    "morph": "m.loc.sg",
-   "grounds": "locative singular of jyeṣṭha"
+   "grounds": "locative indicating the circumstance of disruption"
   },
   {
-   "lemma": "ṣaṭpañcavedāgnipādabhāgānadhastyajet",
-   "morph": "v.3.sg.act.opt (tyaj)",
-   "grounds": "fused accusative plural object, adverb adhaḥ, and optative verb tyajet"
+   "lemma": "ghoreṇa",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental referring to the fierce mantra/form"
   },
   {
-   "lemma": "adhaḥ",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable adverb"
+   "lemma": "eka",
+   "morph": "indecl.",
+   "grounds": "numeral qualifying śataṃ"
   },
   {
-   "lemma": "tyajet",
-   "morph": "v.3.sg.act.opt (tyaj)",
-   "grounds": "optative third singular of tyaj"
+   "lemma": "śataṃ",
+   "morph": "n.acc.sg",
+   "grounds": "numeral object of recitation count"
+  },
+  {
+   "lemma": "japet",
+   "morph": "3.sg.opt.act √jap",
+   "grounds": "prescriptive injunction for recitation"
   }
  ]
 }

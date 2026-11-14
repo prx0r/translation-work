@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p122",
  "verse": 3043,
- "question": "What does the speaker tell the wise one?",
+ "question": "What specific form of ritual bathing is prescribed at that stage of expiation?",
  "premises": [
-  "I-tell is stated",
-  "listen is commanded",
-  "wise-one is addressee",
-  "desired-objects-wish-trees is topic"
+  "A ritual bathing is required at that time.",
+  "The bathing must use ritual pots.",
+  "The number of pots specified is twenty-five."
  ],
- "inference": "The verse announces telling the wise one about desired objects as wish-trees.",
- "uncertainties": [
-  "exact list"
- ],
- "plain_english": "I tell you, wise one: listen to the desired objects, wish-trees."
+ "inference": "Therefore, one should then perform the bathing with twenty-five pots.",
+ "uncertainties": [],
+ "plain_english": "Then one should perform the ritual bathing with twenty-five pots."
 }

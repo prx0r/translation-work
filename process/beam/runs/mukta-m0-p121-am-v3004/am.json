@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p121",
  "verse": 3004,
- "question": "Where should the eight-cornered figure be placed?",
+ "question": "What is the consequence when a previously fixed substance is deficient?",
  "premises": [
-  "An eight-cornered figure is made",
-  "It is placed outside the circle"
+  "A substance may be fixed beforehand.",
+  "That fixed substance may be deficient.",
+  "Deficiency in required substance causes fault."
  ],
- "inference": "The practitioner places the eight-cornered figure outside the circle.",
- "uncertainties": [
-  "Exact spatial relation"
- ],
- "plain_english": "Having made the eight-cornered figure outside, place it there."
+ "inference": "Therefore deficiency in a previously fixed substance is fault-causing.",
+ "uncertainties": [],
+ "plain_english": "If a substance fixed beforehand is deficient, that is fault-causing."
 }

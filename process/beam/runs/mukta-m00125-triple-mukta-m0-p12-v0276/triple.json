@@ -1,0 +1,867 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "ārakūṭaṃ",
+     "gloss": "brass",
+     "grounds": "ingredient in mineral water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṃsyayuktaṃ",
+     "gloss": "mixed-with-bell-metal",
+     "grounds": "compound describing mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lohodakam",
+     "gloss": "iron-water",
+     "grounds": "compound naming prepared water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "next",
+     "grounds": "indicates subsequent item",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substances constitute the next mineral water after brass?",
+   "premises": [
+    "Brass is named first",
+    "Bell-metal is added next",
+    "Iron-water follows as supreme"
+   ],
+   "inference": "The sequence specifies brass, bell-metal mixture, and iron-water as components.",
+   "uncertainties": [],
+   "plain_english": "Then comes brass, mixed with bell-metal, and next iron-water."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "gairikaṃ",
+     "gloss": "red-ochre",
+     "grounds": "mineral ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rocanaṃ",
+     "gloss": "yellow-pigment",
+     "grounds": "mineral ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cānte",
+     "gloss": "and-at-end",
+     "grounds": "conjunction with locative indicating final position",
+     "morph": "indecl.+m.loc.sg"
+    },
+    {
+     "surface": "dhātūdakamidaṃ",
+     "gloss": "this-mineral-water",
+     "grounds": "compound naming the prepared water",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "declares accepted designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What final ingredients define the composition called mineral water?",
+   "premises": [
+    "Red-ochre is included",
+    "Yellow-pigment is included at the end",
+    "This mixture is considered mineral water"
+   ],
+   "inference": "Red-ochre and yellow-pigment complete the preparation known as mineral water.",
+   "uncertainties": [],
+   "plain_english": "Red-ochre and yellow-pigment at the end—this is considered mineral water."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "śyāmāṣṭakaṃ",
+     "gloss": "eight-dark-herbs",
+     "grounds": "compound naming a group of eight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yavo",
+     "gloss": "barley",
+     "grounds": "grain ingredient",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bījo",
+     "gloss": "seed",
+     "grounds": "seed ingredient",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bījodakamihoditam",
+     "gloss": "here-declared-seed-water",
+     "grounds": "compound stating designation of mixture",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which ingredients are declared to constitute seed water here?",
+   "premises": [
+    "The eight dark herbs are named",
+    "Barley is included",
+    "Seed is included and the mixture is called seed water"
+   ],
+   "inference": "The eight dark herbs, barley, and seed together form seed water.",
+   "uncertainties": [
+    "Exact identity of śyāmāṣṭaka not specified"
+   ],
+   "plain_english": "The eight dark herbs, barley, and seed—this is here declared to be seed water."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandalwood",
+     "grounds": "fragrant ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "laghukuṣṭhañca",
+     "gloss": "light-costus-and",
+     "grounds": "compound with conjunction naming ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varālośīramustakāḥ",
+     "gloss": "varā-uśīra-mustaka",
+     "grounds": "compound listing three ingredients",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which aromatic substances are listed as ingredients in this group?",
+   "premises": [
+    "Sandalwood is named",
+    "Light costus is named",
+    "Varā, uśīra, and mustaka are named"
+   ],
+   "inference": "The listed items are sandalwood, light costus, varā, uśīra, and mustaka.",
+   "uncertainties": [
+    "Botanical identity of varā uncertain"
+   ],
+   "plain_english": "Sandalwood, light costus, and varā, uśīra, and mustaka."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "ebhistu",
+     "gloss": "but-with-these",
+     "grounds": "instrumental reference to prior ingredients",
+     "morph": "m/n.ins.pl+(indecl.)"
+    },
+    {
+     "surface": "cūrṇitairyuktaṃ",
+     "gloss": "mixed-with-powdered",
+     "grounds": "describes preparation method",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gandhodakamiti",
+     "gloss": "thus-fragrance-water",
+     "grounds": "compound giving designation",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is fragrance water produced from the previously listed substances?",
+   "premises": [
+    "The previously named substances are used",
+    "They are powdered and mixed",
+    "The result is remembered as fragrance water"
+   ],
+   "inference": "Powdering and mixing those substances yields what is called fragrance water.",
+   "uncertainties": [],
+   "plain_english": "Mixed with these powdered ingredients, it is remembered as fragrance water."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "gokṣurā",
+     "gloss": "gokṣurā",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahadevī",
+     "gloss": "sahadevī",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇukrāntā",
+     "gloss": "viṣṇukrāntā",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛtāñjali",
+     "gloss": "kṛtāñjali",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which four plants begin the next list of ritual ingredients?",
+   "premises": [
+    "Gokṣurā is named",
+    "Sahadevī and viṣṇukrāntā are named",
+    "Kṛtāñjali is named"
+   ],
+   "inference": "The list begins with gokṣurā, sahadevī, viṣṇukrāntā, and kṛtāñjali.",
+   "uncertainties": [],
+   "plain_english": "Gokṣurā, sahadevī, viṣṇukrāntā, and kṛtāñjali."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "dūrvāṃkurañca",
+     "gloss": "dūrvā-sprout-and",
+     "grounds": "compound with conjunction naming ingredient",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuśāgraṃ",
+     "gloss": "kuśa-tip",
+     "grounds": "compound naming ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gaurasarṣapam",
+     "gloss": "white-mustard",
+     "grounds": "compound naming ingredient",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which additional plant parts continue the ritual ingredient list?",
+   "premises": [
+    "A dūrvā sprout is named",
+    "A kuśa tip is named",
+    "White mustard is named"
+   ],
+   "inference": "The list continues with dūrvā sprout, kuśa tip, and white mustard.",
+   "uncertainties": [],
+   "plain_english": "A dūrvā sprout, the tip of kuśa grass, and white mustard."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "tulasībilvapatrañca",
+     "gloss": "tulasī-bilva-leaf-and",
+     "grounds": "compound listing leaves with conjunction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tamālañca",
+     "gloss": "tamāla-and",
+     "grounds": "ingredient with conjunction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tapasvinī",
+     "gloss": "tapasvinī",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which leaves and plants further extend the ingredient enumeration?",
+   "premises": [
+    "Tulasī and bilva leaves are named",
+    "Tamāla is named",
+    "Tapasvinī is named"
+   ],
+   "inference": "The enumeration extends with tulasī-bilva leaves, tamāla, and tapasvinī.",
+   "uncertainties": [],
+   "plain_english": "Tulasī and bilva leaves, tamāla, and tapasvinī."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "flower ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktotpalaṃ",
+     "gloss": "red-water-lily",
+     "grounds": "compound naming flower",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṭalī",
+     "gloss": "pāṭalī",
+     "grounds": "flower ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "campakaṃ",
+     "gloss": "campaka",
+     "grounds": "flower ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers are added next in the sequence of ingredients?",
+   "premises": [
+    "Lotus and red water-lily are named",
+    "Pāṭalī is named afterwards",
+    "Campaka is named likewise"
+   ],
+   "inference": "The sequence adds lotus, red water-lily, pāṭalī, and campaka.",
+   "uncertainties": [],
+   "plain_english": "Lotus, red water-lily, then pāṭalī, and likewise campaka."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "śvetārkavakulaiyuktaṃ",
+     "gloss": "mixed-with-white-arka-vakula",
+     "grounds": "compound describing mixture with flowers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣpatoyamiheritam",
+     "gloss": "thus-called-flower-water",
+     "grounds": "compound stating designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What designation is given to water mixed with white arka and vakula?",
+   "premises": [
+    "White arka and vakula are included",
+    "The mixture is combined as water",
+    "It is called flower water"
+   ],
+   "inference": "Water mixed with white arka and vakula is designated flower water.",
+   "uncertainties": [],
+   "plain_english": "Mixed with white arka and vakula, it is called flower water."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "karpūrośīrasamyuktaṃ",
+     "gloss": "mixed-with-camphor-uśīra",
+     "grounds": "compound describing mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānyodakamiheritam",
+     "gloss": "thus-called-honored-water",
+     "grounds": "compound stating designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name is assigned to water combined with camphor and uśīra?",
+   "premises": [
+    "Camphor and uśīra are combined",
+    "The result is a prepared water",
+    "It is called honored water"
+   ],
+   "inference": "Water combined with camphor and uśīra is designated honored water.",
+   "uncertainties": [],
+   "plain_english": "Mixed with camphor and uśīra, it is called honored water."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "pāśokṣamālāḥhaimāśca",
+     "gloss": "noose-bull-garlands-golden-and",
+     "grounds": "compound listing ritual items with conjunction",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tairastrodakaṃ",
+     "gloss": "with-them-weapon-water",
+     "grounds": "instrumental reference forming compound name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "states resulting designation",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What prepared water results from using nooses, bull garlands, and golden items?",
+   "premises": [
+    "Nooses, bull garlands, and golden items are named",
+    "These are used together",
+    "The result would be weapon water"
+   ],
+   "inference": "Using those items produces what is called weapon water.",
+   "uncertainties": [
+    "Exact ritual referents of pāśa and ukṣa-mālā uncertain"
+   ],
+   "plain_english": "With nooses, bull garlands, and golden items, it would become weapon water."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "nāraṃgadvayarambhādyaiḥ",
+     "gloss": "with-orange-pair-banana-etc",
+     "grounds": "instrumental compound listing fruits",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "uktamasmin",
+     "gloss": "said-in-this",
+     "grounds": "locative reference to current context",
+     "morph": "n.nom.sg+n.loc.sg"
+    },
+    {
+     "surface": "phalodakam",
+     "gloss": "fruit-water",
+     "grounds": "compound naming prepared water",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which fruits are specified as the basis for fruit water in this context?",
+   "premises": [
+    "A pair of oranges is named",
+    "Banana and others are included",
+    "This mixture is said to be fruit water"
+   ],
+   "inference": "Fruit water is prepared from two oranges, banana, and similar fruits.",
+   "uncertainties": [],
+   "plain_english": "With two oranges, banana, and so forth, fruit water is said in this context."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "jambūtvagbhissamāyuktaṃ",
+     "gloss": "mixed-with-jambū-barks",
+     "grounds": "instrumental compound describing mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṣāyodakamīritam",
+     "gloss": "declared-astringent-water",
+     "grounds": "compound stating designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What prepared water is declared when jambū bark is mixed in?",
+   "premises": [
+    "Jambū barks are used",
+    "They are mixed into water",
+    "The result is declared astringent water"
+   ],
+   "inference": "Water mixed with jambū bark is declared astringent water.",
+   "uncertainties": [],
+   "plain_english": "Mixed with jambū bark, it is declared astringent water."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "gandhatrayasamāyuktam",
+     "gloss": "mixed-with-three-fragrances",
+     "grounds": "compound describing mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āḍhyatoyamiti",
+     "gloss": "thus-rich-water",
+     "grounds": "compound giving designation",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the traditional name for water mixed with three fragrances?",
+   "premises": [
+    "Three fragrances are mixed in",
+    "The mixture forms a prepared water",
+    "It is remembered as rich water"
+   ],
+   "inference": "Water mixed with three fragrances is traditionally called rich water.",
+   "uncertainties": [
+    "Specific identity of the three fragrances not stated"
+   ],
+   "plain_english": "Mixed with the three fragrances, it is remembered as rich water."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "nikuntaḥ",
+     "gloss": "nikunta",
+     "grounds": "named ingredient or group",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcabhiryuktaṃ",
+     "gloss": "mixed-with-five",
+     "grounds": "instrumental phrase indicating five components",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāntodakamiti",
+     "gloss": "thus-beloved-water",
+     "grounds": "compound giving designation",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What prepared water is formed by mixing nikunta with five items?",
+   "premises": [
+    "Nikunta is named",
+    "It is mixed with five items",
+    "The result is remembered as beloved water"
+   ],
+   "inference": "Nikunta mixed with five items yields what is called beloved water.",
+   "uncertainties": [
+    "Identity of nikunta and the five items unclear"
+   ],
+   "plain_english": "Nikunta, mixed with five, is remembered as beloved water."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "śrīkaṇṭhaśceti",
+     "gloss": "and-thus-śrīkaṇṭha",
+     "grounds": "named item with conjunction and quotative",
+     "morph": "m.nom.sg+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "pañcabhiryuktam",
+     "gloss": "mixed-with-five",
+     "grounds": "instrumental phrase indicating five components",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlodakaṃ",
+     "gloss": "root-water",
+     "grounds": "compound naming prepared water",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What prepared water is produced by combining śrīkaṇṭha with five items?",
+   "premises": [
+    "Śrīkaṇṭha is named",
+    "It is mixed with five items",
+    "The result is remembered as root water"
+   ],
+   "inference": "Śrīkaṇṭha mixed with five items is remembered as root water.",
+   "uncertainties": [
+    "Identity of śrīkaṇṭha and the five items unclear"
+   ],
+   "plain_english": "Śrīkaṇṭha, mixed with five, is remembered as root water."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "ebhirdravyaissamāyuktaṃ",
+     "gloss": "mixed-with-these-substances",
+     "grounds": "instrumental compound referring to prior items",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmakūrcamiti",
+     "gloss": "thus-brahma-kūrca",
+     "grounds": "compound giving designation",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual preparation is formed by mixing these substances together?",
+   "premises": [
+    "These substances are used",
+    "They are mixed together",
+    "The result is remembered as brahmakūrca"
+   ],
+   "inference": "Mixing these substances produces what is remembered as brahmakūrca.",
+   "uncertainties": [],
+   "plain_english": "Mixed with these substances, it is remembered as brahmakūrca."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "kṛtāṃjaliśca",
+     "gloss": "kṛtāñjali-and",
+     "grounds": "named ingredient with conjunction",
+     "morph": "f.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "pañcabhiryuktaṃ",
+     "gloss": "mixed-with-five",
+     "grounds": "instrumental phrase indicating five components",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādvalkalodakam",
+     "gloss": "would-be-bark-water",
+     "grounds": "compound stating resulting designation",
+     "morph": "3.sg.optative-active √as+n.nom.sg"
+    }
+   ],
+   "question": "What prepared water would result from mixing kṛtāñjali with five items?",
+   "premises": [
+    "Kṛtāñjali is named",
+    "It is mixed with five items",
+    "The result would be bark water"
+   ],
+   "inference": "Kṛtāñjali mixed with five items would become bark water.",
+   "uncertainties": [
+    "Identity of the five items unclear"
+   ],
+   "plain_english": "Kṛtāñjali, mixed with five, would be bark water."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "catvāriṃśatsumadhyasthakalaśadravyamīritam",
+     "gloss": "declared-substances-of-forty-central-pots",
+     "grounds": "long compound summarizing prior enumeration",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What summary is given for the substances placed in the forty central pots?",
+   "premises": [
+    "Forty central pots are referenced",
+    "Their substances have been enumerated",
+    "This enumeration is declared complete"
+   ],
+   "inference": "The substances of the forty central pots have now been declared.",
+   "uncertainties": [],
+   "plain_english": "The substances of the forty pots placed in the middle have been declared."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "vibhītā",
+     "gloss": "vibhītā",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gokṣurādyaṣṭau",
+     "gloss": "eight-beginning-with-gokṣura",
+     "grounds": "compound indicating group of eight",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "garbhāvaraṇagā",
+     "gloss": "going-to-inner-enclosure",
+     "grounds": "compound indicating placement",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "declares accepted placement",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which eight items are considered to belong to the inner enclosure?",
+   "premises": [
+    "Vibhītā is included",
+    "Eight items beginning with gokṣura are named",
+    "They are considered to go to the inner enclosure"
+   ],
+   "inference": "Vibhītā and the eight beginning with gokṣura are assigned to the inner enclosure.",
+   "uncertainties": [
+    "Exact composition of the group of eight unclear"
+   ],
+   "plain_english": "Vibhītā and the eight beginning with gokṣura are considered to belong to the inner enclosure."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "nadyāvartam",
+     "gloss": "nadyāvarta",
+     "grounds": "plant ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "apāmārgaṃ",
+     "gloss": "apāmārga",
+     "grounds": "plant ingredient",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dūrvā",
+     "gloss": "dūrvā",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karavīrakam",
+     "gloss": "karavīra",
+     "grounds": "plant ingredient",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which plants are enumerated in this part of the enclosure list?",
+   "premises": [
+    "Nadyāvarta is named",
+    "Apāmārga is named",
+    "Dūrvā and karavīra are named"
+   ],
+   "inference": "The list includes nadyāvarta, apāmārga, dūrvā, and karavīra.",
+   "uncertainties": [],
+   "plain_english": "Nadyāvarta, apāmārga, dūrvā, and karavīra."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "jāti",
+     "gloss": "jāti",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bilvaṃ",
+     "gloss": "bilva",
+     "grounds": "plant ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sitārkañca",
+     "gloss": "white-arka-and",
+     "grounds": "compound with conjunction naming ingredient",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekapatrāravindakam",
+     "gloss": "single-leaf-lotus",
+     "grounds": "compound naming flower",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which further plants and flowers complete this segment of the list?",
+   "premises": [
+    "Jāti is named",
+    "Bilva and white arka are named",
+    "Single-leaf lotus is named"
+   ],
+   "inference": "This segment adds jāti, bilva, white arka, and single-leaf lotus.",
+   "uncertainties": [],
+   "plain_english": "Jāti, bilva, white arka, and the single-leaf lotus."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "vṛttakramamatho",
+     "gloss": "then-procedure-order",
+     "grounds": "compound indicating sequence of ritual procedure",
+     "morph": "m.acc.sg+(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "i-will-speak",
+     "grounds": "announces forthcoming explanation",
+     "morph": "1.sg.future-middle √vac"
+    },
+    {
+     "surface": "śivakumbhantu",
+     "gloss": "but-śiva-pot",
+     "grounds": "compound naming ritual vessel with contrastive particle",
+     "morph": "m.acc.sg+(indecl.)"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "in-middle",
+     "grounds": "locational adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What procedural topic will be explained next regarding the Śiva pot?",
+   "premises": [
+    "The speaker announces future explanation",
+    "The topic is the procedure in order",
+    "The Śiva pot in the middle is specified"
+   ],
+   "inference": "The speaker will next explain the ordered procedure concerning the Śiva pot in the middle.",
+   "uncertainties": [],
+   "plain_english": "Now I will explain the procedure in order, with the Śiva pot in the middle."
+  }
+ ]
+}

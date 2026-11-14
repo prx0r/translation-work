@@ -3,24 +3,39 @@
  "verse": 3009,
  "rows": [
   {
-   "lemma": "vilikhellipiśaḥ",
-   "morph": "v.3.sg.act-opt",
-   "grounds": "optative of likh"
+   "lemma": "tat",
+   "morph": "n.nom.sg",
+   "grounds": "demonstrative"
   },
   {
-   "lemma": "sarvvāṃ",
-   "morph": "adj.acc.sg.f",
-   "grounds": "accusative feminine"
-  },
-  {
-   "lemma": "mātṛkāṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative object"
-  },
-  {
-   "lemma": "śaktisaṃyutām",
+   "lemma": "sthāna",
    "morph": "compound",
-   "grounds": "compound accusative"
+   "grounds": "compound member: sthāna+vimukha"
+  },
+  {
+   "lemma": "vimukhāḥ",
+   "morph": "f.nom.pl",
+   "grounds": "compound: vimukha"
+  },
+  {
+   "lemma": "tāsāṃ",
+   "morph": "f.gen.pl",
+   "grounds": "demonstrative pronoun"
+  },
+  {
+   "lemma": "tṛptyarthaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "compound: tṛpti+artha"
+  },
+  {
+   "lemma": "dviguṇaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "object of nayet"
+  },
+  {
+   "lemma": "nayet",
+   "morph": "3.sg.optative.active",
+   "grounds": "root nī"
   }
  ]
 }

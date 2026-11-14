@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p121",
  "verse": 3020,
- "question": "What is placed in the three middle cells?",
+ "question": "Are Vedic or Purāṇa-Smṛti enjoined rites prescribed for this Śaiva ritual context?",
  "premises": [
-  "Three middle cells are used",
-  "Object, agent, and action are placed"
+  "Vedic rites are a distinct ritual category.",
+  "Rites enjoined by Purāṇa and Smṛti are another category.",
+  "The present context does not prescribe them."
  ],
- "inference": "In the three middle cells place object, agent, and action.",
- "uncertainties": [
-  "Exact assignment order"
- ],
- "plain_english": "In the three middle cells place object, agent, and action."
+ "inference": "Therefore neither Vedic nor Purāṇa-Smṛti enjoined rites are stated as prescribed here.",
+ "uncertainties": [],
+ "plain_english": "Neither Vedic rites nor those enjoined by Purāṇa and Smṛti are prescribed here."
 }

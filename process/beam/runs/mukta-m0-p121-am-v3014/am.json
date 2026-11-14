@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p121",
  "verse": 3014,
- "question": "For what desired siddhi is this rite used?",
+ "question": "Can the fire of Śiva be successfully established when the fire pit lacks consecration?",
  "premises": [
-  "The rite concerns house and town",
-  "It concerns iron sight and desired siddhi"
+  "The fire pit requires proper consecration.",
+  "The fire of Śiva depends on that consecration.",
+  "Without consecration the required condition is absent."
  ],
- "inference": "It grants desired siddhi for house, town, iron, and sight.",
- "uncertainties": [
-  "Exact meaning of iron sight"
- ],
- "plain_english": "It grants desired siddhi for house, town, iron, and sight."
+ "inference": "Therefore the fire of Śiva does not succeed when the fire pit is without consecration.",
+ "uncertainties": [],
+ "plain_english": "But when the fire pit lacks consecration, the fire of Śiva does not succeed."
 }

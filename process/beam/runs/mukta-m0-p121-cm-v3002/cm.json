@@ -3,29 +3,34 @@
  "verse": 3002,
  "rows": [
   {
-   "lemma": "stambhaḥ",
+   "lemma": "hīnaṃ",
    "morph": "n.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "qualifies laṅghanaṃ"
   },
   {
-   "lemma": "syāt",
-   "morph": "v.3.sg.act-opt",
-   "grounds": "optative of as"
+   "lemma": "laṅghanaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "subject of jāyeta"
   },
   {
-   "lemma": "pūrbbamuktānāṃ",
-   "morph": "adj.gen.pl",
-   "grounds": "genitive plural"
+   "lemma": "tatra",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "vidhānāt",
-   "morph": "n.abl.sg",
-   "grounds": "ablative of vidhāna"
+   "lemma": "yadi",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable conditional"
   },
   {
-   "lemma": "parameśvari",
-   "morph": "n.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "jāyeta",
+   "morph": "3.sg.optative.middle",
+   "grounds": "root jan"
+  },
+  {
+   "lemma": "doṣadam",
+   "morph": "n.nom.sg",
+   "grounds": "compound: doṣa+da"
   }
  ]
 }

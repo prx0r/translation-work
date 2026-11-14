@@ -3,24 +3,34 @@
  "verse": 3001,
  "rows": [
   {
-   "lemma": "caturasre",
-   "morph": "n.loc.sg",
-   "grounds": "locative form of caturasra"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "vilikhet",
-   "morph": "v.3.sg.act-opt",
-   "grounds": "optative of likh"
-  },
-  {
-   "lemma": "pratilomānulomakam",
+   "lemma": "sāmānyaprāṇi",
    "morph": "compound",
-   "grounds": "compound of pratiloma and anuloma"
+   "grounds": "compound: sāmānya+prāṇi"
+  },
+  {
+   "lemma": "saṃbhūta",
+   "morph": "m.nom.sg.n",
+   "grounds": "past participle describing mala"
+  },
+  {
+   "lemma": "mala",
+   "morph": "n.nom.sg",
+   "grounds": "object of yukte"
+  },
+  {
+   "lemma": "yukte",
+   "morph": "n.loc.sg",
+   "grounds": "locative participial context"
+  },
+  {
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable"
+  },
+  {
+   "lemma": "ācaret",
+   "morph": "3.sg.optative.active",
+   "grounds": "root ā-car"
   }
  ]
 }
