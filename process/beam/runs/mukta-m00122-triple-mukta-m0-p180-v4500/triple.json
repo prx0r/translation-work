@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p180",
+ "items": [
+  {
+   "verse": 4500,
+   "rows": [
+    {
+     "surface": "koraṇṭaṃ",
+     "gloss": "koraṇṭa-plant",
+     "grounds": "accusative object of cūrṇayet; plant name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pippalaṃ",
+     "gloss": "pippala",
+     "grounds": "accusative object; peepal-related substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "accusative object; plant root",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triphalaṃ",
+     "gloss": "triphala",
+     "grounds": "accusative object; three-fruit preparation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cūrṇayet",
+     "gloss": "should-powder",
+     "grounds": "causative/optative verb governing the accusative objects",
+     "morph": "v.3sg.act.opt. root cūrṇ"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equally",
+     "grounds": "adverb modifying cūrṇayet",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which four substances must be powdered in equal measure for this preparation?",
+   "premises": [
+    "koraṇṭa, pippala, root, and triphala are the listed ingredients",
+    "cūrṇayet directs that they be powdered",
+    "samam requires equal proportion"
+   ],
+   "inference": "The preparation calls for equal powdering of those four substances.",
+   "uncertainties": [
+    "koraṇṭa identification is uncertain",
+    "pippala may denote fruit or leaf"
+   ],
+   "plain_english": "Powder koraṇṭa, pippala, root, and triphala equally."
+  }
+ ]
+}

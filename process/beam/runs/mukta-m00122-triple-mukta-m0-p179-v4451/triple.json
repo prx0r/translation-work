@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p179",
+ "items": [
+  {
+   "verse": 4451,
+   "rows": [
+    {
+     "surface": "pralambaveṇī",
+     "gloss": "hanging-braid",
+     "grounds": "compound adjective describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sannaddha",
+     "gloss": "adorned",
+     "grounds": "past participle adjective",
+     "morph": "m/f/n.nom.sg"
+    },
+    {
+     "surface": "saugandhika",
+     "gloss": "fragrant-flower",
+     "grounds": "compound adjective",
+     "morph": "m/f/n.nom.sg"
+    },
+    {
+     "surface": "samujjvalām",
+     "gloss": "radiant",
+     "grounds": "accusative object of meditation",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess visualized with hanging braid and radiant adornment?",
+   "premises": [
+    "The verse lists visual attributes",
+    "The attributes modify the goddess",
+    "Meditation follows this description"
+   ],
+   "inference": "The goddess is to be contemplated as adorned and radiant.",
+   "uncertainties": [
+    "Exact syntactic role of pralambaveṇī is inferred"
+   ],
+   "plain_english": "The goddess is visualized with a hanging braid, adorned, fragrant, and radiant."
+  },
+  {
+   "verse": 4452,
+   "rows": [
+    {
+     "surface": "ūrmmikāvīra",
+     "gloss": "wave-bracelet",
+     "grounds": "compound ornament",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaṭakanūpuraiḥ",
+     "gloss": "anklet",
+     "grounds": "instrumental plural ornaments",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "maṇḍitā",
+     "gloss": "adorned",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅghrikām",
+     "gloss": "feet",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What ornaments adorn the goddess's feet in this visualization?",
+   "premises": [
+    "Wave-bracelets and anklets are named",
+    "The feet are the object adorned",
+    "The participle indicates adornment"
+   ],
+   "inference": "The goddess's feet are adorned with wave-bracelets and anklets.",
+   "uncertainties": [
+    "ūrmmikāvīra may be a compound ornament rather than two separate items"
+   ],
+   "plain_english": "Her feet are adorned with wave-bracelets and anklets."
+  },
+  {
+   "verse": 4453,
+   "rows": [
+    {
+     "surface": "stūyamānāñ",
+     "gloss": "being-praised",
+     "grounds": "present participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + dhyai"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śucismitām",
+     "gloss": "pure-smile",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom should the practitioner meditate upon while she is praised?",
+   "premises": [
+    "The goddess is the object of meditation",
+    "She is being praised",
+    "She has a pure smile"
+   ],
+   "inference": "The practitioner meditates on the goddess who is praised and smiling purely.",
+   "uncertainties": [
+    "stūyamānāñ may modify devīm or a larger phrase"
+   ],
+   "plain_english": "Meditate on the goddess, being praised, with a pure smile."
+  },
+  {
+   "verse": 4454,
+   "rows": [
+    {
+     "surface": "rasācarasvairambu",
+     "gloss": "rasa-water",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātāgnī",
+     "gloss": "wind-fire",
+     "grounds": "compound dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What elements follow in the sequence after the goddess visualization?",
+   "premises": [
+    "Rasa-water is named",
+    "Wind and fire are named",
+    "Thereafter marks sequence"
+   ],
+   "inference": "The sequence proceeds through rasa-water, wind, and fire.",
+   "uncertainties": [
+    "The exact ritual operation is not stated in this fragment"
+   ],
+   "plain_english": "Thereafter come rasa-water, wind, and fire."
+  },
+  {
+   "verse": 4455,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rājyalakṣmyāḥ",
+     "gloss": "royal-lakṣmī",
+     "grounds": "genitive relation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśārṇā",
+     "gloss": "sixteen-syllable",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is declared about the vidyā of royal Lakṣmī?",
+   "premises": [
+    "The vidyā belongs to royal Lakṣmī",
+    "It is sixteen-syllable",
+    "It is declared"
+   ],
+   "inference": "The vidyā of royal Lakṣmī is declared to be sixteen-syllable.",
+   "uncertainties": [
+    "The full mantra text is not given"
+   ],
+   "plain_english": "The vidyā of royal Lakṣmī is declared to be sixteen-syllable."
+  },
+  {
+   "verse": 4456,
+   "rows": [
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb repeated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb repeated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How long are the separate vidyās to be treated distinctly?",
+   "premises": [
+    "Separately is repeated",
+    "Iti marks the stated rule",
+    "Yāvat marks duration"
+   ],
+   "inference": "The separate vidyās are treated distinctly for the stated duration.",
+   "uncertainties": [
+    "The exact duration depends on following verses"
+   ],
+   "plain_english": "They are treated separately, as stated, for as long as indicated."
+  },
+  {
+   "verse": 4457,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What temporal limit governs the preceding instruction?",
+   "premises": [
+    "Yāvat means as long as",
+    "It stands alone here",
+    "It continues the prior rule"
+   ],
+   "inference": "The preceding instruction applies for as long as specified.",
+   "uncertainties": [
+    "The endpoint is supplied by context outside this token"
+   ],
+   "plain_english": "For as long as specified."
+  },
+  {
+   "verse": 4458,
+   "rows": [
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "grants",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres + pra-yacch"
+    },
+    {
+     "surface": "prītā",
+     "gloss": "pleased",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhakāya",
+     "gloss": "to-sādhaka",
+     "grounds": "dative beneficiary",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "avilambitam",
+     "gloss": "without-delay",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the pleased goddess grant to the sādhaka?",
+   "premises": [
+    "The goddess is pleased",
+    "She grants a kingdom",
+    "The grant is without delay"
+   ],
+   "inference": "The pleased goddess grants kingdom to the sādhaka without delay.",
+   "uncertainties": [
+    "Whether rājyaṃ is literal or symbolic is not stated"
+   ],
+   "plain_english": "Pleased, she grants kingdom to the sādhaka without delay."
+  },
+  {
+   "verse": 4459,
+   "rows": [
+    {
+     "surface": "kamalāto",
+     "gloss": "from-kamalā",
+     "grounds": "ablative source",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "laye",
+     "gloss": "in-dissolution",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasīdat",
+     "gloss": "pleases",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres + pra-sad"
+    },
+    {
+     "surface": "dvitayaṃ",
+     "gloss": "pair",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens after dissolution into Kamalā?",
+   "premises": [
+    "Dissolution into Kamalā is named",
+    "Afterwards the pair pleases again",
+    "Punaḥ indicates repetition"
+   ],
+   "inference": "After dissolution into Kamalā, the pair pleases again.",
+   "uncertainties": [
+    "The identity of the pair is not explicit here"
+   ],
+   "plain_english": "After dissolution into Kamalā, the pair pleases again."
+  },
+  {
+   "verse": 4460,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "pronoun or particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaviṃśārṇā",
+     "gloss": "twenty-seven-syllable",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samastābhīṣṭadā",
+     "gloss": "all-desires-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niśam",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quality is attributed to this twenty-seven-syllable vidyā?",
+   "premises": [
+    "The vidyā has twenty-seven syllables",
+    "It gives all desires",
+    "It is always effective"
+   ],
+   "inference": "This vidyā is twenty-seven-syllable and always grants all desires.",
+   "uncertainties": [
+    "te may be a pronoun or particle depending on context"
+   ],
+   "plain_english": "This vidyā is twenty-seven-syllable and always grants all desires."
+  },
+  {
+   "verse": 4461,
+   "rows": [
+    {
+     "surface": "dhyānañ",
+     "gloss": "meditation",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayārūpaṃ",
+     "gloss": "vijayā-form",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapāt",
+     "gloss": "jap",
+     "grounds": "imperative verb",
+     "morph": "3.sg.act-imp + pra-jap"
+    },
+    {
+     "surface": "dinaśas",
+     "gloss": "daily",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the vijayā-form meditation be practiced?",
+   "premises": [
+    "Meditation on vijayā-form is named",
+    "Jap is commanded",
+    "It is to be done daily"
+   ],
+   "inference": "The practitioner should daily perform jap of the vijayā-form meditation.",
+   "uncertainties": [
+    "prajapāt may be imperative or optative in context"
+   ],
+   "plain_english": "Meditate on the vijayā form and perform jap daily."
+  },
+  {
+   "verse": 4462,
+   "rows": [
+    {
+     "surface": "tulāsthe",
+     "gloss": "in-libra",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāskare",
+     "gloss": "sun",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrṇāyāṃ",
+     "gloss": "on-full-moon",
+     "grounds": "locative adjective",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sakaleṣṭadā",
+     "gloss": "all-desires-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When does worship become all-desires-giving?",
+   "premises": [
+    "The sun is in Libra",
+    "Worship is performed",
+    "It occurs on full moon"
+   ],
+   "inference": "Worship during the sun in Libra and full moon grants all desires.",
+   "uncertainties": [
+    "Whether both conditions are required is inferred"
+   ],
+   "plain_english": "Worship when the sun is in Libra and on full moon grants all desires."
+  },
+  {
+   "verse": 4463,
+   "rows": [
+    {
+     "surface": "vijayā",
+     "gloss": "vijayā",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "eternal",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samānavigrahāṃ",
+     "gloss": "equal-form",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What form is attributed to eternal Vijayā?",
+   "premises": [
+    "Vijayā is eternal",
+    "She has equal form",
+    "The adjective modifies her"
+   ],
+   "inference": "Eternal Vijayā has an equal form.",
+   "uncertainties": [
+    "The referent of equal form is not specified"
+   ],
+   "plain_english": "Eternal Vijayā has an equal form."
+  },
+  {
+   "verse": 4464,
+   "rows": [
+    {
+     "surface": "sambhūya",
+     "gloss": "combined",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How long does the combined practice remain in force?",
+   "premises": [
+    "Combined is stated",
+    "Iti marks the rule",
+    "Yāvat marks duration"
+   ],
+   "inference": "The combined practice remains in force for as long as specified.",
+   "uncertainties": [
+    "The endpoint is supplied by context"
+   ],
+   "plain_english": "Combined, as stated, for as long as specified."
+  },
+  {
+   "verse": 4465,
+   "rows": [
+    {
+     "surface": "pūrṇāyāṃ",
+     "gloss": "on-full-moon",
+     "grounds": "locative adjective",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "paurṇamāsyām",
+     "gloss": "full-moon-day",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "On what lunar occasion is the rite performed?",
+   "premises": [
+    "Full moon is named twice",
+    "The locative indicates occasion",
+    "The rite is tied to that day"
+   ],
+   "inference": "The rite is performed on the full-moon day.",
+   "uncertainties": [
+    "The exact rite is supplied by surrounding verses"
+   ],
+   "plain_english": "On the full-moon day."
+  },
+  {
+   "verse": 4466,
+   "rows": [
+    {
+     "surface": "caṇḍatejaś",
+     "gloss": "fierce-radiance",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkarṣaṇavarṇāḥ",
+     "gloss": "saṅkarṣaṇa-colors",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "syuḥ",
+     "grounds": "optative verb",
+     "morph": "3.pl.act-opt + as"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What colors and radiance appear thereafter?",
+   "premises": [
+    "Fierce radiance is named",
+    "Saṅkarṣaṇa colors are named",
+    "Thereafter marks sequence"
+   ],
+   "inference": "Thereafter fierce radiance and Saṅkarṣaṇa colors appear.",
+   "uncertainties": [
+    "The exact visual sequence is not fully explicit"
+   ],
+   "plain_english": "Thereafter fierce radiance and Saṅkarṣaṇa colors appear."
+  },
+  {
+   "verse": 4467,
+   "rows": [
+    {
+     "surface": "siddhalakṣmyādividyeyam",
+     "gloss": "siddhalakṣmī-vidyā",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saptadaśākṣarā",
+     "gloss": "seventeen-syllable",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is proclaimed about the siddhalakṣmī vidyā?",
+   "premises": [
+    "The siddhalakṣmī vidyā is named",
+    "It is proclaimed",
+    "It has seventeen syllables"
+   ],
+   "inference": "The siddhalakṣmī vidyā is proclaimed to be seventeen-syllable.",
+   "uncertainties": [
+    "The full mantra text is not given"
+   ],
+   "plain_english": "The siddhalakṣmī vidyā is proclaimed to be seventeen-syllable."
+  },
+  {
+   "verse": 4468,
+   "rows": [
+    {
+     "surface": "prātaḥ",
+     "gloss": "morning",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasravāram",
+     "gloss": "thousand-times",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "satisfy",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + tṛp"
+    },
+    {
+     "surface": "taddaśāṃśakam",
+     "gloss": "tenth-part",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the deity satisfied in the morning rite?",
+   "premises": [
+    "Morning is specified",
+    "Jap is to be done thousand times",
+    "Then a tenth part satisfies"
+   ],
+   "inference": "In the morning, after thousand repetitions, a tenth part satisfies the deity.",
+   "uncertainties": [
+    "The exact object of tarpayet is implied"
+   ],
+   "plain_english": "In the morning, perform a thousand repetitions; then a tenth part satisfies."
+  },
+  {
+   "verse": 4469,
+   "rows": [
+    {
+     "surface": "prayacchati",
+     "gloss": "grants",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres + pra-yacch"
+    },
+    {
+     "surface": "jayaṃ",
+     "gloss": "victory",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yuddhe",
+     "gloss": "in-battle",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śriyaṃ",
+     "gloss": "prosperity",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvātiśāyinīm",
+     "gloss": "all-surpassing",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What does the vidyā grant in battle?",
+   "premises": [
+    "Victory in battle is granted",
+    "Prosperity is granted",
+    "The prosperity is all-surpassing"
+   ],
+   "inference": "The vidyā grants victory in battle and all-surpassing prosperity.",
+   "uncertainties": [
+    "The subject is implied from context"
+   ],
+   "plain_english": "It grants victory in battle and all-surpassing prosperity."
+  },
+  {
+   "verse": 4470,
+   "rows": [
+    {
+     "surface": "karoti",
+     "gloss": "makes",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres + kṛ"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "on-path",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāntāragirikṛcchrebhiḥ",
+     "gloss": "forest-mountain-difficulties",
+     "grounds": "compound instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "akṣati",
+     "gloss": "unharmed",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the vidyā protect one on difficult paths?",
+   "premises": [
+    "It acts on the path",
+    "Forest and mountain difficulties are named",
+    "One remains unharmed"
+   ],
+   "inference": "The vidyā keeps one unharmed amid forest and mountain difficulties on the path.",
+   "uncertainties": [
+    "The exact mechanism is not stated"
+   ],
+   "plain_english": "It keeps one unharmed on paths through forest and mountain difficulties."
+  },
+  {
+   "verse": 4471,
+   "rows": [
+    {
+     "surface": "yuddhamārgādirakṣāsu",
+     "gloss": "battle-path-protection",
+     "grounds": "compound locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp + śru"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-tell",
+     "grounds": "future verb",
+     "morph": "1.sg.act-fut + vac"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "as-prescribed",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What will be explained about battle and path protection?",
+   "premises": [
+    "Protection in battle and path is named",
+    "The listener is told to listen",
+    "The speaker will tell as prescribed"
+   ],
+   "inference": "The speaker will explain prescribed protection for battle and path.",
+   "uncertainties": [
+    "The detailed procedure follows later"
+   ],
+   "plain_english": "Listen; I will tell the prescribed protection for battle and path."
+  },
+  {
+   "verse": 4472,
+   "rows": [
+    {
+     "surface": "hakāraḥ",
+     "gloss": "ha-syllable",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptadaśākṣarā",
+     "gloss": "seventeen-syllable",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sambhūya",
+     "gloss": "combined",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the ha-syllable combined with the seventeen-syllable vidyā?",
+   "premises": [
+    "The ha-syllable is named",
+    "The seventeen-syllable vidyā is named",
+    "They are combined"
+   ],
+   "inference": "The ha-syllable is combined with the seventeen-syllable vidyā for the stated duration.",
+   "uncertainties": [
+    "The exact combination rule is not explicit"
+   ],
+   "plain_english": "The ha-syllable is combined with the seventeen-syllable vidyā as stated."
+  },
+  {
+   "verse": 4473,
+   "rows": [
+    {
+     "surface": "hastadviśatasaṃyuktāṃ",
+     "gloss": "two-hundred-hands",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svasamākāraśaktibhiḥ",
+     "gloss": "with-own-power-shaktis",
+     "grounds": "compound instrumental plural",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "With what is the goddess visualized as having two hundred hands?",
+   "premises": [
+    "Two hundred hands are named",
+    "Own power shaktis are named",
+    "The instrumental indicates accompaniment"
+   ],
+   "inference": "The goddess is visualized with two hundred hands accompanied by her own power shaktis.",
+   "uncertainties": [
+    "The exact iconographic arrangement is not stated"
+   ],
+   "plain_english": "She is visualized with two hundred hands and her own power shaktis."
+  },
+  {
+   "verse": 4474,
+   "rows": [
+    {
+     "surface": "dhyātvaivam",
+     "gloss": "meditating-thus",
+     "grounds": "absolutive compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arccayet",
+     "gloss": "worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + arc"
+    },
+    {
+     "surface": "iṣṭam",
+     "gloss": "desired",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres + ava-āp"
+    },
+    {
+     "surface": "akhilaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the result of meditating thus and worshipping?",
+   "premises": [
+    "Meditation is performed thus",
+    "Worship is commanded",
+    "The desired object is obtained"
+   ],
+   "inference": "By meditating thus and worshipping, one certainly obtains all desired objects.",
+   "uncertainties": [
+    "The exact worship procedure is supplied by context"
+   ],
+   "plain_english": "Meditating thus and worshipping, one certainly obtains all desired things."
+  }
+ ]
+}
