@@ -1,0 +1,262 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2469,
+   "rows": [
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "locative seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-ground",
+     "grounds": "locative ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative worship",
+     "morph": "v.3.sg.act-opt + root pūj"
+    },
+    {
+     "surface": "proktavāsaram",
+     "gloss": "stated-day",
+     "grounds": "compound stated day",
+     "morph": "compound"
+    }
+   ],
+   "question": "On what surfaces and on which day may worship be performed?",
+   "premises": [
+    "worship may occur on seat",
+    "worship may occur on ground",
+    "worship occurs on stated day"
+   ],
+   "inference": "Worship is permitted on a seat or on the ground on the stated day.",
+   "uncertainties": [
+    "exact ritual day unspecified"
+   ],
+   "plain_english": "Worship may be performed on a seat or on the ground on the stated day."
+  },
+  {
+   "verse": 2470,
+   "rows": [
+    {
+     "surface": "śaknomi",
+     "gloss": "I-am-able",
+     "grounds": "first person ability",
+     "morph": "v.1.sg.act-pres + root śak"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the phrase 'I am able' signify in this instruction?",
+   "premises": [
+    "speaker states ability",
+    "phrase gives meaning"
+   ],
+   "inference": "The phrase means 'I am able.'",
+   "uncertainties": [
+    "context of ability unspecified"
+   ],
+   "plain_english": "The meaning is 'I am able.'"
+  },
+  {
+   "verse": 2471,
+   "rows": [
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "accusative wheel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "absolutive wash",
+     "morph": "v.abs + root kṣāl"
+    },
+    {
+     "surface": "tattoyaṃ",
+     "gloss": "that-water",
+     "grounds": "compound that water",
+     "morph": "compound"
+    },
+    {
+     "surface": "kedārādiṣu",
+     "gloss": "in-Kedara-etc",
+     "grounds": "locative plural places",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-pour",
+     "grounds": "optative pour",
+     "morph": "v.3.sg.act-opt + root kṣip"
+    }
+   ],
+   "question": "Where should the washed wheel's water be poured?",
+   "premises": [
+    "wheel is washed",
+    "that water is poured",
+    "pouring occurs in Kedara etc"
+   ],
+   "inference": "The washed wheel's water should be poured in Kedara and similar places.",
+   "uncertainties": [
+    "list of places incomplete"
+   ],
+   "plain_english": "After washing the wheel, pour that water in Kedara and similar places."
+  },
+  {
+   "verse": 2472,
+   "rows": [
+    {
+     "surface": "viniyuñjyāt",
+     "gloss": "should-assign",
+     "grounds": "optative assign",
+     "morph": "v.3.sg.act-opt + root yuj"
+    },
+    {
+     "surface": "abhīṣṭeṣu",
+     "gloss": "desired",
+     "grounds": "locative desired",
+     "morph": "adj.loc.pl"
+    },
+    {
+     "surface": "kāryyeṣu",
+     "gloss": "works",
+     "grounds": "locative works",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "ablative order",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Shiva",
+     "grounds": "vocative Shiva",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "In what order should desired works be assigned?",
+   "premises": [
+    "works are desired",
+    "assignment proceeds in order",
+    "addressed to Shiva"
+   ],
+   "inference": "Desired works should be assigned in order.",
+   "uncertainties": [
+    "specific order not named"
+   ],
+   "plain_english": "O Shiva, assign desired works in order."
+  },
+  {
+   "verse": 2473,
+   "rows": [
+    {
+     "surface": "sarvataḥ",
+     "gloss": "all-around",
+     "grounds": "ablative all around",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saumyakarmmāṇi",
+     "gloss": "auspicious-works",
+     "grounds": "compound auspicious works",
+     "morph": "compound"
+    },
+    {
+     "surface": "sidhyantyevānayā",
+     "gloss": "succeed-by-this",
+     "grounds": "compound succeed by this",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb certainly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of works succeed all around by this practice?",
+   "premises": [
+    "auspicious works succeed",
+    "success occurs all around",
+    "success is certain"
+   ],
+   "inference": "Auspicious works succeed all around by this practice.",
+   "uncertainties": [
+    "scope of practice unspecified"
+   ],
+   "plain_english": "Auspicious works certainly succeed all around by this."
+  },
+  {
+   "verse": 2474,
+   "rows": [
+    {
+     "surface": "lakṣmīprāptyai",
+     "gloss": "for-Lakshmi-obtaining",
+     "grounds": "dative obtaining Lakshmi",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārogya",
+     "gloss": "health",
+     "grounds": "compound health",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhau",
+     "gloss": "success",
+     "grounds": "locative success",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rogārttiśāntiṣu",
+     "gloss": "disease-pain-peace",
+     "grounds": "locative disease pain peace",
+     "morph": "compound"
+    }
+   ],
+   "question": "For what aims such as Lakshmi, health, and disease relief is this used?",
+   "premises": [
+    "aim includes Lakshmi obtaining",
+    "aim includes health success",
+    "aim includes disease pain peace"
+   ],
+   "inference": "This is used for obtaining Lakshmi, health, success, and relief from disease and pain.",
+   "uncertainties": [
+    "exact ritual application unspecified"
+   ],
+   "plain_english": "This is for obtaining Lakshmi, likewise health, success, and relief from disease and pain."
+  }
+ ]
+}

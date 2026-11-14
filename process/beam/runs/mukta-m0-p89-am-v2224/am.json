@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2224,
- "question": "What enjoyment is experienced upon reaching the world of serpents?",
+ "question": "Which named entities and count appear in this final group?",
  "premises": [
-  "The serpent world is reached.",
-  "Sporting or play occurs there.",
-  "Serpents are companions."
+  "mayura mangala and bhima are named",
+  "dvipivaktra is named",
+  "six faced is stated"
  ],
- "inference": "Having reached the serpent world, one sports together with the serpents.",
- "uncertainties": [],
- "plain_english": "Having reached the world of serpents, one sports together with the serpents."
+ "inference": "The final group names Mayura, Mangala, Bhima, and Dvipivaktra, with six faced.",
+ "uncertainties": [
+  "exact ritual role of each name is not stated"
+ ],
+ "plain_english": "The final group names Mayura, Mangala, Bhima, and Dvipivaktra, six-faced."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2211,
- "question": "What bathing sequence follows after performing the offering bath?",
+ "question": "What ordinal marks this section of the list?",
  "premises": [
-  "An offering bath is performed first.",
-  "A further bath is done afterward.",
-  "The actions occur in sequence."
+  "the section is marked",
+  "the marker is tenth",
+  "the list continues"
  ],
- "inference": "After performing the offering bath, one should do the bath again.",
- "uncertainties": [],
- "plain_english": "Then, having performed the offering bath, one does the bath again."
+ "inference": "This section is marked as the tenth.",
+ "uncertainties": [
+  "what exactly is tenth is supplied by context"
+ ],
+ "plain_english": "This is the tenth."
 }

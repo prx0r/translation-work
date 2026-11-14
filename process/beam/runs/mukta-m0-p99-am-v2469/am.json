@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p99",
  "verse": 2469,
- "question": "What form does the goddess take at the root of that location?",
+ "question": "On what surfaces and on which day may worship be performed?",
  "premises": [
-  "A goddess is situated at its root",
-  "Her form is described explicitly",
-  "She appears as a lofty elephant"
+  "worship may occur on seat",
+  "worship may occur on ground",
+  "worship occurs on stated day"
  ],
- "inference": "The goddess at its root has the form of a lofty elephant",
- "uncertainties": [],
- "plain_english": "At its root is situated the goddess in the form of a lofty elephant."
+ "inference": "Worship is permitted on a seat or on the ground on the stated day.",
+ "uncertainties": [
+  "exact ritual day unspecified"
+ ],
+ "plain_english": "Worship may be performed on a seat or on the ground on the stated day."
 }

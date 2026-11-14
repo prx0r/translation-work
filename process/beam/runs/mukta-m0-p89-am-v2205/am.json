@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2205,
- "question": "How are mantras and vidyās distinguished by the gender of their deities?",
+ "question": "Which five named entities continue the listed sequence?",
  "premises": [
-  "Mantras are declared to have male deities.",
-  "Vidyā is remembered as having a female deity."
+  "five more names are given",
+  "they continue the list",
+  "the list is being taught"
  ],
- "inference": "Mantras are associated with male deities, while vidyās are associated with female deities.",
- "uncertainties": [],
- "plain_english": "Mantras are declared to have male deities, and a vidyā is remembered as having a female deity."
+ "inference": "The sequence continues with Mekhala, Sakala, Lakshmi, Malini, and Visvanayika.",
+ "uncertainties": [
+  "exact ritual role of each name is not stated"
+ ],
+ "plain_english": "The next five names are Mekhala, Sakala, Lakshmi, Malini, and Visvanayika."
 }

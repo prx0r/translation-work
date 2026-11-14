@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p96",
  "verse": 2395,
- "question": "How should all the ritual items be prepared with cloth and incense?",
+ "question": "How should this diagram be inscribed, worshipped, and placed?",
  "premises": [
-  "All items are to be wrapped in fine cloths.",
-  "All items are to be fumigated.",
-  "Good incense is used for fumigation."
+  "yantram means diagram",
+  "vilikhya means having inscribed",
+  "aśmani means on stone"
  ],
- "inference": "All the items should be wrapped in fine cloths and fumigated with good incense.",
- "uncertainties": [],
- "plain_english": "All should be wrapped in fine cloths and fumigated with good incense."
+ "inference": "One should inscribe this diagram on stone, worship it, and place it somewhere.",
+ "uncertainties": [
+  "the exact placement location is unspecified"
+ ],
+ "plain_english": "Having inscribed this diagram on stone and worshipped it, one should place it somewhere."
 }

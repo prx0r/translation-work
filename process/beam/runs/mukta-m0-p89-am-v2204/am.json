@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2204,
- "question": "For what purpose is that situated in the first and last syllables employed?",
+ "question": "Which five named entities begin the listed sequence?",
  "premises": [
-  "Something is situated in the first and last syllables.",
-  "An increase of self-knowledge is named as a purpose."
+  "five names are given",
+  "they form part of the list",
+  "the list is being taught"
  ],
- "inference": "That which is situated in the first and last syllables serves to increase self-knowledge.",
+ "inference": "The sequence begins with five named entities: Visala, Madana, Ruddha, Kalakantthi, and Mahabhaya.",
  "uncertainties": [
-  "The referent of the described element is carried over from prior context."
+  "exact ritual role of each name is not stated"
  ],
- "plain_english": "For the increase of self-knowledge of that which is situated in the first and last syllables."
+ "plain_english": "The first five names are Visala, Madana, Ruddha, Kalakantthi, and Mahabhaya."
 }

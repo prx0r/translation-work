@@ -3,39 +3,34 @@
  "verse": 2303,
  "rows": [
   {
-   "lemma": "paścāt",
+   "lemma": "tāsāṃ",
+   "morph": "pron.gen.pl.f",
+   "grounds": "genitive plural"
+  },
+  {
+   "lemma": "krameṇa",
+   "morph": "n.inst.sg.m",
+   "grounds": "instrumental noun"
+  },
+  {
+   "lemma": "nāmāni",
+   "morph": "n.acc.pl.n",
+   "grounds": "accusative plural"
+  },
+  {
+   "lemma": "śṛṇu",
+   "morph": "verb.2.sg.imp",
+   "grounds": "imperative verb"
+  },
+  {
+   "lemma": "vakṣye",
+   "morph": "verb.1.sg.fut",
+   "grounds": "future first person"
+  },
+  {
+   "lemma": "yathāvidhi",
    "morph": "(indecl.)",
-   "grounds": "temporal adverb indicating sequence"
-  },
-  {
-   "lemma": "tena+eva",
-   "morph": "m.inst.sg + (indecl.)",
-   "grounds": "instrumental with emphatic particle; fused form"
-  },
-  {
-   "lemma": "mantreṇa",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental of means"
-  },
-  {
-   "lemma": "hūṃ",
-   "morph": "(indecl.)",
-   "grounds": "bīja syllable of the mantra, kept as mantra material"
-  },
-  {
-   "lemma": "siddhyai",
-   "morph": "f.dat.sg",
-   "grounds": "dative within mantra formula"
-  },
-  {
-   "lemma": "nama",
-   "morph": "(indecl.)",
-   "grounds": "mantra formula element"
-  },
-  {
-   "lemma": "iti+uta",
-   "morph": "(indecl.) + (indecl.)",
-   "grounds": "quotation marker with emphatic particle; fused form"
+   "grounds": "adverb"
   }
  ]
 }

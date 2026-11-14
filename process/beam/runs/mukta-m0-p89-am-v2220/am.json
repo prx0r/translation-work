@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2220,
- "question": "What exalted destination awaits one lifted from the ocean of existence?",
+ "question": "What is the meaning of the syllable counts?",
  "premises": [
-  "One is lifted from the ocean of existence.",
-  "Durgā's world is named as a destination.",
-  "Honor is received there."
+  "twelve syllables are stated",
+  "fourteen syllables are stated likewise",
+  "the meaning is thus"
  ],
- "inference": "Having been lifted from the ocean of existence, one is honored in Durgā's world.",
- "uncertainties": [],
- "plain_english": "Having been lifted up from the ocean of existence, one is honored in Durgā's world."
+ "inference": "The meaning is that the counts are twelve and, likewise, fourteen syllables.",
+ "uncertainties": [
+  "the exact referent of the counts is supplied by context"
+ ],
+ "plain_english": "The meaning is twelve syllables, and likewise fourteen syllables."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2221,
- "question": "What vehicle and realm are attained as a reward in Śiva's world?",
+ "question": "How are the other positions counted beyond thirty-three?",
  "premises": [
-  "A silver celestial car is mentioned.",
-  "Śiva's world is the destination.",
-  "Honor is received there."
+  "thirty-three is the base",
+  "three more are added",
+  "thirteen is joined",
+  "others are indicated"
  ],
- "inference": "One is honored in Śiva's world with a silver celestial car.",
- "uncertainties": [],
- "plain_english": "One is honored in Śiva's world with a silver celestial car."
+ "inference": "The other positions are counted as thirty-three plus three, with thirteen joined.",
+ "uncertainties": [
+  "the exact arithmetic convention is supplied by context"
+ ],
+ "plain_english": "The others are thirty-three plus three, joined with thirteen."
 }

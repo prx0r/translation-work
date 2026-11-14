@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2212,
- "question": "Which substances are used in the first two stages of bathing?",
+ "question": "How are ten names taught beginning with Mahendri?",
  "premises": [
-  "The first bath is with water.",
-  "The next stage follows after that.",
-  "Milk is used in the subsequent stage."
+  "a verse beginning with Mahendri is used",
+  "ten names are taught",
+  "the teaching is by that verse"
  ],
- "inference": "The bathing sequence begins with water and continues with milk afterward.",
- "uncertainties": [],
- "plain_english": "The first bath is with water, and after that with milk."
+ "inference": "Ten names, beginning with Mahendri, are taught by means of that verse.",
+ "uncertainties": [
+  "the full verse is not given here"
+ ],
+ "plain_english": "A verse beginning with Mahendri teaches ten names."
 }

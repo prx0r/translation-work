@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p99",
  "verse": 2471,
- "question": "Where is the next sacred object located relative to the pomegranate tree?",
+ "question": "Where should the washed wheel's water be poured?",
  "premises": [
-  "The pomegranate tree is the reference point",
-  "The direction is east",
-  "The distance is not far"
+  "wheel is washed",
+  "that water is poured",
+  "pouring occurs in Kedara etc"
  ],
- "inference": "The object is situated not far to the east of the pomegranate tree",
- "uncertainties": [],
- "plain_english": "And to the east of the pomegranate tree, not far away, it is situated."
+ "inference": "The washed wheel's water should be poured in Kedara and similar places.",
+ "uncertainties": [
+  "list of places incomplete"
+ ],
+ "plain_english": "After washing the wheel, pour that water in Kedara and similar places."
 }

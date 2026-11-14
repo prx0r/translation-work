@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p99",
  "verse": 2470,
- "question": "What fertility benefit results from touching the tree situated there?",
+ "question": "What does the phrase 'I am able' signify in this instruction?",
  "premises": [
-  "A tree is situated there",
-  "Touching the tree is performed",
-  "A barren woman becomes embryo-bearing"
+  "speaker states ability",
+  "phrase gives meaning"
  ],
- "inference": "By touching that tree, a barren woman becomes able to bear a child",
- "uncertainties": [],
- "plain_english": "Having touched the tree situated there, a barren woman becomes pregnant."
+ "inference": "The phrase means 'I am able.'",
+ "uncertainties": [
+  "context of ability unspecified"
+ ],
+ "plain_english": "The meaning is 'I am able.'"
 }
