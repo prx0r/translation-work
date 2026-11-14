@@ -1,0 +1,1265 @@
+{
+ "song": "mukta-m0-p200",
+ "items": [
+  {
+   "verse": 4976,
+   "rows": [
+    {
+     "surface": "mayaskarāya",
+     "gloss": "to-joy-maker",
+     "grounds": "epithet of Śiva as grantor of well-being",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāya",
+     "gloss": "to-auspicious",
+     "grounds": "epithet/name of Śiva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivatarāya",
+     "gloss": "to-more-auspicious",
+     "grounds": "comparative epithet of Śiva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which benevolent and auspicious aspects of Śiva receive repeated obeisance?",
+   "premises": [
+    "Obeisance is directed to the joy-making aspect.",
+    "Obeisance is directed to the auspicious aspect.",
+    "Obeisance is directed to the more auspicious aspect."
+   ],
+   "inference": "Multiple benevolent and auspicious aspects of Śiva are honored with salutation.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the joy-maker, and obeisance to the auspicious one, and to the even more auspicious one."
+  },
+  {
+   "verse": 4977,
+   "rows": [
+    {
+     "surface": "bhasma",
+     "gloss": "ashes",
+     "grounds": "sacred ash substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "toyañ",
+     "gloss": "and-water",
+     "grounds": "water; final nasal shows sandhi with following ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "one-should-consume",
+     "grounds": "ritual ingestion",
+     "morph": "3.sg.opt.act √bhakṣ"
+    },
+    {
+     "surface": "lepayet",
+     "gloss": "one-should-smear",
+     "grounds": "ritual application to body",
+     "morph": "3.sg.opt.act √lip"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual uses of ashes and water are prescribed for the practitioner?",
+   "premises": [
+    "Ashes and water are the substances involved.",
+    "One should consume them.",
+    "One should likewise smear them."
+   ],
+   "inference": "The practitioner is instructed both to consume and to smear ashes and water.",
+   "uncertainties": [],
+   "plain_english": "One should consume ashes and water, and likewise smear them on."
+  },
+  {
+   "verse": 4978,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "divyo",
+     "gloss": "divine",
+     "grounds": "transformed or exalted condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rogaḥ",
+     "gloss": "disease",
+     "grounds": "ailment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣudro",
+     "gloss": "minor",
+     "grounds": "reduced in severity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dinatrayāt",
+     "gloss": "after-three-days",
+     "grounds": "time period; compound dina+traya",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What transformation of the practitioner and disease occurs after three days?",
+   "premises": [
+    "A change occurs after three days.",
+    "The subject becomes divine.",
+    "The disease becomes minor."
+   ],
+   "inference": "After three days the practitioner becomes divine and the disease becomes minor.",
+   "uncertainties": [
+    "Subject of bhavet is implied from context."
+   ],
+   "plain_english": "After three days, one becomes divine and the disease becomes minor."
+  },
+  {
+   "verse": 4979,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior context",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "tīrtha",
+     "gloss": "sacred-place",
+     "grounds": "holy site or pilgrimage place",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "merit or result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "gains or attains",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmani",
+     "gloss": "in-birth",
+     "grounds": "in this lifetime",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What merit does the practitioner obtain in this present lifetime?",
+   "premises": [
+    "There is a fruit associated with that sacred place.",
+    "The practitioner obtains that fruit.",
+    "The obtaining occurs in this birth."
+   ],
+   "inference": "The practitioner obtains the merit of that sacred place in this very lifetime.",
+   "uncertainties": [],
+   "plain_english": "And one obtains the fruit of that sacred place here in this birth."
+  },
+  {
+   "verse": 4980,
+   "rows": [
+    {
+     "surface": "kṣayāṇāya",
+     "gloss": "to-destroyer",
+     "grounds": "epithet denoting one who causes destruction or decay",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapardine",
+     "gloss": "to-matted-haired",
+     "grounds": "epithet of Śiva with matted hair",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pulastaye",
+     "gloss": "to-pulastya",
+     "grounds": "name or epithet Pulastya",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further divine aspects are honored with obeisance in this salutation?",
+   "premises": [
+    "Obeisance is offered to the destroyer.",
+    "Obeisance is offered to the matted-haired one.",
+    "Obeisance is offered to Pulastya."
+   ],
+   "inference": "The destroyer, the matted-haired one, and Pulastya are saluted.",
+   "uncertainties": [
+    "Identification of Pulastya in this ritual context is uncertain."
+   ],
+   "plain_english": "Obeisance to the destroyer, and to the matted-haired one, and to Pulastya."
+  },
+  {
+   "verse": 4981,
+   "rows": [
+    {
+     "surface": "harityāya",
+     "gloss": "to-greenish",
+     "grounds": "epithet denoting greenish or tawny color",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "reverential salutation; sandhi form of namaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lopyāya",
+     "gloss": "to-plucked",
+     "grounds": "epithet; meaning uncertain",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ulpyāya",
+     "gloss": "to-small",
+     "grounds": "epithet; meaning uncertain",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional epithets receive obeisance in this continued salutation sequence?",
+   "premises": [
+    "Obeisance is offered to the greenish one.",
+    "Obeisance is offered to the lopya aspect.",
+    "Obeisance is offered to the ulpya aspect."
+   ],
+   "inference": "Further epithets in the sequence are honored with obeisance.",
+   "uncertainties": [
+    "Meanings of lopyāya and ulpyāya are uncertain."
+   ],
+   "plain_english": "And obeisance to the greenish one, and to the lopya one, and to the ulpya one."
+  },
+  {
+   "verse": 4982,
+   "rows": [
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "accomplishes or becomes effective",
+     "morph": "3.sg.pres.act √sidh"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to prior rite or formula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "prasādataḥ",
+     "gloss": "by-grace",
+     "grounds": "through divine favor",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By what means does this prescribed practice achieve success?",
+   "premises": [
+    "This practice succeeds.",
+    "Success arises from grace.",
+    "Grace is the enabling cause."
+   ],
+   "inference": "The practice succeeds through divine grace.",
+   "uncertainties": [],
+   "plain_english": "This succeeds by grace."
+  },
+  {
+   "verse": 4983,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antasya",
+     "gloss": "of-end",
+     "grounds": "conclusion or final part",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "before or at the beginning of",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual recitation",
+     "morph": "3.sg.opt.act √paṭh"
+    }
+   ],
+   "question": "Where in relation to the end should the obeisance be recited?",
+   "premises": [
+    "Obeisance is to be recited.",
+    "The recitation is placed before the end.",
+    "The instruction specifies position in the sequence."
+   ],
+   "inference": "One should recite the obeisance before the end.",
+   "uncertainties": [
+    "Exact referent of 'end' depends on prior ritual context."
+   ],
+   "plain_english": "One should recite the obeisance before the end."
+  },
+  {
+   "verse": 4984,
+   "rows": [
+    {
+     "surface": "varhiṣaḥ",
+     "gloss": "of-sacred-grass",
+     "grounds": "ritual grass used in offerings",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "udaka",
+     "gloss": "water",
+     "grounds": "ritual water",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "mārjanāt",
+     "gloss": "by-wiping",
+     "grounds": "cleansing or sprinkling action",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What cleansing action involving sacred grass and water is indicated?",
+   "premises": [
+    "Sacred grass and water are involved.",
+    "A wiping or cleansing action is performed.",
+    "The action is expressed as the means."
+   ],
+   "inference": "Cleansing is performed by wiping with water and sacred grass.",
+   "uncertainties": [
+    "Syntactic role in larger sentence is unclear without surrounding verses."
+   ],
+   "plain_english": "By wiping with water and sacred grass."
+  },
+  {
+   "verse": 4985,
+   "rows": [
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "something that should be offered",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śoka",
+     "gloss": "sorrow",
+     "grounds": "grief or distress",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "śāntyai",
+     "gloss": "for-pacification",
+     "grounds": "for calming or removal",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śokine",
+     "gloss": "to-sorrowful-one",
+     "grounds": "recipient afflicted by sorrow",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "For whose benefit and for what purpose should a gift be given?",
+   "premises": [
+    "Something is to be given.",
+    "The purpose is pacification of sorrow.",
+    "The recipient is a sorrowful person."
+   ],
+   "inference": "A gift should be given to the sorrowful person for the pacification of sorrow.",
+   "uncertainties": [],
+   "plain_english": "It should indeed be given to the sorrowful one for the pacification of sorrow."
+  },
+  {
+   "verse": 4986,
+   "rows": [
+    {
+     "surface": "pariśiṣṭaṃ",
+     "gloss": "remainder",
+     "grounds": "what remains or is left over",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the remainder",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogeṣu",
+     "gloss": "in-applications",
+     "grounds": "in ritual uses or procedures",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun for practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recites",
+     "grounds": "performs mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "Who should recite this remainder in the various ritual applications?",
+   "premises": [
+    "There is a remainder to be recited.",
+    "The recitation applies in ritual applications.",
+    "The instruction addresses whoever recites it."
+   ],
+   "inference": "Whoever performs the applications should also recite this remainder.",
+   "uncertainties": [
+    "Main clause consequence may be in a following verse."
+   ],
+   "plain_english": "And whoever recites this remainder here also in the applications..."
+  },
+  {
+   "verse": 4987,
+   "rows": [
+    {
+     "surface": "bhūpālāt",
+     "gloss": "from-king",
+     "grounds": "from the ruler",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "may receive or gain",
+     "morph": "3.sg.opt.act √āp with pra"
+    },
+    {
+     "surface": "varṣamadhyataḥ",
+     "gloss": "within-a-year",
+     "grounds": "within the middle or span of a year; compound varṣa+madhya",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Within what time period may one obtain something from the king?",
+   "premises": [
+    "Something may be obtained from the king.",
+    "The obtaining has a time limit.",
+    "The time limit is within a year."
+   ],
+   "inference": "One may obtain it from the king within a year.",
+   "uncertainties": [
+    "Object obtained is implied from prior context."
+   ],
+   "plain_english": "One may obtain it from the king within a year."
+  },
+  {
+   "verse": 4988,
+   "rows": [
+    {
+     "surface": "pradātavyā",
+     "gloss": "to-be-given",
+     "grounds": "should be donated",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "gāva",
+     "gloss": "cows",
+     "grounds": "bovine animals as gift",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "specific number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "certainly",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many cows should be given as the prescribed donation?",
+   "premises": [
+    "Cows are to be given.",
+    "The number specified is eleven.",
+    "The instruction is emphatic."
+   ],
+   "inference": "Exactly eleven cows should be given.",
+   "uncertainties": [],
+   "plain_english": "Indeed, eleven cows should certainly be given."
+  },
+  {
+   "verse": 4989,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "royal",
+     "grounds": "pertaining to kingship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "fortune",
+     "grounds": "prosperity or royal splendor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "of her own accord",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "may-dwell",
+     "grounds": "may reside or abide",
+     "morph": "3.sg.opt.act √vas"
+    }
+   ],
+   "question": "What result regarding royal fortune may arise for the practitioner?",
+   "premises": [
+    "Royal fortune is the subject.",
+    "She may dwell of her own accord.",
+    "The dwelling is a favorable outcome."
+   ],
+   "inference": "Royal fortune may come to dwell with the practitioner of her own accord.",
+   "uncertainties": [],
+   "plain_english": "But royal fortune may dwell there of her own accord."
+  },
+  {
+   "verse": 4990,
+   "rows": [
+    {
+     "surface": "śatapuṣpamayīṃ",
+     "gloss": "made-of-chrysanthemum",
+     "grounds": "composed of śatapuṣpa flowers; compound śatapuṣpa+maya",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after fashioning",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "effigy or figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rājarūpyakām",
+     "gloss": "desiring-royal-form",
+     "grounds": "wishing for royal appearance or status; compound rāja+rūpya+kāma",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What image should be made by one who desires a royal form?",
+   "premises": [
+    "An image is to be made.",
+    "The image is made of chrysanthemum flowers.",
+    "The maker desires royal form."
+   ],
+   "inference": "One desiring royal form should make an image of chrysanthemum flowers.",
+   "uncertainties": [
+    "Exact sense of rājarūpyakām is context-dependent."
+   ],
+   "plain_english": "Having made an image of chrysanthemum flowers, if one desires a royal form..."
+  },
+  {
+   "verse": 4991,
+   "rows": [
+    {
+     "surface": "lakṣam",
+     "gloss": "hundred-thousand",
+     "grounds": "large ritual count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "after performing fire oblations",
+     "morph": "(gerund) √hu"
+    },
+    {
+     "surface": "bhūpa",
+     "gloss": "royal",
+     "grounds": "pertaining to a king",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "śriyaṃ",
+     "gloss": "prosperity",
+     "grounds": "wealth, splendor, or fortune",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "may-obtain",
+     "grounds": "may gain",
+     "morph": "3.sg.opt.act √labh"
+    }
+   ],
+   "question": "What reward follows from performing a hundred thousand fire oblations?",
+   "premises": [
+    "A hundred thousand oblations are performed.",
+    "The oblations are completed as a ritual act.",
+    "Royal prosperity is the attainable result."
+   ],
+   "inference": "By offering a hundred thousand oblations one may obtain royal prosperity.",
+   "uncertainties": [],
+   "plain_english": "Indeed, having offered a hundred thousand oblations, one may obtain royal prosperity."
+  },
+  {
+   "verse": 4992,
+   "rows": [
+    {
+     "surface": "hṛta",
+     "gloss": "taken",
+     "grounds": "seized or removed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "sāmanta",
+     "gloss": "vassal",
+     "grounds": "neighboring subordinate ruler",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "realm or sovereignty",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the practitioner or subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "gains or recovers",
+     "morph": "3.sg.pres.act √āp with pra"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "in any other way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can a kingdom taken by a vassal be recovered without this ritual means?",
+   "premises": [
+    "A kingdom has been taken by a vassal.",
+    "He obtains that kingdom.",
+    "It does not happen otherwise."
+   ],
+   "inference": "He indeed recovers the kingdom taken by a vassal and not by any other means.",
+   "uncertainties": [],
+   "plain_english": "He indeed obtains the kingdom taken by a vassal, and not otherwise."
+  },
+  {
+   "verse": 4993,
+   "rows": [
+    {
+     "surface": "rāṣṭraṃ",
+     "gloss": "kingdom",
+     "grounds": "territory or realm",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sāmantasya",
+     "gloss": "of-vassal",
+     "grounds": "belonging to the subordinate ruler",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "labheta",
+     "gloss": "may-obtain",
+     "grounds": "may gain",
+     "morph": "3.sg.opt.mid √labh"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the practitioner or subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whose kingdom may the practitioner come to obtain through this rite?",
+   "premises": [
+    "A vassal possesses a kingdom.",
+    "The practitioner may obtain it.",
+    "The result is stated as attainable."
+   ],
+   "inference": "He may obtain the kingdom of the vassal.",
+   "uncertainties": [],
+   "plain_english": "He may obtain the kingdom of the vassal."
+  },
+  {
+   "verse": 4994,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual offering",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "bhūtebhyaḥ",
+     "gloss": "to-beings",
+     "grounds": "to spirits or elemental beings",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual oblation or tribute",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "To whom should a ritual offering be given in this procedure?",
+   "premises": [
+    "An offering is to be given.",
+    "The recipients are beings or spirits.",
+    "The instruction prescribes the act likewise."
+   ],
+   "inference": "One should likewise give an offering to the beings.",
+   "uncertainties": [],
+   "plain_english": "And one should likewise give an offering to the beings."
+  },
+  {
+   "verse": 4995,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "fractional measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "palaṃ",
+     "gloss": "pala",
+     "grounds": "unit of weight or measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "alternative or inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāmūrti",
+     "gloss": "dakshinamurti",
+     "grounds": "form of Śiva facing south",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "in the proximity or presence of",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What quantity may be offered in the presence of Dakṣiṇāmūrti?",
+   "premises": [
+    "A measured amount is specified.",
+    "The amount is half a pala.",
+    "The offering is made in the presence of Dakṣiṇāmūrti."
+   ],
+   "inference": "Half a pala may be offered in the presence of Dakṣiṇāmūrti.",
+   "uncertainties": [
+    "Substance being measured is implied from context."
+   ],
+   "plain_english": "Or even half a pala, in the presence of Dakṣiṇāmūrti."
+  },
+  {
+   "verse": 4996,
+   "rows": [
+    {
+     "surface": "kapilā",
+     "gloss": "brown-cow",
+     "grounds": "tawny or brown cow; also associated with ghee source",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "ajyena",
+     "gloss": "with-ghee",
+     "grounds": "clarified butter",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pradīpinyā",
+     "gloss": "by-lamp",
+     "grounds": "lamp or lighted offering",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "abhimantritam",
+     "gloss": "consecrated",
+     "grounds": "empowered by mantra recitation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consecrated item is prepared using ghee from a brown cow and a lamp?",
+   "premises": [
+    "Ghee from a brown cow is used.",
+    "A lamp is involved in the preparation.",
+    "The item is consecrated by mantra."
+   ],
+   "inference": "Something is consecrated with a lamp using ghee from a brown cow.",
+   "uncertainties": [
+    "Exact object consecrated is implied from prior context."
+   ],
+   "plain_english": "Consecrated with a lamp using ghee from a brown cow."
+  },
+  {
+   "verse": 4997,
+   "rows": [
+    {
+     "surface": "vākyaṃ",
+     "gloss": "statement",
+     "grounds": "utterance or declaration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all cases or contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certain",
+     "grounds": "determined or assured",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the status of this statement across all contexts?",
+   "premises": [
+    "There is a statement.",
+    "It applies everywhere.",
+    "It is certain."
+   ],
+   "inference": "This statement is certain in all contexts.",
+   "uncertainties": [
+    "Referent of the statement depends on prior verses."
+   ],
+   "plain_english": "This statement is certain everywhere."
+  },
+  {
+   "verse": 4998,
+   "rows": [
+    {
+     "surface": "bahugavāṃ",
+     "gloss": "possessor-of-many-cows",
+     "grounds": "one having abundant cattle; compound bahu+go",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-become",
+     "grounds": "may come to be",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "kṣīyante",
+     "gloss": "perish",
+     "grounds": "diminish or are destroyed",
+     "morph": "3.pl.pres.pass √kṣi"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "belonging to him",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhenavaḥ",
+     "gloss": "cows",
+     "grounds": "milch cows or cattle",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What outcome regarding cattle ownership results from this practice?",
+   "premises": [
+    "He may become possessor of many cows.",
+    "His cows do not perish.",
+    "The result is lasting abundance."
+   ],
+   "inference": "He becomes rich in cattle and his cows do not perish.",
+   "uncertainties": [],
+   "plain_english": "He may become the possessor of many cows, and his cows do not perish."
+  },
+  {
+   "verse": 4999,
+   "rows": [
+    {
+     "surface": "suvarṇa",
+     "gloss": "gold",
+     "grounds": "precious metal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "aṣṭakam",
+     "gloss": "octad",
+     "grounds": "group of eight units",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "gains or receives",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asiddhaḥ",
+     "gloss": "unaccomplished",
+     "grounds": "one who has not yet attained full ritual success",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rajata",
+     "gloss": "silver",
+     "grounds": "precious metal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "aṣṭakam",
+     "gloss": "octad",
+     "grounds": "group of eight units",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What material gains may even an unaccomplished practitioner obtain?",
+   "premises": [
+    "An unaccomplished practitioner obtains results.",
+    "He obtains an octad of gold.",
+    "He obtains an octad of silver."
+   ],
+   "inference": "Even an unaccomplished practitioner obtains eight units of gold and eight of silver.",
+   "uncertainties": [
+    "Exact measure denoted by aṣṭakam is context-dependent."
+   ],
+   "plain_english": "Indeed, even an unaccomplished person obtains eight units of gold and eight units of silver."
+  }
+ ]
+}

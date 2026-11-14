@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p200",
  "verse": 4988,
- "question": "How is the neck's eight-eye length related to the hump's three-eye height?",
+ "question": "How many cows should be given as the prescribed donation?",
  "premises": [
-  "neck length equals eight eye-units",
-  "hump height equals three eye-units"
+  "Cows are to be given.",
+  "The number specified is eleven.",
+  "The instruction is emphatic."
  ],
- "inference": "the neck is longer than the hump by five eye-units",
- "uncertainties": [
-  "exact eye-unit definition not stated"
- ],
- "plain_english": "The neck is eight eye-units long, while the hump height is three eye-units."
+ "inference": "Exactly eleven cows should be given.",
+ "uncertainties": [],
+ "plain_english": "Indeed, eleven cows should certainly be given."
 }

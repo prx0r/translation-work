@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p200",
  "verse": 4978,
- "question": "What ritual action must follow after performing the rites by the previously stated method?",
+ "question": "What transformation of the practitioner and disease occurs after three days?",
  "premises": [
-  "The rites are completed according to the previously stated method.",
-  "A circumambulation of the shrine is prescribed.",
-  "The circumambulation follows the completed rites."
+  "A change occurs after three days.",
+  "The subject becomes divine.",
+  "The disease becomes minor."
  ],
- "inference": "Therefore, after performing the rites by the previously stated method, one should circumambulate the shrine.",
- "uncertainties": [],
- "plain_english": "Having performed the rites according to the previously stated method, one should circumambulate the shrine."
+ "inference": "After three days the practitioner becomes divine and the disease becomes minor.",
+ "uncertainties": [
+  "Subject of bhavet is implied from context."
+ ],
+ "plain_english": "After three days, one becomes divine and the disease becomes minor."
 }

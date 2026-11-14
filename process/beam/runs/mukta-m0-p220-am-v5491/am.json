@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p220",
  "verse": 5491,
- "question": "What ritual preparations does the foremost teacher perform at dawn?",
+ "question": "What preparatory recitation must precede the performance of the rite?",
  "premises": [
-  "The ritual pots are involved.",
-  "The fire situated in the pit is involved.",
-  "The foremost teacher performs mantra placement."
+  "The gāyatrī is to be chanted",
+  "It must be chanted one hundred and eight times",
+  "The rite is performed after this chanting"
  ],
- "inference": "At dawn, the foremost teacher should attend to the pots, the fire in the pit, and the mantra placement.",
- "uncertainties": [
-  "The exact syntactic relation of the accusatives depends on the following verse."
- ],
- "plain_english": "The foremost teacher should attend to the pots, the fire in the pit, and the placement of mantras."
+ "inference": "One should chant the gāyatrī 108 times before performing the rite.",
+ "uncertainties": [],
+ "plain_english": "Having chanted the gāyatrī one hundred and eight times, one should perform the rite."
 }

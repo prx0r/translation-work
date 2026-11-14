@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p200",
  "verse": 4997,
- "question": "What breadth is said for the middle of the body?",
+ "question": "What is the status of this statement across all contexts?",
  "premises": [
-  "body middle breadth is said",
-  "its measure is sixteen fingers"
+  "There is a statement.",
+  "It applies everywhere.",
+  "It is certain."
  ],
- "inference": "the middle of the body has a breadth of sixteen fingers",
+ "inference": "This statement is certain in all contexts.",
  "uncertainties": [
-  "whether breadth means width or girth is not explicit"
+  "Referent of the statement depends on prior verses."
  ],
- "plain_english": "The middle of the body is said to have a breadth of sixteen fingers."
+ "plain_english": "This statement is certain everywhere."
 }

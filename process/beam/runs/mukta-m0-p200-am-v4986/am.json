@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p200",
  "verse": 4986,
- "question": "Which deities are declared to be present in the arrangement of one thousand and eight?",
+ "question": "Who should recite this remainder in the various ritual applications?",
  "premises": [
-  "A configuration of one thousand and eight is specified.",
-  "The text makes a declaration about this configuration.",
-  "All gods are named as present."
+  "There is a remainder to be recited.",
+  "The recitation applies in ritual applications.",
+  "The instruction addresses whoever recites it."
  ],
- "inference": "Therefore all the gods are declared to be present in the arrangement of one thousand and eight.",
- "uncertainties": [],
- "plain_english": "But in the arrangement of one thousand and eight, all the gods are declared to be present."
+ "inference": "Whoever performs the applications should also recite this remainder.",
+ "uncertainties": [
+  "Main clause consequence may be in a following verse."
+ ],
+ "plain_english": "And whoever recites this remainder here also in the applications..."
 }
