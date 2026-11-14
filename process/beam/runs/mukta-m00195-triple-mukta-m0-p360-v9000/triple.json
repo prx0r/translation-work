@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p360",
+ "items": [
+  {
+   "verse": 9000,
+   "rows": [
+    {
+     "surface": "mahāmāyāṃ",
+     "gloss": "to-mahāmāyā",
+     "grounds": "accusative object of salutation; name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "i-bow",
+     "grounds": "verb of salutation",
+     "morph": "1.sg.pres.act √nam"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the formula of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūla+mantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrument of the salutation; compound mūla-mantra",
+     "morph": "m.ins.sg (mūla+mantra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "manner of performing the salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner and with what formula is Mahāmāyā to be saluted?",
+   "premises": [
+    "Mahāmāyā is the object of salutation.",
+    "The salutation is performed with the root mantra.",
+    "The salutation is performed in an eightfold manner."
+   ],
+   "inference": "Therefore Mahāmāyā is to be bowed to eightfold with the root mantra.",
+   "uncertainties": [
+    "The specific form of the root mantra is not stated in this verse."
+   ],
+   "plain_english": "And I bow to Mahāmāyā thus, eightfold, with the root mantra."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p103-v2551
-[god](devān) [and-sage](ṛṣīn) [devotee-people](bhakta+jana) [sole-friend](eka+mitraṃ) [heramba](herambam) [sun](arkka) [reddish](aruṇam) [i-take-refuge](āśrayāmi)
+[god](devān) [+sage](ṛṣīn) [+devotee-people](bhakta-jana) [+sole-friend](eka-mitraṃ) [Heramba](herambam) [+sun](arkka) [+red-like](aruṇam) [I-take-refuge](āśrayāmi)
 
 ## mukta-m0-p103-v2552
-[of-śiva-and-pārvatī](śivayoḥ) [i-worship](bhajāmi) [the-two](tau) [always](sadā)
+[of-Śiva-pair](śivayoḥ) [I-worship](bhajāmi)
 
 ## mukta-m0-p103-v2553
-[from-you](tvatto) [not](na) [and](ca) [other](anyat) [to-be-established](pratipādyam) [by-these](etais) [then](tadā) [exists](asti) [if](cet) [all](sarvam) [unreal](asatya) [like](kalpam)
+[from-you](tvatto) [not](na) [and](ca) [other](anyat) [to-be-established](pratipādyam) [by-these](etais) [that](tat) [exists](āsti) [if](cet) [all](sarvam) [unreal](asatya) [+like](kalpam)
 
 ## mukta-m0-p103-v2554
-[elephant-faced](gaja+ānanaṃ) [whom](yaṃ) [enter](praviśanti) [saints](santas) [that](tat) [time](kāla) [by-unions](yogais) [him](tam) [i](ahaṃ) [take-refuge](prapadye)
+[elephant-faced](gajānanaṃ) [whom](yaṃ) [enter](praviśanti) [saints](santas) [that](tat) [+time](kāla) [+by-unions](yogais) [him](tam) [I](ahaṃ) [take-refuge](prapadye)
 
 ## mukta-m0-p103-v2555
-[by-praise](stutyā) [by-this](anayā) [who](ye) [according-to-rule](vidhi+vat) [praise](stuvanti) [they](te) [all](sarva) [prosperities](lakṣmī) [treasures](nidhayo) [become](bhavanti)
+[by-praise](stutyā) [+this](anayā) [who](ye) [according-to-rule](vidhivat) [praise](stuvanti) [they](te) [all](sarva) [+prosperities](lakṣmī) [+treasures](nidhayo) [become](bhavanti)
 
 ## mukta-m0-p103-v2556
-[having-read](paṭhitvā) [and-having-caused-to-read](pāṭhayitvā) [and](ca) [man](naro) [is-freed](mucyate) [from-all](sarva) [calamities](saṅkaṭāt)
+[having-recited](paṭhitvā) [having-caused-to-recite](pāṭhayitvā) [and](ca) [man](naro) [is-freed](mucyate) [from-all](sarva) [+dangers](saṅkaṭāt)
 
 ## mukta-m0-p103-v2557
-[success](siddhir) [not](na) [is-born](jāyate) [of-him](tasya) [by-hundred](śatair) [crores](koṭi) [of-kalpas](kalpa) [even](api)
+[success](siddhir) [not](na) [is-born](jāyate) [of-him](tasya) [kalpa](kalpa) [+crore](koṭi) [+hundreds](śatair) [even](api)
 
 ## mukta-m0-p103-v2558
-[sammoda](sammodo) [in-pair](yuge) [of-eyebrows](bhrū) [may-protect](pātu) [in-middle](madhye) [of-eyebrows](bhrū) [and](ca) [lord-of-gaṇas](gaṇa+ādhipaḥ)
+[joy](sammodo) [brow](bhrū) [+pair](yuge) [protect](pātu) [brow](bhrū) [+middle](madhye) [and](ca) [Gaṇa-lord](gaṇādhipaḥ)
 
 ## mukta-m0-p103-v2559
-[with-gaṇa](gaṇa) [sport](krīḍā) [endowed](anvitaḥ) [may-protect](pātu) [in-face](vadane) [for-all](sarva) [success](siddhaye)
+[Gaṇa](gaṇa) [+play](krīḍā) [+endowed-with](anvitaḥ) [protect](pātu) [in-face](vadane) [for-all](sarva) [+success](siddhaye)
 
 ## mukta-m0-p103-v2560
-[lord-of-obstacles](vighneśo) [in-heart](hṛdaye) [may-protect](pātu) [destroyer](nāśaś) [of-obstacles](vighna) [and](ca) [on-chest](vakṣasi)
+[obstacle-lord](vighneśo) [in-heart](hṛdaye) [protect](pātu) [obstacle](vighna) [+destroyer](nāśaś) [and](ca) [on-chest](vakṣasi)
 
 ## mukta-m0-p103-v2561
-[creator](kartā) [of-obstacles](vighna) [and](ca) [in-belly](udare) [creator](kartā) [of-obstacles](vighna) [and](ca) [in-generative-organ](liṅgake)
+[obstacle](vighna) [+maker](kartā) [and](ca) [in-belly](udare) [obstacle](vighna) [+maker](kartā) [and](ca) [in-genitals](liṅgake)
 
 ## mukta-m0-p103-v2562
-[pot-bellied](lambodaraḥ) [always](sadā) [may-protect](pātu) [in-secret](guhya) [region](deśe) [my](mama) [aruṇa](arunaḥ)
+[pendulous-bellied](lambodaraḥ) [always](sadā) [protect](pātu) [secret](guhya) [+region](deśe) [my](mama) [Aruna](arunaḥ)
 
 ## mukta-m0-p103-v2563
-[chanter](jāpakaḥ) [always](sarvadā) [may-protect](pātu) [knees](jānu) [and-shanks](jaṅghe) [lord-of-gaṇas](gaṇa+ādhipaḥ)
+[chanter](jāpakaḥ) [always](sarvadā) [protect](pātu) [knee](jānu) [+shanks](jaṅghe) [Gaṇa-lord](gaṇādhipaḥ)
 
 ## mukta-m0-p103-v2564
-[who](ya) [this](idaṃ) [may-recite](prapaṭhen) [daily](nityaṃ) [of-gaṇeśa](gaṇeśasya) [o-great-goddess](maheśvari)
+[who](ya) [this](idaṃ) [recites](prapaṭhen) [+daily](nityaṃ) [of-Gaṇeśa](gaṇeśasya) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p103-v2565
-[all](sarva) [success](siddhi) [causing](karaṃ) [visibly](sākṣāt) [all](sarva) [sins](pāpa) [liberating](vimocanam)
+[all](sarva) [+success](siddhi) [+making](karaṃ) [directly](sākṣāt) [all](sarva) [+sin](pāpa) [+liberating](vimocanam)
 
 ## mukta-m0-p103-v2566
-[all](sarva) [prosperity](sampat) [bestowing](pradaṃ) [visibly](sākṣāt) [all](sarva) [enemies](śatru) [destruction](kṣayaṃ) [causing](karam)
+[all](sarva) [+wealth](sampat) [+giving](pradaṃ) [directly](sākṣāt) [all](sarva) [+enemy](śatru) [+destruction](kṣayaṃ) [making](karam)
 
 ## mukta-m0-p103-v2567
-[from-recitation](paṭhanād) [and-from-retention](dhāraṇād) [indeed](eva) [perish](nāśam) [go](āyānti) [at-that-moment](tat+kṣaṇāt)
+[by-recitation](paṭhanād) [+by-retention](dhāraṇād) [indeed](eva) [destruction](nāśam) [go](āyānti) [at-that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p103-v2568
-[equal](samaṃ) [not](na) [exists](asti) [of-me](me) [o-great-goddess](heśāni) [in-three-worlds](trailokye) [of-gaṇapa](gaṇapasya) [and](ca)
+[equal](samaṃ) [not](na) [exists](asti) [of-me](me) [O-great-goddess](heśāni) [in-three-worlds](trailokye) [of-Gaṇapa](gaṇapasya) [and](ca)
 
 ## mukta-m0-p103-v2569
-[what](kim) [with-others](anyair) [unreal](asat) [prattlings](ālapair) [where](yatra) [life](āyur) [waste](vyayatām) [goes](iyāt)
+[what](kim) [with-others](anyair) [+unreal](asat) [+prattlings](ālapair) [where](yatra) [life](āyur) [+waste](vyaya) [+state](tām) [goes](iyāt)
 
 ## mukta-m0-p103-v2570
-[three-worlds](trailokya) [auspicious](maṅgalaṃ) [named](nāma) [armor](kavacaṃ) [supremely](parama) [wondrous](adbhutam)
+[three-world](trailokya) [+auspicious](maṅgalaṃ) [named](nāma) [armor](kavacaṃ) [supremely](parama) [+wondrous](adbhutam)
 
 ## mukta-m0-p103-v2571
-[which](yad) [having-worn](dhṛtvā) [and](ca) [great-god](mahā+devo) [of-gaṇas](gaṇanām) [lord](adhipo) [became](abhavat)
+[which](yad) [+having-worn](dhṛtvā) [and](ca) [great-god](mahādevo) [Gaṇa](gaṇa) [+name](nāma) [+lord](adhipo) [became](abhavat)
 
 ## mukta-m0-p103-v2572
-[thus](evam) [indra-and-others](indra+ādayaḥ) [all](sarve) [all](sarva) [sovereignty](aiśvaryam) [may-obtain](avāpnuyuḥ)
+[thus](evam) [Indra](indra) [+and-others](ādayaḥ) [all](sarve) [all](sarva) [+sovereignty](aiśvaryam) [may-obtain](avāpnuyuḥ)
 
 ## mukta-m0-p103-v2573
-[śrī-sūrya](śrī+sūryo) [deity](devatā) [and](ca) [here](atra) [by-all](sarva) [gods](deva) [saluted](namaskṛtaḥ)
+[Śrī](śrī) [+Sūrya](sūryo) [deity](devatā) [and](ca) [here](atra) [by-all](sarva) [+gods](deva) [+saluted](namaskṛtaḥ)
 
 ## mukta-m0-p103-v2574
-[praṇava](praṇavo) [my](me) [head](śiraḥ) [may-protect](pātu) [ghṛṇi](ghṛṇir) [my](me) [forehead](bhālakam) [may-protect](pātu)
+[praṇava](praṇavo) [my](me) [head](śiraḥ) [protect](pātu) [ghṛṇi](ghṛṇir) [my](me) [forehead](bhālakam) [protect](pātu)
 
 ## mukta-m0-p103-v2575
-[eight-syllabled](aṣṭa+akṣaro) [great](mahā) [mantra](mantraḥ) [all](sarva) [desired](abhīṣṭa) [fruit](phala) [bestowing](pradaḥ)
+[eight](aṣṭa) [+syllabled](akṣaro) [great](mahā) [+mantra](mantraḥ) [all](sarva) [+desired](abhīṣṭa) [+fruit](phala) [+giving](pradaḥ)

@@ -3,24 +3,34 @@
  "verse": 900,
  "rows": [
   {
-   "lemma": "trikālaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "adverbial accusative indicating frequency at three occasions"
-  },
-  {
-   "lemma": "bali+homaṃ",
-   "morph": "compound:bali+offering+homa+oblation (m.acc.sg)",
-   "grounds": "copulative compound denoting the ritual acts to be performed"
+   "lemma": "sāṣṭāṅgaḥ",
+   "morph": "compound: sa+aṣṭa+aṅga; m.nom.sg",
+   "grounds": "bahuvrīhi compound sa+aṣṭa+aṅga indicating a prostration involving eight body parts"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction connecting or adding the prescribed action"
+   "grounds": "coordinating particle linking alternatives"
   },
   {
-   "lemma": "pañcāśat+vādya+saṃyutam",
-   "morph": "compound:pañcāśat+fifty+vādya+instrument+saṃyuta+accompanied (m.acc.sg)",
-   "grounds": "compound describing the bali-homa as joined with fifty musical instruments"
+   "lemma": "atha",
+   "morph": "(indecl.)",
+   "grounds": "particle marking a subsequent point in the ritual instruction"
+  },
+  {
+   "lemma": "pañcāṅgaḥ",
+   "morph": "compound: pañca+aṅga; m.nom.sg",
+   "grounds": "bahuvrīhi compound pañca+aṅga indicating a prostration involving five body parts"
+  },
+  {
+   "lemma": "pūjā+karmasu",
+   "morph": "compound: pūjā+karman; n.loc.pl",
+   "grounds": "tatpuruṣa compound pūjā+karman denoting ritual acts of worship"
+  },
+  {
+   "lemma": "sammataḥ",
+   "morph": "m.nom.sg; ppp; sam-√man",
+   "grounds": "past participle expressing sanctioned acceptance in ritual practice"
   }
  ]
 }

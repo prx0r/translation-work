@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[hundred-times](śatavāraṃ) [indeed](tu) [vivification](jīvanaṃ) [that](tat) [declared](udāhṛtam) [ten-numbered](daśasaṃkhyo) [or](vā) [recitation](japaḥ)
+[hundred-times](śatavāraṃ) [indeed](tu) [vivification](jīvanaṃ) [that](tat) [declared](udāhṛtam) [ten-numbered](daśa+saṃkhyo) [or](vā) [recitation](japaḥ)
 
 ## mukta-m0-p12-v277
 [considered](matam) [striking](tāḍanaṃ) [hundredfold](śatadhā) [or](vā)
@@ -11,7 +11,7 @@
 [or](vā) [also](api) [one-should-awaken](bodhayet) [indeed](tu) [mantra](manuṃ) [then](tataḥ)
 
 ## mukta-m0-p12-v279
-[that](tat) [mantra](mantra) [syllable](varṇa) [number](saṃkhyā) [with](kaiḥ) [one-should-strike](hanyāt) [with-repha](repheṇa) [awakening](bodhanam)
+[that](tat) [mantra](mantra) [syllable](varṇa) [numbered-by](saṃkhyākaiḥ) [one-should-strike](hanyāt) [with-repha](repheṇa) [awakening](bodhanam)
 
 ## mukta-m0-p12-v280
 [satiation](tarpaṇaṃ) [satiation](tarpaṇaṃ) [considered](matam)
@@ -20,7 +20,7 @@
 [with-ghee](ghṛtena) [with-milk](dugdhena) [satiation](tarpaṇaṃ) [properly](samyak) [declared](īritam) [sprinkling](abhiṣekaḥ) [also](api) [likewise](tathā)
 
 ## mukta-m0-p12-v282
-[hundred](śatam) [eight](aṣṭaḥ) [or](vā) [and](ca) [indeed](eva) [one-should-light](dīpayet) [best-of-practitioners](sādhakottamaḥ)
+[hundred](śatam) [eight](aṣṭaḥ) [or](vā) [and](ca) [indeed](eva) [one-should-illuminate](dīpayet) [best-practitioner](sādhaka+uttamaḥ)
 
 ## mukta-m0-p12-v283
 [cow-gesture](dhenu+mudrāṃ) [having-displayed](pradarśya) [om](om) [thus](iti) [eight-times](aṣṭadhā) [ten-times](daśadhā) [or](vā) [one-should-recite](japet)
@@ -50,28 +50,28 @@
 [pavilion](maṇḍapam) [and](ca) [one-should-purify](viśodhayet)
 
 ## mukta-m0-p12-v292
-[then](tataḥ) [arghya](arghya) [placing](sthāpanam)
+[then](tataḥ) [arghya](arghya) [placement](sthāpanam)
 
 ## mukta-m0-p12-v293
-[in-another-scripture](āgama+antare) [reading](pāṣṭhaḥ)
+[in-another-āgama](āgama+antare) [reading](pāṣṭhaḥ)
 
 ## mukta-m0-p12-v294
 [common-arghya](sāmānya+arghya) [special-arghya](viśeṣa+arghya) [pair](dvayasya) [necessity](āvaśyakatvam)
 
 ## mukta-m0-p12-v295
-[in-state](pade) [in-this-world](iha+loke) [poor](daridraḥ) [one-becomes](syāt) [when-dead](mṛte) [and](ca) [animal-state](paśutāṃ) [one-attains](vrajet)
+[in-state](pade) [in-this-world](iha+loke) [poor](daridraḥ) [one-becomes](syāt) [having-died](mṛte) [and](ca) [animal-state](paśutāṃ) [one-attains](vrajet)
 
 ## mukta-m0-p12-v296
 [Śiva](śiva) [sun](sūrya) [worship](arcanaṃ) [without](vinā) [unborn](ajaḥ) [conch](śaṅkhaḥ)
 
 ## mukta-m0-p12-v297
-[dharma-and-others](dharma+ādīn) [one-should-worship](pūjayet)
+[Dharma-and-others](dharma+ādīn) [one-should-worship](pūjayet)
 
 ## mukta-m0-p12-v298
-[everywhere](sarvatra) [beginning-with-praṇava](prāṇava+ādi) [ending-with-namas](namaḥ+antena) [one-should-worship](pūjayet)
+[everywhere](sarvatra) [with-praṇava](prāṇava) [beginning](ādi) [namas](namaḥ) [ending-with](antena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p12-v299
-[ending-with-namas](namaḥ+antena) [one-should-worship](pūjayet)
+[with-namas](namaḥ) [ending-with](antena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p12-v300
 [with-fragrance-and-others](gandha+ādyaiḥ) [one-should-worship](pūjayet)

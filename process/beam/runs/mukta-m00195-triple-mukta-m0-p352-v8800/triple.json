@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p352",
+ "items": [
+  {
+   "verse": 8800,
+   "rows": [
+    {
+     "surface": "nabho",
+     "gloss": "o-ether",
+     "grounds": "vocative address to nabhas/ether",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "bhagavatī",
+     "gloss": "o-bhagavatī",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tyu",
+     "gloss": "thus",
+     "grounds": "sandhi form of iti before uktvā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ktvā",
+     "gloss": "having-said",
+     "grounds": "absolutive of √vac",
+     "morph": "(abs.) √vac"
+    },
+    {
+     "surface": "māheśvari",
+     "gloss": "o-māheśvarī",
+     "grounds": "vocative address to Māheśvarī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mame",
+     "gloss": "my",
+     "grounds": "sandhi form of mama before iti",
+     "morph": "pron.1.gen.sg"
+    },
+    {
+     "surface": "ti",
+     "gloss": "thus",
+     "grounds": "quotation marker iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which invocatory phrases are uttered by the practitioner in this context?",
+   "premises": [
+    "The practitioner utters the address nabho bhagavatī.",
+    "The practitioner utters the address māheśvari mama.",
+    "The particle iti marks these utterances as spoken words."
+   ],
+   "inference": "The practitioner articulates specific invocatory addresses to the goddess.",
+   "uncertainties": [
+    "The exact ritual function of these utterances within the surrounding passage is not fully explicit."
+   ],
+   "plain_english": "And having said, 'O Ether, O Bhagavatī,' and 'O Māheśvarī, mine.'"
+  }
+ ]
+}

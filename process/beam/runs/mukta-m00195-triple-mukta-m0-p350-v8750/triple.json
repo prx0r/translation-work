@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p350",
+ "items": [
+  {
+   "verse": 8750,
+   "rows": [
+    {
+     "surface": "aṣṭayoniṣu",
+     "gloss": "in-eight-yonis",
+     "grounds": "locative plural of compound aṣṭa-yoni indicating the eight locations",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "sampūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive expressing obligation of worship",
+     "morph": "f.nom.sg.gerundive sam-√pūj"
+    },
+    {
+     "surface": "tadagrāḥ",
+     "gloss": "their-foremost-ones",
+     "grounds": "compound tad-agra referring to those foremost among them",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "by-circumambulation",
+     "grounds": "adverbial accusative indicating the manner of worship",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what locations and by what manner must the foremost attendant goddesses be worshipped?",
+   "premises": [
+    "The foremost attendant goddesses are designated as objects of worship.",
+    "The eight yonis are specified as the locations for their worship.",
+    "Circumambulation is prescribed as the manner of this worship."
+   ],
+   "inference": "Therefore the foremost attendant goddesses must be worshipped in the eight yonis with circumambulation.",
+   "uncertainties": [
+    "The precise referent of tadagrāḥ depends on the preceding verses."
+   ],
+   "plain_english": "The foremost among them should indeed be worshipped in the eight yonis by circumambulation."
+  }
+ ]
+}
