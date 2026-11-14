@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun referring to the previously described sequence",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "ṣaṣṭhādi",
+     "gloss": "beginning-with-sixth",
+     "grounds": "compound indicating the portion starting from the sixth element",
+     "morph": "compound (ṣaṣṭha+ādi).nom.sg.n"
+    },
+    {
+     "surface": "pañcārṇāt",
+     "gloss": "from-five-syllables",
+     "grounds": "compound denoting a group of five syllables as the source",
+     "morph": "compound (pañca+arṇa).abl.sg.n"
+    },
+    {
+     "surface": "antyau",
+     "gloss": "last-two",
+     "grounds": "refers to the final pair within the five-syllable group",
+     "morph": "adj.nom.du.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "expresses the prescribed placement",
+     "morph": "verb.3.sg.optative.act (√as)"
+    },
+    {
+     "surface": "ādyaḥ",
+     "gloss": "first",
+     "grounds": "indicates the new initial position",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "marks the instruction as transmitted teaching",
+     "morph": "ppp.nom.sg.m (√īr)"
+    }
+   ],
+   "question": "How are the final two syllables of the five-syllable sequence repositioned at the beginning?",
+   "premises": [
+    "The instruction concerns a sequence beginning with the sixth element of this.",
+    "A group of five syllables is the source of the elements to be rearranged.",
+    "The last two syllables of that five-syllable group are specified for repositioning."
+   ],
+   "inference": "The final two syllables taken from the five-syllable group are to be placed as the first in the stated sequence.",
+   "uncertainties": [
+    "The exact referent of 'asya' depends on the preceding ritual or mantra context."
+   ],
+   "plain_english": "Of this, beginning with the sixth, the last two syllables from the five-syllable group should be placed first, as declared."
+  }
+ ]
+}
