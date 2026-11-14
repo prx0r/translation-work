@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "ardhāṃśaṃ",
+     "gloss": "half-part",
+     "grounds": "one half portion of the divided measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṃjaravyāsaṃ",
+     "gloss": "cage-width",
+     "grounds": "compound: paṃjara-vyāsa; width of the cage structure",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining portion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "interval-between-garlands",
+     "grounds": "compound: hāra-antara; space between garland bands",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescribes the resulting measure",
+     "morph": "opt.3.sg.act √bhū"
+    }
+   ],
+   "question": "What proportional measures determine the cage width and the remaining garland interval in this layout?",
+   "premises": [
+    "The divided area yields a half-part measure.",
+    "This half-part is assigned as the cage width.",
+    "The remainder is assigned as the interval between garlands."
+   ],
+   "inference": "Therefore, the cage width should be one half-part and the remaining space should form the garland interval.",
+   "uncertainties": [
+    "The exact architectural referents of paṃjara and hāra depend on the broader ritual or structural context."
+   ],
+   "plain_english": "The cage width should be half a part, and the remainder should be the interval between the garlands."
+  }
+ ]
+}

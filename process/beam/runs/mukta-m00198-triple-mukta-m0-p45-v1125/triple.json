@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "karṇaṃ",
+     "gloss": "projection",
+     "grounds": "architectural member specified by following measure; accusative object in measurement prescription",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādonapakṣāṃśaṃ",
+     "gloss": "quarter-less-side-portion",
+     "grounds": "compound indicating a measure reduced by one quarter of a side-portion; qualifies karṇaṃ",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "sārdhavedaṃ",
+     "gloss": "with-half-four",
+     "grounds": "compound expressing one and a half times four units; qualifies śirodayam",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "śirodayam",
+     "gloss": "head-rise",
+     "grounds": "architectural height element specified by preceding measure; accusative object in measurement prescription",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional measurements determine the projection and the head-rise of this architectural element?",
+   "premises": [
+    "The projection is assigned the measure pādonapakṣāṃśaṃ.",
+    "The head-rise is assigned the measure sārdhavedaṃ.",
+    "Both measures are prescribed as specific dimensional values."
+   ],
+   "inference": "The verse fixes precise proportional dimensions for the projection and the head-rise within the described architectural scheme.",
+   "uncertainties": [
+    "The exact architectural referent of pakṣa in pādonapakṣāṃśaṃ depends on the broader measurement system.",
+    "Whether veda denotes the numerical value four in this context is inferred from common architectural convention."
+   ],
+   "plain_english": "The projection should measure a quarter less than a side-portion, and the head-rise should measure one and a half vedas."
+  }
+ ]
+}

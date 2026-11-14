@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1032,
- "question": "What should be quickly cast into place after being recognized?",
+ "question": "What proportional measures are given for the neck and the spire in this arrangement?",
  "premises": [
-  "Recognition precedes the action",
-  "The action must be done quickly",
-  "The object is the purifier"
+  "The neck measure is set at two parts.",
+  "The spire rise is set at an arrow-part measure.",
+  "These measures define upper structural proportions."
  ],
- "inference": "Having recognized it, one should quickly cast the purifier into place.",
- "uncertainties": [],
- "plain_english": "Having known it, one should quickly cast the purifier."
+ "inference": "The verse assigns two parts to the neck and an arrow-part measure to the spire rise.",
+ "uncertainties": [
+  "The numeric value of śara-aṃśa is conventionally five but context-dependent."
+ ],
+ "plain_english": "The neck should measure two parts, and the spire rise should be an arrow-part measure."
 }

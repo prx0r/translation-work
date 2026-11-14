@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p34",
  "verse": 843,
- "question": "How should the portions be distributed between the deity and the fire?",
+ "question": "How many arches may be placed on the entablature when a great arch is on the spire?",
  "premises": [
-  "An offering is made to the deity.",
-  "Another portion is offered in the fire.",
-  "The distribution distinguishes these recipients."
+  "A great arch is present on the spire.",
+  "Eight arches may be placed on the entablature.",
+  "Alternatively sixteen arches may be placed."
  ],
- "inference": "One should offer one portion to the deity and the supreme portion in the fire.",
- "uncertainties": [
-  "The exact parsing of 'tveka' is ambiguous; taken as indicating one portion in context."
- ],
- "plain_english": "One should offer one portion to the deity and the other in the fire."
+ "inference": "With a great arch on the spire, the entablature may have eight or sixteen arches.",
+ "uncertainties": [],
+ "plain_english": "On the spire there is a great arch, and on the entablature there may be eight or sixteen."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1041,
- "question": "Which body locations are specified for placing the limbs in sequence?",
+ "question": "What spire measure and regional applicability characterize this shrine type?",
  "premises": [
-  "Multiple body locations are listed",
-  "The list forms a sequence",
-  "Placement occurs on these locations"
+  "The spire measure is given as a sky-part.",
+  "The shrine is described as common to all regions.",
+  "These attributes define a recognized vimāna type."
  ],
- "inference": "The limbs are placed on the head, face, sides, hips, feet, hips, sides, and shoulders.",
- "uncertainties": [],
- "plain_english": "On the head, face, sides, hips, feet, hips, sides, and shoulders."
+ "inference": "The verse prescribes a sky-part spire measure for a shrine type valid in all regions.",
+ "uncertainties": [
+  "The numeric interpretation of vyomāṃśa is convention-dependent."
+ ],
+ "plain_english": "The spire measure is a sky-part, and this shrine is of a type common to all regions."
 }

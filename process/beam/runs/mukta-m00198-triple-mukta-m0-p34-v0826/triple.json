@@ -1,0 +1,967 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 826,
+   "rows": [
+    {
+     "surface": "upagrīvastu",
+     "gloss": "but-upagrīva",
+     "grounds": "fused form upagrīvaḥ+tu; upagrīva architectural member",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhāṃśaṃ",
+     "gloss": "one-and-half-part",
+     "grounds": "measure of height or proportion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarter",
+     "grounds": "alternative proportional measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prastarodayam",
+     "gloss": "entablature-height",
+     "grounds": "height of the prastara; compound prastara+udaya",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional height should the upagrīva and prastara rise to in this temple design?",
+   "premises": [
+    "The upagrīva is specified with a proportional measure.",
+    "The prastara rise is given as one-and-a-half parts or three quarters.",
+    "Alternative measures are prescribed for the same element."
+   ],
+   "inference": "The upagrīva-prastara elevation is fixed by the stated proportional options.",
+   "uncertainties": [],
+   "plain_english": "But the upagrīva and the rise of the entablature should be one and a half parts or three quarters."
+  },
+  {
+   "verse": 827,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "measure of the finial",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "stūpimānaṃ",
+     "gloss": "finial-measure",
+     "grounds": "measure of the stūpi; compound stūpi+māna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caivādbhutaṃ",
+     "gloss": "and-indeed-adbhuta",
+     "grounds": "fused ca+eva+adbhuta; names the adbhuta type",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "declared in the tradition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What finial measure defines the temple form known as adbhuta?",
+   "premises": [
+    "The finial measure is specified as one part.",
+    "This specification is given as the prescribed manner.",
+    "The resulting form is named adbhuta."
+   ],
+   "inference": "A one-part finial measure characterizes the adbhuta form.",
+   "uncertainties": [],
+   "plain_english": "The finial measure should be one part; thus it is remembered as the adbhuta type."
+  },
+  {
+   "verse": 828,
+   "rows": [
+    {
+     "surface": "pakṣamādhārapādaṃ",
+     "gloss": "side-base-pillar",
+     "grounds": "architectural member; compound pakṣa+ādhāra+pāda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃcopagrīvamaṃcakam",
+     "gloss": "platform-upagrīva-platform",
+     "grounds": "sequence of architectural members; compound mañca+upagrīva+mañcaka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which structural members are to be included in this temple arrangement?",
+   "premises": [
+    "A side base pillar is prescribed.",
+    "A platform, upagrīva, and smaller platform are prescribed.",
+    "These members are listed together as components."
+   ],
+   "inference": "The arrangement includes the side base pillar together with the platform-upagrīva-platform sequence.",
+   "uncertainties": [],
+   "plain_english": "One should include the side base pillar and the platform, upagrīva, and smaller platform."
+  },
+  {
+   "verse": 829,
+   "rows": [
+    {
+     "surface": "sopagrīvasamaṃcau",
+     "gloss": "with-upagrīva-with-platform",
+     "grounds": "two members possessing upagrīva and platform; compound sa+upagrīva+sa+mañca",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tā",
+     "gloss": "those-two",
+     "grounds": "refers to the two members mentioned",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ekabhūreva",
+     "gloss": "single-storey-only",
+     "grounds": "fused eka+bhūḥ+eva; indicates one storey",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidyete",
+     "gloss": "are-known",
+     "grounds": "states their recognized condition",
+     "morph": "3.du.pres.pass.√vid"
+    }
+   ],
+   "question": "How many storeys are assigned to the members equipped with upagrīva and platform?",
+   "premises": [
+    "Two members with upagrīva and platform are identified.",
+    "They are explicitly qualified as single-storey only.",
+    "This condition is stated as recognized."
+   ],
+   "inference": "The members with upagrīva and platform belong to a single-storey structure.",
+   "uncertainties": [],
+   "plain_english": "Those two, having an upagrīva and a platform, are known as belonging to a single storey only."
+  },
+  {
+   "verse": 830,
+   "rows": [
+    {
+     "surface": "kṛtvācādhārapādaṃ",
+     "gloss": "having-made-base-pillar",
+     "grounds": "fused gerund kṛtvā+ādhāra+pādaṃ; action before next step",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃcopagrīvamaṃcakam",
+     "gloss": "platform-upagrīva-platform",
+     "grounds": "sequence of architectural members; compound mañca+upagrīva+mañcaka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What construction step precedes adding the platform-upagrīva-platform sequence?",
+   "premises": [
+    "Making the base pillar is prescribed first.",
+    "The platform-upagrīva-platform sequence follows.",
+    "The two actions are connected in sequence."
+   ],
+   "inference": "The base pillar must be made before the platform-upagrīva-platform sequence is added.",
+   "uncertainties": [],
+   "plain_english": "Having made the base pillar, one should also make the platform, upagrīva, and smaller platform."
+  },
+  {
+   "verse": 831,
+   "rows": [
+    {
+     "surface": "ūrdhvamaṃcopariṣṭāttu",
+     "gloss": "above-upper-platform-but",
+     "grounds": "fused ūrdhva+mañca+upariṣṭāt+tu; location above upper platform",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle reinforcing specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkoṇeṣu",
+     "gloss": "in-four-corners",
+     "grounds": "location at the four corners; compound catur+koṇa",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "suvrata",
+     "gloss": "o-good-vowed-one",
+     "grounds": "vocative address to the recipient",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Where should the next elements be placed above the upper platform, O good-vowed one?",
+   "premises": [
+    "A location above the upper platform is specified.",
+    "The four corners are named as the placement points.",
+    "The instruction is addressed to the recipient."
+   ],
+   "inference": "The elements are to be placed at the four corners above the upper platform.",
+   "uncertainties": [],
+   "plain_english": "But above the upper platform, O good-vowed one, place them at the four corners."
+  },
+  {
+   "verse": 832,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānādi",
+     "gloss": "base-and-so-on",
+     "grounds": "starting from the base; compound adhiṣṭhāna+ādi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvāṃgaṃ",
+     "gloss": "all-parts",
+     "grounds": "the entire set of members; compound sarva+aṅga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgivaiva",
+     "gloss": "just-as-before-indeed",
+     "grounds": "fused prāk+iva+eva; indicates same manner as earlier",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act.√kḷp"
+    }
+   ],
+   "question": "How should all parts from the base onward be arranged in this construction?",
+   "premises": [
+    "All parts beginning with the base are included.",
+    "The arrangement is to follow the earlier manner.",
+    "A prescriptive instruction is given."
+   ],
+   "inference": "All parts from the base onward should be arranged just as before.",
+   "uncertainties": [],
+   "plain_english": "One should arrange all the parts, beginning with the base, just as before."
+  },
+  {
+   "verse": 833,
+   "rows": [
+    {
+     "surface": "śikhare",
+     "gloss": "on-spire",
+     "grounds": "location on the śikhara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahānāsī",
+     "gloss": "great-arch",
+     "grounds": "large nāsī element; compound mahā+nāsī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catvārastu",
+     "gloss": "four-but",
+     "grounds": "fused catvāraḥ+tu; number of arches",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādiśi",
+     "gloss": "in-main-direction",
+     "grounds": "in the cardinal directions; compound mahā+diś",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "How many great arches should be placed on the spire and in which directions?",
+   "premises": [
+    "Great arches are prescribed on the spire.",
+    "Their number is four.",
+    "They are placed in the main directions."
+   ],
+   "inference": "Four great arches should be placed on the spire in the cardinal directions.",
+   "uncertainties": [],
+   "plain_english": "On the spire there should be four great arches in the main directions."
+  },
+  {
+   "verse": 834,
+   "rows": [
+    {
+     "surface": "prastare",
+     "gloss": "on-entablature",
+     "grounds": "location on the prastara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alpanāsīṃ",
+     "gloss": "small-arch",
+     "grounds": "small nāsī element; compound alpa+nāsī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayaṃ",
+     "gloss": "vijaya",
+     "grounds": "name of the type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-declared",
+     "grounds": "fused tat+udāhṛtam; stated as such",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What temple type is declared when a small arch is placed on the entablature?",
+   "premises": [
+    "A small arch may be placed on the entablature.",
+    "This configuration is given a specific name.",
+    "The name declared is vijaya."
+   ],
+   "inference": "Placing a small arch on the entablature defines the vijaya type.",
+   "uncertainties": [],
+   "plain_english": "If a small arch is placed on the entablature, that is declared to be the vijaya type."
+  },
+  {
+   "verse": 835,
+   "rows": [
+    {
+     "surface": "nāgarādyucitaṃ",
+     "gloss": "nagara-and-others-suitable",
+     "grounds": "appropriate to nāgara and related styles; compound nāgara+ādi+ucita",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karṇakūṭākāraṃ",
+     "gloss": "corner-tower-form",
+     "grounds": "shape of a karṇakūṭa; compound karṇa+kūṭa+ākāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act.√kḷp"
+    }
+   ],
+   "question": "What form should be fashioned for elements suited to the nāgara and related styles?",
+   "premises": [
+    "The element must be suitable to nāgara and related styles.",
+    "A corner-tower form is specified.",
+    "The designer is instructed to fashion it accordingly."
+   ],
+   "inference": "Elements suited to nāgara and related styles should be fashioned in the form of a corner tower.",
+   "uncertainties": [],
+   "plain_english": "One should fashion it in the form of a corner tower, suitable for the nāgara and related styles."
+  },
+  {
+   "verse": 836,
+   "rows": [
+    {
+     "surface": "antarālaṃ",
+     "gloss": "intermediate-space",
+     "grounds": "the antarāla chamber or space",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattulyaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "of the same measure as that; compound tat+tulya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣudrapaṃjarasaṃyutam",
+     "gloss": "joined-with-small-cages",
+     "grounds": "provided with small pañjara elements; compound kṣudra+pañjara+saṃyuta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What size and features should the intermediate space possess in this design?",
+   "premises": [
+    "The intermediate space is specified.",
+    "It should be equal in measure to the preceding element.",
+    "It should be joined with small cage motifs."
+   ],
+   "inference": "The intermediate space should match that measure and include small cage motifs.",
+   "uncertainties": [],
+   "plain_english": "The intermediate space should be equal to that and joined with small cage motifs."
+  },
+  {
+   "verse": 837,
+   "rows": [
+    {
+     "surface": "madhyanāsī",
+     "gloss": "middle-arch",
+     "grounds": "central nāsī element; compound madhya+nāsī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "broad",
+     "grounds": "wide in extent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyabhadra viśālakam",
+     "gloss": "middle-projection-broad",
+     "grounds": "broad central bhadra; two-token compound expression as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative forms may the central arch or projection take in this arrangement?",
+   "premises": [
+    "A middle arch is mentioned.",
+    "It may be broad.",
+    "Alternatively the middle projection may be broad."
+   ],
+   "inference": "The design allows either a broad middle arch or a broad middle projection.",
+   "uncertainties": [],
+   "plain_english": "The middle arch may be broad, or the middle projection may be broad."
+  },
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "kūṭamekadvibhāgaṃ",
+     "gloss": "tower-one-or-two-parts",
+     "grounds": "kūṭa measuring one or two parts; compound kūṭa+eka+dvi+bhāga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyabhadraviśālakam",
+     "gloss": "middle-projection-broad",
+     "grounds": "broad central bhadra; compound madhya+bhadra+viśālaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional options are allowed for the tower or central projection?",
+   "premises": [
+    "The tower may measure one or two parts.",
+    "Alternatively the middle projection may be broad.",
+    "These are presented as options."
+   ],
+   "inference": "The design permits a one-or-two-part tower or a broad middle projection.",
+   "uncertainties": [],
+   "plain_english": "The tower may be one or two parts, or the middle projection may be broad."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "refers to the same arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadane",
+     "gloss": "in-building",
+     "grounds": "location in the structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "external part of the building",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "madhyabhadrayutaṃ",
+     "gloss": "joined-with-middle-projection",
+     "grounds": "provided with a central bhadra; compound madhya+bhadra+yuta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may the same arrangement be applied to the exterior of the building?",
+   "premises": [
+    "The same arrangement is referred to.",
+    "It is applied to the outside of the building.",
+    "It may be joined with a middle projection."
+   ],
+   "inference": "The same arrangement may be used on the exterior with a middle projection.",
+   "uncertainties": [],
+   "plain_english": "That same arrangement, on the outside of the building, may be joined with a middle projection."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "refers to the same arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedikākaṇṭhaṃ",
+     "gloss": "platform-neck",
+     "grounds": "neck above the vedikā; compound vedikā+kaṇṭha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikharaṃ",
+     "gloss": "spire",
+     "grounds": "the śikhara element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭaṃ",
+     "gloss": "pot-finial",
+     "grounds": "the ghaṭa crowning element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which upper elements are to be treated in the same manner in this design?",
+   "premises": [
+    "The same arrangement is extended upward.",
+    "The platform neck, spire, and pot finial are named.",
+    "They are to be treated likewise."
+   ],
+   "inference": "The platform neck, spire, and pot finial should follow the same arrangement.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the same applies to the platform neck, the spire, and the pot finial."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "abhadranāsī",
+     "gloss": "without-projection-arch",
+     "grounds": "nāsī without bhadra; compound a+bhadra+nāsī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catvāra",
+     "gloss": "four",
+     "grounds": "number of arches",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śikhare",
+     "gloss": "on-spire",
+     "grounds": "location on the śikhara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidiksthitāḥ",
+     "gloss": "situated-in-intermediate-directions",
+     "grounds": "placed in the intermediate directions; compound vidik+sthita",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where should four arches without projections be placed on the spire?",
+   "premises": [
+    "Four arches without projections are specified.",
+    "Their location is on the spire.",
+    "They are situated in the intermediate directions."
+   ],
+   "inference": "Four projectionless arches should be placed on the spire in the intermediate directions.",
+   "uncertainties": [],
+   "plain_english": "Four arches without projections should be placed on the spire in the intermediate directions."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "tadevamadhyabhadraṃ",
+     "gloss": "that-thus-middle-projection",
+     "grounds": "fused tat+evam+adhya+bhadraṃ; that arrangement with middle projection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇakūṭavihīnakam",
+     "gloss": "devoid-of-corner-towers",
+     "grounds": "lacking karṇakūṭas; compound karṇa+kūṭa+vihīnaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characterizes this variant with a middle projection regarding corner towers?",
+   "premises": [
+    "The arrangement includes a middle projection.",
+    "Corner towers are explicitly absent.",
+    "Both features define the variant."
+   ],
+   "inference": "This middle-projection variant is characterized by the absence of corner towers.",
+   "uncertainties": [],
+   "plain_english": "That arrangement, thus having a middle projection, is devoid of corner towers."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "śikhare",
+     "gloss": "on-spire",
+     "grounds": "location on the śikhara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahānāsī",
+     "gloss": "great-arch",
+     "grounds": "large nāsī element; compound mahā+nāsī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prastare'ṣṭau",
+     "gloss": "on-entablature-eight",
+     "grounds": "fused prastare+aṣṭau; eight on the entablature",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviraṣṭa",
+     "gloss": "twice-eight",
+     "grounds": "sixteen as an alternative count",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many arches may be placed on the entablature when a great arch is on the spire?",
+   "premises": [
+    "A great arch is present on the spire.",
+    "Eight arches may be placed on the entablature.",
+    "Alternatively sixteen arches may be placed."
+   ],
+   "inference": "With a great arch on the spire, the entablature may have eight or sixteen arches.",
+   "uncertainties": [],
+   "plain_english": "On the spire there is a great arch, and on the entablature there may be eight or sixteen."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "refers to the same arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhare",
+     "gloss": "on-spire",
+     "grounds": "location on the śikhara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāṣṭāvalpanāsī",
+     "gloss": "and-eight-small-arches",
+     "grounds": "fused ca+aṣṭa+alpa+nāsī; eight small arches",
+     "morph": "compound"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "provided or accompanied with",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What feature on the spire accompanies the same arrangement in this variant?",
+   "premises": [
+    "The same arrangement is maintained.",
+    "Eight small arches are added.",
+    "These are located on the spire."
+   ],
+   "inference": "The same arrangement is endowed with eight small arches on the spire.",
+   "uncertainties": [],
+   "plain_english": "That same arrangement is endowed with eight small arches on the spire."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "refers to the previously mentioned forms",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vaidvayaśra",
+     "gloss": "two-sided-rectangular",
+     "grounds": "having two rectangular aspects; compound reading uncertain",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vṛttābhaṃ",
+     "gloss": "circular-appearing",
+     "grounds": "appearing round; compound vṛtta+ābha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hastipṛṣṭhamudāhṛtam",
+     "gloss": "elephant-back-declared",
+     "grounds": "fused hastipṛṣṭham+udāhṛtam; named hastipṛṣṭha",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name is given to forms that combine rectangular and circular aspects in this context?",
+   "premises": [
+    "The forms have rectangular and circular-appearing aspects.",
+    "These forms are collectively identified.",
+    "They are declared as elephant-back."
+   ],
+   "inference": "Forms combining rectangular and circular aspects are declared to be of the elephant-back type.",
+   "uncertainties": [
+    "The exact analysis of vaidvayaśra is uncertain."
+   ],
+   "plain_english": "Those, being rectangular and circular in appearance, are declared to be of the elephant-back type."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "paṭṭaṃ",
+     "gloss": "band",
+     "grounds": "a flat band or fillet element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratimahānāsyaṃ",
+     "gloss": "at-each-great-arch",
+     "grounds": "placed opposite or at each great arch; compound prati+mahā+nāsya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalpayetskandakāntakam",
+     "gloss": "one-should-fashion-skandakāntaka",
+     "grounds": "fused kalpayet+skandakāntakam; fashion the skandakāntaka type",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the skandakāntaka type be fashioned in relation to the great arches?",
+   "premises": [
+    "A band is to be fashioned.",
+    "It is placed at each great arch.",
+    "This produces the skandakāntaka type."
+   ],
+   "inference": "Fashioning a band at each great arch yields the skandakāntaka type.",
+   "uncertainties": [],
+   "plain_english": "One should fashion a band at each great arch to form the skandakāntaka type."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "mahānāsyapare",
+     "gloss": "beyond-great-arch",
+     "grounds": "on the side beyond the great arch; compound mahā+nāsya+para",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "koṣṭhasaṃyuktaṃ",
+     "gloss": "joined-with-niche",
+     "grounds": "provided with a koṣṭha; compound koṣṭha+saṃyukta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīrṣakaṃ",
+     "gloss": "top-member",
+     "grounds": "the crowning or head element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act.√bhū"
+    }
+   ],
+   "question": "What feature should the top member have beyond the great arch?",
+   "premises": [
+    "The location beyond the great arch is specified.",
+    "The top member is the subject.",
+    "It should be joined with a niche."
+   ],
+   "inference": "Beyond the great arch, the top member should be joined with a niche.",
+   "uncertainties": [],
+   "plain_english": "Beyond the great arch, the top member should be joined with a niche."
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "koṣṭhadīrghasamākhyātaṃ",
+     "gloss": "called-niche-length",
+     "grounds": "designated by the length of the niche; compound koṣṭha+dīrgha+samākhyāta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "the vertical measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāsikāsamam",
+     "gloss": "equal-to-arch",
+     "grounds": "same as the nāsikā measure; compound nāsikā+sama",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What determines the height that is made equal to the arch in this element?",
+   "premises": [
+    "A height is prescribed.",
+    "That height is equal to the arch.",
+    "It is designated in relation to the niche length."
+   ],
+   "inference": "The height, designated by the niche length, should be equal to the arch.",
+   "uncertainties": [],
+   "plain_english": "The height, designated by the niche length, should be equal to that of the arch."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "vṛttamastakakarṇāsyaṃ",
+     "gloss": "round-head-corner-face",
+     "grounds": "having round head and corner faces; compound vṛtta+mastaka+karṇa+āsya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "octagonal",
+     "grounds": "having eight sides; compound vasu+aśra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galaṃ",
+     "gloss": "neck",
+     "grounds": "the neck portion of the structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "the head or crowning portion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shapes may the neck and head portions take in this architectural prescription?",
+   "premises": [
+    "The neck and head are the elements specified.",
+    "They may have a round head and corner faces.",
+    "Alternatively they may be octagonal."
+   ],
+   "inference": "The neck and head may be round-headed with corner faces or octagonal.",
+   "uncertainties": [],
+   "plain_english": "The neck and head may have a round top with corner faces, or they may be octagonal."
+  }
+ ]
+}

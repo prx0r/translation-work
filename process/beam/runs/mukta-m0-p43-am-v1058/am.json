@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p43",
  "verse": 1058,
- "question": "What structural features characterize the ritual diagram being described?",
+ "question": "What numerical measures govern the cell, peak, and cage in this configuration?",
  "premises": [
-  "The structure has various filaments.",
-  "The structure has four doors.",
-  "The structure is enclosed."
+  "The cell is measured by the sun number.",
+  "The peak is included in the same arrangement.",
+  "The cage is twice the sun number."
  ],
- "inference": "The described structure is endowed with various filaments and surrounded by four doors.",
- "uncertainties": [],
- "plain_english": "It is endowed with various filaments and surrounded by four doors."
+ "inference": "There should be a sun-measured cell and peak, and a cage of twice the sun number.",
+ "uncertainties": [
+  "ravi as twelve is a conventional numerical equivalence."
+ ],
+ "plain_english": "There should be a cell of twelve parts and a peak, and a cage of twenty-four parts."
 }
