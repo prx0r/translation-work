@@ -1,0 +1,346 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2607,
+   "rows": [
+    {
+     "surface": "pramehaiḥ",
+     "gloss": "by-urinary-disorders",
+     "grounds": "instrumental plural of prameha",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "tri+vidhaiḥ",
+     "gloss": "of-three-kinds",
+     "grounds": "compound tri-vidha in instrumental plural",
+     "morph": "compound (tri+vidha) m.instr.pl"
+    },
+    {
+     "surface": "ghora",
+     "gloss": "terrible",
+     "grounds": "adjective in instrumental plural sense",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "mūtra+kṛcchraiḥ",
+     "gloss": "urinary+obstructions",
+     "grounds": "compound mūtra-kṛcchra in instrumental plural",
+     "morph": "compound (mūtra+kṛcchra) m.instr.pl"
+    },
+    {
+     "surface": "su+dāruṇaiḥ",
+     "gloss": "very-dreadful",
+     "grounds": "compound su-dāruṇa in instrumental plural",
+     "morph": "compound (su+dāruṇa) m.instr.pl"
+    }
+   ],
+   "question": "How do three kinds of urinary disorders and obstructions relate to long life and health?",
+   "premises": [
+    "Three kinds of urinary disorders are terrible.",
+    "Urinary obstructions are very dreadful.",
+    "One lives long and healthy despite them."
+   ],
+   "inference": "The verse frames severe urinary disorders as part of a ritual or medical context yielding longevity.",
+   "uncertainties": [
+    "The exact syntactic relation of ghora to the following noun is unclear."
+   ],
+   "plain_english": "By three kinds of urinary disorders, terrible urinary obstructions, very dreadful."
+  },
+  {
+   "verse": 2608,
+   "rows": [
+    {
+     "surface": "jīvet",
+     "gloss": "one-lives",
+     "grounds": "optative of jīv",
+     "morph": "3.sg.act.opt (jīv)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su+ciraṃ",
+     "gloss": "very-long",
+     "grounds": "compound su-ciraṃ used adverbially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-earth",
+     "grounds": "locative singular of bhūmi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nīrogaḥ",
+     "gloss": "disease-free",
+     "grounds": "nominative singular masculine adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svastha+mānasaḥ",
+     "gloss": "healthy+minded",
+     "grounds": "compound svastha-mānasa in nominative singular masculine",
+     "morph": "compound (svastha+mānasa) m.nom.sg"
+    }
+   ],
+   "question": "What bodily and mental condition accompanies long life on earth?",
+   "premises": [
+    "One lives very long on earth.",
+    "One remains disease-free.",
+    "One remains healthy-minded."
+   ],
+   "inference": "Longevity is paired with physical health and mental steadiness.",
+   "uncertainties": [
+    "The subject of jīvet is implicit."
+   ],
+   "plain_english": "One lives very long on earth, disease-free and healthy-minded."
+  },
+  {
+   "verse": 2609,
+   "rows": [
+    {
+     "surface": "tale",
+     "gloss": "on-surface",
+     "grounds": "locative singular of tala",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative singular of bhūmi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khātvā",
+     "gloss": "having-dug",
+     "grounds": "gerund of khā",
+     "morph": "ger (khā)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jvālayet",
+     "gloss": "one-should-kindle",
+     "grounds": "optative causative of jval",
+     "morph": "3.sg.act.opt (jval caus)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and how should fire be kindled in this ritual?",
+   "premises": [
+    "One digs on the ground's surface.",
+    "Then one kindles fire there.",
+    "Fire is kindled always."
+   ],
+   "inference": "The ritual requires preparing a ground pit and maintaining fire.",
+   "uncertainties": [
+    "Whether tale and bhūmau are distinct locations or a hendiadys is unclear."
+   ],
+   "plain_english": "Having dug on the ground's surface, one should always kindle fire there."
+  },
+  {
+   "verse": 2610,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "and-that",
+     "grounds": "neuter pronoun or particle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "utkṣipya",
+     "gloss": "having-lifted",
+     "grounds": "gerund of ut-kṣip",
+     "morph": "ger (ut-kṣip)"
+    },
+    {
+     "surface": "salile",
+     "gloss": "in-water",
+     "grounds": "locative singular of salila",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣipet",
+     "gloss": "one-should-throw",
+     "grounds": "optative of pra-kṣip",
+     "morph": "3.sg.act.opt (pra-kṣip)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "it-perishes",
+     "grounds": "present indicative of vi-naś",
+     "morph": "3.sg.act.pres (vi-naś)"
+    }
+   ],
+   "question": "What happens if the lifted object is thrown into water?",
+   "premises": [
+    "Having lifted it, one should not throw it into water.",
+    "If thrown into water, it perishes."
+   ],
+   "inference": "Avoiding water preserves the ritual object.",
+   "uncertainties": [
+    "The referent of tat is not explicit in this verse."
+   ],
+   "plain_english": "Having lifted it, one should not throw it into water, lest it perish."
+  },
+  {
+   "verse": 2611,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākāra",
+     "gloss": "formless",
+     "grounds": "legacy gloss; lexical form means form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "meha+vāri",
+     "gloss": "urinary-disorder+water",
+     "grounds": "compound meha-vāri in nominative singular neuter",
+     "morph": "compound (meha+vāri) n.nom.sg"
+    },
+    {
+     "surface": "roga+viśeṣaḥ",
+     "gloss": "disease+special",
+     "grounds": "compound roga-viśeṣa in nominative singular masculine",
+     "morph": "compound (roga+viśeṣa) m.nom.sg"
+    },
+    {
+     "surface": "svasthamānasaḥ",
+     "gloss": "healthy+minded",
+     "grounds": "compound svastha-mānasa in nominative singular masculine",
+     "morph": "compound (svastha+mānasa) m.nom.sg"
+    },
+    {
+     "surface": "ādhi+rāhityāt",
+     "gloss": "due-to-absence+of-mental-affliction",
+     "grounds": "compound ādhi-rāhitya in ablative singular neuter",
+     "morph": "compound (ādhi+rāhitya) n.abl.sg"
+    }
+   ],
+   "question": "What mental and disease-related states are named at that place?",
+   "premises": [
+    "There is urinary-disorder water and a special disease.",
+    "One is healthy-minded.",
+    "This follows from absence of mental affliction."
+   ],
+   "inference": "The verse links the ritual site with disease categories and mental steadiness.",
+   "uncertainties": [
+    "The legacy gloss 'formless' for ākāra conflicts with its lexical meaning 'form'."
+   ],
+   "plain_english": "There, formless urinary-disorder water, special disease, healthy-minded due to absence of mental affliction."
+  },
+  {
+   "verse": 2612,
+   "rows": [
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "salile",
+     "gloss": "in-water",
+     "grounds": "locative singular of salila",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalāśaye",
+     "gloss": "in-reservoir",
+     "grounds": "locative singular of jalāśaya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "it-perishes",
+     "grounds": "present indicative of vi-naś",
+     "morph": "3.sg.act.pres (vi-naś)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāha+jvareṇa",
+     "gloss": "by-burning+fever",
+     "grounds": "compound dāha-jvara in instrumental singular masculine",
+     "morph": "compound (dāha+jvara) m.instr.sg"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "thus+meaning",
+     "grounds": "compound iti-artha in nominative singular masculine",
+     "morph": "compound (iti+artha) m.nom.sg"
+    }
+   ],
+   "question": "How does the yantra's preservation in water or reservoir affect the enemy?",
+   "premises": [
+    "The yantra does not perish in water.",
+    "The yantra does not perish in a reservoir.",
+    "Then the enemy is afflicted by burning fever."
+   ],
+   "inference": "Preserving the yantra transfers destructive heat to the enemy.",
+   "uncertainties": [
+    "Whether 'na' governs both salile and jalāśaye or only the first is ambiguous."
+   ],
+   "plain_english": "The yantra does not perish in water or reservoir; then the enemy is afflicted by burning fever; thus is the meaning."
+  }
+ ]
+}

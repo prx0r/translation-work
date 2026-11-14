@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "madhyakoṣṭhe",
+     "gloss": "middle-cell",
+     "grounds": "locative of middle cell",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "likhedvidyāṃ",
+     "gloss": "write-vidyā",
+     "grounds": "fused optative verb plus accusative noun",
+     "morph": "3.sg.act-opt (root likh) + acc.sg.f"
+    },
+    {
+     "surface": "sādhyākhyā",
+     "gloss": "sādhya-named",
+     "grounds": "compound adjective naming the vidyā",
+     "morph": "nom.sg.f compound"
+    },
+    {
+     "surface": "karmmasaṃyutām",
+     "gloss": "action-joined",
+     "grounds": "accusative adjective joined with karma",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What should be written in the middle cell and how is that vidyā characterized?",
+   "premises": [
+    "middle cell receives the vidyā",
+    "vidyā is named sādhya",
+    "vidyā is joined with karma"
+   ],
+   "inference": "The middle cell contains the sādhya-named vidyā joined with karma.",
+   "uncertainties": [
+    "sandhi fusion in likhedvidyāṃ is analyzed as fused verb and noun",
+    "gender of koṣṭha is treated as masculine"
+   ],
+   "plain_english": "In the middle cell, write the vidyā called sādhya, joined with karma."
+  }
+ ]
+}
