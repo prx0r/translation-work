@@ -1,0 +1,1373 @@
+{
+ "song": "mukta-m0-p193",
+ "items": [
+  {
+   "verse": 4801,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṇ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "muni",
+     "gloss": "sage",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāle",
+     "gloss": "hall",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nanda",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vṛtau",
+     "gloss": "increase",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many halls and increases are enumerated for the temple plan?",
+   "premises": [
+    "The verse lists five six sage hall also and eight nine increase likewise."
+   ],
+   "inference": "It enumerates halls and increases for planning.",
+   "uncertainties": [
+    "Exact architectural referent of vṛtau."
+   ],
+   "plain_english": "Five, six, sage, hall, also, and, eight, nine, increase, likewise."
+  },
+  {
+   "verse": 4802,
+   "rows": [
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturaśram",
+     "gloss": "square",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What shape should be made first before proceeding further?",
+   "premises": [
+    "The verse says equal but square that first having-made then after."
+   ],
+   "inference": "A square is made first.",
+   "uncertainties": [
+    "Scope of samam."
+   ],
+   "plain_english": "Equal but square that first having made then after."
+  },
+  {
+   "verse": 4803,
+   "rows": [
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "at-back",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-design",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "at-side",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "purātana",
+     "gloss": "old",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimānake",
+     "gloss": "shrine",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where may an old shrine be designed relative to the main structure?",
+   "premises": [
+    "The verse says at-back or one-should-design at-side old shrine."
+   ],
+   "inference": "It may be placed at back or side.",
+   "uncertainties": [
+    "Whether purātana modifies shrine."
+   ],
+   "plain_english": "At back or one should design at side old shrine."
+  },
+  {
+   "verse": 4804,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hastam",
+     "gloss": "cubit",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-with",
+     "grounds": "gerund",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "hasta",
+     "gloss": "cubit",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivṛddhitaḥ",
+     "gloss": "by-increase",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what cubit measure does the increase begin?",
+   "premises": [
+    "The verse says one cubit beginning-with cubit one one by-increase."
+   ],
+   "inference": "Increase begins from one cubit.",
+   "uncertainties": [
+    "Exact parsing of repeated eka."
+   ],
+   "plain_english": "One cubit beginning with cubit one one by increase."
+  },
+  {
+   "verse": 4805,
+   "rows": [
+    {
+     "surface": "vardhayet",
+     "gloss": "one-should-increase",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "hrāsayet",
+     "gloss": "one-should-decrease",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iṣṭa",
+     "gloss": "desired",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prapūraṇam",
+     "gloss": "completion",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Should one increase or decrease until desired completion?",
+   "premises": [
+    "The verse says one-should-increase one-should-decrease or also until desired completion."
+   ],
+   "inference": "Either increase or decrease until completion.",
+   "uncertainties": [
+    "Whether api modifies choice."
+   ],
+   "plain_english": "One should increase or decrease also until desired completion."
+  },
+  {
+   "verse": 4806,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "on-one",
+     "grounds": "numeral",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "side",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mukha",
+     "gloss": "front",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-design",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "On one side or in front length should one design?",
+   "premises": [
+    "The verse says on-one side or one-should-make front in-length one-should-design."
+   ],
+   "inference": "Design may be on one side or front length.",
+   "uncertainties": [
+    "Relation of kuryāt and prakalpayet."
+   ],
+   "plain_english": "On one side or one should make front in length one should design."
+  },
+  {
+   "verse": 4807,
+   "rows": [
+    {
+     "surface": "dviguṇam",
+     "gloss": "double",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dviguṇa",
+     "gloss": "double",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ardham",
+     "gloss": "half",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "triguṇam",
+     "gloss": "triple",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturguṇam",
+     "gloss": "quadruple",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What multiples may be used for the front length?",
+   "premises": [
+    "The verse says double double half or triple and quadruple."
+   ],
+   "inference": "Multiples include double, half, triple, quadruple.",
+   "uncertainties": [
+    "Whether dviguṇa ardham is one option."
+   ],
+   "plain_english": "Double double half or triple and quadruple."
+  },
+  {
+   "verse": 4808,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guṇam",
+     "gloss": "fold",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāram",
+     "gloss": "breadth",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mukha",
+     "gloss": "front",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āyāmam",
+     "gloss": "length",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-design",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Until what fold should front length and breadth be designed?",
+   "premises": [
+    "The verse says until five fold breadth front length one-should-design."
+   ],
+   "inference": "Design up to fivefold.",
+   "uncertainties": [
+    "Whether tāram modifies breadth."
+   ],
+   "plain_english": "Until five fold breadth front length one should design."
+  },
+  {
+   "verse": 4809,
+   "rows": [
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyam",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "prākārāṇām",
+     "gloss": "of-enclosures",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pramāṇakam",
+     "gloss": "measurement",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What measurement may be made for enclosure walls?",
+   "premises": [
+    "The verse says wall middle but or one-should-make of-enclosures measurement."
+   ],
+   "inference": "Wall middle or enclosure measurement may be made.",
+   "uncertainties": [
+    "Exact relation of bhitti madhyam."
+   ],
+   "plain_english": "Wall middle but or one should make of enclosures measurement."
+  },
+  {
+   "verse": 4810,
+   "rows": [
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-design",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "pillar",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-method",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prākārasya",
+     "gloss": "of-enclosure",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prakalpane",
+     "gloss": "in-designing",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "By what method should enclosure design be planned?",
+   "premises": [
+    "The verse says one-should-design pillar by-method of-enclosure in-designing."
+   ],
+   "inference": "Pillar method is used in enclosure design.",
+   "uncertainties": [
+    "Whether pāda means pillar or foot."
+   ],
+   "plain_english": "One should design pillar by method of enclosure in designing."
+  },
+  {
+   "verse": 4811,
+   "rows": [
+    {
+     "surface": "pūraṇam",
+     "gloss": "completion",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakartavyam",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hasta",
+     "gloss": "cubit",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māna",
+     "gloss": "measure",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaśe",
+     "gloss": "by-means-of",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How may completion be carried out by cubit measure?",
+   "premises": [
+    "The verse says completion or to-be-done cubit measure by-means-of also and."
+   ],
+   "inference": "Completion may be done by cubit measure.",
+   "uncertainties": [
+    "Whether pūraṇam and prakartavyam are alternatives."
+   ],
+   "plain_english": "Completion or to be done cubit measure by means of also and."
+  },
+  {
+   "verse": 4812,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "stated",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātram",
+     "gloss": "measure",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃgrāhya",
+     "gloss": "having-taken",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātra",
+     "gloss": "by-measure",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What stated measure should be taken and applied there?",
+   "premises": [
+    "The verse says that stated measure having-taken by-measure stated there one-should-apply."
+   ],
+   "inference": "The stated measure is applied there.",
+   "uncertainties": [
+    "Whether saṃgrāhya modifies mātram."
+   ],
+   "plain_english": "That stated measure having taken by measure stated there one should apply."
+  },
+  {
+   "verse": 4813,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṛkṣam",
+     "gloss": "asterism",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistārāt",
+     "gloss": "from-breadth",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sakalāt",
+     "gloss": "from-whole",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-design",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "From what breadth or whole should the remainder asterism be designed?",
+   "premises": [
+    "The verse says remainder asterism but from-breadth from-whole or then one-should-design."
+   ],
+   "inference": "Remainder asterism is designed from breadth or whole.",
+   "uncertainties": [
+    "Whether ṛkṣam is remainder or asterism."
+   ],
+   "plain_english": "Remainder asterism but from breadth from whole or then one should design."
+  },
+  {
+   "verse": 4814,
+   "rows": [
+    {
+     "surface": "āyam",
+     "gloss": "income",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triguṇitam",
+     "gloss": "tripled",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "digbhiḥ",
+     "gloss": "by-directions",
+     "grounds": "instrumental",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "manubhiḥ",
+     "gloss": "by-manus",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "one-should-divide",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should tripled income be divided by directions and manus?",
+   "premises": [
+    "The verse says income tripled by-directions by-manus one-should-divide then."
+   ],
+   "inference": "Tripled income is divided by directions and manus.",
+   "uncertainties": [
+    "Meaning of manubhiḥ."
+   ],
+   "plain_english": "Income tripled by directions by manus one should divide then."
+  },
+  {
+   "verse": 4815,
+   "rows": [
+    {
+     "surface": "dhvaja",
+     "gloss": "banner",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yonayaḥ",
+     "gloss": "sources",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "paryanta",
+     "gloss": "up-to",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "triṃśataḥ",
+     "gloss": "thirty",
+     "grounds": "numeral",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How many banner sources are declared up to thirty?",
+   "premises": [
+    "The verse says banner etc sources declared up-to thirty should-be."
+   ],
+   "inference": "Banner sources are declared up to thirty.",
+   "uncertainties": [
+    "Whether paryanta triṃśataḥ means up to thirty."
+   ],
+   "plain_english": "Banner etc sources declared up to thirty should be."
+  },
+  {
+   "verse": 4816,
+   "rows": [
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāsāda",
+     "gloss": "temple",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hastaiḥ",
+     "gloss": "by-cubits",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "by-others",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nirīkṣayet",
+     "gloss": "one-should-examine",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "By root temple cubits or others should one examine?",
+   "premises": [
+    "The verse says root temple by-cubits or and by-others or then one-should-examine."
+   ],
+   "inference": "Examination uses root temple cubits or others.",
+   "uncertainties": [
+    "Whether mūla prāsāda is compound."
+   ],
+   "plain_english": "Root temple by cubits or and by others or then one should examine."
+  },
+  {
+   "verse": 4817,
+   "rows": [
+    {
+     "surface": "dvihasta",
+     "gloss": "two-cubits",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "limit",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samuddiṣṭaḥ",
+     "gloss": "prescribed",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sālānām",
+     "gloss": "of-halls",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "breadth",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the prescribed breadth limit for halls?",
+   "premises": [
+    "The verse says two-cubits limit prescribed of-halls and indeed breadth."
+   ],
+   "inference": "Hall breadth limit is two cubits.",
+   "uncertainties": [
+    "Whether dvihasta antaḥ is one compound."
+   ],
+   "plain_english": "Two cubits limit prescribed of halls and indeed breadth."
+  },
+  {
+   "verse": 4818,
+   "rows": [
+    {
+     "surface": "triguṇam",
+     "gloss": "triple",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-with",
+     "grounds": "gerund",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kṣudre",
+     "gloss": "in-small",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahati",
+     "gloss": "in-great",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mandire",
+     "gloss": "temple",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "From triple beginning in small or great temple?",
+   "premises": [
+    "The verse says triple but beginning-with in-small in-great temple."
+   ],
+   "inference": "Triple measure begins in small or great temple.",
+   "uncertainties": [
+    "Whether kṣudre and mahati are alternatives."
+   ],
+   "plain_english": "Triple but beginning with in small in great temple."
+  },
+  {
+   "verse": 4819,
+   "rows": [
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṃśam",
+     "gloss": "part",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-with",
+     "grounds": "gerund",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāgikam",
+     "gloss": "divided",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "From six parts until sixteen divided parts?",
+   "premises": [
+    "The verse says six part but beginning-with until sixteen divided."
+   ],
+   "inference": "Parts range from six to sixteen.",
+   "uncertainties": [
+    "Whether bhāgikam modifies aṃśam."
+   ],
+   "plain_english": "Six part but beginning with until sixteen divided."
+  },
+  {
+   "verse": 4820,
+   "rows": [
+    {
+     "surface": "adhiṣṭhāna",
+     "gloss": "base",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varga",
+     "gloss": "group",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āḍhyam",
+     "gloss": "endowed-with",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khaṇḍaharmya",
+     "gloss": "sectional-mansion",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "maṇḍitam",
+     "gloss": "adorned-with",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What base group and sectional mansion adornments are described?",
+   "premises": [
+    "The verse says base etc group endowed-with sectional-mansion etc adorned-with."
+   ],
+   "inference": "Base group and sectional mansion are adorned.",
+   "uncertainties": [
+    "Whether āḍhyam and maṇḍitam modify same noun."
+   ],
+   "plain_english": "Base etc group endowed with sectional mansion etc adorned with."
+  },
+  {
+   "verse": 4821,
+   "rows": [
+    {
+     "surface": "chatra",
+     "gloss": "parasol",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śikhara",
+     "gloss": "spire",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upetam",
+     "gloss": "provided-with",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ūrdhvastha",
+     "gloss": "above",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛṣabha",
+     "gloss": "bull",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anvitam",
+     "gloss": "furnished-with",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What spire and bull furnishings are provided above?",
+   "premises": [
+    "The verse says parasol etc spire provided-with above bull furnished-with."
+   ],
+   "inference": "Spire and bull are furnished above.",
+   "uncertainties": [
+    "Whether chatra ādi is list."
+   ],
+   "plain_english": "Parasol etc spire provided with above bull furnished with."
+  },
+  {
+   "verse": 4822,
+   "rows": [
+    {
+     "surface": "sapādena",
+     "gloss": "with-quarter-more",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sārdhena",
+     "gloss": "with-half-more",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "quarter",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ūna",
+     "gloss": "less",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviguṇena",
+     "gloss": "double",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What quarter or double measures may be used with more or less?",
+   "premises": [
+    "The verse says with-quarter-more or with-half-more quarter less double or."
+   ],
+   "inference": "Measures may be quarter-more, half-more, less, double.",
+   "uncertainties": [
+    "Exact arithmetic relation."
+   ],
+   "plain_english": "With quarter more or with half more quarter less double or."
+  },
+  {
+   "verse": 4823,
+   "rows": [
+    {
+     "surface": "upānam",
+     "gloss": "plinth",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathitam",
+     "gloss": "stated",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "upariṣṭāt",
+     "gloss": "above",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "in-measure",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the plinth stated above by that measure?",
+   "premises": [
+    "The verse says plinth stated of-that above by-that in-measure."
+   ],
+   "inference": "Plinth is stated above by that measure.",
+   "uncertainties": [
+    "Whether tena refers to plinth."
+   ],
+   "plain_english": "Plinth stated of that above by that in measure."
+  },
+  {
+   "verse": 4824,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "upariṣṭāt",
+     "gloss": "above",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kampam",
+     "gloss": "fillet",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturtha",
+     "gloss": "fourth",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṃśa",
+     "gloss": "part",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "in-measure",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What fillet measure is placed above that fourth part?",
+   "premises": [
+    "The verse says of-that above fillet but that fourth part in-measure."
+   ],
+   "inference": "Fillet above is fourth part in measure.",
+   "uncertainties": [
+    "Whether tat caturtha aṃśa is one phrase."
+   ],
+   "plain_english": "Of that above fillet but that fourth part in measure."
+  }
+ ]
+}

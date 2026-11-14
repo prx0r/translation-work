@@ -1,0 +1,527 @@
+{
+ "song": "mukta-m0-p200",
+ "items": [
+  {
+   "verse": 4976,
+   "rows": [
+    {
+     "surface": "bhaktvā",
+     "gloss": "having-divided",
+     "grounds": "absolute form of bhaj",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturaśītyantaṃ",
+     "gloss": "eighty-four-end",
+     "grounds": "compound caturaśīti+antaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-determined",
+     "grounds": "passive present of vidhā",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is the measure determined after dividing by eighty-four?",
+   "premises": [
+    "measure is determined by that division",
+    "eighty-four end is the divisor"
+   ],
+   "inference": "the resulting measure follows from dividing by eighty-four",
+   "uncertainties": [
+    "exact referent of tena"
+   ],
+   "plain_english": "Having divided by eighty-four, the measure is determined by that."
+  },
+  {
+   "verse": 4977,
+   "rows": [
+    {
+     "surface": "tāvadeva",
+     "gloss": "that-much-only",
+     "grounds": "compound tāvat+eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "height",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vaktratāraḥ",
+     "gloss": "face-pupil",
+     "grounds": "compound vaktra+tāraḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṭkalaḥ",
+     "gloss": "six-parts",
+     "grounds": "compound ṣaṭ+kalaḥ",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What height and face-pupil proportion is specified here?",
+   "premises": [
+    "height is that much only",
+    "face pupil has six parts"
+   ],
+   "inference": "the face pupil is measured in six parts",
+   "uncertainties": [
+    "antecedent of tāvat"
+   ],
+   "plain_english": "So long only is the height, and the face pupil has six parts."
+  },
+  {
+   "verse": 4978,
+   "rows": [
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "netrasamaṃ",
+     "gloss": "eye-equal",
+     "grounds": "compound netra+samaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dairghyāt",
+     "gloss": "from-height",
+     "grounds": "ablative noun",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound tad+ardhaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vistareṇa",
+     "gloss": "in-width",
+     "grounds": "instrumental noun",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does eye measure relate to height and width?",
+   "premises": [
+    "eye is equal to height",
+    "half of that is width"
+   ],
+   "inference": "eye length equals height and width is half",
+   "uncertainties": [
+    "exact measurement unit"
+   ],
+   "plain_english": "The eye equals the height, and half of that is the width."
+  },
+  {
+   "verse": 4979,
+   "rows": [
+    {
+     "surface": "netrārdhāntaṃ",
+     "gloss": "eye-half-end",
+     "grounds": "compound netra+ardha+antaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhruvoḥ",
+     "gloss": "of-brows",
+     "grounds": "genitive dual",
+     "morph": "gen.du.f"
+    },
+    {
+     "surface": "sthaulyaṃ",
+     "gloss": "thickness",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "taddairghyaṃ",
+     "gloss": "that-height",
+     "grounds": "compound tad+dairghyaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvimātrakam",
+     "gloss": "two-measures",
+     "grounds": "compound dvi+mātrakaṃ",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What brow thickness and height measure are given?",
+   "premises": [
+    "brow thickness reaches eye half end",
+    "that height is two measures"
+   ],
+   "inference": "brow thickness and height are specified in two measures",
+   "uncertainties": [
+    "unit of mātra"
+   ],
+   "plain_english": "Brow thickness reaches the eye half end, and that height is two measures."
+  },
+  {
+   "verse": 4980,
+   "rows": [
+    {
+     "surface": "nāsāpradeśavistāraḥ",
+     "gloss": "nose-region-width",
+     "grounds": "compound nāsā+pradeśa+vistāraḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvādaśāṅgulam",
+     "gloss": "twelve-fingers",
+     "grounds": "compound dvādaśa+aṅgulaṃ",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is the width of the nose region and face?",
+   "premises": [
+    "nose region width is face",
+    "face is twelve fingers"
+   ],
+   "inference": "the nose region width equals a twelve-finger face",
+   "uncertainties": [
+    "whether vaktraṃ is face or mouth"
+   ],
+   "plain_english": "The nose region width is the face, twelve fingers."
+  },
+  {
+   "verse": 4981,
+   "rows": [
+    {
+     "surface": "netrāntaraṃ",
+     "gloss": "eye-interval",
+     "grounds": "compound netra+antaraṃ",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "caturmātraṃ",
+     "gloss": "four-measures",
+     "grounds": "compound catur+mātraṃ",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "trikoṇe",
+     "gloss": "in-triangle",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kapolake",
+     "gloss": "in-cheek",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What eye interval is specified in triangle and cheek?",
+   "premises": [
+    "eye interval is four measures",
+    "it applies in triangle and cheek"
+   ],
+   "inference": "the eye interval is four measures in those places",
+   "uncertainties": [
+    "exact anatomical placement"
+   ],
+   "plain_english": "The eye interval is four measures, in the triangle and cheek."
+  },
+  {
+   "verse": 4982,
+   "rows": [
+    {
+     "surface": "karṇamūlāt",
+     "gloss": "from-ear-root",
+     "grounds": "compound karṇa+mūlāt",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vaktrāntaṃ",
+     "gloss": "face-end",
+     "grounds": "compound vaktra+antaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pañcanetraṃ",
+     "gloss": "five-eyes",
+     "grounds": "compound pañca+netraṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-declared",
+     "grounds": "past participle of prakīrt",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What distance from ear root to face end is declared?",
+   "premises": [
+    "from ear root to face end",
+    "is five eyes"
+   ],
+   "inference": "that distance is declared as five eyes",
+   "uncertainties": [
+    "whether netra is eye unit"
+   ],
+   "plain_english": "From the ear root to the face end is declared as five eyes."
+  },
+  {
+   "verse": 4983,
+   "rows": [
+    {
+     "surface": "karṇamūlau",
+     "gloss": "ear-roots",
+     "grounds": "compound karṇa+mūlau",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "dvimātrau",
+     "gloss": "two-measures",
+     "grounds": "compound dvi+mātrau",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uccasamanvitau",
+     "gloss": "high-together",
+     "grounds": "compound ucca+samanvitau",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "What measure and height do the ear roots have?",
+   "premises": [
+    "ear roots are two measures",
+    "they are likewise high together"
+   ],
+   "inference": "the ear roots measure two and are raised together",
+   "uncertainties": [
+    "exact height reference"
+   ],
+   "plain_english": "The ear roots are two measures, likewise raised together."
+  },
+  {
+   "verse": 4984,
+   "rows": [
+    {
+     "surface": "karṇau",
+     "gloss": "ears",
+     "grounds": "nominative dual",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "pañcāṅgulāyāmau",
+     "gloss": "five-finger-length",
+     "grounds": "compound pañca+aṅgula+āyāmau",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "kalāvṛttasamudbhavau",
+     "gloss": "art-circle-born",
+     "grounds": "compound kalā+vṛtta+sambhavau",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "What length and origin are given for the ears?",
+   "premises": [
+    "ears are five fingers long",
+    "they arise from art circle"
+   ],
+   "inference": "the ears are five fingers long and art-circle born",
+   "uncertainties": [
+    "meaning of kalā here"
+   ],
+   "plain_english": "The ears are five fingers long, born from the art circle."
+  },
+  {
+   "verse": 4985,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgulāvṛtau",
+     "gloss": "six-finger-curved",
+     "grounds": "compound ṣaḍ+aṅgula+āvṛtau",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ṛjurekhāvibhūṣitau",
+     "gloss": "straight-line-adorned",
+     "grounds": "compound ṛju+rekhā+vibhūṣitau",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "How are the ears curved and adorned at the root?",
+   "premises": [
+    "at root they are six fingers curved",
+    "they are adorned with straight line"
+   ],
+   "inference": "the ears are six-finger curved at root and straight-line adorned",
+   "uncertainties": [
+    "exact curvature sense"
+   ],
+   "plain_english": "At the root they are six fingers curved, adorned with a straight line."
+  },
+  {
+   "verse": 4986,
+   "rows": [
+    {
+     "surface": "ardhāṅgulāgravistāraḥ",
+     "gloss": "half-finger-tip-width",
+     "grounds": "compound ardha+aṅgula+agra+vistāraḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "manāk",
+     "gloss": "slightly",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vakrasamanvitaḥ",
+     "gloss": "curved-together",
+     "grounds": "compound vakra+samanvitaḥ",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What tip width and curvature are specified?",
+   "premises": [
+    "tip width is half finger",
+    "slightly curved together"
+   ],
+   "inference": "the tip width is half a finger with slight curvature",
+   "uncertainties": [
+    "reference of vakrasamanvitaḥ"
+   ],
+   "plain_english": "The tip width is half a finger, slightly curved."
+  },
+  {
+   "verse": 4987,
+   "rows": [
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "lump",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "aṅgulamānaṃ",
+     "gloss": "finger-measure",
+     "grounds": "compound aṅgula+mānaṃ",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ucchritaṃ",
+     "gloss": "raised",
+     "grounds": "past participle of ucchri",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śṛṅgamūlayoḥ",
+     "gloss": "of-horn-roots",
+     "grounds": "compound śṛṅga+mūlayoḥ",
+     "morph": "gen.du.n"
+    }
+   ],
+   "question": "What lump measure and raised height are at horn roots?",
+   "premises": [
+    "lump is finger measure",
+    "raised at horn roots"
+   ],
+   "inference": "the lump measures one finger and is raised at horn roots",
+   "uncertainties": [
+    "what piṇḍaṃ denotes"
+   ],
+   "plain_english": "The lump is one finger measure, raised at the horn roots."
+  }
+ ]
+}

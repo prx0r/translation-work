@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p186",
+ "items": [
+  {
+   "verse": 4650,
+   "rows": [
+    {
+     "surface": "jalamadhye",
+     "gloss": "in-water",
+     "grounds": "locative sense of being in water",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "prapāṃ",
+     "gloss": "canopy",
+     "grounds": "accusative object of making",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund of root kṛ",
+     "morph": "ger."
+    },
+    {
+     "surface": "caturgātrasamanvitam",
+     "gloss": "four-limbed",
+     "grounds": "compound describing the canopy",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What kind of canopy should be made in water?",
+   "premises": [
+    "in water a canopy is made",
+    "the canopy is four-limbed"
+   ],
+   "inference": "the ritual canopy in water must be four-limbed",
+   "uncertainties": [
+    "exact ritual function of prapā remains unclear"
+   ],
+   "plain_english": "In water, make a canopy endowed with four limbs."
+  }
+ ]
+}
