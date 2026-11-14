@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1110,
- "question": "What request did the maiden make to the chief of the demons?",
+ "question": "With what should the mantra diagram be written?",
  "premises": [
-  "The maiden approached the demon chief.",
-  "She asked him for something.",
-  "The object of her request was food."
+  "mantra diagram is written",
+  "camphor and saffron are used"
  ],
- "inference": "The maiden asked the chief of the demons for food.",
- "uncertainties": [],
- "plain_english": "The maiden asked that chief of demons for food."
+ "inference": "the mantra diagram should be written with camphor and saffron",
+ "uncertainties": [
+  "exact mixture unspecified"
+ ],
+ "plain_english": "Having written that mantra diagram with camphor and saffron."
 }

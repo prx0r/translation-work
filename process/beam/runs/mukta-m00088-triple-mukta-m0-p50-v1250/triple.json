@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "vasūni",
+     "gloss": "wealths",
+     "grounds": "plural accusative object",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "garland",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhūṣāṃ+ca",
+     "gloss": "ornaments-too",
+     "grounds": "accusative noun with fused conjunction",
+     "morph": "f.acc.sg+indecl"
+    },
+    {
+     "surface": "dadyuḥ",
+     "gloss": "would-give",
+     "grounds": "optative of root dā",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "icchayā",
+     "gloss": "by-wish",
+     "grounds": "instrumental means",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "bhṛśam",
+     "gloss": "greatly",
+     "grounds": "adverbial intensifier",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What do accomplished Dakinis bestow upon the practitioner when he desires it?",
+   "premises": [
+    "accomplished Dakinis become visible",
+    "they grant desired things",
+    "they give wealths garland ornaments"
+   ],
+   "inference": "The practitioner receives wealths, garland, and ornaments greatly by his wish.",
+   "uncertainties": [
+    "exact referent of 'they' depends on prior context",
+    "whether 'vasūni' means treasures or wealths"
+   ],
+   "plain_english": "They would give him wealths, a garland, and ornaments too, greatly, by his wish."
+  }
+ ]
+}

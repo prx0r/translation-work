@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1107,
- "question": "Which divine abodes did the demon seize after gaining his power?",
+ "question": "Which sacrifice is praised among all sacrifices?",
  "premises": [
-  "The demon seized Viṣṇu's abode.",
-  "He also seized Brahmā's lotus-seat.",
-  "These acts specify what he took."
+  "all sacrifices are considered",
+  "recitation sacrifice is praised"
  ],
- "inference": "Having seized Viṣṇu's abode and Brahmā's lotus-seat, the demon took control of their domains.",
- "uncertainties": [],
- "plain_english": "Having seized the abode of Viṣṇu and the lotus-seat of Brahmā..."
+ "inference": "recitation sacrifice is praised among all sacrifices",
+ "uncertainties": [
+  "comparative basis unspecified"
+ ],
+ "plain_english": "Among all sacrifices, the sacrifice of recitation is praised."
 }

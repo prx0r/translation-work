@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1111,
- "question": "What reason and request did the maiden present to the great king?",
+ "question": "Where should the written diagram be placed?",
  "premises": [
-  "The maiden declared herself hungry.",
-  "She addressed the demon as great king.",
-  "She asked that food be given to her."
+  "milk ghee honey water are present",
+  "written diagram is in their middle"
  ],
- "inference": "The maiden told the great king she was hungry and asked him to give her food.",
- "uncertainties": [],
- "plain_english": "I am hungry, O great king; let food be given to me."
+ "inference": "the written diagram should be in the middle of milk, ghee, honey, and water",
+ "uncertainties": [
+  "ritual use unspecified"
+ ],
+ "plain_english": "The written diagram should be in the middle of milk, ghee, honey, and water."
 }

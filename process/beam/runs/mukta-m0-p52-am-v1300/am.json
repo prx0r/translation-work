@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1300,
- "question": "Which sacred sites are located in the northwest and north directions?",
+ "question": "Under what condition does the annual worship become fruitful?",
  "premises": [
-  "Jālandhara is assigned to the northwest direction.",
-  "Kolāpūra is assigned to the north direction.",
-  "The verse continues the directional placement of sacred sites."
+  "annual worship becomes fruitful",
+  "otherwise it does not",
+  "proper performance is required"
  ],
- "inference": "Jālandhara occupies the northwest, while Kolāpūra occupies the north.",
+ "inference": "The verse states that annual worship yields fruit only when performed as prescribed, not otherwise.",
  "uncertainties": [
-  "The grammatical case of the site names is taken as accusative in form but functions as a locative designation in this listing."
+  "the exact ritual conditions making the worship fruitful are not specified in this verse"
  ],
- "plain_english": "Jālandhara is in the northwest, and Kolāpūra is in the north."
+ "plain_english": "His annual worship becomes fruitful; otherwise it does not."
 }

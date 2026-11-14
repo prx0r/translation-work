@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1160,
- "question": "What qualities define the visualized form's radiance and power?",
+ "question": "What should the best practitioner utter before worship?",
  "premises": [
-  "The form is splendid as the rising sun",
-  "The form is powerful",
-  "It possesses abundant beauty"
+  "heart mantra is uttered",
+  "best practitioner worships"
  ],
- "inference": "The visualized form is powerful and splendid as the rising sun, with abundant beauty.",
- "uncertainties": [],
- "plain_english": "Splendid as the rising sun, powerful, with an abundance of beauty."
+ "inference": "The best practitioner utters the heart mantra and then worships.",
+ "uncertainties": [
+  "exact heart mantra"
+ ],
+ "plain_english": "Having uttered the heart mantra, the best practitioner worships."
 }

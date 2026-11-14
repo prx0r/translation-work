@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "tadaṅgahomaṃ",
+     "gloss": "its-anga-homa",
+     "grounds": "compound object of nirvartya; accusative singular neuter",
+     "morph": "compound=tad+aṅga+homa, n.acc.sg"
+    },
+    {
+     "surface": "nirvartya",
+     "gloss": "having-performed",
+     "grounds": "absolutive/gerund governing the preceding accusative object",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pavitreṇa",
+     "gloss": "with-pavitra",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "should-offer",
+     "grounds": "optative verb of offering",
+     "morph": "3.sg.act-opt, root samṛp"
+    }
+   ],
+   "question": "After performing its anga-homa, what should be offered to Kurukullā with the pavitra?",
+   "premises": [
+    "The anga-homa must be performed first.",
+    "The pavitra is then offered.",
+    "Offering follows the anga-homa."
+   ],
+   "inference": "Perform the anga-homa, then offer with the pavitra.",
+   "uncertainties": [
+    "The exact referent of tad- (its) is not explicit in this verse."
+   ],
+   "plain_english": "After performing its anga-homa, one should offer with the pavitra."
+  }
+ ]
+}

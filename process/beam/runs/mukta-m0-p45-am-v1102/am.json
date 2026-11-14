@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1102,
- "question": "What wonderful narrative is to be told in connection with Mahākālī?",
+ "question": "How should a gift be given to the teacher?",
  "premises": [
-  "The narrative is linked to Mahākālī.",
-  "The account is described as wonderful.",
-  "A specific story is being introduced."
+  "gift is given to teacher",
+  "giving follows one's means"
  ],
- "inference": "The requested account is a wonderful narrative connected with Mahākālī.",
- "uncertainties": [],
- "plain_english": "Tell this wonderful narrative in connection with Mahākālī."
+ "inference": "one should give the teacher a gift according to one's means",
+ "uncertainties": [
+  "exact gift type unspecified"
+ ],
+ "plain_english": "One should give the teacher a gift according to one's means."
 }

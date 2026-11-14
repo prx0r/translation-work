@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1146,
- "question": "What sovereign care and satisfaction does the goddess provide to warriors?",
+ "question": "What should not be made knotless and touched?",
  "premises": [
-  "She embodies the sovereignty of warriors.",
-  "She is sovereign over warriors.",
-  "She regards and satisfies warriors."
+  "knotless is named",
+  "not to be made is named",
+  "touched-untouched is named"
  ],
- "inference": "The goddess exercises sovereign power while caring for and satisfying warriors.",
- "uncertainties": [],
- "plain_english": "She is the sovereignty of warriors, sovereign over warriors, regards warriors, and satisfies warriors."
+ "inference": "The verse says a knotless thing should not be made, and touched-untouched is not defiled.",
+ "uncertainties": [
+  "spṛṣṭāspṛṣṭe may be two states"
+ ],
+ "plain_english": "A knotless thing should not be made, and touched-untouched is not defiled."
 }
