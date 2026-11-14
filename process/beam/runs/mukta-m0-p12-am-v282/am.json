@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 282,
- "question": "What gift does the goddess bestow when midnight has passed?",
+ "question": "How are the fourteen divisions arranged with half-part measures?",
  "premises": [
-  "The time is after midnight",
-  "The goddess is the giver",
-  "A thousand dinars are given"
+  "The whole is divided into fourteen.",
+  "Divisions include two, one, and two-and-a-half parts.",
+  "Additional half parts are included."
  ],
- "inference": "After midnight has passed, the goddess gives a thousand dinars.",
- "uncertainties": [],
- "plain_english": "When midnight has passed, the goddess gives a thousand dinars."
+ "inference": "The fourteenfold division is arranged in two, one, and two-and-a-half parts with added half parts.",
+ "uncertainties": [
+  "Precise mapping of each segment to the total"
+ ],
+ "plain_english": "When divided into fourteen, it is arranged in two, one, and two-and-a-half parts with additional half parts."
 }

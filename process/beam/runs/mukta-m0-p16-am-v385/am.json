@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p16",
  "verse": 385,
- "question": "Whose sight brings complete satisfaction to both gods and ancestors?",
+ "question": "How many fire-pits may be placed in the middle of the platform within the pavilion?",
  "premises": [
-  "Satisfaction arises through sight",
-  "Gods are satisfied",
-  "Ancestors are also satisfied"
+  "The location is the middle of the platform.",
+  "The structure is a pavilion.",
+  "The fire-pits may number five, eight, or nine."
  ],
- "inference": "A particular vision is so potent that it satisfies both gods and ancestors.",
- "uncertainties": [
-  "the object of sight causing satisfaction is unstated"
- ],
- "plain_english": "Because by that sight the gods and also the ancestors are fully satisfied."
+ "inference": "A pavilion with five, eight, or nine fire-pits in the middle of the platform is specified.",
+ "uncertainties": [],
+ "plain_english": "Make a pavilion with five, eight, or nine fire-pits in the middle of the platform."
 }

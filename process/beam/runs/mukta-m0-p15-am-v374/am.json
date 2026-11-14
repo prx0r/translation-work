@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 374,
- "question": "How could supreme beauty here not be taken as above all else?",
+ "question": "What features make the described structure well adorned and splendid?",
  "premises": [
-  "Supreme beauty is taken here",
-  "It is questioned whether it is not above all",
-  "The question implies its supremacy"
+  "A structure can be adorned with various elements.",
+  "Fame pillars, water gardens, houses, and pavilions are such elements.",
+  "These elements make the structure well adorned."
  ],
- "inference": "The supreme beauty assumed here must be above all",
- "uncertainties": [],
- "plain_english": "It takes on supreme beauty here—how could it not be above all?"
+ "inference": "The structure is well adorned with fame pillars, water gardens, houses, and pavilions.",
+ "uncertainties": [
+  "The exact referent of the adorned structure is implied from context."
+ ],
+ "plain_english": "It is well adorned with pillars of fame, water gardens, houses, and pavilions."
 }

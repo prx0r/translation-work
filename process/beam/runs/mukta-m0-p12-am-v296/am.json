@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 296,
- "question": "What worship and recitation must be performed before the goddess appears?",
+ "question": "What range and reduction apply to the measure in four cubits?",
  "premises": [
-  "Worship is performed with jasmine flowers",
-  "The mantra is repeated afterward",
-  "The repetition is done a thousand times"
+  "The range extends from five up to ten.",
+  "A reduction involving half, two, and a quarter is specified.",
+  "The base context is four cubits."
  ],
- "inference": "After worshipping with jasmine flowers, one should repeat the mantra a thousand times.",
- "uncertainties": [],
- "plain_english": "Then, having worshipped with jasmine flowers, one should repeat the mantra a thousand times."
+ "inference": "In four cubits, the measure ranges from five to ten with a specified reduction of half, two, and a quarter.",
+ "uncertainties": [
+  "Exact arithmetic interpretation of the compound reduction"
+ ],
+ "plain_english": "From five up to ten, in four cubits, it is less by half, two, and a quarter."
 }

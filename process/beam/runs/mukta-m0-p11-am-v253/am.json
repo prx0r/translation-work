@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 253,
- "question": "Why does the herd of deer bow to the five-faced lord?",
+ "question": "What widths are assigned to the corner and the corner element?",
  "premises": [
-  "The deer herd bows to the deity.",
-  "The bowing is for obtaining grace.",
-  "The herd has cast off pride."
+  "The corner is two parts in measure.",
+  "The corner element is one and a half parts.",
+  "These measures are taken with broad widths."
  ],
- "inference": "Humble devotion from the animal realm seeks the grace of the five-faced lord.",
- "uncertainties": [],
- "plain_english": "The herd of deer, having cast off pride, bows to you, the five-faced lord, seeking your grace."
+ "inference": "The corner and corner element are set at two parts and one and a half parts respectively with broad widths.",
+ "uncertainties": [
+  "The reference scale for these parts is implied rather than stated."
+ ],
+ "plain_english": "The corner should be two parts, and the corner element one and a half parts, with broad widths."
 }
