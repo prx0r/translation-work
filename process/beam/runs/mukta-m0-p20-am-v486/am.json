@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p20",
  "verse": 486,
- "question": "How many mantras should be applied in this step?",
+ "question": "What musical accompaniment is permitted at the gateway tower during the procession?",
  "premises": [
-  "thirteen mantras are named",
-  "they are to be applied",
-  "the instruction is optative"
+  "The location is the gateway tower.",
+  "The procession may be without musical instruments.",
+  "Alternatively it may be accompanied by the sound of the conch."
  ],
- "inference": "Thirteen mantras should be applied.",
- "uncertainties": [
-  "exact mantras not listed"
- ],
- "plain_english": "One should apply the thirteen mantras."
+ "inference": "At the gateway tower the procession may be without instruments or accompanied by conch sound.",
+ "uncertainties": [],
+ "plain_english": "At the gateway tower it may be without musical instruments, or accompanied by the sound of the conch."
 }

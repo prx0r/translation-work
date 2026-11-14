@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p20",
  "verse": 479,
- "question": "In what direction should petal worship begin after the previous step?",
+ "question": "What ceremonial insignia should accompany the daily festival procession?",
  "premises": [
-  "petal is the object",
-  "beginning is specified",
-  "counter-clockwise direction is used"
+  "The procession is united with umbrella and flywhisk.",
+  "The procession is accompanied by various banners.",
+  "These items are part of the prescribed arrangement."
  ],
- "inference": "Petal worship begins counter-clockwise from the stated point.",
- "uncertainties": [
-  "final token is unreadable"
- ],
- "plain_english": "Then, beginning with the petal, proceed counter-clockwise, O beautiful one."
+ "inference": "The procession should be accompanied by an umbrella, flywhisk, and various banners.",
+ "uncertainties": [],
+ "plain_english": "It should be accompanied by an umbrella and flywhisk, and furnished with various banners."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p20",
  "verse": 497,
- "question": "Where is the noose-goad quartet located?",
+ "question": "What ritual sequence defines the full extent of a festival?",
  "premises": [
-  "noose and goad are named",
-  "this quartet is identified",
-  "it is near her arms"
+  "The rite begins with flag raising.",
+  "The rite ends with flag lowering.",
+  "This entire sequence is called a festival."
  ],
- "inference": "The noose-goad quartet is located near her arms.",
- "uncertainties": [
-  "other two members unspecified"
- ],
- "plain_english": "This noose-goad quartet is near her arms."
+ "inference": "The rite extending from flag raising to flag lowering is called a festival.",
+ "uncertainties": [],
+ "plain_english": "The rite that extends from the raising to the lowering of the flag is called a festival."
 }
