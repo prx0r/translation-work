@@ -1,0 +1,1103 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 551,
+   "rows": [
+    {
+     "surface": "tatkavacādikaṃ",
+     "gloss": "that-armor-etc",
+     "grounds": "fused sandhi form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past passive participle",
+     "morph": "3.sg.pass.past"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "future passive participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puraṣkriyā",
+     "gloss": "preliminary-rite",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What preliminary rite is to be performed after the armor and related items are declared?",
+   "premises": [
+    "armor and related items are declared",
+    "that rite is to be done",
+    "the rite is preliminary"
+   ],
+   "inference": "The declared armor sequence leads to a preliminary rite that must be performed.",
+   "uncertainties": [
+    "exact scope of ādi unclear"
+   ],
+   "plain_english": "After the armor and related items are declared, that preliminary rite is to be done."
+  },
+  {
+   "verse": 552,
+   "rows": [
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-rite",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "stotramātre",
+     "gloss": "hymn-only",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many repetitions are declared for a preliminary rite consisting only of hymn recitation?",
+   "premises": [
+    "ten thousand is stated",
+    "preliminary rite is named",
+    "hymn-only condition is given"
+   ],
+   "inference": "A hymn-only preliminary rite is declared to require ten thousand repetitions.",
+   "uncertainties": [
+    "whether ayutaṃ modifies repetitions or offerings"
+   ],
+   "plain_english": "Ten thousand is declared for a preliminary rite that is only hymn recitation."
+  },
+  {
+   "verse": 553,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraṣkriyā",
+     "gloss": "preliminary-rite",
+     "grounds": "compound noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "daśāṃśahavanādikam",
+     "gloss": "tenth-part-offering-etc",
+     "grounds": "fused sandhi form",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering sequence follows after performing the preliminary rite in this manner?",
+   "premises": [
+    "preliminary rite is performed",
+    "tenth-part offering follows",
+    "etcetera indicates further rites"
+   ],
+   "inference": "After performing the preliminary rite, one proceeds to tenth-part offering and related rites.",
+   "uncertainties": [
+    "exact list after ādi"
+   ],
+   "plain_english": "Having performed the preliminary rite thus, one does tenth-part offering and the rest."
+  },
+  {
+   "verse": 554,
+   "rows": [
+    {
+     "surface": "mahākālamatenoktaṃ",
+     "gloss": "great-time-doctrine",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatrasthaṃ",
+     "gloss": "there-situated",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "When may one perform what the great-time doctrine situates there?",
+   "premises": [
+    "great-time doctrine is cited",
+    "there-situated item is named",
+    "conditional permission is stated"
+   ],
+   "inference": "If the item situated there is present, one should perform it according to the great-time doctrine.",
+   "uncertainties": [
+    "referent of tatrasthaṃ"
+   ],
+   "plain_english": "If it is situated there, one should perform it as stated in the great-time doctrine."
+  },
+  {
+   "verse": 555,
+   "rows": [
+    {
+     "surface": "viprasantoṣaṇenaiva",
+     "gloss": "by-brahmin-satisfaction",
+     "grounds": "fused sandhi form",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "present indicative",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-parvati",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What single means is said to make everything succeed for Parvati?",
+   "premises": [
+    "brahmin satisfaction is named",
+    "all is said to succeed",
+    "Parvati is addressed"
+   ],
+   "inference": "Everything succeeds through satisfaction of brahmins.",
+   "uncertainties": [
+    "whether eva emphasizes exclusivity"
+   ],
+   "plain_english": "O Parvati, everything succeeds by satisfying brahmins."
+  },
+  {
+   "verse": 556,
+   "rows": [
+    {
+     "surface": "shasranāmarūpaṃ",
+     "gloss": "thousand-names-form",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīdṛśaṃ",
+     "gloss": "what-like",
+     "grounds": "interrogative adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-lady",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the form of the thousand names, O supreme lady?",
+   "premises": [
+    "thousand-names form is named",
+    "question asks its nature",
+    "supreme lady is addressed"
+   ],
+   "inference": "The verse asks what the thousand-names form is like.",
+   "uncertainties": [
+    "exact referent of form"
+   ],
+   "plain_english": "And what is the form of the thousand names, O supreme lady?"
+  },
+  {
+   "verse": 557,
+   "rows": [
+    {
+     "surface": "śivadevyāstu",
+     "gloss": "shiva-goddess-dialogue",
+     "grounds": "fused sandhi form",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "saṃvādo",
+     "gloss": "saṃvādaḥ",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmarandhreti",
+     "gloss": "brahmarandhra",
+     "grounds": "fused sandhi form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "called",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the dialogue between Shiva and the goddess said to be located?",
+   "premises": [
+    "Shiva-goddess dialogue is named",
+    "brahmarandhra is cited",
+    "it is called there"
+   ],
+   "inference": "The dialogue between Shiva and the goddess is called located at brahmarandhra.",
+   "uncertainties": [
+    "exact grammatical relation of eti"
+   ],
+   "plain_english": "The dialogue of Shiva and the goddess is called located at brahmarandhra."
+  },
+  {
+   "verse": 558,
+   "rows": [
+    {
+     "surface": "chando",
+     "gloss": "meter",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What becomes the face and what becomes the heart in this hymn doctrine?",
+   "premises": [
+    "meter becomes face",
+    "goddess is addressed",
+    "deity becomes heart"
+   ],
+   "inference": "Meter is the face and deity is the heart of the hymn.",
+   "uncertainties": [
+    "whether bhaved and bhavet differ in force"
+   ],
+   "plain_english": "O goddess, meter becomes the face, and deity becomes the heart."
+  },
+  {
+   "verse": 559,
+   "rows": [
+    {
+     "surface": "sarvogakalpanaṃ",
+     "gloss": "all-organ-conception",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthavādaḥ",
+     "gloss": "praise-words",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the conception of all organs declared in this hymn doctrine?",
+   "premises": [
+    "all-organ conception is named",
+    "goddess is addressed",
+    "praise-words are declared"
+   ],
+   "inference": "The conception of all organs is declared as praise-words.",
+   "uncertainties": [
+    "exact meaning of sarvoga"
+   ],
+   "plain_english": "O goddess, the conception of all organs is indeed declared as praise-words."
+  },
+  {
+   "verse": 560,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadeveśi",
+     "gloss": "god-of-gods-lord",
+     "grounds": "compound vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "stotrarūpaṃ",
+     "gloss": "hymn-form",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtiam",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form is declared thus for the lord of gods?",
+   "premises": [
+    "thus is stated",
+    "lord of gods is addressed",
+    "hymn-form is declared"
+   ],
+   "inference": "The hymn-form is declared thus for the lord of gods.",
+   "uncertainties": [
+    "typo prakīrtiam for prakīrtitam"
+   ],
+   "plain_english": "Thus, O lord of gods, the hymn-form is declared."
+  },
+  {
+   "verse": 561,
+   "rows": [
+    {
+     "surface": "aṅgahīne",
+     "gloss": "limb-deficient",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavennāśaṃ",
+     "gloss": "destruction",
+     "grounds": "fused sandhi form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-lady",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What result is said to occur when a limb is deficient?",
+   "premises": [
+    "limb-deficient condition is named",
+    "destruction is stated",
+    "in every way is emphasized"
+   ],
+   "inference": "When a limb is deficient, destruction occurs in every way.",
+   "uncertainties": [
+    "exact scope of aṅga"
+   ],
+   "plain_english": "O supreme lady, when a limb is deficient, there is destruction in every way."
+  },
+  {
+   "verse": 562,
+   "rows": [
+    {
+     "surface": "ādyopāntaṃ",
+     "gloss": "from-beginning-to-end",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "binā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "phalamardhaṃ",
+     "gloss": "fruit-half",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fruit is declared when recitation runs from beginning to end without omission?",
+   "premises": [
+    "from beginning to end is stated",
+    "without is stated",
+    "half fruit is declared"
+   ],
+   "inference": "Reciting from beginning to end without omission yields half the fruit.",
+   "uncertainties": [
+    "whether binā modifies recitation or offering"
+   ],
+   "plain_english": "O goddess, reciting from beginning to end without omission yields half the fruit."
+  },
+  {
+   "verse": 563,
+   "rows": [
+    {
+     "surface": "homaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "future passive participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ślokānte",
+     "gloss": "at-verse-end",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "havanaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the offering to be done, at verse end or otherwise?",
+   "premises": [
+    "offering is to be done",
+    "how is asked",
+    "verse end is proposed"
+   ],
+   "inference": "The verse asks how offering should be performed, considering verse-end placement.",
+   "uncertainties": [
+    "whether ca vā means and or"
+   ],
+   "plain_english": "O goddess, how is the offering to be done—at verse end or otherwise?"
+  },
+  {
+   "verse": 564,
+   "rows": [
+    {
+     "surface": "ādyopāntaṃ",
+     "gloss": "from-beginning-to-end",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhitvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāttu",
+     "gloss": "afterwards",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "havanaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "opinion",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "When is offering considered proper after recitation?",
+   "premises": [
+    "recitation from beginning to end occurs",
+    "afterwards is stated",
+    "offering is considered"
+   ],
+   "inference": "Offering is considered proper after reciting from beginning to end.",
+   "uncertainties": [
+    "whether tu is emphatic"
+   ],
+   "plain_english": "Having recited from beginning to end, afterwards offering is considered proper."
+  },
+  {
+   "verse": 565,
+   "rows": [
+    {
+     "surface": "nāmānte",
+     "gloss": "at-name-end",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "havanaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsyāt",
+     "gloss": "will-be",
+     "grounds": "future indicative",
+     "morph": "3.sg.act.fut"
+    },
+    {
+     "surface": "upoddhāte",
+     "gloss": "upoddhāta",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How does offering at name-end relate to upoddhāta?",
+   "premises": [
+    "offering at name-end is stated",
+    "upoddhāta is cited",
+    "how is asked"
+   ],
+   "inference": "The verse asks how offering at name-end becomes connected with upoddhāta.",
+   "uncertainties": [
+    "meaning of utsyāt"
+   ],
+   "plain_english": "Offering at name-end will be; how does it become in upoddhāta?"
+  },
+  {
+   "verse": 566,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmāntakaṃ",
+     "gloss": "name-ending",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ślokāntaṃ",
+     "gloss": "verse-ending",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "o-supreme-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What two ending points are named there for offering?",
+   "premises": [
+    "there is stated",
+    "name-ending is named",
+    "verse-ending is named"
+   ],
+   "inference": "There, either name-ending or verse-ending may be used.",
+   "uncertainties": [
+    "whether vāpi is inclusive"
+   ],
+   "plain_english": "There, O supreme lord, either name-ending or verse-ending may apply."
+  },
+  {
+   "verse": 567,
+   "rows": [
+    {
+     "surface": "sāṅkhyāyanamate",
+     "gloss": "sāṅkhyāyana-doctrine",
+     "grounds": "fused sandhi form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "gauḍapāṭhavidhirmatā",
+     "gloss": "gauḍa-recitation-rite",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What recitation rite is considered under the Sāṅkhyāyana doctrine?",
+   "premises": [
+    "Sāṅkhyāyana doctrine is cited",
+    "goddess is addressed",
+    "Gauḍa recitation rite is considered"
+   ],
+   "inference": "Under the Sāṅkhyāyana doctrine, the Gauḍa recitation rite is considered.",
+   "uncertainties": [
+    "exact relation of mate"
+   ],
+   "plain_english": "O goddess, under the Sāṅkhyāyana doctrine, the Gauḍa recitation rite is considered."
+  },
+  {
+   "verse": 568,
+   "rows": [
+    {
+     "surface": "ślokārdhaṃ",
+     "gloss": "verse-half",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādamātraṃ",
+     "gloss": "foot-only",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādārdhaṃ",
+     "gloss": "foot-half",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāmamātrakam",
+     "gloss": "name-only",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What smaller recitation units are listed as alternatives?",
+   "premises": [
+    "verse-half is listed",
+    "foot-only is listed",
+    "foot-half and name-only are listed"
+   ],
+   "inference": "The alternatives include verse-half, foot-only, foot-half, and name-only.",
+   "uncertainties": [
+    "whether these are exhaustive"
+   ],
+   "plain_english": "Verse-half, foot-only, foot-half, or name-only may be used."
+  },
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "sāṅkhyāyanamataṃ",
+     "gloss": "sāṅkhyāyana-doctrine",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upoddhātaṃ",
+     "gloss": "upoddhāta",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should the dear one hear about the Sāṅkhyāyana doctrine?",
+   "premises": [
+    "Sāṅkhyāyana doctrine is said",
+    "upoddhāta is named",
+    "dear one is addressed"
+   ],
+   "inference": "The dear one should hear the upoddhāta as stated in the Sāṅkhyāyana doctrine.",
+   "uncertainties": [
+    "exact meaning of upoddhāta"
+   ],
+   "plain_english": "Hear, dear one, the upoddhāta as stated in the Sāṅkhyāyana doctrine."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "tadante",
+     "gloss": "there-end",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "havanaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāṅkhyāano",
+     "gloss": "sāṅkhyāyana",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abravīt",
+     "gloss": "said",
+     "grounds": "aorist indicative",
+     "morph": "3.sg.act.aor"
+    }
+   ],
+   "question": "What did Sāṅkhyāyana say should be done at the end?",
+   "premises": [
+    "at the end is stated",
+    "offering should be done",
+    "Sāṅkhyāyana said thus"
+   ],
+   "inference": "Sāṅkhyāyana said that offering should be done at the end.",
+   "uncertainties": [
+    "typo sāṅkhyāano"
+   ],
+   "plain_english": "Sāṅkhyāyana said that offering should be done at the end."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "upakramopasaṃhāre",
+     "gloss": "beginning-conclusion",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ślokānte",
+     "gloss": "verse-end",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "havanaṃ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "view",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is offering considered proper according to this view?",
+   "premises": [
+    "beginning and conclusion are named",
+    "verse end is named",
+    "offering is considered"
+   ],
+   "inference": "Offering is considered proper at verse end in beginning and conclusion.",
+   "uncertainties": [
+    "whether upakrama and upasaṃhāra are separate"
+   ],
+   "plain_english": "Offering is considered proper at verse end in beginning and conclusion."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pāṭhyāni",
+     "gloss": "to-be-recited",
+     "grounds": "future passive participle",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-rite",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is declared about names recited in the middle?",
+   "premises": [
+    "middle is stated",
+    "names to be recited are named",
+    "preliminary rite is declared"
+   ],
+   "inference": "Names to be recited in the middle are declared as preliminary rite.",
+   "uncertainties": [
+    "exact relation of madhye"
+   ],
+   "plain_english": "Names to be recited in the middle are declared as preliminary rite."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "stotramāvartya",
+     "gloss": "hymn",
+     "grounds": "fused sandhi form",
+     "morph": "abs"
+    },
+    {
+     "surface": "saṃpūrṇa",
+     "gloss": "having-completed",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadante",
+     "gloss": "there-end",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gaṇanāṃ",
+     "gloss": "counting",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one do after completing and reciting the hymn?",
+   "premises": [
+    "hymn is recited",
+    "completion is stated",
+    "counting should be done at end"
+   ],
+   "inference": "After completing and reciting the hymn, one should do counting at the end.",
+   "uncertainties": [
+    "whether stotramāvartya includes repetition"
+   ],
+   "plain_english": "Having recited the hymn to completion, one should do counting at the end."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "sampūrṇahomayogastu",
+     "gloss": "complete-offering-yoga",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathitastu",
+     "gloss": "said",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priyaṃvade",
+     "gloss": "o-dear-speaker",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What complete offering yoga is said to the dear speaker?",
+   "premises": [
+    "complete offering yoga is named",
+    "it is said",
+    "dear speaker is addressed"
+   ],
+   "inference": "The complete offering yoga is said to the dear speaker.",
+   "uncertainties": [
+    "exact meaning of yoga here"
+   ],
+   "plain_english": "O dear speaker, the complete offering yoga is said."
+  }
+ ]
+}

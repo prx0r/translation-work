@@ -3,24 +3,29 @@
  "verse": 650,
  "rows": [
   {
-   "lemma": "etā",
-   "morph": "f.nom.pl",
-   "grounds": "demonstrative pronoun feminine plural nominative referring to the yoginis"
+   "lemma": "kāmena",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental of kāma"
   },
   {
-   "lemma": "rahasyayoginyaḥ",
-   "morph": "f.nom.pl",
-   "grounds": "compound of rahasya and yoginī, feminine plural nominative"
+   "lemma": "yojayetkāmaṃ",
+   "morph": "3.sg.act.opt + m.acc.sg",
+   "grounds": "fused optative verb yojayet with accusative kāmam"
   },
   {
-   "lemma": "prathamāvaraṇe",
-   "morph": "n.loc.sg",
-   "grounds": "locative singular of prathama-āvaraṇa"
+   "lemma": "kāmaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "accusative object of yojayet"
   },
   {
-   "lemma": "sthitāḥ",
-   "morph": "f.nom.pl.ppp",
-   "grounds": "past participle of sthā, feminine plural nominative"
+   "lemma": "kāmena",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental of kāma"
+  },
+  {
+   "lemma": "yojayet",
+   "morph": "3.sg.act.opt",
+   "grounds": "causative optative of yuj"
   }
  ]
 }

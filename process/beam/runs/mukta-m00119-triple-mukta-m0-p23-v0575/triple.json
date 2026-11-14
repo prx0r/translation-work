@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "kāśmīrakeralākhye",
+     "gloss": "kashmir-kerala-named",
+     "grounds": "compound naming the two regions; locative sense in context",
+     "morph": "loc.sg.m (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacid",
+     "gloss": "somewhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedo'sti",
+     "gloss": "difference-exists",
+     "grounds": "fused form of bhedah + asti; sandhi at the boundary",
+     "morph": "3.sg.act-pres (asti) with nom.sg.m (bhedah)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-parvati",
+     "grounds": "vocative address to Parvati",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Where does a named regional difference between Kashmir and Kerala arise in this homa yoga?",
+   "premises": [
+    "Kashmir and Kerala are named regions.",
+    "A difference exists somewhere.",
+    "Parvati is addressed."
+   ],
+   "inference": "The verse marks a regional variant within the completed homa yoga.",
+   "uncertainties": [
+    "The exact ritual difference is not specified in this verse."
+   ],
+   "plain_english": "In the regions called Kashmir and Kerala, a difference exists somewhere, O Parvati."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "sarpādijīvanaṣṭān",
+     "gloss": "snake-etc-life-lost",
+     "grounds": "compound adjective describing beings whose lives are lost to snakes and similar dangers",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajavyāghravidāritān",
+     "gloss": "elephant-tiger-torn",
+     "grounds": "compound adjective describing beings torn by elephants and tigers",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "Which beings whose lives are lost to snakes and who are torn by elephants or tigers are included among the eligible?",
+   "premises": [
+    "Snake-lost lives are included.",
+    "Elephant-tiger torn beings are included.",
+    "The verse lists eligible recipients."
+   ],
+   "inference": "The verse extends eligibility to those killed by dangerous animals.",
+   "uncertainties": [
+    "Exact ritual referent of the listed beings is not stated in this verse."
+   ],
+   "plain_english": "Those whose lives are lost to snakes and the like, and those torn by elephants and tigers, are indeed included."
+  }
+ ]
+}

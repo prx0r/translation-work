@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "uḍḍyānaṃ",
+     "gloss": "uddiyana",
+     "grounds": "neuter noun in -a; nominative/accusative singular form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahadevi",
+     "gloss": "great-goddess",
+     "grounds": "feminine vocative singular of mahādevī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saucikī",
+     "gloss": "washerwoman",
+     "grounds": "feminine noun/adjective in -ī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pauṇḍravardhanam",
+     "gloss": "paundravardhana",
+     "grounds": "neuter noun in -a; nominative/accusative singular form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which sacred place-name is paired with the washerwoman in the Uddiyana statement?",
+   "premises": [
+    "Uddiyana is addressed to the great goddess.",
+    "Sauciki denotes a washerwoman.",
+    "Paundravardhana is a place-name."
+   ],
+   "inference": "The verse pairs Uddiyana with the washerwoman and Pauṇḍravardhana.",
+   "uncertainties": [
+    "The exact syntactic relation among the three nouns is not explicit."
+   ],
+   "plain_english": "Uddiyana, O great goddess, [is] the washerwoman Pauṇḍravardhana."
+  }
+ ]
+}

@@ -3,29 +3,34 @@
  "verse": 550,
  "rows": [
   {
-   "lemma": "piturapyadhiko",
-   "morph": "m.nom.sg",
-   "grounds": "fused form pitur+api+adhikaḥ"
+   "lemma": "gopyadgopyataraṃ",
+   "morph": "adj.acc.sg.n",
+   "grounds": "fused sandhi form; legacy hint secret-more-secret; modifies tad"
   },
   {
-   "lemma": "jñeyo",
-   "morph": "m.nom.sg",
-   "grounds": "jñeyaḥ with final visarga sandhi before mantradaḥ"
+   "lemma": "deva",
+   "morph": "voc.sg.m",
+   "grounds": "vocative address to the deity"
   },
   {
-   "lemma": "mantradaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound mantra-daḥ"
+   "lemma": "tad",
+   "morph": "pron.acc.sg.n",
+   "grounds": "object of the imperative request"
   },
   {
-   "lemma": "paramo",
-   "morph": "m.nom.sg",
-   "grounds": "paramaḥ with final visarga sandhi before guruḥ"
+   "lemma": "adya",
+   "morph": "(indecl.)",
+   "grounds": "temporal adverb"
   },
   {
-   "lemma": "guruḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular masculine"
+   "lemma": "kathayasva",
+   "morph": "verb.2.sg.impv.mid (root kath)",
+   "grounds": "imperative request to reveal"
+  },
+  {
+   "lemma": "me",
+   "morph": "pron.dat.sg.1",
+   "grounds": "recipient of the revelation"
   }
  ]
 }

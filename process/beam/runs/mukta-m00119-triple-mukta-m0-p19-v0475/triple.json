@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "sammukhau",
+     "gloss": "face-to-face",
+     "grounds": "dual adjective describing the teeth that face each other",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yau",
+     "gloss": "which",
+     "grounds": "relative pronoun in the dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ubhau",
+     "gloss": "both",
+     "grounds": "dual numeral referring to the two teeth",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dantau",
+     "gloss": "teeth",
+     "grounds": "dual noun for the paired teeth",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "rājadantau",
+     "gloss": "royal-teeth",
+     "grounds": "compound of royal and tooth in the dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "prakīrtitau",
+     "gloss": "declared",
+     "grounds": "past participle in the dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which pair of teeth that face each other are declared royal teeth?",
+   "premises": [
+    "Two teeth face each other.",
+    "Both are called royal teeth.",
+    "The declaration applies to that pair."
+   ],
+   "inference": "The facing pair of teeth constitutes the royal teeth.",
+   "uncertainties": [
+    "Exact ritual context of the royal teeth is not specified in this verse."
+   ],
+   "plain_english": "The two teeth that face each other are both declared royal teeth."
+  }
+ ]
+}

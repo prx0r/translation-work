@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "śrīvidyāyāṃ",
+     "gloss": "in-sri-vidya",
+     "grounds": "locative of śrīvidyā",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-maheshani",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "vīrasādhanam",
+     "gloss": "vira-sadhana",
+     "grounds": "accusative object of practice",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-practice",
+     "grounds": "optative of ācar",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "In which tantric vidyā should a vīra practitioner perform vīra-sādhana?",
+   "premises": [
+    "śrīvidyā is the stated locus",
+    "maheśāni is the addressed goddess",
+    "vīrasādhana is the prescribed practice"
+   ],
+   "inference": "vīra-sādhana is to be practiced within śrīvidyā",
+   "uncertainties": [
+    "the exact ritual scope of vīra-sādhana is not specified here"
+   ],
+   "plain_english": "In Śrīvidyā, O Maheśānī, one should practice vīra-sādhana."
+  }
+ ]
+}
