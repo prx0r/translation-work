@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p136",
  "verse": 3388,
- "question": "What astronomical conjunction marks the auspicious occasion described?",
+ "question": "What should be made path-joined or devoid?",
  "premises": [
-  "The full moon of the month of Māgha is specified.",
-  "The Maghā constellation is specified.",
-  "The conjunction is described as being observed."
+  "Path-joined is an option.",
+  "Devoid is an option.",
+  "Making is prescribed."
  ],
- "inference": "The auspicious occasion occurs when the full moon of Māgha falls in the Maghā constellation.",
- "uncertainties": [],
- "plain_english": "When the full moon of the month of Māgha is observed in the Maghā constellation."
+ "inference": "One should make it either path-joined or devoid.",
+ "uncertainties": [
+  "The object to be made is not named."
+ ],
+ "plain_english": "One should make it either path-joined or devoid."
 }

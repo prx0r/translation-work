@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3453,
- "question": "What is made by combining sun and moon?",
+ "question": "How may the remainder be divided for door height?",
  "premises": [
-  "Sun and moon are combined.",
-  "A circle is formed in that combination."
+  "the remainder is used for door height",
+  "it may be divided into three parts",
+  "it may alternatively be divided into five parts"
  ],
- "inference": "The combination of sun and moon produces a circle.",
- "uncertainties": [],
- "plain_english": "By combining sun and moon, a circle is formed."
+ "inference": "the remainder for door height is divided into three or five parts",
+ "uncertainties": [
+  "exact division rule unspecified"
+ ],
+ "plain_english": "For door height, the remainder is divided into three or five parts."
 }

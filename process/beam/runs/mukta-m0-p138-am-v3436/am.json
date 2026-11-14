@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3436,
- "question": "To which divine lord is obeisance first offered in the mantra sequence?",
+ "question": "What first measure is given for the sleeping house?",
  "premises": [
-  "The addressed deity is lord of beasts.",
-  "The addressed deity is the divine lord.",
-  "Obeisance is offered to that deity."
+  "that first is specified",
+  "of sleeping house is specified",
+  "twelve indeed is specified",
+  "indeed is specified"
  ],
- "inference": "The mantra offers obeisance to you, the lord of beasts and divine lord.",
- "uncertainties": [],
- "plain_english": "Obeisance be to you, the lord of beings, the divine lord."
+ "inference": "The first measure for the sleeping house is twelve.",
+ "uncertainties": [
+  "unit of twelve"
+ ],
+ "plain_english": "That first of the sleeping house is twelve indeed."
 }

@@ -1,13 +1,18 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3439,
- "question": "Which color and form epithets of the deity receive repeated obeisance in this mantra verse?",
+ "question": "What small measure should be joined as two-tāla or one-and-half-tāla?",
  "premises": [
-  "The deity is addressed as reddish.",
-  "The deity is addressed as smoky.",
-  "The deity is addressed as lotus-like and receives repeated obeisance."
+  "two-tāla is specified",
+  "small measure is specified",
+  "but is specified",
+  "one-and-half-tāla is specified",
+  "but is specified",
+  "should join is specified"
  ],
- "inference": "The mantra offers repeated obeisance to the reddish, smoky, lotus-like deity.",
- "uncertainties": [],
- "plain_english": "Obeisance, obeisance to the reddish one, the smoky one, the lotus-like one."
+ "inference": "The small measure should be joined as either two-tāla or one-and-half-tāla.",
+ "uncertainties": [
+  "choice criterion"
+ ],
+ "plain_english": "Two-tāla small measure, but one-and-half-tāla, should be joined."
 }

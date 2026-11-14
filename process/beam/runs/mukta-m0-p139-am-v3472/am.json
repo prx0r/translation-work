@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3472,
- "question": "What martial weapons and victories are attributed to the divine?",
+ "question": "What wall measurements are given inside and outside?",
  "premises": [
-  "The being holds a thunderbolt in hand.",
-  "The being wields the siddha sword.",
-  "The being is the slayer of Narasiṃha."
+  "a wall is made",
+  "fifty is inside",
+  "thirty and two are outside"
  ],
- "inference": "The divine is armed with powerful weapons and victorious over Narasiṃha.",
- "uncertainties": [],
- "plain_english": "He is thunderbolt-handed, wielder of the siddha sword, and the slayer of Narasiṃha."
+ "inference": "the wall has fifty inside and thirty plus two outside",
+ "uncertainties": [
+  "units unspecified"
+ ],
+ "plain_english": "Make the wall with fifty inside and thirty plus two outside."
 }

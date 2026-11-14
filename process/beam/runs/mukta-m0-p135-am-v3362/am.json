@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3362,
- "question": "In what quantity should the offering be given rather than singly?",
+ "question": "How is its height divided and what band is at top?",
  "premises": [
-  "The offering should be given in pairs or equal twos.",
-  "Giving one by one is explicitly prohibited.",
-  "This prohibition applies at all times."
+  "height is by three parts",
+  "band is at top",
+  "the band belongs to that"
  ],
- "inference": "Therefore, the offering must be given in twos and never singly.",
- "uncertainties": [],
- "plain_english": "One should give two in equal measure, but never one by one."
+ "inference": "Its height is divided into three parts, with a band at top.",
+ "uncertainties": [
+  "exact division ratio is not stated"
+ ],
+ "plain_english": "Its height is by three parts, and a band is at the top of that."
 }

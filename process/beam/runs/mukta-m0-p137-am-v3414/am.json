@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p137",
  "verse": 3414,
- "question": "What mantra is written in the middle?",
+ "question": "What is to be made by foot after the horse?",
  "premises": [
-  "The verse places writing in the middle.",
-  "It names a mantra born that day.",
-  "It endows it with a name."
+  "by foot is specified",
+  "horse is specified",
+  "to be made thereafter is specified"
  ],
- "inference": "The middle receives the mantra born that day, endowed with its name.",
+ "inference": "By foot the horse is to be made, and thereafter it is said.",
  "uncertainties": [
-  "The day-specific mantra is not identified."
+  "exact sequence"
  ],
- "plain_english": "In the middle, write the mantra born that day, endowed with its name."
+ "plain_english": "By foot the horse is to be made, and thereafter it is said."
 }

@@ -1,13 +1,19 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3444,
- "question": "What merit is associated with ritual bathing, giving, and beholding the deity?",
+ "question": "What ornament is to be made outside for all houses?",
  "premises": [
-  "Bathing and giving are meritorious acts.",
-  "Beholding the deity is a meritorious act.",
-  "A specific fruit is associated with these acts."
+  "ornament is specified",
+  "but is specified",
+  "outside is specified",
+  "to be made is specified",
+  "of all is specified",
+  "also is specified",
+  "of houses is specified"
  ],
- "inference": "The verse invokes the merit obtained through bathing, giving, and beholding the deity.",
- "uncertainties": [],
- "plain_english": "It recalls the fruit gained by bathing, giving, and beholding the deity."
+ "inference": "An ornament is to be made outside for all houses.",
+ "uncertainties": [
+  "type of ornament"
+ ],
+ "plain_english": "Ornament but outside to be made for all houses also."
 }

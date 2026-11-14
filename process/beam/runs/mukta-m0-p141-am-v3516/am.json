@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p141",
  "verse": 3516,
- "question": "In what radiant form did Hari behold the manifested lord?",
+ "question": "Which painted pot-creeper comes first and which pillar pot-creeper comes other?",
  "premises": [
-  "Hari saw the lord in that state.",
-  "The lord was adorned with crores of suns.",
-  "The vision was direct."
+  "Painted pot-creeper is first.",
+  "Pillar pot-creeper is other.",
+  "Both are creeper types."
  ],
- "inference": "Hari beheld the lord manifested in a form radiant as countless suns.",
- "uncertainties": [],
- "plain_english": "Hari saw him in that state, adorned with the radiance of crores of suns."
+ "inference": "Two pot-creeper varieties are ordered first and other.",
+ "uncertainties": [
+  "pūrvā and parā may modify an implied noun."
+ ],
+ "plain_english": "The painted pot-creeper comes first; the pillar pot-creeper is the other."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3466,
- "question": "How does the divine function as lord, refuge, and supporter of all worlds?",
+ "question": "Where are bolt and socket placed?",
  "premises": [
-  "The being is thousand-armed and lord of all.",
-  "The being is worthy of refuge.",
-  "The being supports all worlds."
+  "the bolt is on the right part",
+  "the socket is on the left part",
+  "placement is paired"
  ],
- "inference": "The divine is the all-powerful lord, refuge, and supporter of all worlds.",
- "uncertainties": [],
- "plain_english": "He is thousand-armed, lord of all, worthy of refuge, and the supporter of all worlds."
+ "inference": "the bolt is on the right and the socket on the left",
+ "uncertainties": [
+  "exact door side unspecified"
+ ],
+ "plain_english": "Place the bolt on the right and the socket on the left."
 }

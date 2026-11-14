@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p134",
  "verse": 3340,
- "question": "Which fragrant flowers are listed as suitable for ritual offering?",
+ "question": "What measure produces the square-eight-angled-round form?",
  "premises": [
-  "Jasmine and campaka are included.",
-  "Ashoka and punnaga are included.",
-  "Nagakesara is included."
+  "samatribhāgamānena is equal three-part measure",
+  "caturaṣṭāśravṛttakam is square-eight-angled-round"
  ],
- "inference": "Jasmine, campaka, ashoka, punnaga, and nagakesara are suitable flowers for offering.",
- "uncertainties": [],
- "plain_english": "Jasmine, campaka, ashoka, punnaga, and nagakesara should be offered."
+ "inference": "An equal three-part measure produces the square-eight-angled-round form.",
+ "uncertainties": [
+  "measure application unclear"
+ ],
+ "plain_english": "By an equal three-part measure, the square-eight-angled-round form arises."
 }

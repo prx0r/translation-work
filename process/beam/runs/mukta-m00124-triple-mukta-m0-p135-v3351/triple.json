@@ -1,0 +1,1127 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3351,
+   "rows": [
+    {
+     "surface": "kumbha+vistāraḥ",
+     "gloss": "kumbha-width",
+     "grounds": "compound term for kumbha width",
+     "morph": "compound"
+    },
+    {
+     "surface": "uddiṣṭaḥ",
+     "gloss": "prescribed",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhyardhaṃ",
+     "gloss": "one-and-a-half",
+     "grounds": "measure term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āsyam",
+     "gloss": "mouth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īrtitam",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the prescribed width of the kumbha and its mouth?",
+   "premises": [
+    "kumbha width is prescribed",
+    "mouth measure is one-and-a-half",
+    "the measure is declared"
+   ],
+   "inference": "The kumbha width and mouth measure are fixed by prescription.",
+   "uncertainties": [
+    "exact unit of measure is not stated"
+   ],
+   "plain_english": "The kumbha width is prescribed, and its mouth measure is one and a half."
+  },
+  {
+   "verse": 3352,
+   "rows": [
+    {
+     "surface": "dṛk+kaṇṭhau",
+     "gloss": "eye-and-neck",
+     "grounds": "compound dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhātavyau",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "pāda+vistāra+mānataḥ",
+     "gloss": "by-pillar-width-measure",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the eye and neck be made relative to pillar width?",
+   "premises": [
+    "eye and neck are to be made",
+    "measure follows pillar width",
+    "the rule is prescriptive"
+   ],
+   "inference": "Eye and neck are fashioned according to pillar width.",
+   "uncertainties": [
+    "exact proportional relation is not stated"
+   ],
+   "plain_english": "The eye and neck are to be made by the measure of pillar width."
+  },
+  {
+   "verse": 3353,
+   "rows": [
+    {
+     "surface": "kiñcit",
+     "gloss": "slightly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agraṃ",
+     "gloss": "top",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vihīnaṃ",
+     "gloss": "diminished",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kamalaṃ",
+     "gloss": "lotus",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat+adhaḥ",
+     "gloss": "below-that",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How is the lotus top diminished and what lies below it?",
+   "premises": [
+    "top is slightly diminished",
+    "lotus should be below that",
+    "both are prescriptive"
+   ],
+   "inference": "The lotus top is slightly reduced and the lotus sits below it.",
+   "uncertainties": [
+    "degree of diminution is not quantified"
+   ],
+   "plain_english": "The top should be slightly diminished, and the lotus should be below that."
+  },
+  {
+   "verse": 3354,
+   "rows": [
+    {
+     "surface": "mūla+sthānam",
+     "gloss": "root-place",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhaḥ+tat",
+     "gloss": "below-that",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "daṇḍa+mānam",
+     "gloss": "rod-measure",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Where is the root place and what measure is now stated?",
+   "premises": [
+    "root place is below that",
+    "rod measure is stated",
+    "the statement is prescriptive"
+   ],
+   "inference": "The root place lies below, and rod measure is now given.",
+   "uncertainties": [
+    "exact rod measure is not stated"
+   ],
+   "plain_english": "The root place should be below that; now the rod measure is stated."
+  },
+  {
+   "verse": 3355,
+   "rows": [
+    {
+     "surface": "maṇḍitā",
+     "gloss": "maṇḍitā",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sa+ardhena",
+     "gloss": "with-half",
+     "grounds": "compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "phalaka+āsanam",
+     "gloss": "plank-seat",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the plank seat made and adorned?",
+   "premises": [
+    "it is made fivefold",
+    "it includes half measure",
+    "plank seat is adorned"
+   ],
+   "inference": "The plank seat is made fivefold with half measure and adorned.",
+   "uncertainties": [
+    "meaning of maṇḍitā is unclear"
+   ],
+   "plain_english": "Having made it fivefold with half, the plank seat is adorned."
+  },
+  {
+   "verse": 3356,
+   "rows": [
+    {
+     "surface": "daṇḍa+ākāraḥ",
+     "gloss": "rod-form",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetra+antaṃ",
+     "gloss": "up-to-vetra",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāda+ākāra+samaḥ",
+     "gloss": "equal-to-pillar-form",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What form should the rod take up to vetra?",
+   "premises": [
+    "rod form is specified",
+    "it reaches up to vetra",
+    "it equals pillar form"
+   ],
+   "inference": "The rod form should equal pillar form up to vetra.",
+   "uncertainties": [
+    "vetra endpoint is not defined"
+   ],
+   "plain_english": "The rod form should be equal to pillar form up to vetra."
+  },
+  {
+   "verse": 3357,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍī",
+     "gloss": "maṇḍī",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāda+ūrdhve",
+     "gloss": "above-pillar",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "potikā",
+     "gloss": "bracket",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is declared threefold above the pillar?",
+   "premises": [
+    "maṇḍī is declared threefold",
+    "bracket should be above pillar",
+    "the rule is prescriptive"
+   ],
+   "inference": "A threefold maṇḍī is declared, with bracket above pillar.",
+   "uncertainties": [
+    "maṇḍī meaning is unclear"
+   ],
+   "plain_english": "The maṇḍī is declared threefold, and the bracket should be above the pillar."
+  },
+  {
+   "verse": 3358,
+   "rows": [
+    {
+     "surface": "stambha+tri+guṇa+mānā",
+     "gloss": "pillar-triple-measure",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daṇḍa+udaya+samāyutā",
+     "gloss": "endowed-with-rod-height",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What measure is endowed with rod height?",
+   "premises": [
+    "measure is pillar triple",
+    "that measure is endowed",
+    "rod height is included"
+   ],
+   "inference": "The pillar-triple measure is endowed with rod height.",
+   "uncertainties": [
+    "exact height relation is not stated"
+   ],
+   "plain_english": "That pillar-triple measure is endowed with rod height."
+  },
+  {
+   "verse": 3359,
+   "rows": [
+    {
+     "surface": "catur+daṇḍa+samāyāmā",
+     "gloss": "four-rod-length",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tri+pāda+udaya+saṃyutā",
+     "gloss": "endowed-with-three-quarter-height",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What length is endowed with three-quarter height?",
+   "premises": [
+    "length is four rods",
+    "height is three quarters",
+    "the measure is compounded"
+   ],
+   "inference": "The four-rod length is endowed with three-quarter height.",
+   "uncertainties": [
+    "quarter of what measure is unspecified"
+   ],
+   "plain_english": "The four-rod length is endowed with three-quarter height."
+  },
+  {
+   "verse": 3360,
+   "rows": [
+    {
+     "surface": "pañca+daṇḍa+samāyāmā",
+     "gloss": "five-rod-length",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daṇḍa+māna+sama+udayā",
+     "gloss": "having-height-equal-to-rod-measure",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What length has height equal to rod measure?",
+   "premises": [
+    "length is five rods",
+    "height equals rod measure",
+    "the measure is compounded"
+   ],
+   "inference": "The five-rod length has height equal to rod measure.",
+   "uncertainties": [
+    "rod measure unit is unspecified"
+   ],
+   "plain_english": "The five-rod length has height equal to rod measure."
+  },
+  {
+   "verse": 3361,
+   "rows": [
+    {
+     "surface": "yathā+iṣṭaiḥ",
+     "gloss": "as-desired",
+     "grounds": "compound",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-the-sides",
+     "grounds": "locative dual",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samudra+ūrmiḥ",
+     "gloss": "ocean-wave",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is remembered as ocean wave on the sides?",
+   "premises": [
+    "sides are as desired",
+    "ocean wave is named",
+    "it is remembered thus"
+   ],
+   "inference": "The ocean-wave form is remembered for the sides as desired.",
+   "uncertainties": [
+    "exact side treatment is not stated"
+   ],
+   "plain_english": "As desired on the sides, the ocean wave is thus remembered."
+  },
+  {
+   "verse": 3362,
+   "rows": [
+    {
+     "surface": "tat+uccaḥ",
+     "gloss": "its-height",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tri+tri+bhāgena",
+     "gloss": "by-three-parts",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-top",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭṭikā",
+     "gloss": "band",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is its height divided and what band is at top?",
+   "premises": [
+    "height is by three parts",
+    "band is at top",
+    "the band belongs to that"
+   ],
+   "inference": "Its height is divided into three parts, with a band at top.",
+   "uncertainties": [
+    "exact division ratio is not stated"
+   ],
+   "plain_english": "Its height is by three parts, and a band is at the top of that."
+  },
+  {
+   "verse": 3363,
+   "rows": [
+    {
+     "surface": "chāyā+āyāmaṃ",
+     "gloss": "shadow-length",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat+ucca+ardhaṃ",
+     "gloss": "half-its-height",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tri+dvi+aṃśaṃ",
+     "gloss": "or-two-thirds",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-design",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should shadow length be designed relative to height?",
+   "premises": [
+    "shadow length is considered",
+    "half height or two-thirds",
+    "one should design now"
+   ],
+   "inference": "Shadow length should be designed as half or two-thirds of height.",
+   "uncertainties": [
+    "choice between half and two-thirds is not resolved"
+   ],
+   "plain_english": "One should design shadow length as half its height or two-thirds."
+  },
+  {
+   "verse": 3364,
+   "rows": [
+    {
+     "surface": "sa+nālikaṃ",
+     "gloss": "with-stalk",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sama+talaṃ",
+     "gloss": "level-surface",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siṃha+vyāla+ādi+maṇḍitam",
+     "gloss": "adorned-with-lions-vyālas-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What surface is adorned with lions and vyālas?",
+   "premises": [
+    "surface has stalk",
+    "surface is level",
+    "it is adorned with lions and vyālas"
+   ],
+   "inference": "The level surface with stalk is adorned with lions, vyālas, and others.",
+   "uncertainties": [
+    "nālika meaning is unclear"
+   ],
+   "plain_english": "The level surface with stalk is adorned with lions, vyālas, and so on."
+  },
+  {
+   "verse": 3365,
+   "rows": [
+    {
+     "surface": "pūrva+aśra+caturaśrāṇāṃ",
+     "gloss": "of-eastern-cornered-square-ones",
+     "grounds": "compound genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nāga+vṛttā",
+     "gloss": "nāga-circular",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is declared for eastern-cornered square ones?",
+   "premises": [
+    "square ones are eastern-cornered",
+    "nāga circular is named",
+    "it is declared"
+   ],
+   "inference": "For eastern-cornered square ones, nāga-circular is declared.",
+   "uncertainties": [
+    "nāga circular meaning is unclear"
+   ],
+   "plain_english": "For eastern-cornered square ones, nāga-circular is declared."
+  },
+  {
+   "verse": 3366,
+   "rows": [
+    {
+     "surface": "samudra+ūrmiḥ",
+     "gloss": "ocean-wave",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pādānāṃ",
+     "gloss": "of-pillars",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "phalakā",
+     "gloss": "plank",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is considered likewise for other pillars?",
+   "premises": [
+    "ocean wave is named",
+    "other pillars are included",
+    "plank is considered"
+   ],
+   "inference": "Ocean wave and plank are considered likewise for other pillars.",
+   "uncertainties": [
+    "exact relation between ocean wave and plank is unclear"
+   ],
+   "plain_english": "Likewise, ocean wave and plank are considered for other pillars."
+  },
+  {
+   "verse": 3367,
+   "rows": [
+    {
+     "surface": "hasta+ādi",
+     "gloss": "from-one-hasta-etc",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañca+hasta+antaṃ",
+     "gloss": "up-to-five-hastas",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaṭ+ṣaṭ+aṅgula+vardhanāt",
+     "gloss": "by-increase-of-six-aṅgulas-each",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does measure increase from one hasta to five hastas?",
+   "premises": [
+    "measure starts from one hasta",
+    "it reaches five hastas",
+    "increase is six aṅgulas each"
+   ],
+   "inference": "Measure increases by six aṅgulas for each hasta from one to five.",
+   "uncertainties": [
+    "base measure is not stated"
+   ],
+   "plain_english": "From one hasta up to five hastas, increase by six aṅgulas each."
+  },
+  {
+   "verse": 3368,
+   "rows": [
+    {
+     "surface": "samāḥ",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "stambha+antarāḥ",
+     "gloss": "pillar-intervals",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sārva+deśike",
+     "gloss": "universal",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is true of all pillar intervals in a temple?",
+   "premises": [
+    "pillar intervals are equal",
+    "all are included",
+    "temple is universal"
+   ],
+   "inference": "All pillar intervals in a temple are equal universally.",
+   "uncertainties": [
+    "universal scope is not defined"
+   ],
+   "plain_english": "All pillar intervals in a temple are equal everywhere."
+  },
+  {
+   "verse": 3369,
+   "rows": [
+    {
+     "surface": "sāyaṃ",
+     "gloss": "evening",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+sarvaṃ",
+     "gloss": "all-that",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat+prakāreṇa",
+     "gloss": "according-to-that-method",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should all that be made in the evening?",
+   "premises": [
+    "evening is included",
+    "all that is included",
+    "method is specified"
+   ],
+   "inference": "All that should be made in the evening according to that method.",
+   "uncertainties": [
+    "method reference is not stated"
+   ],
+   "plain_english": "In the evening also, all that should be made according to that method."
+  },
+  {
+   "verse": 3370,
+   "rows": [
+    {
+     "surface": "iṣṭakābhiḥ",
+     "gloss": "with-bricks",
+     "grounds": "instrumental plural",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "drumaiḥ",
+     "gloss": "with-timber",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "stambhāḥ",
+     "gloss": "pillars",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāryāḥ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-the-skilled",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "By what materials and by whom are pillars made?",
+   "premises": [
+    "pillars are made with bricks",
+    "pillars are made with timber",
+    "skilled persons make them"
+   ],
+   "inference": "Pillars are to be made with bricks and timber by skilled persons.",
+   "uncertainties": [
+    "whether both materials are used together is unclear"
+   ],
+   "plain_english": "Pillars are to be made with bricks and timber by skilled persons."
+  },
+  {
+   "verse": 3371,
+   "rows": [
+    {
+     "surface": "uttaraṃ",
+     "gloss": "architrave",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vājana",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muṣṭibandhaṃ",
+     "gloss": "muṣṭibandha",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛṇālikam",
+     "gloss": "mṛṇālika",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What elements are named with architrave?",
+   "premises": [
+    "architrave is named",
+    "vājana is named",
+    "muṣṭibandha and mṛṇālika are named"
+   ],
+   "inference": "Architrave, vājana, muṣṭibandha, and mṛṇālika are named elements.",
+   "uncertainties": [
+    "technical meanings are not stated"
+   ],
+   "plain_english": "Architrave, vājana, muṣṭibandha, and mṛṇālika are named."
+  },
+  {
+   "verse": 3372,
+   "rows": [
+    {
+     "surface": "āliṅga",
+     "gloss": "āliṅga",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antaritā",
+     "gloss": "antarita",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyaṅgaṃ",
+     "gloss": "pratyaṅga",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vājana",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are āliṅga, antarita, and pratyaṅga ordered?",
+   "premises": [
+    "āliṅga is named",
+    "antarita is named",
+    "pratyaṅga and vājana follow in order"
+   ],
+   "inference": "Āliṅga, antarita, pratyaṅga, and vājana are arranged in order.",
+   "uncertainties": [
+    "technical meanings are not stated"
+   ],
+   "plain_english": "Āliṅga, antarita, pratyaṅga, and vājana are arranged in order."
+  },
+  {
+   "verse": 3373,
+   "rows": [
+    {
+     "surface": "tri+bhāgena",
+     "gloss": "by-three-parts",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eka+bhāgena",
+     "gloss": "by-one-part",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "upari+upari",
+     "gloss": "one-above-another",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-join",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should parts be joined one above another?",
+   "premises": [
+    "three parts are used",
+    "one part is used",
+    "joining is one above another"
+   ],
+   "inference": "Parts should be joined one above another by three and one measures.",
+   "uncertainties": [
+    "exact joining scheme is not stated"
+   ],
+   "plain_english": "One should join them one above another by three parts and one part."
+  },
+  {
+   "verse": 3374,
+   "rows": [
+    {
+     "surface": "khaṇḍa+uttaraṃ",
+     "gloss": "khaṇḍottara",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "patra+bandhaṃ",
+     "gloss": "patrabandha",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpa+uttaram",
+     "gloss": "rūpottara",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "O-twice-born",
+     "grounds": "vocative plural",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What forms are named here for the twice-born?",
+   "premises": [
+    "khaṇḍottara is named",
+    "patrabandha is named",
+    "rūpottara is named here"
+   ],
+   "inference": "Khaṇḍottara, patrabandha, and rūpottara are named here for the twice-born.",
+   "uncertainties": [
+    "technical meanings are not stated"
+   ],
+   "plain_english": "Here, khaṇḍottara, patrabandha, and rūpottara are named, O twice-born."
+  }
+ ]
+}

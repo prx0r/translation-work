@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3437,
- "question": "Which epithets of the three-eyed deity receive repeated obeisance in this mantra verse?",
+ "question": "What remainders are declared for city, village, fort, and houses?",
  "premises": [
-  "The deity is addressed as Tryambaka.",
-  "The deity is addressed as three-eyed and glorious.",
-  "Obeisance is repeated to that deity."
+  "of city village fort is specified",
+  "remainders is specified",
+  "declared is specified",
+  "of houses is specified"
  ],
- "inference": "The mantra offers repeated obeisance to the three-eyed, glorious Tryambaka.",
- "uncertainties": [],
- "plain_english": "Obeisance, obeisance to Tryambaka, the three-eyed, the glorious one."
+ "inference": "Remainders for city, village, fort, and houses are declared.",
+ "uncertainties": [
+  "exact remainder values"
+ ],
+ "plain_english": "Remainders of city, village, fort, and houses are declared."
 }

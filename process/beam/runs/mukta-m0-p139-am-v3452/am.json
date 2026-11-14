@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3452,
- "question": "Where does the complete collection of other things succeed effortlessly?",
+ "question": "What thickness is considered proper for a door pillar?",
  "premises": [
-  "The collection is other and complete.",
-  "It succeeds in the moon effortlessly."
+  "pillar width sets the standard",
+  "half that width is also accepted",
+  "thickness is judged accordingly"
  ],
- "inference": "The full collection of other things succeeds in the moon without effort.",
- "uncertainties": [],
- "plain_english": "The complete collection of other things succeeds effortlessly in the moon."
+ "inference": "door pillar thickness should equal pillar width or half of it",
+ "uncertainties": [
+  "measurement units unspecified"
+ ],
+ "plain_english": "A pillar's thickness is considered equal to its width, or half of it."
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3454,
- "question": "What common result is taught there for suns and moons?",
+ "question": "How should the middle pure door be ornamented?",
  "premises": [
-  "A common result is taught there.",
-  "Suns are empty and moons have form."
+  "the remainder is used for ornament",
+  "the pure door is the middle one",
+  "ornamentation follows the remainder"
  ],
- "inference": "The teaching gives a common result distinguishing empty suns from formed moons.",
- "uncertainties": [],
- "plain_english": "There a common result is taught: suns are empty, moons have form."
+ "inference": "the middle pure door should be ornamented with the remainder",
+ "uncertainties": [
+  "ornament type unspecified"
+ ],
+ "plain_english": "Ornament the middle pure door with the remainder."
 }

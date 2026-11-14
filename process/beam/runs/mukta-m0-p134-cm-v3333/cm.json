@@ -3,29 +3,34 @@
  "verse": 3333,
  "rows": [
   {
-   "lemma": "kuvaṅkuṭaṃ",
+   "lemma": "bhāgaṃ",
    "morph": "m.acc.sg",
-   "grounds": "bird listed for avoidance"
+   "grounds": "accusative"
   },
   {
-   "lemma": "jāla+pādān",
-   "morph": "compound: jāla+pāda, m.acc.pl",
-   "grounds": "compound describing web-footed creatures"
+   "lemma": "kṛtvā",
+   "morph": "abs + root kṛ",
+   "grounds": "absolutive"
   },
   {
-   "lemma": "tathā",
+   "lemma": "ekabhāgena",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "alternative particle"
   },
   {
-   "lemma": "citra+bakaṃ",
-   "morph": "compound: citra+baka",
-   "grounds": "compound naming a bird"
+   "lemma": "ūrdhvordhvaṃ",
+   "morph": "(indecl.)",
+   "grounds": "adverbial reduplication"
   },
   {
-   "lemma": "priye",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "stambhatuṅgatā",
+   "morph": "f.nom.sg",
+   "grounds": "nominative compound"
   }
  ]
 }

@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3434,
- "question": "What consequence follows from seeing the sacred seat there, and how certain is that consequence?",
+ "question": "What width and length measures are given in vitasti units?",
  "premises": [
-  "One sees the seat there.",
-  "Seeing it destroys all grain.",
-  "The text asserts there is no doubt."
+  "three vitasti is specified",
+  "wide may be is specified",
+  "length is specified",
+  "seven vitasti is specified"
  ],
- "inference": "Seeing the seat there destroys all grain, without any doubt.",
+ "inference": "Width may be three vitasti and length seven vitasti.",
  "uncertainties": [
-  "The destructive effect on grain may be literal or symbolic"
+  "exact application"
  ],
- "plain_english": "Having seen the seat there, it destroys all grain; there is no doubt about this."
+ "plain_english": "Three vitasti wide may be; length seven vitasti."
 }

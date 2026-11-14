@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3369,
- "question": "What further bathing actions should be performed with jaggery and milk?",
+ "question": "How should all that be made in the evening?",
  "premises": [
-  "A bath should be performed with jaggery.",
-  "A stream of milk should also be poured.",
-  "Both actions are prescribed in sequence."
+  "evening is included",
+  "all that is included",
+  "method is specified"
  ],
- "inference": "Therefore, one should bathe with jaggery and pour a stream of milk.",
- "uncertainties": [],
- "plain_english": "One should perform a bath with jaggery and also pour a stream of milk."
+ "inference": "All that should be made in the evening according to that method.",
+ "uncertainties": [
+  "method reference is not stated"
+ ],
+ "plain_english": "In the evening also, all that should be made according to that method."
 }

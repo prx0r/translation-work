@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3458,
- "question": "What should be told in the ear after placing that in place?",
+ "question": "How many bars may a door have?",
  "premises": [
-  "After placing that in place.",
-  "The mantra should be told in the ear."
+  "bars are counted",
+  "allowed counts are three, five, seven",
+  "nine and eleven are also allowed"
  ],
- "inference": "Once the object is placed, the mantra is to be whispered in the ear.",
- "uncertainties": [],
- "plain_english": "Having placed that in place, one should tell the mantra in his ear."
+ "inference": "a door may have three, five, seven, nine, or eleven bars",
+ "uncertainties": [
+  "context of counts unspecified"
+ ],
+ "plain_english": "Bars may number three, five, seven, nine, or eleven."
 }

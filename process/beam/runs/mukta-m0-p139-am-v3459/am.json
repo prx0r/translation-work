@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3459,
- "question": "What is the danger of an otherwise empty Rāhu for teacher and student?",
+ "question": "Where is the door leaf placed in a large paired panel?",
  "premises": [
-  "Otherwise Rāhu is empty.",
-  "That emptiness is for destruction of teacher and student."
+  "the panel is large and paired",
+  "the door leaf is situated on the right",
+  "placement follows this arrangement"
  ],
- "inference": "An otherwise empty Rāhu destroys both teacher and student.",
- "uncertainties": [],
- "plain_english": "Otherwise, an empty Rāhu is for the destruction of teacher and student."
+ "inference": "in a large paired panel, the door leaf is placed on the right",
+ "uncertainties": [
+  "exact panel type unspecified"
+ ],
+ "plain_english": "In a large paired panel, the door leaf is on the right."
 }

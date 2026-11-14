@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3455,
- "question": "What follows if the stated decision is otherwise?",
+ "question": "By what divisions is pillar thickness measured?",
  "premises": [
-  "A decision is stated.",
-  "If otherwise, that becomes otherwise."
+  "pillar thickness is measured by parts",
+  "the parts are three, four, five, and six"
  ],
- "inference": "The outcome changes if the stated decision is otherwise.",
- "uncertainties": [],
- "plain_english": "Having decided, it becomes so; if otherwise, that is otherwise."
+ "inference": "pillar thickness is measured by three, four, five, or six parts",
+ "uncertainties": [
+  "which part applies when unspecified"
+ ],
+ "plain_english": "Pillar thickness is measured by three, four, five, or six parts."
 }

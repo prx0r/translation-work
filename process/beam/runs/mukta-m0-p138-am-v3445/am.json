@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3445,
- "question": "In what bodily state and orientation should a person bow to the sacred place from afar?",
+ "question": "What first measure should be calculated excluding finger cut?",
  "premises": [
-  "A person bows to the sacred place from afar.",
-  "The person should be facing north.",
-  "The person should be ritually pure."
+  "excluding finger cut is specified",
+  "first measure is specified",
+  "should calculate is specified"
  ],
- "inference": "A pure person, facing north, should bow to the sacred place from afar.",
- "uncertainties": [],
- "plain_english": "Having bowed, a pure man facing north should bow to the sacred place from afar."
+ "inference": "The first measure should be calculated while excluding finger cut.",
+ "uncertainties": [
+  "exact calculation"
+ ],
+ "plain_english": "Excluding finger cut, first measure should be calculated."
 }

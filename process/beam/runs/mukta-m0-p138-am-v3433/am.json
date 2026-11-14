@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3433,
- "question": "On which lunar days and special occasions is the prescribed vision or rite especially effective?",
+ "question": "What special height of thirty-five may be specified?",
  "premises": [
-  "The fifth lunar day is specified.",
-  "The new-moon day and the tenth day are specified.",
-  "Times of eclipses are also included."
+  "thirty-five is specified",
+  "may be height is specified",
+  "this is specified",
+  "special is specified",
+  "may be is specified"
  ],
- "inference": "The rite or vision is prescribed for the fifth, new-moon, tenth days, and during eclipses.",
- "uncertainties": [],
- "plain_english": "This applies on the fifth day, on the new-moon day, on the tenth day, and also during eclipses."
+ "inference": "A special height of thirty-five may be specified.",
+ "uncertainties": [
+  "unit of thirty-five"
+ ],
+ "plain_english": "Thirty-five may be the height; this special may be."
 }

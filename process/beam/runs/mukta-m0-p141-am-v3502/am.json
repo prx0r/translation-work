@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p141",
  "verse": 3502,
- "question": "What orderly, invincible, and pleasing attributes define the deity?",
+ "question": "What five-faced plank is placed above with a spear?",
  "premises": [
-  "The deity acts in proper sequence.",
-  "The deity is unassailable.",
-  "The deity is sweet and pleasant to behold."
+  "A plank is five-faced.",
+  "It is placed above that.",
+  "It is joined with a spear."
  ],
- "inference": "The deity combines order, invincibility, and gracious appearance.",
- "uncertainties": [],
- "plain_english": "He is orderly, unassailable, sweet, and pleasant to behold."
+ "inference": "The described plank is five-faced and spear-joined above.",
+ "uncertainties": [
+  "tadūrdhve refers to an unspecified prior element."
+ ],
+ "plain_english": "But the five-faced plank above is joined with a spear."
 }

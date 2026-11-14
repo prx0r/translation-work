@@ -3,39 +3,34 @@
  "verse": 3451,
  "rows": [
   {
-   "lemma": "rāhuḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject of the clause"
-  },
-  {
-   "lemma": "śūnyam",
-   "morph": "n.acc.sg",
-   "grounds": "predicate adjective"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "negation"
   },
   {
-   "lemma": "sarvatra",
+   "lemma": "tyajet",
+   "morph": "3.sg.act-opt + root tyaj",
+   "grounds": "optative"
+  },
+  {
+   "lemma": "yadi",
    "morph": "(indecl.)",
-   "grounds": "adverbial scope"
+   "grounds": "conditional"
   },
   {
-   "lemma": "nāśāya",
-   "morph": "m.dat.sg",
-   "grounds": "purpose"
+   "lemma": "tat+svāmī",
+   "morph": "compound",
+   "grounds": "compound"
   },
   {
-   "lemma": "bhavati",
-   "morph": "3.sg.act-pres root bhū",
-   "grounds": "main verb"
+   "lemma": "maraṇāya",
+   "morph": "n.dat.sg",
+   "grounds": "dative"
   },
   {
-   "lemma": "kṣaṇāt",
-   "morph": "m.abl.sg",
-   "grounds": "temporal ablative"
+   "lemma": "bhaviṣyati",
+   "morph": "3.sg.act-fut + root bhū",
+   "grounds": "future"
   }
  ]
 }

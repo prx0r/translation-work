@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3351,
- "question": "Is the number of other leaves considered defective in ritual offering?",
+ "question": "What is the prescribed width of the kumbha and its mouth?",
  "premises": [
-  "Other leaves may be used in the offering.",
-  "A specific number of leaves might be expected.",
-  "The count of those other leaves is not defective."
+  "kumbha width is prescribed",
+  "mouth measure is one-and-a-half",
+  "the measure is declared"
  ],
- "inference": "Therefore, no fixed number is required for other leaves in this context.",
- "uncertainties": [],
- "plain_english": "And indeed, in the case of other leaves, their number there is not faulty."
+ "inference": "The kumbha width and mouth measure are fixed by prescription.",
+ "uncertainties": [
+  "exact unit of measure is not stated"
+ ],
+ "plain_english": "The kumbha width is prescribed, and its mouth measure is one and a half."
 }

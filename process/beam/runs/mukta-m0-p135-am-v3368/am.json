@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3368,
- "question": "What is the prescribed sequence for the initial ritual baths?",
+ "question": "What is true of all pillar intervals in a temple?",
  "premises": [
-  "The first bath is performed with water.",
-  "A subsequent bath is performed with milk.",
-  "The milk bath follows immediately after the water bath."
+  "pillar intervals are equal",
+  "all are included",
+  "temple is universal"
  ],
- "inference": "Therefore, the bathing sequence begins with water and continues with milk.",
- "uncertainties": [],
- "plain_english": "First the bath is with water, and immediately after that with milk."
+ "inference": "All pillar intervals in a temple are equal universally.",
+ "uncertainties": [
+  "universal scope is not defined"
+ ],
+ "plain_english": "All pillar intervals in a temple are equal everywhere."
 }

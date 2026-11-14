@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "eka+aṃśa+hīnaṃ",
+     "gloss": "one-part-less",
+     "grounds": "compound of eka, aṃśa, and hīna; modifies dvāraṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tan+mānaṃ",
+     "gloss": "that-measure",
+     "grounds": "sandhi-fused tan+mānaṃ; measure associated with that",
+     "morph": "comp.acc.sg.n"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "accusative object modified by preceding compounds",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śuddham",
+     "gloss": "pure",
+     "grounds": "adjective agreeing with dvāraṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "stated",
+     "grounds": "past participle of vad, agreeing with dvāraṃ",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "Which measure of the pure door is declared here?",
+   "premises": [
+    "The door is pure.",
+    "Its measure is one part less.",
+    "It is stated here."
+   ],
+   "inference": "Therefore the declared pure door has a measure one part less.",
+   "uncertainties": [
+    "The exact referent of tan in tan+mānaṃ is not specified in this verse."
+   ],
+   "plain_english": "The pure door whose measure is one part less is stated here."
+  }
+ ]
+}

@@ -1,0 +1,945 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3401,
+   "rows": [
+    {
+     "surface": "hastimuṇḍakasaṃsthānaṃ",
+     "gloss": "elephant-head-form",
+     "grounds": "compound of elephant head and form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kumbhamaṇḍīsamāyutam",
+     "gloss": "pot-bellied-with",
+     "grounds": "compound with pot-bellied",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What form and accompanying feature define the elephant-head capital?",
+   "premises": [
+    "elephant head form is specified",
+    "pot-bellied accompaniment is specified"
+   ],
+   "inference": "The capital takes an elephant-head form with pot-bellied accompaniment.",
+   "uncertainties": [
+    "exact grammatical case of second token"
+   ],
+   "plain_english": "The capital has an elephant-head form and is accompanied by a pot-bellied element."
+  },
+  {
+   "verse": 3402,
+   "rows": [
+    {
+     "surface": "maṇḍanaṃ",
+     "gloss": "ornament",
+     "grounds": "noun ornament",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvantare",
+     "gloss": "between",
+     "grounds": "indeclinable between",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive to be done",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "daṇḍikāmuṣṭibandhayoḥ",
+     "gloss": "staff-and-fist-band",
+     "grounds": "compound dual genitive",
+     "morph": "gen.du"
+    }
+   ],
+   "question": "Where must the ornament be placed relative to staff and fist-band?",
+   "premises": [
+    "ornament is to be made",
+    "placement is between staff and fist-band"
+   ],
+   "inference": "The ornament is to be made between the staff and the fist-band.",
+   "uncertainties": [
+    "exact gender of ornament"
+   ],
+   "plain_english": "The ornament is to be made between the staff and the fist-band."
+  },
+  {
+   "verse": 3403,
+   "rows": [
+    {
+     "surface": "muṣṭibandhasamākāraṃ",
+     "gloss": "fist-band-shape",
+     "grounds": "compound fist-band shape",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturaśrasamākṛti",
+     "gloss": "square-form",
+     "grounds": "compound square form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shape and form are assigned to the fist-band element?",
+   "premises": [
+    "fist-band shape is specified",
+    "square form is specified"
+   ],
+   "inference": "The fist-band element takes a fist-band shape and square form.",
+   "uncertainties": [
+    "relation between the two compounds"
+   ],
+   "plain_english": "The fist-band element has a fist-band shape and a square form."
+  },
+  {
+   "verse": 3404,
+   "rows": [
+    {
+     "surface": "daṇḍikordhve",
+     "gloss": "staff-above",
+     "grounds": "compound staff above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "valayaṃ",
+     "gloss": "ring",
+     "grounds": "noun ring",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gopanaṃ",
+     "gloss": "concealment",
+     "grounds": "noun concealment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāttadūrdhvataḥ",
+     "gloss": "above-that",
+     "grounds": "compound above that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the ring and concealment placed relative to the staff?",
+   "premises": [
+    "ring is above staff",
+    "concealment is above that"
+   ],
+   "inference": "The ring is above the staff and concealment is above that.",
+   "uncertainties": [
+    "exact syntactic linkage"
+   ],
+   "plain_english": "Above the staff there is a ring, and above that a concealment."
+  },
+  {
+   "verse": 3405,
+   "rows": [
+    {
+     "surface": "vasantakaṃ",
+     "gloss": "spring-ornament",
+     "grounds": "noun spring ornament",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vālindaṃ",
+     "gloss": "balcony",
+     "grounds": "noun balcony",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive to be made",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "vājanopari",
+     "gloss": "horse-above",
+     "grounds": "compound horse above",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What optional ornaments may be made above the horse?",
+   "premises": [
+    "spring ornament or balcony is to be made",
+    "placement is above the horse"
+   ],
+   "inference": "Either a spring ornament or a balcony is to be made above the horse.",
+   "uncertainties": [
+    "whether both or either"
+   ],
+   "plain_english": "Either a spring ornament or a balcony is to be made above the horse."
+  },
+  {
+   "verse": 3406,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāddṛḍhakalpaṃ",
+     "gloss": "firm-form",
+     "grounds": "compound firm form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilayeṣṭakayā",
+     "gloss": "stone-brick-tree",
+     "grounds": "compound stone brick tree",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "drumaiḥ",
+     "gloss": "drumaiḥ",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl"
+    }
+   ],
+   "question": "How is the firm form to be constructed?",
+   "premises": [
+    "thus firm form is specified",
+    "stone brick and tree materials are used"
+   ],
+   "inference": "The firm form is to be made with stone, brick, and tree materials.",
+   "uncertainties": [
+    "exact material list"
+   ],
+   "plain_english": "Thus the firm form is to be made with stone, brick, and tree materials."
+  },
+  {
+   "verse": 3407,
+   "rows": [
+    {
+     "surface": "kapotoccatribhāgaṃ",
+     "gloss": "pigeon-one-third",
+     "grounds": "compound pigeon one third",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "noun foot",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudranidrakam",
+     "gloss": "small-sleep",
+     "grounds": "compound small sleep",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What alternative foot proportions are given for the pigeon form?",
+   "premises": [
+    "pigeon one third is an option",
+    "foot is an option",
+    "small sleep is an option"
+   ],
+   "inference": "The foot may be pigeon one-third, foot, or small sleep.",
+   "uncertainties": [
+    "exact meaning of small sleep"
+   ],
+   "plain_english": "The foot may be pigeon one-third, foot, or small sleep."
+  },
+  {
+   "verse": 3408,
+   "rows": [
+    {
+     "surface": "sapādadaṇḍā",
+     "gloss": "with-foot-staff",
+     "grounds": "compound with foot staff",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhyardhadvidaṇḍā",
+     "gloss": "one-and-half-two-staff",
+     "grounds": "compound one and half two staff",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "vistṛtānvitā",
+     "gloss": "spread-with",
+     "grounds": "compound spread with",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What spread and staff proportions are specified for the form?",
+   "premises": [
+    "with foot staff is an option",
+    "one and half two staff is an option",
+    "spread with is specified"
+   ],
+   "inference": "The form may be with foot staff or one and half two staff, spread with.",
+   "uncertainties": [
+    "exact proportion interpretation"
+   ],
+   "plain_english": "The form may be with foot staff or one and half two staff, spread with."
+  },
+  {
+   "verse": 3409,
+   "rows": [
+    {
+     "surface": "vidheyā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive to be made",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "svastikākṛtyā",
+     "gloss": "swastika-form",
+     "grounds": "compound swastika form",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "nāsikordhvena",
+     "gloss": "nose-above",
+     "grounds": "compound nose above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsikā",
+     "gloss": "nose",
+     "grounds": "noun nose",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the swastika form to be made relative to the nose?",
+   "premises": [
+    "to be made is specified",
+    "swastika form is used",
+    "nose above and nose are specified"
+   ],
+   "inference": "The swastika form is to be made with nose above and nose.",
+   "uncertainties": [
+    "exact spatial relation"
+   ],
+   "plain_english": "The swastika form is to be made with nose above and nose."
+  },
+  {
+   "verse": 3410,
+   "rows": [
+    {
+     "surface": "vātāhatacalaccārulatāvatkarṇikākriyā",
+     "gloss": "wind-struck-moving-beautiful-creeper-like-ear-ornament",
+     "grounds": "compound wind struck moving beautiful creeper like ear ornament",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of ear ornament is described?",
+   "premises": [
+    "wind struck moving beautiful creeper like ear ornament is specified"
+   ],
+   "inference": "The ear ornament is like a wind-struck moving beautiful creeper.",
+   "uncertainties": [
+    "exact compound segmentation"
+   ],
+   "plain_english": "The ear ornament is like a wind-struck moving beautiful creeper."
+  },
+  {
+   "verse": 3411,
+   "rows": [
+    {
+     "surface": "pādapādaghanopetaṃ",
+     "gloss": "foot-foot-dense-with",
+     "grounds": "compound foot foot dense with",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "pādātpādavinirgamaḥ",
+     "gloss": "foot-from-foot-exit",
+     "grounds": "compound foot from foot exit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dense foot arrangement and exit are specified?",
+   "premises": [
+    "foot foot dense with is specified",
+    "foot from foot exit is specified"
+   ],
+   "inference": "The arrangement is dense with feet and has foot-to-foot exit.",
+   "uncertainties": [
+    "exact architectural meaning"
+   ],
+   "plain_english": "The arrangement is dense with feet and has foot-to-foot exit."
+  },
+  {
+   "verse": 3412,
+   "rows": [
+    {
+     "surface": "pādārdhavipulaṃ",
+     "gloss": "foot-half-wide",
+     "grounds": "compound foot half wide",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhanivṛtyāśrāgrapaṭṭikā",
+     "gloss": "half-return-edge-strip",
+     "grounds": "compound half return edge strip",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What half-wide foot and strip arrangement is specified?",
+   "premises": [
+    "foot half wide is specified",
+    "half return edge strip is specified"
+   ],
+   "inference": "The foot is half-wide and has a half-return edge strip.",
+   "uncertainties": [
+    "exact strip placement"
+   ],
+   "plain_english": "The foot is half-wide and has a half-return edge strip."
+  },
+  {
+   "verse": 3413,
+   "rows": [
+    {
+     "surface": "pādākāraṃ",
+     "gloss": "foot-form",
+     "grounds": "compound foot form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tripādārdhasadṛśodayasaṃyutā",
+     "gloss": "three-foot-half-similar-rise-with",
+     "grounds": "compound three foot half similar rise with",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What foot form and rise are specified?",
+   "premises": [
+    "foot form is specified",
+    "three foot half similar rise with is specified"
+   ],
+   "inference": "The foot form is accompanied by a three-foot-half similar rise.",
+   "uncertainties": [
+    "exact proportion"
+   ],
+   "plain_english": "The foot form is accompanied by a three-foot-half similar rise."
+  },
+  {
+   "verse": 3414,
+   "rows": [
+    {
+     "surface": "pādena",
+     "gloss": "by-foot",
+     "grounds": "instrumental foot",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "horse",
+     "grounds": "noun horse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāttadanantaramucyate",
+     "gloss": "to-be-made",
+     "grounds": "compound to be made thereafter said",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What is to be made by foot after the horse?",
+   "premises": [
+    "by foot is specified",
+    "horse is specified",
+    "to be made thereafter is specified"
+   ],
+   "inference": "By foot the horse is to be made, and thereafter it is said.",
+   "uncertainties": [
+    "exact sequence"
+   ],
+   "plain_english": "By foot the horse is to be made, and thereafter it is said."
+  },
+  {
+   "verse": 3415,
+   "rows": [
+    {
+     "surface": "vikāraḥ",
+     "gloss": "change",
+     "grounds": "noun change",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāttu",
+     "gloss": "of-gods",
+     "grounds": "compound becomes tu",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "devānāṃ",
+     "grounds": "genitive plural gods",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "dvijānāṃ",
+     "gloss": "of-twice-born",
+     "grounds": "genitive plural twice-born",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "bhūbhṛtāmapi",
+     "gloss": "of-earth-bearers",
+     "grounds": "genitive plural earth-bearers",
+     "morph": "gen.pl"
+    }
+   ],
+   "question": "For whom is the change specified?",
+   "premises": [
+    "change is specified",
+    "gods twice-born and earth-bearers are specified"
+   ],
+   "inference": "The change applies to gods, twice-born, and earth-bearers.",
+   "uncertainties": [
+    "exact nature of change"
+   ],
+   "plain_english": "The change applies to gods, twice-born, and earth-bearers."
+  },
+  {
+   "verse": 3416,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "noun staff",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sapādaṃ",
+     "gloss": "with-foot",
+     "grounds": "compound with foot",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "or",
+     "grounds": "indeclinable or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratinirgamanaṃ",
+     "gloss": "return",
+     "grounds": "noun return",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "lead",
+     "grounds": "verb lead",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How is the staff with foot to be led?",
+   "premises": [
+    "staff with foot is specified",
+    "return is specified",
+    "lead is specified"
+   ],
+   "inference": "The staff with foot is to be led with return.",
+   "uncertainties": [
+    "exact optionality"
+   ],
+   "plain_english": "The staff with foot is to be led with return."
+  },
+  {
+   "verse": 3417,
+   "rows": [
+    {
+     "surface": "hīnādhikyaṃ",
+     "gloss": "deficient-excess",
+     "grounds": "compound deficient excess",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṅgānāṃ",
+     "gloss": "of-limbs",
+     "grounds": "genitive plural limbs",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "prastarasya",
+     "gloss": "of-stone",
+     "grounds": "genitive stone",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative best twice-born",
+     "morph": "voc.pl"
+    }
+   ],
+   "question": "What deficiency or excess of limbs and stone is addressed?",
+   "premises": [
+    "deficient excess is specified",
+    "of limbs and stone is specified",
+    "best twice-born is addressed"
+   ],
+   "inference": "Deficiency or excess of limbs and stone is addressed to the best twice-born.",
+   "uncertainties": [
+    "exact correction rule"
+   ],
+   "plain_english": "Deficiency or excess of limbs and stone is addressed to the best twice-born."
+  },
+  {
+   "verse": 3418,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "foot-stone",
+     "grounds": "compound becomes foot stone",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pādaprastara",
+     "gloss": "pādaprastara",
+     "grounds": "compound foot stone",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "grītvāvarge",
+     "gloss": "grītvāvarge",
+     "grounds": "compound grītvāvarge",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "base",
+     "grounds": "locative base",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedikā",
+     "gloss": "altar",
+     "grounds": "noun altar",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the foot-stone altar placed?",
+   "premises": [
+    "foot stone is specified",
+    "base is specified",
+    "altar is specified"
+   ],
+   "inference": "The foot-stone altar is at the base.",
+   "uncertainties": [
+    "exact meaning of grītvāvarge"
+   ],
+   "plain_english": "The foot-stone altar is at the base."
+  },
+  {
+   "verse": 3419,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptāṣṭadaśotsedhā",
+     "gloss": "six-seven-eight-ten-heights",
+     "grounds": "compound six seven eight ten heights",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "that-equal",
+     "grounds": "compound that equal",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "dīrghikā",
+     "gloss": "long-pit",
+     "grounds": "noun long pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb becomes",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What heights and pit proportion are specified?",
+   "premises": [
+    "six seven eight ten heights are specified",
+    "that equal is specified",
+    "long pit becomes"
+   ],
+   "inference": "The long pit becomes equal to those heights.",
+   "uncertainties": [
+    "exact height list"
+   ],
+   "plain_english": "The long pit becomes equal to those heights."
+  },
+  {
+   "verse": 3420,
+   "rows": [
+    {
+     "surface": "grīvotsedhatribhāgācca",
+     "gloss": "neck-height-one-third",
+     "grounds": "compound neck height one third",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "grīvādhastātsthirā",
+     "gloss": "neck-below",
+     "grounds": "compound neck below firm",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "firm",
+     "grounds": "verb becomes",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What firmness is specified below the neck?",
+   "premises": [
+    "neck height one third is specified",
+    "neck below firm is specified"
+   ],
+   "inference": "Below the neck it becomes firm by one third of neck height.",
+   "uncertainties": [
+    "exact proportion"
+   ],
+   "plain_english": "Below the neck it becomes firm by one third of neck height."
+  },
+  {
+   "verse": 3421,
+   "rows": [
+    {
+     "surface": "śeṣo'dhastambhakhaṇḍaḥ",
+     "gloss": "remainder-below-pillar-piece",
+     "grounds": "compound remainder below pillar piece",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "wall",
+     "grounds": "verb becomes",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bhittiḥ",
+     "gloss": "foot-wide-possessing",
+     "grounds": "noun wall",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādaviśālabhāk",
+     "gloss": "pādaviśālabhāk",
+     "grounds": "compound foot wide possessing",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What remainder and wall are specified?",
+   "premises": [
+    "remainder below pillar piece is specified",
+    "wall is specified",
+    "foot wide possessing is specified"
+   ],
+   "inference": "The remainder below the pillar piece becomes a wall possessing foot width.",
+   "uncertainties": [
+    "exact width"
+   ],
+   "plain_english": "The remainder below the pillar piece becomes a wall possessing foot width."
+  },
+  {
+   "verse": 3422,
+   "rows": [
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "indeclinable fourfold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhanaṃ",
+     "gloss": "binding",
+     "grounds": "noun binding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive having made",
+     "morph": "abs"
+    },
+    {
+     "surface": "kampamekena",
+     "gloss": "shake",
+     "grounds": "compound shake one",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "to-be-made",
+     "grounds": "causative to be made",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How is the binding and shaking to be made?",
+   "premises": [
+    "fourfold binding is made",
+    "shaking by one is specified",
+    "to be made is specified"
+   ],
+   "inference": "After making fourfold binding, shaking by one is to be made.",
+   "uncertainties": [
+    "exact shaking amount"
+   ],
+   "plain_english": "After making fourfold binding, shaking by one is to be made."
+  },
+  {
+   "verse": 3423,
+   "rows": [
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "noun foot",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcabhāge",
+     "gloss": "five-part",
+     "grounds": "locative five part",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridvyaṃśaṃ",
+     "gloss": "three-two-part",
+     "grounds": "compound three two part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "horse",
+     "grounds": "noun horse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb becomes",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What foot and horse proportions are specified?",
+   "premises": [
+    "foot or five part is specified",
+    "three two part horse becomes"
+   ],
+   "inference": "The foot or five part becomes a three-two-part horse.",
+   "uncertainties": [
+    "exact proportion"
+   ],
+   "plain_english": "The foot or five part becomes a three-two-part horse."
+  },
+  {
+   "verse": 3424,
+   "rows": [
+    {
+     "surface": "ardhena",
+     "gloss": "by-half",
+     "grounds": "instrumental half",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "kampamaṃśena",
+     "gloss": "shake-part",
+     "grounds": "compound shake part",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "horse",
+     "grounds": "noun horse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "to-be-arranged",
+     "grounds": "verb to be arranged",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How is the horse to be arranged by shaking?",
+   "premises": [
+    "by half is specified",
+    "shake part is specified",
+    "horse is to be arranged"
+   ],
+   "inference": "The horse is to be arranged by half and shake part.",
+   "uncertainties": [
+    "exact arrangement"
+   ],
+   "plain_english": "The horse is to be arranged by half and shake part."
+  }
+ ]
+}

@@ -1,13 +1,19 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3440,
- "question": "Which praised, hidden, and protective epithets of the deity are saluted in this mantra verse?",
+ "question": "What deficient but auspicious time is considered for brahmins' houses?",
  "premises": [
-  "The deity is addressed as praised.",
-  "The deity is addressed as hidden.",
-  "The deity is addressed as lord of cowherds and receives repeated obeisance."
+  "deficient is specified",
+  "but is specified",
+  "auspicious is specified",
+  "time is specified",
+  "of brahmins etc is specified",
+  "house is specified",
+  "considered is specified"
  ],
- "inference": "The mantra offers repeated obeisance to the praised, hidden lord of cowherds.",
- "uncertainties": [],
- "plain_english": "Obeisance to the praised one, the hidden one, the lord of cowherds; obeisance, obeisance."
+ "inference": "A deficient but auspicious time is considered for brahmins' houses.",
+ "uncertainties": [
+  "meaning of deficient time"
+ ],
+ "plain_english": "Deficient but auspicious time for brahmins' houses is considered."
 }

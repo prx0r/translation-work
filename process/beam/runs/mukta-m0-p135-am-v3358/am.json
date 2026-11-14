@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3358,
- "question": "What kind of karavīra garland should a composed worshipper offer?",
+ "question": "What measure is endowed with rod height?",
  "premises": [
-  "The garland is made of karavīra flowers.",
-  "The specified variety is red karavīra.",
-  "The worshipper should be composed while offering it."
+  "measure is pillar triple",
+  "that measure is endowed",
+  "rod height is included"
  ],
- "inference": "Therefore, a composed worshipper should offer a garland of red karavīra.",
- "uncertainties": [],
- "plain_english": "Being composed, one should offer a garland of red karavīra."
+ "inference": "The pillar-triple measure is endowed with rod height.",
+ "uncertainties": [
+  "exact height relation is not stated"
+ ],
+ "plain_english": "That pillar-triple measure is endowed with rod height."
 }

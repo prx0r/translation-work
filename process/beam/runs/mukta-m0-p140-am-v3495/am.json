@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3495,
- "question": "What sequence is given from the temples through face regions?",
+ "question": "Where should the door guardians be installed?",
  "premises": [
-  "temples are the starting point",
-  "phalguna nose middle end mouth cheek follow"
+  "The cave exterior is specified.",
+  "Door guardians are to be installed.",
+  "They are installed outside the cave."
  ],
- "inference": "The verse traces a sequence from temples through several face regions.",
+ "inference": "The door guardians should be installed outside the cave.",
  "uncertainties": [
-  "exact anatomical or channel meaning"
+  "The exact guardian forms are not named."
  ],
- "plain_english": "Of the two temples, from Phalguna, nose, middle, end, mouth, cheek."
+ "plain_english": "Leaving the cave, install the door guardians outside it."
 }

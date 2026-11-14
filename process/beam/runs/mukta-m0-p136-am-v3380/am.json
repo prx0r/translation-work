@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p136",
  "verse": 3380,
- "question": "Which liquid substances are prescribed for bathing the deity?",
+ "question": "What oblong form is measured by three-four-five rods and half?",
  "premises": [
-  "The deity is the object of bathing.",
-  "Coconut waters are specified as a bathing substance.",
-  "Honeys are likewise specified."
+  "The form is oblong.",
+  "Three-four-five rods are instrumental.",
+  "Half and three-footed are named."
  ],
- "inference": "The deity should be bathed with coconut waters and likewise with honeys.",
- "uncertainties": [],
- "plain_english": "One should bathe the deity with coconut waters and likewise with honeys."
+ "inference": "The oblong form is measured with rods and half, three-footed.",
+ "uncertainties": [
+  "Exact rod-length convention is not given."
+ ],
+ "plain_english": "The oblong form is measured by three, four, five rods and half, three-footed."
 }

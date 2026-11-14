@@ -1,0 +1,1095 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3451,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt + root tyaj"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+svāmī",
+     "gloss": "its-owner",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "maraṇāya",
+     "gloss": "for-death",
+     "grounds": "dative",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future",
+     "morph": "3.sg.act-fut + root bhū"
+    }
+   ],
+   "question": "When must a door not be abandoned despite danger to its owner?",
+   "premises": [
+    "abandonment is forbidden when it leads to death",
+    "the owner's safety overrides structural change"
+   ],
+   "inference": "a door should not be abandoned if doing so would cause death",
+   "uncertainties": [
+    "exact ritual context unclear"
+   ],
+   "plain_english": "Do not abandon it if that would bring death to its owner."
+  },
+  {
+   "verse": 3452,
+   "rows": [
+    {
+     "surface": "stambha+vyāsa+samo",
+     "gloss": "pillar-width-equal",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad+ardhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahulaṃ",
+     "gloss": "thickness",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What thickness is considered proper for a door pillar?",
+   "premises": [
+    "pillar width sets the standard",
+    "half that width is also accepted",
+    "thickness is judged accordingly"
+   ],
+   "inference": "door pillar thickness should equal pillar width or half of it",
+   "uncertainties": [
+    "measurement units unspecified"
+   ],
+   "plain_english": "A pillar's thickness is considered equal to its width, or half of it."
+  },
+  {
+   "verse": 3453,
+   "rows": [
+    {
+     "surface": "dvāra+udayāya",
+     "gloss": "for-door-height",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "in-three",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "in-five",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "being-divided",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How may the remainder be divided for door height?",
+   "premises": [
+    "the remainder is used for door height",
+    "it may be divided into three parts",
+    "it may alternatively be divided into five parts"
+   ],
+   "inference": "the remainder for door height is divided into three or five parts",
+   "uncertainties": [
+    "exact division rule unspecified"
+   ],
+   "plain_english": "For door height, the remainder is divided into three or five parts."
+  },
+  {
+   "verse": 3454,
+   "rows": [
+    {
+     "surface": "śeṣeṇa",
+     "gloss": "by-remainder",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhūṣaṇaṃ",
+     "gloss": "ornament",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "śuddha+dvāraṃ",
+     "gloss": "pure-door",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the middle pure door be ornamented?",
+   "premises": [
+    "the remainder is used for ornament",
+    "the pure door is the middle one",
+    "ornamentation follows the remainder"
+   ],
+   "inference": "the middle pure door should be ornamented with the remainder",
+   "uncertainties": [
+    "ornament type unspecified"
+   ],
+   "plain_english": "Ornament the middle pure door with the remainder."
+  },
+  {
+   "verse": 3455,
+   "rows": [
+    {
+     "surface": "tri+catuḥ+pañca+ṣaḍ+bhāga+bhāgena",
+     "gloss": "by-three-four-five-six-part-division",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "stambha+vaipule",
+     "gloss": "in-pillar-thickness",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "By what divisions is pillar thickness measured?",
+   "premises": [
+    "pillar thickness is measured by parts",
+    "the parts are three, four, five, and six"
+   ],
+   "inference": "pillar thickness is measured by three, four, five, or six parts",
+   "uncertainties": [
+    "which part applies when unspecified"
+   ],
+   "plain_english": "Pillar thickness is measured by three, four, five, or six parts."
+  },
+  {
+   "verse": 3456,
+   "rows": [
+    {
+     "surface": "ayugma+phalakā",
+     "gloss": "odd-panels",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "grāhyā",
+     "gloss": "should-be-taken",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhya+sandhi+vivarjitā",
+     "gloss": "middle-joint-devoid",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which panels should be taken for the door?",
+   "premises": [
+    "odd panels are selected",
+    "the middle joint is avoided",
+    "selection follows this rule"
+   ],
+   "inference": "odd panels devoid of the middle joint should be taken",
+   "uncertainties": [
+    "panel count unspecified"
+   ],
+   "plain_english": "Take odd panels without the middle joint."
+  },
+  {
+   "verse": 3457,
+   "rows": [
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "participle",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "prayoktavyā",
+     "gloss": "should-be-used",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā+bala+samanvitā",
+     "gloss": "according-to-strength-endowed",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should panels be used after abandoning the middle?",
+   "premises": [
+    "the middle is abandoned",
+    "remaining panels are used",
+    "strength determines their use"
+   ],
+   "inference": "after abandoning the middle, panels should be used according to strength",
+   "uncertainties": [
+    "strength criteria unspecified"
+   ],
+   "plain_english": "Abandon the middle and use the rest according to strength."
+  },
+  {
+   "verse": 3458,
+   "rows": [
+    {
+     "surface": "daṇḍās",
+     "gloss": "bars",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tri+paṃca+sapta+eva",
+     "gloss": "three-five-seven-indeed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nava+ekādaśa+saṃkhyayā",
+     "gloss": "by-nine-eleven-number",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many bars may a door have?",
+   "premises": [
+    "bars are counted",
+    "allowed counts are three, five, seven",
+    "nine and eleven are also allowed"
+   ],
+   "inference": "a door may have three, five, seven, nine, or eleven bars",
+   "uncertainties": [
+    "context of counts unspecified"
+   ],
+   "plain_english": "Bars may number three, five, seven, nine, or eleven."
+  },
+  {
+   "verse": 3459,
+   "rows": [
+    {
+     "surface": "yugme",
+     "gloss": "in-pair",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahati",
+     "gloss": "in-large",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "talpe",
+     "gloss": "panel",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇa+sthe",
+     "gloss": "in-right-situated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kavāṭake",
+     "gloss": "door-leaf",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the door leaf placed in a large paired panel?",
+   "premises": [
+    "the panel is large and paired",
+    "the door leaf is situated on the right",
+    "placement follows this arrangement"
+   ],
+   "inference": "in a large paired panel, the door leaf is placed on the right",
+   "uncertainties": [
+    "exact panel type unspecified"
+   ],
+   "plain_english": "In a large paired panel, the door leaf is on the right."
+  },
+  {
+   "verse": 3460,
+   "rows": [
+    {
+     "surface": "upariṣṭāt",
+     "gloss": "above",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "traya+āṃśaṃ",
+     "gloss": "three-part",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "participle",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "adhaḥ+aṃśaṃ",
+     "gloss": "below-part",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvi+pārśvayoḥ",
+     "gloss": "on-two-sides",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are upper and lower parts handled on two sides?",
+   "premises": [
+    "the upper three-part is left",
+    "the lower part is used",
+    "this applies on two sides"
+   ],
+   "inference": "leave the upper three-part and use the lower part on both sides",
+   "uncertainties": [
+    "measurement basis unspecified"
+   ],
+   "plain_english": "Leave the upper three parts and use the lower part on both sides."
+  },
+  {
+   "verse": 3461,
+   "rows": [
+    {
+     "surface": "yathā+balaṃ",
+     "gloss": "according-to-strength",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yathā+śobham",
+     "gloss": "according-to-beauty",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ayaḥ+paṭṭair",
+     "gloss": "with-iron-straps",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dṛḍhīkṛte",
+     "gloss": "strengthened",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should a door be strengthened with iron straps?",
+   "premises": [
+    "strength guides the work",
+    "beauty also guides it",
+    "iron straps strengthen the door"
+   ],
+   "inference": "strengthen the door with iron straps according to strength and beauty",
+   "uncertainties": [
+    "strap placement unspecified"
+   ],
+   "plain_english": "Strengthen it with iron straps according to strength and beauty."
+  },
+  {
+   "verse": 3462,
+   "rows": [
+    {
+     "surface": "ardha+candrais",
+     "gloss": "with-half-moons",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṅgaiḥ",
+     "gloss": "with-horns",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "puṣpair",
+     "gloss": "with-flowers",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "nānā+vidhair",
+     "gloss": "with-various-kinds",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ornaments may be added to the door?",
+   "premises": [
+    "half-moons are used",
+    "horns are used",
+    "flowers and various kinds are also used"
+   ],
+   "inference": "the door may be ornamented with half-moons, horns, flowers, and various kinds",
+   "uncertainties": [
+    "ornament arrangement unspecified"
+   ],
+   "plain_english": "Ornament it with half-moons, horns, flowers, and various kinds."
+  },
+  {
+   "verse": 3463,
+   "rows": [
+    {
+     "surface": "ūrdhva+adhaḥ",
+     "gloss": "above-below",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śikhara+āśliṣṭa+mūla+bandha+agra+bandhanam",
+     "gloss": "top-joined-base-bond-end-fastening",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fastening joins top and base above and below?",
+   "premises": [
+    "fastening occurs above and below",
+    "top and base are joined",
+    "end fastening completes it"
+   ],
+   "inference": "a fastening joins the top and base above and below",
+   "uncertainties": [
+    "fastening material unspecified"
+   ],
+   "plain_english": "Fasten top and base together above and below."
+  },
+  {
+   "verse": 3464,
+   "rows": [
+    {
+     "surface": "badhnīyāt",
+     "gloss": "should-bind",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt + root bandh"
+    },
+    {
+     "surface": "sarva+deśe",
+     "gloss": "in-all-places",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā+śobhaṃ",
+     "gloss": "according-to-beauty",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yathā+balam",
+     "gloss": "according-to-strength",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should binding be done in all places?",
+   "premises": [
+    "binding should be done everywhere",
+    "beauty guides binding",
+    "strength also guides binding"
+   ],
+   "inference": "bind in all places according to beauty and strength",
+   "uncertainties": [
+    "binding method unspecified"
+   ],
+   "plain_english": "Bind everywhere according to beauty and strength."
+  },
+  {
+   "verse": 3465,
+   "rows": [
+    {
+     "surface": "padma+patra+vicitra+aṅgā",
+     "gloss": "lotus-leaf-variegated-body",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṭṭa+aṅgā",
+     "gloss": "strap-bodied",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "skandha+paṭṭikā",
+     "gloss": "shoulder-strap",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What decorative strap forms are mentioned?",
+   "premises": [
+    "lotus-leaf variegated body is mentioned",
+    "strap-bodied form is mentioned",
+    "shoulder strap is mentioned"
+   ],
+   "inference": "decorative forms include lotus-leaf variegated body, strap body, and shoulder strap",
+   "uncertainties": [
+    "application context unspecified"
+   ],
+   "plain_english": "Forms include lotus-leaf variegated body, strap body, and shoulder strap."
+  },
+  {
+   "verse": 3466,
+   "rows": [
+    {
+     "surface": "argalaṃ",
+     "gloss": "bolt",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāma+bhāge",
+     "gloss": "on-left-part",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talpakam",
+     "gloss": "socket",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where are bolt and socket placed?",
+   "premises": [
+    "the bolt is on the right part",
+    "the socket is on the left part",
+    "placement is paired"
+   ],
+   "inference": "the bolt is on the right and the socket on the left",
+   "uncertainties": [
+    "exact door side unspecified"
+   ],
+   "plain_english": "Place the bolt on the right and the socket on the left."
+  },
+  {
+   "verse": 3467,
+   "rows": [
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinirdiṣṭaṃ",
+     "gloss": "having-ascertained",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "participle",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "karma",
+     "gloss": "work",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt + root car"
+    }
+   ],
+   "question": "What should be done after ascertaining the interval?",
+   "premises": [
+    "the interval is ascertained",
+    "it is known",
+    "the work should then be performed"
+   ],
+   "inference": "after ascertaining and knowing the interval, perform the work",
+   "uncertainties": [
+    "work type unspecified"
+   ],
+   "plain_english": "Ascertain the interval, know it, then perform the work."
+  },
+  {
+   "verse": 3468,
+   "rows": [
+    {
+     "surface": "anyayor",
+     "gloss": "of-other-two",
+     "grounds": "genitive",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "prescribed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā+dvāre",
+     "gloss": "in-great-door",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "catur+yugam",
+     "gloss": "four-pairs",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is prescribed for the great door among two?",
+   "premises": [
+    "one of two is prescribed",
+    "this applies to the great door",
+    "four pairs are involved"
+   ],
+   "inference": "for the great door, one of two is prescribed with four pairs",
+   "uncertainties": [
+    "exact pairing rule unspecified"
+   ],
+   "plain_english": "For the great door, one of two is prescribed, with four pairs."
+  },
+  {
+   "verse": 3469,
+   "rows": [
+    {
+     "surface": "kavāṭa+yugmaṃ",
+     "gloss": "door-pair",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kokila+argala+saṃyutam",
+     "gloss": "kokila-bolt-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What kind of door pair should be made?",
+   "premises": [
+    "a door pair should be made",
+    "it is joined with kokila bolt",
+    "construction follows this rule"
+   ],
+   "inference": "make a door pair joined with a kokila bolt",
+   "uncertainties": [
+    "kokila bolt type unspecified"
+   ],
+   "plain_english": "Make a door pair joined with a kokila bolt."
+  },
+  {
+   "verse": 3470,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavāṭo",
+     "gloss": "door",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryo",
+     "gloss": "should-be-made",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yantrair",
+     "gloss": "with-mechanisms",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bahu+vidhair",
+     "gloss": "with-many-kinds",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How else may a door be made?",
+   "premises": [
+    "a door may be made",
+    "mechanisms may be used",
+    "many kinds are allowed"
+   ],
+   "inference": "a door may also be made with various mechanisms",
+   "uncertainties": [
+    "mechanism types unspecified"
+   ],
+   "plain_english": "A door may also be made with various mechanisms."
+  },
+  {
+   "verse": 3471,
+   "rows": [
+    {
+     "surface": "dvāreṇa",
+     "gloss": "by-door",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "siddhaṃ",
+     "gloss": "accomplished",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rathyā+rūpa+ādi+vā+uditam",
+     "gloss": "chariot-form-etc-or-stated",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is said about a door accomplished by a door?",
+   "premises": [
+    "a door is accomplished by a door",
+    "another form is stated",
+    "chariot form and others are included"
+   ],
+   "inference": "a door accomplished by a door is stated, along with chariot form and others",
+   "uncertainties": [
+    "exact relation unspecified"
+   ],
+   "plain_english": "A door accomplished by a door is stated, along with chariot form and others."
+  },
+  {
+   "verse": 3472,
+   "rows": [
+    {
+     "surface": "bhittiṃ",
+     "gloss": "wall",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "participle",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāśad+antas",
+     "gloss": "fifty-inside",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "triṃśad+bahis+dvayam",
+     "gloss": "thirty-outside-two",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What wall measurements are given inside and outside?",
+   "premises": [
+    "a wall is made",
+    "fifty is inside",
+    "thirty and two are outside"
+   ],
+   "inference": "the wall has fifty inside and thirty plus two outside",
+   "uncertainties": [
+    "units unspecified"
+   ],
+   "plain_english": "Make the wall with fifty inside and thirty plus two outside."
+  },
+  {
+   "verse": 3473,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoga+vistāras",
+     "gloss": "joining-width",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulais",
+     "gloss": "with-fingers",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tribhir",
+     "gloss": "with-three",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative width is given for joining?",
+   "premises": [
+    "an alternative is given",
+    "joining width is measured",
+    "three fingers are used"
+   ],
+   "inference": "the joining width may alternatively be three fingers",
+   "uncertainties": [
+    "exact joining context unspecified"
+   ],
+   "plain_english": "Alternatively, the joining width is three fingers."
+  },
+  {
+   "verse": 3474,
+   "rows": [
+    {
+     "surface": "bahulaṃ",
+     "gloss": "thickness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāk+vad",
+     "gloss": "as-before",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "prescribed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad+udīritam",
+     "gloss": "that-stated",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is thickness prescribed as before?",
+   "premises": [
+    "thickness is prescribed",
+    "it follows the earlier rule",
+    "a foot or stated measure applies"
+   ],
+   "inference": "thickness is prescribed as before, by a foot or the stated measure",
+   "uncertainties": [
+    "measure relation unspecified"
+   ],
+   "plain_english": "Thickness is prescribed as before, by a foot or the stated measure."
+  }
+ ]
+}

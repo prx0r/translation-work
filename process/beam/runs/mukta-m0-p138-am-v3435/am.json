@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3435,
- "question": "How must worship be performed using the mantra that is about to be stated?",
+ "question": "What increase range runs from three-five measure to six vitasti?",
  "premises": [
-  "A mantra is about to be spoken.",
-  "Worship is to be performed with that mantra.",
-  "The mantra is applied with each flower."
+  "by increase is specified",
+  "three-five measure beginning is specified",
+  "six vitasti ending is specified",
+  "indeed is specified"
  ],
- "inference": "One should worship with the forthcoming mantra, offering it with each flower.",
- "uncertainties": [],
- "plain_english": "One should worship with the mantra that will be spoken, using it with each flower."
+ "inference": "The increase runs from a three-five measure beginning to a six-vitasti ending.",
+ "uncertainties": [
+  "exact progression"
+ ],
+ "plain_english": "By increase, from three-five measure beginning to six vitasti ending indeed."
 }

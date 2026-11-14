@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p140",
  "verse": 3498,
- "question": "Which named vital airs are associated with yawning and sound?",
+ "question": "How should the direction of the door be determined?",
  "premises": [
-  "devadatta causes yawning",
-  "dhananjaya causes sound"
+  "The door occurs in some direction.",
+  "That direction should be determined.",
+  "It is called eastern."
  ],
- "inference": "The verse assigns yawning to Devadatta and sound to Dhananjaya.",
+ "inference": "The direction in which the door occurs should be determined as eastern.",
  "uncertainties": [
-  "whether these are separate vayus"
+  "The fused sandhi token is not split."
  ],
- "plain_english": "Devadatta causes yawning, and Dhananjaya causes sound."
+ "plain_english": "Determine the direction of the door as eastern."
 }

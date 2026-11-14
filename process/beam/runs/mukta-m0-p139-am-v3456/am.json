@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p139",
  "verse": 3456,
- "question": "What misfortune is said to arise in an empty embryo?",
+ "question": "Which panels should be taken for the door?",
  "premises": [
-  "In an empty embryo misfortune would arise.",
-  "Such consequences are to be inferred firmly."
+  "odd panels are selected",
+  "the middle joint is avoided",
+  "selection follows this rule"
  ],
- "inference": "An empty embryo entails misfortune, and related consequences should be stated firmly.",
- "uncertainties": [],
- "plain_english": "In an empty embryo there would be misfortune; and so forth should be stated firmly."
+ "inference": "odd panels devoid of the middle joint should be taken",
+ "uncertainties": [
+  "panel count unspecified"
+ ],
+ "plain_english": "Take odd panels without the middle joint."
 }

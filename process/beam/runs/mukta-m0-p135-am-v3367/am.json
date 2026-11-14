@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3367,
- "question": "Which powdered substances are used in the ritual addressed to Śāṅkarī?",
+ "question": "How does measure increase from one hasta to five hastas?",
  "premises": [
-  "Rice flour powder is specified for use.",
-  "Barley powder is also specified.",
-  "The instruction is addressed to Śāṅkarī."
+  "measure starts from one hasta",
+  "it reaches five hastas",
+  "increase is six aṅgulas each"
  ],
- "inference": "Therefore, rice flour powder and barley powder are to be used in this rite.",
- "uncertainties": [],
- "plain_english": "With rice flour powder and barley powder, O Śāṅkarī."
+ "inference": "Measure increases by six aṅgulas for each hasta from one to five.",
+ "uncertainties": [
+  "base measure is not stated"
+ ],
+ "plain_english": "From one hasta up to five hastas, increase by six aṅgulas each."
 }

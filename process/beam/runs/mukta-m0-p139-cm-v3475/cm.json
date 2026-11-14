@@ -3,39 +3,34 @@
  "verse": 3475,
  "rows": [
   {
-   "lemma": "pañca",
+   "lemma": "eka+aṃśa+hīnaṃ",
+   "morph": "adj.acc.sg.n",
+   "grounds": "compound of eka, aṃśa, and hīna; modifies dvāraṃ"
+  },
+  {
+   "lemma": "tan+mānaṃ",
+   "morph": "comp.acc.sg.n",
+   "grounds": "sandhi-fused tan+mānaṃ; measure associated with that"
+  },
+  {
+   "lemma": "dvāraṃ",
+   "morph": "n.acc.sg.n",
+   "grounds": "accusative object modified by preceding compounds"
+  },
+  {
+   "lemma": "śuddham",
+   "morph": "adj.acc.sg.n",
+   "grounds": "adjective agreeing with dvāraṃ"
+  },
+  {
+   "lemma": "iha",
    "morph": "(indecl.)",
-   "grounds": "numeral modifying the five elements"
+   "grounds": "indeclinable locative adverb"
   },
   {
-   "lemma": "bhūta",
-   "morph": "compound member (m.nom.pl)",
-   "grounds": "compound member naming the five elements"
-  },
-  {
-   "lemma": "ātmaka",
-   "morph": "compound member (adj)",
-   "grounds": "compound member indicating constitution by the five elements"
-  },
-  {
-   "lemma": "varṇa",
-   "morph": "m.nom.sg",
-   "grounds": "the unit whose elemental constitution is stated"
-  },
-  {
-   "lemma": "ātmikā",
-   "morph": "f.nom.sg",
-   "grounds": "feminine adjective agreeing with the stated varṇa"
-  },
-  {
-   "lemma": "bhavati",
-   "morph": "3.sg.act-pres, root bhū",
-   "grounds": "states the elemental constitution of the varṇa"
-  },
-  {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "marks the quoted doctrinal statement"
+   "lemma": "uditam",
+   "morph": "pp.acc.sg.n",
+   "grounds": "past participle of vad, agreeing with dvāraṃ"
   }
  ]
 }

@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p136",
+ "items": [
+  {
+   "verse": 3400,
+   "rows": [
+    {
+     "surface": "daṇḍikāmuṣṭibandhāntaḥ",
+     "gloss": "rod-piece-fist-band-end",
+     "grounds": "compound of daṇḍikā, muṣṭi, bandha, and anta; final visarga marks nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samādyāyasamanvitam",
+     "gloss": "equal-iron-joined",
+     "grounds": "compound of samā, āyasa, and samanvita; past-participle adjective agreeing with the measured part",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What material must be joined at the end of the rod-piece fist-band?",
+   "premises": [
+    "the rod-piece fist-band has an end",
+    "equal iron is joined there",
+    "the joined piece completes the measurement"
+   ],
+   "inference": "the rod-piece fist-band end receives equal iron",
+   "uncertainties": [
+    "exact syntactic relation to the preceding measured body-part remains implicit",
+    "gender and case of samanvitam depend on the understood noun"
+   ],
+   "plain_english": "At the end of the rod-piece fist-band, it is joined with equal iron."
+  }
+ ]
+}

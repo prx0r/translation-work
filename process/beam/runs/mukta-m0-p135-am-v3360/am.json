@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3360,
- "question": "Is a garland of jātī and yūthī flowers faulty when made entirely white?",
+ "question": "What length has height equal to rod measure?",
  "premises": [
-  "A garland may be made of jātī and yūthī flowers.",
-  "The garland may be entirely white.",
-  "Such an entirely white garland is declared faulty."
+  "length is five rods",
+  "height equals rod measure",
+  "the measure is compounded"
  ],
- "inference": "Therefore, an all-white garland of jātī and yūthī is not acceptable.",
- "uncertainties": [],
- "plain_english": "A garland made of jātī and yūthī flowers is faulty if it is entirely white."
+ "inference": "The five-rod length has height equal to rod measure.",
+ "uncertainties": [
+  "rod measure unit is unspecified"
+ ],
+ "plain_english": "The five-rod length has height equal to rod measure."
 }

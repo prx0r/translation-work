@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3432,
- "question": "What traditionally remembered merit is gained by giving a hundred niṣkas of gold?",
+ "question": "What width may be half of the door height in a temple?",
  "premises": [
-  "A gift of a hundred niṣkas of gold is given.",
-  "A specific fruit is associated with that gift.",
-  "That fruit is traditionally remembered."
+  "door height is specified",
+  "half of that is specified",
+  "may be is specified",
+  "width is specified",
+  "in temple is specified"
  ],
- "inference": "The verse invokes the merit traditionally remembered for giving a hundred niṣkas of gold.",
- "uncertainties": [],
- "plain_english": "It recalls the fruit traditionally said to come from giving a hundred niṣkas of gold."
+ "inference": "The temple door width may be half of the door height.",
+ "uncertainties": [
+  "exact unit"
+ ],
+ "plain_english": "Door height; half of that may be the width in the temple."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3355,
- "question": "Which materials are prohibited from being used in this ritual context?",
+ "question": "How is the plank seat made and adorned?",
  "premises": [
-  "Wood is explicitly prohibited.",
-  "Bamboo is explicitly prohibited.",
-  "Hair is explicitly prohibited at any time."
+  "it is made fivefold",
+  "it includes half measure",
+  "plank seat is adorned"
  ],
- "inference": "Therefore, wood, bamboo, and hair must never be used.",
- "uncertainties": [],
- "plain_english": "Never with wood, never with bamboo, and never with hair."
+ "inference": "The plank seat is made fivefold with half measure and adorned.",
+ "uncertainties": [
+  "meaning of maṇḍitā is unclear"
+ ],
+ "plain_english": "Having made it fivefold with half, the plank seat is adorned."
 }
