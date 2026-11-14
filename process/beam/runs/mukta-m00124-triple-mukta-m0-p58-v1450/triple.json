@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "adjective describing shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "level",
+     "grounds": "adjective describing evenness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devanām",
+     "gloss": "of-gods",
+     "grounds": "genitive plural indicating recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking recipients",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijanmanām",
+     "gloss": "of-twice-born",
+     "grounds": "genitive plural indicating recipients",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which recipients are designated for a square and level site?",
+   "premises": [
+    "A site is described as square and level.",
+    "The relative pronoun links this site to specific recipients.",
+    "The recipients named are gods and the twice-born."
+   ],
+   "inference": "A square and level site is designated for gods and the twice-born.",
+   "uncertainties": [],
+   "plain_english": "That which is square and level is for the gods and for the twice-born."
+  }
+ ]
+}

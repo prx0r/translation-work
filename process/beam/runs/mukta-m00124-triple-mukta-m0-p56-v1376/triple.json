@@ -1,0 +1,1259 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1376,
+   "rows": [
+    {
+     "surface": "cyuta",
+     "gloss": "fallen",
+     "grounds": "error in recitation or action",
+     "morph": "ppp"
+    },
+    {
+     "surface": "skhalita",
+     "gloss": "stumbled",
+     "grounds": "slip or mistake",
+     "morph": "ppp"
+    },
+    {
+     "surface": "śu",
+     "gloss": "impure",
+     "grounds": "defective or inauspicious element",
+     "morph": "stem"
+    },
+    {
+     "surface": "dvyartham",
+     "gloss": "meaningless",
+     "grounds": "lacking proper sense or purpose",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhyaset",
+     "gloss": "should-practice",
+     "grounds": "prescriptive remedy",
+     "morph": "3.sg.opt.act √abhyas"
+    },
+    {
+     "surface": "mantrasaṃhitām",
+     "gloss": "mantra-collection",
+     "grounds": "collection of mantras",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What remedial practice corrects fallen, stumbled, impure, or meaningless ritual acts?",
+   "premises": [
+    "Ritual acts may become fallen or stumbled.",
+    "Ritual acts may become impure or meaningless.",
+    "A corrective practice is prescribed for such defects."
+   ],
+   "inference": "One should practice the mantra collection to remedy these defects.",
+   "uncertainties": [
+    "The exact scope of śu as a defective element is context-dependent."
+   ],
+   "plain_english": "If something has fallen, slipped, become impure, or turned meaningless, one should practice the collection of mantras."
+  },
+  {
+   "verse": 1377,
+   "rows": [
+    {
+     "surface": "māghamāsaṃ",
+     "gloss": "māgha-month",
+     "grounds": "lunar month Māgha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "except",
+     "grounds": "exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śastaṃ",
+     "gloss": "auspicious",
+     "grounds": "commended for ritual",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhānoḥ",
+     "gloss": "of-sun",
+     "grounds": "the sun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ayanam",
+     "gloss": "course",
+     "grounds": "solar movement period",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttaram",
+     "gloss": "northern",
+     "grounds": "northward course",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which solar period is auspicious for ritual action excluding the month of Māgha?",
+   "premises": [
+    "The sun has a northern course.",
+    "The month of Māgha is excluded.",
+    "Auspicious timing is specified for ritual action."
+   ],
+   "inference": "The sun's northern course is auspicious, except during the month of Māgha.",
+   "uncertainties": [],
+   "plain_english": "The sun's northern course is auspicious, except for the month of Māgha."
+  },
+  {
+   "verse": 1378,
+   "rows": [
+    {
+     "surface": "śrāvaṇaḥ",
+     "gloss": "śrāvaṇa",
+     "grounds": "lunar month Śrāvaṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyante",
+     "gloss": "are-prescribed",
+     "grounds": "ritually enjoined",
+     "morph": "3.pl.pass.pres.ind √vidh"
+    },
+    {
+     "surface": "tadanye",
+     "gloss": "other-than-those",
+     "grounds": "months other than those mentioned",
+     "morph": "m.nom.pl (compound: tad+anye)"
+    },
+    {
+     "surface": "ninditāḥ",
+     "gloss": "censured",
+     "grounds": "disapproved for ritual",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "regarded as",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which months are prescribed and which months are considered censured for ritual?",
+   "premises": [
+    "Śrāvaṇa is included among prescribed times.",
+    "Other months are distinguished from those prescribed.",
+    "Those other months are regarded as censured."
+   ],
+   "inference": "Śrāvaṇa is prescribed, while the other months are considered censured.",
+   "uncertainties": [
+    "The full set of prescribed months is partly implied by the preceding verse."
+   ],
+   "plain_english": "Śrāvaṇa is prescribed, and the other months are considered censured."
+  },
+  {
+   "verse": 1379,
+   "rows": [
+    {
+     "surface": "śukle",
+     "gloss": "in-bright-fortnight",
+     "grounds": "waxing lunar fortnight",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādyatṛtīyāṃśaṃ",
+     "gloss": "first-third-part",
+     "grounds": "initial third portion",
+     "morph": "m.acc.sg (compound: ādya+tṛtīya+aṃśam)"
+    },
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "waning lunar fortnight",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antyaṃ",
+     "gloss": "last",
+     "grounds": "final portion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive exclusion",
+     "morph": "3.sg.opt.act √tyaj"
+    }
+   ],
+   "question": "Which portions of the bright and dark lunar fortnights must be avoided?",
+   "premises": [
+    "The bright fortnight has an initial third portion.",
+    "The dark fortnight has a final portion.",
+    "Certain portions of lunar fortnights are to be avoided."
+   ],
+   "inference": "One should avoid the first third of the bright fortnight or the last part of the dark fortnight.",
+   "uncertainties": [],
+   "plain_english": "One should avoid the first third of the bright fortnight or the last part of the dark fortnight."
+  },
+  {
+   "verse": 1380,
+   "rows": [
+    {
+     "surface": "navamīṃ",
+     "gloss": "ninth-day",
+     "grounds": "ninth lunar day",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pañcadaśyau",
+     "gloss": "fifteenth-days",
+     "grounds": "the two fifteenth lunar days",
+     "morph": "f.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitvā",
+     "gloss": "having-avoided",
+     "grounds": "excluding",
+     "morph": "gerund √hā"
+    },
+    {
+     "surface": "yugmetaraṃ",
+     "gloss": "other-than-paired",
+     "grounds": "odd-numbered, not even",
+     "morph": "f.acc.sg (compound: yugma+itaram)"
+    },
+    {
+     "surface": "tithim",
+     "gloss": "lunar-day",
+     "grounds": "tithi",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which lunar days should be selected after excluding specific inauspicious tithis?",
+   "premises": [
+    "The ninth and both fifteenth lunar days are to be avoided.",
+    "Lunar days can be paired or unpaired.",
+    "A selection rule applies to the remaining tithis."
+   ],
+   "inference": "After avoiding the ninth and fifteenth days, one should choose an unpaired lunar day.",
+   "uncertainties": [
+    "The exact counting convention for paired versus unpaired tithis may vary by tradition."
+   ],
+   "plain_english": "Having avoided the ninth day and the two fifteenth days, one should choose a lunar day that is not paired."
+  },
+  {
+   "verse": 1381,
+   "rows": [
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "waning lunar fortnight",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaṣṭiṃ",
+     "gloss": "sixth-day",
+     "grounds": "sixth lunar day",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "relative reference",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śiṣṭāḥ",
+     "gloss": "remaining",
+     "grounds": "left over",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative reference",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāninditāḥ",
+     "gloss": "all-uncensured",
+     "grounds": "not censured in any respect",
+     "morph": "f.nom.pl (compound: sarva+aninditāḥ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lunar days in the dark fortnight remain uncensured for ritual use?",
+   "premises": [
+    "The sixth day in the dark fortnight is specified.",
+    "Other days remain after exclusions.",
+    "The remaining days are evaluated as uncensured."
+   ],
+   "inference": "In the dark fortnight, apart from the sixth day, the remaining days are all uncensured here.",
+   "uncertainties": [
+    "The relation of this rule to previous exclusions may require harmonization."
+   ],
+   "plain_english": "In the dark fortnight, except for the sixth day, all the remaining days are uncensured here."
+  },
+  {
+   "verse": 1382,
+   "rows": [
+    {
+     "surface": "anūrādhā",
+     "gloss": "anūrādhā",
+     "grounds": "lunar mansion Anūrādhā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aśvayuk",
+     "gloss": "aśvinī",
+     "grounds": "lunar mansion Aśvinī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saumyaṃ",
+     "gloss": "saumya",
+     "grounds": "lunar mansion Mṛgaśiras",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavaṃ",
+     "gloss": "vaiṣṇava",
+     "grounds": "lunar mansion Śravaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāruṇaṃ",
+     "gloss": "vāruṇa",
+     "grounds": "lunar mansion Śatabhiṣak",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maghā",
+     "gloss": "maghā",
+     "grounds": "lunar mansion Maghā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which lunar mansions are included among those to be honored for ritual timing?",
+   "premises": [
+    "Specific lunar mansions are named.",
+    "These mansions are presented as suitable.",
+    "Suitability is established by listing them together."
+   ],
+   "inference": "Anūrādhā, Aśvinī, Mṛgaśiras, Śravaṇa, Śatabhiṣak, and Maghā are among the honored lunar mansions.",
+   "uncertainties": [
+    "The identifications of saumyaṃ, vaiṣṇavaṃ, and vāruṇaṃ follow traditional nakṣatra associations."
+   ],
+   "plain_english": "Anūrādhā, Aśvinī, Mṛgaśiras, Śravaṇa, Śatabhiṣak, and Maghā are to be honored."
+  },
+  {
+   "verse": 1383,
+   "rows": [
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "to-be-honored",
+     "grounds": "worthy of ritual selection",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śatabhiṣak",
+     "gloss": "śatabhiṣak",
+     "grounds": "lunar mansion Śatabhiṣak",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśākhā",
+     "gloss": "viśākhā",
+     "grounds": "lunar mansion Viśākhā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrvajaiḥ",
+     "gloss": "with-pūrvās",
+     "grounds": "with the preceding lunar mansions",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional lunar mansions are to be honored together with the Pūrvā group?",
+   "premises": [
+    "Certain lunar mansions are declared worthy of honor.",
+    "Śatabhiṣak and Viśākhā are named.",
+    "They are included together with the Pūrvā mansions."
+   ],
+   "inference": "Śatabhiṣak and Viśākhā, together with the Pūrvā mansions, are to be honored.",
+   "uncertainties": [
+    "pūrvajaiḥ refers to the group of Pūrvā nakṣatras, but the exact set is contextually understood."
+   ],
+   "plain_english": "Śatabhiṣak and Viśākhā, together with the Pūrvā mansions, are to be honored."
+  },
+  {
+   "verse": 1384,
+   "rows": [
+    {
+     "surface": "mānuṣe",
+     "gloss": "for-human-rites",
+     "grounds": "rites pertaining to humans",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pauṣya",
+     "gloss": "puṣya",
+     "grounds": "lunar mansion Puṣya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pauṣṇāḥ",
+     "gloss": "revatī",
+     "grounds": "lunar mansion Revatī",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadanye",
+     "gloss": "other-than-those",
+     "grounds": "mansions other than those named",
+     "morph": "m.nom.pl (compound: tad+anye)"
+    },
+    {
+     "surface": "ninditāḥ",
+     "gloss": "censured",
+     "grounds": "disapproved for ritual",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lunar mansions are suitable or censured specifically for human rites?",
+   "premises": [
+    "The context concerns rites for humans.",
+    "Puṣya and Revatī are named as suitable.",
+    "Other mansions are distinguished from these."
+   ],
+   "inference": "For human rites, Puṣya and Revatī are suitable, while the others are censured here.",
+   "uncertainties": [
+    "The identification of pauṣṇāḥ with Revatī follows traditional association."
+   ],
+   "plain_english": "For human rites, Puṣya and Revatī are suitable, but the others are censured here."
+  },
+  {
+   "verse": 1385,
+   "rows": [
+    {
+     "surface": "manuṣyaiḥ",
+     "gloss": "by-humans",
+     "grounds": "human agents",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāraṃ",
+     "gloss": "weekday",
+     "grounds": "day of the week",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive exclusion",
+     "morph": "3.sg.opt.act √vṛj"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sitāparam",
+     "gloss": "other-than-friday",
+     "grounds": "except the day of Venus",
+     "morph": "m.acc.sg (compound: sita+aparam)"
+    }
+   ],
+   "question": "Which weekdays should humans avoid when selecting a time for ritual action?",
+   "premises": [
+    "Weekdays are considered in ritual timing.",
+    "Humans are the agents in view.",
+    "Friday is treated as an exception."
+   ],
+   "inference": "Humans should avoid weekdays other than Friday.",
+   "uncertainties": [
+    "sitāparam is taken as 'other than Friday' based on traditional planetary association."
+   ],
+   "plain_english": "Humans should avoid any weekday other than Friday."
+  },
+  {
+   "verse": 1386,
+   "rows": [
+    {
+     "surface": "śubhakarma",
+     "gloss": "auspicious-act",
+     "grounds": "beneficial ritual action",
+     "morph": "n.nom.sg (compound: śubha+karma)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "to be performed",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "jīve",
+     "gloss": "jupiter",
+     "grounds": "planet Jupiter",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astaṃ",
+     "gloss": "to-setting",
+     "grounds": "setting, disappearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gate",
+     "gloss": "gone",
+     "grounds": "having gone",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "by knowledgeable persons",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Under what planetary condition must the wise refrain from auspicious acts?",
+   "premises": [
+    "Auspicious acts require proper timing.",
+    "Jupiter's setting is a specific condition.",
+    "The wise are instructed accordingly."
+   ],
+   "inference": "The wise should not perform auspicious acts when Jupiter has set.",
+   "uncertainties": [],
+   "plain_english": "The wise should not perform an auspicious act when Jupiter has set."
+  },
+  {
+   "verse": 1387,
+   "rows": [
+    {
+     "surface": "divā",
+     "gloss": "by-day",
+     "grounds": "during daytime",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhapratiṣṭhā",
+     "gloss": "womb-installation",
+     "grounds": "ritual installation of the womb/deposit",
+     "morph": "f.nom.sg (compound: garbha+pratiṣṭhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śarvaryāṃ",
+     "gloss": "by-night",
+     "grounds": "during nighttime",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vāstukarma",
+     "gloss": "building-rite",
+     "grounds": "ritual for a site or building",
+     "morph": "n.nom.sg (compound: vāstu+karma)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At what times of day should womb installation and building rites be performed?",
+   "premises": [
+    "Different rites have prescribed times.",
+    "Womb installation is distinguished from building rites.",
+    "Day and night are specified as appropriate times."
+   ],
+   "inference": "Womb installation should be done by day, and the building rite by night.",
+   "uncertainties": [],
+   "plain_english": "The womb-installation should be done by day, and the building rite by night."
+  },
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "during nighttime",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vāstubaliṃ",
+     "gloss": "building-offering",
+     "grounds": "offering for the site",
+     "morph": "m.acc.sg (compound: vāstu+balim)"
+    },
+    {
+     "surface": "grāme",
+     "gloss": "in-village",
+     "grounds": "within a village",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "in the fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "in-any-way",
+     "grounds": "under any circumstances",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and when must the building offering in fire never be performed?",
+   "premises": [
+    "A building offering may involve fire.",
+    "Nighttime and village location are specified conditions.",
+    "An absolute prohibition is stated."
+   ],
+   "inference": "One should never perform the building offering in fire at night in a village.",
+   "uncertainties": [],
+   "plain_english": "One should never perform the building offering in fire at night in a village."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "vivarjyaḥ",
+     "gloss": "to-be-avoided",
+     "grounds": "should be excluded",
+     "morph": "m.nom.sg (gerundive)"
+    },
+    {
+     "surface": "cararāśiḥ",
+     "gloss": "movable-sign",
+     "grounds": "movable zodiacal sign",
+     "morph": "m.nom.sg (compound: cara+rāśiḥ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sajīvaḥ",
+     "gloss": "with-jupiter",
+     "grounds": "accompanied by Jupiter",
+     "morph": "m.nom.sg (compound: sa+jīvaḥ)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhapradaḥ",
+     "gloss": "auspicious-giving",
+     "grounds": "bestowing auspicious results",
+     "morph": "m.nom.sg (compound: śubha+pradaḥ)"
+    }
+   ],
+   "question": "Under what condition does a movable zodiacal sign become auspicious instead of avoided?",
+   "premises": [
+    "A movable zodiacal sign is generally to be avoided.",
+    "The presence of Jupiter is a modifying condition.",
+    "This condition can make the sign auspicious."
+   ],
+   "inference": "A movable sign is to be avoided, but if accompanied by Jupiter it gives auspicious results.",
+   "uncertainties": [],
+   "plain_english": "A movable sign should be avoided, but if Jupiter is present in it, it becomes auspicious."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "gurūdayaḥ",
+     "gloss": "jupiter-rising",
+     "grounds": "rising of Jupiter",
+     "morph": "m.nom.sg (compound: guru+udayaḥ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprāṇāṃ",
+     "gloss": "for-brāhmaṇas",
+     "grounds": "for brahmins",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhūpatīnāṃ",
+     "gloss": "for-kings",
+     "grounds": "for rulers",
+     "morph": "m.gen.pl (compound: bhū+patīnām)"
+    },
+    {
+     "surface": "bhṛgūdayaḥ",
+     "gloss": "venus-rising",
+     "grounds": "rising of Venus",
+     "morph": "m.nom.sg (compound: bhṛgu+udayaḥ)"
+    }
+   ],
+   "question": "Which planetary risings are favorable for brāhmaṇas and for kings respectively?",
+   "premises": [
+    "Planetary risings affect ritual suitability.",
+    "Different social groups are distinguished.",
+    "Jupiter and Venus are assigned to different groups."
+   ],
+   "inference": "The rising of Jupiter is favorable for brāhmaṇas, and the rising of Venus for kings.",
+   "uncertainties": [],
+   "plain_english": "The rising of Jupiter is favorable for brāhmaṇas, and the rising of Venus for kings."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "triṣaḍekādaśa",
+     "gloss": "third-sixth-eleventh",
+     "grounds": "third, sixth, and eleventh positions",
+     "morph": "stem (compound: tri+ṣaḍ+ekādaśa)"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "in position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāpāḥ",
+     "gloss": "malefics",
+     "grounds": "malefic planets",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "during nighttime",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śobhanāḥ",
+     "gloss": "auspicious",
+     "grounds": "favorable",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "In which astrological positions do malefic planets become auspicious at night?",
+   "premises": [
+    "Malefic planets are usually unfavorable.",
+    "Specific house positions are named.",
+    "Nighttime alters their effect."
+   ],
+   "inference": "At night, malefic planets are auspicious in the third, sixth, and eleventh positions.",
+   "uncertainties": [],
+   "plain_english": "At night, malefic planets are auspicious when placed in the third, sixth, or eleventh position."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "caturaśre",
+     "gloss": "in-square-aspect",
+     "grounds": "in the fourth or eighth position/aspect",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "benefic planets",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pāpāḥ",
+     "gloss": "malefics",
+     "grounds": "malefic planets",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "varjanīyāḥ",
+     "gloss": "to-be-avoided",
+     "grounds": "should be excluded",
+     "morph": "m.nom.pl (gerundive)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "with special emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which planetary influences must be especially avoided in the square aspect?",
+   "premises": [
+    "The square aspect is a specific astrological condition.",
+    "Benefic and malefic planets are distinguished.",
+    "Malefics are singled out for avoidance."
+   ],
+   "inference": "In the square aspect, malefic planets are especially to be avoided.",
+   "uncertainties": [
+    "The role of śubhāḥ in this line is syntactically compressed and may contrast with pāpāḥ."
+   ],
+   "plain_english": "In the square aspect, malefic planets are especially to be avoided."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "prescriptive exclusion",
+     "morph": "3.sg.opt.act √vṛj"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "ritual preceptor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise",
+     "grounds": "discerning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcagocara",
+     "gloss": "in-five-transit",
+     "grounds": "in the fifth transit condition",
+     "morph": "stem (compound: pañca+gocara)"
+    },
+    {
+     "surface": "saṃsthitaḥ",
+     "gloss": "situated",
+     "grounds": "being placed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What astrological condition should a wise teacher avoid when situated in it?",
+   "premises": [
+    "The teacher must choose proper timing.",
+    "A specific transit condition is named.",
+    "Wisdom requires avoiding that condition."
+   ],
+   "inference": "A wise teacher should avoid acting when situated in the fifth transit condition.",
+   "uncertainties": [
+    "The technical meaning of pañcagocara depends on astrological convention."
+   ],
+   "plain_english": "A wise teacher should avoid acting when situated in the fifth transit condition."
+  },
+  {
+   "verse": 1394,
+   "rows": [
+    {
+     "surface": "yuktaṃ",
+     "gloss": "conjoined",
+     "grounds": "joined or occupied",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṅkṣitaṃ",
+     "gloss": "desired",
+     "grounds": "sought after",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uḍuṃ",
+     "gloss": "lunar-mansion",
+     "grounds": "nakṣatra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "santyajet",
+     "gloss": "should-abandon",
+     "grounds": "should give up",
+     "morph": "3.sg.opt.act √tyaj"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "excellent preceptor",
+     "morph": "m.nom.sg (compound: deśika+uttamaḥ)"
+    }
+   ],
+   "question": "Which lunar mansion should the best teacher abandon despite apparent suitability?",
+   "premises": [
+    "A lunar mansion may be conjoined or desired.",
+    "Such apparent suitability does not guarantee acceptability.",
+    "The best teacher must exercise discernment."
+   ],
+   "inference": "The best teacher should abandon a lunar mansion even if it is conjoined or desired.",
+   "uncertainties": [
+    "The precise reason for abandoning a desired mansion is not stated explicitly."
+   ],
+   "plain_english": "Even if a lunar mansion is occupied or desired, the best teacher should abandon it."
+  },
+  {
+   "verse": 1395,
+   "rows": [
+    {
+     "surface": "viṣkambhaṃ",
+     "gloss": "viṣkambha",
+     "grounds": "inauspicious yoga Viṣkambha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parighaṃ",
+     "gloss": "parigha",
+     "grounds": "inauspicious yoga Parigha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇḍaṃ",
+     "gloss": "gaṇḍa",
+     "grounds": "inauspicious yoga Gaṇḍa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaidhṛtiharṣaṇe",
+     "gloss": "vaidhṛti-and-harṣaṇa",
+     "grounds": "yogas Vaidhṛti and Harṣaṇa",
+     "morph": "n.acc.du (compound: vaidhṛti+harṣaṇe)"
+    }
+   ],
+   "question": "Which specific yogas are identified as times to be avoided for ritual action?",
+   "premises": [
+    "Certain yogas are named in sequence.",
+    "These yogas are treated as unfavorable.",
+    "They are listed for exclusion."
+   ],
+   "inference": "Viṣkambha, Parigha, Gaṇḍa, Vaidhṛti, and Harṣaṇa are to be avoided.",
+   "uncertainties": [
+    "Harṣaṇa is sometimes considered favorable elsewhere, but is listed here among those to avoid."
+   ],
+   "plain_english": "One should avoid Viṣkambha, Parigha, Gaṇḍa, Vaidhṛti, and Harṣaṇa."
+  },
+  {
+   "verse": 1396,
+   "rows": [
+    {
+     "surface": "māsaśūnyaṃ",
+     "gloss": "month-void",
+     "grounds": "month devoid of suitable planets",
+     "morph": "m.acc.sg (compound: māsa+śūnyam)"
+    },
+    {
+     "surface": "grahaiḥ",
+     "gloss": "by-planets",
+     "grounds": "by planetary influence",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "afflicted",
+     "grounds": "broken or disturbed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dagdhavāraṃ",
+     "gloss": "burnt-day",
+     "grounds": "inauspicious burnt weekday",
+     "morph": "m.acc.sg (compound: dagdha+vāram)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which defective temporal conditions must likewise be avoided in ritual timing?",
+   "premises": [
+    "Certain times are defective due to planetary conditions.",
+    "A month may be void or afflicted by planets.",
+    "A burnt weekday is also defective."
+   ],
+   "inference": "One should avoid a month void of planets, one afflicted by planets, and likewise a burnt day.",
+   "uncertainties": [
+    "The technical criteria for māsaśūnya and dagdhavāra are not defined in this verse."
+   ],
+   "plain_english": "One should avoid a month void of planets, one afflicted by planets, and likewise a burnt day."
+  },
+  {
+   "verse": 1397,
+   "rows": [
+    {
+     "surface": "tithinakṣatramāsābdāyanāntaṃ",
+     "gloss": "tithi-nakṣatra-month-year-solstice-end",
+     "grounds": "end of lunar day, nakṣatra, month, year, or solstice period",
+     "morph": "m.acc.sg (compound: tithi+nakṣatra+māsa+abda+ayana+antam)"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "end",
+     "grounds": "terminal point",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive exclusion",
+     "morph": "3.sg.opt.act √vṛj"
+    }
+   ],
+   "question": "Why must the terminal points of major time units be avoided in ritual timing?",
+   "premises": [
+    "Time units such as tithi, nakṣatra, month, year, and solstice have endings.",
+    "Terminal points are treated as distinct conditions.",
+    "Such endings are prescribed for avoidance."
+   ],
+   "inference": "One should avoid the end of a tithi, nakṣatra, month, year, or solstice period.",
+   "uncertainties": [
+    "The repetition of antaṃ may be emphatic or stylistic."
+   ],
+   "plain_english": "One should avoid the end of a lunar day, a lunar mansion, a month, a year, or a solstice period."
+  },
+  {
+   "verse": 1398,
+   "rows": [
+    {
+     "surface": "yajamānānukūla",
+     "gloss": "to-patron-favorable",
+     "grounds": "favorable to the patron",
+     "morph": "n.loc.sg (compound: yajamāna+anukūla)"
+    },
+    {
+     "surface": "ṛkṣe",
+     "gloss": "in-nakṣatra",
+     "grounds": "in a lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svalpadoṣe",
+     "gloss": "with-little-fault",
+     "grounds": "having minor defect",
+     "morph": "n.loc.sg (compound: su+alpa+doṣe)"
+    },
+    {
+     "surface": "guṇādhike",
+     "gloss": "with-great-merit",
+     "grounds": "having predominant merit",
+     "morph": "n.loc.sg (compound: guṇa+adhike)"
+    }
+   ],
+   "question": "What balancing condition permits action despite minor faults in a chosen nakṣatra?",
+   "premises": [
+    "A nakṣatra may be favorable to the patron.",
+    "A nakṣatra may have minor faults.",
+    "Predominant merit can outweigh minor faults."
+   ],
+   "inference": "A nakṣatra favorable to the patron, with little fault and greater merit, is acceptable.",
+   "uncertainties": [],
+   "plain_english": "If a lunar mansion is favorable to the patron, has only minor faults, and has greater merit, it is acceptable."
+  },
+  {
+   "verse": 1399,
+   "rows": [
+    {
+     "surface": "kārayet",
+     "gloss": "one-may-perform",
+     "grounds": "one may cause to be done",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    },
+    {
+     "surface": "vāstukarma",
+     "gloss": "building-rite",
+     "grounds": "ritual for a site or building",
+     "morph": "n.acc.sg (compound: vāstu+karma)"
+    },
+    {
+     "surface": "itat",
+     "gloss": "this",
+     "grounds": "this rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvasampatsamṛddhaye",
+     "gloss": "for-all-prosperity-abundance",
+     "grounds": "for the increase of all prosperity",
+     "morph": "f.dat.sg (compound: sarva+sampat+samṛddhaye)"
+    }
+   ],
+   "question": "For what purpose may the building rite be performed under favorable conditions?",
+   "premises": [
+    "Favorable conditions for the building rite have been described.",
+    "The rite can be performed when conditions are suitable.",
+    "The rite aims at comprehensive prosperity."
+   ],
+   "inference": "Under such favorable conditions, one may perform this building rite for the increase of all prosperity.",
+   "uncertainties": [
+    "itat is taken as referring to the building rite in this context."
+   ],
+   "plain_english": "Under such conditions, one may perform this building rite for the increase of all prosperity."
+  }
+ ]
+}

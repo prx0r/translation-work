@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1385,
- "question": "What afflictions and place-release are named in the rite?",
+ "question": "Which weekdays should humans avoid when selecting a time for ritual action?",
  "premises": [
-  "fire-burning is named",
-  "death, disease, and poverty are named",
-  "place-release is named"
+  "Weekdays are considered in ritual timing.",
+  "Humans are the agents in view.",
+  "Friday is treated as an exception."
  ],
- "inference": "the rite names fire-burning, death, disease, poverty, and place-release",
+ "inference": "Humans should avoid weekdays other than Friday.",
  "uncertainties": [
-  "whether these are to be removed or invoked is not explicit"
+  "sitāparam is taken as 'other than Friday' based on traditional planetary association."
  ],
- "plain_english": "Fire-burning, death, disease, poverty, and place-release."
+ "plain_english": "Humans should avoid any weekday other than Friday."
 }

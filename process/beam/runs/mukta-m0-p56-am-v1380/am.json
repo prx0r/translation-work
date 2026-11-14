@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1380,
- "question": "With which auspicious substances is the rite performed?",
+ "question": "Which lunar days should be selected after excluding specific inauspicious tithis?",
  "premises": [
-  "saffron is named",
-  "vermilion and gairika are named",
-  "the substances are auspicious"
+  "The ninth and both fifteenth lunar days are to be avoided.",
+  "Lunar days can be paired or unpaired.",
+  "A selection rule applies to the remaining tithis."
  ],
- "inference": "the rite uses auspicious substances such as saffron, vermilion, and gairika",
+ "inference": "After avoiding the ninth and fifteenth days, one should choose an unpaired lunar day.",
  "uncertainties": [
-  "whether all are used together or alternatively is not fully clear"
+  "The exact counting convention for paired versus unpaired tithis may vary by tradition."
  ],
- "plain_english": "With saffron, or with saffron, with vermilion and gairika, and with auspicious substances."
+ "plain_english": "Having avoided the ninth day and the two fifteenth days, one should choose a lunar day that is not paired."
 }
