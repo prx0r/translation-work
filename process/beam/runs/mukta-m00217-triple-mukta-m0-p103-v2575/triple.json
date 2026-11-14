@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "juhuyācca",
+     "gloss": "should-offer-and",
+     "grounds": "optative of √hu with enclitic ca; sandhi-fused form kept as one token",
+     "morph": "3.sg.act.opt-√hu + (indecl.)"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart",
+     "grounds": "instrument of offering, indicating the heart-mantra or inner seat",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "somāya",
+     "gloss": "to-soma",
+     "grounds": "recipient deity of the oblation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svāheti",
+     "gloss": "saying-svāhā",
+     "grounds": "ritual utterance svāhā followed by iti; sandhi-fused form kept as one token",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle continuing the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant performing the oblation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To which deity and with what concluding utterance must the teacher offer the oblation with the heart?",
+   "premises": [
+    "The teacher is the agent who performs the oblation.",
+    "The oblation is directed to Soma.",
+    "The offering is made with the heart and concluded with the utterance svāhā."
+   ],
+   "inference": "The teacher must offer the oblation to Soma with the heart, ending with the utterance svāhā.",
+   "uncertainties": [
+    "Whether hṛdā refers to the hṛdaya-mantra or to the physical heart is not specified in this verse."
+   ],
+   "plain_english": "And the teacher should offer an oblation to Soma with the heart, saying 'svāhā'."
+  }
+ ]
+}

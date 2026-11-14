@@ -3,39 +3,34 @@
  "verse": 219,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "kūṭatrayaṃ",
+   "morph": "compound: kūṭa+traya; n.acc.sg",
+   "grounds": "names a group of three kūṭas"
+  },
+  {
+   "lemma": "kāmarājaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "identifies the group as kāmarāja"
+  },
+  {
+   "lemma": "śaktibījaṃ",
+   "morph": "compound: śakti+bīja; n.acc.sg",
+   "grounds": "names the śakti seed"
+  },
+  {
+   "lemma": "kūṭaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "labels the element as a kūṭa"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "connects elements in the sequence"
   },
   {
-   "lemma": "mantrāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "sacred formulas"
-  },
-  {
-   "lemma": "vaidikāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "belonging to the Veda"
-  },
-  {
-   "lemma": "yogyāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "fit or appropriate"
-  },
-  {
-   "lemma": "yoṣitām",
-   "morph": "f.gen.pl",
-   "grounds": "of women"
-  },
-  {
-   "lemma": "tāntrikāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "belonging to the Tantra"
-  },
-  {
-   "lemma": "smṛtāḥ",
-   "morph": "m.nom.pl.past-passive-participle/smṛ",
-   "grounds": "traditionally taught or prescribed"
+   "lemma": "pūrvavat",
+   "morph": "(indecl.)",
+   "grounds": "indicates repetition of the previous pattern"
   }
  ]
 }

@@ -1,0 +1,967 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "sakāraṃ",
+     "gloss": "syllable-sa",
+     "grounds": "accusative object indicating the letter sa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāmarājādau",
+     "gloss": "at-beginning-of-kāmarāja",
+     "grounds": "locative compound indicating placement at the start of the Kāmarāja mantra",
+     "morph": "compound: kāmarāja+ādi, m.loc.sg"
+    },
+    {
+     "surface": "lopā",
+     "gloss": "lopā",
+     "grounds": "name of the mantra form associated with Lopāmudrā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśākṣarī",
+     "gloss": "sixteen-syllabled",
+     "grounds": "predicate describing the mantra's syllable count",
+     "morph": "compound: ṣoḍaśa+akṣara, f.nom.sg"
+    }
+   ],
+   "question": "What mantra form arises when the syllable sa is placed at the beginning of the Kāmarāja?",
+   "premises": [
+    "The syllable sa is added at the beginning of the Kāmarāja.",
+    "The resulting form is called Lopā.",
+    "This form consists of sixteen syllables."
+   ],
+   "inference": "Placing the syllable sa at the start of the Kāmarāja yields the sixteen-syllabled Lopā mantra.",
+   "uncertainties": [],
+   "plain_english": "When the syllable sa is placed at the beginning of the Kāmarāja, the mantra becomes the sixteen-syllabled Lopā."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "ṣoḍaśārṇā",
+     "gloss": "sixteen-syllabled",
+     "grounds": "describes the mantra as having sixteen syllables",
+     "morph": "compound: ṣoḍaśa+arṇa, f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-mantra",
+     "grounds": "identifies the form as a supreme vidyā",
+     "morph": "compound: mahā+vidyā, f.nom.sg"
+    },
+    {
+     "surface": "cidbrahmakyamayī",
+     "gloss": "made-of-consciousness-brahman-unity",
+     "grounds": "describes its essential nature as non-difference of consciousness and Brahman",
+     "morph": "compound: cit+brahma+ekya+maya, f.nom.sg"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "predicate qualifying the mantra",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the essential nature and status of the sixteen-syllabled Lopā mantra?",
+   "premises": [
+    "The mantra has sixteen syllables.",
+    "It is a great vidyā.",
+    "Its nature is the unity of consciousness and Brahman and it is auspicious."
+   ],
+   "inference": "The sixteen-syllabled Lopā is an auspicious great vidyā whose essence is the unity of consciousness and Brahman.",
+   "uncertainties": [],
+   "plain_english": "This sixteen-syllabled mantra is a great and auspicious vidyā, whose very nature is the unity of consciousness and Brahman."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "in-the-same-way",
+     "grounds": "indicates parallel procedure to the previous case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktibīje",
+     "gloss": "in-śakti-seed",
+     "grounds": "locative indicating the context of the Śakti bīja",
+     "morph": "compound: śakti+bīja, n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lopā",
+     "gloss": "lopā",
+     "grounds": "name of the resulting mantra form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saptadaśākṣarī",
+     "gloss": "seventeen-syllabled",
+     "grounds": "predicate describing the mantra's syllable count",
+     "morph": "compound: saptadaśa+akṣara, f.nom.sg"
+    }
+   ],
+   "question": "What mantra form results when the same addition is made in the Śakti seed?",
+   "premises": [
+    "The same procedure is applied in the context of the Śakti bīja.",
+    "The resulting form is called Lopā.",
+    "This form consists of seventeen syllables."
+   ],
+   "inference": "Applying the same addition in the Śakti bīja yields the seventeen-syllabled Lopā mantra.",
+   "uncertainties": [],
+   "plain_english": "In the same way, when applied in the Śakti seed, the Lopā mantra becomes seventeen-syllabled."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "aṇimādyaṣṭasiddhīśaḥ",
+     "gloss": "lord-of-eight-powers-beginning-with-aṇimā",
+     "grounds": "describes mastery over the eight siddhis starting with aṇimā",
+     "morph": "compound: aṇimā+ādi+aṣṭa+siddhi+īśa, m.nom.sg"
+    },
+    {
+     "surface": "sākṣādbhūmipurandaraḥ",
+     "gloss": "directly-indra-on-earth",
+     "grounds": "predicate likening the practitioner to Indra on earth",
+     "morph": "compound: sākṣāt+bhūmi+purandara, m.nom.sg"
+    }
+   ],
+   "question": "What powers and status does the practitioner of this mantra attain?",
+   "premises": [
+    "The practitioner becomes lord of the eight siddhis beginning with aṇimā.",
+    "The practitioner becomes like Indra directly on earth."
+   ],
+   "inference": "Mastery of this mantra grants lordship over the eight siddhis and an Indra-like status on earth.",
+   "uncertainties": [],
+   "plain_english": "One becomes the lord of the eight siddhis beginning with aṇimā and is directly like Indra on earth."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "mādanaṃ",
+     "gloss": "mādana",
+     "grounds": "names the element or bīja to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāmabījādye",
+     "gloss": "at-beginning-of-kāma-seed",
+     "grounds": "locative indicating placement at the start of the Kāma bīja",
+     "morph": "compound: kāma+bīja+ādi, n.loc.sg"
+    },
+    {
+     "surface": "tartīyādye",
+     "gloss": "at-third-beginning",
+     "grounds": "locative indicating placement at the beginning of the third part; spelling as in source",
+     "morph": "compound: tartīya+ādi, n.loc.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where should the Mādana element be placed to form the next mantra variation?",
+   "premises": [
+    "The Mādana element is to be placed.",
+    "It is placed at the beginning of the Kāma bīja.",
+    "It is also placed at the beginning of the third part."
+   ],
+   "inference": "The Mādana element is inserted at the beginning of the Kāma bīja and at the beginning of the third section.",
+   "uncertainties": [
+    "The exact referent of 'third beginning' depends on the mantra structure assumed in context."
+   ],
+   "plain_english": "O Maheśvarī, place the Mādana at the beginning of the Kāma bīja and at the beginning of the third part."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "aṣṭādaśākṣarī",
+     "gloss": "eighteen-syllabled",
+     "grounds": "describes the mantra's syllable count",
+     "morph": "compound: aṣṭādaśa+akṣara, f.nom.sg"
+    },
+    {
+     "surface": "hyeṣā",
+     "gloss": "indeed-this",
+     "grounds": "emphatic demonstrative referring to the mantra",
+     "morph": "compound: hi+eṣā, f.nom.sg"
+    },
+    {
+     "surface": "śrīvidyā",
+     "gloss": "śrīvidyā",
+     "grounds": "identifies the mantra as Śrīvidyā",
+     "morph": "compound: śrī+vidyā, f.nom.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative indicating the realm where it is rare",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "durlabhā",
+     "gloss": "rare",
+     "grounds": "predicate stating its rarity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the syllable count and rarity of this form of Śrīvidyā on earth?",
+   "premises": [
+    "This form is Śrīvidyā.",
+    "It consists of eighteen syllables.",
+    "It is rare on earth."
+   ],
+   "inference": "This eighteen-syllabled form of Śrīvidyā is rare on earth.",
+   "uncertainties": [],
+   "plain_english": "Indeed, this eighteen-syllabled Śrīvidyā is rare on earth."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "navalakṣaṃ",
+     "gloss": "nine-hundred-thousand",
+     "grounds": "specifies the number of repetitions",
+     "morph": "compound: nava+lakṣa, n.acc.sg"
+    },
+    {
+     "surface": "japitvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive indicating completion of recitation",
+     "morph": "gerund: √jap"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lopāmudrāṃ",
+     "gloss": "lopāmudrā",
+     "grounds": "names the mantra to be recited",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What specific recitation practice is prescribed for the Lopāmudrā mantra?",
+   "premises": [
+    "The mantra named is Lopāmudrā.",
+    "It must be chanted.",
+    "The prescribed number is nine hundred thousand repetitions."
+   ],
+   "inference": "The practitioner must chant the Lopāmudrā mantra nine hundred thousand times.",
+   "uncertainties": [],
+   "plain_english": "O Maheśvarī, one must chant the Lopāmudrā mantra nine hundred thousand times."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indicates the consequence of not following the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāpamāpnoti",
+     "gloss": "obtains-curse",
+     "grounds": "states the negative consequence for the practitioner",
+     "morph": "3.sg.pres.act: āp with śāpa"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "lineage",
+     "grounds": "subject of destruction in the consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "refers to the practitioner who fails to comply",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "states the destruction of the lineage",
+     "morph": "3.sg.pres.act: vi-√naś"
+    }
+   ],
+   "question": "What consequences follow from failing to perform the prescribed recitation correctly?",
+   "premises": [
+    "Failure to follow the prescription leads to a curse.",
+    "The practitioner incurs that curse.",
+    "The practitioner's lineage perishes."
+   ],
+   "inference": "Not performing the prescribed recitation brings a curse and destroys the practitioner's lineage.",
+   "uncertainties": [],
+   "plain_english": "Otherwise, one incurs a curse and one's lineage perishes."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "sarvasaubhāgyadā",
+     "gloss": "giver-of-all-good-fortune",
+     "grounds": "describes the goddess as bestowing all prosperity",
+     "morph": "compound: sarva+saubhāgya+dā, f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject identified as the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvamaṅgalakāriṇī",
+     "gloss": "doer-of-all-auspiciousness",
+     "grounds": "describes the goddess as causing all auspicious outcomes",
+     "morph": "compound: sarva+maṅgala+kārin, f.nom.sg"
+    }
+   ],
+   "question": "What beneficent qualities are attributed to the goddess of this mantra?",
+   "premises": [
+    "The deity is a goddess.",
+    "She grants all good fortune.",
+    "She brings about all auspiciousness."
+   ],
+   "inference": "The goddess bestows all good fortune and accomplishes all auspicious ends.",
+   "uncertainties": [],
+   "plain_english": "The goddess grants all good fortune and brings about all auspiciousness."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "bhuvaneśīṃ",
+     "gloss": "bhuvaneśī",
+     "grounds": "names the deity or mantra element to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmarāje",
+     "gloss": "in-kāmarāja",
+     "grounds": "locative indicating the mantra context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrībījaṃ",
+     "gloss": "śrī-seed",
+     "grounds": "names the Śrī bīja to be used",
+     "morph": "compound: śrī+bīja, n.acc.sg"
+    },
+    {
+     "surface": "śaktipūrvataḥ",
+     "gloss": "with-śakti-before",
+     "grounds": "indicates placement with the Śakti element preceding",
+     "morph": "compound: śakti+pūrvataḥ, (indecl.)"
+    }
+   ],
+   "question": "How are Bhuvaneśī and the Śrī bīja arranged within the Kāmarāja mantra?",
+   "premises": [
+    "Bhuvaneśī is placed in the Kāmarāja.",
+    "The Śrī bīja is included.",
+    "The arrangement places Śakti before."
+   ],
+   "inference": "In the Kāmarāja, Bhuvaneśī is combined with the Śrī bīja with the Śakti element placed before.",
+   "uncertainties": [
+    "The precise syntactic placement of elements depends on the received mantra structure."
+   ],
+   "plain_english": "In the Kāmarāja, place Bhuvaneśī and the Śrī bīja with the Śakti element before."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "bhogamokṣapradā",
+     "gloss": "giver-of-enjoyment-and-liberation",
+     "grounds": "describes the mantra or deity as granting both worldly enjoyment and liberation",
+     "morph": "compound: bhoga+mokṣa+pradā, f.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphasizes immediate efficacy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣārthapradāyikā",
+     "gloss": "bestower-of-human-goals",
+     "grounds": "describes granting of all puruṣārthas",
+     "morph": "compound: puruṣārtha+pradāyikā, f.nom.sg"
+    }
+   ],
+   "question": "What ultimate aims of human life does this mantra directly bestow?",
+   "premises": [
+    "It grants enjoyment and liberation.",
+    "It acts directly.",
+    "It bestows the goals of human life."
+   ],
+   "inference": "This mantra directly grants both enjoyment and liberation and fulfills all human aims.",
+   "uncertainties": [],
+   "plain_english": "It directly grants enjoyment and liberation and bestows all the goals of human life."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "negates the existence of an alternative",
+     "morph": "3.sg.pres.act: √as with na"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "repeated negation for emphasis",
+     "morph": "3.sg.pres.act: √as with na"
+    },
+    {
+     "surface": "punarnāsti",
+     "gloss": "again-there-is-not",
+     "grounds": "further emphatic negation",
+     "morph": "compound: punar+nāsti"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "asserts the truth of the statement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated assertion for emphasis",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadāmyaham",
+     "gloss": "i-speak",
+     "grounds": "speaker affirms the declaration",
+     "morph": "1.sg.pres.act: √vad with aham"
+    }
+   ],
+   "question": "How emphatically is the unparalleled efficacy of this mantra affirmed?",
+   "premises": [
+    "The text repeatedly denies any alternative.",
+    "The speaker declares the statement as truth twice.",
+    "The speaker personally affirms the declaration."
+   ],
+   "inference": "The mantra's unparalleled efficacy is affirmed with triple negation and a double oath of truth.",
+   "uncertainties": [],
+   "plain_english": "There is none, there is none, again there is none; I speak the truth, the truth."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "kāmākṣaraṃ",
+     "gloss": "kāma-syllable",
+     "grounds": "names the Kāma syllable as a mantra component",
+     "morph": "compound: kāma+akṣara, n.acc.sg"
+    },
+    {
+     "surface": "śaktivarṇaṃ",
+     "gloss": "śakti-letter",
+     "grounds": "names the Śakti letter as a component",
+     "morph": "compound: śakti+varṇa, m.acc.sg"
+    },
+    {
+     "surface": "purandaraharau",
+     "gloss": "purandara-and-hara",
+     "grounds": "names the syllables associated with Purandara and Hara",
+     "morph": "compound: purandara+hara, m.acc.du"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence in the mantra construction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which initial syllabic components are specified in constructing this mantra sequence?",
+   "premises": [
+    "The Kāma syllable is included.",
+    "The Śakti letter is included.",
+    "The syllables of Purandara and Hara follow in sequence."
+   ],
+   "inference": "The mantra sequence begins with the Kāma syllable, the Śakti letter, and then the syllables of Purandara and Hara.",
+   "uncertainties": [
+    "The exact phonetic values of the named syllables are tradition-dependent and not spelled out here."
+   ],
+   "plain_english": "Take the Kāma syllable, the Śakti letter, then the syllables of Purandara and Hara."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "names the oṃ syllable as a component",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "savisargaṃ",
+     "gloss": "with-visarga",
+     "grounds": "qualifies the component as having a visarga",
+     "morph": "compound: sa+visarga, m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects components in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaśca",
+     "gloss": "and-again",
+     "grounds": "indicates repetition or further addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulasundarīṃ",
+     "gloss": "kulasundarī",
+     "grounds": "names the Kulasundarī component",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What additional components continue the construction of this mantra sequence?",
+   "premises": [
+    "The praṇava with visarga is added.",
+    "The sequence continues further.",
+    "The Kulasundarī component is added."
+   ],
+   "inference": "The mantra continues with the praṇava with visarga and then the Kulasundarī component.",
+   "uncertainties": [
+    "The exact form of the Kulasundarī component is not specified in this verse."
+   ],
+   "plain_english": "Then add the praṇava with visarga, and again the Kulasundarī."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "names the oṃ syllable again",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "savisargaṃ",
+     "gloss": "with-visarga",
+     "grounds": "qualifies the praṇava as having a visarga",
+     "morph": "compound: sa+visarga, m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato vai",
+     "gloss": "then-indeed",
+     "grounds": "emphasizes the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulasundarīm",
+     "gloss": "kulasundarī",
+     "grounds": "names the Kulasundarī component again",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the mantra sequence further extended after the previous additions?",
+   "premises": [
+    "The praṇava with visarga is added again.",
+    "The sequence proceeds further.",
+    "The Kulasundarī component is added again."
+   ],
+   "inference": "The sequence is extended by again adding the praṇava with visarga and then Kulasundarī.",
+   "uncertainties": [],
+   "plain_english": "Then indeed add the praṇava with visarga, and then the Kulasundarī again."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "vilomāṃ",
+     "gloss": "reversed",
+     "grounds": "indicates the Bālikā is taken in reverse order",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bālikāṃ",
+     "gloss": "bālikā",
+     "grounds": "names the Bālikā mantra component",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating placement in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmārṇaḥ",
+     "gloss": "brahma-syllable",
+     "grounds": "names the Brahma syllable to be added",
+     "morph": "compound: brahma+arṇa, m.nom.sg"
+    },
+    {
+     "surface": "savisargakaḥ",
+     "gloss": "with-visarga",
+     "grounds": "qualifies the Brahma syllable as having a visarga",
+     "morph": "compound: sa+visargaka, m.nom.sg"
+    }
+   ],
+   "question": "What final elements complete the construction of this mantra sequence?",
+   "premises": [
+    "The Bālikā is added in reversed form.",
+    "A Brahma syllable is added there.",
+    "The Brahma syllable is accompanied by a visarga."
+   ],
+   "inference": "The sequence is completed by adding the reversed Bālikā and a Brahma syllable with visarga.",
+   "uncertainties": [
+    "The exact identity of the Brahma syllable is not specified in this verse."
+   ],
+   "plain_english": "There add the reversed Bālikā, and then the Brahma syllable with visarga."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra just described",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "lakṣajapenaiva",
+     "gloss": "by-hundred-thousand-recitation-alone",
+     "grounds": "specifies the practice of one hundred thousand recitations",
+     "morph": "compound: lakṣa+japa+eva, m.ins.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative indicating unlimited attainment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation used rhetorically with the interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "is-accomplished",
+     "grounds": "states attainment of results",
+     "morph": "3.sg.pres.act: √sidh"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative indicating the realm of accomplishment",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is the extent of accomplishment gained by reciting this mantra one hundred thousand times?",
+   "premises": [
+    "The mantra is recited one hundred thousand times.",
+    "The recitation is performed on earth.",
+    "The rhetorical question implies no limit to accomplishment."
+   ],
+   "inference": "Reciting this mantra one hundred thousand times accomplishes everything on earth.",
+   "uncertainties": [],
+   "plain_english": "By reciting this mantra one hundred thousand times, what is not accomplished on earth?"
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "nādabindukalābhedāt",
+     "gloss": "from-differentiation-of-nāda-bindu-kalā",
+     "grounds": "ablative indicating differentiation of nāda, bindu, and kalā",
+     "morph": "compound: nāda+bindu+kalā+bheda, m.abl.sg"
+    },
+    {
+     "surface": "turīyasvarasaṃyutam",
+     "gloss": "joined-with-fourth-sound",
+     "grounds": "describes the result as united with the fourth sound",
+     "morph": "compound: turīya+svara+saṃyuta, n.acc.sg"
+    }
+   ],
+   "question": "How does differentiation of nāda, bindu, and kalā relate to the fourth sound?",
+   "premises": [
+    "There is differentiation of nāda, bindu, and kalā.",
+    "This differentiation yields a form joined with the fourth sound."
+   ],
+   "inference": "Through the differentiation of nāda, bindu, and kalā, it becomes joined with the fourth sound.",
+   "uncertainties": [
+    "The exact grammatical subject carried over from context is not explicit in this verse."
+   ],
+   "plain_english": "Through the differentiation of nāda, bindu, and kalā, it is joined with the fourth sound."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "kakāre",
+     "gloss": "in-letter-ka",
+     "grounds": "locative indicating the locus in the syllable ka",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvamutpannaṃ",
+     "gloss": "all-arisen",
+     "grounds": "states that everything arises in that locus",
+     "morph": "compound: sarva+utpanna, n.nom.sg"
+    },
+    {
+     "surface": "kāmakaivalyadāyakam",
+     "gloss": "giver-of-desire-and-liberation",
+     "grounds": "describes the result as granting both kāma and kaivalya",
+     "morph": "compound: kāma+kaivalya+dāyaka, n.nom.sg"
+    }
+   ],
+   "question": "What arises in the syllable ka and what dual boon does it confer?",
+   "premises": [
+    "Everything arises in the syllable ka.",
+    "That arising grants kāma.",
+    "That arising grants kaivalya."
+   ],
+   "inference": "In the syllable ka all arises, and it bestows both desire-fulfillment and liberation.",
+   "uncertainties": [],
+   "plain_english": "In the letter ka all has arisen, and it grants both desire and liberation."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the preceding exposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījatrayaṃ",
+     "gloss": "three-seeds",
+     "grounds": "identifies the triad of seed syllables",
+     "morph": "compound: bīja+traya, n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vidyānāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive indicating the domain of vidyās",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "sārasaṃgraham",
+     "gloss": "collection-of-essence",
+     "grounds": "describes the triad as the essence of the vidyās",
+     "morph": "compound: sāra+saṃgraha, m.acc.sg"
+    }
+   ],
+   "question": "What is the status of the three seed syllables in relation to all vidyās?",
+   "premises": [
+    "The teaching concerns three seed syllables.",
+    "These belong to the domain of vidyās.",
+    "They are described as the collection of essence."
+   ],
+   "inference": "The three seed syllables constitute the essential collection of all vidyās.",
+   "uncertainties": [],
+   "plain_english": "Thus, O goddess, the three seeds are the collected essence of all the vidyās."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "ekākṣareṇa",
+     "gloss": "by-one-syllable",
+     "grounds": "instrumental indicating expression through a single syllable",
+     "morph": "compound: eka+akṣara, n.ins.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "states that it has been taught or declared",
+     "morph": "f.nom.sg.past-passive-participle: √kath"
+    },
+    {
+     "surface": "brahmavidyaiva",
+     "gloss": "brahman-knowledge-alone",
+     "grounds": "identifies it as nothing but the knowledge of Brahman",
+     "morph": "compound: brahma+vidyā+eva, f.nom.sg"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "emphasizes exclusivity of the identification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ultimate knowledge is declared to be expressed by a single syllable?",
+   "premises": [
+    "It is declared through one syllable.",
+    "It is identified as Brahmavidyā.",
+    "The identification is exclusive."
+   ],
+   "inference": "A single syllable declares nothing other than the knowledge of Brahman.",
+   "uncertainties": [],
+   "plain_english": "By a single syllable, it is declared to be nothing but the knowledge of Brahman alone."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "ādyabhūtairvidyamānā",
+     "gloss": "existing-through-primal-elements",
+     "grounds": "describes Sundarī as present through the primal elements",
+     "morph": "compound: ādya+bhūta+vidyamāna, f.nom.sg"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "sundarī",
+     "grounds": "names the goddess Sundarī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍvidhā",
+     "gloss": "sixfold",
+     "grounds": "states the sixfold division",
+     "morph": "compound: ṣaṣ+vidhā, f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "indicates traditional teaching or remembrance",
+     "morph": "f.nom.sg.past-passive-participle: √smṛ"
+    }
+   ],
+   "question": "In how many forms is Sundarī traditionally known to exist through the primal elements?",
+   "premises": [
+    "Sundarī exists through the primal elements.",
+    "She is remembered in tradition.",
+    "She is described as sixfold."
+   ],
+   "inference": "Sundarī, existing through the primal elements, is traditionally remembered as sixfold.",
+   "uncertainties": [],
+   "plain_english": "Sundarī, existing through the primal elements, is remembered as sixfold."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "ramāmāyā",
+     "gloss": "ramā-and-māyā",
+     "grounds": "names two components or bījas",
+     "morph": "compound: ramā+māyā, f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "connects additional elements in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmo",
+     "gloss": "kāma",
+     "grounds": "names the Kāma component",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vasucandrākṣarī",
+     "gloss": "vasucandrākṣarī",
+     "grounds": "names the Vasucandrākṣarī component",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "indicates a threefold division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which components constitute the threefold division mentioned in this context?",
+   "premises": [
+    "Ramā and Māyā are named.",
+    "Kāma is named.",
+    "Vasucandrākṣarī is named as a threefold grouping."
+   ],
+   "inference": "The threefold division consists of Ramā-Māyā, Kāma, and Vasucandrākṣarī.",
+   "uncertainties": [
+    "The precise grouping and identity of these named elements depend on mantra tradition."
+   ],
+   "plain_english": "Ramā and Māyā, and also Kāma, and Vasucandrākṣarī are the threefold division."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "jātavedomṛgāṅkena",
+     "gloss": "by-jātaveda-and-moon",
+     "grounds": "instrumental indicating marking by Jātaveda and the moon symbol",
+     "morph": "compound: jātaveda+mṛgāṅka, m.ins.sg"
+    },
+    {
+     "surface": "lāñchitaṃ",
+     "gloss": "marked",
+     "grounds": "describes something as marked or characterized",
+     "morph": "n.nom.sg.past-passive-participle: √lāñch"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By which symbolic elements is the described form marked, O supreme goddess?",
+   "premises": [
+    "The form is marked.",
+    "The marking involves Jātaveda.",
+    "The marking involves the moon symbol."
+   ],
+   "inference": "The described form is marked by Jātaveda and the moon.",
+   "uncertainties": [
+    "The specific mantra element being marked is carried over from the preceding context."
+   ],
+   "plain_english": "O Parameśvarī, it is marked by Jātaveda and the moon."
+  }
+ ]
+}

@@ -1,0 +1,1031 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "prathamā",
+     "gloss": "first",
+     "grounds": "names the first form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "beautiful-one",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine feminine subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "names the second form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmasundarī",
+     "gloss": "brahma-beautiful-one",
+     "grounds": "compound epithet naming the second form",
+     "morph": "compound: brahma+ sundarī; f.nom.sg"
+    }
+   ],
+   "question": "Which two goddess forms are named as the first and second in this sequence?",
+   "premises": [
+    "The first is named Sundarī Devī.",
+    "The second is named Brahmasundarī.",
+    "Both are presented as distinct forms in order."
+   ],
+   "inference": "The sequence identifies Sundarī Devī as first and Brahmasundarī as second.",
+   "uncertainties": [],
+   "plain_english": "The first is the beautiful goddess Sundarī, and the second is Brahmasundarī."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "points to the preceding form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśī",
+     "gloss": "sixteen-syllable",
+     "grounds": "names the mantra-knowledge type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "technical term for sacred knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matabhedena",
+     "gloss": "by-difference-of-view",
+     "grounds": "indicates variation by tradition or opinion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "darśitā",
+     "gloss": "shown",
+     "grounds": "states how it has been presented",
+     "morph": "f.nom.sg past-passive-participle"
+    }
+   ],
+   "question": "How is this sixteen-syllable mantra-knowledge presented according to differing views?",
+   "premises": [
+    "This is identified as the ṣoḍaśī vidyā.",
+    "Its presentation varies by difference of view.",
+    "The variation is explicitly shown or taught."
+   ],
+   "inference": "The ṣoḍaśī vidyā is taught in forms that differ according to various views.",
+   "uncertainties": [],
+   "plain_english": "This is the sixteen-syllable vidyā, shown according to differences in teaching or view."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "refers to the same vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīprāṇasaṃyuktā",
+     "gloss": "joined-with-śrī-life-force",
+     "grounds": "describes union with śrī and vital power",
+     "morph": "compound: śrī+prāṇa+saṃyuktā; f.nom.sg"
+    },
+    {
+     "surface": "dāridryaduḥkhanāśinī",
+     "gloss": "destroyer-of-poverty-sorrow",
+     "grounds": "states the effect of this vidyā",
+     "morph": "compound: dāridrya+duḥkha+nāśinī; f.nom.sg"
+    }
+   ],
+   "question": "What powers and effects are attributed to this mantra-knowledge when united with śrī and life-force?",
+   "premises": [
+    "This vidyā is united with śrī and prāṇa.",
+    "It destroys poverty and sorrow.",
+    "These qualities define its efficacy."
+   ],
+   "inference": "When united with śrī and life-force, this vidyā removes poverty and sorrow.",
+   "uncertainties": [],
+   "plain_english": "This vidyā, united with śrī and life-force, destroys poverty and sorrow."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "names a seed or power element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterward",
+     "grounds": "reinforces sequential placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tavasnehāt",
+     "gloss": "from-affection-for-you",
+     "grounds": "states reason for disclosure",
+     "morph": "compound: tava+snehāt; m.abl.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "indicates teaching or declaration",
+     "morph": "n.nom.sg past-passive-participle"
+    }
+   ],
+   "question": "Why is the element called mahāmāyā proclaimed afterward in this teaching?",
+   "premises": [
+    "Mahāmāyā is placed later in sequence.",
+    "The proclamation is made out of affection for the listener.",
+    "The teaching follows a deliberate order."
+   ],
+   "inference": "Mahāmāyā is proclaimed afterward out of affection for the listener.",
+   "uncertainties": [],
+   "plain_english": "Then afterward, out of affection for you, mahāmāyā is proclaimed."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the preceding statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktī",
+     "gloss": "power",
+     "grounds": "names the śakti element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-mantra-knowledge",
+     "grounds": "identifies the teaching as a great vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paścimāmnāyayojitā",
+     "gloss": "joined-to-western-tradition",
+     "grounds": "assigns the vidyā to the western transmission",
+     "morph": "compound: paścima+āmnāya+yojitā; f.nom.sg"
+    }
+   ],
+   "question": "To which ritual tradition is this great mantra-knowledge and its śakti assigned?",
+   "premises": [
+    "The teaching is called a mahāvidyā.",
+    "It includes the śakti element.",
+    "It is joined to the western tradition."
+   ],
+   "inference": "This mahāvidyā with its śakti belongs to the western tradition.",
+   "uncertainties": [],
+   "plain_english": "Thus this śakti and great vidyā are joined to the western tradition."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "vyomavahnisamāyuktaṃ",
+     "gloss": "united-with-space-fire",
+     "grounds": "describes combination with space and fire elements",
+     "morph": "compound: vyoma+vahni+samāyuktaṃ; n.nom.sg"
+    },
+    {
+     "surface": "turīyasvarabindukam",
+     "gloss": "with-fourth-vowel-and-bindu",
+     "grounds": "specifies phonetic components including fourth vowel and bindu",
+     "morph": "compound: turīya+svara+bindukam; n.nom.sg"
+    }
+   ],
+   "question": "What phonetic and elemental components constitute the described mantra form in this instruction?",
+   "premises": [
+    "The form is united with space and fire.",
+    "It includes the fourth vowel and bindu.",
+    "These components define its structure."
+   ],
+   "inference": "The mantra form is constituted by space, fire, the fourth vowel, and bindu.",
+   "uncertainties": [
+    "Exact identification of 'fourth vowel' depends on the specific mantra convention."
+   ],
+   "plain_english": "It is united with space and fire, and includes the fourth vowel together with bindu."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "refers to the described vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "varṇituṃ",
+     "gloss": "to-describe",
+     "grounds": "expresses the act of description",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "strong negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "is-possible",
+     "grounds": "states impossibility of description",
+     "morph": "3.sg.passive-present"
+    }
+   ],
+   "question": "What limitation is declared regarding the ability to describe this mantra-knowledge?",
+   "premises": [
+    "The subject is this vidyā.",
+    "The goddess is addressed directly.",
+    "Describing it is said to be impossible."
+   ],
+   "inference": "This vidyā cannot be fully described, even when addressed to the great goddess.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, this vidyā cannot be described at all."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "kāmaṃ",
+     "gloss": "desire-seed",
+     "grounds": "names a mantra element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyoma",
+     "gloss": "space",
+     "grounds": "names a mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "names a mantra element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after-that",
+     "grounds": "indicates what follows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra elements are enumerated in sequence in this instruction to the goddess?",
+   "premises": [
+    "Kāma and vyoma are named.",
+    "Mahāmāyā follows in sequence.",
+    "The order is explicitly indicated."
+   ],
+   "inference": "The sequence given is kāma, vyoma, and then mahāmāyā.",
+   "uncertainties": [],
+   "plain_english": "O goddess, kāma and space, and then after that mahāmāyā."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "rudraśaktiriyaṃ",
+     "gloss": "this-rudra-power",
+     "grounds": "identifies the form as Rudra's śakti; internal sandhi rudraśaktiḥ+iyam",
+     "morph": "compound: rudra+śaktiḥ; f.nom.sg + f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pūrvāmnāye",
+     "gloss": "in-eastern-tradition",
+     "grounds": "locates the teaching in the eastern transmission",
+     "morph": "compound: pūrva+āmnāye; m.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojitā",
+     "gloss": "joined",
+     "grounds": "states assignment to that tradition",
+     "morph": "f.nom.sg past-passive-participle"
+    }
+   ],
+   "question": "To which ritual tradition is this Rudra-śakti form assigned in the teaching?",
+   "premises": [
+    "The form is identified as Rudra-śakti.",
+    "It is explicitly joined to the eastern tradition.",
+    "The assignment is stated emphatically."
+   ],
+   "inference": "This Rudra-śakti is assigned to the eastern tradition.",
+   "uncertainties": [],
+   "plain_english": "O goddess, this Rudra-śakti is indeed joined to the eastern tradition."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "nādabindusamāyuktaḥ",
+     "gloss": "united-with-nāda-bindu",
+     "grounds": "describes combination with nāda and bindu",
+     "morph": "compound: nāda+bindu+samāyuktaḥ; m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "states that it has been taught",
+     "morph": "m.nom.sg past-passive-participle"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What sonic components are declared to be united in the form addressed to the supreme goddess?",
+   "premises": [
+    "The form is described as united with nāda and bindu.",
+    "This is explicitly declared.",
+    "The supreme goddess is addressed."
+   ],
+   "inference": "The declared form is united with nāda and bindu.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, it is declared to be united with nāda and bindu."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "māyābindusanādena",
+     "gloss": "with-māyā-bindu-nāda",
+     "grounds": "specifies the components used in extraction",
+     "morph": "compound: māyā+bindu+sa+nādena; m.inst.sg"
+    },
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "kāmarāja-seed",
+     "grounds": "names the mantra-seed to be extracted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "one-should-extract",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "By means of which components should the kāmarāja seed be extracted?",
+   "premises": [
+    "The extraction uses māyā, bindu, and nāda.",
+    "The object to extract is kāmarāja.",
+    "The action is prescribed."
+   ],
+   "inference": "One should extract the kāmarāja seed using māyā, bindu, and nāda.",
+   "uncertainties": [],
+   "plain_english": "One should extract the kāmarāja seed with māyā, bindu, and nāda."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "bindunādasamākrāntaḥ",
+     "gloss": "pervaded-by-bindu-nāda",
+     "grounds": "describes the mantra as filled with bindu and nāda",
+     "morph": "compound: bindu+nāda+samākrāntaḥ; m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "states that it has been taught",
+     "morph": "m.nom.sg past-passive-participle"
+    },
+    {
+     "surface": "kāmado",
+     "gloss": "desire-granting",
+     "grounds": "states the mantra's effect",
+     "morph": "compound: kāma+daḥ; m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "identifies the subject as a mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What nature and effect are declared for the mantra pervaded by bindu and nāda?",
+   "premises": [
+    "The mantra is pervaded by bindu and nāda.",
+    "It is declared to grant desire.",
+    "It is identified as a manu."
+   ],
+   "inference": "The mantra pervaded by bindu and nāda is declared to be desire-granting.",
+   "uncertainties": [],
+   "plain_english": "The mantra, pervaded by bindu and nāda, is declared to be desire-granting."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "arihā",
+     "gloss": "enemy-slaying",
+     "grounds": "describes power to destroy enemies",
+     "morph": "compound: ari+hā; f.nom.sg"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "accomplishment-giving",
+     "grounds": "describes power to grant siddhi",
+     "morph": "compound: siddhi+dā; f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "identifies the divine subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "great-tripura-beautiful-one",
+     "grounds": "names the goddess as Mahātripurasundarī",
+     "morph": "compound: mahā+tripura+sundarī; f.nom.sg"
+    }
+   ],
+   "question": "What powers are attributed to the goddess Mahātripurasundarī in this declaration?",
+   "premises": [
+    "The goddess is named Mahātripurasundarī.",
+    "She is described as slaying enemies.",
+    "She is described as granting accomplishment."
+   ],
+   "inference": "Mahātripurasundarī is declared to slay enemies and grant accomplishment.",
+   "uncertainties": [],
+   "plain_english": "The goddess Mahātripurasundarī slays enemies and grants accomplishment."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "purandaro",
+     "gloss": "purandara",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "names a seed-element code",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-seed",
+     "grounds": "names the seed-syllable group",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bījamuttamam",
+     "gloss": "supreme-seed",
+     "grounds": "qualifies vāgbhava as the highest seed",
+     "morph": "compound: bīja+uttamam; n.acc.sg"
+    }
+   ],
+   "question": "Which elements are identified as constituting the supreme vāgbhava seed?",
+   "premises": [
+    "Purandara and mahāmāyā are named.",
+    "They are associated with vāgbhava.",
+    "Vāgbhava is called the supreme seed."
+   ],
+   "inference": "Purandara and mahāmāyā constitute the supreme vāgbhava seed.",
+   "uncertainties": [
+    "The exact phonetic mapping of code names like purandara depends on tradition."
+   ],
+   "plain_english": "Purandara and mahāmāyā form the supreme vāgbhava seed."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "vāmākṣivahnicandrāḍhyaṃ",
+     "gloss": "rich-with-left-eye-fire-moon",
+     "grounds": "describes the seed as endowed with coded elements",
+     "morph": "compound: vāma+akṣi+vahni+candra+āḍhyaṃ; n.acc.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-seed",
+     "grounds": "names the seed-syllable group",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What coded elements enrich the vāgbhava seed as addressed to the supreme goddess?",
+   "premises": [
+    "The vāgbhava seed is described as enriched.",
+    "Its enrichment includes left eye, fire, and moon.",
+    "The supreme goddess is addressed."
+   ],
+   "inference": "The vāgbhava seed is enriched with the elements coded as left eye, fire, and moon.",
+   "uncertainties": [
+    "The precise phonetic values of these code names depend on mantra convention."
+   ],
+   "plain_english": "O supreme goddess, the vāgbhava seed is enriched with the left eye, fire, and moon."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "bhuvaneśī",
+     "gloss": "bhuvaneśī",
+     "grounds": "names a seed-element or goddess code",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterward",
+     "grounds": "reinforces sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-seed",
+     "grounds": "names the seed-syllable group",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "states that it has been taught",
+     "morph": "n.nom.sg past-passive-participle"
+    },
+    {
+     "surface": "tvayi",
+     "gloss": "to-you",
+     "grounds": "indicates the recipient of teaching",
+     "morph": "pronoun.loc.sg"
+    }
+   ],
+   "question": "What sequence is declared to you regarding bhuvaneśī and the vāgbhava seed?",
+   "premises": [
+    "Bhuvaneśī is named first in sequence.",
+    "Vāgbhava is declared afterward.",
+    "The teaching is addressed to the listener."
+   ],
+   "inference": "The teaching declares bhuvaneśī and then afterward the vāgbhava seed to you.",
+   "uncertainties": [],
+   "plain_english": "Then afterward, bhuvaneśī and the vāgbhava seed are declared to you."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "names a seed-element code",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayambhūḥ",
+     "gloss": "self-born",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śambhuśca",
+     "gloss": "and-śambhu",
+     "grounds": "names a seed-element code with conjunction; internal sandhi śambhuḥ+ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śakraśca",
+     "gloss": "and-indra",
+     "grounds": "names a seed-element code with conjunction; internal sandhi śakraḥ+ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "bhuvaneśvarī",
+     "grounds": "names a seed-element or goddess code",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which sequence of coded elements is enumerated in this mantra construction?",
+   "premises": [
+    "Śakti, svayambhū, śambhu, and śakra are named.",
+    "Bhuvaneśvarī is included in the sequence.",
+    "The elements are listed in order."
+   ],
+   "inference": "The enumerated sequence is śakti, svayambhū, śambhu, śakra, and bhuvaneśvarī.",
+   "uncertainties": [
+    "The exact phonetic mapping of these code names depends on tradition."
+   ],
+   "plain_english": "Śakti, svayambhū, śambhu, śakra, and bhuvaneśvarī."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire-seed",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivastato",
+     "gloss": "śiva-then",
+     "grounds": "names śiva and indicates sequence; internal sandhi śivaḥ+tataḥ",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates further sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indraśca",
+     "gloss": "and-indra",
+     "grounds": "names indra with conjunction; internal sandhi indraḥ+ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "bhuvaneśvarī",
+     "grounds": "names a seed-element or goddess code",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ordered sequence of coded elements follows in this mantra enumeration?",
+   "premises": [
+    "Kāma and śiva are named in sequence.",
+    "Brahmā, indra, and bhuvaneśvarī follow.",
+    "Sequential markers indicate order."
+   ],
+   "inference": "The sequence is kāma, śiva, then brahmā, indra, and bhuvaneśvarī.",
+   "uncertainties": [
+    "The exact phonetic mapping of these code names depends on tradition."
+   ],
+   "plain_english": "Kāma, then śiva, then brahmā, indra, and bhuvaneśvarī."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "trikūṭānte",
+     "gloss": "at-end-of-three-peaks",
+     "grounds": "locates placement at the end of the trikūṭa",
+     "morph": "compound: tri+kūṭa+ante; m.loc.sg"
+    },
+    {
+     "surface": "haṃsabījaṃ",
+     "gloss": "haṃsa-seed",
+     "grounds": "names the seed-syllable to be added",
+     "morph": "compound: haṃsa+bījaṃ; n.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates resulting condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadaśī",
+     "gloss": "seventeen-syllable",
+     "grounds": "names the resulting mantra form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "states the resulting transformation",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What mantra form results from adding the haṃsa seed at the end of the trikūṭa?",
+   "premises": [
+    "The haṃsa seed is placed at the end of the trikūṭa.",
+    "This addition produces a specific form.",
+    "The resulting form is seventeen-syllabled."
+   ],
+   "inference": "Adding the haṃsa seed at the end of the trikūṭa yields the seventeen-syllable form.",
+   "uncertainties": [],
+   "plain_english": "When the haṃsa seed is placed at the end of the trikūṭa, it becomes the seventeen-syllable form."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "mānmathaṃ",
+     "gloss": "love-god-seed",
+     "grounds": "names a seed-element code",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivaśaktī",
+     "gloss": "śiva-and-śakti",
+     "grounds": "names paired seed elements",
+     "morph": "compound: śiva+śaktī; f.nom.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mādano",
+     "gloss": "exciting-one",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hara",
+     "gloss": "hara",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indrakaḥ",
+     "gloss": "indra",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which coded elements are enumerated in this sequence of mantra components?",
+   "premises": [
+    "Mānmatha, śiva-śakti, mādana, hara, and indraka are named.",
+    "They are listed as components in sequence.",
+    "The enumeration defines a mantra structure."
+   ],
+   "inference": "The sequence includes mānmatha, śiva-śakti, mādana, hara, and indraka.",
+   "uncertainties": [
+    "The exact phonetic mapping of these code names depends on tradition."
+   ],
+   "plain_english": "Mānmatha, śiva and śakti, mādana, hara, and indraka."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "candraḥ",
+     "gloss": "moon",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāpatiḥ",
+     "gloss": "prajāpati",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakro",
+     "gloss": "indra",
+     "grounds": "names a seed-element code; internal sandhi śakraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "names a seed-element code",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after-that",
+     "grounds": "indicates what follows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which coded elements continue the mantra sequence after the previous enumeration?",
+   "premises": [
+    "Candra, prajāpati, śakra, and mahāmāyā are named.",
+    "Sequential markers indicate continuation.",
+    "These follow the prior components."
+   ],
+   "inference": "The continued sequence is candra, prajāpati, śakra, and then mahāmāyā.",
+   "uncertainties": [
+    "The exact phonetic mapping of these code names depends on tradition."
+   ],
+   "plain_english": "Candra, prajāpati, śakra, and then after that mahāmāyā."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "sarvānte",
+     "gloss": "at-end-of-all",
+     "grounds": "locates placement at the very end",
+     "morph": "compound: sarva+ante; m.loc.sg"
+    },
+    {
+     "surface": "haṃsasaṃyuktā",
+     "gloss": "joined-with-haṃsa",
+     "grounds": "describes addition of the haṃsa element",
+     "morph": "compound: haṃsa+saṃyuktā; f.nom.sg"
+    },
+    {
+     "surface": "viṃśākṣarī",
+     "gloss": "twenty-syllable",
+     "grounds": "names the resulting mantra form",
+     "morph": "compound: viṃśa+akṣarī; f.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates resulting condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "states the resulting transformation",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What mantra form results from joining haṃsa at the end of the entire sequence?",
+   "premises": [
+    "Haṃsa is joined at the end of all components.",
+    "This addition produces a specific form.",
+    "The resulting form is twenty-syllabled."
+   ],
+   "inference": "Joining haṃsa at the end of the whole sequence yields the twenty-syllable form.",
+   "uncertainties": [],
+   "plain_english": "When joined with haṃsa at the end of all, it then becomes the twenty-syllable form."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "names a seed-element code",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivendrau",
+     "gloss": "śiva-and-indra",
+     "grounds": "names paired seed elements",
+     "morph": "compound: śiva+indrau; m.nom.dual"
+    },
+    {
+     "surface": "śaktiśca",
+     "gloss": "and-śakti",
+     "grounds": "names śakti with conjunction; internal sandhi śaktiḥ+ca",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "names a seed-element code",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "names the following supreme element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which coded elements are enumerated before the supreme element in this sequence?",
+   "premises": [
+    "Brahmā, śiva-indra, śakti, and mahāmāyā are named.",
+    "A supreme element follows after them.",
+    "The sequence is explicitly ordered."
+   ],
+   "inference": "The sequence before the supreme element is brahmā, śiva-indra, śakti, and mahāmāyā.",
+   "uncertainties": [
+    "The exact phonetic mapping of these code names depends on tradition."
+   ],
+   "plain_english": "Brahmā, śiva and indra, śakti, mahāmāyā, and then the supreme one."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "śivendrakāmarudrāśca",
+     "gloss": "and-śiva-indra-kāma-rudra",
+     "grounds": "names a group of seed-element codes with conjunction; internal sandhi rudrāḥ+ca",
+     "morph": "compound: śiva+indra+kāma+rudrāḥ; m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "candraśca",
+     "gloss": "and-moon",
+     "grounds": "names candra with conjunction; internal sandhi candraḥ+ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "parameśvarī",
+     "gloss": "supreme-goddess",
+     "grounds": "names the supreme goddess element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which final coded elements and divine principle conclude this mantra enumeration?",
+   "premises": [
+    "Śiva, indra, kāma, and rudra are named together.",
+    "Candra is added to the sequence.",
+    "Parameśvarī concludes the enumeration."
+   ],
+   "inference": "The enumeration concludes with śiva-indra-kāma-rudra, candra, and parameśvarī.",
+   "uncertainties": [
+    "The exact phonetic mapping of these code names depends on tradition."
+   ],
+   "plain_english": "Śiva, indra, kāma, and rudra, and candra, and the supreme goddess."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "yadrūpaṃ",
+     "gloss": "which-form",
+     "grounds": "relative-compound indicating the form previously specified",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "described",
+     "grounds": "past passive participle referring to what was stated earlier",
+     "morph": "ppp.nom.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to that described form",
+     "morph": "pron.nom.acc.sg.n"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a circumstance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun referring to the described form or its outcome",
+     "morph": "pron.gen.sg.m.n"
+    },
+    {
+     "surface": "pratīkṣaṇam",
+     "gloss": "awaiting",
+     "grounds": "action noun indicating expectant observation",
+     "morph": "n.nom.acc.sg"
+    }
+   ],
+   "question": "What response is required when the previously described fire-form appears?",
+   "premises": [
+    "A particular form has already been described in the preceding context.",
+    "This described form may appear as a condition.",
+    "The appearance of that form calls for awaiting its outcome."
+   ],
+   "inference": "When the described form appears, one must await the corresponding result.",
+   "uncertainties": [
+    "Whether pratīkṣaṇam implies passive waiting or active observation is not fully explicit.",
+    "The exact referent of tasya, the form or its result, is contextually ambiguous."
+   ],
+   "plain_english": "And if this form, which has been described, appears, then one should await its outcome."
+  }
+ ]
+}

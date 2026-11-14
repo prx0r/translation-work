@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "dadato",
+     "gloss": "of-giving",
+     "grounds": "present participle of dā, referring to the one who gives",
+     "morph": "m.gen.sg.pres-part"
+    },
+    {
+     "surface": "gṛhṇato",
+     "gloss": "of-receiving",
+     "grounds": "present participle of grah, referring to the one who receives",
+     "morph": "m.gen.sg.pres-part"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulaśāpo",
+     "gloss": "lineage-curse",
+     "grounds": "compound of kula (lineage/family) and śāpa (curse)",
+     "morph": "compound; m.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future form of bhū expressing inevitable consequence",
+     "morph": "3.sg.future.act √bhū"
+    }
+   ],
+   "question": "What penalty threatens both the giver and receiver in mantra transmission?",
+   "premises": [
+    "One party acts as the giver in transmission.",
+    "Another party acts as the receiver in transmission.",
+    "Improper transmission brings a curse upon the lineage."
+   ],
+   "inference": "Both the giver and the receiver will incur a lineage curse.",
+   "uncertainties": [
+    "The specific breach of proper transmission is implied from the preceding verses rather than stated explicitly in this verse."
+   ],
+   "plain_english": "O goddess, a curse upon the lineage will befall both the one who gives and the one who receives."
+  }
+ ]
+}
