@@ -1,0 +1,1091 @@
+{
+ "song": "mukta-m0-p431",
+ "items": [
+  {
+   "verse": 10751,
+   "rows": [
+    {
+     "surface": "kavacasya",
+     "gloss": "of-armor",
+     "grounds": "protective armor; object of application",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prayoge",
+     "gloss": "in-application",
+     "grounds": "ritual employment or use",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japa+homā+ādi+karmasu",
+     "gloss": "in-recitation-fire-offering-etc-rites",
+     "grounds": "compound: japa+homā+ādi+karma; ritual contexts of recitation and oblation",
+     "morph": "n.loc.pl (compound)"
+    }
+   ],
+   "question": "Which ritual activities require the application of the protective armor mantra?",
+   "premises": [
+    "A protective armor exists for ritual use.",
+    "Recitation, fire offering, and related rites are performed.",
+    "The armor is applied within those ritual activities."
+   ],
+   "inference": "The protective armor mantra is to be employed during recitation, fire offering, and similar rites.",
+   "uncertainties": [],
+   "plain_english": "Whoever applies the armor during recitation, fire offerings, and other such rites—"
+  },
+  {
+   "verse": 10752,
+   "rows": [
+    {
+     "surface": "upaiti",
+     "gloss": "obtains",
+     "grounds": "attains or gains",
+     "morph": "3.sg.act.pres (√i with upa)"
+    },
+    {
+     "surface": "sadṛśīṃ",
+     "gloss": "suitable",
+     "grounds": "fitting or well-matched",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kanyāṃ",
+     "gloss": "maiden",
+     "grounds": "unmarried girl or bride",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lāja+homena",
+     "gloss": "by-parched-rice-oblation",
+     "grounds": "compound: lāja+homa; offering of parched rice into fire",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual adept performing the practice",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What marital result follows from offering parched rice with the armor practice?",
+   "premises": [
+    "The practitioner performs a parched-rice oblation.",
+    "The oblation is done in the context of the armor practice.",
+    "A suitable maiden is the stated outcome."
+   ],
+   "inference": "By offering parched rice, the practitioner obtains a suitable maiden.",
+   "uncertainties": [],
+   "plain_english": "The practitioner obtains a suitable maiden by means of an oblation of parched rice."
+  },
+  {
+   "verse": 10753,
+   "rows": [
+    {
+     "surface": "sarva+ādhipatyaṃ",
+     "gloss": "all-sovereignty",
+     "grounds": "compound: sarva+ādhipatya; universal lordship or dominion",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "wealth",
+     "grounds": "material riches or property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "will-be",
+     "grounds": "comes to be or arises",
+     "morph": "3.sg.act.opt (√bhū)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "certainly",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty or hesitation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certainty of sovereignty and wealth is promised to the practitioner?",
+   "premises": [
+    "Universal sovereignty is named as a result.",
+    "Wealth is named as a result.",
+    "Doubt about these results is explicitly denied."
+   ],
+   "inference": "The practitioner will certainly attain universal sovereignty and wealth without doubt.",
+   "uncertainties": [],
+   "plain_english": "Indeed, there will be universal sovereignty and wealth; there is certainly no doubt."
+  },
+  {
+   "verse": 10754,
+   "rows": [
+    {
+     "surface": "ārāt",
+     "gloss": "for",
+     "grounds": "throughout or during a period",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvatsaraṃ",
+     "gloss": "year",
+     "grounds": "a full year-long period",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "for the duration of",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ+sahasraṃ",
+     "gloss": "six-thousand",
+     "grounds": "compound: ṣaṣ+sahasra; numerical quantity",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "dine+dine",
+     "gloss": "day-by-day",
+     "grounds": "iterative compound: dina+dina; each day",
+     "morph": "n.loc.sg (iterative compound)"
+    }
+   ],
+   "question": "What daily quantity and duration define the prescribed oblation practice?",
+   "premises": [
+    "The practice continues for one year.",
+    "A count of six thousand is specified.",
+    "The action is repeated day by day."
+   ],
+   "inference": "The practitioner must perform six thousand offerings daily for a full year.",
+   "uncertainties": [
+    "The object of the six thousand daily offerings is supplied by the following verse."
+   ],
+   "plain_english": "For a full year, six thousand times day by day—"
+  },
+  {
+   "verse": 10755,
+   "rows": [
+    {
+     "surface": "ayam",
+     "gloss": "this-one",
+     "grounds": "demonstrative pronoun referring to the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anna+daḥ",
+     "gloss": "food-giver",
+     "grounds": "compound: anna+da; provider of food",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "in the world among people",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "of everyone without exception",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "comes to be or is born as",
+     "morph": "3.sg.mid.pres (√jan)"
+    }
+   ],
+   "question": "What social status results from the year-long daily oblation regimen?",
+   "premises": [
+    "The practitioner completes the prescribed daily regimen.",
+    "The result is described as becoming a giver of food.",
+    "This status extends to all people in the world."
+   ],
+   "inference": "Through this practice, the practitioner becomes a provider of food for everyone in the world.",
+   "uncertainties": [],
+   "plain_english": "This very person becomes a giver of food to everyone in the world."
+  },
+  {
+   "verse": 10756,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "after performing oblation",
+     "morph": "abs (√hu)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "gains or acquires",
+     "morph": "3.sg.mid.pres (√labh)"
+    },
+    {
+     "surface": "lakṣmīm",
+     "gloss": "prosperity",
+     "grounds": "wealth, fortune, or auspicious abundance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "soon",
+     "grounds": "without long delay",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context or in this world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual adept performing the practice",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How quickly does the practitioner gain prosperity through oblation?",
+   "premises": [
+    "The practitioner performs an oblation.",
+    "Prosperity is the stated gain.",
+    "The gain occurs without long delay."
+   ],
+   "inference": "By performing oblation, the practitioner soon obtains prosperity.",
+   "uncertainties": [],
+   "plain_english": "But having made the oblation, the practitioner soon obtains prosperity here."
+  },
+  {
+   "verse": 10757,
+   "rows": [
+    {
+     "surface": "vairājyena",
+     "gloss": "by-sovereignty",
+     "grounds": "by universal rule or imperial power",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ādhipatyena",
+     "gloss": "by-lordship",
+     "grounds": "by overlordship or authority",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "martyānām",
+     "gloss": "of-mortals",
+     "grounds": "among human beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "uttamaḥ",
+     "gloss": "supreme",
+     "grounds": "highest or foremost",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "comes to be or becomes",
+     "morph": "3.sg.act.opt (√bhū)"
+    }
+   ],
+   "question": "What rank among mortals does sovereign lordship confer on the practitioner?",
+   "premises": [
+    "Sovereignty and lordship are attained.",
+    "The comparison is made among mortals.",
+    "The practitioner becomes foremost."
+   ],
+   "inference": "Through sovereignty and lordship, the practitioner becomes supreme among mortals.",
+   "uncertainties": [],
+   "plain_english": "He would become supreme among mortals through sovereignty and lordship."
+  },
+  {
+   "verse": 10758,
+   "rows": [
+    {
+     "surface": "saṃvatsaraṃ",
+     "gloss": "year",
+     "grounds": "for the duration of a year",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "should-perform",
+     "grounds": "should carry out or practice",
+     "morph": "3.sg.mid.opt (√kṛ with pra)"
+    },
+    {
+     "surface": "japa+homa+ādikaṃ",
+     "gloss": "recitation-fire-offering-etc",
+     "grounds": "compound: japa+homa+ādika; recitation, oblation, and related acts",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What year-long ritual discipline should the wise practitioner undertake?",
+   "premises": [
+    "A wise practitioner is addressed.",
+    "Recitation, fire offering, and related acts are prescribed.",
+    "The prescribed duration is one year."
+   ],
+   "inference": "The wise practitioner should perform recitation, fire offering, and related rites for one year.",
+   "uncertainties": [],
+   "plain_english": "The wise one should perform recitation, fire offerings, and the like for a year."
+  },
+  {
+   "verse": 10759,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "members of the priestly class",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhojayitvā",
+     "gloss": "having-fed",
+     "grounds": "after giving food to",
+     "morph": "abs (caus. √bhuj)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking sequence or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vratam",
+     "gloss": "vow",
+     "grounds": "the undertaken religious observance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the vow",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "should-complete",
+     "grounds": "should bring to conclusion",
+     "morph": "3.sg.act.opt (caus. √āp with sam)"
+    }
+   ],
+   "question": "What concluding act properly completes the prescribed year-long vow?",
+   "premises": [
+    "A vow has been undertaken.",
+    "Feeding brahmins is prescribed.",
+    "The vow is to be brought to completion afterward."
+   ],
+   "inference": "After feeding brahmins, the practitioner should complete this vow.",
+   "uncertainties": [],
+   "plain_english": "But having fed the brahmins, one should complete this vow."
+  },
+  {
+   "verse": 10760,
+   "rows": [
+    {
+     "surface": "bhuktim",
+     "gloss": "enjoyment",
+     "grounds": "worldly enjoyment or experience",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "muktiṃ",
+     "gloss": "liberation",
+     "grounds": "release or spiritual freedom",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "gains or attains",
+     "morph": "3.sg.mid.pres (√labh)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha+loke",
+     "gloss": "in-this-world",
+     "grounds": "compound: iha+loka; in this present world",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "paratra",
+     "gloss": "in-other-world",
+     "grounds": "in the world beyond or hereafter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dual attainment in this world and beyond rewards the completed vow?",
+   "premises": [
+    "The vow has been properly completed.",
+    "Enjoyment and liberation are named as attainments.",
+    "These attainments span this world and the next."
+   ],
+   "inference": "Completion of the vow yields both enjoyment and liberation in this world and beyond.",
+   "uncertainties": [],
+   "plain_english": "One indeed obtains both enjoyment and liberation, in this world and in the next."
+  },
+  {
+   "verse": 10761,
+   "rows": [
+    {
+     "surface": "abhīṣṭa+loka+vaśya+arthaṃ",
+     "gloss": "desired-world-subjugation-purpose",
+     "grounds": "compound: abhīṣṭa+loka+vaśya+artha; for the purpose of bringing the desired world under control",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "should perform fire oblation",
+     "morph": "3.sg.act.opt (√hu)"
+    },
+    {
+     "surface": "arcita+anale",
+     "gloss": "in-worshipped-fire",
+     "grounds": "compound: arcita+anala; in a fire that has been honored",
+     "morph": "m.loc.sg (compound)"
+    }
+   ],
+   "question": "For what purpose of subjugation should offerings be made in consecrated fire?",
+   "premises": [
+    "A consecrated fire is the ritual locus.",
+    "An oblation is prescribed.",
+    "The aim is to bring the desired world under control."
+   ],
+   "inference": "One should offer into the worshipped fire to subjugate the desired world.",
+   "uncertainties": [],
+   "plain_english": "For the purpose of subjugating the desired world, one should make offerings in the worshipped fire."
+  },
+  {
+   "verse": 10762,
+   "rows": [
+    {
+     "surface": "patraiḥ",
+     "gloss": "with-leaves",
+     "grounds": "using leaves as oblation material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bilva+prasūnaiḥ",
+     "gloss": "with-bilva-flowers",
+     "grounds": "compound: bilva+prasūna; flowers of the bilva tree",
+     "morph": "n.inst.pl (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa+aṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "compound: daśa+aṃśa; one tenth of the prior count",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "should perform fire oblation",
+     "morph": "3.sg.act.opt (√hu)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "the discerning practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative oblation materials and quantity should the wise practitioner use?",
+   "premises": [
+    "Leaves or bilva flowers may be used.",
+    "A tenth part is specified as the quantity.",
+    "The wise practitioner performs the oblation."
+   ],
+   "inference": "The wise practitioner should offer a tenth part using leaves or bilva flowers.",
+   "uncertainties": [
+    "The base quantity for the tenth part is not explicitly stated in this verse."
+   ],
+   "plain_english": "The wise one should offer a tenth part with leaves or with bilva flowers."
+  },
+  {
+   "verse": 10763,
+   "rows": [
+    {
+     "surface": "pāyasena",
+     "gloss": "with-milk-rice",
+     "grounds": "rice cooked in milk",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ājya+yuktena",
+     "gloss": "with-ghee-mixed",
+     "grounds": "compound: ājya+yukta; combined with clarified butter",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "after performing oblation",
+     "morph": "abs (√hu)"
+    },
+    {
+     "surface": "vidyā+nidhiḥ",
+     "gloss": "knowledge-treasure",
+     "grounds": "compound: vidyā+nidhi; a repository of knowledge",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "comes to be or becomes",
+     "morph": "3.sg.act.opt (√bhū)"
+    }
+   ],
+   "question": "What intellectual attainment follows from oblations of milk-rice mixed with ghee?",
+   "premises": [
+    "An oblation of milk-rice mixed with ghee is performed.",
+    "The result is becoming a treasure of knowledge.",
+    "The attainment is presented as a direct outcome."
+   ],
+   "inference": "By offering milk-rice mixed with ghee, one becomes a repository of knowledge.",
+   "uncertainties": [],
+   "plain_english": "Having made an oblation with milk-rice mixed with ghee, one would become a treasure of knowledge."
+  },
+  {
+   "verse": 10764,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior sovereignty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "once more or back again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "comes",
+     "grounds": "returns or arrives",
+     "morph": "3.sg.act.pres (√yā with ā)"
+    },
+    {
+     "surface": "sva+ādhipatyaṃ",
+     "gloss": "own-sovereignty",
+     "grounds": "compound: sva+ādhipatya; one's own dominion or rule",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty or hesitation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What assurance is given about the return of one's own sovereignty?",
+   "premises": [
+    "One's own sovereignty is the subject.",
+    "Its return is stated to occur again.",
+    "Doubt about this return is explicitly denied."
+   ],
+   "inference": "One's own sovereignty will indeed return again without doubt.",
+   "uncertainties": [],
+   "plain_english": "That very sovereignty of one's own comes again; there is no doubt."
+  },
+  {
+   "verse": 10765,
+   "rows": [
+    {
+     "surface": "jātī+puṣpāṇi",
+     "gloss": "jasmine-flowers",
+     "grounds": "compound: jātī+puṣpa; flowers of the jasmine plant",
+     "morph": "n.acc.pl (compound)"
+    },
+    {
+     "surface": "madhura+tritaya+āktāni",
+     "gloss": "sweet-triad-smeared",
+     "grounds": "compound: madhura+tritaya+ākta; anointed with the three sweets",
+     "morph": "n.acc.pl (compound)"
+    },
+    {
+     "surface": "saṃhunet",
+     "gloss": "should-offer",
+     "grounds": "should perform oblation",
+     "morph": "3.sg.act.opt (√hu with sam)"
+    }
+   ],
+   "question": "What specially prepared jasmine flowers should be offered in the fire?",
+   "premises": [
+    "Jasmine flowers are the oblation material.",
+    "The flowers are smeared with the three sweets.",
+    "An oblation with them is prescribed."
+   ],
+   "inference": "One should offer jasmine flowers smeared with the three sweets.",
+   "uncertainties": [
+    "The exact constituents of the sweet triad are not specified in this verse."
+   ],
+   "plain_english": "One should offer jasmine flowers smeared with the three sweets."
+  },
+  {
+   "verse": 10766,
+   "rows": [
+    {
+     "surface": "vaiśākhe",
+     "gloss": "in-vaiśākha",
+     "grounds": "during the month of Vaiśākha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rāghavaṃ",
+     "gloss": "Rāghava",
+     "grounds": "Rāma, descendant of Raghu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "should-make",
+     "grounds": "should visualize or form in contemplation",
+     "morph": "3.sg.act.opt (√kṛ)"
+    },
+    {
+     "surface": "paśyan",
+     "gloss": "seeing",
+     "grounds": "beholding or gazing upon",
+     "morph": "m.nom.sg.act.pres.part (√paś)"
+    },
+    {
+     "surface": "animiṣe",
+     "gloss": "without-blinking",
+     "grounds": "with unblinking gaze",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣaṇaḥ",
+     "gloss": "moment",
+     "grounds": "for an instant or moment",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What unblinking visualization of Rāghava is prescribed during the month of Vaiśākha?",
+   "premises": [
+    "The practice is set in the month of Vaiśākha.",
+    "Rāghava is the object of visualization.",
+    "The gaze is to be unblinking for a moment."
+   ],
+   "inference": "In Vaiśākha one should visualize Rāghava, gazing without blinking for a moment.",
+   "uncertainties": [
+    "The form kṣaṇaḥ is taken as indicating a momentary duration in context."
+   ],
+   "plain_english": "In the month of Vaiśākha, one should visualize Rāghava, gazing without blinking for a moment."
+  },
+  {
+   "verse": 10767,
+   "rows": [
+    {
+     "surface": "daśa+aṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "compound: daśa+aṃśa; one tenth of the prior count",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "kamalaiḥ",
+     "gloss": "with-lotuses",
+     "grounds": "using lotus flowers as oblation material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "after performing oblation",
+     "morph": "abs (√hu)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "that practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arogī",
+     "gloss": "free-from-disease",
+     "grounds": "healthy, without illness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "comes to be or becomes",
+     "morph": "3.sg.act.opt (√bhū)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assuredly or without fail",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What health benefit is assured by offering a tenth part with lotuses?",
+   "premises": [
+    "A tenth-part oblation with lotuses is performed.",
+    "Freedom from disease is named as the result.",
+    "The result is declared certain."
+   ],
+   "inference": "By offering a tenth part with lotuses, one certainly becomes free from disease.",
+   "uncertainties": [],
+   "plain_english": "Having offered a tenth part with lotuses, he would certainly become free from disease."
+  },
+  {
+   "verse": 10768,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "should recite or repeat the mantra",
+     "morph": "3.sg.act.opt (√jap)"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "a count of one hundred thousand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "should perform fire oblation",
+     "morph": "3.sg.act.opt (√hu)"
+    },
+    {
+     "surface": "pāyasena",
+     "gloss": "with-milk-rice",
+     "grounds": "rice cooked in milk",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "arcita+anale",
+     "gloss": "in-worshipped-fire",
+     "grounds": "compound: arcita+anala; in a fire that has been honored",
+     "morph": "m.loc.sg (compound)"
+    }
+   ],
+   "question": "What combined recitation and milk-rice oblation is prescribed in consecrated fire?",
+   "premises": [
+    "Recitation of one hundred thousand is prescribed.",
+    "An oblation with milk-rice is prescribed.",
+    "Both acts are performed in a worshipped fire."
+   ],
+   "inference": "One should recite one hundred thousand times and offer milk-rice in the worshipped fire.",
+   "uncertainties": [],
+   "plain_english": "One should mutter a hundred thousand times and make offerings with milk-rice in the worshipped fire."
+  },
+  {
+   "verse": 10769,
+   "rows": [
+    {
+     "surface": "śrī+rāma+sadṛśaḥ",
+     "gloss": "Śrī-Rāma-like",
+     "grounds": "compound: śrī+rāma+sadṛśa; resembling Śrī Rāma",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "putra+pautra+āḍhyaḥ",
+     "gloss": "son-grandson-endowed",
+     "grounds": "compound: putra+pautra+āḍhya; rich in sons and grandsons",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "comes into being or is produced",
+     "morph": "3.sg.mid.pres (√jan with pra)"
+    }
+   ],
+   "question": "What offspring and likeness to Śrī Rāma result from the prescribed practice?",
+   "premises": [
+    "A likeness to Śrī Rāma is promised.",
+    "Endowment with sons and grandsons is promised.",
+    "These outcomes arise as a result of the practice."
+   ],
+   "inference": "The practice yields a progeny endowed with sons and grandsons and like Śrī Rāma.",
+   "uncertainties": [
+    "The subject may refer to a child born to the practitioner."
+   ],
+   "plain_english": "One is born like Śrī Rāma, endowed with sons and grandsons."
+  },
+  {
+   "verse": 10770,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time or in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hana+hana+iti+uktvā",
+     "gloss": "slay-slay-thus-having-said",
+     "grounds": "compound: hana+hana+iti+uktvā; having uttered the words 'slay, slay'",
+     "morph": "abs (compound with √vac)"
+    },
+    {
+     "surface": "tat+nāma+antaritaṃ",
+     "gloss": "his-name-interspersed",
+     "grounds": "compound: tat+nāma+antarita; interwoven with that name",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "should recite or repeat",
+     "morph": "3.sg.act.opt (√jap)"
+    }
+   ],
+   "question": "How should the slaying formula be recited with the target's name interspersed?",
+   "premises": [
+    "The words 'slay, slay' are to be uttered.",
+    "The target's name is interspersed in the recitation.",
+    "This recitation is prescribed at that time."
+   ],
+   "inference": "One should then recite 'slay, slay' interspersed with the target's name.",
+   "uncertainties": [
+    "The referent of 'his name' depends on the ritual context."
+   ],
+   "plain_english": "Then, having said 'slay, slay,' one should mutter it interspersed with that name."
+  },
+  {
+   "verse": 10771,
+   "rows": [
+    {
+     "surface": "ā+karṇa+sa+śara+ākṛṣṭa+kodaṇḍa+bhuja+maṇḍitam",
+     "gloss": "to-ear-with-arrow-drawn-bow-arm-adorned",
+     "grounds": "compound: ā+karṇa+sa+śara+ākṛṣṭa+kodaṇḍa+bhuja+maṇḍita; adorned with an arm drawing a bow with arrow to the ear",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What armed posture characterizes the deity visualized in the recitation?",
+   "premises": [
+    "A bow is drawn with an arrow.",
+    "The draw reaches to the ear.",
+    "The figure is adorned by this armed posture."
+   ],
+   "inference": "The visualized figure is adorned with an arm drawing a bow and arrow back to the ear.",
+   "uncertainties": [],
+   "plain_english": "Adorned with an arm drawing a bow with an arrow back to the ear—"
+  },
+  {
+   "verse": 10772,
+   "rows": [
+    {
+     "surface": "rakta+netram",
+     "gloss": "red-eyed",
+     "grounds": "compound: rakta+netra; having red eyes",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "mahā+vīra+varyyam",
+     "gloss": "great-hero-best",
+     "grounds": "compound: mahā+vīra+varyya; the foremost among great heroes",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "aindre",
+     "gloss": "on-Indra's",
+     "grounds": "belonging to or of Indra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rathe",
+     "gloss": "chariot",
+     "grounds": "war chariot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "standing",
+     "grounds": "stationed or positioned",
+     "morph": "m.acc.sg.past.pass.part (√sthā)"
+    }
+   ],
+   "question": "What fierce heroic form standing on Indra's chariot is to be visualized?",
+   "premises": [
+    "The figure is red-eyed and foremost among great heroes.",
+    "The figure stands on Indra's chariot.",
+    "This description continues the visualization."
+   ],
+   "inference": "One should visualize the red-eyed, foremost great hero standing on Indra's chariot.",
+   "uncertainties": [],
+   "plain_english": "Red-eyed, the best of great heroes, standing on Indra's chariot—"
+  },
+  {
+   "verse": 10773,
+   "rows": [
+    {
+     "surface": "koṭi+koṭi+mahā+vīraiḥ",
+     "gloss": "crore-crore-great-heroes",
+     "grounds": "compound: koṭi+koṭi+mahā+vīra; by countless millions of great heroes",
+     "morph": "m.inst.pl (compound)"
+    },
+    {
+     "surface": "kara+uddhṛta+taru+uttamaiḥ",
+     "gloss": "hand-uplifted-tree-best",
+     "grounds": "compound: kara+uddhṛta+taru+uttama; holding the best trees uplifted in hand",
+     "morph": "m.inst.pl (compound)"
+    }
+   ],
+   "question": "What vast host of tree-bearing heroes accompanies the visualized figure?",
+   "premises": [
+    "Countless great heroes are present.",
+    "They hold the best trees uplifted in their hands.",
+    "They accompany the central figure in the visualization."
+   ],
+   "inference": "The figure is accompanied by countless great heroes bearing uplifted trees.",
+   "uncertainties": [],
+   "plain_english": "Surrounded by crores upon crores of great heroes holding the finest trees uplifted in their hands—"
+  },
+  {
+   "verse": 10774,
+   "rows": [
+    {
+     "surface": "nadadbhiḥ",
+     "gloss": "roaring",
+     "grounds": "making loud cries or roaring",
+     "morph": "m.inst.pl.act.pres.part (√nad)"
+    },
+    {
+     "surface": "abhidhāvadbhiḥ",
+     "gloss": "rushing",
+     "grounds": "charging forward or running toward",
+     "morph": "m.inst.pl.act.pres.part (√dhāv with abhi)"
+    },
+    {
+     "surface": "samare",
+     "gloss": "in-battle",
+     "grounds": "in combat or on the battlefield",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ari+gaṇaṃ",
+     "gloss": "enemy-host",
+     "grounds": "compound: ari+gaṇa; the multitude of enemies",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "against or in the direction of",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Against whom do the roaring, rushing heroes charge in battle?",
+   "premises": [
+    "The accompanying heroes are roaring and rushing.",
+    "The scene is set in battle.",
+    "Their charge is directed toward the enemy host."
+   ],
+   "inference": "The roaring, rushing heroes charge toward the enemy host in battle.",
+   "uncertainties": [],
+   "plain_english": "Roaring and rushing in battle toward the host of enemies."
+  }
+ ]
+}

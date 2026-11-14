@@ -8,70 +8,70 @@
 [without](vinā) [own](svakīyaṃ) [but](tu) [wealth](dhanaṃ) [to-give](dātuṃ) [to-sell](vikretuṃ) [is-able](śaknoti) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p117-v2903
-[by-own+effort+acquired](svakṛtya+upārjitaṃ) [which](yat) [and](ca) [woman+wealth](strī+dhanaṃ) [that](tat) [is-declared](prakīrtitam)
+[self](sva) + [earned](kṛtya) + [acquired](upārjitaṃ) [which](yat) [and](ca) [woman](strī) + [wealth](dhanaṃ) [that](tat) [is-declared](prakīrtitam)
 
 ## mukta-m0-p117-v2904
-[that+nearest](tat+āsanna+taraḥ) [inheritance](riktham) [below](adhaḥ) [above+order](ūrdhva+krama) [should-take](ādharet)
+[that](tat) [nearer](āsanna) + [most](taraḥ) [inheritance](riktham) [below](adha) [above](ūrdhva) + [in-order](kramāt) [should-take](haret)
 
 ## mukta-m0-p117-v2905
-[that+absence](tat+abhāve) [father+kinsman](pitṛ+bandhaḥ) [remaining](tiṣṭhantī) [inheritance](dāyam) [deserves](arhati)
+[that](tat) + [in-absence](abhāve) [father](pitṛ) + [kinsman](bandhaḥ) [surviving](tiṣṭhantī) [inheritance](dāyam) [deserves](arhati)
 
 ## mukta-m0-p117-v2906
-[obtains](labhate) [livelihood](jīvanaṃ) [only](mātraṃ) [of-husband+wealth+takers](bhartuḥ+vibhava+hāriṇaḥ)
+[obtains](labhate) [livelihood](jīvanaṃ) [only](mātraṃ) [of-husband](bhartuḥ) + [property](vibhava) + [takers](hāriṇaḥ)
 
 ## mukta-m0-p117-v2907
-[person](janaḥ) [should-take](haret) [this](etat) [but](tu) [generally](sāmānyataḥ) [stated](uktaṃ) [specifically](viśeṣataḥ) [but](tu) [ahead](agre) [will-be-stated](vakṣyate)
+[person](jano) [should-take](haret) [this](etat) [but](tu) [generally](sāmānyataḥ) [stated](uktaṃ) [specifically](viśeṣataḥ) [but](tu) [later](agre) [will-be-stated](vakṣyate)
 
 ## mukta-m0-p117-v2908
-[should-divide](bhajeran) [of-husband](svāminaḥ) [wealth](vittaṃ) [with-equal+share](samāṃśena) [O-pure-smiling-one](śuci+smite)
+[they-should-divide](bhajeran) [of-husband](svāmino) [wealth](vittaṃ) [with-equal](samāṃśena) [share](śucismite)
 
 ## mukta-m0-p117-v2909
-[again](punaḥ) [husband+state](svāmi+padaṃ) [having-gone](gatvā) [wealth](dhanaṃ) [to-daughter](duhitaraṃ) [should-go](vrajet)
+[again](punaḥ) [husband](svāmi) + [state](padaṃ) [having-gone](gatvā) [wealth](dhanaṃ) [to-daughter](duhitaraṃ) [should-go](vrajet)
 
 ## mukta-m0-p117-v2910
-[her+death](tat+mṛtau) [husband](svāminaṃ) [having-reached](prāpya) [from-father-in-law](śvaśurāt) [his+daughter](tat+sutām) [should-go-to](iyāt)
+[on-her-death](tan) + [mṛtau](mṛtau) [husband](svāminaṃ) [having-reached](prāpya) [from-father-in-law](śvaśurāt) [to-his-daughter](tat) + [sutām](sutām) + [iyāt](iyāt)
 
 ## mukta-m0-p117-v2911
 [thus](iti) [Amara](amaraḥ)
 
 ## mukta-m0-p117-v2912
-[with-equal+share](samāṃśena) [with-equal+portion](tulya+bhāgena) [should-divide](bhajeran) [should-enjoy](severan)
+[with-equal](samāṃśena) [share](tulya) + [portion](bhāgena) [they-should-divide](bhajeran) [they-should-enjoy](severan)
 
 ## mukta-m0-p117-v2913
-[should-go](gacchet) [thus](iti) [indicated](sūcayāñcakre)
+[should-go](gacchet) [thus](iti) [by-indication](sūcayā) + [made-known](añcakre)
 
 ## mukta-m0-p117-v2914
-[her](tasyāṃ) [having-died](mṛtāyāṃ) [by-son](putreṇa) [by-husband](bhartrā) [to-father-in-law](śvaśura) [should-go](gambhavet)
+[on-her-death](tasyāṃ) [having-died](mṛtāyāṃ) [by-son](putreṇa) [by-husband](bhartrā) [to-father-in-law](śvaśura) + [it-should-go](gambhavet)
 
 ## mukta-m0-p117-v2915
-[mother](jananī) [also](api) [likewise](tathā) [obtains](āpnoti) [husband+deprived](pati+hīnā) [becomes](bhavet) [if](yadi)
+[mother](jananī) [also](api) [likewise](tathā) + [obtains](āpnoti) [husband](pati) + [deprived](hīnā) [becomes](bhavet) [if](yadi)
 
 ## mukta-m0-p117-v2916
-[on-death](mṛtau) [of-mother](jananyāḥ) [that](taṃ) [having-reached](prāpya) [by-father](pitrā) [should-go](gacchet) [to-stepmother](vimātaram)
+[on-death](mṛtau) [of-mother](jananyāḥ) [that](taṃ) [having-reached](prāpya) [by-father](pitrā) [to-stepmother](vimātaram) [should-go](gacchet)
 
 ## mukta-m0-p117-v2917
-[by-whom](yena) [indeed](eva) [lower](adhastanaṃ) [obtained](prāptaṃ) [by-that](tena) [indeed](eva) [upper](ūrdhvaṃ) [then](tadā) [should-go](vrajet)
+[by-whom](yena) [indeed](eva) + [lower](adhastanaṃ) [obtained](prāptaṃ) [by-that](tena) [indeed](eva) + [upper](ūrdhvaṃ) [then](tadā) [should-go](vrajet)
 
 ## mukta-m0-p117-v2918
-[this](etat) [and](ca) [husband+daughter+etc.+brother+up-to](bhartṛ+duhitṛ+ādi+bhrātrīya+paryanta) [absence](abhāve) [to-be-understood](boddhavyam)
+[this](etat) [and](ca) [husband](bhartṛ) + [daughter](duhitr) + [etc.](ādi) + [brother’s-son](bhrātrīya) + [up-to](paryanta) + [in-absence](abhāve) [to-be-understood](boddhavyam)
 
 ## mukta-m0-p117-v2919
-[their+sons](tat+putrāṇām) [and](ca) [non-existence](asattve) [to-be-understood](boddhavyam)
+[of-their-sons](tat) + [putrāṇām] + [and](ca) + [in-absence](asattve) [to-be-understood](boddhavyam)
 
 ## mukta-m0-p117-v2920
-[husband+deprived](pati+hīnā) [husband+without](svāmi+rahitā) [becomes](bhavet) [then](tadā) [her+mother](tat+jananī) [also](api) [obtains](āpnoti)
+[husband](pati) + [deprived](hīnā) [husband](svāmi) + [devoid](rahitā) [becomes](bhavet) [then](tadā) [her-mother](tat) + [jananī](jananī) [also](api) + [obtains](āpnoti)
 
 ## mukta-m0-p117-v2921
-[having-reached](prāpya) [by-father](pitrā) [stepmother](vimātaraṃ) [should-go](gacchet)
+[having-reached](prāpya) [by-father](pitrā) [to-stepmother](vimātaraṃ) [should-go](gacchet)
 
 ## mukta-m0-p117-v2922
-[husband](patyau) [being-alive](sthite) [childless-woman](anapatyāyāḥ) [on-death](mṛtau) [paternal-uncle](pitṛvyam) [should-resort-to](āśrayet)
+[husband](patyau) [being-alive](sthite) + [childless-woman](anapatyāyāḥ) [on-death](mṛtau) [paternal-uncle](pitṛvyam) [should-resort-to](āśrayet)
 
 ## mukta-m0-p117-v2923
-[therefore](ataḥ) [being-present](satyāṃ) [uterine-sister](sodarāyāṃ) [step-brother](vaimātreyaḥ) [wealth](dhanaṃ) [should-take](haret)
+[therefore](ataḥ) [being-present](satyāṃ) [uterine-sister](sodarāyāṃ) [step-brother’s-son](vaimātreyaḥ) [wealth](dhanaṃ) [should-take](haret)
 
 ## mukta-m0-p117-v2924
-[to-step-brother+gone](vaimātreya+gataṃ) [wealth](vittaṃ) [step-brother+lineage](vaimātreya+anvayaḥ) [should-divide](bhajet)
+[to-step-brother’s-son](vaimātreya) + [gone](gataṃ) [wealth](vittaṃ) [step-brother’s-son](vaimātreya) + [lineage](anvayaḥ) [should-divide](bhajet)
 
 ## mukta-m0-p117-v2925
-[that+childlessness+going](tat+apatya+gāmitā) [indeed](eva) [thus](iti) [indicated](asūsucat)
+[that](tat) + [to-offspring](apatya) + [going](gāmitā) [indeed](eva) [thus](iti) + [indicated](asūsucat)

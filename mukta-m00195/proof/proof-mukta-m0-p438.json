@@ -1,0 +1,125 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p438",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v10926 ratio=0.897",
+  "ALIGN_NODISP v10927 ratio=0.839",
+  "ALIGN_NODISP v10928 ratio=0.854",
+  "ALIGN_NODISP v10932 ratio=0.857",
+  "ALIGN_NODISP v10944 ratio=0.833",
+  "ALIGN_NODISP v10945 ratio=0.892",
+  "ALIGN_NODISP v10946 ratio=0.831",
+  "ALIGN_NODISP v10948 ratio=0.817",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "66019c6ead68e4df",
+ "source_digest_normalized_sha256": "66019c6ead68e4df8c5025dc042c65bd5b8d7ab0fe32543bd6728b2f324cd9df",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 98
+ },
+ "align": {
+  "min_ratio": 0.817,
+  "sub090": {
+   "10926": {
+    "ratio": 0.897,
+    "disposition": null
+   },
+   "10927": {
+    "ratio": 0.839,
+    "disposition": null
+   },
+   "10928": {
+    "ratio": 0.854,
+    "disposition": null
+   },
+   "10932": {
+    "ratio": 0.857,
+    "disposition": null
+   },
+   "10944": {
+    "ratio": 0.833,
+    "disposition": null
+   },
+   "10945": {
+    "ratio": 0.892,
+    "disposition": null
+   },
+   "10946": {
+    "ratio": 0.831,
+    "disposition": null
+   },
+   "10948": {
+    "ratio": 0.817,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "This pair placement is called the twenty-third in number."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 55,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 98,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v10926",
+  "fix: word-order/gloss vs source for v10927",
+  "fix: word-order/gloss vs source for v10928",
+  "fix: word-order/gloss vs source for v10932",
+  "fix: word-order/gloss vs source for v10944",
+  "fix: word-order/gloss vs source for v10945",
+  "fix: word-order/gloss vs source for v10946",
+  "fix: word-order/gloss vs source for v10948"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "d314030d2357d4fe2501aa0a5d47d47a831ba69e75dac1d2aa57929e7ce2d18e",
+  "l0": "9de52474eff3e4aef8a4f78598771ecbc7128cfcf3edc6e1aa1af39c6e827342",
+  "argmap": "fd1808e6b7ad85a85e74b5781d243cb1476b8daf2edb6adaf743fa212d5d16a8",
+  "l2": "7e0404dbc0e1bc0b6724e10f8b0da961b4c253e2cca96fd717b46b65ae7ac3cc",
+  "c1": "10d36bb51103d10fcbadd1c7885f63f2d332ef561e5717db178583c22b345335"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "66019c6ead68e4df",
+  "t1": "mukta-m0-p438/data/mukta-m0-p438.t1.json",
+  "l0": "mukta-m0-p438/data/mukta-m0-p438.l0.json",
+  "l2": "mukta-m0-p438/data/mukta-m0-p438.l2.json",
+  "c1": "mukta-m0-p438/data/mukta-m0-p438.c1.json"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p436",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v10882 ratio=0.899",
+  "ALIGN_NODISP v10886 ratio=0.879",
+  "ALIGN_NODISP v10893 ratio=0.796"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "b84b485a41a8df5a",
+ "source_digest_normalized_sha256": "b84b485a41a8df5a751c6bb90d8be6a3f3ce96617a1a3e016b48eca35a089f8e",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 129
+ },
+ "align": {
+  "min_ratio": 0.796,
+  "sub090": {
+   "10882": {
+    "ratio": 0.899,
+    "disposition": null
+   },
+   "10886": {
+    "ratio": 0.879,
+    "disposition": null
+   },
+   "10893": {
+    "ratio": 0.796,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 50,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 129,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v10882",
+  "fix: word-order/gloss vs source for v10886",
+  "fix: word-order/gloss vs source for v10893"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "643369c6284eef21ca8027cfac0d9127439f0cda230d9ff99a4a485cd8e3680f",
+  "l0": "1be59c6e426544ad86ad1d2cb1765fd627bdf117e14c3ef13a80da3cf2dc6f0b",
+  "argmap": "b2c0d0c9254f5b41d6190a8a06e860ab034c49ba1969526d47984afca4fc8bed",
+  "l2": "5994a772f21db25d4eb6488f915719b58cf5975b848f3e0501c3660db0d44d7f",
+  "c1": "eee11148f860b2e9e013fb652e2ce5e03af6a8891cb6b28b5564c1abf5a916a3"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "b84b485a41a8df5a",
+  "t1": "mukta-m0-p436/data/mukta-m0-p436.t1.json",
+  "l0": "mukta-m0-p436/data/mukta-m0-p436.l0.json",
+  "l2": "mukta-m0-p436/data/mukta-m0-p436.l2.json",
+  "c1": "mukta-m0-p436/data/mukta-m0-p436.c1.json"
+ }
+}

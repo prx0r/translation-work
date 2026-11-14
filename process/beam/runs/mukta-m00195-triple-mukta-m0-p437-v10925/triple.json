@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p437",
+ "items": [
+  {
+   "verse": 10925,
+   "rows": [
+    {
+     "surface": "mūla+aṃgulīnām",
+     "gloss": "of-finger-bases",
+     "grounds": "compound of mūla (root/base) and aṅguli (finger), indicating the bases of the fingers",
+     "morph": "compound gen.pl.f"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-tip",
+     "grounds": "locative form indicating the tip or front part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the same placement procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃguṣṭha+ādi+pañcasu",
+     "gloss": "on-thumb-beginning-five",
+     "grounds": "compound indicating the five fingers beginning with the thumb, in locative plural",
+     "morph": "compound loc.pl.n"
+    }
+   ],
+   "question": "On which specific parts of the five fingers beginning with the thumb is placement likewise performed?",
+   "premises": [
+    "The placement is performed at the bases of the fingers.",
+    "The placement is also performed at the tips.",
+    "This placement applies likewise to the five fingers beginning with the thumb."
+   ],
+   "inference": "Therefore, the placement is to be made at both the bases and the tips of the five fingers starting with the thumb.",
+   "uncertainties": [],
+   "plain_english": "Likewise, placement is to be made at the bases and at the tips of the five fingers, beginning with the thumb."
+  }
+ ]
+}
