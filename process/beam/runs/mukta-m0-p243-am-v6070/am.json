@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p243",
  "verse": 6070,
- "question": "What materials are permitted for making the leaves of the manuscript?",
+ "question": "What preparatory acts must precede the recitation of the mantra?",
  "premises": [
-  "The manuscript requires leaves",
-  "Palm leaves are one option",
-  "Gold and other materials are another option"
+  "The practitioner must first worship him.",
+  "The practitioner must then ask him.",
+  "After these acts, the practitioner should recite the mantra."
  ],
- "inference": "The leaves may be palm leaves or may be made from gold and other materials.",
- "uncertainties": [],
- "plain_english": "The leaf may be one born from a palm tree, or one made from gold and other materials."
+ "inference": "After worshipping and asking him, one should recite the mantra.",
+ "uncertainties": [
+  "The identity of 'him' depends on prior context."
+ ],
+ "plain_english": "Having worshipped him and having asked him, one should recite the mantra."
 }

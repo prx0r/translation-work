@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p246",
  "verse": 6135,
- "question": "Which deities are associated with palāśa and śrīvṛkṣa fuel in the fire offerings?",
+ "question": "Which ritual implements are held in the specified hands of the contemplated form?",
  "premises": [
-  "Palāśa is linked to a specific deity",
-  "Śrīvṛkṣa fuel offerings are linked to another deity",
-  "These associations guide ritual use"
+  "A noose is held in the right upper hand.",
+  "A rosary is held in the lower left hand."
  ],
- "inference": "Palāśa is associated with Brahma, and śrīvṛkṣa fuel offerings are associated with Viṣṇu.",
- "uncertainties": [
-  "The token fuses multiple elements, making the full syntactic parse compressed"
- ],
- "plain_english": "Palāśa is for Brahma, and śrīvṛkṣa fuel offerings are known for Viṣṇu."
+ "inference": "The contemplated form holds a noose in the right upper hand and a rosary in the lower left.",
+ "uncertainties": [],
+ "plain_english": "He holds a noose in the right upper hand and a rosary in the lower left."
 }

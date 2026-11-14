@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p249",
+ "items": [
+  {
+   "verse": 6225,
+   "rows": [
+    {
+     "surface": "ṣaṭkoṇeṣu",
+     "gloss": "in-six-corners",
+     "grounds": "locative plural of compound ṣaṭ-koṇa, indicating location of worship",
+     "morph": "loc.pl.nt"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act-opt √yaj"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of worship",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "oṃgaṃ",
+     "gloss": "oṃ-gaṃ",
+     "grounds": "bīja syllables kept byte-exact as mantra material",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvaḥ",
+     "gloss": "preceding",
+     "grounds": "qualifies the mantra as previously mentioned",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hṛdantakaḥ",
+     "gloss": "ending-with-hṛd",
+     "grounds": "compound hṛd-anta-ka describing the mantra's final element",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which specific mantra is prescribed for worship within the six corners?",
+   "premises": [
+    "Worship is prescribed within the six corners.",
+    "The mantra to be worshipped is oṃgaṃ.",
+    "This mantra is the preceding one ending with hṛd."
+   ],
+   "inference": "Therefore, the preceding mantra oṃgaṃ ending with hṛd is to be worshipped in the six corners.",
+   "uncertainties": [
+    "The exact segmentation of oṃgaṃ as constituent bīja syllables is taken as given mantra material."
+   ],
+   "plain_english": "One should worship the preceding mantra 'oṃgaṃ', ending with 'hṛd', in the six corners."
+  }
+ ]
+}
