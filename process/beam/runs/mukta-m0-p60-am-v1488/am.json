@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p60",
  "verse": 1488,
- "question": "What is auspicious when made of the five elements?",
+ "question": "Where, when, and of what size should the ritual pit be dug?",
  "premises": [
-  "It is made of five elements.",
-  "It is auspicious."
+  "A pit measuring a cubit is to be dug",
+  "The pit is dug in the middle of the ground",
+  "The digging occurs on an auspicious day"
  ],
- "inference": "The five-element-made thing is auspicious.",
- "uncertainties": [
-  "The exact thing is not named."
- ],
- "plain_english": "The five-element-made thing is auspicious."
+ "inference": "On an auspicious day, one should dig a cubit-measure pit in the middle of the ground.",
+ "uncertainties": [],
+ "plain_english": "Having dug a pit measuring a cubit in the middle of the ground on an auspicious day."
 }
