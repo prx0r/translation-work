@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p164",
+ "items": [
+  {
+   "verse": 4100,
+   "rows": [
+    {
+     "surface": "vṛddhyāṣṭa",
+     "gloss": "increase-eight",
+     "grounds": "compound of vṛddhi and aṣṭa indicating a limit of eight increments",
+     "morph": "compound"
+    },
+    {
+     "surface": "mātraparyantaṃ",
+     "gloss": "measure-up-to",
+     "grounds": "compound of mātra and paryanta expressing extent up to a limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vṛddhihāniṃ",
+     "gloss": "increase-decrease",
+     "grounds": "compound of vṛddhi and hāni denoting augmentation and diminution",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "one-should-apply",
+     "grounds": "optative prescribing application within the stated range",
+     "morph": "3.sg.opt.act pra-√yuj"
+    }
+   ],
+   "question": "What limit governs the application of increase and decrease in prescribed measures?",
+   "premises": [
+    "Prescribed measures admit adjustment by increase and decrease.",
+    "The permissible adjustment extends up to eight measures.",
+    "Such adjustment is to be applied in practice."
+   ],
+   "inference": "Therefore one should apply increase and decrease up to a limit of eight measures.",
+   "uncertainties": [
+    "Whether mātra refers to a specific unit of length, quantity, or a general measure is not explicit in this verse."
+   ],
+   "plain_english": "One should apply increase and decrease up to the limit of eight measures."
+  }
+ ]
+}

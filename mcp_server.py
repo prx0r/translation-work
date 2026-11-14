@@ -82,6 +82,30 @@ def make_readable(work: str = "", all: bool = False, publish: bool = False) -> d
     return _run(cmd, timeout=3600)
 
 
+@mcp.tool()
+def make_traces(work: str = "", served_untraced: bool = False, all: bool = False,
+                rebuild: bool = False) -> dict:
+    """Batch trika-x trace bundles per passage (the trace fan-out).
+    Deterministic, no beam. Builds then re-verifies one trika-trace/1 bundle
+    per passage: one work (work='W'), or every served work with zero traces
+    (served_untraced=true), or every ledgered work (all=true). Idempotent
+    (skips already-verified bundles unless rebuild=true); fail-closed per
+    bundle. Verified bundles feed make_readable --publish into the claim
+    layer."""
+    cmd = ["tools/make_traces.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    elif served_untraced:
+        cmd += ["--served-untraced"]
+    elif all:
+        cmd += ["--all"]
+    else:
+        return {"error": "pass work='W', served_untraced=true, or all=true"}
+    if rebuild:
+        cmd += ["--rebuild"]
+    return _run(cmd, timeout=3600)
+
+
 def _lore_path(work: str) -> Path | None:
     """Transmission brief for a work's front.
 
@@ -809,7 +833,7 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
          "recycle", "watchdog", "progress", "queue_guard",
-         "serve_status", "make_readable"]
+         "serve_status", "make_readable", "make_traces"]
 
 
 if __name__ == "__main__":
