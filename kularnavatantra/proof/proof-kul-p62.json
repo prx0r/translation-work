@@ -1,0 +1,94 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p62",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1528 ratio=0.857",
+  "ALIGN_NODISP v1530 ratio=0.750",
+  "ALIGN_NODISP v1542 ratio=0.880",
+  "ALIGN_NODISP v1549 ratio=0.886"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "ac88d11346d68606",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 184
+ },
+ "align": {
+  "min_ratio": 0.75,
+  "sub090": {
+   "1528": {
+    "ratio": 0.857,
+    "disposition": null
+   },
+   "1530": {
+    "ratio": 0.75,
+    "disposition": null
+   },
+   "1542": {
+    "ratio": 0.88,
+    "disposition": null
+   },
+   "1549": {
+    "ratio": 0.886,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 69,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 184,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v1528",
+  "fix: word-order/gloss vs source for v1530",
+  "fix: word-order/gloss vs source for v1542",
+  "fix: word-order/gloss vs source for v1549"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "6c62d47691f79ded2037218ef7a839f66efb00c86b0d5b792b6517311535788c",
+  "l0": "a0ee5e6c2086328bf1d8ef7b6bf915e42c45cfcc58b22cfc7d0051b1426532de",
+  "argmap": "dc8daf40d7cfc7a340880734707b5195d417bb45309378a2bdd9063b545c6356",
+  "l2": "ad8711d3aa139bed52bf8ee3aac630e5c17894353efc9d9670c9085c3fd2b0f0",
+  "c1": "c261bbccfc1b2ed2c57b1b127228a3e89c414bdf372e9494ecb318132597e3fc"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ac88d11346d68606",
+  "t1": "kul-p62/data/kul-p62.t1.json",
+  "l0": "kul-p62/data/kul-p62.l0.json",
+  "l2": "kul-p62/data/kul-p62.l2.json",
+  "c1": "kul-p62/data/kul-p62.c1.json"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "prāptā",
+     "gloss": "obtained",
+     "grounds": "past passive participle indicating attainment or acquisition",
+     "morph": "f.nom.sg.ppp (√prāp)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first-person agent in instrumental construction",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "viṣṇunā",
+     "gloss": "by-vishnu",
+     "grounds": "divine agent named as having attained it",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective adding further agents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaṇā",
+     "gloss": "by-brahma",
+     "grounds": "divine agent named as having attained it",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nārada+ādibhiḥ",
+     "gloss": "by-narada-and-others",
+     "grounds": "compound naming Nārada and additional figures as agents",
+     "morph": "m.inst.pl (nārada+ādi, bahuvrīhi/tatpuruṣa)"
+    }
+   ],
+   "question": "Which divine beings and sages are claimed to have attained this knowledge or state?",
+   "premises": [
+    "The speaker declares personal attainment.",
+    "Viṣṇu is included among those who attained it.",
+    "Brahmā and Nārada with others are also included as attainers."
+   ],
+   "inference": "The attainment is shared by the speaker together with Viṣṇu, Brahmā, Nārada, and other figures.",
+   "uncertainties": [
+    "The specific knowledge or state attained is supplied by the preceding context rather than stated in this verse."
+   ],
+   "plain_english": "It was attained by me, by Viṣṇu, by Brahmā, and by Nārada and others."
+  }
+ ]
+}

@@ -3,39 +3,34 @@
  "verse": 400,
  "rows": [
   {
-   "lemma": "yogajñānaṃ",
-   "morph": "compound: yoga+jñāna (n.nom/acc.sg)",
-   "grounds": "compound of yoga and jñāna; neuter singular nominative or accusative"
+   "lemma": "prāptā",
+   "morph": "f.nom.sg.ppp (√prāp)",
+   "grounds": "past passive participle indicating attainment or acquisition"
   },
   {
-   "lemma": "tapaḥ",
-   "morph": "n.nom/acc.sg",
-   "grounds": "neuter noun denoting ascetic discipline"
+   "lemma": "mayā",
+   "morph": "pron.inst.sg",
+   "grounds": "first-person agent in instrumental construction"
   },
   {
-   "lemma": "śāstraṃ",
-   "morph": "n.nom/acc.sg",
-   "grounds": "neuter noun denoting authoritative teaching or text"
-  },
-  {
-   "lemma": "vidyā",
-   "morph": "f.nom.sg",
-   "grounds": "feminine noun denoting learning or knowledge"
-  },
-  {
-   "lemma": "śilpāni",
-   "morph": "n.nom/acc.pl",
-   "grounds": "neuter plural noun denoting crafts or arts"
-  },
-  {
-   "lemma": "yāni",
-   "morph": "pron.rel.n.nom/acc.pl",
-   "grounds": "relative pronoun agreeing with śilpāni or referring to the listed items"
+   "lemma": "viṣṇunā",
+   "morph": "m.inst.sg",
+   "grounds": "divine agent named as having attained it"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction connecting items in the enumeration"
+   "grounds": "connective adding further agents"
+  },
+  {
+   "lemma": "brahmaṇā",
+   "morph": "m.inst.sg",
+   "grounds": "divine agent named as having attained it"
+  },
+  {
+   "lemma": "nārada+ādibhiḥ",
+   "morph": "m.inst.pl (nārada+ādi, bahuvrīhi/tatpuruṣa)",
+   "grounds": "compound naming Nārada and additional figures as agents"
   }
  ]
 }
