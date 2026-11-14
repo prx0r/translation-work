@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "tanutrayaṃ",
+     "gloss": "three-bodies",
+     "grounds": "compound of tanu (body) and traya (three), accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of sam-uccāra, uttering together",
+     "morph": "abs."
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "srīpādukāṃ",
+     "gloss": "sacred-sandals",
+     "grounds": "compound of śrī and pādukā, accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular active of root yaj",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What should be worshipped after uttering the three bodies?",
+   "premises": [
+    "three bodies are uttered first",
+    "worship of śrīpādukā follows",
+    "sequence is ritual instruction"
+   ],
+   "inference": "After reciting the three bodies, one worships Śrīpādukā.",
+   "uncertainties": [
+    "exact referent of tanutrayaṃ is not specified in this verse"
+   ],
+   "plain_english": "Having uttered the three bodies, then worship Śrīpādukā."
+  }
+ ]
+}

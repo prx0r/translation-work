@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "vacasā",
+     "gloss": "by-speech",
+     "grounds": "instrumental of speech",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrumental of mind",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "praṇāmo'ṣṭānga",
+     "gloss": "eight-limbed-bow",
+     "grounds": "compound of prostration and eight limbs",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle of declare",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the eight-limbed prostration declared to be performed?",
+   "premises": [
+    "The eight-limbed bow is declared.",
+    "It is declared by speech.",
+    "It is declared by mind."
+   ],
+   "inference": "The eight-limbed prostration is performed through speech and mind.",
+   "uncertainties": [
+    "The exact scope of caiva remains slightly open."
+   ],
+   "plain_english": "The eight-limbed bow is declared by speech and by mind."
+  }
+ ]
+}
