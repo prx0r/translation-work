@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "mādanasthe",
+     "gloss": "in-madana-place",
+     "grounds": "locative of mādana (Madana), fused form as given",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhage",
+     "gloss": "in-bhaga",
+     "grounds": "locative of bhaga",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bīje",
+     "gloss": "seed",
+     "grounds": "locative of bīja",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "trailokye",
+     "gloss": "in-three-worlds",
+     "grounds": "locative of trailokya",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nāstyato'dhikam",
+     "gloss": "not-exists-beyond",
+     "grounds": "fused form nāsti + ato + adhikam; @ marks sandhi fusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed-bija is supreme across the three worlds when situated in Madana and Bhaga?",
+   "premises": [
+    "Madana's place receives the seed.",
+    "Bhaga receives the seed.",
+    "Three worlds contain nothing beyond."
+   ],
+   "inference": "The seed in Madana and Bhaga is supreme across the three worlds.",
+   "uncertainties": [
+    "Exact syntactic relation of mādanasthe and bhage remains unresolved."
+   ],
+   "plain_english": "In Madana's place, in Bhaga, the seed; in the three worlds there is nothing beyond it."
+  }
+ ]
+}

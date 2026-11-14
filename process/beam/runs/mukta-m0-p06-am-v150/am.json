@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p06",
  "verse": 150,
- "question": "Which additional bodily sites require placement to be performed in all directions?",
+ "question": "What should be recited after the kamaraja mantra within the lakshmi speech-seed beginning with veda?",
  "premises": [
-  "The verse specifies a series of bodily locations for placement.",
-  "These locations include one's own genitals, anus, head, mouth, nose, and eyes.",
-  "The placement at these locations is directed to occur on all sides."
+  "previous verse prescribes kamaraja mantra recitation",
+  "this verse names lakshmi speech-seed beginning with veda",
+  "manmatha follows after that"
  ],
- "inference": "Placement is to be extended comprehensively across these specified bodily sites.",
- "uncertainties": [],
- "plain_english": "One should place them in one's own genitals, anus, head, mouth, nose, and eyes, on all sides."
+ "inference": "recite manmatha after kamaraja in that seed",
+ "uncertainties": [
+  "exact syntactic role of vedādyaṃ remains uncertain",
+  "whether manmatha is a mantra or deity name is not explicit"
+ ],
+ "plain_english": "After that, recite manmatha in the lakshmi speech-seed beginning with veda."
 }

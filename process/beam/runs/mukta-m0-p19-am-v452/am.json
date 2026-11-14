@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p19",
  "verse": 452,
- "question": "Can inference ever arise without a previously grasped connection between smoke and fire?",
+ "question": "Which deities and powers are said to be endowed with māyā and half-moon?",
  "premises": [
-  "Inference depends on a known invariable connection",
-  "The connection between smoke and fire must be grasped beforehand",
-  "Without prior grasping no inferential knowledge arises"
+  "brahmā is named",
+  "śakra is named",
+  "vahni is named",
+  "māyā and half-moon are present"
  ],
- "inference": "Inference cannot occur without a previously apprehended connection",
- "uncertainties": [],
- "plain_english": "Likewise, inference could never arise, since the connection between smoke and fire would never have been grasped."
+ "inference": "brahmā śakra and vahni are associated with māyā and half-moon",
+ "uncertainties": [
+  "exact grammatical relation among listed deities is unclear"
+ ],
+ "plain_english": "Brahmā, Indra, and fire are endowed with māyā and half-moon."
 }

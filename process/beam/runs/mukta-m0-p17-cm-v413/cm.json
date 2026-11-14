@@ -3,29 +3,34 @@
  "verse": 413,
  "rows": [
   {
-   "lemma": "kiṃ",
+   "lemma": "bhuvaneśyā",
+   "morph": "f.nom.sg",
+   "grounds": "bhuvaneśyāḥ nominative"
+  },
+  {
+   "lemma": "netramastraṃ",
+   "morph": "compound (netra+astraṃ)",
+   "grounds": "netra+astraṃ"
+  },
+  {
+   "lemma": "śaktir",
+   "morph": "f.nom.sg",
+   "grounds": "śaktiḥ nominative"
+  },
+  {
+   "lemma": "mādana",
+   "morph": "m.nom.sg",
+   "grounds": "mādanaḥ nominative"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "interrogative introducing alternatives"
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "śivatvena",
-   "morph": "n.inst.sg (compound: śiva+tva)",
-   "grounds": "śiva (Śiva) + tva (ness), the nature or reality of Śiva"
-  },
-  {
-   "lemma": "tadvyāptam",
-   "morph": "n.nom.sg (compound: tat+vyāpta)",
-   "grounds": "tat (that) + vyāpta (pervaded), encompassed by Śiva-ness"
-  },
-  {
-   "lemma": "avyāptaṃ",
-   "morph": "n.nom.sg (compound: a+vyāpta)",
-   "grounds": "a (not) + vyāpta (pervaded), not encompassed by Śiva-ness"
-  },
-  {
-   "lemma": "vābhidhīyatām",
-   "morph": "(indecl.) + 3.sg.imp.pass. abhi+√dhā",
-   "grounds": "vā (or) + abhidhīyatām (should be stated), demanding a clear position"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable"
   }
  ]
 }

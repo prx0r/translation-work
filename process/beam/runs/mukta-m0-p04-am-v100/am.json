@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 100,
- "question": "What shape and proportional measure must the back part of the altar assume?",
+ "question": "Which enumerated divisions are declared pure and bestowing siddhi?",
  "premises": [
-  "The back part of the altar is specified as the subject.",
-  "Its measure is defined as six parts.",
-  "The prescribed form for this part is that of a tortoise."
+  "These divisions are fully declared.",
+  "These divisions are pure.",
+  "These divisions bestow siddhi."
  ],
- "inference": "The back part of the altar, measuring six parts, should be tortoise-shaped.",
- "uncertainties": [],
- "plain_english": "The back part of the altar, measuring six parts, should be in the form of a tortoise."
+ "inference": "The enumerated divisions are pure and siddhi-bestowing.",
+ "uncertainties": [
+  "The exact referent of 'ete' depends on the preceding context."
+ ],
+ "plain_english": "These divisions are fully declared, pure, and bestowing siddhi."
 }

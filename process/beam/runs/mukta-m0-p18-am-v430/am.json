@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p18",
  "verse": 430,
- "question": "What permission is granted to the goddess regarding any doubt she may hold?",
+ "question": "Which deities are named in this mantra enumeration?",
  "premises": [
-  "The goddess may have various doubts.",
-  "Each doubt is acknowledged as a possible question.",
-  "The lord invites her to ask freely."
+  "Hara is named",
+  "Bhṛgu is named",
+  "sun-lord is named",
+  "vajra-holder is named",
+  "world-mistress is named"
  ],
- "inference": "Therefore the goddess is permitted to ask about every doubt she has, exactly as she wishes.",
- "uncertainties": [],
- "plain_english": "O Goddess, whatever doubt you have, ask about each one as you wish."
+ "inference": "the verse enumerates several deities in the mantra sequence",
+ "uncertainties": [
+  "exact mantra role unclear"
+ ],
+ "plain_english": "Hara, Bhṛgu, the sun-lord, the vajra-holder, and the world-mistress are named."
 }

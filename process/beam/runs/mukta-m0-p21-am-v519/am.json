@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p21",
  "verse": 519,
- "question": "What topic is introduced for explanation after the preliminary rite?",
+ "question": "What entire account was told by that brahmin?",
  "premises": [
-  "The preliminary rite discussion is complete",
-  "Application rites are the next topic",
-  "The speaker promises to explain them now"
+  "The entire account was told.",
+  "It was told by that brahmin."
  ],
- "inference": "The teaching now turns to explaining the application rites",
- "uncertainties": [],
- "plain_english": "Then listen; I will now tell you the application rites."
+ "inference": "The verse reports a complete narration.",
+ "uncertainties": [
+  "The account's contents are not repeated."
+ ],
+ "plain_english": "The entire account was told by that brahmin, but."
 }

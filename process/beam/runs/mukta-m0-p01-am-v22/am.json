@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 22,
- "question": "What hidden reality within that is revered by all hosts of gods?",
+ "question": "What is Vageshvari as knowledge power in vagbhava said to give?",
  "premises": [
-  "Within that there is a void.",
-  "That void is served by all hosts of gods.",
-  "That void is very secret."
+  "Vageshvari is knowledge power in vagbhava",
+  "she is described as liberation-giving",
+  "the verse names her directly"
  ],
- "inference": "The inner void is a supremely secret reality revered by all divine hosts.",
- "uncertainties": [],
- "plain_english": "Within that is that void, served by all the hosts of gods and very secret."
+ "inference": "Vageshvari, knowledge power in vagbhava, gives liberation.",
+ "uncertainties": [
+  "compound boundary inside the fused token is inferred"
+ ],
+ "plain_english": "Vageshvari, knowledge power in vagbhava, is liberation-giving."
 }

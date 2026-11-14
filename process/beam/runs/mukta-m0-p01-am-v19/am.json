@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 19,
- "question": "What ancient reality does the supreme yogin enter?",
+ "question": "What is said about the most secret vidya in relation to the scriptures?",
  "premises": [
-  "The lord of yogis enters something.",
-  "That reality is ancient.",
-  "That reality is known by Vedānta."
+  "the most secret vidya is not proclaimed in scriptures",
+  "this statement follows the preceding context",
+  "the verse names vidya and scriptures"
  ],
- "inference": "The supreme yogin enters the ancient reality known through Vedānta.",
- "uncertainties": [],
- "plain_english": "And the lord of yogis enters the ancient reality known through Vedānta."
+ "inference": "The most secret vidya is withheld from scriptural proclamation.",
+ "uncertainties": [
+  "legacy hints are approximate glosses"
+ ],
+ "plain_english": "Then the most secret vidya is not proclaimed in the scriptures."
 }

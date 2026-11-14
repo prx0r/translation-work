@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p01",
  "verse": 20,
- "question": "What lasting attainment comes to the practitioner in that state?",
+ "question": "What instruction is given before the Shakta teaching is spoken?",
  "premises": [
-  "At that time an accomplishment arises.",
-  "The accomplishment concerns speech.",
-  "It rests in his palm-lotus always."
+  "the speaker addresses the listener",
+  "the listener is told to listen",
+  "the speaker then says I tell",
+  "the topic is Shakta"
  ],
- "inference": "The practitioner gains the enduring accomplishment of speech as if held in the palm.",
- "uncertainties": [],
- "plain_english": "Then may the accomplishment of speech always be in the lotus of his palm."
+ "inference": "The verse commands listening before presenting the Shakta teaching.",
+ "uncertainties": [
+  "exact syntactic role of śāktaṃ is not fully certain"
+ ],
+ "plain_english": "Listen; I now tell the Shakta teaching."
 }

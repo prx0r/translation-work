@@ -3,29 +3,34 @@
  "verse": 420,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "bhairavaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "bhairavaṃ accusative"
+  },
+  {
+   "lemma": "bindumālī",
+   "morph": "compound (bindu+mālī)",
+   "grounds": "bindu+mālī"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "abhāvaprāptarūpasya",
-   "morph": "n.gen.sg (compound: abhāva+prāpta+rūpa)",
-   "grounds": "abhāva (non-existence) + prāpta (attained) + rūpa (form), something that has become non-existent"
+   "lemma": "brahmā",
+   "morph": "m.nom.sg",
+   "grounds": "brahmā nominative"
   },
   {
-   "lemma": "karaṇaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "production or bringing into being"
+   "lemma": "śakraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "śakraḥ nominative"
   },
   {
-   "lemma": "yujyate",
-   "morph": "3.sg.pres.pass. √yuj",
-   "grounds": "is appropriate or possible"
-  },
-  {
-   "lemma": "punaḥ",
-   "morph": "(indecl.)",
-   "grounds": "once more, after non-existence"
+   "lemma": "sureśvarī",
+   "morph": "compound (sura+īśvarī)",
+   "grounds": "sura+īśvarī"
   }
  ]
 }
