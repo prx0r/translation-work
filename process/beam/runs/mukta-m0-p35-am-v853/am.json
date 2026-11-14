@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p35",
  "verse": 853,
- "question": "What title and ordinal position conclude the present chapter?",
+ "question": "What quantities of penance tirthas and sacrifices are named?",
  "premises": [
-  "The concluding marker iti signals closure.",
-  "The chapter is designated by the name completion.",
-  "The chapter is identified as the seventh."
+  "Penance is named.",
+  "Ten million tirthas is named.",
+  "Ten millions of sacrifices is named."
  ],
- "inference": "Therefore, the seventh chapter, named completion, is hereby concluded.",
- "uncertainties": [],
- "plain_english": "Thus ends the seventh chapter, named 'Completion'."
+ "inference": "Penance, tirthas, and sacrifices are counted in millions.",
+ "uncertainties": [
+  "Exact syntactic relation is not fully resolved."
+ ],
+ "plain_english": "Penance, ten million tirthas, and ten millions of sacrifices are named."
 }

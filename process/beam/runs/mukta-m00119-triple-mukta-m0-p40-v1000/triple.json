@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "svamācchādya",
+     "gloss": "own-covering",
+     "grounds": "fused form svam + ācchādya; gerund of covering oneself",
+     "morph": "verb.gerund"
+    },
+    {
+     "surface": "mṛdā",
+     "gloss": "with-clay",
+     "grounds": "instrumental singular of mṛd",
+     "morph": "noun.instr.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "should-establish",
+     "grounds": "optative causative of sthā",
+     "morph": "verb.3.sg.opt"
+    },
+    {
+     "surface": "ghaṭam",
+     "gloss": "pot",
+     "grounds": "accusative singular object of saṃsthāpayet",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "Should the practitioner cover himself with clay and establish a pot there?",
+   "premises": [
+    "covering oneself with clay precedes pot establishment",
+    "the goddess is addressed as witness",
+    "the pot is established at that place"
+   ],
+   "inference": "The verse prescribes clay covering followed by pot installation at that place.",
+   "uncertainties": [
+    "svamācchādya may imply covering the body or the self; exact referent is unclear"
+   ],
+   "plain_english": "Goddess, having covered oneself with clay, one should establish a pot there."
+  }
+ ]
+}

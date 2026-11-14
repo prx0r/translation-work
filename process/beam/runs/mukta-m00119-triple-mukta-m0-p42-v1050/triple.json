@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "vāñchāmaṇiḥ",
+     "gloss": "wish-jewel",
+     "grounds": "wish-jewel in nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sparśamaṇiḥ",
+     "gloss": "touch-jewel",
+     "grounds": "touch-jewel in nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "source placeholder token",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "source placeholder token",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "source placeholder token",
+     "morph": "unknown"
+    },
+    {
+     "surface": "parikīrtitau",
+     "gloss": "are-proclaimed",
+     "grounds": "dual passive participle form",
+     "morph": "3.du.pass"
+    }
+   ],
+   "question": "Which two jewels are proclaimed in this bodily mapping?",
+   "premises": [
+    "Context maps deities to body parts.",
+    "Verse names wish-jewel and touch-jewel.",
+    "Final verb is dual proclaimed."
+   ],
+   "inference": "Two jewels are proclaimed, though their exact bodily seats are lost in placeholders.",
+   "uncertainties": [
+    "Three tokens are placeholders; exact seats unknown."
+   ],
+   "plain_english": "The wish-jewel and touch-jewel are proclaimed, with three missing terms."
+  }
+ ]
+}

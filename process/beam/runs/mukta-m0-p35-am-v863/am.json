@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p35",
  "verse": 863,
- "question": "How quickly can a remedy act for one bitten by Takṣaka?",
+ "question": "What does not arise after performing work?",
  "premises": [
-  "A person is bitten by Takṣaka.",
-  "A remedy exists for that person.",
-  "The remedy acts at that very moment."
+  "Work is named.",
+  "Having performed is stated.",
+  "Fall does not arise."
  ],
- "inference": "Even a bite by Takṣaka can be remedied instantly.",
- "uncertainties": [],
- "plain_english": "Indeed, for one bitten even by Takṣaka, there is a remedy at that very moment."
+ "inference": "After performing work, fall does not arise.",
+ "uncertainties": [
+  "Referent of tasya is not specified."
+ ],
+ "plain_english": "Thus after performing work, its fall does not arise."
 }

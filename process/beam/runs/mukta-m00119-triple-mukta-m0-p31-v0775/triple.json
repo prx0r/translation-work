@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "ajñānādapi",
+     "gloss": "even-from-ignorance",
+     "grounds": "fused ablative singular of ajñāna with indeclinable api",
+     "morph": "m.abl.sg+(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "phalamevaṃ",
+     "gloss": "fruit-thus",
+     "grounds": "fused accusative singular phalam with indeclinable evam",
+     "morph": "n.acc.sg+(indecl.)"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "grants",
+     "grounds": "present active third singular of pra-yam",
+     "morph": "3.sg.act.pres (root yam)"
+    }
+   ],
+   "question": "Does the practice grant the same fruit even when undertaken from ignorance?",
+   "premises": [
+    "Ignorance does not prevent fruit.",
+    "The goddess is directly addressed.",
+    "The practice grants fruit."
+   ],
+   "inference": "Even an ignorant performance yields the stated fruit.",
+   "uncertainties": [
+    "The exact fruit is not specified by the verse."
+   ],
+   "plain_english": "Even from ignorance, O goddess, it grants such fruit."
+  }
+ ]
+}

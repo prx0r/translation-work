@@ -1,0 +1,869 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "upāvāsāstrirātraṃ",
+     "gloss": "fasting-three-nights",
+     "grounds": "compound fasting plus three nights",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaivānāṃ",
+     "gloss": "of-shaivas",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pass-ppp"
+    }
+   ],
+   "question": "What fasting duration is proclaimed for Shaiva practitioners?",
+   "premises": [
+    "Shaiva fasting lasts three nights",
+    "The duration is proclaimed",
+    "It is a prescribed observance"
+   ],
+   "inference": "Shaiva practitioners observe a three-night fast.",
+   "uncertainties": [
+    "Exact ritual context not stated"
+   ],
+   "plain_english": "For Shaivas, a three-night fast is proclaimed."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "śāktānāṃ",
+     "gloss": "of-shaktas",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pūrvarātraṃ",
+     "gloss": "first-night",
+     "grounds": "compound first night",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraścaryāyuto",
+     "gloss": "with-preliminary-rite",
+     "grounds": "compound with preliminary rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root bhū"
+    }
+   ],
+   "question": "What preliminary-rite fasting duration applies to Shakta practitioners?",
+   "premises": [
+    "Shakta fasting is one night",
+    "It includes preliminary rite",
+    "The form becomes prescribed"
+   ],
+   "inference": "Shakta practitioners observe a first-night fast with preliminary rite.",
+   "uncertainties": [
+    "Scope of preliminary rite unspecified"
+   ],
+   "plain_english": "For Shaktas, a first-night fast with preliminary rite applies."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "cāndre",
+     "gloss": "in-lunar",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svāyambhuve",
+     "gloss": "self-born",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dvirātraṃ",
+     "gloss": "two-nights",
+     "grounds": "compound two nights",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.pass-ppp"
+    }
+   ],
+   "question": "What fasting duration is proclaimed in lunar and self-born contexts?",
+   "premises": [
+    "Lunar context is named",
+    "Self-born context is named",
+    "Two-night fast is proclaimed"
+   ],
+   "inference": "A two-night fast is proclaimed for those contexts.",
+   "uncertainties": [
+    "Exact deity context unspecified"
+   ],
+   "plain_english": "In lunar and self-born contexts, a two-night fast is proclaimed."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "in-brief",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.pass-ppp"
+    },
+    {
+     "surface": "sampradāyaphalaṃ",
+     "gloss": "fruit-of-tradition",
+     "grounds": "compound fruit of tradition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp + root śru"
+    }
+   ],
+   "question": "What should the goddess hear about the fruit of tradition?",
+   "premises": [
+    "The teaching is brief",
+    "The fruit of tradition is spoken",
+    "The goddess is addressed"
+   ],
+   "inference": "The goddess is told to hear the briefly spoken fruit of tradition.",
+   "uncertainties": [
+    "Exact fruit not detailed here"
+   ],
+   "plain_english": "Thus, in brief, the fruit of tradition is spoken; hear it."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "sampradāyatrayaṃ",
+     "gloss": "three-traditions",
+     "grounds": "compound three traditions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.pass-ppp"
+    },
+    {
+     "surface": "sarvasiddhipravartakam",
+     "gloss": "all-accomplishments-causing",
+     "grounds": "compound causing all accomplishments",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What effect is attributed to the three spoken traditions?",
+   "premises": [
+    "Three traditions are spoken",
+    "They cause all accomplishments",
+    "The claim is doctrinal"
+   ],
+   "inference": "The three traditions cause all accomplishments.",
+   "uncertainties": [
+    "Traditions not enumerated here"
+   ],
+   "plain_english": "The three traditions are spoken as causing all accomplishments."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "kāmādidoṣarahitaḥ",
+     "gloss": "free-from-desire-etc-faults",
+     "grounds": "compound free from desire faults",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kādihādimateśvaraḥ",
+     "gloss": "lord-of-kadi-hadi-mata",
+     "grounds": "compound lord of Kadi Hadi mata",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities define the lord of Kadi and Hadi mata?",
+   "premises": [
+    "He is free from desire faults",
+    "He is lord of Kadi Hadi mata",
+    "The description is laudatory"
+   ],
+   "inference": "The lord of Kadi and Hadi mata is free from desire and related faults.",
+   "uncertainties": [
+    "Exact fault list unspecified"
+   ],
+   "plain_english": "Free from desire and related faults, he is lord of Kadi and Hadi mata."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "sarvaiśvaryaṃ",
+     "gloss": "all-sovereignty",
+     "grounds": "compound all sovereignty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "evi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ratnamivāparaḥ",
+     "gloss": "like-jewel-unsurpassed",
+     "grounds": "compound like unsurpassed jewel",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sovereignty is said to arise in the world?",
+   "premises": [
+    "All sovereignty becomes present",
+    "The goddess is addressed",
+    "It is like an unsurpassed jewel"
+   ],
+   "inference": "All sovereignty arises in the world like an unsurpassed jewel.",
+   "uncertainties": [
+    "Agent not explicit"
+   ],
+   "plain_english": "All sovereignty becomes his in the world, like an unsurpassed jewel."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "vidyāraśmimahāmantramantramaṇḍalasaṃyutaḥ",
+     "gloss": "with-great-mantra-of-vidya-rays-and-mantra-mandala",
+     "grounds": "long compound with vidya rays great mantra mandala",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra-mandala equipment is attributed to the practitioner?",
+   "premises": [
+    "He is united with vidya rays",
+    "He is united with great mantra",
+    "He is united with mantra mandala"
+   ],
+   "inference": "The practitioner is equipped with vidya-ray great mantra and mantra mandala.",
+   "uncertainties": [
+    "Exact ritual use unspecified"
+   ],
+   "plain_english": "He is united with the great mantra of vidya rays and the mantra mandala."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "aṣṭāṣṭakasamāuktaḥ",
+     "gloss": "with-eight-eights-declared",
+     "grounds": "compound with eight eights declared",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcapārāyaṇānvitaḥ",
+     "gloss": "with-five-recitations",
+     "grounds": "compound with five recitations",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What recitation and eightfold equipment is attributed to the practitioner?",
+   "premises": [
+    "He is declared with eight eights",
+    "He is endowed with five recitations",
+    "The description is cumulative"
+   ],
+   "inference": "The practitioner has eight-eights equipment and five recitations.",
+   "uncertainties": [
+    "Meaning of eight eights unclear"
+   ],
+   "plain_english": "He is declared with eight eights and endowed with five recitations."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "catuḥsandhyāsamāyuktaḥ",
+     "gloss": "with-four-sandhyas",
+     "grounds": "compound with four sandhyas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcapārāyaṇānvitaḥ",
+     "gloss": "with-five-recitations",
+     "grounds": "compound with five recitations",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sandhya and recitation practice is attributed to the practitioner?",
+   "premises": [
+    "He is united with four sandhyas",
+    "He is endowed with five recitations",
+    "The practice is prescribed"
+   ],
+   "inference": "The practitioner performs four sandhyas and five recitations.",
+   "uncertainties": [
+    "Exact timing unspecified"
+   ],
+   "plain_english": "He is united with four sandhyas and endowed with five recitations."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "mahāvidyāsamāyuktaḥ",
+     "gloss": "with-great-vidya",
+     "grounds": "compound with great vidya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādukādaśakānvitaḥ",
+     "gloss": "with-ten-footstools",
+     "grounds": "compound with ten footstools",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What great vidya and footstool equipment is attributed to the practitioner?",
+   "premises": [
+    "He is united with great vidya",
+    "He is endowed with ten footstools",
+    "The description is cumulative"
+   ],
+   "inference": "The practitioner has great vidya and ten footstools.",
+   "uncertainties": [
+    "Footstool ritual role unspecified"
+   ],
+   "plain_english": "He is united with great vidya and endowed with ten footstools."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prāṇamano",
+     "gloss": "life-mind",
+     "grounds": "compound life mind",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "murtisphoṭādicālanam",
+     "gloss": "bursting-etc-movement",
+     "grounds": "compound bursting etc movement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whose life-mind bursting and movement is described?",
+   "premises": [
+    "The relative refers to a practitioner",
+    "Life and mind are named",
+    "Bursting and movement are named"
+   ],
+   "inference": "The practitioner's life-mind undergoes bursting and movement.",
+   "uncertainties": [
+    "Exact yogic process unspecified"
+   ],
+   "plain_english": "Whose life and mind undergo bursting and movement, O goddess."
+  },
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "ṣaṣṭisiddhīśvaro",
+     "gloss": "lord-of-sixty-accomplishments",
+     "grounds": "compound lord of sixty accomplishments",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who",
+     "grounds": "relative pronoun plus particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "keralaḥ",
+     "gloss": "kerala",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pass-ppp"
+    }
+   ],
+   "question": "Who is proclaimed as lord of sixty accomplishments in Kerala?",
+   "premises": [
+    "A lord of sixty accomplishments is named",
+    "He is identified as Kerala",
+    "He is proclaimed"
+   ],
+   "inference": "The Kerala practitioner is proclaimed lord of sixty accomplishments.",
+   "uncertainties": [
+    "Identity beyond name unspecified"
+   ],
+   "plain_english": "He who is Kerala is proclaimed lord of sixty accomplishments."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "kārpaṇyādivirahitaḥ",
+     "gloss": "free-from-meanness-etc",
+     "grounds": "compound free from meanness etc",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmādiguṇasaṃyutaḥ",
+     "gloss": "endowed-with-vama-etc-qualities",
+     "grounds": "compound endowed with Vama etc qualities",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What moral and Vama qualities are attributed to the practitioner?",
+   "premises": [
+    "He is free from meanness etc",
+    "He is endowed with Vama etc qualities",
+    "The description is laudatory"
+   ],
+   "inference": "The practitioner is free from meanness and endowed with Vama qualities.",
+   "uncertainties": [
+    "Exact quality list unspecified"
+   ],
+   "plain_english": "Free from meanness and endowed with Vama and related qualities."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "caturviṃśatisiddhānāmādhipo",
+     "gloss": "lord-of-twenty-four-accomplished-ones",
+     "grounds": "compound lord of twenty-four accomplished ones",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narapuṅgavaḥ",
+     "gloss": "best-of-men",
+     "grounds": "compound best of men",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is called lord of twenty-four accomplished ones and best of men?",
+   "premises": [
+    "He is lord of twenty-four accomplished ones",
+    "He is best of men",
+    "The title is honorific"
+   ],
+   "inference": "The practitioner is lord of twenty-four accomplished ones and best of men.",
+   "uncertainties": [
+    "Identity unspecified"
+   ],
+   "plain_english": "He is lord of twenty-four accomplished ones and best of men."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "ubhayordhvāmnāyayukto",
+     "gloss": "with-both-upper-and-lower-traditions",
+     "grounds": "compound with both upper and lower traditions",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahākāśmīra",
+     "gloss": "great-kashmir",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "said",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pass-ppp"
+    }
+   ],
+   "question": "What tradition affiliation is said for great Kashmir?",
+   "premises": [
+    "He is united with both upper and lower traditions",
+    "He is called great Kashmir",
+    "He is said"
+   ],
+   "inference": "Great Kashmir is said to be united with both upper and lower traditions.",
+   "uncertainties": [
+    "Exact traditions unspecified"
+   ],
+   "plain_english": "United with both upper and lower traditions, great Kashmir is said."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "gīrvāṇagaṇasaṃvādī",
+     "gloss": "conversant-with-divine-hosts",
+     "grounds": "compound conversant with divine hosts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gāruḍādipraṇāśakaḥ",
+     "gloss": "destroyer-of-garuda-etc",
+     "grounds": "compound destroyer of Garuda etc",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What divine conversation and destructive power are attributed to the practitioner?",
+   "premises": [
+    "He is conversant with divine hosts",
+    "He destroys Garuda etc",
+    "The description is laudatory"
+   ],
+   "inference": "The practitioner converses with divine hosts and destroys Garuda and related powers.",
+   "uncertainties": [
+    "Exact scope of destruction unspecified"
+   ],
+   "plain_english": "Conversant with divine hosts and destroyer of Garuda and related powers."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "bhuvanānandakṛdvīraḥ",
+     "gloss": "world-bliss-making-hero",
+     "grounds": "compound world bliss making hero",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "strībhakto",
+     "gloss": "devotee-of-women",
+     "grounds": "compound devotee of women",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijitendriyaḥ",
+     "gloss": "conqueror-of-senses",
+     "grounds": "compound conqueror of senses",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What heroic, devotional, and sensory qualities are attributed to the practitioner?",
+   "premises": [
+    "He makes world bliss",
+    "He is devotee of women",
+    "He conquers senses"
+   ],
+   "inference": "The practitioner is a world-bliss hero, devotee of women, and conqueror of senses.",
+   "uncertainties": [
+    "Doctrinal nuance of devotee of women unspecified"
+   ],
+   "plain_english": "A hero making world bliss, devotee of women, and conqueror of senses."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "uktādhikārasaṃpannaḥ",
+     "gloss": "possessed-of-stated-qualification",
+     "grounds": "compound possessed of stated qualification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvamatrāpi",
+     "gloss": "before-here-also",
+     "grounds": "adverb before here also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "parvati",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What qualification is said to be possessed before and here also?",
+   "premises": [
+    "He possesses stated qualification",
+    "It was before and here also",
+    "Parvati is addressed"
+   ],
+   "inference": "The stated qualification is possessed both before and here, O Parvati.",
+   "uncertainties": [
+    "Qualification not specified"
+   ],
+   "plain_english": "Possessed of the stated qualification, before and here also, O Parvati."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "mahābalo",
+     "gloss": "great-strength",
+     "grounds": "compound great strength",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahotsāho",
+     "gloss": "great-zeal",
+     "grounds": "compound great zeal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gauḍa",
+     "gloss": "gauda",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root abhidhā"
+    }
+   ],
+   "question": "What strength and zeal characterize the one called Gauda?",
+   "premises": [
+    "He has great strength",
+    "He has great zeal",
+    "He is called Gauda"
+   ],
+   "inference": "The one called Gauda has great strength and great zeal.",
+   "uncertainties": [
+    "Identity beyond name unspecified"
+   ],
+   "plain_english": "Great strength and great zeal characterize the one called Gauda."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gauḍastu",
+     "gloss": "gauda",
+     "grounds": "proper noun plus particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃproktaḥ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pass-ppp"
+    },
+    {
+     "surface": "sarvasiddhipradāyakaḥ",
+     "gloss": "giver-of-all-accomplishments",
+     "grounds": "compound giver of all accomplishments",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What accomplishment-giving role is assigned to Gauda?",
+   "premises": [
+    "Gauda is spoken of",
+    "He gives all accomplishments",
+    "The claim is doctrinal"
+   ],
+   "inference": "Gauda is spoken of as giver of all accomplishments.",
+   "uncertainties": [
+    "Ritual context unspecified"
+   ],
+   "plain_english": "Thus Gauda is spoken of as giver of all accomplishments."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "sampradāyatraye",
+     "gloss": "in-three-traditions",
+     "grounds": "locative compound in three traditions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "alternative",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrvamīritam",
+     "gloss": "before-spoken",
+     "grounds": "compound before spoken",
+     "morph": "n.nom.sg.pass-ppp"
+    }
+   ],
+   "question": "What alternative was spoken before in the three traditions?",
+   "premises": [
+    "Three traditions are named",
+    "An alternative is named",
+    "It was spoken before"
+   ],
+   "inference": "An alternative was spoken before within the three traditions.",
+   "uncertainties": [
+    "Alternative content unspecified"
+   ],
+   "plain_english": "In the three traditions, O goddess, an alternative was spoken before."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "tyāgī",
+     "gloss": "renouncer",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "enjoyer",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinītaśca",
+     "gloss": "humble",
+     "grounds": "nominative adjective plus particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tithinityāprapūjakaḥ",
+     "gloss": "daily-tithi-worshipper",
+     "grounds": "compound daily tithi worshipper",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What renouncer, enjoyer, humble, and worshipper traits are listed?",
+   "premises": [
+    "Renouncer is named",
+    "Enjoyer is named",
+    "Humble and daily tithi worshipper are named"
+   ],
+   "inference": "The practitioner is renouncer, enjoyer, humble, and daily tithi worshipper.",
+   "uncertainties": [
+    "Relation among traits unspecified"
+   ],
+   "plain_english": "Renouncer, enjoyer, humble, and daily tithi worshipper."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "parastrī",
+     "gloss": "another's-wife",
+     "grounds": "compound another's wife",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paravitte",
+     "gloss": "another's-wealth",
+     "grounds": "locative compound another's wealth",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhaścaiva",
+     "gloss": "sixth",
+     "grounds": "compound sixth plus particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratigrahaḥ",
+     "gloss": "acceptance",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What prohibited acceptance of another's wife and wealth is listed?",
+   "premises": [
+    "Another's wife is named",
+    "Another's wealth is named",
+    "Acceptance is the sixth item"
+   ],
+   "inference": "Acceptance of another's wife and wealth is listed as the sixth prohibited item.",
+   "uncertainties": [
+    "Full list not given"
+   ],
+   "plain_english": "Another's wife, another's wealth, and acceptance as the sixth."
+  }
+ ]
+}

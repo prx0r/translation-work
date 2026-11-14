@@ -1,14 +1,12 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1119,
- "question": "What should the mantrin make the vidya into?",
+ "question": "Which eclipses are included in this rule?",
  "premises": [
-  "mantrin acts with air seed",
-  "vidya is made into Vidarbha"
+  "star-ball eclipse is named",
+  "solar eclipse is also named"
  ],
- "inference": "the mantrin should make the vidya into Vidarbha using the air seed",
- "uncertainties": [
-  "Vidarbha sense unspecified"
- ],
- "plain_english": "The mantrin should make the vidya into Vidarbha with the air seed."
+ "inference": "the rule covers star-ball and solar eclipses",
+ "uncertainties": [],
+ "plain_english": "When star-ball eclipse arrives, and also solar eclipse."
 }

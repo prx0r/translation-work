@@ -3,39 +3,29 @@
  "verse": 1125,
  "rows": [
   {
-   "lemma": "dvayor",
-   "morph": "gen.du.m/n",
-   "grounds": "genitive dual of dva"
+   "lemma": "sūryagrahe",
+   "morph": "m.loc.sg",
+   "grounds": "locative singular of sūryagraha; sets the temporal condition"
   },
   {
-   "lemma": "bhedo",
-   "morph": "nom.sg.m",
-   "grounds": "nominative singular masculine of bheda"
+   "lemma": "śaktidīkṣāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "accusative object; compound śakti + dīkṣā"
+  },
+  {
+   "lemma": "paśudīkṣāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "accusative object; compound paśu + dīkṣā"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negative particle"
+   "grounds": "negative particle modifying kārayet"
   },
   {
-   "lemma": "kartavyo",
-   "morph": "nom.sg.m",
-   "grounds": "gerundive of kṛ"
-  },
-  {
-   "lemma": "yadīcchet",
-   "morph": "3.sg.act.opt. (iṣ)",
-   "grounds": "internal sandhi yadi + icchet; optative of iṣ"
-  },
-  {
-   "lemma": "paramaṃ",
-   "morph": "acc.sg.n",
-   "grounds": "accusative singular neuter of parama"
-  },
-  {
-   "lemma": "padam",
-   "morph": "acc.sg.n",
-   "grounds": "accusative singular neuter of pada"
+   "lemma": "kārayet",
+   "morph": "3.sg.opt.-root kṛ (causative)",
+   "grounds": "causative optative third singular of kṛ; prohibits causing the initiations"
   }
  ]
 }

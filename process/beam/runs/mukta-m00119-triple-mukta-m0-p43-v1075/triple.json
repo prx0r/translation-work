@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "sāhasrasandarśāt",
+     "gloss": "thousand-sight",
+     "grounds": "ablative singular masculine of sahasrasandarśa; indicates the means or cause of liberation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "liberated",
+     "grounds": "nominative singular masculine participle of muc; describes the human who becomes free",
+     "morph": "m.nom.sg (ppp of muc)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "third person singular active present of bhū",
+     "morph": "3.sg.act-pres (bhū)"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "human",
+     "grounds": "nominative singular masculine noun; subject of bhavati",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What liberates a human being according to this teaching?",
+   "premises": [
+    "thousand-sight liberates the human",
+    "liberation follows thousand-sight",
+    "the human becomes liberated"
+   ],
+   "inference": "A human being becomes liberated through thousand-sight.",
+   "uncertainties": [
+    "the exact referent of sāhasrasandarśa remains context-dependent",
+    "whether thousand-sight is visionary or ritual is not specified here"
+   ],
+   "plain_english": "Through thousand-sight, a human becomes liberated."
+  }
+ ]
+}

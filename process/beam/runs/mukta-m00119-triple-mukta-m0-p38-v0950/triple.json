@@ -1,0 +1,87 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "legacy hint: having-placed",
+     "morph": "verb"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "legacy hint: seven",
+     "morph": "indecl."
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "surface not provided in input",
+     "morph": "unknown"
+    },
+    {
+     "surface": "yogataḥ",
+     "gloss": "by-yoga",
+     "grounds": "legacy hint: by-yoga",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should the seven items be placed by yoga after the corpse-bed rite?",
+   "premises": [
+    "Seven items are placed.",
+    "Placement occurs by yoga.",
+    "Rite follows corpse-bed procedure."
+   ],
+   "inference": "The verse prescribes placing seven items through yoga.",
+   "uncertainties": [
+    "Several token surfaces are unavailable."
+   ],
+   "plain_english": "After placing seven items by yoga, the rite is completed."
+  }
+ ]
+}

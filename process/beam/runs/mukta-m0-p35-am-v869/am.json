@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p35",
  "verse": 869,
- "question": "Which revered figures and entities are enumerated together for honor?",
+ "question": "How many watches are named for sun and moon eclipses?",
  "premises": [
-  "A brahmin is listed.",
-  "A maiden, śakti, fire, scripture, and cow are listed.",
-  "These are presented together in one enumeration."
+  "Sun eclipse is named.",
+  "Four watches is named.",
+  "Moon three watches is named."
  ],
- "inference": "The verse groups several sacred persons and entities as worthy of reverence.",
+ "inference": "Sun eclipse has four watches and moon eclipse has three.",
  "uncertainties": [
-  "The governing verb is elided; worship or honor is implied by context."
+  "Exact relation of bhavet is not resolved."
  ],
- "plain_english": "The brahmin, the maiden, the śakti, fire, scripture, and the cow."
+ "plain_english": "In sun eclipse four watches, in moon three watches."
 }

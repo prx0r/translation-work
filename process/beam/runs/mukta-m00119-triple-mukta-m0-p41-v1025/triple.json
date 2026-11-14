@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "pāraṇādivase",
+     "gloss": "fast-breaking-day",
+     "grounds": "compound of pāraṇa (fast-breaking) and divasa (day), locative singular",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "having-arrived",
+     "grounds": "past participle of prāp (arrive), locative absolute sense",
+     "morph": "part.loc.sg.m"
+    },
+    {
+     "surface": "gomukhaṃ",
+     "gloss": "cow-face",
+     "grounds": "compound of go (cow) and mukha (face), accusative singular",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "kārayetpriye",
+     "gloss": "should-make-dear-one",
+     "grounds": "fused kārayet (causative optative, make) with priye (vocative dear one); sandhi fusion not marked with @",
+     "morph": "verb.3.sg.act.opt + voc.sg.f"
+    }
+   ],
+   "question": "What should be made on the fast-breaking day once it has arrived, dear one?",
+   "premises": [
+    "the fast-breaking day has arrived",
+    "a cow-face is to be made",
+    "the instruction is addressed to the dear one"
+   ],
+   "inference": "on the fast-breaking day, once it has arrived, one should make a cow-face",
+   "uncertainties": [
+    "whether prāpte is a locative absolute or adjective modifying the day",
+    "whether kārayetpriye is one fused token or two words in the edition"
+   ],
+   "plain_english": "On the fast-breaking day, once it has arrived, make a cow-face, dear one."
+  }
+ ]
+}

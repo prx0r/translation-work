@@ -3,24 +3,34 @@
  "verse": 874,
  "rows": [
   {
-   "lemma": "go+grāsam",
-   "morph": "compound=go+grāsa; m.acc.sg",
-   "grounds": "object; compound go+grāsa"
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "pāvanam",
-   "morph": "n.acc.sg",
-   "grounds": "qualifies go+grāsam"
+   "lemma": "kecid",
+   "morph": "pron.m.nom.pl",
+   "grounds": "masculine nominative plural pronoun"
   },
   {
-   "lemma": "loke",
-   "morph": "m.loc.sg",
-   "grounds": "location"
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "sarva+pāpa+nikṛntanam",
-   "morph": "compound=sarva+pāpa+nikṛntana; n.acc.sg",
-   "grounds": "qualifies go+grāsam; compound sarva+pāpa+nikṛntana"
+   "lemma": "icchanti",
+   "morph": "3.pl.act.pres",
+   "grounds": "third plural active present"
+  },
+  {
+   "lemma": "paśavaḥ",
+   "morph": "m.nom.pl",
+   "grounds": "masculine nominative plural"
+  },
+  {
+   "lemma": "śāstramohitāḥ",
+   "morph": "m.nom.pl.pass.part",
+   "grounds": "masculine nominative plural passive participle"
   }
  ]
 }

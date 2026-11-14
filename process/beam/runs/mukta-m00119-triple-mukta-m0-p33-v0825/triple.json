@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "vijñānātmā",
+     "gloss": "knowledge-nature",
+     "grounds": "compound of knowledge and self; nominative masculine singular form",
+     "morph": "m.nom.sg (compound: vijñāna+ātmā)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of root bhū, third person singular active",
+     "morph": "3.sg.act.opt (root bhū)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative feminine singular of devī",
+     "morph": "f.voc.sg (devī)"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvasya",
+     "gloss": "of-living-being",
+     "grounds": "genitive masculine singular of jīva",
+     "morph": "m.gen.sg (jīva)"
+    },
+    {
+     "surface": "darśakaḥ",
+     "gloss": "seer",
+     "grounds": "nominative masculine singular agent noun from root dṛś",
+     "morph": "m.nom.sg (darśaka)"
+    }
+   ],
+   "question": "What becomes the seer of a living being once, O goddess?",
+   "premises": [
+    "vijñānātmā may become seer",
+    "once for living being",
+    "addressed to goddess"
+   ],
+   "inference": "The knowledge-self becomes the seer of a living being once.",
+   "uncertainties": [
+    "Exact doctrinal referent of vijñānātmā remains context-dependent"
+   ],
+   "plain_english": "O goddess, the knowledge-self may become the seer of a living being once."
+  }
+ ]
+}

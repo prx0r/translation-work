@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p40",
  "verse": 985,
- "question": "What kind of being emerged from the body of Brahmā?",
+ "question": "What fasting should be done on the second day if it is so?",
  "premises": [
-  "A being issued forth from Brahmā's body.",
-  "That being was a supremely terrible demon."
+  "On the second day condition holds.",
+  "The same fasting should be done."
  ],
- "inference": "A supremely terrible demon emerged from Brahmā's body.",
- "uncertainties": [],
- "plain_english": "Having issued forth from Brahmā's body, there emerged a supremely terrible demon."
+ "inference": "The verse repeats the same fasting on the second day under condition.",
+ "uncertainties": [
+  "cetsyāt condition unclear."
+ ],
+ "plain_english": "On the second day, if so, one should do that same fasting."
 }

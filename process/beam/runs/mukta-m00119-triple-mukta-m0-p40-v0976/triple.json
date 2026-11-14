@@ -1,0 +1,1032 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 976,
+   "rows": [
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "lexical gloss",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśaḥ",
+     "gloss": "fifteenth",
+     "grounds": "compound numeral",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "lexical gloss",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "section",
+     "grounds": "lexical gloss",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the name of this fifteenth chapter section?",
+   "premises": [
+    "The verse names the fifteenth chapter.",
+    "It also names a section."
+   ],
+   "inference": "The verse identifies the chapter and section by name.",
+   "uncertainties": [
+    "Duplicate paṭalaḥ may be editorial."
+   ],
+   "plain_english": "Name: fifteenth chapter, section."
+  },
+  {
+   "verse": 977,
+   "rows": [
+    {
+     "surface": "navarātre",
+     "gloss": "nine-nights",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samāyāte",
+     "gloss": "having-arrived",
+     "grounds": "participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvada",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When the nine nights arrive what should be done thus?",
+   "premises": [
+    "The nine nights have arrived.",
+    "The verse asks what should be done."
+   ],
+   "inference": "The verse poses the ritual question for the arrived nine nights.",
+   "uncertainties": [
+    "tadvada may mean 'in that manner'."
+   ],
+   "plain_english": "When the nine nights arrive, what should be done, and thus?"
+  },
+  {
+   "verse": 978,
+   "rows": [
+    {
+     "surface": "navaśaktibhiḥ",
+     "gloss": "nine-powers",
+     "grounds": "instrumental plural",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navarātraṃ",
+     "gloss": "nine-nights",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is the nine-night rite joined with nine powers called that?",
+   "premises": [
+    "The rite is joined with nine powers.",
+    "It is called by that name."
+   ],
+   "inference": "The verse defines the nine-night rite by its nine-power association.",
+   "uncertainties": [
+    "tad refers to prior term."
+   ],
+   "plain_english": "The nine-night rite joined with nine powers is called that."
+  },
+  {
+   "verse": 979,
+   "rows": [
+    {
+     "surface": "śayanaṃ",
+     "gloss": "sleeping",
+     "grounds": "lexical gloss",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bodhanākhyaṃ",
+     "gloss": "awakening-named",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navarātraṃ",
+     "gloss": "nine-nights",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the nine-night rite divided into sleeping and awakening?",
+   "premises": [
+    "There is sleeping and awakening.",
+    "The nine-night rite is twofold."
+   ],
+   "inference": "The verse states the rite has two forms: sleeping and awakening.",
+   "uncertainties": [
+    "Exact ritual distinction not specified."
+   ],
+   "plain_english": "The nine-night rite is twofold: sleeping and awakening."
+  },
+  {
+   "verse": 980,
+   "rows": [
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samupoṣya",
+     "gloss": "having-fasted",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasiddhiṃ",
+     "gloss": "all-success",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "lexical gloss",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does a man obtain all success by fasting two days?",
+   "premises": [
+    "A man fasts for two days.",
+    "He obtains all success."
+   ],
+   "inference": "The verse links two-day fasting to obtaining all success.",
+   "uncertainties": [
+    "dvābhyāṃ may refer to two nights."
+   ],
+   "plain_english": "By fasting two days, a man obtains all success."
+  },
+  {
+   "verse": 981,
+   "rows": [
+    {
+     "surface": "naktabhojī",
+     "gloss": "night-eater",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haviṣyāśī",
+     "gloss": "havis-eater",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathāśaktyā",
+     "gloss": "according-to-ability",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should one perform the rite as night-eater or havis-eater according to ability?",
+   "premises": [
+    "One may be night-eater or havis-eater.",
+    "Performance follows ability."
+   ],
+   "inference": "The verse prescribes performance according to capacity and diet.",
+   "uncertainties": [
+    "haviṣyāśī exact diet."
+   ],
+   "plain_english": "As night-eater or havis-eater, one should perform according to ability."
+  },
+  {
+   "verse": 982,
+   "rows": [
+    {
+     "surface": "gauḍakāśmīradraviḍamārgeṇa",
+     "gloss": "gauḍa-kashmir-draviḍa-path",
+     "grounds": "compound path",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How does the rite become various by regional paths?",
+   "premises": [
+    "Regional paths are named.",
+    "The rite becomes various."
+   ],
+   "inference": "The verse says practice varies by regional path.",
+   "uncertainties": [
+    "Exact regional differences."
+   ],
+   "plain_english": "By Gauḍa, Kashmir, and Draviḍa paths, it becomes various."
+  },
+  {
+   "verse": 983,
+   "rows": [
+    {
+     "surface": "aṣṭamyantaṃ",
+     "gloss": "until-eighth",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācarya",
+     "gloss": "having-performed",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "on-eighth",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "should-offer",
+     "grounds": "causative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be offered on the eighth after performing until the eighth?",
+   "premises": [
+    "Performance continues until the eighth.",
+    "Then offering occurs on the eighth."
+   ],
+   "inference": "The verse prescribes homa on the eighth after prior performance.",
+   "uncertainties": [
+    "What is offered."
+   ],
+   "plain_english": "Having performed until the eighth, then one should offer on the eighth."
+  },
+  {
+   "verse": 984,
+   "rows": [
+    {
+     "surface": "sā'ṣṭamī",
+     "gloss": "that-eighth",
+     "grounds": "sandhi fused form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakāryāṇāṃ",
+     "gloss": "of-all-works",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kartrīṃ",
+     "gloss": "doer",
+     "grounds": "agent noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Why does that eighth day become doer of all works?",
+   "premises": [
+    "That eighth day is named.",
+    "It becomes doer of all works."
+   ],
+   "inference": "The verse elevates the eighth day as agent of all works.",
+   "uncertainties": [
+    "sā'ṣṭamī fused sandhi."
+   ],
+   "plain_english": "That eighth day becomes the doer of all works."
+  },
+  {
+   "verse": 985,
+   "rows": [
+    {
+     "surface": "dvitīye+divase",
+     "gloss": "on-second-day",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cetsyāt",
+     "gloss": "if-it-is",
+     "grounds": "conditional verb",
+     "morph": "3.sg.act-fut"
+    },
+    {
+     "surface": "tadevopoṣaṇaṃ",
+     "gloss": "that-same-fasting",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-do",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What fasting should be done on the second day if it is so?",
+   "premises": [
+    "On the second day condition holds.",
+    "The same fasting should be done."
+   ],
+   "inference": "The verse repeats the same fasting on the second day under condition.",
+   "uncertainties": [
+    "cetsyāt condition unclear."
+   ],
+   "plain_english": "On the second day, if so, one should do that same fasting."
+  },
+  {
+   "verse": 986,
+   "rows": [
+    {
+     "surface": "amāyuktaṃ",
+     "gloss": "without-deceit",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "abandoning",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśanāḍikāḥ",
+     "gloss": "sixteen-nāḍikās",
+     "grounds": "compound",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "How should one act without deceit after abandoning sixteen nāḍikās?",
+   "premises": [
+    "One acts without deceit.",
+    "Sixteen nāḍikās are abandoned."
+   ],
+   "inference": "The verse prescribes deceitless action after abandoning sixteen nāḍikās.",
+   "uncertainties": [
+    "Time measure context."
+   ],
+   "plain_english": "Then one should act without deceit, abandoning sixteen nāḍikās."
+  },
+  {
+   "verse": 987,
+   "rows": [
+    {
+     "surface": "kalaśasthāpanaṃ",
+     "gloss": "pot-installation",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kalyāṇaṃ",
+     "gloss": "auspiciousness",
+     "grounds": "lexical gloss",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does pot installation certainly bring auspiciousness?",
+   "premises": [
+    "Pot installation should be done.",
+    "Auspiciousness certainly arises."
+   ],
+   "inference": "The verse promises certain auspiciousness from pot installation.",
+   "uncertainties": [
+    "kalaśa ritual details."
+   ],
+   "plain_english": "One should install the pot; auspiciousness certainly arises."
+  },
+  {
+   "verse": 988,
+   "rows": [
+    {
+     "surface": "kāśmīrākhyakramaṃ",
+     "gloss": "kashmir-named-order",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "verb",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvatī",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why should Pārvatī hear the Kashmir-named order with effort?",
+   "premises": [
+    "The Kashmir-named order is addressed.",
+    "Pārvatī should hear with effort."
+   ],
+   "inference": "The verse introduces a Kashmir ritual order to Pārvatī.",
+   "uncertainties": [
+    "Order content follows."
+   ],
+   "plain_english": "Hear, goddess Pārvatī, the Kashmir-named order with effort."
+  },
+  {
+   "verse": 989,
+   "rows": [
+    {
+     "surface": "navamyāṃ",
+     "gloss": "on-ninth",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viprabhojyaṃ",
+     "gloss": "brahmin-feeding",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "digvedhe",
+     "gloss": "dig-vedha",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāraṇāṃ",
+     "gloss": "breaking-fast",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-do",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should brahmin feeding and fast-breaking occur on the ninth?",
+   "premises": [
+    "On the ninth brahmin feeding should be.",
+    "Fast-breaking should be done in digvedha."
+   ],
+   "inference": "The verse prescribes ninth-day brahmin feeding and fast-breaking.",
+   "uncertainties": [
+    "digvedha meaning."
+   ],
+   "plain_english": "On the ninth there should be brahmin feeding; one should break fast in digvedha."
+  },
+  {
+   "verse": 990,
+   "rows": [
+    {
+     "surface": "aṣṭamīnavamīsandhau",
+     "gloss": "eighth-ninth-junction",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "homo",
+     "gloss": "homa",
+     "grounds": "lexical gloss",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "on-eighth",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should homa be performed at the eighth-ninth junction?",
+   "premises": [
+    "Homa is at the junction.",
+    "It is performed on the eighth."
+   ],
+   "inference": "The verse places homa at the eighth-ninth junction on the eighth day.",
+   "uncertainties": [
+    "Junction timing."
+   ],
+   "plain_english": "At the eighth-ninth junction, homa should be performed on the eighth."
+  },
+  {
+   "verse": 991,
+   "rows": [
+    {
+     "surface": "keralākhyaḥ",
+     "gloss": "kerala-named",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "order",
+     "grounds": "lexical gloss",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirṇayaṃ",
+     "gloss": "decision",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "verb",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvatī",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why should Pārvatī hear the declared Kerala order and decision?",
+   "premises": [
+    "The Kerala-named order is declared.",
+    "Pārvatī should hear the decision."
+   ],
+   "inference": "The verse introduces a Kerala ritual order and its decision.",
+   "uncertainties": [
+    "Decision content follows."
+   ],
+   "plain_english": "The Kerala-named order is declared; hear the decision, Pārvatī."
+  },
+  {
+   "verse": 992,
+   "rows": [
+    {
+     "surface": "aṣṭamīnavamīprāptau",
+     "gloss": "eighth-ninth-arrival",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pūrvavedhe",
+     "gloss": "prior-vedha",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na+duṣyati",
+     "gloss": "not-defiled",
+     "grounds": "negated verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Why is prior vedha not defiled at eighth-ninth arrival?",
+   "premises": [
+    "Eighth-ninth arrival occurs.",
+    "Prior vedha is not defiled."
+   ],
+   "inference": "The verse states prior vedha remains undefiled at that arrival.",
+   "uncertainties": [
+    "vedha technical sense."
+   ],
+   "plain_english": "At eighth-ninth arrival, prior vedha is not defiled."
+  },
+  {
+   "verse": 993,
+   "rows": [
+    {
+     "surface": "tattadakṣayyam",
+     "gloss": "that-that-imperishable",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "navadurgāprayogataḥ",
+     "gloss": "nine-durgā-application",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does imperishable result arise from nine Durgā application?",
+   "premises": [
+    "Imperishable result arises.",
+    "It comes from nine Durgā application."
+   ],
+   "inference": "The verse attributes imperishable results to nine Durgā application.",
+   "uncertainties": [
+    "tattadakṣayyam exact referent."
+   ],
+   "plain_english": "Imperishable result arises from application of nine Durgās."
+  },
+  {
+   "verse": 994,
+   "rows": [
+    {
+     "surface": "prathame'hni",
+     "gloss": "on-first-day",
+     "grounds": "sandhi fused form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-much",
+     "grounds": "relative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "correlative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How much should the wise do on later days after first day?",
+   "premises": [
+    "On first day something is done.",
+    "The wise should do so much."
+   ],
+   "inference": "The verse says later practice should match the first day's amount.",
+   "uncertainties": [
+    "prathame'hni fused sandhi."
+   ],
+   "plain_english": "On the first day, as much is done, so much the wise should do."
+  },
+  {
+   "verse": 995,
+   "rows": [
+    {
+     "surface": "navarātravrate",
+     "gloss": "nine-nights-vow",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "strīṇāṃ",
+     "gloss": "of-women",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "lexical gloss",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "When does yoga for women arise in the nine-night vow?",
+   "premises": [
+    "The nine-night vow is for women.",
+    "Yoga arises at a time."
+   ],
+   "inference": "The verse links women's yoga to the nine-night vow under condition.",
+   "uncertainties": [
+    "Condition yadā."
+   ],
+   "plain_english": "When yoga for women arises in the nine-night vow."
+  },
+  {
+   "verse": 996,
+   "rows": [
+    {
+     "surface": "tāmbulāgurukastūrīdivyāmbaravibhūṣaṇaiḥ",
+     "gloss": "betel-aloes-musk-divine-garments-ornaments",
+     "grounds": "long compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What offerings adorn the rite with betel, aloes, musk, garments, and ornaments?",
+   "premises": [
+    "The compound lists ritual adornments.",
+    "They are instrumental."
+   ],
+   "inference": "The verse names adornments used in the rite.",
+   "uncertainties": [
+    "Exact ritual use."
+   ],
+   "plain_english": "With betel, aloes, musk, divine garments, and ornaments."
+  },
+  {
+   "verse": 997,
+   "rows": [
+    {
+     "surface": "sūryodayaṃ",
+     "gloss": "sunrise",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryodayāntaram",
+     "gloss": "sunrise-limit",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the time span from sunrise to next sunrise?",
+   "premises": [
+    "It begins at sunrise.",
+    "It extends to next sunrise."
+   ],
+   "inference": "The verse defines a day span from sunrise to sunrise.",
+   "uncertainties": [
+    "Ritual timing."
+   ],
+   "plain_english": "Beginning at sunrise, again until next sunrise."
+  },
+  {
+   "verse": 998,
+   "rows": [
+    {
+     "surface": "ekāsanagato",
+     "gloss": "single-seat-gone",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navarātre",
+     "gloss": "in-nine-nights",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbhavīm",
+     "gloss": "śāmbhavīm",
+     "grounds": "lexical gloss",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What should one do in single seat during nine nights for Śāmbhavī?",
+   "premises": [
+    "One sits in single seat.",
+    "Nine nights are specified.",
+    "Śāmbhavī is named."
+   ],
+   "inference": "The verse prescribes seated nine-night practice for Śāmbhavī.",
+   "uncertainties": [
+    "śāmbhavīm exact practice."
+   ],
+   "plain_english": "Having become seated in one seat, during nine nights, Śāmbhavī."
+  },
+  {
+   "verse": 999,
+   "rows": [
+    {
+     "surface": "gṛhārāme",
+     "gloss": "in-house-garden",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "should-do",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirjjane",
+     "gloss": "secluded",
+     "grounds": "adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parvate",
+     "gloss": "on-mountain",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the rite be done: house garden, secluded place, or mountain?",
+   "premises": [
+    "House garden is an option.",
+    "Secluded place or mountain is an option."
+   ],
+   "inference": "The verse gives alternative locations for performance.",
+   "uncertainties": [
+    "kartavyā agreement."
+   ],
+   "plain_english": "It should be done in house garden, or in secluded place, or on mountain."
+  }
+ ]
+}

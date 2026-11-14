@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 895,
- "question": "What effect does constant recitation have upon the deity?",
+ "question": "What strength and zeal characterize the one called Gauda?",
  "premises": [
-  "The deity is continually praised through recitation.",
-  "Being praised leads to the deity becoming pleased."
+  "He has great strength",
+  "He has great zeal",
+  "He is called Gauda"
  ],
- "inference": "Constant recitation pleases the deity.",
- "uncertainties": [],
- "plain_english": "By recitation, the deity, being constantly praised, becomes pleased."
+ "inference": "The one called Gauda has great strength and great zeal.",
+ "uncertainties": [
+  "Identity beyond name unspecified"
+ ],
+ "plain_english": "Great strength and great zeal characterize the one called Gauda."
 }
