@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "ebhiryuktena",
+     "gloss": "by-these-joined",
+     "grounds": "fused form given; relates to ebhiḥ with yuktena (sandhi noted, not split)",
+     "morph": "inst.pl.+inst.sg.m. (fused)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address to Devi",
+     "morph": "voc.sg.f."
+    },
+    {
+     "surface": "vidyājapanamācaret",
+     "gloss": "should-perform-vidya-japa",
+     "grounds": "fused verb form; vidyājapana + ācaret (sandhi noted, not split); mantra japa of vidyā",
+     "morph": "3.sg.optative/benedictive-voice context (fused)"
+    }
+   ],
+   "question": "What prescribed practice is enjoined for the practitioner after the stated elements are joined, addressed to the Goddess?",
+   "premises": [
+    "stated joined elements are specified in prior instruction",
+    "the address is directed to the Goddess as recipient of the injunction",
+    "the enjoined act is performance of vidyā japa"
+   ],
+   "inference": "With those joined elements, the practitioner should perform vidyā japa, addressed to the Goddess.",
+   "uncertainties": [
+    "exact internal sandhi boundaries inside fused tokens not expanded in rows"
+   ],
+   "plain_english": "O Goddess of gods, with these joined, one should perform the japa of the vidyā."
+  }
+ ]
+}

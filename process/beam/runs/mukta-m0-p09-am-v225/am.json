@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 225,
- "question": "What further instruction does the listener wish to hear after this brief summary?",
+ "question": "What prescribed practice is enjoined for the practitioner after the stated elements are joined, addressed to the Goddess?",
  "premises": [
-  "Everything has been stated in brief.",
-  "The exposition so far is presented as a summary.",
-  "The listener may still desire additional instruction."
+  "stated joined elements are specified in prior instruction",
+  "the address is directed to the Goddess as recipient of the injunction",
+  "the enjoined act is performance of vidyā japa"
  ],
- "inference": "Since the teaching has been given briefly, the speaker invites the listener to specify what further instruction is desired.",
- "uncertainties": [],
- "plain_english": "Everything has been stated briefly; what do you wish to hear now?"
+ "inference": "With those joined elements, the practitioner should perform vidyā japa, addressed to the Goddess.",
+ "uncertainties": [
+  "exact internal sandhi boundaries inside fused tokens not expanded in rows"
+ ],
+ "plain_english": "O Goddess of gods, with these joined, one should perform the japa of the vidyā."
 }
