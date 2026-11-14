@@ -12,15 +12,15 @@
 },
 {
 "surface": "naumi",
-"quick_gloss": "i-praise"
+"quick_gloss": "I-bow-to"
 },
 {
-"surface": "sāhasa+varam",
-"quick_gloss": "essence-of-spontaneity"
+"surface": "sāhasa+varaṃ",
+"quick_gloss": "sāhasa+supreme"
 },
 {
 "surface": "guru+vaktra+gamyam",
-"quick_gloss": "accessible-through-guru's-mouth"
+"quick_gloss": "guru+mouth+accessible"
 }
 ]
 },
@@ -32,20 +32,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kaḥ+api",
+"surface": "kaḥ",
 "quick_gloss": "some"
 },
 {
-"surface": "anuttara",
-"quick_gloss": "unsurpassed"
+"surface": "api",
+"quick_gloss": "api"
 },
 {
-"surface": "cit+vyoma",
-"quick_gloss": "consciousness-space"
+"surface": "anuttara+cit+vyoma",
+"quick_gloss": "unsurpassed+consciousness+space"
 },
 {
 "surface": "svabhāvaḥ",
-"quick_gloss": "nature"
+"quick_gloss": "own-nature"
 },
 {
 "surface": "jayatāt",
@@ -66,10 +66,10 @@
 "tokens": [
 {
 "surface": "pūjya+pūjaka+pūjābhiḥ",
-"quick_gloss": "by-worshipper-worshipped-worship"
+"quick_gloss": "worshipper+worshipped+worships"
 },
 {
-"surface": "projjhitam",
+"surface": "projjhitaṃ",
 "quick_gloss": "abandoned"
 },
 {
@@ -78,7 +78,7 @@
 },
 {
 "surface": "namāmi",
-"quick_gloss": "i-bow-to"
+"quick_gloss": "I-bow-to"
 },
 {
 "surface": "tat",
@@ -94,12 +94,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+vyoma+samāviṣṭaḥ",
-"quick_gloss": "immersed-in-great-space"
+"surface": "mahā+vyoma",
+"quick_gloss": "great+space"
+},
+{
+"surface": "samāviṣṭaḥ",
+"quick_gloss": "fully-entered"
 },
 {
 "surface": "tiṣṭhāmi",
-"quick_gloss": "i-stand"
+"quick_gloss": "I-stand"
 },
 {
 "surface": "asmin",
@@ -119,24 +123,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃvit",
-"quick_gloss": "consciousness"
+"surface": "saṃvid+vikalpa+saṃkalpa",
+"quick_gloss": "consciousness+thought+resolve"
 },
 {
-"surface": "vikalpa",
-"quick_gloss": "thought"
-},
-{
-"surface": "saṃkalpa",
-"quick_gloss": "intention"
-},
-{
-"surface": "ghaṭṭanam",
+"surface": "ghaṭṭanaṃ",
 "quick_gloss": "striking"
 },
 {
 "surface": "naumi",
-"quick_gloss": "i-praise"
+"quick_gloss": "I-bow-to"
 },
 {
 "surface": "anuttaram",
@@ -152,8 +148,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kenāpi",
-"quick_gloss": "by-someone"
+"surface": "kena",
+"quick_gloss": "by-whom"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "kriyate",
@@ -165,7 +165,7 @@
 },
 {
 "surface": "para+tattva+upabṛṃhitā",
-"quick_gloss": "nourished-by-supreme-reality"
+"quick_gloss": "supreme+reality+nourished"
 }
 ]
 },
@@ -178,11 +178,11 @@
 "tokens": [
 {
 "surface": "mahā+sāhasa+vṛttyā",
-"quick_gloss": "by-mode-of-great-spontaneity"
+"quick_gloss": "great+sāhasa+function"
 },
 {
 "surface": "svarūpa+lābhaḥ",
-"quick_gloss": "attainment-of-own-nature"
+"quick_gloss": "own-nature+attainment"
 }
 ]
 },
@@ -194,12 +194,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vakṣyamāṇa+kathita+krameṇa",
-"quick_gloss": "by-sequence-being-stated"
+"surface": "vakṣyamāṇa+kathita",
+"quick_gloss": "to-be-expounded+stated"
+},
+{
+"surface": "krameṇa",
+"quick_gloss": "by-sequence"
 },
 {
 "surface": "adhigantavyaḥ",
-"quick_gloss": "to-be-attained"
+"quick_gloss": "to-be-understood"
 }
 ]
 },
@@ -212,7 +216,7 @@
 "tokens": [
 {
 "surface": "satatam",
-"quick_gloss": "constant"
+"quick_gloss": "continually"
 },
 {
 "surface": "avasthitiḥ",
@@ -253,8 +257,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāpta+mahā+upadeśānām",
-"quick_gloss": "of-those-who-have-obtained-great-teaching"
+"surface": "prāpta+mahā+upadeśa",
+"quick_gloss": "obtained+great+instruction"
+},
+{
+"surface": "nāmā",
+"quick_gloss": "named"
 },
 {
 "surface": "āvirbhavati",
@@ -279,11 +287,15 @@
 "tokens": [
 {
 "surface": "yugma+grāsāt",
-"quick_gloss": "from-devouring-the-pair"
+"quick_gloss": "pair+swallowing"
 },
 {
-"surface": "niravakāśa+saṃvit+niṣṭhā",
-"quick_gloss": "abiding-in-consciousness-without-gap"
+"surface": "niravakāśa",
+"quick_gloss": "without-interval"
+},
+{
+"surface": "saṃvin+niṣṭhā",
+"quick_gloss": "consciousness+abiding"
 }
 ]
 },
@@ -295,8 +307,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirupādhi+nīrūpa+niḥsvarūpatā+tādātmyam",
-"quick_gloss": "identity-with-supportless-formless-natureless-state"
+"surface": "nirupādhi+nīrūpa",
+"quick_gloss": "without-support+formless"
+},
+{
+"surface": "niḥsvarūpa+tādātmyaṃ",
+"quick_gloss": "no-own-nature+identity"
 },
 {
 "surface": "bhavati",
@@ -321,11 +337,11 @@
 "tokens": [
 {
 "surface": "siddha+yoginī+saṃghaṭṭāt",
-"quick_gloss": "from-union-of-host-of-accomplished-yoginīs"
+"quick_gloss": "accomplished+yoginī+union"
 },
 {
-"surface": "mahā+melāpa+udayaḥ",
-"quick_gloss": "arising-of-great-festival"
+"surface": "mahā+melā+upodayaḥ",
+"quick_gloss": "great+festival+arising"
 }
 ]
 },
@@ -338,7 +354,7 @@
 "tokens": [
 {
 "surface": "parama+advaya+samāveśaḥ",
-"quick_gloss": "supreme-nondual-absorption"
+"quick_gloss": "supreme+non-dual+absorption"
 },
 {
 "surface": "sarvatra",
@@ -346,15 +362,15 @@
 },
 {
 "surface": "avasthitaḥ",
-"quick_gloss": "abiding"
+"quick_gloss": "situated"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "uktam",
-"quick_gloss": "stated"
+"surface": "uktaṃ",
+"quick_gloss": "said"
 },
 {
 "surface": "bhavati",
@@ -392,15 +408,15 @@
 "tokens": [
 {
 "surface": "yathā+mukha+upadiṣṭa+nītyā",
-"quick_gloss": "by-method-taught-directly"
+"quick_gloss": "as-mouth+taught+method"
 },
 {
 "surface": "svare",
-"quick_gloss": "in-own-essence"
+"quick_gloss": "own-sound"
 },
 {
 "surface": "eva",
-"quick_gloss": "alone"
+"quick_gloss": "indeed"
 },
 {
 "surface": "prathate",
@@ -411,8 +427,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "uktam",
-"quick_gloss": "stated"
+"surface": "uktaṃ",
+"quick_gloss": "said"
 },
 {
 "surface": "bhavati",
@@ -428,11 +444,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vigata+bandham",
-"quick_gloss": "free-from-bondage"
+"surface": "vigata+bandhaṃ",
+"quick_gloss": "freed-from-bondage"
 },
 {
-"surface": "param",
+"surface": "paraṃ",
 "quick_gloss": "supreme"
 },
 {
@@ -458,7 +474,7 @@
 },
 {
 "surface": "rahasya+arthaḥ",
-"quick_gloss": "secret-meaning"
+"quick_gloss": "secret+meaning"
 }
 ]
 },
@@ -471,7 +487,7 @@
 "tokens": [
 {
 "surface": "sva+viśrānti+avasthitiḥ",
-"quick_gloss": "abiding-in-repose-in-own-self"
+"quick_gloss": "own+repose+abiding"
 }
 ]
 },
@@ -483,16 +499,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avasthitiḥ",
+"surface": "vasthitiḥ",
 "quick_gloss": "abiding"
 },
 {
 "surface": "pañcama+pada+atiśāyinī",
-"quick_gloss": "resting-beyond-fifth-state"
+"quick_gloss": "fifth+state+transcending"
 },
 {
-"surface": "niravakāśa+saṃvit+niṣṭhā",
-"quick_gloss": "abiding-in-consciousness-without-gap"
+"surface": "niravakāśa",
+"quick_gloss": "without-interval"
+},
+{
+"surface": "saṃvin+niṣṭhā",
+"quick_gloss": "consciousness+abiding"
 },
 {
 "surface": "sthiti",
@@ -517,11 +537,11 @@
 "tokens": [
 {
 "surface": "dvādaśa+vāha+udayena",
-"quick_gloss": "by-arising-of-twelfth-flow"
+"quick_gloss": "twelve+stream+arising"
 },
 {
 "surface": "mahā+marīci+vikāsaḥ",
-"quick_gloss": "expansion-of-great-radiance"
+"quick_gloss": "great+ray+expansion"
 }
 ]
 },
@@ -542,7 +562,7 @@
 },
 {
 "surface": "sarvataḥ",
-"quick_gloss": "in-all-ways"
+"quick_gloss": "from-all-sides"
 },
 {
 "surface": "sarvadā",
@@ -554,7 +574,7 @@
 },
 {
 "surface": "sthitaḥ",
-"quick_gloss": "abiding"
+"quick_gloss": "situated"
 },
 {
 "surface": "iti",
@@ -562,7 +582,7 @@
 },
 {
 "surface": "mahā+vākya+arthaḥ",
-"quick_gloss": "meaning-of-great-statement"
+"quick_gloss": "great+statement+meaning"
 }
 ]
 },
@@ -575,11 +595,11 @@
 "tokens": [
 {
 "surface": "caryā+pañcaka+udaye",
-"quick_gloss": "in-arising-of-fivefold-conduct"
+"quick_gloss": "conduct+fivefold+arising"
 },
 {
 "surface": "nistaraṅga+samāveśaḥ",
-"quick_gloss": "absorption-without-waves"
+"quick_gloss": "waveless+absorption"
 }
 ]
 },
@@ -592,7 +612,7 @@
 "tokens": [
 {
 "surface": "caryā+pañcaka+udayaḥ",
-"quick_gloss": "arising-of-fivefold-conduct"
+"quick_gloss": "conduct+fivefold+arising"
 }
 ]
 }

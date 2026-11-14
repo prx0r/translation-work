@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[---](-) [---](-) [---](-) [listen](śṛṇu) [knowledge+limb+forms](vidyā+aṅga+rūpiṇīḥ)
+[lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [hear](śṛṇu) [knowledge+limb+forms](vidyāṅgarūpiṇīḥ)
 
 ## mukta-m0-p05-v102
-[this](sā) [eṣa](eṣa) [Dāśarathi](dāśarathī) [Rāma](rāmaḥ) [thus+like](iti+vat) [here](atra) [junction](sandhiḥ)
+[she+this](saiṣa) [son-of-daśaratha](dāśarathī) [rāma](rāmaḥ) [thus+like+here](itivadatra) [junction](sandhiḥ)
 
 ## mukta-m0-p05-v103
-[self+seat+gone](ātmā+āsana+gatāṃ) [and](ca) [also](api) [likewise](tathā) [wheel+seat+seated](cakra+āsana+sthitām)
+[self+seat+gone](ātmāsanagatāṃ) [and+also](cāpi) [likewise](tathā) [wheel+seat+standing](cakrāsanasthitām)
 
 ## mukta-m0-p05-v104
-[---](-) [---](-) [---](-) [root+knowledge](mūla+vidyām) [also](api) [dear-one](priye)
+[lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [lacuna](-) [root+knowledge+also](mūlavidyāmapi) [beloved](priye)
 
 ## mukta-m0-p05-v105
-[listen](śṛṇu) [thus](iti) [with-previous](prācyena) [connection](saṃbandhaḥ)
+[hear](śṛṇu) [thus](iti) [with-previous](prācyena) [connection](saṃbandhaḥ)
 
 ## mukta-m0-p05-v106
-[śānta+ending](śānta+antaṃ) [ka+ādi+joined](kā+ādi+saṃyuktam) [ai+kāra+end+end+joined](ai+kāra+anta+anta+yojitam)
+[śānta+ending](śāntāntaṃ) [ka+etc.+joined](kādisaṃyuktam) [ai+ending+end+joined](aikārāntāntayojitam)
 
 ## mukta-m0-p05-v107
-[e+o+middle+gone](e+o+madhya+gataṃ) [seed](bījaṃ) [speech+arrangement](vāk+vidhānāya) [only](kevalam)
+[e+o+middle+gone](e-omadhyagataṃ) [seed](bījaṃ) [speech+arrangement+for](vāgvidhānāya) [only](kevalam)
 
 ## mukta-m0-p05-v108
-[mādana](mādanaṃ) [śakra+joined](śakra+saṃyuktam) [fourth+vowel+joined](caturtha+svara+saṃyutam)
+[mādana](mādanaṃ) [śakra+joined](śakrasaṃyuktaṃ) [fourth+vowel+joined](caturthasvarasaṃyutam)
 
 ## mukta-m0-p05-v109
-[śānta+ending](śānta+antaṃ) [ka+ādi+joined](kā+ādi+saṃyuktam) [ai+kāra+end+end+joined](ai+kāra+anta+anta+yojitam)
+[śānta+ending](śāntāntaṃ) [ka+etc.+joined](kādisaṃyuktam) [ai+ending+end+joined](aikārāntāntayojitam)
 
 ## mukta-m0-p05-v110
-[meaning+obtained](gata+artham)
+[meaning+gone](gatārtham)
 
 ## mukta-m0-p05-v111
-[family+knowledge](kula+vidyā) [O-great-goddess](mahā+īśāni) [all+task+purpose+accomplishing](sarva+kārya+artha+sādhakī)
+[family+knowledge](kulavidyā) [great+goddess](maheśāni) [all+task+purpose+accomplishing](sarvakāryārthasādhakī)
 
 ## mukta-m0-p05-v112
-[then](tataḥ) [kāmarāja](kāma+rāja) [thus](iti)
+[then](tataḥ) [kāmarāja](kāmarāja) [thus](iti)
 
 ## mukta-m0-p05-v113
-[of-this](etasyāḥ) [indeed](eva) [of-knowledge](vidyāyāḥ) [śiva+māyā+fire+bindu+possessing](śiva+māyā+agni+bindu+mat)
+[of-this](etasyāḥ) [indeed](eva) [of-knowledge](vidyāyāḥ) [śiva+māyā+fire+bindu+possessing](śivamāyāgnibindumat)
 
 ## mukta-m0-p05-v114
-[again](punar) [knowledge+pair](vidyā+dvayam) [of-these](asya) [above](ūrdhvam) [inner+end](antar+antaṃ) [śiva+endowed](śiva+anvitam)
+[again](punar) [knowledge+pair+of-these+above](vidyādyamasyordhvam) [inner+end](antarantaṃ) [śiva+endowed](śivānvitam)
 
 ## mukta-m0-p05-v115
-[again](punar) [first](ādyāṃ) [great+knowledge](mahā+vidyāṃ) [śiva+moon+endowed](śiva+candra+samanvitām)
+[again](punar) [first](ādyāṃ) [great+knowledge](mahāvidyāṃ) [śiva+moon+accompanied](śivacandrasamanvitām)
 
 ## mukta-m0-p05-v116
-[of-goddess](devyā) [self+seat+knowledge](ātmā+āsana+vidyāyāḥ) [previously+spoken](pūrva+uktāyāḥ) [according-to-order](yathā+kramam)
+[of-goddess](devyāḥ) [self+seat+knowledge+of](ātmāsanavidyāyāḥ) [previously+spoken+of](pūrvoktāyāḥ) [according-to-order](yathākramam)
 
 ## mukta-m0-p05-v117
-[having-joined](saṃyojya) [O-supreme-goddess](parama+īśāni) [together](sākam) [with-half+moon](ardha+indunā) [then](tataḥ)
+[having-joined](saṃyojya) [supreme+goddess](parameśāni) [together](sākam) [half+moon+by](ardhendunā) [then](tataḥ)
 
 ## mukta-m0-p05-v118
-[haṃsa+soma+mounted](haṃsa+soma+samārūḍhām) [first](ādyām) [fire+seat+seated](agni+āsana+sthitām)
+[swan+moon+mounted](haṃsasomasamārūḍhām) [first](ādyām) [fire+seat+standing](agnyāsanasthitām)
 
 ## mukta-m0-p05-v119
-[thus](evam) [these](etāḥ) [great+knowledges](mahā+vidyāḥ) [O-goddess](devi) [all+purpose+accomplishment+giving](sarva+artha+siddhi+dāḥ)
+[thus](evam) [these](etāḥ) [great+knowledges](mahāvidyāḥ) [goddess](devi) [all+purpose+accomplishment+giving](sarvārthasiddhidāḥ)
 
 ## mukta-m0-p05-v120
-[mādana](mādanaṃ) [below-that](tat+adhaḥ) [śakti](śaktiḥ) [below-that](tat+adhaḥ) [bindu+garlanded](bindu+mālinī)
+[mādana](mādanaṃ) [that+below](tadadhaḥ) [śakti](śaktiḥ) [that+below](tadadho) [bindu+garlanded](bindumālinī)
 
 ## mukta-m0-p05-v121
-[māyā+bindu+īśvara+joined](māyā+bindu+īśvara+yutā) [above-all](sarva+upari) [to-be-placed](niyojitā)
+[māyā+bindu+īśvara+joined](māyābindvīśvarayutā) [all+above](sarvopari) [placed](niyojitā)
 
 ## mukta-m0-p05-v122
-[śiva+seed](śiva+bījaṃ) [threefold](tridhā) [having-joined](yuṅktvā) [creation+maintenance+dissolution+sequence](sṛṣṭi+sthiti+laya+kramaiḥ)
+[śiva+seed](śivabījaṃ) [threefold](tridhā) [having-joined](yuṅktvā) [creation+maintenance+dissolution+sequence+by](sṛṣṭisthitilayakramaiḥ)
 
 ## mukta-m0-p05-v123
-[again](punaḥ) [maintenance+śiva+below](sthiti+śiva+adhastāt) [indra+seed](indra+bījaṃ) [one-should-place](niyojayet)
+[again](punaḥ) [maintenance+śiva+below](sthitiśivādhastāt) [indra+seed](indrabījaṃ) [one-should-place](niyojayet)
 
 ## mukta-m0-p05-v124
-[fourth+vowel+joined](caturtha+svara+saṃyuktam) [bindu+part+moon+adorned](bindu+khaṇḍa+indu+alaṅkṛtam)
+[fourth+vowel+joined](caturthasvarasaṃyuktaṃ) [bindu+part+moon+adorned](bindukhaṇḍendvalaṅkṛtam)
 
 ## mukta-m0-p05-v125
-[māyā+seed](māyā+bījaṃ) [O-great-goddess](mahā+īśāni) [mādana](mādanaṃ) [śakra+joined](śakra+saṃyutam)
+[māyā+seed](māyābījaṃ) [great+goddess](maheśāni) [mādana](mādanaṃ) [śakra+joined](śakrasaṃyutam)
