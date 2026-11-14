@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p156",
+ "items": [
+  {
+   "verse": 3900,
+   "rows": [
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "initial element in the sequence",
+     "morph": "adj.nom/acc.sg.n"
+    },
+    {
+     "surface": "sthūlaṃ",
+     "gloss": "thick",
+     "grounds": "describes the size of the first element",
+     "morph": "adj.nom/acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequential progression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "takes the preceding element as the point of comparison",
+     "morph": "pron.abl.sg.n"
+    },
+    {
+     "surface": "nyūnaṃ",
+     "gloss": "smaller",
+     "grounds": "reduced in size relative to the previous",
+     "morph": "adj.nom/acc.sg.n"
+    },
+    {
+     "surface": "nyūnataraṃ",
+     "gloss": "smaller-still",
+     "grounds": "comparative indicating further reduction in size",
+     "morph": "adj.nom/acc.sg.n.comp"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "marks the continuation of the same pattern",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What graduated sequence of thickness must the threaded elements follow?",
+   "premises": [
+    "The first element in the sequence is thick.",
+    "The next element is smaller than that preceding one.",
+    "The following element is smaller still, continuing in the same manner."
+   ],
+   "inference": "The threaded elements must be arranged in a progressively diminishing order of thickness.",
+   "uncertainties": [
+    "The exact referent of the elements depends on the preceding verses describing the threading."
+   ],
+   "plain_english": "The first should be thick, then one smaller than that, then one smaller still, and so on in the same way."
+  }
+ ]
+}

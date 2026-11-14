@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 4000,
+   "rows": [
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indeclinable adverb indicating separation or distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtāḥ",
+     "gloss": "made",
+     "grounds": "past passive participle from root kṛ, describing the separated elements",
+     "morph": "m.nom.pl (ppp, √kṛ)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "demonstrative pronoun referring to the previously mentioned elements",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-make",
+     "grounds": "optative verb expressing a ritual injunction",
+     "morph": "3.sg.middle-optative (√kṛ)"
+    },
+    {
+     "surface": "varṇamālāṃ",
+     "gloss": "alphabet-garland",
+     "grounds": "compound object denoting the series or garland of syllables",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "indeclinable adverb emphasizing the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the alphabet-garland be formed after separating its elements?",
+   "premises": [
+    "The elements have been made separate by them.",
+    "A ritual action of making is prescribed.",
+    "The object to be made is the alphabet-garland."
+   ],
+   "inference": "One should especially form the alphabet-garland by arranging those separately made elements.",
+   "uncertainties": [
+    "The exact referent of taiḥ depends on the preceding ritual context."
+   ],
+   "plain_english": "Having made them separate, one should especially form the alphabet-garland."
+  }
+ ]
+}

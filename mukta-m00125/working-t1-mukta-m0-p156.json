@@ -82,19 +82,19 @@
 },
 {
 "surface": "vijaya+dam",
-"quick_gloss": "victory+giving"
+"quick_gloss": "victory-giving"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "āyur+vṛddhi+dam",
-"quick_gloss": "life+increase+giving"
+"surface": "āyuḥ+vṛddhi+dam",
+"quick_gloss": "life-increasing"
 },
 {
 "surface": "phala+dam",
-"quick_gloss": "fruit+giving"
+"quick_gloss": "fruit-giving"
 },
 {
 "surface": "sadā",
@@ -110,12 +110,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ābhicāraka+liṅga+ādyam",
-"quick_gloss": "sorcery+liṅga+etc."
+"surface": "ābhicāraka",
+"quick_gloss": "sorcery"
+},
+{
+"surface": "liṅga+ādyam",
+"quick_gloss": "liṅga-etc."
 },
 {
 "surface": "raudraiḥ",
-"quick_gloss": "by-fierce-ones"
+"quick_gloss": "by-rudra-priests"
 },
 {
 "surface": "ca",
@@ -131,7 +135,7 @@
 },
 {
 "surface": "ayat",
-"quick_gloss": "if"
+"quick_gloss": "ayat"
 }
 ]
 },
@@ -159,8 +163,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "mṛd+bhāṇḍān",
-"quick_gloss": "clay+vessels"
+"surface": "mṛt+bhāṇḍān",
+"quick_gloss": "earthen-vessels"
 },
 {
 "surface": "ca",
@@ -181,7 +185,7 @@
 "tokens": [
 {
 "surface": "kuḍya+ādyam",
-"quick_gloss": "wall+etc."
+"quick_gloss": "wall-etc."
 },
 {
 "surface": "sudhāyā",
@@ -197,7 +201,7 @@
 },
 {
 "surface": "gomaya+vāriṇā",
-"quick_gloss": "with-cow-dung+water"
+"quick_gloss": "with-cow-dung-water"
 }
 ]
 },
@@ -209,8 +213,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paryagnikaraṇaṃ",
-"quick_gloss": "fire-circling"
+"surface": "paryagni+karaṇam",
+"quick_gloss": "circling-with-fire"
 },
 {
 "surface": "kṛtvā",
@@ -239,11 +243,11 @@
 "tokens": [
 {
 "surface": "karṣaṇa+ādi",
-"quick_gloss": "ploughing+beginning"
+"quick_gloss": "beginning-with-ploughing"
 },
 {
 "surface": "pratiṣṭhā+anta",
-"quick_gloss": "installation+ending"
+"quick_gloss": "ending-with-installation"
 },
 {
 "surface": "kriyāyām",
@@ -267,12 +271,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahājāla+prayogeṇa",
-"quick_gloss": "by-great-net+application"
+"surface": "mahā+jāla+prayogeṇa",
+"quick_gloss": "by-great-net-application"
 },
 {
 "surface": "sarva+mantrān",
-"quick_gloss": "all+mantras"
+"quick_gloss": "all-mantras"
 },
 {
 "surface": "ca",
@@ -293,7 +297,7 @@
 "tokens": [
 {
 "surface": "tat+liṅga+ādyam",
-"quick_gloss": "that+liṅga+etc."
+"quick_gloss": "that-liṅga-etc."
 },
 {
 "surface": "ca",
@@ -305,7 +309,7 @@
 },
 {
 "surface": "kuśa+bhasma+mṛd+ambhasā",
-"quick_gloss": "with-kuśa+ash+clay+water"
+"quick_gloss": "with-kuśa-ash-clay-water"
 }
 ]
 },
@@ -318,7 +322,7 @@
 "tokens": [
 {
 "surface": "kaṣāya+udaka+saṃyuktam",
-"quick_gloss": "with-astringent+water+mixed"
+"quick_gloss": "mixed-with-astringent-water"
 },
 {
 "surface": "gomūtreṇa",
@@ -326,7 +330,7 @@
 },
 {
 "surface": "udaka+antaram",
-"quick_gloss": "water+after"
+"quick_gloss": "alternately-with-water"
 }
 ]
 },
@@ -339,7 +343,7 @@
 "tokens": [
 {
 "surface": "liṅga+stha",
-"quick_gloss": "in-liṅga+dwelling"
+"quick_gloss": "in-liṅga"
 },
 {
 "surface": "śambare",
@@ -355,7 +359,7 @@
 },
 {
 "surface": "mantra+saṃhṛtiḥ",
-"quick_gloss": "mantra+withdrawal"
+"quick_gloss": "mantra-withdrawal"
 }
 ]
 },
@@ -367,20 +371,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jantu+kalpa+drava+arthaṃ",
-"quick_gloss": "for-creature+removal+purpose"
+"surface": "jantu+kalpa+drava+artham",
+"quick_gloss": "for-creature-removal-purpose"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "mantra+astram",
-"quick_gloss": "mantra+weapon"
+"quick_gloss": "weapon-mantra"
 },
 {
 "surface": "niyojayet",
-"quick_gloss": "should-apply"
+"quick_gloss": "should-employ"
 }
 ]
 },
@@ -397,15 +401,19 @@
 },
 {
 "surface": "samuddharet",
-"quick_gloss": "should-lift-up"
+"quick_gloss": "should-lift-out"
 },
 {
-"surface": "dipam",
-"quick_gloss": "light"
+"surface": "dīpam",
+"quick_gloss": "lamp"
 },
 {
-"surface": "tat+liṅga+aṇubhiḥ+anvitam",
-"quick_gloss": "with-that+liṅga+particles+endowed"
+"surface": "tat+liṅga+aṇubhiḥ",
+"quick_gloss": "with-that-liṅga-particles"
+},
+{
+"surface": "anvitam",
+"quick_gloss": "endowed"
 }
 ]
 },
@@ -422,19 +430,19 @@
 },
 {
 "surface": "saṃśoddhyatam",
-"quick_gloss": "well-purified"
+"quick_gloss": "should-be-thoroughly-purified"
 },
 {
-"surface": "liṅgaṃ",
+"surface": "liṅgam",
 "quick_gloss": "liṅga"
 },
 {
 "surface": "pūrva+dravyaiḥ",
-"quick_gloss": "with-previous+substances"
+"quick_gloss": "with-previous-substances"
 },
 {
 "surface": "śareṇa",
-"quick_gloss": "with-śara-mantra"
+"quick_gloss": "with-weapon-mantra"
 },
 {
 "surface": "ca",
@@ -451,11 +459,11 @@
 "tokens": [
 {
 "surface": "sva+sva+mantra+samopetam",
-"quick_gloss": "with-own+own+mantra+endowed"
+"quick_gloss": "endowed-with-its-own-mantra"
 },
 {
 "surface": "sva+sva+homa+samanvitam",
-"quick_gloss": "with-own+own+oblation+accompanied"
+"quick_gloss": "accompanied-by-its-own-homa"
 }
 ]
 },
@@ -468,7 +476,7 @@
 "tokens": [
 {
 "surface": "lakṣaṇa+uddhāraṇāt",
-"quick_gloss": "by-characteristic+extraction"
+"quick_gloss": "by-extraction-of-marks"
 },
 {
 "surface": "na+iṣṭam",
@@ -480,11 +488,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "indeed"
+"quick_gloss": "and"
 },
 {
 "surface": "eva",
-"quick_gloss": "and"
+"quick_gloss": "indeed"
 },
 {
 "surface": "adhivāsanam",
@@ -501,7 +509,7 @@
 "tokens": [
 {
 "surface": "garbha+gehe",
-"quick_gloss": "in-womb-house"
+"quick_gloss": "in-sanctum"
 },
 {
 "surface": "atha",
@@ -534,23 +542,23 @@
 "tokens": [
 {
 "surface": "svayaṃ+bhūḥ",
-"quick_gloss": "self-born"
+"quick_gloss": "for-self-born"
 },
 {
 "surface": "daivike",
-"quick_gloss": "divine"
+"quick_gloss": "for-divine"
 },
 {
 "surface": "bāṇe",
-"quick_gloss": "bāṇa-liṅga"
+"quick_gloss": "for-bāṇa"
 },
 {
 "surface": "ārṣe",
-"quick_gloss": "sage-made"
+"quick_gloss": "for-sage-made"
 },
 {
 "surface": "gāṇa+adhipe",
-"quick_gloss": "gaṇeśa-lord"
+"quick_gloss": "for-gaṇādhipa"
 },
 {
 "surface": "tathā",
@@ -566,20 +574,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "diśā+homa+anta+taḥ",
-"quick_gloss": "directional+oblation+ending"
+"surface": "diśā+homa+antataḥ",
+"quick_gloss": "ending-with-directional-homa"
 },
 {
 "surface": "kuryāt",
 "quick_gloss": "should-do"
 },
 {
-"surface": "ṛg+ādi",
-"quick_gloss": "ṛg-veda+beginning"
+"surface": "ṛk+ādi+adhyana+antataḥ",
+"quick_gloss": "ending-with-ṛg-etc.-meditation"
 },
 {
-"surface": "adhyana+anta+tathā",
-"quick_gloss": "study+ending"
+"surface": "tathā",
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -591,8 +599,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śānti+homa+anta+taḥ",
-"quick_gloss": "peace+oblation+ending"
+"surface": "śānti+homa+antataḥ",
+"quick_gloss": "ending-with-pacification-homa"
 },
 {
 "surface": "kṛtvā",
@@ -600,11 +608,11 @@
 },
 {
 "surface": "snapanam",
-"quick_gloss": "bathing"
+"quick_gloss": "ablution"
 },
 {
 "surface": "kārayet",
-"quick_gloss": "should-cause"
+"quick_gloss": "should-cause-to-perform"
 },
 {
 "surface": "tataḥ",
@@ -621,7 +629,7 @@
 "tokens": [
 {
 "surface": "prabhūta+haviṣam",
-"quick_gloss": "abundant+oblation"
+"quick_gloss": "abundant-oblation"
 },
 {
 "surface": "datvā",
@@ -633,7 +641,7 @@
 },
 {
 "surface": "dāpayet",
-"quick_gloss": "should-give"
+"quick_gloss": "should-cause-to-give"
 },
 {
 "surface": "tataḥ",
@@ -650,7 +658,7 @@
 "tokens": [
 {
 "surface": "mudga+annam",
-"quick_gloss": "mung-bean+rice"
+"quick_gloss": "mung-bean-rice"
 },
 {
 "surface": "pāyasam",
@@ -658,11 +666,11 @@
 },
 {
 "surface": "gaulam",
-"quick_gloss": "sugarcane-preparation"
+"quick_gloss": "jaggery-preparation"
 },
 {
 "surface": "kadalī+phala+saṃyutam",
-"quick_gloss": "with-banana+fruit+joined"
+"quick_gloss": "with-plantain-fruit"
 }
 ]
 },
@@ -683,11 +691,11 @@
 },
 {
 "surface": "nityam",
-"quick_gloss": "daily"
+"quick_gloss": "always"
 },
 {
 "surface": "svarṇa+vastra+ādibhiḥ",
-"quick_gloss": "with-gold+garments+etc."
+"quick_gloss": "with-gold-clothes-etc."
 },
 {
 "surface": "tataḥ",
@@ -704,15 +712,15 @@
 "tokens": [
 {
 "surface": "sarvaiḥ+aṅgaiḥ",
-"quick_gloss": "with-all+limbs"
+"quick_gloss": "with-all-limbs"
 },
 {
 "surface": "viśīrṇam",
-"quick_gloss": "broken"
+"quick_gloss": "if-broken"
 },
 {
 "surface": "cet",
-"quick_gloss": "if"
+"quick_gloss": "cet"
 },
 {
 "surface": "punaḥ",
@@ -720,7 +728,7 @@
 },
 {
 "surface": "saṃsthāpayet",
-"quick_gloss": "should-establish"
+"quick_gloss": "should-install"
 },
 {
 "surface": "navam",

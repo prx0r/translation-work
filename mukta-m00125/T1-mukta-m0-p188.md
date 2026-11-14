@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p188-v4676
-[each](pratyekaṃ) [as-before](pūrvavat) [having-offered-oblation](hutvā) [in-second](dvitīye) [priest](deśikaḥ) [pure](śuciḥ)
+[separately](pratyekaṃ) [as-before+having-offered](pūrvavad+dhutvā) [in-second](dvitīye) [teacher+pure](deśikaś+śuciḥ)
 
 ## mukta-m0-p188-v4677
-[priest+and-others](deśika+ādīn) [and](ca) [having-worshipped](saṃpūjya) [fee](dakṣiṇāṃ) [should-cause-to-give](dāpayet) [then](tataḥ)
+[teacher+and-others+and](deśikādīṃś+ca) [having-worshipped](saṃpūjya) [fee](dakṣiṇāṃ) [should-cause-to-give+then](dāpayet+tataḥ)
 
 ## mukta-m0-p188-v4678
-[from-pot](kumbhāt) [seed-mantra](bījaṃ) [having-taken](samādāya) [in-own-place+heart](sadeśa+hṛdi) [should-place](vinyaset)
+[from-pot+seed](kumbhād+bījaṃ) [having-taken](samādāya) [own-place+in-heart](sadeśa+hṛdi) [should-place](vinyaset)
 
 ## mukta-m0-p188-v4679
-[innate](sahajā) [if](yadi) [she](sā) [goddess](devī) [of-her](tasyāḥ) [then](tu) [in-heart](hṛdi) [should-place](vinyaset)
+[innate](sahajā) [if](yadi) [she](sā) [goddess](devī) [of-her+indeed](tasyās+tu) [in-heart](hṛdi) [should-place](vinyaset)
 
 ## mukta-m0-p188-v4680
-[with-those+respective+pot+waters](tattad+ghaṭa+udakaiḥ) [and](ca) [indeed](eva) [in-that+respective-place](tattad+deśe) [one-should-sprinkle](abhiṣecayet)
+[that+that+pot+with-waters+and+indeed](tattad+ghaṭodakaiś+ca+iva) [in-that+that+place](tattad+deśe) [should-sprinkle](’bhiṣecayet)
 
 ## mukta-m0-p188-v4681
-[of-goddess](devyāḥ) [and](ca) [bathing](snapanaṃ) [having-done](kṛtvā) [auspicious-rite](kalyāṇaṃ) [should-cause-to-perform](kārayet) [then](tataḥ)
+[of-goddess+and](devyāś+ca) [bathing](snapanaṃ) [having-done](kṛtvā) [auspicious-rite](kalyāṇaṃ) [should-cause-to-perform+then](kārayet+tataḥ)
 
 ## mukta-m0-p188-v4682
-[daily-worship+and-so-forth](nitya+arcana+ādikaṃ) [all](sarvaṃ) [as-before](prākvat) [indeed](eva) [one-should-perform](samācaret)
+[daily+worship+and-so-forth](nityārcanādikaṃ) [all](sarvaṃ) [as-before+indeed](prāgvad+eva) [should-perform](samācaret)
 
 ## mukta-m0-p188-v4683
-[here](iha) [indeed](eva) [enjoyments](bhogān) [having-enjoyed](bhuktvā) [desired](iṣṭān) [he](saḥ) [in-end](ante) [should-go](yāyāt) [to-Śiva](śivaṃ) [supreme](param)
+[here+indeed](iha+iva) [enjoyments](bhogān) [having-enjoyed+desired](bhuktv+eṣṭān) [he+in-end](so+’nte) [should-go+to-Śiva](yāyāc+chivaṃ) [supreme](param)
 
 ## mukta-m0-p188-v4684
-[stone+and-other+material](śilā+ādi+dravyam) [having-obtained](āpādya) [with-them](taiḥ) [should-make](kuryāt) [image](pratimāṃ) [then](tataḥ)
+[stone+and-so-forth+material](śilādi+dravyam) [having-obtained](āpādya) [with-them](taiḥ) [should-make](kuryāt) [image](pratimāṃ) [then](tataḥ)
 
 ## mukta-m0-p188-v4685
-[Gaurī+installation](gaurī+pratiṣṭhā) [to-be-done](kartavyā) [in-desired](iṣṭe) [place](deśe) [delightful](manorame)
+[Gaurī+installation](gaurī+pratiṣṭhā) [to-be-done](kartavyā) [in-desired](iṣṭa) [place](deśe) [charming](manorame)
 
 ## mukta-m0-p188-v4686
-[of-her](tasyāḥ) [shrine](dhāma) [to-be-made](vidhātavyam) [height+and-so-forth](utsedha+ādyaṃ) [but](tu) [as-before](pūrvavat)
+[of-her](tasyā) [shrine](dhāma) [to-be-made+height+and-so-forth](vidhātavyam+utsedhādyaṃ) [indeed](tu) [as-before](pūrvavat)
 
 ## mukta-m0-p188-v4687
-[enclosure+form](valabhī+ākāram) [desired](iṣṭaṃ) [if](cet) [into-four-parts](caturdhā) [one-should-divide](vibhajet) [that-width](tatim)
+[hall+form+desired](valabhy+ākāram+iṣṭaṃ) [if](cet) [into-four-parts](caturdhā) [should-divide+width](vibhajet+tatim)
 
 ## mukta-m0-p188-v4688
-[by-one-part](ekena) [wall](bhittiḥ) [prescribed](uddiṣṭā) [into-three-parts](tridhā) [or](vā) [one-should-divide](vibhajet) [that-width](tatim)
+[by-one](ekena) [wall+prescribed](bhittir+uddiṣṭā) [into-three-parts](tridhā) [or](vā) [should-divide+width](vibhajet+tatim)
 
 ## mukta-m0-p188-v4689
-[into-four-parts](caturdhā) [when-divided](bhājite) [width](tāre) [by-six-parts](ṣaḍbhiḥ) [length](dairghyam) [or-else](athāpi) [or](vā)
+[into-four-parts](caturdhā) [when-divided](bhājite) [width](tāre) [by-six+length+now+also](ṣaḍbhir+dairghyam+athāpi) [or](vā)
 
 ## mukta-m0-p188-v4690
-[into-five-parts](pañcadhā) [when-divided](bhājite) [width](tāre) [length](daighyaṃ) [by-six-parts](ṣaḍbhiḥ) [or-else](athāpi) [or](vā)
+[into-five-parts](pañcadhā) [when-divided](bhājite) [width](tāre) [length](daighyaṃ) [by-six+now+also](ṣaḍbhir+athāpi) [or](vā)
 
 ## mukta-m0-p188-v4691
-[by-seven](saptabhiḥ) [or](tu) [by-eight](aṣṭabhiḥ) [or](vā) [or](atha) [by-nine](navabhiḥ) [by-ten](daśabhiḥ) [likewise](tathā)
+[by-seven+indeed+by-eight+or+now](saptabhis+tv+aṣṭabhir+vā+atha) [by-nine+by-ten+likewise](navabhir+daśabhis+tathā)
 
 ## mukta-m0-p188-v4692
-[length](āyāmaṃ) [of-sanctum+and-wall](garbha+bhityoḥ) [and](ca) [as-before](pūrvavat) [one-should-determine](parikalpayet)
+[length](āyāmaṃ) [of-sanctum+and-wall+and](garbha+bhityoś+ca) [as-before+should-determine](pūrvavat+parikalpayet)
 
 ## mukta-m0-p188-v4693
-[up-to-twice+that+measure](tattad+dviguṇa+māna+antam) [length](āyāmaṃ) [one-should-determine](parikalpayet)
+[that+that+double+measure+up-to+length](tattad+dvi+guṇa+mānāntam+āyāmaṃ) [should-determine](parikalpayet)
 
 ## mukta-m0-p188-v4694
-[by-quarter](pādena) [or](vā) [by-half+part](ardha+bhāgena) [by-three-quarters](tripādena) [on-all-sides](samantataḥ)
+[by-quarter](pādena) [or+by-half+part](vā+rdha+bhāgena) [by-three-quarters](tripādena) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p188-v4695
-[having-left](hitvā) [verandah](ālindaṃ) [from-outer+part](bahis+bhāgāt) [solid-mass](ghanaṃ) [or](vā) [all](sarvam) [is-desired](iṣyate)
+[having-left+corridor](hitv+ālindaṃ) [from-outer+part+space](bahir+bhāgād+dhanaṃ) [or](vā) [all+is-desired](sarvam+iṣyate)
 
 ## mukta-m0-p188-v4696
-[hall+form](śālā+ākāraṃ) [assembly-hall+form](sabhā+ākāraṃ) [temple+form](prāsāda+ākāram) [indeed](eva) [and](ca)
+[hall+form](śālākāraṃ) [assembly-hall+form](sabhākāraṃ) [temple+form+indeed](prāsādākāram+eva) [and](ca)
 
 ## mukta-m0-p188-v4697
-[among-directional+deities](dik+devatāsu) [of-goddess](devyāḥ) [but](tu) [form+varieties](rūpa+bhedāḥ) [are-declared](prakīrtitāḥ)
+[in-directional+deities](dig+devatāsu) [of-goddess+indeed](devyās+tu) [form+varieties](rūpa+bhedāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p188-v4698
-[lion](siṃhaḥ) [or](vā) [bull](vṛṣabhaḥ) [or-else](vāpi) [vehicle](vāhanaṃ) [is-declared](parikīrtitam)
+[lion](siṃhā) [or](vā) [bull](vṛṣabho) [or+also](vā+pi) [vehicle](vāhanaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p188-v4699
-[east-facing](pūrva+āsyam) [west-facing](paścima+āsyam) [or](vā) [south-facing](dakṣiṇa+āsyam) [is-stated](samīritam)
+[east+facing](pūrvāsyaṃ) [west+facing](paścimāsyaṃ) [or](vā) [south+facing](dakṣiṇāsyaṃ) [is-stated](samīritam)
 
 ## mukta-m0-p188-v4700
-[made](kṛtā) [if](cet) [by-sanctum+measure](garbha+mānena) [its+width](tad+vistāraḥ) [is-distinguished](viśiṣyate)
+[made](kṛtā) [if+by-sanctum+measure](ced+garbha+mānena) [its+width](tad+vistāro) [is-distinguished](viśiṣyate)

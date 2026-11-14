@@ -1,0 +1,1111 @@
+{
+ "song": "mukta-m0-p153",
+ "items": [
+  {
+   "verse": 3801,
+   "rows": [
+    {
+     "surface": "bhūmeḥ",
+     "gloss": "of-ground",
+     "grounds": "object of taking possession",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "parigrahaṃ",
+     "gloss": "taking-possession",
+     "grounds": "ritual act of claiming the site",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completes the prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "parimāṇaṃ",
+     "gloss": "measurement",
+     "grounds": "extent of the ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "on-all-sides",
+     "grounds": "indicates complete extent",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What initial actions must be performed to prepare the ritual ground?",
+   "premises": [
+    "The ground must first be taken into possession.",
+    "Its measurement must be determined on all sides."
+   ],
+   "inference": "Ritual preparation begins with claiming and measuring the ground completely.",
+   "uncertainties": [],
+   "plain_english": "Having taken possession of the ground and measured it on all sides,"
+  },
+  {
+   "verse": 3802,
+   "rows": [
+    {
+     "surface": "grāme",
+     "gloss": "in-village",
+     "grounds": "location condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "krośamitaṃ",
+     "gloss": "krośa-measured",
+     "grounds": "prescribed extent in a village",
+     "morph": "krośa+measure n.nom.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "the ritual site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nagare",
+     "gloss": "in-city",
+     "grounds": "alternative location condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taddvayaṃ",
+     "gloss": "twice-that",
+     "grounds": "double the village measure",
+     "morph": "that+double n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "prescribed",
+     "grounds": "traditional injunction",
+     "morph": "n.nom.sg ppp √smṛ"
+    }
+   ],
+   "question": "What measurements are prescribed for the ritual site in a village and a city?",
+   "premises": [
+    "In a village the site is measured as one krośa.",
+    "In a city the prescribed measure is twice that."
+   ],
+   "inference": "The required extent of the ritual ground varies by settlement type.",
+   "uncertainties": [],
+   "plain_english": "In a village the place is prescribed as one krośa in measure, and in a city twice that."
+  },
+  {
+   "verse": 3803,
+   "rows": [
+    {
+     "surface": "nikhaned",
+     "gloss": "should-bury",
+     "grounds": "ritual installation act",
+     "morph": "3.sg.act.opt √khan"
+    },
+    {
+     "surface": "daśadigbhāge",
+     "gloss": "in-ten-directions",
+     "grounds": "location for placement",
+     "morph": "ten+direction+part m.loc.sg"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon",
+     "grounds": "protective ritual implement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual honoring act",
+     "morph": "3.sg.act.opt √pūj"
+    }
+   ],
+   "question": "What protective ritual actions must be performed in the ten directions?",
+   "premises": [
+    "The weapon should be buried in the ten directions.",
+    "The weapon should also be worshipped."
+   ],
+   "inference": "Directional protection requires both installation and worship of the weapon.",
+   "uncertainties": [],
+   "plain_english": "One should bury the weapon in the ten directions and worship it."
+  },
+  {
+   "verse": 3804,
+   "rows": [
+    {
+     "surface": "kṣetrapālādikāṃs",
+     "gloss": "field-guardians-and-others",
+     "grounds": "protective deities to be honored",
+     "morph": "field+guardian+etc m.acc.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that prepared site",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual honoring act",
+     "morph": "3.sg.act.opt √pūj"
+    },
+    {
+     "surface": "vidhivittamaḥ",
+     "gloss": "best-knower-of-rite",
+     "grounds": "qualified ritual practitioner",
+     "morph": "rite+knower+best m.nom.sg"
+    }
+   ],
+   "question": "Who should worship the field guardians and related deities at the site?",
+   "premises": [
+    "The field guardians and others are to be worshipped there.",
+    "The worship should be performed by one most skilled in ritual."
+   ],
+   "inference": "A qualified ritual expert must honor the site guardians.",
+   "uncertainties": [],
+   "plain_english": "There the one most skilled in ritual should worship the field guardians and others."
+  },
+  {
+   "verse": 3805,
+   "rows": [
+    {
+     "surface": "kūrmacakram",
+     "gloss": "tortoise-wheel",
+     "grounds": "ritual diagram to be known",
+     "morph": "tortoise+wheel n.acc.sg"
+    },
+    {
+     "surface": "avijñāya",
+     "gloss": "not-knowing",
+     "grounds": "lack of required knowledge",
+     "morph": "(gerund) a+√jñā"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "subject performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "would-perform",
+     "grounds": "undertakes the ritual",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "japayajñakam",
+     "gloss": "recitation-sacrifice",
+     "grounds": "ritual of mantra repetition",
+     "morph": "recitation+sacrifice m.acc.sg"
+    }
+   ],
+   "question": "What condition invalidates the performance of a recitation sacrifice?",
+   "premises": [
+    "The tortoise-wheel must be known for the rite.",
+    "Someone may perform the recitation sacrifice without knowing it."
+   ],
+   "inference": "Performing the recitation sacrifice without knowledge of the tortoise-wheel is faulty.",
+   "uncertainties": [],
+   "plain_english": "Whoever would perform a recitation sacrifice without knowing the tortoise-wheel,"
+  },
+  {
+   "verse": 3806,
+   "rows": [
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "result when done correctly",
+     "morph": "3.sg.act.pres √āp"
+    },
+    {
+     "surface": "sakalānyuktāni",
+     "gloss": "all-stated-results",
+     "grounds": "complete promised benefits",
+     "morph": "all+stated n.acc.pl"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "contrary condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "negative outcome",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eti",
+     "gloss": "goes-to",
+     "grounds": "experiences the result",
+     "morph": "3.sg.act.pres √i"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects outcomes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What outcomes follow from knowing or not knowing the tortoise-wheel in recitation?",
+   "premises": [
+    "With proper knowledge one obtains all the stated results.",
+    "Otherwise one meets with destruction."
+   ],
+   "inference": "Knowledge of the tortoise-wheel determines success or ruin in the rite.",
+   "uncertainties": [],
+   "plain_english": "obtains all the stated results; otherwise he goes to destruction."
+  },
+  {
+   "verse": 3807,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "it",
+     "grounds": "the tortoise-wheel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "mode of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "situated",
+     "grounds": "established arrangement",
+     "morph": "m.nom.sg ppp √sthā"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "domain of application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tatprakāraḥ",
+     "gloss": "its-manner",
+     "grounds": "its specific form",
+     "morph": "its+manner m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "introduces explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "scriptural declaration",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "How is the tortoise-wheel said to be arranged in the world?",
+   "premises": [
+    "The tortoise-wheel is situated fourfold in the world.",
+    "Its manner is now explained."
+   ],
+   "inference": "The tortoise-wheel has a fourfold arrangement that is to be described.",
+   "uncertainties": [],
+   "plain_english": "It is situated fourfold in the world; its manner is stated thus."
+  },
+  {
+   "verse": 3808,
+   "rows": [
+    {
+     "surface": "grāmago",
+     "gloss": "village-going",
+     "grounds": "first type of arrangement",
+     "morph": "village+going m.nom.sg"
+    },
+    {
+     "surface": "gṛhagaḥ",
+     "gloss": "house-going",
+     "grounds": "second type of arrangement",
+     "morph": "house+going m.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "marks enumeration",
+     "morph": "ca+iti (indecl.)"
+    },
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "total classification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "it",
+     "grounds": "the tortoise-wheel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "arranged",
+     "grounds": "established classification",
+     "morph": "m.nom.sg ppp vi+ava+√sthā"
+    }
+   ],
+   "question": "What are the named forms in the fourfold arrangement of the tortoise-wheel?",
+   "premises": [
+    "It is described as village-going and house-going.",
+    "It is arranged in four forms altogether."
+   ],
+   "inference": "The tortoise-wheel is classified into four forms including village-going and house-going.",
+   "uncertainties": [
+    "Only two of the four forms are explicitly named in this verse."
+   ],
+   "plain_english": "As village-going and house-going, it is arranged fourfold."
+  },
+  {
+   "verse": 3809,
+   "rows": [
+    {
+     "surface": "prāgādipaścimāntaṃ",
+     "gloss": "from-east-to-west-end",
+     "grounds": "directional span for placement",
+     "morph": "east+etc+west+end n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kādimāntāni",
+     "gloss": "ka-beginning-to-ma-ending",
+     "grounds": "consonant groups to be placed",
+     "morph": "ka+etc+ma+end n.acc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.act.opt vi+ni+√as"
+    }
+   ],
+   "question": "How should the consonant groups be placed across the directional span?",
+   "premises": [
+    "The span runs from east to west.",
+    "The groups from ka to ma should be placed along it."
+   ],
+   "inference": "The consonant series from ka to ma is to be arranged from east to west.",
+   "uncertainties": [],
+   "plain_english": "One should place the letters from ka to ma from the east to the west."
+  },
+  {
+   "verse": 3810,
+   "rows": [
+    {
+     "surface": "īśe",
+     "gloss": "in-northeast",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "two elements to place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atho",
+     "gloss": "then",
+     "grounds": "continues instruction",
+     "morph": "atha+u (indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svarān",
+     "gloss": "vowels",
+     "grounds": "letters to be placed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prāgādi",
+     "gloss": "beginning-from-east",
+     "grounds": "starting direction",
+     "morph": "east+etc n.acc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.act.opt vi+ni+√as"
+    }
+   ],
+   "question": "Where should the pair and the vowels be placed within the diagram?",
+   "premises": [
+    "A pair is placed in the northeast.",
+    "The vowels are placed in the middle beginning from the east."
+   ],
+   "inference": "The diagram requires specific placement of a pair in the northeast and vowels in the center.",
+   "uncertainties": [
+    "The identity of the pair is not specified in this verse."
+   ],
+   "plain_english": "One should place a pair in the northeast, and then place the vowels in the middle beginning from the east."
+  },
+  {
+   "verse": 3811,
+   "rows": [
+    {
+     "surface": "tanmukhaṃ",
+     "gloss": "its-face",
+     "grounds": "part of the tortoise diagram",
+     "morph": "its+face n.nom.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "at-sides",
+     "grounds": "lateral parts",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "pāṇī",
+     "gloss": "hands",
+     "grounds": "limb parts of the diagram",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kukṣiḥ",
+     "gloss": "belly",
+     "grounds": "central body part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "lower limb parts",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tatastataḥ",
+     "gloss": "in-various-places",
+     "grounds": "distributed locations",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bodily parts of the tortoise diagram are identified for placement?",
+   "premises": [
+    "The diagram includes a face, sides, hands, belly, and feet.",
+    "These parts are assigned in their respective places."
+   ],
+   "inference": "The tortoise-wheel is mapped onto distinct bodily parts of the tortoise.",
+   "uncertainties": [],
+   "plain_english": "Its face, hands at the sides, belly, and feet are in their respective places."
+  },
+  {
+   "verse": 3812,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "in-face",
+     "grounds": "location in the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvārthasiddhiḥ",
+     "gloss": "all-purpose-success",
+     "grounds": "result of placement",
+     "morph": "all+purpose+success f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "predicted outcome",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "karayoḥ",
+     "gloss": "in-hands",
+     "grounds": "location in the diagram",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "sarvasiddhayaḥ",
+     "gloss": "all-successes",
+     "grounds": "result of placement",
+     "morph": "all+success f.nom.pl"
+    }
+   ],
+   "question": "What results arise from placement in the face and hands of the tortoise?",
+   "premises": [
+    "Placement in the face yields success in all purposes.",
+    "Placement in the hands yields all successes."
+   ],
+   "inference": "Different parts of the tortoise diagram confer different auspicious results.",
+   "uncertainties": [],
+   "plain_english": "In the face there would be success in all purposes; in the hands, all successes."
+  },
+  {
+   "verse": 3813,
+   "rows": [
+    {
+     "surface": "pucche",
+     "gloss": "in-tail",
+     "grounds": "location in the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "inauspicious result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "emphasizes inevitability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvārthasiddhayaḥ",
+     "gloss": "all-purpose-successes",
+     "grounds": "auspicious results elsewhere",
+     "morph": "all+purpose+success f.nom.pl"
+    }
+   ],
+   "question": "What contrasting results are associated with the tail and other parts of the tortoise?",
+   "premises": [
+    "Placement in the tail certainly brings death.",
+    "Other placements bring success in all purposes."
+   ],
+   "inference": "The tail is an inauspicious location unlike the other parts.",
+   "uncertainties": [
+    "The verse states both death and all-purpose successes; the latter may refer to remaining parts not named here."
+   ],
+   "plain_english": "In the tail there is certainly death, but in the others there are successes in all purposes."
+  },
+  {
+   "verse": 3814,
+   "rows": [
+    {
+     "surface": "arṇaṃ",
+     "gloss": "syllable",
+     "grounds": "mantric element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "binduyutaṃ",
+     "gloss": "joined-with-bindu",
+     "grounds": "modification of the syllable",
+     "morph": "bindu+joined n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "preparatory act",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "sveṣṭamantraṃ",
+     "gloss": "own-chosen-mantra",
+     "grounds": "practitioner’s selected mantra",
+     "morph": "own+desired+mantra m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "ritual repetition",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "good+intellect m.nom.sg"
+    }
+   ],
+   "question": "How should a wise practitioner prepare and recite the chosen mantra?",
+   "premises": [
+    "The syllable should be made joined with bindu.",
+    "The wise one should then recite the chosen mantra."
+   ],
+   "inference": "Proper mantra recitation requires adding bindu to the syllable.",
+   "uncertainties": [],
+   "plain_english": "Having made the syllable joined with bindu, the wise one should recite his chosen mantra."
+  },
+  {
+   "verse": 3815,
+   "rows": [
+    {
+     "surface": "kṣārṇaṃ",
+     "gloss": "kṣa-syllable",
+     "grounds": "specific syllable to be used",
+     "morph": "kṣa+syllable m.acc.sg"
+    },
+    {
+     "surface": "merum",
+     "gloss": "meru",
+     "grounds": "central support in the diagram",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atho",
+     "gloss": "then",
+     "grounds": "continues instruction",
+     "morph": "atha+u (indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-construct",
+     "grounds": "ritual visualization or placement",
+     "morph": "3.sg.act.opt √kḷp"
+    },
+    {
+     "surface": "jagadīśvari",
+     "gloss": "world-lady",
+     "grounds": "address to the goddess",
+     "morph": "world+lady f.voc.sg"
+    }
+   ],
+   "question": "What syllable should be constructed as Meru in the ritual arrangement?",
+   "premises": [
+    "The kṣa syllable is to be used.",
+    "It should be constructed there as Meru."
+   ],
+   "inference": "The kṣa syllable functions as the Meru in this arrangement.",
+   "uncertainties": [],
+   "plain_english": "Then, O Lady of the world, one should construct the kṣa syllable there as Meru."
+  },
+  {
+   "verse": 3816,
+   "rows": [
+    {
+     "surface": "anayā",
+     "gloss": "by-this",
+     "grounds": "by this method",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "sarvamantrāṇāṃ",
+     "gloss": "of-all-mantras",
+     "grounds": "scope of application",
+     "morph": "all+mantra m.gen.pl"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "ritual practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvārthasādhakaḥ",
+     "gloss": "all-purpose-accomplishing",
+     "grounds": "efficacy of the method",
+     "morph": "all+purpose+accomplishing m.nom.sg"
+    }
+   ],
+   "question": "What efficacy does this method confer on the recitation of all mantras?",
+   "premises": [
+    "Recitation is performed by this method.",
+    "It applies to all mantras."
+   ],
+   "inference": "By this method, recitation of any mantra accomplishes all purposes.",
+   "uncertainties": [],
+   "plain_english": "By this method, the recitation of all mantras accomplishes all purposes."
+  },
+  {
+   "verse": 3817,
+   "rows": [
+    {
+     "surface": "ekaikāntaritaṃ",
+     "gloss": "alternating-one-by-one",
+     "grounds": "pattern of recitation",
+     "morph": "one+one+interrupted m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalapradam",
+     "gloss": "fruit-giving",
+     "grounds": "resulting efficacy",
+     "morph": "fruit+giving m.acc.sg"
+    }
+   ],
+   "question": "What pattern of mantra recitation is prescribed to yield results?",
+   "premises": [
+    "The mantra should be recited in an alternating one-by-one pattern.",
+    "Such recitation gives fruit."
+   ],
+   "inference": "Alternating recitation of the mantra is an effective, fruit-giving method.",
+   "uncertainties": [
+    "The exact alternation pattern is not fully specified."
+   ],
+   "plain_english": "One should thus recite the mantra alternating one by one, as it gives fruit."
+  },
+  {
+   "verse": 3818,
+   "rows": [
+    {
+     "surface": "tadābhimukhyacihnāni",
+     "gloss": "signs-of-facing-that",
+     "grounds": "indicators of orientation or readiness",
+     "morph": "that+facing+sign n.nom.pl"
+    },
+    {
+     "surface": "vighnāni",
+     "gloss": "obstacles",
+     "grounds": "hindrances to success",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "prāktanādyataḥ",
+     "gloss": "from-former-and-so-on",
+     "grounds": "source in prior causes",
+     "morph": "former+etc (indecl.)"
+    }
+   ],
+   "question": "What is the source of the obstacles indicated by signs of facing that state?",
+   "premises": [
+    "Signs of facing that state appear.",
+    "Obstacles arise from former causes and the like."
+   ],
+   "inference": "Obstacles signaled in this context originate from prior causes.",
+   "uncertainties": [
+    "The referent of 'that' and the exact signs are unclear from this verse alone."
+   ],
+   "plain_english": "The signs of facing that are obstacles arising from former causes and so on."
+  },
+  {
+   "verse": 3819,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "means of attainment",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "martyaḥ",
+     "gloss": "mortal",
+     "grounds": "human practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasizes possibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyeta",
+     "gloss": "would-succeed",
+     "grounds": "attainment of perfection",
+     "morph": "3.sg.act.opt √sidh"
+    },
+    {
+     "surface": "jīvanmuktaḥ",
+     "gloss": "liberated-while-living",
+     "grounds": "state of liberation in life",
+     "morph": "living+liberated m.nom.sg"
+    },
+    {
+     "surface": "bhavanmayaḥ",
+     "gloss": "becoming-me",
+     "grounds": "identification with the deity",
+     "morph": "becoming+me m.nom.sg"
+    }
+   ],
+   "question": "What spiritual attainment can a mortal achieve through this practice?",
+   "premises": [
+    "By this means even a mortal can succeed.",
+    "The attainment is liberation while living and becoming identified with the deity."
+   ],
+   "inference": "The practice enables a mortal to attain living liberation and identity with the deity.",
+   "uncertainties": [],
+   "plain_english": "By which even a mortal may succeed, becoming liberated while living and becoming one with me."
+  },
+  {
+   "verse": 3820,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "spiritual preceptor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vittena",
+     "gloss": "with-wealth",
+     "grounds": "offering to the teacher",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃtoṣya",
+     "gloss": "having-satisfied",
+     "grounds": "pleasing the teacher",
+     "morph": "(gerund) sam+√tuṣ"
+    },
+    {
+     "surface": "raktāgare",
+     "gloss": "in-red-circle",
+     "grounds": "ritual location",
+     "morph": "red+circle n.loc.sg"
+    },
+    {
+     "surface": "kramaṃ",
+     "gloss": "sequence",
+     "grounds": "prescribed ritual order",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "should-practice",
+     "grounds": "undertake the ritual sequence",
+     "morph": "3.sg.act.opt √bhaj"
+    }
+   ],
+   "question": "What preliminary acts are required before practicing the sequence in the red circle?",
+   "premises": [
+    "The teacher must be satisfied with wealth.",
+    "After that one should practice the sequence in the red circle."
+   ],
+   "inference": "Satisfying the guru precedes undertaking the ritual sequence in the red circle.",
+   "uncertainties": [
+    "The exact nature of the red circle is not specified."
+   ],
+   "plain_english": "Having satisfied the teacher with wealth, one should practice the sequence in the red circle."
+  },
+  {
+   "verse": 3821,
+   "rows": [
+    {
+     "surface": "mocāguḍasitāpetaṃ",
+     "gloss": "with-plantain-jaggery-sugar",
+     "grounds": "ingredients included in the offering",
+     "morph": "plantain+jaggery+white+endowed n.acc.sg"
+    },
+    {
+     "surface": "payaḥ",
+     "gloss": "milk",
+     "grounds": "base ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāyasam",
+     "gloss": "rice-pudding",
+     "grounds": "prepared offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arpayet",
+     "gloss": "should-offer",
+     "grounds": "ritual offering act",
+     "morph": "3.sg.act.opt √ṛ"
+    }
+   ],
+   "question": "What food offering should be presented in this ritual sequence?",
+   "premises": [
+    "Milk rice-pudding is to be prepared.",
+    "It should include plantain, jaggery, and sugar."
+   ],
+   "inference": "The prescribed offering is rice-pudding made with milk, plantain, jaggery, and sugar.",
+   "uncertainties": [],
+   "plain_english": "One should offer rice-pudding made with milk, plantain, jaggery, and sugar."
+  },
+  {
+   "verse": 3822,
+   "rows": [
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daśāṃśataḥ",
+     "gloss": "as-tenth-part",
+     "grounds": "proportion relative to recitation",
+     "morph": "tenth+part (indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "ritual satisfaction offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cendumajjalaiḥ",
+     "gloss": "with-moon-water",
+     "grounds": "substance for libation",
+     "morph": "moon+water n.ins.pl"
+    }
+   ],
+   "question": "What proportions and substances are prescribed for the fire offering and libation?",
+   "premises": [
+    "The fire offering should be performed as a tenth part.",
+    "Libation should be performed with moon-water."
+   ],
+   "inference": "The ritual requires a tenth-part fire offering and libation with moon-water.",
+   "uncertainties": [
+    "The meaning of moon-water is not specified."
+   ],
+   "plain_english": "One should perform the fire offering as a tenth part and the libation with moon-water."
+  },
+  {
+   "verse": 3823,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "by that procedure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "pūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "fulfilled count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "target number of recitations",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇāntam",
+     "gloss": "ending-in-completion",
+     "grounds": "brought to full completion",
+     "morph": "complete+end n.nom.sg"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "goddess",
+     "grounds": "address to the deity",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What completion is achieved by performing the prescribed ritual procedure?",
+   "premises": [
+    "The procedure should be performed as instructed.",
+    "By that the hundred-thousand becomes complete."
+   ],
+   "inference": "Performing the procedure brings the hundred-thousand recitations to completion.",
+   "uncertainties": [],
+   "plain_english": "One should perform it; by that, O Goddess, the hundred-thousand becomes fully complete."
+  },
+  {
+   "verse": 3824,
+   "rows": [
+    {
+     "surface": "tretāyāṃ",
+     "gloss": "in-tretā-age",
+     "grounds": "cosmic age condition",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "multiplied amount",
+     "morph": "two+fold n.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "comparison to prior rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāpare",
+     "gloss": "in-dvāpara-age",
+     "grounds": "cosmic age condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "triguṇam",
+     "gloss": "threefold",
+     "grounds": "multiplied amount",
+     "morph": "three+fold n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "prescribed",
+     "grounds": "traditional injunction",
+     "morph": "n.nom.sg ppp √smṛ"
+    }
+   ],
+   "question": "How does the required recitation count change in the Tretā and Dvāpara ages?",
+   "premises": [
+    "In the Tretā age the amount is twofold.",
+    "In the Dvāpara age it is prescribed as threefold."
+   ],
+   "inference": "The required recitation count increases in later cosmic ages.",
+   "uncertainties": [],
+   "plain_english": "In the Tretā age it is twofold, and likewise in the Dvāpara age it is prescribed as threefold."
+  }
+ ]
+}

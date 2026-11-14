@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p154",
  "verse": 3843,
- "question": "What maximum multiple is declared for the width of the inner sanctum?",
+ "question": "Which body parts of the figure receive the sequential placements described?",
  "premises": [
-  "A fivefold proportion is mentioned.",
-  "The inner sanctum width is the subject.",
-  "This is declared as a rule."
+  "The figure has a face, sides, hands, belly, and feet.",
+  "Placements are assigned to these parts.",
+  "The sequence proceeds from one part to another."
  ],
- "inference": "The width of the inner sanctum is declared to be fivefold as an option.",
- "uncertainties": [],
- "plain_english": "The width of the inner sanctum is declared to be fivefold, if desired."
+ "inference": "The placements correspond to the face, sides, hands, belly, and feet in sequence.",
+ "uncertainties": [
+  "The exact mapping of letters to each body part is implied by prior context."
+ ],
+ "plain_english": "Its face, hands on the two sides, belly, and feet are assigned in sequence."
 }

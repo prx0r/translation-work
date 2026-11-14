@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3975,
+   "rows": [
+    {
+     "surface": "samānavarṇasūtreṇa",
+     "gloss": "with-equal-color-thread",
+     "grounds": "instrumental of a compound meaning a thread of the same color; used as the measuring implement",
+     "morph": "samāna+varṇa+sūtra-compound.n.ins.sg"
+    },
+    {
+     "surface": "māpayed",
+     "gloss": "one-should-measure",
+     "grounds": "optative verb expressing a ritual instruction to measure the garland",
+     "morph": "3.sg.act-opt.~mā"
+    },
+    {
+     "surface": "hṛdayāṇunā",
+     "gloss": "with-heart-seed-mantra",
+     "grounds": "instrumental of a compound referring to the heart-seed mantra employed in the act",
+     "morph": "hṛdaya+aṇu-compound.m.ins.sg"
+    }
+   ],
+   "question": "What instrument and mantra are prescribed for measuring the prepared garland?",
+   "premises": [
+    "The garland requires precise measurement in the ritual procedure.",
+    "A thread of equal color serves as the measuring instrument.",
+    "The heart-seed mantra accompanies the act of measuring."
+   ],
+   "inference": "The garland should be measured with a same-colored thread while employing the heart-seed mantra.",
+   "uncertainties": [
+    "The exact identity of the hṛdayāṇu mantra is not specified in this verse."
+   ],
+   "plain_english": "One should measure it with a thread of the same color, using the heart-seed mantra."
+  }
+ ]
+}

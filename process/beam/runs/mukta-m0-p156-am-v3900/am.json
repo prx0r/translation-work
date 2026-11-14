@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p156",
  "verse": 3900,
- "question": "What is to be constructed below that together with the sage and quality portions?",
+ "question": "What graduated sequence of thickness must the threaded elements follow?",
  "premises": [
-  "The verse names a location below that.",
-  "It names companions and portions.",
-  "It names foot-pavements."
+  "The first element in the sequence is thick.",
+  "The next element is smaller than that preceding one.",
+  "The following element is smaller still, continuing in the same manner."
  ],
- "inference": "Foot-pavements are to be made below that with the sage and quality portions.",
+ "inference": "The threaded elements must be arranged in a progressively diminishing order of thickness.",
  "uncertainties": [
-  "The exact syntactic role of muni is unclear.",
-  "The dual form pādakuṭṭimau may be nominative or accusative."
+  "The exact referent of the elements depends on the preceding verses describing the threading."
  ],
- "plain_english": "Below that, with the sage and the portions of qualities, the two foot-pavements are to be made."
+ "plain_english": "The first should be thick, then one smaller than that, then one smaller still, and so on in the same way."
 }

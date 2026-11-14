@@ -3,29 +3,39 @@
  "verse": 3900,
  "rows": [
   {
-   "lemma": "tadadhaḥ",
+   "lemma": "ādyaṃ",
+   "morph": "adj.nom/acc.sg.n",
+   "grounds": "initial element in the sequence"
+  },
+  {
+   "lemma": "sthūlaṃ",
+   "morph": "adj.nom/acc.sg.n",
+   "grounds": "describes the size of the first element"
+  },
+  {
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "adverbial compound tad+adhaḥ indicating position below that"
+   "grounds": "indicates sequential progression"
   },
   {
-   "lemma": "muni",
-   "morph": "m.nom.sg",
-   "grounds": "masculine noun; syntactic role depends on construction"
+   "lemma": "tasmāt",
+   "morph": "pron.abl.sg.n",
+   "grounds": "takes the preceding element as the point of comparison"
   },
   {
-   "lemma": "sārdhaṃ",
+   "lemma": "nyūnaṃ",
+   "morph": "adj.nom/acc.sg.n",
+   "grounds": "reduced in size relative to the previous"
+  },
+  {
+   "lemma": "nyūnataraṃ",
+   "morph": "adj.nom/acc.sg.n.comp",
+   "grounds": "comparative indicating further reduction in size"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable preposition accompanying an instrumental"
-  },
-  {
-   "lemma": "guṇāṃśaiḥ",
-   "morph": "m.inst.pl",
-   "grounds": "compound guṇa+amśa in instrumental plural"
-  },
-  {
-   "lemma": "pādakuṭṭimau",
-   "morph": "n.acc.du",
-   "grounds": "compound pāda+kuṭṭima in dual form"
+   "grounds": "marks the continuation of the same pattern"
   }
  ]
 }

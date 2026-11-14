@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p163",
+ "items": [
+  {
+   "verse": 4075,
+   "rows": [
+    {
+     "surface": "antaraṅgākṣarāṇāṃ",
+     "gloss": "of-inner-syllables",
+     "grounds": "compound of antaraṅga and akṣara",
+     "morph": "antaraṅga+akṣara.gen.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsapūrvaḥ",
+     "gloss": "preceded-by-nyāsa",
+     "grounds": "compound of nyāsa and pūrva",
+     "morph": "nyāsa+pūrva.nom.sg.m"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle of smṛ",
+     "morph": "ppp.nom.sg.m (√smṛ)"
+    }
+   ],
+   "question": "What preparatory act must precede the recitation of the inner syllables?",
+   "premises": [
+    "The recitation concerns the inner syllables.",
+    "This recitation is prescribed as preceded by nyāsa.",
+    "This prescription is remembered in the tradition."
+   ],
+   "inference": "Therefore, the recitation of the inner syllables must be performed after nyāsa.",
+   "uncertainties": [],
+   "plain_english": "And the recitation of the inner syllables is remembered as being preceded by nyāsa."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p161",
  "verse": 4015,
- "question": "What physical defects in a sacred image necessitate ritual attention?",
+ "question": "On which occasions is recitation classified as occasional rather than regular?",
  "premises": [
-  "Cracking is a defect in the image",
-  "Loss of color is a defect in the image",
-  "Loss of limbs and subsidiary limbs is a defect in the image"
+  "The twelfth day is specified.",
+  "The full-moon day is specified.",
+  "Recitation on those occasions is called occasional."
  ],
- "inference": "Cracking, loss of color, and loss of limbs or subsidiary limbs are defects requiring attention.",
- "uncertainties": [],
- "plain_english": "When there is cracking, loss of color, or loss of limbs and subsidiary limbs."
+ "inference": "Recitation performed on the twelfth day and full-moon day is occasional recitation.",
+ "uncertainties": [
+  "teṣu is masculine plural while referring to feminine occasions; taken as general locative reference."
+ ],
+ "plain_english": "On the twelfth day and on the full-moon day, the recitation is occasional."
 }

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3925,
+   "rows": [
+    {
+     "surface": "saṃkhyāhīnaṃ",
+     "gloss": "deficient-in-number",
+     "grounds": "compound of saṃkhyā (number) and hīna (devoid); object of kartavyam",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates kartavyam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "excessive",
+     "grounds": "more than the prescribed number; subject of duṣyati",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates duṣyati together with eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣyati",
+     "gloss": "is-faulty",
+     "grounds": "states the consequence of excess",
+     "morph": "3.sg.pres.act √duṣ"
+    }
+   ],
+   "question": "What ritual consequence follows from making the prescribed count deficient or excessive?",
+   "premises": [
+    "The prescribed count must not be made deficient.",
+    "An excessive count is also considered in relation to the rule.",
+    "An excessive count does not become faulty."
+   ],
+   "inference": "Deficiency in the prescribed count is prohibited, whereas excess does not incur fault.",
+   "uncertainties": [
+    "The exact referent of the count depends on the preceding verses' ritual context."
+   ],
+   "plain_english": "The count should not be made less than prescribed, but making it more is not at all faulty."
+  }
+ ]
+}
