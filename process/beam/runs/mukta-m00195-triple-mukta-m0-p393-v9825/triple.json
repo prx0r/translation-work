@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p393",
+ "items": [
+  {
+   "verse": 9825,
+   "rows": [
+    {
+     "surface": "dīna",
+     "gloss": "poor",
+     "grounds": "adjective describing recipients; construed with kṛpaṇaiḥ in the series dīna-andha-kṛpaṇaiḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "andha",
+     "gloss": "blind",
+     "grounds": "adjective describing recipients; construed with kṛpaṇaiḥ in the series dīna-andha-kṛpaṇaiḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛpaṇaiḥ",
+     "gloss": "destitute-ones",
+     "grounds": "recipients joined by sārdham; heads the descriptive series dīna-andha-kṛpaṇaiḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "together-with",
+     "grounds": "postposition governing instrumental kṛpaṇaiḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "should-feed",
+     "grounds": "injunctive/optative prescription for the wise person (sudhīḥ, from prior verse)",
+     "morph": "3.sg.opt.act √bhuj-caus"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this feeding act to the preceding acts of satisfying the guru",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijanmanaḥ",
+     "gloss": "twice-born-ones",
+     "grounds": "additional recipients of the feeding",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom must the wise person feed alongside the twice-born?",
+   "premises": [
+    "The wise person should perform feeding as a prescribed act.",
+    "The poor, blind, and destitute are recipients of this feeding.",
+    "The twice-born are also recipients of this feeding."
+   ],
+   "inference": "Therefore, the wise person should feed the twice-born together with the poor, blind, and destitute.",
+   "uncertainties": [],
+   "plain_english": "And the wise person should feed the twice-born together with the poor, the blind, and the destitute."
+  }
+ ]
+}

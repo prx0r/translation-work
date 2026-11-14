@@ -1,0 +1,1199 @@
+{
+ "song": "mukta-m0-p387",
+ "items": [
+  {
+   "verse": 9651,
+   "rows": [
+    {
+     "surface": "pāyasānnena",
+     "gloss": "with-milk-rice",
+     "grounds": "instrumental of offering substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "ritual oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "pūjite",
+     "gloss": "when-worshipped",
+     "grounds": "locative absolute context",
+     "morph": "m.loc.sg.ppp √pūj"
+    },
+    {
+     "surface": "hema+retasi",
+     "gloss": "in-golden-seed",
+     "grounds": "compound: hema+retas; ritual fire or receptacle",
+     "morph": "n.loc.sg compound"
+    }
+   ],
+   "question": "What oblation substance and context are prescribed for the ritual offering?",
+   "premises": [
+    "Milk-rice is the prescribed offering substance.",
+    "The offering is made when worship has been performed.",
+    "The oblation is directed into the golden seed."
+   ],
+   "inference": "One should offer milk-rice into the golden seed after worship.",
+   "uncertainties": [
+    "hema+retasi may refer to fire or another ritual receptacle."
+   ],
+   "plain_english": "One should offer milk-rice into the golden seed when worship has been performed."
+  },
+  {
+   "verse": 9652,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛtta+tryasra+ṣaṭkoṇa+aṣṭadala+anvitam",
+     "gloss": "endowed-with-circle-triangle-hexagon-eight-petals",
+     "grounds": "compound describing yantra structure",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "What structural components constitute the prescribed ritual diagram?",
+   "premises": [
+    "The diagram is identified as this yantra.",
+    "It includes a circle, triangle, hexagon, and eight petals.",
+    "These elements together define its form."
+   ],
+   "inference": "The prescribed yantra consists of a circle, triangle, hexagon, and eight petals.",
+   "uncertainties": [],
+   "plain_english": "This diagram is endowed with a circle, a triangle, a hexagon, and eight petals."
+  },
+  {
+   "verse": 9653,
+   "rows": [
+    {
+     "surface": "vidārayantaṃ",
+     "gloss": "tearing-apart",
+     "grounds": "describes the buffalo",
+     "morph": "m.acc.sg.pres.part.act √dṛ"
+    },
+    {
+     "surface": "mahiṣaṃ",
+     "gloss": "buffalo",
+     "grounds": "object associated with the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prākkoṇe",
+     "gloss": "in-northeast-corner",
+     "grounds": "directional placement in the diagram",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mṛgapaṃ",
+     "gloss": "deer-lord",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "Which deity and associated figure should be worshipped in the northeast corner?",
+   "premises": [
+    "The northeast corner is the specified location.",
+    "A buffalo being torn apart is present there.",
+    "The deer-lord is the deity to be worshipped."
+   ],
+   "inference": "One should worship the deer-lord tearing apart the buffalo in the northeast corner.",
+   "uncertainties": [
+    "Identity of mṛgapa is not explicit."
+   ],
+   "plain_english": "In the northeast corner one should worship the deer-lord tearing apart the buffalo."
+  },
+  {
+   "verse": 9654,
+   "rows": [
+    {
+     "surface": "śākambharīṃ",
+     "gloss": "śākambharī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durgāṃ",
+     "gloss": "durgā",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhīmāṃ",
+     "gloss": "bhīmā",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmarīṃ",
+     "gloss": "bhrāmarī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "Which additional goddesses are to be worshipped in this sequence?",
+   "premises": [
+    "Śākambharī is named for worship.",
+    "Durgā, Bhīmā, and Bhrāmarī are also named.",
+    "The same worship injunction applies."
+   ],
+   "inference": "One should worship Śākambharī, Durgā, Bhīmā, and Bhrāmarī.",
+   "uncertainties": [],
+   "plain_english": "One should likewise worship Śākambharī, Durgā, Bhīmā, and Bhrāmarī."
+  },
+  {
+   "verse": 9655,
+   "rows": [
+    {
+     "surface": "sarvāsām",
+     "gloss": "of-all",
+     "grounds": "universal scope",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-powers",
+     "grounds": "goddesses or powers",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "nāma+mantrāḥ",
+     "gloss": "name-mantras",
+     "grounds": "compound: nāma+mantra; mantras formed from names",
+     "morph": "m.nom.pl compound"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "traditional teaching",
+     "morph": "m.nom.pl.ppp √smṛ"
+    }
+   ],
+   "question": "What principle governs the mantras used for all the powers?",
+   "premises": [
+    "All powers are included in scope.",
+    "Their mantras are identified as name-mantras.",
+    "This is stated as traditionally remembered."
+   ],
+   "inference": "The mantras for all powers are their names.",
+   "uncertainties": [],
+   "plain_english": "Because the mantras of all the powers are remembered to be their names."
+  },
+  {
+   "verse": 9656,
+   "rows": [
+    {
+     "surface": "vaiṣṇavīṃ",
+     "gloss": "vaiṣṇavī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārāhīṃ",
+     "gloss": "vārāhī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indrāṇīṃ",
+     "gloss": "indrāṇī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "Which further goddesses are included in the worship sequence?",
+   "premises": [
+    "Vaiṣṇavī is named for worship.",
+    "Vārāhī and Indrāṇī are also named.",
+    "The injunction is to worship them."
+   ],
+   "inference": "One should worship Vaiṣṇavī, Vārāhī, and Indrāṇī.",
+   "uncertainties": [],
+   "plain_english": "One should also worship Vaiṣṇavī, Vārāhī, and likewise Indrāṇī."
+  },
+  {
+   "verse": 9657,
+   "rows": [
+    {
+     "surface": "viṣṇu+māyāṃ",
+     "gloss": "viṣṇu-māyā",
+     "grounds": "compound: viṣṇu+māyā; goddess or power",
+     "morph": "f.acc.sg compound"
+    },
+    {
+     "surface": "cetanāṃ",
+     "gloss": "consciousness",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhiṃ",
+     "gloss": "intellect",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nidrāṃ",
+     "gloss": "sleep",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṣudhāṃ",
+     "gloss": "hunger",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which powers or principles are enumerated for worship in this list?",
+   "premises": [
+    "Viṣṇu-māyā and consciousness are named.",
+    "Intellect, sleep, and hunger are named.",
+    "They form part of the worship sequence."
+   ],
+   "inference": "Viṣṇu-māyā, consciousness, intellect, sleep, and hunger are to be worshipped.",
+   "uncertainties": [],
+   "plain_english": "One should worship Viṣṇu-māyā, consciousness, intellect, sleep, and likewise hunger."
+  },
+  {
+   "verse": 9658,
+   "rows": [
+    {
+     "surface": "lajjāṃ",
+     "gloss": "modesty",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śraddhāṃ",
+     "gloss": "faith",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāntiṃ",
+     "gloss": "beauty",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lakṣmīṃ",
+     "gloss": "lakṣmī",
+     "grounds": "goddess or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhṛtiṃ",
+     "gloss": "fortitude",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional powers continue the enumerated worship list?",
+   "premises": [
+    "Modesty, peace, and faith are named.",
+    "Beauty, Lakṣmī, and fortitude are named.",
+    "They continue the same sequence."
+   ],
+   "inference": "Modesty, peace, faith, beauty, Lakṣmī, and fortitude are to be worshipped.",
+   "uncertainties": [],
+   "plain_english": "One should worship modesty, peace, faith, beauty, Lakṣmī, and likewise fortitude."
+  },
+  {
+   "verse": 9659,
+   "rows": [
+    {
+     "surface": "puṣṭiṃ",
+     "gloss": "nourishment",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātaraṃ",
+     "gloss": "mother",
+     "grounds": "goddess or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhrāntim",
+     "gloss": "delusion",
+     "grounds": "power or principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "bhūpureṣu",
+     "gloss": "in-ground-enclosures",
+     "grounds": "locations in the diagram",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which final powers and locations are specified for worship in this section?",
+   "premises": [
+    "Nourishment, the mother, and delusion are named.",
+    "The worship is to be performed in the ground enclosures.",
+    "The injunction is to worship them there."
+   ],
+   "inference": "One should worship nourishment, the mother, and delusion in the ground enclosures.",
+   "uncertainties": [
+    "Identity of mātaraṃ is not specified."
+   ],
+   "plain_english": "One should worship nourishment, the mother, and delusion in the ground enclosures."
+  },
+  {
+   "verse": 9660,
+   "rows": [
+    {
+     "surface": "yoginīḥ",
+     "gloss": "yoginīs",
+     "grounds": "goddesses; ledger: yoginī = the goddess",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sureśā+ādyāṃ",
+     "gloss": "sureśā-and-others",
+     "grounds": "compound: sureśā+ādi; group beginning with Sureśā",
+     "morph": "f.acc.pl compound"
+    },
+    {
+     "surface": "tad+bāhye",
+     "gloss": "outside-of-that",
+     "grounds": "compound: tad+bāhya; location outside the previous area",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyudhāni",
+     "gloss": "weapons",
+     "grounds": "divine implements",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which beings and implements are to be worshipped outside the previous enclosure?",
+   "premises": [
+    "The yoginīs beginning with Sureśā are named.",
+    "The location is outside that area.",
+    "The weapons are also to be worshipped."
+   ],
+   "inference": "One should worship the yoginīs beginning with Sureśā and the weapons outside that area.",
+   "uncertainties": [],
+   "plain_english": "One should worship the yoginīs beginning with Sureśā and the weapons outside of that."
+  },
+  {
+   "verse": 9661,
+   "rows": [
+    {
+     "surface": "puṭitaṃ",
+     "gloss": "enclosed",
+     "grounds": "ritual encapsulation of mantra",
+     "morph": "n.acc.sg.ppp √puṭ"
+    },
+    {
+     "surface": "mūla+mantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound: mūla+mantra; primary mantra",
+     "morph": "m.ins.sg compound"
+    },
+    {
+     "surface": "japan",
+     "gloss": "chanting",
+     "grounds": "recitation practice",
+     "morph": "m.nom.sg.pres.part.act √jap"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "result of practice",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "vāñchitam",
+     "gloss": "desired",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg.ppp √vāñch"
+    }
+   ],
+   "question": "What result follows from chanting while enclosed by the root mantra?",
+   "premises": [
+    "The practice involves chanting enclosed by the root mantra.",
+    "The act of chanting is performed by the practitioner.",
+    "The desired object is attainable."
+   ],
+   "inference": "Chanting enclosed by the root mantra yields the desired result.",
+   "uncertainties": [],
+   "plain_english": "Chanting enclosed by the root mantra, one obtains what is desired."
+  },
+  {
+   "verse": 9662,
+   "rows": [
+    {
+     "surface": "vāma+dakṣiṇa+mārgābhyām",
+     "gloss": "by-left-and-right-paths",
+     "grounds": "compound: vāma+dakṣiṇa+mārga; two ritual paths",
+     "morph": "m.ins.du compound"
+    },
+    {
+     "surface": "adhikāri+phala+pradā",
+     "gloss": "giving-fruit-to-qualified",
+     "grounds": "compound: adhikāri+phala+pradā; grants results to the qualified",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "How do the left and right paths relate to granting results to practitioners?",
+   "premises": [
+    "Both left and right paths are invoked.",
+    "The practice gives fruit to the qualified practitioner.",
+    "The paths function as means of granting results."
+   ],
+   "inference": "By the left and right paths, it gives fruit to the qualified practitioner.",
+   "uncertainties": [
+    "Subject of pradā is implied from context."
+   ],
+   "plain_english": "By the left and right paths, it gives fruit to the qualified practitioner."
+  },
+  {
+   "verse": 9663,
+   "rows": [
+    {
+     "surface": "upasarga+vināśāya",
+     "gloss": "for-destruction-of-calamities",
+     "grounds": "compound: upasarga+vināśa; purpose",
+     "morph": "m.dat.sg compound"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "middle method or form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-employ",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √yuj"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What method should a wise practitioner employ to destroy calamities?",
+   "premises": [
+    "The goal is the destruction of calamities.",
+    "The middle method is specified.",
+    "A wise practitioner is the agent."
+   ],
+   "inference": "A wise practitioner should employ the middle method to destroy calamities.",
+   "uncertainties": [
+    "madhyamaṃ may refer to a specific ritual form."
+   ],
+   "plain_english": "For the destruction of calamities, the wise one should employ the middle method."
+  },
+  {
+   "verse": 9664,
+   "rows": [
+    {
+     "surface": "caritra+dvaya+śīlasya",
+     "gloss": "of-one-of-two-conducts",
+     "grounds": "compound: caritra+dvaya+śīla; one following either conduct",
+     "morph": "m.gen.sg compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃśaḥ",
+     "gloss": "lineage",
+     "grounds": "family line",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chidyate",
+     "gloss": "is-cut-off",
+     "grounds": "cessation of lineage",
+     "morph": "3.sg.pres.pass √chid"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "universal negation of place",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence for lineage follows for one who observes either of the two conducts?",
+   "premises": [
+    "The subject follows one of two conducts.",
+    "Lineage is the matter at stake.",
+    "It is stated not to be cut off anywhere."
+   ],
+   "inference": "The lineage of one who follows either conduct is never cut off.",
+   "uncertainties": [
+    "The two conducts are not specified here."
+   ],
+   "plain_english": "The lineage of one who follows either of the two conducts is never cut off anywhere."
+  },
+  {
+   "verse": 9665,
+   "rows": [
+    {
+     "surface": "anādyaṃ",
+     "gloss": "beginningless",
+     "grounds": "epithet of the text or mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhate",
+     "gloss": "recites",
+     "grounds": "act of recitation",
+     "morph": "3.sg.pres.mid √paṭh"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārayet",
+     "gloss": "one-should-kill",
+     "grounds": "hostile ritual application",
+     "morph": "3.sg.opt.act √mṛ"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "quickly",
+     "grounds": "time of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ripūn",
+     "gloss": "enemies",
+     "grounds": "targets of the rite",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What hostile result is achieved by reciting the beginningless text?",
+   "premises": [
+    "Someone recites the beginningless text.",
+    "The act is directed against enemies.",
+    "The result occurs quickly."
+   ],
+   "inference": "One who recites the beginningless text can quickly kill enemies.",
+   "uncertainties": [
+    "anādyaṃ may refer to a specific mantra or section."
+   ],
+   "plain_english": "Whoever recites the beginningless text can quickly kill enemies."
+  },
+  {
+   "verse": 9666,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of encapsulation",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "puṭitaṃ",
+     "gloss": "enclosed",
+     "grounds": "ritual encapsulation",
+     "morph": "n.acc.sg.ppp √puṭ"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pṛthā+aṅkasya",
+     "gloss": "of-son-of-pṛthā",
+     "grounds": "compound: pṛthā+aṅka; reference to Arjuna or a count",
+     "morph": "m.gen.sg compound"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-count",
+     "grounds": "number of repetitions",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "What recitation procedure involving enclosure and a specific count is prescribed?",
+   "premises": [
+    "The text is enclosed by a mantra.",
+    "The count is that of the son of Pṛthā.",
+    "The practitioner performs this recitation."
+   ],
+   "inference": "One should recite that enclosed by the mantra according to the count of the son of Pṛthā.",
+   "uncertainties": [
+    "pṛthā+aṅkasya saṃkhyayā likely indicates a specific number but is ambiguous."
+   ],
+   "plain_english": "Whoever recites that enclosed by the mantra by the count of the son of Pṛthā."
+  },
+  {
+   "verse": 9667,
+   "rows": [
+    {
+     "surface": "sva+śatrūn",
+     "gloss": "own-enemies",
+     "grounds": "compound: sva+śatru",
+     "morph": "m.acc.pl compound"
+    },
+    {
+     "surface": "daitya+bhāvena",
+     "gloss": "with-demon-nature",
+     "grounds": "compound: daitya+bhāva; mental attitude",
+     "morph": "m.ins.sg compound"
+    },
+    {
+     "surface": "sva+mitrān",
+     "gloss": "own-friends",
+     "grounds": "compound: sva+mitra",
+     "morph": "m.acc.pl compound"
+    },
+    {
+     "surface": "devatā+dhiyā",
+     "gloss": "with-deity-conception",
+     "grounds": "compound: devatā+dhī; mental attitude",
+     "morph": "f.ins.sg compound"
+    }
+   ],
+   "question": "What contrasting mental attitudes should be applied to enemies and friends?",
+   "premises": [
+    "One's own enemies are to be regarded with demon-nature.",
+    "One's own friends are to be regarded with deity-conception.",
+    "These attitudes guide the ritual application."
+   ],
+   "inference": "Enemies should be conceived as demons and friends as deities.",
+   "uncertainties": [],
+   "plain_english": "One should regard one's own enemies with the nature of demons and one's own friends with the conception of deities."
+  },
+  {
+   "verse": 9668,
+   "rows": [
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "dead",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl.ppp √mṛ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛta+kalpāḥ",
+     "gloss": "like-dead",
+     "grounds": "compound: mṛta+kalpa; nearly dead",
+     "morph": "m.nom.pl compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatravaḥ",
+     "gloss": "enemies",
+     "grounds": "targets",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty of result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certain outcome befalls enemies subjected to the prescribed ritual attitude?",
+   "premises": [
+    "Enemies may become dead or like dead.",
+    "The result is presented as possible outcomes.",
+    "There is asserted to be no doubt."
+   ],
+   "inference": "Enemies will certainly become dead or as if dead.",
+   "uncertainties": [],
+   "plain_english": "Enemies will be dead or as if dead; there is no doubt."
+  },
+  {
+   "verse": 9669,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "lakṣam",
+     "gloss": "a-lakh",
+     "grounds": "number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anuṃ",
+     "gloss": "mantra",
+     "grounds": "object of chanting",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khādyaiḥ",
+     "gloss": "with-eatables",
+     "grounds": "offering substances",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tri+madhura+āplutaiḥ",
+     "gloss": "soaked-with-three-sweets",
+     "grounds": "compound: tri+madhura+āpluta; substances soaked in three sweets",
+     "morph": "n.ins.pl compound"
+    }
+   ],
+   "question": "What chanting count and oblation substances are prescribed for this rite?",
+   "premises": [
+    "The mantra should be chanted a lakh times.",
+    "An oblation is to be performed.",
+    "The oblation uses eatables soaked in the three sweets."
+   ],
+   "inference": "One should chant the mantra a lakh times and offer eatables soaked in the three sweets.",
+   "uncertainties": [],
+   "plain_english": "One should chant the mantra a lakh times and perform oblation with eatables soaked in the three sweets."
+  },
+  {
+   "verse": 9670,
+   "rows": [
+    {
+     "surface": "viprān",
+     "gloss": "brahmins",
+     "grounds": "recipients of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "gurūn",
+     "gloss": "gurus",
+     "grounds": "recipients of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samārādhya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "gerund √rādh"
+    },
+    {
+     "surface": "vāñchitaṃ",
+     "gloss": "desired",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg.ppp √vāñch"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "result",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "drutam",
+     "gloss": "quickly",
+     "grounds": "speed of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result follows from worshipping brahmins and gurus after the rite?",
+   "premises": [
+    "Brahmins and gurus are to be worshipped.",
+    "This worship follows the ritual practice.",
+    "The desired result is obtained quickly."
+   ],
+   "inference": "Having worshipped brahmins and gurus, one quickly obtains what is desired.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped brahmins and gurus, one quickly obtains what is desired."
+  },
+  {
+   "verse": 9671,
+   "rows": [
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gāyatram",
+     "gloss": "gāyatra",
+     "grounds": "name of meter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "n.nom.sg.ppp √vad"
+    },
+    {
+     "surface": "mahākālī",
+     "gloss": "mahākālī",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What meter and presiding deity are declared for this mantra?",
+   "premises": [
+    "The meter is declared as Gāyatra.",
+    "Mahākālī is named as the deity.",
+    "These are stated as the mantra's attributes."
+   ],
+   "inference": "The meter is Gāyatra and the deity is Mahākālī.",
+   "uncertainties": [],
+   "plain_english": "The meter is declared to be Gāyatra, and the deity is Mahākālī."
+  },
+  {
+   "verse": 9672,
+   "rows": [
+    {
+     "surface": "prayogāṇām",
+     "gloss": "of-applications",
+     "grounds": "ritual applications",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navatiḥ",
+     "gloss": "ninety",
+     "grounds": "number of applications",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māraṇe",
+     "gloss": "in-killing",
+     "grounds": "hostile application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mohane",
+     "gloss": "in-deluding",
+     "grounds": "hostile application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many applications are specified for killing and deluding rites here?",
+   "premises": [
+    "Applications are counted as ninety.",
+    "They pertain to killing and deluding.",
+    "This is stated for the present context."
+   ],
+   "inference": "There are ninety applications here for killing and deluding.",
+   "uncertainties": [],
+   "plain_english": "There are ninety applications here in killing and deluding."
+  },
+  {
+   "verse": 9673,
+   "rows": [
+    {
+     "surface": "uṣṇik",
+     "gloss": "uṣṇik",
+     "grounds": "name of meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahālakṣmīḥ",
+     "gloss": "mahālakṣmī",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "seed syllable; bīja transliterated not translated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adrijā",
+     "gloss": "mountain-born",
+     "grounds": "epithet identifying the bīja or goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What meter, deity, and seed are assigned in this mantra specification?",
+   "premises": [
+    "The meter is Uṣṇik.",
+    "The deity is Mahālakṣmī.",
+    "The seed is identified as mountain-born."
+   ],
+   "inference": "The meter is Uṣṇik, the deity is Mahālakṣmī, and the seed is mountain-born.",
+   "uncertainties": [
+    "adrijā as bīja identification is context-dependent."
+   ],
+   "plain_english": "The meter is Uṣṇik, the deity is Mahālakṣmī, and the seed is the mountain-born."
+  },
+  {
+   "verse": 9674,
+   "rows": [
+    {
+     "surface": "uccāṭe",
+     "gloss": "in-eradication",
+     "grounds": "hostile application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "stambhane",
+     "gloss": "in-paralyzing",
+     "grounds": "hostile application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogāṇāṃ",
+     "gloss": "of-applications",
+     "grounds": "ritual applications",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śata+dvayam",
+     "gloss": "two-hundred",
+     "grounds": "compound: śata+dvaya; number of applications",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "How many applications are prescribed for eradication and paralyzing rites here?",
+   "premises": [
+    "The applications concern eradication and paralyzing.",
+    "Their number is given as two hundred.",
+    "This count applies in the present context."
+   ],
+   "inference": "There are two hundred applications here for eradication and paralyzing.",
+   "uncertainties": [],
+   "plain_english": "Here there are two hundred applications in eradication and paralyzing."
+  }
+ ]
+}

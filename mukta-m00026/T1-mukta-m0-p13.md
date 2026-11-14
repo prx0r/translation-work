@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[those](te) [all](sarve) [by+that](tena) [consecrated](japtāḥ) [and](ca) [who](yaḥ) [bears](bibharti) [tripuṇḍraka](tripuṇḍrakam)
+[they](te) [all](sarve) [by-him](tena) [chanted](japtā) [and](ca) [who](yo) [bears](bibharti) [triple-mark](tripuṇḍrakam)
 
 ## mukta-m0-p13-v302
-[of+own+lineage](svavaṃśa-jātam) [of+mortals](martyānām) [would+deliver](uddhared) [who](yaḥ) [tripuṇḍraka+maker](tripuṇḍrakṛt)
+[own+lineage+born+mortals](svavaṃśa+jāta+martyānām) [he-should-uplift](uddhared) [who](yaḥ) [triple-mark+maker](tripuṇḍra+kṛt)
 
 ## mukta-m0-p13-v303
-[divine](divyam) [aerial+car](vimānam) [having+mounted](āruhya) [by+divine+weapons+hundred](divya-astra-śata-sevitaḥ)
+[divine](divyaṃ) [chariot](vimānam) [having-mounted](āruhya) [divine+weapon+hundred+attended](divya+astra+śata+sevitaḥ)
 
 ## mukta-m0-p13-v304
-[of+Indra+etc.](indrādi-lokapālānām) [in+worlds](lokeṣu) [and](ca) [according+to+order](yathākramam)
+[Indra+and-others+world+guardians](indra+ādi+loka+pālānāṃ) [in-worlds](lokeṣu) [and](ca) [in-due-order](yathākramam)
 
 ## mukta-m0-p13-v305
-[of+Brahman](brahmaṇaḥ) [the+state](padam) [having+reached](āsādya) [there](tatra) [for+kalpa+ten+thousands](kalpāyutam) [would+dwell](vaset)
+[of-Brahmā](brahmaṇaḥ) [abode](padam) [having-attained](āsādya) [there](tatra) [kalpa+ten-thousand](kalpa+ayutaṃ) [he-should-dwell](vaset)
 
 ## mukta-m0-p13-v306
-[to+Śiva+loka](śivalokam) [then](tataḥ) [having+attained](prāpya) [rejoices](ramate) [time+without+end](kālam-akṣayam)
+[Śiva+world](śiva+lokaṃ) [then](tataḥ) [having-attained](prāpya) [he-delights](ramate) [time](kālam) [imperishable](akṣayam)
 
 ## mukta-m0-p13-v307
-[in+Śaiva](śaive) [in+Vaiṣṇava](viṣṇau) [and](ca) [in+Saurya](saure) [and](ca) [in+Gāṇapatya](gāṇapatyeṣu) [O+Pārvatī](pārvati)
+[in-Śaiva](śaive) [in-Vaiṣṇava](viṣṇau) [and](ca) [in-Saura](saure) [and](ca) [in-Gāṇapatya](gāṇapatyeṣu) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p13-v308
-[ashes](bhasma) [in+them](teṣu) [O+great+Īśānī](maheśāni) [most+excellent](viśiṣṭam) [is+declared](parikīrtitam)
+[ashes](bhasma) [among-them](teṣu) [O-great-goddess](maheśāni) [distinguished](viśiṣṭaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p13-v309
-[in+Śākta](śaktau) [praiseworthy](praśastam) [liberation](mokṣam) [indeed](hi) [ashes](bhasma) [in+youthful+life](yauvanajīvane)
+[in-Śākta](śaktau) [excellent](praśastam) [ashes](bhasma) [indeed](hi) [in-youth+life](yauvana+jīvane)
 
 ## mukta-m0-p13-v310
-[common](sāmānyam) [this](etat) [O+beautiful+hipped](suśroṇi) [a+special+rule](viśeṣam) [hear](śṛṇu) [from+me](matpriye)
+[general](sāmānyam) [this](etat) [O-beautiful-hipped-one](suśroṇi) [special](viśeṣaṃ) [hear](śṛṇu) [my+beloved](mat+priye)
 
 ## mukta-m0-p13-v311
-[than+Homa+ashes](haumabhasmāt) [a+koṭi+fold](koṭiguṇam) [Viṣṇu+homa](viṣṇuhomam) [O+great+Īśvarī](maheśvari)
+[than-oblational+ashes](hauma+bhasmāt) [crore+times](koṭi+guṇam) [Viṣṇu+oblation](viṣṇu+homam) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p13-v312
-[of+one's+own+beloved+deity](svīyeṣṭadevatā-homam) [infinite](anantam) [O+sweet+spoken](priyavādini)
+[own+chosen+deity+oblation](svīya+iṣṭa+devatā+homam) [infinite](anantaṃ) [O-sweet-speaking-one](priya+vādini)
 
 ## mukta-m0-p13-v313
-[not](na) [capable](samartho) [the+yoga+path](yogamārgaḥ) [what](kim) [else](anyat) [I+shall+tell](kathayāmi) [to+you](te)
+[not](na) [capable](samarthaḥ) [yoga+path](yoga+mārgaḥ) [what](kim) [other](anyat) [shall-I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p13-v314
-[in+Bhārata+named](bhāratākhye) [O+great+Kālī](mahākāli) [a+tenth+part](daśāṃśam) [in+order](kramataḥ) [O+Śive](śive)
+[in-Bhārata+named](bhārata+ākhye) [O-Mahākālī](mahākāli) [tenth+part](daśa+aṃśaṃ) [in-order](kramataḥ) [O-Śivā](śive)
 
 ## mukta-m0-p13-v315
-[a+lakh](lakṣam) [or](vā) [ten+thousands](ayutam) [or](vā) [a+thousand](sahasram) [or](vā) [O+beautiful+faced](varānane)
+[hundred-thousand](lakṣaṃ) [or](vā) [also](api) [ten-thousand](ayutaṃ) [or](vā) [also](api) [thousand](sahasraṃ) [or](vā) [O-beautiful-faced-one](vara+ānane)
 
 ## mukta-m0-p13-v316
-[constant+homa](nityahomam) [and](ca) [should+be+performed](kartavyam) [according+to+ability](śaktyā) [and](ca) [O+supreme+Īśvarī](parameśvari)
+[daily+oblation](nitya+homam) [and](ca) [to-be-done](kartavyaṃ) [according-to-ability](śaktyā) [and](ca) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p13-v317
-[one+hundred+eight](aṣṭottaraśatam) [or](vā) [fifty+eight](aṣṭapañcāśatam) [should+perform](caret)
+[eight+more+hundred](aṣṭa+uttara+śataṃ) [or](vā) [also](api) [eight+fifty](aṣṭa+pañcāśataṃ) [one-should-perform](caret)
 
 ## mukta-m0-p13-v318
-[eighteen](aṣṭādaśam) [twelve](dvādaśam) [and](ca) [ten](daśa) [eight](aṣṭau) [and](ca) [according+to+rule](vidhānataḥ)
+[eighteen](aṣṭādaśaṃ) [twelve](dvādaśaṃ) [and](ca) [ten+eight](daśa+aṣṭau) [and](ca) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p13-v319
-[thus](evam) [everywhere](sarvatra) [O+goddess+of+gods](deveśi) [the+daily+rite+great+festival](nityakarma-mahotsavaḥ)
+[thus](evaṃ) [everywhere](sarvatra) [O-goddess-of-gods](deveśi) [daily+rite+great-festival](nitya+karma+mahotsavaḥ)
 
 ## mukta-m0-p13-v320
-[a+garland](mālām) [and](ca) [indeed](eva) [O+great+Īśānī](maheśāni) [by+men](naraiḥ) [wonderfully+worshipped](adbhutapūjitām)
+[garland](mālām) [and](ca) [indeed](eva) [O-great-goddess](maheśāni) [human+bone+wonderful+honored](nara+asthi+adbhuta+pūjitām)
 
 ## mukta-m0-p13-v321
-[a+rudrākṣa+garland](rudrākṣamālyam) [should+be+worn](saṃdhāryam) [then](tataḥ) [hear](śṛṇu) [from+me](mama) [O+beloved](priye)
+[rudrākṣa+garland](rudrākṣa+mālyaṃ) [to-be-worn](saṃdhāryaṃ) [then](tataḥ) [hear](śṛṇu) [my](mama) [beloved](priye)
 
 ## mukta-m0-p13-v322
-[O+fortunate](subhage) [hear](śṛṇu) [O+beautiful+hipped](suśroṇi) [rudrākṣa](rudrākṣam) [the+supreme+state](paramam) [padam]
+[O-fortunate-one](subhage) [hear](śṛṇu) [O-beautiful-hipped-one](suśroṇi) [rudrākṣa](rudrākṣaṃ) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p13-v323
-[without+having+eaten](abhuktaḥ) [or](vā) [having+eaten](api) [bhuktaḥ] [or](vā) [of+low+food](nīcānnaiḥ) [lower+than+low](nīcataro) [or](vā) [api](vā)
+[not-having-eaten](abhuktaḥ) [or](vā) [also](api) [having-eaten](bhuktaḥ) [or](vā) [low](nīca) [or-lower-than-low](at+nīcataraḥ) [also](api) [or](vā)
 
 ## mukta-m0-p13-v324
-[the+wearing+of+rudrākṣa](rudrākṣadhāraṇam) [meritorious](puṇyam) [to+kaivalya](kaivalya) [equal](sadṛśam) [would+become](bhavet)
+[rudrākṣa+wearing](rudrākṣa+dhāraṇaṃ) [merit](puṇyaṃ) [liberation+equal](kaivalya+sadṛśaṃ) [may-be](bhavet)
 
 ## mukta-m0-p13-v325
-[a+thousand](sahasram) [should+wear](dhārayed) [who](yaḥ) [rudrākṣas](rudrākṣāṇām) [O+smiling+faced](śicismite)
+[thousand](sahasraṃ) [should-wear](dhārayed) [who](yaḥ) [indeed](tu) [of-rudrākṣas](rudrākṣāṇāṃ) [O-smiling-one](śici+smite)
