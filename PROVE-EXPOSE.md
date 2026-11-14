@@ -175,10 +175,13 @@ Hard rules (inherited)
 ## 8. Session log — 2026-11-14, second pass (trace fan-out + ipvv)
 Session log — 2026-11-14, second pass (trace fan-out + ipvv)
 
-- **`tools/make_traces.py` + `shastra.make_traces`** (34 tools total): batch
-  `trace_bundle` per passage — one work, `--served-untraced`, or `--all`.
-  Idempotent, fail-closed per bundle; verified bundles feed `make_readable
-  --publish` into the claim layer.
+- **`tools/make_traces.py` + `shastra.make_traces`, plus `shastra.health()`**
+  (35 tools total): batch `trace_bundle` per passage — one work,
+  `--served-untraced`, or `--all`. Idempotent, fail-closed per bundle;
+  verified bundles feed `make_readable --publish` into the claim layer.
+  `health()` is the one-call loop+quality+progress report (queue, gates,
+  served/total KPI, unreviewed DONEs, recent verdicts) — the ChatGPT daily
+  driver; `serve_summary.json` cache refreshed by every audit/publish run.
 - **Scale result:** 1672 bundles built for 35 served-but-traceless works
   (kularnavatantra, 34 mukta burn works), 0 failures. Published through the
   svread chain (2640+ traces → verify packs → claim pages); `scholar__passage_evidence`
@@ -195,3 +198,19 @@ Session log — 2026-11-14, second pass (trace fan-out + ipvv)
   publish is the detector, not the problem. Coordination issue: trika-x#20.
   Publish only from a refresh-then-publish pass, or during a loop pause.
 
+
+## 10. Session log — 2026-11-14, third pass (Option D snapshot publish)
+
+- **Converged without pausing the loop.** Publish-verify flagged drift,
+  targeted refresh, immediate republish; 2 passes to green. Drift source was
+  always the same: the loop adding layers to hot mukta-m00125 passages
+  (gaps shrink = translations improving under us), plus 49 ipvv traces whose
+  `essays.projection_sha256` predated the new ipvv projection.
+- **Published:** 2621 traces (192 COMPLETE / 2429 PARTIAL) → 2621 verify packs
+  (11728 files) → 2621 claim pages (+md, **131 work indexes**) → discovery →
+  manifest (26127 assets, 95 works, 107 projections). Determinism GREEN,
+  mcp unittest 40 pass.
+- New drift appearing *during* publish is expected (loop never stops); the
+  published set is self-consistent as of its green verify. Next publish will
+  refresh whatever drifted since — that is the steady-state protocol, no
+  pause needed while drift-per-window stays this small.
