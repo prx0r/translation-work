@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2439,
- "question": "What fleshy aspect of the goddess is being named?",
+ "question": "What action must be performed with the configured elements?",
  "premises": [
-  "An epithet is given",
-  "The epithet denotes fleshiness"
+  "A specific configuration has been given.",
+  "Movement or activation is required.",
+  "The action is prescriptive."
  ],
- "inference": "The goddess is identified by the epithet fleshy",
- "uncertainties": [],
- "plain_english": "She is the fleshy one."
+ "inference": "One should set the configured elements in motion.",
+ "uncertainties": [
+  "The object of movement is carried over from the previous verse."
+ ],
+ "plain_english": "One should set them in motion."
 }

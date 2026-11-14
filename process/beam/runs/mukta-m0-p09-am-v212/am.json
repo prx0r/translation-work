@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 212,
- "question": "How is the act of leading near traditionally identified in this context?",
+ "question": "What ornamental motifs may adorn the sub-base according to this prescription?",
  "premises": [
-  "The act is described as leading near.",
-  "It is identified with upanayana.",
-  "This identification is traditionally remembered."
+  "Figures of bhutas, vyalas, elephants, and lions are mentioned.",
+  "Makara figures are mentioned.",
+  "Various kinds of foliage motifs are mentioned."
  ],
- "inference": "That leading near is traditionally remembered as initiation (upanayana).",
- "uncertainties": [],
- "plain_english": "That leading near is remembered as initiation."
+ "inference": "The sub-base may be adorned with these creature and foliage motifs.",
+ "uncertainties": [
+  "The exact parsing of the compound in the first token is uncertain."
+ ],
+ "plain_english": "It may be adorned with bhutas, vyalas, elephants, lions, makaras, and various kinds of foliage."
 }

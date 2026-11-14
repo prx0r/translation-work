@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[that+one](tadekaṃ) [should-establish+liṅga](sthāpayelliṅgaṃ) [from-hand+from-foot+born+indeed](hastātpādajameva) [or](vā)
+[that](tat) [one](ekaṃ) [should-establish](sthāpayet) [liṅga](liṅgaṃ) [from-hand](hastāt) [born-from-foot](pāda+jam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p25-v602
-[womb+etc.](gabhādya) [fame+wealth+son+woman](śo'rthaputrastrī) [land+victory+for-the-sake-of](bhūrjayo'rtho) [boldness+lifespans](ghṛṣāyuṣī)
+[womb](gabha) [fame](ādy+aśaḥ) [wealth](artha) [son](putra) [woman](strī) [land](bhūḥ) [victory](jayaḥ) [purpose](arthaḥ) [clarified-butter](ghṛṣa) [life](āyuṣī)
 
 ## mukta-m0-p25-v603
-[successes](siddhī) [kingdom](rājyaṃ) [by-hands](karaiḥ) [to-be-done](kāryā) [from-liṅga](liṅgād) [from-end+born](antajāttathā)
+[accomplishments](siddhī) [kingdom](rājyaṃ) [by-hands](karaiḥ) [should-be-made](kāryā) [from-liṅga](liṅgāt) [born-from-end](anta+jāt) [likewise](tathā)
 
 ## mukta-m0-p25-v604
-[banner+etc.](dhvajādyā) [by-which](yaiḥ) [with-vowels](svarair) [with-elements](bhūtaiḥ) [or-with-peacocks](śikhibhirvā) [should-take+skilled-one](haretkṛtī)
+[banner-etc.](dhvaja+ādyā) [by-which](yaiḥ) [by-tones](svaraiḥ) [by-elements](bhūtaiḥ) [by-peacocks](śikhibhiḥ) [or](vā) [should-take](haret) [skilled-one](kṛtī)
 
 ## mukta-m0-p25-v605
-[among-banner+etc.](dhvajādiṣu) [banner](dhvajaṃ) [lion](siṃhaṃ) [bull+named](vṛṣākhyaṃ) [and](ca) [elephant](gajaṃ) [auspicious](śubham)
+[among-banner-etc.](dhvaja+ādiṣu) [banner](dhvajaṃ) [lion](siṃhaṃ) [called-bull](vṛṣa+ākhyaṃ) [and](ca) [elephant](gajaṃ) [auspicious](śubham)
 
 ## mukta-m0-p25-v606
-[in-banner](dhvaje) [kingdom](rājyaṃ) [in-lion](jayaṃ) [victory](siṃhe) [in-bull](vṛṣe) [gain](lābhaṃ) [in-elephant](gaje) [prosperity](śriyaṃ)
+[in-banner](dhvaje) [kingdom](rājyaṃ) [in-lion](siṃhe) [victory](jayaṃ) [in-bull](vṛṣe) [gain](lābhaṃ) [in-elephant](gaje) [prosperity](śriyaṃ)
 
 ## mukta-m0-p25-v607
-[by-crow](dhvāṅkṣeṇa) [all+destruction](sarvanāśaḥ) [will-be](syāt) [therefore](tasmāt) [them](tān) [one-should-avoid](parivarjayet)
+[by-crow](dhvāṅkṣeṇa) [total-destruction](sarva+nāśaḥ) [would-be](syāt) [therefore](tasmāt) [them](tān) [one-should-avoid](parivarjayet)
 
 ## mukta-m0-p25-v608
-[prosperity+giving](lakṣmīprado) [will-be](bhavet) [ṣaḍja](ṣaḍjo) [gāndhāra](gāndhāro) [people+increase+making](janavṛddhikṛt)
+[prosperity-giving](lakṣmī+pradaḥ) [would-be](bhavet) [ṣaḍja](ṣaḍjaḥ) [gāndhāra](gāndhāraḥ) [people-increase-making](jana+vṛddhi+kṛt)
 
 ## mukta-m0-p25-v609
-[by-ṛṣabha](ṛṣabheṇa) [enemy+increase](ārivṛddhiḥ) [will-be](syāt) [madhyama](madhyamaḥ) [son+destruction+making](sutanāśakṛt)
+[by-ṛṣabha](ṛṣabheṇa) [enemy-increase](ari+vṛddhiḥ) [would-be](syāt) [madhyama](madhyamaḥ) [son-destruction-making](suta+nāśa+kṛt)
 
 ## mukta-m0-p25-v610
-[among-elements](bhūteṣu) [earth+dwellers](kṣmācarāḥ) [and](ca) [others](anye) [water+etc.](toyādyāḥ) [and](ca) [inauspicious](aśubhā) [greatly](bhṛśam)
+[among-elements](bhūteṣu) [earth-dwellers](kṣmā+carāḥ) [and](ca) [others](anye) [water-etc.](toya+ādyāḥ) [and](ca) [inauspicious](aśubhāḥ) [greatly](bhṛśam)
 
 ## mukta-m0-p25-v611
-[with-fever](sajvaro) [burning+making](dāhakṛt) [fire](tejo) [wind](vāyus) [but](tu) [family+destruction+making](kulanāśakṛt)
+[with-fever](sa+jvaraḥ) [burning-causing](dāha+kṛt) [fire](tejaḥ) [wind](vāyuḥ) [but](tu) [family-destruction-causing](kula+nāśa+kṛt)
 
 ## mukta-m0-p25-v612
-[auspicious](śastaḥ) [fire](agniḥ) [and](ca) [āhavanīya](āhavanīyo) [two](dvāv) [fires](agnī) [and](ca) [inauspicious](aśubhau) [considered](matau)
+[commended](śastaḥ) [fire](agniḥ) [and](ca) [āhavanīya](āhavanīyaḥ) [two](dvau) [fires](agnī) [and](ca) [inauspicious](aśubhau) [considered](matau)
 
 ## mukta-m0-p25-v613
-[of-the-maker](kartur) [death+giving](mṛtyuprado) [indeed](hi) [fire](agnis) [third](tṛtīyo) [king+fear+giving](nṛpabhītidaḥ)
+[of-the-maker](kartuḥ) [death-giving](mṛtyu+pradaḥ) [indeed](hi) [fire](agniḥ) [third](tṛtīyaḥ) [king-fear-giving](nṛpa+bhīti+daḥ)
 
 ## mukta-m0-p25-v614
-[sixfold](ṣaḍvā) [then](tadā) [income+portion](āyabhāgaṃ) [but](tu) [having-made](kṛtvā) [one](ekaṃ) [should-collect+best](saṃkṣipedvaram)
+[sixfold](ṣaḍ+vā) [then](tadā) [income-portion](āya+bhāgaṃ) [but](tu) [having-made](kṛtvā) [one](ekaṃ) [should-throw](saṃkṣipet) [remainder](varam)
 
 ## mukta-m0-p25-v615
-[portion+lord](bhāgeśa) [and](ca) [also](api) [non-lord](anīśaṃ) [and](ca) [teacher-of-gods](devejyaṃ) [equal+named](tulyasaṃjñakam)
+[portion-lord](bhāga+īśa) [and](ca) [also](api) [non-lord](an+īśaṃ) [and](ca) [jupiter](deva+ejyaṃ) [equal-named](tulya+saṃjñakam)
 
 ## mukta-m0-p25-v616
-[length](dairghyaṃ) [with-māyā+endowed](māyānvitaṃ) [having-made](kṛtvā) [liṅga](liṅgaṃ) [one-should-make](kuryāt) [three+formed](trirūpakam)
+[length](dairghyaṃ) [endowed-with-māyā](māyā+anvitaṃ) [having-made](kṛtvā) [liṅga](liṅgaṃ) [one-should-make](kuryāt) [three-formed](tri+rūpakam)
 
 ## mukta-m0-p25-v617
-[of-the-stated+length](uktāyāmasya) [and](ca) [in-half+part](ardhāṃśe) [by-nāga+parts](nāgāṃśai) [divided](rbhāṃjite) [in-order](kramāt)
+[of-the-stated-length](ukta+āyāmasya) [and](ca) [in-half-part](ardha+aṃśe) [by-nāga-parts](nāga+aṃśaiḥ) [divided](bhāṃjite) [in-order](kramāt)
 
 ## mukta-m0-p25-v618
-[of-the-first+and-non-first](ādyānādya) [sura+teacher+named](surejyāhva) [and-equal+ones](tulyānāṃ) [and](ca) [four+sidedness](caturasratā)
+[of-the-first](ādya) [non-first](an+ādya) [called-sura-preceptor](sura+ejya+āhva) [and-equal](tulyānāṃ) [and](ca) [squareness](caturasratā)
 
 ## mukta-m0-p25-v619
-[by-twofold](dvidhā) [division](bhedād) [many](bahūni) [here](atra) [will-be-taught](vakṣyante) [from-viśvakarman's-view](viśvakamataḥ)
+[twofold](dvi+dhā) [by-division](bhedāt) [many](bahūni) [here](atra) [will-be-taught](vakṣyante) [according-to-viśvakarman](viśvakarma+mataḥ)
 
 ## mukta-m0-p25-v620
-[threefold](tridhā) [from-hand](hastāt) [jīva+named](jivākhyaṃ) [and](ca) [joined](yuktaṃ) [with-all+equal](sarvasamena) [and](ca)
+[threefold](tri+dhā) [from-hand](hastāt) [called-jīva](jīva+ākhyaṃ) [and](ca) [joined](yuktaṃ) [with-all-equal](sarva+samena) [and](ca)
 
 ## mukta-m0-p25-v621
-[five](pañca) [seventy](saptatir) [by-oneness](ekatvāt) [by-jina+divided](jinaibhaktaṃ) [they-become](bhavanti) [indeed](hi)
+[five](pañca) [seventy](saptatiḥ) [by-being-one-more](eka+tvāt) [divided-by-jina](jinaiḥ+bhaktaṃ) [they-become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p25-v622
-[thus](evam) [by-finger+increase](aṅgulavṛddhyā) [and](ca) [from-nine+one+cubit+interior](navaikakaragarbhataḥ)
+[thus](evam) [by-finger-increase](aṅgula+vṛddhyā) [and](ca) [from-nine-to-one-cubit-womb](nava+eka+kara+garbhataḥ)
 
 ## mukta-m0-p25-v623
-[width](vistāraṃ) [sevenfold](saptadhā) [having-made](kṛtvā) [to-be-placed](sthāpyaṃ) [or](vā) [in-the-middle](madhyatas) [three](trayam)
+[width](vistāraṃ) [sevenfold](sapta+dhā) [having-made](kṛtvā) [to-be-placed](sthāpyaṃ) [or](vā) [in-the-middle](madhyataḥ) [three](trayam)
 
 ## mukta-m0-p25-v624
-[one+one+part](ekaikāṃśaṃ) [four+division](caturbhāgaṃ) [corner+diminution](koṇahrāsaṃ) [by-two+parts](dvibhāgataḥ)
+[each-one-part](eka+eka+aṃśaṃ) [four-parts](catur+bhāgaṃ) [corner-reduction](koṇa+hrāsaṃ) [by-two-parts](dvi+bhāgataḥ)
 
 ## mukta-m0-p25-v625
-[that+one+one](tadekaikaṃ) [pair](yugaṃ) [having-made](kṛtvā) [one+one+part](ekaikāṃśaṃ) [one-should-take-away](samāharet)
+[that](tat) [each-one](eka+ekaṃ) [pair](yugaṃ) [having-made](kṛtvā) [one-part](eka+eka+aṃśaṃ) [one-should-take-away](samāharet)

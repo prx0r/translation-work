@@ -3,34 +3,39 @@
  "verse": 2525,
  "rows": [
   {
-   "lemma": "brāhmaṇān",
-   "morph": "m.acc.pl",
-   "grounds": "direct recipients of satisfaction in the ritual sequence"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "connects this action to the preceding ritual acts"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "annais",
-   "morph": "n.inst.pl",
-   "grounds": "instrumental means of satisfaction"
+   "lemma": "naśyate",
+   "morph": "3.sg.pres.middle √naś",
+   "grounds": "denies destruction of the result"
   },
   {
-   "lemma": "toṣayet",
-   "morph": "3.sg.optative.active (tuṣ)",
-   "grounds": "prescriptive ritual injunction; root tuṣ"
+   "lemma": "tato",
+   "morph": "(indecl.)",
+   "grounds": "draws consequence from prior statement"
   },
   {
-   "lemma": "dakṣiṇā",
-   "morph": "f.stem",
-   "grounds": "first member in a series completed by ādibhiḥ; analyzed as given"
+   "lemma": "vipra",
+   "morph": "m.voc.sg",
+   "grounds": "vocative address to the interlocutor"
   },
   {
-   "lemma": "ādibhiḥ",
-   "morph": "m/n.inst.pl",
-   "grounds": "indicates additional offerings of the same kind as gifts"
+   "lemma": "!",
+   "morph": "(punct.)",
+   "grounds": "punctuation"
+  },
+  {
+   "lemma": "sālodyādi",
+   "morph": "compound:sālodya+ādi",
+   "grounds": "compound qualifying the refuge; first member sālodya, second ādi"
+  },
+  {
+   "lemma": "padāśritam",
+   "morph": "n.nom.sg (compound:pada+āśrita, ppp √śri)",
+   "grounds": "that which has taken refuge; compound pada+āśrita"
   }
  ]
 }

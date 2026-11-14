@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "praṇavādīn",
+     "gloss": "om-beginning",
+     "grounds": "bahuvrīhi adjective qualifying 'balim', indicating the formula begins with praṇava (om)",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "nāmamadhye",
+     "gloss": "name-in-middle",
+     "grounds": "locative compound indicating the placement of the deity's name in the middle of the formula",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "svāhāntaṃ",
+     "gloss": "svāhā-ending",
+     "grounds": "bahuvrīhi adjective qualifying 'balim', indicating the formula ends with 'svāhā'",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "direct object of 'ācaret'",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive optative expressing the ritual injunction",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "What formulaic structure must govern the offering presented to the deities?",
+   "premises": [
+    "The offering is to be performed as a prescribed ritual act.",
+    "The ritual formula must begin with the praṇava (om).",
+    "The deity's name must be placed in the middle of the formula.",
+    "The ritual formula must conclude with the utterance 'svāhā'."
+   ],
+   "inference": "Therefore, one should perform the offering using a formula that begins with om, contains the deity's name in the middle, and ends with svāhā.",
+   "uncertainties": [
+    "The exact grammatical analysis of 'praṇavādīn' as accusative singular masculine is slightly unusual in form but required by agreement with 'balim'."
+   ],
+   "plain_english": "One should present the offering using a formula that begins with om, has the deity's name in the middle, and ends with svāhā."
+  }
+ ]
+}

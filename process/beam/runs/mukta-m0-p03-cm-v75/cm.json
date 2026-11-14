@@ -3,24 +3,29 @@
  "verse": 75,
  "rows": [
   {
-   "lemma": "dvisaptatisahasrāṇi",
-   "morph": "compound:n.nom.pl.n",
-   "grounds": "numeral compound expressing the quantity seventy-two thousand"
+   "lemma": "praṇavādīn",
+   "morph": "adj.acc.sg.m",
+   "grounds": "bahuvrīhi adjective qualifying 'balim', indicating the formula begins with praṇava (om)"
   },
   {
-   "lemma": "śarīre",
-   "morph": "n.loc.sg.n",
-   "grounds": "locative form indicating the locus within the physical body"
+   "lemma": "nāmamadhye",
+   "morph": "compound.loc.sg.n",
+   "grounds": "locative compound indicating the placement of the deity's name in the middle of the formula"
   },
   {
-   "lemma": "nāḍikāḥ",
-   "morph": "f.nom.pl",
-   "grounds": "subtle bodily channels or conduits"
+   "lemma": "svāhāntaṃ",
+   "morph": "adj.acc.sg.m",
+   "grounds": "bahuvrīhi adjective qualifying 'balim', indicating the formula ends with 'svāhā'"
   },
   {
-   "lemma": "smṛtāḥ",
-   "morph": "ppp.nom.pl.f(smṛ)",
-   "grounds": "past passive participle indicating traditional teaching or recollection"
+   "lemma": "balim",
+   "morph": "m.acc.sg",
+   "grounds": "direct object of 'ācaret'"
+  },
+  {
+   "lemma": "ācaret",
+   "morph": "3.sg.opt.act √car",
+   "grounds": "prescriptive optative expressing the ritual injunction"
   }
  ]
 }

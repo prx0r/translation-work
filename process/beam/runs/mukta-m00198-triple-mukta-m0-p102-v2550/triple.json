@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "ekaikāṃśavihīnena",
+     "gloss": "lacking-one-part-each-time",
+     "grounds": "compound eka-eka-aṃśa-vihīna; instrumental form indicating successive reduction by one part",
+     "morph": "eka+eka+aṃśa+vihīna (compound, m./n.inst.sg)"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "indeclinable numeral adverb indicating division into nine ways or measures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalodayam",
+     "gloss": "complete-rise",
+     "grounds": "compound sakala-udaya; the full extent or rise as the object of measurement",
+     "morph": "sakala+udaya (compound, m.acc.sg)"
+    }
+   ],
+   "question": "By what graduated reduction is the complete rise divided into nine measures?",
+   "premises": [
+    "The complete rise constitutes the full extent to be measured.",
+    "This extent is articulated in a ninefold division.",
+    "Each successive measure is diminished by one part."
+   ],
+   "inference": "The complete rise is systematically apportioned into nine measures, each reduced by one part in sequence.",
+   "uncertainties": [
+    "The exact syntactic role of sakalodayam depends on the governing verb implied from the preceding verses."
+   ],
+   "plain_english": "The complete rise is measured ninefold, each time diminished by one part."
+  }
+ ]
+}

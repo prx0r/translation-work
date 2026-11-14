@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p03",
  "verse": 57,
- "question": "Where does the mind dissolve according to the sought certainty?",
+ "question": "What grades of ritual duration are assigned to three nights and to the veda-yatra period?",
  "premises": [
-  "A definite answer is requested from the lord of gods.",
-  "The mind is subject to dissolution.",
-  "The location or state of that dissolution is in question."
+  "A duration of three nights is evaluated.",
+  "A duration of veda-yatra is evaluated.",
+  "They are ranked as best and middle respectively."
  ],
- "inference": "The verse asks for the certain state in which the mind dissolves.",
- "uncertainties": [],
- "plain_english": "Tell me with certainty, O Lord of Gods, where the mind dissolves."
+ "inference": "Performing it for three nights is best, while doing it for the veda-yatra period is middle.",
+ "uncertainties": [
+  "The exact length implied by vedayatrau is unclear."
+ ],
+ "plain_english": "If done for three nights it is best, but if done for the veda-yatra period it is of middle quality."
 }

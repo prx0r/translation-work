@@ -3,29 +3,39 @@
  "verse": 30,
  "rows": [
   {
-   "lemma": "tasmāt",
+   "lemma": "anekakoṭi",
+   "morph": "f.nom/acc.sg (compound)",
+   "grounds": "Compound indicating a vast number."
+  },
+  {
+   "lemma": "doṣāḍhyaṃ",
+   "morph": "n.nom/acc.sg (compound)",
+   "grounds": "Compound describing something full of faults."
+  },
+  {
+   "lemma": "dinaṃ",
+   "morph": "n.nom/acc.sg",
+   "grounds": "Noun referring to a day."
+  },
+  {
+   "lemma": "lagnaṃ",
+   "morph": "n.nom/acc.sg",
+   "grounds": "Noun referring to the astrological ascendant."
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "draws consequence from prior claim"
+   "grounds": "Conjunction connecting day and ascendant."
   },
   {
-   "lemma": "sarvaprayatnena",
-   "morph": "m.inst.sg (sarva+prayatna)",
-   "grounds": "total exertion; compound"
-  },
-  {
-   "lemma": "sākāraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "object to be abandoned"
-  },
-  {
-   "lemma": "tu",
+   "lemma": "meva",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "Token as given; likely a fused or variant form in the source."
   },
   {
-   "lemma": "parityajet",
-   "morph": "3.sg.act-opt √tyaj",
-   "grounds": "injunction to renounce form"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "Conjunction."
   }
  ]
 }

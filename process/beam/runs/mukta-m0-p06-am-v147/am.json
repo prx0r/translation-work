@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 147,
- "question": "Which names constitute the sequence in this group-circle listing?",
+ "question": "What proportional quantities of rice grains and sesame are prescribed for the rite?",
  "premises": [
-  "A sequence of names is enumerated.",
-  "Each item functions as a group designation.",
-  "The list forms the relevant set."
+  "Rice grains are to be used in a specified proportion.",
+  "Sesame is to be used in a specified proportion.",
+  "Both are prescribed as half that quantity."
  ],
- "inference": "The sequence consists of hari, antya, amitra, āditya, indu, vāyu, ijya, kara, and ghoṭaka.",
- "uncertainties": [],
- "plain_english": "The names are hari, antya, amitra, āditya, indu, vāyu, ijya, kara, and ghoṭaka."
+ "inference": "The rite requires rice grains in half that quantity and sesame also in half that quantity.",
+ "uncertainties": [
+  "the reference quantity for 'half that' is not explicit in this verse"
+ ],
+ "plain_english": "With half that quantity of rice grains, and also with half that quantity of sesame."
 }

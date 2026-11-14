@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p06",
  "verse": 136,
- "question": "Under what condition does the teacher bear such a name?",
+ "question": "How must the excavated pit be prepared before further ground treatment?",
  "premises": [
-  "A name is under consideration.",
-  "The teacher is the subject.",
-  "A conditional relation is stated."
+  "The pit is to be filled.",
+  "The filling material is coarse sand.",
+  "The filled pit must be mixed with water."
  ],
- "inference": "If the name is such, then the teacher is accordingly designated.",
- "uncertainties": [
-  "The specific qualifying condition for tādṛśaḥ is supplied by context."
- ],
- "plain_english": "If the name is such, then the teacher is such."
+ "inference": "After excavation, the pit must be filled with coarse sand and mixed with water.",
+ "uncertainties": [],
+ "plain_english": "Having filled the pit with coarse sand, make it mixed with water."
 }

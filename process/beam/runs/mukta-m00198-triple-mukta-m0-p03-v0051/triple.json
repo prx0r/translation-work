@@ -1,0 +1,1097 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "citram",
+     "gloss": "variegated",
+     "grounds": "described as variegated or marked",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "traditionally called",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sīramekhalasandhitau",
+     "gloss": "plough-girdle-junction",
+     "grounds": "compound: sīra+mekhala+sandhi, at the junction of plough and girdle",
+     "morph": "compound, f.loc.sg"
+    }
+   ],
+   "question": "What name identifies the remaining part at the junction of plough and girdle?",
+   "premises": [
+    "A remaining part is specified at the plough-girdle junction.",
+    "That part is designated by a particular name.",
+    "The name given is citra."
+   ],
+   "inference": "The remainder at the junction of plough and girdle is known as citra.",
+   "uncertainties": [],
+   "plain_english": "The remaining part at the junction of the plough and the girdle is known as citra."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "agraṃ",
+     "gloss": "tip",
+     "grounds": "the front end",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūcinibhākāraṃ",
+     "gloss": "needle-like-form",
+     "grounds": "compound: sūci+nibha+ākāra, shaped like a needle",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "anupūrvāt",
+     "gloss": "gradually",
+     "grounds": "in sequence from base onward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛśaṃ",
+     "gloss": "thin",
+     "grounds": "tapering to slenderness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative.act √bhū"
+    }
+   ],
+   "question": "What shape and taper must the tip of the implement have?",
+   "premises": [
+    "The tip is the subject of specification.",
+    "Its form is compared to a needle.",
+    "It becomes thin gradually."
+   ],
+   "inference": "The tip should be needle-like in form and gradually taper to thinness.",
+   "uncertainties": [],
+   "plain_english": "The tip should be needle-shaped and should gradually become thin."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "ayasā",
+     "gloss": "with-iron",
+     "grounds": "made of iron",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "halajihvā",
+     "gloss": "plough-tongue",
+     "grounds": "compound: hala+jihvā, the tongue of the plough",
+     "morph": "compound, f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghrāṇāgre",
+     "gloss": "at-nose-tip",
+     "grounds": "compound: ghrāṇa+agra, at the tip of the nose",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-fix",
+     "grounds": "should attach or place",
+     "morph": "3.sg.optative.act √yuj"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How must the wise practitioner attach the iron plough-tongue at the nose-tip?",
+   "premises": [
+    "The plough-tongue is made of iron.",
+    "The point of attachment is the nose-tip.",
+    "A wise practitioner performs the fixing."
+   ],
+   "inference": "The wise one should fix the iron plough-tongue at the nose-tip.",
+   "uncertainties": [
+    "The exact referent of nose-tip in the implement is context-dependent."
+   ],
+   "plain_english": "The wise one should fix the iron plough-tongue at the nose-tip."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāṃgulī",
+     "gloss": "little-finger",
+     "grounds": "compound: kaniṣṭha+aṅgulī, measure of the little finger",
+     "morph": "compound, f.nom.sg"
+    },
+    {
+     "surface": "parīṇāhaṃ",
+     "gloss": "circumference",
+     "grounds": "measure around",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gocarma",
+     "gloss": "cow-hide",
+     "grounds": "compound: go+carman, hide of a cow",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "dvikara",
+     "gloss": "two-hands",
+     "grounds": "compound: dvi+kara, two hand-lengths",
+     "morph": "compound"
+    },
+    {
+     "surface": "āyatam",
+     "gloss": "long",
+     "grounds": "extended in length",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements define the circumference and length of the cow-hide component?",
+   "premises": [
+    "The circumference is measured by the little finger.",
+    "The material specified is cow-hide.",
+    "The length extends two hand-lengths."
+   ],
+   "inference": "The cow-hide should have a little-finger circumference and be two hand-lengths long.",
+   "uncertainties": [],
+   "plain_english": "The cow-hide should have the circumference of a little finger and be two hand-lengths long."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "yugam",
+     "gloss": "yoke",
+     "grounds": "the pair or yoke",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "at the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "halaṃ",
+     "gloss": "plough",
+     "grounds": "the plough implement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "badhvā",
+     "gloss": "having-bound",
+     "grounds": "after fastening",
+     "morph": "absolutive √bandh"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "somewhat",
+     "grounds": "slightly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇam",
+     "gloss": "to-right",
+     "grounds": "toward the right side",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśritam",
+     "gloss": "inclined",
+     "grounds": "positioned or leaning",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the plough be fastened to the yoke in its central position?",
+   "premises": [
+    "The plough is bound in the middle of the yoke.",
+    "Its placement is not perfectly centered.",
+    "It is inclined somewhat to the right."
+   ],
+   "inference": "After binding the plough in the middle of the yoke, it should be set slightly to the right.",
+   "uncertainties": [],
+   "plain_english": "Having fastened the plough in the middle of the yoke, one should set it slightly inclined to the right."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "tila",
+     "gloss": "sesame",
+     "grounds": "sesame seeds",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sarṣapa",
+     "gloss": "mustard",
+     "grounds": "mustard seeds",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mudgāni",
+     "gloss": "mung-beans",
+     "grounds": "mung beans",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "netramaṃtreṇa",
+     "gloss": "with-eye-mantra",
+     "grounds": "compound: netra+mantra, using the eye-mantra",
+     "morph": "compound, m.ins.sg"
+    },
+    {
+     "surface": "vāpayet",
+     "gloss": "should-sow",
+     "grounds": "should scatter or plant",
+     "morph": "3.sg.optative.caus.act √vap"
+    }
+   ],
+   "question": "Which seeds must be sown and with which mantra during the ritual sowing?",
+   "premises": [
+    "Sesame, mustard, and mung beans are specified.",
+    "The act prescribed is sowing.",
+    "The sowing is performed with the eye-mantra."
+   ],
+   "inference": "One should sow sesame, mustard, and mung beans with the eye-mantra.",
+   "uncertainties": [],
+   "plain_english": "One should sow sesame, mustard, and mung beans with the eye-mantra."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "trirātrāṃ",
+     "gloss": "three-nights",
+     "grounds": "compound: tri+rātri, a period of three nights",
+     "morph": "compound, f.acc.sg"
+    },
+    {
+     "surface": "kurite",
+     "gloss": "having-done",
+     "grounds": "when performed",
+     "morph": "absolutive/locative-participle sense, √kṛ"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "the highest grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedayatrau",
+     "gloss": "veda-yatra",
+     "grounds": "compound: veda+yātrā, a period related to veda/yātrā",
+     "morph": "compound, f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "the middle grade",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What grades of ritual duration are assigned to three nights and to the veda-yatra period?",
+   "premises": [
+    "A duration of three nights is evaluated.",
+    "A duration of veda-yatra is evaluated.",
+    "They are ranked as best and middle respectively."
+   ],
+   "inference": "Performing it for three nights is best, while doing it for the veda-yatra period is middle.",
+   "uncertainties": [
+    "The exact length implied by vedayatrau is unclear."
+   ],
+   "plain_english": "If done for three nights it is best, but if done for the veda-yatra period it is of middle quality."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "āpuṣpāt",
+     "gloss": "until-flowering",
+     "grounds": "compound: ā+puṣpa, up to the time of flowers",
+     "morph": "compound, (indecl.)"
+    },
+    {
+     "surface": "phalagaṃ",
+     "gloss": "until-fruiting",
+     "grounds": "compound: phala+ga, up to bearing fruit",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "rakṣya",
+     "gloss": "having-protected",
+     "grounds": "after guarding",
+     "morph": "absolutive √rakṣ"
+    },
+    {
+     "surface": "gogaṇānāṃ",
+     "gloss": "of-cow-herds",
+     "grounds": "compound: go+gaṇa, to the groups of cows",
+     "morph": "compound, m.gen.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "should present or dedicate",
+     "morph": "3.sg.optative.caus.act √vid"
+    }
+   ],
+   "question": "Until what stage must the growth be protected before offering it to the cow herds?",
+   "premises": [
+    "The growth must be guarded through flowering and fruiting.",
+    "Protection precedes the offering.",
+    "The offering is made to the cow herds."
+   ],
+   "inference": "After protecting it until flowering and fruiting, one should offer it to the cow herds.",
+   "uncertainties": [],
+   "plain_english": "Having protected it until it flowers and bears fruit, one should offer it to the herds of cows."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "govaktragatakenaiś",
+     "gloss": "gone-from-cow-mouth",
+     "grounds": "compound: go+vaktra+gata+ka, that which has come from the cow's mouth",
+     "morph": "compound, n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gomayeḥ",
+     "gloss": "with-cow-dung",
+     "grounds": "compound: go+maya, with cow-dung",
+     "morph": "compound, n.ins.pl"
+    },
+    {
+     "surface": "prastavair",
+     "gloss": "with-streams",
+     "grounds": "with flows or deposits",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances from the cow are also used to prepare the ground?",
+   "premises": [
+    "Material from the cow's mouth is included.",
+    "Cow-dung is included.",
+    "These are applied as streams or deposits."
+   ],
+   "inference": "The ground is also treated with what comes from the cow's mouth and with streams of cow-dung.",
+   "uncertainties": [
+    "The exact sense of govaktragatakenaiś and prastavair is uncertain."
+   ],
+   "plain_english": "Also with what has come from the cow's mouth and with streams of cow-dung."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "praśastaṃ",
+     "gloss": "excellent",
+     "grounds": "commended as suitable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūtalaṃ",
+     "gloss": "ground",
+     "grounds": "compound: bhū+tala, the surface of the earth",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "at the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samatalaṃ",
+     "gloss": "level",
+     "grounds": "compound: sama+tala, even and flat",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of ground must the teacher select and prepare at the center?",
+   "premises": [
+    "The teacher acts after the prior preparations.",
+    "The ground chosen must be excellent.",
+    "The ground must be level in the middle."
+   ],
+   "inference": "Afterwards the teacher should select an excellent and level ground in the middle.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, the teacher should choose an excellent piece of ground that is level in the middle."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "śaṃkuṃ",
+     "gloss": "peg",
+     "grounds": "a measuring peg",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalāṃgulāyāmaṃ",
+     "gloss": "sixteen-finger-length",
+     "grounds": "compound: kalā+aṅgula+āyāma, length of sixteen fingers",
+     "morph": "compound, m.acc.sg"
+    },
+    {
+     "surface": "nāhaṃ",
+     "gloss": "thickness",
+     "grounds": "compound: nāha, girth or thickness",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "equal-to-that",
+     "grounds": "compound: tad+sama, equal to that measure",
+     "morph": "compound, m.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is stated",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What length and thickness are prescribed for the measuring peg?",
+   "premises": [
+    "A peg is the object being defined.",
+    "Its length is sixteen fingers.",
+    "Its thickness is said to be equal to that measure."
+   ],
+   "inference": "The peg is said to be sixteen fingers long with a thickness equal to that.",
+   "uncertainties": [
+    "The exact interpretation of nāhaṃ tatsamam is uncertain."
+   ],
+   "plain_english": "The peg is said to be sixteen fingers long, with a thickness equal to that."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "mūlāgraṃ",
+     "gloss": "root-and-tip",
+     "grounds": "compound: mūla+agra, from root to tip",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "mukulākāraṃ",
+     "gloss": "bud-shaped",
+     "grounds": "compound: mukula+ākāra, shaped like a bud",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "mūlāgraṃ",
+     "gloss": "root-and-tip",
+     "grounds": "compound: mūla+agra, from root to tip",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "kramaśāt",
+     "gloss": "gradually",
+     "grounds": "step by step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛśam",
+     "gloss": "thin",
+     "grounds": "slender",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What overall shape and taper are required for the peg from root to tip?",
+   "premises": [
+    "The peg is described from root to tip.",
+    "Its form is like a bud.",
+    "It becomes thin gradually."
+   ],
+   "inference": "The peg should be bud-shaped and gradually thin from root to tip.",
+   "uncertainties": [
+    "The repetition of mūlāgraṃ is ambiguous."
+   ],
+   "plain_english": "From root to tip it should be bud-shaped and gradually become thin."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "śaṃku",
+     "gloss": "peg",
+     "grounds": "the measuring peg",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dviguṇamānena",
+     "gloss": "by-double-measure",
+     "grounds": "compound: dvi+guṇa+māna, with twice the measure",
+     "morph": "compound, n.ins.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "compound: tad+madhya, in the middle of that",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "a circular figure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-draw",
+     "grounds": "should mark out",
+     "morph": "3.sg.optative.act √likh"
+    }
+   ],
+   "question": "How large a circle must be drawn around the middle using the peg's measure?",
+   "premises": [
+    "A circle is to be drawn in the middle.",
+    "The peg provides the unit of measure.",
+    "The measure used is double the peg."
+   ],
+   "inference": "One should draw a circle in its middle with a radius of twice the peg's measure.",
+   "uncertainties": [],
+   "plain_english": "In its middle one should draw a circle using twice the measure of the peg."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "pūrvāparāhnayoḥ",
+     "gloss": "in-forenoon-afternoon",
+     "grounds": "compound: pūrva+apara+ahna, in the forenoon and afternoon",
+     "morph": "compound, m.loc.dual"
+    },
+    {
+     "surface": "chāyā",
+     "gloss": "shadow",
+     "grounds": "the shadow cast",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "explanatory marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmaṇḍalāntagau",
+     "gloss": "reaching-that-circle-edge",
+     "grounds": "compound: tad+maṇḍala+anta+ga, reaching the edge of that circle",
+     "morph": "compound, f.nom.dual"
+    }
+   ],
+   "question": "Where must the forenoon and afternoon shadows fall relative to the drawn circle?",
+   "premises": [
+    "Shadows are observed in forenoon and afternoon.",
+    "A circle has already been drawn.",
+    "The shadows reach the edge of that circle."
+   ],
+   "inference": "The forenoon and afternoon shadows should reach the edge of that circle.",
+   "uncertainties": [],
+   "plain_english": "The shadows in the forenoon and afternoon should reach the edge of that circle."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "tadbindudvayagaṃ",
+     "gloss": "passing-through-those-two-points",
+     "grounds": "compound: tad+bindu+dvaya+ga, going through those two points",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "a stretched cord or line",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvāparadigiṣyate",
+     "gloss": "is-desired-as-east-west-direction",
+     "grounds": "compound: pūrva+apara+diś+iṣ, is taken as the east-west direction",
+     "morph": "compound, 3.sg.pres.pass √iṣ"
+    }
+   ],
+   "question": "What directional line is established by the thread passing through the two shadow points?",
+   "premises": [
+    "Two points are marked by the shadows.",
+    "A thread passes through those two points.",
+    "That line defines the east-west direction."
+   ],
+   "inference": "The thread passing through those two points is taken as the east-west line.",
+   "uncertainties": [],
+   "plain_english": "The thread passing through those two points is taken as the east-west direction."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "dakṣiṇottaragaṃ",
+     "gloss": "going-south-north",
+     "grounds": "compound: dakṣiṇa+uttara+ga, running south to north",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "a stretched cord or line",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "compound: tad+madhya, in the middle of that",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasārayet",
+     "gloss": "should-stretch",
+     "grounds": "should extend",
+     "morph": "3.sg.optative.caus.act √sṛ"
+    }
+   ],
+   "question": "How must the south-north thread be laid in relation to the established middle?",
+   "premises": [
+    "A south-north line is required.",
+    "The reference point is the middle of the prior line.",
+    "The thread must be stretched through it."
+   ],
+   "inference": "One should stretch the south-north thread through the middle of that line.",
+   "uncertainties": [],
+   "plain_english": "One should stretch a south-north thread through its middle."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "the circular diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kubjatālena",
+     "gloss": "by-short-span",
+     "grounds": "compound: kubja+tāla, by a shortened span measure",
+     "morph": "compound, m.ins.sg"
+    },
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "small",
+     "grounds": "the smallest measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "when partitioned",
+     "morph": "n.loc.sg, past-participle √bhaj"
+    }
+   ],
+   "question": "What measure defines the small circle when the diagram is divided by the short span?",
+   "premises": [
+    "The circle is divided according to a measure.",
+    "The measure used is the short span.",
+    "The resulting division is called small."
+   ],
+   "inference": "When divided by the short span, the circle is designated as the small one.",
+   "uncertainties": [
+    "The technical sense of kubjatālena and kanyasaṃ is uncertain."
+   ],
+   "plain_english": "When divided by the short span, the circle is the small one."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "gatetvārjavam",
+     "gloss": "having-gone-to-straightness",
+     "grounds": "compound: gata+tu+ārjava, having attained straightness",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "declared",
+     "morph": "n.nom.sg, past-participle √vac"
+    },
+    {
+     "surface": "kanyāyāś",
+     "gloss": "of-maiden",
+     "grounds": "of the maiden sign or measure",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "compound: tathā+eva, in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition of straightness is declared for the maiden measure in this procedure?",
+   "premises": [
+    "A state of straightness is attained.",
+    "This attainment is explicitly stated.",
+    "It applies likewise to the maiden measure."
+   ],
+   "inference": "It is said that straightness is attained, and likewise so for the maiden measure.",
+   "uncertainties": [
+    "The technical referent of kanyāyāś is uncertain."
+   ],
+   "plain_english": "It is said to have attained straightness, and likewise indeed for the maiden."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "vardhayen",
+     "gloss": "should-increase",
+     "grounds": "should extend or augment",
+     "morph": "3.sg.optative.caus.act √vṛdh"
+    },
+    {
+     "surface": "mithune",
+     "gloss": "in-pair",
+     "grounds": "in the pair or twin sign",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saptaviṃśadaṃśāvasānakam",
+     "gloss": "ending-at-twenty-seven-parts",
+     "grounds": "compound: saptaviṃśat+aṃśa+avasānaka, ending at twenty-seven parts",
+     "morph": "compound, n.acc.sg"
+    }
+   ],
+   "question": "To what limit of twenty-seven parts must the measure be increased in the pair?",
+   "premises": [
+    "An increase is prescribed.",
+    "The context is the pair.",
+    "The increase ends at twenty-seven parts."
+   ],
+   "inference": "In the pair one should increase the measure up to twenty-seven parts.",
+   "uncertainties": [
+    "The technical context of mithune is uncertain."
+   ],
+   "plain_english": "In the pair one should increase it up to the limit of twenty-seven parts."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "kanyāyāṃ",
+     "gloss": "in-maiden",
+     "grounds": "in the maiden sign or measure",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭaviṃśāṃśāt",
+     "gloss": "from-twenty-eighth-part",
+     "grounds": "compound: aṣṭaviṃśa+aṃśa, from the twenty-eighth part",
+     "morph": "compound, m.abl.sg"
+    },
+    {
+     "surface": "ardhamātra",
+     "gloss": "half-measure",
+     "grounds": "compound: ardha+mātra, by a half measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "vivardhanāt",
+     "gloss": "by-increase",
+     "grounds": "through augmentation",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "By what increment must the measure be increased in the maiden from the twenty-eighth part?",
+   "premises": [
+    "The context is the maiden.",
+    "The starting point is the twenty-eighth part.",
+    "The increase is by a half measure."
+   ],
+   "inference": "In the maiden one should increase it by a half measure from the twenty-eighth part.",
+   "uncertainties": [
+    "The technical context of kanyāyāṃ is uncertain."
+   ],
+   "plain_english": "And in the maiden, from the twenty-eighth part, by an increase of a half measure."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "chāyāvṛddhikṣayaṃ",
+     "gloss": "shadow-increase-decrease",
+     "grounds": "compound: chāyā+vṛddhi+kṣaya, the increase and decrease of shadow",
+     "morph": "compound, m.acc.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "emphatic particle, sandhi form of hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "declared or taught",
+     "morph": "f.nom.sg, past-participle √kīrt"
+    },
+    {
+     "surface": "śaṃkumadhyamāt",
+     "gloss": "from-peg-middle",
+     "grounds": "compound: śaṅku+madhya, from the middle of the peg",
+     "morph": "compound, n.abl.sg"
+    }
+   ],
+   "question": "How is the increase and decrease of shadow from the peg's middle authoritatively described?",
+   "premises": [
+    "Shadow increase and decrease are the subject.",
+    "The reference point is the middle of the peg.",
+    "This pattern is proclaimed in this way."
+   ],
+   "inference": "The increase and decrease of shadow from the middle of the peg is thus proclaimed.",
+   "uncertainties": [],
+   "plain_english": "Thus the increase and decrease of the shadow from the middle of the peg is proclaimed."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "pūrvāparāhvayormadhye",
+     "gloss": "between-forenoon-afternoon",
+     "grounds": "compound: pūrva+apara+ahna+madhya, in the middle between forenoon and afternoon",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "chāyāmānaṃ",
+     "gloss": "shadow-measure",
+     "grounds": "compound: chāyā+māna, the measure of the shadow",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-exclude",
+     "grounds": "should discard or avoid",
+     "morph": "3.sg.optative.caus.act √vṛj"
+    }
+   ],
+   "question": "Which shadow measurement must be excluded when taken between forenoon and afternoon?",
+   "premises": [
+    "A shadow measurement is taken between forenoon and afternoon.",
+    "Not all measurements are retained.",
+    "That intermediate measurement should be excluded."
+   ],
+   "inference": "One should exclude the shadow measurement taken between forenoon and afternoon.",
+   "uncertainties": [],
+   "plain_english": "One should exclude the shadow measurement taken between forenoon and afternoon."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day-declaration",
+     "grounds": "compound: puṇya+aha, the auspicious-day rite",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "vācayet",
+     "gloss": "should-have-recited",
+     "grounds": "should cause to be pronounced",
+     "morph": "3.sg.optative.caus.act √vac"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khātvā",
+     "gloss": "having-dug",
+     "grounds": "after excavating",
+     "morph": "absolutive √khan"
+    },
+    {
+     "surface": "prāsādamānakaḥ",
+     "gloss": "according-to-temple-measure",
+     "grounds": "compound: prāsāda+mānaka, according to the measure of the temple",
+     "morph": "compound, m.nom.sg"
+    }
+   ],
+   "question": "What ritual recitation and excavation must follow according to the temple's measure?",
+   "premises": [
+    "An auspicious-day declaration is to be recited.",
+    "Excavation follows afterwards.",
+    "The excavation follows the temple's measure."
+   ],
+   "inference": "After having the auspicious-day declaration recited, one should dig according to the temple's measure.",
+   "uncertainties": [],
+   "plain_english": "Afterwards one should have the auspicious-day declaration recited, and then dig according to the measure of the temple."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "tatpade",
+     "gloss": "in-that-place",
+     "grounds": "compound: tad+pada, in that spot",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "site",
+     "grounds": "the site or dwelling ground",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devāṃś",
+     "gloss": "gods",
+     "grounds": "the deities of the site",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "after performing worship",
+     "morph": "absolutive.caus √pūj"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "by-name",
+     "grounds": "individually by name",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities must be worshipped by name in that place after the excavation?",
+   "premises": [
+    "The action takes place in that designated spot.",
+    "The site deities are the objects of worship.",
+    "They are to be worshipped individually by name."
+   ],
+   "inference": "In that place one should worship the site deities by name.",
+   "uncertainties": [],
+   "plain_english": "In that place, having worshipped the site deities by name."
+  }
+ ]
+}

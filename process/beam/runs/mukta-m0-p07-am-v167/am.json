@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p07",
  "verse": 167,
- "question": "Which days of the dark fortnight are further specified for ritual timing?",
+ "question": "How should the remaining bricks be oriented in the northern and southern directions?",
  "premises": [
-  "Ritual timing can be specified by lunar days.",
-  "The fourteenth and eighth days are named.",
-  "The dark new-moon day is likewise included."
+  "Brick orientation varies by direction.",
+  "One placement is east-pointing in the south.",
+  "The remaining two are north-pointing."
  ],
- "inference": "The fourteenth, eighth, and new-moon day of the dark fortnight are specified.",
- "uncertainties": [],
- "plain_english": "The fourteenth, the eighth of the dark fortnight, and likewise the new-moon day are specified."
+ "inference": "In the south it should be east-pointing, and the remaining two should be north-pointing.",
+ "uncertainties": [
+  "syntactic distribution across directions is compressed"
+ ],
+ "plain_english": "In the south it should point east, and the remaining two should point north."
 }

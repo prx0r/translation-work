@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p100",
  "verse": 2489,
- "question": "What concluding act completes the preliminary rite described here?",
+ "question": "How are the parts divided above when using three, five, and four part measures?",
  "premises": [
-  "The preliminary rite involves prior ritual acts.",
-  "Feeding brahmins is prescribed afterwards.",
-  "This feeding brings the rite to completion."
+  "A three-part division is mentioned.",
+  "A five-part division is mentioned.",
+  "A four-part measure is taken above."
  ],
- "inference": "Therefore, feeding brahmins afterwards completes this preliminary rite.",
+ "inference": "Three parts are taken in a five-part division, and four parts above that.",
  "uncertainties": [
-  "The form 'samantv' is read as indicating completion in this context."
+  "The precise spatial application of these divisions is ambiguous."
  ],
- "plain_english": "Afterwards one should feed brahmins; thus this preliminary rite is completed."
+ "plain_english": "Take three parts in a five-part division, and then four parts above."
 }

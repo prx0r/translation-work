@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2476,
+   "rows": [
+    {
+     "surface": "śirasā",
+     "gloss": "with-head",
+     "grounds": "instrument of placement at the head",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saharudrāṃśaṃ",
+     "gloss": "with-rudra-portion",
+     "grounds": "including the Rudra portion",
+     "morph": "saha+rudra+aṃśa (compound, acc.sg.m)"
+    },
+    {
+     "surface": "guṇabhāgavibhājite",
+     "gloss": "when-quality-portion-divided",
+     "grounds": "when divided into quality portions",
+     "morph": "guṇa+bhāga+vibhājita (compound, loc.sg.n)"
+    }
+   ],
+   "question": "How is the Rudra portion positioned when the quality portions are divided?",
+   "premises": [
+    "The head serves as the reference point.",
+    "The Rudra portion is included in the arrangement.",
+    "The division is made into quality portions."
+   ],
+   "inference": "The Rudra portion is taken together with the head when the quality portions are divided.",
+   "uncertainties": [],
+   "plain_english": "When divided into quality portions, the Rudra portion is taken together with the head."
+  },
+  {
+   "verse": 2477,
+   "rows": [
+    {
+     "surface": "tadadhasthāṃśake",
+     "gloss": "in-portion-below-that",
+     "grounds": "in the portion situated below that",
+     "morph": "tad+adhastha+aṃśaka (compound, loc.sg.m)"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brahmin",
+     "grounds": "address to the brahmin",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "lakṣaṇoddhāram",
+     "gloss": "mark-extraction",
+     "grounds": "the drawing out of the mark",
+     "morph": "lakṣaṇa+uddhāra (compound, acc.sg.m)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the action to be done",
+     "morph": "3.sg.act-opt √ā-car"
+    }
+   ],
+   "question": "Where should a brahmin perform the extraction of the mark?",
+   "premises": [
+    "The instruction is addressed to a brahmin.",
+    "A specific portion below the previously mentioned part is indicated.",
+    "The prescribed action is the extraction of the mark."
+   ],
+   "inference": "The brahmin should perform the extraction of the mark in the portion below that.",
+   "uncertainties": [],
+   "plain_english": "O brahmin, one should perform the extraction of the mark in the portion below that."
+  },
+  {
+   "verse": 2478,
+   "rows": [
+    {
+     "surface": "dvijānāmabhivṛddhyarthaṃ",
+     "gloss": "for-growth-of-twice-born",
+     "grounds": "for the purpose of increasing the twice-born",
+     "morph": "dvija+abhivṛddhi+artha (compound, acc.sg.n)"
+    },
+    {
+     "surface": "nṛpāṇāṃ",
+     "gloss": "of-kings",
+     "grounds": "pertaining to kings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the beneficiaries",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayāvaham",
+     "gloss": "bringing-victory",
+     "grounds": "producing victory",
+     "morph": "jaya+āvaha (compound, acc.sg.n)"
+    }
+   ],
+   "question": "What purposes does the prescribed mark serve for twice-born and kings?",
+   "premises": [
+    "The mark is intended for the growth of the twice-born.",
+    "Kings are also included as beneficiaries.",
+    "The mark brings victory."
+   ],
+   "inference": "The mark is for the growth of the twice-born and for bringing victory to kings.",
+   "uncertainties": [],
+   "plain_english": "It is for the growth of the twice-born and for bringing victory to kings."
+  },
+  {
+   "verse": 2479,
+   "rows": [
+    {
+     "surface": "śaṃkhaṃ",
+     "gloss": "conch",
+     "grounds": "the conch mark",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃkuśayorbhedāt",
+     "gloss": "by-distinction-of-goads",
+     "grounds": "by differentiation involving goads",
+     "morph": "aṃkuśa (compound member, m.gen.du) + bheda (abl.sg.m)"
+    },
+    {
+     "surface": "nṛpāṇāmabhivṛddhaye",
+     "gloss": "for-growth-of-kings",
+     "grounds": "for the increase of kings",
+     "morph": "nṛpa+abhivṛddhi (compound, f.dat.sg)"
+    }
+   ],
+   "question": "Which marks are prescribed for the growth and prosperity of kings?",
+   "premises": [
+    "A conch mark is specified.",
+    "A distinction involving goads is indicated.",
+    "The purpose is the growth of kings."
+   ],
+   "inference": "The conch and a mark distinguished by goads are prescribed for the growth of kings.",
+   "uncertainties": [
+    "The exact form implied by aṃkuśayorbhedāt is unclear."
+   ],
+   "plain_english": "The conch, and by distinction of goads, is for the growth of kings."
+  },
+  {
+   "verse": 2480,
+   "rows": [
+    {
+     "surface": "vaiśyānāṃ",
+     "gloss": "of-merchants",
+     "grounds": "pertaining to the merchant class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tattrikoṇaṃ",
+     "gloss": "that-triangle",
+     "grounds": "that triangular mark",
+     "morph": "tad+trikoṇa (compound, acc.sg.n)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlavṛttāyataṃ",
+     "gloss": "trident-round-elongated",
+     "grounds": "elongated and round like a trident",
+     "morph": "śūla+vṛtta+āyata (compound, acc.sg.n)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What forms of marks are designated for the merchant class?",
+   "premises": [
+    "The merchant class is specified as the beneficiary.",
+    "A triangular form is mentioned.",
+    "An elongated round form like a trident is also mentioned."
+   ],
+   "inference": "For merchants, a triangle and likewise an elongated round trident-like form are designated.",
+   "uncertainties": [],
+   "plain_english": "For merchants, that triangle and likewise an elongated, round, trident-like form are prescribed."
+  },
+  {
+   "verse": 2481,
+   "rows": [
+    {
+     "surface": "lakṣaṇoddhāraṇoktāṃśaṃ",
+     "gloss": "portion-stated-for-mark-extraction",
+     "grounds": "the portion declared for extracting the mark",
+     "morph": "lakṣaṇa+uddhāraṇa+ukta+aṃśa (compound, acc.sg.m)"
+    },
+    {
+     "surface": "rudrabhāgavibhājite",
+     "gloss": "when-rudra-portion-divided",
+     "grounds": "when divided into Rudra portions",
+     "morph": "rudra+bhāga+vibhājita (compound, loc.sg.n)"
+    }
+   ],
+   "question": "Under what division is the portion for mark extraction determined?",
+   "premises": [
+    "A portion for mark extraction is specified.",
+    "The division is made into Rudra portions."
+   ],
+   "inference": "The portion stated for mark extraction is determined when divided into Rudra portions.",
+   "uncertainties": [],
+   "plain_english": "The portion stated for the extraction of the mark is taken when divided into Rudra portions."
+  },
+  {
+   "verse": 2482,
+   "rows": [
+    {
+     "surface": "tanmūlanāladīrghaṃ",
+     "gloss": "that-root-stalk-length",
+     "grounds": "the length of the stalk from its root",
+     "morph": "tad+mūla+nāla+dīrgha (compound, acc.sg.n)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navabhāgam",
+     "gloss": "nine-parts",
+     "grounds": "divided into nine parts",
+     "morph": "nava+bhāga (compound, acc.sg.n)"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated as the rule",
+     "morph": "n.nom.sg.ppp √ud-ā-hṛ"
+    }
+   ],
+   "question": "How many parts constitute the declared length of the stalk from its root?",
+   "premises": [
+    "The length of the stalk from its root is the subject.",
+    "A division into parts is prescribed.",
+    "The measure is explicitly declared."
+   ],
+   "inference": "The length of the stalk from its root is declared to be nine parts.",
+   "uncertainties": [],
+   "plain_english": "The length of the stalk from its root is declared to be nine parts."
+  },
+  {
+   "verse": 2483,
+   "rows": [
+    {
+     "surface": "sūtradvitriyutaṃ",
+     "gloss": "joined-with-two-three-threads",
+     "grounds": "combined with two or three threads",
+     "morph": "sūtra+dvi+tri+yuta (compound, acc.sg.n)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrāntaraṃ",
+     "gloss": "another-thread",
+     "grounds": "an additional thread measure",
+     "morph": "sūtra+antara (compound, acc.sg.n)"
+    },
+    {
+     "surface": "yavatrayam",
+     "gloss": "three-barleycorns",
+     "grounds": "a measure of three barleycorns",
+     "morph": "yava+traya (compound, acc.sg.n)"
+    }
+   ],
+   "question": "What additional thread measure is specified when two or three threads are joined?",
+   "premises": [
+    "A condition involves joining two or three threads.",
+    "An additional thread measure is required.",
+    "The measure is given as three barleycorns."
+   ],
+   "inference": "If two or three threads are joined, an additional thread measure of three barleycorns is specified.",
+   "uncertainties": [],
+   "plain_english": "If joined with two or three threads, then an additional thread measure of three barleycorns is used."
+  },
+  {
+   "verse": 2484,
+   "rows": [
+    {
+     "surface": "nālamūle",
+     "gloss": "at-stalk-root",
+     "grounds": "at the root of the stalk",
+     "morph": "nāla+mūla (compound, loc.sg.n)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāgre",
+     "gloss": "at-its-tip",
+     "grounds": "at the tip of that",
+     "morph": "tad+agra (compound, loc.sg.n)"
+    },
+    {
+     "surface": "sīmāsūtraṃ",
+     "gloss": "boundary-thread",
+     "grounds": "the boundary line thread",
+     "morph": "sīmā+sūtra (compound, acc.sg.n)"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-draw",
+     "grounds": "prescribes drawing the line",
+     "morph": "3.sg.act-opt √sam-ā-likh"
+    }
+   ],
+   "question": "Where should the boundary thread be drawn on the stalk?",
+   "premises": [
+    "The root of the stalk is one reference point.",
+    "The tip of the stalk is another reference point.",
+    "A boundary thread must be drawn."
+   ],
+   "inference": "One should draw the boundary thread at the root of the stalk and at its tip.",
+   "uncertainties": [],
+   "plain_english": "One should draw the boundary thread at the root of the stalk and at its tip."
+  },
+  {
+   "verse": 2485,
+   "rows": [
+    {
+     "surface": "sūtrokta",
+     "gloss": "stated-by-thread",
+     "grounds": "as specified by the thread measure",
+     "morph": "sūtra+ukta (compound)"
+    },
+    {
+     "surface": "vyāsakhātaṃ",
+     "gloss": "diameter-hollow",
+     "grounds": "the hollow or groove of the diameter",
+     "morph": "vyāsa+khāta (compound, acc.sg.n)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nālayāme",
+     "gloss": "in-stalk-length",
+     "grounds": "along the length of the stalk",
+     "morph": "nāla+yāma (compound, loc.sg.m)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescribes arranging or forming",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "How should the diameter hollow be arranged along the stalk length?",
+   "premises": [
+    "The diameter hollow is specified by the thread measure.",
+    "The arrangement is along the length of the stalk.",
+    "The action of arranging is prescribed."
+   ],
+   "inference": "One should arrange the diameter hollow, as stated by the thread, along the length of the stalk.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the diameter hollow, as specified by the thread, along the length of the stalk."
+  },
+  {
+   "verse": 2486,
+   "rows": [
+    {
+     "surface": "maṇirekhāṃ",
+     "gloss": "jewel-line",
+     "grounds": "the line of the jewel",
+     "morph": "maṇi+rekhā (compound, acc.sg.f)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescribes making",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "mukulādāsphigantakam",
+     "gloss": "from-bud-to-hip-end",
+     "grounds": "extending from the bud up to the hip end",
+     "morph": "mukula+ā+sphig+antaka (compound, acc.sg.f)"
+    }
+   ],
+   "question": "What is the prescribed extent of the jewel line to be made?",
+   "premises": [
+    "A jewel line is to be made.",
+    "The starting point is the bud.",
+    "The ending point is the hip end."
+   ],
+   "inference": "One should make the jewel line extending from the bud to the hip end.",
+   "uncertainties": [],
+   "plain_english": "Then one should make the jewel line extending from the bud to the hip end."
+  },
+  {
+   "verse": 2487,
+   "rows": [
+    {
+     "surface": "padmatāra",
+     "gloss": "lotus-width",
+     "grounds": "the width of the lotus",
+     "morph": "padma+tāra (compound)"
+    },
+    {
+     "surface": "tridhaikaṃ",
+     "gloss": "one-third",
+     "grounds": "one part out of three",
+     "morph": "tridhā+eka (compound, acc.sg.n)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indicates alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśe",
+     "gloss": "in-fourth-part",
+     "grounds": "in a portion of four",
+     "morph": "veda+aṃśa (compound, loc.sg.m)"
+    },
+    {
+     "surface": "agnyaṃśameva",
+     "gloss": "fire-portion-only",
+     "grounds": "only the fire portion, that is one part",
+     "morph": "agni+aṃśa (compound, acc.sg.m) + eva (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indicates alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative proportions are allowed for the lotus width measure?",
+   "premises": [
+    "The lotus width is the measure in question.",
+    "One alternative is one-third.",
+    "Another alternative is one part out of four."
+   ],
+   "inference": "The lotus width may be taken as one-third, or as one part out of four.",
+   "uncertainties": [],
+   "plain_english": "The lotus width may be one-third, or alternatively one part out of four."
+  },
+  {
+   "verse": 2488,
+   "rows": [
+    {
+     "surface": "mukulamūlentaraṃ",
+     "gloss": "interval-at-bud-root",
+     "grounds": "the interval at the root of the bud",
+     "morph": "mukula+mūla+antara (compound, acc.sg.n)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nālamūlentaraṃ",
+     "gloss": "interval-at-stalk-root",
+     "grounds": "the interval at the root of the stalk",
+     "morph": "nāla+mūla+antara (compound, acc.sg.n)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.act-impv √śru"
+    }
+   ],
+   "question": "What interval at the stalk root is introduced after describing the bud root interval?",
+   "premises": [
+    "The interval at the bud root has been described.",
+    "A corresponding interval at the stalk root is to be explained.",
+    "The listener is instructed to hear."
+   ],
+   "inference": "Having described the bud root interval thus, the interval at the stalk root is now to be heard.",
+   "uncertainties": [],
+   "plain_english": "Thus indeed is the interval at the bud root; now hear the interval at the stalk root."
+  },
+  {
+   "verse": 2489,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "a division into three parts",
+     "morph": "tri+bhāga (compound, acc.sg.n)"
+    },
+    {
+     "surface": "paṃcabhāge",
+     "gloss": "in-five-parts",
+     "grounds": "when divided into five parts",
+     "morph": "pañcan+bhāga (compound, loc.sg.m)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedabhāgam",
+     "gloss": "four-parts",
+     "grounds": "a portion of four parts",
+     "morph": "veda+bhāga (compound, acc.sg.m)"
+    },
+    {
+     "surface": "athopari",
+     "gloss": "then-above",
+     "grounds": "then above that",
+     "morph": "atha+upari (compound, indecl.)"
+    }
+   ],
+   "question": "How are the parts divided above when using three, five, and four part measures?",
+   "premises": [
+    "A three-part division is mentioned.",
+    "A five-part division is mentioned.",
+    "A four-part measure is taken above."
+   ],
+   "inference": "Three parts are taken in a five-part division, and four parts above that.",
+   "uncertainties": [
+    "The precise spatial application of these divisions is ambiguous."
+   ],
+   "plain_english": "Take three parts in a five-part division, and then four parts above."
+  },
+  {
+   "verse": 2490,
+   "rows": [
+    {
+     "surface": "mūlādagraṃ",
+     "gloss": "from-root-to-tip",
+     "grounds": "extending from root to tip",
+     "morph": "mūla+ā+agra (compound, acc.sg.n)"
+    },
+    {
+     "surface": "kramātkṣīṇaṃ",
+     "gloss": "gradually-tapered",
+     "grounds": "diminishing in sequence",
+     "morph": "krama+kṣīṇa (compound, acc.sg.f)"
+    },
+    {
+     "surface": "maṇirekhāṃ",
+     "gloss": "jewel-line",
+     "grounds": "the line of the jewel",
+     "morph": "maṇi+rekhā (compound, acc.sg.f)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "command to make",
+     "morph": "2.sg.act-impv √kṛ"
+    }
+   ],
+   "question": "How should the jewel line be shaped from root to tip?",
+   "premises": [
+    "The jewel line extends from root to tip.",
+    "It must diminish gradually.",
+    "The action of making it is commanded."
+   ],
+   "inference": "One should make the jewel line gradually tapered from root to tip.",
+   "uncertainties": [],
+   "plain_english": "Then make the jewel line gradually tapered from root to tip."
+  },
+  {
+   "verse": 2491,
+   "rows": [
+    {
+     "surface": "maṇirekhāvyāsakhātaṃ",
+     "gloss": "jewel-line-diameter-hollow",
+     "grounds": "the diameter hollow of the jewel line",
+     "morph": "maṇi+rekhā+vyāsa+khāta (compound, acc.sg.n)"
+    },
+    {
+     "surface": "liṃgasyocitasūtravat",
+     "gloss": "like-thread-suitable-for-linga",
+     "grounds": "according to the thread measure suitable for the linga",
+     "morph": "liṅga+ucita+sūtra+vat (compound, indecl.)"
+    }
+   ],
+   "question": "What standard governs the diameter hollow of the jewel line?",
+   "premises": [
+    "The diameter hollow of the jewel line is specified.",
+    "A suitable thread measure for the linga is the reference."
+   ],
+   "inference": "The diameter hollow of the jewel line should follow the thread measure suitable for the linga.",
+   "uncertainties": [],
+   "plain_english": "The diameter hollow of the jewel line should be made according to the thread measure suitable for the linga."
+  },
+  {
+   "verse": 2492,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "from that point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmūlaparyantaṃ",
+     "gloss": "up-to-its-root-end",
+     "grounds": "extending up to the end of its root",
+     "morph": "tad+mūla+paryanta (compound, acc.sg.n)"
+    },
+    {
+     "surface": "vasubhāgavibhājite",
+     "gloss": "when-divided-into-eight-parts",
+     "grounds": "when divided into eight portions",
+     "morph": "vasu+bhāga+vibhājita (compound, loc.sg.n)"
+    }
+   ],
+   "question": "How is the extent up to the root end divided in this measurement?",
+   "premises": [
+    "The reference point is from that location.",
+    "The extent reaches up to the root end.",
+    "The division is into eight parts."
+   ],
+   "inference": "From that point up to its root end, the measure is divided into eight parts.",
+   "uncertainties": [],
+   "plain_english": "From that point up to its root end, it is divided into eight parts."
+  },
+  {
+   "verse": 2493,
+   "rows": [
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "in all cases",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "lakṣaṇoddhāreṣu",
+     "gloss": "in-mark-extractions",
+     "grounds": "in the extractions of marks",
+     "morph": "lakṣaṇa+uddhāra (compound, m.loc.pl)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇirekhake",
+     "gloss": "in-jewel-line",
+     "grounds": "in the case of the jewel line",
+     "morph": "maṇi+rekhaka (compound, loc.sg.n)"
+    }
+   ],
+   "question": "Does the stated rule for the jewel line apply to all mark extractions?",
+   "premises": [
+    "The rule concerns the jewel line.",
+    "All mark extractions are included.",
+    "The application is stated as general."
+   ],
+   "inference": "Thus indeed, in all mark extractions, the same rule applies to the jewel line.",
+   "uncertainties": [],
+   "plain_english": "Thus indeed, in all extractions of marks, the same applies to the jewel line."
+  },
+  {
+   "verse": 2494,
+   "rows": [
+    {
+     "surface": "lakṣaṇoddhāraṇāṃśaṃ",
+     "gloss": "mark-extraction-portion",
+     "grounds": "the portion for extracting the mark",
+     "morph": "lakṣaṇa+uddhāraṇa+aṃśa (compound, acc.sg.m)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśabhāgavibhājite",
+     "gloss": "when-divided-into-ten-parts",
+     "grounds": "when divided into ten portions",
+     "morph": "daśan+bhāga+vibhājita (compound, loc.sg.n)"
+    }
+   ],
+   "question": "Into how many parts is the measure divided for the mark extraction portion?",
+   "premises": [
+    "The portion for mark extraction is specified.",
+    "A division into parts is required."
+   ],
+   "inference": "The portion for mark extraction is taken when divided into ten parts.",
+   "uncertainties": [],
+   "plain_english": "The portion for mark extraction is taken when divided into ten parts."
+  },
+  {
+   "verse": 2495,
+   "rows": [
+    {
+     "surface": "nālādhastāt",
+     "gloss": "below-stalk",
+     "grounds": "from below the stalk",
+     "morph": "nāla+adhastāt (compound, indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomāṃśaṃ",
+     "gloss": "space-portion",
+     "grounds": "one portion of space",
+     "morph": "vyoma+aṃśa (compound, acc.sg.m)"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-taken",
+     "grounds": "after taking or removing",
+     "morph": "abs. √nī"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "in the same manner as before",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the remainder be treated after taking one space portion below the stalk?",
+   "premises": [
+    "One space portion is taken below the stalk.",
+    "A remainder is left after this.",
+    "The previous method is to be followed."
+   ],
+   "inference": "After taking one space portion below the stalk, the remainder should be treated as before.",
+   "uncertainties": [],
+   "plain_english": "Having taken one space portion below the stalk, the remainder is treated as before."
+  },
+  {
+   "verse": 2496,
+   "rows": [
+    {
+     "surface": "lakṣaṇoddhārabhāgaṃ",
+     "gloss": "mark-extraction-portion",
+     "grounds": "the portion for mark extraction",
+     "morph": "lakṣaṇa+uddhāra+bhāga (compound, acc.sg.m)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmabhāgavibhājite",
+     "gloss": "when-divided-into-dharma-parts",
+     "grounds": "when divided into dharma portions",
+     "morph": "dharma+bhāga+vibhājita (compound, loc.sg.n)"
+    }
+   ],
+   "question": "Into what kind of parts is the measure divided for the mark extraction portion in this case?",
+   "premises": [
+    "The portion for mark extraction is specified.",
+    "The division is into dharma portions."
+   ],
+   "inference": "The portion for mark extraction is taken when divided into dharma portions.",
+   "uncertainties": [
+    "The numerical value of dharma portions is not explicitly stated here."
+   ],
+   "plain_english": "The portion for mark extraction is taken when divided into dharma portions."
+  },
+  {
+   "verse": 2497,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavaduddiṣṭaṃ",
+     "gloss": "stated-as-before",
+     "grounds": "declared in the same manner as before",
+     "morph": "pūrvavat+uddiṣṭa (compound, n.acc.sg)"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "the fourth in sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "mark",
+     "grounds": "the characteristic mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.act-impv √śru"
+    }
+   ],
+   "question": "What is introduced as the fourth mark after the remainder is stated as before?",
+   "premises": [
+    "The remainder is treated as previously stated.",
+    "A fourth mark is to be described.",
+    "The listener is instructed to hear."
+   ],
+   "inference": "After stating the remainder as before, the fourth mark is introduced for hearing.",
+   "uncertainties": [],
+   "plain_english": "The remainder is as stated before; now hear the fourth mark."
+  },
+  {
+   "verse": 2498,
+   "rows": [
+    {
+     "surface": "saptāṃśaṃ",
+     "gloss": "seven-parts",
+     "grounds": "divided into seven parts",
+     "morph": "saptan+aṃśa (compound, acc.sg.n)"
+    },
+    {
+     "surface": "nāladīrghaṃ",
+     "gloss": "stalk-length",
+     "grounds": "the length of the stalk",
+     "morph": "nāla+dīrgha (compound, acc.sg.n)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavadeva",
+     "gloss": "just-as-before",
+     "grounds": "exactly in the same manner as before",
+     "morph": "pūrvavat (indecl.) + eva (indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the stalk length and remainder defined for the fourth mark?",
+   "premises": [
+    "The stalk length is divided into seven parts.",
+    "The remainder follows the previous method.",
+    "This is stated emphatically."
+   ],
+   "inference": "For the fourth mark, the stalk length is seven parts and the remainder is just as before.",
+   "uncertainties": [],
+   "plain_english": "The stalk length is seven parts, and the remainder is indeed just as before."
+  },
+  {
+   "verse": 2499,
+   "rows": [
+    {
+     "surface": "lakṣaṇāṃśaṃ",
+     "gloss": "mark-portion",
+     "grounds": "the portion for the mark",
+     "morph": "lakṣaṇa+aṃśa (compound, acc.sg.m)"
+    },
+    {
+     "surface": "vasudhā",
+     "gloss": "into-eight",
+     "grounds": "divided into eight, by the earth measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajya",
+     "gloss": "having-divided",
+     "grounds": "after dividing",
+     "morph": "abs. √bhaj"
+    },
+    {
+     "surface": "vyomāṃśaṃ",
+     "gloss": "space-portion",
+     "grounds": "one portion of space",
+     "morph": "vyoma+aṃśa (compound, acc.sg.m)"
+    },
+    {
+     "surface": "mukulodayam",
+     "gloss": "bud-rise",
+     "grounds": "the rise or emergence of the bud",
+     "morph": "mukula+udaya (compound, acc.sg.m)"
+    }
+   ],
+   "question": "How is the mark portion divided to determine the space portion and bud rise?",
+   "premises": [
+    "The mark portion is to be divided.",
+    "The division is into eight parts.",
+    "One space portion is taken for the bud rise."
+   ],
+   "inference": "Having divided the mark portion into eight, one space portion is assigned to the rise of the bud.",
+   "uncertainties": [
+    "The exact syntactic relation of mukulodayam to vyomāṃśaṃ is slightly ambiguous."
+   ],
+   "plain_english": "Having divided the mark portion into eight, take one space portion for the rise of the bud."
+  }
+ ]
+}

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p06",
  "verse": 142,
- "question": "Which letters are placed in Pūrvabhādrā and the next-to-last position?",
+ "question": "What proportional width must the altar have in relation to the pavilion?",
  "premises": [
-  "Pūrvabhādrā is named as a locus.",
-  "The next-to-last position is named.",
-  "The letters ṣa, sa, and ha are listed."
+  "The pavilion provides the reference measure.",
+  "The altar's width is specified.",
+  "The width is one third of the pavilion."
  ],
- "inference": "The letters ṣa, sa, and ha are assigned to Pūrvabhādrā and the next-to-last position.",
- "uncertainties": [
-  "The distribution of the three letters across the two loci is not fully explicit."
- ],
- "plain_english": "In Pūrvabhādrā and in the next-to-last position should be ṣa, sa, and ha."
+ "inference": "The width of the altar should be one third of the pavilion.",
+ "uncertainties": [],
+ "plain_english": "The width of the altar should be one third of the pavilion."
 }

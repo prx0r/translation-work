@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p06",
  "verse": 144,
- "question": "What adverse result may the practitioner incur while seeking task success?",
+ "question": "What dimensions and structural form must each fire pit have?",
  "premises": [
-  "The practitioner seeks success in the task.",
-  "Illness is named as something obtained.",
-  "The practitioner is the subject."
+  "The pit must have a width of one cubit.",
+  "The pit must have a specific structural form.",
+  "That form is three-rimmed."
  ],
- "inference": "In seeking success in the task, the practitioner may obtain illness.",
- "uncertainties": [
-  "The condition under which illness arises depends on prior calculation."
- ],
- "plain_english": "The practitioner may incur illness in seeking the success of the task."
+ "inference": "Each fire pit must be one cubit wide and have three rims.",
+ "uncertainties": [],
+ "plain_english": "The pit should be one cubit in width and have three rims."
 }

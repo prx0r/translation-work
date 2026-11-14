@@ -3,19 +3,24 @@
  "verse": 129,
  "rows": [
   {
-   "lemma": "saṃgaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "conjugal union"
+   "lemma": "vāstuhomaṃ",
+   "morph": "m.acc.sg(compound:vāstu+homa)",
+   "grounds": "compound of vāstu and homa, object previously described"
   },
   {
-   "lemma": "sīmantas",
-   "morph": "m.nom.sg",
-   "grounds": "the sīmanta ritual"
+   "lemma": "samākhyātaṃ",
+   "morph": "m.acc.sg.past-passive-participle(sam-ā-khyā)",
+   "grounds": "past passive participle indicating completion of explanation"
   },
   {
-   "lemma": "tadadhovahaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound indicating what follows or supports that"
+   "lemma": "iṣṭakavidhiṃ",
+   "morph": "m.acc.sg(compound:iṣṭakā+vidhi)",
+   "grounds": "compound of iṣṭakā and vidhi, object to be heard next"
+  },
+  {
+   "lemma": "śṛṇu",
+   "morph": "2.sg.imperative.act(śru)",
+   "grounds": "imperative command to listen to the next instruction"
   }
  ]
 }

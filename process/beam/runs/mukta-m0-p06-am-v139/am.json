@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 139,
- "question": "Which letters are assigned to Puṣya and the serpent-abode?",
+ "question": "Which structural boundaries are specified in the cord layout sequence?",
  "premises": [
-  "Puṣya is named as a locus.",
-  "The serpent-abode is named as a locus.",
-  "Specific letters are listed for these loci."
+  "A boundary of the third base is specified.",
+  "A boundary of the fourth sub-base is specified.",
+  "Both are included in the layout."
  ],
- "inference": "The letter ka belongs to Puṣya, and kh, g, and au belong to the serpent-abode.",
- "uncertainties": [],
- "plain_english": "In Puṣya is the letter ka; in the serpent-abode are kh, g, and au."
+ "inference": "The layout includes the boundary of the third base and the boundary of the fourth sub-base.",
+ "uncertainties": [
+  "exact architectural referents of adhiṣṭha and upapīṭha boundaries depend on tradition"
+ ],
+ "plain_english": "The boundary of the third base and the boundary of the fourth sub-base."
 }

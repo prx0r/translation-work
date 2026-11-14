@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p99",
  "verse": 2460,
- "question": "In which directions is a hall considered especially suitable for people?",
+ "question": "Which substances must be abandoned by those following the prescribed vow?",
  "premises": [
-  "The south direction is specified.",
-  "The west direction is specified.",
-  "A hall in these directions is distinctive for people."
+  "All medicine is to be abandoned in this context.",
+  "Fish are explicitly named.",
+  "Liquor and meat are explicitly named."
  ],
- "inference": "A hall located in the south or west is especially suitable for people.",
- "uncertainties": [],
- "plain_english": "A hall in the south and indeed in the west is especially suitable for people."
+ "inference": "Practitioners must avoid all medicine, fish, liquor, and meat.",
+ "uncertainties": [
+  "The scope of 'all medicine' in this vow context is not fully specified."
+ ],
+ "plain_english": "Having abandoned all medicine, one must also avoid fish, liquor, and meat."
 }

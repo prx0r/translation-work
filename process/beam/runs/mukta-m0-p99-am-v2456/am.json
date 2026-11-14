@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p99",
  "verse": 2456,
- "question": "How many length divisions are accepted up to the triple measure?",
+ "question": "Which specific plants are named as acceptable in this dietary list?",
  "premises": [
-  "The measure extends up to triple the base.",
-  "Length is classified in divisions.",
-  "Eight divisions are considered authoritative."
+  "Sickle-senna is named.",
+  "Another plant called palaṅka is named.",
+  "Dill is named."
  ],
- "inference": "Length is regarded as eightfold when measured up to triple the base dimension.",
- "uncertainties": [],
- "plain_english": "The length, by measures extending up to triple, is considered eightfold."
+ "inference": "Sickle-senna, palaṅka, and dill are included among acceptable plants.",
+ "uncertainties": [
+  "The exact identification of palaṅka is uncertain."
+ ],
+ "plain_english": "Sickle-senna, palaṅka, and dill are included."
 }

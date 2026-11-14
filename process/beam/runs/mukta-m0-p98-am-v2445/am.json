@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2445,
- "question": "What blood-intoxicated form of the goddess is being named?",
+ "question": "At what time and with what substance should this offering be made?",
  "premises": [
-  "An epithet is given",
-  "The epithet denotes intoxication from drinking human blood"
+  "Offering water is the prescribed substance.",
+  "Midday is the prescribed time.",
+  "The action concerns the present rite."
  ],
- "inference": "The goddess is identified as intoxicated by drinking human blood",
- "uncertainties": [],
- "plain_english": "She is intoxicated by drinking human blood."
+ "inference": "This should be done with offering water at midday.",
+ "uncertainties": [
+  "The specific action performed with the water is completed in the next verse."
+ ],
+ "plain_english": "And this, with offering water, at midday."
 }
