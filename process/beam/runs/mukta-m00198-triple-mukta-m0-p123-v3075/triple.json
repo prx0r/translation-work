@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3075,
+   "rows": [
+    {
+     "surface": "ḍolahaste",
+     "gloss": "in-swinging-hand",
+     "grounds": "locative of ḍolahasta, denoting the swinging-hand posture",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyasthādaṃgulāgraṃ",
+     "gloss": "middle-situated-finger-tip",
+     "grounds": "compound of madhyastha, aṅgula, and agra indicating the tip of the middle finger",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb emphasizing the specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific point serves as the designated marker in the swinging-hand posture?",
+   "premises": [
+    "The verse addresses the ḍolahasta or swinging-hand posture.",
+    "It identifies the tip of the middle finger as the relevant point.",
+    "This identification is presented as especially emphasized."
+   ],
+   "inference": "In the swinging-hand posture, the tip of the middle finger is the specifically designated point of reference.",
+   "uncertainties": [
+    "The exact spatial function of this fingertip marker is not fully stated within this verse alone."
+   ],
+   "plain_english": "In the swinging-hand posture, however, the tip of the middle finger is especially the point of reference."
+  }
+ ]
+}

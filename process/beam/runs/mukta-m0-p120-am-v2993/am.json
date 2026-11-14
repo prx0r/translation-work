@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2993,
- "question": "What remedy is required if a book is burnt even slightly?",
+ "question": "What distance separates the back of the head from the body's middle cord?",
  "premises": [
-  "A book may be burnt",
-  "The burning may be only slight",
-  "A peace rite is prescribed"
+  "The measurement is taken from the middle cord of the body.",
+  "The measured part is the back of the head.",
+  "The prescribed distance is half a pair."
  ],
- "inference": "If a book is burnt even slightly, one should perform a peace rite.",
- "uncertainties": [],
- "plain_english": "If a book is burnt even slightly, one should perform a rite of pacification."
+ "inference": "From the body's middle cord, the back of the head is at a distance of half a pair.",
+ "uncertainties": [
+  "yugārdhaka interpreted as one unit; exact value depends on convention"
+ ],
+ "plain_english": "From the middle cord of the body, the back of the head is one unit."
 }

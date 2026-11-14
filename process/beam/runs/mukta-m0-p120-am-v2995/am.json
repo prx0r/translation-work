@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2995,
- "question": "What quantity of lamps must be offered afterwards to the god of gods?",
+ "question": "What measurement should the back have at the navel region?",
  "premises": [
-  "Lamps are to be offered",
-  "The offering occurs afterwards",
-  "The quantity must be double"
+  "The reference region is the navel.",
+  "The location measured is the back.",
+  "The prescribed measure is five and a half finger-units."
  ],
- "inference": "Afterwards one should cause double the number of lamps to be offered to the god of gods.",
- "uncertainties": [],
- "plain_english": "Afterwards, one should offer double the number of lamps to the god of gods."
+ "inference": "At the navel region, the back should measure five and a half finger-units.",
+ "uncertainties": [
+  "bhūta as five is inferred from numerical convention"
+ ],
+ "plain_english": "At the navel region, the back should be five and a half finger-units."
 }

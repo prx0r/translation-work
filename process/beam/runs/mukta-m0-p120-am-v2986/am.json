@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2986,
- "question": "What consequence for the king follows from a small or great disturbance in the rite?",
+ "question": "How is the forward position determined at the middle of the calf and reed-stalk?",
  "premises": [
-  "The disturbance may be small",
-  "The disturbance may be great",
-  "A consequence for the king is predicted"
+  "The middle of the calf is a reference location.",
+  "The middle of the reed-stalk is another reference location.",
+  "The position is directed forward at these points."
  ],
- "inference": "Whether the disturbance is small or great, disease will arise for the king.",
- "uncertainties": [],
- "plain_english": "Whether the disturbance is small or great, the king will suffer disease."
+ "inference": "At the middle of the calf and the middle of the reed-stalk, the position is set forward.",
+ "uncertainties": [
+  "nalakā may refer to a specific anatomical part of the leg"
+ ],
+ "plain_english": "At the middle of the calf and at the middle of the reed-stalk, it goes forward."
 }

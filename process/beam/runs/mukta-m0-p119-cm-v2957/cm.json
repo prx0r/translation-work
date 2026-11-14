@@ -3,24 +3,14 @@
  "verse": 2957,
  "rows": [
   {
-   "lemma": "gaṇataye",
-   "morph": "m.dat.sg",
-   "grounds": "recipient of the mantra"
+   "lemma": "dvantaraṃ",
+   "morph": "compound-member",
+   "grounds": "first member of compound with lambasūtraṃ"
   },
   {
-   "lemma": "glauṃ",
-   "morph": "(indecl.)",
-   "grounds": "bīja syllable"
-  },
-  {
-   "lemma": "gaṃ",
-   "morph": "(indecl.)",
-   "grounds": "bīja syllable"
-  },
-  {
-   "lemma": "hrīṃ",
-   "morph": "(indecl.)",
-   "grounds": "bīja syllable"
+   "lemma": "lambasūtraṃ",
+   "morph": "n.acc.sg",
+   "grounds": "object or feature to be enacted"
   },
   {
    "lemma": "ca",
@@ -28,9 +18,24 @@
    "grounds": "connective particle"
   },
   {
-   "lemma": "bhavākṣaraḥ",
-   "morph": "m.nom.sg compound bhava+akṣara",
-   "grounds": "additional syllable element"
+   "lemma": "nṛtta",
+   "morph": "compound-member",
+   "grounds": "first member of compound with mūrti"
+  },
+  {
+   "lemma": "mūrti",
+   "morph": "compound-member",
+   "grounds": "second member of compound with nṛtta"
+  },
+  {
+   "lemma": "vad",
+   "morph": "(indecl.)",
+   "grounds": "marks comparison to the dance-form"
+  },
+  {
+   "lemma": "ācaret",
+   "morph": "3.sg.optative-active √ā-car",
+   "grounds": "prescribes the action"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2989,
- "question": "What rite must be performed when items have been burnt?",
+ "question": "What measurement is taken from the rear cord end at that same location?",
  "premises": [
-  "Items have been burnt",
-  "A remedial rite is required",
-  "The rite includes sprinkling and similar acts"
+  "The measurement is taken at that very place.",
+  "The reference point is the rear cord end.",
+  "The amount is five measures less a quarter."
  ],
- "inference": "When items are burnt, one should perform a rite beginning with sprinkling.",
- "uncertainties": [],
- "plain_english": "If things have been burnt, one should then perform a rite of sprinkling and the like."
+ "inference": "At that place, the measurement from the rear cord end is five measures less a quarter.",
+ "uncertainties": [
+  "pādo na interpreted as subtractive quarter; exact syntax slightly ambiguous"
+ ],
+ "plain_english": "At that very place, from the rear cord end, it is five measures less a quarter."
 }

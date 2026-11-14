@@ -3,19 +3,44 @@
  "verse": 2953,
  "rows": [
   {
-   "lemma": "namaḥ",
+   "lemma": "sthite",
+   "morph": "m.loc.sg",
+   "grounds": "locative condition for the posture"
+  },
+  {
+   "lemma": "pādatalau",
+   "morph": "n.nom.du",
+   "grounds": "subject of the positioning"
+  },
+  {
+   "lemma": "dvau",
+   "morph": "m.nom.du",
+   "grounds": "specifies the number of soles"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "reverential formula"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "saṃghaṭṭanaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "act of combining or conjunction"
+   "lemma": "sama",
+   "morph": "compound-member",
+   "grounds": "first member of compound with bhaṃga"
   },
   {
-   "lemma": "bhavet",
-   "morph": "3.sg.act-opt √bhū",
-   "grounds": "prescriptive result"
+   "lemma": "bhaṃga",
+   "morph": "compound-member",
+   "grounds": "second member of compound with sama"
+  },
+  {
+   "lemma": "iva",
+   "morph": "(indecl.)",
+   "grounds": "marks comparison"
+  },
+  {
+   "lemma": "sthitau",
+   "morph": "m.nom.du",
+   "grounds": "describes the position of the two soles"
   }
  ]
 }

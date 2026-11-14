@@ -1,0 +1,1177 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2951,
+   "rows": [
+    {
+     "surface": "kaṭi",
+     "gloss": "waist",
+     "grounds": "first member of compound with sūtra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sūtra",
+     "gloss": "cord",
+     "grounds": "second member of compound with kaṭi",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "endowed-with",
+     "grounds": "describes the figure as having a waist-cord",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nagnaṃ",
+     "gloss": "naked",
+     "grounds": "alternative state of the figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "channa",
+     "gloss": "covered",
+     "grounds": "first member of compound with vīra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vīra",
+     "gloss": "hero",
+     "grounds": "second member of compound with channa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied-by",
+     "grounds": "describes the figure as accompanied by covered heroes",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What attire or accompanying state characterizes the ritual figure being described?",
+   "premises": [
+    "The figure may be endowed with a waist-cord.",
+    "The figure may be naked.",
+    "The figure may be accompanied by covered heroes."
+   ],
+   "inference": "The ritual figure admits alternative states of dress and accompaniment.",
+   "uncertainties": [
+    "The exact referent of channa-vīra is context-dependent."
+   ],
+   "plain_english": "The figure may wear a waist-cord, be naked, or be accompanied by covered heroes."
+  },
+  {
+   "verse": 2952,
+   "rows": [
+    {
+     "surface": "āsīno",
+     "gloss": "seated",
+     "grounds": "describes one possible posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "describes another possible posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "marks further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛttaṃ",
+     "gloss": "dance",
+     "grounds": "object of the action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "skanda",
+     "gloss": "leaping",
+     "grounds": "alternative action or movement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.optative-active √ā-car"
+    }
+   ],
+   "question": "What postures or movements may the ritual figure legitimately perform?",
+   "premises": [
+    "The figure may be seated or standing.",
+    "The figure may perform a dance.",
+    "The figure may perform a leaping movement."
+   ],
+   "inference": "Multiple postures and movements are permitted for the ritual figure.",
+   "uncertainties": [
+    "The precise sense of skanda as a movement is inferred from context."
+   ],
+   "plain_english": "Whether seated or standing, one should perform a dance or a leaping movement."
+  },
+  {
+   "verse": 2953,
+   "rows": [
+    {
+     "surface": "sthite",
+     "gloss": "when-standing",
+     "grounds": "locative condition for the posture",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pādatalau",
+     "gloss": "foot-soles",
+     "grounds": "subject of the positioning",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "specifies the number of soles",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sama",
+     "gloss": "even",
+     "grounds": "first member of compound with bhaṃga",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhaṃga",
+     "gloss": "bend",
+     "grounds": "second member of compound with sama",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "iva",
+     "gloss": "as-if",
+     "grounds": "marks comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "placed",
+     "grounds": "describes the position of the two soles",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "How must the two soles be positioned when the figure is standing?",
+   "premises": [
+    "The condition described is a standing posture.",
+    "Both soles are involved.",
+    "They are placed as if with an even bend."
+   ],
+   "inference": "In the standing posture, the two soles should be placed evenly, as if slightly bent.",
+   "uncertainties": [
+    "The exact degree implied by sama-bhaṃga is not specified."
+   ],
+   "plain_english": "When standing, the two soles should be placed as if with an even bend."
+  },
+  {
+   "verse": 2954,
+   "rows": [
+    {
+     "surface": "nṛttaṃ",
+     "gloss": "dance",
+     "grounds": "subject or condition of the posture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cetsusthitaṃ",
+     "gloss": "if-well-established",
+     "grounds": "conditional compound indicating a steady dance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "savyapādaṃ",
+     "gloss": "left-foot",
+     "grounds": "specifies the foot involved",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vakrasamanvitam",
+     "gloss": "with-crookedness",
+     "grounds": "describes the left foot as bent or crooked",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the left foot be positioned in a well-established dance posture?",
+   "premises": [
+    "The context is a well-established dance.",
+    "The left foot is specified.",
+    "The left foot is accompanied by crookedness or bending."
+   ],
+   "inference": "In a steady dance, the left foot should be held in a bent position.",
+   "uncertainties": [],
+   "plain_english": "If the dance is well established, the left foot should be bent."
+  },
+  {
+   "verse": 2955,
+   "rows": [
+    {
+     "surface": "ṣaṇmātram",
+     "gloss": "six-measures",
+     "grounds": "specifies one possible extent of lifting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcamātrāntaṃ",
+     "gloss": "up-to-five-measures",
+     "grounds": "specifies another possible extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "should-lift",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.optative-active √ud-hṛ"
+    }
+   ],
+   "question": "To what measured extent should the limb be lifted in this posture?",
+   "premises": [
+    "A lifting action is prescribed.",
+    "One option is six measures.",
+    "Another option is up to five measures."
+   ],
+   "inference": "The prescribed lift may extend to six measures or up to five measures.",
+   "uncertainties": [
+    "The unit of mātrā is not defined in this verse."
+   ],
+   "plain_english": "One should lift it six measures, or alternatively up to five measures."
+  },
+  {
+   "verse": 2956,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmahastaṃ",
+     "gloss": "left-hand",
+     "grounds": "object to be positioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "location or object where the hand is placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "prior action before stretching",
+     "morph": "absolutive √ny-as"
+    },
+    {
+     "surface": "prasārayet",
+     "gloss": "should-stretch-out",
+     "grounds": "prescribes the main action",
+     "morph": "3.sg.optative-active pra-√sṛ"
+    }
+   ],
+   "question": "What alternative action should be performed with the left hand?",
+   "premises": [
+    "An alternative instruction is given.",
+    "The left hand is involved.",
+    "The hand is placed on the fruit and then stretched out."
+   ],
+   "inference": "Alternatively, one should place the left hand on the fruit and stretch it out.",
+   "uncertainties": [
+    "The referent of phala in this ritual context is unclear."
+   ],
+   "plain_english": "Or else, having placed the left hand on the fruit, one should stretch it out."
+  },
+  {
+   "verse": 2957,
+   "rows": [
+    {
+     "surface": "dvantaraṃ",
+     "gloss": "interval",
+     "grounds": "first member of compound with lambasūtraṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lambasūtraṃ",
+     "gloss": "hanging-cord",
+     "grounds": "object or feature to be enacted",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛtta",
+     "gloss": "dance",
+     "grounds": "first member of compound with mūrti",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūrti",
+     "gloss": "form",
+     "grounds": "second member of compound with nṛtta",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vad",
+     "gloss": "like",
+     "grounds": "marks comparison to the dance-form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.optative-active √ā-car"
+    }
+   ],
+   "question": "How should the hanging-cord interval be performed in relation to the dance form?",
+   "premises": [
+    "An interval with a hanging cord is specified.",
+    "A dance-form is given as the model.",
+    "The action is to be performed accordingly."
+   ],
+   "inference": "One should perform the hanging-cord interval in the manner of the dance form.",
+   "uncertainties": [
+    "The technical meaning of dvantara-lambasūtra is uncertain."
+   ],
+   "plain_english": "One should perform the interval with the hanging cord like the dance form."
+  },
+  {
+   "verse": 2958,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "describes one mode",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaurīsahitaṃ",
+     "gloss": "with-gaurī",
+     "grounds": "describes another mode accompanied by Gaurī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āliṃgaṃ",
+     "gloss": "embrace",
+     "grounds": "subject being classified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "states the number of kinds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "asserts the classification",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "Into how many kinds is the embrace classified in this ritual context?",
+   "premises": [
+    "The embrace may be alone.",
+    "The embrace may be with Gaurī.",
+    "The embrace is declared to be threefold."
+   ],
+   "inference": "The embrace is classified into three kinds, including alone and with Gaurī.",
+   "uncertainties": [
+    "The third kind is not explicitly named in this verse."
+   ],
+   "plain_english": "The embrace should be threefold: alone and accompanied by Gaurī."
+  },
+  {
+   "verse": 2959,
+   "rows": [
+    {
+     "surface": "āliṃgaṃ",
+     "gloss": "embrace",
+     "grounds": "subject of the description",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekahastena",
+     "gloss": "with-one-hand",
+     "grounds": "specifies the manner of embrace",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "one participant in the embrace",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "other participant in the embrace",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parasparam",
+     "gloss": "mutually",
+     "grounds": "indicates reciprocal action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the god and goddess perform the one-handed embrace?",
+   "premises": [
+    "The embrace is performed with one hand.",
+    "The god and the goddess are the participants.",
+    "The action is mutual."
+   ],
+   "inference": "The god and goddess mutually embrace with one hand.",
+   "uncertainties": [],
+   "plain_english": "The god and the goddess mutually embrace with one hand."
+  },
+  {
+   "verse": 2960,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "describes one mode of the stance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samapādaṃ",
+     "gloss": "equal-footed",
+     "grounds": "describes the stance with feet even",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthānakaṃ",
+     "gloss": "stance",
+     "grounds": "subject being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sahitaṃ",
+     "gloss": "accompanied",
+     "grounds": "describes another mode of the stance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What modes of the equal-footed stance are distinguished in this passage?",
+   "premises": [
+    "The stance is equal-footed.",
+    "It may be alone.",
+    "It may be accompanied."
+   ],
+   "inference": "The equal-footed stance occurs either alone or accompanied.",
+   "uncertainties": [],
+   "plain_english": "The equal-footed stance may be either alone or accompanied."
+  },
+  {
+   "verse": 2961,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "refers to the solitary mode",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muktidaṃ",
+     "gloss": "liberation-giving",
+     "grounds": "states the fruit of the solitary mode",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "declared",
+     "grounds": "indicates traditional teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sahajaṃ",
+     "gloss": "natural",
+     "grounds": "refers to the accompanied or innate mode",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyubhayapradam",
+     "gloss": "indeed-both-giving",
+     "grounds": "states that this mode gives both results",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distinct ritual fruits are assigned to the solitary and natural stances?",
+   "premises": [
+    "The solitary mode is declared to give liberation.",
+    "The natural mode is said to give both.",
+    "These are presented as known classifications."
+   ],
+   "inference": "The solitary stance grants liberation, while the natural stance grants both liberation and other benefits.",
+   "uncertainties": [
+    "The exact two benefits implied by ubhaya are not specified."
+   ],
+   "plain_english": "The solitary form is declared to grant liberation, while the natural form grants both."
+  },
+  {
+   "verse": 2962,
+   "rows": [
+    {
+     "surface": "teṣvādau",
+     "gloss": "among-them-first",
+     "grounds": "indicates the first among the mentioned stances",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "samapādaṃ",
+     "gloss": "equal-footed",
+     "grounds": "describes the stance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthānakaṃ",
+     "gloss": "stance",
+     "grounds": "object to be heard about",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to the listener",
+     "morph": "2.sg.imperative-active √śru"
+    },
+    {
+     "surface": "suvrata",
+     "gloss": "good-vowed-one",
+     "grounds": "vocative address to the listener",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which stance is introduced first for detailed explanation to the listener?",
+   "premises": [
+    "Several stances have been mentioned.",
+    "The first among them is selected.",
+    "The listener is addressed and told to hear."
+   ],
+   "inference": "The equal-footed stance is presented first for explanation.",
+   "uncertainties": [],
+   "plain_english": "O good-vowed one, first among these, hear about the equal-footed stance."
+  },
+  {
+   "verse": 2963,
+   "rows": [
+    {
+     "surface": "lambamānopamānaṃ",
+     "gloss": "hanging-measure",
+     "grounds": "subject to be explained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvadhunā",
+     "gloss": "now",
+     "grounds": "indicates the present point in instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-explained",
+     "grounds": "announces forthcoming explanation",
+     "morph": "3.sg.future-passive √vac"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential explanation",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What measurement procedure is announced for sequential explanation now?",
+   "premises": [
+    "A hanging measure is the topic.",
+    "The explanation is to occur now.",
+    "The explanation will proceed in order."
+   ],
+   "inference": "The hanging measure will now be explained sequentially.",
+   "uncertainties": [
+    "The technical referent of lambamānopamāna is not fully explicit."
+   ],
+   "plain_english": "And now the hanging measure will be explained in order."
+  },
+  {
+   "verse": 2964,
+   "rows": [
+    {
+     "surface": "aṣṭādaśāṃgulaṃ",
+     "gloss": "eighteen-fingers",
+     "grounds": "specifies one dimension",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "span",
+     "grounds": "object being measured",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "indicates an additional half unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "specifies thickness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghanam",
+     "gloss": "thick",
+     "grounds": "describes the thickness of the span",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What dimensions are prescribed for the span in this measurement instruction?",
+   "premises": [
+    "The span is measured as eighteen fingers.",
+    "An alternative of an additional half is given.",
+    "The thickness is two fingers."
+   ],
+   "inference": "The prescribed span is eighteen fingers, or eighteen and a half, and two fingers thick.",
+   "uncertainties": [
+    "The exact attachment of sārdhaṃ to the measure is slightly ambiguous."
+   ],
+   "plain_english": "The span should be eighteen fingers, or with a half more, and two fingers thick."
+  },
+  {
+   "verse": 2965,
+   "rows": [
+    {
+     "surface": "ṛkṣāṃgulasamāyuktaṃ",
+     "gloss": "joined-with-star-fingers",
+     "grounds": "describes the measure as combined with ṛkṣa-fingers",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.optative-active √sthā-causative"
+    },
+    {
+     "surface": "samabhūtale",
+     "gloss": "on-level-ground",
+     "grounds": "specifies the location for placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the specified measure be placed according to the instruction?",
+   "premises": [
+    "A measure joined with ṛkṣa-fingers is specified.",
+    "A placement action is prescribed.",
+    "The location is level ground."
+   ],
+   "inference": "The specified measure should be placed on level ground.",
+   "uncertainties": [
+    "The technical value of ṛkṣāṃgula is not defined here."
+   ],
+   "plain_english": "One should place it, joined with the ṛkṣa-finger measure, on level ground."
+  },
+  {
+   "verse": 2966,
+   "rows": [
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "specifies one side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pare",
+     "gloss": "in-west",
+     "grounds": "specifies the opposite side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "on-sides",
+     "grounds": "specifies lateral positions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasūtraṃ",
+     "gloss": "measure-cord",
+     "grounds": "object to be stretched",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prasārayet",
+     "gloss": "should-stretch",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.optative-active pra-√sṛ"
+    }
+   ],
+   "question": "In which directions should the measure-cord be stretched during layout?",
+   "premises": [
+    "The east and west are specified.",
+    "The sides are also specified.",
+    "The measure-cord is to be stretched."
+   ],
+   "inference": "The measure-cord should be stretched in the east, west, and on the sides.",
+   "uncertainties": [],
+   "plain_english": "One should stretch the measure-cord in the east, west, and on the sides."
+  },
+  {
+   "verse": 2967,
+   "rows": [
+    {
+     "surface": "sūtrasyānuguṇaṃ",
+     "gloss": "conforming-to-cord",
+     "grounds": "describes the image as aligned with the cord",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bimbaṃ",
+     "gloss": "image",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-make",
+     "grounds": "prescribes commissioning the image",
+     "morph": "3.sg.optative-causative √kṛ"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative address to the listener",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How must the ritual image be fashioned in relation to the measuring cord?",
+   "premises": [
+    "A measuring cord has been laid out.",
+    "An image is to be made.",
+    "The image must conform to the cord."
+   ],
+   "inference": "The image should be made in conformity with the measuring cord.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, one should have the image made in conformity with the cord."
+  },
+  {
+   "verse": 2968,
+   "rows": [
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "refers to the previously mentioned cords",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "paṃcasūtrāṇi",
+     "gloss": "five-cords",
+     "grounds": "identifies the set of cords",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "brahmasūtram",
+     "gloss": "brahma-cord",
+     "grounds": "name given to the set",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "states the traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What traditional designation is given to the set of five cords?",
+   "premises": [
+    "A set of cords has been described.",
+    "They are five in number.",
+    "They are declared to be the brahma-cord."
+   ],
+   "inference": "The five cords are traditionally called the brahma-cord.",
+   "uncertainties": [],
+   "plain_english": "These five cords are declared to be the brahma-cord."
+  },
+  {
+   "verse": 2969,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the preceding method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navasūtrāḍhyaṃ",
+     "gloss": "rich-with-nine-cords",
+     "grounds": "describes the stance as having nine cords",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthānakaṃ",
+     "gloss": "stance",
+     "grounds": "subject being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asamantathā",
+     "gloss": "all-around",
+     "grounds": "indicates comprehensive application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the stance characterized when expanded to a nine-cord system?",
+   "premises": [
+    "The method is summarized as thus.",
+    "The stance is rich with nine cords.",
+    "It applies all around."
+   ],
+   "inference": "The stance is thus characterized as having nine cords all around.",
+   "uncertainties": [
+    "The exact spatial sense of asamantathā is context-dependent."
+   ],
+   "plain_english": "Thus indeed the stance is endowed with nine cords all around."
+  },
+  {
+   "verse": 2970,
+   "rows": [
+    {
+     "surface": "nāsāgra",
+     "gloss": "nose-tip",
+     "grounds": "first member of compound with madhyame",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative indicating the middle at the nose-tip",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanormadhye",
+     "gloss": "in-jaw-middle",
+     "grounds": "locative indicating the middle of the jaw",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise-indeed",
+     "grounds": "indicates continuation in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which upper bodily reference points are specified for the cord alignment?",
+   "premises": [
+    "The middle at the nose-tip is specified.",
+    "The middle of the jaw is specified.",
+    "These points are given in sequence."
+   ],
+   "inference": "The cord alignment passes through the middle of the nose-tip and the middle of the jaw.",
+   "uncertainties": [],
+   "plain_english": "At the middle of the nose-tip and likewise at the middle of the jaw."
+  },
+  {
+   "verse": 2971,
+   "rows": [
+    {
+     "surface": "liṃgamadhyāt",
+     "gloss": "from-linga-middle",
+     "grounds": "ablative indicating a starting or reference point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ūrumadhyāt",
+     "gloss": "from-thigh-middle",
+     "grounds": "ablative indicating another reference point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādayoḥ",
+     "gloss": "of-two-feet",
+     "grounds": "genitive dual referring to both feet",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talāntare",
+     "gloss": "between-soles",
+     "grounds": "locative indicating the space between the soles",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which lower bodily reference points continue the cord alignment sequence?",
+   "premises": [
+    "The middle of the linga is specified.",
+    "The middle of the thigh is specified.",
+    "The space between the soles of the feet is specified."
+   ],
+   "inference": "The alignment continues from the middle of the linga and thigh to between the soles of the feet.",
+   "uncertainties": [],
+   "plain_english": "From the middle of the linga, from the middle of the thigh, and between the soles of the two feet."
+  },
+  {
+   "verse": 2972,
+   "rows": [
+    {
+     "surface": "makuṭasya",
+     "gloss": "of-crown",
+     "grounds": "genitive specifying the crown",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "madhyamāt",
+     "gloss": "from-middle",
+     "grounds": "ablative indicating the middle point of the crown",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kṛkaṭīkāyāṃ",
+     "gloss": "at-nape",
+     "grounds": "locative indicating the nape of the neck",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamāt",
+     "gloss": "from-middle",
+     "grounds": "ablative indicating a middle reference point",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Which posterior reference points are specified from the crown downward?",
+   "premises": [
+    "The middle of the crown is specified.",
+    "The nape of the neck is specified.",
+    "A middle reference point is indicated."
+   ],
+   "inference": "The posterior alignment runs from the middle of the crown to the nape.",
+   "uncertainties": [
+    "The second madhyamāt may refer to a repeated midpoint in the sequence."
+   ],
+   "plain_english": "From the middle of the crown, and at the nape of the neck, from the middle."
+  },
+  {
+   "verse": 2973,
+   "rows": [
+    {
+     "surface": "ūrujānvoḥ",
+     "gloss": "of-thigh-and-knee",
+     "grounds": "dual genitive referring to thigh and knee",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṃghāntaṃ",
+     "gloss": "to-calf-end",
+     "grounds": "accusative indicating the end of the calf",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pārṣṇidvayontare",
+     "gloss": "between-pair-of-heels",
+     "grounds": "locative indicating the space between the two heels",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which leg reference points are included in the continuing alignment sequence?",
+   "premises": [
+    "The thigh and knee are specified.",
+    "The end of the calf is specified.",
+    "The space between the two heels is specified."
+   ],
+   "inference": "The alignment continues through the thigh and knee to the calf-end and between the heels.",
+   "uncertainties": [],
+   "plain_english": "Through the thigh and knee, to the end of the calf, and likewise between the two heels."
+  },
+  {
+   "verse": 2974,
+   "rows": [
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "of-two-sides",
+     "grounds": "genitive dual referring to both sides",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "karṇapālyantāt",
+     "gloss": "from-ear-lobe-end",
+     "grounds": "ablative indicating the end of the ear-lobe",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "grīvāmadhyāt",
+     "gloss": "from-neck-middle",
+     "grounds": "ablative indicating the middle of the neck",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise-indeed",
+     "grounds": "indicates continuation in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lateral reference points complete the described cord alignment sequence?",
+   "premises": [
+    "Both sides are specified.",
+    "The end of the ear-lobe is specified.",
+    "The middle of the neck is specified."
+   ],
+   "inference": "The lateral alignment runs from the ear-lobe end and the middle of the neck along the sides.",
+   "uncertainties": [],
+   "plain_english": "On the two sides, from the end of the ear-lobe and from the middle of the neck, likewise."
+  }
+ ]
+}
