@@ -83,6 +83,12 @@ def main() -> int:
     result = {"summary": summary, "blocked": blocked, "rows": rows}
     if a.publish:
         result["publish"] = publish()
+        # refresh the serve KPI cache ChatGPT reads via shastra.health
+        try:
+            subprocess.run([sys.executable, "tools/serve_audit.py"],
+                           cwd=str(ROOT), capture_output=True, timeout=900)
+        except Exception:
+            pass
     if a.json:
         print(json.dumps(result, indent=1, ensure_ascii=False))
     else:

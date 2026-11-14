@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p208",
+ "items": [
+  {
+   "verse": 5200,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive expressing prior completion of the action",
+     "morph": "(indecl.) gerund √kṛ"
+    },
+    {
+     "surface": "kautuka bandhantu",
+     "gloss": "protective-thread-tying",
+     "grounds": "ritual tying of the protective thread; internal form indicates kautuka-bandham with particle tu",
+     "morph": "compound kautuka-bandha + (indecl.)"
+    },
+    {
+     "surface": "śāyayecchayanopari",
+     "gloss": "should-lay-on-bed-upon",
+     "grounds": "causative optative of laying upon the prepared bed; internal sandhi śāyayet + śayana-upari",
+     "morph": "3.sg.act.opt-caus √śī + compound śayana-upari"
+    }
+   ],
+   "question": "What ritual actions must be performed upon the prepared bed?",
+   "premises": [
+    "A prior preparatory action has been completed.",
+    "The protective thread tying is to be performed.",
+    "The deity or object should be laid upon the bed."
+   ],
+   "inference": "After completing the prior preparation, one must perform the protective thread tying and lay the object upon the bed.",
+   "uncertainties": [
+    "The exact referent to be laid upon the bed is not specified in this verse alone."
+   ],
+   "plain_english": "Having done so, one should perform the tying of the protective thread and lay it upon the bed."
+  }
+ ]
+}

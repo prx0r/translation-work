@@ -106,6 +106,57 @@ def make_traces(work: str = "", served_untraced: bool = False, all: bool = False
     return _run(cmd, timeout=3600)
 
 
+@mcp.tool()
+def health() -> dict:
+    """One-call loop + quality + progress report — the ChatGPT daily driver.
+    Combines, read-only: live queue/workers (progress), gate state
+    (validate_all --quick), served/total readability KPI (cached serve_audit
+    summary + its age), unreviewed DONE triples, and recent assessor verdict
+    tallies. Watch served/total and any gate failure; everything else is
+    detail. Machine-computed, never a judgment."""
+    out: dict = {}
+    out["progress"] = _run(["tools/watchdog_progress.py"], timeout=180)
+    out["gates"] = _run(["tools/validate_all.py", "--quick"], timeout=600)
+    try:
+        cache = ROOT / "process" / "beam" / "serve_summary.json"
+        if cache.is_file():
+            import datetime
+            d = json.loads(cache.read_text())
+            out["serve"] = d.get("summary", {})
+            try:
+                age = (datetime.datetime.now(datetime.timezone.utc)
+                       - datetime.datetime.fromisoformat(d.get("generated", "")))
+                out["serve_cache_age_h"] = round(age.total_seconds() / 3600, 1)
+            except ValueError:
+                out["serve_cache_age_h"] = None
+        else:
+            out["serve"] = {"note": "no cache yet — run make_readable --all or serve_audit to build it"}
+    except (OSError, ValueError) as e:
+        out["serve"] = {"error": str(e)[:160]}
+    try:
+        q = json.loads((ROOT / "process" / "beam" / "queue.json").read_text())
+        done = [t["id"] for t in q if t.get("kind") == "tal_triple" and t.get("status") == "done"]
+        rev = {}
+        rp = ROOT / "process" / "beam" / "assessor-reviews.jsonl"
+        if rp.is_file():
+            for ln in rp.read_text(encoding="utf-8").splitlines():
+                if not ln.strip():
+                    continue
+                try:
+                    r = json.loads(ln)
+                except ValueError:
+                    continue
+                rev[r.get("task")] = r.get("verdict")
+        from collections import Counter
+        out["review"] = {"done_triples": len(done),
+                         "reviewed": sum(1 for i in done if i in rev),
+                         "recent_verdicts": dict(Counter(v for v in list(rev.values())[-200:])),
+                         }
+    except (OSError, ValueError) as e:
+        out["review"] = {"error": str(e)[:160]}
+    return out
+
+
 def _lore_path(work: str) -> Path | None:
     """Transmission brief for a work's front.
 
@@ -833,7 +884,7 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
          "recycle", "watchdog", "progress", "queue_guard",
-         "serve_status", "make_readable", "make_traces"]
+         "serve_status", "make_readable", "make_traces", "health"]
 
 
 if __name__ == "__main__":

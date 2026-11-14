@@ -90,7 +90,7 @@ def main() -> int:
     empty_proj = [r["work"] for r in rows if r["proj_src"] == 0]
     summary = {
         "works": len(rows),
-        "served": len(served),
+        "served": served,
         "audited": len(audited),
         "unserved": len(rows) - len(served),
         "no_projection": len(no_proj),
@@ -99,6 +99,15 @@ def main() -> int:
         "empty_projection_works": empty_proj,
         "no_projection_works": no_proj,
     }
+    try:
+        cache = ROOT / "process" / "beam" / "serve_summary.json"
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        import datetime
+        cache.write_text(json.dumps(
+            {"generated": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+             "summary": summary}, indent=1, ensure_ascii=False))
+    except OSError:
+        pass
     if a.json:
         print(json.dumps({"summary": summary, "rows": rows}, indent=1, ensure_ascii=False))
     else:

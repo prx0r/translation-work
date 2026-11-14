@@ -3,34 +3,44 @@
  "verse": 512,
  "rows": [
   {
-   "lemma": "yadi",
+   "lemma": "astra",
+   "morph": "compound-member",
+   "grounds": "ritual weapon mantra"
+  },
+  {
+   "lemma": "toyena",
+   "morph": "n.inst.sg",
+   "grounds": "water consecrated by the weapon mantra"
+  },
+  {
+   "lemma": "saṃprokṣya",
+   "morph": "(indecl.) absolutive √prokṣ",
+   "grounds": "after sprinkling for purification"
+  },
+  {
+   "lemma": "śiva",
+   "morph": "compound-member",
+   "grounds": "deity or sacred presence"
+  },
+  {
+   "lemma": "agre",
+   "morph": "n.loc.sg",
+   "grounds": "before Shiva"
+  },
+  {
+   "lemma": "maṇṭape",
+   "morph": "m.loc.sg",
+   "grounds": "in the ritual pavilion"
+  },
+  {
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "inclusive particle"
   },
   {
-   "lemma": "mohena",
-   "morph": "n.inst.sg.m",
-   "grounds": "instrumental"
-  },
-  {
-   "lemma": "kurvīran",
-   "morph": "3.pl.act-opt",
-   "grounds": "verb optative"
-  },
-  {
-   "lemma": "rājño",
-   "morph": "n.gen.sg.m",
-   "grounds": "genitive"
-  },
-  {
-   "lemma": "rāṣṭrasya",
-   "morph": "n.gen.sg.n",
-   "grounds": "genitive"
-  },
-  {
-   "lemma": "nāśanam",
-   "morph": "n.acc.sg.n",
-   "grounds": "noun"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "alternative location"
   }
  ]
 }
