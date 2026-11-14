@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p193",
+ "items": [
+  {
+   "verse": 4825,
+   "rows": [
+    {
+     "surface": "saṃvatsādikhelāṃ",
+     "gloss": "year-beginning-festival",
+     "grounds": "compound of saṃvatsara (year), ādi (beginning), and khelā (sport/festival), object in the series of observances",
+     "morph": "compound: samvatsa+ādi+khelā.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting items in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasantākhyaṃ",
+     "gloss": "called-spring",
+     "grounds": "compound of vasanta (spring) and ākhya (named/called), qualifying the festival",
+     "morph": "compound: vasanta+ākhya.acc.sg.m"
+    },
+    {
+     "surface": "tadutsavam",
+     "gloss": "that-festival",
+     "grounds": "compound of tad (that) and utsava (festival), referring to the spring festival",
+     "morph": "compound: tad+utsava.acc.sg.m"
+    }
+   ],
+   "question": "Which additional festival observances are included among the prescribed ritual celebrations?",
+   "premises": [
+    "The verse continues an enumeration of ritual observances.",
+    "A festival marking the beginning of the year is included.",
+    "A festival known as the spring festival is also included."
+   ],
+   "inference": "The prescribed celebrations include the year-beginning festival and the festival called the spring festival.",
+   "uncertainties": [
+    "The exact ritual character of saṃvatsādikhelā is not specified beyond being a festival or sport."
+   ],
+   "plain_english": "And also the year-beginning festival, and that festival known as the spring festival."
+  }
+ ]
+}
