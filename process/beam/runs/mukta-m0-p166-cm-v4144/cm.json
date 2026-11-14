@@ -3,24 +3,39 @@
  "verse": 4144,
  "rows": [
   {
-   "lemma": "sahaimaṃ",
+   "lemma": "devīṃ",
+   "morph": "f.acc.sg",
+   "grounds": "object of contemplation during recitation"
+  },
+  {
+   "lemma": "vicintayan",
+   "morph": "m.nom.sg.pres-part(vi-cint)",
+   "grounds": "mental accompaniment to recitation"
+  },
+  {
+   "lemma": "japyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "compound indicating accompaniment; sandhi in token"
+   "grounds": "act to be performed"
   },
   {
-   "lemma": "darśayedvidvān",
-   "morph": "3.sg.act-opt, caus. √dṛś",
-   "grounds": "optative with agent noun; sandhi in token"
+   "lemma": "kuryādvāmena",
+   "morph": "3.sg.opt.act(kṛ)+n.ins.sg, compound=kuryāt+vāma",
+   "grounds": "injunction with instrument specified; internal sandhi joins kuryāt and vāmena"
   },
   {
-   "lemma": "netra+mantra",
-   "morph": "m.acc.sg",
-   "grounds": "compound naming a mantra; '+' marks boundary"
+   "lemma": "vāmena",
+   "morph": "n.ins.sg",
+   "grounds": "explicit mention of the left side or hand"
   },
   {
-   "lemma": "manusmaran",
-   "morph": "m.nom.sg.prp manu-√smṛ",
-   "grounds": "present participle indicating mental recitation"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates touching"
+  },
+  {
+   "lemma": "spṛśet",
+   "morph": "3.sg.opt.act(spṛś)",
+   "grounds": "prohibited action"
   }
  ]
 }

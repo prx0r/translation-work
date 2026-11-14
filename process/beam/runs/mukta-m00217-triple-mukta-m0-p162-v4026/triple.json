@@ -1,0 +1,1179 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4026,
+   "rows": [
+    {
+     "surface": "samyairapi",
+     "gloss": "even-with-proper-ones",
+     "grounds": "samyaiḥ + api; instrumental plural with enclitic",
+     "morph": "m.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣet",
+     "gloss": "should-speak",
+     "grounds": "optative of speaking",
+     "morph": "3.sg.act-opt √bhāṣ"
+    },
+    {
+     "surface": "japahomārcanādiṣu",
+     "gloss": "in-japa-fire-offering-worship-etc",
+     "grounds": "compound locative plural of ritual activities",
+     "morph": "compound n.loc.pl"
+    }
+   ],
+   "question": "What speech restriction applies during japa, fire offering, worship, and similar rites?",
+   "premises": [
+    "The context is japa, fire offering, worship, and similar rites.",
+    "Even proper or suitable companions are present.",
+    "Speaking is prohibited in that ritual context."
+   ],
+   "inference": "One must not speak, even with proper companions, while engaged in japa, fire offering, worship, and similar rites.",
+   "uncertainties": [],
+   "plain_english": "One should not speak, even with proper people, during japa, fire offerings, worship, and similar rites."
+  },
+  {
+   "verse": 4027,
+   "rows": [
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "object of avoidance implied by following verse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandhalepaṃ",
+     "gloss": "sandal-paste",
+     "grounds": "fragrant unguent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpadhāraṇam",
+     "gloss": "wearing-flowers",
+     "grounds": "compound: flower + wearing",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sensory indulgences are to be avoided in the ritual discipline described here?",
+   "premises": [
+    "Betel is listed among items to avoid.",
+    "Sandal paste is listed among items to avoid.",
+    "Wearing flowers is listed among items to avoid."
+   ],
+   "inference": "Betel, sandal paste, and wearing flowers are to be avoided as part of ritual restraint.",
+   "uncertainties": [
+    "The governing verb varjayet appears in the next verse but applies to this list."
+   ],
+   "plain_english": "One should avoid betel, sandal paste, and wearing flowers."
+  },
+  {
+   "verse": 4028,
+   "rows": [
+    {
+     "surface": "asadbhāṣaṇam",
+     "gloss": "improper-speech",
+     "grounds": "compound: not-good + speaking",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "atyarthaṃ",
+     "gloss": "excessively",
+     "grounds": "adverbial intensifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative of avoidance",
+     "morph": "3.sg.act-opt √vṛj"
+    },
+    {
+     "surface": "anyapūjanam",
+     "gloss": "worship-of-others",
+     "grounds": "compound: other + worship",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What kinds of speech and worship must be strictly avoided by the practitioner?",
+   "premises": [
+    "Improper speech is named as something to avoid.",
+    "The avoidance of improper speech is emphasized as excessive or complete.",
+    "Worship of others is also named as something to avoid."
+   ],
+   "inference": "The practitioner must strictly avoid improper speech and the worship of other deities.",
+   "uncertainties": [
+    "The scope of 'worship of others' depends on the ritual context."
+   ],
+   "plain_english": "One should completely avoid improper speech and the worship of other deities."
+  },
+  {
+   "verse": 4029,
+   "rows": [
+    {
+     "surface": "asaṅkalpitakṛtyaṃ",
+     "gloss": "unplanned-action",
+     "grounds": "compound: not-resolved + action",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative of avoidance",
+     "morph": "3.sg.act-opt √vṛj"
+    },
+    {
+     "surface": "mardanādikam",
+     "gloss": "rubbing-and-such",
+     "grounds": "compound with ādi indicating etcetera",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What unplanned or bodily distractions must be avoided during the observance?",
+   "premises": [
+    "Unplanned actions are named as objects of avoidance.",
+    "Rubbing and similar bodily actions are named as objects of avoidance.",
+    "The same injunction to avoid applies to both."
+   ],
+   "inference": "The practitioner should avoid unplanned actions and bodily distractions such as rubbing.",
+   "uncertainties": [
+    "The exact range of actions included by 'mardanādikam' is not specified."
+   ],
+   "plain_english": "One should avoid unplanned actions and rubbing or similar bodily distractions."
+  },
+  {
+   "verse": 4030,
+   "rows": [
+    {
+     "surface": "prokte",
+     "gloss": "when-spoken",
+     "grounds": "locative absolute participle",
+     "morph": "n.loc.sg.ppp √vac"
+    },
+    {
+     "surface": "pāmaraśabde",
+     "gloss": "vulgar-word",
+     "grounds": "compound: vulgar + word; locative absolute",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "breath-control",
+     "grounds": "compound: breath + restraint",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "adverb of frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "optative of doing",
+     "morph": "3.sg.act-opt √car"
+    }
+   ],
+   "question": "What corrective action is required if a vulgar word is heard or spoken?",
+   "premises": [
+    "A vulgar word may be spoken or heard.",
+    "The situation calls for a corrective response.",
+    "Breath control performed once is prescribed."
+   ],
+   "inference": "If a vulgar word occurs, the practitioner should perform one round of breath control.",
+   "uncertainties": [],
+   "plain_english": "If a vulgar word is spoken, one should perform a single round of breath control."
+  },
+  {
+   "verse": 4031,
+   "rows": [
+    {
+     "surface": "kṣute",
+     "gloss": "on-sneezing",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg.ppp √kṣu"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśyasthānānāṃ",
+     "gloss": "of-touchable-places",
+     "grounds": "compound: touchable + places",
+     "morph": "compound n.gen.pl"
+    },
+    {
+     "surface": "sparśane",
+     "gloss": "on-touching",
+     "grounds": "locative of action noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bodily events trigger the remedial response continued in the next verse?",
+   "premises": [
+    "Sneezing is identified as a triggering event.",
+    "Touching touchable or impure places is identified as a triggering event.",
+    "Both cases are treated as requiring a similar response."
+   ],
+   "inference": "Sneezing and touching touchable places both require the remedial observance stated next.",
+   "uncertainties": [
+    "The exact scope of 'touchable places' is context-dependent."
+   ],
+   "plain_english": "When one sneezes, and likewise when one touches touchable places, a remedial observance is required."
+  },
+  {
+   "verse": 4032,
+   "rows": [
+    {
+     "surface": "vyāharet",
+     "gloss": "should-utter",
+     "grounds": "optative of uttering",
+     "morph": "3.sg.act-opt √vyāhṛ"
+    },
+    {
+     "surface": "vaiṣṇavaṃ",
+     "gloss": "vaiṣṇava",
+     "grounds": "relating to Viṣṇu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative of remembering",
+     "morph": "3.sg.act-opt √smṛ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇum",
+     "gloss": "viṣṇu",
+     "grounds": "divine name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avyayam",
+     "gloss": "imperishable",
+     "grounds": "epithet of Viṣṇu",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What mantra or remembrance remedies the bodily disturbances mentioned previously?",
+   "premises": [
+    "A remedial utterance is prescribed after the prior disturbances.",
+    "One option is to utter a Vaiṣṇava mantra.",
+    "Another option is to remember the imperishable Viṣṇu."
+   ],
+   "inference": "After such disturbances, one should utter a Vaiṣṇava mantra or remember the imperishable Viṣṇu.",
+   "uncertainties": [
+    "The specific Vaiṣṇava mantra is not named."
+   ],
+   "plain_english": "One should utter a Vaiṣṇava mantra or remember the imperishable Viṣṇu."
+  },
+  {
+   "verse": 4033,
+   "rows": [
+    {
+     "surface": "kṣute",
+     "gloss": "on-sneezing",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg.ppp √kṣu"
+    },
+    {
+     "surface": "adhovāyugamane",
+     "gloss": "on-passing-lower-wind",
+     "grounds": "compound: lower + wind + going",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "jṛmbhaṇe",
+     "gloss": "on-yawning",
+     "grounds": "locative of action noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "object of abandonment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsṛjet",
+     "gloss": "should-abandon",
+     "grounds": "optative of releasing",
+     "morph": "3.sg.act-opt √utsṛj"
+    }
+   ],
+   "question": "What bodily interruptions require the practitioner to suspend ongoing japa?",
+   "premises": [
+    "Sneezing is listed as an interruption.",
+    "Passing lower wind is listed as an interruption.",
+    "Yawning is listed as an interruption."
+   ],
+   "inference": "On sneezing, passing lower wind, or yawning, the practitioner should suspend the ongoing japa.",
+   "uncertainties": [],
+   "plain_english": "If one sneezes, passes wind, or yawns, one should stop the japa."
+  },
+  {
+   "verse": 4034,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive; refers to remedial act",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japeccheṣaṃ",
+     "gloss": "should-recite-remainder",
+     "grounds": "sandhi: japet + śeṣam",
+     "morph": "3.sg.act-opt √jap + m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryādidarśanam",
+     "gloss": "seeing-sun-etc",
+     "grounds": "compound: sun-etc + seeing",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "How should the practitioner resume japa after an interruption or after seeing the sun and similar sights?",
+   "premises": [
+    "A proper remedial action is to be done first.",
+    "After that, the remainder of the japa may be recited.",
+    "Seeing the sun and similar sights is treated as a related case."
+   ],
+   "inference": "After performing the proper remedy, one should recite the remainder of the japa, including in cases involving seeing the sun and the like.",
+   "uncertainties": [
+    "The exact remedy referred to by 'having done properly' is supplied by context."
+   ],
+   "plain_english": "After performing the proper remedy, one should recite the remainder of the japa; this also applies in connection with seeing the sun and the like."
+  },
+  {
+   "verse": 4035,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "(gerund) √dṛś"
+    },
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped-water",
+     "grounds": "absolutive of ritual sipping",
+     "morph": "(gerund) √ācam"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "optative of doing",
+     "morph": "3.sg.act-opt √car"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "spṛṣṭvā",
+     "gloss": "having-touched",
+     "grounds": "absolutive",
+     "morph": "(gerund) √spṛś"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "purificatory act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive present of prescribing",
+     "morph": "3.sg.pass-pres √vidh"
+    }
+   ],
+   "question": "What different purifications are required after seeing or touching defiling things?",
+   "premises": [
+    "Seeing certain things requires sipping water before continuing the rite.",
+    "Touching certain things requires a stronger purification.",
+    "Bathing is prescribed in the case of touching."
+   ],
+   "inference": "After seeing a defiling sight one should sip water and continue the rite, but after touching one must bathe.",
+   "uncertainties": [
+    "The specific objects seen or touched are implied by context."
+   ],
+   "plain_english": "After seeing such a thing, one should sip water and then perform the rite; after touching, bathing is prescribed."
+  },
+  {
+   "verse": 4036,
+   "rows": [
+    {
+     "surface": "darśanaṃ",
+     "gloss": "seeing",
+     "grounds": "action noun, object of avoidance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvanīcānāṃ",
+     "gloss": "of-dogs-and-low-ones",
+     "grounds": "compound: dog + low ones",
+     "morph": "compound m.gen.pl"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative of avoidance",
+     "morph": "3.sg.act-opt √vṛj"
+    },
+    {
+     "surface": "japakarmaṇi",
+     "gloss": "in-japa-rite",
+     "grounds": "compound locative",
+     "morph": "compound n.loc.sg"
+    }
+   ],
+   "question": "What sights must be avoided specifically during the performance of japa?",
+   "premises": [
+    "The context is the rite of japa.",
+    "Seeing dogs and low persons is mentioned.",
+    "Such seeing is to be avoided."
+   ],
+   "inference": "During the rite of japa, one should avoid seeing dogs and low persons.",
+   "uncertainties": [
+    "The term 'low ones' may have a context-specific social or ritual sense."
+   ],
+   "plain_english": "During the rite of japa, one should avoid seeing dogs and low persons."
+  },
+  {
+   "verse": 4037,
+   "rows": [
+    {
+     "surface": "jyotīṃṣi",
+     "gloss": "lights",
+     "grounds": "celestial or luminous bodies",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapaśyet",
+     "gloss": "should-look-at",
+     "grounds": "optative of seeing",
+     "morph": "3.sg.act-opt √paś"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of doing",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇasaṃyamam",
+     "gloss": "breath-restraint",
+     "grounds": "compound: breath + restraint",
+     "morph": "compound m.acc.sg"
+    }
+   ],
+   "question": "What alternative remedial actions are prescribed when certain lights are encountered?",
+   "premises": [
+    "Lights are mentioned as objects of attention.",
+    "One option is to look at them.",
+    "Another option is to perform breath restraint."
+   ],
+   "inference": "When such lights are encountered, one may either look at them or perform breath restraint.",
+   "uncertainties": [
+    "The nature of the 'lights' is clarified in the next verse."
+   ],
+   "plain_english": "One should either look at the lights or perform breath restraint."
+  },
+  {
+   "verse": 4038,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jyotīṃṣi",
+     "gloss": "lights",
+     "grounds": "luminous bodies",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktāni",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "n.nom.pl.ppp √vac"
+    },
+    {
+     "surface": "vidvadbhiḥ",
+     "gloss": "by-the-learned",
+     "grounds": "agent of declaration",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brahmin",
+     "grounds": "listed among the lights or examples",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who identifies the auspicious lights that may be seen during the observance?",
+   "premises": [
+    "Certain lights are being specified.",
+    "The learned declare what these lights are.",
+    "A brahmin is included among them."
+   ],
+   "inference": "The learned declare that these lights include, among others, a brahmin.",
+   "uncertainties": [
+    "The syntax is compressed and the full list of 'lights' is not explicit in this verse alone."
+   ],
+   "plain_english": "The learned declare these lights to include, likewise, a brahmin."
+  },
+  {
+   "verse": 4039,
+   "rows": [
+    {
+     "surface": "śvanī",
+     "gloss": "dog",
+     "grounds": "listed as harmful sight",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanaṃ",
+     "gloss": "seeing",
+     "grounds": "action noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nidrā",
+     "gloss": "sleep",
+     "grounds": "state harmful to japa",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pralāpaḥ",
+     "gloss": "babbling",
+     "grounds": "idle or incoherent speech",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "amī",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "japadviṣaḥ",
+     "gloss": "enemies-of-japa",
+     "grounds": "compound: japa + enemies",
+     "morph": "compound m.nom.pl"
+    }
+   ],
+   "question": "What factors are identified as enemies that obstruct the practice of japa?",
+   "premises": [
+    "Seeing a dog is listed as harmful to japa.",
+    "Sleep is listed as harmful to japa.",
+    "Babbling is listed as harmful to japa."
+   ],
+   "inference": "Seeing a dog, sleep, and babbling are enemies of japa.",
+   "uncertainties": [
+    "The token 'darśanaṃ' may qualify 'śvanī' as 'the sight of a dog'."
+   ],
+   "plain_english": "The sight of a dog, sleep, and babbling are enemies of japa."
+  },
+  {
+   "verse": 4040,
+   "rows": [
+    {
+     "surface": "pūjāyāṃ",
+     "gloss": "in-worship",
+     "grounds": "locative of ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object of proclamation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇasya",
+     "gloss": "of-kṛṣṇa",
+     "grounds": "possessive relation to name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saptavāraṃ",
+     "gloss": "seven-times",
+     "grounds": "compound adverbial expression",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "prakīrtayet",
+     "gloss": "should-proclaim",
+     "grounds": "optative of proclaiming",
+     "morph": "3.sg.act-opt √kīrt"
+    }
+   ],
+   "question": "What remedial recitation is prescribed during worship when a disruption occurs?",
+   "premises": [
+    "The context is worship.",
+    "The name of Kṛṣṇa is to be proclaimed.",
+    "The proclamation is to be done seven times."
+   ],
+   "inference": "During worship, one should proclaim the name of Kṛṣṇa seven times as a remedial act.",
+   "uncertainties": [
+    "The specific disruption prompting this remedy is implied by surrounding verses."
+   ],
+   "plain_english": "During worship, one should proclaim the name of Kṛṣṇa seven times."
+  },
+  {
+   "verse": 4041,
+   "rows": [
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "breath-control",
+     "grounds": "compound: breath + restraint",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion of rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "should-complete",
+     "grounds": "optative causative of completing",
+     "morph": "3.sg.act-opt caus. √āp"
+    }
+   ],
+   "question": "What sequence restores and completes the rite after a remedial recitation?",
+   "premises": [
+    "Breath control is to be performed after the prior remedy.",
+    "The rite has a remaining portion.",
+    "The remainder should be completed afterward."
+   ],
+   "inference": "After performing breath control, the practitioner should complete the remainder of the rite.",
+   "uncertainties": [],
+   "plain_english": "Then, after performing breath control, one should complete the remainder of the rite."
+  },
+  {
+   "verse": 4042,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of purification",
+     "morph": "(gerund) √snā"
+    },
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped-water",
+     "grounds": "absolutive of ritual sipping",
+     "morph": "(gerund) √ācam"
+    },
+    {
+     "surface": "yathānyāyaṃ",
+     "gloss": "according-to-rule",
+     "grounds": "compound adverbial expression",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "nyāsān",
+     "gloss": "placements",
+     "grounds": "ritual placements of mantra or power",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "punarjapet",
+     "gloss": "should-recite-again",
+     "grounds": "sandhi: punaḥ + japet",
+     "morph": "(indecl.) + 3.sg.act-opt √jap"
+    }
+   ],
+   "question": "What full reset procedure is required before resuming japa after major impurity?",
+   "premises": [
+    "Bathing and sipping water are required purifications.",
+    "The ritual placements must be performed according to rule.",
+    "Japa is to be performed again afterward."
+   ],
+   "inference": "After bathing, sipping water, and performing the placements according to rule, one should recite the japa again.",
+   "uncertainties": [],
+   "plain_english": "After bathing, sipping water, and performing the nyāsas according to rule, one should recite the japa again."
+  },
+  {
+   "verse": 4043,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayato devān",
+     "gloss": "while-satisfying-gods",
+     "grounds": "present participle with object; fused token as given",
+     "morph": "m.gen.sg.pres-part √tṛp + m.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asatyaṃ",
+     "gloss": "untruth",
+     "grounds": "object of speaking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhijalpataḥ",
+     "gloss": "speaking",
+     "grounds": "present participle",
+     "morph": "m.gen.sg.pres-part √jalp"
+    }
+   ],
+   "question": "What speech is forbidden while one is engaged in satisfying the gods?",
+   "premises": [
+    "The practitioner may be engaged in satisfying the gods.",
+    "Speaking occurs in that context.",
+    "Untruthful speech is prohibited."
+   ],
+   "inference": "While satisfying the gods, one must not speak untruth.",
+   "uncertainties": [
+    "The construction is elliptical and may imply a broader prohibition on speech."
+   ],
+   "plain_english": "While satisfying the gods, one must not speak untruth."
+  },
+  {
+   "verse": 4044,
+   "rows": [
+    {
+     "surface": "ālasyaṃ",
+     "gloss": "laziness",
+     "grounds": "subject of destructive effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāvanāśaktiḥ",
+     "gloss": "power-of-contemplation",
+     "grounds": "compound: contemplation + power",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "siddhināśāya",
+     "gloss": "for-destruction-of-success",
+     "grounds": "compound dative of purpose",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "adverbial past participle used as certainty marker",
+     "morph": "n.nom.sg.ppp √niści"
+    }
+   ],
+   "question": "What inner weakness is said to destroy contemplative power and ritual success?",
+   "premises": [
+    "Laziness is identified as a fault.",
+    "Contemplative power is at stake.",
+    "The result is destruction of success."
+   ],
+   "inference": "Laziness certainly destroys contemplative power and leads to the loss of success.",
+   "uncertainties": [
+    "The exact syntactic relation between laziness and contemplative power is compressed."
+   ],
+   "plain_english": "Laziness certainly destroys the power of contemplation and leads to the loss of success."
+  },
+  {
+   "verse": 4045,
+   "rows": [
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative of abandoning",
+     "morph": "3.sg.act-opt √tyaj"
+    },
+    {
+     "surface": "durjanasaṃsparśaṃ",
+     "gloss": "contact-with-wicked",
+     "grounds": "compound: wicked-person + contact",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "sāśaṅkādibhavaṃ",
+     "gloss": "state-of-doubt-and-such",
+     "grounds": "compound: with-doubt-etc + arising",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative repeated for emphasis",
+     "morph": "3.sg.act-opt √tyaj"
+    }
+   ],
+   "question": "What social contact and mental states must the practitioner renounce for discipline?",
+   "premises": [
+    "Contact with wicked people is named for abandonment.",
+    "States arising from doubt and the like are named for abandonment.",
+    "The injunction to abandon is repeated."
+   ],
+   "inference": "The practitioner must renounce contact with wicked people and states born of doubt and similar disturbances.",
+   "uncertainties": [
+    "The range of states included by 'doubt and such' is not fully specified."
+   ],
+   "plain_english": "One should abandon contact with wicked people and abandon states born of doubt and the like."
+  },
+  {
+   "verse": 4046,
+   "rows": [
+    {
+     "surface": "apavitrakaraḥ",
+     "gloss": "with-impure-hands",
+     "grounds": "compound: impure + hand",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "aśuddhaḥ",
+     "gloss": "impure",
+     "grounds": "state of impurity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pralapan",
+     "gloss": "babbling",
+     "grounds": "present participle",
+     "morph": "m.nom.sg.pres-part √lap"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative of reciting",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indefinite adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what conditions of impurity or distraction is japa absolutely prohibited?",
+   "premises": [
+    "Having impure hands disqualifies one from japa.",
+    "Being in an impure state disqualifies one from japa.",
+    "Babbling disqualifies one from japa."
+   ],
+   "inference": "One must never perform japa while impure-handed, impure, or babbling.",
+   "uncertainties": [],
+   "plain_english": "One should never recite japa with impure hands, while impure, or while babbling."
+  },
+  {
+   "verse": 4047,
+   "rows": [
+    {
+     "surface": "cintāvyākulacittaḥ",
+     "gloss": "mind-agitated-by-worry",
+     "grounds": "compound: worry + agitated + mind",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kruddhaḥ",
+     "gloss": "angry",
+     "grounds": "past participle used adjectivally",
+     "morph": "m.nom.sg.ppp √krudh"
+    },
+    {
+     "surface": "bhrāntaḥ",
+     "gloss": "confused",
+     "grounds": "past participle used adjectivally",
+     "morph": "m.nom.sg.ppp √bhram"
+    },
+    {
+     "surface": "kṣudhānvitaḥ",
+     "gloss": "afflicted-by-hunger",
+     "grounds": "compound: hunger + endowed-with",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Which disturbed mental or physical states disqualify a person from performing japa?",
+   "premises": [
+    "A mind agitated by worry is listed as a disqualifying state.",
+    "Anger and confusion are listed as disqualifying states.",
+    "Being afflicted by hunger is listed as a disqualifying state."
+   ],
+   "inference": "One should not perform japa when worried, angry, confused, or hungry.",
+   "uncertainties": [
+    "The prohibitive verb is carried over from the previous verse."
+   ],
+   "plain_english": "One should not recite japa when anxious, angry, confused, or hungry."
+  },
+  {
+   "verse": 4048,
+   "rows": [
+    {
+     "surface": "rathyāyām",
+     "gloss": "in-street",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "aśivasthāne",
+     "gloss": "in-inauspicious-place",
+     "grounds": "compound: not-auspicious + place",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "japet na",
+     "gloss": "should-not-recite",
+     "grounds": "optative with negation; fused token as given",
+     "morph": "3.sg.act-opt √jap + (indecl.)"
+    },
+    {
+     "surface": "timirālaye",
+     "gloss": "in-dark-abode",
+     "grounds": "compound: darkness + abode",
+     "morph": "compound m.loc.sg"
+    }
+   ],
+   "question": "What unsuitable places are forbidden for the performance of japa?",
+   "premises": [
+    "A street is named as an unsuitable place.",
+    "An inauspicious place is named as unsuitable.",
+    "A dark abode is named as unsuitable."
+   ],
+   "inference": "Japa must not be performed in a street, an inauspicious place, or a dark abode.",
+   "uncertainties": [],
+   "plain_english": "One should not recite japa in a street, in an inauspicious place, or in a dark abode."
+  },
+  {
+   "verse": 4049,
+   "rows": [
+    {
+     "surface": "prasārya",
+     "gloss": "having-stretched-out",
+     "grounds": "absolutive",
+     "morph": "(gerund) √prasṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative of reciting",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "object of stretching out",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "utkaṭāsane",
+     "gloss": "in-squatting-posture",
+     "grounds": "compound locative: raised/squatting + seat",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What improper bodily postures are forbidden while reciting japa?",
+   "premises": [
+    "Stretching out the feet is mentioned as a posture.",
+    "Being in a squatting posture is mentioned as an alternative.",
+    "Reciting japa in these postures is prohibited."
+   ],
+   "inference": "One must not recite japa with feet stretched out or while in a squatting posture.",
+   "uncertainties": [
+    "The precise form of 'utkaṭāsana' may vary by ritual tradition."
+   ],
+   "plain_english": "One should not recite japa with the feet stretched out, nor while in a squatting posture."
+  }
+ ]
+}

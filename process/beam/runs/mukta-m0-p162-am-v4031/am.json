@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p162",
  "verse": 4031,
- "question": "What proportional measures are assigned to the kumuda and kampa?",
+ "question": "Which bodily events trigger the remedial response continued in the next verse?",
  "premises": [
-  "The kumuda height is specified.",
-  "It is assigned five parts.",
-  "The kampa is called one part."
+  "Sneezing is identified as a triggering event.",
+  "Touching touchable or impure places is identified as a triggering event.",
+  "Both cases are treated as requiring a similar response."
  ],
- "inference": "The kumuda height is five parts and the kampa is one part.",
- "uncertainties": [],
- "plain_english": "The kumuda height is five parts, and the kampa is called one part."
+ "inference": "Sneezing and touching touchable places both require the remedial observance stated next.",
+ "uncertainties": [
+  "The exact scope of 'touchable places' is context-dependent."
+ ],
+ "plain_english": "When one sneezes, and likewise when one touches touchable places, a remedial observance is required."
 }

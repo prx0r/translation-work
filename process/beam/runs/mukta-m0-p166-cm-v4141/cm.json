@@ -3,19 +3,34 @@
  "verse": 4141,
  "rows": [
   {
-   "lemma": "praṇavenāstramantreṇa",
-   "morph": "m.ins.sg",
-   "grounds": "compound instrumental listing mantras; sandhi in token"
+   "lemma": "prativāraṃ",
+   "morph": "(indecl.), compound=prati+vāra",
+   "grounds": "repetition for every count"
   },
   {
-   "lemma": "snāpayet",
-   "morph": "3.sg.act-opt, caus. √snā",
-   "grounds": "causative optative prescribing ritual bathing"
+   "lemma": "paṭhenmantraṃ",
+   "morph": "3.sg.opt.act(paṭh)+m.acc.sg, compound=paṭhet+mantra",
+   "grounds": "injunction to recite the mantra repeatedly; internal sandhi joins verb and object"
   },
   {
-   "lemma": "parameśvaram",
-   "morph": "m.acc.sg",
-   "grounds": "epithet of Śiva"
+   "lemma": "śanairoṣṭhau",
+   "morph": "(indecl.)+m.acc.du, compound=śanais+oṣṭha",
+   "grounds": "manner and body part involved; internal sandhi joins śanaiḥ and oṣṭhau"
+  },
+  {
+   "lemma": "oṣṭhau",
+   "morph": "m.acc.du",
+   "grounds": "explicit mention of the lips"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates movement"
+  },
+  {
+   "lemma": "cālayet",
+   "morph": "3.sg.opt.act(cal)",
+   "grounds": "prohibited action regarding the lips"
   }
  ]
 }

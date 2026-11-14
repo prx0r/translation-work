@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4125,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "direct object of the act of utterance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gaṇapateḥ",
+     "gloss": "of-gaṇapati",
+     "grounds": "specifies whose seed-syllable is meant",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "first",
+     "grounds": "indicates temporal priority in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive expressing the prior action",
+     "morph": "gerund(ud-cār)"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "marks what follows the utterance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the prescribed sequence for uttering Gaṇapati's seed-syllable in this rite?",
+   "premises": [
+    "The instruction specifies uttering a seed-syllable.",
+    "The seed-syllable is identified as belonging to Gaṇapati.",
+    "The utterance is to be performed first, before a subsequent step."
+   ],
+   "inference": "Gaṇapati's seed-syllable must be uttered first, with the next action following thereafter.",
+   "uncertainties": [
+    "The specific syllable constituting Gaṇapati's bīja is not stated in this verse."
+   ],
+   "plain_english": "First, having uttered the seed-syllable of Gaṇapati, one proceeds to what comes thereafter."
+  }
+ ]
+}

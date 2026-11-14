@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p164",
+ "items": [
+  {
+   "verse": 4100,
+   "rows": [
+    {
+     "surface": "ārabheta",
+     "gloss": "should-begin",
+     "grounds": "optative expressing injunction to commence the practice",
+     "morph": "3.sg.opt.mid (ā-√rabh)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "object of the act of beginning",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indicates temporal sequence following prior rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadanujñāpuraḥsaram",
+     "gloss": "preceded-by-his-permission",
+     "grounds": "compound qualifying the recitation as undertaken with the guru's prior authorization",
+     "morph": "compound (tad-anujñā-puraḥsara+m.acc.sg)"
+    }
+   ],
+   "question": "Under what prior authorization must the practitioner commence mantra recitation?",
+   "premises": [
+    "The practitioner has received the mantra from the guru.",
+    "Preliminary rites such as feeding brahmins have been completed.",
+    "Mantra recitation requires the guru's prior permission."
+   ],
+   "inference": "Therefore, the practitioner should begin mantra recitation afterwards with the guru's permission.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, with his permission, one should begin the recitation."
+  }
+ ]
+}

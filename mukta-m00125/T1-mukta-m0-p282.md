@@ -35,7 +35,7 @@
 [praśasta+nāmnyaḥ](praśasta) (nāmnyaś) [ca](ca) [auṣadhyaḥ](auṣadhyo) [hiraṇyam](hiraṇyaṃ) [maṅgalāni](maṅgalāni) [ca](ca)
 
 ## mukta-m0-p282-v7037
-[praśasta+lakṣaṇam](praśasta) (lakṣaṇaṃ) [bhūtam](bhūtaṃ) [prācīna+grīva+mastakam](prācīnagrīva) (mastakam)
+[praśasta+lakṣaṇam](praśasta) (lakṣaṇaṃ) [bhūtam](bhūtaṃ) [prācīna+grīva](prācīnagrīva) [mastakam](mastakam)
 
 ## mukta-m0-p282-v7038
 [siṃhasya](siṃhasya) [api](api) [tṛtīyam](tṛtīyaṃ) [ca](ca) [vyāghrasya](vyāghrasya) [ca](ca) [tataḥ](tataḥ) [param](param)
@@ -50,7 +50,7 @@
 [sārvabhaumasya](sārvabhaumasya) [tat](tat) [śreṣṭham](śreṣṭaṃ) [maṇḍalīkasya](maṇḍalīkasya) [kanyasam](kanyasam)
 
 ## mukta-m0-p282-v7042
-[śreṣṭha+madhya+ādi+bhedena](śreṣṭhamadhyādi) (bhedena) [sarvam](sarvaṃ) [vaikasya](vaikasya) [saṃmatam](saṃmatam)
+[śreṣṭha+madhya+ādi](śreṣṭhamadhyādi) [bhedena](bhedena) [sarvam](sarvaṃ) [vā](vā) [ekasya](ekasya) [saṃmatam](saṃmatam)
 
 ## mukta-m0-p282-v7043
 [kṛta+snānam](kṛtasnānaṃ) [vilipta+aṅgam](viliptāṅgaṃ) [sarva+alaṃkāra+saṃyuktam](sarvālaṃkāra) (saṃyuktam)
@@ -62,13 +62,13 @@
 [geya+maṅgala+śabdaiḥ](geyamaṅgala) (śabdaiś) [ca](ca) [śaiva+sthāpana+pūrvakaiḥ](śaivasthāpana) (pūrvakaiḥ)
 
 ## mukta-m0-p282-v7046
-[kambalena](kambalena) [samācchādya](samācchādyā) [abhiṣiñcet](abhiṣiñced) [uttara+mukhaḥ](uttarā) (mukhaḥ)
+[kambalena](kambalena) [samācchādya](samācchādya) [abhiṣiñcet](abhiṣiñced) [uttara+mukhaḥ](uttarā) (mukhaḥ)
 
 ## mukta-m0-p282-v7047
 [ājayam](ājayaṃ) [surāṇām](surāṇām) [āhāra](āhāra) [ājye](ājye) [lokāḥ](lokāḥ) [pratiṣṭitā](pratiṣṭitā)
 
 ## mukta-m0-p282-v7048
-[sarvam](sarvaṃ) [tat](tad) [ājya+saṃsparśāt](ājya) (saṃsparśāt) [praṇāśam](praṇāśam) [upagaccha](upagaccha) [tu](tu)
+[sarvam](sarvaṃ) [tat](tat) [ājya+saṃsparśāt](ājya) (saṃsparśāt) [praṇāśam](praṇāśam) [upagaccha](upagaccha) [tu](tu)
 
 ## mukta-m0-p282-v7049
 [vividhaiḥ](vividhaiḥ) [phala+puṣpaiḥ](phalapuṣpaiś) [ca](ca) [khādubhiḥ](khādubhiś) [ca](ca) [sugandhakaiḥ](sugandhakaiḥ)

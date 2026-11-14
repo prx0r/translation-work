@@ -7,7 +7,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "grāma+pradakṣiṇaṃ",
+"surface": "grāma+pradakṣiṇa",
 "quick_gloss": "village+circumambulation"
 },
 {
@@ -15,7 +15,7 @@
 "quick_gloss": "having-done"
 },
 {
-"surface": "devatā+āvāhana+anvitam",
+"surface": "devatā+vāhana+anvitam",
 "quick_gloss": "deity+invocation+endowed-with"
 }
 ]
@@ -28,16 +28,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhvajasya+ārohaṇaṃ",
-"quick_gloss": "flag's+hoisting"
+"surface": "dhvajasya",
+"quick_gloss": "of-flag"
+},
+{
+"surface": "ārohaṇaṃ",
+"quick_gloss": "hoisting"
 },
 {
 "surface": "kuryāt",
 "quick_gloss": "should-do"
 },
 {
-"surface": "prāk+ukta+vidhinā",
-"quick_gloss": "previously-stated+method+by"
+"surface": "prāg+ukta+vidhinā",
+"quick_gloss": "by-previously-stated+method"
 },
 {
 "surface": "guruḥ",
@@ -54,19 +58,15 @@
 "tokens": [
 {
 "surface": "dhvajasya",
-"quick_gloss": "flag's"
+"quick_gloss": "of-flag"
 },
 {
 "surface": "bhramaṇaṃ",
-"quick_gloss": "rotation"
+"quick_gloss": "carrying-around"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "ahni",
-"quick_gloss": "by-day"
+"surface": "ca+ahniṃ",
+"quick_gloss": "and-day"
 },
 {
 "surface": "kuryāt",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "saṃskṛtasya",
-"quick_gloss": "consecrated's"
+"quick_gloss": "of-consecrated"
 },
 {
 "surface": "ca",
@@ -107,7 +107,7 @@
 },
 {
 "surface": "yāga+ārambha+dine",
-"quick_gloss": "ritual+commencement+day+on"
+"quick_gloss": "on-ritual+beginning+day"
 },
 {
 "surface": "matam",
@@ -132,7 +132,7 @@
 },
 {
 "surface": "aṃkurasya",
-"quick_gloss": "sprout's"
+"quick_gloss": "sprout"
 },
 {
 "surface": "āvaśyakam",
@@ -161,11 +161,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "sāyāhna+samaye",
-"quick_gloss": "evening+time+in"
+"quick_gloss": "evening+time"
 },
 {
 "surface": "mṛdam",
@@ -181,19 +181,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+dine",
-"quick_gloss": "that+day"
+"surface": "taddine",
+"quick_gloss": "on-that-day"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "ca+etat",
+"quick_gloss": "and-this"
 },
 {
-"surface": "etat",
-"quick_gloss": "this"
-},
-{
-"surface": "iṣṭam",
+"surface": "iṣṭaṃ",
 "quick_gloss": "desired"
 },
 {
@@ -214,8 +210,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+rātrau",
-"quick_gloss": "that+night+in"
+"surface": "tadrātrau",
+"quick_gloss": "on-that-night"
 },
 {
 "surface": "eva",
@@ -227,15 +223,15 @@
 },
 {
 "surface": "yāga+ārambhaḥ",
-"quick_gloss": "ritual+commencement"
+"quick_gloss": "ritual+beginning"
 },
 {
 "surface": "śivasya",
-"quick_gloss": "Śiva's"
+"quick_gloss": "of-Śiva"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 }
 ]
 },
@@ -251,16 +247,16 @@
 "quick_gloss": "flag+sprout"
 },
 {
-"surface": "nava+ahe",
-"quick_gloss": "nine-day+in"
+"surface": "navāhe",
+"quick_gloss": "in-nine-day-festival"
 },
 {
 "surface": "syāt",
 "quick_gloss": "should-be"
 },
 {
-"surface": "sapta+ahe",
-"quick_gloss": "seven-day+in"
+"surface": "saptāhe",
+"quick_gloss": "in-seven-day-festival"
 },
 {
 "surface": "ca",
@@ -281,7 +277,7 @@
 "tokens": [
 {
 "surface": "yāga+śālā+antaḥ",
-"quick_gloss": "ritual+hall+inside"
+"quick_gloss": "ritual-hall+inside"
 },
 {
 "surface": "kuryāt",
@@ -297,11 +293,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "agra+pārśvayoḥ",
-"quick_gloss": "front+sides+on"
+"quick_gloss": "at-front+sides"
 }
 ]
 },
@@ -314,7 +310,7 @@
 "tokens": [
 {
 "surface": "madhya+āgāre",
-"quick_gloss": "middle+chamber+in"
+"quick_gloss": "in-middle+chamber"
 },
 {
 "surface": "viśeṣeṇa",
@@ -322,7 +318,7 @@
 },
 {
 "surface": "pañca+hasta+pramāṇataḥ",
-"quick_gloss": "five+cubit+measure+with"
+"quick_gloss": "five+cubit+measure"
 }
 ]
 },
@@ -352,11 +348,11 @@
 "tokens": [
 {
 "surface": "nava+aṅgula+anta+mānena",
-"quick_gloss": "nine+finger+end+measure+by"
+"quick_gloss": "nine+finger+limit+measure"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "adhikāḥ",
@@ -414,7 +410,7 @@
 },
 {
 "surface": "vitāna+dhvaja+saṃyutām",
-"quick_gloss": "canopy+flag+endowed-with"
+"quick_gloss": "canopy+banner+endowed-with"
 }
 ]
 },
@@ -431,7 +427,7 @@
 },
 {
 "surface": "sarva+maṇḍana+maṇḍitām",
-"quick_gloss": "all+decoration+adorned-with"
+"quick_gloss": "all+decoration+adorned"
 }
 ]
 },
@@ -443,12 +439,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka+aṅgula+vivṛddhyā",
-"quick_gloss": "one+finger+increase+by"
+"surface": "eka+aṅgula+vivṛddhayā",
+"quick_gloss": "one+finger+increase"
 },
 {
-"surface": "aṣṭāviṃśati+aṅgula+ka+avadhi",
-"quick_gloss": "twenty-eight+finger+extent+up-to"
+"surface": "aṣṭāviṃśati+aṅgula+avadhi",
+"quick_gloss": "twenty-eight+finger+limit"
 }
 ]
 },
@@ -465,7 +461,7 @@
 },
 {
 "surface": "paṅkti+mānena",
-"quick_gloss": "row+measure+by"
+"quick_gloss": "row+measure"
 },
 {
 "surface": "ca",
@@ -473,7 +469,7 @@
 },
 {
 "surface": "upa+devī",
-"quick_gloss": "subsidiary+deity"
+"quick_gloss": "subsidiary+goddess"
 },
 {
 "surface": "samanvitam",
@@ -531,7 +527,7 @@
 },
 {
 "surface": "saṃpādya",
-"quick_gloss": "having-accomplished"
+"quick_gloss": "having-prepared"
 },
 {
 "surface": "śilpi+mocanam",
@@ -564,7 +560,7 @@
 },
 {
 "surface": "sarva+adhvara+śiraḥ+yutam",
-"quick_gloss": "all+ritual+head+endowed-with"
+"quick_gloss": "all+rite+head+endowed-with"
 }
 ]
 },
@@ -577,19 +573,19 @@
 "tokens": [
 {
 "surface": "droṇāt",
-"quick_gloss": "droṇa+from"
+"quick_gloss": "from-one-droṇa"
 },
 {
-"surface": "droṇa+vivṛddhyā",
-"quick_gloss": "droṇa+increase+by"
+"surface": "droṇa+vivṛddhayā",
+"quick_gloss": "by-droṇa+increase"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "nava+droṇa+avasānakam",
-"quick_gloss": "nine+droṇa+limit+up-to"
+"quick_gloss": "up-to-nine-droṇa+ending"
 }
 ]
 },
@@ -602,19 +598,15 @@
 "tokens": [
 {
 "surface": "tadvat",
-"quick_gloss": "that+with"
+"quick_gloss": "with-that"
 },
 {
 "surface": "lāja+sama+upetaṃ",
 "quick_gloss": "parched-rice+equal+endowed-with"
 },
 {
-"surface": "tad+ardha",
-"quick_gloss": "that+half"
-},
-{
-"surface": "tila+saṃyutam",
-"quick_gloss": "sesame+endowed-with"
+"surface": "tad+ardha+tila+saṃyutam",
+"quick_gloss": "its-half+sesame+endowed-with"
 }
 ]
 },
@@ -626,12 +618,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tila+lāja+ādi+rekhā+āḍhya",
-"quick_gloss": "sesame+parched-rice+etc.+line+abounding-in"
+"surface": "tila+lāja+ādi+rekhā+āḍhyam",
+"quick_gloss": "sesame+parched-rice+etc.+line+abounding"
 },
 {
 "surface": "darbha+veṣṭana+saṃyutam",
-"quick_gloss": "darbha+wrapping+endowed-with"
+"quick_gloss": "kuśa-grass+wrapping+endowed-with"
 }
 ]
 },
@@ -643,8 +635,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+madhye",
-"quick_gloss": "that+middle+in"
+"surface": "tat+madhye",
+"quick_gloss": "in-its-middle"
 },
 {
 "surface": "sthāpayet",
@@ -660,7 +652,7 @@
 },
 {
 "surface": "vardhanī+yutam",
-"quick_gloss": "vardhanī+endowed-with"
+"quick_gloss": "with-vardhanī-vessel"
 }
 ]
 }

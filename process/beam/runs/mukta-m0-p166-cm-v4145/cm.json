@@ -3,19 +3,34 @@
  "verse": 4145,
  "rows": [
   {
-   "lemma": "pracchannapaṭa",
-   "morph": "m.acc.sg",
-   "grounds": "compound naming a concealing cloth"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates touching"
   },
   {
-   "lemma": "māvarjya",
-   "morph": "(gerund) apa-√vṛj",
-   "grounds": "absolutive indicating removal; sandhi in token"
+   "lemma": "spṛśedvāmahastena",
+   "morph": "3.sg.opt.act(spṛś)+m.ins.sg, compound=spṛśet+vāma+hasta",
+   "grounds": "prohibited act and instrument; internal sandhi joins spṛśet and vāmahastena"
   },
   {
-   "lemma": "darśayeddeśikottamaḥ",
-   "morph": "3.sg.act-opt, caus. √dṛś",
-   "grounds": "optative with agent noun; sandhi in token"
+   "lemma": "vāmahastena",
+   "morph": "m.ins.sg, compound=vāma+hasta",
+   "grounds": "explicit instrument of prohibited touching"
+  },
+  {
+   "lemma": "karabhraṣṭaṃ",
+   "morph": "n.acc.sg, compound=kara+bhraṣṭa",
+   "grounds": "condition of the garland if dropped"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates causing or allowing"
+  },
+  {
+   "lemma": "kārayet",
+   "morph": "3.sg.opt.caus.act(kṛ)",
+   "grounds": "prohibits making it fall or handling improperly"
   }
  ]
 }

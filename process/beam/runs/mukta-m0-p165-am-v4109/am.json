@@ -1,12 +1,13 @@
 {
  "song": "mukta-m0-p165",
  "verse": 4109,
- "question": "Which lunar days in Chaitra and Vaishakha are designated for observance?",
+ "question": "How does birth impurity affect a ritual that has already begun versus one not yet begun?",
  "premises": [
-  "The thirteenth day in the month of Chaitra is named.",
-  "The fifth day of the dark fortnight in Vaishakha is named."
+  "A begun rite is considered",
+  "An unbegun rite is considered",
+  "Birth impurity is the condition in question"
  ],
- "inference": "The thirteenth of Chaitra and the dark fifth of Vaishakha are designated days.",
+ "inference": "Birth impurity does not affect a rite already begun, but it does apply when the rite has not yet begun.",
  "uncertainties": [],
- "plain_english": "In the month of Chaitra on the thirteenth, and in Vaishakha on the fifth of the dark fortnight."
+ "plain_english": "If the rite has begun, there is no birth impurity; if it has not begun, birth impurity applies."
 }

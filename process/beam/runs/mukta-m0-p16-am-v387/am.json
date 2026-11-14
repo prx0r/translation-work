@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 387,
- "question": "What ornament below the bodhikā part does the text now declare?",
+ "question": "What sequence of components forms the structure of the fifth vidyā?",
  "premises": [
-  "The location is below, measured by the bodhikā part.",
-  "An ornament is the subject of description.",
-  "The speaker declares this instruction."
+  "The structure begins with a prior element.",
+  "It includes first and middle positions.",
+  "It includes hasa, kṣmā, and a syllable marked by bindu-like quality."
  ],
- "inference": "The text declares the ornament to be placed below in proportion to the bodhikā part.",
- "uncertainties": [],
- "plain_english": "I now declare the ornament below, in proportion to the bodhikā part."
+ "inference": "The fifth vidyā is assembled from an initial sequence, middle elements, hasa, kṣmā, and a marked syllable.",
+ "uncertainties": [
+  "The tokenization and exact parsing of 'etadādyaṃ ādyam' and 'hendumat mat' are unclear."
+ ],
+ "plain_english": "Beginning with that, take the first and middle parts, joined with hasa, kṣmā, and a syllable bearing the bindu mark."
 }

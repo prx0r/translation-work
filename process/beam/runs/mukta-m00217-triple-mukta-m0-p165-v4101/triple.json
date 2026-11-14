@@ -1,0 +1,1081 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4101,
+   "rows": [
+    {
+     "surface": "mañjayadvitayaṃ",
+     "gloss": "shining-pair",
+     "grounds": "compound denoting a pair of shining elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarjayadvitayaṃ",
+     "gloss": "threatening-pair",
+     "grounds": "compound denoting a pair of threatening elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similarity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which paired mantra elements must be uttered in sequence during this ritual act?",
+   "premises": [
+    "A shining pair is specified",
+    "A threatening pair is specified again",
+    "The sequence is marked as likewise"
+   ],
+   "inference": "The ritual requires uttering a shining pair followed again by a threatening pair in the same manner.",
+   "uncertainties": [
+    "The exact mantra syllables corresponding to the shining and threatening pairs are not stated in this verse."
+   ],
+   "plain_english": "Utter the shining pair, then again the threatening pair, in the same way."
+  },
+  {
+   "verse": 4102,
+   "rows": [
+    {
+     "surface": "kṣetrapāla",
+     "gloss": "field-protector",
+     "grounds": "vocative or base form addressing the guardian deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "object of taking or receiving",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gṛhṇadvayaṃ",
+     "gloss": "receiving-pair",
+     "grounds": "compound denoting a pair associated with receiving",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāvakasundarī",
+     "gloss": "fire-beauty",
+     "grounds": "name or epithet of a deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities and mantra elements are invoked to receive the ritual offering?",
+   "premises": [
+    "The field-protector is addressed",
+    "An offering is specified",
+    "A receiving pair and fire-beauty are named"
+   ],
+   "inference": "The offering is directed to the field-protector together with the receiving pair and the deity called fire-beauty.",
+   "uncertainties": [
+    "The precise identity of the receiving pair and fire-beauty within this mantra sequence is unclear."
+   ],
+   "plain_english": "O field-protector, take the offering, together with the receiving pair and Pāvakasundarī."
+  },
+  {
+   "verse": 4103,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "in-same-way",
+     "grounds": "adverb emphasizing identical manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parivārāya",
+     "gloss": "for-retinue",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "object to be presented",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "etena",
+     "gloss": "by-this",
+     "grounds": "instrumental reference to the preceding formula",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive action for the ritual",
+     "morph": "3.sg.optative-active + ā-hṛ"
+    }
+   ],
+   "question": "How should the offering be presented to the deity's retinue using the given formula?",
+   "premises": [
+    "The same manner is prescribed",
+    "The retinue is the recipient",
+    "The offering should be made by this formula"
+   ],
+   "inference": "One should offer the bali to the retinue in the same way using this formula.",
+   "uncertainties": [],
+   "plain_english": "In the same way, one should offer the bali to the retinue using this formula."
+  },
+  {
+   "verse": 4104,
+   "rows": [
+    {
+     "surface": "mantropadeśo",
+     "gloss": "mantra-instruction",
+     "grounds": "compound naming the teaching of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "agent who gives the instruction",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sādhanaṃ",
+     "gloss": "practice",
+     "grounds": "the method or discipline to be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhāvaham",
+     "gloss": "bringing-auspiciousness",
+     "grounds": "compound describing the beneficial result",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What role does the guru's mantra instruction play in auspicious practice?",
+   "premises": [
+    "Mantra instruction comes from the guru",
+    "Practice is mentioned alongside instruction",
+    "The practice is described as bringing auspiciousness"
+   ],
+   "inference": "Mantra instruction given by the guru and the associated practice bring auspicious results.",
+   "uncertainties": [],
+   "plain_english": "The mantra instruction given by the guru, and the practice, bring auspiciousness."
+  },
+  {
+   "verse": 4105,
+   "rows": [
+    {
+     "surface": "puṇye",
+     "gloss": "auspicious",
+     "grounds": "qualifies the time for the rite",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "muhūrte",
+     "gloss": "moment",
+     "grounds": "specific time unit for beginning",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nakṣatre",
+     "gloss": "lunar-mansion",
+     "grounds": "astrological time marker",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tithu",
+     "gloss": "lunar-day",
+     "grounds": "astrological time marker; form as given",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior purificatory action",
+     "morph": "(indecl.) absolutive + snā"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "compound indicating proper procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory timing and purification are required before undertaking the ritual vow?",
+   "premises": [
+    "An auspicious moment, lunar mansion, and lunar day are specified",
+    "Bathing is required beforehand",
+    "The procedure must follow the rule"
+   ],
+   "inference": "One should bathe according to rule at an auspicious moment, lunar mansion, and lunar day before proceeding.",
+   "uncertainties": [
+    "The form tithu is nonstandard for the expected locative form."
+   ],
+   "plain_english": "At an auspicious moment, lunar mansion, and lunar day, having bathed according to rule."
+  },
+  {
+   "verse": 4106,
+   "rows": [
+    {
+     "surface": "sūryādidevatābhyaśca",
+     "gloss": "to-sun-and-other-deities",
+     "grounds": "compound with connective indicating recipients of offering",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "prior act of dedication",
+     "morph": "(indecl.) absolutive + ni-vid"
+    },
+    {
+     "surface": "vratam",
+     "gloss": "vow",
+     "grounds": "object of the ritual undertaking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active + ā-car"
+    }
+   ],
+   "question": "To whom must the vow be dedicated before its proper performance?",
+   "premises": [
+    "The sun and other deities are named as recipients",
+    "Dedication precedes performance",
+    "The vow should then be performed"
+   ],
+   "inference": "One should dedicate the vow to the sun and other deities and then perform it.",
+   "uncertainties": [],
+   "plain_english": "Having offered the vow to the sun and other deities, one should perform it."
+  },
+  {
+   "verse": 4107,
+   "rows": [
+    {
+     "surface": "niyamavyatirekeṇa",
+     "gloss": "by-breach-of-rule",
+     "grounds": "compound indicating violation of observance",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of the ritual effort",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.present-active + bhū"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "compound describing lack of result",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows from violating the prescribed ritual observances?",
+   "premises": [
+    "A breach of rule is considered",
+    "The entire effort is affected",
+    "The result becomes fruitless"
+   ],
+   "inference": "Any breach of the prescribed rules renders the entire ritual fruitless.",
+   "uncertainties": [],
+   "plain_english": "By breach of the rule, everything becomes fruitless."
+  },
+  {
+   "verse": 4108,
+   "rows": [
+    {
+     "surface": "upavāsaṃ",
+     "gloss": "fast",
+     "grounds": "object of undertaking",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "should-undertake",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active + grah"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpayed",
+     "gloss": "should-resolve",
+     "grounds": "mental act of intention",
+     "morph": "3.sg.optative-active + sam-kḷp"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What disciplined acts must the wise practitioner undertake before the ritual?",
+   "premises": [
+    "A fast should be undertaken",
+    "A resolve should be made",
+    "The wise one is the agent"
+   ],
+   "inference": "The wise practitioner should undertake a fast and make a formal resolve.",
+   "uncertainties": [],
+   "plain_english": "The wise one should undertake a fast and likewise make a resolve."
+  },
+  {
+   "verse": 4109,
+   "rows": [
+    {
+     "surface": "prārabdhe",
+     "gloss": "when-begun",
+     "grounds": "condition of an already started rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sūtakaṃ",
+     "gloss": "birth-impurity",
+     "grounds": "ritual impurity state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "potential or prescriptive state",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "anārabdhe",
+     "gloss": "when-not-begun",
+     "grounds": "condition of a rite not yet started",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtakam",
+     "gloss": "birth-impurity",
+     "grounds": "ritual impurity state",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does birth impurity affect a ritual that has already begun versus one not yet begun?",
+   "premises": [
+    "A begun rite is considered",
+    "An unbegun rite is considered",
+    "Birth impurity is the condition in question"
+   ],
+   "inference": "Birth impurity does not affect a rite already begun, but it does apply when the rite has not yet begun.",
+   "uncertainties": [],
+   "plain_english": "If the rite has begun, there is no birth impurity; if it has not begun, birth impurity applies."
+  },
+  {
+   "verse": 4110,
+   "rows": [
+    {
+     "surface": "nāndīmukhaṃ",
+     "gloss": "nandi-face-rite",
+     "grounds": "name of a preliminary ancestral rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vivāhādau",
+     "gloss": "at-wedding-and-others",
+     "grounds": "compound indicating occasions beginning with marriage",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrāddhe",
+     "gloss": "in-ancestral-rite",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pākapariṣkriyā",
+     "gloss": "food-preparation",
+     "grounds": "compound denoting purification or preparation of food",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which ritual contexts require the nāndīmukha rite and food preparation procedures?",
+   "premises": [
+    "The nāndīmukha rite is named",
+    "Weddings and similar occasions are mentioned",
+    "Ancestral rites and food preparation are included"
+   ],
+   "inference": "The nāndīmukha rite and food preparation apply in contexts such as weddings and ancestral rites.",
+   "uncertainties": [
+    "The exact syntactic relation among the listed items is compressed in this verse."
+   ],
+   "plain_english": "The nāndīmukha rite, at weddings and so on, and food preparation in the ancestral rite."
+  },
+  {
+   "verse": 4111,
+   "rows": [
+    {
+     "surface": "kāmataḥ",
+     "gloss": "intentionally",
+     "grounds": "adverb indicating deliberate action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjite",
+     "gloss": "when-worshipped",
+     "grounds": "condition of the mantra being honored",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantre",
+     "gloss": "mantra",
+     "grounds": "object of worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāntikādau",
+     "gloss": "in-pacification-and-others",
+     "grounds": "compound indicating rites beginning with pacification",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutracit",
+     "gloss": "in-some-case",
+     "grounds": "indefinite locative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which intentional ritual contexts is the mantra worshipped for specific purposes?",
+   "premises": [
+    "Intentional worship is indicated",
+    "The mantra is the object worshipped",
+    "Pacification and other rites are mentioned"
+   ],
+   "inference": "When the mantra is intentionally worshipped, it may be done in pacification rites and other such contexts.",
+   "uncertainties": [
+    "The verse is syntactically linked to the following verse for the full prescription."
+   ],
+   "plain_english": "When the mantra is intentionally worshipped, in pacification rites and in some other cases."
+  },
+  {
+   "verse": 4112,
+   "rows": [
+    {
+     "surface": "śatatrayam",
+     "gloss": "three-hundred",
+     "grounds": "compound specifying a number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "akāmācca",
+     "gloss": "and-unintentionally",
+     "grounds": "adverb with connective indicating lack of intent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāyaścittavidhau",
+     "gloss": "in-expiation-procedure",
+     "grounds": "compound indicating the context of atonement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active + jap"
+    }
+   ],
+   "question": "What recitation count is prescribed for unintentional faults in expiation procedures?",
+   "premises": [
+    "Three hundred recitations are specified",
+    "Unintentional cases are included",
+    "The context is an expiation procedure"
+   ],
+   "inference": "One should recite three hundred times in an expiation procedure for unintentional faults.",
+   "uncertainties": [
+    "The relation to the intentional case in the previous verse is implied but not fully explicit."
+   ],
+   "plain_english": "One should recite three hundred times, even unintentionally, in the procedure of expiation."
+  },
+  {
+   "verse": 4113,
+   "rows": [
+    {
+     "surface": "uktasaṃkhyaṃ",
+     "gloss": "stated-number",
+     "grounds": "compound qualifying the recitation count",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "object of the action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "puraścaraṇasiddhaye",
+     "gloss": "for-preliminary-success",
+     "grounds": "compound expressing purpose of the practice",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why must the practitioner complete the stated number of recitations?",
+   "premises": [
+    "A stated number of recitations is required",
+    "The recitation must be performed",
+    "The purpose is success in preliminary practice"
+   ],
+   "inference": "One should perform the stated number of recitations to achieve success in puraścaraṇa.",
+   "uncertainties": [],
+   "plain_english": "One should perform the stated number of recitations for the success of the preliminary practice."
+  },
+  {
+   "verse": 4114,
+   "rows": [
+    {
+     "surface": "japed",
+     "gloss": "should-recite",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active + jap"
+    },
+    {
+     "surface": "ekamanāḥ",
+     "gloss": "one-pointed-mind",
+     "grounds": "compound describing mental focus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prātaḥkālāt",
+     "gloss": "from-morning-time",
+     "grounds": "compound indicating starting point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "madhyandināvadhi",
+     "gloss": "until-midday",
+     "grounds": "compound indicating ending limit",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "During which time period and with what mental state should recitation be performed?",
+   "premises": [
+    "Recitation is prescribed",
+    "One-pointedness of mind is required",
+    "The time span is from morning to midday"
+   ],
+   "inference": "One should recite with one-pointed mind from morning until midday.",
+   "uncertainties": [],
+   "plain_english": "One should recite with a one-pointed mind from morning until midday."
+  },
+  {
+   "verse": 4115,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyūnādhikaṃ",
+     "gloss": "less-or-more",
+     "grounds": "compound indicating deviation in amount",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "action under condition",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "vratabhraṣṭaḥ",
+     "gloss": "fallen-from-vow",
+     "grounds": "compound describing loss of vow status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "the practitioner subject to the condition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to a practitioner who performs the vow with less or more than prescribed?",
+   "premises": [
+    "Doing less or more is considered",
+    "The vow is the standard being measured",
+    "The person becomes fallen from the vow"
+   ],
+   "inference": "If a person does less or more than prescribed, that person becomes fallen from the vow.",
+   "uncertainties": [],
+   "plain_english": "If one does less or more, that person becomes fallen from the vow."
+  },
+  {
+   "verse": 4116,
+   "rows": [
+    {
+     "surface": "nājaptaḥ",
+     "gloss": "not-recited",
+     "grounds": "compound with negation indicating absence of recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhidāne",
+     "gloss": "in-giving-success",
+     "grounds": "compound indicating the context of granting success",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "icchuḥ",
+     "gloss": "desiring",
+     "grounds": "present participle describing the mantra's capacity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāhutaḥ",
+     "gloss": "not-offered",
+     "grounds": "compound with negation indicating absence of oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phalado",
+     "gloss": "fruit-giving",
+     "grounds": "compound describing capacity to yield results",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "Under what conditions does a mantra fail to grant success or yield fruit?",
+   "premises": [
+    "An unrecited mantra is considered",
+    "An unoffered mantra is considered",
+    "Granting success and giving fruit are the expected outcomes"
+   ],
+   "inference": "A mantra that is not recited does not grant success, and one not offered does not yield fruit.",
+   "uncertainties": [],
+   "plain_english": "If not recited, it does not grant success; if not offered, it does not give fruit."
+  },
+  {
+   "verse": 4117,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "adverbial compound indicating daily repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent performing the practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "emphasizes personal performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "success",
+     "grounds": "desired result",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "icchati",
+     "gloss": "desires",
+     "grounds": "condition of wanting success",
+     "morph": "3.sg.present-active + iṣ"
+    }
+   ],
+   "question": "What daily commitment is required of a practitioner who desires ritual success?",
+   "premises": [
+    "The practitioner desires success",
+    "Daily performance is specified",
+    "Personal performance is emphasized"
+   ],
+   "inference": "If the practitioner desires success, they should perform the practice themselves every day.",
+   "uncertainties": [],
+   "plain_english": "If the practitioner desires success, they should do it themselves every day."
+  },
+  {
+   "verse": 4118,
+   "rows": [
+    {
+     "surface": "japadhyānasamāyuktaḥ",
+     "gloss": "joined-with-recitation-meditation",
+     "grounds": "compound describing combined practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb indicating speed of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "attainment of the goal",
+     "morph": "3.sg.present-active + sidh"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "compound naming the qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What combination of practices enables the mantra-knower to achieve success quickly?",
+   "premises": [
+    "Recitation and meditation are joined together",
+    "The practitioner knows the mantra",
+    "Quick success is stated as the result"
+   ],
+   "inference": "The mantra-knower who combines recitation and meditation succeeds quickly.",
+   "uncertainties": [],
+   "plain_english": "Joined with recitation and meditation, the knower of mantra succeeds quickly."
+  },
+  {
+   "verse": 4119,
+   "rows": [
+    {
+     "surface": "yathoktakuṇḍe",
+     "gloss": "in-prescribed-fire-pit",
+     "grounds": "compound indicating the proper ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer-oblation",
+     "grounds": "prescriptive fire ritual action",
+     "morph": "3.sg.optative-active + hu"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "compound indicating proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "mental state of the practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How and where must oblations be offered to maintain ritual correctness?",
+   "premises": [
+    "The fire pit must be as prescribed",
+    "Oblations should be offered",
+    "The practitioner must be concentrated and follow the rule"
+   ],
+   "inference": "One should offer oblations in the prescribed fire pit according to rule with concentration.",
+   "uncertainties": [],
+   "plain_english": "One should offer oblations in the prescribed fire pit, according to rule, with concentration."
+  },
+  {
+   "verse": 4120,
+   "rows": [
+    {
+     "surface": "divasātikramāt",
+     "gloss": "by-passing-day",
+     "grounds": "compound indicating lapse or transgression of the day",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "puṃso",
+     "gloss": "of-person",
+     "grounds": "the practitioner affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mantrasiddhirbhavet",
+     "gloss": "mantra-success-occurs",
+     "grounds": "compound with verb expressing attainment of mantra success",
+     "morph": "compound+3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect does missing the prescribed day have on attaining mantra success?",
+   "premises": [
+    "A lapse of the day is considered",
+    "Mantra success is the desired outcome",
+    "The verse denies that success occurs"
+   ],
+   "inference": "By passing the prescribed day, a person does not attain mantra success.",
+   "uncertainties": [],
+   "plain_english": "Indeed, by missing the day, a person does not attain mantra success."
+  },
+  {
+   "verse": 4121,
+   "rows": [
+    {
+     "surface": "dināntare",
+     "gloss": "on-another-day",
+     "grounds": "compound indicating a different day",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active + pra-jap"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb indicating alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhirodhakṛt",
+     "gloss": "obstructing-success",
+     "grounds": "compound describing an action that blocks success",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What recitation adjustment prevents obstruction of success when the schedule changes?",
+   "premises": [
+    "Recitation on another day is mentioned",
+    "An alternative condition is indicated",
+    "Obstruction of success is the negative outcome"
+   ],
+   "inference": "One should also recite on another day; otherwise, it becomes an obstruction to success.",
+   "uncertainties": [
+    "The exact procedural adjustment implied by reciting on another day is not fully specified."
+   ],
+   "plain_english": "One should also recite on another day; otherwise, it obstructs success."
+  },
+  {
+   "verse": 4122,
+   "rows": [
+    {
+     "surface": "ādyantayoḥ",
+     "gloss": "at-beginning-and-end",
+     "grounds": "compound indicating two boundary points",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "vidhīyante",
+     "gloss": "are-prescribed",
+     "grounds": "prescriptive statement",
+     "morph": "3.pl.present-passive + vi-dhā"
+    },
+    {
+     "surface": "nāsikāpuṭacāriṇaḥ",
+     "gloss": "moving-through-nostrils",
+     "grounds": "compound describing breath movements through the nostrils",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "At which points in the practice are nostril-breath movements prescribed?",
+   "premises": [
+    "Beginning and end are specified",
+    "Nostril-moving practices are named",
+    "They are prescribed"
+   ],
+   "inference": "Movements through the nostrils are prescribed at the beginning and at the end.",
+   "uncertainties": [
+    "The specific breath technique is not detailed in this verse."
+   ],
+   "plain_english": "At the beginning and the end, movements through the nostrils are prescribed."
+  },
+  {
+   "verse": 4123,
+   "rows": [
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "prior act of placement",
+     "morph": "(indecl.) absolutive + ni-dhā"
+    },
+    {
+     "surface": "maṇḍalasya",
+     "gloss": "of-mandala",
+     "grounds": "the ritual diagram as reference",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "inside",
+     "grounds": "location within the mandala",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savyahastagatāṃ",
+     "gloss": "placed-in-left-hand",
+     "grounds": "compound describing something held in the left hand",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the ritual object be placed in relation to the mandala and the hand?",
+   "premises": [
+    "Placement is described",
+    "Inside the mandala is one location",
+    "Placement in the left hand is given as an alternative"
+   ],
+   "inference": "Having placed it inside the mandala, or alternatively in the left hand.",
+   "uncertainties": [
+    "The object being placed is not explicitly named in this verse."
+   ],
+   "plain_english": "Having placed it inside the mandala, or in the left hand."
+  },
+  {
+   "verse": 4124,
+   "rows": [
+    {
+     "surface": "caturvargastvayi",
+     "gloss": "fourfold-aim-in-you",
+     "grounds": "compound with sandhi expressing placement of the four aims in the deity",
+     "morph": "compound"
+    },
+    {
+     "surface": "nyastastasmānme",
+     "gloss": "placed-therefore-to-me",
+     "grounds": "compound with sandhi linking placement and request",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "success-giver",
+     "grounds": "compound describing the deity as granting success",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative request",
+     "morph": "2.sg.imperative-active + bhū"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "repeated imperative for emphasis",
+     "morph": "2.sg.imperative-active + bhū"
+    }
+   ],
+   "question": "What request is made to the deity after entrusting the four aims within her?",
+   "premises": [
+    "The fourfold aim is placed in the deity",
+    "The deity is addressed as giver of success",
+    "A repeated imperative requests her to be so"
+   ],
+   "inference": "Having placed the fourfold aim in you, the practitioner asks the deity to be the giver of success.",
+   "uncertainties": [
+    "The sandhi-fused tokens contain multiple grammatical elements within single surfaces."
+   ],
+   "plain_english": "The fourfold aim is placed in you; therefore be, be the giver of success to me."
+  }
+ ]
+}

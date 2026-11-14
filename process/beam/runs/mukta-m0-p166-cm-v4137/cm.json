@@ -3,24 +3,34 @@
  "verse": 4137,
  "rows": [
   {
-   "lemma": "yāmaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "time unit for the ritual cycle"
+   "lemma": "mantrastathaiva",
+   "morph": "m.nom.sg+(indecl.), compound=mantra+tathā+eva",
+   "grounds": "subject continued with emphatic similarity; internal sandhi joins mantra and tathā"
   },
   {
-   "lemma": "prativiśeṣeṇa",
-   "morph": "(indecl.) + m.inst.sg, fused form",
-   "grounds": "distributive expression with emphasis; internal sandhi prati+viśeṣeṇa"
+   "lemma": "tathā+eva",
+   "morph": "(indecl.)+(indecl.)",
+   "grounds": "emphasizes the stated condition"
   },
   {
-   "lemma": "balihomaṃ",
-   "morph": "m.acc.sg, compound bali+homa",
-   "grounds": "ritual acts of bali and homa combined"
+   "lemma": "niḥsetuḥ",
+   "morph": "m.nom.sg, compound=nis+setu",
+   "grounds": "condition lacking a stabilizing bridge"
   },
   {
-   "lemma": "samācaret",
-   "morph": "3.sg.opt.act sam-ā-√car",
-   "grounds": "optative prescribing the ritual action"
+   "lemma": "kṣaṇāt",
+   "morph": "m.abl.sg",
+   "grounds": "speed of the consequence"
+  },
+  {
+   "lemma": "kṣarati",
+   "morph": "3.sg.pres.act(kṣar)",
+   "grounds": "loss or dissipation of the mantra"
+  },
+  {
+   "lemma": "yajvanām",
+   "morph": "m.gen.pl",
+   "grounds": "those affected by the loss"
   }
  ]
 }
