@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 494,
- "question": "Which range of letters is to be placed within the central triangle?",
+ "question": "Is this mantra being recited to suddenly accomplish a deed on my behalf?",
  "premises": [
-  "A complete sequence of letters is specified.",
-  "The sequence runs from a to kṣa.",
-  "The placement is within the middle circle of a triangle."
+  "A mantra is being recited",
+  "The recitation may have immediate effect",
+  "The effect concerns doing a deed for the speaker"
  ],
- "inference": "The letters from a to kṣa are to be contemplated in the middle circle of the triangle.",
- "uncertainties": [],
- "plain_english": "In the middle circle of the triangle, contemplate the sequence from the letter a to the letter kṣa."
+ "inference": "The mantra's recitation is questioned as a means to swiftly enact the speaker's purpose.",
+ "uncertainties": [
+  "Nature of the deed is unspecified"
+ ],
+ "plain_english": "Is he reciting this mantra to suddenly accomplish a deed for me?"
 }
