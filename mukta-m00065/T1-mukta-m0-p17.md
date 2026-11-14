@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[offering](arghaṃ) [having-given](datvā) [and](ca) [of-tree](vṛkṣasya) [mantra](mantra) [to-be-heard](saṃśrāvyakaṃ) [should-say](vadet)
+[offering](arghaṃ) [having-given](datvā) [and](ca) [of-the-tree](vṛkṣasya) [mū,-a:-of-Rudra]([mū, a: rudrasya]) [mantra](mantra) [to-be-heard](saṃśrāvyakaṃ) [should-say](vadet)
 
 ## mukta-m0-p17-v402
-[may-move](saṅkramā) [from-another](anyaditaḥ) [from-place](sthānād) [endowed-with-qualities](guṇavat) [which](yat) [charming](manoharam)
+[moving](saṅkramā) [from-another](anyaditaḥ) [from-place](sthānād) [endowed-with-qualities](guṇavat) [and](yat) [charming](manoharam)
 
 ## mukta-m0-p17-v403
-[which](yo) [in-which](yasmin) [prescribed](vihito) [mantra](mantraḥ) [in-scripture](śāstre) [should-be](syād) [in-offering+rite](bali+karmaṇi)
+[which](yo) [in-which](yasmin) [mū,-a,-k,-g:-where]([mū, a, k, g: yatra]) [prescribed](vihito) [mantra](mantraḥ) [in-scripture](śāstre) [should-be](syād) [in-offering-rite](balikarmaṇi)
 
 ## mukta-m0-p17-v404
-[in-place](sthāne) [in-this](asmin) [which](yāni) [beings](bhūtāni) [piśācas](piśācā) [rākṣasas](rākṣasāś) [and](ca) [which](ye)
+[in-place](sthāne) [in-this](asmin) [which](yāni) [beings](bhūtāni) [piśācas](piśācā) [rākṣasas](rākṣasāś) [and](ca) [who](ye)
 
 ## mukta-m0-p17-v405
-[them](tān) [then](tu) [having-worshipped](saṃpūjya) [according-to-rule](vidhivat) [with-pleasing+words](priya+vākyaiḥ) [should-propitiate](pratoṣayet)
+[them](tān) [then](tu) [having-worshipped](saṃpūjya) [according-to-rule](vidhivat) [with-pleasing-words](priyavākyaiḥ) [one-should-propitiate](pratoṣayet)
 
 ## mukta-m0-p17-v406
-[for-Śiva](śiva+arthaṃ) [which](yad) [may-be](bhavet) [work](kāryaṃ) [of-you](yuṣmākam) [also](api) [that](tad) [may-be](bhavet)
+[p.-49)](p. 49)) [for-Śiva’s-sake](śivārthaṃ) [which](yad) [may-be](bhavet) [work](kāryaṃ) [of-you](yuṣmākam) [also](api) [that](tad) [may-be](bhavet)
 
 ## mukta-m0-p17-v407
 [with-ease](sukhena) [go](gacchata) [elsewhere](anyatra) [having-left](muktvā) [place](sthānam) [this](idaṃ) [tree](drumam)
 
 ## mukta-m0-p17-v408
-[Śiva](śivaṃ) [having-worshipped](saṃpūjya) [according-to-rule](vidhivat) [dream+Māṇavaka](svapna+māṇavakaṃ) [should-recite](japet)
+[Śiva](śivaṃ) [having-worshipped](saṃpūjya) [according-to-rule](vidhivat) [dream-māṇavaka](svapnamāṇavakaṃ) [mū,-a,-k,-kh,-g:-having-informed]([mū, a, k, kh, g: vijñāpya-]) [one-should-recite](japet)
 
 ## mukta-m0-p17-v409
-[dream+Māṇavaka](svapna+māṇavakaṃ) [at-night](rātrau) [hundred](śatam) [eight+more](aṣṭa+uttaraṃ) [should-recite](japet)
+[dream-māṇavaka](svapnamāṇavakaṃ) [at-night](rātrau) [hundred](śatam) [eight-more](aṣṭottaraṃ) [one-should-recite](japet)
 
 ## mukta-m0-p17-v410
-[vāmāya](vāmāya) [viśvarūpāya](viśvarūpāya) [1](1) [svapnādhipataye](svapnādhipataye) [namaḥ](namaḥ)
+[to-Vāma](vāmāya) [to-all-formed](viśvarūpāya) [1](1) [to-lord-of-dreams](svapnādhipataye) [obeisance](namaḥ)
 
 ## mukta-m0-p17-v411
-[ritual+success](kriyā+siddhiṃ) [I-shall-accomplish](vidhāsyāmi) [by-your+grace](tvat+prasādān) [O-great-lord](maheśvara)
+[success-of-rite](kriyāsiddhiṃ) [I-shall-accomplish](vidhāsyāmi) [by-your-grace](tvatprasādān) [O-great-lord](maheśvara)
 
 ## mukta-m0-p17-v412
 [with-Rudra](rudreṇa) [and](ca) [accompanied](anvitaṃ) [in-dream](svapne) [having-seen](dṛṣṭvā) [to-be-spoken](vācyaṃ) [auspicious](śubhaṃ) [always](sadā)
 
 ## mukta-m0-p17-v413
-[by-monkeys+and-camels](kapi+uṣṭraiḥ) [being-devoured](bhakṣamāṇaṃ) [or](vā) [that](taṃ) [should-abandon](tyajet) [inauspicious](aśubha) [giving](pradam)
+[by-monkeys-and-camels](kapy+uṣṭraiḥ) [being-devoured](bhakṣamāṇaṃ) [or](vā) [that](taṃ) [one-should-abandon](tyajet) [inauspicious](aśubha) [k:-jeccāśubha]([k: jeccāśubha]) [giving](pradam)
 
 ## mukta-m0-p17-v414
-[should-offer](juhuyāt) [and](ca) [then](tadā) [having-bathed](snātvā) [Ghora-mantra](aghoraṃ) [for-fault+removal](doṣa+nivṛttaye)
+[one-should-offer](juhuyāt) [and](ca) [then](tadā) [having-bathed](snātvā) [aghora-mantra](aghoraṃ) [for-removal-of-fault](doṣa+nivṛttaye)
 
 ## mukta-m0-p17-v415
-[in-east](aindre) [in-north](saumye) [likewise](tathā) [in-northeast](īśāne) [beginning-with-unmanifest+face](avyakta+ādi+mukhaṃ) [in-order](kramāt)
+[in-east](aindre) [in-north](saumye) [likewise](tathā) [in-northeast](īśāne) [beginning-with-unmanifest](avyakta+ādi) [facing](mukhaṃ) [in-order](kramāt)
 
 ## mukta-m0-p17-v416
-[with-honey+ghee](kṣaudra+ājya) [smeared+weapon](abhyakta+śastreṇa) [with-Ghora-weapon](ghora+astreṇa) [having-consecrated](abhimantrya) [and](ca)
+[with-honey-and-ghee](kṣaudra+ājya) [smeared](abhyakta) [with-weapon](śastreṇa) [with-ghora-weapon](ghora+astreṇa) [having-consecrated](abhimantrya) [and](ca)
 
 ## mukta-m0-p17-v417
-[teacher](ācāryaḥ) [first](prathamaṃ) [should-strike](hanyāt) [Śiva-weapon](śiva+astraṃ) [reciting](saṃjapan) [then](tataḥ)
+[teacher](ācāryaḥ) [first](prathamaṃ) [should-strike](hanyāt) [śiva-weapon](śiva+astraṃ) [reciting](saṃjapan) [then](tataḥ)
 
 ## mukta-m0-p17-v418
-[of-tree](vārkṣa) [mantra+end+direction](mantra+anta+dikkaṃ) [(?)](?) [indeed](vai) [should-fix](ghaṭayet) [liṅga](liṅgam) [with-respect](ādarāt)
+[of-tree](vārkṣa) [g:-karka]([g: karka]) [ending-with-mantra](mantra+anta) [direction](dikkaṃ) [(?)]((?)) [g:-didaṃ]([g: didaṃ]) [indeed](vai) [one-should-fix](ghaṭayet) [liṅga](liṅgam) [with-respect](ādarāt) [k,-g:-in-that-order]([k, g: tadanukramāt])
 
 ## mukta-m0-p17-v419
-[should-cut](saṃchindyāt) [fallen](patitaṃ) [tree](vṛkṣam) [with-Aja-mantra](ajātena) [indeed](eva) [devoted](bhaktimān)
+[one-should-cut](saṃchindyāt) [fallen](patitaṃ) [mū,-a:-saṃcintyāt-]([mū, a: saṃcintyāt-]) [tree](vṛkṣam) [with-ajāta-mantra](ajātena) [indeed](eva) [k,-c:-jātenaiva;-g:-mathatenaiva]([k, c: jātenaiva; g: mathatenaiva]) [devout](bhaktimān)
 
 ## mukta-m0-p17-v420
-[should-take](gṛhṇīyāt) [wood](dāru) [for-liṅga+purpose](liṅga+arthaṃ) [should-reject](tyajet) [pale](āpāṇḍaraṃ) [light](laghu)
+[one-should-take](gṛhṇīyāt) [wood](dāru) [for-liṅga](liṅga+arthaṃ) [one-should-reject](tyajet) [pale](āpāṇḍaraṃ) [light](laghu)
 
 ## mukta-m0-p17-v421
-[placed](sthāpitaṃ) [inverted](viparītaṃ) [but](tu) [kingdom+disturbance](rāṣṭra+vibhramam) [should-indicate](ādiśet)
+[placed](sthāpitaṃ) [inverted](viparītaṃ) [but](tu) [disturbance-of-kingdom](rāṣṭra+vibhramam) [one-should-indicate](ādiśet)
 
 ## mukta-m0-p17-v422
-[downward](adhaḥ) [head](śiro) [when](yadā) [liṅga](liṅgaṃ) [then](tadā) [family+destruction](gotra+kṣayo) [may-be](bhavet)
+[downward](adhaḥ) [head](śiro) [when](yadā) [liṅga](liṅgaṃ) [then](tadā) [destruction-of-lineage](gotra+kṣayo) [may-be](bhavet)
 
 ## mukta-m0-p17-v423
-[then](tato) [direction+deity+pacification](dik+devatā+śāntiṃ) [should-perform](kuryāt) [for-fault+release](doṣa+vimuktaye)
+[then](tato) [pacification-of-directional-deities](dik+devatā+śāntiṃ) [one-should-perform](kuryāt) [for-release-from-fault](doṣa+vimuktaye)
 
 ## mukta-m0-p17-v424
-[by-other+direction+guardian+fault](anya+dik+pāta+doṣeṇa) [is-released](mucyate) [pacification](śāntim) [obtains](āpnuyāt)
+[by-fault-of-another-direction-guardian](anya+dik+pāta+doṣeṇa) [one-is-released](mucyate) [peace](śāntim) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p17-v425
-[should-give](dadyāt) [full+offering](pūrṇa+āhutim) [and](ca) [also](api) [then](tataḥ) [desires](kāmān) [may-obtain](avāpnuyāt)
+[one-should-give](dadyāt) [full-oblation](pūrṇa+āhutiṃ) [and](ca) [also](api) [then](tataḥ) [desires](kāmān) [one-may-obtain](avāpnuyāt)

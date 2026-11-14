@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p94",
  "verse": 2348,
- "question": "What additional birds are included in the continuing list of offerings?",
+ "question": "Which colors are prescribed for desired recitation and for the rite of killing?",
  "premises": [
-  "A large pigeon is listed",
-  "A wagtail is listed likewise",
-  "The list continues"
+  "A desired recitation is named as a context.",
+  "Blue and black are named as colors.",
+  "The rite of killing is named as a context."
  ],
- "inference": "The offerings further include a large pigeon and a wagtail.",
- "uncertainties": [],
- "plain_english": "A large pigeon and a wagtail are also to be offered."
+ "inference": "Blue is used in desired recitation and black in the rite of killing.",
+ "uncertainties": [
+  "The exact assignment of nīlaṃ and kṛṣṇaṃ to the two contexts is inferred from their order."
+ ],
+ "plain_english": "In desired recitation use blue, and in the rite of killing use black."
 }
