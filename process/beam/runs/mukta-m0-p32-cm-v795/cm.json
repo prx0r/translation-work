@@ -3,24 +3,39 @@
  "verse": 795,
  "rows": [
   {
-   "lemma": "prativarṇaṃ",
+   "lemma": "pūjayan",
+   "morph": "pres.part.",
+   "grounds": "participial action"
+  },
+  {
+   "lemma": "iṣṭam",
+   "morph": "adj.acc.sg",
+   "grounds": "object qualifier"
+  },
+  {
+   "lemma": "akhilam",
+   "morph": "adj.acc.sg",
+   "grounds": "object qualifier"
+  },
+  {
+   "lemma": "labhate",
+   "morph": "3.sg.mid.pres.+root",
+   "grounds": "present result verb"
+  },
+  {
+   "lemma": "atra",
    "morph": "(indecl.)",
-   "grounds": "adverbial compound"
+   "grounds": "locative adverb"
   },
   {
-   "lemma": "vinduyuktaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound adjective"
+   "lemma": "paratra",
+   "morph": "(indecl.)",
+   "grounds": "locative adverb"
   },
   {
-   "lemma": "bindunāda",
-   "morph": "m.acc.sg",
-   "grounds": "compound noun"
-  },
-  {
-   "lemma": "vibhūṣitam",
-   "morph": "n.acc.sg",
-   "grounds": "participle adjective"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunctive particle"
   }
  ]
 }

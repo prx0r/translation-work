@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "śrīcakranirmāṇadravyasaptakam",
+     "gloss": "sri-chakra-making-substances-seven",
+     "grounds": "compound naming the seven substances for making the Sri Chakra; accusative object of upadiśati",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "upadiśati",
+     "gloss": "teaches",
+     "grounds": "third-person singular active present of root upadiś",
+     "morph": "v.3.sg.act-pres+root upadiś"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candane",
+     "gloss": "in-sandal",
+     "grounds": "locative singular of candana",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śītarakte",
+     "gloss": "cool-red",
+     "grounds": "compound of śīta and rakta; locative sense in context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What seven substances for making the Sri Chakra are taught there in sandal and cool red?",
+   "premises": [
+    "seven substances for Sri Chakra making are taught",
+    "the teaching occurs there",
+    "sandal and cool red frame the substances"
+   ],
+   "inference": "The verse states that a sevenfold set of substances for making the Sri Chakra is taught in that sandal and cool-red context.",
+   "uncertainties": [
+    "the exact referent of śītarakte is not fully specified",
+    "its precise grammatical case and gender are inferred from context"
+   ],
+   "plain_english": "It teaches the seven substances for making the Sri Chakra; there, in sandal and cool red."
+  }
+ ]
+}

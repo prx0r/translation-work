@@ -1,0 +1,80 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p180",
+ "work": "mukta-m00122",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v4488 ratio=0.868",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "7e1a081383e25762",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 79
+ },
+ "align": {
+  "min_ratio": 0.868,
+  "sub090": {
+   "4488": {
+    "ratio": 0.868,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "Beginning with all women, the world was made subject."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 50,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 79,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v4488"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "0a192270b71d9f59bad933b6fb64180d32a54a4d5fd8ebab9cb716b8325e074d",
+  "l0": "aed4f9bc74e2620e9ec33b492e2c24ee38c38449feb0ced4d55a8b034a89c849",
+  "argmap": "b47ee2aeb8a45a6ebad341fb9866ba8215d7d818e0dfe17838a7b7dfa4615866",
+  "l2": "a2f14ba80ec87f7eb9e0a896c42c8a44ba23198561a0eaa0d06d4062140392b6",
+  "c1": "628222ecda97cbda9d7aa24028aecd662787eb07bf53923dfd5e1d4bcb891781"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "7e1a081383e25762",
+  "t1": "mukta-m0-p180/data/mukta-m0-p180.t1.json",
+  "l0": "mukta-m0-p180/data/mukta-m0-p180.l0.json",
+  "l2": "mukta-m0-p180/data/mukta-m0-p180.l2.json",
+  "c1": "mukta-m0-p180/data/mukta-m0-p180.c1.json"
+ }
+}
