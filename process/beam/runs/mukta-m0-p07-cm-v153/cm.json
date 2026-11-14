@@ -3,24 +3,34 @@
  "verse": 153,
  "rows": [
   {
-   "lemma": "śāstrāntaraistu",
-   "morph": "n.instr.pl",
-   "grounds": "śāstra + antaraiḥ + tu"
+   "lemma": "saṃhatya",
+   "morph": "gerund (han+sam)",
+   "grounds": "prior combining action"
   },
   {
-   "lemma": "saṃsthāpya",
-   "morph": "gerund",
-   "grounds": "saṃ + sthāpya"
+   "lemma": "sadasatkarma",
+   "morph": "n.acc.sg (compound: sat+asat+karma)",
+   "grounds": "compound object of union"
   },
   {
-   "lemma": "liṅgaṃ",
+   "lemma": "jīvaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "agent"
+  },
+  {
+   "lemma": "sarvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "liṅga"
+   "grounds": "scope of action"
   },
   {
-   "lemma": "tadubhayārthakam",
-   "morph": "n.acc.sg",
-   "grounds": "tat + ubhaya + arthakam"
+   "lemma": "karoti",
+   "morph": "3.sg.present-active (kṛ)",
+   "grounds": "present activity"
+  },
+  {
+   "lemma": "hi",
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
   }
  ]
 }

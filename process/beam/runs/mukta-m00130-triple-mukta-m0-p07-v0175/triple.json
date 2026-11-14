@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "etajjñānaṃ",
+     "gloss": "this-knowledge",
+     "grounds": "demonstrative pronoun and knowledge compounded; nominative singular neuter",
+     "morph": "etat+jñāna(n.nom.sg)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "maheśānī(f.voc.sg)"
+    },
+    {
+     "surface": "sadāśivavyavasthitam",
+     "gloss": "established-in-sadāśiva",
+     "grounds": "compound indicating abiding or being situated in Sadāśiva",
+     "morph": "sadāśiva+vyavasthita(n.nom.sg)"
+    }
+   ],
+   "question": "In which reality is this knowledge declared to be established?",
+   "premises": [
+    "The verse identifies a specific knowledge.",
+    "The goddess Maheśānī is directly addressed.",
+    "That knowledge is described as established in Sadāśiva."
+   ],
+   "inference": "This knowledge abides in Sadāśiva.",
+   "uncertainties": [
+    "The grammatical role of etajjñānaṃ as subject or topic is inferred from context."
+   ],
+   "plain_english": "O Maheśānī, this knowledge is established in Sadāśiva."
+  }
+ ]
+}
