@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1744,
- "question": "What cognitive benefit is attributed to this suitably seen form?",
+ "question": "What general rule governs wall thickness across all pavilion types?",
  "premises": [
-  "That form is seen",
-  "It is suitable in character",
-  "It gives knowledge"
+  "The rule applies to all pavilions",
+  "The wall thickness is the subject",
+  "The measure is divided fivefold"
  ],
- "inference": "That suitable form is a giver of knowledge.",
- "uncertainties": [],
- "plain_english": "When seen, that suitable form grants knowledge."
+ "inference": "For all pavilions, the wall thickness is determined fivefold.",
+ "uncertainties": [
+  "The basis of the fivefold division is not specified"
+ ],
+ "plain_english": "For all pavilions, the wall thickness is to be divided fivefold."
 }

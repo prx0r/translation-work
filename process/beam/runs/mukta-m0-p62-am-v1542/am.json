@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p62",
  "verse": 1542,
- "question": "What physical characteristics should the ritual implement possess?",
+ "question": "How high may the hall be made relative to its previously stated width?",
  "premises": [
-  "It should resemble a cow’s tail and be beautiful.",
-  "It should reach a hand’s length.",
-  "It should be unblemished and firm."
+  "The hall height is measured relative to that width.",
+  "Permissible multipliers are three, four, or five times.",
+  "These multipliers define alternative valid heights."
  ],
- "inference": "The implement must be cow-tail-shaped, attractive, hand-length, unblemished, and firm.",
- "uncertainties": [
-  "The exact implement is implied by surrounding context."
- ],
- "plain_english": "It should resemble a cow’s tail, be beautiful, reach a hand’s length, be without blemish, and firm."
+ "inference": "Therefore the hall height may be three, four, or five times its width.",
+ "uncertainties": [],
+ "plain_english": "The height of the hall may be three, four, or five times that width."
 }

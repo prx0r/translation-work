@@ -1,0 +1,553 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1538,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "consequential particle linking to prior arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhe+mukhe",
+     "gloss": "at-each-face",
+     "grounds": "reduplicated locative expressing distribution to every face",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāmaṃ",
+     "gloss": "watch-period",
+     "grounds": "unit of time or division to be assigned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-appoint",
+     "grounds": "prescriptive injunction for the artificer",
+     "morph": "3.sg.opt.act √kḷp"
+    },
+    {
+     "surface": "kalpavittamaḥ",
+     "gloss": "best-knower-of-construction",
+     "grounds": "superlative agent qualified to perform the arrangement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How must the most skilled artificer assign watch periods at each face of the structure?",
+   "premises": [
+    "The instruction follows from the previously described arrangement.",
+    "Each face of the structure requires an assigned watch period.",
+    "The most skilled artificer is the prescribed agent for this assignment."
+   ],
+   "inference": "Therefore the best artificer should appoint a watch period at every face.",
+   "uncertainties": [
+    "The exact architectural or ritual sense of yāma in this context is not fully specified."
+   ],
+   "plain_english": "Therefore the best artificer should assign a watch period at each face."
+  },
+  {
+   "verse": 1539,
+   "rows": [
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "first multiplicative option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "second multiplicative option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "disjunctive particle introducing alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuḥ",
+     "gloss": "fourfold",
+     "grounds": "third multiplicative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃca+guṇaṃ",
+     "gloss": "fivefold",
+     "grounds": "fourth multiplicative option",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle completing the set of alternatives",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative multipliers are permitted for the prescribed measure in this construction?",
+   "premises": [
+    "The measure may be made twofold or threefold.",
+    "The measure may alternatively be made fourfold or fivefold.",
+    "The listed options function as permissible alternatives."
+   ],
+   "inference": "Therefore the prescribed measure may be set at two, three, four, or five times.",
+   "uncertainties": [
+    "The specific base measure being multiplied is supplied by the surrounding context."
+   ],
+   "plain_english": "It may be twofold, threefold, or else fourfold or fivefold."
+  },
+  {
+   "verse": 1540,
+   "rows": [
+    {
+     "surface": "antarmaṇḍalabhitti",
+     "gloss": "inner-enclosure-wall",
+     "grounds": "architectural element whose width is specified",
+     "morph": "compound"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension being prescribed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyomahastakam",
+     "gloss": "sky-cubit-measure",
+     "grounds": "specified extent expressed in cubit units",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width is prescribed for the inner enclosure wall in this architectural scheme?",
+   "premises": [
+    "The inner enclosure wall is the element under specification.",
+    "Its width is the dimension being defined.",
+    "The prescribed width is given as a sky-cubit measure."
+   ],
+   "inference": "Therefore the inner enclosure wall should have a width of one sky-cubit.",
+   "uncertainties": [
+    "The exact numerical value implied by vyoma in this measurement system is uncertain."
+   ],
+   "plain_english": "The width of the inner enclosure wall is to be one sky-cubit."
+  },
+  {
+   "verse": 1541,
+   "rows": [
+    {
+     "surface": "sārdhadvihasta",
+     "gloss": "one-and-half-cubit",
+     "grounds": "lower bound of the prescribed range",
+     "morph": "compound"
+    },
+    {
+     "surface": "hastāntaṃ",
+     "gloss": "up-to-one-cubit",
+     "grounds": "upper or terminal bound expressed in cubits",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahāmaryāvasānakam",
+     "gloss": "ending-at-great-boundary",
+     "grounds": "limit defined by the great boundary",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What range of measurement extends up to the great boundary limit in this design?",
+   "premises": [
+    "A measure beginning at one and a half cubits is indicated.",
+    "The range extends up to a cubit-defined end point.",
+    "This range terminates at the great boundary."
+   ],
+   "inference": "Therefore the prescribed extent runs from one and a half cubits up to the great boundary limit.",
+   "uncertainties": [
+    "The precise parsing of hastāntaṃ within the stated range is ambiguous."
+   ],
+   "plain_english": "The measure extends from one and a half cubits up to the limit of the great boundary."
+  },
+  {
+   "verse": 1542,
+   "rows": [
+    {
+     "surface": "tadvyāsa",
+     "gloss": "its-width",
+     "grounds": "base dimension taken from the previously stated measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "tricatuṣpaṃca+guṇaṃ",
+     "gloss": "three-four-fivefold",
+     "grounds": "alternative multipliers applied to the base width",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle indicating options",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sālatuṃgakam",
+     "gloss": "hall-height",
+     "grounds": "vertical dimension of the hall being prescribed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How high may the hall be made relative to its previously stated width?",
+   "premises": [
+    "The hall height is measured relative to that width.",
+    "Permissible multipliers are three, four, or five times.",
+    "These multipliers define alternative valid heights."
+   ],
+   "inference": "Therefore the hall height may be three, four, or five times its width.",
+   "uncertainties": [],
+   "plain_english": "The height of the hall may be three, four, or five times that width."
+  },
+  {
+   "verse": 1543,
+   "rows": [
+    {
+     "surface": "prastarāntaṃ",
+     "gloss": "up-to-entablature",
+     "grounds": "first possible upper limit for the hall height",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "galāntaṃ",
+     "gloss": "up-to-neck",
+     "grounds": "second possible upper limit for the hall height",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sālā",
+     "gloss": "hall",
+     "grounds": "architectural structure whose height is defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tuṃga",
+     "gloss": "height",
+     "grounds": "vertical measure being declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mudāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement of the prescribed measure",
+     "morph": "n.nom.sg.ppp √ah"
+    }
+   ],
+   "question": "What upper limits are declared for the height of the hall in this prescription?",
+   "premises": [
+    "The hall height can extend up to the entablature.",
+    "The hall height can alternatively extend up to the neck.",
+    "This height specification is authoritatively declared."
+   ],
+   "inference": "Therefore the hall height is declared to reach either the entablature or the neck.",
+   "uncertainties": [
+    "The exact architectural identification of prastara and gala depends on technical convention."
+   ],
+   "plain_english": "The height of the hall is declared to extend up to the entablature or up to the neck."
+  },
+  {
+   "verse": 1544,
+   "rows": [
+    {
+     "surface": "kalpayitvā",
+     "gloss": "having-arranged",
+     "grounds": "prior act of setting up the structure or elements",
+     "morph": "(gerund) √kḷp"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "according-to-rule",
+     "grounds": "prescribed procedure governing the arrangement",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vṛṣān",
+     "gloss": "bulls",
+     "grounds": "figures to be installed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-installed",
+     "grounds": "act of placing the figures in position",
+     "morph": "(gerund) √sthā"
+    },
+    {
+     "surface": "śīrṣakam",
+     "gloss": "at-the-head",
+     "grounds": "location where the bulls are placed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where must the bulls be installed after arranging the structure according to rule?",
+   "premises": [
+    "The arrangement must be completed according to the prescribed rule.",
+    "Bull figures are to be installed as part of this procedure.",
+    "The head position is specified as their placement location."
+   ],
+   "inference": "Therefore, after arranging according to rule, one should install the bulls at the head.",
+   "uncertainties": [
+    "The precise architectural referent of śīrṣaka is not fully explicit."
+   ],
+   "plain_english": "Having arranged it according to rule, one should install the bulls at the head."
+  },
+  {
+   "verse": 1545,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative configuration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃghritalopetaṃ",
+     "gloss": "provided-with-foot-base",
+     "grounds": "feature included in the alternative arrangement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-the-outside",
+     "grounds": "external placement in the configuration",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "particle marking contrast within the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyantarājitam",
+     "gloss": "adorned-inside",
+     "grounds": "internal treatment in the configuration",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What alternative configuration is permitted for the exterior and interior arrangement?",
+   "premises": [
+    "An alternative arrangement is introduced.",
+    "The structure may be provided with a foot base on the outside.",
+    "The interior may be adorned in contrast to the exterior."
+   ],
+   "inference": "Therefore an alternative is to have a foot base outside while the inside is adorned.",
+   "uncertainties": [
+    "The exact object described by the neuter adjectives is implied by context."
+   ],
+   "plain_english": "Or else it may have a foot base on the outside, but be adorned on the inside."
+  },
+  {
+   "verse": 1546,
+   "rows": [
+    {
+     "surface": "mūlād",
+     "gloss": "from-the-base",
+     "grounds": "starting point of the tapering",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "agraṃ",
+     "gloss": "to-the-top",
+     "grounds": "endpoint of the tapering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "manner of diminution",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kṣīṇaṃ",
+     "gloss": "diminished",
+     "grounds": "resulting tapered form",
+     "morph": "n.acc.sg.ppp √kṣi"
+    },
+    {
+     "surface": "vasvaṃśeṃśaṃ",
+     "gloss": "by-an-eighth-part",
+     "grounds": "proportion of reduction indicated by vasu as eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative address to the recipient",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How should the structure taper from base to top according to this instruction?",
+   "premises": [
+    "The tapering runs from the base to the top.",
+    "The diminution proceeds gradually.",
+    "The reduction is specified as an eighth part."
+   ],
+   "inference": "Therefore the structure should gradually diminish from base to top by an eighth part.",
+   "uncertainties": [
+    "The exact parsing and application of vasvaṃśeṃśaṃ as a fractional reduction is somewhat unclear."
+   ],
+   "plain_english": "O best of the twice-born, it should gradually diminish from the base to the top by an eighth part."
+  },
+  {
+   "verse": 1547,
+   "rows": [
+    {
+     "surface": "tripaṃca",
+     "gloss": "three-five",
+     "grounds": "first numerical sequence of cubit measures",
+     "morph": "compound"
+    },
+    {
+     "surface": "saptahastādi",
+     "gloss": "beginning-with-seven-cubits",
+     "grounds": "extension of the first sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "nandarudrakarādi",
+     "gloss": "beginning-with-nine-eleven-cubits",
+     "grounds": "alternative numerical sequence using symbolic numbers",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting the alternative sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative cubit sequences are permitted for the prescribed measurements?",
+   "premises": [
+    "One permitted sequence begins with three, five, and seven cubits.",
+    "Another permitted sequence begins with nine and eleven cubits.",
+    "These sequences are presented as alternatives."
+   ],
+   "inference": "Therefore the measurements may follow either the three-five-seven sequence or the nine-eleven sequence.",
+   "uncertainties": [
+    "The symbolic values nanda and rudra are interpreted as nine and eleven but depend on convention."
+   ],
+   "plain_english": "The measures may begin with three, five, and seven cubits, or with nine and eleven cubits."
+  },
+  {
+   "verse": 1548,
+   "rows": [
+    {
+     "surface": "prathamādi",
+     "gloss": "beginning-with-the-first",
+     "grounds": "starting point of the series of halls",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃcaśālānāṃ",
+     "gloss": "of-the-five-halls",
+     "grounds": "set of structures whose height is specified",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "uccaṃ",
+     "gloss": "height",
+     "grounds": "dimension being prescribed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekona",
+     "gloss": "less-by-one",
+     "grounds": "modifier indicating reduction in the division scheme",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedakam",
+     "gloss": "differentiation",
+     "grounds": "mode of distinguishing the heights",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the height differentiation determined for the series of five halls?",
+   "premises": [
+    "The prescription concerns the five halls beginning with the first.",
+    "Their height is the dimension under discussion.",
+    "The differentiation is characterized as less by one."
+   ],
+   "inference": "Therefore the heights of the five halls, from the first onward, are differentiated by a scheme less by one.",
+   "uncertainties": [
+    "The exact technical meaning of ekona bhedakam in this measurement context is unclear."
+   ],
+   "plain_english": "Indeed, the height of the five halls, beginning with the first, is differentiated by a one-less scheme."
+  },
+  {
+   "verse": 1549,
+   "rows": [
+    {
+     "surface": "dvidvihasta",
+     "gloss": "by-two-cubits",
+     "grounds": "increment applied in the progression",
+     "morph": "compound"
+    },
+    {
+     "surface": "vivṛddhyā",
+     "gloss": "by-increase",
+     "grounds": "manner of growth in the series",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "distribution of the increase to every member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle reinforcing the specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhedakam",
+     "gloss": "threefold-differentiation",
+     "grounds": "resulting classification into three varieties",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What pattern of increase and differentiation applies to each member in this series?",
+   "premises": [
+    "The increase proceeds by two cubits.",
+    "This increase applies to each member individually.",
+    "The resulting differentiation is threefold."
+   ],
+   "inference": "Therefore each member increases by two cubits, yielding a threefold differentiation.",
+   "uncertainties": [],
+   "plain_english": "With an increase of two cubits for each, there is a threefold differentiation."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1726,
- "question": "What range of desired fruits does this form bestow?",
+ "question": "What proportional width and length define the prescribed pavilion measure?",
  "premises": [
-  "All desires are included as its scope",
-  "Fruits arise as results of those desires",
-  "This form acts as their giver"
+  "The width measures ten parts",
+  "The length exceeds width by two parts",
+  "Both dimensions use the same part unit"
  ],
- "inference": "It grants the fruits of all desires.",
- "uncertainties": [],
- "plain_english": "It grants the fruits of all desires."
+ "inference": "The pavilion is prescribed as ten parts wide and twelve parts long.",
+ "uncertainties": [
+  "The exact unit denoted by bhakti is not specified in this verse"
+ ],
+ "plain_english": "It should be ten parts wide, but two parts longer in length."
 }

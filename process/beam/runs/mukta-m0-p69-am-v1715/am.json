@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1715,
- "question": "What alternative line characteristics may identify this stone form?",
+ "question": "What width, length, and corner form define this pavilion configuration?",
  "premises": [
-  "A stone may be endowed with a long line",
-  "Alternatively a similar line may be present",
-  "These are acceptable identifying features"
+  "The width is six bays.",
+  "The length is eight bays.",
+  "The corners are fixed or regular."
  ],
- "inference": "The stone may be endowed with a long line, or such a line may be present.",
- "uncertainties": [],
- "plain_english": "It may be endowed with a long line, or there may be such a line."
+ "inference": "The pavilion should be six bays wide, eight bays long, and fixed-cornered.",
+ "uncertainties": [
+  "The exact sense of yatāśrakam is uncertain."
+ ],
+ "plain_english": "It should be six bays wide, eight bays long, and with fixed corners."
 }

@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1701,
+   "rows": [
+    {
+     "surface": "bhittistambhaṃ",
+     "gloss": "wall-pillar",
+     "grounds": "compound object denoting a wall-pillar",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb indicating surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karturicchāvaśāt",
+     "gloss": "by-maker's-wish",
+     "grounds": "compound expressing dependence on the maker's desire",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-place",
+     "grounds": "injunctive prescription for arrangement",
+     "morph": "3.sg.opt.act √nī"
+    }
+   ],
+   "question": "How should wall pillars be arranged around according to the maker's wish?",
+   "premises": [
+    "Wall pillars are the elements to be arranged.",
+    "Their placement is around the structure.",
+    "The arrangement follows the maker's wish."
+   ],
+   "inference": "The maker should place wall pillars around as desired.",
+   "uncertainties": [],
+   "plain_english": "One should place wall pillars around according to the maker's wish."
+  },
+  {
+   "verse": 1702,
+   "rows": [
+    {
+     "surface": "vistārabhittitulyaṃ",
+     "gloss": "equal-to-width-wall",
+     "grounds": "compound indicating equality with the width wall",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yātaṃ",
+     "gloss": "extended",
+     "grounds": "past participle indicating extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatabhitti",
+     "gloss": "fixed-wall",
+     "grounds": "compound describing a restrained or fixed wall",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the arrangement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative extents are permitted for the wall arrangement?",
+   "premises": [
+    "One option is equality with the width wall.",
+    "Another option is an extended measure.",
+    "Another option is a fixed wall."
+   ],
+   "inference": "The arrangement may be equal to the width wall, extended, or fixed to the wall.",
+   "uncertainties": [
+    "The exact syntactic role of yaḥ in this fragment is unclear."
+   ],
+   "plain_english": "It may be equal to the width wall, or extended, or fixed to the wall."
+  },
+  {
+   "verse": 1703,
+   "rows": [
+    {
+     "surface": "saptaviṃśāṃgulaṃ",
+     "gloss": "twenty-seven-fingers",
+     "grounds": "compound specifying a measure of twenty-seven finger-breadths",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "relative adverb indicating limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvatpādena",
+     "gloss": "by-that-much-foot",
+     "grounds": "compound indicating a corresponding foot measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "voditam",
+     "gloss": "is-stated",
+     "grounds": "past participle reporting prescribed measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional foot measure is prescribed up to twenty-seven finger-breadths?",
+   "premises": [
+    "A limit of twenty-seven finger-breadths is specified.",
+    "A corresponding foot measure is indicated.",
+    "This measure is stated as prescribed."
+   ],
+   "inference": "Up to twenty-seven finger-breadths, the measure is stated by a corresponding foot.",
+   "uncertainties": [
+    "The precise technical equivalence between aṅgula and pāda here is not explicit."
+   ],
+   "plain_english": "Up to twenty-seven finger-breadths, it is stated to be measured by that much of a foot."
+  },
+  {
+   "verse": 1704,
+   "rows": [
+    {
+     "surface": "nāśraye",
+     "gloss": "not-rely-on",
+     "grounds": "negative prescription regarding reliance",
+     "morph": "1.sg.opt.mid √śri"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "hand-measure",
+     "grounds": "object denoting a hand or cubit measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrya",
+     "gloss": "having-filled",
+     "grounds": "absolutive indicating completion",
+     "morph": "(gerund) √pṛ"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object denoting the pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic or contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-construct",
+     "grounds": "injunctive prescription for execution",
+     "morph": "3.sg.opt.act sam-ā-√car"
+    }
+   ],
+   "question": "What construction method should be followed instead of relying on the hand measure?",
+   "premises": [
+    "Reliance on the hand measure is rejected.",
+    "The pavilion is to be completed or filled out.",
+    "The construction should be properly carried out."
+   ],
+   "inference": "One should not rely on the hand measure but should complete and construct the pavilion accordingly.",
+   "uncertainties": [
+    "The exact technical sense of pūrya in this construction context is uncertain."
+   ],
+   "plain_english": "One should not rely on the hand measure, but should complete and construct the pavilion properly."
+  },
+  {
+   "verse": 1705,
+   "rows": [
+    {
+     "surface": "āyādīṣṭa",
+     "gloss": "desired-length",
+     "grounds": "compound indicating the desired or prescribed length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubhaupetaṃ",
+     "gloss": "endowed-with-auspiciousness",
+     "grounds": "compound indicating auspicious qualities",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapasya",
+     "gloss": "of-pavilion",
+     "grounds": "possessive relation to the pavilion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tadāyatam",
+     "gloss": "its-length",
+     "grounds": "compound referring to that length of the pavilion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What qualities must the length of the pavilion possess?",
+   "premises": [
+    "The length belongs to the pavilion.",
+    "The length is desired or prescribed.",
+    "The length is endowed with auspiciousness."
+   ],
+   "inference": "The pavilion's length should be the desired length and endowed with auspiciousness.",
+   "uncertainties": [
+    "āyādīṣṭa may refer to āyādi calculations rather than simply desired length."
+   ],
+   "plain_english": "The length of the pavilion should be as desired and endowed with auspiciousness."
+  },
+  {
+   "verse": 1706,
+   "rows": [
+    {
+     "surface": "bhaktitrayaviśālaṃ",
+     "gloss": "three-bays-wide",
+     "grounds": "compound specifying width of three bays",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcabhaktyāyatānvitam",
+     "gloss": "endowed-with-five-bays-length",
+     "grounds": "compound specifying length of five bays",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width and length proportions define this pavilion type?",
+   "premises": [
+    "The width is three bays.",
+    "The length is five bays.",
+    "Both dimensions characterize the pavilion."
+   ],
+   "inference": "The pavilion should be three bays wide and five bays long.",
+   "uncertainties": [],
+   "plain_english": "It should be three bays wide and endowed with a length of five bays."
+  },
+  {
+   "verse": 1707,
+   "rows": [
+    {
+     "surface": "pārśve",
+     "gloss": "on-side",
+     "grounds": "locative indicating lateral position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vārayutaṃ",
+     "gloss": "endowed-with-gate",
+     "grounds": "compound indicating presence of a gate",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṃśadaṃghri",
+     "gloss": "thirty-pillars",
+     "grounds": "compound specifying thirty pillars or feet",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied-by",
+     "grounds": "adjective indicating inclusion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many pillars are required when the pavilion has a gate on the side?",
+   "premises": [
+    "The condition is having a gate on the side.",
+    "The pavilion is accompanied by pillars.",
+    "The number specified is thirty."
+   ],
+   "inference": "If it has a gate on the side, it should be accompanied by thirty pillars.",
+   "uncertainties": [],
+   "plain_english": "If it has a gate on the side, it should be provided with thirty pillars."
+  },
+  {
+   "verse": 1708,
+   "rows": [
+    {
+     "surface": "lūpārohaṇakaṃ",
+     "gloss": "ladder-ascent",
+     "grounds": "compound denoting a means of ascent or ladder",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "injunctive prescription for construction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "aṣṭaviṃśāṃghrisaṃyutam",
+     "gloss": "joined-with-twenty-eight-pillars",
+     "grounds": "compound specifying twenty-eight pillars",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What pillar count accompanies the construction of a ladder ascent?",
+   "premises": [
+    "A ladder ascent is to be made.",
+    "The structure is joined with pillars.",
+    "The number specified is twenty-eight."
+   ],
+   "inference": "One should make a ladder ascent joined with twenty-eight pillars.",
+   "uncertainties": [
+    "The exact architectural form of lūpārohaṇakaṃ is uncertain."
+   ],
+   "plain_english": "One should make a ladder ascent accompanied by twenty-eight pillars."
+  },
+  {
+   "verse": 1709,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārahīnaṃ",
+     "gloss": "without-gate",
+     "grounds": "compound indicating absence of a gate",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triraṣṭacaraṇānvitam",
+     "gloss": "endowed-with-three-times-eight-pillars",
+     "grounds": "compound specifying twenty-four pillars",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What pillar count is prescribed for a pavilion without a gate?",
+   "premises": [
+    "An alternative is a structure without a gate.",
+    "The structure is endowed with pillars.",
+    "The number specified is three times eight."
+   ],
+   "inference": "Alternatively, if without a gate, it should be endowed with twenty-four pillars.",
+   "uncertainties": [],
+   "plain_english": "Or else, if without a gate, it should be endowed with twenty-four pillars."
+  },
+  {
+   "verse": 1710,
+   "rows": [
+    {
+     "surface": "nānākuṃbhalatādyaistu",
+     "gloss": "with-various-pot-creeper-etc",
+     "grounds": "compound listing decorative elements",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kalpitaṃ",
+     "gloss": "fashioned",
+     "grounds": "past participle indicating construction or decoration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "ordinal indicating sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "How should the first pavilion be fashioned in terms of ornamentation?",
+   "premises": [
+    "The pavilion is the first in sequence.",
+    "It is fashioned with various decorative elements.",
+    "Pot and creeper motifs are included among them."
+   ],
+   "inference": "The first pavilion should be fashioned with various pot, creeper, and other ornaments.",
+   "uncertainties": [],
+   "plain_english": "The first pavilion should be fashioned with various pot, creeper, and other decorations."
+  },
+  {
+   "verse": 1711,
+   "rows": [
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "subject or object denoting the pavilion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paritoṃśena",
+     "gloss": "by-surrounding-part",
+     "grounds": "compound indicating a surrounding portion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kūṭam",
+     "gloss": "peak",
+     "grounds": "noun denoting a peak or turret",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhyantaretaram",
+     "gloss": "inner-and-other",
+     "grounds": "compound indicating inner and outer parts",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What structural parts characterize the pavilion in its surrounding arrangement?",
+   "premises": [
+    "The pavilion has a surrounding part.",
+    "A peak is included.",
+    "Inner and other parts are distinguished."
+   ],
+   "inference": "The pavilion has a surrounding part, a peak, and inner and other sections.",
+   "uncertainties": [
+    "The precise architectural meaning of abhyantaretaram is uncertain."
+   ],
+   "plain_english": "The pavilion has a surrounding part, a peak, and inner and other sections."
+  },
+  {
+   "verse": 1712,
+   "rows": [
+    {
+     "surface": "dvātriṃśaccaraṇopetaṃ",
+     "gloss": "endowed-with-thirty-two-pillars",
+     "grounds": "compound specifying thirty-two pillars",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapasya",
+     "gloss": "of-pavilion",
+     "grounds": "possessive relation to the pavilion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal indicating the second type",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What pillar count defines the second type of pavilion?",
+   "premises": [
+    "This is the second pavilion type.",
+    "It belongs to the pavilion classification.",
+    "It is endowed with thirty-two pillars."
+   ],
+   "inference": "The second pavilion type is endowed with thirty-two pillars.",
+   "uncertainties": [],
+   "plain_english": "The second type of pavilion is endowed with thirty-two pillars."
+  },
+  {
+   "verse": 1713,
+   "rows": [
+    {
+     "surface": "tripaṃcabhakti",
+     "gloss": "three-five-bays",
+     "grounds": "compound indicating three and five bay divisions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "noun denoting breadth",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīrghamadhye",
+     "gloss": "in-long-middle",
+     "grounds": "compound locative indicating the middle of the length",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sabhā",
+     "gloss": "hall",
+     "grounds": "noun denoting the hall",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What bay proportions and central feature define this hall layout?",
+   "premises": [
+    "The width involves three and five bay divisions.",
+    "The middle of the length is specified.",
+    "A hall should be present there."
+   ],
+   "inference": "With three and five bay proportions, there should be a hall in the middle of the length.",
+   "uncertainties": [
+    "The exact parsing of tripaṃcabhakti as width or combined dimensions is uncertain."
+   ],
+   "plain_english": "With three and five bay proportions, there should be a hall in the middle of the length."
+  },
+  {
+   "verse": 1714,
+   "rows": [
+    {
+     "surface": "catvāriṃśati",
+     "gloss": "forty",
+     "grounds": "numeral indicating quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāḍyaṃ",
+     "gloss": "pillared",
+     "grounds": "adjective or noun related to pillars or feet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvālaṃkārasaṃyutam",
+     "gloss": "joined-with-all-ornaments",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative pillar count and ornamentation are prescribed for this pavilion?",
+   "premises": [
+    "An alternative count of forty is given.",
+    "The structure is described as pillared.",
+    "It is joined with all ornaments."
+   ],
+   "inference": "Alternatively, it may have forty pillars and be joined with all ornaments.",
+   "uncertainties": [
+    "The form pāḍyaṃ is unusual and its exact meaning is uncertain."
+   ],
+   "plain_english": "Or it may have forty pillars and be furnished with all ornaments."
+  },
+  {
+   "verse": 1715,
+   "rows": [
+    {
+     "surface": "rasabhaktiviśālaṃ",
+     "gloss": "six-bays-wide",
+     "grounds": "compound specifying width of six bays",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasubhaktyā",
+     "gloss": "by-eight-bays",
+     "grounds": "instrumental compound indicating length of eight bays",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yatāśrakam",
+     "gloss": "fixed-cornered",
+     "grounds": "compound indicating fixed or regular corners",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width, length, and corner form define this pavilion configuration?",
+   "premises": [
+    "The width is six bays.",
+    "The length is eight bays.",
+    "The corners are fixed or regular."
+   ],
+   "inference": "The pavilion should be six bays wide, eight bays long, and fixed-cornered.",
+   "uncertainties": [
+    "The exact sense of yatāśrakam is uncertain."
+   ],
+   "plain_english": "It should be six bays wide, eight bays long, and with fixed corners."
+  },
+  {
+   "verse": 1716,
+   "rows": [
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object denoting the pavilion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parito'kṣāṃśaṃ",
+     "gloss": "with-surrounding-axle-part",
+     "grounds": "compound indicating a surrounding axial or central part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iṣṭadiṅmukhabhadrakam",
+     "gloss": "with-desired-direction-front-projection",
+     "grounds": "compound indicating a projection facing the desired direction",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What surrounding and directional features should this pavilion include?",
+   "premises": [
+    "The pavilion is the object described.",
+    "It has a surrounding axial part.",
+    "It has a front projection facing the desired direction."
+   ],
+   "inference": "The pavilion should have a surrounding axial part and a projection facing the desired direction.",
+   "uncertainties": [
+    "The technical meaning of akṣāṃśa in this context is uncertain."
+   ],
+   "plain_english": "The pavilion should have a surrounding axial part and a projection facing the desired direction."
+  },
+  {
+   "verse": 1717,
+   "rows": [
+    {
+     "surface": "nānālaṃkārasaṃyuktaṃ",
+     "gloss": "joined-with-various-ornaments",
+     "grounds": "compound indicating diverse ornamentation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal indicating sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "noun denoting the pavilion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What ornamentation characterizes the fourth pavilion type?",
+   "premises": [
+    "This is the fourth pavilion.",
+    "It is joined with ornaments.",
+    "The ornaments are various."
+   ],
+   "inference": "The fourth pavilion should be joined with various ornaments.",
+   "uncertainties": [],
+   "plain_english": "The fourth pavilion should be furnished with various ornaments."
+  },
+  {
+   "verse": 1718,
+   "rows": [
+    {
+     "surface": "tribhaktivistṛtaṃ",
+     "gloss": "three-bays-wide",
+     "grounds": "compound specifying width of three bays",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṃca",
+     "gloss": "five",
+     "grounds": "numeral indicating quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyāyāmaṃ",
+     "gloss": "bays-length",
+     "grounds": "compound indicating length in bays",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sabhāṃkaṇam",
+     "gloss": "hall-corner",
+     "grounds": "compound denoting a hall corner or hall section",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width and length define the hall corner section?",
+   "premises": [
+    "The width is three bays.",
+    "The length is five bays.",
+    "The section described is a hall corner."
+   ],
+   "inference": "The hall corner should be three bays wide and five bays long.",
+   "uncertainties": [
+    "The exact architectural meaning of sabhāṃkaṇam is uncertain."
+   ],
+   "plain_english": "The hall corner should be three bays wide and five bays long."
+  },
+  {
+   "verse": 1719,
+   "rows": [
+    {
+     "surface": "tribhaktivistṛtaṃ",
+     "gloss": "three-bays-wide",
+     "grounds": "compound specifying width of three bays",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caika",
+     "gloss": "and-one",
+     "grounds": "conjunction joined with numeral one",
+     "morph": "(indecl.+num)"
+    },
+    {
+     "surface": "bhaktyāyāmamukhabhadrakam",
+     "gloss": "one-bay-length-front-projection",
+     "grounds": "compound indicating a front projection one bay long",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What dimensions define the front projection attached to this section?",
+   "premises": [
+    "The section is three bays wide.",
+    "A front projection is included.",
+    "The projection has a length of one bay."
+   ],
+   "inference": "It should be three bays wide with a front projection one bay long.",
+   "uncertainties": [],
+   "plain_english": "It should be three bays wide and have a front projection one bay long."
+  },
+  {
+   "verse": 1720,
+   "rows": [
+    {
+     "surface": "sarvālaṃkāra",
+     "gloss": "all-ornament",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "adjective indicating accompaniment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal indicating sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "noun denoting the pavilion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What ornamentation characterizes the fifth pavilion type?",
+   "premises": [
+    "This is the fifth pavilion.",
+    "It is joined with ornaments.",
+    "The ornamentation is complete."
+   ],
+   "inference": "The fifth pavilion should be joined with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The fifth pavilion should be furnished with all ornaments."
+  },
+  {
+   "verse": 1721,
+   "rows": [
+    {
+     "surface": "dvicaturbhāgavistāraṃ",
+     "gloss": "two-four-parts-width",
+     "grounds": "compound specifying width in parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīrghamadhye",
+     "gloss": "in-long-middle",
+     "grounds": "compound locative indicating the middle of the length",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sabhodayam",
+     "gloss": "hall-rise",
+     "grounds": "compound denoting a raised hall or hall elevation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width and central elevation define this hall configuration?",
+   "premises": [
+    "The width is two and four parts.",
+    "The middle of the length is specified.",
+    "A hall rise is present there."
+   ],
+   "inference": "With a width of two and four parts, there should be a hall rise in the middle of the length.",
+   "uncertainties": [
+    "The exact interpretation of dvicaturbhāga and sabhodayam is uncertain."
+   ],
+   "plain_english": "With a width of two and four parts, there should be a raised hall in the middle of the length."
+  },
+  {
+   "verse": 1722,
+   "rows": [
+    {
+     "surface": "iṣṭadiṅmukhabhadrāṃśaṃ",
+     "gloss": "desired-direction-front-projection-part",
+     "grounds": "compound indicating a projection part facing the desired direction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturdvyaṃśe",
+     "gloss": "in-four-two-parts",
+     "grounds": "compound locative indicating division into parts",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suvrata",
+     "gloss": "o-good-vowed-one",
+     "grounds": "vocative address to the recipient",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How is the front projection oriented and divided in this pavilion design?",
+   "premises": [
+    "A front projection faces the desired direction.",
+    "The division is into four and two parts.",
+    "The instruction is addressed to the recipient."
+   ],
+   "inference": "O good-vowed one, the front projection facing the desired direction is set in four and two parts.",
+   "uncertainties": [
+    "The exact technical meaning of caturdvyaṃśe is uncertain."
+   ],
+   "plain_english": "O good-vowed one, it should have a front projection facing the desired direction in four and two parts."
+  },
+  {
+   "verse": 1723,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhamaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal indicating sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "noun denoting the pavilion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "emphatic particle combination indicating conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-declared",
+     "grounds": "passive verb indicating scriptural statement",
+     "morph": "3.sg.pres.pass pra-√vac"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivārhakam",
+     "gloss": "worthy-for-shiva",
+     "grounds": "compound indicating suitability for Śiva",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual status is declared for the sixth pavilion type?",
+   "premises": [
+    "This is the sixth pavilion.",
+    "It is thus declared in the text.",
+    "It is worthy for Śiva."
+   ],
+   "inference": "The sixth pavilion is thus declared to be worthy for Śiva.",
+   "uncertainties": [],
+   "plain_english": "Thus the sixth pavilion is declared to be worthy for Śiva."
+  },
+  {
+   "verse": 1724,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "compound indicating a single part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhakti",
+     "gloss": "bay",
+     "grounds": "noun denoting a bay division",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "noun denoting breadth",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīrghamadhye",
+     "gloss": "in-long-middle",
+     "grounds": "compound locative indicating the middle of the length",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sabhā",
+     "gloss": "hall",
+     "grounds": "noun denoting the hall",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What minimal width and central placement define this hall layout?",
+   "premises": [
+    "The width is one part or one bay.",
+    "The middle of the length is specified.",
+    "A hall should be present there."
+   ],
+   "inference": "With a width of one part or bay, there should be a hall in the middle of the length.",
+   "uncertainties": [
+    "The relation between ekāṃśaṃ and bhakti is syntactically ambiguous."
+   ],
+   "plain_english": "With a width of one part or bay, there should be a hall in the middle of the length."
+  }
+ ]
+}

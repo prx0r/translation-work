@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p68",
  "verse": 1700,
- "question": "What color and navel attribute characterize Nārāyaṇa in this description?",
+ "question": "What count and terminal boundary are specified from this point onward?",
  "premises": [
-  "Nārāyaṇa is described as dark-colored.",
-  "A wheel is located in Nārāyaṇa's navel.",
-  "That navel wheel is described as raised."
+  "The enumeration proceeds upward from this point.",
+  "The specified count is thirty-four.",
+  "The sequence terminates at the boundary of ten."
  ],
- "inference": "Nārāyaṇa is identified by a dark complexion and a raised wheel in the navel.",
- "uncertainties": [],
- "plain_english": "Nārāyaṇa is dark-colored and has a raised wheel in his navel."
+ "inference": "From this point onward the enumeration reaches thirty-four and ends at the limit of ten.",
+ "uncertainties": [
+  "The exact referent of the count and the sense of the ten-limit boundary depend on the broader ritual context."
+ ],
+ "plain_english": "From here upward, there are thirty-four, ending at the limit of ten."
 }

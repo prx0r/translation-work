@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p62",
  "verse": 1536,
- "question": "Is the middle flower declared by force?",
+ "question": "Which enclosures should be retained and which should be excluded?",
  "premises": [
-  "force is the means",
-  "two tokens are illegible",
-  "middle flower is declared"
+  "Either the second or the third enclosure may be taken.",
+  "The remaining enclosures are treated separately.",
+  "The remaining ones are to be excluded."
  ],
- "inference": "The verse links force to the declared middle flower, with lacunae.",
- "uncertainties": [
-  "two tokens are illegible or omitted"
- ],
- "plain_english": "By force, [lacuna], the middle flower is declared."
+ "inference": "The second or third enclosure is to be taken while the rest are excluded.",
+ "uncertainties": [],
+ "plain_english": "Either the second or the third should be taken, but the remaining ones are excluded."
 }

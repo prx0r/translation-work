@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1739,
- "question": "What ritual action is prohibited at the conclusion of worship here?",
+ "question": "Which pavilion type arises from the specified enclosed-part portico arrangement?",
  "premises": [
-  "Worship reaches its end",
-  "Installation is a possible concluding act",
-  "That act should not be performed here"
+  "The arrangement is defined from its enclosed parts",
+  "A portico is included in that arrangement",
+  "This configuration yields a numbered type"
  ],
- "inference": "One should not perform installation at the end of worship in this case.",
- "uncertainties": [],
- "plain_english": "At the end of worship here, one should not perform installation."
+ "inference": "This enclosed-part arrangement with a portico should be the thirteenth pavilion.",
+ "uncertainties": [
+  "The precise technical sense of āvṛtāṃśataḥ is unclear"
+ ],
+ "plain_english": "From its enclosed parts with a portico, it should be the thirteenth pavilion."
 }

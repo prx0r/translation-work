@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1713,
- "question": "What line shape and position identify the Hayagriva stone form?",
+ "question": "What bay proportions and central feature define this hall layout?",
  "premises": [
-  "The Hayagriva form is being described",
-  "It has a goad-shaped line",
-  "The line is located near the disc"
+  "The width involves three and five bay divisions.",
+  "The middle of the length is specified.",
+  "A hall should be present there."
  ],
- "inference": "The Hayagriva stone is identified by a goad-shaped line near the disc.",
- "uncertainties": [],
- "plain_english": "The Hayagriva has a goad-shaped line situated near the disc."
+ "inference": "With three and five bay proportions, there should be a hall in the middle of the length.",
+ "uncertainties": [
+  "The exact parsing of tripaṃcabhakti as width or combined dimensions is uncertain."
+ ],
+ "plain_english": "With three and five bay proportions, there should be a hall in the middle of the length."
 }

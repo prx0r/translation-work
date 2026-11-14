@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1640,
- "question": "Where are the sixteen lords of two-pada divisions situated in this layout?",
+ "question": "What range of cubit measurements is permitted for the specified dimension?",
  "premises": [
-  "They are in the four directions",
-  "They are situated outside",
-  "They are sixteen two-pada lords"
+  "A sequence from one to five is given.",
+  "A sequence from six to eight cubits is given.",
+  "Alternatives are indicated."
  ],
- "inference": "Sixteen lords of two-pada divisions are situated outside in the four directions.",
- "uncertainties": [],
- "plain_english": "Outside, in the four directions, are situated sixteen lords of two-pada divisions."
+ "inference": "The dimension may be one to eight cubits.",
+ "uncertainties": [
+  "The specific architectural dimension measured is implied by context."
+ ],
+ "plain_english": "It may measure one, two, three, four, five, six, seven, or eight cubits."
 }

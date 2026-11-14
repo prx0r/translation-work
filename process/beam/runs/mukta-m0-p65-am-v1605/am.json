@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1605,
- "question": "Where should a little water from the conch be poured?",
+ "question": "Which groups are assigned residence in the southern quarter of the complex?",
  "premises": [
-  "Some water is in the conch",
-  "A small amount is taken",
-  "The pot-water is the destination"
+  "Astrologers, ambaṣṭhas, and physicians form one group.",
+  "Musicians form another group.",
+  "The southern quarter is designated for their residence."
  ],
- "inference": "A little water from that conch should be poured into the pot-water.",
- "uncertainties": [],
- "plain_english": "One should pour a little of the water situated in that conch into the water of the pot."
+ "inference": "Astrologers, ambaṣṭhas, physicians, and musicians are to reside in the south.",
+ "uncertainties": [
+  "ambaṣṭha may denote a specific mixed-caste group or medical practitioners depending on context"
+ ],
+ "plain_english": "Astrologers, ambaṣṭhas, physicians, and musicians are to be placed in the south."
 }

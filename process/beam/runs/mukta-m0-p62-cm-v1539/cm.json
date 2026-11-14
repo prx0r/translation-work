@@ -3,34 +3,39 @@
  "verse": 1539,
  "rows": [
   {
-   "lemma": "nirgandhaḥ",
-   "morph": "m.nom.sg nis+gandha",
-   "grounds": "inauspicious quality"
+   "lemma": "dviguṇaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "first multiplicative option"
   },
   {
-   "lemma": "pāṇḍaro",
-   "morph": "m.nom.sg",
-   "grounds": "inauspicious quality"
+   "lemma": "triguṇaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "second multiplicative option"
   },
   {
-   "lemma": "rūkṣaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "inauspicious quality"
-  },
-  {
-   "lemma": "kṛṣṇāṅgāranibhaḥ",
-   "morph": "m.nom.sg kṛṣṇa+aṅgāra+nibha",
-   "grounds": "inauspicious appearance"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "vātha",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "disjunctive particle introducing alternatives"
   },
   {
-   "lemma": "yaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "introduces the described item"
+   "lemma": "catuḥ",
+   "morph": "(indecl.)",
+   "grounds": "third multiplicative option"
+  },
+  {
+   "lemma": "paṃca+guṇaṃ",
+   "morph": "compound",
+   "grounds": "fourth multiplicative option"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "particle marking emphasis or contrast"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle completing the set of alternatives"
   }
  ]
 }

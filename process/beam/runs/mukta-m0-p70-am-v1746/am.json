@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1746,
- "question": "Where is the cow-footprint mark located on this form?",
+ "question": "What alternative rod measurements may define the breadth of this structure?",
  "premises": [
-  "An inner location is indicated",
-  "A lower location is indicated",
-  "A cow-footprint mark is present"
+  "The breadth is measured in rods",
+  "Several numerical options are given",
+  "The options are alternatives"
  ],
- "inference": "A cow-footprint mark is present inside and below.",
- "uncertainties": [],
- "plain_english": "Indeed, there is a cow-footprint mark inside and below."
+ "inference": "The breadth may be five, six, seven, nine, or eight rods.",
+ "uncertainties": [
+  "The sequence paṃcaṣaṭsaptanandāṣṭa is unusual and may reflect a textual issue"
+ ],
+ "plain_english": "Its breadth may be five, six, seven, nine, or eight rods."
 }

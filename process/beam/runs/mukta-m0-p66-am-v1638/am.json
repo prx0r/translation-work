@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1638,
- "question": "What designation and ritual suitability characterize this pada layout?",
+ "question": "What range of placement is permitted for constructing the hall in this context?",
  "premises": [
-  "The pada is named Sthaṇḍila",
-  "It is identified as this layout",
-  "It is worshipped for houses and gardens"
+  "A starting point from the inner enclosure circuit is given.",
+  "An ending point at the inner circuit is given.",
+  "An imperative instructs construction."
  ],
- "inference": "This layout is the Sthaṇḍila-named pada, worshipped for houses, gardens, and similar uses.",
- "uncertainties": [],
- "plain_english": "This is the pada called Sthaṇḍila, worshipped for houses, gardens, and the like."
+ "inference": "One should construct it from the inner enclosure circuit up to the inner circuit.",
+ "uncertainties": [
+  "Exact architectural referents of hāra terms are context-dependent."
+ ],
+ "plain_english": "Make it from the inner enclosure circuit up to the inner circuit."
 }

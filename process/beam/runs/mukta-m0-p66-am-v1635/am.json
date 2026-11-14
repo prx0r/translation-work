@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1635,
- "question": "Which deities are named in this segment of the directional enumeration?",
+ "question": "What alternative locations are permitted for placing the structure?",
  "premises": [
-  "Vitatha and Gṛhakṣata are named",
-  "Yama is named",
-  "Gandharva is included"
+  "A garden is mentioned as a location.",
+  "A river bank is mentioned as a location.",
+  "Another alternative location is indicated."
  ],
- "inference": "Vitatha, Gṛhakṣata, Yama, and Gandharva are named in this segment.",
- "uncertainties": [],
- "plain_english": "Vitatha, Gṛhakṣata, Yama, and Gandharva are listed."
+ "inference": "The structure may be placed in a garden, on a river bank, or in another such location.",
+ "uncertainties": [
+  "The form and meaning of taṭākartāra are unclear in this context."
+ ],
+ "plain_english": "It may be placed in a garden, or on a river bank, or indeed in another such place."
 }

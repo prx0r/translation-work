@@ -3,29 +3,39 @@
  "verse": 1750,
  "rows": [
   {
-   "lemma": "pūjanataḥ",
+   "lemma": "tena",
+   "morph": "pron.ins.sg.n",
+   "grounds": "instrumental demonstrative referring to the previously specified measure"
+  },
+  {
+   "lemma": "dviguṇa",
+   "morph": "adj.nom.sg.n",
+   "grounds": "qualifies the measure or projection as double"
+  },
+  {
+   "lemma": "nīvraṃ",
+   "morph": "n.nom.sg.n",
+   "grounds": "architectural projection or cornice element"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "ablative sense expressing cause or means; derived from pūjana with -tas suffix"
+   "grounds": "particle marking specification or contrast"
   },
   {
-   "lemma": "devī",
-   "morph": "f.nom.sg",
-   "grounds": "epithet of the deity"
-  },
-  {
-   "lemma": "bhavānī",
-   "morph": "f.nom.sg",
-   "grounds": "proper name of the goddess"
-  },
-  {
-   "lemma": "su",
+   "lemma": "adhastāt",
    "morph": "(indecl.)",
-   "grounds": "intensifying particle modifying the following verb"
+   "grounds": "indicates the lower position relative to the preceding element"
   },
   {
-   "lemma": "prasīdati",
-   "morph": "3.sg.pres.act pra-√sad",
-   "grounds": "predicate expressing the goddess's gracious response"
+   "lemma": "maṇṭapaṃ",
+   "morph": "n.nom.sg.n",
+   "grounds": "architectural structure prescribed in that position"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.optative-act + bhū",
+   "grounds": "prescriptive optative expressing the required construction"
   }
  ]
 }

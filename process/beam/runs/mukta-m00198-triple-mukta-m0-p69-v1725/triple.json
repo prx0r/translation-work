@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "tricaturbhāgavistāraṃ",
+     "gloss": "three-four-part-width",
+     "grounds": "bahuvrīhi compound describing extent; width of three or four parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīrghaṃ",
+     "gloss": "long",
+     "grounds": "qualifies the front pavilion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt-act √as"
+    },
+    {
+     "surface": "mukhamaṇṭapam",
+     "gloss": "front-pavilion",
+     "grounds": "subject of the prescribed dimensions",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width and length are prescribed for the front pavilion?",
+   "premises": [
+    "The front pavilion is the subject of the prescription.",
+    "Its width is specified as three or four parts.",
+    "Its length is specified as long."
+   ],
+   "inference": "The front pavilion should measure three or four parts in width and be long.",
+   "uncertainties": [
+    "The absolute measure of 'long' is not explicitly quantified in this verse."
+   ],
+   "plain_english": "The front pavilion should be three or four parts wide and long."
+  }
+ ]
+}

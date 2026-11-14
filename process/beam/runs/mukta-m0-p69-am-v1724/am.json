@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1724,
- "question": "What enjoyment-granting quality belongs to this moderately mouthed stone?",
+ "question": "What minimal width and central placement define this hall layout?",
  "premises": [
-  "The stone does not have a very long mouth",
-  "It has a hanging line in the middle",
-  "It bestows enjoyment"
+  "The width is one part or one bay.",
+  "The middle of the length is specified.",
+  "A hall should be present there."
  ],
- "inference": "That stone, not very long-mouthed and with a hanging line in the middle, bestows enjoyment.",
- "uncertainties": [],
- "plain_english": "That one, with a mouth not very long and a hanging line in the middle, bestows enjoyment."
+ "inference": "With a width of one part or bay, there should be a hall in the middle of the length.",
+ "uncertainties": [
+  "The relation between ekāṃśaṃ and bhakti is syntactically ambiguous."
+ ],
+ "plain_english": "With a width of one part or bay, there should be a hall in the middle of the length."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1642,
- "question": "How should experts construct the Maṇḍūka-pada layout with diagonal lines?",
+ "question": "What numerical options are allowed for the inner intermediate space by preference?",
  "premises": [
-  "Two diagonal lines are required",
-  "The layout must be conceived accordingly",
-  "Experts are the agents"
+  "Options from one to five are given.",
+  "Choice is made by preference.",
+  "The inner intermediate space is specified."
  ],
- "inference": "Experts should conceive this layout as equipped with two diagonal lines.",
- "uncertainties": [],
- "plain_english": "Experts should conceive it as equipped with two diagonal lines."
+ "inference": "The inner intermediate space may be chosen in one to five measures according to preference.",
+ "uncertainties": [
+  "The unit of measure is implied from context."
+ ],
+ "plain_english": "The inner intermediate space may be one, two, three, four, or five, according to preference."
 }

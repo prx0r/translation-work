@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p62",
  "verse": 1547,
- "question": "What size and shape should the tip of the implement have?",
+ "question": "What alternative cubit sequences are permitted for the prescribed measurements?",
  "premises": [
-  "The tip should measure two fingers.",
-  "The tip should resemble an elephant’s lip.",
-  "These are prescribed characteristics."
+  "One permitted sequence begins with three, five, and seven cubits.",
+  "Another permitted sequence begins with nine and eleven cubits.",
+  "These sequences are presented as alternatives."
  ],
- "inference": "The tip should be two fingers in measure and shaped like an elephant’s lip.",
- "uncertainties": [],
- "plain_english": "It should measure two fingers at the tip and resemble an elephant’s lip."
+ "inference": "Therefore the measurements may follow either the three-five-seven sequence or the nine-eleven sequence.",
+ "uncertainties": [
+  "The symbolic values nanda and rudra are interpreted as nine and eleven but depend on convention."
+ ],
+ "plain_english": "The measures may begin with three, five, and seven cubits, or with nine and eleven cubits."
 }

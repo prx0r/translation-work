@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1647,
- "question": "Which deities are assigned to the western side in the Maṇḍūka layout?",
+ "question": "What starting point and increment rule govern the measurement progression?",
  "premises": [
-  "Varuṇa and Asura are named",
-  "Śeṣa and Roga are named",
-  "They are located in the west"
+  "The starting measure is three cubits.",
+  "The progression begins from that measure.",
+  "The increase is by two cubits at each step."
  ],
- "inference": "Varuṇa, Asura, Śeṣa, and Roga are assigned to the western side.",
- "uncertainties": [],
- "plain_english": "Varuṇa, Asura, Śeṣa, and Roga are in the west."
+ "inference": "The measurement begins at three cubits and increases by two cubits at each step.",
+ "uncertainties": [
+  "The object being measured is implied from surrounding verses."
+ ],
+ "plain_english": "Beginning from three cubits, it should increase by two cubits at each step."
 }

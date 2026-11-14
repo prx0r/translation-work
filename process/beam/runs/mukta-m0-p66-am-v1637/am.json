@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p66",
  "verse": 1637,
- "question": "Which deities are included in this concluding segment of the list?",
+ "question": "What purposes are assigned to the third and fourth halls?",
  "premises": [
-  "Mukhya, Bhallāṭaka, and Soma are named",
-  "Ṛbhu and Aditi are named",
-  "They conclude the enumeration"
+  "A third hall is mentioned for bathing.",
+  "A fourth hall is mentioned in relation to dancing.",
+  "The purposes distinguish different halls."
  ],
- "inference": "Mukhya, Bhallāṭaka, Soma, Ṛbhu, and Aditi are included in this segment.",
- "uncertainties": [],
- "plain_english": "Mukhya, Bhallāṭaka, Soma, Ṛbhu, and Aditi are listed."
+ "inference": "The third hall is for bathing and the fourth is for dancing.",
+ "uncertainties": [
+  "The form nartanāntu is ambiguous; taken as related to dancing purpose."
+ ],
+ "plain_english": "The third hall is for bathing, and the fourth is for dancing."
 }

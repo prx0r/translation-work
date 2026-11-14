@@ -3,24 +3,39 @@
  "verse": 1648,
  "rows": [
   {
-   "lemma": "gajaścāpyaditiścaiva",
-   "morph": "compound nom.sg.m",
-   "grounds": "compound with sandhi joining gaja, ca, api, aditi, ca and eva"
+   "lemma": "ābhāsa",
+   "morph": "m.nom.sg (compound member)",
+   "grounds": "first member in compound context"
   },
   {
-   "lemma": "ditiścaiva",
-   "morph": "nom.sg.f",
-   "grounds": "deity name joined with ca and eva by sandhi"
+   "lemma": "sadanānāṃ",
+   "morph": "n.gen.pl",
+   "grounds": "possessive relation"
   },
   {
-   "lemma": "tathā",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle indicating continuation"
+   "grounds": "particle"
   },
   {
-   "lemma": "uttare",
-   "morph": "loc.sg.nt",
-   "grounds": "locative indicating the northern direction"
+   "lemma": "ābhāsaṃ",
+   "morph": "m.nom.sg",
+   "grounds": "predicate/object in apposition"
+  },
+  {
+   "lemma": "maṇṭapastvime",
+   "morph": "m.nom.sg",
+   "grounds": "subject; sandhi maṇṭapaḥ+tu+ime"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "particle"
+  },
+  {
+   "lemma": "ime",
+   "morph": "m.nom.pl",
+   "grounds": "demonstrative pronoun"
   }
  ]
 }

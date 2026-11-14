@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "ita ūrdhvaṃ",
+     "gloss": "from-here-upward",
+     "grounds": "directional phrase: itaḥ (from here) + ūrdhvam (upward)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catustriṃśat",
+     "gloss": "thirty-four",
+     "grounds": "cardinal numeral",
+     "morph": "num.nom.sg.f"
+    },
+    {
+     "surface": "daśasīmāvasānakam",
+     "gloss": "ending-at-ten-limit",
+     "grounds": "compound: daśa-sīmā-avasāna+kam (having an end at the boundary of ten)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What count and terminal boundary are specified from this point onward?",
+   "premises": [
+    "The enumeration proceeds upward from this point.",
+    "The specified count is thirty-four.",
+    "The sequence terminates at the boundary of ten."
+   ],
+   "inference": "From this point onward the enumeration reaches thirty-four and ends at the limit of ten.",
+   "uncertainties": [
+    "The exact referent of the count and the sense of the ten-limit boundary depend on the broader ritual context."
+   ],
+   "plain_english": "From here upward, there are thirty-four, ending at the limit of ten."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p62",
  "verse": 1537,
- "question": "Should the goddess hear the flower order in the Kashmir-named sequence?",
+ "question": "What two-halled structure is proclaimed as suitably joined to that configuration?",
  "premises": [
-  "Kashmir-named order is the setting",
-  "goddess is addressed",
-  "flower order is to be heard"
+  "A structure is described as suitably joined to that.",
+  "The structure is two-halled.",
+  "This structure is formally proclaimed."
  ],
- "inference": "The verse asks the goddess to hear the flower order in that sequence.",
- "uncertainties": [],
- "plain_english": "In the Kashmir-named order, O goddess, hear the flower order too."
+ "inference": "A two-halled structure suitably joined to that configuration is proclaimed.",
+ "uncertainties": [
+  "The referent of 'that' (tasya) depends on the preceding context."
+ ],
+ "plain_english": "A two-halled structure, suitably joined to that, is proclaimed."
 }

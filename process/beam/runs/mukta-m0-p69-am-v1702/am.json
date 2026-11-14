@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p69",
  "verse": 1702,
- "question": "What distinguishing marks establish the identity of this stone type?",
+ "question": "What alternative extents are permitted for the wall arrangement?",
  "premises": [
-  "A stone is subject to identification",
-  "It is endowed with lotus and disc marks",
-  "Such marks define its recognition"
+  "One option is equality with the width wall.",
+  "Another option is an extended measure.",
+  "Another option is a fixed wall."
  ],
- "inference": "The stone endowed with lotus and disc marks should indeed be known as that type.",
- "uncertainties": [],
- "plain_english": "That one which is endowed with lotus and disc marks should indeed be recognized."
+ "inference": "The arrangement may be equal to the width wall, extended, or fixed to the wall.",
+ "uncertainties": [
+  "The exact syntactic role of yaḥ in this fragment is unclear."
+ ],
+ "plain_english": "It may be equal to the width wall, or extended, or fixed to the wall."
 }

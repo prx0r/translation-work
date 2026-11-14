@@ -1,0 +1,661 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1651,
+   "rows": [
+    {
+     "surface": "saptapaṃcāśadārabhya",
+     "gloss": "beginning-from-fifty-seven",
+     "grounds": "indeclinable absolutive compound indicating starting measure of fifty-seven",
+     "morph": "compound=saptapaṃcāśat+ārabhya; (indecl.)"
+    },
+    {
+     "surface": "dvidvihastavivardhanāt",
+     "gloss": "by-two-by-two-hand-increase",
+     "grounds": "ablative compound expressing incremental increase of two hastas at a time",
+     "morph": "compound=dvi+dvi+hasta+vivardhana; n.abl.sg"
+    }
+   ],
+   "question": "What incremental dimensional rule governs the pavilion measurements starting from fifty-seven?",
+   "premises": [
+    "The measurement begins from fifty-seven units.",
+    "The increase proceeds by two hastas at each step."
+   ],
+   "inference": "Pavilion dimensions are prescribed to start at fifty-seven and expand in increments of two hastas.",
+   "uncertainties": [],
+   "plain_english": "Beginning from fifty-seven, the measurement increases by two hastas at a time."
+  },
+  {
+   "verse": 1652,
+   "rows": [
+    {
+     "surface": "tadvistārasamaṃ",
+     "gloss": "equal-to-that-width",
+     "grounds": "compound equating length to the previously stated width",
+     "morph": "compound=tad+vistāra+sama; n.nom.sg"
+    },
+    {
+     "surface": "dīrghaṃ",
+     "gloss": "long",
+     "grounds": "adjective qualifying the pavilion as long",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samaśraṃ",
+     "gloss": "equal-cornered",
+     "grounds": "adjective indicating a square or equal-sided form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ bhavet",
+     "gloss": "pavilion should-be",
+     "grounds": "subject and optative verb stating the prescribed result",
+     "morph": "maṇṭapaṃ=n.acc.sg; bhavet=3.sg.act-opt/√bhū"
+    }
+   ],
+   "question": "What proportional form must the pavilion take relative to its established width?",
+   "premises": [
+    "The pavilion's length equals its width.",
+    "The pavilion is described as equal-cornered."
+   ],
+   "inference": "The pavilion should be constructed as a square with length equal to width.",
+   "uncertainties": [],
+   "plain_english": "The pavilion should be long in measure equal to its width and equal-cornered."
+  },
+  {
+   "verse": 1653,
+   "rows": [
+    {
+     "surface": "paṃcahastāvadhiryāvat",
+     "gloss": "up-to-five-hands-limit",
+     "grounds": "compound with limiting particle indicating an upper bound of five hastas",
+     "morph": "compound=pañcan+hasta+avadhi+yāvat; (indecl.)"
+    },
+    {
+     "surface": "bhaktivyāsaṃ",
+     "gloss": "bay-width",
+     "grounds": "accusative compound denoting the width of a bhakti or bay division",
+     "morph": "compound=bhakti+vyāsa; m.acc.sg"
+    },
+    {
+     "surface": "tripaṃcadhā",
+     "gloss": "in-fifteen-ways",
+     "grounds": "adverbial form indicating division into fifteen parts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many divisions of bay width are prescribed up to the five-hasta limit?",
+   "premises": [
+    "The prescribed limit extends up to five hastas.",
+    "The bay width is to be divided accordingly."
+   ],
+   "inference": "Up to a limit of five hastas, the bay width is divided in fifteen ways.",
+   "uncertainties": [
+    "The exact technical sense of tripaṃcadhā as fifteen divisions or three-by-five is context-dependent."
+   ],
+   "plain_english": "Up to a limit of five hastas, the bay width is to be divided in fifteen ways."
+  },
+  {
+   "verse": 1654,
+   "rows": [
+    {
+     "surface": "guṇāṃgula vivṛddhyā tu",
+     "gloss": "by-three-finger-increase but",
+     "grounds": "instrumental phrase indicating increase by three aṅgulas; tu marks specification",
+     "morph": "compound=guṇa+aṅgula; f.inst.sg; vivṛddhyā=f.inst.sg; tu=(indecl.)"
+    },
+    {
+     "surface": "bhaktivyāsaṃ",
+     "gloss": "bay-width",
+     "grounds": "accusative compound denoting the width of a bhakti or bay division",
+     "morph": "compound=bhakti+vyāsa; m.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-determine",
+     "grounds": "optative verb prescribing the calculation",
+     "morph": "3.sg.act-opt/√kḷp+pra"
+    }
+   ],
+   "question": "By what unit of increase should the bay width be determined in this rule?",
+   "premises": [
+    "The increase is specified as three aṅgulas.",
+    "The bay width is the object to be determined."
+   ],
+   "inference": "The bay width should be determined by increases of three aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "But one should determine the bay width by an increase of three aṅgulas."
+  },
+  {
+   "verse": 1655,
+   "rows": [
+    {
+     "surface": "aṣṭahastāvadhiryāvat",
+     "gloss": "up-to-eight-hands-limit",
+     "grounds": "compound with limiting particle indicating an upper bound of eight hastas",
+     "morph": "compound=aṣṭan+hasta+avadhi+yāvat; (indecl.)"
+    },
+    {
+     "surface": "trayoviṃśāṃghribhedakam",
+     "gloss": "twenty-three-foot-division",
+     "grounds": "accusative compound specifying division into twenty-three foot or pillar units",
+     "morph": "compound=trayoviṃśat+aṅghri+bhedaka; n.acc.sg"
+    }
+   ],
+   "question": "What division of foot units applies up to the eight-hasta dimensional limit?",
+   "premises": [
+    "The prescribed limit extends up to eight hastas.",
+    "A division into twenty-three foot units is specified."
+   ],
+   "inference": "Up to a limit of eight hastas, the structure is divided into twenty-three foot units.",
+   "uncertainties": [
+    "aṅghri may refer to feet or pillars depending on architectural context."
+   ],
+   "plain_english": "Up to a limit of eight hastas, there is a division into twenty-three foot units."
+  },
+  {
+   "verse": 1656,
+   "rows": [
+    {
+     "surface": "stambhānāmudayaṃ",
+     "gloss": "height-of-pillars",
+     "grounds": "genitive plural with accusative noun denoting the rise or height of pillars",
+     "morph": "compound=stambha+udaya; stambhānām=m.gen.pl; udayam=m.acc.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "particles indicating conclusion or manner",
+     "morph": "hi=(indecl.); evam=(indecl.)"
+    },
+    {
+     "surface": "stambhavyāsamathocyate",
+     "gloss": "pillar-width-now-stated",
+     "grounds": "compound object with adverb and passive verb introducing the next topic",
+     "morph": "compound=stambha+vyāsa; m.acc.sg; atha=(indecl.); ucyate=3.sg.pass-pres/√vac"
+    }
+   ],
+   "question": "What pillar measurements are concluded and newly introduced in this sequence?",
+   "premises": [
+    "The height of the pillars has been stated in this manner.",
+    "The width of the pillars is now introduced as the next topic."
+   ],
+   "inference": "Having given the pillar height, the text proceeds to state the pillar width.",
+   "uncertainties": [],
+   "plain_english": "Thus indeed the height of the pillars is given, and now the width of the pillars is stated."
+  },
+  {
+   "verse": 1657,
+   "rows": [
+    {
+     "surface": "ekonaviṃśamātrāntaṃ",
+     "gloss": "ending-at-nineteen-measures",
+     "grounds": "accusative compound indicating a limit of nineteen measures",
+     "morph": "compound=ekonaviṃśa+mātrā+anta; m.acc.sg"
+    },
+    {
+     "surface": "trayoviṃśāṃghrivistaram",
+     "gloss": "twenty-three-foot-expansion",
+     "grounds": "accusative compound specifying expansion across twenty-three foot units",
+     "morph": "compound=trayoviṃśat+aṅghri+vistara; m.acc.sg"
+    }
+   ],
+   "question": "What measure limit and foot expansion define the pillar width specification?",
+   "premises": [
+    "The measure extends up to nineteen units.",
+    "The expansion spans twenty-three foot units."
+   ],
+   "inference": "The pillar width specification reaches nineteen measures across a twenty-three-foot expansion.",
+   "uncertainties": [
+    "The precise relation between mātrā count and aṅghri expansion is technical."
+   ],
+   "plain_english": "The expansion is of twenty-three foot units, ending at nineteen measures."
+  },
+  {
+   "verse": 1658,
+   "rows": [
+    {
+     "surface": "mūlatāraṃ tadekāṃśaṃ",
+     "gloss": "base-width-that-one-part",
+     "grounds": "compound phrase identifying the base width as one part of that measure",
+     "morph": "compound=mūla+tāra; m.acc.sg; compound=tad+eka+aṃśa; m.acc.sg"
+    },
+    {
+     "surface": "tattadaṃśo navāgrakam",
+     "gloss": "that-part-nine-topped",
+     "grounds": "compound indicating that the corresponding part has nine at the top",
+     "morph": "compound=tad+tad+aṃśa; m.nom.sg; compound=nava+agraka; n.nom.sg"
+    }
+   ],
+   "question": "How are the base width and top proportion related in this pillar measurement?",
+   "premises": [
+    "The base width is taken as one part of the given measure.",
+    "The corresponding top portion is defined as nine."
+   ],
+   "inference": "The pillar tapers from a base width of one part to a top defined by nine parts.",
+   "uncertainties": [
+    "The exact proportional ratio implied by navāgrakam requires architectural convention."
+   ],
+   "plain_english": "The base width is one part of that, and its top portion is nine."
+  },
+  {
+   "verse": 1659,
+   "rows": [
+    {
+     "surface": "talipoccaṃ tu bhūtāṃśe",
+     "gloss": "upper-beam-height but in-five-parts",
+     "grounds": "accusative subject with particle and locative indicating division into five parts",
+     "morph": "compound=talipa+ucca; n.acc.sg; tu=(indecl.); compound=bhūta+aṃśa; m.loc.sg"
+    },
+    {
+     "surface": "dvibhāgaṃ vā talodayam",
+     "gloss": "two-parts or base-rise",
+     "grounds": "alternative accusative measures for the rise",
+     "morph": "compound=dvi+bhāga; m.acc.sg; vā=(indecl.); compound=tala+udaya; m.acc.sg"
+    }
+   ],
+   "question": "What alternative proportional divisions are permitted for the beam and base heights?",
+   "premises": [
+    "The upper beam height may be set in five parts.",
+    "Alternatively, the base rise may be set in two parts."
+   ],
+   "inference": "The text allows either a five-part division for the upper beam height or a two-part base rise.",
+   "uncertainties": [
+    "The technical identification of talipa and tala follows architectural usage."
+   ],
+   "plain_english": "The upper beam height is in five parts, or alternatively the base rise is in two parts."
+  },
+  {
+   "verse": 1660,
+   "rows": [
+    {
+     "surface": "sopapīṭhamadhiṣṭhānaṃ",
+     "gloss": "pedestal-with-sub-base",
+     "grounds": "accusative compound describing a pedestal that includes an upapīṭha",
+     "morph": "compound=sa+upapīṭha+adhiṣṭhāna; n.acc.sg"
+    },
+    {
+     "surface": "kevalaṃ vā masūrakam",
+     "gloss": "only or base-molding",
+     "grounds": "alternative accusative option of a simple masūraka base",
+     "morph": "kevalam=(indecl.); vā=(indecl.); masūrakam=n.acc.sg"
+    }
+   ],
+   "question": "What alternative base constructions are authorized for the pavilion foundation?",
+   "premises": [
+    "One option is a pedestal together with a sub-base.",
+    "Another option is only a simple base molding."
+   ],
+   "inference": "The foundation may be built either as a pedestal with sub-base or as a simple base molding alone.",
+   "uncertainties": [],
+   "plain_english": "The pedestal may be with a sub-base, or alternatively only a simple base molding."
+  },
+  {
+   "verse": 1661,
+   "rows": [
+    {
+     "surface": "upapīṭhodayaṃ khyātaṃ",
+     "gloss": "sub-base-rise known",
+     "grounds": "accusative subject with past participle indicating an established measure",
+     "morph": "compound=upapīṭha+udaya; m.acc.sg; khyātam=n.nom.sg"
+    },
+    {
+     "surface": "upapīṭhocchrayaṃ tu vā",
+     "gloss": "sub-base-height but or",
+     "grounds": "alternative accusative term for the same element's height",
+     "morph": "compound=upapīṭha+ucchraya; m.acc.sg; tu=(indecl.); vā=(indecl.)"
+    }
+   ],
+   "question": "What recognized alternative terms define the height of the sub-base element?",
+   "premises": [
+    "The rise of the sub-base is a known measure.",
+    "The height of the sub-base is given as an alternative designation."
+   ],
+   "inference": "The sub-base height may be referred to either as its rise or as its height.",
+   "uncertainties": [],
+   "plain_english": "The rise of the sub-base is known, or alternatively its height."
+  },
+  {
+   "verse": 1662,
+   "rows": [
+    {
+     "surface": "nīvraveśamalaṃkāraṃ",
+     "gloss": "vestibule-entrance-ornament",
+     "grounds": "accusative compound denoting the ornamentation of the vestibule entrance",
+     "morph": "compound=nīvra+veśa+alaṃkāra; m.acc.sg"
+    },
+    {
+     "surface": "gaṇyaṃ prāgiva vidyate",
+     "gloss": "to-be-counted as-before exists",
+     "grounds": "gerundive and verb stating it is to be reckoned as previously described",
+     "morph": "gaṇyam=n.nom.sg; prāk=(indecl.); iva=(indecl.); vidyate=3.sg.pass-pres/√vid"
+    }
+   ],
+   "question": "How should the ornamentation of the vestibule entrance be reckoned in this design?",
+   "premises": [
+    "The vestibule entrance ornament is the element in question.",
+    "It is to be counted as before."
+   ],
+   "inference": "The ornamentation of the vestibule entrance should be treated as previously prescribed.",
+   "uncertainties": [
+    "The exact architectural referent of nīvra depends on context."
+   ],
+   "plain_english": "The ornamentation of the vestibule entrance is to be counted as before."
+  },
+  {
+   "verse": 1663,
+   "rows": [
+    {
+     "surface": "kalālpanāsikopetaṃ",
+     "gloss": "with-small-part-nose",
+     "grounds": "accusative compound describing something furnished with a small kalā-nāsikā feature",
+     "morph": "compound=kalā+alpa+nāsikā+upeta; n.acc.sg"
+    },
+    {
+     "surface": "madhye kūṭaṃ tu eva vā",
+     "gloss": "in-middle turret but indeed or",
+     "grounds": "locative and accusative with particles presenting an alternative central turret",
+     "morph": "madhye=n.loc.sg; kūṭam=n.acc.sg; tu=(indecl.); eva=(indecl.); vā=(indecl.)"
+    }
+   ],
+   "question": "What alternative central turret feature may be included in the pavilion design?",
+   "premises": [
+    "A feature furnished with a small nāsikā element is described.",
+    "A turret in the middle is given as an alternative."
+   ],
+   "inference": "The design may include either a feature with a small nāsikā or a central turret.",
+   "uncertainties": [
+    "The technical meanings of kalā, nāsikā, and kūṭa are architectural."
+   ],
+   "plain_english": "It may be furnished with a small nāsikā feature, or indeed there may be a turret in the middle."
+  },
+  {
+   "verse": 1664,
+   "rows": [
+    {
+     "surface": "iṣṭadigdvāramevaṃ vā",
+     "gloss": "door-in-desired-direction-thus or",
+     "grounds": "compound with particles indicating an optional door in any desired direction",
+     "morph": "compound=iṣṭa+diś+dvāra; n.acc.sg; evam=(indecl.); vā=(indecl.)"
+    },
+    {
+     "surface": "dvayajālakakoṣṭhadik",
+     "gloss": "two-lattice-cell-direction",
+     "grounds": "compound indicating directions or sections with two lattice cells",
+     "morph": "compound=dvaya+jālaka+koṣṭha+diś; f.nom.sg"
+    }
+   ],
+   "question": "What options govern door placement and lattice-cell arrangement in the pavilion?",
+   "premises": [
+    "A door may be placed in any desired direction.",
+    "An arrangement with two lattice cells in the directions is specified."
+   ],
+   "inference": "The pavilion may have a door in a chosen direction together with two lattice-cell sections.",
+   "uncertainties": [
+    "The exact structural referent of dvayajālakakoṣṭhadik is technical."
+   ],
+   "plain_english": "Thus there may be a door in any desired direction, or sections with two lattice cells."
+  },
+  {
+   "verse": 1665,
+   "rows": [
+    {
+     "surface": "toraṇādi vihīnaṃ vā",
+     "gloss": "without-archway-etc or",
+     "grounds": "accusative compound indicating absence of toraṇa and similar elements",
+     "morph": "compound=toraṇa+ādi; n.nom.sg; vihīnam=n.acc.sg; vā=(indecl.)"
+    },
+    {
+     "surface": "kalpyevaṃ prathamaṃ bhavet",
+     "gloss": "arranged-thus first should-be",
+     "grounds": "gerundive-like construction with verb prescribing the first type",
+     "morph": "kalpyam=n.nom.sg; evam=(indecl.); prathamam=n.nom.sg; bhavet=3.sg.act-opt/√bhū"
+    }
+   ],
+   "question": "What defining feature characterizes the first prescribed pavilion type?",
+   "premises": [
+    "The pavilion may be without an archway and similar elements.",
+    "This arrangement is designated as the first type."
+   ],
+   "inference": "The first pavilion type is defined as being arranged without an archway and related features.",
+   "uncertainties": [],
+   "plain_english": "Arranged thus without an archway and so on, this would be the first type."
+  },
+  {
+   "verse": 1666,
+   "rows": [
+    {
+     "surface": "pūrve pare dvibhaktyaikaṃ",
+     "gloss": "in-east-west two-bays-one",
+     "grounds": "locatives with compound indicating one unit of two bays in east and west",
+     "morph": "pūrve=n.loc.sg; pare=n.loc.sg; compound=dvi+bhakti+eka; n.nom.sg"
+    },
+    {
+     "surface": "bhaktyā vistṛta nīvrakam",
+     "gloss": "by-bay expanded vestibule",
+     "grounds": "instrumental and participial compound describing a vestibule expanded by a bay",
+     "morph": "bhaktyā=f.inst.sg; vistṛtam=n.nom.sg; nīvrakam=n.nom.sg"
+    }
+   ],
+   "question": "How are bay divisions and vestibule expansion arranged on the east and west sides?",
+   "premises": [
+    "The east and west sides have a unit of two bays.",
+    "The vestibule is expanded by one bay."
+   ],
+   "inference": "On the east and west, a two-bay unit is set with the vestibule expanded by a bay.",
+   "uncertainties": [
+    "The syntactic relation of dvibhaktyaikaṃ is compressed and technical."
+   ],
+   "plain_english": "In the east and west there is one unit of two bays, and the vestibule is expanded by a bay."
+  },
+  {
+   "verse": 1667,
+   "rows": [
+    {
+     "surface": "bhānudviguṇasaṃkhyāṃghri",
+     "gloss": "twelve-number-feet",
+     "grounds": "compound indicating feet numbering twice twelve",
+     "morph": "compound=bhānu+dvi+guṇa+saṃkhyā+aṅghri; n.nom.sg"
+    },
+    {
+     "surface": "yuktaṃ viṃśatināsikā",
+     "gloss": "endowed-with twenty-noses",
+     "grounds": "past participle with compound specifying twenty nāsikā elements",
+     "morph": "yuktam=n.nom.sg; compound=viṃśati+nāsikā; f.nom.sg"
+    }
+   ],
+   "question": "What counts of feet and nāsikā elements are specified for this pavilion configuration?",
+   "premises": [
+    "The number of feet is twice twelve.",
+    "The structure is endowed with twenty nāsikā elements."
+   ],
+   "inference": "This configuration has twenty-four feet and twenty nāsikā elements.",
+   "uncertainties": [
+    "bhānu as twelve is a conventional numerical synonym."
+   ],
+   "plain_english": "It is endowed with feet numbering twenty-four and with twenty nāsikā elements."
+  },
+  {
+   "verse": 1668,
+   "rows": [
+    {
+     "surface": "vasupaṃjarasaṃyuktaṃ",
+     "gloss": "joined-with-eight-cages",
+     "grounds": "accusative compound indicating association with eight pañjara elements",
+     "morph": "compound=vasu+pañjara+saṃyukta; n.nom.sg"
+    },
+    {
+     "surface": "dvitīyaṃ maṇṭapaṃ bhavet",
+     "gloss": "second pavilion should-be",
+     "grounds": "subject and optative verb designating the second pavilion type",
+     "morph": "dvitīyam=n.nom.sg; maṇṭapam=n.nom.sg; bhavet=3.sg.act-opt/√bhū"
+    }
+   ],
+   "question": "What distinguishing feature defines the second pavilion type in this sequence?",
+   "premises": [
+    "The structure is joined with eight pañjara elements.",
+    "It is designated as the second pavilion."
+   ],
+   "inference": "The second pavilion type is characterized by having eight pañjara elements.",
+   "uncertainties": [
+    "vasu as eight and pañjara as a cage-like architectural member are conventional."
+   ],
+   "plain_english": "Joined with eight pañjara elements, this should be the second pavilion."
+  },
+  {
+   "verse": 1669,
+   "rows": [
+    {
+     "surface": "maṇṭapaṃ paritoṃśena",
+     "gloss": "pavilion around-by-part",
+     "grounds": "accusative subject with instrumental phrase indicating surrounding division",
+     "morph": "maṇṭapam=n.nom.sg; paritas=(indecl.); aṃśena=m.inst.sg"
+    },
+    {
+     "surface": "dvātriṃśaccaraṇānvitam",
+     "gloss": "possessed-of-thirty-two-feet",
+     "grounds": "compound adjective specifying thirty-two supporting feet",
+     "morph": "compound=dvātriṃśat+caraṇa+anvita; n.nom.sg"
+    }
+   ],
+   "question": "What surrounding structural count characterizes this pavilion arrangement?",
+   "premises": [
+    "The pavilion is considered around its parts.",
+    "It is possessed of thirty-two feet."
+   ],
+   "inference": "This pavilion arrangement is surrounded by and supported on thirty-two feet.",
+   "uncertainties": [],
+   "plain_english": "The pavilion, around its parts, is possessed of thirty-two feet."
+  },
+  {
+   "verse": 1670,
+   "rows": [
+    {
+     "surface": "iṣṭadigdvārasaṃyuktaṃ",
+     "gloss": "joined-with-door-in-desired-direction",
+     "grounds": "compound adjective indicating a door placed in any desired direction",
+     "morph": "compound=iṣṭa+diś+dvāra+saṃyukta; n.nom.sg"
+    },
+    {
+     "surface": "dvārānyatraiva kuḍyakam",
+     "gloss": "doors-elsewhere-indeed wall",
+     "grounds": "nominative plural and adverbs with noun indicating walls where doors are absent",
+     "morph": "dvārāṇi=n.nom.pl; atra=(indecl.); eva=(indecl.); kuḍyakam=n.nom.sg"
+    }
+   ],
+   "question": "How are doors and walls distributed when a door is placed in a chosen direction?",
+   "premises": [
+    "The structure is joined with a door in a desired direction.",
+    "Elsewhere there are walls instead of doors."
+   ],
+   "inference": "A door may be set in a chosen direction while the other sides are formed as walls.",
+   "uncertainties": [
+    "The compressed syntax of dvārānyatraiva kuḍyakam allows slight interpretive variation."
+   ],
+   "plain_english": "It is joined with a door in any desired direction, and elsewhere there is walling."
+  },
+  {
+   "verse": 1671,
+   "rows": [
+    {
+     "surface": "kuḍyaṃ kuṃbhalatādyaistu",
+     "gloss": "wall with-pot-creeper-etc",
+     "grounds": "nominative noun with instrumental plural compound listing decorative motifs",
+     "morph": "kuḍyam=n.nom.sg; compound=kuṃbha+latā+ādi; n.inst.pl; tu=(indecl.)"
+    },
+    {
+     "surface": "bhūṣitaṃ tu tṛtīyakam",
+     "gloss": "adorned but third",
+     "grounds": "past participle and ordinal adjective designating the third type",
+     "morph": "bhūṣitam=n.nom.sg; tu=(indecl.); tṛtīyakam=n.nom.sg"
+    }
+   ],
+   "question": "What decorative treatment distinguishes the third pavilion type?",
+   "premises": [
+    "The wall is adorned with pot-and-creeper motifs and similar designs.",
+    "This is designated as the third type."
+   ],
+   "inference": "The third pavilion type is distinguished by walls adorned with kuṃbha-latā and related ornamentation.",
+   "uncertainties": [],
+   "plain_english": "The wall is adorned with pot-and-creeper motifs and the like; this is the third type."
+  },
+  {
+   "verse": 1672,
+   "rows": [
+    {
+     "surface": "tatkūṭamaṣṭapādāḍhyaṃ",
+     "gloss": "that-turret-rich-in-eight-feet",
+     "grounds": "compound describing a turret endowed with eight supports",
+     "morph": "compound=tad+kūṭa+aṣṭan+pāda+āḍhya; n.nom.sg"
+    },
+    {
+     "surface": "madhye raṃgasamāyutam",
+     "gloss": "in-middle joined-with-stage",
+     "grounds": "locative and compound indicating a central stage or hall area",
+     "morph": "madhye=n.loc.sg; compound=raṅga+samāyuta; n.nom.sg"
+    }
+   ],
+   "question": "What central structural elements are required in this turreted pavilion arrangement?",
+   "premises": [
+    "The turret is endowed with eight feet or supports.",
+    "The middle is joined with a stage area."
+   ],
+   "inference": "This arrangement requires a turret with eight supports and a central stage.",
+   "uncertainties": [
+    "raṅga may denote a stage or open hall depending on context."
+   ],
+   "plain_english": "That turret is endowed with eight supports and joined with a stage in the middle."
+  },
+  {
+   "verse": 1673,
+   "rows": [
+    {
+     "surface": "dvibhaktivistṛtaṃ caiva",
+     "gloss": "expanded-by-two-bays and-indeed",
+     "grounds": "compound adjective indicating expansion by two bays",
+     "morph": "compound=dvi+bhakti+vistṛta; n.nom.sg; ca=(indecl.); eva=(indecl.)"
+    },
+    {
+     "surface": "bhaktyā nīvraṃ samāyutam",
+     "gloss": "by-bay vestibule joined",
+     "grounds": "instrumental and compound indicating a vestibule joined by a bay",
+     "morph": "bhaktyā=f.inst.sg; nīvram=n.nom.sg; samāyutam=n.nom.sg"
+    }
+   ],
+   "question": "How are bay expansion and vestibule attachment specified in this pavilion layout?",
+   "premises": [
+    "The structure is expanded by two bays.",
+    "The vestibule is joined by one bay."
+   ],
+   "inference": "The layout combines a two-bay expansion with a vestibule attached by a bay.",
+   "uncertainties": [],
+   "plain_english": "It is expanded by two bays and indeed has a vestibule joined by a bay."
+  },
+  {
+   "verse": 1674,
+   "rows": [
+    {
+     "surface": "catvāriṃśati cāṣṭāṃghri",
+     "gloss": "forty and-eight-feet",
+     "grounds": "numeral compound indicating a total of forty-eight feet",
+     "morph": "catvāriṃśati=(indecl.); ca=(indecl.); compound=aṣṭan+aṅghri; n.nom.sg"
+    },
+    {
+     "surface": "yuktaṃ vā tatra yojayet",
+     "gloss": "endowed or there one-should-apply",
+     "grounds": "participle, particle, adverb, and optative verb prescribing application",
+     "morph": "yuktam=n.nom.sg; vā=(indecl.); tatra=(indecl.); yojayet=3.sg.act-opt/√yuj"
+    }
+   ],
+   "question": "What alternative foot count may be applied in this pavilion construction?",
+   "premises": [
+    "A count of forty-eight feet is specified.",
+    "This configuration may be applied as an alternative."
+   ],
+   "inference": "One may alternatively apply a configuration endowed with forty-eight feet.",
+   "uncertainties": [],
+   "plain_english": "Or one should apply there a structure endowed with forty-eight feet."
+  }
+ ]
+}

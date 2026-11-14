@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1735,
- "question": "What benefit does the equal-wheeled form give to a householder?",
+ "question": "How is the central hall space proportioned within the pavilion’s length and width?",
  "premises": [
-  "The wheels are equal",
-  "A householder has wishes",
-  "This form gives those wishes"
+  "The length is divided into two and four parts",
+  "The hall space is located in the middle",
+  "The measure relates to width and length"
  ],
- "inference": "The equal-wheeled form grants a householder's wishes.",
- "uncertainties": [],
- "plain_english": "When the wheels are equal, it grants the wishes of a householder."
+ "inference": "A central hall space is set in the middle according to the two-and-four-part length and width.",
+ "uncertainties": [
+  "The exact parsing of dvicaturbhāga dhāyāmaṃ is ambiguous"
+ ],
+ "plain_english": "With a length of two and four parts, the hall space is in the middle of the width."
 }
