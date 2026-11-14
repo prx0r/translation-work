@@ -3,19 +3,14 @@
  "verse": 342,
  "rows": [
   {
-   "lemma": "turīya+kukkuṭasya",
-   "morph": "compound: m.gen.sg",
-   "grounds": "compound: turīya + kukkuṭasya (rooster/mantra name)"
+   "lemma": "uccaran",
+   "morph": "pres.act.part.nom.sg.m + ud-car",
+   "grounds": "concurrent action"
   },
   {
-   "lemma": "ante",
-   "morph": "m.loc.sg",
-   "grounds": "position in mantra"
-  },
-  {
-   "lemma": "sādhya+nāma",
-   "morph": "compound: n.acc.sg",
-   "grounds": "compound: sādhya (target) + nāma (name)"
+   "lemma": "vahni+bījaṃ",
+   "morph": "compound n.acc.sg",
+   "grounds": "seed syllable of fire"
   },
   {
    "lemma": "ca",
@@ -23,14 +18,24 @@
    "grounds": "connective particle"
   },
   {
-   "lemma": "karma",
-   "morph": "n.acc.sg",
-   "grounds": "ritual action to be specified"
+   "lemma": "bodhanaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "name of the procedure"
   },
   {
-   "lemma": "ca",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "etat",
+   "morph": "n.nom.sg",
+   "grounds": "refers to the procedure"
+  },
+  {
+   "lemma": "ucyate",
+   "morph": "3.sg.pres.pass + vac",
+   "grounds": "designation"
   }
  ]
 }

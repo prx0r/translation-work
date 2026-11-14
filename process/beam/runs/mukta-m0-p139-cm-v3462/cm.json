@@ -3,29 +3,34 @@
  "verse": 3462,
  "rows": [
   {
-   "lemma": "tathā",
+   "lemma": "vadet",
+   "morph": "3.sg.optative.act √vad",
+   "grounds": "utter the formula"
+  },
+  {
+   "lemma": "sarvavaśaṅkari",
+   "morph": "f.voc.sg",
+   "grounds": "name in mantra"
+  },
+  {
+   "lemma": "svāhā",
    "morph": "(indecl.)",
-   "grounds": "comparison marker"
+   "grounds": "mantra syllable of offering"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective"
+   "grounds": "indeclinable conjunction"
   },
   {
-   "lemma": "āgamaviplāvī",
-   "morph": "m.nom.sg (compound: āgama+viplāvin)",
-   "grounds": "offender; compound āgama+viplāvin"
+   "lemma": "ekaviṃśati",
+   "morph": "ekaviṃśati+first-member",
+   "grounds": "count of syllables"
   },
   {
-   "lemma": "svarṇasteyasamaḥ",
-   "morph": "m.nom.sg (compound: svarṇa+steya+sama)",
-   "grounds": "equivalence stated; compound svarṇa+steya+sama"
-  },
-  {
-   "lemma": "bhavet",
-   "morph": "3.sg.act-optative √bhū",
-   "grounds": "resulting equivalence"
+   "lemma": "varṇakaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "having that number of syllables"
   }
  ]
 }

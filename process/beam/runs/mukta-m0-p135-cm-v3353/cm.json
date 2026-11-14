@@ -3,39 +3,34 @@
  "verse": 3353,
  "rows": [
   {
-   "lemma": "kiñcit",
+   "lemma": "sevayet",
+   "morph": "3.sg.optative-active (sev)",
+   "grounds": "prescribes an action"
+  },
+  {
+   "lemma": "yaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "introduces the subject of the condition"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "marks contrast or emphasis"
   },
   {
-   "lemma": "agraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "noun"
-  },
-  {
-   "lemma": "vihīnaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "past participle"
-  },
-  {
-   "lemma": "syāt",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative"
-  },
-  {
-   "lemma": "kamalaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "noun"
-  },
-  {
-   "lemma": "tat+adhaḥ",
-   "morph": "(indecl.)",
-   "grounds": "compound adverb"
+   "lemma": "sa",
+   "morph": "m.nom.sg",
+   "grounds": "refers back to the one who serves"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative"
+   "morph": "3.sg.optative-active (bhū)",
+   "grounds": "states the resulting status"
+  },
+  {
+   "lemma": "śakti+sevakaḥ",
+   "morph": "compound: śakti+sevaka; m.nom.sg",
+   "grounds": "compound naming one who serves śakti"
   }
  ]
 }

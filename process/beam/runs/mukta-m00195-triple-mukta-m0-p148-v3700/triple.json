@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "cālayet",
+     "gloss": "one-should-move",
+     "grounds": "optative expressing prohibition in context with na",
+     "morph": "3.sg.act-opt √cal"
+    },
+    {
+     "surface": "sthāt",
+     "gloss": "from-place",
+     "grounds": "ablative indicating departure from one's position",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle governing the verbal actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudrā+varjitaṃ",
+     "gloss": "seal-deprived",
+     "grounds": "compound describing the vessel or act as lacking the ritual seal; internal sandhi at +",
+     "morph": "compound mudrā+varjita; n.acc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "one-should-drink",
+     "grounds": "optative expressing prohibition in context with na",
+     "morph": "3.sg.act-opt √pā"
+    }
+   ],
+   "question": "What restrictions govern moving from position and drinking without the ritual seal?",
+   "premises": [
+    "One should not move from one's place.",
+    "One should not drink when deprived of the ritual seal.",
+    "Both prohibitions apply during the ritual use of the vessel."
+   ],
+   "inference": "The practitioner must remain in place and maintain the ritual seal while drinking.",
+   "uncertainties": [
+    "The exact referent qualified by mudrā+varjitaṃ is implied from the ritual context of the vessel."
+   ],
+   "plain_english": "One should not move from one's place, nor drink without the ritual seal."
+  }
+ ]
+}

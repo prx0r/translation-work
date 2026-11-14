@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "matas",
+     "gloss": "regarded",
+     "grounds": "past passive participle indicating what is considered or held to be the case",
+     "morph": "ppp.nom.sg.m (√man)"
+    },
+    {
+     "surface": "vimalīkaraṇaṃ",
+     "gloss": "purification",
+     "grounds": "act or means of making free from impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the contemplated state or practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayogaṃ",
+     "gloss": "application",
+     "grounds": "ritual or practical enactment to be carried out",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle adding a further requirement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-perform",
+     "grounds": "causative injunction prescribing that the application be enacted",
+     "morph": "3.sg.caus-opt.act (√kṛ)"
+    }
+   ],
+   "question": "What purificatory status and required ritual application follow from this contemplation?",
+   "premises": [
+    "This is regarded as purification.",
+    "This application is also to be enacted.",
+    "The contemplation entails a prescribed ritual performance."
+   ],
+   "inference": "Therefore, the contemplation is both a purification and a basis for causing the corresponding application to be performed.",
+   "uncertainties": [
+    "The exact referent of etat depends on the preceding contemplative instruction in verse 349."
+   ],
+   "plain_english": "This is indeed regarded as purification, and one should also have this application performed."
+  }
+ ]
+}

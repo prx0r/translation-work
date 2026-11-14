@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "qualifies the whole as a totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātaṃ",
+     "gloss": "become",
+     "grounds": "past participle indicating a resulting state",
+     "morph": "n.nom.sg (ppp, √jan)"
+    },
+    {
+     "surface": "mumūrṣuḥ",
+     "gloss": "about-to-die",
+     "grounds": "desiderative participle expressing imminent death",
+     "morph": "n.nom.sg (desid.ptcp, √mṛ)"
+    },
+    {
+     "surface": "iva",
+     "gloss": "as-if",
+     "grounds": "particle marking comparison or semblance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "appears",
+     "grounds": "passive verb expressing perception or appearance",
+     "morph": "3.sg.pass-pres (√dṛś)"
+    }
+   ],
+   "question": "What condition does the entire world appear to have assumed after the slaughter?",
+   "premises": [
+    "The entirety is described as having become something.",
+    "That state is characterized as being about to die.",
+    "This condition is presented as an appearance or semblance."
+   ],
+   "inference": "The whole world appears to have entered a state resembling imminent death.",
+   "uncertainties": [
+    "The exact referent of sakalaṃ as the whole world or all things is inferred from context."
+   ],
+   "plain_english": "Everything appears to have become as if about to die."
+  }
+ ]
+}
