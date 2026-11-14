@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "śūdrasya",
+     "gloss": "of-a-shudra",
+     "grounds": "refers to a person of the śūdra class; genitive indicates relation to what is declared",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "complete",
+     "grounds": "describes the teaching or content as whole or complete",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to Pārvatī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-declare",
+     "grounds": "present act of telling or declaring by the speaker",
+     "morph": "1.sg.pres.act √kath"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative epithet addressing Pārvatī; compound of vara and ānana",
+     "morph": "f.voc.sg (vara+ānana)"
+    }
+   ],
+   "question": "What complete teaching does the speaker declare in relation to a śūdra?",
+   "premises": [
+    "The speaker directly addresses the goddess as fair-faced.",
+    "The speaker performs an act of declaring or telling.",
+    "The declared content is described as complete and related to a śūdra."
+   ],
+   "inference": "The speaker declares the complete teaching as pertaining to a śūdra.",
+   "uncertainties": [
+    "sakalaṃ is taken as 'complete' in a general sense; a technical contrast with niṣkala is possible but not explicit."
+   ],
+   "plain_english": "O goddess, O fair-faced one, I declare the complete teaching for the śūdra."
+  }
+ ]
+}

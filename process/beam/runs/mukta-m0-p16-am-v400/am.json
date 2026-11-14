@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p16",
  "verse": 400,
- "question": "What threefold classification applies to the ritual bathing of the deity?",
+ "question": "Which domains of knowledge, discipline, and art are included in this enumeration?",
  "premises": [
-  "Ritual bathing may be performed as a daily observance.",
-  "Ritual bathing may be performed on specific occasions.",
-  "Ritual bathing may be performed to fulfill a desired aim."
+  "Yoga-knowledge is explicitly named in the list.",
+  "Austerity, scripture, and knowledge are enumerated as distinct domains.",
+  "Arts and any other such items are included by the relative pronoun and conjunction."
  ],
- "inference": "Therefore ritual bathing is considered threefold.",
- "uncertainties": [],
- "plain_english": "Daily, occasional, and desire-driven bathing is considered to be of three kinds."
+ "inference": "The verse groups together diverse forms of knowledge, discipline, scripture, and arts as a collective set.",
+ "uncertainties": [
+  "The syntactic role of the listed items in the full clause is unclear from this verse alone.",
+  "The predicate governing this enumeration is not present in the provided verse."
+ ],
+ "plain_english": "Yoga-knowledge, austerity, scripture, knowledge, and whatever arts there are."
 }

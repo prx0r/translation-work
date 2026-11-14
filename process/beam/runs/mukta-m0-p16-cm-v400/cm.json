@@ -3,34 +3,39 @@
  "verse": 400,
  "rows": [
   {
-   "lemma": "nityaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "qualifies snapanaṃ as regular ritual bathing"
+   "lemma": "yogajñānaṃ",
+   "morph": "compound: yoga+jñāna (n.nom/acc.sg)",
+   "grounds": "compound of yoga and jñāna; neuter singular nominative or accusative"
   },
   {
-   "lemma": "naimittikaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "qualifies snapanaṃ as bathing performed on specific occasions"
+   "lemma": "tapaḥ",
+   "morph": "n.nom/acc.sg",
+   "grounds": "neuter noun denoting ascetic discipline"
   },
   {
-   "lemma": "kāmyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "qualifies snapanaṃ as bathing performed for a specific wish"
+   "lemma": "śāstraṃ",
+   "morph": "n.nom/acc.sg",
+   "grounds": "neuter noun denoting authoritative teaching or text"
   },
   {
-   "lemma": "snapanaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "act of bathing the deity"
+   "lemma": "vidyā",
+   "morph": "f.nom.sg",
+   "grounds": "feminine noun denoting learning or knowledge"
   },
   {
-   "lemma": "trividhaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "predicate describing the classification of snapanaṃ"
+   "lemma": "śilpāni",
+   "morph": "n.nom/acc.pl",
+   "grounds": "neuter plural noun denoting crafts or arts"
   },
   {
-   "lemma": "matam",
-   "morph": "n.nom.sg ppp",
-   "grounds": "expresses the accepted doctrinal view; from √man"
+   "lemma": "yāni",
+   "morph": "pron.rel.n.nom/acc.pl",
+   "grounds": "relative pronoun agreeing with śilpāni or referring to the listed items"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction connecting items in the enumeration"
   }
  ]
 }

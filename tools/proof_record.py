@@ -133,7 +133,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--song", required=True, help="e.g. s01")
     ap.add_argument("--work", default="sivastotravali")
-    ap.add_argument("--disp", default=None, help="JSON {song: {verse: note}} for sub-0.90 dispositions")
+    ap.add_argument("--disp", default=None, help="JSON {song: {verse: note}} for sub-0.90 dispositions; work-qualified keys 'work:song' take precedence over bare song keys (bare keys are shared across works with colliding song names — avoid for those)")
     ap.add_argument("--shastra", action="store_true",
                     help="shastra-chunk mode (SHASTRA-MINIMAL.md): workcfg chunk spans, "
                          "contract data/*.json layers instead of T1-*.md/C1-*.md/L2-*.md, "
@@ -250,7 +250,11 @@ def main() -> int:
             _para = None
     disp = {}
     if args.disp:
-        disp = json.loads(Path(args.disp).read_text()).get(song, {})
+        alld = json.loads(Path(args.disp).read_text())
+        # Work-qualified keys win; bare song keys are a legacy fallback.
+        # (Bare keys are UNSAFE for song names shared by multiple works —
+        # e.g. mukta-m0-p01 — since dispositions would leak across works.)
+        disp = alld.get(f"{args.work}:{song}", alld.get(song, {}))
 
     def _clean_span(toks: list[str]) -> list[str]:
         # Dandas glued to words (oṃ…||, …||2||) are punctuation, not text:

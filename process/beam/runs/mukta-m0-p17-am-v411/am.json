@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 411,
- "question": "What qualifications must characterize the practitioner who performs these rites?",
+ "question": "How can social status shift suddenly between merchant and servant ranks?",
  "premises": [
-  "The practitioner must master knowledge of Śaiva scriptures.",
-  "The practitioner must be engaged in ritual action.",
-  "Both knowledge and practice are required."
+  "Merchant status can be suddenly reached",
+  "A merchant can obtain servant status",
+  "The changes are presented as abrupt"
  ],
- "inference": "The rites should be performed by one who has mastered Śaiva scriptural knowledge and is devoted to ritual practice.",
- "uncertainties": [],
- "plain_english": "By one who has mastered the knowledge of the Śaiva scriptures and is engaged in ritual practice."
+ "inference": "Social rank between merchant and servant can change suddenly in either direction.",
+ "uncertainties": [
+  "The causal mechanism for this status change is not stated in this verse."
+ ],
+ "plain_english": "One may suddenly attain merchant status, and a merchant may obtain servant status."
 }
