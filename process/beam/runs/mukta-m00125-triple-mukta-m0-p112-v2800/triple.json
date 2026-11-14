@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "soṣṇā",
+     "gloss": "with-hot",
+     "grounds": "fused form sa+uṣṇā; qualifies the ghee as taken hot",
+     "morph": "compound:sa+uṣṇā"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "ghee",
+     "grounds": "object of eating in the prescribed observance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tryahaṃ",
+     "gloss": "for-three-days",
+     "grounds": "duration of the prescribed intake",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adyāt",
+     "gloss": "should-eat",
+     "grounds": "prescriptive optative for the observance",
+     "morph": "3.sg.opt.act √ad"
+    },
+    {
+     "surface": "tridinaṃ",
+     "gloss": "for-three-days",
+     "grounds": "duration of the subsequent restricted intake",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kevala",
+     "gloss": "only",
+     "grounds": "restricts the intake to ghee alone; form as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "introduces the conditional stage of the observance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what dietary condition must one consume only hot ghee for three days in this observance?",
+   "premises": [
+    "The observance prescribes eating hot ghee for three days.",
+    "The observance further prescribes eating only that for three days.",
+    "The particle yadā marks this as a specific stage or condition."
+   ],
+   "inference": "A defined stage of the observance requires consuming only hot ghee for a three-day period.",
+   "uncertainties": [
+    "The exact syntactic relation between tryahaṃ and tridinaṃ is not fully explicit in this verse alone.",
+    "The agreement and precise construal of soṣṇā and kevala depend on the broader passage context."
+   ],
+   "plain_english": "When prescribed, one should eat hot ghee for three days, and for three days eat only that."
+  }
+ ]
+}

@@ -1,0 +1,1169 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2801,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśati",
+     "gloss": "twenty",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakṣatraṃ",
+     "gloss": "constellation",
+     "grounds": "time unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tri+palaṃ",
+     "gloss": "three-palas",
+     "grounds": "measure compound",
+     "morph": "compound = tri+palam"
+    },
+    {
+     "surface": "kṣīra+bhojanam",
+     "gloss": "milk-food",
+     "grounds": "diet compound",
+     "morph": "compound = kṣīra+bhojanam"
+    }
+   ],
+   "question": "What dietary measure defines the observance involving twenty-one constellations?",
+   "premises": [
+    "The measure spans one twenty constellations",
+    "The quantity is three palas",
+    "The food consists of milk"
+   ],
+   "inference": "The observance requires three palas of milk-food over twenty-one constellations.",
+   "uncertainties": [],
+   "plain_english": "For twenty-one constellations, one should take three palas of milk as food."
+  },
+  {
+   "verse": 2802,
+   "rows": [
+    {
+     "surface": "dvādaśa+aha",
+     "gloss": "twelve-days",
+     "grounds": "duration compound",
+     "morph": "compound = dvādaśa+aha"
+    },
+    {
+     "surface": "nir+āhāraḥ",
+     "gloss": "without-food",
+     "grounds": "fasting state",
+     "morph": "compound = nir+āhāraḥ"
+    },
+    {
+     "surface": "parāka",
+     "gloss": "parāka",
+     "grounds": "name of observance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsmṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "3.sg.pass.perf + smṛ"
+    }
+   ],
+   "question": "Which austerity is defined by twelve days without food?",
+   "premises": [
+    "The duration is twelve days",
+    "The state is without food",
+    "Tradition names this observance parāka"
+   ],
+   "inference": "Fasting without food for twelve days is remembered as the parāka observance.",
+   "uncertainties": [],
+   "plain_english": "Being without food for twelve days is remembered as the parāka observance."
+  },
+  {
+   "verse": 2803,
+   "rows": [
+    {
+     "surface": "cāndrāyaṇa",
+     "gloss": "cāndrāyaṇa",
+     "grounds": "name of observance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "prescribed procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "3.sg.pass.perf + vac"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "by-water",
+     "grounds": "means of observance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jala+ātmakaḥ",
+     "gloss": "water-natured",
+     "grounds": "characterized by water",
+     "morph": "compound = jala+ātmakaḥ"
+    }
+   ],
+   "question": "How is the water-natured cāndrāyaṇa rite characterized in its performance?",
+   "premises": [
+    "The cāndrāyaṇa rite is declared",
+    "It is performed by water alone",
+    "It is water-natured"
+   ],
+   "inference": "The cāndrāyaṇa rite is declared to be performed with water alone and is water-natured.",
+   "uncertainties": [],
+   "plain_english": "The cāndrāyaṇa rite is declared to be performed with water alone, being water-natured."
+  },
+  {
+   "verse": 2804,
+   "rows": [
+    {
+     "surface": "cariṣṇuḥ",
+     "gloss": "moving",
+     "grounds": "active practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upavāsaṃ",
+     "gloss": "fast",
+     "grounds": "act of fasting",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "injunction",
+     "morph": "3.sg.act.opt + tyaj"
+    },
+    {
+     "surface": "bhukti",
+     "gloss": "meal",
+     "grounds": "eating occasion",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "fourfold",
+     "grounds": "set of four",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must a moving practitioner abandon regarding fasting and meals?",
+   "premises": [
+    "A moving practitioner is the subject",
+    "Fasting should be abandoned",
+    "A fourfold meal should be abandoned"
+   ],
+   "inference": "A moving practitioner should abandon fasting and the fourfold meal.",
+   "uncertainties": [
+    "The exact meaning of bhukti-catuṣṭayam is context-dependent"
+   ],
+   "plain_english": "One who is moving about should abandon fasting and the fourfold meal."
+  },
+  {
+   "verse": 2805,
+   "rows": [
+    {
+     "surface": "upavāsaḥ",
+     "gloss": "fast",
+     "grounds": "observance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samākhyātaḥ",
+     "gloss": "called",
+     "grounds": "designation",
+     "morph": "3.sg.pass.perf + khyā"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "pacification",
+     "grounds": "ritual category",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-stated",
+     "grounds": "scriptural statement",
+     "morph": "3.sg.pass.pres + gad"
+    }
+   ],
+   "question": "How is the fast designated and what pacification is stated here?",
+   "premises": [
+    "The fast is called by that name",
+    "Pacification is stated in this context",
+    "The statement concerns the present rite"
+   ],
+   "inference": "The fast is so called, and pacification is stated here in this context.",
+   "uncertainties": [],
+   "plain_english": "This is called a fast, and here pacification is being stated."
+  },
+  {
+   "verse": 2806,
+   "rows": [
+    {
+     "surface": "tat+madhye",
+     "gloss": "in-its-midst",
+     "grounds": "location compound",
+     "morph": "compound = tat+madhye"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "pit",
+     "grounds": "ritual fire-pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpādya",
+     "gloss": "having-prepared",
+     "grounds": "prior action",
+     "morph": "(gerund) + pad"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "made",
+     "grounds": "constructed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hasta+mitam",
+     "gloss": "hand-measure",
+     "grounds": "size specification",
+     "morph": "compound = hasta+mitam"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of ritual pit should be prepared in the midst of that space?",
+   "premises": [
+    "A pit is to be prepared in its midst",
+    "The pit is made to hand-measure",
+    "The preparation is done accordingly"
+   ],
+   "inference": "In its midst, one should prepare a pit made to the measure of a hand.",
+   "uncertainties": [],
+   "plain_english": "In the middle of it, one should prepare a fire-pit made to the measure of a hand."
+  },
+  {
+   "verse": 2807,
+   "rows": [
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃśodhya",
+     "gloss": "having-purified",
+     "grounds": "preparatory rite",
+     "morph": "(gerund) + śudh"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "according-to-rule",
+     "grounds": "prescribed manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati+ahaṃ",
+     "gloss": "every-day",
+     "grounds": "daily frequency",
+     "morph": "compound = prati+ahaṃ"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.act.opt + nī"
+    }
+   ],
+   "question": "What daily ritual action must be performed for the deity after purification?",
+   "premises": [
+    "The deity must be purified according to rule",
+    "Bathing is the prescribed action",
+    "The action should be performed every day"
+   ],
+   "inference": "After purifying the deity according to rule, one should perform the bathing every day.",
+   "uncertainties": [],
+   "plain_english": "Having purified the deity according to rule, one should perform the bathing every day."
+  },
+  {
+   "verse": 2808,
+   "rows": [
+    {
+     "surface": "saṃskṛtya",
+     "gloss": "having-consecrated",
+     "grounds": "ritual preparation",
+     "morph": "(gerund) + kṛ"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual fire-pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "and-fire",
+     "grounds": "ritual fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "Śiva",
+     "grounds": "deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa+aṅgaṃ",
+     "gloss": "with-limbs",
+     "grounds": "with attendant parts",
+     "morph": "compound = sa+aṅgaṃ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "ritual offering",
+     "morph": "3.sg.act.caus.opt + tṛp"
+    }
+   ],
+   "question": "After consecrating the pit and fire, whom should the officiant satisfy?",
+   "premises": [
+    "The pit and fire must be consecrated",
+    "Śiva together with his limbs is the recipient",
+    "The officiant should satisfy them"
+   ],
+   "inference": "After consecrating the pit and fire, one should satisfy Śiva together with his limbs.",
+   "uncertainties": [],
+   "plain_english": "Having consecrated the pit and the fire, one should satisfy Śiva together with his limbs."
+  },
+  {
+   "verse": 2809,
+   "rows": [
+    {
+     "surface": "aghora+astram",
+     "gloss": "aghora-weapon",
+     "grounds": "mantra designation",
+     "morph": "compound = aghora+astram"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaṃ",
+     "gloss": "another",
+     "grounds": "alternative mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su+siddhaṃ",
+     "gloss": "well-accomplished",
+     "grounds": "perfected by practice",
+     "morph": "compound = su+siddhaṃ"
+    },
+    {
+     "surface": "deśika+ātmanā",
+     "gloss": "by-teacher-self",
+     "grounds": "by the teacher himself",
+     "morph": "compound = deśika+ātmanā"
+    }
+   ],
+   "question": "Which mantra may the teacher employ if well accomplished by himself?",
+   "premises": [
+    "The aghora weapon mantra is an option",
+    "Another mantra is an alternative",
+    "The mantra must be well accomplished by the teacher himself"
+   ],
+   "inference": "The teacher may use the aghora weapon mantra or another mantra well accomplished by himself.",
+   "uncertainties": [],
+   "plain_english": "One may use the aghora weapon mantra, or another mantra well accomplished by the teacher himself."
+  },
+  {
+   "verse": 2810,
+   "rows": [
+    {
+     "surface": "samid",
+     "gloss": "fuel",
+     "grounds": "oblation material",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "and-ghee",
+     "grounds": "oblation material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gavyaṃ",
+     "gloss": "of-cow",
+     "grounds": "derived from cow",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhura+traya",
+     "gloss": "sweet-triad",
+     "grounds": "three sweet substances",
+     "morph": "compound = madhura+traya"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined-with",
+     "grounds": "combined",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What oblation materials should be combined for the fire offering?",
+   "premises": [
+    "Fuel and ghee are required",
+    "Cow-derived substance is included",
+    "The sweet triad is joined with them"
+   ],
+   "inference": "The oblation should consist of fuel, ghee, cow-derived substance, and the sweet triad combined.",
+   "uncertainties": [
+    "The exact constituents of madhura-traya are not specified here"
+   ],
+   "plain_english": "One should use fuel, ghee, cow products, and the sweet triad together."
+  },
+  {
+   "verse": 2811,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+arthaṃ",
+     "gloss": "its-half",
+     "grounds": "half that number",
+     "morph": "compound = tat+arthaṃ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭa+adhikaṃ",
+     "gloss": "eight-more",
+     "grounds": "plus eight",
+     "morph": "compound = aṣṭa+adhikaṃ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative counts of oblations are permitted in the rite?",
+   "premises": [
+    "A thousand oblations is an option",
+    "Half of that is an option",
+    "A hundred plus eight is an option"
+   ],
+   "inference": "One may offer a thousand, or half that, or a hundred and eight oblations.",
+   "uncertainties": [],
+   "plain_english": "One may offer a thousand, or half of that, or a hundred and eight."
+  },
+  {
+   "verse": 2812,
+   "rows": [
+    {
+     "surface": "svāhā+ante",
+     "gloss": "ending-with-svāhā",
+     "grounds": "mantra ending",
+     "morph": "compound = svāhā+ante"
+    },
+    {
+     "surface": "bhagavan",
+     "gloss": "O-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarva+kṣopa+nāśam",
+     "gloss": "all-affliction-destruction",
+     "grounds": "desired result",
+     "morph": "compound = sarva+kṣopa+nāśam"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "grant",
+     "grounds": "request",
+     "morph": "2.sg.act.impv + pad"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What prayer should be uttered at the end of the svāhā mantra?",
+   "premises": [
+    "The mantra ends with svāhā",
+    "The lord is addressed",
+    "Destruction of all affliction is requested"
+   ],
+   "inference": "Ending with svāhā, one should then pray: 'O Lord, grant the destruction of all affliction.'",
+   "uncertainties": [
+    "padaṃ taken as imperative of pad in ritual prayer context"
+   ],
+   "plain_english": "Then, ending with svāhā, one should pray: 'O Lord, grant the destruction of all affliction.'"
+  },
+  {
+   "verse": 2813,
+   "rows": [
+    {
+     "surface": "pañcāśat+antaraṃ",
+     "gloss": "fifty-interval",
+     "grounds": "interval count",
+     "morph": "compound = pañcāśat+antaraṃ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śata+mantra+antaraṃ",
+     "gloss": "hundred-mantra-interval",
+     "grounds": "interval count",
+     "morph": "compound = śata+mantra+antaraṃ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra intervals are permitted during the ritual procedure?",
+   "premises": [
+    "An interval of fifty is permitted",
+    "An interval of a hundred mantras is permitted",
+    "These are alternatives"
+   ],
+   "inference": "One may observe an interval of fifty or an interval of a hundred mantras.",
+   "uncertainties": [
+    "The exact ritual action at these intervals is implied by context"
+   ],
+   "plain_english": "One may do so at intervals of fifty, or also at intervals of a hundred mantras."
+  },
+  {
+   "verse": 2814,
+   "rows": [
+    {
+     "surface": "mukha+vāsa+samāyuktaṃ",
+     "gloss": "with-mouth-perfume",
+     "grounds": "accompanied by fragrance",
+     "morph": "compound = mukha+vāsa+samāyuktaṃ"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "ritual offering",
+     "morph": "(gerund) + nived"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering should be presented together with mouth perfume?",
+   "premises": [
+    "Betel is the offering",
+    "It is accompanied by mouth perfume",
+    "It should be offered"
+   ],
+   "inference": "One should offer betel accompanied by mouth perfume.",
+   "uncertainties": [],
+   "plain_english": "Having offered betel together with mouth perfume."
+  },
+  {
+   "verse": 2815,
+   "rows": [
+    {
+     "surface": "tat+tat+diṅ+mukha+saṃjātaṃ",
+     "gloss": "that-respective-direction-facing",
+     "grounds": "oriented to each direction",
+     "morph": "compound = tat+tat+diṅ+mukha+saṃjātaṃ"
+    },
+    {
+     "surface": "paṭheyuḥ",
+     "gloss": "should-recite",
+     "grounds": "injunction",
+     "morph": "3.pl.act.opt + paṭh"
+    },
+    {
+     "surface": "śāstra+pāragāḥ",
+     "gloss": "scripture-experts",
+     "grounds": "qualified reciters",
+     "morph": "compound = śāstra+pāragāḥ"
+    }
+   ],
+   "question": "Who should recite while facing the respective directions?",
+   "premises": [
+    "Recitation should be done facing each respective direction",
+    "The reciters must be scripture experts",
+    "The action is prescribed"
+   ],
+   "inference": "Experts in scripture should recite while facing the respective directions.",
+   "uncertainties": [],
+   "plain_english": "Those who are experts in scripture should recite, facing each respective direction."
+  },
+  {
+   "verse": 2816,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jātam",
+     "gloss": "born",
+     "grounds": "arisen",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "īśānam",
+     "gloss": "Īśāna",
+     "grounds": "mantra or aspect of Śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japeyuḥ",
+     "gloss": "should-mutter",
+     "grounds": "injunction",
+     "morph": "3.pl.act.opt + jap"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitāḥ",
+     "gloss": "initiated-ones",
+     "grounds": "qualified practitioners",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which mantra should initiated ones mutter in the western direction?",
+   "premises": [
+    "The location is the west",
+    "The Īśāna mantra is to be muttered",
+    "The initiated ones should perform the muttering"
+   ],
+   "inference": "The initiated ones should mutter the Īśāna mantra there in the west.",
+   "uncertainties": [
+    "jātam may qualify Īśāna in a specific ritual sense"
+   ],
+   "plain_english": "There in the west, the initiated ones should mutter the Īśāna mantra."
+  },
+  {
+   "verse": 2817,
+   "rows": [
+    {
+     "surface": "stotāraḥ",
+     "gloss": "praisers",
+     "grounds": "reciters of hymns",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bahavaḥ",
+     "gloss": "many",
+     "grounds": "plural number",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "single reciter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭheyuḥ",
+     "gloss": "should-recite",
+     "grounds": "injunction",
+     "morph": "3.pl.act.opt + paṭh"
+    },
+    {
+     "surface": "stotra+saṃhatim",
+     "gloss": "hymn-collection",
+     "grounds": "body of hymns",
+     "morph": "compound = stotra+saṃhatim"
+    }
+   ],
+   "question": "How many praisers may recite the collection of hymns?",
+   "premises": [
+    "Many praisers may recite",
+    "Alternatively one may recite",
+    "The object is the collection of hymns"
+   ],
+   "inference": "Many praisers or a single one may recite the collection of hymns.",
+   "uncertainties": [],
+   "plain_english": "Many praisers, or even one, should recite the collection of hymns."
+  },
+  {
+   "verse": 2818,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "entire procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "injunction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "snātaiḥ",
+     "gloss": "by-bathed-ones",
+     "grounds": "ritually purified agents",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "homa+pravartakaiḥ",
+     "gloss": "by-rite-performers",
+     "grounds": "those conducting the fire rite",
+     "morph": "compound = homa+pravartakaiḥ"
+    }
+   ],
+   "question": "By whom must all these prescribed ritual actions be performed?",
+   "premises": [
+    "All this should be done",
+    "The agents must be bathed",
+    "The agents must be performers of the fire rite"
+   ],
+   "inference": "All this should be done by those who have bathed and who perform the fire rite.",
+   "uncertainties": [],
+   "plain_english": "All this should be done by those who have bathed and who conduct the fire rite."
+  },
+  {
+   "verse": 2819,
+   "rows": [
+    {
+     "surface": "nirodhya",
+     "gloss": "having-confined",
+     "grounds": "ritual containment",
+     "morph": "(gerund) + rudh"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+īśaṃ",
+     "gloss": "lord-of-gods",
+     "grounds": "deity",
+     "morph": "compound = deva+īśaṃ"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "injunction",
+     "morph": "3.sg.act.opt + dā"
+    },
+    {
+     "surface": "antar+bahir+balim",
+     "gloss": "inner-outer-offering",
+     "grounds": "offering inside and outside",
+     "morph": "compound = antar+bahir+balim"
+    }
+   ],
+   "question": "What offering should be given after confining the lord of gods there?",
+   "premises": [
+    "The lord of gods is confined there",
+    "An offering should be given",
+    "The offering is both inner and outer"
+   ],
+   "inference": "After confining the lord of gods there, one should give an inner and outer offering.",
+   "uncertainties": [],
+   "plain_english": "Having confined the lord of gods there, one should give an inner and outer offering."
+  },
+  {
+   "verse": 2820,
+   "rows": [
+    {
+     "surface": "homa+karma",
+     "gloss": "fire-rite",
+     "grounds": "ritual act",
+     "morph": "compound = homa+karma"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-dedicated",
+     "grounds": "ritual dedication",
+     "morph": "(gerund) + nived"
+    },
+    {
+     "surface": "asmai",
+     "gloss": "to-him",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "should-pray",
+     "grounds": "injunction",
+     "morph": "3.sg.act.opt + prārth"
+    },
+    {
+     "surface": "durita+kṣayam",
+     "gloss": "sin-destruction",
+     "grounds": "desired result",
+     "morph": "compound = durita+kṣayam"
+    }
+   ],
+   "question": "What should be prayed for after dedicating the fire rite to the deity?",
+   "premises": [
+    "The fire rite is dedicated to him",
+    "A prayer should be made",
+    "The prayer seeks destruction of sin"
+   ],
+   "inference": "After dedicating the fire rite to him, one should pray for the destruction of sin.",
+   "uncertainties": [],
+   "plain_english": "Having dedicated the fire rite to him, one should pray for the destruction of sin."
+  },
+  {
+   "verse": 2821,
+   "rows": [
+    {
+     "surface": "eka+tri+pañca+sapta+ahan",
+     "gloss": "by-one-three-five-seven-days",
+     "grounds": "alternative durations",
+     "morph": "compound = eka+tri+pañca+sapta+ahan"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvi+saptakaiḥ",
+     "gloss": "by-two-sevens",
+     "grounds": "fourteen days",
+     "morph": "compound = dvi+saptakaiḥ"
+    }
+   ],
+   "question": "What alternative durations are allowed for performing this rite?",
+   "premises": [
+    "One, three, five, or seven days are options",
+    "Two sets of seven days are an option",
+    "These durations are alternatives"
+   ],
+   "inference": "The rite may be performed for one, three, five, seven days, or for fourteen days.",
+   "uncertainties": [],
+   "plain_english": "It may be done for one, three, five, or seven days, or for two periods of seven days."
+  },
+  {
+   "verse": 2822,
+   "rows": [
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-pit",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "visarjanaṃ",
+     "gloss": "dismissal",
+     "grounds": "ritual release",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "scriptural prescription",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-deity",
+     "grounds": "deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "agneḥ",
+     "gloss": "of-fire",
+     "grounds": "ritual fire",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "purā+vidheḥ",
+     "gloss": "of-former-rule",
+     "grounds": "prior prescribed procedure",
+     "morph": "compound = purā+vidheḥ"
+    }
+   ],
+   "question": "Is dismissal of the deity and fire in the pit prescribed under the former rule?",
+   "premises": [
+    "Dismissal in the pit is considered",
+    "It concerns the deity and the fire",
+    "It is not stated under the former rule"
+   ],
+   "inference": "Dismissal of the deity and fire in the pit is not stated under the former rule.",
+   "uncertainties": [],
+   "plain_english": "Dismissal of the deity and the fire in the pit is not prescribed under the former rule."
+  },
+  {
+   "verse": 2823,
+   "rows": [
+    {
+     "surface": "śāntiḥ",
+     "gloss": "pacification",
+     "grounds": "ritual category",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāravyātā",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śānti+homaḥ",
+     "gloss": "pacification-rite",
+     "grounds": "fire offering for pacification",
+     "morph": "compound = śānti+homaḥ"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "injunction",
+     "morph": "3.sg.pass.pres + dhā"
+    }
+   ],
+   "question": "How is the pacification rite formally declared and prescribed?",
+   "premises": [
+    "Pacification is thus declared",
+    "The pacification fire rite is the subject",
+    "It is prescribed"
+   ],
+   "inference": "Thus pacification is declared, and the pacification fire rite is prescribed.",
+   "uncertainties": [
+    "samāravyātā appears as a non-standard form; taken as declared"
+   ],
+   "plain_english": "Thus pacification is declared, and the pacification fire rite is prescribed."
+  },
+  {
+   "verse": 2824,
+   "rows": [
+    {
+     "surface": "śubha+āśāsu",
+     "gloss": "in-auspicious-quarters",
+     "grounds": "auspicious directions",
+     "morph": "compound = śubha+āśāsu"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agni+deśe",
+     "gloss": "in-fire-direction",
+     "grounds": "southeast direction",
+     "morph": "compound = agni+deśe"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍape",
+     "gloss": "in-pavilion",
+     "grounds": "ritual structure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samalaṃkṛte",
+     "gloss": "well-adorned",
+     "grounds": "decorated",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In what locations may the well-adorned pavilion for the rite be situated?",
+   "premises": [
+    "Auspicious quarters are suitable locations",
+    "The fire direction is a suitable location",
+    "The pavilion must be well adorned"
+   ],
+   "inference": "The rite may be performed in a well-adorned pavilion in auspicious quarters or in the fire direction.",
+   "uncertainties": [],
+   "plain_english": "It may be done in a well-adorned pavilion in auspicious quarters or in the direction of fire."
+  }
+ ]
+}

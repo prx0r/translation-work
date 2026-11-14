@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "sa+sūtraṃ",
+     "gloss": "with-thread",
+     "grounds": "sa- prefix indicating accompaniment + sūtra 'thread'; describes an item furnished with thread",
+     "morph": "compound.sa+sūtra.n.acc.sg"
+    },
+    {
+     "surface": "sa+udakaṃ",
+     "gloss": "with-water",
+     "grounds": "sa- prefix indicating accompaniment + udaka 'water'; describes an item furnished with water",
+     "morph": "compound.sa+udaka.n.acc.sg"
+    },
+    {
+     "surface": "kūrca+vastra+hema+ambuja+anvitam",
+     "gloss": "endowed-with-grass-cloth-gold-lotus",
+     "grounds": "compound of kūrca 'kuśa-grass', vastra 'cloth', hema 'gold', ambuja 'lotus' + anvita 'endowed-with'; describes ritual accompaniment",
+     "morph": "compound.kūrca+vastra+hema+ambuja+anvita.n.acc.sg"
+    }
+   ],
+   "question": "Which specific accompaniments must be included in the prepared śānti-homa arrangement?",
+   "premises": [
+    "The arrangement includes an item furnished with thread.",
+    "The arrangement includes an item furnished with water.",
+    "The arrangement is endowed with kuśa-grass, cloth, gold, and lotus."
+   ],
+   "inference": "The śānti-homa setup requires these specified material accompaniments as part of its preparation.",
+   "uncertainties": [
+    "The exact referent furnished with thread and water is not explicitly named in this verse and depends on prior context."
+   ],
+   "plain_english": "It should be provided with thread and water, and endowed with kuśa-grass, cloth, gold, and lotus."
+  }
+ ]
+}
