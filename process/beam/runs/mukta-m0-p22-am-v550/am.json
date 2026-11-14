@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p22",
  "verse": 550,
- "question": "What measure corresponds to the staff length at the pole tip relative to the earth-entered portion?",
+ "question": "What sequential order governs the recitation of the fifty-letter matrix?",
  "premises": [
-  "A portion of the pole is entered into the earth.",
-  "That earth-entered portion constitutes a specific measure.",
-  "The staff length at the pole tip is identified with that measure."
+  "The initial recitation proceeds in natural order.",
+  "A contrasting recitation proceeds in reverse order.",
+  "The reverse recitation follows immediately after the first."
  ],
- "inference": "The length of the staff at the pole's tip is determined by the measure of the portion that has entered the earth.",
- "uncertainties": [
-  "The exact syntactic relation between daṇḍa-agre and yaṣṭi-dairghyakam depends on the broader measurement procedure in surrounding verses."
- ],
- "plain_english": "The measure that has entered the earth is the length of the staff at the tip of the pole."
+ "inference": "The fifty-letter matrix must be recited first in natural order and then immediately in reverse order.",
+ "uncertainties": [],
+ "plain_english": "First in natural order, but then in reverse order immediately after that."
 }

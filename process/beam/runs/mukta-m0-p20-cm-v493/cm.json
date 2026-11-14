@@ -3,29 +3,34 @@
  "verse": 493,
  "rows": [
   {
-   "lemma": "śivasya",
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "kasmaicit",
+   "morph": "m.dat.sg",
+   "grounds": "indefinite recipient"
+  },
+  {
+   "lemma": "pravaktavyaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "prohibition on disclosure"
+  },
+  {
+   "lemma": "yadi+icchet",
+   "morph": "compound yadi+icchet (sandhi), 3.sg.optative active, root iṣ",
+   "grounds": "condition for secrecy"
+  },
+  {
+   "lemma": "śubham",
+   "morph": "n.acc.sg",
+   "grounds": "desired outcome"
+  },
+  {
+   "lemma": "ātmanaḥ",
    "morph": "m.gen.sg",
-   "grounds": "possessor"
-  },
-  {
-   "lemma": "pādau",
-   "morph": "m.acc.du",
-   "grounds": "objects represented"
-  },
-  {
-   "lemma": "pūjyau",
-   "morph": "m.nom.du.gerundive √pūj",
-   "grounds": "prescriptive gerundive"
-  },
-  {
-   "lemma": "pāduke",
-   "morph": "f.nom.du",
-   "grounds": "objects of worship"
-  },
-  {
-   "lemma": "vāmadakṣiṇau",
-   "morph": "compound+m.nom.du",
-   "grounds": "compound: vāma+dakṣiṇau; qualifies sandals/feet"
+   "grounds": "beneficiary of the good"
   }
  ]
 }

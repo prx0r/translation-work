@@ -3,29 +3,39 @@
  "verse": 496,
  "rows": [
   {
-   "lemma": "pādukā",
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "consequence of prior practice"
+  },
+  {
+   "lemma": "siddhaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "resulting state"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.optative active, root bhū",
+   "grounds": "resultative verb"
+  },
+  {
+   "lemma": "mantraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject that becomes accomplished"
+  },
+  {
+   "lemma": "vidyā",
    "morph": "f.nom.sg",
-   "grounds": "subject in the pair context"
+   "grounds": "additional subject that becomes accomplished"
   },
   {
-   "lemma": "dvitaye",
-   "morph": "n.loc.sg",
-   "grounds": "context of two items"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "pūjyam",
-   "morph": "n.nom.sg.gerundive √pūj",
-   "grounds": "prescriptive gerundive"
-  },
-  {
-   "lemma": "anyatsarvaṃ",
-   "morph": "compound+n.nom.sg",
-   "grounds": "compound: anyat+sarvam; remaining items"
-  },
-  {
-   "lemma": "samānakam",
-   "morph": "n.nom.sg",
-   "grounds": "indicates equivalence of procedure"
+   "lemma": "kamalānane",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   }
  ]
 }

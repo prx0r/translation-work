@@ -65,17 +65,19 @@ def _eva_window_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
                    a_frag: str, b_frag: str, tag: str) -> tuple[bool, str] | None:
     """The ca+eva convention: T1 writes citation forms (ca, eva) where the
     witness joins them (caiva, via a+e→ai). In spaceless joined strings this
-    surfaces as e~i inside an [aā]eva/[aā]iva window. Accept ONLY inside that
-    window — a bare e/i swap elsewhere stays needs-eyes (iva/eva is a genuine
-    fork: 'like' vs 'indeed'). Returns None when the rule does not apply."""
+    surfaces as e~i inside an [aā]eva/[aā]iva window. Accept ONLY the T1-eva
+    direction (T1 unsandhied, witness joined): the reverse (T1 reading iva
+    where the witness prints uncontracted eva) contradicts the witness.
+    A bare e/i swap elsewhere stays needs-eyes (iva/eva is a genuine fork:
+    'like' vs 'indeed'). Returns None when the rule does not apply."""
     if tag != "replace":
         return None
-    if sorted([a_frag, b_frag]) != ["e", "i"]:
+    if a_frag != "e" or b_frag != "i":
         return None
     # window: 1 char before the op + op + 2 chars after, on each side
     a_win = a_full[max(0, i1 - 1):i2 + 2]
     b_win = b_full[max(0, j1 - 1):j2 + 2]
-    if sorted([a_win, b_win]) in (["aeva", "aiva"], ["āeva", "āiva"]):
+    if (a_win, b_win) in (("aeva", "aiva"), ("āeva", "āiva")):
         return True, "ca+eva convention"
     return None
 
@@ -83,11 +85,12 @@ def _eva_window_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
 def _iti_window_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
                    a_frag: str, b_frag: str, tag: str) -> tuple[bool, str] | None:
     """ā+iti→eti joint: T1 splits (jātā + iti), witness joins (jāteti).
-    Accept a single-char ā~e swap ONLY when both sides are immediately
-    followed by 'ti'. Anything else stays needs-eyes."""
+    Accept ONLY the T1-ā direction with 'ti' following on both sides.
+    The reverse (T1 contracting where the witness prints hiatus) contradicts
+    the witness. Anything else stays needs-eyes."""
     if tag != "replace":
         return None
-    if sorted([a_frag, b_frag]) != ["e", "ā"]:
+    if a_frag != "ā" or b_frag != "e":
         return None
     if a_full[i2:i2 + 2] == "ti" and b_full[j2:j2 + 2] == "ti":
         return True, "ā+iti→eti joint"
@@ -97,11 +100,12 @@ def _iti_window_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
 def _visarga_palatal_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
                         a_frag: str, b_frag: str, tag: str) -> tuple[bool, str] | None:
     """Visarga→ś before palatals: T1 citation -aḥ + ca/śa vs witness -aś+ca.
-    Accept ḥ~ś ONLY when the following char is identical on both sides and a
-    palatal (c/ś/j)."""
+    Accept ONLY the T1-ḥ direction with an identical following palatal
+    (c/ś/j) on both sides. The reverse (T1 sandhied where the witness
+    prints visarga) contradicts the witness."""
     if tag != "replace":
         return None
-    if sorted([a_frag, b_frag]) != ["ś", "ḥ"]:
+    if a_frag != "ḥ" or b_frag != "ś":
         return None
     nxt_a = a_full[i2:i2 + 1]
     nxt_b = b_full[j2:j2 + 1]

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p20",
  "verse": 481,
- "question": "Which musical tālas are assigned to the bull and to fire in the procession?",
+ "question": "Where are all the epics and puranas located in this vision?",
  "premises": [
-  "The bull has the brahma-tāla.",
-  "Fire has the bhṛṃgiṇī tāla.",
-  "These assignments are prescribed."
+  "All epics and puranas are named",
+  "They are situated in the tree"
  ],
- "inference": "The brahma-tāla belongs to the bull, while the bhṛṃgiṇī tāla belongs to fire.",
- "uncertainties": [],
- "plain_english": "The bull should have the brahma-tāla, and fire should have the bhṛṃgiṇī tāla."
+ "inference": "All the epics and puranas are situated within the tree.",
+ "uncertainties": [
+  "Agreement between plural subject and singular compound predicate is taken as collective location."
+ ],
+ "plain_english": "All the epics and puranas are situated in the tree."
 }

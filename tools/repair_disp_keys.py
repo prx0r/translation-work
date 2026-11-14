@@ -44,21 +44,30 @@ def owners() -> dict[str, list[str]]:
     return o
 
 
+def is_mine(note) -> bool:
+    """Only dispositions recorded by this wave (2026-11-14 sandhi audit,
+    including the hand-verified sivastotravali s01/s02/s03 from the same
+    day). Pre-existing entries belong to other assessors — never touch."""
+    return isinstance(note, str) and "2026-11-14" in note
+
+
 def classify_verse(work: str, song: str, verse: int):
-    """Independent verdict for one verse (ignores proof state)."""
+    """Independent verdict for one verse (ignores proof state).
+    Returns (verdict, detail, ratio-or-'' )."""
     try:
         src, t1 = AA.load_pair(work, song)
     except Exception as e:  # noqa: BLE001
-        return ("load-error", str(e)[:120])
+        return ("load-error", str(e)[:120], "")
     a = "".join(t1.get(verse, []))
     b = "".join(AA._clean(src.get(verse, [])))
     if not a:
-        return ("no-t1", "")
+        return ("no-t1", "", "")
     r = difflib.SequenceMatcher(None, AA.P.deparen(a),
                                 AA.P.deparen(b)).ratio()
     if r >= 0.90:
-        return ("stale-pass", f"ratio={r:.3f}, no disposition needed")
-    return AA.classify(AA.P.deparen(a), AA.P.deparen(b)) + (r,)
+        return ("stale-pass", f"ratio={r:.3f}, no disposition needed", r)
+    v, note = AA.classify(AA.P.deparen(a), AA.P.deparen(b))
+    return (v, note, r)
 
 
 def main() -> int:
@@ -69,9 +78,15 @@ def main() -> int:
     own = owners()
     decisions = []  # (key, work, verse, action, detail)
     newd: dict = {}
+    # Carry ALL pre-existing entries through byte-identical.
     for song in sorted(disp):
         for v, note in disp[song].items():
-            if not isinstance(note, str):
+            if not is_mine(note):
+                newd.setdefault(song, {})[str(v)] = note
+    # Re-verify and re-key only this wave's entries.
+    for song in sorted(disp):
+        for v, note in disp[song].items():
+            if not is_mine(note):
                 continue
             verse = int(v)
             ws = sorted(own.get(song, []))
@@ -81,33 +96,28 @@ def main() -> int:
                     decisions.append((song, "?", v, "ORPHAN-KEY",
                                       "no work has this song; dropping"))
                     continue
-                verdict = classify_verse(w, song, verse)
-                if verdict[0] == "sandhi-only":
-                    newd.setdefault(song, {})[str(verse)] = (
-                        note if "2026-11-14" not in note else note)
-                    # refresh note to current classifier wording
-                    newd[song][str(verse)] = verdict[1]
-                    decisions.append((song, w, v, "keep",
-                                      verdict[1][:70]))
-                elif verdict[0] == "stale-pass":
-                    decisions.append((song, w, v, "drop-stale",
-                                      verdict[1]))
+                verdict, detail, r = classify_verse(w, song, verse)
+                if verdict == "sandhi-only":
+                    newd.setdefault(song, {})[str(verse)] = detail
+                    decisions.append((song, w, v, "keep", detail[:70]))
+                elif verdict == "stale-pass":
+                    decisions.append((song, w, v, "drop-stale", detail))
                 else:
                     decisions.append((song, w, v, "FLAG-NEEDS-EYES",
-                                      f"{verdict[0]} :: {verdict[1][:100] if len(verdict)>1 else ''}"))
+                                      f"{verdict} :: {str(detail)[:100]}"))
             else:
                 for w in ws:
-                    verdict = classify_verse(w, song, verse)
-                    if verdict[0] == "sandhi-only":
-                        newd.setdefault(f"{w}:{song}", {})[str(verse)] = verdict[1]
+                    verdict, detail, r = classify_verse(w, song, verse)
+                    if verdict == "sandhi-only":
+                        newd.setdefault(f"{w}:{song}", {})[str(verse)] = detail
                         decisions.append((f"{w}:{song}", w, v, "move",
-                                          verdict[1][:70]))
-                    elif verdict[0] == "stale-pass":
+                                          detail[:70]))
+                    elif verdict == "stale-pass":
                         decisions.append((f"{w}:{song}", w, v, "drop-stale",
-                                          verdict[1]))
+                                          detail))
                     else:
                         decisions.append((f"{w}:{song}", w, v, "FLAG-NEEDS-EYES",
-                                          f"{verdict[0]} :: {verdict[1][:100] if len(verdict)>1 else ''}"))
+                                          f"{verdict} :: {str(detail)[:100]}"))
     from collections import Counter
     print("decisions:", dict(Counter(d[3] for d in decisions)))
     for key, w, v, what, det in decisions:
