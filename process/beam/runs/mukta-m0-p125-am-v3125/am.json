@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3125,
- "question": "What reward follows from performing worship on the fourteenth lunar day?",
+ "question": "How does one obtain victory after striking enemies while remembering?",
  "premises": [
-  "Worship should be performed on the fourteenth lunar day.",
-  "Ritual worship produces a post-ritual consequence for the worshipper.",
-  "The stated consequence is honor in the world of Śiva."
+  "striking enemies thus precedes victory",
+  "remembering accompanies the striking",
+  "victory is obtained afterward"
  ],
- "inference": "Therefore, worship on the fourteenth lunar day results in being honored in Śiva's world.",
- "uncertainties": [],
- "plain_english": "And one should worship on the fourteenth day; thereby one is honored in the world of Śiva."
+ "inference": "Victory follows from striking enemies while remembering.",
+ "uncertainties": [
+  "exact sandhi segmentation of praharantīstathārātīn"
+ ],
+ "plain_english": "Striking the enemies thus and remembering, one obtains victory."
 }
