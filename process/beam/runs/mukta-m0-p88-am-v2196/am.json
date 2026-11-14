@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2196,
- "question": "What modification is announced for a shrine facing westward?",
+ "question": "What combined quantity is indicated by arrow-numbered thousands and sage-numbered hundreds?",
  "premises": [
-  "The context is a west-facing shrine.",
-  "A slight difference is to be stated.",
-  "The speaker declares this modification."
+  "Thousands numbered by arrows are specified.",
+  "Hundreds numbered by sages are specified.",
+  "Both quantities are given together."
  ],
- "inference": "A slight difference is declared for the case of a west-facing shrine.",
- "uncertainties": [],
- "plain_english": "In a west-facing shrine, I shall speak of a slight difference."
+ "inference": "The specified quantity is five thousand and seven hundred.",
+ "uncertainties": [
+  "The symbolic numeric values assume conventional associations (arrows as five, sages as seven)."
+ ],
+ "plain_english": "There are five thousand and seven hundred."
 }

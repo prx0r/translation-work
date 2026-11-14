@@ -1,0 +1,863 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2176,
+   "rows": [
+    {
+     "surface": "nakrakumbhāvuttarato",
+     "gloss": "crocodile-and-pot-to-north",
+     "grounds": "compound with directional suffix: nakra-kumbhau + uttaratas",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "mīnamīśe",
+     "gloss": "fish-in-northeast",
+     "grounds": "mīnam in īśa direction; sandhi/contextual locative sense",
+     "morph": "compound/loc.sg.nt."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "situated",
+     "grounds": "past participle indicating placement",
+     "morph": "n.nom.sg.nt. ppp. sam-sthā"
+    }
+   ],
+   "question": "Which directional positions do the crocodile-pot and fish figures occupy in the ritual layout?",
+   "premises": [
+    "The crocodile and pot are placed to the north.",
+    "The fish is situated in the northeast direction.",
+    "These placements are specified as established positions."
+   ],
+   "inference": "The ritual layout assigns the crocodile-pot to the north and the fish to the northeast.",
+   "uncertainties": [
+    "The exact identity or function of nakrakumbha as a single or paired figure is not fully explicit."
+   ],
+   "plain_english": "The crocodile and pot are placed to the north, while the fish is situated in the northeast."
+  },
+  {
+   "verse": 2177,
+   "rows": [
+    {
+     "surface": "yāmyasaumyakarau",
+     "gloss": "south-and-north-hands",
+     "grounds": "dual compound: yāmya + saumya + kara",
+     "morph": "compound m.nom.du."
+    },
+    {
+     "surface": "kuṇḍamudaraṃ",
+     "gloss": "fire-pit-belly",
+     "grounds": "compound indicating the interior or belly of the fire pit",
+     "morph": "compound n.nom.sg."
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative indicating western position",
+     "morph": "m./n.loc.sg."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation of arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the south-north hands and the fire-pit belly arranged in the western direction?",
+   "premises": [
+    "The south and north hands are specified as elements of the arrangement.",
+    "The belly of the fire pit is mentioned in this context.",
+    "These are placed likewise in the west."
+   ],
+   "inference": "The south-north hands and the fire-pit belly are correspondingly arranged in the western part.",
+   "uncertainties": [
+    "The precise referent of 'hands' in this ritual-geometric context is somewhat unclear."
+   ],
+   "plain_english": "Likewise, the south and north hands and the belly of the fire pit are placed in the west."
+  },
+  {
+   "verse": 2178,
+   "rows": [
+    {
+     "surface": "aratnimātraṃ",
+     "gloss": "cubit-measure",
+     "grounds": "compound indicating a measure of one cubit",
+     "morph": "compound n.nom.sg."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śate",
+     "gloss": "in-hundred",
+     "grounds": "locative referring to a hundred oblations",
+     "morph": "n.loc.sg."
+    },
+    {
+     "surface": "sahasramitahomake",
+     "gloss": "in-thousand-measured-oblation",
+     "grounds": "compound: sahasra-mita-homaka, oblation measured by a thousand",
+     "morph": "compound m./n.loc.sg."
+    }
+   ],
+   "question": "What fire-pit measure is prescribed for oblations numbering one hundred or one thousand?",
+   "premises": [
+    "A measure of one cubit is specified.",
+    "The case of one hundred oblations is mentioned.",
+    "The case of a thousand-measured oblation is also included."
+   ],
+   "inference": "For oblations of one hundred or one thousand, the fire pit should measure one cubit.",
+   "uncertainties": [],
+   "plain_english": "For a hundred oblations or for a thousand-measured oblation, the measure is one cubit."
+  },
+  {
+   "verse": 2179,
+   "rows": [
+    {
+     "surface": "caturhastamitaṃ",
+     "gloss": "four-cubit-measured",
+     "grounds": "compound indicating a measure of four cubits",
+     "morph": "compound n.nom.sg."
+    },
+    {
+     "surface": "lakṣe",
+     "gloss": "in-hundred-thousand",
+     "grounds": "locative referring to one hundred thousand oblations",
+     "morph": "m./n.loc.sg."
+    },
+    {
+     "surface": "ṣaṭkaraṃ",
+     "gloss": "six-cubit",
+     "grounds": "compound indicating six cubits or hands",
+     "morph": "compound n.nom.sg."
+    },
+    {
+     "surface": "daśalakṣake",
+     "gloss": "in-ten-hundred-thousand",
+     "grounds": "compound locative referring to ten hundred thousand oblations",
+     "morph": "compound m./n.loc.sg."
+    }
+   ],
+   "question": "What fire-pit measures correspond to oblations of one hundred thousand and ten hundred thousand?",
+   "premises": [
+    "A four-cubit measure is assigned to one hundred thousand oblations.",
+    "A six-cubit measure is assigned to ten hundred thousand oblations.",
+    "The measures scale with the number of oblations."
+   ],
+   "inference": "The fire pit should be four cubits for one lakh and six cubits for ten lakhs of oblations.",
+   "uncertainties": [],
+   "plain_english": "For one hundred thousand oblations the measure is four cubits, and for ten hundred thousand it is six cubits."
+  },
+  {
+   "verse": 2180,
+   "rows": [
+    {
+     "surface": "tathaikahastamārabhya",
+     "gloss": "likewise-beginning-from-one-cubit",
+     "grounds": "compound gerundive phrase: tathā + eka-hastam + ārabhya",
+     "morph": "compound+indecl. gerund ā-rabh"
+    },
+    {
+     "surface": "daśahastaṃ",
+     "gloss": "up-to-ten-cubits",
+     "grounds": "compound indicating the upper limit of ten cubits",
+     "morph": "compound n.acc.sg."
+    },
+    {
+     "surface": "vivarddhayet",
+     "gloss": "one-should-increase",
+     "grounds": "optative prescribing gradual increase",
+     "morph": "3.sg.opt.act. vi-vṛdh"
+    }
+   ],
+   "question": "Over what range should the fire-pit measurement be progressively increased?",
+   "premises": [
+    "The increase begins from one cubit.",
+    "The increase extends up to ten cubits.",
+    "The practitioner is instructed to increase the measure."
+   ],
+   "inference": "The fire-pit size should be increased progressively from one cubit up to ten cubits.",
+   "uncertainties": [],
+   "plain_english": "Likewise, beginning from one cubit, one should increase the measure up to ten cubits."
+  },
+  {
+   "verse": 2181,
+   "rows": [
+    {
+     "surface": "dvihastasya",
+     "gloss": "of-two-cubit",
+     "grounds": "compound genitive qualifying the fire pit",
+     "morph": "compound m./n.gen.sg."
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "of-fire-pit",
+     "grounds": "genitive noun denoting the fire pit",
+     "morph": "m./n.gen.sg."
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating consequence or sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvaiguṇyamiṣyate",
+     "gloss": "doubling-is-desired",
+     "grounds": "abstract noun with passive verb expressing prescribed doubling",
+     "morph": "n.nom.sg. + 3.sg.pres.pass. iṣ"
+    }
+   ],
+   "question": "What proportional rule is prescribed for a fire pit measuring two cubits?",
+   "premises": [
+    "A fire pit of two cubits is taken as reference.",
+    "A doubling is stated as desired or prescribed.",
+    "This follows from the preceding scaling rule."
+   ],
+   "inference": "For a two-cubit fire pit, a doubling rule is prescribed.",
+   "uncertainties": [
+    "What exactly is doubled (area, dimension, or another parameter) is not explicitly stated."
+   ],
+   "plain_english": "Then, for a fire pit of two cubits, a doubling is prescribed."
+  },
+  {
+   "verse": 2182,
+   "rows": [
+    {
+     "surface": "śatāni",
+     "gloss": "hundreds",
+     "grounds": "plural noun indicating hundreds",
+     "morph": "n.nom.pl."
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying hundreds",
+     "morph": "(indecl. numeral)"
+    },
+    {
+     "surface": "vidyante",
+     "gloss": "are-present",
+     "grounds": "verb indicating existence or count",
+     "morph": "3.pl.pres.pass. vid"
+    },
+    {
+     "surface": "tanmūlaṃ",
+     "gloss": "its-root",
+     "grounds": "compound referring to the square root of that quantity",
+     "morph": "compound n.nom.sg."
+    },
+    {
+     "surface": "brahmasūtrakam",
+     "gloss": "sacred-cord-measure",
+     "grounds": "compound denoting the brahma-sūtra measurement",
+     "morph": "compound n.nom.sg."
+    }
+   ],
+   "question": "What numerical value and corresponding root define the brahma-sūtra measure in this case?",
+   "premises": [
+    "Five hundreds are stated to be present.",
+    "A root of that quantity is identified.",
+    "This root is called the brahma-sūtra measure."
+   ],
+   "inference": "The brahma-sūtra measure is defined as the root corresponding to five hundred units.",
+   "uncertainties": [
+    "The specific unit of the five hundred is not explicitly named in this verse."
+   ],
+   "plain_english": "There are five hundred units, and their root is the brahma-sūtra measure."
+  },
+  {
+   "verse": 2183,
+   "rows": [
+    {
+     "surface": "aṃgulāni",
+     "gloss": "finger-units",
+     "grounds": "plural noun denoting angular or finger measures",
+     "morph": "n.nom.pl."
+    },
+    {
+     "surface": "dvipañcāśadekādaśaśatāni",
+     "gloss": "eleven-hundred-fifty-two",
+     "grounds": "compound numeral: dvipañcāśat + ekādaśa-śatāni",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding to the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many finger-units are specified in this measurement enumeration?",
+   "premises": [
+    "Finger-units are the measure being counted.",
+    "The quantity given is eleven hundred and fifty-two.",
+    "The enumeration continues with a conjunction."
+   ],
+   "inference": "This step specifies eleven hundred and fifty-two finger-units.",
+   "uncertainties": [],
+   "plain_english": "And there are eleven hundred and fifty-two finger-units."
+  },
+  {
+   "verse": 2184,
+   "rows": [
+    {
+     "surface": "catasraśca",
+     "gloss": "and-four",
+     "grounds": "numeral with conjunction; sandhi catasraḥ + ca",
+     "morph": "f.nom.pl. + (indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yūkā",
+     "gloss": "lice-units",
+     "grounds": "small linear measure unit",
+     "morph": "f.nom.pl."
+    },
+    {
+     "surface": "yavāḥ",
+     "gloss": "barley-units",
+     "grounds": "linear measure units of barley grains",
+     "morph": "m.nom.pl."
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral qualifying barley units",
+     "morph": "(indecl. numeral)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "emphatic particle of continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which smaller sub-units are added to refine the stated measurement?",
+   "premises": [
+    "Four lice-units are included.",
+    "Seven barley-units are included.",
+    "These additions continue the measurement specification."
+   ],
+   "inference": "The measurement is refined by adding four lice-units and seven barley-units.",
+   "uncertainties": [],
+   "plain_english": "And likewise there are four lice-units and seven barley-units."
+  },
+  {
+   "verse": 2185,
+   "rows": [
+    {
+     "surface": "saptadaśaśatānyaṣṭāviṃśatistvaṃgulāni",
+     "gloss": "seventeen-hundred-twenty-eight-finger-units",
+     "grounds": "compound numeral with aṃgulāni: saptadaśa-śatāni + aṣṭāviṃśatiḥ + aṃgulāni",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What total count of finger-units is given in this measurement step?",
+   "premises": [
+    "The count includes seventeen hundreds.",
+    "Twenty-eight additional finger-units are included.",
+    "The total is expressed as finger-units."
+   ],
+   "inference": "This step specifies one thousand seven hundred and twenty-eight finger-units.",
+   "uncertainties": [],
+   "plain_english": "And there are one thousand seven hundred and twenty-eight finger-units."
+  },
+  {
+   "verse": 2186,
+   "rows": [
+    {
+     "surface": "tanmūlamaṃgulānyekacatvāriṃśaccaturyavāḥ",
+     "gloss": "its-root-forty-one-finger-units-four-barley-units",
+     "grounds": "compound expressing root measure: tan-mūlam + aṃgulāni + ekacatvāriṃśat + catur-yavāḥ",
+     "morph": "compound n.nom.pl./m.nom.pl."
+    }
+   ],
+   "question": "What root measure in finger-units and barley-units corresponds to the previous quantity?",
+   "premises": [
+    "A root of the previous quantity is stated.",
+    "The root includes forty-one finger-units.",
+    "The root also includes four barley-units."
+   ],
+   "inference": "The corresponding root measure is forty-one finger-units and four barley-units.",
+   "uncertainties": [],
+   "plain_english": "Its root is forty-one finger-units and four barley-units."
+  },
+  {
+   "verse": 2187,
+   "rows": [
+    {
+     "surface": "caturaṃgulayuktāni",
+     "gloss": "joined-with-four-finger-units",
+     "grounds": "compound adjective: catur-aṃgula-yuktāni",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "trayoviṃśacchatāni",
+     "gloss": "twenty-three-hundreds",
+     "grounds": "compound numeral: trayoviṃśat + śatāni",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity is specified together with an additional four finger-units?",
+   "premises": [
+    "Twenty-three hundreds are stated.",
+    "Four finger-units are added to them.",
+    "The expression forms a combined measure."
+   ],
+   "inference": "The specified quantity is two thousand three hundred together with four finger-units.",
+   "uncertainties": [
+    "Whether the four finger-units are added to the total or form a separate component is slightly ambiguous."
+   ],
+   "plain_english": "And there are twenty-three hundreds together with four finger-units."
+  },
+  {
+   "verse": 2188,
+   "rows": [
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "noun denoting the square root measure",
+     "morph": "n.nom.sg."
+    },
+    {
+     "surface": "tasyāṃgulānyaṣṭacatvāriṃśanmitaṃ",
+     "gloss": "its-measure-forty-eight-finger-units",
+     "grounds": "compound: tasya + aṃgulāni + aṣṭacatvāriṃśat-mitam",
+     "morph": "compound n.nom.sg."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing resulting measure",
+     "morph": "3.sg.opt.act. bhū"
+    }
+   ],
+   "question": "What root value in finger-units results from the preceding quantity?",
+   "premises": [
+    "A root of that quantity is sought.",
+    "The result is measured in finger-units.",
+    "The value is forty-eight finger-units."
+   ],
+   "inference": "The root of that quantity should be forty-eight finger-units.",
+   "uncertainties": [],
+   "plain_english": "Its root should be forty-eight finger-units."
+  },
+  {
+   "verse": 2189,
+   "rows": [
+    {
+     "surface": "dvisahasraṃ",
+     "gloss": "two-thousand",
+     "grounds": "compound numeral",
+     "morph": "compound n.nom.sg."
+    },
+    {
+     "surface": "śatānyaṣṭāvaśītirbījamucyate",
+     "gloss": "eight-hundred-eighty-is-called-seed",
+     "grounds": "compound: śatāni + aṣṭāśītiḥ + bījam + ucyate; sandhi aśītirbījam",
+     "morph": "compound n.nom.pl. + f.nom.sg. + n.nom.sg. + 3.sg.pres.pass. vac"
+    }
+   ],
+   "question": "What numerical value is designated as the seed in this calculation?",
+   "premises": [
+    "Two thousand is stated.",
+    "Eight hundred and eighty is added.",
+    "This total is called the seed."
+   ],
+   "inference": "The value two thousand eight hundred and eighty is designated as the seed.",
+   "uncertainties": [],
+   "plain_english": "Two thousand eight hundred and eighty is called the seed."
+  },
+  {
+   "verse": 2190,
+   "rows": [
+    {
+     "surface": "tanmūlamaṣṭapañcāśadaṃgulāni",
+     "gloss": "its-root-fifty-eight-finger-units",
+     "grounds": "compound: tan-mūlam + aṣṭapañcāśat + aṃgulāni",
+     "morph": "compound n.nom.sg./n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍyavā",
+     "gloss": "six-barley-units",
+     "grounds": "compound numeral: ṣaṭ + yavāḥ with sandhi",
+     "morph": "compound m.nom.pl."
+    }
+   ],
+   "question": "What root measure in finger-units and barley-units corresponds to the stated seed value?",
+   "premises": [
+    "A root of that seed value is given.",
+    "The root includes fifty-eight finger-units.",
+    "The root includes six barley-units."
+   ],
+   "inference": "The root of the seed value is fifty-eight finger-units and six barley-units.",
+   "uncertainties": [],
+   "plain_english": "Its root is fifty-eight finger-units and six barley-units."
+  },
+  {
+   "verse": 2191,
+   "rows": [
+    {
+     "surface": "vedasaṃkhyāsahasrāṇi",
+     "gloss": "veda-number-thousands",
+     "grounds": "compound numeral: veda-saṃkhyā (four) + sahasrāṇi",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "dvāviṃśatsahitāni",
+     "gloss": "joined-with-twenty-two",
+     "grounds": "compound: dvāviṃśat + sahitāni",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What total quantity is expressed by four thousands together with twenty-two?",
+   "premises": [
+    "Thousands numbered by the Vedas are specified.",
+    "Twenty-two is added to them.",
+    "The expression gives a combined total."
+   ],
+   "inference": "The specified quantity is four thousand and twenty-two.",
+   "uncertainties": [],
+   "plain_english": "There are four thousand together with twenty-two."
+  },
+  {
+   "verse": 2192,
+   "rows": [
+    {
+     "surface": "brahmasūtraṃ",
+     "gloss": "sacred-cord-measure",
+     "grounds": "noun denoting the brahma-sūtra",
+     "morph": "n.nom.sg."
+    },
+    {
+     "surface": "tataścāṣṭahastakṣetrāṃgulāni",
+     "gloss": "then-eight-cubit-field-finger-units",
+     "grounds": "compound: tataḥ + ca + aṣṭa-hasta-kṣetra-aṃgulāni; sandhi tataśca",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurement context is introduced for the brahma-sūtra in an eight-cubit field?",
+   "premises": [
+    "The brahma-sūtra is the subject.",
+    "An eight-cubit field is specified.",
+    "Finger-units of that field are introduced."
+   ],
+   "inference": "The brahma-sūtra is next related to the finger-units of an eight-cubit field.",
+   "uncertainties": [
+    "The exact syntactic completion of this measurement statement continues beyond this verse."
+   ],
+   "plain_english": "Then the brahma-sūtra and the finger-units of an eight-cubit field are given."
+  },
+  {
+   "verse": 2193,
+   "rows": [
+    {
+     "surface": "aṃgulāni",
+     "gloss": "finger-units",
+     "grounds": "plural noun denoting finger measures",
+     "morph": "n.nom.pl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaṣaṣṭiḥ",
+     "gloss": "sixty-seven",
+     "grounds": "numeral",
+     "morph": "f.nom.sg."
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral qualifying barley units",
+     "morph": "(indecl. numeral)"
+    },
+    {
+     "surface": "yavāḥ",
+     "gloss": "barley-units",
+     "grounds": "plural noun denoting barley-grain measures",
+     "morph": "m.nom.pl."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating further addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional finger-units and barley-units are specified in this step of the calculation?",
+   "premises": [
+    "Sixty-seven finger-units are stated.",
+    "Seven barley-units are stated.",
+    "The enumeration is continued again."
+   ],
+   "inference": "This step adds sixty-seven finger-units and seven barley-units.",
+   "uncertainties": [],
+   "plain_english": "Likewise there are sixty-seven finger-units and again seven barley-units."
+  },
+  {
+   "verse": 2194,
+   "rows": [
+    {
+     "surface": "śatāni",
+     "gloss": "hundreds",
+     "grounds": "plural noun indicating hundreds",
+     "morph": "n.nom.pl."
+    },
+    {
+     "surface": "tvekapañcāśaccaturbhiradhikāni",
+     "gloss": "but-fifty-one-increased-by-four",
+     "grounds": "compound: tu + ekapañcāśat + caturbhiḥ + adhikāni; sandhi tveka",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity of hundreds increased by four is stated in this measurement?",
+   "premises": [
+    "Hundreds are being counted.",
+    "The base count is fifty-one hundreds.",
+    "Four more are added to that count."
+   ],
+   "inference": "The stated quantity is fifty-one hundreds increased by four.",
+   "uncertainties": [
+    "Whether the four are added as units or as another hundred-based increment is slightly unclear."
+   ],
+   "plain_english": "And there are fifty-one hundreds increased by four."
+  },
+  {
+   "verse": 2195,
+   "rows": [
+    {
+     "surface": "dvāsaptatiraṃgulāni",
+     "gloss": "seventy-two-finger-units",
+     "grounds": "compound numeral: dvāsaptati + aṃgulāni",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "mūlamasya",
+     "gloss": "its-root",
+     "grounds": "noun with genitive pronoun referring to the root of that quantity",
+     "morph": "n.nom.sg. + m./n.gen.sg."
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle indicating authoritative statement",
+     "morph": "n.nom.sg. ppp. pra-kīrt"
+    }
+   ],
+   "question": "What root measure is declared for the previously stated quantity?",
+   "premises": [
+    "A root of that quantity is under discussion.",
+    "The measure is given in finger-units.",
+    "Seventy-two finger-units are declared as the root."
+   ],
+   "inference": "The root of that quantity is declared to be seventy-two finger-units.",
+   "uncertainties": [],
+   "plain_english": "Its root is declared to be seventy-two finger-units."
+  },
+  {
+   "verse": 2196,
+   "rows": [
+    {
+     "surface": "sahasrāṇīṣusaṃkhyāni",
+     "gloss": "arrow-number-thousands",
+     "grounds": "compound numeral: iṣu-saṃkhyāni (five) + sahasrāṇi; sandhi sahasrāṇi + iṣu",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "munisaṃkhyaśatāni",
+     "gloss": "sage-number-hundreds",
+     "grounds": "compound numeral: muni-saṃkhya (seven) + śatāni",
+     "morph": "compound n.nom.pl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What combined quantity is indicated by arrow-numbered thousands and sage-numbered hundreds?",
+   "premises": [
+    "Thousands numbered by arrows are specified.",
+    "Hundreds numbered by sages are specified.",
+    "Both quantities are given together."
+   ],
+   "inference": "The specified quantity is five thousand and seven hundred.",
+   "uncertainties": [
+    "The symbolic numeric values assume conventional associations (arrows as five, sages as seven)."
+   ],
+   "plain_english": "There are five thousand and seven hundred."
+  },
+  {
+   "verse": 2197,
+   "rows": [
+    {
+     "surface": "vardhayet",
+     "gloss": "one-should-increase",
+     "grounds": "optative prescribing increase",
+     "morph": "3.sg.opt.act. vṛdh"
+    },
+    {
+     "surface": "pañcasaptatyādhikaiḥ",
+     "gloss": "with-added-seventy-five",
+     "grounds": "compound instrumental: pañcasaptatyā + adhikaiḥ",
+     "morph": "compound m./n.ins.pl."
+    },
+    {
+     "surface": "saptayavaistathā",
+     "gloss": "with-seven-barley-units-likewise",
+     "grounds": "compound: sapta-yavaiḥ + tathā",
+     "morph": "compound m.ins.pl. + (indecl.)"
+    }
+   ],
+   "question": "By what additional amounts should the measurement be increased in this step?",
+   "premises": [
+    "An increase is prescribed.",
+    "An addition of seventy-five is specified.",
+    "Seven barley-units are likewise added."
+   ],
+   "inference": "The measurement should be increased by seventy-five and by seven barley-units.",
+   "uncertainties": [
+    "The unit of the seventy-five increment is not explicitly stated in this verse."
+   ],
+   "plain_english": "One should increase it by seventy-five and likewise by seven barley-units."
+  },
+  {
+   "verse": 2198,
+   "rows": [
+    {
+     "surface": "atiyatnaṃ",
+     "gloss": "great-effort",
+     "grounds": "compound noun indicating intense care",
+     "morph": "compound m.acc.sg."
+    },
+    {
+     "surface": "samāsthāya",
+     "gloss": "having-undertaken",
+     "grounds": "gerund expressing prior application of effort",
+     "morph": "indecl. gerund sam-ā-sthā"
+    },
+    {
+     "surface": "kuṇḍānyāracayet",
+     "gloss": "one-should-construct-fire-pits",
+     "grounds": "kuṇḍāni + āracayet; sandhi kuṇḍāni + ā",
+     "morph": "n.acc.pl. + 3.sg.opt.act. ā-rac"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-person",
+     "grounds": "noun denoting a skilled or discerning practitioner",
+     "morph": "m.nom.sg."
+    }
+   ],
+   "question": "How should a wise practitioner proceed when constructing the ritual fire pits?",
+   "premises": [
+    "Great effort must be undertaken.",
+    "The fire pits are to be constructed.",
+    "The agent is described as wise."
+   ],
+   "inference": "A wise practitioner should construct the fire pits with great care and effort.",
+   "uncertainties": [],
+   "plain_english": "Having undertaken great effort, the wise person should construct the fire pits."
+  },
+  {
+   "verse": 2199,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adverb indicating initial step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpramāṇānāṃ",
+     "gloss": "of-their-measures",
+     "grounds": "compound genitive plural: tat + pramāṇānām",
+     "morph": "compound n.gen.pl."
+    },
+    {
+     "surface": "trasareṇuṃ",
+     "gloss": "dust-mote-unit",
+     "grounds": "smallest unit of measure named trasareṇu",
+     "morph": "m.acc.sg."
+    },
+    {
+     "surface": "pracakṣate",
+     "gloss": "they-declare",
+     "grounds": "verb indicating traditional designation",
+     "morph": "3.pl.pres.act. pra-cakṣ"
+    }
+   ],
+   "question": "What fundamental unit is declared first among the measures of the fire pits?",
+   "premises": [
+    "The discussion concerns the measures of the fire pits.",
+    "An initial unit is to be identified.",
+    "The trasareṇu is declared as that unit."
+   ],
+   "inference": "The trasareṇu is declared as the first fundamental unit of those measures.",
+   "uncertainties": [],
+   "plain_english": "First, among their measures, they declare the trasareṇu as the fundamental unit."
+  }
+ ]
+}

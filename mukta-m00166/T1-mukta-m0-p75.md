@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[fortune](śrīḥ) [fortune](śrīḥ) [fortune](śrīḥ) [fortune](śrīḥ)
+[fortune](śrīḥ) [prosperity](śrīḥ) [splendor](śrīḥ) [auspiciousness](śrīḥ)
 
 ## mukta-m0-p75-v1852
-[that](sā) [fortune](śrīḥ) [to-someone](kāṃcid) [noble](udāra) [mind](citta) [conduct](carita) [praiseworthy](ślāghyāṃ) [may-give](dadātu) [prosperity](śriyam)
+[she](sā) [fortune](śrīḥ) [some](kāṃcid) [noble+mind+conduct+praiseworthy](udāra+citta+carita+ślāghyāṃ) [may-give](dadātu) [prosperity](śriyam)
 
 ## mukta-m0-p75-v1853
-[hide](kṛtti) [clad](vasanā) [hide](kṛtti) [clad](vasanā)
+[skin+garment-clad](kṛtti+vasanā) [hide-wearing](kṛttivasanā) [skin-clad-goddess](kṛttivasanā) [wearer-of-hide](kṛttivasanā)
 
 ## mukta-m0-p75-v1854
-[that](sā) [hide](kṛtti) [clad](vasanā) [dwelling](vāsaṃ) [may-make](karotu) [my](mama) [in-mind](mānase)
+[she](sā) [skin+garment-clad](kṛtti+vasanā) [dwelling](vāsaṃ) [may-make](karotu) [my](mama) [in-mind](mānase)
 
 ## mukta-m0-p75-v1855
-[skeleton-adorned](kaṅkālī) [skeleton-adorned](kaṅkālī) [skeleton-adorned](kaṅkālī) [skeleton-adorned](kaṅkālī)
+[skeleton-bearing](kaṅkālī) [skeletal-goddess](kaṅkālī) [bearer-of-skeleton](kaṅkālī) [kaṅkālī](kaṅkālī)
 
 ## mukta-m0-p75-v1856
-[skeleton-adorned](kaṅkālī) [this](yaṃ) [fearless](nirbhayaṃ) [me](māṃ) [may-make](karotu)
+[skeleton-bearing](kaṅkālī) [this](iyaṃ) [fearless](nirbhayaṃ) [me](māṃ) [may-make](karotu)
 
 ## mukta-m0-p75-v1857
-[strife](kali) [destroyer](nāśinī) [strife](kali) [destroyer](nāśinī)
+[strife+destroyer](kali+nāśinī) [destroyer-of-kali](kalināśinī) [kali-destroying](kalināśinī) [remover-of-strife](kalināśinī)
 
 ## mukta-m0-p75-v1858
-[if](yadi) [not](na) [may-be](bhavet) [strife](kali) [destroyer](nāśinī) [here](iha) [in-company](saṅge)
+[if](yadi) [not](na) [may-be](bhavet) [strife+destroyer](kali+nāśinī) [here](iha) [in-company](saṅge)
 
 ## mukta-m0-p75-v1859
-[Raktabīja](rakta) [seed](bīja) [slaying](vadha) [elated](uddṛptā)
+[Raktabīja+slaying+elated](raktabīja+vadha+uddṛptā) [exultant-in-Raktabīja's-slaying](raktabījavadhoddṛptā) [proud-of-killing-Raktabīja](raktabījavadhoddṛptā) [Raktabīja-slayer-elated](raktabījavadhoddṛptā)
 
 ## mukta-m0-p75-v1860
-[Raktabīja](rakta) [seed](bīja) [slaying](vadha) [elated](uddṛptā) [triumphs](jayati) [one](ekā) [alone](eva) [she](sā) [twofold](dvidhā)
+[Raktabīja+slaying+elated](raktabīja+vadha+uddṛptā) [triumphs](jayati) [one](ekā) [alone](eva) [she](sā) [twofold](dvidhā)
 
 ## mukta-m0-p75-v1861
-[good-thread](sutantuḥ) [good-thread](sutantuḥ) [good-thread](sutantuḥ) [good-thread](sutantuḥ)
+[good+thread](su+tantuḥ) [having-fine-thread](sutantuḥ) [well-threaded](sutantuḥ) [fine-continuity](sutantuḥ)
 
 ## mukta-m0-p75-v1862
-[wonderful](adbhutaṃ) [world](jagat) [shines](ābhāti) [good-thread](sutantuḥ) [slenderness](tanutāṃ) [intellect](matim)
+[wonderful](adbhutaṃ) [world](jagat) [shines](ābhāti) [good+thread](su+tantuḥ) [slenderness](tanutāṃ) [intellect](matim)
 
 ## mukta-m0-p75-v1863
-[seed](bīja) [lineage](santatiḥ) [seed](bīja) [lineage](santatiḥ)
+[seed+lineage](bīja+santatiḥ) [lineage-of-seeds](bījasantatiḥ) [seed-progeny](bījasantatiḥ) [succession-of-seeds](bījasantatiḥ)
 
 ## mukta-m0-p75-v1864
-[she](sā) [for-prosperity](śriye) [be](astu) [my](mama) [seed](bīja) [lineage](santatiḥ)
+[she](sā) [for-prosperity](śriye) [may-be](astu) [my](mama) [seed+lineage](bīja+santatiḥ)
 
 ## mukta-m0-p75-v1865
-[world](jagat) [life](jīvā) [world](jagat) [life](jīvā)
+[world+life](jagat+jīvā) [life-of-the-world](jagajjīvā) [world-living](jagajjīvā) [universal-life](jagajjīvā)
 
 ## mukta-m0-p75-v1866
-[world](jagat) [life](jīvā) [life](jīvaṃ) [may-reveal](prakaṭayatu) [to-us](naḥ) [Brahman](brahma) [object](viṣayam)
+[world+life](jagat+jīvā) [life](jīvaṃ) [may-reveal](prakaṭayatu) [to-us](naḥ) [Brahman+object](brahma+viṣayam)
 
 ## mukta-m0-p75-v1867
-[world](jagat) [seed](bījā) [world](jagat) [seed](bījā)
+[world+seed](jagat+bījā) [seed-of-the-world](jagadbījā) [world-source](jagadbījā) [universal-seed](jagadbījā)
 
 ## mukta-m0-p75-v1868
-[seed](dbījā) [be](astu) [she](sā) [to-me](me) [victory](vijaya) [giver](pradā) [always](sadā)
+[seed](dbījā) [may-be](astu) [she](sā) [to-me](me) [victory+giving](vijaya+pradā) [always](sadā)
 
 ## mukta-m0-p75-v1869
-[world](jagat) [triad](traya) [welfare](hita) [desiring](aiṣiṇī)
+[three-worlds+welfare+desiring](jagat+traya+hita+eṣiṇī) [desiring-welfare-of-three-worlds](jagattrayahitaiṣiṇī) [seeking-good-of-three-worlds](jagattrayahitaiṣiṇī) [benevolent-to-three-worlds](jagattrayahitaiṣiṇī)
 
 ## mukta-m0-p75-v1870
-[satisfies](tarpayati) [without-interruption](akramaṃ) [she](sā) [this](iyaṃ) [world](jagat) [triad](traya) [welfare](hita) [desiring](aiṣiṇī)
+[satisfies](tarpayati) [without-interruption](akramaṃ) [she](sā) [this](iyaṃ) [three-worlds+welfare+desiring](jagat+traya+hita+eṣiṇī)
 
 ## mukta-m0-p75-v1871
-[gold](cāmīkara) [luster](ruciḥ) [gold](cāmīkara) [luster](ruciḥ)
+[gold+luster](cāmīkara+ruciḥ) [golden-radiance](cāmīkararuciḥ) [gold-colored-splendor](cāmīkararuciḥ) [luster-of-gold](cāmīkararuciḥ)
 
 ## mukta-m0-p75-v1872
-[not](na) [of-mind](cittasya) [for-manifestation](sphūrtyai) [is-capable](prabhavati) [not](na) [gold](cāmīkara) [luster](ruciḥ)
+[not](na) [of-mind](cittasya) [for-illumination](sphūrtyai) [is-capable](prabhavati) [not](na) [gold+luster](cāmīkara+ruciḥ)
 
 ## mukta-m0-p75-v1873
-[lunar](cāndrī) [imperishable](akṣayā) [sixteenth](ṣoḍaśī) [digit](kalā)
+[lunar](cāndrī) [imperishable](akṣayā) [sixteenth](ṣoḍaśī) [digit](kalā) [moonlike-phase](cāndrī) [eternal-part](akṣayā)
 
 ## mukta-m0-p75-v1874
-[by-which](yayā) [this](eṣā) [be](astu) [beneficial](hitā) [lunar](cāndrī) [imperishable](akṣayā) [sixteenth](ṣoḍaśī) [digit](kalā)
+[by-which](yayā) [this](eṣā) [may-be](astu) [beneficial](hitā) [lunar](cāndrī) [imperishable](akṣayā) [sixteenth](ṣoḍaśī) [digit](kalā)
 
 ## mukta-m0-p75-v1875
-[which](yat) [that](tat) [state](pada) [connection](anubandhā)
+[which](yat) [that](tat) [foot+connection](pada+anubandhā) [following-that-state](yattatpadānubandhā) [attached-to-that-foot](yattatpadānubandhā) [seeking-that-abode](yattatpadānubandhā)

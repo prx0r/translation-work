@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2181,
- "question": "What proportional measures are assigned to the lotus height and pericarp rise?",
+ "question": "What proportional rule is prescribed for a fire pit measuring two cubits?",
  "premises": [
-  "The lotus height is specified as four parts.",
-  "The pericarp rise is specified as two parts.",
-  "The two measures are stated together."
+  "A fire pit of two cubits is taken as reference.",
+  "A doubling is stated as desired or prescribed.",
+  "This follows from the preceding scaling rule."
  ],
- "inference": "The lotus height should be four parts and the pericarp rise should be two parts.",
- "uncertainties": [],
- "plain_english": "The lotus height should be four parts, but the rise of the pericarp should be two parts."
+ "inference": "For a two-cubit fire pit, a doubling rule is prescribed.",
+ "uncertainties": [
+  "What exactly is doubled (area, dimension, or another parameter) is not explicitly stated."
+ ],
+ "plain_english": "Then, for a fire pit of two cubits, a doubling is prescribed."
 }

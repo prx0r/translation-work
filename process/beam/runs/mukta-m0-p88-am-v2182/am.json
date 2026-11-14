@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2182,
- "question": "What proportional measures are assigned to the lotus height and the great band?",
+ "question": "What numerical value and corresponding root define the brahma-sūtra measure in this case?",
  "premises": [
-  "The lotus height is specified as five parts.",
-  "The great band is specified with two parts.",
-  "The two measures are stated together."
+  "Five hundreds are stated to be present.",
+  "A root of that quantity is identified.",
+  "This root is called the brahma-sūtra measure."
  ],
- "inference": "The lotus height should be five parts and the great band should have two parts.",
- "uncertainties": [],
- "plain_english": "The lotus height should be five parts, but the great band should be two parts."
+ "inference": "The brahma-sūtra measure is defined as the root corresponding to five hundred units.",
+ "uncertainties": [
+  "The specific unit of the five hundred is not explicitly named in this verse."
+ ],
+ "plain_english": "There are five hundred units, and their root is the brahma-sūtra measure."
 }
