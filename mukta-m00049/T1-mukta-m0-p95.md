@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[vṛddhi-śrāddham](vṛddhiśrāddham) [idam](idaṃ) [proktam](proktaṃ) [nitya-saṃskāra-karmaṇi](nityasaṃskārakarmaṇi)
+[growth-rite](vṛddhiśrāddham)[this](idam) [declared](proktaṃ) [in-regular](nitya)+[consecration](saṃskāra)+[rite](karmaṇi)
 
 ## mukta-m0-p95-v2352
-[śrāddhe](śrāddhe) [parvaṇi](parvaṇi) [kartavye](kartavye) [pārvaṇatvena](pārvaṇatvena) [kīrtayet](kīrtayet)
+[in-śrāddha](śrāddhe) [on-parvan](parvaṇi) [to-be-performed](kartavye) [as-pārvaṇa](pārvaṇatvena) [one-should-declare](kīrtayet)
 
 ## mukta-m0-p95-v2353
-[dakṣiṇām](dakṣiṇāṃ) [kuryāt](kuryāt)
+[fee](dakṣiṇāṃ) [one-should-give](kuryāt)
 
 ## mukta-m0-p95-v2354
-[san](san) [vipram](vipram) [idam](idaṃ) [pṛcchet](pṛcchet)
+[being](san) [brahmin](vipram)[this](idaṃ) [one-should-ask](pṛcchet)
 
 ## mukta-m0-p95-v2355
-[samyak](samyag) [eva](eva) [sa-aṅgam](sāṅgaṃ) [jātam](jātam) [iti](iti) [dvijaḥ](dvijo) [vadet](vadet)
+[properly](samyak)[indeed](eva) [with-all-parts](sāṅgaṃ) [accomplished](jātam)[thus](iti) [twice-born](dvijo) [should-say](vadet)
 
 ## mukta-m0-p95-v2356
-[vākyena](vākyena) [||](||) [62](62)
+[with-statement](vākyena) [||](||) [62](62)
 
 ## mukta-m0-p95-v2357
-[kīrtayet](kīrtayet) [uccārayet](uccārayet)
+[one-should-declare](kīrtayet)[one-should-utter](uccārayet)
 
 ## mukta-m0-p95-v2358
-[pārvaṇena](pārvaṇena) [vidhānena](vidhānena) [śrāddham](śrāddham) [etat](etad) [udīrayet](udīrayet)
+[by-pārvaṇa](pārvaṇena) [method](vidhānena) [śrāddha](śrāddham)[this](etat)[one-should-pronounce](udīrayet)
 
 ## mukta-m0-p95-v2359
-[namaḥ-anta-puṣṭyai](namo'ntapuṣṭyāy) [iti](ity) [atra](atra) [svadhāyai](svadhāyai) [padam](padam) [uccaret](uccaret)
+[namaḥ-anta-puṣṭyai](namo'ntapuṣṭyāyityatra) [for-svadhā](svadhāyai) [word](padam)[one-should-utter](uccaret)
 
 ## mukta-m0-p95-v2360
-[tasya](tasy) [ūrddhva-tanam](ūrddhvatanam) [ullikhya](ullikhya) [śrāddham](śrāddhaṃ) [kuryāt](kuryād) [vicakṣaṇaḥ](vicakṣaṇaḥ)
+[its](tasya)[upper](ūrddhva)+[state](tanam)[having-drawn](ullikhya) [śrāddha](śrāddhaṃ) [should-perform](kuryāt)[wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p95-v2361
-[teṣu](teṣu) [prīteṣu](prīteṣu) [deva-īśi](deveśi) [śrāddha-yajña-phalam](śrāddhayajñaphalaṃ) [labhet](labhet)
+[them](teṣu) [being-pleased](prīteṣu) [o-goddess](deveśi) [śrāddha](śrāddha)+[sacrifice](yajña)+[fruit](phalaṃ) [one-obtains](labhet)
 
 ## mukta-m0-p95-v2362
-[mātuḥ](mātuḥ) [śrāddham](śrāddhaṃ) [vinā](vinā) [patnyāḥ](patnyās) [tathā](tathā) [nāndī-mukham](nāndīmukhaṃ) [vinā](vinā)
+[of-mother](mātuḥ) [śrāddha](śrāddhaṃ) [without](vinā) [of-wife](patnyāḥ)[likewise](tathā) [nāndīmukha](nāndīmukhaṃ) [without](vinā)
 
 ## mukta-m0-p95-v2363
-[ekam](ekam) [eva](eva) [samuddiśya](samuddiśyā') [anujñā-vākyam](nujñāvākyaṃ) [prakalpayet](prakalpayet)
+[one](ekam)[alone](eva) [having-designated](samuddiśya)[permission](anujñā)+[statement](vākyaṃ) [one-should-formulate](prakalpayet)
 
 ## mukta-m0-p95-v2364
-[yava-sthāne](yavasthāne) [tilāḥ](tilā) [deyāḥ](deyāḥ) [sarvam](sarvam) [anyat](anyac) [ca](ca) [pūrva-vat](pūrvavat)
+[barley](yava)+[in-place](sthāne) [sesame-seeds](tilā) [to-be-given](deyāḥ) [all](sarvam)[other](anyat)[and](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p95-v2365
-[vidhānena](vidhānen) [etat](aitac) [śrāddham](chrāddham) [iti](ity) [udīrayet](udīrayet)
+[by-method](vidhānena)[this](etat)[śrāddha](śrāddham)[thus](iti)[one-should-pronounce](udīrayet)
 
 ## mukta-m0-p95-v2366
-[ūrddhva-tanam](ūrddhvatanam) [ūrddhva-bhavam](ūrddhvabhavam) [||](||) [67](67)
+[upper-state](ūrddhvatanam) [upper](ūrddhva)+[being](bhavam) [||](||) [67](67)
 
 ## mukta-m0-p95-v2367
-[śrāddham](śrāddhaṃ) [vinā](vinā) [anya-śrāddha-adhikāritā](anyaśrāddhādhikāritā) [na](nāstīty) [asti](nāstīty) [iti](nāstīty) [anvayaḥ](anvayaḥ)
+[śrāddha](śrāddhaṃ) [without](vinā) [other](anya)+[śrāddha](śrāddha)+[eligibility](adhikāritā) [not](na)[is](asti)[thus](iti)[connection](anvayaḥ)
 
 ## mukta-m0-p95-v2368
-[ekoddiṣṭe](ekoddiṣṭe) [śrāddhe](śrāddhe) [||](||) [70](70)
+[in-ekoddiṣṭa](ekoddiṣṭe) [śrāddha](śrāddhe) [||](||) [70](70)
 
 ## mukta-m0-p95-v2369
-[mṛtam](mṛtaṃ) [samullikhet](samullikhet) [pretam](pretaṃ) [vākye](vākye) [dāne](dāne) [anna-piṇḍayoḥ](annapiṇḍayoḥ)
+[dead](mṛtaṃ) [one-should-designate](samullikhet) [preta](pretaṃ) [in-statement](vākye) [in-gift](dāne)[food](anna)+[ball-offerings](piṇḍayoḥ)
 
 ## mukta-m0-p95-v2370
-[pretasya](pretasya) [anne](anne) [ca](ca) [piṇḍe](piṇḍe) [ca](ca) [matsyam](matsyaṃ) [māṃsam](māṃsaṃ) [niyojayet](niyojayet)
+[of-preta](pretasya)[in-food](anne) [and](ca) [in-ball-offering](piṇḍe) [and](ca) [fish](matsyaṃ) [meat](māṃsaṃ) [one-should-assign](niyojayet)
 
 ## mukta-m0-p95-v2371
-[preta-śrāddham](pretaśrāddhaṃ) [vijānīhi](vijānīhi) [tat](tad) [eva](eva) [kula-nāyike](kulanāyike)
+[preta](preta)+[śrāddha](śrāddhaṃ) [know](vijānīhi) [that](tat)[indeed](eva) [o-family](kula)+[mistress](nāyike)
 
 ## mukta-m0-p95-v2372
-[kula-ācāra-anusāreṇa](kulācārānusāreṇa) [mānavaḥ](mānavo') [aśaucam](śaucam) [ācaret](ācaret)
+[family](kula)+[custom](ācāra)+[according-to](anusāreṇa) [person](mānavaḥ)[impurity](aśaucam)[should-observe](ācaret)
 
 ## mukta-m0-p95-v2373
-[śūdra-sāmānyayoḥ](śūdrasāmānyayor) [devi](devi) [māsena](māsena) [aśauca-kalpanā](aśaucakalpanā)
+[of-śūdra](śūdra)+[and-common](sāmānyayoḥ)[o-goddess](devi) [by-month](māsena)[impurity](aśauca)+[determination](kalpanā)
 
 ## mukta-m0-p95-v2374
-[samullikhet](samullikhet) [uccārayet](uccārayet) [|](|) [preta-śrāddhe](pretaśrāddhe) [ayam](ayaṃ) [viśeṣaḥ](viśeṣo) [vijñeyaḥ](vijñeyaḥ)
+[one-should-designate](samullikhet)[one-should-utter](uccārayet) [|](|) [in-preta](preta)+[śrāddha](śrāddhe)[this](ayam) [special-rule](viśeṣaḥ) [to-be-known](vijñeyaḥ)
 
 ## mukta-m0-p95-v2375
-[ekam](ekam) [uddiśya](uddiśya) [iti](ity) [ādi](ādi) [|](|) [niyojayet](niyojayet) [samarpayet](samarpayet)
+[one](ekam)+[having-designated](uddiśya)[thus](iti)+[etc.](ādi) [|](|) [one-should-assign](niyojayet) [one-should-offer](samarpayet)

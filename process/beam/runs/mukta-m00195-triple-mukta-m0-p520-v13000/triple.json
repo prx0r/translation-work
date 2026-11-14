@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p520",
+ "items": [
+  {
+   "verse": 13000,
+   "rows": [
+    {
+     "surface": "ketakīmālatīpuṣpair",
+     "gloss": "with-ketaki-and-malati-flowers",
+     "grounds": "instrumental plural of compound ketakī-mālatī-puṣpa; means used for perfuming",
+     "morph": "compound+ins.pl.n"
+    },
+    {
+     "surface": "vāsayed",
+     "gloss": "one-should-perfume",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.opt.act √vās"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "object of perfuming, prepared in prior steps",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śobhitam",
+     "gloss": "beautified",
+     "grounds": "describes the ash as made beautiful or adorned",
+     "morph": "past-participle.acc.sg.n"
+    }
+   ],
+   "question": "What final perfuming with flowers completes the prepared ritual ash?",
+   "premises": [
+    "The ash has already been prepared and dried in the consecrated fire.",
+    "Ketaki and malati flowers are specified as the perfuming agents.",
+    "The prescribed action is to perfume the ash."
+   ],
+   "inference": "The prepared ash is completed by perfuming it with ketaki and malati flowers.",
+   "uncertainties": [],
+   "plain_english": "One should perfume the beautified ash with ketaki and malati flowers."
+  }
+ ]
+}
