@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "teṣveka",
+     "gloss": "among-those-one",
+     "grounds": "sandhi fusion of teṣu and eka; locative plural pronoun with numeral/adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "kūṭavistāraṃ",
+     "gloss": "tower-width",
+     "grounds": "bahuvrīhi or descriptive compound indicating extent equal to a kūṭa",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverbial form indicating central position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhāyataṃ",
+     "gloss": "chamber-extended",
+     "grounds": "compound describing something stretched out like a koṣṭha (cell/chamber)",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "substantive denoting two items",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which pair of structures occupies the central position among those specified divisions?",
+   "premises": [
+    "The verse refers to a group previously specified as teṣu.",
+    "One element is characterized by the width of a kūṭa.",
+    "A pair is described as extending like a chamber in the middle."
+   ],
+   "inference": "Among those divisions, a pair with kūṭa-width and chamber-like extension is placed in the middle.",
+   "uncertainties": [
+    "The precise architectural referents of kūṭa and koṣṭha in this context are not fully specified."
+   ],
+   "plain_english": "Among those, in the middle, there is one pair having the width of a kūṭa and extending like a chamber."
+  }
+ ]
+}

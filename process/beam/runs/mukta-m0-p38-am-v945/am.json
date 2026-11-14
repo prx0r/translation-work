@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 945,
- "question": "By what method should the goddess be worshipped on a daily basis?",
+ "question": "How many parts of the twenty-four-part division define the vimāna level height?",
  "premises": [
-  "The goddess is to be worshipped daily",
-  "A method was declared previously",
-  "That same method is to be followed"
+  "The total division is twenty-four parts.",
+  "The vimāna level height is specified.",
+  "It is two parts."
  ],
- "inference": "One should worship the goddess daily by the very method previously declared.",
- "uncertainties": [],
- "plain_english": "One should worship the goddess daily by the method previously declared."
+ "inference": "In a twenty-four-part division, the vimāna level height is two parts.",
+ "uncertainties": [
+  "Compound 'vimānoccetaloccaṃ' is interpreted as vimāna level height."
+ ],
+ "plain_english": "In the twenty-four-part division, the height of the vimāna level is two parts."
 }

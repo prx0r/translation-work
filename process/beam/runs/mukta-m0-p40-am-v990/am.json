@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 990,
- "question": "Within what time frame may a brahmin obtain all desired aims through recitation?",
+ "question": "What shapes are prescribed for the base, neck, and top of this structure?",
  "premises": [
-  "The practitioner is a brahmin.",
-  "The time frame extends until sunset.",
-  "All desires are the objects of attainment."
+  "The base is prescribed as square.",
+  "The neck and top are mentioned together.",
+  "The top is prescribed as eight-sided."
  ],
- "inference": "A brahmin may obtain all desires by reciting until sunset.",
- "uncertainties": [],
- "plain_english": "A brahmin may obtain all desires by reciting until sunset."
+ "inference": "The base should be square, and the neck and top should be eight-sided.",
+ "uncertainties": [
+  "whether vasvaśraṃ qualifies both śīrṣakaṃ and galam is slightly ambiguous"
+ ],
+ "plain_english": "The base should be square, and the neck and top should be eight-sided."
 }

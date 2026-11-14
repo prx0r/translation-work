@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 949,
- "question": "What preparation steps are required to produce pure hulled rice for the rite?",
+ "question": "What measures are assigned to the ground level height and the foot rise?",
  "premises": [
-  "Rice grains are the starting material",
-  "They must be washed and cleaned",
-  "The result should be pure hulled rice"
+  "The ground level height is two parts.",
+  "The foot rise is four parts.",
+  "Both measures are specified."
  ],
- "inference": "One should wash and clean rice grains to make them into pure hulled rice.",
- "uncertainties": [],
- "plain_english": "Having washed and cleaned the rice grains, one should make them into pure hulled rice."
+ "inference": "The ground level height is two parts and the foot rise is four parts.",
+ "uncertainties": [
+  "Interpretation of 'yugāṃśaṃ' as four parts follows common convention."
+ ],
+ "plain_english": "The ground level height is two parts, and the rise of the foot is four parts."
 }
