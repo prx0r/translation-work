@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p149",
  "verse": 3719,
- "question": "Which king named Śāla is born after the end of Śikhidhvaja?",
+ "question": "What determines the equality of the pits?",
  "premises": [
-  "A time is marked as the end of Śikhidhvaja.",
-  "A person is born after that time.",
-  "That person becomes a king named Śāla."
+  "The pits are equal",
+  "They match person-body height",
+  "They are measured by that number of fingers"
  ],
- "inference": "A king named Śāla arises after the end of Śikhidhvaja.",
- "uncertainties": [],
- "plain_english": "After the end of Śikhidhvaja, one born would be a king named Śāla."
+ "inference": "The pits are equal to person-body height measured by that number of fingers.",
+ "uncertainties": [
+  "The exact number of fingers is implicit"
+ ],
+ "plain_english": "The pits are equal to person-body height, measured by that number of fingers."
 }

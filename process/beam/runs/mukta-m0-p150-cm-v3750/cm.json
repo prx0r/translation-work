@@ -3,24 +3,24 @@
  "verse": 3750,
  "rows": [
   {
-   "lemma": "atra",
+   "lemma": "kārayet",
+   "morph": "verb.3.sg.act-opt (kṛ)",
+   "grounds": "causative optative of kṛ; prescribes performance"
+  },
+  {
+   "lemma": "koṭihomantu",
+   "morph": "noun.acc.sg.m + (indecl.)",
+   "grounds": "fused accusative object koṭihomam plus enclitic tu; not split"
+  },
+  {
+   "lemma": "puruṣairaṣṭabhiḥ",
+   "morph": "noun.ins.pl.m",
+   "grounds": "fused instrumental plural with numeral aṣṭa; analyzed as given"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "locative/demonstrative adverb indicating the present point in the text"
-  },
-  {
-   "lemma": "paṭalasamāptiḥ",
-   "morph": "compound: paṭala+samāptiḥ; f.nom.sg",
-   "grounds": "compound denoting the conclusion of a paṭala (chapter)"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation particle denying existence"
-  },
-  {
-   "lemma": "asti",
-   "morph": "3.sg.pres.act.ind √as",
-   "grounds": "asserts existence, here negated"
+   "grounds": "indeclinable adverb"
   }
  ]
 }

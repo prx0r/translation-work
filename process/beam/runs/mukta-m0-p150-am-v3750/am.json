@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3750,
- "question": "Is a formal conclusion of the chapter present at this point in the text?",
+ "question": "Who should perform the koṭi-homa and by how many men?",
  "premises": [
-  "atra indicates the present location in the text.",
-  "paṭalasamāptiḥ denotes the completion of a chapter.",
-  "na asti explicitly negates the existence of that completion."
+  "koṭi-homa is to be performed",
+  "eight men perform it",
+  "performance follows thus"
  ],
- "inference": "No formal chapter conclusion occurs at this point.",
- "uncertainties": [],
- "plain_english": "Here there is no conclusion of the chapter."
+ "inference": "the rite requires eight male performers",
+ "uncertainties": [
+  "fused sandhi in koṭihomantu and puruṣairaṣṭabhiḥ is analyzed without expansion",
+  "exact morphological split of the fused forms is inferred"
+ ],
+ "plain_english": "Thus one should have the koṭi-homa performed by eight men."
 }

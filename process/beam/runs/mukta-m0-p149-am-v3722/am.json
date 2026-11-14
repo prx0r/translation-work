@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p149",
  "verse": 3722,
- "question": "What royal rebirth occurs again in that very same context?",
+ "question": "What earth is to be abandoned around the square?",
  "premises": [
-  "A birth occurs again.",
-  "It takes place in that very same context.",
-  "The one born becomes a king."
+  "The square is referenced",
+  "That earth is to be abandoned",
+  "It is elsewhere"
  ],
- "inference": "A king is born again in that very same place or lineage.",
- "uncertainties": [],
- "plain_english": "When birth occurs again, in that very place he would be born as king."
+ "inference": "The earth around the square is to be abandoned elsewhere.",
+ "uncertainties": [
+  "The exact reason for abandonment is not stated"
+ ],
+ "plain_english": "That earth around the square is to be abandoned elsewhere."
 }

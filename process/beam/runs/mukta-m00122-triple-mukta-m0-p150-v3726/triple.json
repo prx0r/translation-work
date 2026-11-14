@@ -1,0 +1,1133 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3726,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun introducing measure",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "dual quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "carāṇāṃ",
+     "gloss": "of-movable-ones",
+     "grounds": "genitive plural of movable zodiac signs",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "syādrāśīnāṃ",
+     "gloss": "may-be-of-zodiac-signs",
+     "grounds": "fused sandhi form",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "adverbial sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "By what measure are the two movable zodiac signs arranged in order for the pit construction?",
+   "premises": [
+    "The verse links a measure to movable signs.",
+    "It addresses Śiva in a ritual instruction.",
+    "The arrangement is sequential."
+   ],
+   "inference": "The movable signs are to be set in order by the stated measure.",
+   "uncertainties": [
+    "The fused form syādrāśīnāṃ may contain sandhi not fully resolved."
+   ],
+   "plain_english": "By this measure, the two movable signs are arranged in order, O Śiva."
+  },
+  {
+   "verse": 3727,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścimaṃ",
+     "gloss": "western",
+     "grounds": "directional adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "ritual thread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tanmānena",
+     "gloss": "by-that-measure",
+     "grounds": "instrumental of measure",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrayoḥ",
+     "gloss": "of-threads",
+     "grounds": "genitive dual",
+     "morph": "n.gen.du"
+    }
+   ],
+   "question": "How is the western thread measured separately before the two threads are used?",
+   "premises": [
+    "The western thread is measured separately.",
+    "That measure governs the threads.",
+    "The instruction proceeds sequentially."
+   ],
+   "inference": "Each thread is measured by the same stated measure before construction.",
+   "uncertainties": [
+    "The exact thread pair is not named here."
+   ],
+   "plain_english": "Separately, the western thread is measured by that measure; then the two threads are used."
+  },
+  {
+   "verse": 3728,
+   "rows": [
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trikoṇam",
+     "gloss": "triangular",
+     "grounds": "shape adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uditaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturṣu",
+     "gloss": "in-four",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sthirarāśiṣu",
+     "gloss": "fixed-zodiac-signs",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "In which zodiac signs is the triangular pit declared to be made?",
+   "premises": [
+    "The pit is triangular.",
+    "It is declared in four fixed signs.",
+    "The signs are fixed zodiac signs."
+   ],
+   "inference": "The triangular pit is located in four fixed zodiac signs.",
+   "uncertainties": [
+    "The four fixed signs are not enumerated here."
+   ],
+   "plain_english": "The triangular pit is declared in the four fixed zodiac signs."
+  },
+  {
+   "verse": 3729,
+   "rows": [
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṅgalāmaṅgalayoḥ",
+     "gloss": "of-auspicious-and-inauspicious",
+     "grounds": "genitive dual compound",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambuddhiḥ",
+     "gloss": "sambuddhiḥ",
+     "grounds": "technical term retained",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What distinction between auspicious and inauspicious rites is being addressed to Śiva?",
+   "premises": [
+    "The verse contrasts auspicious and inauspicious.",
+    "It addresses Śiva directly.",
+    "It closes with a technical marker."
+   ],
+   "inference": "The instruction distinguishes auspicious from inauspicious ritual applications.",
+   "uncertainties": [
+    "The exact technical sense of sambuddhiḥ is not expanded here."
+   ],
+   "plain_english": "In order, for auspicious and inauspicious rites, O Śiva; thus is the address."
+  },
+  {
+   "verse": 3730,
+   "rows": [
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "amaṅgalaprayoge",
+     "gloss": "inauspicious-rite",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthirarāśiṣu",
+     "gloss": "in-fixed-zodiac-signs",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "caturṣu",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For an inauspicious rite, in which fixed signs is this pit to be made?",
+   "premises": [
+    "The pit should be made.",
+    "The rite is inauspicious.",
+    "It is in four fixed signs."
+   ],
+   "inference": "This pit is to be made in four fixed zodiac signs for an inauspicious rite.",
+   "uncertainties": [
+    "The specific fixed signs are not listed."
+   ],
+   "plain_english": "One should make this pit in the four fixed signs for an inauspicious rite."
+  },
+  {
+   "verse": 3731,
+   "rows": [
+    {
+     "surface": "pūrvataḥ",
+     "gloss": "from-east",
+     "grounds": "directional adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścimadvandvaṃ",
+     "gloss": "western-pair",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "koṣṭhayoḥ",
+     "gloss": "of-cells",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "mmadhyadeśataḥ",
+     "gloss": "middle-region",
+     "grounds": "fused sandhi form",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How are the eastern and western cells related through the middle region?",
+   "premises": [
+    "The verse begins from the east.",
+    "It names a western pair of cells.",
+    "It ends at the middle region."
+   ],
+   "inference": "The construction spans from east through the western pair to the middle region.",
+   "uncertainties": [
+    "The fused form m madhyadeśataḥ preserves sandhi."
+   ],
+   "plain_english": "From the east, the western pair of cells extends to the middle region."
+  },
+  {
+   "verse": 3732,
+   "rows": [
+    {
+     "surface": "uttarāgrāvadhi",
+     "gloss": "northern-end",
+     "grounds": "compound limit",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāgrāvadhi",
+     "gloss": "southern-end",
+     "grounds": "compound limit",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What are the northern and southern limits of the construction?",
+   "premises": [
+    "The northern end is named.",
+    "The southern end is named.",
+    "The addressee is dear."
+   ],
+   "inference": "The construction is bounded by northern and southern ends.",
+   "uncertainties": [
+    "The exact spatial relation between ends is not specified."
+   ],
+   "plain_english": "Thus, from the northern end to the southern end, dear one."
+  },
+  {
+   "verse": 3733,
+   "rows": [
+    {
+     "surface": "vikāśitabrahmasūtrāvadhi",
+     "gloss": "expanded-brahma-thread-limit",
+     "grounds": "compound limit",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūtradvayaṃ",
+     "gloss": "two-threads",
+     "grounds": "dual noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What becomes of the two threads at the limit of the expanded brahma thread?",
+   "premises": [
+    "The limit of the expanded brahma thread is named.",
+    "Two threads are involved.",
+    "The result is stated as becomes."
+   ],
+   "inference": "Two threads become established at that limit.",
+   "uncertainties": [
+    "The ritual function of the brahma thread is not explained here."
+   ],
+   "plain_english": "At the limit of the expanded brahma thread, two threads become."
+  },
+  {
+   "verse": 3734,
+   "rows": [
+    {
+     "surface": "rāśiṣu",
+     "gloss": "in-zodiac-signs",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "proktakalyāṇakarmmasūktārthasiddhikṛt",
+     "gloss": "declared-auspicious-rite-thread-meaning-accomplishment-making",
+     "grounds": "long compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is accomplished in the zodiac signs by the declared auspicious rite thread?",
+   "premises": [
+    "The location is zodiac signs.",
+    "The compound names declared auspicious rite thread meaning accomplishment making.",
+    "The result is accomplishment."
+   ],
+   "inference": "The declared auspicious rite thread accomplishes its meaning in the zodiac signs.",
+   "uncertainties": [
+    "The compound is dense and may encode multiple technical senses."
+   ],
+   "plain_english": "In the zodiac signs, the declared auspicious rite thread accomplishes its meaning."
+  },
+  {
+   "verse": 3735,
+   "rows": [
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāntyā",
+     "gloss": "by-delusion",
+     "grounds": "instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the circle made around by measure and delusion?",
+   "premises": [
+    "The circle is made around.",
+    "Measure and delusion are both involved.",
+    "The action is sequential."
+   ],
+   "inference": "The circle is constructed around by measure, with delusion as part of the method.",
+   "uncertainties": [
+    "The role of delusion is not clarified."
+   ],
+   "plain_english": "By measure, around, having made a circle by delusion, thus then."
+  },
+  {
+   "verse": 3736,
+   "rows": [
+    {
+     "surface": "kuṇḍamuktaphalasiddhikaram",
+     "gloss": "pit-accomplishment-of-liberated-fruit",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the pit said to accomplish?",
+   "premises": [
+    "The compound names pit accomplishment of liberated fruit.",
+    "The verse is a short declaration.",
+    "It ends with iti."
+   ],
+   "inference": "The pit accomplishes the fruit of liberation.",
+   "uncertainties": [
+    "The exact fruit is not specified beyond the compound."
+   ],
+   "plain_english": "The pit accomplishes the fruit of liberation."
+  },
+  {
+   "verse": 3737,
+   "rows": [
+    {
+     "surface": "pātayet",
+     "gloss": "should-drop",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pañcasūtrāṇi",
+     "gloss": "five-threads",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pañcāsrakuṇḍakam",
+     "gloss": "five-cornered-pit",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What results from dropping five threads?",
+   "premises": [
+    "Five threads are to be dropped.",
+    "The result is stated as becomes.",
+    "The result is a five-cornered pit."
+   ],
+   "inference": "Dropping five threads produces a five-cornered pit.",
+   "uncertainties": [
+    "The dropping method is not detailed."
+   ],
+   "plain_english": "One should drop five threads; that becomes a five-cornered pit."
+  },
+  {
+   "verse": 3738,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "measure",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "circle",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atisphuṭam",
+     "gloss": "very-clear",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kind of circle is made by that measure?",
+   "premises": [
+    "The measure is referenced.",
+    "A circle is made.",
+    "The circle is very clear."
+   ],
+   "inference": "By that measure, a very clear circle is made.",
+   "uncertainties": [
+    "The exact measure is not restated."
+   ],
+   "plain_english": "Therefore, by that measure, having made a very clear circle."
+  },
+  {
+   "verse": 3739,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭsūtrapātena",
+     "gloss": "six-thread-drop",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣadasrakam",
+     "gloss": "six-cornered",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What pit results from dropping six threads there?",
+   "premises": [
+    "The location is there.",
+    "Six threads are dropped.",
+    "The result is a pit."
+   ],
+   "inference": "Dropping six threads there produces a six-cornered pit.",
+   "uncertainties": [
+    "The location is only deictic."
+   ],
+   "plain_english": "There, by dropping six threads, a six-cornered pit becomes."
+  },
+  {
+   "verse": 3740,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that-measure",
+     "grounds": "instrumental pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "measure",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "sambhrāntyā",
+     "gloss": "by-delusion",
+     "grounds": "instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the circle made by that measure and delusion?",
+   "premises": [
+    "That measure is used.",
+    "Delusion is involved.",
+    "A circle is made."
+   ],
+   "inference": "By that measure and delusion, a circle is made, then the next step follows.",
+   "uncertainties": [
+    "The exact role of delusion remains unclear."
+   ],
+   "plain_english": "By that measure, having made a circle by delusion, thus then."
+  },
+  {
+   "verse": 3741,
+   "rows": [
+    {
+     "surface": "vṛtte",
+     "gloss": "in-circle",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "cihnāni",
+     "gloss": "marks",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "saptasūtrāṇi",
+     "gloss": "seven-threads",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-drop",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done with seven threads in the circle?",
+   "premises": [
+    "The location is in the circle.",
+    "Marks are made.",
+    "Seven threads are to be dropped."
+   ],
+   "inference": "After making marks in the circle, one should drop seven threads.",
+   "uncertainties": [
+    "The marks are not described."
+   ],
+   "plain_english": "In the circle, having made marks, one should drop seven threads."
+  },
+  {
+   "verse": 3742,
+   "rows": [
+    {
+     "surface": "maṅgalakarmmaṇi",
+     "gloss": "auspicious-rite",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mithunarāśisthāna",
+     "gloss": "Gemini-zodiac-place",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnidik",
+     "gloss": "fire-direction",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For an auspicious rite, in which zodiac place and direction is the pit declared?",
+   "premises": [
+    "The rite is auspicious.",
+    "The place is Gemini zodiac.",
+    "The direction is fire direction."
+   ],
+   "inference": "For an auspicious rite, the pit is declared in Gemini zodiac place toward the fire direction.",
+   "uncertainties": [
+    "The exact pit shape is not named here."
+   ],
+   "plain_english": "For an auspicious rite, in Gemini zodiac place, fire direction is declared."
+  },
+  {
+   "verse": 3743,
+   "rows": [
+    {
+     "surface": "karmaṇi",
+     "gloss": "rite",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kanyārāśisthāna",
+     "gloss": "Virgo-zodiac-place",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niṝtidik",
+     "gloss": "southwest-direction",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaḍasrakuṇḍaṃ",
+     "gloss": "six-cornered-pit",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For a rite in Virgo zodiac place, what pit is declared toward the southwest?",
+   "premises": [
+    "The rite is in Virgo zodiac place.",
+    "The direction is southwest.",
+    "The result is a six-cornered pit."
+   ],
+   "inference": "In Virgo zodiac place toward the southwest, a six-cornered pit is declared.",
+   "uncertainties": [
+    "The rite type is not specified beyond karmaṇi."
+   ],
+   "plain_english": "In Virgo zodiac place, southwest direction, a six-cornered pit becomes."
+  },
+  {
+   "verse": 3744,
+   "rows": [
+    {
+     "surface": "samastavairināśāya",
+     "gloss": "for-destruction-of-all-enemies",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍamidaṃ",
+     "gloss": "this-pit",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "For what purpose is this pit declared?",
+   "premises": [
+    "The purpose is destruction of all enemies.",
+    "The pit is declared.",
+    "Śiva is addressed."
+   ],
+   "inference": "This pit is declared for the destruction of all enemies.",
+   "uncertainties": [
+    "The ritual method is not given here."
+   ],
+   "plain_english": "This pit is declared for the destruction of all enemies, O Śiva."
+  },
+  {
+   "verse": 3745,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "four-cornered",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvakoṇārddhamānataḥ",
+     "gloss": "from-eastern-corner-half-measure",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what measure is the four-cornered pit made?",
+   "premises": [
+    "The pit is four-cornered.",
+    "It is made having done something.",
+    "The measure is from the eastern corner half."
+   ],
+   "inference": "The four-cornered pit is made from the eastern corner half-measure.",
+   "uncertainties": [
+    "The exact construction step is abbreviated."
+   ],
+   "plain_english": "Having made a four-cornered pit from the eastern corner half-measure."
+  },
+  {
+   "verse": 3746,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative pronoun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "cihneṣu",
+     "gloss": "marks",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrāṇi",
+     "gloss": "threads",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How many threads are placed around after making marks?",
+   "premises": [
+    "Marks are made in those places.",
+    "Eight threads are involved.",
+    "They are placed around."
+   ],
+   "inference": "After making marks, eight threads are placed around.",
+   "uncertainties": [
+    "The marks are not specified."
+   ],
+   "plain_english": "In those marks, having made them, eight threads are placed around, O Śiva."
+  },
+  {
+   "verse": 3747,
+   "rows": [
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-will-declare",
+     "grounds": "future verb",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "prājñe",
+     "gloss": "wise-one",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "samuddiṣṭaṃ",
+     "gloss": "appointed",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What will be declared in order to the wise one?",
+   "premises": [
+    "The speaker will declare.",
+    "The addressee is wise.",
+    "The declaration is appointed and in order."
+   ],
+   "inference": "The speaker will declare the appointed matter in order to the wise one.",
+   "uncertainties": [
+    "The appointed matter is not named in this verse."
+   ],
+   "plain_english": "I will declare; listen, wise one, the appointed matter in order indeed."
+  },
+  {
+   "verse": 3748,
+   "rows": [
+    {
+     "surface": "svavāñchitena",
+     "gloss": "by-desired-measure",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "measure",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tadasrāṇi",
+     "gloss": "those-corners",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "present verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what measure do those corners become?",
+   "premises": [
+    "The measure is desired.",
+    "The corners become.",
+    "The statement is emphatic."
+   ],
+   "inference": "Those corners become according to the desired measure.",
+   "uncertainties": [
+    "The desired measure is not quantified."
+   ],
+   "plain_english": "By the desired measure, those corners indeed become."
+  },
+  {
+   "verse": 3749,
+   "rows": [
+    {
+     "surface": "kuṇḍeṣu",
+     "gloss": "in-pits",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṭihomādiṣu",
+     "gloss": "in-koṭi-homa-etc",
+     "grounds": "locative compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "mentioned",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is this construction mentioned besides the pits?",
+   "premises": [
+    "The location includes pits.",
+    "It also includes koṭi homa and related rites.",
+    "The matter is mentioned."
+   ],
+   "inference": "This construction is mentioned in pits and in koṭi homa and related rites.",
+   "uncertainties": [
+    "The exact scope of ādi is not specified."
+   ],
+   "plain_english": "Thus it is mentioned in pits and in koṭi homa and related rites."
+  }
+ ]
+}

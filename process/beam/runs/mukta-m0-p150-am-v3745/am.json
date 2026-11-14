@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3745,
- "question": "What social standing and virtues of character are granted by this recitation?",
+ "question": "From what measure is the four-cornered pit made?",
  "premises": [
-  "Elevation and family standing are listed",
-  "Character and majesty are listed",
-  "Heroism and nobility are listed"
+  "The pit is four-cornered.",
+  "It is made having done something.",
+  "The measure is from the eastern corner half."
  ],
- "inference": "Recitation grants elevation, distinguished family, good character, majesty, heroism, and nobility.",
- "uncertainties": [],
- "plain_english": "Elevation, family, character, majesty, heroism, and nobility arise."
+ "inference": "The four-cornered pit is made from the eastern corner half-measure.",
+ "uncertainties": [
+  "The exact construction step is abbreviated."
+ ],
+ "plain_english": "Having made a four-cornered pit from the eastern corner half-measure."
 }

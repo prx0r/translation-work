@@ -3,19 +3,29 @@
  "verse": 3748,
  "rows": [
   {
-   "lemma": "dharmārtthakāmamokṣāṇām",
-   "morph": "m.gen.pl",
-   "grounds": "compound: dharma+artha+kāma+mokṣa"
+   "lemma": "svavāñchitena",
+   "morph": "m.instr.sg",
+   "grounds": "instrumental compound"
   },
   {
-   "lemma": "anāyāsena",
-   "morph": "m.inst.sg",
-   "grounds": "compound: an+āyāsa"
+   "lemma": "mānena",
+   "morph": "n.instr.sg",
+   "grounds": "instrumental"
   },
   {
-   "lemma": "sādhanam",
-   "morph": "n.nom.sg",
-   "grounds": "noun"
+   "lemma": "tadasrāṇi",
+   "morph": "n.nom.pl",
+   "grounds": "nominative plural"
+  },
+  {
+   "lemma": "bhavanti",
+   "morph": "3.pl.act-pres",
+   "grounds": "present verb"
+  },
+  {
+   "lemma": "hi",
+   "morph": "(indecl.)",
+   "grounds": "particle"
   }
  ]
 }

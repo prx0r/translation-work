@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p149",
  "verse": 3702,
- "question": "What bodily posture must a worshipper assume before offering prayer?",
+ "question": "Where and how high should the altar be made?",
  "premises": [
-  "The worshipper forms hollowed palms.",
-  "The worshipper joins the palms together.",
-  "The worshipper touches the earth with the knees."
+  "The altar is made in the middle",
+  "Its height is hand-measure-raised",
+  "The verb is optative"
  ],
- "inference": "A reverent kneeling posture with joined palms is required.",
- "uncertainties": [],
- "plain_english": "Having made hollowed palms, joined them, and touched the earth with the knees..."
+ "inference": "One should make the altar in the middle, raised by a hand-measure.",
+ "uncertainties": [
+  "Exact hand-measure standard is not given"
+ ],
+ "plain_english": "Make the altar in the middle, raised by a hand-measure."
 }
