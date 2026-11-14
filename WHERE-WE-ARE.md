@@ -33,7 +33,15 @@ Re-derives every core proof from current bytes. `GATE-OK` = true; any
 (shastra = data JSON, classic = MD) — mode is read from each proof's
 `lineage`; never force one mode across both.
 
-## What's genuinely open
+## Brief quality (2026-11-14)
+All **10 actively-drafting fronts** now have researched transmission briefs
+(was auto-scaffold): dāśarathīya, meru, śrīvidyārṇava, acintyaviśva,
+aṃśumatkāśyapa, śrītattvanidhi, kaulāvalīnirṇaya, devīrahasya, vīrāgama,
+kālottara — all pass `brief_gate`. 109 of 200 briefs remain auto-scaffold
+(non-active backlog; upgrade before they burn). Packets inject the work-level
+brief automatically at claim time, so newer drafts use the better brief.
+
+## What\'s genuinely open
 
 1. **Representation unification** (design, owner call): 266 classic-mode vs
    552 shastra-mode proofs; some works carry both representations, so proof
