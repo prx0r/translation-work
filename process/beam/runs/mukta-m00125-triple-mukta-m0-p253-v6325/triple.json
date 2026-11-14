@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p253",
+ "items": [
+  {
+   "verse": 6325,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "relative adverb indicating location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "repeated relative adverb indicating distributive locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking repeated locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhārākṣaṃ",
+     "gloss": "load-axle",
+     "grounds": "compound denoting the axle bearing the load",
+     "morph": "bhāra+akṣa (compound, n.nom.sg)"
+    },
+    {
+     "surface": "saṃyogastatra",
+     "gloss": "joining-there",
+     "grounds": "fused form of saṃyogaḥ and tatra; internal sandhi noted, not split",
+     "morph": "saṃyoga (m.nom.sg) + tatra (indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-stated",
+     "grounds": "passive verb expressing what is declared",
+     "morph": "3.sg.pass-pres √kath"
+    }
+   ],
+   "question": "At which locations does the joining with the load-axle occur?",
+   "premises": [
+    "The load-axle is present at various locations.",
+    "Each such location is indicated distributively.",
+    "A joining is stated to occur at that location."
+   ],
+   "inference": "Therefore the joining with the load-axle occurs wherever the load-axle is present.",
+   "uncertainties": [
+    "The precise technical referent of bhārākṣaṃ in this context is not fully explicit."
+   ],
+   "plain_english": "Wherever the load-axle is found, there the joining is said to occur."
+  }
+ ]
+}

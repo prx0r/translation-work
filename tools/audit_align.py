@@ -46,13 +46,37 @@ SANDHI_PAIRS = {
     ("u", "v"), ("v", "u"), ("t", "d"), ("d", "t"),
     ("t", "c"), ("c", "t"), ("t", "n"), ("n", "t"),
     ("n", "ṇ"), ("ṇ", "n"), ("s", "ś"), ("ś", "s"),
-    ("m", "ṃ"), ("ṃ", "m"), ("ai", "e"), ("e", "ai"),
+    ("m", "ṃ"), ("ṃ", "m"),
     ("aī", "e"), ("e", "aī"), ("aḥ", "r"), ("r", "aḥ"),
     ("ḥ", "s"), ("s", "ḥ"), ("ḥ", "r"), ("r", "ḥ"),
     ("aa", "a"), ("a", "aa"),
     ("uu", "ū"), ("ū", "uu"), ("ii", "ī"), ("ī", "ii"),
     ("m", "ñ"), ("ñ", "m"), ("tś", "cch"), ("cch", "tś"),
+    # ā+i→e and ā+e→ai (vṛddhi) joints. The 2-char āi/āe side makes these
+    # distinctive: a lone e/i swap is kept as needs-eyes (fork risk, e.g.
+    # iva/eva). Bare ai/e is NOT a pair (too broad — would launder real
+    # spelling differences).
+    ("āi", "e"), ("e", "āi"), ("āe", "ai"), ("ai", "āe"),
 }
+
+
+def _eva_window_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
+                   a_frag: str, b_frag: str, tag: str) -> tuple[bool, str] | None:
+    """The ca+eva convention: T1 writes citation forms (ca, eva) where the
+    witness joins them (caiva, via a+e→ai). In spaceless joined strings this
+    surfaces as e~i inside an [aā]eva/[aā]iva window. Accept ONLY inside that
+    window — a bare e/i swap elsewhere stays needs-eyes (iva/eva is a genuine
+    fork: 'like' vs 'indeed'). Returns None when the rule does not apply."""
+    if tag != "replace":
+        return None
+    if sorted([a_frag, b_frag]) != ["e", "i"]:
+        return None
+    a_win = a_full[max(0, i1 - 3):i2 + 1]
+    b_win = b_full[max(0, j1 - 3):j2 + 1]
+    pair = sorted([a_win, b_win])
+    if pair == ["aeva", "aiva"] or pair == ["āeva", "āiva"]:
+        return True, "ca+eva convention"
+    return None
 
 
 def _clean(toks: list[str]) -> list[str]:
@@ -98,14 +122,21 @@ def _frag_ok(a: str, b: str, tag: str) -> tuple[bool, str]:
 
 
 def classify(a: str, b: str) -> tuple[str, str]:
-    """Joined-string diff -> ('sandhi-only'|'needs-eyes', note-or-diff)."""
+    """Joined-string diff -> ('sandhi-only', note) or ('needs-eyes', diff)."""
     sm = difflib.SequenceMatcher(None, a, b)
-    classes: list[str] = []
-    bad: list[str] = []
+    classes = []
+    bad = []
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
         if tag == "equal":
             continue
-        ok, name = _frag_ok(a[i1:i2], b[j1:j2], tag)
+        af, bf = a[i1:i2], b[j1:j2]
+        if tag == "replace":
+            eva = _eva_window_ok(a, b, i1, i2, j1, j2, af, bf, tag)
+            if eva is not None:
+                ok, name = eva
+                (classes if ok else bad).append(name)
+                continue
+        ok, name = _frag_ok(af, bf, tag)
         (classes if ok else bad).append(name)
     if bad:
         return "needs-eyes", " | ".join(bad[:8])
