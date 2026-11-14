@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2853,
- "question": "Which divine weapon must the foremost teacher worship before that place?",
+ "question": "How should the described gesture be held and displayed at the moon's tip?",
  "premises": [
-  "Worship is to be performed in front of the prepared place",
-  "The officiant is the foremost teacher",
-  "The object of worship is the weapon named śiva"
+  "The gesture should be held in that context",
+  "The display occurs at the moon's tip",
+  "Both holding and displaying are prescribed"
  ],
- "inference": "Therefore the foremost teacher should worship the weapon named śiva before that place.",
- "uncertainties": [],
- "plain_english": "Before that, the best of teachers should worship the weapon known as śiva."
+ "inference": "One should hold the gesture in that context and display it at the moon's tip.",
+ "uncertainties": [
+  "The exact referent of 'moon-tip' in ritual space is unclear"
+ ],
+ "plain_english": "One should hold it in that and display it at the tip of the moon."
 }

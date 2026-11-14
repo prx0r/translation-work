@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2850,
+   "rows": [
+    {
+     "surface": "madhyamayā",
+     "gloss": "with-middle-finger",
+     "grounds": "instrument used to perform the bending",
+     "morph": "i.sg.f"
+    },
+    {
+     "surface": "madhyāṃ",
+     "gloss": "middle-finger",
+     "grounds": "object to be bent",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "nāmayet",
+     "gloss": "one-should-bend",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.act-opt~√nam"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks completion of the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to the resulting gesture formed by the prior steps",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting configuration",
+     "morph": "3.sg.act-opt~√bhū"
+    }
+   ],
+   "question": "How must the middle fingers be positioned to complete the prescribed hand gesture?",
+   "premises": [
+    "The middle finger functions as the instrument of bending.",
+    "The middle finger is the object to be bent.",
+    "The specified bending action defines the resulting gesture."
+   ],
+   "inference": "Bending the middle finger with the middle finger completes the prescribed gesture.",
+   "uncertainties": [
+    "The exact referent of sā depends on the gesture named in the surrounding context."
+   ],
+   "plain_english": "One should bend the middle finger with the middle finger; thus that gesture is formed."
+  }
+ ]
+}
