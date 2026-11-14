@@ -3,34 +3,34 @@
  "verse": 3916,
  "rows": [
   {
-   "lemma": "oṃ",
+   "lemma": "sādhakāḥ",
+   "morph": "sādhaka.m.nom.pl",
+   "grounds": "subject of attainment"
+  },
+  {
+   "lemma": "sarve",
+   "morph": "sarva.m.nom.pl",
+   "grounds": "quantifier modifying practitioners"
+  },
+  {
+   "lemma": "siddhiṃ",
+   "morph": "siddhi.f.acc.sg",
+   "grounds": "object attained"
+  },
+  {
+   "lemma": "yānti",
+   "morph": "3.pl.act-pres √yā",
+   "grounds": "present tense indicating attainment"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "bīja syllable, kept exact"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "juṃsaḥ",
-   "morph": "(indecl.)",
-   "grounds": "bīja/mantra syllables kept exact"
-  },
-  {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "quotation marker"
-  },
-  {
-   "lemma": "mantro'yaṃ",
-   "morph": "m.nom.sg",
-   "grounds": "mantraḥ + ayam"
-  },
-  {
-   "lemma": "devo",
-   "morph": "m.nom.sg",
-   "grounds": "devaḥ"
-  },
-  {
-   "lemma": "mṛtyuñjidāhvayaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "mṛtyuñjit-āhvaya"
+   "lemma": "ca+anyathā",
+   "morph": "(indecl.)+ca+(indecl.)anyathā",
+   "grounds": "fused token with sandhi; indicates contrary condition"
   }
  ]
 }

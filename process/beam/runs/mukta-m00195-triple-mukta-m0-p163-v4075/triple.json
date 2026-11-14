@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p163",
+ "items": [
+  {
+   "verse": 4075,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "Indeclinable indicating distribution to each instance.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "each-day",
+     "grounds": "Indeclinable adverb indicating daily repetition.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītaiḥ",
+     "gloss": "by-consumed",
+     "grounds": "Past passive participle of √pā 'to drink/consume', qualifying the means of observance.",
+     "morph": "m.inst.pl.ppp(pā)"
+    },
+    {
+     "surface": "parṇa+kṛcchra+vrataṃ",
+     "gloss": "leaf-austerity-vow",
+     "grounds": "Compound naming the specific vow: parṇa (leaf) + kṛcchra (austerity) + vrata (vow).",
+     "morph": "compound(n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "Particle marking specification or emphasis.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "Demonstrative pronoun identifying the vow being defined.",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What specific daily observance constitutes the parṇa-kṛcchra vow defined in this prescription?",
+   "premises": [
+    "The observance is identified as this parṇa-kṛcchra vow.",
+    "The vow involves substances consumed each day.",
+    "The consumption is performed separately on each occasion."
+   ],
+   "inference": "The parṇa-kṛcchra vow consists of consuming leaves separately on each day.",
+   "uncertainties": [
+    "The exact type or preparation of leaves implied by pītaiḥ is not specified in this verse."
+   ],
+   "plain_english": "This indeed is the parṇa-kṛcchra vow, in which leaves are consumed separately each day."
+  }
+ ]
+}

@@ -3,29 +3,34 @@
  "verse": 3925,
  "rows": [
   {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation particle"
+   "lemma": "nāśaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "nominal subject"
   },
   {
-   "lemma": "bhaviṣyati",
-   "morph": "3.sg.active-future √bhū",
-   "grounds": "future occurrence denied"
+   "lemma": "asya",
+   "morph": "pron.m/n.gen.sg",
+   "grounds": "refers to the previously mentioned state"
   },
   {
-   "lemma": "bhūtaśca",
-   "morph": "compound-like-fusion: past-participle.m.nom.sg √bhū + (indecl.)",
-   "grounds": "fused form: bhūtaḥ + ca with sandhi; past occurrence also denied"
+   "lemma": "yat",
+   "morph": "pron.n.nom.sg",
+   "grounds": "relative pronoun introducing the described destruction"
   },
   {
-   "lemma": "satyametadudāhṛtam",
-   "morph": "compound-like-fusion: n.nom.sg + n.nom.sg + past-participle.n.nom.sg ud-ā-√hṛ",
-   "grounds": "fused form: satyam + etat + udāhṛtam; affirms the statement as true"
+   "lemma": "proktaḥ",
+   "morph": "m.nom.sg.ppp.pra-√vac",
+   "grounds": "past passive participle"
   },
   {
-   "lemma": "etadudāhṛtam",
-   "morph": "compound-like-fusion: n.nom.sg + past-participle.n.nom.sg ud-ā-√hṛ",
-   "grounds": "fused form: etat + udāhṛtam; emphatic repetition of declaration"
+   "lemma": "saḥ",
+   "morph": "pron.m.nom.sg",
+   "grounds": "correlative demonstrative subject"
+  },
+  {
+   "lemma": "maheśvaraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "predicate identifying the declared destruction"
   }
  ]
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3975,
+   "rows": [
+    {
+     "surface": "yakṣiṇyāḥ",
+     "gloss": "of-the-yakṣiṇī",
+     "grounds": "genitive singular feminine of yakṣiṇī, indicating the beings who may appear",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the previously mentioned place of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility in that location",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "dṛṣṭigocarāḥ",
+     "gloss": "within-sight-range",
+     "grounds": "compound of dṛṣṭi (sight) and gocara (range), describing visibility",
+     "morph": "m.nom.pl (dṛṣṭi+gocara)"
+    }
+   ],
+   "question": "Do the yakṣiṇīs become visible at that previously mentioned place of worship?",
+   "premises": [
+    "The verse refers to the previously mentioned location.",
+    "Yakṣiṇīs are the subjects under consideration.",
+    "Being within the range of sight indicates visibility."
+   ],
+   "inference": "Therefore, the yakṣiṇīs may become visible there.",
+   "uncertainties": [
+    "Whether yakṣiṇyāḥ is singular genitive or plural nominative in intended sense is contextually resolved here as plural subjects by agreement with dṛṣṭigocarāḥ."
+   ],
+   "plain_english": "There, the yakṣiṇīs may come within the range of sight."
+  }
+ ]
+}
