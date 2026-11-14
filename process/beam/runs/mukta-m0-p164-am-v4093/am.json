@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p164",
  "verse": 4093,
- "question": "What measures are assigned to the kampa and the lotus in this arrangement?",
+ "question": "What preparatory practice and count accompany Gāyatrī recitation?",
  "premises": [
-  "A space part is called kampa.",
-  "Two parts are assigned to the lotus.",
-  "Both assignments are explicitly stated."
+  "Three breath controls are performed first",
+  "Gāyatrī recitation follows",
+  "A count of one hundred and eight is indicated"
  ],
- "inference": "In this arrangement, the kampa is one space part and the lotus is two parts.",
- "uncertainties": [],
- "plain_english": "A space part is said to be the kampa, and two parts are called the lotus."
+ "inference": "After three breath controls, Gāyatrī is recited one hundred and eight times",
+ "uncertainties": [
+  "The final token 'śatag' may indicate a hundred in addition or be part of a compound count; reading follows surface sequence"
+ ],
+ "plain_english": "Having performed three breath controls, one should recite the Gāyatrī one hundred and eight times."
 }
