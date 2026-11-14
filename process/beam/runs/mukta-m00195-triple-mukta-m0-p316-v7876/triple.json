@@ -1,0 +1,1043 @@
+{
+ "song": "mukta-m0-p316",
+ "items": [
+  {
+   "verse": 7876,
+   "rows": [
+    {
+     "surface": "nirguṇḍīmūla",
+     "gloss": "nirguṇḍī-root",
+     "grounds": "compound of nirguṇḍī and mūla",
+     "morph": "compound"
+    },
+    {
+     "surface": "homena",
+     "gloss": "by-oblation",
+     "grounds": "instrument of ritual offering",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nigaḍasya",
+     "gloss": "of-fetter",
+     "grounds": "object from which release occurs",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vimocanam",
+     "gloss": "release",
+     "grounds": "result of the oblation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does oblation with nirguṇḍī root bring about release from fetters?",
+   "premises": [
+    "Nirguṇḍī root is used in oblation",
+    "The oblation targets a fetter",
+    "Release from the fetter is the stated result"
+   ],
+   "inference": "Oblation performed with nirguṇḍī root effects release from the fetter.",
+   "uncertainties": [],
+   "plain_english": "Oblation with nirguṇḍī root brings release from fetters."
+  },
+  {
+   "verse": 7877,
+   "rows": [
+    {
+     "surface": "sādhyanāma",
+     "gloss": "target-name",
+     "grounds": "compound naming the intended target",
+     "morph": "compound"
+    },
+    {
+     "surface": "amukasthāne",
+     "gloss": "in-such-place",
+     "grounds": "locative placeholder for a specified place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sādhye",
+     "gloss": "in-target",
+     "grounds": "locative referring to the target",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāṇān",
+     "gloss": "vital-breaths",
+     "grounds": "object to be placed or invoked",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the target's name and vital breaths be ritually located?",
+   "premises": [
+    "The target's name is specified",
+    "A placeholder location is indicated",
+    "The target's vital breaths are to be placed there"
+   ],
+   "inference": "The target's name and vital breaths are to be located in the specified place of the target.",
+   "uncertainties": [
+    "The exact syntactic role of the repeated ca is context-dependent"
+   ],
+   "plain_english": "Place the target's name and vital breaths there in the specified place of the target."
+  },
+  {
+   "verse": 7878,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "mūlemukasthāne",
+     "gloss": "in-root-such-place",
+     "grounds": "fused locative expression with placeholder",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sādhyanāma",
+     "gloss": "target-name",
+     "grounds": "name of the intended target",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-apply",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √yuj"
+    }
+   ],
+   "question": "How must recitation and application of the target's name be performed?",
+   "premises": [
+    "Recitation is prescribed",
+    "The root and placeholder place are specified",
+    "The target's name must be applied"
+   ],
+   "inference": "One should recite at the root in the specified place and apply the target's name.",
+   "uncertainties": [
+    "The precise referent of mūla in this ritual context is not explicit"
+   ],
+   "plain_english": "One should recite at the root in the specified place and indeed apply the target's name."
+  },
+  {
+   "verse": 7879,
+   "rows": [
+    {
+     "surface": "tadrūpaṃ",
+     "gloss": "that-form",
+     "grounds": "form corresponding to the target",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-place",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.caus.act √viś"
+    }
+   ],
+   "question": "What form must be placed in the specified ritual location?",
+   "premises": [
+    "A form corresponding to the target is identified",
+    "A specific place has been indicated",
+    "Placement of that form is prescribed"
+   ],
+   "inference": "The target's form should be placed in that specified place.",
+   "uncertainties": [],
+   "plain_english": "One should place that form there in that place."
+  },
+  {
+   "verse": 7880,
+   "rows": [
+    {
+     "surface": "uttānām",
+     "gloss": "face-up",
+     "grounds": "orientation of the figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṣṭotthāṃ",
+     "gloss": "flour-made",
+     "grounds": "compound describing material origin",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svāsanādhaḥ",
+     "gloss": "under-own-seat",
+     "grounds": "compound indicating location beneath one's seat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "should-dig",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √khan"
+    }
+   ],
+   "question": "How and where should the flour-made figure be buried in the ritual?",
+   "premises": [
+    "A flour-made figure is prepared",
+    "The figure is to be placed face-up",
+    "The location is beneath one's own seat"
+   ],
+   "inference": "One should dig beneath one's own seat and bury the face-up flour-made figure there.",
+   "uncertainties": [],
+   "plain_english": "Then one should dig under one's own seat and bury the face-up flour-made figure there."
+  },
+  {
+   "verse": 7881,
+   "rows": [
+    {
+     "surface": "sahaitāḥ",
+     "gloss": "with-these",
+     "grounds": "compound indicating accompaniment",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "number of cavities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūryāḥ",
+     "gloss": "to-be-filled",
+     "grounds": "cavities to be filled",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "indicates subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must be done with the three cavities after the previous step?",
+   "premises": [
+    "Three cavities are involved",
+    "They are associated with the previous elements",
+    "A subsequent action is indicated"
+   ],
+   "inference": "After that, the three cavities are to be filled together with these.",
+   "uncertainties": [
+    "The exact referent of etāḥ is carried from prior context"
+   ],
+   "plain_english": "Then, after that, the three cavities are indeed to be filled together with these."
+  },
+  {
+   "verse": 7882,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhūcchiṣṭamayīm",
+     "gloss": "wax-made",
+     "grounds": "compound describing material",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ūrdhvapādām",
+     "gloss": "feet-upward",
+     "grounds": "compound describing orientation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "adhomukhīm",
+     "gloss": "face-downward",
+     "grounds": "compound describing orientation",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of wax figure is to be prepared in the next ritual step?",
+   "premises": [
+    "A subsequent step follows",
+    "The figure is made of wax",
+    "Its orientation is feet upward and face downward"
+   ],
+   "inference": "Next, a wax-made figure with feet upward and face downward is to be prepared.",
+   "uncertainties": [],
+   "plain_english": "Then one should prepare a wax-made figure with its feet upward and its face downward."
+  },
+  {
+   "verse": 7883,
+   "rows": [
+    {
+     "surface": "puttalīm",
+     "gloss": "doll",
+     "grounds": "effigy used in the ritual",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "instrumental reference to wax or prior material",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-make",
+     "grounds": "causative injunctive ritual action",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "What object should be fashioned using the specified material?",
+   "premises": [
+    "A material has been indicated",
+    "A doll is the required object",
+    "Its making is prescribed"
+   ],
+   "inference": "One should have a doll made with that material.",
+   "uncertainties": [
+    "The exact referent of tena depends on prior verse context"
+   ],
+   "plain_english": "One should have a doll made with that."
+  },
+  {
+   "verse": 7884,
+   "rows": [
+    {
+     "surface": "saṃhārabhāgena",
+     "gloss": "with-dissolution-part",
+     "grounds": "compound indicating ritual phase or portion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nyāsam",
+     "gloss": "placement",
+     "grounds": "ritual placement of mantric elements",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "How should the ritual placement be performed in this phase?",
+   "premises": [
+    "A dissolution part is specified",
+    "Ritual placement is required",
+    "Performance of that placement is prescribed"
+   ],
+   "inference": "One should perform the placement using the dissolution part.",
+   "uncertainties": [],
+   "plain_english": "One should perform the placement with the dissolution part."
+  },
+  {
+   "verse": 7885,
+   "rows": [
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "concluding statement of prior instruction",
+     "morph": "m.nom.sg.past-pass.part √īr"
+    }
+   ],
+   "question": "What status is given to the preceding ritual instruction?",
+   "premises": [
+    "A ritual procedure has been described",
+    "The verse provides a concluding marker",
+    "The instruction is presented as stated"
+   ],
+   "inference": "The preceding instruction is declared as thus stated.",
+   "uncertainties": [],
+   "plain_english": "Thus it has been declared."
+  },
+  {
+   "verse": 7886,
+   "rows": [
+    {
+     "surface": "dakṣaḥ",
+     "gloss": "right",
+     "grounds": "right side designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal position",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "caturthaḥ",
+     "gloss": "fourth",
+     "grounds": "ordinal position",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mastakam",
+     "gloss": "head",
+     "grounds": "body part designated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "authoritative designation",
+     "morph": "n.nom.sg.past-pass.part √man"
+    }
+   ],
+   "question": "Which body parts correspond to the third and fourth ritual divisions?",
+   "premises": [
+    "Ordinal divisions are being assigned",
+    "The right side is named as third",
+    "The head is named as fourth"
+   ],
+   "inference": "The third division should be the right side and the fourth is considered the head.",
+   "uncertainties": [
+    "The exact sequence context for these ordinals comes from surrounding verses"
+   ],
+   "plain_english": "The third should be the right side, and the fourth is considered the head."
+  },
+  {
+   "verse": 7887,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "saptamaḥ",
+     "gloss": "seventh",
+     "grounds": "ordinal position",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrvādi",
+     "gloss": "thigh-beginning",
+     "grounds": "compound indicating starting point",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādāṃtaḥ",
+     "gloss": "foot-end",
+     "grounds": "compound indicating ending point",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "savyadehataḥ",
+     "gloss": "from-left-body",
+     "grounds": "compound indicating left side of body",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What body region is assigned as the seventh ritual division?",
+   "premises": [
+    "The seventh ordinal division is specified",
+    "The region extends from thigh to foot",
+    "The region is on the left side of the body"
+   ],
+   "inference": "The seventh division should be the region from thigh to foot on the left side of the body.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the seventh should be from the thigh to the foot on the left side of the body."
+  },
+  {
+   "verse": 7888,
+   "rows": [
+    {
+     "surface": "gulphadvayaṃ",
+     "gloss": "ankle-pair",
+     "grounds": "compound denoting both ankles",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānudvayaṃ",
+     "gloss": "knee-pair",
+     "grounds": "compound denoting both knees",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jaṃghādvayaṃ",
+     "gloss": "calf-pair",
+     "grounds": "compound denoting both calves",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which paired body parts are included in the ritual division scheme?",
+   "premises": [
+    "Paired body parts are being enumerated",
+    "Ankles, knees, and calves are named",
+    "The enumeration continues in the same manner"
+   ],
+   "inference": "The pair of ankles, the pair of knees, and the pair of calves are likewise included.",
+   "uncertainties": [],
+   "plain_english": "Likewise the pair of ankles, the pair of knees, and the pair of calves."
+  },
+  {
+   "verse": 7889,
+   "rows": [
+    {
+     "surface": "śarīram",
+     "gloss": "body",
+     "grounds": "object being divided",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekādaśadhā",
+     "gloss": "in-eleven-parts",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asādhyasya",
+     "gloss": "of-unconquerable",
+     "grounds": "refers to the target whose body is divided",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-stated",
+     "grounds": "future statement marker",
+     "morph": "3.sg.fut.pass √vac"
+    }
+   ],
+   "question": "Into how many parts is the unconquerable target's body to be divided?",
+   "premises": [
+    "The body of the unconquerable target is the subject",
+    "A division into eleven parts is specified",
+    "This division is being stated"
+   ],
+   "inference": "The body of the unconquerable target is to be divided into eleven parts.",
+   "uncertainties": [
+    "The term asādhya may function as a technical designation of the target"
+   ],
+   "plain_english": "Now the body of the unconquerable target will be stated as divided into eleven parts."
+  },
+  {
+   "verse": 7890,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "portion",
+     "grounds": "object of offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "mental act accompanying offering",
+     "morph": "m.nom.sg.pres.part.act √smṛ"
+    },
+    {
+     "surface": "śatruṃ",
+     "gloss": "enemy",
+     "grounds": "target of the ritual",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niśāmukhe",
+     "gloss": "at-night-beginning",
+     "grounds": "compound indicating time of ritual",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "When and with what mental focus should the ritual portion be offered?",
+   "premises": [
+    "A portion is to be offered",
+    "The enemy must be remembered during the offering",
+    "The time is the beginning of night"
+   ],
+   "inference": "One should offer the portion at the beginning of night while remembering the enemy.",
+   "uncertainties": [],
+   "plain_english": "One should offer the portion at the beginning of night while remembering the enemy."
+  },
+  {
+   "verse": 7891,
+   "rows": [
+    {
+     "surface": "nāryaḥ",
+     "gloss": "women",
+     "grounds": "subjects affected by the rite",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saṃkṣubdhāḥ",
+     "gloss": "agitated",
+     "grounds": "resulting state",
+     "morph": "f.nom.pl.past-pass.part √kṣubh"
+    },
+    {
+     "surface": "madanāturāḥ",
+     "gloss": "love-tormented",
+     "grounds": "compound describing emotional state",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What effect does the ritual produce in the targeted women?",
+   "premises": [
+    "Women are the subjects affected",
+    "They become agitated",
+    "They become tormented by desire"
+   ],
+   "inference": "The ritual causes women to become agitated and tormented by desire.",
+   "uncertainties": [],
+   "plain_english": "Women become agitated and tormented by desire."
+  },
+  {
+   "verse": 7892,
+   "rows": [
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "imperative plea",
+     "morph": "2.sg.imp.mid √kṣam"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśya",
+     "gloss": "look",
+     "grounds": "imperative appeal",
+     "morph": "2.sg.imp.act √paś"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "speaker as object",
+     "morph": "1.sg.acc"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibitive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "abandoning",
+     "grounds": "action to be avoided",
+     "morph": "absolutive √tyaj"
+    }
+   ],
+   "question": "What words of longing are attributed to the affected women?",
+   "premises": [
+    "A plea for forgiveness is uttered",
+    "A request to be seen is made",
+    "Abandonment is explicitly rejected"
+   ],
+   "inference": "The affected women are depicted as saying, 'Forgive me, look at me, do not abandon me.'",
+   "uncertainties": [],
+   "plain_english": "They say, 'Forgive me, look at me, do not abandon me.'"
+  },
+  {
+   "verse": 7893,
+   "rows": [
+    {
+     "surface": "mantriṇaḥ",
+     "gloss": "of-mantrin",
+     "grounds": "possessor or object of attachment",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yoṣitaḥ",
+     "gloss": "women",
+     "grounds": "subjects of the effect",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "duration of the effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Toward whom are the affected women persistently drawn?",
+   "premises": [
+    "Women are the affected subjects",
+    "The mantrin is the focal figure",
+    "The effect is constant"
+   ],
+   "inference": "The women are always drawn toward the mantrin.",
+   "uncertainties": [
+    "The verb is implied from the preceding verses"
+   ],
+   "plain_english": "The women are always devoted to the mantrin."
+  },
+  {
+   "verse": 7894,
+   "rows": [
+    {
+     "surface": "haridrācūrṇa",
+     "gloss": "turmeric-powder",
+     "grounds": "compound naming an ingredient",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "mixed-with",
+     "grounds": "describes combination",
+     "morph": "n.nom.sg.past-pass.part √yuj"
+    },
+    {
+     "surface": "lavaṇaṃ",
+     "gloss": "salt",
+     "grounds": "substance used in the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "stambhane",
+     "gloss": "in-immobilization",
+     "grounds": "ritual purpose",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "authoritative designation",
+     "morph": "n.nom.sg.past-pass.part √man"
+    }
+   ],
+   "question": "What substance mixture is prescribed for the rite of immobilization?",
+   "premises": [
+    "Turmeric powder is specified",
+    "Salt is mixed with it",
+    "The mixture is intended for immobilization"
+   ],
+   "inference": "Salt mixed with turmeric powder is considered suitable for immobilization.",
+   "uncertainties": [],
+   "plain_english": "Salt mixed with turmeric powder is considered effective in immobilization."
+  },
+  {
+   "verse": 7895,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "numerical option",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numerical option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numerical option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "reiterative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What numerical options are given for the ritual arrangement being described?",
+   "premises": [
+    "The instruction continues from prior context",
+    "Three, five, and seven are listed",
+    "Alternatives are explicitly marked"
+   ],
+   "inference": "The ritual may be performed with three, five, or seven, as alternatives.",
+   "uncertainties": [
+    "The counted items are supplied by the following verse"
+   ],
+   "plain_english": "Likewise, three, five, or seven may be used."
+  },
+  {
+   "verse": 7896,
+   "rows": [
+    {
+     "surface": "mantrajñaiḥ",
+     "gloss": "by-mantra-knowers",
+     "grounds": "qualified ritual agents",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kanyakāḥ",
+     "gloss": "maidens",
+     "grounds": "participants or ritual elements",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "general applicability",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who should employ the specified number of maidens in the ritual?",
+   "premises": [
+    "Maidens are the items counted previously",
+    "Mantra-knowers are the agents",
+    "The practice is stated as always applicable"
+   ],
+   "inference": "Mantra-knowers should always employ the specified number of maidens.",
+   "uncertainties": [],
+   "plain_english": "Mantra-knowers should always employ the maidens in the specified number."
+  },
+  {
+   "verse": 7897,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṣṭamayān",
+     "gloss": "flour-made",
+     "grounds": "compound describing material",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dīpān",
+     "gloss": "lamps",
+     "grounds": "ritual objects to be arranged",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "What additional ritual objects should be arranged in this procedure?",
+   "premises": [
+    "The instruction continues in the same manner",
+    "Lamps made of flour are specified",
+    "Their arrangement is prescribed"
+   ],
+   "inference": "One should likewise arrange lamps made of flour.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one should arrange lamps made of flour."
+  },
+  {
+   "verse": 7898,
+   "rows": [
+    {
+     "surface": "mātaṃgīprītaye",
+     "gloss": "for-mātaṅgī-pleasure",
+     "grounds": "compound expressing ritual purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "maṃtrī",
+     "gloss": "mantrin",
+     "grounds": "ritual practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yoginyaṣṭakam",
+     "gloss": "yoginī-group-of-eight",
+     "grounds": "compound denoting eight yoginīs",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āyajet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "For whose pleasure should the mantrin worship the group of eight yoginīs?",
+   "premises": [
+    "The mantrin is the ritual agent",
+    "A group of eight yoginīs is the object of worship",
+    "The worship is for the pleasure of Mātaṅgī"
+   ],
+   "inference": "The mantrin should worship the group of eight yoginīs for the pleasure of Mātaṅgī.",
+   "uncertainties": [],
+   "plain_english": "For the pleasure of Mātaṅgī, the mantrin should worship the group of eight yoginīs."
+  },
+  {
+   "verse": 7899,
+   "rows": [
+    {
+     "surface": "ḍākinīṃ",
+     "gloss": "ḍākinī",
+     "grounds": "name of a goddess figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālikāṃ",
+     "gloss": "kālikā",
+     "grounds": "name of a goddess figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālarātrim",
+     "gloss": "kālarātri",
+     "grounds": "name of a goddess figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśānagocarām",
+     "gloss": "in-īśāna-direction",
+     "grounds": "compound indicating directional domain",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess figures in the Īśāna direction are included in the worship?",
+   "premises": [
+    "Ḍākinī, Kālikā, and Kālarātri are named",
+    "They are associated with the Īśāna direction",
+    "They are objects of the ongoing worship context"
+   ],
+   "inference": "Ḍākinī, Kālikā, and Kālarātri in the Īśāna direction are included in the worship.",
+   "uncertainties": [
+    "The exact grammatical scope of īśānagocarām over the list is context-dependent"
+   ],
+   "plain_english": "One should worship Ḍākinī, Kālikā, and Kālarātri in the Īśāna direction."
+  }
+ ]
+}

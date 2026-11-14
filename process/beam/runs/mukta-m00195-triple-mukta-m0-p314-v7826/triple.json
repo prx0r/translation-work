@@ -1,0 +1,973 @@
+{
+ "song": "mukta-m0-p314",
+ "items": [
+  {
+   "verse": 7826,
+   "rows": [
+    {
+     "surface": "rañjanīṃ",
+     "gloss": "delighting",
+     "grounds": "epithet or syllable-name in mantra sequence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "klīṃ",
+     "gloss": "klīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "injunction for recitation",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "Which syllables must be uttered next in the mantra recitation sequence?",
+   "premises": [
+    "The word rañjanīṃ is specified in the sequence.",
+    "The bīja klīṃ follows in that sequence.",
+    "The practitioner should then utter them accordingly."
+   ],
+   "inference": "The recitation proceeds by uttering rañjanīṃ and klīṃ in that order.",
+   "uncertainties": [
+    "Whether rañjanīṃ names a syllable or functions as an epithet is context-dependent."
+   ],
+   "plain_english": "Then one should utter rañjanīṃ and klīṃ."
+  },
+  {
+   "verse": 7827,
+   "rows": [
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "syllables or phonemes of the mantra",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāriṃśat",
+     "gloss": "forty",
+     "grounds": "numeral specifying count",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential arrangement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many letters must be recited in order at this stage?",
+   "premises": [
+    "Letters of the mantra are the object of recitation.",
+    "Their number is specified as forty.",
+    "They are to be taken in sequence."
+   ],
+   "inference": "Forty letters are to be recited in order at this point.",
+   "uncertainties": [],
+   "plain_english": "Then one should recite forty letters in order."
+  },
+  {
+   "verse": 7828,
+   "rows": [
+    {
+     "surface": "dvyūna+śataṃ",
+     "gloss": "two-less-than-hundred",
+     "grounds": "compound numeral meaning ninety-eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantre",
+     "gloss": "in-mantra",
+     "grounds": "locative specifying the mantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "letters",
+     "grounds": "syllables or phonemes",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement of count",
+     "morph": "m.nom.pl.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "What total number of letters is declared to exist in this mantra?",
+   "premises": [
+    "The count is expressed as two less than a hundred.",
+    "The count applies within this mantra.",
+    "The letters are authoritatively declared."
+   ],
+   "inference": "The mantra is declared to contain ninety-eight letters.",
+   "uncertainties": [],
+   "plain_english": "Ninety-eight letters are declared in this mantra."
+  },
+  {
+   "verse": 7829,
+   "rows": [
+    {
+     "surface": "duṣprāpyaḥ",
+     "gloss": "hard-to-attain",
+     "grounds": "describes rarity or difficulty of access",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "akṛta+puṇyaiḥ",
+     "gloss": "by-those-without-merit",
+     "grounds": "compound indicating lack of accumulated merit",
+     "morph": "compound, m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munīndra+ādyaiḥ",
+     "gloss": "by-great-sages-and-others",
+     "grounds": "compound indicating eminent sages and similar beings",
+     "morph": "compound, m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevitaḥ",
+     "gloss": "served",
+     "grounds": "honored or practiced by",
+     "morph": "m.nom.sg.past-passive-participle √sev"
+    }
+   ],
+   "question": "Who finds this mantra hard to attain and who has served it?",
+   "premises": [
+    "The mantra is described as hard to attain.",
+    "Those without merit cannot easily attain it.",
+    "Great sages and others have served it."
+   ],
+   "inference": "The mantra is difficult for the meritless but has been served by great sages and others.",
+   "uncertainties": [],
+   "plain_english": "It is hard to attain for those without merit, and it has been served by great sages and others."
+  },
+  {
+   "verse": 7830,
+   "rows": [
+    {
+     "surface": "pūrvam",
+     "gloss": "previously",
+     "grounds": "temporal marker referring to earlier teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uditā",
+     "gloss": "declared",
+     "grounds": "stated earlier",
+     "morph": "m.nom.pl.past-passive-participle √vad"
+    },
+    {
+     "surface": "mantrasya+asya",
+     "gloss": "of-this-mantra",
+     "grounds": "compound specifying the mantra in question",
+     "morph": "compound, m.gen.sg"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "they-are",
+     "grounds": "asserts existence or applicability",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the status of the elements previously declared for this mantra?",
+   "premises": [
+    "Certain elements were declared previously.",
+    "Those elements belong to this mantra.",
+    "They are affirmed as being so."
+   ],
+   "inference": "The elements previously declared for this mantra indeed apply.",
+   "uncertainties": [
+    "The specific elements referred to are not named in this verse."
+   ],
+   "plain_english": "Indeed, the elements previously declared for this mantra are as stated."
+  },
+  {
+   "verse": 7831,
+   "rows": [
+    {
+     "surface": "pañca+bāṇa+aṅgulīṣu",
+     "gloss": "on-five-arrow-fingers",
+     "grounds": "compound indicating the five fingers associated with the five arrows",
+     "morph": "compound, f.loc.pl"
+    },
+    {
+     "surface": "talayoḥ",
+     "gloss": "on-two-palms",
+     "grounds": "location on both palms",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "makaradhvajam",
+     "gloss": "makaradhvaja",
+     "grounds": "name or mantra-form to be placed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should the makaradhvaja element be placed on the hands?",
+   "premises": [
+    "The placement involves the five fingers.",
+    "The placement also involves both palms.",
+    "The element to be placed is makaradhvaja."
+   ],
+   "inference": "Makaradhvaja is to be placed on the five fingers and on both palms.",
+   "uncertainties": [
+    "The exact distribution across fingers and palms is not fully specified."
+   ],
+   "plain_english": "Place makaradhvaja on the five fingers and on both palms."
+  },
+  {
+   "verse": 7832,
+   "rows": [
+    {
+     "surface": "makaradhvaja",
+     "gloss": "makaradhvaja",
+     "grounds": "mantra name or formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the formula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "klīṃ",
+     "gloss": "klīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ+antaḥ",
+     "gloss": "ending-with-namaḥ",
+     "grounds": "compound indicating the formula ends with namaḥ",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "How is the makaradhvaja mantra formula formally declared in this context?",
+   "premises": [
+    "The formula is identified as makaradhvaja.",
+    "It includes the bīja klīṃ.",
+    "It ends with namaḥ."
+   ],
+   "inference": "The formula 'makaradhvaja' with klīṃ and ending in namaḥ is declared.",
+   "uncertainties": [
+    "The full internal order of the formula may be implied rather than fully spelled out."
+   ],
+   "plain_english": "This formula, 'makaradhvaja' with klīṃ and ending in namaḥ, is declared."
+  },
+  {
+   "verse": 7833,
+   "rows": [
+    {
+     "surface": "śrotrayoḥ",
+     "gloss": "on-two-ears",
+     "grounds": "location on both ears",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "ghrāṇayoḥ",
+     "gloss": "on-two-nostrils",
+     "grounds": "location on both nostrils",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "on-mouth",
+     "grounds": "location on the mouth",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gaṇḍayoḥ",
+     "gloss": "on-two-cheeks",
+     "grounds": "location on both cheeks",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "kakudi",
+     "gloss": "on-nape",
+     "grounds": "location on the nape or back of neck",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential placement",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Which bodily locations are specified in sequence for this placement?",
+   "premises": [
+    "The ears and nostrils are named as locations.",
+    "The mouth, cheeks, and nape are named as locations.",
+    "The placement is to follow a sequence."
+   ],
+   "inference": "The placement proceeds in order on the ears, nostrils, mouth, cheeks, and nape.",
+   "uncertainties": [],
+   "plain_english": "In order, place them on the two ears, the two nostrils, the mouth, the two cheeks, and the nape."
+  },
+  {
+   "verse": 7834,
+   "rows": [
+    {
+     "surface": "mūlādhāre",
+     "gloss": "at-mūlādhāra",
+     "grounds": "location at the mūlādhāra center",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "padoḥ",
+     "gloss": "on-two-feet",
+     "grounds": "location on both feet",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional bodily locations are included in this placement sequence?",
+   "premises": [
+    "The mūlādhāra is named as a location.",
+    "Both feet are named as locations.",
+    "These are included in addition."
+   ],
+   "inference": "The placement also includes the mūlādhāra and both feet.",
+   "uncertainties": [],
+   "plain_english": "Also place them at the mūlādhāra and on both feet."
+  },
+  {
+   "verse": 7835,
+   "rows": [
+    {
+     "surface": "ṣaḍ+aṣṭaka+eka+candra+aṣṭa+nava+aṣṭādaśa+patribhiḥ",
+     "gloss": "with-six-eight-one-moon-eight-nine-eighteen-parts",
+     "grounds": "compound indicating a sequence of numerical divisions or groups",
+     "morph": "compound, n.inst.pl"
+    }
+   ],
+   "question": "What numerical grouping is specified for distributing the mantra elements?",
+   "premises": [
+    "A compound lists the numbers six, eight, one, one, eight, nine, and eighteen.",
+    "The term candra conventionally represents one.",
+    "These function as divisions or groups for placement."
+   ],
+   "inference": "The mantra elements are distributed according to groups of six, eight, one, one, eight, nine, and eighteen.",
+   "uncertainties": [
+    "The exact referent of patribhiḥ as leaves, parts, or divisions depends on ritual context."
+   ],
+   "plain_english": "Use the groups of six, eight, one, one, eight, nine, and eighteen."
+  },
+  {
+   "verse": 7836,
+   "rows": [
+    {
+     "surface": "ekonaviṃśati+yutān",
+     "gloss": "joined-with-nineteen",
+     "grounds": "compound indicating addition of nineteen",
+     "morph": "compound, m.acc.pl"
+    },
+    {
+     "surface": "mantra+arṇān",
+     "gloss": "mantra-syllables",
+     "grounds": "compound denoting syllables of the mantra",
+     "morph": "compound, m.acc.pl"
+    },
+    {
+     "surface": "āditaḥ",
+     "gloss": "from-beginning",
+     "grounds": "starting point of the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential arrangement",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the mantra syllables be taken and arranged from the beginning?",
+   "premises": [
+    "The mantra syllables are the items to be arranged.",
+    "They are taken together with nineteen.",
+    "They are arranged from the beginning in order."
+   ],
+   "inference": "The mantra syllables, together with nineteen, are to be taken in order from the beginning.",
+   "uncertainties": [
+    "The precise way nineteen is added to the prior grouping is not explicit."
+   ],
+   "plain_english": "Take the mantra syllables, together with nineteen, in order from the beginning."
+  },
+  {
+   "verse": 7837,
+   "rows": [
+    {
+     "surface": "kāma+śaktī+indirā+bījāni",
+     "gloss": "kāma-śakti-indirā-seed-syllables",
+     "grounds": "compound naming three bīja syllables",
+     "morph": "compound, n.nom.pl"
+    },
+    {
+     "surface": "uktāni",
+     "gloss": "stated",
+     "grounds": "declared in the teaching",
+     "morph": "n.nom.pl.past-passive-participle √vac"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "section of the mantra called śikhā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "belongs to the mantra",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Which seed syllables are identified as the crest of this mantra?",
+   "premises": [
+    "The seed syllables of kāma, śakti, and indirā are named.",
+    "These are stated in the teaching.",
+    "They are identified as the crest of the mantra."
+   ],
+   "inference": "The kāma, śakti, and indirā seed syllables are stated to be the crest of the mantra.",
+   "uncertainties": [
+    "The exact bīja forms corresponding to these names are implied by tradition."
+   ],
+   "plain_english": "The seed syllables of kāma, śakti, and indirā are stated as the crest of the mantra."
+  },
+  {
+   "verse": 7838,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "resumption of placement instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral indicating count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kukṣau",
+     "gloss": "on-belly",
+     "grounds": "location on the belly",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pārśva+dvaye",
+     "gloss": "on-two-sides",
+     "grounds": "compound indicating both sides",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "on-heart",
+     "grounds": "location on the heart",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which body locations receive the next five placements in sequence?",
+   "premises": [
+    "The instruction resumes with five placements.",
+    "The belly and both sides are specified.",
+    "The heart is specified."
+   ],
+   "inference": "The next five placements are made on the belly, the two sides, and the heart.",
+   "uncertainties": [
+    "The distribution of the five items across these locations is not fully explicit."
+   ],
+   "plain_english": "Again, place five on the belly, on both sides, and on the heart."
+  },
+  {
+   "verse": 7839,
+   "rows": [
+    {
+     "surface": "dakṣa+pāda+aṅgulī+mūle",
+     "gloss": "at-root-of-right-foot-toes",
+     "grounds": "compound indicating base of the toes of the right foot",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "gulpha+sandhau",
+     "gloss": "at-ankle-joint",
+     "grounds": "compound indicating the ankle joint",
+     "morph": "compound, m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānuni",
+     "gloss": "at-knee",
+     "grounds": "location at the knee",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which locations on the right leg are specified for the next placements?",
+   "premises": [
+    "The root of the right foot toes is specified.",
+    "The ankle joint is specified.",
+    "The knee is specified."
+   ],
+   "inference": "The placements continue at the root of the right foot toes, the ankle joint, and the knee.",
+   "uncertainties": [],
+   "plain_english": "Place them at the root of the right foot toes, at the ankle joint, and at the knee."
+  },
+  {
+   "verse": 7840,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmī+ādikā",
+     "gloss": "beginning-with-lakṣmī",
+     "grounds": "compound indicating a series starting with lakṣmī",
+     "morph": "compound, f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Which series should be ritually placed at this point in the sequence?",
+   "premises": [
+    "The instruction follows the previous placements.",
+    "A series beginning with lakṣmī is specified.",
+    "The act prescribed is ritual placement."
+   ],
+   "inference": "One should then place the series beginning with lakṣmī.",
+   "uncertainties": [
+    "The full members of the series beginning with lakṣmī are not listed here."
+   ],
+   "plain_english": "Then one should place the series beginning with Lakṣmī."
+  },
+  {
+   "verse": 7841,
+   "rows": [
+    {
+     "surface": "vāma+hasta+aṅgulī+mūle",
+     "gloss": "at-root-of-left-hand-fingers",
+     "grounds": "compound indicating base of the fingers of the left hand",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "dakṣa+hasta+aṅgulī+taṭe",
+     "gloss": "at-edge-of-right-hand-fingers",
+     "grounds": "compound indicating edge or side of the fingers of the right hand",
+     "morph": "compound, n.loc.sg"
+    }
+   ],
+   "question": "Which hand locations are specified for the next ritual placements?",
+   "premises": [
+    "The root of the left hand fingers is specified.",
+    "The edge of the right hand fingers is specified.",
+    "Both are given as placement locations."
+   ],
+   "inference": "The placements are to be made at the root of the left hand fingers and at the edge of the right hand fingers.",
+   "uncertainties": [],
+   "plain_english": "Place them at the root of the left hand fingers and at the edge of the right hand fingers."
+  },
+  {
+   "verse": 7842,
+   "rows": [
+    {
+     "surface": "bhruvoḥ+madhye",
+     "gloss": "between-eyebrows",
+     "grounds": "compound indicating the space between the eyebrows",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "netrayoḥ",
+     "gloss": "on-two-eyes",
+     "grounds": "location on both eyes",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "śrotrayoḥ",
+     "gloss": "on-two-ears",
+     "grounds": "location on both ears",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "gude",
+     "gloss": "on-anus",
+     "grounds": "location at the anus",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which facial and lower bodily points are named for this placement stage?",
+   "premises": [
+    "The point between the eyebrows is specified.",
+    "Both eyes and both ears are specified.",
+    "The anus is specified."
+   ],
+   "inference": "The placements are made between the eyebrows, on the eyes, on the ears, and on the anus.",
+   "uncertainties": [],
+   "plain_english": "Place them between the eyebrows, on the two eyes, on the two ears, and on the anus."
+  },
+  {
+   "verse": 7843,
+   "rows": [
+    {
+     "surface": "mūlādhāre",
+     "gloss": "at-mūlādhāra",
+     "grounds": "location at the mūlādhāra center",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhiṣṭhāne",
+     "gloss": "at-adhiṣṭhāna",
+     "grounds": "location at the adhiṣṭhāna center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tālau",
+     "gloss": "on-palates",
+     "grounds": "location on the palate or palates",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāmā+ādikā",
+     "gloss": "beginning-with-vāmā",
+     "grounds": "compound indicating a series starting with vāmā",
+     "morph": "compound, f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where should the series beginning with vāmā be ritually placed?",
+   "premises": [
+    "The mūlādhāra and adhiṣṭhāna are specified as locations.",
+    "The palate is specified as a location.",
+    "The series beginning with vāmā is to be placed."
+   ],
+   "inference": "One should place the series beginning with vāmā at the mūlādhāra, adhiṣṭhāna, and palate.",
+   "uncertainties": [
+    "Whether tālau refers to one palate or both is not explicit."
+   ],
+   "plain_english": "One should place the series beginning with Vāmā at the mūlādhāra, at the adhiṣṭhāna, and on the palate."
+  },
+  {
+   "verse": 7844,
+   "rows": [
+    {
+     "surface": "mātaṅy+ādi+catuṣkaṃ",
+     "gloss": "tetrad-beginning-with-mātaṅgī",
+     "grounds": "compound indicating a group of four starting with mātaṅgī",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "on-heart",
+     "grounds": "location on the heart",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "on-navel",
+     "grounds": "location on the navel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śiraḥ+gude",
+     "gloss": "on-head-and-anus",
+     "grounds": "compound indicating head and anus as locations",
+     "morph": "compound, n.loc.sg"
+    }
+   ],
+   "question": "Where should the tetrad beginning with Mātaṅgī be placed on the body?",
+   "premises": [
+    "A tetrad beginning with Mātaṅgī is specified.",
+    "The heart and navel are specified as locations.",
+    "The head and anus are specified as locations."
+   ],
+   "inference": "The tetrad beginning with Mātaṅgī is to be placed on the heart, navel, head, and anus.",
+   "uncertainties": [
+    "The distribution of the four members across these locations is not fully explicit."
+   ],
+   "plain_english": "Place the tetrad beginning with Mātaṅgī on the heart, on the navel, and on the head and anus."
+  },
+  {
+   "verse": 7845,
+   "rows": [
+    {
+     "surface": "kaṃ",
+     "gloss": "kaṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "bodily location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "base or root location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental use of the mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervasion",
+     "grounds": "all-pervading placement or diffusion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "How should the syllable kaṃ and the mantra be used for pervasive placement?",
+   "premises": [
+    "The syllable kaṃ is specified.",
+    "The head and its root are specified as locations.",
+    "A pervasive placement is to be performed with the mantra."
+   ],
+   "inference": "One should perform a pervasive placement with the mantra, using kaṃ at the head and its root.",
+   "uncertainties": [
+    "The exact scope of vyāpakaṃ in this ritual step is not fully specified."
+   ],
+   "plain_english": "One should perform the pervasive placement with the mantra, using kaṃ at the head and at its root."
+  },
+  {
+   "verse": 7846,
+   "rows": [
+    {
+     "surface": "bhruvoḥ+madhye",
+     "gloss": "between-eyebrows",
+     "grounds": "compound indicating the space between the eyebrows",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "dakṣa+pāde",
+     "gloss": "on-right-foot",
+     "grounds": "compound indicating the right foot",
+     "morph": "compound, m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "on-left",
+     "grounds": "refers to the left side or left foot",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which additional points are included for placement in this step?",
+   "premises": [
+    "The point between the eyebrows is specified.",
+    "The right foot is specified.",
+    "The left side is specified likewise."
+   ],
+   "inference": "The placement includes the point between the eyebrows, the right foot, and likewise the left.",
+   "uncertainties": [
+    "Whether uttare refers specifically to the left foot is inferred from parallelism."
+   ],
+   "plain_english": "Place them between the eyebrows, on the right foot, and likewise on the left."
+  },
+  {
+   "verse": 7847,
+   "rows": [
+    {
+     "surface": "samudre",
+     "gloss": "in-ocean",
+     "grounds": "visualized setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition to visualization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratna+dvīpe",
+     "gloss": "on-jewel-island",
+     "grounds": "compound indicating an island of jewels",
+     "morph": "compound, m.loc.sg"
+    },
+    {
+     "surface": "mahā+vane",
+     "gloss": "in-great-forest",
+     "grounds": "compound indicating a great forest",
+     "morph": "compound, n.loc.sg"
+    }
+   ],
+   "question": "What visionary setting is established for the subsequent meditation?",
+   "premises": [
+    "An ocean is specified as part of the setting.",
+    "A jewel island is specified within that setting.",
+    "A great forest is specified as the location."
+   ],
+   "inference": "The meditation setting is in the ocean, on a jewel island, in a great forest.",
+   "uncertainties": [],
+   "plain_english": "In the ocean, on a jewel island, in a great forest."
+  },
+  {
+   "verse": 7848,
+   "rows": [
+    {
+     "surface": "maṇi+siṃhāsanasya+ūrdhvam",
+     "gloss": "above-jewel-throne",
+     "grounds": "compound indicating position above a jeweled throne",
+     "morph": "compound, (indecl.)"
+    },
+    {
+     "surface": "upaviṣṭāṃ",
+     "gloss": "seated",
+     "grounds": "describes the goddess as seated",
+     "morph": "f.acc.sg.past-active-participle √viś"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "meditative instruction",
+     "morph": "3.sg.opt.act √cint"
+    }
+   ],
+   "question": "How should the deity be visualized in relation to the jeweled throne?",
+   "premises": [
+    "A jeweled throne is part of the visualized setting.",
+    "The deity is described as seated above it.",
+    "The practitioner is instructed to visualize this."
+   ],
+   "inference": "One should visualize the deity seated above the jeweled throne.",
+   "uncertainties": [],
+   "plain_english": "One should visualize her seated above the jeweled throne."
+  },
+  {
+   "verse": 7849,
+   "rows": [
+    {
+     "surface": "śubhra+aṃśu+vadanāṃ",
+     "gloss": "with-face-like-bright-moon",
+     "grounds": "compound describing a face bright like moonbeams",
+     "morph": "compound, f.acc.sg"
+    },
+    {
+     "surface": "nīpa+puṣpa+gumphita+veṇikām",
+     "gloss": "with-braid-strung-with-kadamba-flowers",
+     "grounds": "compound describing a braid adorned with nīpa flowers",
+     "morph": "compound, f.acc.sg"
+    }
+   ],
+   "question": "What visual features characterize the deity in this meditation image?",
+   "premises": [
+    "The deity's face is described as bright like moonbeams.",
+    "The deity's braid is described as strung with nīpa flowers.",
+    "These are attributes to be visualized."
+   ],
+   "inference": "The deity should be visualized with a bright moonlike face and a braid adorned with nīpa flowers.",
+   "uncertainties": [],
+   "plain_english": "Visualize her with a face bright like the moon and a braid strung with kadamba flowers."
+  }
+ ]
+}
