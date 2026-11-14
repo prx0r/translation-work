@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p187",
  "verse": 4653,
- "question": "What long brush joined and measured to thirty-two is used?",
+ "question": "During which primary rites must the specified actions also be performed?",
  "premises": [
-  "long brush is joined",
-  "measure is thirty-two"
+  "A primary rite is being performed",
+  "The pavitra ceremony and similar rites occur",
+  "The context includes even these occasions"
  ],
- "inference": "brush specification belongs to ritual preparation",
+ "inference": "The actions apply even when the primary pavitra ceremony and similar rites are being performed.",
  "uncertainties": [
-  "legacy hints only"
+  "mūlasya may refer to a root rite or foundational ritual"
  ],
- "plain_english": "A long brush joined and measured to thirty-two is used."
+ "plain_english": "Even when the primary rite, such as the pavitra ceremony and the like, is being performed."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p187",
  "verse": 4672,
- "question": "What quantities are prescribed for the offering?",
+ "question": "Which deity should be worshipped in the vardhanī pot placed to the north?",
  "premises": [
-  "thousand half is named",
-  "half of that is named",
-  "hundred or eight hundred is named"
+  "The vardhanī pot is placed in the north",
+  "Worship is performed in that pot",
+  "Manonmanī is the deity worshipped"
  ],
- "inference": "the offering quantity may be thousand half, half of that, hundred, or eight hundred",
- "uncertainties": [
-  "which quantity applies when"
- ],
- "plain_english": "The quantity may be half a thousand, half of that, a hundred, or eight hundred."
+ "inference": "After placing the vardhanī pot in the north, one should worship Manonmanī in it.",
+ "uncertainties": [],
+ "plain_english": "Having placed the vardhanī pot in the north, one should worship Manonmanī in it."
 }

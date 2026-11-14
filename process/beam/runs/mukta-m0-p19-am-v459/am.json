@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p19",
  "verse": 459,
- "question": "What do the wise declare about placing the lord in the yantra?",
+ "question": "What tip measures are permitted as alternatives for the object?",
  "premises": [
-  "lord placement is named",
-  "in yantra is stated",
-  "wise ones declare it"
+  "Tip measures of two, three, four, or five are allowed.",
+  "A six-measure option is also allowed.",
+  "These are presented as alternatives."
  ],
- "inference": "The wise declare the establishment of the lord's placement in the yantra.",
- "uncertainties": [],
- "plain_english": "The wise declare the establishment of the lord's placement in the yantra."
+ "inference": "The tip may measure two, three, four, five, or six measures.",
+ "uncertainties": [
+  "The referent of agra and the unit of mātra are context-dependent."
+ ],
+ "plain_english": "The tip may measure two, three, four, or five measures, or else six measures."
 }

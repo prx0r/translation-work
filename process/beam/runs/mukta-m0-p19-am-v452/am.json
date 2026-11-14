@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p19",
  "verse": 452,
- "question": "Which chapter of Jayaratha's commentary on the Vamakesvari Mata concludes here?",
+ "question": "From what base measure and by what increments should vessel size begin?",
  "premises": [
-  "the colophon names Jayaratha as composer",
-  "the work is a commentary on Vamakesvari Mata",
-  "the chapter is called fifth"
+  "The starting measure is fifteen fingers.",
+  "The increase proceeds by finger units.",
+  "The increment is specified as vyoma-finger increase."
  ],
- "inference": "this passage closes the fifth chapter of that commentary",
+ "inference": "Vessel sizing begins at fifteen fingers and increases by specified finger increments.",
  "uncertainties": [
-  "whether paṭala means chapter or section depends on edition usage"
+  "The exact numerical value implied by vyoma in this context is unclear."
  ],
- "plain_english": "Thus ends the fifth chapter in the commentary on the Sri Vamakesvari Mata composed by Sri Rajanaka Sri Jayaratha."
+ "plain_english": "Beginning from fifteen fingers, the size should increase by increments of fingers as specified."
 }

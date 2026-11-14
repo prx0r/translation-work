@@ -1,0 +1,1025 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "prokṣite'streṇa",
+     "gloss": "sprinkled-with-weapon-mantra",
+     "grounds": "locative absolute with instrumental; astra refers to the weapon mantra",
+     "morph": "loc.sg.nt + ins.sg.nt"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "gerund indicating prior action",
+     "morph": "gerund (sam-sthā)"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "object to be placed",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "lakṣaṇasaṃyutam",
+     "gloss": "endowed-with-marks",
+     "grounds": "compound describing the vessel's proper characteristics",
+     "morph": "acc.sg.nt (compound)"
+    }
+   ],
+   "question": "What preparation and qualities must the ritual vessel possess before placement?",
+   "premises": [
+    "The area is sprinkled with the weapon mantra.",
+    "The vessel is then established.",
+    "The vessel must be endowed with proper marks."
+   ],
+   "inference": "A properly marked vessel is established only after sprinkling with the weapon mantra.",
+   "uncertainties": [],
+   "plain_english": "After sprinkling with the weapon mantra, one should establish a vessel that is endowed with the proper marks."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "tithyaṃgulaṃ",
+     "gloss": "fifteen-fingers",
+     "grounds": "tithi conventionally indicates fifteen; measure of size",
+     "morph": "acc.sg.nt (compound)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "gerund marking starting point",
+     "morph": "gerund (sam-ā-rabh)"
+    },
+    {
+     "surface": "vyomāṃgulavivṛddhitaḥ",
+     "gloss": "by-sky-finger-increase",
+     "grounds": "vyoma indicates zero or space in numerical usage; increase by finger units",
+     "morph": "abl.sg.f (compound)"
+    }
+   ],
+   "question": "From what base measure and by what increments should vessel size begin?",
+   "premises": [
+    "The starting measure is fifteen fingers.",
+    "The increase proceeds by finger units.",
+    "The increment is specified as vyoma-finger increase."
+   ],
+   "inference": "Vessel sizing begins at fifteen fingers and increases by specified finger increments.",
+   "uncertainties": [
+    "The exact numerical value implied by vyoma in this context is unclear."
+   ],
+   "plain_english": "Beginning from fifteen fingers, the size should increase by increments of fingers as specified."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "vṛttam",
+     "gloss": "round",
+     "grounds": "describes the shape of the vessel",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "iṣṭaghanopetaṃ",
+     "gloss": "endowed-with-desired-thickness",
+     "grounds": "compound indicating appropriate density or solidity",
+     "morph": "acc.sg.nt (compound)"
+    },
+    {
+     "surface": "karṇikādalaśobhitam",
+     "gloss": "adorned-with-pericarp-petals",
+     "grounds": "compound describing decorative features",
+     "morph": "acc.sg.nt (compound)"
+    }
+   ],
+   "question": "What shape, thickness, and ornamentation should characterize the ritual vessel?",
+   "premises": [
+    "The vessel should be round.",
+    "It should have the desired thickness.",
+    "It should be adorned with a pericarp and petals."
+   ],
+   "inference": "The proper vessel is round, suitably thick, and decorated with pericarp and petals.",
+   "uncertainties": [],
+   "plain_english": "The vessel should be round, of the desired thickness, and adorned with a pericarp and petals."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "ekadvitricatuḥpañcaṣaṭbhāgaiḥ",
+     "gloss": "by-one-two-three-four-five-six-parts",
+     "grounds": "instrumental plural indicating possible divisions",
+     "morph": "ins.pl.m (compound)"
+    },
+    {
+     "surface": "karṇikā",
+     "gloss": "pericarp",
+     "grounds": "subject of the proportion",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative.active (bhū)"
+    }
+   ],
+   "question": "Into how many proportional parts may the pericarp be divided?",
+   "premises": [
+    "The pericarp is measured in parts.",
+    "The allowed divisions range from one to six parts.",
+    "The prescription is given as an option."
+   ],
+   "inference": "The pericarp may be made in one, two, three, four, five, or six parts.",
+   "uncertainties": [],
+   "plain_english": "The pericarp should be made in one, two, three, four, five, or six parts."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "ardhatripādamātraṃ",
+     "gloss": "half-or-three-quarter-measure",
+     "grounds": "compound expressing alternative height measures",
+     "morph": "acc.sg.m (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction between options",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvimātraṃ",
+     "gloss": "two-measure",
+     "grounds": "alternative measure",
+     "morph": "acc.sg.m (compound)"
+    },
+    {
+     "surface": "karṇikocchrayam",
+     "gloss": "pericarp-height",
+     "grounds": "object specifying the height of the pericarp",
+     "morph": "acc.sg.m (compound)"
+    }
+   ],
+   "question": "What alternative height measures are permitted for the pericarp?",
+   "premises": [
+    "The pericarp height can be half or three-quarter measure.",
+    "An alternative of two measures is allowed.",
+    "These options are presented as alternatives."
+   ],
+   "inference": "The pericarp height may be half, three-quarter, or two measures.",
+   "uncertainties": [
+    "The exact unit of mātra in this ritual context is not specified."
+   ],
+   "plain_english": "The height of the pericarp may be half a measure, three-quarters of a measure, or two measures."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "kuḍupadvayamārabhya",
+     "gloss": "beginning-from-two-kuḍupa",
+     "grounds": "gerund indicating the lower limit of capacity",
+     "morph": "gerund (ā-rabh) (compound)"
+    },
+    {
+     "surface": "kuḍupādāḍhakāvadhi",
+     "gloss": "up-to-kuḍupa-and-āḍhaka",
+     "grounds": "compound indicating the upper limit of capacity",
+     "morph": "acc.sg.nt (compound)"
+    }
+   ],
+   "question": "What range of capacity measures is prescribed for the vessel contents?",
+   "premises": [
+    "The lower limit is two kuḍupa.",
+    "The upper limit extends to kuḍupa and āḍhaka measures.",
+    "The range defines permissible capacity."
+   ],
+   "inference": "The vessel capacity should range from two kuḍupa up to a kuḍupa and an āḍhaka.",
+   "uncertainties": [
+    "The precise conversion of kuḍupa and āḍhaka is not given here."
+   ],
+   "plain_english": "The capacity should range from two kuḍupa up to a kuḍupa and an āḍhaka."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "madhvājya+miśritaṃ",
+     "gloss": "mixed-with-honey-ghee",
+     "grounds": "compound describing the mixture; plus sign marks internal joining",
+     "morph": "acc.sg.nt (compound)"
+    },
+    {
+     "surface": "vānnaṃ",
+     "gloss": "or-food",
+     "grounds": "alternative offering substance",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "prakṣipet",
+     "gloss": "should-pour",
+     "grounds": "optative prescribing the action",
+     "morph": "3.sg.optative.active (pra-kṣip)"
+    },
+    {
+     "surface": "pātramadhyame",
+     "gloss": "in-vessel-middle",
+     "grounds": "locative indicating placement",
+     "morph": "loc.sg.nt (compound)"
+    }
+   ],
+   "question": "What substance should be placed in the middle of the vessel?",
+   "premises": [
+    "Food mixed with honey and ghee is an option.",
+    "Alternatively plain food may be used.",
+    "The substance should be poured into the middle of the vessel."
+   ],
+   "inference": "One should pour food, optionally mixed with honey and ghee, into the middle of the vessel.",
+   "uncertainties": [],
+   "plain_english": "One should pour food, or food mixed with honey and ghee, into the middle of the vessel."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "ekāṃgulaṃ",
+     "gloss": "one-finger",
+     "grounds": "lower bound of length",
+     "morph": "nom.sg.nt (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "subject being specified",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative.active (as)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "indicates extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭādaśāṃgulam",
+     "gloss": "eighteen-fingers",
+     "grounds": "upper bound of length",
+     "morph": "nom.sg.nt (compound)"
+    }
+   ],
+   "question": "What range of length in finger units is allowed for the object?",
+   "premises": [
+    "The length is specified in finger units.",
+    "The minimum length is one finger.",
+    "The maximum length is eighteen fingers."
+   ],
+   "inference": "The prescribed length ranges from one finger up to eighteen fingers.",
+   "uncertainties": [],
+   "plain_english": "The length should be from one finger up to eighteen fingers."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "agradvitricatuḥpañcamātraṃ",
+     "gloss": "tip-two-three-four-five-measure",
+     "grounds": "compound listing possible tip measures",
+     "morph": "nom.sg.nt (compound)"
+    },
+    {
+     "surface": "ṣaṇmātrameva",
+     "gloss": "six-measure-only",
+     "grounds": "alternative measure with emphasis",
+     "morph": "nom.sg.nt (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction between options",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What tip measures are permitted as alternatives for the object?",
+   "premises": [
+    "Tip measures of two, three, four, or five are allowed.",
+    "A six-measure option is also allowed.",
+    "These are presented as alternatives."
+   ],
+   "inference": "The tip may measure two, three, four, five, or six measures.",
+   "uncertainties": [
+    "The referent of agra and the unit of mātra are context-dependent."
+   ],
+   "plain_english": "The tip may measure two, three, four, or five measures, or else six measures."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "trikālam",
+     "gloss": "three-times",
+     "grounds": "adverbial accusative indicating frequency",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "annaliṃgaṃ",
+     "gloss": "food-linga",
+     "grounds": "object of ritual offering",
+     "morph": "nom.sg.nt (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prātarmadhyāhnayoḥ",
+     "gloss": "in-morning-and-midday",
+     "grounds": "locative dual specifying times",
+     "morph": "loc.dual.m (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At what times may the food linga be offered as an alternative?",
+   "premises": [
+    "The food linga may be offered three times.",
+    "Alternatively it may be offered in the morning and midday.",
+    "These are presented as options."
+   ],
+   "inference": "The food linga may be offered three times daily or at morning and midday.",
+   "uncertainties": [],
+   "plain_english": "The food linga may be offered three times, or alternatively in the morning and at midday."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "pradoṣe",
+     "gloss": "at-evening",
+     "grounds": "locative indicating time",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "akṣataliṃgaṃ",
+     "gloss": "unbroken-rice-linga",
+     "grounds": "object of offering",
+     "morph": "nom.sg.nt (compound)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.optative.active (as)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśupataṃ",
+     "gloss": "pashupata-form",
+     "grounds": "object of worship",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.optative.active (yaj)"
+    }
+   ],
+   "question": "What linga and deity form should be worshipped in the evening?",
+   "premises": [
+    "In the evening an unbroken-rice linga should be used.",
+    "In that context worship is prescribed.",
+    "The Pashupata form should be worshipped."
+   ],
+   "inference": "In the evening one should worship the Pashupata form with an unbroken-rice linga.",
+   "uncertainties": [],
+   "plain_english": "In the evening there should be an unbroken-rice linga, and there one should worship the Pashupata form."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb indicating division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśupato",
+     "gloss": "pashupata",
+     "grounds": "subject to be classified",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jñeyo",
+     "gloss": "to-be-known",
+     "grounds": "gerundive expressing necessity",
+     "morph": "nom.sg.m.gerundive (jñā)"
+    },
+    {
+     "surface": "miśraḥ",
+     "gloss": "mixed",
+     "grounds": "first type",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śāntaḥ",
+     "gloss": "peaceful",
+     "grounds": "second type",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "agrahetukaḥ",
+     "gloss": "without-primary-cause",
+     "grounds": "third type; compound indicating absence of primary cause",
+     "morph": "nom.sg.m (compound)"
+    }
+   ],
+   "question": "Into what three types is the Pashupata form classified?",
+   "premises": [
+    "The Pashupata is to be known as threefold.",
+    "One type is mixed.",
+    "The other types are peaceful and without primary cause."
+   ],
+   "inference": "The Pashupata form is classified as mixed, peaceful, and without primary cause.",
+   "uncertainties": [
+    "The precise doctrinal meaning of agrahetuka is not fully explicit here."
+   ],
+   "plain_english": "The Pashupata form should be known as threefold: mixed, peaceful, and without primary cause."
+  },
+  {
+   "verse": 463,
+   "rows": [
+    {
+     "surface": "saumyaḥ",
+     "gloss": "gentle",
+     "grounds": "describes the form's appearance",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saumyekṣaṇāpetaḥ",
+     "gloss": "devoid-of-gentle-gaze",
+     "grounds": "compound describing absence of gentle gaze",
+     "morph": "nom.sg.m (compound)"
+    },
+    {
+     "surface": "dvicaturhasta",
+     "gloss": "two-or-four-armed",
+     "grounds": "compound indicating number of arms",
+     "morph": "nom.sg.m (compound)"
+    },
+    {
+     "surface": "saṃyutaḥ",
+     "gloss": "endowed-with",
+     "grounds": "predicate indicating possession",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What appearance and number of arms characterize the described Pashupata form?",
+   "premises": [
+    "The form is described as gentle.",
+    "It is also described as devoid of a gentle gaze.",
+    "It is endowed with two or four arms."
+   ],
+   "inference": "The described Pashupata form is gentle yet without a gentle gaze and has two or four arms.",
+   "uncertainties": [
+    "The juxtaposition of gentle and devoid of gentle gaze may indicate variant forms."
+   ],
+   "plain_english": "The form is gentle, yet devoid of a gentle gaze, and endowed with two or four arms."
+  },
+  {
+   "verse": 464,
+   "rows": [
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "locative indicating right side",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "abhayākṣamālāyuk",
+     "gloss": "bearing-fearlessness-and-rosary",
+     "grounds": "compound describing attributes held on the right",
+     "morph": "nom.sg.m (compound)"
+    },
+    {
+     "surface": "itare",
+     "gloss": "on-other",
+     "grounds": "locative indicating the other side",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "varapāśayuk",
+     "gloss": "bearing-boon-and-noose",
+     "grounds": "compound describing attributes held on the other side",
+     "morph": "nom.sg.m (compound)"
+    }
+   ],
+   "question": "Which attributes are held on the right and left sides of the form?",
+   "premises": [
+    "The right side bears fearlessness and a rosary.",
+    "The other side bears boon and noose.",
+    "These attributes define the iconography."
+   ],
+   "inference": "The form holds fearlessness and rosary on the right, and boon and noose on the other side.",
+   "uncertainties": [],
+   "plain_english": "On the right side he bears the gesture of fearlessness and a rosary, and on the other side a boon and a noose."
+  },
+  {
+   "verse": 465,
+   "rows": [
+    {
+     "surface": "hitvā",
+     "gloss": "having-abandoned",
+     "grounds": "gerund indicating substitution",
+     "morph": "gerund (hā)"
+    },
+    {
+     "surface": "akṣamālāṃ",
+     "gloss": "rosary",
+     "grounds": "object to be replaced",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pāśañca",
+     "gloss": "and-noose",
+     "grounds": "second object to be replaced; sandhi with ca",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "replacement attribute",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "ghaṇṭāṃ",
+     "gloss": "bell",
+     "grounds": "replacement attribute",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental indicating sequence",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative attributes may replace the rosary and noose in sequence?",
+   "premises": [
+    "The rosary and noose may be abandoned.",
+    "A lotus and a bell are given as replacements.",
+    "The replacement follows a stated order as an option."
+   ],
+   "inference": "Optionally, the rosary and noose may be replaced in order by a lotus and a bell.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, abandoning the rosary and the noose, one may place a lotus and a bell in their order."
+  },
+  {
+   "verse": 466,
+   "rows": [
+    {
+     "surface": "śūlamūlābhaye",
+     "gloss": "trident-root-and-fearlessness",
+     "grounds": "compound describing attributes on the right",
+     "morph": "loc.sg.nt (compound)"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "locative indicating side",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "śūlāgravarade",
+     "gloss": "trident-tip-and-boon-giver",
+     "grounds": "compound describing attributes on the other side",
+     "morph": "loc.sg.nt (compound)"
+    },
+    {
+     "surface": "anyataḥ",
+     "gloss": "on-other-side",
+     "grounds": "adverb indicating the opposite side",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are trident and hand gestures distributed between the two sides?",
+   "premises": [
+    "The right side holds the trident root and fearlessness gesture.",
+    "The other side holds the trident tip and boon gesture.",
+    "The distribution is specified by side."
+   ],
+   "inference": "The right side bears the trident root and fearlessness, while the other bears the trident tip and boon.",
+   "uncertainties": [],
+   "plain_english": "On the right side are the root of the trident and the gesture of fearlessness, and on the other side the tip of the trident and the boon-giving gesture."
+  },
+  {
+   "verse": 467,
+   "rows": [
+    {
+     "surface": "triśūlākṣakaraṃ",
+     "gloss": "holding-trident-and-rosary",
+     "grounds": "compound describing hands holding trident and rosary",
+     "morph": "acc.sg.m (compound)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb indicating mode",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raudraṃ",
+     "gloss": "fierce-form",
+     "grounds": "object of meditation and worship",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating contemplation",
+     "morph": "nom.sg.m.present-participle (smṛ)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.optative.active (yaj)"
+    }
+   ],
+   "question": "How should the fierce threefold form holding trident and rosary be worshipped?",
+   "premises": [
+    "An alternative form holds a trident and rosary.",
+    "The fierce form is contemplated as threefold.",
+    "Worship is performed while remembering this form."
+   ],
+   "inference": "One should worship the fierce threefold form, remembering it as holding trident and rosary.",
+   "uncertainties": [],
+   "plain_english": "Or else, remembering the fierce form as threefold and holding a trident and a rosary, one should worship it."
+  },
+  {
+   "verse": 468,
+   "rows": [
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "locative indicating side",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "pāśaṃ",
+     "gloss": "noose",
+     "grounds": "attribute on the right",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "mṛgaṃ",
+     "gloss": "deer",
+     "grounds": "attribute on the left",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating side",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indicates alternative arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-said",
+     "grounds": "passive verb reporting tradition",
+     "morph": "3.sg.present.passive (ni-gad)"
+    }
+   ],
+   "question": "What alternative placement of noose and deer is reported for the form?",
+   "premises": [
+    "A noose is placed on the right.",
+    "A deer is placed on the left.",
+    "An alternative arrangement is also said to exist."
+   ],
+   "inference": "The form may hold a noose on the right and a deer on the left, or be arranged otherwise.",
+   "uncertainties": [
+    "The exact alternative arrangement is not specified."
+   ],
+   "plain_english": "On the right is a noose and on the left a deer; or it is said to be arranged otherwise."
+  },
+  {
+   "verse": 469,
+   "rows": [
+    {
+     "surface": "dakṣa",
+     "gloss": "right",
+     "grounds": "refers to the right-side form or type",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "adverb indicating division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "described",
+     "grounds": "past passive participle reporting classification",
+     "morph": "nom.sg.nt.past-passive-participle (sam-ā-khyā)"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "type of Pashupata",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "pāśupataṃ",
+     "gloss": "pashupata",
+     "grounds": "subject classified",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb indicating division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the right-side and mixed Pashupata forms classified by number?",
+   "premises": [
+    "The right-side form is described as twofold.",
+    "The mixed Pashupata is described as threefold.",
+    "Both classifications are explicitly stated."
+   ],
+   "inference": "The right-side form is twofold, while the mixed Pashupata is threefold.",
+   "uncertainties": [
+    "The referent of dakṣa as a distinct category is somewhat compressed."
+   ],
+   "plain_english": "The right-side form is described as twofold, and the mixed Pashupata as threefold."
+  },
+  {
+   "verse": 470,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimākāro",
+     "gloss": "image-form",
+     "grounds": "subject indicating an iconic form",
+     "morph": "nom.sg.m (compound)"
+    },
+    {
+     "surface": "vidheyaḥ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive prescribing action",
+     "morph": "nom.sg.m.gerundive (vi-dhā)"
+    },
+    {
+     "surface": "tatpramāṇataḥ",
+     "gloss": "according-to-that-measure",
+     "grounds": "ablative indicating conformity to prior measure",
+     "morph": "abl.sg.nt (compound)"
+    }
+   ],
+   "question": "According to what standard may an image form alternatively be made?",
+   "premises": [
+    "An alternative is introduced.",
+    "An image form may be made.",
+    "It must conform to the previously stated measure."
+   ],
+   "inference": "Alternatively, an image form should be made according to that same measure.",
+   "uncertainties": [],
+   "plain_english": "Or else, an image form should be made according to that same measure."
+  },
+  {
+   "verse": 471,
+   "rows": [
+    {
+     "surface": "annaliṃga",
+     "gloss": "food-linga",
+     "grounds": "first member of compound indicating context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramāṇe",
+     "gloss": "in-measure",
+     "grounds": "locative specifying the standard",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlāgrasamavistare",
+     "gloss": "with-equal-width-at-root-and-tip",
+     "grounds": "compound describing uniform width",
+     "morph": "loc.sg.nt (compound)"
+    }
+   ],
+   "question": "What width proportion applies when following the food linga measure?",
+   "premises": [
+    "The measure is that of the food linga.",
+    "The width at root and tip is considered.",
+    "The width should be equal at root and tip."
+   ],
+   "inference": "In the food linga measure, the width should be equal at the root and the tip.",
+   "uncertainties": [],
+   "plain_english": "In the measure of the food linga, the width should be equal at the root and the tip."
+  },
+  {
+   "verse": 472,
+   "rows": [
+    {
+     "surface": "sthalikāmānadaṇḍena",
+     "gloss": "with-vessel-measure-rod",
+     "grounds": "instrumental indicating the measuring tool",
+     "morph": "ins.sg.m (compound)"
+    },
+    {
+     "surface": "sahitaṃ",
+     "gloss": "together-with",
+     "grounds": "adjective indicating accompaniment",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.optative.active (sam-arc)"
+    }
+   ],
+   "question": "With what measuring implement may the object alternatively be worshipped?",
+   "premises": [
+    "A measuring rod of the vessel measure is specified.",
+    "The object may be accompanied by this rod.",
+    "Worship is prescribed as an alternative."
+   ],
+   "inference": "Alternatively, one should worship it together with the rod measured to the vessel.",
+   "uncertainties": [
+    "The exact ritual role of the measuring rod is not fully explained."
+   ],
+   "plain_english": "Alternatively, one should worship it together with the rod measured according to the vessel."
+  },
+  {
+   "verse": 473,
+   "rows": [
+    {
+     "surface": "pāduke",
+     "gloss": "two-foot-supports",
+     "grounds": "subject or object in dual referring to supports",
+     "morph": "nom.dual.f"
+    },
+    {
+     "surface": "tryaṃgule",
+     "gloss": "three-fingers",
+     "grounds": "measure of the supports",
+     "morph": "nom.dual.f (compound)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "ablative indicating starting point",
+     "morph": "abl.sg.nt"
+    },
+    {
+     "surface": "aṃgulāṃgulavardhanāt",
+     "gloss": "by-finger-by-finger-increase",
+     "grounds": "ablative compound indicating incremental growth",
+     "morph": "abl.sg.nt (compound)"
+    }
+   ],
+   "question": "What base size and increment govern the measurement of the foot supports?",
+   "premises": [
+    "The foot supports are three fingers in measure.",
+    "This serves as the starting point.",
+    "Increase proceeds finger by finger from that base."
+   ],
+   "inference": "The foot supports begin at three fingers and increase finger by finger from there.",
+   "uncertainties": [],
+   "plain_english": "The two foot supports should be three fingers, increasing from that point finger by finger."
+  },
+  {
+   "verse": 474,
+   "rows": [
+    {
+     "surface": "dairghyānusārataḥ",
+     "gloss": "according-to-length",
+     "grounds": "ablative adverbial compound indicating proportion",
+     "morph": "abl.sg.nt (compound)"
+    },
+    {
+     "surface": "kāryo",
+     "gloss": "should-be-made",
+     "grounds": "gerundive prescribing construction",
+     "morph": "nom.sg.m.gerundive (kṛ)"
+    },
+    {
+     "surface": "vistārasya",
+     "gloss": "of-width",
+     "grounds": "genitive specifying the dimension related to height",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "first member indicating proportion",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ucchrayaḥ",
+     "gloss": "height",
+     "grounds": "subject specifying the resulting dimension",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What proportional relationship should height bear to width according to length?",
+   "premises": [
+    "The construction follows the length.",
+    "Height is determined in relation to width.",
+    "The height should be half the width."
+   ],
+   "inference": "Following the length, the height should be made half of the width.",
+   "uncertainties": [],
+   "plain_english": "According to the length, the height should be made half of the width."
+  }
+ ]
+}

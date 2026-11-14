@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p187",
  "verse": 4656,
- "question": "How many brahmins are fed there, thousand-ending and ten-exceeding?",
+ "question": "How should the numerical count progress up to the Rudra number?",
  "premises": [
-  "brahmins are fed there",
-  "number is thousand-ending ten-exceeding"
+  "The count begins with one",
+  "It increases by one each time",
+  "It ends at the Rudra number"
  ],
- "inference": "feeding brahmins is part of rite",
+ "inference": "The count proceeds from one, increasing by one at a time, up to the Rudra number.",
  "uncertainties": [
-  "legacy hints only"
+  "rudra+saṃkhyā may refer to eleven or another traditional Rudra count"
  ],
- "plain_english": "There feed brahmins, thousand-ending and ten-exceeding."
+ "plain_english": "Beginning with one, increasing by one each time, indeed ending with the number of Rudras."
 }
