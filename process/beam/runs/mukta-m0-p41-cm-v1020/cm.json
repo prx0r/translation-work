@@ -3,29 +3,39 @@
  "verse": 1020,
  "rows": [
   {
-   "lemma": "tato",
+   "lemma": "pañca",
+   "morph": "compound-first",
+   "grounds": "number of lotuses"
+  },
+  {
+   "lemma": "śukla",
+   "morph": "compound-second",
+   "grounds": "color qualifier of lotuses"
+  },
+  {
+   "lemma": "utpalāni",
+   "morph": "n.acc.pl compound-third",
+   "grounds": "objects to be taken"
+  },
+  {
+   "lemma": "āni",
+   "morph": "n.acc.pl",
+   "grounds": "demonstrative referring to the lotuses"
+  },
+  {
+   "lemma": "gṛhītvā",
+   "morph": "absolutive √grah",
+   "grounds": "preparatory action"
+  },
+  {
+   "lemma": "pūrvavat",
    "morph": "(indecl.)",
-   "grounds": "sequence marker"
-  },
-  {
-   "lemma": "liṅgaṃ",
-   "morph": "acc.sg.n",
-   "grounds": "ritual object of worship"
-  },
-  {
-   "lemma": "samabhyarcya",
-   "morph": "gerund sam-abhi-√arc",
-   "grounds": "completed act of worship"
-  },
-  {
-   "lemma": "gandhapuṣpādibhiḥ",
-   "morph": "gandha+puṣpa+ādi.ins.pl.n",
-   "grounds": "instrumental compound listing offerings"
+   "grounds": "indicates same procedure as earlier"
   },
   {
    "lemma": "kramāt",
-   "morph": "abl.sg.m",
-   "grounds": "indicates proper sequence"
+   "morph": "(indecl.)",
+   "grounds": "specifies sequential procedure"
   }
  ]
 }

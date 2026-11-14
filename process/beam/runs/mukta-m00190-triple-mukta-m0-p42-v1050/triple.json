@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stayed",
+     "grounds": "absolutive of sthā; indicates prior or accompanying action",
+     "morph": "gerund (sthā)"
+    },
+    {
+     "surface": "durgālaye",
+     "gloss": "in-durgā-abode",
+     "grounds": "compound durgā+ālaya; locative expressing place of staying",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent noun from mantra; subject performing the observance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trirātraṃ",
+     "gloss": "for-three-nights",
+     "grounds": "compound tri+rātra; accusative of duration",
+     "morph": "compound acc.sg.nt"
+    },
+    {
+     "surface": "varjitāśanaḥ",
+     "gloss": "abstaining-from-food",
+     "grounds": "compound varjita+āśana; describes the practitioner's condition",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What observance must a mantra practitioner undertake in Durgā's abode for three nights?",
+   "premises": [
+    "A mantra practitioner stays in Durgā's abode.",
+    "The stay lasts for three nights.",
+    "The practitioner abstains from food during this period."
+   ],
+   "inference": "Remaining in Durgā's abode for three nights without food constitutes the prescribed observance for the mantra practitioner.",
+   "uncertainties": [],
+   "plain_english": "The mantra practitioner, having stayed in Durgā's abode for three nights while abstaining from food, undertakes the prescribed observance."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1011,
- "question": "What proportion of recitation should the wise practitioner devote to brahma and limb mantras?",
+ "question": "How must the ritual object be cut and divided before further use?",
  "premises": [
-  "A root recitation is performed.",
-  "A tenth part is specified.",
-  "The wise one should perform brahma and limb recitation."
+  "The object is cut with an axe.",
+  "The object is split fivefold.",
+  "The actions are done in order."
  ],
- "inference": "Here the wise one should perform brahma and limb recitation as a tenth part of the root recitation.",
- "uncertainties": [],
- "plain_english": "Here the wise one should perform the recitation of the brahma and limb mantras as a tenth part of the root recitation."
+ "inference": "The object must be cut with an axe and split fivefold in proper order.",
+ "uncertainties": [
+  "The referent of taṃ is not specified in this verse."
+ ],
+ "plain_english": "Having cut it with an axe and split it fivefold, in proper order indeed."
 }
