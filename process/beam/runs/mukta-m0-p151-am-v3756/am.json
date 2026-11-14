@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p151",
  "verse": 3756,
- "question": "How are rasa and seven portions distributed between Rudra and Vishva portions?",
+ "question": "For how many days may the previously described ritual procedure be performed?",
  "premises": [
-  "Rudra portion receives rasa portion",
-  "Vishva portion receives seven portion",
-  "distribution is stated"
+  "The procedure has already been described.",
+  "The text prescribes performing it for set periods.",
+  "Seven, five, or three days are given as options."
  ],
- "inference": "The verse assigns rasa portion to Rudra portion and seven portion to Vishva portion.",
- "uncertainties": [
-  "numerical proportions unclear"
- ],
- "plain_english": "In the Rudra portion place the rasa portion, and in the Vishva portion place the seven portion."
+ "inference": "The prescribed procedure should be performed for seven days, five days, or three days.",
+ "uncertainties": [],
+ "plain_english": "Thus one should do this for seven days, five days, or three days."
 }

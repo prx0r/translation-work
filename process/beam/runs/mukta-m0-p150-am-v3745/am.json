@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3745,
- "question": "How are the limbs satisfied?",
+ "question": "Where should the peace rite be performed when a tree has fallen?",
  "premises": [
-  "ten percent from Shiva is used",
-  "the limbs are satisfied",
-  "the performer is composed"
+  "A tree has fallen in some place.",
+  "A peace rite is required.",
+  "The rite should be performed in that same place."
  ],
- "inference": "A tenth portion from Shiva satisfies the limbs while the performer remains composed.",
- "uncertainties": [
-  "the exact limb list is not given"
- ],
- "plain_english": "Having satisfied the limbs with a tenth from Shiva, one remains composed."
+ "inference": "The peace rite should be performed in the place where the tree has fallen.",
+ "uncertainties": [],
+ "plain_english": "A peace rite should be performed in the place where the tree has fallen."
 }

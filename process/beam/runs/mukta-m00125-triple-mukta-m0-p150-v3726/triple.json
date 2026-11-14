@@ -1,0 +1,1093 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3726,
+   "rows": [
+    {
+     "surface": "piṣṭamṛt",
+     "gloss": "flour-nectar",
+     "grounds": "compound ingredient name",
+     "morph": "compound"
+    },
+    {
+     "surface": "bilva",
+     "gloss": "bilva",
+     "grounds": "plant name used in ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darbheśca",
+     "gloss": "darbha-grass-and",
+     "grounds": "darbha with enclitic ca; sandhi noted",
+     "morph": "compound"
+    },
+    {
+     "surface": "rajanyā",
+     "gloss": "turmeric",
+     "grounds": "instrumental sense in context of mixture",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "malavāribhiḥ",
+     "gloss": "impurity-waters-with",
+     "grounds": "compound; instrumental plural",
+     "morph": "compound+n.ins.pl"
+    }
+   ],
+   "question": "What substances are to be combined for the prescribed ritual preparation?",
+   "premises": [
+    "Flour-nectar is included as a base substance.",
+    "Bilva, darbha grass, and turmeric are added.",
+    "Impure waters are used in the mixture."
+   ],
+   "inference": "The ritual preparation requires a specific mixture of plant materials, turmeric, and impure waters.",
+   "uncertainties": [
+    "Exact identification of piṣṭamṛt and malavāribhiḥ is context-dependent."
+   ],
+   "plain_english": "Prepare a mixture using flour-nectar, bilva, darbha grass, turmeric, and impure waters."
+  },
+  {
+   "verse": 3727,
+   "rows": [
+    {
+     "surface": "candano",
+     "gloss": "sandal",
+     "grounds": "aromatic substance; sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śīra",
+     "gloss": "cool-substance",
+     "grounds": "ingredient name; exact referent uncertain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "aromatic substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuṃkumā",
+     "gloss": "saffron",
+     "grounds": "aromatic substance; sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "garu",
+     "gloss": "agarwood",
+     "grounds": "aromatic substance; truncated form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "combined",
+     "grounds": "describes the mixture",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which aromatic substances are combined in this ritual mixture?",
+   "premises": [
+    "Sandal and a cooling substance are included.",
+    "Camphor and saffron are added.",
+    "Agarwood is part of the combination."
+   ],
+   "inference": "The mixture is composed of several fragrant substances combined together.",
+   "uncertainties": [
+    "The exact referent of śīra is uncertain."
+   ],
+   "plain_english": "Combine sandal, a cooling substance, camphor, saffron, and agarwood together."
+  },
+  {
+   "verse": 3728,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of worship",
+     "morph": "gerund"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṣpādyaḥ",
+     "gloss": "flowers-and-others",
+     "grounds": "compound with ādi; nominative plural",
+     "morph": "compound+m.nom.pl"
+    },
+    {
+     "surface": "prārthayed",
+     "gloss": "should-pray",
+     "grounds": "optative of prayer",
+     "morph": "3.sg.opt.act+√prārth"
+    },
+    {
+     "surface": "duritakṣayam",
+     "gloss": "misfortune-destruction",
+     "grounds": "object of prayer",
+     "morph": "compound+m.acc.sg"
+    }
+   ],
+   "question": "What should be requested after worship with fragrances and flowers?",
+   "premises": [
+    "Worship is performed with fragrances and flowers.",
+    "A prayer is to be made afterward.",
+    "The prayer seeks destruction of misfortune."
+   ],
+   "inference": "After ritual worship with offerings, one should pray for the removal of misfortune.",
+   "uncertainties": [],
+   "plain_english": "After worshipping with fragrances, flowers, and other offerings, one should pray for the destruction of misfortune."
+  },
+  {
+   "verse": 3729,
+   "rows": [
+    {
+     "surface": "bheryādīnāṃ",
+     "gloss": "drums-and-others-of",
+     "grounds": "compound with ādi; genitive plural",
+     "morph": "compound+m.gen.pl"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "indeclinable indicating spontaneity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghoṣe",
+     "gloss": "sound",
+     "grounds": "locative of circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahā+mārī",
+     "gloss": "great-epidemic",
+     "grounds": "compound indicating severe plague",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "arises",
+     "grounds": "present middle indicating occurrence",
+     "morph": "3.sg.pres.mid+√vṛt"
+    }
+   ],
+   "question": "What calamity arises when drums and similar instruments sound spontaneously?",
+   "premises": [
+    "Drums and similar instruments produce sound.",
+    "The sound occurs by itself.",
+    "A great epidemic arises in that circumstance."
+   ],
+   "inference": "Spontaneous sounding of drums and similar instruments signals the onset of a great epidemic.",
+   "uncertainties": [
+    "The exact scope of bheryādīnāṃ depends on context."
+   ],
+   "plain_english": "When drums and similar instruments sound by themselves, a great epidemic breaks out."
+  },
+  {
+   "verse": 3730,
+   "rows": [
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of worship",
+     "morph": "gerund"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative or first member in address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "deveśaṃ",
+     "gloss": "lord-of-gods",
+     "grounds": "object of worship",
+     "morph": "compound+m.acc.sg"
+    },
+    {
+     "surface": "śāntimiṣṭāṃ",
+     "gloss": "desired-peace",
+     "grounds": "object of performance",
+     "morph": "compound+f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.act+√car"
+    }
+   ],
+   "question": "What ritual action should be performed after worshipping the lord of gods?",
+   "premises": [
+    "The lord of gods is worshipped.",
+    "A desired peace is the goal.",
+    "The peace ritual should be performed."
+   ],
+   "inference": "After worshipping the lord of gods, one should perform the desired peace ritual.",
+   "uncertainties": [],
+   "plain_english": "After worshipping the lord of gods, one should perform the desired rite of peace."
+  },
+  {
+   "verse": 3731,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "present middle indicating arising",
+     "morph": "3.sg.pres.mid+√jan"
+    },
+    {
+     "surface": "bhūpati",
+     "gloss": "king",
+     "grounds": "subject; sandhi form",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "stvanyo",
+     "gloss": "but-another",
+     "grounds": "tu with anya; sandhi noted",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāṣṭre",
+     "gloss": "kingdom",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavedidam",
+     "gloss": "this-occurs",
+     "grounds": "bhavet with idam; sandhi noted",
+     "morph": "compound"
+    }
+   ],
+   "question": "What political change occurs in a kingdom when this omen appears?",
+   "premises": [
+    "The omen occurs in a kingdom.",
+    "Another king arises.",
+    "This indicates a change in rulership."
+   ],
+   "inference": "The appearance of this omen in a kingdom foretells the rise of another king.",
+   "uncertainties": [
+    "The specific omen referred to by idam depends on preceding context."
+   ],
+   "plain_english": "Where this occurs in a kingdom, another king will arise."
+  },
+  {
+   "verse": 3732,
+   "rows": [
+    {
+     "surface": "rātrāviṃdra",
+     "gloss": "at-night-indra",
+     "grounds": "compound indicating Indra's bow at night",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhanurdṛṣṭe",
+     "gloss": "bow-seen",
+     "grounds": "locative absolute of seeing rainbow",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "para+cakrādbhayaṃ",
+     "gloss": "enemy-army-from-fear",
+     "grounds": "compound expressing fear from hostile forces",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative indicating result",
+     "morph": "3.sg.opt.act+√bhū"
+    }
+   ],
+   "question": "What danger is indicated by seeing a rainbow at night?",
+   "premises": [
+    "A rainbow is seen at night.",
+    "This sight is an omen.",
+    "Fear from an enemy army results."
+   ],
+   "inference": "Seeing a rainbow at night foretells danger from an enemy army.",
+   "uncertainties": [],
+   "plain_english": "If a rainbow is seen at night, there will be fear from an enemy army."
+  },
+  {
+   "verse": 3733,
+   "rows": [
+    {
+     "surface": "anāvṛṣṭi",
+     "gloss": "drought",
+     "grounds": "lack of rain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rdhruvaṃ",
+     "gloss": "certainly",
+     "grounds": "indeclinable asserting certainty; sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gṛhanakṣatrapātane",
+     "gloss": "house-constellation-fall",
+     "grounds": "compound locative describing omen",
+     "morph": "compound+n.loc.sg"
+    }
+   ],
+   "question": "What consequence follows when a house or constellation falls?",
+   "premises": [
+    "A house or constellation falls.",
+    "This is an inauspicious omen.",
+    "Drought certainly occurs in the world."
+   ],
+   "inference": "The fall of a house or constellation certainly brings drought to the world.",
+   "uncertainties": [
+    "The precise meaning of gṛhanakṣatrapātane is context-dependent."
+   ],
+   "plain_english": "When a house or constellation falls, drought will certainly occur in the world."
+  },
+  {
+   "verse": 3734,
+   "rows": [
+    {
+     "surface": "vāhanānāṃ",
+     "gloss": "vehicles-of",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kṣayaṃ",
+     "gloss": "destruction",
+     "grounds": "object to be known",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhāt",
+     "gloss": "should-know",
+     "grounds": "injunctive or optative sense of knowing",
+     "morph": "3.sg.opt.act+√vid"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "for-that-purpose",
+     "grounds": "compound indicating purpose",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "śāntimācaret",
+     "gloss": "peace-should-perform",
+     "grounds": "śāntim with ācaret; sandhi noted",
+     "morph": "compound"
+    }
+   ],
+   "question": "What remedial action should be taken when destruction of vehicles is foreseen?",
+   "premises": [
+    "Destruction of vehicles is to be known.",
+    "A remedy is required for that outcome.",
+    "A peace ritual should be performed."
+   ],
+   "inference": "When destruction of vehicles is foreseen, one should perform a peace ritual for that purpose.",
+   "uncertainties": [],
+   "plain_english": "One should know that vehicles will be destroyed and therefore perform a peace ritual."
+  },
+  {
+   "verse": 3735,
+   "rows": [
+    {
+     "surface": "agninakṣatra",
+     "gloss": "fire-constellation",
+     "grounds": "compound naming a lunar mansion",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāte",
+     "gloss": "fall",
+     "grounds": "locative of circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative prescribing recitation",
+     "morph": "3.sg.opt.act+√jap"
+    },
+    {
+     "surface": "ghoraṃ",
+     "gloss": "terrible",
+     "grounds": "qualifies the mantra or recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śatatrayam",
+     "gloss": "three-hundred",
+     "grounds": "number of repetitions",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "What recitation is prescribed when a fire constellation falls?",
+   "premises": [
+    "A fire constellation falls.",
+    "A recitation is required.",
+    "The terrible mantra should be chanted three hundred times."
+   ],
+   "inference": "Upon the fall of a fire constellation, one should chant the terrible mantra three hundred times.",
+   "uncertainties": [
+    "The specific mantra called ghoraṃ is not named here."
+   ],
+   "plain_english": "When a fire constellation falls, one should chant the terrible mantra three hundred times."
+  },
+  {
+   "verse": 3736,
+   "rows": [
+    {
+     "surface": "rājño",
+     "gloss": "king-of",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "subject indicating harm or affliction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāyeta",
+     "gloss": "would-arise",
+     "grounds": "optative indicating result",
+     "morph": "3.sg.opt.mid+√jan"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "for-that-purpose",
+     "grounds": "compound indicating purpose",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśāhutim",
+     "gloss": "directional-offering",
+     "grounds": "compound object of ritual",
+     "morph": "compound+f.acc.sg"
+    }
+   ],
+   "question": "What ritual remedy is prescribed when a fault arises for the king?",
+   "premises": [
+    "A fault arises for the king.",
+    "A remedy is needed for that situation.",
+    "A directional offering should be made."
+   ],
+   "inference": "If a fault arises for the king, a directional offering should be performed as a remedy.",
+   "uncertainties": [],
+   "plain_english": "If a fault arises for the king, one should perform a directional offering for that purpose."
+  },
+  {
+   "verse": 3737,
+   "rows": [
+    {
+     "surface": "saptāhaṃ",
+     "gloss": "seven-days",
+     "grounds": "duration compound",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "vā with atha; sandhi noted",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāhaṃ",
+     "gloss": "five-days",
+     "grounds": "alternative duration",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāta",
+     "gloss": "fall",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dina",
+     "gloss": "day",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃkhyakam",
+     "gloss": "counted-as",
+     "grounds": "compound indicating number",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "How long should the ritual continue in relation to the day of the fall?",
+   "premises": [
+    "The ritual may last seven days.",
+    "Alternatively it may last five days.",
+    "The duration is counted from the day of that fall."
+   ],
+   "inference": "The ritual should be performed for five or seven days, counted according to the day of the fall.",
+   "uncertainties": [
+    "The exact counting rule is not fully specified."
+   ],
+   "plain_english": "Perform it for seven days or five days, counted according to the day of that fall."
+  },
+  {
+   "verse": 3738,
+   "rows": [
+    {
+     "surface": "kṣīrādyaiḥ",
+     "gloss": "milk-and-others-with",
+     "grounds": "compound with ādi; instrumental plural",
+     "morph": "compound+n.ins.pl"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.act+√kṛ"
+    },
+    {
+     "surface": "saptāhāśani",
+     "gloss": "seven-days-thunderbolt",
+     "grounds": "compound describing omen period",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃbhave",
+     "gloss": "occurrence",
+     "grounds": "locative of circumstance",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What ritual bathing is prescribed when a thunderbolt omen occurs over seven days?",
+   "premises": [
+    "A thunderbolt omen occurs over seven days.",
+    "A bathing ritual is required.",
+    "The bathing should be done with milk and other substances."
+   ],
+   "inference": "In the event of a seven-day thunderbolt omen, one should perform bathing with milk and similar substances.",
+   "uncertainties": [],
+   "plain_english": "When a thunderbolt omen occurs over seven days, one should perform a bathing ritual with milk and other substances."
+  },
+  {
+   "verse": 3739,
+   "rows": [
+    {
+     "surface": "tanmaṇḍalādhipo",
+     "gloss": "that-region-lord",
+     "grounds": "compound referring to ruler of that area",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śatrubhiścābhibhūyate",
+     "gloss": "by-enemies-and-overpowered",
+     "grounds": "śatrubhiḥ with ca and abhibhūyate; sandhi noted",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fate befalls the king who rules that afflicted region?",
+   "premises": [
+    "The king is lord of that region.",
+    "Enemies confront him.",
+    "He is overpowered by those enemies."
+   ],
+   "inference": "The king of that region will be overpowered by enemies.",
+   "uncertainties": [
+    "The region referred to by tat depends on preceding context."
+   ],
+   "plain_english": "The king who rules that region will be overpowered by enemies."
+  },
+  {
+   "verse": 3740,
+   "rows": [
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dāhediśāṃ",
+     "gloss": "burning-of-directions",
+     "grounds": "compound locative; sandhi noted",
+     "morph": "compound+m.loc.sg"
+    },
+    {
+     "surface": "jāte",
+     "gloss": "arisen",
+     "grounds": "locative absolute participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "durbhikṣaṃ",
+     "gloss": "famine",
+     "grounds": "resulting calamity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuvijāyate",
+     "gloss": "on-earth-arises",
+     "grounds": "bhuvi with jāyate; sandhi noted",
+     "morph": "compound"
+    }
+   ],
+   "question": "What calamity arises on earth when fire burns in the directions?",
+   "premises": [
+    "Fire burning appears in the directions.",
+    "This is an inauspicious sign.",
+    "Famine arises on earth."
+   ],
+   "inference": "When fire burns in the directions, famine arises on earth.",
+   "uncertainties": [
+    "The exact nature of directional fire is context-dependent."
+   ],
+   "plain_english": "When fire appears burning in the directions, famine arises on earth."
+  },
+  {
+   "verse": 3741,
+   "rows": [
+    {
+     "surface": "tadante",
+     "gloss": "after-that",
+     "grounds": "compound locative indicating time",
+     "morph": "compound+m.loc.sg"
+    },
+    {
+     "surface": "śānti+homaṃ",
+     "gloss": "peace-offering",
+     "grounds": "compound ritual object; sandhi marked by +",
+     "morph": "compound+m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāhaṃ",
+     "gloss": "five-days",
+     "grounds": "duration of ritual",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "hyaiva",
+     "gloss": "indeed",
+     "grounds": "hi with eva; emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.act+√car"
+    }
+   ],
+   "question": "What ritual should be performed for five days after that event?",
+   "premises": [
+    "The event has concluded.",
+    "A peace offering is prescribed.",
+    "It should be performed for five days."
+   ],
+   "inference": "After that event, one should indeed perform a peace offering for five days.",
+   "uncertainties": [],
+   "plain_english": "After that, one should indeed perform a peace offering for five days."
+  },
+  {
+   "verse": 3742,
+   "rows": [
+    {
+     "surface": "sarveṣāmapi",
+     "gloss": "all-even-of",
+     "grounds": "sarveṣām with api; genitive plural",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇānāṃ",
+     "gloss": "classes-of",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "msūrī",
+     "gloss": "measles",
+     "grounds": "disease name; reading uncertain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "roga",
+     "gloss": "disease",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mādiśet",
+     "gloss": "would-indicate",
+     "grounds": "optative indicating prognostication",
+     "morph": "3.sg.opt.act+√diś"
+    }
+   ],
+   "question": "What disease omen is indicated for people of all social classes?",
+   "premises": [
+    "The omen applies to all classes.",
+    "A disease condition is indicated.",
+    "It points to measles or a similar disease."
+   ],
+   "inference": "The omen indicates a measles-like disease affecting all classes.",
+   "uncertainties": [
+    "The reading and exact meaning of msūrī is uncertain."
+   ],
+   "plain_english": "This would indicate a measles-like disease for people of all classes."
+  },
+  {
+   "verse": 3743,
+   "rows": [
+    {
+     "surface": "pañcāhaṃ",
+     "gloss": "five-days",
+     "grounds": "duration option",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "tridinaṃ",
+     "gloss": "three-days",
+     "grounds": "alternative duration",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "vā with api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhūtaṃ",
+     "gloss": "abundant",
+     "grounds": "qualifies the oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "havirnivet",
+     "gloss": "oblation-should-offer",
+     "grounds": "havis with nivet; sandhi noted",
+     "morph": "compound"
+    }
+   ],
+   "question": "For how long and in what manner should oblations be offered?",
+   "premises": [
+    "The offering may last three days.",
+    "Alternatively it may last five days.",
+    "Abundant oblations should be offered."
+   ],
+   "inference": "One should offer abundant oblations for three or five days.",
+   "uncertainties": [
+    "The verbal form nivet is irregular or context-specific."
+   ],
+   "plain_english": "One should offer abundant oblations for three days or even five days."
+  },
+  {
+   "verse": 3744,
+   "rows": [
+    {
+     "surface": "samūle",
+     "gloss": "with-root",
+     "grounds": "locative describing uprooting",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "nṛpatervyādhi",
+     "gloss": "king-of-illness",
+     "grounds": "compound indicating king's disease; sandhi noted",
+     "morph": "compound"
+    },
+    {
+     "surface": "mādiśenmṛti",
+     "gloss": "would-indicate-death",
+     "grounds": "ādiśet with mṛti; sandhi noted",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūcanam",
+     "gloss": "sign",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does an uprooted tree signify regarding the king's condition?",
+   "premises": [
+    "A tree falls with its root.",
+    "This is a sign concerning the king.",
+    "It indicates illness or death for the king."
+   ],
+   "inference": "A tree uprooted with its root is a sign indicating illness or death for the king.",
+   "uncertainties": [
+    "The compound nṛpatervyādhi is compressed and context-dependent."
+   ],
+   "plain_english": "If a tree falls with its root, it is a sign indicating illness or death for the king."
+  },
+  {
+   "verse": 3745,
+   "rows": [
+    {
+     "surface": "taddeśe",
+     "gloss": "in-that-place",
+     "grounds": "compound locative",
+     "morph": "compound+m.loc.sg"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "peace-rite",
+     "grounds": "ritual remedy; sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaddeśe",
+     "gloss": "in-which-place",
+     "grounds": "relative compound locative",
+     "morph": "compound+m.loc.sg"
+    },
+    {
+     "surface": "patitistaruḥ",
+     "gloss": "fallen-tree",
+     "grounds": "patitiḥ with taruḥ; sandhi noted",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the peace rite be performed when a tree has fallen?",
+   "premises": [
+    "A tree has fallen in some place.",
+    "A peace rite is required.",
+    "The rite should be performed in that same place."
+   ],
+   "inference": "The peace rite should be performed in the place where the tree has fallen.",
+   "uncertainties": [],
+   "plain_english": "A peace rite should be performed in the place where the tree has fallen."
+  },
+  {
+   "verse": 3746,
+   "rows": [
+    {
+     "surface": "tacchāravāḥ",
+     "gloss": "its-branches",
+     "grounds": "tat with śākhāḥ; sandhi noted",
+     "morph": "compound+f.nom.pl"
+    },
+    {
+     "surface": "patitāśceddhi",
+     "gloss": "fallen-if-indeed",
+     "grounds": "patitāḥ with cet and hi; sandhi noted",
+     "morph": "compound"
+    },
+    {
+     "surface": "rāṣṭrakṣobho",
+     "gloss": "kingdom-disturbance",
+     "grounds": "compound subject",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "mahānbhavet",
+     "gloss": "great-would-be",
+     "grounds": "mahān with bhavet; sandhi noted",
+     "morph": "compound"
+    }
+   ],
+   "question": "What consequence follows if the branches of that tree have fallen?",
+   "premises": [
+    "The branches of that tree have fallen.",
+    "This is an inauspicious sign.",
+    "A great disturbance arises in the kingdom."
+   ],
+   "inference": "If the branches fall, there will be great disturbance in the kingdom.",
+   "uncertainties": [],
+   "plain_english": "If its branches have fallen, there will be great disturbance in the kingdom."
+  },
+  {
+   "verse": 3747,
+   "rows": [
+    {
+     "surface": "tadeka",
+     "gloss": "that-one",
+     "grounds": "compound indicating a single one",
+     "morph": "compound"
+    },
+    {
+     "surface": "śākhā",
+     "gloss": "branch",
+     "grounds": "subject of falling",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "patane",
+     "gloss": "fall",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kalaho",
+     "gloss": "quarrel",
+     "grounds": "resulting conflict",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present middle indicating occurrence",
+     "morph": "3.sg.pres.mid+√jan"
+    }
+   ],
+   "question": "What conflict arises when only one branch of that tree falls?",
+   "premises": [
+    "Only one branch falls.",
+    "This is a lesser omen than many branches falling.",
+    "A quarrel arises on earth."
+   ],
+   "inference": "The fall of a single branch foretells a quarrel on earth.",
+   "uncertainties": [],
+   "plain_english": "When a single branch of that tree falls, a quarrel arises on earth."
+  },
+  {
+   "verse": 3748,
+   "rows": [
+    {
+     "surface": "dvi+saptāhaṃ",
+     "gloss": "two-seven-days",
+     "grounds": "compound indicating fourteen days; sandhi marked by +",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "navāhaṃ",
+     "gloss": "nine-days",
+     "grounds": "alternative duration",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta+pañcāgnibhiṃ",
+     "gloss": "seven-five-fires-with",
+     "grounds": "compound instrumental; sandhi marked by +",
+     "morph": "compound+m.ins.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What durations and fire arrangements are prescribed for the ritual performance?",
+   "premises": [
+    "The ritual may last fourteen days.",
+    "Alternatively it may last nine days.",
+    "It is performed with seven or five fires."
+   ],
+   "inference": "The ritual should be performed for nine or fourteen days with seven or five fires.",
+   "uncertainties": [
+    "The exact parsing of sapta+pañcāgnibhiṃ is ambiguous."
+   ],
+   "plain_english": "Perform it for fourteen days or nine days, likewise with seven or five fires."
+  },
+  {
+   "verse": 3749,
+   "rows": [
+    {
+     "surface": "evamevānyavṛkṣāṇāṃ",
+     "gloss": "thus-even-other-trees-of",
+     "grounds": "compound genitive plural",
+     "morph": "compound+m.gen.pl"
+    },
+    {
+     "surface": "pradhānānāṃ",
+     "gloss": "principal-of",
+     "grounds": "genitive plural qualifying trees",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.act+√car"
+    }
+   ],
+   "question": "How should the same ritual procedure be applied to other principal trees?",
+   "premises": [
+    "The same procedure has been described.",
+    "Other principal trees may be involved.",
+    "The ritual should be performed in the same way."
+   ],
+   "inference": "The same ritual procedure should be performed for other principal trees as well.",
+   "uncertainties": [],
+   "plain_english": "In the same way, one should perform the ritual for other principal trees."
+  }
+ ]
+}

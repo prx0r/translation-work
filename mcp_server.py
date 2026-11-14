@@ -53,6 +53,35 @@ def _proof_cmd(work: str, song: str) -> list[str]:
     return cmd
 
 
+@mcp.tool()
+def serve_status(work: str = "") -> dict:
+    """Is a work readable/provable via the ChatGPT MCP (scholar__passage_evidence)?
+    Read-only "prove+expose" scorecard: byte-audited source, projection
+    source_verses (the MCP readability condition), trace/verify/claim counts.
+    work='' reports every work with canonical layer data. Never writes."""
+    return _run(["tools/serve_audit.py"] + (["--work", work] if work else []) + ["--json"], timeout=900)
+
+
+@mcp.tool()
+def make_readable(work: str = "", all: bool = False, publish: bool = False) -> dict:
+    """Prove+expose: turn audited source into served scholar projections.
+    Deterministic, no beam. For one work (or all with all=true): checks the
+    byte-pinned source audit, runs emit_scholar (writes svread source_verses),
+    reports served/blocked. publish=true then runs the svread publish chain
+    (traces→verify→claim→discovery→release_manifest). Unaudited works are
+    BLOCKED, never served. Machine-proposed."""
+    cmd = ["tools/make_readable.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    elif all:
+        cmd += ["--all"]
+    else:
+        return {"error": "pass work='W' or all=true"}
+    if publish:
+        cmd += ["--publish"]
+    return _run(cmd, timeout=3600)
+
+
 def _lore_path(work: str) -> Path | None:
     """Transmission brief for a work's front.
 
@@ -779,7 +808,8 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_workers", "review_sweep", "beam_review",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
-         "recycle", "watchdog", "progress", "queue_guard"]
+         "recycle", "watchdog", "progress", "queue_guard",
+         "serve_status", "make_readable"]
 
 
 if __name__ == "__main__":

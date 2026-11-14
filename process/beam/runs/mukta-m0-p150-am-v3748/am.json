@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3748,
- "question": "What substitute is used when that item is unavailable?",
+ "question": "What durations and fire arrangements are prescribed for the ritual performance?",
  "premises": [
-  "in its absence gold is used",
-  "one establishes it with heart"
+  "The ritual may last fourteen days.",
+  "Alternatively it may last nine days.",
+  "It is performed with seven or five fires."
  ],
- "inference": "Gold substitutes for the unavailable item, established with heart.",
+ "inference": "The ritual should be performed for nine or fourteen days with seven or five fires.",
  "uncertainties": [
-  "the unavailable item is identified by prior context"
+  "The exact parsing of sapta+pañcāgnibhiṃ is ambiguous."
  ],
- "plain_english": "In its absence, one should place gold and establish it with heart."
+ "plain_english": "Perform it for fourteen days or nine days, likewise with seven or five fires."
 }

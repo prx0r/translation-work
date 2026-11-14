@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "mūrti+homaṃ",
+     "gloss": "image-oblation",
+     "grounds": "compound of mūrti (image) and homa (fire-oblation), accusative object",
+     "morph": "compound.acc.sg.nt"
+    },
+    {
+     "surface": "trisaptāhaṃ",
+     "gloss": "three-weeks",
+     "grounds": "compound indicating a duration of twenty-one days",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "kārayecchaiva",
+     "gloss": "should-cause-to-perform-and-indeed",
+     "grounds": "fused form containing optative causative of kṛ with particles ca and eva",
+     "morph": "caus.opt.3.sg.act-kṛ+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "bhuktiyuk",
+     "gloss": "endowed-with-enjoyment",
+     "grounds": "compound of bhukti (enjoyment) and yuj (joined), qualifying the ritual result",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What duration and intended benefit govern the performance of the image-oblation?",
+   "premises": [
+    "The image-oblation is the ritual act to be performed.",
+    "The prescribed duration for this performance is three weeks.",
+    "The performance is characterized as endowed with enjoyment."
+   ],
+   "inference": "Therefore the image-oblation should be caused to be performed for three weeks for the sake of enjoyment.",
+   "uncertainties": [],
+   "plain_english": "One should have the image-oblation performed for three weeks, accompanied by enjoyment."
+  }
+ ]
+}

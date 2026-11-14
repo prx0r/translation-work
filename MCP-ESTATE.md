@@ -10,7 +10,7 @@ of these as a custom connector.*
 
 | Endpoint | Kind | Backend (systemd) | Local port | Tools / routes |
 |---|---|---|---|---|
-| **https://shastra.svatantrya.net/mcp** | MCP (Streamable HTTP) | `tw-mcp.service` | 8930 | **31** — operator (swarm/ops) + bibliography |
+| **https://shastra.svatantrya.net/mcp** | MCP (Streamable HTTP) | `tw-mcp.service` | 8930 | **33** — operator (swarm/ops) + bibliography |
 | https://mcp.svatantrya.net/mcp | MCP (site federation) | (federation gateway) | — | 40 — openpatala/scholar/formal/translate read sheaf |
 | **https://book.svatantrya.net/mcp** | MCP (Streamable HTTP) | `bookfactory-mcp.service` | 8950 | **22** — book factory |
 | **https://video.svatantrya.net/mcp** | MCP (Streamable HTTP) | `videofactory-mcp.service` | 8951 | **18** — video factory |
@@ -68,7 +68,7 @@ journalctl -u svatantrya-tunnel -n 30   # tunnel connection + loaded config
 
 ## 4. Tool catalogs
 
-### 4.1 `shastra.svatantrya.net` — operator / translation (31)
+### 4.1 `shastra.svatantrya.net` — operator / translation (33)
 Bibliography base layer: `bibliography`, `priority`, `schema`, `stats`, `works`,
 `editions`, `links`, `availability`.
 Translation loop: `status`, `recon`, `lore`, `concepts`, `skill`,
@@ -76,6 +76,7 @@ Translation loop: `status`, `recon`, `lore`, `concepts`, `skill`,
 `gates`, `swarm_status`, `swarm_workers`, `supervise`, `review_sweep`,
 `beam_review`, `onboard`, `burn`.
 Ops: `recycle`, `queue_guard`, `progress`, `watchdog`.
+Prove+expose: `serve_status`, `make_readable` (see `PROVE-EXPOSE.md`).
 Full detail: `translation-work/BIBLIOGRAPHY.md` + `MCP.md`.
 
 ### 4.2 `book.svatantrya.net` — book factory (22)

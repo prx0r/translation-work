@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3739,
- "question": "How many pots should be placed around?",
+ "question": "What fate befalls the king who rules that afflicted region?",
  "premises": [
-  "eight pots are named",
-  "they are furnished with cloth and other items"
+  "The king is lord of that region.",
+  "Enemies confront him.",
+  "He is overpowered by those enemies."
  ],
- "inference": "Eight cloth-furnished pots are placed around.",
+ "inference": "The king of that region will be overpowered by enemies.",
  "uncertainties": [
-  "the etcetera items are not enumerated"
+  "The region referred to by tat depends on preceding context."
  ],
- "plain_english": "One should place eight pots around, furnished with cloth and other items."
+ "plain_english": "The king who rules that region will be overpowered by enemies."
 }

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3737,
- "question": "What quantity of rice is prescribed?",
+ "question": "How long should the ritual continue in relation to the day of the fall?",
  "premises": [
-  "eight drona of rice is named",
-  "or half and half may be used"
+  "The ritual may last seven days.",
+  "Alternatively it may last five days.",
+  "The duration is counted from the day of that fall."
  ],
- "inference": "The offering uses eight drona, or a half-and-half measure.",
+ "inference": "The ritual should be performed for five or seven days, counted according to the day of the fall.",
  "uncertainties": [
-  "the exact half-and-half referent is not explicit"
+  "The exact counting rule is not fully specified."
  ],
- "plain_english": "It becomes eight drona of rice, or half and half."
+ "plain_english": "Perform it for seven days or five days, counted according to the day of that fall."
 }

@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3732,
- "question": "How many fire-pits should be made around the pavilion?",
+ "question": "What danger is indicated by seeing a rainbow at night?",
  "premises": [
-  "fire-pits are made around",
-  "the number follows element-veda-one"
+  "A rainbow is seen at night.",
+  "This sight is an omen.",
+  "Fear from an enemy army results."
  ],
- "inference": "The number of fire-pits is determined by the element-veda-one count.",
- "uncertainties": [
-  "the exact numerical value is not stated in this verse"
- ],
- "plain_english": "Fire-pits should be made around according to the element-veda-one number."
+ "inference": "Seeing a rainbow at night foretells danger from an enemy army.",
+ "uncertainties": [],
+ "plain_english": "If a rainbow is seen at night, there will be fear from an enemy army."
 }
