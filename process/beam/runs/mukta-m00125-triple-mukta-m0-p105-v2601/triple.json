@@ -1,0 +1,1251 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2601,
+   "rows": [
+    {
+     "surface": "mātāmaho",
+     "gloss": "maternal-grandfather",
+     "grounds": "nominal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātulaśca",
+     "gloss": "maternal-uncle-and",
+     "grounds": "nominal with enclitic ca",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "svastrīyaḥ",
+     "gloss": "sister-son",
+     "grounds": "nominal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvaśuraḥ",
+     "gloss": "father-in-law",
+     "grounds": "nominal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "nominal",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which relatives are eligible to be fed at a śrāddha rite?",
+   "premises": [
+    "A maternal grandfather is listed as eligible.",
+    "A maternal uncle is listed as eligible.",
+    "A sister's son, father-in-law, and teacher are listed as eligible."
+   ],
+   "inference": "These specified relatives qualify as recipients in the śrāddha context.",
+   "uncertainties": [],
+   "plain_english": "The maternal grandfather, maternal uncle, sister's son, father-in-law, and teacher."
+  },
+  {
+   "verse": 2602,
+   "rows": [
+    {
+     "surface": "vratastham",
+     "gloss": "vow-observing",
+     "grounds": "adjectival",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dauhitraṃ",
+     "gloss": "daughter-son",
+     "grounds": "nominal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrāddhe",
+     "gloss": "in-śrāddha",
+     "grounds": "locative of occasion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-care",
+     "grounds": "instrumental of manner",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "should-feed",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt √bhuj-caus"
+    }
+   ],
+   "question": "Should a daughter's son observing a vow be fed carefully at śrāddha?",
+   "premises": [
+    "The daughter's son may be observing a vow.",
+    "The context is a śrāddha rite.",
+    "Careful feeding is enjoined."
+   ],
+   "inference": "Even a vow-observing daughter's son should be fed with care at śrāddha.",
+   "uncertainties": [],
+   "plain_english": "One should carefully feed even a daughter's son who is observing a vow at the śrāddha."
+  },
+  {
+   "verse": 2603,
+   "rows": [
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "śrāddha",
+     "grounds": "nominal object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "paraśrāddhaṃ",
+     "gloss": "another-śrāddha",
+     "grounds": "compound object",
+     "morph": "n.acc.sg (compound para+śrāddha)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muñjīta",
+     "gloss": "would-eat",
+     "grounds": "optative in relative clause",
+     "morph": "3.sg.mid-opt √bhuj"
+    },
+    {
+     "surface": "mohitaḥ",
+     "gloss": "deluded",
+     "grounds": "past participle",
+     "morph": "m.nom.sg (ppp) √muh-caus"
+    }
+   ],
+   "question": "What fault attaches to one who eats at another's śrāddha after performing his own?",
+   "premises": [
+    "A person has already performed his own śrāddha.",
+    "He then eats at another's śrāddha.",
+    "Such action is attributed to delusion."
+   ],
+   "inference": "Eating at another's śrāddha after one's own is a deluded act.",
+   "uncertainties": [
+    "muñjīta is read here in the sense of partaking/eating in context"
+   ],
+   "plain_english": "One who, having performed his own śrāddha, eats at another's śrāddha out of delusion."
+  },
+  {
+   "verse": 2604,
+   "rows": [
+    {
+     "surface": "punarbhojanam",
+     "gloss": "eating-again",
+     "grounds": "compound nominal",
+     "morph": "n.nom.sg (compound punar+bhojana)"
+    },
+    {
+     "surface": "adhvānaṃ",
+     "gloss": "journey",
+     "grounds": "nominal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhārādhyayanam",
+     "gloss": "burden-study",
+     "grounds": "compound nominal; exact sense uncertain",
+     "morph": "n.nom.sg (compound bhāra+adhyayana)"
+    },
+    {
+     "surface": "maithunam",
+     "gloss": "intercourse",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which activities are prohibited in connection with the śrāddha context described?",
+   "premises": [
+    "Eating again is listed.",
+    "Journeying is listed.",
+    "Burden-bearing or study and sexual intercourse are listed."
+   ],
+   "inference": "These activities are to be avoided in the relevant śrāddha context.",
+   "uncertainties": [
+    "bhārādhyayanam may mean carrying a burden and study or a specific compound activity"
+   ],
+   "plain_english": "Eating again, traveling, carrying burdens or studying, and sexual intercourse."
+  },
+  {
+   "verse": 2605,
+   "rows": [
+    {
+     "surface": "śrāddhārthaṃ",
+     "gloss": "for-śrāddha",
+     "grounds": "compound purpose",
+     "morph": "n.acc.sg (compound śrāddha+artha)"
+    },
+    {
+     "surface": "varaṇaṃ",
+     "gloss": "invitation",
+     "grounds": "nominal object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "gives",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres √pra-yam"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pumān",
+     "gloss": "man",
+     "grounds": "nominal subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fault arises when a man invites someone for śrāddha but does not give?",
+   "premises": [
+    "A man makes an invitation for śrāddha.",
+    "He does not give what is due.",
+    "The subject is identified as that man."
+   ],
+   "inference": "Failing to give after inviting for śrāddha constitutes a fault.",
+   "uncertainties": [
+    "object of prayacchati is implicit, likely food or offering"
+   ],
+   "plain_english": "A man who, having invited someone for the śrāddha, does not give."
+  },
+  {
+   "verse": 2606,
+   "rows": [
+    {
+     "surface": "praṇīta",
+     "gloss": "invited",
+     "grounds": "past participle in compound",
+     "morph": "m.nom.sg (ppp) √pra-ṇī (compound member)"
+    },
+    {
+     "surface": "śrāddha",
+     "gloss": "śrāddha",
+     "grounds": "compound member",
+     "morph": "n. (compound member)"
+    },
+    {
+     "surface": "tantro",
+     "gloss": "rite-bound",
+     "grounds": "compound nominal",
+     "morph": "m.nom.sg (compound tantra)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na bhuṅkte",
+     "gloss": "not-eats",
+     "grounds": "negated present verb",
+     "morph": "3.sg.mid-pres √bhuj"
+    },
+    {
+     "surface": "śrāddhakarmaṇi",
+     "gloss": "in-śrāddha-rite",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg (compound śrāddha+karman)"
+    }
+   ],
+   "question": "What fault applies to one invited for śrāddha who does not eat at the rite?",
+   "premises": [
+    "A person is invited and bound to the śrāddha rite.",
+    "He does not eat during the śrāddha rite.",
+    "The condition is stated as a fault-bearing case."
+   ],
+   "inference": "Refusing to eat after being invited to the śrāddha rite is blameworthy.",
+   "uncertainties": [],
+   "plain_english": "One who, having been invited for the śrāddha rite, does not eat at the śrāddha ceremony."
+  },
+  {
+   "verse": 2607,
+   "rows": [
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśaṃsanti",
+     "gloss": "they-praise",
+     "grounds": "present verb",
+     "morph": "3.pl.act-pres √pra-śaṃs"
+    },
+    {
+     "surface": "śaucam",
+     "gloss": "purity",
+     "grounds": "nominal object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "akrodham",
+     "gloss": "non-anger",
+     "grounds": "compound nominal",
+     "morph": "m.acc.sg (compound a+krodha)"
+    },
+    {
+     "surface": "atvaram",
+     "gloss": "non-haste",
+     "grounds": "compound nominal",
+     "morph": "n.acc.sg (compound a+tvara)"
+    }
+   ],
+   "question": "Which three qualities are praised in the context of śrāddha observance?",
+   "premises": [
+    "Three things are praised here.",
+    "Purity is named.",
+    "Absence of anger and absence of haste are named."
+   ],
+   "inference": "Purity, non-anger, and non-haste are the three praised qualities.",
+   "uncertainties": [],
+   "plain_english": "And here they praise three things: purity, freedom from anger, and absence of haste."
+  },
+  {
+   "verse": 2608,
+   "rows": [
+    {
+     "surface": "saindhavaṃ",
+     "gloss": "rock-salt",
+     "grounds": "adjectival nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lavaṇaṃ",
+     "gloss": "salt",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasa",
+     "gloss": "mind-born",
+     "grounds": "compound member",
+     "morph": "n. (compound member)"
+    },
+    {
+     "surface": "sambhavam",
+     "gloss": "originating",
+     "grounds": "compound nominal",
+     "morph": "n.nom.sg (compound sambhava)"
+    }
+   ],
+   "question": "Which types of salt are approved for use in the śrāddha context?",
+   "premises": [
+    "Rock salt is mentioned.",
+    "Salt in general is affirmed.",
+    "That which is mind-born in origin is likewise included."
+   ],
+   "inference": "Rock salt and mind-born salt are approved types.",
+   "uncertainties": [
+    "mānasa sambhavam is obscure and may refer to a specific salt source"
+   ],
+   "plain_english": "Rock salt indeed, and likewise that which is of mind-born origin."
+  },
+  {
+   "verse": 2609,
+   "rows": [
+    {
+     "surface": "rāmaṭhaṃ",
+     "gloss": "asafoetida",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśastaṃ",
+     "gloss": "praised",
+     "grounds": "past participle",
+     "morph": "n.nom.sg (ppp) √pra-śaṃs"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "aśuṣkavyañjanāni",
+     "gloss": "not-dry-condiments",
+     "grounds": "compound nominal",
+     "morph": "n.nom.pl (compound a+śuṣka+vyañjana)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional substances are considered praiseworthy in śrāddha offerings?",
+   "premises": [
+    "Asafoetida is mentioned.",
+    "It is said to be praiseworthy.",
+    "Condiments that are not dry are also included."
+   ],
+   "inference": "Asafoetida and non-dry condiments are praiseworthy.",
+   "uncertainties": [],
+   "plain_english": "Asafoetida is praiseworthy, and so are condiments that are not dry."
+  },
+  {
+   "verse": 2610,
+   "rows": [
+    {
+     "surface": "anivedya",
+     "gloss": "without-offering",
+     "grounds": "absolutive with negation",
+     "morph": "(gerund) a+√ni-vid-caus"
+    },
+    {
+     "surface": "na bhoktavyaṃ",
+     "gloss": "not-to-be-eaten",
+     "grounds": "gerundive prohibition",
+     "morph": "n.nom.sg (gerundive) √bhuj"
+    },
+    {
+     "surface": "piṇḍārthaṃ",
+     "gloss": "for-piṇḍa",
+     "grounds": "compound purpose",
+     "morph": "n.acc.sg (compound piṇḍa+artha)"
+    },
+    {
+     "surface": "na kadācana",
+     "gloss": "never",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "May food intended for the piṇḍa be eaten without first being offered?",
+   "premises": [
+    "Food may be meant for the piṇḍa.",
+    "Offering is required before eating.",
+    "The prohibition is stated as never applicable otherwise."
+   ],
+   "inference": "Food meant for the piṇḍa must never be eaten without being offered.",
+   "uncertainties": [],
+   "plain_english": "What is meant for the piṇḍa must never be eaten without being offered."
+  },
+  {
+   "verse": 2611,
+   "rows": [
+    {
+     "surface": "kūśmāṇḍa",
+     "gloss": "ash-gourd",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "alābu",
+     "gloss": "bottle-gourd",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vārtākaṃ",
+     "gloss": "eggplant",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māhiṣaṃ",
+     "gloss": "buffalo",
+     "grounds": "adjectival",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣīram",
+     "gloss": "milk",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which foods and substances are listed for exclusion in the śrāddha rules?",
+   "premises": [
+    "Ash gourd is listed.",
+    "Bottle gourd and eggplant are listed.",
+    "Buffalo milk is listed."
+   ],
+   "inference": "These items are among those to be excluded.",
+   "uncertainties": [],
+   "plain_english": "Ash gourd, bottle gourd, eggplant, and buffalo milk."
+  },
+  {
+   "verse": 2612,
+   "rows": [
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "artificial",
+     "grounds": "past participle used adjectivally",
+     "morph": "n.nom.sg (ppp) √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lavaṇaṃ",
+     "gloss": "salt",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjectival",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaṃśāgraṃ",
+     "gloss": "bamboo-shoot",
+     "grounds": "compound nominal",
+     "morph": "n.nom.sg (compound vaṃśa+agra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt √vi-vṛj"
+    }
+   ],
+   "question": "Which additional items must be avoided according to the śrāddha prohibitions?",
+   "premises": [
+    "All artificial salt is mentioned.",
+    "Bamboo shoots are mentioned.",
+    "Avoidance is enjoined."
+   ],
+   "inference": "All artificial salt and bamboo shoots should be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid all artificial salt and bamboo shoots."
+  },
+  {
+   "verse": 2613,
+   "rows": [
+    {
+     "surface": "āraktā",
+     "gloss": "reddish",
+     "grounds": "adjectival",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niryāsāḥ",
+     "gloss": "exudations",
+     "grounds": "nominal",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pratyakṣalavaṇāni",
+     "gloss": "visible-salts",
+     "grounds": "compound nominal",
+     "morph": "n.nom.pl (compound pratyakṣa+lavaṇa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which plant exudations and salts are excluded by the śrāddha rules?",
+   "premises": [
+    "Reddish exudations are specified.",
+    "Visible salts are specified.",
+    "Both are included in the prohibited list."
+   ],
+   "inference": "Reddish exudations and visible salts should be excluded.",
+   "uncertainties": [],
+   "plain_english": "Reddish exudations and salts that are visibly apparent."
+  },
+  {
+   "verse": 2614,
+   "rows": [
+    {
+     "surface": "piṇyākaṃ",
+     "gloss": "oil-cake",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mathitaṃ",
+     "gloss": "churned",
+     "grounds": "past participle",
+     "morph": "n.nom.sg (ppp) √manth"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atilavaṇaṃ",
+     "gloss": "excess-salt",
+     "grounds": "compound nominal",
+     "morph": "n.nom.sg (compound ati+lavaṇa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which further food items are prohibited in the śrāddha regulations?",
+   "premises": [
+    "Oil-cake is listed.",
+    "Churned substances are listed.",
+    "Anything excessively salty is listed."
+   ],
+   "inference": "Oil-cake, churned items, and excessively salty things are prohibited.",
+   "uncertainties": [
+    "mathitaṃ may refer to a specific churned preparation"
+   ],
+   "plain_english": "Oil-cake, churned things, and whatever is excessively salty."
+  },
+  {
+   "verse": 2615,
+   "rows": [
+    {
+     "surface": "dātāraṃ",
+     "gloss": "giver",
+     "grounds": "nominal object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nopatiṣṭhante",
+     "gloss": "not-approach",
+     "grounds": "negated present verb",
+     "morph": "3.pl.mid-pres na+√upa-sthā"
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "eater",
+     "grounds": "agent nominal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "present verb",
+     "morph": "3.sg.mid-pres √bhuj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kilbiṣam",
+     "gloss": "sin",
+     "grounds": "nominal object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What consequence follows when the eater fails to acknowledge the giver properly?",
+   "premises": [
+    "The recipients do not approach or attend to the giver.",
+    "The eater still eats.",
+    "Sin is incurred by the eater."
+   ],
+   "inference": "Eating without properly attending to the giver results in sin.",
+   "uncertainties": [
+    "nopatiṣṭhante may imply failure to wait upon or honor the giver"
+   ],
+   "plain_english": "If they do not attend to the giver, the eater eats sin."
+  },
+  {
+   "verse": 2616,
+   "rows": [
+    {
+     "surface": "bahirjānu",
+     "gloss": "outside-knee",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.) (compound bahis+jānu)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktaṃ",
+     "gloss": "food",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "adjectival",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asuraṃ",
+     "gloss": "demonic",
+     "grounds": "adjectival",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative copula",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What is the ritual status of food eaten with the knees outside the proper posture?",
+   "premises": [
+    "Food is eaten with knees outside.",
+    "Such food is characterized entirely in that state.",
+    "It becomes demonic in nature."
+   ],
+   "inference": "Eating with knees outside renders the food demonic.",
+   "uncertainties": [],
+   "plain_english": "Any food eaten with the knees outside becomes entirely demonic."
+  },
+  {
+   "verse": 2617,
+   "rows": [
+    {
+     "surface": "sāṅguṣṭhena",
+     "gloss": "with-thumb",
+     "grounds": "instrumental compound",
+     "morph": "n.ins.sg (compound sa+aṅguṣṭha)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg (gerundive) √kṛ"
+    },
+    {
+     "surface": "asuraṃ",
+     "gloss": "demonic",
+     "grounds": "adjectival",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the ritual action be performed to avoid becoming demonic?",
+   "premises": [
+    "The action should be done with the thumb included.",
+    "If done otherwise, it becomes demonic.",
+    "The contrast establishes the correct method."
+   ],
+   "inference": "Performing the action with the thumb is required; otherwise it is demonic.",
+   "uncertainties": [
+    "specific ritual action is implicit from context"
+   ],
+   "plain_english": "It should be done with the thumb; otherwise it would be demonic."
+  },
+  {
+   "verse": 2618,
+   "rows": [
+    {
+     "surface": "darbhāḥ",
+     "gloss": "darbha-grasses",
+     "grounds": "nominal",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pavitraṃ",
+     "gloss": "purifier",
+     "grounds": "nominal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvāhṇe",
+     "gloss": "in-forenoon",
+     "grounds": "locative of time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haviṣyāṇi",
+     "gloss": "sacrificial-foods",
+     "grounds": "nominal",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśaḥ",
+     "gloss": "in-all-ways",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual materials and timing are prescribed for śrāddha preparations?",
+   "premises": [
+    "Darbha grasses and a purifier are mentioned.",
+    "The forenoon is specified.",
+    "Sacrificial foods in all respects are included."
+   ],
+   "inference": "Darbha, purifier, forenoon timing, and sacrificial foods are prescribed.",
+   "uncertainties": [],
+   "plain_english": "Darbha grasses, the purifier, in the forenoon, and sacrificial foods in every way."
+  },
+  {
+   "verse": 2619,
+   "rows": [
+    {
+     "surface": "yāvanti",
+     "gloss": "as-many",
+     "grounds": "relative adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "paśuromāni",
+     "gloss": "animal-hairs",
+     "grounds": "compound nominal",
+     "morph": "n.nom.pl (compound paśu+roman)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-many",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakam",
+     "gloss": "hell",
+     "grounds": "nominal object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṛcchati",
+     "gloss": "reaches",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres √ṛ"
+    }
+   ],
+   "question": "What punishment corresponds to the presence of animal hairs in the śrāddha context?",
+   "premises": [
+    "Animal hairs may be present.",
+    "Their number is taken as a measure.",
+    "An equal extent of hell is reached."
+   ],
+   "inference": "One reaches hell for as many instances as there are animal hairs.",
+   "uncertainties": [],
+   "plain_english": "One reaches hell for as many times as there are animal hairs."
+  },
+  {
+   "verse": 2620,
+   "rows": [
+    {
+     "surface": "sopānatkaḥ",
+     "gloss": "with-sandals",
+     "grounds": "compound adjectival",
+     "morph": "m.nom.sg (compound sa+upānatka)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "present verb",
+     "morph": "3.sg.mid-pres √bhuj"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣāṃsi",
+     "gloss": "demons",
+     "grounds": "nominal",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhuñjate",
+     "gloss": "eat",
+     "grounds": "present verb",
+     "morph": "3.pl.mid-pres √bhuj"
+    }
+   ],
+   "question": "Who consumes the food when someone eats while wearing sandals?",
+   "premises": [
+    "A person eats while wearing sandals.",
+    "The food is identified as that offering.",
+    "Demons are said to eat it."
+   ],
+   "inference": "Food eaten while wearing sandals is consumed by demons.",
+   "uncertainties": [],
+   "plain_english": "He who eats while wearing sandals—demons indeed eat that food."
+  },
+  {
+   "verse": 2621,
+   "rows": [
+    {
+     "surface": "deśikena",
+     "gloss": "by-teacher",
+     "grounds": "instrumental agent",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "annadātā",
+     "gloss": "food-giver",
+     "grounds": "compound nominal",
+     "morph": "m.nom.sg (compound anna+dātṛ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "eater",
+     "grounds": "agent nominal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "nominal object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "What consequence befalls the food-giver and eater in relation to the teacher's role?",
+   "premises": [
+    "The teacher is involved in the situation.",
+    "Both the food-giver and the eater are specified.",
+    "They would go to hell."
+   ],
+   "inference": "Both the food-giver and the eater incur hell in this circumstance.",
+   "uncertainties": [
+    "exact role of deśikena in the fault condition is context-dependent"
+   ],
+   "plain_english": "The giver of food and the eater would go to hell in connection with the teacher."
+  },
+  {
+   "verse": 2622,
+   "rows": [
+    {
+     "surface": "nābheḥ",
+     "gloss": "of-navel",
+     "grounds": "ablative/genitive reference point",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "adhaśca",
+     "gloss": "below-and",
+     "grounds": "adverb with enclitic",
+     "morph": "(indecl.)+indecl."
+    },
+    {
+     "surface": "saṃsparśaṃ",
+     "gloss": "touching",
+     "grounds": "nominal object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karmayukto",
+     "gloss": "rite-engaged",
+     "grounds": "compound adjectival",
+     "morph": "m.nom.sg (compound karman+yukta)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt √vi-vṛj"
+    }
+   ],
+   "question": "What bodily contact must one engaged in the rite avoid during śrāddha?",
+   "premises": [
+    "The person is engaged in ritual action.",
+    "Touching below the navel is specified.",
+    "Avoidance is enjoined."
+   ],
+   "inference": "One engaged in the rite should avoid touching below the navel.",
+   "uncertainties": [],
+   "plain_english": "One engaged in the rite should avoid touching below the navel."
+  },
+  {
+   "verse": 2623,
+   "rows": [
+    {
+     "surface": "mitrāṇi",
+     "gloss": "friends",
+     "grounds": "nominal",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ārogya",
+     "gloss": "health",
+     "grounds": "compound member",
+     "morph": "n. (compound member)"
+    },
+    {
+     "surface": "saṃpat",
+     "gloss": "prosperity",
+     "grounds": "compound nominal",
+     "morph": "f.nom.sg (compound saṃpad)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "śraddhādaninditāt",
+     "gloss": "from-unblamed-śrāddha-giving",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg (compound śrāddha+dāna+nindita)"
+    }
+   ],
+   "question": "What benefits arise from giving śrāddha without blame or fault?",
+   "premises": [
+    "Śrāddha giving is performed without blame.",
+    "Friends are mentioned as a result.",
+    "Health and prosperity are mentioned as results."
+   ],
+   "inference": "Unblamed śrāddha giving brings friends, health, and prosperity.",
+   "uncertainties": [],
+   "plain_english": "From unblamed śrāddha giving come friends, health, and prosperity."
+  },
+  {
+   "verse": 2624,
+   "rows": [
+    {
+     "surface": "kalaho",
+     "gloss": "quarrel",
+     "grounds": "nominal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vipravāsaḥ",
+     "gloss": "separation",
+     "grounds": "nominal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ninditaśrāddhato",
+     "gloss": "from-blamed-śrāddha",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg (compound nindita+śrāddha)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative copula",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What negative consequences result from performing a blamed śrāddha?",
+   "premises": [
+    "The śrāddha is blamed or faulty.",
+    "Quarrel is mentioned as a result.",
+    "Separation is mentioned as a result."
+   ],
+   "inference": "A blamed śrāddha leads to quarrel and separation.",
+   "uncertainties": [],
+   "plain_english": "From a blamed śrāddha come quarrel and separation."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2650,
+   "rows": [
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-the-circle",
+     "grounds": "locative of maṇḍala indicating the locus of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karapṛṣṭhena",
+     "gloss": "with-back-of-hand",
+     "grounds": "instrumental of compound kara+pṛṣṭha indicating the means",
+     "morph": "n.ins.sg (compound: kara+pṛṣṭha)"
+    },
+    {
+     "surface": "svadhāntena",
+     "gloss": "ending-with-svadha",
+     "grounds": "instrumental of compound svadhā+anta specifying the mantra termination",
+     "morph": "adj.ins.sg (compound: svadhā+anta)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "3.sg.act-opt~sam-√arc"
+    }
+   ],
+   "question": "What hand gesture and mantra ending are prescribed for worship within the mandala?",
+   "premises": [
+    "Worship is to be performed within the mandala.",
+    "The back of the hand serves as the instrument of worship.",
+    "The ritual act is to conclude with the syllable svadhā."
+   ],
+   "inference": "Therefore one should worship in the mandala using the back of the hand and ending with svadhā.",
+   "uncertainties": [
+    "The exact ritual gesture implied by karapṛṣṭha in this context is not fully specified."
+   ],
+   "plain_english": "One should worship in the mandala with the back of the hand, ending with svadhā."
+  }
+ ]
+}
