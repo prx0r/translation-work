@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p05",
  "verse": 122,
- "question": "What fractional parts and projection measures are prescribed in this sequence?",
+ "question": "Which sweet and dairy substances are prescribed as constant ingredients?",
  "premises": [
-  "A measure of one and a half is referenced.",
-  "Half and half parts are specified.",
-  "A projection of two parts with two and a half is prescribed."
+  "Honey, sugar, and ghee are listed",
+  "Curd and milk are included together",
+  "These are prescribed always"
  ],
- "inference": "The sequence prescribes half and half parts of one and a half, and a projection of two parts with two and a half.",
- "uncertainties": [
-  "The exact syntactic grouping of these fractional measures is ambiguous."
- ],
- "plain_english": "With half and half parts of one and a half, and with two and a half, the projection should be two parts."
+ "inference": "Honey, sugar, ghee, together with curd and milk, are always prescribed.",
+ "uncertainties": [],
+ "plain_english": "Honey, sugar, ghee, endowed with curd and milk, always."
 }
