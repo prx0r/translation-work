@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "caturasrañca",
+     "gloss": "square-and",
+     "grounds": "square plus conjunction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃlikhya",
+     "gloss": "drawing",
+     "grounds": "absolutive of root likh",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "mantrārṇān",
+     "gloss": "mantra-syllables",
+     "grounds": "mantra syllables in accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaḍālikhet",
+     "gloss": "six-should-write",
+     "grounds": "optative form with six",
+     "morph": "3.sg.opt."
+    }
+   ],
+   "question": "What should one write after drawing a square and mantra syllables?",
+   "premises": [
+    "A square is drawn first.",
+    "Mantra syllables are drawn.",
+    "Six items are written."
+   ],
+   "inference": "The verse prescribes drawing a square and mantra syllables then writing six.",
+   "uncertainties": [
+    "The exact referent of six is unspecified."
+   ],
+   "plain_english": "Having drawn a square and the mantra syllables, one should write six."
+  }
+ ]
+}

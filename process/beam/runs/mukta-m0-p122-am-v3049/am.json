@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p122",
  "verse": 3049,
- "question": "What common attributes characterize all these invoked goddesses?",
+ "question": "How do the powers begin with one, two, and so on?",
  "premises": [
-  "All these goddesses are grouped together",
-  "They hold swords",
-  "They are adorned with skull-garlands"
+  "beginning-with-one-two-etc is stated",
+  "color-forms is stated",
+  "powers is subject"
  ],
- "inference": "All these goddesses are sword-bearing and adorned with garlands of skulls.",
- "uncertainties": [],
- "plain_english": "All these goddesses hold swords and are adorned with garlands of skulls."
+ "inference": "The verse states that powers begin with one, two, and so on in color-forms.",
+ "uncertainties": [
+  "exact sequence"
+ ],
+ "plain_english": "Indeed the powers begin with one, two, and so on in color-forms."
 }

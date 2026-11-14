@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p121",
  "verse": 3008,
- "question": "What distinctive visual attributes of red eyes and great eyes are attributed to the deity?",
+ "question": "What shapes are joined in the interval?",
  "premises": [
-  "The deity has red eyes",
-  "The deity has great eyes"
+  "The interval lies between triangle and circle",
+  "Six-cornered forms are joined"
  ],
- "inference": "The deity is characterized by powerful and striking eyes",
- "uncertainties": [],
- "plain_english": "Homage to the red-eyed one; homage to the great-eyed one."
+ "inference": "Gradually join six-cornered forms in the triangle-circle interval.",
+ "uncertainties": [
+  "Exact geometric construction"
+ ],
+ "plain_english": "Gradually join six-cornered forms in the interval between triangle and circle."
 }

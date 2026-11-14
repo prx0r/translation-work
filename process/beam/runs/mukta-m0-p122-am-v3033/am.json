@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p122",
  "verse": 3033,
- "question": "Who is declared the seer of the Śrījaganmaṅgala armor?",
+ "question": "How many times should the self-controlled person recite the mantra while touching water?",
  "premises": [
-  "The armor is Śrījaganmaṅgala",
-  "A seer is assigned to it",
-  "The seer is named Śiva"
+  "touching-water is stated",
+  "should-recite-mantra is stated",
+  "three-thousand is specified"
  ],
- "inference": "Śiva is the seer of the Śrījaganmaṅgala armor.",
- "uncertainties": [],
- "plain_english": "Śiva is the seer of the Śrījaganmaṅgala armor."
+ "inference": "The verse prescribes three thousand recitations by a self-controlled person while touching water.",
+ "uncertainties": [
+  "exact mantra"
+ ],
+ "plain_english": "The self-controlled person should recite the mantra three thousand times while touching water."
 }
