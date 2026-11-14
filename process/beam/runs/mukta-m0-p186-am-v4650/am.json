@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p186",
  "verse": 4650,
- "question": "What kind of canopy should be made in water?",
+ "question": "Must plowing and related acts for these be performed separately or omitted?",
  "premises": [
-  "in water a canopy is made",
-  "the canopy is four-limbed"
+  "Plowing and related acts are under consideration for these cases.",
+  "These acts may be performed or not performed.",
+  "The option of performing them separately is explicitly raised."
  ],
- "inference": "the ritual canopy in water must be four-limbed",
+ "inference": "Plowing and related acts for these may optionally be performed separately or not performed.",
  "uncertainties": [
-  "exact ritual function of prapā remains unclear"
+  "The exact referent of eteṣāṃ depends on the immediately preceding ritual context."
  ],
- "plain_english": "In water, make a canopy endowed with four limbs."
+ "plain_english": "For these, plowing and the other related acts may either be done separately or not done."
 }

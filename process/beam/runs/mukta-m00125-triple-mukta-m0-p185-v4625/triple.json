@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p185",
+ "items": [
+  {
+   "verse": 4625,
+   "rows": [
+    {
+     "surface": "āvahet",
+     "gloss": "should-invoke",
+     "grounds": "prescribes the ritual act of invocation",
+     "morph": "3.sg.act-opt.√ā-vah"
+    },
+    {
+     "surface": "uttamāṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the accomplishment as highest",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "denotes the desired ritual attainment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarva+liṃgeṣvayaṃ+vidhiḥ",
+     "gloss": "in-all-liṅgas-this-procedure",
+     "grounds": "fused form expressing universal scope; sarva+liṅgeṣu locative plural with ayam and vidhiḥ nominative",
+     "morph": "compound:[sarva+liṅga-loc.pl]+[ayam-m.nom.sg]+[vidhi-m.nom.sg]"
+    }
+   ],
+   "question": "What accomplishment and scope of application does this ritual procedure secure?",
+   "premises": [
+    "The prescribed procedure directs a specific ritual act of invocation.",
+    "The intended outcome of that act is supreme accomplishment.",
+    "This same procedure applies universally to all liṅgas."
+   ],
+   "inference": "By following this procedure, one secures supreme accomplishment in all liṅgas.",
+   "uncertainties": [],
+   "plain_english": "One should invoke the supreme accomplishment; this procedure applies to all liṅgas."
+  }
+ ]
+}
