@@ -1,0 +1,1113 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 576,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "refers to everything to be undertaken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive indicating what must be performed",
+     "morph": "n.acc.sg (gerundive, pra-√kṛ)"
+    },
+    {
+     "surface": "bhāva-mātraṃ",
+     "gloss": "thought-only",
+     "grounds": "compound: bhāva (thought/intention) + mātra (only)",
+     "morph": "n.acc.sg (compound: bhāva+mātra)"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-contemplate",
+     "grounds": "optative injunction to mentally consider",
+     "morph": "3.sg.act.opt (vi-√cint)"
+    }
+   ],
+   "question": "How should all required actions be performed in this ritual context?",
+   "premises": [
+    "The context prescribes a mode of action.",
+    "All required actions are included.",
+    "They should be contemplated as thought alone."
+   ],
+   "inference": "In this context, all required actions are to be accomplished through mental contemplation alone.",
+   "uncertainties": [],
+   "plain_english": "Here one should contemplate all that is to be done as existing in thought alone."
+  },
+  {
+   "verse": 577,
+   "rows": [
+    {
+     "surface": "snātaḥ",
+     "gloss": "bathed",
+     "grounds": "describes the practitioner as ritually purified by bathing",
+     "morph": "m.nom.sg (past participle, √snā)"
+    },
+    {
+     "surface": "śukla-ambara-dharaḥ",
+     "gloss": "white-garment-wearing",
+     "grounds": "compound: śukla (white) + ambara (garment) + dhara (wearing)",
+     "morph": "m.nom.sg (compound: śukla+ambara+dhara)"
+    },
+    {
+     "surface": "kṛta-nitya-kriyaḥ",
+     "gloss": "done-daily-duties",
+     "grounds": "compound: kṛta (done) + nitya (daily) + kriya (duties)",
+     "morph": "m.nom.sg (compound: kṛta+nitya+kriya)"
+    },
+    {
+     "surface": "divā",
+     "gloss": "by-day",
+     "grounds": "specifies the time of practice",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory state and timing are prescribed for the daytime practitioner?",
+   "premises": [
+    "The practitioner should be ritually bathed.",
+    "The practitioner should wear white garments.",
+    "The practitioner should have completed daily duties by day."
+   ],
+   "inference": "Daytime practice requires ritual bathing, white clothing, and completion of daily duties.",
+   "uncertainties": [],
+   "plain_english": "By day, one should be bathed, dressed in white garments, and having completed the daily rites."
+  },
+  {
+   "verse": 578,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukta-keśaśca",
+     "gloss": "loose-haired-and",
+     "grounds": "compound: mukta (loose) + keśa (hair), with enclitic ca",
+     "morph": "m.nom.sg (compound: mukta+keśa, +ca)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to that practice or state",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative expressing possible result",
+     "morph": "3.pl.act.opt (√as)"
+    },
+    {
+     "surface": "sarva-siddhayaḥ",
+     "gloss": "all-accomplishments",
+     "grounds": "compound: sarva (all) + siddhi (accomplishments)",
+     "morph": "f.nom.pl (compound: sarva+siddhi)"
+    }
+   ],
+   "question": "What alternative bodily condition can lead to the attainment of all accomplishments?",
+   "premises": [
+    "An alternative practice is presented.",
+    "The practitioner may have loose hair.",
+    "Through that condition all accomplishments may arise."
+   ],
+   "inference": "Practicing with loose hair can result in the attainment of all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "Or else, with hair loosened, by that means all accomplishments may be attained."
+  },
+  {
+   "verse": 579,
+   "rows": [
+    {
+     "surface": "nagnāṃ",
+     "gloss": "naked",
+     "grounds": "describes the woman seen in the rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "para-striyaṃ",
+     "gloss": "another-woman",
+     "grounds": "compound: para (other) + strī (woman)",
+     "morph": "f.acc.sg (compound: para+strī)"
+    },
+    {
+     "surface": "vīkṣan",
+     "gloss": "seeing",
+     "grounds": "present participle indicating concurrent action",
+     "morph": "m.nom.sg (present participle, vi-√īkṣ)"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-recite",
+     "grounds": "optative injunction for mantra recitation",
+     "morph": "3.sg.act.opt (pra-√jap)"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "specifies the number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "the practitioner performing the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What specific recitation practice is prescribed while beholding a naked woman of another?",
+   "premises": [
+    "A man beholds a naked woman belonging to another.",
+    "While seeing her he performs recitation.",
+    "The recitation is to be done ten thousand times."
+   ],
+   "inference": "While beholding a naked woman of another, a man should recite the mantra ten thousand times.",
+   "uncertainties": [
+    "The identity of the mantra to be recited is not specified in this verse."
+   ],
+   "plain_english": "While looking at a naked woman belonging to another, a man should recite the mantra ten thousand times."
+  },
+  {
+   "verse": 580,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner described previously",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "darśana-mātreṇa",
+     "gloss": "by-sight-only",
+     "grounds": "compound: darśana (sight) + mātra (only), instrumental of means",
+     "morph": "n.inst.sg (compound: darśana+mātra)"
+    },
+    {
+     "surface": "vādinaḥ",
+     "gloss": "opponents",
+     "grounds": "those who engage in debate or contention",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "niṣprabhāḥ",
+     "gloss": "without-luster",
+     "grounds": "compound: nis (without) + prabhā (luster/power)",
+     "morph": "m.nom.pl (compound: nis+prabhā)"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "past participle indicating the resulting state",
+     "morph": "m.nom.pl (past participle, √man)"
+    }
+   ],
+   "question": "What effect does the accomplished practitioner's mere sight have on disputing opponents?",
+   "premises": [
+    "The practitioner has completed the prescribed rite.",
+    "Opponents encounter his mere sight.",
+    "They are rendered without luster or power."
+   ],
+   "inference": "By the mere sight of such a practitioner, opponents lose their power and are considered diminished.",
+   "uncertainties": [],
+   "plain_english": "By his mere sight, disputants are considered to be deprived of their luster."
+  },
+  {
+   "verse": 581,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "introduces another alternative practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukta-keśaśca",
+     "gloss": "loose-haired-and",
+     "grounds": "compound: mukta (loose) + keśa (hair), with enclitic ca",
+     "morph": "m.nom.sg (compound: mukta+keśa, +ca)"
+    },
+    {
+     "surface": "haviṣyaṃ",
+     "gloss": "sacrificial-food",
+     "grounds": "ritually pure food suitable for offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-eat",
+     "grounds": "optative injunction to consume",
+     "morph": "3.sg.act.opt (√bhakṣ)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "the practitioner performing the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative dietary practice is prescribed for a man with loosened hair?",
+   "premises": [
+    "An alternative practice is given.",
+    "The man has his hair loosened.",
+    "He should eat sacrificial food."
+   ],
+   "inference": "As an alternative, a man with loosened hair should consume sacrificial food.",
+   "uncertainties": [],
+   "plain_english": "Or else, a man with loosened hair should eat sacrificial food."
+  },
+  {
+   "verse": 582,
+   "rows": [
+    {
+     "surface": "aṣṭa-uttara-śataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound: aṣṭa (eight) + uttara (more) + śata (hundred)",
+     "morph": "n.acc.sg (compound: aṣṭa+uttara+śata)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive indicating prior recitation",
+     "morph": "(absolutive, √jap)"
+    },
+    {
+     "surface": "bhāga-āmantraṇena",
+     "gloss": "with-portion-invocation",
+     "grounds": "compound: bhāga (portion) + āmantraṇa (invocation/address)",
+     "morph": "n.inst.sg (compound: bhāga+āmantraṇa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation count and accompanying act are required in this ritual procedure?",
+   "premises": [
+    "Recitation is performed one hundred and eight times.",
+    "The recitation is completed as a prior act.",
+    "It is accompanied by invocation of the portion."
+   ],
+   "inference": "The procedure requires reciting one hundred and eight times together with invocation of the portion.",
+   "uncertainties": [
+    "The exact referent of bhāga-āmantraṇa is context-dependent."
+   ],
+   "plain_english": "Having recited one hundred and eight times, and with the invocation of the portion."
+  },
+  {
+   "verse": 583,
+   "rows": [
+    {
+     "surface": "sarva-vidyāvatāṃ",
+     "gloss": "of-all-knowledge-holders",
+     "grounds": "compound: sarva (all) + vidyāvat (possessing knowledge)",
+     "morph": "m.gen.pl (compound: sarva+vidyāvat)"
+    },
+    {
+     "surface": "śreṣṭhaḥ",
+     "gloss": "best",
+     "grounds": "superlative indicating highest excellence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "optative expressing the resulting state",
+     "morph": "3.sg.act.opt (√bhū)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle, part of fixed expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb, part of fixed expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "asserts certainty of the result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What status is attained among possessors of all knowledge through this practice?",
+   "premises": [
+    "The practitioner performs the prescribed acts.",
+    "A comparison is made with all possessors of knowledge.",
+    "The result is declared beyond doubt."
+   ],
+   "inference": "Through this practice one becomes the foremost among all possessors of knowledge, without doubt.",
+   "uncertainties": [],
+   "plain_english": "He indeed becomes the best among all possessors of knowledge; there is no doubt about this."
+  },
+  {
+   "verse": 584,
+   "rows": [
+    {
+     "surface": "bāliśasya",
+     "gloss": "of-foolish-one",
+     "grounds": "refers to an unlearned or simple person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle emphasizing the extreme case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad-vāṇī",
+     "gloss": "his-speech",
+     "grounds": "compound: tad (his) + vāṇī (speech)",
+     "morph": "f.nom.sg (compound: tad+vāṇī)"
+    },
+    {
+     "surface": "gadya-padyamayī",
+     "gloss": "prose-verse-composed",
+     "grounds": "compound: gadya (prose) + padya (verse) + maya (composed of)",
+     "morph": "f.nom.sg (compound: gadya+padya+maya)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative expressing transformation",
+     "morph": "3.sg.act.opt (√bhū)"
+    }
+   ],
+   "question": "How can the speech of even an unlearned person be transformed by this practice?",
+   "premises": [
+    "Even a foolish person is included.",
+    "The effect concerns that person's speech.",
+    "The speech becomes composed of prose and verse."
+   ],
+   "inference": "Even a foolish person's speech becomes eloquent in both prose and verse.",
+   "uncertainties": [],
+   "plain_english": "Even the speech of a foolish person becomes composed of prose and verse."
+  },
+  {
+   "verse": 585,
+   "rows": [
+    {
+     "surface": "surateṣu",
+     "gloss": "in-sexual-unions",
+     "grounds": "locative indicating the context of practice",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continual practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japyaṃ",
+     "gloss": "to-be-recited",
+     "grounds": "gerundive prescribing recitation",
+     "morph": "n.nom.sg (gerundive, √jap)"
+    },
+    {
+     "surface": "mahā-pātaka-muktaye",
+     "gloss": "for-great-sin-release",
+     "grounds": "compound: mahā (great) + pātaka (sin) + mukti (release), dative of purpose",
+     "morph": "f.dat.sg (compound: mahā+pātaka+mukti)"
+    }
+   ],
+   "question": "For what purpose should the mantra always be recited during sexual union?",
+   "premises": [
+    "Recitation is prescribed during sexual unions.",
+    "The recitation should be constant.",
+    "The stated purpose is release from great sins."
+   ],
+   "inference": "The mantra should always be recited during sexual union for release from great sins.",
+   "uncertainties": [],
+   "plain_english": "During sexual unions it should always be recited for release from great sins."
+  },
+  {
+   "verse": 586,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative injunction for recitation",
+     "morph": "3.sg.act.opt (√jap)"
+    },
+    {
+     "surface": "ayuta-saṃkhyaṃ",
+     "gloss": "ten-thousand-count",
+     "grounds": "compound: ayuta (ten thousand) + saṃkhyā (count)",
+     "morph": "n.acc.sg (compound: ayuta+saṃkhyā)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva-kāma-artha-siddhaye",
+     "gloss": "for-all-desire-goal-accomplishment",
+     "grounds": "compound: sarva (all) + kāma (desire) + artha (goal) + siddhi (accomplishment), dative of purpose",
+     "morph": "f.dat.sg (compound: sarva+kāma+artha+siddhi)"
+    }
+   ],
+   "question": "What quantity of recitation secures the accomplishment of all desired goals?",
+   "premises": [
+    "Recitation is prescribed.",
+    "The count is ten thousand.",
+    "The purpose is accomplishment of all desires and goals."
+   ],
+   "inference": "Reciting ten thousand times brings about the accomplishment of all desired goals.",
+   "uncertainties": [],
+   "plain_english": "One should indeed recite it ten thousand times for the accomplishment of all desires and aims."
+  },
+  {
+   "verse": 587,
+   "rows": [
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "specifies the number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāg-yataḥ",
+     "gloss": "speech-restrained",
+     "grounds": "compound: vāc (speech) + yata (restrained)",
+     "morph": "m.nom.sg (compound: vāc+yata)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive indicating prior state",
+     "morph": "(absolutive, √bhū)"
+    },
+    {
+     "surface": "bibhīṣikā-parāyaṇaḥ",
+     "gloss": "terror-focused",
+     "grounds": "compound: bibhīṣikā (terror/fear-inducing) + parāyaṇa (devoted to/focused on)",
+     "morph": "m.nom.sg (compound: bibhīṣikā+parāyaṇa)"
+    }
+   ],
+   "question": "What disciplined state enables the practitioner to perform ten thousand recitations for terrifying effects?",
+   "premises": [
+    "The practitioner recites ten thousand times.",
+    "The practitioner restrains speech.",
+    "The practitioner is focused on inducing terror."
+   ],
+   "inference": "Having restrained speech and focused on terror, one should perform ten thousand recitations.",
+   "uncertainties": [
+    "The exact ritual application of bibhīṣikā is not fully specified here."
+   ],
+   "plain_english": "Having become restrained in speech and intent on causing terror, one should recite ten thousand times."
+  },
+  {
+   "verse": 588,
+   "rows": [
+    {
+     "surface": "ākarṣaṇaṃ",
+     "gloss": "attraction",
+     "grounds": "one of the ritual powers or acts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaśīkāra",
+     "gloss": "subjugation",
+     "grounds": "ritual act of bringing under control",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "driving-away",
+     "grounds": "ritual act of expulsion or displacement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bodhanaṃ",
+     "gloss": "awakening",
+     "grounds": "ritual act of arousing or awakening",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific ritual powers are enumerated as attainable through the prescribed practice?",
+   "premises": [
+    "A set of ritual effects is listed.",
+    "The list includes attraction and subjugation.",
+    "The list includes driving away and awakening."
+   ],
+   "inference": "The practice yields powers such as attraction, subjugation, driving away, and awakening.",
+   "uncertainties": [],
+   "plain_english": "Attraction, subjugation, driving away, and likewise awakening."
+  },
+  {
+   "verse": 589,
+   "rows": [
+    {
+     "surface": "vāgmitvaṃ",
+     "gloss": "eloquence",
+     "grounds": "quality of being skilled in speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhanitvaṃ",
+     "gloss": "wealth",
+     "grounds": "state of possessing wealth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahu-putritvam",
+     "gloss": "many-sons",
+     "grounds": "compound: bahu (many) + putritva (state of having sons)",
+     "morph": "n.acc.sg (compound: bahu+putritva)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What personal attainments of speech, wealth, and progeny result from the practice?",
+   "premises": [
+    "Further results of the practice are listed.",
+    "Eloquence and wealth are included.",
+    "Having many sons is included."
+   ],
+   "inference": "The practice also brings eloquence, wealth, and the state of having many sons.",
+   "uncertainties": [],
+   "plain_english": "Eloquence, wealth, and indeed the state of having many sons."
+  },
+  {
+   "verse": 590,
+   "rows": [
+    {
+     "surface": "samāyāti",
+     "gloss": "comes",
+     "grounds": "verb indicating attainment or arrival of results",
+     "morph": "3.sg.act.pres (sam-ā-√yā)"
+    },
+    {
+     "surface": "khecaratvaṃ",
+     "gloss": "sky-moving",
+     "grounds": "compound: khecara (sky-mover) + tva (state), a siddhi",
+     "morph": "n.nom.sg (compound: khecara+tva)"
+    },
+    {
+     "surface": "devatvam",
+     "gloss": "godhood",
+     "grounds": "state of becoming like a deity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What exalted supernatural states are said to come to the accomplished practitioner?",
+   "premises": [
+    "The results continue to be enumerated.",
+    "The power of moving in the sky comes.",
+    "The state of godhood also comes."
+   ],
+   "inference": "The practitioner attains the power of moving in the sky and even godhood.",
+   "uncertainties": [],
+   "plain_english": "The power of moving through the sky and indeed godhood also come to him."
+  },
+  {
+   "verse": 591,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhītiḥ",
+     "gloss": "fear",
+     "grounds": "absence of fear is asserted",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṣyasya",
+     "gloss": "of-man",
+     "grounds": "refers to the human practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāk",
+     "gloss": "speech",
+     "grounds": "refers to speech, in compound with following term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāya-pātanam",
+     "gloss": "body-fall",
+     "grounds": "compound: kāya (body) + pātana (falling), indicating bodily collapse or death",
+     "morph": "n.nom.sg (compound: kāya+pātana)"
+    }
+   ],
+   "question": "What protections from fear and bodily harm are granted to the human practitioner?",
+   "premises": [
+    "Fear is negated for the man.",
+    "Speech-related harm is negated.",
+    "Falling or destruction of the body is negated."
+   ],
+   "inference": "The practitioner has no fear, no loss of speech, and no falling of the body.",
+   "uncertainties": [
+    "The exact sense of vāk in relation to kāya-pātanam is somewhat compressed."
+   ],
+   "plain_english": "There is no fear for the man, nor loss of speech, nor falling of the body."
+  },
+  {
+   "verse": 592,
+   "rows": [
+    {
+     "surface": "sva-deha-rudhira-aktaiśca",
+     "gloss": "own-body-blood-smeared-and",
+     "grounds": "compound: sva (own) + deha (body) + rudhira (blood) + akta (smeared), with enclitic ca",
+     "morph": "n.inst.pl (compound: sva+deha+rudhira+akta, +ca)"
+    },
+    {
+     "surface": "vilva-patraiḥ",
+     "gloss": "bilva-leaves",
+     "grounds": "compound: vilva (bilva tree) + patra (leaves)",
+     "morph": "n.inst.pl (compound: vilva+patra)"
+    },
+    {
+     "surface": "sahasraśaḥ",
+     "gloss": "thousand-times",
+     "grounds": "indicates repeated offering or action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering substance and quantity are prescribed using bilva leaves and one's own blood?",
+   "premises": [
+    "Bilva leaves are used in the rite.",
+    "They are smeared with one's own bodily blood.",
+    "The action is performed a thousand times."
+   ],
+   "inference": "One should perform the rite a thousand times with bilva leaves smeared with one's own blood.",
+   "uncertainties": [
+    "The specific ritual action performed with the leaves is implied from context."
+   ],
+   "plain_english": "With bilva leaves smeared with the blood of one's own body, a thousand times."
+  },
+  {
+   "verse": 593,
+   "rows": [
+    {
+     "surface": "reto-yuktena",
+     "gloss": "semen-mixed",
+     "grounds": "compound: retas (semen) + yukta (joined/mixed)",
+     "morph": "n.inst.sg (compound: retas+yukta)"
+    },
+    {
+     "surface": "puṣpeṇa",
+     "gloss": "with-flower",
+     "grounds": "instrumental indicating the offering substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "arkasya",
+     "gloss": "of-arka",
+     "grounds": "specifies the flower as belonging to the arka plant",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating this rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraśaḥ",
+     "gloss": "thousand-times",
+     "grounds": "indicates repeated offering or action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative offering uses arka flowers mixed with semen in repeated ritual action?",
+   "premises": [
+    "An arka flower is used.",
+    "The flower is mixed with semen.",
+    "The action is performed a thousand times."
+   ],
+   "inference": "The rite may be performed a thousand times with an arka flower mixed with semen.",
+   "uncertainties": [
+    "The specific ritual action performed with the flower is implied from context."
+   ],
+   "plain_english": "Here, with a flower of the arka plant mixed with semen, a thousand times."
+  },
+  {
+   "verse": 594,
+   "rows": [
+    {
+     "surface": "dhanavān",
+     "gloss": "wealthy",
+     "grounds": "possessing wealth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "balavān",
+     "gloss": "powerful",
+     "grounds": "possessing strength",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāgmī",
+     "gloss": "eloquent",
+     "grounds": "possessing skill in speech",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva-yoṣit-priyaḥ",
+     "gloss": "all-women-beloved",
+     "grounds": "compound: sarva (all) + yoṣit (women) + priya (beloved)",
+     "morph": "m.nom.sg (compound: sarva+yoṣit+priya)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise",
+     "grounds": "possessing good intelligence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What personal qualities and social powers result from the preceding offerings?",
+   "premises": [
+    "The practitioner performs the prescribed offerings.",
+    "Multiple desirable qualities are listed as results.",
+    "These include wealth, strength, eloquence, attractiveness, and wisdom."
+   ],
+   "inference": "The practitioner becomes wealthy, powerful, eloquent, beloved by all women, and wise.",
+   "uncertainties": [],
+   "plain_english": "He becomes wealthy, powerful, eloquent, beloved by all women, and wise."
+  },
+  {
+   "verse": 595,
+   "rows": [
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative specifying the ritual site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yoṣitaṃ",
+     "gloss": "woman",
+     "grounds": "object brought to the ritual site",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-led",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(absolutive, √nī)"
+    },
+    {
+     "surface": "suvastrāṃ",
+     "gloss": "well-dressed",
+     "grounds": "compound: su (well) + vastra (garment/clothed)",
+     "morph": "f.acc.sg (compound: su+vastra)"
+    },
+    {
+     "surface": "gaṇikāṃ",
+     "gloss": "courtesan",
+     "grounds": "specifies the woman as a courtesan",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What companion and setting are prescribed for the next cremation-ground ritual?",
+   "premises": [
+    "The ritual takes place in a cremation ground.",
+    "A woman is brought there.",
+    "She is well-dressed and identified as a courtesan."
+   ],
+   "inference": "The practitioner should bring a well-dressed courtesan to the cremation ground for the rite.",
+   "uncertainties": [],
+   "plain_english": "Having brought a well-dressed courtesan to the cremation ground."
+  },
+  {
+   "verse": 596,
+   "rows": [
+    {
+     "surface": "javā-puṣpiḥ",
+     "gloss": "javā-flower",
+     "grounds": "compound: javā (hibiscus) + puṣpa (flower), used as ritual substance",
+     "morph": "m.nom.sg (compound: javā+puṣpa)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula to be empowered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive indicating ritual consecration",
+     "morph": "(absolutive, pra-√ukṣ)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence of actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "optative injunction for meditation",
+     "morph": "3.sg.act.opt (√dhyai)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍikām",
+     "gloss": "caṇḍikā",
+     "grounds": "name of the goddess to be meditated upon",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What consecration and meditation sequence is prescribed in the cremation-ground rite?",
+   "premises": [
+    "A javā flower is used in the rite.",
+    "The mantra is consecrated by sprinkling.",
+    "Afterward one should meditate on Caṇḍikā."
+   ],
+   "inference": "After consecrating the mantra with a javā flower, the practitioner should meditate on Caṇḍikā.",
+   "uncertainties": [],
+   "plain_english": "Having consecrated the mantra with a javā flower, one should then meditate on Caṇḍikā."
+  },
+  {
+   "verse": 597,
+   "rows": [
+    {
+     "surface": "śmaśāna-śayane",
+     "gloss": "on-cremation-ground-bed",
+     "grounds": "compound: śmaśāna (cremation ground) + śayana (bed/resting place)",
+     "morph": "n.loc.sg (compound: śmaśāna+śayana)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śava-āsana-gataḥ",
+     "gloss": "seated-on-corpse-seat",
+     "grounds": "compound: śava (corpse) + āsana (seat) + gata (gone/seated)",
+     "morph": "m.nom.sg (compound: śava+āsana+gata)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates continuation or repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual posture and seat are required within the cremation-ground setting?",
+   "premises": [
+    "The setting is a cremation-ground resting place.",
+    "The practitioner takes a specific seat.",
+    "The seat is upon a corpse."
+   ],
+   "inference": "The practitioner should again be seated on a corpse in the cremation-ground resting place.",
+   "uncertainties": [],
+   "plain_english": "And again, seated upon a corpse as a seat in the cremation-ground resting place."
+  },
+  {
+   "verse": 598,
+   "rows": [
+    {
+     "surface": "retobhiśca",
+     "gloss": "with-semen-and",
+     "grounds": "instrumental plural of retas, with enclitic ca",
+     "morph": "n.inst.pl (+ca)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating parallel items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "similarly",
+     "grounds": "indicates manner similar to previous",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svakīyena",
+     "gloss": "with-own",
+     "grounds": "possessive adjective qualifying hair",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kacena",
+     "gloss": "with-hair",
+     "grounds": "instrumental indicating ritual substance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bodily substances are employed as ritual materials in this cremation-ground practice?",
+   "premises": [
+    "Ritual materials are specified.",
+    "Semen is used.",
+    "One's own hair is likewise used."
+   ],
+   "inference": "The rite employs semen and likewise one's own hair as ritual materials.",
+   "uncertainties": [
+    "The exact ritual use of these substances is continued in the next verse."
+   ],
+   "plain_english": "With semen, and likewise similarly with one's own hair."
+  },
+  {
+   "verse": 599,
+   "rows": [
+    {
+     "surface": "meṣa-māhiṣa-raktena",
+     "gloss": "ram-buffalo-blood",
+     "grounds": "compound: meṣa (ram) + māhiṣa (buffalo) + rakta (blood)",
+     "morph": "n.inst.sg (compound: meṣa+māhiṣa+rakta)"
+    },
+    {
+     "surface": "nara-raktena",
+     "gloss": "human-blood",
+     "grounds": "compound: nara (human) + rakta (blood)",
+     "morph": "n.inst.sg (compound: nara+rakta)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which types of blood are specified as additional substances in the ritual sequence?",
+   "premises": [
+    "Additional ritual substances are listed.",
+    "Blood of ram and buffalo is included.",
+    "Human blood is also included."
+   ],
+   "inference": "The ritual sequence also employs the blood of ram, buffalo, and human beings.",
+   "uncertainties": [
+    "The ritual action performed with these substances is implied by the preceding verses."
+   ],
+   "plain_english": "With the blood of a ram and a buffalo, and indeed with human blood."
+  }
+ ]
+}

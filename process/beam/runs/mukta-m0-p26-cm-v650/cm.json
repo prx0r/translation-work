@@ -3,29 +3,39 @@
  "verse": 650,
  "rows": [
   {
-   "lemma": "oṃ ṭhaṃkāraṃ",
-   "morph": "mantra+acc.sg.masc",
-   "grounds": "mantra syllables kept byte-exact; ṭhaṃkāra denotes the syllable ṭhaṃ"
-  },
-  {
-   "lemma": "samuddhṛtya",
-   "morph": "gerund (sam-ud-√hṛ)",
-   "grounds": "gerund indicating prior extraction or utterance of the mantra element"
-  },
-  {
-   "lemma": "padaṃ",
-   "morph": "acc.sg.neut",
-   "grounds": "refers to the formulaic word or pada to be uttered"
-  },
-  {
-   "lemma": "lāṅgaline",
-   "morph": "dat.sg.masc",
-   "grounds": "dative recipient of obeisance, epithet Lāṅgalin"
-  },
-  {
-   "lemma": "namaḥ",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "formula of salutation addressed to the named recipient"
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "locative adverb referring to this context"
+  },
+  {
+   "lemma": "siddha+ādi+apekṣā",
+   "morph": "f.nom.sg",
+   "grounds": "compound: siddha+ādi (first-member) + apekṣā (head)"
+  },
+  {
+   "lemma": "asti",
+   "morph": "3.sg.present-active √as",
+   "grounds": "existential verb"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
+  },
+  {
+   "lemma": "mitra+ādi+dūṣaṇam",
+   "morph": "n.nom.sg",
+   "grounds": "compound: mitra+ādi (first-member) + dūṣaṇam (head)"
   }
  ]
 }

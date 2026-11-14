@@ -3,29 +3,34 @@
  "verse": 595,
  "rows": [
   {
-   "lemma": "sarvāriṣṭamayaḥ",
-   "morph": "sarva+modifier, ariṣṭa+modifier, maya+head; m.nom.sg",
-   "grounds": "compound describing afflicted state"
+   "lemma": "śmaśāne",
+   "morph": "n.loc.sg",
+   "grounds": "locative specifying the ritual site"
   },
   {
-   "lemma": "saḥ",
-   "morph": "pron.m.nom.sg",
-   "grounds": "subject affected"
+   "lemma": "yoṣitaṃ",
+   "morph": "f.acc.sg",
+   "grounds": "object brought to the ritual site"
   },
   {
-   "lemma": "api",
+   "lemma": "nītvā",
+   "morph": "(absolutive, √nī)",
+   "grounds": "absolutive indicating prior action"
+  },
+  {
+   "lemma": "suvastrāṃ",
+   "morph": "f.acc.sg (compound: su+vastra)",
+   "grounds": "compound: su (well) + vastra (garment/clothed)"
+  },
+  {
+   "lemma": "gaṇikāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "specifies the woman as a courtesan"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "adds further consequence"
-  },
-  {
-   "lemma": "sarvapāpamayaḥ",
-   "morph": "sarva+modifier, pāpa+modifier, maya+head; m.nom.sg",
-   "grounds": "compound describing moral consequence"
-  },
-  {
-   "lemma": "sadā",
-   "morph": "(indecl.)",
-   "grounds": "duration of consequence"
+   "grounds": "connective particle"
   }
  ]
 }

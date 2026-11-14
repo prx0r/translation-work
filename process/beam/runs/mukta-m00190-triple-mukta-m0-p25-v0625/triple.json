@@ -1,0 +1,73 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "mahākālam",
+     "gloss": "mahakala",
+     "grounds": "name of the deity Mahākāla; object of installation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates manner same as previously described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-install",
+     "grounds": "ritual placement or installation",
+     "morph": "3.sg.act.opt-√nyas"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "refers to the procedure being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "ritual rule or method",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "transmitted as traditionally established",
+     "morph": "m.nom.sg.ppp-√smṛ"
+    }
+   ],
+   "question": "Must Mahākāla be installed according to the same established ritual procedure as the preceding deities?",
+   "premises": [
+    "Mahākāla is to be installed likewise.",
+    "The installation is performed in the same manner.",
+    "This procedure is remembered as traditionally established."
+   ],
+   "inference": "Mahākāla should be installed following the same established ritual procedure.",
+   "uncertainties": [],
+   "plain_english": "One should likewise install Mahākāla, and this procedure is remembered as the established one."
+  }
+ ]
+}
