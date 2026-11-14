@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1518,
- "question": "What kind of seats should be placed beside the fire-pit?",
+ "question": "What sequence of actions must follow the plowing of the ground?",
  "premises": [
-  "Seats are to be placed beside the fire-pit",
-  "The seats are made of kuśa grass",
-  "They consist of thirty-six blades"
+  "Plowing is done first.",
+  "The ground is leveled.",
+  "It is turned over six measures in order."
  ],
- "inference": "Seats made of thirty-six kuśa blades should be placed beside the fire-pit",
- "uncertainties": [],
- "plain_english": "Likewise, seats made of thirty-six kuśa blades should be placed at the side of the fire-pit."
+ "inference": "After plowing, the ground must be leveled and turned over six measures in sequence.",
+ "uncertainties": [
+  "The exact sense of saṇmātrāvartitaṃ depends on measure context."
+ ],
+ "plain_english": "Thus, having plowed, leveled, and turned it over six measures in order,"
 }

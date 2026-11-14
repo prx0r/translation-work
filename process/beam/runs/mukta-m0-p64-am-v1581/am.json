@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1581,
- "question": "What transformation is promised to the adept performing this rite?",
+ "question": "How are the standard rod and rope measures defined in cubits?",
  "premises": [
-  "The adept becomes sky-goer.",
-  "The verse says indeed.",
-  "It denies doubt."
+  "A rod is defined as four cubits.",
+  "A rope is defined in relation to that rod.",
+  "The rope consists of eight such units."
  ],
- "inference": "The adept becomes a sky-goer without doubt.",
- "uncertainties": [
-  "Mechanism of transformation is unspecified."
- ],
- "plain_english": "The adept becomes a sky-goer; there is no doubt."
+ "inference": "The rod is four cubits and the rope is eight rods.",
+ "uncertainties": [],
+ "plain_english": "The rod is declared to be four cubits, and the rope is eight of those."
 }

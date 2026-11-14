@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p63",
  "verse": 1567,
- "question": "What is the name of the thirty-first chapter?",
+ "question": "Which bodily length may serve as the basis for the finger measure?",
  "premises": [
-  "The verse gives a name.",
-  "It identifies a chapter."
+  "A finger measure can be bodily defined",
+  "The middle finger is specified",
+  "Its middle joint gives the length"
  ],
- "inference": "The verse names a chapter as the thirty-first.",
- "uncertainties": [
-  "The full chapter title is compressed."
- ],
- "plain_english": "The thirty-first chapter is named."
+ "inference": "The length of the middle joint of the middle finger may serve as that measure.",
+ "uncertainties": [],
+ "plain_english": "It may be the length of the middle joint of the middle finger."
 }

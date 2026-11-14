@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1524,
- "question": "Which mantric utterances are beneficial for pacification and nourishment rites?",
+ "question": "How long should one cause the relevant parties to remain after the rite?",
  "premises": [
-  "Pacification requires a specific utterance",
-  "Nourishment requires a specific utterance",
-  "The utterances are suvauṣaṭ and vaṣaṭ respectively"
+  "A period of stay is prescribed.",
+  "Options are three, five, or seven nights.",
+  "One should cause them to dwell for that period."
  ],
- "inference": "One should use suvauṣaṭ in pacification and vaṣaṭ is beneficial in nourishment",
- "uncertainties": [],
- "plain_english": "In pacification one should use suvauṣaṭ, and in nourishment vaṣaṭ is beneficial."
+ "inference": "They should be made to remain for three, five, or seven nights.",
+ "uncertainties": [
+  "The subject to be made to dwell is implied from context."
+ ],
+ "plain_english": "One should cause them to remain for three nights, or five nights, or seven nights."
 }

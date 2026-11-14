@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1595,
- "question": "In what order should the mantra-knower read the hymn?",
+ "question": "Which pada divisions follow in sequence after the earlier ones?",
  "premises": [
-  "The verse says having read first.",
-  "It names mantra-knower.",
-  "It says then reads hymn."
+  "A division named upapitha comes next.",
+  "After that comes ugrapitha.",
+  "These follow in sequential order."
  ],
- "inference": "He first reads something, then reads the hymn.",
- "uncertainties": [
-  "Object of first reading is implicit."
- ],
- "plain_english": "Having first read, the mantra-knower then reads its hymn."
+ "inference": "The sequence continues with upapitha and then ugrapitha.",
+ "uncertainties": [],
+ "plain_english": "Then comes upapitha, and after that ugrapitha, and beyond that the next."
 }

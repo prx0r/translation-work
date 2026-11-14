@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1592,
- "question": "What is the status of a hymn written by a non-brahmin?",
+ "question": "What breadth makes the rod suitable for use in contexts pertaining to gods?",
  "premises": [
-  "The verse says by non-brahmin.",
-  "It says written.",
-  "It says becomes fruitless."
+  "The rod is intended for use for the gods.",
+  "Suitability depends on its breadth.",
+  "The specified breadth is two finger-widths."
  ],
- "inference": "A hymn written by a non-brahmin is fruitless.",
- "uncertainties": [
-  "Whether recitation differs is not stated."
- ],
- "plain_english": "A hymn written by a non-brahmin becomes fruitless."
+ "inference": "A rod with a breadth of two finger-widths is suitable for use for the gods.",
+ "uncertainties": [],
+ "plain_english": "This rod, with a breadth of two finger-widths, would be suitable for the gods."
 }

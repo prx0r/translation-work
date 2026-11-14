@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1590,
- "question": "How should the hymn be read according to this instruction?",
+ "question": "What alternative thickness is allowed for the measuring implement?",
  "premises": [
-  "The verse says with pure undivided mind.",
-  "It says should be read.",
-  "It says carefully."
+  "The implement has a specified thickness.",
+  "One option is half of a related measure.",
+  "Another option is thickness equal to its breadth."
  ],
- "inference": "It should be read carefully with pure undivided mind.",
+ "inference": "The implement's thickness may be half that measure or equal to its breadth.",
  "uncertainties": [
-  "No ritual timing is given."
+  "The referent of tad+tad in the compound is contextually inferred."
  ],
- "plain_english": "It should be read carefully with a pure, undivided mind."
+ "plain_english": "It should have a thickness of half that measure, or alternatively be equal to its breadth."
 }

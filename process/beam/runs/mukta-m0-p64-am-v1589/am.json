@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1589,
- "question": "Which mode of reciting a hymn is praised over the mental mode?",
+ "question": "What proportions of length and breadth are prescribed for the measuring implement?",
  "premises": [
-  "The verse denies mental hymn.",
-  "It names oral hymn.",
-  "It says is praised."
+  "The implement should be oblong and long.",
+  "Its breadth is specified proportionally.",
+  "The breadth should be half a measure."
  ],
- "inference": "Oral recitation is praised over mental recitation.",
- "uncertainties": [
-  "Context of praise is not specified."
- ],
- "plain_english": "A mental hymn does not become; the oral one is praised."
+ "inference": "The implement should be oblong and long, with a breadth of half a measure.",
+ "uncertainties": [],
+ "plain_english": "It should be oblong and long, with a breadth of half a measure."
 }
