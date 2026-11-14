@@ -48,10 +48,30 @@ def stored_gate(path: Path) -> str | None:
     return d.get("deterministic_gate") or d.get("gate")
 
 
-def recompute(work: str, song: str) -> tuple[str, list, float]:
-    r = subprocess.run([sys.executable, "tools/proof_record.py", "--song", song,
-                        "--work", work, "--shastra", "--no-write", "--disp", DISP],
-                       cwd=str(ROOT), capture_output=True, text=True, timeout=300)
+def stored_mode(path: Path) -> str:
+    """Each work was proved in ONE mode: 'shastra' (data JSON) or 'classic'
+    (T1-*.md / L2-*.md / c1/ MD files). Recompute in the SAME mode, or the
+    comparison is meaningless. Authoritative signal is the proof's own
+    lineage: a data-path t1 ⇒ shastra, an MD t1 ⇒ classic. The `mode` field
+    is a fallback (older proofs predate it)."""
+    try:
+        d = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return "shastra"
+    lin = (d.get("lineage") or {}).get("t1", "") or ""
+    if "/data/" in lin:
+        return "shastra"
+    if lin.startswith("T1-") or lin.endswith(".md"):
+        return "classic"
+    return "shastra" if (d.get("mode") == "shastra") else "classic"
+
+
+def recompute(work: str, song: str, mode: str) -> tuple[str, list, float]:
+    cmd = [sys.executable, "tools/proof_record.py", "--song", song,
+           "--work", work, "--no-write", "--disp", DISP]
+    if mode == "shastra":
+        cmd += ["--shastra"]
+    r = subprocess.run(cmd, cwd=str(ROOT), capture_output=True, text=True, timeout=300)
     raw = r.stdout
     i = raw.find("{")
     try:
@@ -93,8 +113,10 @@ def main() -> int:
         songs = sorted(p.name[:-len(".t1.json")]
                        for p in (ROOT / w / "data").glob("*.t1.json"))
         for s in songs:
-            sg = stored_gate(ROOT / w / "proof" / f"proof-{s}.json")
-            fg, blocking, mr = recompute(w, s)
+            pp = ROOT / w / "proof" / f"proof-{s}.json"
+            sg = stored_gate(pp)
+            mode = stored_mode(pp)
+            fg, blocking, mr = recompute(w, s, mode)
             errs = validate(w, s)
             if sg is None:
                 kind = "NO-PROOF"
