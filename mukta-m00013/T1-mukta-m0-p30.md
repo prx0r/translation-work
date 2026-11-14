@@ -2,67 +2,67 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[that](tat) [tenth-part](daśāṃśaṃ) [with-lotuses](sarasijaiḥ) [one-should-offer](juhuyāt) [with-sweet](madhura) [soaked](āplutaiḥ)
+[of-that+tenth-part](taddaśāṃśaṃ) [with-lotuses](sarasijair) [one-should-offer](juhuyān) [with-sweet+soaked](madhurāplutaiḥ)
 
 ## mukta-m0-p30-v727
-[six](ṣaḍ) [syllabled](akṣaraḥ) [this](ayam) [declared](ādiṣṭaḥ) [of-worshippers](bhajatāṃ) [desire](kāma) [giving](daḥ) [jewel](maṇiḥ)
+[six-syllabled](ṣaḍakṣaro) [this](ayam) [prescribed](ādiṣṭo) [of-worshippers](bhajatāṃ) [desire+granting](kāmado) [jewel](maṇiḥ)
 
 ## mukta-m0-p30-v728
-[śrīrāmāya](śrīrāmāya) [to-the-deity](devatāyai) [namaḥ](namaḥ)
+[to-śrī-rāma](śrīrāmāya) [to-the-deity](devatāyai) [obeisance](namaḥ)
 
 ## mukta-m0-p30-v729
-[thus](evam) [in-heart](hṛdaya) [etc.](ādiṣu) [rāṃ](rāṃ) [to-the-heart](hṛdayāya) [namaḥ](namaḥ) [thus](iti) [etc.](ādi)
+[thus](evaṃ) [in-heart+etc](hṛdayādiṣu) [rāṃ](rāṃ) [to-the-heart](hṛdayāya) [obeisance](namaḥ) [thus+etc](ityādi)
 
 ## mukta-m0-p30-v730
-[thus](evam) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [conch](śaṅkha) [placing](sthāpanaṃ) [one-should-do](kuryāt)
+[thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [conch+installation](śaṅkhasthāpanaṃ) [one-should-do](kuryāt)
 
 ## mukta-m0-p30-v731
-[namaḥ](namaḥ) [beginning-with](iti) [ādinā](ādinā) [six](ṣaḍ) [limbs](aṅgāni) [one-should-worship](pūjayet)
+[obeisance](namaḥ) [thus+beginning-with](ityādinā) [six+limbs](ṣaḍaṅgāni) [one-should-worship](pūjayet)
 
 ## mukta-m0-p30-v732
-[then](tataḥ) [incense](dhūpa) [etc.](ādi) [ending-with-dismissal](visarjana) [until](antaṃ) [rite](karma) [one-should-complete](samāpayet)
+[then](tato) [incense+etc+dismissal+ending](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p30-v733
-[one-should-offer](juhuyāt) [in-worshipped](arcite) [fire](vahnau) [brahmins](brāhmaṇān) [one-should-feed](bhojayet) [then](tataḥ)
+[one-should-offer](juhuyād) [in-worshipped](arcite) [in-fire](vahnau) [brahmins](brāhmaṇān) [one-should-feed](bhojayet) [then](tataḥ)
 
 ## mukta-m0-p30-v734
-[six](ṣaḍ) [syllabled](akṣaraḥ) [six](ṣaḍ) [fold](vidhaḥ) [may-be](syāt) [four](catur) [aims](varga) [fruit](phala) [giving](pradaḥ)
+[six-syllabled](ṣaḍakṣaraḥ) [sixfold](ṣaḍvidhaḥ) [may-be](syāt) [four+aims+fruit+giving](caturvargaphalapradaḥ)
 
 ## mukta-m0-p30-v735
-[agastya](agastyaḥ) [śrī](śrī) [śiva](śivaḥ) [declared](proktaḥ) [sages](munayaḥ) [here](atra) [in-order](kramāt) [these](ime)
+[Agastya](agastyaḥ) [Śrī+Śiva](śrīśivaḥ) [declared](prokto) [sages](munayo) [here](atra) [in-order](kramād) [these](ime)
 
 ## mukta-m0-p30-v736
-[meditation](dhyāna) [worship](pūjā) [etc.](ādikaṃ) [all](sarvaṃ) [as-before](pūrva) [like](vat) [ca](ca) [one-should-perform](samācaret)
+[meditation+worship+etc](dhyānapūjādikaṃ) [all](sarvaṃ) [as-before](pūrvavat) [indeed](ca) [one-should-perform](samācaret)
 
 ## mukta-m0-p30-v737
-[ten](daśa) [syllabled](akṣaraḥ) [this](ayam) [mantra](mantraḥ) [may-be](syāt) [vasiṣṭha](vasiṭaḥ) [may-be](syāt) [sage](ṛṣiḥ) [virāṭ](virāṭa)
+[ten-syllabled](daśākṣaro) [this](ayaṃ) [mantra](mantraḥ) [may-be](syād) [Vasiṣṭha](vasiṭaḥ) [may-be](syād) [sage](ṛṣir) [Virāṭ](virāṭa)
 
 ## mukta-m0-p30-v738
-[first](ādyaṃ) [seed](bījaṃ) [in-two-ways](dviṭhaḥ) [power](śaktiḥ) [with-kāma](kāmena) [limb](aṅga) [action](kriyā) [considered](matā)
+[first](ādyaṃ) [seed](bījaṃ) [twofold](dviṭhaḥ) [power](śaktiḥ) [with-Kāma](kāmena) [limb+action](aṅgakriyā) [considered](matā)
 
 ## mukta-m0-p30-v739
-[in-navel](nābhi) [thigh](ūru) [knee](jānu) [feet](pādeṣu) [ten](daśa) [syllabled](arṇān) [one-should-place](vinyaset) [of-mantra](manoḥ)
+[in-navel+thigh+knee+feet](nābhyūrujānupādeṣu) [ten+syllables](daśārṇān) [one-should-place](vinyasen) [of-mantra](manoḥ)
 
 ## mukta-m0-p30-v740
-[other](anyat) [all](sarvaṃ) [as-before](pūrva) [like](vat)
+[other](anyat) [all](sarvaṃ) [as-before](pūrvavat)
 
 ## mukta-m0-p30-v741
-[two](dvi) [syllabled](akṣaraḥ) [mantra](mantra) [king](rājaḥ) [this](ayam) [all](sarva) [desired](abhīṣṭa) [fruit](phala) [giving](pradaḥ)
+[two-syllabled](dvyakṣaro) [mantra+king](mantrarājo) [this](ayaṃ) [all+desired+fruit+giving](sarvābhīṣṭaphalapradaḥ)
 
 ## mukta-m0-p30-v742
-[three](tri) [syllabled](akṣaraḥ) [mantra](mantra) [king](rājaḥ) [may-be](syāt) [all](sarva) [desired](abhīṣṭa) [fruit](phala) [giving](pradaḥ)
+[three-syllabled](tryakṣaro) [mantra+king](mantrarājaḥ) [may-be](syāt) [all+desired+fruit+giving](sarvābhīṣṭaphalapradaḥ)
 
 ## mukta-m0-p30-v743
-[brahmā](brahmā) [sage](ṛṣiḥ) [may-be](syāt) [gāyatrī](gāyatrī) [metre](chandaḥ) [rāma](rāmaḥ) [and](ca) [deity](devatā)
+[Brahmā](brahmā) [sage](ṛṣiḥ) [may-be](syāt) [Gāyatrī](gāyatrī) [metre](chando) [Rāma](rāmaś) [and](ca) [deity](devatā)
 
 ## mukta-m0-p30-v744
-[of-these](eteṣāṃ) [meditation](dhyāna) [worship](pūjā) [etc.](ādikaṃ) [previously-stated](prāk) [stated](ukta) [six](ṣaḍ) [syllabled](akṣara) [like](vat)
+[of-these](eteṣāṃ) [meditation+worship+etc](dhyānapūjādikaṃ) [as-previously-stated+six-syllabled](prāguktaṣaḍakṣaravat)
 
 ## mukta-m0-p30-v745
-[zodiac-sign](rāśi) [lunar-mansion](nakṣatra) [consideration](vicāre) [again](punar) [seed](bīja) [without](rahitena) [consideration](vicāraḥ)
+[in-zodiac-sign+constellation+consideration](rāśinakṣatravicāre) [again](punar) [with-seed+devoid](bījarahitena) [consideration](vicāraḥ)
 
 ## mukta-m0-p30-v746
-[lost](lupta) [seed](bīja) [nature](svabhāvatvāt) [ten](daśa) [syllabled](akṣara) [here](iha) [is-stated](ucyate) [thus](iti) [from-gautamīya](gautamīyāt)
+[because-of-lost-seed+nature](luptabījasvabhātvād) [ten-syllabled](daśākṣara) [here](iha) [is-stated](ucyate) [thus](iti) [from-Gautamīya](gautamīyāt)
 
 ## mukta-m0-p30-v747
 [not](na) [otherwise](anyathā) [for-accomplishment](siddhaye) [may-be](bhavet)
@@ -71,7 +71,7 @@
 [or](yadvā) [with-root](mūlena) [indeed](eva) [with-mantra](mantreṇa) [everywhere](sarvatra) [breath-control](prāṇāyāmaḥ)
 
 ## mukta-m0-p30-v749
-[of-that](tat) [that](tat) [mantra](mantra) [syllable](varṇa) [number](saṃkhyākai) [exhalation](recaka) [etc.](ādi) [three](trayaṃ) [one-should-do](kuryāt)
+[of-that+that+mantra+syllable+numbered](tattanmantravarṇasaṃkhyākai) [exhalation+etc+three](recakāditrayaṃ) [one-should-do](kuryāt)
 
 ## mukta-m0-p30-v750
-[mantra](mantra) [presiding](adhiṣṭhātṛ) [to-the-deity](devatāyai) [durgāyai](durgāyai) [namaḥ](namaḥ) [thus](iti) [durgā](durgā) [one-should-bow](namaskuryāt)
+[to-mantra+presiding+deity](mantrādhiṣṭhātṛdevatāyai) [to-Durgā](durgāyai) [obeisance](namaḥ) [thus](iti) [to-Durgā](durgā) [one-should-bow](namaskuryāt)
