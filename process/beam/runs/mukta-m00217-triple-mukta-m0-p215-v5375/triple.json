@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p215",
+ "items": [
+  {
+   "verse": 5375,
+   "rows": [
+    {
+     "surface": "jñeyo",
+     "gloss": "to-be-known",
+     "grounds": "gerundive of jñā; predicate adjective",
+     "morph": "gerundive.m.nom.sg"
+    },
+    {
+     "surface": "viśvāśrayo",
+     "gloss": "support-of-all",
+     "grounds": "bahuvrīhi/tatpuruṣa compound describing Viṣṇu",
+     "morph": "compound(viśva+āśraya).m.nom.sg"
+    },
+    {
+     "surface": "viṣṇur",
+     "gloss": "Viṣṇu",
+     "grounds": "subject; final visarga from viṣṇuḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "predicate noun in apposition or identification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñeyaśca",
+     "gloss": "to-be-known-and",
+     "grounds": "gerundive jñeyaḥ fused with enclitic ca; sandhi noted, token not split",
+     "morph": "gerundive.m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "viṣṇuvat",
+     "gloss": "like-Viṣṇu",
+     "grounds": "comparative adverbial formation with suffix -vat",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What identity and manner of knowing apply to Viṣṇu as the all-supporting self?",
+   "premises": [
+    "Viṣṇu is to be known.",
+    "Viṣṇu is the support of all.",
+    "Viṣṇu is the self.",
+    "Viṣṇu is to be known in a manner like Viṣṇu."
+   ],
+   "inference": "Therefore Viṣṇu must be understood both as the all-supporting self and in a manner consistent with his own nature.",
+   "uncertainties": [
+    "The exact force of viṣṇuvat is ambiguous between 'like Viṣṇu' and 'as Viṣṇu himself'."
+   ],
+   "plain_english": "Viṣṇu should be known as the all-supporting self, and he should be known in a manner like Viṣṇu."
+  }
+ ]
+}

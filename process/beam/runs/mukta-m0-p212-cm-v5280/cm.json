@@ -3,29 +3,44 @@
  "verse": 5280,
  "rows": [
   {
-   "lemma": "tu",
+   "lemma": "sa",
+   "morph": "m.nom.sg",
+   "grounds": "subject, the practitioner or target"
+  },
+  {
+   "lemma": "bhaved",
+   "morph": "3.sg.act-opt √bhū",
+   "grounds": "resulting state"
+  },
+  {
+   "lemma": "dāsavad",
+   "morph": "(indecl.) compound: dāsa+vat+member",
+   "grounds": "manner of subservience"
+  },
+  {
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "dhanāḍhyaḥ",
+   "morph": "m.nom.sg compound: dhana+āḍhya+member",
+   "grounds": "possible status of the subject"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "alternative"
   },
   {
-   "lemma": "kāryaṃ",
-   "morph": "n.nom.sg.fut-pass-part √kṛ",
-   "grounds": "prescribed action"
-  },
-  {
-   "lemma": "na",
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "emphatic inclusion"
   },
   {
-   "lemma": "anyatra",
-   "morph": "(indecl.)",
-   "grounds": "in other contexts"
-  },
-  {
-   "lemma": "vāsare",
-   "morph": "m.loc.sg",
-   "grounds": "locative indicating time"
+   "lemma": "bhūpatiḥ",
+   "morph": "m.nom.sg compound: bhū+pati+member",
+   "grounds": "alternative high status"
   }
  ]
 }

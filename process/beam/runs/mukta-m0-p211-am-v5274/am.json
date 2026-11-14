@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p211",
  "verse": 5274,
- "question": "What meditative act on Divākara should follow the placement performed as before?",
+ "question": "What excellent and delightful image is to be contemplated in the middle of that context?",
  "premises": [
-  "Placement is done as before",
-  "Meditation is prescribed",
-  "Divākara is the object of meditation"
+  "A location in the middle is specified.",
+  "An image is present there.",
+  "That image is exceedingly beautiful, delightful, and excellent."
  ],
- "inference": "After placing as before, one should meditate on Divākara.",
- "uncertainties": [],
- "plain_english": "Having placed as before, one should meditate on Divākara."
+ "inference": "In its middle one should contemplate an exceedingly beautiful, delightful, and excellent image.",
+ "uncertainties": [
+  "The referent of tanmadhye depends on the preceding ritual context."
+ ],
+ "plain_english": "In its middle is an exceedingly beautiful, delightful, and excellent image."
 }

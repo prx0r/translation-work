@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p212",
+ "items": [
+  {
+   "verse": 5300,
+   "rows": [
+    {
+     "surface": "aenaiva",
+     "gloss": "by-this-very",
+     "grounds": "instrumental demonstrative with emphatic particle; sandhi fusion in the given form",
+     "morph": "pron.ins.sg.nt + (indecl.)"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-procedure",
+     "grounds": "instrumental of vidhāna, referring to the prescribed method",
+     "morph": "n.ins.sg.nt"
+    },
+    {
+     "surface": "rocanāgurukuṅkumaiḥ",
+     "gloss": "with-rochana-aguru-and-saffron",
+     "grounds": "instrumental plural of a compound listing ritual substances used for inscription",
+     "morph": "compound: rocanā+aguru+kuṅkuma; n.ins.pl.nt"
+    }
+   ],
+   "question": "What procedure and substances are required for inscribing the prepared diagram?",
+   "premises": [
+    "The preceding verses specify the materials and form of the inscribed diagram.",
+    "This verse prescribes following that same procedure.",
+    "The inscription is to be made using rocanā, aguru, and kuṅkuma."
+   ],
+   "inference": "The diagram described earlier is to be inscribed by this very procedure with rocanā, aguru, and kuṅkuma.",
+   "uncertainties": [
+    "The exact referent of the procedure depends on the fuller ritual sequence in the surrounding verses."
+   ],
+   "plain_english": "By this very procedure, it should be inscribed with rocanā, aguru, and saffron."
+  }
+ ]
+}

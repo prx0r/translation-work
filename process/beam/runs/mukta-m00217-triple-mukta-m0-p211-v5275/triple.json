@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p211",
+ "items": [
+  {
+   "verse": 5275,
+   "rows": [
+    {
+     "surface": "adṛṣṭapūrvā",
+     "gloss": "unseen-before",
+     "grounds": "compound adjective describing something never previously seen",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śrutamātrāpi",
+     "gloss": "heard-only-even",
+     "grounds": "compound with indeclinable particle api indicating mere hearing",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "durlabhā",
+     "gloss": "rare",
+     "grounds": "predicate adjective expressing difficulty of attainment",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the supreme image described as unseen before and difficult to attain?",
+   "premises": [
+    "The supreme image has never been seen before.",
+    "The supreme image is known only through hearing.",
+    "What is merely heard and never seen is rare."
+   ],
+   "inference": "Therefore the supreme image is exceedingly rare and difficult to attain.",
+   "uncertainties": [
+    "The exact referent of the image depends on the preceding verses."
+   ],
+   "plain_english": "O Goddess-lord, that supreme image is unseen before, known only by hearing, and rare."
+  }
+ ]
+}

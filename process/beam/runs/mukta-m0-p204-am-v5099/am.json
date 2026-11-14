@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p204",
  "verse": 5099,
- "question": "What concluding social and ritual actions follow the dismissal of the artisan?",
+ "question": "What alternative materials may be used for the piercing needles?",
  "premises": [
-  "The artisan’s role concludes.",
-  "The artisan is dismissed.",
-  "Priests are to be fed afterward."
+  "Piercing instruments are required",
+  "They may be made from jujube and similar sources",
+  "Strong iron needles are an alternative"
  ],
- "inference": "After dismissing the artisan, one should then feed the priests.",
- "uncertainties": [],
- "plain_english": "Then, having dismissed the artisan, one should feed the priests."
+ "inference": "One may use needles made from jujube and the like, or likewise strong iron needles.",
+ "uncertainties": [
+  "The full range of 'badarādi' materials is not specified."
+ ],
+ "plain_english": "Or likewise with needles made from jujube and the like, or with strong iron needles."
 }

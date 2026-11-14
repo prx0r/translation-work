@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p204",
  "verse": 5088,
- "question": "What level is prescribed for the boon-giving hand when measured from the back?",
+ "question": "How are the zodiac signs Cancer, Leo, and Virgo positioned in this scheme?",
  "premises": [
-  "The case of a boon-giving hand is considered.",
-  "Measurement is taken from the back.",
-  "The desired level corresponds to the inner navel."
+  "Cancer and Leo are named in sequence",
+  "Virgo is located in the southwest relative to them",
+  "The verse describes spatial placement"
  ],
- "inference": "If the hand is boon-giving, its position from the back is desired to be level with the inner navel.",
- "uncertainties": [],
- "plain_english": "If it is the boon-giving hand, then from the back it is desired to be level with the inner navel."
+ "inference": "After Cancer and Leo, Virgo is situated in the southwest.",
+ "uncertainties": [
+  "The exact reference point for 'southwest' is not fully explicit."
+ ],
+ "plain_english": "After Cancer and Leo, Virgo is situated in the southwest."
 }

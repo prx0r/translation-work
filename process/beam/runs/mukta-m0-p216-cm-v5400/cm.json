@@ -3,14 +3,29 @@
  "verse": 5400,
  "rows": [
   {
-   "lemma": "śaciṣṭhayā",
-   "morph": "f.inst.sg",
-   "grounds": "instrumental agent/associate of vṛtā; name/epithet as given in context"
+   "lemma": "vismitā",
+   "morph": "adj.nom.pl.m",
+   "grounds": "past participle adjective describing paśavaḥ"
   },
   {
-   "lemma": "vṛtā",
-   "morph": "f.nom.sg (ppp, √vṛ)",
-   "grounds": "past passive participle qualifying the deity named in the preceding verse"
+   "lemma": "vilayaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of motion expressed by yānti"
+  },
+  {
+   "lemma": "yānti",
+   "morph": "3.pl.pres.act √yā",
+   "grounds": "finite verb with subject paśavaḥ"
+  },
+  {
+   "lemma": "paśavaḥ",
+   "morph": "m.nom.pl",
+   "grounds": "subject of yānti"
+  },
+  {
+   "lemma": "śāstramohitāḥ",
+   "morph": "adj.nom.pl.m, compound",
+   "grounds": "compound adjective describing paśavaḥ; śāstra+mohita"
   }
  ]
 }

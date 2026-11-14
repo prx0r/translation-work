@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p204",
  "verse": 5078,
- "question": "What adornments and hand gestures characterize the described divine form?",
+ "question": "By what procedure and in what span are those offerings effective?",
  "premises": [
-  "The form is fully adorned.",
-  "Specific hand gestures identify the form.",
-  "Boon and fearlessness gestures are present."
+  "The offerings follow a specified procedure",
+  "The offerings are performed over certain days",
+  "The desired result corresponds to the rite"
  ],
- "inference": "The described form is adorned with all ornaments and displays boon-giving and fearlessness hands.",
- "uncertainties": [],
- "plain_english": "He is endowed with all ornaments and has hands showing the gestures of boon-giving and fearlessness."
+ "inference": "By those offerings, performed according to that procedure, one obtains that result in those days.",
+ "uncertainties": [
+  "The number of days is not explicitly stated."
+ ],
+ "plain_english": "By those offerings, performed according to that procedure, one obtains that result within those days."
 }

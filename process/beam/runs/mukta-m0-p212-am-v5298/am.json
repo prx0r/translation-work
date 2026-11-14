@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p212",
  "verse": 5298,
- "question": "Which deity is prescribed for the satisfaction of Mars?",
+ "question": "On which materials may the ritual diagram or inscription be prepared?",
  "premises": [
-  "A prescription is stated.",
-  "The god Agni is named.",
-  "The purpose is the satisfaction of Mars."
+  "Birch leaf is a possible surface.",
+  "Gold or silver leaf may be used.",
+  "Copper may also be used."
  ],
- "inference": "The god Agni is prescribed for the satisfaction of Mars.",
- "uncertainties": [],
- "plain_english": "The god Agni is prescribed for the satisfaction of Mars."
+ "inference": "The inscription may be prepared on birch, gold, silver, or copper surfaces.",
+ "uncertainties": [
+  "'tāmraje' likely refers to a copper plate or copper-born material."
+ ],
+ "plain_english": "On birch leaf, on gold leaf, on silver leaf, or on copper."
 }
