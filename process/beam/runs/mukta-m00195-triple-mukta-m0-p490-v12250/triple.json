@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p490",
+ "items": [
+  {
+   "verse": 12250,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsaṃ",
+     "gloss": "six-months",
+     "grounds": "duration of practice; compound of six and month",
+     "morph": "compound"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "regularly",
+     "grounds": "steadfast or disciplined manner of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of devotion",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāgbuddhis",
+     "gloss": "speech-intelligence",
+     "grounds": "faculty that arises; compound of speech and intelligence",
+     "morph": "compound, f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "practitioner who gains the result",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "resulting emergence of the faculty",
+     "morph": "3.sg.pres.middle √jan"
+    }
+   ],
+   "question": "What faculty arises from six months of regular devotion to the goddess?",
+   "premises": [
+    "A practitioner engages in regular devotion for six months.",
+    "The devotion is directed toward the goddess.",
+    "Speech and intelligence arise in that practitioner."
+   ],
+   "inference": "Sustained regular devotion to the goddess produces speech and intelligence in the practitioner.",
+   "uncertainties": [
+    "The specific devotional act is implied from the preceding verses rather than stated explicitly."
+   ],
+   "plain_english": "If one regularly worships the goddess for six months, speech and intelligence arise in him."
+  }
+ ]
+}
