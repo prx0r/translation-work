@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p11",
  "verse": 263,
- "question": "Which mantra syllables occupy the positions in this grid?",
+ "question": "How should the quantities of camphor, saffron, and similar substances be determined?",
  "premises": [
-  "The verse lists syllables.",
-  "The positions are ordered.",
-  "The grid is being filled."
+  "Camphor, saffron, and similar substances are specified",
+  "The measure is described as desired",
+  "Giving is prescribed"
  ],
- "inference": "The listed syllables fix the grid positions.",
- "uncertainties": [
-  "Exact sandhi and meaning remain unclear."
- ],
- "plain_english": "This verse lists mantra syllables for the grid."
+ "inference": "Camphor, saffron, and similar substances should be given in the desired measure.",
+ "uncertainties": [],
+ "plain_english": "Camphor, saffron, and similar substances should be given in whatever measure is desired."
 }

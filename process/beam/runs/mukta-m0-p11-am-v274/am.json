@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p11",
  "verse": 274,
- "question": "Which mantra syllables occupy the positions in this grid?",
+ "question": "Which gemstones are enumerated as part of the prescribed ritual materials?",
  "premises": [
-  "The verse lists syllables.",
-  "The positions are ordered.",
-  "The grid is being filled."
+  "Topaz is listed",
+  "Coral is listed",
+  "Crystal is listed",
+  "Emerald is listed likewise"
  ],
- "inference": "The listed syllables fix the grid positions.",
- "uncertainties": [
-  "Exact sandhi and meaning remain unclear."
- ],
- "plain_english": "This verse lists mantra syllables for the grid."
+ "inference": "The prescribed gemstones include topaz, coral, crystal, and emerald.",
+ "uncertainties": [],
+ "plain_english": "Topaz, coral, crystal, and likewise emerald are included."
 }

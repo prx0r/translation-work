@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 257,
- "question": "Which mantra syllables occupy the positions in this grid?",
+ "question": "Which additional fruits and named substances are included in the ritual list?",
  "premises": [
-  "The verse lists syllables.",
-  "The positions are ordered.",
-  "The grid is being filled."
+  "Takkola and a fruit are included",
+  "Costus and kakkola are included",
+  "An iron-named substance is included"
  ],
- "inference": "The listed syllables fix the grid positions.",
+ "inference": "The list includes takkola, a fruit, costus, kakkola, and an iron-named substance.",
  "uncertainties": [
-  "Exact sandhi and meaning remain unclear."
+  "The specific fruit and the iron-named substance are not identified here"
  ],
- "plain_english": "This verse lists mantra syllables for the grid."
+ "plain_english": "Takkola, a fruit, costus, kakkola, and an iron-named substance are included."
 }

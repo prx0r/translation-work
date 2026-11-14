@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p11",
  "verse": 260,
- "question": "Which mantra syllables occupy the positions in this grid?",
+ "question": "Which sacred plants are to be arranged in a prescribed sequence?",
  "premises": [
-  "The verse lists syllables.",
-  "The positions are ordered.",
-  "The grid is being filled."
+  "Lakṣmī, sahadevī, and viṣṇukrānti are listed",
+  "Sequential arrangement is indicated"
  ],
- "inference": "The listed syllables fix the grid positions.",
+ "inference": "Lakṣmī, sahadevī, and viṣṇukrānti are to be arranged in order.",
  "uncertainties": [
-  "Exact sandhi and meaning remain unclear."
+  "These names may refer to specific ritual plants whose identification can vary"
  ],
- "plain_english": "This verse lists mantra syllables for the grid."
+ "plain_english": "Lakṣmī, sahadevī, and viṣṇukrānti are to be placed in order."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p11",
  "verse": 259,
- "question": "Which mantra syllables occupy the positions in this grid?",
+ "question": "Which fruits are enumerated for inclusion in the ritual arrangement?",
  "premises": [
-  "The verse lists syllables.",
-  "The positions are ordered.",
-  "The grid is being filled."
+  "Myrobalan is listed",
+  "Coconut is listed",
+  "Likuca fruit and citron are listed"
  ],
- "inference": "The listed syllables fix the grid positions.",
- "uncertainties": [
-  "Exact sandhi and meaning remain unclear."
- ],
- "plain_english": "This verse lists mantra syllables for the grid."
+ "inference": "The enumerated fruits are myrobalan, coconut, likuca fruit, and citron.",
+ "uncertainties": [],
+ "plain_english": "Myrobalan, coconut, likuca fruit, and citron are included."
 }

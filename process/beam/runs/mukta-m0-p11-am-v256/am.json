@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p11",
  "verse": 256,
- "question": "Which mantra syllables occupy the positions in this grid?",
+ "question": "Which further substances, including one named after a cloud, are prescribed?",
  "premises": [
-  "The verse lists syllables.",
-  "The positions are ordered.",
-  "The grid is being filled."
+  "Sesame is included",
+  "A sacred fig leaf is included",
+  "Sandal is included",
+  "A substance named after cloud is included"
  ],
- "inference": "The listed syllables fix the grid positions.",
+ "inference": "The prescribed substances include sesame, a sacred fig leaf, sandal, and a cloud-named substance.",
  "uncertainties": [
-  "Exact sandhi and meaning remain unclear."
+  "The identity of the cloud-named substance is uncertain"
  ],
- "plain_english": "This verse lists mantra syllables for the grid."
+ "plain_english": "Sesame, a sacred fig leaf, sandal, and a substance called cloud-named are included."
 }
