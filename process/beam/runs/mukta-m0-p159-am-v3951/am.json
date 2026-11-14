@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p159",
  "verse": 3951,
- "question": "Which deities preside over the installation of the mantra?",
+ "question": "What designation applies to a small structure whose height is twice its width?",
  "premises": [
-  "Mantras have presiding deities",
-  "Installation requires divine presence"
+  "The structure has height twice its width",
+  "The structure is described as small",
+  "Such a structure is designated a palace"
  ],
- "inference": "The deities presiding over mantra installation are identified",
- "uncertainties": [],
- "plain_english": "The deities presiding over the mantra installation."
+ "inference": "A small structure twice as tall as wide is called a harmya.",
+ "uncertainties": [
+  "Exact nuance of alpya in this ritual context"
+ ],
+ "plain_english": "A small structure whose height is twice its width is called a harmya (palace)."
 }

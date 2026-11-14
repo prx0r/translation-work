@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p159",
  "verse": 3955,
- "question": "Who alone will become the speaker's husband in the future?",
+ "question": "How is the measure of the principal seat determined relative to the image?",
  "premises": [
-  "A future husband is declared",
-  "Exclusivity is emphasized"
+  "The measure is half the height of the image",
+  "The seat is determined by that measure",
+  "The seat is described as large"
  ],
- "inference": "He alone will be the speaker's husband",
- "uncertainties": [],
- "plain_english": "He alone will be my husband."
+ "inference": "The principal seat should be made to half the height of the image.",
+ "uncertainties": [
+  "Whether guruḥ qualifies size or importance"
+ ],
+ "plain_english": "The principal seat should be made to the measure of half the image's height."
 }

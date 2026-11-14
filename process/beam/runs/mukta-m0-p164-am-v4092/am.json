@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p164",
  "verse": 4092,
- "question": "Which mantra recitation is prescribed in that context?",
+ "question": "How should a replacement be created and joined again with the goddess?",
  "premises": [
-  "A specific context is indicated",
-  "Recitation is desired",
-  "The Gāyatrī is specified"
+  "The same prior elements are to be used again.",
+  "It must be joined with the goddess.",
+  "Another should be created again."
  ],
- "inference": "There recitation with the Gāyatrī is desired",
- "uncertainties": [],
- "plain_english": "There, recitation with the Gāyatrī is prescribed."
+ "inference": "Using those same elements, one should create another again and join it with the goddess.",
+ "uncertainties": [
+  "The referent of 'those' and the object to be created are not explicit."
+ ],
+ "plain_english": "With those same elements, joined again with the goddess, one should create another anew."
 }

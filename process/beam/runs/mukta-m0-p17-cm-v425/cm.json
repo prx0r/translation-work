@@ -3,34 +3,24 @@
  "verse": 425,
  "rows": [
   {
-   "lemma": "tato",
+   "lemma": "ekāṃśaṃ",
+   "morph": "compound.acc.sg.nt",
+   "grounds": "compound indicating a single unit or part; taken as the increment of measure"
+  },
+  {
+   "lemma": "vedikāmānaṃ",
+   "morph": "compound.n.acc.sg.nt",
+   "grounds": "compound of vedikā (altar/platform) and māna (measure); object of the stated gradation"
+  },
+  {
+   "lemma": "kramāt",
    "morph": "(indecl.)",
-   "grounds": "indeclinable temporal adverb indicating sequence after the action described in the previous verse"
+   "grounds": "ablative used adverbially to indicate sequential progression"
   },
   {
-   "lemma": "agneḥ",
-   "morph": "m.gen.sg",
-   "grounds": "genitive dependent qualifying arghyaṃ as the oblation belonging to or associated with fire"
-  },
-  {
-   "lemma": "arghyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "ritual offering; direct object of samādāya"
-  },
-  {
-   "lemma": "samādāya",
-   "morph": "gerund(sam-ā-dā)",
-   "grounds": "absolutive expressing prior action completed before the next implied step"
-  },
-  {
-   "lemma": "vahni+rūpāṃ",
-   "morph": "compound(vahni+rūpā).f.acc.sg",
-   "grounds": "bahuvrīhi or descriptive compound qualifying arghyaṃ/vyavasthitām; internal sandhi marked by +"
-  },
-  {
-   "lemma": "vyavasthitām",
-   "morph": "f.acc.sg.past-participle(vi-ava-sthā)",
-   "grounds": "past participle qualifying the oblation as set or arranged in that form"
+   "lemma": "śreṣṭhāntarādhamam",
+   "morph": "compound.adj.acc.sg.nt",
+   "grounds": "compound listing the three grades in descending order, qualifying the measure"
   }
  ]
 }

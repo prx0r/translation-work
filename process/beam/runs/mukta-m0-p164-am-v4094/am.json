@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p164",
  "verse": 4094,
- "question": "What status of the Gāyatrī among mantras is about to be declared?",
+ "question": "What ritual act is prohibited in the worship of existing deities?",
  "premises": [
-  "A teaching is about to be given",
-  "The subject is among mantras",
-  "Gāyatrī is called mother of the Vedas"
+  "A marriage rite is mentioned.",
+  "It is stated as not to be done.",
+  "The context is worship of existing deities."
  ],
- "inference": "The speaker will tell of the Gāyatrī as the mother of the Vedas among mantras",
- "uncertainties": [],
- "plain_english": "I shall tell of the Gāyatrī, the mother of the Vedas, among mantras."
+ "inference": "No marriage rite should be performed in the worship of existing deities.",
+ "uncertainties": [
+  "The exact sense of 'marriage rite' in this ritual context is unclear."
+ ],
+ "plain_english": "No marriage rite should be performed in the worship of existing deities."
 }

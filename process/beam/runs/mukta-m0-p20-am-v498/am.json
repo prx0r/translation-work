@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p20",
  "verse": 498,
- "question": "What result occurs when calamity arises despite a properly constructed pit?",
+ "question": "What starting measure and increment govern the prescribed dimension?",
  "premises": [
-  "The pit is constructed as prescribed",
-  "A calamity may still arise",
-  "A specific result is indicated in that case"
+  "The measure begins at six aṅgulas.",
+  "It increases by two aṅgulas at a time."
  ],
- "inference": "Even in a properly made pit, if calamity arises, this is the result",
- "uncertainties": [
-  "The specific result referred to by idam depends on surrounding context"
- ],
- "plain_english": "Even in a pit made as prescribed, if a calamity arises in this way, this is the result."
+ "inference": "The dimension starts at six aṅgulas and increases in steps of two aṅgulas.",
+ "uncertainties": [],
+ "plain_english": "Beginning with six aṅgulas, it should increase by two aṅgulas at a time."
 }

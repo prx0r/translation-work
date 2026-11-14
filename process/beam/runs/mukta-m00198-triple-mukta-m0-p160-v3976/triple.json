@@ -1,0 +1,1086 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 3976,
+   "rows": [
+    {
+     "surface": "cidyaḥ",
+     "gloss": "if-cut",
+     "grounds": "conditional particle with interrogative sense in context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syācchadilagnage",
+     "gloss": "would-be-sign-ascendant-situated",
+     "grounds": "fused form; internal sandhi noted, analyzed as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "rathapatibhūmau",
+     "gloss": "chariot-lord-ground",
+     "grounds": "locative sense of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "niveśastathā",
+     "gloss": "placement-thus",
+     "grounds": "noun with following particle fused in reading",
+     "morph": "compound"
+    }
+   ],
+   "question": "Under what ascendant condition is placement on the chariot-lord's ground established?",
+   "premises": [
+    "A conditional ascendant situation is specified",
+    "The location is the chariot-lord's ground",
+    "A placement is thereby indicated"
+   ],
+   "inference": "When the stated ascendant condition holds, placement on the chariot-lord's ground is established.",
+   "uncertainties": [
+    "The exact referent of cidyaḥ is unclear in this fragmentary context"
+   ],
+   "plain_english": "If the ascendant is situated in that sign, then placement on the ground of the chariot-lord is made accordingly."
+  },
+  {
+   "verse": 3977,
+   "rows": [
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "object of breaking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nipatitaṃ",
+     "gloss": "fallen",
+     "grounds": "past participle describing the wheel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "place of falling",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kīlena+saha",
+     "gloss": "with-peg",
+     "grounds": "instrumental accompaniment marked by saha",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "is-broken",
+     "grounds": "passive result",
+     "morph": "3.sg.passive-present (√bhid)"
+    }
+   ],
+   "question": "What outcome befalls a wheel that has fallen to the ground with its peg?",
+   "premises": [
+    "The wheel has fallen on the ground",
+    "The wheel is together with its peg",
+    "Breaking is predicated of the wheel"
+   ],
+   "inference": "A wheel fallen to the ground with its peg becomes broken.",
+   "uncertainties": [],
+   "plain_english": "A wheel that has fallen on the ground together with its peg is broken."
+  },
+  {
+   "verse": 3978,
+   "rows": [
+    {
+     "surface": "rathamāyāti",
+     "gloss": "chariot-comes",
+     "grounds": "subject and motion expressed in fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "tacchīghraṃ",
+     "gloss": "that-swiftly",
+     "grounds": "manner of coming",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaratkāle",
+     "gloss": "in-autumn-season",
+     "grounds": "time specification",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca+bhānuvat",
+     "gloss": "and-like-sun",
+     "grounds": "comparison joined by ca",
+     "morph": "compound"
+    }
+   ],
+   "question": "How and when does the chariot arrive in the manner compared to the sun?",
+   "premises": [
+    "The chariot comes swiftly",
+    "The time is the autumn season",
+    "The motion is compared to the sun"
+   ],
+   "inference": "In autumn the chariot comes swiftly, like the sun.",
+   "uncertainties": [
+    "The exact force of the solar comparison is not fully specified"
+   ],
+   "plain_english": "The chariot comes swiftly in the autumn season, like the sun."
+  },
+  {
+   "verse": 3979,
+   "rows": [
+    {
+     "surface": "nighnanti",
+     "gloss": "they-strike",
+     "grounds": "plural agents perform striking",
+     "morph": "3.pl.active-present (√han)"
+    },
+    {
+     "surface": "rajjukīlādyaiḥ",
+     "gloss": "with-ropes-pegs-and-others",
+     "grounds": "instruments used for striking",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "taccakraṃ",
+     "gloss": "that-wheel",
+     "grounds": "object struck",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca+patedbhuvi",
+     "gloss": "and-may-fall-on-ground",
+     "grounds": "resulting fall expressed in fused form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What happens to that wheel when struck with ropes, pegs, and similar implements?",
+   "premises": [
+    "Agents strike with ropes, pegs, and other things",
+    "That wheel is the target",
+    "Falling on the ground is stated as a result"
+   ],
+   "inference": "When struck with ropes, pegs, and the like, that wheel falls to the ground.",
+   "uncertainties": [],
+   "plain_english": "They strike that wheel with ropes, pegs, and such things, and it falls on the ground."
+  },
+  {
+   "verse": 3980,
+   "rows": [
+    {
+     "surface": "vināśayati",
+     "gloss": "destroys",
+     "grounds": "causative action",
+     "morph": "3.sg.active-present (√naś, causative)"
+    },
+    {
+     "surface": "tacchīghraṃ",
+     "gloss": "that-swiftly",
+     "grounds": "manner of destruction",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "object destroyed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kīlena",
+     "gloss": "with-peg",
+     "grounds": "instrument of destruction",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rajjubhiḥ",
+     "gloss": "with-ropes",
+     "grounds": "additional instruments",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "By what means is that wheel quickly brought to destruction?",
+   "premises": [
+    "Destruction of the wheel occurs swiftly",
+    "A peg is used as an instrument",
+    "Ropes are used as instruments"
+   ],
+   "inference": "The wheel is quickly destroyed by means of a peg and ropes.",
+   "uncertainties": [],
+   "plain_english": "It quickly destroys that wheel with a peg and with ropes."
+  },
+  {
+   "verse": 3981,
+   "rows": [
+    {
+     "surface": "āditye",
+     "gloss": "when-sun",
+     "grounds": "planetary condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sabale",
+     "gloss": "with-strength",
+     "grounds": "qualifies the sun as strong",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kendre",
+     "gloss": "in-center",
+     "grounds": "astrological angular house",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na+gacchati",
+     "gloss": "not-goes",
+     "grounds": "negated motion or attainment",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaṃ",
+     "gloss": "where",
+     "grounds": "interrogative or indefinite direction in context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patiḥ",
+     "gloss": "lord",
+     "grounds": "subject whose movement is denied",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What restriction applies to the lord when the strong sun occupies a central house?",
+   "premises": [
+    "The sun is strong and in a central house",
+    "The lord is the subject",
+    "Going or reaching is negated"
+   ],
+   "inference": "When the strong sun is in a central house, the lord does not go forth.",
+   "uncertainties": [
+    "The precise sense of kaṃ is ambiguous in this context"
+   ],
+   "plain_english": "When the strong sun is in a central house, the lord does not go anywhere."
+  },
+  {
+   "verse": 3982,
+   "rows": [
+    {
+     "surface": "triṣaḍāyagatāḥ",
+     "gloss": "situated-in-third-sixth-eleventh",
+     "grounds": "astrological house positions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pāpāḥ",
+     "gloss": "malefics",
+     "grounds": "inauspicious planets",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rathaṃ",
+     "gloss": "chariot",
+     "grounds": "object affected",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of motion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "moves",
+     "grounds": "resulting motion",
+     "morph": "3.sg.middle-present (√vṛt)"
+    }
+   ],
+   "question": "What effect do malefic planets in the third, sixth, and eleventh houses have on the chariot?",
+   "premises": [
+    "Malefic planets occupy the third, sixth, and eleventh houses",
+    "The chariot is the subject of motion",
+    "Proper movement is affirmed"
+   ],
+   "inference": "With malefics in the third, sixth, and eleventh houses, the chariot moves properly.",
+   "uncertainties": [],
+   "plain_english": "When malefic planets are in the third, sixth, and eleventh houses, the chariot moves properly."
+  },
+  {
+   "verse": 3983,
+   "rows": [
+    {
+     "surface": "kartā",
+     "gloss": "doer",
+     "grounds": "agent or maker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maraṇamāyāti",
+     "gloss": "comes-to-death",
+     "grounds": "fate of the doer",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "anaphoric subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāṣṭraṃ",
+     "gloss": "kingdom",
+     "grounds": "object destroyed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāśayatyasau",
+     "gloss": "destroys-that-one",
+     "grounds": "causative destruction by that agent",
+     "morph": "compound"
+    }
+   ],
+   "question": "What disastrous consequences follow for the doer and the kingdom in this condition?",
+   "premises": [
+    "The doer comes to death",
+    "That same agent affects the kingdom",
+    "The kingdom is destroyed"
+   ],
+   "inference": "The doer meets death and brings destruction upon the kingdom.",
+   "uncertainties": [
+    "The specific astrological condition triggering this is implied from context"
+   ],
+   "plain_english": "The doer meets death, and he destroys the kingdom."
+  },
+  {
+   "verse": 3984,
+   "rows": [
+    {
+     "surface": "vināśatī",
+     "gloss": "is-destroyed",
+     "grounds": "destruction occurs",
+     "morph": "3.sg.active-present (√naś)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taccakraṃ",
+     "gloss": "that-wheel",
+     "grounds": "object destroyed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarathaṃ",
+     "gloss": "with-chariot",
+     "grounds": "accompaniment of the wheel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rajjunā+saha",
+     "gloss": "with-rope",
+     "grounds": "further accompaniment",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is destroyed together with the chariot and the rope in this outcome?",
+   "premises": [
+    "Destruction takes place",
+    "That wheel is involved",
+    "The chariot and rope accompany it"
+   ],
+   "inference": "That wheel, together with the chariot and the rope, is destroyed.",
+   "uncertainties": [],
+   "plain_english": "And that wheel, together with the chariot and with the rope, is destroyed."
+  },
+  {
+   "verse": 3985,
+   "rows": [
+    {
+     "surface": "kendra",
+     "gloss": "center",
+     "grounds": "first member of compound location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trikoṇage",
+     "gloss": "situated-in-trine",
+     "grounds": "astrological position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāpe",
+     "gloss": "when-malefic",
+     "grounds": "malefic planet condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śubhaṣaṣṭhāntyago",
+     "gloss": "benefic-in-sixth-and-last",
+     "grounds": "placement of benefic planets",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What planetary configuration is described when a malefic is in a center or trine and benefics are in the sixth and last houses?",
+   "premises": [
+    "A malefic is in a center or trine",
+    "Benefics are in the sixth and last houses",
+    "The condition is introduced by if"
+   ],
+   "inference": "The verse specifies a conditional configuration with a malefic in center or trine and benefics in the sixth and twelfth.",
+   "uncertainties": [
+    "The apodosis or result of this condition is not stated in this verse"
+   ],
+   "plain_english": "If a malefic is in a center or trine, and benefics are in the sixth and last houses."
+  },
+  {
+   "verse": 3986,
+   "rows": [
+    {
+     "surface": "kendra",
+     "gloss": "center",
+     "grounds": "first member of compound location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trikoṇage",
+     "gloss": "situated-in-trine",
+     "grounds": "astrological position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mande",
+     "gloss": "when-saturn",
+     "grounds": "slow planet condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvādaśāṣṭamago",
+     "gloss": "situated-in-twelfth-and-eighth",
+     "grounds": "placement in specified houses",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What planetary configuration is described when Saturn is in a center or trine and another is in the twelfth and eighth houses?",
+   "premises": [
+    "Saturn is in a center or trine",
+    "Another planet is in the twelfth and eighth houses",
+    "The condition is introduced by if"
+   ],
+   "inference": "The verse specifies a conditional configuration involving Saturn in center or trine and placement in the twelfth and eighth.",
+   "uncertainties": [
+    "The subject of dvādaśāṣṭamago is not explicitly named",
+    "The apodosis is not stated in this verse"
+   ],
+   "plain_english": "If Saturn is in a center or trine, and if something is in the twelfth and eighth houses."
+  },
+  {
+   "verse": 3987,
+   "rows": [
+    {
+     "surface": "kendre",
+     "gloss": "in-center",
+     "grounds": "astrological house",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "candre",
+     "gloss": "when-moon",
+     "grounds": "planetary placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "when-jupiter",
+     "grounds": "planetary placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "koṇe",
+     "gloss": "in-trine",
+     "grounds": "astrological house",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhṛṇu",
+     "gloss": "venus",
+     "grounds": "planet named in context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saumya",
+     "gloss": "mercury",
+     "grounds": "benefic planet named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirīkṣite",
+     "gloss": "being-aspected",
+     "grounds": "astrological aspect condition",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What auspicious planetary arrangement involves the moon, Jupiter, Venus, and Mercury in centers and trines?",
+   "premises": [
+    "The moon is in a center",
+    "Jupiter is in a trine",
+    "Venus and Mercury are aspected or involved"
+   ],
+   "inference": "The verse describes a configuration with the moon in a center, Jupiter in a trine, and Venus and Mercury under aspect.",
+   "uncertainties": [
+    "The exact syntactic relation of bhṛṇu and saumya to nirīkṣite is compressed"
+   ],
+   "plain_english": "When the moon is in a center, Jupiter in a trine, and Venus and Mercury are aspected."
+  },
+  {
+   "verse": 3988,
+   "rows": [
+    {
+     "surface": "dvādaśe",
+     "gloss": "in-twelfth",
+     "grounds": "house position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "navame",
+     "gloss": "in-ninth",
+     "grounds": "house position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāpe",
+     "gloss": "when-malefic",
+     "grounds": "malefic planet condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāpalagne",
+     "gloss": "with-malefic-ascendant",
+     "grounds": "ascendant condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śubhekṣite",
+     "gloss": "aspected-by-benefic",
+     "grounds": "benefic aspect condition",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What configuration combines malefics in the twelfth and ninth with a malefic ascendant aspected by benefics?",
+   "premises": [
+    "Malefics are in the twelfth and ninth houses",
+    "The ascendant is malefic",
+    "The ascendant is aspected by benefics"
+   ],
+   "inference": "The verse states a configuration of malefics in the twelfth and ninth, a malefic ascendant, and benefic aspect.",
+   "uncertainties": [
+    "The resulting effect of this configuration is not stated in this verse"
+   ],
+   "plain_english": "When malefics are in the twelfth and ninth, the ascendant is malefic, and it is aspected by benefics."
+  },
+  {
+   "verse": 3989,
+   "rows": [
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "location on the platform",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rāhusamāyukte",
+     "gloss": "joined-with-rahu",
+     "grounds": "association with Rahu",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rathāṃge",
+     "gloss": "on-chariot-part",
+     "grounds": "location on a part of the chariot",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śanisaṃgate",
+     "gloss": "joined-with-saturn",
+     "grounds": "association with Saturn",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What inauspicious associations are indicated when Rahu joins the seat and Saturn joins the chariot part?",
+   "premises": [
+    "The seat is joined with Rahu",
+    "The chariot part is joined with Saturn",
+    "Both are stated as concurrent conditions"
+   ],
+   "inference": "The configuration places Rahu with the seat and Saturn with the chariot part.",
+   "uncertainties": [
+    "The specific consequence is implied but not stated in this verse"
+   ],
+   "plain_english": "When the seat is joined with Rahu and the chariot part is joined with Saturn."
+  },
+  {
+   "verse": 3990,
+   "rows": [
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "location on the platform",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dinamaṇau",
+     "gloss": "when-sun",
+     "grounds": "sun present at the seat",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaume",
+     "gloss": "when-mars",
+     "grounds": "Mars present at the seat",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rathāṃge",
+     "gloss": "on-chariot-part",
+     "grounds": "location on a part of the chariot",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāpasaṃyute",
+     "gloss": "joined-with-malefic",
+     "grounds": "malefic association",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What planetary placements on the seat and chariot part create a malefic configuration?",
+   "premises": [
+    "The sun and Mars are on the seat",
+    "The chariot part is joined with a malefic",
+    "These placements occur together"
+   ],
+   "inference": "The verse describes the sun and Mars on the seat with a malefic joined to the chariot part.",
+   "uncertainties": [
+    "The resulting effect is not stated in this verse"
+   ],
+   "plain_english": "When the sun and Mars are on the seat, and the chariot part is joined with a malefic."
+  },
+  {
+   "verse": 3991,
+   "rows": [
+    {
+     "surface": "acirād",
+     "gloss": "soon",
+     "grounds": "time of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rathayānaṃ",
+     "gloss": "chariot-journey",
+     "grounds": "event that occurs",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or resulting occurrence",
+     "morph": "3.sg.optative (√as)"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "location condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "de+ndu",
+     "gloss": "god-moon",
+     "grounds": "deity or moon element as given in fused token",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjite",
+     "gloss": "worshipped",
+     "grounds": "ritual honor performed",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What prompt result follows when the moon or deity is worshipped on the seat?",
+   "premises": [
+    "Worship occurs on the seat",
+    "The worshipped entity is indicated as de+ndu",
+    "A chariot journey is said to occur soon"
+   ],
+   "inference": "When the designated entity is worshipped on the seat, a chariot journey soon takes place.",
+   "uncertainties": [
+    "The token de+ndu is ambiguous between deity and moon readings"
+   ],
+   "plain_english": "Soon there would be a chariot journey when the moon or deity is worshipped on the seat."
+  },
+  {
+   "verse": 3992,
+   "rows": [
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "direction of placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpite",
+     "gloss": "when-placed",
+     "grounds": "installation condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "seat",
+     "grounds": "object placed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrīkaraṃ",
+     "gloss": "fortune-making",
+     "grounds": "name or designation given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What designation is declared for the seat when it is placed in the eastern direction?",
+   "premises": [
+    "The seat is placed in the east",
+    "A name is assigned to it",
+    "The tradition declares it as śrīkara"
+   ],
+   "inference": "A seat placed in the east is declared to be called śrīkara.",
+   "uncertainties": [],
+   "plain_english": "When the seat is placed in the east, it is indeed declared to be called śrīkara."
+  },
+  {
+   "verse": 3993,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "direction of placement",
+     "morph": "m/n.loc.sg"
+    },
+    {
+     "surface": "sthāpite",
+     "gloss": "when-placed",
+     "grounds": "installation condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "seat",
+     "grounds": "object placed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrībhadramiti",
+     "gloss": "auspicious-fortune-thus",
+     "grounds": "name given with quotation marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What designation is declared for the seat when it is placed in the western direction?",
+   "premises": [
+    "The seat is placed in the west",
+    "A name is assigned to it",
+    "The tradition declares it as śrībhadra"
+   ],
+   "inference": "A seat placed in the west is declared to be called śrībhadra.",
+   "uncertainties": [],
+   "plain_english": "When the seat is placed in the west, it is declared to be called śrībhadra."
+  },
+  {
+   "verse": 3994,
+   "rows": [
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "direction of installation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śrīkarasya",
+     "gloss": "of-fortune-making",
+     "grounds": "named seat",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "pratiṣṭhāyāṃ",
+     "gloss": "in-installation",
+     "grounds": "ritual establishment",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "brāhmaṇānāṃ",
+     "gloss": "of-priests",
+     "grounds": "group benefited",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛddhaye",
+     "gloss": "for-growth",
+     "grounds": "purpose or result",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Whose prosperity is promoted by installing the śrīkara seat in the eastern direction?",
+   "premises": [
+    "The śrīkara seat is installed in the east",
+    "The installation has a beneficiary group",
+    "Growth is stated for the priests"
+   ],
+   "inference": "Installing the śrīkara seat in the east promotes the growth of the priests.",
+   "uncertainties": [],
+   "plain_english": "In the eastern installation of the śrīkara seat, it is for the growth of the priests."
+  },
+  {
+   "verse": 3995,
+   "rows": [
+    {
+     "surface": "śrībhadrasya",
+     "gloss": "of-auspicious-fortune",
+     "grounds": "named seat",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "pratiṣṭhāyāṃ",
+     "gloss": "in-installation",
+     "grounds": "ritual establishment",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vaiśyānāṃ",
+     "gloss": "of-merchants",
+     "grounds": "group benefited",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivṛddhaye",
+     "gloss": "for-increase",
+     "grounds": "purpose or result",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Whose prosperity is promoted by installing the śrībhadra seat in its prescribed direction?",
+   "premises": [
+    "The śrībhadra seat is installed",
+    "The installation has a beneficiary group",
+    "Increase is stated for the merchants"
+   ],
+   "inference": "Installing the śrībhadra seat promotes the increase of the merchants.",
+   "uncertainties": [],
+   "plain_english": "In the installation of the śrībhadra seat, it is for the increase of the merchants."
+  },
+  {
+   "verse": 3996,
+   "rows": [
+    {
+     "surface": "evameva",
+     "gloss": "in-this-very-way",
+     "grounds": "manner of application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "by-manner",
+     "grounds": "method indicated",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "caturdvāre",
+     "gloss": "in-four-gates",
+     "grounds": "location with four gates",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis on application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How broadly should the preceding prescriptions be applied in a structure with four gates?",
+   "premises": [
+    "The same manner is to be followed",
+    "The context is a place with four gates",
+    "Special emphasis is indicated"
+   ],
+   "inference": "The same procedure applies especially in a structure with four gates.",
+   "uncertainties": [],
+   "plain_english": "In this very manner, especially in a place with four gates."
+  },
+  {
+   "verse": 3997,
+   "rows": [
+    {
+     "surface": "pīṭhasyādhipatīnāṃ",
+     "gloss": "of-lords-of-seat",
+     "grounds": "rulers associated with the seat",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvādīnāṃ",
+     "gloss": "of-those-beginning-with-east",
+     "grounds": "directional sequence",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-due-order",
+     "grounds": "ordered arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order are the lords of the seat assigned beginning from the eastern direction?",
+   "premises": [
+    "Lords of the seat are specified",
+    "They begin with the eastern direction",
+    "They are arranged in due order"
+   ],
+   "inference": "The lords of the seat, beginning with the east, are assigned in due order.",
+   "uncertainties": [],
+   "plain_english": "The lords of the seat, beginning with the east and so on, are to be taken in due order."
+  },
+  {
+   "verse": 3998,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-part",
+     "grounds": "measure described as three parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "middle grade or measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "traditional teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvibhāgamadhamaṃ",
+     "gloss": "two-part-lowest",
+     "grounds": "lower measure of two parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional recollection",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are designated as middle and lowest in this scheme?",
+   "premises": [
+    "A three-part measure is declared middle",
+    "A two-part measure is remembered as lowest",
+    "Both are traditional classifications"
+   ],
+   "inference": "The middle measure is three parts and the lowest is two parts.",
+   "uncertainties": [
+    "The unit to which these parts apply is implied from context"
+   ],
+   "plain_english": "The three-part measure is declared middle, and the two-part measure is remembered as lowest."
+  },
+  {
+   "verse": 3999,
+   "rows": [
+    {
+     "surface": "dvārārdhamadhamaṃ",
+     "gloss": "half-gate-lowest",
+     "grounds": "lowest measure as half the gate",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative (√vid)"
+    },
+    {
+     "surface": "utsedha",
+     "gloss": "height",
+     "grounds": "vertical measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samavistṛtam",
+     "gloss": "equal-in-breadth",
+     "grounds": "breadth equal to height",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What lowest measure and proportion of height to breadth should be recognized for the gate?",
+   "premises": [
+    "Half the gate is designated as lowest",
+    "Height is specified",
+    "Breadth is equal to the height"
+   ],
+   "inference": "One should know the lowest measure as half the gate, with height and breadth equal.",
+   "uncertainties": [],
+   "plain_english": "One should know the lowest as half the gate, with height and breadth equal."
+  }
+ ]
+}

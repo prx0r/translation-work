@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p164",
  "verse": 4097,
- "question": "Which deity is identified as the one remembered in this statement?",
+ "question": "What fourfold classification of origin is enumerated for the subject?",
  "premises": [
-  "A statement has been made",
-  "A deity is identified",
-  "Savitṛ is remembered as that deity"
+  "A divine type is named.",
+  "A sage-made type is named.",
+  "Gandharva-made and human-made types are named."
  ],
- "inference": "Thus spoken, the deity is remembered as Savitṛ",
- "uncertainties": [],
- "plain_english": "Thus it is said: the deity is remembered as Savitṛ."
+ "inference": "The subject is classified as divine, sage-made, gandharva-made, and human-made.",
+ "uncertainties": [
+  "The subject being classified is implied from context rather than named in this verse."
+ ],
+ "plain_english": "It may be divine, sage-made, gandharva-made, or human-made."
 }

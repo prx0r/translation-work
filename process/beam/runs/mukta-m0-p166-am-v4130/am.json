@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p166",
  "verse": 4130,
- "question": "What devotional acts must precede the subsequent ritual steps in this sequence?",
+ "question": "What bathing substance is prescribed for the third and fourth occasions?",
  "premises": [
-  "Special worship is to be performed.",
-  "Praise and bowing are to be performed.",
-  "These acts are to be done repeatedly."
+  "The third occasion is specified",
+  "The bathing substance is identified as sugarcane juice",
+  "The fourth occasion is also specified"
  ],
- "inference": "One should perform special worship, praise, and bow again and again before proceeding.",
- "uncertainties": [],
- "plain_english": "Having performed special worship, having praised, and having bowed again and again,"
+ "inference": "On the third and fourth occasions, the bath is to be with sugarcane juice.",
+ "uncertainties": [
+  "The exact distribution between third and fourth occasions is compressed in the verse."
+ ],
+ "plain_english": "On the third and on the fourth, the bath is indeed to be with sugarcane juice."
 }
