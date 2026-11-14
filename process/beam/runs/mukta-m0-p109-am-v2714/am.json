@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2714,
- "question": "For whom is this declared suitable?",
+ "question": "What length is declared for the index finger and thumb together?",
  "premises": [
-  "Buddhist, Jain, and other heretics are named",
-  "this is declared suitable"
+  "The index finger and thumb are the referents.",
+  "Their length is being specified.",
+  "The declared measure is four parts."
  ],
- "inference": "this is declared suitable for Buddhist, Jain, and other heretics",
+ "inference": "The length of the index finger and thumb is declared as four parts.",
  "uncertainties": [
-  "scope of suitability not stated"
+  "Whether the measure applies jointly or comparatively to both digits is unclear."
  ],
- "plain_english": "This is declared suitable for Buddhist, Jain, and other heretics."
+ "plain_english": "The length of the index finger and thumb is declared to be four parts."
 }

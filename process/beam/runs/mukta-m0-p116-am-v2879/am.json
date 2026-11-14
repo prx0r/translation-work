@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p116",
  "verse": 2879,
- "question": "What ritual state must the officiant assume before offering the inner and outer bali?",
+ "question": "What interval in measures is specified between the crown tip and the middle thread?",
  "premises": [
-  "The inner and outer bali are offered afterwards.",
-  "The officiant must have performed ritual sipping of water.",
-  "The officiant must be established as mantra-bodied."
+  "The reference points are the crown tip and the middle thread.",
+  "The interval between them is measured.",
+  "The prescribed interval is fourteen measures."
  ],
- "inference": "After purification and assuming a mantra-body, the officiant offers the inner and outer bali.",
- "uncertainties": [],
- "plain_english": "Afterwards, having sipped water and become mantra-bodied, he should offer the inner and outer bali."
+ "inference": "The interval from the middle thread to the crown tip is fourteen measures.",
+ "uncertainties": [
+  "manu interpreted as fourteen based on traditional numeric value"
+ ],
+ "plain_english": "The interval from the middle thread to the tip of the crown is fourteen measures."
 }

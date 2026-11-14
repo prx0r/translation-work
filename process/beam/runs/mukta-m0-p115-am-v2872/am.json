@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2872,
- "question": "In which acts involving a garment should this seal be used to touch?",
+ "question": "What range of fingers is specified while excluding each root end?",
  "premises": [
-  "This seal should be used to touch",
-  "One context is the giving of a garment",
-  "Another context is the wearing of a garment"
+  "The range begins with the index finger.",
+  "The range extends to the end of the little finger.",
+  "Each root end is excluded."
  ],
- "inference": "This seal should touch in the giving and wearing of a garment.",
- "uncertainties": [],
- "plain_english": "This seal should touch in the giving and wearing of a garment."
+ "inference": "The specified span runs from the index finger to the little finger while excluding their root ends.",
+ "uncertainties": [
+  "final token kri? is abbreviated or unclear in the source"
+ ],
+ "plain_english": "From the index finger to the little finger, excluding the end of each root, the action is indicated."
 }

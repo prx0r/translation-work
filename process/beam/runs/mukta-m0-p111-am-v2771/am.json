@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p111",
  "verse": 2771,
- "question": "How is delayed expiation up to the end of a month judged?",
+ "question": "What length is prescribed from the hair end to the stated limit?",
  "premises": [
-  "A time limit up to month-end is considered",
-  "A qualitative judgment is given"
+  "The span begins at the hair end.",
+  "It extends to the stated limit.",
+  "The prescribed length is twelve and a half angulas."
  ],
- "inference": "Expiation delayed until the end of a month is called inferior.",
- "uncertainties": [],
- "plain_english": "Therefore, if it is delayed until the end of a month, it is called inferior."
+ "inference": "The distance from the hair end to that limit should be twelve and a half angulas.",
+ "uncertainties": [
+  "The exact referent of dhanu in this measurement context is uncertain."
+ ],
+ "plain_english": "From the end of the hair to that limit should be twelve and a half angulas."
 }

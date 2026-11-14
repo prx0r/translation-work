@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "patrapūrimanālaṃ",
+     "gloss": "leaf-full-stemless",
+     "grounds": "compound describing an object filled with leaves and lacking a stem",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle introducing an alternative or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "keyūrasadṛśaṃ",
+     "gloss": "armlet-like",
+     "grounds": "compound expressing resemblance to an armlet",
+     "morph": "compound"
+    },
+    {
+     "surface": "ghanam",
+     "gloss": "dense",
+     "grounds": "adjective qualifying the described object",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form and solidity characterize the armlet-like ornament filled with leaves?",
+   "premises": [
+    "The ornament is filled with leaves and lacks a stem.",
+    "The ornament resembles an armlet in form.",
+    "The ornament is dense and solid."
+   ],
+   "inference": "The prescribed ornament is a dense, armlet-like form that is full of leaves and without a stem.",
+   "uncertainties": [
+    "The exact ritual object referred to depends on the preceding context."
+   ],
+   "plain_english": "But it is full of leaves, stemless, like an armlet, and dense."
+  }
+ ]
+}

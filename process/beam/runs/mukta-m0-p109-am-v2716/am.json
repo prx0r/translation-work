@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2716,
- "question": "How many stories should merchants and warrior chiefs have?",
+ "question": "What span is defined by the spread of the foot digits from thumb to little finger?",
  "premises": [
-  "merchants have four stories",
-  "warrior and army chief also"
+  "The span begins at the thumb.",
+  "The span ends at the little finger.",
+  "The foot digits are described as spread across this range."
  ],
- "inference": "merchants, warriors, and army chiefs should have four stories",
+ "inference": "The spread of the foot digits extends from the thumb to the little finger.",
  "uncertainties": [
-  "whether all share same rule not stated"
+  "The verse states the span but does not give a numerical value."
  ],
- "plain_english": "Merchants should have four stories, and warriors and army chiefs also."
+ "plain_english": "The spread of the foot digits extends from the thumb to the end of the little finger."
 }

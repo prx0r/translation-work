@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "dehamadhyagate",
+     "gloss": "located-in-body-middle",
+     "grounds": "compound bahuvrihi/locative qualifier referring to the region at the middle of the body",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcasūtraṃ",
+     "gloss": "five-cord",
+     "grounds": "object of suspension; ritual cord composed of five threads",
+     "morph": "compound acc.sg.nt"
+    },
+    {
+     "surface": "pralambayet",
+     "gloss": "one-should-suspend",
+     "grounds": "prescriptive optative prohibiting suspension in the specified region",
+     "morph": "3.sg.act.opt pra-√lamb"
+    }
+   ],
+   "question": "Why is suspension of the five-cord prohibited at the middle of the body?",
+   "premises": [
+    "The ritual context specifies permissible regions for placing or extending the five-cord.",
+    "The middle of the body is identified as a distinct location.",
+    "The injunction explicitly negates suspending the five-cord there."
+   ],
+   "inference": "Therefore, the five-cord must not be allowed to hang down at the middle of the body.",
+   "uncertainties": [
+    "The exact ritual function of the paṃcasūtra in this passage is not fully specified in the verse alone."
+   ],
+   "plain_english": "One should not let the five-cord hang down at the middle of the body."
+  }
+ ]
+}

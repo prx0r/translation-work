@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2707,
- "question": "How should length be doubled or stated?",
+ "question": "Into how many parts is the female figure's measure divided for detailed proportioning?",
  "premises": [
-  "length may be doubled",
-  "or length is stated"
+  "The context is the female figure's measure.",
+  "That measure is divided into parts.",
+  "The total division is one hundred and twenty parts."
  ],
- "inference": "length is either doubled or stated as given",
- "uncertainties": [
-  "which option applies not stated"
- ],
- "plain_english": "In length one should make it double, or the length is stated."
+ "inference": "The female figure's measure is divided into one hundred and twenty parts.",
+ "uncertainties": [],
+ "plain_english": "When the female measure is divided, it is divided into one hundred and twenty parts."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p113",
  "verse": 2813,
- "question": "Which hand should be used to rotate that gesture in this instruction?",
+ "question": "What breadth and shape are prescribed for the nails?",
  "premises": [
-  "A rotational action is prescribed.",
-  "The hand specified is the left hand.",
-  "That gesture is the object of rotation."
+  "The nail breadth is specified as two parts.",
+  "The nail is described as round.",
+  "Its length is equal to its breadth."
  ],
- "inference": "One should rotate that gesture with the left hand.",
- "uncertainties": [
-  "The referent of 'that' depends on the immediately preceding gesture."
- ],
- "plain_english": "And one should rotate that with the left hand."
+ "inference": "The nail breadth should be two parts, with equal length and a round shape.",
+ "uncertainties": [],
+ "plain_english": "The nail should be two parts in breadth, round, and equal in length and breadth."
 }

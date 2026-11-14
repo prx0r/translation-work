@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2711,
- "question": "What measure is joined with double length and numbered twenty?",
+ "question": "What measure is declared for the neck below the previously specified point?",
  "premises": [
-  "double length is joined",
-  "measure is twenty in number"
+  "The location is below the previously stated point.",
+  "The subject is the neck measure.",
+  "It is declared as four parts."
  ],
- "inference": "the measure joined with double length is twenty in number",
+ "inference": "The neck measure below that point is declared as four parts.",
  "uncertainties": [
-  "exact unit not stated"
+  "The unit corresponding to caturbhāga is not explicitly stated in this verse."
  ],
- "plain_english": "The measure joined with double length and above is twenty in number."
+ "plain_english": "Below that, the measure of the neck is declared to be four parts."
 }

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2723,
- "question": "How should the front hall with one wall be measured?",
+ "question": "What breadth is declared for the middle part in this measurement sequence?",
  "premises": [
-  "front hall with one wall is specified",
-  "half or double is allowed"
+  "The subject is the middle part.",
+  "Its breadth is being specified.",
+  "The declared measure is eleven aṅgulas."
  ],
- "inference": "the front hall with one wall should be with half or double measure",
+ "inference": "The breadth of the middle part is declared as eleven aṅgulas.",
  "uncertainties": [
-  "base measure not stated"
+  "The exact referent of madhyamasya (middle finger, waist, or other middle part) is not explicit."
  ],
- "plain_english": "The front hall with one wall should be, with half or double, or otherwise."
+ "plain_english": "The breadth of the middle part is declared to be eleven aṅgulas."
 }

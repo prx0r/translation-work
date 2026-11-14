@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p116",
  "verse": 2891,
- "question": "How should the eight pots be arranged and equipped in the eight directions of the ritual space?",
+ "question": "How much narrower should the crown be at its top?",
  "premises": [
-  "Eight pots are to be placed in the eight directions.",
-  "Each pot must be associated with specific weapons.",
-  "The weapons begin with the vajra."
+  "The crown's top width is reduced.",
+  "The reduction is by one part in seven, eight, or nine."
  ],
- "inference": "Eight pots equipped with the vajra and other weapons should be placed in the eight directions.",
- "uncertainties": [],
- "plain_english": "In the eight directions one should place eight pots, each joined with the vajra and the other weapons."
+ "inference": "The crown should be narrower at the top by one-seventh, one-eighth, or one-ninth.",
+ "uncertainties": [
+  "exact parsing of fractional reduction is context-dependent"
+ ],
+ "plain_english": "Its width at the top should be less by one part out of seven, eight, or nine."
 }

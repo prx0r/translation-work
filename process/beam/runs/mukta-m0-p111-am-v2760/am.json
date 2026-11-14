@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p111",
  "verse": 2760,
- "question": "Why is a full enumeration of all ritual actions avoided in this text?",
+ "question": "What fractional distance is prescribed between the two heels?",
  "premises": [
-  "Actions are endless",
-  "Expanding the text is a fault"
+  "The two heels are the reference points.",
+  "An interval between them is specified.",
+  "That interval is one part of a third."
  ],
- "inference": "Because actions are endless and textual expansion is a fault, not all actions are enumerated.",
- "uncertainties": [],
- "plain_english": "Because actions are endless and expanding the text would be a fault, they are not all detailed."
+ "inference": "The distance between the heels is prescribed as one-third part of the stated measure.",
+ "uncertainties": [
+  "The base measure from which the third is taken is not stated in this verse."
+ ],
+ "plain_english": "The interval between the two heels is prescribed as one part of that third."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2867,
- "question": "How are the two fists positioned when they are bound in this gesture?",
+ "question": "What interval is prescribed from the thread to the toe of that foot?",
  "premises": [
-  "Two fists are formed",
-  "The fists are bound",
-  "They are placed like ears"
+  "The measurement starts from the thread.",
+  "The endpoint is the toe of that foot.",
+  "The interval is twelve finger-units."
  ],
- "inference": "When bound, the two fists are positioned like ears.",
- "uncertainties": [],
- "plain_english": "When the two fists are bound and placed like ears."
+ "inference": "The interval from the thread to that foot’s toe should be twelve finger-units.",
+ "uncertainties": [
+  "adaṃghri refers to a previously identified foot"
+ ],
+ "plain_english": "From the thread to the toe of that foot, the interval should be twelve finger-units."
 }

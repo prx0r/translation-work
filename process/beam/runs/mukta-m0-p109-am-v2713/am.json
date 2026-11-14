@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2713,
- "question": "May the structure be endowed with one to three stories and pavilion chamber?",
+ "question": "How are the lengths of the thigh, shank, and sole related in the prescribed proportions?",
  "premises": [
-  "one to three stories may be present",
-  "pavilion chamber may be present"
+  "The shank length is equal to the thigh length.",
+  "The sole is included in the same proportional statement.",
+  "The measures are given as a paired set."
  ],
- "inference": "the structure may or may not have one to three stories and a pavilion chamber",
+ "inference": "The thigh and shank are equal in length, with the sole given as a paired measure.",
  "uncertainties": [
-  "combination rules not stated"
+  "The exact syntactic role of pādatalaṃ yugam in relation to the preceding equality is ambiguous."
  ],
- "plain_english": "It may be endowed with one, two, or three stories and a pavilion chamber, or not."
+ "plain_english": "The length of the shank is equal to the length of the thigh, and the sole is a pair."
 }
