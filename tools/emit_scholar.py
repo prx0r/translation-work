@@ -128,6 +128,17 @@ def displayed_sources(work: str, eligible: set[str], originals: dict) -> dict:
             for target,row in originals.get('t1',{}).items():
                 tokens=spans.get(row.get('verse'))
                 if target not in result and tokens:
+                    # Served text must never carry print apparatus (page marks,
+                    # editorial refs, hyphen-fragments, bare-pipe runs). Use the
+                    # estate's single paratext doctrine (shastra_merge), same as
+                    # proof_record's alignment cleaning. Daṇḍas read as text
+                    # punctuation downstream, not apparatus.
+                    try:
+                        from shastra_merge import is_paratext as _is_para
+                        shown=[t for t in tokens if not _is_para(t)]
+                        tokens=shown or tokens
+                    except ImportError:
+                        pass
                     result[target]={'text':' '.join(tokens),'source_file':name,'source_sha256':digest,
                         'source_lines':row.get('source_lines'),
                         'note':'Parser-reconstructed tokens; consult the edition for exact typography.'}
