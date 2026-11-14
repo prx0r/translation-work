@@ -1,0 +1,57 @@
+{
+ "song": "kul-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "noun śeṣa in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverbial compound pūrva + vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-said",
+     "grounds": "gerund of prac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlādhāre",
+     "gloss": "at-mūlādhāra",
+     "grounds": "noun mūlādhāra in locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "optative third singular active of vi-ni-as",
+     "morph": "3.sg.act.opt. (vi-ni-as)"
+    }
+   ],
+   "question": "Where should the remainder be placed after saying it as before?",
+   "premises": [
+    "Remainder is said as before.",
+    "Placement occurs at mūlādhāra.",
+    "Instruction follows prior pattern."
+   ],
+   "inference": "The remainder is placed at mūlādhāra after prior recitation.",
+   "uncertainties": [
+    "Exact referent of remainder is not specified in this verse."
+   ],
+   "plain_english": "Having said the remainder as before, place it at the mūlādhāra."
+  }
+ ]
+}

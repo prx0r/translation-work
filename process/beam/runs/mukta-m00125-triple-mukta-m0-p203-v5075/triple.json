@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p203",
+ "items": [
+  {
+   "verse": 5075,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner as previously described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "verb denoting the act of carrying out the ritual",
+     "morph": "3.sg.middle-present √kṛ"
+    },
+    {
+     "surface": "martyaḥ",
+     "gloss": "mortal",
+     "grounds": "human agent undertaking the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhāṃ",
+     "gloss": "consecration",
+     "grounds": "ritual installation or establishment as object of the action",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhāvanāyutaḥ",
+     "gloss": "endowed-with-contemplation",
+     "grounds": "compound describing the agent's meditative qualification; bhāvanā+āyuta",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What qualifies a mortal to perform the consecration in the prescribed manner?",
+   "premises": [
+    "A mortal may perform the consecration in this manner.",
+    "The prescribed manner follows the previously stated ritual procedure.",
+    "The performing mortal is endowed with contemplative absorption."
+   ],
+   "inference": "A mortal endowed with contemplative absorption is the one who properly performs the consecration in this prescribed manner.",
+   "uncertainties": [],
+   "plain_english": "Thus, the mortal who, endowed with contemplative absorption, performs the consecration in this way."
+  }
+ ]
+}

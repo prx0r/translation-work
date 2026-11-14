@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "asyā",
+     "gloss": "by-its",
+     "grounds": "pronoun idam in instrumental/genitive feminine singular referring to the mudrā just described",
+     "morph": "pron.gen.sg.f"
+    },
+    {
+     "surface": "viracanena+eva",
+     "gloss": "performance-alone",
+     "grounds": "viracana in instrumental singular plus eva; the plus marks the joined elements within the token",
+     "morph": "noun.instr.sg.m + indecl."
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "feminine plural nominative adjective agreeing with devatāḥ",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "siddhyanti",
+     "gloss": "are-accomplished",
+     "grounds": "third-person plural present active of root sidh",
+     "morph": "verb.3pl.act-pres root sidh"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "feminine plural nominative noun, subject of siddhyanti",
+     "morph": "noun.nom.pl.f"
+    }
+   ],
+   "question": "By what means alone are all deities accomplished through this mudrā?",
+   "premises": [
+    "The mudrā's performance is the stated means.",
+    "All deities are said to be accomplished.",
+    "The accomplishment is tied to that performance alone."
+   ],
+   "inference": "Performing this mudrā alone accomplishes all deities.",
+   "uncertainties": [
+    "Whether asyā is instrumental or genitive in this context.",
+    "Whether siddhyanti is best read as passive accomplishment or active attainment."
+   ],
+   "plain_english": "By its performance alone, all deities are accomplished."
+  }
+ ]
+}

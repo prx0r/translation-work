@@ -1,0 +1,964 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4101,
+   "rows": [
+    {
+     "surface": "bhruvoḥ",
+     "gloss": "on-eyebrows",
+     "grounds": "location for placement",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "śīrṣṇi",
+     "gloss": "on-head",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cūḍā+adhaḥ",
+     "gloss": "below-crest",
+     "grounds": "compound indicating location below the crest",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāma+karṇake",
+     "gloss": "on-left-ear",
+     "grounds": "compound indicating location on the left ear",
+     "morph": "compound, n.loc.sg"
+    }
+   ],
+   "question": "Which bodily locations are specified for this stage of syllable placement?",
+   "premises": [
+    "The eyebrows are named as a location.",
+    "The head is named as a location.",
+    "Below the crest and the left ear are named as locations."
+   ],
+   "inference": "This stage of placement is performed on the eyebrows, head, below the crest, and the left ear.",
+   "uncertainties": [],
+   "plain_english": "The placement is made on the eyebrows, on the head, below the crest, and on the left ear."
+  },
+  {
+   "verse": 4102,
+   "rows": [
+    {
+     "surface": "akṣara+nyāsaḥ",
+     "gloss": "syllable-placement",
+     "grounds": "compound naming the ritual act",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal designation of the placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samprakīrtitaḥ",
+     "gloss": "well-proclaimed",
+     "grounds": "declares the designation",
+     "morph": "m.nom.sg, past-passive-participle, √kīrt"
+    }
+   ],
+   "question": "How is this particular syllable placement formally designated in the sequence?",
+   "premises": [
+    "A syllable placement is being described.",
+    "It is identified as the second.",
+    "It is declared or proclaimed as such."
+   ],
+   "inference": "This syllable placement is formally proclaimed as the second in the sequence.",
+   "uncertainties": [],
+   "plain_english": "This is proclaimed as the second syllable placement."
+  },
+  {
+   "verse": 4103,
+   "rows": [
+    {
+     "surface": "kaṇṭha+hṛt+nābhi+gulpheṣu",
+     "gloss": "on-throat-heart-navel-ankles",
+     "grounds": "compound listing bodily locations",
+     "morph": "compound, m/n.loc.pl"
+    },
+    {
+     "surface": "jānvoḥ+aṃghryoḥ",
+     "gloss": "on-knees-feet",
+     "grounds": "compound listing additional bodily locations",
+     "morph": "compound, m.loc.du"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks continuation in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to perform placement",
+     "morph": "3.sg.optative-active, √nyas"
+    }
+   ],
+   "question": "Where should the practitioner perform the next placement in the ritual sequence?",
+   "premises": [
+    "The throat, heart, navel, and ankles are specified.",
+    "The knees and feet are also specified.",
+    "The practitioner is instructed to place there."
+   ],
+   "inference": "The next placement should be performed on the throat, heart, navel, ankles, knees, and feet.",
+   "uncertainties": [],
+   "plain_english": "Then one should place on the throat, heart, navel, ankles, knees, and feet."
+  },
+  {
+   "verse": 4104,
+   "rows": [
+    {
+     "surface": "brahmaṇe",
+     "gloss": "to-brahma",
+     "grounds": "recipient deity for an assignment",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "states an assignment",
+     "morph": "n.nom.sg, past-passive-participle, √vac"
+    },
+    {
+     "surface": "viṣṇave",
+     "gloss": "to-viṣṇu",
+     "grounds": "recipient deity for an assignment",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "element assigned in the placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "stated",
+     "grounds": "states an assignment",
+     "morph": "n.nom.sg, past-passive-participle, √īr"
+    }
+   ],
+   "question": "Which deities and element are assigned in this part of the placement?",
+   "premises": [
+    "Something is declared for Brahma.",
+    "The head is stated for Viṣṇu.",
+    "Both assignments are explicitly proclaimed."
+   ],
+   "inference": "This part of the placement assigns one element to Brahma and the head to Viṣṇu.",
+   "uncertainties": [
+    "The specific element assigned to Brahma is not named in this verse."
+   ],
+   "plain_english": "It is declared for Brahma, and the head is stated for Viṣṇu."
+  },
+  {
+   "verse": 4105,
+   "rows": [
+    {
+     "surface": "sadāśivāya+uktam+astram",
+     "gloss": "to-sadāśiva-said-weapon",
+     "grounds": "compound expressing the weapon said for Sadāśiva",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "sarvātmane",
+     "gloss": "to-the-universal-self",
+     "grounds": "recipient designation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "states traditional assignment",
+     "morph": "n.nom.sg, past-passive-participle, √smṛ"
+    }
+   ],
+   "question": "To whom are the weapon and the universal-self designation assigned in this placement?",
+   "premises": [
+    "The weapon is said for Sadāśiva.",
+    "Something is remembered for the universal self.",
+    "Both are presented as established assignments."
+   ],
+   "inference": "The weapon is assigned to Sadāśiva and an element is remembered for the universal self.",
+   "uncertainties": [
+    "The specific element remembered for sarvātman is not explicitly named in this verse."
+   ],
+   "plain_english": "The weapon is said for Sadāśiva, and it is remembered for the universal self."
+  },
+  {
+   "verse": 4106,
+   "rows": [
+    {
+     "surface": "paj+jānu+kaṭi+nābhau",
+     "gloss": "on-feet-knees-hips-navel",
+     "grounds": "compound listing bodily locations",
+     "morph": "compound, f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "on-heart",
+     "grounds": "bodily location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kaṇṭha+bhālayoḥ",
+     "gloss": "on-throat-forehead",
+     "grounds": "compound listing bodily locations",
+     "morph": "compound, m/n.loc.du"
+    }
+   ],
+   "question": "Which bodily locations are enumerated for this subsequent placement step?",
+   "premises": [
+    "Feet, knees, hips, and navel are named.",
+    "The heart is named.",
+    "The throat and forehead are named."
+   ],
+   "inference": "This placement step covers the feet, knees, hips, navel, heart, throat, and forehead.",
+   "uncertainties": [],
+   "plain_english": "And on the feet, knees, hips, navel, on the heart, and on the throat and forehead."
+  },
+  {
+   "verse": 4107,
+   "rows": [
+    {
+     "surface": "punaḥ+vyāhṛti+nyāsaḥ+ayam",
+     "gloss": "again-vyāhṛti-placement-this",
+     "grounds": "compound identifying this vyāhṛti placement",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "declares the designation",
+     "morph": "m.nom.sg, past-passive-participle, √kīrt"
+    }
+   ],
+   "question": "What ordinal position is assigned to this vyāhṛti placement in the sequence?",
+   "premises": [
+    "This is identified as a vyāhṛti placement.",
+    "It is called the fifth.",
+    "It is proclaimed as such."
+   ],
+   "inference": "This vyāhṛti placement is proclaimed as the fifth in the sequence.",
+   "uncertainties": [],
+   "plain_english": "This vyāhṛti placement is again proclaimed as the fifth."
+  },
+  {
+   "verse": 4108,
+   "rows": [
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "ritual element or location",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kavacam",
+     "gloss": "armor",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhīmahi",
+     "gloss": "we-meditate",
+     "grounds": "meditative utterance from gāyatrī context",
+     "morph": "1.pl.optative-middle, √dhī"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "states traditional assignment",
+     "morph": "n.nom.sg, past-passive-participle, √smṛ"
+    }
+   ],
+   "question": "Which ritual elements and meditative phrase are remembered in this placement?",
+   "premises": [
+    "The crest is named.",
+    "The armor is named.",
+    "The phrase 'we meditate' is remembered."
+   ],
+   "inference": "The crest, armor, and the meditative phrase 'dhīmahi' are remembered in this placement.",
+   "uncertainties": [],
+   "plain_english": "The crest, the armor, and 'we meditate' are remembered."
+  },
+  {
+   "verse": 4109,
+   "rows": [
+    {
+     "surface": "ṣaṭhaḥ",
+     "gloss": "sixth",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states designation",
+     "morph": "3.sg.optative-active, √as"
+    },
+    {
+     "surface": "ṣaṭ+ete",
+     "gloss": "six-these",
+     "grounds": "compound referring to these six",
+     "morph": "compound, m.nom.pl"
+    },
+    {
+     "surface": "pāpa+hārakāḥ",
+     "gloss": "sin-removing",
+     "grounds": "compound describing their effect",
+     "morph": "compound, m.nom.pl"
+    }
+   ],
+   "question": "What designation and purifying effect are attributed to this set of placements?",
+   "premises": [
+    "This is designated as the sixth.",
+    "These six are referred to together.",
+    "They are described as removing sin."
+   ],
+   "inference": "The sixth is established and these six placements are said to remove sin.",
+   "uncertainties": [],
+   "plain_english": "This should be the sixth, and these six are removers of sin."
+  },
+  {
+   "verse": 4110,
+   "rows": [
+    {
+     "surface": "gāyatryāḥ",
+     "gloss": "of-gāyatrī",
+     "grounds": "identifies the deity or mantra",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "names the contemplative form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhakta+manaḥ+ramam",
+     "gloss": "devotee-mind-delighting",
+     "grounds": "compound describing the meditation's effect",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "What quality characterizes the meditation on Gāyatrī presented here?",
+   "premises": [
+    "A meditation of Gāyatrī is presented.",
+    "It is described as delighting the devotee's mind.",
+    "The description qualifies the meditation itself."
+   ],
+   "inference": "The meditation on Gāyatrī is characterized as delighting the mind of the devotee.",
+   "uncertainties": [],
+   "plain_english": "This is the meditation on Gāyatrī, which delights the mind of the devotee."
+  },
+  {
+   "verse": 4111,
+   "rows": [
+    {
+     "surface": "cakram",
+     "gloss": "discus",
+     "grounds": "object held in the hands",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aravinda+yugalam",
+     "gloss": "lotus-pair",
+     "grounds": "compound naming objects held",
+     "morph": "compound, n.acc.sg"
+    },
+    {
+     "surface": "hastaiḥ+vahantīm",
+     "gloss": "with-hands-holding",
+     "grounds": "compound describing the goddess holding objects",
+     "morph": "compound, f.acc.sg, present-participle, √vah"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "statement of worship",
+     "morph": "1.sg.present-middle, √bhaj"
+    }
+   ],
+   "question": "How is the goddess visualized and worshipped in this meditative verse?",
+   "premises": [
+    "She holds a discus and a pair of lotuses.",
+    "She holds them with her hands.",
+    "The speaker declares worship of her."
+   ],
+   "inference": "The goddess is worshipped as holding a discus and a pair of lotuses in her hands.",
+   "uncertainties": [],
+   "plain_english": "I worship her as holding a discus and a pair of lotuses in her hands."
+  },
+  {
+   "verse": 4112,
+   "rows": [
+    {
+     "surface": "deveśīm",
+     "gloss": "goddess-of-gods",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "koṇa+agre",
+     "gloss": "at-corner-tip",
+     "grounds": "compound indicating location of worship",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to worship",
+     "morph": "3.sg.optative-active, √pūj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the goddess of gods be worshipped at this stage of the ritual?",
+   "premises": [
+    "The goddess of gods is the object of worship.",
+    "The corner tip is specified as the location.",
+    "Worship is enjoined as the next step."
+   ],
+   "inference": "The goddess of gods should then be worshipped at the tip of the corner.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship the goddess of gods at the tip of the corner."
+  },
+  {
+   "verse": 4113,
+   "rows": [
+    {
+     "surface": "māheśvarī",
+     "gloss": "māheśvarī",
+     "grounds": "name of a goddess in the enclosure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiṣṇavī",
+     "gloss": "vaiṣṇavī",
+     "grounds": "name of a goddess in the enclosure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prathamā+āvṛtiḥ",
+     "gloss": "first-enclosure",
+     "grounds": "compound naming the first enclosure",
+     "morph": "compound, f.nom.sg"
+    }
+   ],
+   "question": "Which deities constitute the first enclosure in this worship sequence?",
+   "premises": [
+    "Māheśvarī is named.",
+    "Vaiṣṇavī is named.",
+    "Together they are identified as the first enclosure."
+   ],
+   "inference": "Māheśvarī and Vaiṣṇavī constitute the first enclosure.",
+   "uncertainties": [],
+   "plain_english": "Māheśvarī and Vaiṣṇavī form the first enclosure."
+  },
+  {
+   "verse": 4114,
+   "rows": [
+    {
+     "surface": "bhāskaram",
+     "gloss": "sun",
+     "grounds": "deity or power to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃdhyām",
+     "gloss": "twilight",
+     "grounds": "deity or power to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyā+āvaraṇam",
+     "gloss": "second-enclosure",
+     "grounds": "compound naming the second enclosure",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "points to the enclosure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which figures are included in the second enclosure of the worship?",
+   "premises": [
+    "The sun is included.",
+    "Twilight is included.",
+    "These are identified as this second enclosure."
+   ],
+   "inference": "The sun and twilight constitute this second enclosure.",
+   "uncertainties": [],
+   "plain_english": "The sun and also twilight form this second enclosure."
+  },
+  {
+   "verse": 4115,
+   "rows": [
+    {
+     "surface": "tṛtīya+uktaṃ",
+     "gloss": "third-declared",
+     "grounds": "compound indicating what is declared as third",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "dala+madhye",
+     "gloss": "in-petal-middle",
+     "grounds": "compound indicating location within petals",
+     "morph": "compound, n.loc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to worship",
+     "morph": "3.sg.optative-active, √yaj"
+    },
+    {
+     "surface": "imāḥ",
+     "gloss": "these",
+     "grounds": "refers to the deities to be worshipped",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "Where should the deities of the third declared enclosure be worshipped?",
+   "premises": [
+    "A third enclosure is declared.",
+    "The middle of the petals is specified as the location.",
+    "These deities should be worshipped there."
+   ],
+   "inference": "The deities of the third enclosure should be worshipped in the middle of the petals.",
+   "uncertainties": [
+    "The specific deities referred to by 'these' are not named in this verse."
+   ],
+   "plain_english": "One should worship these, declared as the third, in the middle of the petals."
+  },
+  {
+   "verse": 4116,
+   "rows": [
+    {
+     "surface": "prabhāvatīṃ",
+     "gloss": "prabhāvatī",
+     "grounds": "name of a goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jayāṃ",
+     "gloss": "jayā",
+     "grounds": "name of a goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śāṃtāṃ",
+     "gloss": "śāntā",
+     "grounds": "name of a goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caturtha+āvaraṇam",
+     "gloss": "fourth-enclosure",
+     "grounds": "compound naming the fourth enclosure",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "points to the enclosure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are identified as forming the fourth enclosure?",
+   "premises": [
+    "Prabhāvatī is named.",
+    "Jayā and Śāntā are named.",
+    "These are identified as this fourth enclosure."
+   ],
+   "inference": "Prabhāvatī, Jayā, and Śāntā form the fourth enclosure.",
+   "uncertainties": [],
+   "plain_english": "Prabhāvatī, Jayā, and Śāntā form this fourth enclosure."
+  },
+  {
+   "verse": 4117,
+   "rows": [
+    {
+     "surface": "kramāt+proktam",
+     "gloss": "in-order-declared",
+     "grounds": "compound indicating sequential declaration",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "pañcama+āvaraṇam",
+     "gloss": "fifth-enclosure",
+     "grounds": "compound naming the fifth enclosure",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "points to the enclosure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the fifth enclosure presented within the ordered sequence of worship?",
+   "premises": [
+    "The fifth enclosure is named.",
+    "It is declared in order.",
+    "It is identified as this enclosure."
+   ],
+   "inference": "The fifth enclosure is presented as this one, declared in due order.",
+   "uncertainties": [
+    "The specific deities of the fifth enclosure are not named in this verse."
+   ],
+   "plain_english": "This is declared in order as the fifth enclosure."
+  },
+  {
+   "verse": 4118,
+   "rows": [
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "injunctional description",
+     "morph": "f.nom.sg, future-passive-participle, √pūj"
+    },
+    {
+     "surface": "viśva+yoniḥ",
+     "gloss": "source-of-universe",
+     "grounds": "compound epithet of the goddess",
+     "morph": "compound, f.nom.sg"
+    },
+    {
+     "surface": "jaya+āvahā",
+     "gloss": "bringing-victory",
+     "grounds": "compound epithet describing her effect",
+     "morph": "compound, f.nom.sg"
+    }
+   ],
+   "question": "What attributes characterize the goddess who is to be worshipped here?",
+   "premises": [
+    "She is to be worshipped.",
+    "She is called the source of the universe.",
+    "She is described as bringing victory."
+   ],
+   "inference": "The goddess to be worshipped is the source of the universe and the bringer of victory.",
+   "uncertainties": [],
+   "plain_english": "The source of the universe, who brings victory, is to be worshipped."
+  },
+  {
+   "verse": 4119,
+   "rows": [
+    {
+     "surface": "tvaruṇā",
+     "gloss": "tvaruṇā",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "states designation",
+     "morph": "f.nom.sg, past-passive-participle, √vac"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "repeated declaration, possibly emphatic or textual",
+     "morph": "f.nom.sg, past-passive-participle, √vac"
+    },
+    {
+     "surface": "mā+āvaraṇam",
+     "gloss": "enclosure",
+     "grounds": "compound naming an enclosure; first member unclear in isolation",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "points to the enclosure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is Tvaruṇā and this enclosure identified in the ritual description?",
+   "premises": [
+    "Tvaruṇā is declared.",
+    "The declaration is repeated.",
+    "This is identified as an enclosure."
+   ],
+   "inference": "Tvaruṇā is declared and this is identified as the stated enclosure.",
+   "uncertainties": [
+    "The first member of mā+āvaraṇam is unclear and may indicate a specific enclosure name or number.",
+    "The repetition of proktā may be emphatic or a textual duplication."
+   ],
+   "plain_english": "Tvaruṇā is declared, declared, and this is indeed the enclosure."
+  },
+  {
+   "verse": 4120,
+   "rows": [
+    {
+     "surface": "aṣṭama+āvaraṇam",
+     "gloss": "eighth-enclosure",
+     "grounds": "compound naming the eighth enclosure",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "points to the enclosure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturasra+dik+aṣṭake",
+     "gloss": "in-eight-directions-of-square",
+     "grounds": "compound indicating location in the eight directions of the square",
+     "morph": "compound, n.loc.sg"
+    }
+   ],
+   "question": "Where is the eighth enclosure located within the ritual diagram?",
+   "premises": [
+    "This is identified as the eighth enclosure.",
+    "Its location is specified in the eight directions of the square.",
+    "The verse defines its placement."
+   ],
+   "inference": "The eighth enclosure is located in the eight directions of the square.",
+   "uncertainties": [],
+   "plain_english": "And this is the eighth enclosure, in the eight directions of the square."
+  },
+  {
+   "verse": 4121,
+   "rows": [
+    {
+     "surface": "sampūjayet+devīṃ",
+     "gloss": "one-should-worship-goddess",
+     "grounds": "compound expressing worship of the goddess",
+     "morph": "compound, 3.sg.optative-active + f.acc.sg"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "her",
+     "grounds": "refers to the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mudrāḥ",
+     "gloss": "hand-gestures",
+     "grounds": "ritual gestures to be displayed",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "one-should-display",
+     "grounds": "injunction to show the gestures",
+     "morph": "3.sg.optative-causative-active, √dṛś"
+    }
+   ],
+   "question": "What ritual actions must accompany the worship of the goddess at this point?",
+   "premises": [
+    "The goddess should be worshipped.",
+    "Her hand gestures are specified.",
+    "The gestures should be displayed."
+   ],
+   "inference": "One should worship the goddess and display her hand gestures.",
+   "uncertainties": [],
+   "plain_english": "One should worship the goddess and display her hand gestures."
+  },
+  {
+   "verse": 4122,
+   "rows": [
+    {
+     "surface": "caturviṃśati+lakṣāṇi",
+     "gloss": "twenty-four-hundred-thousands",
+     "grounds": "compound numeral specifying quantity",
+     "morph": "compound, n.nom.pl"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "names the preparatory ritual",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "defines the term or practice",
+     "morph": "3.sg.present-passive, √vac"
+    }
+   ],
+   "question": "What quantity of recitation is defined as the preliminary rite here?",
+   "premises": [
+    "Twenty-four hundred-thousands are specified.",
+    "This quantity is linked to puraścaraṇa.",
+    "The practice is explicitly named."
+   ],
+   "inference": "The preliminary rite is defined as twenty-four hundred-thousands.",
+   "uncertainties": [
+    "The unit being counted (repetitions, syllables, etc.) is not explicitly stated in this verse."
+   ],
+   "plain_english": "Twenty-four hundred-thousands are called the preliminary rite."
+  },
+  {
+   "verse": 4123,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral specifying quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "injunction to perform fire offering",
+     "morph": "3.sg.optative-active, √hu"
+    },
+    {
+     "surface": "mantra+siddhaye",
+     "gloss": "for-mantra-accomplishment",
+     "grounds": "compound stating the purpose",
+     "morph": "compound, f.dat.sg"
+    }
+   ],
+   "question": "What fire offering is prescribed for the accomplishment of the mantra?",
+   "premises": [
+    "A thousand offerings are specified.",
+    "One should perform a fire offering.",
+    "The purpose is mantra accomplishment."
+   ],
+   "inference": "One should offer a thousand oblations for the accomplishment of the mantra.",
+   "uncertainties": [
+    "The substance of the oblation is not specified in this verse."
+   ],
+   "plain_english": "One should indeed offer a thousand oblations for the accomplishment of the mantra."
+  },
+  {
+   "verse": 4124,
+   "rows": [
+    {
+     "surface": "prayogān",
+     "gloss": "applications",
+     "grounds": "ritual applications or procedures",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "injunction to carry out",
+     "morph": "3.sg.optative-active, √car"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg, present-participle, √vid"
+    },
+    {
+     "surface": "tat+anujñā+purassaram",
+     "gloss": "with-her-permission-beforehand",
+     "grounds": "compound indicating prior permission from her",
+     "morph": "compound, (indecl.)"
+    }
+   ],
+   "question": "Under what condition should the knowledgeable practitioner perform the ritual applications?",
+   "premises": [
+    "The wise one should perform the applications.",
+    "Her permission is required beforehand.",
+    "The action is conditioned on that permission."
+   ],
+   "inference": "The knowledgeable practitioner should perform the applications only with her prior permission.",
+   "uncertainties": [
+    "The referent of 'her' (tat) is not explicitly named in this verse but likely refers to the goddess."
+   ],
+   "plain_english": "The wise one should perform the applications with her permission beforehand."
+  }
+ ]
+}

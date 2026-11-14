@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "proktakrameṇa",
+     "gloss": "by-prescribed-method",
+     "grounds": "instrumental of the compound prokta-krama, indicating worship by the method already stated",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "told",
+     "grounds": "feminine nominative plural participle agreeing with śaktīḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "feminine accusative plural object of pūjayet",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "third singular active optative of root pūj expressing ritual obligation",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle closing the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what prescribed method should the previously described powers be worshipped?",
+   "premises": [
+    "Powers have been described previously.",
+    "Worship follows the prescribed method.",
+    "The optative expresses obligation."
+   ],
+   "inference": "The practitioner should worship the described powers by the prescribed method.",
+   "uncertainties": [
+    "The exact set of powers referred to by proktāḥ is not specified in this excerpt."
+   ],
+   "plain_english": "By the prescribed method, one should worship the powers that have been described; thus."
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "song": "sva-p07",
+ "items": [
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "yāḥ",
+     "gloss": "those",
+     "grounds": "relative pronoun feminine plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prāgādidigaṣṭasthāḥ",
+     "gloss": "east-etc-eight-directions",
+     "grounds": "compound adjective describing eight directional stations",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative feminine plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "desired",
+     "grounds": "locative singular neuter adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "rite",
+     "grounds": "locative singular neuter noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "indeclinable gloss marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which directional stations are intended for the desired rite?",
+   "premises": [
+    "eight directional stations are named",
+    "the rite is desired",
+    "the gloss marks meaning"
+   ],
+   "inference": "The eight directional stations are those meant for the desired rite.",
+   "uncertainties": [
+    "directional compound not expanded"
+   ],
+   "plain_english": "Those eight stations beginning with the east are the ones for the desired rite; that is the meaning."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "jihvāsaṃnidhiḥ",
+     "gloss": "tongue-presence",
+     "grounds": "compound noun nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "third singular present active of as",
+     "morph": "3.sg.act-pres √as"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra syllable indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be present at the tongue?",
+   "premises": [
+    "tongue-presence is stated",
+    "svāhā is invoked",
+    "thus marks the formula"
+   ],
+   "inference": "The tongue-presence should be svāhā.",
+   "uncertainties": [
+    "exact ritual placement unspecified"
+   ],
+   "plain_english": "Let there be tongue-presence: svāhā; thus."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "śaktirūpam",
+     "gloss": "power-form",
+     "grounds": "compound adjective accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "genitive singular masculine pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-appoint",
+     "grounds": "third singular causative optative of kḷp",
+     "morph": "3.sg.caus-opt √kḷp"
+    }
+   ],
+   "question": "What seat should be appointed for him?",
+   "premises": [
+    "the seat is power-form",
+    "the seat belongs to him",
+    "appointment is prescribed"
+   ],
+   "inference": "One should appoint his seat in power-form.",
+   "uncertainties": [
+    "referent of asya not explicit"
+   ],
+   "plain_english": "One should appoint his seat in the form of power."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "gatārtham",
+     "gloss": "completed-meaning",
+     "grounds": "compound adjective accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the status of this statement?",
+   "premises": [
+    "this is marked completed-meaning",
+    "the statement is this",
+    "no further action follows"
+   ],
+   "inference": "This statement has completed meaning.",
+   "uncertainties": [
+    "scope of completed meaning"
+   ],
+   "plain_english": "This is already explained; its meaning is completed."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃsākṣareṇa",
+     "gloss": "haṃsa-syllable",
+     "grounds": "instrumental singular neuter noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means is the prior procedure repeated?",
+   "premises": [
+    "the procedure is as before",
+    "the haṃsa syllable is used",
+    "only emphasizes exclusivity"
+   ],
+   "inference": "The prior procedure is repeated only by the haṃsa syllable.",
+   "uncertainties": [
+    "exact prior procedure unspecified"
+   ],
+   "plain_english": "As before, only by the haṃsa syllable."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "śodhyādhvānam",
+     "gloss": "purify-path",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental singular masculine relative pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "adhvanā",
+     "gloss": "path",
+     "grounds": "instrumental singular masculine noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "accusative singular feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cikīrṣati",
+     "gloss": "wishes",
+     "grounds": "third singular desiderative present of kṛ",
+     "morph": "3.sg.desid-pres √kṛ"
+    }
+   ],
+   "question": "By what path does the guru wish to perform initiation?",
+   "premises": [
+    "the path is to be purified",
+    "the guru wishes initiation",
+    "the path is the means"
+   ],
+   "inference": "The guru wishes to perform initiation by the path that is to be purified.",
+   "uncertainties": [
+    "whether adhvanā repeats yena"
+   ],
+   "plain_english": "The guru wishes to perform initiation by the path that is to be purified."
+  }
+ ]
+}

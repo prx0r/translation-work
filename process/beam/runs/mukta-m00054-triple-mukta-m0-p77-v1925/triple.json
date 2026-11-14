@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "pītamīlyāmbaradharā",
+     "gloss": "wearing-yellow-garland-garment",
+     "grounds": "bahuvrīhi compound: pīta (yellow) + mālya (garland) + ambara (garment) + dharā (bearing/wearing), describing the goddess",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "pītābhā",
+     "gloss": "having-yellow-splendor",
+     "grounds": "bahuvrīhi compound: pīta (yellow) + ābhā (splendor/radiance), describing the goddess",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "piṅgamūrddhajā",
+     "gloss": "having-tawny-hair",
+     "grounds": "bahuvrīhi compound: piṅga (tawny) + mūrddhaja (hair, head-born), describing the goddess",
+     "morph": "compound.f.nom.sg"
+    }
+   ],
+   "question": "What specific colors and adornments characterize the goddess's visible form?",
+   "premises": [
+    "The goddess wears yellow garlands and yellow garments.",
+    "The goddess possesses a yellow radiance or splendor.",
+    "The goddess has tawny hair upon her head."
+   ],
+   "inference": "These attributes together depict the goddess in a distinctly yellow and tawny visible form.",
+   "uncertainties": [
+    "The spelling mīlya in pītamīlyāmbaradharā may reflect a variant of mālya (garland)."
+   ],
+   "plain_english": "She wears yellow garlands and yellow garments, shines with a yellow radiance, and has tawny hair."
+  }
+ ]
+}

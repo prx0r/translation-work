@@ -1,0 +1,987 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4226,
+   "rows": [
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive expressing prior state",
+     "morph": "gerund √bhū"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "subject who becomes hostile",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yama+puram",
+     "gloss": "yama-city",
+     "grounds": "destination compound; city of Yama",
+     "morph": "compound yama+puram acc.sg.nt"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "resulting motion to death realm",
+     "morph": "3.sg.opt.act √vraj"
+    }
+   ],
+   "question": "What fate befalls one who becomes an enemy through this rite?",
+   "premises": [
+    "The subject becomes an enemy.",
+    "The enemy goes to Yama's city.",
+    "The optative expresses the intended outcome."
+   ],
+   "inference": "Becoming an enemy through this rite leads to death.",
+   "uncertainties": [],
+   "plain_english": "Having become an enemy, he should go to the city of Yama."
+  },
+  {
+   "verse": 4227,
+   "rows": [
+    {
+     "surface": "vṛṣṭi+kāle",
+     "gloss": "rain-time",
+     "grounds": "time compound specifying occasion",
+     "morph": "compound vṛṣṭi+kāle loc.sg.m"
+    },
+    {
+     "surface": "marīcaiḥ",
+     "gloss": "with-pepper",
+     "grounds": "ritual substance used in the act",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "mantra employed in the rite",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "with-this",
+     "grounds": "demonstrative specifying the mantra",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "At what time and with what means is the ritual act performed?",
+   "premises": [
+    "The act occurs at the time of rain.",
+    "Pepper is used as a ritual substance.",
+    "This specific mantra is employed."
+   ],
+   "inference": "The rite is performed during rain using pepper and this mantra.",
+   "uncertainties": [],
+   "plain_english": "At the time of rain, with pepper and with this mantra."
+  },
+  {
+   "verse": 4228,
+   "rows": [
+    {
+     "surface": "samālikhya",
+     "gloss": "having-written",
+     "grounds": "absolutive indicating preparatory act",
+     "morph": "gerund sam+ā+√likh"
+    },
+    {
+     "surface": "śatru+nāma",
+     "gloss": "enemy-name",
+     "grounds": "object compound naming the target",
+     "morph": "compound śatru+nāma acc.sg.nt"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable prescribing proper procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the enemy's name be prepared for the ritual procedure?",
+   "premises": [
+    "The enemy's name is written down.",
+    "The writing is a preparatory act.",
+    "The act must follow prescribed rules."
+   ],
+   "inference": "The enemy's name should be written according to rule.",
+   "uncertainties": [],
+   "plain_english": "Having written the enemy's name according to rule."
+  },
+  {
+   "verse": 4229,
+   "rows": [
+    {
+     "surface": "hanet",
+     "gloss": "should-strike",
+     "grounds": "ritual striking action",
+     "morph": "3.sg.opt.act √han"
+    },
+    {
+     "surface": "kraddhaḥ",
+     "gloss": "angry",
+     "grounds": "emotional state of the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jvara+ākrāntaḥ",
+     "gloss": "fever-afflicted",
+     "grounds": "resulting condition of the target",
+     "morph": "compound jvara+ākrāntaḥ m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "refers to the enemy target",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "states the resulting transformation",
+     "morph": "3.sg.pres.mid √jan"
+    }
+   ],
+   "question": "What condition afflicts the enemy when struck in anger by this rite?",
+   "premises": [
+    "The practitioner strikes in anger.",
+    "The enemy is the target of the strike.",
+    "The enemy becomes afflicted with fever."
+   ],
+   "inference": "Striking in anger causes the enemy to become fever-afflicted.",
+   "uncertainties": [],
+   "plain_english": "Striking in anger, he becomes afflicted with fever."
+  },
+  {
+   "verse": 4230,
+   "rows": [
+    {
+     "surface": "hiṅgum",
+     "gloss": "asafoetida",
+     "grounds": "ritual substance",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "ritual substance",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "jīraka+lohite",
+     "gloss": "cumin-blood",
+     "grounds": "compound indicating mixture or location; cumin and blood",
+     "morph": "compound jīraka+lohite loc.sg.nt"
+    }
+   ],
+   "question": "Which substances are combined as materials for the hostile ritual?",
+   "premises": [
+    "Asafoetida is included as a substance.",
+    "Poison is included as a substance.",
+    "Cumin and blood form part of the mixture."
+   ],
+   "inference": "The rite uses asafoetida, poison, cumin, and blood.",
+   "uncertainties": [
+    "Exact interpretation of jīraka+lohite as mixture or location is unclear."
+   ],
+   "plain_english": "Asafoetida, poison, in cumin and blood."
+  },
+  {
+   "verse": 4231,
+   "rows": [
+    {
+     "surface": "vinikṣipya",
+     "gloss": "having-thrown-in",
+     "grounds": "absolutive indicating placement of substances",
+     "morph": "gerund vi+ni+√kṣip"
+    },
+    {
+     "surface": "yaṣṭyā",
+     "gloss": "with-stick",
+     "grounds": "instrument used for stirring or striking",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "viṣa+taru+utthayā",
+     "gloss": "poison-tree-arisen",
+     "grounds": "compound describing origin of the stick",
+     "morph": "compound viṣa+taru+utthayā inst.sg.f"
+    }
+   ],
+   "question": "With what kind of implement are the ritual substances handled?",
+   "premises": [
+    "The substances are thrown in.",
+    "A stick is used as the implement.",
+    "The stick comes from a poisonous tree."
+   ],
+   "inference": "The substances are handled with a stick from a poisonous tree.",
+   "uncertainties": [],
+   "plain_english": "Having thrown them in with a stick taken from a poisonous tree."
+  },
+  {
+   "verse": 4232,
+   "rows": [
+    {
+     "surface": "saptāhāt",
+     "gloss": "in-seven-days",
+     "grounds": "time limit for the result",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "maraṇam",
+     "gloss": "death",
+     "grounds": "outcome suffered by the enemy",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes-to",
+     "grounds": "verb expressing attainment of death",
+     "morph": "3.sg.pres.act √yā"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "target of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jvara+vimohitaḥ",
+     "gloss": "fever-deluded",
+     "grounds": "compound describing the enemy's condition",
+     "morph": "compound jvara+vimohitaḥ m.nom.sg"
+    }
+   ],
+   "question": "What fatal outcome overtakes the enemy within seven days of this rite?",
+   "premises": [
+    "The enemy becomes deluded by fever.",
+    "The time frame is seven days.",
+    "The enemy goes to death."
+   ],
+   "inference": "Within seven days the fever-deluded enemy dies.",
+   "uncertainties": [],
+   "plain_english": "Within seven days the enemy, deluded by fever, meets death."
+  },
+  {
+   "verse": 4233,
+   "rows": [
+    {
+     "surface": "lipta+aṅgam",
+     "gloss": "smeared-body",
+     "grounds": "compound describing prepared object or effigy",
+     "morph": "compound lipta+aṅgam acc.sg.nt"
+    },
+    {
+     "surface": "dagdhaṃ",
+     "gloss": "burnt",
+     "grounds": "past participle indicating burning",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "bhānu+marīcibhiḥ",
+     "gloss": "sun-rays",
+     "grounds": "instrumental compound indicating means of burning",
+     "morph": "compound bhānu+marīcibhiḥ inst.pl.m"
+    }
+   ],
+   "question": "How is the smeared body prepared using the rays of the sun?",
+   "premises": [
+    "A body or form is smeared.",
+    "It is burnt.",
+    "The burning is done by the sun's rays."
+   ],
+   "inference": "The smeared body is burnt by the rays of the sun.",
+   "uncertainties": [
+    "Whether lipta+aṅgam refers to an effigy or a substance is unclear."
+   ],
+   "plain_english": "A smeared body, burnt by the rays of the sun."
+  },
+  {
+   "verse": 4234,
+   "rows": [
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer",
+     "grounds": "ritual offering action",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    },
+    {
+     "surface": "bhānum",
+     "gloss": "sun",
+     "grounds": "deity or object of offering",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ālokya",
+     "gloss": "having-looked-at",
+     "grounds": "absolutive indicating visual focus",
+     "morph": "gerund ā+√lok"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "target affected by the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyu+priyaḥ",
+     "gloss": "death-fond",
+     "grounds": "compound describing the enemy's fate",
+     "morph": "compound mṛtyu+priyaḥ m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "resulting state of the enemy",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What fate befalls the enemy when the sun is propitiated while being gazed upon?",
+   "premises": [
+    "One should offer to the sun.",
+    "The offering is done while looking at the sun.",
+    "The enemy becomes fond of death."
+   ],
+   "inference": "Propitiating the sun in this way makes the enemy death-bound.",
+   "uncertainties": [],
+   "plain_english": "Having looked at the sun, one should offer to it; the enemy should become fond of death."
+  },
+  {
+   "verse": 4235,
+   "rows": [
+    {
+     "surface": "vidveṣayet",
+     "gloss": "should-cause-enmity",
+     "grounds": "causative ritual action",
+     "morph": "3.sg.opt.caus.act vi+√dviṣ"
+    },
+    {
+     "surface": "śatrum",
+     "gloss": "enemy",
+     "grounds": "target of enmity",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nakhena",
+     "gloss": "with-nail",
+     "grounds": "instrument used in the rite",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "āhṛtya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating preparatory action",
+     "morph": "gerund ā+√hṛ"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "ritual practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who performs the rite to cause enmity and with what instrument?",
+   "premises": [
+    "The teacher performs the act.",
+    "The act is done using a nail.",
+    "The purpose is to cause enmity in the enemy."
+   ],
+   "inference": "The teacher should cause enmity in the enemy using a nail.",
+   "uncertainties": [],
+   "plain_english": "Having taken with a nail, the teacher should cause enmity in the enemy."
+  },
+  {
+   "verse": 4236,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "general ritual action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "senāyāḥ",
+     "gloss": "of-army",
+     "grounds": "target group affected",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative particle emphasizing certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certainty is asserted about performing this rite against an army?",
+   "premises": [
+    "The rite can be done against an army.",
+    "The text asserts no doubt exists.",
+    "The statement emphasizes efficacy."
+   ],
+   "inference": "This rite can be performed against an army without doubt.",
+   "uncertainties": [],
+   "plain_english": "One should do this to an army; there is no doubt here."
+  },
+  {
+   "verse": 4237,
+   "rows": [
+    {
+     "surface": "vimohayet",
+     "gloss": "should-delude",
+     "grounds": "causative ritual effect",
+     "morph": "3.sg.opt.caus.act vi+√muh"
+    },
+    {
+     "surface": "śatrum",
+     "gloss": "enemy",
+     "grounds": "target of delusion",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "maricaiḥ",
+     "gloss": "with-pepper",
+     "grounds": "ritual substance",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa+sarṣapaiḥ",
+     "gloss": "with-mustard-seeds",
+     "grounds": "compound indicating accompaniment; with mustard seeds",
+     "morph": "compound sa+sarṣapaiḥ inst.pl.m"
+    }
+   ],
+   "question": "Which alternative substances can be used to delude the enemy?",
+   "premises": [
+    "The rite aims to delude the enemy.",
+    "Pepper can be used.",
+    "Mustard seeds can be used as an alternative."
+   ],
+   "inference": "The enemy can be deluded using pepper or mustard seeds.",
+   "uncertainties": [],
+   "plain_english": "One should delude the enemy with pepper or with mustard seeds."
+  },
+  {
+   "verse": 4238,
+   "rows": [
+    {
+     "surface": "prajuhuyāt",
+     "gloss": "should-offer-oblations",
+     "grounds": "fire offering action",
+     "morph": "3.sg.opt.act pra+√hu"
+    },
+    {
+     "surface": "jayet",
+     "gloss": "should-conquer",
+     "grounds": "resulting victory",
+     "morph": "3.sg.opt.act √ji"
+    },
+    {
+     "surface": "māsena",
+     "gloss": "in-a-month",
+     "grounds": "time frame for result",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "vairiṇam",
+     "gloss": "enemy",
+     "grounds": "target to be conquered",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What result follows from offering oblations within the span of a month?",
+   "premises": [
+    "Oblations are offered in the rite.",
+    "The time frame is one month.",
+    "The enemy is conquered."
+   ],
+   "inference": "By offering oblations one conquers the enemy within a month.",
+   "uncertainties": [],
+   "plain_english": "One should offer oblations and conquer the enemy within a month."
+  },
+  {
+   "verse": 4239,
+   "rows": [
+    {
+     "surface": "śarān",
+     "gloss": "arrows",
+     "grounds": "objects visualized or used",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "kārmuka+nirmuktān",
+     "gloss": "bow-released",
+     "grounds": "compound describing arrows shot from bow",
+     "morph": "compound kārmuka+nirmuktān acc.pl.m"
+    },
+    {
+     "surface": "vahni+jvālā+mukha+kalān",
+     "gloss": "fire-flame-mouth-parts",
+     "grounds": "compound describing fiery arrow tips or parts",
+     "morph": "compound vahni+jvālā+mukha+kalān acc.pl.m"
+    }
+   ],
+   "question": "What kind of arrows are envisioned in this stage of the ritual?",
+   "premises": [
+    "Arrows are the objects in view.",
+    "They are released from a bow.",
+    "They have parts like mouths of fire flames."
+   ],
+   "inference": "The rite envisions arrows released from a bow with fire-flame mouths.",
+   "uncertainties": [
+    "Exact sense of kalān in this compound is uncertain."
+   ],
+   "plain_english": "Arrows released from the bow, with parts like mouths of fire flames."
+  },
+  {
+   "verse": 4240,
+   "rows": [
+    {
+     "surface": "bhānu+bimbam",
+     "gloss": "sun-disc",
+     "grounds": "object of visual focus",
+     "morph": "compound bhānu+bimbam acc.sg.nt"
+    },
+    {
+     "surface": "samālokya",
+     "gloss": "having-gazed-at",
+     "grounds": "absolutive indicating focused looking",
+     "morph": "gerund sam+ā+√lok"
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "target of the effect",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "uccāṭanam",
+     "gloss": "eradication",
+     "grounds": "ritual effect of driving away",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting effect",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What effect on the enemy results from gazing at the sun's disc?",
+   "premises": [
+    "One gazes at the sun's disc.",
+    "The enemy is the target.",
+    "Eradication of the enemy occurs."
+   ],
+   "inference": "Gazing at the sun's disc brings about the enemy's eradication.",
+   "uncertainties": [],
+   "plain_english": "Having gazed at the sun's disc, there should be eradication of the enemy."
+  },
+  {
+   "verse": 4241,
+   "rows": [
+    {
+     "surface": "senāyāḥ",
+     "gloss": "of-army",
+     "grounds": "target group affected",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "stambhanam",
+     "gloss": "paralysis",
+     "grounds": "ritual effect of immobilization",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting effect",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What immobilizing effect can be produced upon an enemy army?",
+   "premises": [
+    "An army is the target.",
+    "Paralysis is the stated effect.",
+    "The effect is produced by the rite."
+   ],
+   "inference": "The rite can cause paralysis of an army.",
+   "uncertainties": [],
+   "plain_english": "There should be paralysis of the army."
+  },
+  {
+   "verse": 4242,
+   "rows": [
+    {
+     "surface": "saptāhāt",
+     "gloss": "in-seven-days",
+     "grounds": "time frame for the result",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "maṃtra+vit",
+     "gloss": "mantra-knower",
+     "grounds": "compound identifying the practitioner",
+     "morph": "compound maṃtra+vit m.nom.sg"
+    },
+    {
+     "surface": "vaśayet",
+     "gloss": "should-subdue",
+     "grounds": "causative ritual effect of control",
+     "morph": "3.sg.opt.caus.act √vaś"
+    },
+    {
+     "surface": "nṛpān",
+     "gloss": "kings",
+     "grounds": "targets to be subdued",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "Whom can a knower of mantra subdue within seven days?",
+   "premises": [
+    "The practitioner is a knower of mantra.",
+    "The time frame is seven days.",
+    "Kings are brought under control."
+   ],
+   "inference": "A mantra-knower can subdue kings within seven days.",
+   "uncertainties": [],
+   "plain_english": "Within seven days the knower of mantra should subdue kings."
+  },
+  {
+   "verse": 4243,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "minister",
+     "grounds": "subject who gains control",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the subdued king or context",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "viśvam",
+     "gloss": "world",
+     "grounds": "object brought under control",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "under-control",
+     "grounds": "state of subjugation",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What extent of control does the minister gain as a result of this rite?",
+   "premises": [
+    "The minister is the beneficiary.",
+    "The world becomes the object of control.",
+    "The world comes under his control."
+   ],
+   "inference": "Through this rite the minister brings the world under control.",
+   "uncertainties": [
+    "The referent of tasya is contextually ambiguous."
+   ],
+   "plain_english": "His minister should bring the whole world under control."
+  },
+  {
+   "verse": 4244,
+   "rows": [
+    {
+     "surface": "vetasaiḥ",
+     "gloss": "with-reeds",
+     "grounds": "ritual offering material",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "madhura+āsiktaiḥ",
+     "gloss": "honey-smeared",
+     "grounds": "compound describing reeds coated with honey",
+     "morph": "compound madhura+āsiktaiḥ inst.pl.m"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer-oblations",
+     "grounds": "fire offering action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "bṛtti+siddhaye",
+     "gloss": "for-livelihood-accomplishment",
+     "grounds": "compound expressing purpose of the rite",
+     "morph": "compound bṛtti+siddhaye dat.sg.f"
+    }
+   ],
+   "question": "For what purpose are honey-smeared reeds offered in the fire?",
+   "premises": [
+    "Reeds smeared with honey are used.",
+    "They are offered as oblations.",
+    "The purpose is accomplishment of livelihood."
+   ],
+   "inference": "Offering honey-smeared reeds brings accomplishment of livelihood.",
+   "uncertainties": [],
+   "plain_english": "One should offer oblations with reeds smeared with honey for the accomplishment of livelihood."
+  },
+  {
+   "verse": 4245,
+   "rows": [
+    {
+     "surface": "mantra+vit",
+     "gloss": "mantra-knower",
+     "grounds": "qualified practitioner",
+     "morph": "compound mantra+vit m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative particle emphasizing certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certainty is affirmed for the mantra-knower performing this rite?",
+   "premises": [
+    "The practitioner is a knower of mantra.",
+    "The text denies doubt.",
+    "The efficacy of the rite is affirmed."
+   ],
+   "inference": "There is no doubt about the result for the mantra-knower.",
+   "uncertainties": [],
+   "plain_english": "For the knower of mantra, there is no doubt here."
+  },
+  {
+   "verse": 4246,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connects to previous teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya+ādyāḥ",
+     "gloss": "other-beginning",
+     "grounds": "compound indicating syllables beginning differently",
+     "morph": "compound anya+ādyāḥ f.nom.pl"
+    },
+    {
+     "surface": "gāni",
+     "gloss": "syllables",
+     "grounds": "mantra components; reading as syllables/letters",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durgā",
+     "grounds": "name of the mantra form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "states traditional designation",
+     "morph": "f.nom.sg past-participle pra+√kīrt"
+    }
+   ],
+   "question": "How are the syllables beginning otherwise designated in this mantra teaching?",
+   "premises": [
+    "Other initial syllables are considered.",
+    "These syllables are identified as a form.",
+    "The form is declared as Durgā."
+   ],
+   "inference": "Syllables beginning otherwise are declared as Durgā.",
+   "uncertainties": [
+    "The exact syllabic reading of gāni is uncertain."
+   ],
+   "plain_english": "Likewise, other initial syllables are declared as Durgā."
+  },
+  {
+   "verse": 4247,
+   "rows": [
+    {
+     "surface": "viśvā+ādyā",
+     "gloss": "viśvā-beginning",
+     "grounds": "compound indicating mantra beginning with viśvā",
+     "morph": "compound viśvā+ādyā f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃtre+asmin",
+     "gloss": "in-this-mantra",
+     "grounds": "locative compound specifying context",
+     "morph": "compound maṃtre+asmin loc.sg.m"
+    },
+    {
+     "surface": "viśva+durgā",
+     "gloss": "viśva-durgā",
+     "grounds": "name of the mantra form",
+     "morph": "compound viśva+durgā f.nom.sg"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "states traditional designation",
+     "morph": "f.nom.sg past-participle sam+√īr"
+    }
+   ],
+   "question": "What name is given to this mantra when it begins with viśvā?",
+   "premises": [
+    "The mantra begins with viśvā.",
+    "This occurs in this mantra context.",
+    "It is declared as Viśvadurgā."
+   ],
+   "inference": "When beginning with viśvā, the mantra is called Viśvadurgā.",
+   "uncertainties": [],
+   "plain_english": "And indeed, beginning with viśvā in this mantra, it is declared as Viśvadurgā."
+  },
+  {
+   "verse": 4248,
+   "rows": [
+    {
+     "surface": "tyāṃ+tām",
+     "gloss": "ending-in-tyā",
+     "grounds": "compound indicating mantra ending element",
+     "morph": "compound tyāṃ+tām acc.sg.f"
+    },
+    {
+     "surface": "agni+ādikām",
+     "gloss": "beginning-with-agni",
+     "grounds": "compound indicating mantra beginning with agni",
+     "morph": "compound agni+ādikām acc.sg.f"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agni+durgām",
+     "gloss": "agni-durgā",
+     "grounds": "name of the mantra form",
+     "morph": "compound agni+durgām acc.sg.f"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "states traditional knowledge",
+     "morph": "3.pl.perf.act √vid"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise",
+     "grounds": "knowers of the tradition",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What designation do the wise assign to the mantra beginning with agni and ending in tyā?",
+   "premises": [
+    "The mantra begins with agni.",
+    "The mantra ends in tyā.",
+    "The wise know it as Agnidurgā."
+   ],
+   "inference": "The wise designate this form as Agnidurgā.",
+   "uncertainties": [],
+   "plain_english": "Thus, beginning with agni and ending in tyā, the wise know it as Agnidurgā."
+  },
+  {
+   "verse": 4249,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative particle referring to that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "ritual worship action",
+     "morph": "3.sg.opt.caus.act √ṛc"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "daily",
+     "grounds": "indicates regular practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāk+uktena",
+     "gloss": "previously-stated",
+     "grounds": "compound referring to earlier instruction",
+     "morph": "compound prāk+uktena inst.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "path",
+     "grounds": "method or procedure of worship",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "By what method should daily worship be performed in that context?",
+   "premises": [
+    "Worship should be performed there.",
+    "The worship is to be done daily.",
+    "It follows the previously stated path."
+   ],
+   "inference": "Daily worship should be performed by the previously stated method.",
+   "uncertainties": [],
+   "plain_english": "There one should worship daily by the path previously stated."
+  }
+ ]
+}

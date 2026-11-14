@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "ṣaṭcakre",
+     "gloss": "in-six-chakra",
+     "grounds": "locative of compound ṣaṭ-cakra indicating locus of practice",
+     "morph": "compound; n.loc.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-lady",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "accusative expressing duration of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior contemplative act",
+     "morph": "gerund(dhyai)"
+    },
+    {
+     "surface": "japenmanum",
+     "gloss": "one-should-chant-mantra",
+     "grounds": "fused form containing optative of jap and accusative manum; mantra to be recited",
+     "morph": "fused(jap:3.sg.opt.act+manu:m.acc.sg)"
+    }
+   ],
+   "question": "What ritual action follows momentary meditation within the six-chakra?",
+   "premises": [
+    "The six-chakra is the locus of practice.",
+    "Meditation is performed for a moment.",
+    "Mantra recitation follows the meditation."
+   ],
+   "inference": "After briefly meditating in the six-chakra, one should chant the mantra.",
+   "uncertainties": [
+    "The specific mantra referred to by manum is not identified in this verse."
+   ],
+   "plain_english": "O supreme lady, having meditated for a moment in the six-chakra, one should chant the mantra."
+  }
+ ]
+}

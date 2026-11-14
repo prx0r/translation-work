@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "dakṣa+pādam",
+     "gloss": "right+foot",
+     "grounds": "compound object indicating the right foot placed forward; internal compound boundary marked by +",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "puraskṛtya",
+     "gloss": "placing-forward",
+     "grounds": "absolutive expressing the preparatory bodily action preceding the main rite",
+     "morph": "(indecl., gerund, pra-√kṛ)"
+    },
+    {
+     "surface": "dakṣaḥ",
+     "gloss": "skilled-one",
+     "grounds": "subject, the competent ritual practitioner performing the oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrṇā+āhutiṃ",
+     "gloss": "full+oblation",
+     "grounds": "compound object denoting the complete offering to be made; internal compound boundary marked by +",
+     "morph": "compound.acc.sg.f"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive verb directing the ritual action",
+     "morph": "3.sg.opt.act, √car"
+    }
+   ],
+   "question": "What posture and action must the skilled practitioner adopt when performing the full oblation?",
+   "premises": [
+    "The skilled practitioner places the right foot forward.",
+    "The full oblation is the prescribed ritual act.",
+    "The preparatory posture accompanies the performance of the oblation."
+   ],
+   "inference": "Therefore, the skilled practitioner should perform the full oblation while placing the right foot forward.",
+   "uncertainties": [],
+   "plain_english": "Placing the right foot forward, the skilled practitioner should perform the full oblation."
+  }
+ ]
+}

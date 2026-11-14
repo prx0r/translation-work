@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "kāṇva",
+     "gloss": "kāṇva",
+     "grounds": "name of a Vedic recension or school",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "[k, kh, gh: kārṇa]",
+     "gloss": "kārṇa",
+     "grounds": "textual variant reading for the preceding or associated name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mādhyandina+saṃjñā",
+     "gloss": "named-mādhyandina",
+     "grounds": "compound naming the Mādhyandina recension",
+     "morph": "compound=mādhyandina+saṃjñā"
+    },
+    {
+     "surface": "kaṭhī",
+     "gloss": "kaṭha",
+     "grounds": "name of a Vedic school or recension",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prācya+kaṭhī",
+     "gloss": "eastern-kaṭha",
+     "grounds": "compound distinguishing the eastern Kaṭha branch",
+     "morph": "compound=prācya+kaṭhī"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the preceding enumeration or count to these schools",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Yajurvedic schools or recensions share the previously stated mantra count?",
+   "premises": [
+    "The preceding verse states a mantra count for the Yajus.",
+    "Kāṇva or Kārṇa is named as a recension.",
+    "Mādhyandina, Kaṭha, and eastern Kaṭha are named likewise."
+   ],
+   "inference": "The stated Yajus mantra count applies likewise to the Kāṇva or Kārṇa, Mādhyandina, Kaṭha, and eastern Kaṭha recensions.",
+   "uncertainties": [
+    "The exact scope of the variant reading marked by [k, kh, gh: kārṇa] is not fully specified."
+   ],
+   "plain_english": "Likewise, the Kāṇva (or Kārṇa), the one named Mādhyandina, the Kaṭha, and the eastern Kaṭha."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "pitṛ",
+     "gloss": "father's",
+     "grounds": "first member indicating paternal relation, likely in relation to bhrātā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhrātā",
+     "gloss": "brother",
+     "grounds": "male relative; with pitṛ may denote paternal uncle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "male parent as possible performer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "enjoins the performance of the rite",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "anna",
+     "gloss": "food",
+     "grounds": "first member of compound describing the rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aśana",
+     "gloss": "eating",
+     "grounds": "second member of compound describing the rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kriyām",
+     "gloss": "rite",
+     "grounds": "object of kuryāt; the act to be performed",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which male relatives are authorized to perform the food-eating rite?",
+   "premises": [
+    "A paternal uncle, a brother, or a father is named as a possible performer.",
+    "The action enjoined is the performance of a rite.",
+    "The rite specified is the eating of food."
+   ],
+   "inference": "A paternal uncle, brother, or father may perform the food-eating rite.",
+   "uncertainties": [
+    "Whether pitṛ and bhrātā form a single compound meaning paternal uncle or are to be read separately is context-dependent."
+   ],
+   "plain_english": "A paternal uncle, a brother, or even the father may perform the rite of eating food."
+  }
+ ]
+}

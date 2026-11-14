@@ -1,0 +1,545 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1601,
+   "rows": [
+    {
+     "surface": "yugānurūpam",
+     "gloss": "age-according-to",
+     "grounds": "compound of yuga and anurūpa",
+     "morph": "compound"
+    },
+    {
+     "surface": "akṣaratrilakṣādikaṃ",
+     "gloss": "syllable-three-hundred-thousand-etc",
+     "grounds": "compound of akṣara, tri-lakṣa, ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the prescribed syllable count vary according to age?",
+   "premises": [
+    "age determines the syllable count",
+    "the count is three hundred thousand syllables",
+    "the prior rule remains unchanged"
+   ],
+   "inference": "The ritual syllable count is fixed by age and follows the earlier pattern.",
+   "uncertainties": [
+    "exact age brackets are not specified"
+   ],
+   "plain_english": "The syllable count is according to age, three hundred thousand and so on, as before."
+  },
+  {
+   "verse": 1602,
+   "rows": [
+    {
+     "surface": "tailājyayoḥ",
+     "gloss": "of-sesame-oil-and-ghee",
+     "grounds": "genitive dual compound",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "miśrībhūtayoḥ",
+     "gloss": "of-mixed-together",
+     "grounds": "genitive dual participle",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "itiśeṣaḥ",
+     "gloss": "thus-ellipsis",
+     "grounds": "fused iti and śeṣaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anaśnan",
+     "gloss": "not-eating",
+     "grounds": "negative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "annam",
+     "gloss": "food",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "itiśeṣaḥ",
+     "gloss": "thus-ellipsis",
+     "grounds": "fused iti and śeṣaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dietary restriction applies when sesame oil and ghee are mixed?",
+   "premises": [
+    "sesame oil and ghee are mixed together",
+    "the practitioner is not eating",
+    "food is the object of abstention"
+   ],
+   "inference": "The mixed oil and ghee context accompanies a rule of not eating food.",
+   "uncertainties": [
+    "whether the restriction is total or partial is unclear"
+   ],
+   "plain_english": "When sesame oil and ghee are mixed, the rule is not eating food."
+  },
+  {
+   "verse": 1603,
+   "rows": [
+    {
+     "surface": "padmākṣaiḥ",
+     "gloss": "with-lotus-seeds",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "havanāt",
+     "gloss": "from-oblation",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "lakṣmīm",
+     "gloss": "prosperity",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb root āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tribhirdinaiḥ",
+     "gloss": "in-three-days",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What result follows from oblation with lotus seeds?",
+   "premises": [
+    "oblation is performed with lotus seeds",
+    "prosperity is obtained",
+    "the result comes in three days"
+   ],
+   "inference": "Oblation with lotus seeds brings prosperity within three days.",
+   "uncertainties": [
+    "whether the three days are consecutive is unspecified"
+   ],
+   "plain_english": "By oblation with lotus seeds, one obtains prosperity in three days."
+  },
+  {
+   "verse": 1604,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative singular",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vidhānāni",
+     "gloss": "procedures",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samāhitamanāṃ",
+     "gloss": "with-concentrated-mind",
+     "grounds": "compound of samāhita and manas",
+     "morph": "compound"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śivā",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should the concentrated listener hear about the procedures?",
+   "premises": [
+    "the listener is addressed as Śivā",
+    "the mind is concentrated",
+    "the procedures are in them"
+   ],
+   "inference": "The concentrated listener is told to hear the procedures contained in them.",
+   "uncertainties": [
+    "the referent of them is not explicit"
+   ],
+   "plain_english": "Hear, O Śivā, the procedures in them, with concentrated mind."
+  },
+  {
+   "verse": 1605,
+   "rows": [
+    {
+     "surface": "taiḥ",
+     "gloss": "with-those",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ṣoḍaśasvarayutaiḥ",
+     "gloss": "with-sixteen-vowels-joined",
+     "grounds": "compound of ṣoḍaśa, svara, yuta",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṣṭyāśatam",
+     "gloss": "with-sixty-hundred",
+     "grounds": "compound of ṣaṣṭi and śatam",
+     "morph": "compound"
+    },
+    {
+     "surface": "udīritaiḥ",
+     "gloss": "declared",
+     "grounds": "instrumental plural participle",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How many vowel-joined units are declared with those?",
+   "premises": [
+    "those units are joined with sixteen vowels",
+    "sixty and hundred are combined",
+    "the units are declared"
+   ],
+   "inference": "The declared units combine sixteen vowels with sixty and one hundred.",
+   "uncertainties": [
+    "the exact total is not stated"
+   ],
+   "plain_english": "With those, joined with sixteen vowels, sixty and one hundred are declared."
+  },
+  {
+   "verse": 1606,
+   "rows": [
+    {
+     "surface": "tadantara",
+     "gloss": "its-inside",
+     "grounds": "compound of tad and antara",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣṭakoṇaṃ",
+     "gloss": "eight-cornered-figure",
+     "grounds": "compound of aṣṭa and koṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadantar",
+     "gloss": "its-inside",
+     "grounds": "compound of tad and antar",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛttayugmakam",
+     "gloss": "circle-pair",
+     "grounds": "compound of vṛtta and yugmaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "What geometric figures lie inside and inside again?",
+   "premises": [
+    "inside it is an eight-cornered figure",
+    "and inside that is a pair of circles",
+    "the figures are nested"
+   ],
+   "inference": "The diagram contains an eight-cornered figure enclosing a pair of circles.",
+   "uncertainties": [
+    "the outer boundary is not named"
+   ],
+   "plain_english": "Inside it is an eight-cornered figure, and inside that a pair of circles."
+  },
+  {
+   "verse": 1607,
+   "rows": [
+    {
+     "surface": "vṛttayoḥ",
+     "gloss": "of-the-two-circles",
+     "grounds": "genitive dual",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "antarā",
+     "gloss": "in-the-space-between",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "the-remainder",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-the-corners",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭasu",
+     "gloss": "in-the-eight",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "Where is the remainder placed relative to the circles?",
+   "premises": [
+    "the remainder is between the two circles",
+    "the remainder is also outside",
+    "the remainder is in the eight corners"
+   ],
+   "inference": "The remainder is distributed between the circles, outside, and in the eight corners.",
+   "uncertainties": [
+    "whether the same remainder is repeated is unclear"
+   ],
+   "plain_english": "The remainder is between the two circles, outside, and in the eight corners."
+  },
+  {
+   "verse": 1608,
+   "rows": [
+    {
+     "surface": "karmānurūpān",
+     "gloss": "according-to-ritual",
+     "grounds": "compound of karma and anurūpa",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūtārṇān",
+     "gloss": "element-syllables",
+     "grounds": "compound of bhūta and arṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "daśabhūpuramadhyataḥ",
+     "gloss": "in-the-middle-of-ten-enclosures",
+     "grounds": "compound of daśa, bhūpura, madhya",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where are the ritual element syllables placed?",
+   "premises": [
+    "the syllables are according to ritual",
+    "they are element syllables",
+    "they are in the middle of ten enclosures"
+   ],
+   "inference": "Ritual element syllables are placed in the middle of ten enclosures.",
+   "uncertainties": [
+    "the exact syllable set is not listed"
+   ],
+   "plain_english": "The ritual element syllables are in the middle of ten enclosures."
+  },
+  {
+   "verse": 1609,
+   "rows": [
+    {
+     "surface": "antyaṃ",
+     "gloss": "the-last",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturṣu",
+     "gloss": "in-the-four",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "corners",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "śeṣāṇāṃ",
+     "gloss": "of-the-rest",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilekhane",
+     "gloss": "in-the-writing",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the last item written among the rest?",
+   "premises": [
+    "the last item is in four corners",
+    "the rest are also involved",
+    "the writing is the context"
+   ],
+   "inference": "The last item is written in four corners, with the rest also written.",
+   "uncertainties": [
+    "whether the rest fill other corners is unclear"
+   ],
+   "plain_english": "The last is in four corners, and the rest in the writing."
+  },
+  {
+   "verse": 1610,
+   "rows": [
+    {
+     "surface": "chāgamāṃsaiḥ",
+     "gloss": "with-goat-meat",
+     "grounds": "instrumental plural compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ityanvayaḥ",
+     "gloss": "thus-construal",
+     "grounds": "fused iti and anvayaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāgaḥ",
+     "gloss": "goat",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "meṣaḥ",
+     "gloss": "ram",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meat and animals are named in this construal?",
+   "premises": [
+    "goat meat is specified",
+    "the construal is thus",
+    "goat and ram are named"
+   ],
+   "inference": "The construal names goat meat, goat, and ram.",
+   "uncertainties": [
+    "the ritual use of the meat is not stated"
+   ],
+   "plain_english": "With goat meat, thus the construal: goat and ram."
+  },
+  {
+   "verse": 1611,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantrāṇi",
+     "gloss": "diagrams",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "are-born",
+     "grounds": "verb root jan",
+     "morph": "3.pl.mid-pres"
+    },
+    {
+     "surface": "daśasiddhyā",
+     "gloss": "of-ten-accomplishments",
+     "grounds": "instrumental singular compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "spadāni",
+     "gloss": "abodes",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the diagrams become abodes of ten accomplishments?",
+   "premises": [
+    "thus the diagrams are born",
+    "they are abodes",
+    "they belong to ten accomplishments"
+   ],
+   "inference": "The diagrams arise as abodes of ten accomplishments.",
+   "uncertainties": [
+    "the exact ten accomplishments are not named"
+   ],
+   "plain_english": "Thus the diagrams are born, abodes of ten accomplishments indeed."
+  },
+  {
+   "verse": 1612,
+   "rows": [
+    {
+     "surface": "saptamyāṃ",
+     "gloss": "on-the-seventh-day",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "in-the-three",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sandhyāsu",
+     "gloss": "junctions",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "sitāpūpasamanvitam",
+     "gloss": "with-white-cake-accompanied",
+     "grounds": "compound of sita, āpūpa, samanvita",
+     "morph": "compound"
+    }
+   ],
+   "question": "What offering accompanies the seventh-day junction rite?",
+   "premises": [
+    "the rite is on the seventh day",
+    "it occurs at three junctions",
+    "it is accompanied by white cake"
+   ],
+   "inference": "The seventh-day rite at three junctions includes white cake.",
+   "uncertainties": [
+    "whether the cake is offered or consumed is unclear"
+   ],
+   "plain_english": "On the seventh day, at three junctions, accompanied by white cake."
+  }
+ ]
+}

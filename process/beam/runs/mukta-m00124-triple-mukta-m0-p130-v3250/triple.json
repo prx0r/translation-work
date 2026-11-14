@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "ardhena",
+     "gloss": "half",
+     "grounds": "instrumental of ardha, half",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abjaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative of abja, lotus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "then",
+     "grounds": "indeclinable connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kampam",
+     "gloss": "trembling",
+     "grounds": "accusative of kampa, trembling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṣṭāṃśaṃ",
+     "gloss": "eight-parts",
+     "grounds": "compound of aṣṭa and aṃśa, eight parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karṇam",
+     "gloss": "ear",
+     "grounds": "accusative of karṇa, ear",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "īrtitam",
+     "gloss": "declared",
+     "grounds": "past participle of īr, declared",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportion of the ear is declared as trembling after the lotus measure?",
+   "premises": [
+    "lotus measure is half",
+    "trembling follows lotus",
+    "ear is eight parts"
+   ],
+   "inference": "the ear's trembling is declared as eight parts after the half-lotus measure",
+   "uncertainties": [
+    "exact anatomical referent remains uncertain",
+    "part-whole relation is not fully explicit"
+   ],
+   "plain_english": "By half, the lotus; then trembling; the ear is declared as eight parts."
+  }
+ ]
+}

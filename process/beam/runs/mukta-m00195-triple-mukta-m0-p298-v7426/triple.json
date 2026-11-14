@@ -1,0 +1,1069 @@
+{
+ "song": "mukta-m0-p298",
+ "items": [
+  {
+   "verse": 7426,
+   "rows": [
+    {
+     "surface": "siddha",
+     "gloss": "accomplished",
+     "grounds": "adjective qualifying manuḥ/mantrī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "noun, the sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-holder",
+     "grounds": "noun, one who possesses the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "applications",
+     "grounds": "ritual or magical uses",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √car"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal or sequential adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What may the accomplished mantra-holder do after mastering the mantra?",
+   "premises": [
+    "The mantra is accomplished.",
+    "The practitioner possesses the mantra.",
+    "Applications are to be performed thereafter."
+   ],
+   "inference": "Once the mantra is perfected, the mantra-holder may proceed to perform its applications.",
+   "uncertainties": [],
+   "plain_english": "Then the mantra-holder, having accomplished the mantra, should perform its applications."
+  },
+  {
+   "verse": 7427,
+   "rows": [
+    {
+     "surface": "hanyāt",
+     "gloss": "one-should-strike",
+     "grounds": "optative expressing permitted violent application",
+     "morph": "3.sg.opt.act √han"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive indicating obligation",
+     "morph": "f.nom.sg.gerundive"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "noun, hesitation or consideration",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is hesitation permitted when carrying out the mantra's destructive application?",
+   "premises": [
+    "A striking action is enjoined.",
+    "The context is this application.",
+    "Deliberation is explicitly negated."
+   ],
+   "inference": "In this application one should strike without hesitation or deliberation.",
+   "uncertainties": [
+    "The target of hanyāt is unspecified in this verse."
+   ],
+   "plain_english": "One may strike here; no deliberation should be made."
+  },
+  {
+   "verse": 7428,
+   "rows": [
+    {
+     "surface": "patākā",
+     "gloss": "with-flags",
+     "grounds": "first member of descriptive compound",
+     "morph": "compound: patākā+first"
+    },
+    {
+     "surface": "dhvaja",
+     "gloss": "with-banners",
+     "grounds": "middle member of descriptive compound",
+     "morph": "compound: dhvaja+middle"
+    },
+    {
+     "surface": "dundubhiḥ",
+     "gloss": "with-drums",
+     "grounds": "final member, describes the army or scene",
+     "morph": "compound: dundubhi+final.m.nom.sg"
+    }
+   ],
+   "question": "What martial accompaniments characterize the scene of the mantra's application?",
+   "premises": [
+    "Flags are present.",
+    "Banners are present.",
+    "Drums are present."
+   ],
+   "inference": "The application is set in a martial context marked by flags, banners, and drums.",
+   "uncertainties": [
+    "The compound may qualify an implied army or battle array."
+   ],
+   "plain_english": "With flags, banners, and drums."
+  },
+  {
+   "verse": 7429,
+   "rows": [
+    {
+     "surface": "saṃmuhyet",
+     "gloss": "becomes-bewildered",
+     "grounds": "optative describing enemy's state",
+     "morph": "3.sg.opt.act √muh+sam"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun, the opponent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrāme",
+     "gloss": "in-battle",
+     "grounds": "locative of context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present indicative result for practitioner",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "vijayaṃ",
+     "gloss": "victory",
+     "grounds": "object obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What outcome in battle results from the mantra's bewildering power?",
+   "premises": [
+    "The opponent becomes bewildered.",
+    "The context is battle.",
+    "The practitioner obtains victory."
+   ],
+   "inference": "The mantra causes the enemy to be bewildered in battle, so the practitioner indeed gains victory.",
+   "uncertainties": [],
+   "plain_english": "He becomes bewildered in battle, and one indeed obtains victory."
+  },
+  {
+   "verse": 7430,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "is-produced",
+     "grounds": "present indicative, formation of mantra",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "tārā",
+     "gloss": "tārā",
+     "grounds": "bīja syllable or seed name, transliterated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "namaḥ",
+     "grounds": "mantra word of obeisance, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of speech",
+     "morph": "absolutive √vac"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb referring to prior procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the mantra formula constructed following the previous pattern?",
+   "premises": [
+    "The syllable tārā is used.",
+    "The word namaḥ is uttered.",
+    "The procedure follows the previous pattern."
+   ],
+   "inference": "The mantra is formed by uttering tārā and namaḥ as before.",
+   "uncertainties": [
+    "Exact placement of tārā and namaḥ within the full mantra depends on prior verses."
+   ],
+   "plain_english": "Having uttered tārā and namaḥ as before, it is formed."
+  },
+  {
+   "verse": 7431,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating prior teaching",
+     "morph": "n.nom.sg.past-participle √vac+pra"
+    },
+    {
+     "surface": "dhyāna",
+     "gloss": "meditation",
+     "grounds": "first member of compound",
+     "morph": "compound: dhyāna+first"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "middle member of compound",
+     "morph": "compound: pūjā+middle"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "final member indicating additional elements",
+     "morph": "compound: ādi+final.n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual elements of meditation and worship apply as previously taught?",
+   "premises": [
+    "Meditation, worship, and so forth were declared before.",
+    "The same pattern is to be followed.",
+    "The instruction applies likewise here."
+   ],
+   "inference": "Meditation, worship, and related rites are to be performed likewise as previously declared.",
+   "uncertainties": [],
+   "plain_english": "Meditation, worship, and so forth are to be done likewise, as declared before."
+  },
+  {
+   "verse": 7432,
+   "rows": [
+    {
+     "surface": "kāśī",
+     "gloss": "kāśī",
+     "grounds": "place name, first member of compound",
+     "morph": "compound: kāśī+first"
+    },
+    {
+     "surface": "prānta",
+     "gloss": "outskirts",
+     "grounds": "middle member indicating location",
+     "morph": "compound: prānta+middle"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "past participle qualifying gaṇanāyakāḥ",
+     "morph": "m.nom.pl.past-participle √sthā"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "m.nom.pl.past-participle √kīrt"
+    },
+    {
+     "surface": "gaṇanāyakāḥ",
+     "gloss": "group-leaders",
+     "grounds": "divine or semi-divine leaders",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which group-leaders are proclaimed as situated on the outskirts of Kāśī?",
+   "premises": [
+    "Certain leaders are situated on the outskirts of Kāśī.",
+    "These leaders are being identified.",
+    "They are proclaimed as gaṇanāyakāḥ."
+   ],
+   "inference": "These group-leaders, situated on the outskirts of Kāśī, are proclaimed here.",
+   "uncertainties": [],
+   "plain_english": "These group-leaders, situated on the outskirts of Kāśī, are proclaimed."
+  },
+  {
+   "verse": 7433,
+   "rows": [
+    {
+     "surface": "kāśyāṃ",
+     "gloss": "in-kāśī",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veda+karma",
+     "gloss": "veda-ritual",
+     "grounds": "compound object of promotion",
+     "morph": "compound: veda+karma.n.acc.sg"
+    },
+    {
+     "surface": "pravartakāḥ",
+     "gloss": "promoters",
+     "grounds": "agents who set in motion",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What role do these figures play regarding Vedic ritual in Kāśī?",
+   "premises": [
+    "The location is Kāśī.",
+    "Vedic ritual is the domain.",
+    "They are promoters of it."
+   ],
+   "inference": "In Kāśī they indeed act as promoters of Vedic ritual.",
+   "uncertainties": [],
+   "plain_english": "In Kāśī they are indeed the promoters of Vedic ritual."
+  },
+  {
+   "verse": 7434,
+   "rows": [
+    {
+     "surface": "vedaḥ",
+     "gloss": "veda",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anādiḥ",
+     "gloss": "without-beginning",
+     "grounds": "adjective qualifying vedaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun referring to veda",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb, in this place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drutaṃ",
+     "gloss": "quickly",
+     "grounds": "adverb modifying attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "subject of arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "present indicative",
+     "morph": "3.sg.pres.mid √jan+pra"
+    }
+   ],
+   "question": "Why does success in Vedic practice arise quickly in this location?",
+   "premises": [
+    "The Veda is without beginning.",
+    "This place is specially connected to it.",
+    "Success arises quickly here."
+   ],
+   "inference": "Although the Veda is beginningless, its success arises quickly here in Kāśī.",
+   "uncertainties": [],
+   "plain_english": "But the Veda is without beginning, and here its success arises quickly."
+  },
+  {
+   "verse": 7435,
+   "rows": [
+    {
+     "surface": "pāpa+hartā",
+     "gloss": "sin-remover",
+     "grounds": "compound epithet",
+     "morph": "compound: pāpa+hartṛ.m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāma+mārga",
+     "gloss": "left-hand-path",
+     "grounds": "compound object of accomplishment",
+     "morph": "compound: vāma+mārga.m.acc.sg"
+    },
+    {
+     "surface": "prasādhakaḥ",
+     "gloss": "accomplisher",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What dual functions of removing sin and accomplishing the left-hand path are attributed here?",
+   "premises": [
+    "An agent removes sin.",
+    "An agent accomplishes the left-hand path.",
+    "Both functions are attributed together."
+   ],
+   "inference": "The figure is both a remover of sin and an accomplisher of the left-hand path.",
+   "uncertainties": [
+    "The subject is implied from the preceding context of gaṇanāyakāḥ or their names."
+   ],
+   "plain_english": "A remover of sin and an accomplisher of the left-hand path."
+  },
+  {
+   "verse": 7436,
+   "rows": [
+    {
+     "surface": "nidhi+dātā",
+     "gloss": "treasure-giver",
+     "grounds": "compound epithet",
+     "morph": "compound: nidhi+dātṛ.m.nom.sg"
+    },
+    {
+     "surface": "dvija+ādhipaḥ",
+     "gloss": "twice-born-lord",
+     "grounds": "compound epithet indicating lordship over twice-born",
+     "morph": "compound: dvija+ādhipa.m.nom.sg"
+    }
+   ],
+   "question": "What further attributes of granting treasure and lordship over the twice-born are stated?",
+   "premises": [
+    "The figure gives treasure.",
+    "The figure is lord of the twice-born.",
+    "These are additional epithets."
+   ],
+   "inference": "The figure is characterized as a giver of treasure and lord of the twice-born.",
+   "uncertainties": [
+    "The subject continues from the preceding epithets."
+   ],
+   "plain_english": "A giver of treasure and lord of the twice-born."
+  },
+  {
+   "verse": 7437,
+   "rows": [
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "subject",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sarva+siddhi",
+     "gloss": "all-success",
+     "grounds": "compound object of causing",
+     "morph": "compound: sarva+siddhi.f.acc.sg"
+    },
+    {
+     "surface": "karāṇi",
+     "gloss": "causing",
+     "grounds": "adjective qualifying names",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What power is attributed to the names of these figures?",
+   "premises": [
+    "Names are being described.",
+    "They cause all success.",
+    "This is stated as their property."
+   ],
+   "inference": "These names are agents that bring about all success.",
+   "uncertainties": [],
+   "plain_english": "And these names bring about all success."
+  },
+  {
+   "verse": 7438,
+   "rows": [
+    {
+     "surface": "nāma+anusāriṇī",
+     "gloss": "name-following",
+     "grounds": "compound adjective qualifying siddhiḥ",
+     "morph": "compound: nāma+anusārin.f.nom.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "certainly",
+     "grounds": "adverb of certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing assured result",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun negated",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is success that follows the use of these names considered certain or doubtful?",
+   "premises": [
+    "Success follows the name.",
+    "Its occurrence is stated as certain.",
+    "Doubt is explicitly denied."
+   ],
+   "inference": "Success that follows the name will certainly occur, without doubt.",
+   "uncertainties": [],
+   "plain_english": "Success follows the name and will certainly come to be; there is no doubt."
+  },
+  {
+   "verse": 7439,
+   "rows": [
+    {
+     "surface": "sīmā+vināyakāḥ",
+     "gloss": "boundary-vināyakas",
+     "grounds": "compound naming a class of deities",
+     "morph": "compound: sīmā+vināyaka.m.nom.pl"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral qualifying vināyakas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of explanation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-explained",
+     "grounds": "present passive indicative",
+     "morph": "3.sg.pres.pass √rūp+nis"
+    }
+   ],
+   "question": "How many boundary Vināyakas are there and what is being explained about them?",
+   "premises": [
+    "There are boundary Vināyakas.",
+    "Their number is eight.",
+    "Their mantra is being explained."
+   ],
+   "inference": "There are eight boundary Vināyakas, and their mantra is now explained.",
+   "uncertainties": [],
+   "plain_english": "There are eight boundary Vināyakas, and their mantra is explained."
+  },
+  {
+   "verse": 7440,
+   "rows": [
+    {
+     "surface": "tat+nāma",
+     "gloss": "that-name",
+     "grounds": "compound object to be uttered",
+     "morph": "compound: tad+nāma.n.acc.sg"
+    },
+    {
+     "surface": "gaṃ",
+     "gloss": "gaṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of speech",
+     "morph": "absolutive √vac+pra"
+    },
+    {
+     "surface": "hṛdaya+antaḥ",
+     "gloss": "heart-ending",
+     "grounds": "compound indicating mantra ending with hṛdaya",
+     "morph": "compound: hṛdaya+anta.m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "past participle indicating traditional teaching",
+     "morph": "m.nom.sg.past-participle √smṛ"
+    }
+   ],
+   "question": "What structure constitutes the remembered mantra for the boundary Vināyakas?",
+   "premises": [
+    "One utters that name.",
+    "One utters the syllable gaṃ.",
+    "The mantra ends with the heart formula."
+   ],
+   "inference": "The mantra is remembered as uttering that name and gaṃ, ending with the heart formula.",
+   "uncertainties": [
+    "The exact form of the 'heart-ending' (hṛdaya) depends on standard mantra conventions."
+   ],
+   "plain_english": "Having uttered that name and gaṃ, the mantra is remembered as ending with the heart formula."
+  },
+  {
+   "verse": 7441,
+   "rows": [
+    {
+     "surface": "dhātrī+rūpaṃ",
+     "gloss": "dhātrī-form",
+     "grounds": "compound object of resorting",
+     "morph": "compound: dhātrī+rūpa.n.acc.sg"
+    },
+    {
+     "surface": "samāśritāḥ",
+     "gloss": "having-resorted-to",
+     "grounds": "past participle describing those who take refuge",
+     "morph": "m.nom.pl.past-participle √śri+sam+ā"
+    }
+   ],
+   "question": "What divine form is resorted to by the figures described in this context?",
+   "premises": [
+    "A form is taken as refuge.",
+    "That form is the form of Dhātrī.",
+    "The subjects have resorted to it."
+   ],
+   "inference": "They have resorted to the form of Dhātrī.",
+   "uncertainties": [
+    "The subjects are implied from the preceding verses."
+   ],
+   "plain_english": "Having resorted to the form of Dhātrī."
+  },
+  {
+   "verse": 7442,
+   "rows": [
+    {
+     "surface": "śūlinī",
+     "gloss": "śūlinī",
+     "grounds": "divine name or epithet to be uttered",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √vad"
+    },
+    {
+     "surface": "duṣṭa+grahe",
+     "gloss": "evil-planet",
+     "grounds": "compound indicating afflicting condition",
+     "morph": "compound: duṣṭa+graha.m.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What utterance is prescribed when afflicted by a malevolent planetary influence?",
+   "premises": [
+    "The name Śūlinī is specified.",
+    "The context is an evil planetary influence.",
+    "One should utter the name then."
+   ],
+   "inference": "In the case of a malevolent planetary influence, one should then say 'Śūlinī'.",
+   "uncertainties": [],
+   "plain_english": "Then, in the case of an evil planetary influence, one should say 'Śūlinī'."
+  },
+  {
+   "verse": 7443,
+   "rows": [
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "seer of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīrghatamāḥ",
+     "gloss": "dīrghatamas",
+     "grounds": "proper name of the sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kakubh",
+     "gloss": "kakubh",
+     "grounds": "name of the meter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.past-participle √vac"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity of the mantra",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which sage, meter, and deity are declared for this mantra?",
+   "premises": [
+    "The sage is Dīrghatamas.",
+    "The meter is Kakubh.",
+    "A deity is also declared."
+   ],
+   "inference": "The mantra's sage is Dīrghatamas, its meter is Kakubh, and its deity is declared.",
+   "uncertainties": [
+    "The name of the deity is not stated in this verse but implied to follow."
+   ],
+   "plain_english": "The sage is Dīrghatamas, the meter is declared as Kakubh, and the deity is also declared."
+  },
+  {
+   "verse": 7444,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "mantra limb or placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīrṣaṃ",
+     "gloss": "head",
+     "grounds": "mantra limb or placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varade",
+     "gloss": "o-boon-giver",
+     "grounds": "vocative epithet within mantra",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vindhyavāsinī",
+     "gloss": "vindhyavāsinī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess and mantra limbs are assigned in this part of the rite?",
+   "premises": [
+    "Heart and head placements are mentioned.",
+    "The epithet boon-giver is used.",
+    "The goddess is Vindhyavāsinī."
+   ],
+   "inference": "The heart and head are assigned with the invocation of Vindhyavāsinī, the boon-giver.",
+   "uncertainties": [
+    "The exact syntactic distribution of hṛdayaṃ and śīrṣaṃ in the mantra formula is compressed."
+   ],
+   "plain_english": "The heart and head should be assigned to Vindhyavāsinī, the boon-giver."
+  },
+  {
+   "verse": 7445,
+   "rows": [
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √vad"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trāsaya",
+     "gloss": "terrify",
+     "grounds": "imperative form within mantra",
+     "morph": "2.sg.imp.act √tras+caus"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "object or element declared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.past-participle √īr"
+    }
+   ],
+   "question": "What terrifying command is to be uttered afterwards in the mantra sequence?",
+   "premises": [
+    "An utterance follows afterwards.",
+    "The command 'terrify' is included.",
+    "This form is declared."
+   ],
+   "inference": "Afterwards one should utter the declared form containing the command 'terrify'.",
+   "uncertainties": [
+    "The full mantra phrase containing trāsaya is not completely given here."
+   ],
+   "plain_english": "Afterwards one should say the declared form: 'terrify'."
+  },
+  {
+   "verse": 7446,
+   "rows": [
+    {
+     "surface": "varma+astra+antāḥ",
+     "gloss": "armor-weapon-ending",
+     "grounds": "compound describing mantra endings",
+     "morph": "compound: varma+astra+anta.m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "are-declared",
+     "grounds": "past participle",
+     "morph": "m.nom.pl.past-participle √kīrt+pra"
+    }
+   ],
+   "question": "How are the concluding armor and weapon elements of the mantra declared?",
+   "premises": [
+    "Armor and weapon elements are mentioned.",
+    "They function as endings.",
+    "They are declared."
+   ],
+   "inference": "The mantra elements ending with armor and weapon formulas are declared.",
+   "uncertainties": [
+    "The specific varma and astra syllables are implied by convention."
+   ],
+   "plain_english": "The endings with armor and weapon formulas are declared."
+  },
+  {
+   "verse": 7447,
+   "rows": [
+    {
+     "surface": "śarīra+ādau",
+     "gloss": "body-beginning",
+     "grounds": "compound locative indicating starting point",
+     "morph": "compound: śarīra+ādi.m.loc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √dhyai"
+    },
+    {
+     "surface": "durgāṃ",
+     "gloss": "durgā",
+     "grounds": "goddess as object of meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "suraiḥ+nutām",
+     "gloss": "by-gods-praised",
+     "grounds": "compound past participle qualifying durgāṃ",
+     "morph": "compound: sura+nutā.f.acc.sg"
+    }
+   ],
+   "question": "Where and upon whom should meditation be performed at the beginning of the body?",
+   "premises": [
+    "Meditation is enjoined.",
+    "The starting point is the body or its beginning.",
+    "The object is Durgā praised by the gods."
+   ],
+   "inference": "One should meditate at the beginning of the body on Durgā, who is praised by the gods.",
+   "uncertainties": [
+    "śarīra+ādau may refer to the beginning of the body or the start of bodily nyāsa."
+   ],
+   "plain_english": "At the beginning of the body one should meditate on Durgā, praised by the gods."
+  },
+  {
+   "verse": 7448,
+   "rows": [
+    {
+     "surface": "pāśa+dhanuḥ",
+     "gloss": "noose-bow",
+     "grounds": "compound naming weapons held",
+     "morph": "compound: pāśa+dhanuḥ.n.acc.sg"
+    },
+    {
+     "surface": "digbhiḥ",
+     "gloss": "with-directions",
+     "grounds": "instrumental, possibly indicating distribution or directions",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "hastaiḥ",
+     "gloss": "with-hands",
+     "grounds": "instrumental of means",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bibhratīm",
+     "gloss": "bearing",
+     "grounds": "present participle qualifying durgāṃ",
+     "morph": "f.acc.sg.pres-participle √bhṛ"
+    }
+   ],
+   "question": "What implements does the meditated goddess bear in her hands?",
+   "premises": [
+    "The goddess is bearing objects.",
+    "A noose and bow are named.",
+    "Hands and directions are mentioned as means or distribution."
+   ],
+   "inference": "The goddess is to be visualized bearing a noose and bow in her hands across the directions.",
+   "uncertainties": [
+    "The role of digbhiḥ is ambiguous; it may indicate weapons oriented to the directions or additional items."
+   ],
+   "plain_english": "Bearing a noose and bow with her hands in the directions."
+  },
+  {
+   "verse": 7449,
+   "rows": [
+    {
+     "surface": "kanyakābhiḥ",
+     "gloss": "by-maidens",
+     "grounds": "instrumental indicating attendants",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "parivṛtāṃ",
+     "gloss": "surrounded",
+     "grounds": "past participle qualifying durgāṃ",
+     "morph": "f.acc.sg.past-participle √vṛ+pari"
+    },
+    {
+     "surface": "tryakṣāṃ",
+     "gloss": "three-eyed",
+     "grounds": "adjective qualifying durgāṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhūṣaṇa+bhūṣitām",
+     "gloss": "with-ornaments-adorned",
+     "grounds": "compound past participle qualifying durgāṃ",
+     "morph": "compound: bhūṣaṇa+bhūṣita.f.acc.sg"
+    }
+   ],
+   "question": "What attendants and physical attributes characterize the goddess in meditation?",
+   "premises": [
+    "She is surrounded by maidens.",
+    "She is three-eyed.",
+    "She is adorned with ornaments."
+   ],
+   "inference": "Durgā is to be meditated upon as three-eyed, adorned with ornaments, and surrounded by maidens.",
+   "uncertainties": [],
+   "plain_english": "Surrounded by maidens, three-eyed, and adorned with ornaments."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "Indeclinable indicating the contrary condition to the prescribed guru-worship and offering.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "Predicate describing the result when the prescribed conditions are not met.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "Refers to all ritual efforts undertaken without proper guru-worship and dakṣiṇā.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "koṭipuraścareṇa",
+     "gloss": "by-ten-million-preliminary-rites",
+     "grounds": "Compound of koṭi (ten million) and puraścaraṇa (preliminary rite); instrumental of means, contrasted as ineffective.",
+     "morph": "compound: koṭi+poraścaraṇa; n.inst.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what-use",
+     "grounds": "Rhetorical interrogative implying futility despite vast ritual effort.",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why are even vast preliminary rites rendered futile without proper worship and offerings to the guru?",
+   "premises": [
+    "Proper worship of the guru brings ritual completeness.",
+    "Proper offerings to the guru are required as part of that worship.",
+    "Without these, all ritual efforts become fruitless."
+   ],
+   "inference": "Therefore, even ten million preliminary rites are of no use if proper guru-worship and offerings are neglected.",
+   "uncertainties": [
+    "The exact scope of 'sarvaṃ' (all rites or all results) is contextually inferred from the preceding verses."
+   ],
+   "plain_english": "Otherwise, everything is fruitless; what is the use of even ten million preliminary rites?"
+  }
+ ]
+}

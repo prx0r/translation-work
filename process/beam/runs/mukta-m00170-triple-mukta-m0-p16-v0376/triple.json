@@ -1,0 +1,1033 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 376,
+   "rows": [
+    {
+     "surface": "mattavāraṇam",
+     "gloss": "intoxicated-elephant",
+     "grounds": "compound denoting an elephant in rut; object placed in front",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "locative adverb indicating frontal position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "compound indicating position above that element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭṭabhūmiṣu",
+     "gloss": "on-terraced-levels",
+     "grounds": "locative plural denoting terraced platforms or levels",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "What elements should be placed in front and on the terraced levels above?",
+   "premises": [
+    "An intoxicated elephant is placed in front.",
+    "Above that placement are terraced levels.",
+    "These elements are specified for arrangement."
+   ],
+   "inference": "The design requires an intoxicated elephant in front with terraced levels above it.",
+   "uncertainties": [],
+   "plain_english": "Place an intoxicated elephant in front, and above that on the terraced levels."
+  },
+  {
+   "verse": 377,
+   "rows": [
+    {
+     "surface": "puṣyagehaṃ",
+     "gloss": "flower-house",
+     "grounds": "compound denoting a chamber for flowers",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similar placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśāne",
+     "gloss": "in-northeast",
+     "grounds": "locative indicating the northeast direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nairṛtye",
+     "gloss": "in-southwest",
+     "grounds": "locative indicating the southwest direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāntamāyudham",
+     "gloss": "peace-weapon-house",
+     "grounds": "compound denoting a chamber for pacified weapons",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which structures are assigned to the northeast and southwest directions?",
+   "premises": [
+    "A flower-house is to be placed likewise.",
+    "The northeast direction receives one structure.",
+    "The southwest direction receives a peace-weapon house."
+   ],
+   "inference": "A flower-house should be placed in the northeast and a peace-weapon house in the southwest.",
+   "uncertainties": [
+    "The exact function of śāntamāyudham is context-dependent."
+   ],
+   "plain_english": "Likewise, place a flower-house in the northeast and a house for pacified weapons in the southwest."
+  },
+  {
+   "verse": 378,
+   "rows": [
+    {
+     "surface": "maṭhasya",
+     "gloss": "of-monastery",
+     "grounds": "genitive indicating the monastery as reference point",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "uparitaḥ",
+     "gloss": "above",
+     "grounds": "adverb indicating position above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "vidyāvyākhyānamaṇḍapam",
+     "gloss": "knowledge-exposition-pavilion",
+     "grounds": "compound denoting a pavilion for teaching knowledge",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What structure should be constructed above the monastery?",
+   "premises": [
+    "The location is above the monastery.",
+    "Construction is prescribed by the optative verb.",
+    "The structure is a pavilion for expounding knowledge."
+   ],
+   "inference": "One should construct a pavilion for the exposition of knowledge above the monastery.",
+   "uncertainties": [],
+   "plain_english": "One should make a pavilion for the exposition of knowledge above the monastery."
+  },
+  {
+   "verse": 379,
+   "rows": [
+    {
+     "surface": "raveḥ",
+     "gloss": "of-sun",
+     "grounds": "genitive indicating the sun's course",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saumyāyane",
+     "gloss": "in-northern-course",
+     "grounds": "locative denoting the sun's northern movement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "genitive plural indicating the deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sthāpanādikam",
+     "gloss": "installation-and-so-forth",
+     "grounds": "compound indicating installation and related rites",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "During which solar period should the installation of deities be performed?",
+   "premises": [
+    "The prescribed time is the sun's northern course.",
+    "The action concerns the gods.",
+    "Installation and related rites are to be performed."
+   ],
+   "inference": "One should perform the installation and related rites of the gods during the sun's northern course.",
+   "uncertainties": [],
+   "plain_english": "One should perform the installation and other rites of the gods during the sun's northern course."
+  },
+  {
+   "verse": 380,
+   "rows": [
+    {
+     "surface": "puṣye",
+     "gloss": "in-puṣya",
+     "grounds": "locative of the lunar mansion Puṣya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hasta",
+     "grounds": "locative of the lunar mansion Hasta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mṛge",
+     "gloss": "in-mṛgaśiras",
+     "grounds": "locative of the lunar mansion Mṛgaśiras",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svātau",
+     "gloss": "in-svātī",
+     "grounds": "locative of the lunar mansion Svātī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "rauhiṇyāṃ",
+     "gloss": "in-rohiṇī",
+     "grounds": "locative of the lunar mansion Rohiṇī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śrutimaitrabhe",
+     "gloss": "in-śravaṇa-anurādhā",
+     "grounds": "compound locative of the lunar mansions Śravaṇa and Anurādhā",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which lunar mansions are auspicious for the prescribed rites?",
+   "premises": [
+    "Several lunar mansions are listed in sequence.",
+    "The list includes Puṣya, Hasta, Mṛgaśiras, Svātī, Rohiṇī, Śravaṇa, and Anurādhā.",
+    "These are given as suitable times."
+   ],
+   "inference": "The rites should be performed under the lunar mansions Puṣya, Hasta, Mṛgaśiras, Svātī, Rohiṇī, Śravaṇa, and Anurādhā.",
+   "uncertainties": [
+    "The compound śrutimaitrabhe is taken as a dual reference to Śravaṇa and Anurādhā."
+   ],
+   "plain_english": "Perform the rites under Puṣya, Hasta, Mṛgaśiras, Svātī, Rohiṇī, Śravaṇa, and Anurādhā."
+  },
+  {
+   "verse": 381,
+   "rows": [
+    {
+     "surface": "dagdhāṃ",
+     "gloss": "burnt",
+     "grounds": "adjective qualifying a lunar day as inauspicious",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tithiṃ",
+     "gloss": "lunar-day",
+     "grounds": "object denoting a lunar day",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking items to avoid",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇḍāntaṃ",
+     "gloss": "gaṇḍānta",
+     "grounds": "technical term for an inauspicious junction period",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cārabhopagrahaṃ",
+     "gloss": "and-arabha-eclipse",
+     "grounds": "compound including Arabha and eclipse periods to avoid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-avoid",
+     "grounds": "optative prescribing avoidance",
+     "morph": "3.sg.act-opt √tyaj"
+    }
+   ],
+   "question": "Which inauspicious times must be avoided for the rites?",
+   "premises": [
+    "A burnt lunar day is listed as inauspicious.",
+    "Gaṇḍānta is listed as inauspicious.",
+    "Arabha and eclipse periods are also to be avoided."
+   ],
+   "inference": "One should avoid a burnt lunar day, Gaṇḍānta, Arabha, and eclipse periods.",
+   "uncertainties": [
+    "The internal analysis of cārabhopagrahaṃ is uncertain."
+   ],
+   "plain_english": "One should avoid a burnt lunar day, Gaṇḍānta, and periods of Arabha or eclipse."
+  },
+  {
+   "verse": 382,
+   "rows": [
+    {
+     "surface": "abhiṣekaḥ",
+     "gloss": "consecration",
+     "grounds": "subject denoting consecration rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "installation",
+     "grounds": "subject denoting installation rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praveśādikam",
+     "gloss": "entry-and-so-forth",
+     "grounds": "compound indicating entry and related rites",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb indicating approval or prescription",
+     "morph": "3.sg.pass-pres √iṣ"
+    }
+   ],
+   "question": "Which ritual acts are approved for performance at the prescribed time?",
+   "premises": [
+    "Consecration is named as a rite.",
+    "Installation is named as a rite.",
+    "Entry and related acts are included."
+   ],
+   "inference": "Consecration, installation, entry, and related rites are desired at the prescribed time.",
+   "uncertainties": [],
+   "plain_english": "Consecration, installation, entry, and similar rites are desired."
+  },
+  {
+   "verse": 383,
+   "rows": [
+    {
+     "surface": "tripañcasaptanandaikādaśaviśvakarānanam",
+     "gloss": "three-five-seven-nine-eleven-twelve-hand-faced",
+     "grounds": "long compound specifying numerical dimensions or counts for a structure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What numerical configuration is specified by the compound describing the structure?",
+   "premises": [
+    "The compound encodes a sequence of numbers.",
+    "The numbers include three, five, seven, nine, eleven, and twelve.",
+    "The compound ends with terms for hand and face."
+   ],
+   "inference": "A structure characterized by the sequence three, five, seven, nine, eleven, and twelve in hands or faces is specified.",
+   "uncertainties": [
+    "The precise architectural or ritual referent of karānanam in this compound is unclear."
+   ],
+   "plain_english": "It should have three, five, seven, nine, eleven, and twelve hands or faces."
+  },
+  {
+   "verse": 384,
+   "rows": [
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral indicating a base measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastataḥ",
+     "gloss": "from-cubits",
+     "grounds": "ablative indicating measurement in cubits",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍa",
+     "gloss": "fire-pit",
+     "grounds": "subject or basis modified by capacity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaśāt",
+     "gloss": "according-to-capacity",
+     "grounds": "ablative indicating dependence on capacity or requirement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "adhikaḥ",
+     "gloss": "greater",
+     "grounds": "adjective indicating increase beyond the base",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb indicating prescription",
+     "morph": "3.sg.pass-pres √iṣ"
+    }
+   ],
+   "question": "How should the size of the fire-pit be determined beyond sixteen cubits?",
+   "premises": [
+    "Sixteen cubits is given as a base measure.",
+    "The fire-pit is the object of measurement.",
+    "Increase depends on capacity or requirement."
+   ],
+   "inference": "The fire-pit is desired to be greater than sixteen cubits according to capacity.",
+   "uncertainties": [],
+   "plain_english": "A fire-pit greater than sixteen cubits is desired, according to capacity."
+  },
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object denoting the pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedikāmadhye",
+     "gloss": "in-middle-of-platform",
+     "grounds": "locative compound indicating the center of the platform",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcāṣṭanavakuṇḍakam",
+     "gloss": "five-eight-nine-fire-pits",
+     "grounds": "compound specifying possible numbers of fire-pits",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many fire-pits may be placed in the middle of the platform within the pavilion?",
+   "premises": [
+    "The location is the middle of the platform.",
+    "The structure is a pavilion.",
+    "The fire-pits may number five, eight, or nine."
+   ],
+   "inference": "A pavilion with five, eight, or nine fire-pits in the middle of the platform is specified.",
+   "uncertainties": [],
+   "plain_english": "Make a pavilion with five, eight, or nine fire-pits in the middle of the platform."
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "āgamaiḥ",
+     "gloss": "with-āgamas",
+     "grounds": "instrumental indicating ritual texts or traditions",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vedamantraiḥ",
+     "gloss": "with-vedic-mantras",
+     "grounds": "instrumental compound indicating Vedic mantras",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking sources of mantras",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "object denoting the fire oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing performance",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial ablative indicating proper procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to which textual authorities should the fire oblation be performed?",
+   "premises": [
+    "The oblation is to be performed.",
+    "Āgamas are named as authorities.",
+    "Vedic mantras are named as authorities and proper procedure is required."
+   ],
+   "inference": "One should perform the oblation according to rule using Āgamas and Vedic mantras.",
+   "uncertainties": [],
+   "plain_english": "One should perform the oblation according to rule with Āgamas and Vedic mantras."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "trihastaṃ",
+     "gloss": "three-cubits",
+     "grounds": "compound indicating a measure of three cubits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣahome",
+     "gloss": "in-hundred-thousand-oblation",
+     "grounds": "locative compound indicating an oblation of one hundred thousand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed measure",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "daśalakṣe",
+     "gloss": "in-ten-hundred-thousand",
+     "grounds": "locative compound indicating an oblation of one million",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "catuṣkaram",
+     "gloss": "four-cubits",
+     "grounds": "compound indicating a measure of four cubits",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fire-pit sizes correspond to oblations of one hundred thousand and one million?",
+   "premises": [
+    "A hundred-thousand oblation is specified.",
+    "A ten-hundred-thousand oblation is specified.",
+    "Different cubit measures are assigned to each."
+   ],
+   "inference": "The fire-pit should be three cubits for a hundred-thousand oblation and four cubits for a million oblation.",
+   "uncertainties": [],
+   "plain_english": "For a hundred-thousand oblation it should be three cubits, and for a million oblation four cubits."
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "aśītilakṣe",
+     "gloss": "in-eighty-hundred-thousand",
+     "grounds": "locative compound indicating an oblation of eight million",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "adrikaraṃ",
+     "gloss": "seven-cubits",
+     "grounds": "compound indicating a measure of seven cubits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "koṭihome",
+     "gloss": "in-ten-million-oblation",
+     "grounds": "locative compound indicating an oblation of ten million",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṣṭahastakam",
+     "gloss": "eight-cubits",
+     "grounds": "compound indicating a measure of eight cubits",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fire-pit sizes correspond to oblations of eight million and ten million?",
+   "premises": [
+    "An eighty-lakh oblation is specified.",
+    "A crore oblation is specified.",
+    "Different cubit measures are assigned to each."
+   ],
+   "inference": "The fire-pit should be seven cubits for an eight-million oblation and eight cubits for a ten-million oblation.",
+   "uncertainties": [],
+   "plain_english": "For an eight-million oblation it should be seven cubits, and for a ten-million oblation eight cubits."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "mekhalātritayaṃ",
+     "gloss": "rim-triad",
+     "grounds": "compound denoting three rims or ledges",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "veda",
+     "gloss": "four",
+     "grounds": "numeral element indicating four units",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāmayugma",
+     "gloss": "three-two",
+     "grounds": "compound numeral elements indicating three and two units",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulaiḥ",
+     "gloss": "with-fingers",
+     "grounds": "instrumental plural indicating measurement in finger-breadths",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative adverb indicating sequential order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the sequential measurements for the three rims of the fire-pit?",
+   "premises": [
+    "Three rims are specified.",
+    "Measurements are given in finger-breadths.",
+    "The sequence is four, three, and two."
+   ],
+   "inference": "The three rims should measure four, three, and two finger-breadths respectively in order.",
+   "uncertainties": [
+    "The parsing of rāmayugma as three and two follows traditional numerical symbolism but is interpretive."
+   ],
+   "plain_english": "The three rims should be four, three, and two finger-breadths in order."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇuravīnāṃ",
+     "gloss": "of-brahmā-viṣṇu-sun",
+     "grounds": "genitive compound naming three deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatobhadram",
+     "gloss": "sarvatobhadra",
+     "grounds": "name of a specific diagram or arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb indicating prescription",
+     "morph": "3.sg.pass-pres √iṣ"
+    }
+   ],
+   "question": "Which diagram is prescribed for Brahmā, Viṣṇu, and the Sun?",
+   "premises": [
+    "Brahmā, Viṣṇu, and the Sun are named.",
+    "A specific arrangement is prescribed.",
+    "The arrangement is called Sarvatobhadra."
+   ],
+   "inference": "The Sarvatobhadra arrangement is desired for Brahmā, Viṣṇu, and the Sun.",
+   "uncertainties": [],
+   "plain_english": "For Brahmā, Viṣṇu, and the Sun, the Sarvatobhadra is desired."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "liṅgodbhavaṃ",
+     "gloss": "liṅga-emergence",
+     "grounds": "compound denoting the emergence from the liṅga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "genitive indicating association with Śiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "latāliṅgodbhavaṃ",
+     "gloss": "creeper-liṅga-emergence",
+     "grounds": "compound denoting emergence from a creeper-liṅga form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similar inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which forms of Śiva's emergence are to be represented?",
+   "premises": [
+    "The emergence from the liṅga of Śiva is named.",
+    "Another form involving a creeper-liṅga emergence is named.",
+    "Both are included likewise."
+   ],
+   "inference": "The liṅga-emergence of Śiva and likewise the creeper-liṅga emergence should be represented.",
+   "uncertainties": [
+    "The exact iconographic meaning of latāliṅgodbhavaṃ is context-dependent."
+   ],
+   "plain_english": "Also represent the emergence of Śiva from the liṅga, and likewise the emergence from the creeper-liṅga."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "ardhacandraṃ",
+     "gloss": "half-moon",
+     "grounds": "accusative denoting a half-moon shape",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taḍāgeṣu",
+     "gloss": "in-tanks",
+     "grounds": "locative plural indicating water tanks",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "cāpākāraṃ",
+     "gloss": "bow-shape",
+     "grounds": "compound denoting a bow-like shape",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "emphatic adverb indicating similar application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking shapes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shapes are prescribed for structures in water tanks?",
+   "premises": [
+    "The location specified is in tanks.",
+    "A half-moon shape is named.",
+    "A bow shape is named likewise."
+   ],
+   "inference": "In tanks, a half-moon shape and likewise a bow shape should be made.",
+   "uncertainties": [],
+   "plain_english": "In tanks, make a half-moon shape and likewise a bow shape."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "pīṭhikājalapādeṣu",
+     "gloss": "in-pedestal-water-channels",
+     "grounds": "locative compound denoting pedestal water outlets or channels",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yonyākāraṃ",
+     "gloss": "womb-shape",
+     "grounds": "compound denoting a yoni-like shape",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmadam",
+     "gloss": "desire-granting",
+     "grounds": "adjective indicating the fruit of this form",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What shape for pedestal water channels is said to grant desires?",
+   "premises": [
+    "The location is pedestal water channels.",
+    "A womb-shaped form is prescribed.",
+    "This form is described as desire-granting."
+   ],
+   "inference": "A womb-shaped form in pedestal water channels is prescribed as desire-granting.",
+   "uncertainties": [],
+   "plain_english": "In the pedestal water channels, a womb-shaped form is indeed desire-granting."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "ṭaṅkābhaṃ",
+     "gloss": "chisel-like",
+     "grounds": "compound denoting resemblance to a chisel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "square",
+     "grounds": "adjective denoting a four-cornered shape",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking shapes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajadantam",
+     "gloss": "elephant-tusk",
+     "grounds": "compound denoting an elephant-tusk shape",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyatam",
+     "gloss": "elongated",
+     "grounds": "adjective qualifying the shape as elongated",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional shapes are prescribed in this context?",
+   "premises": [
+    "A chisel-like shape is named.",
+    "A square shape is named.",
+    "An elongated elephant-tusk shape is named."
+   ],
+   "inference": "Chisel-like, square, and elongated elephant-tusk shapes are prescribed here.",
+   "uncertainties": [],
+   "plain_english": "Here, make shapes that are chisel-like, square, and elongated like an elephant tusk."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "pūrvāditoraṇaṃ",
+     "gloss": "east-etc-gateway",
+     "grounds": "compound denoting gateways beginning from the east",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "plakṣayajñāṅgavaṭapippalaiḥ",
+     "gloss": "with-plakṣa-yajñāṅga-vaṭa-pippala",
+     "grounds": "instrumental compound listing four sacred trees",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which trees are used for the gateways beginning from the east?",
+   "premises": [
+    "Gateways beginning from the east are specified.",
+    "Four types of trees are named.",
+    "The trees are Plakṣa, Yajñāṅga, Vaṭa, and Pippala."
+   ],
+   "inference": "The gateways beginning from the east should be made with Plakṣa, Yajñāṅga, Vaṭa, and Pippala trees.",
+   "uncertainties": [
+    "The identification of yajñāṅga as a specific tree name is traditional and may vary."
+   ],
+   "plain_english": "Make the gateways beginning from the east with Plakṣa, Yajñāṅga, Vaṭa, and Pippala trees."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "kulīnānaṅgasarvajñāni",
+     "gloss": "noble-born-bodiless-all-knowing",
+     "grounds": "compound accusative plural denoting classes of beings or principles to be consecrated",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yajñārtham",
+     "gloss": "for-sacrifice-purpose",
+     "grounds": "compound indicating purpose for the sacrifice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "optative prescribing consecration by mantra",
+     "morph": "3.sg.act-opt abhi-√mantr"
+    }
+   ],
+   "question": "What entities should be consecrated with mantras for the purpose of the sacrifice?",
+   "premises": [
+    "Consecration by mantra is prescribed.",
+    "The purpose is the sacrifice.",
+    "The entities named are noble-born, bodiless, and all-knowing."
+   ],
+   "inference": "One should consecrate the noble-born, bodiless, and all-knowing entities with mantras for the sacrifice.",
+   "uncertainties": [
+    "The referents of kulīnānaṅgasarvajñāni are doctrinally specific and not fully explicit."
+   ],
+   "plain_english": "One should consecrate the noble-born, the bodiless, and the all-knowing with mantras for the purpose of the sacrifice."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "object denoting a ritual altar",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bālukaṃ",
+     "gloss": "of-sand",
+     "grounds": "adjective indicating the altar is made of sand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "śamyayā",
+     "gloss": "with-śamī-wood",
+     "grounds": "instrumental indicating use of Śamī wood",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "one-should-bathe",
+     "grounds": "optative prescribing ritual bathing",
+     "morph": "3.sg.caus-opt √snā"
+    },
+    {
+     "surface": "suram",
+     "gloss": "the-god",
+     "grounds": "object denoting the deity to be bathed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the deity be ritually bathed after preparing a sand altar?",
+   "premises": [
+    "A sand altar is to be made first.",
+    "Śamī wood is used in the procedure.",
+    "The deity is to be bathed."
+   ],
+   "inference": "After making a sand altar, one should bathe the deity using Śamī wood.",
+   "uncertainties": [
+    "The precise ritual role of śamyayā in the bathing is not fully specified."
+   ],
+   "plain_english": "Having made a sand altar, one should bathe the god with Śamī wood."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "snāpayet",
+     "gloss": "one-should-bathe",
+     "grounds": "optative prescribing ritual bathing",
+     "morph": "3.sg.caus-opt √snā"
+    },
+    {
+     "surface": "pañcakalaśaiḥ",
+     "gloss": "with-five-pots",
+     "grounds": "instrumental compound indicating five pots",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śatavāraṃ",
+     "gloss": "hundred-times",
+     "grounds": "adverbial compound indicating repetition one hundred times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "instrumental indicating water as the substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements of the rite",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what materials and how many times should the deity be bathed?",
+   "premises": [
+    "Bathing is prescribed.",
+    "Five pots are used.",
+    "The bathing is performed a hundred times with water."
+   ],
+   "inference": "One should bathe the deity a hundred times with water using five pots.",
+   "uncertainties": [],
+   "plain_english": "One should bathe the deity a hundred times with water from five pots."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "vastreṇa",
+     "gloss": "with-cloth",
+     "grounds": "instrumental indicating a cloth covering",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ācchādayet",
+     "gloss": "one-should-cover",
+     "grounds": "optative prescribing covering",
+     "morph": "3.sg.caus-opt ā-√chad"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "the-god",
+     "grounds": "object denoting the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedyāṃtaṃ",
+     "gloss": "to-platform-end",
+     "grounds": "compound indicating up to the end of the platform",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "to-pavilion",
+     "grounds": "object indicating the pavilion as destination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-lead",
+     "grounds": "optative prescribing leading or bringing",
+     "morph": "3.sg.act-opt √nī"
+    }
+   ],
+   "question": "What actions should follow the bathing of the deity in the ritual sequence?",
+   "premises": [
+    "The deity is to be covered with cloth.",
+    "The deity is to be led to the pavilion.",
+    "The movement extends to the end of the platform."
+   ],
+   "inference": "One should cover the deity with cloth and lead it to the pavilion up to the end of the platform.",
+   "uncertainties": [
+    "The exact spatial sense of vedyāṃtaṃ in relation to maṇḍapaṃ is slightly ambiguous."
+   ],
+   "plain_english": "One should cover the god with a cloth and lead him to the pavilion up to the end of the platform."
+  }
+ ]
+}

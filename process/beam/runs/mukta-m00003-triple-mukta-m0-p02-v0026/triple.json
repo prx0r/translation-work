@@ -1,0 +1,1239 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "self",
+     "grounds": "reflexive identity of the subject",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "act of contemplative absorption",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "self",
+     "grounds": "reflexive identity of the subject",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātā",
+     "gloss": "meditator",
+     "grounds": "agent who performs meditation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "self",
+     "grounds": "reflexive identity of the subject",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "pervasive presence in all places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "divine presence or object of worship",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What identity unites meditation, meditator, and deity in all places?",
+   "premises": [
+    "Meditation is identified as the self.",
+    "The meditator is identified as the self.",
+    "The deity present everywhere is identified as the self."
+   ],
+   "inference": "Meditation, meditator, and deity are non-different from the self.",
+   "uncertainties": [],
+   "plain_english": "Meditation is oneself, the meditator is oneself, and the deity everywhere is oneself."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "tādṛśaṃ",
+     "gloss": "such",
+     "grounds": "of that kind or nature",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āva",
+     "gloss": "obtains",
+     "grounds": "reaches or attains; archaic form",
+     "morph": "3.sg.act-pres √āp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context or path",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārya+vicāraṇāt",
+     "gloss": "action-deliberation",
+     "grounds": "reasoning about ritual or practical action",
+     "morph": "compound: kārya+vicāraṇa (n.abl.sg)"
+    }
+   ],
+   "question": "Can such a fruit be obtained through deliberation about action?",
+   "premises": [
+    "A fruit of a specific nature is under discussion.",
+    "Deliberation about action is considered as a means.",
+    "The text denies attainment by that means in this context."
+   ],
+   "inference": "Such a fruit is not obtained through deliberation about action.",
+   "uncertainties": [
+    "The form āva is archaic and its exact verbal analysis is uncertain."
+   ],
+   "plain_english": "One does not obtain such a fruit here through deliberation about action."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "anāma",
+     "gloss": "nameless",
+     "grounds": "without name or designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "referring to the previously indicated reality",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gīyante",
+     "gloss": "are-sung",
+     "grounds": "are proclaimed or described",
+     "morph": "3.pl.pass-pres √gai"
+    },
+    {
+     "surface": "bhrānti+jñāna+vimohitaiḥ",
+     "gloss": "delusion-knowledge-bewildered",
+     "grounds": "those confused by erroneous understanding",
+     "morph": "compound: bhrānti+jñāna+vimohita (m.inst.pl)"
+    }
+   ],
+   "question": "Who wrongly assigns names to that which is nameless?",
+   "premises": [
+    "The reality in question is nameless.",
+    "Names or descriptions are attributed to it.",
+    "Those who attribute them are bewildered by delusive knowledge."
+   ],
+   "inference": "Only those deluded by erroneous knowledge sing names for the nameless.",
+   "uncertainties": [],
+   "plain_english": "Names are sung for that nameless reality by those bewildered by delusive knowledge."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "by means of that understanding or reality",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "muñcanti",
+     "gloss": "they-release",
+     "grounds": "they become freed or liberated",
+     "morph": "3.pl.act-pres √muc"
+    },
+    {
+     "surface": "saṃsāraṃ",
+     "gloss": "wandering",
+     "grounds": "cycle of transmigration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "realm of suffering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yoni+saṃkulam",
+     "gloss": "womb-crowded",
+     "grounds": "filled with repeated births in various wombs",
+     "morph": "compound: yoni+saṃkula (m.acc.sg)"
+    }
+   ],
+   "question": "What liberation results from realizing that nameless reality?",
+   "premises": [
+    "A specific means or realization is indicated as 'by that'.",
+    "Release occurs through that means.",
+    "The realms left behind include transmigration, hell, and crowded wombs."
+   ],
+   "inference": "By that, beings are released from transmigration, hell, and the crowd of wombs.",
+   "uncertainties": [],
+   "plain_english": "By that, they are released from the cycle of wandering, from hell, and from the crowd of wombs."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that realized being or reality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bāhya+abhyantare",
+     "gloss": "outside-inside",
+     "grounds": "in both external and internal domains",
+     "morph": "compound: bāhya+abhyantara (n.loc.sg)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "at all times, perpetually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka+ākāraṃ",
+     "gloss": "one-form",
+     "grounds": "of a single, uniform nature",
+     "morph": "compound: eka+ākāra (m.acc.sg)"
+    },
+    {
+     "surface": "cara+acaram",
+     "gloss": "moving-unmoving",
+     "grounds": "comprising both mobile and immobile beings",
+     "morph": "compound: cara+acara (n.acc.sg)"
+    }
+   ],
+   "question": "How is that reality present in both outer and inner worlds?",
+   "premises": [
+    "The subject is present outside and inside.",
+    "Its presence is constant at all times.",
+    "It appears as one form encompassing moving and unmoving."
+   ],
+   "inference": "That reality is always one form, inside and outside, as moving and unmoving.",
+   "uncertainties": [],
+   "plain_english": "He is always of one form, outside and inside, as both the moving and the unmoving."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "sarva+avayava+nirmuktaṃ",
+     "gloss": "all-limb-freed",
+     "grounds": "free from all parts or bodily divisions",
+     "morph": "compound: sarva+avayava+nirmukta (n.acc.sg)"
+    },
+    {
+     "surface": "nirlayaṃ",
+     "gloss": "without-dissolution",
+     "grounds": "not subject to dissolution or merging away",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirvikāra+jam",
+     "gloss": "changeless-born",
+     "grounds": "arisen without change or modification",
+     "morph": "compound: nirvikāra+ja (n.acc.sg)"
+    }
+   ],
+   "question": "What attributes characterize that reality beyond parts and change?",
+   "premises": [
+    "It is free from all limbs or parts.",
+    "It is without dissolution.",
+    "It is born without undergoing change."
+   ],
+   "inference": "That reality is partless, indissoluble, and changeless in its arising.",
+   "uncertainties": [
+    "The compound nirvikāra+jam is syntactically compressed and open to interpretation."
+   ],
+   "plain_english": "It is free from all parts, without dissolution, and born without change."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "sarvajñaṃ",
+     "gloss": "all-knowing",
+     "grounds": "possessing complete knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paripūrṇaṃ",
+     "gloss": "all-full",
+     "grounds": "complete and lacking nothing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svabhāvaḥ",
+     "gloss": "own-nature",
+     "grounds": "intrinsic nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣayam",
+     "gloss": "imperishable",
+     "grounds": "not subject to decay or loss",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What essential qualities define the intrinsic nature of that reality?",
+   "premises": [
+    "It is described as all-knowing.",
+    "It is described as all-full.",
+    "Its own nature is indeed imperishable."
+   ],
+   "inference": "That reality is all-knowing, all-full, and imperishable by its own nature.",
+   "uncertainties": [],
+   "plain_english": "It is all-knowing and all-full, and its own nature is indeed imperishable."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "māyā+atītaṃ",
+     "gloss": "illusion-transcended",
+     "grounds": "beyond the power of illusion",
+     "morph": "compound: māyā+atīta (n.acc.sg)"
+    },
+    {
+     "surface": "nirālambaṃ",
+     "gloss": "without-support",
+     "grounds": "not dependent on any external support",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervading",
+     "grounds": "extending through all things",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvataḥ+mukham",
+     "gloss": "facing-all-directions",
+     "grounds": "having presence or access in every direction",
+     "morph": "compound: sarvatas+mukha (n.acc.sg)"
+    }
+   ],
+   "question": "How does that reality relate to illusion, support, and space?",
+   "premises": [
+    "It transcends illusion.",
+    "It requires no support.",
+    "It pervades all and faces every direction."
+   ],
+   "inference": "That reality is beyond illusion, unsupported, all-pervading, and facing all directions.",
+   "uncertainties": [],
+   "plain_english": "It transcends illusion, is without support, pervading, and facing in all directions."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "akula+vīraṃ",
+     "gloss": "kula-less-hero",
+     "grounds": "the hero beyond kula distinctions; key Kaula term",
+     "morph": "compound: akula+vīra (m.acc.sg)"
+    },
+    {
+     "surface": "mahat+bhūtam",
+     "gloss": "great-being",
+     "grounds": "a vast or supreme entity",
+     "morph": "compound: mahat+bhūta (n.acc.sg)"
+    },
+    {
+     "surface": "asti+nāsti+vivarjitam",
+     "gloss": "is-not-is-devoid",
+     "grounds": "free from the categories of existence and non-existence",
+     "morph": "compound: asti+nāsti+vivarjita (n.acc.sg)"
+    }
+   ],
+   "question": "What supreme identity transcends both existence and non-existence?",
+   "premises": [
+    "The subject is identified as the kula-less hero.",
+    "It is described as a great being.",
+    "It is devoid of both existence and non-existence."
+   ],
+   "inference": "The kula-less hero is the great being beyond existence and non-existence.",
+   "uncertainties": [],
+   "plain_english": "It is the kula-less hero, the great being, devoid of both existence and non-existence."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "temporal principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalanā+śaktir",
+     "gloss": "measuring-power",
+     "grounds": "power of enumeration or differentiation",
+     "morph": "compound: kalanā+śakti (f.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "auspicious-one",
+     "grounds": "the principle named Śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriyaḥ",
+     "gloss": "sense-organ",
+     "grounds": "faculty of sense perception",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which limiting principles are denied of that supreme reality?",
+   "premises": [
+    "Time is negated of that reality.",
+    "The power of measuring or differentiation is negated.",
+    "Śiva as a limited principle and the sense-organ are negated."
+   ],
+   "inference": "That reality is not time, not measuring power, not Śiva as such, and not a sense-organ.",
+   "uncertainties": [
+    "The negation of śivo may target a limited conception rather than the absolute."
+   ],
+   "plain_english": "It is not time, not the power of measurement, not Śiva, and not a sense-organ."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raso",
+     "gloss": "taste",
+     "grounds": "flavor or sensory essence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "pleasant experience",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "duḥkham",
+     "gloss": "suffering",
+     "grounds": "unpleasant experience",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are sensory qualities and affective states present in that reality?",
+   "premises": [
+    "Taste is negated of that reality.",
+    "Happiness is negated of that reality.",
+    "Suffering is negated of that reality."
+   ],
+   "inference": "That reality is neither taste nor happiness nor suffering.",
+   "uncertainties": [],
+   "plain_english": "It is indeed not taste, not happiness, and not suffering."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāyā",
+     "gloss": "shadow",
+     "grounds": "shade or reflected absence of light",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāpas",
+     "gloss": "heat",
+     "grounds": "burning warmth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic or contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīto",
+     "gloss": "cold",
+     "grounds": "coldness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uṣṇavān",
+     "gloss": "hot",
+     "grounds": "possessing heat",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Do physical opposites like shadow, heat, and cold apply to that reality?",
+   "premises": [
+    "Shadow is negated of that reality.",
+    "Heat and cold are negated of that reality.",
+    "The state of being hot is also negated."
+   ],
+   "inference": "That reality is free from physical opposites such as shadow, heat, cold, and hotness.",
+   "uncertainties": [],
+   "plain_english": "It is not shadow, not heat, not cold, and not hot."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sīmā",
+     "gloss": "boundary",
+     "grounds": "limit or border",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "is perceived or observed",
+     "morph": "3.sg.pass-pres √dṛś"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that state or reality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthyaṃ",
+     "gloss": "pilgrim-place",
+     "grounds": "sacred ford or sectarian locus; reading uncertain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can boundaries or sacred external loci be found in that reality?",
+   "premises": [
+    "No boundary is seen there.",
+    "No pilgrim-place or sectarian locus is found there.",
+    "The negations are emphatic."
+   ],
+   "inference": "That reality has no visible boundary and no external sacred locus.",
+   "uncertainties": [
+    "The term tīrthyaṃ is ambiguous and may refer to a pilgrimage site or sectarian position."
+   ],
+   "plain_english": "No boundary is seen there, and indeed there is no sacred place or sectarian locus."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "nirākulaṃ",
+     "gloss": "without-agitation",
+     "grounds": "free from disturbance or confusion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirvikalpaṃ",
+     "gloss": "without-conceptualization",
+     "grounds": "free from mental constructs or distinctions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nibaddhaṃ",
+     "gloss": "bound",
+     "grounds": "fixed or tied; paradoxical attribute in context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mala+kṣaṇam",
+     "gloss": "impurity-marked",
+     "grounds": "characterized by a moment or trace of impurity; reading uncertain",
+     "morph": "compound: mala+kṣaṇa (n.acc.sg)"
+    }
+   ],
+   "question": "How can that reality be described with both transcendent and limiting attributes?",
+   "premises": [
+    "It is described as without agitation and without conceptualization.",
+    "It is also described as bound.",
+    "It is described as marked by impurity."
+   ],
+   "inference": "The text attributes paradoxical qualities, suggesting a reality beyond ordinary oppositions.",
+   "uncertainties": [
+    "The pairing of nibaddhaṃ and mala+kṣaṇam with transcendent terms is paradoxical and may be archaic or corrupt."
+   ],
+   "plain_english": "It is without agitation and without conceptualization, and yet described as bound and marked by impurity."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "anigūḍham",
+     "gloss": "unconcealed",
+     "grounds": "not hidden or secret",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asandhiṃ",
+     "gloss": "without-junction",
+     "grounds": "without joining or interval",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāvaraṃ",
+     "gloss": "stationary",
+     "grounds": "immobile",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jaṅgam",
+     "gloss": "moving",
+     "grounds": "mobile",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner does that reality manifest as both stationary and moving?",
+   "premises": [
+    "It is unconcealed and without junction.",
+    "It is described as stationary.",
+    "It is described as moving."
+   ],
+   "inference": "That reality is openly present without division as both stationary and moving.",
+   "uncertainties": [],
+   "plain_english": "It is unconcealed and without junction, indeed both stationary and moving."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "the totality of things",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sama+rasaṃ",
+     "gloss": "same-essence",
+     "grounds": "of one uniform taste or essence",
+     "morph": "compound: sama+rasa (n.acc.sg)"
+    },
+    {
+     "surface": "pūrṇaṃ",
+     "gloss": "full",
+     "grounds": "complete and whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "akula+vīraṃ",
+     "gloss": "kula-less-hero",
+     "grounds": "the hero beyond kula distinctions",
+     "morph": "compound: akula+vīra (m.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "alone",
+     "grounds": "sole, absolute, without a second",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the nature of the kula-less hero as the totality of all?",
+   "premises": [
+    "All is described as having the same essence.",
+    "All is described as full.",
+    "The kula-less hero is identified as that alone."
+   ],
+   "inference": "The kula-less hero alone is all, of one essence, and full.",
+   "uncertainties": [],
+   "plain_english": "All is of one essence and full; the kula-less hero alone is that."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of that being or state",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mātā+pitā",
+     "gloss": "mother-father",
+     "grounds": "parents",
+     "morph": "compound: mātṛ+pitṛ (m.nom.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāndhavaṃ",
+     "gloss": "kinsman",
+     "grounds": "relative or family connection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "god or divine being",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What familial or divine relations are absent for that realized one?",
+   "premises": [
+    "Mother and father are negated for that one.",
+    "Kinsman is negated for that one.",
+    "Deity is negated for that one."
+   ],
+   "inference": "For that one there is no mother, father, kinsman, or deity.",
+   "uncertainties": [],
+   "plain_english": "For him there is no mother or father, no kinsman, and no deity."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "having relinquished",
+     "morph": "(gerund) √tyaj"
+    },
+    {
+     "surface": "vikalpa+saṃghātam",
+     "gloss": "conceptualization-mass",
+     "grounds": "the aggregate of mental constructs and distinctions",
+     "morph": "compound: vikalpa+saṃghāta (m.acc.sg)"
+    },
+    {
+     "surface": "akula+vīra+layaṃ",
+     "gloss": "kula-less-hero-dissolution",
+     "grounds": "absorption into the kula-less hero",
+     "morph": "compound: akula+vīra+laya (m.acc.sg)"
+    },
+    {
+     "surface": "gatāḥ",
+     "gloss": "gone",
+     "grounds": "those who have attained or reached",
+     "morph": "m.nom.pl (past participle) √gam"
+    }
+   ],
+   "question": "What attainment follows from abandoning the mass of conceptualization?",
+   "premises": [
+    "The mass of conceptualization is abandoned.",
+    "A state of dissolution into the kula-less hero is reached.",
+    "Those who reach it are described as having gone there."
+   ],
+   "inference": "Abandoning conceptualization leads to dissolution into the kula-less hero.",
+   "uncertainties": [],
+   "plain_english": "Having abandoned the mass of conceptualization, they have gone to dissolution in the kula-less hero."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "agni+praveśanaṃ",
+     "gloss": "fire-entering",
+     "grounds": "ritual self-immolation or entering fire",
+     "morph": "compound: agni+praveśana (n.nom.sg)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "does not exist or is not applicable",
+     "morph": "3.sg.act-pres √as"
+    },
+    {
+     "surface": "hemanta+bhṛgu",
+     "gloss": "winter-bhṛgu",
+     "grounds": "obscure ritual or ascetic reference; archaic",
+     "morph": "compound: hemanta+bhṛgu (m.nom.sg)"
+    },
+    {
+     "surface": "nodanam",
+     "gloss": "impelling",
+     "grounds": "urging or driving practice; reading uncertain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which extreme ritual practices are rejected for that realized state?",
+   "premises": [
+    "Entering fire is negated.",
+    "A practice associated with winter and Bhṛgu is mentioned.",
+    "Its impelling or observance is negated or dismissed."
+   ],
+   "inference": "Extreme ritual practices such as entering fire and related austerities are not required.",
+   "uncertainties": [
+    "The compound hemanta+bhṛgu and the term nodanam are archaic and their precise ritual meaning is uncertain."
+   ],
+   "plain_english": "There is no entering into fire, nor the impelling austerity associated with winter and Bhṛgu."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "pitṛ+kāryaṃ",
+     "gloss": "ancestor-rite",
+     "grounds": "ritual duty for ancestors",
+     "morph": "compound: pitṛ+kārya (n.acc.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karotāti",
+     "gloss": "does",
+     "grounds": "performs; archaic or compressed form",
+     "morph": "3.sg.act-pres √kṛ (archaic)"
+    },
+    {
+     "surface": "tīrtha+yātrā+vratāni",
+     "gloss": "pilgrimage-journey-vows",
+     "grounds": "pilgrimages and religious vows",
+     "morph": "compound: tīrtha+yātrā+vrata (n.acc.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What conventional religious duties are not performed in that state?",
+   "premises": [
+    "Ancestor rites are not performed.",
+    "Pilgrimages and vows are included in the negation.",
+    "The subject does not engage in these conventional duties."
+   ],
+   "inference": "The realized one does not perform ancestor rites, pilgrimages, or vows.",
+   "uncertainties": [
+    "The form karotāti is non-standard and may be an archaic or colloquial variant."
+   ],
+   "plain_english": "He does not perform rites for the ancestors, nor pilgrimages and vows."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "self",
+     "grounds": "by oneself, on one's own",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaja",
+     "gloss": "abandon",
+     "grounds": "relinquish or give up",
+     "morph": "2.sg.act-imperative √tyaj"
+    },
+    {
+     "surface": "sarva+kāryāṇi",
+     "gloss": "all-actions",
+     "grounds": "all ritual or worldly duties",
+     "morph": "compound: sarva+kārya (n.acc.pl)"
+    },
+    {
+     "surface": "loka+ācārāṇi",
+     "gloss": "world-conducts",
+     "grounds": "customary social and religious behaviors",
+     "morph": "compound: loka+ācāra (n.acc.pl)"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to conducts",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What injunction is given regarding all actions and worldly customs?",
+   "premises": [
+    "An imperative to abandon is issued.",
+    "All actions are included in what must be abandoned.",
+    "All worldly conducts are included in what must be abandoned."
+   ],
+   "inference": "One should abandon all actions and all worldly customs.",
+   "uncertainties": [],
+   "plain_english": "Abandon by yourself all actions and whatever worldly customs there are."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "saṃkalpaṃ",
+     "gloss": "resolve",
+     "grounds": "mental intention or determination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "doubt",
+     "grounds": "conceptual distinction or wavering thought",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "other things of similar kind",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphatic or reportive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmiṇaḥ",
+     "gloss": "righteous",
+     "grounds": "characterized by duty or religious quality; reading uncertain",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which mental constructs and so-called righteous attitudes must be relinquished?",
+   "premises": [
+    "Resolve and doubt are to be abandoned.",
+    "Other similar mental or religious attitudes are included.",
+    "These are characterized as righteous in a conventional sense."
+   ],
+   "inference": "Resolve, doubt, and other conventionally righteous attitudes must be relinquished.",
+   "uncertainties": [
+    "The term dharmiṇaḥ is ambiguous here and may refer to things endowed with dharma or to righteous persons."
+   ],
+   "plain_english": "Abandon resolve and doubt, and indeed whatever other things are considered righteous."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "siddhiḥ",
+     "gloss": "attainment",
+     "grounds": "supernatural accomplishment or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vividhā+ākārā",
+     "gloss": "various-forms",
+     "grounds": "of many kinds or appearances",
+     "morph": "compound: vividha+ākāra (f.nom.sg)"
+    },
+    {
+     "surface": "pātāle",
+     "gloss": "in-netherworld",
+     "grounds": "in the subterranean realm",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rasāyanam",
+     "gloss": "elixir",
+     "grounds": "alchemical substance or rejuvenating preparation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kinds of supernatural attainments are included among things to be set aside?",
+   "premises": [
+    "Attainments of various forms are mentioned.",
+    "Powers or realms in the netherworld are mentioned.",
+    "Alchemical elixirs are mentioned."
+   ],
+   "inference": "Various attainments, netherworld powers, and elixirs are included among such pursuits.",
+   "uncertainties": [],
+   "plain_english": "Attainments of various forms, powers in the netherworld, and alchemical elixirs are also included."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "the entirety of the aforementioned",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśa+jālaṃ",
+     "gloss": "bond-net",
+     "grounds": "network of fetters or bindings",
+     "morph": "compound: pāśa+jāla (n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhaḥ+mārga+pradāyakaḥ",
+     "gloss": "downward-path-giving",
+     "grounds": "leading to a lower course or degradation",
+     "morph": "compound: adhas+mārga+pradāyaka (m.nom.sg)"
+    }
+   ],
+   "question": "Why must all such attainments and practices ultimately be rejected?",
+   "premises": [
+    "All the aforementioned things are taken together.",
+    "They constitute a net of bonds.",
+    "They lead to a downward path."
+   ],
+   "inference": "All such attainments are a net of bonds that lead one downward.",
+   "uncertainties": [],
+   "plain_english": "All of this is a net of bonds and leads one along a downward path."
+  }
+ ]
+}

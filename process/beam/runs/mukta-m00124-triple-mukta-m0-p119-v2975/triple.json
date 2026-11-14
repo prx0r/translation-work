@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "saptatridvyaṃśa",
+     "gloss": "seven-three-two-part",
+     "grounds": "legacy hint: seven+three+two+part; compound part-measure",
+     "morph": "compound (adj)"
+    },
+    {
+     "surface": "ādāṃśāt",
+     "gloss": "from-part",
+     "grounds": "legacy hint: from+part; ablative source",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "daśāṣṭadaśabhāgikam",
+     "gloss": "ten-eight-ten-part-possessing",
+     "grounds": "legacy hint: ten+eight+ten+part+possessing; compound adjective",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What part-measures belong to the vimāna beginning from the seven-three-two part?",
+   "premises": [
+    "vimāna measures are given in parts",
+    "the verse lists part sequences",
+    "the final measure is ten-eight-ten-part-possessing"
+   ],
+   "inference": "The verse supplies a further vimāna part-measure sequence.",
+   "uncertainties": [
+    "exact sandhi and compound boundaries are not fully resolved"
+   ],
+   "plain_english": "From the seven-three-two part, the measure is ten-eight-ten parts."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "ati+gopyaṃ",
+     "gloss": "very-secret",
+     "grounds": "compound expressing extreme secrecy",
+     "morph": "compound"
+    },
+    {
+     "surface": "su+gopyaṃ",
+     "gloss": "well-secret",
+     "grounds": "compound expressing thorough concealment",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+viṣṇu+ādi",
+     "gloss": "brahma-vishnu-and-others",
+     "grounds": "compound listing deities as examples",
+     "morph": "compound"
+    },
+    {
+     "surface": "agocaram",
+     "gloss": "beyond-range",
+     "grounds": "predicate indicating inaccessibility to perception or knowledge",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What makes the subject extremely secret and inaccessible even to Brahmā, Viṣṇu, and others?",
+   "premises": [
+    "The subject is described as very secret.",
+    "The subject is described as well secret.",
+    "The subject lies beyond the range of Brahmā, Viṣṇu, and others."
+   ],
+   "inference": "Therefore, the subject is profoundly concealed and inaccessible even to high deities.",
+   "uncertainties": [
+    "The specific subject referred to is implicit from the preceding context."
+   ],
+   "plain_english": "It is indeed very secret and well guarded, beyond the range of Brahmā, Viṣṇu, and others."
+  }
+ ]
+}

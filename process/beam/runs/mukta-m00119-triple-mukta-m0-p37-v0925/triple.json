@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hyavikāraparāyaṇām",
+     "gloss": "indeed-changeless-devoted",
+     "grounds": "hi + avikāra-parāyaṇā; devoted to changelessness",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which steadfast quality is ascribed to the goddess?",
+   "premises": [
+    "deveśi addresses the goddess",
+    "hyavikāra means changeless",
+    "parāyaṇām means devoted"
+   ],
+   "inference": "The goddess is addressed as devoted to changelessness.",
+   "uncertainties": [
+    "Exact syntactic role of hyavikāraparāyaṇām is unclear from two tokens"
+   ],
+   "plain_english": "O goddess, indeed devoted to the changeless."
+  }
+ ]
+}

@@ -1,0 +1,575 @@
+{
+ "song": "kul-p37",
+ "items": [
+  {
+   "verse": 913,
+   "rows": [
+    {
+     "surface": "unmanākhyatadullāse",
+     "gloss": "unmana-named-that-delight",
+     "grounds": "compound of unmana named that delight",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-circle",
+     "grounds": "locative singular of cakra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vīrasamacīte",
+     "gloss": "hero-equal",
+     "grounds": "compound of hero equal",
+     "morph": "compound"
+    }
+   ],
+   "question": "What delight arises in the circle for the hero-equal?",
+   "premises": [
+    "The verse names unmana delight.",
+    "It places that delight in the circle.",
+    "It addresses the hero-equal."
+   ],
+   "inference": "The verse links unmana delight, circle, and hero-equal.",
+   "uncertainties": [
+    "Exact compound segmentation is not fully certain."
+   ],
+   "plain_english": "In the circle, the delight named unmana is for the hero-equal."
+  },
+  {
+   "verse": 914,
+   "rows": [
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "neuter accusative singular of para",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmānusandhānākāṅkṣiṇau",
+     "gloss": "brahma-inquiry-desiring",
+     "grounds": "compound of brahma inquiry desiring",
+     "morph": "compound"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-heroines",
+     "grounds": "vocative dual of kulanāyikā",
+     "morph": "f.voc.du"
+    }
+   ],
+   "question": "Who desires supreme brahma inquiry among the kula heroines?",
+   "premises": [
+    "The verse names supreme brahma inquiry.",
+    "It names desiring ones.",
+    "It addresses kula heroines."
+   ],
+   "inference": "The verse addresses kula heroines desiring supreme brahma inquiry.",
+   "uncertainties": [
+    "Dual number and vocative force are inferred."
+   ],
+   "plain_english": "O kula heroines, the two desiring supreme brahma inquiry."
+  },
+  {
+   "verse": 915,
+   "rows": [
+    {
+     "surface": "samavasthām",
+     "gloss": "equilibrium",
+     "grounds": "accusative singular of samavasthā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "idhe",
+     "gloss": "in-this",
+     "grounds": "locative of idam",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative singular of tad",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tatollāse",
+     "gloss": "that-delight",
+     "grounds": "locative singular of tatollāsa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "neuter accusative singular of sama",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular present optative of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What becomes equal in that delight?",
+   "premises": [
+    "The verse names equilibrium.",
+    "It names this and that.",
+    "It names that delight and equal becoming."
+   ],
+   "inference": "Equilibrium becomes equal in that delight.",
+   "uncertainties": [
+    "The exact referent of this and that is context-dependent."
+   ],
+   "plain_english": "In this and that, equilibrium becomes equal in that delight."
+  },
+  {
+   "verse": 916,
+   "rows": [
+    {
+     "surface": "mūrcchanāsannikarṣaḥ",
+     "gloss": "fainting-proximity",
+     "grounds": "compound of fainting proximity",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamukteḥ",
+     "gloss": "root-liberation",
+     "grounds": "genitive singular of mūlamukti",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "neuter accusative singular of para",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "third plural perfect of vid",
+     "morph": "3.pl.act.perf"
+    }
+   ],
+   "question": "What do they know as supreme for root liberation?",
+   "premises": [
+    "The verse names fainting proximity.",
+    "It names root liberation.",
+    "It says they know the supreme."
+   ],
+   "inference": "Fainting proximity is known as supreme for root liberation.",
+   "uncertainties": [
+    "The subject of viduḥ is not explicit."
+   ],
+   "plain_english": "Indeed, fainting proximity is known as supreme for root liberation."
+  },
+  {
+   "verse": 917,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "feminine nominative singular of etad",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbhavī",
+     "gloss": "śāmbhavī",
+     "grounds": "feminine nominative singular of śāmbhavī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "seal",
+     "grounds": "feminine nominative singular of mudrā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "locative plural of sarvatanttra",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "gopitā",
+     "gloss": "hidden",
+     "grounds": "feminine nominative singular past participle of gup",
+     "morph": "f.nom.sg.pastpart"
+    }
+   ],
+   "question": "Where is this śāmbhavī seal hidden?",
+   "premises": [
+    "The verse names this śāmbhavī seal.",
+    "It says it is hidden.",
+    "It names all tantras."
+   ],
+   "inference": "This śāmbhavī seal is hidden in all tantras.",
+   "uncertainties": [
+    "The exact scope of all tantras is unspecified."
+   ],
+   "plain_english": "This śāmbhavī seal is indeed hidden in all tantras."
+  },
+  {
+   "verse": 918,
+   "rows": [
+    {
+     "surface": "anayollāsinaḥ",
+     "gloss": "by-this-delighted",
+     "grounds": "genitive or instrumental plural of anayollāsin",
+     "morph": "compound"
+    },
+    {
+     "surface": "vīrāḥ",
+     "gloss": "heroes",
+     "grounds": "masculine nominative plural of vīra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivāḥ",
+     "gloss": "śivas",
+     "grounds": "masculine nominative plural of śiva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "masculine nominative singular of saṃśaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is certain about heroes delighted by this?",
+   "premises": [
+    "The verse names heroes delighted by this.",
+    "It names śivas.",
+    "It denies doubt."
+   ],
+   "inference": "Heroes delighted by this are śivas, without doubt.",
+   "uncertainties": [
+    "The exact syntactic relation of anayollāsinaḥ is ambiguous."
+   ],
+   "plain_english": "Heroes delighted by this are indeed śivas; there is no doubt."
+  },
+  {
+   "verse": 919,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatparamaṃ",
+     "gloss": "that-supreme",
+     "grounds": "neuter accusative singular of yatparama",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saukhyaṃ",
+     "gloss": "bliss",
+     "grounds": "neuter accusative singular of saukhya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktuṃ",
+     "gloss": "to-speak",
+     "grounds": "infinitive of vac",
+     "morph": "inf"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "possible",
+     "grounds": "third singular present passive of śak",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Why cannot that supreme bliss be spoken?",
+   "premises": [
+    "The verse names that supreme bliss.",
+    "It names speaking.",
+    "It says it is not possible."
+   ],
+   "inference": "That supreme bliss cannot be spoken.",
+   "uncertainties": [
+    "The temporal force of tadā is not fully specified."
+   ],
+   "plain_english": "Then that supreme bliss cannot be spoken."
+  },
+  {
+   "verse": 920,
+   "rows": [
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "third singular present passive of dṛś",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "pulakādyaiḥ",
+     "gloss": "by-horripilation-etc",
+     "grounds": "instrumental plural of pulakādi",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yat",
+     "gloss": "that",
+     "grounds": "neuter accusative singular of yat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadbrahmadhyānam",
+     "gloss": "that-brahma-meditation",
+     "grounds": "compound of that brahma meditation",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "third singular present passive of vac",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "What is seen and called that brahma meditation?",
+   "premises": [
+    "The verse names being seen.",
+    "It names horripilation and so on.",
+    "It names that brahma meditation."
+   ],
+   "inference": "That brahma meditation is seen by horripilation and so on.",
+   "uncertainties": [
+    "The exact relation between seeing and naming is implicit."
+   ],
+   "plain_english": "That brahma meditation is seen by horripilation and the like, and is called so."
+  },
+  {
+   "verse": 921,
+   "rows": [
+    {
+     "surface": "kathituṃ",
+     "gloss": "to-tell",
+     "grounds": "infinitive of kath",
+     "morph": "inf"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaknomi",
+     "gloss": "I-am-able",
+     "grounds": "first singular present of śak",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "prabuddhaḥ",
+     "gloss": "awakened",
+     "grounds": "masculine nominative singular past participle of prabudh",
+     "morph": "m.nom.sg.pastpart"
+    },
+    {
+     "surface": "tatsamāhitaḥ",
+     "gloss": "that-absorbed",
+     "grounds": "compound of that absorbed",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why can the awakened one not tell it?",
+   "premises": [
+    "The verse names telling.",
+    "It says not indeed able.",
+    "It names awakened and that-absorbed."
+   ],
+   "inference": "The awakened one absorbed in that cannot tell it.",
+   "uncertainties": [
+    "The object of telling is implicit."
+   ],
+   "plain_english": "I am not indeed able to tell it, being awakened and absorbed in that."
+  },
+  {
+   "verse": 922,
+   "rows": [
+    {
+     "surface": "kṣaṇe+api",
+     "gloss": "in-moment-even",
+     "grounds": "locative singular of kṣaṇa with api",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "antahīte",
+     "gloss": "vanished",
+     "grounds": "locative singular past participle of antarhā",
+     "morph": "m.loc.sg.pastpart"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative singular of tad",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śocayanti",
+     "gloss": "they-grieve",
+     "grounds": "third plural present causative of śuc",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "hataprabhāḥ",
+     "gloss": "lost-radiance",
+     "grounds": "compound of lost radiance",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who grieves when that vanishes even for a moment?",
+   "premises": [
+    "The verse names even in a moment.",
+    "It names vanished in that.",
+    "It names they grieve and lost radiance."
+   ],
+   "inference": "Those of lost radiance grieve when that vanishes even for a moment.",
+   "uncertainties": [
+    "The subject of śocayanti is implicit."
+   ],
+   "plain_english": "Even when that vanishes for a moment, those of lost radiance grieve."
+  },
+  {
+   "verse": 923,
+   "rows": [
+    {
+     "surface": "aṣṭāvasthāḥ",
+     "gloss": "eight-states",
+     "grounds": "feminine nominative plural of aṣṭāvasthā",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kampādyāḥ",
+     "gloss": "trembling-etc",
+     "grounds": "feminine nominative plural of kampādi",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "third plural present of jan",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negative with atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "masculine nominative singular of saṃśaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What arises without doubt in this?",
+   "premises": [
+    "The verse names eight states.",
+    "It names trembling and so on.",
+    "It says they arise and no doubt here."
+   ],
+   "inference": "Eight states such as trembling arise here without doubt.",
+   "uncertainties": [
+    "The exact list of eight states is not given."
+   ],
+   "plain_english": "Eight states, trembling and the like, arise here; there is no doubt."
+  },
+  {
+   "verse": 924,
+   "rows": [
+    {
+     "surface": "pratīhāri",
+     "gloss": "threshold",
+     "grounds": "neuter nominative singular of pratīhāri",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "state",
+     "grounds": "neuter accusative singular of pada",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāptāḥ",
+     "gloss": "having-obtained",
+     "grounds": "masculine nominative plural past participle of prāp",
+     "morph": "m.nom.pl.pastpart"
+    },
+    {
+     "surface": "sevante",
+     "gloss": "they-serve",
+     "grounds": "third plural present of sev",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "mandiraṃ",
+     "gloss": "temple",
+     "grounds": "neuter accusative singular of mandira",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ciram",
+     "gloss": "long",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What do those who obtain the threshold state serve?",
+   "premises": [
+    "The verse names threshold state.",
+    "It names having obtained.",
+    "It names they serve temple long."
+   ],
+   "inference": "Those who obtain the threshold state serve the temple long.",
+   "uncertainties": [
+    "The exact meaning of threshold state is context-dependent."
+   ],
+   "plain_english": "Having obtained the threshold state, they serve the temple long."
+  }
+ ]
+}

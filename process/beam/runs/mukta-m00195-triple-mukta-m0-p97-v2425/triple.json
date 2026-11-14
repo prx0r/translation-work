@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2425,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative injunction to visualize",
+     "morph": "3.sg.act-opt~√dhyai"
+    },
+    {
+     "surface": "kaṇṭhamadhye",
+     "gloss": "in-throat-middle",
+     "grounds": "locative compound indicating place of visualization",
+     "morph": "kaṇṭha+middle(cpd); loc.sg.nt"
+    },
+    {
+     "surface": "pītavarṇaṃ",
+     "gloss": "yellow-colored",
+     "grounds": "attribute of the visualized form",
+     "morph": "pīta+color(cpd); acc.sg.m"
+    },
+    {
+     "surface": "hiraṇmayam",
+     "gloss": "golden",
+     "grounds": "attribute of the visualized form",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What location and visual qualities characterize the prescribed meditation on Śiva?",
+   "premises": [
+    "The practitioner should meditate as an injunction.",
+    "The meditation is located in the middle of the throat.",
+    "The visualized form is yellow-colored and golden."
+   ],
+   "inference": "Śiva is to be meditated upon in the throat-middle as a yellow-colored, golden form.",
+   "uncertainties": [
+    "The object of meditation is carried over from the previous verse as Śiva."
+   ],
+   "plain_english": "One should meditate in the middle of the throat on a yellow-colored, golden form."
+  }
+ ]
+}

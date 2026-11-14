@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "kas",
+     "gloss": "who",
+     "grounds": "interrogative pronoun asking for identity",
+     "morph": "pron.interr.m.nom.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second-person pronoun addressed to the being",
+     "morph": "pron.2.nom.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative command requesting an answer",
+     "morph": "impv.2.sg.act-√vad"
+    },
+    {
+     "surface": "bhīmarūpa",
+     "gloss": "fearsome-formed",
+     "grounds": "vocative compound describing the being's appearance; bhīma+rūpa",
+     "morph": "bhīma+rūpa-comp.m.voc.sg"
+    },
+    {
+     "surface": "utthito'si",
+     "gloss": "risen-you-are",
+     "grounds": "fused form utthitaḥ+asi with sandhi; describes emergence",
+     "morph": "ppp.m.nom.sg-√ud-sthā+2.sg.pres.act-√as"
+    },
+    {
+     "surface": "jalārṇave",
+     "gloss": "in-ocean-waters",
+     "grounds": "locative compound indicating place of emergence; jala+arṇava",
+     "morph": "jala+arṇava-comp.m.loc.sg"
+    }
+   ],
+   "question": "What identity belongs to the fearsome being arisen from the ocean waters?",
+   "premises": [
+    "The speakers directly address an unknown being.",
+    "The addressed being possesses a fearsome form.",
+    "The addressed being has arisen in the ocean waters."
+   ],
+   "inference": "The speakers demand the identity of the fearsome being who emerged from the ocean.",
+   "uncertainties": [],
+   "plain_english": "Who are you? Tell us, O fearsome-formed one—you who have risen in the ocean waters."
+  }
+ ]
+}

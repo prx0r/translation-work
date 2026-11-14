@@ -1,0 +1,955 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1451,
+   "rows": [
+    {
+     "surface": "śūdrasyāpi",
+     "gloss": "even-for-śūdra",
+     "grounds": "śūdrasya + api; sandhi fusion marked in form",
+     "morph": "m.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "yathāsaṃkhyaṃ",
+     "gloss": "according-to-number",
+     "grounds": "adverbial compound indicating correspondence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayed",
+     "gloss": "should-assign",
+     "grounds": "optative prescribing action by teacher",
+     "morph": "3.sg.opt.act + kḷp"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "deśika + uttamaḥ; superior preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the best teacher assign colors even for a śūdra?",
+   "premises": [
+    "The best teacher performs the assignment.",
+    "The assignment follows a numerical correspondence.",
+    "Even a śūdra is included in this assignment."
+   ],
+   "inference": "The best teacher should assign colors to a śūdra according to the prescribed numerical order.",
+   "uncertainties": [],
+   "plain_english": "The best teacher should assign them in due order even for a śūdra."
+  },
+  {
+   "verse": 1452,
+   "rows": [
+    {
+     "surface": "śvetaṃ",
+     "gloss": "white",
+     "grounds": "color designation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "color designation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītañca",
+     "gloss": "and-yellow",
+     "grounds": "pītam + ca; sandhi fusion in token",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "color designation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viprāditaḥ",
+     "gloss": "from-brāhmaṇa-onward",
+     "grounds": "vipra + āditaḥ; starting from brāhmaṇa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which colors correspond in order to the classes beginning with the brāhmaṇa?",
+   "premises": [
+    "Four colors are listed: white, red, yellow, and black.",
+    "The sequence begins from the brāhmaṇa onward.",
+    "The arrangement follows a fixed order."
+   ],
+   "inference": "White, red, yellow, and black are assigned in order beginning with the brāhmaṇa.",
+   "uncertainties": [],
+   "plain_english": "White, red, yellow, and black are to be assigned in order, beginning with the brāhmaṇa."
+  },
+  {
+   "verse": 1453,
+   "rows": [
+    {
+     "surface": "punnāga",
+     "gloss": "punnāga",
+     "grounds": "name of a flower or tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jāti",
+     "gloss": "jāti",
+     "grounds": "jasmine flower",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "generic flower element in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abja",
+     "gloss": "lotus",
+     "grounds": "water-born flower",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "grain or paddy element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāṭala",
+     "gloss": "pāṭala",
+     "grounds": "pāṭala flower",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gandhakaiḥ",
+     "gloss": "with-fragrances",
+     "grounds": "instrumental plural indicating scents",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What fragrances are associated with the prescribed soil qualities?",
+   "premises": [
+    "A series of fragrant items is enumerated.",
+    "The list includes punnāga, jāti, lotus, grain, and pāṭala.",
+    "These are specified as fragrances."
+   ],
+   "inference": "The soil should be associated with fragrances such as punnāga, jāti, lotus, grain, and pāṭala.",
+   "uncertainties": [
+    "Exact identification of dhānya-gandha is context-dependent."
+   ],
+   "plain_english": "It should have the fragrances of punnāga, jāti, lotus, grain, and pāṭala."
+  },
+  {
+   "verse": 1454,
+   "rows": [
+    {
+     "surface": "ekavarṇaṃ",
+     "gloss": "one-colored",
+     "grounds": "uniform in color",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghanaṃ",
+     "gloss": "dense",
+     "grounds": "compact and solid",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "snigdhaṃ",
+     "gloss": "unctuous",
+     "grounds": "smooth or oily in texture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sukhasaṃsparśanānvitam",
+     "gloss": "with-pleasant-touch",
+     "grounds": "sukha + saṃsparśana + anvitam; endowed with pleasant feel",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What physical texture qualities must suitable soil possess?",
+   "premises": [
+    "The soil should be of one color.",
+    "The soil should be dense and unctuous.",
+    "The soil should be pleasant to the touch."
+   ],
+   "inference": "Suitable soil must be uniformly colored, dense, unctuous, and pleasant to touch.",
+   "uncertainties": [],
+   "plain_english": "It should be of one color, dense, unctuous, and pleasant to the touch."
+  },
+  {
+   "verse": 1455,
+   "rows": [
+    {
+     "surface": "tiktaṃ",
+     "gloss": "bitter",
+     "grounds": "taste quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭukaṃ",
+     "gloss": "pungent",
+     "grounds": "taste quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca + eva; emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṣāyamadhurāmlakam",
+     "gloss": "astringent-sweet-sour",
+     "grounds": "compound of three tastes: kaṣāya, madhura, amlaka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What taste qualities are prescribed for the suitable soil?",
+   "premises": [
+    "Bitter and pungent tastes are mentioned.",
+    "Astringent, sweet, and sour tastes are also mentioned.",
+    "These tastes characterize the soil."
+   ],
+   "inference": "The suitable soil should have bitter, pungent, astringent, sweet, and sour tastes.",
+   "uncertainties": [
+    "Whether all tastes must be present together or as acceptable variants is not explicit."
+   ],
+   "plain_english": "It should be bitter, pungent, and also astringent, sweet, and sour."
+  },
+  {
+   "verse": 1456,
+   "rows": [
+    {
+     "surface": "pradakṣiṇodakopetaṃ",
+     "gloss": "with-clockwise-water",
+     "grounds": "pradakṣiṇa + udaka + upetam; water flowing clockwise",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karamātroccalajjalam",
+     "gloss": "hand-measure-rising-water",
+     "grounds": "kara-mātra + uccalat + jalam; water rising to a hand's measure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What water characteristics indicate a suitable site for selection?",
+   "premises": [
+    "The site should have water flowing clockwise.",
+    "The water should rise to the measure of a hand.",
+    "These are positive indicators for the site."
+   ],
+   "inference": "A suitable site is indicated by clockwise-flowing water rising to a hand's height.",
+   "uncertainties": [],
+   "plain_english": "It should have water flowing clockwise and rising to the height of a hand."
+  },
+  {
+   "verse": 1457,
+   "rows": [
+    {
+     "surface": "suṣirāsthivihīnaṃ",
+     "gloss": "without-hollow-bones",
+     "grounds": "suṣira + asthi + vihīnam; devoid of porous bones",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanuvālukasaṃyutam",
+     "gloss": "with-fine-sand",
+     "grounds": "tanu + vāluka + saṃyutam; mixed with fine sand",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What subsurface contents are required or excluded in suitable soil?",
+   "premises": [
+    "The soil must be free of hollow bones.",
+    "The soil should be mixed with fine sand.",
+    "These conditions define acceptable subsurface composition."
+   ],
+   "inference": "Suitable soil must lack hollow bones and contain fine sand.",
+   "uncertainties": [],
+   "plain_english": "It should be free of hollow bones and mixed with fine sand."
+  },
+  {
+   "verse": 1458,
+   "rows": [
+    {
+     "surface": "paṅkaśeṣojjhitaṃ",
+     "gloss": "free-of-mud-residue",
+     "grounds": "paṅka + śeṣa + ujjhitam; abandoned by leftover mud",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śvabhradarīloṣṭavivarjitam",
+     "gloss": "without-pits-caves-clods",
+     "grounds": "śvabhra + darī + loṣṭa + vivarjitam; devoid of pits, caves, and clods",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ground defects must be absent from a suitable site?",
+   "premises": [
+    "The site must be free of residual mud.",
+    "The site must be free of pits, caves, and clods.",
+    "These absences are required for suitability."
+   ],
+   "inference": "A suitable site must lack mud residue, pits, caves, and clods.",
+   "uncertainties": [],
+   "plain_english": "It should be free of leftover mud and devoid of pits, caves, and clods."
+  },
+  {
+   "verse": 1459,
+   "rows": [
+    {
+     "surface": "duṣṭaprāṇisamīpasthaṃ",
+     "gloss": "near-harmful-creatures",
+     "grounds": "duṣṭa + prāṇi + samīpa + stham; situated near harmful beings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nṛpamandirasaṃśritam",
+     "gloss": "adjoining-king-palace",
+     "grounds": "nṛpa + mandira + saṃśritam; resorted to or adjoining a royal palace",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What nearby locations disqualify a site from being suitable?",
+   "premises": [
+    "Proximity to harmful creatures is mentioned.",
+    "Proximity to a king's palace is mentioned.",
+    "These locations are treated as disqualifying factors."
+   ],
+   "inference": "A site near harmful creatures or adjoining a king's palace should be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid a site near harmful creatures or adjoining a king's palace."
+  },
+  {
+   "verse": 1460,
+   "rows": [
+    {
+     "surface": "caṇḍālavāstukaṃ",
+     "gloss": "caṇḍāla-dwelling-site",
+     "grounds": "site associated with caṇḍāla habitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca + eva; emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmakārālayāśritam",
+     "gloss": "adjoining-artisan-dwellings",
+     "grounds": "karmakāra + ālaya + āśritam; resorted to by artisans' dwellings",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What other inhabited locations render a site unsuitable?",
+   "premises": [
+    "A site associated with caṇḍāla dwellings is mentioned.",
+    "A site adjoining artisans' dwellings is mentioned.",
+    "Both are included among unsuitable locations."
+   ],
+   "inference": "Sites associated with caṇḍāla or artisan dwellings are unsuitable.",
+   "uncertainties": [],
+   "plain_english": "One should also avoid a site of caṇḍāla dwellings or one adjoining artisans' houses."
+  },
+  {
+   "verse": 1461,
+   "rows": [
+    {
+     "surface": "śaṅkarārāmasaṃyuktaṃ",
+     "gloss": "joined-with-śiva-grove",
+     "grounds": "śaṅkara + ārāma + saṃyuktam; connected to a grove of Śiva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "refers to the previously described site",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "land or field area",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative prescribing avoidance",
+     "morph": "3.sg.opt.act + vṛj"
+    }
+   ],
+   "question": "Why must a field connected to a Śiva grove be avoided?",
+   "premises": [
+    "A field joined with a Śiva grove is specified.",
+    "The instruction is to avoid such a field.",
+    "This continues the list of unsuitable sites."
+   ],
+   "inference": "A field connected to a Śiva grove must be avoided as an unsuitable site.",
+   "uncertainties": [
+    "The specific reason for avoiding a Śiva grove-connected field is not stated explicitly."
+   ],
+   "plain_english": "One should avoid a field that is connected with a grove of Śaṅkara."
+  },
+  {
+   "verse": 1462,
+   "rows": [
+    {
+     "surface": "yatkarma",
+     "gloss": "whatever-rite",
+     "grounds": "yat + karma; any ritual action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prescribed",
+     "grounds": "enjoined by rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mohāt",
+     "gloss": "by-delusion",
+     "grounds": "cause: confusion or ignorance",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "evaṃbhūte",
+     "gloss": "in-such",
+     "grounds": "of such a kind as described",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstuni",
+     "gloss": "in-site",
+     "grounds": "location or building site",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What consequence follows from performing prescribed rites in such a defective site?",
+   "premises": [
+    "A rite may be prescribed in general.",
+    "It may be performed out of delusion in such a site.",
+    "The site in question is of the defective kind described."
+   ],
+   "inference": "Performing a prescribed rite out of delusion in such a site is problematic.",
+   "uncertainties": [],
+   "plain_english": "Whatever rite is performed out of delusion in such a site,"
+  },
+  {
+   "verse": 1463,
+   "rows": [
+    {
+     "surface": "hīnajāteḥ",
+     "gloss": "for-low-born",
+     "grounds": "belonging to a lower birth or class",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samuddiṣṭam",
+     "gloss": "declared",
+     "grounds": "stated or designated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utkṛṣṭānāṃ",
+     "gloss": "for-superior",
+     "grounds": "for those of higher status",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "is enjoined by rule",
+     "morph": "3.sg.pres.pass + vidhā"
+    }
+   ],
+   "question": "How is a rite performed in a defective site reassigned among social ranks?",
+   "premises": [
+    "A rite done in such a site is declared for the low-born.",
+    "It is prescribed for the superior.",
+    "This indicates a reversal or misassignment of effect."
+   ],
+   "inference": "A rite performed in such a defective site, though declared for the low-born, is prescribed as affecting the superior.",
+   "uncertainties": [
+    "The precise ritual consequence of this reassignment is compressed."
+   ],
+   "plain_english": "though declared for the low-born, is prescribed as affecting the superior."
+  },
+  {
+   "verse": 1464,
+   "rows": [
+    {
+     "surface": "miśravarṇayutaṃ",
+     "gloss": "with-mixed-colors",
+     "grounds": "miśra + varṇa + yutam; endowed with mixed colors",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "site",
+     "grounds": "building site or ground",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "most excellent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvarṇajanmanām",
+     "gloss": "for-those-born-of-that-color",
+     "grounds": "tat + varṇa + janmanām; for people born of corresponding mixed class",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "For whom is a site of mixed colors considered best?",
+   "premises": [
+    "A site may have mixed colors.",
+    "Such a site is called best.",
+    "Its suitability is linked to those born of corresponding mixed color."
+   ],
+   "inference": "A mixed-colored site is best for those born of that corresponding mixed class.",
+   "uncertainties": [],
+   "plain_english": "A site of mixed colors is best for those born of that corresponding class."
+  },
+  {
+   "verse": 1465,
+   "rows": [
+    {
+     "surface": "adhikanyūnatulyeṣu",
+     "gloss": "in-more-less-equal",
+     "grounds": "adhika + nyūna + tulyeṣu; in greater, lesser, or equal conditions",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pāṃsuṣu",
+     "gloss": "in-soils",
+     "grounds": "types or quantities of soil",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "etādṛśaṃ",
+     "gloss": "such",
+     "grounds": "of this kind",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome or fruit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result corresponds to soils that are more, less, or equal in measure?",
+   "premises": [
+    "Soils may be more, less, or equal.",
+    "A corresponding result is indicated.",
+    "The result depends on these soil conditions."
+   ],
+   "inference": "Soils that are more, less, or equal yield corresponding results of that kind.",
+   "uncertainties": [
+    "The specific mapping of each condition to its result is not detailed in this verse."
+   ],
+   "plain_english": "In soils that are more, less, or equal, such is the result."
+  },
+  {
+   "verse": 1466,
+   "rows": [
+    {
+     "surface": "sapuṣpakumbhatoyena",
+     "gloss": "with-flower-pot-water",
+     "grounds": "sa + puṣpa + kumbha + toyena; water in a pot with flowers",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pūryamāṇe",
+     "gloss": "being-filled",
+     "grounds": "present passive participle indicating filling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "avaṭe",
+     "gloss": "in-pit",
+     "grounds": "a dug pit in the ground",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what test condition is a pit filled with flowered pot water examined?",
+   "premises": [
+    "A pit is prepared for testing.",
+    "The pit is filled with water from a pot containing flowers.",
+    "This sets up a conditional examination."
+   ],
+   "inference": "The test is performed when a pit is being filled with water from a pot containing flowers.",
+   "uncertainties": [],
+   "plain_english": "If a pit is being filled with water from a pot containing flowers,"
+  },
+  {
+   "verse": 1467,
+   "rows": [
+    {
+     "surface": "uttānapuṣpakaṃ",
+     "gloss": "upward-facing-flower",
+     "grounds": "uttāna + puṣpakam; flower facing upward",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "most auspicious outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvadhomukhapuṣpakam",
+     "gloss": "but-downward-facing-flower",
+     "grounds": "tu + adhomukha + puṣpakam; but flower facing downward",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which flower orientation in the water test indicates the best site?",
+   "premises": [
+    "An upward-facing flower is possible.",
+    "A downward-facing flower is possible.",
+    "The upward-facing flower is declared best."
+   ],
+   "inference": "In the water test, an upward-facing flower indicates the best site, not a downward-facing one.",
+   "uncertainties": [],
+   "plain_english": "an upward-facing flower is best, but not a downward-facing flower."
+  },
+  {
+   "verse": 1468,
+   "rows": [
+    {
+     "surface": "trirātreṇa",
+     "gloss": "in-three-nights",
+     "grounds": "within a period of three nights",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "prajāyante",
+     "gloss": "sprout",
+     "grounds": "are produced or grow forth",
+     "morph": "3.pl.pres.pass + jan"
+    },
+    {
+     "surface": "yasyāṃ",
+     "gloss": "in-which",
+     "grounds": "relative pronoun referring to the earth",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the earth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syācchubhā",
+     "gloss": "would-be-auspicious",
+     "grounds": "syāt + śubhā; sandhi fusion in token",
+     "morph": "3.sg.opt.act + as + f.nom.sg"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "ground or land",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What sprouting time makes a piece of earth auspicious?",
+   "premises": [
+    "Sprouting may occur in the earth.",
+    "The time frame mentioned is three nights.",
+    "Such earth is declared auspicious."
+   ],
+   "inference": "Earth in which sprouts appear within three nights is auspicious.",
+   "uncertainties": [
+    "The specific seeds or sprouts are not named in this verse."
+   ],
+   "plain_english": "That earth in which sprouts appear within three nights would be auspicious."
+  },
+  {
+   "verse": 1469,
+   "rows": [
+    {
+     "surface": "sāpi",
+     "gloss": "that-also",
+     "grounds": "sā + api; that earth also",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "grāhyā",
+     "gloss": "acceptable",
+     "grounds": "fit to be taken",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gṛhādau",
+     "gloss": "for-house-and-such",
+     "grounds": "gṛha + ādau; for a house and similar purposes",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "colbaṇaguṇānvitā",
+     "gloss": "and-with-excellent-qualities",
+     "grounds": "ca + ulbaṇa + guṇa + anvitā; endowed with excellent qualities",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When is such earth acceptable for a house and similar constructions?",
+   "premises": [
+    "The previously described earth is also acceptable.",
+    "It is acceptable for a house and similar purposes.",
+    "It must be endowed with excellent qualities."
+   ],
+   "inference": "Such earth is acceptable for a house and similar uses when it possesses excellent qualities.",
+   "uncertainties": [],
+   "plain_english": "That earth too is acceptable for a house and the like, especially when endowed with excellent qualities."
+  },
+  {
+   "verse": 1470,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīkṣya",
+     "gloss": "having-examined",
+     "grounds": "after testing thoroughly",
+     "morph": "(gerund) + parīkṣ"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "should-take",
+     "grounds": "optative prescribing selection",
+     "morph": "3.sg.opt.act + grah"
+    },
+    {
+     "surface": "mahīṃ",
+     "gloss": "earth",
+     "grounds": "ground or land",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bahuguṇānvitām",
+     "gloss": "with-many-qualities",
+     "grounds": "bahu + guṇa + anvitām; endowed with many qualities",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What procedure should precede selecting earth endowed with many qualities?",
+   "premises": [
+    "The earth must be examined in the prescribed manner.",
+    "The earth to be selected should have many qualities.",
+    "Selection follows examination."
+   ],
+   "inference": "After examining it thus, one should select earth endowed with many qualities.",
+   "uncertainties": [],
+   "plain_english": "Having examined it thus, one should select earth endowed with many qualities."
+  },
+  {
+   "verse": 1471,
+   "rows": [
+    {
+     "surface": "anyeṣāmapi",
+     "gloss": "of-others-also",
+     "grounds": "anyeṣām + api; of others as well",
+     "morph": "m.gen.pl + (indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "all without exception",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "praveśabalir",
+     "gloss": "entrance-offering",
+     "grounds": "praveśa + baliḥ; offering made at entry",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "is declared or taught",
+     "morph": "3.sg.pres.pass + vac"
+    }
+   ],
+   "question": "For whom is the entrance offering declared to be applicable?",
+   "premises": [
+    "The entrance offering is being discussed.",
+    "It is said to apply to others as well.",
+    "It is said to apply to all."
+   ],
+   "inference": "The entrance offering is declared for all others as well.",
+   "uncertainties": [],
+   "plain_english": "The entrance offering is also declared for all others."
+  },
+  {
+   "verse": 1472,
+   "rows": [
+    {
+     "surface": "ādiśaivakulodbhūtaḥ",
+     "gloss": "born-in-ādiśaiva-lineage",
+     "grounds": "ādiśaiva + kula + udbhūtaḥ; born in an Ādiśaiva family",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcagocarasaṃsthitaḥ",
+     "gloss": "established-in-five-domains",
+     "grounds": "pañca + gocara + saṃsthitaḥ; situated in the five domains",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualifications must the officiant possess before beginning the entrance offering?",
+   "premises": [
+    "The officiant must be born in an Ādiśaiva lineage.",
+    "The officiant must be established in the five domains.",
+    "These are stated as qualifications."
+   ],
+   "inference": "The officiant for the entrance offering must be born in an Ādiśaiva lineage and established in the five domains.",
+   "uncertainties": [
+    "The exact meaning of pañcagocara in this ritual context is not specified."
+   ],
+   "plain_english": "One born in an Ādiśaiva lineage and established in the five domains"
+  },
+  {
+   "verse": 1473,
+   "rows": [
+    {
+     "surface": "sitānulepanāḍhyaśca",
+     "gloss": "and-rich-with-white-unguent",
+     "grounds": "sita + anulepana + āḍhyaḥ + ca; endowed with white anointment",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "praveśabalimārabhet",
+     "gloss": "should-begin-entrance-offering",
+     "grounds": "praveśa + balim + ārabhet; should commence the entrance offering",
+     "morph": "3.sg.opt.act + ā-rabh"
+    }
+   ],
+   "question": "What additional preparation enables the qualified officiant to begin the entrance offering?",
+   "premises": [
+    "The officiant should be richly adorned with white unguent.",
+    "The entrance offering is to be begun.",
+    "This follows the stated qualifications."
+   ],
+   "inference": "The qualified officiant, adorned with white unguent, should begin the entrance offering.",
+   "uncertainties": [],
+   "plain_english": "and richly adorned with white unguent should begin the entrance offering."
+  },
+  {
+   "verse": 1474,
+   "rows": [
+    {
+     "surface": "navabhāgāṃ",
+     "gloss": "into-nine-parts",
+     "grounds": "nava + bhāgām; divided into nine parts",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dharāṃ",
+     "gloss": "earth",
+     "grounds": "ground or site",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after dividing or making",
+     "morph": "(gerund) + kṛ"
+    },
+    {
+     "surface": "brahmasthānāditaḥ",
+     "gloss": "from-brahma-place-onward",
+     "grounds": "brahma + sthāna + āditaḥ; starting from the Brahma position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "in sequential order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the ground be divided before proceeding with the entrance offering?",
+   "premises": [
+    "The earth is to be divided into nine parts.",
+    "The division begins from the Brahma place.",
+    "The procedure follows a fixed order."
+   ],
+   "inference": "Before the entrance offering, the ground should be divided into nine parts in order starting from the Brahma place.",
+   "uncertainties": [],
+   "plain_english": "Having divided the ground into nine parts, proceeding in order from the Brahma place onward."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "hatūrya",
+     "gloss": "hatūrya",
+     "grounds": "mantra-name or bīja designation kept byte-exact",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed-syllable",
+     "grounds": "technical mantra term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktī",
+     "gloss": "power",
+     "grounds": "mantric power component",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "peg",
+     "grounds": "mantric locking component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "repha",
+     "gloss": "repha",
+     "grounds": "name of the letter ra kept as technical term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "predicate of identification",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "Which mantra elements are designated as the śakti and the kīlaka of the hatūrya seed-syllable?",
+   "premises": [
+    "The hatūrya bīja is the subject of identification.",
+    "Its śakti is specified in this statement.",
+    "Its kīlaka is named as repha."
+   ],
+   "inference": "Therefore, the śakti and the kīlaka of the hatūrya bīja are explicitly identified, with repha serving as the kīlaka.",
+   "uncertainties": [
+    "The exact referent or phonetic form of 'hatūrya' is not explained within this verse."
+   ],
+   "plain_english": "The śakti of the hatūrya seed-syllable is stated, and repha is called its kīlaka."
+  }
+ ]
+}

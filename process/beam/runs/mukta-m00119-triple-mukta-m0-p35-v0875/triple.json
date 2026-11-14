@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "śāstradarśana",
+     "gloss": "scripture-vision",
+     "grounds": "compound of śāstra and darśana; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sandarśaḥ",
+     "gloss": "manifestation",
+     "grounds": "nominative singular masculine; predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyakṣe",
+     "gloss": "in-direct-perception",
+     "grounds": "locative singular; in direct perception",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrṇarūpatā",
+     "gloss": "full-form",
+     "grounds": "abstract noun; nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does scripture-vision count as manifestation rather than direct perception of full form?",
+   "premises": [
+    "Scripture-vision is called manifestation.",
+    "Direct perception reveals full form.",
+    "Paśus misled by scripture seek manifestation."
+   ],
+   "inference": "Therefore scripture-vision is only manifestation, not direct perception of full form.",
+   "uncertainties": [
+    "Exact syntactic relation between pratyakṣe and pūrṇarūpatā is not fully explicit."
+   ],
+   "plain_english": "Scripture-vision is a manifestation; full form appears in direct perception."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "devadāru+mayaḥ",
+     "gloss": "made-of-devadaru",
+     "grounds": "compound adjective describing incense as made from devadaru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhūpaḥ",
+     "gloss": "incense",
+     "grounds": "nominative singular noun naming the substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+bhūta+vināśakaḥ",
+     "gloss": "all-beings-destroying",
+     "grounds": "compound adjective attributing destruction of all beings to the incense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which incense is said to destroy all beings?",
+   "premises": [
+    "Devadaru incense destroys all beings.",
+    "The verse names devadaru as its material."
+   ],
+   "inference": "The verse identifies devadaru-made incense as all-beings-destroying.",
+   "uncertainties": [
+    "Ritual context and scope of destruction are not specified."
+   ],
+   "plain_english": "Incense made of devadaru destroys all beings."
+  }
+ ]
+}

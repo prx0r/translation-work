@@ -1,0 +1,1157 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍaṃkāraṃ",
+     "gloss": "syllable-ḍaṃ",
+     "grounds": "syllable name as object",
+     "morph": "acc.sg.m (compound ḍaṃ+kāra)"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior action of extraction",
+     "morph": "absolutive (sam-ud-√dhṛ)"
+    },
+    {
+     "surface": "dārukāya",
+     "gloss": "to-dāruka",
+     "grounds": "recipient deity name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric word-unit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which extracted syllable-word is assigned to Dāruka in this step?",
+   "premises": [
+    "The syllable ḍaṃ is extracted.",
+    "A word is assigned to Dāruka.",
+    "The action continues again."
+   ],
+   "inference": "After extracting the syllable ḍaṃ, one assigns its word to Dāruka.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the syllable ḍaṃ, one again assigns the word to Dāruka."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍhaṃkārapadaṃ",
+     "gloss": "syllable-ḍhaṃ-word",
+     "grounds": "syllable and word together",
+     "morph": "acc.sg.n (compound ḍhaṃ+kāra+pada)"
+    },
+    {
+     "surface": "yattad",
+     "gloss": "that-which",
+     "grounds": "correlative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ardhanārīśvarāya",
+     "gloss": "to-ardhanārīśvara",
+     "grounds": "recipient deity name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllable-word is assigned to Ardhanārīśvara in this instruction?",
+   "premises": [
+    "The syllable ḍhaṃ forms a word.",
+    "That word is specified as the object.",
+    "Ardhanārīśvara is the recipient."
+   ],
+   "inference": "The word formed from the syllable ḍhaṃ is assigned to Ardhanārīśvara.",
+   "uncertainties": [],
+   "plain_english": "And that word of the syllable ḍhaṃ is assigned to Ardhanārīśvara."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṇaṃkāraṃ",
+     "gloss": "syllable-ṇaṃ",
+     "grounds": "syllable name as object",
+     "morph": "acc.sg.m (compound ṇaṃ+kāra)"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior action of extraction",
+     "morph": "absolutive (sam-ud-√dhṛ)"
+    },
+    {
+     "surface": "umākāntāya",
+     "gloss": "to-umā-beloved",
+     "grounds": "recipient deity epithet",
+     "morph": "dat.sg.m (compound umā+kānta)"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    }
+   ],
+   "question": "Which extracted syllable-word is assigned to Umākānta in this step?",
+   "premises": [
+    "The syllable ṇaṃ is extracted.",
+    "A word is specified as the object.",
+    "Umākānta is the recipient."
+   ],
+   "inference": "After extracting the syllable ṇaṃ, one assigns its word to Umākānta.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the syllable ṇaṃ, one assigns that word to Umākānta."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃkāraṃ",
+     "gloss": "syllable-taṃ",
+     "grounds": "syllable name as object",
+     "morph": "acc.sg.m (compound taṃ+kāra)"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior action of extraction",
+     "morph": "absolutive (sam-ud-√dhṛ)"
+    },
+    {
+     "surface": "ṣaḍīśāyeti",
+     "gloss": "to-ṣaḍīśa-thus",
+     "grounds": "recipient with quotative particle",
+     "morph": "dat.sg.m + (indecl.) (sandhi ṣaḍīśāya+iti)"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    }
+   ],
+   "question": "Which extracted syllable-word is assigned to Ṣaḍīśa in this step?",
+   "premises": [
+    "The syllable taṃ is extracted.",
+    "A word is specified as the object.",
+    "Ṣaḍīśa is named as the recipient."
+   ],
+   "inference": "After extracting the syllable taṃ, one assigns its word to Ṣaḍīśa.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the syllable taṃ, one assigns that word to Ṣaḍīśa."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "thaṃkāraṃ",
+     "gloss": "syllable-thaṃ",
+     "grounds": "syllable name as object",
+     "morph": "acc.sg.m (compound thaṃ+kāra)"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior action of extraction",
+     "morph": "absolutive (sam-ud-√dhṛ)"
+    },
+    {
+     "surface": "ḍiṇḍine",
+     "gloss": "to-ḍiṇḍin",
+     "grounds": "recipient deity name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "yatpadaṃ",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which extracted syllable-word is assigned to Ḍiṇḍin in this step?",
+   "premises": [
+    "The syllable thaṃ is extracted.",
+    "A word is specified as the object.",
+    "Ḍiṇḍin is the recipient."
+   ],
+   "inference": "After extracting the syllable thaṃ, one again assigns its word to Ḍiṇḍin.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the syllable thaṃ, one again assigns that word to Ḍiṇḍin."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṃkāraṃ",
+     "gloss": "syllable-daṃ",
+     "grounds": "syllable name as object",
+     "morph": "acc.sg.m (compound daṃ+kāra)"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior action of extraction",
+     "morph": "absolutive (sam-ud-√dhṛ)"
+    },
+    {
+     "surface": "atraye",
+     "gloss": "to-atri",
+     "grounds": "recipient sage name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "yatpadaṃ",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which extracted syllable-word is assigned to Atri in this step?",
+   "premises": [
+    "The syllable daṃ is extracted.",
+    "A word is specified as the object.",
+    "Atri is the recipient."
+   ],
+   "inference": "After extracting the syllable daṃ, one again assigns its word to Atri.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the syllable daṃ, one again assigns that word to Atri."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhaṃkāraṃ",
+     "gloss": "syllable-dhaṃ",
+     "grounds": "syllable name as object",
+     "morph": "acc.sg.m (compound dhaṃ+kāra)"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior action of extraction",
+     "morph": "absolutive (sam-ud-√dhṛ)"
+    },
+    {
+     "surface": "ceśānāya",
+     "gloss": "and-to-īśāna",
+     "grounds": "connective fused with recipient name",
+     "morph": "dat.sg.m (sandhi ca+īśānāya)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric word-unit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which extracted syllable-word is assigned to Īśāna in this step?",
+   "premises": [
+    "The syllable dhaṃ is extracted.",
+    "A word is specified as the object.",
+    "Īśāna is the recipient."
+   ],
+   "inference": "After extracting the syllable dhaṃ, one again assigns its word to Īśāna.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the syllable dhaṃ, one again assigns the word to Īśāna."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naṃkāraṃ",
+     "gloss": "syllable-naṃ",
+     "grounds": "syllable name as object",
+     "morph": "acc.sg.m (compound naṃ+kāra)"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior action of extraction",
+     "morph": "absolutive (sam-ud-√dhṛ)"
+    },
+    {
+     "surface": "meṣāya",
+     "gloss": "to-meṣa",
+     "grounds": "recipient deity name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "mantric word-unit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "one-should-extract",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act (√ud-dhṛ)"
+    }
+   ],
+   "question": "Which syllable-word should be extracted and assigned to Meṣa?",
+   "premises": [
+    "The syllable naṃ is extracted.",
+    "Meṣa is the recipient.",
+    "The word should be extracted."
+   ],
+   "inference": "After extracting the syllable naṃ, one should extract and assign the word to Meṣa.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the syllable naṃ, one should extract the word for Meṣa."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃlohitāyeti",
+     "gloss": "paṃ-to-lohita-thus",
+     "grounds": "syllable and recipient with quotative",
+     "morph": "(indecl.) + dat.sg.m + (indecl.) (sandhi paṃ+lohitāya+iti)"
+    },
+    {
+     "surface": "kālārātryai",
+     "gloss": "to-kālārātrī",
+     "grounds": "recipient goddess name",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "mantric word-unit",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which salutation-word is assigned to Lohita and Kālārātrī in this formula?",
+   "premises": [
+    "The syllable paṃ is linked to Lohita.",
+    "Kālārātrī is named as a recipient.",
+    "A salutation word is specified."
+   ],
+   "inference": "The formula assigns the salutation word with paṃ to Lohita and to Kālārātrī.",
+   "uncertainties": [
+    "The exact syntactic pairing of Lohita and Kālārātrī in the fused token is compressed."
+   ],
+   "plain_english": "The word is: om, paṃ, to Lohita, and salutation to Kālārātrī."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "kubjinyai",
+     "gloss": "to-kubjinī",
+     "grounds": "recipient goddess name",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "nama",
+     "gloss": "salutation",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "quotative and manner marker",
+     "morph": "(indecl.) (sandhi iti+evam)"
+    },
+    {
+     "surface": "vāmapārśve",
+     "gloss": "on-left-side",
+     "grounds": "placement location",
+     "morph": "loc.sg.n (compound vāma+pārśva)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.opt.act (vi-ni-√as)"
+    }
+   ],
+   "question": "Where should the salutation formula to Kubjinī be placed?",
+   "premises": [
+    "The formula is salutation to Kubjinī.",
+    "The left side is specified as location.",
+    "Placement is prescribed."
+   ],
+   "inference": "One should place the salutation to Kubjinī on the left side.",
+   "uncertainties": [],
+   "plain_english": "One should place the formula 'salutation to Kubjinī' on the left side."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "kāminyai",
+     "gloss": "to-kāminī",
+     "grounds": "recipient goddess name",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "nama",
+     "gloss": "salutation",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "quotative and manner marker",
+     "morph": "(indecl.) (sandhi iti+evam)"
+    },
+    {
+     "surface": "pṛṣṭhabhāge",
+     "gloss": "on-back-part",
+     "grounds": "placement location",
+     "morph": "loc.sg.m (compound pṛṣṭha+bhāga)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.opt.act (vi-ni-√as)"
+    }
+   ],
+   "question": "Where should the salutation formula to Kāminī be placed?",
+   "premises": [
+    "The formula is salutation to Kāminī.",
+    "The back part is specified as location.",
+    "Placement is prescribed."
+   ],
+   "inference": "One should place the salutation to Kāminī on the back part.",
+   "uncertainties": [],
+   "plain_english": "One should place the formula 'salutation to Kāminī' on the back part."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "vajrāyai",
+     "gloss": "to-vajrā",
+     "grounds": "recipient goddess name",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "nama",
+     "gloss": "salutation",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "quotative and manner marker",
+     "morph": "(indecl.) (sandhi iti+evam)"
+    },
+    {
+     "surface": "nābhideśe",
+     "gloss": "in-navel-region",
+     "grounds": "placement location",
+     "morph": "loc.sg.m (compound nābhi+deśa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.opt.act (vi-ni-√as)"
+    }
+   ],
+   "question": "Where should the salutation formula to Vajrā be placed?",
+   "premises": [
+    "The formula is salutation to Vajrā.",
+    "The navel region is specified as location.",
+    "Placement is prescribed."
+   ],
+   "inference": "One should place the salutation to Vajrā in the navel region.",
+   "uncertainties": [],
+   "plain_english": "One should place the formula 'salutation to Vajrā' in the navel region."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "hṛddeśe",
+     "gloss": "in-heart-region",
+     "grounds": "placement location",
+     "morph": "loc.sg.m (compound hṛd+deśa)"
+    },
+    {
+     "surface": "vinyasedoṃ",
+     "gloss": "one-should-place-om",
+     "grounds": "placement with sacred syllable",
+     "morph": "3.sg.opt.act (vi-ni-√as) + (indecl.) (sandhi vinyaset+oṃ)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "yaṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric word-unit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yattattvagātmane",
+     "gloss": "to-that-tattva-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound yat+tattvaga+ātman)"
+    }
+   ],
+   "question": "Which syllable-word is to be placed in the heart region for the tattva-self?",
+   "premises": [
+    "The heart region is the location.",
+    "The syllable yaṃ is specified.",
+    "The recipient is the tattva-self."
+   ],
+   "inference": "One should place om and the syllable-word yaṃ for the tattva-self in the heart region.",
+   "uncertainties": [
+    "The exact referent of tattvagātmane is not specified in this verse."
+   ],
+   "plain_english": "In the heart region one should place om and the word yaṃ for that tattva-self."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṃ",
+     "gloss": "raṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktātmane",
+     "gloss": "to-blood-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound rakta+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "bhujaṅgāyeti",
+     "gloss": "to-bhujaṅga-thus",
+     "grounds": "recipient name with quotative",
+     "morph": "dat.sg.m + (indecl.) (sandhi bhujaṅgāya+iti)"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    }
+   ],
+   "question": "Which syllable-word is assigned to the blood-self and to Bhujaṅga?",
+   "premises": [
+    "The syllable raṃ is specified.",
+    "The blood-self is named as recipient.",
+    "Bhujaṅga is named as recipient."
+   ],
+   "inference": "The word with om and raṃ is assigned to the blood-self and to Bhujaṅga.",
+   "uncertainties": [],
+   "plain_english": "The word is om, raṃ, to the blood-self, and to Bhujaṅga."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laṃ",
+     "gloss": "laṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasātmane",
+     "gloss": "to-fat-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound vasā+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric word-unit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "which-indeed",
+     "grounds": "correlative with emphasis",
+     "morph": "acc.sg.n + (indecl.) (sandhi yat+tu)"
+    },
+    {
+     "surface": "pinākine",
+     "gloss": "to-pinākin",
+     "grounds": "recipient deity epithet",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "Which syllable-word is assigned to the fat-self and to Pinākin?",
+   "premises": [
+    "The syllable laṃ is specified.",
+    "The fat-self is named as recipient.",
+    "Pinākin is named as recipient."
+   ],
+   "inference": "The word with om and laṃ is assigned to the fat-self and to Pinākin.",
+   "uncertainties": [],
+   "plain_english": "The word is om, laṃ, to the fat-self, and to Pinākin."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃ",
+     "gloss": "vaṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "medomayāyeti",
+     "gloss": "to-fat-made-thus",
+     "grounds": "recipient epithet with quotative",
+     "morph": "dat.sg.m + (indecl.) (compound medas+maya, sandhi medomayāya+iti)"
+    },
+    {
+     "surface": "khaṅgīśāya",
+     "gloss": "to-sword-lord",
+     "grounds": "recipient deity name",
+     "morph": "dat.sg.m (compound khaṅgin+īśa)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric word-unit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllable-word is assigned to the fat-made self and to Khaṅgīśa?",
+   "premises": [
+    "The syllable vaṃ is specified.",
+    "The fat-made self is named as recipient.",
+    "Khaṅgīśa is named as recipient."
+   ],
+   "inference": "The word with om and vaṃ is again assigned to the fat-made self and to Khaṅgīśa.",
+   "uncertainties": [],
+   "plain_english": "Again the word is om, vaṃ, to the one made of fat, and to Khaṅgīśa."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "śaṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asthyātmane",
+     "gloss": "to-bone-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound asthi+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "bekāyeti",
+     "gloss": "to-beka-thus",
+     "grounds": "recipient name with quotative",
+     "morph": "dat.sg.m + (indecl.) (sandhi bekāya+iti)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "one-should-extract",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act (sam-ud-√dhṛ)"
+    }
+   ],
+   "question": "Which syllable-word should be extracted for the bone-self and for Beka?",
+   "premises": [
+    "The syllable śaṃ is specified.",
+    "The bone-self is named as recipient.",
+    "Beka is named as recipient."
+   ],
+   "inference": "One should extract the word with om and śaṃ for the bone-self and for Beka.",
+   "uncertainties": [],
+   "plain_english": "One should extract the word om, śaṃ, to the bone-self, and to Beka."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṃ",
+     "gloss": "ṣaṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "majjātmane",
+     "gloss": "to-marrow-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound majjan+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "śvetāya",
+     "gloss": "to-śveta",
+     "grounds": "recipient deity name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "padamuddharet",
+     "gloss": "one-should-extract-word",
+     "grounds": "prescriptive extraction of word",
+     "morph": "acc.sg.n + 3.sg.opt.act (sandhi padam+uddharet, √ud-dhṛ)"
+    }
+   ],
+   "question": "Which syllable-word should be extracted for the marrow-self and for Śveta?",
+   "premises": [
+    "The syllable ṣaṃ is specified.",
+    "The marrow-self is named as recipient.",
+    "Śveta is named as recipient."
+   ],
+   "inference": "One should extract the word with om and ṣaṃ for the marrow-self and for Śveta.",
+   "uncertainties": [],
+   "plain_english": "One should extract the word om, ṣaṃ, to the marrow-self, and to Śveta."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃ",
+     "gloss": "saṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuklātmane",
+     "gloss": "to-semen-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound śukla+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "bhṛgave",
+     "gloss": "to-bhṛgu",
+     "grounds": "recipient sage name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "padamuddharet",
+     "gloss": "one-should-extract-word",
+     "grounds": "prescriptive extraction of word",
+     "morph": "acc.sg.n + 3.sg.opt.act (sandhi padam+uddharet, √ud-dhṛ)"
+    }
+   ],
+   "question": "Which syllable-word should be extracted for the semen-self and for Bhṛgu?",
+   "premises": [
+    "The syllable saṃ is specified.",
+    "The semen-self is named as recipient.",
+    "Bhṛgu is named as recipient."
+   ],
+   "inference": "One should extract the word with om and saṃ for the semen-self and for Bhṛgu.",
+   "uncertainties": [],
+   "plain_english": "One should extract the word om, saṃ, to the semen-self, and to Bhṛgu."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "haṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇātmane",
+     "gloss": "to-breath-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound prāṇa+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "lakulīśāya",
+     "gloss": "to-lakulīśa",
+     "grounds": "recipient deity name",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    }
+   ],
+   "question": "Which syllable-word is assigned to the breath-self and to Lakulīśa?",
+   "premises": [
+    "The syllable haṃ is specified.",
+    "The breath-self is named as recipient.",
+    "Lakulīśa is named as recipient."
+   ],
+   "inference": "The word with om and haṃ is assigned to the breath-self and to Lakulīśa.",
+   "uncertainties": [],
+   "plain_english": "The word is om, haṃ, to the breath-self, and to Lakulīśa."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laṃ",
+     "gloss": "laṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgātmane",
+     "gloss": "to-mark-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound liṅga+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "tamorūpāya",
+     "gloss": "to-darkness-form",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound tamas+rūpa)"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    }
+   ],
+   "question": "Which syllable-word is assigned to the liṅga-self and to the darkness-form?",
+   "premises": [
+    "The syllable laṃ is specified.",
+    "The liṅga-self is named as recipient.",
+    "The darkness-form is named as recipient."
+   ],
+   "inference": "The word with om and laṃ is assigned to the liṅga-self and to the darkness-form.",
+   "uncertainties": [],
+   "plain_english": "The word is om, laṃ, to the liṅga-self, and to the one whose form is darkness."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṃ",
+     "gloss": "kṣaṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krodhātmane",
+     "gloss": "to-wrath-self",
+     "grounds": "recipient epithet",
+     "morph": "dat.sg.m (compound krodha+ātman)"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "connective with quotative",
+     "morph": "(indecl.) (sandhi ca+iti)"
+    },
+    {
+     "surface": "vartakāyeti",
+     "gloss": "to-vartaka-thus",
+     "grounds": "recipient name with quotative",
+     "morph": "dat.sg.m + (indecl.) (sandhi vartakāya+iti)"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "correlative word-unit",
+     "morph": "acc.sg.n (compound yat+pada)"
+    }
+   ],
+   "question": "Which syllable-word is assigned to the wrath-self and to Vartaka?",
+   "premises": [
+    "The syllable kṣaṃ is specified.",
+    "The wrath-self is named as recipient.",
+    "Vartaka is named as recipient."
+   ],
+   "inference": "The word with om and kṣaṃ is assigned to the wrath-self and to Vartaka.",
+   "uncertainties": [],
+   "plain_english": "The word is om, kṣaṃ, to the wrath-self, and to Vartaka."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "hṛdādisthānagairvarṇair",
+     "gloss": "with-letters-at-heart-etc-places",
+     "grounds": "instrumental means for construction",
+     "morph": "ins.pl.m (compound hṛd+ādi+sthāna+ga+varṇa)"
+    },
+    {
+     "surface": "mātṛkāṅgāni",
+     "gloss": "mātṛkā-limbs",
+     "grounds": "ritual body parts of mātṛkā",
+     "morph": "acc.pl.n (compound mātṛkā+aṅga)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act (√kḷp)"
+    }
+   ],
+   "question": "How should the limbs of the mātṛkā be ritually fashioned?",
+   "premises": [
+    "Letters located at heart and other places are used.",
+    "The mātṛkā limbs are the object.",
+    "Fashioning is prescribed."
+   ],
+   "inference": "One should fashion the limbs of the mātṛkā with the letters located at the heart and other places.",
+   "uncertainties": [],
+   "plain_english": "One should fashion the limbs of the mātṛkā with the letters located at the heart and other places."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "kucaṃ",
+     "gloss": "breast",
+     "grounds": "body part in placement",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "cakṣurdvayaṃ",
+     "gloss": "pair-of-eyes",
+     "grounds": "body part in placement",
+     "morph": "acc.sg.n (compound cakṣus+dvaya)"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "body part or top region in placement",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hṛdādyairjātibhiryutam",
+     "gloss": "joined-with-heart-etc-classes",
+     "grounds": "association with mantra classes",
+     "morph": "acc.sg.n (compound hṛd+ādi+jāti, sandhi hṛdādyaiḥ+jātibhiḥ+yutam)"
+    }
+   ],
+   "question": "Which body parts are joined with the classes beginning with the heart mantra?",
+   "premises": [
+    "The breast, pair of eyes, and peak are listed.",
+    "Classes beginning with the heart are specified.",
+    "These are joined together."
+   ],
+   "inference": "The breast, the pair of eyes, and the peak are joined with the classes beginning with the heart mantra.",
+   "uncertainties": [
+    "The exact referent of kūṭaṃ in this bodily placement is context-dependent."
+   ],
+   "plain_english": "The breast, the pair of eyes, and the peak are joined with the classes beginning with the heart and so on."
+  }
+ ]
+}

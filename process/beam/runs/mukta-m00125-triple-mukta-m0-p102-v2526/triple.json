@@ -1,0 +1,1011 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2526,
+   "rows": [
+    {
+     "surface": "antaryāgaśca",
+     "gloss": "internal-sacrifice-and",
+     "grounds": "compound with sandhi: antaryāgaḥ + ca",
+     "morph": "compound=m.nom.sg+indecl."
+    },
+    {
+     "surface": "tenāpi",
+     "gloss": "by-him-also",
+     "grounds": "instrumental pronoun with particle",
+     "morph": "m.ins.sg+indecl."
+    },
+    {
+     "surface": "kartavyo'nte",
+     "gloss": "should-be-done-at-end",
+     "grounds": "gerundive with sandhi: kartavyaḥ + ante",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "dinadvayam",
+     "gloss": "two-days",
+     "grounds": "dvigu compound indicating duration",
+     "morph": "compound=n.nom.sg"
+    }
+   ],
+   "question": "What additional ritual duty must be performed at the end for two days?",
+   "premises": [
+    "An internal sacrifice is prescribed",
+    "It must be performed by that person",
+    "The performance lasts two days at the end"
+   ],
+   "inference": "The internal sacrifice must also be performed for two days at the conclusion.",
+   "uncertainties": [],
+   "plain_english": "And he should also perform the internal sacrifice at the end for two days."
+  },
+  {
+   "verse": 2527,
+   "rows": [
+    {
+     "surface": "japedaghoraṃ",
+     "gloss": "should-recite-aghora",
+     "grounds": "verb with sandhi: japet + aghoram",
+     "morph": "3.sg.opt.act+√jap + m.acc.sg"
+    },
+    {
+     "surface": "snānānte",
+     "gloss": "after-bath",
+     "grounds": "locative compound indicating time",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "daśāṃśo",
+     "gloss": "tenth-part",
+     "grounds": "compound with sandhi: daśāṃśaḥ",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "homa",
+     "gloss": "oblation",
+     "grounds": "ritual fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation and offering options are prescribed after the ritual bath?",
+   "premises": [
+    "Recitation of Aghora is prescribed after bathing",
+    "An oblation of a tenth part is mentioned",
+    "The oblation may be performed as an alternative"
+   ],
+   "inference": "After bathing one should recite Aghora and perform a tenth-part oblation or that alone.",
+   "uncertainties": [
+    "Whether daśāṃśo qualifies japa or homa is contextually ambiguous"
+   ],
+   "plain_english": "After bathing he should recite the Aghora mantra, and perform a tenth-part oblation, or indeed just the oblation."
+  },
+  {
+   "verse": 2528,
+   "rows": [
+    {
+     "surface": "ayameva",
+     "gloss": "this-indeed",
+     "grounds": "demonstrative with emphatic particle",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "prescribed procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samayasthasya",
+     "gloss": "of-one-established-in-vow",
+     "grounds": "compound: samaya + stha",
+     "morph": "compound=m.gen.sg"
+    },
+    {
+     "surface": "he",
+     "gloss": "O",
+     "grounds": "vocative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative plural address",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "For whom is this ritual procedure declared, O twice-born ones?",
+   "premises": [
+    "This very rite is declared",
+    "It is declared for one established in the vow",
+    "The address is directed to the twice-born"
+   ],
+   "inference": "This rite is declared for the person established in the vow.",
+   "uncertainties": [],
+   "plain_english": "O twice-born ones, this very rite is declared for one who is established in the vow."
+  },
+  {
+   "verse": 2529,
+   "rows": [
+    {
+     "surface": "nitye",
+     "gloss": "in-daily",
+     "grounds": "locative of ritual category",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "in-occasional",
+     "grounds": "locative of ritual category",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "in-desired",
+     "grounds": "locative of ritual category",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvatraivādhikāritā",
+     "gloss": "everywhere-indeed-eligibility",
+     "grounds": "compound with sandhi: sarvatra + eva + adhikāritā",
+     "morph": "compound=f.nom.sg"
+    }
+   ],
+   "question": "In which types of rites does such a person possess eligibility?",
+   "premises": [
+    "Daily rites are included",
+    "Occasional and desired rites are included",
+    "Eligibility extends everywhere"
+   ],
+   "inference": "The person has eligibility in daily, occasional, and desired rites alike.",
+   "uncertainties": [],
+   "plain_english": "He has eligibility everywhere, in daily, occasional, and desired rites."
+  },
+  {
+   "verse": 2530,
+   "rows": [
+    {
+     "surface": "eteṣāmapi",
+     "gloss": "of-these-also",
+     "grounds": "genitive plural pronoun with particle",
+     "morph": "m.gen.pl+indecl."
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural adjective",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prāsādādipraveśanam",
+     "gloss": "temple-etc-entry",
+     "grounds": "compound: prāsāda + ādi + praveśanam",
+     "morph": "compound=n.nom.sg"
+    }
+   ],
+   "question": "What access is granted to all these qualified persons?",
+   "premises": [
+    "The reference includes all these persons",
+    "Entry into the temple and similar places is mentioned",
+    "The access applies to all of them"
+   ],
+   "inference": "All these persons are granted entry into the temple and related places.",
+   "uncertainties": [],
+   "plain_english": "All these persons also have entry into the temple and other such places."
+  },
+  {
+   "verse": 2531,
+   "rows": [
+    {
+     "surface": "agramaṇḍapabāhye",
+     "gloss": "outside-front-hall",
+     "grounds": "locative compound indicating place",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣāya",
+     "gloss": "for-fault",
+     "grounds": "dative of purpose/result",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prakalpate",
+     "gloss": "is-considered",
+     "grounds": "present passive/medio-passive sense",
+     "morph": "3.sg.pres.mid+√kḷp"
+    }
+   ],
+   "question": "Does presence outside the front hall constitute a ritual fault?",
+   "premises": [
+    "The location is outside the front hall",
+    "A fault is being considered",
+    "The text denies that it counts as a fault"
+   ],
+   "inference": "Being outside the front hall is not considered a fault.",
+   "uncertainties": [],
+   "plain_english": "But being outside the front hall is not considered a fault."
+  },
+  {
+   "verse": 2532,
+   "rows": [
+    {
+     "surface": "āvaśyakaṃ",
+     "gloss": "necessary",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhasthānāṃ",
+     "gloss": "for-householders",
+     "grounds": "genitive plural of social class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "lokamārgānuyāyinām",
+     "gloss": "followers-of-worldly-path",
+     "grounds": "compound: loka + mārga + anuyāyin",
+     "morph": "compound=m.gen.pl"
+    }
+   ],
+   "question": "For which householders is this observance declared necessary?",
+   "premises": [
+    "The observance is necessary",
+    "It applies to householders",
+    "Those householders follow the worldly path"
+   ],
+   "inference": "This is necessary for householders who follow the worldly path.",
+   "uncertainties": [],
+   "plain_english": "It is necessary for householders who follow the worldly path."
+  },
+  {
+   "verse": 2533,
+   "rows": [
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "ritual seat or base",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhoktarītyā",
+     "gloss": "by-pedestal-stated-manner",
+     "grounds": "compound with sandhi: pīṭha + ukta + rītyā",
+     "morph": "compound=f.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satrimekhalamācaret",
+     "gloss": "with-three-girdles-should-perform",
+     "grounds": "compound with sandhi: sa + tri + mekhalam + ācaret",
+     "morph": "compound+3.sg.opt.act+√car"
+    }
+   ],
+   "question": "How should the pedestal be prepared according to the prescribed manner?",
+   "premises": [
+    "A pedestal is to be prepared",
+    "The manner is as stated for the pedestal",
+    "It should be made with three girdles"
+   ],
+   "inference": "One should prepare the pedestal with three girdles in the prescribed manner.",
+   "uncertainties": [],
+   "plain_english": "One should prepare the pedestal with three girdles in the manner prescribed for the pedestal."
+  },
+  {
+   "verse": 2534,
+   "rows": [
+    {
+     "surface": "gomayāmbhobhirālipya",
+     "gloss": "with-cow-dung-water-smearing",
+     "grounds": "compound with sandhi: gomaya + ambhobhiḥ + ālipya",
+     "morph": "compound+gerund+√lip"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "placing",
+     "grounds": "gerund of placement",
+     "morph": "gerund+√nyas"
+    },
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-pedestal",
+     "grounds": "genitive specifying location",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What preparatory actions must be done at the middle of the pedestal?",
+   "premises": [
+    "The area is smeared with cow-dung and water",
+    "Something is then placed",
+    "The placement occurs in the middle of the pedestal"
+   ],
+   "inference": "After smearing with cow-dung and water, one should place items in the middle of the pedestal.",
+   "uncertainties": [],
+   "plain_english": "Having smeared it with cow-dung and water, one should place the items in the middle of the pedestal."
+  },
+  {
+   "verse": 2535,
+   "rows": [
+    {
+     "surface": "viprādīnāṃ",
+     "gloss": "of-brahmins-etc",
+     "grounds": "genitive plural compound",
+     "morph": "compound=m.gen.pl"
+    },
+    {
+     "surface": "kramādvāpi",
+     "gloss": "in-order-or-also",
+     "grounds": "ablative with particles: kramāt + vā + api",
+     "morph": "m.abl.sg+indecl.+indecl."
+    },
+    {
+     "surface": "rudrāntakasusaṃmitaiḥ",
+     "gloss": "with-rudra-ending-well-measured",
+     "grounds": "compound instrumental plural describing measures",
+     "morph": "compound=m.ins.pl"
+    }
+   ],
+   "question": "How are the measures arranged for brahmins and others in sequence?",
+   "premises": [
+    "The arrangement concerns brahmins and others",
+    "It may follow a sequence",
+    "The measures extend up to Rudra"
+   ],
+   "inference": "For brahmins and others, the measures may be arranged in order up to Rudra.",
+   "uncertainties": [
+    "The exact technical sense of rudrāntakasusaṃmitaiḥ is unclear"
+   ],
+   "plain_english": "For brahmins and others, in due order, using measures extending up to Rudra."
+  },
+  {
+   "verse": 2536,
+   "rows": [
+    {
+     "surface": "praṇavenāsanaṃ",
+     "gloss": "with-om-seat",
+     "grounds": "compound with sandhi: praṇavena + āsanam",
+     "morph": "m.ins.sg+n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "gerund of giving",
+     "morph": "gerund+√dā"
+    },
+    {
+     "surface": "mūrtimāvāhayettataḥ",
+     "gloss": "image-should-invoke-then",
+     "grounds": "compound with sandhi: mūrtim + āvāhayet + tataḥ",
+     "morph": "f.acc.sg+3.sg.opt.act.caus+√vah+indecl."
+    }
+   ],
+   "question": "What ritual actions follow after offering the seat with Om?",
+   "premises": [
+    "A seat is given with the praṇava",
+    "The giving precedes the next action",
+    "The image is then to be invoked"
+   ],
+   "inference": "After giving the seat with Om, one should invoke the image.",
+   "uncertainties": [],
+   "plain_english": "Having offered the seat with Om, one should then invoke the image."
+  },
+  {
+   "verse": 2537,
+   "rows": [
+    {
+     "surface": "svadhetyuktvā",
+     "gloss": "saying-svadha",
+     "grounds": "compound with sandhi: svadhā + iti + uktvā",
+     "morph": "indecl.+indecl.+gerund+√vac"
+    },
+    {
+     "surface": "vinikṣipya",
+     "gloss": "placing-down",
+     "grounds": "gerund of placing",
+     "morph": "gerund+√kṣip"
+    },
+    {
+     "surface": "tadvatātmāṇu",
+     "gloss": "with-that-soul-particle",
+     "grounds": "compound with sandhi: tadvat + ātmā + aṇu",
+     "morph": "compound"
+    },
+    {
+     "surface": "samyutam",
+     "gloss": "joined",
+     "grounds": "past participle indicating conjunction",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the offering be placed while invoking svadhā and the self?",
+   "premises": [
+    "The word svadhā is uttered",
+    "The offering is placed down",
+    "It is joined with that and the individual self"
+   ],
+   "inference": "After saying svadhā, one should place it joined with that and the individual self.",
+   "uncertainties": [
+    "The exact syntactic relation of tadvatātmāṇu is uncertain"
+   ],
+   "plain_english": "Saying 'svadhā' and placing it down, joined with that and the individual self."
+  },
+  {
+   "verse": 2538,
+   "rows": [
+    {
+     "surface": "pādyādinicayaṃ",
+     "gloss": "collection-of-foot-water-etc",
+     "grounds": "compound: pādya + ādi + nicayam",
+     "morph": "compound=m.acc.sg"
+    },
+    {
+     "surface": "vastraṃ",
+     "gloss": "cloth",
+     "grounds": "offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandhapuṣpatilānvitam",
+     "gloss": "with-perfume-flowers-sesame",
+     "grounds": "compound: gandha + puṣpa + tila + anvitam",
+     "morph": "compound=n.acc.sg"
+    }
+   ],
+   "question": "What offerings should accompany the foot-water and other ritual items?",
+   "premises": [
+    "A collection beginning with foot-water is offered",
+    "Cloth is included among the offerings",
+    "Perfume, flowers, and sesame accompany them"
+   ],
+   "inference": "The offerings include foot-water and related items, cloth, and perfume, flowers, and sesame.",
+   "uncertainties": [],
+   "plain_english": "One should offer the collection of foot-water and so on, cloth, together with perfume, flowers, and sesame."
+  },
+  {
+   "verse": 2539,
+   "rows": [
+    {
+     "surface": "tadardha",
+     "gloss": "half-of-that",
+     "grounds": "compound indicating quantity",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "nirmitaṃ",
+     "gloss": "made",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particles",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prītikaraṃ",
+     "gloss": "pleasing",
+     "grounds": "compound adjective",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative quantity or quality of offering is acceptable in this rite?",
+   "premises": [
+    "Half of that amount may be prepared",
+    "An alternative is allowed",
+    "Whatever is pleasing to it is acceptable"
+   ],
+   "inference": "Either half that amount or whatever is pleasing may be offered.",
+   "uncertainties": [],
+   "plain_english": "Or half of that may be prepared, and whatever is pleasing to it."
+  },
+  {
+   "verse": 2540,
+   "rows": [
+    {
+     "surface": "āśauca",
+     "gloss": "impurity",
+     "grounds": "ritual pollution term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rahitaiḥ",
+     "gloss": "free-from",
+     "grounds": "instrumental plural adjective",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "navamadbhāṇḍa",
+     "gloss": "new-vessel",
+     "grounds": "compound with sandhi: navam + ad + bhāṇḍa",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "certainly",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition must the vessel satisfy for use in this ritual?",
+   "premises": [
+    "The vessel must be free from impurity",
+    "The vessel must be new",
+    "The requirement is emphasized"
+   ],
+   "inference": "The ritual must use a new vessel free from impurity.",
+   "uncertainties": [
+    "The internal segmentation of navamadbhāṇḍa is uncertain"
+   ],
+   "plain_english": "Indeed, a new vessel free from impurity must certainly be used."
+  },
+  {
+   "verse": 2541,
+   "rows": [
+    {
+     "surface": "dvayamahyeva",
+     "gloss": "two-things-in-day-indeed",
+     "grounds": "compound with sandhi: dvayam + ahni + eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartavyameka",
+     "gloss": "should-be-done-one",
+     "grounds": "compound with sandhi: kartavyam + eka",
+     "morph": "n.nom.sg+m.nom.sg"
+    },
+    {
+     "surface": "kāle'thavā",
+     "gloss": "at-time-or",
+     "grounds": "locative with sandhi and particle: kāle + athavā",
+     "morph": "m.loc.sg+indecl."
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "two",
+     "grounds": "numeral noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How may the two required acts be scheduled within the ritual period?",
+   "premises": [
+    "Two acts are to be done in a day",
+    "They may be done at one time",
+    "Alternatively both may be done together"
+   ],
+   "inference": "The two acts may be performed either separately in the day or together at one time.",
+   "uncertainties": [
+    "The precise distribution implied by dvayamahyeva is somewhat compressed"
+   ],
+   "plain_english": "Two things should be done in the day, or both may be done at one time."
+  },
+  {
+   "verse": 2542,
+   "rows": [
+    {
+     "surface": "athavārghyabaliṃ",
+     "gloss": "or-arghya-offering",
+     "grounds": "compound with sandhi: athavā + arghya + balim",
+     "morph": "indecl.+compound=m.acc.sg"
+    },
+    {
+     "surface": "dadyādanyatrānnaṃ",
+     "gloss": "should-give-elsewhere-food",
+     "grounds": "compound with sandhi: dadyāt + anyatra + annam",
+     "morph": "3.sg.opt.act+√dā+indecl.+n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act+√kḷp"
+    }
+   ],
+   "question": "What alternative offerings may be given or arranged in this context?",
+   "premises": [
+    "An arghya offering may be given",
+    "Food may be arranged elsewhere",
+    "These are presented as alternatives"
+   ],
+   "inference": "One may either give an arghya offering or arrange food elsewhere.",
+   "uncertainties": [],
+   "plain_english": "Or one should give an arghya offering, or arrange food elsewhere."
+  },
+  {
+   "verse": 2543,
+   "rows": [
+    {
+     "surface": "kṛtveṣṭakāṃ",
+     "gloss": "having-made-brick",
+     "grounds": "compound with sandhi: kṛtvā + iṣṭakām",
+     "morph": "gerund+√kṛ+f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṣāṇaṃ",
+     "gloss": "stone",
+     "grounds": "alternative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śarāve",
+     "gloss": "in-potsherd",
+     "grounds": "locative of container",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "placing",
+     "grounds": "gerund of placing",
+     "morph": "gerund+√dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials and containers may be used for placing the ritual base?",
+   "premises": [
+    "A brick may be made or a stone used",
+    "It may be placed in a potsherd",
+    "These options are alternatives"
+   ],
+   "inference": "One may make a brick or use a stone and place it in a potsherd.",
+   "uncertainties": [],
+   "plain_english": "Having made a brick or taken a stone, and placing it in a potsherd."
+  },
+  {
+   "verse": 2544,
+   "rows": [
+    {
+     "surface": "saptāhaṃ",
+     "gloss": "seven-days",
+     "grounds": "duration compound",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navāhaṃ",
+     "gloss": "nine-days",
+     "grounds": "duration compound",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśāhaṃ",
+     "gloss": "ten-days",
+     "grounds": "duration compound",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadācaret",
+     "gloss": "then-should-perform",
+     "grounds": "compound with sandhi: tat + ācaret",
+     "morph": "n.acc.sg+3.sg.opt.act+√car"
+    }
+   ],
+   "question": "For how many days may this ritual observance be carried out?",
+   "premises": [
+    "Seven days is an option",
+    "Nine days is an option",
+    "Ten days is an option"
+   ],
+   "inference": "The observance may be performed for seven, nine, or ten days.",
+   "uncertainties": [],
+   "plain_english": "One should perform that for seven days, or nine days, or ten days."
+  },
+  {
+   "verse": 2545,
+   "rows": [
+    {
+     "surface": "mṛdamudvāsya",
+     "gloss": "earth-removing",
+     "grounds": "compound with sandhi: mṛdam + udvāsya",
+     "morph": "f.acc.sg+gerund+√vas"
+    },
+    {
+     "surface": "tatsthānāt",
+     "gloss": "from-that-place",
+     "grounds": "compound ablative",
+     "morph": "compound=n.abl.sg"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "ball",
+     "grounds": "ritual lump offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puṣpasamanvitam",
+     "gloss": "with-flowers-joined",
+     "grounds": "compound: puṣpa + samanvitam",
+     "morph": "compound=m.acc.sg"
+    }
+   ],
+   "question": "What should be removed and what offering should be prepared afterward?",
+   "premises": [
+    "Earth is removed from that place",
+    "A ball offering is prepared",
+    "The ball is accompanied by flowers"
+   ],
+   "inference": "After removing the earth from that place, one should prepare a ball offering with flowers.",
+   "uncertainties": [],
+   "plain_english": "Removing the earth from that place, one should prepare a ball offering accompanied by flowers."
+  },
+  {
+   "verse": 2546,
+   "rows": [
+    {
+     "surface": "saṃgrāhya",
+     "gloss": "collecting",
+     "grounds": "gerund of gathering",
+     "morph": "gerund+√grah"
+    },
+    {
+     "surface": "pīṭhikādau",
+     "gloss": "at-pedestal-etc",
+     "grounds": "locative compound: pīṭhikā + ādau",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "offering item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīpādi",
+     "gloss": "lamp-etc",
+     "grounds": "compound: dīpa + ādi",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should the collected offering be placed and with what accompaniments?",
+   "premises": [
+    "The offering is collected",
+    "It is placed at the pedestal and similar places",
+    "It is joined with incense, lamp, and other items"
+   ],
+   "inference": "The collected offering should be placed at the pedestal with incense, lamp, and related items.",
+   "uncertainties": [],
+   "plain_english": "Collecting it and placing it at the pedestal and so on, together with incense, lamp, and other items."
+  },
+  {
+   "verse": 2547,
+   "rows": [
+    {
+     "surface": "etatsarvaṃ",
+     "gloss": "all-this",
+     "grounds": "compound with sandhi: etat + sarvam",
+     "morph": "n.nom.sg+n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyasthāne",
+     "gloss": "in-holy-place",
+     "grounds": "locative compound",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "nadyādike",
+     "gloss": "river-etc",
+     "grounds": "locative compound: nadī + ādike",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-take",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act+√nī"
+    }
+   ],
+   "question": "To what alternative locations may all these ritual items be taken?",
+   "premises": [
+    "All these items are considered together",
+    "A holy place is an option",
+    "A river or similar place is an option"
+   ],
+   "inference": "All these items may be taken to a holy place or to a river and similar places.",
+   "uncertainties": [],
+   "plain_english": "Or one should take all this to a holy place, such as a river or the like."
+  },
+  {
+   "verse": 2548,
+   "rows": [
+    {
+     "surface": "brāhmaṇe",
+     "gloss": "for-brahmin",
+     "grounds": "locative indicating case",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "daśapiṇḍāstu",
+     "gloss": "ten-balls-indeed",
+     "grounds": "compound with sandhi: daśa + piṇḍāḥ + tu",
+     "morph": "compound=m.nom.pl+indecl."
+    },
+    {
+     "surface": "kṣatriye",
+     "gloss": "for-kshatriya",
+     "grounds": "locative indicating case",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many ritual balls are prescribed for a brahmin and for a kshatriya?",
+   "premises": [
+    "Ten balls are prescribed for a brahmin",
+    "Twelve are prescribed for a kshatriya",
+    "These numbers are traditionally remembered"
+   ],
+   "inference": "Ten balls are prescribed for a brahmin and twelve for a kshatriya.",
+   "uncertainties": [],
+   "plain_english": "For a brahmin ten balls are prescribed, and for a kshatriya twelve are remembered."
+  },
+  {
+   "verse": 2549,
+   "rows": [
+    {
+     "surface": "āśaucaṃ",
+     "gloss": "impurity",
+     "grounds": "ritual pollution period",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāvadeteṣāṃ",
+     "gloss": "as-long-as-of-these",
+     "grounds": "compound with sandhi: yāvat + eteṣām",
+     "morph": "indecl.+m.gen.pl"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍodakakriyā",
+     "gloss": "ball-water-rite",
+     "grounds": "compound: piṇḍa + udaka + kriyā",
+     "morph": "compound=f.nom.sg"
+    }
+   ],
+   "question": "For how long do impurity and the ball-and-water rites continue?",
+   "premises": [
+    "Impurity lasts for a certain period",
+    "The period corresponds to that of these rites",
+    "The ball-and-water rite continues for the same duration"
+   ],
+   "inference": "The period of impurity lasts as long as the ball-and-water rites continue.",
+   "uncertainties": [],
+   "plain_english": "As long as their impurity lasts, so long does the rite of balls and water continue."
+  }
+ ]
+}

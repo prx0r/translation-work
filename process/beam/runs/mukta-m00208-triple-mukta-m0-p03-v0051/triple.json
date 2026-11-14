@@ -1,0 +1,909 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "śivaliṅgaṃ",
+     "gloss": "śiva-emblem",
+     "grounds": "object of bathing and sprinkling",
+     "morph": "compound: śiva+liṅga; n.acc.sg"
+    },
+    {
+     "surface": "snāpayāmi",
+     "gloss": "i-bathe",
+     "grounds": "formula spoken during the rite",
+     "morph": "1.sg.act.pres + snā"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "marks the spoken formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + abhi-ṣic"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "afterwards",
+     "grounds": "indicates sequence after prior act",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action and formula follow in sprinkling the Śiva emblem?",
+   "premises": [
+    "The Śiva emblem is the object of the rite",
+    "The formula states I bathe",
+    "Sprinkling should be performed afterwards"
+   ],
+   "inference": "Afterwards one should sprinkle the Śiva emblem while saying I bathe.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, saying \"I bathe the Śiva liṅga,\" one should sprinkle it."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "continues the sprinkling injunction",
+     "morph": "3.sg.act.opt + abhi-ṣic"
+    },
+    {
+     "surface": "iṣṭaliṅgaṃ",
+     "gloss": "chosen-emblem",
+     "grounds": "object to be sprinkled",
+     "morph": "compound: iṣṭa+liṅga; n.acc.sg"
+    },
+    {
+     "surface": "pañcabrahmamanūttamaiḥ",
+     "gloss": "with-supreme-five-brahman-mantras",
+     "grounds": "instrumental means for sprinkling",
+     "morph": "compound: pañca+brahma+manu+uttama; m.inst.pl"
+    }
+   ],
+   "question": "By what mantras should the chosen emblem be sprinkled?",
+   "premises": [
+    "The chosen emblem is to be sprinkled",
+    "The supreme five Brahman mantras are specified",
+    "These mantras serve as the means"
+   ],
+   "inference": "One should sprinkle the chosen emblem with the supreme five Brahman mantras.",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle the chosen liṅga with the supreme five Brahman mantras."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "prior action before worship",
+     "morph": "(indecl., gerund) + ni-kṣip"
+    },
+    {
+     "surface": "gandhapuṣpādyair",
+     "gloss": "with-fragrance-flowers-and-others",
+     "grounds": "offerings used in worship",
+     "morph": "compound: gandha+puṣpa+ādi; n.inst.pl"
+    },
+    {
+     "surface": "arcayed",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + arc"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "agent performing the worship",
+     "morph": "compound: deśika+uttama; m.nom.sg"
+    }
+   ],
+   "question": "Who should perform worship and with what offerings after placing?",
+   "premises": [
+    "An act of placing precedes worship",
+    "Fragrance, flowers, and other offerings are used",
+    "The best teacher is the agent"
+   ],
+   "inference": "After placing, the best teacher should worship with fragrance, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having placed it, the best teacher should worship with fragrance, flowers, and other offerings."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "vāruṇe maṇḍale",
+     "gloss": "in-water-circle",
+     "grounds": "location for the next rite",
+     "morph": "compound: vāruṇa+maṇḍala; n.loc.sg"
+    },
+    {
+     "surface": "prasthamitapānīyapūrite",
+     "gloss": "filled-with-measured-water",
+     "grounds": "describes the prepared circle or vessel context",
+     "morph": "compound: prastha+mita+pānīya+pūrita; n.loc.sg"
+    }
+   ],
+   "question": "In what kind of water circle should the next rite be performed?",
+   "premises": [
+    "A water circle is specified as the location",
+    "It is filled with measured water",
+    "This preparation defines the ritual setting"
+   ],
+   "inference": "The next rite should be performed in a water circle filled with measured water.",
+   "uncertainties": [
+    "prastha as a specific measure is not fully specified"
+   ],
+   "plain_english": "In a water circle filled with a measured amount of water."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "jalādhivāsanaṃ",
+     "gloss": "water-consecration",
+     "grounds": "ritual act to be performed",
+     "morph": "compound: jala+adhivāsana; n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-do",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + kṛ"
+    },
+    {
+     "surface": "abliṅgairmanubhistataḥ",
+     "gloss": "then-with-water-mantras",
+     "grounds": "mantras used for the consecration",
+     "morph": "compound: abliṅga+manu; m.inst.pl"
+    }
+   ],
+   "question": "What consecration should be done and with which mantras?",
+   "premises": [
+    "Water consecration is prescribed",
+    "It should be performed as a ritual act",
+    "Water mantras are the means"
+   ],
+   "inference": "One should then perform water consecration with the water mantras.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the water consecration with the water mantras."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "tatpātraṃ",
+     "gloss": "that-vessel",
+     "grounds": "object to be placed",
+     "morph": "compound: tad+pātra; n.acc.sg"
+    },
+    {
+     "surface": "vinikṣipya",
+     "gloss": "having-placed",
+     "grounds": "prior action before further rites",
+     "morph": "(indecl., gerund) + vi-ni-kṣip"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāyukoṇage",
+     "gloss": "in-northwest-corner",
+     "grounds": "specific direction within the circle",
+     "morph": "compound: vāyu+koṇa+ga; n.loc.sg"
+    }
+   ],
+   "question": "Where should that vessel be placed within the ritual circle?",
+   "premises": [
+    "That vessel is to be placed",
+    "The placement occurs in the circle",
+    "The northwest corner is specified"
+   ],
+   "inference": "That vessel should be placed in the northwest corner of the circle.",
+   "uncertainties": [],
+   "plain_english": "Having placed that vessel in the circle, in the northwest corner."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "taduktamantraiḥ",
+     "gloss": "with-those-stated-mantras",
+     "grounds": "mantras used for bathing",
+     "morph": "compound: tad+ukta+mantra; m.inst.pl"
+    },
+    {
+     "surface": "saṃsnāpya",
+     "gloss": "having-bathed",
+     "grounds": "prior bathing action",
+     "morph": "(indecl., gerund) + sam-snā"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "emblem",
+     "grounds": "object of bathing and rubbing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udvartya",
+     "gloss": "having-rubbed",
+     "grounds": "subsequent action after bathing",
+     "morph": "(indecl., gerund) + ud-vṛt"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "with-cloth",
+     "grounds": "instrument used for rubbing",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How should the emblem be bathed and prepared after placement?",
+   "premises": [
+    "The emblem is bathed with those stated mantras",
+    "After bathing it is rubbed",
+    "A cloth is used for rubbing"
+   ],
+   "inference": "The emblem should be bathed with those mantras and then rubbed with a cloth.",
+   "uncertainties": [],
+   "plain_english": "Having bathed the liṅga with those stated mantras, one should rub it with a cloth."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "prior action before worship",
+     "morph": "(indecl., gerund) + ni-dhā"
+    },
+    {
+     "surface": "gandhapuṣpādyair",
+     "gloss": "with-fragrance-flowers-and-others",
+     "grounds": "offerings used in worship",
+     "morph": "compound: gandha+puṣpa+ādi; n.inst.pl"
+    },
+    {
+     "surface": "arcayed",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + arc"
+    },
+    {
+     "surface": "deśikastataḥ",
+     "gloss": "then-teacher",
+     "grounds": "agent performing the worship",
+     "morph": "compound: deśika+tatas; m.nom.sg"
+    }
+   ],
+   "question": "Who should worship the emblem and with what after it is placed?",
+   "premises": [
+    "The emblem is placed first",
+    "Fragrance, flowers, and other offerings are used",
+    "The teacher performs the worship"
+   ],
+   "inference": "Then the teacher should place it and worship with fragrance, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Then, having placed it, the teacher should worship with fragrance, flowers, and other offerings."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "tadvidhānaṃ",
+     "gloss": "that-procedure",
+     "grounds": "topic to be explained",
+     "morph": "compound: tad+vidhāna; n.acc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-will-declare",
+     "grounds": "speaker's promise to explain",
+     "morph": "1.sg.act.fut + pra-vac"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "address to the listener",
+     "morph": "2.sg.act.impv + śru"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "briefly",
+     "grounds": "manner of explanation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How will the procedure be communicated to the goddess?",
+   "premises": [
+    "The speaker promises to declare that procedure",
+    "The goddess is addressed to listen",
+    "The explanation will be brief"
+   ],
+   "inference": "The speaker will briefly declare that procedure to the goddess.",
+   "uncertainties": [],
+   "plain_english": "O goddess, listen; I will briefly declare that procedure."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "tadardhaiḥ",
+     "gloss": "with-their-halves",
+     "grounds": "quantity of rice specified",
+     "morph": "compound: tad+ardha; m.inst.pl"
+    },
+    {
+     "surface": "taṇḍulaiścaiva",
+     "gloss": "and-with-rice",
+     "grounds": "first material listed",
+     "morph": "compound: taṇḍula+ca+eva; m.inst.pl"
+    },
+    {
+     "surface": "tadardhaiḥ",
+     "gloss": "with-their-halves",
+     "grounds": "quantity of sesame specified",
+     "morph": "compound: tad+ardha; m.inst.pl"
+    },
+    {
+     "surface": "tilaistathā",
+     "gloss": "likewise-with-sesame",
+     "grounds": "second material listed",
+     "morph": "compound: tila+tathā; m.inst.pl"
+    }
+   ],
+   "question": "What materials and proportions are required for the procedure?",
+   "premises": [
+    "Rice is used in specified halves",
+    "Sesame is used likewise in halves",
+    "Both materials are part of the preparation"
+   ],
+   "inference": "The procedure requires rice and likewise sesame in their respective halves.",
+   "uncertainties": [
+    "the reference measure for tadardhaiḥ is not explicit in this verse"
+   ],
+   "plain_english": "With half portions of rice, and likewise with half portions of sesame."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "darbhair",
+     "gloss": "with-darbha-grass",
+     "grounds": "material used for covering",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "prior covering action",
+     "morph": "(indecl., gerund) + ā-chad"
+    },
+    {
+     "surface": "talliṅgaṃ",
+     "gloss": "that-emblem",
+     "grounds": "object to be covered and positioned",
+     "morph": "compound: tad+liṅga; n.acc.sg"
+    },
+    {
+     "surface": "prākchiraskam",
+     "gloss": "head-toward-east",
+     "grounds": "orientation of the emblem",
+     "morph": "compound: prāk+śiras+ka; n.acc.sg"
+    },
+    {
+     "surface": "adhomukham",
+     "gloss": "face-downward",
+     "grounds": "orientation of the emblem",
+     "morph": "compound: adhas+mukha; n.acc.sg"
+    }
+   ],
+   "question": "How should that emblem be covered and oriented with darbha grass?",
+   "premises": [
+    "Darbha grass is used for covering",
+    "That emblem is the object",
+    "It should be oriented head toward the east and face downward"
+   ],
+   "inference": "That emblem should be covered with darbha grass, placed head toward the east and face downward.",
+   "uncertainties": [],
+   "plain_english": "Having covered that liṅga with darbha grass, place it with its head toward the east and face downward."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "liṅge",
+     "gloss": "on-emblem",
+     "grounds": "location for placing items",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "prior action before placing pots",
+     "morph": "(indecl., gerund) + ni-kṣip"
+    },
+    {
+     "surface": "tasyāṣṭadikṣukumbhān",
+     "gloss": "its-pots-in-eight-directions",
+     "grounds": "objects to be placed around it",
+     "morph": "compound: tad+aṣṭa+diś+kumbha; m.acc.pl"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + vi-ni-kṣip"
+    }
+   ],
+   "question": "Where should the eight directional pots be placed in relation to the emblem?",
+   "premises": [
+    "An action is performed on the emblem",
+    "Pots in the eight directions are specified",
+    "These pots should be placed"
+   ],
+   "inference": "One should place its pots in the eight directions around the emblem.",
+   "uncertainties": [],
+   "plain_english": "Having placed things on the liṅga, one should place its pots in the eight directions."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "vastrair",
+     "gloss": "with-cloths",
+     "grounds": "material used for covering",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "prior covering action",
+     "morph": "(indecl., gerund) + ā-chad"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.mid.opt + kṛ"
+    },
+    {
+     "surface": "śivāgnimukham",
+     "gloss": "śiva-fire-rite",
+     "grounds": "ritual act to be performed",
+     "morph": "compound: śiva+agni+mukha; n.acc.sg"
+    },
+    {
+     "surface": "apyatha",
+     "gloss": "and-then",
+     "grounds": "marks sequence to next act",
+     "morph": "compound: api+atha; (indecl.)"
+    }
+   ],
+   "question": "What ritual act should be performed after covering with cloths?",
+   "premises": [
+    "Covering with cloths is done first",
+    "A Śiva fire rite is specified",
+    "The act should then be performed"
+   ],
+   "inference": "After covering with cloths, one should then perform the Śiva fire rite.",
+   "uncertainties": [
+    "śivāgnimukham may refer specifically to the fire-facing preliminary rite"
+   ],
+   "plain_english": "Having covered them with cloths, one should then perform the Śiva fire rite."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvadiksaṃsthe",
+     "gloss": "situated-in-east-direction",
+     "grounds": "specific location within the circle",
+     "morph": "compound: pūrva+dik+saṃstha; n.loc.sg"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "prior action before worship",
+     "morph": "(indecl., gerund) + ni-kṣip"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + sam-arc"
+    }
+   ],
+   "question": "Where should placement occur before worship in the circle?",
+   "premises": [
+    "Placement occurs in the circle",
+    "The eastern direction is specified",
+    "Worship follows placement"
+   ],
+   "inference": "Having placed it in the eastern part of the circle, one should worship.",
+   "uncertainties": [],
+   "plain_english": "Having placed it in the circle in the eastern direction, one should worship."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "dhānyādhivāsakalitamaṇḍalīkalaśodakaiḥ",
+     "gloss": "with-grain-consecration-circle-vessel-waters",
+     "grounds": "waters prepared through grain consecration in circle vessels",
+     "morph": "compound: dhānya+adhivāsa+kalita+maṇḍalī+kalaśa+udaka; n.inst.pl"
+    }
+   ],
+   "question": "What prepared waters are used in this stage of the rite?",
+   "premises": [
+    "Waters are specified as the means",
+    "They are associated with grain consecration",
+    "They come from vessels arranged in a circle"
+   ],
+   "inference": "The rite uses waters from circle vessels prepared through grain consecration.",
+   "uncertainties": [
+    "exact internal structure of the long compound allows slight interpretive variation"
+   ],
+   "plain_english": "With waters from the vessels in the circle prepared through grain consecration."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "adhvanyāsān",
+     "gloss": "path-installations",
+     "grounds": "ritual installations to be conceived",
+     "morph": "compound: adhvan+nyāsa; m.acc.pl"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "number of installations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apyatra",
+     "gloss": "also-here",
+     "grounds": "indicates inclusion in this context",
+     "morph": "compound: api+atra; (indecl.)"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-emblem",
+     "grounds": "location of the installations",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃkalpyapūrvakam",
+     "gloss": "preceded-by-resolve",
+     "grounds": "mental resolve precedes the act",
+     "morph": "compound: saṃkalpya+pūrvaka; (indecl.)"
+    }
+   ],
+   "question": "How many path installations should be conceived in the emblem and in what manner?",
+   "premises": [
+    "Six path installations are specified",
+    "They are to be done in the emblem",
+    "The act is preceded by resolve"
+   ],
+   "inference": "One should conceive six path installations in the emblem, preceded by resolve.",
+   "uncertainties": [],
+   "plain_english": "Here in the liṅga, one should conceive the six path installations, preceded by resolve."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "tatkañje",
+     "gloss": "in-its-lotus",
+     "grounds": "location for installing a path",
+     "morph": "compound: tad+kañja; n.loc.sg"
+    },
+    {
+     "surface": "padādhvānaṃ",
+     "gloss": "word-path",
+     "grounds": "one of the paths to be installed",
+     "morph": "compound: pada+adhvan; m.acc.sg"
+    },
+    {
+     "surface": "varṇādhvānaṃ",
+     "gloss": "letter-path",
+     "grounds": "another path to be installed",
+     "morph": "compound: varṇa+adhvan; m.acc.sg"
+    },
+    {
+     "surface": "ca madhyake",
+     "gloss": "and-in-middle",
+     "grounds": "location for the letter path",
+     "morph": "compound: ca+madhyaka; n.loc.sg"
+    }
+   ],
+   "question": "Where should the word path and letter path be installed?",
+   "premises": [
+    "The word path is specified",
+    "The letter path is specified",
+    "They are placed in the lotus and in the middle respectively"
+   ],
+   "inference": "The word path should be installed in its lotus and the letter path in the middle.",
+   "uncertainties": [],
+   "plain_english": "In its lotus place the word path, and in the middle place the letter path."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "mantrādhvānaṃ",
+     "gloss": "mantra-path",
+     "grounds": "path to be installed",
+     "morph": "compound: mantra+adhvan; m.acc.sg"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-installed",
+     "grounds": "prior installation action",
+     "morph": "(indecl., gerund) + vi-ni-as"
+    },
+    {
+     "surface": "gandhādyair",
+     "gloss": "with-fragrance-and-others",
+     "grounds": "offerings used for worship",
+     "morph": "compound: gandha+ādi; n.inst.pl"
+    },
+    {
+     "surface": "abhipūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + abhi-pūj"
+    }
+   ],
+   "question": "What should be done after installing the mantra path?",
+   "premises": [
+    "The mantra path is installed",
+    "Fragrance and other offerings are available",
+    "Worship should follow installation"
+   ],
+   "inference": "After installing the mantra path, one should worship with fragrance and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having installed the mantra path, one should worship with fragrance and other offerings."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "pañcākṣareṇa",
+     "gloss": "with-five-syllable",
+     "grounds": "mantra used in worship",
+     "morph": "compound: pañca+akṣara; n.inst.sg"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "specifies the means as a mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "satāreṇa",
+     "gloss": "with-seed-syllable",
+     "grounds": "mantra accompanied by a seed syllable",
+     "morph": "compound: sa+tāra; m.inst.sg"
+    },
+    {
+     "surface": "tathā punaḥ",
+     "gloss": "and-again",
+     "grounds": "indicates repetition or continuation",
+     "morph": "compound: tathā+punaḥ; (indecl.)"
+    }
+   ],
+   "question": "With what mantra formulation should the worship be performed again?",
+   "premises": [
+    "The five-syllable mantra is specified",
+    "It is accompanied by a seed syllable",
+    "The act is to be done again"
+   ],
+   "inference": "Worship should again be performed with the five-syllable mantra accompanied by a seed syllable.",
+   "uncertainties": [
+    "the specific seed syllable denoted by tāra is not named here"
+   ],
+   "plain_english": "Again, with the five-syllable mantra accompanied by the seed syllable."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "jayādibhiśca",
+     "gloss": "and-with-jayā-and-others",
+     "grounds": "mantras or formulas used in offering",
+     "morph": "compound: jayā+ādi+ca; m.inst.pl"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "one-should-offer",
+     "grounds": "injunctive fire offering",
+     "morph": "3.sg.act.opt + hu"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "into-fire",
+     "grounds": "recipient of the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rakṣed",
+     "gloss": "one-should-protect",
+     "grounds": "injunctive protective action",
+     "morph": "3.sg.act.opt + rakṣ"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "afterwards",
+     "grounds": "indicates sequence after offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions should follow the fire offering with the jayā formulas?",
+   "premises": [
+    "Offerings are made into the fire with jayā and others",
+    "The fire offering is prescribed",
+    "Protection should follow afterwards"
+   ],
+   "inference": "One should offer into the fire with jayā and other formulas and afterwards protect it.",
+   "uncertainties": [],
+   "plain_english": "One should offer into the fire with the jayā and other formulas, and afterwards protect it."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "kūrmāsanoparigate",
+     "gloss": "seated-on-tortoise-seat",
+     "grounds": "position of the practitioner",
+     "morph": "compound: kūrma+āsana+upari+gata; m.loc.sg"
+    },
+    {
+     "surface": "kuśādiparikalpite",
+     "gloss": "prepared-with-kuśa-and-others",
+     "grounds": "describes the prepared seat",
+     "morph": "compound: kuśa+ādi+parikalpita; m.loc.sg"
+    }
+   ],
+   "question": "On what kind of prepared seat should the practitioner be situated?",
+   "premises": [
+    "A tortoise seat is specified",
+    "The seat is prepared with kuśa and other materials",
+    "The practitioner is situated upon it"
+   ],
+   "inference": "The practitioner should be situated on a tortoise seat prepared with kuśa and other materials.",
+   "uncertainties": [],
+   "plain_english": "Seated upon a tortoise seat prepared with kuśa grass and other materials."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "viśodhya",
+     "gloss": "having-purified",
+     "grounds": "prior purification action",
+     "morph": "(indecl., gerund) + vi-śudh"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "object of purification",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadanu",
+     "gloss": "after-that",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidadhyād",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + vi-dhā"
+    },
+    {
+     "surface": "bhūtaśodhanam",
+     "gloss": "element-purification",
+     "grounds": "ritual act to be performed",
+     "morph": "compound: bhūta+śodhana; n.acc.sg"
+    }
+   ],
+   "question": "What purification should be performed after purifying the body?",
+   "premises": [
+    "The body is purified first",
+    "A subsequent act is prescribed",
+    "That act is element purification"
+   ],
+   "inference": "After purifying the body, one should perform element purification.",
+   "uncertainties": [],
+   "plain_english": "Having purified the body, one should then perform the purification of the elements."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "pañcagavyena",
+     "gloss": "with-five-cow-products",
+     "grounds": "substance used for purification",
+     "morph": "compound: pañca+gavya; n.inst.sg"
+    },
+    {
+     "surface": "tasyātha",
+     "gloss": "then-of-that",
+     "grounds": "marks sequence and reference",
+     "morph": "compound: tad+atha; (indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-do",
+     "grounds": "injunctive ritual action",
+     "morph": "3.sg.act.opt + kṛ"
+    },
+    {
+     "surface": "antarviśodhanam",
+     "gloss": "inner-purification",
+     "grounds": "ritual act to be performed",
+     "morph": "compound: antar+viśodhana; n.acc.sg"
+    }
+   ],
+   "question": "By what means should inner purification be performed at this stage?",
+   "premises": [
+    "Inner purification is prescribed",
+    "Five cow products are specified as the means",
+    "The act follows in sequence"
+   ],
+   "inference": "One should then perform inner purification with the five cow products.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform inner purification with the five products of the cow."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "anādibhavasaṃpanna",
+     "gloss": "arisen-from-beginningless-existence",
+     "grounds": "describes faults accumulated over beginningless existence",
+     "morph": "compound: anādi+bhava+saṃpanna; m.nom.sg"
+    },
+    {
+     "surface": "sarvadoṣopaśāntaye",
+     "gloss": "for-calming-all-faults",
+     "grounds": "purpose of the purification",
+     "morph": "compound: sarva+doṣa+upaśānti; f.dat.sg"
+    }
+   ],
+   "question": "For what purpose is the purification aimed at faults from beginningless existence?",
+   "premises": [
+    "Faults are described as arising from beginningless existence",
+    "All such faults are in view",
+    "The rite aims at their calming"
+   ],
+   "inference": "The purification is performed for the calming of all faults arisen from beginningless existence.",
+   "uncertainties": [],
+   "plain_english": "For the calming of all faults that have arisen from beginningless existence."
+  }
+ ]
+}

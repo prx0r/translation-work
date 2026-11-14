@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "vividhāni",
+     "gloss": "various",
+     "grounds": "qualifies pūpāni",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūpāni",
+     "gloss": "cakes",
+     "grounds": "prepared food items",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yogyadravyaiḥ",
+     "gloss": "with-suitable-substances",
+     "grounds": "compound yogya-dravya; instrumental of means or accompaniment",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kṛtāni",
+     "gloss": "made",
+     "grounds": "past participle qualifying pūpāni",
+     "morph": "n.nom.pl.ppp √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of cakes are prepared using suitable ingredients?",
+   "premises": [
+    "Various cakes are included as prepared items.",
+    "These cakes are made with suitable substances.",
+    "The preparation extends the list of food offerings."
+   ],
+   "inference": "Various cakes made with suitable ingredients are also prepared.",
+   "uncertainties": [],
+   "plain_english": "And various cakes made with suitable ingredients are also prepared."
+  }
+ ]
+}

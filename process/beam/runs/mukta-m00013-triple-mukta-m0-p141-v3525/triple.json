@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "marīcahomāt",
+     "gloss": "from-pepper-oblation",
+     "grounds": "ablative of cause/instrument in ritual context; compound marīca+homāt",
+     "morph": "compound:marīca+homāt.abl.sg.m"
+    },
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "object of āpnoti",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "subject of āpnoti",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "resultative verb in ritual outcome statement",
+     "morph": "3.sg.pres.act.√āp"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "temporal adverb indicating invariable result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fatal outcome befalls an enemy as a result of a pepper oblation?",
+   "premises": [
+    "A pepper oblation is performed as a ritual act.",
+    "The enemy is the target affected by this ritual act.",
+    "The ritual act produces its result invariably at all times."
+   ],
+   "inference": "Performing a pepper oblation causes the enemy to meet death.",
+   "uncertainties": [],
+   "plain_english": "From an oblation of pepper, the enemy always meets death."
+  }
+ ]
+}

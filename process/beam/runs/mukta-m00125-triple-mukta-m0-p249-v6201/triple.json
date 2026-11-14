@@ -1,0 +1,1225 @@
+{
+ "song": "mukta-m0-p249",
+ "items": [
+  {
+   "verse": 6201,
+   "rows": [
+    {
+     "surface": "durgā",
+     "gloss": "durgā",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saumyadeśe",
+     "gloss": "in-auspicious-region",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrān",
+     "gloss": "rudras",
+     "grounds": "deities to be invoked",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "arkān",
+     "gloss": "suns",
+     "grounds": "deities to be invoked",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vasūn",
+     "gloss": "vasus",
+     "grounds": "deities to be invoked",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are to be invoked in the auspicious region?",
+   "premises": [
+    "Durgā is invoked in the auspicious region",
+    "Rudras are also invoked",
+    "Suns and Vasus are also invoked"
+   ],
+   "inference": "Durgā, Rudras, Suns, and Vasus are all to be invoked in the auspicious region",
+   "uncertainties": [],
+   "plain_english": "Indeed, in the auspicious region one should invoke Durgā, and also the Rudras, the Suns, and the Vasus."
+  },
+  {
+   "verse": 6202,
+   "rows": [
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryat",
+     "gloss": "should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "tadante",
+     "gloss": "after-that",
+     "grounds": "temporal sequence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "prior action",
+     "morph": "(absolutive) + kṛ"
+    },
+    {
+     "surface": "kuṇḍāgni",
+     "gloss": "fire-pit-fire",
+     "grounds": "compound object of consecration",
+     "morph": "compound: kuṇḍa+agni"
+    },
+    {
+     "surface": "saṃskṛtim",
+     "gloss": "consecration",
+     "grounds": "ritual purification",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What ritual action must follow the consecration of the fire-pit fire?",
+   "premises": [
+    "The consecration of the fire-pit fire is performed first",
+    "After that consecration a fire-offering is prescribed",
+    "The officiant should perform the fire-offering"
+   ],
+   "inference": "After consecrating the fire-pit fire, the officiant should perform the fire-offering",
+   "uncertainties": [],
+   "plain_english": "After performing the consecration of the fire in the fire-pit, one should then perform the fire-offering."
+  },
+  {
+   "verse": 6203,
+   "rows": [
+    {
+     "surface": "palāśa",
+     "gloss": "palāśa",
+     "grounds": "sacred wood type",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "udumbara",
+     "gloss": "udumbara",
+     "grounds": "sacred wood type",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aśvattha",
+     "gloss": "aśvattha",
+     "grounds": "sacred wood type",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaṭāḥ",
+     "gloss": "vaṭa-trees",
+     "grounds": "sacred wood types listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāgādi",
+     "gloss": "east-and-other",
+     "grounds": "compound indicating directions beginning with east",
+     "morph": "compound: prāc+ādi"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative of placement",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred woods are assigned to the directions beginning with the east?",
+   "premises": [
+    "Palāśa, udumbara, aśvattha, and vaṭa are named",
+    "These are placed in the directions",
+    "The directions begin with the east"
+   ],
+   "inference": "Palāśa, udumbara, aśvattha, and vaṭa woods are assigned to the directions beginning with the east",
+   "uncertainties": [],
+   "plain_english": "Palāśa, udumbara, aśvattha, and vaṭa are placed in the directions beginning with the east."
+  },
+  {
+   "verse": 6204,
+   "rows": [
+    {
+     "surface": "pradhāne",
+     "gloss": "in-principal",
+     "grounds": "location in principal fire-pit",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tarpayed",
+     "gloss": "should-satisfy",
+     "grounds": "ritual offering instruction",
+     "morph": "3.sg.optative-active + tṛp (causative)"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "deity to be satisfied",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāṅgaṃ",
+     "gloss": "with-limbs",
+     "grounds": "compound indicating Śiva with attendant parts",
+     "morph": "m.acc.sg, compound: sa+aṅga"
+    },
+    {
+     "surface": "guruttamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "qualified officiant",
+     "morph": "m.nom.sg, compound: guru+uttama"
+    }
+   ],
+   "question": "Who should satisfy Śiva with his limbs in the principal fire-pit?",
+   "premises": [
+    "Śiva together with his limbs is the object of satisfaction",
+    "The act is performed in the principal fire-pit",
+    "The wise and best teacher is the agent"
+   ],
+   "inference": "The wise best teacher should satisfy Śiva with his limbs in the principal fire-pit",
+   "uncertainties": [],
+   "plain_english": "The wise and best teacher should satisfy Śiva together with his limbs in the principal fire-pit."
+  },
+  {
+   "verse": 6205,
+   "rows": [
+    {
+     "surface": "senānīṃ",
+     "gloss": "senānī",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-western",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-fire-pit",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ravīn",
+     "gloss": "suns",
+     "grounds": "deities to be invoked",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "agnidiśi",
+     "gloss": "in-fire-direction",
+     "grounds": "southeast direction",
+     "morph": "f.loc.sg, compound: agni+diś"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "situated",
+     "grounds": "placement or state",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Where are Senānī and the Suns to be placed in the fire-pits?",
+   "premises": [
+    "Senānī is placed in the western fire-pit",
+    "The Suns are placed in the fire direction",
+    "Both placements are specified as situated"
+   ],
+   "inference": "Senānī is to be placed in the western fire-pit and the Suns in the fire direction",
+   "uncertainties": [
+    "sthitau as dual may qualify placement of two groups or a paired state"
+   ],
+   "plain_english": "Senānī is placed in the western fire-pit, and the Suns are situated in the direction of fire."
+  },
+  {
+   "verse": 6206,
+   "rows": [
+    {
+     "surface": "īśāna",
+     "gloss": "īśāna",
+     "grounds": "direction or deity name in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-fire-pit",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvasmin",
+     "gloss": "in-eastern",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lakṣmīṃ",
+     "gloss": "lakṣmī",
+     "grounds": "deity to be invoked",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "in-southern",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātaraḥ",
+     "gloss": "mothers",
+     "grounds": "deities to be invoked",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which deities are assigned to the Īśāna, eastern, and southern fire-pits?",
+   "premises": [
+    "Lakṣmī is assigned to the eastern fire-pit",
+    "The Mothers are assigned to the southern fire-pit",
+    "The Īśāna fire-pit is also specified in the arrangement"
+   ],
+   "inference": "Lakṣmī is placed in the eastern fire-pit and the Mothers in the southern, with the Īśāna fire-pit included in the scheme",
+   "uncertainties": [
+    "the exact deity for the Īśāna fire-pit is not explicitly named in this verse"
+   ],
+   "plain_english": "In the Īśāna fire-pit and in the eastern fire-pit Lakṣmī, and in the southern the Mothers are placed."
+  },
+  {
+   "verse": 6207,
+   "rows": [
+    {
+     "surface": "taddiṅmūrtyādi",
+     "gloss": "that-direction-deity-and-other",
+     "grounds": "compound indicating deities of those directions and others",
+     "morph": "compound: tad+diś+mūrti+ādi"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "accompaniment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "compound member referring to prior count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "compound member indicating quantity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "having the specified number",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the deities of those directions be accompanied and counted?",
+   "premises": [
+    "The deities of those directions and others are included",
+    "They are joined together in the arrangement",
+    "They are endowed with the previous number"
+   ],
+   "inference": "The deities of those directions and others should be joined together and endowed with the previously stated number",
+   "uncertainties": [],
+   "plain_english": "Joined with the deities of those directions and others, and endowed with the previously stated number."
+  },
+  {
+   "verse": 6208,
+   "rows": [
+    {
+     "surface": "ekaikāhuti",
+     "gloss": "each-single-offering",
+     "grounds": "compound indicating one offering at a time",
+     "morph": "compound: eka+eka+āhuti"
+    },
+    {
+     "surface": "dānena",
+     "gloss": "by-giving",
+     "grounds": "instrumental of act",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tarpyāḥ",
+     "gloss": "to-be-satisfied",
+     "grounds": "gerundive obligation",
+     "morph": "m.nom.pl (gerundive) + tṛp (causative)"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-fire-pit",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pradhānake",
+     "gloss": "in-principal",
+     "grounds": "principal fire-pit",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How must the deities be satisfied in the principal fire-pit?",
+   "premises": [
+    "Satisfaction is performed in the principal fire-pit",
+    "The act is done by giving offerings",
+    "Each offering is given one by one"
+   ],
+   "inference": "The deities must be satisfied in the principal fire-pit by giving one offering at a time",
+   "uncertainties": [],
+   "plain_english": "They should be satisfied in the principal fire-pit by giving one oblation at a time."
+  },
+  {
+   "verse": 6209,
+   "rows": [
+    {
+     "surface": "vajrādīn",
+     "gloss": "vajra-and-others",
+     "grounds": "weapons or emblems beginning with vajra",
+     "morph": "m.acc.pl, compound: vajra+ādi"
+    },
+    {
+     "surface": "paṃkaje",
+     "gloss": "in-lotus",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "deities to be placed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "reference to prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active (causative) + ni+viś"
+    }
+   ],
+   "question": "How should Vajra and the other deities be placed in the lotus?",
+   "premises": [
+    "Vajra and others and all the gods are to be placed",
+    "The placement is in the lotus",
+    "The placement follows the previous procedure"
+   ],
+   "inference": "One should place Vajra and the other gods in the lotus as before",
+   "uncertainties": [],
+   "plain_english": "One should place Vajra and all the other gods in the lotus as before."
+  },
+  {
+   "verse": 6210,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūri",
+     "gloss": "abundant",
+     "grounds": "qualifier of offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naivedyam",
+     "gloss": "food-offering",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "utsavaṃ",
+     "gloss": "festival",
+     "grounds": "celebratory rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative-active (causative) + kṛ"
+    },
+    {
+     "surface": "cale",
+     "gloss": "for-movable",
+     "grounds": "in the case of a movable image or object",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What ritual acts should be performed for a movable installation?",
+   "premises": [
+    "Bathing is prescribed",
+    "Abundant food-offering is prescribed",
+    "A festival should be caused to be performed for the movable"
+   ],
+   "inference": "For a movable installation one should perform bathing, abundant food-offering, and a festival",
+   "uncertainties": [
+    "cale may refer to a movable image or movable context"
+   ],
+   "plain_english": "For a movable installation, one should have the bathing, abundant food-offering, and festival performed."
+  },
+  {
+   "verse": 6211,
+   "rows": [
+    {
+     "surface": "triśūla",
+     "gloss": "trident",
+     "grounds": "compound member indicating object",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "installation",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "emphatic manner",
+     "morph": "(indecl.), sandhi: hi+evam"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nara",
+     "gloss": "man",
+     "grounds": "compound member qualifying person",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sattamaḥ",
+     "gloss": "best",
+     "grounds": "excellent person",
+     "morph": "m.nom.sg, compound: nara+sattama"
+    }
+   ],
+   "question": "Who should perform the installation of the trident in this manner?",
+   "premises": [
+    "The installation of the trident is the prescribed act",
+    "It is to be performed in this manner",
+    "The agent is the best of men"
+   ],
+   "inference": "The best of men should perform the installation of the trident in this manner",
+   "uncertainties": [],
+   "plain_english": "The best of men who performs the installation of the trident in this way."
+  },
+  {
+   "verse": 6212,
+   "rows": [
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-enjoyed",
+     "grounds": "prior experience",
+     "morph": "(absolutive) + bhuj"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "enjoyments",
+     "grounds": "worldly pleasures",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ihaiva",
+     "gloss": "here-indeed",
+     "grounds": "in this world",
+     "morph": "(indecl.), sandhi: iha+eva"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "at the end of life",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "final release",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic addition",
+     "morph": "(indecl.), sandhi: ca+eva"
+    },
+    {
+     "surface": "samāpnuyāt",
+     "gloss": "should-attain",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.optative-active + sam+āp"
+    }
+   ],
+   "question": "What twofold result is attained by the one who performs the trident installation?",
+   "premises": [
+    "Enjoyments are experienced here in this world",
+    "Liberation is attained at the end",
+    "Both results follow the prescribed act"
+   ],
+   "inference": "The performer enjoys pleasures here and attains liberation at the end",
+   "uncertainties": [],
+   "plain_english": "Having enjoyed pleasures here, at the end he should attain liberation as well."
+  },
+  {
+   "verse": 6213,
+   "rows": [
+    {
+     "surface": "devādīnāṃ",
+     "gloss": "of-gods-and-others",
+     "grounds": "group beginning with gods",
+     "morph": "m.gen.pl, compound: deva+ādi"
+    },
+    {
+     "surface": "jṛpādīnāṃ",
+     "gloss": "of-jṛpa-and-others",
+     "grounds": "group beginning with jṛpa as given",
+     "morph": "m.gen.pl, compound: jṛpa+ādi"
+    },
+    {
+     "surface": "martyānāṃ",
+     "gloss": "of-mortals",
+     "grounds": "human beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātmanām",
+     "gloss": "of-great-souled",
+     "grounds": "noble beings",
+     "morph": "m.gen.pl, compound: mahā+ātman"
+    }
+   ],
+   "question": "Which classes of beings are included among the great-souled recipients mentioned here?",
+   "premises": [
+    "Gods and others are included",
+    "Jṛpa and others are included",
+    "Mortals and great-souled beings are included"
+   ],
+   "inference": "The verse includes gods and others, jṛpa and others, and great-souled mortals among the classes mentioned",
+   "uncertainties": [
+    "jṛpādīnāṃ is unclear in meaning as transmitted"
+   ],
+   "plain_english": "Among gods and others, jṛpa and others, and great-souled mortals."
+  },
+  {
+   "verse": 6214,
+   "rows": [
+    {
+     "surface": "cakravartī",
+     "gloss": "universal-ruler",
+     "grounds": "sovereign title",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavedādyaḥ",
+     "gloss": "becomes-first",
+     "grounds": "first becomes cakravartin",
+     "morph": "3.sg.optative-active + bhū, sandhi: bhavet+ādyaḥ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhirājo",
+     "gloss": "overlord",
+     "grounds": "sovereign title",
+     "morph": "m.nom.sg, compound: adhi+rāja"
+    },
+    {
+     "surface": "dvitīyakaḥ",
+     "gloss": "second",
+     "grounds": "second type",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sovereign ranks are distinguished as the first and second types?",
+   "premises": [
+    "The first becomes a universal ruler",
+    "The second is an overlord",
+    "Two distinct ranks are stated"
+   ],
+   "inference": "The first rank is universal ruler and the second rank is overlord",
+   "uncertainties": [],
+   "plain_english": "The first becomes a universal ruler, and the second becomes an overlord."
+  },
+  {
+   "verse": 6215,
+   "rows": [
+    {
+     "surface": "catuḥsamudra",
+     "gloss": "four-oceans",
+     "grounds": "compound indicating extent",
+     "morph": "compound-member: catur+samudra"
+    },
+    {
+     "surface": "paryantaṃ",
+     "gloss": "bounded-by",
+     "grounds": "extent up to boundary",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pṛthvīṃ",
+     "gloss": "earth",
+     "grounds": "realm ruled",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paripālayet",
+     "gloss": "protects",
+     "grounds": "act of ruling",
+     "morph": "3.sg.optative-active + pari+pāl"
+    }
+   ],
+   "question": "What extent of rule defines the one who protects the earth to the four oceans?",
+   "premises": [
+    "The earth is the object of protection",
+    "Its boundary is the four oceans",
+    "The ruler protects this entire extent"
+   ],
+   "inference": "The ruler who protects the earth bounded by the four oceans holds that full extent of sovereignty",
+   "uncertainties": [],
+   "plain_english": "He who protects the earth bounded by the four oceans."
+  },
+  {
+   "verse": 6216,
+   "rows": [
+    {
+     "surface": "adhirāj",
+     "gloss": "overlord",
+     "grounds": "sovereign title",
+     "morph": "m.nom.sg, compound: adhi+rāj"
+    },
+    {
+     "surface": "samākhyātaḥ",
+     "gloss": "called",
+     "grounds": "designation",
+     "morph": "m.nom.sg (past-participle) + sam+ā+khyā"
+    },
+    {
+     "surface": "trirājyaṃ",
+     "gloss": "three-kingdoms",
+     "grounds": "extent of rule",
+     "morph": "n.acc.sg, compound: tri+rājya"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pālayet",
+     "gloss": "protects",
+     "grounds": "act of ruling",
+     "morph": "3.sg.optative-active + pāl"
+    }
+   ],
+   "question": "What extent of rule qualifies a sovereign to be called an overlord?",
+   "premises": [
+    "An overlord is the designated title",
+    "The ruler protects three kingdoms",
+    "This extent defines the title"
+   ],
+   "inference": "One who protects three kingdoms is called an overlord",
+   "uncertainties": [],
+   "plain_english": "He who protects three kingdoms is called an overlord."
+  },
+  {
+   "verse": 6217,
+   "rows": [
+    {
+     "surface": "pārṇeya",
+     "gloss": "pārṇeya",
+     "grounds": "name or type in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramukhāḥ",
+     "gloss": "led-by",
+     "grounds": "headed by those named",
+     "morph": "m.nom.pl, compound: pramukha"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "possessive reference",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "āsanāni",
+     "gloss": "seats",
+     "grounds": "objects described",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bahūnyapi",
+     "gloss": "many-also",
+     "grounds": "plurality emphasized",
+     "morph": "n.nom.pl, sandhi: bahūni+api"
+    }
+   ],
+   "question": "What is stated about the seats of those led by Pārṇeya and others?",
+   "premises": [
+    "Those led by Pārṇeya and others are the possessors",
+    "Seats belong to them",
+    "The seats are many"
+   ],
+   "inference": "Those led by Pārṇeya and others have many seats",
+   "uncertainties": [
+    "pārṇeya as a specific name or class is unclear"
+   ],
+   "plain_english": "Those led by Pārṇeya and others have many seats as well."
+  },
+  {
+   "verse": 6218,
+   "rows": [
+    {
+     "surface": "vdyantaraṃ",
+     "gloss": "inner-space",
+     "grounds": "interior interval as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "division into eight",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-divided",
+     "grounds": "prior action",
+     "morph": "(absolutive) + kṛ"
+    },
+    {
+     "surface": "navotsedhāḥ",
+     "gloss": "nine-heights",
+     "grounds": "resulting measures",
+     "morph": "m.nom.pl, compound: nava+utsedha"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "stated in text",
+     "morph": "m.nom.pl (past-participle) + pra+kīrt"
+    }
+   ],
+   "question": "How many heights are declared when the inner space is divided eightfold?",
+   "premises": [
+    "The inner space is divided eightfold",
+    "Heights result from this division",
+    "Nine heights are declared"
+   ],
+   "inference": "Dividing the inner space eightfold yields nine declared heights",
+   "uncertainties": [
+    "vdyantaraṃ is an unclear or abbreviated form as transmitted"
+   ],
+   "plain_english": "Having divided the inner space eightfold, nine heights are declared."
+  },
+  {
+   "verse": 6219,
+   "rows": [
+    {
+     "surface": "narendra",
+     "gloss": "king",
+     "grounds": "compound member indicating comparison",
+     "morph": "compound-member: nara+indra"
+    },
+    {
+     "surface": "sadṛśaṃ",
+     "gloss": "similar-to",
+     "grounds": "comparison",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "possessive reference",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "bāhūn",
+     "gloss": "arms",
+     "grounds": "measure reference",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "unābhidaghnajam",
+     "gloss": "up-to-navel-depth",
+     "grounds": "compound indicating height up to navel",
+     "morph": "n.acc.sg, compound: unābhi+daghna+ja"
+    }
+   ],
+   "question": "What measure is prescribed as similar to a king and reaching navel depth?",
+   "premises": [
+    "A measure similar to a king is indicated",
+    "The arms are referenced as a measure",
+    "The height reaches up to the navel"
+   ],
+   "inference": "The prescribed measure is similar to a king, related to the arms, and reaches navel depth",
+   "uncertainties": [
+    "unābhidaghnajam is a complex compound with uncertain exact parsing"
+   ],
+   "plain_english": "Similar to a king, its measure is by the arms, reaching up to the navel."
+  },
+  {
+   "verse": 6220,
+   "rows": [
+    {
+     "surface": "tithyaṅgulaṃ",
+     "gloss": "fifteen-fingers",
+     "grounds": "measure beginning point",
+     "morph": "n.acc.sg, compound: tithi+aṅgula"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "starting point",
+     "morph": "(absolutive) + sam+ā+rabh"
+    },
+    {
+     "surface": "dvivdyaṅgula",
+     "gloss": "two-two-fingers",
+     "grounds": "incremental measure as given",
+     "morph": "compound: dvi+dvi+aṅgula"
+    },
+    {
+     "surface": "vivardhanāt",
+     "gloss": "by-increase",
+     "grounds": "gradual increment",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what base measure and by what increment should the height be increased?",
+   "premises": [
+    "The starting measure is fifteen fingers",
+    "The increase proceeds incrementally",
+    "The increment is by two fingers at a time"
+   ],
+   "inference": "Beginning from fifteen fingers, the height should be increased by increments of two fingers",
+   "uncertainties": [
+    "dvivdyaṅgula is an unusual compound form as transmitted"
+   ],
+   "plain_english": "Beginning from fifteen finger-breadths, increasing by two finger-breadths at a time."
+  },
+  {
+   "verse": 6221,
+   "rows": [
+    {
+     "surface": "utsedha",
+     "gloss": "height",
+     "grounds": "compound member indicating measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sadṛśo",
+     "gloss": "equal-to",
+     "grounds": "comparison of measure",
+     "morph": "m.nom.sg, sandhi: sadṛśaḥ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripādo'rdhaḥ",
+     "gloss": "three-quarters-half",
+     "grounds": "fractional measure as given",
+     "morph": "m.nom.sg, compound with sandhi: tri+pāda+ardhaḥ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "accepted view",
+     "morph": "m.nom.sg (past-participle) + man"
+    }
+   ],
+   "question": "What alternative height measures are considered acceptable in this prescription?",
+   "premises": [
+    "A height equal to the standard is one option",
+    "A three-quarters or half measure is another option",
+    "These alternatives are considered acceptable"
+   ],
+   "inference": "The height may be equal to the standard or alternatively three-quarters or half, as considered acceptable",
+   "uncertainties": [
+    "tripādo'rdhaḥ is ambiguous as a combined fractional expression"
+   ],
+   "plain_english": "The height may be equal, or else three-quarters or half, as is considered."
+  },
+  {
+   "verse": 6222,
+   "rows": [
+    {
+     "surface": "hīnānāṃ",
+     "gloss": "of-inferior",
+     "grounds": "lower category",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hīnamānaṃ",
+     "gloss": "inferior-measure",
+     "grounds": "reduced measure",
+     "morph": "n.nom.sg, compound: hīna+māna"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "śreṣṭhānāṃ",
+     "gloss": "of-superior",
+     "grounds": "higher category",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "full measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "accepted prescription",
+     "morph": "3.sg.present-passive + iṣ"
+    }
+   ],
+   "question": "How do the prescribed measures differ for inferior and superior recipients?",
+   "premises": [
+    "Inferior recipients receive an inferior measure",
+    "Superior recipients receive the full measure",
+    "Both prescriptions are stated as desired"
+   ],
+   "inference": "An inferior measure is prescribed for inferior recipients, while the full measure is desired for superior recipients",
+   "uncertainties": [],
+   "plain_english": "For the inferior there should be an inferior measure, and for the superior the full measure is desired."
+  },
+  {
+   "verse": 6223,
+   "rows": [
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "shape",
+     "morph": "n.nom.sg, compound: catur+aśra"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "even",
+     "grounds": "shape quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dyusadāṃ",
+     "gloss": "of-gods",
+     "grounds": "recipients",
+     "morph": "m.gen.pl, compound: dyu+sad"
+    },
+    {
+     "surface": "cakravartinām",
+     "gloss": "of-universal-rulers",
+     "grounds": "recipients",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What shapes are prescribed for the seats of gods and universal rulers?",
+   "premises": [
+    "Square, even, and round shapes are named",
+    "Gods are among the recipients",
+    "Universal rulers are among the recipients"
+   ],
+   "inference": "Square, even, and round shapes are prescribed for the seats of gods and universal rulers",
+   "uncertainties": [],
+   "plain_english": "Square, even, and round for the gods and for universal rulers."
+  },
+  {
+   "verse": 6224,
+   "rows": [
+    {
+     "surface": "siṃhāsana",
+     "gloss": "throne",
+     "grounds": "compound member indicating object",
+     "morph": "compound-member: siṃha+āsana"
+    },
+    {
+     "surface": "āyataṃ",
+     "gloss": "elongated",
+     "grounds": "shape or dimension",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "aṅgula",
+     "gloss": "finger-measure",
+     "grounds": "unit of measurement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "causative instruction",
+     "morph": "3.sg.optative-active (causative) + kṛ"
+    }
+   ],
+   "question": "How should the throne be made or caused to be made in terms of form and measure?",
+   "premises": [
+    "The throne is the object to be made",
+    "It should be made elongated",
+    "It may be made or caused to be made by finger-measure"
+   ],
+   "inference": "One should make or cause to be made an elongated throne, using finger-measure as applicable",
+   "uncertainties": [
+    "the exact role of aṅgula in the construction is syntactically compressed"
+   ],
+   "plain_english": "One should make the throne elongated, or else have it made according to finger-measure."
+  }
+ ]
+}

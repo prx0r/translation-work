@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative of place indicating the ritual ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "purified",
+     "grounds": "past participle qualifying the altar as consecrated",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "particle indicating an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "direct object of the act of placing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive expressing prior action by the teacher",
+     "morph": "gerund(vi-ni-√as)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "agent performing the ritual placement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "On what prepared ground may the teacher establish the ritual fire?",
+   "premises": [
+    "A purified altar serves as the ground for ritual action.",
+    "The teacher is the agent who places the fire.",
+    "Placing the fire follows the preparation of the ground."
+   ],
+   "inference": "The teacher should establish the fire on a purified altar.",
+   "uncertainties": [],
+   "plain_english": "Or, having placed the fire on a purified altar, the teacher proceeds."
+  }
+ ]
+}

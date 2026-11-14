@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3725,
+   "rows": [
+    {
+     "surface": "lakṣmīnārāyaṇaḥ",
+     "gloss": "lakṣmīnārāyaṇa",
+     "grounds": "proper name of the prophesied son",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable indicating designation by name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing future or potential arising",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "vaṃśa+unnataḥ",
+     "gloss": "lineage-elevated",
+     "grounds": "compound describing the son as exalted in family lineage",
+     "morph": "compound:vaṃśa+unnata, m.nom.sg"
+    },
+    {
+     "surface": "sutaḥ",
+     "gloss": "son",
+     "grounds": "subject denoting the offspring who will arise",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which lineage-elevated son is prophesied to arise by name in that era?",
+   "premises": [
+    "A son will come into being in that era.",
+    "That son will bear the name Lakṣmīnārāyaṇa.",
+    "That son will be elevated in lineage."
+   ],
+   "inference": "A lineage-elevated son named Lakṣmīnārāyaṇa will arise.",
+   "uncertainties": [],
+   "plain_english": "There would be a son named Lakṣmīnārāyaṇa, elevated in lineage."
+  }
+ ]
+}

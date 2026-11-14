@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "ghanitvaṃ",
+     "gloss": "firmness",
+     "grounds": "abstract noun denoting solidity or firmness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb expressing coming into a state",
+     "morph": "3.sg.pres.mid (√jan)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun referring to the previously mentioned substance",
+     "morph": "m./n.gen.sg (tad)"
+    },
+    {
+     "surface": "sarva-siddhiḥ",
+     "gloss": "all-accomplishment",
+     "grounds": "compound indicating complete ritual success",
+     "morph": "compound sarva-siddhi; f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "verb expressing production or manifestation of a result",
+     "morph": "3.sg.pres.mid (pra-√jan)"
+    }
+   ],
+   "question": "What accomplishment arises when that prepared substance attains firmness?",
+   "premises": [
+    "That prepared substance becomes firm.",
+    "Firmness is attained by that substance.",
+    "Complete accomplishment arises from that attained firmness."
+   ],
+   "inference": "Therefore, the solidification of that substance results in complete accomplishment.",
+   "uncertainties": [
+    "The referent of tasya depends on the specific substance described in the preceding verses."
+   ],
+   "plain_english": "It becomes firm, and from that, all accomplishment arises."
+  }
+ ]
+}

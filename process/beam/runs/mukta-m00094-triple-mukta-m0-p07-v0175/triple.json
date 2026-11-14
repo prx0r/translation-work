@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "vedavahiṣkṛtaṃ",
+     "gloss": "veda-excluded",
+     "grounds": "adjective modifying karma; compound sense excluded from Veda",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative object of cālaye",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb qualifying cālaye",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "genitive/dative pronoun referring to prabho",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "cālaye",
+     "gloss": "move",
+     "grounds": "first-person singular present active of causative cal",
+     "morph": "verb.1.sg.act-pres (root cal)"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative address to the deity",
+     "morph": "noun.voc.sg.m"
+    }
+   ],
+   "question": "Why does the speaker declare that he always moves Veda-excluded action for the lord?",
+   "premises": [
+    "Speaker addresses the lord as prabho.",
+    "Speaker says he always moves action.",
+    "The action is excluded from Veda."
+   ],
+   "inference": "The verse presents a confession of performing non-Vedic action under divine address.",
+   "uncertainties": [
+    "Exact sense of cālaye as move versus perform remains context-dependent.",
+    "The pronoun te may be genitive or dative."
+   ],
+   "plain_english": "Lord, I always set in motion action excluded from the Veda."
+  }
+ ]
+}

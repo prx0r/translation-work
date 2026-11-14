@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "kṛtā",
+     "gloss": "made",
+     "grounds": "past passive participle of kṛ; agrees with mantrāḥ in the context of being acted upon",
+     "morph": "ppp.nom.pl.m (√kṛ)"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "subject of the participles; nominative plural form as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "deva",
+     "gloss": "divine",
+     "grounds": "first member of the compound devācāryeṇa, split across tokens in the text",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ācāryeṇa",
+     "gloss": "by-teacher",
+     "grounds": "second member and head of the compound devācāryeṇa, indicating the agent",
+     "morph": "m.inst.sg (compound-head)"
+    },
+    {
+     "surface": "śāpitāḥ",
+     "gloss": "cursed",
+     "grounds": "past passive participle of śap; describes the condition imposed on the mantras",
+     "morph": "ppp.nom.pl.m (√śap)"
+    }
+   ],
+   "question": "Who imposed a curse upon the mantras, rendering them averse in effect?",
+   "premises": [
+    "The mantras were acted upon and made subject to a condition.",
+    "The divine teacher was the agent of this action.",
+    "The mantras were explicitly cursed."
+   ],
+   "inference": "The divine teacher cursed the mantras, causing their adverse condition.",
+   "uncertainties": [
+    "Whether kṛtā functions as a separate action alongside śāpitāḥ or intensifies the result is not fully explicit."
+   ],
+   "plain_english": "The mantras were made and cursed by the teacher of the gods."
+  }
+ ]
+}

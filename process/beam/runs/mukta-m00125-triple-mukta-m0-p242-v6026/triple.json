@@ -1,0 +1,1046 @@
+{
+ "song": "mukta-m0-p242",
+ "items": [
+  {
+   "verse": 6026,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of snā",
+     "morph": "gerund (snā)"
+    },
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "absolutive of sam-āp",
+     "morph": "gerund (sam-āp)"
+    },
+    {
+     "surface": "sandhyāṃ",
+     "gloss": "twilight-worship",
+     "grounds": "object of samāpya",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛta+kṛtyo",
+     "gloss": "having-done-duty",
+     "grounds": "compound: kṛta + kṛtyaḥ; one who has fulfilled obligations",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "gurūttamaḥ",
+     "gloss": "teacher-best",
+     "grounds": "compound: guru + uttamaḥ; the supreme teacher",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What state and prior actions qualify the supreme teacher to proceed with the ritual?",
+   "premises": [
+    "The supreme teacher has bathed.",
+    "He has completed the twilight worship.",
+    "He has fulfilled his duties."
+   ],
+   "inference": "Thus prepared, the supreme teacher is qualified to perform the subsequent rites.",
+   "uncertainties": [],
+   "plain_english": "Having bathed, completed the twilight worship, and fulfilled his duties, the supreme teacher is ready."
+  },
+  {
+   "verse": 6027,
+   "rows": [
+    {
+     "surface": "pañcāṅga",
+     "gloss": "five-limb",
+     "grounds": "compound: pañca + aṅga; fivefold adornment",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūṣaṇopeto",
+     "gloss": "ornament-endowed",
+     "grounds": "compound: bhūṣaṇa + upetaḥ; endowed with ornaments",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇātuṣṭamānasaḥ",
+     "gloss": "gift-satisfied-mind",
+     "grounds": "compound: dakṣiṇā + tuṣṭa + mānasaḥ; mind satisfied by gifts",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What adornments and mental disposition should characterize the supreme teacher at this stage?",
+   "premises": [
+    "The teacher is endowed with fivefold ornaments.",
+    "His mind is satisfied by gifts received."
+   ],
+   "inference": "The teacher’s external adornment and inner satisfaction mark his proper ritual condition.",
+   "uncertainties": [
+    "The exact items of the fivefold adornment are not specified."
+   ],
+   "plain_english": "He is adorned with the five ornaments and his mind is satisfied by the gifts."
+  },
+  {
+   "verse": 6028,
+   "rows": [
+    {
+     "surface": "adhyetrṛbhiśca",
+     "gloss": "with-reciters-and",
+     "grounds": "adhyetrṛbhiḥ + ca; accompanied by reciters",
+     "morph": "m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "daivajñaiśśilpibhistoṣitairyutaḥ",
+     "gloss": "with-astrologers-with-artisans-satisfied-accompanied",
+     "grounds": "compound chain: daivajñaiḥ + śilpibhiḥ + toṣitaiḥ + yutaḥ; accompanied by satisfied astrologers and artisans",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Which attendants must accompany the supreme teacher during the ritual proceedings?",
+   "premises": [
+    "Reciters accompany the teacher.",
+    "Satisfied astrologers and artisans accompany him."
+   ],
+   "inference": "The ritual requires the presence of duly satisfied ritual specialists and attendants.",
+   "uncertainties": [],
+   "plain_english": "He is accompanied by reciters, and by astrologers and artisans who have been satisfied."
+  },
+  {
+   "verse": 6029,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam-pūj",
+     "morph": "gerund (sam-pūj)"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "object of saṃpūjya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuṇḍasthaṃ",
+     "gloss": "pit-standing",
+     "grounds": "compound: kuṇḍa + stham; standing in the fire-pit",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full-offering",
+     "grounds": "object of datvā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of dā",
+     "morph": "gerund (dā)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "according-to",
+     "grounds": "particle indicating conformity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "order",
+     "grounds": "ablative indicating prescribed sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What fire ritual actions must be performed in the prescribed sequence?",
+   "premises": [
+    "The fire standing in the pit is worshipped.",
+    "The full offering is given.",
+    "These acts follow the prescribed order."
+   ],
+   "inference": "Worship of the fire and the final offering must be completed according to the proper sequence.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the fire in the pit and given the full offering according to the proper order,"
+  },
+  {
+   "verse": 6030,
+   "rows": [
+    {
+     "surface": "prasādādau",
+     "gloss": "in-front-of-offerings",
+     "grounds": "compound: prasāda + ādau; at the front of the offerings",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "nayedbimbaṃ",
+     "gloss": "should-lead-image",
+     "grounds": "nayet + bimbam; should lead the image",
+     "morph": "3.sg.opt.act (nī) + n.acc.sg"
+    },
+    {
+     "surface": "snānaśvabhre'thavā",
+     "gloss": "bathing-pit-or",
+     "grounds": "compound with sandhi marker: snāna + śvabhre + athavā; or in the bathing pit",
+     "morph": "compound m.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-lead",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "To which locations may the ritual image be led after the fire offering?",
+   "premises": [
+    "The image may be led to the front of the offerings.",
+    "Alternatively, it may be led to the bathing pit."
+   ],
+   "inference": "The image’s placement after the fire rite allows two prescribed locations.",
+   "uncertainties": [],
+   "plain_english": "He should lead the image to the front of the offerings, or he should lead it to the bathing pit."
+  },
+  {
+   "verse": 6031,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "object made ritually",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "sacred-syllable-oṃ",
+     "grounds": "praṇava mantra used as seat; transliterated concept",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "mūrtisthāṇu",
+     "gloss": "image-fixed",
+     "grounds": "compound: mūrti + sthāṇu; fixed in the image",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakalpitām",
+     "gloss": "arranged",
+     "grounds": "describes the seat as ritually arranged",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How must the ritual seat for the image be constituted and arranged?",
+   "premises": [
+    "The seat is made as the praṇava.",
+    "It is arranged as fixed in the image."
+   ],
+   "inference": "The image’s seat is ritually established through the praṇava and proper arrangement.",
+   "uncertainties": [
+    "The exact syntactic relation of mūrtisthāṇu prakalpitām is somewhat compressed."
+   ],
+   "plain_english": "Having made the seat as the praṇava, arranged and fixed in the image,"
+  },
+  {
+   "verse": 6032,
+   "rows": [
+    {
+     "surface": "saṃsnāpya",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of sam-snā",
+     "morph": "gerund (sam-snā)"
+    },
+    {
+     "surface": "kuṃbhapānīyaiḥ",
+     "gloss": "pot-waters",
+     "grounds": "compound: kumbha + pānīyaiḥ; waters from pots",
+     "morph": "compound n.inst.pl"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb indicating surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpitairapi",
+     "gloss": "placed-also",
+     "grounds": "sthāpitaiḥ + api; also placed around",
+     "morph": "n.inst.pl + (indecl.)"
+    }
+   ],
+   "question": "With what waters should the image be ritually bathed in this procedure?",
+   "premises": [
+    "The image is bathed thoroughly.",
+    "The bathing uses waters from pots placed around."
+   ],
+   "inference": "Ritual bathing requires consecrated pot waters arranged around the image.",
+   "uncertainties": [],
+   "plain_english": "Having bathed it with waters from pots that have been placed around,"
+  },
+  {
+   "verse": 6033,
+   "rows": [
+    {
+     "surface": "upacāraistathā",
+     "gloss": "with-services-likewise",
+     "grounds": "upacāraiḥ + tathā; with services likewise",
+     "morph": "m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "other",
+     "grounds": "other services",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śivabhaktaṃ",
+     "gloss": "śiva-devotee",
+     "grounds": "compound: śiva + bhaktam; devotee of Śiva",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act (sam-arc)"
+    }
+   ],
+   "question": "How should the devotee of Śiva be honored after the bathing rite?",
+   "premises": [
+    "Services are offered.",
+    "Other services are also offered.",
+    "The devotee of Śiva is the recipient of worship."
+   ],
+   "inference": "The Śiva devotee must be worshipped with various ritual services.",
+   "uncertainties": [],
+   "plain_english": "And with these and other services, one should worship the devotee of Śiva."
+  },
+  {
+   "verse": 6034,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "from-that-time",
+     "grounds": "adverb indicating starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the devotee",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaktaṃ",
+     "gloss": "devotee",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "adverb of frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayennaraḥ",
+     "gloss": "should-worship-person",
+     "grounds": "pūjayet + naraḥ; a person should worship",
+     "morph": "3.sg.opt.act (pūj) + m.nom.sg"
+    }
+   ],
+   "question": "What ongoing obligation follows the initial worship of the devotee?",
+   "premises": [
+    "The worship begins from that time onward.",
+    "The same devotee is the object of worship.",
+    "The worship is to be performed daily."
+   ],
+   "inference": "Daily worship of that devotee becomes a continuing duty.",
+   "uncertainties": [],
+   "plain_english": "From then on, a person should worship that devotee daily."
+  },
+  {
+   "verse": 6035,
+   "rows": [
+    {
+     "surface": "āvaśyakaṃ",
+     "gloss": "necessary",
+     "grounds": "predicate indicating obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaucasnāna",
+     "gloss": "purification-bathing",
+     "grounds": "compound: śauca + snāna; purification and bathing",
+     "morph": "compound"
+    },
+    {
+     "surface": "sandhyādi",
+     "gloss": "twilight-worship-etc",
+     "grounds": "compound: sandhyā + ādi; twilight worship and so forth",
+     "morph": "compound"
+    },
+    {
+     "surface": "vandanam",
+     "gloss": "veneration",
+     "grounds": "act of reverential salutation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which daily observances are declared necessary alongside the ongoing worship?",
+   "premises": [
+    "Purification and bathing are necessary.",
+    "Twilight worship and related acts are necessary.",
+    "Veneration is necessary."
+   ],
+   "inference": "Daily ritual discipline includes purification, bathing, twilight rites, and veneration.",
+   "uncertainties": [],
+   "plain_english": "Likewise, purification, bathing, twilight worship and so forth, and veneration are necessary."
+  },
+  {
+   "verse": 6036,
+   "rows": [
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "spirit",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakṛtiṃ",
+     "gloss": "nature",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam-pūj",
+     "morph": "gerund (sam-pūj)"
+    },
+    {
+     "surface": "dvārapārśvayoḥ",
+     "gloss": "door-sides",
+     "grounds": "compound: dvāra + pārśvayoḥ; at the two sides of the door",
+     "morph": "compound n.loc.dual"
+    }
+   ],
+   "question": "Which principles must be worshipped at the sides of the doorway?",
+   "premises": [
+    "Puruṣa is worshipped.",
+    "Prakṛti is worshipped.",
+    "The worship takes place at the sides of the door."
+   ],
+   "inference": "The doorway worship includes honoring both Puruṣa and Prakṛti at its sides.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped Puruṣa and Prakṛti at the two sides of the door,"
+  },
+  {
+   "verse": 6037,
+   "rows": [
+    {
+     "surface": "vāstu",
+     "gloss": "site-deity",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam-abhi-arc",
+     "morph": "gerund (sam-abhi-arc)"
+    },
+    {
+     "surface": "bhūtaśuddhiṃ",
+     "gloss": "element-purification",
+     "grounds": "compound: bhūta + śuddhim; purification of elements",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive of vi-dhā",
+     "morph": "gerund (vi-dhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What central worship and purification must precede the main ritual acts?",
+   "premises": [
+    "The site deity is worshipped in the middle.",
+    "The purification of elements is performed."
+   ],
+   "inference": "Central worship of Vāstu and bhūtaśuddhi are required preparatory acts.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the site deity in the middle and having performed the purification of the elements,"
+  },
+  {
+   "verse": 6038,
+   "rows": [
+    {
+     "surface": "parikalpya",
+     "gloss": "having-prepared",
+     "grounds": "absolutive of pari-kḷp",
+     "morph": "gerund (pari-kḷp)"
+    },
+    {
+     "surface": "viśeṣārghyaṃ",
+     "gloss": "special-arghya",
+     "grounds": "compound: viśeṣa + arghyam; special arghya offering",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "kusumākṣata",
+     "gloss": "flower-unbroken-rice",
+     "grounds": "compound: kusuma + akṣata; flowers and unbroken rice",
+     "morph": "compound"
+    },
+    {
+     "surface": "toyayuk",
+     "gloss": "water-joined",
+     "grounds": "compound: toya + yuk; joined with water",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What components must be prepared for the special arghya offering?",
+   "premises": [
+    "A special arghya is prepared.",
+    "It is joined with flowers, unbroken rice, and water."
+   ],
+   "inference": "The special arghya consists of flowers, unbroken rice, and water.",
+   "uncertainties": [],
+   "plain_english": "Having prepared the special arghya, joined with flowers, unbroken rice, and water,"
+  },
+  {
+   "verse": 6039,
+   "rows": [
+    {
+     "surface": "praṇavādyān",
+     "gloss": "praṇava-beginning",
+     "grounds": "compound: praṇava + ādyān; beginning with praṇava",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "paṭhenmantrān",
+     "gloss": "should-recite-mantras",
+     "grounds": "paṭhet + mantrān; should recite mantras",
+     "morph": "3.sg.opt.act (paṭh) + m.acc.pl"
+    },
+    {
+     "surface": "namontānmantra",
+     "gloss": "namaḥ-ending-mantra",
+     "grounds": "compound: namaḥ + antān + mantra; mantras ending with namaḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "śuddhaye",
+     "gloss": "for-purification",
+     "grounds": "purpose of recitation",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What form of mantra recitation is required for ritual purification?",
+   "premises": [
+    "Mantras beginning with praṇava are recited.",
+    "Mantras ending with namaḥ are recited.",
+    "The recitation is for purification."
+   ],
+   "inference": "Purification requires reciting mantras framed by praṇava at the beginning and namaḥ at the end.",
+   "uncertainties": [],
+   "plain_english": "One should recite mantras beginning with praṇava and ending with namaḥ for purification."
+  },
+  {
+   "verse": 6040,
+   "rows": [
+    {
+     "surface": "ṣaḍutthamāsanaṃ",
+     "gloss": "sixfold-raised-seat",
+     "grounds": "compound: ṣaḍ + uttha + āsanam; the sixfold raised seat",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "pūrvoktena",
+     "gloss": "by-previously-stated",
+     "grounds": "compound: pūrva + uktena; by what was stated before",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "by-rule",
+     "grounds": "according to prescribed procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to what procedure must the sixfold seat be established?",
+   "premises": [
+    "The sixfold raised seat is made.",
+    "It follows the previously stated rule."
+   ],
+   "inference": "The sixfold seat must be established according to the earlier prescribed procedure.",
+   "uncertainties": [],
+   "plain_english": "Having made the sixfold raised seat according to the previously stated rule,"
+  },
+  {
+   "verse": 6041,
+   "rows": [
+    {
+     "surface": "tattadrūpaṃ",
+     "gloss": "that-form",
+     "grounds": "compound: tat + tat + rūpam; that particular form",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "samopetaṃ",
+     "gloss": "endowed-with",
+     "grounds": "endowed or united with that form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattanmūlāṇunā",
+     "gloss": "by-that-root-syllable",
+     "grounds": "compound: tat + tat + mūla + aṇunā; by that respective root syllable",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner invoke the appropriate form using the root syllable?",
+   "premises": [
+    "The wise one contemplates that particular form.",
+    "The form is endowed or united accordingly.",
+    "This is done by the respective root syllable."
+   ],
+   "inference": "The wise practitioner unites with the appropriate form through its corresponding root syllable.",
+   "uncertainties": [
+    "aṇu here likely means syllable/mantra-unit in this ritual context, not the individual self."
+   ],
+   "plain_english": "The wise one, endowed with that particular form, should do so by means of that respective root syllable."
+  },
+  {
+   "verse": 6042,
+   "rows": [
+    {
+     "surface": "pādyācamanaṃ",
+     "gloss": "foot-water-sipping-water",
+     "grounds": "compound: pādya + ācamanam; water for feet and sipping water",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "arghya",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental indicating use of the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act (ni-vid)"
+    }
+   ],
+   "question": "Which offerings must be presented using the heart mantra?",
+   "premises": [
+    "Water for feet and sipping water are offered.",
+    "Arghya is offered.",
+    "These offerings are made with the heart mantra."
+   ],
+   "inference": "The heart mantra is the prescribed means for offering pādya, ācamana, and arghya.",
+   "uncertainties": [],
+   "plain_english": "One should offer water for the feet, sipping water, and arghya with the heart mantra."
+  },
+  {
+   "verse": 6043,
+   "rows": [
+    {
+     "surface": "saṃmṛjya",
+     "gloss": "having-wiped",
+     "grounds": "absolutive of sam-mṛj",
+     "morph": "gerund (sam-mṛj)"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "with-cloth",
+     "grounds": "instrument used for wiping",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vastraṃ",
+     "gloss": "garment",
+     "grounds": "offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "offering item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefixal element in compound with dhūmakam",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhūmakam",
+     "gloss": "incense",
+     "grounds": "compound: sa + dhūmakam; together with incense",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What additional offerings follow the wiping of the image with cloth?",
+   "premises": [
+    "The image is wiped with a cloth.",
+    "A garment is offered.",
+    "Fragrance and incense are offered."
+   ],
+   "inference": "After wiping, the ritual continues with offerings of garment, fragrance, and incense.",
+   "uncertainties": [],
+   "plain_english": "Having wiped it with a cloth, one should offer a garment, fragrance, and incense."
+  },
+  {
+   "verse": 6044,
+   "rows": [
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trisandhyāsu",
+     "gloss": "in-three-twilights",
+     "grounds": "compound: tri + sandhyāsu; at the three twilight periods",
+     "morph": "compound f.loc.pl"
+    },
+    {
+     "surface": "dadyātsaṃdhyādvaye'pi",
+     "gloss": "one-should-give-in-two-twilights-also",
+     "grounds": "dadyāt + sandhyā + dvaye + api with sandhi marker; one may also give at two twilights",
+     "morph": "3.sg.opt.act (dā) + compound n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At which twilight intervals may betel be offered as part of the rite?",
+   "premises": [
+    "Betel is given at the three twilights.",
+    "Alternatively, it may be given at two twilights."
+   ],
+   "inference": "The offering of betel allows either a three-twilight or two-twilight schedule.",
+   "uncertainties": [],
+   "plain_english": "And one should give betel at the three twilights, or also at two twilights."
+  },
+  {
+   "verse": 6045,
+   "rows": [
+    {
+     "surface": "dīpāntaṃ",
+     "gloss": "ending-with-lamp",
+     "grounds": "compound: dīpa + antam; up to the lamp offering",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedyāntaṃ",
+     "gloss": "ending-with-offering",
+     "grounds": "compound: nivedya + antam; up to the food offering",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "yajecchaktyanurūpataḥ",
+     "gloss": "one-should-worship-according-to-capacity",
+     "grounds": "yajet + śakti + anurūpataḥ; one should worship according to one’s capacity",
+     "morph": "3.sg.opt.act (yaj) + compound (indecl.)"
+    }
+   ],
+   "question": "To what extent should the worship be performed according to the worshipper’s capacity?",
+   "premises": [
+    "Worship may extend up to the lamp offering.",
+    "Alternatively, it may extend up to the food offering.",
+    "The extent depends on one’s capacity."
+   ],
+   "inference": "The scope of worship is flexible and determined by the worshipper’s capacity.",
+   "uncertainties": [],
+   "plain_english": "One should worship up to the lamp offering or up to the food offering, according to one’s capacity."
+  },
+  {
+   "verse": 6046,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bathing act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "according to prescribed method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive indicating obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāguktena",
+     "gloss": "by-previously-stated",
+     "grounds": "compound: prāk + uktena; by what was stated earlier",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "in the prescribed sequence",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what rule and sequence must the ritual bathing be carried out?",
+   "premises": [
+    "The bathing must be done.",
+    "It follows the previously stated rule.",
+    "It follows the prescribed order."
+   ],
+   "inference": "Ritual bathing is obligatory and must follow the earlier prescribed method and sequence.",
+   "uncertainties": [],
+   "plain_english": "The bathing must indeed be performed according to the previously stated rule and in the prescribed order."
+  },
+  {
+   "verse": 6047,
+   "rows": [
+    {
+     "surface": "svarāṣṣoḍaśa",
+     "gloss": "vowels-sixteen",
+     "grounds": "compound: svarāḥ + ṣoḍaśa; the sixteen vowels",
+     "morph": "compound m.nom.pl"
+    },
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "compound: tat + bāhye; outside that",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "locative indicating outer position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kādayo",
+     "gloss": "beginning-with-ka",
+     "grounds": "compound: ka + ādayaḥ; letters beginning with ka",
+     "morph": "compound m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "are-considered",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the vowel and consonant groups arranged in the outer enclosures?",
+   "premises": [
+    "The sixteen vowels are placed.",
+    "Outside that, the letters beginning with ka are placed.",
+    "This arrangement is considered authoritative."
+   ],
+   "inference": "The ritual diagram places the sixteen vowels inside and the ka-group outside them.",
+   "uncertainties": [
+    "The repetition tad bāhye / tad bāhye is textually present and may be emphatic or formulaic."
+   ],
+   "plain_english": "The sixteen vowels are placed, and outside that, outside that, the letters beginning with ka are considered to be placed."
+  },
+  {
+   "verse": 6048,
+   "rows": [
+    {
+     "surface": "ekāvaraṇa",
+     "gloss": "one-enclosure",
+     "grounds": "compound: eka + āvaraṇa; one enclosure",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyuktamadhamaṃ",
+     "gloss": "joined-lowest",
+     "grounds": "compound: saṃyukta + adhamam; joined as the lowest",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "is-declared",
+     "grounds": "past participle used predicatively",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the designation of the arrangement having only one enclosure?",
+   "premises": [
+    "The arrangement is joined with one enclosure.",
+    "It is designated as the lowest."
+   ],
+   "inference": "A configuration with a single enclosure is declared to be the lowest type.",
+   "uncertainties": [],
+   "plain_english": "Joined with one enclosure, it is declared to be the lowest."
+  },
+  {
+   "verse": 6049,
+   "rows": [
+    {
+     "surface": "bhakta",
+     "gloss": "devotee",
+     "grounds": "compound member: devotee",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "janmadine",
+     "gloss": "birth-day",
+     "grounds": "compound: janma + dine; on the birth day",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karturjanmadine'pi",
+     "gloss": "performer-birth-day-also",
+     "grounds": "compound with sandhi marker: kartuḥ + janmadine + api; also on the performer’s birth day",
+     "morph": "compound n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which birth occasions may the prescribed observance be performed?",
+   "premises": [
+    "It may be performed on the devotee’s birth day.",
+    "It may also be performed on the performer’s birth day."
+   ],
+   "inference": "The observance is permitted on either the devotee’s or the performer’s birth day.",
+   "uncertainties": [],
+   "plain_english": "It may be done on the devotee’s birth day, or also on the performer’s birth day."
+  }
+ ]
+}

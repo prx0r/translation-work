@@ -1,0 +1,249 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating place of operation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "instrumental plural of pronoun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "proktasaṃkhyair",
+     "gloss": "stated-count",
+     "grounds": "compound of stated and count",
+     "morph": "compound"
+    },
+    {
+     "surface": "akṣaraiḥ",
+     "gloss": "letters",
+     "grounds": "instrumental plural of akṣara",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How are the stated-count letters used in constructing the yantra?",
+   "premises": [
+    "stated-count letters are specified",
+    "they are used there"
+   ],
+   "inference": "the construction begins from the stated letter set",
+   "uncertainties": [
+    "exact ritual referent of tatra"
+   ],
+   "plain_english": "There, by those stated-count letters."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive of vidhā",
+     "morph": "verb 3.sg.act-perf + root vidhā"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative of madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māyāsthaṃ",
+     "gloss": "maya-placed",
+     "grounds": "compound of maya and placed",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "absolutive of kṛ",
+     "morph": "verb 3.sg.act-perf + root kṛ"
+    },
+    {
+     "surface": "nāmatrikoṇagam",
+     "gloss": "name-triangle-gone",
+     "grounds": "compound describing name entering triangle",
+     "morph": "compound"
+    }
+   ],
+   "question": "What placement of maya and name-triangle follows the initial making?",
+   "premises": [
+    "vidhāya precedes placement",
+    "maya is placed in middle",
+    "name-triangle is made to go"
+   ],
+   "inference": "the yantra is arranged with maya centrally and name in triangle",
+   "uncertainties": [
+    "precise geometric sense of nāmatrikoṇagam"
+   ],
+   "plain_english": "Having made, place maya in the middle, making the name enter the triangle."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "caturdaśārṇam",
+     "gloss": "fourteen-syllables",
+     "grounds": "compound numeral adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "write",
+     "grounds": "absolutive of ālikh",
+     "morph": "verb 3.sg.act-perf + root ālikh"
+    },
+    {
+     "surface": "vṛttamadhye",
+     "gloss": "circle-middle",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkām",
+     "gloss": "matrka",
+     "grounds": "accusative of mātṛkā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where is the fourteen-syllable matrka written in the yantra?",
+   "premises": [
+    "fourteen-syllable form is written",
+    "it is written in circle-middle",
+    "matrka is the object"
+   ],
+   "inference": "the matrka is inscribed in the central circle",
+   "uncertainties": [
+    "whether caturdaśārṇam modifies matrka or another element"
+   ],
+   "plain_english": "Write the fourteen-syllable matrka in the middle of the circle."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "trayastriṃśattamaṃ",
+     "gloss": "thirty-third",
+     "grounds": "ordinal compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "accusative of yantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saśaktyamṛtapañcakaiḥ",
+     "gloss": "with-shakti-amrita-pentad",
+     "grounds": "compound instrumental phrase",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which yantra is completed with the shakti-amrita pentad?",
+   "premises": [
+    "thirty-third yantra is named",
+    "it is completed with shakti-amrita pentad"
+   ],
+   "inference": "the thirty-third yantra includes the shakti-amrita pentad",
+   "uncertainties": [
+    "exact constituents of the pentad"
+   ],
+   "plain_english": "The thirty-third yantra, with the shakti-amrita pentad."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "sphoṭe",
+     "gloss": "in-sphota",
+     "grounds": "locative of sphoṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "masūrikāyāṃ",
+     "gloss": "in-smallpox",
+     "grounds": "locative of masūrikā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netrābhyāṃ",
+     "gloss": "in-eyes",
+     "grounds": "locative dual of netra",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "kukṣisaṃbhave",
+     "gloss": "in-belly-born",
+     "grounds": "locative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "In which bodily conditions and locations is this yantra applied?",
+   "premises": [
+    "sphota is named",
+    "smallpox is named",
+    "eyes and belly-born condition are named"
+   ],
+   "inference": "the yantra's use extends to sphota, smallpox, eyes, and belly-born affliction",
+   "uncertainties": [
+    "whether these are separate applications or one combined rite"
+   ],
+   "plain_english": "In sphota, in smallpox, and in the eyes and belly-born condition."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "sarvatrā",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣarayantreṣu",
+     "gloss": "in-letter-yantras",
+     "grounds": "locative plural of kṣarayantra",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhānam",
+     "gloss": "procedure",
+     "grounds": "accusative of vidhāna",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where does the described procedure apply among letter-yantras?",
+   "premises": [
+    "procedure is named",
+    "it applies everywhere",
+    "it applies in letter-yantras"
+   ],
+   "inference": "the same procedure is used in all letter-yantras",
+   "uncertainties": [
+    "whether sarvatrā modifies scope or emphasis"
+   ],
+   "plain_english": "Everywhere, the procedure in letter-yantras."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "lokapālānāṃ",
+     "gloss": "of-world-guardians",
+     "grounds": "genitive plural of lokapāla, the directional guardian deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tat+astrāṇāṃ",
+     "gloss": "of-their-weapons",
+     "grounds": "genitive plural of tat-astra compound; tat refers to the world-guardians",
+     "morph": "compound: tat+astra; n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the weapons with the guardians",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "action noun denoting ritual worship as part of the offerings",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional objects of worship complete the sequence of ritual offerings?",
+   "premises": [
+    "The ritual sequence includes arranged offerings up to flowers.",
+    "The world-guardians are included as recipients of worship.",
+    "The weapons of those world-guardians are also included."
+   ],
+   "inference": "The ritual offerings are completed by worship of the world-guardians together with their weapons.",
+   "uncertainties": [],
+   "plain_english": "And one should perform the worship of the world-guardians and of their weapons."
+  }
+ ]
+}

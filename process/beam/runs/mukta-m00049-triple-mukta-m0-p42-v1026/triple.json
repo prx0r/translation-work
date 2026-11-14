@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "ṅe'ntaṃ",
+     "gloss": "ending-in-ṅe",
+     "grounds": "mantra element ending with syllable ṅe",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaṇapatiṃ",
+     "gloss": "gaṇapati",
+     "grounds": "deity name as object of utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-uttered",
+     "grounds": "prior verbal action",
+     "morph": "gerund (vac)"
+    },
+    {
+     "surface": "vahnijāyāṃ",
+     "gloss": "fire-consort",
+     "grounds": "mantric syllable svāhā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active (vad)"
+    }
+   ],
+   "question": "What mantra formula must be uttered after invoking Gaṇapati in this ritual sequence?",
+   "premises": [
+    "The practitioner utters the name Gaṇapati ending in ṅe.",
+    "After that utterance the fire-consort syllable is spoken.",
+    "The text prescribes this as what one should say."
+   ],
+   "inference": "The ritual requires uttering Gaṇapati with a ṅe-ending and then pronouncing the fire-consort syllable svāhā.",
+   "uncertainties": [
+    "The exact phonetic form of ṅe'ntaṃ depends on prior mantra context."
+   ],
+   "plain_english": "Having uttered Gaṇapati ending in ṅe, one should then say the fire-consort syllable svāhā."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location within ritual space",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhūtabaliṃ",
+     "gloss": "all-beings-offering",
+     "grounds": "offering intended for all beings",
+     "morph": "sarva+bhūta+bali (compound, m.acc.sg)"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active (dā)"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "conformity with prescribed method",
+     "morph": "(indecl., compound)"
+    }
+   ],
+   "question": "Where and how should the offering to all beings be presented?",
+   "premises": [
+    "The offering is designated for all beings.",
+    "The action is to be performed in the middle.",
+    "The giving must follow the prescribed rule."
+   ],
+   "inference": "The offering to all beings should be given in the middle according to the proper ritual rule.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one should give the offering to all beings in the middle, according to the prescribed rule."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "sarvabhūtebhya",
+     "gloss": "to-all-beings",
+     "grounds": "recipients of the offering",
+     "morph": "sarva+bhūta (compound, m.dat.pl)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-uttered",
+     "grounds": "prior verbal action",
+     "morph": "gerund (vac)"
+    },
+    {
+     "surface": "hū/",
+     "gloss": "hūṃ",
+     "grounds": "seed syllable in mantra",
+     "morph": "(indecl., mantra)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl., mantra)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "oblation syllable",
+     "morph": "(indecl., mantra)"
+    },
+    {
+     "surface": "manur",
+     "gloss": "mantra",
+     "grounds": "the formula is identified as a mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "traditional designation",
+     "morph": "m.nom.sg.past-passive-participle (man)"
+    }
+   ],
+   "question": "Which spoken formula constitutes the mantra for offering to all beings?",
+   "premises": [
+    "The words addressed to all beings are uttered first.",
+    "The syllables hūṃ, phaṭ, and svāhā follow.",
+    "This sequence is regarded as the mantra."
+   ],
+   "inference": "The mantra consists of saying 'to all beings' followed by hūṃ, phaṭ, and svāhā.",
+   "uncertainties": [
+    "The exact rendering of hū/ as hūṃ follows the legacy hint."
+   ],
+   "plain_english": "Having said 'to all beings,' one recites hūṃ, phaṭ, svāhā; this is considered the mantra."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "yoginībhyo",
+     "gloss": "to-yoginīs",
+     "grounds": "recipients of the offering",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "one-should-offer",
+     "grounds": "ritual injunction to present offering",
+     "morph": "3.sg.optative-active (hṛ)"
+    }
+   ],
+   "question": "To whom must a ritual offering be presented in this instruction?",
+   "premises": [
+    "The recipients named are the yoginīs.",
+    "The object presented is an offering.",
+    "The text enjoins presenting it."
+   ],
+   "inference": "An offering should be presented to the yoginīs.",
+   "uncertainties": [],
+   "plain_english": "One should offer the oblation to the yoginīs."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-western",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "section of the ritual area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣetrapālāya",
+     "gloss": "to-kṣetrapāla",
+     "grounds": "guardian deity as recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active (dā)"
+    }
+   ],
+   "question": "In which direction should the offering to Kṣetrapāla be given?",
+   "premises": [
+    "The specified location is the western part.",
+    "The recipient is Kṣetrapāla.",
+    "An offering must be given there."
+   ],
+   "inference": "The offering to Kṣetrapāla should be given in the western part.",
+   "uncertainties": [],
+   "plain_english": "One should give the offering to Kṣetrapāla in the western part."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "maṇḍalasya",
+     "gloss": "of-maṇḍala",
+     "grounds": "ritual diagram as locus",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "conformity with prescribed method",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "duly",
+     "grounds": "proper ritual manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhūtavaliṃ",
+     "gloss": "all-beings-offering",
+     "grounds": "offering intended for all beings",
+     "morph": "sarva+bhūta+bali (compound, m.acc.sg)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active (dā)"
+    }
+   ],
+   "question": "How must the offering to all beings be performed at the center of the maṇḍala?",
+   "premises": [
+    "The location is the middle of the maṇḍala.",
+    "The offering is for all beings.",
+    "It must be given according to rule and duly."
+   ],
+   "inference": "The offering to all beings should be duly given in the center of the maṇḍala according to the prescribed rule.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the maṇḍala, one should duly give the offering to all beings according to the rule."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "gṛhṇa",
+     "gloss": "accept",
+     "grounds": "imperative request to deity",
+     "morph": "2.sg.imperative-active (grah)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahābhāge",
+     "gloss": "o-greatly-fortunate",
+     "grounds": "honorific vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative epithet",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālāgnirūpiṇi",
+     "gloss": "o-fire-of-time-formed",
+     "grounds": "vocative describing form as kālāgni",
+     "morph": "kālāgni+rūpin (compound, f.voc.sg)"
+    }
+   ],
+   "question": "What request is addressed to the goddess in her kālāgni form?",
+   "premises": [
+    "The goddess is addressed with multiple honorific epithets.",
+    "She is identified as having the form of kālāgni.",
+    "The speaker commands her to accept."
+   ],
+   "inference": "The goddess in the form of kālāgni is asked to accept the offering.",
+   "uncertainties": [],
+   "plain_english": "Accept, O Goddess, greatly fortunate, auspicious one, whose form is the fire of time."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "cakrānuṣṭhānam",
+     "gloss": "circle-performance",
+     "grounds": "ritual performance of the circle",
+     "morph": "cakra+anuṣṭhāna (compound, n.acc.sg)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tavāgre",
+     "gloss": "before-you",
+     "grounds": "location in presence of goddess",
+     "morph": "tava+agra (compound, n.loc.sg)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "stated or performed as declared",
+     "morph": "n.nom.sg.past-passive-participle (kath)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What ritual performance is declared to have been presented before the goddess?",
+   "premises": [
+    "The subject is this performance of the circle.",
+    "It is said to be before the goddess.",
+    "The statement addresses the auspicious one."
+   ],
+   "inference": "This performance of the circle is declared before the auspicious goddess.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, this performance of the circle has been declared before you."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "ritual object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "prior action",
+     "morph": "gerund (grah)"
+    },
+    {
+     "surface": "pāṇibhyāṃ",
+     "gloss": "with-both-hands",
+     "grounds": "instrument of holding",
+     "morph": "m.ins.dual"
+    },
+    {
+     "surface": "karakacchapamudrayā",
+     "gloss": "with-tortoise-hand-seal",
+     "grounds": "ritual hand gesture",
+     "morph": "karakacchapa+mudrā (compound, f.ins.sg)"
+    }
+   ],
+   "question": "How must the flower be held before the subsequent meditative act?",
+   "premises": [
+    "A flower is taken as the ritual object.",
+    "It is held with both hands.",
+    "The hands form the karakacchapa seal."
+   ],
+   "inference": "The flower should be taken with both hands using the karakacchapa seal.",
+   "uncertainties": [],
+   "plain_english": "Having taken a flower with both hands in the karakacchapa seal,"
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "nītvā",
+     "gloss": "having-brought",
+     "grounds": "movement of the flower inward",
+     "morph": "gerund (nī)"
+    },
+    {
+     "surface": "svahṛdayāmbhoje",
+     "gloss": "to-own-heart-lotus",
+     "grounds": "internal locus of meditation",
+     "morph": "sva+hṛdaya+ambhoja (compound, n.loc.sg)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active (dhyai)"
+    },
+    {
+     "surface": "ādyāṃ",
+     "gloss": "on-primeval",
+     "grounds": "epithet of the deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parātparām",
+     "gloss": "supreme-beyond-supreme",
+     "grounds": "epithet indicating highest transcendence",
+     "morph": "para+atpara (compound, f.acc.sg)"
+    }
+   ],
+   "question": "Upon which supreme deity should meditation be directed in the heart-lotus?",
+   "premises": [
+    "The flower is brought to one's own heart-lotus.",
+    "Meditation is prescribed at that locus.",
+    "The object of meditation is the primeval and supreme-beyond-supreme goddess."
+   ],
+   "inference": "One should meditate on the primeval, supreme-beyond-supreme goddess in one's own heart-lotus.",
+   "uncertainties": [],
+   "plain_english": "and having brought it to one's own heart-lotus, one should meditate on the primeval, supreme-beyond-supreme goddess."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "validāne",
+     "gloss": "in-offering-giving",
+     "grounds": "context of giving the offering",
+     "morph": "bali+dāna (compound, n.loc.sg)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "traditional designation",
+     "morph": "m.nom.sg.past-passive-participle (man)"
+    }
+   ],
+   "question": "In what ritual context is the preceding procedure considered applicable?",
+   "premises": [
+    "The text refers to the giving of an offering.",
+    "The procedure is given a designation.",
+    "It is considered appropriate in that context."
+   ],
+   "inference": "The procedure is considered applicable in the context of giving the offering.",
+   "uncertainties": [
+    "The subject of mataḥ is implied from the preceding verses."
+   ],
+   "plain_english": "This is considered proper in the giving of the offering."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "jātaḥ",
+     "gloss": "born",
+     "grounds": "state or origin indicated",
+     "morph": "m.nom.sg.past-passive-participle (jan)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental reference",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāyai",
+     "gloss": "to-śivā",
+     "grounds": "recipient deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active (dā)"
+    }
+   ],
+   "question": "To which deity must the offering be given by means of this procedure?",
+   "premises": [
+    "The offering is specified as the object to be given.",
+    "The recipient named is Śivā.",
+    "The giving is enjoined through this means."
+   ],
+   "inference": "By this means one should give the offering to Śivā.",
+   "uncertainties": [
+    "The precise referent of jātaḥ is context-dependent."
+   ],
+   "plain_english": "By this alone, one should give the offering to Śivā."
+  },
+  {
+   "verse": 1038,
+   "rows": [
+    {
+     "surface": "svahṛdayāmbhoje",
+     "gloss": "in-own-heart-lotus",
+     "grounds": "internal locus of meditation",
+     "morph": "sva+hṛdaya+ambhoja (compound, n.loc.sg)"
+    },
+    {
+     "surface": "parātparām",
+     "gloss": "supreme-beyond-supreme",
+     "grounds": "epithet of the deity",
+     "morph": "para+atpara (compound, f.acc.sg)"
+    },
+    {
+     "surface": "ādyāṃ",
+     "gloss": "primeval",
+     "grounds": "epithet of the deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālīṃ",
+     "gloss": "kālī",
+     "grounds": "name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active (dhyai)"
+    }
+   ],
+   "question": "Which form of the goddess should be meditated upon in one's own heart-lotus?",
+   "premises": [
+    "The locus of meditation is one's own heart-lotus.",
+    "The goddess is named as Kālī.",
+    "She is described as primeval and supreme-beyond-supreme."
+   ],
+   "inference": "One should meditate on the primeval, supreme-beyond-supreme Kālī in one's own heart-lotus.",
+   "uncertainties": [],
+   "plain_english": "One should meditate in one's own heart-lotus on the primeval, supreme-beyond-supreme Kālī."
+  },
+  {
+   "verse": 1039,
+   "rows": [
+    {
+     "surface": "dīpāt",
+     "gloss": "from-lamp",
+     "grounds": "source in the simile",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dīpāntaram",
+     "gloss": "to-another-lamp",
+     "grounds": "target in the simile",
+     "morph": "dīpa+antara (compound, n.acc.sg)"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location in ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpe",
+     "gloss": "in-flower",
+     "grounds": "object receiving placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niyojya",
+     "gloss": "having-placed",
+     "grounds": "act of transferring or installing",
+     "morph": "gerund (ni-yuj)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what analogy is the placement of the deity into the flower described?",
+   "premises": [
+    "The simile compares transfer from one lamp to another lamp.",
+    "The action involves placing into the flower.",
+    "The placement occurs there in the ritual context."
+   ],
+   "inference": "The deity is to be placed in the flower as flame is transferred from one lamp to another.",
+   "uncertainties": [],
+   "plain_english": "And having placed her there in the flower, as from one lamp to another,"
+  },
+  {
+   "verse": 1040,
+   "rows": [
+    {
+     "surface": "kṛtāñjalipuṭo",
+     "gloss": "with-joined-palms-hollow",
+     "grounds": "gesture of reverence",
+     "morph": "kṛta+añjali+puṭa (compound, m.nom.sg)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "assuming a posture",
+     "morph": "gerund (bhū)"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "one-should-pray",
+     "grounds": "injunction to supplicate",
+     "morph": "3.sg.optative-active (pra-arth)"
+    },
+    {
+     "surface": "iṣṭadevatām",
+     "gloss": "chosen-deity",
+     "grounds": "object of prayer",
+     "morph": "iṣṭa+devatā (compound, f.acc.sg)"
+    }
+   ],
+   "question": "In what posture should the practitioner pray to the chosen deity?",
+   "premises": [
+    "The practitioner forms joined palms.",
+    "This posture is assumed before prayer.",
+    "The chosen deity is the object of supplication."
+   ],
+   "inference": "With joined palms the practitioner should pray to the chosen deity.",
+   "uncertainties": [],
+   "plain_english": "having become one with joined palms, one should pray to the chosen deity."
+  },
+  {
+   "verse": 1041,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "temporal limit marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "deity addressed",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "pūjayiṣyāmi",
+     "gloss": "i-shall-worship",
+     "grounds": "future act of worship",
+     "morph": "1.sg.future-active (pūj)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "deity addressed",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "susthirā",
+     "gloss": "well-steady",
+     "grounds": "requested stable presence",
+     "morph": "su+sthira (compound, f.nom.sg)"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative request",
+     "morph": "2.sg.imperative-active (bhū)"
+    }
+   ],
+   "question": "What duration of stable presence is requested from the deity during worship?",
+   "premises": [
+    "The practitioner states an intention to worship the deity.",
+    "The request is correlated to that duration.",
+    "The deity is asked to remain well steady."
+   ],
+   "inference": "The deity is asked to remain steadily present for as long as the worship continues.",
+   "uncertainties": [],
+   "plain_english": "As long as I shall worship you, so long be well established."
+  },
+  {
+   "verse": 1042,
+   "rows": [
+    {
+     "surface": "ihāgaccha",
+     "gloss": "here-come",
+     "grounds": "invocation command",
+     "morph": "iha+ā-gam (compound, 2.sg.imperative-active)"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twice",
+     "grounds": "repetition instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktvā",
+     "gloss": "having-said",
+     "grounds": "prior utterance",
+     "morph": "gerund (pra-vac)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "location marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭha",
+     "gloss": "stay",
+     "grounds": "command to remain",
+     "morph": "2.sg.imperative-active (sthā)"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twice",
+     "grounds": "repetition instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which invocation commands must be repeated twice during the ritual address?",
+   "premises": [
+    "The command 'come here' is to be spoken twice.",
+    "The command 'stay here' is to be spoken twice.",
+    "These utterances are part of the prescribed sequence."
+   ],
+   "inference": "The practitioner must say 'come here' twice and then 'stay here' twice.",
+   "uncertainties": [],
+   "plain_english": "Having said 'come here' twice, then again say 'stay here' twice."
+  },
+  {
+   "verse": 1043,
+   "rows": [
+    {
+     "surface": "rudhyasva",
+     "gloss": "be-confined",
+     "grounds": "command to be fixed or restrained in place",
+     "morph": "2.sg.imperative-middle (rudh)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "utterance to be spoken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ābhāṣya",
+     "gloss": "having-uttered",
+     "grounds": "prior verbal action",
+     "morph": "gerund (ā-bhāṣ)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of the worship",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual offering of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "accept",
+     "grounds": "imperative request",
+     "morph": "2.sg.imperative-active (grah)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional commands complete the verbal invocation to the deity?",
+   "premises": [
+    "The word 'be confined' is to be uttered.",
+    "The deity is asked to accept the practitioner's worship.",
+    "These commands follow the previous invocations."
+   ],
+   "inference": "After uttering 'be confined,' the practitioner should ask the deity to accept the worship.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the word 'be confined,' say also, 'accept my worship.'"
+  },
+  {
+   "verse": 1044,
+   "rows": [
+    {
+     "surface": "ittham",
+     "gloss": "thus",
+     "grounds": "summarizes preceding procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhanaṃ",
+     "gloss": "invocation",
+     "grounds": "ritual act of calling the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of invocation",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-goddess",
+     "grounds": "possessor of vital breaths",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prāṇān",
+     "gloss": "vital-breaths",
+     "grounds": "life forces to be established",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pratiṣṭhayet",
+     "gloss": "one-should-establish",
+     "grounds": "ritual installation injunction",
+     "morph": "3.sg.optative-causative-active (pra-sthā)"
+    }
+   ],
+   "question": "What ritual act must follow immediately after completing the invocation of the goddess?",
+   "premises": [
+    "The invocation is performed in the manner described.",
+    "The goddess's vital breaths are the object of the next act.",
+    "The practitioner is instructed to establish them."
+   ],
+   "inference": "After performing the invocation, one should establish the vital breaths of the goddess.",
+   "uncertainties": [],
+   "plain_english": "Having thus performed the invocation, one should establish the vital breaths of the goddess."
+  },
+  {
+   "verse": 1045,
+   "rows": [
+    {
+     "surface": "kṛtāñjalipuṭo",
+     "gloss": "with-joined-palms-hollow",
+     "grounds": "gesture of reverence",
+     "morph": "kṛta+añjali+puṭa (compound, m.nom.sg)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "assuming a posture",
+     "morph": "gerund (bhū)"
+    },
+    {
+     "surface": "iṣṭadevatāṃ",
+     "gloss": "chosen-deity",
+     "grounds": "object of prayer",
+     "morph": "iṣṭa+devatā (compound, f.acc.sg)"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "one-should-pray",
+     "grounds": "injunction to supplicate",
+     "morph": "3.sg.optative-active (pra-arth)"
+    }
+   ],
+   "question": "What devotional action is required before the specific prayer formula is given?",
+   "premises": [
+    "The practitioner assumes the posture of joined palms.",
+    "The chosen deity is addressed.",
+    "Prayer is enjoined."
+   ],
+   "inference": "With joined palms the practitioner should pray to the chosen deity.",
+   "uncertainties": [],
+   "plain_english": "Having become one with joined palms, one should pray to the chosen deity."
+  },
+  {
+   "verse": 1046,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative introducing content",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "one-should-pray",
+     "grounds": "act of prayer under question",
+     "morph": "3.sg.optative-active (pra-arth)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "introduces the answer",
+     "morph": "3.sg.perfect-active (ah)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative opening of prayer",
+     "morph": "deva+īśī (compound, f.voc.sg)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates continuation of formula",
+     "morph": "iti+ādi (compound, indecl.)"
+    }
+   ],
+   "question": "How does the text introduce the specific content of the prayer to the chosen deity?",
+   "premises": [
+    "The question asks what should be prayed.",
+    "The text answers by citing the opening address.",
+    "The formula begins with 'O goddess of gods' and continues."
+   ],
+   "inference": "The text introduces the prayer by stating that one should say 'O goddess of gods' and so forth.",
+   "uncertainties": [
+    "The full prayer formula is abbreviated by ityādi."
+   ],
+   "plain_english": "What should one pray there? It says: 'O goddess of gods,' and so forth."
+  },
+  {
+   "verse": 1047,
+   "rows": [
+    {
+     "surface": "prāṇā",
+     "gloss": "vital-breaths",
+     "grounds": "term to be uttered in the formula",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcabījāni",
+     "gloss": "five-seed-syllables",
+     "grounds": "mantric elements to be recited",
+     "morph": "pañca+bīja (compound, n.acc.pl)"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "indicates immediate sequence",
+     "morph": "tad+anantara (compound, indecl.)"
+    }
+   ],
+   "question": "What mantra elements must be recited immediately after uttering the word for vital breaths?",
+   "premises": [
+    "The word 'vital breaths' is uttered first.",
+    "Five seed syllables follow in sequence.",
+    "The text specifies they come immediately after."
+   ],
+   "inference": "After saying 'vital breaths,' one should recite the five seed syllables.",
+   "uncertainties": [
+    "The specific five seed syllables are not listed in this verse."
+   ],
+   "plain_english": "Then, after saying 'vital breaths,' one should recite the five seed syllables immediately after."
+  },
+  {
+   "verse": 1048,
+   "rows": [
+    {
+     "surface": "pañcabījāni",
+     "gloss": "five-seed-syllables",
+     "grounds": "mantric elements previously mentioned",
+     "morph": "pañca+bīja (compound, n.acc.pl)"
+    },
+    {
+     "surface": "amuṣyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvendriyāṇi",
+     "gloss": "all-senses",
+     "grounds": "faculties to be named",
+     "morph": "sarva+indriya (compound, n.acc.pl)"
+    },
+    {
+     "surface": "kīrtayet",
+     "gloss": "one-should-recite",
+     "grounds": "injunction to recite",
+     "morph": "3.sg.optative-active (kīrt)"
+    }
+   ],
+   "question": "What elements belonging to the goddess must be recited along with the five seed syllables?",
+   "premises": [
+    "The five seed syllables are to be recited.",
+    "All her senses are also named as objects of recitation.",
+    "The recitation is enjoined."
+   ],
+   "inference": "One should recite the five seed syllables and all the senses of the goddess.",
+   "uncertainties": [],
+   "plain_english": "One should recite the five seed syllables and all her senses."
+  },
+  {
+   "verse": 1049,
+   "rows": [
+    {
+     "surface": "vāṅmanonayanaghrāṇaśrotratvak",
+     "gloss": "speech-mind-eye-nose-ear-skin",
+     "grounds": "enumeration of sense faculties",
+     "morph": "vāc+manas+nayana+ghrāṇa+śrotra+tvac (compound, n.nom.sg)"
+    },
+    {
+     "surface": "padato",
+     "gloss": "by-word",
+     "grounds": "indicates verbal enumeration",
+     "morph": "pada+tas (indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "injunction to utter",
+     "morph": "3.sg.optative-active (vad)"
+    }
+   ],
+   "question": "Which specific faculties are to be named when reciting the senses of the goddess?",
+   "premises": [
+    "The senses are to be spoken by word.",
+    "The faculties listed are speech, mind, eye, nose, ear, and skin.",
+    "The text enjoins saying them."
+   ],
+   "inference": "One should verbally name speech, mind, eye, nose, ear, and skin as the senses.",
+   "uncertainties": [],
+   "plain_english": "One should say by word: speech, mind, eye, nose, ear, and skin."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "kaniṣṭhaḥ",
+     "gloss": "lowest",
+     "grounds": "adjective in nominative singular masculine; denotes the lowest grade",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "fused form ca + eva; conjunction plus emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭcakra",
+     "gloss": "six-cakra",
+     "grounds": "compound of ṣaṭ and cakra; six-cakra division",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedaiḥ",
+     "gloss": "divisions",
+     "grounds": "instrumental plural of bheda; by divisions",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb; concludes the threefold scheme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "indeclinable adverb; three ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śiva",
+     "grounds": "vocative singular masculine of śiva; direct address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "By what division is the lowest grade distinguished in the threefold scheme?",
+   "premises": [
+    "lowest grade is distinguished by six-cakra divisions",
+    "the scheme is declared threefold",
+    "śiva is directly addressed"
+   ],
+   "inference": "The lowest grade is set apart by six-cakra divisions within the threefold classification.",
+   "uncertainties": [
+    "whether ṣaṭcakra names six cakras or six-cakra divisions",
+    "exact doctrinal referent of the lowest grade is not specified here"
+   ],
+   "plain_english": "The lowest is indeed distinguished by six-cakra divisions; thus it is threefold, O Śiva."
+  }
+ ]
+}

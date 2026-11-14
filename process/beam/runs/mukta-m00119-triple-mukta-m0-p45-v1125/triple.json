@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "sūryagrahe",
+     "gloss": "solar-eclipse",
+     "grounds": "locative singular of sūryagraha; sets the temporal condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaktidīkṣāṃ",
+     "gloss": "śakti-initiation",
+     "grounds": "accusative object; compound śakti + dīkṣā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paśudīkṣāṃ",
+     "gloss": "paśu-initiation",
+     "grounds": "accusative object; compound paśu + dīkṣā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle modifying kārayet",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause-to-do",
+     "grounds": "causative optative third singular of kṛ; prohibits causing the initiations",
+     "morph": "3.sg.opt.-root kṛ (causative)"
+    }
+   ],
+   "question": "Should śakti-initiation and paśu-initiation be performed during a solar eclipse?",
+   "premises": [
+    "Solar eclipse is the stated condition.",
+    "Śakti-initiation and paśu-initiation are named objects.",
+    "The verse forbids causing them."
+   ],
+   "inference": "Therefore neither śakti-initiation nor paśu-initiation should be caused during a solar eclipse.",
+   "uncertainties": [
+    "The exact mood of kārayet is not fully specified by the surface form alone.",
+    "The implied agent is not named in the verse."
+   ],
+   "plain_english": "During a solar eclipse, one should not cause śakti-initiation or paśu-initiation."
+  }
+ ]
+}

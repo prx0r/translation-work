@@ -1,0 +1,128 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "net-p07",
+ "work": "netratantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v153 ratio=0.400",
+  "ALIGN_NODISP v154 ratio=0.811",
+  "ALIGN_NODISP v157 ratio=0.435",
+  "ALIGN_NODISP v158 ratio=0.852",
+  "ALIGN_NODISP v164 ratio=0.833",
+  "ALIGN_NODISP v165 ratio=0.897",
+  "ALIGN_NODISP v166 ratio=0.625",
+  "ALIGN_NODISP v167 ratio=0.852",
+  "ALIGN_NODISP v170 ratio=0.879"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "878cdcd6f609f0e0",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 151
+ },
+ "align": {
+  "min_ratio": 0.4,
+  "sub090": {
+   "153": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "154": {
+    "ratio": 0.811,
+    "disposition": null
+   },
+   "157": {
+    "ratio": 0.435,
+    "disposition": null
+   },
+   "158": {
+    "ratio": 0.852,
+    "disposition": null
+   },
+   "164": {
+    "ratio": 0.833,
+    "disposition": null
+   },
+   "165": {
+    "ratio": 0.897,
+    "disposition": null
+   },
+   "166": {
+    "ratio": 0.625,
+    "disposition": null
+   },
+   "167": {
+    "ratio": 0.852,
+    "disposition": null
+   },
+   "170": {
+    "ratio": 0.879,
+    "disposition": null
+   },
+   "175": {
+    "ratio": 0.889,
+    "disposition": "sandhi-only: aḥ>o, ḥ>r, ḥ>s"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 45,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 151,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v153",
+  "fix: word-order/gloss vs source for v154",
+  "fix: word-order/gloss vs source for v157",
+  "fix: word-order/gloss vs source for v158",
+  "fix: word-order/gloss vs source for v164",
+  "fix: word-order/gloss vs source for v165",
+  "fix: word-order/gloss vs source for v166",
+  "fix: word-order/gloss vs source for v167",
+  "fix: word-order/gloss vs source for v170"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "36ae1d6ec3bc213e4ba9ef1c608dae3ef08534fb747ec139fb7b9d0a0de78709",
+  "l0": "31fae30b1068d561c7ef7848c970e4b6441a949101ffad8c7bed35e8949532b7",
+  "argmap": "db1b760fe5ee496225e0248b373be66fc3a8b97a687fbb5387edd9d51c4055d5",
+  "l2": "2a52f29f5f3a47da848ef77a9f7cadb0888347784bb75dda2058eb00447b6696",
+  "c1": "076691ab741ca58426f85e9c8110431b10b7234fb9e16faf8e9b100b76ca52eb"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "878cdcd6f609f0e0",
+  "t1": "net-p07/data/net-p07.t1.json",
+  "l0": "net-p07/data/net-p07.l0.json",
+  "l2": "net-p07/data/net-p07.l2.json",
+  "c1": "net-p07/data/net-p07.c1.json"
+ }
+}

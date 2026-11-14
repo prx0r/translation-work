@@ -1,0 +1,32 @@
+{
+ "song": "kul-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "kulārcanādinirataṃ",
+     "gloss": "kula-worship-etc-devoted",
+     "grounds": "compound kula-arcana-adi-nirata; devoted to kula worship and related practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuladravyājugupsakam",
+     "gloss": "kula-wealth-not-despising",
+     "grounds": "compound kula-dravya-a-jugupsaka; one who does not despise kula wealth",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What qualities mark the disciple devoted to kula worship?",
+   "premises": [
+    "The disciple is devoted to kula worship.",
+    "The disciple does not despise kula wealth."
+   ],
+   "inference": "These qualities characterize the kula disciple.",
+   "uncertainties": [
+    "The accusative form leaves the exact described person implicit."
+   ],
+   "plain_english": "devoted to kula worship and the like, not despising kula wealth"
+  }
+ ]
+}

@@ -1,0 +1,1168 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3176,
+   "rows": [
+    {
+     "surface": "tīre",
+     "gloss": "on-bank",
+     "grounds": "location of the practitioner",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previously mentioned place",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "paścimāyāṃ",
+     "gloss": "on-western",
+     "grounds": "directional specification",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "nātidūre",
+     "gloss": "not-far",
+     "grounds": "proximity to the bank",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "situated",
+     "grounds": "state of being positioned",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the practitioner situated relative to that western bank?",
+   "premises": [
+    "The location is on that bank",
+    "The position is on the western side",
+    "The position is not far away"
+   ],
+   "inference": "The practitioner is situated not far away on the western bank of that place.",
+   "uncertainties": [],
+   "plain_english": "Situated on its bank, on the western side, not far away."
+  },
+  {
+   "verse": 3177,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the specified location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act performed",
+     "morph": "gerund"
+    },
+    {
+     "surface": "āmāvāsyāṃ",
+     "gloss": "on-new-moon",
+     "grounds": "specific ritual time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvatīrthaphalaṃ",
+     "gloss": "all-pilgrimage-fruit",
+     "grounds": "merit of all sacred sites",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-may-obtain",
+     "grounds": "result of the act",
+     "morph": "3.sg.optative-act √labh"
+    }
+   ],
+   "question": "What merit does bathing there on the new moon day yield?",
+   "premises": [
+    "Bathing is performed there",
+    "The bathing occurs on the new moon day",
+    "The fruit of all pilgrimage sites is obtainable"
+   ],
+   "inference": "One who bathes there on the new moon day may obtain the fruit of all pilgrimage sites.",
+   "uncertainties": [],
+   "plain_english": "Having bathed there on the new moon day, one may obtain the fruit of all pilgrimage sites."
+  },
+  {
+   "verse": 3178,
+   "rows": [
+    {
+     "surface": "aśvamedhasahasrasya",
+     "gloss": "of-thousand-horse-sacrifices",
+     "grounds": "comparison to great ritual merit",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "acquisition of result",
+     "morph": "3.sg.present-middle √labh"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "meritorious result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "highest quality of fruit",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme fruit is obtained comparable to a thousand horse sacrifices?",
+   "premises": [
+    "A thousand horse sacrifices yield great merit",
+    "A supreme fruit is obtained",
+    "The obtained fruit equals that merit"
+   ],
+   "inference": "One obtains the supreme fruit equivalent to that of a thousand horse sacrifices.",
+   "uncertainties": [],
+   "plain_english": "One obtains the supreme fruit of a thousand horse sacrifices."
+  },
+  {
+   "verse": 3179,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act performed",
+     "morph": "gerund"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "ritual means accompanying bath",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "manujāḥ",
+     "gloss": "humans",
+     "grounds": "agents performing the act",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "divaṃ",
+     "gloss": "to-heaven",
+     "grounds": "destination attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gacchanti",
+     "gloss": "go",
+     "grounds": "movement to destination",
+     "morph": "3.pl.present-act √gam"
+    },
+    {
+     "surface": "pāritāḥ",
+     "gloss": "delivered",
+     "grounds": "state of being carried across",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What destination do humans reach after bathing with a mantra?",
+   "premises": [
+    "Humans bathe with a mantra",
+    "They become delivered",
+    "They go to heaven"
+   ],
+   "inference": "Humans who bathe with a mantra are delivered and go to heaven.",
+   "uncertainties": [],
+   "plain_english": "Having bathed with a mantra, humans, delivered, go to heaven."
+  },
+  {
+   "verse": 3180,
+   "rows": [
+    {
+     "surface": "divyapure",
+     "gloss": "in-divyapura",
+     "grounds": "sacred location name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "medium of bathing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act performed",
+     "morph": "gerund"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act of beholding deity",
+     "morph": "gerund"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deity beheld",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "trilocanam",
+     "gloss": "three-eyed",
+     "grounds": "epithet of the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual acts at Divyapura involve the three-eyed god?",
+   "premises": [
+    "Bathing occurs in the water at Divyapura",
+    "The three-eyed god is seen",
+    "Both acts are performed sequentially"
+   ],
+   "inference": "One bathes in the water at Divyapura and beholds the three-eyed god.",
+   "uncertainties": [],
+   "plain_english": "Having bathed in the water at Divyapura and having seen the three-eyed god."
+  },
+  {
+   "verse": 3181,
+   "rows": [
+    {
+     "surface": "campāvatīṃ",
+     "gloss": "campavati",
+     "grounds": "name of the river",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nadīṃ",
+     "gloss": "river",
+     "grounds": "body of water crossed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "laṅghya",
+     "gloss": "having-crossed",
+     "grounds": "act of crossing",
+     "morph": "gerund"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "anyataḥ",
+     "gloss": "elsewhere",
+     "grounds": "different location for bathing",
+     "morph": "indecl."
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "may-perform",
+     "grounds": "performance of bathing",
+     "morph": "3.sg.optative-act √ā-car"
+    }
+   ],
+   "question": "Who may perform bathing elsewhere after crossing the Campavati river?",
+   "premises": [
+    "The Campavati river is crossed",
+    "Bathing may be performed elsewhere",
+    "The subject is whoever does this"
+   ],
+   "inference": "Whoever crosses the Campavati river may perform bathing elsewhere.",
+   "uncertainties": [],
+   "plain_english": "Whoever, having crossed the Campavati river, may perform bathing elsewhere."
+  },
+  {
+   "verse": 3182,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "specified location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act performed",
+     "morph": "gerund"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "single occurrence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "maunī",
+     "gloss": "observing-silence",
+     "grounds": "vow of silence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhukūṭasya",
+     "gloss": "of-madhukuta",
+     "grounds": "place name reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What conditions apply to bathing once south of Madhukuta?",
+   "premises": [
+    "Bathing is done there once",
+    "The bather observes silence",
+    "The location is south of Madhukuta"
+   ],
+   "inference": "One observing silence bathes once there, south of Madhukuta.",
+   "uncertainties": [],
+   "plain_english": "Having bathed there once in silence, south of Madhukuta."
+  },
+  {
+   "verse": 3183,
+   "rows": [
+    {
+     "surface": "rājasūyasya",
+     "gloss": "of-rajasuya",
+     "grounds": "name of sacrifice",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yajñasya",
+     "gloss": "of-sacrifice",
+     "grounds": "ritual sacrifice",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "acquisition of result",
+     "morph": "3.sg.present-middle √labh"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "meritorious result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īpsitam",
+     "gloss": "desired",
+     "grounds": "wished-for quality",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What desired fruit is obtained equivalent to the Rajasuya sacrifice?",
+   "premises": [
+    "The Rajasuya sacrifice yields merit",
+    "A desired fruit is obtained",
+    "The fruit corresponds to that sacrifice"
+   ],
+   "inference": "One obtains the desired fruit of the Rajasuya sacrifice.",
+   "uncertainties": [],
+   "plain_english": "One obtains the desired fruit of the Rajasuya sacrifice."
+  },
+  {
+   "verse": 3184,
+   "rows": [
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "single occurrence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act of beholding",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "specific referent",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "divine female figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "attitude of worship",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "pūjya",
+     "gloss": "having-worshipped",
+     "grounds": "ritual worship act",
+     "morph": "gerund"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What devotional acts toward that goddess are prescribed even once?",
+   "premises": [
+    "The goddess is seen once",
+    "She is worshipped with devotion",
+    "She is bowed to in reverence"
+   ],
+   "inference": "Having once seen that goddess, one should worship her with devotion and bow to her.",
+   "uncertainties": [],
+   "plain_english": "Having once seen that goddess, and having worshipped and bowed to her with devotion."
+  },
+  {
+   "verse": 3185,
+   "rows": [
+    {
+     "surface": "anyāḥ",
+     "gloss": "others",
+     "grounds": "additional figures",
+     "morph": "pron.nom.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "specified location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "presence at location",
+     "morph": "3.pl.present-act √sthā"
+    },
+    {
+     "surface": "virajāḥ",
+     "gloss": "stainless",
+     "grounds": "pure quality",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "lokamātaraḥ",
+     "gloss": "world-mothers",
+     "grounds": "divine maternal figures",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What other divine figures are present there as stainless world mothers?",
+   "premises": [
+    "Other figures are present there",
+    "They are stainless",
+    "They are world mothers"
+   ],
+   "inference": "Other stainless world mothers also stand there.",
+   "uncertainties": [],
+   "plain_english": "And other stainless world mothers stand there."
+  },
+  {
+   "verse": 3186,
+   "rows": [
+    {
+     "surface": "āste",
+     "gloss": "is-situated",
+     "grounds": "existence at location",
+     "morph": "3.sg.present-middle √ās"
+    },
+    {
+     "surface": "vaitaraṇītīrthaṃ",
+     "gloss": "vaitarani-pilgrimage-site",
+     "grounds": "name of sacred site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvapāpaharaṃ",
+     "gloss": "all-sin-removing",
+     "grounds": "purifying power",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "highest quality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What supreme purifying power belongs to the Vaitarani pilgrimage site?",
+   "premises": [
+    "The Vaitarani pilgrimage site exists",
+    "It removes all sins",
+    "It is supreme"
+   ],
+   "inference": "The supreme Vaitarani pilgrimage site, which removes all sins, is situated there.",
+   "uncertainties": [],
+   "plain_english": "The supreme Vaitarani pilgrimage site, which removes all sins, is situated there."
+  },
+  {
+   "verse": 3187,
+   "rows": [
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-goddess",
+     "grounds": "reference point",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nātidūre",
+     "gloss": "not-far",
+     "grounds": "proximity",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pool",
+     "grounds": "sacred water body",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaitaraṇīyakam",
+     "gloss": "of-vaitarani",
+     "grounds": "association with Vaitarani",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the Vaitarani pool located relative to the goddess?",
+   "premises": [
+    "The pool is associated with Vaitarani",
+    "It is east of the goddess",
+    "It is not far away"
+   ],
+   "inference": "The Vaitarani pool is located not far to the east of the goddess.",
+   "uncertainties": [],
+   "plain_english": "Not far to the east of the goddess is the Vaitarani pool."
+  },
+  {
+   "verse": 3188,
+   "rows": [
+    {
+     "surface": "āste",
+     "gloss": "dwells",
+     "grounds": "presence at location",
+     "morph": "3.sg.present-middle √ās"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphatic self-presence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "specified location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kolarūpī",
+     "gloss": "boar-form",
+     "grounds": "manifest form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hariḥ",
+     "gloss": "hari",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphatic self-presence",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which deity dwells there himself in the form of a boar?",
+   "premises": [
+    "A deity dwells there himself",
+    "The deity is Hari",
+    "Hari takes the form of a boar"
+   ],
+   "inference": "Hari himself dwells there indeed in the form of a boar.",
+   "uncertainties": [],
+   "plain_english": "There indeed Hari himself dwells in the form of a boar."
+  },
+  {
+   "verse": 3189,
+   "rows": [
+    {
+     "surface": "kapilā",
+     "gloss": "kapila",
+     "grounds": "sacred site or figure name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gogṛhe",
+     "gloss": "in-cow-shed",
+     "grounds": "location name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "somatīrthaṃ",
+     "gloss": "soma-pilgrimage-site",
+     "grounds": "sacred site name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lobhasaṃjñake",
+     "gloss": "in-lobha-named",
+     "grounds": "location identified by name",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What sacred sites are identified at the cow shed and the place named Lobha?",
+   "premises": [
+    "Kapila is at the cow shed",
+    "Soma pilgrimage site is at the place named Lobha",
+    "Both are mentioned together"
+   ],
+   "inference": "Kapila is in the cow shed and the Soma pilgrimage site is in the place named Lobha.",
+   "uncertainties": [
+    "Whether kapilā refers to a cow, a place, or a goddess is context-dependent"
+   ],
+   "plain_english": "Kapila is in the cow shed, and the Soma pilgrimage site is in the place named Lobha."
+  },
+  {
+   "verse": 3190,
+   "rows": [
+    {
+     "surface": "tīrthakṣetreṣu",
+     "gloss": "in-pilgrimage-sites",
+     "grounds": "sacred locations",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise",
+     "grounds": "quality of the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viraje",
+     "gloss": "in-viraja",
+     "grounds": "specific sacred site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃyatendriyaḥ",
+     "gloss": "restrained-senses",
+     "grounds": "disciplined state",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize the person acting in the pilgrimage sites of Viraja?",
+   "premises": [
+    "The person is in pilgrimage sites",
+    "The person is in Viraja",
+    "The person is wise and sense-restrained"
+   ],
+   "inference": "The wise and sense-restrained person acts in the pilgrimage sites of Viraja.",
+   "uncertainties": [],
+   "plain_english": "The wise, sense-restrained person in the pilgrimage sites, in Viraja."
+  },
+  {
+   "verse": 3191,
+   "rows": [
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "human agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphatic agent",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "specified location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act performed",
+     "morph": "gerund"
+    },
+    {
+     "surface": "amaralokaṃ",
+     "gloss": "immortal-world",
+     "grounds": "destination attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "refers to the man",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "movement to destination",
+     "morph": "3.sg.present-act √gam"
+    }
+   ],
+   "question": "What destination does a man reach by bathing there himself?",
+   "premises": [
+    "A man bathes there himself",
+    "He performs the act personally",
+    "He goes to the immortal world"
+   ],
+   "inference": "That man, having bathed there himself, goes to the immortal world.",
+   "uncertainties": [],
+   "plain_english": "That man, having himself bathed there, goes to the world of the immortals."
+  },
+  {
+   "verse": 3192,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject of the act",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "makes",
+     "grounds": "causes or produces",
+     "morph": "3.sg.present-act √kṛ"
+    },
+    {
+     "surface": "akṣayāṃ",
+     "gloss": "imperishable",
+     "grounds": "undiminishing quality",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tṛptiṃ",
+     "gloss": "satisfaction",
+     "grounds": "fulfillment produced",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pitṛṇāṃ",
+     "gloss": "of-ancestors",
+     "grounds": "recipients of satisfaction",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What imperishable benefit for ancestors results from this act without doubt?",
+   "premises": [
+    "He produces satisfaction",
+    "The satisfaction is imperishable",
+    "The satisfaction is for the ancestors",
+    "There is no doubt in this matter"
+   ],
+   "inference": "He causes imperishable satisfaction for the ancestors; there is no doubt about this.",
+   "uncertainties": [],
+   "plain_english": "He brings imperishable satisfaction to the ancestors; there is no doubt about this."
+  },
+  {
+   "verse": 3193,
+   "rows": [
+    {
+     "surface": "parityajanti",
+     "gloss": "abandon",
+     "grounds": "act of leaving behind",
+     "morph": "3.pl.present-act √pari-tyaj"
+    },
+    {
+     "surface": "puruṣāḥ",
+     "gloss": "men",
+     "grounds": "agents",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to those men",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "spiritual goal attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpnuvanti",
+     "gloss": "obtain",
+     "grounds": "attainment of liberation",
+     "morph": "3.pl.present-act √pra-āp"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What ultimate attainment is secured by those men who abandon worldly ties?",
+   "premises": [
+    "Those men abandon something",
+    "They obtain liberation",
+    "The attainment is certain"
+   ],
+   "inference": "Those men who abandon obtain liberation indeed.",
+   "uncertainties": [
+    "The object of parityajanti is not explicitly stated in this verse"
+   ],
+   "plain_english": "Those men who abandon obtain liberation indeed."
+  },
+  {
+   "verse": 3194,
+   "rows": [
+    {
+     "surface": "paśupāyasagandhaiḥ",
+     "gloss": "with-animal-offering-fragrances",
+     "grounds": "ritual substances used",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahāvibhavavistaraiḥ",
+     "gloss": "with-great-wealth-expanses",
+     "grounds": "abundant offerings",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What kinds of offerings and substances accompany the ritual worship described?",
+   "premises": [
+    "Fragrances of animal offerings are used",
+    "Great expanses of wealth are used",
+    "Both accompany the ritual"
+   ],
+   "inference": "The ritual is accompanied by fragrances of animal offerings and great expanses of wealth.",
+   "uncertainties": [
+    "Compound paśupāyasagandhaiḥ may admit alternative ritual readings"
+   ],
+   "plain_english": "With fragrances of animal offerings and with great expanses of wealth."
+  },
+  {
+   "verse": 3195,
+   "rows": [
+    {
+     "surface": "liṅgāntaragatā",
+     "gloss": "gone-within-linga",
+     "grounds": "located inside the linga",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "womb",
+     "grounds": "sacred feminine principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maṅgalā",
+     "gloss": "mangala",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "naming marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "candrikā",
+     "gloss": "candrika",
+     "grounds": "epithet or name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What goddess is identified as residing within the linga by these names?",
+   "premises": [
+    "The yoni is within the linga",
+    "She is named Mangala",
+    "She is also called Candrika"
+   ],
+   "inference": "The yoni within the linga is the goddess named Mangala, also called Candrika.",
+   "uncertainties": [],
+   "plain_english": "The yoni within the linga is named Mangala, Candrika."
+  },
+  {
+   "verse": 3196,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-seed",
+     "grounds": "bija syllable of speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyabījaṃ",
+     "gloss": "middle-seed",
+     "grounds": "central bija syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrībījaṃ",
+     "gloss": "sri-seed",
+     "grounds": "bija syllable of Sri",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "purataḥ",
+     "gloss": "in-front",
+     "grounds": "positional placement",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "Which seed syllables should be placed in front in this mantra structure?",
+   "premises": [
+    "The speech-seed is included",
+    "The middle-seed is included",
+    "The Sri-seed should be in front"
+   ],
+   "inference": "The speech-seed, the middle-seed, and the Sri-seed should be placed in front.",
+   "uncertainties": [
+    "Exact identity of bija syllables is not spelled out in this verse"
+   ],
+   "plain_english": "The speech-seed, the middle-seed, and the Sri-seed should be in front."
+  },
+  {
+   "verse": 3197,
+   "rows": [
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "mantra seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive identification",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "nāradaḥ",
+     "gloss": "narada",
+     "grounds": "name of the seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gayatri",
+     "grounds": "name of the meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "stated as such",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What seer and meter are declared for this mantra?",
+   "premises": [
+    "The seer should be Narada",
+    "The meter is declared as Gayatri",
+    "Both are prescribed elements"
+   ],
+   "inference": "The seer of this mantra should be Narada and its meter is declared to be Gayatri.",
+   "uncertainties": [],
+   "plain_english": "The seer should be Narada, and the meter is declared to be Gayatri."
+  },
+  {
+   "verse": 3198,
+   "rows": [
+    {
+     "surface": "dharmārthakāmamokṣeṣu",
+     "gloss": "in-duty-wealth-desire-liberation",
+     "grounds": "four aims of life",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-engage",
+     "grounds": "prescriptive application",
+     "morph": "3.sg.optative-act √yuj"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "speaker reference",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "suvrate",
+     "gloss": "o-fair-vowed-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "For which four aims of life should this practice be engaged, O fair-vowed one?",
+   "premises": [
+    "The four aims are duty, wealth, desire, and liberation",
+    "One should engage the practice in them",
+    "The instruction is addressed to the fair-vowed one"
+   ],
+   "inference": "One should engage this practice for duty, wealth, desire, and liberation, O fair-vowed one.",
+   "uncertainties": [],
+   "plain_english": "O fair-vowed one, one should engage it for dharma, wealth, desire, and liberation."
+  },
+  {
+   "verse": 3199,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "specified location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "ritual installation act",
+     "morph": "gerund"
+    },
+    {
+     "surface": "kalaśam",
+     "gloss": "water-pot",
+     "grounds": "ritual vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṅgerāpūjanam",
+     "gloss": "limb-worship",
+     "grounds": "worship of ritual limbs; internal sandhi in fused form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-act √car"
+    }
+   ],
+   "question": "What ritual actions should be performed there after establishing the water pot?",
+   "premises": [
+    "The water pot is established there",
+    "Limb worship is to be performed",
+    "The action is prescribed"
+   ],
+   "inference": "Having established the water pot there, one should perform the worship of the limbs.",
+   "uncertainties": [
+    "The compound aṅgerāpūjanam may reflect a specific ritual term requiring contextual confirmation"
+   ],
+   "plain_english": "Having established the water pot there, one should perform the worship of the limbs."
+  }
+ ]
+}

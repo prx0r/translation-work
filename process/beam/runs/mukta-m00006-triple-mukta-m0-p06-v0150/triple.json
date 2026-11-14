@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "manuṣyaiḥ",
+     "gloss": "by-humans",
+     "grounds": "agent in hierarchical governance; instrumental plural of manuṣya",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mānuṣāḥ",
+     "gloss": "humans",
+     "grounds": "those governed at the human level; nominative plural of mānuṣa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indicates analogy with the preceding hierarchical governance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇasaṃsthā",
+     "gloss": "class-order",
+     "grounds": "system or arrangement of social classes; compound varṇa-saṃsthā",
+     "morph": "f.nom.sg (compound: varṇa+saṃsthā)"
+    },
+    {
+     "surface": "dvijottamaiḥ",
+     "gloss": "by-best-twice-born",
+     "grounds": "governing agents of the class order; compound dvija-uttama",
+     "morph": "m.inst.pl (compound: dvija+uttama)"
+    }
+   ],
+   "question": "Who governs humans and the social class order within the descending hierarchy?",
+   "premises": [
+    "Higher beings govern lower beings in a descending hierarchy.",
+    "Humans are governed by other humans.",
+    "The social class order is governed by the best twice-born."
+   ],
+   "inference": "The hierarchical chain of governance extends analogously to humans and their social class order.",
+   "uncertainties": [
+    "Whether varṇasaṃsthā refers specifically to the fourfold varṇa system or more generally to social arrangement."
+   ],
+   "plain_english": "Likewise, humans are governed by humans, and the social class order is governed by the best of the twice-born."
+  }
+ ]
+}

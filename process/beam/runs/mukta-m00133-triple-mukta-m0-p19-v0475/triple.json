@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "indeclinable adverb indicating daily recurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayeddevīṃ",
+     "gloss": "should-worship-goddess",
+     "grounds": "sandhi-fused form pūjayet + devīm; verb governs goddess as object",
+     "morph": "3.sg.act-optative + acc.sg.f (√pūj + devī)"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adverbial usage indicating priority in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.act-optative (√pūj)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "subject of the prescribed worship",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What daily priority should a wise practitioner give to worship of the goddess?",
+   "premises": [
+    "A wise practitioner is the prescribed agent of worship.",
+    "Worship of the goddess is to be performed daily.",
+    "Worship of the goddess is to be performed first."
+   ],
+   "inference": "Therefore, a wise practitioner should worship the goddess daily as the first act.",
+   "uncertainties": [
+    "The specific referent of devī is not explicitly identified within this verse alone."
+   ],
+   "plain_english": "Every day, the wise person should worship the goddess, and should worship her first."
+  }
+ ]
+}

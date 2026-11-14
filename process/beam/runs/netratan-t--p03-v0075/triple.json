@@ -1,0 +1,27 @@
+{
+ "song": "net-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "śrīparṇībilvādyutthau",
+     "gloss": "srīparni-bilva-born",
+     "grounds": "compound naming plants śrīparṇī and bilva plus ādi, with uttha indicating born or arisen",
+     "morph": "adj.nom.du.m"
+    }
+   ],
+   "question": "Which plants are born from śrīparṇī and bilva?",
+   "premises": [
+    "śrīparṇī and bilva are named plants",
+    "ādi indicates additional plants",
+    "uttha means born or arisen"
+   ],
+   "inference": "the token names plants born from śrīparṇī, bilva, and others",
+   "uncertainties": [
+    "exact compound segmentation and number are uncertain"
+   ],
+   "plain_english": "Born from śrīparṇī, bilva, and the rest."
+  }
+ ]
+}

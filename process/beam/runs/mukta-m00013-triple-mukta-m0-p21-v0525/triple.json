@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "drave",
+     "gloss": "in-the-liquid-offering",
+     "grounds": "locative of drava, referring to the liquid oblation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnivadhūr",
+     "gloss": "fire-consort",
+     "grounds": "compound vahni-vadhū; nominative singular feminine, denoting Svāhā",
+     "morph": "compound: vahni+vadhū; f.nom.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine, subject of declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśārṇo",
+     "gloss": "twelve-syllabled",
+     "grounds": "compound dvādaśa-arṇa; nominative singular masculine adjective",
+     "morph": "compound: dvādaśa+arṇa; m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun, nominative singular masculine",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle of √īr, predicate",
+     "morph": "m.nom.sg.past-passive-participle (√īr)"
+    }
+   ],
+   "question": "What twelve-syllabled mantra is declared as the fire-consort in the liquid oblation?",
+   "premises": [
+    "The context concerns the liquid oblation (drave).",
+    "The fire-consort (vahnivadhū) is identified as a mantra.",
+    "This mantra is specified as having twelve syllables."
+   ],
+   "inference": "Therefore, the twelve-syllabled mantra designated here is declared to be the fire-consort in the liquid oblation.",
+   "uncertainties": [
+    "The exact syllabic form of the twelve-syllabled mantra is not specified in this verse."
+   ],
+   "plain_english": "In the liquid oblation, this twelve-syllabled mantra is declared to be the consort of fire."
+  }
+ ]
+}

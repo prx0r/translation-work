@@ -1,0 +1,563 @@
+{
+ "song": "kul-p28",
+ "items": [
+  {
+   "verse": 676,
+   "rows": [
+    {
+     "surface": "caturnavati",
+     "gloss": "ninety-four",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāva",
+     "gloss": "state",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dāḥ",
+     "gloss": "givers",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many mantra-self-deity-state-accomplishment givers are named?",
+   "premises": [
+    "ninety-four mantra givers are named",
+    "self deity state accomplishment are listed"
+   ],
+   "inference": "The verse enumerates ninety-four mantra givers tied to self, deity, state, and accomplishment.",
+   "uncertainties": [
+    "exact syntactic role of dāḥ"
+   ],
+   "plain_english": "Ninety-four mantra givers of self, deity, state, and accomplishment."
+  },
+  {
+   "verse": 677,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃproktā",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantrāste",
+     "gloss": "mantras-those",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-nāyikā",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which five mantras are declared here for the kula-nāyikā?",
+   "premises": [
+    "five mantras are declared here",
+    "they belong to kula-nāyikā"
+   ],
+   "inference": "The verse identifies five mantras declared for the kula-nāyikā.",
+   "uncertainties": [
+    "fused form mantrāste not split"
+   ],
+   "plain_english": "Here five mantras are declared for the kula-nāyikā."
+  },
+  {
+   "verse": 678,
+   "rows": [
+    {
+     "surface": "svacchanda",
+     "gloss": "self-willed",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuraṇa",
+     "gloss": "flashing",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhehi",
+     "gloss": "place",
+     "grounds": "imperative",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "akularūpiṇi",
+     "gloss": "non-kula-formed",
+     "grounds": "compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where should self-willed flashing be placed for the non-kula-formed one?",
+   "premises": [
+    "self-willed flashing is to be placed",
+    "the addressee is non-kula-formed"
+   ],
+   "inference": "The verse commands placing self-willed flashing here for the non-kula-formed one.",
+   "uncertainties": [
+    "exact case of akularūpiṇi"
+   ],
+   "plain_english": "Place self-willed flashing here, O non-kula-formed one."
+  },
+  {
+   "verse": 679,
+   "rows": [
+    {
+     "surface": "amṛtatvaṃ",
+     "gloss": "immortality",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhehi",
+     "gloss": "bestow",
+     "grounds": "imperative",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "pronoun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vastuni",
+     "gloss": "thing",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "klinnarūpiṇi",
+     "gloss": "kinnara-formed",
+     "grounds": "compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should be bestowed in this thing for the kinnara-formed one?",
+   "premises": [
+    "immortality is to be bestowed",
+    "it is in this thing"
+   ],
+   "inference": "The verse asks to bestow immortality in this thing for the kinnara-formed one.",
+   "uncertainties": [
+    "exact case of klinnarūpiṇi"
+   ],
+   "plain_english": "Bestow immortality in this thing, O kinnara-formed one."
+  },
+  {
+   "verse": 680,
+   "rows": [
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "gerund",
+     "morph": "abs"
+    },
+    {
+     "surface": "parāmṛtākāraṃ",
+     "gloss": "supreme-nectar-form",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "in-me",
+     "grounds": "pronoun",
+     "morph": "1sg.loc"
+    },
+    {
+     "surface": "citsphuraṇaṃ",
+     "gloss": "consciousness-flashing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative",
+     "morph": "2sg.act.imp"
+    }
+   ],
+   "question": "What should be done in me after becoming supreme nectar form?",
+   "premises": [
+    "having become supreme nectar form",
+    "consciousness-flashing is to be done in me"
+   ],
+   "inference": "The verse commands making consciousness flash in me after becoming supreme nectar form.",
+   "uncertainties": [
+    "exact gender of parāmṛtākāraṃ"
+   ],
+   "plain_english": "Having become supreme nectar form, make consciousness flash in me."
+  },
+  {
+   "verse": 681,
+   "rows": [
+    {
+     "surface": "sthitiśca",
+     "gloss": "stability",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāvakānugraha",
+     "gloss": "fire-grace",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "artha",
+     "gloss": "purpose",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indusamalaṅkṛtā",
+     "gloss": "moon-adorned",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the purpose of fire-grace for moon-adorned stability?",
+   "premises": [
+    "stability and fire-grace are named",
+    "moon-adorned is the qualifier"
+   ],
+   "inference": "The verse links stability, fire-grace, purpose, and moon-adorned qualification.",
+   "uncertainties": [
+    "fused form sthitiśca not split"
+   ],
+   "plain_english": "Stability and fire-grace, purpose, moon-adorned."
+  },
+  {
+   "verse": 682,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛte",
+     "gloss": "in-nectar",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "place",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brūyāt",
+     "gloss": "say",
+     "grounds": "optative",
+     "morph": "3sg.act.opt"
+    },
+    {
+     "surface": "tatpaścāt",
+     "gloss": "that-after",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛtodbhave",
+     "gloss": "nectar-born",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What place should be said in nectar and after that in nectar-born?",
+   "premises": [
+    "a place is to be said in nectar",
+    "after that in nectar-born"
+   ],
+   "inference": "The verse instructs saying a place in nectar, then after that in nectar-born.",
+   "uncertainties": [
+    "exact referent of padaṃ"
+   ],
+   "plain_english": "Thus say the place in nectar, then after that in nectar-born."
+  },
+  {
+   "verse": 683,
+   "rows": [
+    {
+     "surface": "amṛteśī",
+     "gloss": "nectar-lady",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcatriṃśadbhiḥ",
+     "gloss": "thirty-five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣaraiḥ",
+     "gloss": "syllables",
+     "grounds": "noun",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How many syllables are spoken for the nectar-lady mantra?",
+   "premises": [
+    "the nectar-lady mantra is spoken",
+    "it has thirty-five syllables"
+   ],
+   "inference": "The verse states the nectar-lady mantra is spoken in thirty-five syllables.",
+   "uncertainties": [
+    "manuḥ as mantra"
+   ],
+   "plain_english": "The nectar-lady mantra is spoken in thirty-five syllables."
+  },
+  {
+   "verse": 684,
+   "rows": [
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "desire-king",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klinne",
+     "gloss": "in-wet",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kledini",
+     "gloss": "wetter",
+     "grounds": "noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kledayeti",
+     "gloss": "moisten",
+     "grounds": "verb",
+     "morph": "3sg.act.pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be moistened then in the wet and wetter?",
+   "premises": [
+    "desire-king is named",
+    "moistening occurs in wet and wetter"
+   ],
+   "inference": "The verse names desire-king and commands moistening in wet and wetter.",
+   "uncertainties": [
+    "exact object of kledayeti"
+   ],
+   "plain_english": "Then desire-king; moisten in wet and wetter."
+  },
+  {
+   "verse": 685,
+   "rows": [
+    {
+     "surface": "tārttīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mokṣaśabdānte",
+     "gloss": "liberation-word-end",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuruyugmaṃ",
+     "gloss": "make-pair",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadettataḥ",
+     "gloss": "say-then",
+     "grounds": "fused sandhi form",
+     "morph": "3sg.act.opt"
+    }
+   ],
+   "question": "What pair should be made at the end of the liberation word?",
+   "premises": [
+    "the third is named",
+    "a pair is to be made at liberation-word-end"
+   ],
+   "inference": "The verse instructs making a pair at the end of the liberation word.",
+   "uncertainties": [
+    "fused form vadettataḥ not split"
+   ],
+   "plain_english": "Make the pair at the end of the liberation word, then say."
+  },
+  {
+   "verse": 686,
+   "rows": [
+    {
+     "surface": "dīpanī",
+     "gloss": "lamp",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityuktaḥ",
+     "gloss": "thus-spoken",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhikaraḥ",
+     "gloss": "all-accomplishment-doing",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What mantra is thus spoken as all-accomplishment-doing for the beloved?",
+   "premises": [
+    "the lamp mantra is thus spoken",
+    "it is all-accomplishment-doing"
+   ],
+   "inference": "The verse says the lamp mantra is thus spoken and accomplishes all for the beloved.",
+   "uncertainties": [
+    "priye as addressee"
+   ],
+   "plain_english": "The lamp mantra is thus spoken, all-accomplishment-doing, O beloved."
+  },
+  {
+   "verse": 687,
+   "rows": [
+    {
+     "surface": "amṛteśīṃ",
+     "gloss": "nectar-lady",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dīpanīñca",
+     "gloss": "lamp",
+     "grounds": "fused sandhi form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūlāmantram",
+     "gloss": "root-mantra",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "noun",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Which root mantra should be taken in order for nectar-lady and lamp?",
+   "premises": [
+    "nectar-lady and lamp are named",
+    "root mantra is also taken in order"
+   ],
+   "inference": "The verse says to take the root mantra in order for nectar-lady and lamp.",
+   "uncertainties": [
+    "fused form dīpanīñca not split"
+   ],
+   "plain_english": "Take the root mantra in order for nectar-lady and lamp also."
+  }
+ ]
+}

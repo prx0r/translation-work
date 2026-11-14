@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "śliṣmā+śru+rudhira+ādi+ukta",
+     "gloss": "phlegm-tear-blood-etc-marked",
+     "grounds": "bahuvrīhi/tatpuruṣa compound qualifying dravyaiḥ; ukta from vac 'spoken/characterized'; internal + mark compound members",
+     "morph": "compound"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "with-substances",
+     "grounds": "instrumental of means/material used in worship",
+     "morph": "n.ins.pl.n"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a hypothetical case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "past passive participle describing Śiva as recipient of worship",
+     "morph": "ppp.nom.sg.m (√pūj)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "Śiva",
+     "grounds": "name of the deity receiving worship",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is worship of Śiva valid when performed with substances characterized as phlegm, tears, and blood?",
+   "premises": [
+    "Certain substances are characterized as phlegm, tears, blood, and similar matter.",
+    "These substances can be considered as materials used in worship.",
+    "Śiva is the intended recipient of worship performed with such substances."
+   ],
+   "inference": "The verse poses the conditional case of Śiva being worshipped with substances marked by phlegm, tears, blood, and the like.",
+   "uncertainties": [
+    "The apodosis or consequence of this condition is not stated in this verse and likely follows in subsequent verses."
+   ],
+   "plain_english": "If Śiva is worshipped with substances characterized as phlegm, tears, blood, and the like..."
+  }
+ ]
+}

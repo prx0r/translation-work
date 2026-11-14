@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "instrumental singular of eka",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kampamaṃśena",
+     "gloss": "trembling-part",
+     "grounds": "compound kampa plus amśa in instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tryaśaṃ",
+     "gloss": "three-part",
+     "grounds": "compound tri plus amśa in accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "instrumental dual of dvi",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "pratirbhavet",
+     "gloss": "should-be",
+     "grounds": "optative third singular of pratirbhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How does a three-part form arise from two parts by one trembling part?",
+   "premises": [
+    "one trembling part acts instrumentally",
+    "a three-part form is the result",
+    "two parts are the source"
+   ],
+   "inference": "a three-part form should arise from two parts through one trembling part",
+   "uncertainties": [
+    "the exact referent of padma is not stated in this verse"
+   ],
+   "plain_english": "By one trembling part, a three-part form should arise from two parts."
+  }
+ ]
+}

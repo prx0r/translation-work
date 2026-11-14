@@ -1,0 +1,323 @@
+{
+ "song": "sva-p48",
+ "items": [
+  {
+   "verse": 1182,
+   "rows": [
+    {
+     "surface": "ūrdhvam",
+     "gloss": "upward",
+     "grounds": "adverb of direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaikya",
+     "gloss": "shiva-unity",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāpti",
+     "gloss": "attainment",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣām",
+     "gloss": "these",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ūrdhvagati",
+     "gloss": "upward-going",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is assigned to upward-going of these?",
+   "premises": [
+    "ūrdhvam means upward",
+    "śivaikya prāpti is attainment of shiva-unity",
+    "ūrdhvagati is upward-going"
+   ],
+   "inference": "The verse states that upward-going means attainment of shiva-unity.",
+   "uncertainties": [],
+   "plain_english": "Upward means attainment of shiva-unity; this is the meaning of their upward-going."
+  },
+  {
+   "verse": 1183,
+   "rows": [
+    {
+     "surface": "māyīyam",
+     "gloss": "māyic",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghore",
+     "gloss": "terrible",
+     "grounds": "masculine locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhedamaye",
+     "gloss": "difference-filled",
+     "grounds": "masculine locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "atidāruṇe",
+     "gloss": "very-cruel",
+     "grounds": "masculine locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "duḥkhabahale",
+     "gloss": "pain-abundant",
+     "grounds": "masculine locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What qualities describe the māyic realm?",
+   "premises": [
+    "māyīyam is māyic",
+    "ghore means terrible",
+    "bhedamaye means difference-filled"
+   ],
+   "inference": "The māyic realm is terrible, difference-filled, very cruel, and pain-abundant.",
+   "uncertainties": [],
+   "plain_english": "The māyic realm is terrible, difference-filled, very cruel, and abundant in pain."
+  },
+  {
+   "verse": 1184,
+   "rows": [
+    {
+     "surface": "trirūpaṃ",
+     "gloss": "three-formed",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guṇatattvaṃ",
+     "gloss": "quality-principle",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jātam",
+     "gloss": "born",
+     "grounds": "neuter nominative singular past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the three-formed quality-principle?",
+   "premises": [
+    "trirūpaṃ means three-formed",
+    "guṇatattvaṃ means quality-principle",
+    "jātam means born"
+   ],
+   "inference": "The verse states that the three-formed quality-principle is born.",
+   "uncertainties": [],
+   "plain_english": "The three-formed quality-principle is born; this is the meaning."
+  },
+  {
+   "verse": 1185,
+   "rows": [
+    {
+     "surface": "sattvaguṇa",
+     "gloss": "sattva-quality",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇeṣu",
+     "gloss": "in-qualities",
+     "grounds": "masculine locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is said about those situated in qualities?",
+   "premises": [
+    "sattvaguṇa rūpam is sattva-quality form",
+    "guṇeṣu means in qualities",
+    "sthitāḥ means situated"
+   ],
+   "inference": "Those situated in qualities are described through sattva-quality form.",
+   "uncertainties": [],
+   "plain_english": "Sattva-quality form; those situated in qualities."
+  },
+  {
+   "verse": 1186,
+   "rows": [
+    {
+     "surface": "ṣaḍviṃśakam",
+     "gloss": "twenty-sixth",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īśvararūpaṃ",
+     "gloss": "īśvara-form",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "state",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogaśāstre",
+     "gloss": "in-yoga-śāstra",
+     "grounds": "neuter locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daśītam",
+     "gloss": "shown",
+     "grounds": "neuter nominative singular past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is shown in the yoga-śāstra?",
+   "premises": [
+    "ṣaḍviṃśakam means twenty-sixth",
+    "īśvararūpaṃ means īśvara-form",
+    "paramaṃ padaṃ means supreme state"
+   ],
+   "inference": "The yoga-śāstra shows the twenty-sixth īśvara-form as the supreme state.",
+   "uncertainties": [],
+   "plain_english": "In the yoga-śāstra the twenty-sixth īśvara-form is shown as the supreme state."
+  },
+  {
+   "verse": 1187,
+   "rows": [
+    {
+     "surface": "vrataviśeṣā",
+     "gloss": "vow-specialties",
+     "grounds": "feminine nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "spoken",
+     "grounds": "feminine nominative plural past participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyātattvam",
+     "gloss": "māyā-principle",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is said about vow-specialties and māyā-principle?",
+   "premises": [
+    "vrataviśeṣā uktā means vow-specialties spoken",
+    "māyātattvam eva means māyā-principle indeed",
+    "tatra paramaṃ padam means there supreme state"
+   ],
+   "inference": "Vow-specialties are spoken; the māyā-principle is indeed the supreme state there.",
+   "uncertainties": [],
+   "plain_english": "Vow-specialties are spoken; the māyā-principle is indeed the supreme state there."
+  }
+ ]
+}

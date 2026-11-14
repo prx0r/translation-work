@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p275",
+ "items": [
+  {
+   "verse": 6875,
+   "rows": [
+    {
+     "surface": "bibhratīṃ",
+     "gloss": "bearing",
+     "grounds": "present participle describing the goddess as holding or bearing attributes",
+     "morph": "f.acc.sg-pres.part-act-bhṛ"
+    },
+    {
+     "surface": "padma+madhyāsīnāṃ",
+     "gloss": "seated-in-lotus-center",
+     "grounds": "compound describing her posture as seated in the middle of a lotus",
+     "morph": "compound:padma+ madhya+ āsīnā-f.acc.sg"
+    },
+    {
+     "surface": "madālasām",
+     "gloss": "languid-with-intoxication",
+     "grounds": "adjective describing her state as relaxed or languid from intoxication",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What posture and affective state characterize the goddess in this visualization?",
+   "premises": [
+    "The goddess is described as bearing attributes.",
+    "She is seated in the center of a lotus.",
+    "She is characterized by a languid, intoxicated state."
+   ],
+   "inference": "The envisioned goddess combines a stable lotus-seated posture with a bearing presence and a languid, intoxicated affect.",
+   "uncertainties": [
+    "The specific objects being borne are not named in this verse."
+   ],
+   "plain_english": "She is bearing her attributes, seated in the middle of a lotus, and languid with intoxication."
+  }
+ ]
+}

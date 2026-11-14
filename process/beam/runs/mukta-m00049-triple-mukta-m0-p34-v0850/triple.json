@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "pūjā+samāpti+paryantam",
+     "gloss": "worship-completion-until",
+     "grounds": "compound indicating the limit of time, up to the end of worship",
+     "morph": "pūjā+samāpti+paryantam (cpd.acc.sg.nt, adverbial)"
+    },
+    {
+     "surface": "arghya+pātraṃ",
+     "gloss": "offering-vessel",
+     "grounds": "object of the prohibition; vessel holding the arghya water",
+     "morph": "arghya+pātraṃ (cpd.acc.sg.nt)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle prohibiting the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cālayet",
+     "gloss": "should-move",
+     "grounds": "prescribes the prohibited action regarding the vessel",
+     "morph": "3.sg.opt.act (√cal)"
+    }
+   ],
+   "question": "For how long must the arghya vessel remain unmoved during the ritual sequence?",
+   "premises": [
+    "The ritual period extends until the completion of worship.",
+    "The arghya vessel is present as a ritual object during this period.",
+    "The prescribed rule prohibits moving the arghya vessel."
+   ],
+   "inference": "Therefore, the arghya vessel must remain unmoved until the worship is completed.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should not move the arghya vessel until the completion of the worship."
+  }
+ ]
+}

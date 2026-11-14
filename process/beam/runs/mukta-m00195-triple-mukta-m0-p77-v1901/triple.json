@@ -1,0 +1,924 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "kaniṣṭhā",
+     "gloss": "little-finger",
+     "grounds": "names the little finger as part of the hand gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmikā",
+     "gloss": "ring-finger",
+     "grounds": "names the ring finger as part of the hand gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṃguṣṭha",
+     "gloss": "thumb",
+     "grounds": "names the thumb as part of the hand gesture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "joining",
+     "grounds": "denotes the joining of the named fingers",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇasya",
+     "gloss": "vital-breath",
+     "grounds": "specifies the breath to which the seal applies",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mudrikā",
+     "gloss": "seal",
+     "grounds": "identifies the finger combination as a ritual seal",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which finger combination constitutes the ritual seal for the prāṇa breath?",
+   "premises": [
+    "The little finger, ring finger, and thumb are named together.",
+    "Their joining forms a seal.",
+    "This seal is associated with prāṇa."
+   ],
+   "inference": "Joining the little finger, ring finger, and thumb forms the prāṇa seal.",
+   "uncertainties": [],
+   "plain_english": "The joining of the little finger, ring finger, and thumb forms the seal for the prāṇa breath."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "svāhāntam",
+     "gloss": "ending-with-svāhā",
+     "grounds": "describes a formula ending with the syllable svāhā",
+     "morph": "svāhā+anta compound, n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks the next step in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyānāya",
+     "gloss": "for-vyāna-breath",
+     "grounds": "specifies the breath addressed by the formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates subsequent action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-utter",
+     "grounds": "instructs the practitioner to utter the formula",
+     "morph": "3.sg.act.optative √vad"
+    }
+   ],
+   "question": "What formula should be uttered next for the vyāna breath?",
+   "premises": [
+    "A formula ending with svāhā is indicated.",
+    "The formula is directed to vyāna.",
+    "The practitioner is instructed to utter it."
+   ],
+   "inference": "One should then utter a formula ending with svāhā for the vyāna breath.",
+   "uncertainties": [],
+   "plain_english": "Then one should utter a formula ending with svāhā for the vyāna breath."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāṃ",
+     "gloss": "little-finger",
+     "grounds": "names the little finger as the object of the gesture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvābhiḥ",
+     "gloss": "with-all-fingers",
+     "grounds": "indicates joining the little finger with all other fingers",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "udānāya",
+     "gloss": "for-udāna-breath",
+     "grounds": "specifies the breath addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "agnigehinī",
+     "gloss": "fire-consort",
+     "grounds": "epithet of svāhā, the consort of fire, completing the formula",
+     "morph": "agni+gehinī compound, f.nom.sg"
+    }
+   ],
+   "question": "What gesture and formula are prescribed for the udāna breath?",
+   "premises": [
+    "The little finger is joined with all fingers.",
+    "The gesture is directed to udāna.",
+    "The formula invokes the consort of fire."
+   ],
+   "inference": "For udāna, join the little finger with all fingers and utter the formula invoking the fire-consort.",
+   "uncertainties": [],
+   "plain_english": "For the udāna breath, join the little finger with all the fingers and utter the formula invoking the consort of fire."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "svarṇādije",
+     "gloss": "gold-born-etc",
+     "grounds": "describes a vessel made of gold or similar materials",
+     "morph": "svarṇa+ādi+ja compound, n.loc.sg"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "vessel",
+     "grounds": "the container for the water",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sutoyaṃ",
+     "gloss": "good-water",
+     "grounds": "specifies pure or good water as the contents",
+     "morph": "su+toya compound, n.acc.sg"
+    },
+    {
+     "surface": "dhenumudrayā",
+     "gloss": "with-cow-seal",
+     "grounds": "indicates the ritual seal used while preparing the water",
+     "morph": "dhenu+mudrā compound, f.inst.sg"
+    }
+   ],
+   "question": "How should water be prepared in a vessel using the cow seal?",
+   "premises": [
+    "A vessel made of gold or similar material is used.",
+    "Good water is placed in it.",
+    "The cow seal is applied."
+   ],
+   "inference": "Good water should be placed in a gold or similar vessel using the cow seal.",
+   "uncertainties": [],
+   "plain_english": "Place good water in a vessel made of gold or the like, using the cow seal."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "suśītalam",
+     "gloss": "very-cool",
+     "grounds": "qualifies the water as very cool",
+     "morph": "su+śītala compound, n.acc.sg"
+    }
+   ],
+   "question": "What quality must the prepared ritual water possess?",
+   "premises": [
+    "The water is described as very cool."
+   ],
+   "inference": "The prepared water must be very cool.",
+   "uncertainties": [],
+   "plain_english": "The water should be very cool."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "jalapātraṃ",
+     "gloss": "water-vessel",
+     "grounds": "the vessel containing the water",
+     "morph": "jala+pātra compound, n.acc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-place",
+     "grounds": "instructs the practitioner to place the vessel",
+     "morph": "3.sg.act.optative causative √viś"
+    }
+   ],
+   "question": "What action should be taken with the prepared water vessel?",
+   "premises": [
+    "A water vessel has been prepared.",
+    "The practitioner is instructed to place it."
+   ],
+   "inference": "The water vessel should be placed in position.",
+   "uncertainties": [],
+   "plain_english": "One should place the water vessel in position."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "ghṛtapakvaṃ",
+     "gloss": "ghee-cooked",
+     "grounds": "describes food cooked in ghee",
+     "morph": "ghṛta+pakva compound, n.acc.sg"
+    },
+    {
+     "surface": "dugdhasiddhaṃ",
+     "gloss": "milk-prepared",
+     "grounds": "describes food prepared with milk",
+     "morph": "dugdha+siddha compound, n.acc.sg"
+    },
+    {
+     "surface": "sādhitaṃ",
+     "gloss": "accomplished",
+     "grounds": "indicates the food is properly prepared",
+     "morph": "n.acc.sg past-participle √sādh"
+    },
+    {
+     "surface": "kevalāgninā",
+     "gloss": "by-pure-fire",
+     "grounds": "specifies that it is cooked by fire alone",
+     "morph": "kevala+agni compound, m.inst.sg"
+    }
+   ],
+   "question": "What kind of food preparation is required for the ritual offering?",
+   "premises": [
+    "The food is cooked in ghee.",
+    "The food is prepared with milk.",
+    "It is accomplished by pure fire alone."
+   ],
+   "inference": "The offering should be food cooked in ghee and milk, prepared by pure fire alone.",
+   "uncertainties": [],
+   "plain_english": "The offering should be food cooked in ghee and prepared with milk, accomplished by pure fire alone."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "flower-offering",
+     "grounds": "a handful of flowers offered in worship",
+     "morph": "puṣpa+añjali compound, m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "instructs the practitioner to offer",
+     "morph": "3.sg.act.optative √dā"
+    },
+    {
+     "surface": "astramantreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "specifies the mantra used during the offering",
+     "morph": "astra+mantra compound, m.inst.sg"
+    },
+    {
+     "surface": "bandhanam",
+     "gloss": "binding",
+     "grounds": "indicates a protective binding act",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering and protective act accompany the weapon mantra?",
+   "premises": [
+    "A flower offering is to be given.",
+    "The weapon mantra is used.",
+    "A binding act is performed."
+   ],
+   "inference": "One should give a flower offering and perform binding with the weapon mantra.",
+   "uncertainties": [],
+   "plain_english": "One should offer a handful of flowers and perform the binding with the weapon mantra."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "amṛtātmakanaivedyaṃ",
+     "gloss": "nectar-natured-offering",
+     "grounds": "describes the food offering as having the nature of nectar",
+     "morph": "amṛta+ātmaka+naivedya compound, n.acc.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "reverential utterance in the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the end of the quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaretpunaḥ",
+     "gloss": "should-utter-again",
+     "grounds": "instructs the practitioner to utter the formula again",
+     "morph": "uccaret+punaḥ, 3.sg.act.optative √car + (indecl.)"
+    }
+   ],
+   "question": "How should the nectar-natured food offering be verbally presented?",
+   "premises": [
+    "The offering is conceived as nectar-natured.",
+    "The word namaḥ is used.",
+    "The formula is to be uttered again."
+   ],
+   "inference": "One should again utter the formula presenting the nectar-natured offering with homage.",
+   "uncertainties": [],
+   "plain_english": "One should again utter the formula, presenting the nectar-natured offering with the word 'namaḥ'."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "hundred-eight",
+     "grounds": "specifies the number of repetitions",
+     "morph": "aṣṭa+uttara+śata compound, n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "indicates completion of mantra repetition",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "the primary mantra to be chanted",
+     "morph": "mūla+mantra compound, m.acc.sg"
+    },
+    {
+     "surface": "dadejjalam",
+     "gloss": "should-give-water",
+     "grounds": "instructs offering water after chanting",
+     "morph": "dadet+jalam, 3.sg.act.optative √dā + n.acc.sg"
+    }
+   ],
+   "question": "What ritual actions follow chanting the root mantra one hundred eight times?",
+   "premises": [
+    "The root mantra is chanted one hundred eight times.",
+    "After chanting, water is to be given."
+   ],
+   "inference": "After chanting the root mantra one hundred eight times, one should offer water.",
+   "uncertainties": [],
+   "plain_english": "Having chanted the root mantra one hundred and eight times, one should offer water."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates following the previously described method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "purified",
+     "grounds": "describes the fire as ritually prepared",
+     "morph": "m.loc.sg past-participle √kṛ with sam"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "the ritual fire into which offerings are made",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devam",
+     "gloss": "deity",
+     "grounds": "the deity to be invoked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "indicates invocation of the deity",
+     "morph": "absolutive √vah with ā"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "the practitioner skilled in mantras",
+     "morph": "mantra+vid compound, m.nom.sg"
+    }
+   ],
+   "question": "What must the mantra-knower do in the purified fire as before?",
+   "premises": [
+    "The fire is purified as before.",
+    "The deity is to be invoked.",
+    "The mantra-knower performs the action."
+   ],
+   "inference": "The mantra-knower, in the purified fire as before, should invoke the deity.",
+   "uncertainties": [],
+   "plain_english": "As before, in the purified fire, the mantra-knower should invoke the deity."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "haviṣā",
+     "gloss": "with-oblation",
+     "grounds": "one possible offering substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tilairvā",
+     "gloss": "or-with-sesame",
+     "grounds": "alternative offering of sesame seeds",
+     "morph": "tilaiḥ+vā, m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "pāyasaiḥ",
+     "gloss": "with-rice-puddings",
+     "grounds": "alternative offering of rice pudding",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "qualifies the offerings as auspicious",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which auspicious substances may be used for the oblation in the fire?",
+   "premises": [
+    "Oblation, sesame, or rice pudding may be used.",
+    "These substances are described as auspicious."
+   ],
+   "inference": "Auspicious oblation, sesame, or rice pudding may be offered in the fire.",
+   "uncertainties": [],
+   "plain_english": "One may offer auspicious oblation, or sesame seeds, or rice puddings."
+  },
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "aṅgāvaraṇadevānām",
+     "gloss": "limb-enclosure-deities",
+     "grounds": "the deities of the limbs and enclosures",
+     "morph": "aṅga+āvaraṇa+deva compound, m.gen.pl"
+    },
+    {
+     "surface": "ekaikām",
+     "gloss": "one-by-one",
+     "grounds": "indicates a separate offering for each",
+     "morph": "eka+eka compound, f.acc.sg"
+    },
+    {
+     "surface": "āhutiṃ",
+     "gloss": "oblation",
+     "grounds": "the offering poured into the fire",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "instructs the practitioner to make the oblation",
+     "morph": "3.sg.act.optative √hu"
+    }
+   ],
+   "question": "How should oblations be made to the limb and enclosure deities?",
+   "premises": [
+    "The recipients are the limb and enclosure deities.",
+    "Oblations are to be made one by one."
+   ],
+   "inference": "One should offer an oblation one by one to each of the limb and enclosure deities.",
+   "uncertainties": [],
+   "plain_english": "One should offer an oblation one by one to each of the limb and enclosure deities."
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "upaviśyāsane",
+     "gloss": "having-sat-on-seat",
+     "grounds": "indicates the practitioner sits on a seat",
+     "morph": "upaviśya+āsane, absolutive √viś with upa + n.loc.sg"
+    },
+    {
+     "surface": "mantrair",
+     "gloss": "with-mantras",
+     "grounds": "specifies that mantras accompany the action",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "instructs the practitioner to give the offering",
+     "morph": "3.sg.act.optative √dā"
+    },
+    {
+     "surface": "bhūtabaliṃ",
+     "gloss": "elemental-offering",
+     "grounds": "an offering made to beings or elements",
+     "morph": "bhūta+bali compound, m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step in the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering should be given with mantras after sitting on the seat?",
+   "premises": [
+    "The practitioner sits on a seat.",
+    "Mantras are used.",
+    "An elemental offering is to be given."
+   ],
+   "inference": "After sitting on the seat, one should give the elemental offering with mantras.",
+   "uncertainties": [],
+   "plain_english": "Then, having sat on the seat, one should give the elemental offering with mantras."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "indicates completion of worship",
+     "morph": "absolutive √pūj with sam"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tebhyaḥ",
+     "gloss": "to-them",
+     "grounds": "refers to the recipients of the offering",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "the offering to be presented",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "should-present",
+     "grounds": "instructs the practitioner to present the offering",
+     "morph": "3.sg.act.optative √hṛ"
+    }
+   ],
+   "question": "What should be done with the offering after worshipping the recipients?",
+   "premises": [
+    "The recipients have been worshipped.",
+    "An offering is to be presented to them."
+   ],
+   "inference": "After worshipping them, one should present the offering to them.",
+   "uncertainties": [],
+   "plain_english": "Then, having worshipped them, one should present the offering to them."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "yoginyo",
+     "gloss": "yoginīs",
+     "grounds": "invokes the yoginīs as recipients",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "includes additional recipients",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnirūpāśca",
+     "gloss": "and-fire-formed",
+     "grounds": "describes some recipients as having the form of fire",
+     "morph": "agni+rūpa compound, f.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "gaṇānām",
+     "gloss": "of-hosts",
+     "grounds": "refers to the hosts or groups of deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhipāśca",
+     "gloss": "and-lords",
+     "grounds": "invokes the lords of the hosts",
+     "morph": "m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "aye",
+     "gloss": "o",
+     "grounds": "vocative particle addressing the recipients",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which beings are addressed to receive the ritual offering?",
+   "premises": [
+    "Yoginīs are addressed.",
+    "Fire-formed beings are included.",
+    "Lords of the hosts are addressed."
+   ],
+   "inference": "The yoginīs, fire-formed beings, and lords of the hosts are addressed as recipients.",
+   "uncertainties": [],
+   "plain_english": "O yoginīs, fire-formed ones, and lords of the hosts."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "prītamanaso",
+     "gloss": "pleased-minded",
+     "grounds": "describes the recipients as pleased in mind",
+     "morph": "prīta+manas compound, m.nom.pl"
+    },
+    {
+     "surface": "bhūtā",
+     "gloss": "beings",
+     "grounds": "the beings addressed to accept the offering",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gṛhṇantu",
+     "gloss": "may-accept",
+     "grounds": "requests the beings to accept the offering",
+     "morph": "3.pl.act.imperative √grah"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "points to the present offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "the offering to be accepted",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What request is made to the pleased beings regarding the offering?",
+   "premises": [
+    "The beings are described as pleased in mind.",
+    "They are asked to accept the offering."
+   ],
+   "inference": "The pleased beings are requested to accept this offering.",
+   "uncertainties": [],
+   "plain_english": "May the pleased-minded beings accept this offering."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "smādāya",
+     "gloss": "having-taken",
+     "grounds": "indicates the beings taking the offering",
+     "morph": "absolutive √dā with sam+ā"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "the beings who receive the offering",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "prārthayediti",
+     "gloss": "should-pray-thus",
+     "grounds": "instructs the practitioner to pray in this manner",
+     "morph": "prārthayet+iti, 3.sg.act.optative √arth with pra + (indecl.)"
+    }
+   ],
+   "question": "How should the practitioner pray to the beings receiving the offering?",
+   "premises": [
+    "The beings take the offering.",
+    "The practitioner is instructed to pray accordingly."
+   ],
+   "inference": "The practitioner should pray that the beings take the offering.",
+   "uncertainties": [
+    "The exact syntactic role of smādāya is slightly unclear in this compressed form."
+   ],
+   "plain_english": "One should pray thus, that the beings take the offering."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "nārācamudrayā",
+     "gloss": "with-nārāca-seal",
+     "grounds": "specifies the ritual seal used for dismissal",
+     "morph": "nārāca+mudrā compound, f.inst.sg"
+    },
+    {
+     "surface": "visṛjet",
+     "gloss": "should-release",
+     "grounds": "instructs the practitioner to dismiss or release",
+     "morph": "3.sg.act.optative √sṛj with vi"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step in the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What seal is used to release the invoked presence afterward?",
+   "premises": [
+    "The nārāca seal is employed.",
+    "A release action is performed."
+   ],
+   "inference": "One should then release using the nārāca seal.",
+   "uncertainties": [],
+   "plain_english": "Then one should release with the nārāca seal."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "rakṣodigbhāge",
+     "gloss": "in-rakṣas-direction",
+     "grounds": "specifies the direction associated with rakṣas",
+     "morph": "rakṣas+diś+bhāga compound, m.loc.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "the vessel to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the previously mentioned vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "instructs the practitioner to place the vessel",
+     "morph": "3.sg.act.optative causative √sthā"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should that vessel be placed after the release?",
+   "premises": [
+    "A specific vessel is to be placed.",
+    "The location is the direction of the rakṣas."
+   ],
+   "inference": "That vessel should then be placed in the direction of the rakṣas.",
+   "uncertainties": [],
+   "plain_english": "Then one should place that vessel in the direction of the rakṣas."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "indicates taking the vessel or offering",
+     "morph": "absolutive √grah"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmālyabhojine",
+     "gloss": "to-remnant-eater",
+     "grounds": "the recipient who consumes ritual remnants",
+     "morph": "nirmālya+bhojin compound, m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "reverential utterance addressed to the recipient",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is homage offered when taking the ritual remnants?",
+   "premises": [
+    "The practitioner takes something in hand.",
+    "Homage is directed to the eater of remnants."
+   ],
+   "inference": "Having taken it, one offers homage to the eater of ritual remnants.",
+   "uncertainties": [],
+   "plain_english": "Having taken it, one offers homage to the eater of the ritual remnants."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates repetition of a ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āmacamanaṃ",
+     "gloss": "sipping-water",
+     "grounds": "ritual sipping of water for purification",
+     "morph": "ā+ācamana compound, n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "instructs the practitioner to offer the sipping water",
+     "morph": "3.sg.act.optative √dā"
+    },
+    {
+     "surface": "karodvartaname",
+     "gloss": "hand-rubbing",
+     "grounds": "ritual rubbing or cleansing of the hands",
+     "morph": "kara+udvartana compound, n.acc.sg"
+    },
+    {
+     "surface": "vaca",
+     "gloss": "vaca",
+     "grounds": "names the substance vaca used in the hand-rubbing",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What further purification acts involving water and vaca should be performed?",
+   "premises": [
+    "Sipping water is to be given again.",
+    "Hand-rubbing with vaca is to be performed."
+   ],
+   "inference": "One should again offer sipping water and perform hand-rubbing with vaca.",
+   "uncertainties": [
+    "The exact syntactic relation of vaca to karodvartaname is slightly compressed."
+   ],
+   "plain_english": "Again one should offer sipping water and perform hand-rubbing with vaca."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "betel offering presented in worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viṣṇave",
+     "gloss": "to-viṣṇu",
+     "grounds": "specifies Viṣṇu as the recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dvādaśāṅgakam",
+     "gloss": "twelve-limbed",
+     "grounds": "describes the betel offering as having twelve components",
+     "morph": "dvādaśa+aṅgaka compound, n.acc.sg"
+    }
+   ],
+   "question": "What kind of betel offering is presented to Viṣṇu?",
+   "premises": [
+    "Betel is offered.",
+    "The recipient is Viṣṇu.",
+    "The offering is described as twelve-limbed."
+   ],
+   "inference": "A twelve-limbed betel offering should be presented to Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "One should present a twelve-limbed betel offering to Viṣṇu."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "jāvitrīkastūrikeśarairyutam",
+     "gloss": "joined-with-mace-musk-saffron",
+     "grounds": "describes the offering as combined with mace, musk, and saffron",
+     "morph": "jāvitrī+kastūrikā+keśara compound + yuta, n.acc.sg"
+    }
+   ],
+   "question": "Which aromatic ingredients accompany the previously mentioned offering?",
+   "premises": [
+    "The offering is joined with mace, musk, and saffron."
+   ],
+   "inference": "The offering is accompanied by mace, musk, and saffron.",
+   "uncertainties": [],
+   "plain_english": "It is joined with mace, musk, and saffron."
+  }
+ ]
+}

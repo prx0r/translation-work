@@ -1,0 +1,545 @@
+{
+ "song": "kul-p49",
+ "items": [
+  {
+   "verse": 1201,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīcakramadhye",
+     "gloss": "in-śrī-cakra-middle",
+     "grounds": "śrī-cakra-madhye",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "madhye",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "remember",
+     "grounds": "saṃsmaret",
+     "morph": "3.sg.act-opt + smṛ"
+    },
+    {
+     "surface": "sarvadevatāḥ",
+     "gloss": "all-deities",
+     "grounds": "sarva-devatāḥ",
+     "morph": "acc.pl.f"
+    }
+   ],
+   "question": "Why should all deities be remembered in the śrī-cakra middle?",
+   "premises": [
+    "tasmāt indicates consequence",
+    "śrīcakramadhye locates the middle",
+    "sarvadevatāḥ are remembered"
+   ],
+   "inference": "The verse directs remembrance of all deities in the śrī-cakra middle.",
+   "uncertainties": [
+    "exact ritual context not given"
+   ],
+   "plain_english": "Therefore, in the middle of the śrī-cakra, one should remember all the deities."
+  },
+  {
+   "verse": 1202,
+   "rows": [
+    {
+     "surface": "anugrahantu",
+     "gloss": "may-they-grace",
+     "grounds": "anugrahantu",
+     "morph": "3.pl.act-imp + anugrah"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-speak",
+     "grounds": "vakṣyāmi",
+     "morph": "1.sg.act-fut + vac"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "śṛṇu",
+     "morph": "2.sg.act-imp + śru"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "devi",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "yathā-kramam",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What will be spoken in order for the goddess?",
+   "premises": [
+    "vakṣyāmi states speaking",
+    "śṛṇu commands listening",
+    "yathākramam sets order"
+   ],
+   "inference": "The speaker promises to explain the ordered practice to the goddess.",
+   "uncertainties": [
+    "who speaks is not explicit"
+   ],
+   "plain_english": "May they grace; I will speak, listen, O goddess, in order."
+  },
+  {
+   "verse": 1203,
+   "rows": [
+    {
+     "surface": "śucidravyasamāyuktaṃ",
+     "gloss": "joined-with-pure-substances",
+     "grounds": "śuci-dravya-samāyuktam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "samāyuktam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "cakrapūjāsamanvitam",
+     "gloss": "endowed-with-cakra-worship",
+     "grounds": "cakra-pūjā-samanvitam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "samanvitam",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is joined with pure substances and cakra worship?",
+   "premises": [
+    "śucidravyasamāyuktaṃ names pure substances",
+    "cakrapūjāsamanvitam names cakra worship",
+    "both modify an implied object"
+   ],
+   "inference": "The verse describes something joined with pure substances and endowed with cakra worship.",
+   "uncertainties": [
+    "the implied object is not stated"
+   ],
+   "plain_english": "Joined with pure substances and endowed with cakra worship."
+  },
+  {
+   "verse": 1204,
+   "rows": [
+    {
+     "surface": "prapūjayecca",
+     "gloss": "and-worship",
+     "grounds": "prapūjayet-ca",
+     "morph": "3.sg.act-opt + prapūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇasthāḥ",
+     "gloss": "varṇa-seated",
+     "grounds": "varṇa-sthāḥ",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitāḥ",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "sarva-ābharaṇa-bhūṣitāḥ",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "bhūṣitāḥ",
+     "gloss": "adorned",
+     "grounds": "bhūṣitāḥ",
+     "morph": "acc.pl.f"
+    }
+   ],
+   "question": "Who is worshipped while adorned with all ornaments?",
+   "premises": [
+    "prapūjayecca commands worship",
+    "varṇasthāḥ are varṇa-seated",
+    "sarvābharaṇabhūṣitāḥ are adorned"
+   ],
+   "inference": "The verse commands worship of varṇa-seated deities adorned with all ornaments.",
+   "uncertainties": [
+    "whether ca is separate or sandhi is editorial"
+   ],
+   "plain_english": "And worship the varṇa-seated ones, adorned with all ornaments."
+  },
+  {
+   "verse": 1205,
+   "rows": [
+    {
+     "surface": "pāyasājyaudanairyuktairnaivedyairbhaktisaṃyutaiḥ",
+     "gloss": "with-offerings-of-pāyasa-ghee-rice-and-devotion",
+     "grounds": "pāyasa-ājya-odana-yuktaiḥ naivedyaiḥ bhakti-saṃyutaiḥ",
+     "morph": "ins.pl.n"
+    },
+    {
+     "surface": "naivedyaiḥ",
+     "gloss": "with-offerings",
+     "grounds": "naivedyaiḥ",
+     "morph": "ins.pl.n"
+    },
+    {
+     "surface": "bhaktisaṃyutaiḥ",
+     "gloss": "with-devotion",
+     "grounds": "bhakti-saṃyutaiḥ",
+     "morph": "ins.pl.n"
+    }
+   ],
+   "question": "What offerings are joined with devotion?",
+   "premises": [
+    "pāyasājyaudanairyuktair names pāyasa ghee rice",
+    "naivedyaiḥ names offerings",
+    "bhaktisaṃyutaiḥ names devotion"
+   ],
+   "inference": "The verse describes offerings of pāyasa, ghee, and rice joined with devotion.",
+   "uncertainties": [
+    "the fused token is not split in output"
+   ],
+   "plain_english": "With offerings of pāyasa, ghee, and rice, joined with devotion."
+  },
+  {
+   "verse": 1206,
+   "rows": [
+    {
+     "surface": "hasakha",
+     "gloss": "hasakha",
+     "grounds": "hasakha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phreṃ",
+     "gloss": "phreṃ",
+     "grounds": "phreṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hesauṃ(hsauṃ",
+     "gloss": "hesauṃ",
+     "grounds": "hesauṃ(hsauṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍāṃ",
+     "gloss": "ḍāṃ",
+     "grounds": "ḍāṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍīṃ",
+     "gloss": "ḍīṃ",
+     "grounds": "ḍīṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍamalavarayūṃ",
+     "gloss": "ḍamalavarayūṃ",
+     "grounds": "ḍamalavarayūṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "tataḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows the mantra syllables?",
+   "premises": [
+    "hasakha begins the list",
+    "phreṃ hesauṃ ḍāṃ ḍīṃ ḍamalavarayūṃ are syllables",
+    "tataḥ means then"
+   ],
+   "inference": "The verse lists mantra syllables and then moves on.",
+   "uncertainties": [
+    "syllable meanings are not translated"
+   ],
+   "plain_english": "Hasakha, phreṃ, hesauṃ, ḍāṃ, ḍīṃ, ḍamalavarayūṃ; then..."
+  },
+  {
+   "verse": 1207,
+   "rows": [
+    {
+     "surface": "saṅkalpya",
+     "gloss": "having-resolved",
+     "grounds": "saṅkalpya",
+     "morph": "abs + saṅkalp"
+    },
+    {
+     "surface": "manaso'bhīṣṭaṃ",
+     "gloss": "mind-desired",
+     "grounds": "manas-a-abhīṣṭam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "abhīṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "abhīṣṭam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "madhuratritayaḥ",
+     "gloss": "sweet-triad",
+     "grounds": "madhura-tritayaḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "priye",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is resolved in the mind as desired?",
+   "premises": [
+    "saṅkalpya means having resolved",
+    "manaso'bhīṣṭaṃ names mind-desired",
+    "madhuratritayaḥ names sweet triad"
+   ],
+   "inference": "The verse speaks of resolving a desired object in the mind, with a sweet triad, beloved.",
+   "uncertainties": [
+    "the exact desired object is not explicit"
+   ],
+   "plain_english": "Having resolved the mind's desired object, O beloved, with the sweet triad."
+  },
+  {
+   "verse": 1208,
+   "rows": [
+    {
+     "surface": "pūjayitvepsitān",
+     "gloss": "having-worshipped-desired",
+     "grounds": "pūjayitvā-ipsitān",
+     "morph": "abs + pūj"
+    },
+    {
+     "surface": "ipsitān",
+     "gloss": "desired",
+     "grounds": "ipsitān",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "kāmān",
+     "gloss": "wishes",
+     "grounds": "kāmān",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "pray",
+     "grounds": "prārthayet",
+     "morph": "3.sg.act-opt + prārth"
+    },
+    {
+     "surface": "kamalānane",
+     "gloss": "lotus-faced",
+     "grounds": "kamala-ānane",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is prayed for after worshipping desired wishes?",
+   "premises": [
+    "pūjayitvepsitān means having worshipped desired",
+    "kāmān means wishes",
+    "prārthayet means pray"
+   ],
+   "inference": "The verse says to pray after worshipping the desired wishes, O lotus-faced one.",
+   "uncertainties": [
+    "the exact prayer content is not stated"
+   ],
+   "plain_english": "Having worshipped the desired wishes, one should pray, O lotus-faced one."
+  },
+  {
+   "verse": 1209,
+   "rows": [
+    {
+     "surface": "ātmanaśca",
+     "gloss": "of-self-and",
+     "grounds": "ātmanaḥ-ca",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parasyāpi",
+     "gloss": "of-other-also",
+     "grounds": "parasya-api",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "rakṣārthaṃ",
+     "gloss": "for-protection",
+     "grounds": "rakṣā-artham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "pūjayet",
+     "morph": "3.sg.act-opt + pūj"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "priye",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "For whose protection is worship performed?",
+   "premises": [
+    "ātmanaśca means of self and",
+    "parasyāpi means of other also",
+    "rakṣārthaṃ means for protection"
+   ],
+   "inference": "The verse directs worship for the protection of oneself and others.",
+   "uncertainties": [
+    "the object of worship is not explicit"
+   ],
+   "plain_english": "For the protection of oneself and others also, worship, O beloved."
+  },
+  {
+   "verse": 1210,
+   "rows": [
+    {
+     "surface": "vaśyārthaṃ",
+     "gloss": "for-subjugation",
+     "grounds": "vaśya-artham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṅgalārthañca",
+     "gloss": "and-for-auspiciousness",
+     "grounds": "maṅgala-artham-ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmakarmārthasiddhaye",
+     "gloss": "for-success-of-dharma-and-karma",
+     "grounds": "dharma-karma-artha-siddhaye",
+     "morph": "dat.sg.f"
+    }
+   ],
+   "question": "For what purposes are these rites performed?",
+   "premises": [
+    "vaśyārthaṃ means for subjugation",
+    "maṅgalārthañca means and for auspiciousness",
+    "dharmakarmārthasiddhaye means for success of dharma and karma"
+   ],
+   "inference": "The verse lists subjugation, auspiciousness, and success of dharma and karma as purposes.",
+   "uncertainties": [
+    "the rites themselves are not named"
+   ],
+   "plain_english": "For subjugation, for auspiciousness, and for success of dharma and karma."
+  },
+  {
+   "verse": 1211,
+   "rows": [
+    {
+     "surface": "ekaviṃśadinānyatra",
+     "gloss": "twenty-one-days-there",
+     "grounds": "ekaviṃśa-dināni-atra",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "atra",
+     "gloss": "there",
+     "grounds": "atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "labhate",
+     "morph": "3.sg.mid-pres + labh"
+    },
+    {
+     "surface": "cepsitaṃ",
+     "gloss": "desired",
+     "grounds": "ca-ipsitam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "phalam",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is obtained there in twenty-one days?",
+   "premises": [
+    "ekaviṃśadinānyatra names twenty-one days there",
+    "labhate means obtains",
+    "cepsitaṃ phalam means desired fruit"
+   ],
+   "inference": "The verse says the desired fruit is obtained there in twenty-one days.",
+   "uncertainties": [
+    "the exact practice is not named"
+   ],
+   "plain_english": "There, in twenty-one days, one obtains the desired fruit."
+  },
+  {
+   "verse": 1212,
+   "rows": [
+    {
+     "surface": "kulāṣṭakasamāyuktaṃ",
+     "gloss": "joined-with-kulāṣṭaka",
+     "grounds": "kula-aṣṭaka-samāyuktam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "samāyuktam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "catuḥṣaṣṭisamanvitam",
+     "gloss": "endowed-with-sixty-four",
+     "grounds": "catuḥ-ṣaṣṭi-samanvitam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "samanvitam",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is joined with kulāṣṭaka and sixty-four?",
+   "premises": [
+    "kulāṣṭakasamāyuktaṃ names kulāṣṭaka",
+    "catuḥṣaṣṭisamanvitam names sixty-four",
+    "both modify an implied object"
+   ],
+   "inference": "The verse describes something joined with kulāṣṭaka and endowed with sixty-four.",
+   "uncertainties": [
+    "the implied object is not stated"
+   ],
+   "plain_english": "Joined with kulāṣṭaka and endowed with sixty-four."
+  }
+ ]
+}

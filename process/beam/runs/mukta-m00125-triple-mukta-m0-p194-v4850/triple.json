@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p194",
+ "items": [
+  {
+   "verse": 4850,
+   "rows": [
+    {
+     "surface": "dvārasthau",
+     "gloss": "standing-at-door",
+     "grounds": "compound describing position at the doorway",
+     "morph": "compound: dvāra+stha; m.nom.du"
+    },
+    {
+     "surface": "dvārapau",
+     "gloss": "door-guardians",
+     "grounds": "designation of the two figures as guardians of the door",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kāryau",
+     "gloss": "to-be-made",
+     "grounds": "prescriptive gerundive indicating required fashioning",
+     "morph": "gerundive; m.nom.du; root kṛ"
+    },
+    {
+     "surface": "bhūtarūpau",
+     "gloss": "spirit-form",
+     "grounds": "compound specifying their form as that of spirits",
+     "morph": "compound: bhūta+rūpa; m.nom.du"
+    },
+    {
+     "surface": "dvibāhukau",
+     "gloss": "two-armed",
+     "grounds": "compound specifying the number of arms",
+     "morph": "compound: dvi+bāhu+ka; m.nom.du"
+    }
+   ],
+   "question": "What form and placement must the two door guardians have?",
+   "premises": [
+    "The two figures stand at the door.",
+    "The two figures function as door guardians.",
+    "They must be fashioned in spirit form.",
+    "They must be fashioned with two arms."
+   ],
+   "inference": "The door guardians are to be made as two-armed, spirit-formed figures stationed at the door.",
+   "uncertainties": [],
+   "plain_english": "The two door guardians, standing at the door, should be made in spirit form with two arms."
+  }
+ ]
+}

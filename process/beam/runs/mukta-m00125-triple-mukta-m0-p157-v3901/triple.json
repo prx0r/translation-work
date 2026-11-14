@@ -1,0 +1,929 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3901,
+   "rows": [
+    {
+     "surface": "sarvalakṣaṇa",
+     "gloss": "all-marks",
+     "grounds": "bahuvrīhi/compound sense in context of endowed with marks",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyukta",
+     "gloss": "endowed",
+     "grounds": "past participle/adjectival from saṃ-yuj",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "malpadoṣantuvā",
+     "gloss": "small-faults-or",
+     "grounds": "uncertain reading/sandhi; legacy hint small-faults; token kept exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.optative/bhū"
+    }
+   ],
+   "question": "What kind of endowed form is said to be acceptable despite having only small faults?",
+   "premises": [
+    "A form endowed with all marks is described.",
+    "It may have only small faults.",
+    "Such a form is said to be possible."
+   ],
+   "inference": "An image endowed with all marks may still be accepted if its faults are only small.",
+   "uncertainties": [
+    "Exact reading and split of malpadoṣantuvā is uncertain from token alone."
+   ],
+   "plain_english": "Endowed with all marks, it may have only small faults—or so it may be."
+  },
+  {
+   "verse": 3902,
+   "rows": [
+    {
+     "surface": "utsedheravimātrāntaṃ",
+     "gloss": "height-up-to-measure-end",
+     "grounds": "compound indicating height limit up to a measure; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣantavyañcāṅgulādikam",
+     "gloss": "tolerable-and-finger-etc",
+     "grounds": "kṣantavya + ca + aṅgula-ādikam; token exact",
+     "morph": "compound"
+    }
+   ],
+   "question": "What limits of height and small units are declared tolerable in this measure rule?",
+   "premises": [
+    "Height is stated up to a measure end.",
+    "Finger and similar small units are called tolerable.",
+    "These are given as allowable limits."
+   ],
+   "inference": "Excess in height up to a measure and small units like a finger are to be tolerated.",
+   "uncertainties": [
+    "Exact technical scope of utsedha and vimātrāntaṃ depends on context."
+   ],
+   "plain_english": "In height up to the measure limit, a finger and the like are to be tolerated."
+  },
+  {
+   "verse": 3903,
+   "rows": [
+    {
+     "surface": "grāmakheṭapurādautudaṃḍāntaṃ",
+     "gloss": "village-hamlet-town-etc-up-to-stick-end",
+     "grounds": "compound listing places/types up to daṇḍa limit; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle of pari-kīrt",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What range from village, hamlet, and town up to the staff limit is being declared?",
+   "premises": [
+    "Village, hamlet, town and so on are named.",
+    "The range is said to extend up to the stick end.",
+    "This range is declared."
+   ],
+   "inference": "The allowable range from village-hamlet-town up to the daṇḍa limit is declared.",
+   "uncertainties": [
+    "Precise technical meaning of daṇḍānta in this measure list is unclear."
+   ],
+   "plain_english": "From village, hamlet, and town up to the limit of the staff, it is declared."
+  },
+  {
+   "verse": 3904,
+   "rows": [
+    {
+     "surface": "caturyavānta",
+     "gloss": "four-barley-end",
+     "grounds": "compound indicating limit of four yavas; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "marcāsu",
+     "gloss": "in-measures",
+     "grounds": "locative plural of mārcā/mātrā contextually read as measures; token exact",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "mātrāntaṃ",
+     "gloss": "measure-end",
+     "grounds": "mātrā + anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhakalpane",
+     "gloss": "in-seat-making",
+     "grounds": "locative of pīṭhakalpanā",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "In making a seat, what four-barley and measure-end limits are stated within measures?",
+   "premises": [
+    "A four-barley limit is mentioned.",
+    "This is said in measures, in seat-making.",
+    "A measure-end is specified."
+   ],
+   "inference": "In seat-making, within measures the limit is set at four barleys and up to the measure end.",
+   "uncertainties": [
+    "Reading marcāsu as measures is inferred from context and legacy hint."
+   ],
+   "plain_english": "In measures, in the making of the seat, the limit of four barleys and the measure end are stated."
+  },
+  {
+   "verse": 3905,
+   "rows": [
+    {
+     "surface": "tadapyakāryaṃ",
+     "gloss": "that-also-not-to-be-done",
+     "grounds": "tat + api + akārya",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṅgāgrekṣantavyaṃ",
+     "gloss": "at-linga-tip-to-be-tolerated",
+     "grounds": "liṅgāgra + īkṣantavya/ kṣantavya reading; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānamīritam",
+     "gloss": "measure-declared",
+     "grounds": "māna + īritam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measure is declared even though that too is not to be done, with tolerance stated at the linga tip?",
+   "premises": [
+    "That also is said not to be done.",
+    "At the linga tip it is to be tolerated.",
+    "A measure is declared."
+   ],
+   "inference": "Even that is not to be done, yet a measure is declared and at the linga tip some tolerance is stated.",
+   "uncertainties": [
+    "Exact force of liṅgāgrekṣantavyaṃ (tolerated/looked at) is uncertain."
+   ],
+   "plain_english": "That too is not to be done; at the tip of the liṅga it is to be tolerated—such a measure is declared."
+  },
+  {
+   "verse": 3906,
+   "rows": [
+    {
+     "surface": "kāmyasiddhiśca",
+     "gloss": "desired-success-and",
+     "grounds": "kāmya-siddhi + ca",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantraissyānmantrāśca",
+     "gloss": "by-mantras-may-be-and-mantras-and",
+     "grounds": "mantraiḥ + syāt + mantrāḥ + ca; fused token kept exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahavo",
+     "gloss": "many",
+     "grounds": "bahu",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "past participle of man",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "By what means is desired success said to be attained, and how are many mantras regarded?",
+   "premises": [
+    "Desired success is mentioned.",
+    "It may come by mantras, and many mantras are said to exist.",
+    "Many mantras are considered."
+   ],
+   "inference": "Desired success may be by mantras, and many mantras are considered.",
+   "uncertainties": [
+    "Exact syntactic break in mantraissyānmantrāśca is uncertain."
+   ],
+   "plain_english": "Desired success is by mantras; many mantras are considered."
+  },
+  {
+   "verse": 3907,
+   "rows": [
+    {
+     "surface": "teṣvaghorāṇuratyantadoṣaghnaḥ",
+     "gloss": "among-them-not-fierce-atom-great-fault-destroyer",
+     "grounds": "teṣu + aghora-aṇu + atyanta-doṣaghna; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "kiṣṇavarṇabhāk",
+     "gloss": "dark-color-having",
+     "grounds": "kṛṣṇa-varṇa-bhāj",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Among those mantras, what is said of the not-fierce aṇu that destroys great faults and has dark color?",
+   "premises": [
+    "Among them is named a not-fierce aṇu.",
+    "It destroys great faults.",
+    "It has dark color."
+   ],
+   "inference": "Among them, the not-fierce aṇu destroys great faults and is of dark color.",
+   "uncertainties": [
+    "Identity of this aṇu-mantra in this list is uncertain without wider context."
+   ],
+   "plain_english": "Among them, the not-fierce aṇu destroys great faults and has a dark color."
+  },
+  {
+   "verse": 3908,
+   "rows": [
+    {
+     "surface": "surapiṅgekṣaṇo'tyanta",
+     "gloss": "divine-tawny-eyed-greatly",
+     "grounds": "sura-piṅga-īkṣaṇa + atyanta; token exact with elision mark",
+     "morph": "compound"
+    },
+    {
+     "surface": "śvetadaṃṣṭrā",
+     "gloss": "white-fanged",
+     "grounds": "śveta-daṃṣṭra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "endowed",
+     "grounds": "sam-anvita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form is described as greatly tawny-eyed, white-fanged, and endowed?",
+   "premises": [
+    "The form is said to be greatly tawny-eyed.",
+    "It is white-fanged.",
+    "It is endowed."
+   ],
+   "inference": "The form is greatly tawny-eyed, white-fanged, and endowed.",
+   "uncertainties": [
+    "Exact referent deity/form is not named in this verse fragment."
+   ],
+   "plain_english": "Greatly tawny-eyed, white-fanged, he is endowed."
+  },
+  {
+   "verse": 3909,
+   "rows": [
+    {
+     "surface": "mahākāyo",
+     "gloss": "great-bodied",
+     "grounds": "mahā-kāya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahādaṃṣṭrī",
+     "gloss": "great-fanged",
+     "grounds": "mahā-daṃṣṭrin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṅkiṇīkhasaṃyutaḥ",
+     "gloss": "bell-adorned",
+     "grounds": "kiṅkiṇī-kha-saṃyuta; token exact",
+     "morph": "compound"
+    }
+   ],
+   "question": "What great-bodied, great-fanged form is said to be adorned with bells?",
+   "premises": [
+    "He is great-bodied.",
+    "He is great-fanged.",
+    "He is adorned with bells."
+   ],
+   "inference": "The great-bodied, great-fanged one is adorned with bells.",
+   "uncertainties": [
+    "Meaning of kha in kiṅkiṇīkhasaṃyutaḥ is uncertain."
+   ],
+   "plain_english": "Great-bodied, great-fanged, he is adorned with bells."
+  },
+  {
+   "verse": 3910,
+   "rows": [
+    {
+     "surface": "khaḍgakheṭadhanurbāṇamuṇḍakaḥ",
+     "gloss": "sword-shield-bow-arrow-skull",
+     "grounds": "compound list of weapons/skull; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "kālaśaktidhṛt",
+     "gloss": "time-power-bearing",
+     "grounds": "kāla-śakti-dhṛt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bearer of sword, shield, bow, arrow, skull, and time-power is described?",
+   "premises": [
+    "He holds sword, shield, bow, arrow, and skull.",
+    "He bears the power of time.",
+    "This describes his form."
+   ],
+   "inference": "He bears sword, shield, bow, arrow, skull and the power of time.",
+   "uncertainties": [
+    "Exact arrangement of muṇḍaka in compound is uncertain."
+   ],
+   "plain_english": "Bearing sword, shield, bow, arrow, and skull, he holds the power of time."
+  },
+  {
+   "verse": 3911,
+   "rows": [
+    {
+     "surface": "daṃṣṭre",
+     "gloss": "two-fangs",
+     "grounds": "daṃṣṭrā dual",
+     "morph": "f.nom/acc.du"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "f.nom/acc.du"
+    },
+    {
+     "surface": "kīlaniryāte",
+     "gloss": "nail-protruding",
+     "grounds": "kīla-niryāta",
+     "morph": "f.nom/acc.du"
+    },
+    {
+     "surface": "vaktrāgre",
+     "gloss": "at-mouth-tip",
+     "grounds": "vaktra-agra locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhīṣaṇe",
+     "gloss": "terrifying",
+     "grounds": "bhīṣaṇa",
+     "morph": "f.nom/acc.du"
+    },
+    {
+     "surface": "site",
+     "gloss": "white",
+     "grounds": "śveta/site",
+     "morph": "f.nom/acc.du"
+    }
+   ],
+   "question": "What is said of the two white, terrifying fangs protruding like nails at the mouth tip?",
+   "premises": [
+    "Two fangs are mentioned.",
+    "They protrude like nails at the mouth tip.",
+    "They are terrifying and white."
+   ],
+   "inference": "Two white, terrifying fangs protrude like nails at the tip of the mouth.",
+   "uncertainties": [
+    "Exact nuance of kīlaniryāte is uncertain."
+   ],
+   "plain_english": "Two white, terrifying fangs, protruding like nails at the tip of the mouth."
+  },
+  {
+   "verse": 3912,
+   "rows": [
+    {
+     "surface": "vairiprayuktakarmaghnassarvavyādhinivārakaḥ",
+     "gloss": "enemy-sent-deed-destroyer-all-disease-preventer",
+     "grounds": "compound describing powers; token exact",
+     "morph": "compound"
+    }
+   ],
+   "question": "What powers are attributed to the one who destroys enemy-sent deeds and prevents all diseases?",
+   "premises": [
+    "He destroys deeds sent by enemies.",
+    "He prevents all diseases.",
+    "This is stated as a single description."
+   ],
+   "inference": "He destroys enemy-sent deeds and prevents all diseases.",
+   "uncertainties": [
+    "Scope of karmaghna in this mantra context is uncertain."
+   ],
+   "plain_english": "He destroys deeds sent by enemies and prevents all diseases."
+  },
+  {
+   "verse": 3913,
+   "rows": [
+    {
+     "surface": "asitāṅgādibhinnityamāvṛto",
+     "gloss": "not-dark-limbed-etc-always-covered",
+     "grounds": "asitāṅga-ādi + bhin + nityam + āvṛta; token exact, uncertain split",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirāvṛtaḥ",
+     "gloss": "uncovered",
+     "grounds": "nir-āvṛta",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is the form said to be always covered in the manner of asitāṅga and others, or uncovered?",
+   "premises": [
+    "A covered state is mentioned with reference to asitāṅga and others.",
+    "An alternative uncovered state is mentioned.",
+    "A choice is indicated."
+   ],
+   "inference": "He is said to be either always covered as with asitāṅga and others, or uncovered.",
+   "uncertainties": [
+    "Reading of asitāṅgādibhinnityamāvṛto is uncertain."
+   ],
+   "plain_english": "Either always covered like Asitāṅga and others, or uncovered."
+  },
+  {
+   "verse": 3914,
+   "rows": [
+    {
+     "surface": "kapālī",
+     "gloss": "skull-bearer",
+     "grounds": "kapālin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhiṣaṇaścaiva",
+     "gloss": "terrifying-and-indeed",
+     "grounds": "bhiṣaṇa + ca + eva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃhāraścāṣṭamassmṛtaḥ",
+     "gloss": "destroyer-and-eighth-remembered",
+     "grounds": "saṃhāra + ca + aṣṭamaḥ + smṛtaḥ; token exact",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which forms are named here, including the skull-bearer, the terrifying one, and the remembered eighth destroyer?",
+   "premises": [
+    "Kapālī is named.",
+    "The terrifying one is named.",
+    "The eighth is remembered as Saṃhāra."
+   ],
+   "inference": "Kapālī, the terrifying one, and the eighth is remembered as Saṃhāra.",
+   "uncertainties": [
+    "Exact list/order of these names in the series is uncertain."
+   ],
+   "plain_english": "Kapālī, and indeed terrifying, and Saṃhāra is remembered as the eighth."
+  },
+  {
+   "verse": 3915,
+   "rows": [
+    {
+     "surface": "triśūlamuṇḍasaṃyuktā",
+     "gloss": "trident-skull-endowed",
+     "grounds": "triśūla-muṇḍa-saṃyukta",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hṛdayāñjali",
+     "gloss": "heart-anjali-endowed",
+     "grounds": "hṛdaya-añjali; form uncertain",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyutāḥ",
+     "gloss": "joined",
+     "grounds": "saṃ-yuta",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What attendants are described as endowed with trident and skull and joined in heart-anjali?",
+   "premises": [
+    "They are endowed with trident and skull.",
+    "They are joined in heart-anjali form.",
+    "They are described as joined."
+   ],
+   "inference": "They are endowed with trident and skull and joined with heart-anjali.",
+   "uncertainties": [
+    "Exact grammatical form of hṛdayāñjali is uncertain."
+   ],
+   "plain_english": "Endowed with trident and skull, with heart-anjali, they are joined."
+  },
+  {
+   "verse": 3916,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "bīja syllable, kept exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juṃsaḥ",
+     "gloss": "jum-sah",
+     "grounds": "bīja/mantra syllables kept exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantro'yaṃ",
+     "gloss": "this-mantra",
+     "grounds": "mantraḥ + ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "deity",
+     "grounds": "devaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuñjidāhvayaḥ",
+     "gloss": "mṛtyuñjaya-named",
+     "grounds": "mṛtyuñjit-āhvaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra is given as oṃ juṃsaḥ and identified as the deity named Mṛtyuñjit?",
+   "premises": [
+    "The syllables oṃ juṃsaḥ are given thus.",
+    "This is called a mantra.",
+    "The deity is named Mṛtyuñjit."
+   ],
+   "inference": "This mantra is oṃ juṃsaḥ, and the deity is named Mṛtyuñjit.",
+   "uncertainties": [
+    "Exact pronunciation/segmentation of juṃsaḥ in tradition may vary."
+   ],
+   "plain_english": "“Om juṃsaḥ”—thus this mantra; the deity is called Mṛtyuñjit."
+  },
+  {
+   "verse": 3917,
+   "rows": [
+    {
+     "surface": "rasādiśuklaparyantadhātu",
+     "gloss": "rasa-etc-white-end-dhatu",
+     "grounds": "compound from rasa onward to white dhātu; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "saptākṣarānvitam",
+     "gloss": "seven-syllable-endowed",
+     "grounds": "sapta-akṣara-anvita",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What seven-syllable form is said to be endowed with the dhātus from rasa to the white end?",
+   "premises": [
+    "Dhātus from rasa to the white end are mentioned.",
+    "This is endowed with seven syllables.",
+    "It is described as such."
+   ],
+   "inference": "It is endowed with seven syllables and relates to dhātus from rasa to the white end.",
+   "uncertainties": [
+    "Exact technical mapping of rasādiśuklaparyanta is uncertain."
+   ],
+   "plain_english": "Endowed with seven syllables, from rasa onward to the white dhātu."
+  },
+  {
+   "verse": 3918,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "anta locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣa",
+     "gloss": "protect",
+     "grounds": "imperative of rakṣ",
+     "morph": "2.sg.imperative/rakṣ"
+    },
+    {
+     "surface": "rakṣeti",
+     "gloss": "protect-thus",
+     "grounds": "rakṣa + iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīpsitaṃ",
+     "gloss": "repeated",
+     "grounds": "vīpsita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "pada",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "optative of paṭh",
+     "morph": "3.sg.optative/paṭh"
+    }
+   ],
+   "question": "What should be recited at the end, including the repeated word ‘rakṣa rakṣa’ thus?",
+   "premises": [
+    "At the end one should recite.",
+    "The repeated word ‘rakṣa rakṣa’ is indicated.",
+    "That word is to be recited."
+   ],
+   "inference": "At the end one should recite the repeated word ‘rakṣa, rakṣa’ thus.",
+   "uncertainties": [
+    "Exact placement in the mantra string is context-dependent."
+   ],
+   "plain_english": "At the end one should recite the repeated word ‘protect, protect’ thus."
+  },
+  {
+   "verse": 3919,
+   "rows": [
+    {
+     "surface": "prāṇaṃ",
+     "gloss": "life-breath",
+     "grounds": "prāṇa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadattasya",
+     "gloss": "of-devadatta",
+     "grounds": "proper name genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "mūla-mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "should-employ",
+     "grounds": "causative optative of ni-yuj",
+     "morph": "3.sg.optative/ni-yuj-caus"
+    }
+   ],
+   "question": "How should the life-breath of Devadatta be joined with the root mantra?",
+   "premises": [
+    "The life-breath of Devadatta is mentioned.",
+    "The root mantra is mentioned.",
+    "One should employ/join them."
+   ],
+   "inference": "One should employ the root mantra with the life-breath of Devadatta.",
+   "uncertainties": [
+    "Ritual technical sense of niyojayet here is uncertain."
+   ],
+   "plain_english": "And one should employ the root mantra with the life-breath of Devadatta."
+  },
+  {
+   "verse": 3920,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "madhya locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niveśayetkūṭaṃ",
+     "gloss": "should-place-kuta",
+     "grounds": "niveśayet + kūṭaṃ; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "prāsāda-mantra",
+     "grounds": "prāsāda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navātmakam",
+     "gloss": "nine-syllabled",
+     "grounds": "nava-ātmaka",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In the middle, should one place the kūṭa, or the nine-syllabled prāsāda mantra?",
+   "premises": [
+    "In the middle placement is mentioned.",
+    "Either the kūṭa is placed or the prāsāda.",
+    "The prāsāda is said to be nine-syllabled."
+   ],
+   "inference": "In the middle one should place the kūṭa, or the nine-syllabled prāsāda.",
+   "uncertainties": [
+    "Exact identity of kūṭa here is uncertain."
+   ],
+   "plain_english": "In the middle one should place the kūṭa, or the prāsāda of nine syllables."
+  },
+  {
+   "verse": 3921,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "demonstrative instrumental",
+     "morph": "m/n.ins.sg"
+    },
+    {
+     "surface": "sadṛśo",
+     "gloss": "equal",
+     "grounds": "sa-dṛśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "na + asti",
+     "morph": "3.sg.present/as"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "mantraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuñjayo",
+     "gloss": "mṛtyuñjaya",
+     "grounds": "name/title",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "dvija vocative/plural in address",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What is declared about any mantra equal to this Mṛtyuñjaya mantra, addressed to the twice-born?",
+   "premises": [
+    "By this there is no equal mantra.",
+    "The mantra is Mṛtyuñjaya.",
+    "This is addressed to the twice-born."
+   ],
+   "inference": "O twice-born, there is no mantra equal to this Mṛtyuñjaya.",
+   "uncertainties": [
+    "None noted."
+   ],
+   "plain_english": "By this there is no mantra equal, O twice-born; it is Mṛtyuñjaya."
+  },
+  {
+   "verse": 3922,
+   "rows": [
+    {
+     "surface": "caturbhujastriṇetraśca",
+     "gloss": "four-armed-three-eyed-and",
+     "grounds": "catur-bhuja-tri-netra + ca; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "triṇetraśca",
+     "gloss": "three-eyed-and",
+     "grounds": "tri-netra + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "jaṭākhaṇḍendumaṇḍitaḥ",
+     "gloss": "matted-hair-crescent-moon-adorned",
+     "grounds": "jaṭā-khaṇḍa-indu-maṇḍita; token exact",
+     "morph": "compound"
+    }
+   ],
+   "question": "What form is described as four-armed and three-eyed, adorned with matted hair and a crescent moon?",
+   "premises": [
+    "He is four-armed and three-eyed.",
+    "He is also described as three-eyed.",
+    "He is adorned with matted hair and crescent moon."
+   ],
+   "inference": "He is four-armed, three-eyed, adorned with matted hair and a crescent moon.",
+   "uncertainties": [
+    "Repetition of triṇetraśca may be emphatic or textual."
+   ],
+   "plain_english": "Four-armed and three-eyed, adorned with matted hair and the crescent moon."
+  },
+  {
+   "verse": 3923,
+   "rows": [
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "triśūla",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cābhyaṃ",
+     "gloss": "and-fearlessness",
+     "grounds": "ca + abhayaṃ; token exact",
+     "morph": "compound"
+    },
+    {
+     "surface": "cordhve",
+     "gloss": "and-upward",
+     "grounds": "ca + ūrdhve",
+     "morph": "(indecl.)+n.loc.sg"
+    },
+    {
+     "surface": "sudhākalaśamadhyayoḥ",
+     "gloss": "nectar-pot-in-middle-of-two",
+     "grounds": "sudhā-kalaśa-madhya + yoḥ; token exact",
+     "morph": "compound"
+    }
+   ],
+   "question": "What are held in the upper hands: trident and fearlessness, placed upward between nectar pots?",
+   "premises": [
+    "Trident and fearlessness are mentioned.",
+    "They are placed upward.",
+    "This is between two nectar pots."
+   ],
+   "inference": "In the upper positions are trident and fearlessness, set between nectar pots.",
+   "uncertainties": [
+    "Exact hand assignment is unclear from this fragment."
+   ],
+   "plain_english": "Trident and fearlessness, upward, between the two nectar pots."
+  },
+  {
+   "verse": 3924,
+   "rows": [
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull",
+     "grounds": "kapāla",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍikāṃ",
+     "gloss": "water-pot",
+     "grounds": "kuṇḍikā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "vāma locative",
+     "morph": "m/n.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "vāma locative repeated",
+     "morph": "m/n.loc.sg"
+    },
+    {
+     "surface": "yogamudrāṃ",
+     "gloss": "yoga-seal",
+     "grounds": "yoga-mudrā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "karadvaye",
+     "gloss": "in-two-hands",
+     "grounds": "kara-dvaya locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In the two left hands, what are held: skull and water-pot, and in the two hands the yoga seal?",
+   "premises": [
+    "Skull and water-pot are held in the left.",
+    "The yoga seal is held in the two hands.",
+    "Placement is specified."
+   ],
+   "inference": "In the left (hands) skull and water-pot; in the two hands the yoga seal.",
+   "uncertainties": [
+    "Repetition of vāme may indicate two left hands or be emphatic."
+   ],
+   "plain_english": "In the left, a skull and a water pot; in the two hands, the yoga seal."
+  }
+ ]
+}

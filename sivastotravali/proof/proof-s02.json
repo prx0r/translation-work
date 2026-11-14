@@ -8,6 +8,9 @@
   "LEDGER_GLOSS_MISSING ['bhakti=devotion. FROZEN 2026-11-01 (re-chunk of coarse T1']"
  ],
  "source_sha": "eb7d9e0db5f14738",
+ "source_digest_normalized_sha256": "eb7d9e0db5f1473835ce9fc29b9fcccbc92177d86cbfb3a60c906b8d2807ef95",
+ "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/sivastotravali-u.txt",
  "source_verses": 29,
  "t1_verses": 29,
  "l0": {
@@ -21,7 +24,7 @@
   "sub090": {
    "20": {
     "ratio": 0.807,
-    "disposition": "0.807 from 13 elision joints in 22-token verse; order verified token-by-token vs source incl. restored yah, devah, namas|astu 2026-11-01"
+    "disposition": "sandhi-only: -aḥ→-o, tatra+api→tatrāpi, -aḥa→o' ×4 (yaḥ+api, saḥ+api, yaḥ+asau, namas+astu→namo'stu split at token boundary, citation forms); -aḥ→-as before tvayā (virahaḥ→virahas, visarga→s before voiceless) (assessor-verified 2026-11-14)"
    }
   }
  },

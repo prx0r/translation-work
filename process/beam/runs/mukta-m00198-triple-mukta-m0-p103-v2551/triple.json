@@ -1,0 +1,863 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2551,
+   "rows": [
+    {
+     "surface": "ekāṃśamaṃgulaṃ",
+     "gloss": "one-part-finger",
+     "grounds": "compound measure term; one part taken as a finger unit",
+     "morph": "compound"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized in the rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlaliṃgāṃgulānvitam",
+     "gloss": "root-linga-finger-endowed",
+     "grounds": "compound; endowed with the finger measure of the root linga",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What unit is recognized as the finger measure endowed in the root linga?",
+   "premises": [
+    "A one-part measure is identified as a finger.",
+    "This measure is declared as known.",
+    "It is endowed in the root linga."
+   ],
+   "inference": "The recognized finger unit for the root linga is one part.",
+   "uncertainties": [],
+   "plain_english": "One part is known as a finger and is the measure endowed in the root linga."
+  },
+  {
+   "verse": 2552,
+   "rows": [
+    {
+     "surface": "karturdakṣiṇahaste",
+     "gloss": "of-maker-right-hand",
+     "grounds": "compound locative phrase; in the right hand of the maker",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamāṃgulimadhyame",
+     "gloss": "middle-finger-middle",
+     "grounds": "compound locative; at the middle of the middle finger",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where on the maker's body is the reference finger measure to be taken?",
+   "premises": [
+    "The maker's right hand is specified.",
+    "The middle finger is indicated.",
+    "The middle of that finger is the point of reference."
+   ],
+   "inference": "The finger measure is taken at the middle of the maker's right middle finger.",
+   "uncertainties": [],
+   "plain_english": "The measure is taken at the middle of the middle finger of the maker's right hand."
+  },
+  {
+   "verse": 2553,
+   "rows": [
+    {
+     "surface": "saptāṃgulaṃ",
+     "gloss": "seven-fingers",
+     "grounds": "compound measure; a length of seven fingers",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive; starting from that measure",
+     "morph": "gerund"
+    },
+    {
+     "surface": "dvidvyaṃgulavivardhanāt",
+     "gloss": "two-two-finger-increase",
+     "grounds": "compound ablative; by increase of two fingers at a time",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what base and by what increments should the image measure be increased?",
+   "premises": [
+    "The starting measure is seven fingers.",
+    "The process begins from that base.",
+    "Increase proceeds by two fingers at each step."
+   ],
+   "inference": "The measure begins at seven fingers and increases by increments of two fingers.",
+   "uncertainties": [],
+   "plain_english": "Beginning from seven fingers, the measure is increased by two fingers at a time."
+  },
+  {
+   "verse": 2554,
+   "rows": [
+    {
+     "surface": "bimbamānaṃ",
+     "gloss": "image-measure",
+     "grounds": "compound; the measure of the image",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive; prescribed as to be done",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānau dvābhyāṃ parārthakam",
+     "gloss": "measures-two-for-others",
+     "grounds": "phrase indicating two measures for worship by others",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many measures are prescribed for an image intended for worship by others?",
+   "premises": [
+    "The image measure is the subject.",
+    "It is prescribed as to be made.",
+    "Two measures are specified for the purpose of others."
+   ],
+   "inference": "An image for others should be made according to two prescribed measures.",
+   "uncertainties": [
+    "The exact two measures are not named in this verse."
+   ],
+   "plain_english": "The image measure should indeed be made in two measures when it is for the benefit of others."
+  },
+  {
+   "verse": 2555,
+   "rows": [
+    {
+     "surface": "kartavyamanyathā",
+     "gloss": "to-be-made-otherwise",
+     "grounds": "compound; if made otherwise than prescribed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cettu",
+     "gloss": "if-indeed",
+     "grounds": "conditional particle combination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavye",
+     "gloss": "in-duty",
+     "grounds": "locative of the prescribed duty or task",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kartṛnāśanam",
+     "gloss": "maker-destruction",
+     "grounds": "compound; destruction of the maker",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows if the prescribed measure is made otherwise in the required task?",
+   "premises": [
+    "The task may be done otherwise than prescribed.",
+    "The condition concerns the required duty.",
+    "Destruction of the maker is stated as the result."
+   ],
+   "inference": "Making the measure otherwise in the prescribed task brings destruction to the maker.",
+   "uncertainties": [],
+   "plain_english": "But if it is made otherwise in the prescribed work, it brings destruction to the maker."
+  },
+  {
+   "verse": 2556,
+   "rows": [
+    {
+     "surface": "aṃguleṃ gulasaṃkhyābhiśāyādīṣacchubhekṣaṇam",
+     "gloss": "finger-counts-auspicious-etc-slight-good-sight",
+     "grounds": "single fused token as given; relates finger counts to auspicious and slightly favorable signs",
+     "morph": "compound"
+    }
+   ],
+   "question": "What evaluative signs are associated with finger counts in this measurement context?",
+   "premises": [
+    "Finger counts are the basis of assessment.",
+    "Auspicious and related factors are involved.",
+    "A slightly good sight or sign is indicated."
+   ],
+   "inference": "Finger counts are linked with auspicious factors and a slightly favorable sign.",
+   "uncertainties": [
+    "The internal syntax of this fused token is compressed and partly unclear."
+   ],
+   "plain_english": "The finger counts are connected with auspicious factors and a slightly favorable sign."
+  },
+  {
+   "verse": 2557,
+   "rows": [
+    {
+     "surface": "aṃgulādanyadyanmānaṃ",
+     "gloss": "from-finger-other-which-measure",
+     "grounds": "compound; any measure other than the finger measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedāśīti",
+     "gloss": "veda-eighty",
+     "grounds": "numerical term; eighty-four implied by veda and eighty in this context",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "absolutive; after dividing",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should a measure other than the finger unit be processed for calculation?",
+   "premises": [
+    "A measure other than the finger is considered.",
+    "A division by eighty-four is indicated.",
+    "The division is performed as part of the procedure."
+   ],
+   "inference": "Any non-finger measure should be divided by eighty-four.",
+   "uncertainties": [
+    "The exact value of vedāśīti is inferred from common usage."
+   ],
+   "plain_english": "Any measure other than the finger should be divided into eighty-four parts."
+  },
+  {
+   "verse": 2558,
+   "rows": [
+    {
+     "surface": "dvibhāgādhikaṣaṣṭyaṃśaṃ",
+     "gloss": "two-parts-more-sixty-part",
+     "grounds": "compound; a sixty-part with two parts added",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhajyaikāṃśasamanvitam",
+     "gloss": "dividing-one-part-endowed",
+     "grounds": "compound; divided and endowed with one part",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What adjusted fractional quantity is obtained by adding parts in this division step?",
+   "premises": [
+    "A sixty-part quantity is taken.",
+    "Two parts are added to it.",
+    "It is further endowed with one part through division."
+   ],
+   "inference": "The procedure yields a sixty-part quantity increased by two parts and endowed with one part.",
+   "uncertainties": [
+    "The precise arithmetic operation is compressed in the compound."
+   ],
+   "plain_english": "Take a sixty-part measure increased by two parts and endowed with one part after division."
+  },
+  {
+   "verse": 2559,
+   "rows": [
+    {
+     "surface": "caturviṃśati bhāgaṃ",
+     "gloss": "twenty-four-part",
+     "grounds": "numerical compound; a division into twenty-four parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvaikāṃśasamanvitam",
+     "gloss": "having-made-one-part-endowed",
+     "grounds": "compound absolutive phrase; made and endowed with one part",
+     "morph": "compound"
+    }
+   ],
+   "question": "What further division and addition are prescribed after the previous fractional adjustment?",
+   "premises": [
+    "A twenty-four-part division is made.",
+    "The division is performed deliberately.",
+    "One additional part is included."
+   ],
+   "inference": "The quantity is divided into twenty-four parts and endowed with one additional part.",
+   "uncertainties": [],
+   "plain_english": "Then divide it into twenty-four parts and add one part to it."
+  },
+  {
+   "verse": 2560,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṃśeṃśamāropya",
+     "gloss": "sixteen-part-part-having-added",
+     "grounds": "compound absolutive; adding a part within a sixteen-part division",
+     "morph": "gerund"
+    },
+    {
+     "surface": "śūdra-ṛddhikaraṃ",
+     "gloss": "shudra-prosperity-making",
+     "grounds": "compound; producing prosperity for a shudra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What social benefit results from adding a part in the sixteen-part calculation?",
+   "premises": [
+    "A part is added in a sixteen-part division.",
+    "The result is described as prosperity-making.",
+    "The benefit is specified for a shudra."
+   ],
+   "inference": "This adjustment yields prosperity for a shudra.",
+   "uncertainties": [],
+   "plain_english": "By adding a part in the sixteen-part division, it becomes productive of prosperity for a shudra."
+  },
+  {
+   "verse": 2561,
+   "rows": [
+    {
+     "surface": "saptaviṃśatibhirhrāse",
+     "gloss": "twenty-seven-by-decrease",
+     "grounds": "compound locative; when decreased by twenty-seven",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śeṣamaśvādimaṃ",
+     "gloss": "remainder-horse-etc",
+     "grounds": "compound; the remainder relates to horses and so on",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What outcome is indicated for the remainder when decreased by twenty-seven?",
+   "premises": [
+    "A decrease by twenty-seven is applied.",
+    "A remainder is left after the decrease.",
+    "That remainder is associated with horses and similar things."
+   ],
+   "inference": "When decreased by twenty-seven, the remainder pertains to horses and the like.",
+   "uncertainties": [
+    "The exact interpretive category of aśvādi is not fully specified."
+   ],
+   "plain_english": "When decreased by twenty-seven, the remainder becomes related to horses and so forth."
+  },
+  {
+   "verse": 2562,
+   "rows": [
+    {
+     "surface": "suśobhanena yuktaṃ",
+     "gloss": "well-auspicious-with-joined",
+     "grounds": "compound phrase; joined with what is very auspicious",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartṛvāstu",
+     "gloss": "maker-site",
+     "grounds": "compound; the site of the maker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛpādinām",
+     "gloss": "of-king-etc",
+     "grounds": "genitive plural compound; of kings and others",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "For whom is a very auspicious maker's site considered favorable in this rule?",
+   "premises": [
+    "The maker's site may be joined with great auspiciousness.",
+    "The condition is stated hypothetically.",
+    "Kings and others are named as beneficiaries."
+   ],
+   "inference": "A very auspicious maker's site is favorable for kings and others.",
+   "uncertainties": [],
+   "plain_english": "If the maker's site is joined with great auspiciousness, it is favorable for kings and others."
+  },
+  {
+   "verse": 2563,
+   "rows": [
+    {
+     "surface": "śaśyaṃśaṃ",
+     "gloss": "grain-part",
+     "grounds": "compound; a part related to grain or crop",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ropayedyāvat",
+     "gloss": "should-raise-as-far-as",
+     "grounds": "optative with extent marker; should be applied to the extent",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhāyādīni",
+     "gloss": "auspicious-income-etc",
+     "grounds": "compound plural; auspicious income and related factors",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "saṃbhavam",
+     "gloss": "possible",
+     "grounds": "adjectival; capable of arising",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "To what extent should the grain part be applied to produce auspicious results?",
+   "premises": [
+    "A grain part is to be applied.",
+    "The application has a specified extent.",
+    "Auspicious income and related outcomes may arise."
+   ],
+   "inference": "The grain part should be applied to the extent that auspicious outcomes become possible.",
+   "uncertainties": [
+    "The technical sense of śaśyaṃśaṃ is not fully explicit."
+   ],
+   "plain_english": "The grain part should be applied to the extent that auspicious income and similar results become possible."
+  },
+  {
+   "verse": 2564,
+   "rows": [
+    {
+     "surface": "āyāṃśakamidaṃ",
+     "gloss": "income-part-this",
+     "grounds": "compound; this part related to income or gain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared as recognized",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caikāṃśāyādikalpayet",
+     "gloss": "and-one-part-income-etc-calculate",
+     "grounds": "compound verb phrase; calculate income and related factors by one part",
+     "morph": "3.sg.optative-act"
+    }
+   ],
+   "question": "How should the known income part be used in calculating income and related factors?",
+   "premises": [
+    "This income part is declared known.",
+    "A calculation is prescribed.",
+    "The calculation proceeds by one part for income and related factors."
+   ],
+   "inference": "The known income part should be used to calculate income and related factors by one part.",
+   "uncertainties": [],
+   "plain_english": "This is known as the income part, and one should calculate income and related factors by one part."
+  },
+  {
+   "verse": 2565,
+   "rows": [
+    {
+     "surface": "śeṣamāyamiti",
+     "gloss": "remainder-income-thus",
+     "grounds": "compound with quotative sense; the remainder is thus called income",
+     "morph": "compound"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared as recognized",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃśamaṣṭaguṇīkṛtam",
+     "gloss": "part-eight-times-made",
+     "grounds": "compound; the part made eightfold",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the remainder called when the part has been multiplied eightfold?",
+   "premises": [
+    "A remainder is identified.",
+    "It is declared known as income.",
+    "The part involved has been made eightfold."
+   ],
+   "inference": "The remainder, after the part is multiplied eightfold, is known as income.",
+   "uncertainties": [],
+   "plain_english": "The remainder is known as income when the part has been multiplied eightfold."
+  },
+  {
+   "verse": 2566,
+   "rows": [
+    {
+     "surface": "navabhirguṇite",
+     "gloss": "by-nine-multiplied",
+     "grounds": "locative absolute phrase; when multiplied by nine",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvaṃśaṃ",
+     "gloss": "then-part",
+     "grounds": "compound; then the part or share",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāḍibhirhrāsayettataḥ",
+     "gloss": "by-nadis-should-decrease-then",
+     "grounds": "compound verb phrase; then decrease by nadis",
+     "morph": "3.sg.optative-act"
+    }
+   ],
+   "question": "What reduction is prescribed after multiplying the part by nine?",
+   "premises": [
+    "The part is multiplied by nine.",
+    "A subsequent operation is required.",
+    "The reduction is to be made by nadis."
+   ],
+   "inference": "After multiplying by nine, one should decrease the part by nadis.",
+   "uncertainties": [
+    "The technical value of nāḍi in this calculation is not specified."
+   ],
+   "plain_english": "When it is multiplied by nine, one should then decrease that part by nadis."
+  },
+  {
+   "verse": 2567,
+   "rows": [
+    {
+     "surface": "vardhayedvasubhirhrāse",
+     "gloss": "should-increase-by-eight-in-decrease",
+     "grounds": "compound phrase; increase by eight in the context of decrease",
+     "morph": "3.sg.optative-act"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "what remains after operations",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhvajādayo",
+     "gloss": "flag-etc",
+     "grounds": "compound plural; flag and other categories",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What categories arise from the remainder after increasing by eight in the decrease step?",
+   "premises": [
+    "An increase by eight is applied in the decrease operation.",
+    "A remainder results from the calculation.",
+    "The remainder becomes flag and other categories."
+   ],
+   "inference": "After this adjustment, the remainder yields the categories beginning with the flag.",
+   "uncertainties": [
+    "The full list of dhvajādi categories is not given here."
+   ],
+   "plain_english": "If one increases by eight in that decrease, the remainder becomes the flag and the other categories."
+  },
+  {
+   "verse": 2568,
+   "rows": [
+    {
+     "surface": "vardhayedvedasaṃkhyā",
+     "gloss": "should-increase-veda-count",
+     "grounds": "compound phrase; increase by the count of four",
+     "morph": "3.sg.optative-act"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrāsayennavasaṃkhyayā",
+     "gloss": "should-decrease-nine-count",
+     "grounds": "compound phrase; decrease by the count of nine",
+     "morph": "3.sg.optative-act"
+    }
+   ],
+   "question": "By what numerical counts should one increase and decrease in this calculation step?",
+   "premises": [
+    "An increase is prescribed.",
+    "A decrease is prescribed.",
+    "The counts are four and nine respectively."
+   ],
+   "inference": "One should increase by four and decrease by nine.",
+   "uncertainties": [],
+   "plain_english": "One should increase by four and decrease by nine."
+  },
+  {
+   "verse": 2569,
+   "rows": [
+    {
+     "surface": "āyādhikyaṃ",
+     "gloss": "income-excess",
+     "grounds": "compound; excess of income",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyayaṃ",
+     "gloss": "expense",
+     "grounds": "outlay or expenditure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣīṇaṃ",
+     "gloss": "diminished",
+     "grounds": "reduced or deficient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣkalāyaṃ",
+     "gloss": "abundant-income",
+     "grounds": "compound; abundant or ample income",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suśobhanam",
+     "gloss": "very-auspicious",
+     "grounds": "highly favorable quality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which financial conditions are identified as favorable or unfavorable in this assessment?",
+   "premises": [
+    "Excess income and expense are named.",
+    "Diminished expense is contrasted with abundance.",
+    "Abundant income is called very auspicious."
+   ],
+   "inference": "Excess income with diminished expense and abundant income are favorable conditions.",
+   "uncertainties": [
+    "The syntactic relation among the listed terms is compact."
+   ],
+   "plain_english": "Excess income, diminished expense, and abundant income are very auspicious."
+  },
+  {
+   "verse": 2570,
+   "rows": [
+    {
+     "surface": "yonayaścāṣṭa",
+     "gloss": "origins-and-eight",
+     "grounds": "compound phrase; and the origins are eight",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "locative plural pronoun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "repeated locative plural pronoun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ketuharī vṛṣam",
+     "gloss": "ketu-hari-bull",
+     "grounds": "compound phrase listing categories among the origins",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many origins are enumerated and what examples are included among them?",
+   "premises": [
+    "The origins are stated to be eight.",
+    "They are referred to collectively.",
+    "Ketu, Hari, and bull are named among them."
+   ],
+   "inference": "There are eight origins, including examples such as ketu, Hari, and the bull.",
+   "uncertainties": [
+    "The full list of eight origins is not completed in this verse."
+   ],
+   "plain_english": "There are eight origins, and among them are ketu, Hari, and the bull."
+  },
+  {
+   "verse": 2571,
+   "rows": [
+    {
+     "surface": "vipattiḥ",
+     "gloss": "disaster",
+     "grounds": "calamity or misfortune",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pratyaraṃ",
+     "gloss": "contrary",
+     "grounds": "adverse or opposing condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjyaṃ",
+     "gloss": "to-be-avoided",
+     "grounds": "gerundive; fit to be rejected",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaināśikaṃ",
+     "gloss": "destructive",
+     "grounds": "causing ruin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating similar status",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which outcomes in this classification must be rejected as harmful?",
+   "premises": [
+    "Disaster and contrary conditions are named.",
+    "They are marked as to be avoided.",
+    "Destructive outcomes are likewise included."
+   ],
+   "inference": "Disaster, contrary conditions, and destructive outcomes must be avoided.",
+   "uncertainties": [],
+   "plain_english": "Disaster, contrary conditions, and likewise destructive outcomes are to be avoided."
+  },
+  {
+   "verse": 2572,
+   "rows": [
+    {
+     "surface": "kartuśca grāmanakṣatrāt",
+     "gloss": "of-maker-and-from-village-star",
+     "grounds": "compound phrase; from the maker's and village's star",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nṛpavāstudinaṃ",
+     "gloss": "king-site-day",
+     "grounds": "compound; the day for the king's site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which astrological reference should the day for a king's site be determined?",
+   "premises": [
+    "The maker's and village's star are taken as reference.",
+    "A day for the king's site is under consideration.",
+    "The determination follows accordingly."
+   ],
+   "inference": "The day for a king's site should be determined from the maker's and village's star.",
+   "uncertainties": [
+    "The exact method of derivation is not spelled out."
+   ],
+   "plain_english": "Likewise, the day for the king's site is determined from the star of the maker and the village."
+  },
+  {
+   "verse": 2573,
+   "rows": [
+    {
+     "surface": "vāraṃ",
+     "gloss": "weekday",
+     "grounds": "day of the week",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sūryādi saṃkhyā",
+     "gloss": "sun-etc-count",
+     "grounds": "compound; count beginning with the sun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaumavāraṃ",
+     "gloss": "mars-weekday",
+     "grounds": "compound; Tuesday",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-act"
+    }
+   ],
+   "question": "Which weekday must be excluded when counting weekdays beginning with the sun?",
+   "premises": [
+    "Weekdays are counted beginning with the sun.",
+    "A specific weekday is singled out.",
+    "That weekday is prescribed to be avoided."
+   ],
+   "inference": "Tuesday must be avoided in the weekday count beginning with the sun.",
+   "uncertainties": [],
+   "plain_english": "In the count of weekdays beginning with the sun, one should avoid Tuesday."
+  },
+  {
+   "verse": 2574,
+   "rows": [
+    {
+     "surface": "bhānu vārādi saṃyuktaṃ",
+     "gloss": "sun-weekday-etc-joined",
+     "grounds": "compound; joined with weekdays beginning with the sun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśākhādi catuścatuḥ",
+     "gloss": "vishakha-etc-four-four",
+     "grounds": "compound phrase; groups of four beginning with Vishakha",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are lunar mansions grouped in relation to weekdays beginning with the sun?",
+   "premises": [
+    "Weekdays beginning with the sun are the reference.",
+    "Lunar mansions beginning with Vishakha are considered.",
+    "They are arranged in groups of four."
+   ],
+   "inference": "Lunar mansions beginning with Vishakha are joined in groups of four with weekdays beginning with the sun.",
+   "uncertainties": [
+    "The exact mapping rule is compressed in this verse."
+   ],
+   "plain_english": "Joined with the weekdays beginning with the sun are groups of four lunar mansions beginning with Vishakha."
+  }
+ ]
+}

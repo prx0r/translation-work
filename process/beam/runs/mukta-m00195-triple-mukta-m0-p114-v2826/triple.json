@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2826,
+   "rows": [
+    {
+     "surface": "ṣaḍgaṇeśasya",
+     "gloss": "of-sixfold-gaṇeśa",
+     "grounds": "genitive relation indicating the deity to whom the gesture belongs",
+     "morph": "m.gen.sg, compound ṣaṣ+gaṇeśa"
+    },
+    {
+     "surface": "aṃkuśamudrā",
+     "gloss": "hook-gesture",
+     "grounds": "names the hand gesture",
+     "morph": "f.nom.sg, compound aṃkuśa+mudrā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamī",
+     "gloss": "seventh",
+     "grounds": "ordinal designation in a sequence of gestures",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which hand gesture is designated as the seventh for the sixfold Gaṇeśa?",
+   "premises": [
+    "The context concerns gestures of the sixfold Gaṇeśa.",
+    "The hook gesture is named explicitly.",
+    "The hook gesture is assigned the ordinal position seventh."
+   ],
+   "inference": "The hook gesture is the seventh gesture of the sixfold Gaṇeśa.",
+   "uncertainties": [],
+   "plain_english": "The hook gesture is the seventh gesture of the sixfold Gaṇeśa."
+  },
+  {
+   "verse": 2827,
+   "rows": [
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "qualifies the hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "hand",
+     "grounds": "object to be positioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive, √kṛ"
+    },
+    {
+     "surface": "adho",
+     "gloss": "downward",
+     "grounds": "direction of bending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmayet",
+     "gloss": "one-should-bend",
+     "grounds": "prescriptive instruction for forming the gesture",
+     "morph": "3.sg.optative-active, √nam"
+    },
+    {
+     "surface": "śanaiḥ",
+     "gloss": "slowly",
+     "grounds": "manner of bending",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the right hand be positioned to form the prescribed gesture?",
+   "premises": [
+    "The right hand is taken as the object of action.",
+    "The hand is to be bent downward.",
+    "The bending is to be done slowly."
+   ],
+   "inference": "The prescribed gesture requires slowly bending the right hand downward.",
+   "uncertainties": [],
+   "plain_english": "Having positioned the right hand, one should bend it slowly downward."
+  },
+  {
+   "verse": 2828,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "qualifies the hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "hand",
+     "grounds": "object described in the gesture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "baddha",
+     "gloss": "bound",
+     "grounds": "describes the state of the fingers",
+     "morph": "m.nom.sg, compound-member baddha+aṃguṣṭha+kaniṣṭhikam"
+    },
+    {
+     "surface": "aṃguṣṭha",
+     "gloss": "thumb",
+     "grounds": "one of the fingers involved in binding",
+     "morph": "m.nom.sg, compound-member baddha+aṃguṣṭha+kaniṣṭhikam"
+    },
+    {
+     "surface": "kaniṣṭhikam",
+     "gloss": "little-finger",
+     "grounds": "the other finger bound with the thumb",
+     "morph": "m.acc.sg, compound baddha+aṃguṣṭha+kaniṣṭhika"
+    }
+   ],
+   "question": "What configuration of the left hand is specified in this instruction?",
+   "premises": [
+    "The left hand is the focus of the instruction.",
+    "The thumb and little finger are involved.",
+    "The thumb and little finger are bound together."
+   ],
+   "inference": "The left hand is configured with its thumb and little finger bound together.",
+   "uncertainties": [],
+   "plain_english": "The left hand should have its thumb and little finger bound together."
+  },
+  {
+   "verse": 2829,
+   "rows": [
+    {
+     "surface": "śaktipriyā",
+     "gloss": "dear-to-śakti",
+     "grounds": "names or qualifies the gesture as favored by Śakti",
+     "morph": "f.nom.sg, compound śakti+priyā"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "states traditional recognition of the gesture",
+     "morph": "f.nom.sg, past-passive-participle, √man"
+    }
+   ],
+   "question": "How is the previously described hand configuration traditionally regarded?",
+   "premises": [
+    "A hand configuration has been described.",
+    "It is characterized as dear to Śakti.",
+    "It is stated to be traditionally considered so."
+   ],
+   "inference": "The described configuration is traditionally regarded as dear to Śakti.",
+   "uncertainties": [],
+   "plain_english": "This gesture is considered dear to Śakti."
+  },
+  {
+   "verse": 2830,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāgre",
+     "gloss": "at-little-finger-tip",
+     "grounds": "locates the point of pressure",
+     "morph": "n.loc.sg, compound kaniṣṭhā+agra"
+    },
+    {
+     "surface": "dakṣiṇa+aṃguṣṭha",
+     "gloss": "by-right-thumb",
+     "grounds": "instrument applying pressure; internal sandhi at +",
+     "morph": "m.inst.sg, compound dakṣiṇa+aṃguṣṭha"
+    },
+    {
+     "surface": "pīḍitam",
+     "gloss": "pressed",
+     "grounds": "describes the action performed on the finger tip",
+     "morph": "n.nom.sg, past-passive-participle, √pīḍ"
+    }
+   ],
+   "question": "Where and by what means is pressure applied in this gesture?",
+   "premises": [
+    "The tip of the little finger is specified as the location.",
+    "The right thumb is specified as the instrument.",
+    "Pressure is applied at that point."
+   ],
+   "inference": "The gesture involves pressing the tip of the little finger with the right thumb.",
+   "uncertainties": [],
+   "plain_english": "It is pressed at the tip of the little finger by the right thumb."
+  },
+  {
+   "verse": 2831,
+   "rows": [
+    {
+     "surface": "hastayoḥ",
+     "gloss": "of-both-hands",
+     "grounds": "specifies the hands involved",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "muṣṭi+yugalaṃ",
+     "gloss": "pair-of-fists",
+     "grounds": "the form to be made with both hands; internal sandhi at +",
+     "morph": "n.acc.sg, compound muṣṭi+yugala"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active, √kṛ"
+    },
+    {
+     "surface": "vighna+vināśanam",
+     "gloss": "obstacle-destroying",
+     "grounds": "states the function or effect of the gesture; internal sandhi at +",
+     "morph": "n.acc.sg, compound vighna+vināśana"
+    }
+   ],
+   "question": "What hand formation is prescribed and what effect is attributed to it?",
+   "premises": [
+    "Both hands are to be used.",
+    "A pair of fists is to be formed.",
+    "The formation is described as destroying obstacles."
+   ],
+   "inference": "One should make a pair of fists with both hands as an obstacle-destroying gesture.",
+   "uncertainties": [],
+   "plain_english": "One should make a pair of fists with both hands; this destroys obstacles."
+  },
+  {
+   "verse": 2832,
+   "rows": [
+    {
+     "surface": "dakṣam",
+     "gloss": "right",
+     "grounds": "qualifies the hand or fist to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-causative-active, √sthā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion of the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the right fist be placed to complete the described gesture?",
+   "premises": [
+    "The right element is to be acted upon.",
+    "The head is specified as the location.",
+    "Placement on the head is prescribed."
+   ],
+   "inference": "The right fist should be placed on the head.",
+   "uncertainties": [
+    "Whether dakṣam refers to the right hand or the right fist is inferred from the preceding verse."
+   ],
+   "plain_english": "And one should place the right one on the head; thus it is done."
+  },
+  {
+   "verse": 2833,
+   "rows": [
+    {
+     "surface": "vara+ādyāḥ",
+     "gloss": "boon-and-others",
+     "grounds": "names the first in a series of gestures; internal sandhi at +",
+     "morph": "f.nom.pl, compound vara+ādi"
+    },
+    {
+     "surface": "pāśaḥ",
+     "gloss": "noose",
+     "grounds": "names one of Śakti's gestures",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃkuśaḥ",
+     "gloss": "hook",
+     "grounds": "names another of Śakti's gestures",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakteḥ",
+     "gloss": "of-śakti",
+     "grounds": "attributes the gestures to Śakti",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "states the total number of gestures",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "indicates traditional enumeration",
+     "morph": "f.nom.pl, past-passive-participle, √smṛ"
+    }
+   ],
+   "question": "How many gestures of Śakti are traditionally enumerated including boon, noose, and hook?",
+   "premises": [
+    "Gestures beginning with boon are mentioned.",
+    "The noose and hook are included among them.",
+    "These gestures of Śakti are remembered as ten."
+   ],
+   "inference": "Ten gestures of Śakti are traditionally enumerated, including boon, noose, and hook.",
+   "uncertainties": [],
+   "plain_english": "The boon gesture and others, along with the noose and hook, are remembered as the ten gestures of Śakti."
+  },
+  {
+   "verse": 2834,
+   "rows": [
+    {
+     "surface": "kaniṣṭhā",
+     "gloss": "little-finger",
+     "grounds": "one boundary of the space described",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anāmikā",
+     "gloss": "ring-finger",
+     "grounds": "the other boundary of the space described",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "antare",
+     "gloss": "between",
+     "grounds": "indicates the interval between the two fingers",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which two fingers define the interval referenced for the next gesture?",
+   "premises": [
+    "The little finger is named.",
+    "The ring finger is named.",
+    "The space between them is indicated."
+   ],
+   "inference": "The interval between the little finger and the ring finger is specified.",
+   "uncertainties": [],
+   "plain_english": "Between the little finger and the ring finger."
+  },
+  {
+   "verse": 2835,
+   "rows": [
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "indicates continuation or repetition in the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sallaṁgne",
+     "gloss": "well-joined",
+     "grounds": "describes the fingers as closely joined; sandhi within token",
+     "morph": "f.nom.dual"
+    },
+    {
+     "surface": "suprasārite",
+     "gloss": "well-extended",
+     "grounds": "describes the fingers as fully extended",
+     "morph": "f.nom.dual"
+    }
+   ],
+   "question": "What state must the specified fingers assume in this stage of the gesture?",
+   "premises": [
+    "The instruction continues from the previous specification.",
+    "The fingers are to be well joined.",
+    "The fingers are to be well extended."
+   ],
+   "inference": "The specified fingers must be well joined and well extended.",
+   "uncertainties": [],
+   "plain_english": "Again, they should be well joined and well extended."
+  },
+  {
+   "verse": 2836,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active, √kṛ"
+    },
+    {
+     "surface": "saṃhatā",
+     "gloss": "joined-together",
+     "grounds": "describes the fingers as brought together",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "unnatā",
+     "gloss": "raised",
+     "grounds": "describes the upward position of the fingers",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "aṃgulī",
+     "gloss": "fingers",
+     "grounds": "object of the action",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "How should the fingers be arranged according to this instruction?",
+   "premises": [
+    "The fingers are the object of the action.",
+    "They are to be joined together.",
+    "They are to be raised."
+   ],
+   "inference": "One should make the fingers joined together and raised.",
+   "uncertainties": [],
+   "plain_english": "One should make the fingers joined together and raised."
+  },
+  {
+   "verse": 2837,
+   "rows": [
+    {
+     "surface": "vāma+aṃguṣṭha+udare",
+     "gloss": "in-left-thumb-hollow",
+     "grounds": "location for the remaining fingers; internal sandhi at +",
+     "morph": "n.loc.sg, compound vāma+aṃguṣṭha+udara"
+    },
+    {
+     "surface": "śeṣā",
+     "gloss": "remaining",
+     "grounds": "refers to the other fingers not yet specified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vakrā",
+     "gloss": "curved",
+     "grounds": "describes the posture of the remaining fingers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "direction for the little finger",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhikā",
+     "gloss": "little-finger",
+     "grounds": "finger specified to point upward",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What positions are assigned to the remaining fingers and the little finger?",
+   "premises": [
+    "The hollow of the left thumb is specified as a location.",
+    "The remaining fingers are to be curved there.",
+    "The little finger is to be directed upward."
+   ],
+   "inference": "The remaining fingers should be curved in the hollow of the left thumb while the little finger points upward.",
+   "uncertainties": [],
+   "plain_english": "The remaining fingers should be curved in the hollow of the left thumb, and the little finger should point upward."
+  },
+  {
+   "verse": 2838,
+   "rows": [
+    {
+     "surface": "kaniṣṭhayoḥ",
+     "gloss": "of-little-fingers",
+     "grounds": "specifies the fingers whose root is the location",
+     "morph": "f.gen.dual"
+    },
+    {
+     "surface": "mūla+gate",
+     "gloss": "gone-to-root",
+     "grounds": "describes the position of the index fingers; internal sandhi at +",
+     "morph": "f.nom.dual, compound mūla+gata"
+    },
+    {
+     "surface": "tarjanyau",
+     "gloss": "two-index-fingers",
+     "grounds": "subject of the conditional clause",
+     "morph": "f.nom.dual"
+    },
+    {
+     "surface": "bhavataḥ",
+     "gloss": "become",
+     "grounds": "states the condition",
+     "morph": "3.dual.present-active, √bhū"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces a conditional instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition involving the index and little fingers does the next instruction apply?",
+   "premises": [
+    "The two index fingers are the subject.",
+    "Their position is at the root of the little fingers.",
+    "This position is stated as a condition."
+   ],
+   "inference": "The next instruction applies if the two index fingers are placed at the root of the little fingers.",
+   "uncertainties": [],
+   "plain_english": "If the two index fingers are placed at the root of the little fingers."
+  },
+  {
+   "verse": 2839,
+   "rows": [
+    {
+     "surface": "kaniṣṭhā+tarjanī+granthiḥ",
+     "gloss": "little-finger-index-finger-knot",
+     "grounds": "names the knot formed by the specified fingers; internal sandhi at +",
+     "morph": "m.nom.sg, compound kaniṣṭhā+tarjanī+granthi"
+    },
+    {
+     "surface": "sthāpyau",
+     "gloss": "to-be-placed",
+     "grounds": "prescriptive gerundive indicating required placement",
+     "morph": "m.nom.dual, gerundive, √sthā"
+    },
+    {
+     "surface": "tiryaṅ+mukhau",
+     "gloss": "sideways-facing",
+     "grounds": "describes the orientation of the hands; internal sandhi at +",
+     "morph": "m.nom.dual, compound tiryañc+mukha"
+    },
+    {
+     "surface": "karau",
+     "gloss": "two-hands",
+     "grounds": "subject to be positioned",
+     "morph": "m.nom.dual"
+    }
+   ],
+   "question": "How must the hands be oriented when forming the little-finger and index-finger knot?",
+   "premises": [
+    "A knot of the little finger and index finger is formed.",
+    "The two hands are to be placed.",
+    "The hands must face sideways."
+   ],
+   "inference": "When forming the little-finger and index-finger knot, the two hands should be placed facing sideways.",
+   "uncertainties": [],
+   "plain_english": "The knot of the little finger and index finger should be formed with the two hands placed facing sideways."
+  },
+  {
+   "verse": 2840,
+   "rows": [
+    {
+     "surface": "mālā+vat",
+     "gloss": "like-garland",
+     "grounds": "simile describing the manner of touching; internal sandhi at +",
+     "morph": "(indecl.), compound mālā+vat"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active, √spṛś"
+    },
+    {
+     "surface": "ā+kaṇṭha+pādakam",
+     "gloss": "from-neck-to-foot",
+     "grounds": "specifies the extent of the touching motion; internal sandhi at +",
+     "morph": "n.acc.sg, compound ā+kaṇṭha+pādaka"
+    }
+   ],
+   "question": "In what manner and over what extent should the body be touched in this gesture?",
+   "premises": [
+    "The touching is to be done like a garland.",
+    "The motion extends from the neck to the foot.",
+    "This touching is prescribed."
+   ],
+   "inference": "One should touch from the neck to the foot in the manner of a garland.",
+   "uncertainties": [],
+   "plain_english": "One should touch from the neck down to the foot, as if with a garland."
+  },
+  {
+   "verse": 2841,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "qualifies the hand-lotus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hasta+ambujaṃ",
+     "gloss": "hand-lotus",
+     "grounds": "metaphorical term for the hand; internal sandhi at +",
+     "morph": "n.acc.sg, compound hasta+ambuja"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces a conditional alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrdhani",
+     "gloss": "on-head",
+     "grounds": "location for placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active, vi+√nyas"
+    }
+   ],
+   "question": "What alternative placement of the left hand is permitted in this practice?",
+   "premises": [
+    "The left hand-lotus is specified.",
+    "An alternative is introduced.",
+    "Placement on the head is prescribed as that alternative."
+   ],
+   "inference": "Alternatively, one may place the left hand-lotus on the head.",
+   "uncertainties": [],
+   "plain_english": "Or, if one wishes, one should place the left hand-lotus on the head."
+  },
+  {
+   "verse": 2842,
+   "rows": [
+    {
+     "surface": "anyonya",
+     "gloss": "mutual",
+     "grounds": "indicates reciprocal relation between the hands",
+     "morph": "(indecl.), compound-member anyonya+hasta+aṃgulayaḥ"
+    },
+    {
+     "surface": "hasta+aṃgulayaḥ",
+     "gloss": "hand-fingers",
+     "grounds": "the fingers of the hands involved; internal sandhi at +",
+     "morph": "f.nom.pl, compound hasta+aṃguli"
+    },
+    {
+     "surface": "tat+niṣṭhāḥ",
+     "gloss": "fixed-on-that",
+     "grounds": "describes the fingers as focused or fixed on that position; internal sandhi at +",
+     "morph": "f.nom.pl, compound tad+niṣṭha"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-causative-active, √sthā"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "on-heart",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where and in what mutual arrangement should the fingers of the hands be placed?",
+   "premises": [
+    "The fingers of the hands are to be arranged mutually.",
+    "They are to be fixed on that arrangement.",
+    "They are to be placed on the heart."
+   ],
+   "inference": "One should place the mutually arranged fingers of the hands, fixed in that position, on the heart.",
+   "uncertainties": [],
+   "plain_english": "One should place the fingers of the hands, mutually interlaced and fixed, upon the heart."
+  },
+  {
+   "verse": 2843,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of joining",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive, sam+√yuj"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location of the encircling action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarjanībhyāṃ",
+     "gloss": "with-two-index-fingers",
+     "grounds": "instruments used for encircling",
+     "morph": "f.inst.dual"
+    },
+    {
+     "surface": "suveṣṭayet",
+     "gloss": "one-should-encircle-well",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-causative-active, su+vi+√veṣṭ"
+    }
+   ],
+   "question": "How should the index fingers be used after properly joining the hands in the middle?",
+   "premises": [
+    "The hands are to be properly joined in the middle.",
+    "The two index fingers are the instruments.",
+    "They are to encircle well."
+   ],
+   "inference": "After properly joining in the middle, one should encircle well with the two index fingers.",
+   "uncertainties": [],
+   "plain_english": "Having properly joined them in the middle, one should encircle well with the two index fingers."
+  },
+  {
+   "verse": 2844,
+   "rows": [
+    {
+     "surface": "anyonya+antargate",
+     "gloss": "mutually-entered",
+     "grounds": "describes the interlocked state of the hands; internal sandhi at +",
+     "morph": "m.loc.sg, compound anyonya+antargata"
+    },
+    {
+     "surface": "dakṣa+karṇa+ante",
+     "gloss": "at-right-ear-end",
+     "grounds": "location where the gesture is placed; internal sandhi at +",
+     "morph": "m.loc.sg, compound dakṣa+karṇa+anta"
+    },
+    {
+     "surface": "khecarī",
+     "gloss": "moving-in-space",
+     "grounds": "name of the gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "states traditional recognition of the gesture",
+     "morph": "f.nom.sg, past-passive-participle, √man"
+    }
+   ],
+   "question": "What gesture is recognized when the interlocked hands are placed at the right ear?",
+   "premises": [
+    "The hands are mutually interlocked.",
+    "They are placed at the edge of the right ear.",
+    "This configuration is traditionally recognized as khecarī."
+   ],
+   "inference": "The interlocked hands placed at the right ear are considered the khecarī gesture.",
+   "uncertainties": [],
+   "plain_english": "When mutually interlocked and placed at the right ear, it is considered the khecarī gesture."
+  },
+  {
+   "verse": 2845,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive, √kṛ"
+    },
+    {
+     "surface": "tarjanī+aṃguṣṭhayoḥ",
+     "gloss": "of-index-finger-and-thumb",
+     "grounds": "specifies the two fingers to be joined; internal sandhi at +",
+     "morph": "f.gen.dual, compound tarjanī+aṃguṣṭha"
+    },
+    {
+     "surface": "yutiḥ",
+     "gloss": "union",
+     "grounds": "the joining action required",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What joining of fingers must be performed as a prerequisite action?",
+   "premises": [
+    "An action of making is indicated.",
+    "The index finger and thumb are specified.",
+    "Their union is to be formed."
+   ],
+   "inference": "One must form a union of the index finger and thumb.",
+   "uncertainties": [],
+   "plain_english": "Having made a union of the index finger and the thumb."
+  },
+  {
+   "verse": 2846,
+   "rows": [
+    {
+     "surface": "binā",
+     "gloss": "without",
+     "grounds": "indicates absence of the prerequisite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "qualifies the ritual acts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛthā",
+     "gloss": "in-vain",
+     "grounds": "states the result of omission",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā+japa+ādikam",
+     "gloss": "worship-recitation-and-so-on",
+     "grounds": "ritual acts rendered ineffective without the prerequisite; internal sandhi at +",
+     "morph": "n.nom.sg, compound pūjā+japa+ādika"
+    }
+   ],
+   "question": "What consequence follows for ritual acts performed without the prescribed finger union?",
+   "premises": [
+    "The prerequisite finger union may be absent.",
+    "Worship, recitation, and similar acts are performed.",
+    "Such acts are declared to be in vain without it."
+   ],
+   "inference": "Without the prescribed finger union, all worship, recitation, and similar acts are in vain.",
+   "uncertainties": [],
+   "plain_english": "Without it, all worship, recitation, and the like are in vain."
+  },
+  {
+   "verse": 2847,
+   "rows": [
+    {
+     "surface": "saṃyutā",
+     "gloss": "joined",
+     "grounds": "describes the fingers as joined together",
+     "morph": "f.nom.dual"
+    },
+    {
+     "surface": "mithaḥ",
+     "gloss": "mutually",
+     "grounds": "indicates reciprocal joining",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pada+tulye",
+     "gloss": "equal-to-feet",
+     "grounds": "describes the position or alignment of the fingers; internal sandhi at +",
+     "morph": "f.nom.dual, compound pada+tulya"
+    },
+    {
+     "surface": "ubhaya+aṃgulī",
+     "gloss": "both-fingers",
+     "grounds": "the two fingers involved; internal sandhi at +",
+     "morph": "f.nom.dual, compound ubhaya+aṃguli"
+    },
+    {
+     "surface": "vare",
+     "gloss": "o-excellent-one",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How are the two fingers to be mutually joined in this addressed instruction?",
+   "premises": [
+    "Two fingers are specified.",
+    "They are to be mutually joined.",
+    "They are described as equal to feet in position."
+   ],
+   "inference": "The two fingers should be mutually joined and positioned like feet.",
+   "uncertainties": [
+    "The exact spatial sense of pada+tulye is context-dependent."
+   ],
+   "plain_english": "O excellent one, the two fingers should be mutually joined and placed like feet."
+  },
+  {
+   "verse": 2848,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhābhyāṃ",
+     "gloss": "with-two-thumbs",
+     "grounds": "instruments used to press",
+     "morph": "m.inst.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karayoḥ",
+     "gloss": "of-two-hands",
+     "grounds": "specifies the hands to which the fingers belong",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "ākrameta",
+     "gloss": "one-should-press",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active, ā+√kram"
+    },
+    {
+     "surface": "kanisṭhike",
+     "gloss": "two-little-fingers",
+     "grounds": "objects to be pressed",
+     "morph": "f.acc.dual"
+    }
+   ],
+   "question": "Which fingers should be pressed and with what instruments in this step?",
+   "premises": [
+    "The two thumbs are the instruments.",
+    "The two little fingers of the hands are the objects.",
+    "Pressing them is prescribed."
+   ],
+   "inference": "One should press the two little fingers of the hands with the two thumbs.",
+   "uncertainties": [],
+   "plain_english": "And one should press the two little fingers of the hands with the two thumbs."
+  },
+  {
+   "verse": 2849,
+   "rows": [
+    {
+     "surface": "aṃguli+agrāṇi",
+     "gloss": "finger-tips",
+     "grounds": "the parts of the fingers to be joined; internal sandhi at +",
+     "morph": "n.acc.pl, compound aṃguli+agra"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive, sam+√yuj"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "downward",
+     "grounds": "direction of bending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sannamayet",
+     "gloss": "one-should-bend",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-causative-active, sam+√nam"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion of the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What final action is prescribed after joining the fingertips together?",
+   "premises": [
+    "The fingertips are to be joined together.",
+    "A downward direction is specified.",
+    "Bending them downward is prescribed."
+   ],
+   "inference": "After joining the fingertips, one should bend them downward.",
+   "uncertainties": [],
+   "plain_english": "Having joined the fingertips together, one should bend them downward; thus it is done."
+  }
+ ]
+}

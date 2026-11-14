@@ -1,0 +1,185 @@
+#!/usr/bin/env python3
+"""prioritize_mukta — rank the Muktabodha burn list.
+
+Rule (owner): shortest untranslated first; translated-with-most last.
+Translatedness T(work) = max(index English count, our machine-complete
+flag counts as translated, curated famous-translation estimates).
+Rank key: (T, verses). Done-by-us works sink to bottom (skip burn).
+
+Usage: python3 tools/prioritize_mukta.py [--out process/beam/ranked_burn.json]
+Reads: tools/bibliography.py (FINAL base layer 2026-11-12 — first priority),
+  /tmp/mukta_census.json, tools/work_state.py (status),
+  openpatala availability index (for the 15 title-joins).
+Writes: ranked list [{burn_rank, catalog, title, verses, T, T_why, baseline}].
+"""
+from __future__ import annotations
+import argparse, json, sys, unicodedata
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+AS_OF = "2026-11-12"
+
+# Curated famous-English-translation counts (high-confidence only; estimates
+# flagged ~. Re-audit against the research matrix when PR-001 lands.)
+FAMOUS = {
+    "M00167": (50, "~Bhagavadgita: dozens of English renderings"),
+    "M00244": (50, "see M00167 (another Gita edition)"),
+    "M00330": (50, "see M00167 (another Gita edition)"),
+    "M00216": (10, "~Saundaryalahari: many renderings"),
+    "M00334": (10, "~Hathayogapradipika: many renderings"),
+    "M00067": (5, "~Spandakarika: Dyczkowski/Singh/Hughes et al."),
+    "M00271": (5, "~Vijnanabhairava: Singh/Dixon et al."),
+    "M00349": (4, "~Sivasutra: Singh/Dyczkowski et al. (+Vimarsini layer)"),
+    "M00019": (1, "IPVV: Pandey 1954 English (Karika+Vimarsini, dated); Torella IPK+vrtti 2002 for context; NO modern full rendering"),
+    "M00092": (4, "Tantraloka: Dyczkowski 2023 11v complete EN + Gnoli Italian + Lakshmanjoo ch1-4 + Singh 5v"),
+    "M00093": (4, "see M00092"),
+    "M00160": (1, "MV-mula: Singh/Maheshvarananda selected chs (1,2,12-19,21-23, Indica 2016) only"),
+    "M00091": (1, "Svacchanda: Singh ch-VII (prana) only; otherwise untranslated"),
+    "M00038": (1, "Netra: Singh ch VII-VIII only; Flood/Wernicke-Olesen full translation IN PROGRESS (unpublished)"),
+    "M00271": (3, "Vijnanabhairava: Singh selected + Dixon + Pradipaka (trikashaivism)"),
+    "M00163": (1, "Spandanirnaya: Pradipaka translation (trikashaivism)"),
+    "M00349": (4, "SivasutraVimarsini: Dyczkowski-era + Singh + Pradipaka Vimarshini translation"),
+    "M00505": (2, "Bhairavastava: ours + Pradipaka Bhairavastotram (trikashaivism)"),
+    "M00031": (3, "Kularnava: Rai 1983 + Banerji complete EN (seed) + Pandit readings free"),
+    "M00349": (3, "Sivasutra: Dyczkowski 1992 Aphorisms + Singh selected + ours"),
+    "M00153": (1, "~Tantrasara: partial/excerpt renderings"),
+    "M00013": (1, "~Brhattantrasara: excerpt renderings"),
+    "M00027": (1, "Kaulajnananirnaya: Magee complete EN (seed)"),
+    "M00350": (1, "~Pratyabhijnahrdaya: Singh"),
+    "M00154": (1, "~Paratrimsikavivrti: partial renderings"),
+    "M00089": (1, "~Stavacintamani: Hanneder-associated work"),
+    "M00259": (2, "~Sivasutravimarsini: partial renderings"),
+}
+
+def norm(s: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFKD", s or "")
+                   if not unicodedata.combining(c)).lower()
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--out", default="process/beam/ranked_burn.json")
+    ap.add_argument("--short-max", type=int, default=50,
+                    help="verse-length line separating short/long (default 50)")
+    a = ap.parse_args()
+    rows = json.load(open("/tmp/mukta_census.json"))
+    # SINGLE SOURCE: work_state (dirs/STATUS.json), never a copied status
+    sys.path.insert(0, str(ROOT / "tools"))
+    from work_state import state_for_title  # noqa: E402
+    def _state(r):
+        return state_for_title(r["title"], r["catalog"])["state"]
+    try:
+        ch = {}
+        with open(ROOT / "process/beam/curated_hits.jsonl", encoding="utf-8") as f:
+            for ln in f:
+                try:
+                    r = json.loads(ln)
+                    ch[r["catalog"]] = r["hits"]
+                except Exception:
+                    pass
+    except Exception:
+        ch = {}
+    try:
+        idx = json.load(open("/root/openpatalaproject/data/corpus/"
+                             "translation-availability.json")).get("works", {})
+        ixn = {norm(w.get("title", "")): w for w in idx.values()}
+    except Exception:
+        ixn = {}
+
+    try:
+        sev = json.load(open(ROOT / "process/beam/seed_evidence.json"))
+    except Exception:
+        sev = {}
+    # FINAL BIBLIOGRAPHY (base layer, 2026-11-12): T from this first
+    try:
+        from bibliography import load as _bib_load
+        _bib = _bib_load()
+        _burn = _bib.get("burn") or {}
+        _eds = _bib.get("editions") or {}
+    except Exception:
+        _burn, _eds = {}, {}
+    out = []
+    for r in rows:
+        cat = r["catalog"]
+        blob = norm(r["title"] + " " + r["file"])
+        if any(k in blob for k in ("manjusrimulakalpa", "guhyasamaja",
+                                   "sadhanamala", "advayavajra")):
+            continue  # out of realm (buddhist; M00652 sricakrasadhanam is
+            # Hindu Srividya ritual — keep it)
+        st = _state(r)
+        if st == "machine-complete":
+            T, why = 10 ** 9, "machine-complete by us: skip burn"
+        elif st == "started":
+            T, why = 10 ** 8, "in progress here: finish before new burns"
+        else:
+            T, why = 0, "untranslated in final bibliography"
+            # 1) FINAL bibliography wins (newest-first): edition count / has_translation
+            n_ed = len(_eds.get(cat) or [])
+            b = _burn.get(cat) or {}
+            has_t = (b.get("has_translation") or "").strip().upper() == "TRUE"
+            if n_ed or has_t:
+                T = max(T, n_ed, 1)
+                why = (f"final biblio {AS_OF}: {n_ed} edition(s)"
+                       if n_ed else f"final biblio {AS_OF}: has_translation")
+            # 2) openpatala index (title-join fallback)
+            w = ixn.get(norm(r["title"]))
+            if w and (w.get("has_english") or (w.get("translations") or [])):
+                T = max(T, len(w.get("translations") or []) or 1)
+                if T and why.startswith("untranslated"):
+                    why = "openpatala index: english present"
+            # 3) curated FAMOUS / hits / seed as uplift only
+            if cat in FAMOUS:
+                fT, fwhy = FAMOUS[cat]
+                if fT >= T:
+                    T, why = fT, "curated: " + fwhy
+            if cat in ch and ch[cat]:
+                T = T + len(ch[cat])
+                why = (why + f" + {len(ch[cat])} index hits "
+                       f"({', '.join(sorted(set(h['source'] for h in ch[cat])))})")
+            if cat in sev:
+                e = sev[cat]
+                add = 3 * e["complete_en"] + max(0, e["n"] - e["complete_en"])
+                if add > 0:
+                    T = T + add
+                    why = why + f" + seed:{e['status']}({add})"
+        out.append({"catalog": cat, "title": r["title"], "verses": r["verses"],
+                    "T": T, "T_why": why, "tw": st,
+                    "prose": r["verses"] == 0,
+                    "edition_count": len(_eds.get(cat) or []),
+                    "baseline": f"muktabodha_final_{AS_OF}"})
+    # PRIORITY FORMULA (owner 2026-11-12):
+    #   0 finish in-progress (started)
+    #   1 untranslated-short  (T=0, verses<=short_max)
+    #   2 translated-short    (T>0, verses<=short_max)
+    #   3 untranslated-long   (T=0, verses> short_max)  ← "line": start longer untranslated here
+    #   4 translated-long     (T>0, verses> short_max)
+    #   8 prose (needs chunker) · 9 machine-complete
+    SM = a.short_max
+    def _bucket(o):
+        if o["T"] >= 10 ** 9: return 10   # machine-complete: done
+        if o.get("tw") == "started": return 9  # in progress: queue finishes it, not a START candidate
+        if o["prose"]: return 8              # prose tail (chunker needed)
+        if o["T"] == 0:
+            return 1 if o["verses"] <= SM else 3   # A untranslated-short, C untranslated-long
+        return 2 if o["verses"] <= SM else 4       # B translated-short, D translated-long
+    out.sort(key=lambda o: (_bucket(o), o["verses"], o["T"]))
+    for o in out:
+        o["bucket"] = _bucket(o)
+        o["short_max"] = SM
+    for i, o in enumerate(out, 1):
+        o["burn_rank"] = i
+    (ROOT / a.out).write_text(json.dumps(out, ensure_ascii=False, indent=0))
+    un = [o for o in out if o["T"] == 0]
+    print(f"ranked {len(out)} | untranslated: {len(un)} "
+          f"({sum(o['verses'] for o in un)} verses)")
+    print("top 12:")
+    for o in out[:12]:
+        print(f"  {o['burn_rank']:3d}  {o['verses']:5d}v T={o['T']}  "
+              f"{o['catalog']:8s}  {o['title'][:44]}")
+    print("bottom 5:")
+    for o in out[-5:]:
+        print(f"  {o['burn_rank']:3d}  {o['verses']:5d}v T={o['T']}  "
+              f"{o['catalog']:8s}  {o['title'][:44]}")
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())

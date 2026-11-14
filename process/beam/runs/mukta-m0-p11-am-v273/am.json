@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p11",
+ "verse": 273,
+ "question": "Which upper body locations are included in the continued placement sequence?",
+ "premises": [
+  "The placement sequence continues on the body.",
+  "Nose, face, and throat are included.",
+  "The pair of shoulders is likewise included."
+ ],
+ "inference": "The sequence includes the nose, face, throat, and likewise the pair of shoulders.",
+ "uncertainties": [
+  "The first token appears to repeat the shoulder-pair element within a fused form; it is preserved as given."
+ ],
+ "plain_english": "Thus on the nose, face, and throat, and likewise on the pair of shoulders."
+}

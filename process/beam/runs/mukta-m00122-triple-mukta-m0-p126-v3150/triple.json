@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb introducing the continuation of the preceding statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "campakapunnāganameruvakuleṣvapi",
+     "gloss": "in-campaka-punnaga-meru-vakula-groups",
+     "grounds": "fused locative plural form with api; names campaka, punnaga, meru, and vakula groups, with api adding 'also'",
+     "morph": "loc.pl.n + (indecl.)"
+    }
+   ],
+   "question": "Does this same attainment apply also to campaka, punnaga, meru, and vakula groups?",
+   "premises": [
+    "The preceding attainment is extended to named groups.",
+    "This verse names campaka, punnaga, meru, and vakula.",
+    "The particle api signals inclusion of those groups."
+   ],
+   "inference": "The same result is extended to these additional named groups.",
+   "uncertainties": [
+    "The exact ritual referent of each named group remains context-dependent."
+   ],
+   "plain_english": "Thus also in the campaka, punnaga, meru, and vakula groups."
+  }
+ ]
+}

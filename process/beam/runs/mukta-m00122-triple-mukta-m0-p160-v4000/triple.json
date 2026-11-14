@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 4000,
+   "rows": [
+    {
+     "surface": "sādhya+nakṣatra+vṛkṣeṇa",
+     "gloss": "by-sādhya-constellation-tree",
+     "grounds": "instrumental of the compound naming the tree tied to the sādhya constellation; marks the means or material basis for the dolls",
+     "morph": "instr.sg.masc compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle adding the further requirement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ukta+lakṣaṇa+saṃyutāḥ",
+     "gloss": "endowed-with-described-characteristics",
+     "grounds": "compound adjective agreeing with the four dolls; requires the marks already described",
+     "morph": "nom.pl.fem adj"
+    }
+   ],
+   "question": "How must the four dolls be endowed with described characteristics and linked to the sādhya constellation tree?",
+   "premises": [
+    "four dolls are to be made properly",
+    "they must be linked to sādhya constellation tree",
+    "they must bear described characteristics"
+   ],
+   "inference": "proper doll construction requires both constellation-tree linkage and described marks",
+   "uncertainties": [
+    "exact identification of sādhya constellation remains uncertain",
+    "agreement of saṃyutāḥ with puttalīḥ is inferred from context"
+   ],
+   "plain_english": "The four dolls should also be made with the tree of the sādhya constellation and endowed with the described characteristics."
+  }
+ ]
+}

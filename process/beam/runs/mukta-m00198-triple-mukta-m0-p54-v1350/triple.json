@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "ūrdhvabhūmiviśālaṃ",
+     "gloss": "upper-level-wide",
+     "grounds": "compound adjective describing extent across upper levels",
+     "morph": "compound adj., n.nom.sg."
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle indicating continuation or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇabhāgavibhājite",
+     "gloss": "divided-into-quality-portions",
+     "grounds": "compound participial adjective indicating division into guṇa parts",
+     "morph": "compound adj., n.loc.sg."
+    }
+   ],
+   "question": "How are the upper levels of the described structure apportioned according to qualities?",
+   "premises": [
+    "The structure is characterized as wide in its upper levels.",
+    "The structure is divided into portions defined by qualities.",
+    "This division applies within the context of the previously described layout."
+   ],
+   "inference": "The upper levels of the structure extend broadly and are organized by division into quality-based portions.",
+   "uncertainties": [
+    "The exact referent of the described structure is supplied by the preceding verses."
+   ],
+   "plain_english": "And it is wide in its upper levels, divided into portions according to the qualities."
+  }
+ ]
+}

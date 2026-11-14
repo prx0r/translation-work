@@ -1,0 +1,1104 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśattu",
+     "gloss": "thirty-six-but",
+     "grounds": "numeral with particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gale",
+     "gloss": "on-neck",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "one-should-place",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "bāhvoḥ",
+     "gloss": "on-two-arms",
+     "grounds": "location of placement",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral quantity repeated",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many beads should be placed on the neck and on each arm?",
+   "premises": [
+    "Thirty-six beads are prescribed for the neck.",
+    "Sixteen beads are prescribed for each of the two arms."
+   ],
+   "inference": "The prescribed distribution is thirty-six on the neck and sixteen on each arm.",
+   "uncertainties": [],
+   "plain_english": "One should place thirty-six beads on the neck and sixteen on each of the two arms."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśatairmālāṃ",
+     "gloss": "with-hundred-and-eight-garland",
+     "grounds": "instrumental compound form as given",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "garland",
+     "grounds": "object of arrangement",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "japayajñe",
+     "gloss": "in-recitation-sacrifice",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt pra-√kḷp"
+    }
+   ],
+   "question": "What kind of rosary should be arranged for the recitation sacrifice?",
+   "premises": [
+    "The context is the recitation sacrifice.",
+    "A garland of one hundred and eight is specified."
+   ],
+   "inference": "A rosary of one hundred and eight beads should be arranged for the recitation sacrifice.",
+   "uncertainties": [
+    "The first token repeats mālāṃ in fused form; taken as a single instrumental expression as given."
+   ],
+   "plain_english": "In the recitation sacrifice, one should arrange a rosary of one hundred and eight beads."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "saptakaṃ",
+     "gloss": "set-of-seven",
+     "grounds": "alternative quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśakaṃ",
+     "gloss": "set-of-ten",
+     "grounds": "alternative quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bibhṛyāt",
+     "gloss": "one-should-wear",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √bhṛ"
+    },
+    {
+     "surface": "kaṇṭhadeśataḥ",
+     "gloss": "from-neck-region",
+     "grounds": "location of wearing",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative quantities may be worn in the region of the neck?",
+   "premises": [
+    "A set of seven or a set of ten is mentioned as alternatives.",
+    "The wearing is specified for the neck region."
+   ],
+   "inference": "One may wear either seven or ten in the neck region.",
+   "uncertainties": [
+    "The exact unit counted by saptakaṃ and daśakaṃ is not explicitly stated in this verse."
+   ],
+   "plain_english": "One should wear a set of seven or a set of ten in the region of the neck."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "keyūrakaṭake",
+     "gloss": "armlet-and-bracelet",
+     "grounds": "ornaments worn on arms",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kakṣabandhe",
+     "gloss": "on-armpit-band",
+     "grounds": "location of wearing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ornaments and bodily locations are especially indicated for wearing?",
+   "premises": [
+    "Armlets and bracelets are mentioned.",
+    "The armpit band is mentioned as a location."
+   ],
+   "inference": "Armlets and bracelets, especially on the armpit band, are indicated.",
+   "uncertainties": [],
+   "plain_english": "One should especially wear armlets and bracelets, and also on the armpit band."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "sahasram",
+     "gloss": "thousand",
+     "grounds": "highest quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "best",
+     "grounds": "qualitative evaluation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg.past-pass-ppl √vac"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner of distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedena",
+     "gloss": "by-distinction",
+     "grounds": "basis of graded arrangement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-wear",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √dhṛ"
+    }
+   ],
+   "question": "What quantity is declared best and how should it be worn by distinction?",
+   "premises": [
+    "A thousand is declared the best.",
+    "Wearing is to be done according to distinction."
+   ],
+   "inference": "One should wear according to graded distinctions, with a thousand declared as the best.",
+   "uncertainties": [],
+   "plain_english": "A thousand is declared the best; thus one should wear accordingly by distinction."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "savitur",
+     "gloss": "of-sun",
+     "grounds": "deity associated with the orb",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "maṇḍalasvāmī",
+     "gloss": "lord-of-orb",
+     "grounds": "identity claimed by speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāvitrīdevatā",
+     "gloss": "sāvitrī-deity",
+     "grounds": "identity claimed by speaker",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asmyaham",
+     "gloss": "am-i",
+     "grounds": "first-person identification",
+     "morph": "1.sg.pres.act √as + pron.nom.sg"
+    }
+   ],
+   "question": "What divine identities does the speaker claim in relation to the solar orb?",
+   "premises": [
+    "The speaker identifies as lord of the sun's orb.",
+    "The speaker identifies as the deity Sāvitrī."
+   ],
+   "inference": "The speaker claims identity as both the lord of the solar orb and the deity Sāvitrī.",
+   "uncertainties": [],
+   "plain_english": "I am the lord of the sun's orb and I am the deity Sāvitrī."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "number of things lost",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "person affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "resulting loss",
+     "morph": "3.pl.pres.act √naś"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhuḥ",
+     "gloss": "they-say",
+     "grounds": "traditional report",
+     "morph": "3.pl.perf.act √ah"
+    },
+    {
+     "surface": "prajñā",
+     "gloss": "wisdom",
+     "grounds": "first quality lost",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yaśo",
+     "gloss": "fame",
+     "grounds": "second quality lost",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "balam",
+     "gloss": "strength",
+     "grounds": "third quality lost",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which qualities are said to perish for that person according to tradition?",
+   "premises": [
+    "Four things are said to perish for him.",
+    "Wisdom, fame, and strength are explicitly named."
+   ],
+   "inference": "Tradition states that four things perish for him, including wisdom, fame, and strength.",
+   "uncertainties": [
+    "Only three of the four perishing things are explicitly named in this verse."
+   ],
+   "plain_english": "Indeed, they say that four things perish for him: wisdom, fame, and strength."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "bhargamukhyābhidhānaśca",
+     "gloss": "named-chiefly-bharga-and",
+     "grounds": "epithet with attached conjunction",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇadhīcodakaḥ",
+     "gloss": "impeller-of-life-and-intellect",
+     "grounds": "epithet describing function",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant duration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what epithets and functions is the deity continually characterized here?",
+   "premises": [
+    "The deity is named chiefly as Bharga.",
+    "The deity is described as the impeller of life and intellect."
+   ],
+   "inference": "The deity is continually characterized as Bharga and as the impeller of life and intellect.",
+   "uncertainties": [
+    "The compound prāṇadhīcodakaḥ is interpreted functionally; its precise internal analysis is not fully explicit."
+   ],
+   "plain_english": "He is always known chiefly as Bharga and as the one who impels life and intellect."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "uttamair",
+     "gloss": "by-best",
+     "grounds": "qualified worshippers",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "arcanīyo",
+     "gloss": "to-be-worshipped",
+     "grounds": "obligation of worship",
+     "morph": "m.nom.sg.fut-pass-ppl √arc"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker as object of worship",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "ṣaṭkālaṃ",
+     "gloss": "six-times",
+     "grounds": "frequency of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktiśālibhiḥ",
+     "gloss": "by-those-endowed-with-devotion",
+     "grounds": "qualified worshippers",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "By whom and how frequently should the speaker be worshipped?",
+   "premises": [
+    "The speaker declares himself worthy of worship.",
+    "The worshippers are described as the best and endowed with devotion.",
+    "The worship is to occur six times."
+   ],
+   "inference": "The speaker should be worshipped six times by the best devotees.",
+   "uncertainties": [],
+   "plain_english": "I am to be worshipped six times by the best ones, those endowed with devotion."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "aruṇasyodaye",
+     "gloss": "at-dawn-of-red-light",
+     "grounds": "time of worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tātkālikīṃ",
+     "gloss": "of-that-time",
+     "grounds": "worship appropriate to the time",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What worship should be performed at the time of dawn's red light?",
+   "premises": [
+    "The time specified is the rising of the red dawn.",
+    "A worship appropriate to that time is prescribed."
+   ],
+   "inference": "At dawn one should perform the worship appropriate to that time.",
+   "uncertainties": [],
+   "plain_english": "At the rising of dawn, one should then perform the worship appropriate to that time."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "upatiṣṭhecca",
+     "gloss": "and-one-should-stand-before",
+     "grounds": "ritual act with attached conjunction",
+     "morph": "3.sg.act-opt upa-√sthā + (indecl.)"
+    },
+    {
+     "surface": "savitur",
+     "gloss": "of-sun",
+     "grounds": "deity before whom one stands",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "intermediate period or space",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of focused attention",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "ananyadhīḥ",
+     "gloss": "with-undivided-mind",
+     "grounds": "mental state of worshipper",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should one attend upon the sun during the interval with focused devotion?",
+   "premises": [
+    "One should stand before the sun in the interval.",
+    "One should do so with an undivided mind directed to the speaker."
+   ],
+   "inference": "During the interval one should attend upon the sun with an undivided mind focused on the speaker.",
+   "uncertainties": [
+    "The exact sense of antaraṃ as time or space is not fully explicit."
+   ],
+   "plain_english": "And in the interval one should stand before the sun, with an undivided mind fixed on me."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "ṣaḍakṣarīṃ",
+     "gloss": "six-syllabled",
+     "grounds": "mantra characterized by six syllables",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sāṅgāṃ",
+     "gloss": "with-limbs",
+     "grounds": "mantra accompanied by its limbs",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śrīrudrādīn",
+     "gloss": "śrī-rudra-and-others",
+     "grounds": "additional texts or mantras",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which recitations are especially prescribed during this ritual observance?",
+   "premises": [
+    "The six-syllabled mantra with its limbs is to be recited.",
+    "Texts beginning with Śrī Rudra are especially included."
+   ],
+   "inference": "One should especially recite the six-syllabled mantra with its limbs and the Śrī Rudra and others.",
+   "uncertainties": [],
+   "plain_english": "One should recite the six-syllabled mantra with its limbs, and especially the Śrī Rudra and others."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "japayajñaṃ",
+     "gloss": "recitation-sacrifice",
+     "grounds": "ritual act completed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "prior action",
+     "morph": "(gerund) sam-ā-√āp"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner of completion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurvādīn",
+     "gloss": "teacher-and-others",
+     "grounds": "persons to be saluted",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "abhivādayet",
+     "gloss": "one-should-salute",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt abhi-√vad"
+    }
+   ],
+   "question": "What respectful action should follow the completion of the recitation sacrifice?",
+   "premises": [
+    "The recitation sacrifice is completed.",
+    "The teacher and others are named as recipients of salutation."
+   ],
+   "inference": "After completing the recitation sacrifice, one should salute the teacher and others.",
+   "uncertainties": [],
+   "plain_english": "Having thus completed the recitation sacrifice, one should salute the teacher and others."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "dvitīyabhāge",
+     "gloss": "in-second-part",
+     "grounds": "time division of the day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyasyed",
+     "gloss": "one-should-study",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt abhi-√as"
+    },
+    {
+     "surface": "vedān",
+     "gloss": "vedas",
+     "grounds": "scriptural texts to be studied",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "divyāgamānapi",
+     "gloss": "divine-āgamas-also",
+     "grounds": "additional scriptures with attached particle",
+     "morph": "m.acc.pl + (indecl.)"
+    }
+   ],
+   "question": "Which scriptures should be studied during the second part of the day?",
+   "premises": [
+    "The second part of the day is specified.",
+    "The Vedas and the divine Āgamas are named as objects of study."
+   ],
+   "inference": "In the second part of the day one should study the Vedas and also the divine Āgamas.",
+   "uncertainties": [],
+   "plain_english": "But in the second part of the day, one should study the Vedas and also the divine Āgamas."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt sam-ā-√car"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "attitude of worship",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṅgavakālikīm",
+     "gloss": "of-mid-morning-time",
+     "grounds": "worship appropriate to mid-morning",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What worship should be performed with devotion at the mid-morning time?",
+   "premises": [
+    "The time indicated is mid-morning.",
+    "Worship is to be performed with devotion."
+   ],
+   "inference": "At that time one should perform the mid-morning worship with devotion.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform with devotion the worship appropriate to mid-morning."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "items to be gathered",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vilvapatrāṇi",
+     "gloss": "bilva-leaves",
+     "grounds": "items to be gathered",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "guggulvādīni",
+     "gloss": "guggulu-and-others",
+     "grounds": "additional items to be gathered",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "one-should-bring",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt ā-√hṛ"
+    }
+   ],
+   "question": "Which ritual materials should be gathered for use in worship?",
+   "premises": [
+    "Flowers and bilva leaves are specified.",
+    "Guggulu and other items are also specified."
+   ],
+   "inference": "One should bring flowers, bilva leaves, guggulu, and other such materials.",
+   "uncertainties": [],
+   "plain_english": "One should bring flowers, bilva leaves, guggulu, and other such items."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation of instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthabhāge",
+     "gloss": "in-fourth-part",
+     "grounds": "time division of the day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānārthaṃ",
+     "gloss": "for-bathing",
+     "grounds": "purpose of gathering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛdam",
+     "gloss": "clay",
+     "grounds": "material to be gathered",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "one-should-bring",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt ā-√hṛ"
+    }
+   ],
+   "question": "What material should be brought in the fourth part of the day for bathing?",
+   "premises": [
+    "The fourth part of the day is specified.",
+    "Clay is to be brought for the purpose of bathing."
+   ],
+   "inference": "In the fourth part of the day one should bring clay for bathing.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in the fourth part of the day, one should bring clay for bathing."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of sacrifices",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāyajñāḥ",
+     "gloss": "great-sacrifices",
+     "grounds": "ritual duties",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-performed",
+     "grounds": "obligation",
+     "morph": "m.nom.pl.fut-pass-ppl √kṛ"
+    },
+    {
+     "surface": "gṛhiṇā",
+     "gloss": "by-householder",
+     "grounds": "agent responsible",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "attitude in performance",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "Which ritual duties must the householder perform joyfully after these preparations?",
+   "premises": [
+    "Five great sacrifices are named.",
+    "The householder is the responsible agent.",
+    "They are to be performed with joy."
+   ],
+   "inference": "The householder should then joyfully perform the five great sacrifices.",
+   "uncertainties": [],
+   "plain_english": "Then the householder should joyfully perform the five great sacrifices."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "brahmaṇaśca",
+     "gloss": "of-brahma-and",
+     "grounds": "source of declaration with attached conjunction",
+     "morph": "m.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "vinirdiṣṭāḥ",
+     "gloss": "declared",
+     "grounds": "authoritative specification",
+     "morph": "m.nom.pl.past-pass-ppl vi-nir-√diś"
+    },
+    {
+     "surface": "pañcayajñā",
+     "gloss": "five-sacrifices",
+     "grounds": "ritual duties specified",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nagātmaje",
+     "gloss": "o-daughter-of-mountain",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "To whom and by whose authority are the five sacrifices declared?",
+   "premises": [
+    "The five sacrifices are declared.",
+    "Brahma is named as the source of the declaration.",
+    "The daughter of the mountain is addressed."
+   ],
+   "inference": "The five sacrifices are declared by Brahma to the daughter of the mountain.",
+   "uncertainties": [],
+   "plain_english": "O daughter of the mountain, the five sacrifices were declared by Brahma."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "dadātyapaḥ",
+     "gloss": "gives-water",
+     "grounds": "ritual act with attached object",
+     "morph": "3.sg.pres.act √dā + f.acc.pl"
+    },
+    {
+     "surface": "pitṛbhyo",
+     "gloss": "to-ancestors",
+     "grounds": "recipients of offering",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative reference",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pitṛyajña",
+     "gloss": "ancestor-sacrifice",
+     "grounds": "name of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itīritaḥ",
+     "gloss": "thus-called",
+     "grounds": "designation of the rite",
+     "morph": "m.nom.sg.past-pass-ppl iti-√īr"
+    }
+   ],
+   "question": "Which offering to the ancestors is identified as the ancestor sacrifice?",
+   "premises": [
+    "Water is given to the ancestors.",
+    "This act is named the ancestor sacrifice."
+   ],
+   "inference": "The giving of water to the ancestors is called the ancestor sacrifice.",
+   "uncertainties": [],
+   "plain_english": "When one gives water to the ancestors, this is called the ancestor sacrifice."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative reference to an act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svādhyāyam",
+     "gloss": "self-study",
+     "grounds": "scriptural recitation or study",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "adhīyīta",
+     "gloss": "one-studies",
+     "grounds": "act of study",
+     "morph": "3.sg.act-opt adhi-√i"
+    },
+    {
+     "surface": "brahmayajña",
+     "gloss": "brahma-sacrifice",
+     "grounds": "name of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itīryate",
+     "gloss": "thus-is-called",
+     "grounds": "designation of the rite",
+     "morph": "3.sg.pass-pres iti-√īr"
+    }
+   ],
+   "question": "Which act of scriptural study is designated as the brahma sacrifice?",
+   "premises": [
+    "One studies or recites svādhyāya.",
+    "That act is named the brahma sacrifice."
+   ],
+   "inference": "The study of svādhyāya is called the brahma sacrifice.",
+   "uncertainties": [],
+   "plain_english": "When one studies one's own recitation, that is called the brahma sacrifice."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "punastanna",
+     "gloss": "again-that-not",
+     "grounds": "fused sequence as given",
+     "morph": "(indecl.) + pron.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "prescriptive status",
+     "morph": "n.nom.sg.fut-pass-ppl vi-√dhā"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "potential or prescriptive copula",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "svapitṝṇāṃ",
+     "gloss": "of-own-ancestors",
+     "grounds": "recipients of libation",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpaṇe",
+     "gloss": "in-libation",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Is that same act required again in the libation for one's own ancestors?",
+   "premises": [
+    "The verse refers again to that act.",
+    "The context is the libation for one's own ancestors.",
+    "The act is negated as something to be done."
+   ],
+   "inference": "That act should not be done again in the libation for one's own ancestors.",
+   "uncertainties": [
+    "The referent of tat is taken from the immediately preceding context."
+   ],
+   "plain_english": "But that should not be done again in the libation for one's own ancestors."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "mahatī",
+     "gloss": "great",
+     "grounds": "degree of offering or observance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-ability",
+     "grounds": "measure of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śraddhābhaktiyutātmanā",
+     "gloss": "by-self-endowed-with-faith-and-devotion",
+     "grounds": "qualified agent",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "With what inner attitude and measure should the observance be performed?",
+   "premises": [
+    "The observance may be great or according to ability.",
+    "The agent is endowed with faith and devotion."
+   ],
+   "inference": "The observance should be performed greatly or according to ability by one endowed with faith and devotion.",
+   "uncertainties": [
+    "The specific noun qualified by mahatī is implicit from context."
+   ],
+   "plain_english": "It should be done greatly or according to one's ability, by a person endowed with faith and devotion."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "samprāpto",
+     "gloss": "arrived",
+     "grounds": "one who has come",
+     "morph": "m.nom.sg.past-pass-ppl sam-pra-√āp"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who-but",
+     "grounds": "relative subject with attached particle",
+     "morph": "pron.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "pūjānte",
+     "gloss": "at-end-of-worship",
+     "grounds": "time of arrival",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative subject",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "identity claimed by speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation in formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What identity is affirmed for the one who arrives at the end of worship?",
+   "premises": [
+    "Someone arrives at the end of worship.",
+    "The speaker identifies that person as himself.",
+    "The statement is declared to be without doubt."
+   ],
+   "inference": "Whoever arrives at the end of worship is indeed the speaker, without doubt.",
+   "uncertainties": [],
+   "plain_english": "Whoever arrives at the end of the worship, he is indeed I; there is no doubt."
+  }
+ ]
+}

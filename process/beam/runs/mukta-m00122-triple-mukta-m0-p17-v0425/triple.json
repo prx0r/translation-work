@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "karau",
+     "gloss": "hands",
+     "grounds": "dual form of kara; hands as the ritual instrument",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "susliṣṭanakharau",
+     "gloss": "well-joined-nails",
+     "grounds": "compound describing the hands; dual agreement with karau",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "mudraiṣā",
+     "gloss": "this-mudra",
+     "grounds": "fused form of mudrā and eṣā; sandhi joins ā and e",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sannirodhinī",
+     "gloss": "sannirodhinī",
+     "grounds": "feminine nominative naming the mudra; technical term retained",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mudra is formed by hands with well-joined nails?",
+   "premises": [
+    "Hands with well-joined nails form a mudra.",
+    "That mudra is called sannirodhinī.",
+    "The verse names the mudra by its hand-form."
+   ],
+   "inference": "The verse identifies sannirodhinī as the mudra made by hands with well-joined nails.",
+   "uncertainties": [
+    "The verse does not state the ritual function of sannirodhinī."
+   ],
+   "plain_english": "Hands with well-joined nails—this mudra is sannirodhinī."
+  }
+ ]
+}

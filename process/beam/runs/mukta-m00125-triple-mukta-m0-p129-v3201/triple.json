@@ -1,0 +1,1145 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3201,
+   "rows": [
+    {
+     "surface": "punaśca",
+     "gloss": "and-again",
+     "grounds": "indeclinable compound indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "iṣṭakāle",
+     "gloss": "at-desired-time",
+     "grounds": "locative compound indicating chosen occasion",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "puroktavat",
+     "gloss": "as-previously-stated",
+     "grounds": "comparative indeclinable referring to earlier instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the ritual bathing be performed again at a desired time?",
+   "premises": [
+    "Ritual bathing may be required again.",
+    "The action is to be performed at a chosen time.",
+    "The procedure follows what was previously stated."
+   ],
+   "inference": "One should perform the bathing again at the desired time according to the earlier procedure.",
+   "uncertainties": [],
+   "plain_english": "Again, one should perform the bathing at the desired time just as previously described."
+  },
+  {
+   "verse": 3202,
+   "rows": [
+    {
+     "surface": "aghoraṃ",
+     "gloss": "aghora-mantra",
+     "grounds": "name of a specific mantra; kept as mantra designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triśataṃ",
+     "gloss": "three-hundred",
+     "grounds": "numeral specifying count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "prior ritual action of recitation",
+     "morph": "(gerund) √jap"
+    },
+    {
+     "surface": "saṃpūrṇasnapanaṃ",
+     "gloss": "complete-bathing",
+     "grounds": "compound denoting full ritual ablution",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-conduct",
+     "grounds": "prescribed completion of the rite",
+     "morph": "3.sg.optative-act √nī"
+    }
+   ],
+   "question": "What recitation count enables the completion of the full bathing rite?",
+   "premises": [
+    "The aghora mantra is to be recited.",
+    "The recitation count specified is three hundred.",
+    "The complete bathing rite must be brought to completion."
+   ],
+   "inference": "After chanting the aghora mantra three hundred times, one should complete the full bathing.",
+   "uncertainties": [],
+   "plain_english": "Having chanted the aghora mantra three hundred times, one should carry out the complete bathing."
+  },
+  {
+   "verse": 3203,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "prior fire-offering action",
+     "morph": "(gerund) √hu"
+    },
+    {
+     "surface": "aghoraṃ",
+     "gloss": "aghora-mantra",
+     "grounds": "name of a specific mantra; kept as mantra designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral specifying count of offerings or recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathoktaṃ",
+     "gloss": "as-prescribed",
+     "grounds": "refers to previously stated procedure",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "ritual ground or platform",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-conduct",
+     "grounds": "prescribed completion of the rite",
+     "morph": "3.sg.optative-act √nī"
+    }
+   ],
+   "question": "What ritual actions must precede the proper completion of the altar rite?",
+   "premises": [
+    "The aghora mantra is involved in the rite.",
+    "A thousand offerings or recitations are prescribed.",
+    "The altar rite must be conducted as previously prescribed."
+   ],
+   "inference": "After offering with the aghora mantra a thousand times, one should conduct the altar rite as prescribed.",
+   "uncertainties": [],
+   "plain_english": "Having offered with the aghora mantra a thousand times, one should carry out the altar rite as prescribed."
+  },
+  {
+   "verse": 3204,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "occurrence of a condition",
+     "morph": "3.sg.present-middle √jan"
+    },
+    {
+     "surface": "kalaho",
+     "gloss": "strife",
+     "grounds": "conflict or discord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāṣṭre",
+     "gloss": "in-kingdom",
+     "grounds": "location of the disturbance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "remedial recitation",
+     "morph": "(gerund) √jap"
+    },
+    {
+     "surface": "aghoraṃ",
+     "gloss": "aghora-mantra",
+     "grounds": "name of a specific mantra; kept as mantra designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand-times",
+     "grounds": "numeral specifying count of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What remedial recitation is prescribed when strife arises in the kingdom?",
+   "premises": [
+    "Strife can arise in the kingdom.",
+    "The aghora mantra is used as a remedy.",
+    "A thousand recitations are specified."
+   ],
+   "inference": "When strife arises in the kingdom, one should chant the aghora mantra a thousand times.",
+   "uncertainties": [],
+   "plain_english": "If strife arises in the kingdom, one should chant the aghora mantra a thousand times."
+  },
+  {
+   "verse": 3205,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding or summarizing particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmātrakaiḥ",
+     "gloss": "by-those-measures",
+     "grounds": "instrumental indicating specified quantities or measures",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇadravya+saṃyutaiḥ",
+     "gloss": "with-double-materials-combined",
+     "grounds": "compound indicating materials doubled in quantity",
+     "morph": "n.inst.pl, compound"
+    }
+   ],
+   "question": "What adjustment in materials accompanies the measures described in this procedure?",
+   "premises": [
+    "The procedure involves specified measures.",
+    "The materials are to be combined in a particular way.",
+    "The materials are doubled in quantity."
+   ],
+   "inference": "Thus, the procedure is performed with those measures and with materials doubled in quantity.",
+   "uncertainties": [
+    "The exact referent of tanmātrakaiḥ depends on prior context."
+   ],
+   "plain_english": "Thus, in this way, it should be done with those measures and with materials doubled in quantity."
+  },
+  {
+   "verse": 3206,
+   "rows": [
+    {
+     "surface": "dviśataṃ",
+     "gloss": "two-hundred",
+     "grounds": "numeral count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "ritual vessel location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vardhanyāṃ",
+     "gloss": "in-sprinkler-vessel",
+     "grounds": "ritual sprinkler vessel location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kalaśeṣu",
+     "gloss": "in-vessels",
+     "grounds": "ritual water vessels location",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the recitation counts distributed among the pot, sprinkler, and vessels?",
+   "premises": [
+    "Specific counts are prescribed.",
+    "The pot, sprinkler vessel, and other vessels are involved.",
+    "The counts are assigned to these ritual containers."
+   ],
+   "inference": "Two hundred and one hundred recitations are assigned respectively in the pot, the sprinkler vessel, and the vessels.",
+   "uncertainties": [
+    "The exact distribution of the two counts across the three locations is not fully explicit."
+   ],
+   "plain_english": "Two hundred and one hundred should be assigned in the pot, in the sprinkler vessel, and in the vessels."
+  },
+  {
+   "verse": 3207,
+   "rows": [
+    {
+     "surface": "sthāpitaḥ",
+     "gloss": "established",
+     "grounds": "ritually installed",
+     "morph": "m.nom.sg.past-passive-participle √sthā"
+    },
+    {
+     "surface": "śivakumbho",
+     "gloss": "śiva-pot",
+     "grounds": "ritual pot dedicated to Śiva",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanī",
+     "gloss": "sprinkler-vessel",
+     "grounds": "ritual sprinkler vessel",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalaśaḥ",
+     "gloss": "vessel",
+     "grounds": "ritual water vessel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual vessel may be established as the primary consecrated container?",
+   "premises": [
+    "A ritual vessel is to be established.",
+    "The śiva-pot is one possible vessel.",
+    "The sprinkler vessel or another vessel may serve as alternatives."
+   ],
+   "inference": "Either the śiva-pot, or the sprinkler vessel, or another vessel may be established.",
+   "uncertainties": [],
+   "plain_english": "The śiva-pot, or the sprinkler vessel, or else another vessel may be established."
+  },
+  {
+   "verse": 3208,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājñaḥ",
+     "gloss": "of-king",
+     "grounds": "person potentially affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mahiṣyāḥ",
+     "gloss": "of-queen",
+     "grounds": "person potentially affected",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmiṇāṃ",
+     "gloss": "of-ritual-workers",
+     "grounds": "persons performing the rite",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "ritual or moral defect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-arise",
+     "grounds": "possible consequence",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "Whose fault may arise if the prescribed ritual arrangement is defective?",
+   "premises": [
+    "A defective ritual situation is implied.",
+    "The king, queen, and ritual workers are involved.",
+    "Fault may arise as a consequence."
+   ],
+   "inference": "In that case, fault may arise for the king, the queen, and the ritual workers.",
+   "uncertainties": [
+    "The specific triggering defect is supplied by the preceding context."
+   ],
+   "plain_english": "Then fault may arise for the king, the queen, and the ritual workers."
+  },
+  {
+   "verse": 3209,
+   "rows": [
+    {
+     "surface": "japed",
+     "gloss": "should-chant",
+     "grounds": "prescribed recitation",
+     "morph": "3.sg.optative-act √jap"
+    },
+    {
+     "surface": "aghora+mantreṇa",
+     "gloss": "with-aghora-mantra",
+     "grounds": "instrumental compound naming the mantra used",
+     "morph": "m.inst.sg, compound"
+    },
+    {
+     "surface": "sadaiva",
+     "gloss": "always",
+     "grounds": "continuous or constant practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "doubled quantity of recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "repeated prescription of recitation",
+     "morph": "3.sg.optative-act √jap"
+    }
+   ],
+   "question": "What modification to aghora mantra recitation is required as a constant remedy?",
+   "premises": [
+    "The aghora mantra is to be chanted.",
+    "The recitation is to be done always.",
+    "The recitation amount is to be doubled."
+   ],
+   "inference": "One should always chant with the aghora mantra and should chant double the amount.",
+   "uncertainties": [],
+   "plain_english": "One should always chant with the aghora mantra, and should chant it in double measure."
+  },
+  {
+   "verse": 3210,
+   "rows": [
+    {
+     "surface": "śarāva+śaṅkha+haima+ādi+pātre",
+     "gloss": "in-bowl-conch-gold-etc-vessel",
+     "grounds": "compound listing possible ritual containers",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmavṛkṣaje",
+     "gloss": "in-brahma-tree-born",
+     "grounds": "compound indicating a vessel made from a brahma-tree",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "What alternative vessels are permitted for use in the prescribed ritual?",
+   "premises": [
+    "A ritual vessel is required.",
+    "Bowls, conch, gold, and similar vessels are possible options.",
+    "A vessel made from a brahma-tree is also an option."
+   ],
+   "inference": "The rite may use a bowl, conch, gold, or similar vessel, or one made from a brahma-tree.",
+   "uncertainties": [
+    "The exact identity of brahmavṛkṣa is not specified here."
+   ],
+   "plain_english": "One may use a bowl, a conch, a gold vessel, or the like, or one made from a brahma-tree."
+  },
+  {
+   "verse": 3211,
+   "rows": [
+    {
+     "surface": "sūtraiḥ",
+     "gloss": "with-threads",
+     "grounds": "material used for wrapping",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "aveṣṭitāḥ",
+     "gloss": "wrapped",
+     "grounds": "state of being encircled or bound",
+     "morph": "m.nom.pl.past-passive-participle √veṣṭ"
+    },
+    {
+     "surface": "kumbha+pūrvāḥ",
+     "gloss": "pot-and-others",
+     "grounds": "compound indicating the pot and preceding or associated vessels",
+     "morph": "m.nom.pl, compound"
+    },
+    {
+     "surface": "cec",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatru+vardhanam",
+     "gloss": "enemy-increase",
+     "grounds": "compound indicating growth or strengthening of enemies",
+     "morph": "n.nom.sg, compound"
+    }
+   ],
+   "question": "What negative consequence follows if the pot and other vessels are wrapped with threads?",
+   "premises": [
+    "The pot and other vessels may be wrapped with threads.",
+    "This wrapping is presented as a conditional case.",
+    "An increase of enemies is stated as the result."
+   ],
+   "inference": "If the pot and other vessels are wrapped with threads, it leads to the increase of enemies.",
+   "uncertainties": [],
+   "plain_english": "If the pot and the other vessels are wrapped with threads, it causes the increase of enemies."
+  },
+  {
+   "verse": 3212,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates similar condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭitāḥ",
+     "gloss": "wrapped",
+     "grounds": "state of being encircled or bound",
+     "morph": "m.nom.pl.past-passive-participle √veṣṭ"
+    },
+    {
+     "surface": "svalpa+tantunā",
+     "gloss": "with-small-thread",
+     "grounds": "compound indicating a thin or slight thread",
+     "morph": "m.inst.sg, compound"
+    },
+    {
+     "surface": "niṣkṛtiḥ",
+     "gloss": "remedy",
+     "grounds": "corrective measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-regarded",
+     "grounds": "considered or accepted",
+     "morph": "f.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What corrective measure is accepted when the vessels are wrapped with a small thread?",
+   "premises": [
+    "The vessels may likewise be wrapped.",
+    "The wrapping is done with a small thread.",
+    "A remedy is recognized in this case."
+   ],
+   "inference": "Wrapping them likewise with a small thread is regarded as the remedy.",
+   "uncertainties": [],
+   "plain_english": "Likewise, if they are wrapped with a small thread, that is regarded as the remedy."
+  },
+  {
+   "verse": 3213,
+   "rows": [
+    {
+     "surface": "kūrce",
+     "gloss": "in-tuft",
+     "grounds": "ritual grass tuft or brush",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vihīne",
+     "gloss": "lacking",
+     "grounds": "absence of the required item",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-deities",
+     "grounds": "divine beings invoked in the rite",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sannidhiḥ",
+     "gloss": "presence",
+     "grounds": "ritual nearness or manifestation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "exists or is present",
+     "morph": "3.sg.present-passive √vid"
+    }
+   ],
+   "question": "What ritual consequence follows when the required tuft is absent?",
+   "premises": [
+    "The tuft is a required ritual element.",
+    "The presence of deities is expected in the rite.",
+    "Absence of the tuft affects that presence."
+   ],
+   "inference": "When the tuft is lacking, the presence of the deities is not found there.",
+   "uncertainties": [],
+   "plain_english": "If the tuft is lacking, the presence of the deities is not found there."
+  },
+  {
+   "verse": 3214,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental referring to the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "prescribed recitation",
+     "morph": "3.sg.optative-act √jap"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual officiant skilled in mantras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviśataṃ",
+     "gloss": "two-hundred",
+     "grounds": "numeral count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triśataṃ",
+     "gloss": "three-hundred",
+     "grounds": "numeral count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation should the mantra practitioner perform when the tuft is missing?",
+   "premises": [
+    "A remedial action is required in that situation.",
+    "The mantra practitioner performs the recitation.",
+    "The recitation uses the heart mantra for two hundred or three hundred times."
+   ],
+   "inference": "Then the mantra practitioner should chant with the heart mantra two hundred or three hundred times.",
+   "uncertainties": [],
+   "plain_english": "Then the mantra practitioner should chant with the heart mantra two hundred or three hundred times."
+  },
+  {
+   "verse": 3215,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates similar remedial case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastra+lope",
+     "gloss": "in-cloth-lack",
+     "grounds": "compound indicating absence of cloth",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japed+hṛdā",
+     "gloss": "should-chant-with-heart",
+     "grounds": "compound expressing recitation with the heart mantra",
+     "morph": "3.sg.optative-act √jap, compound"
+    }
+   ],
+   "question": "What recitation is prescribed when the required ritual cloth is lacking?",
+   "premises": [
+    "The lack of cloth is a ritual defect.",
+    "A remedial recitation is required.",
+    "The recitation is performed with the heart mantra a thousand times."
+   ],
+   "inference": "Likewise, in the absence of cloth, one should chant with the heart mantra a thousand times.",
+   "uncertainties": [],
+   "plain_english": "Likewise, if the cloth is lacking, one should chant with the heart mantra a thousand times."
+  },
+  {
+   "verse": 3216,
+   "rows": [
+    {
+     "surface": "gavya+ādi+dravya+lope",
+     "gloss": "in-cow-product-etc-material-lack",
+     "grounds": "compound indicating absence of cow products and similar materials",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāṣṭre+kalaha+m+ādi",
+     "gloss": "in-kingdom-strife-and-etc",
+     "grounds": "compound indicating strife and similar troubles in the kingdom",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "śet",
+     "gloss": "should-indicate",
+     "grounds": "signals or points to a consequence; exact verbal form uncertain",
+     "morph": "3.sg.optative-act (uncertain root)"
+    }
+   ],
+   "question": "What consequence is indicated by the lack of cow products and similar ritual materials?",
+   "premises": [
+    "Cow products and similar materials may be lacking.",
+    "Such lack has a signifying consequence.",
+    "Strife and similar troubles in the kingdom are indicated."
+   ],
+   "inference": "The lack of cow products and similar materials indicates strife and similar troubles in the kingdom.",
+   "uncertainties": [
+    "The form śet is morphologically unclear; interpreted from the legacy hint as indicating."
+   ],
+   "plain_english": "If cow products and similar materials are lacking, it indicates strife and such troubles in the kingdom."
+  },
+  {
+   "verse": 3217,
+   "rows": [
+    {
+     "surface": "puṇyāha",
+     "gloss": "auspicious-declaration",
+     "grounds": "ritual purification declaration",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "prokṣaṇe",
+     "gloss": "in-sprinkling",
+     "grounds": "ritual sprinkling act",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hīna",
+     "gloss": "lacking",
+     "grounds": "deficient or absent",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "japed",
+     "gloss": "should-chant",
+     "grounds": "prescribed recitation",
+     "morph": "3.sg.optative-act √jap"
+    },
+    {
+     "surface": "ghora",
+     "gloss": "ghora-mantra",
+     "grounds": "name of a specific mantra; kept as mantra designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What remedial recitation is required when the auspicious declaration and sprinkling are deficient?",
+   "premises": [
+    "The auspicious declaration and sprinkling may be deficient.",
+    "A remedial recitation is prescribed.",
+    "The ghora mantra is to be chanted one hundred times again."
+   ],
+   "inference": "If the auspicious declaration and sprinkling are lacking, one should chant the ghora mantra one hundred times again.",
+   "uncertainties": [],
+   "plain_english": "If the auspicious declaration and sprinkling are deficient, one should chant the ghora mantra one hundred times again."
+  },
+  {
+   "verse": 3218,
+   "rows": [
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-offering",
+     "grounds": "fire offering for pacification",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra+nyāse",
+     "gloss": "in-mantra-placement",
+     "grounds": "compound referring to ritual placement of mantras",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "akṛte",
+     "gloss": "not-done",
+     "grounds": "absence of the required ritual act",
+     "morph": "m.loc.sg.past-passive-participle √kṛ"
+    }
+   ],
+   "question": "What remedial rite must be performed if the mantra placement has not been done?",
+   "premises": [
+    "Mantra placement is a required ritual act.",
+    "The mantra placement may remain undone.",
+    "A peace offering is prescribed as a remedy."
+   ],
+   "inference": "If the mantra placement has not been done, one should then perform a peace offering.",
+   "uncertainties": [],
+   "plain_english": "If the mantra placement has not been performed, one should then perform a peace offering."
+  },
+  {
+   "verse": 3219,
+   "rows": [
+    {
+     "surface": "āṣāḍha+ādiṣu+māseṣu",
+     "gloss": "in-āṣāḍha-etc-months",
+     "grounds": "compound indicating months beginning with āṣāḍha",
+     "morph": "m.loc.pl, compound"
+    },
+    {
+     "surface": "kṛttikā+anteṣu",
+     "gloss": "ending-in-kṛttikā",
+     "grounds": "compound indicating a period ending with kṛttikā",
+     "morph": "m.loc.pl, compound"
+    },
+    {
+     "surface": "pañcasu",
+     "gloss": "in-five",
+     "grounds": "numeral specifying five months",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "Which five-month period is identified as inauspicious for the rite in question?",
+   "premises": [
+    "A specific span of months is being defined.",
+    "The span begins with āṣāḍha and related months.",
+    "The span ends with kṛttikā and consists of five months."
+   ],
+   "inference": "The period referred to is the five months beginning with āṣāḍha and ending with kṛttikā.",
+   "uncertainties": [
+    "The exact calendrical boundaries depend on ritual convention not stated here."
+   ],
+   "plain_english": "In the five months beginning with āṣāḍha and ending with kṛttikā."
+  },
+  {
+   "verse": 3220,
+   "rows": [
+    {
+     "surface": "tāḥ+sarvāḥ",
+     "gloss": "those-all",
+     "grounds": "compound referring to all those previously mentioned",
+     "morph": "f.nom.pl, compound"
+    },
+    {
+     "surface": "niṣphalāḥ",
+     "gloss": "fruitless",
+     "grounds": "without desired ritual result",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "sacred building location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛha+ādike",
+     "gloss": "in-house-etc",
+     "grounds": "compound indicating a house or similar place",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "What is the ritual efficacy of those observances performed in the specified period or places?",
+   "premises": [
+    "All those observances are under consideration.",
+    "They may be performed in a temple or in a house and similar places.",
+    "Their result is declared to be fruitless."
+   ],
+   "inference": "All those observances are indeed fruitless, whether in a temple or in a house and the like.",
+   "uncertainties": [
+    "The antecedent of those observances is supplied by the preceding verse."
+   ],
+   "plain_english": "All those are indeed fruitless, whether in a temple or in a house and the like."
+  },
+  {
+   "verse": 3221,
+   "rows": [
+    {
+     "surface": "iṣṭa+māse",
+     "gloss": "in-desired-month",
+     "grounds": "compound indicating a chosen month",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "pavitrārohaṇaṃ",
+     "gloss": "pavitrārohaṇa-rite",
+     "grounds": "name of the ritual of offering sacred threads",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "emphasizes excellence or importance",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "When should the supreme pavitrārohaṇa rite be performed instead of the fruitless period?",
+   "premises": [
+    "The previously mentioned period yields no fruit.",
+    "A desired month is available as an alternative.",
+    "The pavitrārohaṇa rite is to be performed."
+   ],
+   "inference": "Therefore, one should perform the supreme pavitrārohaṇa rite in a desired month.",
+   "uncertainties": [],
+   "plain_english": "Therefore, one should perform the supreme pavitrārohaṇa rite in a desired month."
+  },
+  {
+   "verse": 3222,
+   "rows": [
+    {
+     "surface": "dīpāvaliḥ+vihīnā",
+     "gloss": "lamp-row-lacking",
+     "grounds": "compound indicating absence of a row of lamps",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīḍyante",
+     "gloss": "are-afflicted",
+     "grounds": "suffer harm or oppression",
+     "morph": "3.pl.present-passive √pīḍ"
+    },
+    {
+     "surface": "śatrubhiḥ",
+     "gloss": "by-enemies",
+     "grounds": "agents causing affliction",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "narāḥ",
+     "gloss": "people",
+     "grounds": "those affected",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What consequence befalls people when the row of lamps is absent from the rite?",
+   "premises": [
+    "A row of lamps may be lacking.",
+    "People can be afflicted by enemies.",
+    "The lack of lamps is linked to this affliction."
+   ],
+   "inference": "If the row of lamps is lacking, people are afflicted by enemies.",
+   "uncertainties": [],
+   "plain_english": "If the row of lamps is lacking, people are afflicted by enemies."
+  },
+  {
+   "verse": 3223,
+   "rows": [
+    {
+     "surface": "rāṣṭra+kṣobhe",
+     "gloss": "in-kingdom-disturbance",
+     "grounds": "compound indicating turmoil in the kingdom",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "ari+c ora+ādyaiḥ",
+     "gloss": "by-enemies-thieves-etc",
+     "grounds": "compound listing hostile agents such as enemies and thieves",
+     "morph": "m.inst.pl, compound"
+    },
+    {
+     "surface": "paraspara+virodhataḥ",
+     "gloss": "from-mutual-opposition",
+     "grounds": "compound indicating conflict among parties",
+     "morph": "(indecl.), compound"
+    }
+   ],
+   "question": "What causes and conditions characterize disturbance within the kingdom in this context?",
+   "premises": [
+    "Disturbance in the kingdom is under consideration.",
+    "Enemies, thieves, and similar agents are involved.",
+    "Mutual opposition contributes to the disturbance."
+   ],
+   "inference": "Disturbance in the kingdom arises from enemies, thieves, and the like, and from mutual opposition.",
+   "uncertainties": [
+    "The token ari+c ora+ādyaiḥ contains irregular spacing in the source; surface preserved exactly."
+   ],
+   "plain_english": "In a disturbance of the kingdom, caused by enemies, thieves, and the like, and by mutual opposition."
+  },
+  {
+   "verse": 3224,
+   "rows": [
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "location for the rite",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣayet",
+     "gloss": "should-protect",
+     "grounds": "prescribed protective action",
+     "morph": "3.sg.optative-act √rakṣ"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "refers to the previously mentioned context or place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kriyām+enāṃ",
+     "gloss": "this-rite",
+     "grounds": "compound referring to this specific ritual action",
+     "morph": "f.acc.sg, compound"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "prior completion of the rite",
+     "morph": "(gerund) √vidhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective action should be taken after performing this rite on the ground?",
+   "premises": [
+    "The rite may be performed on the ground.",
+    "This rite is to be carried out in that context.",
+    "A protective action is prescribed afterward."
+   ],
+   "inference": "After performing this rite on the ground in that context, one should provide protection.",
+   "uncertainties": [
+    "The exact object or scope of protection is not fully specified."
+   ],
+   "plain_english": "Or, having performed this rite on the ground in that place, one should protect it."
+  }
+ ]
+}

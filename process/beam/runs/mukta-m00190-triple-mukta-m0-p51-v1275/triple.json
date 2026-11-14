@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "etaj",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the previously mentioned act of extraction/birth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jīvanam",
+     "gloss": "vivification",
+     "grounds": "designation for the mantra consecration process named in context",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker introducing the stated designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhur",
+     "gloss": "they-say",
+     "grounds": "verb of reporting attributing the designation to authorities",
+     "morph": "3.pl.perf.act √ah"
+    },
+    {
+     "surface": "mantratantraviśāradāḥ",
+     "gloss": "mantra-tantra-experts",
+     "grounds": "compound: mantra+tantra+viśāradāḥ; authorities skilled in mantra and tantra",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What designation do experts in mantra and tantra assign to this consecratory act?",
+   "premises": [
+    "The preceding act is the extraction or birth of mantras from the mātṛkā.",
+    "Experts in mantra and tantra provide authoritative terminology for ritual processes.",
+    "These experts designate this act as jīvana, or vivification."
+   ],
+   "inference": "Therefore, the mantra consecration process described is termed jīvana by mantra-tantra experts.",
+   "uncertainties": [
+    "Whether jīvana refers specifically to janana alone or to the combined act with uddhāra is not fully explicit in this verse."
+   ],
+   "plain_english": "Experts in mantra and tantra call this act 'jīvana' (vivification)."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "uragāsanam",
+     "gloss": "serpent-seat",
+     "grounds": "compound of uraga (serpent) and āsana (seat), object of seated posture",
+     "morph": "compound n.acc.sg (uraga+āsana)"
+    },
+    {
+     "surface": "āsīno",
+     "gloss": "seated",
+     "grounds": "nominal adjective describing Parama Bhairava; sandhi form of āsīnaḥ before following word",
+     "morph": "m.nom.sg (āsīna, √ās)"
+    },
+    {
+     "surface": "yoganidrām",
+     "gloss": "yogic-sleep",
+     "grounds": "compound of yoga (yogic) and nidrā (sleep), state attained",
+     "morph": "compound f.acc.sg (yoga+nidrā)"
+    },
+    {
+     "surface": "upāgamat",
+     "gloss": "attained",
+     "grounds": "verb expressing entry into the state of yogic sleep",
+     "morph": "3.sg.active-aorist (upa-ā-√gam)"
+    }
+   ],
+   "question": "Upon what seat and into what state did Parama Bhairava enter?",
+   "premises": [
+    "Parama Bhairava was seated upon a serpent seat.",
+    "Parama Bhairava entered the state of yogic sleep.",
+    "This action continues the account of Parama Bhairava in the primordial ocean."
+   ],
+   "inference": "Parama Bhairava assumed a seated posture on the serpent seat and entered yogic sleep.",
+   "uncertainties": [],
+   "plain_english": "Seated on the serpent-seat, he entered yogic sleep."
+  }
+ ]
+}

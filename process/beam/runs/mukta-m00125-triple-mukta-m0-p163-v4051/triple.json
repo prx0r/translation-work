@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p163",
+ "items": [
+  {
+   "verse": 4051,
+   "rows": [
+    {
+     "surface": "vistārasadṛśastvāyo",
+     "gloss": "width-like-height",
+     "grounds": "fused compound with sandhi; compared to width",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviguṇo",
+     "gloss": "twofold",
+     "grounds": "measure option",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative context",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What proportional height options are prescribed relative to the pedestal width?",
+   "premises": [
+    "The height may equal the width",
+    "Alternatively the height may be twofold",
+    "This applies in the middle case"
+   ],
+   "inference": "The pedestal height is set as either equal to or double its width.",
+   "uncertainties": [
+    "Exact parsing of vistārasadṛśastvāyo is ambiguous"
+   ],
+   "plain_english": "The height may be equal to the width, or else twofold, in the middle case."
+  },
+  {
+   "verse": 4052,
+   "rows": [
+    {
+     "surface": "tribhāgādruda",
+     "gloss": "from-three-parts",
+     "grounds": "fused form indicating division from three parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgāntaṃ",
+     "gloss": "up-to-part-end",
+     "grounds": "limit of division",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadutsedhe",
+     "gloss": "in-that-height",
+     "grounds": "locative of height",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "condition of division",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should the pedestal height be divided into proportional parts?",
+   "premises": [
+    "The height is to be divided",
+    "Division proceeds from three parts",
+    "The division extends up to a part-end"
+   ],
+   "inference": "The height is divided into three parts up to the specified limit.",
+   "uncertainties": [
+    "Exact segmentation of tribhāgādruda is unclear"
+   ],
+   "plain_english": "When that height is divided, it is divided from three parts up to the end of a part."
+  },
+  {
+   "verse": 4053,
+   "rows": [
+    {
+     "surface": "śeṣāṃśaissyādadhaḥ",
+     "gloss": "with-remaining-parts-below",
+     "grounds": "fused form indicating remainder below",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "pedestal element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "reduced",
+     "grounds": "diminished form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vordhvadalaistuvā",
+     "gloss": "or-with-upward-petals",
+     "grounds": "fused alternative with upward petals",
+     "morph": "compound"
+    }
+   ],
+   "question": "How may the lotus portion be arranged with remaining parts or petals?",
+   "premises": [
+    "Remaining parts may be placed below",
+    "The lotus may be reduced",
+    "Alternatively it may have upward petals"
+   ],
+   "inference": "The lotus can be formed below with remaining parts, reduced, or with upward petals.",
+   "uncertainties": [
+    "Parsing of vordhvadalaistuvā is uncertain"
+   ],
+   "plain_english": "With the remaining parts below there may be a reduced lotus, or one with upward petals."
+  },
+  {
+   "verse": 4054,
+   "rows": [
+    {
+     "surface": "vipulaṃ",
+     "gloss": "wide",
+     "grounds": "dimension of pedestal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṅgamāyuktaṃ",
+     "gloss": "joined-with-height",
+     "grounds": "combined with elevation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthānake",
+     "gloss": "in-base",
+     "grounds": "location of pedestal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhamucyate",
+     "gloss": "pedestal-is-called",
+     "grounds": "definition statement",
+     "morph": "3.sg.pass-pres + √vac"
+    }
+   ],
+   "question": "What characteristics define the pedestal in its proper place?",
+   "premises": [
+    "The pedestal is wide",
+    "It is joined with height",
+    "It is situated in the base"
+   ],
+   "inference": "A wide and elevated structure in the base is called the pedestal.",
+   "uncertainties": [],
+   "plain_english": "A wide and high structure in its place is called the pedestal."
+  },
+  {
+   "verse": 4055,
+   "rows": [
+    {
+     "surface": "tribhāgādruda",
+     "gloss": "from-three-parts",
+     "grounds": "fused form indicating division",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgāntaṃ",
+     "gloss": "up-to-part-end",
+     "grounds": "limit of division",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dairghyavistārameva",
+     "gloss": "length-and-width-indeed",
+     "grounds": "dimensions emphasized",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dimensional range may be applied to length and width?",
+   "premises": [
+    "Division proceeds from three parts",
+    "It extends up to a part-end",
+    "This applies to length and width"
+   ],
+   "inference": "Length and width may be set within a range from three parts up to a part-end.",
+   "uncertainties": [
+    "Exact parsing of tribhāgādruda is unclear"
+   ],
+   "plain_english": "The length and width may indeed be set from three parts up to the end of a part."
+  },
+  {
+   "verse": 4056,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "prior action",
+     "morph": "gerund + √sthā"
+    },
+    {
+     "surface": "śeṣabhāgaistu",
+     "gloss": "with-remaining-parts",
+     "grounds": "instrumental of remainder",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhadraṃ",
+     "gloss": "projection",
+     "grounds": "architectural offset",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-act + pra-√kḷp"
+    }
+   ],
+   "question": "How should the central projection be arranged after establishing dimensions?",
+   "premises": [
+    "The dimensions are first established",
+    "Remaining parts are used",
+    "The projection is placed in the middle"
+   ],
+   "inference": "After establishing the base, one should arrange a central projection with the remaining parts.",
+   "uncertainties": [],
+   "plain_english": "Having established it, one should arrange a central projection in the middle with the remaining parts."
+  },
+  {
+   "verse": 4057,
+   "rows": [
+    {
+     "surface": "ekapīṭhamanekeṣāṃ",
+     "gloss": "one-pedestal-for-many",
+     "grounds": "single base for multiple figures",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhāvaśānnayet",
+     "gloss": "should-lead-by-beauty",
+     "grounds": "fused form indicating guidance by beauty",
+     "morph": "compound"
+    }
+   ],
+   "question": "Under what condition may a single pedestal serve multiple figures?",
+   "premises": [
+    "One pedestal may be used for many",
+    "This depends on a condition",
+    "Beauty governs the arrangement"
+   ],
+   "inference": "A single pedestal may be made for many if guided by considerations of beauty.",
+   "uncertainties": [
+    "Parsing of śobhāvaśānnayet is uncertain"
+   ],
+   "plain_english": "If one pedestal is made for many, it should be arranged according to beauty."
+  },
+  {
+   "verse": 4058,
+   "rows": [
+    {
+     "surface": "padmākṛtiṃ",
+     "gloss": "lotus-form",
+     "grounds": "shape of pedestal",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakartavyā",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive obligation",
+     "morph": "f.nom.sg.gerundive + pra-√kṛ"
+    },
+    {
+     "surface": "tatrāsīne",
+     "gloss": "there-seated",
+     "grounds": "locative of seated figure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ardhacandrakam",
+     "gloss": "half-moon",
+     "grounds": "supporting form",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What form should be made for a seated figure on the pedestal?",
+   "premises": [
+    "A lotus form should be made",
+    "This applies when a figure is seated there",
+    "A half-moon form is included"
+   ],
+   "inference": "For a seated figure, a lotus form and a half-moon should be made.",
+   "uncertainties": [],
+   "plain_english": "A lotus form should be made, and for one seated there, a half-moon."
+  },
+  {
+   "verse": 4059,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṃśe",
+     "gloss": "in-sixteenth-part",
+     "grounds": "division into sixteen",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "standard of measurement",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pādukaṃ",
+     "gloss": "base",
+     "grounds": "pedestal component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg.past-pass-part + pari-√kīrt"
+    }
+   ],
+   "question": "How is the base component defined by sixteenth-part measurement?",
+   "premises": [
+    "The measure is divided into sixteen parts",
+    "Measurement is applied",
+    "The base is declared accordingly"
+   ],
+   "inference": "The base is declared according to a sixteenth-part measure.",
+   "uncertainties": [],
+   "plain_english": "By a measure divided into sixteen parts, the base is declared."
+  },
+  {
+   "verse": 4060,
+   "rows": [
+    {
+     "surface": "vasvaśrapadmamekena",
+     "gloss": "eight-cornered-lotus-by-one",
+     "grounds": "fused form describing lotus and part",
+     "morph": "compound"
+    },
+    {
+     "surface": "vahanyaṃśaḥ",
+     "gloss": "carrying-part",
+     "grounds": "supporting section",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "corner",
+     "grounds": "architectural corner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "definition",
+     "morph": "3.sg.pass-pres + √vac"
+    }
+   ],
+   "question": "What elements are designated as the carrying part and corner?",
+   "premises": [
+    "An eight-cornered lotus is made with one part",
+    "A carrying part is identified",
+    "The corner is named"
+   ],
+   "inference": "With one part forming an eight-cornered lotus, the carrying part is called the corner.",
+   "uncertainties": [
+    "Exact parsing of vasvaśrapadmamekena is uncertain"
+   ],
+   "plain_english": "With one part for the eight-cornered lotus, the carrying part is called the corner."
+  },
+  {
+   "verse": 4061,
+   "rows": [
+    {
+     "surface": "śarāṃśaṃ",
+     "gloss": "five-part",
+     "grounds": "measure of five parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padmamānaṃ",
+     "gloss": "lotus-measure",
+     "grounds": "dimension of lotus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.sg.opt-act + √as"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "division into two",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttamucyate",
+     "gloss": "round-is-called",
+     "grounds": "definition of round part",
+     "morph": "3.sg.pass-pres + √vac"
+    }
+   ],
+   "question": "What measures define the lotus and the round section?",
+   "premises": [
+    "The lotus measure should be five parts",
+    "A two-part section is specified",
+    "That section is called round"
+   ],
+   "inference": "The lotus should measure five parts, and a two-part section is called round.",
+   "uncertainties": [],
+   "plain_english": "The lotus measure should be five parts, and the two-part section is called round."
+  },
+  {
+   "verse": 4062,
+   "rows": [
+    {
+     "surface": "ghṛtavāryaṃ",
+     "gloss": "ghrtavari",
+     "grounds": "technical architectural term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śamānaṃ",
+     "gloss": "equal",
+     "grounds": "equal measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.sg.opt-act + √as"
+    },
+    {
+     "surface": "padmapīṭhamadaṃ",
+     "gloss": "this-lotus-pedestal",
+     "grounds": "fused demonstrative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "accepted view",
+     "morph": "n.nom.sg.past-pass-part + √man"
+    }
+   ],
+   "question": "How is the ghṛtavāri element proportioned in this lotus pedestal?",
+   "premises": [
+    "The ghṛtavāri should be equal",
+    "This refers to the lotus pedestal",
+    "It is so considered"
+   ],
+   "inference": "In this lotus pedestal, the ghṛtavāri is considered to be of equal measure.",
+   "uncertainties": [
+    "Meaning of ghṛtavāri as technical term"
+   ],
+   "plain_english": "The ghṛtavāri should be equal; this is considered the lotus pedestal."
+  },
+  {
+   "verse": 4063,
+   "rows": [
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "with-five",
+     "grounds": "five parts",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "paṅkajaṃ",
+     "gloss": "lotus",
+     "grounds": "lotus element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kampastvekenordhvaṃ",
+     "gloss": "molding-but-one-above",
+     "grounds": "fused form indicating molding above",
+     "morph": "compound"
+    },
+    {
+     "surface": "tribhāgataḥ",
+     "gloss": "from-three-parts",
+     "grounds": "division basis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the lotus and molding portions distributed by parts?",
+   "premises": [
+    "The lotus is made with five parts",
+    "The molding is one part above",
+    "This is based on three parts"
+   ],
+   "inference": "The lotus takes five parts and the molding one part above, arranged from three parts.",
+   "uncertainties": [
+    "Parsing of kampastvekenordhvaṃ is uncertain"
+   ],
+   "plain_english": "The lotus is made with five parts, and the molding with one above, from three parts."
+  },
+  {
+   "verse": 4064,
+   "rows": [
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "with-two",
+     "grounds": "two parts",
+     "morph": "n.ins.du"
+    },
+    {
+     "surface": "paṅktī",
+     "gloss": "bands",
+     "grounds": "rows or bands",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "bhavedūrdhe",
+     "gloss": "should-be-above",
+     "grounds": "fused form indicating position above",
+     "morph": "compound"
+    },
+    {
+     "surface": "ghṛtavāyaika",
+     "gloss": "ghrtavari-one",
+     "grounds": "fused form with one part",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgataḥ",
+     "gloss": "from-part",
+     "grounds": "derived from part",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the bands and ghṛtavāri be arranged above?",
+   "premises": [
+    "Two parts form bands",
+    "These should be above",
+    "The ghṛtavāri takes one part"
+   ],
+   "inference": "Two bands should be placed above, and the ghṛtavāri should take one part.",
+   "uncertainties": [
+    "Exact parsing of fused forms is uncertain"
+   ],
+   "plain_english": "There should be two bands above, and the ghṛtavāri should be one part."
+  },
+  {
+   "verse": 4065,
+   "rows": [
+    {
+     "surface": "jagatībandha",
+     "gloss": "jagati-band",
+     "grounds": "architectural base band",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "measure by part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "guṇārdhaṃ",
+     "gloss": "three-and-half",
+     "grounds": "measure of three and a half",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padmatuṅgakam",
+     "gloss": "lotus-height",
+     "grounds": "height of lotus",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What height is prescribed for the lotus relative to the jagatī band?",
+   "premises": [
+    "The jagatī band is taken as a part",
+    "The measure is three and a half",
+    "This defines the lotus height"
+   ],
+   "inference": "The lotus height should be three and a half parts relative to the jagatī band.",
+   "uncertainties": [
+    "Interpretation of guṇārdhaṃ as three and a half"
+   ],
+   "plain_english": "By the jagatī band part, the lotus height should be three and a half."
+  },
+  {
+   "verse": 4066,
+   "rows": [
+    {
+     "surface": "jagatībandha",
+     "gloss": "jagati-band",
+     "grounds": "architectural base band",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "measure by part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "guṇārdhaṃ",
+     "gloss": "three-and-half",
+     "grounds": "measure of three and a half",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padmatuṅgakam",
+     "gloss": "lotus-height",
+     "grounds": "height of lotus",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What repeated proportion governs the lotus height against the jagatī band?",
+   "premises": [
+    "The jagatī band is the reference part",
+    "The measure is three and a half",
+    "The lotus height follows this measure"
+   ],
+   "inference": "The lotus height is again set at three and a half parts relative to the jagatī band.",
+   "uncertainties": [
+    "Verse repeats 4065; intentional repetition or variant unclear"
+   ],
+   "plain_english": "By the jagatī band part, the lotus height should be three and a half."
+  },
+  {
+   "verse": 4067,
+   "rows": [
+    {
+     "surface": "vṛttākārastadūrdhvaitu",
+     "gloss": "round-form-above-that",
+     "grounds": "fused form indicating round shape above",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṭṭikā",
+     "gloss": "band",
+     "grounds": "strip or fillet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāgamānataḥ",
+     "gloss": "by-part-measure",
+     "grounds": "measured by parts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form and measure define the band placed above?",
+   "premises": [
+    "Above that there is a round form",
+    "A band is placed",
+    "It is measured by parts"
+   ],
+   "inference": "Above that, a round band should be made according to part measure.",
+   "uncertainties": [
+    "Parsing of vṛttākārastadūrdhvaitu is uncertain"
+   ],
+   "plain_english": "Above that, a round band should be made according to the part measure."
+  },
+  {
+   "verse": 4068,
+   "rows": [
+    {
+     "surface": "śeṣeṇa",
+     "gloss": "with-remainder",
+     "grounds": "remaining portion",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ghṛtavārītu",
+     "gloss": "ghrtavari-but",
+     "grounds": "fused form with particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīkaraṃ",
+     "gloss": "prosperity-making",
+     "grounds": "auspicious type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pīṭhamīrtitam",
+     "gloss": "pedestal-declared",
+     "grounds": "fused definition statement",
+     "morph": "compound"
+    }
+   ],
+   "question": "What auspicious pedestal type is formed with the remaining part and ghṛtavāri?",
+   "premises": [
+    "The remainder is used",
+    "The ghṛtavāri is included",
+    "The pedestal is declared prosperity-making"
+   ],
+   "inference": "With the remainder and ghṛtavāri, the pedestal is declared to be of the prosperity-making type.",
+   "uncertainties": [
+    "Parsing of pīṭhamīrtitam is uncertain"
+   ],
+   "plain_english": "With the remainder and the ghṛtavāri, the pedestal is declared to be prosperity-making."
+  },
+  {
+   "verse": 4069,
+   "rows": [
+    {
+     "surface": "padmamekena",
+     "gloss": "lotus-by-one",
+     "grounds": "lotus with one part",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "locative of part",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomāṃśa",
+     "gloss": "space-part",
+     "grounds": "technical part name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādukaṃ",
+     "gloss": "base",
+     "grounds": "pedestal component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.sg.opt-act + √bhū"
+    }
+   ],
+   "question": "How should the lotus and base be allocated within one part division?",
+   "premises": [
+    "One part is assigned to the lotus",
+    "A space-part is specified",
+    "The base should be formed"
+   ],
+   "inference": "With one part for the lotus, the space-part should form the base.",
+   "uncertainties": [
+    "Meaning of vyomāṃśa as technical term"
+   ],
+   "plain_english": "With one part for the lotus, the space-part should be the base."
+  },
+  {
+   "verse": 4070,
+   "rows": [
+    {
+     "surface": "galamardhaṃtribhāgena",
+     "gloss": "neck-half-by-three-parts",
+     "grounds": "fused form giving neck measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "lotus element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayaṃśena",
+     "gloss": "by-two-parts",
+     "grounds": "measure of two parts",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vṛttakam",
+     "gloss": "round-part",
+     "grounds": "rounded element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are assigned to the neck, lotus, and round part?",
+   "premises": [
+    "The neck is half by three parts",
+    "The lotus is specified",
+    "The round part takes two parts"
+   ],
+   "inference": "The neck is half of three parts, the lotus is set, and the round part takes two parts.",
+   "uncertainties": [
+    "Parsing of galamardhaṃtribhāgena is ambiguous"
+   ],
+   "plain_english": "The neck is half by three parts, the lotus is set, and the round part is two parts."
+  },
+  {
+   "verse": 4071,
+   "rows": [
+    {
+     "surface": "bhāgābhyāṃ",
+     "gloss": "by-two-parts",
+     "grounds": "dual measure",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "karṇa-ityuktassyādekenaiva",
+     "gloss": "corner-thus-said-by-one-only",
+     "grounds": "fused definition with alternative",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vājanam",
+     "gloss": "support",
+     "grounds": "architectural support element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative part measures define the corner and the support?",
+   "premises": [
+    "The corner is said to be two parts",
+    "Alternatively it may be one part",
+    "The support is specified"
+   ],
+   "inference": "The corner may be two parts or one, and the support is defined accordingly.",
+   "uncertainties": [
+    "Parsing of karṇa-ityuktassyādekenaiva is uncertain"
+   ],
+   "plain_english": "The corner is said to be two parts, or by one only, and the support is so defined."
+  },
+  {
+   "verse": 4072,
+   "rows": [
+    {
+     "surface": "ekenakaṃpamardhena",
+     "gloss": "by-one-molding-by-half",
+     "grounds": "fused measure of molding",
+     "morph": "compound"
+    },
+    {
+     "surface": "ghṛtavāryabhidhīyate",
+     "gloss": "ghrtavari-is-called",
+     "grounds": "definition statement",
+     "morph": "3.sg.pass-pres + abhi-√dhā"
+    }
+   ],
+   "question": "What measure is prescribed for the element called ghṛtavāri?",
+   "premises": [
+    "One molding and a half are specified",
+    "This measure is applied",
+    "The element is called ghṛtavāri"
+   ],
+   "inference": "The ghṛtavāri is defined as measuring one and a half parts of the molding.",
+   "uncertainties": [
+    "Parsing of ekenakaṃpamardhena is uncertain"
+   ],
+   "plain_english": "With one and a half for the molding, it is called ghṛtavāri."
+  },
+  {
+   "verse": 4073,
+   "rows": [
+    {
+     "surface": "ekaviṃśati",
+     "gloss": "twenty-one",
+     "grounds": "numerical count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "parts",
+     "grounds": "division units",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhottuṅgaṃ",
+     "gloss": "pedestal-height",
+     "grounds": "height of pedestal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "prior action",
+     "morph": "gerund + vi-√bhaj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Into how many parts should the pedestal height be divided?",
+   "premises": [
+    "The pedestal height is considered",
+    "It should be divided",
+    "The division is into twenty-one parts"
+   ],
+   "inference": "The height of the pedestal should be divided into twenty-one parts.",
+   "uncertainties": [],
+   "plain_english": "Having divided the height of the pedestal into twenty-one parts."
+  },
+  {
+   "verse": 4074,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "one part",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "karṇastvekena",
+     "gloss": "corner-but-by-one",
+     "grounds": "fused form assigning one part to corner",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "lotus element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.sg.opt-act + √as"
+    },
+    {
+     "surface": "guṇabhāgataḥ",
+     "gloss": "from-three-parts",
+     "grounds": "measure of three parts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the corner and lotus portions allocated within the divided pedestal?",
+   "premises": [
+    "The corner takes one part",
+    "The lotus is assigned parts",
+    "The lotus measure is three parts"
+   ],
+   "inference": "One part is for the corner and three parts are for the lotus.",
+   "uncertainties": [
+    "Parsing of karṇastvekena is uncertain"
+   ],
+   "plain_english": "One part should be for the corner, and the lotus should be three parts."
+  }
+ ]
+}

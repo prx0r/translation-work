@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2425,
+   "rows": [
+    {
+     "surface": "aṣṭamyāñ",
+     "gloss": "on-eighth-day",
+     "grounds": "locative of time specifying the lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle adding another occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśābhāge",
+     "gloss": "in-night-portion",
+     "grounds": "compound niśā-bhāga indicating time within the night",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-lead",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act (√nī)"
+    },
+    {
+     "surface": "kāmeśvarīgṛham",
+     "gloss": "to-Kāmeśvarī-house",
+     "grounds": "compound kāmeśvarī-gṛha denoting the destination abode",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "At what time and to whose abode must the ritual procession be conducted?",
+   "premises": [
+    "The eighth lunar day is specified as the occasion.",
+    "The action is to occur during a portion of the night.",
+    "The prescribed destination is the house of Kāmeśvarī."
+   ],
+   "inference": "On the eighth day, during the night portion, one should conduct the procession to the house of Kāmeśvarī.",
+   "uncertainties": [
+    "The exact portion of the night intended by niśābhāge is not specified."
+   ],
+   "plain_english": "And on the eighth day, during the night, one should lead the procession to the house of Kāmeśvarī."
+  }
+ ]
+}

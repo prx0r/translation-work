@@ -1,0 +1,39 @@
+{
+ "song": "kul-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "śuśrūṣaṇaparo",
+     "gloss": "service-devoted",
+     "grounds": "compound of service and devoted-to",
+     "morph": "m.nom.sg (adj)"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who-indeed",
+     "grounds": "relative pronoun yas with particle tu",
+     "morph": "m.nom.sg (rel pron) + (indecl.)"
+    },
+    {
+     "surface": "gurudevamahātmanām",
+     "gloss": "guru-deva-great-soul",
+     "grounds": "compound of guru, deva, and great-soul in genitive plural",
+     "morph": "m.gen.pl (compound)"
+    }
+   ],
+   "question": "Who is devoted to service of guru-deva-great-souls?",
+   "premises": [
+    "Service-devotion marks the disciple.",
+    "Guru-deva-great-souls receive service.",
+    "The verse names the devoted one."
+   ],
+   "inference": "The verse identifies the service-devoted disciple of guru-deva-great-souls.",
+   "uncertainties": [
+    "Verse fragment lacks predicate."
+   ],
+   "plain_english": "He who is devoted to service of the guru, deva, and great souls."
+  }
+ ]
+}

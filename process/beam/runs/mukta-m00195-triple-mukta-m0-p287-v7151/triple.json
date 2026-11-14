@@ -1,0 +1,932 @@
+{
+ "song": "mukta-m0-p287",
+ "items": [
+  {
+   "verse": 7151,
+   "rows": [
+    {
+     "surface": "pañcakalaśā",
+     "gloss": "five-pots",
+     "grounds": "compound pañcan-kalaśa; objects of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "madhyādiṣu",
+     "gloss": "in-middle-and-so-on",
+     "grounds": "compound madhya-ādi; locative indicating positions",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential procedure",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the five pots be worshipped in the middle and other positions?",
+   "premises": [
+    "Five pots are the objects of worship",
+    "The worship occurs in middle and other positions",
+    "The worship must follow a prescribed order"
+   ],
+   "inference": "The practitioner should worship the five pots in sequence beginning from the middle and proceeding to the other positions",
+   "uncertainties": [
+    "The exact spatial arrangement implied by madhyādiṣu is not fully specified"
+   ],
+   "plain_english": "One should worship the five pots in the middle and other positions in due order."
+  },
+  {
+   "verse": 7152,
+   "rows": [
+    {
+     "surface": "ghṛtakumbhena",
+     "gloss": "with-ghee-pot",
+     "grounds": "compound ghṛta-kumbha; instrument for sprinkling or offering",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kaṣāyeṇa",
+     "gloss": "with-decoction",
+     "grounds": "astringent or herbal liquid used in rite",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after-that",
+     "grounds": "indicates subsequent stage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances are to be used in the next stage of the ritual sequence?",
+   "premises": [
+    "A pot of ghee is employed as a ritual substance",
+    "A decoction is employed as a ritual substance",
+    "These uses occur in sequential stages"
+   ],
+   "inference": "After the prior step, the rite proceeds with a ghee pot and then with a decoction",
+   "uncertainties": [
+    "The precise ritual action performed with each substance is implied rather than stated"
+   ],
+   "plain_english": "Then, after that, one should proceed with a pot of ghee and with a decoction."
+  },
+  {
+   "verse": 7153,
+   "rows": [
+    {
+     "surface": "kvāthair",
+     "gloss": "with-herbal-decoctions",
+     "grounds": "plural instruments used for sprinkling",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "ritual consecratory action",
+     "morph": "3.sg.opt.act √sic with abhi"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks continuation of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner performing the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should perform the sprinkling with herbal decoctions in this ritual stage?",
+   "premises": [
+    "Herbal decoctions are the substances used for sprinkling",
+    "Sprinkling is the prescribed ritual action",
+    "The agent is described as wise"
+   ],
+   "inference": "The wise practitioner should then perform the sprinkling with herbal decoctions",
+   "uncertainties": [
+    "The recipient or object of the sprinkling is not explicitly named"
+   ],
+   "plain_english": "Then the wise one should sprinkle with herbal decoctions."
+  },
+  {
+   "verse": 7154,
+   "rows": [
+    {
+     "surface": "vaktrahastapadakṣālācamanāny",
+     "gloss": "mouth-hand-foot-washing-sipping",
+     "grounds": "compound vaktra-hasta-pada-kṣāla-ācamana; fused form listing purificatory acts",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "includes additional acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "compound mantra-vid; qualified ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What additional purificatory acts must the knower of mantra perform?",
+   "premises": [
+    "Washing of mouth, hands, and feet is prescribed",
+    "Sipping water for purification is prescribed",
+    "The agent is one who knows mantra"
+   ],
+   "inference": "The knower of mantra should also perform the washing of mouth, hands, and feet and the sipping of water",
+   "uncertainties": [
+    "The exact order among these purificatory acts is not specified"
+   ],
+   "plain_english": "The knower of mantra should also perform the washing of the mouth, hands, and feet, and the sipping of water."
+  },
+  {
+   "verse": 7155,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks emphasis or transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to the procedure described above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakto",
+     "gloss": "capable",
+     "grounds": "describes the resulting state of the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naro",
+     "gloss": "man",
+     "grounds": "the practitioner or person undergoing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "expresses resulting condition",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What condition does a person attain by following the prescribed ritual procedure?",
+   "premises": [
+    "The procedure has been performed in the manner described",
+    "The subject is a man or person",
+    "The result is expressed as becoming capable"
+   ],
+   "inference": "By performing the rite thus, a person becomes capable",
+   "uncertainties": [
+    "The specific domain of capability is not explicitly defined"
+   ],
+   "plain_english": "Thus a man becomes capable."
+  },
+  {
+   "verse": 7156,
+   "rows": [
+    {
+     "surface": "mahatīṃ",
+     "gloss": "great",
+     "grounds": "qualifies the prosperity attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lakṣmīṃ",
+     "gloss": "prosperity",
+     "grounds": "desired result of the rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indicates continual attainment or state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayī",
+     "gloss": "victorious",
+     "grounds": "describes the successful practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "expresses resulting condition",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What prosperity and success result from the completed ritual practice?",
+   "premises": [
+    "Great prosperity is named as an attainment",
+    "Victory is named as a resulting state",
+    "The result is characterized as continual"
+   ],
+   "inference": "The practitioner should become always victorious and obtain great prosperity",
+   "uncertainties": [],
+   "plain_english": "He should always become victorious and obtain great prosperity."
+  },
+  {
+   "verse": 7157,
+   "rows": [
+    {
+     "surface": "agnimanthalakṣasevyanāmnoḥ",
+     "gloss": "fire-churning-hundred-thousand-worship-named",
+     "grounds": "compound agni-mantha-lakṣa-sevya-nāman; fused genitive dual indicating two named rites or practices",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viduttamaḥ",
+     "gloss": "knower-best",
+     "grounds": "compound vid-uttama; most learned practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to perform the rite associated with the fire-churning and hundred-thousand-worship names?",
+   "premises": [
+    "A rite is associated with two named practices",
+    "The names involve fire-churning and hundred-thousand worship",
+    "The agent is described as the best among knowers"
+   ],
+   "inference": "The best among knowers should perform the rite of those two named practices",
+   "uncertainties": [
+    "The exact identification of the two named practices is uncertain from this verse alone"
+   ],
+   "plain_english": "The best among knowers should perform the rite of the practices named fire-churning and hundred-thousand worship."
+  },
+  {
+   "verse": 7158,
+   "rows": [
+    {
+     "surface": "udumbarīpāṭalīndukubhāgāḥ",
+     "gloss": "udumbara-pāṭalī-moon-earth-parts",
+     "grounds": "compound udumbarī-pāṭalī-indu-ku-bhāga; enumerated parts or proportions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "are-declared",
+     "grounds": "authoritative statement of specification",
+     "morph": "m.nom.pl.past-pass-part √kīrt with pari"
+    }
+   ],
+   "question": "What specific parts or proportions are declared for the ritual components named here?",
+   "premises": [
+    "Components named udumbara, pāṭalī, moon, and earth are listed",
+    "These are designated as parts or proportions",
+    "They are formally declared"
+   ],
+   "inference": "The parts or proportions of udumbara, pāṭalī, moon, and earth are declared as specified",
+   "uncertainties": [
+    "The symbolic or numerical values of indu and ku in this context are not explicit"
+   ],
+   "plain_english": "The parts of udumbara, pāṭalī, moon, and earth are declared."
+  },
+  {
+   "verse": 7159,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this result to prior context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sekād",
+     "gloss": "from-sprinkling",
+     "grounds": "ablative indicating cause or source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dīrghāyur",
+     "gloss": "long-life",
+     "grounds": "compound dīrgha-āyus; resulting benefit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "qualifies the result or state",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme benefit arises from the act of sprinkling described in this context?",
+   "premises": [
+    "Sprinkling is the causal ritual act",
+    "Long life is named as the result",
+    "The result is characterized as supreme"
+   ],
+   "inference": "From the sprinkling one obtains supreme long life",
+   "uncertainties": [
+    "The syntactic relation of uttamam to dīrghāyur is slightly compressed in the verse"
+   ],
+   "plain_english": "And from the sprinkling one attains supreme long life."
+  },
+  {
+   "verse": 7160,
+   "rows": [
+    {
+     "surface": "dhānyasamākulam",
+     "gloss": "grain-filled",
+     "grounds": "compound dhānya-samākula; describes a place or setting",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characteristic defines the setting or substance mentioned in this ritual instruction?",
+   "premises": [
+    "Grain is the material element named",
+    "The state described is being filled or crowded with it"
+   ],
+   "inference": "The setting or item in question is filled with grain",
+   "uncertainties": [
+    "The noun qualified by dhānyasamākulam is not present in this verse"
+   ],
+   "plain_english": "It is filled with grain."
+  },
+  {
+   "verse": 7161,
+   "rows": [
+    {
+     "surface": "tatputrāḥ",
+     "gloss": "his-sons",
+     "grounds": "compound tad-putra; offspring of a previously mentioned person",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śayānāḥ",
+     "gloss": "lying",
+     "grounds": "describes their posture or state",
+     "morph": "m.nom.pl.pres-mid-part √śī"
+    },
+    {
+     "surface": "pathisādhakam",
+     "gloss": "path-practitioner",
+     "grounds": "compound pathi-sādhaka; practitioner on the path, object of context",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In what state are the sons positioned in relation to the practitioner on the path?",
+   "premises": [
+    "The sons of that person are the subjects",
+    "They are described as lying down",
+    "The practitioner on the path is present in the context"
+   ],
+   "inference": "His sons are lying in relation to the practitioner on the path",
+   "uncertainties": [
+    "The exact spatial or ritual relation to pathisādhakam is unclear without surrounding verses"
+   ],
+   "plain_english": "His sons, lying down, are in relation to the practitioner on the path."
+  },
+  {
+   "verse": 7162,
+   "rows": [
+    {
+     "surface": "aṃgulyādiṣaḍaṅgāni",
+     "gloss": "finger-and-so-on-six-limbs",
+     "grounds": "compound aṅguli-ādi-ṣaḍ-aṅga; ritual placement on six limbs beginning with fingers",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śeṣanyāsāś",
+     "gloss": "remaining-placements",
+     "grounds": "compound śeṣa-nyāsa; additional ritual placements; final visarga sandhi in fused form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects two sets of ritual acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates conformity with prior instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the six-limb placements and the remaining placements be performed in this rite?",
+   "premises": [
+    "Six-limb placements beginning with the fingers are prescribed",
+    "Remaining placements are also prescribed",
+    "The procedure follows a previously stated method"
+   ],
+   "inference": "The six-limb placements beginning with the fingers and the remaining placements should be performed as before",
+   "uncertainties": [],
+   "plain_english": "The six-limb placements beginning with the fingers and the remaining placements should be done as before."
+  },
+  {
+   "verse": 7163,
+   "rows": [
+    {
+     "surface": "ratnapātraṃ",
+     "gloss": "jewel-vessel",
+     "grounds": "compound ratna-pātra; ritual vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāmahaste",
+     "gloss": "in-left-hand",
+     "grounds": "compound vāma-hasta; location of the vessel",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "in-right",
+     "grounds": "refers to the right hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "ritual object held in the right hand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "sacred formula to be used next",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What objects and mantra are to be held or employed in the hands during this ritual step?",
+   "premises": [
+    "A jewel vessel is placed in the left hand",
+    "A lotus is placed in the right hand",
+    "The mantra is employed afterward"
+   ],
+   "inference": "One should hold a jewel vessel in the left hand, a lotus in the right, and then take up the mantra",
+   "uncertainties": [
+    "The exact action performed with the mantra is implied rather than stated"
+   ],
+   "plain_english": "One should hold a jewel vessel in the left hand and a lotus in the right, and then take up the mantra."
+  },
+  {
+   "verse": 7164,
+   "rows": [
+    {
+     "surface": "trisvāduyuktahaviṣā",
+     "gloss": "three-sweet-joined-oblation",
+     "grounds": "compound tri-svādu-yukta-havis; oblation mixed with three sweet substances",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tarpaṇādi",
+     "gloss": "libation-and-so-on",
+     "grounds": "compound tarpaṇa-ādi; libation and related acts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataś",
+     "gloss": "then",
+     "grounds": "marks sequence; sandhi form of tataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "With what oblation should libation and related acts be performed in this stage?",
+   "premises": [
+    "An oblation joined with three sweet substances is specified",
+    "Libation and related acts are to be performed",
+    "These acts follow in sequence"
+   ],
+   "inference": "One should then perform libation and related acts with an oblation mixed with the three sweet substances",
+   "uncertainties": [
+    "The exact identity of the three sweet substances is not specified here"
+   ],
+   "plain_english": "Then one should perform libation and related acts with an oblation mixed with the three sweet substances."
+  },
+  {
+   "verse": 7165,
+   "rows": [
+    {
+     "surface": "brahmavṛkṣaprasūnaiś",
+     "gloss": "brahma-tree-flowers",
+     "grounds": "compound brahma-vṛkṣa-prasūna; flowers used as oblation material; instrumental plural with sandhi",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds this option or element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homo",
+     "gloss": "oblation",
+     "grounds": "fire offering rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lakṣmīprado",
+     "gloss": "prosperity-giving",
+     "grounds": "compound lakṣmī-prada; describes the effect of the oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "is-considered",
+     "grounds": "states traditional view",
+     "morph": "m.nom.sg.past-pass-part √man"
+    }
+   ],
+   "question": "What result is attributed to performing oblation with flowers of the brahma tree?",
+   "premises": [
+    "Oblation is performed with flowers of the brahma tree",
+    "The oblation is evaluated for its effect",
+    "The stated effect is the giving of prosperity"
+   ],
+   "inference": "Oblation with flowers of the brahma tree is considered to grant prosperity",
+   "uncertainties": [
+    "The specific plant intended by brahmavṛkṣa may vary by tradition"
+   ],
+   "plain_english": "And oblation with flowers of the brahma tree is considered to grant prosperity."
+  },
+  {
+   "verse": 7166,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaṃ",
+     "gloss": "another",
+     "grounds": "another person as object of the rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaśayen",
+     "gloss": "one-may-subdue",
+     "grounds": "ritual power of attraction or control",
+     "morph": "3.sg.opt.act √vaś causative"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "fused na-atra; negates doubt in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "asserts certainty of the result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can this ritual application be used to subdue another person with certainty?",
+   "premises": [
+    "Subduing another person is presented as a possible application",
+    "The verse explicitly denies doubt in this matter"
+   ],
+   "inference": "By this application one may subdue another, and there is no doubt about it",
+   "uncertainties": [],
+   "plain_english": "Or one may subdue another; there is no doubt in this."
+  },
+  {
+   "verse": 7167,
+   "rows": [
+    {
+     "surface": "ratnaughai",
+     "gloss": "with-jewel-multitudes",
+     "grounds": "compound ratna-ogha; abundance of jewels as means or accompaniment",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "rājyalakṣmīṃ",
+     "gloss": "royal-prosperity",
+     "grounds": "compound rājya-lakṣmī; sovereignty and royal fortune",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds this attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "one-obtains",
+     "grounds": "states the result of the practice",
+     "morph": "3.sg.pres.act √vid"
+    }
+   ],
+   "question": "What form of prosperity is obtained through abundance associated with jewels?",
+   "premises": [
+    "Multitudes of jewels are involved in the result or means",
+    "Royal prosperity is named as the attainment",
+    "The verse states that one obtains it"
+   ],
+   "inference": "One obtains royal prosperity along with multitudes of jewels",
+   "uncertainties": [
+    "Whether ratnaughai is instrumental means or accompanying result is slightly ambiguous"
+   ],
+   "plain_english": "One obtains royal prosperity and multitudes of jewels."
+  },
+  {
+   "verse": 7168,
+   "rows": [
+    {
+     "surface": "pūrvoditān",
+     "gloss": "previously-stated",
+     "grounds": "compound pūrva-udita; refers to earlier instructions",
+     "morph": "m.acc.pl.past-pass-part √vad with ud"
+    },
+    {
+     "surface": "prayogāṃś",
+     "gloss": "applications",
+     "grounds": "ritual applications or procedures; accusative plural with anusvāra sandhi",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "includes these applications here as well",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "atrāpi",
+     "gloss": "here-also",
+     "grounds": "fused atra-api; extends prior applications to this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Should the practitioner apply previously stated ritual applications in this context as well?",
+   "premises": [
+    "Certain applications were stated previously",
+    "The present context is included by the word here also",
+    "The practitioner is the responsible agent"
+   ],
+   "inference": "The practitioner should also perform the previously stated applications in this context",
+   "uncertainties": [],
+   "plain_english": "The practitioner should also perform the previously stated applications here."
+  },
+  {
+   "verse": 7169,
+   "rows": [
+    {
+     "surface": "aiṃhrīṃ-aim",
+     "gloss": "aiṃhrīṃ-aim",
+     "grounds": "bīja syllables/mantra formula; transliterated as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quotation or specification of the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munyādyā",
+     "gloss": "sage-and-so-on",
+     "grounds": "compound muni-ādi; refers to sages and others in a traditional list",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "prescribes recognition or understanding",
+     "morph": "m.nom.pl.fut-pass-part √jñā"
+    },
+    {
+     "surface": "pūrvoditās",
+     "gloss": "previously-stated",
+     "grounds": "compound pūrva-udita; refers to earlier enumeration",
+     "morph": "m.nom.pl.past-pass-part √vad with ud"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuity with prior teaching",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the mantra formula and the previously stated sages and others be understood in this context?",
+   "premises": [
+    "A specific mantra formula is given",
+    "Sages and others are referred to as a group",
+    "They are described as previously stated and to be known likewise"
+   ],
+   "inference": "The formula aiṃhrīṃ-aim and the previously stated sages and others should be known in the same way as before",
+   "uncertainties": [
+    "The precise referents of munyādyā depend on earlier verses"
+   ],
+   "plain_english": "Thus the formula aiṃhrīṃ-aim and the previously stated sages and others should be known likewise."
+  },
+  {
+   "verse": 7170,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "compound ṣaṣ-aṅga; the six ritual limbs of mantra practice",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vidadhyān",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction for proper execution",
+     "morph": "3.sg.opt.act √dhā with vi"
+    },
+    {
+     "surface": "mantravittamaḥ",
+     "gloss": "mantra-knower-best",
+     "grounds": "compound mantra-vid-tama; most expert in mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should perform the six-limb ritual procedure in this mantra practice?",
+   "premises": [
+    "The six limbs are the prescribed ritual components",
+    "Their performance is enjoined",
+    "The agent is the best knower of mantra"
+   ],
+   "inference": "The best knower of mantra should perform the six-limb procedure",
+   "uncertainties": [],
+   "plain_english": "The best knower of mantra should perform the six-limb rite."
+  },
+  {
+   "verse": 7171,
+   "rows": [
+    {
+     "surface": "trinayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound tri-nayana; describes the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pīnavakṣojanāmitām",
+     "gloss": "full-breast-bent",
+     "grounds": "compound pīna-vakṣoja-namita; describes her form as bent by full breasts",
+     "morph": "f.acc.sg.past-pass-part √nam causative"
+    }
+   ],
+   "question": "What physical attributes characterize the goddess to be visualized in this description?",
+   "premises": [
+    "The goddess is described as three-eyed",
+    "She is described as bent by full breasts"
+   ],
+   "inference": "The goddess to be visualized is three-eyed and slightly bent by her full breasts",
+   "uncertainties": [
+    "The object of visualization is stated in the following verse"
+   ],
+   "plain_english": "She is three-eyed and bent by her full breasts."
+  },
+  {
+   "verse": 7172,
+   "rows": [
+    {
+     "surface": "muktāhārasamāyuktāṃ",
+     "gloss": "pearl-garland-adorned",
+     "grounds": "compound muktā-hāra-samāyukta; adorned with a pearl necklace",
+     "morph": "f.acc.sg.past-pass-part √yuj with sam-ā"
+    },
+    {
+     "surface": "bhāvayed",
+     "gloss": "one-should-visualize",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.opt.act √bhū causative"
+    },
+    {
+     "surface": "bhuvaneśvarīm",
+     "gloss": "world-goddess",
+     "grounds": "compound bhuvana-īśvarī; the goddess Bhuvaneśvarī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess should be visualized and with what adornment in this meditation?",
+   "premises": [
+    "Visualization is the prescribed act",
+    "The goddess Bhuvaneśvarī is the object",
+    "She is adorned with a pearl garland"
+   ],
+   "inference": "One should visualize the goddess Bhuvaneśvarī adorned with a pearl garland",
+   "uncertainties": [],
+   "plain_english": "One should visualize the goddess Bhuvaneśvarī adorned with a pearl garland."
+  },
+  {
+   "verse": 7173,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates conformity with prior worship procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescribes worship",
+     "morph": "f.nom.sg.fut-pass-part √pūj"
+    },
+    {
+     "surface": "hṛllekhādyāś",
+     "gloss": "heart-line-and-so-on",
+     "grounds": "compound hṛllekhā-ādi; group beginning with Hṛllekhā; final visarga sandhi in fused form",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "includes this group in the worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantriṇā",
+     "gloss": "by-practitioner",
+     "grounds": "agent who performs mantra worship",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How should the practitioner worship Hṛllekhā and the associated group in this rite?",
+   "premises": [
+    "Hṛllekhā and others are to be worshipped",
+    "The worship follows the previous method",
+    "The mantra practitioner is the agent"
+   ],
+   "inference": "The mantra practitioner should worship Hṛllekhā and the others as before",
+   "uncertainties": [
+    "The full membership of the group beginning with Hṛllekhā is not specified here"
+   ],
+   "plain_english": "The mantra practitioner should worship Hṛllekhā and the others as before."
+  },
+  {
+   "verse": 7174,
+   "rows": [
+    {
+     "surface": "nijanāthāṅkasthitāḥ",
+     "gloss": "own-lord-lap-seated",
+     "grounds": "compound nija-nātha-aṅka-sthita; seated on the lap of their own lord",
+     "morph": "f.nom.pl.past-pass-part √sthā"
+    },
+    {
+     "surface": "smerānanālasāḥ",
+     "gloss": "smiling-face-gentle",
+     "grounds": "compound smera-ānana-alasa; having smiling faces and a gentle, relaxed demeanor",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What posture and expression characterize the goddesses described in this visualization?",
+   "premises": [
+    "They are seated on the lap of their own lord",
+    "They have smiling faces",
+    "They are described as gentle or relaxed"
+   ],
+   "inference": "The goddesses are visualized as seated on their lord's lap, smiling and gentle",
+   "uncertainties": [
+    "The specific goddesses referred to depend on the preceding verse"
+   ],
+   "plain_english": "They are seated on the lap of their own lord, with smiling faces and a gentle demeanor."
+  }
+ ]
+}

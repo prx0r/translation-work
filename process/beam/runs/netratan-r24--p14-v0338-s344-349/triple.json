@@ -1,0 +1,245 @@
+{
+ "song": "net-p14",
+ "items": [
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "legacy hint properly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-will-declare",
+     "grounds": "legacy hint I-will-declare",
+     "morph": "1.sg.act-fut + root pravac"
+    },
+    {
+     "surface": "vyākhyāsyāmi",
+     "gloss": "I-will-explain",
+     "grounds": "legacy hint I-will-explain",
+     "morph": "1.sg.act-fut + root vyākhyā"
+    }
+   ],
+   "question": "What will be properly declared and explained here?",
+   "premises": [
+    "proper declaration follows",
+    "proper explanation follows"
+   ],
+   "inference": "The speaker announces both declaration and explanation.",
+   "uncertainties": [
+    "exact scope of declaration unspecified"
+   ],
+   "plain_english": "I will properly declare and explain."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "legacy hint when",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "legacy hint woman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mudritā",
+     "gloss": "sealed",
+     "grounds": "legacy hint sealed",
+     "morph": "f.nom.sg.past-part"
+    },
+    {
+     "surface": "bhūtaiḥ",
+     "gloss": "by-beings",
+     "grounds": "legacy hint by-beings",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhaḥ",
+     "gloss": "embryo",
+     "grounds": "legacy hint embryo",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbhavet",
+     "gloss": "would-arise",
+     "grounds": "legacy hint would-arise",
+     "morph": "3.sg.act-opt + root saṃbhū"
+    }
+   ],
+   "question": "When a woman is sealed by beings, can an embryo arise?",
+   "premises": [
+    "sealed woman blocks arising",
+    "embryo does not arise"
+   ],
+   "inference": "Sealing by beings prevents embryonic arising.",
+   "uncertainties": [
+    "nature of sealing unspecified"
+   ],
+   "plain_english": "When a woman is sealed by beings, then an embryo would not arise."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "legacy hint in-this",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "retoraktātmani",
+     "gloss": "semen-blood-self",
+     "grounds": "legacy hint semen-blood-self",
+     "morph": "m.loc.sg.compound"
+    },
+    {
+     "surface": "bījasaṃbhavaḥ",
+     "gloss": "seed-arising",
+     "grounds": "legacy hint seed-arising",
+     "morph": "m.nom.sg.compound"
+    },
+    {
+     "surface": "garbhādhānam",
+     "gloss": "embryo-implantation",
+     "grounds": "legacy hint embryo-implantation",
+     "morph": "n.nom.sg.compound"
+    }
+   ],
+   "question": "In this semen-blood self, does seed arising constitute embryo implantation?",
+   "premises": [
+    "seed arises in self",
+    "implantation follows seed"
+   ],
+   "inference": "Seed arising in the semen-blood self is tied to embryo implantation.",
+   "uncertainties": [
+    "exact causal relation unspecified"
+   ],
+   "plain_english": "In this semen-blood self, seed arising is embryo implantation."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "legacy hint to-be-done",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtikāgṛham",
+     "gloss": "lying-in-chamber",
+     "grounds": "legacy hint lying-in-chamber",
+     "morph": "n.nom.sg.compound"
+    },
+    {
+     "surface": "ityarthāt",
+     "gloss": "by-meaning",
+     "grounds": "legacy hint by-meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must be done in the lying-in chamber according to meaning?",
+   "premises": [
+    "lying-in chamber named",
+    "meaning determines action"
+   ],
+   "inference": "The chamber's purpose is fixed by meaning.",
+   "uncertainties": [
+    "specific action unspecified"
+   ],
+   "plain_english": "Thus the lying-in chamber is to be done by meaning."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "tamapi",
+     "gloss": "him-also",
+     "grounds": "legacy hint him-also",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūtāḥ",
+     "gloss": "beings",
+     "grounds": "legacy hint beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hiṃsanti",
+     "gloss": "harm",
+     "grounds": "legacy hint harm",
+     "morph": "3.pl.act-pres + root hiṃs"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "legacy hint therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣet",
+     "gloss": "protect",
+     "grounds": "legacy hint protect",
+     "morph": "3.sg.act-opt + root rakṣ"
+    }
+   ],
+   "question": "Since beings harm him also, should one protect him?",
+   "premises": [
+    "beings harm him",
+    "protection follows harm"
+   ],
+   "inference": "Harm by beings necessitates protection.",
+   "uncertainties": [
+    "scope of protection unspecified"
+   ],
+   "plain_english": "Beings harm him also; therefore protect him."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "kṣīrasparśādipoṣaṇaiḥ",
+     "gloss": "by-milk-touch-etc-nourishment",
+     "grounds": "legacy hint by-milk-touch-etc-nourishment",
+     "morph": "n.inst.pl.compound"
+    }
+   ],
+   "question": "By what means does milk-touch nourishment protect the embryo?",
+   "premises": [
+    "milk touch nourishes",
+    "nourishment protects embryo"
+   ],
+   "inference": "Milk-touch nourishment is a protective means.",
+   "uncertainties": [
+    "exact nourishment sequence unspecified"
+   ],
+   "plain_english": "By milk-touch and similar nourishment."
+  }
+ ]
+}

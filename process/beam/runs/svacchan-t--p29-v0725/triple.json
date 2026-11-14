@@ -1,0 +1,32 @@
+{
+ "song": "sva-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "pramehaḥ",
+     "gloss": "diabetes",
+     "grounds": "legacy hint: diabetes",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuklādiprasrāvaḥ",
+     "gloss": "white-etc-flow",
+     "grounds": "legacy hint: white-etc-flow; śukla-ādi-prasrāvaḥ = flow beginning with white",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is prameha defined as here?",
+   "premises": [
+    "pramehaḥ names a disease",
+    "śuklādiprasrāvaḥ describes its flow"
+   ],
+   "inference": "prameha is defined as white-etc-flow",
+   "uncertainties": [
+    "legacy glosses only; no full context"
+   ],
+   "plain_english": "Prameha is a flow beginning with white and similar."
+  }
+ ]
+}

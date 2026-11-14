@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "vahni+jāyā+anvito",
+     "gloss": "with-fire-consort-endowed",
+     "grounds": "compound adjective as given; members vahni, jāyā, anvita",
+     "morph": "m.nom.sg (compound: vahni+jāyā+anvita)"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine of mantra; final -o reflects sandhi before vaṭukasya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṭukasya",
+     "gloss": "of-vaṭuka",
+     "grounds": "genitive singular masculine of vaṭuka",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle of ud-ā-hṛ, nominative singular masculine",
+     "morph": "m.nom.sg (past passive participle, root ud-ā-hṛ)"
+    }
+   ],
+   "question": "Which mantra is declared to belong to Vaṭuka when endowed with fire's consort?",
+   "premises": [
+    "mantra is endowed with fire's consort",
+    "mantra is declared for Vaṭuka",
+    "fire's consort accompanies the mantra"
+   ],
+   "inference": "The verse identifies Vaṭuka's mantra as the one endowed with fire's consort.",
+   "uncertainties": [
+    "exact ritual referent of fire's consort is not specified",
+    "sandhi of mantro is resolved as mantraḥ before vaṭukasya"
+   ],
+   "plain_english": "The mantra endowed with fire's consort is declared to be Vaṭuka's."
+  }
+ ]
+}

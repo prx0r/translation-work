@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "yatir",
+     "gloss": "ascetic",
+     "grounds": "subject of the bathing instruction; legacy hint yatiḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uddhūlanena",
+     "gloss": "by-uddhulana",
+     "grounds": "instrumental means of bathing",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāyān",
+     "gloss": "should-bathe",
+     "grounds": "optative verb governing the ascetic",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "daily",
+     "grounds": "adverb of frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udaṅmukhaḥ",
+     "gloss": "north-facing",
+     "grounds": "adjective agreeing with the ascetic",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Should an ascetic bathe daily facing north by uddhulana alone?",
+   "premises": [
+    "Ascetic is the subject.",
+    "Uddhulana is the sole means.",
+    "Bathing is daily and north-facing."
+   ],
+   "inference": "An ascetic should bathe daily, facing north, by uddhulana alone.",
+   "uncertainties": [
+    "Exact ritual sense of uddhūlana is not specified in this verse."
+   ],
+   "plain_english": "An ascetic should bathe daily, facing north, by uddhulana alone."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p239",
+ "items": [
+  {
+   "verse": 5975,
+   "rows": [
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "optative of kṛ; enjoins the action continued from the previous verses",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "āyādi+saṃyuktaṃ",
+     "gloss": "endowed-with-measurement-etc",
+     "grounds": "compound āya-ādi-saṃyukta; qualifies the liṅga or image as properly measured",
+     "morph": "compound: āya+ādi+saṃyukta, acc.sg.nt"
+    },
+    {
+     "surface": "śilādyair",
+     "gloss": "with-stone-etc",
+     "grounds": "compound śilā-ādi; indicates stone and similar substances as material class",
+     "morph": "compound: śilā+ādi, inst.pl.m"
+    },
+    {
+     "surface": "ukta+vastubhiḥ",
+     "gloss": "with-prescribed-materials",
+     "grounds": "compound ukta-vastu; refers to materials specified in the ritual prescriptions",
+     "morph": "compound: ukta+vastu, inst.pl.nt"
+    }
+   ],
+   "question": "By what prescribed materials and measurements must the Śiva-liṅga or image be fashioned?",
+   "premises": [
+    "The Śiva-liṅga or image established for the ritual requires fashioning.",
+    "The fashioned object must be endowed with measurements such as āya and related calculations.",
+    "The fashioned object must be made from prescribed materials such as stone."
+   ],
+   "inference": "Therefore the Śiva-liṅga or image should be crafted with proper āyādi measurements using prescribed materials like stone.",
+   "uncertainties": [
+    "The specific range of materials included under śilādyaiḥ and ukta-vastubhiḥ is not enumerated in this verse."
+   ],
+   "plain_english": "One should make it endowed with measurements such as āya and the rest, using prescribed materials such as stone and the like."
+  }
+ ]
+}

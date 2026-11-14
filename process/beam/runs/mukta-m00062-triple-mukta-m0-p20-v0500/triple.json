@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "vyāpya",
+     "gloss": "having-pervaded",
+     "grounds": "absolutive gerund expressing prior or concurrent pervasion",
+     "morph": "(gerund,√vyāp)"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "finite verb indicating abiding presence",
+     "morph": "3.sg.act-pres,√sthā"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "demonstrative used to draw consequence from prior analogy",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "subject denoting ultimate reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "state",
+     "grounds": "noun qualified by brahma and mahat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "adjective qualifying padaṃ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What justifies the claim that the great Brahman-state pervades and abides everywhere?",
+   "premises": [
+    "The preceding analogy illustrates pervasion without division.",
+    "What pervades all limited forms remains present in them.",
+    "Brahman is identified as that all-pervading reality."
+   ],
+   "inference": "Therefore the great state of Brahman stands everywhere by pervading all.",
+   "uncertainties": [],
+   "plain_english": "Having pervaded all, the great state of Brahman therefore stands everywhere."
+  }
+ ]
+}

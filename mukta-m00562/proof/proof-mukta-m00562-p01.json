@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m00562-p01",
+ "work": "mukta-m00562",
+ "date": "2026-11-01",
+ "blocking": [
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "d6712ea44c654451",
+ "source_verses": 2,
+ "t1_verses": 2,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 13
+ },
+ "align": {
+  "min_ratio": 0.959,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 51,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 2,
+  "failures": [
+   "aiṁ 5 hūṁ śrīṁ mahākomārikā vicce pādukāṃ mūlamantrana triyāñjali",
+   "śrī-aticaṇḍikādevī pādukāṃ 8 aiṁ 5 mahiṣāsanāya pādukāṃ"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[mukta-m00562-p01-v1]: cite part not byte-exact in source: aiṁ 5 hūṁ śrīṁ mahākomārikā vicce pādukāṃ mūlamantrana triyā",
+   "l2[mukta-m00562-p01-v2]: cite part not byte-exact in source: śrī-aticaṇḍikādevī pādukāṃ 8 aiṁ 5 mahiṣāsanāya pādukāṃ"
+  ],
+  "counts": {
+   "t1": 2,
+   "l0": 13,
+   "argmap": 2,
+   "l2": 2,
+   "l3": 0,
+   "l4": 0,
+   "essence": 2,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "ce8fdf43967c8fa2bad200881f29a2e577b7544aa1ec56ef0d54266733677609",
+  "l0": "16c81cb07750dcd8af61f11053c4553309103827d62bf54a5c15e33767965a62",
+  "argmap": "da3d59b146aab05a12ae63de96124aba23ae704c26c0eeaca0c38cc2d1aae0f4",
+  "l2": "aa725e7be79a92343bc648019ca64d8377d5961ae179764c8895e0793c3fcaf0",
+  "c1": "381901216e475af035f5343403ee7c408e328c77344ca9231f465af39c033f2c"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "d6712ea44c654451",
+  "t1": "mukta-m00562-p01/data/mukta-m00562-p01.t1.json",
+  "l0": "mukta-m00562-p01/data/mukta-m00562-p01.l0.json",
+  "l2": "mukta-m00562-p01/data/mukta-m00562-p01.l2.json",
+  "c1": "mukta-m00562-p01/data/mukta-m00562-p01.c1.json"
+ }
+}

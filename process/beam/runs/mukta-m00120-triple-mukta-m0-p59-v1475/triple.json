@@ -1,0 +1,52 @@
+{
+ "song": "sarvollasatantra",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "śodhayeddaśadhā",
+     "gloss": "purify-tenfold",
+     "grounds": "optative 3sg of causative śodhayati with daśadhā; legacy sense let-him-purify-tenfold",
+     "morph": "3.sg.act.opt-śudh"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive of jap",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svayambhū",
+     "gloss": "self-born",
+     "grounds": "compound adjective/noun in masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kusumaṃ",
+     "gloss": "flower",
+     "grounds": "neuter accusative singular object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priya",
+     "gloss": "beloved",
+     "grounds": "masculine nominative or vocative singular; syntactic role uncertain",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What tenfold purification must be performed after chanting the self-born flower for the beloved?",
+   "premises": [
+    "Purification is performed tenfold.",
+    "Chanting precedes the purification.",
+    "The self-born flower is the object purified."
+   ],
+   "inference": "The practitioner chants, then purifies the self-born flower tenfold for the beloved.",
+   "uncertainties": [
+    "The exact syntactic role of priya is unclear; it may be vocative or adjectival.",
+    "The precise ritual context of the tenfold purification is not specified in this verse."
+   ],
+   "plain_english": "Having chanted, let him purify the self-born flower tenfold, O beloved."
+  }
+ ]
+}

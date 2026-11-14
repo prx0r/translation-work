@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "pracuratara",
+     "gloss": "very-abundant",
+     "grounds": "comparative adjective indicating great abundance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "material riches",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āyuḥ",
+     "gloss": "long-life",
+     "grounds": "span of life or longevity",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "putravān",
+     "gloss": "possessing-sons",
+     "grounds": "endowed with offspring",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kīrtimān",
+     "gloss": "possessing-fame",
+     "grounds": "endowed with renown",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What worldly rewards accompany one associated with this hymn?",
+   "premises": [
+    "Very abundant wealth is attributed as a reward.",
+    "Long life is attributed as a reward.",
+    "Possession of sons and fame is attributed as a reward."
+   ],
+   "inference": "The hymn is associated with the attainment of abundant wealth, longevity, offspring, and fame.",
+   "uncertainties": [
+    "Whether these rewards apply to the composer, reciter, or devotee is not explicitly specified in this verse alone."
+   ],
+   "plain_english": "One gains very abundant wealth, long life, sons, and fame."
+  }
+ ]
+}

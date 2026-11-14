@@ -1,0 +1,86 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p42",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1037 ratio=0.667",
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "b4d1ba7e1b729404",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 59
+ },
+ "align": {
+  "min_ratio": 0.667,
+  "sub090": {
+   "1037": {
+    "ratio": 0.667,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 56,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "prasiddhāḥ evamanye'pi vakṣyamāṇā jñātavyāḥ",
+   "iti śivāgnerasyehodbhavo yata uktaḥ"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p42-v1038]: cite part not byte-exact in source: prasiddhāḥ evamanye'pi vakṣyamāṇā jñātavyāḥ",
+   "l2[sva-p42-v1044]: cite part not byte-exact in source: iti śivāgnerasyehodbhavo yata uktaḥ"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 59,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v1037"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "65bb3aedf69e83d1c42fd33f349ca4254ce3a6cb739162b4b3853353e3685762",
+  "l0": "31ce1abad67940b59b16c43c6553e6b257f4e9a73ee6c818f86b4f2b8312a3aa",
+  "argmap": "8070ad8df4f53769df2a285c947612af1b7771ac6ea448668a1047f2f964fa2c",
+  "l2": "f7e415e4d0f8028fc0f858b6cc9999884953f2520a9d2c706c0c97f386b18c52",
+  "c1": "057e1cfafb33af0cf832c3036e8dc405cfd8949579d05de9583e7ac33fd79953"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "b4d1ba7e1b729404",
+  "t1": "sva-p42/data/sva-p42.t1.json",
+  "l0": "sva-p42/data/sva-p42.l0.json",
+  "l2": "sva-p42/data/sva-p42.l2.json",
+  "c1": "sva-p42/data/sva-p42.c1.json"
+ }
+}

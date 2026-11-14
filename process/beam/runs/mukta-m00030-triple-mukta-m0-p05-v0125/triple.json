@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "anulomavolomena",
+     "gloss": "in-forward-and-reverse-order",
+     "grounds": "compound of anuloma and vilomena with internal sandhi; indicates bidirectional sequence",
+     "morph": "compound.indecl"
+    },
+    {
+     "surface": "mātṛkāyāṃ",
+     "gloss": "in-the-mātṛkā",
+     "grounds": "locative indicating the matrix within which recitation occurs",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "subject performing the recitation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In what manner must the wise practitioner recite the mantra within the mātṛkā?",
+   "premises": [
+    "The recitation proceeds in forward and reverse order.",
+    "The recitation takes place within the mātṛkā.",
+    "A wise practitioner is the agent of this recitation."
+   ],
+   "inference": "Therefore the wise practitioner should recite the mantra within the mātṛkā in both forward and reverse order.",
+   "uncertainties": [],
+   "plain_english": "The wise one should recite it within the mātṛkā in forward and reverse order."
+  }
+ ]
+}

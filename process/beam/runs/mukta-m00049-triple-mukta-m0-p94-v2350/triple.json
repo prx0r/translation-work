@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "pātrī+annāni",
+     "gloss": "vessel-foods",
+     "grounds": "compound of pātrī (vessel) and anna (food); objects to be offered",
+     "morph": "compound.n.acc.pl"
+    },
+    {
+     "surface": "piṇḍān",
+     "gloss": "lumps",
+     "grounds": "food-balls or lumps offered in ritual",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇāya",
+     "gloss": "to-brahmin",
+     "grounds": "recipient of the offerings",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "prescribes the act of presenting offerings",
+     "morph": "3.sg.act-optative √ni-vid"
+    }
+   ],
+   "question": "What specific offerings must be presented to the brahmin following proper ritual confirmation?",
+   "premises": [
+    "The ritual procedure has been confirmed as properly completed.",
+    "Vessel-foods constitute one category of offering.",
+    "Lumps or balls constitute another category of offering.",
+    "The brahmin is the designated recipient of these offerings."
+   ],
+   "inference": "Therefore, one should offer both vessel-foods and lumps to the brahmin.",
+   "uncertainties": [
+    "The exact composition or preparation of pātrī+annāni and piṇḍān is not specified in this verse."
+   ],
+   "plain_english": "One should offer vessel-foods and lumps to the brahmin."
+  }
+ ]
+}

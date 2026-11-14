@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "tricatuṣpaṃcamātraṃ",
+     "gloss": "three-four-five-measure",
+     "grounds": "compound expressing a sequence of three quantitative measures",
+     "morph": "compound: tri-catuṣ-pañca-mātra.n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed specification",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "natamānaṃ",
+     "gloss": "bent-measure",
+     "grounds": "compound denoting the degree or measure of bending",
+     "morph": "compound: nata-māna.n.nom.sg"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-due-order",
+     "grounds": "indeclinable indicating sequential correspondence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ordered sequence of measures determines the prescribed degree of bending?",
+   "premises": [
+    "The bending requires a specified measurable extent.",
+    "Three, four, and five measures are designated.",
+    "These measures apply in their proper sequence."
+   ],
+   "inference": "The prescribed bending is defined by a three-, four-, or five-measure extent applied in due order.",
+   "uncertainties": [
+    "The precise physical referent of the bending in this ritual context depends on the preceding description."
+   ],
+   "plain_english": "The degree of bending should be three, four, or five measures, in that order."
+  }
+ ]
+}

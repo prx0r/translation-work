@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "krīṃ",
+     "gloss": "krīṃ",
+     "grounds": "bīja syllable; transliterated, not translated",
+     "morph": "(bīja)"
+    },
+    {
+     "surface": "nābhim",
+     "gloss": "navel",
+     "grounds": "object of protection",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "madhyadeśañ",
+     "gloss": "middle-region",
+     "grounds": "compound madhya-deśa; final anusvāra realized as ñ before ca by sandhi, token kept fused",
+     "morph": "compound: madhya+deśa; m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects body regions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "specifies location or side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "Kālikā",
+     "grounds": "deity invoked as protector",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "'vatu",
+     "gloss": "may-protect",
+     "grounds": "elided initial a after preceding vowel; imperative of protection",
+     "morph": "3.sg.act.imp √av"
+    }
+   ],
+   "question": "Which deity associated with the bīja krīṃ protects the navel and middle region on the right side?",
+   "premises": [
+    "The bīja krīṃ is invoked in this protective formula.",
+    "The navel and the middle region are named as the parts to be protected.",
+    "Kālikā is the deity called upon to grant protection on the right side."
+   ],
+   "inference": "Kālikā, empowered by the bīja krīṃ, is petitioned to protect the navel and the middle region on the right side.",
+   "uncertainties": [
+    "Whether dakṣiṇe qualifies the location of the body parts or the directional placement of Kālikā is not fully explicit."
+   ],
+   "plain_english": "May Kālikā, with the bīja krīṃ, protect my navel and the middle region on the right side."
+  }
+ ]
+}

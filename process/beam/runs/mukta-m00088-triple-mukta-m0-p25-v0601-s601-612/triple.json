@@ -1,0 +1,485 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 601,
+   "rows": [
+    {
+     "surface": "sarvasaṃkṣobhiṇīṃ",
+     "gloss": "all-agitating",
+     "grounds": "accusative feminine singular adjective",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive from kṛ",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "buddhañ",
+     "gloss": "buddha",
+     "grounds": "accusative masculine singular with sandhi",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paripūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular",
+     "morph": "verb.3.sg.opt"
+    }
+   ],
+   "question": "What is the prescribed act after making the all-agitating form?",
+   "premises": [
+    "the all-agitating form is made",
+    "buddha is worshipped",
+    "worship follows making"
+   ],
+   "inference": "The verse prescribes making the all-agitating form and then worshipping Buddha.",
+   "uncertainties": [],
+   "plain_english": "Having made the all-agitating form, one should worship Buddha."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "vahnijāyānigadito",
+     "gloss": "fire-consort-pronounced",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bauddhamantro",
+     "gloss": "buddhist-mantra",
+     "grounds": "compound noun",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "instrumental plural",
+     "morph": "noun.inst.pl.m"
+    }
+   ],
+   "question": "Who pronounces the Buddhist mantra associated with the fire consort?",
+   "premises": [
+    "the fire consort is named",
+    "the Buddhist mantra is named",
+    "the wise pronounce it"
+   ],
+   "inference": "The wise pronounce the Buddhist mantra associated with the fire consort.",
+   "uncertainties": [],
+   "plain_english": "The Buddhist mantra of the fire consort is pronounced by the wise."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "buddhāya",
+     "gloss": "to-buddha",
+     "grounds": "dative singular",
+     "morph": "noun.dat.sg.m"
+    },
+    {
+     "surface": "bauddhapūrvāya",
+     "gloss": "buddhist-preceded",
+     "grounds": "dative singular compound",
+     "morph": "adj.dat.sg.m"
+    },
+    {
+     "surface": "darsanāya",
+     "gloss": "to-vision",
+     "grounds": "dative singular",
+     "morph": "noun.dat.sg.n"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "nominative singular",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "nominative singular adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "To whom is supreme obeisance offered in this Buddhist vision?",
+   "premises": [
+    "obeisance is offered",
+    "the recipient is Buddha",
+    "the vision is Buddhist-preceded"
+   ],
+   "inference": "Supreme obeisance is offered to Buddha in the Buddhist vision.",
+   "uncertainties": [],
+   "plain_english": "Obeisance, supreme, to Buddha, the Buddhist-preceded, for vision."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "cakre",
+     "gloss": "in-circle",
+     "grounds": "locative singular",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "samudrā",
+     "gloss": "oceans",
+     "grounds": "nominative plural",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sasiddhayas",
+     "gloss": "with-siddhis",
+     "grounds": "nominative plural compound",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāyudhāḥ",
+     "gloss": "with-weapons",
+     "grounds": "nominative plural compound",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What accompanies the oceans in the circle?",
+   "premises": [
+    "the circle contains oceans",
+    "siddhis accompany them",
+    "weapons accompany them"
+   ],
+   "inference": "In the circle, oceans are accompanied by siddhis and weapons.",
+   "uncertainties": [],
+   "plain_english": "In the circle are oceans, with siddhis and weapons."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvopacārais",
+     "gloss": "with-all-offerings",
+     "grounds": "instrumental plural compound",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjitāḥ",
+     "gloss": "worshipped",
+     "grounds": "nominative plural participle",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "santu",
+     "gloss": "let-be",
+     "grounds": "imperative third plural",
+     "morph": "verb.3.pl.imp"
+    },
+    {
+     "surface": "ca+uccaran",
+     "gloss": "and-uttering",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "part.nom.sg.m"
+    }
+   ],
+   "question": "What should be done after worship with all offerings?",
+   "premises": [
+    "worship with all offerings occurs",
+    "the worshipped are to be",
+    "uttering accompanies it"
+   ],
+   "inference": "After worship with all offerings, the worshipped should be, with uttering.",
+   "uncertainties": [],
+   "plain_english": "Then, worshipped with all offerings, let them be, while uttering."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "javākusumasankāsāḥ",
+     "gloss": "china-rose-flower-resembling",
+     "grounds": "nominative plural compound",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "kāmākarṣaṇikādikāḥ",
+     "gloss": "desire-attracting-and-others",
+     "grounds": "nominative plural compound",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "How are the desire-attracting powers described?",
+   "premises": [
+    "they resemble china-rose flowers",
+    "they are desire-attracting",
+    "others are included"
+   ],
+   "inference": "The desire-attracting powers and others resemble china-rose flowers.",
+   "uncertainties": [],
+   "plain_english": "China-rose-flower-like are the desire-attracting powers and others."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "pascimādikrameṇa",
+     "gloss": "west-beginning-in-order",
+     "grounds": "instrumental singular compound",
+     "morph": "noun.inst.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "binduyuktaiḥ",
+     "gloss": "with-bindu-joined",
+     "grounds": "instrumental plural compound",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "svaraiḥ",
+     "gloss": "with-vowels",
+     "grounds": "instrumental plural",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order are bindu-joined vowels used?",
+   "premises": [
+    "the order begins west",
+    "bindu-joined vowels are used",
+    "they are used together"
+   ],
+   "inference": "Bindu-joined vowels are used together, beginning from the west.",
+   "uncertainties": [],
+   "plain_english": "Beginning from the west, with bindu-joined vowels together."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "ahankārākarṣaṇīñ",
+     "gloss": "ego-attracting",
+     "grounds": "accusative singular feminine with sandhi",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabdākarṣaṇarūpiṇīm",
+     "gloss": "sound-attracting-formed",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Which attracting forms are named here?",
+   "premises": [
+    "ego-attracting is named",
+    "sound-attracting-formed is named",
+    "both are feminine accusative"
+   ],
+   "inference": "The verse names ego-attracting and sound-attracting-formed powers.",
+   "uncertainties": [],
+   "plain_english": "The ego-attracting and the sound-attracting-formed."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "smṛtyākarṣaṇarūpāñ",
+     "gloss": "memory-attracting-formed",
+     "grounds": "accusative singular feminine with sandhi",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmākarṣaṇarūpiṇīm",
+     "gloss": "name-attracting-formed",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Which memory and name attracting forms are named?",
+   "premises": [
+    "memory-attracting-formed is named",
+    "name-attracting-formed is named",
+    "both are feminine accusative"
+   ],
+   "inference": "The verse names memory-attracting-formed and name-attracting-formed powers.",
+   "uncertainties": [],
+   "plain_english": "The memory-attracting-formed and the name-attracting-formed."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "amṛtākarṣiṇīṃ",
+     "gloss": "nectar-attracting",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "sarīrākarṣiṇīṃ",
+     "gloss": "body-attracting",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddess is attracting nectar and body?",
+   "premises": [
+    "a goddess is named",
+    "she attracts nectar",
+    "she attracts body"
+   ],
+   "inference": "The goddess attracts both nectar and body.",
+   "uncertainties": [],
+   "plain_english": "The nectar-attracting goddess, likewise body-attracting."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "sarvāsāpūrakaṃ",
+     "gloss": "all-hope-fulfilling",
+     "grounds": "accusative singular neuter",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "accusative singular neuter",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "saṃpūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular",
+     "morph": "verb.3.sg.opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What circle should be worshipped after these powers?",
+   "premises": [
+    "the circle is all-hope-fulfilling",
+    "it is named",
+    "it should be worshipped"
+   ],
+   "inference": "The all-hope-fulfilling circle should be worshipped.",
+   "uncertainties": [],
+   "plain_english": "Then worship the circle named all-hope-fulfilling."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "dvitīyāvaraṇe",
+     "gloss": "in-second-enclosure",
+     "grounds": "locative singular compound",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative singular",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "trinetrāṃ",
+     "gloss": "three-eyed",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "cakranāyikām",
+     "gloss": "circle-mistress",
+     "grounds": "accusative singular feminine compound",
+     "morph": "noun.acc.sg.f"
+    }
+   ],
+   "question": "Who is the three-eyed circle mistress in the second enclosure?",
+   "premises": [
+    "the second enclosure is named",
+    "the mantrin is named",
+    "the three-eyed circle mistress is named"
+   ],
+   "inference": "In the second enclosure, the mantrin addresses the three-eyed circle mistress.",
+   "uncertainties": [],
+   "plain_english": "In the second enclosure, the mantrin, the three-eyed circle mistress."
+  }
+ ]
+}

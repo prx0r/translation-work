@@ -1,0 +1,551 @@
+{
+ "song": "kul-p43",
+ "items": [
+  {
+   "verse": 1051,
+   "rows": [
+    {
+     "surface": "kaulikendre'cīte",
+     "gloss": "in-the-kaulika-chief",
+     "grounds": "kaulika-chief + locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṣyāmi",
+     "gloss": "I-am-pleased",
+     "grounds": "root tuṣ",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-Parvati",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How does the kaulika chief please the speaker?",
+   "premises": [
+    "The kaulika chief is addressed directly.",
+    "Proper conduct brings pleasure."
+   ],
+   "inference": "The speaker is pleased by the kaulika chief's proper conduct.",
+   "uncertainties": [
+    "Compound boundary in kaulikendre'cīte."
+   ],
+   "plain_english": "O Parvati, I am pleased properly by the kaulika chief."
+  },
+  {
+   "verse": 1052,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāpnuyāt",
+     "gloss": "not-obtains",
+     "grounds": "negative + root āp",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tīrthatapodānamakhavrataiḥ",
+     "gloss": "by-pilgrimage-austerity-gift-sacrifice-vows",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What fruit is not obtained by those means?",
+   "premises": [
+    "That fruit is named.",
+    "Pilgrimage and vows do not obtain it."
+   ],
+   "inference": "The fruit is not obtained by pilgrimage, austerity, gift, sacrifice, or vows.",
+   "uncertainties": [
+    "Exact compound members."
+   ],
+   "plain_english": "That fruit is not obtained by pilgrimage, austerity, gift, sacrifice, or vows."
+  },
+  {
+   "verse": 1053,
+   "rows": [
+    {
+     "surface": "kaulikasya",
+     "gloss": "of-the-kaulika",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vayarthaṃ",
+     "gloss": "vain",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulajñaṃ",
+     "gloss": "the-kula-knower",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yo'vamānayet",
+     "gloss": "dishonors",
+     "grounds": "root avamān",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What becomes vain for one who dishonors the kula-knower?",
+   "premises": [
+    "The kaulika's effort is named.",
+    "Dishonoring the kula-knower makes it vain."
+   ],
+   "inference": "The kaulika's effort becomes vain if he dishonors the kula-knower.",
+   "uncertainties": [
+    "yo appears twice in source."
+   ],
+   "plain_english": "The kaulika's effort becomes vain if he dishonors the kula-knower."
+  },
+  {
+   "verse": 1054,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praviśya",
+     "gloss": "entering",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "the-kula",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dharma",
+     "gloss": "dharma",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulācāraṃ",
+     "gloss": "kula-conduct",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na vetti",
+     "gloss": "not-knows",
+     "grounds": "negative + root vid",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does one not know after entering the kula?",
+   "premises": [
+    "One enters the kula.",
+    "One does not know kula-conduct."
+   ],
+   "inference": "If one enters the kula but does not know kula-conduct, the condition is faulty.",
+   "uncertainties": [
+    "dharma may be separate or compound."
+   ],
+   "plain_english": "If one enters the kula but does not know kula-conduct, that is faulty."
+  },
+  {
+   "verse": 1055,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dātā",
+     "gloss": "giver",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "to-hell",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "root vraj",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens to the giver of a fruitless gift?",
+   "premises": [
+    "The gift is fruitless.",
+    "The giver goes to hell."
+   ],
+   "inference": "The giver of a fruitless gift goes to hell.",
+   "uncertainties": [
+    "tad may refer to prior gift."
+   ],
+   "plain_english": "O goddess, that gift is fruitless, and the giver goes to hell."
+  },
+  {
+   "verse": 1056,
+   "rows": [
+    {
+     "surface": "bhasmanīva",
+     "gloss": "like-ashes",
+     "grounds": "simile",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutaṃ",
+     "gloss": "offered",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "havyaṃ",
+     "gloss": "oblation",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvad",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akaulike",
+     "gloss": "to-non-kaulika",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "To whom is a gift like ashes?",
+   "premises": [
+    "Offered oblation is like ashes.",
+    "A gift to a non-kaulika is so."
+   ],
+   "inference": "A gift to a non-kaulika is like ashes.",
+   "uncertainties": [
+    "akaulike case."
+   ],
+   "plain_english": "Like ashes is the offered oblation; so is a gift to a non-kaulika."
+  },
+  {
+   "verse": 1057,
+   "rows": [
+    {
+     "surface": "viśeṣatithiṣu",
+     "gloss": "especially-on-festive-tithis",
+     "grounds": "locative compound",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "prītyā",
+     "gloss": "with-affection",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇyate",
+     "gloss": "is-described",
+     "grounds": "root varṇ",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "When is that fruit not described?",
+   "premises": [
+    "Festive tithis are named.",
+    "That fruit is not described."
+   ],
+   "inference": "That fruit is not described especially on festive tithis with affection.",
+   "uncertainties": [
+    "Scope of naiva."
+   ],
+   "plain_english": "That fruit is not described at all, especially on festive tithis with affection."
+  },
+  {
+   "verse": 1058,
+   "rows": [
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatābuddhyā",
+     "gloss": "deity-buddhi",
+     "grounds": "instrumental compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "gandhapuṣpākṣatādibhiḥ",
+     "gloss": "with-sandal-flowers-rice-etc",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How are the deities worshipped?",
+   "premises": [
+    "Worship is performed.",
+    "Deity-buddhi and offerings are used."
+   ],
+   "inference": "The deities are worshipped with deity-buddhi and sandal, flowers, rice, and so on.",
+   "uncertainties": [
+    "devatābuddhyā exact sense."
+   ],
+   "plain_english": "Having worshipped with deity-buddhi, with sandal, flowers, rice, and so on."
+  },
+  {
+   "verse": 1059,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative pronoun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tuṣṭeṣvahaṃ",
+     "gloss": "pleased",
+     "grounds": "compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tuṣṭastuṣṭāḥ",
+     "gloss": "I-am-pleased",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "root as",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "sarvadevatāḥ",
+     "gloss": "all-deities",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Who would be pleased when they are pleased?",
+   "premises": [
+    "They are pleased.",
+    "All deities would be pleased."
+   ],
+   "inference": "When they are pleased, all deities would be pleased.",
+   "uncertainties": [
+    "tuṣṭastuṣṭāḥ parsing."
+   ],
+   "plain_english": "When they are pleased, I am pleased, and all deities would be pleased."
+  },
+  {
+   "verse": 1060,
+   "rows": [
+    {
+     "surface": "madhumattāya",
+     "gloss": "to-the-intoxicated-lord",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na gaṇyate",
+     "gloss": "not-counted",
+     "grounds": "negative + root gaṇ",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Whose merit is not counted?",
+   "premises": [
+    "The intoxicated lord is addressed.",
+    "His merit is not counted."
+   ],
+   "inference": "His merit is not counted for the intoxicated lord.",
+   "uncertainties": [
+    "madhumattāya referent."
+   ],
+   "plain_english": "O goddess, his merit is not counted for the intoxicated lord."
+  },
+  {
+   "verse": 1061,
+   "rows": [
+    {
+     "surface": "paralokasya",
+     "gloss": "provision-for-other-world",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pātheyaṃ",
+     "gloss": "pātheyam",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīracakre'pītaṃ",
+     "gloss": "in-vira-circle",
+     "grounds": "locative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the provision for the other world?",
+   "premises": [
+    "Provision for the other world is named.",
+    "Honey is drunk in the vira circle."
+   ],
+   "inference": "The provision for the other world is honey drunk in the vira circle.",
+   "uncertainties": [
+    "pātheyaṃ gloss."
+   ],
+   "plain_english": "The provision for the other world is honey drunk in the vira circle."
+  },
+  {
+   "verse": 1062,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "root jan",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuladravyaṃ",
+     "gloss": "kula-substance",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulayogīśvarāpītam",
+     "gloss": "by-kula-yogi-lord",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is born from the kula substance?",
+   "premises": [
+    "Kula substance is named.",
+    "It is drunk by the kula yogi lord."
+   ],
+   "inference": "The kula substance is born, drunk by the kula yogi lord.",
+   "uncertainties": [
+    "jāyate subject."
+   ],
+   "plain_english": "Indeed, the kula substance is born, drunk by the kula yogi lord."
+  }
+ ]
+}

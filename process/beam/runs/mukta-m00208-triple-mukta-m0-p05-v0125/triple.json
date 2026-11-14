@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "kiñca",
+     "gloss": "moreover",
+     "grounds": "indeclinable particle introducing an additional point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakta+eka+gātraḥ+tvam",
+     "gloss": "devotion-one-limbed-you",
+     "grounds": "bahuvrīhi compound bhakta+eka+gātraḥ qualifying tvam; tvam is the addressed subject",
+     "morph": "compound+pron.2.sg"
+    },
+    {
+     "surface": "bhava+iti",
+     "gloss": "be-thus",
+     "grounds": "imperative bhava followed by quotative iti marking the content of the request",
+     "morph": "impv.2.sg.act+indecl."
+    },
+    {
+     "surface": "abhyarthaye",
+     "gloss": "i-request",
+     "grounds": "verb of entreaty with speaker as subject and mām as object",
+     "morph": "1.sg.pres.mid (√abhyarth)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of abhyarthaye, referring to the speaker",
+     "morph": "pron.acc.sg"
+    }
+   ],
+   "question": "What request for single-minded devotion does the speaker make of the addressee?",
+   "premises": [
+    "The speaker addresses the other as one to become devotion-one-limbed.",
+    "The imperative bhava expresses a desired state of being.",
+    "The speaker explicitly entreats this state for themselves."
+   ],
+   "inference": "The speaker asks the addressee to become wholly devoted to them as a single-minded devotee.",
+   "uncertainties": [
+    "The precise nuance of gātra in the compound bhakta+eka+gātraḥ (limb, body, or aspect) is context-dependent."
+   ],
+   "plain_english": "Moreover, I entreat you: be one whose sole limb is devotion to me."
+  }
+ ]
+}

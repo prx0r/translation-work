@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "mānasūtrāntaraṃ",
+     "gloss": "measure-cord-interval",
+     "grounds": "compound denoting the space between measure lines",
+     "morph": "compound.n.acc.sg.nt"
+    },
+    {
+     "surface": "nandabhāgaṃ",
+     "gloss": "nanda-part",
+     "grounds": "compound indicating division into nanda parts",
+     "morph": "compound.n.acc.sg.nt"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing prior action of dividing",
+     "morph": "abs.(kṛ)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "indeclinable emphasizing the specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the interval of the measure-cord be specifically divided in this construction?",
+   "premises": [
+    "The measure-cord interval is the subject of division.",
+    "The division is made into nanda parts.",
+    "This division is specified as especially required."
+   ],
+   "inference": "The construction requires the measure-cord interval to be divided especially into nanda parts.",
+   "uncertainties": [
+    "The exact numerical or technical value of 'nanda' in this context is not specified."
+   ],
+   "plain_english": "Having especially divided the interval of the measure-cord into nanda parts."
+  }
+ ]
+}

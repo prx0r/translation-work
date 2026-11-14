@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p234",
+ "items": [
+  {
+   "verse": 5850,
+   "rows": [
+    {
+     "surface": "tadbahir",
+     "gloss": "outside-that",
+     "grounds": "compound indicating location outside the previously mentioned area; fused form kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasumūrtīśca",
+     "gloss": "and-vasu-forms",
+     "grounds": "vasu-mūrti forms with enclitic ca; objects of worship in the ritual sequence",
+     "morph": "f.acc.pl.+indecl."
+    },
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "adverbial particle indicating external placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indrādi",
+     "gloss": "indra-etcetera",
+     "grounds": "bahuvrīhi/tatpuruṣa-style compound denoting Indra and others beginning with him",
+     "morph": "compound"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "deities to be worshipped outside, continuing the ritual instruction from previous verses",
+     "morph": "f.acc.pl."
+    }
+   ],
+   "question": "Which deities must be worshipped outside the preceding ritual enclosure?",
+   "premises": [
+    "The ritual instruction continues to the area outside that enclosure.",
+    "The Vasu forms are specified as objects of worship there.",
+    "Deities beginning with Indra are specified as objects of worship there."
+   ],
+   "inference": "Outside that enclosure one should worship the Vasu forms and the deities led by Indra.",
+   "uncertainties": [
+    "The precise spatial referent of tad in tadbahir depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "Outside of that, one should worship the Vasu forms and, further outside, the deities beginning with Indra."
+  }
+ ]
+}

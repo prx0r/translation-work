@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "ritual-placement",
+     "grounds": "accusative object of kṛtvā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stotrayugaṃ",
+     "gloss": "stotra-pair",
+     "grounds": "accusative object of japitvā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japitvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive of jap",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmayaścaret",
+     "gloss": "act-immersed-in-that",
+     "grounds": "optative injunction; tanmaya means immersed in that",
+     "morph": "3.sg.act.opt. (car)"
+    }
+   ],
+   "question": "What sequence of nyāsa, stotra-pair chanting, and immersed action is prescribed?",
+   "premises": [
+    "nyāsa is performed first",
+    "stotra pair is chanted",
+    "action follows in that immersion"
+   ],
+   "inference": "The verse prescribes nyāsa, then stotra-pair chanting, then action immersed in that.",
+   "uncertainties": [
+    "the exact referent of 'that' is not specified in this verse"
+   ],
+   "plain_english": "Having made nyāsa and chanted a pair of stotras, one should act immersed in that."
+  }
+ ]
+}

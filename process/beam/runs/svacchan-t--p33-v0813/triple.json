@@ -1,0 +1,499 @@
+{
+ "song": "sva-p33",
+ "items": [
+  {
+   "verse": 813,
+   "rows": [
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃhāra",
+     "gloss": "destruction",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucitam",
+     "gloss": "suitable",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "ugram",
+     "gloss": "fierce",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "cintyam",
+     "gloss": "should-be-meditated",
+     "grounds": "participle",
+     "morph": "ppp.acc.sg"
+    }
+   ],
+   "question": "How should the fierce enemy destruction be meditated?",
+   "premises": [
+    "Enemy destruction is suitable.",
+    "Fierce destruction should be meditated."
+   ],
+   "inference": "The verse prescribes meditating on fierce destruction of enemies.",
+   "uncertainties": [
+    "Syntactic relation of ucitam is inferred."
+   ],
+   "plain_english": "Enemy destruction, suitable and fierce, should be meditated upon."
+  },
+  {
+   "verse": 814,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "evaṃvidham",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "absolutive",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japa",
+     "gloss": "japa",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "homau",
+     "gloss": "oblation",
+     "grounds": "noun",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "kāryau",
+     "gloss": "should-be-done",
+     "grounds": "adjective",
+     "morph": "adj.nom.du"
+    }
+   ],
+   "question": "What should be done after writing and worshipping such a mantra?",
+   "premises": [
+    "Such a mantra is written.",
+    "Such a mantra is worshipped.",
+    "Japa and oblation should be done."
+   ],
+   "inference": "The verse prescribes japa and homa after writing and worshipping the mantra.",
+   "uncertainties": [
+    "Exact ritual sequence is inferred."
+   ],
+   "plain_english": "Having written and worshipped such a mantra, one should perform japa and oblation."
+  },
+  {
+   "verse": 815,
+   "rows": [
+    {
+     "surface": "śriyam",
+     "gloss": "prosperity",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What result follows from performing the prescribed rite?",
+   "premises": [
+    "Prosperity is obtained.",
+    "The rite yields prosperity."
+   ],
+   "inference": "The verse states that prosperity is obtained.",
+   "uncertainties": [
+    "Subject is implicit."
+   ],
+   "plain_english": "And one obtains prosperity."
+  },
+  {
+   "verse": 816,
+   "rows": [
+    {
+     "surface": "madhura",
+     "gloss": "sweet",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "triad",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the sweet triad to be understood?",
+   "premises": [
+    "A sweet triad is mentioned.",
+    "It is as before."
+   ],
+   "inference": "The verse refers to a sweet triad as previously described.",
+   "uncertainties": [
+    "Referent of triad is not explicit."
+   ],
+   "plain_english": "The sweet triad, as before."
+  },
+  {
+   "verse": 817,
+   "rows": [
+    {
+     "surface": "satatam",
+     "gloss": "constantly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "abhyavaharataḥ",
+     "gloss": "consuming",
+     "grounds": "participle",
+     "morph": "ppr.gen.sg.act"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What happens to one who constantly consumes it?",
+   "premises": [
+    "Constant consuming is described.",
+    "Death does not become."
+   ],
+   "inference": "The verse says death does not occur for one who constantly consumes it.",
+   "uncertainties": [
+    "Object of consuming is implicit."
+   ],
+   "plain_english": "For one constantly consuming it, death does not occur."
+  },
+  {
+   "verse": 818,
+   "rows": [
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantra-syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "krūra",
+     "gloss": "cruel",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "jātyanta",
+     "gloss": "class-end",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ūhaḥ",
+     "gloss": "inference",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayoktavya",
+     "gloss": "should-be-used",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ityarthāt",
+     "gloss": "that-meaning",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should the cruel class-ending inference be used?",
+   "premises": [
+    "Phat is thus used.",
+    "Cruel class-ending inference should be used."
+   ],
+   "inference": "The verse says the cruel class-ending inference should be used.",
+   "uncertainties": [
+    "Technical sense of jātyanta is inferred."
+   ],
+   "plain_english": "Thus phat: the cruel class-ending inference should be used."
+  },
+  {
+   "verse": 819,
+   "rows": [
+    {
+     "surface": "tāḍayed",
+     "gloss": "should-strike",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "ityarthāt",
+     "gloss": "that-meaning",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What action is indicated by that meaning?",
+   "premises": [
+    "Striking is indicated.",
+    "That meaning is referenced."
+   ],
+   "inference": "The verse indicates that one should strike.",
+   "uncertainties": [
+    "Object of striking is implicit."
+   ],
+   "plain_english": "That meaning indicates one should strike."
+  },
+  {
+   "verse": 820,
+   "rows": [
+    {
+     "surface": "daṣṭaṃ",
+     "gloss": "bitten",
+     "grounds": "participle",
+     "morph": "ppp.acc.sg"
+    },
+    {
+     "surface": "bhakṣita",
+     "gloss": "eaten",
+     "grounds": "participle",
+     "morph": "ppp.acc.sg"
+    },
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What conditions are mentioned for poison?",
+   "premises": [
+    "Bitten poison is mentioned.",
+    "Eaten poison is mentioned."
+   ],
+   "inference": "The verse mentions poison that is bitten and eaten.",
+   "uncertainties": [
+    "Whether these are separate cases is inferred."
+   ],
+   "plain_english": "Poison that is bitten and eaten."
+  },
+  {
+   "verse": 821,
+   "rows": [
+    {
+     "surface": "āma",
+     "gloss": "raw",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "go",
+     "gloss": "cow",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣīra",
+     "gloss": "milk",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "piṣṭatvam",
+     "gloss": "poundedness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "ppp.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is established about raw cow milk?",
+   "premises": [
+    "Raw cow milk is mentioned.",
+    "Poundedness is established."
+   ],
+   "inference": "The verse states that poundedness is established for raw cow milk.",
+   "uncertainties": [
+    "Exact medical sense is inferred."
+   ],
+   "plain_english": "Raw cow milk's poundedness is established only."
+  },
+  {
+   "verse": 822,
+   "rows": [
+    {
+     "surface": "aśvamāraḥ",
+     "gloss": "horse-killer",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karavīrakam",
+     "gloss": "oleander",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What plant is identified as horse-killer?",
+   "premises": [
+    "Horse-killer is named.",
+    "Oleander is named."
+   ],
+   "inference": "The verse identifies oleander as horse-killer.",
+   "uncertainties": [
+    "Grammatical relation is inferred."
+   ],
+   "plain_english": "Oleander is the horse-killer."
+  },
+  {
+   "verse": 823,
+   "rows": [
+    {
+     "surface": "āragvadham",
+     "gloss": "purgative",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ārocakam",
+     "gloss": "appetizer",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prasiddham",
+     "gloss": "famous",
+     "grounds": "participle",
+     "morph": "ppp.nom.sg"
+    }
+   ],
+   "question": "What is famous about these substances?",
+   "premises": [
+    "Purgative is mentioned.",
+    "Appetizer is mentioned.",
+    "It is famous."
+   ],
+   "inference": "The verse says these substances are famous as purgative and appetizer.",
+   "uncertainties": [
+    "Whether both labels apply to one substance is inferred."
+   ],
+   "plain_english": "Thus purgative and appetizer are famous."
+  },
+  {
+   "verse": 824,
+   "rows": [
+    {
+     "surface": "madhuyaṣṭiḥ",
+     "gloss": "licorice",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "pronoun",
+     "morph": "pron.nom.pl"
+    }
+   ],
+   "question": "What do others call licorice?",
+   "premises": [
+    "Licorice is mentioned.",
+    "Others are mentioned."
+   ],
+   "inference": "The verse notes that others call it licorice.",
+   "uncertainties": [
+    "Exact referent of others is implicit."
+   ],
+   "plain_english": "Thus others call it licorice."
+  }
+ ]
+}

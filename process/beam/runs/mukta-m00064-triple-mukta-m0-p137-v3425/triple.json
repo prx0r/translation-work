@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3425,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt;√kṛ"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divase",
+     "gloss": "on-day",
+     "grounds": "locative of time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yātrāṃ",
+     "gloss": "pilgrimage",
+     "grounds": "direct object of kuryāt",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vittake",
+     "gloss": "in-Vittaka",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ayanaṃ",
+     "gloss": "solstice",
+     "grounds": "object governed by vinā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "postposition indicating exclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Must the pilgrimage in Vittaka be performed without waiting for the solstice?",
+   "premises": [
+    "One should perform the pilgrimage on the day.",
+    "The pilgrimage is to be performed in Vittaka.",
+    "The performance is specified as without the solstice."
+   ],
+   "inference": "Therefore the pilgrimage in Vittaka does not depend on the timing of the solstice.",
+   "uncertainties": [
+    "The precise identity or location of Vittaka is not specified in this verse."
+   ],
+   "plain_english": "Indeed, one should perform the pilgrimage in Vittaka on that day, without waiting for the solstice."
+  }
+ ]
+}

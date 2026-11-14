@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3775,
+   "rows": [
+    {
+     "surface": "kulapūjāyāṃ",
+     "gloss": "in-clan-worship",
+     "grounds": "Locative of the compound kula-pūjā, indicating the context of clan worship.",
+     "morph": "kula-pūjā.loc.sg.f"
+    },
+    {
+     "surface": "asyāvaśyakatvam",
+     "gloss": "of-this-necessity",
+     "grounds": "Fused sandhi form of asya (of this) and āvaśyakatva (necessity), expressing indispensability.",
+     "morph": "asya.gen.sg.n+āvaśyakatva.nom.sg.n"
+    }
+   ],
+   "question": "What necessity attaches to this practice within the context of kula-worship?",
+   "premises": [
+    "Kula-worship is the ritual context under discussion.",
+    "A specific practice within it is being evaluated.",
+    "That practice is declared to possess necessity."
+   ],
+   "inference": "Therefore, this practice is indispensable within kula-worship.",
+   "uncertainties": [
+    "The referent of asya depends on the immediately preceding alternatives in verses 3773–3774."
+   ],
+   "plain_english": "In kula-worship, this is absolutely necessary."
+  }
+ ]
+}

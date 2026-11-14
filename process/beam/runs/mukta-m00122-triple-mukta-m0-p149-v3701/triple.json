@@ -1,0 +1,1115 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3701,
+   "rows": [
+    {
+     "surface": "udumbaravaṭāśvatthaplakṣaiḥ",
+     "gloss": "with-udumbara-vaṭa-aśvattha-plakṣa",
+     "grounds": "compound of four sacred trees in instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "chadanamālayā",
+     "gloss": "covering-garland",
+     "grounds": "compound noun in instrumental singular",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "Which four sacred trees are used for the covering garland?",
+   "premises": [
+    "The verse names four trees",
+    "They appear in instrumental case",
+    "They form the covering garland"
+   ],
+   "inference": "The ritual covering is made from udumbara, vaṭa, aśvattha, and plakṣa.",
+   "uncertainties": [
+    "Exact ritual function of each tree is not specified"
+   ],
+   "plain_english": "The covering garland is made with udumbara, vaṭa, aśvattha, and plakṣa."
+  },
+  {
+   "verse": 3702,
+   "rows": [
+    {
+     "surface": "vidadhyāt",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "in-middle",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedīm",
+     "gloss": "altar",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "karamātrasamunnatām",
+     "gloss": "hand-measure-raised",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where and how high should the altar be made?",
+   "premises": [
+    "The altar is made in the middle",
+    "Its height is hand-measure-raised",
+    "The verb is optative"
+   ],
+   "inference": "One should make the altar in the middle, raised by a hand-measure.",
+   "uncertainties": [
+    "Exact hand-measure standard is not given"
+   ],
+   "plain_english": "Make the altar in the middle, raised by a hand-measure."
+  },
+  {
+   "verse": 3703,
+   "rows": [
+    {
+     "surface": "prāgādidikṣu",
+     "gloss": "east-etc-directions",
+     "grounds": "locative plural compound",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "corners",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vahnyādiṣu",
+     "gloss": "fire-etc",
+     "grounds": "locative plural compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be arranged in the eastern and other directional corners?",
+   "premises": [
+    "Directions begin with east",
+    "Corners are specified",
+    "Fire and related items are included"
+   ],
+   "inference": "One should arrange fire and related items in the corners beginning with the east.",
+   "uncertainties": [
+    "The full list of vahnyādi items is not given"
+   ],
+   "plain_english": "Arrange fire and related items in the corners, beginning with the east."
+  },
+  {
+   "verse": 3704,
+   "rows": [
+    {
+     "surface": "pratyagdakṣiṇottarātmakadikcatuṣṭayam",
+     "gloss": "west-south-north-natured-direction-fourfold",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fourfold directional set is to be arranged?",
+   "premises": [
+    "The compound names west south north",
+    "It is a fourfold direction set",
+    "The verb is optative"
+   ],
+   "inference": "One should arrange the fourfold set of west, south, north, and related direction.",
+   "uncertainties": [
+    "The fourth member is implicit in the compound"
+   ],
+   "plain_english": "Arrange the fourfold directional set of west, south, north, and the rest."
+  },
+  {
+   "verse": 3705,
+   "rows": [
+    {
+     "surface": "nirmmāṇam",
+     "gloss": "construction",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sakalam",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "will-say",
+     "grounds": "future verb",
+     "morph": "1.sg.act.fut"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rite",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "anaghe",
+     "gloss": "sinless",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What will the speaker explain to the sinless one?",
+   "premises": [
+    "All construction is the object",
+    "The speaker will say it",
+    "The addressee is sinless"
+   ],
+   "inference": "The speaker will explain all construction according to rite to the sinless one.",
+   "uncertainties": [
+    "The exact construction topic is broad"
+   ],
+   "plain_english": "I will explain all construction according to rite to you, sinless one."
+  },
+  {
+   "verse": 3706,
+   "rows": [
+    {
+     "surface": "vidadhyāt",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vṛttakuṇḍāni",
+     "gloss": "round-pits",
+     "grounds": "compound adjective noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "cararāśicatuṣṭaye",
+     "gloss": "movable-signs-fourfold",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What kind of pits should be made in the four movable signs?",
+   "premises": [
+    "The verb is optative",
+    "The pits are round",
+    "The location is four movable signs"
+   ],
+   "inference": "One should make round pits in the four movable signs.",
+   "uncertainties": [
+    "The exact zodiacal signs are not named"
+   ],
+   "plain_english": "Make round pits in the four movable signs."
+  },
+  {
+   "verse": 3707,
+   "rows": [
+    {
+     "surface": "vidadhyāt",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "caturasrāṇi",
+     "gloss": "square",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "pits",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shape of pits should be made next in order?",
+   "premises": [
+    "The verb is optative",
+    "The pits are square",
+    "They follow in order"
+   ],
+   "inference": "Then one should make square pits in order.",
+   "uncertainties": [
+    "The exact sequence position is not specified"
+   ],
+   "plain_english": "Then make square pits in order."
+  },
+  {
+   "verse": 3708,
+   "rows": [
+    {
+     "surface": "ubhayātmasu",
+     "gloss": "both-natured",
+     "grounds": "locative plural compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.mid.opt"
+    },
+    {
+     "surface": "yonikuṇḍāni",
+     "gloss": "yonī-pits",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "maṅgale",
+     "gloss": "auspicious",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What pits should be made in both-natured and auspicious contexts?",
+   "premises": [
+    "The verb is optative",
+    "The pits are yonī-pits",
+    "The contexts are both-natured and auspicious"
+   ],
+   "inference": "One should make yonī-pits in both-natured and auspicious contexts.",
+   "uncertainties": [
+    "The exact both-natured referent is not specified"
+   ],
+   "plain_english": "Make yonī-pits in both-natured and auspicious contexts."
+  },
+  {
+   "verse": 3709,
+   "rows": [
+    {
+     "surface": "sthireṣu",
+     "gloss": "fixed",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikoṇāni",
+     "gloss": "triangles",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pareṣu",
+     "gloss": "others",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭaye",
+     "gloss": "fourfold",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What pit shapes are assigned to fixed and other fourfold contexts?",
+   "premises": [
+    "Fixed contexts take triangles",
+    "Other contexts are fourfold",
+    "The contrast is marked by but"
+   ],
+   "inference": "Fixed contexts take triangular pits, while other fourfold contexts take a different shape.",
+   "uncertainties": [
+    "The shape for the other fourfold contexts is not named"
+   ],
+   "plain_english": "In fixed contexts make triangles; in other fourfold contexts make the corresponding pits."
+  },
+  {
+   "verse": 3710,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navānām",
+     "gloss": "of-nine",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kuṇḍānām",
+     "gloss": "of-pits",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "mānādilakṣaṇam",
+     "gloss": "measure-etc-characteristic",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What characteristic of the nine pits should be heard?",
+   "premises": [
+    "There are nine pits",
+    "The characteristic concerns measure and so on",
+    "The verb is imperative hear"
+   ],
+   "inference": "Hear the measure and other characteristics of the nine pits.",
+   "uncertainties": [
+    "The full list of characteristics is not given"
+   ],
+   "plain_english": "Hear the measure and other characteristics of the nine pits."
+  },
+  {
+   "verse": 3711,
+   "rows": [
+    {
+     "surface": "tṛtīyāṃśaḥ",
+     "gloss": "third-part",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "is",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅguliḥ",
+     "gloss": "finger",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the standard finger measure in this tantra?",
+   "premises": [
+    "A third part is stated",
+    "It applies here and everywhere",
+    "The unit is a finger"
+   ],
+   "inference": "The standard measure is a finger, defined as a third part in this tantra.",
+   "uncertainties": [
+    "The whole from which the third part is taken is not stated"
+   ],
+   "plain_english": "Here and everywhere in this tantra, a finger is the third part."
+  },
+  {
+   "verse": 3712,
+   "rows": [
+    {
+     "surface": "aratniḥ",
+     "gloss": "aratni",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "taddvayena",
+     "gloss": "by-its-double",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "hastaḥ",
+     "gloss": "hasta",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "taddvayataḥ",
+     "gloss": "by-its-double",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śivā",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are aratni and hasta related by doubling?",
+   "premises": [
+    "Aratni is by its double",
+    "Hasta is by its double",
+    "The addressee is Śivā"
+   ],
+   "inference": "Aratni and hasta are defined by doubling the preceding unit.",
+   "uncertainties": [
+    "The exact base unit for doubling is implicit"
+   ],
+   "plain_english": "Aratni is twice that, and hasta is twice that, O Śivā."
+  },
+  {
+   "verse": 3713,
+   "rows": [
+    {
+     "surface": "ṣaṇavatyaṅgulā",
+     "gloss": "sixty-nine-fingers",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tanmānaiḥ",
+     "gloss": "by-that-measure",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "kuṇḍakalpanam",
+     "gloss": "pit-arrangement",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What measure defines the pit arrangement?",
+   "premises": [
+    "The measure is sixty-nine fingers",
+    "It is that measure",
+    "Pit arrangement follows it"
+   ],
+   "inference": "The pit arrangement is defined by a measure of sixty-nine fingers.",
+   "uncertainties": [
+    "Whether sixty-nine fingers is total or standard is not stated"
+   ],
+   "plain_english": "That measure is sixty-nine fingers, by which the pits are arranged."
+  },
+  {
+   "verse": 3714,
+   "rows": [
+    {
+     "surface": "āṃ",
+     "gloss": "āṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navavidhānām",
+     "gloss": "of-ninefold",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kuṇḍānām",
+     "gloss": "of-pits",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "mānādilakṣaṇam",
+     "gloss": "measure-etc-characteristic",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What characteristic of the ninefold pits should be heard?",
+   "premises": [
+    "The pits are ninefold",
+    "The characteristic concerns measure and so on",
+    "The verb is imperative hear"
+   ],
+   "inference": "Hear the measure and other characteristics of the ninefold pits.",
+   "uncertainties": [
+    "The full list of characteristics is not given"
+   ],
+   "plain_english": "Hear the measure and other characteristics of the ninefold pits."
+  },
+  {
+   "verse": 3715,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive verb",
+     "morph": "abs"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvataḥ",
+     "gloss": "east",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "west",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśāṅgulamānataḥ",
+     "gloss": "twelve-finger-measure",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the east-west measure established?",
+   "premises": [
+    "That is made first",
+    "East and west are named",
+    "The measure is twelve fingers"
+   ],
+   "inference": "Having made that, one establishes east and west by a twelve-finger measure.",
+   "uncertainties": [
+    "The exact object of kṛtvā is implicit"
+   ],
+   "plain_english": "Having made that, establish east and west by a twelve-finger measure."
+  },
+  {
+   "verse": 3716,
+   "rows": [
+    {
+     "surface": "prākpratyakcihnamānena",
+     "gloss": "east-west-mark-measure",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tayoreva",
+     "gloss": "of-those-two",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "avalambataḥ",
+     "gloss": "depending",
+     "grounds": "participle",
+     "morph": "pres.part"
+    }
+   ],
+   "question": "On what does the east-west marking depend?",
+   "premises": [
+    "The measure marks east and west",
+    "Those two are referenced",
+    "The participle means depending"
+   ],
+   "inference": "The east-west marking depends on the measure of those two.",
+   "uncertainties": [
+    "The exact dependency relation is not fully explicit"
+   ],
+   "plain_english": "The east-west marking depends on the measure of those two."
+  },
+  {
+   "verse": 3717,
+   "rows": [
+    {
+     "surface": "prasārya",
+     "gloss": "stretching",
+     "grounds": "absolutive verb",
+     "morph": "abs"
+    },
+    {
+     "surface": "sūtram",
+     "gloss": "thread",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārjayitvā",
+     "gloss": "having-rubbed",
+     "grounds": "absolutive verb",
+     "morph": "abs"
+    },
+    {
+     "surface": "uktamānataḥ",
+     "gloss": "said-measure",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the thread prepared and measured?",
+   "premises": [
+    "The thread is stretched",
+    "It is also rubbed",
+    "The measure is the said measure"
+   ],
+   "inference": "One stretches and rubs the thread according to the said measure.",
+   "uncertainties": [
+    "The purpose of rubbing is not explained"
+   ],
+   "plain_english": "Stretch and rub the thread according to the said measure."
+  },
+  {
+   "verse": 3718,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "haṃsapadam",
+     "gloss": "haṃsa-foot",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "cells",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "abhitaḥ",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "those",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-drop",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be made and dropped around the cells?",
+   "premises": [
+    "The verb is optative",
+    "Haṃsa-foot cells are made",
+    "Dropping occurs in those cells"
+   ],
+   "inference": "One should make haṃsa-foot cells and drop items in them.",
+   "uncertainties": [
+    "What is dropped is not specified"
+   ],
+   "plain_english": "Make haṃsa-foot cells and drop items in them."
+  },
+  {
+   "verse": 3719,
+   "rows": [
+    {
+     "surface": "tatsaṃkhyāṅgulamita",
+     "gloss": "that-number-finger-measured",
+     "grounds": "compound adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puruṣadehonnati",
+     "gloss": "person-body-height",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samānāni",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "pits",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What determines the equality of the pits?",
+   "premises": [
+    "The pits are equal",
+    "They match person-body height",
+    "They are measured by that number of fingers"
+   ],
+   "inference": "The pits are equal to person-body height measured by that number of fingers.",
+   "uncertainties": [
+    "The exact number of fingers is implicit"
+   ],
+   "plain_english": "The pits are equal to person-body height, measured by that number of fingers."
+  },
+  {
+   "verse": 3720,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anyāni",
+     "gloss": "other",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "pits",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vadāmi",
+     "gloss": "I-say",
+     "grounds": "present verb",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "by-measure",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What other pits will be explained by measure?",
+   "premises": [
+    "Other pits are the object",
+    "The speaker says them",
+    "The measure is the basis"
+   ],
+   "inference": "The speaker will explain other pits to you by measure.",
+   "uncertainties": [
+    "The other pits are not yet named"
+   ],
+   "plain_english": "I will explain other pits to you by measure."
+  },
+  {
+   "verse": 3721,
+   "rows": [
+    {
+     "surface": "mānanirmmāṇayoḥ",
+     "gloss": "of-measure-and-construction",
+     "grounds": "genitive dual compound",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "will-say",
+     "grounds": "future verb",
+     "morph": "1.sg.act.fut"
+    },
+    {
+     "surface": "vidhānam",
+     "gloss": "rule",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "susphuṭam",
+     "gloss": "very-clear",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śivā",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What rule will be explained clearly?",
+   "premises": [
+    "The rule concerns measure and construction",
+    "The speaker will say it",
+    "The addressee is Śivā"
+   ],
+   "inference": "The speaker will clearly explain the rule of measure and construction to Śivā.",
+   "uncertainties": [
+    "The exact rule details are deferred"
+   ],
+   "plain_english": "I will clearly explain the rule of measure and construction, O Śivā."
+  },
+  {
+   "verse": 3722,
+   "rows": [
+    {
+     "surface": "caturasrā",
+     "gloss": "square",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhitaḥ",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyājyā",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūḥ",
+     "gloss": "earth",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anyataḥ",
+     "gloss": "elsewhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What earth is to be abandoned around the square?",
+   "premises": [
+    "The square is referenced",
+    "That earth is to be abandoned",
+    "It is elsewhere"
+   ],
+   "inference": "The earth around the square is to be abandoned elsewhere.",
+   "uncertainties": [
+    "The exact reason for abandonment is not stated"
+   ],
+   "plain_english": "That earth around the square is to be abandoned elsewhere."
+  },
+  {
+   "verse": 3723,
+   "rows": [
+    {
+     "surface": "tatsamāny",
+     "gloss": "that-equal",
+     "grounds": "nominative plural compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "present verb",
+     "morph": "3.pl.mid.pres"
+    },
+    {
+     "surface": "ṣaṇavatyaṅgulātmanā",
+     "gloss": "sixty-nine-finger-natured",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "What arises equal to that by sixty-nine-finger nature?",
+   "premises": [
+    "Equal things arise",
+    "The nature is sixty-nine fingers",
+    "The particle emphasizes indeed"
+   ],
+   "inference": "Equal things arise indeed by a sixty-nine-finger nature.",
+   "uncertainties": [
+    "The exact things arising are implicit"
+   ],
+   "plain_english": "Equal things indeed arise by a sixty-nine-finger nature."
+  },
+  {
+   "verse": 3724,
+   "rows": [
+    {
+     "surface": "teṣām",
+     "gloss": "of-those",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śaśāṅkamānena",
+     "gloss": "moon-measure",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tanmadhyāt",
+     "gloss": "from-their-middle",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhrāmayet",
+     "gloss": "should-rotate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should rotation be performed from their middle?",
+   "premises": [
+    "Those are referenced",
+    "The measure is moon-measure",
+    "Rotation is from their middle"
+   ],
+   "inference": "One should rotate from their middle by moon-measure.",
+   "uncertainties": [
+    "The exact rotated object is implicit"
+   ],
+   "plain_english": "Rotate from their middle by moon-measure."
+  }
+ ]
+}

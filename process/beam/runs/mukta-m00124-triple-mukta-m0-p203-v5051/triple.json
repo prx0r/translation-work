@@ -1,0 +1,955 @@
+{
+ "song": "mukta-m0-p203",
+ "items": [
+  {
+   "verse": 5051,
+   "rows": [
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "legacy hint beginning",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nandahastaṃ",
+     "gloss": "nanda-hand",
+     "grounds": "legacy hint nanda+hand",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvidvihastavivardhanāt",
+     "gloss": "from-double-double-hand-increase",
+     "grounds": "legacy hint from+double+double+hand+increase",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How does the gateway expansion begin from the nanda hand measure?",
+   "premises": [
+    "gateway expansion begins from nanda hand",
+    "double double hand increase follows",
+    "tu marks the transition"
+   ],
+   "inference": "The verse sets the starting measure and its increase rule for gateway expansion.",
+   "uncertainties": [
+    "exact technical meaning of nanda hand remains unclear"
+   ],
+   "plain_english": "Beginning from the nanda hand, the gateway expansion increases by double double hand."
+  },
+  {
+   "verse": 5052,
+   "rows": [
+    {
+     "surface": "tripañcadaśasaptāttu",
+     "gloss": "three-five-fifteen-seven-from",
+     "grounds": "legacy hint three+five+fifteen+seven+from",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekahastavivardhanāt",
+     "gloss": "one-hand-increase",
+     "grounds": "legacy hint one+hand+increase",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How does the hand measure increase from three five fifteen seven?",
+   "premises": [
+    "measure sequence runs three five fifteen seven",
+    "tu marks transition",
+    "one hand increase follows"
+   ],
+   "inference": "The verse gives a graduated hand-measure increase from the stated sequence.",
+   "uncertainties": [
+    "compound segmentation is not fully resolved"
+   ],
+   "plain_english": "From three five fifteen seven, the measure increases by one hand."
+  },
+  {
+   "verse": 5053,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "legacy hint otherwise",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hastamānena",
+     "gloss": "by-hand-measure",
+     "grounds": "legacy hint by+hand+measure",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "expansion",
+     "grounds": "legacy hint expansion",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pravidhīyate",
+     "gloss": "is-arranged",
+     "grounds": "legacy hint is+arranged",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is expansion arranged otherwise by hand measure?",
+   "premises": [
+    "otherwise expansion is arranged",
+    "hand measure governs it",
+    "pravidhiyate states arrangement"
+   ],
+   "inference": "The verse states an alternative arrangement of expansion by hand measure.",
+   "uncertainties": [
+    "scope of otherwise is not specified"
+   ],
+   "plain_english": "Otherwise, expansion is arranged by hand measure."
+  },
+  {
+   "verse": 5054,
+   "rows": [
+    {
+     "surface": "prathamāvaraṇe",
+     "gloss": "first-enclosure",
+     "grounds": "legacy hint first+enclosure",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dvāraśobhāvistāra",
+     "gloss": "door-beauty-expansion",
+     "grounds": "legacy hint door+beauty+expansion",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "legacy hint is+desired",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What expansion is desired in the first enclosure?",
+   "premises": [
+    "first enclosure is the setting",
+    "door beauty expansion is named",
+    "is desired states requirement"
+   ],
+   "inference": "The verse requires door-beauty expansion in the first enclosure.",
+   "uncertainties": [
+    "exact dimensions are not given here"
+   ],
+   "plain_english": "In the first enclosure, door-beauty expansion is desired."
+  },
+  {
+   "verse": 5055,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatihastāttu",
+     "gloss": "twenty-five-hand-from",
+     "grounds": "legacy hint twenty-five+hand+from",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "trayastriṃśatkarāntakaḥ",
+     "gloss": "thirty-three-hand-ending",
+     "grounds": "legacy hint thirty-three+hand+ending",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What hand range ends at thirty-three from twenty-five?",
+   "premises": [
+    "range begins at twenty-five hands",
+    "tu marks transition",
+    "ends at thirty-three hands"
+   ],
+   "inference": "The verse defines a hand-measure range from twenty-five to thirty-three.",
+   "uncertainties": [
+    "application context is not stated"
+   ],
+   "plain_english": "From twenty-five hands, the range ends at thirty-three hands."
+  },
+  {
+   "verse": 5056,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatsamārabhya",
+     "gloss": "twenty-five-beginning",
+     "grounds": "legacy hint twenty-five+beginning",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tricatvāriṃśadantataḥ",
+     "gloss": "forty-three-ending",
+     "grounds": "legacy hint forty-three+ending",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What range begins at twenty-five and ends at forty-three?",
+   "premises": [
+    "range begins at twenty-five",
+    "range ends at forty-three",
+    "both are hand measures"
+   ],
+   "inference": "The verse gives a hand-measure range from twenty-five to forty-three.",
+   "uncertainties": [
+    "exact object measured is not stated"
+   ],
+   "plain_english": "Beginning at twenty-five, the range ends at forty-three."
+  },
+  {
+   "verse": 5057,
+   "rows": [
+    {
+     "surface": "tripañcāśatkarāntaṃ",
+     "gloss": "three-five-ten-hand-ending",
+     "grounds": "legacy hint three+five+ten+hand+ending",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśālo",
+     "gloss": "wide",
+     "grounds": "legacy hint wide",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gopurasya",
+     "gloss": "of-gateway",
+     "grounds": "legacy hint of+gateway",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is the wide gateway ending at three five ten hands?",
+   "premises": [
+    "gateway is wide",
+    "ending measure is three five ten hands",
+    "tu marks emphasis"
+   ],
+   "inference": "The verse describes a wide gateway with a specified hand ending.",
+   "uncertainties": [
+    "compound segmentation is not fully resolved"
+   ],
+   "plain_english": "The wide gateway ends at three five ten hands."
+  },
+  {
+   "verse": 5058,
+   "rows": [
+    {
+     "surface": "nagaragrāmaveśādau",
+     "gloss": "city-village-entrance-etc",
+     "grounds": "legacy hint city+village+entrance+etc",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "legacy hint measure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gopuravistare",
+     "gloss": "of-gateway-expansion",
+     "grounds": "legacy hint of+gateway+expansion",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "How is gateway expansion measured in city village entrance contexts?",
+   "premises": [
+    "city village entrance context is named",
+    "measure is specified",
+    "gateway expansion is the object"
+   ],
+   "inference": "The verse links gateway expansion measure to city and village entrance contexts.",
+   "uncertainties": [
+    "exact measure value is not stated"
+   ],
+   "plain_english": "In city and village entrances, gateway expansion is measured."
+  },
+  {
+   "verse": 5059,
+   "rows": [
+    {
+     "surface": "kalpayet",
+     "gloss": "should-appoint",
+     "grounds": "legacy hint should+appoint",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "dvāraśobhādau",
+     "gloss": "door-beauty-etc",
+     "grounds": "legacy hint door+beauty+etc",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "saptāṃśadaśabhāgikam",
+     "gloss": "seven-part-ten-part",
+     "grounds": "legacy hint seven+part+ten+part",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What should be appointed for door beauty and related parts?",
+   "premises": [
+    "kalpayet states appointment",
+    "door beauty etc is the context",
+    "seven part ten part is appointed"
+   ],
+   "inference": "The verse prescribes a seven-part ten-part appointment for door beauty contexts.",
+   "uncertainties": [
+    "exact allocation is not fully clear"
+   ],
+   "plain_english": "One should appoint seven-part ten-part for door beauty and related parts."
+  },
+  {
+   "verse": 5060,
+   "rows": [
+    {
+     "surface": "nandāṃśe",
+     "gloss": "in-nanda-part",
+     "grounds": "legacy hint in+nanda+part",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhūtabhāgaṃ",
+     "gloss": "being-part",
+     "grounds": "legacy hint being+part",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dviguṇam",
+     "gloss": "double",
+     "grounds": "legacy hint double",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-appoint",
+     "grounds": "legacy hint should+appoint",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "What should be appointed in the nanda part for beings?",
+   "premises": [
+    "nanda part is the setting",
+    "being part is appointed",
+    "double is also appointed"
+   ],
+   "inference": "The verse prescribes being-part and double appointment in the nanda part.",
+   "uncertainties": [
+    "exact relation between being part and double is unclear"
+   ],
+   "plain_english": "In the nanda part, one should appoint the being part and double."
+  },
+  {
+   "verse": 5061,
+   "rows": [
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "legacy hint measure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint atha",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃgrāhyaṃ",
+     "gloss": "should-be-taken",
+     "grounds": "legacy hint should+be+taken",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nirgamaṃ",
+     "gloss": "exit",
+     "grounds": "legacy hint exit",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "that-equal",
+     "grounds": "legacy hint that+equal",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How should measure and exit be taken as equal?",
+   "premises": [
+    "measure is also taken",
+    "exit is taken",
+    "that equal states equality"
+   ],
+   "inference": "The verse says measure and exit should be taken as equal.",
+   "uncertainties": [
+    "exact referent of that is unclear"
+   ],
+   "plain_english": "Measure and exit should be taken, and they are equal."
+  },
+  {
+   "verse": 5062,
+   "rows": [
+    {
+     "surface": "ekādyaṣṭadaśāṃśāntaṃ",
+     "gloss": "one-to-eighteen-part-ending",
+     "grounds": "legacy hint one+to+eighteen+part+ending",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gopurāṇāṃ",
+     "gloss": "of-gateways",
+     "grounds": "legacy hint of+gateways",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "gurūttamāḥ",
+     "gloss": "gurus-best",
+     "grounds": "legacy hint gurus+best",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What ending measure applies to gateways according to best gurus?",
+   "premises": [
+    "gateways are the object",
+    "ending measure runs one to eighteen parts",
+    "best gurus state it"
+   ],
+   "inference": "The verse gives a gateway ending measure from one to eighteen parts per best gurus.",
+   "uncertainties": [
+    "exact application is not stated"
+   ],
+   "plain_english": "For gateways, the ending measure runs from one to eighteen parts, according to the best gurus."
+  },
+  {
+   "verse": 5063,
+   "rows": [
+    {
+     "surface": "sārdhahastāttu",
+     "gloss": "one-half-hand-from",
+     "grounds": "legacy hint one+half+hand+from",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "pādonadvihastāddvikarātkramāt",
+     "gloss": "quarter-less-two-hand-from-two-hand-gradually",
+     "grounds": "legacy hint quarter+less+two+hand+from+two+hand+gradually",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How does the hand measure progress from one and a half hands?",
+   "premises": [
+    "starting measure is one and a half hands",
+    "tu marks transition",
+    "quarter less two hand from two hand gradually follows"
+   ],
+   "inference": "The verse gives a graduated hand-measure progression from one and a half hands.",
+   "uncertainties": [
+    "compound segmentation is not fully resolved"
+   ],
+   "plain_english": "From one and a half hands, the measure progresses gradually by quarter-less two hand from two hand."
+  },
+  {
+   "verse": 5064,
+   "rows": [
+    {
+     "surface": "pañcasaptanavāntastu",
+     "gloss": "five-seven-nine-ending",
+     "grounds": "legacy hint five+seven+nine+ending",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvāratāraḥ",
+     "gloss": "door-tar",
+     "grounds": "legacy hint door+tar",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pṛthagbhavet",
+     "gloss": "separate",
+     "grounds": "legacy hint separate",
+     "morph": "3.sg.opt-mid"
+    }
+   ],
+   "question": "How does door tar become separate at five seven nine endings?",
+   "premises": [
+    "five seven nine ending is named",
+    "door tar is the subject",
+    "separate states result"
+   ],
+   "inference": "The verse says door tar becomes separate at the five seven nine ending.",
+   "uncertainties": [
+    "meaning of tar is unclear"
+   ],
+   "plain_english": "At the five seven nine ending, door tar becomes separate."
+  },
+  {
+   "verse": 5065,
+   "rows": [
+    {
+     "surface": "pañcāśe",
+     "gloss": "in-fifty",
+     "grounds": "legacy hint in+fifty",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dvāravistāre",
+     "gloss": "door-expansion",
+     "grounds": "legacy hint door+expansion",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "saptāṃśe",
+     "gloss": "seven-part",
+     "grounds": "legacy hint seven+part",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "munibhājite",
+     "gloss": "sage-allotted",
+     "grounds": "legacy hint sage+allotted",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What is allotted by sages in door expansion at fifty and seven parts?",
+   "premises": [
+    "fifty is the setting",
+    "door expansion is the context",
+    "seven part is named",
+    "sage allotted states allocation"
+   ],
+   "inference": "The verse states a sage-allotted measure in door expansion at fifty and seven parts.",
+   "uncertainties": [
+    "exact allocation is not stated"
+   ],
+   "plain_english": "In door expansion at fifty, seven parts are allotted by sages."
+  },
+  {
+   "verse": 5066,
+   "rows": [
+    {
+     "surface": "mūladhāmni",
+     "gloss": "root-seat",
+     "grounds": "legacy hint root+seat",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "masūrādituṅgād",
+     "gloss": "lentil-etc-height",
+     "grounds": "legacy hint lentil+etc",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "vedāṃśakādikaḥ",
+     "gloss": "veda-part-etc",
+     "grounds": "legacy hint veda+part+etc",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What veda part etc arises from root seat and lentil height?",
+   "premises": [
+    "root seat is the setting",
+    "lentil etc height is the source",
+    "veda part etc is the result"
+   ],
+   "inference": "The verse derives veda-part etc from root seat and lentil height.",
+   "uncertainties": [
+    "exact derivation is not fully clear"
+   ],
+   "plain_english": "From the root seat and lentil height, veda part etc arises."
+  },
+  {
+   "verse": 5067,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "legacy hint having+made",
+     "morph": "indecl."
+    },
+    {
+     "surface": "masūrapādaṃ",
+     "gloss": "lentil-foot",
+     "grounds": "legacy hint lentil+foot",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taccheṣeṇaiva",
+     "gloss": "that-remainder-indeed",
+     "grounds": "legacy hint that+remainder+indeed",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "pīṭhakam",
+     "gloss": "pedestal",
+     "grounds": "legacy hint pedestal",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is the pedestal made after the lentil foot?",
+   "premises": [
+    "lentil foot is made",
+    "remainder is used",
+    "pedestal is the result"
+   ],
+   "inference": "The verse says the pedestal is made from the remainder after the lentil foot.",
+   "uncertainties": [
+    "exact remainder calculation is not stated"
+   ],
+   "plain_english": "Having made the lentil foot, one makes the pedestal from the remainder."
+  },
+  {
+   "verse": 5068,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāguktabhāge",
+     "gloss": "previously-mentioned-part",
+     "grounds": "legacy hint previously+mentioned+part",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varddhitaṃ",
+     "gloss": "increased",
+     "grounds": "legacy hint increased",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samameva",
+     "gloss": "equal-or",
+     "grounds": "legacy hint equal+or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint vā",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is increased in the previously mentioned part then?",
+   "premises": [
+    "previously mentioned part is the setting",
+    "increased is the action",
+    "equal or states alternative"
+   ],
+   "inference": "The verse states an increase in the previously mentioned part, equal or otherwise.",
+   "uncertainties": [
+    "exact referent is unclear"
+   ],
+   "plain_english": "Then, in the previously mentioned part, it is increased, equal or otherwise."
+  },
+  {
+   "verse": 5069,
+   "rows": [
+    {
+     "surface": "chedayet",
+     "gloss": "should-cut",
+     "grounds": "legacy hint should+cut",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "tadadhiṣṭhānaṃ",
+     "gloss": "that-base",
+     "grounds": "legacy hint that+base",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sopapīṭhe",
+     "gloss": "with-pedestal",
+     "grounds": "legacy hint with+pedestal",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "legacy hint only",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should be cut in that base with pedestal?",
+   "premises": [
+    "that base is the object",
+    "with pedestal is the context",
+    "only limits the action",
+    "should cut states action"
+   ],
+   "inference": "The verse says that base with pedestal should be cut, only.",
+   "uncertainties": [
+    "exact cutting rule is not stated"
+   ],
+   "plain_english": "One should cut that base with pedestal only."
+  },
+  {
+   "verse": 5070,
+   "rows": [
+    {
+     "surface": "gopuradvāratuṅgaṃ",
+     "gloss": "gateway-door-height",
+     "grounds": "legacy hint gateway+door+height",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint vā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "should-make",
+     "grounds": "legacy hint should+make",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "vāstuśāstravit",
+     "gloss": "vastu-science-knower",
+     "grounds": "legacy hint vastu+science+knower",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Who should make gateway door height or?",
+   "premises": [
+    "gateway door height is the object",
+    "or marks alternative",
+    "vastu science knower is the agent"
+   ],
+   "inference": "The verse says a vastu-science knower should make gateway door height, or.",
+   "uncertainties": [
+    "alternative is not specified"
+   ],
+   "plain_english": "A knower of vastu science should make gateway door height, or."
+  },
+  {
+   "verse": 5071,
+   "rows": [
+    {
+     "surface": "talādikam",
+     "gloss": "floor-etc",
+     "grounds": "legacy hint floor+etc",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint atha",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "legacy hint should+do",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "pañcaṣaṭsaptabhūmikam",
+     "gloss": "five-six-seven-storied",
+     "grounds": "legacy hint five+six+seven+storied",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What should be done then for floor etc?",
+   "premises": [
+    "floor etc is the object",
+    "then marks sequence",
+    "five six seven storied is specified"
+   ],
+   "inference": "The verse prescribes a five-, six-, or seven-storied floor etc.",
+   "uncertainties": [
+    "exact choice among five six seven is not stated"
+   ],
+   "plain_english": "Then one should make floor etc five, six, or seven storied."
+  },
+  {
+   "verse": 5072,
+   "rows": [
+    {
+     "surface": "dvāraśobhā",
+     "gloss": "door-beauty",
+     "grounds": "legacy hint door+beauty",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dvāraśālā",
+     "gloss": "door-hall",
+     "grounds": "legacy hint door+hall",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dvāraprāsādaharmyake",
+     "gloss": "door-palace-house",
+     "grounds": "legacy hint door+palace+house",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What door elements are named in door palace house?",
+   "premises": [
+    "door beauty is named",
+    "door hall is named",
+    "door palace house is the setting"
+   ],
+   "inference": "The verse lists door beauty and door hall in the door palace house context.",
+   "uncertainties": [
+    "exact relation among terms is unclear"
+   ],
+   "plain_english": "Door beauty, door hall, and door palace house are named."
+  },
+  {
+   "verse": 5073,
+   "rows": [
+    {
+     "surface": "masūḥ",
+     "gloss": "lentil",
+     "grounds": "legacy hint lentil",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "stambhamānaṃ",
+     "gloss": "pillar-measure",
+     "grounds": "legacy hint pillar+measure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāgeva",
+     "gloss": "previously-indeed",
+     "grounds": "legacy hint previously+indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pradipāditam",
+     "gloss": "explained",
+     "grounds": "legacy hint explained",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What pillar measure was previously explained for lentil?",
+   "premises": [
+    "lentil is the subject",
+    "pillar measure is the object",
+    "previously explained states prior treatment"
+   ],
+   "inference": "The verse says the lentil pillar measure was previously explained.",
+   "uncertainties": [
+    "exact prior passage is not identified"
+   ],
+   "plain_english": "The lentil pillar measure was previously explained."
+  },
+  {
+   "verse": 5074,
+   "rows": [
+    {
+     "surface": "ṣoḍhā",
+     "gloss": "sixfold",
+     "grounds": "legacy hint sixfold",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vibhajya",
+     "gloss": "dividing",
+     "grounds": "legacy hint dividing",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattuṅgaṃ",
+     "gloss": "that-height",
+     "grounds": "legacy hint that+height",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prastaraiḥ",
+     "gloss": "with-slabs",
+     "grounds": "legacy hint with+slabs",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "sāṅghribhāgakaiḥ",
+     "gloss": "with-foot-parts",
+     "grounds": "legacy hint with+foot+parts",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "How is that height divided sixfold?",
+   "premises": [
+    "sixfold is the division",
+    "that height is the object",
+    "with slabs and foot parts are used"
+   ],
+   "inference": "The verse says that height is divided sixfold with slabs and foot parts.",
+   "uncertainties": [
+    "exact division rule is not stated"
+   ],
+   "plain_english": "That height is divided sixfold with slabs and foot parts."
+  }
+ ]
+}

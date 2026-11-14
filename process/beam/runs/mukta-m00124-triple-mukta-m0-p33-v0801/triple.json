@@ -1,0 +1,910 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 801,
+   "rows": [
+    {
+     "surface": "adhaśchadanamūrdhvaṃ",
+     "gloss": "below-covering-above",
+     "grounds": "compound describing lower and upper coverings",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "color attribute",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śuklaṃ",
+     "gloss": "white",
+     "grounds": "color attribute",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "meditative instruction",
+     "morph": "3.sg.opt.act √cint"
+    }
+   ],
+   "question": "What colors and positions must be visualized for the lower and upper coverings?",
+   "premises": [
+    "The lower and upper coverings are objects of visualization.",
+    "One covering is to be visualized as red.",
+    "The other covering is to be visualized as white."
+   ],
+   "inference": "The practitioner should visualize the lower and upper coverings as red and white respectively.",
+   "uncertainties": [
+    "The exact assignment of red and white to lower or upper covering is not explicit."
+   ],
+   "plain_english": "One should visualize the lower and upper coverings as red and white."
+  },
+  {
+   "verse": 802,
+   "rows": [
+    {
+     "surface": "nairṛtyādīśadigbhāge",
+     "gloss": "southwest-to-northeast-direction-region",
+     "grounds": "compound indicating directional span",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mekhalādhordhvasaṅgatam",
+     "gloss": "girdle-below-above-joined",
+     "grounds": "compound describing connection with girdle above and below",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where and how is the described element connected in the directional layout?",
+   "premises": [
+    "The location spans from the southwest to the northeast direction.",
+    "The element is joined above and below with the girdle."
+   ],
+   "inference": "The element is to be placed in the southwest-to-northeast region joined above and below with the girdle.",
+   "uncertainties": [],
+   "plain_english": "In the region from the southwest to the northeast, it is joined above and below with the girdle."
+  },
+  {
+   "verse": 803,
+   "rows": [
+    {
+     "surface": "śaktikesarasaṃbhinnaṃ",
+     "gloss": "power-filaments-intermingled",
+     "grounds": "compound describing mingling with śakti filaments",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇikāśaktisaṃyutam",
+     "gloss": "pericarp-power-united",
+     "grounds": "compound describing union with pericarp power",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "With which structural and power elements is the form intermingled and united?",
+   "premises": [
+    "The form is intermingled with the filaments of power.",
+    "The form is united with the power of the pericarp."
+   ],
+   "inference": "The visualized form is intermingled with śakti filaments and united with the pericarp power.",
+   "uncertainties": [],
+   "plain_english": "It is intermingled with the filaments of power and united with the power of the pericarp."
+  },
+  {
+   "verse": 804,
+   "rows": [
+    {
+     "surface": "vāmā",
+     "gloss": "vāmā",
+     "grounds": "name of a śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyeṣṭhā",
+     "gloss": "jyeṣṭhā",
+     "grounds": "name of a śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raudrī",
+     "gloss": "raudrī",
+     "grounds": "name of a śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "name of a śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which śaktis are enumerated in the initial part of this sequence?",
+   "premises": [
+    "Vāmā and Jyeṣṭhā are named.",
+    "Raudrī and Kālī are named.",
+    "The enumeration continues beyond these."
+   ],
+   "inference": "The sequence begins with Vāmā, Jyeṣṭhā, Raudrī, and Kālī and continues further.",
+   "uncertainties": [],
+   "plain_english": "Vāmā, Jyeṣṭhā, Raudrī, and Kālī are named, and then the list continues beyond them."
+  },
+  {
+   "verse": 805,
+   "rows": [
+    {
+     "surface": "balapramathinī",
+     "gloss": "strength-crusher",
+     "grounds": "name of a śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhūtadamanyapi",
+     "gloss": "all-beings-subduer-also",
+     "grounds": "compound name of a śakti with enclitic",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional śaktis complete the enumerated sequence?",
+   "premises": [
+    "Balapramathinī is included in the sequence.",
+    "Sarvabhūtadamanī is also included."
+   ],
+   "inference": "The sequence is completed by Balapramathinī and Sarvabhūtadamanī.",
+   "uncertainties": [],
+   "plain_english": "Balapramathinī and also Sarvabhūtadamanī are included."
+  },
+  {
+   "verse": 806,
+   "rows": [
+    {
+     "surface": "manonmanīṃ",
+     "gloss": "manonmanī",
+     "grounds": "name of a śakti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-pericarp",
+     "grounds": "location in the lotus pericarp",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vinyaseddhṛdayena",
+     "gloss": "one-should-place-with-heart",
+     "grounds": "instruction to install using the heart mantra; internal sandhi vinyaset+hṛdayena",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and by what means should Manonmanī be installed?",
+   "premises": [
+    "Manonmanī is the deity to be installed.",
+    "The pericarp is the specified location.",
+    "The heart mantra is the means of installation."
+   ],
+   "inference": "Manonmanī should be installed in the pericarp using the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "One should place Manonmanī in the pericarp with the heart mantra."
+  },
+  {
+   "verse": 807,
+   "rows": [
+    {
+     "surface": "maṇḍalatrayam",
+     "gloss": "circle-triad",
+     "grounds": "three circles or spheres",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "markenduvahnyākhyaṃ",
+     "gloss": "sun-moon-fire-named",
+     "grounds": "compound naming the triad as sun, moon, and fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svasvarūpataḥ",
+     "gloss": "from-own-nature",
+     "grounds": "according to their own essential forms",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What three circles are identified and by what nature are they understood?",
+   "premises": [
+    "A triad of circles is specified.",
+    "The triad is named after sun, moon, and fire.",
+    "They are understood according to their own nature."
+   ],
+   "inference": "The triad of circles consists of sun, moon, and fire in their own essential forms.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the triad of circles named sun, moon, and fire in their own essential forms."
+  },
+  {
+   "verse": 808,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇuśca",
+     "gloss": "viṣṇu-and",
+     "grounds": "deity name with conjunction; internal sandhi viṣṇuḥ+ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "rudraśca",
+     "gloss": "rudra-and",
+     "grounds": "deity name with conjunction; internal sandhi rudraḥ+ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍalatrayadevatāḥ",
+     "gloss": "circle-triad-deities",
+     "grounds": "compound identifying deities of the three circles",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which deities preside over the triad of circles?",
+   "premises": [
+    "Brahmā is named as a presiding deity.",
+    "Viṣṇu is named as a presiding deity.",
+    "Rudra is named as a presiding deity of the three circles."
+   ],
+   "inference": "Brahmā, Viṣṇu, and Rudra are the deities of the triad of circles.",
+   "uncertainties": [],
+   "plain_english": "Brahmā, Viṣṇu, and Rudra are the deities of the three circles."
+  },
+  {
+   "verse": 809,
+   "rows": [
+    {
+     "surface": "kamaṇḍaludharaṃ",
+     "gloss": "water-pot-bearer",
+     "grounds": "compound describing attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "color attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daṇḍahastaṃ",
+     "gloss": "staff-in-hand",
+     "grounds": "compound describing attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prajāpatim",
+     "gloss": "prajāpati",
+     "grounds": "deity name, here Brahmā",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What attributes characterize Prajāpati in this visualization?",
+   "premises": [
+    "Prajāpati bears a water pot.",
+    "Prajāpati is red in color.",
+    "Prajāpati holds a staff in hand."
+   ],
+   "inference": "Prajāpati is to be visualized as red, bearing a water pot and holding a staff.",
+   "uncertainties": [],
+   "plain_english": "Visualize Prajāpati as red, bearing a water pot and holding a staff in his hand."
+  },
+  {
+   "verse": 810,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior meditative act",
+     "morph": "gerund √dhyai"
+    },
+    {
+     "surface": "patreṣu",
+     "gloss": "in-petals",
+     "grounds": "location on lotus petals",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "act of installation",
+     "morph": "gerund vi+√nyas"
+    },
+    {
+     "surface": "sarvakilviṣanāśanam",
+     "gloss": "all-sins-destroyer",
+     "grounds": "compound describing purifying function",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should the destroyer of all sins be placed after meditation?",
+   "premises": [
+    "The deity is meditated upon first.",
+    "The deity destroys all sins.",
+    "The petals are the specified location for placement."
+   ],
+   "inference": "After meditating, the destroyer of all sins should be placed in the petals.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on him, the destroyer of all sins, one should place him in the petals."
+  },
+  {
+   "verse": 811,
+   "rows": [
+    {
+     "surface": "pītāmbaradharaṃ",
+     "gloss": "yellow-garment-bearer",
+     "grounds": "compound describing attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "attribute of divinity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vanamālāvibhūṣitam",
+     "gloss": "forest-garland-adorned",
+     "grounds": "compound describing adornment",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What attributes characterize the divine figure described for visualization?",
+   "premises": [
+    "The figure wears a yellow garment.",
+    "The figure is divine.",
+    "The figure is adorned with a forest garland."
+   ],
+   "inference": "The divine figure is to be visualized wearing yellow garments and adorned with a forest garland.",
+   "uncertainties": [],
+   "plain_english": "Visualize the divine one wearing a yellow garment and adorned with a forest garland."
+  },
+  {
+   "verse": 812,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior meditative act",
+     "morph": "gerund √dhyai"
+    },
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "viṣṇu",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahātmānaṃ",
+     "gloss": "great-souled",
+     "grounds": "epithet of Viṣṇu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kesareṣu",
+     "gloss": "in-filaments",
+     "grounds": "location on lotus filaments",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "one-should-place",
+     "grounds": "instruction to install",
+     "morph": "3.sg.opt.caus.act ni+√viś"
+    }
+   ],
+   "question": "Where should the great-souled Viṣṇu be placed after meditation?",
+   "premises": [
+    "Viṣṇu is the object of meditation.",
+    "Viṣṇu is described as great-souled.",
+    "The filaments are the specified location for placement."
+   ],
+   "inference": "After meditating on the great-souled Viṣṇu, one should place him in the filaments.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the great-souled Viṣṇu, one should place him in the filaments."
+  },
+  {
+   "verse": 813,
+   "rows": [
+    {
+     "surface": "siṃhacarmaparīdhānaṃ",
+     "gloss": "lion-skin-garment",
+     "grounds": "compound describing attire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaśāṅkakṛtaśekharam",
+     "gloss": "moon-made-crown",
+     "grounds": "compound describing crescent moon as crest",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What distinctive attire and crest characterize the figure described here?",
+   "premises": [
+    "The figure wears a lion skin as a garment.",
+    "The figure has the moon as a crest."
+   ],
+   "inference": "The figure is characterized by wearing a lion skin and bearing the moon as a crest.",
+   "uncertainties": [],
+   "plain_english": "He wears a lion skin as his garment and has the moon as his crest."
+  },
+  {
+   "verse": 814,
+   "rows": [
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-pericarp",
+     "grounds": "location in the lotus pericarp",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "niveśyainaṃ",
+     "gloss": "having-placed-him",
+     "grounds": "act of installation with pronoun; internal sandhi niveśya+enam",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahāpātakanāśam",
+     "gloss": "great-sins-destroyer",
+     "grounds": "compound describing purifying function",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should the destroyer of great sins be installed?",
+   "premises": [
+    "The deity destroys great sins.",
+    "The pericarp is the specified location for installation."
+   ],
+   "inference": "The destroyer of great sins should be installed in the pericarp.",
+   "uncertainties": [],
+   "plain_english": "Having placed him, the destroyer of great sins, in the pericarp."
+  },
+  {
+   "verse": 815,
+   "rows": [
+    {
+     "surface": "vahnitrayaṃ",
+     "gloss": "fire-triad",
+     "grounds": "three fires",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "emphatic location marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "instruction to install",
+     "morph": "3.sg.opt.act vi+√nyas"
+    },
+    {
+     "surface": "pravibhāgaśaḥ",
+     "gloss": "by-divisions",
+     "grounds": "according to proper divisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How and where should the triad of fires be installed?",
+   "premises": [
+    "A triad of fires is to be installed.",
+    "The installation occurs in that same place.",
+    "The installation must follow proper divisions."
+   ],
+   "inference": "The triad of fires should be installed there according to proper divisions.",
+   "uncertainties": [],
+   "plain_english": "And one should place the triad of fires there, according to their proper divisions."
+  },
+  {
+   "verse": 816,
+   "rows": [
+    {
+     "surface": "vyapti?",
+     "gloss": "pervasion",
+     "grounds": "term indicating pervasion; reading uncertain as marked",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sañcintya",
+     "gloss": "having-contemplated",
+     "grounds": "prior contemplative act",
+     "morph": "gerund sam+√cint"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-their-middle",
+     "grounds": "location in the middle of them; internal sandhi tat+madhye",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "śakti to be installed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhūyo'pi",
+     "gloss": "again-also",
+     "grounds": "repetition marker; internal sandhi bhūyaḥ+api",
+     "morph": "compound"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "instruction to install",
+     "morph": "3.sg.opt.act vi+√nyas"
+    }
+   ],
+   "question": "What should be contemplated and placed again in the middle of that arrangement?",
+   "premises": [
+    "Pervasion is to be contemplated.",
+    "The middle of that arrangement is the location.",
+    "The śakti should be placed there again."
+   ],
+   "inference": "After contemplating pervasion, one should place the śakti again in their middle.",
+   "uncertainties": [
+    "The exact reading and sense of vyapti? is uncertain."
+   ],
+   "plain_english": "Having contemplated the pervasion, one should again place the śakti in their middle."
+  },
+  {
+   "verse": 817,
+   "rows": [
+    {
+     "surface": "anantaḥ",
+     "gloss": "ananta",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartṛrūpeṇa",
+     "gloss": "in-agent-form",
+     "grounds": "compound indicating form as agent",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pīṭhātmā",
+     "gloss": "seat-essence",
+     "grounds": "compound identifying essence as the seat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvatra",
+     "gloss": "but-here",
+     "grounds": "contrastive location marker; internal sandhi tu+atra",
+     "morph": "compound"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "state of presence",
+     "morph": "3.sg.pres.act √sthā"
+    }
+   ],
+   "question": "In what form and role does Ananta abide in this context?",
+   "premises": [
+    "Ananta is present here.",
+    "Ananta appears in the form of the agent.",
+    "Ananta is the essence of the seat."
+   ],
+   "inference": "Ananta abides here in the form of the agent as the essence of the seat.",
+   "uncertainties": [],
+   "plain_english": "But here Ananta stands in the form of the agent as the essence of the seat."
+  },
+  {
+   "verse": 818,
+   "rows": [
+    {
+     "surface": "dharmo",
+     "gloss": "dharma",
+     "grounds": "first member of the quartet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "second member of the quartet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairāgyaṃ",
+     "gloss": "dispassion",
+     "grounds": "third member of the quartet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvaiśvaryaṃ",
+     "gloss": "and-lordship",
+     "grounds": "fourth member with conjunction; internal sandhi tu+aiśvaryam",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "quartet",
+     "grounds": "group of four",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which four principles constitute the quartet named in this context?",
+   "premises": [
+    "Dharma and knowledge are included.",
+    "Dispassion and lordship are included.",
+    "Together they form a quartet."
+   ],
+   "inference": "The quartet consists of dharma, knowledge, dispassion, and lordship.",
+   "uncertainties": [],
+   "plain_english": "Dharma, knowledge, dispassion, and lordship form the quartet."
+  },
+  {
+   "verse": 819,
+   "rows": [
+    {
+     "surface": "ṣaḍadhvamāsanaṃ",
+     "gloss": "six-paths-seat",
+     "grounds": "compound describing the seat composed of six paths",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śambhoḥ",
+     "gloss": "of-śambhu",
+     "grounds": "deity to whom worship is offered",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "dhṛdayena",
+     "gloss": "with-heart",
+     "grounds": "means using the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means should worship of Śambhu on the six-path seat be performed?",
+   "premises": [
+    "The seat is constituted by the six paths.",
+    "The worship is directed to Śambhu.",
+    "The heart mantra is specified as the means."
+   ],
+   "inference": "Worship of Śambhu on the six-path seat should be performed with the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "The worship of Śambhu on the seat of the six paths should be performed with the heart mantra."
+  },
+  {
+   "verse": 820,
+   "rows": [
+    {
+     "surface": "sarvādhvanirmitaṃ",
+     "gloss": "all-paths-made",
+     "grounds": "compound describing construction from all paths",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "ritual seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturyugamahāṅghri?kam",
+     "gloss": "four-ages-great-feet",
+     "grounds": "compound describing feet as four ages; reading uncertain as marked",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the seat constructed and what forms its great feet?",
+   "premises": [
+    "The seat is made of all the paths.",
+    "The seat has great feet associated with the four ages."
+   ],
+   "inference": "The seat is constructed from all paths and has the four ages as its great feet.",
+   "uncertainties": [
+    "The exact reading and analysis of caturyugamahāṅghri?kam is uncertain."
+   ],
+   "plain_english": "The seat is made of all the paths and has the four ages as its great feet."
+  },
+  {
+   "verse": 821,
+   "rows": [
+    {
+     "surface": "pañcāśadbhāvasambhinnakaṇṭakairupaśobhitam",
+     "gloss": "fifty-states-mingled-thorns-adorned",
+     "grounds": "compound describing adornment with thorns mingled with fifty states; internal sandhi kaṇṭakaiḥ+upaśobhitam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What adorns the seat in relation to the fifty states?",
+   "premises": [
+    "The seat is adorned with thorns.",
+    "These thorns are mingled with the fifty states."
+   ],
+   "inference": "The seat is adorned with thorns intermingled with the fifty states.",
+   "uncertainties": [],
+   "plain_english": "It is adorned with thorns intermingled with the fifty states."
+  },
+  {
+   "verse": 822,
+   "rows": [
+    {
+     "surface": "vidyeśvaradalaṃ",
+     "gloss": "vidyeśvara-petals",
+     "grounds": "compound describing petals as Vidyeśvaras",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktikesarairupaśobhitam",
+     "gloss": "power-filaments-adorned",
+     "grounds": "compound describing adornment with śakti filaments; internal sandhi kesaraiḥ+upaśobhitam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What constitute the petals and filaments adorning the seat?",
+   "premises": [
+    "The petals are identified with the Vidyeśvaras.",
+    "The filaments are identified with the śaktis and adorn the seat."
+   ],
+   "inference": "The seat has Vidyeśvaras as its petals and is adorned with śakti filaments.",
+   "uncertainties": [],
+   "plain_english": "It has the Vidyeśvaras as its petals and is adorned with the filaments of the śaktis."
+  },
+  {
+   "verse": 823,
+   "rows": [
+    {
+     "surface": "pīṭhamevaṃvidhaṃ",
+     "gloss": "seat-of-such-kind",
+     "grounds": "compound referring to the seat described above; internal sandhi pīṭham+evaṃvidham",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyāyen",
+     "gloss": "one-should-meditate",
+     "grounds": "meditative instruction",
+     "morph": "3.sg.opt.act √dhyai"
+    },
+    {
+     "surface": "mātṛkākṣarasambhavam",
+     "gloss": "mātṛkā-letters-born",
+     "grounds": "compound describing origin from mātṛkā letters",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kind of seat should be meditated upon and what is its origin?",
+   "premises": [
+    "A seat of the kind described should be meditated upon.",
+    "This seat is born from the letters of the mātṛkā."
+   ],
+   "inference": "One should meditate on such a seat as born from the mātṛkā letters.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on such a seat, born from the letters of the mātṛkā."
+  },
+  {
+   "verse": 824,
+   "rows": [
+    {
+     "surface": "anantaṃ",
+     "gloss": "ananta",
+     "grounds": "name of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sṛṣṭi?pūrveṇa",
+     "gloss": "creation-before",
+     "grounds": "compound indicating precedence related to creation; reading uncertain as marked",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tatpūrveṇa",
+     "gloss": "that-before",
+     "grounds": "compound indicating precedence before that; internal sandhi tat+pūrveṇa",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mahāmbujam",
+     "gloss": "great-lotus",
+     "grounds": "compound referring to the great lotus",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "In what sequence should Ananta and the great lotus be contemplated?",
+   "premises": [
+    "Ananta is to be contemplated.",
+    "The great lotus is to be contemplated.",
+    "A sequential order involving creation and precedence is indicated."
+   ],
+   "inference": "Ananta and the great lotus should be contemplated in the indicated sequential order.",
+   "uncertainties": [
+    "The exact reading and meaning of sṛṣṭi?pūrveṇa is uncertain."
+   ],
+   "plain_english": "One should contemplate Ananta and, in sequence, the great lotus."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "meditating",
+     "grounds": "gerund of dhyā",
+     "morph": "(absol.)+root dhyā"
+    },
+    {
+     "surface": "yathoktāṃ",
+     "gloss": "as-said",
+     "grounds": "feminine accusative singular modifying tām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "feminine accusative singular pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mudrayāvāhayet",
+     "gloss": "by-seal+invoke",
+     "grounds": "instrumental mudrayā plus optative āvāhayet; invoke by seal",
+     "morph": "3.sg.act.opt.+root āvāh"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb indicating proper sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the invoked goddess be meditated upon and invoked by seal in proper order?",
+   "premises": [
+    "Meditate on the said goddess.",
+    "Invoke her by the seal.",
+    "Proceed in proper order."
+   ],
+   "inference": "The rite requires meditative visualization followed by seal-invocation in sequence.",
+   "uncertainties": [
+    "mudrayāvāhayet parses as mudrayā plus āvāhayet; exact seal unspecified"
+   ],
+   "plain_english": "Then, having meditated on that goddess as described, one should invoke her by the seal, in order."
+  }
+ ]
+}

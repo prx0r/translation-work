@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "liṃgāyāme",
+     "gloss": "in-linga-length",
+     "grounds": "locative of liṅgāyāma (length of the liṅga); fused form written as liṃgāyāme (anusvāra before y).",
+     "morph": "7.1.n"
+    },
+    {
+     "surface": "daśāṃśe",
+     "gloss": "in-ten-part",
+     "grounds": "locative of daśāṃśa (tenth part); compound daśa+aṃśa.",
+     "morph": "7.1.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle marking contrast/connection.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "guna-part",
+     "grounds": "accusative of guṇāṃśa (part measured by guna/threefold part as per context); compound guṇa+aṃśa.",
+     "morph": "2.1.m"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "four-cornered",
+     "grounds": "accusative/nominal form of caturaśraka (four-cornered); compound catur+aśraka.",
+     "morph": "2.1.n"
+    }
+   ],
+   "question": "What proportional measure is prescribed for the four-cornered form in relation to the liṅga’s length?",
+   "premises": [
+    "The liṅga’s length is taken as the reference measure.",
+    "A tenth part is specified in that lengthwise reference.",
+    "A guna-part is prescribed as the measure of the four-cornered form."
+   ],
+   "inference": "In the liṅga’s length, at a tenth part, the four-cornered form is to be taken as a guna-part.",
+   "uncertainties": [
+    "Exact technical value of guṇāṃśa in this āgamic measurement scheme is not specified by the tokens alone."
+   ],
+   "plain_english": "In the length of the liṅga, at the tenth part, take the four-cornered form as a guna-part."
+  }
+ ]
+}

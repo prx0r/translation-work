@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the subject",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "jñātā",
+     "gloss": "knower",
+     "grounds": "agent noun from √jñā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhairavo",
+     "gloss": "Bhairava",
+     "grounds": "name of the deity; sandhi form of bhairavaḥ before deva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "epithet of Bhairava; sandhi form of devaḥ before śroto",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śroto",
+     "gloss": "in-stream",
+     "grounds": "locative sense in the transmission stream; sandhi form of śrotaḥ/śrote contextually before rudrasamaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudrasamaḥ",
+     "gloss": "equal-to-Rudra",
+     "grounds": "compound expressing equivalence with Rudra",
+     "morph": "compound:rudra+samāna;m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "optative expressing resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What state does the knower of Bhairava in the stream attain in relation to Rudra?",
+   "premises": [
+    "There is a knower identified by the relative pronoun yaḥ.",
+    "This knower knows Bhairava as the deity present in the stream.",
+    "The stream or state is characterized as equal to Rudra."
+   ],
+   "inference": "Therefore, the knower of Bhairava in that stream should become equal to Rudra.",
+   "uncertainties": [
+    "The precise syntactic role of śroto is ambiguous between a nominal form and a locative sense in the stream."
+   ],
+   "plain_english": "Whoever knows Bhairava, the god in that stream, becomes equal to Rudra."
+  }
+ ]
+}

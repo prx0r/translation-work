@@ -1,0 +1,1023 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "to-that-extent",
+     "grounds": "indeclinable measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karkaṭakena",
+     "gloss": "with-compass",
+     "grounds": "instrument for drawing",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "geometric figure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "beautiful",
+     "grounds": "quality of circle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should a beautiful circle be drawn in the ritual diagram?",
+   "premises": [
+    "A compass is the prescribed instrument",
+    "The action is an injunction to make a circle",
+    "The resulting circle should be beautiful"
+   ],
+   "inference": "One should use a compass to draw a beautiful circle to the required extent",
+   "uncertainties": [],
+   "plain_english": "To that extent, one should also draw a beautiful circle with a compass."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "then",
+     "grounds": "connective to previous step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhujāṃ",
+     "gloss": "triangle",
+     "grounds": "three-cornered figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior action of placing",
+     "morph": "abs √dā"
+    },
+    {
+     "surface": "kuḍam",
+     "gloss": "pit",
+     "grounds": "ritual fire pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍasravat",
+     "gloss": "six-cornered",
+     "grounds": "resulting shape of pit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does adding a triangle transform the ritual pit into a six-cornered form?",
+   "premises": [
+    "A triangle is placed as part of the construction",
+    "The pit undergoes a change in form",
+    "The resulting form has six corners"
+   ],
+   "inference": "Placing a triangle makes the ritual pit six-cornered",
+   "uncertainties": [
+    "Exact geometric operation implied by dattvā is context-dependent"
+   ],
+   "plain_english": "Then, having placed a triangle, the pit becomes six-cornered in this way."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "tanmadhyataḥ",
+     "gloss": "from-its-middle",
+     "grounds": "starting point within figure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryabhāgaṃ",
+     "gloss": "sun-portion",
+     "grounds": "specific measured section",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karkaṭakena",
+     "gloss": "with-compass",
+     "grounds": "instrument for marking",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What portion should be marked from the middle using a compass?",
+   "premises": [
+    "The middle of the figure is the reference point",
+    "A compass is used for marking",
+    "A sun-portion is the measure to be marked"
+   ],
+   "inference": "One should mark a sun-portion from the middle with a compass",
+   "uncertainties": [
+    "Exact size of sūryabhāga is not specified here"
+   ],
+   "plain_english": "From its middle, mark out a sun-portion with a compass."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "digvidigantarāle",
+     "gloss": "in-direction-intermediate-intervals",
+     "grounds": "spaces between cardinal and intermediate directions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrāṇi",
+     "gloss": "threads",
+     "grounds": "construction lines",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "number of threads",
+     "morph": "num.acc.pl"
+    },
+    {
+     "surface": "prapātayet",
+     "gloss": "one-should-cast",
+     "grounds": "optative injunction",
+     "morph": "3.sg.caus-opt √pat"
+    }
+   ],
+   "question": "Where and how many threads must be cast across directional intervals?",
+   "premises": [
+    "Threads are to be cast as construction lines",
+    "The locations are intervals of directions and intermediate directions",
+    "The required number of threads is eight"
+   ],
+   "inference": "One should cast eight threads in the intervals of the directions and intermediate directions",
+   "uncertainties": [],
+   "plain_english": "And one should cast eight threads in the intervals between the directions and intermediate directions."
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "nayet",
+     "gloss": "one-should-lead",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt √nī"
+    },
+    {
+     "surface": "bāhyavṛttapūrvasūtrasya",
+     "gloss": "of-outer-circle-eastern-thread",
+     "grounds": "reference line on outer circle",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mūrddhani",
+     "gloss": "on-head",
+     "grounds": "top point or endpoint",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "To which point on the outer circle should the thread be led?",
+   "premises": [
+    "A thread must be led to a specific point",
+    "The reference is the eastern thread of the outer circle",
+    "The target point is its head"
+   ],
+   "inference": "One should lead the thread to the head of the eastern thread of the outer circle",
+   "uncertainties": [],
+   "plain_english": "One should lead it to the head of the eastern thread of the outer circle."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "resulting from prior step",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner of formation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭadalāni",
+     "gloss": "eight-petals",
+     "grounds": "lotus petals formed",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are eight petals formed from the preceding construction steps?",
+   "premises": [
+    "The formation follows from the previous step",
+    "The result is produced in this manner",
+    "Eight petals are formed"
+   ],
+   "inference": "From that procedure, eight petals are formed",
+   "uncertainties": [],
+   "plain_english": "From that, eight petals are thus formed."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgavyāsārdhavṛttaṃ",
+     "gloss": "six-part-half-diameter-circle",
+     "grounds": "circle sized by half diameter of six parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatkeśarāṇi",
+     "gloss": "its-filaments",
+     "grounds": "filaments of that lotus",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dimensions define the circle and filaments of the lotus design?",
+   "premises": [
+    "A circle is defined by half the diameter of six parts",
+    "Filaments belong to that constructed figure",
+    "Both elements are part of the design"
+   ],
+   "inference": "The design includes a circle of half the six-part diameter and its filaments",
+   "uncertainties": [
+    "Exact unit measure of ṣaḍaṅga is not specified here"
+   ],
+   "plain_english": "There is a circle of half the diameter of six parts, and its filaments."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "gurūktayuktyā",
+     "gloss": "by-teacher-taught-method",
+     "grounds": "method instructed by teacher",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-excavate",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt √khan"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "so-that",
+     "grounds": "purpose or result clause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmākṛtiḥ",
+     "gloss": "lotus-form",
+     "grounds": "desired shape",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative result",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "By what method should excavation produce a lotus-shaped form?",
+   "premises": [
+    "Excavation must follow a specific method",
+    "The method is taught by the teacher",
+    "The intended result is a lotus form"
+   ],
+   "inference": "One should excavate by the teacher's method so that a lotus form arises",
+   "uncertainties": [],
+   "plain_english": "One should excavate according to the method taught by the teacher so that it takes the form of a lotus."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "vālukābhiḥ",
+     "gloss": "with-sand",
+     "grounds": "material for leveling",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "caturasrasamaṃ",
+     "gloss": "level-with-square",
+     "grounds": "even with square area",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "so-that",
+     "grounds": "purpose or manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should sand be used to level the construction with the square?",
+   "premises": [
+    "Sand is used as leveling material",
+    "The surface must match the square",
+    "The action aims at evenness"
+   ],
+   "inference": "Sand should be used to make the surface level with the square",
+   "uncertainties": [],
+   "plain_english": "Use sand so that it becomes level with the square."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "bhrāmayet",
+     "gloss": "one-should-rotate",
+     "grounds": "optative injunction",
+     "morph": "3.sg.caus-opt √bhram"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "figure to be rotated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cihnāni",
+     "gloss": "marks",
+     "grounds": "reference points",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "location in diagram",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "digaṣṭake",
+     "gloss": "in-eight-directions",
+     "grounds": "eight directional points",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should marks be placed when rotating the circle in eight directions?",
+   "premises": [
+    "A circle is to be rotated",
+    "Marks must be placed in the process",
+    "The marks correspond to the eight directions"
+   ],
+   "inference": "When rotating the circle, one should place marks in the eight directions",
+   "uncertainties": [],
+   "plain_english": "One should rotate a circle and place marks here in the eight directions."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual fire pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṇṭhaḥ",
+     "gloss": "neck",
+     "grounds": "part of pit structure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mekhalāḥ",
+     "gloss": "rims",
+     "grounds": "encircling bands of pit",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which additional parts of the ritual pit must be constructed likewise?",
+   "premises": [
+    "The pit is constructed in a stated manner",
+    "The neck is included in the construction",
+    "The rims are included in the construction"
+   ],
+   "inference": "The pit, its neck, and its rims should be made likewise",
+   "uncertainties": [],
+   "plain_english": "The pit should be made likewise, along with its neck and rims."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "tadvyāsārdhena",
+     "gloss": "by-its-half-diameter",
+     "grounds": "radius measure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "figure to be drawn",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location in construction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cihnāni",
+     "gloss": "marks",
+     "grounds": "reference points",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of marks",
+     "morph": "num.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many marks must be made on the circle drawn with half the diameter?",
+   "premises": [
+    "A circle is drawn using half its diameter",
+    "Marks are to be placed on that circle",
+    "The number of marks is five"
+   ],
+   "inference": "A circle drawn with half the diameter should have five marks",
+   "uncertainties": [],
+   "plain_english": "A circle should be drawn with half its diameter, and there should be five marks on it."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "dhanurlopāt",
+     "gloss": "by-arc-removal",
+     "grounds": "cutting away curved segments",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual fire pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcāsrakaṃ",
+     "gloss": "five-cornered",
+     "grounds": "resulting shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "optative result",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "How does removing arcs produce a five-cornered ritual pit?",
+   "premises": [
+    "Arcs are removed from the figure",
+    "The pit changes shape as a result",
+    "The resulting shape has five corners"
+   ],
+   "inference": "By removing arcs, the pit becomes five-cornered",
+   "uncertainties": [],
+   "plain_english": "By removing the arcs, the pit becomes five-cornered."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "bhrāmayet",
+     "gloss": "one-should-rotate",
+     "grounds": "optative injunction",
+     "morph": "3.sg.caus-opt √bhram"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location in construction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "figure to be rotated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "division into seven parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "whole",
+     "grounds": "entire figure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "the whole circle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Into how many parts must the whole circle be divided there?",
+   "premises": [
+    "A circle is rotated there",
+    "The whole circle is considered",
+    "The division is sevenfold"
+   ],
+   "inference": "The whole circle there should be divided sevenfold",
+   "uncertainties": [],
+   "plain_english": "One should rotate a circle there, and that whole should be divided sevenfold."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "anābhikāni",
+     "gloss": "without-navel",
+     "grounds": "lacking central navel feature",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "pits",
+     "grounds": "ritual fire pits",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "viyoni",
+     "gloss": "without-vulva",
+     "grounds": "lacking vulva feature",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutīritam",
+     "gloss": "declared-by-scripture",
+     "grounds": "stated in revealed text",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What scriptural declaration defines pits lacking navel and vulva features?",
+   "premises": [
+    "Certain pits lack a navel feature",
+    "Certain pits lack a vulva feature",
+    "This characterization is declared by scripture"
+   ],
+   "inference": "Scripture declares that some pits are without navel and without vulva",
+   "uncertainties": [],
+   "plain_english": "Pits without a navel and without a vulva are thus declared by scripture."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "number of pits",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "cardinal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "pits",
+     "grounds": "ritual fire pits",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tāntrike",
+     "gloss": "in-tantric-rite",
+     "grounds": "context of tantric ritual",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many pits are placed in the directions during the tantric rite?",
+   "premises": [
+    "Pits are placed in the directions",
+    "The context is a tantric rite",
+    "The number of pits is four"
+   ],
+   "inference": "Four pits are placed in the directions in the tantric rite",
+   "uncertainties": [],
+   "plain_english": "In the tantric rite, four pits are placed in the directions."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "vāmapathyakaṃ",
+     "gloss": "left-path",
+     "grounds": "associated with left-hand path",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yonikuṇḍakam",
+     "gloss": "vulva-pit",
+     "grounds": "pit shaped with vulva feature",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What specific pit type is prescribed for the left-hand path?",
+   "premises": [
+    "A particular path is specified",
+    "A particular pit type is named",
+    "The pit is characterized as a vulva-pit"
+   ],
+   "inference": "The left-hand path uses a vulva-pit",
+   "uncertainties": [],
+   "plain_english": "For the left-hand path, there is the vulva-pit."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion from prior statements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "thorough manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīkṣya",
+     "gloss": "having-examined",
+     "grounds": "prior careful inspection",
+     "morph": "abs √īkṣ"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "the prescribed action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubhamicchatā",
+     "gloss": "by-one-desiring-good",
+     "grounds": "agent seeking auspicious result",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Why must one desiring auspicious results carefully examine before acting?",
+   "premises": [
+    "The agent desires auspicious results",
+    "Proper examination must precede action",
+    "The prescribed action should be done after examination"
+   ],
+   "inference": "One who desires good must examine properly before performing this action",
+   "uncertainties": [],
+   "plain_english": "Therefore, one who desires good should examine this properly before doing it."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "santāpaḥ",
+     "gloss": "affliction",
+     "grounds": "suffering or distress",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "fatal consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chinnamekhale",
+     "gloss": "in-broken-rim",
+     "grounds": "defective pit condition",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What harmful consequences arise from a ritual pit with a broken rim?",
+   "premises": [
+    "The pit has a broken rim",
+    "Affliction is a stated consequence",
+    "Death is a stated consequence"
+   ],
+   "inference": "A pit with a broken rim brings affliction and death",
+   "uncertainties": [],
+   "plain_english": "A pit with a broken rim brings affliction and death."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "bhāryāvināśakaṃ",
+     "gloss": "wife-destroying",
+     "grounds": "causing loss of wife",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual fire pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated in teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yonyā",
+     "gloss": "vulva",
+     "grounds": "vulva feature of pit",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "absence of feature",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "made",
+     "grounds": "constructed in that state",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows from constructing a ritual pit without a vulva?",
+   "premises": [
+    "A pit may be made without a vulva",
+    "Such a pit is explicitly declared harmful",
+    "The harm is destruction of the wife"
+   ],
+   "inference": "A pit made without a vulva is declared to destroy the wife",
+   "uncertainties": [],
+   "plain_english": "A pit made without a vulva is declared to bring about the destruction of the wife."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "śṛṅgārarahitaṃ",
+     "gloss": "devoid-of-beauty",
+     "grounds": "lacking adornment or elegance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual fire pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jarjaramekhalam",
+     "gloss": "worn-out-rim",
+     "grounds": "having damaged rims",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What defects characterize a ritually flawed and inauspicious fire pit?",
+   "premises": [
+    "The pit may lack beauty",
+    "The pit may have worn-out rims",
+    "These are presented as defects"
+   ],
+   "inference": "A flawed pit is one devoid of beauty and having worn-out rims",
+   "uncertainties": [],
+   "plain_english": "And that pit which is devoid of beauty and has worn-out rims."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "suhṛddveṣaḥ",
+     "gloss": "friend-hatred",
+     "grounds": "enmity from friends",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūtrahīne",
+     "gloss": "in-threadless",
+     "grounds": "pit lacking threads",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daridratā",
+     "gloss": "poverty",
+     "grounds": "state of destitution",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What misfortunes result from a ritual pit lacking proper threads?",
+   "premises": [
+    "The pit lacks threads",
+    "Hatred from friends is a consequence",
+    "Poverty is a consequence"
+   ],
+   "inference": "A threadless pit leads to hatred from friends and poverty",
+   "uncertainties": [],
+   "plain_english": "In a pit without threads, there is hatred from friends and poverty."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "yathoktakuṇḍe",
+     "gloss": "in-pit-as-prescribed",
+     "grounds": "pit made according to instructions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api+utpātāt",
+     "gloss": "even-from-calamity",
+     "grounds": "even when calamity occurs; sandhi marked by +",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāte",
+     "gloss": "when-arisen",
+     "grounds": "having occurred",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "result",
+     "grounds": "consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "the stated result",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result occurs when calamity arises despite a properly constructed pit?",
+   "premises": [
+    "The pit is constructed as prescribed",
+    "A calamity may still arise",
+    "A specific result is indicated in that case"
+   ],
+   "inference": "Even in a properly made pit, if calamity arises, this is the result",
+   "uncertainties": [
+    "The specific result referred to by idam depends on surrounding context"
+   ],
+   "plain_english": "Even in a pit made as prescribed, if a calamity arises in this way, this is the result."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "jātibhede",
+     "gloss": "in-caste-difference",
+     "grounds": "difference in birth status",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāryayajamānayoḥ",
+     "gloss": "of-priest-and-sacrificer",
+     "grounds": "between ritual teacher and patron",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What ritual concern arises from caste difference between priest and sacrificer?",
+   "premises": [
+    "A difference in caste may exist",
+    "The parties involved are priest and sacrificer",
+    "This condition is presented as a concern"
+   ],
+   "inference": "A caste difference between priest and sacrificer is a relevant ritual condition",
+   "uncertainties": [
+    "The specific consequence is not stated in this verse alone"
+   ],
+   "plain_english": "And in the case of a caste difference between the priest and the sacrificer."
+  }
+ ]
+}

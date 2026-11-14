@@ -1,0 +1,1061 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1276,
+   "rows": [
+    {
+     "surface": "śāstrāṇyanyāni",
+     "gloss": "other-scriptures",
+     "grounds": "compound of śāstra and anya",
+     "morph": "compound n.nom.pl"
+    },
+    {
+     "surface": "śrotāraḥ",
+     "gloss": "hearers",
+     "grounds": "those who listen",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "purāṇaṃ",
+     "gloss": "purāṇa",
+     "grounds": "ancient traditional text",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛti",
+     "gloss": "smṛti",
+     "grounds": "remembered traditional text",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which other scriptural sources and audiences are included alongside purāṇa and smṛti?",
+   "premises": [
+    "Other scriptures are mentioned",
+    "Hearers are mentioned as recipients",
+    "Purāṇa and smṛti are included likewise"
+   ],
+   "inference": "Additional scriptures, their hearers, and traditional texts like purāṇa and smṛti are grouped together.",
+   "uncertainties": [],
+   "plain_english": "Other scriptures, their hearers, and likewise the purāṇa and smṛti are included."
+  },
+  {
+   "verse": 1277,
+   "rows": [
+    {
+     "surface": "tanmata?na",
+     "gloss": "by-that-view",
+     "grounds": "compound referring to that doctrine; exact form uncertain due to ?",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛto",
+     "gloss": "made",
+     "grounds": "produced or established",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo'gniḥ",
+     "gloss": "which-fire",
+     "grounds": "relative pronoun fused with agni",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "vaidikaḥ",
+     "gloss": "vedic",
+     "grounds": "belonging to the Veda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paripaṭhyate",
+     "gloss": "is-recited",
+     "grounds": "taught or read in tradition",
+     "morph": "3.sg.passive-present √paṭh"
+    }
+   ],
+   "question": "What status is assigned to the Vedic fire established according to that doctrine?",
+   "premises": [
+    "A fire is made according to that view",
+    "That fire is identified as Vedic",
+    "The Vedic fire is recited in tradition"
+   ],
+   "inference": "The fire established by that doctrine is recognized as the Vedic fire taught in tradition.",
+   "uncertainties": [
+    "The exact reading and analysis of tanmata?na is unclear."
+   ],
+   "plain_english": "The fire made according to that view, which is recited as the Vedic fire, is acknowledged."
+  },
+  {
+   "verse": 1278,
+   "rows": [
+    {
+     "surface": "adhikāriṇa",
+     "gloss": "qualified-persons",
+     "grounds": "those eligible for the rite",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ityuktā",
+     "gloss": "thus-called",
+     "grounds": "designated in this way",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dīkṣitāḥ",
+     "gloss": "initiated",
+     "grounds": "those who have received dīkṣā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvayogyakāḥ",
+     "gloss": "fit-for-all",
+     "grounds": "suitable for all rites or purposes",
+     "morph": "compound m.nom.pl"
+    }
+   ],
+   "question": "Who are declared qualified and fit for all ritual purposes in this context?",
+   "premises": [
+    "Certain persons are called qualified",
+    "They are described as initiated",
+    "They are said to be fit for all"
+   ],
+   "inference": "The initiated are declared the qualified persons fit for all ritual purposes.",
+   "uncertainties": [],
+   "plain_english": "The initiated are thus called the qualified ones, fit for all purposes."
+  },
+  {
+   "verse": 1279,
+   "rows": [
+    {
+     "surface": "kuṇḍasaṃskārapūrvaṃ",
+     "gloss": "after-fire-pit-consecration",
+     "grounds": "preceded by purification of the kuṇḍa",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaivāgniṃ",
+     "gloss": "śaiva-fire",
+     "grounds": "fire established according to Śaiva rite",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-establish",
+     "grounds": "should accomplish or prepare",
+     "morph": "3.sg.optative-active √sādh"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual sequence must precede the establishment of the Śaiva fire?",
+   "premises": [
+    "Consecration of the fire pit comes first",
+    "The Śaiva fire is to be established",
+    "This establishment follows that preparation"
+   ],
+   "inference": "The Śaiva fire should be established only after the fire pit has been consecrated.",
+   "uncertainties": [],
+   "plain_english": "But after first consecrating the fire pit, one should then establish the Śaiva fire."
+  },
+  {
+   "verse": 1280,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaidike home",
+     "gloss": "in-vedic-offering",
+     "grounds": "in a Vedic fire offering; two words in one token",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "virvṛtte",
+     "gloss": "completed",
+     "grounds": "when finished",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "immediately-after-that",
+     "grounds": "right after that event",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "What alternative timing is allowed after the completion of a Vedic fire offering?",
+   "premises": [
+    "An alternative procedure is introduced",
+    "A Vedic offering may be completed",
+    "The next action follows immediately after it"
+   ],
+   "inference": "As an alternative, the next step may be performed immediately after a Vedic fire offering is completed.",
+   "uncertainties": [],
+   "plain_english": "Or, immediately after a Vedic fire offering has been completed."
+  },
+  {
+   "verse": 1281,
+   "rows": [
+    {
+     "surface": "nābhisthe'gnau",
+     "gloss": "in-navel-situated-fire",
+     "grounds": "fire located in the navel; fused form",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "apānena",
+     "gloss": "with-downward-breath",
+     "grounds": "by means of apāna",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "viśrāmya",
+     "gloss": "having-rested",
+     "grounds": "having caused to rest or pause",
+     "morph": "(indecl.) gerund √śram"
+    },
+    {
+     "surface": "udānavṛttinā",
+     "gloss": "with-upward-breath-function",
+     "grounds": "through the activity of udāna",
+     "morph": "compound m.inst.sg"
+    }
+   ],
+   "question": "How are apāna and udāna employed in relation to the fire situated in the navel?",
+   "premises": [
+    "The fire is situated in the navel",
+    "Apāna is used in the process",
+    "Udāna's function is used after resting the fire"
+   ],
+   "inference": "One rests the navel fire with apāna and then proceeds through the function of udāna.",
+   "uncertainties": [],
+   "plain_english": "Having rested the fire in the navel with the downward breath, by means of the upward breath’s function."
+  },
+  {
+   "verse": 1282,
+   "rows": [
+    {
+     "surface": "nityāgni",
+     "gloss": "perpetual-fire",
+     "grounds": "the regular or daily fire",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "veśayed",
+     "gloss": "should-cause-to-enter",
+     "grounds": "should introduce or place within",
+     "morph": "3.sg.optative-causative √viś"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "once more",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāgnimapi",
+     "gloss": "śiva-fire-also",
+     "grounds": "the Śaiva fire as well; fused with api",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "kuṇḍake",
+     "gloss": "in-fire-pit",
+     "grounds": "into the small kuṇḍa",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the perpetual fire and the Śaiva fire be introduced again?",
+   "premises": [
+    "The perpetual fire is to be introduced",
+    "The Śaiva fire is also to be introduced",
+    "The place of introduction is the fire pit"
+   ],
+   "inference": "Both the perpetual fire and the Śaiva fire should be introduced again into the fire pit.",
+   "uncertainties": [],
+   "plain_english": "One should again cause the perpetual fire, and also the Śiva fire, to enter into the fire pit."
+  },
+  {
+   "verse": 1283,
+   "rows": [
+    {
+     "surface": "vihite",
+     "gloss": "when-prescribed",
+     "grounds": "when enjoined or performed as prescribed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "antyeṣṭikarmādau",
+     "gloss": "in-funeral-rite-and-such",
+     "grounds": "in funeral rites and similar acts; compound with ādi",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "of the two fires or systems",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "saṅkarārthakam",
+     "gloss": "for-purpose-of-mixing",
+     "grounds": "intended to combine or blend",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "For what purpose are both fires combined in prescribed funeral rites and similar contexts?",
+   "premises": [
+    "The context is prescribed funeral rites and similar acts",
+    "Both are involved together",
+    "The action is for the purpose of mixing"
+   ],
+   "inference": "In prescribed funeral rites and similar contexts, both are combined for the purpose of mixing.",
+   "uncertainties": [],
+   "plain_english": "When prescribed in funeral rites and the like, this is for the purpose of mixing the two."
+  },
+  {
+   "verse": 1284,
+   "rows": [
+    {
+     "surface": "vaidikāgnyavasāne",
+     "gloss": "at-end-of-vedic-fire",
+     "grounds": "when the Vedic fire rite concludes",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaivaṃ",
+     "gloss": "śaiva",
+     "grounds": "belonging to Śaiva rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sampādya",
+     "gloss": "having-accomplished",
+     "grounds": "having prepared or established",
+     "morph": "(indecl.) gerund √pad"
+    },
+    {
+     "surface": "vānalam",
+     "gloss": "fire",
+     "grounds": "the fire; reading vānalam as given",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What fire should be established at the conclusion of the Vedic fire rite?",
+   "premises": [
+    "The Vedic fire rite comes to an end",
+    "A Śaiva fire is to be accomplished",
+    "This is done after that conclusion"
+   ],
+   "inference": "At the end of the Vedic fire rite, the Śaiva fire should be established.",
+   "uncertainties": [],
+   "plain_english": "But at the conclusion of the Vedic fire, one should establish the Śaiva fire."
+  },
+  {
+   "verse": 1285,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antyeṣṭikarmādau",
+     "gloss": "in-funeral-rite-and-such",
+     "grounds": "in funeral rites and similar acts",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "sāṅkaryaṃ",
+     "gloss": "mixing",
+     "grounds": "combination of the two systems",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sammataṃ",
+     "gloss": "approved",
+     "grounds": "accepted as proper",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tviha",
+     "gloss": "indeed-here",
+     "grounds": "emphatic particle with here; fused form",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "Is the mixing of ritual systems approved in funeral rites and similar contexts?",
+   "premises": [
+    "The context is funeral rites and similar acts",
+    "Mixing is under consideration",
+    "Such mixing is stated to be approved here"
+   ],
+   "inference": "In funeral rites and similar contexts, such mixing is approved.",
+   "uncertainties": [],
+   "plain_english": "Thus, in funeral rites and the like, mixing is indeed approved here."
+  },
+  {
+   "verse": 1286,
+   "rows": [
+    {
+     "surface": "śaivāgni",
+     "gloss": "śaiva-fire",
+     "grounds": "the fire of the Śaiva rite",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "saṃpravakṣyāmi",
+     "gloss": "i-will-expound",
+     "grounds": "I will explain thoroughly",
+     "morph": "1.sg.future-active √vac"
+    },
+    {
+     "surface": "kuṇḍalakṣaṇapūrvakam",
+     "gloss": "beginning-with-fire-pit-characteristics",
+     "grounds": "preceded by the characteristics of the kuṇḍa",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "What topic will be expounded beginning with the characteristics of the fire pit?",
+   "premises": [
+    "The speaker will expound a topic",
+    "The topic is the Śaiva fire",
+    "The exposition begins with fire pit characteristics"
+   ],
+   "inference": "The Śaiva fire will be expounded, beginning with the characteristics of the fire pit.",
+   "uncertainties": [],
+   "plain_english": "I will now expound the Śaiva fire, beginning with the characteristics of the fire pit."
+  },
+  {
+   "verse": 1287,
+   "rows": [
+    {
+     "surface": "sarvakāmapradaṃ",
+     "gloss": "granting-all-desires",
+     "grounds": "bestowing all desired ends",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "nitye",
+     "gloss": "in-regular-rite",
+     "grounds": "in the daily or perpetual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hastamātravinirmitam",
+     "gloss": "made-one-cubit-measure",
+     "grounds": "constructed to the measure of one hand-span/cubit",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What size and benefit characterize the fire pit in the regular ritual context?",
+   "premises": [
+    "The fire pit grants all desires",
+    "It is used in the regular rite",
+    "It is made to the measure of one hasta"
+   ],
+   "inference": "In the regular rite, the fire pit is made one hasta in measure and grants all desires.",
+   "uncertainties": [
+    "hastamātra may indicate a cubit or hand-length measure."
+   ],
+   "plain_english": "In the regular rite, it is made to the measure of one hasta and grants all desires."
+  },
+  {
+   "verse": 1288,
+   "rows": [
+    {
+     "surface": "gajoṣṭhasadṛśā",
+     "gloss": "like-elephant-lip",
+     "grounds": "resembling the lip of an elephant",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "yonir",
+     "gloss": "channel",
+     "grounds": "the yoni or outlet of the fire pit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in the central part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "should exist or be made",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "dvādaśāṅgulā",
+     "gloss": "twelve-fingers-long",
+     "grounds": "measuring twelve aṅgulas",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "What shape and measurement should the central channel of the fire pit have?",
+   "premises": [
+    "A channel should be in the middle",
+    "It should resemble an elephant’s lip",
+    "It should measure twelve aṅgulas"
+   ],
+   "inference": "The central channel should be shaped like an elephant’s lip and measure twelve aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "In the middle there should be a channel like an elephant’s lip, twelve aṅgulas long."
+  },
+  {
+   "verse": 1289,
+   "rows": [
+    {
+     "surface": "sthapiḍale",
+     "gloss": "on-sthapiḍa",
+     "grounds": "on the sthapiḍa surface; term as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadabhāve vā",
+     "gloss": "or-in-its-absence",
+     "grounds": "or if that is not present; three words in one token",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "when-consecrated",
+     "grounds": "when properly prepared",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "the ritual fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-place",
+     "grounds": "should install or establish",
+     "morph": "3.sg.optative-causative √viś"
+    }
+   ],
+   "question": "Where should the fire be placed when the sthapiḍa is present or absent?",
+   "premises": [
+    "Placement may be on the sthapiḍa",
+    "An alternative applies in its absence",
+    "The fire should be placed in a consecrated location"
+   ],
+   "inference": "The fire should be placed on the consecrated sthapiḍa, or in its absence on a consecrated substitute.",
+   "uncertainties": [
+    "The exact referent of sthapiḍa is not specified."
+   ],
+   "plain_english": "One should place the fire on the consecrated sthapiḍa, or, in its absence, on a consecrated place."
+  },
+  {
+   "verse": 1290,
+   "rows": [
+    {
+     "surface": "aniṣ?panne",
+     "gloss": "when-not-accomplished",
+     "grounds": "when not properly established; exact form uncertain due to ?",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivāgnau",
+     "gloss": "in-śiva-fire",
+     "grounds": "in the Śaiva fire",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutaṃ",
+     "gloss": "offered",
+     "grounds": "what is oblated into the fire",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "turns out to be",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "without result",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows from making offerings into an improperly established Śaiva fire?",
+   "premises": [
+    "The Śaiva fire may be not properly accomplished",
+    "An offering may be made into it",
+    "Such an offering becomes fruitless"
+   ],
+   "inference": "Offerings made into an improperly established Śaiva fire are fruitless.",
+   "uncertainties": [
+    "The exact reading of aniṣ?panne is unclear."
+   ],
+   "plain_english": "But if the Śaiva fire is not properly established, what is offered into it becomes fruitless."
+  },
+  {
+   "verse": 1291,
+   "rows": [
+    {
+     "surface": "varmaṇā",
+     "gloss": "with-armor-mantra",
+     "grounds": "by means of the kavaca/varman mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "abhyukṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual sprinkling",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "should-be-done",
+     "grounds": "to be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāḍanaṃ",
+     "gloss": "striking",
+     "grounds": "ritual striking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astramantrataḥ",
+     "gloss": "with-astra-mantra",
+     "grounds": "by means of the astra mantra",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "Which mantras govern the sprinkling and striking acts in the fire pit consecration?",
+   "premises": [
+    "Sprinkling should be done with the armor mantra",
+    "Striking should also be done",
+    "Striking is performed with the astra mantra"
+   ],
+   "inference": "Sprinkling is governed by the armor mantra and striking by the astra mantra.",
+   "uncertainties": [],
+   "plain_english": "Sprinkling should be done with the armor mantra, and striking with the astra mantra."
+  },
+  {
+   "verse": 1292,
+   "rows": [
+    {
+     "surface": "kuṭṭanaṃ",
+     "gloss": "pounding",
+     "grounds": "ritual pounding or beating",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "one should perform",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "sammārjanam",
+     "gloss": "sweeping",
+     "grounds": "ritual cleansing by sweeping",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ataḥ param",
+     "gloss": "after-that",
+     "grounds": "thereafter; two words in one token",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "What ritual actions must follow pounding in the prescribed sequence of fire pit preparation?",
+   "premises": [
+    "Pounding is to be performed",
+    "Sweeping is to be performed after that",
+    "The sequence continues thereafter"
+   ],
+   "inference": "After pounding, one should perform sweeping and proceed with the next steps.",
+   "uncertainties": [],
+   "plain_english": "Then one should do pounding, and after that sweeping."
+  },
+  {
+   "verse": 1293,
+   "rows": [
+    {
+     "surface": "kuṇḍārcanaṃ",
+     "gloss": "fire-pit-worship",
+     "grounds": "worship of the kuṇḍa",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paridhiviṣṭaranyāsa",
+     "gloss": "enclosure-seat-placement",
+     "grounds": "placement of paridhi and viṣṭara; compound as given",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional ritual acts are included after sweeping in the fire pit preparation?",
+   "premises": [
+    "Worship of the fire pit is included",
+    "Placement of enclosure and seat is included",
+    "These acts are part of the sequence"
+   ],
+   "inference": "The sequence includes worship of the fire pit and the placement of the enclosure and seat.",
+   "uncertainties": [],
+   "plain_english": "And worship of the fire pit, and indeed the placement of the enclosure and the seat."
+  },
+  {
+   "verse": 1294,
+   "rows": [
+    {
+     "surface": "etatsarvaṃ",
+     "gloss": "all-this",
+     "grounds": "all these acts together",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "astramantreṇa",
+     "gloss": "with-astra-mantra",
+     "grounds": "by means of the astra mantra",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-do",
+     "grounds": "should perform or have performed",
+     "morph": "3.sg.optative-causative √kṛ"
+    }
+   ],
+   "question": "By what mantra should the wise practitioner perform all these preparatory acts?",
+   "premises": [
+    "All these acts are to be performed",
+    "The performer is the wise one",
+    "The astra mantra is the means"
+   ],
+   "inference": "The wise practitioner should perform all these acts with the astra mantra.",
+   "uncertainties": [],
+   "plain_english": "But the wise one should perform all this with the astra mantra."
+  },
+  {
+   "verse": 1295,
+   "rows": [
+    {
+     "surface": "tadvad",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgīśvaraṃ",
+     "gloss": "vāgīśvara",
+     "grounds": "the lord of speech",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "and likewise; fused form",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākāśatanuṃ",
+     "gloss": "space-bodied",
+     "grounds": "having a body of ākāśa",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "śiva",
+     "grounds": "the auspicious one, Śiva",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which divine forms are to be treated likewise in this ritual context?",
+   "premises": [
+    "The procedure applies likewise",
+    "Vāgīśvara is included",
+    "Śiva, space-bodied, is also included"
+   ],
+   "inference": "Vāgīśvara and the space-bodied Śiva are to be treated likewise.",
+   "uncertainties": [],
+   "plain_english": "Likewise Vāgīśvara, and also Śiva who has a body of space."
+  },
+  {
+   "verse": 1296,
+   "rows": [
+    {
+     "surface": "kalpaṃ",
+     "gloss": "suitable",
+     "grounds": "fit or proper for use",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manthānusampātaṃ",
+     "gloss": "produced-by-churning",
+     "grounds": "fire obtained through churning; compound as given",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "samidhaḥ",
+     "gloss": "fuel-sticks",
+     "grounds": "ritual firewood",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etayoḥ",
+     "gloss": "of-these-two",
+     "grounds": "of the two mentioned",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What suitable materials or sources are indicated for the fire and fuel in this context?",
+   "premises": [
+    "A suitable fire produced by churning is indicated",
+    "Fuel sticks are indicated",
+    "These pertain to the two mentioned"
+   ],
+   "inference": "A suitable fire produced by churning and fuel sticks for the two are then indicated.",
+   "uncertainties": [
+    "The exact referents of etayoḥ are not explicit in this verse alone."
+   ],
+   "plain_english": "Then, a suitable fire produced by churning, and fuel sticks for these two."
+  },
+  {
+   "verse": 1297,
+   "rows": [
+    {
+     "surface": "sūryakāntāt",
+     "gloss": "from-sun-stone",
+     "grounds": "from a sūryakānta gem",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dvijāvāsāt",
+     "gloss": "from-twice-born-dwelling",
+     "grounds": "from the abode of a twice-born",
+     "morph": "compound m.abl.sg"
+    },
+    {
+     "surface": "prasūtam",
+     "gloss": "produced",
+     "grounds": "generated or born",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "analam",
+     "gloss": "fire",
+     "grounds": "the ritual fire",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "From what alternative sources may the ritual fire be obtained according to this instruction?",
+   "premises": [
+    "Fire may be produced from a sun-stone",
+    "Fire may come from a twice-born’s dwelling",
+    "These are presented as alternatives"
+   ],
+   "inference": "The ritual fire may alternatively be obtained from a sun-stone or from a twice-born’s dwelling.",
+   "uncertainties": [],
+   "plain_english": "Or fire produced from a sun-stone, or from the dwelling of a twice-born."
+  },
+  {
+   "verse": 1298,
+   "rows": [
+    {
+     "surface": "ayaskāntād",
+     "gloss": "from-loadstone",
+     "grounds": "from an ayaskānta; source as given",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ito",
+     "gloss": "from-here",
+     "grounds": "from this or thus; reading as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akalpam",
+     "gloss": "unsuitable",
+     "grounds": "not fit for ritual use",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "having fetched or obtained",
+     "morph": "(indecl.) gerund √nī"
+    },
+    {
+     "surface": "kalpavit",
+     "gloss": "knower-of-procedure",
+     "grounds": "one who knows the proper ritual method",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "How should a knower of ritual procedure handle fire obtained from an unsuitable source?",
+   "premises": [
+    "A source may yield unsuitable fire",
+    "An alternative involves bringing fire",
+    "The knower of procedure acts accordingly"
+   ],
+   "inference": "The knower of procedure may bring fire even from a context deemed unsuitable, acting with proper knowledge.",
+   "uncertainties": [
+    "The relation of ayaskāntād and ito to akalpam is syntactically ambiguous."
+   ],
+   "plain_english": "Or, having brought fire from a loadstone or from here, though unsuitable, the knower of procedure acts accordingly."
+  },
+  {
+   "verse": 1299,
+   "rows": [
+    {
+     "surface": "kravyādāṃśaṃ",
+     "gloss": "flesh-eating-portion",
+     "grounds": "the portion belonging to the flesh-eater",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "having set aside or discarded",
+     "morph": "(indecl.) gerund √tyaj"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "should consecrate by sprinkling",
+     "morph": "3.sg.optative-active √prokṣ"
+    },
+    {
+     "surface": "astravāriṇā",
+     "gloss": "with-astra-water",
+     "grounds": "with water empowered by the astra mantra",
+     "morph": "compound n.inst.sg"
+    }
+   ],
+   "question": "What purification must be performed on the fire after removing its impure portion?",
+   "premises": [
+    "The flesh-eating portion must be abandoned",
+    "Sprinkling is to be performed afterward",
+    "The sprinkling uses water empowered by the astra mantra"
+   ],
+   "inference": "After discarding the impure portion, one should sprinkle the fire with water empowered by the astra mantra.",
+   "uncertainties": [],
+   "plain_english": "Having discarded the flesh-eating portion, one should sprinkle it with water consecrated by the astra mantra."
+  }
+ ]
+}

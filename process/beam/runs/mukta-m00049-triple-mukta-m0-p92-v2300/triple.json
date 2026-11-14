@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "pitṛ+ādīnām",
+     "gloss": "of-fathers-and-others",
+     "grounds": "genitive plural of compound pitṛ+ādi (father and so forth), indicating the group headed by ancestors",
+     "morph": "compound.gen.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle indicating inclusion or extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upalakṣaṇam",
+     "gloss": "implication",
+     "grounds": "noun denoting indicative reference or synecdochic inclusion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whom else does the mention of ancestors implicitly designate in the prescribed rites?",
+   "premises": [
+    "The expression pitṛ+ādīnām refers to fathers and others.",
+    "The particle api signals an inclusive extension.",
+    "The term upalakṣaṇam denotes an indicative implication."
+   ],
+   "inference": "The reference to ancestors implicitly includes other related beings within the scope of the rites.",
+   "uncertainties": [
+    "The specific beings included under 'ādīnām' are not enumerated in this verse."
+   ],
+   "plain_english": "This is also an implication referring to the fathers and others."
+  }
+ ]
+}

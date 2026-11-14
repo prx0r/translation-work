@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "sarva+sthāneṣu",
+     "gloss": "in-all-places",
+     "grounds": "compound locative plural indicating every location without exception",
+     "morph": "compound sarva+sthāna.loc.pl.nt"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb reinforcing universality of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle denying the presence of distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣaṃ",
+     "gloss": "distinction",
+     "grounds": "object denoting difference or special condition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kvacid",
+     "gloss": "anywhere",
+     "grounds": "indefinite adverb extending negation to any place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing prescribed absence of distinction",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "Does the sādhaka's conduct admit any distinction depending on place or location?",
+   "premises": [
+    "All places are included without exception.",
+    "Everywhere is treated as equivalent in scope.",
+    "No distinction is permitted in any location."
+   ],
+   "inference": "Therefore the sādhaka's conduct must remain undifferentiated across all places.",
+   "uncertainties": [],
+   "plain_english": "In all places and everywhere, there should be no distinction whatsoever."
+  }
+ ]
+}

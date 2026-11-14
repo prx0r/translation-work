@@ -1,0 +1,57 @@
+{
+ "song": "kul-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "adhamāḥ",
+     "gloss": "lowest",
+     "grounds": "adhamāḥ = lowest grade of disciples",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "madhyamāḥ",
+     "gloss": "middle",
+     "grounds": "madhyamāḥ = middle grade of disciples",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śreṣṭhāḥ",
+     "gloss": "best",
+     "grounds": "śreṣṭhāḥ = best grade of disciples",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śiṣyāḥ",
+     "gloss": "disciples",
+     "grounds": "śiṣyāḥ = disciples being classified",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "devi = vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "prakīrtitāḥ = declared or proclaimed",
+     "morph": "3.pl.pass.past.part (kīrt)"
+    }
+   ],
+   "question": "How are the three grades of disciples declared?",
+   "premises": [
+    "Disciples are graded into three levels.",
+    "The goddess is addressed directly.",
+    "The grades are declared by the text."
+   ],
+   "inference": "The verse classifies disciples as low, middle, and best.",
+   "uncertainties": [
+    "No explicit criterion for the grades appears in this verse."
+   ],
+   "plain_english": "O goddess, disciples are declared as low, middle, and best."
+  }
+ ]
+}

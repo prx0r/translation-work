@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "dūrvā",
+     "gloss": "dūrvā-grass",
+     "grounds": "sacred grass offered in the śrīpātra filling",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "akṣataṃ",
+     "gloss": "unbroken-rice",
+     "grounds": "whole rice grains used as offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktapuṣpaṃ",
+     "gloss": "red-flower",
+     "grounds": "red blossom included among the offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bilvapatrañca",
+     "gloss": "bilva-leaf-and",
+     "grounds": "bilva leaf fused with ca by sandhi",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "candanam",
+     "gloss": "sandal",
+     "grounds": "sandal substance completing the list",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which five substances complete the śrīpātra offering after milk, curd, and ghee?",
+   "premises": [
+    "śrīpātra is filled with sacred substances",
+    "dūrvā akṣata and red flower are included",
+    "bilva leaf and sandal complete the list"
+   ],
+   "inference": "The verse enumerates five final offerings for the vessel.",
+   "uncertainties": [
+    "Exact ritual order and quantities are not specified."
+   ],
+   "plain_english": "Dūrvā grass, unbroken rice, red flowers, bilva leaves, and sandal."
+  }
+ ]
+}

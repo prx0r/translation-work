@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "optative of yuj; imperative sense in ritual instruction",
+     "morph": "3.sg.act-opt root-yuj"
+    },
+    {
+     "surface": "vāhyakoṣṭhasthaiḥ",
+     "gloss": "with-outer-cell-dwellers",
+     "grounds": "compound vāhya-koṣṭha-stha; instrumental plural masculine",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "prāguktavidhinā",
+     "gloss": "by-previously-stated-rule",
+     "grounds": "compound prāg-ukta-vidhi; instrumental singular masculine",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative or indeclinable adverb; sequential order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the outer-cell dwellers be joined according to the previously stated rule?",
+   "premises": [
+    "Outer-cell dwellers require joining.",
+    "Previously stated rule governs joining.",
+    "Joining proceeds in order."
+   ],
+   "inference": "Therefore join the outer-cell dwellers by the previously stated rule in order.",
+   "uncertainties": [
+    "Exact referent of outer-cell dwellers is not specified in this verse."
+   ],
+   "plain_english": "Join the outer-cell dwellers by the previously stated rule, in order."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "nimbaḥ",
+     "gloss": "neem-tree",
+     "grounds": "name of a tree used as ritual material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakulaḥ",
+     "gloss": "vakula-tree",
+     "grounds": "name of a tree used as ritual material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gavākṣī",
+     "gloss": "gavākṣī-plant",
+     "grounds": "name of a plant used as ritual material",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaṭphalaḥ",
+     "gloss": "kaṭphala-tree",
+     "grounds": "name of a tree used as ritual material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating inclusion in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional plant materials are prescribed for the ritual implements alongside khādira wood?",
+   "premises": [
+    "The preceding verse prescribes khādira wood as material for the implements.",
+    "Nimba and vakula are named as additional materials.",
+    "Gavākṣī and kaṭphala are likewise included as materials."
+   ],
+   "inference": "Nimba, vakula, gavākṣī, and kaṭphala are also prescribed as suitable materials for the ritual implements.",
+   "uncertainties": [
+    "The exact botanical identification of gavākṣī in this ritual context is not specified."
+   ],
+   "plain_english": "Neem and vakula, and also gavākṣī and kaṭphala, are likewise prescribed as materials."
+  }
+ ]
+}

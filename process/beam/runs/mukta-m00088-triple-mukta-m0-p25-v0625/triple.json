@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "sūryakāntapratīkāsā",
+     "gloss": "sunstone-resembling",
+     "grounds": "compound of sunstone and resembling; feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhanurbāṇakarāmbujāḥ",
+     "gloss": "bow-arrow-hand-lotus",
+     "grounds": "compound listing bow, arrow, hand, and lotus; masculine nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What form does the goddess take in this cakra?",
+   "premises": [
+    "The verse describes a sunstone-like form.",
+    "The verse lists bow arrow hand lotus.",
+    "The form belongs to this cakra."
+   ],
+   "inference": "The goddess appears sunstone-like and bears bow arrow hand lotus.",
+   "uncertainties": [
+    "Exact grammatical number and referent remain unclear."
+   ],
+   "plain_english": "Resembling a sunstone, with bow, arrow, hand, and lotuses."
+  }
+ ]
+}

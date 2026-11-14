@@ -1,0 +1,1035 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 776,
+   "rows": [
+    {
+     "surface": "dūrvācandanasaṃyuktam",
+     "gloss": "joined-with-durva-and-sandalwood",
+     "grounds": "compound of dūrvā, candana, saṃyukta",
+     "morph": "compound"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative instruction for ritual placement",
+     "morph": "3.sg.optative-active √vi-ni-as"
+    },
+    {
+     "surface": "dakṣiṇānvitam",
+     "gloss": "accompanied-by-dakshina",
+     "grounds": "compound of dakṣiṇā and anvita",
+     "morph": "compound"
+    }
+   ],
+   "question": "What combined offering must be ritually placed with dakshina?",
+   "premises": [
+    "Durva grass and sandalwood are combined together",
+    "The offering is accompanied by dakshina",
+    "The ritual action prescribed is placement"
+   ],
+   "inference": "An offering joined with durva, sandalwood, and dakshina should be placed.",
+   "uncertainties": [],
+   "plain_english": "One should place an offering joined with durva grass and sandalwood, accompanied by dakshina."
+  },
+  {
+   "verse": 777,
+   "rows": [
+    {
+     "surface": "mūlamantrañ",
+     "gloss": "root-mantra",
+     "grounds": "compound of mūla and mantra with sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "japann",
+     "gloss": "muttering",
+     "grounds": "present participle indicating simultaneous recitation",
+     "morph": "m.nom.sg.present-participle-active √jap"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating concluding stage",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cintayann",
+     "gloss": "contemplating",
+     "grounds": "present participle indicating mental focus",
+     "morph": "m.nom.sg.present-participle-active √cint"
+    },
+    {
+     "surface": "aikyam",
+     "gloss": "unity",
+     "grounds": "object of contemplation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive specifying whose unity",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What mental state must accompany recitation of the root mantra at the end?",
+   "premises": [
+    "The root mantra is being muttered",
+    "The action occurs at the end",
+    "Contemplation is directed toward unity of the self"
+   ],
+   "inference": "At the end, one should mutter the root mantra while contemplating unity of the self.",
+   "uncertainties": [],
+   "plain_english": "At the end, while muttering the root mantra, one should contemplate the unity of the self."
+  },
+  {
+   "verse": 778,
+   "rows": [
+    {
+     "surface": "pañcāśad",
+     "gloss": "fifty",
+     "grounds": "numeral qualifying decoctions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṣadhīkvāthaiḥ",
+     "gloss": "with-herb-decoctions",
+     "grounds": "compound of oṣadhī and kvātha",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative instruction for filling",
+     "morph": "3.sg.optative-active √pṝ"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to previously mentioned vessel or container",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "thereafter",
+     "grounds": "indicates sequence after previous action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substance must fill the vessel immediately after the prior step?",
+   "premises": [
+    "Fifty herb decoctions are specified",
+    "The action prescribed is filling",
+    "The filling occurs thereafter"
+   ],
+   "inference": "Thereafter, that vessel should be filled with decoctions of fifty herbs.",
+   "uncertainties": [
+    "The exact referent of 'that' depends on prior context."
+   ],
+   "plain_english": "Thereafter, one should fill that with decoctions of fifty herbs."
+  },
+  {
+   "verse": 779,
+   "rows": [
+    {
+     "surface": "candanañ",
+     "gloss": "sandalwood",
+     "grounds": "ingredient listed with sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktākhyaṃ",
+     "gloss": "called-red",
+     "grounds": "compound of rakta and ākhya qualifying sandalwood",
+     "morph": "compound"
+    },
+    {
+     "surface": "candanañ",
+     "gloss": "sandalwood",
+     "grounds": "ingredient listed with sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agurus",
+     "gloss": "agarwood",
+     "grounds": "ingredient listed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fragrant substances are included in the continuing ingredient list?",
+   "premises": [
+    "Sandalwood is included",
+    "Red sandalwood is included",
+    "Agarwood is included likewise"
+   ],
+   "inference": "The list includes sandalwood, red sandalwood, and agarwood.",
+   "uncertainties": [],
+   "plain_english": "Also sandalwood, red sandalwood, and likewise agarwood."
+  },
+  {
+   "verse": 780,
+   "rows": [
+    {
+     "surface": "jātiphalaṃ",
+     "gloss": "nutmeg",
+     "grounds": "ingredient listed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jaṭāmāṃsī",
+     "gloss": "spikenard",
+     "grounds": "ingredient listed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "murā",
+     "gloss": "mura",
+     "grounds": "ingredient name; specific plant identity uncertain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional aromatic ingredients continue the prescribed mixture?",
+   "premises": [
+    "Nutmeg is listed",
+    "Spikenard is listed",
+    "Mura is listed likewise"
+   ],
+   "inference": "Nutmeg, spikenard, and mura are added to the mixture.",
+   "uncertainties": [
+    "The exact botanical identity of murā is uncertain."
+   ],
+   "plain_english": "Nutmeg, spikenard, and likewise mura."
+  },
+  {
+   "verse": 781,
+   "rows": [
+    {
+     "surface": "citrakañ",
+     "gloss": "citraka",
+     "grounds": "ingredient name with sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudgaparṇī",
+     "gloss": "mudgaparni",
+     "grounds": "ingredient name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuśāḥ",
+     "gloss": "kusha-grass",
+     "grounds": "ingredient listed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates further continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further plant materials are added to the ritual ingredients?",
+   "premises": [
+    "Citraka is included",
+    "Mudgaparni is included",
+    "Kusha grass is included again"
+   ],
+   "inference": "Citraka, mudgaparni, and kusha grass are further added.",
+   "uncertainties": [],
+   "plain_english": "And citraka, mudgaparni, and again kusha grass."
+  },
+  {
+   "verse": 782,
+   "rows": [
+    {
+     "surface": "śaṅkhapuṣpī",
+     "gloss": "shankhapushpi",
+     "grounds": "ingredient name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mayūrasya",
+     "gloss": "of-peacock",
+     "grounds": "genitive specifying source of crest",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest-feather",
+     "grounds": "ingredient listed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which plant and animal-derived items are included next in the list?",
+   "premises": [
+    "Shankhapushpi is listed",
+    "A peacock's crest feather is listed",
+    "The list continues likewise"
+   ],
+   "inference": "Shankhapushpi and a peacock's crest feather are included.",
+   "uncertainties": [],
+   "plain_english": "Shankhapushpi and likewise a peacock's crest feather."
+  },
+  {
+   "verse": 783,
+   "rows": [
+    {
+     "surface": "pāṣāṇabhedakaḥ",
+     "gloss": "stone-breaker-plant",
+     "grounds": "ingredient name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "krishna-plant",
+     "grounds": "ingredient name; specific identity uncertain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaśipuṣpī",
+     "gloss": "moon-flower-plant",
+     "grounds": "ingredient name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rohiṇī",
+     "gloss": "rohini-plant",
+     "grounds": "ingredient name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named plants are enumerated in this part of the mixture?",
+   "premises": [
+    "Pashanabhedaka is listed",
+    "Krishna is listed",
+    "Shashipushpi and Rohini are listed"
+   ],
+   "inference": "Pashanabhedaka, Krishna, Shashipushpi, and Rohini are included.",
+   "uncertainties": [
+    "The exact botanical identity of kṛṣṇā is uncertain."
+   ],
+   "plain_english": "Pashanabhedaka, Krishna, Shashipushpi, and Rohini."
+  },
+  {
+   "verse": 784,
+   "rows": [
+    {
+     "surface": "indravallī",
+     "gloss": "indravalli",
+     "grounds": "ingredient name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhṛṅgībhir",
+     "gloss": "with-bhringi-plants",
+     "grounds": "instrumental plural ingredient",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ānṛpāḥ",
+     "gloss": "anripa-plants",
+     "grounds": "ingredient name; reading or identity uncertain",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which additional plants complete this segment of the ingredient enumeration?",
+   "premises": [
+    "Indravalli is listed",
+    "Bhringi plants are included",
+    "Anripa plants are included"
+   ],
+   "inference": "Indravalli, bhringi plants, and anripa plants are included.",
+   "uncertainties": [
+    "The form and identity of ānṛpāḥ are uncertain."
+   ],
+   "plain_english": "Indravalli, along with bhringi plants and anripa plants."
+  },
+  {
+   "verse": 785,
+   "rows": [
+    {
+     "surface": "śrīdevakanyākhyā",
+     "gloss": "called-shridevakanya",
+     "grounds": "compound of śrīdevakanyā and ākhya",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgatho",
+     "gloss": "in-due-part",
+     "grounds": "reading uncertain; may indicate portion or placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadramustakam",
+     "gloss": "bhadramustaka",
+     "grounds": "ingredient name",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which named substances are specified in this concluding ingredient phrase?",
+   "premises": [
+    "A substance called Shridevakanya is mentioned",
+    "Bhadramustaka is mentioned",
+    "The term bhāgatho qualifies the inclusion"
+   ],
+   "inference": "The substance called Shridevakanya and bhadramustaka are included as specified.",
+   "uncertainties": [
+    "The meaning and analysis of bhāgatho are uncertain."
+   ],
+   "plain_english": "The substance called Shridevakanya, in due part, and bhadramustaka."
+  },
+  {
+   "verse": 786,
+   "rows": [
+    {
+     "surface": "dugdhavṛkṣatvacāṃ",
+     "gloss": "of-milk-tree-barks",
+     "grounds": "compound of dugdha, vṛkṣa, tvac",
+     "morph": "compound"
+    },
+    {
+     "surface": "kvāthair",
+     "gloss": "with-decoctions",
+     "grounds": "instrumental plural indicating means",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "brahmabhūruktvagudbhavaiḥ",
+     "gloss": "arisen-from-brahmabhu-bark",
+     "grounds": "compound involving brahmabhū, ukta, tvac, udbhava",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which bark-derived decoctions are prescribed for use in the ritual preparation?",
+   "premises": [
+    "Decoctions of milk-tree barks are specified",
+    "Decoctions arisen from bark called brahmabhu are specified",
+    "Both are used as decoctions"
+   ],
+   "inference": "Decoctions of milk-tree barks and of bark called brahmabhu should be used.",
+   "uncertainties": [
+    "The exact identification of brahmabhū is uncertain."
+   ],
+   "plain_english": "With decoctions of milk-tree barks and those arising from the bark called brahmabhu."
+  },
+  {
+   "verse": 787,
+   "rows": [
+    {
+     "surface": "kvāthāditoyair",
+     "gloss": "with-decoction-and-other-waters",
+     "grounds": "compound of kvātha, ādi, toya",
+     "morph": "compound"
+    },
+    {
+     "surface": "āpūrya",
+     "gloss": "having-filled",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive √ā-pṝ"
+    },
+    {
+     "surface": "śaṅkhan",
+     "gloss": "conch",
+     "grounds": "object to be filled; form with sandhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative referring to the filled conch",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viloḍayet",
+     "gloss": "one-should-stir",
+     "grounds": "optative instruction for stirring",
+     "morph": "3.sg.optative-causative-active √vi-luḍ"
+    }
+   ],
+   "question": "What action must be performed after filling the conch with prepared waters?",
+   "premises": [
+    "The conch is filled with decoction and other waters",
+    "The filling is completed first",
+    "Stirring is prescribed in that conch"
+   ],
+   "inference": "After filling the conch with those waters, one should stir the contents in it.",
+   "uncertainties": [],
+   "plain_english": "Having filled the conch with decoction and other waters, one should stir the contents in it."
+  },
+  {
+   "verse": 788,
+   "rows": [
+    {
+     "surface": "candanāgurukarpūra",
+     "gloss": "sandalwood-agarwood-camphor",
+     "grounds": "compound listing fragrant substances",
+     "morph": "compound"
+    },
+    {
+     "surface": "rocanākuṅkumaṃ",
+     "gloss": "rocanā-and-saffron",
+     "grounds": "compound of rocanā and kuṅkuma",
+     "morph": "compound"
+    },
+    {
+     "surface": "madaḥ",
+     "gloss": "mada",
+     "grounds": "ingredient name; specific substance uncertain",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which fragrant and special substances are named in this ingredient grouping?",
+   "premises": [
+    "Sandalwood, agarwood, and camphor are listed together",
+    "Rocana and saffron are listed together",
+    "Mada is included"
+   ],
+   "inference": "The grouping includes sandalwood, agarwood, camphor, rocana, saffron, and mada.",
+   "uncertainties": [
+    "The exact identity of mada is uncertain."
+   ],
+   "plain_english": "Sandalwood, agarwood, camphor, rocana, saffron, and mada."
+  },
+  {
+   "verse": 789,
+   "rows": [
+    {
+     "surface": "jaṭāmāṃsī",
+     "gloss": "spikenard",
+     "grounds": "ingredient listed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavaṃ",
+     "gloss": "vaishnava",
+     "grounds": "qualifier indicating association with Vishnu tradition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the described set",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "past participle indicating traditional designation",
+     "morph": "n.nom.sg.past-passive-participle √ud-īr"
+    }
+   ],
+   "question": "How is the specified fragrance set identified in the Vaishnava classification?",
+   "premises": [
+    "Spikenard is included in the set",
+    "The set is labeled Vaishnava",
+    "This designation is declared"
+   ],
+   "inference": "That set including spikenard is declared to be Vaishnava.",
+   "uncertainties": [
+    "The full composition of 'that' set depends on adjacent verses."
+   ],
+   "plain_english": "That, including spikenard, is declared to be Vaishnava."
+  },
+  {
+   "verse": 790,
+   "rows": [
+    {
+     "surface": "śāktaṃ",
+     "gloss": "shakta",
+     "grounds": "qualifier indicating association with Shakti tradition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandhāṣṭakaṃ",
+     "gloss": "eight-fragrances",
+     "grounds": "compound of gandha and aṣṭaka",
+     "morph": "compound"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "verb reporting traditional knowledge",
+     "morph": "3.pl.perfect-active √vid"
+    }
+   ],
+   "question": "What traditional designation is given to the eight-fragrance set in Shakta usage?",
+   "premises": [
+    "An eight-fragrance set is recognized",
+    "It is designated as Shakta",
+    "This is known by authorities"
+   ],
+   "inference": "The eight-fragrance set is known as the Shakta set.",
+   "uncertainties": [],
+   "plain_english": "They know it as the Shakta set of eight fragrances."
+  },
+  {
+   "verse": 791,
+   "rows": [
+    {
+     "surface": "tagarāgurukarpūraiḥ",
+     "gloss": "with-tagara-agarwood-camphor",
+     "grounds": "compound instrumental listing ingredients",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāmbhavaṃ",
+     "gloss": "shambhava",
+     "grounds": "qualifier indicating association with Shiva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭagandhakam",
+     "gloss": "eight-fragrances",
+     "grounds": "compound of aṣṭa and gandhaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which ingredients define the Shambhava set of eight fragrances?",
+   "premises": [
+    "Tagara, agarwood, and camphor are specified",
+    "The set is designated Shambhava",
+    "It is an eight-fragrance set"
+   ],
+   "inference": "The Shambhava eight-fragrance set includes tagara, agarwood, and camphor.",
+   "uncertainties": [
+    "Only three ingredients are named here; the full set of eight is not fully listed."
+   ],
+   "plain_english": "With tagara, agarwood, and camphor, the Shambhava set of eight fragrances."
+  },
+  {
+   "verse": 792,
+   "rows": [
+    {
+     "surface": "tagarāgurukarpūraiḥ",
+     "gloss": "with-tagara-agarwood-camphor",
+     "grounds": "compound instrumental listing ingredients",
+     "morph": "compound"
+    },
+    {
+     "surface": "sauraṃ",
+     "gloss": "saura",
+     "grounds": "qualifier indicating association with the sun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandhāṣṭakaṃ",
+     "gloss": "eight-fragrances",
+     "grounds": "compound of gandha and aṣṭaka",
+     "morph": "compound"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "verb reporting traditional knowledge",
+     "morph": "3.pl.perfect-active √vid"
+    }
+   ],
+   "question": "What traditional designation applies to the eight-fragrance set in Saura usage?",
+   "premises": [
+    "Tagara, agarwood, and camphor are specified",
+    "The set is designated Saura",
+    "This is known by authorities"
+   ],
+   "inference": "The eight-fragrance set with these ingredients is known as the Saura set.",
+   "uncertainties": [
+    "Only three ingredients are named here; the full set of eight is not fully listed."
+   ],
+   "plain_english": "They know the set with tagara, agarwood, and camphor as the Saura set of eight fragrances."
+  },
+  {
+   "verse": 793,
+   "rows": [
+    {
+     "surface": "madābhyāñ",
+     "gloss": "with-two-madas",
+     "grounds": "instrumental dual of mada with sandhi",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāridena",
+     "gloss": "with-water-giver",
+     "grounds": "compound or epithet; meaning uncertain",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patrajam",
+     "gloss": "leaf-born",
+     "grounds": "compound indicating substance born from leaves",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which additional substances are combined in this part of the preparation?",
+   "premises": [
+    "Two madas are included",
+    "Something described as vārida is included",
+    "A leaf-born substance is included"
+   ],
+   "inference": "Two madas, vārida, and a leaf-born substance are combined.",
+   "uncertainties": [
+    "The exact identities of mada and vārida are uncertain."
+   ],
+   "plain_english": "With two madas, with vārida, and with a leaf-born substance."
+  },
+  {
+   "verse": 794,
+   "rows": [
+    {
+     "surface": "saśaktikañ",
+     "gloss": "with-shakti",
+     "grounds": "compound of sa and śaktika with sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "substance placed in the pot",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "locative indicating container",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescribed state",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidur",
+     "gloss": "they-know",
+     "grounds": "verb reporting traditional knowledge",
+     "morph": "3.pl.perfect-active √vid"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "the-wise",
+     "grounds": "subject as knowledgeable authorities",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What arrangement of water in the pot is affirmed by the wise authorities?",
+   "premises": [
+    "Water is to be in the pot",
+    "The water is accompanied by shakti",
+    "The wise know this arrangement thus"
+   ],
+   "inference": "The wise affirm that water with shakti should be in the pot.",
+   "uncertainties": [
+    "The ritual sense of śaktika here is context-dependent."
+   ],
+   "plain_english": "Thus the wise know that water accompanied by shakti should be in the pot."
+  },
+  {
+   "verse": 795,
+   "rows": [
+    {
+     "surface": "dhūmrā",
+     "gloss": "dhumra",
+     "grounds": "name in a list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "marīcir",
+     "gloss": "marici",
+     "grounds": "name in a list with sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jvālinī",
+     "gloss": "jvalini",
+     "grounds": "name in a list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ruciḥ",
+     "gloss": "ruci",
+     "grounds": "name in a list",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named entities begin the enumeration presented in this sequence?",
+   "premises": [
+    "Dhumra is named",
+    "Marici is named",
+    "Jvalini and Ruci are named"
+   ],
+   "inference": "The sequence begins with Dhumra, Marici, Jvalini, and Ruci.",
+   "uncertainties": [],
+   "plain_english": "Dhumra, Marici, Jvalini, and Ruci."
+  },
+  {
+   "verse": 796,
+   "rows": [
+    {
+     "surface": "kalāṣoḍaśakañ",
+     "gloss": "sixteen-kalas-group",
+     "grounds": "compound of kalā and ṣoḍaśaka with sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āndraṃ",
+     "gloss": "lunar",
+     "grounds": "qualifier related to the moon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative instruction for worship",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurūttamaḥ",
+     "gloss": "best-of-gurus",
+     "grounds": "compound of guru and uttama",
+     "morph": "compound"
+    }
+   ],
+   "question": "What lunar group must the foremost guru worship after the preceding rites?",
+   "premises": [
+    "A group of sixteen kalas is specified",
+    "This group is lunar",
+    "The foremost guru should worship it afterwards"
+   ],
+   "inference": "Afterwards, the foremost guru should worship the lunar group of sixteen kalas.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, the best of gurus should worship the lunar group of sixteen kalas."
+  },
+  {
+   "verse": 797,
+   "rows": [
+    {
+     "surface": "śaśinī",
+     "gloss": "shashini",
+     "grounds": "name in a list of kalas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "candrikā",
+     "gloss": "candrika",
+     "grounds": "name in a list of kalas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntir",
+     "gloss": "kanti",
+     "grounds": "name in a list of kalas with sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyotsnā",
+     "gloss": "jyotsna",
+     "grounds": "name in a list of kalas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śīḥ",
+     "gloss": "shri",
+     "grounds": "name in a list of kalas; form may reflect sandhi or variant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prītir",
+     "gloss": "priti",
+     "grounds": "name in a list of kalas with sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṃgadā",
+     "gloss": "angada",
+     "grounds": "name in a list of kalas",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named kalas are enumerated in this portion of the lunar series?",
+   "premises": [
+    "Shashini and Candrika are named",
+    "Kanti, Jyotsna, Shri, Priti, and Angada are named",
+    "These form part of the enumerated kalas"
+   ],
+   "inference": "This portion enumerates Shashini, Candrika, Kanti, Jyotsna, Shri, Priti, and Angada.",
+   "uncertainties": [
+    "The form śīḥ is unusual and may be a variant of śrīḥ."
+   ],
+   "plain_english": "Shashini, Candrika, Kanti, Jyotsna, Shri, Priti, and Angada."
+  },
+  {
+   "verse": 798,
+   "rows": [
+    {
+     "surface": "vedādibhede",
+     "gloss": "in-division-beginning-with-veda",
+     "grounds": "compound of veda, ādi, bheda",
+     "morph": "compound"
+    },
+    {
+     "surface": "sañjātāḥ",
+     "gloss": "arisen",
+     "grounds": "past participle indicating origin",
+     "morph": "f.nom.pl.past-passive-participle √sam-jan"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "subject of arising",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañcāśabinduyuk",
+     "gloss": "joined-with-fifty-bindu",
+     "grounds": "compound of pañcāśa, bindu, yuj",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the kalas characterized in relation to Vedic divisions and fifty bindus?",
+   "premises": [
+    "The kalas arise in divisions beginning with the Veda",
+    "The kalas are joined with fifty bindus",
+    "Both features characterize the same kalas"
+   ],
+   "inference": "The kalas arise in Vedic divisions and are joined with fifty bindus.",
+   "uncertainties": [
+    "The technical sense of pañcāśabinduyuk is context-dependent."
+   ],
+   "plain_english": "The kalas, arisen in divisions beginning with the Veda, are joined with fifty bindus."
+  },
+  {
+   "verse": 799,
+   "rows": [
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "pratishtha",
+     "grounds": "name in a list of kalas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidya",
+     "grounds": "name in a list of kalas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāntir",
+     "gloss": "shanti",
+     "grounds": "name in a list of kalas with sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṛddhiś",
+     "gloss": "prosperity",
+     "grounds": "name in a list of kalas with sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpikā",
+     "gloss": "dipika",
+     "grounds": "name in a list of kalas",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named kalas conclude this segment of the enumerated series?",
+   "premises": [
+    "Pratishtha and Vidya are named",
+    "Shanti and Riddhi are named",
+    "Dipika is named"
+   ],
+   "inference": "This segment concludes with Pratishtha, Vidya, Shanti, Riddhi, and Dipika.",
+   "uncertainties": [],
+   "plain_english": "Pratishtha, Vidya, Shanti, Riddhi, and Dipika."
+  }
+ ]
+}

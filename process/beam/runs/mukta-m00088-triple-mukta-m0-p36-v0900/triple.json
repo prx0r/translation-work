@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "vāhasriyaḥ",
+     "gloss": "thousand-vehicles",
+     "grounds": "legacy hint vehicle-thousand; compound/inflection not fully resolved",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "abhayavarodyata",
+     "gloss": "fearlessness-boon-granting",
+     "grounds": "legacy hint fearlessness-boon; fused adjective form",
+     "morph": "adj"
+    },
+    {
+     "surface": "pāṇipadmāḥ",
+     "gloss": "lotus-hands",
+     "grounds": "legacy hint lotus-hands; compound form",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which four goddesses possessing thousand vehicles, granting fearlessness, and lotus hands protect continuously?",
+   "premises": [
+    "four goddesses protect continuously",
+    "they possess thousand vehicles",
+    "they grant fearlessness and lotus hands"
+   ],
+   "inference": "the verse identifies the protectors by their distinctive attributes",
+   "uncertainties": [
+    "exact sandhi and compound segmentation remain unresolved",
+    "morphological gender and number are inferred from endings"
+   ],
+   "plain_english": "May the four goddesses with thousand vehicles, granting fearlessness, and lotus hands protect always."
+  }
+ ]
+}

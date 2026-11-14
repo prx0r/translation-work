@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "śāmbhavyākhyapādukāyāḥ",
+     "gloss": "shambhavi-named-footstool",
+     "grounds": "genitive singular feminine of the compound śāmbhavī-ākhyā-pādukā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śrīmedhāpādukānvitaḥ",
+     "gloss": "holy-intelligence-footstool-possessed",
+     "grounds": "nominative singular masculine adjective from anvita with compound śrī-medhā-pādukā",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which footstool-endowed practitioner is described as possessed of the holy intelligence footstool belonging to the śāmbhavī-named footstool?",
+   "premises": [
+    "śāmbhavī-named footstool appears in genitive case",
+    "practitioner is described as endowed with holy intelligence footstool",
+    "endowment connects the two named footstools"
+   ],
+   "inference": "The described subject possesses the śrīmedhā footstool associated with the śāmbhavī-named footstool.",
+   "uncertainties": [
+    "exact ritual referent of pādukā remains unclear"
+   ],
+   "plain_english": "He is endowed with the holy intelligence footstool of the footstool called Śāmbhavī."
+  }
+ ]
+}

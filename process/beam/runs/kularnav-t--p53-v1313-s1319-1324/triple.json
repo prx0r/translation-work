@@ -1,0 +1,257 @@
+{
+ "song": "kul-p53",
+ "items": [
+  {
+   "verse": 1319,
+   "rows": [
+    {
+     "surface": "nāśayanti",
+     "gloss": "destroy",
+     "grounds": "causative of naś",
+     "morph": "3.pl.act-pres, root nāśay"
+    },
+    {
+     "surface": "caturvedān",
+     "gloss": "four-vedas",
+     "grounds": "compound catur+veda",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "anācārāḥ",
+     "gloss": "non-practitioners",
+     "grounds": "privative ācāra",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "O-kula-lady",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who destroys the four Vedas among non-practitioners?",
+   "premises": [
+    "Non-practitioners destroy the four Vedas.",
+    "The address is to the kula lady."
+   ],
+   "inference": "Non-practitioners are condemned for destroying Vedic authority.",
+   "uncertainties": [
+    "Exact scope of anācāra is not specified."
+   ],
+   "plain_english": "Non-practitioners destroy the four Vedas, O lady of Kula."
+  },
+  {
+   "verse": 1320,
+   "rows": [
+    {
+     "surface": "samprāpnuvanti",
+     "gloss": "attain",
+     "grounds": "compound verb sam+prāp",
+     "morph": "3.pl.act-pres, root prāp"
+    },
+    {
+     "surface": "tiryaktvaṃ",
+     "gloss": "animal-state",
+     "grounds": "abstract noun from tiryak",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kaulikās",
+     "gloss": "kaulikas",
+     "grounds": "plural subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tadviparyayāt",
+     "gloss": "by-opposite",
+     "grounds": "ablative of opposition",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What state do kaulikas attain by the opposite?",
+   "premises": [
+    "Kaulikas attain animal-state.",
+    "The cause is the opposite conduct."
+   ],
+   "inference": "Reversed conduct leads kaulikas to animal existence.",
+   "uncertainties": [
+    "The exact opposite conduct is not named."
+   ],
+   "plain_english": "Kaulikas attain animal-state by the opposite."
+  },
+  {
+   "verse": 1321,
+   "rows": [
+    {
+     "surface": "ācārapālanāt",
+     "gloss": "by-conduct-observance",
+     "grounds": "ablative of cause",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ājñāsiddhirbhaviṣyati",
+     "gloss": "command-accomplishment",
+     "grounds": "fused sandhi of ājñāsiddhiḥ and bhaviṣyati",
+     "morph": "3.sg.act-fut, root bhū"
+    }
+   ],
+   "question": "What follows from observance of conduct?",
+   "premises": [
+    "Conduct observance is the cause.",
+    "Command accomplishment will truly occur."
+   ],
+   "inference": "Observing conduct brings true accomplishment of command.",
+   "uncertainties": [
+    "Whether ājñā means guru command or divine command is unclear."
+   ],
+   "plain_english": "Truly, by observance of conduct, command-accomplishment will occur."
+  },
+  {
+   "verse": 1322,
+   "rows": [
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kuladharmasya",
+     "gloss": "of-kula-dharma",
+     "grounds": "genitive of possession",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sadācāraḥ",
+     "gloss": "good-conduct",
+     "grounds": "compound sad+ācāra",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "O-kula-lady",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is the cause of kula-dharma?",
+   "premises": [
+    "Good conduct is the cause.",
+    "The cause belongs to kula-dharma."
+   ],
+   "inference": "Good conduct is declared the cause of kula-dharma.",
+   "uncertainties": [
+    "No further definition of good conduct is given."
+   ],
+   "plain_english": "Good conduct is the cause of kula-dharma, O lady of Kula."
+  },
+  {
+   "verse": 1323,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "root vid",
+     "morph": "3.sg.act-pres, root vid"
+    },
+    {
+     "surface": "samayī",
+     "gloss": "samayin",
+     "grounds": "agent noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt, root as"
+    },
+    {
+     "surface": "kaulikaścāpi",
+     "gloss": "kaulika-also",
+     "grounds": "fused sandhi of kaulikaḥ and cāpi",
+     "morph": "nom.sg.m (fused with cāpi)"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbhavi",
+     "gloss": "O-śāmbhavī",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who is both samayin and kaulika?",
+   "premises": [
+    "One who knows is samayin.",
+    "He is also kaulika."
+   ],
+   "inference": "Knowledge makes one both samayin and kaulika.",
+   "uncertainties": [
+    "The exact knowledge required is not specified."
+   ],
+   "plain_english": "He who knows is a samayin and also a kaulika, O Śāmbhavī."
+  },
+  {
+   "verse": 1324,
+   "rows": [
+    {
+     "surface": "dehapāte",
+     "gloss": "at-body-fall",
+     "grounds": "locative of time",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vimokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "abstract noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt, root as"
+    },
+    {
+     "surface": "samayācārapālanāt",
+     "gloss": "by-samaya-conduct-observance",
+     "grounds": "ablative of cause",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "When does liberation occur through samaya conduct?",
+   "premises": [
+    "Liberation occurs at body-fall.",
+    "The cause is samaya conduct observance."
+   ],
+   "inference": "Observing samaya conduct yields liberation at death.",
+   "uncertainties": [
+    "Whether liberation is immediate or post-mortem is not explicit."
+   ],
+   "plain_english": "At the fall of the body, liberation occurs through observance of samaya conduct."
+  }
+ ]
+}

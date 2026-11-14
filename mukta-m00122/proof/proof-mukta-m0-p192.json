@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p192",
+ "work": "mukta-m00122",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "56b40ef8a0e76feb",
+ "source_verses": 8,
+ "t1_verses": 8,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 47
+ },
+ "align": {
+  "min_ratio": 0.943,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "My portion is consciousness by nature, namely the Lord."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 59,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 8,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 8,
+   "l0": 47,
+   "argmap": 8,
+   "l2": 8,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "3638dd1b998a08f7d8d5c8e04318cf3872568ecec03164c6fc1fad7233c3c80e",
+  "l0": "6f30707508d8498aaafcbcb6c8cc66c468e52d2aa5c7b3de10f1d38b5e8d9742",
+  "argmap": "83856939d0b0cf04eba046ac638f51ff662a1b2db9e3d252f20c81fcc98567b1",
+  "l2": "66f10251b05cea7c6820b6e3022a0d228890ec3727be3cb8cfa321f07773f8f9",
+  "c1": "d2a619c1db9d97411e2fcb2cbed21354f99d6265b112c5fb303e7dd23147f5da"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "56b40ef8a0e76feb",
+  "t1": "mukta-m0-p192/data/mukta-m0-p192.t1.json",
+  "l0": "mukta-m0-p192/data/mukta-m0-p192.l0.json",
+  "l2": "mukta-m0-p192/data/mukta-m0-p192.l2.json",
+  "c1": "mukta-m0-p192/data/mukta-m0-p192.c1.json"
+ }
+}

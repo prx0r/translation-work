@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "therefore",
+     "grounds": "conclusive particle linking to prior statements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣaṇāt",
+     "gloss": "from-eating",
+     "grounds": "ablative of cause or source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpam",
+     "gloss": "sin",
+     "grounds": "subject of transfer",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃkramate",
+     "gloss": "passes-over",
+     "grounds": "verb of transmission",
+     "morph": "3.sg.pres.mid (sam-√kram)"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "genitive indicating recipients",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "By what means does sin transfer to men in the context of consuming these offerings?",
+   "premises": [
+    "The preceding verses specify grains appropriate for śrāddha offerings.",
+    "Eating is identified as the operative cause in this context.",
+    "Sin is described as passing over to men."
+   ],
+   "inference": "Therefore, through the act of eating in this context, sin transfers to men.",
+   "uncertainties": [
+    "The precise referent of 'atra' depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "Therefore, here indeed, sin passes over to men simply from eating."
+  }
+ ]
+}

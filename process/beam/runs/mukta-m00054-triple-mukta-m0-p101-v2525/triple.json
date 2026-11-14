@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "mahājale",
+     "gloss": "in-great-water",
+     "grounds": "locative of compound mahā-jala; place of danger",
+     "morph": "compound:mahā+jala;loc.sg.n"
+    },
+    {
+     "surface": "taḍāge",
+     "gloss": "in-pond",
+     "grounds": "locative indicating a body of water",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "first member of compound with madhye",
+     "morph": "compound:śatru+madhya;stem"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-midst",
+     "grounds": "locative expressing being among enemies",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvati",
+     "grounds": "goddess invoked as protector; subject carried from prior verses",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "In which aquatic and hostile settings does Sarasvatī grant protection to the devotee?",
+   "premises": [
+    "Sarasvatī is invoked as the protecting goddess.",
+    "Protection is sought in great water and in a pond.",
+    "Protection is sought in the midst of enemies."
+   ],
+   "inference": "Sarasvatī extends her protection to the devotee in perilous waters and among adversaries.",
+   "uncertainties": [
+    "The verb of protection is implicit, carried over from the preceding verses."
+   ],
+   "plain_english": "And in great water, in a pond, and in the midst of enemies, may Sarasvatī protect me."
+  }
+ ]
+}

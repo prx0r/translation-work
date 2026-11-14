@@ -1,0 +1,1201 @@
+{
+ "song": "mukta-m0-p513",
+ "items": [
+  {
+   "verse": 12801,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrti",
+     "gloss": "dakshinamurti",
+     "grounds": "name of the form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudrosya",
+     "gloss": "of-this-rudra",
+     "grounds": "refers to Rudra; sandhi in form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samudīritaḥ",
+     "gloss": "is-declared",
+     "grounds": "states identification",
+     "morph": "3.sg.pass.perf-part"
+    }
+   ],
+   "question": "Which deity is declared as the presiding form of this Rudra?",
+   "premises": [
+    "Dakshinamurti is named",
+    "Rudra is the referent",
+    "A deity is declared"
+   ],
+   "inference": "Dakshinamurti is declared the deity of this Rudra.",
+   "uncertainties": [
+    "Exact referent of this Rudra in wider context"
+   ],
+   "plain_english": "Dakshinamurti is declared to be the deity of this Rudra."
+  },
+  {
+   "verse": 12802,
+   "rows": [
+    {
+     "surface": "dṛk",
+     "gloss": "eye",
+     "grounds": "body location for placement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "ear",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāsikādvandve",
+     "gloss": "nose-pair",
+     "grounds": "pair of nostrils",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-generative-organ",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gude",
+     "gloss": "in-anus",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continues sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bodily locations are specified for the next placement sequence?",
+   "premises": [
+    "Eyes ears and nostrils are listed",
+    "Mouth generative organ and anus are listed",
+    "The sequence continues again"
+   ],
+   "inference": "The placement is to be made on these specified bodily locations.",
+   "uncertainties": [],
+   "plain_english": "Again, place on the eyes, ears, the pair of nostrils, the mouth, the generative organ, and the anus."
+  },
+  {
+   "verse": 12803,
+   "rows": [
+    {
+     "surface": "sṛṣṭinyāsaṃ",
+     "gloss": "creation-placement",
+     "grounds": "ritual placement of creation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal in sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhujayoḥ",
+     "gloss": "on-two-arms",
+     "grounds": "location for placement",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What third creation placement should be performed on the arms in order?",
+   "premises": [
+    "A creation placement is enjoined",
+    "It is the third in sequence",
+    "It is performed on the two arms"
+   ],
+   "inference": "One should then perform the third creation placement on the arms in order.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the third creation placement on the two arms in order."
+  },
+  {
+   "verse": 12804,
+   "rows": [
+    {
+     "surface": "sarvāṃgulīṣu",
+     "gloss": "on-all-fingers",
+     "grounds": "location for placement",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrument of placement",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervasion",
+     "grounds": "pervasive placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform",
+     "morph": "3.sg.act.opt √car"
+    }
+   ],
+   "question": "How should the pervasive placement be performed after placing on all fingers?",
+   "premises": [
+    "Placement is made on all fingers",
+    "The root mantra is used",
+    "A pervasive placement is enjoined"
+   ],
+   "inference": "After placing on all fingers with the root mantra, one should perform the pervasion.",
+   "uncertainties": [],
+   "plain_english": "Having placed on all the fingers with the root mantra, one should perform the pervasive placement."
+  },
+  {
+   "verse": 12805,
+   "rows": [
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "on-throat",
+     "grounds": "location for placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "qualifies arm root",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bāhumūle",
+     "gloss": "on-arm-root",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    },
+    {
+     "surface": "kakudi",
+     "gloss": "on-shoulder-top",
+     "grounds": "location for placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antare",
+     "gloss": "in-between",
+     "grounds": "intermediate location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which locations on the throat and shoulder region receive the placement?",
+   "premises": [
+    "The throat is specified",
+    "The right arm root is specified",
+    "The shoulder top and in-between are specified"
+   ],
+   "inference": "One should place on the throat, right arm root, shoulder top, and in-between.",
+   "uncertainties": [
+    "Exact point meant by in-between"
+   ],
+   "plain_english": "One should place on the throat, on the root of the right arm, on the shoulder top, and in between."
+  },
+  {
+   "verse": 12806,
+   "rows": [
+    {
+     "surface": "nāsā",
+     "gloss": "nose",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "mouth",
+     "grounds": "location in compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal placement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṇṭha",
+     "gloss": "throat",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hṛt",
+     "gloss": "heart",
+     "grounds": "middle member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nābhiṣu",
+     "gloss": "navel",
+     "grounds": "location in compound",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    }
+   ],
+   "question": "Where should the third placement be made among nose, mouth, throat, heart, and navel?",
+   "premises": [
+    "Nose and mouth are named",
+    "Throat heart and navel are named",
+    "A third placement is enjoined"
+   ],
+   "inference": "One should place the third on the nose, mouth, throat, heart, and navel.",
+   "uncertainties": [
+    "Compound grouping of locations"
+   ],
+   "plain_english": "One should place the third on the nose and mouth, and on the throat, heart, and navel."
+  },
+  {
+   "verse": 12807,
+   "rows": [
+    {
+     "surface": "kaṭe",
+     "gloss": "on-hip",
+     "grounds": "location for placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgadvitaye",
+     "gloss": "on-two-parts",
+     "grounds": "two divisions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal placement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-declare",
+     "grounds": "speaker announces",
+     "morph": "1.sg.act.pres √kath"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces next topic",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fourth placement is now declared for the hip and its two parts?",
+   "premises": [
+    "The hip is specified",
+    "Two parts are specified",
+    "A fourth placement is declared"
+   ],
+   "inference": "The speaker now declares the fourth placement on the hip and its two parts.",
+   "uncertainties": [
+    "Exact identity of the two parts"
+   ],
+   "plain_english": "Now I declare the fourth placement on the hip and on its two parts."
+  },
+  {
+   "verse": 12808,
+   "rows": [
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "ordinal syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvitīyārṇaṃ",
+     "gloss": "second-syllable",
+     "grounds": "second syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    }
+   ],
+   "question": "In what order should the first and second syllables be placed?",
+   "premises": [
+    "The first syllable is to be placed",
+    "The second syllable is named",
+    "Placement follows in sequence"
+   ],
+   "inference": "One should place the first syllable and then place the second syllable.",
+   "uncertainties": [],
+   "plain_english": "One should place the first syllable, and then place the second syllable."
+  },
+  {
+   "verse": 12809,
+   "rows": [
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃgulīnāṃ",
+     "gloss": "of-fingers",
+     "grounds": "possessor of joints",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "sandhiṣu",
+     "gloss": "on-joints",
+     "grounds": "location for placement",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "Where should the third syllable be placed on the fingers?",
+   "premises": [
+    "A third syllable is specified",
+    "Finger joints are specified",
+    "Placement is enjoined"
+   ],
+   "inference": "One should place the third syllable on the joints of the fingers.",
+   "uncertainties": [],
+   "plain_english": "And one should place the third syllable on the joints of the fingers."
+  },
+  {
+   "verse": 12810,
+   "rows": [
+    {
+     "surface": "kaniṣṭhādyaṃgulīnāṃ",
+     "gloss": "beginning-with-little-finger",
+     "grounds": "fingers starting from little finger",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    },
+    {
+     "surface": "sandhitrike",
+     "gloss": "in-three-joints",
+     "grounds": "three joints",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "trike",
+     "gloss": "in-three",
+     "grounds": "threefold grouping",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should placement proceed on the three joints of fingers beginning with the little finger?",
+   "premises": [
+    "Fingers begin with the little finger",
+    "Three joints are specified",
+    "A threefold grouping is indicated"
+   ],
+   "inference": "One should place on the three joints in threes, beginning with the little finger.",
+   "uncertainties": [
+    "Exact distribution implied by trike"
+   ],
+   "plain_english": "And one should place on the three joints of the fingers, beginning with the little finger, in sets of three."
+  },
+  {
+   "verse": 12811,
+   "rows": [
+    {
+     "surface": "vāmapādatale",
+     "gloss": "on-left-foot-sole",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dakṣiṇapārśvayoḥ",
+     "gloss": "right-sides",
+     "grounds": "left and right sides",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "Which locations on the left foot and sides are designated for placement?",
+   "premises": [
+    "The left foot sole is specified",
+    "The back is specified",
+    "The left and right sides are specified"
+   ],
+   "inference": "Placement is designated on the left foot sole, the back, and the left and right sides.",
+   "uncertainties": [],
+   "plain_english": "On the sole of the left foot, on the back, and on the left and right sides."
+  },
+  {
+   "verse": 12812,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues pattern",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇapāde",
+     "gloss": "on-right-foot",
+     "grounds": "location for placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arṇān",
+     "gloss": "syllables",
+     "grounds": "objects of placement",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "imān",
+     "gloss": "these",
+     "grounds": "refers to specified syllables",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    }
+   ],
+   "question": "How should these syllables be placed on the right foot in sequence?",
+   "premises": [
+    "The right foot is specified",
+    "These syllables are the objects",
+    "Sequential order is required"
+   ],
+   "inference": "One should likewise place these syllables on the right foot in order.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one should place these syllables on the right foot in order."
+  },
+  {
+   "verse": 12813,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "qualifies palm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karatale",
+     "gloss": "on-palm",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues pattern",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānuni",
+     "gloss": "on-knee",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "qualifies knee",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which left and right body locations are specified for this placement step?",
+   "premises": [
+    "The left palm and its back are specified",
+    "The right knee is specified",
+    "The pattern continues likewise"
+   ],
+   "inference": "Placement is specified on the left palm, its back, and the right knee.",
+   "uncertainties": [],
+   "plain_english": "On the left palm, on its back, and likewise on the right knee."
+  },
+  {
+   "verse": 12814,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇahaste",
+     "gloss": "on-right-hand",
+     "grounds": "location for placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthaḥ",
+     "gloss": "fourth",
+     "grounds": "ordinal placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "is-declared",
+     "grounds": "states completion of declaration",
+     "morph": "3.sg.pass.perf-part"
+    }
+   ],
+   "question": "How is the fourth placement completed on the right hand?",
+   "premises": [
+    "The procedure is summarized as thus",
+    "The right hand is specified",
+    "The fourth is declared"
+   ],
+   "inference": "Thus the fourth placement is declared on the right hand.",
+   "uncertainties": [],
+   "plain_english": "Thus the fourth placement is declared on the right hand as well."
+  },
+  {
+   "verse": 12815,
+   "rows": [
+    {
+     "surface": "stanābhyāṃ",
+     "gloss": "from-two-breasts",
+     "grounds": "location for placement",
+     "morph": "m.abl.du"
+    },
+    {
+     "surface": "hṛdayābhyāṃ",
+     "gloss": "from-two-hearts",
+     "grounds": "location for placement",
+     "morph": "n.abl.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tṛtīyakam",
+     "gloss": "third",
+     "grounds": "ordinal syllable",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should the third syllable be placed in relation to the breasts and hearts?",
+   "premises": [
+    "The two breasts are specified",
+    "The two hearts are specified",
+    "The third syllable is to be placed"
+   ],
+   "inference": "One should place the third syllable at the two breasts and the two hearts.",
+   "uncertainties": [
+    "Dual form hṛdayābhyāṃ is unusual in this context"
+   ],
+   "plain_english": "One should place the third syllable at the two breasts and at the two hearts."
+  },
+  {
+   "verse": 12816,
+   "rows": [
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ordinal element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmarandhre",
+     "gloss": "on-brahma-aperture",
+     "grounds": "crown aperture location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāso",
+     "gloss": "placement",
+     "grounds": "ritual placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "identifies placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal in sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "traditional designation",
+     "morph": "3.sg.pass.perf-part"
+    }
+   ],
+   "question": "What fifth placement is traditionally identified at the brahma aperture?",
+   "premises": [
+    "The ninth element is placed at the brahma aperture",
+    "This placement is named",
+    "It is remembered as the fifth"
+   ],
+   "inference": "This placement at the brahma aperture is remembered as the fifth.",
+   "uncertainties": [
+    "Relation between ninth element and fifth placement"
+   ],
+   "plain_english": "And placing the ninth at the brahma aperture, this is remembered as the fifth placement."
+  },
+  {
+   "verse": 12817,
+   "rows": [
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervasion",
+     "grounds": "pervasive placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitinyāsaṃ",
+     "gloss": "preservation-placement",
+     "grounds": "ritual placement of preservation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform",
+     "morph": "3.sg.act.opt √car"
+    }
+   ],
+   "question": "What placement should be performed after again doing the pervasive placement?",
+   "premises": [
+    "The pervasive placement is done again",
+    "A preservation placement is named",
+    "Performance is enjoined"
+   ],
+   "inference": "After again performing the pervasion, one should perform the preservation placement.",
+   "uncertainties": [],
+   "plain_english": "Having again performed the pervasive placement, one should perform the preservation placement."
+  },
+  {
+   "verse": 12818,
+   "rows": [
+    {
+     "surface": "mūrddhā",
+     "gloss": "head",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āsya",
+     "gloss": "face",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hṛd",
+     "gloss": "heart",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "guhya",
+     "gloss": "secret-place",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāde",
+     "gloss": "feet",
+     "grounds": "location in compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "refers to previously mentioned elements",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to place",
+     "morph": "3.sg.act.opt √nyas"
+    }
+   ],
+   "question": "On which body parts should those same elements be placed again?",
+   "premises": [
+    "Head face heart secret place and feet are named",
+    "The same elements are referred to",
+    "Placement is to be done again"
+   ],
+   "inference": "One should again place those same elements on the head, face, heart, secret place, and feet.",
+   "uncertainties": [],
+   "plain_english": "Again one should place those very elements on the head, face, heart, secret place, and feet."
+  },
+  {
+   "verse": 12819,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munyādikaṃ",
+     "gloss": "beginning-with-muni",
+     "grounds": "sequence starting with muni",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "six-part ritual placement",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform",
+     "morph": "3.sg.act.opt √car"
+    }
+   ],
+   "question": "What should be performed after again placing the sequence beginning with the muni?",
+   "premises": [
+    "The sequence beginning with muni is placed again",
+    "The six limbs are named",
+    "Performance is enjoined"
+   ],
+   "inference": "After again placing the sequence beginning with the muni, one should perform the six-limb placement.",
+   "uncertainties": [
+    "Exact referent of munyādikaṃ"
+   ],
+   "plain_english": "Having again placed the sequence beginning with the muni, one should then perform the six-limb placement."
+  },
+  {
+   "verse": 12820,
+   "rows": [
+    {
+     "surface": "śatayojana",
+     "gloss": "hundred-yojana",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kocchrāyaṃ",
+     "gloss": "height",
+     "grounds": "measure of height",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcasaptati",
+     "gloss": "seventy-five",
+     "grounds": "measure of width",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "wide",
+     "grounds": "extent of width",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What are the height and width dimensions of the envisioned pavilion?",
+   "premises": [
+    "A height of a hundred yojanas is stated",
+    "A width of seventy-five is stated",
+    "These describe an extent"
+   ],
+   "inference": "The pavilion is a hundred yojanas high and seventy-five wide.",
+   "uncertainties": [
+    "Unit implied with seventy-five"
+   ],
+   "plain_english": "A hundred yojanas high and seventy-five wide."
+  },
+  {
+   "verse": 12821,
+   "rows": [
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "structure being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ruciraṃ",
+     "gloss": "beautiful",
+     "grounds": "quality of pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "continues description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrastambha",
+     "gloss": "thousand-pillar",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "possessing pillars",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kind of pavilion is envisioned with a thousand pillars?",
+   "premises": [
+    "A pavilion is described",
+    "It is beautiful",
+    "It is endowed with a thousand pillars"
+   ],
+   "inference": "The envisioned pavilion is beautiful and endowed with a thousand pillars.",
+   "uncertainties": [],
+   "plain_english": "A beautiful pavilion, likewise endowed with a thousand pillars."
+  },
+  {
+   "verse": 12822,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location in pavilion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsīnaṃ",
+     "gloss": "seated",
+     "grounds": "posture of deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahādevaṃ",
+     "gloss": "great-god",
+     "grounds": "deity present",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇāmūrttivigraham",
+     "gloss": "dakshinamurti-form",
+     "grounds": "form of the great god",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who is envisioned seated there in the form of Dakshinamurti?",
+   "premises": [
+    "A location there is specified",
+    "The great god is seated",
+    "He has the form of Dakshinamurti"
+   ],
+   "inference": "The great god in the form of Dakshinamurti is envisioned seated there.",
+   "uncertainties": [],
+   "plain_english": "There, seated, is the great god in the form of Dakshinamurti."
+  },
+  {
+   "verse": 12823,
+   "rows": [
+    {
+     "surface": "vyāghracarmma",
+     "gloss": "tiger-skin",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dharaṃ",
+     "gloss": "wearing",
+     "grounds": "bearing tiger skin",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "quality of deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jaṭāmukuṭa",
+     "gloss": "matted-hair-crown",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maṇḍitam",
+     "gloss": "adorned",
+     "grounds": "adorned with matted crown",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What attributes characterize the peaceful Dakshinamurti form being visualized?",
+   "premises": [
+    "He wears a tiger skin",
+    "He is peaceful",
+    "He is adorned with a crown of matted hair"
+   ],
+   "inference": "The visualized form is peaceful, wearing a tiger skin and adorned with a matted-hair crown.",
+   "uncertainties": [],
+   "plain_english": "Peaceful, wearing a tiger skin, and adorned with a crown of matted hair."
+  },
+  {
+   "verse": 12824,
+   "rows": [
+    {
+     "surface": "mudrā",
+     "gloss": "gesture",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paraśvadha",
+     "gloss": "axe",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mṛgān",
+     "gloss": "deer",
+     "grounds": "objects held",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bibhrāṇaṃ",
+     "gloss": "bearing",
+     "grounds": "holding attributes",
+     "morph": "m.acc.sg.pres-part √bhṛ"
+    },
+    {
+     "surface": "bāhubhis",
+     "gloss": "with-arms",
+     "grounds": "instrument of bearing",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "with-three",
+     "grounds": "number of arms",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What objects does the deity bear with three arms in this visualization?",
+   "premises": [
+    "A gesture axe and deer are named",
+    "They are borne by the deity",
+    "Three arms are specified"
+   ],
+   "inference": "The deity bears a gesture, an axe, and a deer with three arms.",
+   "uncertainties": [
+    "Specific gesture intended by mudrā"
+   ],
+   "plain_english": "Bearing a gesture, an axe, and a deer with three arms."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental demonstrative referring to the accompanying formula or mantra",
+     "morph": "pron.instr.sg"
+    },
+    {
+     "surface": "kṣetrapālāya",
+     "gloss": "to-Kṣetrapāla",
+     "grounds": "recipient deity of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition to the next directional offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "designated cardinal direction for this offering",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "To which deity and in which direction must the offering be presented with this formula?",
+   "premises": [
+    "The verse prescribes giving an offering with this formula.",
+    "Kṣetrapāla is named as the recipient of the offering.",
+    "The western direction is specified as the location for this offering."
+   ],
+   "inference": "Therefore, one should give the offering with this formula to Kṣetrapāla in the west.",
+   "uncertainties": [],
+   "plain_english": "Then, with this formula, one should give the offering to Kṣetrapāla in the west."
+  }
+ ]
+}

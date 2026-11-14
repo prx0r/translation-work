@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p505",
+ "items": [
+  {
+   "verse": 12625,
+   "rows": [
+    {
+     "surface": "prāk+vat",
+     "gloss": "as-before",
+     "grounds": "comparative compound indicating conformity with what was previously described",
+     "morph": "compound: prāk+vat (indecl.)"
+    },
+    {
+     "surface": "pūjā+ādikam",
+     "gloss": "worship-and-so-forth",
+     "grounds": "compound denoting worship together with related acts",
+     "morph": "compound: pūjā+ādikam n.acc.sg.nt"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "qualifies the full scope of the rite and its components",
+     "morph": "adj n.acc.sg.nt"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "names the preparatory ritual procedure being prescribed",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "declares the prescribed procedure",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "What scope of preliminary rite and worship is prescribed in the same manner as before?",
+   "premises": [
+    "The preliminary rite is the subject being prescribed.",
+    "Worship and related acts are included within that rite.",
+    "The entire procedure follows the previously described manner."
+   ],
+   "inference": "Therefore, the full preliminary rite, beginning with worship and related acts, is prescribed as before.",
+   "uncertainties": [],
+   "plain_english": "All the preliminary rite, beginning with worship and so forth, is prescribed as before."
+  }
+ ]
+}

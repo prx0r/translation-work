@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introductory particle marking transition to the next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātaḥ",
+     "gloss": "thus",
+     "grounds": "adverb indicating consequence from the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpravakṣyāmi",
+     "gloss": "will-declare",
+     "grounds": "first-person singular active future of saṃ-pra-vac, announcing forthcoming instruction",
+     "morph": "1.sg.act-fut + root pravac"
+    },
+    {
+     "surface": "śaktikūṭasya",
+     "gloss": "of-śaktikūṭa",
+     "grounds": "genitive singular of śaktikūṭa, the third mantra division",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "means",
+     "grounds": "accusative singular neuter, object of saṃpravakṣyāmi",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What practice or means for the śaktikūṭa division will now be declared?",
+   "premises": [
+    "The speaker transitions to a new topic.",
+    "The forthcoming declaration concerns śaktikūṭa.",
+    "The declared item is its sādhana."
+   ],
+   "inference": "The verse announces that the means of the śaktikūṭa mantra division will now be taught.",
+   "uncertainties": [
+    "ātaḥ may mean 'from this' rather than 'thus'.",
+    "The gender and number of śaktikūṭa are not explicit on the surface."
+   ],
+   "plain_english": "Now, thus, I will declare the means of the śaktikūṭa."
+  }
+ ]
+}

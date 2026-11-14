@@ -1,0 +1,927 @@
+{
+ "song": "mukta-m0-p294",
+ "items": [
+  {
+   "verse": 7326,
+   "rows": [
+    {
+     "surface": "coccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of ud-car; indicates prior utterance",
+     "morph": "gerund (ud-car)"
+    },
+    {
+     "surface": "klīṃsvāheti",
+     "gloss": "klīṃ-svāhā-thus",
+     "grounds": "mantra syllables klīṃ and svāhā with iti; bīja transliterated",
+     "morph": "indecl. compound+iti"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally known or declared",
+     "morph": "m.nom.sg past-participle (smṛ)"
+    }
+   ],
+   "question": "What mantra is constituted by uttering klīṃ followed by svāhā?",
+   "premises": [
+    "The syllables klīṃ and svāhā are uttered.",
+    "This utterance forms a specific formula.",
+    "That formula is traditionally known as a mantra."
+   ],
+   "inference": "Uttering klīṃ followed by svāhā constitutes the mantra in question.",
+   "uncertainties": [],
+   "plain_english": "Having uttered 'klīṃ svāhā', this is known as the mantra."
+  },
+  {
+   "verse": 7327,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescriptive meditation instruction",
+     "morph": "3.sg.optative active (dhyai)"
+    },
+    {
+     "surface": "navarasāṃ",
+     "gloss": "nine-essenced",
+     "grounds": "possessing the nine rasas",
+     "morph": "f.acc.sg compound navarasa+possessive"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "the deity to be visualized",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mṛgākṣīṃ",
+     "gloss": "deer-eyed",
+     "grounds": "having eyes like a deer",
+     "morph": "f.acc.sg compound mṛga+akṣī"
+    },
+    {
+     "surface": "brahma+saukhyadām",
+     "gloss": "brahman-bliss-giving",
+     "grounds": "bestower of the bliss of brahman",
+     "morph": "f.acc.sg compound brahma+saukhya+dā"
+    }
+   ],
+   "question": "What form of the goddess should be visualized in meditation with this mantra?",
+   "premises": [
+    "Meditation on the goddess is prescribed.",
+    "The goddess is described as nine-essenced and deer-eyed.",
+    "She is characterized as granting the bliss of brahman."
+   ],
+   "inference": "One should meditate on the deer-eyed, nine-essenced goddess who grants brahman-bliss.",
+   "uncertainties": [
+    "navarasāṃ may refer to nine aesthetic sentiments or nine essences"
+   ],
+   "plain_english": "One should meditate on the deer-eyed goddess, endowed with the nine rasas, who grants the bliss of Brahman."
+  },
+  {
+   "verse": 7328,
+   "rows": [
+    {
+     "surface": "madhu+puṣpaiḥ",
+     "gloss": "with-honey-flowers",
+     "grounds": "flowers associated with honey or sweet flowers",
+     "morph": "n.ins.pl compound madhu+puṣpa"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces an alternative or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative offering material is indicated for the ritual practice?",
+   "premises": [
+    "Honey-flowers are mentioned as a material.",
+    "Particles indicate alternatives or additions.",
+    "The verse specifies an option in ritual procedure."
+   ],
+   "inference": "Honey-flowers are presented as an alternative offering material.",
+   "uncertainties": [
+    "The verse is syntactically incomplete and may connect to adjacent verses"
+   ],
+   "plain_english": "Or also with honey-flowers."
+  },
+  {
+   "verse": 7329,
+   "rows": [
+    {
+     "surface": "sita+aṣṭamyām",
+     "gloss": "on-bright-eighth",
+     "grounds": "eighth day of the bright lunar fortnight",
+     "morph": "f.loc.sg compound sita+aṣṭamī"
+    },
+    {
+     "surface": "ekāṃte",
+     "gloss": "in-solitude",
+     "grounds": "a private place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirjane",
+     "gloss": "in-secluded-place",
+     "grounds": "a place free of people",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive recitation instruction",
+     "morph": "3.sg.optative active (jap)"
+    }
+   ],
+   "question": "When and where should the mantra recitation be performed?",
+   "premises": [
+    "The bright eighth lunar day is specified.",
+    "A solitary and secluded location is required.",
+    "Recitation of the mantra is prescribed."
+   ],
+   "inference": "One should recite the mantra on the bright eighth day in a solitary, secluded place.",
+   "uncertainties": [],
+   "plain_english": "One should recite the mantra on the eighth day of the bright fortnight, in a solitary and secluded place."
+  },
+  {
+   "verse": 7330,
+   "rows": [
+    {
+     "surface": "prākvat",
+     "gloss": "as-before",
+     "grounds": "following the previously stated method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "a count of one thousand",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive or potential sense",
+     "morph": "3.sg.optative active (as)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive recitation instruction",
+     "morph": "3.sg.optative active (jap)"
+    },
+    {
+     "surface": "nava+sahasrakam",
+     "gloss": "nine-thousand",
+     "grounds": "a count of nine thousand recitations",
+     "morph": "n.acc.sg compound nava+sahasraka"
+    }
+   ],
+   "question": "How many recitations of the mantra are prescribed in this procedure?",
+   "premises": [
+    "The procedure follows the previous method.",
+    "A thousand recitations are mentioned.",
+    "Nine thousand recitations are explicitly prescribed."
+   ],
+   "inference": "Following the prior method, one should perform nine thousand recitations.",
+   "uncertainties": [
+    "The relation between sahasraṃ and nava+sahasrakam is compressed and may indicate stages"
+   ],
+   "plain_english": "As before, there should be a thousand, and one should recite nine thousand times."
+  },
+  {
+   "verse": 7331,
+   "rows": [
+    {
+     "surface": "viṣāṇena",
+     "gloss": "with-horn",
+     "grounds": "using a horn as a vessel or instrument",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dakṣa+hastena",
+     "gloss": "with-right-hand",
+     "grounds": "held in the right hand",
+     "morph": "m.ins.sg compound dakṣa+hasta"
+    },
+    {
+     "surface": "sampiban",
+     "gloss": "drinking",
+     "grounds": "the act of drinking",
+     "morph": "m.nom.sg present-participle active (sam-pā)"
+    }
+   ],
+   "question": "How is the ritual drinking action to be performed by the practitioner?",
+   "premises": [
+    "Drinking is part of the ritual action.",
+    "A horn is used as the instrument.",
+    "The horn is held in the right hand."
+   ],
+   "inference": "The practitioner should drink using a horn held in the right hand.",
+   "uncertainties": [
+    "The substance being drunk is not specified in this verse"
+   ],
+   "plain_english": "Drinking with a horn held in the right hand."
+  },
+  {
+   "verse": 7332,
+   "rows": [
+    {
+     "surface": "yakṣo",
+     "gloss": "yakṣa",
+     "grounds": "a class of supernatural being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "latā+vṛkṣa+ādi",
+     "gloss": "creeper-tree-etc",
+     "grounds": "creepers, trees, and similar vegetation",
+     "morph": "n.acc.sg compound latā+vṛkṣa+ādi"
+    },
+    {
+     "surface": "gulmakān",
+     "gloss": "bushes",
+     "grounds": "shrubs or thickets",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What natural locations are associated with the yakṣa in this context?",
+   "premises": [
+    "A yakṣa is the subject.",
+    "Creepers, trees, and similar growth are mentioned.",
+    "Bushes are also specified."
+   ],
+   "inference": "The yakṣa is associated with creepers, trees, and bushes.",
+   "uncertainties": [
+    "The syntactic role of the accusatives depends on the following verse"
+   ],
+   "plain_english": "Indeed the yakṣa, among creepers, trees, and bushes."
+  },
+  {
+   "verse": 7333,
+   "rows": [
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "attainment or reaching",
+     "morph": "3.sg.optative active (pra-āp)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indicates consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mithyā+trāsa+ādibhiḥ",
+     "gloss": "by-false-fear-etc",
+     "grounds": "by false fears and similar disturbances",
+     "morph": "m.ins.pl compound mithyā+trāsa+ādi"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence follows when false fears and similar disturbances arise?",
+   "premises": [
+    "Attainment is indicated as possible.",
+    "False fears and similar factors are present.",
+    "A temporal consequence is marked by then and therefore."
+   ],
+   "inference": "One may then obtain the result despite or in relation to false fears and similar disturbances.",
+   "uncertainties": [
+    "The object of prāpnuyāt is not explicit in this verse",
+    "The logical connection across verses 7332-7334 is compressed"
+   ],
+   "plain_english": "One may obtain it; therefore, then, by false fears and the like."
+  },
+  {
+   "verse": 7334,
+   "rows": [
+    {
+     "surface": "yakṣe",
+     "gloss": "in-yakṣa",
+     "grounds": "in relation to the yakṣa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛkṣa+tale",
+     "gloss": "at-tree-base",
+     "grounds": "at the foot of a tree",
+     "morph": "n.loc.sg compound vṛkṣa+tala"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does the goddess manifest in relation to the yakṣa?",
+   "premises": [
+    "The yakṣa is the contextual locus.",
+    "The goddess is present.",
+    "The base of a tree is specified as the location."
+   ],
+   "inference": "The goddess is then present at the base of a tree in connection with the yakṣa.",
+   "uncertainties": [
+    "The verse is elliptical and depends on surrounding context for full sense"
+   ],
+   "plain_english": "Then, in connection with the yakṣa, the goddess is at the base of a tree."
+  },
+  {
+   "verse": 7335,
+   "rows": [
+    {
+     "surface": "vitasti+mātram",
+     "gloss": "span-measure",
+     "grounds": "the measure of a span",
+     "morph": "n.nom.sg compound vitasti+mātra"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "by that means or thereby",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "resultative or prescriptive",
+     "morph": "3.sg.optative active (as)"
+    },
+    {
+     "surface": "sarva+mohana+kārakaḥ",
+     "gloss": "all-enchanting-causing",
+     "grounds": "causing enchantment of all",
+     "morph": "m.nom.sg compound sarva+mohana+kāraka"
+    }
+   ],
+   "question": "What enchanting power results from the specified span-measure action?",
+   "premises": [
+    "A span-measure is involved.",
+    "A result is produced by that means.",
+    "The result is described as causing enchantment of all."
+   ],
+   "inference": "By that span-measure means, one becomes capable of enchanting all.",
+   "uncertainties": [
+    "The referent of vitasti+mātram is unclear without prior context"
+   ],
+   "plain_english": "By that, measuring a span, one becomes capable of enchanting all."
+  },
+  {
+   "verse": 7336,
+   "rows": [
+    {
+     "surface": "prayacchanti",
+     "gloss": "they-give",
+     "grounds": "act of giving or offering",
+     "morph": "3.pl.present active (pra-yam)"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kāma+vimohitāḥ",
+     "gloss": "by-desire-infatuated",
+     "grounds": "overpowered by desire",
+     "morph": "f.nom.pl compound kāma+vimohita"
+    }
+   ],
+   "question": "Why do beings give offerings to the practitioner in this ritual outcome?",
+   "premises": [
+    "Givers offer something to him.",
+    "The givers are infatuated by desire.",
+    "This follows the enchanting effect described previously."
+   ],
+   "inference": "Beings infatuated by desire give offerings to him.",
+   "uncertainties": [
+    "The gender and identity of the givers are not fully specified"
+   ],
+   "plain_english": "Infatuated by desire, they give to him."
+  },
+  {
+   "verse": 7337,
+   "rows": [
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "f.nom.sg past-participle (pra-vac)"
+    },
+    {
+     "surface": "maṃtro",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jina+mita+akṣaraḥ",
+     "gloss": "jina-measured-syllable",
+     "grounds": "having syllables measured by jina, i.e. twenty-four",
+     "morph": "m.nom.sg compound jina+mita+akṣara"
+    }
+   ],
+   "question": "What syllabic length characterizes the mantra being declared here?",
+   "premises": [
+    "A mantra is being declared.",
+    "Its syllables are measured by the term jina.",
+    "Traditional numerical symbolism associates jina with twenty-four."
+   ],
+   "inference": "The declared mantra consists of twenty-four syllables.",
+   "uncertainties": [
+    "jina+mita is interpreted as twenty-four by conventional numerical symbolism"
+   ],
+   "plain_english": "The mantra is declared to have syllables numbering twenty-four."
+  },
+  {
+   "verse": 7338,
+   "rows": [
+    {
+     "surface": "tuṃ",
+     "gloss": "tuṃ",
+     "grounds": "mantra syllable; bīja transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṃ",
+     "gloss": "ghaṃ",
+     "grounds": "mantra syllable; bīja transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃ",
+     "gloss": "maṃ",
+     "grounds": "mantra syllable; bīja transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahni+gehinīm",
+     "gloss": "fire-consort",
+     "grounds": "the consort of fire, i.e. svāhā",
+     "morph": "f.acc.sg compound vahni+gehinī"
+    }
+   ],
+   "question": "Which syllables and concluding element compose the declared mantra?",
+   "premises": [
+    "The syllables tuṃ, ghaṃ, and maṃ are given.",
+    "The consort of fire is named as a component.",
+    "These elements form the mantra's structure."
+   ],
+   "inference": "The mantra consists of tuṃ, ghaṃ, maṃ, and the fire-consort syllable svāhā.",
+   "uncertainties": [
+    "vahni+gehinīm is interpreted as svāhā by conventional mantra usage"
+   ],
+   "plain_english": "The mantra is: tuṃ, ghaṃ, maṃ, and svāhā, the consort of fire."
+  },
+  {
+   "verse": 7339,
+   "rows": [
+    {
+     "surface": "japā+kusuma+śoṇa+aṃgī",
+     "gloss": "hibiscus-flower-red-limbed",
+     "grounds": "having limbs red like the hibiscus flower",
+     "morph": "f.nom.sg compound japā+kusuma+śoṇa+aṅga"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-my",
+     "grounds": "speaker's possession",
+     "morph": "pronoun.gen.sg"
+    },
+    {
+     "surface": "cittasya",
+     "gloss": "of-mind",
+     "grounds": "the mind or thought",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mantharā",
+     "gloss": "churning",
+     "grounds": "agitating or stirring",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess visualized in relation to the practitioner's mind?",
+   "premises": [
+    "The goddess is described as red-limbed like a hibiscus flower.",
+    "The practitioner's mind is referenced.",
+    "She is characterized as churning or stirring that mind."
+   ],
+   "inference": "The red-limbed goddess is visualized as stirring the practitioner's mind.",
+   "uncertainties": [],
+   "plain_english": "Red-limbed like a hibiscus flower, she churns my mind."
+  },
+  {
+   "verse": 7340,
+   "rows": [
+    {
+     "surface": "racayitvā",
+     "gloss": "having-prepared",
+     "grounds": "after arranging or making",
+     "morph": "gerund (rac)"
+    },
+    {
+     "surface": "śubhaṃ",
+     "gloss": "auspicious",
+     "grounds": "favorable and pure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthalam",
+     "gloss": "place",
+     "grounds": "a ritual ground or site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "|| 90 ||",
+     "gloss": "90",
+     "grounds": "section or verse marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What preparatory action must be completed before the ritual procedure continues?",
+   "premises": [
+    "Preparation of a site is required.",
+    "The site must be auspicious.",
+    "This action precedes subsequent ritual steps."
+   ],
+   "inference": "One must first prepare an auspicious ritual place.",
+   "uncertainties": [],
+   "plain_english": "Having prepared an auspicious place. || 90 ||"
+  },
+  {
+   "verse": 7341,
+   "rows": [
+    {
+     "surface": "mallāri+ṣaṣṭhī+rātrau",
+     "gloss": "on-mallāri-sixth-night",
+     "grounds": "on the night of the sixth day associated with Mallāri",
+     "morph": "f.loc.sg compound mallāri+ṣaṣṭhī+rātri"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic or contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive recitation instruction",
+     "morph": "3.sg.optative active (jap)"
+    },
+    {
+     "surface": "some",
+     "gloss": "in-moon",
+     "grounds": "during the moon or on a lunar occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śata+dvayam",
+     "gloss": "two-hundred",
+     "grounds": "a count of two hundred",
+     "morph": "n.acc.sg compound śata+dvaya"
+    }
+   ],
+   "question": "What specific time and count are prescribed for this recitation?",
+   "premises": [
+    "The night of Mallāri-ṣaṣṭhī is specified.",
+    "A lunar timing is indicated.",
+    "Two hundred recitations are prescribed."
+   ],
+   "inference": "One should recite two hundred times on the night of Mallāri-ṣaṣṭhī under the moon.",
+   "uncertainties": [
+    "The exact interpretation of some in this ritual timing is uncertain"
+   ],
+   "plain_english": "But on the night of Mallāri-ṣaṣṭhī, under the moon, one should recite two hundred times."
+  },
+  {
+   "verse": 7342,
+   "rows": [
+    {
+     "surface": "madhu+pātraṃ",
+     "gloss": "honey-vessel",
+     "grounds": "a vessel containing honey",
+     "morph": "n.acc.sg compound madhu+pātra"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divya+mādhvīka+miśritam",
+     "gloss": "divine-honey-mixed",
+     "grounds": "mixed with divine honey or mead",
+     "morph": "n.acc.sg compound divya+mādhvīka+miśrita"
+    }
+   ],
+   "question": "What substance should be prepared in the vessel for the ritual offering?",
+   "premises": [
+    "A honey vessel is specified.",
+    "The contents are mixed with divine mādhvīka.",
+    "This preparation is emphasized."
+   ],
+   "inference": "A vessel of honey mixed with divine mādhvīka should be prepared.",
+   "uncertainties": [
+    "mādhvīka may refer to a specific honey-wine or sweet liquor"
+   ],
+   "plain_english": "Indeed, a vessel of honey mixed with divine mādhvīka."
+  },
+  {
+   "verse": 7343,
+   "rows": [
+    {
+     "surface": "spaṣṭayā",
+     "gloss": "clearly",
+     "grounds": "with clarity or distinctly",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive offering instruction",
+     "morph": "3.sg.optative active (dā)"
+    },
+    {
+     "surface": "pūjā+ante",
+     "gloss": "at-worship-end",
+     "grounds": "at the conclusion of worship",
+     "morph": "m.loc.sg compound pūjā+anta"
+    },
+    {
+     "surface": "yat+manaḥ+gatam",
+     "gloss": "whatever-in-mind-gone",
+     "grounds": "whatever has arisen in the mind",
+     "morph": "n.acc.sg compound yad+manas+gata"
+    }
+   ],
+   "question": "What should be offered clearly at the conclusion of worship?",
+   "premises": [
+    "An offering is prescribed at the end of worship.",
+    "The offering should be made clearly.",
+    "It relates to whatever has arisen in the mind."
+   ],
+   "inference": "At the end of worship, one should clearly offer whatever is in one's mind.",
+   "uncertainties": [
+    "The exact nature of the mental offering is context-dependent"
+   ],
+   "plain_english": "At the end of worship, one should clearly offer whatever has arisen in the mind."
+  },
+  {
+   "verse": 7344,
+   "rows": [
+    {
+     "surface": "sandeho",
+     "gloss": "doubt",
+     "grounds": "uncertainty or hesitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manorasya",
+     "gloss": "of-desire",
+     "grounds": "of the wish or desire",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prabhāvataḥ",
+     "gloss": "by-power",
+     "grounds": "due to the power or efficacy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What removes doubt regarding the fulfillment of desire in this practice?",
+   "premises": [
+    "Doubt concerning desire is addressed.",
+    "A power or efficacy is invoked as the cause.",
+    "The statement asserts resolution of that doubt."
+   ],
+   "inference": "By its power, there is no doubt regarding the fulfillment of desire.",
+   "uncertainties": [
+    "The verse is elliptical and likely negates doubt implicitly"
+   ],
+   "plain_english": "There is no doubt, by the power of the desire."
+  },
+  {
+   "verse": 7345,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "the aforementioned",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "the deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "madhu+pānaiḥ",
+     "gloss": "with-honey-drinks",
+     "grounds": "with offerings of honey drinks",
+     "morph": "n.ins.pl compound madhu+pāna"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive worship instruction",
+     "morph": "3.sg.optative active (pra-pūj)"
+    }
+   ],
+   "question": "How should the goddess be worshipped in this phase of the ritual?",
+   "premises": [
+    "The goddess is the object of worship.",
+    "Honey drinks are specified as offerings.",
+    "Worship is prescribed."
+   ],
+   "inference": "One should worship that goddess with honey drinks.",
+   "uncertainties": [],
+   "plain_english": "One should worship that goddess with honey drinks."
+  },
+  {
+   "verse": 7346,
+   "rows": [
+    {
+     "surface": "rasa+pañca+samīpe",
+     "gloss": "near-rasa-five",
+     "grounds": "near the five rasas or fivefold essences",
+     "morph": "n.loc.sg compound rasa+pañca+samīpa"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic or contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmi+pūjāṃ",
+     "gloss": "earth-worship",
+     "grounds": "worship of the ground or earth",
+     "morph": "f.acc.sg compound bhūmi+pūjā"
+    },
+    {
+     "surface": "viṣetaḥ",
+     "gloss": "one-should-perform",
+     "grounds": "one should undertake or enter into",
+     "morph": "3.sg.optative active (vi-ṣi?)"
+    }
+   ],
+   "question": "What worship should be performed in proximity to the five rasas?",
+   "premises": [
+    "A location near the five rasas is indicated.",
+    "Earth-worship is specified.",
+    "The action is prescribed."
+   ],
+   "inference": "One should perform earth-worship near the five rasas.",
+   "uncertainties": [
+    "rasa+pañca may refer to five ritual substances or essences",
+    "viṣetaḥ is an unusual form; interpreted as prescriptive performance"
+   ],
+   "plain_english": "But near the five rasas, one should perform the worship of the earth."
+  },
+  {
+   "verse": 7347,
+   "rows": [
+    {
+     "surface": "kuṃkumaiḥ",
+     "gloss": "with-saffron",
+     "grounds": "using saffron powder",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca+ādi+sindūrai",
+     "gloss": "and-with-etc-vermilion",
+     "grounds": "and with vermilion and similar substances",
+     "morph": "n.ins.pl compound ca+ādi+sindūra"
+    },
+    {
+     "surface": "rakta+candana+vandanaiḥ",
+     "gloss": "with-red-sandal-salutations",
+     "grounds": "with red sandalwood and acts of reverence",
+     "morph": "n.ins.pl compound rakta+candana+vandana"
+    }
+   ],
+   "question": "Which substances are used to perform the prescribed worship?",
+   "premises": [
+    "Saffron is specified as a worship material.",
+    "Vermilion and similar substances are included.",
+    "Red sandalwood and reverential offerings are used."
+   ],
+   "inference": "The worship should be performed with saffron, vermilion and similar substances, and red sandalwood offerings.",
+   "uncertainties": [
+    "vandanaiḥ may mean salutations or offerings; interpreted in ritual context"
+   ],
+   "plain_english": "With saffron, with vermilion and the like, and with red sandalwood and reverential offerings."
+  },
+  {
+   "verse": 7348,
+   "rows": [
+    {
+     "surface": "tāvadbhiḥ",
+     "gloss": "with-that-many",
+     "grounds": "with as many items as specified",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "paripūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive thorough worship instruction",
+     "morph": "3.sg.optative active (pari-pūj)"
+    }
+   ],
+   "question": "In what quantity should the worship materials be employed?",
+   "premises": [
+    "A quantity corresponding to prior specification is indicated.",
+    "Thorough worship is prescribed.",
+    "The materials named earlier are to be used accordingly."
+   ],
+   "inference": "One should perform thorough worship with that many of the specified materials.",
+   "uncertainties": [
+    "The exact number referred to by tāvadbhiḥ depends on prior context"
+   ],
+   "plain_english": "One should worship thoroughly with that many."
+  },
+  {
+   "verse": 7349,
+   "rows": [
+    {
+     "surface": "bhagavate",
+     "gloss": "to-bhagavat",
+     "grounds": "to the revered lord",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "at the beginning or beforehand",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅe+anta+tat+nāma",
+     "gloss": "ṅe-ending-that-name",
+     "grounds": "that name ending in ṅe",
+     "morph": "n.acc.sg compound ṅe+anta+tad+nāman"
+    },
+    {
+     "surface": "coccaret",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive utterance instruction",
+     "morph": "3.sg.optative active (ud-car)"
+    }
+   ],
+   "question": "What name-form should be uttered first in addressing the Bhagavat?",
+   "premises": [
+    "Utterance is prescribed as a first step.",
+    "The address is directed to Bhagavat.",
+    "The name to be uttered ends in ṅe."
+   ],
+   "inference": "One should first utter that name ending in ṅe to Bhagavat.",
+   "uncertainties": [
+    "The specific name ending in ṅe is not fully explicit in this verse"
+   ],
+   "plain_english": "First, one should utter to Bhagavat that name ending in ṅe."
+  }
+ ]
+}

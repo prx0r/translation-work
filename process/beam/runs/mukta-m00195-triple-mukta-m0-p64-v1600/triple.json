@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "mūla+mantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental compound indicating the mantra used for the action",
+     "morph": "compound+inst.sg.m"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "object placed in the ritual act",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "gerund expressing the act completed before the next step",
+     "morph": "gerund(ni-√as)"
+    },
+    {
+     "surface": "śara+aṇunā",
+     "gloss": "with-arrow-mantra",
+     "grounds": "instrumental compound indicating the accompanying mantra",
+     "morph": "compound+inst.sg.m"
+    }
+   ],
+   "question": "Which mantras govern the placement of the flower after life-force installation?",
+   "premises": [
+    "The practitioner has completed the installation of life-force at the end of worship.",
+    "The root mantra is specified as the means for the ritual action.",
+    "The arrow-mantra accompanies the placement of the flower."
+   ],
+   "inference": "After installing life-force, the practitioner places the flower using the root mantra together with the arrow-mantra.",
+   "uncertainties": [
+    "The precise identity of the mantra designated as śara+aṇu depends on the specific Śrīvidyā tradition."
+   ],
+   "plain_english": "With the root mantra, the practitioner places the flower while using the arrow-mantra."
+  }
+ ]
+}

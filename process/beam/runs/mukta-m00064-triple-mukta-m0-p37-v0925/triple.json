@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the previously described situation",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating the state described in the preceding verse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūpam",
+     "gloss": "king",
+     "grounds": "object of the gerund ālokya; refers to King Sagara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ālokya",
+     "gloss": "having-seen",
+     "grounds": "absolutive expressing prior action of Vasiṣṭha",
+     "morph": "abs.(ā-lok)"
+    },
+    {
+     "surface": "vaśiṣṭhaḥ",
+     "gloss": "Vaśiṣṭha",
+     "grounds": "subject of the clause; the sage addressed for refuge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmasambhavaḥ",
+     "gloss": "Brahmā-born",
+     "grounds": "epithet of Vaśiṣṭha; compound brahma+sambhava",
+     "morph": "m.nom.sg, compound: brahma+born"
+    }
+   ],
+   "question": "How did Brahmā-born Vaśiṣṭha perceive King Sagara in that dire condition?",
+   "premises": [
+    "King Sagara was previously described as swooning with sword raised.",
+    "Vaśiṣṭha is identified as born from Brahmā.",
+    "Vaśiṣṭha observed the king in that specific state."
+   ],
+   "inference": "Brahmā-born Vaśiṣṭha beheld King Sagara in that condition.",
+   "uncertainties": [],
+   "plain_english": "Seeing the king in that condition, Vaśiṣṭha, born of Brahmā, [beheld him]."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverbial indicating the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛttatrayaṃ",
+     "gloss": "three-circles",
+     "grounds": "accusative object of kuryāt",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt-kṛ"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the center",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśatirekhayā",
+     "gloss": "with-twenty-lines",
+     "grounds": "instrumental means of drawing",
+     "morph": "instr.sg.f"
+    }
+   ],
+   "question": "What geometric construction should be made in the middle of the yantra?",
+   "premises": [
+    "Three circles should be made in the middle.",
+    "Twenty lines should be used there.",
+    "The construction occurs in the yantra's center."
+   ],
+   "inference": "The verse prescribes three circles drawn with twenty lines in the center.",
+   "uncertainties": [
+    "Exact referent of tatra is not explicit in this verse."
+   ],
+   "plain_english": "In the middle, one should make three circles there with twenty lines."
+  }
+ ]
+}

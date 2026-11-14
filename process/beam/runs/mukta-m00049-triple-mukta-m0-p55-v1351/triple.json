@@ -1,0 +1,1279 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "niyama",
+     "gloss": "with-rule",
+     "grounds": "first member of compound with aniyamena",
+     "morph": "compound:niyama+first"
+    },
+    {
+     "surface": "aniyamena",
+     "gloss": "and-without-rule",
+     "grounds": "instrumental expressing manner; compound with niyama",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japann",
+     "gloss": "chanting",
+     "grounds": "present participle describing the practitioner",
+     "morph": "m.nom.sg.pres-part(jap)"
+    },
+    {
+     "surface": "ādyāṃ",
+     "gloss": "the-primordial-goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prasādayet",
+     "gloss": "one-should-propitiate",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act-opt(pra-sad)"
+    }
+   ],
+   "question": "Can chanting with or without fixed rules propitiate the primordial goddess?",
+   "premises": [
+    "Chanting may follow rules",
+    "Chanting may lack rules",
+    "Propitiation remains possible"
+   ],
+   "inference": "The primordial goddess can be propitiated by chanting regardless of observance of fixed rules.",
+   "uncertainties": [],
+   "plain_english": "Even by chanting with or without fixed rules, one should propitiate the primordial goddess."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "brahmajñāna",
+     "gloss": "with-brahman-knowledge",
+     "grounds": "first member of compound with yuto",
+     "morph": "compound:brahmajñāna+first"
+    },
+    {
+     "surface": "yuto",
+     "gloss": "endowed",
+     "grounds": "past participle qualifying mortal",
+     "morph": "m.nom.sg.past-part(yuj)"
+    },
+    {
+     "surface": "martyo",
+     "gloss": "mortal",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvanmukto",
+     "gloss": "liberated-while-living",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does possession of brahman-knowledge make a mortal liberated while living?",
+   "premises": [
+    "A mortal possesses brahman-knowledge",
+    "Such possession yields living liberation",
+    "No doubt remains"
+   ],
+   "inference": "A mortal endowed with brahman-knowledge is liberated while living without doubt.",
+   "uncertainties": [],
+   "plain_english": "A mortal endowed with knowledge of Brahman is liberated while living; there is no doubt."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "ādyākālī",
+     "gloss": "of-primordial-kālī",
+     "grounds": "possessive relation to practice",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "beneficiaries of the practice",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sādhanaṃ",
+     "gloss": "practice",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sukhasādhanam",
+     "gloss": "easy-to-accomplish",
+     "grounds": "predicate describing the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How difficult is the practice of primordial Kālī for practitioners?",
+   "premises": [
+    "Primordial Kālī has a practice",
+    "Practitioners undertake this practice",
+    "The practice is easy"
+   ],
+   "inference": "The practice of primordial Kālī is easy for practitioners to accomplish.",
+   "uncertainties": [],
+   "plain_english": "For practitioners, the practice of primordial Kālī is easy to accomplish."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "citta",
+     "gloss": "mind",
+     "grounds": "first member of compound with saṃśuddhir",
+     "morph": "compound:citta+first"
+    },
+    {
+     "surface": "saṃśuddhir",
+     "gloss": "purification",
+     "grounds": "subject; sandhi r before e",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantriṇāṃ",
+     "gloss": "of-mantra-practitioners",
+     "grounds": "possessive relation to fruit",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "first member of compound with dāyinī",
+     "morph": "compound:phala+first"
+    },
+    {
+     "surface": "dāyinī",
+     "gloss": "giving",
+     "grounds": "predicate describing purification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fruit does this practice yield for mantra practitioners?",
+   "premises": [
+    "Mantra practitioners engage here",
+    "Mind purification occurs",
+    "Purification itself gives fruit"
+   ],
+   "inference": "In this practice, purification of mind itself is the fruit-giving result for mantra practitioners.",
+   "uncertainties": [],
+   "plain_english": "Here, for mantra practitioners, purification of the mind itself is what gives the fruit."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "temporal extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "object of performance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.mid-opt(pra-kṛ)"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member of compound with bhakti",
+     "morph": "compound:kula+first"
+    },
+    {
+     "surface": "bhakti",
+     "gloss": "devotion",
+     "grounds": "first member of compound with samanvitaḥ",
+     "morph": "compound:bhakti+first"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "endowed-with",
+     "grounds": "qualifies the practitioner",
+     "morph": "m.nom.sg.past-part(sam-anv-i)"
+    }
+   ],
+   "question": "How long should action be performed by one endowed with devotion to Kula?",
+   "premises": [
+    "A practitioner has Kula devotion",
+    "Action can be performed",
+    "Performance continues for a time"
+   ],
+   "inference": "One endowed with devotion to Kula should continue performing action for as long as appropriate.",
+   "uncertainties": [
+    "The limiting condition implied by tāvat is not explicitly stated in this verse."
+   ],
+   "plain_english": "One endowed with devotion to Kula should perform action for so long."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "temporal starting point",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be received",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guror",
+     "gloss": "from-guru",
+     "grounds": "source; sandhi r before v",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaktrād",
+     "gloss": "from-mouth",
+     "grounds": "ablative indicating source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "gṛhṇīyād",
+     "gloss": "one-should-receive",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act-opt(grah)"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "first member of compound with mantravat",
+     "morph": "compound:brahma+first"
+    },
+    {
+     "surface": "mantravat",
+     "gloss": "like-mantra",
+     "grounds": "comparison indicating sacred manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From whom and how should the mantra be received at the beginning?",
+   "premises": [
+    "The mantra is received initially",
+    "The guru's mouth is the source",
+    "Reception is like a brahman-mantra"
+   ],
+   "inference": "At first, one should receive the mantra from the guru's mouth as one would a brahman-mantra.",
+   "uncertainties": [],
+   "plain_english": "At first, one should receive the mantra from the mouth of the guru, as one would a Brahman-mantra."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādyāyāḥ",
+     "gloss": "of-the-primordial-goddess",
+     "grounds": "possessive relation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kālyā",
+     "gloss": "of-kālī",
+     "grounds": "appositional possessive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "repeated predicate noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What identity is asserted between this form and the form of primordial Kālī?",
+   "premises": [
+    "A form is indicated",
+    "Primordial Kālī has a form",
+    "Both forms are identified"
+   ],
+   "inference": "This form is the form of the primordial goddess Kālī.",
+   "uncertainties": [
+    "The referent of etad is not specified within this verse."
+   ],
+   "plain_english": "This is the form of the primordial goddess, the form of Kālī."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "first member of compound with jñāne",
+     "morph": "compound:brahma+first"
+    },
+    {
+     "surface": "jñāne",
+     "gloss": "knowledge",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samutpanne",
+     "gloss": "having-arisen",
+     "grounds": "locative absolute participle",
+     "morph": "n.loc.sg.past-part(sam-ut-pad)"
+    },
+    {
+     "surface": "kṛtya",
+     "gloss": "to-be-done",
+     "grounds": "first member of pair with ākṛtyaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākṛtyaṃ",
+     "gloss": "and-not-to-be-done",
+     "grounds": "second member of pair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "present passive indicating existence",
+     "morph": "3.sg.pass-pres(vid)"
+    }
+   ],
+   "question": "What distinction between duty and non-duty remains when brahman-knowledge arises?",
+   "premises": [
+    "Brahman-knowledge has arisen",
+    "Duty and non-duty are categories",
+    "No such distinction exists then"
+   ],
+   "inference": "When brahman-knowledge arises, there is no distinction between what is to be done and not to be done.",
+   "uncertainties": [],
+   "plain_english": "When knowledge of Brahman has arisen, there is no such thing as what is to be done or not to be done."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "object of desire to hear",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "first member of compound with tattvasya",
+     "morph": "compound:pañca+first"
+    },
+    {
+     "surface": "tattvasya",
+     "gloss": "of-principles",
+     "grounds": "possessive relation to characteristic",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive complement",
+     "morph": "inf(śru)"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-wish",
+     "grounds": "speaker's desire",
+     "morph": "1.sg.act-pres(iṣ)"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What true characteristic of the five principles is sought to be heard?",
+   "premises": [
+    "Five principles exist",
+    "They have a characteristic",
+    "The speaker wishes to hear it truly"
+   ],
+   "inference": "The speaker wishes to hear the true characteristic of the five principles.",
+   "uncertainties": [],
+   "plain_english": "I wish to hear the true characteristic of the five principles."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker's response",
+     "morph": "1.sg.act-pres(kath)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "for-your",
+     "grounds": "beneficiary",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "prītyai",
+     "gloss": "pleasure",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "yathāvad",
+     "gloss": "as-it-is",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avadhāraya",
+     "gloss": "listen",
+     "grounds": "imperative command",
+     "morph": "2.sg.act-imp(ava-dhṛ)"
+    }
+   ],
+   "question": "How will the requested teaching about the five principles be delivered?",
+   "premises": [
+    "A request was made",
+    "The speaker responds for pleasure",
+    "The teaching will be accurate"
+   ],
+   "inference": "The speaker will tell it as it is for the listener's pleasure and asks them to listen.",
+   "uncertainties": [],
+   "plain_english": "I will tell you for your pleasure; listen as it truly is."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "kṣiti",
+     "gloss": "earth",
+     "grounds": "first element in list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ap",
+     "gloss": "water",
+     "grounds": "second element in list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tejo",
+     "gloss": "fire",
+     "grounds": "third element in list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāyavaś",
+     "gloss": "winds",
+     "grounds": "fourth element; sandhi ś before c",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulam",
+     "gloss": "kula",
+     "grounds": "predicate term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "present passive statement",
+     "morph": "3.sg.pass-pres(abhi-dhā)"
+    }
+   ],
+   "question": "Which elements are designated by the term Kula in this teaching?",
+   "premises": [
+    "Earth water fire winds are listed",
+    "These are grouped together",
+    "The group is called Kula"
+   ],
+   "inference": "Earth, water, fire, and winds are called Kula.",
+   "uncertainties": [
+    "The fifth principle is not explicitly named in this verse."
+   ],
+   "plain_english": "Earth, water, fire, and winds are called Kula."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member of compound with ācāraḥ",
+     "morph": "compound:kula+first"
+    },
+    {
+     "surface": "ācāraḥ",
+     "gloss": "conduct",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādye",
+     "gloss": "o-primordial-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dharma",
+     "gloss": "dharma",
+     "grounds": "first member of compound with daḥ",
+     "morph": "compound:dharma+first"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "member of compound with daḥ",
+     "morph": "compound:kāma+member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "wealth",
+     "grounds": "member of compound with daḥ",
+     "morph": "compound:artha+member"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "member of compound with daḥ",
+     "morph": "compound:mokṣa+member"
+    },
+    {
+     "surface": "daḥ",
+     "gloss": "giving",
+     "grounds": "predicate describing conduct",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What four aims does Kula conduct grant according to this teaching?",
+   "premises": [
+    "Kula conduct is identified",
+    "Four human aims are named",
+    "Kula conduct gives them"
+   ],
+   "inference": "Kula conduct indeed gives dharma, desire, wealth, and liberation.",
+   "uncertainties": [],
+   "plain_english": "O primordial goddess, that very Kula conduct gives dharma, desire, wealth, and liberation."
+  },
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates continuation of question",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What further inquiry is introduced by the phrase 'what and so forth'?",
+   "premises": [
+    "A question is posed",
+    "The question is abbreviated",
+    "Further explanation follows"
+   ],
+   "inference": "The verse introduces a question such as 'what is meant' and so forth.",
+   "uncertainties": [
+    "The full question is elliptical and completed in following verses."
+   ],
+   "plain_english": "What, and so forth?"
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "kulam",
+     "gloss": "kula",
+     "grounds": "term being defined",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "present passive statement",
+     "morph": "3.sg.pass-pres(abhi-dhā)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-spoken",
+     "grounds": "synonymous present passive statement",
+     "morph": "3.sg.pass-pres(kath)"
+    }
+   ],
+   "question": "How is the term Kula being explained in response to the inquiry?",
+   "premises": [
+    "Kula is the subject",
+    "It is called by that name",
+    "It is spoken of as such"
+   ],
+   "inference": "The term Kula is being defined and explained as it is called and spoken.",
+   "uncertainties": [
+    "The substantive definition is continued in the next verse."
+   ],
+   "plain_english": "It is called Kula; it is spoken of as Kula."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "dharma",
+     "gloss": "dharma",
+     "grounds": "first member of compound with daḥ",
+     "morph": "compound:dharma+first"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "member of compound with daḥ",
+     "morph": "compound:kāma+member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "wealth",
+     "grounds": "member of compound with daḥ",
+     "morph": "compound:artha+member"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "member of compound with daḥ",
+     "morph": "compound:mokṣa+member"
+    },
+    {
+     "surface": "daḥ",
+     "gloss": "giving",
+     "grounds": "qualifier of conduct",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member of compound with ācāro",
+     "morph": "compound:kula+first"
+    },
+    {
+     "surface": "ācāro",
+     "gloss": "conduct",
+     "grounds": "subject; sandhi o before a",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "present passive statement",
+     "morph": "3.sg.pass-pres(abhi-dhā)"
+    }
+   ],
+   "question": "What is Kula conduct said to be in terms of the four aims?",
+   "premises": [
+    "Kula conduct is named",
+    "Four aims are listed",
+    "Conduct is defined as giving them"
+   ],
+   "inference": "Kula conduct is called that which gives dharma, desire, wealth, and liberation.",
+   "uncertainties": [],
+   "plain_english": "Kula conduct is called that which gives dharma, desire, wealth, and liberation."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "kṣīṇāghānāṃ",
+     "gloss": "of-those-with-sins-destroyed",
+     "grounds": "qualifies practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "possessive subject of inclination",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member of compound with ācāre",
+     "morph": "compound:kula+first"
+    },
+    {
+     "surface": "ācāre",
+     "gloss": "conduct",
+     "grounds": "locative object of mind",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "matir",
+     "gloss": "mind",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.act-opt(bhū)"
+    }
+   ],
+   "question": "In whom does the inclination toward Kula conduct arise?",
+   "premises": [
+    "Some practitioners have destroyed sins",
+    "Kula conduct exists",
+    "Their mind turns toward it"
+   ],
+   "inference": "Practitioners whose sins are destroyed may have their mind inclined toward Kula conduct.",
+   "uncertainties": [],
+   "plain_english": "The mind of practitioners whose sins have been destroyed may turn toward Kula conduct."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "then",
+     "grounds": "temporal or logical consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādyā",
+     "gloss": "of-primordial-goddess",
+     "grounds": "first member of compound with caraṇa",
+     "morph": "compound:ādyā+first"
+    },
+    {
+     "surface": "caraṇa",
+     "gloss": "foot",
+     "grounds": "member of compound with ambhoje",
+     "morph": "compound:caraṇa+member"
+    },
+    {
+     "surface": "ambhoje",
+     "gloss": "lotus",
+     "grounds": "locative object of mind",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "matis",
+     "gloss": "mind",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "possessive reference to practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "present passive indicating arising",
+     "morph": "3.sg.pass-pres(pra-jan)"
+    }
+   ],
+   "question": "What mental orientation arises in those inclined toward Kula conduct?",
+   "premises": [
+    "Practitioners incline to Kula conduct",
+    "A further consequence follows",
+    "Mind arises at primordial goddess's lotus feet"
+   ],
+   "inference": "Then their mind arises at the lotus feet of the primordial goddess.",
+   "uncertainties": [],
+   "plain_english": "Then their mind arises at the lotus feet of the primordial goddess."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member of compound with ācāra",
+     "morph": "compound:kula+first"
+    },
+    {
+     "surface": "ācāra",
+     "gloss": "conduct",
+     "grounds": "member of compound with ratā",
+     "morph": "compound:ācāra+member"
+    },
+    {
+     "surface": "ratā",
+     "gloss": "delighting-in",
+     "grounds": "qualifies practitioners",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive participle",
+     "morph": "abs(bhū)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "first member of compound with tattvaiḥ",
+     "morph": "compound:pañca+first"
+    },
+    {
+     "surface": "tattvaiḥ",
+     "gloss": "with-principles",
+     "grounds": "instrumental of means",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kuleśvarīm",
+     "gloss": "the-lady-of-kula",
+     "grounds": "object of worship or approach",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How do practitioners devoted to Kula conduct approach the lady of Kula?",
+   "premises": [
+    "Practitioners delight in Kula conduct",
+    "They become so devoted",
+    "They engage with five principles"
+   ],
+   "inference": "Having become devoted to Kula conduct, they approach the lady of Kula with the five principles.",
+   "uncertainties": [
+    "The specific ritual action toward kuleśvarīm is implied rather than stated."
+   ],
+   "plain_english": "Having become devoted to Kula conduct, they worship the lady of Kula with the five principles."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating this world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-enjoyed",
+     "grounds": "absolutive participle",
+     "morph": "abs(bhuj)"
+    },
+    {
+     "surface": "akhilān",
+     "gloss": "all",
+     "grounds": "qualifies enjoyments",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "enjoyments",
+     "grounds": "object of enjoyment",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "brajanty",
+     "gloss": "they-go",
+     "grounds": "present participle used predicatively; sandhi y before a",
+     "morph": "m.nom.pl.pres-part(vraj)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "in-the-end",
+     "grounds": "temporal locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirāmayam",
+     "gloss": "to-the-stainless",
+     "grounds": "goal of final attainment",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What final attainment follows worldly enjoyment for devotees of Kula conduct?",
+   "premises": [
+    "Devotees enjoy all pleasures here",
+    "Life reaches an end",
+    "They go to a stainless state"
+   ],
+   "inference": "After enjoying all pleasures here, they go in the end to the stainless state.",
+   "uncertainties": [],
+   "plain_english": "Having enjoyed all pleasures here, in the end they go to the stainless state."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "ānanda",
+     "gloss": "bliss",
+     "grounds": "first member of compound with janakaṃ",
+     "morph": "compound:ānanda+first"
+    },
+    {
+     "surface": "janakaṃ",
+     "gloss": "producing",
+     "grounds": "qualifier of that which is characteristic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yac",
+     "gloss": "which",
+     "grounds": "relative pronoun; sandhi c before c",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "correlative demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādya",
+     "gloss": "of-the-first",
+     "grounds": "first member of compound with tattva",
+     "morph": "compound:ādya+first"
+    },
+    {
+     "surface": "tattva",
+     "gloss": "principle",
+     "grounds": "member of compound with lakṣaṇam",
+     "morph": "compound:tattva+member"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What defining characteristic identifies the first of the five principles?",
+   "premises": [
+    "A characteristic is described",
+    "It produces bliss",
+    "It belongs to the first principle"
+   ],
+   "inference": "That which produces bliss is the characteristic of the first principle.",
+   "uncertainties": [
+    "The specific element corresponding to the first principle is not named in this verse."
+   ],
+   "plain_english": "That which produces bliss is the characteristic of the first principle."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "vivāda",
+     "gloss": "dispute",
+     "grounds": "first member of compound with roga",
+     "morph": "compound:vivāda+first"
+    },
+    {
+     "surface": "roga",
+     "gloss": "disease",
+     "grounds": "member of compound with janananty",
+     "morph": "compound:roga+member"
+    },
+    {
+     "surface": "janananty",
+     "gloss": "producing",
+     "grounds": "present participle; sandhi y before ā",
+     "morph": "n.nom.sg.pres-part(jan)"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "to-be-abandoned",
+     "grounds": "predicate describing what produces harm",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulaiḥ",
+     "gloss": "by-kaulas",
+     "grounds": "agents who should abandon it",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What must Kaulas always abandon because it produces dispute and disease?",
+   "premises": [
+    "Something produces dispute and disease",
+    "Kaulas are addressed",
+    "It must always be abandoned"
+   ],
+   "inference": "O beloved, Kaulas must always abandon that which produces dispute and disease.",
+   "uncertainties": [
+    "The specific substance or practice to be abandoned is not named in this verse."
+   ],
+   "plain_english": "O beloved, Kaulas must always abandon that which produces dispute and disease."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "buddhi",
+     "gloss": "intellect",
+     "grounds": "first member of compound with tejo",
+     "morph": "compound:buddhi+first"
+    },
+    {
+     "surface": "tejo",
+     "gloss": "splendor",
+     "grounds": "member of compound with bala",
+     "morph": "compound:tejo+member"
+    },
+    {
+     "surface": "bala",
+     "gloss": "strength",
+     "grounds": "member of compound with karaṃ",
+     "morph": "compound:bala+member"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "producing",
+     "grounds": "qualifier of characteristic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitīya",
+     "gloss": "of-the-second",
+     "grounds": "first member of compound with tattva",
+     "morph": "compound:dvitīya+first"
+    },
+    {
+     "surface": "tattva",
+     "gloss": "principle",
+     "grounds": "member of compound with lakṣaṇam",
+     "morph": "compound:tattva+member"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What defining characteristic identifies the second of the five principles?",
+   "premises": [
+    "A characteristic is described",
+    "It produces intellect splendor strength",
+    "It belongs to the second principle"
+   ],
+   "inference": "That which produces intellect, splendor, and strength is the characteristic of the second principle.",
+   "uncertainties": [
+    "The specific element corresponding to the second principle is not named in this verse."
+   ],
+   "plain_english": "That which produces intellect, splendor, and strength is the characteristic of the second principle."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "kulācāragatetyādibhiḥ",
+     "gloss": "beginning-with-kula-conduct-gone",
+     "grounds": "instrumental plural indicating cited passages",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vidyām",
+     "gloss": "knowledge",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "enām",
+     "gloss": "this",
+     "grounds": "demonstrative qualifying knowledge",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound with rūpām",
+     "morph": "compound:mantra+first"
+    },
+    {
+     "surface": "rūpām",
+     "gloss": "having-form",
+     "grounds": "qualifies knowledge",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "100",
+     "gloss": "100",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is this mantra-form knowledge referenced by earlier passages and numbering?",
+   "premises": [
+    "Earlier passages are cited",
+    "This knowledge has mantra form",
+    "A numeral marker appears"
+   ],
+   "inference": "By passages beginning with 'gone in Kula conduct' and so forth, this mantra-form knowledge is indicated as 100.",
+   "uncertainties": [
+    "The function of the numeral 100 in this context is unclear."
+   ],
+   "plain_english": "By passages beginning with 'gone in Kula conduct' and so forth, this knowledge in mantra form is marked as 100."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "nirāmayam",
+     "gloss": "stainless",
+     "grounds": "qualifies the state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound with upadrava",
+     "morph": "compound:sarva+first"
+    },
+    {
+     "surface": "upadrava",
+     "gloss": "afflictions",
+     "grounds": "member of compound with rahitaṃ",
+     "morph": "compound:upadrava+member"
+    },
+    {
+     "surface": "rahitaṃ",
+     "gloss": "devoid-of",
+     "grounds": "qualifies the state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "first member of compound with padam",
+     "morph": "compound:mokṣa+first"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "object or goal described",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities characterize the state of liberation described here?",
+   "premises": [
+    "A liberation state is named",
+    "It is stainless",
+    "It is devoid of all afflictions"
+   ],
+   "inference": "The state of liberation is stainless and devoid of all afflictions.",
+   "uncertainties": [],
+   "plain_english": "The state of liberation is stainless and devoid of all afflictions."
+  }
+ ]
+}

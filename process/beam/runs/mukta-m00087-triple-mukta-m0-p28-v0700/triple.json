@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "klinnadrave",
+     "gloss": "moist-fluid",
+     "grounds": "locative sense of moist fluid",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadante",
+     "gloss": "at-end",
+     "grounds": "end of that",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kledaya",
+     "gloss": "moisten",
+     "grounds": "imperative action",
+     "morph": "v.2sg.act.imp + kled"
+    },
+    {
+     "surface": "drāvayeti",
+     "gloss": "melt",
+     "grounds": "imperative action with iti",
+     "morph": "v.2sg.act.imp + drā + iti"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What two actions should be performed when the moist fluid reaches its end?",
+   "premises": [
+    "Moist fluid reaches its end.",
+    "Moistening and melting are commanded.",
+    "And connects the two actions."
+   ],
+   "inference": "At the end of the moist fluid, one should moisten and melt.",
+   "uncertainties": [
+    "Exact ritual referent of moist fluid unresolved."
+   ],
+   "plain_english": "When the moist fluid reaches its end, moisten and melt."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4525,
+   "rows": [
+    {
+     "surface": "svamānāt",
+     "gloss": "own-measure",
+     "grounds": "ablative of svamāna, indicating the starting standard",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ardhamātraṃ",
+     "gloss": "half-measure",
+     "grounds": "accusative object of reduction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "less",
+     "grounds": "accusative participle agreeing with ardhamātraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yuktyaiva",
+     "gloss": "fittingly",
+     "grounds": "instrumental yuktyā with eva, fused in surface form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "make",
+     "grounds": "causative optative of kṛ, third person singular",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How should the half-measure be reduced from one's own measure when making the staff?",
+   "premises": [
+    "Own measure is the starting standard.",
+    "Half-measure is taken from it.",
+    "Reduction is done fittingly."
+   ],
+   "inference": "The staff measure is derived by reducing half a measure from one's own measure.",
+   "uncertainties": [
+    "Exact referent of 'own measure' in the ritual context is not specified."
+   ],
+   "plain_english": "Make it fittingly, reduced by half a measure from one's own measure."
+  }
+ ]
+}

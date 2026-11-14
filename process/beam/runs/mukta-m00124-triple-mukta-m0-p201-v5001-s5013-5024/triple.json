@@ -1,0 +1,479 @@
+{
+ "song": "mukta-m0-p201",
+ "items": [
+  {
+   "verse": 5013,
+   "rows": [
+    {
+     "surface": "mūlāyāmoccavistāro",
+     "gloss": "root-length-height-width",
+     "grounds": "compound of root length height width",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvimātraikatrimātrakaiḥ",
+     "gloss": "two-measure-one-three-measure",
+     "grounds": "fused measure terms",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "bull body parts have prescribed measures",
+    "measurements use angula and matra units"
+   ],
+   "inference": "The verse supplies a measurement scheme for the bull.",
+   "uncertainties": [
+    "exact anatomical referents remain technical"
+   ],
+   "plain_english": "The verse begins prescribing proportional measurements for the bull's body."
+  },
+  {
+   "verse": 5014,
+   "rows": [
+    {
+     "surface": "pañcāśadgrīvavistāro",
+     "gloss": "fifty-neck-width",
+     "grounds": "neck width fifty",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūlavistāra",
+     "gloss": "root-width",
+     "grounds": "root width",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "neck width is fifty",
+    "root width is specified"
+   ],
+   "inference": "The verse continues the measurement scheme.",
+   "uncertainties": [
+    "unit context is implicit"
+   ],
+   "plain_english": "It gives neck and root width measurements."
+  },
+  {
+   "verse": 5015,
+   "rows": [
+    {
+     "surface": "kakutṣaḍaṅgulavyāsa",
+     "gloss": "hump-six-angula-width",
+     "grounds": "hump width six angula",
+     "morph": "compound"
+    },
+    {
+     "surface": "utsedho",
+     "gloss": "height",
+     "grounds": "height",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitrimātrakaḥ",
+     "gloss": "two-three-measure",
+     "grounds": "measure term",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "hump width is six angula",
+    "height has measure terms"
+   ],
+   "inference": "The verse continues hump measurements.",
+   "uncertainties": [
+    "measure conversion unspecified"
+   ],
+   "plain_english": "It prescribes hump width and height."
+  },
+  {
+   "verse": 5016,
+   "rows": [
+    {
+     "surface": "kakudastu",
+     "gloss": "hump",
+     "grounds": "hump particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śarīroccaṃ",
+     "gloss": "body-high",
+     "grounds": "body height",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "verb.3.sg.pass-part"
+    },
+    {
+     "surface": "āṣṭadaśāṅgulam",
+     "gloss": "eighteen-angula",
+     "grounds": "eighteen angula",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "hump body height is declared",
+    "height is eighteen angula"
+   ],
+   "inference": "The verse fixes hump height.",
+   "uncertainties": [
+    "exact body reference"
+   ],
+   "plain_english": "The hump's body height is declared as eighteen angula."
+  },
+  {
+   "verse": 5017,
+   "rows": [
+    {
+     "surface": "anyonyamūlamadhyāgravyāso",
+     "gloss": "mutual-root-middle-tip-width",
+     "grounds": "mutual root middle tip width",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedāṅgulena",
+     "gloss": "veda-angula",
+     "grounds": "veda angula",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "mutual root middle tip width is given",
+    "veda angula is used"
+   ],
+   "inference": "The verse gives width progression.",
+   "uncertainties": [
+    "veda angula value"
+   ],
+   "plain_english": "It gives mutual root, middle, and tip widths."
+  },
+  {
+   "verse": 5018,
+   "rows": [
+    {
+     "surface": "pañcāṅgulaṃ",
+     "gloss": "five-angula",
+     "grounds": "five angula",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathāyāmo",
+     "gloss": "thus-length",
+     "grounds": "thus length",
+     "morph": "compound"
+    },
+    {
+     "surface": "jānudeśaṃ",
+     "gloss": "knee-region",
+     "grounds": "knee region",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvimātrakam",
+     "gloss": "two-measure",
+     "grounds": "two measure",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "five angula is given",
+    "knee region is two measure"
+   ],
+   "inference": "The verse gives knee region measure.",
+   "uncertainties": [
+    "length referent"
+   ],
+   "plain_english": "It gives a five-angula measure and knee region length."
+  },
+  {
+   "verse": 5019,
+   "rows": [
+    {
+     "surface": "khurotsedhaṃ",
+     "gloss": "hoof-height",
+     "grounds": "hoof height",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvimātraṃ",
+     "gloss": "two-measure",
+     "grounds": "two measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "indecl."
+    },
+    {
+     "surface": "asyātpucchamūlakam",
+     "gloss": "tail-root",
+     "grounds": "tail root",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "hoof height is two measure",
+    "tail root is mentioned"
+   ],
+   "inference": "The verse gives hoof height.",
+   "uncertainties": [
+    "tail root measure implicit"
+   ],
+   "plain_english": "Hoof height is two measure, and tail root is mentioned."
+  },
+  {
+   "verse": 5020,
+   "rows": [
+    {
+     "surface": "muṣkāyāmaviśāle",
+     "gloss": "testicle-width-not-wide",
+     "grounds": "testicle width not wide",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "but",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvimātre",
+     "gloss": "two-measure",
+     "grounds": "two measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "in order",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "testicle width is not wide",
+    "measure is two measure"
+   ],
+   "inference": "The verse gives testicle width measure.",
+   "uncertainties": [
+    "exact width value"
+   ],
+   "plain_english": "Testicle width is not wide and is two measure."
+  },
+  {
+   "verse": 5021,
+   "rows": [
+    {
+     "surface": "śeṣāyāmaṃ",
+     "gloss": "remainder-length",
+     "grounds": "remainder length",
+     "morph": "compound"
+    },
+    {
+     "surface": "trimātraṃ",
+     "gloss": "three-measure",
+     "grounds": "three measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "gudaṃ",
+     "gloss": "anus",
+     "grounds": "anus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māyāṅgulaṃ",
+     "gloss": "māyā-angula",
+     "grounds": "maya angula",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "remainder length is three measure",
+    "anus is maya angula"
+   ],
+   "inference": "The verse gives remainder and anus measures.",
+   "uncertainties": [
+    "maya angula value"
+   ],
+   "plain_english": "Remainder length is three measure and anus is maya angula."
+  },
+  {
+   "verse": 5022,
+   "rows": [
+    {
+     "surface": "jaṅghāgraṃ",
+     "gloss": "shank-tip",
+     "grounds": "shank tip",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "but",
+     "morph": "indecl."
+    },
+    {
+     "surface": "trimātraṃ",
+     "gloss": "three-measure",
+     "grounds": "three measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remainder",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuktibalānnayet",
+     "gloss": "by-strength",
+     "grounds": "by strength",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "shank tip is three measure",
+    "remainder by strength"
+   ],
+   "inference": "The verse gives shank tip measure.",
+   "uncertainties": [
+    "strength-based remainder"
+   ],
+   "plain_english": "Shank tip is three measure and remainder by strength."
+  },
+  {
+   "verse": 5023,
+   "rows": [
+    {
+     "surface": "veṇuvastrādivetreṇa",
+     "gloss": "by-bamboo-cloth-etc-cane",
+     "grounds": "by bamboo cloth etc cane",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "dwelling",
+     "grounds": "dwelling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "should arrange",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "dwelling is arranged",
+    "by bamboo cloth etc cane"
+   ],
+   "inference": "The verse shifts to dwelling arrangement.",
+   "uncertainties": [
+    "dwelling referent"
+   ],
+   "plain_english": "Dwelling should be arranged by bamboo, cloth, etc., cane."
+  },
+  {
+   "verse": 5024,
+   "rows": [
+    {
+     "surface": "ukte",
+     "gloss": "said",
+     "grounds": "said",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhyardhayavādyaṣṭa",
+     "gloss": "one-and-half-grain-etc-eight",
+     "grounds": "one and half grain etc eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucchāyasya",
+     "gloss": "of-height",
+     "grounds": "of height",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yavāṅgulam",
+     "gloss": "grain-angula",
+     "grounds": "grain angula",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the bull's body parts?",
+   "premises": [
+    "height is said",
+    "grain angula is used"
+   ],
+   "inference": "The verse gives height grain measure.",
+   "uncertainties": [
+    "grain angula value"
+   ],
+   "plain_english": "Height is measured in grain angula."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "pañcacatvāriṃśadīti",
+     "gloss": "forty-five-thus",
+     "grounds": "legacy hint forty-five; numeral with iti marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānandastotramuttamam",
+     "gloss": "excellent-ānanda-hymn",
+     "grounds": "legacy hint excellent+ānanda-hymn; fused compound",
+     "morph": "compound (ānanda-stotra-uttama)"
+    }
+   ],
+   "question": "Which excellent ānanda hymn is numbered forty-five?",
+   "premises": [
+    "forty-five is stated",
+    "excellent ānanda hymn is named",
+    "numeral modifies hymn"
+   ],
+   "inference": "the verse identifies the forty-fifth excellent ānanda hymn",
+   "uncertainties": [
+    "exact ritual referent not specified"
+   ],
+   "plain_english": "Forty-five: the excellent ānanda hymn."
+  }
+ ]
+}

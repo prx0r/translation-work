@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "viśeṣañ",
+     "gloss": "especially",
+     "grounds": "adverbial emphasis; final ñ shows sandhi before following ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divārātrau",
+     "gloss": "by-day-and-night",
+     "grounds": "compound denoting the pair of day and night as a time period",
+     "morph": "compound:divā+ rātrau; f.loc.du"
+    },
+    {
+     "surface": "sandhyāyām",
+     "gloss": "at-twilight",
+     "grounds": "time of junction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāniśi",
+     "gloss": "at-great-night",
+     "grounds": "compound indicating the deep or midnight period",
+     "morph": "compound:mahā+ niśi; f.loc.sg"
+    }
+   ],
+   "question": "Which specific times require especially diligent performance of all prescribed actions?",
+   "premises": [
+    "The preceding instruction enjoins performing all actions at all times, especially in Varanasi.",
+    "This statement adds particular emphasis through the term viśeṣañ.",
+    "The specified periods are day and night, twilight, and the great night."
+   ],
+   "inference": "Therefore, all prescribed actions must be performed with special diligence during day and night, at twilight, and at the great night.",
+   "uncertainties": [
+    "The exact ritual scope of mahāniśi in this context is not specified."
+   ],
+   "plain_english": "And especially by day and night, at twilight, and at the great night."
+  }
+ ]
+}

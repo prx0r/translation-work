@@ -1,0 +1,1151 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "vyatīpāte",
+     "gloss": "at-vyatipata",
+     "grounds": "Locative indicating the inauspicious time vyatipata.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parighaśūle",
+     "gloss": "at-parigha-shula",
+     "grounds": "Locative of a compound naming the inauspicious parigha-shula period.",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "Emphatic particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛte",
+     "gloss": "in-ghee",
+     "grounds": "Locative indicating the period named ghrita.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kālakaṇṭhake",
+     "gloss": "at-kalakanthaka",
+     "grounds": "Locative indicating the inauspicious kalakanthaka period.",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which inauspicious periods prohibit the performance of ritual works?",
+   "premises": [
+    "Vyatipata is named as a condition.",
+    "Parigha-shula is named as a condition.",
+    "Ghrita and kalakanthaka are named as conditions."
+   ],
+   "inference": "These specified periods are inauspicious for ritual activity.",
+   "uncertainties": [
+    "The exact technical definitions of ghrita and kalakanthaka in this context are not fully specified."
+   ],
+   "plain_english": "Ritual works should be avoided during vyatipata, parigha-shula, ghrita, and kalakanthaka."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "ulkāpāte",
+     "gloss": "at-meteor-fall",
+     "grounds": "Locative of a compound indicating the falling of a meteor.",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction connecting conditions.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhṛguje",
+     "gloss": "in-bhrigu-born",
+     "grounds": "Locative referring to a period or condition associated with Bhrigu.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vṛddhyā",
+     "gloss": "by-increase",
+     "grounds": "Instrumental indicating growth or increase.",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction connecting conditions.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣanāḍike",
+     "gloss": "in-poison-nadi",
+     "grounds": "Locative of a compound naming the poisonous nadi period.",
+     "morph": "f.loc.sg (compound)"
+    }
+   ],
+   "question": "What additional adverse conditions forbid undertaking ritual works?",
+   "premises": [
+    "The fall of a meteor is named as a condition.",
+    "A condition associated with Bhrigu and increase is named.",
+    "The poisonous nadi period is named as a condition."
+   ],
+   "inference": "These further conditions are also unsuitable for ritual works.",
+   "uncertainties": [
+    "The precise meaning of bhṛguje with vṛddhyā is context-dependent."
+   ],
+   "plain_english": "Ritual works should also be avoided at a meteor fall, in the bhriguja condition with increase, and in the poisonous nadi."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "karṣaṇādi",
+     "gloss": "beginning-with-ploughing",
+     "grounds": "Compound indicating the starting point of a series of rites.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "pratiṣṭhāntaṃ",
+     "gloss": "ending-with-consecration",
+     "grounds": "Compound indicating the endpoint of the series of rites.",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "sarvakarma",
+     "gloss": "all-works",
+     "grounds": "Compound denoting all ritual activities in that range.",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "Optative verb expressing prohibition or avoidance.",
+     "morph": "3.sg.opt.act √vṛj"
+    }
+   ],
+   "question": "What range of ritual activities must be avoided under these adverse conditions?",
+   "premises": [
+    "The series begins with ploughing.",
+    "The series ends with consecration.",
+    "All works in this range are included."
+   ],
+   "inference": "Every ritual activity from ploughing to consecration must be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid all ritual works from ploughing up to consecration."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "Ablative adverb drawing a conclusion from prior statements.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktena",
+     "gloss": "by-proper-means",
+     "grounds": "Instrumental indicating suitability or proper method.",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "Adverb indicating promptness.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction linking manner and urgency.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "should-be-done",
+     "grounds": "Gerundive expressing obligation.",
+     "morph": "m.nom.sg (gerundive)"
+    },
+    {
+     "surface": "dharmasaṃgrahaḥ",
+     "gloss": "dharma-accumulation",
+     "grounds": "Compound denoting the gathering or performance of meritorious duty.",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What positive course of action follows from avoiding inauspicious times?",
+   "premises": [
+    "A conclusion is drawn from the preceding prohibitions.",
+    "Action should be done by proper means.",
+    "Action should be done quickly."
+   ],
+   "inference": "One should promptly accumulate dharma by proper means.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the accumulation of dharma should be carried out quickly and by proper means."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "anekakoṭi",
+     "gloss": "many-crore",
+     "grounds": "Compound indicating a vast number.",
+     "morph": "f.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "doṣāḍhyaṃ",
+     "gloss": "fault-rich",
+     "grounds": "Compound describing something full of faults.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "dinaṃ",
+     "gloss": "day",
+     "grounds": "Noun referring to a day.",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "lagnaṃ",
+     "gloss": "ascendant",
+     "grounds": "Noun referring to the astrological ascendant.",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction connecting day and ascendant.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meva",
+     "gloss": "meva",
+     "grounds": "Token as given; likely a fused or variant form in the source.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How severely flawed can a day and ascendant be for ritual purposes?",
+   "premises": [
+    "A day can be described as fault-rich.",
+    "An ascendant can be described as fault-rich.",
+    "The faults are said to be many crores in number."
+   ],
+   "inference": "Both day and ascendant may be afflicted by countless faults.",
+   "uncertainties": [
+    "The token meva is unclear in form and function here."
+   ],
+   "plain_english": "A day and an ascendant may be laden with countless faults."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "anekakoṭidoṣaḥ",
+     "gloss": "many-crore-faults",
+     "grounds": "Compound describing a state of having countless faults.",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "Particle introducing a contrast or qualification.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvaikena",
+     "gloss": "by-jupiter-alone",
+     "grounds": "Instrumental compound indicating Jupiter alone as the agent.",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "vināśanam",
+     "gloss": "destruction",
+     "grounds": "Action noun indicating removal or destruction.",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What single planetary influence can nullify countless faults in timing?",
+   "premises": [
+    "Countless faults may be present.",
+    "Jupiter alone is named as the agent.",
+    "Destruction of those faults is stated."
+   ],
+   "inference": "The influence of Jupiter alone can destroy countless faults.",
+   "uncertainties": [
+    "jīva is taken as Jupiter in astrological context."
+   ],
+   "plain_english": "But countless faults are destroyed by Jupiter alone."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "Adverb indicating similarity to the previous statement.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvadṛṣṭyā",
+     "gloss": "by-jupiter-aspect",
+     "grounds": "Instrumental compound indicating the aspect or sight of Jupiter.",
+     "morph": "f.inst.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "Particle adding emphasis.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadoṣasamudgamāḥ",
+     "gloss": "all-fault-risings",
+     "grounds": "Compound denoting the arising of all faults.",
+     "morph": "m.nom.pl (compound)"
+    }
+   ],
+   "question": "How does Jupiter's aspect affect the arising of all faults?",
+   "premises": [
+    "The statement parallels the previous one.",
+    "Jupiter's aspect is the condition named.",
+    "The arising of all faults is the subject."
+   ],
+   "inference": "By Jupiter's aspect, the arising of all faults is countered.",
+   "uncertainties": [
+    "The verse states the subject but implies removal or prevention from context."
+   ],
+   "plain_english": "Likewise, by the aspect of Jupiter, the arising of all faults is removed."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "patraiva",
+     "gloss": "patraiva",
+     "grounds": "Token as given; likely a fused form indicating location.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "house",
+     "grounds": "Accusative object denoting a dwelling or structure.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "Optative verb expressing injunction.",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "taddeśaṃ",
+     "gloss": "that-place",
+     "grounds": "Compound indicating that specific place.",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "karṣaṇaṃ",
+     "gloss": "ploughing",
+     "grounds": "Action noun denoting the act of ploughing.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "Imperative verb directing action.",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "Where should the dwelling be built and the ploughing performed?",
+   "premises": [
+    "A dwelling is to be made.",
+    "Ploughing is to be done.",
+    "Both actions are directed to a specified place."
+   ],
+   "inference": "The dwelling and ploughing should be performed in that designated place.",
+   "uncertainties": [
+    "The token patraiva is unclear and may be a textual variant."
+   ],
+   "plain_english": "One should make the house there and perform the ploughing in that place."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "paiśācika",
+     "gloss": "paishacika",
+     "grounds": "Adjective qualifying the division or foot.",
+     "morph": "m/n.stem (compound member)"
+    },
+    {
+     "surface": "pade",
+     "gloss": "in-division",
+     "grounds": "Locative indicating a specific plot or division.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "Optative verb expressing injunction.",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "ālayaṃ",
+     "gloss": "dwelling",
+     "grounds": "Accusative object denoting a dwelling.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "Particle introducing a restriction or contrast.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāṅmukham",
+     "gloss": "turned-away",
+     "grounds": "Adjective describing the orientation of the dwelling.",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What orientation is prescribed for a dwelling built in the paishacika division?",
+   "premises": [
+    "The dwelling is made in the paishacika division.",
+    "The dwelling is described as turned away.",
+    "The instruction is given as a specific rule."
+   ],
+   "inference": "A dwelling in the paishacika division should be made facing away.",
+   "uncertainties": [],
+   "plain_english": "But in the paishacika division one should make the dwelling facing away."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "tāvadeva",
+     "gloss": "only-to-that-extent",
+     "grounds": "Compound adverb limiting the scope.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣṭadigbhāge",
+     "gloss": "in-desired-direction-part",
+     "grounds": "Locative compound indicating the desired directional portion.",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "Gerundive expressing obligation.",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "śivamandiram",
+     "gloss": "shiva-temple",
+     "grounds": "Compound denoting a temple of Shiva.",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "In which directional portion must a Shiva temple be constructed?",
+   "premises": [
+    "A desired directional portion is specified.",
+    "The construction is limited to that extent.",
+    "The object to be made is a Shiva temple."
+   ],
+   "inference": "A Shiva temple should be made only in the desired directional portion.",
+   "uncertainties": [],
+   "plain_english": "A Shiva temple should be built only in the desired directional portion."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "mānuṣe",
+     "gloss": "in-human",
+     "grounds": "Locative adjective qualifying the division.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "Particle introducing an alternative.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pade",
+     "gloss": "in-division",
+     "grounds": "Locative indicating a specific plot or division.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "Particle indicating an alternative option.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "Gerundive expressing obligation.",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "śivamaṃdiram",
+     "gloss": "shiva-temple",
+     "grounds": "Compound denoting a temple of Shiva.",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What alternative division is permitted for constructing a Shiva temple?",
+   "premises": [
+    "The human division is named as a location.",
+    "An alternative is indicated.",
+    "The object to be made is a Shiva temple."
+   ],
+   "inference": "A Shiva temple may alternatively be made in the human division.",
+   "uncertainties": [],
+   "plain_english": "Or else, a Shiva temple should be made in the human division."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "samanirmāṇakartāraḥ",
+     "gloss": "equal-construction-makers",
+     "grounds": "Compound denoting those who make constructions equally or properly.",
+     "morph": "m.nom.pl (compound)"
+    },
+    {
+     "surface": "sarvaprāṇi",
+     "gloss": "all-beings",
+     "grounds": "Compound referring to all living beings.",
+     "morph": "n.stem (compound member)"
+    },
+    {
+     "surface": "hitāya",
+     "gloss": "for-welfare",
+     "grounds": "Dative indicating purpose or benefit.",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "Emphatic particle.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For whose welfare should builders construct in a proper and balanced manner?",
+   "premises": [
+    "Builders are described as making constructions properly.",
+    "The purpose is stated as welfare.",
+    "The beneficiaries are all beings."
+   ],
+   "inference": "Proper construction is undertaken for the welfare of all beings.",
+   "uncertainties": [
+    "The compound samanirmāṇakartāraḥ can be interpreted in slightly different ways."
+   ],
+   "plain_english": "Those who build properly do so indeed for the welfare of all beings."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "pūrite",
+     "gloss": "when-filled",
+     "grounds": "Locative absolute participle indicating a filled condition.",
+     "morph": "n.loc.sg (past participle)"
+    },
+    {
+     "surface": "tanmṛdaṃ",
+     "gloss": "that-earth",
+     "grounds": "Compound referring to that soil or earth.",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "Adjective used as a noun denoting a wise person.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhike",
+     "gloss": "in-excess",
+     "grounds": "Locative indicating a surplus condition.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamān",
+     "gloss": "best",
+     "grounds": "Adjective indicating highest quality.",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "Noun referring to earth or soil.",
+     "morph": "f.nom/acc.sg"
+    }
+   ],
+   "question": "How is the quality of earth judged when a pit is filled with excavated soil?",
+   "premises": [
+    "The condition of being filled is considered.",
+    "A wise person evaluates the earth.",
+    "Excess soil indicates the best quality."
+   ],
+   "inference": "If the excavated earth is in excess when refilled, it is judged best.",
+   "uncertainties": [
+    "The syntactic relation of uttamān and mahī is compressed in the verse."
+   ],
+   "plain_english": "When the pit is filled, the wise person judges the earth best if that soil is in excess."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "gṛhītā",
+     "gloss": "taken",
+     "grounds": "Past participle indicating what is taken or measured.",
+     "morph": "f.nom.sg (past participle)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamā",
+     "gloss": "best",
+     "grounds": "Adjective indicating highest quality.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyā",
+     "gloss": "middle",
+     "grounds": "Adjective indicating middle quality.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gṛhītā",
+     "gloss": "taken",
+     "grounds": "Past participle indicating what is taken or measured.",
+     "morph": "f.nom.sg (past participle)"
+    },
+    {
+     "surface": "kanyasā",
+     "gloss": "least",
+     "grounds": "Adjective indicating lowest quality.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "Noun referring to earth or soil.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the best, middle, and least qualities of earth distinguished?",
+   "premises": [
+    "Earth is evaluated when taken or measured.",
+    "Best quality is identified.",
+    "Middle and least qualities are identified."
+   ],
+   "inference": "The earth is classified as best, middle, or least according to its measure.",
+   "uncertainties": [
+    "The exact measuring criterion is implied from the previous verse."
+   ],
+   "plain_english": "When measured, the earth is classified as best, middle, or least."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "caturvidhā",
+     "gloss": "fourfold",
+     "grounds": "Adjective indicating four kinds.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "Noun referring to earth or soil.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khyātā",
+     "gloss": "known",
+     "grounds": "Past participle indicating traditional recognition.",
+     "morph": "f.nom.sg (past participle)"
+    },
+    {
+     "surface": "tattajjātyārhatā",
+     "gloss": "fit-for-each-class",
+     "grounds": "Compound expressing suitability for respective classes.",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "Adjective indicating auspiciousness.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is earth classified according to suitability for different classes?",
+   "premises": [
+    "Earth is said to be fourfold.",
+    "It is known by traditional classification.",
+    "It is fit for respective classes and auspicious."
+   ],
+   "inference": "Earth is recognized as fourfold, auspicious, and suited to each class.",
+   "uncertainties": [],
+   "plain_english": "Earth is known to be fourfold, auspicious, and fit for each respective class."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "tattadyogyamahī",
+     "gloss": "earth-fit-for-each",
+     "grounds": "Compound denoting earth suitable for each respective case.",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "grāhyā",
+     "gloss": "should-be-taken",
+     "grounds": "Gerundive expressing obligation to select.",
+     "morph": "f.nom.sg (gerundive)"
+    },
+    {
+     "surface": "martyānām",
+     "gloss": "of-mortals",
+     "grounds": "Genitive plural indicating those for whom it is taken.",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ālayaṃ",
+     "gloss": "dwelling",
+     "grounds": "Accusative object denoting a dwelling.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "Imperative verb directing action.",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "What kind of earth should be selected for building human dwellings?",
+   "premises": [
+    "Earth suitable for each case is specified.",
+    "It should be taken for mortals.",
+    "A dwelling is to be made."
+   ],
+   "inference": "One should take earth suited to each class and make a dwelling for mortals.",
+   "uncertainties": [],
+   "plain_english": "Take the earth suitable for each case and make a dwelling for mortals."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "bhūtapretapiśācebhyo",
+     "gloss": "to-bhutas-pretas-pishacas",
+     "grounds": "Dative plural compound naming classes of beings receiving offerings.",
+     "morph": "m.dat.pl (compound)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "Optative verb expressing injunction.",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "dadhyodanaṃ",
+     "gloss": "curd-rice",
+     "grounds": "Compound denoting food of curd and rice.",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "Accusative noun denoting a ritual offering.",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What offering must be given to bhutas, pretas, and pishacas before site work?",
+   "premises": [
+    "Bhutas, pretas, and pishacas are the recipients.",
+    "Curd-rice is specified as the substance.",
+    "An offering should be given."
+   ],
+   "inference": "An offering of curd-rice should be given to bhutas, pretas, and pishacas.",
+   "uncertainties": [],
+   "plain_english": "One should give an offering of curd-rice to bhutas, pretas, and pishacas."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "śvetau",
+     "gloss": "two-white",
+     "grounds": "Dual adjective indicating two white animals.",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "raktau",
+     "gloss": "two-red",
+     "grounds": "Dual adjective indicating two red animals.",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunction connecting pairs.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapilau",
+     "gloss": "two-brown",
+     "grounds": "Dual adjective indicating two brown animals.",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kṛṣṇau",
+     "gloss": "two-black",
+     "grounds": "Dual adjective indicating two black animals.",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "jātyarhakau",
+     "gloss": "worthy-by-class",
+     "grounds": "Compound adjective indicating suitability according to class.",
+     "morph": "m.nom.du (compound)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "Ablative adverb indicating sequential order.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which pairs of bull colors are deemed worthy according to class order?",
+   "premises": [
+    "Pairs of white, red, brown, and black are listed.",
+    "They are described as worthy by class.",
+    "The listing follows a sequence."
+   ],
+   "inference": "White, red, brown, and black pairs are worthy in that class order.",
+   "uncertainties": [],
+   "plain_english": "In order, pairs of white, red, brown, and black bulls are worthy according to class."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "hemaśṛṃgakhuropetau",
+     "gloss": "with-gold-horns-hooves",
+     "grounds": "Compound describing bulls equipped with gold-covered horns and hooves.",
+     "morph": "m.nom.du (compound)"
+    },
+    {
+     "surface": "varṇāntara",
+     "gloss": "other-color",
+     "grounds": "Compound indicating a different color.",
+     "morph": "n.stem (compound member)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "Negation particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃspṛśau",
+     "gloss": "touching",
+     "grounds": "Adjective indicating contact or mixture.",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What physical marks qualify the bulls and what color mixing is forbidden?",
+   "premises": [
+    "The bulls have gold-adorned horns and hooves.",
+    "Contact with another color is negated.",
+    "The description qualifies the selected bulls."
+   ],
+   "inference": "Qualified bulls have gold-adorned horns and hooves and must not be mixed with another color.",
+   "uncertainties": [],
+   "plain_english": "The bulls should have gold-adorned horns and hooves and must not be touched by another color."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "Adverb indicating prior action.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedanaṃ",
+     "gloss": "offering",
+     "grounds": "Action noun denoting presentation or offering.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "Absolutive indicating a completed prior action.",
+     "morph": "(absolutive) √kṛ"
+    },
+    {
+     "surface": "prāṅmukhau",
+     "gloss": "east-facing",
+     "grounds": "Compound adjective describing orientation.",
+     "morph": "m.nom.du (compound)"
+    },
+    {
+     "surface": "saṃsthitau",
+     "gloss": "placed",
+     "grounds": "Past participle indicating positioned state.",
+     "morph": "m.nom.du (past participle)"
+    },
+    {
+     "surface": "vṛṣau",
+     "gloss": "two-bulls",
+     "grounds": "Noun denoting the pair of bulls.",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "How must the bulls be prepared and positioned before ploughing begins?",
+   "premises": [
+    "An offering is made first.",
+    "The bulls are placed facing east.",
+    "The two bulls are the subjects of the preparation."
+   ],
+   "inference": "After making an offering, the two bulls should be placed facing east.",
+   "uncertainties": [],
+   "plain_english": "First making an offering, the two bulls should be placed facing east."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "sīrāyāmaṃ",
+     "gloss": "plough-length",
+     "grounds": "Compound denoting the length of the plough.",
+     "morph": "m.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "trihastaṃ",
+     "gloss": "three-cubits",
+     "grounds": "Compound indicating a measure of three cubits.",
+     "morph": "m.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "Optative verb expressing prescribed measure.",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "nāhaṃ",
+     "gloss": "nāhaṃ",
+     "grounds": "Token as given; likely a textual variant related to width or binding.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptāṃgulaṃ",
+     "gloss": "seven-fingers",
+     "grounds": "Compound indicating a measure of seven finger-widths.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "Optative verb expressing prescribed measure.",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What measurements are prescribed for the length and another dimension of the plough?",
+   "premises": [
+    "The plough length is prescribed as three cubits.",
+    "Another dimension is prescribed as seven finger-widths.",
+    "Both measures are stated as requirements."
+   ],
+   "inference": "The plough should be three cubits long and seven finger-widths in the other specified measure.",
+   "uncertainties": [
+    "The token nāhaṃ is unclear and may be a textual corruption."
+   ],
+   "plain_english": "The plough should be three cubits long, and the other measure should be seven finger-widths."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "mekhaloccaṃ",
+     "gloss": "girdle-height",
+     "grounds": "Compound denoting the height of the girdle part.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "tritālaṃ",
+     "gloss": "three-talas",
+     "grounds": "Compound indicating a measure of three talas.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "Optative verb expressing prescribed measure.",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "trimātraṃ",
+     "gloss": "three-measures",
+     "grounds": "Compound indicating a measure of three matras.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "tadghanaṃ",
+     "gloss": "its-thickness",
+     "grounds": "Compound denoting the thickness of that part.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "Optative verb expressing prescribed measure.",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What height and thickness are prescribed for the plough's girdle part?",
+   "premises": [
+    "The girdle height is prescribed as three talas.",
+    "Its thickness is prescribed as three measures.",
+    "Both are stated as required dimensions."
+   ],
+   "inference": "The girdle should be three talas high and three measures thick.",
+   "uncertainties": [
+    "The exact units tala and matra depend on the measurement system used."
+   ],
+   "plain_english": "The girdle height should be three talas, and its thickness should be three measures."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "mūlādagraṃ",
+     "gloss": "from-root-to-tip",
+     "grounds": "Compound indicating extent from base to tip.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "Ablative adverb indicating progression.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīṇaṃ",
+     "gloss": "tapered",
+     "grounds": "Past participle indicating diminution.",
+     "morph": "n.nom/acc.sg (past participle)"
+    },
+    {
+     "surface": "kiṃcitkṣīṇaṃ",
+     "gloss": "slightly-tapered",
+     "grounds": "Compound indicating slight diminution.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "Particle indicating contrast or specification.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "Adjective indicating the middle part.",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "How should the plough be tapered from root to tip and in the middle?",
+   "premises": [
+    "The extent from root to tip is considered.",
+    "Gradual tapering is prescribed.",
+    "The middle is described as slightly tapered."
+   ],
+   "inference": "The plough should taper gradually from root to tip and be slightly tapered in the middle.",
+   "uncertainties": [],
+   "plain_english": "From root to tip it should taper gradually, and the middle should be slightly tapered."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "veśāṃśe",
+     "gloss": "in-share-part",
+     "grounds": "Locative compound indicating a specific portion or share.",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "Compound indicating a measure of two finger-widths.",
+     "morph": "n.nom/acc.sg (compound)"
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "diameter",
+     "grounds": "Noun indicating breadth or diameter.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ghanam",
+     "gloss": "thick",
+     "grounds": "Adjective indicating thickness or density.",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "ardhārdha",
+     "gloss": "half-half",
+     "grounds": "Compound indicating a halved measure.",
+     "morph": "n.stem (compound member)"
+    },
+    {
+     "surface": "mātrakam",
+     "gloss": "measure",
+     "grounds": "Noun indicating a unit of measure.",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What diameter and thickness measurements are specified for the designated part?",
+   "premises": [
+    "A specific portion is named.",
+    "A diameter of two finger-widths is given.",
+    "A thickness of a half-half measure is given."
+   ],
+   "inference": "The designated part should have a two-finger diameter and a half-half measure of thickness.",
+   "uncertainties": [
+    "The exact meaning of veśāṃśe and ardhārdha mātrakam depends on technical context."
+   ],
+   "plain_english": "In that part, the diameter should be two finger-widths and the thickness a half-half measure."
+  }
+ ]
+}

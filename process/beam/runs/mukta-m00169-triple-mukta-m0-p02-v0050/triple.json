@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "ariṣṭasya",
+     "gloss": "of-ariṣṭa",
+     "grounds": "genitive dependent of patrāṇi; refers to the ariṣṭa plant",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patrāṇi",
+     "gloss": "leaves",
+     "grounds": "substance listed as an ingredient",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "substance listed as an ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudhiram",
+     "gloss": "blood",
+     "grounds": "substance listed as an ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional substances are prescribed as ingredients in the ritual mixture taught by Rudra?",
+   "premises": [
+    "Leaves of ariṣṭa are named as an ingredient.",
+    "Poison is named as an ingredient.",
+    "Blood is named as an ingredient."
+   ],
+   "inference": "The ritual mixture includes ariṣṭa leaves, poison, and blood alongside the previously mentioned substances.",
+   "uncertainties": [
+    "ariṣṭa may refer specifically to the neem tree or more generally to a plant associated with that name."
+   ],
+   "plain_english": "And the leaves of ariṣṭa, poison, and indeed blood."
+  }
+ ]
+}

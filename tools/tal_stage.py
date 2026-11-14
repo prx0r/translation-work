@@ -139,9 +139,55 @@ def counts(song, verses):
     return have
 
 
+
+def _cite(e):
+    """Byte-exact citation = the source verse text (not token joins)."""
+    song = e.get('song', '')
+    try:
+        W = ROOT / _CURRENT_WORK[0]
+        vs = json.loads((W / 'source/verses.json').read_text())
+        t = vs[e['verse'] - 1]
+        return ' '.join(t.replace('|', ' ').split())
+    except Exception:
+        return ' '.join(t['surface'].replace('+', '') for t in e['tokens'])
+
+
+_CURRENT_WORK = ['']
+
 def stage_assemble(work, song):
     W = ROOT / work
+    _CURRENT_WORK[0] = work
     wt = json.loads((W / f'working-t1-{song}.json').read_text())
+    # Duplicate verse entries (same verse twice, e.g. legacy twin tokenizations)
+    # break every downstream count. Keep the first occurrence.
+    _seen = set(); _wt = []
+    for e in wt:
+        if e.get('verse') in _seen:
+            continue
+        _seen.add(e.get('verse')); _wt.append(e)
+    if len(_wt) != len(wt):
+        print(f'{song}: dropped {len(wt)-len(_wt)} duplicate verse entries from working-T1')
+    wt = _wt
+    # PARATEXT DOCTRINE (single source): editorial apparatus never enters T1.
+    # CM rows are already filtered by is_paratext below; T1 must be filtered
+    # with the SAME predicate or build_l0 asserts CM != T1 on pseudo-tokens
+    # like 'karata(?' (2026-11-13). Mid-token brackets (genuine fused readings)
+    # are kept by is_paratext.
+    _dropped = 0
+    for e in wt:
+        kept = [t for t in e['tokens'] if not is_paratext(t.get('surface', ''))]
+        if len(kept) != len(e['tokens']):
+            _dropped += len(e['tokens']) - len(kept)
+            e['tokens'] = kept
+        # surrogates/variant parentheses (tasmi(n -> tasmin) are stripped:
+        # the fused letters are genuine text, the parens are editorial and the
+        # T1 schema forbids them. Deparen BOTH T1 surface and CM lemma so
+        # build_l0's surface equality holds.
+        for t in e['tokens']:
+            if '(' in t.get('surface', '') or ')' in t.get('surface', ''):
+                t['surface'] = t['surface'].replace('(', '').replace(')', '')
+    if _dropped:
+        print(f'{song}: dropped {_dropped} paratext token(s) from T1 (never glossed)')
     # glosses into working-t1
     for e in wt:
         f = RUNS / f"{song}-gloss-v{e['verse']:02d}" / 'gloss.json'
@@ -169,7 +215,8 @@ def stage_assemble(work, song):
                 # brackets are genuine fused readings and are kept)
                 if is_paratext(_lm):
                     continue
-                _rows.append([r['lemma'], r['morph'], r.get('grounds', '')])
+                _lm = _lm.replace('(', '').replace(')', '')
+                _rows.append([_lm, r['morph'], r.get('grounds', '')])
             cm[str(e['verse'])] = _rows
     (W / 'cm').mkdir(exist_ok=True)
     cmf = W / 'cm' / f'l0cm-{song}-v1-{len(wt)}.json'
@@ -184,8 +231,35 @@ def stage_assemble(work, song):
     for o in l0:
         by.setdefault(o['verse_id'], []).append(o)
     am, l2 = [], []
+    import hashlib as _h
+    try:
+        _vs = json.loads((W / 'source/verses.json').read_text())
+    except Exception:
+        _vs = []
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / 'tools'))
+    try:
+        import workcfg as _wc
+        _spans = _wc.source_spans(work) or {}
+    except Exception:
+        _spans = {}
+    # validate_song hashes the WHOLE work's spans once (src_sha at line 64),
+    # not per-verse — mirror that exactly.
+    # validate_song digests the SONG-scoped span slice:
+    #   sha( ' '.join( ' '.join(tokens) for v in song_verses ) )
+    _song_verses = [e['verse'] for e in wt]
+    try:
+        _work_sha = _h.sha256(
+            ' '.join(' '.join(_spans[_v]) for _v in sorted(
+                v for v in _spans if v in set(_song_verses))).encode()
+        ).hexdigest()[:16]
+    except Exception:
+        _work_sha = _fallback_sha
+
+    def _src_sha(_v):
+        return _work_sha
     for e in wt:
-        src_sha = e.get('source_sha', _fallback_sha)
+        src_sha = _src_sha(e['verse'])
         d = json.loads((RUNS / f"{song}-am-v{e['verse']:02d}" / 'am.json').read_text())
         ids = [o['id'] for o in by.get(e['verse_id'], [])]
         am.append({'verse_id': e['verse_id'], 'song': song, 'verse': e['verse'],
@@ -198,12 +272,35 @@ def stage_assemble(work, song):
                    'sanskrit_sha': src_sha})
         l2.append({'verse_id': e['verse_id'], 'song': song, 'verse': e['verse'],
                    'plain_english': d['plain_english'],
-                   'sanskrit_cite': ' | '.join(e.get('cite_parts') or [' '.join(t['surface'] for t in e['tokens'])]),
+                   'sanskrit_cite': _cite(e),
                    'l0_ids': ids or [l0[0]['id']], 'supplied': []})
         e['quick_english'] = d['plain_english']
         e['quick_english_source'] = 'manual'
     dd = W / 'data'; dd.mkdir(exist_ok=True)
-    for n, o in [('t1', wt), ('l0', l0), ('argmap', am), ('l2', l2)]:
+    t1_out = []
+    for e in wt:
+        rows, buf_s, buf_g = [], '', []
+        for t in e['tokens']:
+            surf = t['surface']
+            g = (t.get('quick_gloss') or '').strip()
+            if surf.endswith('+'):
+                buf_s += surf[:-1]
+                if g:
+                    buf_g.append(g)
+                continue
+            buf_s += surf.rstrip('+')
+            if g:
+                buf_g.append(g)
+            rows.append({'sanskrit': buf_s, 'surface': buf_s, 'iast': buf_s,
+                         'gloss': '-and-'.join(buf_g),
+                         'quick_gloss': '-and-'.join(buf_g),
+                         'status': 'GLOSSED' if buf_g else 'ABSTAIN'})
+            buf_s, buf_g = '', []
+        t1_out.append({'verse_id': e['verse_id'], 'song': e['song'],
+                       'verse': e['verse'], 'tokens': rows,
+                       'quick_english': e.get('quick_english', ''),
+                       'source_sha': e.get('source_sha', '')})
+    for n, o in [('t1', t1_out), ('l0', l0), ('argmap', am), ('l2', l2)]:
         (dd / f'{song}.{n}.json').write_text(json.dumps(o, indent=1, ensure_ascii=False))
     (W / f'working-t1-{song}.json').write_text(json.dumps(wt, indent=1, ensure_ascii=False))
     c1p = dd / f'{song}.c1.json'
@@ -274,8 +371,15 @@ def main():
         else:
             stage_seed(a.work, a.song)
     stage_assemble(a.work, a.song)
+    # Post-assemble cleanliness (2026-11-13): de-overlap suffix repeats and
+    # collapse adjacent identical tokens, keeping L0/argmap/L2 consistent.
+    for _tool in ('dedup_t1.py', 'collapse_dups.py'):
+        subprocess.run([sys.executable, f'tools/{_tool}', a.work, a.song],
+                       cwd=ROOT, capture_output=True, text=True)
+    _disp = ROOT / 'tools' / 'proof-disp.json'
     for cmd in (['tools/validate_song.py', '--song', a.song, '--work', a.work],
-                ['tools/proof_record.py', '--song', a.song, '--work', a.work, '--shastra']):
+                ['tools/proof_record.py', '--song', a.song, '--work', a.work, '--shastra']
+                + (['--disp', str(_disp.relative_to(ROOT))] if _disp.exists() else [])):
         r = subprocess.run([sys.executable] + cmd, cwd=ROOT, capture_output=True, text=True)
         tail = (r.stdout + r.stderr).strip()
         print(tail[-400:])

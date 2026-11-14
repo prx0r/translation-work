@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "upadeśena",
+     "gloss": "by-instruction",
+     "grounds": "instrument of the requested action",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of the requested making",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "āśramiṇam",
+     "gloss": "stage-of-life-member",
+     "grounds": "status to be conferred",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavān",
+     "gloss": "you-honorable",
+     "grounds": "addressee, the guru",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "karotu",
+     "gloss": "may-make",
+     "grounds": "content of the request",
+     "morph": "3.sg.imperative.act √kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted speech",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "should-request",
+     "grounds": "prescribed action of the student",
+     "morph": "3.sg.optative.act √prārth"
+    }
+   ],
+   "question": "What formal request must a student make to be initiated into a life stage by the guru?",
+   "premises": [
+    "The student addresses the guru as the agent of initiation.",
+    "The student seeks to be made a member of a life stage.",
+    "The requested conferral is to occur through instruction."
+   ],
+   "inference": "The student should formally request the guru to make him a member of a life stage by means of instruction.",
+   "uncertainties": [],
+   "plain_english": "He should request: 'By instruction, may you make me one who belongs to a stage of life.'"
+  }
+ ]
+}

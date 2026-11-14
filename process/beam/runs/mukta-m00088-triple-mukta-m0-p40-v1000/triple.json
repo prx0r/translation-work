@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "mahānetrā",
+     "gloss": "great-eye",
+     "grounds": "compound of mahā and netrā (eye)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvaktrā",
+     "gloss": "great-mouth",
+     "grounds": "compound of mahā and vaktrā (mouth)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahājihvā",
+     "gloss": "great-tongue",
+     "grounds": "compound of mahā and jihvā (tongue)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahābhujā",
+     "gloss": "great-arm",
+     "grounds": "compound of mahā and bhujā (arm)",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which four great bodily features are attributed to the goddess?",
+   "premises": [
+    "The verse lists four epithets.",
+    "Each epithet begins with mahā.",
+    "Each names a bodily feature."
+   ],
+   "inference": "The goddess is praised through four great bodily features.",
+   "uncertainties": [
+    "Exact grammatical gender inferred from feminine epithet pattern."
+   ],
+   "plain_english": "Great-eyed, great-mouthed, great-tongued, great-armed."
+  }
+ ]
+}

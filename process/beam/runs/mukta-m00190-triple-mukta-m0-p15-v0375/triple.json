@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "mṛn+mayaṃ",
+     "gloss": "made-of-clay",
+     "grounds": "compound adjective describing the vessel",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭaṃ",
+     "gloss": "pot",
+     "grounds": "object serving as ritual vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb indicating correct manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "go+mayena",
+     "gloss": "with-cow-dung",
+     "grounds": "instrumental compound indicating filling material",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūritam",
+     "gloss": "filled",
+     "grounds": "past participle describing the state of the pot",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What alternative vessel may be properly filled with cow-dung for the prescribed rite?",
+   "premises": [
+    "A clay pot is presented as an alternative vessel.",
+    "The pot must be properly filled with cow-dung."
+   ],
+   "inference": "A clay pot properly filled with cow-dung serves as an acceptable alternative vessel in the ritual procedure.",
+   "uncertainties": [
+    "The exact ritual use of this filled pot depends on the preceding and following instructions."
+   ],
+   "plain_english": "Or take a clay pot and properly fill it with cow-dung."
+  }
+ ]
+}

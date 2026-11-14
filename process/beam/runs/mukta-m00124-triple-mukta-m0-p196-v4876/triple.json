@@ -1,0 +1,958 @@
+{
+ "song": "mukta-m0-p196",
+ "items": [
+  {
+   "verse": 4876,
+   "rows": [
+    {
+     "surface": "pratisālaṃ",
+     "gloss": "per-hall",
+     "grounds": "compound of prati + sāla",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "nominative/accusative seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paiśācaṃ",
+     "gloss": "demonic",
+     "grounds": "adjective from paiśāca",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bahirbhavet",
+     "gloss": "becomes-outside",
+     "grounds": "bahir + bhavet",
+     "morph": "verb.3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "Should a demonic seat be placed outside each hall?",
+   "premises": [
+    "pratisālaṃ means per hall",
+    "paiśācaṃ means demonic",
+    "bahirbhavet means becomes outside"
+   ],
+   "inference": "A demonic seat is to be outside each hall.",
+   "uncertainties": [
+    "exact ritual context of paiśāca seat"
+   ],
+   "plain_english": "A demonic seat should be outside each hall."
+  },
+  {
+   "verse": 4877,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatimātrānto",
+     "gloss": "up-to-twenty-five-measures",
+     "grounds": "compound of pañcaviṃśati + mātrā + anta",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistārādagrapīṭhake",
+     "gloss": "in-front-seat-by-width",
+     "grounds": "compound of vistāra + agra + pīṭhaka",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What width limit applies to the front seat?",
+   "premises": [
+    "pañcaviṃśatimātrānto means up to twenty-five measures",
+    "vistārādagrapīṭhake means in front seat by width"
+   ],
+   "inference": "The front seat width is limited to twenty-five measures.",
+   "uncertainties": [
+    "measure unit unspecified"
+   ],
+   "plain_english": "The front seat extends up to twenty-five measures in width."
+  },
+  {
+   "verse": 4878,
+   "rows": [
+    {
+     "surface": "ekadvitricatasraḥ",
+     "gloss": "one-two-three-four",
+     "grounds": "compound numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syurmekhalāyāstathopari",
+     "gloss": "should-be-above-girdle",
+     "grounds": "syuḥ + mekhalāyāḥ + tathā + upari",
+     "morph": "verb.3.pl.act-opt+root as"
+    }
+   ],
+   "question": "How many girdle bands should be above the girdle?",
+   "premises": [
+    "ekadvitricatasraḥ means one two three four",
+    "syurmekhalāyāstathopari means should be above girdle"
+   ],
+   "inference": "One to four bands should be above the girdle.",
+   "uncertainties": [
+    "exact count selection rule"
+   ],
+   "plain_english": "One, two, three, or four bands should be above the girdle."
+  },
+  {
+   "verse": 4879,
+   "rows": [
+    {
+     "surface": "mekhalādviguṇaṃ",
+     "gloss": "double-girdle",
+     "grounds": "compound of mekhalā + dviguṇa",
+     "morph": "indecl."
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "lotus seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "triple",
+     "grounds": "triguṇa",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturguṇam",
+     "gloss": "quadruple",
+     "grounds": "caturguṇa",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What multiples of the girdle may the lotus have?",
+   "premises": [
+    "mekhalādviguṇaṃ means double girdle",
+    "padmaṃ means lotus",
+    "triguṇaṃ means triple",
+    "caturguṇam means quadruple"
+   ],
+   "inference": "The lotus may be double, triple, or quadruple the girdle.",
+   "uncertainties": [
+    "which multiple is chosen"
+   ],
+   "plain_english": "The lotus may be double, triple, or quadruple the girdle."
+  },
+  {
+   "verse": 4880,
+   "rows": [
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-footed",
+     "grounds": "tripāda",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvipādaṃ",
+     "gloss": "two-footed",
+     "grounds": "dvipāda",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "pari + kalpayet",
+     "morph": "verb.3.sg.act-opt+root kḷp"
+    }
+   ],
+   "question": "How many feet should be arranged for the seat?",
+   "premises": [
+    "tripādaṃ means three-footed",
+    "dvipādaṃ means two-footed",
+    "parikalpayet means should arrange"
+   ],
+   "inference": "The seat should be arranged as two-footed or three-footed.",
+   "uncertainties": [
+    "selection criterion"
+   ],
+   "plain_english": "Arrange the seat as two-footed or three-footed."
+  },
+  {
+   "verse": 4881,
+   "rows": [
+    {
+     "surface": "tripādena",
+     "gloss": "by-three-footed",
+     "grounds": "tripāda + ena",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidheyā",
+     "gloss": "to-be-made",
+     "grounds": "vidheyā",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathāśobhabalena",
+     "gloss": "by-beauty-strength",
+     "grounds": "compound of yathā + śobha + bala",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "By what measure should the seat be made?",
+   "premises": [
+    "tripādena means by three-footed",
+    "vidheyā means to be made",
+    "yathāśobhabalena means by beauty strength"
+   ],
+   "inference": "The seat is made by three-footed measure or by beauty and strength.",
+   "uncertainties": [
+    "exact relation of beauty and strength"
+   ],
+   "plain_english": "Make the seat by three-footed measure or by beauty and strength."
+  },
+  {
+   "verse": 4882,
+   "rows": [
+    {
+     "surface": "mahatāṃ",
+     "gloss": "of-great",
+     "grounds": "mahat + āṃ",
+     "morph": "adj.gen.pl.m"
+    },
+    {
+     "surface": "pīṭhakānāṃ",
+     "gloss": "of-seats",
+     "grounds": "pīṭhaka + ānāṃ",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "lakṣaṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇutottamāḥ",
+     "gloss": "listen-best-ones",
+     "grounds": "śṛṇuta + uttamāḥ",
+     "morph": "verb.2.pl.act-imp+root śru"
+    }
+   ],
+   "question": "What should the best ones hear about great seats?",
+   "premises": [
+    "mahatāṃ means of great",
+    "pīṭhakānāṃ means of seats",
+    "lakṣaṇaṃ means characteristic",
+    "śṛṇutottamāḥ means listen best ones"
+   ],
+   "inference": "The best ones should hear the characteristics of great seats.",
+   "uncertainties": [
+    "which great seats"
+   ],
+   "plain_english": "Listen, best ones, to the characteristics of great seats."
+  },
+  {
+   "verse": 4883,
+   "rows": [
+    {
+     "surface": "tadantare'ṣṭabhāge",
+     "gloss": "in-eighth-part-within-that",
+     "grounds": "tad + antare + aṣṭa + bhāge",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "navadhā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistaro",
+     "gloss": "width",
+     "grounds": "vistara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "bhavet",
+     "morph": "verb.3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "How should width become within the eighth part?",
+   "premises": [
+    "tadantare'ṣṭabhāge means in eighth part within that",
+    "navadhā means ninefold",
+    "vistaro means width",
+    "bhavet means should become"
+   ],
+   "inference": "Within that eighth part, width should become ninefold.",
+   "uncertainties": [
+    "exact spatial relation"
+   ],
+   "plain_english": "Within that eighth part, the width should become ninefold."
+  },
+  {
+   "verse": 4884,
+   "rows": [
+    {
+     "surface": "navahastapramāṇānto",
+     "gloss": "up-to-nine-hands-measure",
+     "grounds": "compound of nava + hasta + pramāṇa + anta",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahāpīṭhasya",
+     "gloss": "of-great-seat",
+     "grounds": "mahā + pīṭha + sya",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "width",
+     "grounds": "vistara",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the width limit of a great seat?",
+   "premises": [
+    "navahastapramāṇānto means up to nine hands measure",
+    "mahāpīṭhasya means of great seat",
+    "vistaraḥ means width"
+   ],
+   "inference": "The width of a great seat is up to nine hands.",
+   "uncertainties": [
+    "whether exact or maximum"
+   ],
+   "plain_english": "The great seat's width is up to nine hands."
+  },
+  {
+   "verse": 4885,
+   "rows": [
+    {
+     "surface": "tripādo",
+     "gloss": "three-footed",
+     "grounds": "tripāda",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hyarhdamāno",
+     "gloss": "half-measure-indeed",
+     "grounds": "hi + ardha + māna",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattadantarajo'pi",
+     "gloss": "within-each-also",
+     "grounds": "tad + tad + antara + ja + api",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What measure options exist for the inner parts?",
+   "premises": [
+    "tripādo means three-footed",
+    "hyarhdamāno means half measure indeed",
+    "tattadantarajo'pi means within each also"
+   ],
+   "inference": "Inner parts may be three-footed, half-measure, or varied within each.",
+   "uncertainties": [
+    "exact alternation"
+   ],
+   "plain_english": "The inner parts may be three-footed, half-measure, or varied within each."
+  },
+  {
+   "verse": 4886,
+   "rows": [
+    {
+     "surface": "pīṭhatārasamo",
+     "gloss": "equal-to-seat-tāra",
+     "grounds": "compound of pīṭha + tāra + sama",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syādekadvitryaṅgulonnataḥ",
+     "gloss": "should-be-one-two-three-fingers-raised",
+     "grounds": "syāt + eka + dvi + tri + aṅgula + unnata",
+     "morph": "verb.3.sg.act-opt+root as"
+    }
+   ],
+   "question": "How high should the raised seat be?",
+   "premises": [
+    "pīṭhatārasamo means equal to seat tāra",
+    "syādekadvitryaṅgulonnataḥ means should be one two three fingers raised"
+   ],
+   "inference": "The raised seat should be one, two, or three fingers high.",
+   "uncertainties": [
+    "tāra meaning"
+   ],
+   "plain_english": "The raised seat should be one, two, or three fingers high."
+  },
+  {
+   "verse": 4887,
+   "rows": [
+    {
+     "surface": "pādena",
+     "gloss": "by-foot",
+     "grounds": "pāda + ena",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kampaḥ",
+     "gloss": "tremor",
+     "grounds": "kampa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇastu",
+     "gloss": "ear-but",
+     "grounds": "karṇa + tu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripādena",
+     "gloss": "by-three-footed",
+     "grounds": "tripāda + ena",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "prakīrtita",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How is tremor and ear declared?",
+   "premises": [
+    "pādena means by foot",
+    "kampaḥ means tremor",
+    "karṇastu means ear but",
+    "tripādena means by three-footed",
+    "prakīrtitaḥ means declared"
+   ],
+   "inference": "Tremor is by foot and ear is declared by three-footed measure.",
+   "uncertainties": [
+    "ritual symbolism"
+   ],
+   "plain_english": "Tremor is by foot, and the ear is declared by three-footed measure."
+  },
+  {
+   "verse": 4888,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "bhāga + ena",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "fan",
+     "grounds": "vājana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cordhve",
+     "gloss": "or-above",
+     "grounds": "ca + ūrdhve",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "tad + ūrdhve",
+     "morph": "indecl."
+    },
+    {
+     "surface": "padmamiṣyate",
+     "gloss": "lotus-is-desired",
+     "grounds": "padma + iṣyate",
+     "morph": "verb.3.sg.pass-pres+root iṣ"
+    }
+   ],
+   "question": "Where is the lotus desired above?",
+   "premises": [
+    "bhāgena means by part",
+    "vājanaṃ means fan",
+    "cordhve means or above",
+    "tadūrdhve means above that",
+    "padmamiṣyate means lotus is desired"
+   ],
+   "inference": "The lotus is desired above by part or fan above that.",
+   "uncertainties": [
+    "exact placement"
+   ],
+   "plain_english": "The lotus is desired above, by part or fan, above that."
+  },
+  {
+   "verse": 4889,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṣṭāṃśahīno",
+     "gloss": "minus-sixteen-eighths",
+     "grounds": "compound of ṣoḍaśa + aṣṭa + aṃśa + hīna",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "patravistāra",
+     "gloss": "leaf-width",
+     "grounds": "compound of patra + vistāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "iṣyate",
+     "morph": "verb.3.sg.pass-pres+root iṣ"
+    }
+   ],
+   "question": "What leaf width is desired?",
+   "premises": [
+    "ṣoḍaśāṣṭāṃśahīno means minus sixteen eighths",
+    "patravistāra means leaf width",
+    "iṣyate means is desired"
+   ],
+   "inference": "The desired leaf width is minus sixteen eighths.",
+   "uncertainties": [
+    "fraction interpretation"
+   ],
+   "plain_english": "The desired leaf width is minus sixteen eighths."
+  },
+  {
+   "verse": 4890,
+   "rows": [
+    {
+     "surface": "tayorantaramānaṃ",
+     "gloss": "measure-between-those-two",
+     "grounds": "compound of tayoḥ + antara + māna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navadhoccaṃ",
+     "gloss": "ninefold-high",
+     "grounds": "navadhā + ucca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhaveddvijāḥ",
+     "gloss": "should-become-twice-born",
+     "grounds": "bhavet + dvijāḥ",
+     "morph": "verb.3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "What height should exist between those two?",
+   "premises": [
+    "tayorantaramānaṃ means measure between those two",
+    "navadhoccaṃ means ninefold high",
+    "bhaveddvijāḥ means should become twice-born"
+   ],
+   "inference": "The measure between those two should become ninefold high.",
+   "uncertainties": [
+    "dvijāḥ address"
+   ],
+   "plain_english": "The measure between those two should become ninefold high."
+  },
+  {
+   "verse": 4891,
+   "rows": [
+    {
+     "surface": "pādamānāntarāṣṭāṃśe",
+     "gloss": "in-eighth-part-between-foot-measures",
+     "grounds": "compound of pāda + māna + antara + aṣṭa + aṃśa",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "navamānaṃ",
+     "gloss": "ninth-measure",
+     "grounds": "nava + māna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "prakīrtita",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What measure is declared in the eighth part?",
+   "premises": [
+    "pādamānāntarāṣṭāṃśe means in eighth part between foot measures",
+    "navamānaṃ means ninth measure",
+    "prakīrtitam means declared"
+   ],
+   "inference": "The ninth measure is declared in the eighth part between foot measures.",
+   "uncertainties": [
+    "exact arithmetic"
+   ],
+   "plain_english": "The ninth measure is declared in the eighth part between foot measures."
+  },
+  {
+   "verse": 4892,
+   "rows": [
+    {
+     "surface": "ardhamānāntaropetaḥ",
+     "gloss": "joined-by-half-measure-between",
+     "grounds": "compound of ardha + māna + antara + upeta",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karṇikocchrāya",
+     "gloss": "pericarp-height",
+     "grounds": "compound of karṇika + ucchrāya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "iṣyate",
+     "morph": "verb.3.sg.pass-pres+root iṣ"
+    }
+   ],
+   "question": "What pericarp height is desired?",
+   "premises": [
+    "ardhamānāntaropetaḥ means joined by half measure between",
+    "karṇikocchrāya means pericarp height",
+    "iṣyate means is desired"
+   ],
+   "inference": "The desired pericarp height is joined by half measure between.",
+   "uncertainties": [
+    "exact joining"
+   ],
+   "plain_english": "The desired pericarp height is joined by half measure between."
+  },
+  {
+   "verse": 4893,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānopapīṭhoktakṛtiṃ",
+     "gloss": "form-spoken-for-base-sub-seat",
+     "grounds": "compound of adhiṣṭhāna + upapīṭha + ukta + kṛti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vopari",
+     "gloss": "or-above",
+     "grounds": "vā + upari",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "kalpayet",
+     "morph": "verb.3.sg.act-opt+root kḷp"
+    }
+   ],
+   "question": "What form should be arranged above?",
+   "premises": [
+    "adhiṣṭhānopapīṭhoktakṛtiṃ means form spoken for base sub-seat",
+    "vopari means or above",
+    "kalpayet means should arrange"
+   ],
+   "inference": "The form spoken for base sub-seat should be arranged above.",
+   "uncertainties": [
+    "alternative arrangement"
+   ],
+   "plain_english": "Arrange above the form spoken for the base sub-seat."
+  },
+  {
+   "verse": 4894,
+   "rows": [
+    {
+     "surface": "madhyabhadrayutaṃ",
+     "gloss": "joined-with-middle-auspicious",
+     "grounds": "compound of madhya + bhadra + yuta",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "vā + api",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nānācāmarasaṃyutam",
+     "gloss": "joined-with-various-whisks",
+     "grounds": "compound of nānā + cāmara + saṃyuta",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What may be joined with the middle auspicious?",
+   "premises": [
+    "madhyabhadrayutaṃ means joined with middle auspicious",
+    "vāpi means or also",
+    "nānācāmarasaṃyutam means joined with various whisks"
+   ],
+   "inference": "The middle auspicious may also be joined with various whisks.",
+   "uncertainties": [
+    "exact combination"
+   ],
+   "plain_english": "The middle auspicious may also be joined with various whisks."
+  },
+  {
+   "verse": 4895,
+   "rows": [
+    {
+     "surface": "anekanāsikājālaṃ",
+     "gloss": "many-nostril-net",
+     "grounds": "compound of aneka + nāsikā + jāla",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sopapīṭhaṃ",
+     "gloss": "with-sub-seat",
+     "grounds": "sa + upapīṭha",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "kevala",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is the only net with sub-seat?",
+   "premises": [
+    "anekanāsikājālaṃ means many nostril net",
+    "sopapīṭhaṃ means with sub-seat",
+    "kevalam means only"
+   ],
+   "inference": "Only the many-nostril net is with sub-seat.",
+   "uncertainties": [
+    "ritual object"
+   ],
+   "plain_english": "Only the many-nostril net has a sub-seat."
+  },
+  {
+   "verse": 4896,
+   "rows": [
+    {
+     "surface": "prāsādapotamadhyāttu",
+     "gloss": "from-middle-of-temple-pot-but",
+     "grounds": "compound of prāsāda + pota + madhya + tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pādamadhyavivarjitam",
+     "gloss": "excluding-middle-of-foot",
+     "grounds": "compound of pāda + madhya + vivarjita",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is excluded from the temple pot middle?",
+   "premises": [
+    "prāsādapotamadhyāttu means from middle of temple pot but",
+    "pādamadhyavivarjitam means excluding middle of foot"
+   ],
+   "inference": "The middle of the foot is excluded from the temple pot middle.",
+   "uncertainties": [
+    "exact architectural sense"
+   ],
+   "plain_english": "From the middle of the temple pot, the middle of the foot is excluded."
+  },
+  {
+   "verse": 4897,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃsthāpayetpīṭhaṃ",
+     "gloss": "should-establish-seat",
+     "grounds": "saṃsthāpayet + pīṭhaṃ",
+     "morph": "verb.3.sg.act-opt+root sthā"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "tata",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "ārabhya",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vardhayet",
+     "gloss": "should-increase",
+     "grounds": "vardhayet",
+     "morph": "verb.3.sg.act-opt+root vṛdh"
+    }
+   ],
+   "question": "What should be done after establishing the seat there?",
+   "premises": [
+    "tatra means there",
+    "saṃsthāpayetpīṭhaṃ means should establish seat",
+    "tata means then",
+    "ārabhya means beginning",
+    "vardhayet means should increase"
+   ],
+   "inference": "After establishing the seat there, one should begin and increase.",
+   "uncertainties": [
+    "what is increased"
+   ],
+   "plain_english": "Establish the seat there, then begin and increase."
+  },
+  {
+   "verse": 4898,
+   "rows": [
+    {
+     "surface": "pīṭhāyāmāntarā",
+     "gloss": "between-seat-lengths",
+     "grounds": "compound of pīṭha + āyāma + antara",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hyetadvṛṣapṛṣṭhe'thavā",
+     "gloss": "indeed-this-on-bull-back-or",
+     "grounds": "hi + etad + vṛṣa + pṛṣṭha + athavā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "bhavet",
+     "morph": "verb.3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "Where may this between seat lengths become?",
+   "premises": [
+    "pīṭhāyāmāntarā means between seat lengths",
+    "hyetadvṛṣapṛṣṭhe'thavā means indeed this on bull back or",
+    "bhavet means should become"
+   ],
+   "inference": "This between seat lengths may become on the bull's back or elsewhere.",
+   "uncertainties": [
+    "alternative location"
+   ],
+   "plain_english": "This between seat lengths may become on the bull's back or otherwise."
+  },
+  {
+   "verse": 4899,
+   "rows": [
+    {
+     "surface": "grāmamadhye'thavā",
+     "gloss": "or-in-village-middle",
+     "grounds": "compound of grāma + madhya + athavā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryāddhāmeśāne'thavā",
+     "gloss": "should-make-in-abode-northeast-or",
+     "grounds": "kuryāt + dhāma + īśāna + athavā",
+     "morph": "verb.3.sg.act-opt+root kṛ"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "bhavet",
+     "morph": "verb.3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "Where may the seat be made or become?",
+   "premises": [
+    "grāmamadhye'thavā means or in village middle",
+    "kuryāddhāmeśāne'thavā means should make in abode northeast or",
+    "bhavet means should become"
+   ],
+   "inference": "The seat may be made in the village middle or in the abode's northeast.",
+   "uncertainties": [
+    "exact placement rule"
+   ],
+   "plain_english": "Make the seat in the village middle or in the abode's northeast."
+  }
+ ]
+}

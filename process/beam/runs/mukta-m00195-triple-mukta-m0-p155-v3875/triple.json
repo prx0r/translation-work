@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p155",
+ "items": [
+  {
+   "verse": 3875,
+   "rows": [
+    {
+     "surface": "dambhaḥ",
+     "gloss": "hypocrisy",
+     "grounds": "subject of the statement; legacy hint: hypocrisy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "predicate identifying the fault; legacy hint: sin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-household",
+     "grounds": "locative expression; repetition with following token indicates pervasiveness; legacy hint: house",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-household",
+     "grounds": "repeated locative reinforcing distribution to every household; legacy hint: house",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What fault is declared a pervasive sin in every household?",
+   "premises": [
+    "Hypocrisy is identified as a sin.",
+    "This sin is located in a household.",
+    "The repeated locative indicates presence in every household."
+   ],
+   "inference": "Hypocrisy is therefore a sin pervasive in every household.",
+   "uncertainties": [],
+   "plain_english": "Hypocrisy is a sin in every household."
+  }
+ ]
+}

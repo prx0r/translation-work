@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "yathā+kālaṃ",
+     "gloss": "at-proper-time",
+     "grounds": "avyayībhāva compound indicating appropriate time",
+     "morph": "(avyayībhāva;indecl.)"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation or duty",
+     "morph": "gerundive.nom.sg.m (√kṛ)"
+    },
+    {
+     "surface": "dharma+saṃgrahaḥ",
+     "gloss": "collection-of-dharma",
+     "grounds": "compound denoting the gathering or observance of dharma",
+     "morph": "dharma+saṃgraha (tatpuruṣa;nom.sg.m)"
+    }
+   ],
+   "question": "At what time must the collection of dharma be properly undertaken?",
+   "premises": [
+    "The collection of dharma is an obligatory duty.",
+    "This duty is qualified by a specific timing.",
+    "The timing is expressed as being appropriate or proper."
+   ],
+   "inference": "Therefore, the collection of dharma must be performed at the proper time.",
+   "uncertainties": [
+    "The precise scope of dharma+saṃgraha in this context is not specified."
+   ],
+   "plain_english": "The collection of dharma should be carried out at the proper time."
+  }
+ ]
+}

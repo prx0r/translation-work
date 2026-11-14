@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "sampuṭe",
+     "gloss": "in-the-union",
+     "grounds": "Locative of sampuṭa, the enclosing union/container mentioned in the preceding verse.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paramāṃ",
+     "gloss": "supreme",
+     "grounds": "Qualifies vidyā as highest or ultimate.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "Accusative object denoting the vidyā attained or present in that context.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvavidyāsvarūpiṇīm",
+     "gloss": "all-knowledges-own-form",
+     "grounds": "Compound describing the vidyā as having the very nature of all vidyās.",
+     "morph": "compound:f.acc.sg(sarva+vidyā+sva+rūpiṇī)"
+    }
+   ],
+   "question": "What supreme knowledge, embodying all knowledges, is present within that union?",
+   "premises": [
+    "The locus is the sampuṭa described previously.",
+    "The object present there is a supreme vidyā.",
+    "This supreme vidyā has the intrinsic form of all vidyās."
+   ],
+   "inference": "Within that union, the supreme vidyā is realized as the essence encompassing all forms of knowledge.",
+   "uncertainties": [
+    "The governing verb is carried over from the preceding context and is not explicit in this verse."
+   ],
+   "plain_english": "In that union, there is the supreme knowledge whose very nature is all knowledge."
+  }
+ ]
+}

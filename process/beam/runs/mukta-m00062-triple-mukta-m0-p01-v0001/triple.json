@@ -1,0 +1,1059 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative setting of the scene",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīra+gaṇāḥ",
+     "gloss": "hero-groups",
+     "grounds": "compound: vīra+gaṇāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier for the assembled groups",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mahā+hallāla+hu/kṛte",
+     "gloss": "great-tumult-cry-made",
+     "grounds": "compound describing the collective cry; hu/kṛte from kṛ with hu sound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What collective cry do all the hero groups raise in that setting?",
+   "premises": [
+    "The scene is set in a specific place.",
+    "All the hero groups are present together.",
+    "A great tumultuous cry is made by them."
+   ],
+   "inference": "All hero groups jointly raise a great tumultuous cry in that setting.",
+   "uncertainties": [
+    "The exact ritual nuance of hallāla-hu/kṛte is context-dependent."
+   ],
+   "plain_english": "There, all the groups of heroes raised a great tumultuous cry."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "mahā+vṛnda",
+     "gloss": "great-assembly",
+     "grounds": "compound: mahā+vṛnda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā+sphāla",
+     "gloss": "great-uproar",
+     "grounds": "compound: mahā+sphāla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raṇa+ḍākinī",
+     "gloss": "battle-ḍākinī",
+     "grounds": "compound: raṇa+ḍākinī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yācite",
+     "gloss": "requested",
+     "grounds": "action of requesting or entreating",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What request arises amid the great assembly and uproar of the battle ḍākinī?",
+   "premises": [
+    "A great assembly is present.",
+    "A great uproar accompanies the scene.",
+    "The battle ḍākinī is the one making a request."
+   ],
+   "inference": "Amid the great assembly and uproar, the battle ḍākinī makes a request.",
+   "uncertainties": [
+    "The specific content of the request is not stated in this verse."
+   ],
+   "plain_english": "Amid the great assembly and great uproar, the battle ḍākinī made a request."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "gaṇeśa",
+     "gloss": "gaṇeśas",
+     "grounds": "group of deities or attendants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vaṭukā",
+     "gloss": "vaṭukas",
+     "grounds": "group of attendant deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "siddhā",
+     "gloss": "siddhas",
+     "grounds": "accomplished beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mātṛ+cakre",
+     "gloss": "mother-circle",
+     "grounds": "compound: mātṛ+cakre",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "melake",
+     "gloss": "assembly",
+     "grounds": "gathering or congregation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which groups are gathered together in the assembly of the mother circle?",
+   "premises": [
+    "Gaṇeśas are present in the gathering.",
+    "Vaṭukas and siddhas are present in the gathering.",
+    "The gathering takes place in the mother circle assembly."
+   ],
+   "inference": "Gaṇeśas, vaṭukas, and siddhas are gathered in the assembly of the mother circle.",
+   "uncertainties": [],
+   "plain_english": "The gaṇeśas, vaṭukas, and siddhas were indeed gathered in the assembly of the mother circle."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "siddha+nātha+avakāsena",
+     "gloss": "siddha-lord-occasion",
+     "grounds": "compound indicating the opportunity provided by the siddha lord",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "santoṣita+kula+īśvaram",
+     "gloss": "satisfied-kula-lord",
+     "grounds": "compound describing the kula lord as satisfied",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How does the occasion granted by the siddha lord affect the kula lord?",
+   "premises": [
+    "An occasion is provided by the siddha lord.",
+    "The kula lord is the recipient of this occasion.",
+    "The kula lord becomes satisfied as a result."
+   ],
+   "inference": "Through the occasion granted by the siddha lord, the kula lord is satisfied.",
+   "uncertainties": [],
+   "plain_english": "By the opportunity given by the siddha lord, the lord of the kula was satisfied."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "sāmarasya+sthitaṃ",
+     "gloss": "in-union-standing",
+     "grounds": "compound describing the deity abiding in union",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "the deity being addressed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pṛcchate",
+     "gloss": "asks",
+     "grounds": "act of questioning",
+     "morph": "3.sg.pres.middle √prach"
+    },
+    {
+     "surface": "kula+sundarī",
+     "gloss": "kula-beauty",
+     "grounds": "compound epithet of the questioner",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Whom does the kula beauty question while he abides in perfect union?",
+   "premises": [
+    "The deity is abiding in a state of union.",
+    "The kula beauty is the one asking.",
+    "The question is directed to that deity."
+   ],
+   "inference": "The kula beauty questions the god who is abiding in union.",
+   "uncertainties": [],
+   "plain_english": "The kula beauty asks the god who stands in perfect union."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "yāmala+aṣṭaka+pūrvaṃ",
+     "gloss": "yāmala-eightfold-preceded-by",
+     "grounds": "compound indicating texts preceded by the eightfold Yāmala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantrā+aneka+vidhāni",
+     "gloss": "tantras-many-kinds",
+     "grounds": "compound: many kinds of tantras",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which scriptural traditions are cited as preceding the many kinds of tantras?",
+   "premises": [
+    "The eightfold Yāmala is mentioned as a preceding tradition.",
+    "Many kinds of tantras are also mentioned.",
+    "These are presented together as known teachings."
+   ],
+   "inference": "The many kinds of tantras, preceded by the eightfold Yāmala, are cited.",
+   "uncertainties": [
+    "The exact scope of 'many kinds of tantras' is not specified."
+   ],
+   "plain_english": "Indeed, there are many kinds of tantras, preceded by the eightfold Yāmala."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "mālā+tantre",
+     "gloss": "in-mālā-tantra",
+     "grounds": "compound naming a specific tantra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vītkāre",
+     "gloss": "in-vītkāra",
+     "grounds": "name of a text or section",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sāgara+amvā",
+     "gloss": "ocean-mother",
+     "grounds": "compound vocative epithet",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahā+mate",
+     "gloss": "o-great-minded-one",
+     "grounds": "compound vocative addressing the lord",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "In which texts does the ocean mother address the great-minded lord?",
+   "premises": [
+    "The Mālā Tantra is named as a context.",
+    "The Vītkāra is named as another context.",
+    "The speaker addresses the great-minded lord as ocean mother."
+   ],
+   "inference": "The address occurs in the context of the Mālā Tantra and the Vītkāra.",
+   "uncertainties": [
+    "The precise identification of Vītkāra is uncertain."
+   ],
+   "plain_english": "In the Mālā Tantra and in the Vītkāra, O ocean mother, O great-minded one."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayo",
+     "gloss": "doubt",
+     "grounds": "state of uncertainty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jātaḥ",
+     "gloss": "arisen",
+     "grounds": "has come into being",
+     "morph": "m.nom.sg.past-participle √jan"
+    },
+    {
+     "surface": "tava+eva",
+     "gloss": "your-indeed",
+     "grounds": "compound emphasizing the source as your statement",
+     "morph": "m.gen.sg+(indecl.)"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "from-statement",
+     "grounds": "source of the doubt",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What causes the doubt that has now arisen in the speaker before the lord?",
+   "premises": [
+    "A doubt has arisen at the present moment.",
+    "The doubt arises from the lord's own statement.",
+    "The speaker addresses the lord directly."
+   ],
+   "inference": "The lord's own statement has caused a doubt to arise now.",
+   "uncertainties": [],
+   "plain_english": "Now, O lord, a doubt has arisen from your very statement."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "numerical unity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "divine power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā+māyā",
+     "gloss": "great-illusion",
+     "grounds": "compound epithet of the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvaṃ+vyāpya",
+     "gloss": "universe-pervading",
+     "grounds": "compound gerund: having pervaded the universe",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatiṣṭhatā",
+     "gloss": "abiding",
+     "grounds": "present participle indicating abiding",
+     "morph": "f.ins.sg.pres-participle √sthā"
+    }
+   ],
+   "question": "What is the nature of the single power that pervades and abides in the universe?",
+   "premises": [
+    "There is one power.",
+    "That power is called great illusion.",
+    "That power pervades the universe and abides."
+   ],
+   "inference": "A single power, the great illusion, pervades and abides throughout the universe.",
+   "uncertainties": [],
+   "plain_english": "There is one power, the great illusion, pervading the universe and abiding within it."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tvayā+uktā",
+     "gloss": "by-you-spoken",
+     "grounds": "compound indicating what was spoken by you",
+     "morph": "f.nom.sg.past-participle √vac"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "absence of a second",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to that power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "scriptural context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kula+mahā+arṇave",
+     "gloss": "kula-great-ocean",
+     "grounds": "compound naming the text Kula Mahārṇava",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What claim about the absence of a second power was made in the Kula Mahārṇava?",
+   "premises": [
+    "The lord previously spoke a teaching.",
+    "That teaching states there is no second power.",
+    "This was stated in the tantra called Kula Mahārṇava."
+   ],
+   "inference": "In the Kula Mahārṇava, the lord declared that there is no second power.",
+   "uncertainties": [],
+   "plain_english": "You said in the tantra, the Kula Mahārṇava, that she is one and there is no second."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "etat+eva",
+     "gloss": "this-indeed",
+     "grounds": "compound emphasizing this very statement",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "vaco",
+     "gloss": "statement",
+     "grounds": "the spoken word",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brāhmī",
+     "gloss": "o-brāhmī",
+     "grounds": "vocative address to Brāhmī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ṣaḍ+āmnāya",
+     "gloss": "six-transmission-streams",
+     "grounds": "compound referring to the six āmnāyas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative expressing difficulty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How can the doctrine of six transmission streams be reconciled with that earlier statement?",
+   "premises": [
+    "The earlier statement affirms a single power.",
+    "The tradition also speaks of six transmission streams.",
+    "The speaker questions how both can hold together."
+   ],
+   "inference": "The existence of six transmission streams appears difficult to reconcile with the earlier statement of unity.",
+   "uncertainties": [],
+   "plain_english": "O Brāhmī, O lord, if this is indeed your statement, how can there be six transmission streams?"
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "ṣaḍ+āmnāya+vibhinnā+eva",
+     "gloss": "six-streams-divided-indeed",
+     "grounds": "compound asserting division into six transmission streams",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "unity of the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "she",
+     "grounds": "refers to the supreme power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramā",
+     "gloss": "supreme",
+     "grounds": "highest status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative expressing difficulty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can the supreme power be both one and divided into six transmission streams?",
+   "premises": [
+    "The power is described as divided into six transmission streams.",
+    "The same power is described as one and supreme.",
+    "These descriptions seem contradictory."
+   ],
+   "inference": "It is questioned how the supreme power can be one yet divided into six transmission streams.",
+   "uncertainties": [],
+   "plain_english": "How can she be divided into six transmission streams and yet be the one supreme power?"
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative expressing difficulty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "unity of the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā+śaktiḥ",
+     "gloss": "supreme-power",
+     "grounds": "compound: the highest power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vibhinnā",
+     "gloss": "divided",
+     "grounds": "appearing as differentiated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parama+īśvarī",
+     "gloss": "supreme-goddess",
+     "grounds": "compound epithet of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How can the one supreme goddess be understood as divided into distinct forms?",
+   "premises": [
+    "The supreme power is affirmed as one.",
+    "The supreme goddess is described as divided.",
+    "The speaker seeks to understand this apparent division."
+   ],
+   "inference": "The unity of the supreme goddess appears in tension with her described division.",
+   "uncertainties": [],
+   "plain_english": "How can the one supreme power, the supreme goddess, be divided?"
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "ṣaḍ+āmnāya+vibhinnāḥ+cet",
+     "gloss": "six-streams-divided-if",
+     "grounds": "compound conditional: if divided into six transmission streams",
+     "morph": "f.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjñā+bheda+nāmataḥ",
+     "gloss": "designation-difference-by-name",
+     "grounds": "compound suggesting difference only in name or designation",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "If the power is divided into six transmission streams, is the difference merely nominal?",
+   "premises": [
+    "The power may be considered divided into six transmission streams.",
+    "A possible explanation is difference in designation.",
+    "The speaker asks whether the division is only by name."
+   ],
+   "inference": "The division into six transmission streams might be only a difference of names.",
+   "uncertainties": [],
+   "plain_english": "If she is divided into six transmission streams, is it merely a difference of names and designations?"
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "siṃhāsanaṃ",
+     "gloss": "throne",
+     "grounds": "seat or throne",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paścima+gā",
+     "gloss": "western-going",
+     "grounds": "compound indicating association with the west",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saumya+siṃhāsanā",
+     "gloss": "northern-throne",
+     "grounds": "compound indicating the northern throne",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "other",
+     "grounds": "another one",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which directional thrones are named as distinct seats in this enumeration?",
+   "premises": [
+    "A throne associated with the west is mentioned.",
+    "A northern throne is mentioned as another.",
+    "These are presented as distinct seats."
+   ],
+   "inference": "The western and northern thrones are named as distinct seats.",
+   "uncertainties": [
+    "The full list of six thrones is not completed in this verse."
+   ],
+   "plain_english": "There is the western throne, and another is the northern throne."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "ṣaṭ+siṃhāsana+saṃsthā",
+     "gloss": "six-thrones-situated",
+     "grounds": "compound indicating situated in six thrones",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍ+āmnāya+iti",
+     "gloss": "six-streams-thus",
+     "grounds": "compound with quotative particle naming the six transmission streams",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "celebrated",
+     "grounds": "declared or renowned",
+     "morph": "f.nom.sg.past-participle √kīrt"
+    }
+   ],
+   "question": "Why is the power situated in six thrones identified as the six transmission streams?",
+   "premises": [
+    "The power is situated in six thrones.",
+    "The tradition names six transmission streams.",
+    "This situated power is celebrated as those six streams."
+   ],
+   "inference": "Because she is situated in six thrones, she is celebrated as the six transmission streams.",
+   "uncertainties": [],
+   "plain_english": "Situated in six thrones, she is celebrated as the six transmission streams."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "scriptural context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmale",
+     "gloss": "in-yāmala",
+     "grounds": "scriptural context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā+api",
+     "gloss": "or-also",
+     "grounds": "compound disjunctive particle",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "caturviṃśati+lakṣake",
+     "gloss": "twenty-four-hundred-thousand",
+     "grounds": "compound indicating a text of twenty-four lakhs",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which scriptural corpora is this teaching about the power said to appear?",
+   "premises": [
+    "The teaching may appear in a tantra.",
+    "It may appear in a yāmala.",
+    "It may appear in the text of twenty-four hundred thousand verses."
+   ],
+   "inference": "The teaching is considered across tantra, yāmala, and the vast twenty-four-lakh corpus.",
+   "uncertainties": [
+    "The identity of the twenty-four-lakh text is not specified."
+   ],
+   "plain_english": "Whether in a tantra, or in a yāmala, or in the work of twenty-four hundred thousand verses."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "unity of the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vibhinnā",
+     "gloss": "divided",
+     "grounds": "differentiated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "whether",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ+siṃhāsana+māśritā",
+     "gloss": "six-thrones-resorting-to",
+     "grounds": "compound indicating resorting to six thrones",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is the one supreme power truly divided by resorting to six thrones?",
+   "premises": [
+    "The power is affirmed as one and supreme.",
+    "The power is described as resorting to six thrones.",
+    "The speaker questions whether this constitutes real division."
+   ],
+   "inference": "The question is whether resorting to six thrones implies real division of the one supreme power.",
+   "uncertainties": [],
+   "plain_english": "Is the one supreme power divided, resorting to six thrones?"
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the primordial nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādyā",
+     "gloss": "primordial",
+     "grounds": "original or first",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakṛtiḥ",
+     "gloss": "nature",
+     "grounds": "primordial nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūkṣmā",
+     "gloss": "subtle",
+     "grounds": "fine or subtle quality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhinna+rūpeṇa",
+     "gloss": "different-form-by",
+     "grounds": "compound indicating by means of different forms",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "situated",
+     "grounds": "established or abiding",
+     "morph": "f.nom.sg.past-participle √sthā"
+    }
+   ],
+   "question": "How does the primordial subtle nature abide while appearing in different forms?",
+   "premises": [
+    "There is a primordial subtle nature.",
+    "That nature is situated in different forms.",
+    "The difference of form does not negate its identity."
+   ],
+   "inference": "The primordial subtle nature abides while manifesting in different forms.",
+   "uncertainties": [],
+   "plain_english": "She who is the primordial, subtle nature abides in different forms."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the doubt",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "speaker's perspective",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "mahatīṃ",
+     "gloss": "great",
+     "grounds": "intensity of the doubt",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaṃkāṃ",
+     "gloss": "doubt",
+     "grounds": "uncertainty to be resolved",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nirṇītuṃ",
+     "gloss": "to-resolve",
+     "grounds": "purpose of the request",
+     "morph": "(indecl.) infinitive √nī"
+    },
+    {
+     "surface": "parama+īśvara",
+     "gloss": "o-supreme-lord",
+     "grounds": "compound vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What request does the speaker make to the supreme lord regarding this great doubt?",
+   "premises": [
+    "The speaker has a great doubt.",
+    "The doubt concerns the preceding teaching.",
+    "The speaker asks the supreme lord to resolve it."
+   ],
+   "inference": "The speaker requests the supreme lord to resolve this great doubt.",
+   "uncertainties": [],
+   "plain_english": "O supreme lord, please resolve this great doubt of mine."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "unity of the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramā",
+     "gloss": "supreme",
+     "grounds": "highest status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "divine power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādyā",
+     "gloss": "primordial",
+     "grounds": "original",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakṛtīḥ",
+     "gloss": "nature",
+     "grounds": "primordial nature; form as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īśvarī",
+     "gloss": "goddess",
+     "grounds": "sovereign goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What follows if the supreme power is affirmed as the one primordial goddess and nature?",
+   "premises": [
+    "The power is posited as one and supreme.",
+    "She is identified as primordial nature.",
+    "She is identified as the sovereign goddess."
+   ],
+   "inference": "If the supreme power is one primordial nature and goddess, her unity must be explained in relation to multiplicity.",
+   "uncertainties": [
+    "The form prakṛtīḥ may reflect textual variation; analyzed as given."
+   ],
+   "plain_english": "If there is one supreme power, the primordial nature, the goddess."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "trailokya+rakṣaṇa+arthāya",
+     "gloss": "three-worlds-protection-for-sake",
+     "grounds": "compound expressing purpose: for the protection of the three worlds",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "samayā",
+     "gloss": "observances",
+     "grounds": "ritual or doctrinal observances",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pālanāya",
+     "gloss": "for-maintenance",
+     "grounds": "purpose of maintaining",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purposes are the observances maintained by that supreme power?",
+   "premises": [
+    "Protection of the three worlds is a stated purpose.",
+    "Maintenance of observances is a stated purpose.",
+    "Both purposes are linked to the power's role."
+   ],
+   "inference": "The observances are maintained for the protection of the three worlds and for their own preservation.",
+   "uncertainties": [
+    "The exact referent of samayā depends on context."
+   ],
+   "plain_english": "For the protection of the three worlds and for the maintenance of the observances."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "guhyāt+guhyatamaṃ",
+     "gloss": "secret-from-more-secret",
+     "grounds": "compound indicating the most secret of secrets",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "divyam",
+     "gloss": "divine",
+     "grounds": "of divine nature",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "akathyaṃ",
+     "gloss": "unspeakable",
+     "grounds": "not to be spoken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-tell",
+     "grounds": "act of revealing",
+     "morph": "1.sg.pres.active √kath"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the teaching",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What kind of teaching does the speaker promise to reveal despite its secrecy?",
+   "premises": [
+    "The teaching is the most secret of secrets.",
+    "The teaching is divine and unspeakable.",
+    "The speaker nevertheless promises to tell it."
+   ],
+   "inference": "The speaker promises to reveal a divine teaching that is the most secret and ordinarily unspeakable.",
+   "uncertainties": [],
+   "plain_english": "I shall tell you that which is more secret than the secret, divine, and unspeakable."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable; transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaskṛtya",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence before speaking",
+     "morph": "(indecl.) gerund √kṛ"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-shall-declare",
+     "grounds": "promise to expound",
+     "morph": "1.sg.fut.active √vac"
+    },
+    {
+     "surface": "viṣṇu+māyāṃ",
+     "gloss": "viṣṇu-illusion",
+     "grounds": "compound naming Viṣṇu's māyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jagan+mayīṃ",
+     "gloss": "world-consisting-of",
+     "grounds": "compound indicating consisting of the world",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What declaration does the speaker make after offering reverence with the sacred syllable?",
+   "premises": [
+    "The speaker utters the sacred syllable and bows.",
+    "The speaker promises to declare a teaching.",
+    "The teaching concerns Viṣṇu's māyā that consists of the world."
+   ],
+   "inference": "After reverence, the speaker will declare the world-pervading Viṣṇu-māyā.",
+   "uncertainties": [],
+   "plain_english": "Saying 'oṃ' and having bowed, I shall declare Viṣṇu's māyā, which consists of the world."
+  }
+ ]
+}

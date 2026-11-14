@@ -1,0 +1,1207 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3326,
+   "rows": [
+    {
+     "surface": "mahiṣasya",
+     "gloss": "of-buffalo",
+     "grounds": "animal to be excluded",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaḍgasya",
+     "gloss": "of-rhinoceros",
+     "grounds": "animal to be excluded",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "emphasizes careful avoidance",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-act √vṛj+vi"
+    }
+   ],
+   "question": "Which animal meats must be carefully avoided in ritual offerings?",
+   "premises": [
+    "Buffalo meat is included in the prohibition.",
+    "Rhinoceros meat is included in the prohibition.",
+    "Avoidance must be done with effort."
+   ],
+   "inference": "Buffalo and rhinoceros meats must be carefully avoided.",
+   "uncertainties": [
+    "khaḍga may denote rhinoceros or another horned animal in some contexts"
+   ],
+   "plain_english": "One should carefully avoid the meat of the buffalo and the rhinoceros."
+  },
+  {
+   "verse": 3327,
+   "rows": [
+    {
+     "surface": "sarārīn",
+     "gloss": "herons",
+     "grounds": "birds listed for avoidance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapotam",
+     "gloss": "pigeon",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārāvataṃ",
+     "gloss": "dove",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sitam",
+     "gloss": "white",
+     "grounds": "qualifies the dove",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which birds are added to the list of meats to be avoided?",
+   "premises": [
+    "Herons are to be avoided.",
+    "Pigeons are to be avoided.",
+    "The white dove is likewise to be avoided."
+   ],
+   "inference": "Herons, pigeons, and the white dove must be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid herons, pigeons, and likewise the white dove."
+  },
+  {
+   "verse": 3328,
+   "rows": [
+    {
+     "surface": "ṭiṭṭibhaṃ",
+     "gloss": "lapwing",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rakta+puccham",
+     "gloss": "red-tailed",
+     "grounds": "compound qualifying a bird",
+     "morph": "compound: rakta+puccḥa"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hārītaṃ",
+     "gloss": "green-pigeon",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāṣṭha+kukkuṭam",
+     "gloss": "wood-cock",
+     "grounds": "compound naming a bird",
+     "morph": "compound: kāṣṭha+kukkuṭa"
+    }
+   ],
+   "question": "Which additional birds are prohibited as ritual meat offerings?",
+   "premises": [
+    "The lapwing is to be avoided.",
+    "A red-tailed bird is to be avoided.",
+    "The green pigeon and wood-cock are to be avoided."
+   ],
+   "inference": "The lapwing, red-tailed bird, green pigeon, and wood-cock must be avoided.",
+   "uncertainties": [
+    "the specific referent of rakta+puccham is not explicitly named"
+   ],
+   "plain_english": "One should avoid the lapwing, the red-tailed bird, the green pigeon, and the wood-cock."
+  },
+  {
+   "verse": 3329,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citra+bakaṃ",
+     "gloss": "painted-heron",
+     "grounds": "compound naming a bird",
+     "morph": "compound: citra+baka"
+    },
+    {
+     "surface": "navyaṃ",
+     "gloss": "young",
+     "grounds": "qualifies the quail",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vartakaṃ",
+     "gloss": "quail",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rakta+tuṇḍakam",
+     "gloss": "red-beaked",
+     "grounds": "compound qualifying a bird",
+     "morph": "compound: rakta+tuṇḍaka"
+    }
+   ],
+   "question": "Which further birds are included among meats to be avoided?",
+   "premises": [
+    "The painted heron is to be avoided.",
+    "The young quail is to be avoided.",
+    "A red-beaked bird is to be avoided."
+   ],
+   "inference": "The painted heron, young quail, and red-beaked bird must be avoided.",
+   "uncertainties": [
+    "the specific referent of rakta+tuṇḍakam is not explicitly named"
+   ],
+   "plain_english": "Likewise one should avoid the painted heron, the young quail, and the red-beaked bird."
+  },
+  {
+   "verse": 3330,
+   "rows": [
+    {
+     "surface": "śastāni",
+     "gloss": "approved",
+     "grounds": "marks items as permitted",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "refers to previously listed meats",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "māṃsāni",
+     "gloss": "meats",
+     "grounds": "category of offerings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "varjanīyāni",
+     "gloss": "to-be-avoided",
+     "grounds": "marks items as prohibited",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "addressee",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp-act √śru"
+    }
+   ],
+   "question": "How does the text transition from approved meats to prohibited meats?",
+   "premises": [
+    "Certain meats have been declared approved.",
+    "The speaker now turns to meats to be avoided.",
+    "The addressee is commanded to listen."
+   ],
+   "inference": "After stating approved meats, the text announces the prohibited meats for the listener.",
+   "uncertainties": [
+    "the scope of etāni as approved may refer to an earlier unstated list"
+   ],
+   "plain_english": "These meats are approved; now hear from me which ones are to be avoided."
+  },
+  {
+   "verse": 3331,
+   "rows": [
+    {
+     "surface": "mayūram",
+     "gloss": "peacock",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātyūhaṃ",
+     "gloss": "gallinule",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāmya+kukkuṭam",
+     "gloss": "village-cock",
+     "grounds": "compound naming a bird",
+     "morph": "compound: grāmya+kukkuṭa"
+    }
+   ],
+   "question": "Which birds are specified as meats that must be avoided?",
+   "premises": [
+    "The peacock is to be avoided.",
+    "The gallinule is to be avoided.",
+    "The village cock is to be avoided."
+   ],
+   "inference": "Peacock, gallinule, and village cock meats must be avoided.",
+   "uncertainties": [],
+   "plain_english": "One should avoid the peacock, the gallinule, and the village cock."
+  },
+  {
+   "verse": 3332,
+   "rows": [
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "general category introduced",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaiḍālikaṃ",
+     "gloss": "catfish",
+     "grounds": "specific fish to avoid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varjet",
+     "gloss": "one-should-avoid",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-act √vṛj"
+    },
+    {
+     "surface": "rājīvaṃ",
+     "gloss": "rajiva-fish",
+     "grounds": "specific fish to avoid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madguraṃ",
+     "gloss": "madgura-fish",
+     "grounds": "specific fish to avoid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific fish are prohibited for ritual use?",
+   "premises": [
+    "The catfish is to be avoided.",
+    "The rajiva fish is to be avoided.",
+    "The madgura fish is likewise to be avoided."
+   ],
+   "inference": "Catfish, rajiva fish, and madgura fish must be avoided.",
+   "uncertainties": [
+    "exact species identification of rājīva and madgura is uncertain"
+   ],
+   "plain_english": "One should avoid the catfish, and likewise the rajiva and madgura fish."
+  },
+  {
+   "verse": 3333,
+   "rows": [
+    {
+     "surface": "kuvaṅkuṭaṃ",
+     "gloss": "kuvankuta-bird",
+     "grounds": "bird listed for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jāla+pādān",
+     "gloss": "net-footed",
+     "grounds": "compound describing web-footed creatures",
+     "morph": "compound: jāla+pāda, m.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citra+bakaṃ",
+     "gloss": "painted-heron",
+     "grounds": "compound naming a bird",
+     "morph": "compound: citra+baka"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which birds and creatures are further prohibited to the beloved addressee?",
+   "premises": [
+    "The kuvankuta bird is to be avoided.",
+    "Web-footed creatures are to be avoided.",
+    "The painted heron is to be avoided."
+   ],
+   "inference": "The kuvankuta bird, web-footed creatures, and the painted heron must be avoided.",
+   "uncertainties": [
+    "kuvaṅkuṭa identification is uncertain"
+   ],
+   "plain_english": "O beloved, one should avoid the kuvankuta bird, web-footed creatures, and the painted heron."
+  },
+  {
+   "verse": 3334,
+   "rows": [
+    {
+     "surface": "bhojayet",
+     "gloss": "one-should-offer",
+     "grounds": "injunctive prescription for offering",
+     "morph": "3.sg.opt-caus-act √bhuj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "emphasizes careful action",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śambhunā",
+     "gloss": "by-shambhu",
+     "grounds": "agent or authority context",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "refers to items to be offered",
+     "morph": "pron.m.acc.pl"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp-act √śru"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What instruction introduces the items that should be carefully offered?",
+   "premises": [
+    "Certain items should be offered with effort.",
+    "The instruction is given in relation to Shambhu.",
+    "The beloved addressee is told to listen."
+   ],
+   "inference": "The text commands the beloved to hear which items should be carefully offered to Shambhu.",
+   "uncertainties": [
+    "śambhunā may indicate offering to Shambhu or action according to Shambhu"
+   ],
+   "plain_english": "And one should carefully offer them to Shambhu; hear them, O beloved."
+  },
+  {
+   "verse": 3335,
+   "rows": [
+    {
+     "surface": "śastakaṃ",
+     "gloss": "shastaka",
+     "grounds": "item named for offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vikiram",
+     "gloss": "scatter-feeding-bird",
+     "grounds": "type of bird for offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "emphatic or connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varvāśākam",
+     "gloss": "varvashaka",
+     "grounds": "item named for offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛtrakam",
+     "gloss": "vritraka",
+     "grounds": "item named for offering",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which items are named among those suitable to be offered?",
+   "premises": [
+    "Shastaka is named as suitable.",
+    "A scatter-feeding bird is named as suitable.",
+    "Varvashaka and vritraka are named as suitable."
+   ],
+   "inference": "Shastaka, a scatter-feeding bird, varvashaka, and vritraka are suitable offerings.",
+   "uncertainties": [
+    "precise identification of śastaka, varvāśāka, and vṛtraka is uncertain"
+   ],
+   "plain_english": "One may offer the shastaka, the scatter-feeding bird, the varvashaka, and the vritraka."
+  },
+  {
+   "verse": 3336,
+   "rows": [
+    {
+     "surface": "vṛtrikā",
+     "gloss": "vritrika",
+     "grounds": "item named for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pucumardam",
+     "gloss": "pucumarda",
+     "grounds": "item named for offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hinamocikā",
+     "gloss": "hinamocika",
+     "grounds": "item named for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīnamīcikā",
+     "gloss": "dinamicika",
+     "grounds": "item named for offering",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional items are included among suitable offerings?",
+   "premises": [
+    "Vritrika is named as suitable.",
+    "Pucumarda is named as suitable.",
+    "Hinamocika and dinamicika are named as suitable."
+   ],
+   "inference": "Vritrika, pucumarda, hinamocika, and dinamicika are included among suitable offerings.",
+   "uncertainties": [
+    "precise identification of these named items is uncertain"
+   ],
+   "plain_english": "Vritrika, pucumarda, hinamocika, and dinamicika are also to be offered."
+  },
+  {
+   "verse": 3337,
+   "rows": [
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "category of ritual items",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "pron.n.nom.pl"
+    },
+    {
+     "surface": "deyāni",
+     "gloss": "to-be-offered",
+     "grounds": "marks items as permitted",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "varjanīyāni",
+     "gloss": "to-be-avoided",
+     "grounds": "marks items as prohibited",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "pron.n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What distinction is introduced regarding flowers for ritual offering?",
+   "premises": [
+    "Flowers are the subject of the instruction.",
+    "Some flowers are to be offered.",
+    "Some flowers are to be avoided."
+   ],
+   "inference": "The text distinguishes between flowers that should be offered and those that should be avoided.",
+   "uncertainties": [],
+   "plain_english": "Now hear which flowers are to be offered and which are to be avoided."
+  },
+  {
+   "verse": 3338,
+   "rows": [
+    {
+     "surface": "jala+jāni",
+     "gloss": "water-born",
+     "grounds": "compound describing aquatic flowers",
+     "morph": "compound: jala+ja, n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyāni",
+     "gloss": "to-be-offered",
+     "grounds": "marks items as permitted",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "karavīrāṇi",
+     "gloss": "oleanders",
+     "grounds": "specific flowers named",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "one-should-offer",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-caus-act √dā"
+    }
+   ],
+   "question": "Which flowers are prescribed as suitable for offering?",
+   "premises": [
+    "Water-born flowers are to be offered.",
+    "Oleanders are to be offered.",
+    "The act of offering is enjoined."
+   ],
+   "inference": "Water-born flowers and oleanders should be offered.",
+   "uncertainties": [],
+   "plain_english": "One should offer water-born flowers and oleanders."
+  },
+  {
+   "verse": 3339,
+   "rows": [
+    {
+     "surface": "droṇa+puṣpam",
+     "gloss": "drona-flower",
+     "grounds": "compound naming a flower",
+     "morph": "compound: droṇa+puṣpa, n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nālam",
+     "gloss": "nala",
+     "grounds": "flower or plant named",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "javā",
+     "gloss": "java",
+     "grounds": "flower named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siṃha+āsyakam",
+     "gloss": "lion-faced",
+     "grounds": "compound naming a flower",
+     "morph": "compound: siṃha+āsya, n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional flowers are included among those to be offered?",
+   "premises": [
+    "The drona flower is included.",
+    "Nala and java are included.",
+    "The lion-faced flower is likewise included."
+   ],
+   "inference": "Drona flower, nala, java, and the lion-faced flower are suitable offerings.",
+   "uncertainties": [
+    "precise botanical identification of nāla and javā is uncertain"
+   ],
+   "plain_english": "One should likewise offer the drona flower, nala, java, and the lion-faced flower."
+  },
+  {
+   "verse": 3340,
+   "rows": [
+    {
+     "surface": "mallikā",
+     "gloss": "jasmine",
+     "grounds": "flower named for offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "campaka",
+     "gloss": "campaka",
+     "grounds": "flower named for offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśokam",
+     "gloss": "ashoka",
+     "grounds": "flower named for offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punnāgaṃ",
+     "gloss": "punnaga",
+     "grounds": "flower named for offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāga+keśaram",
+     "gloss": "nagakesara",
+     "grounds": "compound naming a flower",
+     "morph": "compound: nāga+keśara, n.acc.sg"
+    }
+   ],
+   "question": "Which fragrant flowers are listed as suitable for ritual offering?",
+   "premises": [
+    "Jasmine and campaka are included.",
+    "Ashoka and punnaga are included.",
+    "Nagakesara is included."
+   ],
+   "inference": "Jasmine, campaka, ashoka, punnaga, and nagakesara are suitable flowers for offering.",
+   "uncertainties": [],
+   "plain_english": "Jasmine, campaka, ashoka, punnaga, and nagakesara should be offered."
+  },
+  {
+   "verse": 3341,
+   "rows": [
+    {
+     "surface": "ketakīṃ",
+     "gloss": "ketaki",
+     "grounds": "flower named for offering",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vandhu+jīvam",
+     "gloss": "bandhujiva",
+     "grounds": "compound naming a flower",
+     "morph": "compound: vandhu+jīva, m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śirīṣaṃ",
+     "gloss": "shirisha",
+     "grounds": "flower named for offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bakulaṃ",
+     "gloss": "bakula",
+     "grounds": "flower named for offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further flowers are added to the list of suitable offerings?",
+   "premises": [
+    "Ketaki is included.",
+    "Bandhujiva is included.",
+    "Shirisha and bakula are likewise included."
+   ],
+   "inference": "Ketaki, bandhujiva, shirisha, and bakula are suitable flowers for offering.",
+   "uncertainties": [],
+   "plain_english": "One should likewise offer ketaki, bandhujiva, shirisha, and bakula."
+  },
+  {
+   "verse": 3342,
+   "rows": [
+    {
+     "surface": "mādhyam",
+     "gloss": "madhya",
+     "grounds": "flower named for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sita+aśokam",
+     "gloss": "white-ashoka",
+     "grounds": "compound naming a flower",
+     "morph": "compound: sita+aśoka, m.acc.sg"
+    },
+    {
+     "surface": "karṇikāraṃ",
+     "gloss": "karnikara",
+     "grounds": "flower named for avoidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-act √vṛj+vi"
+    }
+   ],
+   "question": "Which flowers must be excluded from ritual offerings?",
+   "premises": [
+    "Madhya is to be avoided.",
+    "White ashoka is to be avoided.",
+    "Karnikara is to be avoided."
+   ],
+   "inference": "Madhya, white ashoka, and karnikara flowers must be avoided.",
+   "uncertainties": [
+    "precise identification of mādhyam is uncertain"
+   ],
+   "plain_english": "One should avoid the madhya flower, the white ashoka, and the karnikara."
+  },
+  {
+   "verse": 3343,
+   "rows": [
+    {
+     "surface": "aṣṭa+uttara+sahasreṇa",
+     "gloss": "by-thousand-plus-eight",
+     "grounds": "compound indicating number 1008",
+     "morph": "compound: aṣṭa+uttara+sahasra, n.ins.sg"
+    },
+    {
+     "surface": "śiva+mālā",
+     "gloss": "shiva-garland",
+     "grounds": "compound naming a ritual garland",
+     "morph": "compound: śiva+mālā, f.nom.sg"
+    },
+    {
+     "surface": "upāhṛtā",
+     "gloss": "offered",
+     "grounds": "describes the garland as presented",
+     "morph": "f.nom.sg.past-pass-part √hṛ+upa+ā"
+    }
+   ],
+   "question": "What constitutes a Shiva garland when it is ritually offered?",
+   "premises": [
+    "A garland is designated for Shiva.",
+    "The garland consists of one thousand and eight items.",
+    "The garland is described as offered."
+   ],
+   "inference": "A Shiva garland offered in ritual consists of one thousand and eight elements.",
+   "uncertainties": [
+    "whether the count refers to flowers or other units is not explicit"
+   ],
+   "plain_english": "A Shiva garland offered with one thousand and eight elements is prescribed."
+  },
+  {
+   "verse": 3344,
+   "rows": [
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-act √vṛj"
+    },
+    {
+     "surface": "sarva+deveṣu",
+     "gloss": "among-all-gods",
+     "grounds": "compound indicating universal ritual scope",
+     "morph": "compound: sarva+deva, m.loc.pl"
+    },
+    {
+     "surface": "tri+varṇam",
+     "gloss": "three-colored",
+     "grounds": "compound describing prohibited garland",
+     "morph": "compound: tri+varṇa, n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "repeated injunctive prescription",
+     "morph": "3.sg.opt-act √vṛj+vi"
+    }
+   ],
+   "question": "What type of garland must be avoided in offerings to all deities?",
+   "premises": [
+    "The prohibition applies among all gods.",
+    "A three-colored garland is specified.",
+    "Avoidance is emphatically enjoined."
+   ],
+   "inference": "A three-colored garland must be avoided in offerings to all deities.",
+   "uncertainties": [],
+   "plain_english": "One should avoid a three-colored garland in offerings to all the gods."
+  },
+  {
+   "verse": 3345,
+   "rows": [
+    {
+     "surface": "sarva+kṛṣṇaṃ",
+     "gloss": "all-black",
+     "grounds": "compound describing prohibited color",
+     "morph": "compound: sarva+kṛṣṇa, n.acc.sg"
+    },
+    {
+     "surface": "sarva+pītaṃ",
+     "gloss": "all-yellow",
+     "grounds": "compound describing prohibited color",
+     "morph": "compound: sarva+pīta, n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "marks item as not to be offered",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's possessive",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "su+vrate",
+     "gloss": "o-virtuous-one",
+     "grounds": "compound vocative address",
+     "morph": "compound: su+vrata, f.voc.sg"
+    }
+   ],
+   "question": "Which uniformly colored offerings are forbidden to the virtuous addressee?",
+   "premises": [
+    "All-black items are not to be given.",
+    "All-yellow items are not to be given.",
+    "The instruction is addressed to the virtuous one."
+   ],
+   "inference": "All-black and all-yellow offerings must not be given.",
+   "uncertainties": [
+    "the object is implied as garland or flower offering from context"
+   ],
+   "plain_english": "O virtuous one, what is entirely black or entirely yellow must not be offered to me."
+  },
+  {
+   "verse": 3346,
+   "rows": [
+    {
+     "surface": "rakta+kṛṣṇaṃ",
+     "gloss": "red-black",
+     "grounds": "compound describing prohibited color combination",
+     "morph": "compound: rakta+kṛṣṇa, n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-act √dā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvete",
+     "gloss": "in-white",
+     "grounds": "context of white offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "prohibited color in that context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "one-should-offer",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-caus-act √dā"
+    }
+   ],
+   "question": "Which color combinations are prohibited in ritual offerings?",
+   "premises": [
+    "A red-black combination must not be given.",
+    "Yellow must not be offered within a white context.",
+    "Both prohibitions are explicitly enjoined."
+   ],
+   "inference": "Red-black combinations and yellow mixed with white must not be offered.",
+   "uncertainties": [
+    "the exact referent of śvete as a white base or white item is context-dependent"
+   ],
+   "plain_english": "One should not give a red-and-black offering, nor should one offer yellow within white."
+  },
+  {
+   "verse": 3347,
+   "rows": [
+    {
+     "surface": "śiva+mālā",
+     "gloss": "shiva-garland",
+     "grounds": "compound naming a ritual garland",
+     "morph": "compound: śiva+mālā, f.nom.sg"
+    },
+    {
+     "surface": "bāhu+mātrā",
+     "gloss": "arm-measure",
+     "grounds": "compound indicating length",
+     "morph": "compound: bāhu+mātrā, f.nom.sg"
+    },
+    {
+     "surface": "catur+aṅgana",
+     "gloss": "four-angulas",
+     "grounds": "compound indicating additional measure",
+     "morph": "compound: catur+aṅgula, n.ins.sg"
+    },
+    {
+     "surface": "sammatā",
+     "gloss": "approved",
+     "grounds": "marks the measure as accepted",
+     "morph": "f.nom.sg.past-pass-part √man+sam"
+    }
+   ],
+   "question": "What is the approved length for a Shiva garland?",
+   "premises": [
+    "The garland is designated for Shiva.",
+    "Its measure is an arm's length.",
+    "An additional four angulas are included."
+   ],
+   "inference": "A Shiva garland is approved when it measures an arm's length plus four angulas.",
+   "uncertainties": [
+    "exact interpretation of catur+aṅgana as added measure is slightly ambiguous"
+   ],
+   "plain_english": "A Shiva garland measuring an arm's length plus four angulas is approved."
+  },
+  {
+   "verse": 3348,
+   "rows": [
+    {
+     "surface": "jala+jānām",
+     "gloss": "of-water-born",
+     "grounds": "compound referring to aquatic flowers",
+     "morph": "compound: jala+ja, n.gen.pl"
+    },
+    {
+     "surface": "yathā+yogaṃ",
+     "gloss": "as-appropriate",
+     "grounds": "compound indicating suitability",
+     "morph": "compound: yathā+yoga, (indecl.)"
+    },
+    {
+     "surface": "mālye",
+     "gloss": "in-garland",
+     "grounds": "context of garland making",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "refers to what is placed",
+     "morph": "n.acc.sg.past-pass-part √dā"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-act √vṛj+vi"
+    }
+   ],
+   "question": "How should water-born flowers be treated when making garlands?",
+   "premises": [
+    "Water-born flowers are under consideration.",
+    "Their use in garlands must be appropriate.",
+    "Inappropriate placement in a garland must be avoided."
+   ],
+   "inference": "Water-born flowers should be avoided in garlands except where appropriate.",
+   "uncertainties": [
+    "the exact restriction implied by yathā+yogaṃ is context-dependent"
+   ],
+   "plain_english": "One should avoid using water-born flowers in a garland except as appropriate."
+  },
+  {
+   "verse": 3349,
+   "rows": [
+    {
+     "surface": "hasta+mānena",
+     "gloss": "by-hand-measure",
+     "grounds": "compound indicating measurement unit",
+     "morph": "compound: hasta+māna, n.ins.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the garland",
+     "morph": "pron.n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt-act √kṛ"
+    },
+    {
+     "surface": "catur+hastam",
+     "gloss": "four-hands",
+     "grounds": "compound indicating length",
+     "morph": "compound: catur+hasta, n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "best",
+     "grounds": "evaluates the measure as superior",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What hand-measure is prescribed as the best length for making a garland?",
+   "premises": [
+    "The garland should be made by hand-measure.",
+    "A length of four hands is specified.",
+    "This measure is declared the best."
+   ],
+   "inference": "A garland made to the measure of four hands is the best.",
+   "uncertainties": [],
+   "plain_english": "One should make it by the hand-measure; a length of four hands is likewise the best."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "aśvattho",
+     "gloss": "sacred-fig",
+     "grounds": "nominal stem aśvattha; final visarga becomes o before voiced g in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gugguluñcaiva",
+     "gloss": "guggulu-and-also",
+     "grounds": "fused sandhi form: guggulu + ca + eva; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lājiraṃ",
+     "gloss": "lājira",
+     "grounds": "nominal stem lājira; accusative singular in enumerated list",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇajīrakam",
+     "gloss": "black-cumin",
+     "grounds": "compound noun kṛṣṇa-jīraka; accusative singular in enumerated list",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional substances are included in the ongoing enumerated ritual list?",
+   "premises": [
+    "The sacred fig is named as an item in the list.",
+    "Guggulu is also included as an item in the list.",
+    "Lājira and black cumin are added to the enumeration."
+   ],
+   "inference": "These named substances continue the prescribed enumeration of ritual materials.",
+   "uncertainties": [
+    "The precise botanical identification of lājira is not determined from this verse alone."
+   ],
+   "plain_english": "Sacred fig, guggulu as well, and also lājira and black cumin."
+  }
+ ]
+}

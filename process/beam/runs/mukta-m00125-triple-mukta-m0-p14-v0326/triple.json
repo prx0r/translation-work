@@ -1,0 +1,1171 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "kṣīravat",
+     "gloss": "like-milk",
+     "grounds": "comparative compound indicating similarity to milk",
+     "morph": "compound=kṣīra+vat"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "ghee",
+     "grounds": "substance to be used in the offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "specifies a fractional measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "quarter",
+     "grounds": "alternative fractional measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣaudraṃ",
+     "gloss": "honey",
+     "grounds": "substance to be used in the offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the same measure to honey",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apalam",
+     "gloss": "one-pala",
+     "grounds": "specifies the quantity as one pala",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What quantities of ghee and honey are prescribed for the ritual mixture?",
+   "premises": [
+    "Ghee is measured like milk.",
+    "Ghee may be half or a quarter in measure.",
+    "Honey is likewise prescribed as one pala."
+   ],
+   "inference": "The ritual mixture requires ghee in a half or quarter measure and honey in the measure of one pala.",
+   "uncertainties": [
+    "The exact base unit relative to which half or quarter is taken is not explicit in this verse."
+   ],
+   "plain_english": "Ghee, like milk, should be half or a quarter, and honey likewise one pala."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "phalābhāve",
+     "gloss": "in-absence-of-fruits",
+     "grounds": "condition when fruits are unavailable",
+     "morph": "compound=phala+abhāve; m.loc.sg"
+    },
+    {
+     "surface": "yathālābhaṃ",
+     "gloss": "as-available",
+     "grounds": "indicates using whatever can be obtained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "the remaining portion to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adbhiḥ",
+     "gloss": "with-water",
+     "grounds": "instrument used to fill the remainder",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "injunction to complete the mixture",
+     "morph": "3.sg.opt.act √pṛ"
+    }
+   ],
+   "question": "How should the ritual mixture be completed when fruits are unavailable?",
+   "premises": [
+    "Fruits may be absent.",
+    "Available substitutes may be used as obtained.",
+    "The remainder must be filled with water."
+   ],
+   "inference": "If fruits are unavailable, one should use what is available and fill the rest with water.",
+   "uncertainties": [],
+   "plain_english": "If fruits are unavailable, use what can be obtained and fill the remainder with water."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "ardhapādaṃ",
+     "gloss": "half-quarter",
+     "grounds": "specifies a fractional measure",
+     "morph": "compound=ardha+pādaṃ; n.nom.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "alternative smaller fractional measure",
+     "morph": "compound=tad+ardhaṃ; n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "ritual material being measured",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hastamitaṃ",
+     "gloss": "hand-measured",
+     "grounds": "alternative measure based on a hand length",
+     "morph": "compound=hasta+mitaṃ; n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement of measure",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What measures are permitted for the quantity of flowers in the ritual?",
+   "premises": [
+    "Flowers may be measured as a half-quarter.",
+    "Flowers may alternatively be half of that.",
+    "Flowers may alternatively be measured by a hand length."
+   ],
+   "inference": "The prescribed quantity of flowers may be a half-quarter, half of that, or a hand-measure.",
+   "uncertainties": [],
+   "plain_english": "The flowers should be a half-quarter, or half of that, or measured by a hand."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "in-same-way",
+     "grounds": "extends the previous rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātramānaṃ",
+     "gloss": "vessel-measure",
+     "grounds": "measure determined by the vessel",
+     "morph": "compound=pātra+mānaṃ; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamānaṃ",
+     "gloss": "root-measure",
+     "grounds": "measure determined by roots",
+     "morph": "compound=mūla+mānaṃ; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connects specifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhavat",
+     "gloss": "like-fragrance",
+     "grounds": "indicates similarity to the measure of fragrance",
+     "morph": "compound=gandha+vat"
+    }
+   ],
+   "question": "How are the measures for vessel contents and roots determined in the ritual?",
+   "premises": [
+    "The vessel measure follows the same principle.",
+    "The root measure is specified separately.",
+    "The root measure is like that of fragrance."
+   ],
+   "inference": "The vessel measure follows the same rule, and the root measure is determined like the measure of fragrance.",
+   "uncertainties": [
+    "The exact reference for 'in the same way' depends on the preceding context."
+   ],
+   "plain_english": "In the same way, the vessel measure applies, and the root measure should be like that of fragrance."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "mṛnmānaṃ",
+     "gloss": "clay-measure",
+     "grounds": "measure for clay",
+     "morph": "compound=mṛd+mānaṃ; n.nom.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "refers to a previously stated rule",
+     "morph": "compound=pūrva+vat"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "states what has been taught",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyad",
+     "gloss": "other",
+     "grounds": "refers to additional items",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "includes other cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indicates application of the same method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūhyatām",
+     "gloss": "should-be-inferred",
+     "grounds": "injunction to extend the rule by inference",
+     "morph": "3.sg.imp.pass √ūh"
+    }
+   ],
+   "question": "How should measures for clay and other unspecified materials be determined?",
+   "premises": [
+    "The measure for clay is declared as before.",
+    "Other materials are also included.",
+    "The same method should be inferred for them."
+   ],
+   "inference": "Clay follows the previously stated measure, and other materials should be measured by the same inferred method.",
+   "uncertainties": [],
+   "plain_english": "The measure for clay is as declared before, and other things also should be inferred in the same way."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "yavo",
+     "gloss": "barley",
+     "grounds": "specified as representative among seeds",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nikhila",
+     "gloss": "all",
+     "grounds": "qualifies the entire class",
+     "morph": "compound=nikhila+bījānāṃ"
+    },
+    {
+     "surface": "bījānāṃ",
+     "gloss": "of-seeds",
+     "grounds": "class of materials",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dhātūnāṃ",
+     "gloss": "of-minerals",
+     "grounds": "class of materials",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "haritālakam",
+     "gloss": "orpiment",
+     "grounds": "specified as representative among minerals",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which substances represent all seeds and all minerals in the ritual prescriptions?",
+   "premises": [
+    "Barley stands for all seeds.",
+    "Orpiment stands for all minerals."
+   ],
+   "inference": "Barley is the representative seed and orpiment is the representative mineral.",
+   "uncertainties": [],
+   "plain_english": "Barley represents all seeds, and orpiment represents all minerals."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "phalānāṃ",
+     "gloss": "of-fruits",
+     "grounds": "class of materials",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kadalījātaṃ",
+     "gloss": "banana-born",
+     "grounds": "fruit derived from the banana plant",
+     "morph": "compound=kadalī+jātaṃ; n.nom.sg"
+    },
+    {
+     "surface": "patrāṇāṃ",
+     "gloss": "of-leaves",
+     "grounds": "class of materials",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "bilvapatrakam",
+     "gloss": "bilva-leaf",
+     "grounds": "leaf of the bilva tree as representative",
+     "morph": "compound=bilva+patrakam; n.nom.sg"
+    }
+   ],
+   "question": "Which substances represent all fruits and all leaves in the ritual prescriptions?",
+   "premises": [
+    "The banana-born fruit stands for all fruits.",
+    "The bilva leaf stands for all leaves."
+   ],
+   "inference": "Banana represents fruits and bilva leaf represents leaves.",
+   "uncertainties": [],
+   "plain_english": "Among fruits, the banana is used, and among leaves, the bilva leaf."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandalwood",
+     "grounds": "specified as representative fragrance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvagandhānāṃ",
+     "gloss": "of-all-fragrances",
+     "grounds": "class of fragrant substances",
+     "morph": "compound=sarva+gandhānāṃ; m.gen.pl"
+    },
+    {
+     "surface": "mṛdasyur",
+     "gloss": "clay-should-be",
+     "grounds": "prescribes clay as representative; sandhi fusion in form",
+     "morph": "compound=mṛd+asyuḥ; 3.pl.opt.act √as"
+    },
+    {
+     "surface": "darbhamūlajāḥ",
+     "gloss": "born-from-darbha-roots",
+     "grounds": "clay originating from darbha roots",
+     "morph": "compound=darbha+mūla+jāḥ; f.nom.pl"
+    }
+   ],
+   "question": "Which substances represent all fragrances and which clay is prescribed for ritual use?",
+   "premises": [
+    "Sandalwood stands for all fragrances.",
+    "Clay born from darbha roots is prescribed."
+   ],
+   "inference": "Sandalwood represents all fragrances, and the prescribed clay is that born from darbha roots.",
+   "uncertainties": [
+    "The form mṛdasyur is taken as prescribing clay; exact sandhi resolution is noted but the token is kept fused."
+   ],
+   "plain_english": "Sandalwood represents all fragrances, and the clay should be that born from darbha roots."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "sitābhāve",
+     "gloss": "in-absence-of-sugar",
+     "grounds": "condition when refined sugar is unavailable",
+     "morph": "compound=sitā+abhāve; m.loc.sg"
+    },
+    {
+     "surface": "gulaṃ",
+     "gloss": "jaggery",
+     "grounds": "substitute substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "states the prescribed substitute",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ikṣūgakṣaudrayoḥ",
+     "gloss": "of-sugarcane-and-honey",
+     "grounds": "pair of substances for which substitution applies",
+     "morph": "compound=ikṣu+uga+kṣaudrayoḥ; m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the scope of substitution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers back to jaggery as substitute",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substitute is prescribed when sugar, sugarcane, or honey is unavailable?",
+   "premises": [
+    "Refined sugar may be absent.",
+    "Sugarcane and honey are included in the same context.",
+    "Jaggery is declared as the substitute."
+   ],
+   "inference": "In the absence of sugar, and likewise for sugarcane and honey, jaggery is prescribed as the substitute.",
+   "uncertainties": [
+    "The compound ikṣūgakṣaudrayoḥ contains internal sandhi; the exact first member is interpreted as sugarcane-related."
+   ],
+   "plain_english": "If sugar is unavailable, jaggery is prescribed, and that applies also in place of sugarcane and honey."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "dravyāṇi",
+     "gloss": "materials",
+     "grounds": "ritual substances to be placed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "refers to the previously listed materials",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "includes every listed material",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "mantra used during placement",
+     "morph": "compound=mūla+mantreṇa; m.ins.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to arrange the materials",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "By what mantra should all these ritual materials be placed?",
+   "premises": [
+    "All these materials are to be placed.",
+    "The placement requires a mantra.",
+    "The root mantra is specified for this action."
+   ],
+   "inference": "All these materials should be placed using the root mantra.",
+   "uncertainties": [],
+   "plain_english": "One should place all these materials with the root mantra."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior act of offering",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "hṛdayamantreṇa",
+     "gloss": "with-heart-mantra",
+     "grounds": "mantra used for giving cloths",
+     "morph": "compound=hṛdaya+mantreṇa; m.ins.sg"
+    },
+    {
+     "surface": "vastrāṇi",
+     "gloss": "cloths",
+     "grounds": "items to be offered",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vividhāni",
+     "gloss": "various",
+     "grounds": "indicates diversity of cloths",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to the ritual sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With which mantra should various cloths be offered in the ritual sequence?",
+   "premises": [
+    "Various cloths are to be given.",
+    "The act of giving requires a mantra.",
+    "The heart mantra is specified."
+   ],
+   "inference": "Various cloths should be given using the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Having given various cloths with the heart mantra."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "offering substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svanāmamantreṇa",
+     "gloss": "with-own-name-mantra",
+     "grounds": "mantra consisting of the item's own name",
+     "morph": "compound=sva+nāma+mantreṇa; m.ins.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "offering substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the same rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the same application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "marks explanation or emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With which mantra should fragrance, flowers, and incense be offered?",
+   "premises": [
+    "Fragrance, flowers, and incense are to be offered.",
+    "The same mantra rule applies to them.",
+    "The mantra is the one formed by their own name."
+   ],
+   "inference": "Fragrance, flowers, and incense should likewise be offered with the mantra of their own name.",
+   "uncertainties": [],
+   "plain_english": "Fragrance, flowers, and incense should likewise be offered with the mantra of their own name."
+  },
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "kavacena",
+     "gloss": "with-armor-mantra",
+     "grounds": "protective mantra used for covering",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "avakuṇṭhya",
+     "gloss": "having-covered",
+     "grounds": "act of enclosing or protecting",
+     "morph": "gerund √kuṇṭh"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homakarma",
+     "gloss": "fire-offering-rite",
+     "grounds": "the ritual action to be begun",
+     "morph": "compound=homa+karma; n.acc.sg"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "injunction to commence the rite",
+     "morph": "3.sg.opt.act √rabh"
+    }
+   ],
+   "question": "What preparatory act must precede the beginning of the fire-offering rite?",
+   "premises": [
+    "The armor mantra is used for covering.",
+    "Covering is performed before the next step.",
+    "The fire-offering rite is then begun."
+   ],
+   "inference": "After covering with the armor mantra, one should begin the fire-offering rite.",
+   "uncertainties": [],
+   "plain_english": "Having covered with the armor mantra, one should then begin the fire-offering rite."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-fire-pit",
+     "grounds": "possible location for the rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar-ground",
+     "grounds": "alternative location for the rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvalakṣaṇasaṃyute",
+     "gloss": "endowed-with-all-marks",
+     "grounds": "qualifies the ritual place as properly prepared",
+     "morph": "compound=sarva+lakṣaṇa+saṃyute; n.loc.sg"
+    }
+   ],
+   "question": "In what kind of ritual place may the fire-offering be performed?",
+   "premises": [
+    "The rite may be performed in a fire pit.",
+    "The rite may be performed on an altar ground.",
+    "The place must be endowed with all proper marks."
+   ],
+   "inference": "The fire-offering may be performed in a fire pit or on an altar ground, provided it has all the required marks.",
+   "uncertainties": [],
+   "plain_english": "In a fire pit or on an altar ground, endowed with all the proper marks."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "samid",
+     "gloss": "firewood",
+     "grounds": "oblation material",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ājya",
+     "gloss": "clarified-butter",
+     "grounds": "oblation material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nalājāṃś",
+     "gloss": "parched-rice",
+     "grounds": "oblation material; accusative plural form",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects oblation materials",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tilaṃ",
+     "gloss": "sesame",
+     "grounds": "oblation material",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer",
+     "grounds": "injunction to perform oblations",
+     "morph": "3.sg.opt.caus.act √hu"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "specifies sequential performance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which oblation materials must be offered in sequence during the fire rite?",
+   "premises": [
+    "Firewood, clarified butter, parched rice, and sesame are listed.",
+    "These are to be offered in the fire.",
+    "The offerings must follow a sequence."
+   ],
+   "inference": "One should offer firewood, clarified butter, parched rice, and sesame in order.",
+   "uncertainties": [],
+   "plain_english": "One should offer firewood, clarified butter, parched rice, and sesame in due order."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "śamī",
+     "gloss": "shami",
+     "grounds": "type of wood for fire sticks",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ravādi",
+     "gloss": "and-others",
+     "grounds": "indicates additional similar types",
+     "morph": "compound=rava+ādi"
+    },
+    {
+     "surface": "āmra",
+     "gloss": "mango",
+     "grounds": "type of wood for fire sticks",
+     "morph": "compound=āmra+śrīvṛkṣāḥ"
+    },
+    {
+     "surface": "śrīvṛkṣāḥ",
+     "gloss": "sacred-fig-trees",
+     "grounds": "type of wood for fire sticks",
+     "morph": "compound=śrī+vṛkṣāḥ; m.nom.pl"
+    },
+    {
+     "surface": "pāvakāditaḥ",
+     "gloss": "beginning-with-fire-direction",
+     "grounds": "indicates directional or sequential starting point",
+     "morph": "compound=pāvaka+āditaḥ; (indecl.)"
+    }
+   ],
+   "question": "Which types of wood are specified for the fire sticks in the ritual sequence?",
+   "premises": [
+    "Shami and related woods are included.",
+    "Mango and sacred fig trees are included.",
+    "Their use begins from the fire direction."
+   ],
+   "inference": "The fire sticks should be of shami and others, mango, and sacred fig, beginning from the fire direction.",
+   "uncertainties": [
+    "The exact parsing of ravādi and the directional reference pāvakāditaḥ is context-dependent."
+   ],
+   "plain_english": "Shami and others, mango, and sacred fig trees are used, beginning from the direction of fire."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "pañcapakṣe",
+     "gloss": "in-fivefold-option",
+     "grounds": "context of a fivefold arrangement",
+     "morph": "compound=pañca+pakṣe; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a specific rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samidhaḥ",
+     "gloss": "fire-sticks",
+     "grounds": "ritual fuel sticks",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-abandon",
+     "grounds": "injunction to exclude certain sticks",
+     "morph": "3.sg.opt.act √tyaj"
+    },
+    {
+     "surface": "śamyādi",
+     "gloss": "beginning-with-shami",
+     "grounds": "class of sticks to be excluded",
+     "morph": "compound=śamī+ādi"
+    },
+    {
+     "surface": "sambhavāḥ",
+     "gloss": "arising-from",
+     "grounds": "indicates origin of the sticks",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which fire sticks must be excluded in the fivefold ritual arrangement?",
+   "premises": [
+    "A fivefold option is under consideration.",
+    "Certain fire sticks are to be abandoned.",
+    "Those arising from shami and related sources are specified."
+   ],
+   "inference": "In the fivefold arrangement, fire sticks arising from shami and similar sources should be abandoned.",
+   "uncertainties": [],
+   "plain_english": "In the fivefold arrangement, one should avoid fire sticks arising from shami and similar trees."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "possible count of offerings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "alternative count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arghaṃ",
+     "gloss": "half-of-that",
+     "grounds": "alternative smaller count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamaḥ",
+     "gloss": "with-root-mantra",
+     "grounds": "mantra used for the offerings; form as given",
+     "morph": "compound=mūla+maḥ"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "states the prescribed rule",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What counts of offerings with the root mantra are declared permissible?",
+   "premises": [
+    "A hundred offerings may be made.",
+    "Half of that or half again may be made.",
+    "The offerings are associated with the root mantra."
+   ],
+   "inference": "A hundred, fifty, or twenty-five offerings with the root mantra are declared permissible.",
+   "uncertainties": [
+    "The form mūlamaḥ is interpreted as relating to the root mantra but is kept as given."
+   ],
+   "plain_english": "A hundred, or half of that, or half again, is declared to be offered with the root mantra."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of a prior act",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "the completed ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "movement into the ritual space",
+     "morph": "gerund √viś"
+    },
+    {
+     "surface": "antar",
+     "gloss": "inside",
+     "grounds": "indicates entering within",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvārapūjāṃ",
+     "gloss": "door-worship",
+     "grounds": "ritual worship at the door",
+     "morph": "compound=dvāra+pūjāṃ; f.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "completion of door worship",
+     "morph": "gerund √dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects sequential actions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions must follow the completion of the fire-offering?",
+   "premises": [
+    "The fire-offering is completed first.",
+    "One then enters inside.",
+    "Door worship is performed."
+   ],
+   "inference": "After completing the fire-offering, one should enter inside and perform the door worship.",
+   "uncertainties": [],
+   "plain_english": "Having performed the fire-offering, entering inside, and having performed the door worship."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-resolved",
+     "grounds": "mental determination of the seat",
+     "morph": "gerund √kḷp"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "ritual seat to be established",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-pedestal",
+     "grounds": "location of the seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūrtim",
+     "gloss": "form",
+     "grounds": "deity form to be invoked",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "ritual act of invocation",
+     "morph": "gerund √vah"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to perform worship",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What sequence of actions leads to the worship of the deity on the pedestal?",
+   "premises": [
+    "The seat is resolved on the pedestal.",
+    "The deity's form is invoked.",
+    "Worship is then performed."
+   ],
+   "inference": "After resolving the seat on the pedestal and invoking the form, one should perform worship.",
+   "uncertainties": [],
+   "plain_english": "Having resolved the seat on the pedestal and invoked the form, one should worship."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "brahmabhiḥ",
+     "gloss": "with-brahma-mantras",
+     "grounds": "mantras used to make complete",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sakalīkṛtya",
+     "gloss": "having-made-complete",
+     "grounds": "ritual act of completing or integrating",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "vidyādehaṃ",
+     "gloss": "mantra-body",
+     "grounds": "body constituted of vidyā/mantra",
+     "morph": "compound=vidyā+dehaṃ; m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to install or place",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "How is the mantra-body prepared and installed in the ritual sequence?",
+   "premises": [
+    "The mantra-body is made complete with brahma mantras.",
+    "This completion precedes placement.",
+    "The mantra-body is then placed."
+   ],
+   "inference": "After making the mantra-body complete with brahma mantras, one should place it.",
+   "uncertainties": [],
+   "plain_english": "Having made the mantra-body complete with the brahma mantras, one should then place it."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "ritual offering item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to previous actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "mantra used for offering the lamp",
+     "morph": "compound=mūla+mantreṇa; m.ins.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "act of offering",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "todya",
+     "gloss": "musical-instrument",
+     "grounds": "accompaniment to the offering",
+     "morph": "compound=todya+samanvitam"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied-by",
+     "grounds": "indicates inclusion of instruments",
+     "morph": "compound=todya+samanvitam; m.acc.sg"
+    }
+   ],
+   "question": "How should the lamp be offered and what accompaniment is required?",
+   "premises": [
+    "The lamp is to be given.",
+    "The root mantra is used in giving it.",
+    "It is accompanied by musical instruments."
+   ],
+   "inference": "The lamp should be offered with the root mantra accompanied by musical instruments.",
+   "uncertainties": [],
+   "plain_english": "Having offered the lamp with the root mantra, accompanied by musical instruments."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "vedastotraravopetaṃ",
+     "gloss": "endowed-with-veda-hymn-sound",
+     "grounds": "qualified by sounds of Vedic hymns",
+     "morph": "compound=veda+stotra+rava+upetaṃ; m.acc.sg"
+    },
+    {
+     "surface": "ghaṇṭānādasamanvitam",
+     "gloss": "accompanied-by-bell-sound",
+     "grounds": "qualified by the sound of bells",
+     "morph": "compound=ghaṇṭā+nāda+samanvitam; m.acc.sg"
+    }
+   ],
+   "question": "What sounds must accompany the ritual offering described in this context?",
+   "premises": [
+    "The offering is endowed with the sound of Vedic hymns.",
+    "The offering is accompanied by the sound of bells."
+   ],
+   "inference": "The ritual offering must be accompanied by Vedic hymn sounds and bell sounds.",
+   "uncertainties": [],
+   "plain_english": "Endowed with the sound of Vedic hymns and accompanied by the sound of bells."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-lifted",
+     "grounds": "act of raising the offering",
+     "morph": "gerund √hṛ"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-brought",
+     "grounds": "act of carrying forward",
+     "morph": "gerund √nī"
+    },
+    {
+     "surface": "devāgre",
+     "gloss": "before-deity",
+     "grounds": "location in front of the deity",
+     "morph": "compound=deva+agre; n.loc.sg"
+    },
+    {
+     "surface": "tripādopari",
+     "gloss": "upon-tripod",
+     "grounds": "placement on a three-footed stand",
+     "morph": "compound=tri+pāda+upari; (indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunction to set down the offering",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where should the lifted offering be placed before the deity?",
+   "premises": [
+    "The offering is lifted and brought forward.",
+    "It is taken before the deity.",
+    "It is placed upon a tripod."
+   ],
+   "inference": "After lifting and bringing the offering before the deity, one should place it upon the tripod.",
+   "uncertainties": [],
+   "plain_english": "Having lifted and brought it before the deity, one should place it upon the tripod."
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1201,
+   "rows": [
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative object of control",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vaśagaṃ",
+     "gloss": "under-control",
+     "grounds": "adjective agreeing with three-worlds",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "sarvapāpaṃ",
+     "gloss": "all-sin",
+     "grounds": "accusative object removed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hared",
+     "gloss": "removes",
+     "grounds": "verb of removal",
+     "morph": "v.3.sg.act-pres root hṛ"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb of certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does the rite make the three worlds subject to him and certainly remove all his sin?",
+   "premises": [
+    "Three worlds become under his control.",
+    "All sin is certainly removed."
+   ],
+   "inference": "The practitioner gains control over the three worlds and certain removal of all sin.",
+   "uncertainties": [
+    "The referent of tasya is the practitioner."
+   ],
+   "plain_english": "The three worlds become subject to him, and all sin is certainly removed."
+  },
+  {
+   "verse": 1202,
+   "rows": [
+    {
+     "surface": "samṛddhimān",
+     "gloss": "prosperous",
+     "grounds": "predicate adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb of becoming",
+     "morph": "v.3.sg.act-opt root bhū"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb of comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvapāpaharaḥ",
+     "gloss": "all-sin-removing",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does the same rite make the practitioner prosperous and himself remove all sin?",
+   "premises": [
+    "He becomes prosperous.",
+    "He himself removes all sin."
+   ],
+   "inference": "The practitioner becomes prosperous and personally removes all sin.",
+   "uncertainties": [
+    "tadvat links this result to the prior rite."
+   ],
+   "plain_english": "He becomes prosperous; likewise he himself removes all sin."
+  },
+  {
+   "verse": 1203,
+   "rows": [
+    {
+     "surface": "śvetotpalaiḥ",
+     "gloss": "white-lotuses",
+     "grounds": "instrumental means of worship",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśuddhaiḥ",
+     "gloss": "purified",
+     "grounds": "adjective agreeing with lotuses",
+     "morph": "adj.inst.pl.n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "verb of worship",
+     "morph": "v.3.sg.act-opt root pūj"
+    },
+    {
+     "surface": "māsamātrakam",
+     "gloss": "month-only",
+     "grounds": "duration of worship",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Should one worship with purified white lotuses for a month only?",
+   "premises": [
+    "Worship uses purified white lotuses.",
+    "The duration is one month only."
+   ],
+   "inference": "The prescribed worship lasts one month with purified white lotuses.",
+   "uncertainties": [
+    "māsamātrakam may mean for a month only."
+   ],
+   "plain_english": "One should worship with purified white lotuses for a month only."
+  },
+  {
+   "verse": 1204,
+   "rows": [
+    {
+     "surface": "kulācārakrameṇa",
+     "gloss": "family-practice-order",
+     "grounds": "instrumental means",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "accusative object destroyed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śatajanmajam",
+     "gloss": "hundred-births-born",
+     "grounds": "adjective describing sin",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Does family-practice order remove sin born across hundred births?",
+   "premises": [
+    "Family-practice order is the means.",
+    "The sin is born across hundred births."
+   ],
+   "inference": "Following family practice order removes sin accumulated over a hundred births.",
+   "uncertainties": [
+    "The verb of removal is implied from context."
+   ],
+   "plain_english": "By family-practice order indeed sin born across a hundred births is removed."
+  },
+  {
+   "verse": 1205,
+   "rows": [
+    {
+     "surface": "muktis",
+     "gloss": "liberation",
+     "grounds": "subject of sentence",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative place",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "nūnaṃ",
+     "gloss": "certainly",
+     "grounds": "adverb of certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "speech",
+     "grounds": "subject or instrument",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "jīvasamaḥ",
+     "gloss": "life-equal",
+     "grounds": "adjective comparison",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative place",
+     "morph": "n.loc.sg.f"
+    }
+   ],
+   "question": "Is liberation certainly in his hand and speech equal to life on earth?",
+   "premises": [
+    "Liberation is in his hand.",
+    "Speech is equal to life on earth."
+   ],
+   "inference": "Liberation is assured in his hand, and his speech equals life on earth.",
+   "uncertainties": [
+    "The exact syntactic relation of vācā is ambiguous."
+   ],
+   "plain_english": "Liberation is certainly in his hand; speech is equal to life on earth."
+  },
+  {
+   "verse": 1206,
+   "rows": [
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "accusative object destroyed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "verb of destruction",
+     "morph": "v.3.sg.act-opt root naś"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb of comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb of directness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmasamaḥ",
+     "gloss": "desire-equal",
+     "grounds": "predicate adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb of becoming",
+     "morph": "v.3.sg.act-opt root bhū"
+    }
+   ],
+   "question": "Does the rite directly destroy sin and make one equal to desire?",
+   "premises": [
+    "Sin is directly destroyed.",
+    "One becomes equal to desire."
+   ],
+   "inference": "The rite directly destroys sin and makes the practitioner equal to desire.",
+   "uncertainties": [
+    "kāmasamaḥ may describe the practitioner."
+   ],
+   "plain_english": "Sin is destroyed likewise directly; one becomes equal to desire."
+  }
+ ]
+}

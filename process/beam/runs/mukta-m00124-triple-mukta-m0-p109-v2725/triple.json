@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "tintriṇī",
+     "gloss": "tamarind-tree",
+     "grounds": "legacy hint identifies the tree",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arjunaḥ",
+     "gloss": "arjuna-tree",
+     "grounds": "legacy hint identifies the tree",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "past participle of prac; plural masculine nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "stabakaḥ",
+     "gloss": "cluster",
+     "grounds": "legacy hint identifies the object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pihitaḥ",
+     "gloss": "covered",
+     "grounds": "past participle of pidhā; masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śamī",
+     "gloss": "śamī-tree",
+     "grounds": "legacy hint identifies the tree",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which trees are declared to be associated with a covered cluster in this construction rule?",
+   "premises": [
+    "tamarind and arjuna are named",
+    "the cluster is described as covered",
+    "śamī appears in the same verse"
+   ],
+   "inference": "The verse names tamarind and arjuna among declared trees and places a covered cluster with śamī in the same rule.",
+   "uncertainties": [
+    "the exact ritual function of the covered cluster is not explicit in this verse"
+   ],
+   "plain_english": "Tamarind and arjuna are declared; a cluster is covered, and śamī is named."
+  }
+ ]
+}

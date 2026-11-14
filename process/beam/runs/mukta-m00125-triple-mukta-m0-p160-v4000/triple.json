@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 4000,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "śatasāhasraṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "numerical quantity of oblations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the stated offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kula",
+     "gloss": "family",
+     "grounds": "first member of compound with utsādhanaṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "utsādhanaṃ",
+     "gloss": "uprooting",
+     "grounds": "resulting destruction or eradication of the family",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb indicating resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What consequence follows from offering a hundred thousand oblations of the specified substances?",
+   "premises": [
+    "One should offer a hundred thousand oblations.",
+    "The oblations use the previously specified substances.",
+    "Such an offering produces uprooting of the family."
+   ],
+   "inference": "Therefore, performing a hundred thousand oblations with these substances results in the uprooting of the family.",
+   "uncertainties": [
+    "The precise nuance of utsādhanaṃ as uprooting, eradication, or subjugation is context-dependent."
+   ],
+   "plain_english": "One should offer a hundred thousand oblations; that would bring about the uprooting of the family."
+  }
+ ]
+}

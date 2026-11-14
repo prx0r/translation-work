@@ -1,0 +1,56 @@
+{
+ "song": "kul-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "sidhyanti",
+     "gloss": "succeed",
+     "grounds": "verb sidh in present active third plural",
+     "morph": "3.pl.act-pres+sidh"
+    },
+    {
+     "surface": "tarasā",
+     "gloss": "quickly",
+     "grounds": "instrumental of taras (speed)",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to Devi",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "fused na+atra sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "needed",
+     "grounds": "feminine nominative of kārya",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "feminine nominative noun",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Why is deliberation unnecessary in this practice?",
+   "premises": [
+    "success comes quickly here",
+    "no deliberation is needed here"
+   ],
+   "inference": "the practice succeeds swiftly without further deliberation",
+   "uncertainties": [
+    "exact referent of 'here' depends on preceding context"
+   ],
+   "plain_english": "They succeed quickly, O goddess; here no deliberation is needed."
+  }
+ ]
+}

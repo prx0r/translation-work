@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "snātaḥ",
+     "gloss": "having-bathed",
+     "grounds": "past passive participle describing the ritual state of the worshipper",
+     "morph": "m.nom.sg.ppp (√snā)"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "adjective indicating ritual cleanliness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatamanā",
+     "gloss": "with-restrained-mind",
+     "grounds": "bahuvrīhi compound: yata (restrained) + manas (mind)",
+     "morph": "m.nom.sg (compound: yata+manas)"
+    },
+    {
+     "surface": "dhṛtadhautāmbaradvayaḥ",
+     "gloss": "wearing-two-washed-garments",
+     "grounds": "bahuvrīhi compound: dhṛta (held/worn) + dhauta (washed) + ambara (garment) + dvaya (pair)",
+     "morph": "m.nom.sg (compound: dhṛta+dhauta+ambara+dvaya)"
+    }
+   ],
+   "question": "What preparatory physical and mental condition qualifies a worshipper to receive the prescribed ritual procedure?",
+   "premises": [
+    "The worshipper must have completed ritual bathing.",
+    "The worshipper must be ritually pure.",
+    "The worshipper must have a restrained mind.",
+    "The worshipper must wear two washed garments."
+   ],
+   "inference": "A worshipper who fulfills these bodily and mental conditions is properly prepared for the prescribed worship.",
+   "uncertainties": [],
+   "plain_english": "Having bathed, pure, with a restrained mind, and wearing two washed garments."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p189",
+ "items": [
+  {
+   "verse": 4725,
+   "rows": [
+    {
+     "surface": "saṃveśayet",
+     "gloss": "should-lay-down",
+     "grounds": "causative optative of sam-viś, prescribing the act of lying down",
+     "morph": "3.sg.act.opt~sam-viś-caus"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb indicating the next action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What subsequent action must the skilled yogin perform after engaging in yoga?",
+   "premises": [
+    "The skilled yogin has already engaged in yoga.",
+    "A further action is prescribed following that engagement.",
+    "The prescribed action is to lay oneself down."
+   ],
+   "inference": "After engaging in yoga, the skilled yogin should then lay himself down.",
+   "uncertainties": [
+    "The causative form may emphasize arranging or settling the body rather than simple lying down."
+   ],
+   "plain_english": "Then he should lay himself down."
+  }
+ ]
+}

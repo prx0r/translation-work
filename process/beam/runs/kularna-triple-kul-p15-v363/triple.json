@@ -1,0 +1,589 @@
+{
+ "song": "kul-p15",
+ "items": [
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "idameva",
+     "gloss": "this-alone",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tattvam",
+     "gloss": "reality",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idameva",
+     "gloss": "this-alone",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vratam",
+     "gloss": "vow",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is declared supreme reality and supreme vow?",
+   "premises": [
+    "this alone is supreme reality",
+    "this alone is supreme vow"
+   ],
+   "inference": "the same principle is both supreme reality and supreme vow",
+   "uncertainties": [
+    "exact referent of idameva not specified"
+   ],
+   "plain_english": "This alone is the supreme reality; this alone is the supreme vow."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "idameva",
+     "gloss": "this-alone",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śreya",
+     "gloss": "good",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idameva",
+     "gloss": "this-alone",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is declared supreme good and supreme fruit?",
+   "premises": [
+    "this alone is supreme good",
+    "this alone is supreme fruit"
+   ],
+   "inference": "the same principle is both supreme good and supreme fruit",
+   "uncertainties": [
+    "exact referent of idameva not specified"
+   ],
+   "plain_english": "This alone is the supreme good; this alone is the supreme fruit."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "thinking",
+     "grounds": "legacy hint",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "manuvaraṃ",
+     "gloss": "best-mantra",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tanniṣṭhaḥ",
+     "gloss": "in-that-devoted",
+     "grounds": "legacy hint",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.opt"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How should one regard the best mantra?",
+   "premises": [
+    "thinking thus one becomes devoted to it",
+    "one should always be devoted to it"
+   ],
+   "inference": "the practitioner should remain constantly devoted to the best mantra",
+   "uncertainties": [
+    "gender of priye as vocative"
+   ],
+   "plain_english": "Thinking thus, one should always be devoted to the best mantra, dear one."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "freed",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.pass"
+    },
+    {
+     "surface": "brahmahatyādimahāpāpaiśca",
+     "gloss": "brahmin-slaying-etc-great-sins",
+     "grounds": "legacy hint",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "five",
+     "grounds": "legacy hint",
+     "morph": "num.inst.pl"
+    }
+   ],
+   "question": "From what sins is one freed?",
+   "premises": [
+    "one is freed from great sins",
+    "including brahmin-slaying and others"
+   ],
+   "inference": "devotion to the mantra frees from grave sins",
+   "uncertainties": [
+    "exact list of five sins not given"
+   ],
+   "plain_english": "One is freed from great sins such as brahmin-slaying and the other five."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "caturaśītilakṣāṃśa",
+     "gloss": "eighty-four-lakhs",
+     "grounds": "legacy hint",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "dhāraṇācaritairapi",
+     "gloss": "holding-practice",
+     "grounds": "legacy hint",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "What practice is mentioned alongside eighty-four lakhs?",
+   "premises": [
+    "eighty-four lakhs are mentioned",
+    "holding-practice is also mentioned"
+   ],
+   "inference": "the verse links a vast number with holding-practice",
+   "uncertainties": [
+    "syntax with previous verse unclear"
+   ],
+   "plain_english": "Even by holding-practice of eighty-four lakhs."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "vārddhake",
+     "gloss": "old-age",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yauvane",
+     "gloss": "youth",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bālye",
+     "gloss": "childhood",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jāgrat",
+     "gloss": "waking",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svapna",
+     "gloss": "dream",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suṣuptiṣu",
+     "gloss": "deep-sleep",
+     "grounds": "legacy hint",
+     "morph": "loc.pl.f"
+    }
+   ],
+   "question": "In which states and ages is freedom said?",
+   "premises": [
+    "old age youth and childhood are named",
+    "waking dream and deep sleep are named"
+   ],
+   "inference": "freedom applies across all ages and states",
+   "uncertainties": [
+    "verb omitted in this verse"
+   ],
+   "plain_english": "In old age, youth, childhood, waking, dream, and deep sleep."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "freed",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.pass"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "legacy hint",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "best-faced-one",
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Is there doubt about this freedom?",
+   "premises": [
+    "one is freed here",
+    "there is no doubt",
+    "this is truth"
+   ],
+   "inference": "the freedom is certain and true",
+   "uncertainties": [
+    "exact scope of atra"
+   ],
+   "plain_english": "One is freed here; there is no doubt; this is truth, best-faced one."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "sarvakratuṣu",
+     "gloss": "all-sacrifices",
+     "grounds": "legacy hint",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "legacy hint",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sarvadāneṣu",
+     "gloss": "all-gifts",
+     "grounds": "legacy hint",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "legacy hint",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What merit and fruit are compared?",
+   "premises": [
+    "merit in all sacrifices is named",
+    "fruit in all gifts is named"
+   ],
+   "inference": "the verse sets up a comparison of ritual merit and gift fruit",
+   "uncertainties": [
+    "comparison completed in next verse"
+   ],
+   "plain_english": "The merit in all sacrifices and the fruit in all gifts."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.mid"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "legacy hint",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "inquiry",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What fruit is obtained and what inquiry is needless?",
+   "premises": [
+    "that fruit is obtained here",
+    "no inquiry is to be done"
+   ],
+   "inference": "the practitioner obtains that fruit without further inquiry",
+   "uncertainties": [
+    "exact fruit refers to previous verse"
+   ],
+   "plain_english": "That fruit is obtained here, goddess; no inquiry is to be done."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "sevante",
+     "gloss": "serve",
+     "grounds": "legacy hint",
+     "morph": "verb.3.pl.act"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sarvasiddhisamanvitāḥ",
+     "gloss": "all-accomplishments-endowed",
+     "grounds": "legacy hint",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "Who serves here without doubt?",
+   "premises": [
+    "those endowed with all accomplishments serve here",
+    "there is no doubt"
+   ],
+   "inference": "accomplished practitioners serve without doubt",
+   "uncertainties": [
+    "subject of sevante implicit"
+   ],
+   "plain_english": "Those endowed with all accomplishments serve here; there is no doubt."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "dharmārthakāmamokṣāśca",
+     "gloss": "dharma-wealth-desire-liberation",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "legacy hint",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "kare",
+     "gloss": "hand",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "standing",
+     "grounds": "legacy hint",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "Where do dharma wealth desire and liberation stand?",
+   "premises": [
+    "dharma wealth desire and liberation are named",
+    "they stand directly in his hand"
+   ],
+   "inference": "the practitioner holds the four aims directly",
+   "uncertainties": [
+    "whose hand is tasya"
+   ],
+   "plain_english": "Dharma, wealth, desire, and liberation stand directly in his hand."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etanna",
+     "gloss": "this",
+     "grounds": "legacy hint",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-goddess",
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Is there doubt about this truth for the practitioner?",
+   "premises": [
+    "this is truth",
+    "there is no doubt",
+    "the practitioner is addressed"
+   ],
+   "inference": "the practitioner should accept this truth without doubt",
+   "uncertainties": [
+    "exact referent of etanna"
+   ],
+   "plain_english": "This is truth; there is no doubt, practitioner, kula-goddess."
+  }
+ ]
+}

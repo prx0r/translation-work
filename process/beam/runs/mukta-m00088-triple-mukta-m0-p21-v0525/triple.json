@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "accusative singular neuter of rahasya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular neuter of parama",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "past participle passive of pra-vac, accusative singular neuter",
+     "morph": "ppp.acc.sg.n (vac)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmalasammatam",
+     "gloss": "yamala-approved",
+     "grounds": "compound of yāmala and sammatam, accusative singular neuter",
+     "morph": "ppp.acc.sg.n (sam-man) compound"
+    }
+   ],
+   "question": "What is the status of the supreme secret that has been declared?",
+   "premises": [
+    "The supreme secret is declared.",
+    "Yamala approves it.",
+    "Thus marks the conclusion."
+   ],
+   "inference": "The verse presents the declared supreme secret as approved by Yamala.",
+   "uncertainties": [
+    "The exact referent of yāmala is not specified.",
+    "sammatam is rendered as approved."
+   ],
+   "plain_english": "The supreme secret has been declared; thus it is approved by Yamala."
+  }
+ ]
+}

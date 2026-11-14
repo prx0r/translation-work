@@ -1,0 +1,1331 @@
+{
+ "song": "mukta-m0-p570",
+ "items": [
+  {
+   "verse": 14226,
+   "rows": [
+    {
+     "surface": "kārttavīryyārjunāya",
+     "gloss": "to-kartavirya-arjuna",
+     "grounds": "dative target of address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative √vad"
+    },
+    {
+     "surface": "māhiṣmatī",
+     "gloss": "mahishmati",
+     "grounds": "name in mantra phrase",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "mantra element to utter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which name and place-word must be uttered in addressing Kartavirya Arjuna?",
+   "premises": [
+    "The ritual requires a spoken address.",
+    "Kartavirya Arjuna is named as the recipient.",
+    "The word Mahishmati is included in the utterance."
+   ],
+   "inference": "One should say the word Mahishmati while addressing Kartavirya Arjuna.",
+   "uncertainties": [],
+   "plain_english": "One should say the word 'Mahishmati' addressed to Kartavirya Arjuna."
+  },
+  {
+   "verse": 14227,
+   "rows": [
+    {
+     "surface": "sahasra",
+     "gloss": "thousand",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kratu",
+     "gloss": "sacrifice",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śabda",
+     "gloss": "word",
+     "grounds": "head of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dīkṣitāya",
+     "gloss": "to-the-consecrated",
+     "grounds": "dative epithet in address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pdaṃ",
+     "gloss": "word",
+     "grounds": "mantra element to utter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative √vad"
+    }
+   ],
+   "question": "What phrase must follow the thousand-sacrifice word in the mantra address?",
+   "premises": [
+    "The utterance continues after a prior word.",
+    "The position is after the thousand-sacrifice word.",
+    "The address is directed to the consecrated one."
+   ],
+   "inference": "One should say the word addressed to the consecrated one after the thousand-sacrifice word.",
+   "uncertainties": [
+    "The form pdaṃ appears nonstandard for padam."
+   ],
+   "plain_english": "After the word 'thousand-sacrifice', one should say the word addressed to the consecrated one."
+  },
+  {
+   "verse": 14228,
+   "rows": [
+    {
+     "surface": "anusūyā",
+     "gloss": "anusūyā",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "garbha",
+     "gloss": "womb",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ratnāya",
+     "gloss": "to-jewel",
+     "grounds": "dative epithet in address",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "hum",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phat",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravadet",
+     "gloss": "one-should-pronounce",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative pra-√vad"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllables must be pronounced after addressing the jewel of Anasuya's womb?",
+   "premises": [
+    "The mantra includes an address to the jewel of Anasuya's womb.",
+    "Specific syllables are to be uttered.",
+    "The pronunciation follows in sequence."
+   ],
+   "inference": "One should then pronounce 'hum' and 'phat' after addressing the jewel of Anasuya's womb.",
+   "uncertainties": [],
+   "plain_english": "Then one should pronounce 'hum' and 'phat', addressing the jewel of Anasuya's womb."
+  },
+  {
+   "verse": 14229,
+   "rows": [
+    {
+     "surface": "duṣṭān",
+     "gloss": "the-wicked",
+     "grounds": "object of destruction",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nāśaya",
+     "gloss": "destroy",
+     "grounds": "imperative mantra command",
+     "morph": "2.sg.act-imperative √naś-causative"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "indicates repetition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative instruction",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātaya",
+     "gloss": "fell",
+     "grounds": "imperative mantra command",
+     "morph": "2.sg.act-imperative √pat-causative"
+    },
+    {
+     "surface": "ghātaya",
+     "gloss": "slay",
+     "grounds": "imperative mantra command",
+     "morph": "2.sg.act-imperative √han-causative"
+    }
+   ],
+   "question": "What destructive commands must be uttered in pairs against the wicked?",
+   "premises": [
+    "The wicked are the targets of the commands.",
+    "The commands are to be spoken as a pair.",
+    "Additional commands of felling and slaying follow."
+   ],
+   "inference": "One should utter 'destroy' as a pair, and likewise 'fell' and 'slay'.",
+   "uncertainties": [],
+   "plain_english": "Say 'destroy the wicked' twice, and likewise say 'fell' and 'slay'."
+  },
+  {
+   "verse": 14230,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrument accompanying action",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dīpa",
+     "gloss": "lamp",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varyyeṇa",
+     "gloss": "excellent",
+     "grounds": "qualifying the lamp",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "paścimābhimukhena",
+     "gloss": "facing-west",
+     "grounds": "orientation of the lamp",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what kind of lamp and orientation should the ritual utterance be made?",
+   "premises": [
+    "The ritual employs a lamp as an instrument.",
+    "The lamp is described as excellent.",
+    "The lamp is oriented facing west."
+   ],
+   "inference": "The utterance should be made with this excellent lamp facing west.",
+   "uncertainties": [],
+   "plain_english": "And with this excellent lamp facing west."
+  },
+  {
+   "verse": 14231,
+   "rows": [
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative √vad"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "syllables",
+     "grounds": "objects to be uttered",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "takārādīn",
+     "gloss": "beginning-with-ta",
+     "grounds": "specifies starting syllable",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "count of syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable to utter",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hutāṅganām",
+     "gloss": "fire-goddess-syllable",
+     "grounds": "syllable associated with fire",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which sequence of syllables must be recited during the lamp offering?",
+   "premises": [
+    "A set of syllables is to be spoken.",
+    "The sequence begins with ta and numbers ten.",
+    "The syllables om and the fire-goddess syllable are included."
+   ],
+   "inference": "One should say ten syllables beginning with ta, along with om and the fire-goddess syllable.",
+   "uncertainties": [
+    "The exact identity of the ten syllables beginning with ta is not specified."
+   ],
+   "plain_english": "One should recite ten syllables beginning with 'ta', then 'om' and the syllable of the fire-goddess."
+  },
+  {
+   "verse": 14232,
+   "rows": [
+    {
+     "surface": "dattātreyo",
+     "gloss": "dattatreya",
+     "grounds": "sage of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "role designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chando",
+     "gloss": "metre",
+     "grounds": "metre of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhitaṃ",
+     "gloss": "fearless",
+     "grounds": "name or quality of metre",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "deity",
+     "grounds": "deity of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arjunaḥ",
+     "gloss": "arjuna",
+     "grounds": "name of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "traditional attribution",
+     "morph": "m.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "What sage, metre, and deity are traditionally assigned to this mantra?",
+   "premises": [
+    "Mantras are assigned a sage, metre, and deity.",
+    "Dattatreya is named as the sage.",
+    "Arjuna is remembered as the deity and the metre is called fearless."
+   ],
+   "inference": "Dattatreya is the sage, the fearless is the metre, and Arjuna is remembered as the deity.",
+   "uncertainties": [
+    "The term bhitaṃ as the metre name is unusual."
+   ],
+   "plain_english": "Dattatreya is the sage, the metre is called fearless, and Arjuna is remembered as the deity."
+  },
+  {
+   "verse": 14233,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(absolutive) √dhyai"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "on-the-deity",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "etam",
+     "gloss": "this",
+     "grounds": "demonstrative specifying mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṣṭottara",
+     "gloss": "eight-more-than-hundred",
+     "grounds": "first part of number compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "count of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many times must this mantra be recited after meditating on the deity?",
+   "premises": [
+    "Meditation on the deity precedes recitation.",
+    "This specific mantra is to be recited.",
+    "A precise count of recitations is prescribed."
+   ],
+   "inference": "After meditating on the deity, one should recite this mantra one thousand and eight times.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the deity, one should recite this mantra one thousand and eight times."
+  },
+  {
+   "verse": 14234,
+   "rows": [
+    {
+     "surface": "aṃkuśaṃ",
+     "gloss": "goad-syllable",
+     "grounds": "mantra element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punas",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject declared",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "m.nom.sg.past-passive-participle pra-√vac"
+    },
+    {
+     "surface": "navākṣaraḥ",
+     "gloss": "nine-syllabled",
+     "grounds": "description of mantra length",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the declared structure and syllable count of this mantra?",
+   "premises": [
+    "The mantra includes the goad syllable and om again.",
+    "The mantra is formally declared.",
+    "Its length is specified as nine syllables."
+   ],
+   "inference": "The mantra, including the goad syllable and om again, is declared to be nine-syllabled.",
+   "uncertainties": [],
+   "plain_english": "With the goad syllable and om again, the mantra is declared to be nine-syllabled."
+  },
+  {
+   "verse": 14235,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpa",
+     "gloss": "lamp",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradānasya",
+     "gloss": "of-offering",
+     "grounds": "ritual act performed",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "karttā",
+     "gloss": "performer",
+     "grounds": "agent of the offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "result of ritual",
+     "morph": "3.sg.act-present √āp"
+    },
+    {
+     "surface": "akhila",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īpsitam",
+     "gloss": "desired",
+     "grounds": "object obtained",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result does the performer gain from offering the lamp in this manner?",
+   "premises": [
+    "The lamp offering is performed in the prescribed manner.",
+    "The performer carries out the offering.",
+    "The ritual yields a desired outcome."
+   ],
+   "inference": "The performer of the lamp offering thus obtains all that is desired.",
+   "uncertainties": [],
+   "plain_english": "Thus the performer of the lamp offering obtains everything desired."
+  },
+  {
+   "verse": 14236,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "at-that",
+     "grounds": "demonstrative specifying time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "avasare",
+     "gloss": "time",
+     "grounds": "occasion of result",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāryyaṃ",
+     "gloss": "task",
+     "grounds": "subject to be accomplished",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddham",
+     "gloss": "accomplished",
+     "grounds": "resulting state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting occurrence",
+     "morph": "3.sg.act-present √bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does the intended task become accomplished without exception?",
+   "premises": [
+    "The task is linked to a specific time.",
+    "Accomplishment occurs at that time.",
+    "No alternative outcome is allowed."
+   ],
+   "inference": "At that time the task becomes accomplished and not otherwise.",
+   "uncertainties": [],
+   "plain_english": "At that time the task is accomplished, and not otherwise."
+  },
+  {
+   "verse": 14237,
+   "rows": [
+    {
+     "surface": "atiyatnāt",
+     "gloss": "with-great-effort",
+     "grounds": "means of achieving result",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kāryya",
+     "gloss": "task",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "object to be achieved",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilambataḥ",
+     "gloss": "with-delay",
+     "grounds": "condition of delayed result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can task accomplishment still be achieved when there is delay?",
+   "premises": [
+    "Delay can affect the accomplishment of a task.",
+    "Great effort is a possible remedy.",
+    "The accomplishment can still be brought about."
+   ],
+   "inference": "Even with delay, one should achieve the task's accomplishment through great effort.",
+   "uncertainties": [],
+   "plain_english": "Even with delay, one should bring about the accomplishment of the task through great effort."
+  },
+  {
+   "verse": 14238,
+   "rows": [
+    {
+     "surface": "vyatyaye",
+     "gloss": "in-failure",
+     "grounds": "adverse condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute participle",
+     "morph": "m.loc.sg.present-participle √as"
+    },
+    {
+     "surface": "kāryyasya",
+     "gloss": "of-task",
+     "grounds": "task affected",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "result denied",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "occurrence denied",
+     "morph": "3.sg.middle-present pra-√jan"
+    }
+   ],
+   "question": "What happens to task accomplishment when a failure occurs?",
+   "premises": [
+    "A failure of the task may occur.",
+    "Accomplishment depends on proper conditions.",
+    "The verse states the outcome in that case."
+   ],
+   "inference": "When there is failure of the task, accomplishment does not arise.",
+   "uncertainties": [],
+   "plain_english": "If the task fails, accomplishment does not arise at all."
+  },
+  {
+   "verse": 14239,
+   "rows": [
+    {
+     "surface": "ākhvoḥ",
+     "gloss": "of-moles",
+     "grounds": "source of omen",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanaṃ",
+     "gloss": "sighting",
+     "grounds": "omen event",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "duṣṭaṃ",
+     "gloss": "inauspicious",
+     "grounds": "evaluation of omen",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gavayasya",
+     "gloss": "of-gavaya",
+     "grounds": "source of contrasting omen",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "happiness",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āvaham",
+     "gloss": "bringing",
+     "grounds": "result brought by omen",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How do sightings of moles and the gavaya differ as ritual omens?",
+   "premises": [
+    "Sightings during the ritual are interpreted as omens.",
+    "The sighting of moles is evaluated negatively.",
+    "The sighting of a gavaya is evaluated positively."
+   ],
+   "inference": "The sighting of moles is inauspicious, while the sighting of a gavaya brings happiness.",
+   "uncertainties": [],
+   "plain_english": "The sighting of moles is inauspicious, but the sighting of a gavaya brings happiness."
+  },
+  {
+   "verse": 14240,
+   "rows": [
+    {
+     "surface": "saśabdā",
+     "gloss": "with-sound",
+     "grounds": "description of flame",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaya",
+     "gloss": "fear",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giving",
+     "grounds": "result produced",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartuḥ",
+     "gloss": "to-the-performer",
+     "grounds": "recipient of result",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ujjvalā",
+     "gloss": "bright",
+     "grounds": "description of flame",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "happiness",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giving",
+     "grounds": "result produced",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "state of flame",
+     "morph": "f.nom.sg.past-passive-participle √gam"
+    }
+   ],
+   "question": "What do a noisy flame and a bright flame indicate for the ritual performer?",
+   "premises": [
+    "The flame's behavior is interpreted as an omen.",
+    "A noisy flame is associated with fear.",
+    "A bright flame is associated with happiness."
+   ],
+   "inference": "A noisy flame gives fear to the performer, while a bright flame gives happiness.",
+   "uncertainties": [],
+   "plain_english": "A noisy flame brings fear to the performer, while a bright flame brings happiness."
+  },
+  {
+   "verse": 14241,
+   "rows": [
+    {
+     "surface": "pakṣāt",
+     "gloss": "within-a-fortnight",
+     "grounds": "time limit",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "arvāk",
+     "gloss": "before",
+     "grounds": "temporal boundary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "would-go",
+     "grounds": "hypothetical result",
+     "morph": "3.sg.act-optative √gam"
+    },
+    {
+     "surface": "yajamānaḥ",
+     "gloss": "sacrificer",
+     "grounds": "subject affected",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yama",
+     "gloss": "death",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ālayam",
+     "gloss": "abode",
+     "grounds": "destination",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What dire consequence befalls the sacrificer if the omen occurs within a fortnight?",
+   "premises": [
+    "A specific time frame is given as within a fortnight.",
+    "The consequence concerns the sacrificer.",
+    "The destination named is the abode of death."
+   ],
+   "inference": "If it occurs within a fortnight, the sacrificer would go to the abode of death.",
+   "uncertainties": [
+    "The exact triggering event is implied from context."
+   ],
+   "plain_english": "If that happens within a fortnight, the sacrificer would go to the abode of death."
+  },
+  {
+   "verse": 14242,
+   "rows": [
+    {
+     "surface": "varti",
+     "gloss": "wick",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "another",
+     "grounds": "indicates replacement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conditional temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-makes",
+     "grounds": "conditional action",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "kāryyaṃ",
+     "gloss": "task",
+     "grounds": "subject to be accomplished",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sidhyet",
+     "gloss": "would-be-accomplished",
+     "grounds": "resulting outcome",
+     "morph": "3.sg.passive-optative √sidh"
+    },
+    {
+     "surface": "vilambataḥ",
+     "gloss": "with-delay",
+     "grounds": "manner of accomplishment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What outcome follows if one must replace the lamp wick during the rite?",
+   "premises": [
+    "Replacing the wick is a possible event during the rite.",
+    "The task's success is still considered.",
+    "The timing of success is affected."
+   ],
+   "inference": "If one makes another wick, the task would be accomplished with delay.",
+   "uncertainties": [],
+   "plain_english": "If one has to replace the wick, the task will be accomplished, but with delay."
+  },
+  {
+   "verse": 14243,
+   "rows": [
+    {
+     "surface": "aśuci",
+     "gloss": "impure",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sparśane",
+     "gloss": "touch",
+     "grounds": "condition causing result",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyādhiḥ",
+     "gloss": "disease",
+     "grounds": "resulting misfortune",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīpa",
+     "gloss": "lamp",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśe",
+     "gloss": "extinction",
+     "grounds": "condition causing result",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caura",
+     "gloss": "thief",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhīḥ",
+     "gloss": "fear",
+     "grounds": "resulting misfortune",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What misfortunes are indicated by impure touch and by the lamp's extinction?",
+   "premises": [
+    "Ritual mishaps are interpreted as omens.",
+    "Impure touch is one such mishap.",
+    "Extinction of the lamp is another mishap."
+   ],
+   "inference": "Impure touch indicates disease, but extinction of the lamp indicates fear of thieves.",
+   "uncertainties": [],
+   "plain_english": "Touch by something impure brings disease, but if the lamp goes out there is fear of thieves."
+  },
+  {
+   "verse": 14244,
+   "rows": [
+    {
+     "surface": "pātra",
+     "gloss": "vessel",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ārambhe",
+     "gloss": "at-commencement",
+     "grounds": "ritual stage",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vasu",
+     "gloss": "eight",
+     "grounds": "numerical quantity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "palaiḥ",
+     "gloss": "with-measures",
+     "grounds": "measure of material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kṛto",
+     "gloss": "made",
+     "grounds": "description of lamp",
+     "morph": "m.nom.sg.past-passive-participle √kṛ"
+    },
+    {
+     "surface": "dīpaḥ",
+     "gloss": "lamp",
+     "grounds": "ritual object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "akhila",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "iṣṭa",
+     "gloss": "desire",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daḥ",
+     "gloss": "giving",
+     "grounds": "result of lamp",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What benefit comes from a lamp made with eight measures at the vessel's commencement?",
+   "premises": [
+    "The lamp is prepared at the commencement of the vessel.",
+    "It is made with eight measures.",
+    "The lamp is said to grant a result."
+   ],
+   "inference": "A lamp made with eight measures at the commencement gives all desired things.",
+   "uncertainties": [
+    "The exact substance measured by palaiḥ is not specified."
+   ],
+   "plain_english": "At the commencement of the vessel, a lamp made with eight measures grants all desires."
+  },
+  {
+   "verse": 14245,
+   "rows": [
+    {
+     "surface": "pañcāśatā",
+     "gloss": "with-fifty",
+     "grounds": "measure of material",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "kṛto",
+     "gloss": "made",
+     "grounds": "description of lamp",
+     "morph": "m.nom.sg.past-passive-participle √kṛ"
+    },
+    {
+     "surface": "dīpaḥ",
+     "gloss": "lamp",
+     "grounds": "ritual object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaśyāya",
+     "gloss": "for-subjugation",
+     "grounds": "purpose of lamp",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "prescribed purpose",
+     "morph": "3.sg.passive-present √iṣ"
+    }
+   ],
+   "question": "For what purpose is a lamp made with fifty measures prescribed?",
+   "premises": [
+    "A lamp can be made with fifty measures.",
+    "Different measures serve different purposes.",
+    "This measure is linked to control over enemies."
+   ],
+   "inference": "A lamp made with fifty measures is desired for the subjugation of enemies.",
+   "uncertainties": [],
+   "plain_english": "A lamp made with fifty measures is intended for subjugating enemies."
+  },
+  {
+   "verse": 14246,
+   "rows": [
+    {
+     "surface": "śatena",
+     "gloss": "with-hundred",
+     "grounds": "measure of material",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśaḥ",
+     "gloss": "destruction",
+     "grounds": "resulting effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "sahasreṇa",
+     "gloss": "with-thousand",
+     "grounds": "measure of material",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "akhilāḥ",
+     "gloss": "all",
+     "grounds": "scope of rites",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kriyāḥ",
+     "gloss": "rites",
+     "grounds": "ritual acts accomplished",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What distinct results arise from lamps made with a hundred and a thousand measures?",
+   "premises": [
+    "Larger measures produce different ritual results.",
+    "A hundred measures is associated with enemies.",
+    "A thousand measures is associated with all rites."
+   ],
+   "inference": "With a hundred there would be destruction of enemies, and with a thousand all rites are accomplished.",
+   "uncertainties": [],
+   "plain_english": "With a hundred measures comes the destruction of enemies; with a thousand, all rites are accomplished."
+  },
+  {
+   "verse": 14247,
+   "rows": [
+    {
+     "surface": "āsamāpteḥ",
+     "gloss": "until-completion",
+     "grounds": "duration of observance",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-practice",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.middle-optative pra-√kṛ"
+    },
+    {
+     "surface": "brahmacaryyaṃ",
+     "gloss": "celibacy",
+     "grounds": "observance to practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūśayam",
+     "gloss": "sleeping-on-ground",
+     "grounds": "observance to practice",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What disciplines must the practitioner observe until the ritual is completed?",
+   "premises": [
+    "The ritual requires observances until completion.",
+    "Celibacy is prescribed.",
+    "Sleeping on the ground is prescribed."
+   ],
+   "inference": "Until completion one should practice celibacy and sleeping on the ground.",
+   "uncertainties": [],
+   "plain_english": "Until the rite is completed, one should practice celibacy and sleep on the ground."
+  },
+  {
+   "verse": 14248,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "distribution of recitations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rājaṃ",
+     "gloss": "king",
+     "grounds": "epithet of mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "navākṣaram",
+     "gloss": "nine-syllabled",
+     "grounds": "description of mantra",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How often must the nine-syllabled king of mantras be recited?",
+   "premises": [
+    "A specific mantra is to be recited.",
+    "The mantra is nine-syllabled and called king of mantras.",
+    "A thousand recitations are prescribed each time."
+   ],
+   "inference": "One should recite the nine-syllabled king of mantras a thousand times each.",
+   "uncertainties": [
+    "The referent of 'each' is not explicitly specified."
+   ],
+   "plain_english": "One should recite the nine-syllabled king of mantras a thousand times each."
+  },
+  {
+   "verse": 14249,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative pra-√jap"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of recitation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhīṣṭaṃ",
+     "gloss": "desired-object",
+     "grounds": "object obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣipram",
+     "gloss": "quickly",
+     "grounds": "manner of obtaining",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "result of recitation",
+     "morph": "3.sg.act-optative √āp"
+    }
+   ],
+   "question": "What result follows from reciting the mantra a thousand times at night?",
+   "premises": [
+    "The mantra is recited a thousand times.",
+    "The recitation takes place at night.",
+    "The practice yields a desired result."
+   ],
+   "inference": "By reciting it a thousand times at night, he quickly obtains the desired object.",
+   "uncertainties": [],
+   "plain_english": "Reciting it a thousand times at night, he quickly obtains what he desires."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p90",
+ "items": [
+  {
+   "verse": 2250,
+   "rows": [
+    {
+     "surface": "bhaumavarṇaṃ",
+     "gloss": "mars-color",
+     "grounds": "bhauma = of Mars; varṇa = color; accusative object of samāruhya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samāruhya",
+     "gloss": "having-ascended",
+     "grounds": "sam-ā-ruh participle; governs the preceding color phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "trisahasraṃ",
+     "gloss": "three-thousand",
+     "grounds": "tri = three; sahasra = thousand; accusative count",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "manu = mantra; accusative object of japet",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recite",
+     "grounds": "root jap; optative prescription",
+     "morph": "opt.3.sg.act"
+    }
+   ],
+   "question": "What mantra count follows ascending mars-color in this ritual prescription?",
+   "premises": [
+    "Mars-color is ascended before recitation.",
+    "The mantra is recited three thousand times.",
+    "The prescription uses an optative verb."
+   ],
+   "inference": "After ascending the Mars-color, the practitioner should recite the mantra three thousand times.",
+   "uncertainties": [
+    "The exact ritual referent of bhaumavarṇaṃ is not specified beyond Mars-color.",
+    "The precise mantra intended by manuṃ is not named in this verse."
+   ],
+   "plain_english": "Having ascended the Mars-color, one should recite the mantra three thousand times."
+  }
+ ]
+}

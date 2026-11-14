@@ -1,0 +1,861 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "prāguktamaṇṭape",
+     "gloss": "in-previously-stated-pavilion",
+     "grounds": "locative of earlier-mentioned pavilion",
+     "morph": "compound+loc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭape",
+     "gloss": "in-pavilion",
+     "grounds": "locative of pavilion",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedikāvarjite",
+     "gloss": "without-altar",
+     "grounds": "locative of pavilion lacking altar platform",
+     "morph": "compound+loc.sg.nt"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternative pavilion settings are permitted for the ritual arrangement?",
+   "premises": [
+    "A previously stated pavilion is permitted",
+    "Another pavilion is permitted",
+    "A pavilion without an altar platform is permitted"
+   ],
+   "inference": "The ritual may be performed in any of these alternative pavilion settings",
+   "uncertainties": [],
+   "plain_english": "It may be done in the previously mentioned pavilion, or in another pavilion, or even in one without an altar platform."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvakḷptau",
+     "gloss": "in-previously-prepared",
+     "grounds": "locative of earlier prepared arrangement",
+     "morph": "compound+loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tammānādyanapekṣayā",
+     "gloss": "without-regard-to-that-measure",
+     "grounds": "instrumental expressing disregard for that measure and related factors",
+     "morph": "compound+ins.sg.f"
+    }
+   ],
+   "question": "Can a previously prepared site be used without regard to its prescribed measure?",
+   "premises": [
+    "A previously prepared site is an option",
+    "Use may disregard that measure",
+    "The alternative is explicitly allowed"
+   ],
+   "inference": "A previously prepared site may be used without depending on its prescribed measure",
+   "uncertainties": [],
+   "plain_english": "Or else it may be done in a previously prepared place, without regard to that measure and such requirements."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "caturgātrādikeṣṭāṣṭagātraparyanta",
+     "gloss": "from-four-sides-up-to-eight-sides",
+     "grounds": "compound indicating range of structural sides",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyute",
+     "gloss": "endowed-with",
+     "grounds": "locative describing the place as furnished with that range",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "What range of structural sides may the ritual place possess?",
+   "premises": [
+    "The place may have four sides",
+    "The place may have up to eight sides",
+    "The range is included as acceptable"
+   ],
+   "inference": "The ritual place may be furnished with anywhere from four to eight sides",
+   "uncertainties": [],
+   "plain_english": "It may be furnished with anything from four sides up to eight sides."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "nṛttavādyādisaṃyukte",
+     "gloss": "joined-with-dance-music-etc",
+     "grounds": "locative describing accompaniment by dance, music, and so on",
+     "morph": "compound+loc.sg.nt"
+    },
+    {
+     "surface": "gānadhvanisamanvite",
+     "gloss": "accompanied-by-song-sound",
+     "grounds": "locative describing accompaniment by singing sounds",
+     "morph": "compound+loc.sg.nt"
+    }
+   ],
+   "question": "What kinds of musical accompaniment should accompany the ritual setting?",
+   "premises": [
+    "Dance and instrumental music may be present",
+    "Singing sounds may be present",
+    "These accompaniments are included together"
+   ],
+   "inference": "The setting should be accompanied by dance, instrumental music, and singing",
+   "uncertainties": [],
+   "plain_english": "It should be accompanied by dance, instrumental music, and the sound of singing."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "sūtranyāsamaghoreṇa",
+     "gloss": "by-thread-layout-with-aghora",
+     "grounds": "instrumental indicating thread layout performed with Aghora",
+     "morph": "compound+ins.sg.m"
+    },
+    {
+     "surface": "tālamātrāntaraṃ",
+     "gloss": "interval-of-tala-measure",
+     "grounds": "accusative object indicating spacing by tala measure",
+     "morph": "compound+acc.sg.nt"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle indicating manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the thread layout be spaced when performed with Aghora?",
+   "premises": [
+    "The thread layout is performed with Aghora",
+    "Spacing follows a tala measure",
+    "The manner is prescribed"
+   ],
+   "inference": "The thread layout with Aghora should be spaced according to the tala measure",
+   "uncertainties": [
+    "aghoreṇa may refer to the Aghora mantra or aspect"
+   ],
+   "plain_english": "By laying out the threads with Aghora, the spacing should be made according to the tala measure."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "tritālaṃ",
+     "gloss": "three-tala",
+     "grounds": "measure described as three talas",
+     "morph": "compound+nom.sg.nt"
+    },
+    {
+     "surface": "karṇikāmānaṃ",
+     "gloss": "pericarp-measure",
+     "grounds": "measure of the central pericarp",
+     "morph": "compound+nom.sg.nt"
+    },
+    {
+     "surface": "sarvasāmānyamīritam",
+     "gloss": "declared-common-to-all",
+     "grounds": "stated as generally applicable to all cases",
+     "morph": "compound+nom.sg.nt"
+    }
+   ],
+   "question": "What pericarp measure is declared common to all ritual layouts?",
+   "premises": [
+    "The pericarp measure is specified",
+    "The measure is three talas",
+    "It is declared common to all"
+   ],
+   "inference": "A three-tala pericarp measure is the common standard for all",
+   "uncertainties": [],
+   "plain_english": "A pericarp measure of three talas is declared to be common to all."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal or conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitālamānena",
+     "gloss": "by-two-tala-measure",
+     "grounds": "instrumental specifying an alternative measure",
+     "morph": "compound+ins.sg.nt"
+    },
+    {
+     "surface": "karṇikāmānamīritam",
+     "gloss": "pericarp-measure-declared",
+     "grounds": "states the pericarp measure as declared",
+     "morph": "compound+nom.sg.nt"
+    }
+   ],
+   "question": "Under what alternative condition is a two-tala pericarp measure declared?",
+   "premises": [
+    "An alternative case is indicated",
+    "The measure becomes two talas",
+    "The pericarp measure is declared accordingly"
+   ],
+   "inference": "In that case, the pericarp measure is declared as two talas",
+   "uncertainties": [
+    "The exact condition referred to by tadā is not explicit in this verse"
+   ],
+   "plain_english": "Then, the pericarp measure is declared to be two talas."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "vidikṣvapi",
+     "gloss": "in-intermediate-directions-also",
+     "grounds": "locative plural with inclusive particle for diagonal directions",
+     "morph": "loc.pl.f+(indecl.)"
+    },
+    {
+     "surface": "navākhyaṃ",
+     "gloss": "called-nine",
+     "grounds": "designation indicating a group of nine",
+     "morph": "compound+nom.sg.nt"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.opt.act+as"
+    },
+    {
+     "surface": "samantādekamāvṛtam",
+     "gloss": "one-surrounded-on-all-sides",
+     "grounds": "describes one unit encircled all around",
+     "morph": "compound+nom.sg.nt"
+    }
+   ],
+   "question": "How should the ninefold arrangement be formed in the intermediate directions?",
+   "premises": [
+    "The arrangement applies in intermediate directions",
+    "It is called ninefold",
+    "One unit is surrounded on all sides"
+   ],
+   "inference": "In the intermediate directions there should be a ninefold arrangement with one surrounded on all sides",
+   "uncertainties": [],
+   "plain_english": "In the intermediate directions also, there should be a ninefold arrangement, with one unit surrounded on all sides."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "ekonapañcāśatsaṃkhyāmaṣṭottaraśataṃ",
+     "gloss": "forty-nine-and-one-hundred-eight",
+     "grounds": "compound listing numerical counts",
+     "morph": "compound+nom.sg.nt"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "plural subject referring to twice-born participants",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What numerical counts are specified for the twice-born participants or divisions?",
+   "premises": [
+    "A count of forty-nine is given",
+    "A count of one hundred and eight is given",
+    "These counts relate to the twice-born"
+   ],
+   "inference": "The numbers forty-nine and one hundred and eight are specified in relation to the twice-born",
+   "uncertainties": [
+    "Whether the numbers refer to persons, units, or recitations is not explicit"
+   ],
+   "plain_english": "For the twice-born, the numbers forty-nine and one hundred and eight are specified."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatisaṃkhyātān",
+     "gloss": "counted-as-twenty-five",
+     "grounds": "accusative plural describing items numbered twenty-five",
+     "morph": "compound+acc.pl.m"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "accusative plural object referring to ritual pots",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "madhyamasthitam",
+     "gloss": "placed-in-middle",
+     "grounds": "describes something situated in the middle",
+     "morph": "compound+acc.sg.m"
+    }
+   ],
+   "question": "How many ritual pots are counted and where is the central one placed?",
+   "premises": [
+    "The pots number twenty-five",
+    "The pots are the items counted",
+    "One is situated in the middle"
+   ],
+   "inference": "Twenty-five pots are counted, with one placed in the middle",
+   "uncertainties": [
+    "madhyamasthitam may qualify a specific central pot among the twenty-five"
+   ],
+   "plain_english": "There are twenty-five pots, with one situated in the middle."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "aṣṭadvārasamāyuktaṃ",
+     "gloss": "endowed-with-eight-gates",
+     "grounds": "describes a structure having eight gates",
+     "morph": "compound+acc.sg.nt"
+    },
+    {
+     "surface": "bahiṣṭhādādavṛtitrayam",
+     "gloss": "three-outer-enclosures-from-outside",
+     "grounds": "accusative indicating three enclosures beginning from the outermost",
+     "morph": "compound+acc.sg.nt"
+    }
+   ],
+   "question": "What structural features define the outer enclosure arrangement?",
+   "premises": [
+    "The structure has eight gates",
+    "There are three enclosures",
+    "The enclosures are counted from the outside"
+   ],
+   "inference": "The arrangement includes eight gates and three outer enclosures",
+   "uncertainties": [],
+   "plain_english": "It should have eight gates and three enclosures beginning from the outer side."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative indicating the middle enclosure",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "tithisaṃkhyetu",
+     "gloss": "in-fifteen-count-but",
+     "grounds": "locative-like compound with contrastive particle indicating a count of fifteen",
+     "morph": "compound+loc.sg.f+(indecl.)"
+    },
+    {
+     "surface": "madhyamatritayaṃ",
+     "gloss": "middle-triad",
+     "grounds": "accusative object referring to the three middle units",
+     "morph": "compound+acc.sg.nt"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-leave-out",
+     "grounds": "optative prescribing omission",
+     "morph": "3.sg.opt.act+tyaj"
+    }
+   ],
+   "question": "Which units must be omitted when the middle enclosure has fifteen divisions?",
+   "premises": [
+    "The middle enclosure is considered",
+    "The count involved is fifteen",
+    "The middle triad is to be omitted"
+   ],
+   "inference": "When the middle enclosure has fifteen divisions, the middle triad should be left out",
+   "uncertainties": [],
+   "plain_english": "In the middle enclosure, when the count is fifteen, one should leave out the middle three."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "catvāriṃśacca",
+     "gloss": "and-forty",
+     "grounds": "numeral with connective particle",
+     "morph": "nom.sg.f+(indecl.)"
+    },
+    {
+     "surface": "vyūhaṃ",
+     "gloss": "array",
+     "grounds": "subject referring to an arrangement",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.opt.act+as"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb indicating distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.opt.act+as"
+    },
+    {
+     "surface": "pañcaviṃśatiḥ",
+     "gloss": "twenty-five",
+     "grounds": "numeral indicating another count",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What distinct numerical arrays are prescribed in this arrangement?",
+   "premises": [
+    "An array of forty is prescribed",
+    "A separate count is prescribed",
+    "That separate count is twenty-five"
+   ],
+   "inference": "The arrangement should consist of an array of forty and separately twenty-five",
+   "uncertainties": [],
+   "plain_english": "The array should be forty, and separately there should be twenty-five."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "madhyavyūhasya+paritaś",
+     "gloss": "around-middle-array",
+     "grounds": "ablative/genitive sense with adverb indicating surrounding the middle array",
+     "morph": "compound+abl.sg.m+(indecl.)"
+    },
+    {
+     "surface": "catuṣkuṇḍantu+vāṣṭakam",
+     "gloss": "four-fire-pits-or-eight",
+     "grounds": "compound indicating either four or eight fire pits",
+     "morph": "compound+nom.sg.nt+(indecl.)+nom.sg.nt"
+    }
+   ],
+   "question": "How many fire pits may be placed around the middle array?",
+   "premises": [
+    "The placement is around the middle array",
+    "Four fire pits are an option",
+    "Eight fire pits are an option"
+   ],
+   "inference": "Either four or eight fire pits may be placed around the middle array",
+   "uncertainties": [],
+   "plain_english": "Around the middle array there may be four fire pits or eight."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "antarmārgaṃ",
+     "gloss": "inner-path",
+     "grounds": "accusative object referring to the inner path",
+     "morph": "compound+acc.sg.m"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-included",
+     "grounds": "absolutive indicating inclusion",
+     "morph": "gerund+sam-ā-vah"
+    },
+    {
+     "surface": "vīthiśśāstre",
+     "gloss": "street-in-scripture",
+     "grounds": "subject with locative indicating designation in the scripture",
+     "morph": "nom.sg.f+loc.sg.nt"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "declared",
+     "grounds": "past participle stating what is declared",
+     "morph": "nom.sg.nt.past-pass-part+sam-īr"
+    }
+   ],
+   "question": "What designation is given in scripture when the inner path is included?",
+   "premises": [
+    "The inner path is included",
+    "The scripture gives a designation",
+    "That designation is street"
+   ],
+   "inference": "When the inner path is included, it is declared in scripture as the street",
+   "uncertainties": [
+    "Sandhi in vīthiśśāstre reflects fusion but token is kept as given"
+   ],
+   "plain_english": "When the inner path is included, it is declared in the scripture to be the street."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "sūtranyāsassamākhyātaḥ",
+     "gloss": "thread-layout-explained",
+     "grounds": "subject with predicate stating the thread layout has been explained",
+     "morph": "nom.sg.m+nom.sg.m.past-pass-part+sam-ā-khyā"
+    },
+    {
+     "surface": "anyathāpi",
+     "gloss": "otherwise-also",
+     "grounds": "adverb with inclusive particle indicating another way",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future indicating possibility of another form",
+     "morph": "3.sg.fut.act+bhū"
+    }
+   ],
+   "question": "Can the thread layout be arranged in a manner other than the one explained?",
+   "premises": [
+    "The thread layout has been explained",
+    "Another manner is also possible",
+    "The future form indicates allowance"
+   ],
+   "inference": "Although explained, the thread layout may also be done otherwise",
+   "uncertainties": [],
+   "plain_english": "The thread layout has been explained, but it may also be done in another way."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "mārgabāhye",
+     "gloss": "outside-the-path",
+     "grounds": "locative indicating the area outside the path",
+     "morph": "compound+loc.sg.nt"
+    },
+    {
+     "surface": "tu+koṇesyādekaviṃśati",
+     "gloss": "but-in-corner-twenty-one",
+     "grounds": "locative with contrastive particle and numeral indicating twenty-one in the corner",
+     "morph": "(indecl.)+loc.sg.m+nom.sg.f"
+    },
+    {
+     "surface": "saṃkhyakaḥ",
+     "gloss": "in-number",
+     "grounds": "adjectival predicate indicating count",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What count is prescribed in the corner outside the path?",
+   "premises": [
+    "The location is outside the path",
+    "The specific area is the corner",
+    "The prescribed count is twenty-one"
+   ],
+   "inference": "Outside the path, in the corner, the count should be twenty-one",
+   "uncertainties": [
+    "Internal sandhi in tu+koṇesyādekaviṃśati is preserved as given"
+   ],
+   "plain_english": "Outside the path, in the corner, the number should be twenty-one."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "sūtradvayaṃ",
+     "gloss": "two-threads",
+     "grounds": "accusative object referring to two threads",
+     "morph": "compound+acc.sg.nt"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act+ni-as"
+    },
+    {
+     "surface": "pūrvāparagaṃ",
+     "gloss": "going-east-west",
+     "grounds": "describes one thread running east to west",
+     "morph": "compound+acc.sg.nt"
+    },
+    {
+     "surface": "yāmyasaumyagam",
+     "gloss": "going-south-north",
+     "grounds": "describes one thread running south to north",
+     "morph": "compound+acc.sg.nt"
+    }
+   ],
+   "question": "In which directions should the two threads be placed?",
+   "premises": [
+    "Two threads are to be placed",
+    "One runs east to west",
+    "One runs south to north"
+   ],
+   "inference": "Two threads should be placed, one east-west and one south-north",
+   "uncertainties": [],
+   "plain_english": "One should place two threads, one running east-west and the other south-north."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "syāccaturdaśasaṃkhyātā",
+     "gloss": "should-be-counted-fourteen",
+     "grounds": "optative with predicate indicating a count of fourteen",
+     "morph": "3.sg.opt.act+as+compound+nom.sg.f"
+    },
+    {
+     "surface": "vīthibāhye",
+     "gloss": "outside-the-street",
+     "grounds": "locative indicating the area outside the street",
+     "morph": "compound+loc.sg.nt"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental indicating sequential arrangement",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What count should be arranged in order outside the street?",
+   "premises": [
+    "The area outside the street is specified",
+    "The arrangement is in order",
+    "The count is fourteen"
+   ],
+   "inference": "Outside the street, fourteen should be arranged in order",
+   "uncertainties": [
+    "The counted items are not explicitly named in this verse"
+   ],
+   "plain_english": "Outside the street, there should be fourteen, arranged in order."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar-ground",
+     "grounds": "subject referring to the prepared altar ground",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "puruṣeṇasyāt",
+     "gloss": "by-person-should-be",
+     "grounds": "instrumental with optative indicating preparation by a person",
+     "morph": "ins.sg.m+3.sg.opt.act+as"
+    },
+    {
+     "surface": "catuḥ+prasthamidaṃ",
+     "gloss": "this-four-prastha",
+     "grounds": "predicate describing the measure as four prasthas",
+     "morph": "nom.sg.nt+compound+nom.sg.nt"
+    },
+    {
+     "surface": "varam",
+     "gloss": "best",
+     "grounds": "predicate indicating the preferred measure",
+     "morph": "nom.sg.nt"
+    }
+   ],
+   "question": "What altar-ground measure is considered best when prepared by a person?",
+   "premises": [
+    "The altar ground is prepared by a person",
+    "A measure of four prasthas is specified",
+    "This measure is called best"
+   ],
+   "inference": "An altar ground of four prasthas is the best measure",
+   "uncertainties": [
+    "puruṣeṇa may indicate agency or a standard measure related to a person"
+   ],
+   "plain_english": "The altar ground prepared by a person should be four prasthas; this is the best."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "hīnahīnataraṃ",
+     "gloss": "lesser-and-still-lesser",
+     "grounds": "comparative compound indicating progressively smaller measures",
+     "morph": "compound+nom.sg.nt"
+    },
+    {
+     "surface": "prasthamānamityabhidhīyate",
+     "gloss": "called-prastha-measure",
+     "grounds": "predicate stating it is designated as a prastha measure",
+     "morph": "compound+3.sg.pres.pass+abhi-dhā"
+    }
+   ],
+   "question": "How are progressively smaller prastha measures designated?",
+   "premises": [
+    "Measures may be lesser",
+    "Measures may be still lesser",
+    "They are designated as prastha measures"
+   ],
+   "inference": "Progressively smaller amounts are also designated as prastha measures",
+   "uncertainties": [],
+   "plain_english": "Lesser and still lesser amounts are also called prastha measures."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "adhaśced",
+     "gloss": "if-below",
+     "grounds": "conditional particle indicating a lower measure",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "habhicārārthaṃ",
+     "gloss": "for-sorcery-purpose",
+     "grounds": "accusative indicating purpose of harmful ritual",
+     "morph": "compound+acc.sg.nt"
+    },
+    {
+     "surface": "bhavedeva",
+     "gloss": "would-be-indeed",
+     "grounds": "optative with emphatic particle",
+     "morph": "3.sg.opt.act+bhū+(indecl.)"
+    },
+    {
+     "surface": "na+saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "negation with noun asserting certainty",
+     "morph": "(indecl.)+nom.sg.m"
+    }
+   ],
+   "question": "For what purpose would a measure below the prescribed amount be used?",
+   "premises": [
+    "A measure below the standard is considered",
+    "Such a measure serves a sorcery purpose",
+    "The text asserts this without doubt"
+   ],
+   "inference": "A below-standard measure would indeed be for sorcery, without doubt",
+   "uncertainties": [
+    "habhicārārthaṃ appears to reflect abhicārārthaṃ in meaning but surface is kept as given"
+   ],
+   "plain_english": "If it is below that, it would indeed be for the purpose of sorcery; there is no doubt."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "mānantu",
+     "gloss": "but-measure",
+     "grounds": "subject with contrastive particle indicating measure",
+     "morph": "nom.sg.nt+(indecl.)"
+    },
+    {
+     "surface": "śivakumbhesyāt",
+     "gloss": "for-shiva-pot-should-be",
+     "grounds": "locative with optative indicating measure for the Shiva pot",
+     "morph": "compound+loc.sg.m+3.sg.opt.act+as"
+    },
+    {
+     "surface": "tasyordhvekarakemataḥ",
+     "gloss": "above-it-one-cubit-considered",
+     "grounds": "compound indicating one cubit above it as the accepted measure",
+     "morph": "compound+loc.sg.nt+nom.sg.nt"
+    }
+   ],
+   "question": "What height measure is prescribed above the Shiva pot?",
+   "premises": [
+    "The measure concerns the Shiva pot",
+    "A height above it is specified",
+    "That height is one cubit"
+   ],
+   "inference": "The measure for the Shiva pot should be one cubit above it",
+   "uncertainties": [
+    "Internal sandhi in tasyordhvekarakemataḥ is preserved as given"
+   ],
+   "plain_english": "But the measure for the Shiva pot should be one cubit above it."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "tilārdhaṃ",
+     "gloss": "half-sesame",
+     "grounds": "measure expressed as half a sesame quantity",
+     "morph": "compound+nom.sg.nt"
+    },
+    {
+     "surface": "lājamānaṃ",
+     "gloss": "parched-grain-measure",
+     "grounds": "measure related to parched grain",
+     "morph": "compound+nom.sg.nt"
+    },
+    {
+     "surface": "syādaṣṭadroṇaṃ",
+     "gloss": "should-be-eight-drona",
+     "grounds": "optative with predicate indicating eight droṇas",
+     "morph": "3.sg.opt.act+as+compound+nom.sg.nt"
+    },
+    {
+     "surface": "sahasrake",
+     "gloss": "in-thousand",
+     "grounds": "locative indicating a thousandfold context",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "What grain measures are specified in relation to the thousandfold context?",
+   "premises": [
+    "A measure of half sesame is mentioned",
+    "A measure of parched grain is mentioned",
+    "Eight droṇas are specified in a thousandfold context"
+   ],
+   "inference": "The measures include half sesame, parched grain, and eight droṇas in the thousandfold context",
+   "uncertainties": [
+    "The precise relationship among the listed measures is compressed and unclear"
+   ],
+   "plain_english": "There should be half a measure of sesame, a measure of parched grain, and eight droṇas in the thousandfold context."
+  }
+ ]
+}

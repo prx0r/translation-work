@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p516",
+ "items": [
+  {
+   "verse": 12900,
+   "rows": [
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective qualifying nyāsaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "ritual placement of letters; subject of the statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uditaḥ",
+     "gloss": "declared",
+     "grounds": "predicate describing the fifth nyāsa",
+     "morph": "m.nom.sg (ppp)"
+    },
+    {
+     "surface": "śrī+bīja+ādi+mātṛkaḥ",
+     "gloss": "glorious-seed-beginning-letter-matrix",
+     "grounds": "compound identifying the mātṛkā that begins with the glorious seed-syllable",
+     "morph": "compound: śrī+bīja+ādi+mātṛka, m.nom.sg"
+    }
+   ],
+   "question": "Which form of the letter-matrix is designated as the fifth nyāsa in this sequence?",
+   "premises": [
+    "A sequence of letter placements is being enumerated in the preceding verses.",
+    "The fifth placement in this sequence is explicitly named.",
+    "This fifth placement is identified as the mātṛkā beginning with the glorious seed-syllable."
+   ],
+   "inference": "The fifth nyāsa is the letter-matrix that begins with the glorious seed-syllable.",
+   "uncertainties": [
+    "The specific identity of the glorious seed-syllable is not stated in this verse."
+   ],
+   "plain_english": "The fifth nyāsa is declared to be the mātṛkā beginning with the glorious seed-syllable."
+  }
+ ]
+}

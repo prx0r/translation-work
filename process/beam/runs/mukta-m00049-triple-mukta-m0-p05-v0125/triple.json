@@ -1,0 +1,74 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to one who does not follow the āgama path",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "goal",
+     "grounds": "spiritual attainment or destination",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the preceding statement as quoted or concluded",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "true",
+     "grounds": "affirms the truth of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "true",
+     "grounds": "repetition for emphasis",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How certain is the absence of spiritual attainment for one who neglects the āgama path?",
+   "premises": [
+    "One who neglects the āgama path has no spiritual goal.",
+    "The statement of this absence is declared to be true.",
+    "The truth of this statement is emphatically repeated.",
+    "No doubt exists regarding this absence."
+   ],
+   "inference": "Therefore, the lack of spiritual attainment for such a person is absolutely certain.",
+   "uncertainties": [],
+   "plain_english": "For him there is no goal—this is true, true; there is no doubt."
+  }
+ ]
+}

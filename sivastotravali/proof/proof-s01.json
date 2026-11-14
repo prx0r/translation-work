@@ -8,6 +8,9 @@
   "LEDGER_GLOSS_MISSING ['bhaktiśālin=possessor-of-devotion', 'samāveśa=immersion']"
  ],
  "source_sha": "1da56456ffbd9ba6",
+ "source_digest_normalized_sha256": "1da56456ffbd9ba668634269607391c53f315c6145187edc1522ebfd070cccd9",
+ "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/sivastotravali-u.txt",
  "source_verses": 26,
  "t1_verses": 26,
  "l0": {
@@ -21,15 +24,15 @@
   "sub090": {
    "17": {
     "ratio": 0.897,
-    "disposition": "sandhi-only: 13 pada joints (visarga/elision), order verified by hunk inspection 2026-11-01"
+    "disposition": "sandhi-only: pratyāhāra+ādi→pratyāhārādi, -aḥ→-o (visarga), yat→yad (voicing), asti→'sti elision marking; T1 citation forms, same words/order (assessor-verified 2026-11-14)"
    },
    "18": {
     "ratio": 0.872,
-    "disposition": "sandhi-only: yoga/tapas elisions + ko'pi restoration, order verified 2026-11-01"
+    "disposition": "sandhi-only: -aḥ→-o ×2, na+arcā→nārca, -aḥa→o', praṇīyate→pranīyate (ṇatva normalization), asmin→'smin elision, bhaktiḥ+ekā→bhaktir (rhotacism); T1 citation forms (assessor-verified 2026-11-14)"
    },
    "20": {
     "ratio": 0.883,
-    "disposition": "order FIXED (jihva|agre); residual 0.883 = siva+iti>sveti-class joints, verified 2026-11-01"
+    "disposition": "sandhi-only: aa>ā, aḥ>o, aḥa>o', hiatus/avagraha-drop, i>y, u>v"
    }
   }
  },

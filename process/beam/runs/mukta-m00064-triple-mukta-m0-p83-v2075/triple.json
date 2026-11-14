@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "ādityaḥ",
+     "gloss": "aditya",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāyukoṇe",
+     "gloss": "northwest-corner",
+     "grounds": "compound vāyu-koṇa; locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "vayu",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhallātakaḥ",
+     "gloss": "bhallataka",
+     "grounds": "name of plant or marker in this directional list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities and marker are assigned to the northwest corner?",
+   "premises": [
+    "The northwest corner is the specified locus.",
+    "Āditya is located in the northwest corner.",
+    "Vāyu and Bhallātaka are likewise located there."
+   ],
+   "inference": "Āditya, Vāyu, and Bhallātaka occupy the northwest corner.",
+   "uncertainties": [
+    "Whether bhallātaka denotes the plant, a totemic marker, or a specific deity-form in this context."
+   ],
+   "plain_english": "In the northwest corner are Āditya, Vāyu, and likewise Bhallātaka."
+  }
+ ]
+}

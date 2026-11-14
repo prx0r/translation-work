@@ -1,0 +1,631 @@
+{
+ "song": "kul-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "location where burning occurs",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "by-that",
+     "grounds": "instrumental agent of burning",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "vinirdagdhe",
+     "gloss": "completely-burnt",
+     "grounds": "state of being thoroughly consumed by fire",
+     "morph": "loc.sg.n ppp vi-nis-dah"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "consequence following the burning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhim",
+     "gloss": "purity",
+     "grounds": "state of purification attained",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "potential attainment of purity",
+     "morph": "3.sg.opt.act ava-āp"
+    }
+   ],
+   "question": "How does complete burning in the mouth result in purification?",
+   "premises": [
+    "Something is completely burnt in the mouth by that.",
+    "This burning occurs as a prior condition.",
+    "Purification can be obtained after that burning."
+   ],
+   "inference": "Complete burning in the mouth serves as the means by which purity is obtained.",
+   "uncertainties": [
+    "The referent of tayā is not specified within this verse."
+   ],
+   "plain_english": "When it is completely burnt in the mouth by that, one may then obtain purity."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "avidhānena",
+     "gloss": "without-method",
+     "grounds": "absence of prescribed ritual procedure",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "person performing the act",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hanyād",
+     "gloss": "may-kill",
+     "grounds": "act of killing",
+     "morph": "3.sg.opt.act han"
+    },
+    {
+     "surface": "ātmārthaṃ",
+     "gloss": "for-self-sake",
+     "grounds": "purpose of the killing; compound ātma+artha",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "prāṇinaḥ",
+     "gloss": "living-beings",
+     "grounds": "victims of the killing",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What moral fault attaches to killing living beings for oneself without prescribed method?",
+   "premises": [
+    "A person may kill living beings.",
+    "The killing is done for one's own sake.",
+    "The killing is done without the prescribed method."
+   ],
+   "inference": "Killing living beings for oneself without prescribed method constitutes a wrongful act.",
+   "uncertainties": [],
+   "plain_english": "O beloved, whoever kills living beings for his own sake without the prescribed method."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the person described in the previous verse",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mṛtaḥ",
+     "gloss": "dead",
+     "grounds": "state after death",
+     "morph": "nom.sg.m ppp mṛ"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasizes consequence after death",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durācāras",
+     "gloss": "evil-conduct",
+     "grounds": "character of the wrongdoer; compound dur+ācāra",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "tirryag+yoniṣu",
+     "gloss": "in-animal-wombs",
+     "grounds": "realm of rebirth; compound tiryak+yoni with sandhi fusion",
+     "morph": "loc.pl.f compound"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "rebirth as consequence",
+     "morph": "3.sg.pres.mid jan"
+    }
+   ],
+   "question": "What rebirth awaits a person of evil conduct who kills without method?",
+   "premises": [
+    "The person who kills without method is of evil conduct.",
+    "This consequence applies even after death.",
+    "Such a person is born in animal wombs."
+   ],
+   "inference": "A person of evil conduct who kills without method is reborn in animal wombs.",
+   "uncertainties": [],
+   "plain_english": "Even after death, that evil-doer is born in the wombs of animals."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "saṃskartā",
+     "gloss": "preparer",
+     "grounds": "one who prepares the meat",
+     "morph": "nom.sg.m agent-noun sam-kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects members of the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upaharttā",
+     "gloss": "offerer",
+     "grounds": "one who brings or offers the meat",
+     "morph": "nom.sg.m agent-noun upa-hṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects members of the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khāditā",
+     "gloss": "eater",
+     "grounds": "one who eats the meat",
+     "morph": "nom.sg.m agent-noun khād"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "total number including killers",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds the killers to the count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghātakāḥ",
+     "gloss": "killers",
+     "grounds": "those who participate in killing",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Who are counted among the participants responsible for an improper killing?",
+   "premises": [
+    "The preparer, offerer, and eater are named as participants.",
+    "Killers are also included in the count.",
+    "Together these participants total eight."
+   ],
+   "inference": "Responsibility for improper killing extends to preparer, offerer, eater, and eight kinds of killers.",
+   "uncertainties": [
+    "The exact distribution making up the eight is clarified in the next verse."
+   ],
+   "plain_english": "The preparer, the offerer, the eater, and the eight killers are all involved."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "ghātakaḥ",
+     "gloss": "killer",
+     "grounds": "the agent of killing",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vadha",
+     "gloss": "killing",
+     "grounds": "first mode of causing death; compound member in vadha-bandhābhyāṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bandhābhyāṃ",
+     "gloss": "and-by-binding",
+     "grounds": "second mode of causing death; dual instrumental in compound",
+     "morph": "inst.du.n compound vadha+bandha"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the stated classification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "the killing under discussion",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "trividhaḥ",
+     "gloss": "threefold",
+     "grounds": "classification into three kinds; compound tri+vidha",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "vadhaḥ",
+     "gloss": "killing",
+     "grounds": "the act classified as threefold",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "In what three ways is the act of killing classified here?",
+   "premises": [
+    "Killing is associated with killing and binding.",
+    "The text explicitly classifies this killing.",
+    "The classification given is threefold."
+   ],
+   "inference": "The act of killing is threefold, distinguished by killing and binding.",
+   "uncertainties": [
+    "The precise third mode is not explicitly named in this verse."
+   ],
+   "plain_english": "Thus, by killing and by binding, this killing is said to be threefold."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "draws consequence from previous verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avidhinā",
+     "gloss": "without-method",
+     "grounds": "absence of prescribed ritual procedure",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "substance whose use is restricted",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "madyaṃ",
+     "gloss": "wine",
+     "grounds": "substance whose use is restricted",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevate",
+     "gloss": "one-should-use",
+     "grounds": "use or consumption of the substances",
+     "morph": "3.sg.pres.mid sev"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "universal prohibition in this context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must meat and wine never be used without the prescribed method?",
+   "premises": [
+    "Previous verses condemn killing and consumption without method.",
+    "Meat and wine are named as substances of concern.",
+    "Their use without method is prohibited in any circumstance."
+   ],
+   "inference": "Because of the faults of non-methodical killing and consumption, meat and wine must never be used without method.",
+   "uncertainties": [],
+   "plain_english": "Therefore, one should never use meat or wine without the prescribed method."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "nāśayati",
+     "gloss": "it-destroys",
+     "grounds": "destructive effect of misuse",
+     "morph": "3.sg.pres.act naś-caus"
+    },
+    {
+     "surface": "aparijñānāt",
+     "gloss": "through-non-understanding",
+     "grounds": "cause of destruction; lack of proper knowledge",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "what is destroyed or lost",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis on the reality of the loss",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address to the listener",
+     "morph": "voc.sg.f compound vara+ānana"
+    }
+   ],
+   "question": "What consequence follows from using such practices without proper understanding?",
+   "premises": [
+    "Lack of proper understanding is the cause.",
+    "Something is destroyed as a result.",
+    "Truth itself is what is destroyed."
+   ],
+   "inference": "Non-understanding in such matters leads to the destruction of truth.",
+   "uncertainties": [
+    "The scope of satyam in this ritual context is not fully specified."
+   ],
+   "plain_english": "O fair-faced one, through lack of understanding it indeed destroys truth."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "presence of prescribed ritual procedure",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "gāṃ",
+     "gloss": "cow",
+     "grounds": "one possible object of killing",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dvijaṃ",
+     "gloss": "twice-born",
+     "grounds": "another possible object of killing",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "alternative object; vā+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hatyā",
+     "gloss": "having-killed",
+     "grounds": "act of killing performed",
+     "morph": "gerund han"
+    },
+    {
+     "surface": "pāpair",
+     "gloss": "by-sins",
+     "grounds": "moral taint that might result",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of taint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-tainted",
+     "grounds": "being affected by sin",
+     "morph": "3.sg.pres.pass lip"
+    }
+   ],
+   "question": "Can killing even a cow or twice-born person avoid sin when done by prescribed method?",
+   "premises": [
+    "Killing a cow or a twice-born person is mentioned.",
+    "The killing is performed according to the prescribed method.",
+    "The agent is not tainted by sins in that case."
+   ],
+   "inference": "When performed according to the prescribed method, even such killing does not result in taint by sin.",
+   "uncertainties": [
+    "The ritual conditions defining vidhinā are not specified in this verse."
+   ],
+   "plain_english": "Having killed a cow or even a twice-born person according to the prescribed method, one is not tainted by sins."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "jīvanmukti+sukha+upāyaṃ",
+     "gloss": "living-liberation-happiness-means",
+     "grounds": "means to the happiness of liberation while living; compound jīvanmukti+sukha+upāya",
+     "morph": "acc.sg.m compound"
+    },
+    {
+     "surface": "kulaśāstreṣu",
+     "gloss": "in-kula-scriptures",
+     "grounds": "texts where this means is found; compound kula+śāstra",
+     "morph": "loc.pl.n compound"
+    },
+    {
+     "surface": "gopitam",
+     "gloss": "hidden",
+     "grounds": "concealed or kept secret",
+     "morph": "acc.sg.m ppp gup"
+    }
+   ],
+   "question": "Where is the means to the happiness of living liberation kept hidden?",
+   "premises": [
+    "A means to the happiness of living liberation exists.",
+    "This means is located in the Kula scriptures.",
+    "This means is described as hidden."
+   ],
+   "inference": "The means to the happiness of living liberation is hidden within the Kula scriptures.",
+   "uncertainties": [],
+   "plain_english": "The means to the happiness of living liberation is hidden in the Kula scriptures."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "kulajñe",
+     "gloss": "in-knower-of-kula",
+     "grounds": "person who knows Kula; compound kula+jña",
+     "morph": "loc.sg.m compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasizes inclusion of such a person",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhva+vikhyāte",
+     "gloss": "renowned-above",
+     "grounds": "highly renowned; compound ūrdhva+vikhyāta",
+     "morph": "loc.sg.m compound"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "the knowledge in question",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "points to specific knowledge",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "reiterates the specific knowledge",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anuttamam",
+     "gloss": "unsurpassed",
+     "grounds": "highest quality of that knowledge",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What kind of knowledge resides even in a highly renowned knower of Kula?",
+   "premises": [
+    "A knower of Kula is considered, even one renowned above others.",
+    "Specific knowledge is present in such a person.",
+    "That knowledge is described as unsurpassed."
+   ],
+   "inference": "Even in a highly renowned knower of Kula there is that unsurpassed knowledge.",
+   "uncertainties": [
+    "The repetition tat tad may be emphatic or distributive; taken here as emphatic."
+   ],
+   "plain_english": "Even in a knower of Kula who is renowned above others, that knowledge is unsurpassed."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "pramāṇāni",
+     "gloss": "authorities",
+     "grounds": "valid means of knowledge or scriptural authorities",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation of doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty to be excluded",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of refutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hantavyāni",
+     "gloss": "to-be-struck-down",
+     "grounds": "not to be refuted or invalidated",
+     "morph": "nom.pl.n gerundive han"
+    },
+    {
+     "surface": "hetubhiḥ",
+     "gloss": "by-reasons",
+     "grounds": "arguments or reasons used to challenge",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "Why should the scriptural authorities not be challenged by reasoning?",
+   "premises": [
+    "The authorities are affirmed without doubt.",
+    "They are not to be struck down.",
+    "Reasons or arguments should not be used to invalidate them."
+   ],
+   "inference": "The scriptural authorities are beyond doubt and must not be invalidated by reasoning.",
+   "uncertainties": [],
+   "plain_english": "These are authorities; there is no doubt. They are not to be struck down by reasons."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "svādiṣṭhayā",
+     "gloss": "by-what-pleasing-to-you",
+     "grounds": "offering pleasing to the listener; compound sva+ādiṣṭa",
+     "morph": "inst.sg.f compound"
+    },
+    {
+     "surface": "madiṣṭhayā",
+     "gloss": "by-what-pleasing-to-me",
+     "grounds": "offering pleasing to the speaker; compound mad+iṣṭa",
+     "morph": "inst.sg.f compound"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "ritual substance",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sapīr",
+     "gloss": "with-ghee",
+     "grounds": "milk accompanied by ghee; compound sa+pī",
+     "morph": "nom.sg.n compound"
+    },
+    {
+     "surface": "madhu+udakam",
+     "gloss": "honey-water",
+     "grounds": "ritual mixture of honey and water; compound madhu+udaka",
+     "morph": "nom.sg.n compound"
+    }
+   ],
+   "question": "What pleasing offerings of milk, ghee, honey, and water are presented in this context?",
+   "premises": [
+    "Offerings pleasing to you and pleasing to me are mentioned.",
+    "Milk with ghee is included among the offerings.",
+    "Honey-water is included among the offerings."
+   ],
+   "inference": "The offerings presented include milk with ghee and honey-water, pleasing to both parties.",
+   "uncertainties": [
+    "The syntactic role of the instrumental forms is elliptical in this verse."
+   ],
+   "plain_english": "With what is pleasing to you and pleasing to me: milk with ghee, and honey-water."
+  }
+ ]
+}

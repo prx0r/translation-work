@@ -1,0 +1,1242 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "payovā",
+     "gloss": "milk-or",
+     "grounds": "fused sandhi form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mūlam",
+     "gloss": "root",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yatna",
+     "gloss": "effort",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upalabhyate",
+     "gloss": "is-obtained",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root labh"
+    }
+   ],
+   "question": "What root or effort is obtained here in this practice?",
+   "premises": [
+    "milk is named as root",
+    "effort is also named",
+    "the verse asks what is obtained"
+   ],
+   "inference": "The verse identifies milk as root and effort as what is obtained.",
+   "uncertainties": [
+    "exact sandhi of payovā"
+   ],
+   "plain_english": "Milk is the root here, and effort is what is obtained."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "tāmbūlam",
+     "gloss": "betel",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāṃsyapātram",
+     "gloss": "bronze-vessel",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "divābhojanam",
+     "gloss": "day-meal",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which ritual items and daytime meal are prescribed here?",
+   "premises": [
+    "betel is named",
+    "bronze vessel is named",
+    "day meal is named"
+   ],
+   "inference": "The verse lists betel, bronze vessel, and daytime meal.",
+   "uncertainties": [
+    "exact ritual context"
+   ],
+   "plain_english": "Betel, a bronze vessel, and daytime meal are included."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "yathoktavidhinā",
+     "gloss": "by-prescribed-rite",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "trisandhyaṃ",
+     "gloss": "three-junctures",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devatārccanam",
+     "gloss": "deity-worship",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How often should deity worship be performed by prescribed rite?",
+   "premises": [
+    "worship is to be done",
+    "rite is prescribed",
+    "three junctures are named"
+   ],
+   "inference": "Deity worship should be done three times daily by prescribed rite.",
+   "uncertainties": [
+    "exact juncture times"
+   ],
+   "plain_english": "Perform deity worship three times daily by the prescribed rite."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "trisandhyam",
+     "gloss": "three-junctures",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekasandhyaṃ",
+     "gloss": "one-juncture",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root jap"
+    }
+   ],
+   "question": "Should one chant mantra only at one juncture rather than three?",
+   "premises": [
+    "three junctures are named",
+    "one juncture is named",
+    "mantra chanting is named"
+   ],
+   "inference": "The verse contrasts three junctures with one and forbids mantra-only chanting.",
+   "uncertainties": [
+    "exact prohibition scope"
+   ],
+   "plain_english": "Do not chant mantra only at one juncture instead of three."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "gurur",
+     "gloss": "guru",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root arc"
+    }
+   ],
+   "question": "Why should the guru be worshipped first as supreme brahman?",
+   "premises": [
+    "guru is supreme brahman",
+    "therefore is stated",
+    "worship him first"
+   ],
+   "inference": "Because guru is supreme brahman, he should be worshipped first.",
+   "uncertainties": [
+    "ritual sequence details"
+   ],
+   "plain_english": "The guru is supreme brahman, so worship him first."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "snāyāt",
+     "gloss": "should-bathe",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root snā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcagavyena",
+     "gloss": "with-five-cow-products",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kevalāmalakena",
+     "gloss": "with-pure-amalaka",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "With what substances should one bathe in this rite?",
+   "premises": [
+    "bathing is prescribed",
+    "five cow products are named",
+    "pure amalaka is named"
+   ],
+   "inference": "One should bathe with five cow products or pure amalaka.",
+   "uncertainties": [
+    "choice conditions"
+   ],
+   "plain_english": "Bathe with five cow products or pure amalaka."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "asnātasya",
+     "gloss": "of-unbathed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ātarpayataḥ",
+     "gloss": "of-satisfying",
+     "grounds": "participle",
+     "morph": "part."
+    },
+    {
+     "surface": "pitṝn",
+     "gloss": "ancestors",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What happens if one remains unbathed during this rite?",
+   "premises": [
+    "unbathed person has no fruit",
+    "ancestors are not satisfied",
+    "bathing is required"
+   ],
+   "inference": "Without bathing there is no fruit and ancestors are not satisfied.",
+   "uncertainties": [
+    "exact ancestral rite"
+   ],
+   "plain_english": "An unbathed person gains no fruit and does not satisfy ancestors."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "asatyabhāṣaṇam",
+     "gloss": "false-speech",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kauṭilyaṃ",
+     "gloss": "crookedness",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dūrataḥ",
+     "gloss": "from-afar",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root tyaj"
+    }
+   ],
+   "question": "Which moral faults must be abandoned from afar?",
+   "premises": [
+    "false speech is named",
+    "crookedness is named",
+    "abandon from afar is commanded"
+   ],
+   "inference": "False speech and crookedness must be abandoned from afar.",
+   "uncertainties": [
+    "scope of dūrataḥ"
+   ],
+   "plain_english": "Abandon false speech and crookedness from afar."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "abhyaṅgaṃ",
+     "gloss": "oil-massage",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gandhalepam",
+     "gloss": "scented-unguent",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "puṣpadhāraṇam",
+     "gloss": "flower-wearing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which bodily adornments are listed in this rule?",
+   "premises": [
+    "oil massage is named",
+    "scented unguent is named",
+    "flower wearing is named"
+   ],
+   "inference": "The verse lists oil massage, scented unguent, and flower wearing.",
+   "uncertainties": [
+    "whether prohibited or prescribed"
+   ],
+   "plain_english": "Oil massage, scented unguent, and flower wearing are listed."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "asnānam",
+     "gloss": "non-bathing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvijān",
+     "gloss": "twice-born",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "striyo",
+     "gloss": "women",
+     "grounds": "noun",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "should-touch",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root spṛś"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Whom should an unbathed person not touch then?",
+   "premises": [
+    "non-bathing is named",
+    "twice-born are named",
+    "women are named"
+   ],
+   "inference": "An unbathed person should not touch twice-born or women then.",
+   "uncertainties": [
+    "exact ritual state"
+   ],
+   "plain_english": "Then an unbathed person should not touch twice-born or women."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "prāṇihiṃsāṃ",
+     "gloss": "harm-to-beings",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "puraścaraṇakṛt",
+     "gloss": "rite-performer",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What must a man performing puraścaraṇa avoid?",
+   "premises": [
+    "harm to beings is named",
+    "should not do is stated",
+    "rite performer is named"
+   ],
+   "inference": "A man performing puraścaraṇa must not harm beings.",
+   "uncertainties": [
+    "scope of puraścaraṇa"
+   ],
+   "plain_english": "A man performing puraścaraṇa must not harm beings."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "parvātirikte",
+     "gloss": "beyond-festival",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratigṛhya",
+     "gloss": "having-received",
+     "grounds": "absolutive",
+     "morph": "abs."
+    },
+    {
+     "surface": "japyāt",
+     "gloss": "should-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root jap"
+    }
+   ],
+   "question": "When should one chant after receiving beyond a festival?",
+   "premises": [
+    "beyond festival is named",
+    "having received is stated",
+    "chanting is commanded"
+   ],
+   "inference": "After receiving beyond a festival, one should chant.",
+   "uncertainties": [
+    "exact festival rule"
+   ],
+   "plain_english": "After receiving beyond a festival, one should chant."
+  },
+  {
+   "verse": 1038,
+   "rows": [
+    {
+     "surface": "apavitrakaraḥ",
+     "gloss": "impurity-maker",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aśuddhaḥ",
+     "gloss": "impure",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasarpan",
+     "gloss": "moving-about",
+     "grounds": "participle",
+     "morph": "part."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root jap"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who should never chant while moving about impure?",
+   "premises": [
+    "impurity maker is named",
+    "impure is named",
+    "moving about is named"
+   ],
+   "inference": "An impure impurity-maker moving about should never chant.",
+   "uncertainties": [
+    "exact impurity type"
+   ],
+   "plain_english": "An impure person making impurity while moving about should never chant."
+  },
+  {
+   "verse": 1039,
+   "rows": [
+    {
+     "surface": "cintāvyākulacittaḥ",
+     "gloss": "anxious-minded",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kruddhaḥ",
+     "gloss": "angry",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhrāntaḥ",
+     "gloss": "confused",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvarānvitaḥ",
+     "gloss": "hasty",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which mental states disqualify chanting in this rule?",
+   "premises": [
+    "anxious mind is named",
+    "anger is named",
+    "confusion is named",
+    "haste is named"
+   ],
+   "inference": "Anxious, angry, confused, or hasty states disqualify chanting.",
+   "uncertainties": [
+    "whether all are prohibitions"
+   ],
+   "plain_english": "Do not chant when anxious, angry, confused, or hasty."
+  },
+  {
+   "verse": 1040,
+   "rows": [
+    {
+     "surface": "rathyāyām",
+     "gloss": "in-street",
+     "grounds": "noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "aśive",
+     "gloss": "inauspicious",
+     "grounds": "adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root jap"
+    },
+    {
+     "surface": "timirālaye",
+     "gloss": "in-darkness",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should one not chant according to this rule?",
+   "premises": [
+    "street is named",
+    "inauspicious place is named",
+    "darkness is named"
+   ],
+   "inference": "One should not chant in streets, inauspicious places, or darkness.",
+   "uncertainties": [
+    "exact darkness meaning"
+   ],
+   "plain_english": "Do not chant in streets, inauspicious places, or darkness."
+  },
+  {
+   "verse": 1041,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyūnaṃ",
+     "gloss": "deficient",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atiriktaṃ",
+     "gloss": "excessive",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "chanting",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should daily chanting be measured each day?",
+   "premises": [
+    "deficient is forbidden",
+    "excessive is forbidden",
+    "daily chanting is named"
+   ],
+   "inference": "Daily chanting should be neither deficient nor excessive.",
+   "uncertainties": [
+    "exact count"
+   ],
+   "plain_english": "Chant daily neither too little nor too much."
+  },
+  {
+   "verse": 1042,
+   "rows": [
+    {
+     "surface": "divasātikramāt",
+     "gloss": "by-day-lapse",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "siddhihāniḥ",
+     "gloss": "loss-of-success",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root jan"
+    }
+   ],
+   "question": "What results from letting the day lapse in this practice?",
+   "premises": [
+    "day lapse is named",
+    "loss of success is named",
+    "arises is stated"
+   ],
+   "inference": "Letting the day lapse causes loss of success.",
+   "uncertainties": [
+    "exact time limit"
+   ],
+   "plain_english": "Letting the day lapse causes loss of success."
+  },
+  {
+   "verse": 1043,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekavāsā",
+     "gloss": "in-one-garment",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bahuvāsākulaḥ",
+     "gloss": "crowded-with-many-garments",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "In what garment conditions should mantra not be chanted?",
+   "premises": [
+    "one garment is named",
+    "many garments crowded is named",
+    "mantra chanting is named"
+   ],
+   "inference": "Mantra should not be chanted in one garment or crowded with many garments.",
+   "uncertainties": [
+    "exact garment rule"
+   ],
+   "plain_english": "Do not chant mantra in one garment or crowded with many garments."
+  },
+  {
+   "verse": 1044,
+   "rows": [
+    {
+     "surface": "kṣute",
+     "gloss": "on-sneezing",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "adhovāyugamane",
+     "gloss": "on-downward-breath",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jṛmbhaṇe",
+     "gloss": "on-yawning",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "japam",
+     "gloss": "chanting",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsṛjet",
+     "gloss": "should-abandon",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root utsṛj"
+    }
+   ],
+   "question": "When should chanting be abandoned during bodily interruptions?",
+   "premises": [
+    "sneezing is named",
+    "downward breath is named",
+    "yawning is named"
+   ],
+   "inference": "Chanting should be abandoned on sneezing, downward breath, or yawning.",
+   "uncertainties": [
+    "whether resume after"
+   ],
+   "plain_english": "Abandon chanting on sneezing, downward breath, or yawning."
+  },
+  {
+   "verse": 1045,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs."
+    },
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root jap"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sūryādidarśanam",
+     "gloss": "sun-etc-sighting",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should be done properly before chanting the remainder?",
+   "premises": [
+    "having done properly is stated",
+    "remainder is named",
+    "sun sighting is named"
+   ],
+   "inference": "After proper sun sighting, chant the remainder.",
+   "uncertainties": [
+    "exact sequence"
+   ],
+   "plain_english": "Having properly sighted the sun, chant the remainder."
+  },
+  {
+   "verse": 1046,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣālayet",
+     "gloss": "should-wash",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kṣāl"
+    },
+    {
+     "surface": "śayyām",
+     "gloss": "bed",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ekākī",
+     "gloss": "alone",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirbhayaḥ",
+     "gloss": "fearless",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svapet",
+     "gloss": "should-sleep",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root svap"
+    }
+   ],
+   "question": "What daily and sleeping practices are prescribed here?",
+   "premises": [
+    "daily washing is named",
+    "bed is named",
+    "sleep alone fearless is named"
+   ],
+   "inference": "Wash the bed daily and sleep alone fearless.",
+   "uncertainties": [
+    "exact washing object"
+   ],
+   "plain_english": "Wash the bed daily and sleep alone, fearless."
+  },
+  {
+   "verse": 1047,
+   "rows": [
+    {
+     "surface": "sthaṇḍilasthām",
+     "gloss": "ground-seated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahāmāyāṃ",
+     "gloss": "great-maya",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādukāpratimāsu",
+     "gloss": "in-sandal-images",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where is great maya seated or worshipped in this rule?",
+   "premises": [
+    "ground seated is named",
+    "great maya is named",
+    "sandal images are named"
+   ],
+   "inference": "Great maya is associated with ground seating and sandal images.",
+   "uncertainties": [
+    "exact ritual action"
+   ],
+   "plain_english": "Great maya is seated on the ground and in sandal images."
+  },
+  {
+   "verse": 1048,
+   "rows": [
+    {
+     "surface": "pañcāśadaṅgulam",
+     "gloss": "fifty-angulas",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "khaḍgaṃ",
+     "gloss": "sword",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triśikham",
+     "gloss": "three-peaked",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "triśūlakam",
+     "gloss": "trident",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which weapons and measures are named in this rule?",
+   "premises": [
+    "fifty angulas is named",
+    "sword is named",
+    "three-peaked trident is named"
+   ],
+   "inference": "The verse names a fifty-angula sword and a three-peaked trident.",
+   "uncertainties": [
+    "exact use"
+   ],
+   "plain_english": "A fifty-angula sword and a three-peaked trident are named."
+  },
+  {
+   "verse": 1049,
+   "rows": [
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃpūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root pūj"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhaktiprabhāsamanvitaḥ",
+     "gloss": "endowed-with-devotion-light",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the goddess be worshipped daily?",
+   "premises": [
+    "goddess is named",
+    "daily worship is commanded",
+    "devotion light is named"
+   ],
+   "inference": "The goddess should be worshipped daily with devotion-light.",
+   "uncertainties": [
+    "exact bhaktiprabhāsa"
+   ],
+   "plain_english": "Worship the goddess daily, endowed with devotion-light."
+  }
+ ]
+}

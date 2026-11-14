@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the protected body",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "gātraṃ",
+     "gloss": "body",
+     "grounds": "the physical body or limb",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śastra",
+     "gloss": "weapon",
+     "grounds": "first member of a compound denoting weapons",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṅghaiḥ",
+     "gloss": "by-multitudes",
+     "grounds": "groups or masses of weapons as agents",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "is-pierced",
+     "grounds": "action of being cut or split",
+     "morph": "3.sg.pass-pres √bhid"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "emphasizes negation at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can the ritually protected body be pierced by multitudes of weapons?",
+   "premises": [
+    "That body has been ritually protected as described.",
+    "Multitudes of weapons may strike that body.",
+    "The body is never pierced by those weapons."
+   ],
+   "inference": "The ritually protected body remains invulnerable to piercing by weapons.",
+   "uncertainties": [
+    "The exact nature of the protection depends on the preceding ritual context."
+   ],
+   "plain_english": "That body is never pierced by multitudes of weapons."
+  }
+ ]
+}

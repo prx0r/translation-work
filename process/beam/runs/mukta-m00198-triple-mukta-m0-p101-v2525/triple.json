@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyate",
+     "gloss": "perishes",
+     "grounds": "denies destruction of the result",
+     "morph": "3.sg.pres.middle √naś"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brahmin",
+     "grounds": "vocative address to the interlocutor",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "!",
+     "grounds": "punctuation",
+     "morph": "(punct.)"
+    },
+    {
+     "surface": "sālodyādi",
+     "gloss": "beginning-with-sālodya",
+     "grounds": "compound qualifying the refuge; first member sālodya, second ādi",
+     "morph": "compound:sālodya+ādi"
+    },
+    {
+     "surface": "padāśritam",
+     "gloss": "refuge-at-feet",
+     "grounds": "that which has taken refuge; compound pada+āśrita",
+     "morph": "n.nom.sg (compound:pada+āśrita, ppp √śri)"
+    }
+   ],
+   "question": "What ensures that merit grounded in sacred refuge remains imperishable?",
+   "premises": [
+    "Prior acts yield enduring fruit under the stated conditions.",
+    "Taking refuge beginning with sālodya establishes a sacred basis.",
+    "What is thus grounded does not perish."
+   ],
+   "inference": "Therefore, the merit or result associated with refuge beginning with sālodya remains imperishable.",
+   "uncertainties": [
+    "The precise referent and scope of sālodyādi are not specified in this verse alone."
+   ],
+   "plain_english": "Therefore, O brahmin, what has taken refuge beginning with sālodya does not perish."
+  }
+ ]
+}

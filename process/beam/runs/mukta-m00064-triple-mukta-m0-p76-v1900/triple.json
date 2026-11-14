@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "mahāśalkaṃ",
+     "gloss": "large-scaled",
+     "grounds": "adjective qualifying matsyaṃ; large scales",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prauṣṭhikam",
+     "gloss": "prauṣṭhika-fish",
+     "grounds": "name/type of fish qualifying matsyaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "object of implied varjayet from previous verses",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvatīyakam",
+     "gloss": "mountain-born",
+     "grounds": "adjective/name qualifying matsyaṃ; originating in mountains",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which additional kinds of fish are prohibited for the practitioner?",
+   "premises": [
+    "The preceding verses prescribe avoidance of certain items.",
+    "The large-scaled fish is included in this list.",
+    "The prauṣṭhika fish and the mountain-born fish are included."
+   ],
+   "inference": "The practitioner must avoid the large-scaled, prauṣṭhika, and mountain-born fish.",
+   "uncertainties": [
+    "The exact species denoted by prauṣṭhika and pārvatīyaka are not specified."
+   ],
+   "plain_english": "One should also avoid the large-scaled fish, the prauṣṭhika fish, and the mountain-born fish."
+  }
+ ]
+}

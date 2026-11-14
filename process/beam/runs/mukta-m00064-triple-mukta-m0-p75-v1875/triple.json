@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "paragotrakṛte",
+     "gloss": "done-for-another-lineage",
+     "grounds": "compound paragotra+kṛta, performed for a different gotra",
+     "morph": "compound(paragotra+kṛta).n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svalpālpaṃ",
+     "gloss": "very-little",
+     "grounds": "intensified compound indicating extremely small amount",
+     "morph": "compound(svalpa+alpa).n.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or reward of an act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-would-obtain",
+     "grounds": "potential attainment of a result",
+     "morph": "3.sg.optative.act (√āp)"
+    }
+   ],
+   "question": "What degree of fruit results from performing rites for another lineage?",
+   "premises": [
+    "A rite may be performed for another lineage.",
+    "Ritual acts produce fruit for their performer or beneficiary.",
+    "The verse specifies the quantity of fruit in this case."
+   ],
+   "inference": "Therefore, performing such a rite for another lineage yields only very little fruit.",
+   "uncertainties": [
+    "Whether paragotrakṛte qualifies a specific rite from the preceding verses or rites in general is context-dependent."
+   ],
+   "plain_english": "And indeed, when done for another lineage, one would obtain only very little fruit."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act-opt + kṛ"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "discerning-one",
+     "grounds": "qualified agent of the prescribed acts",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to carry out the previously prescribed ritual acts?",
+   "premises": [
+    "The preceding verses prescribe specific ritual acts.",
+    "The verb kuryāt enjoins performance of those acts.",
+    "The agent is designated as vicakṣaṇaḥ, a discerning person."
+   ],
+   "inference": "Therefore, the discerning person is the one who should perform the prescribed ritual acts.",
+   "uncertainties": [
+    "The exact scope of acts included from the preceding verses is context-dependent."
+   ],
+   "plain_english": "The discerning person should perform these acts."
+  }
+ ]
+}

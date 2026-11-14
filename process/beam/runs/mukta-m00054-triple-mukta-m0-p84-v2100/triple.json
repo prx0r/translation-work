@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "aho",
+     "gloss": "oh",
+     "grounds": "exclamatory particle expressing wonder",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgyam",
+     "gloss": "fortune",
+     "grounds": "state of blessedness or good fortune",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "refers to the beings described in the preceding verses",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tri+bhuvanam",
+     "gloss": "three-worlds",
+     "grounds": "compound denoting the three realms of existence",
+     "morph": "compound: tri+bhuvana; n.nom.sg"
+    },
+    {
+     "surface": "alaṃ",
+     "gloss": "entirely",
+     "grounds": "particle indicating completeness or sufficiency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśyam",
+     "gloss": "controllable",
+     "grounds": "subject to control or dominion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akhilam",
+     "gloss": "all",
+     "grounds": "qualifies the three worlds as a whole without remainder",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What extent of dominion results from the fortune of such accomplished beings?",
+   "premises": [
+    "The beings described possess extraordinary fortune.",
+    "The three worlds constitute the totality of realms.",
+    "All these realms become subject to their control."
+   ],
+   "inference": "Supreme fortune confers complete dominion over all three worlds.",
+   "uncertainties": [
+    "The specific identity of teṣām relies on the preceding context."
+   ],
+   "plain_english": "Oh, the fortune of them! All the three worlds are entirely under their control."
+  }
+ ]
+}

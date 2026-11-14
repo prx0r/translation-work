@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "tatkāle",
+     "gloss": "at-that-time",
+     "grounds": "locative of tat-kāla, referring to the previously specified moment",
+     "morph": "tat-kāla.loc.sg.m"
+    },
+    {
+     "surface": "cañcalāpāṅgi",
+     "gloss": "o-tremulous-eyed-one",
+     "grounds": "vocative address to a feminine figure characterized by restless glances",
+     "morph": "cañcala-apāṅga.voc.sg.f"
+    },
+    {
+     "surface": "paraṃbrahmasvarūpiṇī",
+     "gloss": "supreme-brahman-natured",
+     "grounds": "feminine form indicating identity with the nature of supreme brahman",
+     "morph": "para-brahman-svarūpa.nom.sg.f"
+    }
+   ],
+   "question": "What essential nature belongs to the tremulous-eyed one at that specific time?",
+   "premises": [
+    "The reference is to that specific time.",
+    "The tremulous-eyed one is directly addressed.",
+    "She is characterized as having the nature of supreme brahman."
+   ],
+   "inference": "At that specific time, the tremulous-eyed one is of the nature of supreme brahman.",
+   "uncertainties": [
+    "The exact referent of tatkāle depends on the preceding ritual or cosmic context."
+   ],
+   "plain_english": "At that time, O tremulous-eyed one, you are of the nature of the supreme Brahman."
+  }
+ ]
+}

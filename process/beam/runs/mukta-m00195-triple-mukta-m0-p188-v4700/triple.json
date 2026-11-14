@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p188",
+ "items": [
+  {
+   "verse": 4700,
+   "rows": [
+    {
+     "surface": "sādhyaḥ",
+     "gloss": "to-be-attained",
+     "grounds": "gerundive expressing capability or possibility of attainment",
+     "morph": "gerundive.nom.sg.m"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts present existence or state",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable expressing absence or exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktim",
+     "gloss": "devotion",
+     "grounds": "object of exclusion",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "bhavān",
+     "gloss": "you",
+     "grounds": "honorific address to the Lord",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "Can the Lord be attained without the practice of devotion?",
+   "premises": [
+    "The Lord is described as attainable.",
+    "Attainment is stated to be possible without devotion.",
+    "The Lord is directly addressed as the one who can be attained."
+   ],
+   "inference": "Therefore, devotion is not presented as a necessary condition for attaining the Lord.",
+   "uncertainties": [
+    "The contextual scope of 'without devotion' in relation to the preceding verses is not fully explicit in this verse alone."
+   ],
+   "plain_english": "O Lord, you can be attained even without devotion."
+  }
+ ]
+}

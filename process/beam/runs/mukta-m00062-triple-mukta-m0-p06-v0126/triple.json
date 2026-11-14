@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "nahuṣāya",
+     "gloss": "to-nahuṣa",
+     "grounds": "recipient of the transmission",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "act of transmission",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candrānvayāya",
+     "gloss": "to-lunar-lineage",
+     "grounds": "compound: candra+anvaya; recipient lineage",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom was the transmission subsequently given after Nahuṣa?",
+   "premises": [
+    "The transmission was given to Nahuṣa.",
+    "After that it was given onward.",
+    "The lunar lineage received it next."
+   ],
+   "inference": "The transmission passed from Nahuṣa to the lunar lineage.",
+   "uncertainties": [],
+   "plain_english": "Then, having given it to Nahuṣa, it was given to the lunar lineage."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "anekasiddhidā",
+     "gloss": "giver-of-many-siddhis",
+     "grounds": "compound: aneka+siddhi+dā; epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+kriyāsu",
+     "gloss": "in-all-rites",
+     "grounds": "compound: sarva+kriyā; ritual contexts",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahava",
+     "gloss": "many",
+     "grounds": "plural forms or instances",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "traditional recollection",
+     "morph": "m.nom.pl.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "How is the goddess remembered in relation to all ritual acts?",
+   "premises": [
+    "The goddess grants many siddhis.",
+    "Many forms or instances are remembered.",
+    "This remembrance applies in all rites."
+   ],
+   "inference": "She is remembered in many ways as the giver of many siddhis in all rites.",
+   "uncertainties": [
+    "The exact referent of bahava (forms, names, or traditions) is not explicit."
+   ],
+   "plain_english": "As the giver of many siddhis, she is remembered in many ways in all rites."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "vāmamārge",
+     "gloss": "in-left-path",
+     "grounds": "compound: vāma+mārga; ritual path",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ratā",
+     "gloss": "devoted",
+     "grounds": "engaged or delighting in",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "eternal",
+     "grounds": "constant presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "right-path",
+     "grounds": "contrasting ritual path",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "phalavarjitā",
+     "gloss": "devoid-of-fruit",
+     "grounds": "compound: phala+varjita; lacking result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What differing efficacy is attributed to the left and right paths?",
+   "premises": [
+    "The goddess is eternally devoted to the left path.",
+    "The right path is mentioned in contrast.",
+    "The right path is described as devoid of fruit."
+   ],
+   "inference": "The left path is affirmed as effective while the right path is said to lack fruit.",
+   "uncertainties": [],
+   "plain_english": "Eternally devoted to the left path, she renders the right path devoid of fruit."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "śaucācāra",
+     "gloss": "purity-conduct",
+     "grounds": "compound: śauca+ācāra; observant of purity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirācāra",
+     "gloss": "without-restraint",
+     "grounds": "compound: nis+ācāra; beyond conventional conduct",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niṣkalaṅkā",
+     "gloss": "stainless",
+     "grounds": "compound: nis+kalaṅka; unblemished",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirāśrayā",
+     "gloss": "without-support",
+     "grounds": "compound: nis+āśraya; independent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What paradoxical qualities characterize the goddess beyond conventional categories?",
+   "premises": [
+    "She is associated with purity of conduct.",
+    "She is also beyond conventional conduct.",
+    "She is stainless and without support."
+   ],
+   "inference": "The goddess embodies paradoxical qualities that transcend ordinary oppositions.",
+   "uncertainties": [],
+   "plain_english": "She is of pure conduct and yet beyond conduct, stainless and without support."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "mokṣadā",
+     "gloss": "giver-of-liberation",
+     "grounds": "compound: mokṣa+dā; grants release",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhogadā",
+     "gloss": "giver-of-enjoyment",
+     "grounds": "compound: bhoga+dā; grants enjoyment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine female subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kubjikā",
+     "gloss": "kubjikā",
+     "grounds": "proper name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulamātṛkā",
+     "gloss": "mother-of-the-kula",
+     "grounds": "compound: kula+mātṛkā; maternal source of the kula",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine identity grants both liberation and enjoyment as mother of the kula?",
+   "premises": [
+    "The goddess grants liberation.",
+    "The goddess grants enjoyment.",
+    "She is identified as Kubjikā, mother of the kula."
+   ],
+   "inference": "Kubjikā, the mother of the kula, is the giver of both liberation and enjoyment.",
+   "uncertainties": [],
+   "plain_english": "The goddess Kubjikā, mother of the kula, is the giver of liberation and enjoyment."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "manthānabhairavaḥ",
+     "gloss": "manthāna-bhairava",
+     "grounds": "compound: manthāna+bhairava; proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "existential verb",
+     "morph": "3.sg.present.active √as"
+    },
+    {
+     "surface": "caturviṃśamateṣu",
+     "gloss": "in-the-twenty-fourth",
+     "grounds": "ordinal reference to a group or context",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is Manthāna Bhairava said to be present in this enumeration?",
+   "premises": [
+    "Manthāna Bhairava is named.",
+    "His presence is affirmed.",
+    "He is located in the twenty-fourth context."
+   ],
+   "inference": "Manthāna Bhairava is present in the twenty-fourth context.",
+   "uncertainties": [
+    "The precise referent of caturviṃśamateṣu (texts, seats, or divisions) is unclear."
+   ],
+   "plain_english": "And Manthāna Bhairava is present in the twenty-fourth."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīparātantre",
+     "gloss": "in-the-revered-parātantra",
+     "grounds": "compound: śrī+parātantra; text name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścimasiṃhāsana+kubjikā",
+     "gloss": "western-seat-kubjikā",
+     "grounds": "compound: paścima+siṃhāsana+kubjikā; section title",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the revered Parātantra concludes at this point?",
+   "premises": [
+    "The text named is the revered Parātantra.",
+    "The section concerns the western seat and Kubjikā.",
+    "The chapter is identified as the third."
+   ],
+   "inference": "This marks the end of the third chapter on the western seat and Kubjikā in the Parātantra.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the third chapter, on the western seat and Kubjikā, in the revered Parātantra."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "utrāmnāyam",
+     "gloss": "northern-transmission",
+     "grounds": "compound: uttara+āmnāya; transmission stream",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttaraṃ",
+     "gloss": "northern",
+     "grounds": "directional qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālīkula+samudbhavā",
+     "gloss": "arisen-from-kālī-kula",
+     "grounds": "compound: kālīkula+samudbhava; origin",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "From which kula does the northern transmission stream arise?",
+   "premises": [
+    "The northern transmission stream is introduced.",
+    "It is qualified as northern.",
+    "It arises from the Kālī kula."
+   ],
+   "inference": "The northern transmission stream arises from the Kālī kula.",
+   "uncertainties": [],
+   "plain_english": "The northern transmission, indeed the northern one, arises from the Kālī kula."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "ājñāsiddhi+pradā",
+     "gloss": "giver-of-command-siddhi",
+     "grounds": "compound: ājñā+siddhi+pradā; grants power of command",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine female subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇu+tejaḥ+upavṛṃhitā",
+     "gloss": "augmented-by-viṣṇu-power",
+     "grounds": "compound: viṣṇu+tejas+upavṛṃhita; strengthened by Viṣṇu's energy",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What powers and divine augmentation characterize the goddess of the northern stream?",
+   "premises": [
+    "The goddess grants the siddhi of command.",
+    "She is the deity of this stream.",
+    "She is augmented by Viṣṇu's power."
+   ],
+   "inference": "The goddess of the northern stream grants command-siddhi and is empowered by Viṣṇu's energy.",
+   "uncertainties": [],
+   "plain_english": "The goddess grants the siddhi of command and is augmented by the power of Viṣṇu."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "kāli",
+     "gloss": "kāli",
+     "grounds": "divine name",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "divine name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahākālī",
+     "gloss": "mahākālī",
+     "grounds": "compound: mahā+kālī; divine name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caṇḍayogeśvarī",
+     "gloss": "caṇḍayogeśvarī",
+     "grounds": "compound: caṇḍa+yoga+īśvarī; divine name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "enumeration marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which names identify the goddess in the northern transmission?",
+   "premises": [
+    "Multiple divine names are listed.",
+    "The names include Kāli, Kālī, Mahākālī, and Caṇḍayogeśvarī.",
+    "The list is marked as an enumeration."
+   ],
+   "inference": "The goddess is identified by the names Kāli, Kālī, Mahākālī, and Caṇḍayogeśvarī.",
+   "uncertainties": [],
+   "plain_english": "She is called Kāli, Kālī, Mahākālī, and Caṇḍayogeśvarī."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "ābrahmasthā",
+     "gloss": "from-brahmā-abode",
+     "grounds": "compound: ā+brahma+sthā; extending from Brahmā's realm",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varāntā",
+     "gloss": "up-to-supreme",
+     "grounds": "compound: vara+anta; extending to the highest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālena",
+     "gloss": "by-time",
+     "grounds": "instrument of comprehension or measurement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kalayanti",
+     "gloss": "they-comprehend",
+     "grounds": "act of knowing or measuring",
+     "morph": "3.pl.present.active √kal"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What cosmic range is comprehended through time in relation to the goddess?",
+   "premises": [
+    "The range extends from Brahmā's abode to the supreme.",
+    "Time is the means of comprehension.",
+    "Beings comprehend this range through time."
+   ],
+   "inference": "Through time, beings comprehend the range from Brahmā's realm up to the supreme.",
+   "uncertainties": [
+    "The subject of kalayanti is implicit."
+   ],
+   "plain_english": "From Brahmā's abode up to the supreme, they comprehend all through time."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "aneka+cakra+cakreśī",
+     "gloss": "mistress-of-many-circles",
+     "grounds": "compound: aneka+cakra+cakreśī; ruler of many cakras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nānābhedā",
+     "gloss": "of-various-divisions",
+     "grounds": "compound: nānā+bheda; having diverse forms",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāgamā",
+     "gloss": "great-āgama",
+     "grounds": "compound: mahā+āgama; associated with great scripture or tradition",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess characterized in terms of cakras, divisions, and tradition?",
+   "premises": [
+    "She is mistress of many cakras.",
+    "She has various divisions.",
+    "She is associated with the great Āgama."
+   ],
+   "inference": "The goddess presides over many cakras, manifests in various divisions, and belongs to the great Āgama tradition.",
+   "uncertainties": [
+    "mahāgamā may qualify the goddess or the tradition; taken as an epithet here."
+   ],
+   "plain_english": "She is the mistress of many cakras, of various divisions, and of the great Āgama."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "concessive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "leśamātraṃ",
+     "gloss": "a-mere-fragment",
+     "grounds": "compound: leśa+mātra; only a small portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumārī+krama+taḥ",
+     "gloss": "according-to-kumārī-sequence",
+     "grounds": "compound: kumārī+krama+tas; following the Kumārī sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to the hearer",
+     "morph": "2.sg.imperative.active √śru"
+    }
+   ],
+   "question": "What limited portion of the teaching is the listener asked to hear?",
+   "premises": [
+    "The subject is vast despite prior description.",
+    "Only a mere fragment will be given.",
+    "It will follow the Kumārī sequence."
+   ],
+   "inference": "The listener is asked to hear only a small portion presented according to the Kumārī sequence.",
+   "uncertainties": [],
+   "plain_english": "Even so, listen to just a small portion, according to the Kumārī sequence."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "color of the face",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "southern",
+     "grounds": "directional qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktram",
+     "gloss": "face",
+     "grounds": "part of the deity's form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttaraṃ",
+     "gloss": "northern",
+     "grounds": "directional qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāvaka+upamam",
+     "gloss": "resembling-fire",
+     "grounds": "compound: pāvaka+upama; like fire",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the southern and northern faces of the deity described?",
+   "premises": [
+    "The southern face is described as yellow.",
+    "The northern face is described separately.",
+    "The northern face resembles fire."
+   ],
+   "inference": "The southern face is yellow and the northern face is like fire.",
+   "uncertainties": [],
+   "plain_english": "The southern face is yellow, and the northern face resembles fire."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "piṅgala+ūrdhva+jaṭā+āṭopa",
+     "gloss": "tawny-upward-matted-hair-mass",
+     "grounds": "compound: piṅgala+ūrdhva+jaṭā+āṭopa; description of hair",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "candrārdha+kṛta+śekharā",
+     "gloss": "with-crescent-moon-as-crest",
+     "grounds": "compound: candrārdha+kṛta+śekhara; wearing a crescent crest",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What distinctive features adorn the deity's hair and crest?",
+   "premises": [
+    "The deity has a mass of tawny upward matted hair.",
+    "The deity wears a crest.",
+    "The crest is made of a crescent moon."
+   ],
+   "inference": "The deity is distinguished by tawny upward matted hair and a crescent-moon crest.",
+   "uncertainties": [],
+   "plain_english": "She has a mass of tawny, upward matted hair and wears a crescent moon as her crest."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "asthi+kuṃṭhala+goḍāḍhyā",
+     "gloss": "adorned-with-bone-earrings",
+     "grounds": "compound: asthi+kuṇḍala+goḍa+āḍhya; rich with bone earrings",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maulī+kāpāla+mālinī",
+     "gloss": "wearing-skull-garland-on-head",
+     "grounds": "compound: mauli+kāpāla+mālinī; garland of skulls on the head",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What bone ornaments characterize the deity's adornment?",
+   "premises": [
+    "The deity is adorned with bone earrings.",
+    "The deity wears a garland on the head.",
+    "The garland is made of skulls."
+   ],
+   "inference": "The deity is adorned with bone earrings and a garland of skulls on her head.",
+   "uncertainties": [
+    "The exact form of kuṃṭhala/goḍāḍhyā is slightly irregular; interpreted as bone earrings."
+   ],
+   "plain_english": "She is adorned with bone earrings and wears a garland of skulls upon her head."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "śivā",
+     "gloss": "auspicious-one",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "preta+samārūḍhā",
+     "gloss": "mounted-on-corpse",
+     "grounds": "compound: preta+samārūḍha; seated upon a corpse",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukha+śoṇita+nirbharā",
+     "gloss": "filled-with-blood-from-mouth",
+     "grounds": "compound: mukha+śoṇita+nirbhara; mouth full of blood",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fierce iconographic features define the goddess's appearance in this form?",
+   "premises": [
+    "The goddess is called auspicious.",
+    "She is mounted on a corpse.",
+    "Her mouth is filled with blood."
+   ],
+   "inference": "The auspicious goddess appears in a fierce form mounted on a corpse with blood filling her mouth.",
+   "uncertainties": [],
+   "plain_english": "The auspicious one is mounted on a corpse, her mouth filled with blood."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "pīta+śyāma+rakta+dhūmra+śvetābhā",
+     "gloss": "yellow-dark-red-smoky-white-hued",
+     "grounds": "compound: pīta+śyāma+rakta+dhūmra+śveta+ābhā; five colors",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcakārakāḥ",
+     "gloss": "five-makers",
+     "grounds": "compound: pañca+kāraka; five agents or forms",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What five-colored forms are identified as the five makers?",
+   "premises": [
+    "Five colors are named: yellow, dark, red, smoky, and white.",
+    "A group called the five makers is mentioned.",
+    "The colors describe their appearance."
+   ],
+   "inference": "The five makers are characterized by yellow, dark, red, smoky, and white hues.",
+   "uncertainties": [
+    "The precise identity of pañcakārakāḥ in this context is not fully specified."
+   ],
+   "plain_english": "The five makers are of yellow, dark, red, smoky, and white hues."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "tarjanī",
+     "gloss": "forefinger",
+     "grounds": "gesture element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukha+nikṣiptā",
+     "gloss": "placed-in-mouth",
+     "grounds": "compound: mukha+nikṣipta; inserted in the mouth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śiva+adhasthā",
+     "gloss": "standing-upon-śiva",
+     "grounds": "compound: śiva+adhastha; positioned above Śiva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trilocanā",
+     "gloss": "three-eyed",
+     "grounds": "compound: tri+locana; having three eyes",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What gestures and position further define the three-eyed goddess's form?",
+   "premises": [
+    "Her forefinger is placed in her mouth.",
+    "She stands upon Śiva.",
+    "She is three-eyed."
+   ],
+   "inference": "The three-eyed goddess is depicted with her forefinger in her mouth while standing upon Śiva.",
+   "uncertainties": [],
+   "plain_english": "Three-eyed, with her forefinger placed in her mouth, she stands upon Śiva."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "vāmahaste",
+     "gloss": "in-left-hand",
+     "grounds": "compound: vāma+hasta; location of attribute",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull-cup",
+     "grounds": "ritual implement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakta+pūrṇāni",
+     "gloss": "filled-with-blood",
+     "grounds": "compound: rakta+pūrṇa; full of blood",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śobhane",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What object does the goddess hold in her left hand according to the address?",
+   "premises": [
+    "The left hand is specified.",
+    "A skull-cup is held there.",
+    "It is filled with blood."
+   ],
+   "inference": "In her left hand, O beautiful one, she holds a skull-cup filled with blood.",
+   "uncertainties": [
+    "rakta+pūrṇāni is plural in form but may describe the contents; agreement is slightly ambiguous."
+   ],
+   "plain_english": "O beautiful one, in her left hand she holds a skull-cup filled with blood."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "cakraṃ",
+     "gloss": "discus",
+     "grounds": "weapon or emblem",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "directional qualifier",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "hand",
+     "grounds": "location of attributes",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṃkuśam",
+     "gloss": "goad",
+     "grounds": "weapon or emblem",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udgaraṃ",
+     "gloss": "hammer",
+     "grounds": "weapon or emblem",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which implements are held in the goddess's right hand?",
+   "premises": [
+    "The right hand is specified.",
+    "A discus is mentioned.",
+    "A goad and a hammer are also mentioned."
+   ],
+   "inference": "In her right hand she holds a discus, a goad, and a hammer.",
+   "uncertainties": [],
+   "plain_english": "And in her right hand she holds a discus, a goad, and likewise a hammer."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "citkalā",
+     "gloss": "consciousness-aspect",
+     "grounds": "compound: cit+kalā; aspect of consciousness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalanātasthāṃ",
+     "gloss": "abiding-in-comprehension",
+     "grounds": "compound: kalanā+tas+sthā; established through comprehension",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jyotirūpāḥ",
+     "gloss": "of-light-form",
+     "grounds": "compound: jyotis+rūpa; having the form of light",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalā",
+     "gloss": "absolute",
+     "grounds": "pure or alone",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What essential nature is attributed to the goddess beyond her visible form?",
+   "premises": [
+    "She is identified as the aspect of consciousness.",
+    "She abides in comprehension and is of the form of light.",
+    "She is described as absolute."
+   ],
+   "inference": "Beyond her form, the goddess is the absolute aspect of consciousness, abiding in comprehension and luminous.",
+   "uncertainties": [
+    "Grammatical agreement among citkalā, kalanātasthāṃ, jyotirūpāḥ, and kevalā is irregular."
+   ],
+   "plain_english": "She is the aspect of consciousness, abiding in comprehension, of the form of light, and absolute."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūrtau",
+     "gloss": "form",
+     "grounds": "iconic manifestation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahādevyā",
+     "gloss": "of-the-great-goddess",
+     "grounds": "compound: mahā+devī; possessor of the form",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "navavaktrāṇi",
+     "gloss": "nine-faces",
+     "grounds": "compound: nava+vaktra; nine faces",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative.active √pūj"
+    }
+   ],
+   "question": "What ritual action is prescribed for the great goddess's nine-faced form?",
+   "premises": [
+    "A specific form of the great goddess is indicated.",
+    "That form has nine faces.",
+    "A ritual injunction is given."
+   ],
+   "inference": "One should worship the nine faces in this form of the great goddess.",
+   "uncertainties": [],
+   "plain_english": "In this form of the great goddess, one should worship the nine faces."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "ājñāsiddhi+pradā",
+     "gloss": "giver-of-command-siddhi",
+     "grounds": "compound: ājñā+siddhi+pradā; grants power of command",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "eternal",
+     "grounds": "constant nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaula+mārga+pravartakā",
+     "gloss": "promoter-of-kaula-path",
+     "grounds": "compound: kaula+mārga+pravartaka; initiator of the kaula path",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What enduring powers and role define the goddess in the kaula tradition?",
+   "premises": [
+    "The goddess grants the siddhi of command.",
+    "She is eternal.",
+    "She promotes the kaula path."
+   ],
+   "inference": "The eternal goddess grants command-siddhi and promotes the kaula path.",
+   "uncertainties": [],
+   "plain_english": "Eternal, she grants the siddhi of command and promotes the kaula path."
+  }
+ ]
+}

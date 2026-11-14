@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4125,
+   "rows": [
+    {
+     "surface": "sarva+pāpa+vinirmuktaḥ",
+     "gloss": "freed-from-all-sins",
+     "grounds": "compound adjective describing the subject as released from every sin; formed from sarva (all), pāpa (sin), and vinirmukta (freed)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīrgham+āyuḥ",
+     "gloss": "long-life",
+     "grounds": "compound object denoting extended lifespan; dīrgha (long) qualifying āyus (life)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the practitioner described in the preceding context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "obtains",
+     "grounds": "present active verb expressing attainment of the stated result",
+     "morph": "3.sg.pres.act;√vid"
+    }
+   ],
+   "question": "What purification and longevity does the duly authorized practitioner attain?",
+   "premises": [
+    "The practitioner is freed from all sins.",
+    "The practitioner obtains long life.",
+    "This attainment follows the previously authorized ritual practice."
+   ],
+   "inference": "Properly authorized ritual practice results in complete purification and extended lifespan.",
+   "uncertainties": [
+    "The subject's identity is supplied by the immediately preceding verses."
+   ],
+   "plain_english": "Freed from all sins, he obtains a long life."
+  }
+ ]
+}

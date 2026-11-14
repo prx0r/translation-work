@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "abhiṣekāttu",
+     "gloss": "by-abhiṣeka",
+     "grounds": "ablative of abhiṣeka plus enclitic tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattejastrayaṃ",
+     "gloss": "that-tejas-three",
+     "grounds": "fused accusative of the threefold tejas",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "devyātmatā",
+     "gloss": "goddess-nature",
+     "grounds": "compound denoting the goddess's own nature",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How does the threefold tejas become the goddess's own nature through abhiṣeka?",
+   "premises": [
+    "abhiṣeka transforms tejas into goddess-nature",
+    "threefold tejas is worshipped first",
+    "water abhiṣeka follows worship"
+   ],
+   "inference": "Abhiṣeka converts the worshipped threefold tejas into the goddess's essential nature.",
+   "uncertainties": [
+    "exact internal sandhi of abhiṣekāttu is not expanded in the row"
+   ],
+   "plain_english": "By abhiṣeka, that threefold tejas becomes the goddess's own nature."
+  }
+ ]
+}

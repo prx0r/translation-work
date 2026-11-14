@@ -1,0 +1,947 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating locus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuśca",
+     "gloss": "and-viṣṇu",
+     "grounds": "deity name with enclitic conjunction",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraścaiva",
+     "gloss": "and-rudra-indeed",
+     "grounds": "deity name with enclitics",
+     "morph": "m.nom.sg+indecl.+indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which deities are present in this locus, fair-faced goddess?",
+   "premises": [
+    "The locus is indicated as here.",
+    "Brahmā is present in this locus.",
+    "Viṣṇu and Rudra are also present."
+   ],
+   "inference": "Brahmā, Viṣṇu, and Rudra dwell together in this locus.",
+   "uncertainties": [],
+   "plain_english": "Here, O fair-faced one, Brahmā, Viṣṇu, and Rudra indeed are present."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "pañcaprāṇamayaṃ",
+     "gloss": "made-of-five-vital-breaths",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturjñānamayaṃ",
+     "gloss": "made-of-four-knowledges",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constitutive natures define this syllable at all times?",
+   "premises": [
+    "The syllable is made of five vital breaths.",
+    "The syllable is made of four knowledges.",
+    "These natures apply always."
+   ],
+   "inference": "This syllable is always constituted of five vital breaths and four knowledges.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable is always made of the five vital breaths and the four knowledges."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "ṛkāraṃ",
+     "gloss": "syllable-ṛ",
+     "grounds": "name of the syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramakuṇḍalī",
+     "gloss": "supreme-kuṇḍalī",
+     "grounds": "identification with goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine identity is embodied by the syllable ṛ, supreme goddess?",
+   "premises": [
+    "The syllable in question is ṛ.",
+    "This syllable is identified as herself.",
+    "She is the supreme Kuṇḍalī."
+   ],
+   "inference": "The syllable ṛ is herself the supreme Kuṇḍalī.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, the syllable ṛ is herself the supreme Kuṇḍalī."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "caturjñānamayṃ",
+     "gloss": "made-of-four-knowledges",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcaprāṇamayaṃ",
+     "gloss": "made-of-five-vital-breaths",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constitutive natures define this syllable at all times?",
+   "premises": [
+    "The syllable is made of four knowledges.",
+    "The syllable is made of five vital breaths.",
+    "These natures apply always."
+   ],
+   "inference": "This syllable is always constituted of four knowledges and five vital breaths.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable is always made of the four knowledges and the five vital breaths."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "ḷkāraṃ",
+     "gloss": "syllable-ḷ",
+     "grounds": "name of the syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cañcalāpāṅgi",
+     "gloss": "o-tremulous-eyed-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kuṇḍalī",
+     "gloss": "kuṇḍalī",
+     "grounds": "identification with goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paradevatā",
+     "gloss": "supreme-goddess",
+     "grounds": "epithet of goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine identity is embodied by the syllable ḷ, tremulous-eyed one?",
+   "premises": [
+    "The syllable in question is ḷ.",
+    "This syllable is identified as Kuṇḍalī.",
+    "Kuṇḍalī is the supreme goddess."
+   ],
+   "inference": "The syllable ḷ is Kuṇḍalī, the supreme goddess.",
+   "uncertainties": [],
+   "plain_english": "O tremulous-eyed one, the syllable ḷ is Kuṇḍalī, the supreme goddess."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "pañcadevamayaṃ",
+     "gloss": "made-of-five-deities",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturjñānamayaṃ",
+     "gloss": "made-of-four-knowledges",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constitutive natures define this syllable at all times?",
+   "premises": [
+    "The syllable is made of five deities.",
+    "The syllable is made of four knowledges.",
+    "These natures apply always."
+   ],
+   "inference": "This syllable is always constituted of five deities and four knowledges.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable is always made of the five deities and the four knowledges."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "bindutrayātmakaṃ",
+     "gloss": "whose-nature-is-three-dots",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pītavidyullatā",
+     "gloss": "yellow-lightning-creeper",
+     "grounds": "simile for appearance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form and appearance characterize this syllable composed of three dots?",
+   "premises": [
+    "The syllable has the nature of three dots.",
+    "Its appearance is compared to a yellow lightning creeper.",
+    "The comparison is stated explicitly."
+   ],
+   "inference": "This syllable, composed of three dots, appears like a yellow lightning creeper.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable, whose nature is three dots, is like a yellow lightning creeper."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "pañcadevātmakaṃ",
+     "gloss": "whose-nature-is-five-deities",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcaprāṇātmakaṃ",
+     "gloss": "whose-nature-is-five-vital-breaths",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constitutive natures define this syllable at all times?",
+   "premises": [
+    "The syllable has the nature of five deities.",
+    "The syllable has the nature of five vital breaths.",
+    "These natures apply always."
+   ],
+   "inference": "This syllable is always constituted of five deities and five vital breaths.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable is always of the nature of the five deities and the five vital breaths."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "caturvargapradaṃ",
+     "gloss": "giver-of-four-aims",
+     "grounds": "compound describing function",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramakuṇḍalī",
+     "gloss": "supreme-kuṇḍalī",
+     "grounds": "identification with goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine identity grants the four aims of human life, goddess?",
+   "premises": [
+    "The subject grants the four aims.",
+    "The subject is identified as herself.",
+    "She is the supreme Kuṇḍalī."
+   ],
+   "inference": "The supreme Kuṇḍalī herself is the giver of the four aims.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "O goddess, the supreme Kuṇḍalī herself is the giver of the four aims."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "bandhūkakusumaprakhyaṃ",
+     "gloss": "resembling-bandhūka-flower",
+     "grounds": "compound describing appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcadevamayaṃ",
+     "gloss": "made-of-five-deities",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What appearance and constitutive nature define this syllable at all times?",
+   "premises": [
+    "The syllable resembles a bandhūka flower.",
+    "The syllable is made of five deities.",
+    "These qualities apply always."
+   ],
+   "inference": "This syllable always resembles a bandhūka flower and is made of five deities.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "It always resembles a bandhūka flower and is made of the five deities."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "caturvargapradaṃ",
+     "gloss": "giver-of-four-aims",
+     "grounds": "compound describing function",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramakuṇḍalī",
+     "gloss": "supreme-kuṇḍalī",
+     "grounds": "identification with goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine identity grants the four aims of human life, goddess?",
+   "premises": [
+    "The subject grants the four aims.",
+    "The subject is identified as herself.",
+    "She is the supreme Kuṇḍalī."
+   ],
+   "inference": "The supreme Kuṇḍalī herself is the giver of the four aims.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "O goddess, the supreme Kuṇḍalī herself is the giver of the four aims."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "koṭicandrapratīkāśaṃ",
+     "gloss": "resembling-ten-million-moons",
+     "grounds": "compound describing appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcaprāṇamayaṃ",
+     "gloss": "made-of-five-vital-breaths",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What appearance and constitutive nature define this syllable at all times?",
+   "premises": [
+    "The syllable resembles ten million moons.",
+    "The syllable is made of five vital breaths.",
+    "These qualities apply always."
+   ],
+   "inference": "This syllable always resembles ten million moons and is made of five vital breaths.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "It always resembles ten million moons and is made of the five vital breaths."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "sadāśivamayaṃ",
+     "gloss": "made-of-sadāśiva",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bindutrayasamanvitam",
+     "gloss": "endowed-with-three-dots",
+     "grounds": "compound describing attributes",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What constitutive nature and attributes define this syllable?",
+   "premises": [
+    "The syllable is made of Sadāśiva.",
+    "The syllable is endowed with three dots.",
+    "Both qualities characterize the same syllable."
+   ],
+   "inference": "This syllable is made of Sadāśiva and endowed with three dots.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable is made of Sadāśiva and endowed with three dots."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "raktavidyullatākāraṃ",
+     "gloss": "having-form-of-red-lightning-creeper",
+     "grounds": "compound describing appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triguṇātmānamīśvaram",
+     "gloss": "īśvara-whose-nature-is-three-qualities",
+     "grounds": "compound identifying deity and nature",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What appearance and essential nature characterize this form of Īśvara?",
+   "premises": [
+    "The form resembles a red lightning creeper.",
+    "The subject is Īśvara.",
+    "Īśvara's nature consists of the three qualities."
+   ],
+   "inference": "This form is Īśvara, appearing like a red lightning creeper and having the nature of the three qualities.",
+   "uncertainties": [],
+   "plain_english": "It has the form of a red lightning creeper and is Īśvara, whose nature is the three qualities."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "etadvarṇaṃ",
+     "gloss": "this-syllable",
+     "grounds": "demonstrative referring to syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramakuṇḍalī",
+     "gloss": "supreme-kuṇḍalī",
+     "grounds": "identification with goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine identity is embodied by this syllable, great goddess?",
+   "premises": [
+    "The subject is this syllable.",
+    "This syllable is identified as herself.",
+    "She is the supreme Kuṇḍalī."
+   ],
+   "inference": "This syllable is herself the supreme Kuṇḍalī.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, this syllable is herself the supreme Kuṇḍalī."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating locus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmādayaḥ",
+     "gloss": "brahmā-and-others",
+     "grounds": "compound denoting group of deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "dwell",
+     "grounds": "verb of abiding",
+     "morph": "3.pl.pres.act √sthā"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which deities dwell perpetually in this locus, beloved goddess?",
+   "premises": [
+    "The locus is indicated as here.",
+    "Brahmā and others are present.",
+    "All of them dwell always."
+   ],
+   "inference": "All the deities beginning with Brahmā dwell here always.",
+   "uncertainties": [],
+   "plain_english": "Here, O beloved, all the deities beginning with Brahmā dwell always."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvarasaṃyuktaṃ",
+     "gloss": "united-with-īśvara",
+     "grounds": "compound describing association",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturvargapradāyakam",
+     "gloss": "giver-of-four-aims",
+     "grounds": "compound describing function",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What association and function characterize this syllable at all times?",
+   "premises": [
+    "The syllable is united with Īśvara.",
+    "The syllable grants the four aims.",
+    "These qualities apply always."
+   ],
+   "inference": "This syllable is always united with Īśvara and grants the four aims.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "It is always united with Īśvara and grants the four aims."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "pañcaprāṇātmakaṃ",
+     "gloss": "whose-nature-is-five-vital-breaths",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brahmādidevatāmayam",
+     "gloss": "made-of-brahmā-and-other-deities",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What constitutive natures define this syllable in terms of breaths and deities?",
+   "premises": [
+    "The syllable has the nature of five vital breaths.",
+    "The syllable is made of Brahmā and other deities.",
+    "Both qualities characterize the same syllable."
+   ],
+   "inference": "This syllable is constituted of five vital breaths and Brahmā and other deities.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable is of the nature of the five vital breaths and made of Brahmā and the other deities."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "śaktitrayamayaṃ",
+     "gloss": "made-of-three-śaktis",
+     "grounds": "compound describing composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "syllable",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramakuṇḍalī",
+     "gloss": "supreme-kuṇḍalī",
+     "grounds": "identification with goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine identity is embodied by the syllable made of three śaktis?",
+   "premises": [
+    "The syllable is made of three śaktis.",
+    "This syllable is identified as herself.",
+    "She is the supreme Kuṇḍalī."
+   ],
+   "inference": "The syllable made of three śaktis is herself the supreme Kuṇḍalī.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable made of the three śaktis is herself the supreme Kuṇḍalī."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "aḥkāraṃ",
+     "gloss": "syllable-aḥ",
+     "grounds": "name of the syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "raktavidyutprabhāmayam",
+     "gloss": "made-of-red-lightning-splendor",
+     "grounds": "compound describing appearance",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What luminous appearance characterizes the syllable aḥ, supreme goddess?",
+   "premises": [
+    "The syllable in question is aḥ.",
+    "Its appearance is made of red lightning splendor.",
+    "This quality characterizes the syllable."
+   ],
+   "inference": "The syllable aḥ is made of the splendor of red lightning.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, the syllable aḥ is made of the splendor of red lightning."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "sarvajñānamayo",
+     "gloss": "made-of-all-knowledge",
+     "grounds": "compound describing composition; sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "subject described; sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmāditattvasaṃyutaḥ",
+     "gloss": "united-with-ātman-and-other-principles",
+     "grounds": "compound describing association",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What knowledge and principles are united in this syllable?",
+   "premises": [
+    "The syllable is made of all knowledge.",
+    "The syllable is united with ātman and other principles.",
+    "Both qualities characterize the same syllable."
+   ],
+   "inference": "This syllable is made of all knowledge and united with ātman and other principles.",
+   "uncertainties": [
+    "The specific syllable is not named in this verse."
+   ],
+   "plain_english": "The syllable is made of all knowledge and united with ātman and the other principles."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yuvatī",
+     "gloss": "consort",
+     "grounds": "relational identity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mūrttimat",
+     "gloss": "embodied",
+     "grounds": "adjectival attribute",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍalī",
+     "gloss": "kuṇḍalī",
+     "grounds": "identification with goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What identity do these embodied forms hold in relation to Śiva?",
+   "premises": [
+    "These are the consort of Śiva.",
+    "These are embodied forms.",
+    "They are Kuṇḍalī herself."
+   ],
+   "inference": "These embodied forms are the consort of Śiva and Kuṇḍalī herself.",
+   "uncertainties": [],
+   "plain_english": "These are the consort of Śiva, the embodied Kuṇḍalī herself."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "object of hearing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramāścaryaṃ",
+     "gloss": "supreme-wonder",
+     "grounds": "compound describing secret",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trailokyānāṃ",
+     "gloss": "of-three-worlds",
+     "grounds": "genitive relation",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative command",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What supreme secret concerning the three worlds is the listener urged to hear?",
+   "premises": [
+    "A secret is to be revealed.",
+    "It is a supreme wonder.",
+    "It concerns the three worlds and must be heard."
+   ],
+   "inference": "The listener is urged to hear the supreme wondrous secret of the three worlds.",
+   "uncertainties": [],
+   "plain_english": "Listen to the secret, the supreme wonder of the three worlds."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "adhorekhā",
+     "gloss": "lower-line",
+     "grounds": "compound denoting part of diagram",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavedrudro",
+     "gloss": "should-be-rudra",
+     "grounds": "verb with predicate; sandhi fused",
+     "morph": "3.sg.opt.act √bhū+m.nom.sg"
+    },
+    {
+     "surface": "mātrā",
+     "gloss": "mātrā",
+     "grounds": "technical term for measure or unit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sākṣānmaheśvarī",
+     "gloss": "visibly-great-goddess",
+     "grounds": "adverb with deity name; sandhi fused",
+     "morph": "(indecl.)+f.nom.sg"
+    }
+   ],
+   "question": "What identities are assigned to the lower line and the mātrā in this teaching?",
+   "premises": [
+    "The lower line should be Rudra.",
+    "The mātrā is visibly the great goddess.",
+    "Both identifications are stated directly."
+   ],
+   "inference": "The lower line is identified as Rudra and the mātrā as the great goddess herself.",
+   "uncertainties": [
+    "The exact technical sense of mātrā in this context is not fully specified."
+   ],
+   "plain_english": "The lower line should be Rudra, and the mātrā is visibly the great goddess."
+  }
+ ]
+}

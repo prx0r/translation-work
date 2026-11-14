@@ -1,0 +1,235 @@
+{
+ "song": "kul-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun who",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "action of doing",
+     "morph": "3.sg.act-pres root-kṛ"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-procedure",
+     "grounds": "instrumental procedure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "all desires",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kāmān",
+     "gloss": "desires",
+     "grounds": "objects desired",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samaśnute",
+     "gloss": "obtains",
+     "grounds": "result of procedure",
+     "morph": "3.sg.mid-pres root-aś"
+    }
+   ],
+   "question": "Who obtains all desires by procedure?",
+   "premises": [
+    "Procedure yields all desires.",
+    "The agent performs procedure."
+   ],
+   "inference": "One who performs procedure obtains all desires.",
+   "uncertainties": [],
+   "plain_english": "Whoever performs the procedure obtains all desires."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "yoginīvīramelanaṃ",
+     "gloss": "yoginī-vīra-union",
+     "grounds": "compound union",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "result of union",
+     "morph": "3.sg.mid-pres root-labh"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negation here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "no doubt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there doubt about obtaining union?",
+   "premises": [
+    "Union is obtained.",
+    "No doubt remains here."
+   ],
+   "inference": "Obtaining yoginī-vīra union is certain.",
+   "uncertainties": [],
+   "plain_english": "One obtains union of yoginī and vīra; there is no doubt here."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "snātvācamya",
+     "gloss": "having-bathed-having-sipped",
+     "grounds": "purification actions",
+     "morph": "absolutive compound"
+    },
+    {
+     "surface": "viśuddhātmā",
+     "gloss": "pure-soul",
+     "grounds": "purified self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsān",
+     "gloss": "nyāsas",
+     "grounds": "placements",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of placements",
+     "morph": "absolutive root-kṛ"
+    },
+    {
+     "surface": "puroditān",
+     "gloss": "previously-spoken",
+     "grounds": "prior instructions",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What does purified soul do after bathing?",
+   "premises": [
+    "Purified soul bathes and sips.",
+    "Nyāsas are previously spoken."
+   ],
+   "inference": "The purified soul performs the previously spoken nyāsas.",
+   "uncertainties": [],
+   "plain_english": "Having bathed and sipped, the purified soul performs the nyāsas previously spoken."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "pūrvārcanokta",
+     "gloss": "prior-worship-stated",
+     "grounds": "rite stated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "instrumental rite",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sarvadravyasamanvitaḥ",
+     "gloss": "with-all-materials",
+     "grounds": "possessing all materials",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what rite with all materials?",
+   "premises": [
+    "Rite is stated in prior worship.",
+    "All materials accompany it."
+   ],
+   "inference": "The rite is performed with all materials as stated in prior worship.",
+   "uncertainties": [],
+   "plain_english": "By the rite stated in prior worship, with all materials."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "pañcavarṇarajaḥ",
+     "gloss": "five-colored-pollen",
+     "grounds": "pollen five colors",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "citra",
+     "gloss": "variegated",
+     "grounds": "variegated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasupatrasaroruhe",
+     "gloss": "vasu-leaf-lotus",
+     "grounds": "lotus with vasu leaf",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is variegated five-colored pollen?",
+   "premises": [
+    "Pollen is five-colored.",
+    "Pollen is variegated.",
+    "Lotus has vasu leaf."
+   ],
+   "inference": "Variegated five-colored pollen is in the lotus with vasu leaf.",
+   "uncertainties": [],
+   "plain_english": "Variegated five-colored pollen is in the lotus with vasu leaf."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "lamp object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "placement action",
+     "morph": "absolutive root-sthā"
+    },
+    {
+     "surface": "purataḥ",
+     "gloss": "in-front",
+     "grounds": "front position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarābhimukhasthitaḥ",
+     "gloss": "north-facing-standing",
+     "grounds": "standing facing north",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is lamp placed while standing north-facing?",
+   "premises": [
+    "Lamp is placed.",
+    "Placement is in front.",
+    "Standing faces north."
+   ],
+   "inference": "The lamp is placed in front while standing facing north.",
+   "uncertainties": [],
+   "plain_english": "Having placed the lamp in front, one stands facing north."
+  }
+ ]
+}

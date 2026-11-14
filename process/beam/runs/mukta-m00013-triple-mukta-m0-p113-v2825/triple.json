@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "sarva+kāma+artha+daṃ",
+     "gloss": "all-desire-aim-giving",
+     "grounds": "Compound adjective qualifying the hundred names named in the previous verse; grants all desires and purposes.",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "Vocative address to the goddess.",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "Denotes the recipients of the benefits conferred by the hundred names.",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sukha+āvaham",
+     "gloss": "happiness-bringing",
+     "grounds": "Compound adjective qualifying the hundred names; conveys the bringing of happiness.",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "What desires and happiness does the supreme hundred-name hymn bestow on practitioners?",
+   "premises": [
+    "The supreme hundred names grant all desires and aims.",
+    "The supreme hundred names bring happiness.",
+    "These benefits are bestowed upon practitioners."
+   ],
+   "inference": "Therefore the supreme hundred-name hymn fulfills practitioners' desires and confers happiness upon them.",
+   "uncertainties": [
+    "The adjectives are read as qualifying nāma+aṣṭa+śatam from the preceding verse."
+   ],
+   "plain_english": "O goddess, it grants all desires and aims and brings happiness to practitioners."
+  }
+ ]
+}

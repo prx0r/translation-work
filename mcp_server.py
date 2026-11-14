@@ -44,11 +44,176 @@ def _registry() -> dict:
     return json.loads((ROOT / "REGISTRY.json").read_text())
 
 
+def _proof_cmd(work: str, song: str) -> list[str]:
+    """Canonical proof invocation: always honour recorded dispositions."""
+    cmd = ["tools/proof_record.py", "--song", song, "--work", work, "--shastra"]
+    disp = ROOT / "tools" / "proof-disp.json"
+    if disp.exists():
+        cmd += ["--disp", str(disp.relative_to(ROOT))]
+    return cmd
+
+
+@mcp.tool()
+def serve_status(work: str = "") -> dict:
+    """Is a work readable/provable via the ChatGPT MCP (scholar__passage_evidence)?
+    Read-only "prove+expose" scorecard: byte-audited source, projection
+    source_verses (the MCP readability condition), trace/verify/claim counts.
+    work='' reports every work with canonical layer data. Never writes."""
+    return _run(["tools/serve_audit.py"] + (["--work", work] if work else []) + ["--json"], timeout=900)
+
+
+@mcp.tool()
+def make_readable(work: str = "", all: bool = False, publish: bool = False) -> dict:
+    """Prove+expose: turn audited source into served scholar projections.
+    Deterministic, no beam. For one work (or all with all=true): checks the
+    byte-pinned source audit, runs emit_scholar (writes svread source_verses),
+    reports served/blocked. publish=true then runs the svread publish chain
+    (traces→verify→claim→discovery→release_manifest). Unaudited works are
+    BLOCKED, never served. Machine-proposed."""
+    cmd = ["tools/make_readable.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    elif all:
+        cmd += ["--all"]
+    else:
+        return {"error": "pass work='W' or all=true"}
+    if publish:
+        cmd += ["--publish"]
+    return _run(cmd, timeout=3600)
+
+
+@mcp.tool()
+def make_traces(work: str = "", served_untraced: bool = False, all: bool = False,
+                rebuild: bool = False) -> dict:
+    """Batch trika-x trace bundles per passage (the trace fan-out).
+    Deterministic, no beam. Builds then re-verifies one trika-trace/1 bundle
+    per passage: one work (work='W'), or every served work with zero traces
+    (served_untraced=true), or every ledgered work (all=true). Idempotent
+    (skips already-verified bundles unless rebuild=true); fail-closed per
+    bundle. Verified bundles feed make_readable --publish into the claim
+    layer."""
+    cmd = ["tools/make_traces.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    elif served_untraced:
+        cmd += ["--served-untraced"]
+    elif all:
+        cmd += ["--all"]
+    else:
+        return {"error": "pass work='W', served_untraced=true, or all=true"}
+    if rebuild:
+        cmd += ["--rebuild"]
+    return _run(cmd, timeout=3600)
+
+
+@mcp.tool()
+def health() -> dict:
+    """One-call loop + quality + progress report — the ChatGPT daily driver.
+    Combines, read-only: live queue/workers (progress), gate state
+    (validate_all --quick), served/total readability KPI (cached serve_audit
+    summary + its age), unreviewed DONE triples, and recent assessor verdict
+    tallies. Watch served/total and any gate failure; everything else is
+    detail. Machine-computed, never a judgment."""
+    out: dict = {}
+    out["progress"] = _run(["tools/watchdog_progress.py"], timeout=180)
+    out["gates"] = _run(["tools/validate_all.py", "--quick"], timeout=600)
+    try:
+        cache = ROOT / "process" / "beam" / "serve_summary.json"
+        if cache.is_file():
+            import datetime
+            d = json.loads(cache.read_text())
+            out["serve"] = d.get("summary", {})
+            try:
+                age = (datetime.datetime.now(datetime.timezone.utc)
+                       - datetime.datetime.fromisoformat(d.get("generated", "")))
+                out["serve_cache_age_h"] = round(age.total_seconds() / 3600, 1)
+            except ValueError:
+                out["serve_cache_age_h"] = None
+        else:
+            out["serve"] = {"note": "no cache yet — run make_readable --all or serve_audit to build it"}
+    except (OSError, ValueError) as e:
+        out["serve"] = {"error": str(e)[:160]}
+    try:
+        q = json.loads((ROOT / "process" / "beam" / "queue.json").read_text())
+        done = [t["id"] for t in q if t.get("kind") == "tal_triple" and t.get("status") == "done"]
+        rev = {}
+        rp = ROOT / "process" / "beam" / "assessor-reviews.jsonl"
+        if rp.is_file():
+            for ln in rp.read_text(encoding="utf-8").splitlines():
+                if not ln.strip():
+                    continue
+                try:
+                    r = json.loads(ln)
+                except ValueError:
+                    continue
+                rev[r.get("task")] = r.get("verdict")
+        from collections import Counter
+        out["review"] = {"done_triples": len(done),
+                         "reviewed": sum(1 for i in done if i in rev),
+                         "recent_verdicts": dict(Counter(v for v in list(rev.values())[-200:])),
+                         }
+    except (OSError, ValueError) as e:
+        out["review"] = {"error": str(e)[:160]}
+    return out
+
+
+@mcp.tool()
+def audit_align(work: str = "", all: bool = False) -> dict:
+    """Classify sub-0.90 proof alignments: sandhi-only (propose disposition)
+    vs needs-human-eyes. Read-only report; never writes dispositions.
+    The prove-everything workhorse: run with all=true for the full backlog,
+    or per work. Backed by tools/audit_align.py."""
+    cmd = ["tools/audit_align.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    elif all:
+        pass
+    else:
+        return {"error": "pass work='W' or all=true"}
+    return _run(cmd, timeout=3600)
+
+
+@mcp.tool()
+def verify_core(work: str = "") -> dict:
+    """Re-verify the Trika core from current bytes — do NOT trust stored proofs.
+    For every REGISTRY work (or one work) recomputes each song's deterministic
+    gate + schema validation and reports where reality differs from the stored
+    claim: REGRESSION (stored PASS, recompute BLOCKED), IMPROVED, GATE-OK,
+    NO-PROOF, VALIDATE-ERR. Also align min-ratio distribution and how many
+    verses lean on a disposition. Writes nothing. The honesty check: if this
+    is not clean, the "gold" count is not fully true. Backed by
+    tools/verify_core.py."""
+    cmd = ["tools/verify_core.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    return _run(cmd, timeout=3600)
+
+
+@mcp.tool()
+def quota() -> dict:
+    """Beam quota + key-rotation + 429 state — the overnight health knob.
+    Reports how many Go keys are loaded (TWO zero-price accounts, session-hash
+    rotation), which models are parked after a 429 and for how long, live
+    worker slots, PAUSED, and disk headroom. Policy: a 429 fails over to the
+    other key first; only if both 429 does the model park 30 min and the
+    harness set PAUSED until recovery. Read-only; secrets are masked."""
+    return _run(["tools/quota_status.py", "--json"], timeout=120)
+
+
 def _lore_path(work: str) -> Path | None:
-    """Transmission brief for a work's front (tal-aNN.md convention)."""
-    ahn = work.split("tantraloka-a")[-1] if work.startswith("tantraloka-a") else ""
-    if ahn:
-        p = ROOT / "process" / "beam" / "lore" / f"tal-a{ahn}.md"
+    """Transmission brief for a work's front.
+
+    Convention candidates, in order: the work-named brief
+    (`lore/<work>.md`, e.g. `mukta-m00124.md`, `kularnavatantra.md`) then the
+    Tantraloka `tal-aNN.md` convention. Never assume only the latter — every
+    burn front gets a work-named brief (`mukta-*`, `kularnava`, ...).
+    """
+    lore = ROOT / "process" / "beam" / "lore"
+    cands = [lore / f"{work}.md"]
+    if work.startswith("tantraloka-a"):
+        ahn = work.split("tantraloka-a")[-1]
+        cands.append(lore / f"tal-a{ahn}.md")
+    for p in cands:
         if p.exists():
             return p
     return None
@@ -106,7 +271,7 @@ def validate(work: str, song: str) -> dict:
     invariants) + proof_record --shastra. Read-only report; fixes nothing.
     Exit nonzero in the payload when errors exist."""
     v = _run(["tools/validate_song.py", "--song", song, "--work", work])
-    p = _run(["tools/proof_record.py", "--song", song, "--work", work, "--shastra"])
+    p = _run(_proof_cmd(work, song))
     return {"validate": v, "proof": p}
 
 
@@ -118,7 +283,7 @@ def lore(work: str) -> dict:
     b = _lore_path(work)
     if b:
         return {"brief": b.name, "text": b.read_text()[:8000]}
-    have = sorted(p.name for p in (ROOT / "process" / "beam" / "lore").glob("tal-*.md"))
+    have = sorted(p.name for p in (ROOT / "process" / "beam" / "lore").glob("*.md"))
     return {"brief": None, "available": have,
             "note": "no brief for this front: 10 min of scholarship now saves hours of bounce cycles"}
 
@@ -255,7 +420,7 @@ def promote(work: str, song: str) -> dict:
     v = _run(["tools/validate_song.py", "--song", song, "--work", work])
     if v["_rc"] != 0:
         return {"promoted": False, "reason": "validate_song has errors — fix first", "validate": v}
-    p = _run(["tools/proof_record.py", "--song", song, "--work", work, "--shastra"])
+    p = _run(_proof_cmd(work, song))
     gate = p.get("gate")
     if gate != "PASS":
         return {"promoted": False, "reason": f"proof gate={gate} — BLOCKED needs recorded disposition",
@@ -287,17 +452,20 @@ def promote(work: str, song: str) -> dict:
 @mcp.tool()
 def skill(name: str) -> dict:
     """Return the governing SKILL.md for a lane (the law the swarm obeys).
-    name: crystal-ipvv (single-verse gold drill, the ONLY path to gold) or
+    name: crystal-ipvv (single-verse gold drill, the ONLY path to gold),
     largetext (swarm scaffolding: beam drafters + assessor gate + transmission
-    briefs + calibration). Read FIRST before any translation action."""
+    briefs + calibration), or proof (what a translation proof is, how it is
+    computed, and why to trust it — read before citing any proof gate).
+    Read FIRST before any translation action."""
     key = name.strip().lower().replace("_", "-")
     mapping = {"crystal-ipvv": "skills/crystal-ipvv/SKILL.md",
                "crystal": "skills/crystal-ipvv/SKILL.md",
                "largetext": "skills/largetext/SKILL.md",
-               "large": "skills/largetext/SKILL.md"}
+               "large": "skills/largetext/SKILL.md",
+               "proof": "skills/proof/SKILL.md"}
     rel = mapping.get(key)
     if not rel:
-        return {"error": f"unknown skill {name!r}: crystal-ipvv|largetext"}
+        return {"error": f"unknown skill {name!r}: crystal-ipvv|largetext|proof"}
     text = (ROOT / rel).read_text()
     ex = ROOT / rel.replace("SKILL.md", "EXAMPLES.md")
     out = {"skill": key, "text": text[:12000]}
@@ -315,6 +483,36 @@ def concepts(term: str, top: int = 5) -> dict:
     g = _run(["tools/mitra_grounds.py", term, "--top", str(top)], timeout=60)
     c = _run(["tools/lookup_concept.py", term], timeout=60)
     return {"mitra_grounds": g, "concept_db": c}
+
+
+@mcp.tool()
+def recycle(dry_run: bool = False) -> dict:
+    """Halve + requeue retryable failed triples (the failure recycler).
+    Safe: one generation only (rc2- ids), skips covered ranges."""
+    return _run(["--", "recycle_failed.py"] + (["--dry"] if dry_run else []))
+
+
+@mcp.tool()
+def watchdog() -> dict:
+    """Alias of progress(): hourly health line with flags (for scheduled tasks)."""
+    return _run(["tools/watchdog_progress.py"])
+
+
+@mcp.tool()
+def progress() -> dict:
+    """One-shot system health + progress watchdog (queue counts, workers,
+    failure classes, assembled songs, host load/mem/disk, flags). Safe to
+    call hourly from a ChatGPT scheduled task."""
+    return _run(["tools/watchdog_progress.py"])
+
+
+@mcp.tool()
+def queue_guard(fix: bool = False) -> dict:
+    """Structural duplicate guard for the burn queue. Every seeding agent
+    MUST run this (or the guarded seeder) before adding tasks: enforces
+    unique ids and non-overlapping tal_triple verse ranges per song.
+    fix=true marks overlapping pending/claimed rows 'superseded'."""
+    return _run(["--", "queue_guard.py"] + (["--fix"] if fix else []))
 
 
 @mcp.tool()
@@ -360,6 +558,55 @@ def recon(work: str) -> dict:
     legacy = list((ROOT / work).glob("T1*.md"))
     out["legacy_T1"] = [p.name for p in legacy][:10]
     return out
+
+
+@mcp.tool()
+def onboard(catalog: str, brief: str = "", title: str = "") -> dict:
+    """Onboard a new Muktabodha catalog (Mnnnnn) into a work dir so it can be
+    seeded. Writes the brief (if given) to process/beam/lore/, then does source
+    intake: source/edition.txt + segments + verses + passages + STATUS.json.
+    brief_gate requires a researched brief (FACTS + TRAPS + Ledger sections,
+    no AUTO-BRIEF) — pass it here or write it first. Idempotent refusal if the
+    work dir exists. Read the REQUIRED next step: recon → swarm_seed.
+    Source library: /tmp/mukta/MUKTABODHA-LIBRARY-IAST."""
+    cat = catalog.strip()
+    wname = f"mukta-{cat}".lower()
+    if (ROOT / wname).is_dir():
+        return {"error": f"{wname} already exists", "work": wname}
+    if brief:
+        lore = ROOT / "process/beam/lore" / f"{wname}.md"
+        lore.parent.mkdir(parents=True, exist_ok=True)
+        lore.write_text(brief)
+    sys.path.insert(0, str(ROOT / "tools"))
+    sys.path.insert(0, "/root/openpatalaproject/pipeline")
+    try:
+        from onboard_wave import onboard as _onboard, MUKTA
+        from harvest_to_factory import extract_verses
+        src = next(MUKTA.glob(f"*{cat}-IAST.txt"), None)
+        if src is None:
+            return {"error": f"no source file for {cat} in {MUKTA}"}
+        census = {r["catalog"]: r for r in json.loads(
+            __import__("pathlib").Path("/tmp/mukta_census.json").read_text())}
+        c = census.get(cat, {})
+        ttl = title or c.get("title") or cat
+        auth = json.loads((ROOT / "process/beam/muktabodha_authority_traditions.json").read_text())
+        trads = " / ".join(t["tradition"] for t in auth.get(cat, [])) or "unclassified"
+        verses = extract_verses("MUKTABODHA", cat, src)
+        w = _onboard(cat, ttl, verses, trads, c.get("author") or "")
+        return {"ok": True, "work": w.name, "title": ttl, "tradition": trads,
+                "verses": len(verses),
+                "next": "recon {work} then swarm_seed {work, song}"}
+    except Exception as e:  # noqa: BLE001
+        return {"error": str(e)[:400]}
+
+
+@mcp.tool()
+def burn(work: str, lo: int = 1, hi: int = 999) -> dict:
+    """Build working-T1 for a work/song range (coverage-gated) then seed the
+    triple drafting tasks — the automated Pass-1 path. Requires the work to be
+    onboarded (dir + source + brief). Use after onboard(); then the beam workers
+    draft, and you review/assemble/promote. Machine-proposed output."""
+    return _run(["tools/auto_burn.py", "--work", work, "--from", str(lo), "--to", str(hi)], timeout=900)
 
 
 @mcp.tool()
@@ -554,10 +801,136 @@ def beam_review(task_id: str = "", max_new: int = 1, apply: bool = False) -> dic
     return _run(["tools/beam_review.py", "--sweep", "--max", str(max_new)] + (["--apply"] if apply else []), timeout=600)
 
 
+@mcp.tool()
+def bibliography(catalog: str = "", title: str = "", q: str = "") -> dict:
+    """Final Muktabodha bibliography — THE base layer for translation priority
+    (baseline 2026-11-12). Paths + per-work record (editions, has_translation,
+    availability join). Args: catalog (M00031) OR title OR q (substring search).
+    No args → paths() where the bibliography lives. Read-only."""
+    if catalog or title:
+        return _run(["tools/bibliography.py", "get",
+                     "--catalog", catalog, "--title", title], timeout=60)
+    if q:
+        return _run(["tools/bibliography.py", "search", q, "--limit", "20"], timeout=60)
+    return _run(["tools/bibliography.py", "paths"], timeout=30)
+
+
+@mcp.tool()
+def priority(limit: int = 20, untranslated_only: bool = True, short_max: int = 50) -> dict:
+    """Ranked translation order from the final bibliography base layer.
+    Rule: untranslated first, shortest first within T; machine-complete and
+    in-progress sink. T comes from burn_research/editions first (newest-first),
+    then curated FAMOUS + local work_state. Buckets: untranslated-short, translated-short, untranslated-long, translated-long (line = short_max, default 50); prose/in-progress/machine-complete sink. Returns top `limit` rows with
+    burn_rank, catalog, title, verses, T, T_why, edition_count. Read-only —
+    does not seed the swarm (use swarm_seed after picking a work)."""
+    return _run(["tools/bibliography.py", "priority",
+                 "--limit", str(limit), "--short-max", str(short_max)]
+                + (["--untranslated-only"] if untranslated_only else []),
+                timeout=60)
+
+
+@mcp.tool()
+def schema() -> dict:
+    """Data structures for ALL bibliography surfaces (fields, types, values,
+    paths) so any agent can query without reading files. Covers burn_flat,
+    editions, links, research_matrix, availability_index, ranked_burn.
+    Read-only. Companion: translation pipeline layers in DATATYPES.json."""
+    return _run(["tools/bibliography.py", "schema"], timeout=60)
+
+
+@mcp.tool()
+def stats() -> dict:
+    """Bibliography aggregate stats: 499 catalog rows, positives, editions,
+    languages, availability coverage, link domains, ranked counts, top-5.
+    Read-only orientation before browsing."""
+    return _run(["tools/bibliography.py", "stats"], timeout=60)
+
+
+@mcp.tool()
+def works(has_translation: str = "", language: str = "", min_verses: int = 0,
+          max_verses: int = 0, limit: int = 50, offset: int = 0) -> dict:
+    """Browse/list works with filters (the list endpoint for agents).
+    has_translation: "" (all) | "true" | "false". language: en|hi|fr|…
+    Untranslated rows are shortest-first; translated rows by edition count.
+    Returns catalog, title, author, verses, edition_count, languages,
+    info_url, download_url. Paginated (limit/offset). Read-only."""
+    cmd = ["tools/bibliography.py", "works",
+           "--limit", str(limit), "--offset", str(offset),
+           "--min-verses", str(min_verses), "--max-verses", str(max_verses)]
+    if has_translation in ("true", "false"):
+        cmd += ["--has-translation", has_translation]
+    if language:
+        cmd += ["--language", language]
+    return _run(cmd, timeout=60)
+
+
+@mcp.tool()
+def editions(catalog: str = "", language: str = "", tier: str = "",
+             downloadable_only: bool = False, limit: int = 50, offset: int = 0) -> dict:
+    """Browse translation editions (the translation LINKS live here: translator,
+    year, language, scope, publisher, access_tier, info_url, download_url,
+    corroboration_url, confidence, verification_status, evidence). Filter by
+    catalog / language / tier; downloadable_only=true for direct URLs.
+    Paginated. Read-only."""
+    cmd = ["tools/bibliography.py", "editions",
+           "--limit", str(limit), "--offset", str(offset)]
+    if catalog:
+        cmd += ["--catalog", catalog]
+    if language:
+        cmd += ["--language", language]
+    if tier:
+        cmd += ["--tier", tier]
+    if downloadable_only:
+        cmd += ["--downloadable-only"]
+    return _run(cmd, timeout=60)
+
+
+@mcp.tool()
+def links(catalog: str = "", domain: str = "", edition_related: str = "",
+          limit: int = 50, offset: int = 0) -> dict:
+    """Browse 718 bibliographic URL links (catalog ↔ URL relationships) with
+    source roles (CANONICAL_INFO_URL | EDITION_INFO_URL | …), domain, whether
+    edition-related, and evidence notes. NOT every link is a translation.
+    edition_related: "" (all) | "true" | "false". Paginated. Read-only."""
+    cmd = ["tools/bibliography.py", "links",
+           "--limit", str(limit), "--offset", str(offset)]
+    if catalog:
+        cmd += ["--catalog", catalog]
+    if domain:
+        cmd += ["--domain", domain]
+    if edition_related in ("true", "false"):
+        cmd += ["--edition-related", edition_related]
+    return _run(cmd, timeout=60)
+
+
+@mcp.tool()
+def availability(catalog: str = "", work: str = "", language: str = "",
+                 coverage: str = "", missing: str = "",
+                 limit: int = 50, offset: int = 0) -> dict:
+    """Query the compiled translation-availability index (743 works; the API
+    surface that openpatala serves). Filter by catalog / work / language /
+    coverage (full|partial|none) / missing (true|false). Returns has_english,
+    coverage, languages, translations[], english_urls, copyright_hint.
+    Paginated. Read-only."""
+    cmd = ["tools/bibliography.py", "availability",
+           "--limit", str(limit), "--offset", str(offset)]
+    for flag, val in (("--catalog", catalog), ("--work", work),
+                      ("--language", language), ("--coverage", coverage)):
+        if val:
+            cmd += [flag, val]
+    if missing in ("true", "false"):
+        cmd += ["--missing", missing]
+    return _run(cmd, timeout=60)
+
+
 TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_seed", "swarm_review", "swarm_decide", "promote",
          "skill", "concepts", "gates", "recon", "assemble", "supervise",
-         "swarm_workers", "review_sweep", "beam_review"]
+         "swarm_workers", "review_sweep", "beam_review",
+         "bibliography", "priority", "schema", "stats", "works",
+         "editions", "links", "availability", "onboard", "burn",
+         "recycle", "watchdog", "progress", "queue_guard",
+         "serve_status", "make_readable", "make_traces", "health", "audit_align", "verify_core", "quota"]
 
 
 if __name__ == "__main__":
@@ -570,7 +943,14 @@ if __name__ == "__main__":
             desc = (fn.description or "").splitlines()[0] if fn.description else ""
             print(f"  shastra.{name}: {desc}")
 
-    if "--serve" in sys.argv:
+    if "--serve-http" in sys.argv:
+        # HTTP (streamable) transport for remote MCP clients (ChatGPT connector)
+        port = 8930
+        for i, a in enumerate(sys.argv):
+            if a == "--port" and i + 1 < len(sys.argv):
+                port = int(sys.argv[i + 1])
+        mcp.run(transport="http", host="127.0.0.1", port=port, path="/mcp")
+    elif "--serve" in sys.argv:
         mcp.run(transport="stdio")
     elif "--list" in sys.argv or len(sys.argv) == 1:
         asyncio.run(_list())

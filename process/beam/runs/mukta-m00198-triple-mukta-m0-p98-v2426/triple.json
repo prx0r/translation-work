@@ -1,0 +1,1053 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2426,
+   "rows": [
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "high",
+     "grounds": "height measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "division into nine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated in scripture",
+     "morph": "n.nom.sg.past-passive-participle+pra-vac"
+    },
+    {
+     "surface": "pādāśma",
+     "gloss": "base-stone",
+     "grounds": "stone of the pedestal base",
+     "morph": "compound=pāda+āśma"
+    },
+    {
+     "surface": "nāgare",
+     "gloss": "in-nagara-style",
+     "grounds": "in the Nagara temple style",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "experts know",
+     "morph": "3.pl.active-perfect+vid"
+    }
+   ],
+   "question": "What height specification applies to the base stone in the Nagara style?",
+   "premises": [
+    "The base stone is discussed in the Nagara style.",
+    "Its height is declared as high.",
+    "The height is divided ninefold."
+   ],
+   "inference": "In the Nagara style, the base stone is prescribed to have a high measurement divided into nine parts.",
+   "uncertainties": [],
+   "plain_english": "But in the Nagara style, the wise declare that the base stone is high and divided ninefold."
+  },
+  {
+   "verse": 2427,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of that measure",
+     "morph": "compound=tad+ardha;n.acc.sg"
+    },
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "smallest",
+     "grounds": "inferior or smallest measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated in scripture",
+     "morph": "n.nom.sg.past-passive-participle+pra-vac"
+    },
+    {
+     "surface": "tayormadhyeṣṭabhājite",
+     "gloss": "between-those-two-divided-eightfold",
+     "grounds": "interval between the two divided into eight parts",
+     "morph": "compound=tayoḥ+madhya+aṣṭa+bhājite;n.loc.sg"
+    }
+   ],
+   "question": "How is the smallest height of the base stone determined relative to the maximum?",
+   "premises": [
+    "A maximum height was previously stated.",
+    "Half of that height is declared the smallest.",
+    "The interval between the two is divided into eight parts."
+   ],
+   "inference": "The smallest base-stone height is half the maximum, with eight intermediate gradations between them.",
+   "uncertainties": [],
+   "plain_english": "Half of that is declared the smallest, with the interval between those two divided into eight parts."
+  },
+  {
+   "verse": 2428,
+   "rows": [
+    {
+     "surface": "tadardhamadhamaṃ",
+     "gloss": "its-half-lowest",
+     "grounds": "half of that as the lowest",
+     "morph": "compound=tad+ardha+adhama;n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "recognized or called",
+     "morph": "n.nom.sg.past-passive-participle+khyā"
+    },
+    {
+     "surface": "tayormadhye'ṣṭabhājite",
+     "gloss": "between-those-two-divided-eightfold",
+     "grounds": "interval between the two divided into eight parts",
+     "morph": "compound=tayoḥ+madhye+aṣṭa+bhājite;n.loc.sg"
+    }
+   ],
+   "question": "What alternative lowest measure is recognized for the base stone height?",
+   "premises": [
+    "Another measure is derived as half of a prior one.",
+    "This measure is known as the lowest.",
+    "The interval between the two is divided into eight parts."
+   ],
+   "inference": "An alternative lowest height is recognized as half of the given measure, with eight gradations in between.",
+   "uncertainties": [
+    "The exact referent of the prior measure is implied from context."
+   ],
+   "plain_english": "Half of that is known as the lowest, with the interval between those two divided into eight parts."
+  },
+  {
+   "verse": 2429,
+   "rows": [
+    {
+     "surface": "nālīgṛhatribhāgaika",
+     "gloss": "one-third-of-channel-chamber",
+     "grounds": "one part of three divisions of the channel chamber",
+     "morph": "compound=nālī+gṛha+tri+bhāga+eka"
+    },
+    {
+     "surface": "bhāgamuttamavistṛtam",
+     "gloss": "part-best-width",
+     "grounds": "that part as the best width",
+     "morph": "compound=bhāga+uttama+vistṛta;n.acc.sg"
+    }
+   ],
+   "question": "What constitutes the best width for the relevant pedestal component?",
+   "premises": [
+    "The channel chamber is divided into three parts.",
+    "One of these parts is taken as a measure.",
+    "This measure is designated the best width."
+   ],
+   "inference": "The best width is one third of the channel chamber.",
+   "uncertainties": [
+    "The precise architectural referent of nālīgṛha is context-dependent."
+   ],
+   "plain_english": "One third of the channel chamber is taken as the best width."
+  },
+  {
+   "verse": 2430,
+   "rows": [
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "width",
+     "grounds": "breadth or diameter",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "division into nine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "vertical measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattribhāgottamonnatam",
+     "gloss": "best-height-one-third-of-that",
+     "grounds": "best elevation as one third of that width",
+     "morph": "compound=tat+tri+bhāga+uttama+unnata;n.acc.sg"
+    }
+   ],
+   "question": "How are the width and best height proportioned in this pedestal specification?",
+   "premises": [
+    "The width is divided ninefold.",
+    "The height is related to that width.",
+    "The best height is one third of that width."
+   ],
+   "inference": "The width is set in nine divisions, and the best height is prescribed as one third of that width.",
+   "uncertainties": [],
+   "plain_english": "The width is divided ninefold, and the best height is one third of that."
+  },
+  {
+   "verse": 2431,
+   "rows": [
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "high",
+     "grounds": "height measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "division into nine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated in scripture",
+     "morph": "n.nom.sg.past-passive-participle+pra-vac"
+    },
+    {
+     "surface": "pādāśma",
+     "gloss": "base-stone",
+     "grounds": "stone of the pedestal base",
+     "morph": "compound=pāda+āśma"
+    },
+    {
+     "surface": "veśarānvitam",
+     "gloss": "with-vesara-style",
+     "grounds": "associated with the Vesara style",
+     "morph": "compound=veśara+anvita;n.nom.sg"
+    }
+   ],
+   "question": "What height specification applies to the base stone in the Vesara style?",
+   "premises": [
+    "The base stone is discussed in the Vesara style.",
+    "Its height is declared as high.",
+    "The height is divided ninefold."
+   ],
+   "inference": "In the Vesara style, the base stone is prescribed to have a high measurement divided into nine parts.",
+   "uncertainties": [],
+   "plain_english": "But the base stone in the Vesara style is declared to be high and divided ninefold."
+  },
+  {
+   "verse": 2432,
+   "rows": [
+    {
+     "surface": "ekāṃśamavaṭe",
+     "gloss": "one-part-in-depression",
+     "grounds": "one part lowered in the cavity",
+     "morph": "compound=eka+aṃśa+avaṭa;m.loc.sg"
+    },
+    {
+     "surface": "nimnaṃ",
+     "gloss": "low",
+     "grounds": "made lower or recessed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṃgamūlavadākṛtiḥ",
+     "gloss": "form-like-linga-root",
+     "grounds": "shape resembling the root of the linga",
+     "morph": "compound=liṅga+mūla+vat+ākṛti;f.nom.sg"
+    }
+   ],
+   "question": "What form and depth characterize the depression prepared for the linga base?",
+   "premises": [
+    "A depression is prepared with one part lowered.",
+    "The lowered portion has a defined depth.",
+    "Its shape resembles the root of the linga."
+   ],
+   "inference": "The depression should be lowered by one part and shaped like the root of the linga.",
+   "uncertainties": [],
+   "plain_english": "In the depression, one part should be made low, with a form like the root of the linga."
+  },
+  {
+   "verse": 2433,
+   "rows": [
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in other cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samatāṃ",
+     "gloss": "evenness",
+     "grounds": "level surface",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.active-optative+kṛ"
+    },
+    {
+     "surface": "ādhārākhya",
+     "gloss": "called-support",
+     "grounds": "named as the support",
+     "morph": "compound=ādhāra+ākhya"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "stone slab",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "traditionally known",
+     "morph": "f.nom.sg.past-passive-participle+smṛ"
+    }
+   ],
+   "question": "What treatment and designation apply to the support stone outside the depression?",
+   "premises": [
+    "A different case from the depression is considered.",
+    "The surface should be made even.",
+    "The stone is traditionally called the support."
+   ],
+   "inference": "Elsewhere the stone should be made level and is known as the support stone.",
+   "uncertainties": [],
+   "plain_english": "Elsewhere one should make it level; that stone is remembered as the support stone."
+  },
+  {
+   "verse": 2434,
+   "rows": [
+    {
+     "surface": "liṃgātpīṭhāvasānaṃ",
+     "gloss": "from-linga-to-pedestal-end",
+     "grounds": "extent from the linga to the end of the pedestal",
+     "morph": "compound=liṅgāt+pīṭha+avasāna;n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekadvitryaṃgulādhikam",
+     "gloss": "exceeding-by-one-two-three-fingers",
+     "grounds": "greater by one, two, or three finger-breadths",
+     "morph": "compound=eka+dvi+tri+aṅgula+adhika;n.nom.sg"
+    }
+   ],
+   "question": "What allowable extension is prescribed from the linga to the pedestal's end?",
+   "premises": [
+    "The extent from linga to pedestal end is specified.",
+    "An excess measure is permitted.",
+    "The excess may be one, two, or three finger-breadths."
+   ],
+   "inference": "The distance from the linga to the pedestal end may exceed by one, two, or three finger-breadths.",
+   "uncertainties": [],
+   "plain_english": "From the linga to the end of the pedestal, it may be greater by one, two, or three finger-breadths."
+  },
+  {
+   "verse": 2435,
+   "rows": [
+    {
+     "surface": "pīṭhavyasādyavaikaṃ",
+     "gloss": "pedestal-width-etc-one",
+     "grounds": "one measure related to the pedestal width",
+     "morph": "compound=pīṭha+vyāsa+ādi+ava+eka;n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drāviḍākṣāntikādikam",
+     "gloss": "beginning-with-dravida-measure",
+     "grounds": "starting from the Dravida measure and so on",
+     "morph": "compound=drāviḍa+akṣa+antikā+ādika;n.nom.sg"
+    }
+   ],
+   "question": "What alternative measurement standards may govern the pedestal dimensions?",
+   "premises": [
+    "An alternative measure is given.",
+    "It relates to the pedestal width.",
+    "It may follow the Dravida measure and related standards."
+   ],
+   "inference": "Alternatively, the pedestal may be measured by its width or according to Dravida and similar standards.",
+   "uncertainties": [
+    "The exact technical sense of drāviḍākṣāntikādikam is not fully explicit."
+   ],
+   "plain_english": "Or it may be based on the pedestal width, or follow the Dravida measure and the like."
+  },
+  {
+   "verse": 2436,
+   "rows": [
+    {
+     "surface": "nandyāvartaśilāvyāsaṃ",
+     "gloss": "nandyavarta-stone-width",
+     "grounds": "width of the Nandyavarta stone",
+     "morph": "compound=nandyāvarta+śilā+vyāsa;m.acc.sg"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "division into nine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara",
+     "grounds": "in the Vesara style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the width of the Nandyavarta stone specified in the Vesara style?",
+   "premises": [
+    "The Nandyavarta stone width is under discussion.",
+    "The Vesara style is specified.",
+    "The width is divided ninefold."
+   ],
+   "inference": "In the Vesara style, the width of the Nandyavarta stone is indeed divided into nine parts.",
+   "uncertainties": [],
+   "plain_english": "Indeed, in the Vesara style, the width of the Nandyavarta stone is divided ninefold."
+  },
+  {
+   "verse": 2437,
+   "rows": [
+    {
+     "surface": "caturaśrocitāyāme",
+     "gloss": "in-length-suited-to-square",
+     "grounds": "in the length appropriate to a square form",
+     "morph": "compound=caturaśra+ucita+āyāma;m.loc.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-those",
+     "grounds": "of those measures",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dīrghamudāhṛtam",
+     "gloss": "length-stated",
+     "grounds": "the long dimension is declared",
+     "morph": "compound=dīrgha+udāhṛta;n.nom.sg"
+    }
+   ],
+   "question": "How is the long dimension determined for forms suited to a square layout?",
+   "premises": [
+    "A length suited to a square form is considered.",
+    "Several measures are involved.",
+    "The long dimension is explicitly stated."
+   ],
+   "inference": "For those suited to a square layout, the long dimension is declared accordingly.",
+   "uncertainties": [
+    "The precise referent of teṣāṃ depends on prior context."
+   ],
+   "plain_english": "For those suited to a square form, the long dimension is stated."
+  },
+  {
+   "verse": 2438,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "on the western side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cottarāgraṃ",
+     "gloss": "and-north-facing",
+     "grounds": "with its front toward the north",
+     "morph": "compound=ca+uttara+agra;n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgagraṃ",
+     "gloss": "east-facing",
+     "grounds": "with its front toward the east",
+     "morph": "compound=prāc+agra;n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cottare",
+     "gloss": "and-in-north",
+     "grounds": "on the northern side",
+     "morph": "compound=ca+uttara;m.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.active-optative+ni-as"
+    }
+   ],
+   "question": "What directional orientations govern the placement of the component in west and north positions?",
+   "premises": [
+    "Placement on the western side is prescribed.",
+    "Placement on the northern side is prescribed.",
+    "Specific front orientations are required in each case."
+   ],
+   "inference": "On the west it should be placed facing north, and on the north it should be placed facing east.",
+   "uncertainties": [],
+   "plain_english": "On the west one should place it facing north, and on the north one should place it facing east."
+  },
+  {
+   "verse": 2439,
+   "rows": [
+    {
+     "surface": "tṛtīyamūlaṃ",
+     "gloss": "third-root",
+     "grounds": "the third base position",
+     "morph": "compound=tṛtīya+mūla;n.acc.sg"
+    },
+    {
+     "surface": "nir-ṛtau",
+     "gloss": "in-southwest",
+     "grounds": "in the southwest direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyumūlaṃ",
+     "gloss": "wind-root",
+     "grounds": "the northwest base position",
+     "morph": "compound=vāyu+mūla;n.acc.sg"
+    },
+    {
+     "surface": "caturthakam",
+     "gloss": "fourth",
+     "grounds": "the fourth one",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which directional placements are assigned to the third and fourth base positions?",
+   "premises": [
+    "A third base position is specified.",
+    "A fourth base position is specified.",
+    "Directional alternatives are given for their placement."
+   ],
+   "inference": "The third base may be placed in the southwest, and the fourth in the northwest.",
+   "uncertainties": [],
+   "plain_english": "The third base may be placed in the southwest, or the fourth in the northwest."
+  },
+  {
+   "verse": 2440,
+   "rows": [
+    {
+     "surface": "ūrdhveṣṭabandhanaṃ",
+     "gloss": "upper-desired-binding",
+     "grounds": "the upper binding as required",
+     "morph": "compound=ūrdhva+iṣṭa+bandhana;n.acc.sg"
+    },
+    {
+     "surface": "lipya",
+     "gloss": "having-smeared",
+     "grounds": "after applying a coating",
+     "morph": "(indecl.)absolutive+lip"
+    },
+    {
+     "surface": "sthāpayetpiṇḍikāṃ",
+     "gloss": "one-should-install-pedestal",
+     "grounds": "one should set the pedestal in place",
+     "morph": "compound=sthāpayet+piṇḍikām;3.sg.active-optative-causative+sthā+f.acc.sg"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "by knowledgeable experts",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What preparatory action must precede the installation of the pedestal by experts?",
+   "premises": [
+    "An upper binding is required.",
+    "A smearing or coating action is performed.",
+    "The pedestal is then installed by the wise."
+   ],
+   "inference": "Experts should apply the upper binding coating and then install the pedestal.",
+   "uncertainties": [
+    "The exact material used for lipya is not specified."
+   ],
+   "plain_english": "After smearing the upper binding, the wise should install the pedestal."
+  },
+  {
+   "verse": 2441,
+   "rows": [
+    {
+     "surface": "ekāśmaṃ",
+     "gloss": "of-one-stone",
+     "grounds": "made from a single stone",
+     "morph": "compound=eka+aśma;n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cottamaṃ",
+     "gloss": "and-best",
+     "grounds": "and considered the best",
+     "morph": "compound=ca+uttama;n.nom.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "the pedestal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "made of two stones",
+     "morph": "f.inst.dual"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyaviṣṭharam",
+     "gloss": "middle-seat",
+     "grounds": "of middle quality",
+     "morph": "compound=madhya+viṣṭhara;n.nom.sg"
+    }
+   ],
+   "question": "How does the number of stones determine the quality ranking of the pedestal?",
+   "premises": [
+    "A pedestal made of one stone is described.",
+    "A pedestal made of two stones is described.",
+    "Each is assigned a quality rank."
+   ],
+   "inference": "A single-stone pedestal is best, while a two-stone pedestal is of middle quality.",
+   "uncertainties": [],
+   "plain_english": "A pedestal made of one stone is best, and one made of two stones is of middle quality."
+  },
+  {
+   "verse": 2442,
+   "rows": [
+    {
+     "surface": "pīṭhānāṃ",
+     "gloss": "of-pedestals",
+     "grounds": "of the pedestals",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galādūrdhvaṃ",
+     "gloss": "above-neck",
+     "grounds": "above the neck portion",
+     "morph": "compound=galāt+ūrdhvam;(indecl.)"
+    },
+    {
+     "surface": "aśvatvekena",
+     "gloss": "by-one-stone",
+     "grounds": "with a single stone",
+     "morph": "compound=aśma+tva+eka;n.inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive construction",
+     "morph": "3.sg.active-optative-causative+kṛ"
+    }
+   ],
+   "question": "What construction rule applies to the portion of pedestals above the neck?",
+   "premises": [
+    "The upper part of pedestals is considered.",
+    "The region above the neck is specified.",
+    "A single-stone construction is prescribed."
+   ],
+   "inference": "Above the neck, pedestals should be made with a single stone.",
+   "uncertainties": [
+    "The form aśvatvekena is unusual and interpreted as a single-stone instruction."
+   ],
+   "plain_english": "Above the neck of the pedestals, one should make it with a single stone."
+  },
+  {
+   "verse": 2443,
+   "rows": [
+    {
+     "surface": "galādhastād",
+     "gloss": "below-neck",
+     "grounds": "below the neck portion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣadvau",
+     "gloss": "two-stones",
+     "grounds": "two stone pieces",
+     "morph": "compound=dṛṣad+dvau;f.nom.dual"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "eastern",
+     "grounds": "the eastern one",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apare",
+     "gloss": "in-western",
+     "grounds": "in the western position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.active-optative+ni-as"
+    }
+   ],
+   "question": "How should two stones be arranged below the neck of the pedestal?",
+   "premises": [
+    "The region below the neck is considered.",
+    "Two stones may be used.",
+    "Their relative placement is prescribed."
+   ],
+   "inference": "If two stones are used below the neck, one should be placed to the east and the other to the west.",
+   "uncertainties": [],
+   "plain_english": "If there are two stones below the neck, one should place the eastern one and the other in the west."
+  },
+  {
+   "verse": 2444,
+   "rows": [
+    {
+     "surface": "catvāraṃ",
+     "gloss": "four",
+     "grounds": "four stones",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cec",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkoṇe",
+     "gloss": "in-four-corners",
+     "grounds": "at the four corners",
+     "morph": "compound=catur+koṇa;m.loc.sg"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "in a square arrangement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive arrangement",
+     "morph": "3.sg.active-optative-causative+pra-kḷp"
+    }
+   ],
+   "question": "What arrangement is required when four stones are used for the pedestal base?",
+   "premises": [
+    "The case of four stones is considered.",
+    "A corner-based placement is indicated.",
+    "A square arrangement is prescribed."
+   ],
+   "inference": "If four stones are used, they should be arranged in a square at the four corners.",
+   "uncertainties": [],
+   "plain_english": "If there are four, one should arrange them in a square at the four corners."
+  },
+  {
+   "verse": 2445,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭabandhairvā",
+     "gloss": "or-with-eight-bonds",
+     "grounds": "alternatively with eightfold binding compounds",
+     "morph": "compound=aṣṭa+bandha;m.inst.pl+vā"
+    },
+    {
+     "surface": "niśchidraṃ",
+     "gloss": "without-gaps",
+     "grounds": "free of holes or cracks",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sudṛḍhaṃ",
+     "gloss": "very-firm",
+     "grounds": "strong and stable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "2.sg.active-imperative+kṛ"
+    }
+   ],
+   "question": "What alternative method ensures a gapless and firm pedestal construction?",
+   "premises": [
+    "An alternative construction method is offered.",
+    "Eightfold binding compounds may be used.",
+    "The result must be gapless and very firm."
+   ],
+   "inference": "Alternatively, one should use eightfold binding compounds to make the structure gapless and very firm.",
+   "uncertainties": [],
+   "plain_english": "Or else, make it gapless and very firm with eightfold binding compounds."
+  },
+  {
+   "verse": 2446,
+   "rows": [
+    {
+     "surface": "lohajaṃ",
+     "gloss": "metal-born",
+     "grounds": "made of metal",
+     "morph": "compound=loha+ja;n.nom.sg"
+    },
+    {
+     "surface": "ratnajaṃ",
+     "gloss": "gem-born",
+     "grounds": "made of gems",
+     "morph": "compound=ratna+ja;n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dārujaṃ",
+     "gloss": "wood-born",
+     "grounds": "made of wood",
+     "morph": "compound=dāru+ja;n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evameva",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative materials are permitted for constructing the prescribed object?",
+   "premises": [
+    "Different material origins are listed.",
+    "Metal, gem, and wood are included.",
+    "These are presented as valid alternatives."
+   ],
+   "inference": "The object may likewise be made of metal, gems, or wood.",
+   "uncertainties": [
+    "The specific object referred to is implied from the surrounding context."
+   ],
+   "plain_english": "It may likewise be made of metal, of gems, or of wood."
+  },
+  {
+   "verse": 2447,
+   "rows": [
+    {
+     "surface": "viṣṇubhāgārdhasīmnā",
+     "gloss": "by-half-limit-of-vishnu-part",
+     "grounds": "up to half the boundary of the Vishnu portion",
+     "morph": "compound=viṣṇu+bhāga+ardha+sīman;f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍikordhvaṃ",
+     "gloss": "above-pedestal",
+     "grounds": "the upper part of the pedestal",
+     "morph": "compound=piṇḍikā+ūrdhva;n.acc.sg"
+    },
+    {
+     "surface": "samunnayet",
+     "gloss": "one-should-raise",
+     "grounds": "prescriptive elevation",
+     "morph": "3.sg.active-optative-causative+sam-ud-nī"
+    }
+   ],
+   "question": "To what height should the upper part of the pedestal be raised relative to the Vishnu portion?",
+   "premises": [
+    "The upper part of the pedestal is to be raised.",
+    "The Vishnu portion provides a reference boundary.",
+    "The limit is half of that boundary."
+   ],
+   "inference": "The upper part of the pedestal should be raised up to half the boundary of the Vishnu portion.",
+   "uncertainties": [],
+   "plain_english": "One should raise the upper part of the pedestal up to half the limit of the Vishnu portion."
+  },
+  {
+   "verse": 2448,
+   "rows": [
+    {
+     "surface": "napuṃsakaśilābhistu",
+     "gloss": "with-neuter-stones",
+     "grounds": "using stones classified as neuter",
+     "morph": "compound=napuṃsaka+śilā;f.inst.pl+tu"
+    },
+    {
+     "surface": "pīṭhādhastācchilāṃ",
+     "gloss": "stone-below-pedestal",
+     "grounds": "the stone beneath the pedestal",
+     "morph": "compound=pīṭha+adhastāt+śilā;f.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement or arrangement",
+     "morph": "3.sg.active-optative+nī"
+    }
+   ],
+   "question": "What type of stone is prescribed for placement beneath the pedestal?",
+   "premises": [
+    "A stone beneath the pedestal is required.",
+    "Stones are classified by type.",
+    "Neuter stones are specified for this placement."
+   ],
+   "inference": "One should place a stone of the neuter class beneath the pedestal.",
+   "uncertainties": [
+    "The technical classification napuṃsakaśilā follows Agamic stone taxonomy."
+   ],
+   "plain_english": "One should place beneath the pedestal a stone made of neuter-class stones."
+  },
+  {
+   "verse": 2449,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshumat-kashyapa",
+     "grounds": "thus in the Amshumat Kashyapa text",
+     "morph": "compound=iti+aṃśumān+kāśyapa;m.loc.sg"
+    },
+    {
+     "surface": "pādaśilādilakṣaṇapaṭalaḥ",
+     "gloss": "chapter-on-characteristics-of-base-stone-etc",
+     "grounds": "chapter describing characteristics of the base stone and related elements",
+     "morph": "compound=pāda+śilā+ādi+lakṣaṇa+paṭala;m.nom.sg"
+    },
+    {
+     "surface": "tripaṃcāśaḥ",
+     "gloss": "fifty-third",
+     "grounds": "chapter number fifty-three",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter concludes the discussion of base stone characteristics in the Amshumat Kashyapa text?",
+   "premises": [
+    "The text is identified as Amshumat Kashyapa.",
+    "The topic is the characteristics of the base stone and related elements.",
+    "The chapter number is given as fifty-third."
+   ],
+   "inference": "This marks the conclusion of the fifty-third chapter on the characteristics of the base stone and related elements in the Amshumat Kashyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the fifty-third chapter, on the characteristics of the base stone and so forth, in the Amshumat Kashyapa."
+  }
+ ]
+}

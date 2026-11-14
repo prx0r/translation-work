@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "āsyamaṃśamathāṃśena",
+     "gloss": "mouth-part-then-part",
+     "grounds": "fused sandhi form transcribed whole; legacy hint mouth-part",
+     "morph": "noun.instr.sg.m"
+    },
+    {
+     "surface": "padmamardhena",
+     "gloss": "lotus-half",
+     "grounds": "fused sandhi form transcribed whole; legacy hint lotus",
+     "morph": "noun.instr.sg.m"
+    },
+    {
+     "surface": "vṛttakam",
+     "gloss": "round",
+     "grounds": "legacy hint round",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What shape and proportional measurement defines this mouth-part lotus figure?",
+   "premises": [
+    "mouth part measured by part",
+    "lotus half supplies proportion",
+    "round form is specified"
+   ],
+   "inference": "The figure is round, measured by a mouth-part and a lotus-half.",
+   "uncertainties": [
+    "exact sandhi segmentation remains unresolved",
+    "doctrinal referent of the figure is unclear"
+   ],
+   "plain_english": "The round figure is measured by a mouth-part and a lotus-half."
+  }
+ ]
+}

@@ -1,0 +1,1009 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2551,
+   "rows": [
+    {
+     "surface": "utkṛṣṭaṃ",
+     "gloss": "excellent",
+     "grounds": "legacy hint excellent",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sarvatobhadraṃ",
+     "gloss": "all-around-auspicious",
+     "grounds": "legacy hint all-around-auspicious",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caturaṃśāṅkaṇānvitam",
+     "gloss": "four-part-marked",
+     "grounds": "legacy hint four-part-marked",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What marks the excellent all-around-auspicious hall as four-part-marked?",
+   "premises": [
+    "excellent all-around-auspicious hall is named",
+    "four-part-marked qualifies it"
+   ],
+   "inference": "The verse identifies the excellent hall by its four-part marking.",
+   "uncertainties": [
+    "exact architectural sense of aṅkaṇa"
+   ],
+   "plain_english": "The excellent all-around-auspicious hall is four-part-marked."
+  },
+  {
+   "verse": 2552,
+   "rows": [
+    {
+     "surface": "śālāvyāso",
+     "gloss": "hall-layout",
+     "grounds": "legacy hint hall-layout",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-part",
+     "grounds": "legacy hint two-part",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "legacy hint syāt",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "bāhyālindam",
+     "gloss": "outer-porch",
+     "grounds": "legacy hint outer-porch",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekataḥ",
+     "gloss": "one-side",
+     "grounds": "legacy hint one",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may the hall layout be two-part with an outer porch on one side?",
+   "premises": [
+    "hall layout may be two-part",
+    "outer porch is placed on one side"
+   ],
+   "inference": "The verse allows a two-part hall layout with an outer porch on one side.",
+   "uncertainties": [
+    "whether ekataḥ modifies porch or layout"
+   ],
+   "plain_english": "The hall layout may be two-part, with an outer porch on one side."
+  },
+  {
+   "verse": 2553,
+   "rows": [
+    {
+     "surface": "antarvāraṃ",
+     "gloss": "inner-court",
+     "grounds": "legacy hint inner-court",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "abandoning",
+     "grounds": "legacy hint abandoning",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outer",
+     "grounds": "legacy hint outer",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "arrange",
+     "grounds": "legacy hint arrange",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "When abandoning the inner court, where may the arrangement be made?",
+   "premises": [
+    "inner court is abandoned",
+    "arrangement may be made in the outer space"
+   ],
+   "inference": "The verse permits arranging the space outwardly after abandoning the inner court.",
+   "uncertainties": [
+    "exact referent of tatra"
+   ],
+   "plain_english": "Abandoning the inner court, one may arrange it in the outer space there."
+  },
+  {
+   "verse": 2554,
+   "rows": [
+    {
+     "surface": "sabhadrāṃ",
+     "gloss": "with-auspicious",
+     "grounds": "legacy hint with-auspicious",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhadrāṃ",
+     "gloss": "without-auspicious",
+     "grounds": "legacy hint without-auspicious",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkaṇāṃśena",
+     "gloss": "with-marked-part",
+     "grounds": "legacy hint with-marked-part",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "vāraṇam",
+     "gloss": "enclosure",
+     "grounds": "legacy hint enclosure",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What kinds of enclosure may be arranged with or without auspicious marking?",
+   "premises": [
+    "enclosure may be with auspicious marking",
+    "enclosure may be without auspicious marking",
+    "marked part may qualify enclosure"
+   ],
+   "inference": "The verse lists alternative enclosure types by auspicious marking.",
+   "uncertainties": [
+    "whether aṅkaṇāṃśena modifies all alternatives"
+   ],
+   "plain_english": "The enclosure may be with auspicious marking, without it, or with a marked part."
+  },
+  {
+   "verse": 2555,
+   "rows": [
+    {
+     "surface": "tameva",
+     "gloss": "that-same",
+     "grounds": "legacy hint that-same",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "legacy hint around",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārgayukto",
+     "gloss": "path-joined",
+     "grounds": "legacy hint path-joined",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthuvārakaḥ",
+     "gloss": "wide-enclosure",
+     "grounds": "legacy hint wide-enclosure",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What wide enclosure may surround that same space with a path?",
+   "premises": [
+    "that same space is surrounded",
+    "path-joined wide enclosure is an option"
+   ],
+   "inference": "The verse offers a path-joined wide enclosure around the same space.",
+   "uncertainties": [
+    "whether mārgayukto modifies pṛthuvārakaḥ"
+   ],
+   "plain_english": "That same space may be surrounded by a path-joined wide enclosure."
+  },
+  {
+   "verse": 2556,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "legacy hint that-same",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "paritoṃ'śena",
+     "gloss": "around-part",
+     "grounds": "legacy hint around-part",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bahirvāraṃ",
+     "gloss": "outer-enclosure",
+     "grounds": "legacy hint outer-enclosure",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "arrange",
+     "grounds": "legacy hint arrange",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How may an outer enclosure be arranged around that same space?",
+   "premises": [
+    "that same space is surrounded",
+    "outer enclosure is arranged by a part"
+   ],
+   "inference": "The verse instructs arranging an outer enclosure around the same space.",
+   "uncertainties": [
+    "exact sense of paritoṃ'śena"
+   ],
+   "plain_english": "One may arrange an outer enclosure around that same space by its part."
+  },
+  {
+   "verse": 2557,
+   "rows": [
+    {
+     "surface": "jāticchandavikalpānāṃ",
+     "gloss": "caste-meter-variation",
+     "grounds": "legacy hint caste-meter-variation",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "miśram",
+     "gloss": "mixed",
+     "grounds": "legacy hint mixed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ābhāsanām",
+     "gloss": "appearance",
+     "grounds": "legacy hint appearance",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "abhāk",
+     "gloss": "not-having",
+     "grounds": "legacy hint not-having",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What appearance lacks mixture of caste, meter, and variation?",
+   "premises": [
+    "mixture concerns caste meter and variation",
+    "appearance is not having that mixture"
+   ],
+   "inference": "The verse describes an appearance free from mixed caste, meter, and variation.",
+   "uncertainties": [
+    "whether ābhāsanām is genitive plural or singular"
+   ],
+   "plain_english": "The appearance is not mixed with caste, meter, and variation."
+  },
+  {
+   "verse": 2558,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ābhāsam",
+     "gloss": "appearance",
+     "grounds": "legacy hint appearance",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "called",
+     "grounds": "legacy hint called",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "rājñām",
+     "gloss": "for-kings",
+     "grounds": "legacy hint for-kings",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "āvāsayogyakam",
+     "gloss": "fit-for-residence",
+     "grounds": "legacy hint fit-for-residence",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "For whom is this appearance called fit for residence?",
+   "premises": [
+    "this appearance is called",
+    "it is fit for residence",
+    "it is for kings"
+   ],
+   "inference": "The verse calls this appearance fit for residence for kings.",
+   "uncertainties": [
+    "whether ākhyātaṃ is participle or adjective"
+   ],
+   "plain_english": "This appearance is called fit for residence for kings."
+  },
+  {
+   "verse": 2559,
+   "rows": [
+    {
+     "surface": "utkṛṣṭaṃ",
+     "gloss": "excellent",
+     "grounds": "legacy hint excellent",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sarvatobhadraṃ",
+     "gloss": "all-around-auspicious",
+     "grounds": "legacy hint all-around-auspicious",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "legacy hint fourfold",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "How is the excellent all-around-auspicious type declared?",
+   "premises": [
+    "excellent all-around-auspicious type is named",
+    "it is declared fourfold"
+   ],
+   "inference": "The verse declares the excellent all-around-auspicious type as fourfold.",
+   "uncertainties": [
+    "whether caturvidham modifies type or declaration"
+   ],
+   "plain_english": "The excellent all-around-auspicious type is declared fourfold."
+  },
+  {
+   "verse": 2560,
+   "rows": [
+    {
+     "surface": "nikṛṣṭabhāginī",
+     "gloss": "inferior-share",
+     "grounds": "legacy hint inferior-share",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭadaśadvādaśabhāgikā",
+     "gloss": "eighteen-twelve-parts",
+     "grounds": "legacy hint eighteen-twelve-parts",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What inferior share is associated with eighteen and twelve parts?",
+   "premises": [
+    "inferior share is named",
+    "eighteen and twelve parts are specified"
+   ],
+   "inference": "The verse associates an inferior share with eighteen and twelve parts.",
+   "uncertainties": [
+    "whether cā connects to previous verse"
+   ],
+   "plain_english": "The inferior share is eighteen and twelve parts."
+  },
+  {
+   "verse": 2561,
+   "rows": [
+    {
+     "surface": "dviṣaṭsaptāṣṭabhāge",
+     "gloss": "two-six-seven-eight-parts",
+     "grounds": "legacy hint two-six-seven-eight-parts",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreṣṭhā",
+     "gloss": "best",
+     "grounds": "legacy hint best",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "legacy hint proclaimed",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "In which part-range is the best proclaimed?",
+   "premises": [
+    "best is proclaimed",
+    "part range is two six seven eight"
+   ],
+   "inference": "The verse proclaims the best in the two-six-seven-eight part range.",
+   "uncertainties": [
+    "whether tu is repeated for emphasis"
+   ],
+   "plain_english": "The best is proclaimed in the two, six, seven, and eight part range."
+  },
+  {
+   "verse": 2562,
+   "rows": [
+    {
+     "surface": "chandādayaḥ",
+     "gloss": "meter-etc",
+     "grounds": "legacy hint meter-etc",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint tathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃśavardhitā",
+     "gloss": "two-part-increased",
+     "grounds": "legacy hint two-part-increased",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yāmasaṃyutāḥ",
+     "gloss": "length-joined",
+     "grounds": "legacy hint length-joined",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are meter and related elements increased and joined with length?",
+   "premises": [
+    "meter and related elements are named",
+    "they are increased by two parts",
+    "they are joined with length"
+   ],
+   "inference": "The verse states that meter and related elements are increased by two parts and joined with length.",
+   "uncertainties": [
+    "whether yāma means length or time"
+   ],
+   "plain_english": "Meter and related elements are increased by two parts and joined with length."
+  },
+  {
+   "verse": 2563,
+   "rows": [
+    {
+     "surface": "jātyādyābhāsakāntā",
+     "gloss": "caste-etc-appearance-beauty",
+     "grounds": "legacy hint caste-etc-appearance-beauty",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "legacy hint yā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "said",
+     "grounds": "legacy hint uktā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlasamanvitā",
+     "gloss": "root-joined",
+     "grounds": "legacy hint root-joined",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What beauty of caste and appearance is said to be root-joined?",
+   "premises": [
+    "beauty of caste and appearance is named",
+    "it is said",
+    "it is root-joined"
+   ],
+   "inference": "The verse says the beauty of caste and appearance is root-joined.",
+   "uncertainties": [
+    "whether jātyādyābhāsakāntā is one compound"
+   ],
+   "plain_english": "The beauty of caste and appearance is said to be root-joined."
+  },
+  {
+   "verse": 2564,
+   "rows": [
+    {
+     "surface": "utkṛṣṭā",
+     "gloss": "excellent",
+     "grounds": "legacy hint excellent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "legacy hint yā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātir",
+     "gloss": "caste",
+     "grounds": "legacy hint caste",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vikalpādyantadīrghikā",
+     "gloss": "variation-etc-end-long",
+     "grounds": "legacy hint variation-etc-end-long",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What excellent caste here is long from variation to end?",
+   "premises": [
+    "excellent caste is named here",
+    "it is long from variation to end"
+   ],
+   "inference": "The verse identifies an excellent caste here as long from variation to end.",
+   "uncertainties": [
+    "whether vikalpādyantadīrghikā is a compound"
+   ],
+   "plain_english": "Here the excellent caste is long from variation to end."
+  },
+  {
+   "verse": 2565,
+   "rows": [
+    {
+     "surface": "nikṛṣṭe",
+     "gloss": "inferior",
+     "grounds": "legacy hint inferior",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vardhamāne",
+     "gloss": "increasing",
+     "grounds": "legacy hint increasing",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "legacy hint two-part",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "madhyamāṅkaṇam",
+     "gloss": "middle-marked",
+     "grounds": "legacy hint middle-marked",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What middle-marked two-part space appears when the inferior is increasing?",
+   "premises": [
+    "inferior is increasing",
+    "middle-marked two-part space is named"
+   ],
+   "inference": "The verse names a middle-marked two-part space when the inferior is increasing.",
+   "uncertainties": [
+    "whether nikṛṣṭe modifies vardhamāne"
+   ],
+   "plain_english": "When the inferior is increasing, the middle-marked two-part space appears."
+  },
+  {
+   "verse": 2566,
+   "rows": [
+    {
+     "surface": "madhyabhittisamāśliṣṭa",
+     "gloss": "middle-wall-joined",
+     "grounds": "legacy hint middle-wall-joined",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kulyābhadvārasaṃyutam",
+     "gloss": "channel-auspicious-gate-joined",
+     "grounds": "legacy hint channel-auspicious-gate-joined",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What is joined to the middle wall and channel-auspicious gate?",
+   "premises": [
+    "middle wall is joined",
+    "channel auspicious gate is joined"
+   ],
+   "inference": "The verse describes a structure joined to the middle wall and channel-auspicious gate.",
+   "uncertainties": [
+    "whether both adjectives modify one noun"
+   ],
+   "plain_english": "It is joined to the middle wall and the channel-auspicious gate."
+  },
+  {
+   "verse": 2567,
+   "rows": [
+    {
+     "surface": "alpanimnā",
+     "gloss": "small-depressed",
+     "grounds": "legacy hint small-depressed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "legacy hint bhavet",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "prācī",
+     "gloss": "eastern",
+     "grounds": "legacy hint eastern",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śālādīrghā",
+     "gloss": "hall-long",
+     "grounds": "legacy hint hall-long",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvinetrakā",
+     "gloss": "two-eyed",
+     "grounds": "legacy hint two-eyed",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What eastern hall may be small-depressed, long, and two-eyed?",
+   "premises": [
+    "eastern hall may be small-depressed",
+    "it may be long",
+    "it may be two-eyed"
+   ],
+   "inference": "The verse describes an eastern hall as small-depressed, long, and two-eyed.",
+   "uncertainties": [
+    "whether dvinetrakā is metaphorical"
+   ],
+   "plain_english": "The eastern hall may be small-depressed, long, and two-eyed."
+  },
+  {
+   "verse": 2568,
+   "rows": [
+    {
+     "surface": "bāhye",
+     "gloss": "outer",
+     "grounds": "legacy hint outer",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bhittisamāyuktam",
+     "gloss": "wall-joined",
+     "grounds": "legacy hint wall-joined",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "inner",
+     "grounds": "legacy hint inner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaiḥ",
+     "gloss": "feet",
+     "grounds": "legacy hint feet",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "joined",
+     "grounds": "legacy hint joined",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is the outer wall-joined space joined inwardly by feet?",
+   "premises": [
+    "outer wall-joined space is named",
+    "inner joining is by feet"
+   ],
+   "inference": "The verse describes an outer wall-joined space joined inwardly by feet.",
+   "uncertainties": [
+    "whether pādaiḥ means pillars or feet"
+   ],
+   "plain_english": "The outer wall-joined space is joined inwardly by feet."
+  },
+  {
+   "verse": 2569,
+   "rows": [
+    {
+     "surface": "dvibhāgakṛtaniṣkrāntaṃ",
+     "gloss": "two-part-made-exit",
+     "grounds": "legacy hint two-part-made-exit",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caturdiṅmadhyavāraṇam",
+     "gloss": "four-direction-middle-enclosure",
+     "grounds": "legacy hint four-direction-middle-enclosure",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What four-direction middle enclosure is made by a two-part exit?",
+   "premises": [
+    "two-part made exit is named",
+    "four-direction middle enclosure is named"
+   ],
+   "inference": "The verse links a two-part made exit with a four-direction middle enclosure.",
+   "uncertainties": [
+    "whether both describe one enclosure"
+   ],
+   "plain_english": "The two-part made exit is the four-direction middle enclosure."
+  },
+  {
+   "verse": 2570,
+   "rows": [
+    {
+     "surface": "mukhyagehasya",
+     "gloss": "main-house",
+     "grounds": "legacy hint main-house",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "root",
+     "grounds": "legacy hint root",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānagehaṃ",
+     "gloss": "bath-house",
+     "grounds": "legacy hint bath-house",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dvibhāgataḥ",
+     "gloss": "two-part",
+     "grounds": "legacy hint two-part",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the bath-house of the main house placed in two parts?",
+   "premises": [
+    "main house root is named",
+    "bath-house is placed there",
+    "it is two-part"
+   ],
+   "inference": "The verse places the bath-house at the root of the main house in two parts.",
+   "uncertainties": [
+    "whether dvibhāgataḥ modifies placement or bath-house"
+   ],
+   "plain_english": "At the root of the main house, the bath-house is placed in two parts."
+  },
+  {
+   "verse": 2571,
+   "rows": [
+    {
+     "surface": "vāstūnāṃ",
+     "gloss": "vāstu",
+     "grounds": "legacy hint vāstu",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturmadhye",
+     "gloss": "four-middle",
+     "grounds": "legacy hint four-middle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "legacy hint four",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "legacy hint thread",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "use",
+     "grounds": "legacy hint use",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should thread be used in the middle of four vāstu spaces?",
+   "premises": [
+    "vāstu spaces are named",
+    "middle of four is named",
+    "thread should be used"
+   ],
+   "inference": "The verse instructs using thread in the middle of four vāstu spaces.",
+   "uncertainties": [
+    "whether catuḥ modifies sūtraṃ or vāstu"
+   ],
+   "plain_english": "In the middle of four vāstu spaces, one should use four threads."
+  },
+  {
+   "verse": 2572,
+   "rows": [
+    {
+     "surface": "nāsikātoraṇastambhajālakādivicitritam",
+     "gloss": "nose-torana-pillar-lattice-etc-variegated",
+     "grounds": "legacy hint nose-torana-pillar-lattice-etc-variegated",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is variegated with nose, torana, pillar, lattice, and so on?",
+   "premises": [
+    "one variegated item is named",
+    "it includes nose torana pillar lattice etc"
+   ],
+   "inference": "The verse names a variegated item including nose, torana, pillar, and lattice.",
+   "uncertainties": [
+    "exact architectural referent"
+   ],
+   "plain_english": "It is variegated with nose, torana, pillar, lattice, and so on."
+  },
+  {
+   "verse": 2573,
+   "rows": [
+    {
+     "surface": "nikṛṣṭaṃ",
+     "gloss": "inferior",
+     "grounds": "legacy hint inferior",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vardhamānaṃ",
+     "gloss": "increasing",
+     "grounds": "legacy hint increasing",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "legacy hint syāt",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "rājñām",
+     "gloss": "for-kings",
+     "grounds": "legacy hint for-kings",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "āvāsayogyakam",
+     "gloss": "fit-for-residence",
+     "grounds": "legacy hint fit-for-residence",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What increasing inferior type may be fit for residence for kings?",
+   "premises": [
+    "increasing inferior type is named",
+    "it may be fit for residence",
+    "it is for kings"
+   ],
+   "inference": "The verse says an increasing inferior type may be fit for residence for kings.",
+   "uncertainties": [
+    "whether nikṛṣṭaṃ modifies vardhamānaṃ"
+   ],
+   "plain_english": "An increasing inferior type may be fit for residence for kings."
+  },
+  {
+   "verse": 2574,
+   "rows": [
+    {
+     "surface": "yatheṣṭadiśi",
+     "gloss": "as-desired-direction",
+     "grounds": "legacy hint as-desired-direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadrāṅgaṃ",
+     "gloss": "auspicious-limb",
+     "grounds": "legacy hint auspicious-limb",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yatheṣṭadiśi",
+     "gloss": "as-desired-direction",
+     "grounds": "legacy hint as-desired-direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsakam",
+     "gloss": "residence",
+     "grounds": "legacy hint residence",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "In what direction may the auspicious limb and residence be placed?",
+   "premises": [
+    "auspicious limb may be placed as desired",
+    "residence may be placed as desired"
+   ],
+   "inference": "The verse allows placing the auspicious limb and residence in a desired direction.",
+   "uncertainties": [
+    "whether both share the same direction"
+   ],
+   "plain_english": "The auspicious limb and residence may be placed in a desired direction."
+  }
+ ]
+}

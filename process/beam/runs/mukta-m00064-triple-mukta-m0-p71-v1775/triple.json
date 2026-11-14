@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the place mentioned in the preceding verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍa+pradānena",
+     "gloss": "by-rice-ball-offering",
+     "grounds": "instrumental of means; compound of piṇḍa and pradāna",
+     "morph": "piṇḍa+pradāna (compound).i.sg.n."
+    },
+    {
+     "surface": "tṛptiḥ",
+     "gloss": "satisfaction",
+     "grounds": "subject of the resulting state",
+     "morph": "f.nom.sg."
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present indicative expressing the result",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "śāśvatī",
+     "gloss": "eternal",
+     "grounds": "qualifies the satisfaction as everlasting",
+     "morph": "f.nom.sg."
+    }
+   ],
+   "question": "What lasting result arises from offering rice-balls at that place?",
+   "premises": [
+    "The action occurs there.",
+    "The action is the offering of rice-balls.",
+    "This offering produces satisfaction.",
+    "The resulting satisfaction is eternal."
+   ],
+   "inference": "Therefore, offering rice-balls there brings about eternal satisfaction.",
+   "uncertainties": [
+    "The specific recipients of the satisfaction are not explicitly named in this verse."
+   ],
+   "plain_english": "There, by offering rice-balls, eternal satisfaction arises."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "object of the action performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japanañcaiva",
+     "gloss": "recitation-and-indeed",
+     "grounds": "fused form of japanaṃ + ca + eva; coordinated object with emphatic particle",
+     "morph": "n.acc.sg+indecl.+indecl."
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "action carried out by the practitioner",
+     "morph": "3.sg.mid-pres; √kṛ"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "agent; compound of sādhaka and uttama",
+     "morph": "m.nom.sg; compound(sādhaka+uttama)"
+    }
+   ],
+   "question": "What ritual acts are performed by the foremost practitioner?",
+   "premises": [
+    "The foremost practitioner is the agent of the action.",
+    "Worship is performed by this practitioner.",
+    "Recitation is also performed by this practitioner."
+   ],
+   "inference": "The foremost practitioner performs both worship and recitation.",
+   "uncertainties": [],
+   "plain_english": "The foremost practitioner performs worship and recitation."
+  }
+ ]
+}

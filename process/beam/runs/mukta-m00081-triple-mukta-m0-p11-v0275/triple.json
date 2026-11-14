@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-indeed",
+     "grounds": "instrumental of tad with emphatic particle eva; fused form as given",
+     "morph": "tad (pron.instr.sg.m/n) + eva (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating a particular mode of contrivance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kḷptas",
+     "gloss": "contrived",
+     "grounds": "past participle of kḷp; nominative singular masculine with final visarga represented in sandhi",
+     "morph": "kḷp-ta (m.nom.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating the corresponding mode of conformity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadanuvartanam",
+     "gloss": "conformity-to-that",
+     "grounds": "compound of tad and anuvartana; denotes following in accordance with the contrived designation",
+     "morph": "tad-anuvartana (compound, n.nom.sg)"
+    }
+   ],
+   "question": "How does conformity proceed when a designation is merely contrived for conventional usage?",
+   "premises": [
+    "A designation is merely contrived for conventional usage.",
+    "Such a designation may be contrived in one way or another.",
+    "Conformity follows the manner in which that designation is contrived."
+   ],
+   "inference": "Conformity to conventional usage proceeds according to the specific manner of the contrived designation.",
+   "uncertainties": [
+    "The exact antecedent of tenaiva is contextually inferred from the preceding verses' discussion of saṃjñā."
+   ],
+   "plain_english": "Therefore, whether contrived in this way or that, conformity to it follows accordingly."
+  }
+ ]
+}

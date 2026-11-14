@@ -1,0 +1,51 @@
+{
+ "song": "sva-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "pṛthivyādīni",
+     "gloss": "earth-and-the-rest",
+     "grounds": "compound pṛthivī+ādi+ni",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "principles",
+     "grounds": "neuter plural accusative",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcasu",
+     "gloss": "in-five",
+     "grounds": "locative plural of pañca",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "optative of vi-ni-as",
+     "morph": "3.sg.act.opt (root as)"
+    }
+   ],
+   "question": "How are the five earth-principles to be placed?",
+   "premises": [
+    "five principles are earth-and-the-rest",
+    "placement occurs in five",
+    "the verb is optative"
+   ],
+   "inference": "the five principles are to be placed in five",
+   "uncertainties": [
+    "exact locative sense of pañcasu"
+   ],
+   "plain_english": "Place the five principles, beginning with earth, in the five."
+  }
+ ]
+}

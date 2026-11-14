@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p547",
+ "items": [
+  {
+   "verse": 13675,
+   "rows": [
+    {
+     "surface": "vāma+bāhau",
+     "gloss": "on-left-arm",
+     "grounds": "locative of compound vāma+bāhu",
+     "morph": "vāma+bāhu.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārīṇāṃ",
+     "gloss": "of-women",
+     "grounds": "genitive plural of nārī",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "baddhaṃ",
+     "gloss": "bound",
+     "grounds": "past passive participle of bandh",
+     "morph": "ppp.nom.sg.n"
+    },
+    {
+     "surface": "putra+pradaṃ",
+     "gloss": "son-giving",
+     "grounds": "compound adjective from putra and prada",
+     "morph": "putra+prada.nom.sg.n"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past passive participle of man",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "What result follows when women bind the amulet on the left arm?",
+   "premises": [
+    "The amulet is bound on the left arm.",
+    "This practice applies specifically to women.",
+    "Such binding is held to grant a son."
+   ],
+   "inference": "Therefore, for women, binding the amulet on the left arm is considered to bestow a son.",
+   "uncertainties": [],
+   "plain_english": "But for women, when bound on the left arm, it is considered to grant a son."
+  }
+ ]
+}

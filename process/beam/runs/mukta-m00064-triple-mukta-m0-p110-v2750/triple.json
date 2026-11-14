@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "sāvitrī+grantha+saṃyuktam",
+     "gloss": "joined-with-sāvitrī-knot",
+     "grounds": "compound sāvitrī-grantha (sāvitrī-knot) with saṃyuktam (joined); describes upavītam",
+     "morph": "sāvitrī-grantha+saṃyukta.n.acc.sg"
+    },
+    {
+     "surface": "upavītam",
+     "gloss": "sacred-thread",
+     "grounds": "object of offering or application in ritual context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anakṣatam",
+     "gloss": "unbroken",
+     "grounds": "qualifies upavītam as undamaged",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What specific characteristics must the sacred thread offered in this ritual possess?",
+   "premises": [
+    "The sacred thread is joined with a sāvitrī knot.",
+    "The sacred thread is unbroken."
+   ],
+   "inference": "Therefore, the ritual offering requires a sacred thread that is both knotted with sāvitrī and intact.",
+   "uncertainties": [
+    "The precise ritual significance of the sāvitrī-grantha in this context is not fully specified."
+   ],
+   "plain_english": "The sacred thread, joined with the sāvitrī knot and unbroken, should be offered."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p186",
+ "items": [
+  {
+   "verse": 4650,
+   "rows": [
+    {
+     "surface": "karṣaṇādikam",
+     "gloss": "plowing-and-so-on",
+     "grounds": "compound with ādi indicating 'and so forth'; object of kartavyam",
+     "morph": "compound: karṣaṇa-ādi-kam; n.acc.sg"
+    },
+    {
+     "surface": "eteṣāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to the items or cases mentioned in the preceding context",
+     "morph": "pron.gen.pl.m/n"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "expresses obligation or permissibility regarding the acts",
+     "morph": "gerundive.n.nom.sg; √kṛ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the alternative of doing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "completes the disjunctive pair",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "qualifies the manner of performing the acts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Must plowing and related acts for these be performed separately or omitted?",
+   "premises": [
+    "Plowing and related acts are under consideration for these cases.",
+    "These acts may be performed or not performed.",
+    "The option of performing them separately is explicitly raised."
+   ],
+   "inference": "Plowing and related acts for these may optionally be performed separately or not performed.",
+   "uncertainties": [
+    "The exact referent of eteṣāṃ depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "For these, plowing and the other related acts may either be done separately or not done."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "....ṣyāṃ",
+     "gloss": "shall-see",
+     "grounds": "fragmentary verb form as transmitted; exact root and full form uncertain due to initial loss",
+     "morph": "verb.1.sg.active-future"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "O-fair-hipped-one",
+     "grounds": "vocative address to the interlocutor",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "gaṅgāyāṃ",
+     "gloss": "in-Gaṅgā",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bathing",
+     "grounds": "action noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker pronoun",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "What declaration does the speaker make about bathing in the Gaṅgā to the fair-hipped one?",
+   "premises": [
+    "The speaker addresses the fair-hipped one directly.",
+    "The speaker refers to bathing in the Gaṅgā.",
+    "The speaker asserts a first-person declaration marked by 'thus I'."
+   ],
+   "inference": "The speaker concludes or declares, in the first person, an act involving bathing in the Gaṅgā.",
+   "uncertainties": [
+    "The initial token '....ṣyāṃ' is fragmentary, so the full verb and its precise meaning are uncertain."
+   ],
+   "plain_english": "And, O fair-hipped one, I [shall ...] bathing in the Gaṅgā, thus I say."
+  }
+ ]
+}

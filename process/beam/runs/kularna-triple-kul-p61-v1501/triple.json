@@ -1,0 +1,339 @@
+{
+ "song": "kul-p61",
+ "items": [
+  {
+   "verse": 1501,
+   "rows": [
+    {
+     "surface": "ityādilakṣaṇopetaṃ",
+     "gloss": "thus-beginning-characteristics-endowed",
+     "grounds": "compound iti+ādi+lakṣaṇa+upeta",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "noun guru",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "noun śiṣya",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "parigrahet",
+     "gloss": "should-accept",
+     "grounds": "verb parigrah",
+     "morph": "v.3sg.opt.act"
+    }
+   ],
+   "question": "Which disciple should the guru accept?",
+   "premises": [
+    "The guru accepts a disciple endowed with such characteristics."
+   ],
+   "inference": "Acceptance follows from the disciple's endowed qualities.",
+   "uncertainties": [],
+   "plain_english": "The guru should accept a disciple endowed with these characteristics."
+  },
+  {
+   "verse": 1502,
+   "rows": [
+    {
+     "surface": "sarvalakṣaṇasampannaḥ",
+     "gloss": "all-characteristics-endowed",
+     "grounds": "compound sarva+lakṣaṇa+sampanna",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sarvāvayavaśobhitaḥ",
+     "gloss": "all-limbs-beautified",
+     "grounds": "compound sarva+avayava+śobhita",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What bodily and characteristic perfection is described?",
+   "premises": [
+    "The figure is endowed with all characteristics.",
+    "The figure is beautified in all limbs."
+   ],
+   "inference": "Perfection includes both traits and bodily beauty.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with all characteristics and beautified in every limb."
+  },
+  {
+   "verse": 1503,
+   "rows": [
+    {
+     "surface": "lokasammohanakaro",
+     "gloss": "world-enchanting-maker",
+     "grounds": "compound loka+sammohana+kara",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "devavat",
+     "gloss": "god-like",
+     "grounds": "indeclinable comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priyadarśanaḥ",
+     "gloss": "pleasant-appearance",
+     "grounds": "compound priya+darśana",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How does this figure appear to the world?",
+   "premises": [
+    "He enchants the world.",
+    "He appears god-like and pleasant."
+   ],
+   "inference": "His appearance combines charm, divinity, and pleasantness.",
+   "uncertainties": [],
+   "plain_english": "He enchants the world, appears god-like, and has a pleasant appearance."
+  },
+  {
+   "verse": 1504,
+   "rows": [
+    {
+     "surface": "iṅgitākāravit",
+     "gloss": "gesture-form-knower",
+     "grounds": "compound iṅgita+ākāra+vit",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prājña",
+     "gloss": "wise",
+     "grounds": "adjective prājña",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ūhāpohavidujjvalaḥ",
+     "gloss": "inference-refutation-knower-brilliant",
+     "grounds": "compound ūhā+poha+vid+ujjvala",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What intellectual capacities are attributed here?",
+   "premises": [
+    "He knows gestures and forms.",
+    "He is wise and brilliant in inference and refutation."
+   ],
+   "inference": "Wisdom includes reading signs and reasoning skill.",
+   "uncertainties": [],
+   "plain_english": "He knows gestures and forms, is wise, and shines in inference and refutation."
+  },
+  {
+   "verse": 1505,
+   "rows": [
+    {
+     "surface": "ājñāsiddhistrikālajño",
+     "gloss": "command-accomplishment-three-time-knower",
+     "grounds": "compound ājñā+siddhi+tri+kāla+jña",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "nigrahānugrahakṣamaḥ",
+     "gloss": "restraint-grace-capable",
+     "grounds": "compound nigraha+anugraha+kṣama",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What powers of command and grace are described?",
+   "premises": [
+    "He knows command accomplishment across three times.",
+    "He is capable of restraint and grace."
+   ],
+   "inference": "His authority includes temporal knowledge and balanced power.",
+   "uncertainties": [],
+   "plain_english": "He knows the accomplishment of commands across three times and is capable of restraint and grace."
+  },
+  {
+   "verse": 1506,
+   "rows": [
+    {
+     "surface": "svādhīnendriyasañcāraṣaḍvargavijayakṣamāḥ",
+     "gloss": "self-controlled-senses-movement-six-enemies-victory-capable",
+     "grounds": "compound svādhīna+indriya+sañcāra+ṣaḍvarga+vijaya+kṣama",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What self-mastery is attributed to these figures?",
+   "premises": [
+    "They control the movement of the senses.",
+    "They are capable of victory over the six enemies."
+   ],
+   "inference": "Self-mastery includes sense control and conquest of inner enemies.",
+   "uncertainties": [],
+   "plain_english": "They are capable of controlling the senses and conquering the six enemies."
+  },
+  {
+   "verse": 1507,
+   "rows": [
+    {
+     "surface": "śivaviṣṇusamaḥ",
+     "gloss": "shiva-vishnu-equal",
+     "grounds": "compound śiva+viṣṇu+sama",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sādhur",
+     "gloss": "saint",
+     "grounds": "noun sādhu",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mandadarśanadūṣakaḥ",
+     "gloss": "dull-vision-destroyer",
+     "grounds": "compound manda+darśana+dūṣaka",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How is the saint compared and what does he destroy?",
+   "premises": [
+    "The saint is equal to Shiva and Vishnu.",
+    "He destroys dull vision."
+   ],
+   "inference": "His stature is divine and his presence removes dullness.",
+   "uncertainties": [],
+   "plain_english": "The saint is equal to Shiva and Vishnu and destroys dull vision."
+  },
+  {
+   "verse": 1508,
+   "rows": [
+    {
+     "surface": "sadbhaktavatsalo",
+     "gloss": "true-devotee-affectionate",
+     "grounds": "compound sat+bhakta+vatsala",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "dhīraḥ",
+     "gloss": "steadfast",
+     "grounds": "adjective dhīra",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kṛpāluḥ",
+     "gloss": "compassionate",
+     "grounds": "adjective kṛpālu",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "smitapūrṇavāk",
+     "gloss": "smile-filled-speech",
+     "grounds": "compound smita+pūrṇa+vāk",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What devotional and moral qualities are listed?",
+   "premises": [
+    "He is affectionate to true devotees.",
+    "He is steadfast, compassionate, and speaks with a smile."
+   ],
+   "inference": "Devotion is joined with steadiness, compassion, and gentle speech.",
+   "uncertainties": [],
+   "plain_english": "He is affectionate to true devotees, steadfast, compassionate, and speaks with a smile."
+  },
+  {
+   "verse": 1509,
+   "rows": [
+    {
+     "surface": "sveṣṭadevagurujyeṣṭha",
+     "gloss": "own-chosen-deity-guru-elder",
+     "grounds": "compound sva+iṣṭa+deva+guru+jyeṣṭha",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vanitāpūjanotsukaḥ",
+     "gloss": "women-worship-eager",
+     "grounds": "compound vanitā+pūjana+utsuka",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What reverence and eagerness are described?",
+   "premises": [
+    "He honors his chosen deity, guru, and elders.",
+    "He is eager in worship of women."
+   ],
+   "inference": "Reverence extends to divine, human, and ritual objects.",
+   "uncertainties": [],
+   "plain_english": "He honors his chosen deity, guru, and elders, and is eager in worship of women."
+  },
+  {
+   "verse": 1510,
+   "rows": [
+    {
+     "surface": "rāgadveṣabhayakleśadambhāhaṅkāravajītaḥ",
+     "gloss": "passion-aversion-fear-affliction-pride-ego-devoid",
+     "grounds": "compound rāga+dveṣa+bhaya+kleśa+dambha+ahaṅkāra+vajīta",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Which afflictions and ego states are absent?",
+   "premises": [
+    "He is devoid of passion, aversion, fear, affliction, pride, and ego."
+   ],
+   "inference": "Liberation from these states defines his character.",
+   "uncertainties": [],
+   "plain_english": "He is free from passion, aversion, fear, affliction, pride, and ego."
+  },
+  {
+   "verse": 1511,
+   "rows": [
+    {
+     "surface": "yadṛcchālābhasantuṣṭo",
+     "gloss": "chance-gain-contented",
+     "grounds": "compound yadṛcchā+lābha+santuṣṭa",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "guṇadoṣavibhedakaḥ",
+     "gloss": "virtue-vice-discriminator",
+     "grounds": "compound guṇa+doṣa+vibhedaka",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What contentment and discrimination are described?",
+   "premises": [
+    "He is content with chance gains.",
+    "He discriminates virtue from vice."
+   ],
+   "inference": "Contentment pairs with moral discrimination.",
+   "uncertainties": [],
+   "plain_english": "He is content with chance gains and discriminates virtue from vice."
+  },
+  {
+   "verse": 1512,
+   "rows": [
+    {
+     "surface": "sarvāhambhāvasaṃyukto",
+     "gloss": "all-ego-state-endowed",
+     "grounds": "compound sarva+ahambhāva+saṃyukta",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "nirdvandvo",
+     "gloss": "free-from-dualities",
+     "grounds": "compound nir+dvandva",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "niyatavrataḥ",
+     "gloss": "fixed-vow",
+     "grounds": "compound niyata+vrata",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What ego, duality, and vow states are described?",
+   "premises": [
+    "He is endowed with all ego-state.",
+    "He is free from dualities and fixed in vow."
+   ],
+   "inference": "His state combines ego-endowment with freedom from dualities and fixed discipline.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with all ego-state, free from dualities, and fixed in vow."
+  }
+ ]
+}

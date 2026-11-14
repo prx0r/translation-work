@@ -1,0 +1,83 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p514",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v12837 ratio=0.072",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "773e85a2a5027052",
+ "source_digest_normalized_sha256": "773e85a2a50270525c25d1ebba0ef146cf3f2a731b34578898fbb1ddcf7a2d0b",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 122
+ },
+ "align": {
+  "min_ratio": 0.072,
+  "sub090": {
+   "12837": {
+    "ratio": 0.072,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "The lord is encircled by the thirty-three gods beginning with Indra."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 55,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 122,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v12837"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "ae80d8ff3279baa046e4366f1a5cdbf0a2ff6f92efcad453f790e8dae5a8e343",
+  "l0": "c8cb8770b98bee621831ced3743f1038ed0b806e740ccc2486349389622a4e0b",
+  "argmap": "44999db6cd9659ae54fbc851a7257a0b8fde63071eb2670b215653c68e68c9c5",
+  "l2": "25bca83f36fa29a0081cf1666efd6bd434d657008af3a81dc7c56f673ef12a08",
+  "c1": "044e442e04c04f048694635370573e86d7faa653cd68394abb59b091bcf73f07"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "773e85a2a5027052",
+  "t1": "mukta-m0-p514/data/mukta-m0-p514.t1.json",
+  "l0": "mukta-m0-p514/data/mukta-m0-p514.l0.json",
+  "l2": "mukta-m0-p514/data/mukta-m0-p514.l2.json",
+  "c1": "mukta-m0-p514/data/mukta-m0-p514.c1.json"
+ }
+}

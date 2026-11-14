@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "taskaraṃ",
+     "gloss": "thief",
+     "grounds": "object denoting one of the assigned outcomes",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhuktiśaktiśca",
+     "gloss": "enjoyment-power-and",
+     "grounds": "compound bhukti-śakti with enclitic ca fused by sandhi; denotes another assigned outcome",
+     "morph": "compound+indecl"
+    },
+    {
+     "surface": "dhanyaṃ",
+     "gloss": "wealthy",
+     "grounds": "object denoting a fortunate or prosperous outcome",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rājaṃ",
+     "gloss": "king",
+     "grounds": "object denoting a royal outcome",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking listed outcomes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṇḍakam",
+     "gloss": "eunuch",
+     "grounds": "object denoting another assigned outcome",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What specific outcomes are assigned to the fourfold nakshatra groups combined with weekdays?",
+   "premises": [
+    "The preceding verses group nakshatras in sets of four beginning with Viśākhā in combination with weekdays beginning with Sunday.",
+    "This verse enumerates distinct outcomes corresponding to those grouped divisions.",
+    "The listed outcomes include thief, enjoyment-power, wealthy, king, and eunuch."
+   ],
+   "inference": "Each of the fourfold nakshatra-weekday groupings is associated with one of these named outcomes.",
+   "uncertainties": [
+    "The exact one-to-one mapping between each group and each listed outcome is not explicit within this verse alone.",
+    "The precise sense of bhuktiśakti in this ritual context may be enjoyment-power or capacity for enjoyment."
+   ],
+   "plain_english": "They are: a thief, one with power of enjoyment, a wealthy person, a king, and a eunuch."
+  }
+ ]
+}

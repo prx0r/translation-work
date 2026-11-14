@@ -1,0 +1,296 @@
+{
+ "song": "kul-p65",
+ "items": [
+  {
+   "verse": 1601,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "legacy hint: that",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint: and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint: not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "legacy hint: would-be",
+     "morph": "3.sg.act-opt + as"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "legacy hint: without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāryam",
+     "gloss": "teacher",
+     "grounds": "legacy hint: teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint: thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācārya+paramparā",
+     "gloss": "teacher-lineage",
+     "grounds": "legacy hint: teacher-lineage",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why would that not be without a teacher?",
+   "premises": [
+    "liberation requires teacher",
+    "lineage carries authority"
+   ],
+   "inference": "the teacher-lineage is necessary for liberation",
+   "uncertainties": [
+    "exact referent of sā"
+   ],
+   "plain_english": "That would not be without a teacher, thus the teacher-lineage."
+  },
+  {
+   "verse": 1602,
+   "rows": [
+    {
+     "surface": "antareṇa",
+     "gloss": "without",
+     "grounds": "legacy hint: without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadeṣṭāram",
+     "gloss": "instructor",
+     "grounds": "legacy hint: instructor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "legacy hint: mantras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "legacy hint: would-be",
+     "morph": "3.pl.act-opt + as"
+    },
+    {
+     "surface": "niṣphalāḥ",
+     "gloss": "fruitless",
+     "grounds": "legacy hint: fruitless",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "legacy hint: because",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why would mantras be fruitless without an instructor?",
+   "premises": [
+    "mantras need instructor",
+    "without instructor no fruit"
+   ],
+   "inference": "mantras are fruitless without an instructor",
+   "uncertainties": [
+    "scope of antareṇa"
+   ],
+   "plain_english": "Without an instructor, mantras would be fruitless, because."
+  },
+  {
+   "verse": 1603,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "legacy hint: teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantra+āgama+abhijñaṃ",
+     "gloss": "mantra-āgama-knowing",
+     "grounds": "legacy hint: mantra-āgama-knowing",
+     "morph": "compound"
+    },
+    {
+     "surface": "samaya+ācāra+pālakam",
+     "gloss": "vow-practice-keeper",
+     "grounds": "legacy hint: vow-practice-keeper",
+     "morph": "compound"
+    }
+   ],
+   "question": "What kind of teacher should be sought?",
+   "premises": [
+    "teacher knows mantra-āgama",
+    "teacher keeps vow-practice"
+   ],
+   "inference": "the guru must know mantra-āgama and keep vow-practice",
+   "uncertainties": [
+    "exact ritual sense of samaya"
+   ],
+   "plain_english": "A teacher who knows mantra-āgama and keeps vow-practice."
+  },
+  {
+   "verse": 1604,
+   "rows": [
+    {
+     "surface": "kiñcit+kālaṃ",
+     "gloss": "for-some-time",
+     "grounds": "compound of kiñcit and kālaṃ in accusative singular masculine",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-arranged",
+     "grounds": "absolutive of vidhā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sva+śiṣyāya",
+     "gloss": "to-own-disciple",
+     "grounds": "dative singular masculine of sva-śiṣya",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "let-him-bestow",
+     "grounds": "optative third singular of samṛp",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "How should the guru bestow the mantra after arranging matters?",
+   "premises": [
+    "guru arranges matters for some time",
+    "guru bestows mantra to own disciple",
+    "bestowal follows proper arrangement"
+   ],
+   "inference": "The guru first arranges matters, then bestows the mantra to his own disciple.",
+   "uncertainties": [
+    "exact duration of kiñcit+kālaṃ is unspecified"
+   ],
+   "plain_english": "After arranging matters for some time, the guru should bestow the mantra to his own disciple."
+  },
+  {
+   "verse": 1605,
+   "rows": [
+    {
+     "surface": "dehānte",
+     "gloss": "at-end-of-body",
+     "grounds": "locative singular masculine of dehānta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāśvatī",
+     "gloss": "eternal",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "nominative singular feminine of mukti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkara+bhāṣitam",
+     "gloss": "śaṅkara-spoken",
+     "grounds": "nominative singular neuter compound participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result is promised at the end of the body?",
+   "premises": [
+    "at end of body eternal liberation",
+    "this is spoken by śaṅkara",
+    "liberation is eternal not temporary"
+   ],
+   "inference": "At the end of the body there is eternal liberation, as spoken by Śaṅkara.",
+   "uncertainties": [
+    "whether dehānte means death or final bodily state"
+   ],
+   "plain_english": "At the end of the body there is eternal liberation, so Śaṅkara has spoken."
+  },
+  {
+   "verse": 1606,
+   "rows": [
+    {
+     "surface": "sampradāyam",
+     "gloss": "tradition",
+     "grounds": "accusative singular masculine of sampradāya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avicchinnaṃ",
+     "gloss": "unbroken",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "let-teacher-do",
+     "grounds": "optative third singular of kṛ",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guruḥ",
+     "grounds": "nominative singular masculine of guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine of priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should the guru always maintain for the dear one?",
+   "premises": [
+    "guru should always make tradition unbroken",
+    "guru is the agent of continuity",
+    "addressed to the dear one"
+   ],
+   "inference": "The guru should always keep the tradition unbroken, O dear one.",
+   "uncertainties": [
+    "whether priye addresses Pārvatī or disciple"
+   ],
+   "plain_english": "O dear one, the guru should always keep the tradition unbroken."
+  }
+ ]
+}

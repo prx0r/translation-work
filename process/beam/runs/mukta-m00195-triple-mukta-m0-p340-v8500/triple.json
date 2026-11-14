@@ -1,0 +1,30 @@
+{
+ "song": "mukta-m0-p340",
+ "items": [
+  {
+   "verse": 8500,
+   "rows": [
+    {
+     "surface": "suguñjanmañjumañjīrāṃ",
+     "gloss": "with-sweetly-tinkling-charming-anklets",
+     "grounds": "bahuvrīhi compound describing the goddess; su-guñjat (sweetly sounding) + mañju (charming) + mañjīra (anklet)",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "kāñcīguṇavirājitām",
+     "gloss": "resplendent-with-girdle-string",
+     "grounds": "bahuvrīhi/tatpuruṣa-based compound describing the goddess; kāñcī-guṇa (girdle cord/string) + virājita (resplendent, adorned)",
+     "morph": "compound.f.acc.sg"
+    }
+   ],
+   "question": "Which ornaments adorn the goddess's ankles and waist in this visualization?",
+   "premises": [
+    "The goddess wears sweetly tinkling, charming anklets.",
+    "The goddess is resplendent with a girdle string."
+   ],
+   "inference": "Her lower body is adorned with melodious anklets and a shining girdle.",
+   "uncertainties": [],
+   "plain_english": "She is adorned with sweetly tinkling, charming anklets and is resplendent with a girdle string."
+  }
+ ]
+}

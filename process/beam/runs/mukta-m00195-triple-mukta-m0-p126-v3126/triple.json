@@ -1,0 +1,1033 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3126,
+   "rows": [
+    {
+     "surface": "mārjanaṃ",
+     "gloss": "cleaning",
+     "grounds": "act of sweeping or cleansing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence after prior act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇa+bhojanam",
+     "gloss": "brahmin+feeding",
+     "grounds": "feeding of brahmins as ritual act",
+     "morph": "compound: brāhmaṇa+feeding"
+    }
+   ],
+   "question": "What ritual actions must follow after the preceding worship?",
+   "premises": [
+    "Cleaning should be performed",
+    "The cleaning follows the prior act",
+    "Feeding brahmins should be done afterward"
+   ],
+   "inference": "The ritual sequence requires cleaning followed by feeding brahmins.",
+   "uncertainties": [],
+   "plain_english": "Then one should do the cleaning and feed the brahmins."
+  },
+  {
+   "verse": 3127,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior act of worship",
+     "morph": "gerund √pūj"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive offering",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the offering or item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or further action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom should the worshipped offering be given next?",
+   "premises": [
+    "Worship is performed first",
+    "The offering should be given",
+    "The guru is the designated recipient"
+   ],
+   "inference": "After worship, the offering should be given again to the guru.",
+   "uncertainties": [
+    "The exact referent of taṃ is not specified."
+   ],
+   "plain_english": "Having worshipped, one should give that again to the guru."
+  },
+  {
+   "verse": 3128,
+   "rows": [
+    {
+     "surface": "bhūyasīṃ",
+     "gloss": "greater",
+     "grounds": "abundant or increased amount",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior act of giving",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "suhṛdbhis+saha",
+     "gloss": "with-friends",
+     "grounds": "companions sharing the meal",
+     "morph": "compound: suhṛdbhis+with"
+    },
+    {
+     "surface": "bhojanam",
+     "gloss": "meal",
+     "grounds": "act of eating together",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What communal act should follow giving a greater offering?",
+   "premises": [
+    "A greater offering is given",
+    "Friends are present as companions",
+    "A meal is to be taken"
+   ],
+   "inference": "After giving more, one should share a meal with friends.",
+   "uncertainties": [
+    "The object of bhūyasīṃ is implied but not explicit."
+   ],
+   "plain_english": "Having given more, one should take a meal together with friends."
+  },
+  {
+   "verse": 3129,
+   "rows": [
+    {
+     "surface": "pārthivānāṃ",
+     "gloss": "of-earthen-liṅgas",
+     "grounds": "liṅgas made of earth",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarva+kāma+prapūrakaḥ",
+     "gloss": "all+desire+fulfilling",
+     "grounds": "that which fulfills all desires",
+     "morph": "compound: sarva+kāma+fulfilling"
+    }
+   ],
+   "question": "What power is attributed to the worship of earthen liṅgas?",
+   "premises": [
+    "Earthen liṅgas are the subject",
+    "A fulfilling power is ascribed",
+    "All desires are included in that fulfillment"
+   ],
+   "inference": "Worship related to earthen liṅgas is said to fulfill all desires.",
+   "uncertainties": [
+    "The verse is fragmentary and may qualify a rite named earlier."
+   ],
+   "plain_english": "It fulfills all desires in connection with earthen liṅgas."
+  },
+  {
+   "verse": 3130,
+   "rows": [
+    {
+     "surface": "udyāpanena",
+     "gloss": "with-concluding-rite",
+     "grounds": "ritual completion or conclusion",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "accompanied",
+     "grounds": "joined together with",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kim+anyat",
+     "gloss": "what+else",
+     "grounds": "asks for further topics",
+     "morph": "compound: what+other"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "desire to listen",
+     "morph": "infinitive √śru"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-desire",
+     "grounds": "addressed to the listener",
+     "morph": "2.sg.pres.act √iṣ"
+    }
+   ],
+   "question": "What further teaching is sought after the concluding rite is included?",
+   "premises": [
+    "The concluding rite is included",
+    "The listener is addressed directly",
+    "A desire to hear more is asked about"
+   ],
+   "inference": "After covering the concluding rite, the speaker asks what else the listener wishes to hear.",
+   "uncertainties": [],
+   "plain_english": "Together with the concluding rite, what else do you wish to hear?"
+  },
+  {
+   "verse": 3131,
+   "rows": [
+    {
+     "surface": "pārthiva",
+     "gloss": "earthen-liṅga",
+     "grounds": "relating to liṅgas made of earth",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjā+vidhiḥ",
+     "gloss": "worship+method",
+     "grounds": "procedure for worship",
+     "morph": "compound: pūjā+method"
+    },
+    {
+     "surface": "varṇanaṃ+nāma",
+     "gloss": "description+named",
+     "grounds": "titled as a description",
+     "morph": "compound: description+named"
+    },
+    {
+     "surface": "navamaḥ",
+     "gloss": "ninth",
+     "grounds": "ordinal position",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "chapter",
+     "grounds": "section or illumination of the text",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the ninth chapter on earthen-liṅga worship identified?",
+   "premises": [
+    "The subject is the method of earthen-liṅga worship",
+    "The section is called a description",
+    "It is identified as the ninth chapter"
+   ],
+   "inference": "The ninth chapter is identified as the description of the method of earthen-liṅga worship.",
+   "uncertainties": [],
+   "plain_english": "The ninth chapter is named the description of the method of worship of the earthen liṅga."
+  },
+  {
+   "verse": 3132,
+   "rows": [
+    {
+     "surface": "ūrdhva+āmnāyaṃ",
+     "gloss": "upper+tradition",
+     "grounds": "one of the directional tantric transmissions",
+     "morph": "compound: ūrdhva+tradition; m.acc.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "somewhere",
+     "grounds": "in some places or contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣam",
+     "gloss": "southern",
+     "grounds": "southern tradition or direction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttaraṃ",
+     "gloss": "northern",
+     "grounds": "northern tradition or direction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścimaṃ",
+     "gloss": "western",
+     "grounds": "western tradition or direction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "somewhere",
+     "grounds": "in some places or contexts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which directional traditions are said to appear in different places?",
+   "premises": [
+    "The upper tradition is mentioned",
+    "Southern, northern, and western traditions are mentioned",
+    "Their occurrence varies by place"
+   ],
+   "inference": "Different directional traditions are found in different places.",
+   "uncertainties": [
+    "The governing verb is implied from context."
+   ],
+   "plain_english": "Somewhere the upper tradition, and somewhere the southern, northern, and western traditions."
+  },
+  {
+   "verse": 3133,
+   "rows": [
+    {
+     "surface": "kvacit",
+     "gloss": "somewhere",
+     "grounds": "in some places or contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bauddhaṃ",
+     "gloss": "buddhist",
+     "grounds": "associated with Buddhist teaching",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pākhaṇḍaṃ",
+     "gloss": "heretical",
+     "grounds": "heterodox or dissenting doctrine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit+kvacit",
+     "gloss": "here-and-there",
+     "grounds": "in various places",
+     "morph": "compound: somewhere+somewhere"
+    }
+   ],
+   "question": "What heterodox teachings are said to occur in various places?",
+   "premises": [
+    "Buddhist teaching is mentioned",
+    "Heretical teaching is mentioned",
+    "These occur in various places"
+   ],
+   "inference": "Buddhist and other heretical teachings are found here and there.",
+   "uncertainties": [
+    "The term pākhaṇḍaṃ reflects the text's evaluative stance."
+   ],
+   "plain_english": "Somewhere Buddhist teaching, and here and there heretical teaching."
+  },
+  {
+   "verse": 3134,
+   "rows": [
+    {
+     "surface": "mārgaṃ",
+     "gloss": "path",
+     "grounds": "spiritual or doctrinal way",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedāntaṃ",
+     "gloss": "vedānta",
+     "grounds": "tradition based on the end of the Vedas",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vedic",
+     "grounds": "associated with the Vedas",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "somewhere",
+     "grounds": "in some places or contexts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Vedic-related paths are said to be found in some places?",
+   "premises": [
+    "A path is mentioned",
+    "Vedānta and Vedic paths are specified",
+    "Their occurrence varies by place"
+   ],
+   "inference": "Vedānta and Vedic paths are found in some places.",
+   "uncertainties": [],
+   "plain_english": "Somewhere the Vedānta path and the Vedic path."
+  },
+  {
+   "verse": 3135,
+   "rows": [
+    {
+     "surface": "deśa+dharmān",
+     "gloss": "region+duties",
+     "grounds": "duties specific to regions",
+     "morph": "compound: deśa+duties; m.acc.pl"
+    },
+    {
+     "surface": "kāla+dharmān",
+     "gloss": "time+duties",
+     "grounds": "duties specific to times",
+     "morph": "compound: kāla+duties; m.acc.pl"
+    },
+    {
+     "surface": "jāti+dharmān",
+     "gloss": "birth-group+duties",
+     "grounds": "duties specific to birth groups",
+     "morph": "compound: jāti+duties; m.acc.pl"
+    },
+    {
+     "surface": "kvacit+kvacit",
+     "gloss": "here-and-there",
+     "grounds": "in various places",
+     "morph": "compound: somewhere+somewhere"
+    }
+   ],
+   "question": "What kinds of context-dependent duties vary across different places?",
+   "premises": [
+    "Duties tied to region are mentioned",
+    "Duties tied to time are mentioned",
+    "Duties tied to birth group are mentioned"
+   ],
+   "inference": "Region, time, and birth-group duties vary here and there.",
+   "uncertainties": [],
+   "plain_english": "Here and there there are duties of region, duties of time, and duties of birth group."
+  },
+  {
+   "verse": 3136,
+   "rows": [
+    {
+     "surface": "brūhi",
+     "gloss": "tell",
+     "grounds": "request for instruction",
+     "morph": "2.sg.imp.act √brū"
+    },
+    {
+     "surface": "niḥsandehā",
+     "gloss": "free-from-doubt",
+     "grounds": "state without uncertainty",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "speaker requesting clarity",
+     "morph": "1.sg.acc"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "cause to become",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "What request is made to remove doubt from the speaker?",
+   "premises": [
+    "The speaker asks to be told",
+    "The speaker asks to be made free from doubt",
+    "The request is directed to the teacher"
+   ],
+   "inference": "The speaker asks the teacher to explain and remove all doubt.",
+   "uncertainties": [],
+   "plain_english": "Tell me and make me free from doubt."
+  },
+  {
+   "verse": 3137,
+   "rows": [
+    {
+     "surface": "tat+tat+ādhikyaṃ",
+     "gloss": "each+superiority",
+     "grounds": "the relative superiority of each",
+     "morph": "compound: tat+tat+superiority; n.acc.sg"
+    },
+    {
+     "surface": "sāhaṅkāraṃ",
+     "gloss": "with-ego",
+     "grounds": "accompanied by ego-sense",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bravīmi",
+     "gloss": "I-speak",
+     "grounds": "speaker's declaration",
+     "morph": "1.sg.pres.act √brū"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to what is to be explained",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does the speaker characterize the claim of superiority among paths?",
+   "premises": [
+    "The superiority of each is mentioned",
+    "It is described as accompanied by ego",
+    "The speaker declares this"
+   ],
+   "inference": "The speaker states that claims of each path's superiority are bound up with ego.",
+   "uncertainties": [],
+   "plain_english": "I say that this claim of each one's superiority is accompanied by ego."
+  },
+  {
+   "verse": 3138,
+   "rows": [
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "pertaining to all paths or groups",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pṛṣṭaṃ",
+     "gloss": "asked",
+     "grounds": "what has been inquired about",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "truth",
+     "grounds": "essential reality or principle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bravīmi",
+     "gloss": "I-speak",
+     "grounds": "speaker's declaration",
+     "morph": "1.sg.pres.act √brū"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the truth asked about",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the speaker promise to explain regarding all paths?",
+   "premises": [
+    "A question has been asked about all",
+    "The truth is the object of inquiry",
+    "The speaker promises to state it"
+   ],
+   "inference": "The speaker promises to explain the truth asked about concerning all of them.",
+   "uncertainties": [],
+   "plain_english": "I will speak that truth which has been asked about concerning all of them."
+  },
+  {
+   "verse": 3139,
+   "rows": [
+    {
+     "surface": "kaleḥ",
+     "gloss": "of-kali-age",
+     "grounds": "the Kali era",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "daśa+sahasrāṇi",
+     "gloss": "ten+thousands",
+     "grounds": "a count of ten thousand",
+     "morph": "compound: daśa+thousands; n.nom.pl"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣāṇi",
+     "gloss": "years",
+     "grounds": "units of time",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "pass",
+     "grounds": "go by",
+     "morph": "3.pl.pres.act √yā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What temporal threshold in the Kali age is being specified?",
+   "premises": [
+    "The Kali age is the reference period",
+    "Ten thousand years are counted",
+    "The years are said to pass"
+   ],
+   "inference": "The verse specifies the passing of ten thousand years of the Kali age.",
+   "uncertainties": [],
+   "plain_english": "When ten thousand years of the Kali age pass."
+  },
+  {
+   "verse": 3140,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "should be understood",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "a particular period",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samāgataḥ",
+     "gloss": "arrived",
+     "grounds": "has come to be present",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should be understood to have arrived at that point in time?",
+   "premises": [
+    "The goddess is addressed",
+    "A time is to be known",
+    "That time is said to have arrived"
+   ],
+   "inference": "At that point, a particular time should be understood to have arrived.",
+   "uncertainties": [
+    "The specific nature of this time is defined by context."
+   ],
+   "plain_english": "O goddess, that time should be known to have arrived."
+  },
+  {
+   "verse": 3141,
+   "rows": [
+    {
+     "surface": "śāstrāṇi",
+     "gloss": "scriptures",
+     "grounds": "authoritative teachings",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānantu",
+     "gloss": "let-them-know",
+     "grounds": "injunctive to recognize",
+     "morph": "3.pl.imp.act √jñā"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "gods",
+     "grounds": "divine beings",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Who must recognize the scriptures at that appointed time?",
+   "premises": [
+    "Scriptures are the object of knowledge",
+    "The gods are the subjects",
+    "They are enjoined to know them"
+   ],
+   "inference": "The gods likewise must recognize the scriptures at that time.",
+   "uncertainties": [],
+   "plain_english": "Likewise, let the gods know the scriptures."
+  },
+  {
+   "verse": 3142,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "for that duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+mārgiṇāṃ",
+     "gloss": "of-that-path-followers",
+     "grounds": "those who follow that path",
+     "morph": "compound: tat+path-followers; m.gen.pl"
+    },
+    {
+     "surface": "saukhyam",
+     "gloss": "happiness",
+     "grounds": "well-being or ease",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "veda+mārga+udya",
+     "gloss": "vedic+path+rise",
+     "grounds": "the rise of the Vedic path",
+     "morph": "compound: veda+path+rise"
+    },
+    {
+     "surface": "kuṇṭhitaḥ",
+     "gloss": "obstructed",
+     "grounds": "blocked or hindered",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition holds for followers of that path while the Vedic path is obstructed?",
+   "premises": [
+    "Followers of that path experience happiness for a time",
+    "The rise of the Vedic path is obstructed",
+    "These conditions are temporally linked"
+   ],
+   "inference": "So long as the rise of the Vedic path is obstructed, followers of that path have happiness.",
+   "uncertainties": [
+    "The referent of tat in tat+mārgiṇāṃ depends on prior context."
+   ],
+   "plain_english": "So long, there is happiness for those on that path, while the rise of the Vedic path is obstructed."
+  },
+  {
+   "verse": 3143,
+   "rows": [
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "those people",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ānayanti",
+     "gloss": "they-lead",
+     "grounds": "bring or guide",
+     "morph": "3.pl.pres.act √nī"
+    },
+    {
+     "surface": "sve",
+     "gloss": "in-own",
+     "grounds": "belonging to themselves",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "path",
+     "grounds": "their own way",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yattat+tāvat",
+     "gloss": "as-long-as",
+     "grounds": "for as long a duration",
+     "morph": "compound: yat+tat+so-long"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "ease or well-being",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "possible or potential state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What outcome is possible while people are led onto that path?",
+   "premises": [
+    "People are led onto that path",
+    "The leading occurs for a certain duration",
+    "Happiness may arise during that time"
+   ],
+   "inference": "As long as they are led onto that path, happiness may be possible.",
+   "uncertainties": [
+    "The agent of ānayanti is not explicitly named."
+   ],
+   "plain_english": "They lead them onto their own path, so that for as long as that lasts there may be happiness."
+  },
+  {
+   "verse": 3144,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgaiḥ",
+     "gloss": "with-six-limbs",
+     "grounds": "the six auxiliary disciplines of the Veda",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "veda+artha+jñānaṃ",
+     "gloss": "veda+meaning+knowledge",
+     "grounds": "knowledge of the meaning of the Veda",
+     "morph": "compound: veda+meaning+knowledge; n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certain",
+     "grounds": "firmly established",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What makes knowledge of the Veda's meaning certain?",
+   "premises": [
+    "The six limbs are employed",
+    "Knowledge of the Veda's meaning arises",
+    "That knowledge becomes certain"
+   ],
+   "inference": "Knowledge of the meaning of the Veda becomes certain through the six limbs.",
+   "uncertainties": [],
+   "plain_english": "Through the six limbs, knowledge of the meaning of the Veda becomes certain."
+  },
+  {
+   "verse": 3145,
+   "rows": [
+    {
+     "surface": "kālamaheśasya",
+     "gloss": "of-kālamaheśa",
+     "grounds": "a form or lord associated with time",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pañca+āmnāyā",
+     "gloss": "five+traditions",
+     "grounds": "the five transmissions",
+     "morph": "compound: pañca+traditions; m.nom.pl"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker as agent",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "uditāḥ",
+     "gloss": "declared",
+     "grounds": "spoken or taught",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who declared the five traditions associated with Kālamaheśa?",
+   "premises": [
+    "Five traditions are identified",
+    "They are associated with Kālamaheśa",
+    "The speaker claims to have declared them"
+   ],
+   "inference": "The speaker declares that the five traditions of Kālamaheśa were taught by him.",
+   "uncertainties": [],
+   "plain_english": "The five traditions of Kālamaheśa have been declared by me."
+  },
+  {
+   "verse": 3146,
+   "rows": [
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "authority",
+     "grounds": "valid means of knowledge or standard",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedāḥ",
+     "gloss": "vedas",
+     "grounds": "the Vedic scriptures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "should be or are",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "tat+aṃśāḥ",
+     "gloss": "their+parts",
+     "grounds": "portions derived from them",
+     "morph": "compound: tat+parts; m.nom.pl"
+    },
+    {
+     "surface": "smṛtayaḥ",
+     "gloss": "smṛtis",
+     "grounds": "remembered traditional texts",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What textual sources are established as authoritative and derivative?",
+   "premises": [
+    "The Vedas are declared authoritative",
+    "The smṛtis are parts of them",
+    "The smṛtis share that status likewise"
+   ],
+   "inference": "The Vedas are authoritative, and the smṛtis, as their parts, are likewise authoritative.",
+   "uncertainties": [],
+   "plain_english": "The Vedas are the authority, and likewise the smṛtis are their parts."
+  },
+  {
+   "verse": 3147,
+   "rows": [
+    {
+     "surface": "vayaṃ",
+     "gloss": "we",
+     "grounds": "speaker's group or tradition",
+     "morph": "1.pl.nom"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative reference to a person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vācam",
+     "gloss": "speech",
+     "grounds": "uttered word",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "sense or purport",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anudhāvati",
+     "gloss": "follows",
+     "grounds": "runs after or conforms to",
+     "morph": "3.sg.pres.act √dhāv"
+    }
+   ],
+   "question": "Whose speech is characterized by meaning that follows it?",
+   "premises": [
+    "A person's speech is mentioned",
+    "Meaning follows that speech",
+    "The speaker identifies with this standard"
+   ],
+   "inference": "The verse characterizes an authoritative speaker whose meaning follows their speech.",
+   "uncertainties": [
+    "The sentence is elliptical and may continue in context."
+   ],
+   "plain_english": "We are those whose meaning follows the speech of whom."
+  },
+  {
+   "verse": 3148,
+   "rows": [
+    {
+     "surface": "lakṣaṇe",
+     "gloss": "by-characteristic",
+     "grounds": "by defining mark",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sva+ācārāt",
+     "gloss": "by-own-conduct",
+     "grounds": "through one's own proper conduct",
+     "morph": "compound: sva+conduct; m.abl.sg"
+    },
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brahmin",
+     "grounds": "member of the brahmin class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "By what criterion does one become a brahmin according to this teaching?",
+   "premises": [
+    "A defining characteristic is invoked",
+    "One's own conduct is the basis",
+    "Becoming a brahmin is the result"
+   ],
+   "inference": "One becomes a brahmin by characteristic and by one's own conduct.",
+   "uncertainties": [],
+   "plain_english": "O goddess, by characteristic and by one's own conduct one becomes a brahmin."
+  },
+  {
+   "verse": 3149,
+   "rows": [
+    {
+     "surface": "catur+lakṣaṇa+hīnānāṃ",
+     "gloss": "of-those-lacking-four-marks",
+     "grounds": "those devoid of four defining characteristics",
+     "morph": "compound: catur+characteristic+devoid; m.gen.pl"
+    },
+    {
+     "surface": "mārgāḥ",
+     "gloss": "paths",
+     "grounds": "spiritual or doctrinal ways",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "will-be",
+     "grounds": "are or would be",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "kaulika+ādayaḥ",
+     "gloss": "kaula+and-others",
+     "grounds": "the Kaula path and similar ones",
+     "morph": "compound: kaulika+beginning-with; m.nom.pl"
+    }
+   ],
+   "question": "Which paths are assigned to those lacking the four defining characteristics?",
+   "premises": [
+    "Some people lack four defining characteristics",
+    "Certain paths are assigned to them",
+    "The Kaula and others are named"
+   ],
+   "inference": "For those lacking the four characteristics, the paths are the Kaula and others.",
+   "uncertainties": [
+    "The four characteristics are not enumerated in this verse."
+   ],
+   "plain_english": "For those devoid of the four characteristics, the paths will be the Kaula and others."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p288",
+ "items": [
+  {
+   "verse": 7200,
+   "rows": [
+    {
+     "surface": "tilaṃ",
+     "gloss": "sesame",
+     "grounds": "object of offering; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāragrayaṃ",
+     "gloss": "bhāra-measure",
+     "grounds": "quantity of sesame to be offered; compound analyzed as fused form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the context of the supreme gift described previously",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-deposit",
+     "grounds": "prescriptive injunction for the act of offering",
+     "morph": "3.sg.opt.act (√kṣip+ni)"
+    },
+    {
+     "surface": "daśabījataḥ",
+     "gloss": "from-ten-seeds",
+     "grounds": "indicates the source or origin of the sesame; compound daśa-bīja with ablative suffix",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific quantity and source of sesame are required for that supreme gift?",
+   "premises": [
+    "A bhāra-measure of sesame is specified as the offering.",
+    "The sesame must be deposited in that prescribed context.",
+    "The sesame offering originates from ten seeds."
+   ],
+   "inference": "Therefore the prescribed supreme gift requires depositing a bhāra-measure of sesame derived from ten seeds.",
+   "uncertainties": [
+    "The exact sense of bhāragrayaṃ as a measure or compound member is not fully certain."
+   ],
+   "plain_english": "There one should deposit a bhāra-measure of sesame produced from ten seeds."
+  }
+ ]
+}

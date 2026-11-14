@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "kumbhaṃ",
+     "gloss": "pot",
+     "grounds": "ritual vessel object; legacy hint: pot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle; legacy hint: ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanī+yuktaṃ",
+     "gloss": "sprinkler-equipped",
+     "grounds": "compound describing the pot as joined with a vardhanī sprinkler; legacy hint: with-sprinkler",
+     "morph": "compound: vardhanī+ yukta (m.acc.sg)"
+    },
+    {
+     "surface": "kalaśaiḥ+āvṛtaṃ",
+     "gloss": "vessels-surrounded",
+     "grounds": "compound describing the pot as covered or surrounded by kalaśa vessels; legacy hint: with-vessels",
+     "morph": "compound: kalaśa+ āvṛta (m.acc.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle presenting an alternative; legacy hint: na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking option; legacy hint: vā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Must the protective rite include a pot equipped with a sprinkler and surrounded by vessels?",
+   "premises": [
+    "The preceding context prescribes performing and protecting a rite in a disturbed region.",
+    "A pot equipped with a sprinkler and surrounded by vessels is mentioned as a possible arrangement.",
+    "The particles 'na vā' indicate that this arrangement is presented as optional."
+   ],
+   "inference": "The rite may be performed either with a pot equipped with a sprinkler and surrounded by vessels, or without such an arrangement.",
+   "uncertainties": [
+    "The exact ritual function of the vardhanī and surrounding kalaśas in this specific context is not fully specified."
+   ],
+   "plain_english": "And one may use a pot equipped with a sprinkler and surrounded by vessels, or not."
+  }
+ ]
+}

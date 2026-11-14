@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p366",
+ "items": [
+  {
+   "verse": 9150,
+   "rows": [
+    {
+     "surface": "gaṇeśaṃ",
+     "gloss": "gaṇeśa",
+     "grounds": "name of the deity Gaṇeśa, object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "baṭukaṃ",
+     "gloss": "baṭuka",
+     "grounds": "name of the deity Baṭuka, object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking listed deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginīḥ",
+     "gloss": "yoginīs",
+     "grounds": "group of attendant goddesses included in worship",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kṣetra+pālakam",
+     "gloss": "field-guardian",
+     "grounds": "compound naming the guardian deity Kṣetrapālaka",
+     "morph": "kṣetra+pālaka (tatpuruṣa), m.acc.sg"
+    }
+   ],
+   "question": "Which attendant deities must be worshipped alongside the invoked goddess?",
+   "premises": [
+    "The preceding context prescribes invoking and worshipping the goddess with offerings.",
+    "Gaṇeśa and Baṭuka are named as objects of worship.",
+    "The Yoginīs and the field-guardian are also included."
+   ],
+   "inference": "The ritual worship of the goddess includes Gaṇeśa, Baṭuka, the Yoginīs, and Kṣetrapālaka as attendant deities.",
+   "uncertainties": [
+    "The governing verb of worship is supplied from the preceding verse."
+   ],
+   "plain_english": "One should also worship Gaṇeśa, Baṭuka, the Yoginīs, and Kṣetrapālaka."
+  }
+ ]
+}

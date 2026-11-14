@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle marking the preceding summary",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "in-brief",
+     "grounds": "adverb expressing concise statement",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "is-said",
+     "grounds": "passive participle from pra-vac",
+     "morph": "3.sg.pass-participle"
+    },
+    {
+     "surface": "kimanyat",
+     "gloss": "what-else",
+     "grounds": "interrogative asking for any remaining teaching",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive of śru",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "do-you-wish",
+     "grounds": "second-person singular present of iṣ",
+     "morph": "2.sg.act-pres"
+    }
+   ],
+   "question": "What further teaching does the disciple wish to hear after this brief summary?",
+   "premises": [
+    "The speaker has summarized teachings briefly.",
+    "The listener is invited to request more.",
+    "The exchange remains open-ended."
+   ],
+   "inference": "The verse closes the summary and prompts further inquiry.",
+   "uncertainties": [
+    "The exact referent of the summarized teaching is not specified in this verse."
+   ],
+   "plain_english": "Thus it has been said in brief; what else do you wish to hear?"
+  }
+ ]
+}

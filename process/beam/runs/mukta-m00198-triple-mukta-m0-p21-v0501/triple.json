@@ -1,0 +1,963 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "staṃbhotsedhayugāṃśe",
+     "gloss": "pillar-height-pair-part",
+     "grounds": "compound indicating a half part of the pillar height",
+     "morph": "compound: staṃbha+utsedha+yuga+aṃśa (m.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "measure of two parts",
+     "morph": "compound: dvi+bhāga (m.acc.sg)"
+    },
+    {
+     "surface": "caraṇāyatam",
+     "gloss": "foot-length",
+     "grounds": "length or extent of the foot/base",
+     "morph": "compound: caraṇa+āyata (n.nom.sg)"
+    }
+   ],
+   "question": "What proportion of pillar height determines the foot length in this design?",
+   "premises": [
+    "The pillar height is divided into paired parts",
+    "Two parts are taken as the measure",
+    "This measure defines the foot length"
+   ],
+   "inference": "The foot length is set as two parts of half the pillar height.",
+   "uncertainties": [
+    "Exact interpretation of yugāṃśe as half-part is inferred from context"
+   ],
+   "plain_english": "Taking a half-part division of the pillar height, the foot length should be two parts."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "refers back to the previously stated measure",
+     "morph": "compound: tad+eva (n.nom.sg)"
+    },
+    {
+     "surface": "kūṭamānaṃ",
+     "gloss": "peak-measure",
+     "grounds": "measurement of the peak or summit",
+     "morph": "compound: kūṭa+māna (n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattaduktāvasānayet",
+     "gloss": "end-as-stated",
+     "grounds": "should conclude according to what has been stated",
+     "morph": "3.sg.opt.act (√so with ava, causative sense)"
+    }
+   ],
+   "question": "How should the peak measure be finalized according to prior instructions?",
+   "premises": [
+    "The same measure applies to the peak",
+    "Prior statements provide the rule",
+    "The measure must be concluded accordingly"
+   ],
+   "inference": "The peak measure should be completed in accordance with the previously stated specifications.",
+   "uncertainties": [
+    "The exact verbal root analysis of avasānayet is approximate"
+   ],
+   "plain_english": "That same measure is the peak measure, and one should conclude it as previously stated."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "vṛtta",
+     "gloss": "circular",
+     "grounds": "describes a round form",
+     "morph": "compound member: vṛtta"
+    },
+    {
+     "surface": "shuṭitamevaṃ",
+     "gloss": "clear-thus",
+     "grounds": "a clearly defined form made in this way",
+     "morph": "compound: shuṭita+evam (n.nom.sg)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "latāmaṃḍalamaṇḍitam",
+     "gloss": "adorned-with-creeper-circle",
+     "grounds": "decorated with circular creeper motifs",
+     "morph": "compound: latā+maṃḍala+maṇḍita (n.nom.sg)"
+    }
+   ],
+   "question": "What decorative form characterizes the circular clear design described here?",
+   "premises": [
+    "The design is circular and clearly formed",
+    "It is made in the stated manner",
+    "It is adorned with creeper circles"
+   ],
+   "inference": "The circular clear design is distinguished by ornamentation of creeper circles.",
+   "uncertainties": [
+    "shuṭita is taken as a technical term for a clear or finished form"
+   ],
+   "plain_english": "Thus the circular clear form is indeed adorned with circles of creepers."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "vṛttākhya",
+     "gloss": "called-circular",
+     "grounds": "named as the circular type",
+     "morph": "compound: vṛtta+ākhya"
+    },
+    {
+     "surface": "sphuṭitaṃ",
+     "gloss": "clear-form",
+     "grounds": "the clearly defined architectural element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hārāntareṣu",
+     "gloss": "in-garland-intervals",
+     "grounds": "in the spaces between garland bands",
+     "morph": "compound: hāra+antara (n.loc.pl)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "prescribes placement or construction",
+     "morph": "3.sg.opt.act (√kḷp)"
+    }
+   ],
+   "question": "Where should the circular clear form be arranged within the structure?",
+   "premises": [
+    "The element is called the circular clear form",
+    "Intervals between garland bands are specified",
+    "The arrangement is prescribed"
+   ],
+   "inference": "The circular clear form should be placed in the intervals between garland bands.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the so-called circular clear form in the intervals between the garland bands."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "colophon locating the statement in the Aṃśumān Kāśyapa text",
+     "morph": "compound: iti+aṃśumān+kāśyapa (m.loc.sg)"
+    },
+    {
+     "surface": "vṛttasphuṭita",
+     "gloss": "circular-clear",
+     "grounds": "topic of the chapter",
+     "morph": "compound: vṛtta+sphuṭita"
+    },
+    {
+     "surface": "lakṣaṇapaṭalaḥ",
+     "gloss": "characteristics-chapter",
+     "grounds": "section dealing with defining features",
+     "morph": "compound: lakṣaṇa+paṭala (m.nom.sg)"
+    },
+    {
+     "surface": "paṃcadaśa",
+     "gloss": "fifteen",
+     "grounds": "chapter number",
+     "morph": "numeral"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa text concludes with this section?",
+   "premises": [
+    "The text is identified as Aṃśumān Kāśyapa",
+    "The topic is the circular clear form",
+    "The section is numbered fifteen"
+   ],
+   "inference": "This marks the fifteenth chapter on the characteristics of the circular clear form in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the fifteenth chapter on the characteristics of the circular clear form in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "pādoccaṃ",
+     "gloss": "foot-height",
+     "grounds": "height of the base or foot",
+     "morph": "compound: pāda+ucca (n.acc.sg)"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "division into ten parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajya",
+     "gloss": "having-divided",
+     "grounds": "after dividing the measure",
+     "morph": "absolutive (√bhaj)"
+    },
+    {
+     "surface": "śuddhadvāraṃ",
+     "gloss": "pure-door",
+     "grounds": "the clear or net door opening",
+     "morph": "compound: śuddha+dvāra (n.nom.sg)"
+    },
+    {
+     "surface": "navāṃśakam",
+     "gloss": "nine-part",
+     "grounds": "measure of nine parts",
+     "morph": "compound: nava+aṃśaka (n.nom.sg)"
+    }
+   ],
+   "question": "How many parts of the divided foot height constitute the pure door?",
+   "premises": [
+    "The foot height is divided tenfold",
+    "The pure door is measured from these parts",
+    "Nine parts are assigned to it"
+   ],
+   "inference": "The pure door should measure nine parts when the foot height is divided into ten.",
+   "uncertainties": [],
+   "plain_english": "Dividing the foot height into ten parts, the pure door should be nine parts."
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "athavāṃ",
+     "gloss": "or",
+     "grounds": "introduces an alternative rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghrikatuṃgaṃ",
+     "gloss": "base-height",
+     "grounds": "height of the base element",
+     "morph": "compound: ghrika+tuṃga (n.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasubhāgavibhājite",
+     "gloss": "divided-into-eight-parts",
+     "grounds": "when divided into eight portions",
+     "morph": "compound: vasu+bhāga+vibhājita (n.loc.sg)"
+    }
+   ],
+   "question": "What alternative division of the base height is proposed for measurement?",
+   "premises": [
+    "An alternative method is introduced",
+    "The base height is the object of division",
+    "It may be divided into eight parts"
+   ],
+   "inference": "Alternatively, the base height may be divided into eight parts.",
+   "uncertainties": [
+    "ghrika is interpreted as a base element based on legacy hint"
+   ],
+   "plain_english": "Or alternatively, the base height may be divided into eight parts."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "sārdhavahnyaṃśamūrdhve",
+     "gloss": "above-one-and-half-fire-part",
+     "grounds": "above a measure of one and a half parts of three",
+     "morph": "compound: sa+ardha+vahni+aṃśa+ūrdhva (n.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvaṃgasyocchrayaṃ",
+     "gloss": "serpent-height",
+     "grounds": "height of the serpent element",
+     "morph": "compound: bhuvaṃga+ucchraya (m.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescribes the resulting measure",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What height should the serpent element have in the eight-part division?",
+   "premises": [
+    "The division yields parts including a fire-number portion",
+    "One and a half such parts are taken above",
+    "This determines the serpent height"
+   ],
+   "inference": "The height of the serpent element should be one and a half parts above.",
+   "uncertainties": [
+    "vahni is taken to mean three as a conventional numeric symbol"
+   ],
+   "plain_english": "Above that, the height of the serpent element should be one and a half parts."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "śuddhadvārasya",
+     "gloss": "of-pure-door",
+     "grounds": "refers to the pure door measure",
+     "morph": "compound: śuddha+dvāra (n.gen.sg)"
+    },
+    {
+     "surface": "tuṃgārdhaṃ",
+     "gloss": "half-height",
+     "grounds": "half of the height",
+     "morph": "compound: tuṃga+ardha (n.nom.sg)"
+    },
+    {
+     "surface": "śuddhadvārasya",
+     "gloss": "of-pure-door",
+     "grounds": "refers again to the pure door",
+     "morph": "compound: śuddha+dvāra (n.gen.sg)"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "width",
+     "grounds": "the breadth or spread",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is prescribed for the pure door relative to its height?",
+   "premises": [
+    "The pure door has a defined height",
+    "Half of that height is taken as a measure",
+    "This measure gives the width"
+   ],
+   "inference": "The width of the pure door should be half its height.",
+   "uncertainties": [
+    "Repetition of śuddhadvārasya may be emphatic or textual"
+   ],
+   "plain_english": "The width of the pure door should be half the height of the pure door."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "tuṃgārdhādadhikaṃ",
+     "gloss": "more-than-half-height",
+     "grounds": "greater than half the height",
+     "morph": "compound: tuṃga+ardha+adhika (n.nom.sg)"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "less",
+     "grounds": "or less than that measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāramekona",
+     "gloss": "width-less-by-one",
+     "grounds": "width reduced by one part",
+     "morph": "compound: tāra+eka+ūna (n.nom.sg)"
+    },
+    {
+     "surface": "viṃśati",
+     "gloss": "twenty",
+     "grounds": "division into twenty parts",
+     "morph": "numeral"
+    }
+   ],
+   "question": "What allowable variation in door width is specified relative to half its height?",
+   "premises": [
+    "Half the height is the baseline width",
+    "The width may be more or less",
+    "The variation is measured in twentieths less one"
+   ],
+   "inference": "The door width may be more or less than half the height, adjusted by one part in twenty.",
+   "uncertainties": [
+    "The exact arithmetic of ekona viṃśati is contextually interpreted"
+   ],
+   "plain_english": "The width may be more or less than half the height, by one part in twenty."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "sarveṣāmapi",
+     "gloss": "of-all-even",
+     "grounds": "inclusive reference to all cases",
+     "morph": "compound: sarva+eṣām+api (m.gen.pl)"
+    },
+    {
+     "surface": "harmyāṇāṃ",
+     "gloss": "of-palaces",
+     "grounds": "buildings or mansions",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "the doorway",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-place",
+     "grounds": "prescribes placement",
+     "morph": "3.sg.opt.act (√yuj)"
+    }
+   ],
+   "question": "Where must the door be placed in all types of palace structures?",
+   "premises": [
+    "The rule applies to all palaces",
+    "The door is the element to be placed",
+    "The middle position is specified"
+   ],
+   "inference": "In all palaces, the door should be placed in the middle.",
+   "uncertainties": [],
+   "plain_english": "For all palaces, one should place the door in the middle."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "dvārayogasya",
+     "gloss": "of-door-frame",
+     "grounds": "the joined door structure",
+     "morph": "compound: dvāra+yoga (m.gen.sg)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "breadth of the frame",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tasyārdhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of that width",
+     "morph": "compound: tad+ardha (n.nom.sg)"
+    },
+    {
+     "surface": "dhanamucyate",
+     "gloss": "called-thickness",
+     "grounds": "is termed the thickness or depth",
+     "morph": "compound: dhana+ucyate (3.sg.pass.pres.ind √vac)"
+    }
+   ],
+   "question": "How is the thickness of the door frame determined from its width?",
+   "premises": [
+    "The door frame has a defined width",
+    "Half of that width is taken",
+    "That half is called the thickness"
+   ],
+   "inference": "The thickness of the door frame is defined as half its width.",
+   "uncertainties": [
+    "dhana is interpreted as thickness or depth in this architectural context"
+   ],
+   "plain_english": "Half the width of the door frame is called its thickness."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "yoga",
+     "gloss": "frame",
+     "grounds": "the door frame element",
+     "morph": "compound member: yoga"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "height of the frame",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśe",
+     "gloss": "in-four-parts",
+     "grounds": "when divided into four parts",
+     "morph": "compound: veda+aṃśa (m.loc.sg)"
+    },
+    {
+     "surface": "tyekāṃśāśramayogatam",
+     "gloss": "reaching-three-parts-plus-one",
+     "grounds": "extending to three parts and one additional part",
+     "morph": "compound: tri+eka+aṃśa+āśrama+yoga+gata (n.nom.sg)"
+    }
+   ],
+   "question": "What proportional height is assigned to the door frame when divided into four parts?",
+   "premises": [
+    "The frame height is divided into four parts",
+    "A specific portion of these parts is taken",
+    "The measure reaches three parts plus one"
+   ],
+   "inference": "The door frame height should extend to three parts plus one when divided into four.",
+   "uncertainties": [
+    "The compound tyekāṃśāśramayogatam is difficult and interpreted tentatively"
+   ],
+   "plain_english": "The height of the frame, divided into four parts, should extend to three parts plus one."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "bāhyābjaṃ",
+     "gloss": "outer-lotus",
+     "grounds": "the outer lotus element",
+     "morph": "compound: bāhya+abja (n.nom.sg)"
+    },
+    {
+     "surface": "kṣepaṇopetaṃ",
+     "gloss": "with-projection",
+     "grounds": "provided with a projecting part",
+     "morph": "compound: kṣepaṇa+upeta (n.nom.sg)"
+    },
+    {
+     "surface": "bhuvaṃgatāraṃ",
+     "gloss": "serpent-width",
+     "grounds": "width related to the serpent element",
+     "morph": "compound: bhuvaṃga+tāra (n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogavat",
+     "gloss": "like-frame",
+     "grounds": "in the same manner as the frame",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the outer lotus and serpent width be proportioned relative to the frame?",
+   "premises": [
+    "The outer lotus includes a projection",
+    "The serpent width is specified",
+    "Both follow the frame proportion"
+   ],
+   "inference": "The outer lotus with projection and the serpent width should be made like the frame.",
+   "uncertainties": [],
+   "plain_english": "The outer lotus with its projection and the serpent width should be made like the frame."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "bhuvaṃgaṃ",
+     "gloss": "serpent",
+     "grounds": "the serpent element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pataṃgaṃ",
+     "gloss": "bird",
+     "grounds": "the bird element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyastha",
+     "gloss": "middle-placed",
+     "grounds": "situated in the middle",
+     "morph": "compound: madhya+stha"
+    },
+    {
+     "surface": "balayānvitam",
+     "gloss": "with-band",
+     "grounds": "provided with a surrounding band",
+     "morph": "compound: balaya+anvita (n.acc.sg)"
+    }
+   ],
+   "question": "What additional elements accompany the serpent and bird in the middle position?",
+   "premises": [
+    "The serpent and bird elements are included",
+    "They are placed in the middle",
+    "A band accompanies them"
+   ],
+   "inference": "The serpent and bird, placed in the middle, should be accompanied by a band.",
+   "uncertainties": [
+    "balaya is interpreted as a band or bracelet-like molding"
+   ],
+   "plain_english": "The serpent and the bird, placed in the middle, should be provided with a band."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "tadvistāratribhāgaika",
+     "gloss": "one-third-of-that-width",
+     "grounds": "one part out of three of that width",
+     "morph": "compound: tad+vistāra+tri+bhāga+eka"
+    },
+    {
+     "surface": "śikhāyoge",
+     "gloss": "in-crest-joint",
+     "grounds": "at the junction of the crest",
+     "morph": "compound: śikhā+yoga (m.loc.sg)"
+    },
+    {
+     "surface": "praveśitau",
+     "gloss": "inserted",
+     "grounds": "made to enter or be fitted in",
+     "morph": "m.nom.du.past-passive-participle (√viś with pra)"
+    }
+   ],
+   "question": "How much of the width is inserted at the crest joint for these elements?",
+   "premises": [
+    "The width is divided into three parts",
+    "One part is taken for insertion",
+    "The insertion occurs at the crest joint"
+   ],
+   "inference": "One third of that width should be inserted at the crest joint.",
+   "uncertainties": [],
+   "plain_english": "One third of that width should be inserted at the crest joint."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "bhuvaṃgapataṃgayocchidraragrayorveśanānvitau",
+     "gloss": "fitted-at-serpent-bird-hole-tips",
+     "grounds": "provided with insertion at the tips of the openings of serpent and bird elements",
+     "morph": "compound: bhuvaṃga+pataṃga+chidra+agra+veśana+anvita (m.nom.du)"
+    }
+   ],
+   "question": "Where are the serpent and bird elements fitted in relation to their openings?",
+   "premises": [
+    "Serpent and bird elements have openings",
+    "The tips of these openings are specified",
+    "Insertion is provided at those tips"
+   ],
+   "inference": "The serpent and bird elements are fitted with insertion at the tips of their openings.",
+   "uncertainties": [
+    "The long compound allows multiple technical readings"
+   ],
+   "plain_english": "They are fitted with insertion at the tips of the openings of the serpent and bird elements."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "sunakṣatre",
+     "gloss": "in-good-constellation",
+     "grounds": "at an auspicious lunar mansion",
+     "morph": "compound: su+nakṣatra (n.loc.sg)"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "in-auspicious",
+     "grounds": "favorable time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāre",
+     "gloss": "on-day",
+     "grounds": "on a suitable weekday",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śubhahomamuhūrtake",
+     "gloss": "in-auspicious-offering-moment",
+     "grounds": "at a favorable moment for oblation",
+     "morph": "compound: śubha+homa+muhūrtaka (n.loc.sg)"
+    }
+   ],
+   "question": "What auspicious timing is required for performing the associated ritual action?",
+   "premises": [
+    "A good constellation is required",
+    "An auspicious day is required",
+    "An auspicious moment for oblation is required"
+   ],
+   "inference": "The action should be performed under a good constellation, on an auspicious day, and at a favorable oblation moment.",
+   "uncertainties": [],
+   "plain_english": "This should be done under a good constellation, on an auspicious day, and at an auspicious moment for oblation."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "bhittivyāse",
+     "gloss": "in-wall-thickness",
+     "grounds": "in the breadth of the wall",
+     "morph": "compound: bhitti+vyāsa (m.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāṃśe",
+     "gloss": "in-five-parts",
+     "grounds": "when divided into five parts",
+     "morph": "compound: pañcan+aṃśa (m.loc.sg)"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "using two parts",
+     "morph": "numeral (m/n.inst.du)"
+    },
+    {
+     "surface": "paṃcāvasānakam",
+     "gloss": "ending-in-five",
+     "grounds": "a measure concluded in relation to five parts",
+     "morph": "compound: pañcan+avasānaka (n.nom.sg)"
+    }
+   ],
+   "question": "How is the wall thickness divided to determine the specified measure?",
+   "premises": [
+    "The wall thickness is divided into five parts",
+    "Two parts are taken",
+    "The measure is concluded accordingly"
+   ],
+   "inference": "When the wall thickness is divided into five parts, two parts determine the specified measure.",
+   "uncertainties": [
+    "The technical meaning of paṃcāvasānakam is uncertain"
+   ],
+   "plain_english": "Dividing the wall thickness into five parts, take two parts as the specified measure."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "tadbāhye'bhyantare",
+     "gloss": "on-its-outer-and-inner",
+     "grounds": "on the outside and inside of that",
+     "morph": "compound: tad+bāhya+abhyantara (n.loc.sg)"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogavyāso",
+     "gloss": "frame-width",
+     "grounds": "breadth of the frame",
+     "morph": "compound: yoga+vyāsa (m.nom.sg)"
+    },
+    {
+     "surface": "gatāśritam",
+     "gloss": "placed-according",
+     "grounds": "set in accordance with that position",
+     "morph": "compound: gata+āśrita (n.nom.sg)"
+    }
+   ],
+   "question": "How is the frame width positioned on the outer and inner sides?",
+   "premises": [
+    "Both outer and inner sides are considered",
+    "The frame width is the element placed",
+    "Its placement follows that arrangement"
+   ],
+   "inference": "The frame width should be placed accordingly on both the outer and inner sides.",
+   "uncertainties": [],
+   "plain_english": "On its outer and inner sides, the frame width should be placed accordingly."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "referring to two sides",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-sides",
+     "grounds": "on the lateral sides",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "behind",
+     "grounds": "at the back",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavāṭe",
+     "gloss": "door-panels",
+     "grounds": "the door leaves",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "yogamāśritau",
+     "gloss": "resting-on-frame",
+     "grounds": "supported by the frame",
+     "morph": "compound: yoga+āśrita (m.nom.du)"
+    }
+   ],
+   "question": "How are the door panels supported on both sides and at the back?",
+   "premises": [
+    "Both sides and the back are involved",
+    "Door panels are the elements placed",
+    "They rest upon the frame"
+   ],
+   "inference": "The door panels on both sides and at the back should rest upon the frame.",
+   "uncertainties": [],
+   "plain_english": "On both sides and at the back, the door panels should rest upon the frame."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "antassaradamairvipra",
+     "gloss": "inside-with-autumn-wood-o-priest",
+     "grounds": "vocative address and specification of inner wood",
+     "morph": "compound: antar+sarada+maya+vipra (m.voc.sg)"
+    },
+    {
+     "surface": "kaṃvāṭaṃ",
+     "gloss": "door-panel",
+     "grounds": "the door leaf",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛḍhīkṛtam",
+     "gloss": "made-firm",
+     "grounds": "strengthened",
+     "morph": "compound: dṛḍhī+kṛta (n.nom.sg)"
+    }
+   ],
+   "question": "How should the inner door panel be strengthened according to the instruction?",
+   "premises": [
+    "The instruction addresses a priest",
+    "The inner door panel is specified",
+    "It is made firm with suitable wood"
+   ],
+   "inference": "The inner door panel should be strengthened with autumn-seasoned wood.",
+   "uncertainties": [
+    "saradamai is interpreted as made of autumn-seasoned or strong wood"
+   ],
+   "plain_english": "O priest, the inner door panel should be made firm with strong seasoned wood."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "snigdhasāradrumai",
+     "gloss": "with-smooth-heartwood-trees",
+     "grounds": "using trees with smooth, strong heartwood",
+     "morph": "compound: snigdha+sāra+druma (m.inst.pl)"
+    },
+    {
+     "surface": "bāhyābhyantare",
+     "gloss": "outer-and-inner",
+     "grounds": "on the outside and inside",
+     "morph": "compound: bāhya+abhyantara (n.loc.sg)"
+    },
+    {
+     "surface": "yaṣṭibandhitau",
+     "gloss": "bound-with-bars",
+     "grounds": "fastened with rods or bars",
+     "morph": "compound: yaṣṭi+bandhita (m.nom.du)"
+    }
+   ],
+   "question": "What material and method secure the outer and inner door panels?",
+   "premises": [
+    "Smooth heartwood trees are used",
+    "Both outer and inner sides are involved",
+    "The panels are bound with bars"
+   ],
+   "inference": "The outer and inner panels should be bound with bars made of smooth heartwood.",
+   "uncertainties": [],
+   "plain_english": "On the outer and inner sides, they should be bound with bars made of smooth heartwood."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "paṃcasaptadaśaivātha",
+     "gloss": "five-or-seventeen-then",
+     "grounds": "alternatively five or seventeen in number",
+     "morph": "compound: pañcan+saptadaśa+eva+atha"
+    },
+    {
+     "surface": "yaṣṭisaṃkhyaikapārśvakam",
+     "gloss": "bar-count-on-one-side",
+     "grounds": "the number of bars on one side",
+     "morph": "compound: yaṣṭi+saṃkhyā+eka+pārśvaka (n.nom.sg)"
+    }
+   ],
+   "question": "How many bars should be placed on one side of the door panel?",
+   "premises": [
+    "The count of bars is specified",
+    "The count applies to one side",
+    "Two alternative numbers are given"
+   ],
+   "inference": "One side of the door panel should have either five or seventeen bars.",
+   "uncertainties": [
+    "The compound paṃcasaptadaśaivātha is read as offering two alternative counts"
+   ],
+   "plain_english": "On one side, the number of bars should be either five or seventeen."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3425,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating the same manner as the preceding instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+loha+aśma+tale",
+     "gloss": "on-three-metal-stone-surface",
+     "grounds": "compound of tri (three), loha (metal), aśma (stone), and tala (surface); locative singular neuter",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ, indicating a completed action before the main verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajraṃ",
+     "gloss": "thunderbolt",
+     "grounds": "accusative singular masculine object of kṛtvā",
+     "morph": "acc.sg.m."
+    },
+    {
+     "surface": "su+vistṛtam",
+     "gloss": "very-extensive",
+     "grounds": "compound of su (very) and vistṛta (extensive), modifying vajraṃ",
+     "morph": "acc.sg.m."
+    }
+   ],
+   "question": "On what kind of surface should the practitioner make the very extensive thunderbolt in this rite?",
+   "premises": [
+    "The instruction follows the preceding rite.",
+    "The thunderbolt is made on a three-metal-and-stone surface.",
+    "The thunderbolt is made very extensive."
+   ],
+   "inference": "The rite requires fashioning an extensive thunderbolt on a composite metal-and-stone surface.",
+   "uncertainties": [
+    "The exact ritual function of the thunderbolt is not stated in this verse."
+   ],
+   "plain_english": "Likewise, having made a very extensive thunderbolt on a surface of three metals and stone."
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "song": "vij-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "svadehe",
+     "gloss": "in-own-body",
+     "grounds": "locative of svadeha",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "jagato",
+     "gloss": "of-world",
+     "grounds": "genitive of jagat",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkṣmasūkṣmatarāṇi",
+     "gloss": "subtle-and-subtler",
+     "grounds": "compound adjective in accusative plural neuter",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one contemplate subtle and subtler things in body or world?",
+   "premises": [
+    "subtle things are contemplated",
+    "body or world are loci",
+    "and connects the options"
+   ],
+   "inference": "the practice directs contemplation toward subtle realities in one's own body or the world",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "In one's own body or in the world, one should contemplate subtle and subtler things."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "pīnāṃ",
+     "gloss": "powerful",
+     "grounds": "genitive plural adjective",
+     "morph": "adj.gen.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durlabhāṃ",
+     "gloss": "rare",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "indeclinable compound particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "verb.abs.root-dhyā"
+    },
+    {
+     "surface": "dvādaśagocare",
+     "gloss": "in-twelve-spheres",
+     "grounds": "locative singular of compound",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What should be meditated upon in the twelve spheres?",
+   "premises": [
+    "powerful and rare things are named",
+    "meditation precedes contemplation",
+    "twelve spheres are the field"
+   ],
+   "inference": "one meditates on powerful and rare realities within the twelve spheres",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Having meditated on powerful and rare things, one contemplates them in the twelve spheres."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "bhuvanatvādi",
+     "gloss": "as-worldhood-etc",
+     "grounds": "compound beginning with bhuvanatva",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "in-form",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative third singular active of cint",
+     "morph": "verb.3sg.opt.act.root-cint"
+    },
+    {
+     "surface": "tapasokhilam",
+     "gloss": "all-austerities",
+     "grounds": "fused form treated as accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How should all austerities be contemplated in worldhood form?",
+   "premises": [
+    "worldhood and related forms are named",
+    "contemplation is prescribed",
+    "all austerities are included"
+   ],
+   "inference": "one contemplates all austerities in the form of worldhood and related states",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One should contemplate all austerities in the form of worldhood and so on."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive singular pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive singular adjective",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "genitive singular noun",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "paryanteṣu",
+     "gloss": "at-boundaries",
+     "grounds": "locative plural neuter",
+     "morph": "n.loc.pl.n"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "all-around",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should one contemplate this whole universe?",
+   "premises": [
+    "this all and universe are genitive",
+    "boundaries are the place",
+    "all around qualifies the field"
+   ],
+   "inference": "one contemplates this entire universe at its boundaries all around",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One contemplates this entire universe at its boundaries all around."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "viśvam",
+     "gloss": "this-universe",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "śūnyabhūtaṃ",
+     "gloss": "become-void",
+     "grounds": "accusative singular neuter participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative third singular active of vicint",
+     "morph": "verb.3sg.opt.act.root-vicint"
+    }
+   ],
+   "question": "What should one contemplate as void, O great goddess?",
+   "premises": [
+    "the universe is the object",
+    "void-become is the state",
+    "contemplation is prescribed"
+   ],
+   "inference": "one contemplates this universe as having become void",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "O great goddess, one should contemplate this universe as become void."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "nirvṛkṣagiribhittyādi",
+     "gloss": "treeless-mountain-wall-etc",
+     "grounds": "compound accusative singular neuter",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-place",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dṛṣṭiṃ",
+     "gloss": "gaze",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "optative third singular active of vinikṣip",
+     "morph": "verb.3sg.opt.act.root-vinikṣip"
+    }
+   ],
+   "question": "Where should one cast the gaze in a treeless place?",
+   "premises": [
+    "treeless mountain wall and so on are named",
+    "place is the locus",
+    "gaze is to be cast"
+   ],
+   "inference": "one casts the gaze in a place without trees, mountains, walls, and so on",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "In a place without trees, mountains, walls, and so on, one should cast the gaze."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "ubhayorbhāvayorjñāne",
+     "gloss": "of-both-states",
+     "grounds": "locative singular neuter compound",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "verb.abs.root-dhyā"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samāśrayet",
+     "gloss": "one-should-take-refuge",
+     "grounds": "optative third singular active of samāśri",
+     "morph": "verb.3sg.opt.act.root-samāśri"
+    }
+   ],
+   "question": "What should one take refuge in after meditating on both states?",
+   "premises": [
+    "both states are known",
+    "meditation precedes refuge",
+    "the middle is the object"
+   ],
+   "inference": "after meditating on both states, one takes refuge in the middle",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Having meditated on both states, one should take refuge in the middle."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "bhāve tyakte",
+     "gloss": "when-state-abandoned",
+     "grounds": "locative absolute phrase kept as one token",
+     "morph": "loc.abs"
+    },
+    {
+     "surface": "niruddhā",
+     "gloss": "restrained",
+     "grounds": "nominative singular feminine participle",
+     "morph": "part.nom.sg.f"
+    },
+    {
+     "surface": "cennaiva",
+     "gloss": "if-not",
+     "grounds": "indeclinable conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvāntaraṃ",
+     "gloss": "another-state",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "one-should-go",
+     "grounds": "optative third singular active of vraj",
+     "morph": "verb.3sg.opt.act.root-vraj"
+    }
+   ],
+   "question": "What happens if another state does not arise when one state is abandoned?",
+   "premises": [
+    "a state is abandoned",
+    "restraint is present",
+    "another state is the alternative"
+   ],
+   "inference": "if another state does not arise, one remains restrained rather than going elsewhere",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "When a state is abandoned, if one is restrained and no other state arises, one should not go to another state."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "sarvadehe",
+     "gloss": "in-all-body",
+     "grounds": "locative singular masculine or neuter",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tanmayaṃ",
+     "gloss": "full-of-that",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagadvā",
+     "gloss": "or-universe",
+     "grounds": "accusative singular neuter noun with particle",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "paribhāvayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative third singular active of paribhāv",
+     "morph": "verb.3sg.opt.act.root-paribhāv"
+    }
+   ],
+   "question": "What should one contemplate as full of that in all body or universe?",
+   "premises": [
+    "all body is the locus",
+    "full of that is the state",
+    "universe is an alternative object"
+   ],
+   "inference": "one contemplates all body or the universe as full of that",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Indeed, in all the body, or the universe, one should contemplate it as full of that."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "vāyu+dvayasya",
+     "gloss": "of-two-winds",
+     "grounds": "genitive singular compound with plus marker",
+     "morph": "compound.gen.sg.n"
+    },
+    {
+     "surface": "saṅghaṭṭād",
+     "gloss": "from-collision",
+     "grounds": "ablative singular masculine",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "antarvā",
+     "gloss": "inside-or",
+     "grounds": "indeclinable compound particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahirantataḥ",
+     "gloss": "outside-finally",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What results from the collision of two winds?",
+   "premises": [
+    "two winds are named",
+    "collision is the cause",
+    "inside and outside are directions"
+   ],
+   "inference": "from the collision of two winds, attention moves inside and finally outside",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "From the collision of two winds, one attends inside and finally outside."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "accusative singular neuter",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "svadehaṃ",
+     "gloss": "own-body",
+     "grounds": "accusative singular masculine noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svānandabharitaṃ",
+     "gloss": "filled-with-own-bliss",
+     "grounds": "accusative singular neuter participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "optative third singular active of smṛ",
+     "morph": "verb.3sg.opt.act.root-smṛ"
+    }
+   ],
+   "question": "What should one remember as filled with own bliss?",
+   "premises": [
+    "all world is an object",
+    "own body is an alternative",
+    "filled with own bliss is the state"
+   ],
+   "inference": "one remembers all the world or one's own body as filled with own bliss",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One should remember all the world or one's own body as filled with one's own bliss."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "kuhareṇa",
+     "gloss": "by-cavity",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "prayogena",
+     "gloss": "by-practice",
+     "grounds": "instrumental singular masculine",
+     "morph": "n.instr.sg.m"
+    },
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛge",
+     "gloss": "in-deer",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "kṣaṇe",
+     "gloss": "moment",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What happens immediately by cavity practice in a deer moment?",
+   "premises": [
+    "cavity and practice are instruments",
+    "immediately qualifies the result",
+    "deer and moment are loci"
+   ],
+   "inference": "by cavity practice, the result occurs immediately in the deer moment",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By cavity practice, indeed, it happens immediately in the deer moment."
+  }
+ ]
+}

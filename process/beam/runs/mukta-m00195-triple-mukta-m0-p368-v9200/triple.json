@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p368",
+ "items": [
+  {
+   "verse": 9200,
+   "rows": [
+    {
+     "surface": "gopanīyaḥ",
+     "gloss": "to-be-kept-secret",
+     "grounds": "gerundive expressing that the application must be concealed",
+     "morph": "gerundive.m.nom.sg √gup"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "application",
+     "grounds": "the ritual or practical procedure being introduced",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks the transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-taught",
+     "grounds": "introduces the teaching of the application",
+     "morph": "3.sg.pass-pres pra+√vac"
+    },
+    {
+     "surface": "sarva+siddhi+daḥ",
+     "gloss": "granting-all-accomplishments",
+     "grounds": "compound describing the efficacy of the application",
+     "morph": "compound sarva+siddhi+da.m.nom.sg"
+    }
+   ],
+   "question": "What secrecy and efficacy characterize the application now being taught?",
+   "premises": [
+    "An application is now being taught.",
+    "This application must be kept secret.",
+    "This application grants all accomplishments."
+   ],
+   "inference": "Therefore the application now taught is both secret and capable of granting all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "Now a secret application that grants all accomplishments is taught."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p494",
+ "items": [
+  {
+   "verse": 12350,
+   "rows": [
+    {
+     "surface": "jarāsandha",
+     "gloss": "Jarāsandha",
+     "grounds": "proper name of a king",
+     "morph": "stem"
+    },
+    {
+     "surface": "bhayāt",
+     "gloss": "from-fear",
+     "grounds": "reason for taking refuge",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "Krishna",
+     "grounds": "proper name, subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sindhuṃ",
+     "gloss": "ocean",
+     "grounds": "place of refuge",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāśritaḥ",
+     "gloss": "took-refuge",
+     "grounds": "action performed by Krishna",
+     "morph": "m.nom.sg.past-participle sam-ā-śri"
+    }
+   ],
+   "question": "What threat caused Krishna to seek refuge in the ocean?",
+   "premises": [
+    "Krishna experienced fear arising from Jarāsandha.",
+    "Krishna took refuge in the ocean.",
+    "The act of taking refuge occurred at that time."
+   ],
+   "inference": "Krishna sought refuge in the ocean because of fear of Jarāsandha.",
+   "uncertainties": [],
+   "plain_english": "When Krishna, out of fear of Jarāsandha, took refuge in the ocean."
+  }
+ ]
+}

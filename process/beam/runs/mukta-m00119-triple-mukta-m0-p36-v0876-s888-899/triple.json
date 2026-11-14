@@ -1,0 +1,438 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "ṣaṣṭisiddhīśvaro",
+     "gloss": "lord-of-sixty-accomplishments",
+     "grounds": "compound naming a practitioner grade",
+     "morph": "compound"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who",
+     "grounds": "relative pronoun with particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "keralaḥ",
+     "gloss": "Kerala",
+     "grounds": "proper place name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pass-pp"
+    }
+   ],
+   "question": "Which practitioner is proclaimed in Kerala as lord of sixty accomplishments?",
+   "premises": [
+    "ṣaṣṭisiddhīśvaro names a grade",
+    "keralaḥ locates the proclamation",
+    "parikīrtitaḥ states public naming"
+   ],
+   "inference": "The verse identifies a Kerala-proclaimed practitioner grade called lord of sixty accomplishments.",
+   "uncertainties": [
+    "exact ritual duties of this grade are not specified here"
+   ],
+   "plain_english": "The one proclaimed in Kerala is the lord of sixty accomplishments."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "kārpaṇyādivirahitaḥ",
+     "gloss": "free-from-meanness-etc",
+     "grounds": "compound negating meanness and related faults",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmādiguṇasaṃyutaḥ",
+     "gloss": "endowed-with-Vama-etc-qualities",
+     "grounds": "compound listing Vama-group qualities",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What moral and qualitative marks distinguish this practitioner grade?",
+   "premises": [
+    "kārpaṇyādivirahitaḥ removes meanness",
+    "vāmādiguṇasaṃyutaḥ adds Vama-group qualities"
+   ],
+   "inference": "The grade is marked by absence of meanness and presence of Vama-group qualities.",
+   "uncertainties": [
+    "the full list of Vama-group qualities is not enumerated"
+   ],
+   "plain_english": "He is free from meanness and endowed with Vama-group qualities."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "caturviṃśatisiddhānāmādhipo",
+     "gloss": "lord-of-twenty-four-accomplished-ones",
+     "grounds": "compound of twenty-four accomplished ones and lordship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narapuṅgavaḥ",
+     "gloss": "best-of-men",
+     "grounds": "compound praising human excellence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the twenty-four-accomplished lord characterized among men?",
+   "premises": [
+    "caturviṃśatisiddhānāmādhipo names lordship",
+    "narapuṅgavaḥ calls him best of men"
+   ],
+   "inference": "The lord of twenty-four accomplished ones is praised as the best of men.",
+   "uncertainties": [
+    "identity of the twenty-four accomplished ones is not detailed"
+   ],
+   "plain_english": "The lord of twenty-four accomplished ones is the best of men."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "ubhayordhvāmnāyayukto",
+     "gloss": "with-both-upper-and-lower-traditions",
+     "grounds": "compound joining upper and lower traditions",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahākāśmīra",
+     "gloss": "great-Kashmir",
+     "grounds": "proper place name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "said",
+     "grounds": "past participle of speaking",
+     "morph": "m.nom.sg.pass-pp"
+    }
+   ],
+   "question": "Which tradition-bearing practitioner is said to belong to great Kashmir?",
+   "premises": [
+    "ubhayordhvāmnāyayukto joins both traditions",
+    "mahākāśmīra names great Kashmir",
+    "īritaḥ states proclamation"
+   ],
+   "inference": "A practitioner bearing both upper and lower traditions is said to be of great Kashmir.",
+   "uncertainties": [
+    "whether both traditions are simultaneous or optional is unclear"
+   ],
+   "plain_english": "He who bears both upper and lower traditions is said to be of great Kashmir."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "gīrvāṇagaṇasaṃvādī",
+     "gloss": "conversant-with-divine-hosts",
+     "grounds": "compound of divine hosts and conversation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gāruḍādipraṇāśakaḥ",
+     "gloss": "destroyer-of-Garuda-etc",
+     "grounds": "compound of Garuda-group destruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What powers and associations mark this practitioner grade?",
+   "premises": [
+    "gīrvāṇagaṇasaṃvādī means converse with divine hosts",
+    "gāruḍādipraṇāśakaḥ means destroy Garuda-group forces"
+   ],
+   "inference": "The grade is marked by converse with divine hosts and destruction of Garuda-group forces.",
+   "uncertainties": [
+    "scope of Garuda-etc is not enumerated"
+   ],
+   "plain_english": "He converses with divine hosts and destroys Garuda-group forces."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "bhuvanānandakṛdvīraḥ",
+     "gloss": "world-bliss-making-hero",
+     "grounds": "compound of world bliss making and hero",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "strībhakto",
+     "gloss": "devotee-of-women",
+     "grounds": "compound of women and devotion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijitendriyaḥ",
+     "gloss": "conqueror-of-senses",
+     "grounds": "compound of conquered senses",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What heroic and devotional traits define this practitioner?",
+   "premises": [
+    "bhuvanānandakṛdvīraḥ makes world bliss",
+    "strībhakto is devotee of women",
+    "vijitendriyaḥ conquers senses"
+   ],
+   "inference": "The practitioner is a hero making world bliss, devoted to women, and conqueror of senses.",
+   "uncertainties": [
+    "whether devotion to women is ritual or social is not specified"
+   ],
+   "plain_english": "He is a hero making world bliss, devoted to women, and conqueror of senses."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "uktādhikārasaṃpannaḥ",
+     "gloss": "possessed-of-stated-qualification",
+     "grounds": "compound of stated qualification and possession",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvamatrāpi",
+     "gloss": "before-here-also",
+     "grounds": "adverbial phrase of prior mention",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "Parvati",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "To whom is the stated qualification said to have been mentioned before?",
+   "premises": [
+    "uktādhikārasaṃpannaḥ means possessed of stated qualification",
+    "pūrvamatrāpi means before here also",
+    "pārvati addresses Parvati"
+   ],
+   "inference": "Parvati is told that the stated qualification was mentioned before here also.",
+   "uncertainties": [
+    "the exact prior passage is not identified"
+   ],
+   "plain_english": "Parvati, he is possessed of the stated qualification, as mentioned before here also."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "mahābalo",
+     "gloss": "great-strength",
+     "grounds": "compound of great strength",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahotsāho",
+     "gloss": "great-zeal",
+     "grounds": "compound of great zeal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gauḍa",
+     "gloss": "Gauda",
+     "grounds": "proper regional name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-called",
+     "grounds": "passive verb of naming",
+     "morph": "3.sg.pass-pres + root abhidhā"
+    }
+   ],
+   "question": "What traits are assigned to the practitioner called Gauda?",
+   "premises": [
+    "mahābalo means great strength",
+    "mahotsāho means great zeal",
+    "gauḍa names the practitioner",
+    "ityabhidhīyate means thus called"
+   ],
+   "inference": "The practitioner called Gauda is said to have great strength and great zeal.",
+   "uncertainties": [
+    "whether Gauda is regional or grade name is not clarified"
+   ],
+   "plain_english": "He of great strength and great zeal is thus called Gauda."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle closing statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gauḍastu",
+     "gloss": "Gauda",
+     "grounds": "proper name with particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃproktaḥ",
+     "gloss": "spoken",
+     "grounds": "past participle of speaking",
+     "morph": "m.nom.sg.pass-pp"
+    },
+    {
+     "surface": "sarvasiddhipradāyakaḥ",
+     "gloss": "giver-of-all-accomplishments",
+     "grounds": "compound of all accomplishments and giving",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the Gauda practitioner said to give?",
+   "premises": [
+    "gauḍastu names Gauda",
+    "saṃproktaḥ means spoken",
+    "sarvasiddhipradāyakaḥ means giver of all accomplishments"
+   ],
+   "inference": "The Gauda practitioner is spoken of as giver of all accomplishments.",
+   "uncertainties": [
+    "conditions for receiving accomplishments are not stated"
+   ],
+   "plain_english": "Thus Gauda is spoken of as giver of all accomplishments."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "sampradāyatraye",
+     "gloss": "in-three-traditions",
+     "grounds": "locative compound of three traditions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "alternative",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrvamīritam",
+     "gloss": "before-spoken",
+     "grounds": "past participle of prior speaking",
+     "morph": "m.acc.sg.pass-pp"
+    }
+   ],
+   "question": "What was spoken before concerning alternatives in three traditions?",
+   "premises": [
+    "sampradāyatraye means in three traditions",
+    "devi addresses goddess",
+    "vikalpaṃ means alternative",
+    "pūrvamīritam means before spoken"
+   ],
+   "inference": "An alternative in three traditions was spoken before to the goddess.",
+   "uncertainties": [
+    "the specific alternative is not restated in this verse"
+   ],
+   "plain_english": "In three traditions, goddess, an alternative was spoken before."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "tyāgī",
+     "gloss": "renouncer",
+     "grounds": "agent noun of renunciation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "enjoyer",
+     "grounds": "agent noun of enjoyment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinītaśca",
+     "gloss": "humble",
+     "grounds": "compound with particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tithinityāprapūjakaḥ",
+     "gloss": "daily-tithi-worshipper",
+     "grounds": "compound of daily tithi worship",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What combined conduct marks this practitioner?",
+   "premises": [
+    "tyāgī means renouncer",
+    "bhoktā means enjoyer",
+    "vinītaśca means humble",
+    "tithinityāprapūjakaḥ means daily tithi worshipper"
+   ],
+   "inference": "The practitioner combines renunciation, enjoyment, humility, and daily tithi worship.",
+   "uncertainties": [
+    "how renunciation and enjoyment coexist is not explained"
+   ],
+   "plain_english": "He is a renouncer, enjoyer, humble, and daily tithi worshipper."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "parastrī",
+     "gloss": "another's-wife",
+     "grounds": "compound of another and wife",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paravitte",
+     "gloss": "another's-wealth",
+     "grounds": "locative compound of another's wealth",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhaścaiva",
+     "gloss": "sixth",
+     "grounds": "ordinal with particles",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratigrahaḥ",
+     "gloss": "acceptance",
+     "grounds": "noun of receiving",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What forbidden acceptance is listed alongside another's wife and wealth?",
+   "premises": [
+    "parastrī means another's wife",
+    "paravitte means another's wealth",
+    "ṣaṣṭhaścaiva means sixth",
+    "pratigrahaḥ means acceptance"
+   ],
+   "inference": "The sixth item is acceptance, grouped with another's wife and another's wealth.",
+   "uncertainties": [
+    "the complete six-item list is not given in this verse"
+   ],
+   "plain_english": "Another's wife, another's wealth, and the sixth, acceptance."
+  }
+ ]
+}

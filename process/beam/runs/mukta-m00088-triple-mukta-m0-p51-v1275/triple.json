@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "ghātaya",
+     "gloss": "strike",
+     "grounds": "imperative verb directing the action",
+     "morph": "verb.2.sg.act.imp"
+    },
+    {
+     "surface": "dvitayaṃ",
+     "gloss": "pair",
+     "grounds": "accusative object of strike",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "varma",
+     "gloss": "armor",
+     "grounds": "accusative object of strike",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "phaḍanto",
+     "gloss": "phaṭ-ending",
+     "grounds": "adjective describing the mantra",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ghorako",
+     "gloss": "fierce",
+     "grounds": "adjective describing the mantra",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative subject performing the action",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What does the fierce mantra ending in phaṭ strike?",
+   "premises": [
+    "Fierce mantra ends with phaṭ.",
+    "Strike targets pair and armor.",
+    "Mantra acts as agent."
+   ],
+   "inference": "The fierce phaṭ-ending mantra strikes the pair and armor.",
+   "uncertainties": [
+    "Exact referent of pair and armor remains unclear."
+   ],
+   "plain_english": "Strike the pair and armor: the fierce mantra ending in phaṭ."
+  }
+ ]
+}

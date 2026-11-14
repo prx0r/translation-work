@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p155",
+ "items": [
+  {
+   "verse": 3875,
+   "rows": [
+    {
+     "surface": "taistu",
+     "gloss": "by-those-but",
+     "grounds": "Instrumental plural pronoun with enclitic particle; sandhi fusion of taiḥ and tu.",
+     "morph": "pron.instr.pl.m + (indecl.)"
+    },
+    {
+     "surface": "saṃsthāpitaṃ",
+     "gloss": "established",
+     "grounds": "Past passive participle indicating something duly installed or established.",
+     "morph": "ppp.nom.sg.n (sam-sthā, caus.)"
+    },
+    {
+     "surface": "pūrvamādiśaivena",
+     "gloss": "previously-by-first-śaiva",
+     "grounds": "Indeclinable adverb followed by instrumental singular of a compound denoting the primordial Śaiva.",
+     "morph": "(indecl.) + ādi-śaiva.instr.sg.m"
+    },
+    {
+     "surface": "pūjitam",
+     "gloss": "worshipped",
+     "grounds": "Past passive participle indicating something honored or worshipped.",
+     "morph": "ppp.nom.sg.n (pūj)"
+    }
+   ],
+   "question": "By whom was the worshipped form originally established and honored?",
+   "premises": [
+    "A form is described as established.",
+    "That same form is described as worshipped.",
+    "Its establishment and worship are attributed to the first Śaiva."
+   ],
+   "inference": "The worshipped form was originally established and honored by the primordial Śaiva.",
+   "uncertainties": [
+    "The exact referent of taistu is carried over from the preceding context."
+   ],
+   "plain_english": "But it was previously established and worshipped by them, by the first Śaiva."
+  }
+ ]
+}

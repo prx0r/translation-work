@@ -1,0 +1,984 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amsumat-kashyapa",
+     "grounds": "colophon formula; locative compound indicating text context",
+     "morph": "compound: iti+indecl, aṃśumat+kāśyapa+m.loc.sg"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kashyapa",
+     "grounds": "name of the attributed sage or text tradition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nālashāpanavidhi",
+     "gloss": "reed-curse-removal-procedure",
+     "grounds": "compound naming the ritual topic of the chapter",
+     "morph": "compound: nāla+śāpana+vidhi+m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section heading term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptamaḥ",
+     "gloss": "seventh",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter number and ritual topic conclude this section of the Amsumat-Kashyapa text?",
+   "premises": [
+    "The text identifies itself as belonging to the Amsumat-Kashyapa tradition.",
+    "The chapter is named as the procedure for nala-shapana.",
+    "The chapter is explicitly numbered as the seventh."
+   ],
+   "inference": "This verse serves as a colophon marking the end of the seventh chapter on the nala-shapana procedure in the Amsumat-Kashyapa.",
+   "uncertainties": [
+    "The precise ritual meaning of nālaśāpana is not fully specified in this verse."
+   ],
+   "plain_english": "Thus, in the Amsumat-Kashyapa, this is the seventh chapter on the procedure of nala-shapana."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "ākāraṃ",
+     "gloss": "form",
+     "grounds": "object of hearing; shape or configuration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūṣaṇaṃ",
+     "gloss": "ornament",
+     "grounds": "object of hearing; decorative elements",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepāt",
+     "gloss": "briefly",
+     "grounds": "manner of instruction",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressed to the listener",
+     "morph": "2.sg.act.imp √śru"
+    },
+    {
+     "surface": "suvrata",
+     "gloss": "good-vowed-one",
+     "grounds": "vocative address to the disciple",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What aspects of architectural elements should the good-vowed listener hear described briefly?",
+   "premises": [
+    "The speaker addresses a listener called suvrata.",
+    "The listener is instructed to hear.",
+    "The topics to be heard are form and ornament, presented briefly."
+   ],
+   "inference": "The verse introduces a concise teaching on the form and ornamentation of the elements to follow.",
+   "uncertainties": [],
+   "plain_english": "O good-vowed one, hear briefly the form and the ornament."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "sthāṇuḥ",
+     "gloss": "pillar",
+     "grounds": "first synonym for a structural support",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthūṇaṃ",
+     "gloss": "post",
+     "grounds": "second synonym for a structural support",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "third synonym for a structural support",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paryāya",
+     "gloss": "synonym",
+     "grounds": "indicates equivalence of terms",
+     "morph": "compound-member: paryāya+vacana"
+    },
+    {
+     "surface": "vacanastvime",
+     "gloss": "words-these",
+     "grounds": "fused form stating these are synonymous words",
+     "morph": "compound: vacana+m.nom.pl + tu+indecl + ime+pron.nom.pl.m"
+    }
+   ],
+   "question": "Which terms are declared to function as synonymous names for the pillar element?",
+   "premises": [
+    "The terms sthāṇu, sthūṇa, and pāda are listed together.",
+    "The verse states these are synonymous expressions.",
+    "The context concerns architectural elements."
+   ],
+   "inference": "Sthāṇu, sthūṇa, and pāda are presented as interchangeable names for a pillar or support.",
+   "uncertainties": [],
+   "plain_english": "Sthāṇu, sthūṇa, and pāda are synonymous words for the same thing."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānasya",
+     "gloss": "of-pedestal",
+     "grounds": "base element whose height is the reference",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tuṃgasya",
+     "gloss": "of-height",
+     "grounds": "height of the pedestal",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "proportional multiplier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāṃghrituṃgakam",
+     "gloss": "pillar-height",
+     "grounds": "resulting height of the pillar",
+     "morph": "compound: vāṃghri+tuṃgaka+n.nom.sg"
+    }
+   ],
+   "question": "How is the pillar height proportionally determined relative to the pedestal height?",
+   "premises": [
+    "The pedestal height is taken as the reference measure.",
+    "The pillar height is specified as double that measure.",
+    "The verse states this as a rule for pillar height."
+   ],
+   "inference": "The height of the pillar should be twice the height of the pedestal.",
+   "uncertainties": [],
+   "plain_english": "The height of the pillar should be double the height of the pedestal."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "pādoccapaṃktī",
+     "gloss": "foot-height-row",
+     "grounds": "reference measure based on foot-row height",
+     "morph": "compound: pāda+ucca+paṃkti+f.nom.sg"
+    },
+    {
+     "surface": "nandāṣṭabhāgaikaṃ",
+     "gloss": "nine-eighth-part-one",
+     "grounds": "fractional proportion; nanda often indicates nine",
+     "morph": "compound: nanda+aṣṭa+bhāga+eka+n.nom.sg"
+    },
+    {
+     "surface": "vāṃghrituṃgakam",
+     "gloss": "pillar-height",
+     "grounds": "resulting height of the pillar",
+     "morph": "compound: vāṃghri+tuṃgaka+n.nom.sg"
+    }
+   ],
+   "question": "What alternative fractional proportion defines the pillar height from the foot-row height?",
+   "premises": [
+    "The foot-row height is used as a reference.",
+    "A specific fractional measure is prescribed.",
+    "This yields an alternative pillar height."
+   ],
+   "inference": "The pillar height may alternatively be set as one part in nine-eighths relation to the foot-row height.",
+   "uncertainties": [
+    "The exact numerical interpretation of nandāṣṭabhāgaikaṃ is ambiguous without broader context."
+   ],
+   "plain_english": "Alternatively, the pillar height may be one part derived from the foot-row height divided into nine and eight parts."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of the previously stated measure",
+     "morph": "compound: tad+ardha+n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhāgonacaturbhāgonameva",
+     "gloss": "three-part-less-four-part-less-indeed",
+     "grounds": "fused compound indicating reduction by a third or a fourth",
+     "morph": "compound: tri+bhāga+ūna+catur+bhāga+ūna+n.nom.sg + eva+indecl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What further fractional reductions may be applied as alternatives to the pillar height?",
+   "premises": [
+    "The verse offers alternatives to a prior measure.",
+    "One alternative is half of that measure.",
+    "Other alternatives involve reduction by a third or a fourth."
+   ],
+   "inference": "The pillar height may alternatively be half, or reduced by one-third, or reduced by one-fourth.",
+   "uncertainties": [
+    "The exact parsing of tribhāgonacaturbhāgonameva as a fused compound is interpretive."
+   ],
+   "plain_english": "Or it may be half of that, or indeed less by a third or less by a fourth."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "prateruttarasīmāntaṃ",
+     "gloss": "from-front-to-northern-boundary",
+     "grounds": "spatial extent defining the element",
+     "morph": "compound: pra+uttara+sīmā+anta+n.acc.sg"
+    },
+    {
+     "surface": "anyarāgha?",
+     "gloss": "other-attachment",
+     "grounds": "uncertain token as given in source",
+     "morph": "compound: anya+rāgha+m.nom.sg"
+    },
+    {
+     "surface": "ṣālastaṃbhamucyate",
+     "gloss": "hall-pillar-is-called",
+     "grounds": "designation of the structural element",
+     "morph": "compound: ṣālā+staṃbha+m.nom.sg + ucyate+3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "What structural element is designated as the hall pillar by its boundary extent?",
+   "premises": [
+    "A spatial boundary from front to northern limit is specified.",
+    "The verse assigns a name to the element defined by this extent.",
+    "The name given is hall pillar."
+   ],
+   "inference": "The element extending to the stated boundary is called the hall pillar.",
+   "uncertainties": [
+    "The token anyarāgha? contains a question mark in the source and its meaning is unclear.",
+    "The exact boundary description in prateruttarasīmāntaṃ is partly obscure."
+   ],
+   "plain_english": "That which extends to the northern boundary is called the hall pillar."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "the dimension to be divided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptāṣṭadhā",
+     "gloss": "seven-eight-fold",
+     "grounds": "alternative division into seven or eight parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajya",
+     "gloss": "having-divided",
+     "grounds": "action of dividing the height",
+     "morph": "gerund √bhaj"
+    },
+    {
+     "surface": "navadharmāṃśameva",
+     "gloss": "nine-part-indeed",
+     "grounds": "alternative division into nine parts",
+     "morph": "compound: nava+dharma+aṃśa+n.acc.sg + eva+indecl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Into how many parts may the pillar height be divided for proportional measurement?",
+   "premises": [
+    "The height is the object to be divided.",
+    "One option is division into seven or eight parts.",
+    "Another option is division into nine parts."
+   ],
+   "inference": "The height may be divided into seven, eight, or nine parts for measurement.",
+   "uncertainties": [
+    "The term dharma in navadharmāṃśa may be a textual variant or technical term."
+   ],
+   "plain_english": "Having divided the height into seven or eight parts, or indeed into nine parts."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "tanmūlatāramākhyātaṃ",
+     "gloss": "its-root-width-declared",
+     "grounds": "the root width is identified as the measure",
+     "morph": "compound: tad+mūla+tāra+n.nom.sg + ākhyāta+n.nom.sg"
+    },
+    {
+     "surface": "tattāraṃ",
+     "gloss": "that-width",
+     "grounds": "the width to be divided",
+     "morph": "compound: tad+tāra+n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-divide",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act.opt √bhaj"
+    }
+   ],
+   "question": "How should the root width and that width be proportionally divided according to the rule?",
+   "premises": [
+    "The root width is declared as a reference.",
+    "That width is the object to be divided.",
+    "The division should be done in the same manner."
+   ],
+   "inference": "One should divide that width in the same way as the declared root width.",
+   "uncertainties": [],
+   "plain_english": "The root width having been declared, one should divide that width in the same manner."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "ekādiṣoḍaśāntānāṃ",
+     "gloss": "from-one-to-sixteen-ending",
+     "grounds": "range of storeys or levels",
+     "morph": "compound: eka+ādi+ṣoḍaśa+anta+m.gen.pl"
+    },
+    {
+     "surface": "talaṃ",
+     "gloss": "storey",
+     "grounds": "level or floor to which the rule applies",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratyevamācaret",
+     "gloss": "for-each-thus-one-should-do",
+     "grounds": "instruction to apply the rule to each case",
+     "morph": "compound: prati+indecl + evam+indecl + ācaret+3.sg.act.opt √ā-car"
+    }
+   ],
+   "question": "How should the prescribed procedure be applied across structures of one to sixteen storeys?",
+   "premises": [
+    "The range considered is from one up to sixteen.",
+    "The rule applies to each storey or level.",
+    "The same procedure should be followed in each case."
+   ],
+   "inference": "For each storey from one to sixteen, one should carry out the procedure in the same way.",
+   "uncertainties": [],
+   "plain_english": "For each level from one to sixteen, one should proceed in this manner."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "brahmakāntamiti",
+     "gloss": "brahma-favored-thus",
+     "grounds": "name of one pillar type",
+     "morph": "compound: brahma+kānta+n.nom.sg + iti+indecl"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declares the designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "shape description; vasu indicates eight",
+     "morph": "compound: vasu+aśra+n.nom.sg"
+    },
+    {
+     "surface": "viṣṇukāntakam",
+     "gloss": "vishnu-favored",
+     "grounds": "name of another pillar type",
+     "morph": "compound: viṣṇu+kāntaka+n.nom.sg"
+    }
+   ],
+   "question": "Which pillar forms are designated as Brahmakanta and Vishnukantaka by their shapes?",
+   "premises": [
+    "A form is known as Brahmakanta.",
+    "An eight-cornered form is associated with Vishnukantaka.",
+    "The verse assigns these traditional names."
+   ],
+   "inference": "The verse identifies specific pillar types by name, including an eight-cornered form called Vishnukantaka.",
+   "uncertainties": [
+    "The exact shape assigned to Brahmakanta is not explicitly stated in this verse."
+   ],
+   "plain_english": "It is known as Brahmakanta, and the eight-cornered one as Vishnukantaka."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "kaṇṭhamānena",
+     "gloss": "by-throat-measure",
+     "grounds": "measurement standard used",
+     "morph": "compound: kaṇṭha+māna+n.inst.sg"
+    },
+    {
+     "surface": "tanmūle",
+     "gloss": "at-its-root",
+     "grounds": "location where the form is made",
+     "morph": "compound: tad+mūla+n.loc.sg"
+    },
+    {
+     "surface": "vedāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "shape; veda indicates four",
+     "morph": "compound: veda+aśra+n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act.opt √pra-kḷp"
+    }
+   ],
+   "question": "What four-cornered form should be fashioned at the pillar root using the throat measure?",
+   "premises": [
+    "The throat measure is the standard of measurement.",
+    "The location specified is the root of the pillar.",
+    "A four-cornered form is to be fashioned there."
+   ],
+   "inference": "One should fashion a four-cornered section at the root according to the throat measure.",
+   "uncertainties": [],
+   "plain_english": "At its root, one should fashion a four-cornered form according to the throat measure."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "tayormadhyaṃ",
+     "gloss": "between-them-middle",
+     "grounds": "the middle section between two parts",
+     "morph": "compound: tad+gen.du + madhya+n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "one possible shape for the middle",
+     "morph": "compound: vasu+aśra+n.acc.sg"
+    },
+    {
+     "surface": "ṣoḍaśāśramathāpi",
+     "gloss": "sixteen-cornered-or-also",
+     "grounds": "alternative shape for the middle",
+     "morph": "compound: ṣoḍaśa+aśra+n.acc.sg + atha+indecl + api+indecl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What polygonal shapes may be assigned to the middle section between the specified parts?",
+   "premises": [
+    "The middle section between two parts is under consideration.",
+    "An eight-cornered form is one option.",
+    "A sixteen-cornered form is another option."
+   ],
+   "inference": "The middle section may be made either eight-cornered or sixteen-cornered.",
+   "uncertainties": [],
+   "plain_english": "The middle between them should be made eight-cornered or alternatively sixteen-cornered."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "rudrakāntamidaṃ",
+     "gloss": "rudra-favored-this",
+     "grounds": "name assigned to this pillar type",
+     "morph": "compound: rudra+kānta+n.nom.sg + idam+pron.nom.sg.n"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declares the designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlādagraṃ",
+     "gloss": "from-root-to-tip",
+     "grounds": "extent of the described form",
+     "morph": "compound: mūla+ādi+agra+n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartulam",
+     "gloss": "round",
+     "grounds": "shape of the pillar",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What pillar type is designated as Rudrakanta when it is round from root to tip?",
+   "premises": [
+    "A pillar type is given the name Rudrakanta.",
+    "This type is round in form.",
+    "The roundness extends from root to tip."
+   ],
+   "inference": "A pillar that is round from root to tip is known as Rudrakanta.",
+   "uncertainties": [],
+   "plain_english": "This is known as Rudrakanta: round from root to tip."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "mūlādagraṃ",
+     "gloss": "from-root-to-tip",
+     "grounds": "overall extent of the pillar",
+     "morph": "compound: mūla+ādi+agra+n.nom.sg"
+    },
+    {
+     "surface": "yugāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "overall shape; yuga indicates four",
+     "morph": "compound: yuga+aśra+n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyeṣṭāśraṃ",
+     "gloss": "in-middle-eight-cornered",
+     "grounds": "shape of the middle section",
+     "morph": "compound: madhya+aṣṭa+aśra+n.nom.sg"
+    },
+    {
+     "surface": "taducyate",
+     "gloss": "that-is-called",
+     "grounds": "designation of this configuration",
+     "morph": "compound: tad+pron.nom.sg.n + ucyate+3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "How is a pillar described when four-cornered overall but eight-cornered in the middle?",
+   "premises": [
+    "The pillar is four-cornered from root to tip.",
+    "Its middle section is eight-cornered.",
+    "This configuration is given a designation."
+   ],
+   "inference": "A pillar that is four-cornered overall with an eight-cornered middle is described by this specific form.",
+   "uncertainties": [
+    "The specific name of this type is not stated in this verse."
+   ],
+   "plain_english": "It is called that which is four-cornered from root to tip but eight-cornered in the middle."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "location above the previously described part",
+     "morph": "compound: tad+ūrdhva+n.loc.sg"
+    },
+    {
+     "surface": "vṛttamevaṃ",
+     "gloss": "round-thus",
+     "grounds": "shape of the upper section",
+     "morph": "compound: vṛtta+n.nom.sg + evam+indecl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "third-part",
+     "grounds": "proportion of the height",
+     "morph": "compound: tri+bhāga+n.nom.sg"
+    },
+    {
+     "surface": "tuṃgasādṛśam",
+     "gloss": "height-equal",
+     "grounds": "proportional to the height",
+     "morph": "compound: tuṃga+sādṛśa+n.nom.sg"
+    }
+   ],
+   "question": "What form and proportional extent should the upper section of that pillar take?",
+   "premises": [
+    "The section above the previously described part is specified.",
+    "This section should be round.",
+    "Its extent should be one-third corresponding to the height."
+   ],
+   "inference": "The upper third of that pillar should be made round in proportion to its height.",
+   "uncertainties": [],
+   "plain_english": "Above that, it should be round, forming a third part equal in proportion to the height."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff-measure",
+     "grounds": "one possible height measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhadvidaṇḍaṃ",
+     "gloss": "one-and-half-two-staff",
+     "grounds": "alternative height measure",
+     "morph": "compound: sa+ardha+dvi+daṇḍa+m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "location of the feature",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padmāsanodayam",
+     "gloss": "lotus-seat-rise",
+     "grounds": "height of the lotus-seat base",
+     "morph": "compound: padma+āsana+udaya+m.acc.sg"
+    }
+   ],
+   "question": "What height measurements define the lotus-seat rise at the root of the pillar?",
+   "premises": [
+    "The lotus-seat rise is located at the root.",
+    "One possible measure is one staff.",
+    "Another possible measure is one and a half or two staffs."
+   ],
+   "inference": "The rise of the lotus seat at the root may measure one staff or one and a half to two staffs.",
+   "uncertainties": [
+    "The exact parsing of sārdhadvidaṇḍaṃ as a combined measure is interpretive."
+   ],
+   "plain_english": "At the root, the rise of the lotus seat should be one staff or one and a half to two staffs."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "sapadmaṃ",
+     "gloss": "with-lotus",
+     "grounds": "including a lotus element",
+     "morph": "compound: sa+padma+n.acc.sg"
+    },
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "on-pericarp",
+     "grounds": "location on the lotus pericarp",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caraṇasthāpanaṃ",
+     "gloss": "foot-placement",
+     "grounds": "act of placing the foot or base",
+     "morph": "compound: caraṇa+sthāpana+n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative instruction",
+     "morph": "2.sg.act.imp √kṛ"
+    }
+   ],
+   "question": "Where should the placement of the foot be made upon the lotus pericarp?",
+   "premises": [
+    "A lotus element is present.",
+    "The pericarp of the lotus is specified as the location.",
+    "The instruction is to perform the foot placement there."
+   ],
+   "inference": "The foot should be placed on the pericarp of the lotus.",
+   "uncertainties": [],
+   "plain_english": "Place the foot upon the pericarp together with the lotus."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "cakravākalatādyaistu",
+     "gloss": "with-cakravaka-creeper-and-others",
+     "grounds": "decorative motifs including cakravaka and creeper designs",
+     "morph": "compound: cakravāka+latā+ādi+m.inst.pl + tu+indecl"
+    },
+    {
+     "surface": "bhūṣitaṃ",
+     "gloss": "adorned",
+     "grounds": "decorated condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padmapādakam",
+     "gloss": "lotus-foot",
+     "grounds": "pillar base type shaped like a lotus",
+     "morph": "compound: padma+pādaka+n.nom.sg"
+    }
+   ],
+   "question": "What decorative motifs are used to adorn the lotus-foot pillar type?",
+   "premises": [
+    "The pillar type is the lotus-foot.",
+    "It is adorned with decorative elements.",
+    "These elements include cakravaka birds, creepers, and others."
+   ],
+   "inference": "The lotus-foot pillar is adorned with motifs such as cakravaka birds and creepers.",
+   "uncertainties": [],
+   "plain_english": "The lotus-foot should be adorned with cakravaka birds, creepers, and other motifs."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "mūlebhaṃ",
+     "gloss": "at-root-elephant",
+     "grounds": "elephant form at the root",
+     "morph": "compound: mūla+ibha+n.nom.sg"
+    },
+    {
+     "surface": "tatpramāṇena",
+     "gloss": "by-that-measure",
+     "grounds": "according to the specified measure",
+     "morph": "compound: tad+pramāṇa+n.inst.sg"
+    },
+    {
+     "surface": "gajapādamudāhṛtam",
+     "gloss": "elephant-foot-declared",
+     "grounds": "designation of the elephant-foot type",
+     "morph": "compound: gaja+pāda+m.nom.sg + udāhṛta+n.nom.sg"
+    }
+   ],
+   "question": "How is the elephant-foot pillar type defined by its root form and measure?",
+   "premises": [
+    "An elephant form is present at the root.",
+    "The form follows a specified measure.",
+    "This configuration is declared as the elephant-foot."
+   ],
+   "inference": "A pillar with an elephant form at the root, made to that measure, is called the elephant-foot.",
+   "uncertainties": [],
+   "plain_english": "With an elephant at the root made to that measure, it is declared the elephant-foot."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "kuṃbhamaṃḍyādisaṃyuktaṃ",
+     "gloss": "with-pot-orb-and-others-joined",
+     "grounds": "combined with pot, orb, and similar ornaments",
+     "morph": "compound: kuṃbha+maṃḍī+ādi+saṃyukta+n.nom.sg"
+    },
+    {
+     "surface": "tattanāmnā",
+     "gloss": "by-that-name",
+     "grounds": "named according to those features",
+     "morph": "compound: tad+tad+nāman+n.inst.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "declared or designated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are pillar types named when they are joined with pot and orb ornaments?",
+   "premises": [
+    "The pillar is joined with pot, orb, and other ornaments.",
+    "Naming follows the presence of these features.",
+    "Such pillars are proclaimed by corresponding names."
+   ],
+   "inference": "Pillars combined with pot and orb ornaments are proclaimed by names reflecting those features.",
+   "uncertainties": [],
+   "plain_english": "When joined with pot, orb, and other ornaments, it is proclaimed by that corresponding name."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "kuṃbhamaṃḍyādisaṃyuktaṃ",
+     "gloss": "with-pot-orb-and-others-joined",
+     "grounds": "combined with pot, orb, and similar ornaments",
+     "morph": "compound: kuṃbha+maṃḍī+ādi+saṃyukta+n.nom.sg"
+    },
+    {
+     "surface": "śuṇḍupādamudāhṛtam",
+     "gloss": "trunk-foot-declared",
+     "grounds": "designation of the trunk-foot type",
+     "morph": "compound: śuṇḍu+pāda+m.nom.sg + udāhṛta+n.nom.sg"
+    }
+   ],
+   "question": "What pillar type is identified as trunk-foot when combined with pot and orb ornaments?",
+   "premises": [
+    "The pillar is joined with pot, orb, and other ornaments.",
+    "A specific type is named trunk-foot.",
+    "This configuration is declared as such."
+   ],
+   "inference": "A pillar combined with pot and orb ornaments is declared to be the trunk-foot type.",
+   "uncertainties": [
+    "The distinction between this and the previous verse's naming is not fully explicit."
+   ],
+   "plain_english": "When joined with pot, orb, and other ornaments, it is declared the trunk-foot."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "viṣkaṃbha",
+     "gloss": "diameter",
+     "grounds": "measure related to breadth or span",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karṇamānena",
+     "gloss": "by-ear-measure",
+     "grounds": "measurement standard used",
+     "morph": "compound: karṇa+māna+n.inst.sg"
+    },
+    {
+     "surface": "staṃbhāgre",
+     "gloss": "at-pillar-top",
+     "grounds": "location at the top of the pillar",
+     "morph": "compound: staṃbha+agra+n.loc.sg"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "four-cornered shape",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What square form is prescribed at the top of the pillar by the ear measure?",
+   "premises": [
+    "The location specified is the top of the pillar.",
+    "The ear measure is used as the standard.",
+    "A square form is prescribed there."
+   ],
+   "inference": "At the top of the pillar, a square section should be made according to the ear measure.",
+   "uncertainties": [],
+   "plain_english": "At the top of the pillar, make a square section according to the ear measure."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "daṇḍamānena",
+     "gloss": "by-staff-measure",
+     "grounds": "measurement standard used",
+     "morph": "compound: daṇḍa+māna+n.inst.sg"
+    },
+    {
+     "surface": "tasyādho",
+     "gloss": "below-that",
+     "grounds": "location below the previously mentioned part",
+     "morph": "compound: tad+gen.sg + adhas+indecl"
+    },
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "shape to be fashioned",
+     "morph": "compound: vasu+aśra+n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act.opt √pari-kḷp"
+    }
+   ],
+   "question": "What eight-cornered form should be fashioned below that section by the staff measure?",
+   "premises": [
+    "The location is below the previously described section.",
+    "The staff measure is used as the standard.",
+    "An eight-cornered form is to be fashioned."
+   ],
+   "inference": "Below that, one should fashion an eight-cornered section according to the staff measure.",
+   "uncertainties": [],
+   "plain_english": "Below that, one should fashion an eight-cornered section according to the staff measure."
+  }
+ ]
+}

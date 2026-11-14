@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "ṛtusnātāḥ",
+     "gloss": "seasonally-bathed",
+     "grounds": "adjective describing the visualized goddesses as having undergone seasonal bathing",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sphuradyonyaḥ",
+     "gloss": "shining-yonis",
+     "grounds": "compound adjective describing their yonis as shining",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sadānandāruṇekṣaṇāḥ",
+     "gloss": "always-blissful-red-eyed",
+     "grounds": "compound adjective describing eyes as red with constant bliss",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which physical signs mark the attendant goddesses in this visualization?",
+   "premises": [
+    "Attendant goddesses are seasonally bathed.",
+    "Their yonis shine.",
+    "Their eyes are red with bliss."
+   ],
+   "inference": "The verse identifies attendant goddesses by seasonal bathing, shining yonis, and red blissful eyes.",
+   "uncertainties": [
+    "The exact referent of the attendants versus the main devī is not explicit."
+   ],
+   "plain_english": "They are seasonally bathed, with shining yonis and eyes always red with bliss."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "indrakāntaṃ",
+     "gloss": "indra-beloved",
+     "grounds": "name or designation referring to that which is pleasing to Indra; object of honor",
+     "morph": "compound: indra+kānta, m.acc.sg"
+    },
+    {
+     "surface": "yathāpūrvam",
+     "gloss": "as-before",
+     "grounds": "indicates conformity with the previously established manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agrahārādi",
+     "gloss": "agrahāra-and-others",
+     "grounds": "compound denoting agrahāra grants and similar holdings included together",
+     "morph": "compound: agrahāra+ādi, n.acc.sg"
+    },
+    {
+     "surface": "pūjitam",
+     "gloss": "honored",
+     "grounds": "past passive participle indicating the state of being worshipped or honored",
+     "morph": "ppp.n.acc.sg(√pūj)"
+    }
+   ],
+   "question": "In what manner are Indrakānta and agrahāra holdings to be honored?",
+   "premises": [
+    "Indrakānta is designated as an object of honor.",
+    "The honoring follows the previously established manner.",
+    "Agrahāra holdings and similar grants are included in this honor."
+   ],
+   "inference": "Therefore Indrakānta together with agrahāra and related holdings is honored as before.",
+   "uncertainties": [
+    "The precise referent of indrakāntaṃ in this ritual context is not fully specified."
+   ],
+   "plain_english": "Indrakānta, as before, together with agrahāra and similar holdings, is to be honored."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "laghu+pāpe",
+     "gloss": "in-light-sin",
+     "grounds": "compound of laghu (light, minor) and pāpa (sin); locative sense indicating circumstance",
+     "morph": "compound: laghu+loc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle extending the scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "heavy",
+     "grounds": "qualifies the severity of punishment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "damaḥ",
+     "gloss": "punishment",
+     "grounds": "disciplinary restraint or penalty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śastaḥ",
+     "gloss": "prescribed",
+     "grounds": "commended or enjoined as proper",
+     "morph": "m.nom.sg.past-passive-participle (√śaṃs)"
+    }
+   ],
+   "question": "What severity of punishment is appropriate even for a minor transgression?",
+   "premises": [
+    "A transgression may be minor in nature.",
+    "Punishment can be prescribed even for minor transgressions.",
+    "The prescribed punishment in such cases is severe."
+   ],
+   "inference": "Even a minor sin warrants severe punishment.",
+   "uncertainties": [
+    "The compound laghu+pāpe is taken as a locative tatpuruṣa indicating circumstance; alternative compound readings are possible."
+   ],
+   "plain_english": "Even for a light sin, severe punishment is prescribed."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "caruṃ",
+     "gloss": "oblation",
+     "grounds": "direct object of cooking and offering; rice or grain oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrapitvā",
+     "gloss": "having-cooked",
+     "grounds": "absolutive indicating prior action before offering",
+     "morph": "(gerund); √śrā"
+    },
+    {
+     "surface": "bhāga+ardhaṃ",
+     "gloss": "portion-half",
+     "grounds": "compound specifying the amount to be offered",
+     "morph": "compound:bhāga+ardha; n.acc.sg"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "recipient of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive injunction for ritual presentation",
+     "morph": "3.sg.act-opt; √ni-vid (caus.)"
+    }
+   ],
+   "question": "What portion of the cooked oblation must be offered to the deity?",
+   "premises": [
+    "An oblation is prepared by cooking.",
+    "Half of that portion is designated.",
+    "The designated half goes to the deity."
+   ],
+   "inference": "The practitioner should cook the oblation and offer half of it to the deity.",
+   "uncertainties": [
+    "The exact substance of the caru is not specified in this verse."
+   ],
+   "plain_english": "Having cooked the oblation, one should offer half of it to the deity."
+  }
+ ]
+}

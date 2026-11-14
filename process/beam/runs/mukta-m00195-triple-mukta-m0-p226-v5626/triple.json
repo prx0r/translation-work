@@ -1,0 +1,904 @@
+{
+ "song": "mukta-m0-p226",
+ "items": [
+  {
+   "verse": 5626,
+   "rows": [
+    {
+     "surface": "kṛtābhicārādau",
+     "gloss": "performed-sorcery-etc",
+     "grounds": "compound with initial member indicating performed hostile magic; locative sense 'in case of'",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "yāmaṃyāmaṃ",
+     "gloss": "watch-by-watch",
+     "grounds": "iterative compound indicating repetition at each watch period",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive optative for ritual recitation",
+     "morph": "3.sg.optative.act √paṭh"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the mantra or formula",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should this formula be recited when countering hostile sorcery?",
+   "premises": [
+    "A situation involving performed sorcery is addressed.",
+    "Recitation is prescribed at every watch period.",
+    "The object of recitation is this formula."
+   ],
+   "inference": "In cases of hostile sorcery, this formula should be recited at each watch.",
+   "uncertainties": [
+    "The exact referent of idam is not specified in this verse."
+   ],
+   "plain_english": "In cases of performed sorcery and the like, one should recite this at every watch."
+  },
+  {
+   "verse": 5627,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the hostile agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of disadvantage indicating target of harm",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "pāpam",
+     "gloss": "evil",
+     "grounds": "harmful act intended against the speaker",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cikīrṣati",
+     "gloss": "desires-to-do",
+     "grounds": "desiderative verb expressing hostile intention",
+     "morph": "3.sg.present.act √kṛ (desid.)"
+    }
+   ],
+   "question": "Who is identified as the hostile agent requiring protective recitation?",
+   "premises": [
+    "A person is described by a relative pronoun.",
+    "That person intends harm toward the speaker.",
+    "The intended harm is characterized as evil."
+   ],
+   "inference": "The recitation targets anyone who desires to do evil to the speaker.",
+   "uncertainties": [],
+   "plain_english": "Whoever desires to do evil to me."
+  },
+  {
+   "verse": 5628,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective extending the application of the practice",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "practice",
+     "grounds": "ritual or contemplative application",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durgasthāne",
+     "gloss": "in-difficult-place",
+     "grounds": "compound indicating a place of danger or hardship",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "sukhāya",
+     "gloss": "for-happiness",
+     "grounds": "dative of purpose indicating beneficial outcome",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "additive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What benefit does this practice provide in difficult circumstances?",
+   "premises": [
+    "The practice is applied likewise in other contexts.",
+    "A difficult place or situation is specified.",
+    "The stated purpose is happiness or well-being."
+   ],
+   "inference": "This practice also brings well-being in difficult situations.",
+   "uncertainties": [],
+   "plain_english": "Likewise, this practice brings happiness even in a difficult place."
+  },
+  {
+   "verse": 5629,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "totality of harmful influences to be removed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhunvantu",
+     "gloss": "may-they-shake-off",
+     "grounds": "imperative expressing a wish for removal of harm",
+     "morph": "3.pl.imperative.act √dhū"
+    },
+    {
+     "surface": "brahmavarma",
+     "gloss": "brahma-armor",
+     "grounds": "compound naming a protective spiritual armor",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "mamācaram",
+     "gloss": "my-conduct",
+     "grounds": "compound referring to the speaker's behavior or course; sandhi fusion within token",
+     "morph": "compound.m.acc.sg"
+    }
+   ],
+   "question": "What protective power is invoked to remove all harm from the practitioner?",
+   "premises": [
+    "A wish is expressed for all harm to be shaken off.",
+    "The agent invoked is the Brahma-armor.",
+    "The protection concerns the speaker's conduct or person."
+   ],
+   "inference": "The Brahma-armor is invoked to shake off all harm affecting the practitioner.",
+   "uncertainties": [
+    "The precise sense of mamācaram as conduct or movement is context-dependent."
+   ],
+   "plain_english": "May the Brahma-armor shake off all harm from my conduct."
+  },
+  {
+   "verse": 5630,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive optative for fire oblation",
+     "morph": "3.sg.optative.act √hu"
+    },
+    {
+     "surface": "aṣṭottaraśatam",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound numeral specifying the count of oblations",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "ghṛtāktatilataṇḍulān",
+     "gloss": "ghee-anointed-sesame-rice",
+     "grounds": "compound listing the substances offered in the fire",
+     "morph": "compound.m.acc.pl"
+    }
+   ],
+   "question": "What substances and quantity are prescribed for the fire oblation?",
+   "premises": [
+    "A fire offering is prescribed.",
+    "The number of offerings is one hundred and eight.",
+    "The offerings consist of ghee-anointed sesame and rice grains."
+   ],
+   "inference": "One should offer one hundred and eight ghee-anointed sesame and rice grains into the fire.",
+   "uncertainties": [],
+   "plain_english": "One should offer one hundred and eight ghee-anointed sesame seeds and rice grains into the fire."
+  },
+  {
+   "verse": 5631,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive optative for fire oblation",
+     "morph": "3.sg.optative.act √hu"
+    },
+    {
+     "surface": "devyāmṛtam",
+     "gloss": "goddess-nectar",
+     "grounds": "compound indicating nectar offered to or associated with the goddess",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "aṣṭottaram",
+     "gloss": "hundred-and-eight",
+     "grounds": "numeral component forming the count with śatam",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral completing the count of oblations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering to the goddess is prescribed in a count of one hundred and eight?",
+   "premises": [
+    "A fire offering is prescribed.",
+    "The offering is described as goddess-nectar.",
+    "The prescribed count is one hundred and eight."
+   ],
+   "inference": "One should offer goddess-nectar one hundred and eight times.",
+   "uncertainties": [
+    "The exact substance meant by devyāmṛtam is not specified."
+   ],
+   "plain_english": "One should offer the goddess's nectar one hundred and eight times."
+  },
+  {
+   "verse": 5632,
+   "rows": [
+    {
+     "surface": "cittaśāntiḥ",
+     "gloss": "mind-peace",
+     "grounds": "compound denoting tranquility of mind",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "verb indicating the arising of a result",
+     "morph": "3.sg.present.passive √jan"
+    }
+   ],
+   "question": "What inner result arises from the prescribed ritual offering?",
+   "premises": [
+    "A result is said to arise.",
+    "The result is peace of mind."
+   ],
+   "inference": "The prescribed offering produces peace of mind.",
+   "uncertainties": [],
+   "plain_english": "Peace of mind arises."
+  },
+  {
+   "verse": 5633,
+   "rows": [
+    {
+     "surface": "brahmatejomayaḥ",
+     "gloss": "made-of-brahma-splendor",
+     "grounds": "compound describing composition of radiant Brahmanic energy",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner who performed the rite",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "verb expressing radiant appearance",
+     "morph": "3.sg.present.act √bhā"
+    },
+    {
+     "surface": "dehotibhāsvaraḥ",
+     "gloss": "body-very-radiant",
+     "grounds": "compound describing the body as exceedingly luminous",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "How is the practitioner's body transformed by the ritual's effect?",
+   "premises": [
+    "The practitioner's body becomes composed of Brahmanic splendor.",
+    "The body is described as very radiant.",
+    "This radiance is said to shine forth."
+   ],
+   "inference": "The practitioner's body shines, becoming exceedingly radiant with Brahmanic splendor.",
+   "uncertainties": [],
+   "plain_english": "His body, made of Brahmanic splendor, shines forth exceedingly radiant."
+  },
+  {
+   "verse": 5634,
+   "rows": [
+    {
+     "surface": "vṛtāktaiḥ",
+     "gloss": "with-ghee-anointed",
+     "grounds": "instrumental describing substances anointed with ghee; likely sesame or grains",
+     "morph": "compound.m.inst.pl"
+    },
+    {
+     "surface": "aṣṭasāhasram",
+     "gloss": "eight-thousand",
+     "grounds": "numeral specifying the number of oblations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive indicating completion of the oblation",
+     "morph": "absolutive √hu"
+    },
+    {
+     "surface": "pātakanāśanam",
+     "gloss": "sin-destruction",
+     "grounds": "compound naming the result of the oblation",
+     "morph": "compound.n.nom.sg"
+    }
+   ],
+   "question": "What large-scale oblation brings about the destruction of sin?",
+   "premises": [
+    "An oblation is performed with ghee-anointed substances.",
+    "The number of oblations is eight thousand.",
+    "The stated result is destruction of sin."
+   ],
+   "inference": "Offering eight thousand ghee-anointed oblations results in the destruction of sin.",
+   "uncertainties": [
+    "The specific substance anointed with ghee is implied but not named."
+   ],
+   "plain_english": "Having offered eight thousand ghee-anointed oblations, there is destruction of sin."
+  },
+  {
+   "verse": 5635,
+   "rows": [
+    {
+     "surface": "varṣamadhye",
+     "gloss": "within-year",
+     "grounds": "compound indicating a time span inside one year",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "verb indicating the arising of the previously stated result",
+     "morph": "3.sg.present.passive √jan"
+    }
+   ],
+   "question": "Within what period does the destruction of sin come to fruition?",
+   "premises": [
+    "A result is said to arise.",
+    "The time frame specified is within a year."
+   ],
+   "inference": "The destruction of sin arises within a year.",
+   "uncertainties": [],
+   "plain_english": "It comes about within a year."
+  },
+  {
+   "verse": 5636,
+   "rows": [
+    {
+     "surface": "vaidikān",
+     "gloss": "vedic",
+     "grounds": "describes elements derived from Vedic tradition",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manurvedamayaḥ",
+     "gloss": "made-of-manu-veda",
+     "grounds": "compound indicating composition from Manu and Vedic elements",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle introducing a reason",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is this teaching characterized as composed of Vedic and Manu elements?",
+   "premises": [
+    "The teaching is described as made of Manu and Veda.",
+    "Vedic elements are explicitly included.",
+    "A causal reason is being introduced."
+   ],
+   "inference": "The teaching is so characterized because it is composed of Vedic and Manu-derived elements.",
+   "uncertainties": [
+    "The full syntactic completion of the causal clause may continue beyond this verse."
+   ],
+   "plain_english": "Because it is composed of Vedic elements and of Manu and the Veda."
+  },
+  {
+   "verse": 5637,
+   "rows": [
+    {
+     "surface": "uktaḥ",
+     "gloss": "said",
+     "grounds": "past participle indicating prior declaration",
+     "morph": "m.nom.sg.past-passive-participle √vac"
+    },
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "compound indicating all tantric scriptures",
+     "morph": "compound.loc.pl.n"
+    },
+    {
+     "surface": "gopitaḥ",
+     "gloss": "hidden",
+     "grounds": "past participle indicating secrecy",
+     "morph": "m.nom.sg.past-passive-participle √gup"
+    }
+   ],
+   "question": "How is this teaching regarded across all tantric scriptures?",
+   "premises": [
+    "The teaching is said to be spoken of.",
+    "The context is all tantras.",
+    "It is also described as hidden."
+   ],
+   "inference": "This teaching is mentioned in all tantras yet kept hidden.",
+   "uncertainties": [],
+   "plain_english": "It is spoken of in all tantras, yet kept hidden."
+  },
+  {
+   "verse": 5638,
+   "rows": [
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "future declaration by the speaker",
+     "morph": "1.sg.future.act √vac (pra)"
+    },
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "compound indicating all tantric scriptures",
+     "morph": "compound.loc.pl.n"
+    },
+    {
+     "surface": "gopitam",
+     "gloss": "hidden",
+     "grounds": "past participle describing what has been kept secret",
+     "morph": "n.acc.sg.past-passive-participle √gup"
+    }
+   ],
+   "question": "What commitment does the speaker make about the secret tantric teaching?",
+   "premises": [
+    "The speaker promises to declare something.",
+    "The subject is hidden in all tantras.",
+    "The declaration concerns that hidden teaching."
+   ],
+   "inference": "The speaker commits to revealing what is hidden in all tantras.",
+   "uncertainties": [],
+   "plain_english": "I shall declare what is hidden in all tantras."
+  },
+  {
+   "verse": 5639,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal or sequential particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive optative for ritual action",
+     "morph": "3.sg.optative.act √kṛ"
+    },
+    {
+     "surface": "devatyāgādipūrvakam",
+     "gloss": "preceded-by-deity-offering-etc",
+     "grounds": "compound indicating preliminary acts beginning with offering to the deity",
+     "morph": "compound.n.acc.sg"
+    }
+   ],
+   "question": "What preliminary ritual sequence must be performed at this stage?",
+   "premises": [
+    "A subsequent action is prescribed.",
+    "The action is to be performed.",
+    "It must be preceded by deity offering and related acts."
+   ],
+   "inference": "One should then perform the procedure preceded by offering to the deity and so forth.",
+   "uncertainties": [
+    "The exact scope of ādi in devatyāgādi is not specified."
+   ],
+   "plain_english": "Then one should perform the rites preceded by the offering to the deity and so on."
+  },
+  {
+   "verse": 5640,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samakṣam",
+     "gloss": "in-presence",
+     "grounds": "indicates direct presence, possibly of the deity or image",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "refers to the teacher's presence as alternative locus",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samprārthayet",
+     "gloss": "should-pray",
+     "grounds": "prescriptive optative for supplication",
+     "morph": "3.sg.optative.act √arth (sam-pra)"
+    },
+    {
+     "surface": "suram",
+     "gloss": "to-god",
+     "grounds": "object of prayer, the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In whose presence should the practitioner offer prayer to the deity?",
+   "premises": [
+    "Prayer to the deity is prescribed.",
+    "Two alternative settings are given.",
+    "The alternatives are direct presence or the presence of the guru."
+   ],
+   "inference": "One should pray to the deity either in direct presence or before the guru.",
+   "uncertainties": [
+    "Whether samakṣam implies presence of the deity's image is not explicit."
+   ],
+   "plain_english": "One should pray to the deity either in direct presence or in the presence of the guru."
+  },
+  {
+   "verse": 5641,
+   "rows": [
+    {
+     "surface": "dvibhujādidehī",
+     "gloss": "two-armed-etc-bodied",
+     "grounds": "compound describing the meditated form of the deity",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "dhyātaḥ",
+     "gloss": "meditated",
+     "grounds": "past participle indicating the deity as object of meditation",
+     "morph": "m.nom.sg.past-passive-participle √dhyai"
+    },
+    {
+     "surface": "aparādhaśatakam",
+     "gloss": "hundred-offenses",
+     "grounds": "compound indicating many faults committed by the speaker",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun referring to the speaker",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "tatkṣamasva",
+     "gloss": "forgive-that",
+     "grounds": "imperative request for forgiveness; sandhi fusion within token",
+     "morph": "2.sg.imperative.middle √kṣam"
+    }
+   ],
+   "question": "What forgiveness is requested from the meditated deity for accumulated offenses?",
+   "premises": [
+    "The deity is meditated in a two-armed form and so forth.",
+    "The speaker acknowledges a hundred offenses.",
+    "A direct request for forgiveness is made."
+   ],
+   "inference": "The practitioner asks the meditated deity to forgive a hundred offenses.",
+   "uncertainties": [],
+   "plain_english": "O deity meditated as two-armed and so forth, forgive my hundred offenses."
+  },
+  {
+   "verse": 5642,
+   "rows": [
+    {
+     "surface": "bhagavan",
+     "gloss": "o-lord",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "imperative request for forgiveness",
+     "morph": "2.sg.imperative.middle √kṣam"
+    }
+   ],
+   "question": "How does the practitioner directly appeal to the lord for forgiveness?",
+   "premises": [
+    "The deity is addressed as lord.",
+    "A direct imperative of forgiveness is uttered."
+   ],
+   "inference": "The practitioner directly beseeches the lord to forgive.",
+   "uncertainties": [],
+   "plain_english": "O Lord, forgive me."
+  },
+  {
+   "verse": 5643,
+   "rows": [
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "imperative request for forgiveness",
+     "morph": "2.sg.imperative.middle √kṣam"
+    },
+    {
+     "surface": "karuṇākara",
+     "gloss": "o-mine-of-compassion",
+     "grounds": "vocative compound addressing the deity as source of compassion",
+     "morph": "compound.m.voc.sg"
+    },
+    {
+     "surface": "dīnabandho",
+     "gloss": "o-friend-of-poor",
+     "grounds": "vocative compound addressing the deity as friend of the afflicted",
+     "morph": "compound.m.voc.sg"
+    }
+   ],
+   "question": "By what compassionate attributes is the deity invoked when seeking forgiveness?",
+   "premises": [
+    "Forgiveness is requested again.",
+    "The deity is called a mine of compassion.",
+    "The deity is called a friend of the poor or afflicted."
+   ],
+   "inference": "The practitioner seeks forgiveness by invoking the deity's compassion and care for the afflicted.",
+   "uncertainties": [],
+   "plain_english": "Forgive me, O mine of compassion, O friend of the afflicted."
+  },
+  {
+   "verse": 5644,
+   "rows": [
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "spiritual or ritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japāt",
+     "gloss": "from-recitation",
+     "grounds": "ablative indicating recitation as source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bahiṣkṛtapūjanādyaiḥ",
+     "gloss": "by-excluded-worship-etc",
+     "grounds": "compound instrumental indicating external worship and similar acts are excluded as means",
+     "morph": "compound.n.inst.pl"
+    }
+   ],
+   "question": "From what practice does success arise rather than from external worship?",
+   "premises": [
+    "Success is affirmed as arising from recitation.",
+    "External worship and similar acts are negated as the source.",
+    "The contrast distinguishes inner recitation from outer rites."
+   ],
+   "inference": "Success comes from recitation, not from external worship and the like.",
+   "uncertainties": [
+    "The exact scope of bahiṣkṛtapūjanādyaiḥ depends on ritual context."
+   ],
+   "plain_english": "Success comes from recitation, and not from external worship and such acts."
+  },
+  {
+   "verse": 5645,
+   "rows": [
+    {
+     "surface": "mantramūrtyādikam",
+     "gloss": "mantra-form-etc",
+     "grounds": "compound referring to the mantra, its form, and related elements",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "totality of what is to be offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring back to the totality mentioned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive optative for dedication or offering",
+     "morph": "3.sg.optative.act √ṛ (sam)"
+    }
+   ],
+   "question": "To whom should the mantra, its form, and all related elements be offered?",
+   "premises": [
+    "The mantra, its form, and related elements are specified.",
+    "All of these are to be offered.",
+    "The guru is named as the recipient."
+   ],
+   "inference": "One should offer the mantra, its form, and all related elements to the guru.",
+   "uncertainties": [],
+   "plain_english": "One should offer all that—the mantra, its form, and so forth—to the guru."
+  },
+  {
+   "verse": 5646,
+   "rows": [
+    {
+     "surface": "dviguṇitam",
+     "gloss": "doubled",
+     "grounds": "past participle indicating multiplication by two",
+     "morph": "n.acc.sg.past-passive-participle √guṇ (dvi)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates general applicability",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taddināt",
+     "gloss": "from-that-day",
+     "grounds": "compound ablative indicating the starting point in time",
+     "morph": "compound.abl.sg.n"
+    }
+   ],
+   "question": "What adjustment in practice is prescribed universally from that day onward?",
+   "premises": [
+    "A doubling is prescribed.",
+    "The prescription applies everywhere or in all cases.",
+    "The change begins from that day."
+   ],
+   "inference": "From that day onward, the practice should be doubled in all cases.",
+   "uncertainties": [
+    "What exactly is to be doubled is not stated in this verse."
+   ],
+   "plain_english": "From that day onward, it should be doubled everywhere."
+  },
+  {
+   "verse": 5647,
+   "rows": [
+    {
+     "surface": "devatātyāgaḥ",
+     "gloss": "deity-offering",
+     "grounds": "compound naming the ritual act of relinquishing or offering to the deity",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of the offering",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "tubhyam",
+     "gloss": "to-you",
+     "grounds": "recipient of the dedication",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "niveditaḥ",
+     "gloss": "offered",
+     "grounds": "past participle indicating formal dedication",
+     "morph": "m.nom.sg.past-passive-participle √vid (ni)"
+    }
+   ],
+   "question": "What ritual dedication does the practitioner declare to the recipient?",
+   "premises": [
+    "The act named is offering to the deity.",
+    "The speaker identifies himself as the agent.",
+    "The act is formally offered to the recipient."
+   ],
+   "inference": "The practitioner declares that the offering to the deity has been dedicated to the recipient.",
+   "uncertainties": [
+    "The identity of the recipient addressed as tubhyam is context-dependent."
+   ],
+   "plain_english": "The offering to the deity has been made by me and dedicated to you."
+  },
+  {
+   "verse": 5648,
+   "rows": [
+    {
+     "surface": "pratyaṅgirāmantrakathanaprakāśaḥ",
+     "gloss": "pratyangira-mantra-exposition-light",
+     "grounds": "long compound naming the section on the exposition of the Pratyangira mantra",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "caturdaśaḥ",
+     "gloss": "fourteenth",
+     "grounds": "ordinal indicating chapter or section number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What section title and number conclude this portion of the text?",
+   "premises": [
+    "A section is named as the exposition of the Pratyangira mantra.",
+    "The section is identified by an ordinal number.",
+    "The ordinal given is fourteenth."
+   ],
+   "inference": "This portion concludes with the fourteenth section, the exposition of the Pratyangira mantra.",
+   "uncertainties": [],
+   "plain_english": "This is the fourteenth section, the exposition of the Pratyangira mantra."
+  },
+  {
+   "verse": 5649,
+   "rows": [
+    {
+     "surface": "yantrāṇi",
+     "gloss": "diagrams",
+     "grounds": "ritual diagrams or mystical figures",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive expressing desire to learn",
+     "morph": "infinitive √śru"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-desire",
+     "grounds": "first-person statement of wish",
+     "morph": "1.sg.present.act √iṣ"
+    },
+    {
+     "surface": "vāñchitārthapradāni",
+     "gloss": "granting-desired-objects",
+     "grounds": "compound describing diagrams that grant wished-for aims",
+     "morph": "compound.n.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What desire is expressed regarding diagrams that grant wished-for aims?",
+   "premises": [
+    "A desire to hear is expressed.",
+    "The objects of desire are diagrams.",
+    "Those diagrams are described as granting desired aims."
+   ],
+   "inference": "The speaker expresses a desire to hear about diagrams that grant wished-for aims.",
+   "uncertainties": [],
+   "plain_english": "I desire to hear about the diagrams that indeed grant desired aims."
+  }
+ ]
+}

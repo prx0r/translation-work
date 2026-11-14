@@ -1,0 +1,997 @@
+{
+ "song": "mukta-m0-p277",
+ "items": [
+  {
+   "verse": 6901,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kauśaṃ",
+     "gloss": "silk",
+     "grounds": "plant or material name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "giri",
+     "gloss": "mountain",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karṇiṃ",
+     "gloss": "ear-plant",
+     "grounds": "plant name, second member",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīyamāṇaṃ",
+     "gloss": "being-diminished",
+     "grounds": "present passive participle",
+     "morph": "part.pass.pres-m.acc.sg"
+    },
+    {
+     "surface": "kaṭambharām",
+     "gloss": "kaṭambharā-plant",
+     "grounds": "plant name",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which specific plants and materials must be placed among the ritual substances?",
+   "premises": [
+    "The verse lists kauśa, girikarṇī, and kaṭambharā.",
+    "The term hīyamāṇaṃ qualifies one of the items.",
+    "These items are included with the conjunction ca."
+   ],
+   "inference": "Kauśa, girikarṇī, and diminishing kaṭambharā are to be included as ritual substances.",
+   "uncertainties": [
+    "Exact botanical identification of kauśa, girikarṇī, and kaṭambharā is uncertain."
+   ],
+   "plain_english": "One should include kauśa, girikarṇī, and the diminishing kaṭambharā."
+  },
+  {
+   "verse": 6902,
+   "rows": [
+    {
+     "surface": "śatāvarīṃ",
+     "gloss": "śatāvarī",
+     "grounds": "plant name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "somavalliṃ",
+     "gloss": "soma-creeper",
+     "grounds": "plant name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act-√nikṣip"
+    },
+    {
+     "surface": "kalaśeṣu",
+     "gloss": "in-pots",
+     "grounds": "ritual vessels",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should śatāvarī and somavallī be deposited during the ritual preparation?",
+   "premises": [
+    "Śatāvarī and somavallī are named as substances.",
+    "The verb nikṣipet prescribes placing them.",
+    "The location specified is kalaśeṣu, in the pots."
+   ],
+   "inference": "Śatāvarī and somavallī must be placed in the ritual pots.",
+   "uncertainties": [],
+   "plain_english": "One should place śatāvarī and the soma-creeper in the pots."
+  },
+  {
+   "verse": 6903,
+   "rows": [
+    {
+     "surface": "gandhaiḥ",
+     "gloss": "with-scents",
+     "grounds": "ritual offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "puṣpaiśca",
+     "gloss": "and-with-flowers",
+     "grounds": "puṣpaiḥ + ca fused in token",
+     "morph": "n.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "dhūpaiśca",
+     "gloss": "and-with-incense",
+     "grounds": "dhūpaiḥ + ca fused in token",
+     "morph": "m.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "dīpanaivedyakairapi",
+     "gloss": "and-also-with-lamps-and-food-offerings",
+     "grounds": "compound dīpa-naivedyaka with instrumental plural and api",
+     "morph": "n.inst.pl+(indecl.)"
+    }
+   ],
+   "question": "What additional offerings must accompany the ritual worship in this context?",
+   "premises": [
+    "Scents are specified as offerings.",
+    "Flowers and incense are added with ca.",
+    "Lamps and food offerings are included with api."
+   ],
+   "inference": "The worship must include scents, flowers, incense, lamps, and food offerings.",
+   "uncertainties": [],
+   "plain_english": "One should worship with scents, flowers, incense, and also with lamps and food offerings."
+  },
+  {
+   "verse": 6904,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.opt.act-√hu"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverbial expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-fire-pit",
+     "grounds": "ritual fire altar",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvadravyairyathā",
+     "gloss": "with-previous-materials-as",
+     "grounds": "pūrva-dravyaiḥ + yathā fused in token",
+     "morph": "n.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "kramam",
+     "gloss": "in-order",
+     "grounds": "adverbial accusative indicating sequence",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the fire oblation be performed in the ritual fire pit?",
+   "premises": [
+    "The verb juhuyāt prescribes making oblations.",
+    "The oblation is to be done in the kuṇḍa.",
+    "It must follow the previous manner, materials, and order."
+   ],
+   "inference": "Oblations should be made in the fire pit as before, with the previous materials and in due order.",
+   "uncertainties": [],
+   "plain_english": "One should offer oblations in the fire pit as before, with the previous materials and in the proper order."
+  },
+  {
+   "verse": 6905,
+   "rows": [
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidvāji",
+     "gloss": "knowing-horse",
+     "grounds": "compound element as given in token",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaidyābhyāṃ",
+     "gloss": "with-two-physicians",
+     "grounds": "instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "accompanied",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvadiṅmukhaṃ",
+     "gloss": "facing-east",
+     "grounds": "compound describing direction",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who must accompany the officiant and in which direction should the horse face?",
+   "premises": [
+    "The officiant is accompanied by two physicians.",
+    "The compound veda-vidvāji qualifies the context as given.",
+    "The horse is to be oriented facing east."
+   ],
+   "inference": "Accompanied by two physicians, one should proceed with the horse facing east.",
+   "uncertainties": [
+    "The exact analysis of the token vidvāji is uncertain."
+   ],
+   "plain_english": "Accompanied by two physicians, he should have the horse facing east."
+  },
+  {
+   "verse": 6906,
+   "rows": [
+    {
+     "surface": "āruhya",
+     "gloss": "having-mounted",
+     "grounds": "absolutive participle",
+     "morph": "abs-√āruh"
+    },
+    {
+     "surface": "turagaśreṣṭhaṃ",
+     "gloss": "best-horse",
+     "grounds": "compound turaga-śreṣṭha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpayettoraṇāntikam",
+     "gloss": "should-bring-near-gateway",
+     "grounds": "prāpayet + toraṇa-antikam fused in token",
+     "morph": "3.sg.opt.caus.act-√āp+m.acc.sg"
+    }
+   ],
+   "question": "What action must be taken after mounting the best horse in the ritual?",
+   "premises": [
+    "The agent first mounts the best horse.",
+    "The verb prāpayet prescribes bringing or leading it.",
+    "The destination specified is the vicinity of the gateway."
+   ],
+   "inference": "After mounting the best horse, one should bring it near the gateway.",
+   "uncertainties": [],
+   "plain_english": "Having mounted the best horse, one should bring it near the gateway."
+  },
+  {
+   "verse": 6907,
+   "rows": [
+    {
+     "surface": "śvetacandanamālāḍhyaṃ",
+     "gloss": "adorned-with-white-sandal-garland",
+     "grounds": "compound śveta-candana-mālā-āḍhya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "cloth",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "past participle qualifying the horse",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the horse be adorned before being presented in the ritual?",
+   "premises": [
+    "The horse is adorned with a white sandalwood garland.",
+    "It is also endowed with white cloth.",
+    "Both descriptions qualify the same object."
+   ],
+   "inference": "The horse must be adorned with a white sandalwood garland and white cloth.",
+   "uncertainties": [],
+   "plain_english": "It should be adorned with a garland of white sandalwood and provided with white cloth."
+  },
+  {
+   "verse": 6908,
+   "rows": [
+    {
+     "surface": "kadalī",
+     "gloss": "banana",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "past participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyādvāji",
+     "gloss": "should-give-horse",
+     "grounds": "dadyāt + vāji fused in token",
+     "morph": "3.sg.opt.act-√dā+compound-member"
+    },
+    {
+     "surface": "varāya",
+     "gloss": "to-excellent",
+     "grounds": "dative recipient or qualifier",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering should be given to the excellent horse in this rite?",
+   "premises": [
+    "Banana fruit is specified as an accompaniment.",
+    "The verb dadyāt prescribes giving.",
+    "The recipient is indicated as the excellent horse."
+   ],
+   "inference": "One should give banana fruit to the excellent horse.",
+   "uncertainties": [
+    "The exact segmentation of dadyādvāji and varāya in context is slightly uncertain."
+   ],
+   "plain_english": "And one should give it, together with banana fruit, to the excellent horse."
+  },
+  {
+   "verse": 6909,
+   "rows": [
+    {
+     "surface": "kevalasthaistadā",
+     "gloss": "then-with-standing-alone",
+     "grounds": "kevala-sthaiḥ + tadā fused in token",
+     "morph": "m.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "toyai",
+     "gloss": "with-waters",
+     "grounds": "instrumental plural, sandhi form as given",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śākhayo",
+     "gloss": "with-branch",
+     "grounds": "instrumental form as given in token",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "duṃbaro",
+     "gloss": "udumbara",
+     "grounds": "first part of tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tthayā",
+     "gloss": "born-from",
+     "grounds": "second part fused in token, related to utthayā",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What materials are used for sprinkling at this stage of the ritual?",
+   "premises": [
+    "Waters are specified as the sprinkling substance.",
+    "A branch is used in the action.",
+    "The branch is associated with the udumbara tree."
+   ],
+   "inference": "Sprinkling is to be done with waters using a branch of the udumbara tree.",
+   "uncertainties": [
+    "The tokenization and sandhi in śākhayo duṃbaro tthayā are unclear."
+   ],
+   "plain_english": "Then, with waters alone, using a branch of the udumbara tree."
+  },
+  {
+   "verse": 6910,
+   "rows": [
+    {
+     "surface": "rājānaṃ",
+     "gloss": "king",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hastinaṃ",
+     "gloss": "elephant",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścāccamūṃ",
+     "gloss": "afterwards-army",
+     "grounds": "paścāt + camūm fused in token",
+     "morph": "(indecl.)+f.acc.sg"
+    },
+    {
+     "surface": "saṃprokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive participle",
+     "morph": "abs-√saṃprokṣ"
+    },
+    {
+     "surface": "ttadā",
+     "gloss": "then",
+     "grounds": "temporal adverb with sandhi doubling",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom must be sprinkled in sequence after the preparatory sprinkling is performed?",
+   "premises": [
+    "The king is named as an object of sprinkling.",
+    "The elephant is named next.",
+    "The army is sprinkled afterwards."
+   ],
+   "inference": "One should sprinkle the king, the elephant, and then the army.",
+   "uncertainties": [],
+   "plain_english": "Then, having sprinkled the king, the elephant, and afterwards the army."
+  },
+  {
+   "verse": 6911,
+   "rows": [
+    {
+     "surface": "ābhicārakamantraistu",
+     "gloss": "but-with-hostile-ritual-mantras",
+     "grounds": "ābhicāraka-mantraiḥ + tu fused in token",
+     "morph": "m.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "tīkṣṇa",
+     "gloss": "sharp",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛṣnamayena",
+     "gloss": "made-of-black",
+     "grounds": "instrumental adjective",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of mantras and materials are employed in this phase of the rite?",
+   "premises": [
+    "Ābhicāraka mantras are specified.",
+    "A sharp quality is indicated.",
+    "A black-made material is included."
+   ],
+   "inference": "The rite employs hostile mantras together with something sharp and black-made.",
+   "uncertainties": [
+    "The exact referent of tīkṣṇa kṛṣnamayena is not explicit."
+   ],
+   "plain_english": "But with hostile ritual mantras, and with something sharp and made of black material."
+  },
+  {
+   "verse": 6912,
+   "rows": [
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijaya",
+     "gloss": "victory",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhyarthaṃ",
+     "gloss": "for-success",
+     "grounds": "purpose compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gacchenmaṅgala",
+     "gloss": "should-go-auspicious",
+     "grounds": "gacchet + maṅgala fused in token",
+     "morph": "3.sg.opt.act-√gam+compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "For what purpose should the king proceed with auspicious accompaniments?",
+   "premises": [
+    "The king is the subject who should go.",
+    "The purpose stated is success in victory.",
+    "He should be accompanied by auspicious elements."
+   ],
+   "inference": "The king should proceed with auspicious accompaniments for the attainment of victory.",
+   "uncertainties": [],
+   "plain_english": "For the sake of achieving victory, the king should go forth accompanied by auspicious things."
+  },
+  {
+   "verse": 6913,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "but",
+     "grounds": "particle introducing qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛttikāmāse",
+     "gloss": "in-kṛttikā-month",
+     "grounds": "locative time expression",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "turaṅgarkṣe'samācaret",
+     "gloss": "should-perform-in-horse-asterism",
+     "grounds": "turaṅga-ṛkṣe + asamācaret fused with sandhi",
+     "morph": "n.loc.sg+3.sg.opt.act-√samācar"
+    }
+   ],
+   "question": "At what specific time should this ritual action be performed?",
+   "premises": [
+    "The verse introduces a qualification with kiṃ tu.",
+    "The month specified is Kṛttikā.",
+    "The asterism specified is associated with the horse."
+   ],
+   "inference": "This action should be performed in the month of Kṛttikā under the horse asterism.",
+   "uncertainties": [
+    "The exact identification of turaṅgarkṣa is uncertain."
+   ],
+   "plain_english": "But one should perform that in the month of Kṛttikā, under the horse asterism."
+  },
+  {
+   "verse": 6914,
+   "rows": [
+    {
+     "surface": "gajayāne",
+     "gloss": "in-elephant-vehicle",
+     "grounds": "locative context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśeṣo'yaṃ",
+     "gloss": "this-special-rule",
+     "grounds": "viśeṣaḥ + ayam fused with sandhi",
+     "morph": "m.nom.sg+m.nom.sg"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "shape adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭakam",
+     "gloss": "enclosure",
+     "grounds": "structure or pavilion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What special structural requirement applies in the case of the elephant vehicle rite?",
+   "premises": [
+    "The context is specified as gajayāna.",
+    "The verse states a special rule.",
+    "A square kūṭaka is prescribed."
+   ],
+   "inference": "In the elephant-vehicle rite, there is a special requirement for a square enclosure.",
+   "uncertainties": [
+    "The precise meaning of kūṭaka in this ritual context is uncertain."
+   ],
+   "plain_english": "In the case of the elephant vehicle, this is the special rule: a square enclosure."
+  },
+  {
+   "verse": 6915,
+   "rows": [
+    {
+     "surface": "śatahastamitaṃ",
+     "gloss": "measuring-hundred-cubits",
+     "grounds": "compound indicating size",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāccaturaśraṃ",
+     "gloss": "should-make-square",
+     "grounds": "kuryāt + caturaśram fused in token",
+     "morph": "3.sg.opt.act-√kṛ+n.acc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "past participle describing agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What dimensions and form must the ritual structure have when carefully constructed?",
+   "premises": [
+    "The structure must measure one hundred hastas.",
+    "It must be made square.",
+    "The agent must act with concentration."
+   ],
+   "inference": "With concentration, one should make a square structure measuring one hundred hastas.",
+   "uncertainties": [],
+   "plain_english": "Being composed, one should make it square, measuring a hundred cubits."
+  },
+  {
+   "verse": 6916,
+   "rows": [
+    {
+     "surface": "pañcāśat",
+     "gloss": "fifty",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral element as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśādvā",
+     "gloss": "or-from-twenty",
+     "grounds": "viṃśāt + vā fused in token",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "samantātsamidho",
+     "gloss": "all-around-fuel-sticks",
+     "grounds": "samantāt + samidhaḥ fused in token",
+     "morph": "(indecl.)+f.acc.pl"
+    },
+    {
+     "surface": "havet",
+     "gloss": "should-offer",
+     "grounds": "optative verb form as given",
+     "morph": "3.sg.opt.act-√hu"
+    }
+   ],
+   "question": "How many fuel sticks may be offered around the ritual area?",
+   "premises": [
+    "The verse gives numerical options for the offering.",
+    "The fuel sticks are to be placed all around.",
+    "The verb havet prescribes offering them."
+   ],
+   "inference": "One may offer fifty, twenty-five, or twenty fuel sticks all around.",
+   "uncertainties": [
+    "The exact parsing of pañca viṃśādvā as twenty-five or alternatives is uncertain."
+   ],
+   "plain_english": "One should offer fifty, twenty-five, or twenty fuel sticks all around."
+  },
+  {
+   "verse": 6917,
+   "rows": [
+    {
+     "surface": "vedyāṃ",
+     "gloss": "on-altar",
+     "grounds": "locative place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "toraṇa",
+     "gloss": "gateway",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mālābhī",
+     "gloss": "with-garlands",
+     "grounds": "instrumental form as given in token",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ramye",
+     "gloss": "beautiful",
+     "grounds": "adjective qualifying altar",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śrīcāturantake",
+     "gloss": "in-śrī-cāturantaka",
+     "grounds": "locative name or ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the garlanded gateway arrangement be set up for the rite?",
+   "premises": [
+    "The location specified is the altar.",
+    "The altar is described as beautiful.",
+    "It is adorned with gateway garlands in the śrī-cāturantaka context."
+   ],
+   "inference": "The arrangement should be set up on the beautiful altar adorned with gateway garlands in the śrī-cāturantaka.",
+   "uncertainties": [
+    "The meaning of śrīcāturantake is uncertain."
+   ],
+   "plain_english": "On the beautiful altar, adorned with gateway garlands, in the śrī-cāturantaka."
+  },
+  {
+   "verse": 6918,
+   "rows": [
+    {
+     "surface": "vardhamānatarūtthābhiḥ",
+     "gloss": "with-those-arising-from-growing-trees",
+     "grounds": "compound vardhamāna-taru-utthābhiḥ",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "dīpikābhirhutāśanam",
+     "gloss": "fire-with-lamps",
+     "grounds": "dīpikābhiḥ + hutāśanam fused in token",
+     "morph": "f.inst.pl+m.acc.sg"
+    }
+   ],
+   "question": "With what kind of lamps should the sacred fire be honored in this rite?",
+   "premises": [
+    "Lamps are used in relation to the fire.",
+    "The lamps arise from growing trees.",
+    "The fire is the object of the action."
+   ],
+   "inference": "The sacred fire should be honored with lamps made from growing trees.",
+   "uncertainties": [
+    "The exact material sense of vardhamānatarūtthābhiḥ is uncertain."
+   ],
+   "plain_english": "One should honor the fire with lamps made from growing trees."
+  },
+  {
+   "verse": 6919,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive participle",
+     "morph": "abs-√saṃpūj"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-scents-flowers-and-others",
+     "grounds": "compound gandha-puṣpa-ādyaiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bhavaṃ",
+     "gloss": "bhava",
+     "grounds": "name of deity Śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nīrājayetpurā",
+     "gloss": "should-wave-lights-first",
+     "grounds": "nīrājayet + purā fused in token",
+     "morph": "3.sg.opt.caus.act-√nīrāj+(indecl.)"
+    }
+   ],
+   "question": "Which deity must be honored first with the nīrājana light-waving ritual?",
+   "premises": [
+    "Bhava is worshipped with scents, flowers, and other offerings.",
+    "The verb nīrājayet prescribes the light-waving rite.",
+    "The word purā indicates this is done first."
+   ],
+   "inference": "Bhava must first be honored with nīrājana after worship with scents, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped Bhava with scents, flowers, and so forth, one should first perform the nīrājana rite for him."
+  },
+  {
+   "verse": 6920,
+   "rows": [
+    {
+     "surface": "vighneśaṃ",
+     "gloss": "vighneśa",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caṇḍikāṃ",
+     "gloss": "caṇḍikā",
+     "grounds": "deity name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sūryaṃ",
+     "gloss": "sun",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yakṣānmātṛgaṇāṃstathā",
+     "gloss": "and-yakṣas-and-mother-groups-likewise",
+     "grounds": "yakṣān + mātṛ-gaṇān + tathā fused in token",
+     "morph": "m.acc.pl+m.acc.pl+(indecl.)"
+    }
+   ],
+   "question": "Which additional deities are included in the worship sequence after Bhava?",
+   "premises": [
+    "Vighneśa, Caṇḍikā, and Sūrya are named.",
+    "Yakṣas and groups of Mothers are also named.",
+    "The word tathā indicates their inclusion in the same sequence."
+   ],
+   "inference": "Vighneśa, Caṇḍikā, Sūrya, the Yakṣas, and the groups of Mothers are also to be honored.",
+   "uncertainties": [],
+   "plain_english": "One should also honor Vighneśa, Caṇḍikā, Sūrya, the Yakṣas, and likewise the groups of Mothers."
+  },
+  {
+   "verse": 6921,
+   "rows": [
+    {
+     "surface": "nīrājanaṃ",
+     "gloss": "light-waving-rite",
+     "grounds": "ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gavāṃ",
+     "gloss": "of-cows",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kuryānmahiṣyādeśca",
+     "gloss": "should-do-and-of-buffalo-cow-and-others",
+     "grounds": "kuryāt + mahiṣyā-ādeḥ + ca fused in token",
+     "morph": "3.sg.opt.act-√kṛ+f.gen.sg+(indecl.)"
+    },
+    {
+     "surface": "bhrāmayet",
+     "gloss": "should-wave-around",
+     "grounds": "optative causative verb",
+     "morph": "3.sg.opt.caus.act-√bhram"
+    }
+   ],
+   "question": "For which animals should the nīrājana rite be performed and waved around?",
+   "premises": [
+    "The nīrājana rite is prescribed.",
+    "Cows are explicitly mentioned.",
+    "Buffalo cows and others are included with ca."
+   ],
+   "inference": "One should perform nīrājana for cows and also for buffalo cows and others, waving it around them.",
+   "uncertainties": [],
+   "plain_english": "One should perform the nīrājana rite for cows and also for buffalo cows and others, and wave it around them."
+  },
+  {
+   "verse": 6922,
+   "rows": [
+    {
+     "surface": "nīrājayetviśeṣeṇa",
+     "gloss": "should-wave-lights-especially",
+     "grounds": "nīrājayet + viśeṣeṇa fused in token",
+     "morph": "3.sg.opt.caus.act-√nīrāj+m.inst.sg"
+    },
+    {
+     "surface": "rājānaṃ",
+     "gloss": "king",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "compound deśika-uttama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must especially perform the nīrājana rite for the king?",
+   "premises": [
+    "The nīrājana rite is to be performed especially.",
+    "The king is the object of the rite.",
+    "The agent specified is the best teacher."
+   ],
+   "inference": "The best teacher must especially perform the nīrājana rite for the king.",
+   "uncertainties": [],
+   "plain_english": "The best teacher should especially perform the nīrājana rite for the king."
+  },
+  {
+   "verse": 6923,
+   "rows": [
+    {
+     "surface": "siṃhāsanasthaṃ",
+     "gloss": "seated-on-throne",
+     "grounds": "compound siṃhāsana-stha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rājānaṃ",
+     "gloss": "king",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāmanta",
+     "gloss": "feudatory",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramukhāvṛtam",
+     "gloss": "surrounded-by-chiefs-and-others",
+     "grounds": "compound pramukha-āvṛta",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In what setting and company should the king receive the ritual honor?",
+   "premises": [
+    "The king is seated on a throne.",
+    "He is surrounded by feudatories and other chiefs.",
+    "Both descriptions qualify the king receiving the rite."
+   ],
+   "inference": "The king should receive the honor while seated on the throne and surrounded by feudatories and chiefs.",
+   "uncertainties": [],
+   "plain_english": "The king, seated on the throne and surrounded by feudatories and other chiefs."
+  },
+  {
+   "verse": 6924,
+   "rows": [
+    {
+     "surface": "rūpayauvana",
+     "gloss": "beauty-and-youth",
+     "grounds": "first part of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃpanna",
+     "gloss": "endowed-with",
+     "grounds": "past participle in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "veśyābhirvātha",
+     "gloss": "or-else-with-courtesans",
+     "grounds": "veśyābhiḥ + vā + atha fused in token",
+     "morph": "f.inst.pl+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-do",
+     "grounds": "optative causative verb",
+     "morph": "3.sg.opt.caus.act-√kṛ"
+    }
+   ],
+   "question": "Who may alternatively be made to perform the ritual action for the king?",
+   "premises": [
+    "Courtesans endowed with beauty and youth are mentioned.",
+    "The particle vā indicates an alternative.",
+    "The verb kārayet prescribes causing the action to be done."
+   ],
+   "inference": "Alternatively, courtesans endowed with beauty and youth may be made to perform the rite.",
+   "uncertainties": [],
+   "plain_english": "Or else, one should have it performed by courtesans endowed with beauty and youth."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "pratītimātrameva",
+     "gloss": "appearance-only-indeed",
+     "grounds": "compound of pratīti (appearance/cognition), mātra (mere/only), and emphatic eva",
+     "morph": "compound.indecl"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvatā",
+     "gloss": "to-that-extent",
+     "grounds": "correlative indicating limitation or degree",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bandhamokṣatā",
+     "gloss": "bondage-liberation-state",
+     "grounds": "abstract noun from dvandva bandha-mokṣa with -tā suffix",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What constitutes the true ontological status of bondage and liberation in this context?",
+   "premises": [
+    "Bondage and liberation were previously characterized as forms of ignorance.",
+    "Their presence here is qualified as mere appearance only.",
+    "Their status is limited to that extent alone."
+   ],
+   "inference": "Therefore, bondage and liberation have no reality beyond being mere appearances.",
+   "uncertainties": [
+    "Whether pratīti emphasizes subjective cognition or objective appearance is context-dependent."
+   ],
+   "plain_english": "Here, the state of bondage and liberation is only mere appearance, and nothing more than that."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-alternatively",
+     "grounds": "introduces an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaviprāṇāṃ",
+     "gloss": "of-remaining-brahmins",
+     "grounds": "compound indicating the remaining brahmins as beneficiaries",
+     "morph": "compound: śeṣa+vipra, m.gen.pl"
+    },
+    {
+     "surface": "nīvrahomādvidhīyate",
+     "gloss": "from-plinth-offering-is-prescribed",
+     "grounds": "fused form combining ablative source and passive prescription",
+     "morph": "compound+verb: nīvra+homa, m.abl.sg + vi-dhā, 3.sg.pass-present"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "states ritual prescription",
+     "morph": "verb: vi-dhā, 3.sg.pass-present"
+    }
+   ],
+   "question": "What alternative ritual procedure is prescribed for the remaining brahmins?",
+   "premises": [
+    "An alternative option is introduced.",
+    "The remaining brahmins are the recipients of the rite.",
+    "A prescription is made in connection with the plinth offering."
+   ],
+   "inference": "Alternatively, the prescribed procedure for the remaining brahmins is performed through the plinth offering.",
+   "uncertainties": [
+    "The exact referent of nīvra in this ritual context is not fully specified.",
+    "The repetition or fusion involving vidhīyate may reflect textual transmission issues."
+   ],
+   "plain_english": "Alternatively, for the remaining brahmins, it is prescribed through the plinth offering."
+  }
+ ]
+}

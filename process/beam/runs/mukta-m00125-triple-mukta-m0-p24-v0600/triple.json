@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "puṇyāham",
+     "gloss": "auspicious-benediction",
+     "grounds": "ritual benediction recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācayitvā",
+     "gloss": "having-caused-to-recite",
+     "grounds": "causative absolutive of recitation",
+     "morph": "(abs.) √vac-caus"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "indicates initial step in sequence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "triśūle",
+     "gloss": "on-trident",
+     "grounds": "locus for placing the deity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "object to be installed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.act-opt. √nyas"
+    }
+   ],
+   "question": "What preliminary rite must precede installing the deity upon the trident?",
+   "premises": [
+    "An auspicious benediction must be caused to be recited.",
+    "This recitation is performed at the beginning.",
+    "The deity is to be placed on the trident."
+   ],
+   "inference": "The recitation of the auspicious benediction must be completed before placing the deity on the trident.",
+   "uncertainties": [],
+   "plain_english": "First, having had the auspicious benediction recited, one should place the deity on the trident."
+  }
+ ]
+}

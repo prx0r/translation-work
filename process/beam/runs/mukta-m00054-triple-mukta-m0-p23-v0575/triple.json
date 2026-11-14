@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "kālyai",
+     "gloss": "to-kālī",
+     "grounds": "recipient of offering; dative of the goddess Kālī",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "niveditaṃ",
+     "gloss": "offered",
+     "grounds": "that which has been presented as an offering",
+     "morph": "n.nom.sg ppp ni-√vid"
+    },
+    {
+     "surface": "yadyat",
+     "gloss": "whatever",
+     "grounds": "distributive relative pronoun indicating any and all items",
+     "morph": "n.nom.sg (indecl. compound)"
+    },
+    {
+     "surface": "tadaṃśam",
+     "gloss": "that-portion",
+     "grounds": "a share of that offered substance",
+     "morph": "m.acc.sg tat+aṃśa"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "one-should-eat",
+     "grounds": "injunctive prescription to consume",
+     "morph": "3.sg.opt.act √bhakṣ"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What portion of items offered to Kālī must the practitioner consume?",
+   "premises": [
+    "Items may be offered to Kālī.",
+    "Any such offered item has a portion designated for the practitioner.",
+    "Ritual instruction prescribes consuming that portion."
+   ],
+   "inference": "Therefore, the practitioner should eat a portion of whatever has been offered to Kālī.",
+   "uncertainties": [
+    "The exact size or nature of the portion (aṃśa) is not specified in this verse."
+   ],
+   "plain_english": "O Śivā, whatever is offered to Kālī, one should eat a portion of that."
+  }
+ ]
+}

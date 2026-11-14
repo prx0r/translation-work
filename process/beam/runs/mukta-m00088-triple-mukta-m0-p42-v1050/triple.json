@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence adverb following prior worship instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturguṇā",
+     "gloss": "fourfold",
+     "grounds": "adjective describing the declared rite",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle of pra-vac in feminine nominative form",
+     "morph": "verb.part.f.nom.sg"
+    },
+    {
+     "surface": "puruṣottamasannidhau",
+     "gloss": "in-puruṣottama-presence",
+     "grounds": "compound locative singular masculine",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "What is declared fourfold in the presence of Puruṣottama?",
+   "premises": [
+    "fourfold worship is declared",
+    "it occurs in Puruṣottama's presence",
+    "sequence follows prior worship"
+   ],
+   "inference": "the rite becomes fourfold before Puruṣottama",
+   "uncertainties": [
+    "exact referent of fourfold is not specified in this verse"
+   ],
+   "plain_english": "Then a fourfold rite is declared in the presence of Puruṣottama."
+  }
+ ]
+}

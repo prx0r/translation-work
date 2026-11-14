@@ -1,0 +1,1037 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "devatāyāḥ",
+     "gloss": "of-the-deity",
+     "grounds": "genitive singular of devatā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "siraḥ",
+     "gloss": "head",
+     "grounds": "accusative singular of siras",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative third singular of kṛ",
+     "morph": "3.sg.opt-act root-kṛ"
+    },
+    {
+     "surface": "kusumopahitaṃ",
+     "gloss": "flower-adorned",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the deity's head be adorned in worship?",
+   "premises": [
+    "The deity's head should be made flower-adorned",
+    "This adornment is to be done always"
+   ],
+   "inference": "The head of the deity is to be adorned with flowers always.",
+   "uncertainties": [
+    "Exact ritual context of siraḥ is not specified"
+   ],
+   "plain_english": "The deity's head should always be adorned with flowers."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular of pūj",
+     "morph": "3.sg.opt-act root-pūj"
+    },
+    {
+     "surface": "paramesānīṃ",
+     "gloss": "supreme-goddess",
+     "grounds": "accusative singular of paramesānī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "puṣpābhāve",
+     "gloss": "in-absence-of-flowers",
+     "grounds": "locative singular of puṣpābhāva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patrakaiḥ",
+     "gloss": "with-leaves",
+     "grounds": "instrumental plural of patraka",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How should the supreme goddess be worshipped when flowers are absent?",
+   "premises": [
+    "In absence of flowers worship should still occur",
+    "Leaves are the substitute offering"
+   ],
+   "inference": "When flowers are unavailable, the supreme goddess should be worshipped with leaves.",
+   "uncertainties": [
+    "No specific leaf type is named"
+   ],
+   "plain_english": "In the absence of flowers, worship the supreme goddess with leaves."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "oṣadhīnām",
+     "gloss": "of-herbs",
+     "grounds": "genitive plural of oṣadhī",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "abhāve",
+     "gloss": "in-absence",
+     "grounds": "locative singular of abhāva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatphalairapi",
+     "gloss": "with-their-fruits",
+     "grounds": "instrumental plural of tatphala with api",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular of pūj",
+     "morph": "3.sg.opt-act root-pūj"
+    }
+   ],
+   "question": "What substitute offering is prescribed when herbs are unavailable?",
+   "premises": [
+    "In absence of herbs worship continues",
+    "Their fruits may be used for worship"
+   ],
+   "inference": "When herbs are unavailable, worship should be performed with their fruits.",
+   "uncertainties": [
+    "Which herbs and fruits are intended is unspecified"
+   ],
+   "plain_english": "If herbs are unavailable, worship with their fruits."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "sitaistathā",
+     "gloss": "with-white-ones",
+     "grounds": "instrumental plural of sita with tathā",
+     "morph": "adj.inst.pl"
+    },
+    {
+     "surface": "'pyalābhe",
+     "gloss": "also-in-non-availability",
+     "grounds": "locative singular of alābha with api",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasīṃ",
+     "gloss": "mental",
+     "grounds": "accusative singular feminine of mānasa",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaktim",
+     "gloss": "devotion",
+     "grounds": "accusative singular of bhakti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-practice",
+     "grounds": "optative third singular of ācar",
+     "morph": "3.sg.opt-act root-ācar"
+    }
+   ],
+   "question": "What practice is prescribed when even white offerings are unavailable?",
+   "premises": [
+    "Non-availability of white offerings is addressed",
+    "Mental devotion should be practiced"
+   ],
+   "inference": "When white offerings are unavailable, one should practice mental devotion.",
+   "uncertainties": [
+    "The exact white items referred to are not named"
+   ],
+   "plain_english": "If white offerings are unavailable, practice mental devotion."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "sauvarṇaṃ",
+     "gloss": "golden",
+     "grounds": "accusative singular neuter of sauvarṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular neuter of parama",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "past participle of prac",
+     "morph": "ppp root-prac"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "accusative singular neuter of apara",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "citravastujam",
+     "gloss": "from-variegated-materials",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What materials are ranked as supreme and other for the offering?",
+   "premises": [
+    "Golden is declared supreme",
+    "Other is from variegated materials"
+   ],
+   "inference": "Golden is the supreme material, while other materials are variegated.",
+   "uncertainties": [
+    "The exact offering object is not stated"
+   ],
+   "plain_english": "Golden is declared supreme; other materials are variegated."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "adhamaṃ",
+     "gloss": "inferior",
+     "grounds": "accusative singular neuter of adhama",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "patratoyādi",
+     "gloss": "leaves-water-etc",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyamantu",
+     "gloss": "middle",
+     "grounds": "accusative singular neuter of madhyama with tu",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "phalātmakam",
+     "gloss": "fruit-natured",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How are offering materials ranked by quality?",
+   "premises": [
+    "Leaves water and similar are inferior",
+    "Fruit-natured materials are middle"
+   ],
+   "inference": "Offering materials are ranked: leaves and water are inferior, fruit-natured materials are middle.",
+   "uncertainties": [
+    "The supreme category is implied from the previous verse"
+   ],
+   "plain_english": "Leaves, water, and similar are inferior; fruit-natured materials are middle."
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "anguṣṭhatarjanībhyāntu",
+     "gloss": "with-thumb-and-index-finger",
+     "grounds": "instrumental dual of anguṣṭhatarjanī with tu",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "jñānamudrā",
+     "gloss": "knowledge-mudra",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle feminine of prakīrt",
+     "morph": "f.nom.sg.ppp root-prakīrt"
+    }
+   ],
+   "question": "Which mudra is proclaimed for this worship?",
+   "premises": [
+    "The mudra uses thumb and index finger",
+    "It is called knowledge-mudra"
+   ],
+   "inference": "The knowledge-mudra, made with thumb and index finger, is proclaimed.",
+   "uncertainties": [
+    "The exact gesture details beyond fingers are not given"
+   ],
+   "plain_english": "The knowledge-mudra, made with thumb and index finger, is proclaimed."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "puṣpāñjalipradāne",
+     "gloss": "in-offering-of-flower-handful",
+     "grounds": "locative singular of puṣpāñjalipradāna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "there-is",
+     "grounds": "optative third singular of bhū",
+     "morph": "3.sg.opt-act root-bhū"
+    },
+    {
+     "surface": "niyamastvayam",
+     "gloss": "rule",
+     "grounds": "nominative singular of niyama with tvayam",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there a fixed rule when offering a handful of flowers?",
+   "premises": [
+    "In offering a flower handful",
+    "No fixed rule applies"
+   ],
+   "inference": "When offering a handful of flowers, there is no fixed rule.",
+   "uncertainties": [
+    "The scope of the absent rule is not specified"
+   ],
+   "plain_english": "When offering a handful of flowers, there is no fixed rule."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "tarpayen",
+     "gloss": "should-satisfy",
+     "grounds": "optative third singular of tṛp",
+     "morph": "3.sg.opt-act root-tṛp"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental singular of mūlamatra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "trivāraṃ",
+     "gloss": "three-times",
+     "grounds": "accusative singular of trivāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular of sudhī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise one satisfy the deity with the root mantra?",
+   "premises": [
+    "The wise one should satisfy",
+    "Using root mantra three times as before"
+   ],
+   "inference": "The wise one should satisfy the deity with the root mantra three times, as before.",
+   "uncertainties": [
+    "The exact prior procedure is not restated"
+   ],
+   "plain_english": "The wise one should satisfy with the root mantra three times, as before."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "manaḥpūjākramaiḥ",
+     "gloss": "mental-worship-procedure",
+     "grounds": "instrumental plural of manaḥpūjākrama",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative singular of snāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "with-cloth",
+     "grounds": "instrumental singular of vāsas",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tanumārjanam",
+     "gloss": "body-cleansing",
+     "grounds": "accusative singular of tanumārjana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mental worship procedures are mentioned for bathing and cleansing?",
+   "premises": [
+    "Mental worship procedures include bathing",
+    "They include body cleansing with cloth"
+   ],
+   "inference": "Mental worship procedures include bathing and body cleansing with cloth.",
+   "uncertainties": [
+    "Whether these are sequential steps is not explicit"
+   ],
+   "plain_english": "Mental worship procedures include bathing and cleansing the body with cloth."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "pūrvavad",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vandanaṃ",
+     "gloss": "salutation",
+     "grounds": "accusative singular of vandana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs root-kṛ"
+    },
+    {
+     "surface": "pādyādīni",
+     "gloss": "water-etc",
+     "grounds": "accusative plural of pādyādi",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "optative third singular of nivid",
+     "morph": "3.sg.opt-act root-nivid"
+    }
+   ],
+   "question": "What should be offered after salutation as before?",
+   "premises": [
+    "Salutation is performed as before",
+    "Water and similar items should be offered"
+   ],
+   "inference": "After saluting as before, one should offer water and similar items.",
+   "uncertainties": [
+    "The full list of pādyādīni is not given"
+   ],
+   "plain_english": "After saluting as before, offer water and similar items."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "dadhnā",
+     "gloss": "with-curd",
+     "grounds": "instrumental singular of dadhi",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramānnena",
+     "gloss": "with-supreme-rice",
+     "grounds": "instrumental singular of paramānna",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhavānīṃ",
+     "gloss": "bhavānī",
+     "grounds": "accusative singular of bhavānī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paritoṣayet",
+     "gloss": "should-please",
+     "grounds": "optative third singular of parituṣ",
+     "morph": "3.sg.opt-act root-parituṣ"
+    }
+   ],
+   "question": "How should Bhavānī be pleased?",
+   "premises": [
+    "Curd and supreme rice are offerings",
+    "Bhavānī should be pleased with them"
+   ],
+   "inference": "Bhavānī should be pleased with curd and supreme rice.",
+   "uncertainties": [
+    "Whether these are separate or combined offerings is unclear"
+   ],
+   "plain_english": "Please Bhavānī with curd and supreme rice."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "accept",
+     "grounds": "imperative second singular of grah",
+     "morph": "2.sg.imp-act root-grah"
+    },
+    {
+     "surface": "vahnijāyānte",
+     "gloss": "fire-born-wife",
+     "grounds": "locative singular of vahnijāyānta",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "naivedyam",
+     "gloss": "food-offering",
+     "grounds": "accusative singular of naivedya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "utsṛjediti",
+     "gloss": "should-release",
+     "grounds": "optative third singular of utsṛj with iti",
+     "morph": "3.sg.opt-act root-utsṛj"
+    }
+   ],
+   "question": "What words accompany offering food to the fire-born wife?",
+   "premises": [
+    "The food offering is to be accepted",
+    "It is released with the stated formula"
+   ],
+   "inference": "The food offering is presented with the words 'accept' and 'release' to the fire-born wife.",
+   "uncertainties": [
+    "The exact addressee and ritual moment are not fully explicit"
+   ],
+   "plain_english": "Offer food to the fire-born wife, saying 'accept' and 'release'."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "siṃhavyāghranarāṃscaiva",
+     "gloss": "lions-tigers-men",
+     "grounds": "accusative plural of siṃhavyāghranara with ca eva",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "should-give",
+     "grounds": "optative third singular of dā",
+     "morph": "3.sg.opt-act root-dā"
+    },
+    {
+     "surface": "brāhmaṇottamaḥ",
+     "gloss": "best-brahmin",
+     "grounds": "nominative singular of brāhmaṇottama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the best brahmin not give?",
+   "premises": [
+    "Lions tigers and men are named",
+    "The best brahmin should not give them"
+   ],
+   "inference": "The best brahmin should not give lions, tigers, or men.",
+   "uncertainties": [
+    "The ritual context of giving these is not explained"
+   ],
+   "plain_english": "The best brahmin should not give lions, tigers, or men."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "vitānacchatratāmbūlaiḥ",
+     "gloss": "with-canopies-umbrellas-betel",
+     "grounds": "instrumental plural compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kastūrīkunkumādibhiḥ",
+     "gloss": "with-musk-saffron-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What additional offerings are made with canopies, umbrellas, and betel?",
+   "premises": [
+    "Canopies umbrellas and betel are used",
+    "Musk saffron and similar items are also used"
+   ],
+   "inference": "Worship includes canopies, umbrellas, betel, musk, saffron, and similar items.",
+   "uncertainties": [
+    "The exact recipient and action are supplied by context"
+   ],
+   "plain_english": "Offer with canopies, umbrellas, betel, musk, saffron, and similar items."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "nṛtyair",
+     "gloss": "with-dances",
+     "grounds": "instrumental plural of nṛtya",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "gītaisca",
+     "gloss": "with-songs",
+     "grounds": "instrumental plural of gīta with ca",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vādyaisca",
+     "gloss": "with-instruments",
+     "grounds": "instrumental plural of vādya with ca",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "should-please",
+     "grounds": "optative third singular of tuṣ",
+     "morph": "3.sg.opt-act root-tuṣ"
+    },
+    {
+     "surface": "paramesvarīm",
+     "gloss": "supreme-goddess",
+     "grounds": "accusative singular of paramesvarī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the supreme goddess be pleased?",
+   "premises": [
+    "Dances songs and instruments are used",
+    "The supreme goddess should be pleased"
+   ],
+   "inference": "The supreme goddess should be pleased with dances, songs, and instruments.",
+   "uncertainties": [
+    "Whether these are simultaneous or optional is not stated"
+   ],
+   "plain_english": "Please the supreme goddess with dances, songs, and instruments."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-received",
+     "grounds": "absolutive of grah",
+     "morph": "abs root-grah"
+    },
+    {
+     "surface": "ājñāṃ",
+     "gloss": "command",
+     "grounds": "accusative singular of ājñā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahādevyāḥ",
+     "gloss": "of-great-goddess",
+     "grounds": "genitive singular of mahādevī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parivārāṃstato",
+     "gloss": "attendants",
+     "grounds": "accusative plural of parivāra with tato",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "'rcayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular of arc with leading sandhi apostrophe",
+     "morph": "3.sg.opt-act root-arc"
+    }
+   ],
+   "question": "What should be done after receiving the great goddess's command?",
+   "premises": [
+    "The great goddess's command is received",
+    "Then attendants should be worshipped"
+   ],
+   "inference": "After receiving the great goddess's command, one should worship her attendants.",
+   "uncertainties": [
+    "The exact command is not specified"
+   ],
+   "plain_english": "After receiving the great goddess's command, worship her attendants."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "svatantrā",
+     "gloss": "independent",
+     "grounds": "nominative singular feminine of svatantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityatṛptā",
+     "gloss": "ever-satisfied",
+     "grounds": "nominative singular feminine of nityatṛpta",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "'nyā",
+     "gloss": "others",
+     "grounds": "nominative plural feminine of anya with leading sandhi apostrophe",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "'nantakramādimāḥ",
+     "gloss": "endless-sequence-etc",
+     "grounds": "nominative plural feminine compound with leading sandhi apostrophe",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What qualities are attributed to the goddess and others?",
+   "premises": [
+    "She is independent and ever-satisfied",
+    "Others are thus endless-sequence-etc"
+   ],
+   "inference": "The goddess is independent and ever-satisfied, while others are described as endless-sequence and similar.",
+   "uncertainties": [
+    "The exact referents of 'others' are unclear"
+   ],
+   "plain_english": "She is independent and ever-satisfied; others are endless-sequence and so on."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "tuṣārasphaṭikasyāmanīlakṛṣṇāruṇārciṣaḥ",
+     "gloss": "of-frost-crystal",
+     "grounds": "genitive singular compound describing crystal rays",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What crystal is described by its frost-like rays?",
+   "premises": [
+    "The compound describes frost crystal",
+    "Its rays are blue black and reddish"
+   ],
+   "inference": "The crystal described has frost-like rays that are blue, black, and reddish.",
+   "uncertainties": [
+    "The full syntactic role in the larger sentence is not visible"
+   ],
+   "plain_english": "The frost-crystal has blue, black, and reddish rays."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "agnīsāsuravāyavye",
+     "gloss": "fire-demon-air",
+     "grounds": "locative singular compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative singular of madhya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "directions",
+     "grounds": "locative plural of dik",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "yathākramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular of yathākrama",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Where are the elements placed in order?",
+   "premises": [
+    "Fire demon and air are in the middle",
+    "Directions are arranged in order"
+   ],
+   "inference": "Fire, demon, and air are in the middle, while directions are arranged in order.",
+   "uncertainties": [
+    "The exact spatial scheme is not fully explicit"
+   ],
+   "plain_english": "Fire, demon, and air are in the middle; directions are arranged in order."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "tarpaṇañca",
+     "gloss": "libation",
+     "grounds": "accusative singular of tarpaṇa with ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs root-kṛ"
+    },
+    {
+     "surface": "mūlam",
+     "gloss": "root",
+     "grounds": "accusative singular of mūla",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of uccar",
+     "morph": "abs root-uccar"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is done again with the root mantra everywhere?",
+   "premises": [
+    "Libation is performed again",
+    "The root mantra is uttered everywhere"
+   ],
+   "inference": "After performing libation again, one utters the root mantra everywhere.",
+   "uncertainties": [
+    "The exact sequence of libation and utterance is compressed"
+   ],
+   "plain_english": "Perform libation again, then utter the root mantra everywhere."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "sarvāngeṣu",
+     "gloss": "on-all-limbs",
+     "grounds": "locative plural of sarvānga",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative third singular of kṛ",
+     "morph": "3.sg.opt-act root-kṛ"
+    },
+    {
+     "surface": "pañcapañcāñjalīn",
+     "gloss": "five-five-handfuls",
+     "grounds": "accusative plural of pañcapañcāñjali",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart",
+     "grounds": "instrumental singular of hṛd",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What handful offering is made on all limbs again?",
+   "premises": [
+    "On all limbs again",
+    "Five-five handfuls should be made with heart"
+   ],
+   "inference": "On all limbs, one should again make five-five handfuls with the heart.",
+   "uncertainties": [
+    "The exact meaning of five-five handfuls is not explained"
+   ],
+   "plain_english": "On all limbs, make five-five handfuls again with the heart."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "vānmāyāṃ",
+     "gloss": "speech-maya",
+     "grounds": "accusative singular of vānmāyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kamalāṃ",
+     "gloss": "lotus",
+     "grounds": "accusative singular of kamalā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā'pi",
+     "gloss": "or",
+     "grounds": "indeclinable particle with sandhi apostrophe",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "with-three",
+     "grounds": "instrumental plural of tri",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃpuṭitañca",
+     "gloss": "enclosed",
+     "grounds": "accusative singular neuter of saṃpuṭita with ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternatives are given for the lotus or speech-maya offering?",
+   "premises": [
+    "Speech-maya or lotus may be used",
+    "Or enclosed with three"
+   ],
+   "inference": "The offering may be speech-maya, lotus, or enclosed with three.",
+   "uncertainties": [
+    "The exact ritual object being offered is not stated"
+   ],
+   "plain_english": "Use speech-maya or lotus, or enclose with three."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "namo",
+     "gloss": "namo",
+     "grounds": "indeclinable mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "'nte",
+     "gloss": "at-end",
+     "grounds": "locative singular of anta with leading sandhi apostrophe",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yojayitvā",
+     "gloss": "having-joined",
+     "grounds": "absolutive of yuj",
+     "morph": "abs root-yuj"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo'ntaṃ",
+     "gloss": "namo-end",
+     "grounds": "accusative singular of namo'nta",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "accusative singular neuter of sarva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular of arc",
+     "morph": "3.sg.opt-act root-arc"
+    }
+   ],
+   "question": "How should all be worshipped with namo at the end?",
+   "premises": [
+    "Namo is joined at the end",
+    "All should be worshipped with namo-end"
+   ],
+   "inference": "Having joined namo at the end, one should worship all with namo-end.",
+   "uncertainties": [
+    "The exact mantra construction is not fully explicit"
+   ],
+   "plain_english": "Join namo at the end, then worship all with namo-end."
+  }
+ ]
+}

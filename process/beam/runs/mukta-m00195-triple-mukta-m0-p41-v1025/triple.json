@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "pātre",
+     "gloss": "in-vessel",
+     "grounds": "locative of pātra, indicating the container for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "object to be ritually placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "with-armor-mantra",
+     "grounds": "instrumental of kavaca, denoting the mantra used in the act",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-placed",
+     "grounds": "absolutive expressing the completed act of placing",
+     "morph": "(gerund) vi-√dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective continuing the ritual instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what ritual means is fire to be placed in the vessel?",
+   "premises": [
+    "A vessel serves as the designated container.",
+    "Fire is the object to be ritually placed.",
+    "The kavaca mantra is the accompanying instrument."
+   ],
+   "inference": "Fire must be placed in the vessel through the application of the kavaca mantra.",
+   "uncertainties": [],
+   "plain_english": "And having placed the fire in the vessel with the kavaca mantra."
+  }
+ ]
+}

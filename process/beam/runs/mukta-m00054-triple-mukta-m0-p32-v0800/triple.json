@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "taptakāñcanaprākārā",
+     "gloss": "having-molten-gold-ramparts",
+     "grounds": "Compound describing the goddess as possessing enclosures made of molten gold; analyzed as a fused attributive form.",
+     "morph": "compound (tapta-kāñcana-prākāra, bahuvrīhi), f.nom.sg"
+    },
+    {
+     "surface": "taptakāñcanapādukā",
+     "gloss": "having-molten-gold-sandals",
+     "grounds": "Compound describing the goddess as wearing sandals made of molten gold; analyzed as a fused attributive form.",
+     "morph": "compound (tapta-kāñcana-pādukā, bahuvrīhi), f.nom.sg"
+    }
+   ],
+   "question": "By what molten-gold enclosures and footwear is the goddess characterized?",
+   "premises": [
+    "The goddess is described as having ramparts of molten gold.",
+    "The goddess is described as having sandals of molten gold."
+   ],
+   "inference": "The goddess is characterized by molten-gold attributes associated with both her surrounding enclosure and her feet.",
+   "uncertainties": [
+    "Whether prākārā refers to a literal architectural rampart or a symbolic protective boundary is not specified."
+   ],
+   "plain_english": "She has ramparts of molten gold and sandals of molten gold."
+  }
+ ]
+}

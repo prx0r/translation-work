@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "āgatyā",
+     "gloss": "having-come",
+     "grounds": "absolutive expressing prior action of arrival",
+     "morph": "(abs.) ā-√gam"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "i",
+     "grounds": "first-person speaker as agent of the action",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "yonipīṭhe",
+     "gloss": "in-yoni-seat",
+     "grounds": "locative compound indicating the ritual location",
+     "morph": "yoni-pīṭha (loc.sg.nt)"
+    },
+    {
+     "surface": "jajāpa",
+     "gloss": "chanted",
+     "grounds": "perfect verb denoting completed mantra recitation",
+     "morph": "1.sg.perf.act √jap"
+    },
+    {
+     "surface": "kālikāmanum",
+     "gloss": "kālikā-mantra",
+     "grounds": "compound naming the mantra of the goddess Kālikā as object",
+     "morph": "kālikā-manu (acc.sg.m)"
+    }
+   ],
+   "question": "What mantra practice did the speaker undertake at the sacred yoni-seat?",
+   "premises": [
+    "The speaker arrived at the yoni-seat.",
+    "The speaker performed an act of chanting.",
+    "The object chanted was the mantra of Kālikā."
+   ],
+   "inference": "Upon arriving at the yoni-seat, the speaker chanted the Kālikā mantra.",
+   "uncertainties": [
+    "The form 'haṃ' is taken as a variant of the first-person pronoun 'aham'."
+   ],
+   "plain_english": "Having come to the yoni-seat, I chanted the mantra of Kālikā."
+  }
+ ]
+}

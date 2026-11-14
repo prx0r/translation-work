@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "madhyamaṇḍapasaṃyuktaṃ",
+     "gloss": "joined-with-middle-pavilion",
+     "grounds": "compound madhya+maṇḍapa+saṃyukta; describes the structure as endowed with a central pavilion",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "caturgṛham",
+     "gloss": "four-chambered-house",
+     "grounds": "compound catur+gṛha; denotes a building with four chambers",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what is stated or prescribed",
+     "morph": "ppp.n.nom.sg.ud-ā-hṛ"
+    }
+   ],
+   "question": "What architectural configuration is declared as the prescribed structure?",
+   "premises": [
+    "A structure is described as joined with a middle pavilion.",
+    "The structure is specified as having four chambers.",
+    "This configuration is explicitly declared."
+   ],
+   "inference": "The prescribed structure is a four-chambered building joined with a middle pavilion.",
+   "uncertainties": [],
+   "plain_english": "A four-chambered building joined with a central pavilion is declared."
+  }
+ ]
+}

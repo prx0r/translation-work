@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "sthāpite",
+     "gloss": "when-established",
+     "grounds": "locative absolute sense indicating the state after installation",
+     "morph": "ppp.loc.sg.n (√sthā)"
+    },
+    {
+     "surface": "dina",
+     "gloss": "day",
+     "grounds": "first member of a compound qualifying the following period",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saptāhe",
+     "gloss": "seven-day-period",
+     "grounds": "locative indicating the duration or time frame after establishment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "object characterized by the following compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jīva",
+     "gloss": "life",
+     "grounds": "first member of a compound describing the water",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "qualifies the water as possessing life or vitality",
+     "morph": "ppp.n.acc.sg (sam-anv-√i)"
+    }
+   ],
+   "question": "What condition must the water have during the seven-day period after establishment?",
+   "premises": [
+    "An establishment has already been completed.",
+    "A seven-day period follows that establishment.",
+    "Water is present during this seven-day period."
+   ],
+   "inference": "The water maintained during the seven days after establishment must be endowed with life.",
+   "uncertainties": [
+    "The exact ritual sense of jīva-samanvitam as applied to water is not specified in this verse alone."
+   ],
+   "plain_english": "Once established, for a period of seven days the water must be endowed with life."
+  }
+ ]
+}

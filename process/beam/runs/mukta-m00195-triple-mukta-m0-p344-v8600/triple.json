@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p344",
+ "items": [
+  {
+   "verse": 8600,
+   "rows": [
+    {
+     "surface": "vācaṃ",
+     "gloss": "speech",
+     "grounds": "object of identification; word or speech",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māyām",
+     "gloss": "māyā",
+     "grounds": "principle identified with speech",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "antarikṣa",
+     "gloss": "space",
+     "grounds": "intermediate space or atmosphere identified with Sarasvatī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarasvaty",
+     "gloss": "sarasvatī",
+     "grounds": "goddess Sarasvatī; surface shows sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "Agni, whose consort is named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gehinī",
+     "gloss": "wife",
+     "grounds": "consort of Agni; identified in this correspondence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What identities are assigned to speech, space, and the consort of Agni?",
+   "premises": [
+    "Speech is identified with Māyā.",
+    "Space is identified with Sarasvatī.",
+    "The consort of Agni is named as the corresponding feminine principle."
+   ],
+   "inference": "The verse establishes a set of correspondences linking speech, space, and Agni's consort to Māyā, Sarasvatī, and the wife of Agni respectively.",
+   "uncertainties": [
+    "The exact syntactic role of antarikṣa is ambiguous without a finite verb.",
+    "The identity of Agni's wife is implied but not explicitly named by a proper name in this verse."
+   ],
+   "plain_english": "Speech is Māyā, space is Sarasvatī, and Agni's consort is his wife."
+  }
+ ]
+}

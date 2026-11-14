@@ -1,0 +1,919 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1676,
+   "rows": [
+    {
+     "surface": "navabhāgena",
+     "gloss": "by-nine-parts",
+     "grounds": "instrumental of division into nine parts",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative compound indicating central position",
+     "morph": "compound=tad+madhya; n.loc.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "architectural pinnacle element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇditāṃ",
+     "gloss": "adorned",
+     "grounds": "decorated element, agrees with feminine object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kaṇam",
+     "gloss": "grain",
+     "grounds": "small ornamental element",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What central feature or ornament is prescribed within a nine-part division?",
+   "premises": [
+    "The area is divided into nine parts.",
+    "A peak or an adorned grain is placed in the middle."
+   ],
+   "inference": "The central ninth part may receive either a peak or an adorned grain ornament.",
+   "uncertainties": [
+    "The exact referent of kaṇam as an architectural ornament is unclear."
+   ],
+   "plain_english": "By dividing into nine parts, one should place in the middle either a peak or an adorned grain."
+  },
+  {
+   "verse": 1677,
+   "rows": [
+    {
+     "surface": "tribhāgaikāṃśavistāraṃ",
+     "gloss": "three-part-one-share-width",
+     "grounds": "compound specifying width as one share of three parts",
+     "morph": "compound=tri+bhāga+eka+aṃśa+vistāra; m.acc.sg"
+    },
+    {
+     "surface": "nirgamaṃ",
+     "gloss": "projection",
+     "grounds": "outward extension or exit element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mukhabhadrakam",
+     "gloss": "front-auspicious-porch",
+     "grounds": "auspicious frontal projection of the pavilion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width and form define the frontal projection of this pavilion?",
+   "premises": [
+    "The projection has a width of one part out of three.",
+    "The projection is identified as a frontal auspicious porch."
+   ],
+   "inference": "The pavilion should have a frontal auspicious porch projecting one-third in width.",
+   "uncertainties": [],
+   "plain_english": "The frontal auspicious porch should project with a width of one part out of three."
+  },
+  {
+   "verse": 1678,
+   "rows": [
+    {
+     "surface": "sarvālaṃkārasaṃyuktaṃ",
+     "gloss": "joined-with-all-ornaments",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "compound=sarva+alaṃkāra+saṃyukta; m.acc.sg"
+    },
+    {
+     "surface": "paṃcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal designation in a sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "stated or proclaimed in the text",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the fifth pavilion type characterized in this sequence?",
+   "premises": [
+    "The pavilion is endowed with all ornaments.",
+    "It is designated as the fifth in order."
+   ],
+   "inference": "The fifth pavilion is defined as the one fully furnished with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The fifth pavilion is declared to be endowed with all ornaments."
+  },
+  {
+   "verse": 1679,
+   "rows": [
+    {
+     "surface": "caturbhāgena",
+     "gloss": "by-four-parts",
+     "grounds": "instrumental of division into four parts",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative compound indicating central position",
+     "morph": "compound=tad+madhya; n.loc.sg"
+    },
+    {
+     "surface": "hyūrdhvakūṭaṃ",
+     "gloss": "upper-peak",
+     "grounds": "elevated pinnacle element; initial h after sandhi context",
+     "morph": "compound=ūrdhva+kūṭa; n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction for construction",
+     "morph": "3.sg.act-optative √kḷp"
+    }
+   ],
+   "question": "What central architectural element must be arranged within a four-part division?",
+   "premises": [
+    "The area is divided into four parts.",
+    "An upper peak is to be placed in the middle."
+   ],
+   "inference": "A four-part division requires arranging an upper peak at its center.",
+   "uncertainties": [],
+   "plain_english": "Dividing into four parts, one should arrange an upper peak in the middle."
+  },
+  {
+   "verse": 1680,
+   "rows": [
+    {
+     "surface": "sarvālaṃkārasaṃyuktaṃ",
+     "gloss": "joined-with-all-ornaments",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "compound=sarva+alaṃkāra+saṃyukta; m.acc.sg"
+    },
+    {
+     "surface": "ṣaṣṭhamaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal designation in a sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "architectural hall or pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "How is the sixth pavilion type defined in this architectural sequence?",
+   "premises": [
+    "The structure is a pavilion.",
+    "It is endowed with all ornaments and designated sixth."
+   ],
+   "inference": "The sixth pavilion should be one that is fully furnished with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The sixth pavilion should be endowed with all ornaments."
+  },
+  {
+   "verse": 1681,
+   "rows": [
+    {
+     "surface": "guṇāṃśakāṃśaviṃśaṃ",
+     "gloss": "quality-share-part-twentieth",
+     "grounds": "complex compound specifying proportional division",
+     "morph": "compound=guṇa+aṃśaka+aṃśa+viṃśa; m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīvrabhadraṃ",
+     "gloss": "low-auspicious-porch",
+     "grounds": "a lower auspicious projection element",
+     "morph": "compound=nīvra+bhadra; n.acc.sg"
+    },
+    {
+     "surface": "catuścakaḥ",
+     "gloss": "four-wheeled",
+     "grounds": "having four circular or wheel-like elements",
+     "morph": "compound=catur+cakra; m.nom.sg"
+    }
+   ],
+   "question": "What proportional and structural features characterize the described pavilion element?",
+   "premises": [
+    "A twentieth-part division involving quality shares is specified.",
+    "The element includes a low auspicious porch and is four-wheeled."
+   ],
+   "inference": "The prescribed element is a four-wheeled structure with a low auspicious porch in the stated proportion.",
+   "uncertainties": [
+    "The precise technical meaning of guṇāṃśakāṃśaviṃśaṃ and catuścakaḥ is uncertain."
+   ],
+   "plain_english": "Indeed, with a twentieth-part division, there should be a low auspicious porch and a four-wheeled element."
+  },
+  {
+   "verse": 1682,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "at-front",
+     "grounds": "locative indicating frontal position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sopānam",
+     "gloss": "staircase",
+     "grounds": "steps or stairway",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "agnyaṃśaiḥ",
+     "gloss": "by-fire-parts",
+     "grounds": "instrumental indicating division into three parts",
+     "morph": "compound=agni+aṃśa; m.ins.pl"
+    },
+    {
+     "surface": "vyāsadīrghasamanvitam",
+     "gloss": "endowed-with-breadth-length",
+     "grounds": "compound specifying dimensions of breadth and length",
+     "morph": "compound=vyāsa+dīrgha+samanvita; n.acc.sg"
+    }
+   ],
+   "question": "What frontal access feature and dimensions are prescribed for this pavilion?",
+   "premises": [
+    "A staircase is placed at the front.",
+    "Its breadth and length are measured by fire parts."
+   ],
+   "inference": "The pavilion should have a frontal staircase with breadth and length determined by three-part divisions.",
+   "uncertainties": [
+    "The exact numerical value implied by agnyaṃśaiḥ depends on convention."
+   ],
+   "plain_english": "At the front there should be a staircase, with breadth and length measured by fire parts."
+  },
+  {
+   "verse": 1683,
+   "rows": [
+    {
+     "surface": "sarvālaṃkārasaṃyuktaṃ",
+     "gloss": "joined-with-all-ornaments",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "compound=sarva+alaṃkāra+saṃyukta; m.acc.sg"
+    },
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "ordinal designation in a sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "architectural hall or pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "How is the seventh pavilion type defined in this architectural sequence?",
+   "premises": [
+    "The structure is a pavilion.",
+    "It is endowed with all ornaments and designated seventh."
+   ],
+   "inference": "The seventh pavilion should be one that is fully furnished with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The seventh pavilion should be endowed with all ornaments."
+  },
+  {
+   "verse": 1684,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caivāṣṭadiśi",
+     "gloss": "and-in-eight-directions",
+     "grounds": "compound with sandhi joining particles and directional term",
+     "morph": "compound=ca+eva+aṣṭan+diś; f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navakūṭasamāyutam",
+     "gloss": "joined-with-nine-peaks",
+     "grounds": "compound indicating presence of nine pinnacles",
+     "morph": "compound=nava+kūṭa+samāyuta; n.acc.sg"
+    }
+   ],
+   "question": "How many peaks and in what locations must this pavilion configuration include?",
+   "premises": [
+    "Peaks are placed in the middle and in the eight directions.",
+    "The structure is joined with nine peaks in total."
+   ],
+   "inference": "The pavilion must have nine peaks, one at the center and one in each of the eight directions.",
+   "uncertainties": [],
+   "plain_english": "In the middle and in the eight directions it should be furnished with nine peaks."
+  },
+  {
+   "verse": 1685,
+   "rows": [
+    {
+     "surface": "prāgvanmukhena",
+     "gloss": "with-front-as-before",
+     "grounds": "instrumental compound indicating frontal orientation as previously described",
+     "morph": "compound=prāgvat+mukha; n.ins.sg"
+    },
+    {
+     "surface": "sopānaṃ",
+     "gloss": "staircase",
+     "grounds": "steps or stairway",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "in-direction",
+     "grounds": "locative indicating placement in a direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhadrasamanvitam",
+     "gloss": "endowed-with-auspicious-porch",
+     "grounds": "compound indicating presence of an auspicious projection",
+     "morph": "compound=bhadra+samanvita; n.acc.sg"
+    }
+   ],
+   "question": "What frontal arrangement of staircase and porch is required in the specified direction?",
+   "premises": [
+    "The front is arranged as before.",
+    "A staircase endowed with an auspicious porch is placed in that direction."
+   ],
+   "inference": "The pavilion should have a staircase with an auspicious porch in the front direction as previously specified.",
+   "uncertainties": [],
+   "plain_english": "As before at the front, there should be a staircase in that direction endowed with an auspicious porch."
+  },
+  {
+   "verse": 1686,
+   "rows": [
+    {
+     "surface": "rudrabhaktyā",
+     "gloss": "by-rudra-division",
+     "grounds": "instrumental indicating division into eleven parts",
+     "morph": "compound=rudra+bhakti; f.ins.sg"
+    },
+    {
+     "surface": "yugāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "having four corners or angles",
+     "morph": "compound=yuga+aśra; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "agyaṃśena",
+     "gloss": "by-fire-part",
+     "grounds": "instrumental indicating a three-part measure",
+     "morph": "compound=agni+aṃśa; m.ins.sg"
+    },
+    {
+     "surface": "kūṭakam",
+     "gloss": "small-peak",
+     "grounds": "diminutive or specific pinnacle element",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What central peak configuration is prescribed within an eleven-part four-cornered layout?",
+   "premises": [
+    "The layout is divided by eleven parts and made four-cornered.",
+    "A small peak is placed in the middle by a fire-part measure."
+   ],
+   "inference": "In a four-cornered eleven-part layout, a small peak should be placed at the center using a three-part measure.",
+   "uncertainties": [
+    "The technical sense of rudrabhaktyā and agyaṃśena as measures is conventional."
+   ],
+   "plain_english": "Dividing by eleven parts into a four-cornered form, one should place a small peak in the middle by a fire-part measure."
+  },
+  {
+   "verse": 1687,
+   "rows": [
+    {
+     "surface": "dvārānyatraiva",
+     "gloss": "doors-here-only",
+     "grounds": "compound with sandhi indicating doors in that very place",
+     "morph": "compound=dvāra+atra+eva; n.nom.pl"
+    },
+    {
+     "surface": "kuḍyaṃ",
+     "gloss": "wall",
+     "grounds": "wall structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣṭabhāgāvasānakam",
+     "gloss": "ending-at-desired-part",
+     "grounds": "compound indicating termination at a chosen division",
+     "morph": "compound=iṣṭa+bhāga+avasānaka; n.nom.sg"
+    }
+   ],
+   "question": "What alternatives are permitted for doors or walls in this pavilion design?",
+   "premises": [
+    "Doors may be placed in that location.",
+    "Alternatively a wall ending at a desired part may be used."
+   ],
+   "inference": "The design allows either doors at that place or a wall terminating at a chosen division.",
+   "uncertainties": [],
+   "plain_english": "There may be doors in that place, or a wall ending at the desired part."
+  },
+  {
+   "verse": 1688,
+   "rows": [
+    {
+     "surface": "dvādaśāṃśe",
+     "gloss": "in-twelfth-part",
+     "grounds": "locative indicating division into twelve parts",
+     "morph": "compound=dvādaśa+aṃśa; m.loc.sg"
+    },
+    {
+     "surface": "yugāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "having four corners or angles",
+     "morph": "compound=yuga+aśra; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvyaṃśena",
+     "gloss": "by-two-parts",
+     "grounds": "instrumental indicating a two-part measure",
+     "morph": "compound=dvi+aṃśa; m.ins.sg"
+    },
+    {
+     "surface": "kūṭakam",
+     "gloss": "small-peak",
+     "grounds": "diminutive or specific pinnacle element",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What central peak configuration is prescribed within a twelve-part four-cornered layout?",
+   "premises": [
+    "The layout is divided into twelve parts and made four-cornered.",
+    "A small peak is placed in the middle by a two-part measure."
+   ],
+   "inference": "In a four-cornered twelve-part layout, a small peak should be placed at the center using a two-part measure.",
+   "uncertainties": [],
+   "plain_english": "Dividing into twelve parts in a four-cornered form, one should place a small peak in the middle by a two-part measure."
+  },
+  {
+   "verse": 1689,
+   "rows": [
+    {
+     "surface": "caturdvyaṃśena",
+     "gloss": "by-four-two-parts",
+     "grounds": "instrumental compound specifying a proportional measure",
+     "morph": "compound=catur+dvi+aṃśa; m.ins.sg"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "breadth or spread",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niṣkrāntaṃ",
+     "gloss": "projection",
+     "grounds": "outward extension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāccaturdiśi",
+     "gloss": "should-be-in-four-directions",
+     "grounds": "compound with sandhi joining optative and directional term",
+     "morph": "compound=syāt+catur+diś; f.loc.sg"
+    }
+   ],
+   "question": "What width of projection is required in all four directions of this pavilion?",
+   "premises": [
+    "The projection is measured by four two-part units.",
+    "This projection should occur in the four directions."
+   ],
+   "inference": "A projection of the specified width should extend in all four directions.",
+   "uncertainties": [
+    "The exact calculation of caturdvyaṃśena is context-dependent."
+   ],
+   "plain_english": "A projection with that width should extend in the four directions."
+  },
+  {
+   "verse": 1690,
+   "rows": [
+    {
+     "surface": "sarvālaṃkārasaṃyuktaṃ",
+     "gloss": "joined-with-all-ornaments",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "compound=sarva+alaṃkāra+saṃyukta; m.acc.sg"
+    },
+    {
+     "surface": "daśamaṃ",
+     "gloss": "tenth",
+     "grounds": "ordinal designation in a sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "architectural hall or pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "How is the tenth pavilion type defined in this architectural sequence?",
+   "premises": [
+    "The structure is a pavilion.",
+    "It is endowed with all ornaments and designated tenth."
+   ],
+   "inference": "The tenth pavilion should be one that is fully furnished with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The tenth pavilion should be endowed with all ornaments."
+  },
+  {
+   "verse": 1691,
+   "rows": [
+    {
+     "surface": "iṣṭadikkuḍyasaṃyuktaṃ",
+     "gloss": "joined-with-walls-in-desired-directions",
+     "grounds": "compound indicating walls placed in chosen directions",
+     "morph": "compound=iṣṭa+diś+kuḍya+saṃyukta; n.acc.sg"
+    },
+    {
+     "surface": "caturdigbhadrasaṃyutam",
+     "gloss": "joined-with-auspicious-porches-in-four-directions",
+     "grounds": "compound indicating auspicious projections in all four directions",
+     "morph": "compound=catur+diś+bhadra+saṃyuta; n.acc.sg"
+    }
+   ],
+   "question": "What wall and porch arrangements are required for this pavilion configuration?",
+   "premises": [
+    "Walls are placed in desired directions.",
+    "Auspicious porches are provided in the four directions."
+   ],
+   "inference": "The pavilion should have walls in chosen directions and auspicious porches in all four directions.",
+   "uncertainties": [],
+   "plain_english": "It should be joined with walls in the desired directions and with auspicious porches in the four directions."
+  },
+  {
+   "verse": 1692,
+   "rows": [
+    {
+     "surface": "sadvayaṃ",
+     "gloss": "with-two-six",
+     "grounds": "compound indicating the number twelve",
+     "morph": "compound=ṣaṣ+dvi; n.acc.sg"
+    },
+    {
+     "surface": "navatīyuktaṃ",
+     "gloss": "joined-with-ninety",
+     "grounds": "compound indicating addition of ninety",
+     "morph": "compound=navati+yukta; n.acc.sg"
+    },
+    {
+     "surface": "aṃghri",
+     "gloss": "pillars",
+     "grounds": "supporting pillars or feet",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "provided with or accompanied by",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many pillars must be included in this pavilion design?",
+   "premises": [
+    "The count combines twelve and ninety.",
+    "The pavilion is endowed with that number of pillars."
+   ],
+   "inference": "The pavilion should be furnished with one hundred and two pillars.",
+   "uncertainties": [
+    "The parsing of sadvayaṃ as twelve is inferred from context."
+   ],
+   "plain_english": "It should be endowed with one hundred and two pillars."
+  },
+  {
+   "verse": 1693,
+   "rows": [
+    {
+     "surface": "sarvālaṃkārasaṃyuktaṃ",
+     "gloss": "joined-with-all-ornaments",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "compound=sarva+alaṃkāra+saṃyukta; m.acc.sg"
+    },
+    {
+     "surface": "rudrāṃśaṃ",
+     "gloss": "rudra-part",
+     "grounds": "designation related to eleven parts or Rudra",
+     "morph": "compound=rudra+aṃśa; m.acc.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "architectural hall or pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "How is the Rudra-part pavilion type defined in this sequence?",
+   "premises": [
+    "The structure is a pavilion designated as Rudra-part.",
+    "It is endowed with all ornaments."
+   ],
+   "inference": "The Rudra-part pavilion should be one that is fully furnished with all ornaments.",
+   "uncertainties": [
+    "Whether rudrāṃśaṃ names an eleventh type or a proportional type is unclear."
+   ],
+   "plain_english": "The Rudra-part pavilion should be endowed with all ornaments."
+  },
+  {
+   "verse": 1694,
+   "rows": [
+    {
+     "surface": "vedādhikyaṃ",
+     "gloss": "exceeding-by-four",
+     "grounds": "compound indicating an excess of four",
+     "morph": "compound=veda+ādhikya; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśāṃśaṃ",
+     "gloss": "twentieth-part",
+     "grounds": "division into twenty parts",
+     "morph": "compound=viṃśa+aṃśa; m.acc.sg"
+    },
+    {
+     "surface": "dviśataṃ",
+     "gloss": "two-hundred",
+     "grounds": "numerical quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caraṇānvitam",
+     "gloss": "endowed-with-pillars",
+     "grounds": "compound indicating presence of supporting pillars",
+     "morph": "compound=caraṇa+anvita; n.acc.sg"
+    }
+   ],
+   "question": "What numerical and proportional specifications define this pavilion's pillars and divisions?",
+   "premises": [
+    "The pavilion involves a twentieth-part division exceeding by four.",
+    "It is endowed with two hundred pillars."
+   ],
+   "inference": "The pavilion should follow the stated proportional division and be furnished with two hundred pillars.",
+   "uncertainties": [
+    "The precise meaning of vedādhikyaṃ tu viṃśāṃśaṃ is technically ambiguous."
+   ],
+   "plain_english": "Indeed, with a twentieth-part division exceeding by four, it should be endowed with two hundred pillars."
+  },
+  {
+   "verse": 1695,
+   "rows": [
+    {
+     "surface": "nandādi",
+     "gloss": "beginning-with-nanda",
+     "grounds": "compound indicating a series starting with nanda",
+     "morph": "compound=nanda+ādi; n.acc.sg"
+    },
+    {
+     "surface": "bhadrasaṃyuktaṃ",
+     "gloss": "joined-with-auspicious-porches",
+     "grounds": "compound indicating presence of auspicious projections",
+     "morph": "compound=bhadra+saṃyukta; n.acc.sg"
+    },
+    {
+     "surface": "iṣṭabhaktyā",
+     "gloss": "by-desired-division",
+     "grounds": "instrumental indicating division according to preference",
+     "morph": "compound=iṣṭa+bhakti; f.ins.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb emphasizing specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What porch arrangements and divisional choices are especially prescribed for this pavilion?",
+   "premises": [
+    "The pavilion is joined with auspicious porches beginning with nanda.",
+    "The arrangement follows a desired division especially."
+   ],
+   "inference": "The pavilion should especially include nanda and other auspicious porches arranged by a chosen division.",
+   "uncertainties": [
+    "The specific series denoted by nandādi is not fully specified."
+   ],
+   "plain_english": "It should especially be joined with auspicious porches beginning with nanda, according to the desired division."
+  },
+  {
+   "verse": 1696,
+   "rows": [
+    {
+     "surface": "tripaṃcabhittivistāraṃ",
+     "gloss": "three-five-wall-width",
+     "grounds": "compound specifying wall width of three and five units",
+     "morph": "compound=tri+pañca+bhitti+vistāra; m.acc.sg"
+    },
+    {
+     "surface": "āyataṃ",
+     "gloss": "elongated",
+     "grounds": "extended in length",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "four-cornered",
+     "grounds": "quadrangular in shape",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What shape and wall-width proportions define this pavilion structure?",
+   "premises": [
+    "The structure has wall widths of three and five units.",
+    "It is elongated and four-cornered."
+   ],
+   "inference": "The pavilion should be an elongated quadrangle with wall widths in three-and-five proportions.",
+   "uncertainties": [
+    "The exact application of tripaṃcabhittivistāraṃ to the layout is unclear."
+   ],
+   "plain_english": "It should be elongated and four-cornered, with wall widths of three and five units."
+  },
+  {
+   "verse": 1697,
+   "rows": [
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-part",
+     "grounds": "division into three parts",
+     "morph": "compound=guṇa+aṃśa; m.acc.sg"
+    },
+    {
+     "surface": "vistṛtāyāmaṃ",
+     "gloss": "breadth-and-length",
+     "grounds": "compound indicating extent in width and length",
+     "morph": "compound=vistṛta+āyāma; m.acc.sg"
+    },
+    {
+     "surface": "mukhabhadrasamanvitam",
+     "gloss": "endowed-with-front-auspicious-porch",
+     "grounds": "compound indicating presence of a frontal auspicious projection",
+     "morph": "compound=mukha+bhadra+samanvita; n.acc.sg"
+    }
+   ],
+   "question": "What proportional dimensions and frontal feature are prescribed for this pavilion?",
+   "premises": [
+    "The breadth and length follow a three-part division.",
+    "The structure is endowed with a frontal auspicious porch."
+   ],
+   "inference": "The pavilion should have three-part breadth and length and include a frontal auspicious porch.",
+   "uncertainties": [],
+   "plain_english": "With breadth and length in three parts, it should be endowed with a frontal auspicious porch."
+  },
+  {
+   "verse": 1698,
+   "rows": [
+    {
+     "surface": "toraṇairjālakaiścānyaiḥ",
+     "gloss": "with-arches-lattices-and-others",
+     "grounds": "instrumental compound with sandhi listing ornamental elements",
+     "morph": "compound=toraṇa+jālaka+ca+anya; m.ins.pl"
+    },
+    {
+     "surface": "alaṃkṛtya",
+     "gloss": "having-decorated",
+     "grounds": "absolutive indicating completion of ornamentation",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "provided with or accompanied by",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What decorative elements must be used to adorn this pavilion?",
+   "premises": [
+    "The pavilion is decorated with arches, lattices, and other elements.",
+    "It is thereby endowed with these ornaments."
+   ],
+   "inference": "The pavilion must be adorned with arches, lattices, and additional decorative features.",
+   "uncertainties": [],
+   "plain_english": "Having decorated it with arches, lattices, and other elements, it should be so endowed."
+  },
+  {
+   "verse": 1699,
+   "rows": [
+    {
+     "surface": "sarvālaṃkārasaṃyuktaṃ",
+     "gloss": "joined-with-all-ornaments",
+     "grounds": "compound indicating complete ornamentation",
+     "morph": "compound=sarva+alaṃkāra+saṃyukta; m.acc.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "architectural hall or pavilion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteenth",
+     "grounds": "ordinal designation in a sequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the thirteenth pavilion type defined in this architectural sequence?",
+   "premises": [
+    "The structure is a pavilion.",
+    "It is endowed with all ornaments and designated thirteenth."
+   ],
+   "inference": "The thirteenth pavilion should be one that is fully furnished with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The thirteenth pavilion indeed should be endowed with all ornaments."
+  }
+ ]
+}

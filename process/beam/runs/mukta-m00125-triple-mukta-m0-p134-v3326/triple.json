@@ -1,0 +1,1057 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3326,
+   "rows": [
+    {
+     "surface": "tadardham",
+     "gloss": "half-of-that",
+     "grounds": "half the previously stated measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaiśyajāteḥ",
+     "gloss": "of-vaiśya-born",
+     "grounds": "for one born in the vaiśya class",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardham",
+     "gloss": "half-of-that",
+     "grounds": "half of the preceding measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūdra",
+     "gloss": "for-śūdra",
+     "grounds": "for one of śūdra class; form as given",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "is prescribed or accepted",
+     "morph": "3.sg.pass-pres/iṣ"
+    }
+   ],
+   "question": "What reduced expiation measures apply to vaiśya and śūdra offenders?",
+   "premises": [
+    "A prior expiation measure has been established.",
+    "Vaiśya-born offenders receive half of that measure.",
+    "Śūdra offenders receive half of the vaiśya measure."
+   ],
+   "inference": "Expiation is graded downward by social class from the prior standard.",
+   "uncertainties": [
+    "The exact prior measure referenced by tadardham is not specified in this verse."
+   ],
+   "plain_english": "For one born as a vaiśya, half of that is prescribed, and for a śūdra, half of that again is desired."
+  },
+  {
+   "verse": 3327,
+   "rows": [
+    {
+     "surface": "gūḍhajeṣu",
+     "gloss": "among-secret-born",
+     "grounds": "among those of concealed birth",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects categories",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣvardham",
+     "gloss": "half-of-them",
+     "grounds": "half of their measure; fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadardham",
+     "gloss": "half-of-that",
+     "grounds": "half of the preceding measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratilomeṣu",
+     "gloss": "among-pratiloma",
+     "grounds": "among those born in inverse order",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "How are expiation measures further reduced for secret-born and pratiloma offenders?",
+   "premises": [
+    "Secret-born offenders are treated as a distinct category.",
+    "Pratiloma offenders are treated as another category.",
+    "Each receives a further halved measure relative to the prior group."
+   ],
+   "inference": "Expiation continues to decrease by halving for these lower-ranked categories.",
+   "uncertainties": [
+    "The precise referent of teṣām in teṣvardham depends on prior context."
+   ],
+   "plain_english": "Among the secretly born, half of their measure applies, and among the pratiloma, half of that."
+  },
+  {
+   "verse": 3328,
+   "rows": [
+    {
+     "surface": "abhiṣiktasya",
+     "gloss": "of-anointed-one",
+     "grounds": "of one who has been consecrated",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hanane",
+     "gloss": "in-killing",
+     "grounds": "in the act of killing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dīkṣitoktam",
+     "gloss": "stated-for-initiated",
+     "grounds": "the vow declared for an initiated person; compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "expiatory observance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "is-held",
+     "grounds": "is regarded or accepted",
+     "morph": "n.nom.sg (ppp/man)"
+    }
+   ],
+   "question": "What expiatory vow applies when an anointed person is killed?",
+   "premises": [
+    "The case concerns killing an anointed person.",
+    "A vow is prescribed for killing an initiated person.",
+    "That same vow is held applicable here."
+   ],
+   "inference": "Killing an anointed person requires the expiation prescribed for killing the initiated.",
+   "uncertainties": [
+    "Whether abhiṣikta and dīkṣita are fully equivalent here is context-dependent."
+   ],
+   "plain_english": "In the killing of an anointed person, the vow declared for an initiated person is held to apply."
+  },
+  {
+   "verse": 3329,
+   "rows": [
+    {
+     "surface": "mādhvī",
+     "gloss": "mādhvī-liquor",
+     "grounds": "a type of intoxicating drink",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khaṇṭakamṛdvīkam",
+     "gloss": "date-grape-liquor",
+     "grounds": "liquor from dates or grapes; compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "maireyaṃ",
+     "gloss": "maireya-liquor",
+     "grounds": "a specific fermented drink",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nālikerajam",
+     "gloss": "coconut-born",
+     "grounds": "liquor produced from coconut; compound",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "Which specific intoxicating drinks are enumerated in this classification?",
+   "premises": [
+    "Mādhvī is named as one drink.",
+    "Khaṇṭakamṛdvīka and maireya are named.",
+    "A coconut-derived drink is also named."
+   ],
+   "inference": "The verse lists distinct types of liquor subject to the following rule.",
+   "uncertainties": [
+    "Exact ingredients of khaṇṭakamṛdvīka may vary by tradition."
+   ],
+   "plain_english": "Mādhvī, date-or-grape liquor, maireya, and coconut-born liquor are listed."
+  },
+  {
+   "verse": 3330,
+   "rows": [
+    {
+     "surface": "dvādaśyeva",
+     "gloss": "twelve-indeed",
+     "grounds": "twelve in number; emphatic particle fused",
+     "morph": "f.nom.pl (compound with indecl.)"
+    },
+    {
+     "surface": "surā",
+     "gloss": "liquors",
+     "grounds": "intoxicating drinks",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "paiṣṭiḥ",
+     "gloss": "flour-made",
+     "grounds": "liquor made from flour or grain paste",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "among all of them",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhamā",
+     "gloss": "lowest",
+     "grounds": "most inferior in rank",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "is-remembered",
+     "grounds": "is traditionally taught",
+     "morph": "f.nom.sg (ppp/smṛ)"
+    }
+   ],
+   "question": "How many liquors are recognized and which type is deemed lowest?",
+   "premises": [
+    "The liquors are counted as twelve.",
+    "Flour-made liquor is included among them.",
+    "Flour-made liquor is remembered as the lowest of all."
+   ],
+   "inference": "Among twelve recognized liquors, the flour-made type ranks lowest.",
+   "uncertainties": [
+    "The full list of all twelve is not given in this verse alone."
+   ],
+   "plain_english": "There are indeed twelve liquors, and the flour-made one is remembered as the lowest of all."
+  },
+  {
+   "verse": 3331,
+   "rows": [
+    {
+     "surface": "ekādaśasurāpāne",
+     "gloss": "in-drinking-eleven-liquors",
+     "grounds": "in drinking the eleven liquors; compound",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "one should perform",
+     "morph": "3.sg.opt-act/kṛ"
+    },
+    {
+     "surface": "vratadaśāṃśakam",
+     "gloss": "tenth-part-of-vow",
+     "grounds": "one tenth portion of the prescribed vow; compound",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What expiation fraction applies to drinking the eleven higher liquors?",
+   "premises": [
+    "The case concerns drinking the eleven liquors.",
+    "A prescribed vow exists as the standard measure.",
+    "One should perform a tenth part of that vow."
+   ],
+   "inference": "Drinking the eleven liquors requires one tenth of the standard expiatory vow.",
+   "uncertainties": [
+    "The base vow whose tenth is meant is implied from prior verses."
+   ],
+   "plain_english": "For drinking the eleven liquors, one should perform a tenth part of the vow."
+  },
+  {
+   "verse": 3332,
+   "rows": [
+    {
+     "surface": "gomūtrayavakāhāraḥ",
+     "gloss": "cow-urine-barley-food",
+     "grounds": "one whose food is barley with cow urine; compound",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "daśarātreṇa",
+     "gloss": "in-ten-nights",
+     "grounds": "over a period of ten nights",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "becomes-pure",
+     "grounds": "attains purification",
+     "morph": "3.sg.pres-act/śudh"
+    }
+   ],
+   "question": "What regimen and duration bring purification in this expiation case?",
+   "premises": [
+    "The prescribed diet is barley with cow urine.",
+    "The observance lasts ten nights.",
+    "Completion of this regimen results in purification."
+   ],
+   "inference": "Purification is achieved by ten nights of the cow-urine-and-barley regimen.",
+   "uncertainties": [
+    "The specific offense purified here is supplied by context."
+   ],
+   "plain_english": "Living on cow urine and barley, one becomes pure in ten nights."
+  },
+  {
+   "verse": 3333,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "applying to all",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kṣatriyādīnām",
+     "gloss": "of-kṣatriya-and-others",
+     "grounds": "of kṣatriyas and the following classes; compound",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "pūrvoktanyāyaḥ",
+     "gloss": "previously-stated-rule",
+     "grounds": "the rule stated earlier; compound",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "is-declared",
+     "grounds": "is stated or taught",
+     "morph": "m.nom.sg (ppp/īr)"
+    }
+   ],
+   "question": "Which rule governs expiation for kṣatriyas and the other classes?",
+   "premises": [
+    "Kṣatriyas and other classes are included.",
+    "A rule was stated previously.",
+    "That previously stated rule is declared applicable to them."
+   ],
+   "inference": "The earlier rule extends to kṣatriyas and the remaining classes.",
+   "uncertainties": [
+    "The exact earlier rule referred to is not repeated here."
+   ],
+   "plain_english": "For all, beginning with kṣatriyas, the previously stated rule is declared."
+  },
+  {
+   "verse": 3334,
+   "rows": [
+    {
+     "surface": "kṣatriyādiṣu",
+     "gloss": "among-kṣatriya-and-others",
+     "grounds": "among kṣatriyas and the following; compound",
+     "morph": "m.loc.pl (compound)"
+    },
+    {
+     "surface": "saṃproktaḥ",
+     "gloss": "is-declared",
+     "grounds": "is well stated",
+     "morph": "m.nom.sg (ppp/vac with sam-pra)"
+    },
+    {
+     "surface": "viprasya",
+     "gloss": "of-brāhmaṇa",
+     "grounds": "of a brāhmaṇa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadhaḥ",
+     "gloss": "killing",
+     "grounds": "act of killing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "in any circumstance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the killing of a brāhmaṇa ever permitted among kṣatriyas and others?",
+   "premises": [
+    "The context includes kṣatriyas and other classes.",
+    "The act considered is killing a brāhmaṇa.",
+    "The text declares such killing is never permitted."
+   ],
+   "inference": "Killing a brāhmaṇa is absolutely prohibited for kṣatriyas and others.",
+   "uncertainties": [],
+   "plain_english": "Among kṣatriyas and others, the killing of a brāhmaṇa is declared never permissible."
+  },
+  {
+   "verse": 3335,
+   "rows": [
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral ten",
+     "morph": "(indecl. numeral)"
+    },
+    {
+     "surface": "lakṣam",
+     "gloss": "hundred-thousand",
+     "grounds": "a lakh",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "japāntam",
+     "gloss": "up-to-recitation",
+     "grounds": "ending with recitation of that amount; compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvam",
+     "gloss": "beyond-that",
+     "grounds": "above that measure; compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "daśavṛddhitaḥ",
+     "gloss": "by-tenfold-increase",
+     "grounds": "by increase in tens; compound",
+     "morph": "(indecl. compound)"
+    }
+   ],
+   "question": "What recitation scale is prescribed up to and beyond ten lakhs?",
+   "premises": [
+    "A recitation measure reaches up to ten lakhs.",
+    "Beyond that point a different scaling applies.",
+    "The increase proceeds by tens."
+   ],
+   "inference": "Recitation is set up to ten lakhs and increases tenfold beyond that.",
+   "uncertainties": [
+    "The exact offense requiring this recitation is context-dependent."
+   ],
+   "plain_english": "Recitation is prescribed up to ten lakhs, but beyond that it increases by tens."
+  },
+  {
+   "verse": 3336,
+   "rows": [
+    {
+     "surface": "śatamardhārdhahrāsena",
+     "gloss": "hundred-by-half-half-decrease",
+     "grounds": "a hundred reduced by successive halves; compound",
+     "morph": "n.nom.sg (compound with inst.)"
+    },
+    {
+     "surface": "svarṇasteye",
+     "gloss": "in-gold-theft",
+     "grounds": "in the theft of gold; compound",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "is-declared",
+     "grounds": "is stated",
+     "morph": "n.nom.sg (ppp/īr with sam)"
+    }
+   ],
+   "question": "What graduated penalty scale applies in cases of gold theft?",
+   "premises": [
+    "The offense is theft of gold.",
+    "A base figure of one hundred is used.",
+    "The measure decreases by successive halves."
+   ],
+   "inference": "Gold theft is expiated by a hundred-based scale reduced by half and half again.",
+   "uncertainties": [
+    "The unit counted as one hundred is not specified here."
+   ],
+   "plain_english": "In the theft of gold, a hundred with successive halving decreases is declared."
+  },
+  {
+   "verse": 3337,
+   "rows": [
+    {
+     "surface": "suvarṇe",
+     "gloss": "in-gold",
+     "grounds": "in the case of gold",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rajate",
+     "gloss": "in-silver",
+     "grounds": "in the case of silver",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhānye",
+     "gloss": "in-grain",
+     "grounds": "in the case of grain",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śatamekādaśottaram",
+     "gloss": "hundred-plus-eleven",
+     "grounds": "one hundred and eleven; compound",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What numerical penalty applies to theft of gold, silver, or grain?",
+   "premises": [
+    "The cases include gold, silver, and grain.",
+    "A single numerical measure is given for them.",
+    "That measure is one hundred and eleven."
+   ],
+   "inference": "Theft of gold, silver, or grain incurs a penalty of one hundred and eleven.",
+   "uncertainties": [
+    "The unit of the number one hundred and eleven is implied by context."
+   ],
+   "plain_english": "In the case of gold, silver, or grain, one hundred and eleven is prescribed."
+  },
+  {
+   "verse": 3338,
+   "rows": [
+    {
+     "surface": "gurutalpam",
+     "gloss": "teacher-bed",
+     "grounds": "union with the teacher's wife; grave offense",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "vihāya",
+     "gloss": "excluding",
+     "grounds": "having set aside",
+     "morph": "(gerund/vi-hā)"
+    },
+    {
+     "surface": "anyastrīyoge",
+     "gloss": "in-union-with-other-woman",
+     "grounds": "in sexual union with another woman; compound",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakam",
+     "gloss": "grave-sin",
+     "grounds": "a major sin",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does union with another woman constitute a grave sin when excluding the teacher's bed?",
+   "premises": [
+    "Union with the teacher's wife is excluded from this case.",
+    "The case concerns union with another woman.",
+    "Such union is declared not to be a grave sin."
+   ],
+   "inference": "Apart from violating the teacher's bed, union with another woman is not classed as a grave sin.",
+   "uncertainties": [
+    "Lesser degrees of fault may still apply but are not stated here."
+   ],
+   "plain_english": "Excluding violation of the teacher's bed, union with another woman is indeed not a grave sin."
+  },
+  {
+   "verse": 3339,
+   "rows": [
+    {
+     "surface": "pātakaiḥ+saha",
+     "gloss": "with-grave-sinners",
+     "grounds": "in association with those guilty of grave sins; fused with plus marker",
+     "morph": "n.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-acts",
+     "grounds": "one does or associates in action",
+     "morph": "3.sg.opt-act/kṛ"
+    },
+    {
+     "surface": "so'pi",
+     "gloss": "he-also",
+     "grounds": "that person too; fused form",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tatsamaḥ",
+     "gloss": "equal-to-them",
+     "grounds": "equal to those sinners; compound",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-regarded",
+     "grounds": "is considered or desired",
+     "morph": "3.sg.pass-pres/iṣ"
+    }
+   ],
+   "question": "What moral status results from acting in association with grave sinners?",
+   "premises": [
+    "A person may act together with those guilty of grave sins.",
+    "Such association is treated as morally significant.",
+    "The associate is regarded as equal to them."
+   ],
+   "inference": "Association in action with grave sinners makes one equal to those sinners.",
+   "uncertainties": [
+    "The scope of kuryāt as action or mere association is context-dependent."
+   ],
+   "plain_english": "If one acts together with those guilty of grave sins, he too is regarded as equal to them."
+  },
+  {
+   "verse": 3340,
+   "rows": [
+    {
+     "surface": "anupātakaśuddhyartham",
+     "gloss": "for-minor-sin-purification",
+     "grounds": "for the purpose of purifying a minor sin; compound",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "anuvratam",
+     "gloss": "minor-vow",
+     "grounds": "a secondary expiatory vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "is stated or exemplified",
+     "morph": "n.nom.sg (ppp/ud-ā-hṛ)"
+    }
+   ],
+   "question": "What expiatory observance is prescribed for purification from minor sins?",
+   "premises": [
+    "Minor sins require purification.",
+    "A corresponding observance is taught.",
+    "That observance is declared to be a minor vow."
+   ],
+   "inference": "Purification from minor sins is accomplished through a minor vow.",
+   "uncertainties": [],
+   "plain_english": "For the purification of a minor sin, a minor vow is declared."
+  },
+  {
+   "verse": 3341,
+   "rows": [
+    {
+     "surface": "āsām",
+     "gloss": "of-these-women",
+     "grounds": "of these females referred to",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gamanaṃ",
+     "gloss": "approaching",
+     "grounds": "sexual approach or union",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viprāḥ",
+     "gloss": "o-brāhmaṇas",
+     "grounds": "addressed to brāhmaṇas; vocative sense in context",
+     "morph": "m.voc.pl"
+    },
+    {
+     "surface": "anupātakam",
+     "gloss": "minor-sin",
+     "grounds": "a secondary offense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "is stated",
+     "morph": "n.nom.sg (ppp/īr)"
+    }
+   ],
+   "question": "How is approaching these women classified for brāhmaṇas in this teaching?",
+   "premises": [
+    "The act concerns approaching certain women.",
+    "The teaching addresses brāhmaṇas.",
+    "This act is declared a minor sin."
+   ],
+   "inference": "For brāhmaṇas, approaching these women is classified as a minor sin.",
+   "uncertainties": [
+    "The identity of āsām depends on the preceding verse."
+   ],
+   "plain_english": "And approaching these women, O brāhmaṇas, is declared to be a minor sin."
+  },
+  {
+   "verse": 3342,
+   "rows": [
+    {
+     "surface": "caṇḍālapāṇa",
+     "gloss": "caṇḍāla-touch",
+     "grounds": "contact with a caṇḍāla; compound element",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "rajakocchiṣṭa",
+     "gloss": "washerman-leftover",
+     "grounds": "leftovers of a washerman; compound element",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "bhoge",
+     "gloss": "in-enjoyment",
+     "grounds": "in partaking or use",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anupātakam",
+     "gloss": "minor-sin",
+     "grounds": "a secondary offense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What minor sin arises from contact with a caṇḍāla or washerman leftovers?",
+   "premises": [
+    "Contact with a caṇḍāla is considered.",
+    "Partaking of a washerman's leftovers is considered.",
+    "Such enjoyment is classified as a minor sin."
+   ],
+   "inference": "Touching a caṇḍāla or consuming washerman leftovers constitutes a minor sin.",
+   "uncertainties": [
+    "The compound boundary between the first two tokens is interpretive in translation."
+   ],
+   "plain_english": "In contact with a caṇḍāla or in enjoying a washerman's leftovers, there is a minor sin."
+  },
+  {
+   "verse": 3343,
+   "rows": [
+    {
+     "surface": "dveṣeṇa",
+     "gloss": "with-hatred",
+     "grounds": "out of malice",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "utpāṭanam",
+     "gloss": "uprooting",
+     "grounds": "act of tearing out or uprooting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "having performed",
+     "morph": "(gerund/kṛ)"
+    },
+    {
+     "surface": "pātakādadhikaḥ",
+     "gloss": "greater-than-grave-sin",
+     "grounds": "more serious than a grave sin; compound",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "becomes or would become",
+     "morph": "3.sg.opt-act/bhū"
+    }
+   ],
+   "question": "How severe is malicious uprooting compared to an ordinary grave sin?",
+   "premises": [
+    "The act is uprooting done out of hatred.",
+    "The comparison is made against a grave sin.",
+    "Such an act is said to be greater than a grave sin."
+   ],
+   "inference": "Malicious uprooting exceeds the severity of a grave sin.",
+   "uncertainties": [
+    "The object being uprooted is not specified in this verse."
+   ],
+   "plain_english": "Having uprooted something out of hatred, one would incur a fault greater than a grave sin."
+  },
+  {
+   "verse": 3344,
+   "rows": [
+    {
+     "surface": "duḥsthānanimnadoṣādau",
+     "gloss": "in-bad-place-low-fault-and-such",
+     "grounds": "in cases of bad location, lowness, fault, etc.; compound",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "parihartum",
+     "gloss": "to-avoid",
+     "grounds": "in order to remove or avoid",
+     "morph": "(infinitive/pari-hṛ)"
+    },
+    {
+     "surface": "taduddhṛtam",
+     "gloss": "that-removed",
+     "grounds": "that is taken out or extracted; compound",
+     "morph": "n.nom.sg (compound, ppp/ud-hṛ)"
+    }
+   ],
+   "question": "Why may something be removed in cases of bad location or similar faults?",
+   "premises": [
+    "There may be faults such as bad location or lowness.",
+    "Removal is undertaken to avoid such faults.",
+    "The thing is accordingly extracted."
+   ],
+   "inference": "Extraction is permitted to avoid defects like bad placement or lowness.",
+   "uncertainties": [
+    "The object of removal is implied by prior context."
+   ],
+   "plain_english": "In cases of bad location, lowness, fault, and the like, it is removed in order to avoid that."
+  },
+  {
+   "verse": 3345,
+   "rows": [
+    {
+     "surface": "devakṣetrāpaharaṇam",
+     "gloss": "seizing-god-field",
+     "grounds": "appropriation of a deity's field; compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "devopaharaṇāhṛtiḥ",
+     "gloss": "seizing-god-offering",
+     "grounds": "taking away an offering to a deity; compound",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "Which acts of appropriation involving divine property are named as offenses?",
+   "premises": [
+    "Seizing a deity's field is named.",
+    "Seizing a deity's offering is named.",
+    "Both are presented as wrongful appropriations."
+   ],
+   "inference": "Appropriating a deity's field or offering constitutes an offense.",
+   "uncertainties": [
+    "The specific penalty for these acts is not stated in this verse."
+   ],
+   "plain_english": "Seizing a deity's field and taking away a deity's offering are named."
+  },
+  {
+   "verse": 3346,
+   "rows": [
+    {
+     "surface": "śaivādīnām",
+     "gloss": "of-śaiva-and-others",
+     "grounds": "of Śaivas and the other groups; compound",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "caturṇām",
+     "gloss": "of-four",
+     "grounds": "of the four groups",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍanirṇayaḥ",
+     "gloss": "punishment-determination",
+     "grounds": "decision regarding punishment; compound",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For which four groups is the determination of punishment being specified?",
+   "premises": [
+    "The groups begin with the Śaivas.",
+    "There are four such groups in total.",
+    "A determination of punishment applies to them."
+   ],
+   "inference": "Punishment is to be determined specifically for the four groups beginning with Śaivas.",
+   "uncertainties": [
+    "The identity of the other three groups is not stated in this verse."
+   ],
+   "plain_english": "And indeed, the determination of punishment for the four groups beginning with the Śaivas is specified."
+  },
+  {
+   "verse": 3347,
+   "rows": [
+    {
+     "surface": "pitṛvyasakhi",
+     "gloss": "paternal-uncle-friend",
+     "grounds": "friend of the paternal uncle; compound element",
+     "morph": "f.stem (compound)"
+    },
+    {
+     "surface": "śiṣyastrī",
+     "gloss": "disciple-wife",
+     "grounds": "wife of a disciple; compound",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "snuṣāḥ",
+     "gloss": "daughters-in-law",
+     "grounds": "daughters-in-law",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaraṇāgatāḥ",
+     "gloss": "those-seeking-refuge",
+     "grounds": "those who have come for protection; compound",
+     "morph": "f.nom.pl (compound, ppp/ā-gam)"
+    }
+   ],
+   "question": "Which protected women are enumerated as forbidden in this context?",
+   "premises": [
+    "The paternal uncle's friend is listed.",
+    "A disciple's wife and daughters-in-law are listed.",
+    "Women who have sought refuge are listed."
+   ],
+   "inference": "These categories of women are enumerated as protected and forbidden.",
+   "uncertainties": [
+    "The exact relation implied by pitṛvyasakhi depends on context."
+   ],
+   "plain_english": "The paternal uncle's friend, the disciple's wife, daughters-in-law, and those who have sought refuge are listed."
+  },
+  {
+   "verse": 3348,
+   "rows": [
+    {
+     "surface": "sagotrā",
+     "gloss": "same-lineage",
+     "grounds": "a woman of the same gotra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātulānīm",
+     "gloss": "maternal-uncle-wife",
+     "grounds": "wife of the maternal uncle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāna",
+     "gloss": "same",
+     "grounds": "sharing the same",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "pravarā",
+     "gloss": "priestly-lineage",
+     "grounds": "having the same pravara",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to a woman",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional women related by lineage or marriage are included in the prohibition?",
+   "premises": [
+    "A woman of the same gotra is included.",
+    "The maternal uncle's wife is included.",
+    "A woman of the same pravara is included."
+   ],
+   "inference": "Women sharing lineage ties or being the maternal uncle's wife are also prohibited.",
+   "uncertainties": [
+    "The syntactic role of mātulānīm as accusative in this list is context-dependent."
+   ],
+   "plain_english": "A woman of the same gotra, the maternal uncle's wife, and she who is of the same pravara are included."
+  },
+  {
+   "verse": 3349,
+   "rows": [
+    {
+     "surface": "parivittiḥ",
+     "gloss": "superseded-elder-brother",
+     "grounds": "an elder brother passed over in marriage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parivettā",
+     "gloss": "superseding-younger-brother",
+     "grounds": "a younger brother who marries before the elder",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tayoryājanam",
+     "gloss": "officiating-for-them",
+     "grounds": "performing priestly rites for those two; compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which marriage-order offenders and related priestly act are named here?",
+   "premises": [
+    "The superseded elder brother is named.",
+    "The superseding younger brother is named.",
+    "Officiating as priest for them is also named."
+   ],
+   "inference": "Both brothers in this improper marriage order and officiating for them are treated as culpable.",
+   "uncertainties": [
+    "The specific penalty category is implied by surrounding verses."
+   ],
+   "plain_english": "The superseded elder brother, the superseding younger brother, and indeed officiating for them are named."
+  }
+ ]
+}

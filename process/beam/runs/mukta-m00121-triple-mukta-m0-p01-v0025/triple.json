@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "manaḥpuṣpaṃ",
+     "gloss": "mind-flower",
+     "grounds": "compound of manaḥ and puṣpaṃ, offered as mental flower",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyam",
+     "gloss": "should-be-given",
+     "grounds": "gerundive of dā, neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "arcatet",
+     "gloss": "one-should-worship",
+     "grounds": "optative of arc, third person singular",
+     "morph": "v.3.sg.opt (arc)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective modifying Śiva, accusative singular",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "Śiva",
+     "grounds": "accusative singular masculine, object of worship",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What offering and act of worship are prescribed for supreme Śiva?",
+   "premises": [
+    "Mind-flower is the offering.",
+    "Supreme Śiva is worshipped.",
+    "Worship includes giving."
+   ],
+   "inference": "The verse prescribes offering mind-flower and worshipping supreme Śiva.",
+   "uncertainties": [
+    "Exact ritual context is not specified by this verse."
+   ],
+   "plain_english": "The mind-flower should be given; one should worship supreme Śiva."
+  }
+ ]
+}

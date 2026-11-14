@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "kīrttiḥ",
+     "gloss": "fame",
+     "grounds": "subject of the resulting attainments",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "prosperity",
+     "grounds": "subject of the resulting attainments",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "radiance",
+     "grounds": "subject of the resulting attainments",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "medhā",
+     "gloss": "intelligence",
+     "grounds": "subject of the resulting attainments",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āyuḥ",
+     "gloss": "lifespan",
+     "grounds": "subject of the resulting attainments",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttiḥ",
+     "gloss": "livelihood",
+     "grounds": "subject of the resulting attainments; can also imply conduct or means of living",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "predicate asserting the arising of the listed attainments",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "affirms the certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which enduring personal attainments are assured as fruits of the prescribed dawn recitation?",
+   "premises": [
+    "The preceding verse states that one who recites at dawn obtains the desired fruit.",
+    "This verse enumerates specific attainments as that fruit.",
+    "The adverb dhruvam marks the result as certain."
+   ],
+   "inference": "Therefore, fame, prosperity, radiance, intelligence, lifespan, and livelihood certainly arise for the dawn reciter.",
+   "uncertainties": [
+    "vṛttiḥ may mean livelihood, conduct, or general well-being depending on context."
+   ],
+   "plain_english": "Fame, prosperity, radiance, intelligence, long life, and livelihood certainly come to be."
+  }
+ ]
+}

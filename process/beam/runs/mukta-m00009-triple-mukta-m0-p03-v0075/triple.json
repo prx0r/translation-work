@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "the individual self as subject of knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktiś",
+     "gloss": "power",
+     "grounds": "the operative power associated with the self",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjoins the two subjects to be known",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyau",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating what must be understood",
+     "morph": "m.nom.du.gerundive (vi-√jñā)"
+    },
+    {
+     "surface": "vistaro'",
+     "gloss": "elaboration",
+     "grounds": "detailed exposition; final visarga elided before following vowel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atrai",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context; sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "va",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-stated",
+     "grounds": "announces forthcoming detailed explanation",
+     "morph": "3.sg.fut.pass (√vac)"
+    }
+   ],
+   "question": "How must the self and its power be understood in the present exposition?",
+   "premises": [
+    "The self is presented as an object of knowledge.",
+    "Power is presented together with the self as an object of knowledge.",
+    "A detailed exposition of these is announced for this context."
+   ],
+   "inference": "Therefore, the self and its power must be known together through the elaboration that will be given here.",
+   "uncertainties": [
+    "The exact doctrinal relation between ātmā and śakti in this passage depends on the forthcoming elaboration."
+   ],
+   "plain_english": "The self and its power are to be known, and their detailed explanation will indeed be given here."
+  }
+ ]
+}

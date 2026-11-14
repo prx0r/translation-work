@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "durgā+rūpā",
+     "gloss": "durgā-form",
+     "grounds": "compound adjective qualifying īkāraḥ; having the form of Durgā",
+     "morph": "compound: durgā+rupa (bahuvrihi), m.nom.sg"
+    },
+    {
+     "surface": "īkāraḥ",
+     "gloss": "syllable-ī",
+     "grounds": "the phoneme/syllable ī, kept as mantra material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking predicates",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catur+varga+phala+pradaḥ",
+     "gloss": "four-goals-fruit-giver",
+     "grounds": "compound adjective qualifying īkāraḥ; bestower of the fruit of the four aims",
+     "morph": "compound: catur+varga+phala+prada (tatpuruṣa), m.nom.sg"
+    }
+   ],
+   "question": "What divine form and fruit are attributed to the syllable ī?",
+   "premises": [
+    "The syllable ī is characterized as having the form of Durgā.",
+    "The syllable ī is characterized as granting the fruit of the four goals.",
+    "A syllable can be identified with a deity-form and a bestowing power."
+   ],
+   "inference": "Therefore the syllable ī is identified with Durgā and as the bestower of the four goals.",
+   "uncertainties": [
+    "The specific scope of catur-varga (dharma, artha, kāma, mokṣa) is assumed from common usage."
+   ],
+   "plain_english": "And the syllable ī has the form of Durgā and grants the fruit of the four goals."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3450,
+   "rows": [
+    {
+     "surface": "mlānebhyo",
+     "gloss": "to-exhausted",
+     "grounds": "dative plural of mlāna, indicating recipients who are weary or exhausted",
+     "morph": "m.dat.pl.m"
+    },
+    {
+     "surface": "vyādhitebhyo",
+     "gloss": "to-sick",
+     "grounds": "dative plural of vyādhita, indicating recipients who are ill",
+     "morph": "m.dat.pl.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatibhyaḥ",
+     "gloss": "to-ascetics",
+     "grounds": "dative plural of yati, denoting renunciant recipients",
+     "morph": "m.dat.pl.m"
+    },
+    {
+     "surface": "kiñcid",
+     "gloss": "some",
+     "grounds": "indefinite pronoun/adjective qualifying the medicine as a small or some amount",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "auṣadham",
+     "gloss": "medicine",
+     "grounds": "accusative singular neuter noun denoting medicinal remedy",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What aid should be offered to ascetics who are exhausted or sick?",
+   "premises": [
+    "Some ascetics may be exhausted.",
+    "Some ascetics may be sick.",
+    "Exhausted or sick ascetics may require medicinal aid."
+   ],
+   "inference": "Therefore some medicine should be given to ascetics who are exhausted or sick.",
+   "uncertainties": [
+    "The implied verb of giving or offering is supplied from the preceding context."
+   ],
+   "plain_english": "Or some medicine should be given to ascetics who are exhausted or sick."
+  }
+ ]
+}

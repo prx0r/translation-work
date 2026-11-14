@@ -1,0 +1,45 @@
+{
+ "song": "sva-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "prāṇīye",
+     "gloss": "in-living-being",
+     "grounds": "locative singular masculine of prāṇin",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahorātrodayaḥ",
+     "gloss": "day-night-rising",
+     "grounds": "compound of ahorātra and udayaḥ in nominative singular masculine",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "third person singular active present of root as",
+     "morph": "3.sg.act-pres root as"
+    }
+   ],
+   "question": "What rises even in a living being?",
+   "premises": [
+    "Even in a living being day-night rising exists.",
+    "The verse states an embodied daily cycle."
+   ],
+   "inference": "The verse affirms that day and night arise even within a living being.",
+   "uncertainties": [
+    "prāṇīye is read as locative of prāṇin.",
+    "ahorātrodayaḥ is treated as a compound meaning day-night rising."
+   ],
+   "plain_english": "Even in a living being, there is the rising of day and night."
+  }
+ ]
+}

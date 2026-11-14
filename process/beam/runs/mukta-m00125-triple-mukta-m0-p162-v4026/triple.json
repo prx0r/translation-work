@@ -1,0 +1,975 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4026,
+   "rows": [
+    {
+     "surface": "liṅgāyāma",
+     "gloss": "linga-length",
+     "grounds": "compound; measure of the linga",
+     "morph": "liṅga+āyāma (compound)"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "wide",
+     "grounds": "qualifies the pedestal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "object whose dimension is stated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvārtha",
+     "gloss": "all-purpose",
+     "grounds": "compound; for all aims",
+     "morph": "sarva+artha (compound)"
+    },
+    {
+     "surface": "sādhakam",
+     "gloss": "accomplishing",
+     "grounds": "qualifies the pedestal",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What breadth makes a pedestal effective for all ritual purposes relative to the linga?",
+   "premises": [
+    "The pedestal is measured in relation to the linga length.",
+    "The pedestal is described as wide.",
+    "The pedestal accomplishes all purposes."
+   ],
+   "inference": "A pedestal wide in proportion to the linga length is fit to accomplish all purposes.",
+   "uncertainties": [],
+   "plain_english": "A pedestal wide in proportion to the linga's length is effective for accomplishing all purposes."
+  },
+  {
+   "verse": 4027,
+   "rows": [
+    {
+     "surface": "pūjāṃśasyodayā",
+     "gloss": "worship-part-rise",
+     "grounds": "compound; elevation of the worship portion",
+     "morph": "pūjā+aṃśa+udaya (compound)"
+    },
+    {
+     "surface": "prānta",
+     "gloss": "edge",
+     "grounds": "boundary area of the pedestal",
+     "morph": "prānta (compound member)"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "base structure",
+     "morph": "pīṭha (compound member)"
+    },
+    {
+     "surface": "nirgamanānvitam",
+     "gloss": "outlet-endowed",
+     "grounds": "compound; provided with an exit channel",
+     "morph": "nirgamana+anvita (compound), n.acc.sg"
+    }
+   ],
+   "question": "What structural feature must the pedestal include at its edge for the worship portion?",
+   "premises": [
+    "The worship portion has a rise.",
+    "The pedestal has an edge.",
+    "The pedestal must be endowed with an outlet."
+   ],
+   "inference": "The pedestal should include an outlet at its edge corresponding to the rise of the worship portion.",
+   "uncertainties": [],
+   "plain_english": "The pedestal should have an outlet at its edge, aligned with the rise of the worship portion."
+  },
+  {
+   "verse": 4028,
+   "rows": [
+    {
+     "surface": "liṅgāyāmasamaṃ",
+     "gloss": "linga-length-equal",
+     "grounds": "compound; equal to the linga length",
+     "morph": "liṅga+āyāma+sama (compound), n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative option",
+     "morph": "vā+api (indecl.)"
+    },
+    {
+     "surface": "liṅgāyāmārdhameva",
+     "gloss": "linga-length-half-only",
+     "grounds": "compound with emphatic particle; half the linga length",
+     "morph": "liṅga+āyāma+ardha+eva (compound+indecl.), n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative proportions relative to linga length are permitted for the pedestal measure?",
+   "premises": [
+    "One option equals the linga length.",
+    "Another option equals half the linga length.",
+    "Both options are presented as alternatives."
+   ],
+   "inference": "The pedestal measure may be equal to the linga length or to half of it.",
+   "uncertainties": [],
+   "plain_english": "The pedestal may be equal to the linga's length, or alternatively half of that length."
+  },
+  {
+   "verse": 4029,
+   "rows": [
+    {
+     "surface": "liṅgāsyatāratriguṇaṃ",
+     "gloss": "linga-width-threefold",
+     "grounds": "compound; three times the linga width",
+     "morph": "liṅga+āsyatāra+triguṇa (compound), n.nom.sg"
+    },
+    {
+     "surface": "bhavetpañcaguṇaṃ",
+     "gloss": "may-be-fivefold",
+     "grounds": "verb with predicate; five times",
+     "morph": "3.sg.opt.act (bhū) + pañcaguṇa (compound), n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What multiples of the linga width are allowable for the pedestal breadth?",
+   "premises": [
+    "A threefold measure of the linga width is possible.",
+    "A fivefold measure of the linga width is possible.",
+    "These are presented as alternatives."
+   ],
+   "inference": "The pedestal breadth may be three times or five times the linga width.",
+   "uncertainties": [
+    "The exact base term rendered as width follows the traditional reading of āsyatāra."
+   ],
+   "plain_english": "The pedestal's breadth may be three times or five times the width of the linga."
+  },
+  {
+   "verse": 4030,
+   "rows": [
+    {
+     "surface": "liṅgamānavaśāt",
+     "gloss": "linga-measure-according-to",
+     "grounds": "compound with ablative sense; based on linga measure",
+     "morph": "liṅga+māna+vaśa (compound), m.abl.sg"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "object whose width is declared",
+     "morph": "pīṭha (compound member)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension being specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg past-passive-participle (pari-kīrt)"
+    }
+   ],
+   "question": "On what basis is the width of the pedestal authoritatively determined?",
+   "premises": [
+    "The linga has a measure.",
+    "The pedestal has a width.",
+    "The width is declared according to the linga measure."
+   ],
+   "inference": "The pedestal width is determined according to the measure of the linga.",
+   "uncertainties": [],
+   "plain_english": "The width of the pedestal is declared to be determined according to the measure of the linga."
+  },
+  {
+   "verse": 4031,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṅgula",
+     "gloss": "sixteen-finger",
+     "grounds": "compound; measure of sixteen aṅgulas",
+     "morph": "ṣoḍaśa+aṅgula (compound)"
+    },
+    {
+     "surface": "samyukta",
+     "gloss": "joined-with",
+     "grounds": "combined with a lower limit",
+     "morph": "samyukta (compound member)"
+    },
+    {
+     "surface": "viṃśakāṅkulakāvadhi",
+     "gloss": "twenty-finger-limit",
+     "grounds": "compound; upper limit of twenty aṅgulas",
+     "morph": "viṃśaka+aṅgula+avadhi (compound), m.nom.sg"
+    }
+   ],
+   "question": "What numerical range in finger units bounds the prescribed pedestal width?",
+   "premises": [
+    "A measure of sixteen aṅgulas is included.",
+    "A limit of twenty aṅgulas is specified.",
+    "These define a bounded range."
+   ],
+   "inference": "The prescribed width ranges from sixteen to twenty aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "The prescribed width ranges from sixteen aṅgulas up to a limit of twenty aṅgulas."
+  },
+  {
+   "verse": 4032,
+   "rows": [
+    {
+     "surface": "liṅgānāmādhikaḥ",
+     "gloss": "lingas-greater",
+     "grounds": "compound; exceeding the linga measure",
+     "morph": "liṅga+ādhika (compound), m.nom.sg"
+    },
+    {
+     "surface": "vīṭhavistāroneṣyate",
+     "gloss": "pedestal-width-desired",
+     "grounds": "compound with verb; desired pedestal width",
+     "morph": "vīṭha+vistāra+iṣyate (compound + 3.sg.pass.pres iṣ)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative address to qualified recipients",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "How should the pedestal width relate to the linga for the twice-born practitioners?",
+   "premises": [
+    "The pedestal width is desired.",
+    "It is described as greater than the linga.",
+    "The instruction is addressed to the twice-born."
+   ],
+   "inference": "For the twice-born, the pedestal width should exceed that of the linga.",
+   "uncertainties": [
+    "The form vīṭha is read as a variant for pīṭha in this context."
+   ],
+   "plain_english": "O twice-born ones, the pedestal's width should be made greater than that of the linga."
+  },
+  {
+   "verse": 4033,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃśāt",
+     "gloss": "from-sixth-part",
+     "grounds": "ablative starting point of division",
+     "morph": "ṣaṣ+aṃśa (compound), m.abl.sg"
+    },
+    {
+     "surface": "ṣoḍaśāṃśāntaṃ",
+     "gloss": "up-to-sixteenth-part",
+     "grounds": "compound; ending point of division",
+     "morph": "ṣoḍaśa+aṃśa+anta (compound), n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-divided",
+     "grounds": "action of partitioning",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "mūlaviśālakam",
+     "gloss": "base-breadth",
+     "grounds": "compound; breadth at the base",
+     "morph": "mūla+viśālaka (compound), n.acc.sg"
+    }
+   ],
+   "question": "Into what range of parts should the base breadth be divided for measurement?",
+   "premises": [
+    "Division begins from a sixth part.",
+    "Division extends up to a sixteenth part.",
+    "The base breadth is the object divided."
+   ],
+   "inference": "The base breadth should be divided into parts ranging from one-sixth to one-sixteenth.",
+   "uncertainties": [],
+   "plain_english": "Having divided the base breadth into parts ranging from a sixth up to a sixteenth, one should determine its measure."
+  },
+  {
+   "verse": 4034,
+   "rows": [
+    {
+     "surface": "viṣṇvaṃśotsedhatuṅgasya",
+     "gloss": "vishnu-part-height-raised",
+     "grounds": "compound; pedestal raised to the height of the Vishnu portion",
+     "morph": "viṣṇu+aṃśa+utsedha+tuṅga (compound), m.gen.sg"
+    },
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-pedestal",
+     "grounds": "possessor of the portion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "brahma bhāgakae",
+     "gloss": "brahma-portion",
+     "grounds": "compound; the Brahma portion of the pedestal",
+     "morph": "brahma+bhāgaka (compound), m.loc.sg"
+    }
+   ],
+   "question": "Which portion of a pedestal raised to the Vishnu section height is identified as Brahma's part?",
+   "premises": [
+    "The pedestal is raised to the height of the Vishnu portion.",
+    "The pedestal has distinct portions.",
+    "A Brahma portion is specified."
+   ],
+   "inference": "In a pedestal raised to the Vishnu portion height, the Brahma portion is identified accordingly.",
+   "uncertainties": [
+    "The final token brahma bhāgakae appears irregular in form; taken as indicating the Brahma portion."
+   ],
+   "plain_english": "For a pedestal raised to the height of the Vishnu portion, this concerns the Brahma portion."
+  },
+  {
+   "verse": 4035,
+   "rows": [
+    {
+     "surface": "tayormadhye'ṣṭadhā",
+     "gloss": "their-middle-eightfold",
+     "grounds": "compound with sandhi; middle between the two divided eightfold",
+     "morph": "tad+madhya+aṣṭadhā (compound+indecl.), loc.du + indecl."
+    },
+    {
+     "surface": "bhakte",
+     "gloss": "divided",
+     "grounds": "state of being partitioned",
+     "morph": "n.loc.sg past-passive-participle (bhaj)"
+    },
+    {
+     "surface": "navamānamudīritam",
+     "gloss": "ninth-measure-declared",
+     "grounds": "compound; the ninth measure is stated",
+     "morph": "nava+māna+udīrita (compound), n.nom.sg"
+    }
+   ],
+   "question": "How is the ninth measure derived from the middle space between two portions?",
+   "premises": [
+    "The middle between two portions is considered.",
+    "That middle is divided eightfold.",
+    "A ninth measure is declared."
+   ],
+   "inference": "Dividing the middle between the two portions eightfold yields the declared ninth measure.",
+   "uncertainties": [],
+   "plain_english": "When the middle between those two portions is divided eightfold, the ninth measure is declared."
+  },
+  {
+   "verse": 4036,
+   "rows": [
+    {
+     "surface": "mānuṣe",
+     "gloss": "in-human",
+     "grounds": "refers to human-made lingas",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhamānaṃ",
+     "gloss": "pedestal-measure",
+     "grounds": "compound; measure of the pedestal",
+     "morph": "pīṭha+māna (compound), n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "svayaṃbhūtādike'pi",
+     "gloss": "self-born-and-others-also",
+     "grounds": "compound with sandhi; includes self-manifest and similar lingas",
+     "morph": "svayaṃbhūta+ādika+api (compound+indecl.), n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For which types of lingas does the stated pedestal measure apply?",
+   "premises": [
+    "A pedestal measure is prescribed.",
+    "Human-made lingas are included.",
+    "Self-manifest and similar lingas are also included."
+   ],
+   "inference": "The stated pedestal measure applies to human-made lingas and also to self-manifest and similar lingas.",
+   "uncertainties": [],
+   "plain_english": "This pedestal measure should apply to human-made lingas and also to self-manifest and other such lingas."
+  },
+  {
+   "verse": 4037,
+   "rows": [
+    {
+     "surface": "liṅgamānasamaṃ",
+     "gloss": "linga-measure-equal",
+     "grounds": "compound; equal to linga measure",
+     "morph": "liṅga+māna+sama (compound), n.nom.sg"
+    },
+    {
+     "surface": "vārdha",
+     "gloss": "or-half",
+     "grounds": "alternative half measure",
+     "morph": "vā+ardha (indecl.+compound member)"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "alternative double measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "object being measured",
+     "morph": "pīṭha (compound member)"
+    },
+    {
+     "surface": "mithyate",
+     "gloss": "is-measured",
+     "grounds": "prescriptive measurement",
+     "morph": "3.sg.pass.pres (mā)"
+    }
+   ],
+   "question": "What proportional options are permitted when measuring the pedestal against the linga?",
+   "premises": [
+    "The pedestal may equal the linga measure.",
+    "The pedestal may be half the linga measure.",
+    "The pedestal may be double the linga measure."
+   ],
+   "inference": "The pedestal may be measured as equal to, half of, or double the linga measure.",
+   "uncertainties": [],
+   "plain_english": "The pedestal is measured as equal to the linga, or half, or double its measure."
+  },
+  {
+   "verse": 4038,
+   "rows": [
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "base measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prokta",
+     "gloss": "declared",
+     "grounds": "previously stated",
+     "morph": "prokta (compound member)"
+    },
+    {
+     "surface": "pramāṇāṃ",
+     "gloss": "measure",
+     "grounds": "standard of measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "to be adopted",
+     "morph": "n.acc.sg future-passive-participle (sam-grah)"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "Which declared base measure must the best twice-born practitioners adopt?",
+   "premises": [
+    "A root measure has been declared.",
+    "That measure is to be taken.",
+    "The instruction addresses the best twice-born."
+   ],
+   "inference": "The best twice-born should adopt the declared root measure.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, you should adopt the declared root measure."
+  },
+  {
+   "verse": 4039,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "applied individually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "mode of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakte",
+     "gloss": "divided",
+     "grounds": "state of partition",
+     "morph": "n.loc.sg past-passive-participle (bhaj)"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "resulting measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saptadaśa",
+     "gloss": "seventeen",
+     "grounds": "resulting count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What resulting number of measures arises when each unit is divided sevenfold?",
+   "premises": [
+    "Each unit is considered separately.",
+    "Each is divided sevenfold.",
+    "A total measure of seventeen is stated."
+   ],
+   "inference": "Dividing each unit sevenfold yields seventeen measures.",
+   "uncertainties": [
+    "The derivation of seventeen from sevenfold division is stated without explicit intermediate steps."
+   ],
+   "plain_english": "O twice-born ones, when each is divided sevenfold, the measure comes to seventeen."
+  },
+  {
+   "verse": 4040,
+   "rows": [
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-pedestal",
+     "grounds": "object under consideration",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na doṣassyāt",
+     "gloss": "no-fault-should-be",
+     "grounds": "compound with sandhi; absence of fault",
+     "morph": "na (indecl.) + doṣa (m.nom.sg) + 3.sg.opt.act (as)"
+    },
+    {
+     "surface": "jñātvaivaṃ",
+     "gloss": "having-known-thus",
+     "grounds": "compound with sandhi; knowing in this way",
+     "morph": "absolutive (jñā) + evam (indecl.)"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pedestal",
+     "grounds": "object of action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-make",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act (ā-car)"
+    }
+   ],
+   "question": "What assurance allows one to construct the pedestal without incurring fault?",
+   "premises": [
+    "No fault arises for the pedestal.",
+    "This is to be known properly.",
+    "One should then construct the pedestal."
+   ],
+   "inference": "Knowing this rule, one may construct the pedestal without fault.",
+   "uncertainties": [],
+   "plain_english": "There is no fault in the pedestal; knowing this, one should proceed to make the pedestal."
+  },
+  {
+   "verse": 4041,
+   "rows": [
+    {
+     "surface": "lohaje",
+     "gloss": "metal-born",
+     "grounds": "linga made of metal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ratnaliṅge",
+     "gloss": "gem-linga",
+     "grounds": "linga made of gems",
+     "morph": "ratna+liṅga (compound), n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāṇāliṅge'pi",
+     "gloss": "bana-linga-also",
+     "grounds": "compound with sandhi; includes bana linga",
+     "morph": "bāṇa+liṅga+api (compound+indecl.), n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "accepted",
+     "grounds": "authoritative opinion",
+     "morph": "n.nom.sg past-passive-participle (man)"
+    }
+   ],
+   "question": "For which special material types of lingas is this pedestal rule accepted?",
+   "premises": [
+    "Metal-born lingas are included.",
+    "Gem lingas are included.",
+    "Bana lingas are also included."
+   ],
+   "inference": "The rule is accepted for metal, gem, and bana lingas.",
+   "uncertainties": [],
+   "plain_english": "This is accepted for lingas made of metal, for gem lingas, and also for bana lingas."
+  },
+  {
+   "verse": 4042,
+   "rows": [
+    {
+     "surface": "kalpayet",
+     "gloss": "should-fashion",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act (kḷp)"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "object to be fashioned",
+     "morph": "pīṭha (compound member)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension to be set",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "middle measure context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ṣoḍaśāṃśakam",
+     "gloss": "sixteenth-part",
+     "grounds": "specific fractional measure",
+     "morph": "ṣoḍaśa+aṃśaka (compound), m.acc.sg"
+    }
+   ],
+   "question": "What fractional width should be fashioned for the pedestal in the middle measure?",
+   "premises": [
+    "The pedestal width is to be fashioned.",
+    "A middle measure is specified.",
+    "A sixteenth part is prescribed."
+   ],
+   "inference": "In the middle measure, the pedestal width should be fashioned as a sixteenth part.",
+   "uncertainties": [],
+   "plain_english": "One should fashion the pedestal's width as a sixteenth part in the middle measure."
+  },
+  {
+   "verse": 4043,
+   "rows": [
+    {
+     "surface": "dviguṇāvadhitanmadhye",
+     "gloss": "double-limit-within-that",
+     "grounds": "compound; within that range up to double",
+     "morph": "dviguṇa+avadhi+tad+madhya (compound), n.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-made",
+     "grounds": "condition of having been done",
+     "morph": "n.loc.sg past-passive-participle (kṛ)"
+    },
+    {
+     "surface": "prāgvattathā",
+     "gloss": "as-before-likewise",
+     "grounds": "compound; in the same manner as before",
+     "morph": "prāk+vat+tathā (indecl.)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "accepted",
+     "grounds": "authoritative opinion",
+     "morph": "n.nom.sg past-passive-participle (man)"
+    }
+   ],
+   "question": "How should the measure be understood when extended up to double within that range?",
+   "premises": [
+    "The range may extend up to double.",
+    "The arrangement is made within that range.",
+    "The same rule as before is accepted."
+   ],
+   "inference": "When extended up to double within that range, the measure is accepted as before.",
+   "uncertainties": [],
+   "plain_english": "When it is made within that range up to double, it is accepted in the same way as before."
+  },
+  {
+   "verse": 4044,
+   "rows": [
+    {
+     "surface": "vistārasamam",
+     "gloss": "width-equal",
+     "grounds": "compound; equal to the width",
+     "morph": "vistāra+sama (compound), n.nom.sg"
+    },
+    {
+     "surface": "utsedhastadardho",
+     "gloss": "height-its-half",
+     "grounds": "compound with sandhi; height or half of that",
+     "morph": "utsedha (m.nom.sg) + tad+ardha (compound), m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadante",
+     "gloss": "at-its-end",
+     "grounds": "compound; at the end of that",
+     "morph": "tad+anta (compound), n.loc.sg"
+    }
+   ],
+   "question": "What height options are permitted in relation to the pedestal width at its end?",
+   "premises": [
+    "The height may equal the width.",
+    "The height may be half of that.",
+    "These options apply at the end."
+   ],
+   "inference": "At its end, the height may be equal to the width or half of it.",
+   "uncertainties": [],
+   "plain_english": "The height may be equal to the width, or half of that, at its end."
+  },
+  {
+   "verse": 4045,
+   "rows": [
+    {
+     "surface": "pādādhikaṃ",
+     "gloss": "quarter-more",
+     "grounds": "compound; increased by a quarter",
+     "morph": "pāda+adhika (compound), n.acc.sg"
+    },
+    {
+     "surface": "tathotsedhaṃ",
+     "gloss": "thus-height",
+     "grounds": "compound with sandhi; height in that manner",
+     "morph": "tathā+utsedha (compound), m.acc.sg"
+    },
+    {
+     "surface": "vistarāt",
+     "gloss": "from-width",
+     "grounds": "ablative basis of calculation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-calculate",
+     "grounds": "prescriptive calculation",
+     "morph": "3.sg.opt.act (pari-kḷp)"
+    }
+   ],
+   "question": "By what increment over the width should the height be calculated?",
+   "premises": [
+    "The height is calculated from the width.",
+    "An increment of a quarter is specified.",
+    "The calculation is prescriptive."
+   ],
+   "inference": "The height should be calculated as the width increased by a quarter.",
+   "uncertainties": [],
+   "plain_english": "One should calculate the height as the width increased by a quarter."
+  },
+  {
+   "verse": 4046,
+   "rows": [
+    {
+     "surface": "biṃbotsedhacaturbhāgaṃ",
+     "gloss": "image-height-quarter",
+     "grounds": "compound; a quarter of the image height",
+     "morph": "biṃba+utsedha+caturbhāga (compound), n.nom.sg"
+    },
+    {
+     "surface": "padmottuṅgaṃ",
+     "gloss": "lotus-height",
+     "grounds": "compound; height of the lotus",
+     "morph": "padma+uttuṅga (compound), n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "highest or preferred measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "accepted",
+     "grounds": "authoritative opinion",
+     "morph": "n.nom.sg past-passive-participle (man)"
+    }
+   ],
+   "question": "What proportion of the image height is accepted as the supreme lotus height?",
+   "premises": [
+    "The image height provides the basis.",
+    "A quarter part is specified.",
+    "This is accepted as the supreme lotus height."
+   ],
+   "inference": "A quarter of the image height is accepted as the supreme height for the lotus.",
+   "uncertainties": [],
+   "plain_english": "A quarter of the image's height is accepted as the supreme height for the lotus."
+  },
+  {
+   "verse": 4047,
+   "rows": [
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "mode of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "middle measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-division",
+     "grounds": "instrumental of partition",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "navamānaṃ",
+     "gloss": "ninth-measure",
+     "grounds": "resulting measure",
+     "morph": "nava+māna (compound), n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "prescriptive arrangement",
+     "morph": "3.sg.opt.act (pra-kḷp)"
+    }
+   ],
+   "question": "How should the ninth measure be arranged from the middle by eightfold division?",
+   "premises": [
+    "The middle measure is taken.",
+    "It is divided eightfold.",
+    "A ninth measure should be arranged."
+   ],
+   "inference": "By dividing the middle eightfold, one should arrange the ninth measure.",
+   "uncertainties": [],
+   "plain_english": "By dividing the middle measure eightfold, one should arrange the ninth measure."
+  },
+  {
+   "verse": 4048,
+   "rows": [
+    {
+     "surface": "dvādaśāṅgulaparyantaṃ",
+     "gloss": "twelve-finger-up-to",
+     "grounds": "compound; extending up to twelve aṅgulas",
+     "morph": "dvādaśa+aṅgula+paryanta (compound), n.nom.sg"
+    },
+    {
+     "surface": "paṅkajasyāgra",
+     "gloss": "lotus-front",
+     "grounds": "compound; front or top of the lotus",
+     "morph": "paṅkaja+agra (compound)"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "width",
+     "grounds": "dimension specified",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What maximum width is prescribed for the front extent of the lotus?",
+   "premises": [
+    "The lotus front has a width.",
+    "The width extends up to twelve aṅgulas.",
+    "This sets an upper limit."
+   ],
+   "inference": "The width of the lotus front extends up to twelve aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "The width of the lotus's front extends up to twelve aṅgulas."
+  },
+  {
+   "verse": 4049,
+   "rows": [
+    {
+     "surface": "ardhāṅgulādyaṃ",
+     "gloss": "half-finger-beginning",
+     "grounds": "compound; beginning from half an aṅgula",
+     "morph": "ardha+aṅgula+ādya (compound), n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭtriṃśat",
+     "gloss": "thirty-six",
+     "grounds": "numerical count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karajāvadhimānakam",
+     "gloss": "finger-limit-measure",
+     "grounds": "compound; measure up to the finger limit",
+     "morph": "karaja+avadhi+mānaka (compound), n.nom.sg"
+    }
+   ],
+   "question": "What range of measures is defined from half a finger up to the stated limit?",
+   "premises": [
+    "The range begins at half an aṅgula.",
+    "A count of thirty-six is given.",
+    "The measure extends to the stated limit."
+   ],
+   "inference": "The measure ranges from half an aṅgula through thirty-six units up to the stated limit.",
+   "uncertainties": [
+    "The precise interpretation of karaja as the upper limit unit follows the traditional reading."
+   ],
+   "plain_english": "The measure begins at half an aṅgula and extends through thirty-six units up to the stated limit."
+  }
+ ]
+}

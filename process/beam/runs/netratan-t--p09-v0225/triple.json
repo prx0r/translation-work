@@ -1,0 +1,45 @@
+{
+ "song": "net-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "locative singular of gṛha",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvatāgrādau",
+     "gloss": "mountain-top-etc",
+     "grounds": "locative singular of compound parvata-agra-ādi",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the maṇḍala be made?",
+   "premises": [
+    "maṇḍala is made in house",
+    "maṇḍala is made on mountain-top",
+    "locations are alternatives"
+   ],
+   "inference": "The maṇḍala may be made either in a house or on a mountain-top etc.",
+   "uncertainties": [
+    "exact scope of ādi is unclear"
+   ],
+   "plain_english": "The maṇḍala may be made in a house, or on a mountain-top, or similar places."
+  }
+ ]
+}

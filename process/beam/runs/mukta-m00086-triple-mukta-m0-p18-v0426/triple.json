@@ -1,0 +1,1125 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "manoḥ",
+     "gloss": "of-manu",
+     "grounds": "genitive of manu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "smaraṇamātreṇa",
+     "gloss": "by-mere-remembrance",
+     "grounds": "instrumental compound",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vrajed",
+     "gloss": "would-go",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-vraj"
+    },
+    {
+     "surface": "bhagavataḥ",
+     "gloss": "of-lord",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "foot",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What destination is reached by mere remembrance of Manu?",
+   "premises": [
+    "remembrance of Manu suffices",
+    "the destination is the Lord's foot"
+   ],
+   "inference": "mere remembrance of Manu leads to the Lord's foot",
+   "uncertainties": [
+    "Manu may denote mantra or sage"
+   ],
+   "plain_english": "By mere remembrance of Manu one would go to the Lord's foot."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "guptā",
+     "gloss": "hidden",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "grantheṣu",
+     "gloss": "in-texts",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "koṭiṣu",
+     "gloss": "in-millions",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "How is this knowledge concealed among millions of texts?",
+   "premises": [
+    "this knowledge is hidden",
+    "it is hidden with effort",
+    "it lies in millions of texts"
+   ],
+   "inference": "the knowledge is deliberately concealed across countless texts",
+   "uncertainties": [
+    "koṭiṣu may be hyperbolic"
+   ],
+   "plain_english": "This knowledge is hidden with effort among millions of texts."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "bhāṣitā",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṅkareṇaiva",
+     "gloss": "by-Śaṅkara",
+     "grounds": "instrumental with eva",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sālaṅkārā",
+     "gloss": "with-ornament",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahodayā",
+     "gloss": "great-glory",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who spoke this knowledge with ornament and great glory?",
+   "premises": [
+    "it was spoken by Śaṅkara",
+    "it is adorned",
+    "it has great glory"
+   ],
+   "inference": "Śaṅkara spoke this knowledge adorned with great glory",
+   "uncertainties": [
+    "sālaṅkārā may modify vidyā"
+   ],
+   "plain_english": "It was spoken by Śaṅkara himself, adorned and of great glory."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "gopanīyā",
+     "gloss": "to-be-concealed",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyā",
+     "gloss": "to-be-given",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "to-anyone",
+     "grounds": "genitive relative",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "whatsoever",
+     "grounds": "indefinite",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Should this knowledge be concealed and not given to anyone?",
+   "premises": [
+    "it must be concealed with effort",
+    "it must not be given",
+    "to anyone whatsoever"
+   ],
+   "inference": "the knowledge must be carefully concealed and never given to anyone",
+   "uncertainties": [
+    "yasya kasyacit may be dative sense"
+   ],
+   "plain_english": "It must be concealed with effort and not given to anyone whatsoever."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "haro",
+     "gloss": "Hara",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhṛgur",
+     "gloss": "Bhṛgu",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "divānātho",
+     "gloss": "sun-lord",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vajradhṛg",
+     "gloss": "vajra-holder",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "world-mistress",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities are named in this mantra enumeration?",
+   "premises": [
+    "Hara is named",
+    "Bhṛgu is named",
+    "sun-lord is named",
+    "vajra-holder is named",
+    "world-mistress is named"
+   ],
+   "inference": "the verse enumerates several deities in the mantra sequence",
+   "uncertainties": [
+    "exact mantra role unclear"
+   ],
+   "plain_english": "Hara, Bhṛgu, the sun-lord, the vajra-holder, and the world-mistress are named."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "kāmabījadvayañ",
+     "gloss": "love-seed-pair",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-born",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "humātmakam",
+     "gloss": "hum-natured",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which seed elements compose this mantra division?",
+   "premises": [
+    "the love-seed pair is included",
+    "the speech-born element is included",
+    "the hum-natured element is included"
+   ],
+   "inference": "the division includes love-seed pair, speech-born, and hum-natured elements",
+   "uncertainties": [
+    "kāmabījadvaya may be two syllables"
+   ],
+   "plain_english": "The love-seed pair, the speech-born, and the hum-natured elements are included."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "śaktikūṭam",
+     "gloss": "power-peak",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive present",
+     "morph": "3.sg.pass-pres root-vac"
+    }
+   ],
+   "question": "What is then said to be the power peak?",
+   "premises": [
+    "the power peak is named",
+    "it is then said"
+   ],
+   "inference": "the power peak is the next stated mantra division",
+   "uncertainties": [
+    "śaktikūṭa may be a syllable group"
+   ],
+   "plain_english": "Then the power peak is said."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃsabījaṃ",
+     "gloss": "swan-seed",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadantike",
+     "gloss": "near-that",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What follows great illusion in this sequence?",
+   "premises": [
+    "great illusion is named",
+    "then after it",
+    "the swan-seed is near that"
+   ],
+   "inference": "the swan-seed follows great illusion in the sequence",
+   "uncertainties": [
+    "tadantike may modify placement"
+   ],
+   "plain_english": "Great illusion, then after it the swan-seed near that."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "bālābījatrayañ",
+     "gloss": "young-seed-triad",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jhiṇṭīśo",
+     "gloss": "Jhiṇṭīśa",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bindumālinī",
+     "gloss": "Bindumālinī",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which triad and deities appear in this mantra list?",
+   "premises": [
+    "the young-seed triad is included",
+    "Jhiṇṭīśa is named",
+    "Bindumālinī is named"
+   ],
+   "inference": "the verse adds the young-seed triad with Jhiṇṭīśa and Bindumālinī",
+   "uncertainties": [
+    "bālābīja may be a specific syllable"
+   ],
+   "plain_english": "The young-seed triad, Jhiṇṭīśa, and Bindumālinī are included."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "pāśaḥ",
+     "gloss": "noose",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktir",
+     "gloss": "power",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mādanañ",
+     "gloss": "love",
+     "grounds": "nominative/accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyendrau",
+     "gloss": "void-moon",
+     "grounds": "nominative dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "world-mistress",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which elements are grouped with noose, power, and love?",
+   "premises": [
+    "noose is named",
+    "power is named",
+    "love is named",
+    "void and moon are named",
+    "world-mistress is named"
+   ],
+   "inference": "the verse groups noose, power, love, void-moon, and world-mistress",
+   "uncertainties": [
+    "śūnyendrau may be two separate terms"
+   ],
+   "plain_english": "Noose, power, love, void-moon, and world-mistress are grouped."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "kāmarājam",
+     "gloss": "love-king",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "meritorious",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvadurlabham",
+     "gloss": "all-rare",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is said about this love-king mantra?",
+   "premises": [
+    "this love-king is meritorious",
+    "it has been spoken",
+    "it is rare for all"
+   ],
+   "inference": "the love-king mantra is meritorious, spoken, and all-rare",
+   "uncertainties": [
+    "idaṃ may refer to prior list"
+   ],
+   "plain_english": "This meritorious love-king has been spoken and is rare for all."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "mahāvidyeśvarī",
+     "gloss": "great-knowledge-mistress",
+     "grounds": "nominative compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "after",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃhāriṇī",
+     "gloss": "destructive",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-bhū"
+    }
+   ],
+   "question": "What becomes the destructive knowledge after the great-knowledge mistress?",
+   "premises": [
+    "after the great-knowledge mistress",
+    "knowledge becomes destructive"
+   ],
+   "inference": "the destructive knowledge follows the great-knowledge mistress",
+   "uncertainties": [
+    "paścād may modify vidyā"
+   ],
+   "plain_english": "After the great-knowledge mistress, the knowledge becomes destructive."
+  },
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "beautiful",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prāṇanāśinī",
+     "gloss": "life-destroying",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is this beautiful knowledge said to do to enemies?",
+   "premises": [
+    "this beautiful knowledge is named",
+    "it destroys enemies' lives"
+   ],
+   "inference": "the beautiful knowledge destroys the lives of enemies",
+   "uncertainties": [
+    "eṣā sā may be emphatic"
+   ],
+   "plain_english": "This beautiful knowledge destroys the lives of enemies."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "sthitirūpā",
+     "gloss": "steadfast-form",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhakāya",
+     "gloss": "to-adept",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "varapradā",
+     "gloss": "boon-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the steadfast great knowledge give to the adept?",
+   "premises": [
+    "the great knowledge has steadfast form",
+    "it gives boons to the adept"
+   ],
+   "inference": "the steadfast great knowledge gives boons to the adept",
+   "uncertainties": [
+    "sādhakāya may be genitive sense"
+   ],
+   "plain_english": "The steadfast great knowledge gives boons to the adept."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sadṛśī",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kācit",
+     "gloss": "any",
+     "grounds": "indefinite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "in-three",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "lokeṣu",
+     "gloss": "worlds",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "passive present",
+     "morph": "3.sg.pass-pres root-vid"
+    }
+   ],
+   "question": "Is there any equal to her in the three worlds?",
+   "premises": [
+    "no equal of her exists",
+    "in the three worlds"
+   ],
+   "inference": "there is no equal to her in the three worlds",
+   "uncertainties": [
+    "asyāḥ refers to great knowledge"
+   ],
+   "plain_english": "No equal to her exists in the three worlds."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "vahnibījaṃ",
+     "gloss": "fire-seed",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "after",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhautikena",
+     "gloss": "with-elemental",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What follows and is endowed with the elemental?",
+   "premises": [
+    "fire-seed is named",
+    "then after it",
+    "it is endowed with the elemental"
+   ],
+   "inference": "the fire-seed follows and is endowed with the elemental",
+   "uncertainties": [
+    "bhautikena may modify fire-seed"
+   ],
+   "plain_english": "Then after it the fire-seed is endowed with the elemental."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "etattu",
+     "gloss": "this",
+     "grounds": "demonstrative with tu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-born",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvapakṣeṣu",
+     "gloss": "in-all-parties",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "rare",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is this speech-born peak rare in all parties?",
+   "premises": [
+    "this speech-born peak is named",
+    "it is rare in all parties"
+   ],
+   "inference": "the speech-born peak is rare among all parties",
+   "uncertainties": [
+    "sarvapakṣeṣu may mean all schools"
+   ],
+   "plain_english": "This speech-born peak is rare in all parties."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "prāṇau",
+     "gloss": "two-breaths",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "madanaśūnyau",
+     "gloss": "love-void",
+     "grounds": "nominative dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devarājaḥ",
+     "gloss": "god-king",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sureśvarī",
+     "gloss": "goddess-mistress",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which breaths and deities are named in this mantra list?",
+   "premises": [
+    "two breaths are named",
+    "love-void is named",
+    "god-king is named",
+    "goddess-mistress is named"
+   ],
+   "inference": "the verse names two breaths, love-void, god-king, and goddess-mistress",
+   "uncertainties": [
+    "prāṇau may be syllables"
+   ],
+   "plain_english": "Two breaths, love-void, god-king, and goddess-mistress are named."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "sauḥkāraṃ",
+     "gloss": "sauḥ-syllable",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivaśaktī",
+     "gloss": "Śiva-Śakti",
+     "grounds": "accusative dual",
+     "morph": "f.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnibījaṃ",
+     "gloss": "fire-seed",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manusvaram",
+     "gloss": "manu-sound",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which syllables and seeds are grouped here?",
+   "premises": [
+    "the sauḥ syllable is named",
+    "Śiva-Śakti is named",
+    "fire-seed is named",
+    "manu-sound is named"
+   ],
+   "inference": "the verse groups sauḥ, Śiva-Śakti, fire-seed, and manu-sound",
+   "uncertainties": [
+    "śivaśaktī may be dual compound"
+   ],
+   "plain_english": "The sauḥ syllable, Śiva-Śakti, fire-seed, and manu-sound are grouped."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "sargacandraṃ",
+     "gloss": "creation-moon",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nādayuktaṃ",
+     "gloss": "with-sound",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktibrahmendramāyayā",
+     "gloss": "by-Śakti-Brahma-Indra-Māyā",
+     "grounds": "instrumental compound",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "What is the creation-moon endowed with and by whom?",
+   "premises": [
+    "creation-moon is named",
+    "it is with sound",
+    "it is by Śakti-Brahma-Indra-Māyā"
+   ],
+   "inference": "the creation-moon is with sound and arises by Śakti-Brahma-Indra-Māyā",
+   "uncertainties": [
+    "compound may list four powers"
+   ],
+   "plain_english": "The creation-moon is with sound, by Śakti, Brahma, Indra, and Māyā."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "sṛṣṭirūpā",
+     "gloss": "creation-form",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sārabhūtā",
+     "gloss": "essence-born",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahodayā",
+     "gloss": "great-glory",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the creation-form great knowledge said to be?",
+   "premises": [
+    "the great knowledge has creation form",
+    "it is essence-born",
+    "it has great glory"
+   ],
+   "inference": "the creation-form great knowledge is essence-born and of great glory",
+   "uncertainties": [
+    "sārabhūtā may mean essential"
+   ],
+   "plain_english": "The creation-form great knowledge is essence-born and of great glory."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "śivātmā",
+     "gloss": "Śiva-self",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatparo",
+     "gloss": "devoted-to-that",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahnir",
+     "gloss": "fire",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhautikenendunā",
+     "gloss": "with-elemental-moon",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yutaḥ",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is joined with the elemental moon?",
+   "premises": [
+    "Śiva-self is devoted to that",
+    "fire is named",
+    "it is joined with elemental moon"
+   ],
+   "inference": "fire, devoted to Śiva-self, is joined with the elemental moon",
+   "uncertainties": [
+    "tatparo may modify vahnir"
+   ],
+   "plain_english": "Fire, devoted to Śiva-self, is joined with the elemental moon."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "etattu",
+     "gloss": "this",
+     "grounds": "demonstrative with tu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-born",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadurlabham",
+     "gloss": "all-rare",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is said about this speech-born peak?",
+   "premises": [
+    "this speech-born peak is named",
+    "it has been spoken",
+    "it is all-rare"
+   ],
+   "inference": "the speech-born peak has been spoken and is all-rare",
+   "uncertainties": [
+    "etattu may refer to prior peak"
+   ],
+   "plain_english": "This speech-born peak has been spoken and is all-rare."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "etaj",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive",
+     "morph": "absol root-jap"
+    },
+    {
+     "surface": "mahābījaṃ",
+     "gloss": "great-seed",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "present",
+     "morph": "3.sg.act-pres root-sidh"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What does not succeed on earth after chanting this great seed?",
+   "premises": [
+    "having chanted this great seed",
+    "what does not succeed on earth"
+   ],
+   "inference": "chanting this great seed brings success on earth",
+   "uncertainties": [
+    "kiṃ na sidhyati is rhetorical"
+   ],
+   "plain_english": "Having chanted this great seed, what would not succeed on earth?"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshiped",
+     "grounds": "absolutive of pūjayati, worship precedes the giving",
+     "morph": "absolutive (indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-lady",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhogapātraṃ",
+     "gloss": "enjoyment-vessel",
+     "grounds": "accusative object to be given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "should-cause-to-give",
+     "grounds": "causative optative, third singular, command to give",
+     "morph": "verb.3.sg.act-opt-causative (root dā)"
+    }
+   ],
+   "question": "After worshiping the great lady, what enjoyment vessel should be given?",
+   "premises": [
+    "Worship precedes the giving.",
+    "Maheśāni is directly addressed.",
+    "Bhogapātra is the object.",
+    "Pradāpayet commands giving."
+   ],
+   "inference": "The rite commands worship followed by giving an enjoyment vessel to the goddess.",
+   "uncertainties": [
+    "The exact ritual content of bhogapātra is unspecified."
+   ],
+   "plain_english": "Having worshiped, O great lady, one should give the enjoyment vessel."
+  }
+ ]
+}

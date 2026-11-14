@@ -1,0 +1,948 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 901,
+   "rows": [
+    {
+     "surface": "nṛtaṃ",
+     "gloss": "dance",
+     "grounds": "ritual dance offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "trisandhyāyāṃ",
+     "gloss": "at-three-junctures",
+     "grounds": "three daily junctions",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "duration of performance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāmayuto",
+     "gloss": "joined-with-watch",
+     "grounds": "lasting one yāma (three-hour period)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "At what times and for what duration should ritual dance be performed?",
+   "premises": [
+    "Dance should be performed at the three daily junctions.",
+    "The duration of the dance should be one yāma."
+   ],
+   "inference": "Ritual dance is prescribed at the three sandhyās for the length of one yāma.",
+   "uncertainties": [],
+   "plain_english": "One should perform dance at the three daily junctions, and the time for it should be one yāma."
+  },
+  {
+   "verse": 902,
+   "rows": [
+    {
+     "surface": "droṇataṇḍulasiddhāni",
+     "gloss": "prepared-from-droṇa-rice",
+     "grounds": "food offerings cooked from a droṇa measure of rice",
+     "morph": "n.nom.pl compound"
+    },
+    {
+     "surface": "tadardhena",
+     "gloss": "by-half-of-that",
+     "grounds": "half the previous measure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tadardhataḥ",
+     "gloss": "by-half-of-that-half",
+     "grounds": "a quarter of the original measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantities of cooked rice are prescribed for the offerings?",
+   "premises": [
+    "Offerings may be prepared from a droṇa of rice.",
+    "Reduced measures of half and a quarter are also indicated."
+   ],
+   "inference": "The prescribed rice offerings may be a droṇa, half a droṇa, or a quarter droṇa.",
+   "uncertainties": [],
+   "plain_english": "The offerings should be prepared from a droṇa of rice, or from half of that, or from half of that half."
+  },
+  {
+   "verse": 903,
+   "rows": [
+    {
+     "surface": "harvidadyādviśeṣeṇa",
+     "gloss": "one-should-give-offering-especially",
+     "grounds": "fused form: havir + dadyāt + viśeṣeṇa",
+     "morph": "compound+3.sg.opt.act √dā+n.inst.sg"
+    },
+    {
+     "surface": "ekakāle'thavā",
+     "gloss": "at-one-time-or",
+     "grounds": "alternative timing; sandhi ekakāle + athavā",
+     "morph": "m.loc.sg+(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may the oblation be given with respect to timing and emphasis?",
+   "premises": [
+    "The oblation should be given with special care.",
+    "It may be given at one time or again."
+   ],
+   "inference": "The oblation is to be offered especially, either at one time or repeatedly.",
+   "uncertainties": [
+    "harvidadyādviśeṣeṇa is a fused sandhi form; segmentation follows the given token."
+   ],
+   "plain_english": "One should especially give the oblation, either at one time or again."
+  },
+  {
+   "verse": 904,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing previous instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navavidhe",
+     "gloss": "in-ninefold",
+     "grounds": "ninefold ritual procedure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "as stated in the teaching",
+     "morph": "n.nom.sg ppp √prac"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "for each case separately",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.pres.pass √vidhā"
+    }
+   ],
+   "question": "How is the previously stated procedure applied within the ninefold ritual?",
+   "premises": [
+    "The procedure has been declared in the ninefold context.",
+    "It is prescribed for each part separately."
+   ],
+   "inference": "In the ninefold ritual, the stated procedure is prescribed individually for each component.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the ninefold procedure as declared, it is prescribed for each part separately."
+  },
+  {
+   "verse": 905,
+   "rows": [
+    {
+     "surface": "saṃhitāmantrasaṃ?jataṃ",
+     "gloss": "produced-by-saṃhitā-mantras",
+     "grounds": "generated through saṃhitā mantras; token contains ?",
+     "morph": "n.nom.sg compound+ppp"
+    },
+    {
+     "surface": "sapuṣpaṃ",
+     "gloss": "with-flowers",
+     "grounds": "accompanied by flowers",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "dhūpitaṃ",
+     "gloss": "incensed",
+     "grounds": "fumigated with incense",
+     "morph": "n.nom.sg ppp √dhūp"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "ritually pure and favorable",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What qualities must the offering prepared with saṃhitā mantras possess?",
+   "premises": [
+    "The offering is produced by saṃhitā mantras.",
+    "It should be accompanied by flowers and incense.",
+    "It should be auspicious."
+   ],
+   "inference": "The mantra-generated offering must be auspicious, flower-adorned, and incensed.",
+   "uncertainties": [
+    "saṃhitāmantrasaṃ?jataṃ contains an uncertain character marked by ? in the source token."
+   ],
+   "plain_english": "It should be produced by saṃhitā mantras, accompanied by flowers, incensed, and auspicious."
+  },
+  {
+   "verse": 906,
+   "rows": [
+    {
+     "surface": "pakvena?",
+     "gloss": "with-cooked",
+     "grounds": "cooked substance; token contains ?",
+     "morph": "n.inst.sg ppp √pac"
+    },
+    {
+     "surface": "vāsitenā'tha",
+     "gloss": "with-perfumed-then",
+     "grounds": "perfumed; sandhi vāsitena + atha",
+     "morph": "n.inst.sg ppp √vās+(indecl.)"
+    },
+    {
+     "surface": "śuddhagavyena",
+     "gloss": "with-pure-cow-product",
+     "grounds": "pure bovine substance",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "clarified butter",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What prepared substances are specified for use in the ritual procedure?",
+   "premises": [
+    "A cooked and perfumed substance is indicated.",
+    "Pure bovine ghee is specified."
+   ],
+   "inference": "The procedure uses cooked, perfumed, pure cow-derived ghee.",
+   "uncertainties": [
+    "pakvena? contains an uncertain character marked by ? in the source token."
+   ],
+   "plain_english": "Then, with cooked, perfumed, pure cow-derived ghee."
+  },
+  {
+   "verse": 907,
+   "rows": [
+    {
+     "surface": "śubhena",
+     "gloss": "with-auspicious",
+     "grounds": "ritually suitable",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śālipiṣṭena",
+     "gloss": "with-rice-flour",
+     "grounds": "flour made from śāli rice",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "haridrāsaṃyutena",
+     "gloss": "mixed-with-turmeric",
+     "grounds": "combined with turmeric",
+     "morph": "n.inst.sg compound+ppp"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional mixture is prescribed alongside the previously mentioned substances?",
+   "premises": [
+    "Auspicious rice flour is to be used.",
+    "It should be mixed with turmeric."
+   ],
+   "inference": "Auspicious rice flour mixed with turmeric is prescribed as an additional substance.",
+   "uncertainties": [],
+   "plain_english": "And with auspicious rice flour mixed with turmeric."
+  },
+  {
+   "verse": 908,
+   "rows": [
+    {
+     "surface": "sugandhāmalakādyaistu",
+     "gloss": "with-fragrant-āmalaka-and-others",
+     "grounds": "fragrant substances beginning with āmalaka; sandhi -ādyaiḥ + tu",
+     "morph": "n.inst.pl compound+(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "ritual bathing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.pres.pass √vidhā"
+    }
+   ],
+   "question": "What substances are prescribed for the ritual bath in this context?",
+   "premises": [
+    "Fragrant substances such as āmalaka are indicated.",
+    "A bath is prescribed in that context."
+   ],
+   "inference": "A ritual bath using fragrant substances like āmalaka and others is prescribed.",
+   "uncertainties": [],
+   "plain_english": "There, a bath is prescribed with fragrant āmalaka and other such substances."
+  },
+  {
+   "verse": 909,
+   "rows": [
+    {
+     "surface": "pauṣṭikairvā",
+     "gloss": "with-nourishing-or",
+     "grounds": "nourishing substances as alternative; sandhi pauṣṭikaiḥ + vā",
+     "morph": "n.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "suracitai",
+     "gloss": "well-prepared",
+     "grounds": "properly arranged or compounded",
+     "morph": "n.inst.pl ppp"
+    },
+    {
+     "surface": "rājikālavaṇena",
+     "gloss": "with-mustard-salt",
+     "grounds": "mixture involving mustard and salt",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative nourishing preparations may be used for the ritual?",
+   "premises": [
+    "Well-prepared nourishing substances may be used.",
+    "Mustard and salt are included as an option."
+   ],
+   "inference": "Alternatively, well-prepared nourishing substances including mustard and salt may be used.",
+   "uncertainties": [],
+   "plain_english": "Or with well-prepared nourishing substances, and with mustard and salt."
+  },
+  {
+   "verse": 910,
+   "rows": [
+    {
+     "surface": "payodadhighṛtakṣaudraśarkarādyaiḥ",
+     "gloss": "with-milk-curd-ghee-honey-sugar-and-others",
+     "grounds": "pañcāmṛta-like mixture and similar substances",
+     "morph": "n.inst.pl compound"
+    },
+    {
+     "surface": "svaśaktitaḥ",
+     "gloss": "according-to-one's-ability",
+     "grounds": "as one's capacity allows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to what principle should rich bathing substances be selected?",
+   "premises": [
+    "Substances such as milk, curd, ghee, honey, and sugar may be used.",
+    "Their use depends on one's ability."
+   ],
+   "inference": "Milk, curd, ghee, honey, sugar, and similar substances may be used according to one's capacity.",
+   "uncertainties": [],
+   "plain_english": "With milk, curd, ghee, honey, sugar, and other such substances, according to one's ability."
+  },
+  {
+   "verse": 911,
+   "rows": [
+    {
+     "surface": "khaṇḍābhāvādikṣusāro",
+     "gloss": "in-absence-of-sugar-cane-essence",
+     "grounds": "substitute when sugar lumps are unavailable; sandhi khaṇḍa-abhāvāt + ikṣusāraḥ",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "madhvabhāve",
+     "gloss": "in-absence-of-honey",
+     "grounds": "substitute condition for honey",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "clarified butter as substitute",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What substitutes are prescribed when sugar or honey is unavailable?",
+   "premises": [
+    "If sugar is absent, cane essence may be used.",
+    "If honey is absent, ghee should be used."
+   ],
+   "inference": "Cane essence substitutes for sugar and ghee substitutes for honey when they are unavailable.",
+   "uncertainties": [],
+   "plain_english": "In the absence of sugar, cane essence should be used; in the absence of honey, ghee should be used."
+  },
+  {
+   "verse": 912,
+   "rows": [
+    {
+     "surface": "nālikeraphalāmbhobhiranyairvā",
+     "gloss": "with-coconut-fruit-waters-or-others",
+     "grounds": "coconut water or other liquids; sandhi -ambhobhiḥ + anyaiḥ + vā",
+     "morph": "n.inst.pl compound+(indecl.)"
+    },
+    {
+     "surface": "rasavadrasaiḥ",
+     "gloss": "with-juicy-liquids",
+     "grounds": "liquids possessing essence or flavor",
+     "morph": "m.inst.pl compound"
+    }
+   ],
+   "question": "What liquid alternatives are permitted for the ritual bathing substances?",
+   "premises": [
+    "Coconut water may be used.",
+    "Other flavorful liquids may also be used."
+   ],
+   "inference": "Coconut water or other flavorful liquids are permitted alternatives for the bath.",
+   "uncertainties": [],
+   "plain_english": "With coconut water or with other flavorful liquids."
+  },
+  {
+   "verse": 913,
+   "rows": [
+    {
+     "surface": "abhiṣekaṃ",
+     "gloss": "anointing",
+     "grounds": "ritual ablution of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryānna",
+     "gloss": "one-should-perform-not",
+     "grounds": "prohibition fused with optative; kuryāt + na",
+     "morph": "3.sg.opt.act √kṛ+(indecl.)"
+    },
+    {
+     "surface": "kuryācchūnyamastakam",
+     "gloss": "one-should-make-empty-headed",
+     "grounds": "prohibition against leaving the head empty; sandhi kuryāt + śūnyamastakam",
+     "morph": "3.sg.opt.act √kṛ+n.acc.sg compound"
+    }
+   ],
+   "question": "What prohibition governs the state of the deity's head during anointing?",
+   "premises": [
+    "Anointing should be performed afterward.",
+    "The deity's head must not be left empty."
+   ],
+   "inference": "Afterward one should perform the anointing and must not leave the deity's head without an offering.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the anointing, and one must not leave the head empty."
+  },
+  {
+   "verse": 914,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "for that reason or by that means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mūrdhnigataṃ",
+     "gloss": "gone-to-head",
+     "grounds": "placed on the head",
+     "morph": "n.acc.sg compound+ppp"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "flower offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā'nyat",
+     "gloss": "having-removed-another",
+     "grounds": "removing and replacing; sandhi tyaktvā + anyat",
+     "morph": "gerund √tyaj+n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "on that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √yuj"
+    }
+   ],
+   "question": "How should the flower on the deity's head be handled during the ritual?",
+   "premises": [
+    "The flower placed on the head should be removed.",
+    "Another flower should be placed there."
+   ],
+   "inference": "One should remove the flower on the head and place another flower there.",
+   "uncertainties": [],
+   "plain_english": "Therefore, having removed the flower on the head, one should place another there."
+  },
+  {
+   "verse": 915,
+   "rows": [
+    {
+     "surface": "āvāhanārghyapādyeṣu",
+     "gloss": "in-invocation-arghya-foot-water",
+     "grounds": "ritual stages of invocation, arghya, and pādya",
+     "morph": "n.loc.pl compound"
+    },
+    {
+     "surface": "snāne",
+     "gloss": "in-bath",
+     "grounds": "during the bathing rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhūpavilepane",
+     "gloss": "in-incense-and-anointing",
+     "grounds": "during incense and unguent application",
+     "morph": "n.loc.sg compound"
+    }
+   ],
+   "question": "At which ritual stages are specific offerings to be applied?",
+   "premises": [
+    "Invocation, arghya, and pādya are named stages.",
+    "Bathing, incense, and anointing are also named stages."
+   ],
+   "inference": "The instruction applies across the stages of invocation, arghya, pādya, bathing, incense, and anointing.",
+   "uncertainties": [],
+   "plain_english": "In invocation, arghya, and pādya, in bathing, and in incense and anointing."
+  },
+  {
+   "verse": 916,
+   "rows": [
+    {
+     "surface": "arghye",
+     "gloss": "in-arghya",
+     "grounds": "during arghya offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vilepane",
+     "gloss": "in-anointing",
+     "grounds": "during unguent application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "snāne",
+     "gloss": "in-bath",
+     "grounds": "during bathing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "in-three",
+     "grounds": "in these three contexts",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "scented substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-provide",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "In which three ritual contexts must fragrance be provided?",
+   "premises": [
+    "Arghya, anointing, and bathing are specified.",
+    "Fragrance should be provided in these three."
+   ],
+   "inference": "Fragrance must be provided in the three contexts of arghya, anointing, and bathing.",
+   "uncertainties": [],
+   "plain_english": "In arghya, in anointing, and in bathing—in these three one should provide fragrance."
+  },
+  {
+   "verse": 917,
+   "rows": [
+    {
+     "surface": "kṣālane",
+     "gloss": "in-washing",
+     "grounds": "during washing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prokṣaṇe",
+     "gloss": "in-sprinkling",
+     "grounds": "during sprinkling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic connective; ca + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāri",
+     "gloss": "water",
+     "grounds": "water as offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptasu",
+     "gloss": "in-seven",
+     "grounds": "in seven contexts",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √yuj"
+    }
+   ],
+   "question": "In how many ritual contexts should water be applied, including washing and sprinkling?",
+   "premises": [
+    "Washing and sprinkling are explicitly mentioned.",
+    "Water should be applied in seven contexts."
+   ],
+   "inference": "Water should be applied in seven ritual contexts, including washing and sprinkling.",
+   "uncertainties": [
+    "The full list of seven contexts is not enumerated in this verse alone."
+   ],
+   "plain_english": "In washing and in sprinkling, one should apply water in seven contexts."
+  },
+  {
+   "verse": 918,
+   "rows": [
+    {
+     "surface": "dvārapūjāvasāne",
+     "gloss": "at-end-of-door-worship",
+     "grounds": "conclusion of worship at the door",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānānte",
+     "gloss": "at-end-of-bath",
+     "grounds": "conclusion of bathing rite",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedyake",
+     "gloss": "at-offering",
+     "grounds": "at the time of food offering",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "At which concluding ritual moments is the next action to be performed?",
+   "premises": [
+    "The end of door worship is specified.",
+    "The end of bathing and the offering stage are specified."
+   ],
+   "inference": "The next ritual action is timed at the end of door worship, the end of bathing, and at the offering.",
+   "uncertainties": [],
+   "plain_english": "At the end of door worship, at the end of the bath, and at the offering."
+  },
+  {
+   "verse": 919,
+   "rows": [
+    {
+     "surface": "sthāpitaiḥ",
+     "gloss": "with-placed",
+     "grounds": "pots that have been set in place",
+     "morph": "m.inst.pl ppp √sthā"
+    },
+    {
+     "surface": "kalaśaiḥ",
+     "gloss": "with-pots",
+     "grounds": "ritual water vessels",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "paścādabhiṣekaṃ",
+     "gloss": "afterward-anointing",
+     "grounds": "anointing performed afterward; sandhi paścāt + abhiṣekam",
+     "morph": "(indecl.)+m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "With what implements should the subsequent anointing be performed?",
+   "premises": [
+    "Pots that have been placed are to be used.",
+    "The anointing is to be performed afterward."
+   ],
+   "inference": "Afterward, one should perform the anointing using the pots that have been set in place.",
+   "uncertainties": [],
+   "plain_english": "Afterward, one should perform the anointing with the pots that have been placed."
+  },
+  {
+   "verse": 920,
+   "rows": [
+    {
+     "surface": "kusumaṃ",
+     "gloss": "flower",
+     "grounds": "flower offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavinyastaṃ",
+     "gloss": "previously-placed",
+     "grounds": "set down earlier",
+     "morph": "n.acc.sg compound+ppp"
+    },
+    {
+     "surface": "tadastreṇāpanīya",
+     "gloss": "having-removed-with-that-weapon-mantra",
+     "grounds": "removal using the astra mantra; sandhi tat + astreṇa + apanīya",
+     "morph": "n.inst.sg+gerund √nī"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the previously placed flower be removed before the next rite?",
+   "premises": [
+    "A flower was previously placed.",
+    "It should be removed using the astra mantra."
+   ],
+   "inference": "The previously placed flower must be removed with the astra mantra.",
+   "uncertainties": [
+    "astra is taken as the weapon-mantra in ritual context."
+   ],
+   "plain_english": "And having removed the previously placed flower with that astra mantra."
+  },
+  {
+   "verse": 921,
+   "rows": [
+    {
+     "surface": "jalairanuccaladbhiśca",
+     "gloss": "with-non-moving-waters-and",
+     "grounds": "still, unagitated waters; sandhi jalaiḥ + anuccaladbhiḥ + ca",
+     "morph": "n.inst.pl+m.inst.pl pres.part+(indecl.)"
+    },
+    {
+     "surface": "snāpayedīśamastake",
+     "gloss": "one-should-bathe-on-lord's-head",
+     "grounds": "bathe the deity's head; sandhi snāpayet + īśa-mastake",
+     "morph": "3.sg.opt.caus √snā+n.loc.sg compound"
+    }
+   ],
+   "question": "What kind of water must be used when bathing the Lord's head?",
+   "premises": [
+    "The Lord's head is to be bathed.",
+    "The waters used must be still and not moving."
+   ],
+   "inference": "One should bathe the Lord's head with still, unagitated waters.",
+   "uncertainties": [],
+   "plain_english": "One should bathe the Lord's head with waters that are not moving."
+  },
+  {
+   "verse": 922,
+   "rows": [
+    {
+     "surface": "adbhiruccalitābhistu",
+     "gloss": "with-agitated-waters-but",
+     "grounds": "waters that are stirred or moving; sandhi adbhiḥ + uccalitābhiḥ + tu",
+     "morph": "f.inst.pl+f.inst.pl ppp+(indecl.)"
+    },
+    {
+     "surface": "taddravyāṇi",
+     "gloss": "those-substances",
+     "grounds": "the substances associated with the rite",
+     "morph": "n.acc.pl compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevayet",
+     "gloss": "one-should-use",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.caus √sev"
+    }
+   ],
+   "question": "Why must agitated waters be avoided when applying ritual substances?",
+   "premises": [
+    "Agitated waters are contrasted with still waters.",
+    "Those substances should not be used with agitated waters."
+   ],
+   "inference": "One must not apply those ritual substances using agitated waters.",
+   "uncertainties": [],
+   "plain_english": "But one should not use those substances with agitated waters."
+  },
+  {
+   "verse": 923,
+   "rows": [
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-lifted",
+     "grounds": "taking up",
+     "morph": "gerund √uddhṛ"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-brought",
+     "grounds": "carrying to a place",
+     "morph": "gerund √nī"
+    },
+    {
+     "surface": "devāgne",
+     "gloss": "before-god-fire",
+     "grounds": "in front of the deity and fire; sandhi deva + agne",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "yantrikopari",
+     "gloss": "upon-yantra",
+     "grounds": "on top of the ritual diagram/support",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where should the lifted ritual items be placed after being brought forward?",
+   "premises": [
+    "The items are lifted and brought forward.",
+    "They are to be placed before the deity and fire upon the yantra."
+   ],
+   "inference": "After lifting and bringing the items, one should place them before the deity and fire upon the yantra.",
+   "uncertainties": [
+    "devāgne may be read as before the deity and fire; exact compound sense is context-dependent."
+   ],
+   "plain_english": "Having lifted and brought them, one should place them before the deity and fire, upon the yantra."
+  },
+  {
+   "verse": 924,
+   "rows": [
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "scented substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "flower offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "incense offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpamarghyaṃ",
+     "gloss": "lamp-and-arghya",
+     "grounds": "lamp and arghya offerings; compound dīpa + arghyam",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-offered",
+     "grounds": "having arranged or presented",
+     "morph": "gerund √vidhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which offerings are to be presented together in this stage of worship?",
+   "premises": [
+    "Fragrance, flowers, and incense are listed.",
+    "Lamp and arghya are also listed."
+   ],
+   "inference": "Fragrance, flowers, incense, lamp, and arghya are to be offered together.",
+   "uncertainties": [],
+   "plain_english": "Having offered fragrance, flowers, incense, lamp, and arghya."
+  }
+ ]
+}

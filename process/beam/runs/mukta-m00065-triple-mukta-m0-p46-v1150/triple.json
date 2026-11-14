@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "candrāvalī",
+     "gloss": "Candrāvalī",
+     "grounds": "proper name or epithet of the goddess being described",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction continuing the description from previous verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "first member of compound describing complexion or radiance",
+     "morph": "compound:hema+ābhā"
+    },
+    {
+     "surface": "ābhā",
+     "gloss": "radiance-hued",
+     "grounds": "feminine nominative singular agreeing with candrāvalī; forms compound with hema",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇasāra",
+     "gloss": "black-antelope",
+     "grounds": "first member of compound specifying the type of deer/skin",
+     "morph": "compound:kṛṣṇasāra+mṛga"
+    },
+    {
+     "surface": "mṛga",
+     "gloss": "deer",
+     "grounds": "middle member of compound forming the seat designation",
+     "morph": "compound:kṛṣṇasāra+mṛga+āsanā"
+    },
+    {
+     "surface": "āsanā",
+     "gloss": "seated-on",
+     "grounds": "feminine nominative singular bahuvrīhi-type descriptor agreeing with candrāvalī, indicating her seat",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What complexion and seat characterize the goddess Candrāvalī in this iconographic description?",
+   "premises": [
+    "Candrāvalī is described as having a golden radiance.",
+    "Candrāvalī is described as seated on a black-antelope deer seat."
+   ],
+   "inference": "Candrāvalī is iconographically identified as golden-hued and seated upon a black-antelope deer.",
+   "uncertainties": [
+    "Whether mṛga-āsanā refers to a seat made of black-antelope skin or to sitting upon the deer itself is not fully explicit."
+   ],
+   "plain_english": "And Candrāvalī, golden in radiance, is seated on a black-antelope deer."
+  }
+ ]
+}

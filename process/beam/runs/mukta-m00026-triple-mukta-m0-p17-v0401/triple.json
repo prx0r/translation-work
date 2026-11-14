@@ -1,0 +1,999 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "kumārī",
+     "gloss": "maiden",
+     "grounds": "object of feeding/worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhojitā",
+     "gloss": "fed",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past-passive-participle (√bhuj)"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "relative agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "object of feeding",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "correlative agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhojitam",
+     "gloss": "fed",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.past-passive-participle (√bhuj)"
+    }
+   ],
+   "question": "What cosmic consequence follows from feeding a maiden in ritual?",
+   "premises": [
+    "A maiden is ritually fed by someone.",
+    "Feeding the maiden is equated with feeding the three worlds."
+   ],
+   "inference": "Therefore, one who feeds a maiden effectively feeds all three worlds.",
+   "uncertainties": [],
+   "plain_english": "By whom a maiden is fed, by him the three worlds are fed."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality attained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sampūrṇa+m+āyāti",
+     "gloss": "complete-state-attains",
+     "grounds": "compound verb form indicating attainment of fullness",
+     "morph": "3.sg.pres.act (sam-pūrṇa + ā + √yā)"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhakti+mānasaḥ",
+     "gloss": "devotion-minded",
+     "grounds": "possessive compound describing the practitioner",
+     "morph": "m.nom.sg (bahuvrīhi)"
+    }
+   ],
+   "question": "What spiritual attainment comes to a practitioner whose mind is filled with devotion?",
+   "premises": [
+    "The practitioner is devoted in mind.",
+    "Devotional practice leads to completeness."
+   ],
+   "inference": "Therefore, the devotion-minded practitioner attains all fullness.",
+   "uncertainties": [],
+   "plain_english": "The practitioner whose mind is filled with devotion attains complete fullness in all things."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "relative, refers to the practice",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "anuṣṭhāna+mātreṇa",
+     "gloss": "performance-mere-by",
+     "grounds": "instrumental indicating mere performance",
+     "morph": "n.inst.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "mandabhāgyo",
+     "gloss": "ill-fated",
+     "grounds": "subject described as unfortunate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "attains success",
+     "morph": "3.sg.pres.act (√sidh)"
+    }
+   ],
+   "question": "Can even an unfortunate person achieve success through this practice alone?",
+   "premises": [
+    "The practice requires only its performance.",
+    "Even one of poor fortune undertakes it."
+   ],
+   "inference": "Therefore, even the ill-fated succeed merely by performing it.",
+   "uncertainties": [],
+   "plain_english": "By the mere performance of which, even an ill-fated person attains success."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of accomplishment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhayiṣyāmi",
+     "gloss": "I-shall-accomplish",
+     "grounds": "vow of accomplishment",
+     "morph": "1.sg.fut.act (√sidh, causative)"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "object of abandoning",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātayāmy+aham",
+     "gloss": "I-shall-cause-to-fall-I",
+     "grounds": "vow to abandon the body; internal sandhi in compound form",
+     "morph": "1.sg.pres.act (√pat, causative) + 1.sg.pronoun"
+    }
+   ],
+   "question": "What resolute vow must the practitioner undertake regarding mantra accomplishment?",
+   "premises": [
+    "The practitioner faces a decisive choice.",
+    "Success requires total commitment."
+   ],
+   "inference": "Therefore, the practitioner vows either to accomplish the mantra or to abandon the body.",
+   "uncertainties": [],
+   "plain_english": "I shall either accomplish the mantra or I shall cast off this body."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "bali+dāna+ādinā",
+     "gloss": "offering-gift-etc-by",
+     "grounds": "instrumental listing ritual offerings",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "mental-with",
+     "grounds": "mental offerings",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "paripūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "absolutive (pari + √pūj)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner perform worship using offerings and mental acts?",
+   "premises": [
+    "Worship includes offerings such as bali and gifts.",
+    "Worship can also be performed mentally."
+   ],
+   "inference": "Therefore, one should worship fully with offerings and mental acts.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped fully with offerings such as bali and gifts, and with mental offerings as well."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "demonstrative, refers to a specific period",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "fortnight",
+     "grounds": "lunar fortnight",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphatic adverbial",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "ritual practice to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (ā + √car)"
+    }
+   ],
+   "question": "During which period should the preliminary rite be especially performed?",
+   "premises": [
+    "A specific fortnight is indicated.",
+    "The preliminary rite is prescribed."
+   ],
+   "inference": "Therefore, one should especially perform the preliminary rite in that fortnight.",
+   "uncertainties": [
+    "The specific fortnight is not identified in this verse alone."
+   ],
+   "plain_english": "In that fortnight, one should especially perform the preliminary rite."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "daily frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajapet+mantraṃ",
+     "gloss": "should-mutter-mantra",
+     "grounds": "injunction to recite the mantra; internal sandhi in compound form",
+     "morph": "3.sg.opt.act (pra + √jap) + m.acc.sg"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhakti+bhāvataḥ",
+     "gloss": "devotion-feeling-from",
+     "grounds": "ablative indicating attitude of devotion",
+     "morph": "m.abl.sg (compound)"
+    }
+   ],
+   "question": "What daily mantra recitation practice is required during the preliminary rite?",
+   "premises": [
+    "The mantra must be recited daily.",
+    "Recitation should be done with devotion."
+   ],
+   "inference": "Therefore, one should mutter the mantra a thousand times daily with devotion.",
+   "uncertainties": [],
+   "plain_english": "Every day one should mutter the mantra a thousand times with a feeling of devotion."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "saptamī+ādau",
+     "gloss": "seventh-beginning-with",
+     "grounds": "time starting from the seventh day",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphatic adverbial",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūjayet+iṣṭa+devatām",
+     "gloss": "one-should-worship-chosen-deity",
+     "grounds": "injunction to worship the chosen deity; internal sandhi in compound form",
+     "morph": "3.sg.opt.act (√pūj) + f.acc.sg (compound)"
+    }
+   ],
+   "question": "From which day should special worship of the chosen deity begin?",
+   "premises": [
+    "A specific starting day is prescribed.",
+    "The chosen deity is the object of worship."
+   ],
+   "inference": "Therefore, beginning from the seventh day one should especially worship the chosen deity.",
+   "uncertainties": [],
+   "plain_english": "Beginning from the seventh day, one should especially worship the chosen deity."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "aṣṭamī+navamī+rātrau",
+     "gloss": "eighth-ninth-night-on",
+     "grounds": "time of ritual on eighth and ninth nights",
+     "morph": "f.loc.sg (compound)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "mahotsavam",
+     "gloss": "great-festival",
+     "grounds": "worship performed as a great celebration",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should worship be conducted on the nights of the eighth and ninth days?",
+   "premises": [
+    "The eighth and ninth nights are specified.",
+    "Worship is to be performed then."
+   ],
+   "inference": "Therefore, on those nights one should perform worship as a great festival.",
+   "uncertainties": [],
+   "plain_english": "On the nights of the eighth and ninth days, one should perform worship as a great festival."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "śaktyā",
+     "gloss": "female-partner-with",
+     "grounds": "ritual consort or śakti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "O-fair-hipped-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kumārī+pūjanaṃ",
+     "gloss": "maiden-worship",
+     "grounds": "ritual worship of a maiden",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (√car)"
+    }
+   ],
+   "question": "With whom should the practitioner perform the worship of a maiden?",
+   "premises": [
+    "Maiden worship is prescribed.",
+    "The rite is performed together with a śakti."
+   ],
+   "inference": "Therefore, one should perform maiden worship together with the śakti.",
+   "uncertainties": [
+    "The term śakti may refer to a ritual consort or power; context suggests a consort."
+   ],
+   "plain_english": "O fair-hipped one, one should perform the worship of a maiden together with the śakti."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing prior instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraskriyāṃ",
+     "gloss": "preliminary-rite",
+     "grounds": "ritual practice completed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of the rite",
+     "morph": "absolutive (√kṛ)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivatāṃ",
+     "gloss": "Śiva-hood",
+     "grounds": "state of being Śiva",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-attain",
+     "grounds": "result of the rite",
+     "morph": "3.sg.opt.act (√vraj)"
+    }
+   ],
+   "question": "What ultimate state does the practitioner attain by completing the preliminary rite in this way?",
+   "premises": [
+    "The preliminary rite is performed as prescribed.",
+    "The rite leads to a supreme transformation."
+   ],
+   "inference": "Therefore, having completed the rite, the practitioner may attain Śiva-hood.",
+   "uncertainties": [],
+   "plain_english": "Having thus performed the preliminary rite, the practitioner may attain the state of Śiva."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "śarat+kāle",
+     "gloss": "autumn-season-in",
+     "grounds": "time of the rite",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "mahādevyā",
+     "gloss": "of-great-goddess",
+     "grounds": "associated deity",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bodhena",
+     "gloss": "awakening-with",
+     "grounds": "occasion of awakening",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahotsave",
+     "gloss": "great-festival-in",
+     "grounds": "festive occasion",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "During which sacred occasion in autumn should the rite be connected to the great goddess?",
+   "premises": [
+    "Autumn is a prescribed season.",
+    "The great goddess's awakening and festival occur then."
+   ],
+   "inference": "Therefore, the rite is linked to the autumn season during the great goddess's awakening and festival.",
+   "uncertainties": [
+    "The exact festival referred to is not specified in this verse."
+   ],
+   "plain_english": "In the autumn season, during the awakening of the great goddess and in the great festival."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "pūrva+ukta+vidhinā",
+     "gloss": "previously-stated-method-by",
+     "grounds": "according to earlier instructions",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "puraskriyāṃ",
+     "gloss": "preliminary-rite",
+     "grounds": "ritual to be performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhiyā",
+     "gloss": "with-mind",
+     "grounds": "with focused attention",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How should the mantra practitioner perform the preliminary rite during this occasion?",
+   "premises": [
+    "A previously stated method exists.",
+    "The rite requires focused attention."
+   ],
+   "inference": "Therefore, the mantra practitioner should perform the preliminary rite by the previously stated method with focused mind.",
+   "uncertainties": [],
+   "plain_english": "The mantra practitioner should perform the preliminary rite by the previously stated method, with focused attention."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "śarat+kāle",
+     "gloss": "autumn-season-in",
+     "grounds": "time of practice",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "caturthī+ādi",
+     "gloss": "fourth-beginning-with",
+     "grounds": "starting from the fourth day",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "navamī+antaṃ",
+     "gloss": "ninth-ending-with",
+     "grounds": "ending on the ninth day",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "number of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What period and quantity of recitation are prescribed in the autumn season?",
+   "premises": [
+    "The practice spans from the fourth to the ninth day.",
+    "A thousand recitations are indicated."
+   ],
+   "inference": "Therefore, in autumn one should perform a thousand recitations from the fourth through the ninth day.",
+   "uncertainties": [
+    "Whether the thousand is daily or total is not explicit in this verse."
+   ],
+   "plain_english": "In the autumn season, from the fourth day to the ninth, one should perform a thousand recitations."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation of instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+upacāraiḥ+tu",
+     "gloss": "all-offerings-with-and",
+     "grounds": "with all ritual offerings; internal sandhi in compound form",
+     "morph": "m.inst.pl (compound) + (indecl.)"
+    },
+    {
+     "surface": "vastra+alaṅkāra+bhūṣaṇaiḥ",
+     "gloss": "garment-ornament-decorations-with",
+     "grounds": "with clothing and adornments",
+     "morph": "n.inst.pl (compound)"
+    }
+   ],
+   "question": "What additional offerings should accompany the worship in this rite?",
+   "premises": [
+    "Worship includes all standard offerings.",
+    "Garments and ornaments are also appropriate."
+   ],
+   "inference": "Therefore, the rite should be performed with all offerings, garments, and ornaments.",
+   "uncertainties": [],
+   "plain_english": "Likewise, with all offerings and with garments, ornaments, and decorations."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "aṣṭamī+sandhi+velāyām",
+     "gloss": "eighth-juncture-time-in",
+     "grounds": "at the juncture time of the eighth day",
+     "morph": "f.loc.sg (compound)"
+    },
+    {
+     "surface": "tena+ena",
+     "gloss": "by-that-this",
+     "grounds": "by that very method; internal sandhi in compound form",
+     "morph": "m.inst.sg + m.inst.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "method-by",
+     "grounds": "ritual procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paśum",
+     "gloss": "animal-victim",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "At what specific time and by what method should the animal offering be made?",
+   "premises": [
+    "The juncture of the eighth day is specified.",
+    "The offering follows the stated method."
+   ],
+   "inference": "Therefore, at the juncture of the eighth day the animal victim should be offered by that very method.",
+   "uncertainties": [
+    "The verb governing paśum is implied from context."
+   ],
+   "plain_english": "At the juncture time of the eighth day, by that very method, one should offer the animal victim."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "vibhiḥ+dhyāna+paro",
+     "gloss": "fearless-meditation-intent",
+     "grounds": "absorbed in fearless meditation; internal sandhi in compound form",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "assuming a state",
+     "morph": "absolutive (√bhū)"
+    },
+    {
+     "surface": "vāṃchitāṃ",
+     "gloss": "desired",
+     "grounds": "wished-for result",
+     "morph": "f.acc.sg.past-passive-participle (√vāñch)"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "attainment of result",
+     "morph": "3.sg.opt.act (ā + √āp)"
+    }
+   ],
+   "question": "What inner state enables the practitioner to obtain the desired success?",
+   "premises": [
+    "The practitioner becomes intent on fearless meditation.",
+    "Such focus leads to accomplishment."
+   ],
+   "inference": "Therefore, being absorbed in fearless meditation, one may obtain the desired success.",
+   "uncertainties": [
+    "The first token's analysis as 'fearless' (vibhiḥ/vibhī) is tentative."
+   ],
+   "plain_english": "Having become intent on fearless meditation, one may obtain the desired success."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient of offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "ritual gift",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "should-give",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "daśamyāṃ",
+     "gloss": "on-tenth-day",
+     "grounds": "time of completion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pārayet+tataḥ",
+     "gloss": "should-complete-then",
+     "grounds": "concluding the rite; internal sandhi in compound form",
+     "morph": "3.sg.opt.act (√pṛ, causative) + (indecl.)"
+    }
+   ],
+   "question": "What concluding acts must be performed for the guru and on the tenth day?",
+   "premises": [
+    "The guru is owed a ritual fee.",
+    "The rite concludes on the tenth day."
+   ],
+   "inference": "Therefore, one should give the fee to the guru and complete the rite on the tenth day.",
+   "uncertainties": [],
+   "plain_english": "One should give the ritual fee to the guru, and then complete the rite on the tenth day."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya+prakāreṇa",
+     "gloss": "other-method-by",
+     "grounds": "by another procedure",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "subject being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "introduces teaching",
+     "morph": "3.sg.pres.pass (√vac)"
+    }
+   ],
+   "question": "Is there an alternative method for performing the preliminary rite?",
+   "premises": [
+    "A previous method has been described.",
+    "An alternative procedure is possible."
+   ],
+   "inference": "Therefore, the preliminary rite is now stated by another method.",
+   "uncertainties": [],
+   "plain_english": "Or, the preliminary rite is stated by another method."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "entering the ritual space",
+     "morph": "absolutive (pra + √viś)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "following prescribed procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāsām",
+     "gloss": "of-them",
+     "grounds": "refers to female participants previously implied",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "performing worship",
+     "morph": "absolutive (abhi + √arc)"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "with diligence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the mantra practitioner begin the alternative preliminary rite?",
+   "premises": [
+    "The practitioner enters the ritual setting.",
+    "Worship must be performed diligently and according to rule."
+   ],
+   "inference": "Therefore, having entered, the mantra practitioner should worship them diligently according to rule.",
+   "uncertainties": [
+    "The referent of tāsām is not explicit in this verse."
+   ],
+   "plain_english": "Having entered, the mantra practitioner, according to rule, should worship them diligently."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "exclusive focus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmadevo",
+     "gloss": "Kāmadeva",
+     "grounds": "deity or mantra form invoked",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "injunction to recite",
+     "morph": "3.sg.opt.act (√jap)"
+    },
+    {
+     "surface": "aṣṭa+uttaraṃ",
+     "gloss": "eight-more",
+     "grounds": "eight more than a hundred",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "base number",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What specific mantra recitation is prescribed in this alternative method?",
+   "premises": [
+    "The focus is solely on Kāmadeva.",
+    "A specific number of recitations is required."
+   ],
+   "inference": "Therefore, one should mutter only this Kāmadeva mantra one hundred and eight times.",
+   "uncertainties": [
+    "Whether Kāmadeva refers to a deity or a specific mantra is context-dependent."
+   ],
+   "plain_english": "One should mutter only this Kāmadeva mantra one hundred and eight times."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "latā+gṛhaṃ",
+     "gloss": "creeper-house",
+     "grounds": "bower or vine-covered pavilion",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative to listen",
+     "morph": "2.sg.imp.act (√śru)"
+    },
+    {
+     "surface": "prauḍhe",
+     "gloss": "O-mature-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāma+kautuka+lālase",
+     "gloss": "love-play-eager",
+     "grounds": "eager for amorous play",
+     "morph": "f.voc.sg (compound)"
+    }
+   ],
+   "question": "What setting is introduced for the next instruction to the eager listener?",
+   "premises": [
+    "The listener is addressed directly.",
+    "A specific place, the creeper-house, is to be described."
+   ],
+   "inference": "Therefore, the teaching turns to the creeper-house for the eager listener.",
+   "uncertainties": [],
+   "plain_english": "Hear, O mature one eager for the play of love, about the creeper-house."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "yauvana+ādi+guṇaiḥ+yuktāḥ",
+     "gloss": "youth-etc-qualities-endowed-with",
+     "grounds": "endowed with youth and other qualities; internal sandhi in compound form",
+     "morph": "f.nom.pl (compound, past-passive-participle √yuj)"
+    },
+    {
+     "surface": "sādhikāḥ",
+     "gloss": "female-practitioners",
+     "grounds": "women engaged in the practice",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kāma+garvitāḥ",
+     "gloss": "love-proud",
+     "grounds": "confident or exalted in love",
+     "morph": "f.nom.pl (compound)"
+    }
+   ],
+   "question": "What qualities characterize the female practitioners involved in this rite?",
+   "premises": [
+    "The practitioners are female.",
+    "They possess youth and related qualities and are proud in love."
+   ],
+   "inference": "Therefore, the female practitioners are endowed with youth and other qualities and are exalted in love.",
+   "uncertainties": [],
+   "plain_english": "The female practitioners, endowed with youth and other qualities, are proud in love."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya+prakāreṇa",
+     "gloss": "other-method-by",
+     "grounds": "by another procedure",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "subject being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "introduces teaching",
+     "morph": "3.sg.pres.pass (√vac)"
+    }
+   ],
+   "question": "Is yet another method for performing the preliminary rite being introduced?",
+   "premises": [
+    "Alternative methods have been mentioned.",
+    "Another procedure is now presented."
+   ],
+   "inference": "Therefore, the preliminary rite is stated again by another method.",
+   "uncertainties": [],
+   "plain_english": "Or, the preliminary rite is stated by yet another method."
+  }
+ ]
+}

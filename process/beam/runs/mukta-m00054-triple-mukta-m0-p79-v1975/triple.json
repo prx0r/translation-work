@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "kṣayaṅkarī",
+     "gloss": "causing-decay",
+     "grounds": "epithet of the goddess; agent noun from kṣaya (decay) + kṛ (to make)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣitīśā",
+     "gloss": "earth-lady",
+     "grounds": "epithet of the goddess; compound of kṣiti (earth) + īśā (lady, ruler)",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīṇamadhyasuśobhanā",
+     "gloss": "slender-waisted-very-beautiful",
+     "grounds": "epithet of the goddess; compound of kṣīṇa (slender, diminished) + madhya (middle, waist) + suśobhanā (very beautiful)",
+     "morph": "compound:f.nom.sg"
+    }
+   ],
+   "question": "Which epithets attribute destructive power, earthly sovereignty, and slender beauty to the goddess?",
+   "premises": [
+    "The goddess is named kṣayaṅkarī, the one who causes decay.",
+    "The goddess is named kṣitīśā, the lady who rules the earth.",
+    "The goddess is named kṣīṇamadhyasuśobhanā, very beautiful with a slender waist."
+   ],
+   "inference": "These epithets together ascribe transformative power, sovereign authority, and exquisite form to the goddess.",
+   "uncertainties": [],
+   "plain_english": "She is the causer of decay, the lady of the earth, and beautifully slender-waisted."
+  }
+ ]
+}

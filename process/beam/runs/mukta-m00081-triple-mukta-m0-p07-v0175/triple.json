@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusive indeclinable drawing the consequence from the preceding cessation of inquiry",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caadvayahāniḥ",
+     "gloss": "and-non-duality-loss",
+     "grounds": "compound expressing the further concern that non-duality would be lost; sandhi fusion ca+advaya retained in the given token",
+     "morph": "compound: ca+advaya+hāni (f.nom.sg)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or specifying particle marking the stated point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the indicated point",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle adding this point to what has already been established",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to the present context or teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūcitam",
+     "gloss": "indicated",
+     "grounds": "past participle stating that the point is implicitly conveyed",
+     "morph": "ppp.nom.sg.n (√sūc)"
+    }
+   ],
+   "question": "What further concern about non-duality is implicitly addressed by the cessation of attained-unattained inquiry?",
+   "premises": [
+    "The preceding verses establish that inquiry into attained and unattained ceases entirely.",
+    "Such cessation could raise the concern that non-duality is thereby lost.",
+    "The present verse states that this point is also indicated in this context."
+   ],
+   "inference": "Therefore, the cessation of attained-unattained inquiry does not entail a loss of non-duality, and this is implicitly indicated here.",
+   "uncertainties": [
+    "The exact referent of atra, whether the immediate verse context or the broader doctrinal discussion, is not fully specified."
+   ],
+   "plain_english": "Therefore, it is also indicated here that non-duality is not lost."
+  }
+ ]
+}

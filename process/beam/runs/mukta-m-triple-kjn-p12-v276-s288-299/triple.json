@@ -1,0 +1,731 @@
+{
+ "song": "kjn-p12",
+ "items": [
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "first member of compound brahma-hatyā",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "hatyā",
+     "gloss": "killing",
+     "grounds": "second member of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-other",
+     "grounds": "neuter adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpam",
+     "gloss": "sin",
+     "grounds": "object of non-attachment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aśva",
+     "gloss": "horse",
+     "grounds": "first member of compound aśva-medha",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "medha",
+     "gloss": "sacrifice",
+     "grounds": "second member of compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-other",
+     "grounds": "neuter adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "object of non-attachment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which sins and sacrificial fruits fail to bind a yogin?",
+   "premises": [
+    "brahma-killing and other sins are named",
+    "horse-sacrifice and other fruits are named",
+    "yogin remains unbound by them"
+   ],
+   "inference": "A yogin is not seized by these karmic results.",
+   "uncertainties": [
+    "compound boundaries are interpreted from context"
+   ],
+   "plain_english": "Brahman-killing and other sins, horse-sacrifice and other fruits."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "etaiḥ",
+     "gloss": "by-these",
+     "grounds": "instrumental plural",
+     "morph": "pron.instr.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhyate",
+     "gloss": "is-seized",
+     "grounds": "passive present",
+     "morph": "3.sg.pass-pres root-grah"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyamāṇaiḥ",
+     "gloss": "even-being-performed",
+     "grounds": "present participle instrumental",
+     "morph": "part.instr.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does performing these rites still seize a yogin?",
+   "premises": [
+    "these acts are being performed",
+    "the yogin is not seized",
+    "this is stated clearly"
+   ],
+   "inference": "Performance of rites does not bind the yogin.",
+   "uncertainties": [
+    "etaiḥ refers to prior sins and fruits"
+   ],
+   "plain_english": "Even when these are performed, the yogin is clearly not seized by them."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "niṣparigraha",
+     "gloss": "non-possession",
+     "grounds": "compound adjective",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "santoṣaṃ",
+     "gloss": "contentment",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvandva",
+     "gloss": "duality",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "union",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "causative optative",
+     "morph": "3.sg.caus-opt root-kṛ"
+    }
+   ],
+   "question": "Which practices should not be forced upon the yogin?",
+   "premises": [
+    "non-possession and contentment are named",
+    "duality-union is named",
+    "one should not make them"
+   ],
+   "inference": "These practices are not to be imposed.",
+   "uncertainties": [
+    "kārayet may be causative or optative"
+   ],
+   "plain_english": "One should not force non-possession, contentment, or duality-union."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carum",
+     "gloss": "caru",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nindayet",
+     "gloss": "one-should-revile",
+     "grounds": "causative optative",
+     "morph": "3.sg.caus-opt root-nind"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fair-one",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "samaya",
+     "gloss": "vow",
+     "grounds": "compound member",
+     "morph": "m.comp"
+    },
+    {
+     "surface": "advaitam",
+     "gloss": "non-duality",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should not be reviled in the non-dual vow?",
+   "premises": [
+    "caru should not be reviled",
+    "the fair one is addressed",
+    "non-dual vow is affirmed"
+   ],
+   "inference": "The caru is not to be reviled under the non-dual vow.",
+   "uncertainties": [
+    "samaya-advaitam relation is compact"
+   ],
+   "plain_english": "O fair one, do not revile the caru; the vow is non-dual indeed."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "siddhānāṃ",
+     "gloss": "of-siddhas",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yoginīnāñ",
+     "gloss": "of-yoginīs",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imam",
+     "gloss": "this",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "carum",
+     "gloss": "caru",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priyaṃ",
+     "gloss": "dear",
+     "grounds": "accusative adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is this caru always dear?",
+   "premises": [
+    "siddhas and yoginīs are named",
+    "this caru is dear",
+    "it is always so"
+   ],
+   "inference": "The caru is always dear to siddhas and yoginīs.",
+   "uncertainties": [
+    "imam may refer to a ritual substance"
+   ],
+   "plain_english": "This caru is always dear to siddhas and yoginīs."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "vuka",
+     "gloss": "vuka",
+     "grounds": "first item in list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "compound member",
+     "morph": "m.comp"
+    },
+    {
+     "surface": "ambuñ",
+     "gloss": "water",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "blood",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śukraṃ",
+     "gloss": "semen",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "surām",
+     "gloss": "liquor",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which substances are listed for the ritual offering?",
+   "premises": [
+    "vuka flower is named",
+    "śiva-water is named",
+    "blood, semen, and liquor are named"
+   ],
+   "inference": "The verse enumerates ritual substances.",
+   "uncertainties": [
+    "vuka is an obscure plant name"
+   ],
+   "plain_english": "Vuka flower, Śiva-water, blood, semen, and liquor likewise."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhūpañ",
+     "gloss": "incense",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "geyañ",
+     "gloss": "song",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāsasam",
+     "gloss": "garment",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which further offerings and ornaments are enumerated?",
+   "premises": [
+    "fragrance and incense are named",
+    "song and betel are named",
+    "red garment is named"
+   ],
+   "inference": "The list continues with sensory offerings.",
+   "uncertainties": [
+    "geyañ may mean song or singing"
+   ],
+   "plain_english": "Fragrance, incense, song, betel, and red garment."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "vijñāna",
+     "gloss": "knowledge",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "unmīlanam",
+     "gloss": "unfolding",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fair-one",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present indicative",
+     "morph": "3.sg.act-pres root-bhū"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "by-other",
+     "grounds": "instrumental adjective",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sevanāt",
+     "gloss": "service",
+     "grounds": "ablative noun",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What alone unfolds knowledge for the fair one?",
+   "premises": [
+    "knowledge-unfolding becomes thus",
+    "it is not by other service",
+    "the fair one is addressed"
+   ],
+   "inference": "Knowledge unfolds through this practice, not through other service.",
+   "uncertainties": [
+    "anya sevanāt may mean service of another"
+   ],
+   "plain_english": "O fair one, knowledge unfolds thus, not through service of another."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "laulya",
+     "gloss": "greed",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "arthī",
+     "gloss": "seeker",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "capalā",
+     "gloss": "fickle",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "śāstra",
+     "gloss": "scripture",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "viḍambakam",
+     "gloss": "mockery",
+     "grounds": "nominative predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What becomes of a greedy fickle seeker of kula scripture?",
+   "premises": [
+    "greedy seeker is named",
+    "fickle one is named",
+    "kula scripture becomes mockery"
+   ],
+   "inference": "Such a seeker makes kula scripture a mockery.",
+   "uncertainties": [
+    "laulya-arthī may be compound"
+   ],
+   "plain_english": "A greedy, fickle seeker always makes kula scripture a mockery."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "vijñāna",
+     "gloss": "knowledge",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "saṃbhogāt",
+     "gloss": "enjoyment",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ṣaṇ",
+     "gloss": "from-six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsāt",
+     "gloss": "months",
+     "grounds": "ablative noun",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "compound member",
+     "morph": "f.comp"
+    },
+    {
+     "surface": "bhājanaḥ",
+     "gloss": "recipient",
+     "grounds": "nominative predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When does one become a recipient of accomplishment?",
+   "premises": [
+    "kula knowledge enjoyment is named",
+    "six months are named",
+    "recipient of accomplishment results"
+   ],
+   "inference": "Through enjoyment of kula knowledge for six months one becomes a recipient of accomplishment.",
+   "uncertainties": [
+    "ṣaṇ māsāt may mean within six months"
+   ],
+   "plain_english": "Through enjoyment of kula knowledge for six months one becomes a recipient of accomplishment."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "prāśayet",
+     "gloss": "one-should-drink",
+     "grounds": "causative optative",
+     "morph": "3.sg.caus-opt root-prāś"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "melakaḥ",
+     "gloss": "assembly",
+     "grounds": "nominative predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-bhū"
+    }
+   ],
+   "question": "What may result from always drinking that at the proper time?",
+   "premises": [
+    "that should be drunk always",
+    "at the proper time",
+    "yoginī assembly may be"
+   ],
+   "inference": "Drinking that at the proper time may bring a yoginī assembly.",
+   "uncertainties": [
+    "tat refers to prior substance"
+   ],
+   "plain_english": "One should drink that always at the proper time; a yoginī assembly may result."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "mukha",
+     "gloss": "mouth",
+     "grounds": "compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "prakṣālanaṃ",
+     "gloss": "washing",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahman",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ūrddha",
+     "gloss": "upward",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "gone",
+     "grounds": "past participle",
+     "morph": "part.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is always washed and gone upward for brahman?",
+   "premises": [
+    "mouth-washing is named",
+    "it is always so",
+    "brahman is gone upward"
+   ],
+   "inference": "Mouth-washing is connected with brahman gone upward.",
+   "uncertainties": [
+    "ūrddha gatam may describe brahman"
+   ],
+   "plain_english": "O beloved, mouth-washing is always; brahman has gone upward."
+  }
+ ]
+}

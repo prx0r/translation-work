@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "bhramat",
+     "gloss": "whirling",
+     "grounds": "present participle describing the bees; compound member",
+     "morph": "pr.part.-bhram+compound-member"
+    },
+    {
+     "surface": "bhramara",
+     "gloss": "bee",
+     "grounds": "compound member with bhramat",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "līlā",
+     "gloss": "play",
+     "grounds": "compound member indicating sportive movement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ābhāṃ",
+     "gloss": "radiance",
+     "grounds": "object of comparison for the form's splendor",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nayana",
+     "gloss": "eye",
+     "grounds": "compound member denoting eyes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "traya",
+     "gloss": "triad",
+     "grounds": "compound member specifying three",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rājitām",
+     "gloss": "adorned",
+     "grounds": "past passive participle describing the meditated form",
+     "morph": "ppp.f.acc.sg-rāj"
+    }
+   ],
+   "question": "What radiant splendor and three-eyed adornment characterize the meditated form of all letters?",
+   "premises": [
+    "The meditated form possesses a radiance like the play of whirling bees.",
+    "The meditated form is adorned with a triad of eyes."
+   ],
+   "inference": "The visualization of all letters presents a luminous form marked by bee-like radiance and three eyes.",
+   "uncertainties": [
+    "The exact referent qualified by rājitām depends on the following verse or implied deity."
+   ],
+   "plain_english": "Visualize that form as having a radiance like the play of whirling bees and as adorned with three eyes."
+  }
+ ]
+}

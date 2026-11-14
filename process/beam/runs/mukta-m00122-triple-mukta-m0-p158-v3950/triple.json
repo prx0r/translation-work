@@ -1,0 +1,65 @@
+{
+ "song": "mukta-m0-p158",
+ "items": [
+  {
+   "verse": 3950,
+   "rows": [
+    {
+     "surface": "triṃśat",
+     "gloss": "thirty",
+     "grounds": "numeral counting the chapters",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭalam",
+     "gloss": "chapter",
+     "grounds": "neuter noun naming the textual unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paripūrṇam",
+     "gloss": "completed",
+     "grounds": "adjective describing the chapter count as finished",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "parāmṛṣṭam",
+     "gloss": "reviewed",
+     "grounds": "past participle indicating examination or touching",
+     "morph": "ppp.nom.sg.n"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable closing the statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun in the closing formula",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "sat",
+     "gloss": "truth",
+     "grounds": "closing term of the om-tat-sat formula",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What closing statement marks the completed and reviewed thirty-chapter work?",
+   "premises": [
+    "thirty chapters are named",
+    "the work is completed",
+    "the work is reviewed",
+    "om tat sat closes"
+   ],
+   "inference": "The verse declares the thirty-chapter work completed and reviewed, ending with om tat sat.",
+   "uncertainties": [
+    "parāmṛṣṭam may mean reviewed or touched",
+    "paṭalam may refer to chapters or sections"
+   ],
+   "plain_english": "Thirty chapters are completed and reviewed. Om tat sat."
+  }
+ ]
+}

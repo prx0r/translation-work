@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p263",
+ "items": [
+  {
+   "verse": 6575,
+   "rows": [
+    {
+     "surface": "pañcākṣarādi",
+     "gloss": "beginning-with-five-syllable-mantra",
+     "grounds": "bahuvrīhi or karmadhāraya compound qualifying the chanting; pañcākṣara refers to the five-syllable mantra and ādi indicates 'beginning with' or 'and so forth'",
+     "morph": "compound"
+    },
+    {
+     "surface": "japtena",
+     "gloss": "by-chanting",
+     "grounds": "instrumental of action denoting the means of ritual performance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dvāgre",
+     "gloss": "at-two-fronts",
+     "grounds": "locative compound indicating two front areas or entrances; exact referent depends on ritual context",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "lepite",
+     "gloss": "smeared",
+     "grounds": "past participle in locative, describing the prepared surfaces",
+     "morph": "n.loc.sg (ppp)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable indicating repetition or continuation of the ritual sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action using chanting is performed again on two smeared front areas?",
+   "premises": [
+    "Chanting beginning with the five-syllable mantra serves as the means of the action.",
+    "The action is performed at two front areas that have been smeared.",
+    "The action is carried out again as part of the ongoing ritual sequence."
+   ],
+   "inference": "Following the prior worship, the ritual continues by again performing an action through chanting beginning with the five-syllable mantra at two smeared front areas.",
+   "uncertainties": [
+    "The exact referent of dvāgre (two fronts or entrances) is not fully specified in this unit.",
+    "The specific action performed at the smeared areas is implied by context rather than explicitly stated here."
+   ],
+   "plain_english": "Then, again, by chanting beginning with the five-syllable mantra, at the two smeared front areas."
+  }
+ ]
+}

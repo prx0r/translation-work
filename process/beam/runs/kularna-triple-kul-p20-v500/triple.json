@@ -1,0 +1,51 @@
+{
+ "song": "kul-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "smaret",
+     "gloss": "remember",
+     "grounds": "optative of smṛ, let one remember",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "in-head",
+     "grounds": "locative singular of śiras",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "haṃsagaṃ",
+     "gloss": "haṃsa-going",
+     "grounds": "compound haṃsa + ga, accusative singular",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "tadabhidhānapūrvaṃ",
+     "gloss": "that-name-preceding",
+     "grounds": "compound tad + abhidhāna + pūrvaṃ, adverbial accusative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "accusative singular of guru",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "How should the guru be remembered in the head?",
+   "premises": [
+    "Guru is remembered in head.",
+    "Haṃsa-ga precedes that name.",
+    "Tadabhidhāna comes before guru."
+   ],
+   "inference": "The practitioner remembers guru in head with haṃsa-ga and that name preceding.",
+   "uncertainties": [
+    "Exact force of haṃsagaṃ remains context-dependent."
+   ],
+   "plain_english": "One should remember the guru in the head, with the haṃsa-ga and that name preceding."
+  }
+ ]
+}

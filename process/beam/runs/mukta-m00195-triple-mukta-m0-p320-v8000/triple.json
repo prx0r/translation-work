@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p320",
+ "items": [
+  {
+   "verse": 8000,
+   "rows": [
+    {
+     "surface": "sampravakṣyāmi",
+     "gloss": "I-shall-fully-declare",
+     "grounds": "future active verb indicating the speaker's intention to expound; root sam-pra-√vac",
+     "morph": "1.sg.fut.act (sam-pra-√vac)"
+    },
+    {
+     "surface": "dvātriṃśadvarṇakaṃ",
+     "gloss": "thirty-two-syllabled",
+     "grounds": "compound qualifying manum; dvātriṃśat (thirty-two) + varṇaka (syllable/letter-unit)",
+     "morph": "compound: dvātriṃśat+varṇaka (acc.sg.m.)"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "object of sampravakṣyāmi; the sacred formula to be taught",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which thirty-two-syllabled mantra is the speaker about to declare?",
+   "premises": [
+    "The speaker announces a forthcoming full declaration.",
+    "The object of this declaration is a mantra.",
+    "The mantra is characterized as having thirty-two syllables."
+   ],
+   "inference": "The speaker will next expound a specific mantra composed of thirty-two syllables.",
+   "uncertainties": [
+    "varṇaka may denote either syllables or letters; rendered as syllabled in this ritual-mantric context."
+   ],
+   "plain_english": "I shall now fully declare the mantra consisting of thirty-two syllables."
+  }
+ ]
+}

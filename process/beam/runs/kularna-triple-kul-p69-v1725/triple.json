@@ -1,0 +1,64 @@
+{
+ "song": "kul-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "jaṣitāḥ",
+     "gloss": "conquered",
+     "grounds": "legacy hint conquered; participle/adjective form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "legacy hint are; verb form of as",
+     "morph": "3.pl.act.opt (as)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandeho",
+     "gloss": "doubt",
+     "grounds": "legacy hint doubt; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "legacy hint all; neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudbhavam",
+     "gloss": "that-born",
+     "grounds": "legacy hint that+born; compound adjective",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "Why is there no doubt about conquest?",
+   "premises": [
+    "Conquered ones are without doubt.",
+    "All arises from that source.",
+    "Therefore conquest is assured."
+   ],
+   "inference": "No doubt remains because everything originates from that.",
+   "uncertainties": [
+    "Exact referent of jaṣitāḥ is unclear.",
+    "Mood of syuḥ is ambiguous."
+   ],
+   "plain_english": "They are conquered without doubt, because everything is born from that."
+  }
+ ]
+}

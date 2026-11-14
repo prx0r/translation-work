@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "prathamāvaraṇe",
+     "gloss": "first-enclosure",
+     "grounds": "compound locative phrase naming the first enclosure",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative object of the implied worship or placement",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tripurāṃ",
+     "gloss": "tripura",
+     "grounds": "proper name in apposition to the goddess",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "cakranāyikām",
+     "gloss": "circle-nayika",
+     "grounds": "compound accusative describing the goddess's role",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Which goddess is worshipped as circle-nayika in the first enclosure?",
+   "premises": [
+    "first enclosure contains goddess",
+    "goddess is named Tripura",
+    "goddess serves as circle-nayika"
+   ],
+   "inference": "Tripura is the goddess and circle-nayika of the first enclosure.",
+   "uncertainties": [
+    "exact ritual action is implied rather than stated"
+   ],
+   "plain_english": "In the first enclosure, the goddess Tripura is the circle-nayika."
+  }
+ ]
+}

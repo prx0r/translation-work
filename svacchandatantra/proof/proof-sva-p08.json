@@ -1,0 +1,128 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p08",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v176 ratio=0.667",
+  "ALIGN_NODISP v179 ratio=0.692",
+  "ALIGN_NODISP v184 ratio=0.400",
+  "ALIGN_NODISP v187 ratio=0.762",
+  "ALIGN_NODISP v192 ratio=0.680",
+  "ALIGN_NODISP v193 ratio=0.767",
+  "ALIGN_NODISP v197 ratio=0.633",
+  "ALIGN_NODISP v199 ratio=0.784",
+  "ALIGN_NODISP v200 ratio=0.476"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "e4545c788d772ce0",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 167
+ },
+ "align": {
+  "min_ratio": 0.4,
+  "sub090": {
+   "176": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "179": {
+    "ratio": 0.692,
+    "disposition": null
+   },
+   "184": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "187": {
+    "ratio": 0.762,
+    "disposition": null
+   },
+   "189": {
+    "ratio": 0.893,
+    "disposition": "sandhi-only: hiatus/avagraha-drop, i>y, ii>ī"
+   },
+   "192": {
+    "ratio": 0.68,
+    "disposition": null
+   },
+   "193": {
+    "ratio": 0.767,
+    "disposition": null
+   },
+   "197": {
+    "ratio": 0.633,
+    "disposition": null
+   },
+   "199": {
+    "ratio": 0.784,
+    "disposition": null
+   },
+   "200": {
+    "ratio": 0.476,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 37,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 167,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v176",
+  "fix: word-order/gloss vs source for v179",
+  "fix: word-order/gloss vs source for v184",
+  "fix: word-order/gloss vs source for v187",
+  "fix: word-order/gloss vs source for v192",
+  "fix: word-order/gloss vs source for v193",
+  "fix: word-order/gloss vs source for v197",
+  "fix: word-order/gloss vs source for v199",
+  "fix: word-order/gloss vs source for v200"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "9e9c78d86b911a8b8ec0e3ecc74eb8ff0358f771681850d3ccac28c3fcaf2e80",
+  "l0": "0633576d329f0d7c249fbc7ae202a267d1f3893e47eb94ca21334aa2f851342e",
+  "argmap": "e35c69df79075e289dfce00e38565c08210a4e9fb10bf12ab253dcf78c428228",
+  "l2": "a25b113f1310d05cc0f283b3b96df2684933db40e5a0b98dbf4facfc80055a9a",
+  "c1": "836924e1e65464849fdc278054499afe316bade4e61b1dcc0bc1961b52630712"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "e4545c788d772ce0",
+  "t1": "sva-p08/data/sva-p08.t1.json",
+  "l0": "sva-p08/data/sva-p08.l0.json",
+  "l2": "sva-p08/data/sva-p08.l2.json",
+  "c1": "sva-p08/data/sva-p08.c1.json"
+ }
+}

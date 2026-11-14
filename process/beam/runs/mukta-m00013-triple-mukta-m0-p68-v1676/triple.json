@@ -1,0 +1,1160 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1676,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddha",
+     "gloss": "accomplished",
+     "grounds": "past participle used adjectivally",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ+mantrī",
+     "gloss": "manu-minister",
+     "grounds": "compound denoting one who ministers with manu",
+     "morph": "compound manu+mantrī; m.nom.sg"
+    },
+    {
+     "surface": "mahā+yogī+īśvaraḥ",
+     "gloss": "great-yogi-lord",
+     "grounds": "compound denoting a supreme yogi lord",
+     "morph": "compound mahā+yogī+īśvara; m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What exalted status results from the previously described accomplishment?",
+   "premises": [
+    "The described process leads to accomplishment",
+    "An accomplished one becomes a manu-minister",
+    "An accomplished one becomes a great yogi-lord"
+   ],
+   "inference": "Thus accomplished, one attains the status of a manu-minister and a great yogi-lord.",
+   "uncertainties": [],
+   "plain_english": "Thus accomplished, one should become a minister of the manu and a great lord of yogis."
+  },
+  {
+   "verse": 1677,
+   "rows": [
+    {
+     "surface": "śaṃkaraṃ",
+     "gloss": "Śaṃkara",
+     "grounds": "name of the deity addressed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paripapraccha",
+     "gloss": "questioned",
+     "grounds": "perfect tense indicating completed inquiry",
+     "morph": "3.sg.act.perf √prach"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "Pārvatī",
+     "grounds": "name of the speaker",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parama+īśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "compound epithet of Śaṃkara",
+     "morph": "compound parama+īśvara; m.acc.sg"
+    }
+   ],
+   "question": "Who initiates the inquiry to the supreme lord Śaṃkara?",
+   "premises": [
+    "Pārvatī is the speaker",
+    "Śaṃkara is the supreme lord addressed",
+    "Pārvatī questioned Śaṃkara"
+   ],
+   "inference": "Pārvatī posed a question to Śaṃkara, the supreme lord.",
+   "uncertainties": [],
+   "plain_english": "Pārvatī questioned Śaṃkara, the supreme lord."
+  },
+  {
+   "verse": 1678,
+   "rows": [
+    {
+     "surface": "vāñchita+artha+pradaṃ",
+     "gloss": "desired-object-granting",
+     "grounds": "compound describing one who grants wishes",
+     "morph": "compound vāñchita+artha+prada; m.acc.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative indicating sphere",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mañjughoṣaṃ",
+     "gloss": "Mañjughoṣa",
+     "grounds": "name of the deity requested",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bravīhi",
+     "gloss": "tell",
+     "grounds": "imperative request",
+     "morph": "2.sg.act.imp √brū"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of recipient",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What knowledge about Mañjughoṣa does Pārvatī request from Śaṃkara?",
+   "premises": [
+    "Pārvatī asks Śaṃkara to tell her",
+    "Mañjughoṣa grants desired objects in the world",
+    "The request concerns Mañjughoṣa"
+   ],
+   "inference": "Pārvatī requests Śaṃkara to tell her about Mañjughoṣa, who grants desired objects in the world.",
+   "uncertainties": [],
+   "plain_english": "Tell me about Mañjughoṣa, who grants desired objects in the world."
+  },
+  {
+   "verse": 1679,
+   "rows": [
+    {
+     "surface": "bhaktānāṃ",
+     "gloss": "of-devotees",
+     "grounds": "genitive indicating beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kāma+daṃ",
+     "gloss": "desire-granting",
+     "grounds": "compound describing the mantra's function",
+     "morph": "compound kāma+da; m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of the request",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalpavṛkṣam",
+     "gloss": "wish-fulfilling-tree",
+     "grounds": "simile object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iva+aparam",
+     "gloss": "like-another",
+     "grounds": "compound with indeclinable iva forming comparison",
+     "morph": "compound iva+apara; m.acc.sg"
+    }
+   ],
+   "question": "How is the requested mantra characterized in relation to devotees' desires?",
+   "premises": [
+    "The mantra grants desires to devotees",
+    "The mantra is compared to a wish-fulfilling tree",
+    "The comparison emphasizes its beneficence"
+   ],
+   "inference": "The requested mantra grants devotees' desires like another wish-fulfilling tree.",
+   "uncertainties": [],
+   "plain_english": "Tell me the mantra that grants the desires of devotees, like another wish-fulfilling tree."
+  },
+  {
+   "verse": 1680,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to knowledge or mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive indicating prior condition",
+     "morph": "(gerund) √jñā"
+    },
+    {
+     "surface": "jaḍa+dhīḥ",
+     "gloss": "dull-minded",
+     "grounds": "compound describing one of slow intellect",
+     "morph": "compound jaḍa+dhī; m.nom.sg"
+    },
+    {
+     "surface": "prāyaḥ",
+     "gloss": "mostly",
+     "grounds": "indeclinable indicating extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācaspati",
+     "gloss": "lord-of-speech",
+     "grounds": "epithet of Bṛhaspati",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samaḥ",
+     "gloss": "equal",
+     "grounds": "adjective indicating equivalence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What transformative effect does knowing this mantra have on a dull-minded person?",
+   "premises": [
+    "Knowing this brings transformation",
+    "Even a dull-minded person is affected",
+    "The result is equality with the lord of speech"
+   ],
+   "inference": "By knowing this, even a dull-minded person becomes mostly equal to the lord of speech.",
+   "uncertainties": [],
+   "plain_english": "Having known which, even a dull-minded person would mostly become equal to the lord of speech."
+  },
+  {
+   "verse": 1681,
+   "rows": [
+    {
+     "surface": "japāt",
+     "gloss": "by-recitation",
+     "grounds": "ablative indicating means",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "siddhi+pradaṃ",
+     "gloss": "success-granting",
+     "grounds": "compound describing the mantra's power",
+     "morph": "compound siddhi+prada; m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of description",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable governing instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homa+arcana+ādibhiḥ",
+     "gloss": "oblation-worship-etc",
+     "grounds": "compound listing ritual acts excluded",
+     "morph": "compound homa+arcana+ādi; n.ins.pl"
+    }
+   ],
+   "question": "What ritual suffices for this mantra to grant success?",
+   "premises": [
+    "The mantra grants success",
+    "Recitation alone is sufficient",
+    "Oblation, worship, and other rites are not required"
+   ],
+   "inference": "The mantra grants success through recitation alone, without oblation, worship, and other rites.",
+   "uncertainties": [],
+   "plain_english": "Tell me the mantra that grants success by recitation alone, without oblation, worship, and so forth."
+  },
+  {
+   "verse": 1682,
+   "rows": [
+    {
+     "surface": "sarva+jñatvam",
+     "gloss": "all-knowingness",
+     "grounds": "compound denoting omniscience",
+     "morph": "compound sarva+jñatva; n.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "present tense stating result",
+     "morph": "3.sg.act.pres √āp"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated for emphasis",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphasizing assertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "Pārvatī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What supreme attainment is assured to the practitioner of this mantra?",
+   "premises": [
+    "The practitioner obtains all-knowingness",
+    "The claim is emphatically affirmed as truth",
+    "Pārvatī is directly addressed"
+   ],
+   "inference": "One obtains all-knowingness; this is truly, truly so, O Pārvatī.",
+   "uncertainties": [],
+   "plain_english": "One obtains all-knowingness; truly, truly indeed, O Pārvatī."
+  },
+  {
+   "verse": 1683,
+   "rows": [
+    {
+     "surface": "sarva+śāstreṣu",
+     "gloss": "in-all-scriptures",
+     "grounds": "compound locative indicating domain",
+     "morph": "compound sarva+śāstra; n.loc.pl"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun referring to the practitioner",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaiḥ",
+     "gloss": "highly",
+     "grounds": "indeclinable indicating degree",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bṛhaspati+samaḥ",
+     "gloss": "Bṛhaspati-equal",
+     "grounds": "compound expressing equivalence",
+     "morph": "compound bṛhaspati+sama; m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What level of scriptural mastery does the practitioner achieve?",
+   "premises": [
+    "The practitioner gains mastery in all scriptures",
+    "The mastery is of a high degree",
+    "The practitioner becomes equal to Bṛhaspati"
+   ],
+   "inference": "He also becomes highly equal to Bṛhaspati in all scriptures.",
+   "uncertainties": [],
+   "plain_english": "He also becomes highly equal to Bṛhaspati in all the scriptures."
+  },
+  {
+   "verse": 1684,
+   "rows": [
+    {
+     "surface": "dhyeyaḥ",
+     "gloss": "to-be-meditated",
+     "grounds": "gerundive indicating object of meditation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "who",
+     "grounds": "interrogative pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle in question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable indicating context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+sarvaṃ",
+     "gloss": "that-all",
+     "grounds": "compound referring to all details",
+     "morph": "compound tad+sarva; n.acc.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "tell",
+     "grounds": "imperative request",
+     "morph": "2.sg.act.imp √brū"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of recipient",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "bhakta+vatsala",
+     "gloss": "devotee-kind",
+     "grounds": "compound vocative epithet",
+     "morph": "compound bhakta+vatsala; m.voc.sg"
+    }
+   ],
+   "question": "What further details about the meditation does Pārvatī ask Śaṃkara to reveal?",
+   "premises": [
+    "Pārvatī asks who is to be meditated upon",
+    "She requests all related details",
+    "She addresses Śaṃkara as kind to devotees"
+   ],
+   "inference": "Pārvatī asks who is to be meditated upon here and requests all those details from the devotee-kind lord.",
+   "uncertainties": [],
+   "plain_english": "Who is to be meditated upon here? Tell me all of that, O you who are kind to devotees."
+  },
+  {
+   "verse": 1685,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun identifying the deity",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphasizing identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mañjughoṣa+ākhyaḥ",
+     "gloss": "Mañjughoṣa-named",
+     "grounds": "compound giving the deity's name",
+     "morph": "compound mañjughoṣa+ākhya; m.nom.sg"
+    },
+    {
+     "surface": "bhakti+dānena",
+     "gloss": "devotion-gift",
+     "grounds": "compound instrumental indicating means",
+     "morph": "compound bhakti+dāna; n.ins.sg"
+    },
+    {
+     "surface": "mukti+daḥ",
+     "gloss": "liberation-giver",
+     "grounds": "compound describing the deity's function",
+     "morph": "compound mukti+da; m.nom.sg"
+    }
+   ],
+   "question": "How does Mañjughoṣa grant liberation to devotees?",
+   "premises": [
+    "The deity is identified as Mañjughoṣa",
+    "Liberation is granted through the gift of devotion",
+    "Mañjughoṣa is the giver of liberation"
+   ],
+   "inference": "He indeed, named Mañjughoṣa, is the giver of liberation through the gift of devotion.",
+   "uncertainties": [],
+   "plain_english": "He indeed, known as Mañjughoṣa, gives liberation through the gift of devotion."
+  },
+  {
+   "verse": 1686,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable indicating time or condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukti+pradaḥ",
+     "gloss": "liberation-granting",
+     "grounds": "compound describing the mantra",
+     "morph": "compound mukti+prada; m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable indicating context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive indicating necessity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "subject of negated necessity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What certainty is asserted about the mantra's power to grant liberation?",
+   "premises": [
+    "The mantra grants liberation",
+    "No doubt is warranted in this matter",
+    "Consideration or hesitation is unnecessary"
+   ],
+   "inference": "Then the mantra grants liberation; no consideration is to be made here.",
+   "uncertainties": [],
+   "plain_english": "Then the mantra grants liberation; there is no need for doubt here."
+  },
+  {
+   "verse": 1687,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable introducing manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) √dhyai"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative prescribing practice",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun referring to the method",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "ablative with participle indicating source",
+     "morph": "pron.abl.sg"
+    },
+    {
+     "surface": "nigadataḥ",
+     "gloss": "speaking",
+     "grounds": "present participle describing the speaker",
+     "morph": "m.abl.sg.pres.part √gad"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative request",
+     "morph": "2.sg.act.imp √śru"
+    }
+   ],
+   "question": "What instruction does Śaṃkara offer regarding the method of mantra recitation?",
+   "premises": [
+    "Śaṃkara is about to explain the method",
+    "The method involves meditation before recitation",
+    "Pārvatī is asked to listen"
+   ],
+   "inference": "Hear from me as I explain how one should meditate and then recite the mantra.",
+   "uncertainties": [],
+   "plain_english": "Hear from me as I speak: how one should meditate and then recite the mantra."
+  },
+  {
+   "verse": 1688,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "object of teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-shall-tell",
+     "grounds": "future tense indicating intention",
+     "morph": "1.sg.act.fut √vac"
+    },
+    {
+     "surface": "mahā+īśāni",
+     "gloss": "great-goddess",
+     "grounds": "compound vocative addressing Pārvatī",
+     "morph": "compound mahā+īśānī; f.voc.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental indicating sequence",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "hita+kāmyayā",
+     "gloss": "welfare-desiring",
+     "grounds": "compound instrumental expressing motive",
+     "morph": "compound hita+kāmyā; f.ins.sg"
+    }
+   ],
+   "question": "With what intention and manner will Śaṃkara teach the meditation?",
+   "premises": [
+    "Śaṃkara will teach the meditation",
+    "The teaching will proceed in order",
+    "The motive is desire for welfare"
+   ],
+   "inference": "Śaṃkara will tell the meditation in order, desiring welfare, O great goddess.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, I shall tell you the meditation in order, desiring your welfare."
+  },
+  {
+   "verse": 1689,
+   "rows": [
+    {
+     "surface": "siddhi+pradaṃ",
+     "gloss": "success-granting",
+     "grounds": "compound describing the meditation",
+     "morph": "compound siddhi+prada; n.acc.sg"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "genitive indicating beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhaktānāṃ",
+     "gloss": "of-devotees",
+     "grounds": "genitive indicating beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "cintita+pradam",
+     "gloss": "desired-granting",
+     "grounds": "compound describing fulfillment of wishes",
+     "morph": "compound cintita+prada; n.acc.sg"
+    }
+   ],
+   "question": "What benefits does the prescribed meditation confer upon practitioners and devotees?",
+   "premises": [
+    "The meditation grants success",
+    "It benefits practitioners and devotees",
+    "It grants what is desired"
+   ],
+   "inference": "The meditation grants success and fulfills the desires of practitioners and devotees.",
+   "uncertainties": [],
+   "plain_english": "It grants success to practitioners and devotees, and fulfills what they desire."
+  },
+  {
+   "verse": 1690,
+   "rows": [
+    {
+     "surface": "aprakāśyaṃ",
+     "gloss": "not-to-be-revealed",
+     "grounds": "gerundive indicating secrecy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective emphasizing highest degree",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "adjective indicating hidden nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive prohibiting transmission",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya+kasyacit",
+     "gloss": "to-whomsoever",
+     "grounds": "compound indefinite pronoun indicating anyone",
+     "morph": "compound yasya+kasyacit; pron.dat.sg"
+    }
+   ],
+   "question": "What restriction governs the transmission of this supreme secret?",
+   "premises": [
+    "The teaching is supreme and secret",
+    "It must not be revealed",
+    "It must not be given to just anyone"
+   ],
+   "inference": "This supreme secret must not be revealed and must not be given to whomsoever.",
+   "uncertainties": [],
+   "plain_english": "This supreme secret is not to be revealed and must not be given to just anyone."
+  },
+  {
+   "verse": 1691,
+   "rows": [
+    {
+     "surface": "vasu+pradaḥ",
+     "gloss": "wealth-granting",
+     "grounds": "compound describing the result",
+     "morph": "compound vasu+prada; m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing potential result",
+     "morph": "3.sg.act.opt √as"
+    }
+   ],
+   "question": "What material benefit may result from this practice?",
+   "premises": [
+    "The practice yields a tangible benefit",
+    "The benefit is the granting of wealth"
+   ],
+   "inference": "The practice should be wealth-granting.",
+   "uncertainties": [
+    "The subject is implicit and may refer to the mantra or the practice."
+   ],
+   "plain_english": "It should be a grantor of wealth."
+  },
+  {
+   "verse": 1692,
+   "rows": [
+    {
+     "surface": "bali+naivedya+bhuk",
+     "gloss": "offering-oblation-eating",
+     "grounds": "compound describing one who receives offerings",
+     "morph": "compound bali+naivedya+bhuj; m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "visibly",
+     "grounds": "indeclinable indicating direct manifestation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bṛhaspatiḥ",
+     "gloss": "Bṛhaspati",
+     "grounds": "name of the deity of wisdom",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva+aparaḥ",
+     "gloss": "like-another",
+     "grounds": "compound with indeclinable iva forming comparison",
+     "morph": "compound iva+apara; m.nom.sg"
+    }
+   ],
+   "question": "What divine equivalence is attained by one who receives the prescribed offerings?",
+   "premises": [
+    "The practitioner receives offerings and oblations",
+    "The practitioner becomes visibly manifest",
+    "The practitioner is compared to another Bṛhaspati"
+   ],
+   "inference": "Receiving offerings and oblations, one becomes visibly like another Bṛhaspati.",
+   "uncertainties": [
+    "The subject is implicit; it may refer to the deity or the accomplished practitioner."
+   ],
+   "plain_english": "Receiving offerings and oblations, one becomes visibly like another Bṛhaspati."
+  },
+  {
+   "verse": 1693,
+   "rows": [
+    {
+     "surface": "māsa+trayeṇa",
+     "gloss": "in-three-months",
+     "grounds": "compound instrumental indicating duration",
+     "morph": "compound māsa+traya; n.ins.sg"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "continually",
+     "grounds": "indeclinable indicating continuity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaviḥ",
+     "gloss": "poet",
+     "grounds": "predicate indicating attained status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphasizing certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun negated to assert certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What poetic attainment is guaranteed within three months of continual practice?",
+   "premises": [
+    "Continual practice is performed for three months",
+    "The practitioner becomes a poet",
+    "There is no doubt about this result"
+   ],
+   "inference": "By continual practice for three months, one indeed becomes a poet; there is no doubt.",
+   "uncertainties": [],
+   "plain_english": "By continual practice for three months, one indeed becomes a poet; there is no doubt."
+  },
+  {
+   "verse": 1694,
+   "rows": [
+    {
+     "surface": "yantre",
+     "gloss": "on-diagram",
+     "grounds": "locative indicating surface for writing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be written",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt √likh"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable indicating repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequential ritual procedure combines writing and reciting the mantra?",
+   "premises": [
+    "The mantra should first be written on a diagram",
+    "Afterwards the mantra should be recited",
+    "The recitation is performed again"
+   ],
+   "inference": "One should first write the mantra on a diagram, and afterwards recite the mantra again.",
+   "uncertainties": [],
+   "plain_english": "One should first write the mantra on a diagram, and afterwards recite the mantra again."
+  },
+  {
+   "verse": 1695,
+   "rows": [
+    {
+     "surface": "nirjanaṃ",
+     "gloss": "solitary",
+     "grounds": "adjective describing the place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "object of approach",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āgatya",
+     "gloss": "having-approached",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) ā+√gam"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "mat+mantram",
+     "gloss": "my-mantra",
+     "grounds": "compound indicating the mantra taught by the speaker",
+     "morph": "compound mad+mantra; m.acc.sg"
+    },
+    {
+     "surface": "adhaḥ+mukhaḥ",
+     "gloss": "face-downward",
+     "grounds": "compound describing posture",
+     "morph": "compound adhas+mukha; m.nom.sg"
+    }
+   ],
+   "question": "Where and in what posture should the practitioner recite the mantra?",
+   "premises": [
+    "The practitioner should go to a solitary place",
+    "The mantra to be recited is the speaker's mantra",
+    "The recitation should be done with face downward"
+   ],
+   "inference": "Having gone to a solitary place, one should recite my mantra with face downward.",
+   "uncertainties": [],
+   "plain_english": "Having gone to a solitary place, one should recite my mantra with face downward."
+  },
+  {
+   "verse": 1696,
+   "rows": [
+    {
+     "surface": "aṣṭa+adhikaiḥ",
+     "gloss": "with-eight-more",
+     "grounds": "compound indicating a number increased by eight",
+     "morph": "compound aṣṭa+adhika; m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) sam+√pūj"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-crossroads",
+     "grounds": "locative indicating place of recitation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What preparatory worship and location are prescribed for reciting the mantra?",
+   "premises": [
+    "Worship is performed with eight additional elements",
+    "The mantra is recited after worship",
+    "The recitation takes place at a crossroads"
+   ],
+   "inference": "Having worshipped with eight more, one should recite the mantra at a crossroads.",
+   "uncertainties": [
+    "The referent of 'eight more' is unspecified in this verse."
+   ],
+   "plain_english": "Having performed worship with eight additional offerings, one should recite the mantra at a crossroads."
+  },
+  {
+   "verse": 1697,
+   "rows": [
+    {
+     "surface": "bṛhaspati+samaḥ",
+     "gloss": "Bṛhaspati-equal",
+     "grounds": "compound expressing equivalence in speech",
+     "morph": "compound bṛhaspati+sama; m.nom.sg"
+    },
+    {
+     "surface": "vaktā",
+     "gloss": "speaker",
+     "grounds": "noun indicating one who speaks",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable indicating context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive indicating necessity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "subject of negated necessity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What eloquence is assured to the practitioner without any doubt?",
+   "premises": [
+    "The practitioner becomes a speaker equal to Bṛhaspati",
+    "This result is certain",
+    "No consideration or doubt is needed"
+   ],
+   "inference": "One becomes a speaker equal to Bṛhaspati; no consideration is to be made here.",
+   "uncertainties": [],
+   "plain_english": "One becomes a speaker equal to Bṛhaspati; there is no need for doubt here."
+  },
+  {
+   "verse": 1698,
+   "rows": [
+    {
+     "surface": "tri+muṇḍam",
+     "gloss": "three-skulls",
+     "grounds": "compound naming a ritual object",
+     "morph": "compound tri+muṇḍa; n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "vikhyātaṃ",
+     "gloss": "famous",
+     "grounds": "past participle describing renown",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "genitive indicating beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sukha+āvaham",
+     "gloss": "happiness-bringing",
+     "grounds": "compound describing the effect",
+     "morph": "compound sukha+āvaha; n.nom.sg"
+    }
+   ],
+   "question": "What ritual object is renowned for bringing happiness to practitioners?",
+   "premises": [
+    "The object is the three-skulls",
+    "It is famous",
+    "It brings happiness to practitioners"
+   ],
+   "inference": "This famous three-skulls brings happiness to practitioners.",
+   "uncertainties": [
+    "The exact ritual nature of tri+muṇḍam is not specified in this verse."
+   ],
+   "plain_english": "This famous three-skulls brings happiness to practitioners."
+  },
+  {
+   "verse": 1699,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative indicating position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivā+muṇḍaṃ",
+     "gloss": "Śivā-skull",
+     "grounds": "compound naming a ritual object",
+     "morph": "compound śivā+muṇḍa; n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "object of performance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt sam+ā+√car"
+    }
+   ],
+   "question": "What ritual placement and action are prescribed involving the Śivā-skull?",
+   "premises": [
+    "A Śivā-skull is to be placed on the right",
+    "The placement is done as a preparatory act",
+    "Worship should be performed thereafter"
+   ],
+   "inference": "Having placed the Śivā-skull on the right, one should perform worship.",
+   "uncertainties": [
+    "The precise identity or preparation of śivā+muṇḍaṃ is not specified in this verse."
+   ],
+   "plain_english": "Having placed the Śivā-skull on the right, one should perform worship."
+  }
+ ]
+}

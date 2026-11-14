@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction to perform worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "pūrvavaktraḥ",
+     "gloss": "east-facing",
+     "grounds": "specifies the worshipper's orientation during worship",
+     "morph": "m.nom.sg (compound pūrva+vaktra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaḍguṇa",
+     "gloss": "six-quality",
+     "grounds": "first member of compound describing Śiva's attributes",
+     "morph": "ṣaṣ+guṇa (compound)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "qualifies Śiva as possessing the six qualities",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What orientation and divine attributes are required when worshipping Śiva?",
+   "premises": [
+    "The worshipper should perform worship.",
+    "The worshipper must face east.",
+    "Śiva is to be worshipped as endowed with six qualities."
+   ],
+   "inference": "Therefore, Śiva should be worshipped while facing east in the form endowed with six qualities.",
+   "uncertainties": [
+    "The specific six qualities (ṣaḍguṇa) are not enumerated in this verse."
+   ],
+   "plain_english": "Facing east, one should worship Śiva endowed with the six qualities."
+  }
+ ]
+}

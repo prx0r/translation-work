@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "pūraṇīyāni",
+     "gloss": "to-be-filled",
+     "grounds": "gerundive indicating obligation to fill; agrees with dalāni",
+     "morph": "gerundive.n.nom.pl"
+    },
+    {
+     "surface": "raktena",
+     "gloss": "with-red",
+     "grounds": "instrumental of substance or color used for filling",
+     "morph": "adj.n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle restricting or stressing the specified substance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dalāni",
+     "gloss": "petals",
+     "grounds": "parts of the constructed diagram mentioned in prior context",
+     "morph": "n.n.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the filling instruction to the petals",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what substance must the petals of the diagram be filled?",
+   "premises": [
+    "The petals (dalāni) are designated as items to be filled (pūraṇīyāni).",
+    "The specified filling substance is red (raktena).",
+    "The particles eva and api emphasize that this filling applies to the petals as well."
+   ],
+   "inference": "Therefore, the petals must also be filled with red.",
+   "uncertainties": [
+    "Whether raktena refers specifically to red pigment, red powder, or another red substance is not specified."
+   ],
+   "plain_english": "The petals also are indeed to be filled with red."
+  }
+ ]
+}

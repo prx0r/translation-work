@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "brāhmaṇādicaturvarṇān",
+     "gloss": "brahmin-etc-four-classes",
+     "grounds": "compound denoting the four social classes beginning with brahmins; object of installation",
+     "morph": "compound.acc.pl.masc"
+    },
+    {
+     "surface": "mārgeṇānena",
+     "gloss": "by-this-method",
+     "grounds": "instrumental phrase indicating the prescribed procedure",
+     "morph": "mārga: m.instr.sg + anena: pron.instr.sg.masc"
+    },
+    {
+     "surface": "veśayet",
+     "gloss": "should-install",
+     "grounds": "causative verb enjoining the act of seating or installing",
+     "morph": "caus.opt.act.3.sg (√viś)"
+    }
+   ],
+   "question": "By what prescribed method should the four social classes beginning with brahmins be installed?",
+   "premises": [
+    "The four social classes beginning with brahmins are the objects to be installed.",
+    "A specific method has been previously described in this context.",
+    "The ritual act requires causing these classes to be seated or installed."
+   ],
+   "inference": "Therefore, one should install the four social classes beginning with brahmins by this prescribed method.",
+   "uncertainties": [],
+   "plain_english": "One should install the four classes, beginning with the brahmins, by this same method."
+  }
+ ]
+}

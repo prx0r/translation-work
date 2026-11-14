@@ -1,0 +1,155 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun saḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "indeclinable paraṃ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "niṣkalaṃ",
+     "gloss": "partless",
+     "grounds": "adjective niṣkala",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "eternal",
+     "grounds": "adjective nitya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nirāmaya+nirañjanam",
+     "gloss": "free-from-disease-stainless",
+     "grounds": "compound nirāmaya-nirañjana",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who is the supreme partless eternal being free from disease and stainless?",
+   "premises": [
+    "Supreme partless eternal being is described.",
+    "Freedom from disease and stainlessness are attributed.",
+    "The being is identified as he."
+   ],
+   "inference": "The supreme being is partless, eternal, and stainless.",
+   "uncertainties": [
+    "Compound gloss is approximate."
+   ],
+   "plain_english": "He is supreme, partless, eternal, free from disease, and stainless."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun saḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvaḥ",
+     "gloss": "soul",
+     "grounds": "noun jīva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parataro",
+     "gloss": "more-supreme",
+     "grounds": "comparative adjective paratara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun yas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun saḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haṃsaḥ",
+     "gloss": "haṃsa",
+     "grounds": "noun haṃsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakti+pudgalaḥ",
+     "gloss": "power-individual",
+     "grounds": "compound śakti-pudgala",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is the more supreme soul called haṃsa and power-individual?",
+   "premises": [
+    "The soul is called more supreme.",
+    "The soul is identified as haṃsa.",
+    "Haṃsa is a power-individual."
+   ],
+   "inference": "The haṃsa soul is the more supreme power-individual.",
+   "uncertainties": [
+    "Comparative force of parataro is approximate."
+   ],
+   "plain_english": "He is the soul, the more supreme haṃsa, a power-individual."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "samīra+pūrako",
+     "gloss": "wind-filled",
+     "grounds": "compound samīra-pūraka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "air",
+     "grounds": "noun vāyu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+jīveṣu",
+     "gloss": "in-all-beings",
+     "grounds": "compound sarva-jīva locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "situated",
+     "grounds": "participle saṃsthita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the wind-filled air situated among all beings?",
+   "premises": [
+    "Wind-filled air is mentioned.",
+    "It is situated in all beings.",
+    "The beings are plural."
+   ],
+   "inference": "The wind-filled air is situated in all beings.",
+   "uncertainties": [
+    "Neuter agreement of saṃsthitam is approximate."
+   ],
+   "plain_english": "The wind-filled air is situated in all beings."
+  }
+ ]
+}

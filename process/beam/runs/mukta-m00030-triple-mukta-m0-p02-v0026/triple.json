@@ -1,0 +1,1683 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "pālanaṃ",
+     "gloss": "protection",
+     "grounds": "act of protecting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaiṣṇavī",
+     "gloss": "vaiṣṇavī",
+     "grounds": "goddess Vaiṣṇavī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative or epithet",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "god Viṣṇu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who truly performs the act of protection, Vaiṣṇavī or Viṣṇu?",
+   "premises": [
+    "Protection is attributed to Vaiṣṇavī",
+    "Viṣṇu never performs protection"
+   ],
+   "inference": "The power of protection belongs to the goddess Vaiṣṇavī, not to Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "O goddess, Vaiṣṇavī performs protection, but Viṣṇu never does."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "rudrāṇī",
+     "gloss": "rudrāṇī",
+     "grounds": "goddess Rudrāṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "does, accomplishes",
+     "morph": "3.sg.middle-present (√kṛ)"
+    },
+    {
+     "surface": "grāsaṃ",
+     "gloss": "devouring",
+     "grounds": "act of swallowing or consuming",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "god Rudra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who truly performs the act of devouring, Rudrāṇī or Rudra?",
+   "premises": [
+    "Devouring is attributed to Rudrāṇī",
+    "Rudra never performs devouring"
+   ],
+   "inference": "The power of devouring belongs to the goddess Rudrāṇī, not to Rudra.",
+   "uncertainties": [],
+   "plain_english": "Rudrāṇī performs devouring, but Rudra never does."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahmā",
+     "grounds": "god Brahmā",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "god Viṣṇu",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "maheśa",
+     "gloss": "maheśa",
+     "grounds": "great lord, Śiva",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "ādyā",
+     "gloss": "and-others",
+     "grounds": "beginning with, et cetera",
+     "morph": "m.nom.pl (compound-final)"
+    },
+    {
+     "surface": "jaḍāḥ",
+     "gloss": "inert",
+     "grounds": "insentient, without independent power",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "proclaimed, taught",
+     "morph": "m.nom.pl.past-passive-participle (pra-√kīrt)"
+    }
+   ],
+   "question": "What is the true nature of Brahmā, Viṣṇu, Maheśa, and others?",
+   "premises": [
+    "Brahmā, Viṣṇu, Maheśa and others are named",
+    "They are declared to be inert"
+   ],
+   "inference": "Brahmā, Viṣṇu, Maheśa, and similar deities are indeed inert.",
+   "uncertainties": [],
+   "plain_english": "Brahmā, Viṣṇu, Maheśa, and others are indeed declared to be inert."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "dharma",
+     "gloss": "dharma",
+     "grounds": "righteousness, duty",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "adharma",
+     "gloss": "adharma",
+     "grounds": "unrighteousness",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "beginning with, etc.",
+     "morph": "n.acc.sg (compound-final)"
+    },
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "since, from which reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "does, enacts",
+     "morph": "3.sg.middle-present (√kṛ)"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "spiritual practitioner",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "uttamaḥ",
+     "gloss": "supreme",
+     "grounds": "best, highest",
+     "morph": "m.nom.sg (compound-final)"
+    }
+   ],
+   "question": "Why does the supreme practitioner engage in dharma, adharma, and related acts?",
+   "premises": [
+    "Dharma, adharma and similar acts are mentioned",
+    "The supreme practitioner performs them"
+   ],
+   "inference": "The supreme practitioner performs dharma, adharma, and such acts for a specific reason.",
+   "uncertainties": [
+    "The causal force of yasmāt may connect to preceding or following context."
+   ],
+   "plain_english": "Because the supreme practitioner performs dharma, adharma, and so forth."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "saṃpradāya",
+     "gloss": "tradition",
+     "grounds": "lineage, transmitted teaching",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-method",
+     "grounds": "according to prescribed rule",
+     "morph": "n.inst.sg (compound-final)"
+    },
+    {
+     "surface": "kartavyañ",
+     "gloss": "to-be-done",
+     "grounds": "should be performed",
+     "morph": "n.nom.sg.future-passive-participle (√kṛ)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what method should the prescribed actions be performed, O Maheśvarī?",
+   "premises": [
+    "Actions are to be done",
+    "They must follow the method of tradition"
+   ],
+   "inference": "The prescribed actions should be performed according to the traditional method.",
+   "uncertainties": [],
+   "plain_english": "O Maheśvarī, it should be done according to the method of the tradition."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun, feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "kṛṣṇā",
+     "grounds": "the dark goddess, Kṛṣṇā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇas",
+     "gloss": "kṛṣṇa",
+     "grounds": "the dark god, Kṛṣṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "god Brahmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "proclaimed, taught",
+     "morph": "m.nom.sg.past-passive-participle (pra-√kīrt)"
+    }
+   ],
+   "question": "What identity is declared between Kṛṣṇā, Kṛṣṇa, and Brahmā?",
+   "premises": [
+    "She who is Kṛṣṇā is identified as Kṛṣṇa",
+    "The same is likewise declared as Brahmā"
+   ],
+   "inference": "Kṛṣṇā, Kṛṣṇa, and Brahmā are declared to be the same.",
+   "uncertainties": [],
+   "plain_english": "She who is Kṛṣṇā is indeed Kṛṣṇa, and is likewise declared to be Brahmā."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "vibhinnaṃ",
+     "gloss": "different",
+     "grounds": "separate, distinct",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cintayed",
+     "gloss": "thinks",
+     "grounds": "conceives, imagines",
+     "morph": "3.sg.active-optative (√cint)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūḍha",
+     "gloss": "deluded",
+     "grounds": "confused, foolish",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "mind, understanding",
+     "morph": "m.nom.sg (compound-final)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "one who commits sin",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the spiritual status of one who conceives Kṛṣṇā and Kṛṣṇa as different?",
+   "premises": [
+    "Someone thinks them to be different",
+    "Such a person has a deluded intellect"
+   ],
+   "inference": "One who conceives them as different is a sinner with deluded intellect.",
+   "uncertainties": [],
+   "plain_english": "But whoever, with deluded intellect, thinks them to be different is a sinner."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "abhedañ",
+     "gloss": "non-difference",
+     "grounds": "identity, absence of distinction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "cintayed",
+     "gloss": "thinks",
+     "grounds": "conceives, realizes",
+     "morph": "3.sg.active-optative (√cint)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogī",
+     "grounds": "accomplished practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the spiritual status of one who conceives Kṛṣṇā and Kṛṣṇa as non-different?",
+   "premises": [
+    "Someone thinks them to be non-different",
+    "There is no doubt about this matter"
+   ],
+   "inference": "One who conceives them as non-different is a yogī, without doubt.",
+   "uncertainties": [],
+   "plain_english": "But whoever thinks them to be non-different is a yogī; there is no doubt about this."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "vaṃśī",
+     "gloss": "flute",
+     "grounds": "bamboo flute",
+     "morph": "f.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "nāda",
+     "gloss": "sound",
+     "grounds": "resonance, tone",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "vinodena",
+     "gloss": "by-delight",
+     "grounds": "through charming play",
+     "morph": "m.inst.sg (compound-final)"
+    },
+    {
+     "surface": "mohayaty",
+     "gloss": "enchants",
+     "grounds": "bewilders, captivates",
+     "morph": "3.sg.active-present (√muh, causative)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "akhilaṃ",
+     "gloss": "entire",
+     "grounds": "whole, all",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "universe",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does the delight of the flute's sound affect the entire world?",
+   "premises": [
+    "There is delight from the flute's sound",
+    "The entire world is enchanted by it"
+   ],
+   "inference": "The charming sound of the flute enchants the entire world.",
+   "uncertainties": [],
+   "plain_english": "By the delight of the flute's sound, he enchants the entire world."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "in the Kali Yuga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "kṛṣṇa",
+     "grounds": "Kṛṣṇa",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "state",
+     "grounds": "state of being, -hood",
+     "morph": "n.acc.sg (compound-final)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-attained",
+     "grounds": "having reached, assumed",
+     "morph": "(gerund, ā-√sad)"
+    },
+    {
+     "surface": "śuklā",
+     "gloss": "white",
+     "grounds": "bright, fair",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "even, though",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīla",
+     "gloss": "blue",
+     "grounds": "dark blue",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "rūpiṇī",
+     "gloss": "having-form",
+     "grounds": "possessing the form of",
+     "morph": "f.nom.sg (compound-final)"
+    }
+   ],
+   "question": "What form does the goddess assume upon attaining Kṛṣṇa-hood in the Kali age?",
+   "premises": [
+    "In the Kali age Kṛṣṇa-hood is attained",
+    "Though white, she takes a blue form"
+   ],
+   "inference": "In the Kali age, having attained Kṛṣṇa-hood, she appears in a blue form though originally white.",
+   "uncertainties": [],
+   "plain_english": "In the Kali age, having attained the state of Kṛṣṇa, though white, she takes on a blue form."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "tārakatvāt",
+     "gloss": "because-of-saving",
+     "grounds": "due to being a savior",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "eternally",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tārā",
+     "gloss": "tārā",
+     "grounds": "the savior goddess Tārā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāriṇī",
+     "gloss": "tāriṇī",
+     "grounds": "she who carries across",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "so, as such",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "proclaimed, known as",
+     "morph": "f.nom.sg.past-passive-participle (pra-√kīrt)"
+    }
+   ],
+   "question": "Why is the goddess declared to be Tārā and Tāriṇī?",
+   "premises": [
+    "She saves or carries across",
+    "Because of this saving nature she is named Tārā and Tāriṇī"
+   ],
+   "inference": "Because she always saves, she is declared to be Tārā and Tāriṇī.",
+   "uncertainties": [],
+   "plain_english": "Because she always saves, she is declared to be Tārā and Tāriṇī."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "sṛṣṭi",
+     "gloss": "creation",
+     "grounds": "emanation, creation",
+     "morph": "f.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "sthiti",
+     "gloss": "preservation",
+     "grounds": "maintenance, sustenance",
+     "morph": "f.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "karī",
+     "gloss": "making",
+     "grounds": "performing, causing",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśī",
+     "gloss": "bhuvaneśī",
+     "grounds": "lady of the worlds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "is spoken of as",
+     "morph": "3.sg.passive-present (√kath)"
+    }
+   ],
+   "question": "Why is the goddess called Bhuvaneśī in relation to cosmic functions?",
+   "premises": [
+    "The goddess performs creation and preservation",
+    "She is called Bhuvaneśī"
+   ],
+   "inference": "Because she creates and preserves, the goddess is called Bhuvaneśī.",
+   "uncertainties": [],
+   "plain_english": "The goddess who performs creation and preservation is called Bhuvaneśī."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "nirguṇā",
+     "gloss": "without-qualities",
+     "grounds": "beyond attributes",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "the great goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśī",
+     "gloss": "ṣoḍaśī",
+     "grounds": "the sixteen-year-old goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "proclaimed, renowned as",
+     "morph": "f.nom.sg.past-passive-participle (pari-√kīrt)"
+    }
+   ],
+   "question": "By what name is the attributeless great goddess declared to be known?",
+   "premises": [
+    "The great goddess is without qualities",
+    "She is declared to be Ṣoḍaśī"
+   ],
+   "inference": "The attributeless great goddess is declared to be Ṣoḍaśī.",
+   "uncertainties": [],
+   "plain_english": "And the attributeless great goddess is declared to be Ṣoḍaśī."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "kāla",
+     "gloss": "kāla",
+     "grounds": "time, death",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "bhairava",
+     "grounds": "Bhairava",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "bhāryā",
+     "gloss": "wife",
+     "grounds": "consort",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "goddess Bhairavī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "proclaimed, renowned as",
+     "morph": "f.nom.sg.past-passive-participle (pari-√kīrt)"
+    }
+   ],
+   "question": "What identity is declared for the consort of Kālabhairava?",
+   "premises": [
+    "She is the consort of Kālabhairava",
+    "She is declared to be Bhairavī"
+   ],
+   "inference": "The consort of Kālabhairava is declared to be Bhairavī.",
+   "uncertainties": [],
+   "plain_english": "And the consort of Kālabhairava is declared to be Bhairavī."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "threefold",
+     "morph": "(stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "guṇā",
+     "gloss": "qualities",
+     "grounds": "the three guṇas",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "the great goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mohinī",
+     "gloss": "mohinī",
+     "grounds": "the enchantress",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "release, freedom",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giver",
+     "grounds": "bestower",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assuredly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What powers are attributed to the three-guṇa great goddess Mohinī?",
+   "premises": [
+    "The great goddess possesses the three guṇas and is Mohinī",
+    "She is certainly the giver of liberation"
+   ],
+   "inference": "The three-guṇa great goddess Mohinī certainly grants liberation.",
+   "uncertainties": [],
+   "plain_english": "And the great goddess, possessing the three qualities as Mohinī, certainly gives liberation."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "dhūma",
+     "gloss": "smoke",
+     "grounds": "smoke",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "rupā",
+     "gloss": "form",
+     "grounds": "having the form of",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "the great goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "fourfold",
+     "morph": "(stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "varga",
+     "gloss": "goals",
+     "grounds": "the four aims of life",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "pradāyinī",
+     "gloss": "giver",
+     "grounds": "bestower",
+     "morph": "f.nom.sg (compound-final)"
+    }
+   ],
+   "question": "What boons does the smoke-formed great goddess bestow upon devotees?",
+   "premises": [
+    "The great goddess has a smoke form",
+    "She bestows the four goals of life"
+   ],
+   "inference": "The smoke-formed great goddess grants the four aims of human life.",
+   "uncertainties": [],
+   "plain_english": "The great goddess in smoke form is the giver of the four goals of life."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "vakāre",
+     "gloss": "in-syllable-va",
+     "grounds": "in the letter va",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāruṇī",
+     "gloss": "vāruṇī",
+     "grounds": "goddess Vāruṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gakāre",
+     "gloss": "in-syllable-ga",
+     "grounds": "in the letter ga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "siddhi",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giver",
+     "grounds": "bestower",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "known, taught as",
+     "morph": "f.nom.sg.past-passive-participle (√smṛ)"
+    }
+   ],
+   "question": "Which goddesses are associated with the syllables va and ga?",
+   "premises": [
+    "In the syllable va the goddess is Vāruṇī",
+    "In the syllable ga she is remembered as the giver of siddhi"
+   ],
+   "inference": "Vāruṇī resides in va and the giver of siddhi resides in ga.",
+   "uncertainties": [],
+   "plain_english": "In the syllable va is the goddess Vāruṇī, and in the syllable ga she is remembered as the giver of siddhi."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "mātaṅgī",
+     "gloss": "mātaṅgī",
+     "grounds": "goddess Mātaṅgī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mada",
+     "gloss": "intoxication",
+     "grounds": "passion, exhilaration",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "śīlatvān",
+     "gloss": "by-nature",
+     "grounds": "due to having the nature of",
+     "morph": "n.abl.sg (compound-final)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "mataṅga",
+     "gloss": "mataṅga",
+     "grounds": "demon Mataṅga",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "āsura",
+     "gloss": "demon",
+     "grounds": "demonic being",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "nāśinī",
+     "gloss": "slayer",
+     "grounds": "destroyer",
+     "morph": "f.nom.sg (compound-final)"
+    }
+   ],
+   "question": "Why is Mātaṅgī known as the destroyer of the demon Mataṅga?",
+   "premises": [
+    "Mātaṅgī has an intoxicated nature",
+    "She is the destroyer of the demon Mataṅga"
+   ],
+   "inference": "Due to her nature, Mātaṅgī is known as the slayer of the demon Mataṅga.",
+   "uncertainties": [],
+   "plain_english": "Mātaṅgī, by her nature of intoxication, is the destroyer of the demon Mataṅga."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "vaikuṇṭha",
+     "gloss": "vaikuṇṭha",
+     "grounds": "abode of Viṣṇu",
+     "morph": "m.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "vāsinī",
+     "gloss": "dwelling",
+     "grounds": "residing in",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kamalā",
+     "gloss": "kamalā",
+     "grounds": "goddess Kamalā, Lakṣmī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "proclaimed, known as",
+     "morph": "f.nom.sg.past-passive-participle (pra-√kīrt)"
+    }
+   ],
+   "question": "By what name is the goddess dwelling in Vaikuṇṭha declared to be known?",
+   "premises": [
+    "The goddess dwells in Vaikuṇṭha",
+    "She is declared to be Kamalā"
+   ],
+   "inference": "The goddess who dwells in Vaikuṇṭha is declared to be Kamalā.",
+   "uncertainties": [],
+   "plain_english": "The goddess dwelling in Vaikuṇṭha is declared to be Kamalā."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "etādaśa",
+     "gloss": "these-ten",
+     "grounds": "these ten",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "supreme",
+     "morph": "f.nom.pl (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "vidyāḥ",
+     "gloss": "vidyās",
+     "grounds": "mantric knowledges, goddesses",
+     "morph": "f.nom.pl (compound-final)"
+    },
+    {
+     "surface": "siddha",
+     "gloss": "accomplished",
+     "grounds": "perfected",
+     "morph": "f.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "mantric knowledge",
+     "morph": "f.nom.sg (compound-final)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "is spoken of as",
+     "morph": "3.sg.passive-present (√kath)"
+    }
+   ],
+   "question": "How are these ten great vidyās collectively characterized in the teaching?",
+   "premises": [
+    "These ten are great vidyās",
+    "They are called accomplished vidyā"
+   ],
+   "inference": "These ten great vidyās are called accomplished vidyās.",
+   "uncertainties": [
+    "etādaśa appears to mean 'these ten' though the form is unusual."
+   ],
+   "plain_english": "These ten great vidyās are called accomplished vidyās."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-whatever",
+     "grounds": "by whichever",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "by that",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "by-means",
+     "grounds": "by manner, method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "in the Kali Yuga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūrṇa",
+     "gloss": "full",
+     "grounds": "complete",
+     "morph": "n.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "result, reward",
+     "morph": "n.nom.sg (stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "pradā",
+     "gloss": "giver",
+     "grounds": "bestower",
+     "morph": "f.nom.sg (compound-final)"
+    }
+   ],
+   "question": "How do these vidyās grant results in the Kali age regardless of method?",
+   "premises": [
+    "In the Kali age they are invoked by whatever means",
+    "They give full fruit"
+   ],
+   "inference": "In the Kali age, by whatever means approached, they grant complete results.",
+   "uncertainties": [],
+   "plain_english": "In the Kali age, by whatever means, they grant complete fruit."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "pāṣaṇḍe",
+     "gloss": "to-heretic",
+     "grounds": "to an unbeliever",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṭhe",
+     "gloss": "to-deceiver",
+     "grounds": "to a rogue, cheat",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirguṇe",
+     "gloss": "to-unqualified",
+     "grounds": "to one lacking merit",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindake",
+     "gloss": "to-slanderer",
+     "grounds": "to one who reviles",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "To which types of unworthy persons must this teaching not be revealed?",
+   "premises": [
+    "Heretics, deceivers, the unqualified, and slanderers are listed",
+    "These are recipients to be avoided"
+   ],
+   "inference": "The teaching must not be given to heretics, deceivers, the unqualified, or slanderers.",
+   "uncertainties": [],
+   "plain_english": "To the heretic, the deceiver, the unqualified, and the slanderer."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyam",
+     "gloss": "to-be-revealed",
+     "grounds": "to be disclosed",
+     "morph": "n.nom.sg.future-passive-participle (pra-√kāś)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "this teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-dear-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śapathaṃ",
+     "gloss": "oath",
+     "grounds": "solemn vow",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "of-me",
+     "grounds": "my",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "certainly",
+     "grounds": "assuredly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What injunction is given regarding the disclosure of this teaching?",
+   "premises": [
+    "This teaching must not be revealed",
+    "It is bound by a solemn oath"
+   ],
+   "inference": "This teaching must never be revealed; this is a firm oath.",
+   "uncertainties": [],
+   "plain_english": "O dear one, this must not be revealed; this is my firm oath, always."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "āsāñ",
+     "gloss": "of-these",
+     "grounds": "of these vidyās",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samā",
+     "gloss": "equal",
+     "grounds": "equivalent, comparable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "exists",
+     "morph": "3.sg.active-present (√as)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "sandhi connector",
+     "morph": "(sandhi)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "exists",
+     "morph": "3.sg.active-present (√as)"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "threefold",
+     "morph": "(stem)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "bhuvane",
+     "gloss": "in-world",
+     "grounds": "in the worlds",
+     "morph": "n.loc.sg (compound-final)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assuredly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is claimed about the supremacy of these vidyās in the three worlds?",
+   "premises": [
+    "No equal to these vidyās exists",
+    "This is affirmed for the three worlds"
+   ],
+   "inference": "There is certainly no equal to these vidyās in the three worlds.",
+   "uncertainties": [],
+   "plain_english": "There is no equal to these, there is none, certainly in the three worlds."
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p351",
+ "items": [
+  {
+   "verse": 8775,
+   "rows": [
+    {
+     "surface": "go+kṣīra+dhāma+dhavalaṃ",
+     "gloss": "white-as-cow-milk-abode",
+     "grounds": "compound adjective: go (cow) + kṣīra (milk) + dhāma (abode) + dhavala (white)",
+     "morph": "compound adj; m.acc.sg"
+    },
+    {
+     "surface": "pañca+vaktraṃ",
+     "gloss": "five-faced",
+     "grounds": "compound adjective: pañca (five) + vaktra (face)",
+     "morph": "compound adj; m.acc.sg"
+    },
+    {
+     "surface": "tri+locanam",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective: tri (three) + locana (eye)",
+     "morph": "compound adj; m.acc.sg"
+    }
+   ],
+   "question": "What visual attributes characterize the deity invoked by this mantra?",
+   "premises": [
+    "The deity is white like the abode of cow's milk.",
+    "The deity possesses five faces.",
+    "The deity possesses three eyes."
+   ],
+   "inference": "The invoked deity is visualized as milk-white, five-faced, and three-eyed.",
+   "uncertainties": [],
+   "plain_english": "White as the abode of cow's milk, five-faced, and three-eyed."
+  }
+ ]
+}

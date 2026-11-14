@@ -1,6 +1,6 @@
 # MCP.md — shastra MCP: translation-work as callable tools
 
-*2026-11-08. Server: `mcp_server.py` v3.4.7 (FastMCP stdio, **17 tools**). Registered as
+*2026-11-12. Server: `mcp_server.py` v3.5.0 (FastMCP stdio, **38 tools**). Registered as
 `shastra` in `~/.config/opencode/opencode.jsonc` — restart opencode to load.
 This file is the complete manual: concepts, lanes, every tool with WHEN and
 worked examples, the autonomous loop, troubleshooting, and boundaries. The law
@@ -12,7 +12,7 @@ acting. On any conflict between this file and the skills, the skills win
 
 1. Concepts — DUMB/SMART/scripts, machine-proposed, the layers
 2. Skills — the law, and how to load it
-3. Tool reference — all 17 tools: purpose, args, returns, WHEN, example
+3. Tool reference — all 38 tools: purpose, args, returns, WHEN, example
 4. Standard flows — small work, large work, autonomy (with worked sessions)
 5. Decision trees — which lane, which tool next
 6. Troubleshooting — symptoms, causes, fixes
@@ -65,6 +65,7 @@ waived. Full gold adds the 7-part C1 + rasa + L3 + L4.
 |---|---|---|
 | `crystal-ipvv` (or `crystal`) | `skills/crystal-ipvv/SKILL.md` + `EXAMPLES.md` | Before ANY translation act: the 11-step drill, layer contracts, per-layer prompts with good/bad exhibits, gates, one-work-at-a-time |
 | `largetext` (or `large`) | `skills/largetext/SKILL.md` + `EXAMPLES.md` | Before ANY swarm act: DUMB/SMART split, transmission briefs, window rule (≤60 verses), size routing, calibration benchmarks, autonomy loop, factory porting |
+| `proof` | `skills/proof/SKILL.md` (no EXAMPLES) | Before citing any proof gate or asking ChatGPT to trust one: what a proof is, how each check is computed, verify-it-yourself recipe, exact trust scope and limits |
 
 `shastra.skill` serves both texts verbatim (truncated at 12k chars each —
 read the files directly for the full text). Also canonical: `FINAL-PROCESS.md`
@@ -114,6 +115,10 @@ return [] — look it up elsewhere, never invent. This is legwork support for
 the assessor's morphology, not a promotion path.
 
 ### `skill(name)` — read. The law, verbatim.
+
+`crystal-ipvv`, `largetext`, or `proof` (the proof standard: what a gate
+means, how it is computed, and why to trust it — point ChatGPT here before
+it cites any PASS).
 
 ### `swarm_seed(work, song, group=24)` — queue-only. Idempotent.
 
@@ -205,6 +210,101 @@ touches meaning). `task_id` reviews one specific task; omit to sweep. Off by
 default in ralph (`RALPH_BEAM_REVIEW=0`) so it does not steal quota from the
 drafters; turn on when the tier is quiet. Logs every verdict to
 `process/beam/assessor-reviews.jsonl`.
+
+### `bibliography(catalog?, title?, q?)` — read. The final bibliography base layer.
+
+Baseline 2026-11-12 Muktabodha coverage package, staged as first-class corpus
+files. No args → `paths()` (where it lives). `catalog`/`title` → one work
+(editions, has_translation, availability join). `q` → substring search.
+Full manual: `BIBLIOGRAPHY.md`. Read-only.
+
+```json
+{"catalog": "M00031"}
+{"q": "kularnava"}
+{}
+```
+
+### `priority(limit=20, untranslated_only=true)` — read. Ranked translation order.
+
+Burn queue from the final bibliography: untranslated first, shortest first
+within T; machine-complete/in-progress sink. T from burn_research/editions
+first, then curated FAMOUS + work_state. Returns `burn_rank`, `catalog`,
+`title`, `verses`, `T`, `T_why`, `edition_count`. Does **not** seed — pick a
+row, then `recon` → `swarm_seed` (or hand-draft).
+
+```json
+{"limit": 10}
+{"limit": 50, "untranslated_only": false}
+```
+
+### `schema()` / `stats()` / `works()` / `editions()` / `links()` / `availability()` — read. Full bibliography browse.
+
+The complete query surface over the final baseline (see `BIBLIOGRAPHY.md`):
+
+| Tool | Key args | Returns |
+|---|---|---|
+| `schema()` | — | every data structure: fields, types, values, paths |
+| `stats()` | — | 499 rows / 213 positives / 294 editions / coverage / domains |
+| `works()` | `has_translation`, `language`, `min/max_verses`, `limit`, `offset` | filtered work list |
+| `editions()` | `catalog`, `language`, `tier`, `downloadable_only` | translation links |
+| `links()` | `catalog`, `domain`, `edition_related` | 718 catalog↔URL with roles |
+| `availability()` | `catalog`, `work`, `language`, `coverage`, `missing` | 743-work index |
+
+```
+{"has_translation": "false", "limit": 20}       # works() — untranslated
+{"catalog": "M00031"}                            # editions() — translation links
+{"edition_related": "true", "limit": 50}         # links()
+{"coverage": "none", "limit": 30}                # availability()
+```
+
+### `serve_status(work="")` / `make_readable(work="", all=false, publish=false)` — prove + expose.
+
+The ChatGPT-readability lane (see `PROVE-EXPOSE.md`). `serve_status` is a
+read-only scorecard per work: `audited` (hash-verified source), `proj_src`
+(the scholar-projection `source_verses` count — the single condition for
+`scholar__passage_evidence` to serve it), plus `traces`/`verify`/`claims`.
+`make_readable` is the deterministic button: audits source → runs
+`emit_scholar` (writes `svread/data/scholar/<work>.json`) → reports
+served/blocked; `publish=true` then runs the svread publish chain
+(traces→verify→claim→discovery→release_manifest). Unaudited works are
+**BLOCKED**, never served. No beam, no model calls.
+
+```json
+{"work": "tantrasara-a13"}
+{"all": true, "publish": true}
+```
+
+### `shastra.quota()` — beam keys + 429 + worker state (overnight knob).
+
+Read-only. Reports **how many Go keys are loaded** (TWO zero-price accounts,
+`OPENCODE_GO_KEY` + `OPENCODE_GO_KEY_BAK`, session-hash rotation), which
+models are **parked after a 429** (and seconds left), live **worker slots**,
+**PAUSED**, and disk headroom. Policy it reports: a 429 **fails over to the
+other key first**; only if both 429 does the model park 30 min (shared
+`model_health.json`, all workers agree) and the harness set `PAUSED` until
+the tier recovers. Use this to see headroom before raising workers.
+
+```json
+{}
+```
+
+### `shastra.health()` — one-call loop + quality + progress report.
+
+The ChatGPT daily driver. Combines, read-only: live queue/workers
+(`progress`), gate state (`validate_all --quick`), served/total readability
+KPI (cached `serve_summary.json` + its age), unreviewed DONE triples, and
+recent assessor verdict tallies. Watch `served/total` and any gate failure.
+
+```json
+{}
+```
+
+### `shastra.audit_align(work="", all=false)` — prove-everything classifier.
+
+Read-only. Replays each BLOCKED song's exact B3 comparison and classifies
+every sub-0.90 verse as sandhi-only (with the joint named) or
+needs-human-eyes (with the diff). Never writes dispositions. The assessor
+reviews the list, records honest dispositions, re-proofs.
 
 ### Review console (CLI, not an MCP tool) — `tools/review_inbox.py`
 

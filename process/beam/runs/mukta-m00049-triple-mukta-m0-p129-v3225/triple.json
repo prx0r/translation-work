@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "yāmyadvāre",
+     "gloss": "at-southern-door",
+     "grounds": "compound of yāmya (southern) and dvāra (door), indicating location",
+     "morph": "yāmya+dvāra.loc.sg.nt"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-western",
+     "grounds": "qualifies an implied door/location in the western direction",
+     "morph": "paścima.loc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the southern and western locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛkāśvānandadurjayāḥ",
+     "gloss": "vṛkā-aśvā-ānanda-durjayā",
+     "grounds": "fused sequence naming four door deities to be worshipped",
+     "morph": "vṛkā+aśvā+ānanda+durjayā.nom.pl.f"
+    }
+   ],
+   "question": "Which deities are assigned for worship at the southern and western doors?",
+   "premises": [
+    "The southern door is specified as a locus of worship.",
+    "The western location is also specified as a locus of worship.",
+    "Vṛkā, Aśvā, Ānanda, and Durjayā are named as the relevant deities."
+   ],
+   "inference": "Vṛkā, Aśvā, Ānanda, and Durjayā are the deities to be worshipped at the southern and western doors.",
+   "uncertainties": [
+    "The verse does not explicitly distribute each named deity to a specific door."
+   ],
+   "plain_english": "At the southern door and at the western, the deities Vṛkā, Aśvā, Ānanda, and Durjayā are to be worshipped."
+  }
+ ]
+}

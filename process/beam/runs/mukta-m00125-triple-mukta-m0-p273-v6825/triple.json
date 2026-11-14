@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p273",
+ "items": [
+  {
+   "verse": 6825,
+   "rows": [
+    {
+     "surface": "pāntu",
+     "gloss": "may-protect",
+     "grounds": "imperative verb expressing a wish for protection",
+     "morph": "3.pl.act.imp~√pā"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object of protection",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "vasavo",
+     "gloss": "vasus",
+     "grounds": "divine group invoked as protectors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rudrā",
+     "gloss": "rudras",
+     "grounds": "divine group invoked as protectors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ādityās",
+     "gloss": "ādityas",
+     "grounds": "divine group invoked as protectors; final visarga lost in sandhi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samarudgaṇaḥ",
+     "gloss": "with-marut-host",
+     "grounds": "compound indicating accompaniment by the host of Maruts",
+     "morph": "sa+marut+gaṇa (compound, m.nom.sg)"
+    }
+   ],
+   "question": "Which divine groups are invoked to grant protection to the addressed person?",
+   "premises": [
+    "The Vasus are called upon to protect.",
+    "The Rudras are called upon to protect.",
+    "The Adityas together with the host of Maruts are called upon to protect."
+   ],
+   "inference": "Multiple divine groups collectively act as protectors of the addressed person.",
+   "uncertainties": [],
+   "plain_english": "May the Vasus, the Rudras, and the Adityas, together with the host of Maruts, protect you."
+  }
+ ]
+}

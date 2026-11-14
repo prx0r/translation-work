@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutatory indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśūlahastāya",
+     "gloss": "to-trident-in-hand",
+     "grounds": "compound triśūla+hasta, recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "umākāntāya",
+     "gloss": "to-beloved-of-umā",
+     "grounds": "compound umā+kānta, epithet identifying the deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated salutatory indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific attributes of the deity warrant repeated obeisance in this invocation?",
+   "premises": [
+    "Obeisance is expressed twice in this verse.",
+    "The recipient is characterized as holding a trident.",
+    "The recipient is identified as the beloved of Umā."
+   ],
+   "inference": "Repeated reverential salutation is directed to the trident-bearing beloved of Umā.",
+   "uncertainties": [],
+   "plain_english": "Obeisance, indeed obeisance, to the trident-handed beloved of Umā."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "kul-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "śvādiprāṇiṣu",
+     "gloss": "dog-etc-beings",
+     "grounds": "locative plural of beings from dog onward",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "sādṛśyād",
+     "gloss": "similarity",
+     "grounds": "ablative of similarity",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "ramyatvācca",
+     "gloss": "delight-and",
+     "grounds": "ablative of delight plus conjunction",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "maheśvara",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is Maheśvara called Maheśvara?",
+   "premises": [
+    "Maheśvara resembles beings from dog onward.",
+    "Delight also characterizes Maheśvara.",
+    "Therefore Maheśvara is named Maheśvara."
+   ],
+   "inference": "Maheśvara is named from resemblance and delight.",
+   "uncertainties": [
+    "Exact syntactic relation to prior verses is unclear.",
+    "The gloss of ramyatva as delight is approximate."
+   ],
+   "plain_english": "Maheśvara is so called because of his similarity to beings from the dog onward and because of delight."
+  }
+ ]
+}

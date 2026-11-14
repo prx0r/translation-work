@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "ratnodakam",
+     "gloss": "gem-water",
+     "grounds": "compound denoting water prepared with gems; nominative singular neuter",
+     "morph": "ratna+udaka (compound, n.nom.sg)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been stated",
+     "morph": "ppp.n.nom.sg (pra+√vac)"
+    },
+    {
+     "surface": "lohodakam",
+     "gloss": "metal-water",
+     "grounds": "compound denoting water prepared with metals; nominative singular neuter",
+     "morph": "loha+udaka (compound, n.nom.sg)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "from-here",
+     "grounds": "ablative adverb indicating sequence or consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "next",
+     "grounds": "adverb indicating what follows in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What designation concludes the gem-water and what preparation follows it in sequence?",
+   "premises": [
+    "The term ratnodakam names the gem-water preparation.",
+    "This gem-water preparation is declared as concluded with iti proktam.",
+    "The term lohodakam names the next preparation to be treated."
+   ],
+   "inference": "The gem-water is declared complete, and the exposition proceeds next to metal-water.",
+   "uncertainties": [
+    "The specific composition of lohodakam is not specified in this verse and depends on following verses."
+   ],
+   "plain_english": "Thus the gem-water is declared; after this comes the metal-water."
+  }
+ ]
+}

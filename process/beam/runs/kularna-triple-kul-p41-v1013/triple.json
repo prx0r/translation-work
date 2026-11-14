@@ -1,0 +1,617 @@
+{
+ "song": "kul-p41",
+ "items": [
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "legacy hint as",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatir",
+     "gloss": "movement",
+     "grounds": "legacy hint movement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyeta",
+     "gloss": "is-seen",
+     "grounds": "legacy hint is-seen",
+     "morph": "3.sg.pass-pres root dṛś"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "course",
+     "grounds": "legacy hint course",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginām",
+     "gloss": "of-yogis",
+     "grounds": "legacy hint of-yogis",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "How is the yogi's course seen?",
+   "premises": [
+    "movement is not seen",
+    "course of yogis is so"
+   ],
+   "inference": "the yogi's course remains unseen like movement",
+   "uncertainties": [
+    "exact tense of dṛśyeta"
+   ],
+   "plain_english": "As movement is not seen, so the course of yogis is not seen."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "pāmarā",
+     "gloss": "commoners",
+     "grounds": "legacy hint commoners",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "legacy hint like",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyante",
+     "gloss": "appear",
+     "grounds": "legacy hint appear",
+     "morph": "3.pl.pass-pres root dṛś"
+    },
+    {
+     "surface": "kulayoga",
+     "gloss": "kula-yoga",
+     "grounds": "legacy hint kula-yoga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśāradāḥ",
+     "gloss": "experts",
+     "grounds": "legacy hint experts",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "How do kula-yoga experts appear?",
+   "premises": [
+    "experts appear like commoners",
+    "kula-yoga experts are seen"
+   ],
+   "inference": "kula-yoga experts appear ordinary to observers",
+   "uncertainties": [
+    "number of pāmarā"
+   ],
+   "plain_english": "Kula-yoga experts appear like commoners."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcid",
+     "gloss": "anything",
+     "grounds": "legacy hint anything",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "legacy hint even",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣante",
+     "gloss": "speaks",
+     "grounds": "legacy hint speaks",
+     "morph": "3.pl.act-pres root bhāṣ"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "legacy hint yogi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pravarttate",
+     "gloss": "acts",
+     "grounds": "legacy hint acts",
+     "morph": "3.sg.act-pres root pravṛt"
+    }
+   ],
+   "question": "How does the yogi act?",
+   "premises": [
+    "nothing is spoken",
+    "yogi acts so"
+   ],
+   "inference": "the yogi acts without speaking anything",
+   "uncertainties": [
+    "subject of bhāṣante"
+   ],
+   "plain_english": "They speak nothing, and so the yogi acts."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "vaded",
+     "gloss": "speaks",
+     "grounds": "legacy hint speaks",
+     "morph": "3.sg.act-pres root vad"
+    },
+    {
+     "surface": "unmattavad",
+     "gloss": "like-mad",
+     "grounds": "legacy hint like-mad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "wise",
+     "grounds": "legacy hint wise",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulayogī",
+     "gloss": "kula-yogi",
+     "grounds": "legacy hint kula-yogi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-maheshvari",
+     "grounds": "legacy hint o-maheshvari",
+     "morph": "voc.sg"
+    }
+   ],
+   "question": "How does the wise kula-yogi speak?",
+   "premises": [
+    "wise one speaks",
+    "like a mad person"
+   ],
+   "inference": "the wise kula-yogi speaks like a mad person",
+   "uncertainties": [
+    "mood of vaded"
+   ],
+   "plain_english": "The wise kula-yogi speaks like a mad person, O Maheshvari."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "vilokya",
+     "gloss": "seeing",
+     "grounds": "legacy hint seeing",
+     "morph": "gerund root vilok"
+    },
+    {
+     "surface": "dūrato",
+     "gloss": "from-afar",
+     "grounds": "legacy hint from-afar",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "legacy hint goes",
+     "morph": "3.sg.act-pres root yā"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "legacy hint yogi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pravarttate",
+     "gloss": "acts",
+     "grounds": "legacy hint acts",
+     "morph": "3.sg.act-pres root pravṛt"
+    }
+   ],
+   "question": "How does the yogi act after seeing?",
+   "premises": [
+    "seeing from afar",
+    "yogi goes so"
+   ],
+   "inference": "the yogi acts after seeing from afar",
+   "uncertainties": [
+    "object of seeing"
+   ],
+   "plain_english": "Seeing from afar, he goes; so the yogi acts."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "nānāveśadharo",
+     "gloss": "various-garb",
+     "grounds": "legacy hint various-garb",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "legacy hint yogi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vicaret",
+     "gloss": "roams",
+     "grounds": "legacy hint roams",
+     "morph": "3.sg.act-opt root vicar"
+    },
+    {
+     "surface": "jagatītale",
+     "gloss": "on-earth",
+     "grounds": "legacy hint on-earth",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "How does the yogi roam?",
+   "premises": [
+    "yogi wears various garb",
+    "roams on earth"
+   ],
+   "inference": "the yogi roams on earth in various garb",
+   "uncertainties": [
+    "mood of vicaret"
+   ],
+   "plain_english": "The yogi in various garb roams on earth."
+  },
+  {
+   "verse": 1019,
+   "rows": [
+    {
+     "surface": "anugṛhṇan",
+     "gloss": "blessing",
+     "grounds": "legacy hint blessing",
+     "morph": "pres.part root anugrah"
+    },
+    {
+     "surface": "janān",
+     "gloss": "people",
+     "grounds": "legacy hint people",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "krīḍet",
+     "gloss": "plays",
+     "grounds": "legacy hint plays",
+     "morph": "3.sg.act-opt root krīḍ"
+    },
+    {
+     "surface": "pṛthivītale",
+     "gloss": "on-earth",
+     "grounds": "legacy hint on-earth",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What does the yogi do on earth?",
+   "premises": [
+    "blessing all people",
+    "plays on earth"
+   ],
+   "inference": "the yogi blesses all people and plays on earth",
+   "uncertainties": [
+    "mood of krīḍet"
+   ],
+   "plain_english": "Blessing all people, he plays on earth."
+  },
+  {
+   "verse": 1020,
+   "rows": [
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "legacy hint yogi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-enjoyed",
+     "grounds": "legacy hint having-enjoyed",
+     "morph": "gerund root bhuj"
+    },
+    {
+     "surface": "akhilān",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "enjoyments",
+     "grounds": "legacy hint enjoyments",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpaiḥ",
+     "gloss": "by-sins",
+     "grounds": "legacy hint by-sins",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-smeared",
+     "grounds": "legacy hint is-smeared",
+     "morph": "3.sg.pass-pres root lip"
+    }
+   ],
+   "question": "Is the yogi smeared by sins?",
+   "premises": [
+    "yogi enjoys all enjoyments",
+    "not smeared by sins"
+   ],
+   "inference": "the yogi enjoys all enjoyments yet is not smeared by sins",
+   "uncertainties": [
+    "scope of tathā"
+   ],
+   "plain_english": "The yogi, having enjoyed all enjoyments, is not smeared by sins."
+  },
+  {
+   "verse": 1021,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "legacy hint as",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nadīsnātāḥ",
+     "gloss": "bathed-in-river",
+     "grounds": "legacy hint bathed-in-river",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "legacy hint yogi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "legacy hint always",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "legacy hint pure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the yogi pure?",
+   "premises": [
+    "all bathed in river",
+    "yogi always pure"
+   ],
+   "inference": "the yogi is always pure like those bathed in a river",
+   "uncertainties": [
+    "comparison scope"
+   ],
+   "plain_english": "As all bathed in a river, so the yogi is always pure."
+  },
+  {
+   "verse": 1022,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mlecchagṛhāt",
+     "gloss": "from-mleccha-house",
+     "grounds": "legacy hint from-mleccha-house",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nādi",
+     "gloss": "water",
+     "grounds": "legacy hint water",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogihastāpītam",
+     "gloss": "yogi-hand-drawn",
+     "grounds": "legacy hint yogi-hand-drawn",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śuci",
+     "gloss": "pure",
+     "grounds": "legacy hint pure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is water from a mleccha house pure?",
+   "premises": [
+    "water from mleccha house",
+    "yogi-hand-drawn water pure"
+   ],
+   "inference": "water drawn by the yogi's hand is pure even from a mleccha house",
+   "uncertainties": [
+    "case of nādi"
+   ],
+   "plain_english": "So water from a mleccha house, drawn by the yogi's hand, is pure."
+  },
+  {
+   "verse": 1023,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-only",
+     "grounds": "legacy hint that-only",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viduṣāṃ",
+     "gloss": "of-wise",
+     "grounds": "legacy hint of-wise",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "mānyam",
+     "gloss": "honorable",
+     "grounds": "legacy hint honorable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātmano",
+     "gloss": "of-self",
+     "grounds": "legacy hint of-self",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "hitakāṅkṣiṇām",
+     "gloss": "wishing-welfare",
+     "grounds": "legacy hint wishing-welfare",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "What is honorable for the wise?",
+   "premises": [
+    "that only is honorable",
+    "for wise wishing welfare"
+   ],
+   "inference": "that alone is honorable for wise ones wishing their own welfare",
+   "uncertainties": [
+    "referent of tadeva"
+   ],
+   "plain_english": "That alone is honorable for the wise who wish their own welfare."
+  },
+  {
+   "verse": 1024,
+   "rows": [
+    {
+     "surface": "yasyām",
+     "gloss": "in-which",
+     "grounds": "legacy hint in-which",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "udeti",
+     "gloss": "rises",
+     "grounds": "legacy hint rises",
+     "morph": "3.sg.act-pres root ud-i"
+    },
+    {
+     "surface": "sūryo",
+     "gloss": "sun",
+     "grounds": "legacy hint sun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvāśā",
+     "gloss": "east",
+     "grounds": "legacy hint east",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "legacy hint is-called",
+     "morph": "3.sg.pass-pres root nigad"
+    }
+   ],
+   "question": "What is the east called?",
+   "premises": [
+    "sun rises in which",
+    "that is called east"
+   ],
+   "inference": "the direction in which the sun rises is called east",
+   "uncertainties": [
+    "gender of yasyām"
+   ],
+   "plain_english": "The direction in which the sun rises is indeed called east."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "sarvollasatantra",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "mayoktenaiva",
+     "gloss": "by-me-spoken-indeed",
+     "grounds": "fused form of mayā + uktena + eva; analyzed as one token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-path",
+     "grounds": "instrumental singular of mārga",
+     "morph": "m.instr.sg."
+    },
+    {
+     "surface": "kulakāryaṃ",
+     "gloss": "Kula-rite",
+     "grounds": "compound kulakārya in accusative singular",
+     "morph": "n.acc.sg."
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "By which path should the Kula rite be performed by the practitioner?",
+   "premises": [
+    "path is spoken by me",
+    "Kula rite should be performed",
+    "performance follows that path"
+   ],
+   "inference": "The Kula rite must be performed along the path taught by the speaker.",
+   "uncertainties": [
+    "Fused token mayoktenaiva combines mayā, uktena, and eva without splitting"
+   ],
+   "plain_english": "By the path spoken by me, one should perform the Kula rite."
+  }
+ ]
+}

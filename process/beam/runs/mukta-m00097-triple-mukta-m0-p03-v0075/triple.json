@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "etadvāhyagataṃ",
+     "gloss": "outside-this-gone",
+     "grounds": "fused sandhi form; legacy hint etad+vāhya+gataṃ; refers to what lies outside this cakra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "object to be drawn in the outer region",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "aṣṭapatraṃ",
+     "gloss": "eight-petaled",
+     "grounds": "legacy hint aṣṭa+patraṃ; describes the lotus",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "should-draw",
+     "grounds": "instructional verb directing the drawing",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What outer eight-petaled lotus must be drawn beyond this cakra?",
+   "premises": [
+    "This cakra has an outer region.",
+    "An eight-petaled lotus belongs there.",
+    "The practitioner should draw it."
+   ],
+   "inference": "The ritual diagram requires an outer eight-petaled lotus around this cakra.",
+   "uncertainties": [
+    "Exact internal sandhi of etadvāhyagataṃ is not expanded in the row.",
+    "Whether samālikhet is optative or imperative in force."
+   ],
+   "plain_english": "Outside this, one should draw an eight-petaled lotus."
+  }
+ ]
+}

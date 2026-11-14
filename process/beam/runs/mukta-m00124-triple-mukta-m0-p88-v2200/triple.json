@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "mūlabālālayoktena",
+     "gloss": "by-root-child-shrine-stated",
+     "grounds": "compound mūla-bāla-ālaya-ukta; instrumental form qualifying vidhinā",
+     "morph": "compound + inst.sg.n"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "instrumental of vidhi indicating the prescribed procedure",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "ālayanirṇayaḥ",
+     "gloss": "shrine-determination",
+     "grounds": "compound ālaya-nirṇaya; subject of the clause",
+     "morph": "compound + nom.sg.m"
+    }
+   ],
+   "question": "What prescribed procedure governs the determination of a shrine?",
+   "premises": [
+    "A method is stated for the root and child shrines.",
+    "This stated method functions as the governing procedure.",
+    "The determination of a shrine follows that procedure."
+   ],
+   "inference": "Therefore, the determination of a shrine is governed by the method stated for the root and child shrines.",
+   "uncertainties": [],
+   "plain_english": "The determination of a shrine is to be made by the method stated for the root and child shrines."
+  }
+ ]
+}

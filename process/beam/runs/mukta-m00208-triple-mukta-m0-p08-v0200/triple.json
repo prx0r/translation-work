@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "therefore",
+     "grounds": "consequential particle linking to prior argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyena",
+     "gloss": "by-another",
+     "grounds": "refers to another person or guru",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktāyāḥ",
+     "gloss": "of-enjoyed",
+     "grounds": "past passive participle of bhuj, referring to a woman",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative expressing logical consequence",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "anyaśeṣatā",
+     "gloss": "subordination-to-another",
+     "grounds": "compound: anya + śeṣa + tā, state of being remainder to another",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "Does prior enjoyment by another entail a woman's subordination to that other?",
+   "premises": [
+    "A woman may have been enjoyed by another.",
+    "Enjoyment establishes a residual bond with the enjoyer.",
+    "Such a bond implies continued subordination to that other."
+   ],
+   "inference": "Therefore, a woman already enjoyed by another would indeed remain subordinate to that other.",
+   "uncertainties": [
+    "The precise sense of bhuktāyāḥ in this ritual or doctrinal context is not fully specified."
+   ],
+   "plain_english": "For in that case, a woman who has been enjoyed by another would indeed remain subordinate to that other."
+  }
+ ]
+}

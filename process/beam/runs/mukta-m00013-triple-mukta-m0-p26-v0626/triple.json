@@ -1,0 +1,1305 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 626,
+   "rows": [
+    {
+     "surface": "hotavyaṃ",
+     "gloss": "to-be-offered",
+     "grounds": "gerundive of offering action",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "refers to earlier instruction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative particle indicating manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner should the oblation be offered?",
+   "premises": [
+    "The oblation is prescribed as to be offered.",
+    "The manner is specified as like before."
+   ],
+   "inference": "The oblation should be offered in the same manner as previously instructed.",
+   "uncertainties": [],
+   "plain_english": "It should be offered as before."
+  },
+  {
+   "verse": 627,
+   "rows": [
+    {
+     "surface": "prasādanāya",
+     "gloss": "for-propitiation",
+     "grounds": "purpose of the rite",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "hṛt",
+     "gloss": "heart",
+     "grounds": "refers to the heart mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "one's own seed syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījādyo",
+     "gloss": "beginning-with-seed",
+     "grounds": "compound describing mantra starting with seed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "number of syllables",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣaraḥ",
+     "gloss": "syllabled",
+     "grounds": "having syllables",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form does the heart mantra take for propitiation?",
+   "premises": [
+    "A mantra is used for propitiation.",
+    "It is the heart mantra beginning with one's own seed.",
+    "It consists of ten syllables."
+   ],
+   "inference": "For propitiation, the heart mantra begins with one's own seed and has ten syllables.",
+   "uncertainties": [],
+   "plain_english": "For propitiation, the heart mantra begins with one's own seed and consists of ten syllables."
+  },
+  {
+   "verse": 628,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "single syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "syllable",
+     "grounds": "unit of the mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "part of ritual assignment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "part of ritual assignment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nyāsau",
+     "gloss": "assignments",
+     "grounds": "ritual placements on hand and limbs",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completing the assignments",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "instruction for meditation",
+     "morph": "3.sg.optative-active √dhyai"
+    }
+   ],
+   "question": "What ritual actions precede meditation with the ten-syllable mantra?",
+   "premises": [
+    "Hand and limb assignments are to be performed.",
+    "These assignments are done as for a one-syllable mantra.",
+    "Meditation follows after performing them."
+   ],
+   "inference": "One should perform hand and limb assignments as for a one-syllable mantra and then meditate.",
+   "uncertainties": [],
+   "plain_english": "Having performed the hand and limb assignments as for a one-syllable mantra, one should meditate."
+  },
+  {
+   "verse": 629,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "completion of meditation",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "offerings made in the mind",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "completion of worship",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "śaṅkha",
+     "gloss": "conch",
+     "grounds": "ritual vessel",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "placement",
+     "grounds": "ritual installation of the conch",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "instruction for action",
+     "morph": "3.sg.optative-active √kṛ"
+    }
+   ],
+   "question": "What ritual step follows mental worship after meditation?",
+   "premises": [
+    "Meditation is performed in the prescribed manner.",
+    "Worship is performed with mental offerings.",
+    "Placement of the conch is then enjoined."
+   ],
+   "inference": "After meditating and worshipping mentally, one should perform the placement of the conch.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should perform the placement of the conch."
+  },
+  {
+   "verse": 630,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence after previous step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "first in a series of offerings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional offerings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "visarjanāntaṃ",
+     "gloss": "ending-with-dismissal",
+     "grounds": "concluding with ritual dismissal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "instruction to finish the rite",
+     "morph": "3.sg.causative-optative-active √āp"
+    }
+   ],
+   "question": "How far should the ritual sequence be carried after conch placement?",
+   "premises": [
+    "The rite continues after the previous step.",
+    "It begins with incense and similar offerings.",
+    "It concludes with dismissal."
+   ],
+   "inference": "One should complete the rite from incense onward through dismissal.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite beginning with incense and ending with dismissal."
+  },
+  {
+   "verse": 631,
+   "rows": [
+    {
+     "surface": "madhura",
+     "gloss": "sweet",
+     "grounds": "quality of the triad of substances",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tritayair",
+     "gloss": "with-triad",
+     "grounds": "group of three substances",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyair",
+     "gloss": "with-substances",
+     "grounds": "materials for offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "aṣṭābhir",
+     "gloss": "with-eight",
+     "grounds": "number of substances",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "īritaiḥ",
+     "gloss": "declared",
+     "grounds": "previously specified substances",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What alternative substances may be used for the offering?",
+   "premises": [
+    "Offerings may be made with substances.",
+    "One option is the sweet triad.",
+    "Another option is the eight declared substances."
+   ],
+   "inference": "The offering may be made with the sweet triad or with the eight declared substances.",
+   "uncertainties": [
+    "The specific items of the sweet triad and the eight substances are not named here."
+   ],
+   "plain_english": "Alternatively, one may use the sweet triad or the eight substances already declared."
+  },
+  {
+   "verse": 632,
+   "rows": [
+    {
+     "surface": "bījena",
+     "gloss": "with-seed-syllable",
+     "grounds": "mantric seed used in rite",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "number of limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅgakam",
+     "gloss": "limbed-rite",
+     "grounds": "six-limb ritual formation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is sufficient for forming the six-limb rite in this context?",
+   "premises": [
+    "A six-limb rite is prescribed.",
+    "The seed syllable is used.",
+    "The seed syllable alone is indicated as sufficient."
+   ],
+   "inference": "The six-limb rite is formed with the seed syllable alone.",
+   "uncertainties": [],
+   "plain_english": "The six-limb rite is formed with the seed syllable alone."
+  },
+  {
+   "verse": 633,
+   "rows": [
+    {
+     "surface": "gaṇapatiṃ",
+     "gloss": "Gaṇapati",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "instruction for worship",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "Which deity is to be worshipped in this rite?",
+   "premises": [
+    "A deity is specified as the object of worship.",
+    "The instruction is to perform worship."
+   ],
+   "inference": "One should worship Gaṇapati.",
+   "uncertainties": [],
+   "plain_english": "One should worship Gaṇapati."
+  },
+  {
+   "verse": 634,
+   "rows": [
+    {
+     "surface": "āvaraṇa",
+     "gloss": "enclosure",
+     "grounds": "surrounding circle in worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viniyogam",
+     "gloss": "application",
+     "grounds": "ritual application or procedure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "single syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "syllable",
+     "grounds": "unit of mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gaṇapati",
+     "gloss": "Gaṇapati",
+     "grounds": "deity reference",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the enclosure worship be applied for Gaṇapati?",
+   "premises": [
+    "Enclosure worship requires a specific application.",
+    "A model is provided by the one-syllable Gaṇapati practice."
+   ],
+   "inference": "The application of enclosure worship should follow the model of the one-syllable Gaṇapati.",
+   "uncertainties": [],
+   "plain_english": "The application of the enclosure worship should be done as for the one-syllable Gaṇapati."
+  },
+  {
+   "verse": 635,
+   "rows": [
+    {
+     "surface": "trimadhura",
+     "gloss": "sweet-triad",
+     "grounds": "three sweet substances",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yukta",
+     "gloss": "joined",
+     "grounds": "combined with",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "haridrā",
+     "gloss": "turmeric",
+     "grounds": "substance used in mixture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cūrṇa",
+     "gloss": "powder",
+     "grounds": "powdered form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "miśritais",
+     "gloss": "mixed-with",
+     "grounds": "combined together",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "taṇḍulair",
+     "gloss": "with-rice-grains",
+     "grounds": "oblation material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ayuta",
+     "gloss": "ten-thousand",
+     "grounds": "number of oblations",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What materials and quantity are prescribed for the fire oblation?",
+   "premises": [
+    "A fire oblation is prescribed.",
+    "The oblation uses rice grains mixed with turmeric powder and the sweet triad.",
+    "The number of oblations is ten thousand."
+   ],
+   "inference": "One should perform ten thousand fire oblations with rice grains mixed with turmeric powder and the sweet triad.",
+   "uncertainties": [],
+   "plain_english": "The oblation consists of ten thousand offerings of rice grains mixed with turmeric powder and the sweet triad."
+  },
+  {
+   "verse": 636,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "single syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣarī",
+     "gloss": "syllabled",
+     "grounds": "having one syllable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "emphatic qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viyā",
+     "gloss": "knowledge",
+     "grounds": "mantric knowledge; form of vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "taught or stated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padma",
+     "gloss": "Padma",
+     "grounds": "name element of teacher",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yoginā",
+     "gloss": "by-yogin",
+     "grounds": "teacher Padmayogin",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "Who declared the one-syllable great knowledge mantra?",
+   "premises": [
+    "A one-syllable great knowledge is mentioned.",
+    "It is said to have been declared.",
+    "Padmayogin is named as the declarer."
+   ],
+   "inference": "The one-syllable great knowledge was declared by Padmayogin.",
+   "uncertainties": [],
+   "plain_english": "This one-syllable great knowledge was declared by Padmayogin."
+  },
+  {
+   "verse": 637,
+   "rows": [
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "part of ritual assignment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "part of ritual assignment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nyāso",
+     "gloss": "assignment",
+     "grounds": "ritual placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "number of long vowels",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dīrgha",
+     "gloss": "long",
+     "grounds": "long vowel forms",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuktena",
+     "gloss": "joined-with",
+     "grounds": "combined with",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "one's own seed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed",
+     "grounds": "seed syllable used",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "How is the hand and limb assignment performed for this knowledge?",
+   "premises": [
+    "A hand and limb assignment is prescribed.",
+    "It uses one's own seed syllable.",
+    "The seed is joined with the six long vowels."
+   ],
+   "inference": "The hand and limb assignment is performed with one's own seed joined with the six long vowels.",
+   "uncertainties": [],
+   "plain_english": "But the hand and limb assignment is done with one's own seed joined with the six long vowels."
+  },
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karādyāṃ",
+     "gloss": "beginning-with-kara",
+     "grounds": "starting with the syllable kara",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "emphatic qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "mantric knowledge",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "one's own seed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījādikāṃ",
+     "gloss": "beginning-with-seed",
+     "grounds": "starting with one's own seed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the initial structure of the great knowledge mantra described here?",
+   "premises": [
+    "The mantra begins with oṃ.",
+    "It begins with kara and likewise with one's own seed.",
+    "It is identified as the great knowledge."
+   ],
+   "inference": "The great knowledge mantra begins with oṃ, starts with kara, and likewise begins with one's own seed.",
+   "uncertainties": [
+    "The exact syntactic relation of karādyāṃ and nijabījādikāṃ is compressed."
+   ],
+   "plain_english": "Likewise, the great knowledge begins with oṃ, begins with kara, and begins with one's own seed."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "number of syllables",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "mantric syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātmikā",
+     "gloss": "consisting-of",
+     "grounds": "composed of",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "mantric knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "refers to svāhā, consort of fire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jāyā",
+     "gloss": "consort",
+     "grounds": "refers to svāhā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vadhiḥ",
+     "gloss": "ending-with",
+     "grounds": "terminating in",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the composition and ending of the knowledge addressed to the beloved?",
+   "premises": [
+    "The knowledge consists of four syllables.",
+    "It ends with the consort of fire.",
+    "The teaching is addressed to the beloved."
+   ],
+   "inference": "The knowledge consists of four syllables and ends with svāhā, O beloved.",
+   "uncertainties": [],
+   "plain_english": "O beloved, this knowledge consists of four syllables and ends with the consort of fire (svāhā)."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "etāsāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to the preceding knowledges",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "worship and related rites",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "qualifier of Gaṇapati mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gaṇapati",
+     "gloss": "Gaṇapati",
+     "grounds": "deity name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should worship and related rites be performed for these knowledges?",
+   "premises": [
+    "These knowledges require worship and related rites.",
+    "A model is provided by the great Gaṇapati mantra practice."
+   ],
+   "inference": "For these knowledges, worship and related rites should be performed as for the great Gaṇapati mantra.",
+   "uncertainties": [],
+   "plain_english": "The worship and so forth for these should be done as for the great Gaṇapati mantra."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "yasyāḥ",
+     "gloss": "of-whom",
+     "grounds": "refers to the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kaṭa",
+     "gloss": "sidelong",
+     "grounds": "part of glance expression",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣa",
+     "gloss": "glance",
+     "grounds": "look from the corner of the eye",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere",
+     "grounds": "by mere occurrence",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "trai",
+     "gloss": "three",
+     "grounds": "three worlds",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lokyam",
+     "gloss": "worlds",
+     "grounds": "the three worlds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varddhate",
+     "gloss": "increases",
+     "grounds": "grows or prospers",
+     "morph": "3.sg.present-middle √vṛdh"
+    }
+   ],
+   "question": "What effect does the goddess's mere sidelong glance have on the three worlds?",
+   "premises": [
+    "The goddess possesses a sidelong glance.",
+    "Even a mere instance of that glance is effective.",
+    "The three worlds are affected by it."
+   ],
+   "inference": "By the mere sidelong glance of the goddess, even the three worlds prosper.",
+   "uncertainties": [],
+   "plain_english": "By whose mere sidelong glance even the three worlds prosper."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śriyo",
+     "gloss": "of-Śrī",
+     "grounds": "goddess Śrī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-goddess",
+     "grounds": "the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality of desires",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "wishes or aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "result or fulfillment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradam",
+     "gloss": "giving",
+     "grounds": "bestowing",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What power is attributed to this seed of the goddess Śrī?",
+   "premises": [
+    "This is identified as the seed of the goddess Śrī.",
+    "It is described as giving fruit.",
+    "The fruit encompasses all desires."
+   ],
+   "inference": "This seed of the goddess Śrī grants the fulfillment of all desires.",
+   "uncertainties": [],
+   "plain_english": "This is the seed of the goddess Śrī, granting the fulfillment of all desires."
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "vyuṣṭir",
+     "gloss": "manifestation",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "utkṛṣṭir",
+     "gloss": "excellence",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṛddhiś",
+     "gloss": "prosperity",
+     "grounds": "name of a power; sandhi form of ṛddhiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samproktā",
+     "gloss": "declared",
+     "grounds": "stated as",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "number of powers",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "divine powers",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many powers are declared and which ones are named here?",
+   "premises": [
+    "Powers are declared in this context.",
+    "The total number is nine.",
+    "Manifestation, excellence, and prosperity are named among them."
+   ],
+   "inference": "Manifestation, excellence, and prosperity are declared among the nine powers.",
+   "uncertainties": [
+    "Only three of the nine powers are explicitly named in this verse."
+   ],
+   "plain_english": "Manifestation, excellence, and prosperity are declared as among the nine powers."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual limbs",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dīrgha",
+     "gloss": "long-vowels",
+     "grounds": "long vowel forms",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuktena",
+     "gloss": "joined-with",
+     "grounds": "combined with",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ramā",
+     "gloss": "Ramā",
+     "grounds": "seed of Lakṣmī/Ramā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed",
+     "grounds": "seed syllable",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-form",
+     "grounds": "instruction to construct ritually",
+     "morph": "3.sg.optative-active √kḷp"
+    }
+   ],
+   "question": "How should the ritual limbs be formed for the Ramā seed?",
+   "premises": [
+    "Ritual limbs are to be formed.",
+    "The Ramā seed is used.",
+    "It is joined with long vowels."
+   ],
+   "inference": "One should form the limbs with the Ramā seed joined with long vowels.",
+   "uncertainties": [],
+   "plain_english": "One should form the limbs with the Ramā seed joined with the long vowels."
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence after previous step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "first in a series of offerings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional offerings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "visarjanānta",
+     "gloss": "ending-with-dismissal",
+     "grounds": "concluding with ritual dismissal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "instruction to finish the rite",
+     "morph": "3.sg.causative-optative-active √āp"
+    }
+   ],
+   "question": "What concluding sequence is prescribed after forming the limbs?",
+   "premises": [
+    "The rite continues after forming the limbs.",
+    "It begins with incense and similar offerings.",
+    "It concludes with dismissal."
+   ],
+   "inference": "One should complete the rite from incense onward through dismissal.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite beginning with incense and ending with dismissal."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "vilvaiḥ",
+     "gloss": "with-bilva",
+     "grounds": "bilva tree products",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "phalair",
+     "gloss": "with-fruits",
+     "grounds": "fruits used as oblations",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "instruction for fire offering",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "tribhir",
+     "gloss": "with-three",
+     "grounds": "three substances",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "ritual practitioner",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uttama",
+     "gloss": "best",
+     "grounds": "vocative address to excellent practitioner",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What oblation materials may the best practitioner use in the fire rite?",
+   "premises": [
+    "A fire offering is prescribed.",
+    "One option is bilva fruits.",
+    "Another option is three substances."
+   ],
+   "inference": "The best practitioner may offer bilva fruits or the three substances.",
+   "uncertainties": [
+    "The identity of the three substances is not specified here."
+   ],
+   "plain_english": "O best of practitioners, one should offer oblations with bilva fruits or with the three substances."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "number of syllables",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "mantric syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātmako",
+     "gloss": "consisting-of",
+     "grounds": "composed of",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "four aims of life",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varga",
+     "gloss": "goals",
+     "grounds": "class of aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "result",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradaḥ",
+     "gloss": "giving",
+     "grounds": "bestowing",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What benefit is granted by the four-syllable mantra?",
+   "premises": [
+    "The mantra consists of four syllables.",
+    "It is described as giving fruit.",
+    "The fruit relates to the four goals."
+   ],
+   "inference": "The four-syllable mantra grants the fruits of the four goals.",
+   "uncertainties": [],
+   "plain_english": "The mantra consisting of four syllables grants the fruits of the four goals."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "worship and related rites",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "earlier instruction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhyam",
+     "gloss": "to-be-understood",
+     "grounds": "to be known or followed",
+     "morph": "gerundive.n.nom.sg"
+    }
+   ],
+   "question": "How should the worship and related rites of this mantra be understood?",
+   "premises": [
+    "This mantra has worship and related rites.",
+    "A prior model has been given.",
+    "The procedure is to be understood accordingly."
+   ],
+   "inference": "The worship and related rites of this mantra should be understood as before.",
+   "uncertainties": [],
+   "plain_english": "The worship and so forth for this mantra should be understood as before."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "kāṃkṣita",
+     "gloss": "desired",
+     "grounds": "fulfilling wishes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "parijāta",
+     "gloss": "pārijāta",
+     "grounds": "celestial wish-fulfilling tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "latikāṃ",
+     "gloss": "creeper",
+     "grounds": "metaphor for the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-salute",
+     "grounds": "expression of reverence",
+     "morph": "1.sg.present-middle √vand"
+    },
+    {
+     "surface": "saroja",
+     "gloss": "lotus",
+     "grounds": "seat of the goddess",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āsanām",
+     "gloss": "seated-on",
+     "grounds": "having a lotus seat",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess praised in this concluding salutation?",
+   "premises": [
+    "The goddess is addressed in salutation.",
+    "She is likened to a wish-fulfilling pārijāta creeper.",
+    "She is described as seated on a lotus."
+   ],
+   "inference": "The speaker salutes the goddess as a wish-fulfilling pārijāta creeper seated on a lotus.",
+   "uncertainties": [],
+   "plain_english": "I salute her, the wish-fulfilling pārijāta creeper, seated on a lotus."
+  }
+ ]
+}

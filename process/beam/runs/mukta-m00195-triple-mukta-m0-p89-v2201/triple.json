@@ -1,0 +1,903 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2201,
+   "rows": [
+    {
+     "surface": "mogdhi",
+     "gloss": "mogdhi",
+     "grounds": "mantra syllable as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvagūṃhi",
+     "gloss": "tvagūṃhi",
+     "grounds": "mantra syllable as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vettha",
+     "gloss": "know",
+     "grounds": "addressed to one who knows the mantra",
+     "morph": "2.sg.act-pres √vid"
+    },
+    {
+     "surface": "yathātathagūṃsvāhā",
+     "gloss": "yathātathagūṃ-svāhā",
+     "grounds": "mantra formula ending with svāhā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula is declared for ritual use?",
+   "premises": [
+    "The verse presents a sequence of mantra syllables.",
+    "The sequence concludes with the ritual utterance svāhā.",
+    "Knowledge of the formula is invoked."
+   ],
+   "inference": "The complete utterance functions as a prescribed mantra formula.",
+   "uncertainties": [
+    "The exact semantic meaning of the syllables mogdhi and tvagūṃhi is unclear."
+   ],
+   "plain_english": "Know this mantra: mogdhi, tvagūṃhi, yathātathagūṃ svāhā."
+  },
+  {
+   "verse": 2202,
+   "rows": [
+    {
+     "surface": "janmakṛtāghānāṃ",
+     "gloss": "of-birth-made-sins",
+     "grounds": "sins committed in birth; compound",
+     "morph": "compound: janma-kṛta-aghānām (m.gen.pl)"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "ritual atonement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nivāraṇam",
+     "gloss": "removal",
+     "grounds": "prevention or removal of sins",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What effect does the prescribed rite have on sins committed in birth?",
+   "premises": [
+    "Sins made in birth are specified.",
+    "Expiation is named.",
+    "Removal is named alongside expiation."
+   ],
+   "inference": "The rite serves as expiation and removal of sins committed in birth.",
+   "uncertainties": [],
+   "plain_english": "It is an expiation and removal of sins committed in birth."
+  },
+  {
+   "verse": 2203,
+   "rows": [
+    {
+     "surface": "sitāṣṭamyāṃ",
+     "gloss": "on-bright-eighth-day",
+     "grounds": "eighth day of the bright lunar fortnight",
+     "morph": "compound: sita-aṣṭamyām (f.loc.sg)"
+    },
+    {
+     "surface": "kṛtanityakriyaḥ",
+     "gloss": "having-done-daily-rites",
+     "grounds": "one who has completed daily ritual duties",
+     "morph": "compound: kṛta-nitya-kriyaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "ritually pure state",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual condition must the practitioner maintain on the bright eighth day?",
+   "premises": [
+    "The bright eighth day is specified.",
+    "Daily rites must be completed.",
+    "Purity is required."
+   ],
+   "inference": "On the bright eighth day the practitioner must be pure and have completed daily rites.",
+   "uncertainties": [],
+   "plain_english": "On the bright eighth day, one should be pure and have performed the daily rites."
+  },
+  {
+   "verse": 2204,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśyām",
+     "gloss": "on-eleventh-day",
+     "grounds": "eleventh day of the lunar fortnight",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "upoṣaṇam",
+     "gloss": "fasting",
+     "grounds": "observance of a fast",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What observance is required on the eleventh lunar day?",
+   "premises": [
+    "The eleventh day is specified.",
+    "Fasting is named as the observance."
+   ],
+   "inference": "Fasting must be observed on the eleventh day.",
+   "uncertainties": [],
+   "plain_english": "And on the eleventh day, one should fast."
+  },
+  {
+   "verse": 2205,
+   "rows": [
+    {
+     "surface": "nārāyaṇāya",
+     "gloss": "to-nārāyaṇa",
+     "grounds": "deity addressed by the mantra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sveṣṭabījādikaṃ",
+     "gloss": "with-own-desired-seed-etc",
+     "grounds": "including one's chosen seed syllable and other elements",
+     "morph": "compound: sva-iṣṭa-bīja-ādikam (m.acc.sg)"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "the mantra to be used",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "To which deity and with what elements should the mantra be directed?",
+   "premises": [
+    "Nārāyaṇa is named as the recipient.",
+    "The mantra includes one's desired seed syllable and other elements."
+   ],
+   "inference": "The practitioner should use a mantra directed to Nārāyaṇa incorporating one's chosen seed syllable and related elements.",
+   "uncertainties": [
+    "The exact additional elements indicated by ādika are not specified."
+   ],
+   "plain_english": "One should use a mantra to Nārāyaṇa that includes one's own chosen seed syllable and so on."
+  },
+  {
+   "verse": 2206,
+   "rows": [
+    {
+     "surface": "dvijocchiṣṭabhojī",
+     "gloss": "eating-twice-born-leftovers",
+     "grounds": "one who eats the remnants of a twice-born person",
+     "morph": "compound: dvija-ucchiṣṭa-bhojī (m.nom.sg)"
+    },
+    {
+     "surface": "tatsevane",
+     "gloss": "in-service-to-him",
+     "grounds": "in service to that twice-born person",
+     "morph": "compound: tat-sevane (n.loc.sg)"
+    },
+    {
+     "surface": "rataḥ",
+     "gloss": "devoted",
+     "grounds": "engaged or delighted in that service",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What conduct toward a twice-born person is prescribed for the practitioner?",
+   "premises": [
+    "Eating the leftovers of a twice-born person is mentioned.",
+    "Service to that person is mentioned.",
+    "Devotion to that service is required."
+   ],
+   "inference": "The practitioner should eat the twice-born's leftovers and remain devoted to serving him.",
+   "uncertainties": [],
+   "plain_english": "One should eat the leftovers of a twice-born person and be devoted to serving him."
+  },
+  {
+   "verse": 2207,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "comes into being or succeeds",
+     "morph": "3.sg.mid-pres √jan"
+    },
+    {
+     "surface": "pūrṇe",
+     "gloss": "when-complete",
+     "grounds": "when the recitation is completed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jape",
+     "gloss": "in-recitation",
+     "grounds": "in the mantra recitation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetpunaścaret",
+     "gloss": "if-again-should-perform",
+     "grounds": "if not, one should perform again; sandhi of cet + punaḥ + caret",
+     "morph": "compound: cet-punaḥ-caret (indecl.+indecl.+3.sg.act-opt √car)"
+    }
+   ],
+   "question": "What action must be taken if the mantra recitation is not completed successfully?",
+   "premises": [
+    "Success is linked to completion of the recitation.",
+    "A condition of non-completion is stated.",
+    "Repetition of the practice is prescribed in that case."
+   ],
+   "inference": "If the recitation is not completed, the practitioner must perform it again.",
+   "uncertainties": [],
+   "plain_english": "It succeeds when the recitation is complete; if not, one should perform it again."
+  },
+  {
+   "verse": 2208,
+   "rows": [
+    {
+     "surface": "homādyārambhadivase",
+     "gloss": "on-fire-offering-etc-beginning-day",
+     "grounds": "on the day of beginning fire offering and related rites",
+     "morph": "compound: homa-ādi-ārambha-divase (m.loc.sg)"
+    },
+    {
+     "surface": "mṛnmayaṃ",
+     "gloss": "made-of-clay",
+     "grounds": "fashioned from clay",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dṛḍham",
+     "gloss": "firm",
+     "grounds": "strong and solid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nrvraṇaṃ",
+     "gloss": "unbroken-vessel",
+     "grounds": "a vessel without cracks or wounds",
+     "morph": "compound: nṛ-vraṇam (m.acc.sg)"
+    }
+   ],
+   "question": "What kind of vessel should be prepared on the day rites like fire offering begin?",
+   "premises": [
+    "The beginning day of fire offering and related rites is specified.",
+    "A clay vessel is required.",
+    "The vessel must be firm and unbroken."
+   ],
+   "inference": "On the day of beginning the fire offering, one should prepare a firm, unbroken clay vessel.",
+   "uncertainties": [
+    "The form nrvraṇaṃ is unusual and may be a textual variant for a crackless vessel."
+   ],
+   "plain_english": "On the day of beginning the fire offering and other rites, one should prepare a firm, unbroken clay vessel."
+  },
+  {
+   "verse": 2209,
+   "rows": [
+    {
+     "surface": "tasmiṃ",
+     "gloss": "in-that",
+     "grounds": "in that vessel",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tīrthādijaṃ",
+     "gloss": "born-from-holy-place-etc",
+     "grounds": "water originating from a holy place and similar sources",
+     "morph": "compound: tīrtha-ādi-jam (n.acc.sg)"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "ritual water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "should-place",
+     "grounds": "should deposit or pour in",
+     "morph": "3.sg.act-opt √niḥ-kṣip"
+    },
+    {
+     "surface": "kalaśonmitam",
+     "gloss": "measured-by-pot",
+     "grounds": "measured to the capacity of a pot",
+     "morph": "compound: kalaśa-unmitam (n.acc.sg)"
+    }
+   ],
+   "question": "What water and in what measure should be placed into the prepared vessel?",
+   "premises": [
+    "Water from a holy place or similar source is specified.",
+    "The water is to be placed in that vessel.",
+    "The quantity is measured by a pot."
+   ],
+   "inference": "One should place pot-measured water from a holy place into that vessel.",
+   "uncertainties": [],
+   "plain_english": "In that vessel one should place water from a holy place or the like, measured by a pot."
+  },
+  {
+   "verse": 2210,
+   "rows": [
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-two",
+     "grounds": "of the two deities",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "should carry out",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "hariharārcanam",
+     "gloss": "hari-hara-worship",
+     "grounds": "worship of Hari and Hara together",
+     "morph": "compound: hari-hara-arcanam (n.acc.sg)"
+    }
+   ],
+   "question": "Whose worship must be performed in connection with the two deities named?",
+   "premises": [
+    "Two deities are indicated.",
+    "Worship of Hari and Hara is specified.",
+    "The act of worship is prescribed."
+   ],
+   "inference": "One should perform the worship of Hari and Hara.",
+   "uncertainties": [],
+   "plain_english": "And one should indeed perform the worship of Hari and Hara."
+  },
+  {
+   "verse": 2211,
+   "rows": [
+    {
+     "surface": "nārāyaṇaḥ",
+     "gloss": "nārāyaṇa",
+     "grounds": "the deity Nārāyaṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "in manifest presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apsu",
+     "gloss": "in-waters",
+     "grounds": "in the waters",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "everything",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhitam",
+     "gloss": "established",
+     "grounds": "firmly established or present",
+     "morph": "n.nom.sg past-participle √prati-ṣṭhā"
+    }
+   ],
+   "question": "What theological claim is made about Nārāyaṇa's presence in the waters?",
+   "premises": [
+    "Nārāyaṇa is named directly.",
+    "The waters are specified as the locus.",
+    "All is said to be established there."
+   ],
+   "inference": "Nārāyaṇa is directly present in the waters, and all is established in them.",
+   "uncertainties": [],
+   "plain_english": "Nārāyaṇa is directly present in the waters, and all is established there."
+  },
+  {
+   "verse": 2212,
+   "rows": [
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "the ritual water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃprārthya",
+     "gloss": "having-prayed-to",
+     "grounds": "having made a prayer to the water",
+     "morph": "indecl. absolutive √sam-pra-arth"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-offer",
+     "grounds": "should give as offering",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "handful-of-flowers",
+     "grounds": "an offering of flowers held in the hands",
+     "morph": "compound: puṣpa-añjalim (m.acc.sg)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action should follow after praying to the water?",
+   "premises": [
+    "The water is to be prayed to.",
+    "A flower offering is specified.",
+    "The offering follows the prayer."
+   ],
+   "inference": "After praying to the water, one should offer a handful of flowers.",
+   "uncertainties": [],
+   "plain_english": "Having prayed to the water, one should then offer a handful of flowers."
+  },
+  {
+   "verse": 2213,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in that manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toye",
+     "gloss": "in-water",
+     "grounds": "in the water",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dṛṣṭā",
+     "gloss": "seen",
+     "grounds": "observed or perceived",
+     "morph": "f.nom.sg past-participle √dṛś"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "the sin or impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "gone",
+     "grounds": "departed or removed",
+     "morph": "n.nom.sg past-participle √gam"
+    }
+   ],
+   "question": "What sign in the water indicates that sin has been removed?",
+   "premises": [
+    "The water is the locus of observation.",
+    "A condition is stated with if.",
+    "Sin is described as gone."
+   ],
+   "inference": "If it is seen in the water that sin has gone, the impurity is removed.",
+   "uncertainties": [
+    "The exact visible sign by which sin is seen to be gone is not specified."
+   ],
+   "plain_english": "If it is thus seen in the water that the sin has gone,"
+  },
+  {
+   "verse": 2214,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "should perform",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "yadicchā",
+     "gloss": "as-desired",
+     "grounds": "according to one's wish",
+     "morph": "compound: yad-icchā (f.nom.sg)"
+    },
+    {
+     "surface": "yātinirmalā",
+     "gloss": "gone-pure",
+     "grounds": "having become pure by that departure; reading uncertain",
+     "morph": "compound: yāti-nirmalā (f.nom.sg)"
+    }
+   ],
+   "question": "What freedom of action follows once purity has been attained?",
+   "premises": [
+    "A subsequent stage is indicated by then.",
+    "Action according to desire is permitted.",
+    "Purity is described as attained."
+   ],
+   "inference": "Once purity is attained, one may act as desired.",
+   "uncertainties": [
+    "The compound yātinirmalā is textually uncertain in meaning."
+   ],
+   "plain_english": "then, being purified, one may do as one wishes."
+  },
+  {
+   "verse": 2215,
+   "rows": [
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japtaśced",
+     "gloss": "if-recited",
+     "grounds": "if recited; sandhi of japtaḥ + cet",
+     "morph": "compound: japtaḥ-cet (m.nom.sg past-participle √jap + indecl.)"
+    },
+    {
+     "surface": "arbudākṣaram",
+     "gloss": "hundred-million-syllables",
+     "grounds": "to the count of an arbuda of syllables",
+     "morph": "compound: arbuda-akṣaram (m.nom.sg)"
+    }
+   ],
+   "question": "What quantity of mantra recitation is specified as a condition?",
+   "premises": [
+    "Recitation of the mantra is stated.",
+    "A numerical measure of syllables is given.",
+    "The measure is an arbuda."
+   ],
+   "inference": "The condition involves reciting the mantra for a hundred million syllables.",
+   "uncertainties": [],
+   "plain_english": "If the mantra is recited for a hundred million syllables,"
+  },
+  {
+   "verse": 2216,
+   "rows": [
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-gaṇeśa",
+     "grounds": "for the deity Gaṇeśa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ravestava",
+     "gloss": "of-sun-yours",
+     "grounds": "of the sun; sandhi of raveḥ + tava",
+     "morph": "compound: raveḥ-tava (m.gen.sg + pron.gen.sg)"
+    },
+    {
+     "surface": "tadardhakam",
+     "gloss": "half-of-that",
+     "grounds": "half of that amount",
+     "morph": "compound: tat-ardhakam (n.nom.sg)"
+    }
+   ],
+   "question": "What reduced recitation count applies for Gaṇeśa and the sun?",
+   "premises": [
+    "Gaṇeśa and the sun are named.",
+    "A proportion relative to the previous count is given.",
+    "The proportion is half."
+   ],
+   "inference": "For Gaṇeśa and the sun, the required recitation is half of the previously stated amount.",
+   "uncertainties": [
+    "The attachment of tava in ravestava is syntactically unclear."
+   ],
+   "plain_english": "For Gaṇeśa and for the sun, it is half of that."
+  },
+  {
+   "verse": 2217,
+   "rows": [
+    {
+     "surface": "apadaṃśas",
+     "gloss": "apadaṃśa",
+     "grounds": "a specific mantra or deity name as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half of that amount",
+     "morph": "compound: tat-ardham (n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "this teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopitam",
+     "gloss": "kept-secret",
+     "grounds": "concealed or guarded",
+     "morph": "n.nom.sg past-participle √gup"
+    }
+   ],
+   "question": "What secrecy is enjoined regarding the stated recitation rule for apadaṃśa?",
+   "premises": [
+    "Apadaṃśa is assigned half of that count.",
+    "This rule is said to apply everywhere.",
+    "The rule is described as kept secret."
+   ],
+   "inference": "The rule that apadaṃśa requires half that count is universally applicable but must be kept secret.",
+   "uncertainties": [
+    "The identity of apadaṃśa is unclear."
+   ],
+   "plain_english": "For apadaṃśa it is half of that; and this is kept secret everywhere."
+  },
+  {
+   "verse": 2218,
+   "rows": [
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "across all tantric texts",
+     "morph": "compound: sarva-tantreṣu (n.loc.pl)"
+    },
+    {
+     "surface": "devatānāṃ",
+     "gloss": "of-deities",
+     "grounds": "of the various deities",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pṛthakpṛthak",
+     "gloss": "separately-separately",
+     "grounds": "individually for each",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the rules distributed among deities across all tantric texts?",
+   "premises": [
+    "All tantras are named as the scope.",
+    "Deities are named as the subjects.",
+    "Separate treatment for each is indicated."
+   ],
+   "inference": "In all tantras, the rules are given separately for each deity.",
+   "uncertainties": [],
+   "plain_english": "In all the tantras, they are given separately for each deity."
+  },
+  {
+   "verse": 2219,
+   "rows": [
+    {
+     "surface": "māpūraṃ",
+     "gloss": "māpūra",
+     "grounds": "place name as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaṇeśamanusiddhidam",
+     "gloss": "gaṇeśa-mantra-accomplishment-giving",
+     "grounds": "granting accomplishment of the mantra of Gaṇeśa",
+     "morph": "compound: gaṇeśa-manu-siddhi-dam (n.nom.sg)"
+    }
+   ],
+   "question": "Which place is said to grant accomplishment of Gaṇeśa's mantra?",
+   "premises": [
+    "A place named Māpūra is specified.",
+    "Accomplishment of Gaṇeśa's mantra is attributed to it."
+   ],
+   "inference": "Māpūra grants accomplishment of the mantra of Gaṇeśa.",
+   "uncertainties": [
+    "The identification of Māpūra is uncertain."
+   ],
+   "plain_english": "Māpūra grants accomplishment of the mantra of Gaṇeśa."
+  },
+  {
+   "verse": 2220,
+   "rows": [
+    {
+     "surface": "yamunāyās",
+     "gloss": "of-yamunā",
+     "grounds": "of the river Yamunā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "taṭaṃ",
+     "gloss": "bank",
+     "grounds": "river bank",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāśyāṃ",
+     "gloss": "in-kāśī",
+     "grounds": "in the city of Kāśī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dineśamanusiddhidam",
+     "gloss": "sun-mantra-accomplishment-giving",
+     "grounds": "granting accomplishment of the mantra of the sun",
+     "morph": "compound: dineśa-manu-siddhi-dam (n.nom.sg)"
+    }
+   ],
+   "question": "Which location is said to grant accomplishment of the sun's mantra?",
+   "premises": [
+    "The bank of the Yamunā in Kāśī is specified.",
+    "Accomplishment of the sun's mantra is attributed to it."
+   ],
+   "inference": "The bank of the Yamunā in Kāśī grants accomplishment of the mantra of the sun.",
+   "uncertainties": [],
+   "plain_english": "The bank of the Yamunā in Kāśī grants accomplishment of the mantra of the sun."
+  },
+  {
+   "verse": 2221,
+   "rows": [
+    {
+     "surface": "gaṇḍakītīraṃ",
+     "gloss": "gaṇḍakī-bank",
+     "grounds": "the bank of the river Gaṇḍakī",
+     "morph": "compound: gaṇḍakī-tīram (n.nom.sg)"
+    },
+    {
+     "surface": "dvārakā",
+     "gloss": "dvārakā",
+     "grounds": "the city of Dvārakā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇusiddhidā",
+     "gloss": "viṣṇu-accomplishment-giving",
+     "grounds": "granting accomplishment related to Viṣṇu",
+     "morph": "compound: viṣṇu-siddhi-dā (f.nom.sg)"
+    }
+   ],
+   "question": "Which places are said to grant accomplishment related to Viṣṇu?",
+   "premises": [
+    "The bank of the Gaṇḍakī is named.",
+    "Dvārakā is named.",
+    "Both are said to grant Viṣṇu accomplishment."
+   ],
+   "inference": "The bank of the Gaṇḍakī and Dvārakā grant accomplishment related to Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "The bank of the Gaṇḍakī and Dvārakā grant accomplishment of Viṣṇu."
+  },
+  {
+   "verse": 2222,
+   "rows": [
+    {
+     "surface": "vaidyanāthaṃ",
+     "gloss": "vaidyanātha",
+     "grounds": "the sacred place Vaidyanātha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rāmeśaḥ",
+     "gloss": "rāmeśa",
+     "grounds": "the sacred place Rāmeśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivasiddhikṛt",
+     "gloss": "śiva-accomplishment-making",
+     "grounds": "bringing about accomplishment related to Śiva",
+     "morph": "compound: śiva-siddhi-kṛt (m.nom.sg)"
+    }
+   ],
+   "question": "Which sacred sites are said to bring about accomplishment related to Śiva?",
+   "premises": [
+    "Vaidyanātha is named.",
+    "Rāmeśa is named.",
+    "Both are said to produce Śiva accomplishment."
+   ],
+   "inference": "Vaidyanātha and Rāmeśa bring about accomplishment related to Śiva.",
+   "uncertainties": [],
+   "plain_english": "Vaidyanātha and Rāmeśa bring about accomplishment of Śiva."
+  },
+  {
+   "verse": 2223,
+   "rows": [
+    {
+     "surface": "sarasvatyās",
+     "gloss": "of-sarasvatī",
+     "grounds": "of the river Sarasvatī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīraṃ",
+     "gloss": "bank",
+     "grounds": "river bank",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāktaṃmantrasya+siddhikṛt",
+     "gloss": "śākta-mantra-accomplishment-making",
+     "grounds": "bringing about accomplishment of a Śākta mantra; + marks sandhi fusion point",
+     "morph": "compound: śākta-mantrasya-siddhikṛt (m.nom.sg)"
+    }
+   ],
+   "question": "Which place is said to bring about accomplishment of a Śākta mantra?",
+   "premises": [
+    "The bank of the Sarasvatī is named.",
+    "Accomplishment of a Śākta mantra is attributed to it."
+   ],
+   "inference": "The bank of the Sarasvatī brings about accomplishment of a Śākta mantra.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the bank of the Sarasvatī brings about accomplishment of a Śākta mantra."
+  },
+  {
+   "verse": 2224,
+   "rows": [
+    {
+     "surface": "aṅgavaṅgakaliṅgāś",
+     "gloss": "aṅga-vaṅga-kaliṅga",
+     "grounds": "the regions Aṅga, Vaṅga, and Kaliṅga; sandhi of -āḥ + ca in next token context",
+     "morph": "compound: aṅga-vaṅga-kaliṅgāḥ (m.nom.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudradaivatasiddhidāḥ",
+     "gloss": "minor-deity-accomplishment-giving",
+     "grounds": "granting accomplishment of minor deities",
+     "morph": "compound: kṣudra-daivata-siddhi-dāḥ (m.nom.pl)"
+    }
+   ],
+   "question": "Which regions are said to grant accomplishment of minor deities?",
+   "premises": [
+    "The regions Aṅga, Vaṅga, and Kaliṅga are named.",
+    "Accomplishment of minor deities is attributed to them."
+   ],
+   "inference": "Aṅga, Vaṅga, and Kaliṅga grant accomplishment of minor deities.",
+   "uncertainties": [],
+   "plain_english": "And Aṅga, Vaṅga, and Kaliṅga grant accomplishment of minor deities."
+  }
+ ]
+}

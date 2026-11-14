@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "vajreśvarī",
+     "gloss": "vajreshvari",
+     "grounds": "proper name of a yoginī in the list",
+     "morph": "nom.sg.fem"
+    },
+    {
+     "surface": "kṣobhiṇī",
+     "gloss": "kshobhini",
+     "grounds": "proper name of a yoginī in the list",
+     "morph": "nom.sg.fem"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the listed names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbhavī",
+     "gloss": "shambhavi",
+     "grounds": "proper name of a yoginī in the list",
+     "morph": "nom.sg.fem"
+    },
+    {
+     "surface": "syāttathā'ṇimā",
+     "gloss": "would-be-thus-anima",
+     "grounds": "fused form of syāt, tathā, and aṇimā; internal sandhi retained, not split",
+     "morph": "3.sg.act.opt+indecl+nom.sg.fem"
+    }
+   ],
+   "question": "Which yoginīs are additionally designated by the name Aṇimā?",
+   "premises": [
+    "Vajreśvarī appears among the listed yoginīs.",
+    "Kṣobhiṇī appears among the listed yoginīs.",
+    "Śāmbhavī appears among the listed yoginīs."
+   ],
+   "inference": "Vajreśvarī, Kṣobhiṇī, and Śāmbhavī are also called Aṇimā.",
+   "uncertainties": [
+    "The exact syntactic force of the fused form syāttathā'ṇimā remains unclear."
+   ],
+   "plain_english": "Vajreśvarī, Kṣobhiṇī, and Śāmbhavī are likewise called Aṇimā."
+  }
+ ]
+}

@@ -1,0 +1,1065 @@
+{
+ "song": "mukta-m0-p169",
+ "items": [
+  {
+   "verse": 4201,
+   "rows": [
+    {
+     "surface": "snapane",
+     "gloss": "in-bathing",
+     "grounds": "locative of ritual act",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yajane",
+     "gloss": "in-worship",
+     "grounds": "locative of ritual act",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhūpe",
+     "gloss": "in-incense",
+     "grounds": "locative of offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gandhapuṣpa",
+     "gloss": "sandal-and-flower",
+     "grounds": "compound of offerings",
+     "morph": "compound"
+    },
+    {
+     "surface": "nivedane",
+     "gloss": "in-food-offering",
+     "grounds": "locative of offering",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which ritual acts are enumerated as contexts for the following prescriptions?",
+   "premises": [
+    "Bathing is listed as a ritual context.",
+    "Worship, incense, sandal-and-flower, and food offering are listed.",
+    "These contexts frame subsequent ritual rules."
+   ],
+   "inference": "The prescribed rules apply in the contexts of bathing, worship, incense, sandal-and-flower, and food offering.",
+   "uncertainties": [],
+   "plain_english": "In bathing, in worship, in incense, in sandal and flowers, and in food offering."
+  },
+  {
+   "verse": 4202,
+   "rows": [
+    {
+     "surface": "prāsāda",
+     "gloss": "temple",
+     "grounds": "first member of compound series",
+     "morph": "compound"
+    },
+    {
+     "surface": "pīṭhikā",
+     "gloss": "pedestal",
+     "grounds": "second member of compound series",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādīnāṃ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "niyamo",
+     "gloss": "fixed-rule",
+     "grounds": "subject of negation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "neṣyate",
+     "gloss": "is-not-desired",
+     "grounds": "passive denial of acceptance",
+     "morph": "3.sg.pass-pres + iṣ"
+    }
+   ],
+   "question": "Are fixed rules required for temples, pedestals, and similar structures in these contexts?",
+   "premises": [
+    "Temples, pedestals, and similar items are under consideration.",
+    "A fixed rule for them is explicitly negated.",
+    "Such a rule is not accepted."
+   ],
+   "inference": "No fixed rule is accepted for temples, pedestals, and similar structures in these ritual contexts.",
+   "uncertainties": [],
+   "plain_english": "And no fixed rule is accepted for temples, pedestals, and so forth."
+  },
+  {
+   "verse": 4203,
+   "rows": [
+    {
+     "surface": "vimānaṃ",
+     "gloss": "shrine",
+     "grounds": "object to be fashioned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāṇaliṅgasya",
+     "gloss": "of-bāṇa-liṅga",
+     "grounds": "possessive relation to shrine",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-fashion",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt + kḷp"
+    },
+    {
+     "surface": "kalpavittamaḥ",
+     "gloss": "most-skilled-artisan",
+     "grounds": "agent qualified to perform action",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should fashion a shrine for the bāṇa-liṅga according to ritual prescription?",
+   "premises": [
+    "A shrine for the bāṇa-liṅga is to be made.",
+    "The action is prescribed as something that should be done.",
+    "The most skilled artisan is named as the agent."
+   ],
+   "inference": "The most skilled artisan should fashion a shrine for the bāṇa-liṅga.",
+   "uncertainties": [],
+   "plain_english": "The most skilled artisan should fashion a shrine for the bāṇa-liṅga."
+  },
+  {
+   "verse": 4204,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "color",
+     "grounds": "quality of the pedestal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt + bhū"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "subject of prescription",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāmārtha+siddhaye",
+     "gloss": "for-success-of-all-desires-and-aims",
+     "grounds": "purpose compound with internal sandhi",
+     "morph": "f.dat.sg, compound"
+    }
+   ],
+   "question": "What color should the pedestal have to accomplish all desires and aims?",
+   "premises": [
+    "The pedestal is the subject of the rule.",
+    "It should be of one color.",
+    "The purpose is the accomplishment of all desires and aims."
+   ],
+   "inference": "The pedestal should be of a single color for the accomplishment of all desires and aims.",
+   "uncertainties": [],
+   "plain_english": "The pedestal should be of one color for the accomplishment of all desires and aims."
+  },
+  {
+   "verse": 4205,
+   "rows": [
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive prescription",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khātam",
+     "gloss": "excavation",
+     "grounds": "object of prescription",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ānantu",
+     "gloss": "endless",
+     "grounds": "possible measure or quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgārddham",
+     "gloss": "half-of-liṅga",
+     "grounds": "alternative measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative or addressed agents",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What depth of excavation is prescribed for the liṅga installation, O twice-born?",
+   "premises": [
+    "An excavation is prescribed.",
+    "One option is an endless depth.",
+    "Another option is half the liṅga's measure."
+   ],
+   "inference": "The excavation should be made either endless or half the depth of the liṅga.",
+   "uncertainties": [
+    "The exact sense of ānantu as a measure is contextually ambiguous."
+   ],
+   "plain_english": "O twice-born, the excavation should be made either endless or half the depth of the liṅga."
+  },
+  {
+   "verse": 4206,
+   "rows": [
+    {
+     "surface": "satit+pravāha",
+     "gloss": "with-flowing-stream",
+     "grounds": "compound describing condition with internal sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃsthaṃ",
+     "gloss": "situated",
+     "grounds": "describes placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāṇaliṅga",
+     "gloss": "bāṇa-liṅga",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "samākṛtiḥ",
+     "gloss": "similar-form",
+     "grounds": "describes likeness",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What form and situation characterize a liṅga comparable to the bāṇa-liṅga?",
+   "premises": [
+    "The liṅga is situated with a flowing stream.",
+    "It has a form similar to the bāṇa-liṅga.",
+    "Both condition and likeness are stated together."
+   ],
+   "inference": "A liṅga situated with a flowing stream and having a form similar to the bāṇa-liṅga is described.",
+   "uncertainties": [
+    "The precise referent of satit+pravāha may depend on ritual context."
+   ],
+   "plain_english": "And it is situated with a flowing stream, having a form similar to the bāṇa-liṅga."
+  },
+  {
+   "verse": 4207,
+   "rows": [
+    {
+     "surface": "parvatādi",
+     "gloss": "mountain-and-so-forth",
+     "grounds": "source category",
+     "morph": "compound"
+    },
+    {
+     "surface": "samut+bhūtant",
+     "gloss": "arisen-from",
+     "grounds": "describes origin with internal sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadvadeva",
+     "gloss": "in-that-same-way",
+     "grounds": "comparative instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "declared",
+     "grounds": "states authoritative teaching",
+     "morph": "n.nom.sg, pass-past-part + sam-īr"
+    }
+   ],
+   "question": "How are liṅgas arising from mountains and similar sources to be understood?",
+   "premises": [
+    "Liṅgas arising from mountains and so forth are mentioned.",
+    "They are to be treated in the same way.",
+    "This is declared as authoritative."
+   ],
+   "inference": "Liṅgas arising from mountains and similar sources are declared to be treated in the same way.",
+   "uncertainties": [
+    "The exact prior referent of tadvadeva is implied by context."
+   ],
+   "plain_english": "That which arises from mountains and so forth is declared to be treated in the same way."
+  },
+  {
+   "verse": 4208,
+   "rows": [
+    {
+     "surface": "sthūlaṃ",
+     "gloss": "thick",
+     "grounds": "possible quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛśaṃ",
+     "gloss": "thin",
+     "grounds": "alternative quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāntimad",
+     "gloss": "radiant",
+     "grounds": "possible quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpa",
+     "gloss": "form",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrdhvagaḥ",
+     "gloss": "upward-going",
+     "grounds": "describes orientation or top",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What physical qualities and orientation may a suitable liṅga possess?",
+   "premises": [
+    "The liṅga may be thick or thin.",
+    "It may be radiant.",
+    "Its form may be upward-going."
+   ],
+   "inference": "A suitable liṅga may be thick or thin, radiant, and with an upward-going form.",
+   "uncertainties": [
+    "The exact sense of rūpa mūrdhvagaḥ as a compound expression is interpretive."
+   ],
+   "plain_english": "It may be thick or thin, radiant, with its form rising upward."
+  },
+  {
+   "verse": 4209,
+   "rows": [
+    {
+     "surface": "sahajaṃ",
+     "gloss": "natural",
+     "grounds": "possible origin or quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhinnaṃ",
+     "gloss": "unbroken",
+     "grounds": "alternative quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "subject being evaluated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "evaluative judgment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sayojitam",
+     "gloss": "joined",
+     "grounds": "possible condition of being fitted",
+     "morph": "n.nom.sg, pass-past-part + saṃ-yuj"
+    }
+   ],
+   "question": "Which conditions make a liṅga the best for ritual use?",
+   "premises": [
+    "The liṅga may be natural or unbroken.",
+    "It may be joined or fitted.",
+    "Such a liṅga is declared best."
+   ],
+   "inference": "A liṅga that is natural or unbroken and properly joined is considered best.",
+   "uncertainties": [
+    "The precise meaning of sayojitam in this context is somewhat ambiguous."
+   ],
+   "plain_english": "A liṅga that is natural or unbroken, and properly joined, is the best."
+  },
+  {
+   "verse": 4210,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "inclusive scope",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiteṣāṃ",
+     "gloss": "and-of-these",
+     "grounds": "refers to previously mentioned types",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pratiṣṭhādyaṃ",
+     "gloss": "installation-and-so-forth",
+     "grounds": "ritual procedures beginning with installation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement",
+     "morph": "3.sg.pass-pres + ni-gad"
+    }
+   ],
+   "question": "Do installation and related rites apply to all the previously mentioned liṅga types?",
+   "premises": [
+    "All of these types are included.",
+    "Installation and related rites are the subject.",
+    "Their application is declared."
+   ],
+   "inference": "Installation and related rites are declared for all of these liṅga types.",
+   "uncertainties": [],
+   "plain_english": "For all of these as well, installation and the related rites are declared."
+  },
+  {
+   "verse": 4211,
+   "rows": [
+    {
+     "surface": "calaliṃga",
+     "gloss": "movable-liṅga",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratiṣṭhāyāṃ",
+     "gloss": "in-installation",
+     "grounds": "ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pratimādau",
+     "gloss": "in-image-and-so-forth",
+     "grounds": "additional contexts",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamaḥ",
+     "gloss": "middle",
+     "grounds": "qualifies the procedure or standard",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What level of procedure applies to installing movable liṅgas and images?",
+   "premises": [
+    "The context is installation of movable liṅgas.",
+    "Images and similar objects are also included.",
+    "The procedure is described as middle."
+   ],
+   "inference": "In the installation of movable liṅgas and images, the middle procedure applies.",
+   "uncertainties": [
+    "Whether madhyamaḥ qualifies the rite, duration, or standard is context-dependent."
+   ],
+   "plain_english": "In the installation of a movable liṅga and in images and so forth, the middle procedure applies."
+  },
+  {
+   "verse": 4212,
+   "rows": [
+    {
+     "surface": "māsāyanarkṣavārādi",
+     "gloss": "month-solstice-star-day-and-so-forth",
+     "grounds": "compound listing time factors",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "subject of negation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-these",
+     "grounds": "refers to those contexts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "neṣyate",
+     "gloss": "is-not-desired",
+     "grounds": "passive denial of acceptance",
+     "morph": "3.sg.pass-pres + iṣ"
+    }
+   ],
+   "question": "Are rules concerning month, solstice, lunar mansion, and day required in those cases?",
+   "premises": [
+    "Time factors such as month, solstice, lunar mansion, and day are mentioned.",
+    "A rule concerning them is considered.",
+    "Such a rule is not accepted in these cases."
+   ],
+   "inference": "Rules concerning month, solstice, lunar mansion, day, and so forth are not required in those cases.",
+   "uncertainties": [],
+   "plain_english": "And in those cases, the rule regarding month, solstice, lunar mansion, day, and so forth is not accepted."
+  },
+  {
+   "verse": 4213,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "prior action",
+     "morph": "(indecl.), abs + vi-dhā"
+    },
+    {
+     "surface": "vajrabandhādyaṃ",
+     "gloss": "vajra-bond-and-so-forth",
+     "grounds": "preparatory rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpana",
+     "gloss": "installation",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt + ā-rabh"
+    }
+   ],
+   "question": "What preparatory act must precede beginning the installation rite?",
+   "premises": [
+    "The vajra-bond and related acts are to be performed first.",
+    "The installation is to be begun afterward.",
+    "The sequence is explicitly prescribed."
+   ],
+   "inference": "After performing the vajra-bond and related acts, one should begin the installation.",
+   "uncertainties": [],
+   "plain_english": "Having performed the vajra-bond and so forth, one should then begin the installation."
+  },
+  {
+   "verse": 4214,
+   "rows": [
+    {
+     "surface": "ratnanyāsantataḥ",
+     "gloss": "then-gem-deposit",
+     "grounds": "compound indicating sequence and act",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt + kṛ"
+    },
+    {
+     "surface": "navaḥ+pañcaika",
+     "gloss": "nine-or-five-or-one",
+     "grounds": "numerical alternatives with internal sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "ratnakam",
+     "gloss": "gem",
+     "grounds": "object to be deposited",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many gems should be deposited during the gem-deposit rite?",
+   "premises": [
+    "The gem-deposit rite is to be performed.",
+    "The number of gems may be nine, five, or one.",
+    "The action is prescribed."
+   ],
+   "inference": "One should then perform the gem deposit using nine, five, or one gem.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the gem deposit, using nine, five, or one gem."
+  },
+  {
+   "verse": 4215,
+   "rows": [
+    {
+     "surface": "lakṣaṇoddhāraṇa",
+     "gloss": "mark-extraction",
+     "grounds": "ritual act under consideration",
+     "morph": "compound"
+    },
+    {
+     "surface": "nneṣṭaṃ",
+     "gloss": "not-desired",
+     "grounds": "negated acceptance with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svākāro",
+     "gloss": "own-form",
+     "grounds": "inherent characteristic",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "mark",
+     "grounds": "defining characteristic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt + bhū"
+    }
+   ],
+   "question": "Is the extraction of marks required, or is the natural form sufficient as the mark?",
+   "premises": [
+    "The extraction of marks is not desired.",
+    "The object's own form is present.",
+    "That own form should serve as the mark."
+   ],
+   "inference": "Mark extraction is not required because the object's own form serves as its mark.",
+   "uncertainties": [],
+   "plain_english": "The extraction of marks is not desired; its own form should be its mark."
+  },
+  {
+   "verse": 4216,
+   "rows": [
+    {
+     "surface": "jalādhivāsanaṃ",
+     "gloss": "water-immersion",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt + kṛ"
+    },
+    {
+     "surface": "nava+pañcaika",
+     "gloss": "nine-or-five-or-one",
+     "grounds": "numerical alternatives in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṇḍakam",
+     "gloss": "basin",
+     "grounds": "vessel or pit used in rite",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many basins should be used for the water-immersion rite?",
+   "premises": [
+    "Water immersion is to be performed.",
+    "The number of basins may be nine, five, or one.",
+    "The action is prescribed."
+   ],
+   "inference": "One should perform the water immersion using nine, five, or one basin.",
+   "uncertainties": [],
+   "plain_english": "One should perform the water immersion using nine, five, or one basin."
+  },
+  {
+   "verse": 4217,
+   "rows": [
+    {
+     "surface": "vedikārahitañcait",
+     "gloss": "and-this-without-altar",
+     "grounds": "compound with sandhi describing condition",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "grahādau",
+     "gloss": "in-graha-and-so-forth",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "platform",
+     "grounds": "ritual ground",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "approved",
+     "grounds": "authoritative opinion",
+     "morph": "n.nom.sg, pass-past-part + man"
+    }
+   ],
+   "question": "What kind of ritual ground is approved in graha rites when no altar is used?",
+   "premises": [
+    "The context includes graha rites and similar cases.",
+    "The arrangement is without an altar.",
+    "A platform is approved in that case."
+   ],
+   "inference": "In graha rites and similar contexts without an altar, a platform is approved.",
+   "uncertainties": [],
+   "plain_english": "In graha rites and so forth, a platform without an altar is approved."
+  },
+  {
+   "verse": 4218,
+   "rows": [
+    {
+     "surface": "bhūparikṣā",
+     "gloss": "earth-examination",
+     "grounds": "preliminary ritual act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidheyantu",
+     "gloss": "should-be-performed",
+     "grounds": "prescriptive gerundive with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "site",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjāgni",
+     "gloss": "worship-and-fire",
+     "grounds": "compound of ritual elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "tarpaṇam",
+     "gloss": "libation",
+     "grounds": "ritual offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which preliminary rites must be performed before the main installation procedures?",
+   "premises": [
+    "Earth examination is prescribed.",
+    "Site worship, fire rites, and libation are included.",
+    "These acts should be performed."
+   ],
+   "inference": "Earth examination, site worship, fire rites, and libation should be performed as preliminary rites.",
+   "uncertainties": [
+    "The exact parsing of vidheyantu as a fused form is based on the given token."
+   ],
+   "plain_english": "Earth examination should be performed, along with site worship, fire rites, and libation."
+  },
+  {
+   "verse": 4219,
+   "rows": [
+    {
+     "surface": "jalamadhyādathānīya",
+     "gloss": "having-brought-from-water-middle",
+     "grounds": "compound describing prior action with sandhi",
+     "morph": "(indecl.), abs, compound"
+    },
+    {
+     "surface": "śuddhiṃ",
+     "gloss": "purification",
+     "grounds": "object of the action",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gavyādibhirnayet",
+     "gloss": "one-should-perform-with-cow-products-and-so-forth",
+     "grounds": "prescriptive action with instrumental means and sandhi",
+     "morph": "3.sg.act-opt + nī, compound"
+    }
+   ],
+   "question": "How should purification be performed after bringing the object from the middle of water?",
+   "premises": [
+    "The object is brought from the middle of water.",
+    "Purification is to be carried out.",
+    "Cow products and similar substances are the means."
+   ],
+   "inference": "After bringing it from the middle of water, one should perform purification with cow products and so forth.",
+   "uncertainties": [],
+   "plain_english": "Having brought it from the middle of the water, one should perform purification with cow products and so forth."
+  },
+  {
+   "verse": 4220,
+   "rows": [
+    {
+     "surface": "śayyāṃ",
+     "gloss": "bed",
+     "grounds": "object to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niveśyātha",
+     "gloss": "having-placed-then",
+     "grounds": "prior action with sequence marker and sandhi",
+     "morph": "(indecl.), abs + ni-viś"
+    },
+    {
+     "surface": "śivakuṃbhaṃ",
+     "gloss": "śiva-pot",
+     "grounds": "ritual vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanīm",
+     "gloss": "nourishing-vessel",
+     "grounds": "second ritual vessel",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What items should be placed in the middle after preparing the bed?",
+   "premises": [
+    "A bed is placed in the middle.",
+    "The Śiva pot is to be placed.",
+    "The nourishing vessel is also to be placed."
+   ],
+   "inference": "After placing the bed in the middle, one should place the Śiva pot and the nourishing vessel.",
+   "uncertainties": [],
+   "plain_english": "Having placed the bed in the middle, one should then place the Śiva pot and the nourishing vessel."
+  },
+  {
+   "verse": 4221,
+   "rows": [
+    {
+     "surface": "sahiraṇyaṃ",
+     "gloss": "with-gold",
+     "grounds": "accompaniment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "savastraṃ",
+     "gloss": "with-cloth",
+     "grounds": "accompaniment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhodaparipūritam",
+     "gloss": "filled-with-fragrant-water",
+     "grounds": "describes contents of vessel",
+     "morph": "m.acc.sg, compound"
+    }
+   ],
+   "question": "How should the ritual vessels be prepared with accompanying materials and contents?",
+   "premises": [
+    "The vessels should be accompanied by gold.",
+    "They should be accompanied by cloth.",
+    "They should be filled with fragrant water."
+   ],
+   "inference": "The vessels should be prepared with gold and cloth and filled with fragrant water.",
+   "uncertainties": [],
+   "plain_english": "They should be accompanied by gold and cloth, and filled with fragrant water."
+  },
+  {
+   "verse": 4222,
+   "rows": [
+    {
+     "surface": "mūrti",
+     "gloss": "image",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtiśvarān",
+     "gloss": "lords-of-images",
+     "grounds": "deities associated with images",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tvā",
+     "gloss": "having-invoked",
+     "grounds": "given token; function interpreted from context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpādyaivaṃ",
+     "gloss": "having-thus-prepared",
+     "grounds": "prior action with sandhi",
+     "morph": "(indecl.), abs + sam-pad"
+    },
+    {
+     "surface": "śivānalam",
+     "gloss": "śiva-fire",
+     "grounds": "ritual fire",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What must be prepared before making offerings into the Śiva fire?",
+   "premises": [
+    "The lords of the images are addressed or invoked.",
+    "The ritual setup is thus prepared.",
+    "The Śiva fire is made ready."
+   ],
+   "inference": "After invoking the lords of the images and preparing accordingly, one prepares the Śiva fire.",
+   "uncertainties": [
+    "The token tvā is morphologically unclear in this context and is interpreted functionally."
+   ],
+   "plain_english": "Having invoked the lords of the images and thus prepared everything, one prepares the Śiva fire."
+  },
+  {
+   "verse": 4223,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt + hu"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrument used in offering",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śatamaṣṭottaraṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as-prescribed",
+     "grounds": "indicates conformity to rule",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many offerings should be made into the fire with the root mantra?",
+   "premises": [
+    "Offerings into the fire are prescribed.",
+    "They are made with the root mantra.",
+    "The number is one hundred and eight."
+   ],
+   "inference": "One should offer one hundred and eight oblations with the root mantra as prescribed.",
+   "uncertainties": [],
+   "plain_english": "One should offer one hundred and eight oblations with the root mantra, as prescribed."
+  },
+  {
+   "verse": 4224,
+   "rows": [
+    {
+     "surface": "tatvatatveśvarādīnāṃ",
+     "gloss": "of-principles-and-their-lords-and-so-forth",
+     "grounds": "compound listing recipients or categories",
+     "morph": "m.gen.pl, compound"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "instruction to follow prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homam",
+     "gloss": "fire-offering",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt + ā-car"
+    }
+   ],
+   "question": "How should the fire offering for the principles and their lords be performed?",
+   "premises": [
+    "The fire offering concerns the principles, their lords, and so forth.",
+    "The method is to follow what was done before.",
+    "The performance is prescribed."
+   ],
+   "inference": "One should perform the fire offering for the principles, their lords, and so forth as before.",
+   "uncertainties": [],
+   "plain_english": "One should perform the fire offering for the principles, their lords, and so forth, as before."
+  }
+ ]
+}

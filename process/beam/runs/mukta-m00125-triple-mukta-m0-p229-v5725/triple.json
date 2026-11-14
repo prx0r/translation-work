@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p229",
+ "items": [
+  {
+   "verse": 5725,
+   "rows": [
+    {
+     "surface": "bhagīrathasya",
+     "gloss": "of-bhagiratha",
+     "grounds": "proper name Bhagiratha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūrtīśaiḥ",
+     "gloss": "with-form-lords",
+     "grounds": "compound mūrti+īśa, lords of forms",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pañcabhiśca",
+     "gloss": "and-with-five",
+     "grounds": "pañcabhiḥ + ca fused in one token",
+     "morph": "num.inst.pl + indecl."
+    },
+    {
+     "surface": "samanvitān",
+     "gloss": "accompanied",
+     "grounds": "past participle describing the gods",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which five form-lords of Bhagiratha must accompany the gods during worship?",
+   "premises": [
+    "The gods are objects of sequential worship.",
+    "The worshipped gods are accompanied by form-lords.",
+    "These accompanying form-lords are five and belong to Bhagiratha."
+   ],
+   "inference": "The worship of the gods must include accompaniment by Bhagiratha's five form-lords.",
+   "uncertainties": [
+    "The specific identities of the five mūrtīśas are not named in this verse."
+   ],
+   "plain_english": "Worship all the gods, accompanied by the five form-lords of Bhagiratha."
+  }
+ ]
+}

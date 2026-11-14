@@ -1,0 +1,1096 @@
+{
+ "song": "mukta-m0-p224",
+ "items": [
+  {
+   "verse": 5576,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces the next ritual step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvenyasellakṣmīṃ",
+     "gloss": "side-lakshmi",
+     "grounds": "name or epithet of the goddess placed at the side",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devyāssarvāṅga",
+     "gloss": "goddess-all-limbed",
+     "grounds": "compound with internal sandhi devyāḥ+sarvāṅga",
+     "morph": "compound"
+    },
+    {
+     "surface": "sundarīm",
+     "gloss": "beautiful",
+     "grounds": "qualifies the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which beautiful goddess is to be addressed next in the ritual sequence?",
+   "premises": [
+    "The word atha marks a new procedural step.",
+    "The goddess is identified as side-Lakshmi.",
+    "She is described as all-limbed and beautiful."
+   ],
+   "inference": "The next ritual focus is the beautiful all-limbed goddess Lakshmi at the side.",
+   "uncertainties": [
+    "The precise identity implied by pārśvenyasellakṣmīṃ is context-dependent."
+   ],
+   "plain_english": "Then one should attend to the beautiful, all-limbed goddess Lakshmi at the side."
+  },
+  {
+   "verse": 5577,
+   "rows": [
+    {
+     "surface": "śivādvija",
+     "gloss": "shiva-twice-born",
+     "grounds": "compound indicating a twice-born devoted to Shiva",
+     "morph": "compound"
+    },
+    {
+     "surface": "kulodbhūta",
+     "gloss": "born-in-lineage",
+     "grounds": "describes birth in a proper lineage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samadhīta",
+     "gloss": "well-studied",
+     "grounds": "indicates thorough learning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivāgamaḥ",
+     "gloss": "versed-in-shiva-scripture",
+     "grounds": "one who has studied the Shiva Agamas",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualifications must the officiating priest possess for this rite?",
+   "premises": [
+    "The priest is described as a Shiva-twice-born.",
+    "He must be born in a proper lineage.",
+    "He must be well-studied and versed in the Shiva Agamas."
+   ],
+   "inference": "The officiant must be a qualified, lineage-born, Agama-learned Shiva twice-born.",
+   "uncertainties": [],
+   "plain_english": "The officiant should be a twice-born of Shiva, born in the proper lineage, well-studied, and versed in the Shiva Agamas."
+  },
+  {
+   "verse": 5578,
+   "rows": [
+    {
+     "surface": "anena+guruṇā",
+     "gloss": "by-this-teacher",
+     "grounds": "instrumental referring to the present guru",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "diṣṭo",
+     "gloss": "instructed",
+     "grounds": "one who has been directed or authorized",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gururanyaḥ",
+     "gloss": "another-teacher",
+     "grounds": "compound with internal sandhi guruḥ+anyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasannadhīḥ",
+     "gloss": "clear-minded",
+     "grounds": "describes the mental state of the other teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What role may another teacher play when instructed by the primary guru?",
+   "premises": [
+    "Another teacher may be instructed by this guru.",
+    "That other teacher is described as clear-minded.",
+    "Instruction implies authorized participation in the rite."
+   ],
+   "inference": "A clear-minded second teacher may act when authorized by the primary guru.",
+   "uncertainties": [],
+   "plain_english": "Another clear-minded teacher, instructed by this guru, may also take part."
+  },
+  {
+   "verse": 5579,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "preparatory contemplative act",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "udakaṃ",
+     "gloss": "water",
+     "grounds": "object to be offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental of the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "karābhyāṃ",
+     "gloss": "with-both-hands",
+     "grounds": "indicates the manner of offering",
+     "morph": "m.inst.dual"
+    },
+    {
+     "surface": "karakeṇa",
+     "gloss": "with-vessel",
+     "grounds": "instrument used for pouring",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instruments or actions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should water be offered during this stage of the ritual?",
+   "premises": [
+    "The officiant should first meditate.",
+    "Water is to be given with the heart mantra.",
+    "The offering is made with both hands and a vessel."
+   ],
+   "inference": "After meditation, water should be offered with the heart mantra using both hands and a vessel.",
+   "uncertainties": [],
+   "plain_english": "Having meditated, one should offer water with the heart mantra, using both hands and a vessel."
+  },
+  {
+   "verse": 5580,
+   "rows": [
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day-declaration",
+     "grounds": "ritual proclamation of auspiciousness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācayet",
+     "gloss": "should-cause-to-recite",
+     "grounds": "prescriptive causative action",
+     "morph": "3.sg.optative-causative √vac"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkta",
+     "gloss": "hymn",
+     "grounds": "Vedic hymn to be recited",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vedadhanīnapi",
+     "gloss": "and-veda-knowers",
+     "grounds": "compound with internal sandhi veda-dhanīn+api",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What recitations should follow the water offering in the ritual?",
+   "premises": [
+    "The auspicious-day declaration is to be recited afterwards.",
+    "Those who know the Vedas should be made to recite.",
+    "Hymns are included in the recitation."
+   ],
+   "inference": "Afterwards, Veda-knowers should be made to recite the auspicious-day declaration and hymns.",
+   "uncertainties": [
+    "The exact hymns implied by sūkta are not specified."
+   ],
+   "plain_english": "Afterwards, one should have Veda-knowers recite the auspicious-day declaration and hymns."
+  },
+  {
+   "verse": 5581,
+   "rows": [
+    {
+     "surface": "guḍadugdhājya+saṃmiśraṃ",
+     "gloss": "jaggery-milk-ghee-mixed",
+     "grounds": "compound describing the mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhuparkaṃ",
+     "gloss": "honey-mixture-offering",
+     "grounds": "ritual offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental of the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "prabhoḥ",
+     "gloss": "of-the-lord",
+     "grounds": "refers to the deity receiving the offering",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What special mixture is prepared for the lord with the heart mantra?",
+   "premises": [
+    "A mixture of jaggery, milk, and ghee is prepared.",
+    "This mixture is identified as madhuparka.",
+    "It is associated with the lord and the heart mantra."
+   ],
+   "inference": "Madhuparka mixed with jaggery, milk, and ghee is prepared for the lord with the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Prepare madhuparka mixed with jaggery, milk, and ghee for the lord, using the heart mantra."
+  },
+  {
+   "verse": 5582,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive indicating prior oblation",
+     "morph": "absolutive √hu"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "number of offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyātaṃ",
+     "gloss": "counted",
+     "grounds": "specifies the counted amount",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatastvājyena",
+     "gloss": "then-with-clarified-butter",
+     "grounds": "compound with internal sandhi tataḥ+tu+ājyena",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "number of further offerings",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many oblations are prescribed with madhuparka and clarified butter?",
+   "premises": [
+    "Sixteen counted oblations are made first.",
+    "Then sixteen oblations are made with clarified butter.",
+    "The actions are sequential."
+   ],
+   "inference": "The rite requires sixteen oblations followed by sixteen more with clarified butter.",
+   "uncertainties": [
+    "The first substance is implied from the previous verse as madhuparka."
+   ],
+   "plain_english": "Having offered sixteen counted oblations, one should then offer sixteen more with clarified butter."
+  },
+  {
+   "verse": 5583,
+   "rows": [
+    {
+     "surface": "tāmbūlamapi",
+     "gloss": "betel-also",
+     "grounds": "compound with internal sandhi tāmbūlam+api",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-very",
+     "grounds": "emphatic instrumental reference",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "absolutive indicating praise",
+     "morph": "absolutive √stu"
+    },
+    {
+     "surface": "paramakāraṇam",
+     "gloss": "supreme-cause",
+     "grounds": "epithet of the deity",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering and praise are directed to the supreme cause after the oblations?",
+   "premises": [
+    "Betel is also to be offered.",
+    "The offering is made with that very mantra or means.",
+    "The supreme cause is praised."
+   ],
+   "inference": "After praising the supreme cause, betel is offered with that same means.",
+   "uncertainties": [
+    "The referent of tenaiva is implied from context."
+   ],
+   "plain_english": "Having praised the supreme cause, one should also offer betel with that very same means."
+  },
+  {
+   "verse": 5584,
+   "rows": [
+    {
+     "surface": "śivahastamiti",
+     "gloss": "as-shiva-hand",
+     "grounds": "compound with internal sandhi śiva-hastam+iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "contemplative act",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "gauryā",
+     "gloss": "of-gauri",
+     "grounds": "refers to the goddess Gauri",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental of the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "prescriptive ritual placement",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "Where and how should the Shiva-hand be ritually placed in relation to Gauri?",
+   "premises": [
+    "One meditates on it as the hand of Shiva.",
+    "The placement is in Gauri's heart.",
+    "The placement is done with the heart mantra."
+   ],
+   "inference": "Meditating on the Shiva-hand, one should place it in Gauri's heart with the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Meditating on it as the hand of Shiva, one should place it in Gauri's heart with the heart mantra."
+  },
+  {
+   "verse": 5585,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "indicates location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aśma",
+     "gloss": "stone",
+     "grounds": "ritual object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating placement",
+     "morph": "absolutive causative √sthā"
+    },
+    {
+     "surface": "śālisthaṇḍilakopari",
+     "gloss": "upon-rice-platform",
+     "grounds": "compound indicating location on a rice altar",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the stone be placed in the next step of the rite?",
+   "premises": [
+    "The action follows the previous placement.",
+    "The stone is placed on the left side.",
+    "It is set upon a platform of rice."
+   ],
+   "inference": "Then the stone should be placed on the left upon a rice platform.",
+   "uncertainties": [],
+   "plain_english": "Then, on the left side, one should place the stone upon a platform of rice."
+  },
+  {
+   "verse": 5586,
+   "rows": [
+    {
+     "surface": "saṃgṛhya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating grasping",
+     "morph": "absolutive √grah"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.optative-active √nyas"
+    },
+    {
+     "surface": "tasminnaśmanyeva",
+     "gloss": "on-that-very-stone",
+     "grounds": "compound with internal sandhi tasmin+aśmani+eva",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental of the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating guru",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who performs the placement on that very stone and by what means?",
+   "premises": [
+    "The guru takes and places the object.",
+    "The placement is on that very stone.",
+    "The action is done with the heart mantra."
+   ],
+   "inference": "The guru should take and place it on that very stone with the heart mantra.",
+   "uncertainties": [
+    "The object being placed is implied from the preceding context."
+   ],
+   "plain_english": "Having taken it, the guru should place it on that very stone with the heart mantra."
+  },
+  {
+   "verse": 5587,
+   "rows": [
+    {
+     "surface": "prāgvaddarbhasya",
+     "gloss": "as-before-of-darbha",
+     "grounds": "compound with internal sandhi prāk-vat+darbhasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hastasya",
+     "gloss": "of-hand",
+     "grounds": "refers to the hand arrangement",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kṛtvaivātha",
+     "gloss": "having-made-then",
+     "grounds": "compound with internal sandhi kṛtvā+eva+atha",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "fourfold-set",
+     "grounds": "a set of four items or actions",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What fourfold preparation must be made as before with darbha and the hand?",
+   "premises": [
+    "The action follows the previous manner.",
+    "It involves darbha and the hand.",
+    "A fourfold set is to be made."
+   ],
+   "inference": "Then, as before, a fourfold arrangement involving darbha and the hand must be made.",
+   "uncertainties": [
+    "The exact nature of the fourfold set is not specified here."
+   ],
+   "plain_english": "Then, as before, one should make the fourfold arrangement with darbha and the hand."
+  },
+  {
+   "verse": 5588,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "marks sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāgniṃ",
+     "gloss": "shiva-fire",
+     "grounds": "ritual fire identified with Shiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prajvālya",
+     "gloss": "having-kindled",
+     "grounds": "absolutive indicating lighting the fire",
+     "morph": "absolutive causative √jval"
+    },
+    {
+     "surface": "hastaistaistu",
+     "gloss": "with-those-hands",
+     "grounds": "compound with internal sandhi hastaiḥ+taiḥ+tu",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "should-cast-in",
+     "grounds": "prescriptive act of placing into the fire",
+     "morph": "3.sg.optative-active √kṣip"
+    }
+   ],
+   "question": "What action is performed with the kindled Shiva-fire using those hands?",
+   "premises": [
+    "The Shiva-fire is kindled.",
+    "The action is performed with those hands.",
+    "Something is to be cast into the fire."
+   ],
+   "inference": "After kindling the Shiva-fire, one should cast offerings into it with those hands.",
+   "uncertainties": [
+    "The object to be cast is implied from context."
+   ],
+   "plain_english": "Then, having kindled the Shiva-fire, one should cast offerings into it with those hands."
+  },
+  {
+   "verse": 5589,
+   "rows": [
+    {
+     "surface": "deśikasya",
+     "gloss": "of-teacher",
+     "grounds": "refers to the officiating teacher",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathānyasya",
+     "gloss": "and-of-another",
+     "grounds": "compound with internal sandhi tathā+anyasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṅgulīya",
+     "gloss": "ring",
+     "grounds": "ritual object associated with the hand",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kareṇa",
+     "gloss": "with-hand",
+     "grounds": "instrumental indicating the hand",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects participants or instruments",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose hands and rings are involved in this stage of the ritual?",
+   "premises": [
+    "The teacher's hand is involved.",
+    "Another person's hand is also involved.",
+    "A ring is associated with the hand."
+   ],
+   "inference": "The hands and rings of the teacher and another participant are involved.",
+   "uncertainties": [
+    "The exact syntactic role of saṅgulīya is compressed in the verse."
+   ],
+   "plain_english": "This involves the hand and ring of the teacher and likewise of another."
+  },
+  {
+   "verse": 5590,
+   "rows": [
+    {
+     "surface": "agneḥ",
+     "gloss": "of-fire",
+     "grounds": "the ritual fire",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pradakṣiṇaṃ",
+     "gloss": "circumambulation",
+     "grounds": "ritual movement around the fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating completion",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "saṃspṛsyāśma",
+     "gloss": "having-touched-stone",
+     "grounds": "compound with internal sandhi saṃspṛśya+aśma",
+     "morph": "absolutive √spṛś"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating guru",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What actions must the guru perform around the fire and the stone?",
+   "premises": [
+    "Circumambulation of the fire is performed.",
+    "The stone is touched afterwards.",
+    "The guru is the agent of these actions."
+   ],
+   "inference": "The guru should circumambulate the fire and then touch the stone.",
+   "uncertainties": [],
+   "plain_english": "Having circumambulated the fire, the guru should then touch the stone."
+  },
+  {
+   "verse": 5591,
+   "rows": [
+    {
+     "surface": "kṛtvaiva",
+     "gloss": "having-made-indeed",
+     "grounds": "compound with internal sandhi kṛtvā+eva",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "maparaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the utterance or act; form as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "compound with internal sandhi ca+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyahṛtiṃ",
+     "gloss": "sacred-utterance",
+     "grounds": "ritual utterance to be offered",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "juhuyāttataḥ",
+     "gloss": "should-offer-then",
+     "grounds": "compound with internal sandhi juhuyāt+tataḥ",
+     "morph": "3.sg.optative-active √hu"
+    }
+   ],
+   "question": "What sacred utterance should be offered after completing the preceding act?",
+   "premises": [
+    "A preceding act is completed.",
+    "A supreme sacred utterance is involved.",
+    "An oblation is to be made then."
+   ],
+   "inference": "After completing the act, one should offer the supreme sacred utterance.",
+   "uncertainties": [
+    "The exact referent of maparaṃ is unclear in this compressed form."
+   ],
+   "plain_english": "Having done that, one should then also offer the supreme sacred utterance."
+  },
+  {
+   "verse": 5592,
+   "rows": [
+    {
+     "surface": "visṛjya",
+     "gloss": "having-dismissed",
+     "grounds": "absolutive indicating ritual dismissal",
+     "morph": "absolutive √sṛj"
+    },
+    {
+     "surface": "pāvakasthaṃ",
+     "gloss": "fire-situated",
+     "grounds": "located in the fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to Shiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "shiva",
+     "grounds": "the deity invoked in the fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāṅgaṃ",
+     "gloss": "with-limbs",
+     "grounds": "together with attendant parts or limbs",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu+pūrvavat",
+     "gloss": "but-as-before",
+     "grounds": "compound indicating continuation as before",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should Shiva present in the fire be dismissed at this stage?",
+   "premises": [
+    "Shiva is present in the fire with his limbs.",
+    "The dismissal follows the previous manner.",
+    "The act is a ritual release."
+   ],
+   "inference": "Shiva, present in the fire with his limbs, should be dismissed as before.",
+   "uncertainties": [],
+   "plain_english": "Then, dismiss that Shiva with his limbs from the fire, as before."
+  },
+  {
+   "verse": 5593,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating worship",
+     "morph": "absolutive √pūj"
+    },
+    {
+     "surface": "puṣkalaiḥ",
+     "gloss": "with-abundant",
+     "grounds": "qualifies the offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "gandhapuṣpa+sragādibhiḥ",
+     "gloss": "fragrance-flower-garland-and-others",
+     "grounds": "compound listing worship materials",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "With what materials should worship be performed after the dismissal?",
+   "premises": [
+    "Worship is performed after dismissal.",
+    "The offerings are abundant.",
+    "They include fragrance, flowers, garlands, and similar items."
+   ],
+   "inference": "After dismissal, worship should be performed with abundant fragrances, flowers, garlands, and the like.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped, one should offer abundant fragrances, flowers, garlands, and other such items."
+  },
+  {
+   "verse": 5594,
+   "rows": [
+    {
+     "surface": "taddine",
+     "gloss": "on-that-day",
+     "grounds": "compound with internal sandhi tat+dine",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpare",
+     "gloss": "or-on-another",
+     "grounds": "compound with internal sandhi vā+apare",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "compound with internal sandhi vā+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divākāle",
+     "gloss": "in-daytime",
+     "grounds": "possible time for the rite",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ardharātrake",
+     "gloss": "at-midnight",
+     "grounds": "alternative time for the rite",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "At what times may the prescribed ritual actions be performed?",
+   "premises": [
+    "The rite may be done on that day or another day.",
+    "It may be performed in the daytime.",
+    "It may alternatively be performed at midnight."
+   ],
+   "inference": "The ritual may be performed on that day or another, either in daytime or at midnight.",
+   "uncertainties": [],
+   "plain_english": "This may be done on that day or on another, either in the daytime or at midnight."
+  },
+  {
+   "verse": 5595,
+   "rows": [
+    {
+     "surface": "śivenaiva",
+     "gloss": "with-shiva-mantra-indeed",
+     "grounds": "compound with internal sandhi śivena+eva",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "total number of oblations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāṅgaiḥ",
+     "gloss": "with-limbs",
+     "grounds": "together with attendant limbs or parts",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "indicates distribution per part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśakaṃ",
+     "gloss": "set-of-ten",
+     "grounds": "number offered for each",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive oblation",
+     "morph": "3.sg.optative-active √hu"
+    }
+   ],
+   "question": "How many oblations should be made with Shiva and his attendant limbs?",
+   "premises": [
+    "Oblations are made with the Shiva mantra.",
+    "A total of one hundred is indicated.",
+    "Ten oblations are made for each attendant limb."
+   ],
+   "inference": "One should offer one hundred oblations with Shiva, making ten for each of his limbs.",
+   "uncertainties": [],
+   "plain_english": "One should offer a hundred oblations with Shiva, ten for each of his attendant limbs."
+  },
+  {
+   "verse": 5596,
+   "rows": [
+    {
+     "surface": "śayanaṃ",
+     "gloss": "bed",
+     "grounds": "object to be prepared or brought",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "carmajādyairvā",
+     "gloss": "with-leather-and-others-or",
+     "grounds": "compound with internal sandhi carma-ja-ādyaiḥ+vā",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of cloths",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastrastu",
+     "gloss": "but-cloths",
+     "grounds": "compound with internal sandhi vastraḥ+tu",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vānayet",
+     "gloss": "should-bring",
+     "grounds": "prescriptive causative action",
+     "morph": "3.sg.optative-causative √nī"
+    }
+   ],
+   "question": "What bedding or cloth alternatives should be brought for the rite?",
+   "premises": [
+    "A bed may be brought.",
+    "It may be made with leather and similar materials.",
+    "Alternatively, five cloths may be brought."
+   ],
+   "inference": "One should bring a bed of leather and the like, or alternatively five cloths.",
+   "uncertainties": [
+    "The exact sense of carmajādyaiḥ depends on ritual context."
+   ],
+   "plain_english": "One should bring a bed made of leather and such materials, or else five cloths."
+  },
+  {
+   "verse": 5597,
+   "rows": [
+    {
+     "surface": "dampatī",
+     "gloss": "couple",
+     "grounds": "the pair to be seated",
+     "morph": "m.acc.dual"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating placement",
+     "morph": "absolutive √nyas"
+    },
+    {
+     "surface": "cāpūpādyaistu",
+     "gloss": "and-with-cakes-and-others",
+     "grounds": "compound with internal sandhi ca+apūpa-ādyaiḥ+tu",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "should-please",
+     "grounds": "prescriptive causative action",
+     "morph": "3.sg.optative-causative √tuṣ"
+    }
+   ],
+   "question": "How should the couple be treated once placed in the ritual setting?",
+   "premises": [
+    "The couple is placed there.",
+    "Cakes and similar items are used.",
+    "They are to be pleased or honored."
+   ],
+   "inference": "After placing the couple there, one should please them with cakes and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having placed the couple there, one should please them with cakes and other offerings."
+  },
+  {
+   "verse": 5598,
+   "rows": [
+    {
+     "surface": "calaṃ",
+     "gloss": "movable",
+     "grounds": "describes a movable object or image",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "acalaṃ",
+     "gloss": "immovable",
+     "grounds": "describes an immovable object or image",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cettu",
+     "gloss": "if-but",
+     "grounds": "compound with internal sandhi cet+tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayettu",
+     "gloss": "should-install-but",
+     "grounds": "compound with internal sandhi sthāpayet+tu",
+     "morph": "3.sg.optative-causative √sthā"
+    },
+    {
+     "surface": "sahāsane",
+     "gloss": "with-seat",
+     "grounds": "compound indicating installation together with a seat",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How does installation differ when the object is movable or immovable?",
+   "premises": [
+    "The object may be movable.",
+    "The object may be immovable.",
+    "Installation is to be done together with a seat."
+   ],
+   "inference": "Whether movable or immovable, it should be installed together with its seat.",
+   "uncertainties": [],
+   "plain_english": "If it is movable, or if it is immovable, one should install it together with its seat."
+  },
+  {
+   "verse": 5599,
+   "rows": [
+    {
+     "surface": "vahnervāme",
+     "gloss": "of-fire-on-left",
+     "grounds": "compound with internal sandhi vahneḥ+vāme",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pya",
+     "gloss": "or",
+     "grounds": "particle as given in the text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "indicates left side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jaṃ",
+     "gloss": "goat",
+     "grounds": "possible object or figure; form as given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hariṃ",
+     "gloss": "hari",
+     "grounds": "name or figure of Hari",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viparītataḥ",
+     "gloss": "in-opposite-manner",
+     "grounds": "indicates reversed placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative placements are specified on the left of the fire or in reverse?",
+   "premises": [
+    "A placement is indicated on the left of the fire.",
+    "Alternatives include a goat or Hari.",
+    "The arrangement may be reversed."
+   ],
+   "inference": "On the left of the fire, or in reverse, one may place a goat or Hari as alternatives.",
+   "uncertainties": [
+    "The token pya is unclear in form and function.",
+    "The exact referent of jaṃ is uncertain."
+   ],
+   "plain_english": "On the left of the fire, or in the opposite arrangement, one may place a goat or Hari."
+  }
+ ]
+}

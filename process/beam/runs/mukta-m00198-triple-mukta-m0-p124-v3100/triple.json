@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "sasya",
+     "gloss": "grain",
+     "grounds": "first member of compound describing color",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śyāma",
+     "gloss": "dark",
+     "grounds": "second member of compound with sasya",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nibhākāraṃ",
+     "gloss": "resembling-form",
+     "grounds": "bahuvrihi compound qualifying apasmāraṃ; appearance like dark grain",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "apasmāraṃ",
+     "gloss": "apasmara",
+     "grounds": "object of implied perception or description in context",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to the listener",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What visual form characterizes Apasmāra beneath Śiva in this depiction?",
+   "premises": [
+    "Apasmāra is described as having a form resembling dark grain.",
+    "The description is addressed to the best of the twice-born.",
+    "This characterization continues the depiction of the figure under Śiva's feet."
+   ],
+   "inference": "Apasmāra is portrayed with a dark, grain-like appearance in this iconographic description.",
+   "uncertainties": [
+    "The exact species or shade implied by sasya-śyāma is not specified."
+   ],
+   "plain_english": "O best of the twice-born, Apasmāra has a form resembling dark grain."
+  }
+ ]
+}

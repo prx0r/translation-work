@@ -1,0 +1,76 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p389",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "974b47fd8756804f",
+ "source_digest_normalized_sha256": "974b47fd8756804f68bafdcc43f262e60d119ae259ddf0a939aa1a8a6ec8559c",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 157
+ },
+ "align": {
+  "min_ratio": 0.903,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "A four-year-old girl is Kalyāṇī and a five-year-old girl is Rohiṇī."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 57,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 157,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "2f002595f2217d33d4dd6f34913723943745729e681a3e15ec7576a6a74c9edb",
+  "l0": "32c7cfa651f71784dda63f7aa71ec8051d234cd7079b2df91da8416a898cfc55",
+  "argmap": "b4d723737783bf6484d1966c16c3f60c1032ebbb60e6b9617638c0340c69d66a",
+  "l2": "b787cd744ce0bc5aa322f2d0d7153876ad1fddef6ba7fe9d3feb8ab8ac9ce415",
+  "c1": "d81b0f04c5840d427d5faebf73189791f4b4af633084f7dbc0f0a1f0b4824bab"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "974b47fd8756804f",
+  "t1": "mukta-m0-p389/data/mukta-m0-p389.t1.json",
+  "l0": "mukta-m0-p389/data/mukta-m0-p389.l0.json",
+  "l2": "mukta-m0-p389/data/mukta-m0-p389.l2.json",
+  "c1": "mukta-m0-p389/data/mukta-m0-p389.c1.json"
+ }
+}

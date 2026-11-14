@@ -1,0 +1,431 @@
+{
+ "song": "sva-p14",
+ "items": [
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "uktaḥ",
+     "gloss": "said",
+     "grounds": "past participle of vac, masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What status is assigned to the preceding statement?",
+   "premises": [
+    "The statement is marked as said."
+   ],
+   "inference": "The verse affirms prior teaching as already stated.",
+   "uncertainties": [],
+   "plain_english": "It has been said."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "niṣkalenaiva",
+     "gloss": "by-partless-alone",
+     "grounds": "instrumental singular of niṣkala plus eva",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "By what alone is the meditation to be performed?",
+   "premises": [
+    "The partless alone is specified."
+   ],
+   "inference": "Meditation is to be done by the partless alone.",
+   "uncertainties": [],
+   "plain_english": "By the partless alone."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "bhāvyā",
+     "gloss": "to-be-meditated",
+     "grounds": "feminine nominative singular gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains to be meditated upon?",
+   "premises": [
+    "The remainder is to be meditated."
+   ],
+   "inference": "The remaining object is designated for meditation.",
+   "uncertainties": [],
+   "plain_english": "The remainder is to be meditated."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "niṣkṛteḥ",
+     "gloss": "of-liberation",
+     "grounds": "genitive singular of niṣkṛti",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "adūra",
+     "gloss": "not-far",
+     "grounds": "indeclinable adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-form",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirvakṣyati",
+     "gloss": "will-declare",
+     "grounds": "future active third singular of nirvac",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "What will be declared near liberation?",
+   "premises": [
+    "Liberation's own form is not far."
+   ],
+   "inference": "The text will soon declare liberation's own form.",
+   "uncertainties": [],
+   "plain_english": "Not far from liberation, its own form will be declared."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "dīkṣāyām",
+     "gloss": "in-initiation",
+     "grounds": "locative singular of dīkṣā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhyatvena",
+     "gloss": "as-purifiable",
+     "grounds": "instrumental singular of śodhyatva",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains in initiation as purifiable?",
+   "premises": [
+    "In initiation the remainder is purifiable."
+   ],
+   "inference": "The remaining element is to be purified in initiation.",
+   "uncertainties": [],
+   "plain_english": "In initiation, the remainder is as purifiable."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "nahi",
+     "gloss": "not",
+     "grounds": "indeclinable negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogasamāptirūpāṃ",
+     "gloss": "enjoyment-completion-form",
+     "grounds": "feminine accusative singular adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "niṣkṛtiṃ",
+     "gloss": "liberation",
+     "grounds": "feminine accusative singular noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskartuṃ",
+     "gloss": "to-purify",
+     "grounds": "infinitive of saṃskṛ",
+     "morph": "inf"
+    },
+    {
+     "surface": "śakyaḥ",
+     "gloss": "possible",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can purification occur without liberation?",
+   "premises": [
+    "Purification is not possible without liberation."
+   ],
+   "inference": "Liberation is necessary for purification.",
+   "uncertainties": [],
+   "plain_english": "Without liberation in the form of completed enjoyment, purification is not possible."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathoktasya",
+     "gloss": "as-stated",
+     "grounds": "genitive singular of yathokta",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhoktṛtvasya",
+     "gloss": "enjoyership",
+     "grounds": "genitive singular of bhoktṛtva",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "abhāvaḥ",
+     "gloss": "absence",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "present passive third singular of vac",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgatiḥ",
+     "gloss": "connection",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What connection is stated regarding enjoyership?",
+   "premises": [
+    "The absence of stated enjoyership is said."
+   ],
+   "inference": "The verse gives the connection through absence of enjoyership.",
+   "uncertainties": [],
+   "plain_english": "And the absence of the stated enjoyership is said; thus is the connection."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaratrāpi",
+     "gloss": "later-too",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayamūhaḥ",
+     "gloss": "by-oneself-inference",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmaṇām",
+     "gloss": "of-actions",
+     "grounds": "genitive plural of karman",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "aucityena",
+     "gloss": "fitness",
+     "grounds": "instrumental singular of aucitya",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kāryaḥ",
+     "gloss": "should-be-done",
+     "grounds": "masculine nominative singular gerundive",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should later self-inference of actions be done?",
+   "premises": [
+    "Later self-inference of actions should be done by fitness."
+   ],
+   "inference": "Fitness governs later self-inference of actions.",
+   "uncertainties": [],
+   "plain_english": "Thus later too, self-inference of actions should be done by fitness."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvokta",
+     "gloss": "previously-stated",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āṇavakārmapāśavailakṣaṇyaṃ",
+     "gloss": "āṇava-karma-bond-distinctness",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dyotayati",
+     "gloss": "indicates",
+     "grounds": "present active third singular of dyot",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What does the previously stated distinctness indicate?",
+   "premises": [
+    "The previously stated distinctness indicates āṇava-karma-bond difference."
+   ],
+   "inference": "The verse points to distinctness among bonds.",
+   "uncertainties": [],
+   "plain_english": "Thus the previously stated distinctness of āṇava, karma, and pāśa bonds indicates."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "naśyantī",
+     "gloss": "perish",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tyarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "masculine nominative singular compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is given for perishing?",
+   "premises": [
+    "Perishing is given its meaning."
+   ],
+   "inference": "The verse explains the meaning of perishing.",
+   "uncertainties": [],
+   "plain_english": "Perishing, thus is the meaning."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative active third singular of dā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anuṣaṅga",
+     "gloss": "anuṣaṅga",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should be given according to anuṣaṅga?",
+   "premises": [
+    "Giving is prescribed by anuṣaṅga."
+   ],
+   "inference": "The verse prescribes giving in connection with anuṣaṅga.",
+   "uncertainties": [],
+   "plain_english": "He should give; thus is the anuṣaṅga."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāmnā",
+     "gloss": "by-abode",
+     "grounds": "instrumental singular of dhāman",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "cause-to-give",
+     "grounds": "causative optative third singular of dā",
+     "morph": "3.sg.caus-opt"
+    }
+   ],
+   "question": "What should be caused to give again by abode?",
+   "premises": [
+    "Again by abode one should cause to give."
+   ],
+   "inference": "The verse prescribes causing giving again through abode.",
+   "uncertainties": [],
+   "plain_english": "But again by abode, he should cause to give."
+  }
+ ]
+}

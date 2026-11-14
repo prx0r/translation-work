@@ -1,0 +1,69 @@
+{
+ "song": "sva-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "tatkāla",
+     "gloss": "that-time",
+     "grounds": "compound tat+kāla",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvijanma",
+     "gloss": "future-birth",
+     "grounds": "compound bhāvi+janma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gatatā",
+     "gloss": "gone-state",
+     "grounds": "abstract from gata",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāruṇyādi",
+     "gloss": "youth-etc",
+     "grounds": "compound tāruṇya+ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samaye",
+     "gloss": "at-time",
+     "grounds": "locative of samaya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominal predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the phrase 'that time' signify here?",
+   "premises": [
+    "that time means future birth state",
+    "youth and similar stages are included",
+    "the gloss explains the intended meaning"
+   ],
+   "inference": "the verse defines 'that time' as the future-birth stage such as youth",
+   "uncertainties": [
+    "exact scope of tāruṇyādi remains open"
+   ],
+   "plain_english": "'That time' means the state of future birth, such as youth and similar stages."
+  }
+ ]
+}

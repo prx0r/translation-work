@@ -1,0 +1,975 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "gandhādyaiḥ",
+     "gloss": "with-fragrances-and-others",
+     "grounds": "instrumental plural of gandha-ādi; offerings beginning with fragrance",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental singular of mūla-mantra; the primary mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "one who knows the mantra; agent noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what means and mantra should the mantra-knower perform worship?",
+   "premises": [
+    "The worship uses fragrances and other offerings.",
+    "The worship is performed with the root mantra.",
+    "The officiant is a knower of mantras."
+   ],
+   "inference": "The mantra-knower should worship using fragrances and other offerings together with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "The knower of mantras should worship with fragrances and other offerings using the root mantra."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "sāvaraṇāṃ",
+     "gloss": "with-retinue",
+     "grounds": "sa-āvaraṇā; accompanied by surrounding attendants or enclosures",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.act.opt √pūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "yathā-vidhi; in accordance with prescribed procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How and in what form should the deity be worshipped in that context?",
+   "premises": [
+    "The worship takes place there in the ritual setting.",
+    "The object of worship is accompanied by her retinue.",
+    "The act must follow the prescribed rule."
+   ],
+   "inference": "One should worship the deity there together with her retinue according to the prescribed rule.",
+   "uncertainties": [],
+   "plain_english": "There one should worship her together with her retinue according to the prescribed rule."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "pariṣicya",
+     "gloss": "having-sprinkled-around",
+     "grounds": "absolutive of pari-√sic; sprinkling water around the fire",
+     "morph": "(abs.) √sic"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "object of sprinkling; the ritual fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prārthayīta",
+     "gloss": "should-pray",
+     "grounds": "optative expressing injunction to make a request",
+     "morph": "3.sg.mid.opt √prārth"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the ritual preceptor as agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual actions must the teacher perform after preparing the fire?",
+   "premises": [
+    "The fire is sprinkled around as a preparatory act.",
+    "The teacher is the agent of the subsequent action.",
+    "A prayer follows the sprinkling."
+   ],
+   "inference": "After sprinkling around the fire, the teacher should then offer a prayer.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled around the fire, the teacher should then pray."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "samprāpte",
+     "gloss": "having-arrived",
+     "grounds": "locative absolute participle indicating attainment of presence",
+     "morph": "n.loc.sg.past-part √āp"
+    },
+    {
+     "surface": "sānnidhyaṃ",
+     "gloss": "presence",
+     "grounds": "nearness or manifested presence of the invoked power",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative addressed in the prayer",
+     "morph": "2.sg.act.imp √kṛ"
+    },
+    {
+     "surface": "sādaram",
+     "gloss": "with-respect",
+     "grounds": "sa-ādaram; done reverently",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What request should be made when the invoked presence has arrived?",
+   "premises": [
+    "The presence has arrived in the ritual context.",
+    "The prayer asks for an action to be done.",
+    "The request is to be made with respect."
+   ],
+   "inference": "When the presence has arrived, one should respectfully request it to remain present.",
+   "uncertainties": [],
+   "plain_english": "When the presence has arrived, respectfully request: make your presence manifest."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "brahmāṇam",
+     "gloss": "Brahmā",
+     "grounds": "the deity Brahmā invoked in the rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udvāsya",
+     "gloss": "having-dismissed",
+     "grounds": "absolutive of ud-√vas; ritually sending away the invoked deity",
+     "morph": "(abs.) √vas"
+    },
+    {
+     "surface": "brāhmaṇāya",
+     "gloss": "to-brāhmaṇa",
+     "grounds": "recipient of the offering or gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prapādayet",
+     "gloss": "should-present",
+     "grounds": "causative optative; should cause to be given",
+     "morph": "3.sg.act.opt.caus √pad"
+    }
+   ],
+   "question": "What should be done with Brahmā and the offering after the rite concludes?",
+   "premises": [
+    "Brahmā is ritually dismissed after invocation.",
+    "A brāhmaṇa is designated as recipient.",
+    "The teacher should present something to that brāhmaṇa."
+   ],
+   "inference": "After dismissing Brahmā, one should present the offering to a brāhmaṇa.",
+   "uncertainties": [
+    "The exact object presented is not explicitly named in this verse."
+   ],
+   "plain_english": "Having dismissed Brahmā, one should present the offering to a brāhmaṇa."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "instrumental plural; material used to fill",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the vessel or offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpūrya",
+     "gloss": "having-filled",
+     "grounds": "absolutive of sam-ā-√pṛ; completely filling",
+     "morph": "(abs.) √pṛ"
+    },
+    {
+     "surface": "sahiraṇyaṃ",
+     "gloss": "with-gold",
+     "grounds": "sa-hiraṇya; accompanied by gold",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadakṣiṇam",
+     "gloss": "with-gift",
+     "grounds": "sa-dakṣiṇa; accompanied by a ritual fee or gift",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the offering presented to the brāhmaṇa be prepared?",
+   "premises": [
+    "The offering is filled with rice grains.",
+    "Gold is included with the offering.",
+    "A ritual gift is included with the offering."
+   ],
+   "inference": "The offering should be filled with rice grains and presented together with gold and a gift.",
+   "uncertainties": [],
+   "plain_english": "Having filled that with rice grains, one should present it together with gold and a gift."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "paristarān",
+     "gloss": "strewn-grass",
+     "grounds": "grass spread around the fire in some rites",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "locative indicating placement in the fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paridhīn",
+     "gloss": "enclosing-sticks",
+     "grounds": "sticks placed around the fire in some rites",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-place",
+     "grounds": "optative of ni-√kṣip; to place or throw down",
+     "morph": "3.sg.act.opt √kṣip"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which common fire-rite materials must be excluded in this ritual procedure?",
+   "premises": [
+    "Strewn grass and enclosing sticks are named as possible items.",
+    "The action considered is placing them in the fire.",
+    "The verse explicitly negates that placement."
+   ],
+   "inference": "One should not place strewn grass or enclosing sticks in the fire in this rite.",
+   "uncertainties": [],
+   "plain_english": "But one should not place the strewn grass or the enclosing sticks in the fire."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "netramantreṇa",
+     "gloss": "with-eye-mantra",
+     "grounds": "instrumental of netra-mantra; mantra associated with the eye",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śiṣyanetraṃ",
+     "gloss": "disciple-eye",
+     "grounds": "compound: śiṣya+netra; the eye of the disciple",
+     "morph": "n.acc.sg (śiṣya+netra)"
+    },
+    {
+     "surface": "nibadhyate",
+     "gloss": "is-bound",
+     "grounds": "passive present; ritually bound or blindfolded",
+     "morph": "3.sg.pass.pres √bandh"
+    }
+   ],
+   "question": "By what means is the disciple's eye ritually bound in this initiation step?",
+   "premises": [
+    "The disciple's eye is the object of the action.",
+    "The eye mantra is the instrument used.",
+    "The action performed is binding."
+   ],
+   "inference": "The disciple's eye is bound using the eye mantra.",
+   "uncertainties": [],
+   "plain_english": "The disciple's eye is bound with the eye mantra."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "prapūrya",
+     "gloss": "having-filled",
+     "grounds": "absolutive of pra-√pṛ; filling completely",
+     "morph": "(abs.) √pṛ"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "refers to the disciple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "añjalīn",
+     "gloss": "joined-palms",
+     "grounds": "cupped hands held together as offering vessels",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṣepayet",
+     "gloss": "should-cast",
+     "grounds": "causative optative; should cause to be thrown or offered",
+     "morph": "3.sg.act.opt.caus √kṣip"
+    },
+    {
+     "surface": "hare",
+     "gloss": "on-Hara",
+     "grounds": "locative of Hara; recipient or locus of offering",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What offering action should be performed with the disciple's filled joined palms?",
+   "premises": [
+    "The disciple's joined palms are filled.",
+    "The filled contents are to be cast.",
+    "The casting is directed toward Hara."
+   ],
+   "inference": "Having filled his joined palms, one should have him cast the contents onto Hara.",
+   "uncertainties": [
+    "The material filling the palms is not specified in this verse."
+   ],
+   "plain_english": "Having filled his joined palms, one should indeed have him cast the offering onto Hara."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "netrabandham",
+     "gloss": "eye-bandage",
+     "grounds": "compound: netra+bandha; the binding of the eyes",
+     "morph": "m.acc.sg (netra+bandha)"
+    },
+    {
+     "surface": "apāsya",
+     "gloss": "having-removed",
+     "grounds": "absolutive of apa-√as; removing or casting off",
+     "morph": "(abs.) √as"
+    },
+    {
+     "surface": "upaveśayet",
+     "gloss": "should-make-sit",
+     "grounds": "causative optative; should cause to be seated",
+     "morph": "3.sg.act.opt.caus √viś"
+    },
+    {
+     "surface": "kuśasaṃstare",
+     "gloss": "on-kuśa-seat",
+     "grounds": "compound: kuśa+saṃstara; a spread or seat of kuśa grass",
+     "morph": "m.loc.sg (kuśa+saṃstara)"
+    }
+   ],
+   "question": "What should be done with the disciple after removing the eye bandage?",
+   "premises": [
+    "The eye bandage is removed.",
+    "The disciple is to be seated.",
+    "The seat is made of kuśa grass."
+   ],
+   "inference": "After removing the eye bandage, one should seat the disciple on a kuśa seat.",
+   "uncertainties": [],
+   "plain_english": "Having removed the eye bandage, one should seat him on a spread of kuśa grass."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "brūyāt",
+     "gloss": "should-recite",
+     "grounds": "optative of √brū; should speak or recite",
+     "morph": "3.sg.act.opt √brū"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "the initiate as speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ślokaṃ",
+     "gloss": "verse",
+     "grounds": "a metrical verse to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What verbal act is required of the disciple at that stage of the rite?",
+   "premises": [
+    "The disciple is the designated speaker.",
+    "The utterance is a verse.",
+    "The recitation occurs there in the ritual."
+   ],
+   "inference": "The disciple should indeed recite a verse there.",
+   "uncertainties": [],
+   "plain_english": "And there the disciple should indeed recite a verse."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun referring to the verse or act of praise",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "demonstrative recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śrīgurave",
+     "gloss": "to-venerable-teacher",
+     "grounds": "compound: śrī+guru; the revered teacher",
+     "morph": "m.dat.sg (śrī+guru)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom and in what form is the disciple's recited verse directed?",
+   "premises": [
+    "The verse serves as the means of expression.",
+    "The recipient is the venerable teacher.",
+    "The expression takes the form of obeisance."
+   ],
+   "inference": "By that verse, obeisance is offered to the venerable teacher.",
+   "uncertainties": [],
+   "plain_english": "By which verse obeisance is offered to that venerable teacher."
+  },
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "nyāsān",
+     "gloss": "placements",
+     "grounds": "ritual placements of mantras or powers",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "on-body",
+     "grounds": "locative indicating the site of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parinyaset",
+     "gloss": "should-place",
+     "grounds": "optative of pari-ni-√as; should place thoroughly",
+     "morph": "3.sg.act.opt √as"
+    }
+   ],
+   "question": "Where should the ritual placements be performed in this stage?",
+   "premises": [
+    "The actions are ritual placements.",
+    "The body is specified as the locus.",
+    "The placements are enjoined as a duty."
+   ],
+   "inference": "One should perform the ritual placements on the body.",
+   "uncertainties": [
+    "The specific set of nyāsas is not detailed in this verse."
+   ],
+   "plain_english": "One should place the ritual placements on the body."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "tantroktavartmanā",
+     "gloss": "by-tantra-taught-path",
+     "grounds": "compound: tantra+ukta+vartman; by the path taught in the tantra",
+     "morph": "n.inst.sg (tantra+ukta+vartman)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalākṛtim",
+     "gloss": "complete-form",
+     "grounds": "compound: sakala+ākṛti; the full or complete form",
+     "morph": "f.acc.sg (sakala+ākṛti)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of ā-√car; should carry out",
+     "morph": "3.sg.act.opt √car"
+    }
+   ],
+   "question": "According to what method should the complete-form ritual be performed?",
+   "premises": [
+    "The ritual involves the complete form.",
+    "A path taught in the tantra is specified.",
+    "The performance is enjoined in that context."
+   ],
+   "inference": "There one should perform the complete-form ritual according to the path taught in the tantra.",
+   "uncertainties": [],
+   "plain_english": "There one should perform the complete-form rite according to the path taught in the tantra."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "kumbhāsyastha+suradrum",
+     "gloss": "pot-mouth-situated-divine-tree",
+     "grounds": "compound: kumbha+āsya+stha+suradruma; divine tree situated at the mouth of the pot",
+     "morph": "m.acc.sg (kumbha+āsya+stha+suradruma)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrddhani",
+     "gloss": "on-head",
+     "grounds": "locative indicating placement on the head",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the disciple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śiśoḥ",
+     "gloss": "of-disciple",
+     "grounds": "the initiate, referred to as child",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the ritual preceptor as agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual element does the teacher place on the disciple's head at this point?",
+   "premises": [
+    "The teacher is the agent of the action.",
+    "The object is the divine tree situated at the pot's mouth.",
+    "The placement is on the head of the disciple."
+   ],
+   "inference": "The teacher places the divine tree situated at the mouth of the pot on the head of the disciple.",
+   "uncertainties": [
+    "The verb of placement is supplied by the following verse's context."
+   ],
+   "plain_english": "And the teacher places the divine tree situated at the mouth of the pot on the head of this disciple."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "niyatātmānaṃ",
+     "gloss": "with-restrained-self",
+     "grounds": "compound: niyata+ātman; one whose self is restrained",
+     "morph": "m.acc.sg (niyata+ātman)"
+    },
+    {
+     "surface": "siñcet",
+     "gloss": "should-sprinkle",
+     "grounds": "optative of √sic; should sprinkle",
+     "morph": "3.sg.act.opt √sic"
+    },
+    {
+     "surface": "kalaśa+puṣpakaiḥ",
+     "gloss": "with-pot-flowers",
+     "grounds": "compound: kalaśa+puṣpaka; flowers associated with the pot",
+     "morph": "n.inst.pl (kalaśa+puṣpaka)"
+    }
+   ],
+   "question": "How should the teacher sprinkle the self-restrained disciple during consecration?",
+   "premises": [
+    "The disciple is described as self-restrained.",
+    "The action enjoined is sprinkling.",
+    "The sprinkling is done with flowers from the pot."
+   ],
+   "inference": "The teacher should sprinkle the self-restrained disciple with flowers from the pot.",
+   "uncertainties": [],
+   "plain_english": "He should sprinkle the self-restrained disciple with flowers from the pot."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "toyaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental plural; consecratory waters",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "akṣara+saṃyuktaiḥ",
+     "gloss": "with-syllables-endowed",
+     "grounds": "compound: akṣara+saṃyukta; joined with sacred syllables or mantras",
+     "morph": "n.inst.pl (akṣara+saṃyukta)"
+    },
+    {
+     "surface": "ghaṭaiḥ",
+     "gloss": "with-pots",
+     "grounds": "instrumental plural; vessels containing the waters",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tena+eva",
+     "gloss": "by-that-very",
+     "grounds": "compound: tena+eva; by that same path or method",
+     "morph": "n.inst.sg (tad+eva)"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "path",
+     "grounds": "the ritual method or course",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "By what means and method should the sprinkling with consecrated waters be carried out?",
+   "premises": [
+    "The sprinkling uses waters endowed with sacred syllables.",
+    "The waters are contained in pots.",
+    "The action follows that very prescribed path."
+   ],
+   "inference": "The sprinkling should be done with pots of waters endowed with sacred syllables by that very path.",
+   "uncertainties": [],
+   "plain_english": "He should sprinkle with pots of water endowed with sacred syllables, following that very path."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive of √grah; taking hold of",
+     "morph": "(abs.) √grah"
+    },
+    {
+     "surface": "abhyarcitaṃ",
+     "gloss": "worshipped",
+     "grounds": "past participle; previously honored with worship",
+     "morph": "m.acc.sg.past-part √arc"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "earlier in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karakaṃ",
+     "gloss": "water-vessel",
+     "grounds": "a small ritual vessel for water",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantra+rūpiṇam",
+     "gloss": "mantra-form",
+     "grounds": "compound: mantra+rūpin; having the form or nature of mantra",
+     "morph": "m.acc.sg (mantra+rūpin)"
+    }
+   ],
+   "question": "What kind of vessel should the teacher take up at this stage of the rite?",
+   "premises": [
+    "The vessel was worshipped earlier.",
+    "The vessel is a water-vessel.",
+    "The vessel is characterized as having mantra-form."
+   ],
+   "inference": "The teacher should take up the previously worshipped water-vessel that has the form of mantra.",
+   "uncertainties": [],
+   "plain_english": "Having taken up the water-vessel, previously worshipped and having the form of mantra."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "śiṣṭena",
+     "gloss": "with-remainder",
+     "grounds": "instrumental of what remains in the vessel",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śiśuṃ",
+     "gloss": "disciple",
+     "grounds": "the initiate, referred to as child",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the ritual preceptor as agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ācāmayet",
+     "gloss": "should-make-sip",
+     "grounds": "causative optative of ā-√cam; should cause to sip ritually",
+     "morph": "3.sg.act.opt.caus √cam"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the teacher do with the remaining water for the disciple?",
+   "premises": [
+    "Some water remains in the vessel.",
+    "The teacher is the agent.",
+    "The disciple is to ritually sip it."
+   ],
+   "inference": "Then the teacher should make the disciple sip the remaining water.",
+   "uncertainties": [],
+   "plain_english": "Then the teacher should make the disciple sip the remaining water."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "paridhāya",
+     "gloss": "having-clothed",
+     "grounds": "absolutive of pari-√dhā; putting on or clothing",
+     "morph": "(abs.) √dhā"
+    },
+    {
+     "surface": "ājñayā",
+     "gloss": "by-command",
+     "grounds": "instrumental indicating authorization or instruction",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "the teacher whose command is followed",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Under whose authority is the disciple clothed at this stage?",
+   "premises": [
+    "The act performed is clothing.",
+    "The action is done by command.",
+    "The command comes from the teacher."
+   ],
+   "inference": "The disciple is clothed by the command of the teacher.",
+   "uncertainties": [
+    "The subject who performs the clothing is implied rather than explicit."
+   ],
+   "plain_english": "Having been clothed by the command of the teacher."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "vadet",
+     "gloss": "should-speak",
+     "grounds": "optative of √vad; should utter",
+     "morph": "3.sg.act.opt √vad"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "a knowledgeable officiant or speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viprasya",
+     "gloss": "of-brāhmaṇa",
+     "grounds": "genitive indicating the brāhmaṇa's context or behalf",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "oṅkāra+pūrvakam",
+     "gloss": "with-oṃ-prefixed",
+     "grounds": "compound: oṅkāra+pūrvaka; preceded by the syllable oṃ",
+     "morph": "n.acc.sg (oṅkāra+pūrvaka)"
+    }
+   ],
+   "question": "How should the learned one utter the formula in the case of a brāhmaṇa?",
+   "premises": [
+    "A learned one is the speaker.",
+    "The context concerns a brāhmaṇa.",
+    "The utterance is prefixed by oṃ."
+   ],
+   "inference": "The learned one should speak the formula for the brāhmaṇa prefixed by oṃ.",
+   "uncertainties": [
+    "The specific formula spoken is not stated in this verse."
+   ],
+   "plain_english": "The learned one should speak, in the case of a brāhmaṇa, with the syllable oṃ prefixed."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "vidyā+aṅga+gacchantīṃ",
+     "gloss": "knowledge-limb-going",
+     "grounds": "compound: vidyā+aṅga+gacchantī; going to or entering the limb of knowledge",
+     "morph": "f.acc.sg.pres-part (vidyā+aṅga+√gam)"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "causative optative of √bhū; should visualize or contemplate",
+     "morph": "3.sg.act.opt.caus √bhū"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the ritual preceptor as contemplator",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What contemplative visualization must the teacher perform at this stage?",
+   "premises": [
+    "The teacher is the agent of contemplation.",
+    "The object of contemplation is described as going to the limb of knowledge.",
+    "The act is enjoined as a contemplative visualization."
+   ],
+   "inference": "The teacher should contemplate that which goes to the limb of knowledge.",
+   "uncertainties": [
+    "The precise referent of the feminine participle is context-dependent."
+   ],
+   "plain_english": "The teacher should contemplate her as going to the limb of knowledge."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "kṣiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "the initiate; surface form as given in the text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-repeat",
+     "grounds": "optative of pra-√jap; should mutter or repeat",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "guruṇā+uditam",
+     "gloss": "by-teacher-told",
+     "grounds": "compound: guru+udita; spoken or taught by the teacher",
+     "morph": "n.acc.sg.past-part (guru+√vad)"
+    }
+   ],
+   "question": "What recitation is the disciple required to perform after the teacher's instruction?",
+   "premises": [
+    "The disciple is the one who repeats.",
+    "The content repeated is what the teacher has spoken.",
+    "The act is a ritual repetition."
+   ],
+   "inference": "The disciple should repeat what has been spoken by the teacher.",
+   "uncertainties": [
+    "The token surface kṣiṣyaḥ appears where śiṣyaḥ might be expected."
+   ],
+   "plain_english": "The disciple should repeat what has been told by the teacher."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "guru+deva+ātma+mantrāṇām",
+     "gloss": "of-teacher-god-self-mantras",
+     "grounds": "compound: guru+deva+ātman+mantra; of the mantras of teacher, deity, and self",
+     "morph": "m.gen.pl (guru+deva+ātman+mantra)"
+    },
+    {
+     "surface": "aikyaṃ",
+     "gloss": "unity",
+     "grounds": "oneness or identity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "the initiate as contemplator",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "causative optative of vi-√bhū; should realize or contemplate",
+     "morph": "3.sg.act.opt.caus √bhū"
+    }
+   ],
+   "question": "What unity must the disciple contemplate among teacher, deity, self, and mantras?",
+   "premises": [
+    "The objects are the teacher, deity, self, and their mantras.",
+    "The disciple is the contemplator.",
+    "The contemplation aims at their unity."
+   ],
+   "inference": "The disciple should contemplate the unity of the teacher, the deity, the self, and their mantras.",
+   "uncertainties": [],
+   "plain_english": "The disciple should contemplate the unity of the teacher, the deity, the self, and the mantras."
+  }
+ ]
+}

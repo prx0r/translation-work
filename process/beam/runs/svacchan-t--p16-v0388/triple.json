@@ -1,0 +1,469 @@
+{
+ "song": "sva-p16",
+ "items": [
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental of tat",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ātmavidyā",
+     "gloss": "self-knowledge",
+     "grounds": "compound ātma+vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivatattva",
+     "gloss": "śiva-principle",
+     "grounds": "compound śiva+tattva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vibhāgena",
+     "gloss": "distinction",
+     "grounds": "instrumental of vibhāga",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "atrārthaḥ",
+     "gloss": "here-meaning",
+     "grounds": "compound atra+artha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is intended here by that distinction?",
+   "premises": [
+    "tena indicates by that",
+    "ātmavidyā names self-knowledge",
+    "śivatattva names śiva-principle"
+   ],
+   "inference": "The verse links self-knowledge and śiva-principle through distinction.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "By that, self-knowledge and the śiva-principle are distinguished here."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "mahādhvare",
+     "gloss": "great-sacrifice",
+     "grounds": "locative of mahādhvara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "nominative of dīkṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prayojana",
+     "gloss": "purpose",
+     "grounds": "nominative of prayojana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivayāge",
+     "gloss": "śiva-worship",
+     "grounds": "locative of śivayāga",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What purpose does initiation serve in śiva-worship?",
+   "premises": [
+    "mahādhvare means great sacrifice",
+    "dīkṣā means initiation",
+    "prayojana means purpose"
+   ],
+   "inference": "Initiation is tied to the purpose of śiva-worship.",
+   "uncertainties": [
+    "exact ritual context inferred"
+   ],
+   "plain_english": "In the great sacrifice, initiation has its purpose in śiva-worship."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "tadantā",
+     "gloss": "its-end",
+     "grounds": "compound tad+anta",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyātattvasya",
+     "gloss": "vidyā-principle",
+     "grounds": "genitive of vidyātattva",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vyāptis",
+     "gloss": "pervasion",
+     "grounds": "nominative of vyāpti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What pervasion belongs to the end of the vidyā-principle?",
+   "premises": [
+    "tadantā means its end",
+    "vidyātattvasya means of the vidyā-principle",
+    "vyāptis means pervasion"
+   ],
+   "inference": "The pervasion is connected with the end of the vidyā-principle.",
+   "uncertainties": [
+    "tad reference inferred"
+   ],
+   "plain_english": "The pervasion of the vidyā-principle reaches its end."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "indeclinable mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "usage",
+     "grounds": "nominative of prayoga",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is svāhā used in practice?",
+   "premises": [
+    "svāhā is a mantra word",
+    "iti marks quotation",
+    "prayogaḥ means usage"
+   ],
+   "inference": "The verse states the usage of svāhā.",
+   "uncertainties": [
+    "ritual usage inferred"
+   ],
+   "plain_english": "Thus is the usage of svāhā."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "kāraṇānāṃ",
+     "gloss": "causes",
+     "grounds": "genitive plural of kāraṇa",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "nominative of kāraṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiśoḥ",
+     "gloss": "of-child",
+     "grounds": "genitive of śiśu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śikhāgre",
+     "gloss": "at-tuft-top",
+     "grounds": "locative of śikhāgra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "abs"
+    },
+    {
+     "surface": "saṅgatis",
+     "gloss": "connection",
+     "grounds": "nominative of saṅgati",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What connection arises from meditating on the cause at the tuft top?",
+   "premises": [
+    "kāraṇānāṃ means of causes",
+    "kāraṇaṃ means cause",
+    "śiśoḥ means of child"
+   ],
+   "inference": "Meditation on the cause at the tuft top yields connection.",
+   "uncertainties": [
+    "ritual referent inferred"
+   ],
+   "plain_english": "Having meditated on the cause of causes at the child's tuft top, connection arises."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbījāyām",
+     "gloss": "seedless",
+     "grounds": "locative of nirbījā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is it not only in the seedless state?",
+   "premises": [
+    "na means not",
+    "tu is a particle",
+    "nirbījāyām means in the seedless"
+   ],
+   "inference": "The verse denies restriction to the seedless state alone.",
+   "uncertainties": [
+    "philosophical referent inferred"
+   ],
+   "plain_english": "But not only in the seedless state."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "pāśahomamantraḥ",
+     "gloss": "pāśa-homa-mantra",
+     "grounds": "compound pāśa+homa+mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayoktavyaḥ",
+     "gloss": "should-be-used",
+     "grounds": "gerundive of prayuj",
+     "morph": "m.nom.sg.ger"
+    }
+   ],
+   "question": "When should the pāśa-homa-mantra be used?",
+   "premises": [
+    "pāśahomamantraḥ means pāśa-homa-mantra",
+    "prayoktavyaḥ means should be used"
+   ],
+   "inference": "The mantra is prescribed for use.",
+   "uncertainties": [
+    "ritual occasion inferred"
+   ],
+   "plain_english": "The pāśa-homa-mantra should be used."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "saṃpāditam",
+     "gloss": "accomplished",
+     "grounds": "past participle of saṃpad",
+     "morph": "n.nom.sg.pastpart"
+    }
+   ],
+   "question": "What has been accomplished in this rite?",
+   "premises": [
+    "saṃpāditam means accomplished"
+   ],
+   "inference": "The verse marks completion.",
+   "uncertainties": [
+    "object of accomplishment inferred"
+   ],
+   "plain_english": "It has been accomplished."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "sakalīkāras",
+     "gloss": "whole-making",
+     "grounds": "compound sakala+īkāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavadbhiḥ",
+     "gloss": "by-you",
+     "grounds": "instrumental plural of bhavat",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kāryas",
+     "gloss": "to-be-done",
+     "grounds": "gerundive of kṛ",
+     "morph": "m.nom.sg.ger"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣas",
+     "gloss": "remainder",
+     "grounds": "nominative of śeṣa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remainder remains to be done by you?",
+   "premises": [
+    "sakalīkāras means whole-making",
+    "bhavadbhiḥ means by you",
+    "kāryas means to be done"
+   ],
+   "inference": "The remainder of whole-making is to be done by you.",
+   "uncertainties": [
+    "exact task inferred"
+   ],
+   "plain_english": "The remainder of whole-making is to be done by you."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "vimarśapadaṃ",
+     "gloss": "reflection-word",
+     "grounds": "compound vimarśa+pada",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lambhayāmītyarthaḥ",
+     "gloss": "I-make-resound",
+     "grounds": "compound lambhayāmi+iti+artha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of making the reflection-word resound?",
+   "premises": [
+    "vimarśapadaṃ means reflection-word",
+    "lambhayāmītyarthaḥ means I make resound"
+   ],
+   "inference": "The verse explains the meaning of resounding the reflection-word.",
+   "uncertainties": [
+    "compound parsing inferred"
+   ],
+   "plain_english": "I make the reflection-word resound; that is the meaning."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "yojanāyām",
+     "gloss": "joining",
+     "grounds": "locative of yojanā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "upayogī",
+     "gloss": "useful",
+     "grounds": "nominative of upayogin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āśayena",
+     "gloss": "intention",
+     "grounds": "instrumental of āśaya",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vākye",
+     "gloss": "sentence",
+     "grounds": "locative of vākya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "dvir",
+     "gloss": "twice",
+     "grounds": "indeclinable numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upāttam",
+     "gloss": "taken-up",
+     "grounds": "past participle of upādā",
+     "morph": "n.nom.sg.pastpart"
+    }
+   ],
+   "question": "What is taken up twice after knowing the sentence's intention?",
+   "premises": [
+    "yojanāyām means in joining",
+    "upayogī means useful",
+    "āśayena means by intention"
+   ],
+   "inference": "After knowing the sentence's intention, something useful is taken up twice.",
+   "uncertainties": [
+    "object of upāttam inferred"
+   ],
+   "plain_english": "In joining, knowing the sentence's intention here, the useful thing is taken up twice."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "manaḥsaṃskārasya",
+     "gloss": "mind-purification",
+     "grounds": "genitive of manaḥsaṃskāra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣayāt",
+     "gloss": "from-destruction",
+     "grounds": "ablative of kṣaya",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What follows from the destruction of mind-purification?",
+   "premises": [
+    "manaḥsaṃskārasya means of mind-purification",
+    "api means also",
+    "kṣayāt means from destruction"
+   ],
+   "inference": "The verse points to consequences of destroying mind-purification.",
+   "uncertainties": [
+    "exact consequence inferred"
+   ],
+   "plain_english": "Also from the destruction of mind-purification."
+  }
+ ]
+}

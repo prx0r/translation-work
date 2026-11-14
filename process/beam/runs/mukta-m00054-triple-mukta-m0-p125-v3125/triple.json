@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "analāya",
+     "gloss": "to-fire",
+     "grounds": "epithet in dative of respect",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balavatenamaḥ",
+     "gloss": "to-powerful-obeisance",
+     "grounds": "fused form balavate + namaḥ; kept as single token",
+     "morph": "m.dat.sg + (indecl.)"
+    },
+    {
+     "surface": "upaśāntāya",
+     "gloss": "to-calmed",
+     "grounds": "epithet in dative of respect",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What divine attributes are affirmed through repeated obeisance to these epithets?",
+   "premises": [
+    "analāya identifies the honored principle as fire",
+    "balavatenamaḥ conjoins power with obeisance in a fused salutation",
+    "upaśāntāya attributes a calmed state to the honored principle"
+   ],
+   "inference": "The sequence affirms a deity characterized by fire, power, and calmness through ritual salutation.",
+   "uncertainties": [
+    "The exact referent of these epithets depends on the surrounding liturgical context."
+   ],
+   "plain_english": "Obeisance to the one who is fire. Obeisance to the powerful one. Obeisance to the calmed one."
+  }
+ ]
+}

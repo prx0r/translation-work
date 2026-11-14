@@ -1,0 +1,70 @@
+{
+ "song": "sva-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "tattad",
+     "gloss": "that-that",
+     "grounds": "fused pronoun/adjective form; internal sandhi not split",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "feminine noun in nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhiṣṭhita",
+     "gloss": "presided",
+     "grounds": "participle modifying the following neuter plural noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mūrtīni",
+     "gloss": "forms",
+     "grounds": "neuter plural nominative/accusative form",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "neuter plural adjective agreeing with tattvāni",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "principles",
+     "grounds": "neuter plural nominative form",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dhyātavyāni",
+     "gloss": "to-be-meditated",
+     "grounds": "neuter plural gerundive form",
+     "morph": "n.nom.pl (gerundive)"
+    }
+   ],
+   "question": "Which forms presided over by deities are to be meditated?",
+   "premises": [
+    "Deity-presided forms are principles.",
+    "All principles are to be meditated.",
+    "Those forms are to be meditated."
+   ],
+   "inference": "Meditation includes all deity-presided forms as principles.",
+   "uncertainties": [
+    "Sandhi and exact declension of tattad remain unresolved.",
+    "Gender and number of adhiṣṭhita are inferred from context."
+   ],
+   "plain_english": "All principles, namely the forms presided over by the various deities, are to be meditated upon."
+  }
+ ]
+}

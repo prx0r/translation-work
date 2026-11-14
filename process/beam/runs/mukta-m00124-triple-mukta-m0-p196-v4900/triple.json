@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p196",
+ "items": [
+  {
+   "verse": 4900,
+   "rows": [
+    {
+     "surface": "kuryādādyeṣṭakāmadhye",
+     "gloss": "should-do-in-first-brick-middle",
+     "grounds": "fused sandhi form; verb kuryāt plus locative phrase ādyeṣṭakāmadhye",
+     "morph": "verb 3.sg.act-opt (root kṛ) + loc.sg.n"
+    },
+    {
+     "surface": "pūrvoktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound pūrvokta + vidhi in instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "subject of the action",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Where should the guru perform the rite when the first brick is at the center?",
+   "premises": [
+    "guru performs rite in first brick middle",
+    "method follows previously stated rule",
+    "location is among listed alternatives"
+   ],
+   "inference": "The guru should carry out the rite in the middle of the first brick according to the previously stated method.",
+   "uncertainties": [
+    "exact internal sandhi split of the fused first token is not expanded"
+   ],
+   "plain_english": "The guru should perform it in the middle of the first brick, according to the method stated before."
+  }
+ ]
+}

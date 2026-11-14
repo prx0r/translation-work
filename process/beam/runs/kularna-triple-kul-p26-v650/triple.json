@@ -1,0 +1,67 @@
+{
+ "song": "kul-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "feminine nominative singular of tad",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saphalā",
+     "gloss": "fruitful",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "feminine nominative singular past participle of pra-vac",
+     "morph": "f.nom.sg.pastpart"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalā",
+     "gloss": "fruitless",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular optative of bhū",
+     "morph": "3.sg.opt-bhū"
+    }
+   ],
+   "question": "When is worship declared fruitful versus fruitless?",
+   "premises": [
+    "worship is declared fruitful when performed properly",
+    "otherwise worship becomes fruitless",
+    "fruitfulness depends on proper performance"
+   ],
+   "inference": "Properly performed worship is fruitful, while improper worship is fruitless.",
+   "uncertainties": [],
+   "plain_english": "That worship is declared fruitful, and otherwise it becomes fruitless."
+  }
+ ]
+}

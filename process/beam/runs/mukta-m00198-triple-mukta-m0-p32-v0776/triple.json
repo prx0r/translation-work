@@ -1,0 +1,957 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 776,
+   "rows": [
+    {
+     "surface": "tilataṇḍulalājaiśca",
+     "gloss": "with-sesame-rice-parched-rice",
+     "grounds": "instrumental plural compound with ca; materials for strewing",
+     "morph": "compound+ca (indecl.)"
+    },
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-darbha-grasses",
+     "grounds": "instrumental plural; ritual grass",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural; ritual offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "paristaret",
+     "gloss": "one-should-strew-around",
+     "grounds": "optative injunction for ritual preparation",
+     "morph": "3.sg.opt.act √stṛ"
+    }
+   ],
+   "question": "What materials must be strewn around during the preparatory ritual arrangement?",
+   "premises": [
+    "Sesame, rice, and parched rice are specified materials.",
+    "Darbha grasses are included among the materials.",
+    "Flowers are to be strewn around."
+   ],
+   "inference": "The ritual space should be strewn with sesame, rice, parched rice, darbha grasses, and flowers.",
+   "uncertainties": [],
+   "plain_english": "One should strew around sesame, rice, parched rice, darbha grasses, and flowers."
+  },
+  {
+   "verse": 777,
+   "rows": [
+    {
+     "surface": "gavyābhiṣicya",
+     "gloss": "having-sprinkled-with-cow-products",
+     "grounds": "absolutive; purification with bovine substances",
+     "morph": "gerund √sic"
+    },
+    {
+     "surface": "phelāyāṃ",
+     "gloss": "in-the-pot",
+     "grounds": "locative singular; vessel for bathing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "snāpayed",
+     "gloss": "one-should-bathe",
+     "grounds": "causative optative injunction",
+     "morph": "3.sg.opt.caus.act √snā"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "fragrant",
+     "grounds": "first member of compound describing water",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "toyakaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental plural; scented waters used for bathing",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How should the ritual vessel be purified and bathed before placement?",
+   "premises": [
+    "The vessel is first sprinkled with cow products.",
+    "The bathing takes place in a pot.",
+    "Fragrant waters are used for the bathing."
+   ],
+   "inference": "After sprinkling with cow products, one should bathe the vessel in a pot using fragrant waters.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled it with cow products, one should bathe it in the pot with fragrant waters."
+  },
+  {
+   "verse": 778,
+   "rows": [
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-the-ritual-ground",
+     "grounds": "locative singular; prepared altar area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayetphelāṃ",
+     "gloss": "one-should-place-the-pot",
+     "grounds": "fused sandhi form: sthāpayet + phelāṃ; causative optative with object",
+     "morph": "3.sg.opt.caus.act √sthā + f.acc.sg"
+    },
+    {
+     "surface": "kūṭākṣaram",
+     "gloss": "seed-syllable",
+     "grounds": "accusative singular; mantra syllable to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāharan",
+     "gloss": "uttering",
+     "grounds": "present participle indicating simultaneous action",
+     "morph": "m.nom.sg.pres.part.act √hṛ"
+    }
+   ],
+   "question": "Where and with what utterance should the pot be placed?",
+   "premises": [
+    "The pot is to be placed on the ritual ground.",
+    "Placement is accompanied by utterance.",
+    "The utterance consists of a seed syllable."
+   ],
+   "inference": "One should place the pot on the ritual ground while uttering the seed syllable.",
+   "uncertainties": [
+    "The specific seed syllable is not named."
+   ],
+   "plain_english": "One should place the pot on the ritual ground while uttering the seed syllable."
+  },
+  {
+   "verse": 779,
+   "rows": [
+    {
+     "surface": "sakūrcān",
+     "gloss": "with-kusha-bundles",
+     "grounds": "accusative plural; vessels accompanied by kuśa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vastrasaṃyuktān",
+     "gloss": "joined-with-cloth",
+     "grounds": "accusative plural; vessels tied or covered with cloth",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "gandhāmbuparipūritān",
+     "gloss": "filled-with-fragrant-water",
+     "grounds": "accusative plural compound; vessels filled with scented water",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What accompanying features must the prepared ritual vessels possess?",
+   "premises": [
+    "The vessels must have kuśa bundles.",
+    "The vessels must be joined with cloth.",
+    "The vessels must be filled with fragrant water."
+   ],
+   "inference": "The ritual vessels should be equipped with kuśa bundles, cloth, and fragrant water.",
+   "uncertainties": [],
+   "plain_english": "The vessels should have kuśa bundles, be joined with cloth, and be filled with fragrant water."
+  },
+  {
+   "verse": 780,
+   "rows": [
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "the-fire-pits",
+     "grounds": "accusative plural; ritual fire receptacles",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "paṃcasaṃskāraṃ",
+     "gloss": "five-purifications",
+     "grounds": "accusative singular; set of five ritual consecrations",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive; prior action before homa",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "accusative singular; oblation ritual",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative injunction for ritual action",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "What preparatory consecration must precede the performance of the fire offering?",
+   "premises": [
+    "The fire pits are the objects of preparation.",
+    "Five purifications must be performed.",
+    "The fire offering follows these purifications."
+   ],
+   "inference": "After performing the five purifications on the fire pits, one should perform the fire offering.",
+   "uncertainties": [
+    "The specific five purifications are not enumerated here."
+   ],
+   "plain_english": "Having performed the five purifications on the fire pits, one should carry out the fire offering."
+  },
+  {
+   "verse": 781,
+   "rows": [
+    {
+     "surface": "samidājya",
+     "gloss": "fuel-and-ghee",
+     "grounds": "compound member listing oblation materials",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ājya",
+     "gloss": "ghee",
+     "grounds": "repeated or distinct oblation material in list",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "caruṃ",
+     "gloss": "cooked-oblation",
+     "grounds": "accusative singular; ritual food offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "lājān",
+     "gloss": "parched-rice",
+     "grounds": "accusative plural; oblation material",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tilasarṣapataṇḍulān",
+     "gloss": "sesame-mustard-rice",
+     "grounds": "accusative plural compound; mixed oblation materials",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which specific oblation materials are prescribed for the fire offering?",
+   "premises": [
+    "Fuel and ghee are included as offerings.",
+    "Cooked oblation and parched rice are specified.",
+    "Sesame, mustard, and rice are also offered."
+   ],
+   "inference": "The fire offering should include fuel, ghee, cooked oblation, parched rice, sesame, mustard, and rice.",
+   "uncertainties": [
+    "The repetition of ājya may indicate emphasis or a textual issue."
+   ],
+   "plain_english": "The offerings include fuel, ghee, cooked oblation, parched rice, and sesame, mustard, and rice."
+  },
+  {
+   "verse": 782,
+   "rows": [
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "accusative singular; ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive; completed action",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental adverbial; emphasis on manner",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pratyekāṣṭaśatāhutim",
+     "gloss": "each-eight-hundred-oblations",
+     "grounds": "accusative singular compound; number of offerings per item",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How many oblations must be offered for each prescribed material?",
+   "premises": [
+    "A fire offering is to be performed.",
+    "The instruction emphasizes a specific quantity.",
+    "Each item requires eight hundred oblations."
+   ],
+   "inference": "One should perform the fire offering with eight hundred oblations for each material.",
+   "uncertainties": [],
+   "plain_english": "Having performed the fire offering, one should especially make eight hundred oblations for each item."
+  },
+  {
+   "verse": 783,
+   "rows": [
+    {
+     "surface": "jayādirabhyātānaiśca",
+     "gloss": "with-jaya-and-other-recited-formulas",
+     "grounds": "instrumental plural compound with ca; additional mantra recitations",
+     "morph": "compound+ca (indecl.)"
+    },
+    {
+     "surface": "rāṣṭrabhṛccaiva",
+     "gloss": "and-also-with-rashtrabhrt-formulas",
+     "grounds": "compound with ca and eva; specific Vedic formulas",
+     "morph": "compound+ca+eva (indecl.)"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer",
+     "grounds": "causative optative injunction",
+     "morph": "3.sg.opt.caus.act √hu"
+    }
+   ],
+   "question": "Which additional mantra formulas must accompany the oblations?",
+   "premises": [
+    "Oblations are accompanied by jaya and related formulas.",
+    "Rāṣṭrabhṛt formulas are also required.",
+    "These formulas are used in the offering."
+   ],
+   "inference": "One should offer oblations accompanied by the jaya and other recited formulas and by the rāṣṭrabhṛt formulas.",
+   "uncertainties": [],
+   "plain_english": "One should make offerings with the jaya and other recited formulas, and also with the rāṣṭrabhṛt formulas."
+  },
+  {
+   "verse": 784,
+   "rows": [
+    {
+     "surface": "sunakṣatre",
+     "gloss": "in-a-good-lunar-mansion",
+     "grounds": "locative singular; auspicious astrological condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sulagne",
+     "gloss": "in-a-good-ascendant",
+     "grounds": "locative singular; auspicious rising sign",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sutithau",
+     "gloss": "on-a-good-lunar-day",
+     "grounds": "locative singular; auspicious tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "suvārake",
+     "gloss": "on-a-good-weekday",
+     "grounds": "locative singular; auspicious day of week",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What astrological conditions determine the proper timing for the ritual?",
+   "premises": [
+    "A good lunar mansion is required.",
+    "A good ascendant is required.",
+    "A good lunar day and weekday are required."
+   ],
+   "inference": "The ritual should be performed at a time marked by auspicious lunar mansion, ascendant, lunar day, and weekday.",
+   "uncertainties": [],
+   "plain_english": "The rite should be done under a good lunar mansion, good ascendant, good lunar day, and good weekday."
+  },
+  {
+   "verse": 785,
+   "rows": [
+    {
+     "surface": "snānadvayasamāyuktaṃ",
+     "gloss": "endowed-with-two-baths",
+     "grounds": "accusative singular compound; qualified recipient or object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sakalīkṛtavigraham",
+     "gloss": "with-body-made-consecrated",
+     "grounds": "accusative singular compound; ritually prepared body or image",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual preparation must the officiant or image undergo before worship?",
+   "premises": [
+    "Two baths are required as preparation.",
+    "The body or image must be ritually consecrated.",
+    "These preparations qualify the subject for worship."
+   ],
+   "inference": "The subject must undergo two baths and be ritually consecrated before the worship.",
+   "uncertainties": [
+    "Whether vigraha refers to the officiant's body or an image is context-dependent."
+   ],
+   "plain_english": "The one whose body has been consecrated and who has undergone two baths should be prepared."
+  },
+  {
+   "verse": 786,
+   "rows": [
+    {
+     "surface": "ācāryaṃ",
+     "gloss": "the-teacher",
+     "grounds": "accusative singular; officiating master",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayetsamyak",
+     "gloss": "one-should-worship-properly",
+     "grounds": "fused sandhi form: pūjayet + samyak; optative with adverb",
+     "morph": "3.sg.opt.act √pūj + (indecl.)"
+    },
+    {
+     "surface": "vastrahemāṃgulīyakaiḥ",
+     "gloss": "with-cloth-gold-rings",
+     "grounds": "instrumental plural compound; honorific gifts",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How should the officiating teacher be honored during the ritual?",
+   "premises": [
+    "The teacher is the recipient of worship.",
+    "The worship must be performed properly.",
+    "Cloth, gold, and rings are given as offerings."
+   ],
+   "inference": "One should properly worship the teacher with gifts of cloth, gold, and rings.",
+   "uncertainties": [],
+   "plain_english": "One should properly worship the teacher with cloth, gold, and rings."
+  },
+  {
+   "verse": 787,
+   "rows": [
+    {
+     "surface": "garbhasthānaṃ",
+     "gloss": "the-womb-place",
+     "grounds": "accusative singular; deposit chamber in foundation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praviśyātha",
+     "gloss": "having-entered-then",
+     "grounds": "fused sandhi form: praviśya + atha; absolutive with temporal particle",
+     "morph": "gerund √viś + (indecl.)"
+    },
+    {
+     "surface": "kartācācārya",
+     "gloss": "doer-and-teacher",
+     "grounds": "fused sandhi form: kartā + ācārya; agents performing the rite",
+     "morph": "m.nom.sg + m.nom.sg"
+    }
+   ],
+   "question": "Who must enter the foundation deposit place to perform the rite?",
+   "premises": [
+    "The womb place is to be entered.",
+    "Entry occurs at this stage of the ritual.",
+    "The doer and the teacher are the agents."
+   ],
+   "inference": "The doer and the teacher should then enter the womb place.",
+   "uncertainties": [
+    "The exact role distinction between kartā and ācārya is not specified."
+   ],
+   "plain_english": "Then, having entered the womb place, the doer and the teacher proceed."
+  },
+  {
+   "verse": 788,
+   "rows": [
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "accusative plural; number of parts to avoid",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vābhyantare",
+     "gloss": "or-inside",
+     "grounds": "fused sandhi form: vā + abhyantare; alternative location",
+     "morph": "(indecl.) + n.loc.sg"
+    },
+    {
+     "surface": "varjya",
+     "gloss": "having-avoided",
+     "grounds": "absolutive; exclusion of specified parts",
+     "morph": "gerund √vṛj"
+    },
+    {
+     "surface": "śeṣāṃśe",
+     "gloss": "in-the-remaining-part",
+     "grounds": "locative singular; designated placement area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhājanaṃ",
+     "gloss": "the-vessel",
+     "grounds": "accusative singular; deposit container",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where within the chamber should the deposit vessel be placed?",
+   "premises": [
+    "Three parts inside must be avoided.",
+    "A remaining portion is designated for placement.",
+    "The vessel is to be placed there."
+   ],
+   "inference": "Avoiding three inner parts, one should place the vessel in the remaining portion.",
+   "uncertainties": [
+    "Which three parts are to be avoided is not specified."
+   ],
+   "plain_english": "Avoiding three parts inside, one should place the vessel in the remaining portion."
+  },
+  {
+   "verse": 789,
+   "rows": [
+    {
+     "surface": "nāgadante",
+     "gloss": "on-elephant-tusk",
+     "grounds": "locative singular; possible support material",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vṛṣaśṛṃge",
+     "gloss": "on-bull-horn",
+     "grounds": "locative singular; alternative support material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle indicating alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamṛdgrāhya",
+     "gloss": "taking-eight-clays",
+     "grounds": "compound; action or qualification involving eight types of clay",
+     "morph": "compound"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "the-teacher",
+     "grounds": "nominative singular; officiating agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What materials or supports may the teacher use for the deposit?",
+   "premises": [
+    "Elephant tusk is an option for support.",
+    "Bull horn is an alternative support.",
+    "Eight types of clay are to be taken."
+   ],
+   "inference": "The teacher may use elephant tusk or bull horn and should take eight types of clay.",
+   "uncertainties": [
+    "The syntactic relation of aṣṭamṛdgrāhya to the rest is somewhat compressed."
+   ],
+   "plain_english": "The teacher may use elephant tusk or bull horn, taking the eight kinds of clay."
+  },
+  {
+   "verse": 790,
+   "rows": [
+    {
+     "surface": "madhyetvaṃbujakandaṃ",
+     "gloss": "in-middle-lotus-bulb",
+     "grounds": "fused sandhi form: madhye + tu + ambujakandaṃ; placement in center",
+     "morph": "n.loc.sg + (indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-the-east",
+     "grounds": "locative singular; directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kumudakandakam",
+     "gloss": "kumuda-bulb",
+     "grounds": "accusative singular; item placed in the east",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which plant bulbs are assigned to the central and eastern positions?",
+   "premises": [
+    "A lotus bulb is placed in the middle.",
+    "The eastern position receives a deposit.",
+    "A kumuda bulb is placed in the east."
+   ],
+   "inference": "The lotus bulb should be placed in the middle and the kumuda bulb in the east.",
+   "uncertainties": [],
+   "plain_english": "In the middle place the lotus bulb, and in the east the kumuda bulb."
+  },
+  {
+   "verse": 791,
+   "rows": [
+    {
+     "surface": "saumye",
+     "gloss": "in-the-north",
+     "grounds": "locative singular; directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kaśerukandaṃ",
+     "gloss": "kasheru-bulb",
+     "grounds": "accusative singular; item placed in the north",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "accusative singular; additional item to place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadupari",
+     "gloss": "above-that",
+     "grounds": "indeclinable compound; placement on top",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "What items must be placed in the northern position and above it?",
+   "premises": [
+    "The northern position receives a kaśeru bulb.",
+    "A seed is also to be placed.",
+    "The seed is placed above that bulb."
+   ],
+   "inference": "One should place the kaśeru bulb in the north and place a seed above it.",
+   "uncertainties": [
+    "The specific type of seed is not named."
+   ],
+   "plain_english": "In the north one should place the kaśeru bulb and place a seed above it."
+  },
+  {
+   "verse": 792,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-the-west",
+     "grounds": "locative singular; directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kodravaṃ",
+     "gloss": "kodrava-grain",
+     "grounds": "accusative singular; item placed in the west",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive; prior placement action",
+     "morph": "gerund √nyas"
+    },
+    {
+     "surface": "māṣam",
+     "gloss": "black-gram",
+     "grounds": "accusative singular; item placed in the north",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttarato",
+     "gloss": "to-the-north",
+     "grounds": "indeclinable; directional placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Which grains are assigned to the western and northern positions?",
+   "premises": [
+    "Kodrava grain is placed in the west.",
+    "Black gram is placed to the north.",
+    "Both placements are prescribed actions."
+   ],
+   "inference": "Having placed kodrava in the west, one should place black gram to the north.",
+   "uncertainties": [],
+   "plain_english": "Having placed kodrava in the west, one should place black gram to the north."
+  },
+  {
+   "verse": 793,
+   "rows": [
+    {
+     "surface": "priyaṃguṃ",
+     "gloss": "priyangu-grain",
+     "grounds": "accusative singular; item placed in northwest",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāyubhāge",
+     "gloss": "in-the-wind-quarter",
+     "grounds": "locative singular; northwest direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiśānyāṃ",
+     "gloss": "in-the-northeast",
+     "grounds": "locative singular; directional placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulasthakam",
+     "gloss": "horse-gram",
+     "grounds": "accusative singular; item placed in northeast",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which grains are assigned to the northwest and northeast quarters?",
+   "premises": [
+    "Priyangu is placed in the wind quarter.",
+    "Horse gram is placed in the northeast.",
+    "Both placements are specified distinctly."
+   ],
+   "inference": "One should place priyangu in the northwest and horse gram in the northeast.",
+   "uncertainties": [],
+   "plain_english": "Place priyangu in the northwest quarter, and horse gram in the northeast."
+  },
+  {
+   "verse": 794,
+   "rows": [
+    {
+     "surface": "sarvātodya",
+     "gloss": "with-all-instruments",
+     "grounds": "compound member; musical accompaniment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "accompanied-by",
+     "grounds": "accusative singular; describing the ritual setting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nṛttageyasamākulam",
+     "gloss": "filled-with-dance-and-song",
+     "grounds": "accusative singular compound; festive atmosphere",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What celebratory accompaniment must surround the deposit ritual?",
+   "premises": [
+    "All musical instruments are to be present.",
+    "Dance is part of the accompaniment.",
+    "Song fills the ritual setting."
+   ],
+   "inference": "The ritual should be accompanied by all instruments and filled with dance and song.",
+   "uncertainties": [],
+   "plain_english": "The rite should be accompanied by all musical instruments and filled with dance and song."
+  },
+  {
+   "verse": 795,
+   "rows": [
+    {
+     "surface": "prāsādabījam",
+     "gloss": "temple-seed-mantra",
+     "grounds": "accusative singular; sacred formula for the temple",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive; mantra recitation before placement",
+     "morph": "gerund √uc"
+    },
+    {
+     "surface": "sthāpayedgarbhabhājanam",
+     "gloss": "one-should-place-womb-vessel",
+     "grounds": "fused sandhi form: sthāpayet + garbhabhājanam; causative optative with object",
+     "morph": "3.sg.opt.caus.act √sthā + n.acc.sg"
+    }
+   ],
+   "question": "What mantra must be uttered when placing the foundation deposit vessel?",
+   "premises": [
+    "A temple seed mantra is specified.",
+    "The mantra must be uttered.",
+    "The womb vessel is placed after utterance."
+   ],
+   "inference": "One should utter the temple seed mantra and then place the womb vessel.",
+   "uncertainties": [
+    "The exact syllables of the prāsādabīja are not given."
+   ],
+   "plain_english": "Having uttered the temple seed mantra, one should place the womb vessel."
+  },
+  {
+   "verse": 796,
+   "rows": [
+    {
+     "surface": "śailairvā",
+     "gloss": "with-stones-or",
+     "grounds": "fused sandhi form: śailaiḥ + vā; instrumental plural with alternative",
+     "morph": "m.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "ceṣṭakābhirvā",
+     "gloss": "with-bricks-or",
+     "grounds": "fused sandhi form: ceṣṭakābhiḥ + vā; instrumental plural with alternative",
+     "morph": "f.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "saikataissudṛḍhaṃ",
+     "gloss": "with-sand-very-firm",
+     "grounds": "fused sandhi form: saikataiḥ + sudṛḍham; material and result",
+     "morph": "n.ins.pl + n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction to secure the deposit",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "How should the deposit be firmly secured after placement?",
+   "premises": [
+    "Stones may be used to secure it.",
+    "Bricks are an alternative material.",
+    "Sand can be used to make it very firm."
+   ],
+   "inference": "One should make the deposit very firm using stones, bricks, or sand.",
+   "uncertainties": [],
+   "plain_english": "Make it very firm with stones, or with bricks, or with sand."
+  },
+  {
+   "verse": 797,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshumat-kashyapa",
+     "grounds": "fused sandhi form: iti + aṃśumān + kāśyape; colophon locating text",
+     "morph": "(indecl.) + m.nom.sg + m.loc.sg"
+    },
+    {
+     "surface": "garbhanyāsavidhipaṭalaḥ",
+     "gloss": "chapter-on-womb-deposit-rite",
+     "grounds": "nominative singular compound; title of section",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃcaviṃśaḥ",
+     "gloss": "twenty-fifth",
+     "grounds": "ordinal adjective; chapter number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter of the Aṃśumatkāśyapa concludes with this deposit rite?",
+   "premises": [
+    "The text is identified as Aṃśumatkāśyapa.",
+    "The section concerns the womb deposit rite.",
+    "This is the twenty-fifth chapter."
+   ],
+   "inference": "This concludes the twenty-fifth chapter on the womb deposit rite in the Aṃśumatkāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the twenty-fifth chapter, on the rite of the womb deposit, in the Aṃśumatkāśyapa."
+  },
+  {
+   "verse": 798,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive singular; refers to previously mentioned structure",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "vistāratuṃgaṃ",
+     "gloss": "breadth-and-height",
+     "grounds": "accusative singular compound; dimensions of the structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle; authoritative statement",
+     "morph": "n.nom.sg.past.pass.part √vac"
+    },
+    {
+     "surface": "prāsādamānake",
+     "gloss": "in-temple-measurement",
+     "grounds": "locative singular; context of temple proportions",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where are the breadth and height of the structure formally declared?",
+   "premises": [
+    "Breadth and height are the dimensions in question.",
+    "These dimensions have been declared.",
+    "The declaration occurs in the context of temple measurement."
+   ],
+   "inference": "The breadth and height of that structure are declared in the section on temple measurement.",
+   "uncertainties": [
+    "The referent of tasya depends on prior context."
+   ],
+   "plain_english": "Its breadth and height are declared in the context of temple measurement."
+  },
+  {
+   "verse": 799,
+   "rows": [
+    {
+     "surface": "aṣṭāśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "accusative singular; shape specification",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cākṛtiṣveṣāṃ",
+     "gloss": "and-among-their-forms",
+     "grounds": "fused sandhi form: ca + ākṛtiṣu + eṣām; locative plural with genitive",
+     "morph": "(indecl.) + f.loc.pl + m/n.gen.pl"
+    },
+    {
+     "surface": "śikhare'pi",
+     "gloss": "on-the-spire-also",
+     "grounds": "fused sandhi form: śikhare + api; locative with inclusive particle",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable compound; indicates similarity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What geometric form is prescribed for these structures and their spires?",
+   "premises": [
+    "An eight-cornered form is specified.",
+    "This applies among their forms.",
+    "The same form applies likewise to the spire."
+   ],
+   "inference": "Among their forms, the structure and likewise its spire should be eight-cornered.",
+   "uncertainties": [
+    "The exact scope of eṣām depends on preceding verses."
+   ],
+   "plain_english": "Among their forms it is eight-cornered, and likewise also on the spire."
+  }
+ ]
+}

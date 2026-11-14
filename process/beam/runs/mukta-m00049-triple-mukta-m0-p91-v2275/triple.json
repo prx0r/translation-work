@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhī",
+     "gloss": "sixth-part",
+     "grounds": "specifies a sixth portion in the ritual division",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samutsṛjet",
+     "gloss": "should-offer",
+     "grounds": "prescribes the act of dedicating or releasing the portion",
+     "morph": "3.sg.opt.act (sam-ud-√sṛj)"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "identifies the female agent of the prescribed offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion or specification of the rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "denotes what remains after the sixth part is offered",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which portion of an offering must a woman dedicate, leaving the remainder?",
+   "premises": [
+    "The term ṣaṣṭhī specifies a sixth portion.",
+    "The verb samutsṛjet prescribes that this portion be offered.",
+    "The subject strī identifies the woman as the agent of the offering.",
+    "The term śeṣaḥ denotes what remains after that portion is given."
+   ],
+   "inference": "A woman is enjoined to offer a sixth portion, with the rest remaining as the remainder.",
+   "uncertainties": [
+    "The exact substance or context of the offering is supplied by the preceding verses."
+   ],
+   "plain_english": "A woman should offer a sixth part; thus the remainder is left."
+  }
+ ]
+}

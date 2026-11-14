@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p204",
+ "items": [
+  {
+   "verse": 5100,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "in-front",
+     "grounds": "locative of mukha, front",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "behind",
+     "grounds": "locative of pṛṣṭha, back",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mahāśālā",
+     "gloss": "great-hall",
+     "grounds": "compound mahā plus śālā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "pañcāṃśo",
+     "gloss": "five-part",
+     "grounds": "compound pañca plus aṃśa",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṃśakaḥ",
+     "gloss": "six-part",
+     "grounds": "compound ṣaṣ plus aṃśaka",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How many parts should the great hall occupy in front or behind?",
+   "premises": [
+    "great hall stands in front or behind",
+    "its measure is five or six parts"
+   ],
+   "inference": "the great hall may be five-part or six-part",
+   "uncertainties": [
+    "whether front or back placement is intended"
+   ],
+   "plain_english": "In front or behind, the great hall is five-part or six-part."
+  }
+ ]
+}

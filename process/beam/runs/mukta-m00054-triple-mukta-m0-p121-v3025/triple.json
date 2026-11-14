@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "dakṣiṇāyanamaḥ",
+     "gloss": "to-southern-homage",
+     "grounds": "fused form of dakṣiṇāya (to the southern one) and namaḥ (homage); sandhi noted, token kept whole",
+     "morph": "compound: dakṣiṇāya+m.dat.sg + namaḥ+indecl."
+    },
+    {
+     "surface": "vāmanāyanamaḥ",
+     "gloss": "to-dwarf-homage",
+     "grounds": "fused form of vāmanāya (to Vāmana/the dwarf) and namaḥ (homage); sandhi noted, token kept whole",
+     "morph": "compound: vāmanāya+m.dat.sg + namaḥ+indecl."
+    },
+    {
+     "surface": "siddhayoginenamaḥ",
+     "gloss": "to-accomplished-yogin-homage",
+     "grounds": "fused form of siddhayogine (to the accomplished yogin; siddha+yogin) and namaḥ (homage); sandhi noted, token kept whole",
+     "morph": "compound: siddha-yogine+m.dat.sg + namaḥ+indecl."
+    }
+   ],
+   "question": "To which southern, dwarf, and accomplished yogic forms is reverential homage directed?",
+   "premises": [
+    "Homage is directed to the southern form.",
+    "Homage is directed to the dwarf form.",
+    "Homage is directed to the accomplished yogin."
+   ],
+   "inference": "These epithets designate specific recipients of ritual salutation.",
+   "uncertainties": [
+    "Whether dakṣiṇāya refers to a directional aspect or a specific deity name is context-dependent."
+   ],
+   "plain_english": "Homage to the Southern One, homage to Vāmana, homage to the accomplished yogin."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3800,
+   "rows": [
+    {
+     "surface": "tadadhaś",
+     "gloss": "that-below",
+     "grounds": "adverbial compound indicating the position below the previously described form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "neuter accusative singular describing the shape to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative third singular of the copula",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "mūlato",
+     "gloss": "from-root",
+     "grounds": "ablative adverb indicating origin at the base",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaśravṛttake",
+     "gloss": "two-corner-round",
+     "grounds": "locative singular neuter naming the enclosing rounded form with two corners",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What shape should be made below the two-cornered round at the root?",
+   "premises": [
+    "Below the two-cornered round a square is prescribed.",
+    "The square is to be made from the root."
+   ],
+   "inference": "The lower construction is square, set beneath the two-cornered rounded form.",
+   "uncertainties": [
+    "The exact ritual or architectural referent of dvyaśravṛttake is not explicit in this verse."
+   ],
+   "plain_english": "Below that, a square should be made from the root in the two-cornered round."
+  }
+ ]
+}

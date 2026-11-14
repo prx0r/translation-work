@@ -1,0 +1,144 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p24",
+ "work": "mukta-m00062",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v587 ratio=0.865",
+  "DATA_OBJECTS 65 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "6c20e537f45b1a96",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 180
+ },
+ "align": {
+  "min_ratio": 0.865,
+  "sub090": {
+   "587": {
+    "ratio": 0.865,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 74,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l0[mukta-m0-p24-v576-p001]: chosen 'and' != T1.quick_gloss 'and-and-aloewood' (mark revised+reason)",
+   "l0[mukta-m0-p24-v576-p002]: chosen 'aloewood' != T1.quick_gloss 'and-and-camphor' (mark revised+reason)",
+   "l0[mukta-m0-p24-v576-p003]: chosen 'and' != T1.quick_gloss 'and-and-yellow-pigment' (mark revised+reason)",
+   "l0[mukta-m0-p24-v576-p004]: chosen 'camphor' != T1.quick_gloss 'and-and-well-mixed' (mark revised+reason)",
+   "l0[mukta-m0-p24-v576-p005]: chosen 'and' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v576-p006]: chosen 'yellow-pigment' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v576-p007]: chosen 'and' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v576-p008]: chosen 'well-mixed' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v579-p001]: chosen '-' != T1.quick_gloss '--and-feathered-arrow-plant' (mark revised+reason)",
+   "l0[mukta-m0-p24-v579-p002]: chosen 'feathered-arrow-plant' != T1.quick_gloss '--and-root' (mark revised+reason)",
+   "l0[mukta-m0-p24-v579-p003]: chosen '-' != T1.quick_gloss 'hundred-eight-times' (mark revised+reason)",
+   "l0[mukta-m0-p24-v579-p004]: chosen 'root' != T1.quick_gloss '--and-muttered-over' (mark revised+reason)",
+   "l0[mukta-m0-p24-v579-p005]: chosen 'hundred-eight-times' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v579-p006]: chosen '-' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v579-p007]: chosen 'muttered-over' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p001]: chosen '-' != T1.quick_gloss '--and-non-conduct' (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p002]: chosen 'non-conduct' != T1.quick_gloss '--and-by-distinction' (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p003]: chosen '-' != T1.quick_gloss 'there' (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p004]: chosen 'by-distinction' != T1.quick_gloss 'o-goddess' (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p005]: chosen 'there' != T1.quick_gloss 'not' (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p006]: chosen 'o-goddess' != T1.quick_gloss 'exists' (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p007]: chosen 'not' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v580-p008]: chosen 'exists' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v582-p002]: chosen '-' != T1.quick_gloss '--and-instructed' (mark revised+reason)",
+   "l0[mukta-m0-p24-v582-p003]: chosen 'instructed' != T1.quick_gloss '--and-without-conceptualization' (mark revised+reason)",
+   "l0[mukta-m0-p24-v582-p004]: chosen '-' != T1.quick_gloss 'one-should-accomplish' (mark revised+reason)",
+   "l0[mukta-m0-p24-v582-p005]: chosen 'without-conceptualization' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v582-p006]: chosen 'one-should-accomplish' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v583-p006]: chosen '-' != T1.quick_gloss '--and-filled' (mark revised+reason)",
+   "l0[mukta-m0-p24-v583-p007]: chosen 'filled' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v586-p005]: chosen '-' != T1.quick_gloss '--and-sequence' (mark revised+reason)",
+   "l0[mukta-m0-p24-v586-p006]: chosen 'sequence' != T1.quick_gloss '--and-in-worship' (mark revised+reason)",
+   "l0[mukta-m0-p24-v586-p007]: chosen '-' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v586-p008]: chosen 'in-worship' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v589-p005]: chosen '-' != T1.quick_gloss '--and-sequence' (mark revised+reason)",
+   "l0[mukta-m0-p24-v589-p006]: chosen 'sequence' != T1.quick_gloss '--and-come-from' (mark revised+reason)",
+   "l0[mukta-m0-p24-v589-p007]: chosen '-' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v589-p008]: chosen 'come-from' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v590-p001]: chosen '-' != T1.quick_gloss '--and-delighting-in' (mark revised+reason)",
+   "l0[mukta-m0-p24-v590-p002]: chosen 'delighting-in' != T1.quick_gloss 'who' (mark revised+reason)",
+   "l0[mukta-m0-p24-v590-p003]: chosen 'who' != T1.quick_gloss 'indeed' (mark revised+reason)",
+   "l0[mukta-m0-p24-v590-p004]: chosen 'indeed' != T1.quick_gloss 'consisting-of-great-scriptures' (mark revised+reason)",
+   "l0[mukta-m0-p24-v590-p005]: chosen 'consisting-of-great-scriptures' != T1.quick_gloss 'indeed' (mark revised+reason)",
+   "l0[mukta-m0-p24-v590-p006]: chosen 'indeed' != T1.quick_gloss 'she' (mark revised+reason)",
+   "l0[mukta-m0-p24-v590-p007]: chosen 'she' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v591-p001]: chosen '-' != T1.quick_gloss '--and-dear-things' (mark revised+reason)",
+   "l0[mukta-m0-p24-v591-p002]: chosen 'dear-things' != T1.quick_gloss 'excellent-things' (mark revised+reason)",
+   "l0[mukta-m0-p24-v591-p003]: chosen 'excellent-things' != T1.quick_gloss 'whatever' (mark revised+reason)",
+   "l0[mukta-m0-p24-v591-p004]: chosen 'whatever' != T1.quick_gloss 'on-earth' (mark revised+reason)",
+   "l0[mukta-m0-p24-v591-p005]: chosen 'on-earth' != T1.quick_gloss 'hard-to-obtain' (mark revised+reason)",
+   "l0[mukta-m0-p24-v591-p006]: chosen 'hard-to-obtain' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p001]: chosen '-' != T1.quick_gloss '--and-tradition' (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p002]: chosen 'tradition' != T1.quick_gloss '--and-sequence' (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p003]: chosen '-' != T1.quick_gloss '--and-to-follower' (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p004]: chosen 'sequence' != T1.quick_gloss 'to-worshipper' (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p005]: chosen '-' != T1.quick_gloss 'one-should-give' (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p006]: chosen 'to-follower' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p007]: chosen 'to-worshipper' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v592-p008]: chosen 'one-should-give' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v595-p005]: chosen '-' != T1.quick_gloss '--and-destroyer' (mark revised+reason)",
+   "l0[mukta-m0-p24-v595-p006]: chosen 'destroyer' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v598-p003]: chosen '-' != T1.quick_gloss '--and-path' (mark revised+reason)",
+   "l0[mukta-m0-p24-v598-p004]: chosen 'path' != T1.quick_gloss '--and-resorted-to' (mark revised+reason)",
+   "l0[mukta-m0-p24-v598-p005]: chosen '-' != T1.quick_gloss None (mark revised+reason)",
+   "l0[mukta-m0-p24-v598-p006]: chosen 'resorted-to' != T1.quick_gloss None (mark revised+reason)"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 180,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v587"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "c0769b7f2a32f5a8cc5a5bc523dd9cf0545998939fd6164c4a5f9b0fd3f07eeb",
+  "l0": "2d91a5e297382c41bcbe6a5fd1ab6928015bf451b12372ef0b233e52d130bb98",
+  "argmap": "faecbaed3808cb52e18ecdee265c7cd2c04473cd932672f216db6723b764bf61",
+  "l2": "0ea0a1d21485aa9733f50d6583e7d9642f3934f037d1938f01d040988a25f8c0",
+  "c1": "dc70fbab48b11e549605fef09e720fba9b93201734afc8dc80fd717ef6205669"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "6c20e537f45b1a96",
+  "t1": "mukta-m0-p24/data/mukta-m0-p24.t1.json",
+  "l0": "mukta-m0-p24/data/mukta-m0-p24.l0.json",
+  "l2": "mukta-m0-p24/data/mukta-m0-p24.l2.json",
+  "c1": "mukta-m0-p24/data/mukta-m0-p24.c1.json"
+ }
+}

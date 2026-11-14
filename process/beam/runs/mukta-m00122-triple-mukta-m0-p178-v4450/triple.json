@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p178",
+ "items": [
+  {
+   "verse": 4450,
+   "rows": [
+    {
+     "surface": "sahasravāraṃ",
+     "gloss": "thousand-times",
+     "grounds": "adverbial accusative of frequency",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tenāsau",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun fused with demonstrative by sandhi",
+     "morph": "pron.m.instr.sg + pron.m.nom.sg (fused)"
+    },
+    {
+     "surface": "siddhā",
+     "gloss": "accomplished",
+     "grounds": "perfect passive participle used adjectivally",
+     "morph": "f.part.adj.f.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ+prayacchati",
+     "gloss": "grants-all",
+     "grounds": "object all with present active verb in one fused token",
+     "morph": "verb.3.sg.act-pres (with neut.acc.sg object)"
+    }
+   ],
+   "question": "What does the accomplished goddess grant when the mantra is recited a thousand times?",
+   "premises": [
+    "recitation occurs a thousand times",
+    "the accomplished one acts by that mantra",
+    "all is granted as the result"
+   ],
+   "inference": "A thousandfold recitation of that mantra makes the accomplished goddess grant everything.",
+   "uncertainties": [
+    "whether tenāsau refers to the mantra, goddess, or practitioner",
+    "whether siddhā is feminine agent or accomplished state"
+   ],
+   "plain_english": "By that, she, accomplished, grants all a thousand times."
+  }
+ ]
+}

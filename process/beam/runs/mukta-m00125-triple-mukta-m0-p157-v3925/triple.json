@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3925,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future occurrence denied",
+     "morph": "3.sg.active-future √bhū"
+    },
+    {
+     "surface": "bhūtaśca",
+     "gloss": "been-and",
+     "grounds": "fused form: bhūtaḥ + ca with sandhi; past occurrence also denied",
+     "morph": "compound-like-fusion: past-participle.m.nom.sg √bhū + (indecl.)"
+    },
+    {
+     "surface": "satyametadudāhṛtam",
+     "gloss": "truth-this-declared",
+     "grounds": "fused form: satyam + etat + udāhṛtam; affirms the statement as true",
+     "morph": "compound-like-fusion: n.nom.sg + n.nom.sg + past-participle.n.nom.sg ud-ā-√hṛ"
+    },
+    {
+     "surface": "etadudāhṛtam",
+     "gloss": "this-declared",
+     "grounds": "fused form: etat + udāhṛtam; emphatic repetition of declaration",
+     "morph": "compound-like-fusion: n.nom.sg + past-participle.n.nom.sg ud-ā-√hṛ"
+    }
+   ],
+   "question": "Can the previously described configuration ever occur in future or past time?",
+   "premises": [
+    "The described configuration will not come into being.",
+    "The described configuration has not existed in the past.",
+    "This denial is explicitly declared as truth."
+   ],
+   "inference": "Therefore, the described configuration is impossible at all times and this impossibility is authoritatively affirmed.",
+   "uncertainties": [
+    "The exact referent of the denied configuration depends on the preceding verses' description."
+   ],
+   "plain_english": "It will not be, nor has it ever been; this is declared as the truth, this is declared."
+  }
+ ]
+}

@@ -1,0 +1,921 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1326,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time specification for the practice",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tāmbūla+pūra+āsyaḥ",
+     "gloss": "betel-filled-mouth",
+     "grounds": "compound describing the practitioner's state",
+     "morph": "compound: tāmbūla-pūra-āsya + m.nom.sg"
+    },
+    {
+     "surface": "śayyāyāṃ",
+     "gloss": "on-bed",
+     "grounds": "location of the practice",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "lakṣa+mānataḥ",
+     "gloss": "measured-by-hundred-thousand",
+     "grounds": "compound indicating the count or measure of recitation",
+     "morph": "compound: lakṣa-māna + m.abl.sg"
+    }
+   ],
+   "question": "Under what bodily and temporal conditions is a hundred-thousandfold recitation performed?",
+   "premises": [
+    "The practice occurs at night.",
+    "The practitioner has a mouth filled with betel.",
+    "The recitation is performed on a bed measured by a hundred thousand."
+   ],
+   "inference": "Nighttime recitation on a bed with betel in the mouth is specified as a hundred-thousandfold practice.",
+   "uncertainties": [
+    "lakṣa+mānataḥ may indicate counting to a lakh or a measure related to the bed; context is terse."
+   ],
+   "plain_english": "At night, with the mouth filled with betel, one performs the practice on a bed in a hundred-thousandfold measure."
+  },
+  {
+   "verse": 1327,
+   "rows": [
+    {
+     "surface": "śūdrāṇām",
+     "gloss": "of-śūdras",
+     "grounds": "specifies the group for whom the practice is declared",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "states what has been taught",
+     "morph": "n.nom.sg (past-passive-participle, √vac)"
+    },
+    {
+     "surface": "rātrau+iṣṭaṃ",
+     "gloss": "performed-at-night",
+     "grounds": "compound describing the timing of the desired act",
+     "morph": "compound: rātri-iṣṭa + n.nom.sg"
+    },
+    {
+     "surface": "mahā+phalam",
+     "gloss": "great-fruit",
+     "grounds": "compound indicating the result of the practice",
+     "morph": "compound: mahā-phala + n.nom.sg"
+    }
+   ],
+   "question": "What result is declared for nighttime performance by śūdras?",
+   "premises": [
+    "The teaching is declared for śūdras as well.",
+    "The act is performed at night.",
+    "Such performance yields great fruit."
+   ],
+   "inference": "Nighttime performance is declared to bring great fruit for śūdras.",
+   "uncertainties": [],
+   "plain_english": "Likewise, it is declared that when performed at night by śūdras, it yields great fruit."
+  },
+  {
+   "verse": 1328,
+   "rows": [
+    {
+     "surface": "kārayitavyam",
+     "gloss": "should-be-caused-to-do",
+     "grounds": "prescriptive gerundive indicating obligation",
+     "morph": "n.nom.sg (gerundive, causative, √kṛ)"
+    }
+   ],
+   "question": "What obligation is imposed regarding the performance of this rite?",
+   "premises": [
+    "The form is a gerundive expressing necessity.",
+    "It is causative in sense.",
+    "The act must be made to be done."
+   ],
+   "inference": "The rite should be caused to be performed.",
+   "uncertainties": [
+    "The specific agent and object are implied from preceding verses."
+   ],
+   "plain_english": "It should be caused to be performed."
+  },
+  {
+   "verse": 1329,
+   "rows": [
+    {
+     "surface": "eka+akṣaraḥ",
+     "gloss": "one-syllabled",
+     "grounds": "compound describing the mantra's form",
+     "morph": "compound: eka-akṣara + m.nom.sg"
+    },
+    {
+     "surface": "mahā+mantraḥ",
+     "gloss": "great-mantra",
+     "grounds": "compound naming the mantra",
+     "morph": "compound: mahā-mantra + m.nom.sg"
+    },
+    {
+     "surface": "sarva+kāma+phala+pradaḥ",
+     "gloss": "all-desire-fruit-granting",
+     "grounds": "compound describing the mantra's efficacy",
+     "morph": "compound: sarva-kāma-phala-prada + m.nom.sg"
+    }
+   ],
+   "question": "What efficacy is attributed to the one-syllabled great mantra?",
+   "premises": [
+    "The mantra consists of one syllable.",
+    "It is called a great mantra.",
+    "It grants the fruit of all desires."
+   ],
+   "inference": "The one-syllabled great mantra grants the fulfillment of all desires.",
+   "uncertainties": [],
+   "plain_english": "The one-syllabled great mantra grants the fruit of all desires."
+  },
+  {
+   "verse": 1330,
+   "rows": [
+    {
+     "surface": "triguṇā",
+     "gloss": "threefold",
+     "grounds": "describes a multiplied or threefold form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasizes a special quality",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sarva+śāstra+prabodhinī",
+     "gloss": "all-scripture-awakening",
+     "grounds": "compound describing the power to illuminate all scriptures",
+     "morph": "compound: sarva-śāstra-prabodhinī + f.nom.sg"
+    }
+   ],
+   "question": "What special power belongs to the threefold form of this mantra?",
+   "premises": [
+    "The mantra is considered in a threefold form.",
+    "This form is singled out especially.",
+    "It awakens understanding of all scriptures."
+   ],
+   "inference": "The threefold form especially awakens knowledge of all scriptures.",
+   "uncertainties": [],
+   "plain_english": "But in its threefold form, it especially awakens all scriptures."
+  },
+  {
+   "verse": 1331,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "introduces the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "seed syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krāṃ",
+     "gloss": "krāṃ",
+     "grounds": "seed syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayāya",
+     "gloss": "to-heart",
+     "grounds": "ritual assignment to the heart",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "ritual salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+ādi",
+     "gloss": "thus-beginning",
+     "grounds": "compound indicating the start of a sequence",
+     "morph": "compound: iti-ādi + n.nom.sg"
+    }
+   ],
+   "question": "How does the ritual formula for the heart begin in this sequence?",
+   "premises": [
+    "The formula is introduced with thus.",
+    "It includes the syllables oṃ and krāṃ.",
+    "It assigns obeisance to the heart and continues from there."
+   ],
+   "inference": "The heart formula begins as oṃ krāṃ hṛdayāya namaḥ and so on.",
+   "uncertainties": [],
+   "plain_english": "Thus: oṃ krāṃ, obeisance to the heart, and so forth."
+  },
+  {
+   "verse": 1332,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "refers to remaining elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of remaining procedures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrva+vat",
+     "gloss": "as-before",
+     "grounds": "compound indicating conformity with prior instructions",
+     "morph": "compound: pūrva-vat + (indecl.)"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg (gerundive, √kṛ)"
+    }
+   ],
+   "question": "How should the remaining ritual procedures be carried out?",
+   "premises": [
+    "Other elements remain to be performed.",
+    "All of them are included.",
+    "They follow the previous pattern."
+   ],
+   "inference": "All remaining procedures should be done as before.",
+   "uncertainties": [],
+   "plain_english": "Everything else should be done as before."
+  },
+  {
+   "verse": 1333,
+   "rows": [
+    {
+     "surface": "catur+bāhu+yutāṃ",
+     "gloss": "four-arm-endowed",
+     "grounds": "compound describing the goddess's form",
+     "morph": "compound: catur-bāhu-yuta + f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vara+abhaya+karāṃ",
+     "gloss": "boon-fearlessness-hand-making",
+     "grounds": "compound describing hand gestures granting boon and fearlessness",
+     "morph": "compound: vara-abhaya-kara + f.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-meditate",
+     "grounds": "prescriptive instruction for visualization",
+     "morph": "3.sg.optative-active (√smṛ)"
+    }
+   ],
+   "question": "What form of the goddess should be visualized in meditation?",
+   "premises": [
+    "The goddess is the object of meditation.",
+    "She is endowed with four arms.",
+    "Her hands display boon-giving and fearlessness."
+   ],
+   "inference": "One should meditate on the four-armed goddess whose hands grant boon and fearlessness.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on the goddess as four-armed, with hands granting boon and fearlessness."
+  },
+  {
+   "verse": 1334,
+   "rows": [
+    {
+     "surface": "tat+daśāṃśa+vidhānena",
+     "gloss": "by-its-tenth-part-method",
+     "grounds": "compound specifying the proportion for oblation",
+     "morph": "compound: tat-daśāṃśa-vidhāna + n.ins.sg"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer-oblation",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active (causative, √hu)"
+    },
+    {
+     "surface": "sādhaka+uttamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound identifying the qualified agent",
+     "morph": "compound: sādhaka-uttama + m.nom.sg"
+    }
+   ],
+   "question": "What oblation proportion must the best practitioner follow?",
+   "premises": [
+    "The agent is the best practitioner.",
+    "Oblation is to be performed.",
+    "The method requires a tenth part of the prior count."
+   ],
+   "inference": "The best practitioner should perform oblation by the method of a tenth part.",
+   "uncertainties": [
+    "The base count for the tenth part is implied from prior recitation instructions."
+   ],
+   "plain_english": "The best practitioner should offer oblations according to the method of a tenth part of that."
+  },
+  {
+   "verse": 1335,
+   "rows": [
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "specifies a count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time specification",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates repetition or parallel",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "specifies another count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahā+śauca+parāyaṇaḥ",
+     "gloss": "great-purity-devoted",
+     "grounds": "compound describing the practitioner's discipline",
+     "morph": "compound: mahā-śauca-parāyaṇa + m.nom.sg"
+    }
+   ],
+   "question": "What recitation discipline is required of one devoted to great purity?",
+   "premises": [
+    "The practitioner is devoted to great purity.",
+    "A hundred thousand recitations are done at night.",
+    "Likewise another hundred thousand are performed."
+   ],
+   "inference": "One devoted to great purity should perform a hundred thousand recitations at night and likewise another hundred thousand.",
+   "uncertainties": [
+    "Whether the second lakh is at a different time or in a different mode is not explicit."
+   ],
+   "plain_english": "Devoted to great purity, one should perform a hundred thousand at night and likewise another hundred thousand."
+  },
+  {
+   "verse": 1336,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time specification",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "japa+eka+mātreṇa",
+     "gloss": "by-recitation-one-measure",
+     "grounds": "compound indicating a single measure of recitation",
+     "morph": "compound: japa-eka-mātra + n.ins.sg"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "dakṣiṇā",
+     "grounds": "name of the deity or power invoked",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhi+dā",
+     "gloss": "success-giving",
+     "grounds": "compound describing the result bestowed",
+     "morph": "compound: siddhi-da + f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "expresses potential result",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What result can arise from a single measure of nighttime recitation of dakṣiṇā?",
+   "premises": [
+    "The recitation occurs at night.",
+    "Even one measure of recitation is performed.",
+    "Dakṣiṇā becomes a giver of success."
+   ],
+   "inference": "By even one measure of nighttime recitation, dakṣiṇā may grant success.",
+   "uncertainties": [
+    "The exact quantity meant by eka+mātra is not specified."
+   ],
+   "plain_english": "At night, by even a single measure of recitation, dakṣiṇā may become the giver of success."
+  },
+  {
+   "verse": 1337,
+   "rows": [
+    {
+     "surface": "indrasya",
+     "gloss": "of-indra",
+     "grounds": "reference point for the mantra element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samīpaṃ",
+     "gloss": "proximity",
+     "grounds": "indicates association or nearness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aindraṃ",
+     "gloss": "relating-to-indra",
+     "grounds": "describes the element as belonging to Indra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rephaḥ",
+     "gloss": "letter-ra",
+     "grounds": "names the consonant sound repha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra element is identified as belonging to Indra's domain?",
+   "premises": [
+    "The context refers to Indra.",
+    "Proximity to Indra is indicated.",
+    "The element is the letter ra (repha)."
+   ],
+   "inference": "The letter ra is identified as the element relating to Indra.",
+   "uncertainties": [
+    "samīpaṃ may indicate placement in a mantra sequence rather than mere association."
+   ],
+   "plain_english": "The letter ra is the element associated with Indra."
+  },
+  {
+   "verse": 1338,
+   "rows": [
+    {
+     "surface": "sapta+bījāni",
+     "gloss": "seven-seed-syllables",
+     "grounds": "compound specifying the number of bīja syllables",
+     "morph": "compound: sapta-bīja + n.nom.pl"
+    },
+    {
+     "surface": "saṃhāraiḥ",
+     "gloss": "with-saṃhāras",
+     "grounds": "indicates accompanying dissolution elements or markers",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "svāhā+antaḥ",
+     "gloss": "svāhā-ending",
+     "grounds": "compound specifying the mantra's terminal element",
+     "morph": "compound: svāhā-anta + m.nom.sg"
+    },
+    {
+     "surface": "praṇava+ādikaḥ",
+     "gloss": "praṇava-beginning",
+     "grounds": "compound specifying the mantra's initial element",
+     "morph": "compound: praṇava-ādika + m.nom.sg"
+    }
+   ],
+   "question": "What structural components define the mantra composed of seven seed syllables?",
+   "premises": [
+    "The mantra contains seven seed syllables.",
+    "It begins with praṇava.",
+    "It ends with svāhā and includes saṃhāras."
+   ],
+   "inference": "The seven-seed mantra begins with praṇava, includes saṃhāras, and ends with svāhā.",
+   "uncertainties": [
+    "The precise technical meaning of saṃhāraiḥ in this mantra structure is context-dependent."
+   ],
+   "plain_english": "There are seven seed syllables, with saṃhāras, beginning with praṇava and ending with svāhā."
+  },
+  {
+   "verse": 1339,
+   "rows": [
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "names the fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+daśāṃśataḥ",
+     "gloss": "from-its-tenth-part",
+     "grounds": "compound indicating the proportion for oblation",
+     "morph": "compound: tat-daśāṃśa + (indecl.)"
+    }
+   ],
+   "question": "What proportion governs the oblation in this ritual instruction?",
+   "premises": [
+    "The rite in question is oblation.",
+    "The proportion is derived from a prior count.",
+    "That proportion is a tenth part."
+   ],
+   "inference": "The oblation should be performed as a tenth part of that count.",
+   "uncertainties": [],
+   "plain_english": "But the oblation is to be a tenth part of that."
+  },
+  {
+   "verse": 1340,
+   "rows": [
+    {
+     "surface": "dhyāna+pūjā+ādikaṃ",
+     "gloss": "meditation-worship-etcetera",
+     "grounds": "compound listing ritual components beginning with meditation and worship",
+     "morph": "compound: dhyāna-pūjā-ādika + n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "includes the full set of procedures",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇā+vat",
+     "gloss": "like-dakṣiṇā",
+     "grounds": "compound indicating conformity with the dakṣiṇā procedure",
+     "morph": "compound: dakṣiṇā-vat + (indecl.)"
+    },
+    {
+     "surface": "upācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active (√upa-car)"
+    }
+   ],
+   "question": "According to which model should meditation, worship, and related rites be performed?",
+   "premises": [
+    "Meditation, worship, and other rites are included.",
+    "All these procedures are to be performed.",
+    "They follow the pattern used for dakṣiṇā."
+   ],
+   "inference": "All meditation, worship, and related rites should be performed as in the dakṣiṇā procedure.",
+   "uncertainties": [],
+   "plain_english": "One should perform meditation, worship, and everything else just as for dakṣiṇā."
+  },
+  {
+   "verse": 1341,
+   "rows": [
+    {
+     "surface": "tri+akṣarī",
+     "gloss": "three-syllabled",
+     "grounds": "compound describing the mantra's length",
+     "morph": "compound: tri-akṣara + f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to the mantra or vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-knowledge",
+     "grounds": "compound naming the mantra as a mahāvidyā",
+     "morph": "compound: mahā-vidyā + f.nom.sg"
+    },
+    {
+     "surface": "cāmuṇḍā",
+     "gloss": "cāmuṇḍā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "states traditional identification",
+     "morph": "f.nom.sg (past-passive-participle, √smṛ)"
+    }
+   ],
+   "question": "How is the three-syllabled great vidyā identified in this tradition?",
+   "premises": [
+    "The vidyā consists of three syllables.",
+    "It is called a great vidyā.",
+    "It is remembered as cāmuṇḍā and kālikā."
+   ],
+   "inference": "The three-syllabled great vidyā is traditionally identified as cāmuṇḍā and kālikā.",
+   "uncertainties": [],
+   "plain_english": "That three-syllabled great vidyā is remembered as cāmuṇḍā and kālikā."
+  },
+  {
+   "verse": 1342,
+   "rows": [
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the previously named vidyā or goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "jñāna+prabhāveṇa",
+     "gloss": "by-knowledge-power",
+     "grounds": "compound indicating the power arising from knowledge of her",
+     "morph": "compound: jñāna-prabhāva + m.ins.sg"
+    },
+    {
+     "surface": "kalayāmi",
+     "gloss": "i-comprehend",
+     "grounds": "first-person statement of realization",
+     "morph": "1.sg.present-active (√kal)"
+    },
+    {
+     "surface": "jagat+trayam",
+     "gloss": "world-triad",
+     "grounds": "compound referring to the three worlds",
+     "morph": "compound: jagat-traya + n.acc.sg"
+    }
+   ],
+   "question": "What scope of comprehension is claimed through the power of this vidyā's knowledge?",
+   "premises": [
+    "The speaker invokes her knowledge-power.",
+    "The speaker claims comprehension.",
+    "The object comprehended is the triad of worlds."
+   ],
+   "inference": "By the power of her knowledge, the speaker comprehends the three worlds.",
+   "uncertainties": [],
+   "plain_english": "By the power of knowledge of her, I comprehend the three worlds."
+  },
+  {
+   "verse": 1343,
+   "rows": [
+    {
+     "surface": "ekāraḥ",
+     "gloss": "letter-e",
+     "grounds": "names the syllable e",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahni+vallabhā",
+     "gloss": "fire-beloved",
+     "grounds": "compound naming the syllable svāhā, beloved of fire",
+     "morph": "compound: vahni-vallabhā + f.nom.sg"
+    }
+   ],
+   "question": "Which mantra components are specified in this brief formula?",
+   "premises": [
+    "The letter e is named.",
+    "The term vahni-vallabhā refers to svāhā.",
+    "Both are given as mantra elements."
+   ],
+   "inference": "The formula specifies the letter e together with svāhā.",
+   "uncertainties": [],
+   "plain_english": "The letter e, and svāhā, beloved of fire."
+  },
+  {
+   "verse": 1344,
+   "rows": [
+    {
+     "surface": "varṇa+nyāsa",
+     "gloss": "letter-placement",
+     "grounds": "compound naming ritual placement of letters",
+     "morph": "compound: varṇa-nyāsa + m.nom.sg"
+    },
+    {
+     "surface": "kara+aṅga+nyāsau",
+     "gloss": "hand-limb-placements",
+     "grounds": "compound naming placements on hands and limbs",
+     "morph": "compound: kara-aṅga-nyāsa + m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇā+vat",
+     "gloss": "like-dakṣiṇā",
+     "grounds": "compound indicating conformity with the dakṣiṇā procedure",
+     "morph": "compound: dakṣiṇā-vat + (indecl.)"
+    }
+   ],
+   "question": "How should letter placement and hand-limb placements be performed here?",
+   "premises": [
+    "Letter placement is required.",
+    "Hand and limb placements are required.",
+    "They follow the dakṣiṇā model."
+   ],
+   "inference": "Letter placement and hand-limb placements should be performed as in the dakṣiṇā procedure.",
+   "uncertainties": [],
+   "plain_english": "The placement of letters and the placements on hands and limbs are to be done as for dakṣiṇā."
+  },
+  {
+   "verse": 1345,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior meditation",
+     "morph": "(absolutive, √dhyai)"
+    },
+    {
+     "surface": "dakṣiṇā+vat",
+     "gloss": "like-dakṣiṇā",
+     "grounds": "compound indicating conformity with the dakṣiṇā procedure",
+     "morph": "compound: dakṣiṇā-vat + (indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "includes the full procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg (gerundive, √kṛ)"
+    }
+   ],
+   "question": "In what manner should the entire procedure be carried out after meditation?",
+   "premises": [
+    "Meditation is performed first.",
+    "The procedure follows the dakṣiṇā model.",
+    "All actions are included."
+   ],
+   "inference": "After meditating thus, everything should be done as in the dakṣiṇā procedure.",
+   "uncertainties": [],
+   "plain_english": "Having meditated thus, everything should be done as for dakṣiṇā."
+  },
+  {
+   "verse": 1346,
+   "rows": [
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer-oblation",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active (causative, √hu)"
+    },
+    {
+     "surface": "tat+daśāṃśena",
+     "gloss": "with-its-tenth-part",
+     "grounds": "compound specifying the oblation proportion",
+     "morph": "compound: tat-daśāṃśa + m.ins.sg"
+    },
+    {
+     "surface": "mṛdu+puṣpeṇa",
+     "gloss": "with-soft-flower",
+     "grounds": "compound specifying the offering material",
+     "morph": "compound: mṛdu-puṣpa + n.ins.sg"
+    },
+    {
+     "surface": "mantra+vit",
+     "gloss": "mantra-knower",
+     "grounds": "compound identifying the qualified practitioner",
+     "morph": "compound: mantra-vid + m.nom.sg"
+    }
+   ],
+   "question": "What materials and proportion must the mantra-knower use for oblation?",
+   "premises": [
+    "The qualified agent is a knower of mantras.",
+    "Oblation is performed with a tenth part.",
+    "Soft flowers are used as the offering material."
+   ],
+   "inference": "The mantra-knower should offer oblations of a tenth part using soft flowers.",
+   "uncertainties": [],
+   "plain_english": "The knower of the mantra should offer oblations of a tenth part of that with soft flowers."
+  },
+  {
+   "verse": 1347,
+   "rows": [
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-knowledge",
+     "grounds": "compound naming the vidyā",
+     "morph": "compound: mahā-vidyā + f.nom.sg"
+    },
+    {
+     "surface": "mahā+kālyā",
+     "gloss": "mahākālī",
+     "grounds": "name of the goddess associated with the vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā+kālena",
+     "gloss": "by-mahākāla",
+     "grounds": "compound naming the speaker or revealer",
+     "morph": "compound: mahā-kāla + m.ins.sg"
+    },
+    {
+     "surface": "bhāṣitā",
+     "gloss": "spoken",
+     "grounds": "states the source of the teaching",
+     "morph": "f.nom.sg (past-passive-participle, √bhāṣ)"
+    }
+   ],
+   "question": "Who is credited with revealing the great vidyā of mahākālī?",
+   "premises": [
+    "The subject is the great vidyā of mahākālī.",
+    "The teaching is spoken.",
+    "Mahākāla is named as the speaker."
+   ],
+   "inference": "The great vidyā of mahākālī was spoken by mahākāla.",
+   "uncertainties": [],
+   "plain_english": "This great vidyā of mahākālī was spoken by mahākāla."
+  },
+  {
+   "verse": 1348,
+   "rows": [
+    {
+     "surface": "etat+trayaṃ",
+     "gloss": "this-triad",
+     "grounds": "compound referring to a group of three elements",
+     "morph": "compound: etat-traya + n.nom.sg"
+    },
+    {
+     "surface": "vahni+vallabhā",
+     "gloss": "fire-beloved",
+     "grounds": "compound naming svāhā",
+     "morph": "compound: vahni-vallabhā + f.nom.sg"
+    }
+   ],
+   "question": "What concluding element follows the specified triad in this mantra?",
+   "premises": [
+    "A triad of elements is indicated.",
+    "The term vahni-vallabhā denotes svāhā.",
+    "Svāhā is given in relation to that triad."
+   ],
+   "inference": "The triad is followed by svāhā.",
+   "uncertainties": [
+    "The exact members of etat+trayaṃ are implied from the preceding verse."
+   ],
+   "plain_english": "This triad, followed by svāhā, beloved of fire."
+  },
+  {
+   "verse": 1349,
+   "rows": [
+    {
+     "surface": "nija+bīja+trayaṃ",
+     "gloss": "own-seed-triad",
+     "grounds": "compound referring to the mantra's own three seed syllables",
+     "morph": "compound: nija-bīja-traya + n.nom.sg"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "seed syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahni+vallabhā",
+     "gloss": "fire-beloved",
+     "grounds": "compound naming svāhā",
+     "morph": "compound: vahni-vallabhā + f.nom.sg"
+    }
+   ],
+   "question": "What sequence completes the mantra's own seed triad in this formula?",
+   "premises": [
+    "The mantra's own triad of seed syllables is given.",
+    "The syllable phaṭ is added.",
+    "The formula ends with svāhā."
+   ],
+   "inference": "The mantra's own seed triad is followed by phaṭ and svāhā.",
+   "uncertainties": [],
+   "plain_english": "Its own triad of seed syllables, then phaṭ, then svāhā, beloved of fire."
+  }
+ ]
+}

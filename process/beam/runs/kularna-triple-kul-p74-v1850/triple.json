@@ -1,0 +1,50 @@
+{
+ "song": "kul-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "pañcapuṣpāñjalim",
+     "gloss": "five-flower-handful",
+     "grounds": "compound object denoting a handful of five flowers",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolute participle from the root jñā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "rites",
+     "grounds": "plural object to be accomplished",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative third singular active from the root sādh",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What should one accomplish after knowing the five-flower handful?",
+   "premises": [
+    "One knows the five-flower handful",
+    "Rites are to be accomplished"
+   ],
+   "inference": "One should accomplish the rites after knowing the five-flower handful",
+   "uncertainties": [
+    "The exact ritual context of the five-flower handful is not specified in this verse"
+   ],
+   "plain_english": "O goddess, having known the five-flower handful, one should accomplish the rites."
+  }
+ ]
+}

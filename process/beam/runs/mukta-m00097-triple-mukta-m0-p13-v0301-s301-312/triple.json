@@ -1,0 +1,599 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ākarṣiṇī",
+     "gloss": "attracting",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "mudra",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trailokya",
+     "gloss": "three-worlds",
+     "grounds": "neuter compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "ākarṣa",
+     "gloss": "attracting",
+     "grounds": "neuter compound member",
+     "morph": "n.comp"
+    },
+    {
+     "surface": "kāriṇī",
+     "gloss": "doing",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What mudra attracts all three worlds?",
+   "premises": [
+    "iyam mudra is named",
+    "trailokya akarsa is its function",
+    "kariṇi completes the description"
+   ],
+   "inference": "This mudra is the world-attracting mudra.",
+   "uncertainties": [
+    "compound internal sandhi not split"
+   ],
+   "plain_english": "This is the mudra that attracts the three worlds."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "same",
+     "gloss": "same",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svastikākāratvena",
+     "gloss": "svastika-shape",
+     "grounds": "instrumental singular noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "madhyaga",
+     "gloss": "middle-going",
+     "grounds": "neuter nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthāt",
+     "gloss": "meaning",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive from root kr",
+     "morph": "verb.act.abs"
+    }
+   ],
+   "question": "How is the same mudra shaped like a svastika?",
+   "premises": [
+    "same iti prāgvat repeats prior form",
+    "svastika shape is specified",
+    "madhyaga marks middle placement"
+   ],
+   "inference": "The mudra is made in svastika form with a middle element.",
+   "uncertainties": [
+    "madhyaga gender and case inferred"
+   ],
+   "plain_english": "Make it the same as before, in svastika shape, with the middle element."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "saṃyojya",
+     "gloss": "joining",
+     "grounds": "absolutive from root yuj",
+     "morph": "verb.act.abs"
+    },
+    {
+     "surface": "niviḍāḥ",
+     "gloss": "dense",
+     "grounds": "feminine nominative plural adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "feminine nominative plural pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "aṅguṣṭhāvagradeśataḥ",
+     "gloss": "thumb-tip-place",
+     "grounds": "ablative singular noun",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Where are the dense fingers joined?",
+   "premises": [
+    "saṃyojya means joining",
+    "niviḍāḥ describes dense fingers",
+    "aṅguṣṭhāvagradeśataḥ gives thumb-tip place"
+   ],
+   "inference": "All dense fingers are joined from the thumb-tip place.",
+   "uncertainties": [
+    "aṅguṣṭhāvagradeśataḥ case inferred"
+   ],
+   "plain_english": "Join all the dense fingers from the thumb-tip place."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "saṃmukhau",
+     "gloss": "face-to-face",
+     "grounds": "masculine nominative dual adjective",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karau",
+     "gloss": "hands",
+     "grounds": "masculine nominative dual noun",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive from root kr",
+     "morph": "verb.act.abs"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle-finger",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyaga",
+     "gloss": "middle-going",
+     "grounds": "neuter nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anuje",
+     "gloss": "younger",
+     "grounds": "feminine locative singular adjective",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "How are the hands placed face to face?",
+   "premises": [
+    "saṃmukhau karau means face-to-face hands",
+    "kṛtvā marks the action",
+    "madhyamā and madhyaga describe middle placement"
+   ],
+   "inference": "The hands are placed face to face with middle-finger placement.",
+   "uncertainties": [
+    "anuje case and referent inferred"
+   ],
+   "plain_english": "But place the hands face to face, with the middle finger in the middle."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "daṇḍākārau",
+     "gloss": "staff-shaped",
+     "grounds": "masculine nominative dual adjective",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tatrāṅguṣṭhau",
+     "gloss": "there-thumb",
+     "grounds": "masculine nominative dual noun",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle-finger",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nakhadeśagā",
+     "gloss": "nail-place-going",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where do the thumbs go in staff shape?",
+   "premises": [
+    "daṇḍākārau describes staff shape",
+    "tatrāṅguṣṭhau places thumbs there",
+    "nakhadeśagā marks nail place"
+   ],
+   "inference": "The thumbs are placed at the nail place in staff shape.",
+   "uncertainties": [
+    "tatra internal sandhi not split"
+   ],
+   "plain_english": "In staff shape, the thumbs go to the nail place."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-this",
+     "grounds": "feminine genitive singular pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāmikāyugma",
+     "gloss": "ring-finger-pair",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhaḥ",
+     "gloss": "below",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive from root kr",
+     "morph": "verb.act.abs"
+    },
+    {
+     "surface": "aṅkuśākṛti",
+     "gloss": "hook-shape",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shape is made with the ring fingers?",
+   "premises": [
+    "asyāḥ refers to this mudra",
+    "anāmikāyugma names ring-finger pair",
+    "aṅkuśākṛti names hook shape"
+   ],
+   "inference": "The ring-finger pair is placed below in hook shape.",
+   "uncertainties": [
+    "asyāḥ referent inferred"
+   ],
+   "plain_english": "But make the ring-finger pair below in hook shape."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "feminine nominative singular pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāṅkuśā",
+     "gloss": "great-hook",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidya",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakāmārthasādhakī",
+     "gloss": "all-desire-purpose-accomplishing",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the name and power of this vidya?",
+   "premises": [
+    "iyaṃ vidyā is named",
+    "mahāṅkuśā is its name",
+    "sarvakāmārthasādhakī states its power"
+   ],
+   "inference": "This vidya is the great hook that accomplishes all desires and purposes.",
+   "uncertainties": [
+    "vidyā technical sense inferred"
+   ],
+   "plain_english": "This is the great-hook vidya, accomplishing all desires and purposes."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "aṅgulīnām",
+     "gloss": "fingers",
+     "grounds": "feminine genitive plural noun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "aṅkuśākṛtitvaṃ",
+     "gloss": "hook-shape-ness",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "third singular active optative from root as",
+     "morph": "verb.act.opt.3sg"
+    }
+   ],
+   "question": "What may be the shape of the fingers?",
+   "premises": [
+    "aṅgulīnām refers to fingers",
+    "aṅkuśākṛtitvaṃ names hook-shape-ness",
+    "syāt expresses possibility"
+   ],
+   "inference": "The fingers may take hook shape.",
+   "uncertainties": [
+    "aṅgulīnām gender inferred"
+   ],
+   "plain_english": "The fingers may be in hook shape."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "bāhuṃ",
+     "gloss": "arm",
+     "grounds": "masculine accusative singular noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive from root kr",
+     "morph": "verb.act.abs"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "feminine vocative singular noun",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "hands",
+     "grounds": "masculine accusative dual noun",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "saṃparivartya",
+     "gloss": "having-turned",
+     "grounds": "absolutive from root vrt",
+     "morph": "verb.act.abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the arm and hands turned?",
+   "premises": [
+    "bāhuṃ kṛtvā sets the arm",
+    "hastau names the hands",
+    "saṃparivartya means turning them"
+   ],
+   "inference": "The arm is set and the hands are turned.",
+   "uncertainties": [
+    "bāhuṃ singular vs dual inferred"
+   ],
+   "plain_english": "Having set the arm, O great goddess, turn the hands."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "tarjanībhyāṃ",
+     "gloss": "by-index-fingers",
+     "grounds": "feminine instrumental dual noun",
+     "morph": "f.ins.du"
+    },
+    {
+     "surface": "samākrānte",
+     "gloss": "well-covered",
+     "grounds": "neuter locative singular participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvordhvam",
+     "gloss": "all-upward",
+     "grounds": "neuter nominative singular adverb",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "middle",
+     "grounds": "feminine locative singular adjective",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What is covered upward by the index fingers?",
+   "premises": [
+    "tarjanībhyāṃ names index fingers",
+    "samākrānte means well-covered",
+    "sarvordhvam means all upward"
+   ],
+   "inference": "The index fingers well cover all upward, including the middle.",
+   "uncertainties": [
+    "samākrānte participle referent inferred"
+   ],
+   "plain_english": "The index fingers well cover all upward, even the middle."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "feminine nominative singular pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine nominative singular pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khecarī",
+     "gloss": "sky-going",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "neuter instrumental singular noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "mudra",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvottamā",
+     "gloss": "all-best",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "feminine vocative singular adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the name of this best mudra?",
+   "premises": [
+    "iyaṃ sā mudrā identifies it",
+    "khecarī is its name",
+    "sarvottamā states its rank"
+   ],
+   "inference": "This mudra is named Khecarī and is the best.",
+   "uncertainties": [
+    "nāmnā case inferred"
+   ],
+   "plain_english": "This mudra is called Khecarī, the best, dear one."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "yuktveti",
+     "gloss": "connected",
+     "grounds": "fused absolutive plus particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbandhanīyam",
+     "gloss": "to-be-connected",
+     "grounds": "neuter nominative singular gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saralāvapīti",
+     "gloss": "straight-etc",
+     "grounds": "fused compound with particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apiśabdena",
+     "gloss": "by-particle-api",
+     "grounds": "instrumental singular noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tarjanīmadhyamayorapi",
+     "gloss": "index-middle-of-also",
+     "grounds": "genitive dual noun with particle",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "saralatvam",
+     "gloss": "straightness",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākṣiptam",
+     "gloss": "implied",
+     "grounds": "neuter nominative singular participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What straightness is implied for index and middle fingers?",
+   "premises": [
+    "yuktveti means connected",
+    "saralatvam means straightness",
+    "tarjanīmadhyamayorapi names index and middle"
+   ],
+   "inference": "Straightness of the index and middle fingers is implied.",
+   "uncertainties": [
+    "fused sandhi forms not split"
+   ],
+   "plain_english": "Connected; straightness of the index and middle fingers is implied."
+  }
+ ]
+}

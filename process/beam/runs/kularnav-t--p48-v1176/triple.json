@@ -1,0 +1,533 @@
+{
+ "song": "kul-p48",
+ "items": [
+  {
+   "verse": 1176,
+   "rows": [
+    {
+     "surface": "śrīkaṇṭhādi",
+     "gloss": "shrikantha-and-others",
+     "grounds": "legacy hint śrīkaṇṭha+ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "worship-fully",
+     "grounds": "legacy hint samyak-abhyarcya",
+     "morph": "absolutive (indecl.)"
+    },
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "legacy hint tat-phalam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "legacy hint labhate",
+     "morph": "verb 3.sg.mid-pres root labh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "legacy hint dhruvam",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit does one certainly obtain by worshipping Shrikantha and others?",
+   "premises": [
+    "worship of shrikantha and others yields fruit",
+    "the fruit is obtained certainly"
+   ],
+   "inference": "proper worship brings a definite fruit",
+   "uncertainties": [
+    "exact deity list beyond shrikantha is not specified"
+   ],
+   "plain_english": "By worshipping Shrikantha and the others, one certainly obtains that fruit."
+  },
+  {
+   "verse": 1177,
+   "rows": [
+    {
+     "surface": "māse",
+     "gloss": "month",
+     "grounds": "legacy hint māse",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māse",
+     "gloss": "month",
+     "grounds": "legacy hint māse",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "legacy hint athavā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣe",
+     "gloss": "year",
+     "grounds": "legacy hint varṣe",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svajanmadivase",
+     "gloss": "own-birth-day",
+     "grounds": "legacy hint sva-janma-divase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "legacy hint priye",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "When should the worship be performed each month or year?",
+   "premises": [
+    "worship may occur month by month",
+    "worship may occur yearly on one's birth day"
+   ],
+   "inference": "the rite has recurring calendrical occasions",
+   "uncertainties": [
+    "whether both month and year options are alternatives or cumulative"
+   ],
+   "plain_english": "Month by month, or yearly on one's own birth day, dear one."
+  },
+  {
+   "verse": 1178,
+   "rows": [
+    {
+     "surface": "prauḍhāntollāsaparyantaṃ",
+     "gloss": "until-full-joy-end",
+     "grounds": "legacy hint prauḍha-anta-ullāsa-paryantam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "toṣayettadvidhānavit",
+     "gloss": "should-please",
+     "grounds": "legacy hint toṣayet",
+     "morph": "verb 3.sg.act-opt root tuṣ"
+    },
+    {
+     "surface": "tadvidhānavit",
+     "gloss": "knower-of-that-rite",
+     "grounds": "legacy hint tat-vidhāna-vit",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Until what point should the knower of the rite please the deity?",
+   "premises": [
+    "the knower of the rite should please",
+    "pleasing extends to the end of full joy"
+   ],
+   "inference": "the rite is performed with sustained joyful devotion",
+   "uncertainties": [
+    "exact ritual endpoint is phrased loosely"
+   ],
+   "plain_english": "The knower of that rite should please until the end of full joy."
+  },
+  {
+   "verse": 1179,
+   "rows": [
+    {
+     "surface": "sarvopadrava rahitaḥ",
+     "gloss": "free-from-all-disturbances",
+     "grounds": "legacy hint sarva-upadrava-rahitaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaiśvaryasamanvitaḥ",
+     "gloss": "endowed-with-all-powers",
+     "grounds": "legacy hint sarva-aiśvarya-samanvitaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities result from this worship practice?",
+   "premises": [
+    "the practitioner becomes free from all disturbances",
+    "the practitioner becomes endowed with all powers"
+   ],
+   "inference": "successful worship brings protection and empowerment",
+   "uncertainties": [
+    "whether these are immediate or final results"
+   ],
+   "plain_english": "Free from all disturbances and endowed with all powers."
+  },
+  {
+   "verse": 1180,
+   "rows": [
+    {
+     "surface": "dehānte",
+     "gloss": "at-body-end",
+     "grounds": "legacy hint deha-ante",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samavāpnoti",
+     "gloss": "attains",
+     "grounds": "legacy hint samavāpnoti",
+     "morph": "verb 3.sg.act-pres root avāp"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "legacy hint tava",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "lokaṃ",
+     "gloss": "world",
+     "grounds": "legacy hint lokam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "legacy hint saṃśayaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What world does one attain at the end of the body?",
+   "premises": [
+    "at the end of the body one attains your world",
+    "there is no doubt about this attainment"
+   ],
+   "inference": "the rite promises a postmortem destination",
+   "uncertainties": [
+    "identity of the addressed deity or teacher"
+   ],
+   "plain_english": "At the end of the body one attains your world; there is no doubt."
+  },
+  {
+   "verse": 1181,
+   "rows": [
+    {
+     "surface": "nivīkalpena",
+     "gloss": "with-nivika-intent",
+     "grounds": "legacy hint nivīka-kalpena",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "cittena",
+     "gloss": "with-mind",
+     "grounds": "legacy hint cittena",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "navaśaktisamanvitaḥ",
+     "gloss": "endowed-with-nine-powers",
+     "grounds": "legacy hint nava-śakti-samanvitaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mind and powers accompany this practice?",
+   "premises": [
+    "the mind is nivika in character",
+    "the practitioner is endowed with nine powers"
+   ],
+   "inference": "the rite requires a special mental disposition",
+   "uncertainties": [
+    "meaning of nivika is not explained here"
+   ],
+   "plain_english": "With a nivika mind, one is endowed with nine powers."
+  },
+  {
+   "verse": 1182,
+   "rows": [
+    {
+     "surface": "ājñāsiddhirbhavettasya",
+     "gloss": "command-success-becomes-his",
+     "grounds": "legacy hint ājñā-siddhiḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavettasya",
+     "gloss": "becomes-his",
+     "grounds": "legacy hint bhavet",
+     "morph": "verb 3.sg.act-opt root bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "legacy hint tasya",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "devatāprītimāpnuyāt",
+     "gloss": "deity-pleasure-obtains",
+     "grounds": "legacy hint devatā-prītim",
+     "morph": "compound"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "legacy hint āpnuyāt",
+     "morph": "verb 3.sg.act-opt root āp"
+    }
+   ],
+   "question": "What success and divine favor follow from this practice?",
+   "premises": [
+    "command success becomes his",
+    "he obtains the deity's pleasure"
+   ],
+   "inference": "the practitioner gains effective authority and divine favor",
+   "uncertainties": [
+    "whether ājñā means command or a yogic center"
+   ],
+   "plain_english": "Command success becomes his, and he obtains the deity's pleasure."
+  },
+  {
+   "verse": 1183,
+   "rows": [
+    {
+     "surface": "āgamokteta",
+     "gloss": "by-agama-stated",
+     "grounds": "legacy hint āgama-uktena",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "legacy hint vidhinā",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūrvavettadvidhānavit",
+     "gloss": "as-before",
+     "grounds": "legacy hint pūrva-vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvidhānavit",
+     "gloss": "knower-of-that-rite",
+     "grounds": "legacy hint tat-vidhāna-vit",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what method should the knower of the rite proceed?",
+   "premises": [
+    "the method is stated by the agama",
+    "the knower proceeds as before"
+   ],
+   "inference": "the rite follows scriptural procedure",
+   "uncertainties": [
+    "the exact agama method is not detailed here"
+   ],
+   "plain_english": "By the rite stated in the agama, the knower proceeds as before."
+  },
+  {
+   "verse": 1184,
+   "rows": [
+    {
+     "surface": "deveśi",
+     "gloss": "goddess-lord",
+     "grounds": "legacy hint deveśi",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sādhakābhīṣṭaṃ",
+     "gloss": "adept's-desire",
+     "grounds": "legacy hint sādhaka-abhīṣṭam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayacchanti",
+     "gloss": "grant",
+     "grounds": "legacy hint prayacchanti",
+     "morph": "verb 3.pl.act-pres root prac"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "legacy hint saṃśayaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Do the deities grant the adept's desired aim?",
+   "premises": [
+    "the deities grant the adept's desire",
+    "there is no doubt about this grant"
+   ],
+   "inference": "the rite secures the practitioner's aim",
+   "uncertainties": [
+    "which deities are addressed as deveśi"
+   ],
+   "plain_english": "O goddess, the deities grant the adept's desire; there is no doubt."
+  },
+  {
+   "verse": 1185,
+   "rows": [
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "legacy hint karoti",
+     "morph": "verb 3.sg.act-pres root kṛ"
+    },
+    {
+     "surface": "śastravidhinā",
+     "gloss": "by-weapon-rite",
+     "grounds": "legacy hint śastra-vidhinā",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "legacy hint saḥ",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "bhavedāvayoḥ",
+     "gloss": "becomes-of-us-two",
+     "grounds": "legacy hint bhavet",
+     "morph": "compound"
+    },
+    {
+     "surface": "āvayoḥ",
+     "gloss": "of-us-two",
+     "grounds": "legacy hint āvayoḥ",
+     "morph": "pron.gen.du"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "legacy hint priyaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes dear to both through the weapon rite?",
+   "premises": [
+    "he performs by the weapon rite",
+    "he becomes dear to both of us"
+   ],
+   "inference": "the rite creates a bond of favor",
+   "uncertainties": [
+    "whether āvayoḥ refers to deity and teacher or two deities"
+   ],
+   "plain_english": "He who acts by the weapon rite becomes dear to both of us."
+  },
+  {
+   "verse": 1186,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "legacy hint karoti",
+     "morph": "verb 3.sg.act-pres root kṛ"
+    },
+    {
+     "surface": "samarthaḥ",
+     "gloss": "capable",
+     "grounds": "legacy hint samarthaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "legacy hint san",
+     "morph": "participle (indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "legacy hint saḥ",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "legacy hint bhavet",
+     "morph": "verb 3.sg.act-opt root bhū"
+    },
+    {
+     "surface": "yoginīpaśuḥ",
+     "gloss": "yogini-beast",
+     "grounds": "legacy hint yoginī-paśuḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "What becomes of one capable who does not act?",
+   "premises": [
+    "one capable who does not act",
+    "he becomes a yogini beast"
+   ],
+   "inference": "inaction despite capacity leads to degradation",
+   "uncertainties": [
+    "whether yoginīpaśuḥ is literal or figurative"
+   ],
+   "plain_english": "Though capable, if he does not act, he becomes a yogini beast."
+  },
+  {
+   "verse": 1187,
+   "rows": [
+    {
+     "surface": "kulapūjāṃ",
+     "gloss": "kula-worship",
+     "grounds": "legacy hint kula-pūjām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "suniyataṃ",
+     "gloss": "well-regulated",
+     "grounds": "legacy hint su-niyatam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "legacy hint yaḥ",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "legacy hint karoti",
+     "morph": "verb 3.sg.act-pres root kṛ"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "legacy hint saḥ",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaulika",
+     "grounds": "legacy hint kaulikaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is called a kaulika in this context?",
+   "premises": [
+    "he performs kula worship well-regulated",
+    "he is called a kaulika"
+   ],
+   "inference": "regulated kula worship defines the kaulika",
+   "uncertainties": [
+    "whether kaulika means practitioner or initiate"
+   ],
+   "plain_english": "He who performs kula worship in a well-regulated way is a kaulika."
+  }
+ ]
+}

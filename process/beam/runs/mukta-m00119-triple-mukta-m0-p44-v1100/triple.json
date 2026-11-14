@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "siddheśvarīmataṃ",
+     "gloss": "siddheshvari-opinion",
+     "grounds": "compound of siddheśvarī and mataṃ; accusative object of proktaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle of pra-vac; neuter accusative singular",
+     "morph": "part.pass.acc.sg.n (pra-vac)"
+    },
+    {
+     "surface": "sarvasiddhipradāyakam",
+     "gloss": "all-accomplishment-giving",
+     "grounds": "compound of sarva, siddhi, and pradāyaka; modifies mataṃ",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which declared opinion is said to give all accomplishments?",
+   "premises": [
+    "Siddheśvarī's opinion is declared.",
+    "That opinion gives all accomplishments.",
+    "The verse names the source of all accomplishments."
+   ],
+   "inference": "The declared Siddheśvarī opinion is the all-accomplishment-giving teaching.",
+   "uncertainties": [
+    "Exact ritual context of Siddheśvarī is not specified."
+   ],
+   "plain_english": "The opinion of Siddheśvarī is declared, which gives all accomplishments."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "devīpṛṣṭhadalāramya",
+     "gloss": "goddess-back-petal-resting",
+     "grounds": "fused compound naming the resting place on the goddess's back petal",
+     "morph": "compound = devī+pṛṣṭha+dala+āramya"
+    },
+    {
+     "surface": "gauḍakāśmīrayorvidhiḥ",
+     "gloss": "gauḍa-kashmir-rite",
+     "grounds": "fused compound naming the rite of Gauḍa and Kashmir",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which regional rite rests on the goddess's back petal?",
+   "premises": [
+    "Gauḍa and Kashmir rite rests on goddess back petal",
+    "The verse names the resting place directly"
+   ],
+   "inference": "The verse identifies the regional rite's resting place on the goddess's back petal.",
+   "uncertainties": [
+    "Exact internal compound segmentation is not fully certain"
+   ],
+   "plain_english": "The rite of Gauḍa and Kashmir rests on the goddess's back petal."
+  }
+ ]
+}

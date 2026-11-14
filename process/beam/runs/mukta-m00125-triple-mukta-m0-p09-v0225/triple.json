@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "kadalī",
+     "gloss": "plantain",
+     "grounds": "plant name in this list of substances",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "śatapatram",
+     "gloss": "hundred-petaled-lotus",
+     "grounds": "compound name for lotus-like plant/substance in list",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjoins items in the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhātakī",
+     "gloss": "dhātaki-flower",
+     "grounds": "plant name (dhātakī) listed among substances",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "śvetalodhakam",
+     "gloss": "white-lodhra",
+     "grounds": "compound plant name (white lodhra) in the enumeration",
+     "morph": "neut.nom.sg"
+    }
+   ],
+   "question": "Which plant and substance names complete this enumerated set of listed items?",
+   "premises": [
+    "Verse lists plant names as enumerated items.",
+    "Items are joined into a sequence of substances.",
+    "The set continues the prior list of named plants."
+   ],
+   "inference": "The verse names plantain, hundred-petaled lotus, dhātakī, and white lodhra as listed items.",
+   "uncertainties": [
+    "Exact ritual or astra classification of these items is not stated in this verse alone."
+   ],
+   "plain_english": "Plantain, hundred-petaled lotus, and dhātakī and white lodhra are named in this list."
+  }
+ ]
+}

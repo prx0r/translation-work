@@ -1,0 +1,577 @@
+{
+ "song": "kul-p25",
+ "items": [
+  {
+   "verse": 601,
+   "rows": [
+    {
+     "surface": "prāśayet",
+     "gloss": "should-offer",
+     "grounds": "causative optative form",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "devatāprītyai",
+     "gloss": "for-deity-pleasure",
+     "grounds": "dative of purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "svābhilāṣavivajitaḥ",
+     "gloss": "devoid-of-own-desire",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should one offer to the deity without own desire?",
+   "premises": [
+    "Offering should be for deity pleasure",
+    "Own desire should be absent"
+   ],
+   "inference": "Ritual offering is directed to deity pleasure rather than personal desire.",
+   "uncertainties": [
+    "Exact verbal root and mood inferred from legacy hint"
+   ],
+   "plain_english": "One should offer to the deity for the deity's pleasure, being free from one's own desire."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "yāgakālaṃ",
+     "gloss": "yajna-time",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "binānyatra",
+     "gloss": "except-elsewhere",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣaṇaṃ",
+     "gloss": "fault",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "said",
+     "grounds": "past participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What fault is said about yajna time elsewhere?",
+   "premises": [
+    "Yajna time is specified",
+    "Fault is mentioned elsewhere",
+    "The listener is addressed as dear"
+   ],
+   "inference": "The verse states a fault concerning yajna timing outside the proper context.",
+   "uncertainties": [
+    "Syntactic relation of kathitaṃ is not fully explicit"
+   ],
+   "plain_english": "The fault, apart from the proper yajna time, is said, dear one."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "madyapānaṃ",
+     "gloss": "wine-drinking",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "samaye",
+     "gloss": "at-proper-time",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhogamokṣadam",
+     "gloss": "giving-enjoyment-liberation",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "When should wine drinking be done for enjoyment and liberation?",
+   "premises": [
+    "Wine drinking is to be done",
+    "It should occur at proper time",
+    "It gives enjoyment and liberation"
+   ],
+   "inference": "Wine drinking is prescribed at the proper time as a practice yielding enjoyment and liberation.",
+   "uncertainties": [
+    "Exact ritual context is not specified"
+   ],
+   "plain_english": "Wine drinking should likewise be done at the proper time, giving enjoyment and liberation."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "pañcamudrā",
+     "gloss": "five-mudras",
+     "grounds": "compound nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niṣeveta",
+     "gloss": "should-practice",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patito",
+     "gloss": "fallen",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens if the five mudras are not practiced?",
+   "premises": [
+    "Five mudras should be practiced",
+    "Otherwise one becomes fallen"
+   ],
+   "inference": "Failure to practice the five mudras results in a fallen state.",
+   "uncertainties": [
+    "Whether cānyathā modifies practice or result"
+   ],
+   "plain_english": "One should practice the five mudras; otherwise one would be fallen."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "apyatra",
+     "gloss": "even-here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛthāpānī",
+     "gloss": "vain-drinker",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What would a vain drinker among heroes obtain here?",
+   "premises": [
+    "Even a hero may be a vain drinker",
+    "A vain drinker obtains deity curse"
+   ],
+   "inference": "A hero who drinks vainly here incurs a deity's curse.",
+   "uncertainties": [
+    "Whether apyatra qualifies hero or drinking"
+   ],
+   "plain_english": "Even a hero here, if a vain drinker, would obtain a deity's curse."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "paśupānavidhau",
+     "gloss": "paśupāna-rite",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vīro'pi",
+     "gloss": "hero-even",
+     "grounds": "nominative with particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where would a hero go after drinking in the paśupāna rite?",
+   "premises": [
+    "In the paśupāna rite one drinks",
+    "Even a hero would go to hell"
+   ],
+   "inference": "Drinking in the paśupāna rite leads even a hero to hell.",
+   "uncertainties": [
+    "Whether pītvā refers to ritual drinking generally"
+   ],
+   "plain_english": "Having drunk in the paśupāna rite, even a hero would go to hell."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "demonstrative locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "scripture",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pravartteta",
+     "gloss": "would-act",
+     "grounds": "optative verb",
+     "morph": "3.sg.mid-opt"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "accusative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "nominative pronoun",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "pīḍayasi",
+     "gloss": "torment",
+     "grounds": "present verb",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom does the speaker certainly torment for acting in this scripture?",
+   "premises": [
+    "One who acts in this scripture",
+    "You torment him certainly"
+   ],
+   "inference": "The speaker declares certain torment for one who acts according to this scripture.",
+   "uncertainties": [
+    "Whether pravartteta is middle or passive"
+   ],
+   "plain_english": "Whoever acts in this scripture, you certainly torment him."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāpātakī",
+     "gloss": "great-sinner",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadharmabahiṣkṛtaḥ",
+     "gloss": "excluded-from-all-dharma",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should such a person be known among all dharma?",
+   "premises": [
+    "He is a great sinner",
+    "He is excluded from all dharma"
+   ],
+   "inference": "Such a person is to be known as a great sinner excluded from all dharma.",
+   "uncertainties": [
+    "Antecedent of saḥ is contextual"
+   ],
+   "plain_english": "He should be known as a great sinner, excluded from all dharma."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kulabhraṃśaḥ",
+     "gloss": "clan-fall",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatsaṃsargaṃ",
+     "gloss": "that-association",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should not be caused regarding accomplishments and clan fall?",
+   "premises": [
+    "Accomplishments are not clan fall",
+    "That association should not be caused"
+   ],
+   "inference": "One should not cause association that leads to clan fall rather than accomplishments.",
+   "uncertainties": [
+    "Exact relation between siddhayaḥ and kulabhraṃśaḥ"
+   ],
+   "plain_english": "Accomplishments are not clan fall; one should not cause that association."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "accomplishment",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāpnoti",
+     "gloss": "not-obtains",
+     "grounds": "negative present verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "paratra",
+     "gloss": "elsewhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "adjective accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "state",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What does such a person fail to obtain here and elsewhere?",
+   "premises": [
+    "He does not obtain accomplishment here",
+    "He does not obtain supreme state elsewhere"
+   ],
+   "inference": "Such a person obtains neither accomplishment in this life nor the supreme state beyond.",
+   "uncertainties": [
+    "Whether saḥ refers to previous sinner"
+   ],
+   "plain_english": "He does not obtain accomplishment here, nor the supreme state elsewhere."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sadgatiḥ",
+     "gloss": "good-state",
+     "grounds": "compound nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapastīrthavratādibhiḥ",
+     "gloss": "by-austerities-pilgrimages-vows-etc",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Can his good state be reached by austerities and pilgrimages?",
+   "premises": [
+    "His good state is nowhere",
+    "Not by austerities pilgrimages vows etc"
+   ],
+   "inference": "No austerities, pilgrimages, or vows can secure a good state for him.",
+   "uncertainties": [
+    "Whether kvāpi modifies sadgatiḥ or the means"
+   ],
+   "plain_english": "His good state is nowhere attainable by austerities, pilgrimages, vows, and the like."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "svapriyeṇa",
+     "gloss": "by-own-dear-one",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hataṃ",
+     "gloss": "killed",
+     "grounds": "past participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "Raurava",
+     "grounds": "adjective accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where would meat killed by one's own dear one go?",
+   "premises": [
+    "Meat killed by one's own dear one",
+    "Would go to Raurava hell"
+   ],
+   "inference": "Meat killed by one's own dear one leads to Raurava hell.",
+   "uncertainties": [
+    "Whether svapriyeṇa means beloved person or dear one generally"
+   ],
+   "plain_english": "Meat killed by one's own dear one would go to Raurava hell."
+  }
+ ]
+}

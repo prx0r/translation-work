@@ -1,0 +1,1061 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "tattaddaivatagāyattrīṃ",
+     "gloss": "that-deity-gayatri",
+     "grounds": "fused sandhi form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭottaram",
+     "gloss": "eight-more-than-hundred",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many repetitions of each deity's gayatri are prescribed before worship?",
+   "premises": [
+    "Each deity has its own gayatri",
+    "The count is one hundred eight",
+    "The rite precedes worship"
+   ],
+   "inference": "The practitioner recites one hundred eight gayatris for each deity.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Recite one hundred eight gayatris for each deity."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "pūjayeddevatāṃ",
+     "gloss": "worship-deity",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svavāme",
+     "gloss": "own-left",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthānamaṇḍape",
+     "gloss": "place-pavilion",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the deity worshipped after the gayatri recitation?",
+   "premises": [
+    "Worship follows recitation",
+    "The place is the left side",
+    "The pavilion is the site"
+   ],
+   "inference": "The deity is worshipped in the pavilion on one's left side.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Then worship the deity in the pavilion on your left."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "sugandhidivyatailena",
+     "gloss": "fragrant-divine-oil",
+     "grounds": "compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dadyādabhyaṅgam",
+     "gloss": "give-anointing",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What oil is used for anointing the deity?",
+   "premises": [
+    "The oil is fragrant",
+    "The oil is divine",
+    "Anointing is prescribed"
+   ],
+   "inference": "The deity is anointed with fragrant divine oil.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Anoint with fragrant divine oil."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "snāpayed",
+     "gloss": "bathe",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "bhaktibhāvena",
+     "gloss": "devotion-mood",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhiṣekaghaṭāmṛtaiḥ",
+     "gloss": "bath-pot-nectars",
+     "grounds": "compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How is the deity bathed during consecration?",
+   "premises": [
+    "Bathing is done with devotion",
+    "The nectars come from bath pots",
+    "The rite is abhisheka"
+   ],
+   "inference": "The deity is bathed with devotion using nectars from bath pots.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Bathe with devotion using bath-pot nectars."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "sarvauṣadhijalair",
+     "gloss": "all-herb-waters",
+     "grounds": "compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "gandhajalair",
+     "gloss": "scent-waters",
+     "grounds": "compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "root-mantra",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "secayet",
+     "gloss": "sprinkle",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What waters and mantra are used to sprinkle the deity?",
+   "premises": [
+    "All herb waters are used",
+    "Scented waters are used",
+    "The root mantra accompanies sprinkling"
+   ],
+   "inference": "Sprinkle with all herb and scented waters while using the root mantra.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Sprinkle with herb and scented waters using the root mantra."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śuddhadukūlena",
+     "gloss": "pure-fine-cloth",
+     "grounds": "compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttolya",
+     "gloss": "lifting-up",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the practitioner do with water and cloth?",
+   "premises": [
+    "The practitioner acts",
+    "The cloth is pure fine cloth",
+    "Water is lifted up"
+   ],
+   "inference": "The practitioner lifts water with pure fine cloth.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "The practitioner lifts water with pure fine cloth."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "maṇḍale",
+     "gloss": "circle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samānīya",
+     "gloss": "bringing-together",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nṛtyair",
+     "gloss": "dances",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "gītair",
+     "gloss": "songs",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "jayasvanaiḥ",
+     "gloss": "victory-sounds",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How is the deity brought into the circle?",
+   "premises": [
+    "The deity is brought",
+    "Dances accompany her",
+    "Songs and victory sounds accompany her"
+   ],
+   "inference": "The deity is brought into the circle with dances, songs, and victory sounds.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Bring her into the circle with dances, songs, and victory sounds."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "kuṇḍe",
+     "gloss": "fire-pit",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "altar-ground",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haviṣā",
+     "gloss": "offering",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "prepared",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anale",
+     "gloss": "fire",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where may the mantra-knower offer oblations?",
+   "premises": [
+    "The fire pit is an option",
+    "The altar ground is an option",
+    "The fire must be prepared"
+   ],
+   "inference": "The mantra-knower offers oblations in a prepared fire pit or altar ground.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Offer in a prepared fire pit or altar ground."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "yathāvidhividhānena",
+     "gloss": "according-to-rule-procedure",
+     "grounds": "compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "srucā",
+     "gloss": "ladle",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "perform",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How is the fire offering performed?",
+   "premises": [
+    "The procedure follows rule",
+    "The ladle is used",
+    "The offering is homa"
+   ],
+   "inference": "The fire offering is performed by rule with a ladle.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Perform the fire offering by rule with a ladle."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "ghṛtasruvaṃ",
+     "gloss": "ghee-ladle",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "offer",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "agnisaṃmukhe",
+     "gloss": "fire-facing",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is offered facing the fire?",
+   "premises": [
+    "Ghee is given",
+    "The ladle is used",
+    "The offering faces fire"
+   ],
+   "inference": "Ghee is offered facing the fire.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Offer ghee facing the fire."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "caruṇā",
+     "gloss": "rice-offering",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dikpatibhyaś",
+     "gloss": "direction-lords",
+     "grounds": "dative plural",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "pūrvādito",
+     "gloss": "from-east",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "balim",
+     "gloss": "tribute",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "To whom and from where is the tribute given?",
+   "premises": [
+    "Rice offering is used",
+    "Direction lords receive it",
+    "The order starts from east"
+   ],
+   "inference": "Tribute is given to the direction lords starting from the east.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Give tribute to the direction lords from the east onward."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caruṇā",
+     "gloss": "rice-offering",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devasamīpage",
+     "gloss": "deity-near",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where else may the rice offering be made?",
+   "premises": [
+    "The offering is rice",
+    "It is done likewise",
+    "The place is near the deity"
+   ],
+   "inference": "Alternatively, the rice offering is made near the deity.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Or make the rice offering near the deity."
+  },
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "one-hundred-eight",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra is chanted one hundred eight times?",
+   "premises": [
+    "The count is one hundred eight",
+    "The mantra is chanted",
+    "The root mantra is specified"
+   ],
+   "inference": "The practitioner chants the root mantra one hundred eight times while composed.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Chant the root mantra one hundred eight times with composure."
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "mātṛkā",
+     "gloss": "mother-letters",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlamantrañ",
+     "gloss": "root-mantra",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japan",
+     "gloss": "chanting",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jayajayasvanaiḥ",
+     "gloss": "victory-victory-sounds",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is chanted along with the root mantra?",
+   "premises": [
+    "Mother letters are chanted",
+    "The root mantra is chanted",
+    "Victory sounds accompany chanting"
+   ],
+   "inference": "The practitioner chants mother letters and root mantra with victory sounds.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Chant mother letters and root mantra with victory sounds."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-teacher",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "svarṇaṃ",
+     "gloss": "gold",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṣapramāṇataḥ",
+     "gloss": "karsha-measure",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What fee is given to the teacher?",
+   "premises": [
+    "A fee is given",
+    "The teacher receives it",
+    "Gold is measured by karsha"
+   ],
+   "inference": "Gold measured by karsha is given to the teacher as fee.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Give the teacher gold measured by karsha as fee."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "santoṣayed",
+     "gloss": "satisfy",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-received",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āśiṣo",
+     "gloss": "blessings",
+     "grounds": "accusative plural",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "dvijān",
+     "gloss": "brahmins",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom does the learned one satisfy after receiving blessings?",
+   "premises": [
+    "The learned one acts",
+    "Blessings are received",
+    "Brahmins are satisfied"
+   ],
+   "inference": "The learned one receives blessings and satisfies brahmins.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Then the learned one receives blessings and satisfies brahmins."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act.ind."
+    },
+    {
+     "surface": "pratiṣṭhānaṃ",
+     "gloss": "consecration",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daivatasya",
+     "gloss": "of-deity",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mahātmanaḥ",
+     "gloss": "great-soul",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Who performs consecration of a great deity?",
+   "premises": [
+    "A person acts",
+    "The act is consecration",
+    "The deity is great-souled"
+   ],
+   "inference": "Whoever performs consecration of a great-souled deity gains the stated result.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Whoever consecrates a great-souled deity."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lakṣasahasrāṇi",
+     "gloss": "hundred-thousand-thousands",
+     "grounds": "compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "brahmaloke",
+     "gloss": "brahma-world",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "verb",
+     "morph": "3.sg.pass.ind."
+    }
+   ],
+   "question": "What reward follows consecration of a great deity?",
+   "premises": [
+    "The result is in brahma world",
+    "The duration is lakhs of thousands",
+    "The person is honored"
+   ],
+   "inference": "The consecrator is honored in brahma world for lakhs of thousands.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Then he is honored in brahma world for lakhs of thousands."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "koṭikalpāntaṃ",
+     "gloss": "crore-kalpa-end",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mohayed",
+     "gloss": "delights",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "acyute",
+     "gloss": "in-imperishable",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pade",
+     "gloss": "place",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What alternative reward is stated?",
+   "premises": [
+    "The alternative is given",
+    "The duration is crore kalpas",
+    "The place is imperishable"
+   ],
+   "inference": "Alternatively, one delights in the imperishable place for crore kalpas.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Or one delights in the imperishable place for crore kalpas."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "śaratkāle",
+     "gloss": "autumn-time",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahāpuṇye",
+     "gloss": "very-auspicious",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṇyakṣetre",
+     "gloss": "holy-field",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ahani",
+     "gloss": "day",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "When and where should the rite be performed?",
+   "premises": [
+    "The season is autumn",
+    "The field is holy",
+    "The day is auspicious"
+   ],
+   "inference": "The rite is performed in autumn, in a holy field, on an auspicious day.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "In autumn, in a holy field, on an auspicious day."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "pūrvoktaṃ",
+     "gloss": "previously-said",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācarya",
+     "gloss": "having-performed",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vṛddhiśrāddhapuraḥsaram",
+     "gloss": "growth-shraddha-first",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What preliminary rite precedes the main performance?",
+   "premises": [
+    "All previously said is performed",
+    "Growth shraddha comes first",
+    "The main rite follows"
+   ],
+   "inference": "Perform all previously said rites after first performing growth shraddha.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Perform all previously said rites, first performing growth shraddha."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "patākādhvajasaṅkīrṇe",
+     "gloss": "flags-banners-crowded",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tuṅgatoraṇaśobhite",
+     "gloss": "high-gateways-adorned",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the ritual site be decorated?",
+   "premises": [
+    "Flags and banners crowd it",
+    "High gateways adorn it",
+    "The site is decorated"
+   ],
+   "inference": "The ritual site is crowded with flags and banners and adorned with high gateways.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "The site is crowded with flags and banners and adorned with high gateways."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "vilikhya",
+     "gloss": "having-drawn",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvatobhadraṃ",
+     "gloss": "all-auspicious-diagram",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāpayed",
+     "gloss": "establish",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "kalasantathā",
+     "gloss": "pots-thus",
+     "grounds": "compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What diagram and vessels are established?",
+   "premises": [
+    "The diagram is drawn",
+    "The diagram is all-auspicious",
+    "Pots are established"
+   ],
+   "inference": "Draw the all-auspicious diagram and establish pots.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Draw the all-auspicious diagram and establish pots."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "aṅgadevān",
+     "gloss": "limb-deities",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattaddevagaṇān",
+     "gloss": "those-deity-groups",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "sacrifice",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "Which deities are worshipped and sacrificed to?",
+   "premises": [
+    "Limb deities are worshipped",
+    "Those deity groups are specified",
+    "Sacrifice follows worship"
+   ],
+   "inference": "Worship the limb deities and sacrifice to those deity groups.",
+   "uncertainties": [
+    "Exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "Worship the limb deities and sacrifice to those deity groups."
+  }
+ ]
+}

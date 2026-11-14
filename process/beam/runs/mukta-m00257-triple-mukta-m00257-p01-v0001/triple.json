@@ -1,0 +1,252 @@
+{
+ "song": "mukta-m00257-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "vara",
+     "gloss": "boon",
+     "grounds": "First member of compound describing hands; legacy hint 'boon'.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anavara",
+     "gloss": "fearlessness",
+     "grounds": "Second member in compound sequence; legacy hint 'and-fearlessness'; form uncertain (possibly variant of abhaya), UNC.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "da",
+     "gloss": "giving",
+     "grounds": "Agentive compound member from √dā 'to give'.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dakṣa",
+     "gloss": "right",
+     "grounds": "Qualifies hands as right-side; compound member.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hastaiḥ",
+     "gloss": "with-hands",
+     "grounds": "Instrumental plural denoting means by which she bears.",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vahantīm",
+     "gloss": "bearing",
+     "grounds": "Present participle agreeing with Siddhalakshmi (accusative) in verse 2.",
+     "morph": "f.acc.sg.pres.part √vah"
+    }
+   ],
+   "question": "What gifts are borne by the right hands of Siddhalakshmi in this depiction?",
+   "premises": [
+    "The right hands are described as giving boon and fearlessness.",
+    "Siddhalakshmi is portrayed as bearing these gifts with her hands."
+   ],
+   "inference": "Siddhalakshmi's right hands embody the bestowal of boon and fearlessness.",
+   "uncertainties": [
+    "The form 'anavara' is taken as 'fearlessness' following legacy hint, but its exact lexical identity is uncertain."
+   ],
+   "plain_english": "Bearing boon and fearlessness with her right hands."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "kāmaṃ",
+     "gloss": "desire",
+     "grounds": "Object held or granted by the left hands.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmaiḥ",
+     "gloss": "with-left",
+     "grounds": "Qualifies the palms/hands on the left side.",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śubha",
+     "gloss": "auspicious",
+     "grounds": "First member of compound describing palms.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kara",
+     "gloss": "making",
+     "grounds": "Agentive compound member indicating action of the palms.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "talaiḥ",
+     "gloss": "with-palms",
+     "grounds": "Instrumental plural denoting means by which she holds.",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bibhratīṃ",
+     "gloss": "holding",
+     "grounds": "Present participle agreeing with Siddhalakshmi.",
+     "morph": "f.acc.sg.pres.part √bhṛ"
+    },
+    {
+     "surface": "viśva",
+     "gloss": "by-universe",
+     "grounds": "First member of compound indicating universal scope.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vandyāṃ",
+     "gloss": "worshipped",
+     "grounds": "Gerundive describing Siddhalakshmi as worthy of worship.",
+     "morph": "f.acc.sg.gerundive √vand"
+    },
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "First member of locative compound describing her stance.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "preta",
+     "gloss": "corpse",
+     "grounds": "Second member of locative compound describing her stance.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uparikṛta",
+     "gloss": "placed-upon",
+     "grounds": "Compound member indicating feet placed above lotus and corpse.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "padāṃ",
+     "gloss": "feet",
+     "grounds": "Accusative singular describing Siddhalakshmi's feet.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhalakṣmīṃ",
+     "gloss": "Siddhalakshmi",
+     "grounds": "Name of the deity, object of homage.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "I-bow",
+     "grounds": "Main verb expressing the speaker's act of reverence.",
+     "morph": "1.sg.pres.act.ind √nam"
+    }
+   ],
+   "question": "How is Siddhalakshmi characterized and honored in this act of obeisance?",
+   "premises": [
+    "Siddhalakshmi holds desire with her auspicious left palms.",
+    "She is worshipped by the universe and stands with feet placed upon lotus and corpse.",
+    "The speaker performs an act of bowing to Siddhalakshmi."
+   ],
+   "inference": "The verse offers reverence to Siddhalakshmi as a universally worshipped deity who grants desire and stands upon lotus and corpse.",
+   "uncertainties": [],
+   "plain_english": "Holding desire with her auspicious left palms, worshipped by the universe, with feet placed upon lotus and corpse, I bow to Siddhalakshmi."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "śrī",
+     "gloss": "auspicious",
+     "grounds": "Honorific prefix in compound.",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sat",
+     "gloss": "true",
+     "grounds": "Compound member qualifying the tradition.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paddhati",
+     "gloss": "tradition",
+     "grounds": "Compound member denoting the ritual or doctrinal path.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ānanda",
+     "gloss": "bliss",
+     "grounds": "Compound member associated with the Kaula.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kaulena",
+     "gloss": "by-Kaula",
+     "grounds": "Instrumental singular indicating the agent or means.",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "First member of compound describing what is given.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāyinī",
+     "gloss": "giving",
+     "grounds": "Feminine agentive noun, subject of the optative.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "auspicious",
+     "grounds": "Honorific prefix to the true guru.",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sadguroḥ",
+     "gloss": "of-true-guru",
+     "grounds": "Genitive singular indicating source of compassion.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karuṇayā",
+     "gloss": "by-compassion",
+     "grounds": "Instrumental singular indicating the means.",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhūyāt",
+     "gloss": "may-be",
+     "grounds": "Optative expressing a benediction or wish.",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "auspicious",
+     "grounds": "Honorific prefix to Shambhu.",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śambhu",
+     "gloss": "Shambhu",
+     "grounds": "Name in compound forming purpose of pleasure.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prītaye",
+     "gloss": "for-pleasure",
+     "grounds": "Dative singular expressing purpose.",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What outcome is sought through the Kaula tradition and the true guru's compassion?",
+   "premises": [
+    "The auspicious true tradition is associated with the blissful Kaula who grants liberation.",
+    "The compassion of the auspicious true guru is invoked as the means.",
+    "The desired result is expressed as a wish for the pleasure of auspicious Shambhu."
+   ],
+   "inference": "By the Kaula tradition and the true guru's compassion, may liberation be granted for the pleasure of Shambhu.",
+   "uncertainties": [],
+   "plain_english": "By the compassion of the auspicious true guru, may the liberating blissful Kaula of the auspicious true tradition be for the pleasure of auspicious Shambhu."
+  }
+ ]
+}

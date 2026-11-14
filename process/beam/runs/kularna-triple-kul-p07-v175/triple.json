@@ -1,0 +1,63 @@
+{
+ "song": "kul-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "janā",
+     "gloss": "people",
+     "grounds": "surface as given; nominative plural of jana",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hasantu",
+     "gloss": "let-them-laugh",
+     "grounds": "imperative third plural active of root has",
+     "morph": "v.3pl.act.impv-has"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative singular of first-person pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "absolutive of root dṛś",
+     "morph": "abs-dṛś"
+    },
+    {
+     "surface": "rājāno",
+     "gloss": "kings",
+     "grounds": "nominative plural of rājan",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daṇḍayantu",
+     "gloss": "let-them-punish",
+     "grounds": "imperative third plural active of root daṇḍ",
+     "morph": "v.3pl.act.impv-daṇḍ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attitude does the verse express toward public mockery and royal punishment?",
+   "premises": [
+    "People may laugh at the practitioner.",
+    "Kings may punish the practitioner.",
+    "The practitioner remains unconcerned."
+   ],
+   "inference": "Social censure and punishment do not deter the Kaula practitioner.",
+   "uncertainties": [
+    "The printed token 'janā' omits the expected visarga; exact sandhi is not recoverable from the token alone."
+   ],
+   "plain_english": "Let people laugh at me; let kings punish me."
+  }
+ ]
+}

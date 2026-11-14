@@ -1,0 +1,39 @@
+{
+ "song": "kul-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "prīto'yaṃ",
+     "gloss": "this-pleased",
+     "grounds": "fused form of prītaḥ (pleased) and ayam (this)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "balidānena",
+     "gloss": "by-offering",
+     "grounds": "instrumental of balidāna (offering)",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sarvarakṣāṃ karotu me",
+     "gloss": "may-make-all-protection-for-me",
+     "grounds": "sarvarakṣāṃ (all protection, accusative), karotu (let him make, imperative), me (for me)",
+     "morph": "v.3.sg.act.imp + n.acc.sg.f + pron.1.sg.dat"
+    }
+   ],
+   "question": "What protection is sought from the pleased kṣetrapāla?",
+   "premises": [
+    "The kṣetrapāla is pleased by offering.",
+    "All protection is requested for the devotee.",
+    "The verse closes the invocation."
+   ],
+   "inference": "Therefore the offering secures protective grace.",
+   "uncertainties": [
+    "Token 3 contains multiple words; morphology is summarized."
+   ],
+   "plain_english": "Pleased by the offering, may this make all protection for me."
+  }
+ ]
+}

@@ -1,0 +1,1166 @@
+{
+ "song": "mukta-m0-p499",
+ "items": [
+  {
+   "verse": 12451,
+   "rows": [
+    {
+     "surface": "spṛṣṭam",
+     "gloss": "touched",
+     "grounds": "past passive participle of spṛś",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "object of eating",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuñjīta",
+     "gloss": "one-should-eat",
+     "grounds": "injunction",
+     "morph": "3.sg.middle-optative √bhuj"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative circumstance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭaśataṃ",
+     "gloss": "eight-hundred",
+     "grounds": "number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunction",
+     "morph": "3.sg.active-optative √jap"
+    }
+   ],
+   "question": "What ritual response is required if food has been touched in that context?",
+   "premises": [
+    "Touched food must not be eaten.",
+    "In that situation one should recite eight hundred times."
+   ],
+   "inference": "Contact with food in that context requires abstention from eating and compensatory recitation.",
+   "uncertainties": [
+    "The referent of tatra is not specified in this verse."
+   ],
+   "plain_english": "One should not eat food that has been touched there, and should recite the mantra eight hundred times."
+  },
+  {
+   "verse": 12452,
+   "rows": [
+    {
+     "surface": "yonijeṣu",
+     "gloss": "among-womb-born",
+     "grounds": "class of beings",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "reduced quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.active-optative √as"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "further reduced quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūpayonike",
+     "gloss": "for-earth-born",
+     "grounds": "another class of beings",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How does the required number of recitations vary for womb-born and earth-born beings?",
+   "premises": [
+    "For womb-born beings the amount is half of that.",
+    "For earth-born beings the amount is half of that again."
+   ],
+   "inference": "The prescribed recitation count decreases by half for womb-born beings and by half again for earth-born beings.",
+   "uncertainties": [
+    "The exact categories denoted by yonija and bhūpayonika are not fully specified."
+   ],
+   "plain_english": "For womb-born beings it should be half that amount, and for earth-born beings half of that."
+  },
+  {
+   "verse": 12453,
+   "rows": [
+    {
+     "surface": "jitendriyaḥ",
+     "gloss": "senses-conquered",
+     "grounds": "qualified practitioner",
+     "morph": "compound: jita+endriyaḥ (bahuvrīhi), m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunction",
+     "morph": "3.sg.active-optative √jap"
+    },
+    {
+     "surface": "lakṣapañcakaṃ",
+     "gloss": "five-hundred-thousand",
+     "grounds": "number of recitations",
+     "morph": "compound: lakṣa+pañcakam (dvigu), n.acc.sg"
+    },
+    {
+     "surface": "śivadṛk",
+     "gloss": "seeing-shiva",
+     "grounds": "visionary orientation",
+     "morph": "compound: śiva+dṛk (upapada), m.nom.sg"
+    },
+    {
+     "surface": "manāḥ",
+     "gloss": "mind",
+     "grounds": "mental disposition",
+     "morph": "compound: manāḥ (bahuvrīhi-final), m.nom.sg"
+    }
+   ],
+   "question": "What recitation discipline is prescribed for one whose senses are conquered and mind fixed on Shiva?",
+   "premises": [
+    "The practitioner has conquered the senses.",
+    "The practitioner’s mind sees Shiva.",
+    "Such a one should recite five hundred thousand times."
+   ],
+   "inference": "A disciplined practitioner with a Shiva-centered mind is enjoined to perform five hundred thousand recitations.",
+   "uncertainties": [],
+   "plain_english": "One who has conquered the senses and whose mind sees Shiva should recite five hundred thousand times."
+  },
+  {
+   "verse": 12454,
+   "rows": [
+    {
+     "surface": "nigṛhītendriyaḥ",
+     "gloss": "senses-restrained",
+     "grounds": "qualified practitioner",
+     "morph": "compound: nigṛhīta+indriyaḥ (bahuvrīhi), m.nom.sg"
+    },
+    {
+     "surface": "pañcalakṣaṃ",
+     "gloss": "five-hundred-thousand",
+     "grounds": "number of recitations",
+     "morph": "compound: pañca+lakṣam (dvigu), n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "completed action",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "indriyaṃ",
+     "gloss": "senses",
+     "grounds": "object to be conquered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jayet",
+     "gloss": "one-should-conquer",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.active-optative √ji"
+    }
+   ],
+   "question": "What result follows from five hundred thousand recitations by one who has restrained the senses?",
+   "premises": [
+    "The practitioner has restrained the senses.",
+    "The practitioner recites five hundred thousand times.",
+    "Conquest of the senses is stated as the outcome."
+   ],
+   "inference": "Restrained recitation of five hundred thousand times leads to mastery over the senses.",
+   "uncertainties": [],
+   "plain_english": "One who has restrained the senses, after reciting five hundred thousand times, should conquer the senses."
+  },
+  {
+   "verse": 12455,
+   "rows": [
+    {
+     "surface": "madhyarātreyutaṃ",
+     "gloss": "joined-with-midnight",
+     "grounds": "time-qualified recitation",
+     "morph": "compound: madhyarātra+yutam (tatpuruṣa), n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "completed action",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "nikaṭe",
+     "gloss": "near",
+     "grounds": "proximity to attainment",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmasiddhibhāk",
+     "gloss": "sharer-of-brahman-attainment",
+     "grounds": "resulting state",
+     "morph": "compound: brahma+siddhi+bhāk (tatpuruṣa/upapada), m.nom.sg"
+    }
+   ],
+   "question": "What attainment comes from recitation performed at midnight?",
+   "premises": [
+    "Recitation is performed in connection with midnight.",
+    "The practitioner becomes near to Brahman-attainment."
+   ],
+   "inference": "Midnight recitation brings one close to the attainment of Brahman.",
+   "uncertainties": [
+    "The exact quantity of recitation is not stated in this verse."
+   ],
+   "plain_english": "Having recited at midnight, one comes near to attaining Brahman."
+  },
+  {
+   "verse": 12456,
+   "rows": [
+    {
+     "surface": "madhyarātre",
+     "gloss": "at-midnight",
+     "grounds": "time of practice",
+     "morph": "compound: madhya+rātre (karmadhāraya), m.loc.sg"
+    },
+    {
+     "surface": "vivaśyaḥ",
+     "gloss": "to-be-subdued",
+     "grounds": "target person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadvaśaḥ",
+     "gloss": "under-that-control",
+     "grounds": "resulting condition",
+     "morph": "compound: tat+vaśaḥ (tatpuruṣa), m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "result",
+     "morph": "3.sg.active-present √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect does midnight practice have on a person intended to be subdued?",
+   "premises": [
+    "The practice is performed at midnight.",
+    "The target is one to be subdued.",
+    "The target certainly comes under that control."
+   ],
+   "inference": "Midnight practice certainly brings the intended person under the practitioner’s control.",
+   "uncertainties": [
+    "The specific ritual action is implied rather than explicitly named."
+   ],
+   "plain_english": "At midnight, the person to be subdued certainly comes under that control."
+  },
+  {
+   "verse": 12457,
+   "rows": [
+    {
+     "surface": "sahasradvaya",
+     "gloss": "two-thousand",
+     "grounds": "quantity of recitation",
+     "morph": "compound: sahasra+dvaya (dvigu), n.stem"
+    },
+    {
+     "surface": "jāpena",
+     "gloss": "by-recitation",
+     "grounds": "means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahārogaiḥ",
+     "gloss": "from-great-diseases",
+     "grounds": "afflictions removed",
+     "morph": "compound: mahā+rogaiḥ (karmadhāraya), m.inst.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "is-freed",
+     "grounds": "result",
+     "morph": "3.sg.passive-present √muc"
+    }
+   ],
+   "question": "What liberation is achieved through two thousand recitations of the mantra?",
+   "premises": [
+    "Two thousand recitations are performed.",
+    "Freedom from great diseases is the stated result."
+   ],
+   "inference": "Reciting the mantra two thousand times frees one from great diseases.",
+   "uncertainties": [],
+   "plain_english": "By reciting two thousand times, one is freed from great diseases."
+  },
+  {
+   "verse": 12458,
+   "rows": [
+    {
+     "surface": "catussahasra",
+     "gloss": "four-thousand",
+     "grounds": "quantity of recitation",
+     "morph": "compound: catur+sahasra (dvigu), n.stem"
+    },
+    {
+     "surface": "jāpena",
+     "gloss": "by-recitation",
+     "grounds": "means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vāñchitāni",
+     "gloss": "desired-things",
+     "grounds": "objects attained",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samāpnuyāt",
+     "gloss": "one-would-attain",
+     "grounds": "result",
+     "morph": "3.sg.active-optative √āp with sam"
+    }
+   ],
+   "question": "What benefit is gained by performing four thousand recitations of the mantra?",
+   "premises": [
+    "Four thousand recitations are performed.",
+    "Desired things are attained as a result."
+   ],
+   "inference": "Reciting the mantra four thousand times brings attainment of desired things.",
+   "uncertainties": [],
+   "plain_english": "By reciting four thousand times, one would attain the things one desires."
+  },
+  {
+   "verse": 12459,
+   "rows": [
+    {
+     "surface": "māsaṃ",
+     "gloss": "for-a-month",
+     "grounds": "duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "completed ritual action",
+     "morph": "absolutive √hu"
+    },
+    {
+     "surface": "vinaśyet",
+     "gloss": "would-perish",
+     "grounds": "destruction of disease",
+     "morph": "3.sg.active-optative √naś with vi"
+    },
+    {
+     "surface": "rogaḥ",
+     "gloss": "disease",
+     "grounds": "affliction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "affected person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhavet",
+     "gloss": "would-arise",
+     "grounds": "non-recurrence",
+     "morph": "3.sg.active-optative √bhū with sam"
+    }
+   ],
+   "question": "What long-term effect on disease results from a month of oblations?",
+   "premises": [
+    "Oblations are performed for a month.",
+    "The disease would perish.",
+    "The disease would not arise again for that person."
+   ],
+   "inference": "A month of oblations destroys disease and prevents its recurrence.",
+   "uncertainties": [],
+   "plain_english": "Having made oblations for a month, his disease would perish and would not arise again."
+  },
+  {
+   "verse": 12460,
+   "rows": [
+    {
+     "surface": "lakṣamekaṃ",
+     "gloss": "one-hundred-thousand",
+     "grounds": "quantity of recitation",
+     "morph": "compound: lakṣam+ekam (karmadhāraya), n.nom.sg"
+    },
+    {
+     "surface": "puraścaryyā",
+     "gloss": "preliminary-rite",
+     "grounds": "ritual designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "munayaḥ",
+     "gloss": "sages",
+     "grounds": "authoritative declarers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "omī",
+     "gloss": "thus",
+     "grounds": "declarative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrttitāḥ",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "m.nom.pl past-passive-participle √kīrt with pra"
+    }
+   ],
+   "question": "What quantity of recitation constitutes the preliminary rite according to the sages?",
+   "premises": [
+    "One hundred thousand recitations are specified.",
+    "The sages declare this to be the preliminary rite."
+   ],
+   "inference": "The sages define one hundred thousand recitations as the preliminary rite.",
+   "uncertainties": [
+    "The form omī is unusual and may reflect a textual variant."
+   ],
+   "plain_english": "The sages have declared that one hundred thousand recitations constitute the preliminary rite."
+  },
+  {
+   "verse": 12461,
+   "rows": [
+    {
+     "surface": "bharadvājaḥ",
+     "gloss": "bharadvaja",
+     "grounds": "named sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chandāṃsi",
+     "gloss": "meters",
+     "grounds": "metrical forms",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "paṃkti",
+     "gloss": "pankti",
+     "grounds": "meter name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gayatri",
+     "grounds": "meter name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anuṣṭubhaḥ",
+     "gloss": "anushtubh",
+     "grounds": "meter name",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which sage and which meters are specified in this part of the mantra teaching?",
+   "premises": [
+    "Bharadvaja is named.",
+    "The meters named are Pankti, Gayatri, and Anushtubh."
+   ],
+   "inference": "This section assigns Bharadvaja and the meters Pankti, Gayatri, and Anushtubh.",
+   "uncertainties": [],
+   "plain_english": "Then Bharadvaja is named, and the meters are Pankti, Gayatri, and Anushtubh."
+  },
+  {
+   "verse": 12462,
+   "rows": [
+    {
+     "surface": "parabrahma",
+     "gloss": "supreme-brahman",
+     "grounds": "deity designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indra",
+     "gloss": "indra",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "vishnu",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhātṛ",
+     "gloss": "creator",
+     "grounds": "deity designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśvinau",
+     "gloss": "two-ashvins",
+     "grounds": "divine pair",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "guhāḥ",
+     "gloss": "guha",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential assignment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are assigned in sequence in this mantra specification?",
+   "premises": [
+    "The listed deities are Parabrahma, Indra, Vishnu, Vidhatri, the Ashvins, and Guha.",
+    "They are to be taken in order."
+   ],
+   "inference": "The mantra specification assigns these deities sequentially.",
+   "uncertainties": [],
+   "plain_english": "In order, the deities are Supreme Brahman, Indra, Vishnu, the Creator, the two Ashvins, and Guha."
+  },
+  {
+   "verse": 12463,
+   "rows": [
+    {
+     "surface": "pīta",
+     "gloss": "yellow",
+     "grounds": "color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aruṇaḥ",
+     "gloss": "reddish",
+     "grounds": "color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential assignment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "colors",
+     "grounds": "attributes",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devatānāṃ",
+     "gloss": "of-deities",
+     "grounds": "possessors of colors",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prakīrttitāḥ",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "m.nom.pl past-passive-participle √kīrt with pra"
+    }
+   ],
+   "question": "How are the colors of the deities declared in sequential order?",
+   "premises": [
+    "Colors are assigned to the deities.",
+    "Yellow and reddish are named in order.",
+    "The assignment is declared traditionally."
+   ],
+   "inference": "The deities’ colors are declared sequentially, including yellow and reddish.",
+   "uncertainties": [
+    "Only two colors are explicitly named though multiple deities were listed previously."
+   ],
+   "plain_english": "The colors of the deities are declared in order as yellow, reddish, and so on."
+  },
+  {
+   "verse": 12464,
+   "rows": [
+    {
+     "surface": "aiśvaryyāya",
+     "gloss": "for-sovereignty",
+     "grounds": "purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāyai",
+     "gloss": "for-knowledge",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "qualifier of sin",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāpa",
+     "gloss": "sin",
+     "grounds": "what is destroyed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṣayāya",
+     "gloss": "for-destruction",
+     "grounds": "purpose",
+     "morph": "compound: nija+pāpa+kṣayāya (tatpuruṣa), m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purposes are the mantras or rites applied in this context?",
+   "premises": [
+    "Sovereignty is named as a purpose.",
+    "Knowledge is named as a purpose.",
+    "Destruction of one’s own sin is named as a purpose."
+   ],
+   "inference": "The application is for sovereignty, knowledge, and the destruction of one’s own sin.",
+   "uncertainties": [],
+   "plain_english": "They are for sovereignty, for knowledge, and for the destruction of one’s own sin."
+  },
+  {
+   "verse": 12465,
+   "rows": [
+    {
+     "surface": "ṣaḍarṇaḥ",
+     "gloss": "six-syllabled",
+     "grounds": "mantra description",
+     "morph": "compound: ṣaṣ+arṇaḥ (bahuvrīhi), m.nom.sg"
+    },
+    {
+     "surface": "aṣṭavarṇaḥ",
+     "gloss": "eight-syllabled",
+     "grounds": "mantra description",
+     "morph": "compound: aṣṭa+varṇaḥ (bahuvrīhi), m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescription",
+     "morph": "3.sg.active-optative √as"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "summary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantradvayaṃ",
+     "gloss": "pair-of-mantras",
+     "grounds": "two mantras",
+     "morph": "compound: mantra+dvayam (dvigu), n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resulting classification",
+     "morph": "3.sg.active-optative √bhū"
+    }
+   ],
+   "question": "What syllabic structure defines the pair of mantras being taught?",
+   "premises": [
+    "One mantra is six-syllabled.",
+    "Another mantra is eight-syllabled.",
+    "Together they form a pair of mantras."
+   ],
+   "inference": "The teaching presents a pair of mantras consisting of one six-syllabled and one eight-syllabled mantra.",
+   "uncertainties": [],
+   "plain_english": "Thus there would be a pair of mantras, one of six syllables and one of eight syllables."
+  },
+  {
+   "verse": 12466,
+   "rows": [
+    {
+     "surface": "tāra",
+     "gloss": "om-seed",
+     "grounds": "mantra element",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "count or element marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīrgha",
+     "gloss": "long",
+     "grounds": "vowel quality marker",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya-seed",
+     "grounds": "mantra element",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "beginning-with",
+     "grounds": "initial elements",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescription",
+     "morph": "3.sg.active-optative √as"
+    },
+    {
+     "surface": "mantrārṇaiḥ",
+     "gloss": "with-mantra-syllables",
+     "grounds": "components used",
+     "morph": "compound: mantra+arṇaiḥ (tatpuruṣa), m.inst.pl"
+    },
+    {
+     "surface": "ṣaḍaṅgakam",
+     "gloss": "six-limbed-rite",
+     "grounds": "ritual formation",
+     "morph": "compound: ṣaṣ+aṅgakam (dvigu), n.nom.sg"
+    }
+   ],
+   "question": "How is the six-limbed mantra formation constructed from the specified syllabic elements?",
+   "premises": [
+    "Elements beginning with tara, six, long, and maya are specified.",
+    "These are used as mantra syllables.",
+    "They form the six-limbed rite."
+   ],
+   "inference": "The six-limbed formation is to be made using mantra syllables beginning with the specified elements.",
+   "uncertainties": [
+    "The exact technical parsing of ṣaṭ and dīrgha in this mantra code is uncertain."
+   ],
+   "plain_english": "Using mantra syllables beginning with Om, six, long vowels, and Maya, the six-limbed formation should be made."
+  },
+  {
+   "verse": 12467,
+   "rows": [
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "held object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kapālam",
+     "gloss": "skull",
+     "grounds": "held object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness-gesture",
+     "grounds": "hand gesture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon-gesture",
+     "grounds": "hand gesture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhataṃ",
+     "gloss": "holding",
+     "grounds": "attribute of deity",
+     "morph": "m.acc.sg present-participle √dhā"
+    },
+    {
+     "surface": "karaiḥ",
+     "gloss": "with-hands",
+     "grounds": "means of holding",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What objects and gestures are held by the deity in the hands during visualization?",
+   "premises": [
+    "The deity holds a trident and a skull.",
+    "The deity displays fearlessness and boon gestures.",
+    "These are held with the hands."
+   ],
+   "inference": "The visualized form holds a trident, a skull, and shows fearlessness and boon gestures in the hands.",
+   "uncertainties": [],
+   "plain_english": "Visualize the deity holding a trident, a skull, the gesture of fearlessness, and the gesture of granting boons in the hands."
+  },
+  {
+   "verse": 12468,
+   "rows": [
+    {
+     "surface": "smeravaktraṃ",
+     "gloss": "smiling-face",
+     "grounds": "facial attribute",
+     "morph": "compound: smera+vaktram (bahuvrīhi), m.acc.sg"
+    },
+    {
+     "surface": "trinayanaṃ",
+     "gloss": "three-eyed",
+     "grounds": "iconic attribute",
+     "morph": "compound: tri+nayanam (bahuvrīhi), m.acc.sg"
+    },
+    {
+     "surface": "sarvābharaṇa",
+     "gloss": "all-ornaments",
+     "grounds": "adornment qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūṣitam",
+     "gloss": "adorned",
+     "grounds": "decorated state",
+     "morph": "compound: sarva+ābharaṇa+bhūṣitam (tatpuruṣa), m.acc.sg"
+    }
+   ],
+   "question": "What facial and ornamental features characterize the deity’s visualized form?",
+   "premises": [
+    "The deity has a smiling face.",
+    "The deity is three-eyed.",
+    "The deity is adorned with all ornaments."
+   ],
+   "inference": "The deity is to be visualized as smiling, three-eyed, and fully adorned with ornaments.",
+   "uncertainties": [],
+   "plain_english": "Visualize the deity with a smiling face, three eyes, and adorned with all ornaments."
+  },
+  {
+   "verse": 12469,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-beginning",
+     "grounds": "initial placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcadale",
+     "gloss": "five-petaled",
+     "grounds": "lotus description",
+     "morph": "compound: pañca+dale (bahuvrīhi), n.loc.sg"
+    },
+    {
+     "surface": "padme",
+     "gloss": "in-lotus",
+     "grounds": "ritual locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "keśareṣu",
+     "gloss": "in-filaments",
+     "grounds": "specific location on lotus",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "aṅgaṣaṭkakam",
+     "gloss": "six-limbs",
+     "grounds": "mantra limbs to be placed",
+     "morph": "compound: aṅga+ṣaṭkakam (dvigu), n.acc.sg"
+    }
+   ],
+   "question": "Where should the six limbs of the mantra be placed at the beginning of worship?",
+   "premises": [
+    "The placement occurs at the beginning.",
+    "The locus is a five-petaled lotus.",
+    "The six limbs are placed in the filaments."
+   ],
+   "inference": "At the beginning, the six limbs are to be placed in the filaments of a five-petaled lotus.",
+   "uncertainties": [],
+   "plain_english": "At the beginning, place the six limbs in the filaments of a five-petaled lotus."
+  },
+  {
+   "verse": 12470,
+   "rows": [
+    {
+     "surface": "hṛllekhā",
+     "gloss": "hrim-seed",
+     "grounds": "mantra syllable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaganāyuktā",
+     "gloss": "joined-with-sky",
+     "grounds": "syllabic combination",
+     "morph": "compound: gagana+āyuktā (tatpuruṣa), f.nom.sg"
+    },
+    {
+     "surface": "caturthī",
+     "gloss": "fourth-ending",
+     "grounds": "grammatical form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulālikā",
+     "gloss": "kulalika",
+     "grounds": "named mantra or power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What syllabic composition defines the form called Kulalika in this mantra instruction?",
+   "premises": [
+    "Hrllekha is joined with gagana.",
+    "It takes a fourth-ending form.",
+    "This is identified as Kulalika."
+   ],
+   "inference": "Kulalika is defined as hrllekha joined with gagana in a fourth-ending form.",
+   "uncertainties": [
+    "The precise phonetic realization of gaganāyuktā and caturthī is technical and context-dependent."
+   ],
+   "plain_english": "Kulalika is the syllable Hrim joined with the sky element and given in the fourth form."
+  },
+  {
+   "verse": 12471,
+   "rows": [
+    {
+     "surface": "pāśa",
+     "gloss": "noose",
+     "grounds": "held attribute",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅkuśa",
+     "gloss": "goad",
+     "grounds": "held attribute",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vara",
+     "gloss": "boon",
+     "grounds": "gesture attribute",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhīti",
+     "gloss": "fearlessness",
+     "grounds": "gesture attribute",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhāriṇyaḥ",
+     "gloss": "bearing",
+     "grounds": "holders of attributes",
+     "morph": "compound: pāśa+aṅkuśa+vara+abhīti+dhāriṇyaḥ (bahuvrīhi), f.nom.pl"
+    },
+    {
+     "surface": "omitabhūṣaṇāḥ",
+     "gloss": "excellent-ornaments",
+     "grounds": "adorned state",
+     "morph": "compound: omita+bhūṣaṇāḥ (bahuvrīhi), f.nom.pl"
+    }
+   ],
+   "question": "What attributes and adornments characterize the female figures described in this visualization?",
+   "premises": [
+    "They bear noose, goad, boon, and fearlessness.",
+    "They are adorned with excellent ornaments."
+   ],
+   "inference": "The figures are visualized as bearing noose, goad, boon, and fearlessness gestures and wearing excellent ornaments.",
+   "uncertainties": [
+    "The form omitabhūṣaṇāḥ is unusual and may be a textual variant for uttamabhūṣaṇāḥ."
+   ],
+   "plain_english": "They bear the noose, goad, boon, and fearlessness gestures, and are adorned with excellent ornaments."
+  },
+  {
+   "verse": 12472,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "completed contemplation",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "ritual action",
+     "morph": "f.nom.sg future-passive-participle √arc"
+    },
+    {
+     "surface": "devāgra",
+     "gloss": "before-deity",
+     "grounds": "starting point",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "sequence marker",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "clockwise",
+     "grounds": "compound: devāgra+ādi+pradakṣiṇam (avyayībhāva), direction of worship",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner and sequence should worship proceed after proper meditation?",
+   "premises": [
+    "One should meditate properly.",
+    "Worship should be performed in order.",
+    "The sequence proceeds clockwise beginning from before the deity."
+   ],
+   "inference": "After proper meditation, worship should be carried out in order, clockwise from the front of the deity.",
+   "uncertainties": [],
+   "plain_english": "Having meditated properly, one should worship in order, moving clockwise beginning from in front of the deity."
+  },
+  {
+   "verse": 12473,
+   "rows": [
+    {
+     "surface": "sarvābharaṇa",
+     "gloss": "all-ornaments",
+     "grounds": "adornment qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sandīptaṃ",
+     "gloss": "brilliant",
+     "grounds": "radiant state",
+     "morph": "compound: sarva+ābharaṇa+sandīptam (tatpuruṣa), m.acc.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "manifest presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chandassvarūpiṇam",
+     "gloss": "meter-embodied",
+     "grounds": "essential nature",
+     "morph": "compound: chandas+svarūpiṇam (tatpuruṣa), m.acc.sg"
+    }
+   ],
+   "question": "How is the deity’s radiant and essential nature characterized in this visualization?",
+   "premises": [
+    "The deity is brilliant with all ornaments.",
+    "The deity is directly present.",
+    "The deity embodies the meters."
+   ],
+   "inference": "The deity is to be visualized as directly present, radiant with all ornaments, and embodying the meters.",
+   "uncertainties": [],
+   "plain_english": "Visualize the deity as brilliant with all ornaments, directly present, and embodied as the meters themselves."
+  },
+  {
+   "verse": 12474,
+   "rows": [
+    {
+     "surface": "kṣetrapālaṃ",
+     "gloss": "field-protector",
+     "grounds": "deity to be worshipped",
+     "morph": "compound: kṣetra+pālam (tatpuruṣa), m.acc.sg"
+    },
+    {
+     "surface": "trinayanaṃ",
+     "gloss": "three-eyed",
+     "grounds": "iconic attribute",
+     "morph": "compound: tri+nayanam (bahuvrīhi), m.acc.sg"
+    },
+    {
+     "surface": "digambaram",
+     "gloss": "sky-clad",
+     "grounds": "iconic attribute",
+     "morph": "compound: dik+ambaram (bahuvrīhi), m.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction",
+     "morph": "3.sg.active-optative √arc"
+    }
+   ],
+   "question": "Which form of the field-protector is to be worshipped at this stage?",
+   "premises": [
+    "The field-protector is the object of worship.",
+    "He is three-eyed.",
+    "He is sky-clad."
+   ],
+   "inference": "At this stage one should worship the field-protector in a three-eyed, sky-clad form.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship the field-protector, who is three-eyed and sky-clad."
+  }
+ ]
+}

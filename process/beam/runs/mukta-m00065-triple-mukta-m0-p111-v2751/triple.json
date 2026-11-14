@@ -1,0 +1,919 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2751,
+   "rows": [
+    {
+     "surface": "ekadvāro",
+     "gloss": "one-door",
+     "grounds": "compound describing the temple as having one door",
+     "morph": "compound"
+    },
+    {
+     "surface": "yugāsraśca",
+     "gloss": "and-two-cornered",
+     "grounds": "compound with enclitic ca indicating two-cornered shape",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāsādaḥ",
+     "gloss": "temple",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "past participle stating what is taught",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form and door count define the temple being described?",
+   "premises": [
+    "The temple has one door",
+    "The temple is two-cornered",
+    "This form is declared"
+   ],
+   "inference": "A temple with one door and two corners is the prescribed form.",
+   "uncertainties": [
+    "Exact architectural meaning of yugāsra is context-dependent"
+   ],
+   "plain_english": "A temple with one door and two corners is declared."
+  },
+  {
+   "verse": 2752,
+   "rows": [
+    {
+     "surface": "vṛtto",
+     "gloss": "round",
+     "grounds": "describes the shape of the temple",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśvarasyoktaḥ",
+     "gloss": "stated-of-great-lord",
+     "grounds": "compound with sandhi joining maheśvarasya and uktaḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāsādo'yaṃ",
+     "gloss": "this-temple",
+     "grounds": "compound with sandhi joining prāsādaḥ and ayam",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "of-anyone",
+     "grounds": "indefinite pronoun indicating no other owner",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "To whom is the round temple exclusively assigned?",
+   "premises": [
+    "The temple is round",
+    "It is stated for Maheśvara",
+    "It belongs to no one else"
+   ],
+   "inference": "The round temple is exclusively designated for Maheśvara.",
+   "uncertainties": [],
+   "plain_english": "This round temple is said to belong to Maheśvara and to no one else."
+  },
+  {
+   "verse": 2753,
+   "rows": [
+    {
+     "surface": "prāsādo",
+     "gloss": "temple",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vartulaḥ",
+     "gloss": "round",
+     "grounds": "describes the shape of the temple",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past participle stating what is taught",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśvarasya",
+     "gloss": "of-lord",
+     "grounds": "indicates the deity to whom it belongs",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "of-anyone",
+     "grounds": "indefinite pronoun indicating no other owner",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Which deity alone is entitled to the round temple?",
+   "premises": [
+    "The temple is round",
+    "It is declared for Īśvara",
+    "It belongs to no one else"
+   ],
+   "inference": "The round temple is exclusively designated for Īśvara.",
+   "uncertainties": [
+    "Distinction between Maheśvara and Īśvara may be contextual"
+   ],
+   "plain_english": "The round temple is declared to belong to Īśvara and to no one else."
+  },
+  {
+   "verse": 2754,
+   "rows": [
+    {
+     "surface": "caturdvāraḥ",
+     "gloss": "four-door",
+     "grounds": "compound describing the temple as having four doors",
+     "morph": "compound"
+    },
+    {
+     "surface": "punarayaṃ",
+     "gloss": "again-this",
+     "grounds": "compound with sandhi joining punaḥ and ayam",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavasya",
+     "gloss": "of-bhava",
+     "grounds": "indicates one deity to whom it belongs",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "brahmaṇastathā",
+     "gloss": "and-so-of-brahma",
+     "grounds": "compound with sandhi joining brahmaṇaḥ and tathā",
+     "morph": "compound"
+    }
+   ],
+   "question": "For which deities is the four-doored temple prescribed?",
+   "premises": [
+    "This temple has four doors",
+    "It is assigned to Bhava",
+    "It is likewise assigned to Brahmā"
+   ],
+   "inference": "The four-doored temple is prescribed for Bhava and Brahmā.",
+   "uncertainties": [],
+   "plain_english": "This four-doored temple, again, belongs to Bhava and likewise to Brahmā."
+  },
+  {
+   "verse": 2755,
+   "rows": [
+    {
+     "surface": "ekadvārāḥ",
+     "gloss": "one-door",
+     "grounds": "compound describing temples as having one door",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle indicating traditional teaching",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier applying to temples",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prasādā",
+     "gloss": "temples",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "lakṣaṇānvitāḥ",
+     "gloss": "endowed-with-marks",
+     "grounds": "compound indicating possession of proper characteristics",
+     "morph": "compound"
+    }
+   ],
+   "question": "What general rule governs the door count of properly marked temples?",
+   "premises": [
+    "All temples are considered",
+    "They are endowed with proper marks",
+    "They are remembered as having one door"
+   ],
+   "inference": "All properly characterized temples are traditionally prescribed with one door.",
+   "uncertainties": [
+    "How this general rule relates to earlier specific cases is not explicit"
+   ],
+   "plain_english": "All temples endowed with the proper characteristics are remembered as having one door."
+  },
+  {
+   "verse": 2756,
+   "rows": [
+    {
+     "surface": "sarvāsāṃ",
+     "gloss": "of-all",
+     "grounds": "quantifier applying to images",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pratimānāṃ",
+     "gloss": "of-images",
+     "grounds": "indicates the objects for which temples are prescribed",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādāḥ",
+     "gloss": "temples",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samudāhṛtāḥ",
+     "gloss": "declared",
+     "grounds": "past participle stating what is taught",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "For which sacred objects are temples generally declared?",
+   "premises": [
+    "All images are included",
+    "Temples are declared for them",
+    "The statement is presented as a general rule"
+   ],
+   "inference": "Temples are declared for all images.",
+   "uncertainties": [],
+   "plain_english": "Temples are declared for all images."
+  },
+  {
+   "verse": 2757,
+   "rows": [
+    {
+     "surface": "rudrāṃśaiśca",
+     "gloss": "and-by-rudra-parts",
+     "grounds": "compound with instrumental plural and enclitic ca indicating divisions",
+     "morph": "compound"
+    },
+    {
+     "surface": "krauḍabhittiṃ",
+     "gloss": "krauḍa-wall",
+     "grounds": "compound naming a specific wall element",
+     "morph": "compound"
+    },
+    {
+     "surface": "grahā/śaiḥ",
+     "gloss": "by-planet-parts",
+     "grounds": "instrumental plural indicating divisions; slash marks internal boundary",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "suśiraṃ",
+     "gloss": "well-hollow",
+     "grounds": "describes an opening or hollow space",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which proportional divisions determine the krauḍa wall and hollow space?",
+   "premises": [
+    "Rudra-parts are used for the krauḍa wall",
+    "Planet-parts are used for the hollow space",
+    "Both measures are applied likewise"
+   ],
+   "inference": "The krauḍa wall and hollow space are measured by Rudra-parts and planet-parts respectively.",
+   "uncertainties": [
+    "Exact numerical values of Rudra-parts and planet-parts are not specified"
+   ],
+   "plain_english": "The krauḍa wall is measured by Rudra-parts, and likewise the hollow space by planet-parts."
+  },
+  {
+   "verse": 2758,
+   "rows": [
+    {
+     "surface": "bhāgaikaikaṃ",
+     "gloss": "one-part-each",
+     "grounds": "compound indicating successive single parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramāttyaktvā",
+     "gloss": "having-left-in-order",
+     "grounds": "compound with absolutive indicating gradual omission",
+     "morph": "compound"
+    },
+    {
+     "surface": "evamānandanādbhavet",
+     "gloss": "thus-from-joy-should-be",
+     "grounds": "compound with sandhi joining evam, ānandanāt, and bhavet",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should successive parts be omitted to achieve the desired result?",
+   "premises": [
+    "One part at a time is considered",
+    "Parts are left out in sequence",
+    "This procedure produces the result"
+   ],
+   "inference": "Leaving out one part at a time in sequence yields the intended outcome.",
+   "uncertainties": [
+    "The specific object being measured or the meaning of ānandanāt is unclear"
+   ],
+   "plain_english": "By leaving out one part at a time in sequence, it should be thus."
+  },
+  {
+   "verse": 2759,
+   "rows": [
+    {
+     "surface": "dvārtriṃśajjinabhūpāṣṭacandrāśaiśca",
+     "gloss": "and-by-thirty-two-jina-king-eight-moon-parts",
+     "grounds": "long compound listing numerical divisions with enclitic ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "navāṃśake",
+     "gloss": "in-ninth-part",
+     "grounds": "locative indicating the division context",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which numerical divisions are applied within the ninth-part scheme?",
+   "premises": [
+    "Divisions of thirty-two, jina, king, eight, and moon are named",
+    "These are applied in the ninth-part context",
+    "The measures function together"
+   ],
+   "inference": "The ninth-part scheme employs divisions corresponding to thirty-two, jina, king, eight, and moon.",
+   "uncertainties": [
+    "Symbolic numerical values of jina, bhūpa, and candra require traditional identification"
+   ],
+   "plain_english": "In the ninth-part division, use parts of thirty-two, jina, king, eight, and moon."
+  },
+  {
+   "verse": 2760,
+   "rows": [
+    {
+     "surface": "suśiraścārkabhāgaiśca",
+     "gloss": "and-hollow-by-sun-parts",
+     "grounds": "compound with sandhi joining suśiraḥ, ca, arkabhāgaiḥ, and ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "viṃśadṛkṣaiśca",
+     "gloss": "and-by-twenty-star-parts",
+     "grounds": "compound with instrumental plural and enclitic ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhittayaḥ",
+     "gloss": "walls",
+     "grounds": "subject of the measurement statement",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the hollow space and walls proportioned by parts?",
+   "premises": [
+    "The hollow space is measured by sun-parts",
+    "The walls are measured by twenty star-parts",
+    "Both measures are specified together"
+   ],
+   "inference": "The hollow space uses sun-parts and the walls use twenty star-parts as measures.",
+   "uncertainties": [
+    "Exact numerical value of arkabhāga is not specified"
+   ],
+   "plain_english": "The hollow space is measured by sun-parts, and the walls by twenty star-parts."
+  },
+  {
+   "verse": 2761,
+   "rows": [
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "adverb indicating surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭanāttatra",
+     "gloss": "from-construction-there",
+     "grounds": "compound with sandhi joining ghaṭanāt and tatra",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuḍya",
+     "gloss": "wall",
+     "grounds": "first member of compound naming the action",
+     "morph": "compound"
+    },
+    {
+     "surface": "pīḍanā",
+     "gloss": "pressing",
+     "grounds": "second member of compound naming the action",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What construction fault must be avoided around the structure?",
+   "premises": [
+    "Construction occurs around the structure",
+    "Wall pressing is considered",
+    "It is prohibited"
+   ],
+   "inference": "Pressing of the wall must not be done around the construction.",
+   "uncertainties": [
+    "Technical sense of kuḍya-pīḍanā in this architectural context"
+   ],
+   "plain_english": "In that construction, wall pressing must not be done all around."
+  },
+  {
+   "verse": 2762,
+   "rows": [
+    {
+     "surface": "randhrāddhi",
+     "gloss": "for-from-opening",
+     "grounds": "compound with sandhi joining randhrāt and hi",
+     "morph": "compound"
+    },
+    {
+     "surface": "rāmabhāgaiḥ",
+     "gloss": "by-rama-parts",
+     "grounds": "instrumental plural indicating divisions",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "syādrathaṃkāṇāṃ",
+     "gloss": "should-be-of-projections",
+     "grounds": "compound with sandhi joining syāt and rathaṃkāṇām",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyavasthitiḥ",
+     "gloss": "arrangement",
+     "grounds": "subject indicating the established layout",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the projections be arranged relative to the opening?",
+   "premises": [
+    "The arrangement starts from the opening",
+    "Rāma-parts are used as the measure",
+    "The arrangement concerns projections"
+   ],
+   "inference": "The arrangement of projections should be determined by Rāma-parts from the opening.",
+   "uncertainties": [
+    "Numerical value of rāmabhāga is not specified"
+   ],
+   "plain_english": "For from the opening, the arrangement of the projections should be made by Rāma-parts."
+  },
+  {
+   "verse": 2763,
+   "rows": [
+    {
+     "surface": "paritaśca",
+     "gloss": "and-around",
+     "grounds": "adverb with enclitic ca indicating surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "compound indicating the four cardinal directions",
+     "morph": "compound"
+    },
+    {
+     "surface": "karmādyā",
+     "gloss": "beginning-with-karma",
+     "grounds": "compound indicating the starting element of a series",
+     "morph": "compound"
+    },
+    {
+     "surface": "rathakā",
+     "gloss": "projections",
+     "grounds": "subject referring to architectural projections",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral specifying the count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many projections are placed around the four directions?",
+   "premises": [
+    "Projections are placed all around",
+    "They are arranged in the four directions",
+    "Their count is nine beginning with karma"
+   ],
+   "inference": "Nine projections, beginning with karma, are placed around in the four directions.",
+   "uncertainties": [
+    "Meaning of karmādyā in this architectural sequence"
+   ],
+   "plain_english": "All around, in the four directions, there are nine projections beginning with karma."
+  },
+  {
+   "verse": 2764,
+   "rows": [
+    {
+     "surface": "nitambaskandhayormadhye",
+     "gloss": "in-middle-of-hips-shoulders",
+     "grounds": "compound with sandhi joining nitambaskandhayoḥ and madhye",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviśatābhyāṃ",
+     "gloss": "by-two-hundreds",
+     "grounds": "instrumental dual indicating division into two hundred parts",
+     "morph": "n.ins.du"
+    },
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "absolutive indicating the act of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the space between hips and shoulders be divided?",
+   "premises": [
+    "The area between hips and shoulders is identified",
+    "It is divided into two hundred parts",
+    "The division is performed as a step"
+   ],
+   "inference": "The space between hips and shoulders should be divided into two hundred parts.",
+   "uncertainties": [
+    "Whether this refers to a temple body or an image is context-dependent"
+   ],
+   "plain_english": "And having divided the space between the hips and shoulders into two hundred parts."
+  },
+  {
+   "verse": 2765,
+   "rows": [
+    {
+     "surface": "candraśālānvitāpyevaṃ",
+     "gloss": "even-thus-endowed-with-moon-halls",
+     "grounds": "compound with sandhi joining candraśālānvitā, api, and evam",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāvatṣoḍaśabhūmayaḥ",
+     "gloss": "up-to-sixteen-stories",
+     "grounds": "compound with sandhi joining yāvat and ṣoḍaśabhūmayaḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "Up to how many stories may structures with moon halls extend?",
+   "premises": [
+    "Structures are endowed with moon halls",
+    "The same principle applies",
+    "The extent reaches sixteen stories"
+   ],
+   "inference": "Structures with moon halls may extend up to sixteen stories.",
+   "uncertainties": [],
+   "plain_english": "Thus, even those endowed with moon halls may extend up to sixteen stories."
+  },
+  {
+   "verse": 2766,
+   "rows": [
+    {
+     "surface": "pūrvavatsaśalaṃ",
+     "gloss": "with-halls-as-before",
+     "grounds": "compound indicating similarity to previous description",
+     "morph": "compound"
+    },
+    {
+     "surface": "merorvedāsyaśataśṛṅgiṇaḥ",
+     "gloss": "of-meru-with-four-faces-hundred-peaks",
+     "grounds": "compound with sandhi joining meroḥ and vedāsyaśataśṛṅgiṇaḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "What features characterize the Meru structure described here?",
+   "premises": [
+    "The structure has halls as before",
+    "It is identified as Meru",
+    "It has four faces and a hundred peaks"
+   ],
+   "inference": "The Meru structure is described as having halls as before, four faces, and a hundred peaks.",
+   "uncertainties": [
+    "Symbolic meaning of vedāsya and śataśṛṅgi requires architectural context"
+   ],
+   "plain_english": "As before, with halls, is the Meru with four faces and a hundred peaks."
+  },
+  {
+   "verse": 2767,
+   "rows": [
+    {
+     "surface": "taddvāramānato'nyasya",
+     "gloss": "from-that-door-measure-of-other",
+     "grounds": "compound with sandhi joining taddvāramānataḥ and anyasya",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "object whose measure is specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navakaraṃ",
+     "gloss": "nine-hand",
+     "grounds": "compound indicating a measure of nine hands",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What size should the linga have relative to the door measure?",
+   "premises": [
+    "The measure is taken from that door",
+    "It applies to another element",
+    "The linga is specified as nine hands"
+   ],
+   "inference": "The linga should measure nine hands according to that door measure.",
+   "uncertainties": [
+    "Exact referent of anyasya is unclear"
+   ],
+   "plain_english": "Likewise, according to that door measure of the other, the linga should be nine hands."
+  },
+  {
+   "verse": 2768,
+   "rows": [
+    {
+     "surface": "prāggrīvanirgamārdhena",
+     "gloss": "by-half-of-front-neck-projection",
+     "grounds": "compound indicating a proportional measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "dimension being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siṃhasya",
+     "gloss": "of-lion",
+     "grounds": "indicates the figure whose length is measured",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle stating what is taught",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the length of the lion figure determined?",
+   "premises": [
+    "The lion's length is specified",
+    "It is measured by half the front-neck projection",
+    "This measure is declared"
+   ],
+   "inference": "The length of the lion is declared as half the front-neck projection.",
+   "uncertainties": [],
+   "plain_english": "The length of the lion is declared to be half the projection of the front neck."
+  },
+  {
+   "verse": 2769,
+   "rows": [
+    {
+     "surface": "vistarocchrāyamānena",
+     "gloss": "by-width-height-measure",
+     "grounds": "compound indicating combined dimensional measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartavyo",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mastakocchrayaḥ",
+     "gloss": "head-elevation",
+     "grounds": "compound naming the dimension to be made",
+     "morph": "compound"
+    }
+   ],
+   "question": "By what measure should the head elevation be made?",
+   "premises": [
+    "The head elevation is to be made",
+    "Width and height measures are used",
+    "This is prescribed as obligatory"
+   ],
+   "inference": "The head elevation should be made according to the width and height measure.",
+   "uncertainties": [
+    "Exact proportional relation between width and height is not specified"
+   ],
+   "plain_english": "The elevation of the head should be made according to the measure of width and height."
+  },
+  {
+   "verse": 2770,
+   "rows": [
+    {
+     "surface": "prāggrīvanirgamenaiva",
+     "gloss": "by-front-neck-projection-only",
+     "grounds": "compound with sandhi joining prāggrīvanirgameṇa and eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsāgraṃ",
+     "gloss": "nose-tip",
+     "grounds": "object whose projection is specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "pronoun referring to the figure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nirgatam",
+     "gloss": "projected",
+     "grounds": "past participle indicating extension outward",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How far should the nose tip project on the figure?",
+   "premises": [
+    "The nose tip is considered",
+    "Its projection is measured by the front-neck projection",
+    "This measure alone is used"
+   ],
+   "inference": "The nose tip should project by the same measure as the front-neck projection.",
+   "uncertainties": [],
+   "plain_english": "Its nose tip should project by the same measure as the front-neck projection."
+  },
+  {
+   "verse": 2771,
+   "rows": [
+    {
+     "surface": "grīvādhārā",
+     "gloss": "neck-support",
+     "grounds": "compound describing the supporting element",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavedvedī",
+     "gloss": "should-be-platform",
+     "grounds": "compound with sandhi joining bhavet and vedī",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāsādārdhapravistarāt",
+     "gloss": "from-half-width-of-temple",
+     "grounds": "compound indicating the source of the measure",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should serve as the neck support and by what measure?",
+   "premises": [
+    "A neck support is required",
+    "It should be a platform",
+    "Its measure comes from half the temple width"
+   ],
+   "inference": "The neck support should be a platform measured by half the width of the temple.",
+   "uncertainties": [],
+   "plain_english": "The neck support should be a platform, measured by half the width of the temple."
+  },
+  {
+   "verse": 2772,
+   "rows": [
+    {
+     "surface": "svamānavistārāyāmā",
+     "gloss": "with-own-measure-width-length",
+     "grounds": "compound describing dimensions according to its own measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "mastakanyastapucchakā",
+     "gloss": "with-tail-placed-on-head",
+     "grounds": "compound describing the position of the tail",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the figure's dimensions and tail placement be arranged?",
+   "premises": [
+    "The figure has its own width and length measures",
+    "The tail is placed on the head",
+    "These features define its form"
+   ],
+   "inference": "The figure should have its own width and length, with the tail placed on the head.",
+   "uncertainties": [
+    "The exact figure referred to is implied from context"
+   ],
+   "plain_english": "It should have its own width and length, with its tail placed on its head."
+  },
+  {
+   "verse": 2773,
+   "rows": [
+    {
+     "surface": "siṃhāḥ",
+     "gloss": "lions",
+     "grounds": "subject of the prescription",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svalakṣaṇepetāḥ",
+     "gloss": "endowed-with-own-marks",
+     "grounds": "compound with sandhi joining svalakṣaṇa and upetāḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartavyāḥ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kesarāvintāḥ",
+     "gloss": "having-manes",
+     "grounds": "compound describing lions as possessing manes",
+     "morph": "compound"
+    }
+   ],
+   "question": "What characteristics must the lion figures possess when made?",
+   "premises": [
+    "Lion figures are to be made",
+    "They must have their proper marks",
+    "They must have manes"
+   ],
+   "inference": "Lion figures should be made with their proper characteristics and manes.",
+   "uncertainties": [],
+   "plain_english": "Lion figures should be made endowed with their proper characteristics and with manes."
+  },
+  {
+   "verse": 2774,
+   "rows": [
+    {
+     "surface": "lambanena",
+     "gloss": "with-hanging",
+     "grounds": "instrumental indicating an attached or hanging element",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "samāyuktāścandraśālāsamāsrakāḥ",
+     "gloss": "joined-with-moon-halls-and-corners",
+     "grounds": "compound with sandhi joining samāyuktāḥ, candraśālā, and samāsrakāḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "What additional elements should be joined to the described structures?",
+   "premises": [
+    "A hanging element is included",
+    "Moon halls are included",
+    "Corners are included together"
+   ],
+   "inference": "The structures should be joined with hanging elements, moon halls, and corners.",
+   "uncertainties": [
+    "Exact architectural referent of lambana and samāsraka is context-dependent"
+   ],
+   "plain_english": "They should be joined with hanging elements, moon halls, and corners."
+  }
+ ]
+}

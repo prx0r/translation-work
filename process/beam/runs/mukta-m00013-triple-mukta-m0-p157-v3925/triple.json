@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3925,
+   "rows": [
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "item in the list of ritual offerings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīpau",
+     "gloss": "two-lamps",
+     "grounds": "item in the list of ritual offerings",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "item in the list of ritual offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "item in the list of ritual offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śītalaṃ",
+     "gloss": "cool",
+     "grounds": "qualifies the water offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "item in the list of ritual offerings",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which specific material offerings are included within the sixteenfold ritual worship?",
+   "premises": [
+    "Incense and two lamps are presented as ritual offerings.",
+    "A food offering and betel are presented as ritual offerings.",
+    "Cool water is presented as a ritual offering."
+   ],
+   "inference": "These items constitute part of the sixteenfold set of ritual services used in worship.",
+   "uncertainties": [
+    "The exact enumeration position of these items within the full sixteen services is not specified in this verse alone."
+   ],
+   "plain_english": "Incense, two lamps, a food offering, betel, and cool water are offered."
+  }
+ ]
+}

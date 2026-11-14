@@ -1,0 +1,1043 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates similarity to previous specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlaśikharaṃ",
+     "gloss": "root-spire",
+     "grounds": "compound naming the main spire",
+     "morph": "compound: mūla+śikhara; n.nom.sg"
+    },
+    {
+     "surface": "pañcabhūmi",
+     "gloss": "five-story",
+     "grounds": "compound specifying number of stories",
+     "morph": "compound: pañca+bhūmi; n.nom.sg"
+    },
+    {
+     "surface": "vimānakam",
+     "gloss": "structure",
+     "grounds": "temple structure being described",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What structural form defines a five-story root-spire temple?",
+   "premises": [
+    "The specification follows the previous pattern.",
+    "The structure has a root spire.",
+    "The structure consists of five stories."
+   ],
+   "inference": "A five-story structure with a root spire is prescribed in the same manner.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the structure should have a root spire and five stories."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "ekaśṛṅgeṣu",
+     "gloss": "on-one-peaked",
+     "grounds": "locative context of single-peaked structures",
+     "morph": "compound: eka+śṛṅga; n.loc.pl"
+    },
+    {
+     "surface": "śṛṅgāṇi",
+     "gloss": "peaks",
+     "grounds": "additional peaks that may arise",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "saṃbhavanti",
+     "gloss": "arise",
+     "grounds": "states possibility of occurrence",
+     "morph": "3.pl.act-pres; √bhū with sam"
+    },
+    {
+     "surface": "bahūny",
+     "gloss": "many",
+     "grounds": "indicates plurality of peaks",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can multiple peaks arise on structures designated as single-peaked?",
+   "premises": [
+    "The context concerns single-peaked structures.",
+    "Peaks can arise in that context.",
+    "Many peaks are possible."
+   ],
+   "inference": "Even single-peaked structures may give rise to many peaks.",
+   "uncertainties": [],
+   "plain_english": "On single-peaked structures, many peaks may also arise."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "himaśīrṣo",
+     "gloss": "snow-crested",
+     "grounds": "name or attribute of a type",
+     "morph": "compound: hima+śīrṣa; m.nom.sg"
+    },
+    {
+     "surface": "daśāṃśaḥ",
+     "gloss": "tenth-part",
+     "grounds": "specifies proportional measure",
+     "morph": "compound: daśa+aṃśa; m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt; √as"
+    },
+    {
+     "surface": "yugasārdhaśatāṇḍake",
+     "gloss": "in-age-half-hundred-units",
+     "grounds": "compound indicating a count of aṇḍaka units",
+     "morph": "compound: yuga+sārdha+śata+aṇḍaka; n.loc.sg"
+    }
+   ],
+   "question": "What proportional measure applies to the snow-crested type in that unit count?",
+   "premises": [
+    "The type named is snow-crested.",
+    "A tenth part is specified.",
+    "The context is a count of age-half-hundred aṇḍaka units."
+   ],
+   "inference": "The snow-crested type should be a tenth part in that specified unit count.",
+   "uncertainties": [
+    "Exact technical value of aṇḍaka in this context"
+   ],
+   "plain_english": "The snow-crested type should be a tenth part in a structure of one hundred and fifty aṇḍakas."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "suravallabhanāmā",
+     "gloss": "named-suravallabha",
+     "grounds": "compound giving the name of the type",
+     "morph": "compound: suravallabha+nāman; m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "states authoritative declaration",
+     "morph": "m.nom.sg.past-pass-part; √vac with pra"
+    },
+    {
+     "surface": "śrīviśvakarmaṇā",
+     "gloss": "by-śrī-viśvakarman",
+     "grounds": "names the declaring authority",
+     "morph": "compound: śrī+viśvakarman; m.inst.sg"
+    }
+   ],
+   "question": "Who declares the temple type bearing the name Suravallabha?",
+   "premises": [
+    "A type is named Suravallabha.",
+    "This type is declared.",
+    "Śrī Viśvakarman is the declarer."
+   ],
+   "inference": "Śrī Viśvakarman declares the type named Suravallabha.",
+   "uncertainties": [],
+   "plain_english": "It is indeed declared by Śrī Viśvakarman to be named Suravallabha."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "ardhāṃśā",
+     "gloss": "half-part",
+     "grounds": "specifies a proportional division",
+     "morph": "compound: ardha+aṃśa; f.nom.sg"
+    },
+    {
+     "surface": "nandikā",
+     "gloss": "nandikā",
+     "grounds": "name of the architectural element or type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-lady",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sādhabhāgena",
+     "gloss": "with-sixth-part",
+     "grounds": "compound indicating an additional sixth part",
+     "morph": "compound: sa+ṣaṣṭha+bhāga; m.inst.sg"
+    },
+    {
+     "surface": "saṃmitam",
+     "gloss": "measured",
+     "grounds": "states the resulting measurement",
+     "morph": "n.nom.sg.past-pass-part; √mā with sam"
+    }
+   ],
+   "question": "How is the Nandikā measured in relation to half and sixth parts?",
+   "premises": [
+    "The Nandikā is the subject of measurement.",
+    "A half part is involved.",
+    "A sixth part is included in the measure."
+   ],
+   "inference": "The Nandikā is measured as a half part together with a sixth part.",
+   "uncertainties": [
+    "Exact referent of the base being divided"
+   ],
+   "plain_english": "O lady, the Nandikā is measured as a half part together with a sixth part."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "bhaktaś",
+     "gloss": "division",
+     "grounds": "refers to a divided portion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturdaśāṃśaistu",
+     "gloss": "by-fourteen-parts",
+     "grounds": "instrumental specifying division into fourteen parts; includes particle tu",
+     "morph": "compound: caturdaśa+aṃśa; m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "introduces the name",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhuvanamaṇḍanaḥ",
+     "gloss": "bhuvanamaṇḍana",
+     "grounds": "proper name of the type",
+     "morph": "compound: bhuvana+maṇḍana; m.nom.sg"
+    }
+   ],
+   "question": "What name applies to the division made into fourteen parts?",
+   "premises": [
+    "A division is made.",
+    "The division consists of fourteen parts.",
+    "A name is assigned to it."
+   ],
+   "inference": "The division into fourteen parts is named Bhuvanamaṇḍana.",
+   "uncertainties": [],
+   "plain_english": "Divided into fourteen parts, it is named Bhuvanamaṇḍana."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "dvyekadvyarddhāṃśe",
+     "gloss": "in-two-one-two-and-half-parts",
+     "grounds": "compound specifying proportional divisions",
+     "morph": "compound: dvi+eka+dvyarddha+aṃśa; m.loc.sg"
+    },
+    {
+     "surface": "sārddhāśaiś",
+     "gloss": "with-half-parts",
+     "grounds": "indicates additional half parts",
+     "morph": "compound: sa+ardha+aṃśa; m.inst.pl"
+    },
+    {
+     "surface": "caturdaśavibhājite",
+     "gloss": "divided-into-fourteen",
+     "grounds": "states total division into fourteen",
+     "morph": "compound: caturdaśa+vibhājita; m.loc.sg.past-pass-part"
+    }
+   ],
+   "question": "How are the fourteen divisions arranged with half-part measures?",
+   "premises": [
+    "The whole is divided into fourteen.",
+    "Divisions include two, one, and two-and-a-half parts.",
+    "Additional half parts are included."
+   ],
+   "inference": "The fourteenfold division is arranged in two, one, and two-and-a-half parts with added half parts.",
+   "uncertainties": [
+    "Precise mapping of each segment to the total"
+   ],
+   "plain_english": "When divided into fourteen, it is arranged in two, one, and two-and-a-half parts with additional half parts."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "ratnaśīrṣo",
+     "gloss": "jewel-crested",
+     "grounds": "attribute of the Meru type",
+     "morph": "compound: ratna+śīrṣa; m.nom.sg"
+    },
+    {
+     "surface": "bhaven",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt; √bhū"
+    },
+    {
+     "surface": "meruḥ",
+     "gloss": "meru",
+     "grounds": "name of the temple type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcāśataikaśṛṅgakaiḥ",
+     "gloss": "with-fifty-one-peaks",
+     "grounds": "specifies number of peaks",
+     "morph": "compound: pañcāśat+eka+śṛṅgaka; n.inst.pl"
+    }
+   ],
+   "question": "How many peaks characterize the jewel-crested Meru temple type?",
+   "premises": [
+    "The Meru type is jewel-crested.",
+    "A specific number of peaks is prescribed.",
+    "The number given is fifty-one."
+   ],
+   "inference": "The jewel-crested Meru should have fifty-one peaks.",
+   "uncertainties": [],
+   "plain_english": "The jewel-crested Meru should have fifty-one peaks."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "kiraṇodbhavameruś",
+     "gloss": "kiraṇodbhava-meru",
+     "grounds": "proper name of a Meru type",
+     "morph": "compound: kiraṇodbhava+meru; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapādaḥ",
+     "gloss": "with-quarter",
+     "grounds": "indicates an additional quarter",
+     "morph": "compound: sa+pāda; m.nom.sg"
+    },
+    {
+     "surface": "ṣaṭśatāṇḍakaḥ",
+     "gloss": "six-hundred-units",
+     "grounds": "specifies count of aṇḍaka units",
+     "morph": "compound: ṣaṭ+śata+aṇḍaka; m.nom.sg"
+    }
+   ],
+   "question": "What unit count defines the Kiraṇodbhava Meru temple type?",
+   "premises": [
+    "The type named is Kiraṇodbhava Meru.",
+    "It includes an additional quarter.",
+    "It comprises six hundred aṇḍaka units."
+   ],
+   "inference": "The Kiraṇodbhava Meru is defined as having six hundred and a quarter aṇḍaka units.",
+   "uncertainties": [
+    "Exact technical value of aṇḍaka in this context"
+   ],
+   "plain_english": "And the Kiraṇodbhava Meru has six hundred and a quarter aṇḍakas."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "introduces the name",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kamalahaṃsaḥ",
+     "gloss": "kamalahaṃsa",
+     "grounds": "proper name of the type",
+     "morph": "compound: kamala+haṃsa; m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt; √as"
+    },
+    {
+     "surface": "sārddha**saptaśatāṇḍakaḥ",
+     "gloss": "with-half-seven-hundred-units",
+     "grounds": "specifies count of aṇḍaka units with a half",
+     "morph": "compound: sa+ardha+sapta+śata+aṇḍaka; m.nom.sg"
+    }
+   ],
+   "question": "What unit count is assigned to the type named Kamalahaṃsa?",
+   "premises": [
+    "The type is named Kamalahaṃsa.",
+    "A count of seven hundred aṇḍaka units is given.",
+    "An additional half is included."
+   ],
+   "inference": "The Kamalahaṃsa type should have seven hundred and a half aṇḍaka units.",
+   "uncertainties": [
+    "Exact technical value of aṇḍaka in this context"
+   ],
+   "plain_english": "It should be named Kamalahaṃsa and have seven hundred and a half aṇḍakas."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "with-two",
+     "grounds": "instrumental dual indicating two items",
+     "morph": "m.inst.dual"
+    },
+    {
+     "surface": "tai",
+     "gloss": "and-those",
+     "grounds": "connective or referential particle in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarṇaketuś",
+     "gloss": "svarṇaketu",
+     "grounds": "proper name of the type",
+     "morph": "compound: svarṇa+ketu; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcasaptāṣṭaśṛṅgakaiḥ",
+     "gloss": "with-five-seven-eight-peaks",
+     "grounds": "compound listing peak counts",
+     "morph": "compound: pañca+sapta+aṣṭa+śṛṅgaka; n.inst.pl"
+    }
+   ],
+   "question": "What peak configurations are associated with the Svarṇaketu type?",
+   "premises": [
+    "The type named is Svarṇaketu.",
+    "Peak counts of five, seven, and eight are mentioned.",
+    "Two such configurations are indicated."
+   ],
+   "inference": "Svarṇaketu is associated with configurations of five, seven, and eight peaks in two forms.",
+   "uncertainties": [
+    "Precise syntactic role of dvābhyāṃ and tai"
+   ],
+   "plain_english": "And Svarṇaketu has two forms with five, seven, and eight peaks."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "sādāreṣu",
+     "gloss": "in-common-types",
+     "grounds": "locative indicating common or shared types",
+     "morph": "compound: sa+ādāra; m.loc.pl"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg.gerundive; √kṛ with pra"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhadrāvilokanam",
+     "gloss": "front-viewing",
+     "grounds": "compound naming the front viewing feature",
+     "morph": "compound: bhadra+avilokana; n.nom.sg"
+    }
+   ],
+   "question": "What viewing feature must be made in common temple types?",
+   "premises": [
+    "The context is common types.",
+    "A feature should be made.",
+    "The feature is front viewing."
+   ],
+   "inference": "In common types, a front viewing feature should be made.",
+   "uncertainties": [
+    "Technical architectural meaning of bhadrāvilokana"
+   ],
+   "plain_english": "O lady, in common types a front viewing feature should be made."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "vṛṣabhadvajameruś",
+     "gloss": "vṛṣabhadhvaja-meru",
+     "grounds": "proper name of a Meru type",
+     "morph": "compound: vṛṣabhadhvaja+meru; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saikāṇḍakasahasravān",
+     "gloss": "with-one-thousand-units-plus-one",
+     "grounds": "specifies count of aṇḍaka units",
+     "morph": "compound: sa+eka+aṇḍaka+sahasravat; m.nom.sg"
+    }
+   ],
+   "question": "What unit count characterizes the Vṛṣabhadhvaja Meru temple type?",
+   "premises": [
+    "The type named is Vṛṣabhadhvaja Meru.",
+    "It possesses a thousand aṇḍaka units.",
+    "One additional aṇḍaka unit is included."
+   ],
+   "inference": "The Vṛṣabhadhvaja Meru has one thousand and one aṇḍaka units.",
+   "uncertainties": [
+    "Exact technical value of aṇḍaka in this context"
+   ],
+   "plain_english": "And the Vṛṣabhadhvaja Meru has one thousand and one aṇḍakas."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "sādāreṣu",
+     "gloss": "in-common-types",
+     "grounds": "locative indicating common or shared types",
+     "morph": "compound: sa+ādāra; m.loc.pl"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg.gerundive; √kṛ with pra"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhadrāvilokanam",
+     "gloss": "front-viewing",
+     "grounds": "compound naming the front viewing feature",
+     "morph": "compound: bhadra+avilokana; n.nom.sg"
+    }
+   ],
+   "question": "What viewing feature is again prescribed for common temple types?",
+   "premises": [
+    "The context is common types.",
+    "A feature should be made.",
+    "The feature is front viewing."
+   ],
+   "inference": "In common types, a front viewing feature should be made.",
+   "uncertainties": [
+    "Technical architectural meaning of bhadrāvilokana"
+   ],
+   "plain_english": "O lady, in common types a front viewing feature should be made."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition indicating exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājño'",
+     "gloss": "king",
+     "grounds": "genitive form with elided vowel before following word",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nyavarṇena",
+     "gloss": "by-other-class",
+     "grounds": "compound indicating a person of another class",
+     "morph": "compound: anya+varṇa; m.inst.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-made",
+     "grounds": "locative absolute condition",
+     "morph": "m.loc.sg.past-pass-part; √kṛ"
+    },
+    {
+     "surface": "merau",
+     "gloss": "in-meru",
+     "grounds": "locative specifying the Meru temple",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahābhayam",
+     "gloss": "great-danger",
+     "grounds": "compound stating the consequence",
+     "morph": "compound: mahā+bhaya; n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows when a non-royal class builds a Meru temple?",
+   "premises": [
+    "The Meru temple is made without the king.",
+    "It is made by a person of another class.",
+    "A consequence is stated."
+   ],
+   "inference": "If a Meru temple is made by someone other than the king, great danger results.",
+   "uncertainties": [],
+   "plain_english": "If a Meru temple is made by someone other than the king, there is great danger."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of a section",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kesaryādiprāsādajātilakṣaṇe",
+     "gloss": "in-kesarī-etc-temple-class-characteristics",
+     "grounds": "compound naming the section on temple class characteristics",
+     "morph": "compound: kesarī+ādi+prāsāda+jāti+lakṣaṇa; n.loc.sg"
+    },
+    {
+     "surface": "pañcacatvāriṃśanmerulakṣaṇe",
+     "gloss": "in-forty-five-meru-characteristics",
+     "grounds": "compound naming the subsection on forty-five Meru characteristics",
+     "morph": "compound: pañcacatvāriṃśat+meru+lakṣaṇa; n.loc.sg"
+    },
+    {
+     "surface": "ṣaṣṭho'dhyāyaḥ",
+     "gloss": "sixth-chapter",
+     "grounds": "states chapter number with sandhi elision",
+     "morph": "compound: ṣaṣṭha+adhyāya; m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes the section on forty-five Meru characteristics?",
+   "premises": [
+    "The section concerns characteristics of Kesarī and other temple classes.",
+    "It includes characteristics of forty-five Merus.",
+    "A chapter number is given."
+   ],
+   "inference": "This is the conclusion of the sixth chapter on those characteristics.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the sixth chapter, on the characteristics of Kesarī and other temple classes and on the characteristics of the forty-five Merus."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "vicitraṃ",
+     "gloss": "variegated",
+     "grounds": "describes the pavilion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object that was made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "relative pronoun indicating the maker",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "made",
+     "grounds": "states the act of making",
+     "morph": "n.nom.sg.past-pass-part; √kṛ"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient of salutation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "expression of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates permanence of salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What reverence is offered to the maker of a variegated pavilion?",
+   "premises": [
+    "A variegated pavilion was made.",
+    "There is a maker of that pavilion.",
+    "Salutation is offered to that maker."
+   ],
+   "inference": "Perpetual salutation is offered to the one who made the variegated pavilion.",
+   "uncertainties": [],
+   "plain_english": "Always salutation to him by whom the variegated pavilion was made."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "prāsādāgre",
+     "gloss": "in-front-of-temple",
+     "grounds": "compound indicating location before the temple",
+     "morph": "compound: prāsāda+agra; n.loc.sg"
+    },
+    {
+     "surface": "prakartavyāḥ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.pl.gerundive; √kṛ with pra"
+    },
+    {
+     "surface": "sarvadeveṣu",
+     "gloss": "for-all-gods",
+     "grounds": "compound indicating applicability to all deities",
+     "morph": "compound: sarva+deva; m.loc.pl"
+    },
+    {
+     "surface": "maṇḍapāḥ",
+     "gloss": "pavilions",
+     "grounds": "structures to be made",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where must pavilions be constructed for all deities?",
+   "premises": [
+    "Pavilions should be made.",
+    "The location is in front of the temple.",
+    "This applies to all deities."
+   ],
+   "inference": "Pavilions should be made in front of the temple for all deities.",
+   "uncertainties": [],
+   "plain_english": "Pavilions should be made in front of the temple for all deities."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "jinasyāgre",
+     "gloss": "in-front-of-jina",
+     "grounds": "compound indicating location before the Jina",
+     "morph": "compound: jina+agra; n.loc.sg"
+    },
+    {
+     "surface": "prakartavyāḥ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "f.nom.pl.gerundive; √kṛ with pra"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "for-all",
+     "grounds": "indicates general applicability",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balāṇakam",
+     "gloss": "balāṇaka",
+     "grounds": "technical term for a specific structure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What specific structure should be made in front of the Jina for all?",
+   "premises": [
+    "A structure should be made in front of the Jina.",
+    "This applies to all.",
+    "The structure is called balāṇaka."
+   ],
+   "inference": "A balāṇaka should indeed be made in front of the Jina for all.",
+   "uncertainties": [
+    "Exact architectural form of balāṇaka"
+   ],
+   "plain_english": "Indeed, a balāṇaka should be made in front of the Jina for all."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "specifies doubling in measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakartavyāḥ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.pl.gerundive; √kṛ with pra"
+    },
+    {
+     "surface": "maṇḍapāḥ",
+     "gloss": "pavilions",
+     "grounds": "structures to be made",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "indicates fivefold classification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "states accepted view",
+     "morph": "m.nom.pl.past-pass-part; √man"
+    }
+   ],
+   "question": "In what alternative measure and classification are pavilions prescribed?",
+   "premises": [
+    "Pavilions should be made.",
+    "They may be made double in measure.",
+    "They are considered fivefold."
+   ],
+   "inference": "Pavilions should be made, optionally double, and are considered fivefold.",
+   "uncertainties": [],
+   "plain_english": "Pavilions should be made, or made double, and are considered fivefold."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "daśāntaṃ",
+     "gloss": "up-to-ten",
+     "grounds": "compound indicating upper limit of ten",
+     "morph": "compound: daśa+anta; n.acc.sg"
+    },
+    {
+     "surface": "pañcataḥ",
+     "gloss": "from-five",
+     "grounds": "indicates lower limit of five",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārddhadvipādonaṃ",
+     "gloss": "with-half-two-quarter-less",
+     "grounds": "compound specifying a reduced measure",
+     "morph": "compound: sa+ardha+dvi+pāda+ūna; n.acc.sg"
+    },
+    {
+     "surface": "catuṣkare",
+     "gloss": "in-four-cubits",
+     "grounds": "locative indicating base measure in cubits",
+     "morph": "compound: catur+kara; m.loc.sg"
+    }
+   ],
+   "question": "What range and reduction apply to the measure in four cubits?",
+   "premises": [
+    "The range extends from five up to ten.",
+    "A reduction involving half, two, and a quarter is specified.",
+    "The base context is four cubits."
+   ],
+   "inference": "In four cubits, the measure ranges from five to ten with a specified reduction of half, two, and a quarter.",
+   "uncertainties": [
+    "Exact arithmetic interpretation of the compound reduction"
+   ],
+   "plain_english": "From five up to ten, in four cubits, it is less by half, two, and a quarter."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "prāyeṇa",
+     "gloss": "generally",
+     "grounds": "indicates usual practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "structure being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "with-half",
+     "grounds": "indicates an additional half",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "indicates doubling in measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratyalindakaiḥ",
+     "gloss": "with-side-corridors",
+     "grounds": "compound indicating accompanying side corridors",
+     "morph": "compound: prati+alindaka; n.inst.pl"
+    }
+   ],
+   "question": "What general proportions and features characterize the pavilion with side corridors?",
+   "premises": [
+    "The pavilion is described generally.",
+    "It may be with a half or double in measure.",
+    "It includes side corridors."
+   ],
+   "inference": "Generally the pavilion, with side corridors, is made with a half or double measure.",
+   "uncertainties": [
+    "Whether sārddhaṃ and dviguṇaṃ are alternatives or combined"
+   ],
+   "plain_english": "Generally the pavilion, with side corridors, is made with a half or double measure."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "śukanāsā",
+     "gloss": "śukanāsā",
+     "grounds": "architectural element used as reference",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samā",
+     "gloss": "equal",
+     "grounds": "states equality of measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghaṇṭā",
+     "gloss": "bell",
+     "grounds": "architectural element being measured",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyūnā",
+     "gloss": "less",
+     "grounds": "indicates lesser measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhā",
+     "gloss": "best",
+     "grounds": "evaluative term for preferred measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikā",
+     "gloss": "more",
+     "grounds": "indicates greater measure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What relative size of the bell compared to the śukanāsā is considered best?",
+   "premises": [
+    "The bell is compared to the śukanāsā.",
+    "It may be equal or less.",
+    "It should not be more."
+   ],
+   "inference": "The bell equal to or less than the śukanāsā is best, but not more.",
+   "uncertainties": [],
+   "plain_english": "The bell equal to the śukanāsā or less is best, and it should not be more."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "states absence of defect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "staṃbhapādādyaiḥ",
+     "gloss": "with-pillar-feet-etc",
+     "grounds": "compound indicating pillars, feet, and similar elements",
+     "morph": "compound: staṃbha+pāda+ādi; m.inst.pl"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "describes level alignment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣamaṃ",
+     "gloss": "uneven",
+     "grounds": "describes non-level alignment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "talam",
+     "gloss": "floor",
+     "grounds": "surface being evaluated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is a floor level or uneven with pillar feet considered faulty?",
+   "premises": [
+    "The floor is considered in relation to pillar feet and similar elements.",
+    "The floor may be equal or uneven.",
+    "A judgment about fault is given."
+   ],
+   "inference": "There is no fault whether the floor is level or uneven with the pillar feet and similar elements.",
+   "uncertainties": [],
+   "plain_english": "There is no fault if the floor is level or uneven with the pillar feet and so on."
+  }
+ ]
+}

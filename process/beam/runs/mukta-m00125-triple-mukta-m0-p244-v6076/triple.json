@@ -1,0 +1,1165 @@
+{
+ "song": "mukta-m0-p244",
+ "items": [
+  {
+   "verse": 6076,
+   "rows": [
+    {
+     "surface": "prakīrṇa",
+     "gloss": "scattered",
+     "grounds": "qualifies flowers",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prakare",
+     "gloss": "in-heap",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadhupena",
+     "gloss": "with-good-incense",
+     "grounds": "instrumental of accompaniment",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpite",
+     "gloss": "perfumed",
+     "grounds": "past participle describing place",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "In what ritually prepared setting should engagement with the sacred text take place?",
+   "premises": [
+    "The setting contains a heap of scattered flowers.",
+    "The setting is perfumed with good incense."
+   ],
+   "inference": "Engagement with the sacred text should occur in a place adorned with scattered flowers and incense.",
+   "uncertainties": [
+    "The exact ritual action performed in this setting is supplied by the following verse."
+   ],
+   "plain_english": "In a place strewn with scattered flowers and perfumed with fine incense,"
+  },
+  {
+   "verse": 6077,
+   "rows": [
+    {
+     "surface": "likhedvā",
+     "gloss": "or-should-write",
+     "grounds": "gerund with alternative particle",
+     "morph": "gerund+vā"
+    },
+    {
+     "surface": "śruṇuyādvāpi",
+     "gloss": "or-even-should-hear",
+     "grounds": "optative with alternative and emphatic particles",
+     "morph": "3.sg.opt.act+vā+api (√śru)"
+    },
+    {
+     "surface": "paṭhedvādau",
+     "gloss": "or-should-read-first",
+     "grounds": "optative with alternative particle and initial sense",
+     "morph": "3.sg.opt.act+vā+ādau (√paṭh)"
+    },
+    {
+     "surface": "śucirnaraḥ",
+     "gloss": "pure-person",
+     "grounds": "subject of the prescribed actions",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Who may write, hear, or read the sacred teaching and in what condition?",
+   "premises": [
+    "The actions prescribed are writing, hearing, or reading.",
+    "The agent performing these actions is described as pure."
+   ],
+   "inference": "A pure person may write, hear, or read the sacred teaching.",
+   "uncertainties": [
+    "The specific object of these actions is clarified in the next verse."
+   ],
+   "plain_english": "a pure person should first write, or hear, or read it."
+  },
+  {
+   "verse": 6078,
+   "rows": [
+    {
+     "surface": "śivajñānasya",
+     "gloss": "of-shiva-knowledge",
+     "grounds": "object whose condition is described",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kālena",
+     "gloss": "by-time",
+     "grounds": "instrumental cause of loss",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "praṇaṣṭasya",
+     "gloss": "of-lost",
+     "grounds": "past participle qualifying knowledge",
+     "morph": "adj.gen.sg.n"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "in-authority",
+     "grounds": "ablative sense indicating loss of authoritative form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition has the knowledge of Shiva fallen into over time?",
+   "premises": [
+    "The subject is the knowledge of Shiva.",
+    "It has been lost over time.",
+    "It has been diminished in its authoritative transmission."
+   ],
+   "inference": "The knowledge of Shiva has become lost over time and weakened in authoritative form.",
+   "uncertainties": [
+    "The precise nuance of pramāṇataḥ as loss of textual authority is interpretive."
+   ],
+   "plain_english": "When the knowledge of Shiva has been lost over time and in its authoritative form,"
+  },
+  {
+   "verse": 6079,
+   "rows": [
+    {
+     "surface": "pramādīkṛta",
+     "gloss": "made-neglected",
+     "grounds": "first member of compound describing reading",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāṭhasya",
+     "gloss": "of-reading",
+     "grounds": "object affected by neglect and destruction",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāśitasya",
+     "gloss": "of-destroyed",
+     "grounds": "past participle qualifying reading",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "alpa",
+     "gloss": "small",
+     "grounds": "first member of compound qualifying intellects",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "buddhibhiḥ",
+     "gloss": "by-intellects",
+     "grounds": "instrumental agents of destruction",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "By whom and through what neglect has the reading of Shiva knowledge been damaged?",
+   "premises": [
+    "The reading has been neglected.",
+    "The reading has been destroyed.",
+    "The agents are those of small intellect."
+   ],
+   "inference": "The reading of Shiva knowledge has been neglected and destroyed by people of limited understanding.",
+   "uncertainties": [],
+   "plain_english": "when its reading has been neglected and ruined by people of small understanding,"
+  },
+  {
+   "verse": 6080,
+   "rows": [
+    {
+     "surface": "vyarthaiḥ",
+     "gloss": "with-useless",
+     "grounds": "qualifies words",
+     "morph": "adj.inst.pl.n"
+    },
+    {
+     "surface": "padair",
+     "gloss": "with-words",
+     "grounds": "instrumental describing textual corruption",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "upetasya",
+     "gloss": "of-endowed",
+     "grounds": "past participle qualifying the text",
+     "morph": "adj.gen.sg.n"
+    },
+    {
+     "surface": "punaruktatasya",
+     "gloss": "of-repeated",
+     "grounds": "past participle indicating redundancy",
+     "morph": "adj.gen.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthataḥ",
+     "gloss": "in-meaning",
+     "grounds": "ablative sense specifying repetition in meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What textual faults have entered the corrupted knowledge of Shiva?",
+   "premises": [
+    "The text has become endowed with useless words.",
+    "The text has become repetitive in meaning."
+   ],
+   "inference": "The corrupted text contains useless words and meaningless repetition.",
+   "uncertainties": [],
+   "plain_english": "when it has become filled with useless words and repeated in meaning,"
+  },
+  {
+   "verse": 6081,
+   "rows": [
+    {
+     "surface": "chandasā",
+     "gloss": "in-meter",
+     "grounds": "instrumental indicating aspect of corruption",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "atīva",
+     "gloss": "greatly",
+     "grounds": "intensifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naṣṭasya",
+     "gloss": "of-ruined",
+     "grounds": "past participle qualifying the text",
+     "morph": "adj.gen.sg.n"
+    },
+    {
+     "surface": "śabdārtha",
+     "gloss": "word-and-meaning",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rahitasya",
+     "gloss": "of-devoid",
+     "grounds": "past participle indicating lack",
+     "morph": "adj.gen.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How severely has the form and sense of the sacred text been damaged?",
+   "premises": [
+    "The text is greatly ruined in meter.",
+    "The text is devoid of proper word and meaning."
+   ],
+   "inference": "The sacred text has suffered severe damage in both its metrical form and its sense.",
+   "uncertainties": [],
+   "plain_english": "when it is greatly ruined in meter and devoid of proper wording and meaning,"
+  },
+  {
+   "verse": 6082,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "makes",
+     "grounds": "main verb of the relative clause",
+     "morph": "3.sg.pres.act (√kṛ)"
+    },
+    {
+     "surface": "pumān",
+     "gloss": "person",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb modifying correction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskāraṃ",
+     "gloss": "correction",
+     "grounds": "object of the action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "appositive identifying the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise",
+     "grounds": "qualifies the teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to properly restore the corrupted knowledge of Shiva?",
+   "premises": [
+    "The required action is proper correction of the text.",
+    "The agent is identified as a teacher.",
+    "The teacher is described as wise."
+   ],
+   "inference": "A wise teacher who properly corrects the text is the qualified restorer.",
+   "uncertainties": [],
+   "plain_english": "the wise teacher who properly restores and corrects it,"
+  },
+  {
+   "verse": 6083,
+   "rows": [
+    {
+     "surface": "adhyāpayet",
+     "gloss": "should-teach",
+     "grounds": "optative prescribing instruction",
+     "morph": "3.sg.opt.caus.act (√i)"
+    },
+    {
+     "surface": "śanaiḥ",
+     "gloss": "gradually",
+     "grounds": "adverb modifying teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyāḥ",
+     "gloss": "to-students",
+     "grounds": "recipients of instruction",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śivabhaktān",
+     "gloss": "devoted-to-shiva",
+     "grounds": "qualifies the students",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How and to whom should the restored teaching be imparted?",
+   "premises": [
+    "The teaching should be given gradually.",
+    "The recipients are students devoted to Shiva."
+   ],
+   "inference": "The restored teaching should be taught gradually to students devoted to Shiva.",
+   "uncertainties": [],
+   "plain_english": "should teach it gradually to students who are devoted to Shiva,"
+  },
+  {
+   "verse": 6084,
+   "rows": [
+    {
+     "surface": "saṃskṛtaiḥ",
+     "gloss": "with-sanskrit",
+     "grounds": "instrumental describing language medium",
+     "morph": "adj.inst.pl.n"
+    },
+    {
+     "surface": "drāmiḍaiḥ",
+     "gloss": "with-dravidian",
+     "grounds": "instrumental describing language medium",
+     "morph": "adj.inst.pl.n"
+    },
+    {
+     "surface": "vākyaiḥ",
+     "gloss": "with-sentences",
+     "grounds": "instrumental means of instruction",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "deśabhāṣā",
+     "gloss": "regional-language",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prakārakaiḥ",
+     "gloss": "in-forms",
+     "grounds": "instrumental indicating modes of expression",
+     "morph": "adj.inst.pl.n"
+    }
+   ],
+   "question": "Through what linguistic forms may the teacher convey the restored teaching?",
+   "premises": [
+    "Instruction may use Sanskrit sentences.",
+    "Instruction may use Dravidian sentences.",
+    "Instruction may use forms of regional language."
+   ],
+   "inference": "The teaching may be conveyed through Sanskrit, Dravidian, and regional language forms.",
+   "uncertainties": [],
+   "plain_english": "using Sanskrit sentences, Dravidian sentences, and forms of the regional language."
+  },
+  {
+   "verse": 6085,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb of context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laukika",
+     "gloss": "ordinary",
+     "grounds": "first member of compound qualifying words",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śabdaiḥ",
+     "gloss": "with-words",
+     "grounds": "instrumental means of explanation",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣya",
+     "gloss": "student",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "manurūpataḥ",
+     "gloss": "according-to-student-capacity",
+     "grounds": "ablative sense indicating adaptation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the teacher adapt language to the capacity of the student?",
+   "premises": [
+    "Ordinary words may be used in this context.",
+    "The explanation should be adapted to the student."
+   ],
+   "inference": "The teacher should also use ordinary words suited to the student's capacity.",
+   "uncertainties": [
+    "The compound śiṣya manurūpataḥ is read as adaptation to the student's measure or capacity."
+   ],
+   "plain_english": "Here, using ordinary words as well, in accordance with the student's capacity,"
+  },
+  {
+   "verse": 6086,
+   "rows": [
+    {
+     "surface": "pradeśavartibhiḥ",
+     "gloss": "with-local-terms",
+     "grounds": "instrumental means used by those in the region",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deśathaṃ",
+     "gloss": "regional-meaning",
+     "grounds": "object of instruction; form as given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bodhayet",
+     "gloss": "should-instruct",
+     "grounds": "optative prescribing explanation",
+     "morph": "3.sg.opt.caus.act (√budh)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "so-that",
+     "grounds": "subordinating particle indicating manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the goal of using locally current expressions in teaching the text?",
+   "premises": [
+    "Local expressions may be employed.",
+    "The aim is to make the meaning understood in every region."
+   ],
+   "inference": "Local expressions should be used so that the meaning is made clear to all in their region.",
+   "uncertainties": [
+    "The form deśathaṃ is taken as the intended regional meaning despite unusual spelling."
+   ],
+   "plain_english": "and with expressions current in the region, he should explain the meaning so that all may understand it."
+  },
+  {
+   "verse": 6087,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "conclusive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāpradhānasya",
+     "gloss": "of-knowledge-foremost",
+     "grounds": "qualifies the person whose excellence is described",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "nāntaḥ",
+     "gloss": "no-end",
+     "grounds": "predicate denying limit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "guṇātmanaḥ",
+     "gloss": "of-all-virtue-nature",
+     "grounds": "qualifies the same person",
+     "morph": "adj.gen.sg.m"
+    }
+   ],
+   "question": "What limitless excellence belongs to one for whom knowledge is foremost?",
+   "premises": [
+    "The person is foremost in knowledge.",
+    "The person is of an all-virtuous nature.",
+    "No end or limit is attributed to such a person."
+   ],
+   "inference": "For one foremost in knowledge and endowed with all virtues, there is no limit to excellence.",
+   "uncertainties": [],
+   "plain_english": "Thus, for one who is foremost in knowledge and whose nature is all virtues, there is no limit."
+  },
+  {
+   "verse": 6088,
+   "rows": [
+    {
+     "surface": "ihakīrtiḥ",
+     "gloss": "fame-here",
+     "grounds": "first reward in this world",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śriyaḥ",
+     "gloss": "prosperities",
+     "grounds": "reward or blessing obtained",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "brāhmī",
+     "gloss": "sacred",
+     "grounds": "qualifies wisdom",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "prajñā",
+     "gloss": "wisdom",
+     "grounds": "intellectual-spiritual reward",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "radiance",
+     "grounds": "personal excellence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "material reward",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "experiential reward",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What worldly and spiritual rewards accrue to one who upholds sacred knowledge?",
+   "premises": [
+    "Fame in this world is gained.",
+    "Prosperities, sacred wisdom, radiance, wealth, and happiness are gained."
+   ],
+   "inference": "Upholding sacred knowledge brings both worldly and spiritual rewards.",
+   "uncertainties": [],
+   "plain_english": "Fame in this world, prosperity, sacred wisdom, radiance, wealth, and happiness come to him."
+  },
+  {
+   "verse": 6089,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject of the consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "main verb expressing result",
+     "morph": "3.sg.pres.act (√yā)"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "to-hell",
+     "grounds": "destination of punishment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ghoraṃ",
+     "gloss": "terrible",
+     "grounds": "qualifies hell",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "pāpīyān",
+     "gloss": "very-sinful",
+     "grounds": "qualifies the destroyer",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśakaḥ",
+     "gloss": "destroyer",
+     "grounds": "agent who destroys knowledge",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fate awaits the one who destroys sacred knowledge?",
+   "premises": [
+    "The agent is a destroyer of knowledge.",
+    "The agent is described as very sinful.",
+    "The destination stated is a terrible hell."
+   ],
+   "inference": "The destroyer of sacred knowledge goes to a terrible hell.",
+   "uncertainties": [],
+   "plain_english": "But the very sinful destroyer of knowledge goes to a terrible hell."
+  },
+  {
+   "verse": 6090,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "adverb of frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lekhayet",
+     "gloss": "should-write",
+     "grounds": "optative prescribing copying",
+     "morph": "3.sg.opt.caus.act (√likh)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "subject qualified by learning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "according-to",
+     "grounds": "particle introducing measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "ability",
+     "grounds": "measure of action",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "subuddhimān",
+     "gloss": "of-good-understanding",
+     "grounds": "qualifies the learned one",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How often and to what extent should a wise person copy the sacred text?",
+   "premises": [
+    "The action prescribed is writing or copying.",
+    "It should be done daily.",
+    "It should be done according to one's ability."
+   ],
+   "inference": "A learned and wise person should copy the sacred text daily according to ability.",
+   "uncertainties": [],
+   "plain_english": "A learned and wise person should copy it daily, according to his ability."
+  },
+  {
+   "verse": 6091,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "for-so-many",
+     "grounds": "correlative measure of duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dyutasahasrāṇi",
+     "gloss": "thousands-of-ages",
+     "grounds": "duration of reward; reading follows legacy sense",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dātā",
+     "gloss": "giver",
+     "grounds": "agent associated with merit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivapure",
+     "gloss": "in-shiva-city",
+     "grounds": "locative of reward",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "subject who receives reward",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What heavenly reward is promised for supporting or giving the sacred knowledge?",
+   "premises": [
+    "The reward lasts for thousands of ages.",
+    "The place of reward is the city of Shiva.",
+    "The recipient is the meritorious person."
+   ],
+   "inference": "The meritorious giver dwells for thousands of ages in the city of Shiva.",
+   "uncertainties": [
+    "The exact sense of dyuta as an age or period is uncertain."
+   ],
+   "plain_english": "That person dwells for so many thousands of ages in the city of Shiva."
+  },
+  {
+   "verse": 6092,
+   "rows": [
+    {
+     "surface": "mātṛḥ",
+     "gloss": "mothers",
+     "grounds": "companions in reward",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pitṛn",
+     "gloss": "fathers",
+     "grounds": "companions in reward",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dharmapatnīḥ",
+     "gloss": "lawful-wives",
+     "grounds": "companions in reward",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-them",
+     "grounds": "instrumental of association",
+     "morph": "pron.inst.pl.m"
+    },
+    {
+     "surface": "svargaṃ",
+     "gloss": "heaven",
+     "grounds": "destination attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samavāpya",
+     "gloss": "having-attained",
+     "grounds": "gerund expressing prior attainment",
+     "morph": "gerund (sam+ava+√āp)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With whom does the meritorious person attain the heavenly reward?",
+   "premises": [
+    "Mothers, fathers, and lawful wives are included.",
+    "Heaven is attained together with them."
+   ],
+   "inference": "The meritorious person attains heaven together with mothers, fathers, and lawful wives.",
+   "uncertainties": [],
+   "plain_english": "Having attained heaven together with his mothers, fathers, and lawful wives,"
+  },
+  {
+   "verse": 6093,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle indicating minimal amount",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ślokaṃ",
+     "gloss": "a-verse",
+     "grounds": "object of reading",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-it",
+     "grounds": "alternative smaller portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivajñānasya",
+     "gloss": "of-shiva-knowledge",
+     "grounds": "source text of the verse",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "reads",
+     "grounds": "optative verb of the relative clause",
+     "morph": "3.sg.opt.act (√paṭh)"
+    }
+   ],
+   "question": "What minimal engagement with Shiva knowledge is sufficient to merit reward?",
+   "premises": [
+    "The engagement may be reading even one verse.",
+    "The engagement may be reading even half a verse.",
+    "The text is the knowledge of Shiva."
+   ],
+   "inference": "Reading even a verse or half a verse of Shiva knowledge is sufficient engagement for merit.",
+   "uncertainties": [],
+   "plain_english": "whoever reads even a verse, or half a verse, of the knowledge of Shiva,"
+  },
+  {
+   "verse": 6094,
+   "rows": [
+    {
+     "surface": "śruṇuyāt",
+     "gloss": "should-hear",
+     "grounds": "alternative mode of engagement",
+     "morph": "3.sg.opt.act (√śru)"
+    },
+    {
+     "surface": "ekacittaḥ",
+     "gloss": "with-one-pointed-mind",
+     "grounds": "qualifies the hearer",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "its-meaning",
+     "grounds": "object of reflection",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicārayet",
+     "gloss": "should-consider",
+     "grounds": "optative prescribing reflection",
+     "morph": "3.sg.opt.caus.act (√car)"
+    }
+   ],
+   "question": "What attentive reception and reflection complete the merit of engaging the text?",
+   "premises": [
+    "One may hear the text with a one-pointed mind.",
+    "One should consider its meaning."
+   ],
+   "inference": "Attentive hearing and reflection on the meaning complete meritorious engagement with the text.",
+   "uncertainties": [],
+   "plain_english": "or hears it with a focused mind and reflects on its meaning,"
+  },
+  {
+   "verse": 6095,
+   "rows": [
+    {
+     "surface": "śivajñānābhiyuktasya",
+     "gloss": "of-one-devoted-to-shiva-knowledge",
+     "grounds": "beneficiary of support",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "bhojanā",
+     "gloss": "food",
+     "grounds": "first member of compound listing support",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cchādanā",
+     "gloss": "clothing",
+     "grounds": "second member of compound listing support",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-so-forth",
+     "grounds": "instrumental indicating other forms of support",
+     "morph": "adj.inst.pl.n"
+    }
+   ],
+   "question": "What kinds of material support may be given to one devoted to Shiva knowledge?",
+   "premises": [
+    "The recipient is devoted to Shiva knowledge.",
+    "Support includes food, clothing, and similar necessities."
+   ],
+   "inference": "One devoted to Shiva knowledge may be supported with food, clothing, and other necessities.",
+   "uncertainties": [],
+   "plain_english": "for one devoted to the knowledge of Shiva, by providing food, clothing, and the like,"
+  },
+  {
+   "verse": 6096,
+   "rows": [
+    {
+     "surface": "mūlyena",
+     "gloss": "by-payment",
+     "grounds": "instrumental means of support",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "optative prescribing arranged support",
+     "morph": "3.sg.opt.caus.act (√kṛ)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle introducing consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "emphatic reference to same fruit",
+     "morph": "pron.nom.sg.n+eva"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "object of enjoyment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "enjoys",
+     "grounds": "main verb stating result",
+     "morph": "3.sg.pres.mid (√aś)"
+    }
+   ],
+   "question": "Does financially supporting a devotee of Shiva knowledge yield the same merit as direct practice?",
+   "premises": [
+    "Support may be arranged by payment.",
+    "The result stated is that very same fruit."
+   ],
+   "inference": "One who supports a devotee of Shiva knowledge by payment obtains the same fruit.",
+   "uncertainties": [],
+   "plain_english": "or supports him by payment, then he enjoys that very same fruit."
+  },
+  {
+   "verse": 6097,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "subject who prospers",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vardhate",
+     "gloss": "prospers",
+     "grounds": "main verb of flourishing",
+     "morph": "3.sg.pres.mid (√vṛdh)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative subject repeated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājādhipaḥ",
+     "gloss": "overlord-king",
+     "grounds": "exalted royal figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ūrjitaḥ",
+     "gloss": "mighty",
+     "grounds": "qualifies the overlord king",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What political prosperity follows from honoring and supporting sacred knowledge?",
+   "premises": [
+    "The king prospers.",
+    "The overlord king becomes mighty."
+   ],
+   "inference": "Honoring sacred knowledge leads to royal prosperity and might.",
+   "uncertainties": [],
+   "plain_english": "That king prospers; that mighty overlord of kings becomes powerful."
+  },
+  {
+   "verse": 6098,
+   "rows": [
+    {
+     "surface": "purohitatve",
+     "gloss": "in-priesthood",
+     "grounds": "locative domain of activity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive indicating scope",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "rājakārye",
+     "gloss": "in-royal-affairs",
+     "grounds": "locative domain of activity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anyadarśane",
+     "gloss": "in-other-views",
+     "grounds": "locative domain of differing perspectives",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which spheres of authority and doctrine must proper discernment be applied?",
+   "premises": [
+    "The domains named are priesthood of all.",
+    "The domains named include royal affairs.",
+    "The domains named include other views or systems."
+   ],
+   "inference": "Proper discernment applies in priestly, royal, and doctrinal spheres.",
+   "uncertainties": [
+    "The syntactic connection to the following verse is incomplete in this unit."
+   ],
+   "plain_english": "In the priesthood of all, in royal affairs, and in other systems of view,"
+  },
+  {
+   "verse": 6099,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun introducing content",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhāntāḥ",
+     "gloss": "siddhantas",
+     "grounds": "doctrinal authorities contrasted",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "virodhena",
+     "gloss": "in-contradiction",
+     "grounds": "instrumental indicating opposition",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vedaṃ",
+     "gloss": "veda",
+     "grounds": "scriptural authority named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedāṅga",
+     "gloss": "vedanga",
+     "grounds": "first member of compound or paired term",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What doctrinal conflict is identified between the Siddhantas and Vedic authorities?",
+   "premises": [
+    "The Siddhantas are mentioned as a point of reference.",
+    "Contradiction is asserted in relation to the Veda and Vedanga."
+   ],
+   "inference": "A contradiction is identified between the Siddhantas and the Veda together with the Vedangas.",
+   "uncertainties": [
+    "The clause is syntactically incomplete and likely continues in the next verse."
+   ],
+   "plain_english": "whatever stands in contradiction to the Siddhantas, the Veda, and indeed the Vedangas as well,"
+  }
+ ]
+}

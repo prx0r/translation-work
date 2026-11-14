@@ -1,0 +1,63 @@
+{
+ "song": "kjn-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal numeral qualifying cakraṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking continuation or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājānam",
+     "gloss": "king",
+     "grounds": "epithet in apposition to cakraṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral forming compound with patra",
+     "morph": "compound:first"
+    },
+    {
+     "surface": "patra",
+     "gloss": "petaled",
+     "grounds": "second member of compound describing cakraṃ",
+     "morph": "compound:second"
+    },
+    {
+     "surface": "sakarṇikam",
+     "gloss": "with-pericarp",
+     "grounds": "adjective qualifying cakraṃ, possessing a pericarp",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What are the defining characteristics of the sixth cakra?",
+   "premises": [
+    "The sixth cakra is identified as the object of description.",
+    "This cakra is characterized as royal or kingly.",
+    "This cakra possesses eight petals and a pericarp."
+   ],
+   "inference": "The sixth cakra is a royal, eight-petaled wheel endowed with a pericarp.",
+   "uncertainties": [
+    "The specific referent of rājānam as a metaphorical epithet is context-dependent."
+   ],
+   "plain_english": "The sixth cakra, moreover, is the royal one, having eight petals and a pericarp."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p251",
+ "items": [
+  {
+   "verse": 6275,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the previously mentioned mixture",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction introducing the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kajjalītulyaṃ",
+     "gloss": "collyrium-like",
+     "grounds": "compound describing the desired consistency of the mixture",
+     "morph": "compound: kajjalī+tulya (adj.nom.sg.n)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "expresses the attainment of the specified state",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "correlative adverb marking the consequent action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṭikāṃ",
+     "gloss": "pill",
+     "grounds": "object to be formed from the prepared mixture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-make",
+     "grounds": "prescribes the action to be performed on the mixture",
+     "morph": "3.sg.opt.act (√car)"
+    }
+   ],
+   "question": "At what stage of preparation should the mixture be formed into a pill?",
+   "premises": [
+    "The mixture is processed until it reaches a specific consistency.",
+    "The target consistency is described as being like collyrium.",
+    "Once that consistency is attained, a further action is prescribed."
+   ],
+   "inference": "When the mixture becomes like collyrium, it should then be made into a pill.",
+   "uncertainties": [
+    "The exact material sense of 'kajjalī' in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "When that mixture becomes like collyrium, one should then form it into a pill."
+  }
+ ]
+}

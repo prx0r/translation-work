@@ -1,0 +1,491 @@
+{
+ "song": "sva-p37",
+ "items": [
+  {
+   "verse": 913,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantrāntare",
+     "gloss": "in-another-tantra",
+     "grounds": "token as given",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantrāntare",
+     "gloss": "in-another-tantra",
+     "grounds": "token as given",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What is the intended meaning of this repeated statement?",
+   "premises": [
+    "repeated phrase marks emphasis",
+    "tantra context frames meaning"
+   ],
+   "inference": "the statement is to be read as a repeated tantric assertion",
+   "uncertainties": [
+    "exact referent of iti"
+   ],
+   "plain_english": "Thus, in another tantra; thus, in another tantra."
+  },
+  {
+   "verse": 914,
+   "rows": [
+    {
+     "surface": "adūra",
+     "gloss": "near",
+     "grounds": "token as given",
+     "morph": "adj (indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adūra",
+     "gloss": "near",
+     "grounds": "token as given",
+     "morph": "adj (indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What nearness is being emphasized here?",
+   "premises": [
+    "adūra repeats twice",
+    "eva adds emphasis"
+   ],
+   "inference": "the nearness is being stressed as immediate",
+   "uncertainties": [
+    "what is near"
+   ],
+   "plain_english": "Near indeed, near indeed."
+  },
+  {
+   "verse": 915,
+   "rows": [
+    {
+     "surface": "saṃhārakrameṇa",
+     "gloss": "by-destruction-order",
+     "grounds": "token as given",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "saṃhārakrameṇa",
+     "gloss": "by-destruction-order",
+     "grounds": "token as given",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "saṃhārakrameṇa",
+     "gloss": "by-destruction-order",
+     "grounds": "token as given",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "saṃhārakrameṇa",
+     "gloss": "by-destruction-order",
+     "grounds": "token as given",
+     "morph": "instr.sg.m"
+    }
+   ],
+   "question": "What destruction order is being repeated?",
+   "premises": [
+    "same instrumental phrase repeats",
+    "repetition signals insistence"
+   ],
+   "inference": "the destruction order is to be followed as stated",
+   "uncertainties": [
+    "specific sequence details"
+   ],
+   "plain_english": "By destruction order, by destruction order, by destruction order, by destruction order."
+  },
+  {
+   "verse": 916,
+   "rows": [
+    {
+     "surface": "īśānāntāḥ",
+     "gloss": "up-to-īśāna",
+     "grounds": "token as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "praṇavapūrvakā",
+     "gloss": "om-prefixed",
+     "grounds": "token as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "token as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mantavyāḥ",
+     "gloss": "to-be-thought",
+     "grounds": "token as given",
+     "morph": "gerundive nom.pl.m"
+    }
+   ],
+   "question": "Which mantras are to be thought?",
+   "premises": [
+    "mantras are om-prefixed",
+    "range extends to ishana"
+   ],
+   "inference": "the om-prefixed mantras up to ishana are to be contemplated",
+   "uncertainties": [
+    "exact mantra list"
+   ],
+   "plain_english": "The om-prefixed mantras up to ishana are to be thought."
+  },
+  {
+   "verse": 917,
+   "rows": [
+    {
+     "surface": "...ṣa",
+     "gloss": "limb",
+     "grounds": "token as given",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgī",
+     "gloss": "limb",
+     "grounds": "token as given",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parikītītaḥ",
+     "gloss": "described",
+     "grounds": "token as given",
+     "morph": "pp nom.sg.m"
+    }
+   ],
+   "question": "How is the limb described here?",
+   "premises": [
+    "limb and limb are paired",
+    "description is stated"
+   ],
+   "inference": "the limb is described in relation to another limb",
+   "uncertainties": [
+    "damaged first token"
+   ],
+   "plain_english": "...limb and limb are described."
+  },
+  {
+   "verse": 918,
+   "rows": [
+    {
+     "surface": "vratāntarāṇi",
+     "gloss": "other-vows",
+     "grounds": "token as given",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "vratāntarāṇi",
+     "gloss": "other-vows",
+     "grounds": "token as given",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "vratāntarāṇi",
+     "gloss": "other-vows",
+     "grounds": "token as given",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "vratāntarāṇi",
+     "gloss": "other-vows",
+     "grounds": "token as given",
+     "morph": "nom.pl.n"
+    }
+   ],
+   "question": "What is being said about other vows?",
+   "premises": [
+    "same noun repeats four times",
+    "repetition marks emphasis"
+   ],
+   "inference": "other vows are being emphasized as a class",
+   "uncertainties": [
+    "specific vow types"
+   ],
+   "plain_english": "Other vows, other vows, other vows, other vows."
+  },
+  {
+   "verse": 919,
+   "rows": [
+    {
+     "surface": "homena",
+     "gloss": "by-offering",
+     "grounds": "token as given",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "sampādyāni",
+     "gloss": "to-be-accomplished",
+     "grounds": "token as given",
+     "morph": "gerundive nom.pl.n"
+    },
+    {
+     "surface": "homena",
+     "gloss": "by-offering",
+     "grounds": "token as given",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "sampādyāni",
+     "gloss": "to-be-accomplished",
+     "grounds": "token as given",
+     "morph": "gerundive nom.pl.n"
+    }
+   ],
+   "question": "What is to be accomplished by offering?",
+   "premises": [
+    "offering is instrumental",
+    "accomplishment is gerundive"
+   ],
+   "inference": "the stated things are to be accomplished by offering",
+   "uncertainties": [
+    "exact objects"
+   ],
+   "plain_english": "By offering, things to be accomplished; by offering, things to be accomplished."
+  },
+  {
+   "verse": 920,
+   "rows": [
+    {
+     "surface": "brahmacāriṇāṃ",
+     "gloss": "of-celibates",
+     "grounds": "token as given",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "niyāmakāḥ",
+     "gloss": "regulators",
+     "grounds": "token as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tathātvasampādakāḥ",
+     "gloss": "thusness-accomplishers",
+     "grounds": "token as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "brahmacāriṇāṃ",
+     "gloss": "of-celibates",
+     "grounds": "token as given",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "Who are the regulators and accomplishers?",
+   "premises": [
+    "genitive refers to celibates",
+    "regulators and accomplishers are nominative"
+   ],
+   "inference": "the regulators and thusness-accomplishers belong to celibates",
+   "uncertainties": [
+    "exact role distribution"
+   ],
+   "plain_english": "Regulators and thusness-accomplishers of celibates."
+  },
+  {
+   "verse": 921,
+   "rows": [
+    {
+     "surface": "keśadivapanaṃ",
+     "gloss": "hair-etc-shaving",
+     "grounds": "token as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "godānam",
+     "gloss": "cow-gift",
+     "grounds": "token as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "keśadivapanaṃ",
+     "gloss": "hair-etc-shaving",
+     "grounds": "token as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "godānam",
+     "gloss": "cow-gift",
+     "grounds": "token as given",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Which rites are being paired here?",
+   "premises": [
+    "hair shaving repeats",
+    "cow gift repeats"
+   ],
+   "inference": "hair shaving and cow gift are paired as rites",
+   "uncertainties": [
+    "ritual context"
+   ],
+   "plain_english": "Hair shaving and cow gift, hair shaving and cow gift."
+  },
+  {
+   "verse": 922,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evamudvāhena",
+     "gloss": "thus-marriage",
+     "grounds": "token as given",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "evaite",
+     "gloss": "indeed-these",
+     "grounds": "token as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "nityayajñāḥ",
+     "gloss": "eternal-sacrifices",
+     "grounds": "token as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "saṃgrahītā",
+     "gloss": "included",
+     "grounds": "token as given",
+     "morph": "pp nom.pl.m"
+    },
+    {
+     "surface": "ityāśayaḥ",
+     "gloss": "intent",
+     "grounds": "token as given",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the intent of this inclusion?",
+   "premises": [
+    "eternal sacrifices are included",
+    "marriage is the means"
+   ],
+   "inference": "the intent is that these eternal sacrifices are included through marriage",
+   "uncertainties": [
+    "scope of inclusion"
+   ],
+   "plain_english": "Thus, by such marriage indeed these eternal sacrifices are included; such is the intent."
+  },
+  {
+   "verse": 923,
+   "rows": [
+    {
+     "surface": "prastutaistilaiḥ",
+     "gloss": "by-sesame",
+     "grounds": "token as given",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "token as given",
+     "morph": "gerundive nom.pl.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "token as given",
+     "morph": "gerundive nom.sg.n"
+    }
+   ],
+   "question": "What is to be known about sesame?",
+   "premises": [
+    "sesame is instrumental",
+    "action is to be done"
+   ],
+   "inference": "it is to be known that the action is to be done with sesame",
+   "uncertainties": [
+    "exact action"
+   ],
+   "plain_english": "By sesame indeed it is to be done; thus it is to be known."
+  },
+  {
+   "verse": 924,
+   "rows": [
+    {
+     "surface": "kārya",
+     "gloss": "to-be-done",
+     "grounds": "token as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārya",
+     "gloss": "to-be-done",
+     "grounds": "token as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is being emphasized as to be done?",
+   "premises": [
+    "kārya repeats twice",
+    "eva adds emphasis"
+   ],
+   "inference": "the action is emphatically to be done",
+   "uncertainties": [
+    "specific action"
+   ],
+   "plain_english": "To be done indeed, to be done indeed."
+  }
+ ]
+}

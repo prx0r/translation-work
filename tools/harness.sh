@@ -14,6 +14,9 @@
 set -u
 cd /root/translation-work || exit 1
 export OPENCODE_GO_KEY="$(agent-vault vault credential get OPENCODE_GO_KEY --vault oracle)"
+# Second Go account: beam_client rotates sessions across both keys and fails
+# over on 429 before parking a model. Durable in the vault (fallback .env).
+export OPENCODE_GO_KEY_BAK="$(agent-vault vault credential get OPENCODE_GO_KEY_BAK --vault oracle 2>/dev/null || true)"
 LOGDIR=process/beam
 HWORKERS="${HARNESS_WORKERS:-w1 w2}"   # default set; w3 added only if healthy
 SLEEP_SECS=${HARNESS_SLEEP:-300}
@@ -94,6 +97,7 @@ while true; do
   # but keep the canonical export fresh regardless).
   if [ -z "${OPENCODE_GO_KEY:-}" ]; then
     export OPENCODE_GO_KEY="$(agent-vault vault credential get OPENCODE_GO_KEY --vault oracle 2>/dev/null || true)"
+    export OPENCODE_GO_KEY_BAK="$(agent-vault vault credential get OPENCODE_GO_KEY_BAK --vault oracle 2>/dev/null || true)"
     [ -n "${OPENCODE_GO_KEY:-}" ] && log "key re-asserted" || log "key MISSING — beam calls will fail"
   fi
   if health_ok; then
@@ -102,6 +106,15 @@ while true; do
   else
     touch "$LOGDIR/PAUSED"
     log "beam down — PAUSED set (workers drain, no fresh claims)"
+  fi
+  # Disk guard (overnight safety): beam drafts thousands of run files; if the
+  # disk is nearly full, stop fresh claims (PAUSED) so nothing corrupts git or
+  # partial writes. Clears automatically once free space recovers.
+  FREE_GB=$(df -Pk . 2>/dev/null | awk 'NR==2{printf "%d", $4/1024/1024}')
+  FREE_GB=${FREE_GB:-999}
+  if [ "$FREE_GB" -lt 2 ]; then
+    touch "$LOGDIR/PAUSED"
+    log "LOW DISK ${FREE_GB}GB free — PAUSED (workers drain, no new claims)"
   fi
   ensure_proc "tools/continue.sh" bash tools/continue.sh
   ensure_proc "tools/watchdog.sh" bash tools/watchdog.sh

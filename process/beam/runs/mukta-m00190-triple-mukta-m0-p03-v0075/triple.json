@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "uccārayet",
+     "gloss": "should-utter",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act-opt + uc-car"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "sacred syllable oṃ as object of utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svareṇa",
+     "gloss": "with-tone",
+     "grounds": "instrument indicating manner of utterance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "with-one",
+     "grounds": "qualifies the tone as single",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "agent qualified by knowledge of mantras; compound mantra+vid",
+     "morph": "m.nom.sg (mantra+vid)"
+    }
+   ],
+   "question": "In what tonal manner must the mantra-knower utter the praṇava?",
+   "premises": [
+    "The mantra-knower is the prescribed agent of utterance.",
+    "The object to be uttered is the praṇava.",
+    "The utterance must be performed with a single tone."
+   ],
+   "inference": "Therefore, the mantra-knower should utter the praṇava in a single tone.",
+   "uncertainties": [],
+   "plain_english": "But the mantra-knower should utter the praṇava with a single tone."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p270",
+ "items": [
+  {
+   "verse": 6750,
+   "rows": [
+    {
+     "surface": "ādhārākhyamanantaṃ",
+     "gloss": "ananta-named-as-support",
+     "grounds": "compound denoting Ananta designated as the support; object of placement implied from context",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmādyaṃ",
+     "gloss": "beginning-with-dharma",
+     "grounds": "compound indicating a group headed by dharma",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "tetrad",
+     "grounds": "group of four principles; object of placement implied from context",
+     "morph": "n.acc.sg.nt"
+    }
+   ],
+   "question": "Which support principle and tetrad must be installed within the ritual vessel?",
+   "premises": [
+    "Ananta, designated as the support, is to be included.",
+    "A tetrad beginning with dharma is to be included.",
+    "Both are placed together within the ritual vessel."
+   ],
+   "inference": "The ritual installation requires Ananta as support along with the tetrad beginning with dharma.",
+   "uncertainties": [
+    "The specific members of the dharmādya catuṣṭaya are not enumerated in this verse."
+   ],
+   "plain_english": "And one should place Ananta, called the support, and the tetrad beginning with dharma."
+  }
+ ]
+}

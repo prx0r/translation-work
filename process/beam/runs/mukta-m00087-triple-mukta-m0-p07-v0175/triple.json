@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "indranta",
+     "gloss": "indra-indeed",
+     "grounds": "legacy hint Indra-indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "legacy hint middle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃkārarūpabhedakam",
+     "gloss": "omkara-form-differentiating",
+     "grounds": "legacy hint oṃkāra-form-differentiating",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What differentiates the omkara form in the middle there?",
+   "premises": [
+    "Indra is there indeed.",
+    "The middle contains omkara-form-differentiating."
+   ],
+   "inference": "The verse locates an omkara-form-differentiating element in the middle.",
+   "uncertainties": [
+    "Exact syntactic role of indranta remains uncertain."
+   ],
+   "plain_english": "Indeed Indra there in the middle, an omkara-form-differentiating element."
+  }
+ ]
+}

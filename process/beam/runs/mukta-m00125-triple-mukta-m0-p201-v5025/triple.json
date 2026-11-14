@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p201",
+ "items": [
+  {
+   "verse": 5025,
+   "rows": [
+    {
+     "surface": "śroṇīsamuccharayaṃ",
+     "gloss": "hip-elevation",
+     "grounds": "compound denoting the height or elevation of the hip",
+     "morph": "śroṇī+samucchraya.acc.sg.m"
+    },
+    {
+     "surface": "vāmājānoruddharaṇaṃ",
+     "gloss": "left-knee-lifting",
+     "grounds": "compound denoting the raising of the left knee",
+     "morph": "vāma+jānu+uddharaṇa.acc.sg.nt"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "expresses the accepted identification or prescribed measure",
+     "morph": "ppp.nom.sg.nt√man"
+    }
+   ],
+   "question": "Which bodily elevation is identified with the raising of the left knee?",
+   "premises": [
+    "A specific hip elevation is named.",
+    "A raising of the left knee is named.",
+    "The two measures are declared equivalent."
+   ],
+   "inference": "The elevation of the hip is defined as the lifting of the left knee.",
+   "uncertainties": [
+    "The precise postural context of this equivalence depends on the surrounding ritual or iconographic prescription."
+   ],
+   "plain_english": "The elevation of the hip is considered to be the lifting of the left knee."
+  }
+ ]
+}

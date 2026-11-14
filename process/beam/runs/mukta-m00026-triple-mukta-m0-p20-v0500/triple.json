@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable expressing absence; governs the accompanying noun in sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇa+parijñānaṃ",
+     "gloss": "letter-complete-knowledge",
+     "grounds": "compound denoting thorough knowledge of the letters",
+     "morph": "compound: varṇa+parijñāna; n.acc.sg"
+    },
+    {
+     "surface": "koṭi+puraścaraṇena",
+     "gloss": "crore-preliminary-rites",
+     "grounds": "compound indicating a vast number of preliminary ritual repetitions",
+     "morph": "compound: koṭi+puraścaraṇa; n.inst.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun questioning value or purpose",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What value do vast preliminary rites hold without complete knowledge of the letters?",
+   "premises": [
+    "Complete knowledge of the letters is required.",
+    "Preliminary rites may be performed in crores.",
+    "Ritual quantity does not replace requisite knowledge."
+   ],
+   "inference": "Without complete knowledge of the letters, even a crore of preliminary rites has no value.",
+   "uncertainties": [],
+   "plain_english": "Without complete knowledge of the letters, what is the use of a crore of preliminary rites?"
+  }
+ ]
+}

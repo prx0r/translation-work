@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pumāṃso",
+     "gloss": "men",
+     "grounds": "nominative plural masculine of pumāṃs; final visarga sandhi before deveśi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahākālasvarūpiṇaḥ",
+     "gloss": "mahākāla-formed",
+     "grounds": "compound adjective mahākāla plus svarūpin in nominative plural masculine agreeing with pumāṃso",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What form do men take then according to this teaching?",
+   "premises": [
+    "men take Mahākāla form then",
+    "the goddess is addressed directly",
+    "the statement is temporal"
+   ],
+   "inference": "The verse identifies men at that time with the form of Mahākāla.",
+   "uncertainties": [
+    "exact ritual context of the transformation is not supplied by this verse alone"
+   ],
+   "plain_english": "Then, O goddess, men are of the form of Mahākāla."
+  }
+ ]
+}

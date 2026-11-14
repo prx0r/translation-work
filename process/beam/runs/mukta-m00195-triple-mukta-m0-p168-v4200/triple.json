@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p168",
+ "items": [
+  {
+   "verse": 4200,
+   "rows": [
+    {
+     "surface": "loka+pālān",
+     "gloss": "world-guardians",
+     "grounds": "compound loka+pāla, recipients of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tat+astrāṇi",
+     "gloss": "their-weapons",
+     "grounds": "compound tat+astra, weapons of the world-guardians",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual worship to be concluded",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāk+vat",
+     "gloss": "as-before",
+     "grounds": "indeclinable indicating the previously established manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "injunction to conclude the ritual act",
+     "morph": "3.sg.act.opt; √sam-āp"
+    }
+   ],
+   "question": "How should the worship of the world-guardians and their weapons be concluded?",
+   "premises": [
+    "The world-guardians are recipients of ritual worship.",
+    "The weapons of the world-guardians are included in that worship.",
+    "The manner of completion follows a previously established procedure."
+   ],
+   "inference": "One should complete the worship of the world-guardians and their weapons in the same manner as before.",
+   "uncertainties": [
+    "The referent of tat is inferred from context to be the world-guardians."
+   ],
+   "plain_english": "One should complete the worship of the world-guardians and their weapons as before."
+  }
+ ]
+}

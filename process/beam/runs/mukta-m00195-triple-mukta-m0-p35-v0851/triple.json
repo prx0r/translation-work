@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "foundation",
+     "grounds": "name of a tattva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "name of a tattva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "peace",
+     "grounds": "name of a tattva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which higher principles are included in the purification sequence?",
+   "premises": [
+    "pratiṣṭhā is named as a principle",
+    "vidyā is named as a principle",
+    "śāntiḥ is named as a principle"
+   ],
+   "inference": "The sequence includes the principles foundation, knowledge, and peace.",
+   "uncertainties": [],
+   "plain_english": "Foundation, knowledge, and peace are also included."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "ritual recipient",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "spṛśan",
+     "gloss": "touching",
+     "grounds": "simultaneous action",
+     "morph": "m.nom.sg.present-participle √spṛś"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-fire-pit",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svake",
+     "gloss": "in-own",
+     "grounds": "possessive qualifier",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √hu"
+    }
+   ],
+   "question": "How must the teacher perform the fire offering while contacting the disciple?",
+   "premises": [
+    "The teacher is the acting agent",
+    "The teacher touches the disciple",
+    "The offering is made in the teacher's own fire pit"
+   ],
+   "inference": "The teacher should touch the disciple and make the offering in his own fire pit.",
+   "uncertainties": [],
+   "plain_english": "Touching the disciple, the teacher should make the offering in his own fire pit."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "śodhayāmi",
+     "gloss": "i-purify",
+     "grounds": "mantra utterance",
+     "morph": "1.sg.present-active √śudh"
+    },
+    {
+     "surface": "dviṭha+antena",
+     "gloss": "with-dviṭha-ending",
+     "grounds": "compound describing mantra",
+     "morph": "m.ins.sg (dviṭha+anta)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of ritual",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "aṣṭa+āhutīḥ",
+     "gloss": "eight-oblations",
+     "grounds": "compound indicating number and object",
+     "morph": "f.acc.pl (aṣṭan+āhuti)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √hu"
+    }
+   ],
+   "question": "What mantra and number of oblations are prescribed for purification?",
+   "premises": [
+    "The utterance declares purification",
+    "The mantra ends with dviṭha",
+    "Eight oblations are specified"
+   ],
+   "inference": "One should offer eight oblations with the mantra ending in dviṭha while declaring purification.",
+   "uncertainties": [
+    "The exact form of the mantra ending 'dviṭha' is not specified here"
+   ],
+   "plain_english": "Saying 'I purify,' one should offer eight oblations with the mantra ending in dviṭha."
+  },
+  {
+   "verse": 854,
+   "rows": [
+    {
+     "surface": "liṅga+pradeśe",
+     "gloss": "in-liṅga-region",
+     "grounds": "compound indicating bodily location",
+     "morph": "m.loc.sg (liṅga+pradeśa)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-him",
+     "grounds": "refers to the disciple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tattva+adhvānaṃ",
+     "gloss": "principle-path",
+     "grounds": "compound naming the path of principles",
+     "morph": "m.acc.sg (tattva+adhvan)"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-contemplate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active vi-√cint"
+    }
+   ],
+   "question": "Where and what should the teacher contemplate as the path of principles?",
+   "premises": [
+    "The location is the disciple's liṅga region",
+    "The object of contemplation is the path of principles",
+    "Contemplation is enjoined"
+   ],
+   "inference": "The teacher should contemplate the path of principles in the disciple's liṅga region.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the path of principles in his liṅga region."
+  },
+  {
+   "verse": 855,
+   "rows": [
+    {
+     "surface": "śiva+śaktī",
+     "gloss": "śiva-and-śakti",
+     "grounds": "dual compound naming two principles",
+     "morph": "m.f.nom.dual (śiva+śakti)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadāśiva+maheśvarau",
+     "gloss": "sadāśiva-and-maheśvara",
+     "grounds": "dual compound naming two principles",
+     "morph": "m.nom.dual (sadāśiva+maheśvara)"
+    }
+   ],
+   "question": "Which paired principles begin the contemplated path of principles?",
+   "premises": [
+    "Śiva and Śakti are named together",
+    "Sadāśiva and Maheśvara are named together",
+    "They are presented as items in the sequence"
+   ],
+   "inference": "The pairs Śiva–Śakti and Sadāśiva–Maheśvara are included in the path of principles.",
+   "uncertainties": [],
+   "plain_english": "Śiva and Śakti, and Sadāśiva and Maheśvara."
+  },
+  {
+   "verse": 856,
+   "rows": [
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "name of a tattva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rāgaḥ",
+     "gloss": "rāga",
+     "grounds": "name of a tattva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "name of a tattva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niyatiḥ",
+     "gloss": "niyati",
+     "grounds": "name of a tattva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which limiting principles continue the enumerated path of principles?",
+   "premises": [
+    "Kalā is named",
+    "Rāga and time are named",
+    "Niyati is named"
+   ],
+   "inference": "The principles kalā, rāga, time, and niyati continue the sequence.",
+   "uncertainties": [],
+   "plain_english": "Kalā, rāga, time, and niyati as well."
+  },
+  {
+   "verse": 857,
+   "rows": [
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "inner faculty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca+indriya+daśakaṃ",
+     "gloss": "and-sense-ten",
+     "grounds": "compound with conjunction and number",
+     "morph": "n.nom.sg (ca+indriya+daśaka)"
+    },
+    {
+     "surface": "tanmātrā",
+     "gloss": "subtle-elements",
+     "grounds": "group of subtle elements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhūta+pañcakam",
+     "gloss": "element-five",
+     "grounds": "compound indicating five gross elements",
+     "morph": "n.nom.sg (bhūta+pañcaka)"
+    }
+   ],
+   "question": "Which mental, sensory, and elemental groups are included in the principle path?",
+   "premises": [
+    "Mind is named",
+    "The ten senses are named",
+    "The subtle elements and five gross elements are named"
+   ],
+   "inference": "The path includes mind, the ten senses, the subtle elements, and the five gross elements.",
+   "uncertainties": [],
+   "plain_english": "Mind, the ten senses, the subtle elements, and the five gross elements."
+  },
+  {
+   "verse": 858,
+   "rows": [
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "inner faculty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "inner faculty",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tanmātrā",
+     "gloss": "subtle-elements",
+     "grounds": "group of subtle elements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhūta+pañcakam",
+     "gloss": "element-five",
+     "grounds": "compound indicating five gross elements",
+     "morph": "n.nom.sg (bhūta+pañcaka)"
+    }
+   ],
+   "question": "Which inner faculties and elemental groups are listed in this part of the sequence?",
+   "premises": [
+    "Mind and intellect are named",
+    "The subtle elements are named",
+    "The five gross elements are named"
+   ],
+   "inference": "This part of the sequence lists mind, intellect, the subtle elements, and the five gross elements.",
+   "uncertainties": [
+    "Overlap with previous verse may indicate a variant enumeration"
+   ],
+   "plain_english": "Mind, intellect, the subtle elements, and the five gross elements."
+  },
+  {
+   "verse": 859,
+   "rows": [
+    {
+     "surface": "saṅkarṣaṇaḥ",
+     "gloss": "saṅkarṣaṇa",
+     "grounds": "name in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pradyumnaḥ",
+     "gloss": "pradyumna",
+     "grounds": "name in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aniruddhakaḥ",
+     "gloss": "aniruddha",
+     "grounds": "name in the sequence with suffix",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which three named figures are included in this enumerated sequence?",
+   "premises": [
+    "Saṅkarṣaṇa is named",
+    "Pradyumna is named",
+    "Aniruddha is named"
+   ],
+   "inference": "The sequence includes Saṅkarṣaṇa, Pradyumna, and Aniruddha.",
+   "uncertainties": [],
+   "plain_english": "Saṅkarṣaṇa, Pradyumna, and Aniruddha."
+  },
+  {
+   "verse": 860,
+   "rows": [
+    {
+     "surface": "prakṛtiḥ",
+     "gloss": "primordial-nature",
+     "grounds": "principle name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "principle name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturviṃśati+sammitāḥ",
+     "gloss": "twenty-four-measured",
+     "grounds": "compound indicating total count",
+     "morph": "f.nom.pl (caturviṃśati+sammitā)"
+    }
+   ],
+   "question": "How many principles are said to be measured in this group?",
+   "premises": [
+    "Prakṛti and intellect are mentioned",
+    "The group is described as measured",
+    "The measure given is twenty-four"
+   ],
+   "inference": "The enumerated group is measured as twenty-four principles.",
+   "uncertainties": [],
+   "plain_english": "Prakṛti and intellect, and so on, are measured as twenty-four."
+  },
+  {
+   "verse": 861,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "principle name in compound context",
+     "morph": "m.nom.sg (stem form)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "principle name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "principle name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "śiva",
+     "grounds": "principle name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb of continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional principles are named again in this continuation of the path?",
+   "premises": [
+    "The self is named",
+    "Knowledge is named",
+    "Śiva is named again"
+   ],
+   "inference": "The continuation names the self, knowledge, and Śiva again.",
+   "uncertainties": [
+    "The distinction between ātma and ātmā in this context is unclear"
+   ],
+   "plain_english": "Thus also the self, and again self, knowledge, and Śiva."
+  },
+  {
+   "verse": 862,
+   "rows": [
+    {
+     "surface": "vilīnaṃ",
+     "gloss": "dissolved",
+     "grounds": "state of absorption",
+     "morph": "m.acc.sg.past-passive-participle vi-√lī"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-contemplate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active √cint"
+    },
+    {
+     "surface": "bhuvana+adhvani",
+     "gloss": "in-world-path",
+     "grounds": "compound naming the path of worlds",
+     "morph": "m.loc.sg (bhuvana+adhvan)"
+    }
+   ],
+   "question": "In which path should dissolution be contemplated by the practitioner?",
+   "premises": [
+    "A dissolved state is the object of contemplation",
+    "Contemplation is enjoined",
+    "The locus is the path of worlds"
+   ],
+   "inference": "One should contemplate dissolution in the path of worlds.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate it as dissolved in the path of worlds."
+  },
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "pātāla",
+     "gloss": "pātāla",
+     "grounds": "name of a world",
+     "morph": "n.nom.sg (stem form)"
+    },
+    {
+     "surface": "rasātala",
+     "gloss": "rasātala",
+     "grounds": "name of a world",
+     "morph": "n.nom.sg (stem form)"
+    },
+    {
+     "surface": "mahātalam",
+     "gloss": "mahātala",
+     "grounds": "name of a world",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which worlds are named as part of the world path enumeration?",
+   "premises": [
+    "Pātāla is named",
+    "Rasātala is named",
+    "Mahātala is named"
+   ],
+   "inference": "The enumeration includes the worlds Pātāla, Rasātala, and Mahātala.",
+   "uncertainties": [],
+   "plain_english": "Pātāla, Rasātala, and Mahātala."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "homa+vyūhaḥ",
+     "gloss": "oblation-arrangement",
+     "grounds": "compound naming ritual arrangement",
+     "morph": "m.nom.sg (homa+vyūha)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+vat",
+     "gloss": "as-before",
+     "grounds": "compound indicating prior manner",
+     "morph": "(indecl.) (pūrva+vat)"
+    }
+   ],
+   "question": "How should the arrangement of oblations be performed at this stage?",
+   "premises": [
+    "The oblation arrangement is the subject",
+    "A prior manner is referenced",
+    "The instruction prescribes continuity"
+   ],
+   "inference": "The arrangement of oblations should be done as before.",
+   "uncertainties": [],
+   "plain_english": "The arrangement of oblations is to be done as before."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "akāra+ādi+kṣakāra+antān",
+     "gloss": "a-beginning-kṣa-ending",
+     "grounds": "compound describing range of letters",
+     "morph": "m.acc.pl (akāra+ādi+kṣakāra+anta)"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "phonetic units",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sañcintayet",
+     "gloss": "should-contemplate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active sam-√cint"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "bodily location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which range of letters should be contemplated in the heart?",
+   "premises": [
+    "The letters range from a to kṣa",
+    "The letters are the object of contemplation",
+    "The location is the heart"
+   ],
+   "inference": "One should contemplate the letters from a to kṣa in the heart.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the letters from a to kṣa in the heart."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "prāk+vat",
+     "gloss": "as-before",
+     "grounds": "compound indicating prior manner",
+     "morph": "(indecl.) (prāk+vat)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "bodily location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-contemplate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active √cint"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should contemplation be performed next in the same manner as before?",
+   "premises": [
+    "The manner is the same as before",
+    "The next location is the forehead",
+    "Contemplation is enjoined"
+   ],
+   "inference": "One should then contemplate in the same manner on the forehead.",
+   "uncertainties": [],
+   "plain_english": "Then, just as before, one should contemplate here on the forehead."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhva+troha+homa+ādi",
+     "gloss": "path-ascent-oblation-etc",
+     "grounds": "compound listing ritual elements",
+     "morph": "n.acc.sg (adhva+troha+homa+ādi)"
+    },
+    {
+     "surface": "prāk+vat",
+     "gloss": "as-before",
+     "grounds": "compound indicating prior manner",
+     "morph": "(indecl.) (prāk+vat)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active sam-ā-√car"
+    }
+   ],
+   "question": "Under what condition should the path ascent, oblation, and related rites be performed as before?",
+   "premises": [
+    "The rites include path ascent and oblation",
+    "The manner is specified as before",
+    "Performance is enjoined conditionally"
+   ],
+   "inference": "When appropriate, one should perform the path ascent, oblation, and related rites just as before.",
+   "uncertainties": [
+    "The exact condition introduced by 'yadā' is not fully specified in this verse"
+   ],
+   "plain_english": "When one performs the ascent of the path, oblation, and so forth, it should be done just as before."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "mantra+adhvā",
+     "gloss": "mantra-path",
+     "grounds": "compound naming the path of mantras",
+     "morph": "m.nom.sg (mantra+adhvan)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-contemplate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active √cint"
+    },
+    {
+     "surface": "śiṣya+mūrddhani",
+     "gloss": "on-disciple-head",
+     "grounds": "compound indicating location",
+     "morph": "m.loc.sg (śiṣya+mūrdhan)"
+    }
+   ],
+   "question": "Where should the path of mantras be contemplated in the disciple?",
+   "premises": [
+    "The object of contemplation is the mantra path",
+    "The location is the disciple's head",
+    "Contemplation is enjoined"
+   ],
+   "inference": "One should contemplate the mantra path on the disciple's head.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the path of mantras on the disciple's head."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "state of being located",
+     "morph": "n.acc.sg.past-passive-participle √sthā"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.optative-active √dhyai"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "resultative statement",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "adhva+śodhanam",
+     "gloss": "path-purification",
+     "grounds": "compound naming the ritual result",
+     "morph": "n.nom.sg (adhva+śodhana)"
+    }
+   ],
+   "question": "What ritual result is achieved by meditating on this situated path?",
+   "premises": [
+    "Meditation on what is situated is enjoined",
+    "This meditation is identified with a result",
+    "The result is purification of the path"
+   ],
+   "inference": "Meditating on this situated path constitutes purification of the path.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on it as situated; this is the purification of the path."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "mahā+vyāhṛtibhiḥ",
+     "gloss": "with-great-utterances",
+     "grounds": "compound naming sacred utterances",
+     "morph": "f.ins.pl (mahā+vyāhṛti)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśika+sattamaḥ",
+     "gloss": "teacher-best",
+     "grounds": "compound praising the teacher",
+     "morph": "m.nom.sg (deśika+sattama)"
+    }
+   ],
+   "question": "With what utterances should the best teacher make the next offering?",
+   "premises": [
+    "An offering is enjoined",
+    "The great utterances are the instrument",
+    "The best teacher is the agent"
+   ],
+   "inference": "The best teacher should then make the offering with the great utterances.",
+   "uncertainties": [],
+   "plain_english": "Then the best teacher should offer with the great vyāhṛtis."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "brahmārpaṇa+ākhya+mantreṇa",
+     "gloss": "with-brahmārpaṇa-named-mantra",
+     "grounds": "compound naming the mantra",
+     "morph": "m.ins.sg (brahmārpaṇa+ākhya+mantra)"
+    },
+    {
+     "surface": "sarva+karma+cchide",
+     "gloss": "for-all-action-cutting",
+     "grounds": "compound expressing purpose",
+     "morph": "f.dat.sg (sarva+karman+chid)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "For what purpose should the wise one use the mantra named brahmārpaṇa?",
+   "premises": [
+    "The mantra named brahmārpaṇa is used",
+    "The wise one is the agent",
+    "The purpose is cutting all actions"
+   ],
+   "inference": "The wise one should use the brahmārpaṇa mantra for the cutting of all actions.",
+   "uncertainties": [],
+   "plain_english": "The wise one should use the mantra called brahmārpaṇa for the cutting away of all actions."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "prior action",
+     "morph": "(indecl.) absolutive √stu"
+    },
+    {
+     "surface": "mūla+aṇunā",
+     "gloss": "with-root-mantra",
+     "grounds": "compound naming the mantra",
+     "morph": "m.ins.sg (mūla+aṇu)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action must the mantra practitioner perform with the root mantra before proceeding?",
+   "premises": [
+    "The mantra practitioner is the agent",
+    "Praise is performed",
+    "The root mantra is the instrument"
+   ],
+   "inference": "The mantra practitioner should first praise with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "Then the mantra practitioner, having praised with the root mantra,"
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "ritual object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapātayet",
+     "gloss": "should-cause-to-fall",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-causative pra-√pat"
+    }
+   ],
+   "question": "What ritual action involving a flower should be performed at that place?",
+   "premises": [
+    "A flower is the object",
+    "The action is to cause it to fall",
+    "The action is performed there"
+   ],
+   "inference": "One should cause a flower to fall there.",
+   "uncertainties": [],
+   "plain_english": "should cause a flower to fall there."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "māṃsa+māṣābhyāṃ",
+     "gloss": "with-māṃsa-and-māṣa",
+     "grounds": "dual compound naming two items",
+     "morph": "m.ins.dual (māṃsa+māṣa)"
+    },
+    {
+     "surface": "tīrtha+āhvābhyāṃ",
+     "gloss": "with-tīrtha-named",
+     "grounds": "compound describing the pair",
+     "morph": "m.ins.dual (tīrtha+āhva)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇatām",
+     "gloss": "completion",
+     "grounds": "ritual result",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "By means of which named pair is ritual completion to be achieved?",
+   "premises": [
+    "Māṃsa and māṣa are named as a pair",
+    "They are called tīrtha",
+    "Completion is the stated result"
+   ],
+   "inference": "Completion is achieved by means of the pair called māṃsa and māṣa, known as tīrtha.",
+   "uncertainties": [
+    "The ritual meaning of 'tīrtha' for this pair is context-dependent"
+   ],
+   "plain_english": "And with māṃsa and māṣa, called tīrtha, one achieves completion."
+  }
+ ]
+}

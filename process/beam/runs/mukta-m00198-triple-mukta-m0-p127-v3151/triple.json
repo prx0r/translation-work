@@ -1,0 +1,987 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3151,
+   "rows": [
+    {
+     "surface": "pratimoccaṃ",
+     "gloss": "each-height",
+     "grounds": "measurement term for height of each part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nataṃ",
+     "gloss": "bent",
+     "grounds": "posture descriptor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "raised",
+     "grounds": "posture descriptor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaṃgamānaṃ",
+     "gloss": "being-bent",
+     "grounds": "present participle describing flexion",
+     "morph": "m.acc.sg.pres.part.middle √bhañj"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "prescriptive ritual-art instruction",
+     "morph": "3.sg.optative.active √kḷp"
+    }
+   ],
+   "question": "How should varying heights and bends be conceived in the image?",
+   "premises": [
+    "The height of each part must be considered.",
+    "The form may be bent, raised, or being bent.",
+    "The artisan should fashion it accordingly."
+   ],
+   "inference": "The image is to be fashioned with deliberate variations of height and bending.",
+   "uncertainties": [],
+   "plain_english": "One should fashion the image with due regard to each part’s height, making it bent, raised, or flexed as appropriate."
+  },
+  {
+   "verse": 3152,
+   "rows": [
+    {
+     "surface": "ābhaṃgaṃ",
+     "gloss": "slight-bend",
+     "grounds": "technical term for a slight flexion posture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadvijānīyāt",
+     "gloss": "that-one-should-know",
+     "grounds": "compound verb phrase prescribing recognition",
+     "morph": "3.sg.optative.active √jñā"
+    },
+    {
+     "surface": "aṣṭādaśāṃgulaṃ",
+     "gloss": "eighteen-fingers",
+     "grounds": "measurement compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samam",
+     "gloss": "even",
+     "grounds": "describes equal measure",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measurement defines the slight-bend posture of the image?",
+   "premises": [
+    "The posture called slight-bend must be recognized.",
+    "Its measure is eighteen finger-units.",
+    "This measure is even."
+   ],
+   "inference": "The slight-bend posture is defined as an even measure of eighteen finger-units.",
+   "uncertainties": [],
+   "plain_english": "One should know the slight-bend posture as an even measure of eighteen finger-units."
+  },
+  {
+   "verse": 3153,
+   "rows": [
+    {
+     "surface": "tattribhāga+ekabhāgaṃ",
+     "gloss": "that-third-one-part",
+     "grounds": "compound indicating one third of that measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārṣṇyoḥ+ca",
+     "gloss": "of-two-heels-and",
+     "grounds": "dual heels with connective particle",
+     "morph": "f.gen.du + (indecl.)"
+    },
+    {
+     "surface": "tvantaraṃ",
+     "gloss": "indeed-interval",
+     "grounds": "distance between heels",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative.active √bhū"
+    }
+   ],
+   "question": "What interval should be maintained between the two heels?",
+   "premises": [
+    "The reference measure is divided into three parts.",
+    "One part of that third is taken.",
+    "This defines the interval between the two heels."
+   ],
+   "inference": "The interval between the heels should be one third of the specified measure.",
+   "uncertainties": [
+    "Exact base measure referenced by 'that' is context-dependent."
+   ],
+   "plain_english": "The interval between the two heels should be one part out of three of that measure."
+  },
+  {
+   "verse": 3154,
+   "rows": [
+    {
+     "surface": "hanor+vāme",
+     "gloss": "of-jaw-on-left",
+     "grounds": "compound locating left side of jaw",
+     "morph": "f.gen.sg + n.loc.sg (compound)"
+    },
+    {
+     "surface": "samālaṃbya",
+     "gloss": "having-supported",
+     "grounds": "gerund indicating placement",
+     "morph": "gerund √lamb with sam-ā"
+    },
+    {
+     "surface": "dakṣiṇa+stana",
+     "gloss": "right-breast",
+     "grounds": "compound indicating right breast",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "on-left",
+     "grounds": "locative specifying left side",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the right breast positioned relative to the left jaw?",
+   "premises": [
+    "Support is taken at the left side of the jaw.",
+    "The right breast is aligned accordingly.",
+    "The placement is on the left side."
+   ],
+   "inference": "The right breast is to be positioned by aligning it with support at the left jaw.",
+   "uncertainties": [
+    "The exact anatomical alignment implied by 'supported' is terse."
+   ],
+   "plain_english": "Supporting at the left side of the jaw, place the right breast toward the left."
+  },
+  {
+   "verse": 3155,
+   "rows": [
+    {
+     "surface": "dakṣiṇa+aṃghrau",
+     "gloss": "on-right-foot",
+     "grounds": "compound locating right foot",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārṣṇyoḥ+tu",
+     "gloss": "of-heels-but",
+     "grounds": "dual heels with particle",
+     "morph": "f.gen.du + (indecl.)"
+    },
+    {
+     "surface": "vāma+pārśve",
+     "gloss": "on-left-side",
+     "grounds": "compound indicating left side",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lambayet",
+     "gloss": "one-should-let-hang",
+     "grounds": "prescriptive instruction for placement",
+     "morph": "3.sg.caus.optative.active √lamb"
+    }
+   ],
+   "question": "Where should the heels be made to hang relative to the right foot and left side?",
+   "premises": [
+    "The reference point is the right foot.",
+    "The heels are the parts to be positioned.",
+    "They should be let hang on the left side."
+   ],
+   "inference": "The heels should be positioned hanging toward the left side in relation to the right foot.",
+   "uncertainties": [],
+   "plain_english": "With respect to the right foot, one should let the heels hang toward the left side."
+  },
+  {
+   "verse": 3156,
+   "rows": [
+    {
+     "surface": "lalāṭaṃ",
+     "gloss": "forehead",
+     "grounds": "anatomical reference point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhya+nāsāgraṃ",
+     "gloss": "middle-nose-tip",
+     "grounds": "compound indicating midpoint of nose tip",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "pādayoḥ",
+     "gloss": "of-two-feet",
+     "grounds": "dual feet",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "pārṣṇi+madhyame",
+     "gloss": "in-heel-middle",
+     "grounds": "compound indicating middle of heels",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "Which vertical alignment points are specified for the image’s central axis?",
+   "premises": [
+    "The forehead is a reference point.",
+    "The middle of the nose tip is a reference point.",
+    "The middle of the heels of both feet is a reference point."
+   ],
+   "inference": "A vertical alignment is established through the forehead, nose tip, and middle of the heels.",
+   "uncertainties": [
+    "The verb is implied; alignment is inferred from listed points."
+   ],
+   "plain_english": "The forehead, the middle of the nose tip, and the middle of the heels of the feet form the alignment."
+  },
+  {
+   "verse": 3157,
+   "rows": [
+    {
+     "surface": "tat+sūtrāt+vāma+pārśve",
+     "gloss": "from-that-thread-on-left-side",
+     "grounds": "compound indicating offset from reference line on left",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hikkā+madhyaṃ",
+     "gloss": "collarbone-middle",
+     "grounds": "compound indicating middle of collarbone region",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "śiva+aṃgulam",
+     "gloss": "auspicious-finger-unit",
+     "grounds": "measurement in śiva-aṅgula units",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How far is the middle of the collarbone offset from the reference thread on the left?",
+   "premises": [
+    "A reference thread is established.",
+    "The offset is measured on the left side.",
+    "The middle of the collarbone is one śiva-aṅgula away."
+   ],
+   "inference": "The middle of the collarbone lies one śiva-aṅgula to the left of the reference thread.",
+   "uncertainties": [
+    "Exact value of śiva-aṅgula relative to standard aṅgula is not specified here."
+   ],
+   "plain_english": "From that thread, on the left side, the middle of the collarbone is one śiva-aṅgula away."
+  },
+  {
+   "verse": 3158,
+   "rows": [
+    {
+     "surface": "tat+sūtrāt+dakṣiṇe",
+     "gloss": "from-that-thread-on-right",
+     "grounds": "compound indicating offset from reference line on right",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "nābhi+madhyamaṃ",
+     "gloss": "navel-middle",
+     "grounds": "compound indicating middle of navel",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvi+yaṃgulam",
+     "gloss": "two-finger-units",
+     "grounds": "measurement compound",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How far is the middle of the navel offset from the reference thread on the right?",
+   "premises": [
+    "A reference thread is established.",
+    "The offset is measured on the right side.",
+    "The middle of the navel is two finger-units away."
+   ],
+   "inference": "The middle of the navel lies two finger-units to the right of the reference thread.",
+   "uncertainties": [],
+   "plain_english": "From that thread, on the right side, the middle of the navel is two finger-units away."
+  },
+  {
+   "verse": 3159,
+   "rows": [
+    {
+     "surface": "tat+sūtrāt+vāma+go+jānoḥ+antaraṃ",
+     "gloss": "from-that-thread-left-knee-interval",
+     "grounds": "compound indicating interval from thread to left knee",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "dvādaśaṃ",
+     "gloss": "twelve",
+     "grounds": "numeral measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yavam",
+     "gloss": "barley-units",
+     "grounds": "small measurement unit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the measured interval from the reference thread to the left knee?",
+   "premises": [
+    "A reference thread is established.",
+    "The interval to the left knee is measured.",
+    "The measure is twelve barley-units."
+   ],
+   "inference": "The left knee is twelve barley-units away from the reference thread.",
+   "uncertainties": [],
+   "plain_english": "From that thread, the interval to the left knee is twelve barley-units."
+  },
+  {
+   "verse": 3160,
+   "rows": [
+    {
+     "surface": "uṣṇīṣāt+vāma+pārśve",
+     "gloss": "from-crown-on-left-side",
+     "grounds": "compound indicating position from crown on left",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netra+ante",
+     "gloss": "at-eye-end",
+     "grounds": "compound indicating outer corner of eye",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "tat+puṭa+antake",
+     "gloss": "at-that-fold-end",
+     "grounds": "compound indicating end of that fold or socket",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "Which point on the left side is aligned from the crown to the eye’s end?",
+   "premises": [
+    "The reference starts from the crown.",
+    "The alignment is on the left side.",
+    "It reaches the end of the eye and the end of that fold."
+   ],
+   "inference": "A line from the crown on the left side passes through the eye’s end to the end of that fold.",
+   "uncertainties": [
+    "The exact referent of 'that fold' (puṭa) is context-dependent."
+   ],
+   "plain_english": "From the crown on the left side, the line runs to the end of the eye and to the end of that fold."
+  },
+  {
+   "verse": 3161,
+   "rows": [
+    {
+     "surface": "nābhi+madhyāt+tu",
+     "gloss": "from-navel-middle-but",
+     "grounds": "compound indicating starting point at navel middle",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative specifying left side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtra+nīvraṃ",
+     "gloss": "thread-garment-knot",
+     "grounds": "compound indicating waist-thread or knot position",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "dvaya+aṃgulam",
+     "gloss": "two-finger-units",
+     "grounds": "measurement compound",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How far is the waist-thread point offset to the left from the navel’s middle?",
+   "premises": [
+    "The starting point is the middle of the navel.",
+    "The offset is toward the left.",
+    "The distance is two finger-units."
+   ],
+   "inference": "The waist-thread point lies two finger-units to the left of the navel’s middle.",
+   "uncertainties": [
+    "The term 'sūtra+nīvraṃ' may refer to a specific garment knot; interpreted as waist-thread point."
+   ],
+   "plain_english": "From the middle of the navel, on the left, the waist-thread point is two finger-units away."
+  },
+  {
+   "verse": 3162,
+   "rows": [
+    {
+     "surface": "vāma+aṃghri+pārṣṇi+savye",
+     "gloss": "left-foot-heel-right-side",
+     "grounds": "compound locating right side of left heel",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśva+sūtraṃ",
+     "gloss": "side-thread",
+     "grounds": "compound indicating lateral plumb line",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "pralambayet",
+     "gloss": "one-should-let-hang-down",
+     "grounds": "prescriptive instruction for dropping a line",
+     "morph": "3.sg.caus.optative.active √lamb with pra"
+    }
+   ],
+   "question": "From which point should the side thread be let hang down?",
+   "premises": [
+    "The reference point is the right side of the left foot’s heel.",
+    "A side thread is to be used.",
+    "It should be let hang down from that point."
+   ],
+   "inference": "The side thread must be dropped from the right side of the left heel.",
+   "uncertainties": [],
+   "plain_english": "One should let the side thread hang down from the right side of the left foot’s heel."
+  },
+  {
+   "verse": 3163,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+bhaṃga+sūtreṣu",
+     "gloss": "in-triple-bend-threads",
+     "grounds": "compound indicating lines for triple-bend posture",
+     "morph": "n.loc.pl (compound)"
+    },
+    {
+     "surface": "saṃmiśraṃ",
+     "gloss": "confusion",
+     "grounds": "mixing or improper overlap",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.caus.optative.active √kṛ"
+    }
+   ],
+   "question": "What must be avoided when laying out the triple-bend posture lines?",
+   "premises": [
+    "The instructions concern the triple-bend threads.",
+    "Confusion or mixing of lines is possible.",
+    "Such mixing must not be caused."
+   ],
+   "inference": "The triple-bend posture lines must be laid out without confusion or mixing.",
+   "uncertainties": [],
+   "plain_english": "Thus, in laying out the triple-bend lines, one should not cause any confusion or mixing."
+  },
+  {
+   "verse": 3164,
+   "rows": [
+    {
+     "surface": "ābhaṃga+madhamaṃ",
+     "gloss": "slight-bend-lowest",
+     "grounds": "compound indicating the lowest degree of slight bend",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized",
+     "morph": "n.nom.sg.past.pass.part √khyā"
+    },
+    {
+     "surface": "tripurāntaka+mūrtinaḥ",
+     "gloss": "of-tripura-destroyer-form",
+     "grounds": "compound naming the deity form",
+     "morph": "m.gen.sg (compound)"
+    }
+   ],
+   "question": "Which posture degree is prescribed for the form of Tripurāntaka?",
+   "premises": [
+    "A lowest degree of slight-bend exists.",
+    "This degree is well known.",
+    "It belongs to the form of Tripurāntaka."
+   ],
+   "inference": "The lowest slight-bend posture is prescribed for the Tripurāntaka form.",
+   "uncertainties": [],
+   "plain_english": "The lowest slight-bend posture is known as that of the form of Tripurāntaka."
+  },
+  {
+   "verse": 3165,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative specifying right side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrva+hasta+ūrdhvaṃ",
+     "gloss": "front-hand-upper-part",
+     "grounds": "compound indicating upper part of front right hand",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "nābhi+sūtra+avasānakam",
+     "gloss": "navel-thread-ending",
+     "grounds": "compound indicating termination at navel line",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "Where should the upper part of the front right hand terminate?",
+   "premises": [
+    "The reference is the right side.",
+    "The upper part of the front hand is positioned.",
+    "It ends at the navel thread."
+   ],
+   "inference": "The upper part of the front right hand should terminate at the navel thread.",
+   "uncertainties": [],
+   "plain_english": "On the right side, the upper part of the front hand should end at the navel thread."
+  },
+  {
+   "verse": 3166,
+   "rows": [
+    {
+     "surface": "bāṇa+āyāmaṃ",
+     "gloss": "arrow-length",
+     "grounds": "compound indicating length of arrow",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "saptaviṃśati+aṃgulaṃ",
+     "gloss": "twenty-seven-finger-units",
+     "grounds": "measurement compound",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.present.passive √dhā with vi"
+    }
+   ],
+   "question": "What length is prescribed for the arrow in this iconographic form?",
+   "premises": [
+    "The arrow’s length is specified.",
+    "The measure given is twenty-seven finger-units.",
+    "This measure is prescribed."
+   ],
+   "inference": "The arrow should be twenty-seven finger-units long.",
+   "uncertainties": [],
+   "plain_english": "The length of the arrow is prescribed as twenty-seven finger-units."
+  },
+  {
+   "verse": 3167,
+   "rows": [
+    {
+     "surface": "āsyaṃ",
+     "gloss": "face",
+     "grounds": "front part or face of arrow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃca+aṃgulaṃ",
+     "gloss": "five-finger-units",
+     "grounds": "measurement compound",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "breadth",
+     "grounds": "width measurement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātra+uccaṃ",
+     "gloss": "measure-height",
+     "grounds": "compound indicating height equal to measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vyāsa+sādṛśam",
+     "gloss": "breadth-equal",
+     "grounds": "compound indicating equality with breadth",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What dimensions are specified for the arrow’s face in breadth and height?",
+   "premises": [
+    "The arrow’s face is five finger-units in breadth.",
+    "Its height corresponds to that measure.",
+    "The height is equal to the breadth."
+   ],
+   "inference": "The arrow’s face should be five finger-units in both breadth and height.",
+   "uncertainties": [],
+   "plain_english": "The arrow’s face should be five finger-units in breadth, with its height equal to that breadth."
+  },
+  {
+   "verse": 3168,
+   "rows": [
+    {
+     "surface": "vāma+haste",
+     "gloss": "in-left-hand",
+     "grounds": "compound indicating left hand",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "dhanuḥ+dhṛtvā",
+     "gloss": "bow-having-held",
+     "grounds": "gerund indicating holding the bow",
+     "morph": "gerund √dhṛ"
+    },
+    {
+     "surface": "kakṣā+antaṃ",
+     "gloss": "armpit-end",
+     "grounds": "compound indicating up to armpit",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tat+kara+ūrdhvakam",
+     "gloss": "that-hand-upper-part",
+     "grounds": "compound indicating upper part of that hand",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How high should the left hand holding the bow be raised?",
+   "premises": [
+    "The bow is held in the left hand.",
+    "The hand’s upper part is positioned.",
+    "It reaches up to the armpit."
+   ],
+   "inference": "The left hand holding the bow should be raised up to the armpit.",
+   "uncertainties": [],
+   "plain_english": "Holding the bow in the left hand, its upper part should reach up to the armpit."
+  },
+  {
+   "verse": 3169,
+   "rows": [
+    {
+     "surface": "viṃśat+aṃgula+tuṃgaṃ",
+     "gloss": "twenty-finger-units-high",
+     "grounds": "compound indicating height of twenty finger-units",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "triḥ",
+     "gloss": "three-times",
+     "grounds": "indicates threefold division or repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃca+sapta+nava+aṃgulam",
+     "gloss": "five-seven-nine-finger-units",
+     "grounds": "compound listing successive measures",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What total height and sectional measures are specified for the bow?",
+   "premises": [
+    "The bow is twenty finger-units high.",
+    "It is divided into three parts.",
+    "The parts measure five, seven, and nine finger-units."
+   ],
+   "inference": "The bow’s height is twenty finger-units divided into sections of five, seven, and nine finger-units.",
+   "uncertainties": [
+    "The exact order of the three sections is not explicitly stated."
+   ],
+   "plain_english": "The bow is twenty finger-units high, divided into three parts of five, seven, and nine finger-units."
+  },
+  {
+   "verse": 3170,
+   "rows": [
+    {
+     "surface": "pūrṇa+muṣṭiḥ+tu",
+     "gloss": "full-fist-but",
+     "grounds": "compound indicating full fist measure",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "nāhaṃ",
+     "gloss": "girth",
+     "grounds": "circumference or thickness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt+madhyāt+agraṃ",
+     "gloss": "should-be-from-middle-to-tip",
+     "grounds": "compound indicating tapering from middle to tip",
+     "morph": "3.sg.optative.active √as + n.abl.sg + n.acc.sg (compound)"
+    },
+    {
+     "surface": "kramāt+kṛśam",
+     "gloss": "gradually-slender",
+     "grounds": "compound indicating gradual thinning",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How should the bow’s girth change from its middle to its tip?",
+   "premises": [
+    "The girth at the fullest point is a full fist.",
+    "The form changes from middle to tip.",
+    "It should become gradually slender."
+   ],
+   "inference": "The bow should have a full-fist girth that tapers gradually from the middle to the tip.",
+   "uncertainties": [],
+   "plain_english": "Its girth should be a full fist, becoming gradually slender from the middle to the tip."
+  },
+  {
+   "verse": 3171,
+   "rows": [
+    {
+     "surface": "bāṇa+nāhaṃ",
+     "gloss": "arrow-girth",
+     "grounds": "compound indicating thickness of arrow",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tri+bhāga+ekaṃ",
+     "gloss": "three-parts-one",
+     "grounds": "compound indicating one third",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "rajju+nāhaṃ",
+     "gloss": "string-girth",
+     "grounds": "compound indicating thickness of bowstring",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantunā",
+     "gloss": "by-thread",
+     "grounds": "instrumental indicating made of thread",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "What girths are prescribed for the arrow and the bowstring?",
+   "premises": [
+    "The arrow’s girth is specified as one third.",
+    "The bowstring’s girth is specified.",
+    "The bowstring is made of thread."
+   ],
+   "inference": "The arrow’s girth is one third of the reference, and the bowstring is a thread of corresponding girth.",
+   "uncertainties": [
+    "The base measure for 'one third' is not explicitly stated in this verse."
+   ],
+   "plain_english": "The arrow’s girth should be one third, and the bowstring’s girth should be that of a thread."
+  },
+  {
+   "verse": 3172,
+   "rows": [
+    {
+     "surface": "tat+dīrghasya+anukūlyaṃ",
+     "gloss": "that-length-conformity",
+     "grounds": "compound indicating suitability to that length",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanuḥ+vakram+udāhṛtam",
+     "gloss": "bow-curve-declared",
+     "grounds": "compound indicating stated curvature of bow",
+     "morph": "n.nom.sg.past.pass.part (compound) √ah with ud-ā"
+    }
+   ],
+   "question": "How should the curvature of the bow relate to its length?",
+   "premises": [
+    "The bow has a certain length.",
+    "Its curvature must be suitable.",
+    "This curvature is declared in conformity with that length."
+   ],
+   "inference": "The bow’s curvature should be proportionate and suitable to its length.",
+   "uncertainties": [],
+   "plain_english": "The curvature of the bow is declared to be in conformity with its length."
+  },
+  {
+   "verse": 3173,
+   "rows": [
+    {
+     "surface": "dhanuṣa+ākṛtiḥ+eva",
+     "gloss": "bow-form-indeed",
+     "grounds": "compound emphasizing bow shape",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative.active √as"
+    },
+    {
+     "surface": "loha+jaṃ",
+     "gloss": "metal-born",
+     "grounds": "compound indicating made of metal",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "dāru+jaṃ",
+     "gloss": "wood-born",
+     "grounds": "compound indicating made of wood",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion of both",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials may be used while preserving the proper bow form?",
+   "premises": [
+    "The form must remain that of a bow.",
+    "It may be made of metal.",
+    "It may likewise be made of wood."
+   ],
+   "inference": "Whether made of metal or wood, the object must retain the proper bow form.",
+   "uncertainties": [],
+   "plain_english": "It should indeed have the form of a bow, whether made of metal or likewise of wood."
+  },
+  {
+   "verse": 3174,
+   "rows": [
+    {
+     "surface": "ṭaṃkaṃ",
+     "gloss": "axe",
+     "grounds": "weapon or tool held in hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇa",
+     "gloss": "right",
+     "grounds": "specifies right side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "locative indicating hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāma+haste",
+     "gloss": "in-left-hand",
+     "grounds": "compound indicating left hand",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "mṛgaṃ",
+     "gloss": "deer",
+     "grounds": "attribute held in hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhṛtam",
+     "gloss": "held",
+     "grounds": "past passive participle indicating held object",
+     "morph": "n.nom.sg.past.pass.part √dhṛ"
+    }
+   ],
+   "question": "Which attributes are held in the right and left hands of the form?",
+   "premises": [
+    "An axe is held in the right hand.",
+    "A deer is held in the left hand.",
+    "Both are prescribed as held attributes."
+   ],
+   "inference": "The form holds an axe in the right hand and a deer in the left hand.",
+   "uncertainties": [],
+   "plain_english": "An axe is held in the right hand, and a deer is held in the left hand."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "kul-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "ādhāraśaktim",
+     "gloss": "support-power",
+     "grounds": "ādhāra (support) + śakti (power), accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "having-begun",
+     "grounds": "absolutive of ā-√rabh",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pīṭhamantrāntam",
+     "gloss": "pedestal-mantra-end",
+     "grounds": "pīṭha (pedestal) + mantra (mantra) + anta (end), accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "ambikā",
+     "grounds": "vocative singular feminine of ambikā",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "From which power should one begin and where should one end in this rite?",
+   "premises": [
+    "The rite begins with support-power.",
+    "It ends at pedestal-mantra.",
+    "Ambikā is addressed."
+   ],
+   "inference": "The practitioner proceeds from ādhāraśakti through pīṭhamantra.",
+   "uncertainties": [
+    "Exact ritual scope beyond these endpoints is not stated."
+   ],
+   "plain_english": "Beginning with the support-power, up to the pedestal-mantra, O Ambikā."
+  }
+ ]
+}

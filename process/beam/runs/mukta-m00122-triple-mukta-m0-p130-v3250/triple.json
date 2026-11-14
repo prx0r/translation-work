@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "kālena",
+     "gloss": "by-time",
+     "grounds": "instrumental singular of kāla",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "prāptam",
+     "gloss": "obtained",
+     "grounds": "past participle of prāp, neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samudīritam",
+     "gloss": "declared",
+     "grounds": "past participle of samudīr, neuter nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does a rite obtained by time become declared both elsewhere and everywhere?",
+   "premises": [
+    "A rite obtained by time is declared elsewhere.",
+    "The same rite is declared everywhere.",
+    "No fault of repetition arises."
+   ],
+   "inference": "Thus a time-obtained rite is universally declared without repetition fault.",
+   "uncertainties": [
+    "Neuter participle agreement is inferred from context."
+   ],
+   "plain_english": "A rite obtained by time is declared elsewhere and everywhere."
+  }
+ ]
+}

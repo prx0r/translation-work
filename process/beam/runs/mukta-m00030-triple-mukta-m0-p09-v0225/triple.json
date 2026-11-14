@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-the-goddess",
+     "grounds": "genitive relation indicating possession or association with the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "cakṣuḥ",
+     "gloss": "eye",
+     "grounds": "noun denoting the eye, here in apposition or as subject complement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ka+kāreṇa",
+     "gloss": "by-ka-syllable",
+     "grounds": "instrumental of the syllable ka; internal sandhi marked by +",
+     "morph": "m.inst.sg (compound: ka+kāra)"
+    },
+    {
+     "surface": "la+kāreṇa",
+     "gloss": "by-la-syllable",
+     "grounds": "instrumental of the syllable la; internal sandhi marked by +",
+     "morph": "m.inst.sg (compound: la+kāra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the two syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tārikā",
+     "gloss": "tārikā",
+     "grounds": "technical term for a saving or guiding mantra/form; retained as name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "By which syllables is the goddess's eye identified as the tārikā?",
+   "premises": [
+    "The goddess possesses an eye.",
+    "The syllable ka is involved in its constitution.",
+    "The syllable la is involved in its constitution."
+   ],
+   "inference": "The goddess's eye, constituted by the syllables ka and la, is the tārikā.",
+   "uncertainties": [
+    "The precise doctrinal function of tārikā in this context is not fully specified."
+   ],
+   "plain_english": "The goddess's eye, formed by the syllables ka and la, is the tārikā."
+  }
+ ]
+}

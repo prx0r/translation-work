@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "adhikāravihīnānāṃ",
+     "gloss": "authority-devoid",
+     "grounds": "compound adhikāra-vihīna with genitive plural ending ānām",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhikārayutena",
+     "gloss": "authority-endowed",
+     "grounds": "compound adhikāra-yuta with instrumental singular ending ena",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must mantras be transmitted by an authority-endowed person to those lacking authority?",
+   "premises": [
+    "Those devoid of authority cannot attain mantra siddhi on their own.",
+    "Mantras given otherwise would be destroyed in their siddhi.",
+    "Therefore transmission requires an authority-endowed person."
+   ],
+   "inference": "Mantra efficacy depends on authorized transmission.",
+   "uncertainties": [
+    "The exact scope of adhikāra in this context is not specified."
+   ],
+   "plain_english": "Indeed, for those lacking authority, [mantras are given] by one endowed with authority."
+  }
+ ]
+}

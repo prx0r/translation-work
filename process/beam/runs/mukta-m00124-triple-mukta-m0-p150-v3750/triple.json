@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "dārunirmitaharmyaṃ",
+     "gloss": "wood-built-palace",
+     "grounds": "compound of dāru (wood), nirmita (made), harmya (palace); accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃśe",
+     "gloss": "in-bamboo",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlakūṭake",
+     "gloss": "at-base-peak",
+     "grounds": "compound of mūla (base) and kūṭaka (peak); locative singular masculine/neuter",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Which alternative materials or locations govern placement of the sthūpikīla?",
+   "premises": [
+    "a wood-made palace may be used",
+    "bamboo may be used",
+    "the base peak may be used"
+   ],
+   "inference": "construction permits wood, bamboo, or base-peak alternatives",
+   "uncertainties": [
+    "exact syntactic relation to sthūpikīla remains unclear"
+   ],
+   "plain_english": "If it is a wood-made palace, or in bamboo, or at the base peak."
+  }
+ ]
+}

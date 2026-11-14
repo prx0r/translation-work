@@ -1,0 +1,1103 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2626,
+   "rows": [
+    {
+     "surface": "caturvedārthaviduṣāṃ",
+     "gloss": "of-knowers-of-four-veda-meanings",
+     "grounds": "bahuvrihi compound catur-veda-artha-vid+head; qualified brahmins",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "brāhmaṇānāṃ",
+     "gloss": "of-brahmins",
+     "grounds": "recipients in the feeding context",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mahātmanām",
+     "gloss": "of-great-souled-ones",
+     "grounds": "bahuvrihi compound mahā-ātman+head qualifying brahmins",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What kind of brahmins are specified as recipients in this ritual feeding?",
+   "premises": [
+    "The recipients are brahmins.",
+    "They know the meanings of the four Vedas.",
+    "They are described as great-souled."
+   ],
+   "inference": "The rite specifies learned and exalted brahmins as the proper recipients.",
+   "uncertainties": [],
+   "plain_english": "The recipients are great-souled brahmins who know the meanings of the four Vedas."
+  },
+  {
+   "verse": 2627,
+   "rows": [
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "numerical measure of merit or equivalence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhake",
+     "gloss": "when-sadhaka",
+     "grounds": "locative subject in absolute-like construction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhukte",
+     "gloss": "having-eaten",
+     "grounds": "locative participle with sādhake",
+     "morph": "m.loc.sg.past-passive-participle √bhuj"
+    },
+    {
+     "surface": "dīkṣate",
+     "gloss": "initiates",
+     "grounds": "main verbal action",
+     "morph": "3.sg.pres.middle √dīkṣ"
+    },
+    {
+     "surface": "ayutam",
+     "gloss": "ten-thousand",
+     "grounds": "numerical measure of merit or equivalence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How much merit is gained when a sādhaka is fed and initiates others?",
+   "premises": [
+    "Feeding a sādhaka yields the merit of feeding a hundred thousand.",
+    "When a sādhaka initiates, the merit is ten thousand.",
+    "The verse states these equivalences directly."
+   ],
+   "inference": "Feeding or initiation by a sādhaka carries immense ritual merit measured in large numerical equivalents.",
+   "uncertainties": [
+    "The exact object of comparison for lakṣaṃ and ayutam is implied rather than explicitly stated."
+   ],
+   "plain_english": "When a sādhaka is fed, it is equal to feeding a hundred thousand; when he initiates, it is equal to ten thousand."
+  },
+  {
+   "verse": 2628,
+   "rows": [
+    {
+     "surface": "sādhakadvitayaṃ",
+     "gloss": "pair-of-sadhakas",
+     "grounds": "compound sādhaka-dvitaya+head",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "for-god",
+     "grounds": "purpose or recipient designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pitrarthaṃ",
+     "gloss": "for-ancestors",
+     "grounds": "compound pitr-artha+head indicating purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deśikatrayam",
+     "gloss": "trio-of-teachers",
+     "grounds": "compound deśika-traya+head",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many sādhakas and teachers are assigned for the gods and for the ancestors?",
+   "premises": [
+    "A pair of sādhakas is assigned for the god.",
+    "A trio of teachers is assigned for the ancestors.",
+    "The assignments distinguish divine and ancestral purposes."
+   ],
+   "inference": "The rite assigns two sādhakas to the divine portion and three teachers to the ancestral portion.",
+   "uncertainties": [],
+   "plain_english": "For the god, appoint two sādhakas; for the ancestors, appoint three teachers."
+  },
+  {
+   "verse": 2629,
+   "rows": [
+    {
+     "surface": "īśaḥ",
+     "gloss": "ishvara",
+     "grounds": "divine name in the series",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadashiva",
+     "grounds": "divine name in the series",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāntaḥ",
+     "gloss": "shanta",
+     "grounds": "divine name in the series",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "divine name in the series",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrāddhe",
+     "gloss": "in-shraddha",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "states the traditional designation",
+     "morph": "m.nom.pl.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "Which four deities are proclaimed as the recipients in the śrāddha rite?",
+   "premises": [
+    "The verse names Īśa, Sadāśiva, Śānta, and Śiva.",
+    "These names are given in the context of śrāddha.",
+    "They are explicitly proclaimed for that rite."
+   ],
+   "inference": "The śrāddha is directed to the four deities Īśa, Sadāśiva, Śānta, and Śiva.",
+   "uncertainties": [],
+   "plain_english": "In the śrāddha, Īśa, Sadāśiva, Śānta, and Śiva are proclaimed as the deities."
+  },
+  {
+   "verse": 2630,
+   "rows": [
+    {
+     "surface": "dīkṣitānām",
+     "gloss": "of-initiated-ones",
+     "grounds": "genitive group being identified",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "amī",
+     "gloss": "these",
+     "grounds": "refers back to the named deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "statement of identification",
+     "morph": "m.nom.pl.past-passive-participle √vac"
+    },
+    {
+     "surface": "rudrāṃśānām",
+     "gloss": "of-rudra-portions",
+     "grounds": "compound rudra-aṃśa+head; class of initiated beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "atho",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "acyate",
+     "gloss": "is-called",
+     "grounds": "alternative designation",
+     "morph": "3.sg.pres.passive √vac"
+    }
+   ],
+   "question": "How are these deities identified in relation to initiated beings who are portions of Rudra?",
+   "premises": [
+    "The previously named deities are referred to as these.",
+    "They are declared for the initiated.",
+    "They are also called deities of those who are portions of Rudra."
+   ],
+   "inference": "The four deities are identified with or assigned to initiated beings regarded as portions of Rudra.",
+   "uncertainties": [],
+   "plain_english": "These are declared for the initiated, and they are also called the deities of those who are portions of Rudra."
+  },
+  {
+   "verse": 2631,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference to the ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nandimahākālau",
+     "gloss": "nandi-and-mahakala",
+     "grounds": "dvandva compound nandi-mahākāla+dvandva",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral agreeing with attendants",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "gaṇau",
+     "gloss": "attendants",
+     "grounds": "the two divine attendants",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvitaye",
+     "gloss": "in-pair",
+     "grounds": "location within the pair arrangement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "situated",
+     "grounds": "states their placement",
+     "morph": "m.nom.du.past-passive-participle √sthā"
+    }
+   ],
+   "question": "Which two attendants are situated in the pair within that ritual arrangement?",
+   "premises": [
+    "The context refers to a pair arrangement.",
+    "Two attendants are named as Nandi and Mahākāla.",
+    "They are stated to be situated there."
+   ],
+   "inference": "Nandi and Mahākāla are the two attendants placed in the pair.",
+   "uncertainties": [],
+   "plain_english": "There, in the pair, the two attendants Nandi and Mahākāla are situated."
+  },
+  {
+   "verse": 2632,
+   "rows": [
+    {
+     "surface": "pañcābhāvaḥ",
+     "gloss": "absence-of-five",
+     "grounds": "compound pañca-abhāva+head",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "introduces condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "correlative to condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddvayakalpanā",
+     "gloss": "conception-of-that-pair",
+     "grounds": "compound tat-dvaya-kalpanā+head",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual conception applies when the group of five is not available?",
+   "premises": [
+    "The verse considers the absence of five.",
+    "It states a conditional rule for that situation.",
+    "The prescribed response is the conception of that pair."
+   ],
+   "inference": "If five are absent, the ritual arrangement is conceived as the corresponding pair.",
+   "uncertainties": [
+    "The identity of the 'five' is carried over from context rather than named here."
+   ],
+   "plain_english": "When the five are absent there, then that pair is to be conceived."
+  },
+  {
+   "verse": 2633,
+   "rows": [
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "locative adverbial expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "in-another-place",
+     "grounds": "locative adverbial expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "prescriptive verbal adjective",
+     "morph": "n.nom.sg.future-passive-participle √kṛ"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "object of arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃsadvayaṃ",
+     "gloss": "pair-of-portions",
+     "grounds": "compound aṃsa-dvaya+head",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-two",
+     "grounds": "genitive indicating the two recipients or loci",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "How should the two portions be placed when arranged for the two recipients?",
+   "premises": [
+    "A place must be made in one location and another.",
+    "The arrangement concerns a pair of portions.",
+    "The pair belongs to two recipients."
+   ],
+   "inference": "The two portions for the two should be placed separately in two locations.",
+   "uncertainties": [
+    "The precise referent of dvayoḥ depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "A place for the two portions of the two should be made in one spot and in another."
+  },
+  {
+   "verse": 2634,
+   "rows": [
+    {
+     "surface": "ṣaḍdaivataṃ",
+     "gloss": "having-six-deities",
+     "grounds": "compound ṣaṣ-daivata+head",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhasthānāṃ",
+     "gloss": "of-householders",
+     "grounds": "group for whom six deities apply",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "liṅgināṃ",
+     "gloss": "of-renunciants",
+     "grounds": "group for whom three deities apply",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridaivatam",
+     "gloss": "having-three-deities",
+     "grounds": "compound tri-daivata+head",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many deities are prescribed for householders and for renunciants respectively?",
+   "premises": [
+    "Householders are associated with six deities.",
+    "Renunciants are associated with three deities.",
+    "The verse contrasts the two groups."
+   ],
+   "inference": "The ritual uses six deities for householders but three for renunciants.",
+   "uncertainties": [],
+   "plain_english": "For householders it is six deities, but for renunciants it is three deities."
+  },
+  {
+   "verse": 2635,
+   "rows": [
+    {
+     "surface": "nimantrayīta",
+     "gloss": "one-should-invite",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.middle √mantr"
+    },
+    {
+     "surface": "pūrvedyuḥ",
+     "gloss": "on-previous-day",
+     "grounds": "time of invitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāvṛddham",
+     "gloss": "according-to-seniority",
+     "grounds": "manner of invitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atandritaḥ",
+     "gloss": "unwearied",
+     "grounds": "describes the inviter's attitude",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When and in what manner should the participants be invited for the rite?",
+   "premises": [
+    "The invitation should be made on the previous day.",
+    "It should follow the order of seniority.",
+    "The inviter should act without weariness."
+   ],
+   "inference": "Participants must be invited diligently on the day before, in order of seniority.",
+   "uncertainties": [],
+   "plain_english": "On the previous day, one should invite them according to seniority, without weariness."
+  },
+  {
+   "verse": 2636,
+   "rows": [
+    {
+     "surface": "yavīyasaḥ",
+     "gloss": "younger-ones",
+     "grounds": "object of consolation and invitation",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "priyoktyā",
+     "gloss": "with-kind-speech",
+     "grounds": "compound priya-ukti+head indicating manner",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāśvāsya",
+     "gloss": "having-consoled",
+     "grounds": "prior action before inviting",
+     "morph": "(indecl.) absolutive √śvas"
+    },
+    {
+     "surface": "kṣaṇe",
+     "gloss": "invite",
+     "grounds": "imperative addressed to the inviter; legacy hint supports 'invite'",
+     "morph": "2.sg.imperative.middle √kṣaṇ"
+    },
+    {
+     "surface": "damūn",
+     "gloss": "these-ones",
+     "grounds": "object of invitation; exact referent from context",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How should the younger participants be approached when they are invited?",
+   "premises": [
+    "The younger ones are specifically mentioned.",
+    "They should first be consoled with kind speech.",
+    "After that they should be invited."
+   ],
+   "inference": "Younger participants are to be invited gently after being reassured with pleasant words.",
+   "uncertainties": [
+    "The form kṣaṇe is read as an imperative of invitation following the legacy hint."
+   ],
+   "plain_english": "But console the younger ones with kind words, and then invite them."
+  },
+  {
+   "verse": 2637,
+   "rows": [
+    {
+     "surface": "vased",
+     "gloss": "one-should-dwell",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.active √vas"
+    },
+    {
+     "surface": "rajanīṃ",
+     "gloss": "night",
+     "grounds": "duration of observance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "refers to the specified night",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smarantaḥ",
+     "gloss": "remembering",
+     "grounds": "mental observance during the night",
+     "morph": "m.nom.pl.pres-participle.active √smṛ"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "compound parama-īśvara+head; object of remembrance",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the invited participants spend the night before the ritual?",
+   "premises": [
+    "They should dwell through that night.",
+    "They should remain mindful during that time.",
+    "Their remembrance is directed to the Supreme Lord."
+   ],
+   "inference": "The night before the rite should be spent in residence and remembrance of the Supreme Lord.",
+   "uncertainties": [],
+   "plain_english": "They should spend that night remembering the Supreme Lord."
+  },
+  {
+   "verse": 2638,
+   "rows": [
+    {
+     "surface": "anyedyuḥ",
+     "gloss": "on-next-day",
+     "grounds": "time of the next actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānapūjādikriyā",
+     "gloss": "bath-worship-and-other-rites",
+     "grounds": "compound snāna-pūjā-ādi-kriyā+head",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "nirvartya",
+     "gloss": "having-performed",
+     "grounds": "completion of preparatory rites",
+     "morph": "(indecl.) absolutive √vṛt"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "refers to the invited guests",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ayā",
+     "gloss": "by-this",
+     "grounds": "instrumental reference to the following reception; exact sense context-dependent",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What preparatory actions must be completed on the following day before receiving the guests?",
+   "premises": [
+    "The actions take place on the next day.",
+    "Bathing, worship, and related rites must be performed.",
+    "These acts precede the reception of the guests."
+   ],
+   "inference": "On the next day, one must complete bathing, worship, and related rites before receiving the guests.",
+   "uncertainties": [
+    "The precise referent of ayā is carried by the following verse."
+   ],
+   "plain_english": "On the next day, after performing bathing, worship, and the other rites, receive them with this."
+  },
+  {
+   "verse": 2639,
+   "rows": [
+    {
+     "surface": "abhyutthānāsanādyena",
+     "gloss": "with-rising-seat-and-so-on",
+     "grounds": "compound abhyutthāna-āsana-ādi+head indicating honors",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "svāgatena",
+     "gloss": "with-welcome",
+     "grounds": "manner of reception",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "āgatān",
+     "gloss": "arrived-ones",
+     "grounds": "the guests who have come",
+     "morph": "m.acc.pl.past-passive-participle √gam"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks the next step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the guests be received when they arrive for the rite?",
+   "premises": [
+    "The guests have arrived.",
+    "Reception includes rising, offering a seat, and similar honors.",
+    "They should be welcomed properly."
+   ],
+   "inference": "Arrived guests should be received with welcome and honors such as rising and offering a seat.",
+   "uncertainties": [],
+   "plain_english": "Then receive the arrived guests with welcome, rising to meet them, offering seats, and so forth."
+  },
+  {
+   "verse": 2640,
+   "rows": [
+    {
+     "surface": "susame",
+     "gloss": "in-well-level-place",
+     "grounds": "compound su-sama+head describing the ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gomayāmbhobhiḥ",
+     "gloss": "with-cow-dung-and-water",
+     "grounds": "compound gomaya-ambhas+head indicating smearing materials",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "supralipte",
+     "gloss": "well-smeared",
+     "grounds": "compound su-pralipta+head describing preparation",
+     "morph": "n.loc.sg.past-passive-participle √lip"
+    },
+    {
+     "surface": "gṛhājire",
+     "gloss": "in-house-courtyard",
+     "grounds": "compound gṛha-ajira+head indicating location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the ritual area be prepared for the subsequent arrangements?",
+   "premises": [
+    "The location is the house courtyard.",
+    "The ground must be well leveled.",
+    "It must be well smeared with cow dung and water."
+   ],
+   "inference": "The ritual should be prepared in a well-leveled, well-smeared house courtyard.",
+   "uncertainties": [],
+   "plain_english": "Prepare the rite in a well-leveled house courtyard, well smeared with cow dung and water."
+  },
+  {
+   "verse": 2641,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral for the eastern figures",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "catuṣkoṇake",
+     "gloss": "in-square",
+     "grounds": "compound catur-koṇa+head describing shape",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "directional placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pratīcyāṃ",
+     "gloss": "in-west",
+     "grounds": "directional placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral for the western figures",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "suvartule",
+     "gloss": "in-well-rounded",
+     "grounds": "compound su-vartula+head describing shape",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What shapes and directional placements are prescribed for the two pairs of ritual figures?",
+   "premises": [
+    "Two figures are placed in the east.",
+    "Two figures are placed in the west.",
+    "The eastern are square and the western are well rounded."
+   ],
+   "inference": "The rite requires two square figures in the east and two round figures in the west.",
+   "uncertainties": [],
+   "plain_english": "Make two square figures in the east and two well-rounded figures in the west."
+  },
+  {
+   "verse": 2642,
+   "rows": [
+    {
+     "surface": "pratimaṇḍalam",
+     "gloss": "at-each-mandala",
+     "grounds": "distributive locative expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avaṭaḥ",
+     "gloss": "pit",
+     "grounds": "alternative ritual feature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.active √as"
+    },
+    {
+     "surface": "dvādaśāṅgulaiḥ",
+     "gloss": "of-twelve-finger-widths",
+     "grounds": "compound dvādaśa-aṅgula+head indicating measure",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What alternative arrangement and measurement may be used at each mandala?",
+   "premises": [
+    "An alternative to the previous arrangement is given.",
+    "A pit may be made at each mandala.",
+    "Its measure is twelve finger-widths."
+   ],
+   "inference": "Alternatively, a pit of twelve finger-widths may be made at each mandala.",
+   "uncertainties": [
+    "Whether the measure refers to depth, width, or overall size is not specified."
+   ],
+   "plain_english": "Or there may be a pit at each mandala, measuring twelve finger-widths."
+  },
+  {
+   "verse": 2643,
+   "rows": [
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.active √kḷp"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitrarthaṃ",
+     "gloss": "for-ancestors",
+     "grounds": "compound pitr-artha+head indicating purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "arghya-offering",
+     "grounds": "ritual offering to be prepared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātreṣu",
+     "gloss": "in-vessels",
+     "grounds": "containers for the offering",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pañcasu",
+     "gloss": "in-five",
+     "grounds": "number of vessels",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "How should the arghya offering for the ancestors be arranged in vessels?",
+   "premises": [
+    "An arghya offering must be prepared.",
+    "It is intended for the ancestors.",
+    "It should be placed in five vessels."
+   ],
+   "inference": "The ancestral arghya should be prepared in five vessels.",
+   "uncertainties": [],
+   "plain_english": "One should prepare the arghya for the ancestors in five vessels."
+  },
+  {
+   "verse": 2644,
+   "rows": [
+    {
+     "surface": "devārthaṃ",
+     "gloss": "for-gods",
+     "grounds": "compound deva-artha+head indicating purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yavasaṃyuktaiḥ",
+     "gloss": "mixed-with-barley",
+     "grounds": "compound yava-saṃyukta+head describing contents",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pitrarthaṃ",
+     "gloss": "for-ancestors",
+     "grounds": "compound pitr-artha+head indicating purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tilasaṃyutaiḥ",
+     "gloss": "mixed-with-sesame",
+     "grounds": "compound tila-saṃyukta+head describing contents",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What substances distinguish the offerings prepared for the gods and for the ancestors?",
+   "premises": [
+    "The offering for the gods is mixed with barley.",
+    "The offering for the ancestors is mixed with sesame.",
+    "The verse contrasts the two purposes."
+   ],
+   "inference": "Barley marks the divine offering, while sesame marks the ancestral offering.",
+   "uncertainties": [],
+   "plain_english": "For the gods use offerings mixed with barley, and for the ancestors use offerings mixed with sesame."
+  },
+  {
+   "verse": 2645,
+   "rows": [
+    {
+     "surface": "puruṣeṇa",
+     "gloss": "with-purusha-mantra",
+     "grounds": "instrumental mantra designation in ritual context",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastrāṇi",
+     "gloss": "garments",
+     "grounds": "ritual items to be consecrated",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "ritual item to be consecrated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛdayamantrataḥ",
+     "gloss": "by-heart-mantra",
+     "grounds": "compound hṛdaya-mantra-tas+head indicating mantra source",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantras are used to consecrate the garments and the fragrance?",
+   "premises": [
+    "Garments are included among the items.",
+    "Fragrance is included among the items.",
+    "The Puruṣa mantra and the Heart mantra are specified."
+   ],
+   "inference": "The garments and fragrance are consecrated using the Puruṣa mantra and the Heart mantra.",
+   "uncertainties": [
+    "The exact distribution of the two mantras across the two items is not fully explicit."
+   ],
+   "plain_english": "Consecrate the garments with the Puruṣa mantra and the fragrance with the Heart mantra."
+  },
+  {
+   "verse": 2646,
+   "rows": [
+    {
+     "surface": "anuktam",
+     "gloss": "unspoken",
+     "grounds": "refers to what has not been specified",
+     "morph": "n.acc.sg.past-passive-participle √vac"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "additional item or element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrāddhāṅgaṃ",
+     "gloss": "shraddha-limb",
+     "grounds": "compound śrāddha-aṅga+head indicating ritual component",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental mantra for consecration",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.active √mantr"
+    }
+   ],
+   "question": "How should any unspecified component of the śrāddha be consecrated?",
+   "premises": [
+    "Some śrāddha components may remain unspecified.",
+    "The verse addresses any other such component.",
+    "The Heart mantra is prescribed for consecration."
+   ],
+   "inference": "Any unspecified element of the śrāddha should be consecrated with the Heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Any other śrāddha element not specified should be consecrated with the Heart mantra."
+  },
+  {
+   "verse": 2647,
+   "rows": [
+    {
+     "surface": "sāgrayoḥ",
+     "gloss": "on-front-parts",
+     "grounds": "compound sa-agra+head indicating foremost areas",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "avakīrya",
+     "gloss": "having-scattered",
+     "grounds": "prior ritual action",
+     "morph": "(indecl.) absolutive √kṝ"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavān",
+     "gloss": "barley-grains",
+     "grounds": "substance to be scattered",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sadvṛttayoḥ",
+     "gloss": "on-well-rounded-areas",
+     "grounds": "compound sat-vṛtta+head indicating rounded areas",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "tilān",
+     "gloss": "sesame-seeds",
+     "grounds": "substance to be scattered",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Where should barley grains and sesame seeds be scattered in the prepared areas?",
+   "premises": [
+    "Barley grains are to be scattered.",
+    "Sesame seeds are to be scattered.",
+    "The scattering is done on the front parts and on the well-rounded areas."
+   ],
+   "inference": "Barley and sesame should be scattered respectively on the designated front and rounded areas.",
+   "uncertainties": [
+    "The exact pairing of each substance with each location is implied by context."
+   ],
+   "plain_english": "Then scatter barley grains on the front parts and sesame seeds on the well-rounded areas."
+  },
+  {
+   "verse": 2648,
+   "rows": [
+    {
+     "surface": "vidyāṅgāstreṇa",
+     "gloss": "with-vidya-limb-weapon-mantra",
+     "grounds": "compound vidyā-aṅga-astra+head indicating mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dakṣasthaṃ",
+     "gloss": "placed-on-right",
+     "grounds": "compound dakṣa-stha+head describing location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "object of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sāśram",
+     "gloss": "with-its-support",
+     "grounds": "compound sa-āśra+head; exact ritual sense context-dependent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.active √arc"
+    }
+   ],
+   "question": "How should the mandala placed on the right side be worshipped?",
+   "premises": [
+    "The mandala on the right side is the object of worship.",
+    "It is worshipped together with its support.",
+    "The vidyāṅga weapon mantra is used."
+   ],
+   "inference": "The right-side mandala, with its support, should be worshipped using the vidyāṅga weapon mantra.",
+   "uncertainties": [
+    "The precise meaning of sāśram in this ritual context is not fully explicit."
+   ],
+   "plain_english": "One should worship the mandala on the right, together with its support, with the vidyāṅga weapon mantra."
+  },
+  {
+   "verse": 2649,
+   "rows": [
+    {
+     "surface": "saumyasthaṃ",
+     "gloss": "placed-on-left",
+     "grounds": "compound saumya-stha+head describing location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praṇavādyena",
+     "gloss": "with-om-and-so-on",
+     "grounds": "compound praṇava-ādi+head indicating mantra formula",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "svasvanāmnā",
+     "gloss": "with-each-own-name",
+     "grounds": "compound sva-sva-nāman+head indicating individualized naming",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "describes the worship as joined with names",
+     "morph": "n.acc.sg.past-passive-participle √i"
+    }
+   ],
+   "question": "How should the mandala placed on the left side be worshipped?",
+   "premises": [
+    "The mandala on the left side is the object of worship.",
+    "The worship uses praṇava and related elements.",
+    "It is accompanied by each one's own name."
+   ],
+   "inference": "The left-side mandala should be worshipped with praṇava and the respective names.",
+   "uncertainties": [],
+   "plain_english": "Worship the mandala on the left with praṇava and so forth, accompanied by each one's own name."
+  }
+ ]
+}

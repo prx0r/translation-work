@@ -1,0 +1,1231 @@
+{
+ "song": "mukta-m0-p496",
+ "items": [
+  {
+   "verse": 12376,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "locative of compound tad+bāhya indicating location outside that",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "caturasrasya",
+     "gloss": "of-square",
+     "grounds": "genitive specifying the square enclosure",
+     "morph": "m.gen.sg.n"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural indicating the directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "medhāṃ",
+     "gloss": "medha",
+     "grounds": "accusative object, name of deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deity must be worshipped in the directions outside the square enclosure?",
+   "premises": [
+    "The location is outside that square.",
+    "The worship occurs in the directions of the square.",
+    "Medhā is the deity to be worshipped then."
+   ],
+   "inference": "One should then worship Medhā in the directions outside the square.",
+   "uncertainties": [],
+   "plain_english": "Then, outside that, in the directions of the square, one should worship Medhā."
+  },
+  {
+   "verse": 12377,
+   "rows": [
+    {
+     "surface": "dvidvisvarān",
+     "gloss": "two-two-syllables",
+     "grounds": "accusative plural describing syllable groups",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "aṣṭadale",
+     "gloss": "on-eight-petal",
+     "grounds": "locative of compound aṣṭa+dala indicating lotus",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "śakrādīn",
+     "gloss": "shakra-and-others",
+     "grounds": "accusative plural with ādi indicating group",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "digdale",
+     "gloss": "in-direction-petal",
+     "grounds": "locative of compound dik+dala indicating petals",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable indicating repetition or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are to be worshipped on the eight-petaled lotus with paired syllables?",
+   "premises": [
+    "The worship takes place on the eight-petaled lotus.",
+    "Two syllables are assigned in each case.",
+    "Śakra and others are worshipped in the directional petals."
+   ],
+   "inference": "Śakra and the other directional deities are to be worshipped again on the eight-petaled lotus with two syllables each.",
+   "uncertainties": [
+    "The verb of worship is implied from the previous verse."
+   ],
+   "plain_english": "Again, on the eight-petaled lotus, one should worship Śakra and the others in the directional petals with two syllables each."
+  },
+  {
+   "verse": 12378,
+   "rows": [
+    {
+     "surface": "tārādyena",
+     "gloss": "with-tara-beginning",
+     "grounds": "instrumental describing mantra beginning with tārā",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "namontena",
+     "gloss": "with-namas-ending",
+     "grounds": "instrumental describing mantra ending with namas",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "śrībījena",
+     "gloss": "with-shri-seed",
+     "grounds": "instrumental specifying the Śrī bīja",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "shri",
+     "grounds": "accusative object, name of goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "With which mantra structure should the goddess Śrī be worshipped?",
+   "premises": [
+    "The mantra begins with tārā.",
+    "The mantra ends with namas.",
+    "The mantra uses the Śrī seed syllable."
+   ],
+   "inference": "One should worship Śrī with the Śrī bīja mantra beginning with tārā and ending with namas.",
+   "uncertainties": [],
+   "plain_english": "One should worship Śrī with the Śrī seed mantra that begins with tārā and ends with namas."
+  },
+  {
+   "verse": 12379,
+   "rows": [
+    {
+     "surface": "aṣṭākṣareṇa",
+     "gloss": "with-eight-syllable",
+     "grounds": "instrumental describing mantra of eight syllables",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "instrumental specifying the mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "radapatre",
+     "gloss": "on-tooth-petal",
+     "grounds": "locative of compound rada+patra indicating location",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "śivāṃ",
+     "gloss": "shiva-goddess",
+     "grounds": "accusative object, name of goddess Śivā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "How and where should the goddess Śivā be worshipped in this sequence?",
+   "premises": [
+    "The worship uses an eight-syllable mantra.",
+    "The location is the rada-petal.",
+    "Śivā is the deity to be worshipped."
+   ],
+   "inference": "One should worship Śivā on the rada-petal with the eight-syllable mantra.",
+   "uncertainties": [
+    "The exact referent of radapatre is context-dependent."
+   ],
+   "plain_english": "One should worship Śivā on the rada-petal with the eight-syllable mantra."
+  },
+  {
+   "verse": 12380,
+   "rows": [
+    {
+     "surface": "navākṣareṇa",
+     "gloss": "with-nine-syllable",
+     "grounds": "instrumental describing mantra of nine syllables",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "tripurāṃ",
+     "gloss": "tripura",
+     "grounds": "accusative object, name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cataṣṣaṣṭidale",
+     "gloss": "on-sixty-four-petal",
+     "grounds": "locative of compound indicating sixty-four-petaled lotus",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "rcayet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √ṛc/arc"
+    }
+   ],
+   "question": "Where and with which mantra should Tripurā be worshipped?",
+   "premises": [
+    "The worship uses a nine-syllable mantra.",
+    "Tripurā is the deity to be worshipped.",
+    "The location is the sixty-four-petaled lotus."
+   ],
+   "inference": "One should worship Tripurā on the sixty-four-petaled lotus with the nine-syllable mantra.",
+   "uncertainties": [],
+   "plain_english": "One should worship Tripurā on the sixty-four-petaled lotus with the nine-syllable mantra."
+  },
+  {
+   "verse": 12381,
+   "rows": [
+    {
+     "surface": "yoginīṃ",
+     "gloss": "yogini",
+     "grounds": "accusative object, deity to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable summarizing the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navāvaraṇapūjanam",
+     "gloss": "nine-enclosure-worship",
+     "grounds": "compound naming the worship of nine enclosures",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What ritual structure is completed by worshipping the Yoginī in this manner?",
+   "premises": [
+    "The Yoginī is to be worshipped.",
+    "The procedure is summarized as thus.",
+    "The worship constitutes the nine-enclosure worship."
+   ],
+   "inference": "Worshipping the Yoginī in this way completes the worship of the nine enclosures.",
+   "uncertainties": [],
+   "plain_english": "One should worship the Yoginī; thus is the worship of the nine enclosures completed."
+  },
+  {
+   "verse": 12382,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable referring to the described method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhajate",
+     "gloss": "worships",
+     "grounds": "present tense describing the act of worship",
+     "morph": "3.sg.pres.mid √bhaj"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaśyās",
+     "gloss": "submissive",
+     "grounds": "predicate adjective describing people",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "to-him",
+     "grounds": "genitive indicating the beneficiary",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "amitāḥ",
+     "gloss": "immeasurable",
+     "grounds": "adjective qualifying the number of people",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "subject of the result clause",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What power over others results from worshipping the goddess in this manner?",
+   "premises": [
+    "A person worships the goddess in this way.",
+    "Immeasurable people become involved.",
+    "Those people become submissive to that worshipper."
+   ],
+   "inference": "One who worships the goddess thus gains the submission of immeasurable people.",
+   "uncertainties": [],
+   "plain_english": "For one who worships the goddess in this way, immeasurable people become submissive to him."
+  },
+  {
+   "verse": 12383,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present tense stating the result",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "vāñchitāṃ",
+     "gloss": "desired",
+     "grounds": "past participle qualifying the maiden",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kanyāṃ",
+     "gloss": "maiden",
+     "grounds": "accusative object obtained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhanamānasamanvitām",
+     "gloss": "wealth-honor-endowed",
+     "grounds": "compound adjective describing the maiden",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What specific personal gain is promised to the worshipper of the goddess?",
+   "premises": [
+    "The worshipper obtains something desired.",
+    "The object obtained is a maiden.",
+    "The maiden is endowed with wealth and honor."
+   ],
+   "inference": "The worshipper obtains a desired maiden endowed with wealth and honor.",
+   "uncertainties": [],
+   "plain_english": "He obtains the desired maiden endowed with wealth and honor."
+  },
+  {
+   "verse": 12384,
+   "rows": [
+    {
+     "surface": "dakṣamārgeṇa",
+     "gloss": "by-right-path",
+     "grounds": "instrumental indicating the right-hand path",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "saṃsiddhā",
+     "gloss": "accomplished",
+     "grounds": "past participle describing accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāmena",
+     "gloss": "by-left",
+     "grounds": "instrumental indicating the left-hand path",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to practices",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrttitāḥ",
+     "gloss": "declared",
+     "grounds": "past participle indicating declaration",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "By which ritual paths are these practices said to be accomplished or declared?",
+   "premises": [
+    "Accomplishment is associated with the right-hand path.",
+    "These practices are also declared in relation to the left-hand path.",
+    "The verse contrasts or pairs the two paths."
+   ],
+   "inference": "These practices are accomplished by the right-hand path and declared in relation to the left-hand path.",
+   "uncertainties": [
+    "The exact syntactic relation between saṃsiddhā and prakīrttitāḥ is compressed."
+   ],
+   "plain_english": "By the right-hand path they are accomplished, and by the left-hand path these are declared."
+  },
+  {
+   "verse": 12385,
+   "rows": [
+    {
+     "surface": "siddhir",
+     "gloss": "accomplishment",
+     "grounds": "subject noun indicating attainment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating intermediate state",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "indeclinable introducing condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyus",
+     "gloss": "death",
+     "grounds": "subject noun indicating death",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable correlating with condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmāntare",
+     "gloss": "in-another-birth",
+     "grounds": "locative of compound indicating future birth",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What happens to accomplishment if death occurs before completion?",
+   "premises": [
+    "Accomplishment may be in the middle stage.",
+    "Death may occur at that time.",
+    "A future birth is the locus of continuation."
+   ],
+   "inference": "If death occurs while accomplishment is incomplete, it will come to fruition in another birth.",
+   "uncertainties": [],
+   "plain_english": "If death comes when accomplishment is still in the middle, it will occur in another birth."
+  },
+  {
+   "verse": 12386,
+   "rows": [
+    {
+     "surface": "tanmārgiṇāṃ",
+     "gloss": "of-that-path-followers",
+     "grounds": "genitive plural of compound referring to followers",
+     "morph": "compound m.gen.pl"
+    },
+    {
+     "surface": "mahāpāpaṃ",
+     "gloss": "great-sin",
+     "grounds": "accusative or nominative compound indicating grave sin",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "pāpātmānaḥ",
+     "gloss": "sinful-souls",
+     "grounds": "compound noun describing sinful persons",
+     "morph": "compound m.nom.pl"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable indicating location or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing subjects",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "past participle indicating those established",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What grave consequence is stated for sinful persons situated on that path?",
+   "premises": [
+    "The verse refers to followers of that path.",
+    "Sinful souls are present in this context.",
+    "Great sin is associated with them."
+   ],
+   "inference": "For sinful souls situated here among followers of that path, there is great sin.",
+   "uncertainties": [
+    "The syntactic role of mahāpāpaṃ is somewhat compressed."
+   ],
+   "plain_english": "For those sinful souls who are situated here among the followers of that path, there is great sin."
+  },
+  {
+   "verse": 12387,
+   "rows": [
+    {
+     "surface": "yasmin",
+     "gloss": "in-which",
+     "grounds": "relative pronoun in locative referring to that context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhuktiś",
+     "gloss": "enjoyment",
+     "grounds": "nominative noun with sandhi before ca",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktiś",
+     "gloss": "liberation",
+     "grounds": "nominative noun with sandhi before ca",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun expressing rhetorical question",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktavyam",
+     "gloss": "to-be-said",
+     "grounds": "gerundive indicating what can be said",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "beyond-this",
+     "grounds": "indeclinable indicating beyond this point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "further",
+     "grounds": "indeclinable or adjective indicating beyond",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What more can be said when both enjoyment and liberation are present in that state?",
+   "premises": [
+    "Enjoyment is present in that context.",
+    "Liberation is present in that context.",
+    "Nothing further needs to be stated beyond this."
+   ],
+   "inference": "When both enjoyment and liberation are present, nothing further remains to be said.",
+   "uncertainties": [],
+   "plain_english": "In which there are both enjoyment and liberation—what more can be said beyond this?"
+  },
+  {
+   "verse": 12388,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmāyāmāhākālānumate",
+     "gloss": "in-shri-mahamaya-mahakala-approval",
+     "grounds": "locative compound indicating authoritative approval",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "merutantre",
+     "gloss": "in-meru-tantra",
+     "grounds": "locative naming the text",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "śivapraṇīte",
+     "gloss": "by-shiva-composed",
+     "grounds": "locative compound describing composition by Śiva",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "viṣṇuśaktimanukathanaṃ",
+     "gloss": "vishnu-shakti-mantra-description",
+     "grounds": "compound naming the chapter topic",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable or noun indicating title",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṃśaḥ",
+     "gloss": "thirtieth",
+     "grounds": "ordinal adjective numbering the chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "chapter",
+     "grounds": "noun naming the section",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Merutantra concludes with the description of Viṣṇu’s śakti-mantra?",
+   "premises": [
+    "The text is the Merutantra composed by Śiva.",
+    "It is approved by Śrī Mahāmāyā and Mahākāla.",
+    "The topic is the description of Viṣṇu’s śakti-mantra."
+   ],
+   "inference": "Thus ends the thirtieth chapter, named the description of Viṣṇu’s śakti-mantra, in the Merutantra.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the Merutantra composed by Śiva and approved by Śrī Mahāmāyā and Mahākāla, ends the thirtieth chapter named the description of Viṣṇu’s śakti-mantra."
+  },
+  {
+   "verse": 12389,
+   "rows": [
+    {
+     "surface": "indānīṃ",
+     "gloss": "now",
+     "grounds": "indeclinable indicating present moment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive expressing desire to hear",
+     "morph": "inf. √śru"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-desire",
+     "grounds": "present tense expressing wish",
+     "morph": "1.sg.pres.act √iṣ"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive indicating possession or source",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "mantrān",
+     "gloss": "mantras",
+     "grounds": "accusative plural object of hearing",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sasiddhidān",
+     "gloss": "with-accomplishment-giving",
+     "grounds": "compound adjective describing mantras",
+     "morph": "compound m.acc.pl"
+    }
+   ],
+   "question": "What request is made regarding the mantras that grant accomplishment?",
+   "premises": [
+    "The speaker expresses a desire now.",
+    "The desire is to hear mantras.",
+    "Those mantras grant accomplishment."
+   ],
+   "inference": "The speaker now wishes to hear your mantras that grant accomplishment.",
+   "uncertainties": [],
+   "plain_english": "Now I desire to hear your mantras that grant accomplishment."
+  },
+  {
+   "verse": 12390,
+   "rows": [
+    {
+     "surface": "yān",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to mantras",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sādhayitvā",
+     "gloss": "having-accomplished",
+     "grounds": "absolutive indicating prior accomplishment",
+     "morph": "abs. √sādh"
+    },
+    {
+     "surface": "bhogāṃs",
+     "gloss": "enjoyments",
+     "grounds": "accusative plural object of enjoyment",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-enjoyed",
+     "grounds": "absolutive indicating prior enjoyment",
+     "morph": "abs. √bhuj"
+    },
+    {
+     "surface": "mokṣam",
+     "gloss": "liberation",
+     "grounds": "accusative object of attainment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "optative expressing possible attainment",
+     "morph": "3.sg.opt.act √āp with ava"
+    }
+   ],
+   "question": "What twofold result follows from accomplishing and using those requested mantras?",
+   "premises": [
+    "The mantras are first accomplished.",
+    "Enjoyments are then experienced.",
+    "Liberation may be obtained afterward."
+   ],
+   "inference": "By accomplishing those mantras, one may enjoy pleasures and then obtain liberation.",
+   "uncertainties": [],
+   "plain_english": "Having accomplished which, and having enjoyed pleasures, one may obtain liberation."
+  },
+  {
+   "verse": 12391,
+   "rows": [
+    {
+     "surface": "ṣaḍakṣaraḥ",
+     "gloss": "six-syllable",
+     "grounds": "compound adjective describing the mantra",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun identifying the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viprāṇāṃ",
+     "gloss": "for-brahmins",
+     "grounds": "genitive indicating intended recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhuktimuktiprasādhakaḥ",
+     "gloss": "enjoyment-liberation-accomplishing",
+     "grounds": "compound adjective describing the mantra's effect",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "For whom is this six-syllable mantra especially effective in granting enjoyment and liberation?",
+   "premises": [
+    "The mantra consists of six syllables.",
+    "It accomplishes enjoyment and liberation.",
+    "It is specified for brāhmaṇas."
+   ],
+   "inference": "This six-syllable mantra accomplishes enjoyment and liberation for brāhmaṇas.",
+   "uncertainties": [],
+   "plain_english": "This six-syllable mantra accomplishes enjoyment and liberation for brāhmaṇas."
+  },
+  {
+   "verse": 12392,
+   "rows": [
+    {
+     "surface": "ṣaḍarṇais",
+     "gloss": "with-six-syllables",
+     "grounds": "instrumental indicating six syllables",
+     "morph": "compound m.ins.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "accusative plural naming the six limbs",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "pañcārṇair",
+     "gloss": "with-five-syllables",
+     "grounds": "instrumental indicating five syllables",
+     "morph": "compound m.ins.pl"
+    },
+    {
+     "surface": "aṅgapañcakam",
+     "gloss": "five-limbs",
+     "grounds": "compound naming the group of five limbs",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "How are the six-limb and five-limb ritual assignments distributed by syllable count?",
+   "premises": [
+    "Six syllables are used for six limbs.",
+    "Five syllables are used for five limbs.",
+    "The verse contrasts the two assignments."
+   ],
+   "inference": "The six limbs are assigned with six syllables, and the five limbs with five syllables.",
+   "uncertainties": [
+    "The exact ritual application is compressed and context-dependent."
+   ],
+   "plain_english": "With six syllables the six limbs are formed, and with five syllables the group of five limbs."
+  },
+  {
+   "verse": 12393,
+   "rows": [
+    {
+     "surface": "tarjjanyor",
+     "gloss": "on-index-fingers",
+     "grounds": "locative dual indicating placement on index fingers",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √nyas with vi"
+    },
+    {
+     "surface": "naṃ",
+     "gloss": "nam",
+     "grounds": "mantra syllable or formula element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpuruṣāya",
+     "gloss": "to-tatpurusha",
+     "grounds": "dative naming the deity aspect",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namas",
+     "gloss": "salutation",
+     "grounds": "indeclinable salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable closing the formula",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula should be placed on the index fingers during nyāsa?",
+   "premises": [
+    "The placement is on the index fingers.",
+    "The formula includes nam, tatpuruṣāya, and namas.",
+    "The act prescribed is ritual placement."
+   ],
+   "inference": "One should place the formula 'naṃ tatpuruṣāya namas' on the index fingers.",
+   "uncertainties": [],
+   "plain_english": "One should place on the index fingers the formula: 'naṃ tatpuruṣāya namas'."
+  },
+  {
+   "verse": 12394,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "va",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "having-uttered",
+     "grounds": "absolutive indicating utterance",
+     "morph": "abs. √muc"
+    },
+    {
+     "surface": "vāmadevāya",
+     "gloss": "to-vamadeva",
+     "grounds": "dative naming the deity aspect",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namas",
+     "gloss": "salutation",
+     "grounds": "indeclinable salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃguṣṭhayor",
+     "gloss": "on-thumbs",
+     "grounds": "locative dual indicating placement on thumbs",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "What mantra formula should be placed on the thumbs after uttering the syllable vā?",
+   "premises": [
+    "The syllable vā is uttered first.",
+    "The formula continues with vāmadevāya namas.",
+    "The placement is on the thumbs."
+   ],
+   "inference": "After uttering vā, one should place 'vāmadevāya namas' on the thumbs.",
+   "uncertainties": [],
+   "plain_english": "Having uttered 'vā', one should then place 'vāmadevāya namas' on the thumbs."
+  },
+  {
+   "verse": 12395,
+   "rows": [
+    {
+     "surface": "hṛdaye",
+     "gloss": "on-heart",
+     "grounds": "locative indicating placement on the heart",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pādayor",
+     "gloss": "on-feet",
+     "grounds": "locative dual indicating placement on the feet",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "guhye",
+     "gloss": "on-private-part",
+     "grounds": "locative indicating placement on the private part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "noun naming the ritual placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun identifying the placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing designation",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "tṛtīyakaḥ",
+     "gloss": "third",
+     "grounds": "ordinal adjective identifying sequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which bodily locations define the third nyāsa in this sequence?",
+   "premises": [
+    "The placement involves the heart.",
+    "The placement involves the feet.",
+    "The placement involves the private part."
+   ],
+   "inference": "This placement on the heart, feet, and private part is the third nyāsa.",
+   "uncertainties": [],
+   "plain_english": "This placement on the heart, the feet, and the private part should be the third nyāsa."
+  },
+  {
+   "verse": 12396,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphasizing manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past participle indicating declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "noun naming the ritual placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun identifying the placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective identifying sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aghahṛt",
+     "gloss": "sin-destroying",
+     "grounds": "compound adjective describing the nyāsa",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What is the declared nature and effect of the fifth nyāsa?",
+   "premises": [
+    "The placement is to be done in this manner.",
+    "It is declared as the fifth nyāsa.",
+    "It destroys sin."
+   ],
+   "inference": "This fifth nyāsa, performed thus, is declared to be sin-destroying.",
+   "uncertainties": [
+    "The specific placement details are implied by context."
+   ],
+   "plain_english": "Thus indeed one should place it; this is declared to be the fifth nyāsa, which destroys sin."
+  },
+  {
+   "verse": 12397,
+   "rows": [
+    {
+     "surface": "nam",
+     "gloss": "nam",
+     "grounds": "mantra syllable or formula element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "absolutive indicating utterance",
+     "morph": "abs. √vac"
+    },
+    {
+     "surface": "nityatṛpti",
+     "gloss": "nityatripti",
+     "grounds": "mantra phrase or name element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable closing the phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktidhāmne",
+     "gloss": "to-shakti-abode",
+     "grounds": "dative compound naming the recipient aspect",
+     "morph": "compound n.dat.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "noun indicating placement location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing assignment",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What mantra phrase is assigned to the head in this nyāsa instruction?",
+   "premises": [
+    "The utterance includes nam and nityatṛpti.",
+    "The phrase is directed to śaktidhāmne.",
+    "The assignment is to the head."
+   ],
+   "inference": "Having said 'nam nityatṛpti', one should assign it to śaktidhāmne for the head.",
+   "uncertainties": [
+    "The exact segmentation of the mantra phrase follows the given tokens."
+   ],
+   "plain_english": "Having said 'nam nityatṛpti', it should be for śaktidhāmne at the head."
+  },
+  {
+   "verse": 12398,
+   "rows": [
+    {
+     "surface": "śim",
+     "gloss": "shim",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantaśaktidhāmne",
+     "gloss": "to-infinite-shakti-abode",
+     "grounds": "dative compound naming the recipient aspect",
+     "morph": "compound n.dat.sg"
+    },
+    {
+     "surface": "kavacāya",
+     "gloss": "for-armor",
+     "grounds": "dative indicating the armor limb",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namas",
+     "gloss": "salutation",
+     "grounds": "indeclinable salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable closing the formula",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra formula is prescribed for the armor in this nyāsa sequence?",
+   "premises": [
+    "The formula begins with the syllable śim.",
+    "It is directed to anantaśaktidhāmne.",
+    "It is assigned to the armor with namas."
+   ],
+   "inference": "The formula 'śim anantaśaktidhāmne kavacāya namas' is prescribed for the armor.",
+   "uncertainties": [],
+   "plain_english": "Thus: 'śim anantaśaktidhāmne kavacāya namas'."
+  },
+  {
+   "verse": 12399,
+   "rows": [
+    {
+     "surface": "yam",
+     "gloss": "yam",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantaśaktidhāmne",
+     "gloss": "to-infinite-shakti-abode",
+     "grounds": "dative compound naming the recipient aspect",
+     "morph": "compound n.dat.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.opt.act √vad"
+    },
+    {
+     "surface": "astrāya",
+     "gloss": "for-weapon",
+     "grounds": "dative indicating the weapon limb",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phat",
+     "grounds": "mantra syllable used for the weapon",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "then",
+     "grounds": "indeclinable indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula should be uttered for the weapon in this nyāsa sequence?",
+   "premises": [
+    "The formula begins with the syllable yam.",
+    "It is directed to anantaśaktidhāmne.",
+    "It is assigned to the weapon with phaṭ."
+   ],
+   "inference": "One should say 'yam anantaśaktidhāmne astrāya phaṭ' for the weapon.",
+   "uncertainties": [],
+   "plain_english": "Then one should say: 'yam anantaśaktidhāmne astrāya phaṭ'."
+  }
+ ]
+}

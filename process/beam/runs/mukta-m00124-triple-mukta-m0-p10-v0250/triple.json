@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "takāraśca",
+     "gloss": "ta-letter-and",
+     "grounds": "ta-kāra plus enclitic ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "yayo",
+     "gloss": "of-which",
+     "grounds": "relative pronoun form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhūśca",
+     "gloss": "earth-and",
+     "grounds": "bhū plus enclitic ca",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kāca",
+     "gloss": "glass",
+     "grounds": "substance term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niśca",
+     "gloss": "certainly",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapūrvaśaḥ",
+     "gloss": "from-ka-onward",
+     "grounds": "ka-pūrva with śas suffix",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which elements and substances are assigned to letters from ka onward?",
+   "premises": [
+    "ta-letter is included",
+    "earth is included",
+    "glass is included",
+    "sequence begins at ka"
+   ],
+   "inference": "letters from ka onward include ta, earth, and glass",
+   "uncertainties": [
+    "exact syntactic role of yayo remains unclear"
+   ],
+   "plain_english": "From ka onward, the letters include ta, earth, and glass."
+  }
+ ]
+}

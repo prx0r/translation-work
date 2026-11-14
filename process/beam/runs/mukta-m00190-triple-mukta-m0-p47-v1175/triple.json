@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable invoking the deity; mantra material kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadrakāli",
+     "gloss": "o-bhadrakali",
+     "grounds": "vocative address to the goddess Bhadrakālī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahā+tīkṣṇe",
+     "gloss": "greatly-fierce",
+     "grounds": "compound epithet describing the invoked goddess; internal sandhi in fused form",
+     "morph": "compound: mahā+modifier, tīkṣṇa+head; f.voc.sg"
+    },
+    {
+     "surface": "bhadra+siddhi+pradāyini",
+     "gloss": "auspicious-success-giver",
+     "grounds": "compound epithet attributing the granting of auspicious accomplishment; internal sandhi in fused form",
+     "morph": "compound: bhadra+siddhi+dependent, pradāyin+head; f.voc.sg"
+    }
+   ],
+   "question": "What qualities and powers are attributed to Bhadrakālī in this invocation?",
+   "premises": [
+    "Bhadrakālī is directly invoked by name.",
+    "She is characterized as greatly fierce.",
+    "She is characterized as a giver of auspicious success."
+   ],
+   "inference": "The invocation presents Bhadrakālī as a fierce deity who bestows auspicious accomplishment.",
+   "uncertainties": [],
+   "plain_english": "Oṃ, O Bhadrakālī, greatly fierce one, giver of auspicious success."
+  }
+ ]
+}

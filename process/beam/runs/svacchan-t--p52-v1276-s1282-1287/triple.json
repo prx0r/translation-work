@@ -1,0 +1,322 @@
+{
+ "song": "sva-p52",
+ "items": [
+  {
+   "verse": 1282,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "three",
+     "grounds": "instrumental plural",
+     "morph": "m/f/n.instr.pl"
+    },
+    {
+     "surface": "guṇaiḥ",
+     "gloss": "guṇas",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "yuktatvāt",
+     "gloss": "endowed",
+     "grounds": "ablative of state",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "triguṇam",
+     "gloss": "three-guṇa",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does endowedness by three guṇas characterize the object?",
+   "premises": [
+    "object is endowed by three guṇas",
+    "endowedness follows from three guṇas"
+   ],
+   "inference": "the object is three-guṇa in nature",
+   "uncertainties": [
+    "exact syntactic role of etat"
+   ],
+   "plain_english": "This is three-guṇa because it is endowed with the three guṇas."
+  },
+  {
+   "verse": 1283,
+   "rows": [
+    {
+     "surface": "ataśca",
+     "gloss": "therefore",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "first-person pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "akartā",
+     "gloss": "non-doer",
+     "grounds": "negative agent noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why does the speaker call himself a non-doer?",
+   "premises": [
+    "therefore follows prior reasoning",
+    "speaker identifies as I",
+    "speaker is non-doer"
+   ],
+   "inference": "the speaker denies personal agency",
+   "uncertainties": [
+    "scope of ataśca"
+   ],
+   "plain_english": "Therefore I am a non-doer."
+  },
+  {
+   "verse": 1284,
+   "rows": [
+    {
+     "surface": "sāṅkhya",
+     "gloss": "sāṅkhya",
+     "grounds": "school name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mohitasya",
+     "gloss": "deluded",
+     "grounds": "genitive participle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "present indicative",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "fitting",
+     "grounds": "past participle adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utpaśyāmaḥ",
+     "gloss": "we-see",
+     "grounds": "prefixed present",
+     "morph": "1.pl.act-pres root paś"
+    }
+   ],
+   "question": "What do we see as fitting for one deluded by sāṅkhya knowledge?",
+   "premises": [
+    "sāṅkhya knowledge deludes",
+    "such delusion exists",
+    "fittingness is seen"
+   ],
+   "inference": "the statement is judged fitting for the deluded",
+   "uncertainties": [
+    "whether sāṅkhya modifies jñāna as compound"
+   ],
+   "plain_english": "We see it fitting that one deluded by sāṅkhya knowledge exists thus."
+  },
+  {
+   "verse": 1285,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhiṣṭhātṛ",
+     "gloss": "presiding",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "indeclinable simile",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśvaryam",
+     "gloss": "lordship",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present indicative",
+     "morph": "3.sg.act-pres root āp"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaratrāpi",
+     "gloss": "later",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojyam",
+     "gloss": "to-be-applied",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is lordship obtained there like a presiding power?",
+   "premises": [
+    "presiding power is like that",
+    "lordship is obtained there",
+    "same applies later"
+   ],
+   "inference": "the presiding-lordship model extends to later cases",
+   "uncertainties": [
+    "antecedent of tad"
+   ],
+   "plain_english": "Like a presiding power, one obtains lordship there; thus it is to be applied later too."
+  },
+  {
+   "verse": 1286,
+   "rows": [
+    {
+     "surface": "prāṅ",
+     "gloss": "previously",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidīṣṭa",
+     "gloss": "indicated",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhiṣṭhitaṃ",
+     "gloss": "presided",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "compound member",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root dhyā"
+    }
+   ],
+   "question": "What should one meditate upon as previously indicated?",
+   "premises": [
+    "deity was previously indicated",
+    "water is presided over",
+    "own body is object"
+   ],
+   "inference": "one meditates on the deity-presided own body",
+   "uncertainties": [
+    "whether jala sva dehaṃ is one compound phrase"
+   ],
+   "plain_english": "One should meditate on the own body, presided over by the previously indicated deity and water."
+  },
+  {
+   "verse": 1287,
+   "rows": [
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anucchvāsa",
+     "gloss": "breath",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "measure",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "fill",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root pūr"
+    },
+    {
+     "surface": "āpyāyayet",
+     "gloss": "nourish",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt root āpyā"
+    }
+   ],
+   "question": "How should the body be filled and nourished?",
+   "premises": [
+    "body and breath are involved",
+    "measure is instrumental",
+    "filling and nourishing are enjoined"
+   ],
+   "inference": "one fills and nourishes by the measure of breath",
+   "uncertainties": [
+    "exact compound deha-anucchvāsa"
+   ],
+   "plain_english": "By the measure of breath, one should fill and nourish the body."
+  }
+ ]
+}

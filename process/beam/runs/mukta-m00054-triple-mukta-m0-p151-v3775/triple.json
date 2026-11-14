@@ -1,0 +1,81 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3775,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to a fruit/result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "result or reward",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "is-obtained",
+     "grounds": "verb of obtaining or finding",
+     "morph": "3.sg.pres.act √vid"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the compared attainment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaṇeśa",
+     "gloss": "Gaṇeśa",
+     "grounds": "first member of compound qualifying thousand names",
+     "morph": "compound: gaṇeśa+first"
+    },
+    {
+     "surface": "sahasra",
+     "gloss": "thousand",
+     "grounds": "second member of compound qualifying names",
+     "morph": "compound: sahasra+middle"
+    },
+    {
+     "surface": "nāmnaḥ",
+     "gloss": "of-names",
+     "grounds": "final member of compound denoting the thousand names of Gaṇeśa",
+     "morph": "compound: nāman+final.n.gen.sg"
+    },
+    {
+     "surface": "smaraṇena",
+     "gloss": "by-remembrance",
+     "grounds": "instrument denoting the act of recollection",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "adverb indicating immediacy of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit remains unattained that remembrance of Gaṇeśa’s thousand names does not immediately grant?",
+   "premises": [
+    "Remembrance of Gaṇeśa’s thousand names produces a fruit immediately.",
+    "The verse negates the existence of any fruit not obtained through this remembrance.",
+    "Therefore the practice is presented as universally efficacious for attaining desired results."
+   ],
+   "inference": "There is no fruit that is not immediately obtained by remembering the thousand names of Gaṇeśa.",
+   "uncertainties": [
+    "The exact syntactic scope of the negation with the relative clause is compressed and allows slight interpretive variation."
+   ],
+   "plain_english": "There is no fruit that one fails to obtain immediately by remembering the thousand names of Gaṇeśa."
+  }
+ ]
+}

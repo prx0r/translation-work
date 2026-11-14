@@ -1,0 +1,50 @@
+{
+ "song": "kul-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "tryambakantu",
+     "gloss": "tryambaka",
+     "grounds": "tryambaka (Shiva) with enclitic tu",
+     "morph": "m.nom.sg (with tu)"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal third",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt + as"
+    },
+    {
+     "surface": "caturthaḥ",
+     "gloss": "fourth",
+     "grounds": "ordinal fourth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatpadādikaḥ",
+     "gloss": "that-pada-etc",
+     "grounds": "tat + pada + adi + ka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which ordinal position does Tryambaka occupy?",
+   "premises": [
+    "Tryambaka is named third",
+    "The fourth is tatpada etc"
+   ],
+   "inference": "Tryambaka is third and tatpada is fourth.",
+   "uncertainties": [
+    "sandhi of tryambakantu is not expanded"
+   ],
+   "plain_english": "Tryambaka should be the third; the fourth is tatpada and so on."
+  }
+ ]
+}

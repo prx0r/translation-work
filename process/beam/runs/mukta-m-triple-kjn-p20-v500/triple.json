@@ -1,0 +1,57 @@
+{
+ "song": "kjn-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "brahmatvaṃ",
+     "gloss": "Brahma-state",
+     "grounds": "Brahma-state token; neuter accusative singular",
+     "morph": "n.neu.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktaṃ",
+     "gloss": "abandoned",
+     "grounds": "past participle of tyaj; neuter accusative singular",
+     "morph": "part.neu.acc.sg (tyaj)"
+    },
+    {
+     "surface": "citta",
+     "gloss": "mind",
+     "grounds": "mind token; neuter nominative or accusative singular",
+     "morph": "n.neu.nom.sg"
+    },
+    {
+     "surface": "dhīvarātmakam",
+     "gloss": "fisherman-natured",
+     "grounds": "compound adjective; neuter accusative singular",
+     "morph": "adj.neu.acc.sg"
+    }
+   ],
+   "question": "Does Brahma-state get abandoned when mind assumes fisherman-nature?",
+   "premises": [
+    "Brahma-state was abandoned then.",
+    "Mind took fisherman-nature.",
+    "Abandonment follows transformation."
+   ],
+   "inference": "Brahma-state is relinquished when mind becomes fisherman-natured.",
+   "uncertainties": [
+    "Exact syntactic role of citta remains unclear."
+   ],
+   "plain_english": "Then indeed Brahma-state was abandoned; the mind became fisherman-natured."
+  }
+ ]
+}

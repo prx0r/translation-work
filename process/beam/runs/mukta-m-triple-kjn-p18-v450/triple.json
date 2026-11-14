@@ -1,0 +1,60 @@
+{
+ "song": "kjn-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "kṣīrādā",
+     "gloss": "milk-from",
+     "grounds": "legacy hint milk+from; fused sandhi not split",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "....",
+     "gloss": "ellipsis",
+     "grounds": "illegible token in source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viplakāraiḥ",
+     "gloss": "with-fillings",
+     "grounds": "legacy hint with-fillings",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "should-fill",
+     "grounds": "legacy hint should-fill",
+     "morph": "3.sg.act.opt. (root pūr)"
+    },
+    {
+     "surface": "tattanuṃ",
+     "gloss": "that-body",
+     "grounds": "legacy hint that+body",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "legacy hint always",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner always fill that body with milk and fillings?",
+   "premises": [
+    "kṣīrādā indicates milk as source",
+    "viplakāraiḥ supplies fillings",
+    "pūrayet commands filling",
+    "tattanuṃ names target body",
+    "sadā requires constancy"
+   ],
+   "inference": "The verse instructs constant filling of that body from milk with fillings.",
+   "uncertainties": [
+    "the second token is illegible in the supplied source",
+    "exact sandhi of kṣīrādā is not expanded"
+   ],
+   "plain_english": "From milk, with fillings, one should always fill that body."
+  }
+ ]
+}

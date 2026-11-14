@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "anyat+ca",
+     "gloss": "other-and",
+     "grounds": "indefinite pronoun with enclitic conjunction; neuter object",
+     "morph": "pron.nom/acc.sg.n + (indecl.)"
+    },
+    {
+     "surface": "vaiśravaṇa+gṛhāt",
+     "gloss": "from-vaiśravaṇa-house",
+     "grounds": "ablative of source; compound with Vaiśravaṇa as possessor",
+     "morph": "compound(vaiśravaṇa+gṛha).abl.sg.n"
+    },
+    {
+     "surface": "dravyam+ānīya",
+     "gloss": "wealth-having-brought",
+     "grounds": "object of gerund; absolutive expressing prior action",
+     "morph": "n.acc.sg.n + gerund(ā-nī)"
+    },
+    {
+     "surface": "yacchati",
+     "gloss": "gives",
+     "grounds": "main verb describing the act of bestowing",
+     "morph": "3.sg.act-pres(yam)"
+    }
+   ],
+   "question": "What additional gift is bestowed after bringing wealth from Vaiśravaṇa's house?",
+   "premises": [
+    "An additional item is involved, indicated by anyat+ca.",
+    "Wealth is brought from the house of Vaiśravaṇa.",
+    "The brought wealth is then given."
+   ],
+   "inference": "Beyond the previously mentioned gifts, wealth obtained from Vaiśravaṇa's house is also bestowed.",
+   "uncertainties": [
+    "The recipient of the gift is not explicitly named in this verse."
+   ],
+   "plain_english": "And having brought other wealth from the house of Vaiśravaṇa, he gives it."
+  }
+ ]
+}

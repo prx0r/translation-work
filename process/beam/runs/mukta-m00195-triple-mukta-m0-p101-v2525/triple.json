@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "direct recipients of satisfaction in the ritual sequence",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this action to the preceding ritual acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "annais",
+     "gloss": "with-foods",
+     "grounds": "instrumental means of satisfaction",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescriptive ritual injunction; root tuṣ",
+     "morph": "3.sg.optative.active (tuṣ)"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "gifts",
+     "grounds": "first member in a series completed by ādibhiḥ; analyzed as given",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional offerings of the same kind as gifts",
+     "morph": "m/n.inst.pl"
+    }
+   ],
+   "question": "Which offerings are required to please brahmins after the ritual pouring?",
+   "premises": [
+    "Brahmins are the designated recipients of satisfaction.",
+    "Food serves as an offering to satisfy them.",
+    "Gifts and similar offerings also serve to satisfy them."
+   ],
+   "inference": "The ritual sequence requires satisfying brahmins with food, gifts, and other such offerings.",
+   "uncertainties": [
+    "The exact grammatical analysis of dakṣiṇā before ādibhiḥ is taken as given without reconstructing a fused form."
+   ],
+   "plain_english": "And one should satisfy the brahmins with food, gifts, and other such offerings."
+  }
+ ]
+}

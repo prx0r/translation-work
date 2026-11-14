@@ -1,0 +1,63 @@
+{
+ "song": "kul-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "self",
+     "grounds": "indeclinable adverb; self",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhāti",
+     "gloss": "shines",
+     "grounds": "root bhā shine",
+     "morph": "3.sg.act-pres + root bhā"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable conjunction; then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyāni",
+     "gloss": "others",
+     "grounds": "neuter plural of anya",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "bhāsayan",
+     "gloss": "illuminating",
+     "grounds": "causative participle from bhās",
+     "morph": "pres.part.act.sg.nom.m + root bhās"
+    },
+    {
+     "surface": "sādhanaṃ",
+     "gloss": "means",
+     "grounds": "neuter noun sādhana",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition; without",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the self shine and illuminate others without means?",
+   "premises": [
+    "Self shines by its own nature.",
+    "It illuminates others afterward.",
+    "No means are required."
+   ],
+   "inference": "The self is self-luminous and illuminates others without instrumental means.",
+   "uncertainties": [
+    "Verse fragment lacks explicit subject; 'self' inferred from svayaṃ."
+   ],
+   "plain_english": "It shines by itself, then illuminating others without means."
+  }
+ ]
+}

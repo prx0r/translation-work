@@ -1,0 +1,971 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "vidyātatvātmakaṃ",
+     "gloss": "knowledge-reality-natured",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "gehaṃ",
+     "gloss": "house",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "siddhimuktiphalapradam",
+     "gloss": "accomplishment-liberation-fruit-granting",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What kind of house is said to grant accomplishment and liberation?",
+   "premises": [
+    "The house is knowledge-reality-natured.",
+    "It grants accomplishment and liberation."
+   ],
+   "inference": "The temple or house of knowledge-reality is fruitful.",
+   "uncertainties": [
+    "Exact sandhi of compound not expanded."
+   ],
+   "plain_english": "The knowledge-reality-natured house grants accomplishment and liberation."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "prakṣālya",
+     "gloss": "wash",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "dual noun",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "hands",
+     "grounds": "dual noun",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā''camya",
+     "gloss": "thus-sip",
+     "grounds": "absolutive with sandhi",
+     "morph": "abs"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory acts are performed before entering?",
+   "premises": [
+    "Feet and hands are washed.",
+    "One sips water according to rule."
+   ],
+   "inference": "Purification precedes entry.",
+   "uncertainties": [
+    "Sandhi in tathā''camya retained."
+   ],
+   "plain_english": "Having washed feet and hands and sipped water according to rule."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "tyajañccheṣādhvano",
+     "gloss": "abandoning",
+     "grounds": "participle with sandhi",
+     "morph": "part"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "portion",
+     "grounds": "noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "temple",
+     "grounds": "noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "praviśed",
+     "gloss": "enter",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who enters the temple after abandoning the remaining path portion?",
+   "premises": [
+    "The wise one abandons the remaining path portion.",
+    "He enters the temple."
+   ],
+   "inference": "Entry follows abandonment of the outer path.",
+   "uncertainties": [
+    "Fused participle not split."
+   ],
+   "plain_english": "The wise one, abandoning the remaining portion of the path, enters the temple."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "briefly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "past participle",
+     "morph": "part"
+    },
+    {
+     "surface": "snānādyaṃ",
+     "gloss": "bathing-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "munisattamāḥ",
+     "gloss": "best-of-sages",
+     "grounds": "vocative",
+     "morph": "n.voc.pl.m"
+    }
+   ],
+   "question": "How is the bathing and related rite summarized?",
+   "premises": [
+    "It is stated briefly.",
+    "It concerns bathing and related rites."
+   ],
+   "inference": "The instruction is a concise summary.",
+   "uncertainties": [
+    "snānādyaṃ scope unspecified."
+   ],
+   "plain_english": "Thus, best of sages, bathing and the rest have been stated briefly."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "parārthaṃ",
+     "gloss": "for-others",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svārthamityeva",
+     "gloss": "for-self",
+     "grounds": "compound with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvividhaṃ",
+     "gloss": "twofold",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tatprakīrtitam",
+     "gloss": "that-proclaimed",
+     "grounds": "compound",
+     "morph": "part"
+    }
+   ],
+   "question": "Into how many kinds is worship proclaimed?",
+   "premises": [
+    "Worship is for others or for self.",
+    "It is proclaimed twofold."
+   ],
+   "inference": "Worship has two kinds.",
+   "uncertainties": [
+    "Exact split of svārthamityeva retained."
+   ],
+   "plain_english": "Worship is proclaimed twofold: for others and for self."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "yajanaṃ",
+     "gloss": "worship",
+     "grounds": "noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "svārthamākhyātaṃ",
+     "gloss": "for-self-called",
+     "grounds": "compound",
+     "morph": "part"
+    },
+    {
+     "surface": "svasyeṣṭaphaladaṃ",
+     "gloss": "one's-desired-fruit-giving",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is self-oriented worship so called?",
+   "premises": [
+    "Self-oriented worship gives one's desired fruit.",
+    "Therefore it is called for self."
+   ],
+   "inference": "Its name follows its fruit.",
+   "uncertainties": [
+    "Compound boundaries not expanded."
+   ],
+   "plain_english": "Worship is called for self because it gives one's desired fruit."
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "aṣṭaṣaṣṭimahākṣetreṣvanyatra",
+     "gloss": "in-sixty-eight-great-sites",
+     "grounds": "compound locative",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "elsewhere",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manorame",
+     "gloss": "pleasing",
+     "grounds": "adjective",
+     "morph": "adj.loc.sg.m"
+    }
+   ],
+   "question": "Where besides the sixty-eight great sites is worship for others remembered?",
+   "premises": [
+    "The sixty-eight great sites are named.",
+    "Elsewhere pleasing sites are included."
+   ],
+   "inference": "Other pleasing sites also qualify.",
+   "uncertainties": [
+    "manorame modifies site."
+   ],
+   "plain_english": "In the sixty-eight great sites and elsewhere in pleasing places."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "manujaiḥ",
+     "gloss": "by-men",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "sthāpite",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "part"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "linga",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "parārthayajanaṃ",
+     "gloss": "for-others-worship",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "part"
+    }
+   ],
+   "question": "When is worship for others remembered?",
+   "premises": [
+    "Men establish a linga.",
+    "Then worship for others is remembered."
+   ],
+   "inference": "Established lingas support other-oriented worship.",
+   "uncertainties": [
+    "Agent scope general."
+   ],
+   "plain_english": "When men establish a linga, worship for others is remembered."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "grāmādīnāṃ",
+     "gloss": "for-village-growth",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "vivṛddhyarthaṃ",
+     "gloss": "purpose",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parārthejyā",
+     "gloss": "for-others-sacrifice",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "prayujyatām",
+     "gloss": "be-employed",
+     "grounds": "imperative passive",
+     "morph": "3.sg.pass-imp"
+    }
+   ],
+   "question": "For what purpose should sacrifice for others be employed?",
+   "premises": [
+    "It is for village growth and related purposes.",
+    "It should be employed."
+   ],
+   "inference": "Other-oriented sacrifice serves communal welfare.",
+   "uncertainties": [
+    "grāmādīnāṃ scope broad."
+   ],
+   "plain_english": "For the growth of villages and the like, sacrifice for others should be employed."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "dhārmikaḥ",
+     "gloss": "righteous",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "nityamādiśaivo",
+     "gloss": "daily",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "dvijottamaḥ",
+     "gloss": "best-brahmin",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who performs daily rites as a righteous best brahmin?",
+   "premises": [
+    "The righteous best brahmin acts.",
+    "He performs daily Shaiva rites."
+   ],
+   "inference": "Daily Shaiva practice belongs to the righteous brahmin.",
+   "uncertainties": [
+    "nityamādiśaivo fused."
+   ],
+   "plain_english": "The righteous best brahmin performs daily Shaiva rites."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "śivasṛṣṭi",
+     "gloss": "Shiva-creation",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "born",
+     "grounds": "verb",
+     "morph": "3.pl.mid-pres"
+    },
+    {
+     "surface": "brahmaṇo mukhāt",
+     "gloss": "from-Brahma's-mouth",
+     "grounds": "ablative phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who are born without Shiva's creation?",
+   "premises": [
+    "Some are born from Brahma's mouth.",
+    "They are without Shiva's creation."
+   ],
+   "inference": "Brahma-born beings lack Shiva's creative origin.",
+   "uncertainties": [
+    "śivasṛṣṭi scope."
+   ],
+   "plain_english": "Those born from Brahma's mouth are without Shiva's creation."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mohena",
+     "gloss": "delusion",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "kurvīran",
+     "gloss": "do",
+     "grounds": "verb optative",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "rājño",
+     "gloss": "king's",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "rāṣṭrasya",
+     "gloss": "realm",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What happens if deluded ones destroy a king's realm?",
+   "premises": [
+    "Deluded ones may destroy a king's realm.",
+    "Such destruction has consequences."
+   ],
+   "inference": "Deluded destruction of realm is condemned.",
+   "uncertainties": [
+    "Consequence stated next verse."
+   ],
+   "plain_english": "If through delusion they destroy a king's realm."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsātpatanaṃ",
+     "gloss": "in-six-months",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "fall",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "tasmāttānparivarjayet",
+     "gloss": "therefore",
+     "grounds": "compound with sandhi",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What consequence follows within six months?",
+   "premises": [
+    "They fall within six months.",
+    "Therefore one should avoid them."
+   ],
+   "inference": "Avoidance follows from the fall.",
+   "uncertainties": [
+    "tasmāttānparivarjayet fused."
+   ],
+   "plain_english": "They fall within six months; therefore one should avoid them."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "śivājñāvaśatastasya",
+     "gloss": "Shiva-command-under",
+     "grounds": "compound",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "parārthejyā",
+     "gloss": "for-others-worship",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣabhāk",
+     "gloss": "fault-bearing",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Is other-oriented worship faulty under Shiva's command?",
+   "premises": [
+    "Under Shiva's command, other-oriented worship occurs.",
+    "It is not fault-bearing."
+   ],
+   "inference": "Shiva's command removes fault.",
+   "uncertainties": [
+    "Genitive referent."
+   ],
+   "plain_english": "Under Shiva's command, worship for others is not fault-bearing."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "śivaliṅgārcanasyaite",
+     "gloss": "Shiva-linga-worship",
+     "grounds": "compound",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "koṭyaṃśenāpi",
+     "gloss": "millionth-part",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāḥ",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "Are these rites equal to Shiva-linga worship?",
+   "premises": [
+    "They are not equal even by a millionth part.",
+    "Shiva-linga worship surpasses them."
+   ],
+   "inference": "Shiva-linga worship is incomparably greater.",
+   "uncertainties": [
+    "Referent of ete."
+   ],
+   "plain_english": "These are not equal even to a millionth part of Shiva-linga worship."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "suciraṃ",
+     "gloss": "long",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sañcaratyasminsaṃsāre",
+     "gloss": "wanders",
+     "grounds": "compound with sandhi",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "duḥkhasāgare",
+     "gloss": "in-this",
+     "grounds": "compound",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "Where does one wander for a long time?",
+   "premises": [
+    "One wanders long.",
+    "The ocean of suffering is the place."
+   ],
+   "inference": "Samsara is an ocean of suffering.",
+   "uncertainties": [
+    "sañcaratyasminsaṃsāre fused."
+   ],
+   "plain_english": "One wanders long in this ocean of suffering."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvanabhyarcya",
+     "gloss": "without-worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "bhuñjīyādbhagavantaṃ",
+     "gloss": "eat",
+     "grounds": "compound with sandhi",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "trilocanam",
+     "gloss": "Lord-three-eyed",
+     "grounds": "adjective",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "Should one eat without worshipping the three-eyed Lord?",
+   "premises": [
+    "One should not eat without worship.",
+    "The Lord is three-eyed."
+   ],
+   "inference": "Worship precedes eating.",
+   "uncertainties": [
+    "bhuñjīyādbhagavantaṃ fused."
+   ],
+   "plain_english": "One should not eat without worshipping the three-eyed Lord."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "ājānu",
+     "gloss": "to-knee",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "dual noun",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "prakṣālya",
+     "gloss": "wash",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "hastāvāmaṇibandhanāt",
+     "gloss": "hands-from-wrist",
+     "grounds": "compound",
+     "morph": "n.acc.du.m"
+    }
+   ],
+   "question": "How far should feet and hands be washed?",
+   "premises": [
+    "Feet are washed to the knee.",
+    "Hands are washed from the wrist."
+   ],
+   "inference": "Purification has specified bodily limits.",
+   "uncertainties": [
+    "hastāvāmaṇibandhanāt fused."
+   ],
+   "plain_english": "Wash the feet to the knee and the hands from the wrist."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "divyā",
+     "gloss": "divine",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "nabhogatāścaiva",
+     "gloss": "sky-going",
+     "grounds": "compound with sandhi",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "bhūgatāstrividhāḥ",
+     "gloss": "earth-going",
+     "grounds": "compound",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "part"
+    }
+   ],
+   "question": "What three kinds of beings are remembered?",
+   "premises": [
+    "Divine sky-going beings are remembered.",
+    "Earth-going beings are remembered."
+   ],
+   "inference": "Three kinds are classified.",
+   "uncertainties": [
+    "Third kind implied."
+   ],
+   "plain_english": "Divine sky-going and earth-going beings, three kinds, are remembered."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "pārṣṇighātatrayādbhomān",
+     "gloss": "by-three-heel-strikes",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādādapasārayet",
+     "gloss": "from-temple",
+     "grounds": "compound with sandhi",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should one be removed from the temple?",
+   "premises": [
+    "Three heel strikes are used.",
+    "One is removed from the temple."
+   ],
+   "inference": "Removal follows three heel strikes.",
+   "uncertainties": [
+    "pārṣṇighātatrayādbhomān fused."
+   ],
+   "plain_english": "By three heel strikes one should be removed from the temple."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "yāmyakauberavaktrantu",
+     "gloss": "south-north-facing",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhāviṣyate",
+     "gloss": "Siddha-desired",
+     "grounds": "compound",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "Is a south-north facing entrance desired by the wise?",
+   "premises": [
+    "A south-north facing entrance is named.",
+    "It is not desired by the wise."
+   ],
+   "inference": "Such orientation is rejected.",
+   "uncertainties": [
+    "yāmyakauberavaktrantu fused."
+   ],
+   "plain_english": "A south-north facing entrance is not desired by the wise."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "ekadvāravimāneṣyaṃ",
+     "gloss": "single-door-shrine",
+     "grounds": "compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "niyamo",
+     "gloss": "rule",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "niṣkalasya",
+     "gloss": "formless",
+     "grounds": "genitive",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rule applies to a single-door shrine for the formless?",
+   "premises": [
+    "A single-door shrine is named.",
+    "The rule applies to the formless."
+   ],
+   "inference": "Formless worship has a single-door rule.",
+   "uncertainties": [
+    "ekadvāravimāneṣyaṃ fused."
+   ],
+   "plain_english": "For the formless, the rule is a single-door shrine."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "caturdvāraṃ",
+     "gloss": "four-door",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "made",
+     "grounds": "gerundive",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tatrāyaṃ",
+     "gloss": "there",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyamo",
+     "gloss": "this-rule",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the four-door shrine subject to this rule?",
+   "premises": [
+    "A four-door shrine is to be made.",
+    "This rule does not apply there."
+   ],
+   "inference": "The single-door rule excludes four-door shrines.",
+   "uncertainties": [
+    "tatrāyaṃ fused."
+   ],
+   "plain_english": "A four-door shrine is to be made; this rule does not apply there."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "liṅgasyābhimukhaṃ",
+     "gloss": "linga-facing",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "which",
+     "grounds": "relative with particle",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tatpūrvamiṣyate",
+     "gloss": "that",
+     "grounds": "compound",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Which door is considered the eastern one facing the linga?",
+   "premises": [
+    "The door facing the linga is named.",
+    "That door is considered the eastern one."
+   ],
+   "inference": "The linga-facing door is the eastern door.",
+   "uncertainties": [
+    "tatpūrvamiṣyate fused."
+   ],
+   "plain_english": "The door facing the linga is considered the eastern one."
+  }
+ ]
+}

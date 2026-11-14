@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating the prescribed procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa+uttara+śataṃ",
+     "gloss": "eight-more-hundred",
+     "grounds": "numerical compound denoting one hundred and eight repetitions",
+     "morph": "compound: aṣṭa+uttara+śata (n.acc.sg)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive expressing completion of mantra recitation prior to offering",
+     "morph": "(gerund, √jap)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental pronoun referring to the means or formula of offering",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive optative enjoining ritual dedication of the recitation",
+     "morph": "3.sg.opt.act (√sam-ṛ)"
+    }
+   ],
+   "question": "By what concluding act must a one-hundred-eightfold recitation be ritually dedicated?",
+   "premises": [
+    "The prescribed recitation is performed in this manner.",
+    "The recitation is completed one hundred and eight times.",
+    "A completed recitation requires a ritual act of dedication."
+   ],
+   "inference": "Therefore, after reciting thus one hundred and eight times, one should dedicate the recitation with this.",
+   "uncertainties": [
+    "The referent of anena is not explicitly specified in this verse."
+   ],
+   "plain_english": "Having thus recited one hundred and eight times, one should offer the recitation with this."
+  }
+ ]
+}

@@ -50,6 +50,51 @@ def song_craft(work: str, originals: dict) -> dict:
     return result
 
 
+def _source_audited(work: str) -> bool:
+    """True iff this work has a byte-pinned source audit.
+
+    Two accepted record shapes, both hash-verified before any source is
+    reconstructed (never serve bytes we did not re-hash):
+      - source/manifest.json (source-intake/1 intake manifest), or
+      - source/record.json (svatantrya-source-record/1) whose every volume
+        sha256 matches the file currently on disk (resolved relative to the
+        work dir). A record with a stale/unverifiable volume does NOT pass.
+    """
+    if (ROOT / work / 'source' / 'manifest.json').is_file():
+        return True
+    rec = ROOT / work / 'source' / 'record.json'
+    if not rec.is_file():
+        return False
+    try:
+        d = json.loads(rec.read_text(encoding='utf-8'))
+    except (OSError, ValueError):
+        return False
+    if d.get('format') != 'svatantrya-source-record/1':
+        return False
+    vols = [v for v in d.get('volumes', []) if v.get('file') and v.get('sha256')]
+    if not vols:
+        return False
+    ok = 0
+    for v in vols:
+        f = v['file']
+        # Volume paths appear in two conventions in the wild: relative to the
+        # work dir ("source/edition.txt") and relative to the repo root
+        # ("../ipvv/site/..."). Accept either, but ONLY on an exact sha match.
+        cands = [Path(f)] if Path(f).is_absolute() else [
+            (ROOT / work / f), (ROOT / f), (ROOT.parent / f)]
+        hit = False
+        for p in cands:
+            try:
+                if p.is_file() and hashlib.sha256(p.read_bytes()).hexdigest() == v['sha256']:
+                    hit = True
+                    break
+            except OSError:
+                pass
+        if hit:
+            ok += 1
+    return ok == len(vols)
+
+
 def displayed_sources(work: str, eligible: set[str], originals: dict) -> dict:
     """Display existing public source with provenance; never create an edition."""
     path = ROOT.parent / 'ipvv/site/data/translations' / f'{work}.json'
@@ -69,7 +114,9 @@ def displayed_sources(work: str, eligible: set[str], originals: dict) -> dict:
     # legacy mappings need a source audit before they become model evidence.
     try:
         import workcfg
-        if work not in ('paramarthasara','kramastotra') and not (ROOT / work / 'source/manifest.json').is_file():
+        if work in SOURCE_COVERAGE_HOLDS:
+            return result  # explicit source-coverage hold: never reconstruct
+        if work not in ('paramarthasara','kramastotra') and not _source_audited(work):
             return result
         cfg=workcfg.work_config(work)
         spans=workcfg.source_spans(work) if cfg else None
@@ -81,6 +128,17 @@ def displayed_sources(work: str, eligible: set[str], originals: dict) -> dict:
             for target,row in originals.get('t1',{}).items():
                 tokens=spans.get(row.get('verse'))
                 if target not in result and tokens:
+                    # Served text must never carry print apparatus (page marks,
+                    # editorial refs, hyphen-fragments, bare-pipe runs). Use the
+                    # estate's single paratext doctrine (shastra_merge), same as
+                    # proof_record's alignment cleaning. Daṇḍas read as text
+                    # punctuation downstream, not apparatus.
+                    try:
+                        from shastra_merge import is_paratext as _is_para
+                        shown=[t for t in tokens if not _is_para(t)]
+                        tokens=shown or tokens
+                    except ImportError:
+                        pass
                     result[target]={'text':' '.join(tokens),'source_file':name,'source_sha256':digest,
                         'source_lines':row.get('source_lines'),
                         'note':'Parser-reconstructed tokens; consult the edition for exact typography.'}

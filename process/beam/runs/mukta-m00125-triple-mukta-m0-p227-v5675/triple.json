@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p227",
+ "items": [
+  {
+   "verse": 5675,
+   "rows": [
+    {
+     "surface": "pūrvadakṣiṇa",
+     "gloss": "front-right",
+     "grounds": "compound indicating direction or position of the hand; taken as pūrva-dakṣiṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "hastastu",
+     "gloss": "hand-and",
+     "grounds": "fused form hastas + tu; sandhi noted but token kept whole",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kaṭako",
+     "gloss": "bracelet",
+     "grounds": "ornament on the hand",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vakradaṇḍayuk",
+     "gloss": "curved-staff-bearing",
+     "grounds": "compound vakra-daṇḍa-yuj describing what the hand holds",
+     "morph": "compound"
+    }
+   ],
+   "question": "What attributes characterize the front-right hand of this described form?",
+   "premises": [
+    "The subject is the front-right hand.",
+    "That hand is adorned with a bracelet.",
+    "That hand bears a curved staff."
+   ],
+   "inference": "The front-right hand is characterized by wearing a bracelet and holding a curved staff.",
+   "uncertainties": [
+    "Whether pūrvadakṣiṇa qualifies the hand as front-right or east-south in this iconographic context."
+   ],
+   "plain_english": "The front-right hand is adorned with a bracelet and holds a curved staff."
+  }
+ ]
+}

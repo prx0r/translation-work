@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p166",
+ "items": [
+  {
+   "verse": 4150,
+   "rows": [
+    {
+     "surface": "saṃkalya",
+     "gloss": "having-resolved",
+     "grounds": "absolutive of sam-kḷp, expressing prior determination of intent",
+     "morph": "gerund (sam-kḷp)"
+    },
+    {
+     "surface": "vakṣyamāṇena",
+     "gloss": "to-be-stated",
+     "grounds": "future passive participle of vac, qualifying vartmanā",
+     "morph": "fut.pass.part.instr.sg.n (vac)"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "by-method",
+     "grounds": "instrumental indicating the means or procedure to be followed",
+     "morph": "n.instr.sg (vartman)"
+    }
+   ],
+   "question": "What prescribed method must follow the practitioner’s resolve in the ritual sequence?",
+   "premises": [
+    "The practitioner first forms a resolve.",
+    "A method is yet to be stated.",
+    "That stated method serves as the means of procedure."
+   ],
+   "inference": "After resolving, the practitioner must proceed according to the method that will be stated.",
+   "uncertainties": [
+    "The specific content of the method is deferred to subsequent verses."
+   ],
+   "plain_english": "Having made a resolve, one should proceed by the method that will now be explained."
+  }
+ ]
+}

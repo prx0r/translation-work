@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "ṛjujālakramādyaṃ",
+     "gloss": "straight-lattice-sequence-first",
+     "grounds": "compound adjective naming the first item in the straight lattice sequence",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of bhū, third singular active",
+     "morph": "3.sg.act.opt-bhū"
+    },
+    {
+     "surface": "gavākṣaṃ",
+     "gloss": "window",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kuñjarākṣakam",
+     "gloss": "elephant-eye",
+     "grounds": "accusative singular neuter noun or adjective",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which architectural feature is first in the straight lattice sequence and may be a window or elephant-eye?",
+   "premises": [
+    "straight lattice sequence names first feature",
+    "the feature may be a window",
+    "the feature may be an elephant-eye"
+   ],
+   "inference": "The first straight-lattice feature is identified as either a window or an elephant-eye.",
+   "uncertainties": [
+    "whether kuñjarākṣakam is a distinct feature or an epithet of gavākṣaṃ"
+   ],
+   "plain_english": "The first in the straight lattice sequence may be a window, an elephant-eye."
+  }
+ ]
+}

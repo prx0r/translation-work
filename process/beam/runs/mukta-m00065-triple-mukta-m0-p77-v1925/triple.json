@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "bhūṣaṇādīn",
+     "gloss": "ornaments-and-others",
+     "grounds": "compound of bhūṣaṇa and ādi; accusative plural object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "gurordatvā",
+     "gloss": "to-guru-having-given",
+     "grounds": "fused sandhi form guroḥ+datvā; gerund of √dā with guru as recipient",
+     "morph": "guru(m.gen.sg)+gerund(√dā)"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "performer",
+     "grounds": "agent noun from √kṛ; nominative subject of the injunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādyāt",
+     "gloss": "should-eat",
+     "grounds": "optative expressing ritual injunction; governs carukaṃ",
+     "morph": "3.sg.opt.act(√ad)"
+    },
+    {
+     "surface": "carukaṃ",
+     "gloss": "caru-oblation",
+     "grounds": "ritual food offering; accusative object of ādyāt",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable marking subsequent action in the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions must the ritual performer complete after giving ornaments to the guru?",
+   "premises": [
+    "The kartā gives ornaments and other items to the guru.",
+    "After this giving, the kartā is enjoined to partake of the caru.",
+    "The term tataḥ indicates that consuming the caru follows the prior act."
+   ],
+   "inference": "Therefore the ritual performer must first gift ornaments and the like to the guru and then eat the caru-oblation.",
+   "uncertainties": [],
+   "plain_english": "Having given ornaments and other offerings to the guru, the performer should then partake of the caru."
+  }
+ ]
+}

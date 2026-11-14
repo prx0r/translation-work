@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "navadurgā",
+     "gloss": "nine-durgas",
+     "grounds": "compound naming the nine forms of Durgā; nominative subject in the enumeration",
+     "morph": "compound=nava-durgā; f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking enumerated goddess forms",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātaṅgī",
+     "gloss": "matangi",
+     "grounds": "name of the goddess Mātaṅgī; nominative subject in the enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mataṅgamunipūjitā",
+     "gloss": "worshipped-by-sage-matanga",
+     "grounds": "compound epithet qualifying Mātaṅgī; pūjitā is a past passive participle used adjectivally",
+     "morph": "compound=mataṅga-muni-pūjitā; f.nom.sg"
+    }
+   ],
+   "question": "Which additional goddess forms are named in this stage of the enumeration?",
+   "premises": [
+    "The verse names Navadurgā as a goddess form.",
+    "The verse names Mātaṅgī as another goddess form.",
+    "Mātaṅgī is characterized as worshipped by the sage Mataṅga."
+   ],
+   "inference": "Navadurgā and Mātaṅgī, the latter worshipped by the sage Mataṅga, are included among the enumerated goddess forms.",
+   "uncertainties": [],
+   "plain_english": "Also named are the nine Durgās and Mātaṅgī, who is worshipped by the sage Mataṅga."
+  }
+ ]
+}

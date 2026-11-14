@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "rājñāṃ",
+     "gloss": "of-kings",
+     "grounds": "genitive plural of rājan",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pañcatalaṃ",
+     "gloss": "five-storey",
+     "grounds": "compound pañca+tala; accusative or nominative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataṃ",
+     "gloss": "opinion",
+     "grounds": "nominative singular neuter of mata",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṭṭabhṛtāṃ",
+     "gloss": "of-crowned",
+     "grounds": "genitive plural of paṭṭabhṛt",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "nominative singular neuter pronoun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What number of storeys is assigned to kings and to crowned rulers?",
+   "premises": [
+    "Kings receive five-storey dwellings.",
+    "Crowned rulers receive a different storey count.",
+    "The verse records an opinion."
+   ],
+   "inference": "The text distinguishes royal residence heights by ruler grade.",
+   "uncertainties": [
+    "Whether pañcatalaṃ modifies a palace or another dwelling is not explicit."
+   ],
+   "plain_english": "For kings, a five-storey dwelling is given; for crowned rulers, another count is held as opinion."
+  }
+ ]
+}

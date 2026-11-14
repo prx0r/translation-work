@@ -1,0 +1,57 @@
+{
+ "song": "kul-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "dīpanāśe",
+     "gloss": "on-lamp-destruction",
+     "grounds": "locative of dīpanāśa (lamp-destruction)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntyartham",
+     "gloss": "for-peace",
+     "grounds": "compound śānti+artham (for peace)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīcakraṃ",
+     "gloss": "śrīcakra",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "causative optative of kṛ",
+     "morph": "3.sg.caus.opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address to Pārvatī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "When should one make the śrīcakra?",
+   "premises": [
+    "lamp destruction prompts peace rite",
+    "śrīcakra making follows lamp loss",
+    "addressed to dear goddess"
+   ],
+   "inference": "After a lamp is destroyed, one should make a śrīcakra for peace.",
+   "uncertainties": [
+    "dīpanāśe may be read as locative or ablative depending on context"
+   ],
+   "plain_english": "Dear one, when the lamp is destroyed, one should make the śrīcakra for peace."
+  }
+ ]
+}

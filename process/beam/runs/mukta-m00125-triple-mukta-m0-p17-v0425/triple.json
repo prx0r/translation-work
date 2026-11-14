@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "sandhyā+parārdha+kālāt",
+     "gloss": "from-twilight-later-half-time",
+     "grounds": "ablative compound indicating temporal starting point; sandhyā = twilight, parārdha = later half, kāla = time",
+     "morph": "compound: sandhyā+parārdha+kāla.abl.sg.m"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvārdhe",
+     "gloss": "in-earlier-half",
+     "grounds": "locative indicating the portion in which something occurs; pūrva = earlier, ardha = half",
+     "morph": "compound: pūrva+ardha.loc.sg.n"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "verb expressing presence or occurrence under the stated condition",
+     "morph": "3.sg.pres.pass.√vid"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle reinforcing the condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what temporal condition is an occasion situated in the earlier half relative to twilight?",
+   "premises": [
+    "A daily rite may already be in progress.",
+    "An occasional rite may arise during that ongoing daily rite.",
+    "The timing is measured from the later half of twilight."
+   ],
+   "inference": "If the occasion exists in the earlier half from the later half of twilight, that temporal condition applies.",
+   "uncertainties": [
+    "The exact ritual action governed by this condition is carried over from the preceding context."
+   ],
+   "plain_english": "If it occurs in the earlier half, counted from the later half of twilight, then that condition holds."
+  }
+ ]
+}

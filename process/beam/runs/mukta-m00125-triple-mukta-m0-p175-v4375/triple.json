@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p175",
+ "items": [
+  {
+   "verse": 4375,
+   "rows": [
+    {
+     "surface": "nābhideśe",
+     "gloss": "in-navel-region",
+     "grounds": "locative indicating the site of the action",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "genitive indicating those affected",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-arise",
+     "grounds": "expresses potential result",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "sarvātmakaṃ",
+     "gloss": "all-encompassing",
+     "grounds": "qualifies the nature of the fear",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhayam",
+     "gloss": "fear",
+     "grounds": "the resulting effect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of fear arises for enemies when the navel region is targeted?",
+   "premises": [
+    "The navel region is specified as the site of effect.",
+    "Enemies are identified as those affected.",
+    "The resulting condition is described as all-encompassing fear."
+   ],
+   "inference": "Targeting the navel region produces an all-encompassing fear in enemies.",
+   "uncertainties": [],
+   "plain_english": "But in the navel region, an all-encompassing fear may arise for enemies."
+  }
+ ]
+}

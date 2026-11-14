@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "pañcaṣoḍhāparo",
+     "gloss": "five-ṣoḍhā-devoted",
+     "grounds": "compound of pañca, ṣoḍhā, and para as given by legacy hint; analyzed as one fused token",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive of root bhū",
+     "morph": "absolutive (root bhū)"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "on-it",
+     "grounds": "locative singular feminine pronoun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nyāsādikaṃ",
+     "gloss": "installation-etc",
+     "grounds": "compound of nyāsa and ādi with neuter accusative singular ending",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "cavet",
+     "gloss": "one-should-perform",
+     "grounds": "optative form, root taken as cav",
+     "morph": "3.sg.opt (root cav)"
+    }
+   ],
+   "question": "How should a five-ṣoḍhā-devoted practitioner perform nyāsa and related rites on that object?",
+   "premises": [
+    "practitioner becomes five-ṣoḍhā devoted",
+    "rites are performed on that object",
+    "nyāsa and related rites are enjoined"
+   ],
+   "inference": "The verse enjoins nyāsa and related rites by a five-ṣoḍhā-devoted practitioner on that object.",
+   "uncertainties": [
+    "exact root and conjugation of cavet remain uncertain",
+    "precise scope of nyāsādikaṃ is not specified"
+   ],
+   "plain_english": "Having become five-ṣoḍhā-devoted, one should perform nyāsa and the rest on it."
+  }
+ ]
+}

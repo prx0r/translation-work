@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p484",
+ "items": [
+  {
+   "verse": 12100,
+   "rows": [
+    {
+     "surface": "mantrās",
+     "gloss": "mantras",
+     "grounds": "object of request; sandhi form of mantrān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "points to previously mentioned mantras",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "rule",
+     "grounds": "first member of compound with pūrvān",
+     "morph": "compound:vidhi+prior-member"
+    },
+    {
+     "surface": "pūrvān",
+     "gloss": "preceded-by",
+     "grounds": "second member qualifying mantras as preceded by rule",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the instruction",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "tell",
+     "grounds": "imperative request addressed to the speaker",
+     "morph": "2.sg.act.imp √brū"
+    },
+    {
+     "surface": "yatsādhanāj",
+     "gloss": "from-whose-practice",
+     "grounds": "relative compound with ablative sense; sandhi before jayaḥ",
+     "morph": "compound:yat+sādhanāt n.abl.sg"
+    },
+    {
+     "surface": "jayaḥ",
+     "gloss": "victory",
+     "grounds": "result arising from the practice",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which rule-preceded mantras grant victory through their practice?",
+   "premises": [
+    "The speaker requests specific mantras.",
+    "Those mantras are to be given together with their rules.",
+    "The practice of those mantras leads to victory."
+   ],
+   "inference": "The requested teaching must identify the mantras, their prescribed procedure, and their victorious efficacy.",
+   "uncertainties": [
+    "The exact scope of vidhi is not specified in this verse."
+   ],
+   "plain_english": "Tell me those mantras together with their rules, by whose practice victory is attained."
+  }
+ ]
+}

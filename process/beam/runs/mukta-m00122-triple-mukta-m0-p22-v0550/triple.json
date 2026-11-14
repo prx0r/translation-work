@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "mātṛkādyena",
+     "gloss": "by-mātṛkā-and-so-on",
+     "grounds": "instrumental of mātṛkā-ādi",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tannāmnā",
+     "gloss": "by-that-name",
+     "grounds": "instrumental of tat-nāman",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "namontena",
+     "gloss": "with-namonta",
+     "grounds": "instrumental of namonta",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "causative optative third singular",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "How should the guru be worshipped after offering bali with the sixteen-syllable mantra?",
+   "premises": [
+    "Bali is offered with sixteen-syllable mantra.",
+    "Guru is worshipped by mātṛkā etc.",
+    "Worship uses that name and namonta."
+   ],
+   "inference": "Worship proceeds through mātṛkā, that name, and namonta.",
+   "uncertainties": [
+    "Exact referent of mātṛkādyena is not explicit."
+   ],
+   "plain_english": "One should worship with mātṛkā and so on, by that name, with namonta."
+  }
+ ]
+}

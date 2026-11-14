@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p325",
+ "items": [
+  {
+   "verse": 8125,
+   "rows": [
+    {
+     "surface": "matsyabhakṣaṇam",
+     "gloss": "fish-eating",
+     "grounds": "compound denoting the act of eating fish; used here as a designation for the pleasure described",
+     "morph": "matsya+bhakṣaṇa.comp.n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker introducing the stated designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "past passive participle indicating what has been declared",
+     "morph": "vac.ppp.n.nom.sg"
+    },
+    {
+     "surface": "muktimārganidarśakaiḥ",
+     "gloss": "by-liberation-path-revealers",
+     "grounds": "compound referring to those who show or indicate the path to liberation",
+     "morph": "mukti+mārga+nidarśaka.comp.m.inst.pl"
+    }
+   ],
+   "question": "What designation do revealers of the path to liberation assign to this base pleasure?",
+   "premises": [
+    "The previously described pleasure is characterized as base.",
+    "Revealers of the path to liberation assign it a specific designation.",
+    "The designation they assign is fish-eating."
+   ],
+   "inference": "Therefore, revealers of the path to liberation call this base pleasure fish-eating.",
+   "uncertainties": [
+    "The precise metaphorical force of 'fish-eating' in this doctrinal context is not explicit in the verse alone."
+   ],
+   "plain_english": "Those who show the path to liberation call it 'fish-eating'."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p216",
+ "items": [
+  {
+   "verse": 5400,
+   "rows": [
+    {
+     "surface": "nandīśvarānugrahaḥ",
+     "gloss": "nandishvara-grace",
+     "grounds": "compound: nandīśvara (Nandishvara) + anugrahaḥ (grace); grace of Nandishvara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvevaṃ",
+     "gloss": "but-thus",
+     "grounds": "fused particles: tu (but/and) + evam (thus); internal sandhi noted, token kept whole",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "like-that",
+     "grounds": "comparative adverb indicating similarity to the preceding case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuprasādakṛt",
+     "gloss": "vishnu-favor-causing",
+     "grounds": "compound: viṣṇu (Vishnu) + prasāda (favor) + kṛt (causing/making); agent noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What parallel divine graces are associated with the depicted form?",
+   "premises": [
+    "The depicted form is associated with Nandishvara's grace.",
+    "The same form is likewise associated with causing Vishnu's favor.",
+    "Both associations follow the same manner indicated by the comparison."
+   ],
+   "inference": "The described form corresponds to obtaining grace from both Nandishvara and Vishnu.",
+   "uncertainties": [
+    "The exact syntactic role of these nominatives relative to the preceding imperative kuryād is implicit."
+   ],
+   "plain_english": "Thus there is Nandishvara's grace, and likewise that which brings Vishnu's favor."
+  }
+ ]
+}

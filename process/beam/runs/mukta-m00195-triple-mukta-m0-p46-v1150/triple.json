@@ -1,0 +1,99 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the deity described in the preceding verses",
+     "morph": "pron.dem.n.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "foot",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "member of compound qualifying foot",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "yugala",
+     "gloss": "pair",
+     "grounds": "member of compound indicating two lotus feet",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "cyuta",
+     "gloss": "fallen",
+     "grounds": "past participle as compound member describing nectar",
+     "morph": "compound-member.ppp(cyu)"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "pīyūṣa",
+     "gloss": "nectar",
+     "grounds": "member of compound denoting the flowing substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "-",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "dhārayā",
+     "gloss": "by-stream",
+     "grounds": "final member of compound in instrumental sense indicating means or accompaniment",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What nourishing substance flows from the deity's pair of lotus feet?",
+   "premises": [
+    "The deity possesses a pair of lotus feet.",
+    "Nectar falls from that pair of lotus feet.",
+    "The fallen nectar forms a continuous stream."
+   ],
+   "inference": "The devotee is in contact with a stream of nectar flowing from the deity's lotus feet.",
+   "uncertainties": [
+    "The syntactic role of the instrumental compound in the larger sentence is not fully determined without the following verse."
+   ],
+   "plain_english": "By the stream of nectar fallen from that pair of lotus feet."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "song": "net-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "dagdhaṃ",
+     "gloss": "burnt",
+     "grounds": "past participle of dah, neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-meditate",
+     "grounds": "causative optative third singular of bhū",
+     "morph": "v.3sg.opt.act"
+    }
+   ],
+   "question": "What should be meditated upon after burning?",
+   "premises": [
+    "The burnt offering is to be contemplated.",
+    "Meditation follows the ritual act."
+   ],
+   "inference": "The practitioner should meditate on the burnt offering.",
+   "uncertainties": [
+    "The exact object of meditation is not specified in this two-word verse."
+   ],
+   "plain_english": "One should meditate on the burnt offering."
+  }
+ ]
+}

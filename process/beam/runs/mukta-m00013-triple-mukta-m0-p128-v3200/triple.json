@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "kalpayāmi",
+     "gloss": "i-envision",
+     "grounds": "first person singular present active verb expressing mental assignment or formulation",
+     "morph": "1.sg.pres.act (√kḷp)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "ritual salutation or homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upacāreṣu",
+     "gloss": "in-offerings",
+     "grounds": "ritual services or offerings in which the act is situated",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the stated procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "prescribed ritual method or rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle marking the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At what point in the offerings is obeisance to be ritually assigned?",
+   "premises": [
+    "The speaker envisions obeisance as part of the ritual act.",
+    "This envisioning of obeisance occurs afterwards.",
+    "The act takes place within the context of offerings."
+   ],
+   "inference": "Therefore, the prescribed procedure is to assign obeisance after the offerings.",
+   "uncertainties": [
+    "Whether kalpayāmi implies mental visualization or verbal utterance is context-dependent."
+   ],
+   "plain_english": "I envision obeisance afterwards within the offerings; this is the prescribed procedure."
+  }
+ ]
+}

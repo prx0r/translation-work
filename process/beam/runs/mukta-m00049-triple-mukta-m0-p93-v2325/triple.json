@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "dvijāt",
+     "gloss": "from-the-twice-born",
+     "grounds": "ablative source of the answer; refers to a twice-born person",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prāpta",
+     "gloss": "having-received",
+     "grounds": "past participle indicating prior attainment of the answer",
+     "morph": "m.nom.sg.ppp(pra-āp)"
+    },
+    {
+     "surface": "uttaraḥ",
+     "gloss": "answer",
+     "grounds": "the response obtained after the preceding questions",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "piṇḍān",
+     "gloss": "balls",
+     "grounds": "ritual lumps or portions to be arranged",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "racayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive injunction for the ritual action",
+     "morph": "3.sg.optative.active(rac)"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "specifies the number of balls to be arranged",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What ritual arrangement must follow upon receiving the twice-born's answer to the preceding questions?",
+   "premises": [
+    "An answer is received from the twice-born.",
+    "The answer follows the questions concerning the prior portions.",
+    "Twelve balls are the objects to be arranged."
+   ],
+   "inference": "After receiving the twice-born's answer, the practitioner must arrange twelve balls.",
+   "uncertainties": [
+    "The exact ritual nature of the piṇḍas is not specified within this verse alone."
+   ],
+   "plain_english": "O beloved, having received the answer from the twice-born, one should arrange twelve balls."
+  }
+ ]
+}

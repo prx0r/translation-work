@@ -1,0 +1,1058 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "catasro",
+     "gloss": "four",
+     "grounds": "numeral qualifying circumambulations",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "vāsudevasya",
+     "gloss": "of-Vāsudeva",
+     "grounds": "deity name in possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śivasyā+",
+     "gloss": "of-Śiva",
+     "grounds": "deity name; final vowel fused with following element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rdhā",
+     "gloss": "half",
+     "grounds": "second member of compound indicating half",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradakṣiṇā",
+     "gloss": "circumambulations",
+     "grounds": "ritual act of clockwise circumambulation",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many circumambulations are prescribed for Vāsudeva and for Śiva respectively?",
+   "premises": [
+    "Four circumambulations belong to Vāsudeva.",
+    "Half that number belongs to Śiva.",
+    "The acts are ritual circumambulations."
+   ],
+   "inference": "Vāsudeva receives four circumambulations while Śiva receives two.",
+   "uncertainties": [
+    "The exact syntactic relation of śivasyā+ rdhā as a fused form is interpreted from context."
+   ],
+   "plain_english": "One should perform four circumambulations for Vāsudeva and half as many for Śiva."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "kuryān+",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśayet+",
+     "gloss": "one-should-show",
+     "grounds": "prescriptive optative with causative sense",
+     "morph": "3.sg.act-optative √dṛś"
+    },
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "body part not to be shown",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃmukhaṃ",
+     "gloss": "facing",
+     "grounds": "manner of crossing the doorway",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvāralaṅghanam",
+     "gloss": "door-crossing",
+     "grounds": "compound denoting the act of crossing the door",
+     "morph": "n.nom.sg compound: dvāra+laṅghana"
+    }
+   ],
+   "question": "What bodily orientation must be maintained when crossing the temple doorway?",
+   "premises": [
+    "One should not show one's back.",
+    "Crossing the doorway must be done facing forward.",
+    "The instruction governs ritual movement at the door."
+   ],
+   "inference": "The doorway must be crossed while facing it, without turning one's back.",
+   "uncertainties": [],
+   "plain_english": "One should not show one's back; the crossing of the doorway must be done facing forward."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstravicāro+",
+     "gloss": "scripture-consideration",
+     "grounds": "compound naming deliberation on scripture; final vowel fused",
+     "morph": "m.nom.sg compound: śāstra+vicāra"
+    },
+    {
+     "surface": "'yam",
+     "gloss": "this",
+     "grounds": "demonstrative with elided initial vowel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttareśānadevatāḥ",
+     "gloss": "north-Īśāna-deities",
+     "grounds": "compound naming deities of the north and Īśāna directions",
+     "morph": "f.nom.pl compound: uttara+īśāna+devatā"
+    }
+   ],
+   "question": "What topic concludes with the deities of the north and Īśāna directions?",
+   "premises": [
+    "The statement marks a conclusion.",
+    "The subject is consideration of scripture.",
+    "The section concerns deities of the north and Īśāna."
+   ],
+   "inference": "This concludes the scriptural consideration regarding the deities of the north and Īśāna.",
+   "uncertainties": [],
+   "plain_english": "Thus ends this scriptural consideration concerning the deities of the north and Īśāna."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "praṇālaṃ",
+     "gloss": "drain",
+     "grounds": "architectural water outlet",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayed+",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive causative optative",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified agent performing the action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jagatyāṃ",
+     "gloss": "on-platform",
+     "grounds": "location for the drain",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdiśam",
+     "gloss": "in-four-directions",
+     "grounds": "compound indicating orientation to all four directions",
+     "morph": "n.acc.sg compound: catur+diś"
+    }
+   ],
+   "question": "Where and in what directional arrangement should a wise person construct the drain?",
+   "premises": [
+    "A wise person should cause a drain to be made.",
+    "The drain is to be placed on the platform.",
+    "The drain should be oriented to the four directions."
+   ],
+   "inference": "The wise person should construct a drain on the platform facing the four directions.",
+   "uncertainties": [
+    "Whether caturdiśam means four separate drains or orientation in four directions is context-dependent."
+   ],
+   "plain_english": "A wise person should make a drain on the platform oriented to the four directions."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇuśivārkendraguhāḥ",
+     "gloss": "Brahmā-Viṣṇu-Śiva-Sun-Indra-Guhā",
+     "grounds": "compound listing six deities",
+     "morph": "m.nom.pl compound: brahma+viṣṇu+śiva+arka+indra+guhā"
+    },
+    {
+     "surface": "pūrvāparāṅmukhāḥ",
+     "gloss": "east-west-facing",
+     "grounds": "compound indicating directional orientation",
+     "morph": "m.nom.pl compound: pūrva+apara+aṅmukha"
+    }
+   ],
+   "question": "Which deities are specified as facing east and west in this arrangement?",
+   "premises": [
+    "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā are named.",
+    "These deities are described as facing east and west.",
+    "The verse specifies their orientation."
+   ],
+   "inference": "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā should face east and west.",
+   "uncertainties": [
+    "The exact assignment of east versus west to individual deities is not specified."
+   ],
+   "plain_english": "Brahmā, Viṣṇu, Śiva, the Sun, Indra, and Guhā should face east and west."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "gaṇeśo",
+     "gloss": "Gaṇeśa",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanado",
+     "gloss": "Kubera",
+     "grounds": "deity name meaning wealth-giver",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "Lakṣmī",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puradvāre",
+     "gloss": "at-city-gate",
+     "grounds": "compound indicating location at the city gate",
+     "morph": "n.loc.sg compound: pura+dvāra"
+    },
+    {
+     "surface": "sukhāvahāḥ",
+     "gloss": "happiness-bringing",
+     "grounds": "compound describing beneficial effect",
+     "morph": "m.nom.pl compound: sukha+āvaha"
+    }
+   ],
+   "question": "Which deities bring happiness when placed at the city gate?",
+   "premises": [
+    "Gaṇeśa, Kubera, and Lakṣmī are named.",
+    "Their location is the city gate.",
+    "They are described as bringing happiness."
+   ],
+   "inference": "Gaṇeśa, Kubera, and Lakṣmī bring happiness when situated at the city gate.",
+   "uncertainties": [],
+   "plain_english": "Gaṇeśa, Kubera, and Lakṣmī, placed at the city gate, bring happiness."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "mātaro",
+     "gloss": "Mothers",
+     "grounds": "group of mother goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dhanadaś+",
+     "gloss": "Kubera",
+     "grounds": "deity name; final consonant fused with following particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca+",
+     "gloss": "and",
+     "grounds": "connective particle; vowel fused with following particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "predicate describing the deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dakṣiṇadiṅmukhāḥ",
+     "gloss": "south-direction-facing",
+     "grounds": "compound indicating orientation to the south",
+     "morph": "f.nom.pl compound: dakṣiṇa+diś+mukha"
+    }
+   ],
+   "question": "Which deities are auspicious when facing the southern direction?",
+   "premises": [
+    "The Mothers and Kubera are named.",
+    "They are described as auspicious.",
+    "They face the southern direction."
+   ],
+   "inference": "The Mothers and Kubera are auspicious when facing south.",
+   "uncertainties": [],
+   "plain_english": "The Mothers and Kubera are auspicious when facing the southern direction."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "anye",
+     "gloss": "other",
+     "grounds": "refers to deities not previously specified",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vidiṅmukhā",
+     "gloss": "intermediate-direction-facing",
+     "grounds": "compound indicating orientation to intermediate directions",
+     "morph": "m.nom.pl compound: vidiś+mukha"
+    },
+    {
+     "surface": "devā",
+     "gloss": "deities",
+     "grounds": "general class of gods",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyāḥ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing prohibition",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverb reinforcing prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition are other deities prohibited from facing intermediate directions?",
+   "premises": [
+    "Other deities are considered.",
+    "Facing intermediate directions is the condition in question.",
+    "The text states they should never be made so."
+   ],
+   "inference": "Other deities must never be installed facing the intermediate directions.",
+   "uncertainties": [],
+   "plain_english": "Other deities should never be made to face the intermediate directions."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "sūryād+",
+     "gloss": "from-Sun",
+     "grounds": "starting point in circumambulation sequence; final consonant fused",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "gaṇeśo",
+     "gloss": "Gaṇeśa",
+     "grounds": "deity in sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇuś+",
+     "gloss": "Viṣṇu",
+     "grounds": "deity in sequence; final consonant fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍī",
+     "gloss": "Caṇḍī",
+     "grounds": "goddess in sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śambhuḥ",
+     "gloss": "Śambhu",
+     "grounds": "deity in sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pradakṣiṇe",
+     "gloss": "in-circumambulation",
+     "grounds": "locative indicating the ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What sequence of deities follows the Sun during circumambulation?",
+   "premises": [
+    "The sequence begins from the Sun.",
+    "Gaṇeśa, Viṣṇu, Caṇḍī, and Śambhu are listed.",
+    "The context is circumambulation."
+   ],
+   "inference": "In circumambulation, the sequence after the Sun is Gaṇeśa, Viṣṇu, Caṇḍī, and Śambhu.",
+   "uncertainties": [],
+   "plain_english": "In circumambulation, after the Sun come Gaṇeśa, Viṣṇu, Caṇḍī, and Śambhu."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-Gaṇeśa",
+     "grounds": "possessive relation to temple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-temple",
+     "grounds": "location of the sequence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadvac+",
+     "gloss": "likewise",
+     "grounds": "comparative adverb; final consonant fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍī",
+     "gloss": "Caṇḍī",
+     "grounds": "deity in sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṃbhur+",
+     "gloss": "Śambhu",
+     "grounds": "deity in sequence; final consonant fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "harī",
+     "gloss": "Hari",
+     "grounds": "deity name for Viṣṇu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raviḥ",
+     "gloss": "Sun",
+     "grounds": "deity name for the Sun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What deity sequence applies likewise in the temple of Gaṇeśa?",
+   "premises": [
+    "The context is the temple of Gaṇeśa.",
+    "The sequence is stated to be likewise.",
+    "Caṇḍī, Śambhu, Hari, and the Sun are listed."
+   ],
+   "inference": "In Gaṇeśa's temple, the corresponding sequence is Caṇḍī, Śambhu, Hari, and the Sun.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in the temple of Gaṇeśa, the sequence is Caṇḍī, Śambhu, Hari, and the Sun."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇeśāyatanam",
+     "gloss": "Gaṇeśa-shrine",
+     "grounds": "compound naming the shrine of Gaṇeśa",
+     "morph": "n.nom.sg compound: gaṇeśa+āyatana"
+    }
+   ],
+   "question": "What subject is concluded by this statement about the Gaṇeśa shrine?",
+   "premises": [
+    "The statement marks a conclusion.",
+    "The subject named is the shrine of Gaṇeśa.",
+    "The preceding rules pertain to that shrine."
+   ],
+   "inference": "This concludes the section concerning the shrine of Gaṇeśa.",
+   "uncertainties": [],
+   "plain_english": "Thus concludes the section on the shrine of Gaṇeśa."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "sthāpyās+",
+     "gloss": "to-be-established",
+     "grounds": "gerundive prescribing installation; final consonant fused",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tasthā+",
+     "gloss": "of-that",
+     "grounds": "demonstrative element; fused with following element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vatārasya",
+     "gloss": "of-avatāra",
+     "grounds": "refers to a specific incarnation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūrtayo",
+     "gloss": "images",
+     "grounds": "icons or forms to be installed",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dvārakāṃ",
+     "gloss": "Dvārakā",
+     "grounds": "place name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the images of that avatāra likewise be established?",
+   "premises": [
+    "Images of that avatāra are to be established.",
+    "Dvārakā is named as the location.",
+    "The instruction is given as likewise applicable."
+   ],
+   "inference": "The images of that avatāra should likewise be established in Dvārakā.",
+   "uncertainties": [
+    "The referent of tasthā+ vatārasya is not explicit in this verse alone."
+   ],
+   "plain_english": "Likewise, the images of that avatāra should be established in Dvārakā."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "mātaro",
+     "gloss": "Mothers",
+     "grounds": "group of mother goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mūrtayo",
+     "gloss": "images",
+     "grounds": "icons or forms",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devā",
+     "gloss": "deities",
+     "grounds": "general class of gods",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yoginyo",
+     "gloss": "Yoginīs",
+     "grounds": "group of female attendant deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhairavādayaḥ",
+     "gloss": "Bhairava-and-others",
+     "grounds": "compound indicating Bhairava and similar deities",
+     "morph": "m.nom.pl compound: bhairava+ādi"
+    }
+   ],
+   "question": "Which groups of divine figures are enumerated for installation in this context?",
+   "premises": [
+    "The Mothers are named.",
+    "Images, deities, and Yoginīs are listed.",
+    "Bhairava and others are included."
+   ],
+   "inference": "The Mothers, images, deities, Yoginīs, Bhairava, and others are the figures enumerated.",
+   "uncertainties": [],
+   "plain_english": "The Mothers, images, deities, Yoginīs, Bhairava, and others are listed."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "sthāpyāḥ",
+     "gloss": "to-be-established",
+     "grounds": "gerundive prescribing installation",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal quantifier",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivasthāne",
+     "gloss": "in-Śiva-place",
+     "grounds": "compound indicating the place of Śiva",
+     "morph": "n.loc.sg compound: śiva+sthāna"
+    },
+    {
+     "surface": "dṛṣṭivedhavivarjitāḥ",
+     "gloss": "seen-defect-devoid",
+     "grounds": "compound indicating freedom from visual or placement defects",
+     "morph": "m.nom.pl compound: dṛṣṭi+vedha+vivarjita"
+    }
+   ],
+   "question": "What condition must all figures satisfy when established in the place of Śiva?",
+   "premises": [
+    "All figures are to be established.",
+    "The location is the place of Śiva.",
+    "They must be free from seen defects."
+   ],
+   "inference": "All figures installed in Śiva's place must be free from visual or placement defects.",
+   "uncertainties": [
+    "The precise technical meaning of dṛṣṭivedha in this architectural context is not fully specified."
+   ],
+   "plain_english": "All should be established in the place of Śiva, free from any seen defects."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "dakṣiṇāṅge",
+     "gloss": "on-south-side",
+     "grounds": "compound indicating the southern side",
+     "morph": "n.loc.sg compound: dakṣiṇa+aṅga"
+    },
+    {
+     "surface": "bhaved+",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed placement",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "Brahmā",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viparyāse",
+     "gloss": "in-reverse",
+     "grounds": "locative indicating reversed placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhayāvahāḥ",
+     "gloss": "fear-causing",
+     "grounds": "compound describing harmful consequence",
+     "morph": "m.nom.pl compound: bhaya+āvaha"
+    }
+   ],
+   "question": "What consequence follows from reversing Brahmā's placement on the southern side?",
+   "premises": [
+    "Brahmā should be on the southern side.",
+    "Reversal of this placement is considered.",
+    "Reversal causes fear."
+   ],
+   "inference": "Placing Brahmā in reverse of the southern side brings fear.",
+   "uncertainties": [],
+   "plain_english": "Brahmā should be on the southern side; if reversed, it causes fear."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "tattulyā",
+     "gloss": "equal-to-that",
+     "grounds": "compound indicating equivalence to the previous case",
+     "morph": "f.nom.sg compound: tat+tulya"
+    },
+    {
+     "surface": "pārvatīdevī",
+     "gloss": "Pārvatī-goddess",
+     "grounds": "compound naming the goddess Pārvatī",
+     "morph": "f.nom.sg compound: pārvatī+devī"
+    },
+    {
+     "surface": "sukhadā",
+     "gloss": "happiness-giving",
+     "grounds": "compound describing beneficial effect",
+     "morph": "f.nom.sg compound: sukha+dā"
+    },
+    {
+     "surface": "sarvakāmadā",
+     "gloss": "all-desire-giving",
+     "grounds": "compound describing fulfillment of all desires",
+     "morph": "f.nom.sg compound: sarva+kāma+dā"
+    }
+   ],
+   "question": "What benefits result from placing Goddess Pārvatī in the corresponding position?",
+   "premises": [
+    "Pārvatī is placed in a position equal to the previous one.",
+    "She is described as giving happiness.",
+    "She is described as granting all desires."
+   ],
+   "inference": "Pārvatī in the corresponding position gives happiness and fulfills all desires.",
+   "uncertainties": [],
+   "plain_english": "Goddess Pārvatī, placed in the corresponding position, gives happiness and fulfills all desires."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādamaṇḍane",
+     "gloss": "in-temple-decoration",
+     "grounds": "compound naming the work Prāsādamaṇḍana",
+     "morph": "n.loc.sg compound: prāsāda+maṇḍana"
+    },
+    {
+     "surface": "jagatīdṛṣṭidoṣāyatanādhikāre",
+     "gloss": "in-platform-sight-defect-shrine-section",
+     "grounds": "compound naming the section on platform, sight defects, and shrines",
+     "morph": "m.loc.sg compound: jagatī+dṛṣṭi+doṣa+āyatana+adhikāra"
+    },
+    {
+     "surface": "dvitīyo+",
+     "gloss": "second",
+     "grounds": "ordinal number; final vowel fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'dhyāyaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter designation with elided initial vowel",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Prāsādamaṇḍana concludes with this colophon?",
+   "premises": [
+    "The statement is a colophon.",
+    "It names the work Prāsādamaṇḍana.",
+    "It identifies the second chapter in the section on platform, sight defects, and shrines."
+   ],
+   "inference": "This is the end of the second chapter in that section of the Prāsādamaṇḍana.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the second chapter, in the section on platforms, sight defects, and shrines, in the Prāsādamaṇḍana."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "atīva",
+     "gloss": "very",
+     "grounds": "intensifying adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudṛḍhā",
+     "gloss": "very-firm",
+     "grounds": "compound adjective describing required strength",
+     "morph": "f.nom.sg compound: su+dṛḍha"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive prescribing construction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iṣṭikācūrṇavāribhiḥ",
+     "gloss": "with-brick-powder-water",
+     "grounds": "compound listing construction materials",
+     "morph": "n.ins.pl compound: iṣṭikā+cūrṇa+vāri"
+    }
+   ],
+   "question": "What materials must be used to make the construction very firm?",
+   "premises": [
+    "The construction must be very firm.",
+    "Brick powder and water are specified as materials.",
+    "The instruction is prescriptive."
+   ],
+   "inference": "The construction should be made very firm using brick powder and water.",
+   "uncertainties": [],
+   "plain_english": "It should be made very firm with brick powder and water."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "ardhāṅgulā",
+     "gloss": "half-finger",
+     "grounds": "compound indicating a unit of increase",
+     "morph": "f.nom.sg compound: ardha+aṅgula"
+    },
+    {
+     "surface": "bhaved+",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "vṛddhir+",
+     "gloss": "increase",
+     "grounds": "subject denoting growth or increment; final consonant fused",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvad+",
+     "gloss": "as-far-as",
+     "grounds": "correlative particle indicating extent; final consonant fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhastaśatārdhakam",
+     "gloss": "hand-hundred-half",
+     "grounds": "compound indicating up to fifty hands",
+     "morph": "n.acc.sg compound: hasta+śata+ardhaka"
+    }
+   ],
+   "question": "What rate of increase applies up to a measure of fifty hands?",
+   "premises": [
+    "An increase is prescribed.",
+    "The increase is half a finger.",
+    "The limit is up to fifty hands."
+   ],
+   "inference": "The increase should be half a finger up to fifty hands.",
+   "uncertainties": [
+    "The base measure to which the increase applies is not explicitly stated in this verse."
+   ],
+   "plain_english": "The increase should be half a finger up to fifty hands."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "pṛ0",
+     "gloss": "pṛ0",
+     "grounds": "abbreviated or unclear marker as given in source",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "pañcadig",
+     "gloss": "five-directions",
+     "grounds": "compound possibly indicating five directions or a related measure",
+     "morph": "compound-member: pañca+diś"
+    },
+    {
+     "surface": "viṃśatir+",
+     "gloss": "twenty",
+     "grounds": "numeral; final consonant fused",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvac+",
+     "gloss": "as-far-as",
+     "grounds": "correlative particle indicating extent; final consonant fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chatārdhaṃ",
+     "gloss": "hundred-half",
+     "grounds": "compound indicating fifty",
+     "morph": "n.acc.sg compound: śata+ardha"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivardhayet",
+     "gloss": "one-should-increase",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-optative √vṛdh"
+    }
+   ],
+   "question": "How should the increase be extended up to the measure of fifty in this rule?",
+   "premises": [
+    "An increase is to be made.",
+    "The extent reaches up to fifty.",
+    "The terms pañcadig and viṃśatir qualify the rule."
+   ],
+   "inference": "One should increase according to the stated terms up to fifty.",
+   "uncertainties": [
+    "The meaning of pṛ0 and pañcadig is unclear in this context.",
+    "The exact numerical application of viṃśatir is uncertain."
+   ],
+   "plain_english": "One should increase it, according to the stated measure, up to fifty."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "svasvodayapramāṇasya",
+     "gloss": "of-own-own-height-measure",
+     "grounds": "compound indicating the measure of its own height",
+     "morph": "n.gen.sg compound: sva+sva+udaya+pramāṇa"
+    },
+    {
+     "surface": "carturthāṃśena",
+     "gloss": "by-fourth-part",
+     "grounds": "instrumental indicating one-fourth proportion",
+     "morph": "m.ins.sg compound: caturtha+aṃśa"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "projection",
+     "grounds": "architectural projection or offset",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportion of its own height determines the projection?",
+   "premises": [
+    "The projection is the subject.",
+    "The reference measure is its own height.",
+    "The proportion specified is one-fourth."
+   ],
+   "inference": "The projection should be one-fourth of its own height.",
+   "uncertainties": [],
+   "plain_english": "The projection should be one-fourth of its own height."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "caturhaste",
+     "gloss": "in-four-hand",
+     "grounds": "locative indicating a four-hand measure",
+     "morph": "n.loc.sg compound: catur+hasta"
+    },
+    {
+     "surface": "trisārddhāṃśaṃ",
+     "gloss": "three-and-a-half-part",
+     "grounds": "compound indicating a fractional part",
+     "morph": "m.acc.sg compound: tri+sārdha+aṃśa"
+    },
+    {
+     "surface": "pādāṃśaṃ",
+     "gloss": "quarter-part",
+     "grounds": "compound indicating a quarter part",
+     "morph": "m.acc.sg compound: pāda+aṃśa"
+    },
+    {
+     "surface": "pañcahastake",
+     "gloss": "in-five-hand",
+     "grounds": "locative indicating a five-hand measure",
+     "morph": "n.loc.sg compound: pañca+hastaka"
+    }
+   ],
+   "question": "What proportional parts are prescribed for four-hand and five-hand measures?",
+   "premises": [
+    "A four-hand measure is specified.",
+    "A three-and-a-half part is associated with it.",
+    "A quarter part is associated with a five-hand measure."
+   ],
+   "inference": "For four hands the part is three-and-a-half, and for five hands it is a quarter.",
+   "uncertainties": [
+    "The exact architectural element to which these parts apply is not stated in this verse."
+   ],
+   "plain_english": "For a four-hand measure there is a three-and-a-half part, and for a five-hand measure a quarter part."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "vṛddhir+",
+     "gloss": "increase",
+     "grounds": "subject denoting increment; final consonant fused",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedatriyugmaikasaṃkhyā",
+     "gloss": "four-three-two-one-number",
+     "grounds": "compound encoding a numerical sequence",
+     "morph": "f.nom.sg compound: veda+tri+yugma+eka+saṃkhyā"
+    },
+    {
+     "surface": "syād+",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "aṅgulaiḥ",
+     "gloss": "by-fingers",
+     "grounds": "instrumental indicating unit of measure",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative adverb indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ordered sequence of finger-measures defines the increase in this rule?",
+   "premises": [
+    "An increase is prescribed.",
+    "The numbers four, three, two, and one are given.",
+    "The units are fingers applied in order."
+   ],
+   "inference": "The increase should be four, three, two, and one fingers in sequence.",
+   "uncertainties": [
+    "The specific cases to which each number in the sequence applies are not stated here."
+   ],
+   "plain_english": "The increase should be four, three, two, and one fingers, in that order."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "tripañcāśat",
+     "gloss": "in-fifty-three",
+     "grounds": "numeral indicating a measure of fifty-three",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samutsedhe",
+     "gloss": "in-height",
+     "grounds": "locative indicating height dimension",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvāviṃtyaṃśanirgame",
+     "gloss": "twenty-two-part-projection",
+     "grounds": "compound indicating a projection of twenty-two parts",
+     "morph": "m.loc.sg compound: dvāviṃśati+aṃśa+nirgama"
+    }
+   ],
+   "question": "What projection is specified when the height measures fifty-three units?",
+   "premises": [
+    "The height is fifty-three.",
+    "A projection is specified.",
+    "The projection is twenty-two parts."
+   ],
+   "inference": "At a height of fifty-three, the projection should be twenty-two parts.",
+   "uncertainties": [
+    "The unit of the twenty-two parts is not explicitly stated in this verse."
+   ],
+   "plain_english": "When the height is fifty-three, the projection should be twenty-two parts."
+  }
+ ]
+}

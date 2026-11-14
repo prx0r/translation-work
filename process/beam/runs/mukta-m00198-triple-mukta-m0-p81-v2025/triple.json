@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "sustanā yauvanāṃgā ca",
+     "gloss": "good-breasted-youthful-limbed-and",
+     "grounds": "Token treated as given fused string; sustanā from su-stana (good breasts), yauvanāṃgā from yauvana-aṅga (youthful limbs) with internal sandhi noted in form, ca indeclinable conjunction; describes feminine bodily marks in this descriptive series.",
+     "morph": "(indecl. phrase as given)"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitā",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "Compound sarva-ābharaṇa-bhūṣitā read as given fused form; past-participial/adjectival description meaning adorned with all ornaments, agreeing with the described feminine form in context.",
+     "morph": "fem.nom.sg"
+    }
+   ],
+   "question": "Which bodily youthfulness and ornaments complete the deity’s described form?",
+   "premises": [
+    "The passage lists bodily marks of the described form.",
+    "Youthful limbs and good breasts indicate a youthful feminine appearance.",
+    "Adornment with all ornaments completes the visual description."
+   ],
+   "inference": "The verse completes the deity’s description by adding youthful bodily features and full ornamentation to the prior attributes.",
+   "uncertainties": [
+    "Exact internal sandhi breaks inside the fused token are not split here because the token is given as one surface string."
+   ],
+   "plain_english": "She has good breasts and youthful limbs, and she is adorned with all ornaments."
+  }
+ ]
+}

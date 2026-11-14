@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "describes a possible shape of the enclosure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "describes an alternative possible shape of the enclosure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "reinforces the alternative construction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "expresses prescriptive obligation for the construction",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "daṇḍa+veṣṭanam",
+     "gloss": "staff-enclosure",
+     "grounds": "names the object whose form is prescribed; compound",
+     "morph": "compound: daṇḍa+veṣṭana (n.nom.sg)"
+    }
+   ],
+   "question": "What alternative shapes are prescribed for fashioning the staff enclosure?",
+   "premises": [
+    "The staff enclosure may be fashioned in a round shape.",
+    "The staff enclosure may alternatively be fashioned in a square shape.",
+    "The prescribed form is to be executed according to these options."
+   ],
+   "inference": "The staff enclosure is permissibly constructed as either round or square.",
+   "uncertainties": [],
+   "plain_english": "The staff enclosure should be made either round or square."
+  }
+ ]
+}

@@ -1,0 +1,903 @@
+{
+ "song": "mukta-m0-p171",
+ "items": [
+  {
+   "verse": 4251,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as 'to be', expressing prescription",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive indicating obligation",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "subject of the prescribed negation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is any deliberation required in this ritual procedure?",
+   "premises": [
+    "The ritual context is already established.",
+    "The prescribed action is stated without qualification.",
+    "Deliberation would imply uncertainty about the procedure."
+   ],
+   "inference": "No deliberation should be made in this matter.",
+   "uncertainties": [],
+   "plain_english": "There should be no deliberation here."
+  },
+  {
+   "verse": 4252,
+   "rows": [
+    {
+     "surface": "mantra+arṇa+saṃkhyayā",
+     "gloss": "by-mantra-syllable-number",
+     "grounds": "instrumental compound indicating the count used for the rite",
+     "morph": "compound: mantra+arṇa+saṃkhyā (f.inst.sg)"
+    },
+    {
+     "surface": "maṃtrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent performing the mantra rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ripum",
+     "gloss": "enemy",
+     "grounds": "target of subjugation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātma+vaśaṃ",
+     "gloss": "to-own-control",
+     "grounds": "compound expressing subjection to oneself",
+     "morph": "compound: ātman+vaśa (m.acc.sg)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-bring",
+     "grounds": "optative prescribing the ritual outcome",
+     "morph": "3.sg.opt.act √nī"
+    }
+   ],
+   "question": "How can the mantra-practitioner bring an enemy under personal control?",
+   "premises": [
+    "The mantra-practitioner performs the rite.",
+    "The number of mantra syllables determines the procedure.",
+    "The intended result is subjugation of the enemy."
+   ],
+   "inference": "By using the number of mantra syllables, the practitioner should bring the enemy under his control.",
+   "uncertainties": [],
+   "plain_english": "By the number of mantra syllables, the mantra-practitioner should bring the enemy under his own control."
+  },
+  {
+   "verse": 4253,
+   "rows": [
+    {
+     "surface": "nivāsya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior placement",
+     "morph": "absolutive √nivās"
+    },
+    {
+     "surface": "pañca+gavyeṣu",
+     "gloss": "in-five-cow-products",
+     "grounds": "locative compound referring to the pañcagavya mixture",
+     "morph": "compound: pañcan+gavya (n.loc.pl)"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "in-consecrated",
+     "grounds": "qualifies the ritual medium as purified",
+     "morph": "n.loc.sg.past-participle √saṃskṛ"
+    },
+    {
+     "surface": "havya+vāhane",
+     "gloss": "in-fire",
+     "grounds": "locative compound, epithet for sacrificial fire",
+     "morph": "compound: havya+vāhana (m.loc.sg)"
+    }
+   ],
+   "question": "In what consecrated substances and medium should the ritual item be placed?",
+   "premises": [
+    "The ritual requires prior placement of an item.",
+    "The five cow-products are used as a consecrated medium.",
+    "The sacrificial fire is the locus of the rite."
+   ],
+   "inference": "The item should be placed in the consecrated five cow-products within the fire.",
+   "uncertainties": [],
+   "plain_english": "Having placed it in the consecrated five cow-products in the sacrificial fire,"
+  },
+  {
+   "verse": 4254,
+   "rows": [
+    {
+     "surface": "viśada+dhīḥ",
+     "gloss": "of-clear-intellect",
+     "grounds": "compound describing the qualified practitioner",
+     "morph": "compound: viśada+dhī (m.nom.sg)"
+    },
+    {
+     "surface": "samiddhe+agnau",
+     "gloss": "in-kindled-fire",
+     "grounds": "locative compound specifying the ritual fire",
+     "morph": "compound: samiddha+agni (m.loc.sg)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle referring to prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "temporal adverb indicating earlier procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what state of mind and fire should the practitioner proceed as before?",
+   "premises": [
+    "The practitioner must have a clear intellect.",
+    "The fire must be properly kindled.",
+    "The procedure follows a previously stated method."
+   ],
+   "inference": "The clear-minded practitioner should act in the kindled fire as before.",
+   "uncertainties": [],
+   "plain_english": "the clear-minded one, in the kindled fire, as before,"
+  },
+  {
+   "verse": 4255,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative prescribing the guru's action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "the-target",
+     "grounds": "ritual target or object to be effected",
+     "morph": "m.acc.sg.gerundive √sādh"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the prepared substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāśayet",
+     "gloss": "should-make-eat",
+     "grounds": "causative optative prescribing consumption",
+     "morph": "3.sg.opt.caus.act √prāś"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-guru",
+     "grounds": "ritual preceptor as agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the guru do with the prepared target substance?",
+   "premises": [
+    "The guru is the authorized ritual agent.",
+    "A target substance has been prepared.",
+    "The rite requires the target to consume it."
+   ],
+   "inference": "The guru should prepare the target and make him eat that substance.",
+   "uncertainties": [
+    "sādhyaṃ may refer to the person targeted or to the ritual object; context suggests the target person."
+   ],
+   "plain_english": "the guru should prepare the target and make him eat that."
+  },
+  {
+   "verse": 4256,
+   "rows": [
+    {
+     "surface": "kṛtyā",
+     "gloss": "the-ritual-effigy",
+     "grounds": "ritual construct or effigy used in the rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punas",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "demonstrative pronoun referring to prior items or targets",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-eat",
+     "grounds": "optative prescribing consumption by the effigy",
+     "morph": "3.sg.opt.caus.act √bhakṣ"
+    }
+   ],
+   "question": "What action should the ritual effigy perform again upon them?",
+   "premises": [
+    "A ritual effigy is involved in the procedure.",
+    "The action is to be repeated.",
+    "The effigy acts upon the same targets."
+   ],
+   "inference": "The ritual effigy should again consume them.",
+   "uncertainties": [
+    "tān may refer to the prepared substances or to the enemies; antecedent is context-dependent."
+   ],
+   "plain_english": "Again, the ritual effigy should indeed consume them."
+  },
+  {
+   "verse": 4257,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative prescribing oblation into fire",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "sampadāṃ",
+     "gloss": "of-prosperities",
+     "grounds": "genitive plural indicating the result attained",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhūmiḥ",
+     "gloss": "ground",
+     "grounds": "metaphor for a basis or source",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhakā",
+     "gloss": "for-practitioner",
+     "grounds": "beneficiary of the rite; form as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present indicative stating the result",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb asserting certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain result follows when the practitioner makes the prescribed offering?",
+   "premises": [
+    "The practitioner performs the oblation.",
+    "The rite is aimed at prosperity.",
+    "The result is stated as assured."
+   ],
+   "inference": "By offering, the practitioner certainly becomes a ground of prosperities.",
+   "uncertainties": [
+    "sādhakā appears in a nominative-like form but functions as beneficiary; taken as sādhakaḥ in sense."
+   ],
+   "plain_english": "He should offer; the practitioner certainly becomes a ground of prosperities."
+  },
+  {
+   "verse": 4258,
+   "rows": [
+    {
+     "surface": "japan+mantraṃ",
+     "gloss": "reciting-mantra",
+     "grounds": "compound describing continuous mantra recitation",
+     "morph": "compound: japat+mantra (m.nom.sg)"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "adverb indicating uninterrupted practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣkala+ambhasi",
+     "gloss": "in-abundant-water",
+     "grounds": "locative compound specifying the ritual setting",
+     "morph": "compound: puṣkala+ambhas (n.loc.sg)"
+    }
+   ],
+   "question": "Where and how should the practitioner recite the mantra continuously?",
+   "premises": [
+    "Mantra recitation is required.",
+    "The recitation must be constant.",
+    "The location is abundant water."
+   ],
+   "inference": "The practitioner should constantly recite the mantra in abundant water.",
+   "uncertainties": [],
+   "plain_english": "Constantly reciting the mantra in abundant water,"
+  },
+  {
+   "verse": 4259,
+   "rows": [
+    {
+     "surface": "darvyā",
+     "gloss": "with-ladle",
+     "grounds": "instrumental indicating the ritual implement",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "brahma+taru+utthayā",
+     "gloss": "from-brahma-tree-arisen",
+     "grounds": "compound qualifying the ladle's material origin",
+     "morph": "compound: brahma+taru+uttha (f.inst.sg)"
+    }
+   ],
+   "question": "What kind of ladle should be used for the ritual action?",
+   "premises": [
+    "A ladle is required as the implement.",
+    "The ladle must come from a specific tree.",
+    "The brahma tree is the prescribed source."
+   ],
+   "inference": "The action should be performed with a ladle made from the brahma tree.",
+   "uncertainties": [
+    "brahma+taru identifies a specific tree; exact botanical identity not specified here."
+   ],
+   "plain_english": "with a ladle made from the brahma tree,"
+  },
+  {
+   "verse": 4260,
+   "rows": [
+    {
+     "surface": "viśākhā+kṛttikā+mūla+hasta+uttara+maghāsu",
+     "gloss": "in-viśākhā-kṛttikā-mūla-hasta-uttara-maghā",
+     "grounds": "locative compound listing auspicious lunar mansions",
+     "morph": "compound: viśākhā+kṛttikā+mūla+hasta+uttara-maghā (f.loc.pl)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking transition to the next instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under which lunar mansions should the next ritual step be performed?",
+   "premises": [
+    "The rite is time-sensitive.",
+    "Specific lunar mansions are prescribed.",
+    "The listed mansions are Viśākhā, Kṛttikā, Mūla, Hasta, and Uttara-Maghā."
+   ],
+   "inference": "The next step should be performed under those lunar mansions.",
+   "uncertainties": [],
+   "plain_english": "then, under Viśākhā, Kṛttikā, Mūla, Hasta, and Uttara-Maghā,"
+  },
+  {
+   "verse": 4261,
+   "rows": [
+    {
+     "surface": "kurvīta",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing the ritual act",
+     "morph": "3.sg.opt.mid √kṛ"
+    },
+    {
+     "surface": "sikatā+āsthāpanaṃ",
+     "gloss": "sand-placing",
+     "grounds": "compound naming the ritual installation of sand",
+     "morph": "compound: sikatā+āsthāpana (n.acc.sg)"
+    },
+    {
+     "surface": "su+dhīḥ",
+     "gloss": "the-wise-one",
+     "grounds": "compound describing the qualified practitioner",
+     "morph": "compound: su+dhī (m.nom.sg)"
+    }
+   ],
+   "question": "What ritual installation should the wise practitioner perform at the prescribed time?",
+   "premises": [
+    "The timing has been specified by lunar mansions.",
+    "The practitioner must be wise and qualified.",
+    "The act involves placing sand."
+   ],
+   "inference": "The wise one should perform the placing of sand.",
+   "uncertainties": [],
+   "plain_english": "the wise one should perform the placing of sand."
+  },
+  {
+   "verse": 4262,
+   "rows": [
+    {
+     "surface": "prastha+āḍhaka+ghaṭa+unmānā",
+     "gloss": "prastha-āḍhaka-ghaṭa-measures",
+     "grounds": "compound listing standard volume measures",
+     "morph": "compound: prastha+āḍhaka+ghaṭa+unmāna (f.nom.pl)"
+    },
+    {
+     "surface": "madhya+ādiṣu",
+     "gloss": "in-middle-and-others",
+     "grounds": "locative compound indicating higher or middle grades",
+     "morph": "compound: madhya+ādi (m.loc.pl)"
+    },
+    {
+     "surface": "avareṣu",
+     "gloss": "in-inferior-ones",
+     "grounds": "locative plural indicating lower grades",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "imāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the stated measures",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What measures are prescribed for the middle and inferior grades of the rite?",
+   "premises": [
+    "The rite admits graded applications.",
+    "Standard measures are prastha, āḍhaka, and ghaṭa.",
+    "Different grades require different quantities."
+   ],
+   "inference": "These measures—prastha, āḍhaka, and ghaṭa—apply to the middle and inferior grades.",
+   "uncertainties": [
+    "Exact mapping of each measure to each grade is not fully explicit in this verse."
+   ],
+   "plain_english": "These measures—prastha, āḍhaka, and ghaṭa—are for the middle and inferior grades."
+  },
+  {
+   "verse": 4263,
+   "rows": [
+    {
+     "surface": "madhya+ādi+devī+mastrāṇi",
+     "gloss": "middle-and-other-goddess-weapons",
+     "grounds": "compound referring to mantras or weapons of the middle and other goddesses",
+     "morph": "compound: madhya+ādi+devī+astra (n.acc.pl)"
+    },
+    {
+     "surface": "kapāla+antāni",
+     "gloss": "ending-with-skull",
+     "grounds": "compound indicating the final item in the series",
+     "morph": "compound: kapāla+anta (n.acc.pl)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "the-teacher",
+     "grounds": "ritual teacher as agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which series of goddess weapons up to the skull should the teacher employ?",
+   "premises": [
+    "The teacher directs the ritual sequence.",
+    "The sequence involves goddesses of middle and other grades.",
+    "The series concludes with the skull."
+   ],
+   "inference": "The teacher should employ the goddess weapons of the middle and other grades, ending with the skull.",
+   "uncertainties": [
+    "mastrāṇi interpreted as astrāṇi/mantra-weapons; exact referent depends on ritual context."
+   ],
+   "plain_english": "The teacher should use the weapons of the middle and other goddesses, ending with the skull."
+  },
+  {
+   "verse": 4264,
+   "rows": [
+    {
+     "surface": "kapālaṃ",
+     "gloss": "the-skull",
+     "grounds": "ritual vessel or object to be worshipped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sva+sva+mantreṇa",
+     "gloss": "with-own-own-mantra",
+     "grounds": "instrumental compound indicating each one's respective mantra",
+     "morph": "compound: sva+sva+mantra (m.inst.sg)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship",
+     "morph": "absolutive √sampūj"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative adverb marking the concluding stage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation presented at conclusion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "should-present",
+     "grounds": "optative prescribing presentation of the offering",
+     "morph": "3.sg.opt.act √hṛ"
+    }
+   ],
+   "question": "How should the skull be worshipped and concluded with an offering?",
+   "premises": [
+    "The skull is the final ritual object in the sequence.",
+    "Each is worshipped with its own mantra.",
+    "The rite concludes with an offering."
+   ],
+   "inference": "After worshipping the skull with its own mantra, one should present the offering at the end.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the skull with its own mantra, one should present the offering at the end."
+  },
+  {
+   "verse": 4265,
+   "rows": [
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "ritual safeguarding effect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the condition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vardhante",
+     "gloss": "increase",
+     "grounds": "present indicative describing growth",
+     "morph": "3.pl.pres.mid √vṛdh"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that place or rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampadaḥ",
+     "gloss": "prosperities",
+     "grounds": "beneficial results of the rite",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What prosperities arise where the prescribed protection increases?",
+   "premises": [
+    "Protection is established by the rite.",
+    "Where protection increases, positive results follow.",
+    "Prosperities are the stated outcome."
+   ],
+   "inference": "Where that protection increases, prosperities increase there.",
+   "uncertainties": [
+    "Agreement between singular rakṣā and plural vardhante is irregular; sense taken as protective forces increasing."
+   ],
+   "plain_english": "Where that protection increases, prosperities increase there."
+  },
+  {
+   "verse": 4266,
+   "rows": [
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "instrumental indicating prescribed procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty about the result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there any doubt about the result when the rule is followed?",
+   "premises": [
+    "The procedure is performed according to rule.",
+    "The outcome has been stated.",
+    "Proper observance guarantees the result."
+   ],
+   "inference": "There is no doubt here when done according to rule.",
+   "uncertainties": [],
+   "plain_english": "When done according to rule, there is no doubt here."
+  },
+  {
+   "verse": 4267,
+   "rows": [
+    {
+     "surface": "brahma+vṛkṣeṇa",
+     "gloss": "with-brahma-tree",
+     "grounds": "instrumental compound indicating material used",
+     "morph": "compound: brahma+vṛkṣa (m.inst.sg)"
+    },
+    {
+     "surface": "nirmite",
+     "gloss": "fashioned",
+     "grounds": "past participle describing the constructed object",
+     "morph": "n.loc.sg.past-participle √nirmā"
+    }
+   ],
+   "question": "From what material must the ritual object be fashioned for this effect?",
+   "premises": [
+    "The ritual requires a specially made object.",
+    "The material is specified as the brahma tree.",
+    "The object's construction affects the outcome."
+   ],
+   "inference": "The object must be fashioned from the brahma tree.",
+   "uncertainties": [
+    "brahma+vṛkṣa identifies a specific tree; exact botanical identity not specified here."
+   ],
+   "plain_english": "When it is fashioned from the brahma tree,"
+  },
+  {
+   "verse": 4268,
+   "rows": [
+    {
+     "surface": "pravardhante",
+     "gloss": "increase-greatly",
+     "grounds": "present indicative stating intensified growth",
+     "morph": "3.pl.pres.mid √pravṛdh"
+    },
+    {
+     "surface": "akāla+vṛṣṭi+ādibhiḥ",
+     "gloss": "with-untimely-rain-and-others",
+     "grounds": "instrumental compound listing adverse phenomena",
+     "morph": "compound: akāla+vṛṣṭi+ādi (f.inst.pl)"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "postposition governing the instrumental",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What adverse phenomena increase together when the object is fashioned from the brahma tree?",
+   "premises": [
+    "The object is fashioned from the brahma tree.",
+    "The rite produces intensified effects.",
+    "Untimely rain and similar phenomena are included."
+   ],
+   "inference": "They increase greatly together with untimely rain and other such phenomena.",
+   "uncertainties": [
+    "Subject of pravardhante is implied from context, likely the prosperities or effects mentioned earlier."
+   ],
+   "plain_english": "they increase greatly together with untimely rain and the like."
+  },
+  {
+   "verse": 4269,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing the ritual act",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "placing",
+     "grounds": "ritual installation or establishment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "instrumental indicating prescribed procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "by-this",
+     "grounds": "demonstrative specifying the present rule",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "By what specific rule should the ritual placing be performed?",
+   "premises": [
+    "A ritual placing is required.",
+    "The procedure must follow a rule.",
+    "The present instruction specifies that rule."
+   ],
+   "inference": "One should perform the placing according to this rule.",
+   "uncertainties": [],
+   "plain_english": "One should perform the placing according to this rule."
+  },
+  {
+   "verse": 4270,
+   "rows": [
+    {
+     "surface": "go+mūtrāt",
+     "gloss": "from-cow-urine",
+     "grounds": "ablative compound indicating the base substance",
+     "morph": "compound: go+mūtra (n.abl.sg)"
+    },
+    {
+     "surface": "tri+guṇaṃ",
+     "gloss": "threefold",
+     "grounds": "compound indicating triple proportion",
+     "morph": "compound: tri+guṇa (n.nom.sg)"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "dairy substance used in the mixture",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportion of curd relative to cow urine is prescribed in the mixture?",
+   "premises": [
+    "The ritual mixture includes cow urine.",
+    "Curd is added to the mixture.",
+    "The proportion is specified as threefold."
+   ],
+   "inference": "Curd should be three times the amount of cow urine.",
+   "uncertainties": [],
+   "plain_english": "Curd should be three times the cow urine."
+  },
+  {
+   "verse": 4271,
+   "rows": [
+    {
+     "surface": "kapilāḥ",
+     "gloss": "tawny",
+     "grounds": "adjective describing one class of cows or substances",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śvetāḥ",
+     "gloss": "white",
+     "grounds": "adjective describing another class",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sita+dhūmra+aruṇa+prabhāḥ",
+     "gloss": "white-smoky-reddish-splendor",
+     "grounds": "compound describing mixed coloration or radiance",
+     "morph": "compound: sita+dhūmra+aruṇa+prabhā (f.nom.pl)"
+    }
+   ],
+   "question": "What colors or appearances are specified for the cows or materials used?",
+   "premises": [
+    "The ritual specifies particular types by appearance.",
+    "Tawny and white are named.",
+    "A mixed white, smoky, and reddish splendor is also named."
+   ],
+   "inference": "The specified types are tawny, white, and those of white-smoky-reddish splendor.",
+   "uncertainties": [
+    "Referent may be cows or derived substances; taken as descriptive classes in the ritual context."
+   ],
+   "plain_english": "They are tawny, white, and of white, smoky, and reddish splendor."
+  },
+  {
+   "verse": 4272,
+   "rows": [
+    {
+     "surface": "ekona+pañcāśat+koṣṭhe",
+     "gloss": "in-forty-nine-cells",
+     "grounds": "locative compound specifying a grid of forty-nine cells",
+     "morph": "compound: ekona+pañcāśat+koṣṭha (n.loc.sg)"
+    },
+    {
+     "surface": "phalake",
+     "gloss": "on-board",
+     "grounds": "locative indicating the surface used",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahma+śākhinaḥ",
+     "gloss": "of-brahma-tree",
+     "grounds": "genitive compound indicating the board's material source",
+     "morph": "compound: brahma+śākhin (m.gen.sg)"
+    }
+   ],
+   "question": "On what kind of forty-nine-celled board should the diagram be prepared?",
+   "premises": [
+    "A board with forty-nine cells is required.",
+    "The board must be made from a specific tree.",
+    "The brahma tree is the prescribed source."
+   ],
+   "inference": "The diagram should be prepared on a forty-nine-celled board made from the brahma tree.",
+   "uncertainties": [
+    "brahma+śākhinaḥ identifies a specific tree; exact botanical identity not specified here."
+   ],
+   "plain_english": "On a board of the brahma tree with forty-nine cells,"
+  },
+  {
+   "verse": 4273,
+   "rows": [
+    {
+     "surface": "tat+ūrdhva+koṣṭham",
+     "gloss": "from-that-upper-cell",
+     "grounds": "compound indicating the starting cell above a reference point",
+     "morph": "compound: tad+ūrdhva+koṣṭha (n.acc.sg)"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive indicating the starting point",
+     "morph": "absolutive √ārabh"
+    },
+    {
+     "surface": "prādakṣiṇyena",
+     "gloss": "clockwise",
+     "grounds": "instrumental indicating circumambulatory direction",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "should-write",
+     "grounds": "optative prescribing inscription",
+     "morph": "3.sg.opt.act √saṃlikh"
+    }
+   ],
+   "question": "From which cell and in what direction should the inscription be written?",
+   "premises": [
+    "The board has a defined upper cell as reference.",
+    "The writing must begin from that point.",
+    "The direction of writing is clockwise."
+   ],
+   "inference": "Beginning from that upper cell, one should write clockwise.",
+   "uncertainties": [],
+   "plain_english": "Beginning from that upper cell, one should write in a clockwise direction."
+  },
+  {
+   "verse": 4274,
+   "rows": [
+    {
+     "surface": "pūrva+uditaṃ",
+     "gloss": "previously-stated",
+     "grounds": "compound referring back to an earlier declaration",
+     "morph": "compound: pūrva+udita (n.nom.sg)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome of the prescribed ritual procedure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result is obtained from performing the previously described procedure?",
+   "premises": [
+    "The procedure has been described in prior verses.",
+    "Ritual procedures yield specific results.",
+    "The result is identified as previously stated."
+   ],
+   "inference": "The result is the one previously stated.",
+   "uncertainties": [],
+   "plain_english": "The result is as previously stated."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "gerundive expressing necessity of secrecy",
+     "morph": "gerundive.n.nom.sg (√gup)"
+    },
+    {
+     "surface": "khale",
+     "gloss": "wicked-person",
+     "grounds": "unfit recipient characterized by wickedness",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "duṣṭe",
+     "gloss": "evil-person",
+     "grounds": "unfit recipient characterized by corruption",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paśu+pāmara+sannidhau",
+     "gloss": "in-presence-of-beasts-and-fools",
+     "grounds": "compound locating secrecy before bound and lowly persons; paśu may indicate the bound grade",
+     "morph": "compound: paśu+coord, pāmara+coord, sannidhi+head.m.loc.sg"
+    }
+   ],
+   "question": "What kinds of people must be excluded from receiving this secret teaching?",
+   "premises": [
+    "This teaching must be kept concealed.",
+    "Wicked and evil persons are unfit recipients.",
+    "The presence of bound souls and fools requires secrecy."
+   ],
+   "inference": "Therefore the teaching must be hidden from wicked, evil, beast-like, and foolish people.",
+   "uncertainties": [
+    "paśu may refer to the bound spiritual grade or more generally to beast-like persons."
+   ],
+   "plain_english": "This must be kept secret from the wicked, the evil, and in the presence of beasts and fools."
+  }
+ ]
+}

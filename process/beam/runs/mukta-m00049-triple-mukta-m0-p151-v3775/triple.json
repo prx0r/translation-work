@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3775,
+   "rows": [
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "second-person possessive pronoun referring to the questioner",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "praśnena",
+     "gloss": "by-question",
+     "grounds": "instrument indicating the means prompting the revelation",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative indicating the textual context of revelation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "demonstrative specifying the present tantra",
+     "morph": "pron.loc.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring back to the previously mentioned knowledge",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "quantifier indicating completeness of what is revealed",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "su+prakāśitam",
+     "gloss": "well-revealed",
+     "grounds": "compound past passive participle expressing full manifestation",
+     "morph": "compound: su+prakāśita; ppp.nom.sg.n"
+    }
+   ],
+   "question": "By what means has the complete teaching been fully revealed in this tantra?",
+   "premises": [
+    "A question was posed by the interlocutor.",
+    "The present tantra serves as the locus of revelation.",
+    "The teaching referred to is presented as entirely revealed."
+   ],
+   "inference": "Therefore, the interlocutor's question has occasioned the full revelation of that complete teaching in this tantra.",
+   "uncertainties": [],
+   "plain_english": "By your question, all of that has been clearly revealed in this tantra."
+  }
+ ]
+}

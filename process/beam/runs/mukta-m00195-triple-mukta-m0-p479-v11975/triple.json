@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p479",
+ "items": [
+  {
+   "verse": 11975,
+   "rows": [
+    {
+     "surface": "meghaśyāmaṃ",
+     "gloss": "cloud-dark",
+     "grounds": "compound: megha (cloud) + śyāma (dark); describes complexion",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "sunayanaṃ",
+     "gloss": "beautiful-eyed",
+     "grounds": "compound: su (beautiful) + nayana (eye); describes eyes",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "kākapakṣavirājitam",
+     "gloss": "adorned-with-side-locks",
+     "grounds": "compound: kākapakṣa (side-lock) + virājita (adorned); describes hairstyle",
+     "morph": "compound.acc.sg.m"
+    }
+   ],
+   "question": "What visual attributes characterize the deity invoked in this contemplative form?",
+   "premises": [
+    "The deity is described as cloud-dark in complexion.",
+    "The deity is described as beautiful-eyed.",
+    "The deity is described as adorned with side-locks."
+   ],
+   "inference": "The invoked deity is to be visualized with a dark complexion, beautiful eyes, and side-locks.",
+   "uncertainties": [
+    "The specific identity of the deity relies on the preceding verses."
+   ],
+   "plain_english": "Visualize him as dark as a cloud, beautiful-eyed, and adorned with side-locks."
+  }
+ ]
+}

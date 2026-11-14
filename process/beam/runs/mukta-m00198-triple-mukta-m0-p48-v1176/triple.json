@@ -1,0 +1,963 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1176,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "one-staff",
+     "grounds": "measure of one daṇḍa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhyardhadaṇḍaṃ",
+     "gloss": "one-and-half-staff",
+     "grounds": "compound measure adhyardha+daṇḍa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-staff",
+     "grounds": "compound measure dvi+daṇḍa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhadranīvrakam",
+     "gloss": "auspicious-nīvraka",
+     "grounds": "name of architectural element",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What alternative staff measures define the bhadranīvraka element?",
+   "premises": [
+    "The bhadranīvraka may measure one staff",
+    "It may alternatively measure one-and-half staff",
+    "It may alternatively measure two staff"
+   ],
+   "inference": "The bhadranīvraka admits three permissible staff-based measurements.",
+   "uncertainties": [
+    "Exact architectural referent of bhadranīvraka is context-dependent"
+   ],
+   "plain_english": "The bhadranīvraka may be one staff, one-and-a-half staffs, or two staffs in measure."
+  },
+  {
+   "verse": 1177,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānocchrayaṃ",
+     "gloss": "base-height",
+     "grounds": "compound adhiṣṭhāna+ucchraya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agniṣaḍbhāgaṃ",
+     "gloss": "three-sixths-part",
+     "grounds": "compound agni+ṣaḍbhāga indicating three of six parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "pillar-rise",
+     "grounds": "compound caraṇa+udaya",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are the base height and pillar rise proportioned?",
+   "premises": [
+    "The base height is specified",
+    "The pillar rise is specified alongside it",
+    "The measure given is three-sixths part"
+   ],
+   "inference": "The base height and pillar rise are set at a proportion of three-sixths.",
+   "uncertainties": [
+    "Whether agniṣaḍbhāga applies to both elements or one is unclear"
+   ],
+   "plain_english": "The height of the base and the rise of the pillar should be three-sixths."
+  },
+  {
+   "verse": 1178,
+   "rows": [
+    {
+     "surface": "pādocca",
+     "gloss": "pillar-height",
+     "grounds": "compound pāda+ucca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārdhapaṃcāṃśaṃ",
+     "gloss": "five-and-half-parts",
+     "grounds": "compound sa+ardha+pañca+aṃśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṃcaṃ",
+     "gloss": "platform",
+     "grounds": "architectural platform element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārhda",
+     "gloss": "with-half",
+     "grounds": "form as given, indicating half addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgayā",
+     "gloss": "with-two-parts",
+     "grounds": "form as given, indicating two parts",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "What proportional measures govern the pillar height and platform?",
+   "premises": [
+    "The pillar height is five-and-half parts",
+    "The platform is measured accordingly",
+    "An additional measure of half with two parts is specified"
+   ],
+   "inference": "The pillar height and platform follow specified fractional proportions.",
+   "uncertainties": [
+    "Exact parsing of sārhda dvibhāgayā is uncertain"
+   ],
+   "plain_english": "The pillar height is five-and-a-half parts, and the platform is measured with half and two parts."
+  },
+  {
+   "verse": 1179,
+   "rows": [
+    {
+     "surface": "sārdhadvibhāgamaṃcoccaṃ",
+     "gloss": "platform-height-two-and-half-parts",
+     "grounds": "compound sārdha+dvi+bhāga+maṃca+ucca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃcāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "compound pañca+aṃśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "pillar-rise",
+     "grounds": "compound caraṇa+udaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What heights are assigned to the platform and pillar rise?",
+   "premises": [
+    "The platform height is two-and-half parts",
+    "The pillar rise is five parts",
+    "Both measures are stated together"
+   ],
+   "inference": "The platform should be two-and-half parts high and the pillar rise five parts.",
+   "uncertainties": [],
+   "plain_english": "The platform height should be two-and-a-half parts, and the rise of the pillar five parts."
+  },
+  {
+   "verse": 1180,
+   "rows": [
+    {
+     "surface": "pādahīnaṃ",
+     "gloss": "less-by-quarter",
+     "grounds": "compound pāda+hīna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "compound pañca+aṃśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "talipasyodayaṃ",
+     "gloss": "talipa-rise",
+     "grounds": "compound talipa+udaya with internal sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative sense of prescribed measure",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What rise should the talipa element have relative to five parts?",
+   "premises": [
+    "A measure of five parts is taken as base",
+    "It is reduced by one quarter",
+    "This defines the talipa rise"
+   ],
+   "inference": "The rise of the talipa should be five parts less by a quarter.",
+   "uncertainties": [
+    "Exact architectural meaning of talipa is uncertain"
+   ],
+   "plain_english": "The rise of the talipa should be five parts minus one quarter."
+  },
+  {
+   "verse": 1181,
+   "rows": [
+    {
+     "surface": "pādāyāmamidaṃ",
+     "gloss": "this-pillar-length",
+     "grounds": "compound pāda+āyāma+idam with internal sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādona",
+     "gloss": "less-by-quarter",
+     "grounds": "compound pāda+ūna",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃśamaṃcakam",
+     "gloss": "two-part-platform",
+     "grounds": "compound dvi+aṃśa+maṃcaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the pillar length and platform measure declared here?",
+   "premises": [
+    "This is declared as the pillar length",
+    "The platform is two parts",
+    "The platform measure is less by a quarter"
+   ],
+   "inference": "The pillar length is established and the platform is set at two parts less a quarter.",
+   "uncertainties": [],
+   "plain_english": "This is known as the pillar length, and the platform is two parts minus one quarter."
+  },
+  {
+   "verse": 1182,
+   "rows": [
+    {
+     "surface": "sārdhavedāṃśamānaṃ",
+     "gloss": "four-and-half-parts-measure",
+     "grounds": "compound sārdha+veda+aṃśa+māna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīrṣakaṃ",
+     "gloss": "headpiece",
+     "grounds": "top architectural member",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-act pari-√kḷp"
+    }
+   ],
+   "question": "What measure should be assigned to the headpiece element?",
+   "premises": [
+    "The headpiece is the object of design",
+    "Its measure is four-and-half parts",
+    "The text prescribes this design"
+   ],
+   "inference": "One should design the headpiece with a measure of four-and-half parts.",
+   "uncertainties": [],
+   "plain_english": "One should design the headpiece with a measure of four-and-a-half parts."
+  },
+  {
+   "verse": 1183,
+   "rows": [
+    {
+     "surface": "ambujāsanamākhyātaṃ",
+     "gloss": "called-lotus-seat",
+     "grounds": "compound ambuja+āsana+ākhyāta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadeva",
+     "gloss": "all-gods",
+     "grounds": "compound sarva+deva",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "priyāvaham",
+     "gloss": "dear-bringing",
+     "grounds": "compound priya+āvaha",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What designation and value are attributed to the lotus seat?",
+   "premises": [
+    "The element is called the lotus seat",
+    "It is associated with all gods",
+    "It brings what is dear to them"
+   ],
+   "inference": "The lotus seat is so named and is pleasing to all gods.",
+   "uncertainties": [],
+   "plain_english": "This is called the lotus seat, and it is pleasing to all the gods."
+  },
+  {
+   "verse": 1184,
+   "rows": [
+    {
+     "surface": "aśeṣa",
+     "gloss": "all",
+     "grounds": "without remainder",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sauṣṭikānāṃ",
+     "gloss": "of-auspicious-structures",
+     "grounds": "structures of good form",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīrṣaṃ",
+     "gloss": "top",
+     "grounds": "upper part or head",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "four-cornered shape",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shape should the top of all auspicious structures have?",
+   "premises": [
+    "The statement concerns all auspicious structures",
+    "Their top part is specified",
+    "The prescribed shape is square"
+   ],
+   "inference": "The top of all auspicious structures should indeed be square.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the top of all well-formed structures should be square."
+  },
+  {
+   "verse": 1185,
+   "rows": [
+    {
+     "surface": "sāntaraprastaropetaṃ",
+     "gloss": "with-intermediate-entablature",
+     "grounds": "compound sa+antara+prastara+upeta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "lower",
+     "grounds": "reduced or lower form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samonnatam",
+     "gloss": "evenly-raised",
+     "grounds": "compound sama+unnata",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative configurations are permitted for the top structure?",
+   "premises": [
+    "It may include an intermediate entablature",
+    "It may be lower",
+    "It may be evenly raised"
+   ],
+   "inference": "The top structure admits configurations with intermediate entablature, lower, or evenly raised.",
+   "uncertainties": [],
+   "plain_english": "It may have an intermediate entablature, or be lower, or be evenly raised."
+  },
+  {
+   "verse": 1186,
+   "rows": [
+    {
+     "surface": "vṛttākāraṃ",
+     "gloss": "round-shaped",
+     "grounds": "compound vṛtta+ākāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "designation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bhadranīvrakam",
+     "gloss": "bhadranīvraka",
+     "grounds": "name of the form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shape and name are prescribed for this architectural form?",
+   "premises": [
+    "The form should be made round-shaped",
+    "It is designated by a specific name",
+    "That name is bhadranīvraka"
+   ],
+   "inference": "A round-shaped form should be made and called bhadranīvraka.",
+   "uncertainties": [],
+   "plain_english": "It should be made round in shape and is called bhadranīvraka."
+  },
+  {
+   "verse": 1187,
+   "rows": [
+    {
+     "surface": "śivabhadramidaṃ",
+     "gloss": "this-śiva-auspicious",
+     "grounds": "compound śiva+bhadra+idam with internal sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivaprīti",
+     "gloss": "śiva-pleasure",
+     "grounds": "compound śiva+prīti",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "causing",
+     "grounds": "producing or effecting",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "highest degree",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and effect are attributed to this auspicious form?",
+   "premises": [
+    "This form is known as śivabhadra",
+    "It causes pleasure to Śiva",
+    "Its effect is supreme"
+   ],
+   "inference": "The form called śivabhadra is supremely pleasing to Śiva.",
+   "uncertainties": [],
+   "plain_english": "This is known as śivabhadra and is supremely pleasing to Śiva."
+  },
+  {
+   "verse": 1188,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "on-front",
+     "grounds": "front face or mouth area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lalāṭanāsāḍhyaṃ",
+     "gloss": "endowed-with-forehead-nose",
+     "grounds": "compound lalāṭa+nāsā+āḍhya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāgendramiti",
+     "gloss": "thus-nāga-lord",
+     "grounds": "compound nāga+indra+iti with internal sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjñitam",
+     "gloss": "named",
+     "grounds": "designated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What frontal features define the form named nāgendra?",
+   "premises": [
+    "The front is endowed with forehead and nose",
+    "This feature characterizes the form",
+    "It is named nāgendra"
+   ],
+   "inference": "The form with forehead and nose on its front is called nāgendra.",
+   "uncertainties": [],
+   "plain_english": "Endowed with a forehead and nose on its front, it is called nāgendra."
+  },
+  {
+   "verse": 1189,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "compound iti+aṃśumān+kāśyapa with internal sandhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaḍbhūmividhāna",
+     "gloss": "six-storey-arrangement",
+     "grounds": "compound ṣaṣ+bhūmi+vidhāna",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section of the text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvātriṃśaḥ",
+     "gloss": "thirty-second",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes the six-storey arrangement in this text?",
+   "premises": [
+    "The text is the Aṃśumān Kāśyapa",
+    "The topic is the six-storey arrangement",
+    "This is the thirty-second chapter"
+   ],
+   "inference": "The thirty-second chapter on the six-storey arrangement concludes here in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the thirty-second chapter on the arrangement of six storeys in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 1190,
+   "rows": [
+    {
+     "surface": "prāsādamānavidhinā",
+     "gloss": "by-temple-measure-rule",
+     "grounds": "compound prāsāda+māna+vidhi",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsodayaṃ",
+     "gloss": "dwelling-rise",
+     "grounds": "compound vāsa+udaya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-act pari-√kḷp"
+    }
+   ],
+   "question": "By what rule should the rise of the dwelling be determined?",
+   "premises": [
+    "The rise of the dwelling must be designed",
+    "The temple measure rule may be used",
+    "This is given as an alternative method"
+   ],
+   "inference": "One should design the dwelling rise according to the temple measure rule.",
+   "uncertainties": [],
+   "plain_english": "One should determine the rise of the dwelling according to the rule for temple measurements."
+  },
+  {
+   "verse": 1191,
+   "rows": [
+    {
+     "surface": "pakṣāṃśaṃ",
+     "gloss": "side-part",
+     "grounds": "compound pakṣa+aṃśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhittiviṣkambhaṃ",
+     "gloss": "wall-thickness",
+     "grounds": "compound bhitti+viṣkambha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "one part or unit",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ālindamiṣyate",
+     "gloss": "verandah-is-desired",
+     "grounds": "compound ālinda+iṣyate with internal sandhi",
+     "morph": "3.sg.passive-present √iṣ"
+    }
+   ],
+   "question": "What measures define the wall thickness and verandah width?",
+   "premises": [
+    "The wall thickness is one side-part",
+    "The verandah is desired with one part",
+    "Both measures are specified together"
+   ],
+   "inference": "The wall thickness is a side-part and the verandah is set at one part.",
+   "uncertainties": [],
+   "plain_english": "The wall thickness should be one side-part, and the verandah is desired to be one part."
+  },
+  {
+   "verse": 1192,
+   "rows": [
+    {
+     "surface": "vinyāsasūtrayorantara",
+     "gloss": "interval-between-layout-lines",
+     "grounds": "compound vinyāsa+sūtra+antara with internal sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhānvaṃśaṃ",
+     "gloss": "twelve-parts",
+     "grounds": "compound bhānu+aṃśa indicating twelve parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhajetsamam",
+     "gloss": "one-should-divide-equally",
+     "grounds": "compound vibhajet+samam with internal sandhi",
+     "morph": "3.sg.optative-act vi-√bhaj"
+    }
+   ],
+   "question": "How should the interval between layout lines be divided?",
+   "premises": [
+    "The interval between layout lines is taken",
+    "It is divided into twelve parts",
+    "The division must be equal"
+   ],
+   "inference": "One should divide the interval between the layout lines equally into twelve parts.",
+   "uncertainties": [],
+   "plain_english": "One should divide the interval between the layout lines equally into twelve parts."
+  },
+  {
+   "verse": 1193,
+   "rows": [
+    {
+     "surface": "paṃjaravyāsamekāṃśaṃ",
+     "gloss": "cage-width-one-part",
+     "grounds": "compound paṃjara+vyāsa+eka+aṃśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "gallery-interval",
+     "grounds": "compound hāra+antara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescribed result",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "How are the cage width and gallery interval apportioned?",
+   "premises": [
+    "The cage width takes one part",
+    "The remainder is left over",
+    "The remainder becomes the gallery interval"
+   ],
+   "inference": "The cage width should be one part and the remainder should form the gallery interval.",
+   "uncertainties": [
+    "Exact architectural meaning of paṃjara and hāra is context-dependent"
+   ],
+   "plain_english": "The width of the cage should be one part, and the remainder should be the gallery interval."
+  },
+  {
+   "verse": 1194,
+   "rows": [
+    {
+     "surface": "tasyordhve",
+     "gloss": "above-that",
+     "grounds": "compound tasya+ūrdhve with internal sandhi",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhūmivistāraṃ",
+     "gloss": "storey-width",
+     "grounds": "compound bhūmi+vistāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dharmabhāgavibhājite",
+     "gloss": "divided-into-ten-parts",
+     "grounds": "compound dharma+bhāga+vibhājita indicating ten parts",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should the storey width above be divided into parts?",
+   "premises": [
+    "The storey width above that is considered",
+    "It is divided into parts",
+    "The division is into ten parts"
+   ],
+   "inference": "The storey width above should be divided into ten parts.",
+   "uncertainties": [],
+   "plain_english": "Above that, the width of the storey should be divided into ten parts."
+  },
+  {
+   "verse": 1195,
+   "rows": [
+    {
+     "surface": "paṃjaravyāsamardhāṃśaṃ",
+     "gloss": "cage-width-half-part",
+     "grounds": "compound paṃjara+vyāsa+ardha+aṃśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "gallery-interval",
+     "grounds": "compound hāra+antara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescribed result",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What apportionment applies to cage width and gallery interval above?",
+   "premises": [
+    "The cage width takes half a part",
+    "The remainder is left over",
+    "The remainder becomes the gallery interval"
+   ],
+   "inference": "The cage width should be half a part and the remainder should form the gallery interval.",
+   "uncertainties": [],
+   "plain_english": "The width of the cage should be half a part, and the remainder should be the gallery interval."
+  },
+  {
+   "verse": 1196,
+   "rows": [
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage",
+     "grounds": "architectural cage element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭakoṣṭhaṃ",
+     "gloss": "kūṭa-chamber",
+     "grounds": "compound kūṭa+koṣṭha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvadeva",
+     "gloss": "in-same-way",
+     "grounds": "compound tadvat+eva with internal sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "laid down by rule",
+     "morph": "3.sg.passive-present vi-√dhā"
+    }
+   ],
+   "question": "How should the cage and kūṭa-chamber be arranged in this context?",
+   "premises": [
+    "The cage is under consideration",
+    "The kūṭa-chamber is under consideration",
+    "They are prescribed in the same way as before"
+   ],
+   "inference": "The cage and kūṭa-chamber should be arranged in the same manner as previously prescribed.",
+   "uncertainties": [],
+   "plain_english": "The cage and the kūṭa-chamber are prescribed in the same way as before."
+  },
+  {
+   "verse": 1197,
+   "rows": [
+    {
+     "surface": "vyomāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "compound vyoma+aṃśa indicating one part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-kūṭa",
+     "grounds": "compound karṇa+kūṭa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescribed result",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "compound eka+aṃśa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃjarastatam",
+     "gloss": "cage-extended",
+     "grounds": "compound paṃjara+tata with internal sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What parts are assigned to the corner kūṭa and the extended cage?",
+   "premises": [
+    "The corner kūṭa should be one part",
+    "The extended cage should be one part",
+    "Both measures are specified"
+   ],
+   "inference": "The corner kūṭa and the extended cage should each occupy one part.",
+   "uncertainties": [],
+   "plain_english": "The corner kūṭa should be one part, and the extended cage should be one part."
+  },
+  {
+   "verse": 1198,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "central hall element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "measure of two parts",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavadācaret",
+     "gloss": "one-should-do-as-before",
+     "grounds": "compound pūrvavat+ācaret with internal sandhi",
+     "morph": "3.sg.optative-act ā-√car"
+    }
+   ],
+   "question": "How should the central hall and remaining elements be arranged?",
+   "premises": [
+    "The hall is placed in the middle",
+    "The hall occupies two parts",
+    "The remainder should be treated as before"
+   ],
+   "inference": "The central hall should take two parts and the rest should be arranged as previously prescribed.",
+   "uncertainties": [],
+   "plain_english": "In the middle the hall should occupy two parts, and the remainder should be arranged as before."
+  },
+  {
+   "verse": 1199,
+   "rows": [
+    {
+     "surface": "kūṭamekāṃśamityuktaṃ",
+     "gloss": "kūṭa-said-one-part",
+     "grounds": "compound kūṭa+eka+aṃśa+iti+ukta with internal sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "central hall element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadviguṇāyam",
+     "gloss": "twice-that-length",
+     "grounds": "compound tad+dvi+guṇa+āyāma with internal sandhi",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What relative proportions are stated for the kūṭa and the hall?",
+   "premises": [
+    "The kūṭa is said to be one part",
+    "The hall is compared to it",
+    "The hall is twice that in length"
+   ],
+   "inference": "The kūṭa is one part and the hall is twice that length.",
+   "uncertainties": [],
+   "plain_english": "The kūṭa is said to be one part, and the hall is twice that in length."
+  }
+ ]
+}

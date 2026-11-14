@@ -1,0 +1,955 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2751,
+   "rows": [
+    {
+     "surface": "paitṛkaṃ",
+     "gloss": "paternal",
+     "grounds": "relating to the father",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of becoming",
+     "morph": "3.sg.optative-act + bhū"
+    },
+    {
+     "surface": "gotraṃ",
+     "gloss": "lineage",
+     "grounds": "family line",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "higher or upward",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitṛ",
+     "gloss": "father",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daivatam",
+     "gloss": "deity",
+     "grounds": "object of worship",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which lineage is paternal and which deity stands above as paternal?",
+   "premises": [
+    "The lineage may be paternal",
+    "A higher paternal deity is recognized"
+   ],
+   "inference": "Paternal lineage and a paternal deity are distinguished as two related principles.",
+   "uncertainties": [],
+   "plain_english": "The lineage may be paternal, but above it stands the paternal deity."
+  },
+  {
+   "verse": 2752,
+   "rows": [
+    {
+     "surface": "pitṛgotraṃ",
+     "gloss": "father-lineage",
+     "grounds": "lineage of the father",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samutsṛjya",
+     "gloss": "having-abandoned",
+     "grounds": "completely giving up",
+     "morph": "(gerund) + sam-ut-sṛj"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādmātṛ",
+     "gloss": "should-do-mother",
+     "grounds": "fused form: optative of kṛ with mātṛ as compound member",
+     "morph": "3.sg.optative-act + kṛ; compound-member"
+    },
+    {
+     "surface": "gotrataḥ",
+     "gloss": "from-mother-lineage",
+     "grounds": "according to maternal lineage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is abandoning the paternal lineage for the maternal lineage permitted?",
+   "premises": [
+    "The paternal lineage may be abandoned",
+    "Action according to maternal lineage is considered"
+   ],
+   "inference": "One should not act according to the maternal lineage after abandoning the paternal lineage.",
+   "uncertainties": [
+    "The fused form kuryādmātṛ is analyzed without splitting the token."
+   ],
+   "plain_english": "Having abandoned the paternal lineage, one should not act according to the maternal lineage."
+  },
+  {
+   "verse": 2753,
+   "rows": [
+    {
+     "surface": "vidhirniṣedha",
+     "gloss": "injunction-prohibition",
+     "grounds": "rule and restriction",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codanā",
+     "gloss": "injunction",
+     "grounds": "scriptural directive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvividhā",
+     "gloss": "twofold",
+     "grounds": "of two kinds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "regarded as",
+     "morph": "f.nom.sg (past-participle) + man"
+    }
+   ],
+   "question": "How many kinds of scriptural injunction are recognized in this teaching?",
+   "premises": [
+    "Injunction and prohibition exist",
+    "Scriptural directive is classified"
+   ],
+   "inference": "Scriptural injunction is considered twofold as injunction and prohibition.",
+   "uncertainties": [],
+   "plain_english": "Thus scriptural injunction is considered twofold: injunction and prohibition."
+  },
+  {
+   "verse": 2754,
+   "rows": [
+    {
+     "surface": "vaiparītye",
+     "gloss": "in-reversal",
+     "grounds": "in case of inversion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvadharmasyāttena",
+     "gloss": "but-of-unrighteousness-thereby",
+     "grounds": "fused form indicating unrighteousness and consequence",
+     "morph": "m.gen.sg; (indecl.) (fused)"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "demerit or fault",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahadbhavet",
+     "gloss": "great-may-be",
+     "grounds": "fused form: great and optative of becoming",
+     "morph": "n.nom.sg; 3.sg.optative-act + bhū (fused)"
+    }
+   ],
+   "question": "What consequence follows from reversing the prescribed rule of conduct?",
+   "premises": [
+    "A reversal of the rule may occur",
+    "Unrighteousness arises from reversal"
+   ],
+   "inference": "Reversal of the rule results in great sin.",
+   "uncertainties": [
+    "Internal sandhi in tvadharmasyāttena and mahadbhavet noted without splitting tokens."
+   ],
+   "plain_english": "But in the case of reversal, there is unrighteousness, and thereby great sin arises."
+  },
+  {
+   "verse": 2755,
+   "rows": [
+    {
+     "surface": "yatkarmanayatītyuktaṃ",
+     "gloss": "which-action-leads-thus-said",
+     "grounds": "fused expression describing action that leads and is stated",
+     "morph": "n.nom.sg (fused compound/phrase)"
+    },
+    {
+     "surface": "prāyaścittamihāgame",
+     "gloss": "expiation-here-in-scripture",
+     "grounds": "fused form: expiation in this scripture",
+     "morph": "n.nom.sg; n.loc.sg (fused)"
+    }
+   ],
+   "question": "What is identified as expiation in this scripture for actions that lead astray?",
+   "premises": [
+    "An action that leads is mentioned",
+    "Expiation is taught in this scripture"
+   ],
+   "inference": "The scripture identifies expiation for the action that leads one astray.",
+   "uncertainties": [
+    "The long fused tokens are glossed functionally without splitting."
+   ],
+   "plain_english": "What is said to be the action that leads is declared here in this scripture to be expiation."
+  },
+  {
+   "verse": 2756,
+   "rows": [
+    {
+     "surface": "cidātmā",
+     "gloss": "consciousness-self",
+     "grounds": "self whose nature is consciousness",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kathitaśśāstre",
+     "gloss": "declared-in-scripture",
+     "grounds": "fused form: stated in the teaching",
+     "morph": "m.nom.sg (past-participle) + kath; n.loc.sg (fused)"
+    },
+    {
+     "surface": "taraṇaṃ",
+     "gloss": "crossing",
+     "grounds": "act of crossing over",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "takārataḥ",
+     "gloss": "from-letter-ta",
+     "grounds": "derived from the sound ta",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the conscious self and the meaning of crossing explained in the scripture?",
+   "premises": [
+    "The conscious self is declared in scripture",
+    "Crossing is derived from the letter ta"
+   ],
+   "inference": "The scripture explains the conscious self and interprets crossing through the letter ta.",
+   "uncertainties": [],
+   "plain_english": "The conscious self is declared in the scripture, and crossing is explained as derived from the letter ta."
+  },
+  {
+   "verse": 2757,
+   "rows": [
+    {
+     "surface": "tasmātprakīrtitaṃ",
+     "gloss": "therefore-proclaimed",
+     "grounds": "fused form: for that reason declared",
+     "morph": "n.nom.sg (past-participle) + pra-kīrt (fused)"
+    },
+    {
+     "surface": "viprāḥ",
+     "gloss": "brahmins",
+     "grounds": "learned ones",
+     "morph": "m.voc.pl"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "atonement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāśritāḥ",
+     "gloss": "devoted-to-shiva",
+     "grounds": "those who take refuge in Shiva",
+     "morph": "m.voc.pl (compound)"
+    }
+   ],
+   "question": "For whom is expiation proclaimed as a practice grounded in devotion to Shiva?",
+   "premises": [
+    "Expiation is proclaimed for a reason",
+    "The addressees are devoted to Shiva"
+   ],
+   "inference": "Expiation is proclaimed for brahmins who are devoted to Shiva.",
+   "uncertainties": [],
+   "plain_english": "Therefore, O brahmins devoted to Shiva, expiation is proclaimed."
+  },
+  {
+   "verse": 2758,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "in that state or context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "good result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "demerit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "neti",
+     "gloss": "not-thus",
+     "grounds": "negation expressed as 'not so'",
+     "morph": "(indecl.) (fused)"
+    },
+    {
+     "surface": "śāstrārtha",
+     "gloss": "scripture-meaning",
+     "grounds": "meaning of the teaching",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "niścayaḥ",
+     "gloss": "certainty",
+     "grounds": "determined conclusion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the certain scriptural conclusion regarding merit and sin in that state?",
+   "premises": [
+    "Merit and sin are considered",
+    "A scriptural conclusion is stated"
+   ],
+   "inference": "The certain scriptural meaning is that in that state there is neither merit nor sin.",
+   "uncertainties": [],
+   "plain_english": "In that, there is neither merit nor sin; this is the certain meaning of the scripture."
+  },
+  {
+   "verse": 2759,
+   "rows": [
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "should be performed",
+     "morph": "f.nom.sg (gerundive) + kṛ"
+    },
+    {
+     "surface": "paścimāsyena",
+     "gloss": "by-west-facing",
+     "grounds": "with the western face",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "koṇāsyena",
+     "gloss": "by-corner-facing",
+     "grounds": "with the corner face",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veti",
+     "gloss": "or-thus",
+     "grounds": "alternative expressed as 'or'",
+     "morph": "(indecl.) (fused)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By which ritual orientation should the prescribed action be performed?",
+   "premises": [
+    "An action is to be performed",
+    "Different orientations are considered"
+   ],
+   "inference": "The action should be performed with the west-facing orientation, not with the corner-facing one.",
+   "uncertainties": [
+    "The exact ritual referent of the action is not specified in this verse."
+   ],
+   "plain_english": "It should be done with the west-facing orientation, and not with the corner-facing one."
+  },
+  {
+   "verse": 2760,
+   "rows": [
+    {
+     "surface": "karmaṇāmapyanantatvād",
+     "gloss": "of-actions-also-from-endlessness",
+     "grounds": "fused form: because actions are endless",
+     "morph": "n.gen.pl; (indecl.) (fused)"
+    },
+    {
+     "surface": "granthavistāra",
+     "gloss": "text-expansion",
+     "grounds": "expansion of the treatise",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "doṣataḥ",
+     "gloss": "from-fault",
+     "grounds": "due to defect or drawback",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is a full enumeration of all ritual actions avoided in this text?",
+   "premises": [
+    "Actions are endless",
+    "Expanding the text is a fault"
+   ],
+   "inference": "Because actions are endless and textual expansion is a fault, not all actions are enumerated.",
+   "uncertainties": [],
+   "plain_english": "Because actions are endless and expanding the text would be a fault, they are not all detailed."
+  },
+  {
+   "verse": 2761,
+   "rows": [
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "japaśśivadhyānaṃ",
+     "gloss": "chanting-shiva-meditation",
+     "grounds": "fused form: recitation and meditation on Shiva",
+     "morph": "m.nom.sg; n.nom.sg (fused compound)"
+    },
+    {
+     "surface": "prāṇāyāmaḥ",
+     "gloss": "breath-control",
+     "grounds": "regulation of breath",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "ritual walking around",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which ritual practices are included among the prescribed expiatory acts?",
+   "premises": [
+    "Several ritual practices are listed",
+    "These practices serve a prescribed purpose"
+   ],
+   "inference": "Bathing, chanting with meditation on Shiva, breath control, and circumambulation are prescribed practices.",
+   "uncertainties": [],
+   "plain_english": "Bathing, chanting and meditation on Shiva, breath control, and circumambulation are prescribed."
+  },
+  {
+   "verse": 2762,
+   "rows": [
+    {
+     "surface": "śivajñānaratānāṃ",
+     "gloss": "of-those-delighting-in-shiva-knowledge",
+     "grounds": "those devoted to knowledge of Shiva",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanaṃ",
+     "gloss": "seeing",
+     "grounds": "beholding or audience",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tannirīkṣaṇam",
+     "gloss": "their-observation",
+     "grounds": "looking upon them",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What benefit comes from seeing those devoted to knowledge of Shiva?",
+   "premises": [
+    "People devoted to Shiva knowledge are mentioned",
+    "Seeing and observing them is listed"
+   ],
+   "inference": "Seeing and observing those devoted to Shiva knowledge is a prescribed beneficial act.",
+   "uncertainties": [],
+   "plain_english": "And seeing those devoted to the knowledge of Shiva, and observing them, is prescribed."
+  },
+  {
+   "verse": 2763,
+   "rows": [
+    {
+     "surface": "śivāgni",
+     "gloss": "shiva-fire",
+     "grounds": "fire sacred to Shiva",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "guru",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual honoring",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "feeding",
+     "grounds": "offering food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīkṣitātmanām",
+     "gloss": "of-initiated-selves",
+     "grounds": "of those who have received initiation",
+     "morph": "m.gen.pl (compound)"
+    }
+   ],
+   "question": "Which acts of worship and service toward initiated beings are prescribed?",
+   "premises": [
+    "Worship of Shiva, fire, and guru is mentioned",
+    "Feeding initiated persons is included"
+   ],
+   "inference": "Worship of Shiva, fire, and the guru, along with feeding the initiated, is prescribed.",
+   "uncertainties": [],
+   "plain_english": "Worship of Shiva, the fire, and the guru, and feeding those who are initiated, are prescribed."
+  },
+  {
+   "verse": 2764,
+   "rows": [
+    {
+     "surface": "śivāstrāmbhastato",
+     "gloss": "shiva-weapon-water-then",
+     "grounds": "fused form: water consecrated by Shiva's weapon, then",
+     "morph": "n.nom.sg; (indecl.) (fused compound)"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "ritual initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puṇyakṣetrādhivāsanam",
+     "gloss": "holy-place-dwelling",
+     "grounds": "residing in a sacred place",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What further purificatory measures involving consecrated water and sacred dwelling are prescribed?",
+   "premises": [
+    "Water consecrated by Shiva's weapon is mentioned",
+    "Initiation and dwelling in a holy place are listed"
+   ],
+   "inference": "Use of consecrated water, initiation, and dwelling in a holy place are prescribed measures.",
+   "uncertainties": [],
+   "plain_english": "Then there is water consecrated by Shiva's weapon, initiation, and dwelling in a holy place."
+  },
+  {
+   "verse": 2765,
+   "rows": [
+    {
+     "surface": "śāntiśca",
+     "gloss": "peace-and",
+     "grounds": "fused form: pacification and",
+     "morph": "f.nom.sg; (indecl.) (fused)"
+    },
+    {
+     "surface": "śāntihomaśca",
+     "gloss": "peace-offering-and",
+     "grounds": "fused form: pacificatory fire offering and",
+     "morph": "m.nom.sg; (indecl.) (fused compound)"
+    },
+    {
+     "surface": "diśākhyaḥ",
+     "gloss": "direction-named",
+     "grounds": "named according to directions",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "saṃhitāhutiḥ",
+     "gloss": "scripture-oblation",
+     "grounds": "offering with scriptural recitation",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "Which pacificatory rites and oblations are included in the prescribed remedies?",
+   "premises": [
+    "Pacification rites are listed",
+    "Specific oblations are mentioned"
+   ],
+   "inference": "Peace rites, a pacificatory fire offering, and a directional scriptural oblation are prescribed.",
+   "uncertainties": [
+    "The exact referent of diśākhyaḥ is context-dependent."
+   ],
+   "plain_english": "Peace, a pacificatory fire offering, and a directional oblation with scriptural recitation are prescribed."
+  },
+  {
+   "verse": 2766,
+   "rows": [
+    {
+     "surface": "ekāhādyutsavaśśītakumbho",
+     "gloss": "one-day-festival-cool-pot",
+     "grounds": "fused form: one-day festival and cool-water pot rite",
+     "morph": "m.nom.sg; m.nom.sg (fused compound)"
+    },
+    {
+     "surface": "vaiśeṣikārcanam",
+     "gloss": "special-worship",
+     "grounds": "distinctive worship",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What special festival observances and worship acts serve as remedial rites?",
+   "premises": [
+    "A one-day festival and cool-pot rite are mentioned",
+    "Special worship is included"
+   ],
+   "inference": "A one-day festival with a cool-pot rite and special worship are prescribed remedies.",
+   "uncertainties": [],
+   "plain_english": "A one-day festival with a cool-water pot rite and special worship are prescribed."
+  },
+  {
+   "verse": 2767,
+   "rows": [
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "distinguishing separately",
+     "morph": "(gerund) + vi-bhaj"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristics",
+     "grounds": "defining marks",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "of those rites",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "keṣāṃcidiha",
+     "gloss": "of-some-here",
+     "grounds": "fused form: of certain ones here",
+     "morph": "m.gen.pl; (indecl.) (fused)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "is explained",
+     "morph": "3.sg.present-passive + kath"
+    }
+   ],
+   "question": "How does the text proceed to explain the characteristics of selected remedial rites?",
+   "premises": [
+    "The rites have distinguishing characteristics",
+    "Only some are explained here"
+   ],
+   "inference": "The text distinguishes and explains the characteristics of some of these rites here.",
+   "uncertainties": [],
+   "plain_english": "Having distinguished their characteristics, the features of some of them are explained here."
+  },
+  {
+   "verse": 2768,
+   "rows": [
+    {
+     "surface": "soṣṇīṣassottarīyaśca",
+     "gloss": "with-turban-with-upper-cloth-and",
+     "grounds": "fused form: wearing turban and upper garment",
+     "morph": "m.nom.sg; m.nom.sg; (indecl.) (fused compound)"
+    },
+    {
+     "surface": "navāmbara",
+     "gloss": "new-garment",
+     "grounds": "new clothing",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "endowed-with",
+     "grounds": "provided with",
+     "morph": "m.nom.sg (past-participle) + sam-anv-i"
+    }
+   ],
+   "question": "What attire is required when performing the prescribed expiatory or pacificatory rite?",
+   "premises": [
+    "Specific garments are mentioned",
+    "The performer must be properly clothed"
+   ],
+   "inference": "The performer should wear a turban, an upper cloth, and new garments.",
+   "uncertainties": [],
+   "plain_english": "One should be equipped with a turban, an upper garment, and new clothing."
+  },
+  {
+   "verse": 2769,
+   "rows": [
+    {
+     "surface": "prāyaścitte'dbhute",
+     "gloss": "in-expiation-in-wonder",
+     "grounds": "fused form with elision: in expiation or in a portent",
+     "morph": "n.loc.sg; n.loc.sg (fused, sandhi)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative inclusive particle",
+     "morph": "(indecl.) (fused)"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace-rite",
+     "grounds": "pacification",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sadyasmamācaret",
+     "gloss": "immediately-should-perform",
+     "grounds": "fused form: should perform at once",
+     "morph": "(indecl.); 3.sg.optative-act + sam-ā-car (fused)"
+    }
+   ],
+   "question": "When must a pacification rite be performed in cases of expiation or portent?",
+   "premises": [
+    "Expiation or a portent may arise",
+    "A peace rite is prescribed"
+   ],
+   "inference": "In expiation or in response to a portent, one should perform the peace rite immediately.",
+   "uncertainties": [
+    "The exact nuance of adbhuta as portent or wonder depends on context."
+   ],
+   "plain_english": "In expiation or in the case of a portent, one should perform the peace rite immediately."
+  },
+  {
+   "verse": 2770,
+   "rows": [
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "atonement rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "performed",
+     "morph": "n.nom.sg (past-participle) + kṛ"
+    },
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "at once",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "most excellent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "declared",
+     "morph": "n.nom.sg (past-participle) + pra-kīrt"
+    }
+   ],
+   "question": "How is expiation performed immediately evaluated in this teaching?",
+   "premises": [
+    "Expiation may be performed immediately",
+    "Its quality is evaluated"
+   ],
+   "inference": "Expiation performed immediately is proclaimed as the best.",
+   "uncertainties": [],
+   "plain_english": "If expiation is performed immediately, it is proclaimed as the best."
+  },
+  {
+   "verse": 2771,
+   "rows": [
+    {
+     "surface": "tasmānmāsāvasānaṃ",
+     "gloss": "therefore-until-month-end",
+     "grounds": "fused form: therefore up to the end of a month",
+     "morph": "(indecl.); n.nom.sg (fused compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnamityabhidhīyate",
+     "gloss": "inferior-thus-is-called",
+     "grounds": "fused form: is called inferior",
+     "morph": "n.nom.sg; 3.sg.present-passive + abhi-dhā (fused)"
+    }
+   ],
+   "question": "How is delayed expiation up to the end of a month judged?",
+   "premises": [
+    "A time limit up to month-end is considered",
+    "A qualitative judgment is given"
+   ],
+   "inference": "Expiation delayed until the end of a month is called inferior.",
+   "uncertainties": [],
+   "plain_english": "Therefore, if it is delayed until the end of a month, it is called inferior."
+  },
+  {
+   "verse": 2772,
+   "rows": [
+    {
+     "surface": "liṅgapīṭhavimānādi",
+     "gloss": "linga-pedestal-shrine-etc",
+     "grounds": "linga, pedestal, shrine and so on",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "prāyaścittādikaṃ",
+     "gloss": "expiation-etc",
+     "grounds": "expiation and related rites",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-conduct",
+     "grounds": "should carry out or apply",
+     "morph": "3.sg.optative-act + nī"
+    }
+   ],
+   "question": "To which sacred objects should expiatory rites and related measures be applied?",
+   "premises": [
+    "Sacred objects such as linga and shrine are mentioned",
+    "Expiatory measures are to be applied"
+   ],
+   "inference": "Expiatory and related rites should be applied to the linga, pedestal, shrine, and similar objects.",
+   "uncertainties": [],
+   "plain_english": "One should carry out expiation and related rites for the linga, pedestal, shrine, and so forth."
+  },
+  {
+   "verse": 2773,
+   "rows": [
+    {
+     "surface": "prāyaścitte",
+     "gloss": "in-expiation",
+     "grounds": "when expiation is required",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samutpanne",
+     "gloss": "having-arisen",
+     "grounds": "when it has occurred",
+     "morph": "n.loc.sg (past-participle) + sam-ut-pad"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "doer",
+     "grounds": "the performer or patron",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśiko'thavā",
+     "gloss": "teacher-or",
+     "grounds": "fused form with elision: the teacher or alternatively",
+     "morph": "m.nom.sg; (indecl.) (fused, sandhi)"
+    }
+   ],
+   "question": "Who is responsible for performing rites when a need for expiation arises?",
+   "premises": [
+    "A situation requiring expiation arises",
+    "Possible responsible agents are named"
+   ],
+   "inference": "When expiation arises, either the patron or the teacher may perform it.",
+   "uncertainties": [],
+   "plain_english": "When expiation becomes necessary, either the patron or the teacher should act."
+  },
+  {
+   "verse": 2774,
+   "rows": [
+    {
+     "surface": "vittābhāvānmanaḥ",
+     "gloss": "from-lack-of-wealth-mind",
+     "grounds": "fused form: from lack of wealth and mental state",
+     "morph": "m.abl.sg; n.nom.sg (fused compound)"
+    },
+    {
+     "surface": "kṣobhādrāgadveṣādihetubhiḥ",
+     "gloss": "from-agitation-by-attachment-aversion-etc-causes",
+     "grounds": "fused form: due to agitation caused by attachment, aversion, and so on",
+     "morph": "m.abl.sg; m.inst.pl (fused compound)"
+    }
+   ],
+   "question": "What obstacles such as poverty or mental disturbance can hinder proper expiation?",
+   "premises": [
+    "Lack of wealth may occur",
+    "Mental agitation arises from attachment and aversion"
+   ],
+   "inference": "Lack of wealth and mental agitation caused by attachment, aversion, and similar factors can hinder expiation.",
+   "uncertainties": [
+    "The verse is fragmentary in sense and continues into the next context."
+   ],
+   "plain_english": "Because of lack of wealth, mental agitation, and causes such as attachment and aversion..."
+  }
+ ]
+}

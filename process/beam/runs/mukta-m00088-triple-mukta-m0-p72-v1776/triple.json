@@ -1,0 +1,867 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1776,
+   "rows": [
+    {
+     "surface": "mahā+vaktrā",
+     "gloss": "great-mouthed",
+     "grounds": "compound great+mouthed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmākhyā",
+     "gloss": "named-dharma",
+     "grounds": "compound dharma+named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dharmādi+sukha+dāyinī",
+     "gloss": "giver-of-happiness-beginning-with-dharma",
+     "grounds": "compound dharma+beginning+happiness+giving",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities describe the goddess as great-mouthed and dharma-named giver of happiness?",
+   "premises": [
+    "The goddess is great-mouthed.",
+    "She is named dharma.",
+    "She gives happiness beginning with dharma."
+   ],
+   "inference": "The verse presents her as a dharma-named, happiness-giving divine figure.",
+   "uncertainties": [
+    "Exact syntactic relation among compound members is not explicit."
+   ],
+   "plain_english": "Great-mouthed, named dharma, giver of happiness beginning with dharma."
+  },
+  {
+   "verse": 1777,
+   "rows": [
+    {
+     "surface": "sarva+indriyā",
+     "gloss": "all-senses",
+     "grounds": "compound all+senses",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+saṃsthā",
+     "gloss": "all-abodes",
+     "grounds": "compound all+abodes",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+indriya+mano+mayī",
+     "gloss": "all-senses-mind-made",
+     "grounds": "compound all+senses+mind+made",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess described as pervading senses, abodes, and mind?",
+   "premises": [
+    "She is all-senses.",
+    "She is all-abodes.",
+    "She is all-senses-mind-made."
+   ],
+   "inference": "The verse identifies her as the all-pervading ground of senses, abodes, and mind.",
+   "uncertainties": [
+    "Whether these are separate epithets or one fused description."
+   ],
+   "plain_english": "All senses, all abodes, made of all senses and mind."
+  },
+  {
+   "verse": 1778,
+   "rows": [
+    {
+     "surface": "sarva+pīḍa+upaśamanī",
+     "gloss": "all-pain-removing",
+     "grounds": "compound all+pain+removing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+abhīṣṭa+pradāyinī",
+     "gloss": "all-desired-giving",
+     "grounds": "compound all+desired+giving",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What benefits does the goddess bestow regarding pain and desire?",
+   "premises": [
+    "She removes all pain.",
+    "She gives all desired things."
+   ],
+   "inference": "The verse presents her as remover of pain and granter of desires.",
+   "uncertainties": [
+    "Scope of 'all' is rhetorical, not enumerated."
+   ],
+   "plain_english": "Removing all pain, giving all desired things."
+  },
+  {
+   "verse": 1779,
+   "rows": [
+    {
+     "surface": "bhīti+ghnī",
+     "gloss": "fear-destroying",
+     "grounds": "compound fear+destroying",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhakti+gamyā",
+     "gloss": "devotion-accessible",
+     "grounds": "compound devotion+accessible",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakta+apamṛtyu+nāśinī",
+     "gloss": "devotee-untimely-death-destroying",
+     "grounds": "compound devotee+untimely+death+destroying",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What protections and accessibility does the goddess offer devotees?",
+   "premises": [
+    "She destroys fear.",
+    "She is accessible through devotion.",
+    "She destroys devotees' untimely death."
+   ],
+   "inference": "The verse links devotion to protection from fear and untimely death.",
+   "uncertainties": [
+    "Whether 'bhakti-gamyā' means accessible by devotion or reached through devotion."
+   ],
+   "plain_english": "Destroying fear, accessible through devotion, destroying devotees' untimely death."
+  },
+  {
+   "verse": 1780,
+   "rows": [
+    {
+     "surface": "gaṇḍa+maṇḍita+saṅkāśā",
+     "gloss": "cheek-ornamented-like",
+     "grounds": "compound cheek+ornamented+like",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guñjā+hāra+vibhūṣaṇā",
+     "gloss": "guñjā-necklace-ornamented",
+     "grounds": "compound guñjā+necklace+ornamented",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess's bodily ornamentation described?",
+   "premises": [
+    "She is like one ornamented on the cheeks.",
+    "She is ornamented with a guñjā necklace."
+   ],
+   "inference": "The verse gives a decorative, bodily image of the goddess.",
+   "uncertainties": [
+    "'saṅkāśā' may imply resemblance rather than direct possession."
+   ],
+   "plain_english": "Like one ornamented on the cheeks, ornamented with a guñjā necklace."
+  },
+  {
+   "verse": 1781,
+   "rows": [
+    {
+     "surface": "amṛta+udadhi+madhya+sthā",
+     "gloss": "in-nectar-ocean-middle-standing",
+     "grounds": "compound nectar+ocean+middle+standing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prabāla+rasanā+ujjvalā",
+     "gloss": "coral-tongue-brilliant",
+     "grounds": "compound coral+tongue+brilliant",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where does the goddess stand and how is her tongue described?",
+   "premises": [
+    "She stands in the middle of the nectar ocean.",
+    "Her tongue is brilliant like coral."
+   ],
+   "inference": "The verse places her in an oceanic setting with a coral-like tongue.",
+   "uncertainties": [
+    "Whether 'prabāla' modifies tongue or brilliance."
+   ],
+   "plain_english": "Standing in the middle of the nectar ocean, brilliant with a coral-like tongue."
+  },
+  {
+   "verse": 1782,
+   "rows": [
+    {
+     "surface": "parama+ānanda+muditā",
+     "gloss": "supreme-bliss-rejoicing",
+     "grounds": "compound supreme+bliss+rejoicing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īṣat+prahasita+ānanā",
+     "gloss": "slightly-smiling-faced",
+     "grounds": "compound slightly+smiling+faced",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What emotional expression characterizes the goddess?",
+   "premises": [
+    "She rejoices in supreme bliss.",
+    "Her face is slightly smiling."
+   ],
+   "inference": "The verse depicts her as blissful with a gentle smile.",
+   "uncertainties": [
+    "Degree of smile is only 'slightly'."
+   ],
+   "plain_english": "Rejoicing in supreme bliss, slightly smiling-faced."
+  },
+  {
+   "verse": 1783,
+   "rows": [
+    {
+     "surface": "dig+vastrā",
+     "gloss": "sky-clad",
+     "grounds": "compound sky+clothed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deva+dūtī",
+     "gloss": "divine-messenger",
+     "grounds": "compound divine+messenger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+deva+adhidevatā",
+     "gloss": "god-of-gods-presiding-deity",
+     "grounds": "compound god+of+gods+presiding+deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What roles and status are assigned to the goddess?",
+   "premises": [
+    "She is sky-clad.",
+    "She is a divine messenger.",
+    "She is presiding deity of gods of gods."
+   ],
+   "inference": "The verse assigns her messenger, sky-clad, and supreme presiding roles.",
+   "uncertainties": [
+    "'deva+deva+adhidevatā' may be a layered compound."
+   ],
+   "plain_english": "Sky-clad, divine messenger, presiding deity of gods of gods."
+  },
+  {
+   "verse": 1784,
+   "rows": [
+    {
+     "surface": "aṭṭa+aṭṭa+hāsinī",
+     "gloss": "loud-laughing",
+     "grounds": "compound loud+loud+laughing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghorā",
+     "gloss": "terrible",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghora+danta+vināśinī",
+     "gloss": "terrible-tooth-destroying",
+     "grounds": "compound terrible+tooth+destroying",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess's fierce laughter and terrible aspect described?",
+   "premises": [
+    "She laughs loudly.",
+    "She is terrible.",
+    "She destroys terrible teeth."
+   ],
+   "inference": "The verse emphasizes a fierce, laughing, terrible form.",
+   "uncertainties": [
+    "'ghora+danta' may mean terrible teeth or teeth of the terrible."
+   ],
+   "plain_english": "Loud-laughing, terrible, destroying terrible teeth."
+  },
+  {
+   "verse": 1785,
+   "rows": [
+    {
+     "surface": "muktā+hāra+latā+upeta+tuṅga+pīna+payodharā",
+     "gloss": "pearl-garland-vine-adorned-high-full-breasted",
+     "grounds": "compound pearl+garland+vine+adorned+high+full+breasted",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What bodily and ornamental features are attributed to the goddess?",
+   "premises": [
+    "She is adorned with a pearl-garland vine.",
+    "She has high, full breasts."
+   ],
+   "inference": "The verse gives an ornate bodily description of the goddess.",
+   "uncertainties": [
+    "The long compound may contain multiple adjectival layers."
+   ],
+   "plain_english": "Adorned with a pearl-garland vine, high and full-breasted."
+  },
+  {
+   "verse": 1786,
+   "rows": [
+    {
+     "surface": "samasta+devatā+mūrtti",
+     "gloss": "all-deities-form",
+     "grounds": "compound all+deities+form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asura+kṣaya+kāriṇī",
+     "gloss": "asura-destruction-causing",
+     "grounds": "compound asura+destruction+causing",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cosmic form and destructive power belong to the goddess?",
+   "premises": [
+    "She is the form of all deities.",
+    "She causes destruction of asuras."
+   ],
+   "inference": "The verse identifies her as all-deity form and asura-destroyer.",
+   "uncertainties": [
+    "Whether 'mūrtti' is singular form or embodiment."
+   ],
+   "plain_english": "Form of all deities, causing destruction of asuras."
+  },
+  {
+   "verse": 1787,
+   "rows": [
+    {
+     "surface": "śaṅkhinī",
+     "gloss": "conch-bearing",
+     "grounds": "compound conch+bearing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāpinī",
+     "gloss": "bow-bearing",
+     "grounds": "compound bow+bearing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vajriṇī",
+     "gloss": "thunderbolt-bearing",
+     "grounds": "compound thunderbolt+bearing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rakta+dantikā",
+     "gloss": "red-toothed",
+     "grounds": "compound red+toothed",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which weapons, speech, and dental traits are attributed to the goddess?",
+   "premises": [
+    "She bears a conch.",
+    "She bears a bow.",
+    "She is speech.",
+    "She bears a thunderbolt.",
+    "She is red-toothed."
+   ],
+   "inference": "The verse lists her as armed, vocal, and red-toothed.",
+   "uncertainties": [
+    "Whether 'vāṇī' means speech or the goddess Vāṇī."
+   ],
+   "plain_english": "Conch-bearing, bow-bearing, speech, thunderbolt-bearing, red-toothed."
+  },
+  {
+   "verse": 1788,
+   "rows": [
+    {
+     "surface": "nānā+bharaṇa+dīpta+aṅgī",
+     "gloss": "various-ornament-brilliant-limbed",
+     "grounds": "compound various+ornament+brilliant+limbed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nānā+maṇi+vibhūṣitā",
+     "gloss": "various-gem-ornamented",
+     "grounds": "compound various+gem+ornamented",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess adorned and radiant?",
+   "premises": [
+    "Her limbs are brilliant with various ornaments.",
+    "She is ornamented with various gems."
+   ],
+   "inference": "The verse stresses radiant ornamentation with diverse gems.",
+   "uncertainties": [
+    "Whether 'nānā' modifies both ornament and gem equally."
+   ],
+   "plain_english": "Brilliant-limbed with various ornaments, ornamented with various gems."
+  },
+  {
+   "verse": 1789,
+   "rows": [
+    {
+     "surface": "trailokya+namitā",
+     "gloss": "three-worlds-bowed",
+     "grounds": "compound three+worlds+bowed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "worshipful",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cin+maya+ānanda+rūpiṇī",
+     "gloss": "consciousness-bliss-form",
+     "grounds": "compound consciousness+made+bliss+form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What worship status and ontological form does the goddess have?",
+   "premises": [
+    "The three worlds bow to her.",
+    "She is worshipful.",
+    "Her form is consciousness-bliss."
+   ],
+   "inference": "The verse combines universal reverence with a consciousness-bliss form.",
+   "uncertainties": [
+    "Whether 'cin+maya' means made of consciousness or consciousness-filled."
+   ],
+   "plain_english": "Bowed to by the three worlds, worshipful, form of consciousness-bliss."
+  },
+  {
+   "verse": 1790,
+   "rows": [
+    {
+     "surface": "ghora+agni+dāha+śamanī",
+     "gloss": "terrible-fire-burning-removing",
+     "grounds": "compound terrible+fire+burning+removing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bīja+daivādi+mālinī",
+     "gloss": "seed-divine-garlanded",
+     "grounds": "compound seed+divine+garlanded",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What destructive and seed-related powers are attributed to the goddess?",
+   "premises": [
+    "She removes terrible fire-burning.",
+    "She is garlanded with seed and divine elements."
+   ],
+   "inference": "The verse pairs fire-removal with seed-divine garlanding.",
+   "uncertainties": [
+    "'bīja+daivādi' may denote mantra seeds and deities."
+   ],
+   "plain_english": "Removing terrible fire-burning, garlanded with seed and divine elements."
+  },
+  {
+   "verse": 1791,
+   "rows": [
+    {
+     "surface": "rāga+ādi+roga+rahita",
+     "gloss": "passion-disease-free",
+     "grounds": "compound passion+beginning+disease+free",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jarā+maraṇa+varjitā",
+     "gloss": "old-age-death-devoid",
+     "grounds": "compound old+age+death+devoid",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What afflictions is the goddess said to be free from?",
+   "premises": [
+    "She is free from passion and disease.",
+    "She is devoid of old age and death."
+   ],
+   "inference": "The verse presents her as free from passion, disease, aging, and death.",
+   "uncertainties": [
+    "Gender/number mismatch between first and second epithets."
+   ],
+   "plain_english": "Free from passion and disease, devoid of old age and death."
+  },
+  {
+   "verse": 1792,
+   "rows": [
+    {
+     "surface": "sarva+devaiḥ+stutā",
+     "gloss": "by-all-gods-praised",
+     "grounds": "compound all+gods+praised",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+siddhaiḥ+namaskṛtā",
+     "gloss": "by-all-siddhas-saluted",
+     "grounds": "compound all+siddhas+saluted",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who praises and salutes the goddess?",
+   "premises": [
+    "She is praised by all gods.",
+    "She is the goddess.",
+    "She is saluted by all siddhas."
+   ],
+   "inference": "The verse states universal praise from gods and siddhas.",
+   "uncertainties": [
+    "Whether 'devī' is appositive or separate."
+   ],
+   "plain_english": "Praised by all gods, goddess, saluted by all siddhas."
+  },
+  {
+   "verse": 1793,
+   "rows": [
+    {
+     "surface": "svasti",
+     "gloss": "well-being",
+     "grounds": "noun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svastimatī",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bālā",
+     "gloss": "young",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "malaya+acala+vāsinī",
+     "gloss": "malaya-mountain-dwelling",
+     "grounds": "compound malaya+mountain+dwelling",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What auspicious and youthful qualities are attributed to the goddess?",
+   "premises": [
+    "She is well-being.",
+    "She is auspicious.",
+    "She is young.",
+    "She dwells on Malaya mountain."
+   ],
+   "inference": "The verse combines auspiciousness, youth, and mountain residence.",
+   "uncertainties": [
+    "'svasti' may be an exclamation rather than epithet."
+   ],
+   "plain_english": "Well-being, auspicious, young, dwelling on Malaya mountain."
+  },
+  {
+   "verse": 1794,
+   "rows": [
+    {
+     "surface": "rudrāṇī",
+     "gloss": "rudra's",
+     "grounds": "compound rudra's",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rudra+rūpā",
+     "gloss": "rudra-formed",
+     "grounds": "compound rudra+formed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raudrī",
+     "gloss": "fierce",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raudra+ārtti+nāśinī",
+     "gloss": "fierce-affliction-destroying",
+     "grounds": "compound fierce+affliction+destroying",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess related to Rudra and fierce affliction?",
+   "premises": [
+    "She is Rudra's.",
+    "She is Rudra-formed.",
+    "She is fierce.",
+    "She destroys fierce affliction."
+   ],
+   "inference": "The verse links her to Rudra and to destruction of fierce affliction.",
+   "uncertainties": [
+    "Whether 'rudrāṇī' means consort or Rudra's power."
+   ],
+   "plain_english": "Rudra's, Rudra-formed, fierce, destroying fierce affliction."
+  },
+  {
+   "verse": 1795,
+   "rows": [
+    {
+     "surface": "anāhatā",
+     "gloss": "unstruck",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tri+nayanā",
+     "gloss": "three-eyed",
+     "grounds": "compound three+eyed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nir+bhavā",
+     "gloss": "birthless",
+     "grounds": "compound without+birth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirvṛtiḥ",
+     "gloss": "bliss",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What transcendent qualities are attributed to the goddess?",
+   "premises": [
+    "She is unstruck.",
+    "She is three-eyed.",
+    "She is birthless.",
+    "She is bliss.",
+    "She is supreme."
+   ],
+   "inference": "The verse presents her as unstruck, three-eyed, birthless, blissful, and supreme.",
+   "uncertainties": [
+    "'anāhatā' may refer to unstruck sound or chakra."
+   ],
+   "plain_english": "Unstruck, three-eyed, birthless, bliss, supreme."
+  },
+  {
+   "verse": 1796,
+   "rows": [
+    {
+     "surface": "mahā+ambikā",
+     "gloss": "great-mother",
+     "grounds": "compound great+mother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantra+masyā",
+     "gloss": "mantra-of-her",
+     "grounds": "compound mantra+of+her",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mantra+mātā",
+     "gloss": "mantra-mother",
+     "grounds": "compound mantra+mother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "su+putriṇī",
+     "gloss": "good-sonned",
+     "grounds": "compound good+sonned",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What maternal and mantra-related roles belong to the goddess?",
+   "premises": [
+    "She is great mother.",
+    "She is of mantra.",
+    "She is mantra mother.",
+    "She is good-sonned."
+   ],
+   "inference": "The verse identifies her as great mother and mother of mantra.",
+   "uncertainties": [
+    "'mantra+masyā' is an unusual genitive compound."
+   ],
+   "plain_english": "Great mother, of mantra, mantra mother, good-sonned."
+  },
+  {
+   "verse": 1797,
+   "rows": [
+    {
+     "surface": "dhariṇī",
+     "gloss": "earth",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāriṇī",
+     "gloss": "supporting",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pṛthvī",
+     "gloss": "earth",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dharā",
+     "gloss": "earth",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhātrī",
+     "gloss": "nourisher",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vasundharā",
+     "gloss": "vasundharā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What earth and support epithets are given to the goddess?",
+   "premises": [
+    "She is earth.",
+    "She is supporting.",
+    "She is earth.",
+    "She is earth.",
+    "She is nourisher.",
+    "She is vasundharā."
+   ],
+   "inference": "The verse piles earth, support, and nourishment epithets.",
+   "uncertainties": [
+    "Some terms may be synonyms rather than distinct attributes."
+   ],
+   "plain_english": "Earth, supporting, earth, earth, nourisher, vasundharā."
+  },
+  {
+   "verse": 1798,
+   "rows": [
+    {
+     "surface": "śrīmatī",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīmatāṃ+śreṣṭhā",
+     "gloss": "of-auspicious-ones-best",
+     "grounds": "compound auspicious+ones+best",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrī+karī",
+     "gloss": "prosperity-causing",
+     "grounds": "compound prosperity+causing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrī+vibhāvinī",
+     "gloss": "splendor-manifesting",
+     "grounds": "compound splendor+manifesting",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What auspicious and prosperity-related qualities are attributed to the goddess?",
+   "premises": [
+    "She is auspicious.",
+    "She is best among auspicious ones.",
+    "She causes prosperity.",
+    "She manifests splendor."
+   ],
+   "inference": "The verse presents her as supreme auspicious prosperity-manifester.",
+   "uncertainties": [
+    "Whether 'śrī' means prosperity, splendor, or Lakṣmī."
+   ],
+   "plain_english": "Auspicious, best among auspicious ones, prosperity-causing, splendor-manifesting."
+  },
+  {
+   "verse": 1799,
+   "rows": [
+    {
+     "surface": "umā+śā",
+     "gloss": "umā's",
+     "grounds": "compound umā's",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śārṅgiṇī",
+     "gloss": "bow-bearing",
+     "grounds": "compound bow+bearing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "dark",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṭilā",
+     "gloss": "crooked",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṭila+alakā",
+     "gloss": "curly-haired",
+     "grounds": "compound curly+haired",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What form and attributes are given to Umā?",
+   "premises": [
+    "She is Umā's.",
+    "She is bow-bearing.",
+    "She is dark.",
+    "She is crooked.",
+    "She is curly-haired."
+   ],
+   "inference": "The verse describes Umā with bow, dark color, and curly hair.",
+   "uncertainties": [
+    "'umā+śā' may be a genitive or possessive compound."
+   ],
+   "plain_english": "Umā's, bow-bearing, dark, crooked, curly-haired."
+  }
+ ]
+}

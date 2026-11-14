@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "vāmamārge",
+     "gloss": "in-left-path",
+     "grounds": "locative of compound vāma-mārga indicating context",
+     "morph": "compound: vāma+mārga; m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking listed contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bauddhe",
+     "gloss": "in-buddhist",
+     "grounds": "locative indicating Buddhist context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jaine",
+     "gloss": "in-jaina",
+     "grounds": "locative indicating Jaina context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking listed contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śābare",
+     "gloss": "in-śābara",
+     "grounds": "locative indicating Śābara context",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "To which alternative ritual paths does the previously stated outcome extend?",
+   "premises": [
+    "The preceding verses describe a specific outcome in given circumstances.",
+    "This verse enumerates several alternative paths or traditions.",
+    "These enumerated contexts fall under the scope of that outcome."
+   ],
+   "inference": "The previously stated outcome extends to the left path, Buddhist, Jaina, and Śābara contexts.",
+   "uncertainties": [
+    "The exact scope of śābara in this context is not fully specified."
+   ],
+   "plain_english": "And in the left-hand path, and among Buddhists, Jains, and Śābaras."
+  }
+ ]
+}

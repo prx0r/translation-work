@@ -1,0 +1,51 @@
+{
+ "song": "sva-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "śivāmbhasā",
+     "gloss": "śiva-water",
+     "grounds": "compound śiva+ambhas in instrumental case",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "divine name in nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ambhas",
+     "gloss": "water",
+     "grounds": "neuter noun in nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhiṣeka",
+     "gloss": "consecration",
+     "grounds": "masculine noun in nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "neuter noun in nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What water is used for abhiṣeka?",
+   "premises": [
+    "śivāmbhasā denotes Śiva water",
+    "abhiṣeka names consecration",
+    "jala names water"
+   ],
+   "inference": "abhiṣeka is performed with Śiva water",
+   "uncertainties": [
+    "token order may be appositional"
+   ],
+   "plain_english": "Abhiṣeka is performed with Śiva-water, Śiva water."
+  }
+ ]
+}

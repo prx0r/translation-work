@@ -1,0 +1,77 @@
+# mukta-m00120 mukta-m0-p64
+*Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
+
+## mukta-m0-p64-v1576
+[delight](ramaṇaṃ) [power+united](śakti+saṃyuktaṃ) [own+bodies](sva+deheṣu) [distinguished](viśeṣakam)
+
+## mukta-m0-p64-v1577
+[own+power](sva+śakti) [delight+for-the-sake](ramaṇa+arthe) [even](api) [other+power](para+śaktiṃ) [should-enjoy](ramet) [in-Śiva](śive)
+
+## mukta-m0-p64-v1578
+[own+power](sva+śaktiṃ) [other+power](para+śaktiṃ) [or](vā) [one](caikāṃ) [having-known](jñātvā) [should-enjoy](ramet) [auspicious](śivām)
+
+## mukta-m0-p64-v1579
+[such](tādṛk) [happiness](sukhaṃ) [of-the-body](śarīrasya) [ever](kadācit) [not+indeed](na+eva) [arises](jāyate)
+
+## mukta-m0-p64-v1580
+[Ramā](ramā) [worship+mere](pūjana+mātreṇa) [Ramā](ramā) [his](tasya) [in-hand](kare) [situated](sthitā)
+
+## mukta-m0-p64-v1581
+[therefore](ata) [indeed](eva) [kula+practitioner](kula+ācārī) [by-mouth](mukhena) [devotion+partaking](bhakti+bhāg) [should-be](bhavet)
+
+## mukta-m0-p64-v1582
+[own-will+conduct](sva+icchā+ācāre) [vulva+cavity](yoni+garte) [liṅga](liṅgaṃ) [should-place](dadyāt) [by-her-command](tat+ājñayā)
+
+## mukta-m0-p64-v1583
+[sexual-union](maithunaṃ) [if](cet) [power+united](śakti+yuktaṃ) [only](kevalaṃ) [of-Śakti+by-command](śakteḥ+ājñayā)
+
+## mukta-m0-p64-v1584
+[own+house](sva+gehe) [rice-pudding](pāyasaṃ) [having-abandoned](tyaktvā) [alms](bhikṣām) [wanders](aṭati) [evil-minded](durmatiḥ)
+
+## mukta-m0-p64-v1585
+[thus](iti) [by-Śrī-Sarvānandanātha+composed](śrī+sarvānandanātha+viracite) [in-Sarvollāsa](sarva+ullāse) [fifty-second+chapter](dvāpañcāśat+ullāsaḥ)
+
+## mukta-m0-p64-v1586
+[ever+blissful](sadā+ānandaḥ) [ever+peaceful](sadā+śāntaḥ) [siddhānta+conduct](siddhānta+ācāra) [is-called](ucyate)
+
+## mukta-m0-p64-v1587
+[not](na) [they](te) [see](paśyanti) [that](taṃ) [god](devaṃ) [in-vain](vṛthā) [their](teṣāṃ) [effort](pariśramaḥ)
+
+## mukta-m0-p64-v1588
+[family](kulaṃ) [conduct](śīlaṃ) [likewise](tathā) [birth](jātiḥ) [and-eight](ca+aṣṭau) [bonds](pāśāḥ) [are-declared](prakīrtitāḥ)
+
+## mukta-m0-p64-v1589
+[that](sa) [soul](jīvaḥ) [O-supreme-goddess](parama+īśāni) [Śiva](śiva) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+
+## mukta-m0-p64-v1590
+[therefore](ata) [indeed](eva) [kula+practitioner](kula+ācārī) [self](ātmānaṃ) [should-satisfy](toṣayet) [with-joy](mudā)
+
+## mukta-m0-p64-v1591
+[enjoyment](bhogaḥ) [and](ca) [liberation](mokṣaḥ) [and](ca) [in-hand+standing](kara+stha) [indeed](eva)
+
+## mukta-m0-p64-v1592
+[self](ātmānaṃ) [deity](devatāṃ) [having-considered](matvā) [should-satisfy](toṣayet) [by-delight+and-so-on](ramaṇa+ādinā)
+
+## mukta-m0-p64-v1593
+[in-hand](kara+sthaṃ) [Kaustubha-jewel](kaustubhaṃ) [having-abandoned](tyaktvā) [wanders](bhramate) [glass+craving](kāca+tṛṣṇayā)
+
+## mukta-m0-p64-v1594
+[soul](jīvaṃ) [god+consisting-of](deva+mayaṃ) [having-known](jñātvā) [should-satisfy](toṣayet) [in-eating+and-so-on](bhojana+ādiṣu)
+
+## mukta-m0-p64-v1595
+[happiness+suffering+and-so-on](sukha+duḥkha+ādayaḥ) [all](sarve) [of-the-soul](jīvasya) [also](api) [O-great-goddess](mahā+īśvari)
+
+## mukta-m0-p64-v1596
+[for-deluding](vimohanāya) [of-people](lokānāṃ) [therefore](tasmāt) [equal+minded](sama+manā) [one-should-be](bhavet)
+
+## mukta-m0-p64-v1597
+[difference+feeling](bheda+bhāva) [mind](mano) [of-whom](yasya) [his](tasya) [liberation](mokṣo) [not](na) [arises](jāyate)
+
+## mukta-m0-p64-v1598
+[all](sarvaṃ) [body+consisting-of](deha+mayaṃ) [having-known](jñātvā) [body](dehaṃ) [in-Śiva](śive)
+
+## mukta-m0-p64-v1599
+[soul+knowledge](jīva+jñānaṃ) [without](vinā) [O-goddess](devi) [Śiva+knowledge](śiva+jñānaṃ) [not](na) [if](cet) [anywhere](kvacit)
+
+## mukta-m0-p64-v1600
+[self+Brahman+thus](ātma+brahma+iti) [having-known](saṃjñātvā) [god+Brahman+thus](deva+brahma+iti) [should-conceive](bhāvayet)

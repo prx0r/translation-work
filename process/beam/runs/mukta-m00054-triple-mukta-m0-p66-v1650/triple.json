@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "śarvarī+jāgritā",
+     "gloss": "night-awake",
+     "grounds": "compound epithet describing wakefulness during the night",
+     "morph": "compound: śarvarī+jāgritā; f.nom.sg"
+    },
+    {
+     "surface": "yogyā",
+     "gloss": "worthy",
+     "grounds": "epithet indicating fitness or suitability",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "epithet identifying the goddess as a yoginī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yogi+vanditā",
+     "gloss": "yogis-saluted",
+     "grounds": "compound epithet indicating veneration by yogis",
+     "morph": "compound: yogi+vanditā; f.nom.sg"
+    }
+   ],
+   "question": "By what attributes of nocturnal vigilance, worthiness, and veneration is the goddess characterized?",
+   "premises": [
+    "The goddess is described as awake during the night.",
+    "The goddess is characterized as worthy.",
+    "The goddess is identified as a yoginī.",
+    "The goddess is saluted by yogis."
+   ],
+   "inference": "The goddess is characterized as a vigilant and worthy yoginī who receives the reverence of yogis.",
+   "uncertainties": [],
+   "plain_english": "She is awake through the night, worthy, a yoginī, and saluted by yogis."
+  }
+ ]
+}

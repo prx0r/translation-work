@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "na+ataḥ",
+     "gloss": "not-than-this",
+     "grounds": "negation plus ablative demonstrative; fused form kept as one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parataraṃ",
+     "gloss": "higher",
+     "grounds": "comparative adjective indicating surpassing degree",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "anything",
+     "grounds": "indefinite pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "subject of the declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ati+adhikaṃ",
+     "gloss": "more-exalted",
+     "grounds": "intensified comparative adjective; fused form kept as one token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is any reality higher or more exalted than the guru?",
+   "premises": [
+    "Nothing is higher than this.",
+    "Nothing is more exalted than the guru.",
+    "The beloved is directly addressed with this claim."
+   ],
+   "inference": "Therefore, the guru stands as the supreme and unsurpassed reality.",
+   "uncertainties": [
+    "The referent of ataḥ may point back to the guru or to the preceding context."
+   ],
+   "plain_english": "O beloved, there is nothing higher or more exalted than the guru."
+  }
+ ]
+}

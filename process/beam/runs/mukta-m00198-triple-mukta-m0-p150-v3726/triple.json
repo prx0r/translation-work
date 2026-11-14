@@ -1,0 +1,1076 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3726,
+   "rows": [
+    {
+     "surface": "aṣṭābhiḥ",
+     "gloss": "by-eight",
+     "grounds": "numeral instrumental indicating multiplier",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vardhayet",
+     "gloss": "should-increase",
+     "grounds": "optative prescribing calculation step",
+     "morph": "3.sg.act.opt-pres + vṛdh"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified agent performing calculation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇavrāsam",
+     "gloss": "quality-mass",
+     "grounds": "quantity to be multiplied",
+     "morph": "m.acc.sg, compound=guṇa+vrāsa"
+    },
+    {
+     "surface": "vasubhiḥ",
+     "gloss": "by-eights",
+     "grounds": "numeral instrumental indicating divisor",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "haret",
+     "gloss": "should-take-away",
+     "grounds": "optative prescribing division or subtraction",
+     "morph": "3.sg.act.opt-pres + hṛ"
+    }
+   ],
+   "question": "What arithmetical operations must the wise practitioner apply to the quality-mass?",
+   "premises": [
+    "The wise one should increase by eight.",
+    "The wise one should take away by eights.",
+    "The object of operation is the quality-mass."
+   ],
+   "inference": "A prescribed calculation requires multiplying the quality-mass by eight and then dividing or reducing by eight.",
+   "uncertainties": [
+    "The exact technical meaning of guṇavrāsa in this ritual calculation is unclear."
+   ],
+   "plain_english": "The wise person should multiply the quality-mass by eight and then divide it by eight."
+  },
+  {
+   "verse": 3727,
+   "rows": [
+    {
+     "surface": "triṃśārdhavavaśeṣaṃ",
+     "gloss": "thirty-half-remainder",
+     "grounds": "resulting remainder after division by half of thirty",
+     "morph": "n.nom.sg, compound=triṃśat+ardha+avaśeṣa"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nandādi",
+     "gloss": "nanda-and-so-on",
+     "grounds": "category beginning with nanda",
+     "morph": "n.nom.sg, compound=nanda+ādi"
+    },
+    {
+     "surface": "nidhayodbhavet",
+     "gloss": "treasure-would-arise",
+     "grounds": "fused form indicating resulting treasure category",
+     "morph": "m.nom.sg + 3.sg.act.opt-pres + bhū, sandhi=nidhayaḥ+udbhavet"
+    }
+   ],
+   "question": "What treasure category arises from the remainder after division by half of thirty?",
+   "premises": [
+    "A remainder is obtained from half of thirty.",
+    "The result is linked to nanda and related categories.",
+    "A treasure category arises from this remainder."
+   ],
+   "inference": "The remainder after dividing by fifteen yields a treasure category beginning with nanda.",
+   "uncertainties": [
+    "The precise calculation yielding nanda etc. treasures is not fully explicit."
+   ],
+   "plain_english": "But when the remainder from half of thirty is taken, the treasure beginning with nanda arises."
+  },
+  {
+   "verse": 3728,
+   "rows": [
+    {
+     "surface": "āyādhikyaṃ",
+     "gloss": "income-excess",
+     "grounds": "surplus of income over expenditure",
+     "morph": "n.nom.sg, compound=āya+ādhikya"
+    },
+    {
+     "surface": "vyayaṃ",
+     "gloss": "expense",
+     "grounds": "expenditure amount",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣīṇaṃ",
+     "gloss": "diminished",
+     "grounds": "reduced or lesser state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃpadāmāspadaṃ",
+     "gloss": "of-prosperities-abode",
+     "grounds": "locus or seat of wealth",
+     "morph": "n.nom.sg, compound=saṃpad+āspada"
+    },
+    {
+     "surface": "padam",
+     "gloss": "place",
+     "grounds": "state or position attained",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What condition of income and expense constitutes an abode of prosperity?",
+   "premises": [
+    "Income may be in excess.",
+    "Expense may be diminished.",
+    "Such a state is called an abode of prosperities."
+   ],
+   "inference": "When income exceeds and expense is diminished, the situation becomes a seat of prosperity.",
+   "uncertainties": [
+    "The syntactic relation among the listed terms is compressed and partly ambiguous."
+   ],
+   "plain_english": "Excess of income and diminished expense form a place that is an abode of prosperity."
+  },
+  {
+   "verse": 3729,
+   "rows": [
+    {
+     "surface": "vyādhirogabhayakleśaṃ",
+     "gloss": "disease-illness-fear-distress",
+     "grounds": "collection of harmful conditions",
+     "morph": "m.acc.sg, compound=vyādhi+roga+bhaya+kleśa"
+    },
+    {
+     "surface": "vardhayeyuḥ",
+     "gloss": "they-would-increase",
+     "grounds": "optative indicating mutual augmentation",
+     "morph": "3.pl.act.opt-pres + vṛdh"
+    },
+    {
+     "surface": "parasparam",
+     "gloss": "mutually",
+     "grounds": "reciprocal relation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do disease, illness, fear, and distress affect one another in adverse conditions?",
+   "premises": [
+    "Disease, illness, fear, and distress are grouped together.",
+    "They would increase.",
+    "Their increase is mutual."
+   ],
+   "inference": "Disease, illness, fear, and distress mutually intensify one another.",
+   "uncertainties": [
+    "The specific triggering condition for this mutual increase is not stated in this verse."
+   ],
+   "plain_english": "Disease, illness, fear, and distress would increase one another mutually."
+  },
+  {
+   "verse": 3730,
+   "rows": [
+    {
+     "surface": "vāreṣu",
+     "gloss": "on-weekdays",
+     "grounds": "locative indicating days of the week",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sitaśaśī",
+     "gloss": "white-moon",
+     "grounds": "bright lunar association or Friday/Monday context implied",
+     "morph": "m.nom.sg, compound=sita+śaśin"
+    },
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "growth",
+     "grounds": "increase or prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guruvāre",
+     "gloss": "on-guru-day",
+     "grounds": "Thursday as auspicious day",
+     "morph": "m.loc.sg, compound=guru+vāra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding another condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛddhidam",
+     "gloss": "prosperity-giving",
+     "grounds": "that which grants prosperity",
+     "morph": "n.nom.sg, compound=ṛddhi+da"
+    }
+   ],
+   "question": "Which weekdays are declared to bring growth and prosperity in this reckoning?",
+   "premises": [
+    "On weekdays the white moon brings growth.",
+    "On the day of the guru there is also a favorable result.",
+    "That result is described as prosperity-giving."
+   ],
+   "inference": "Certain weekdays, including the white-moon day and Thursday, are auspicious for growth and prosperity.",
+   "uncertainties": [
+    "The exact identification of sitaśaśī as a specific weekday is context-dependent."
+   ],
+   "plain_english": "Among the weekdays, the white-moon day brings growth, and Thursday gives prosperity."
+  },
+  {
+   "verse": 3731,
+   "rows": [
+    {
+     "surface": "bhadrā",
+     "gloss": "bhadra",
+     "grounds": "name of an auspicious lunar day type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.), sandhi=ca+eva"
+    },
+    {
+     "surface": "jayā",
+     "gloss": "jaya",
+     "grounds": "name of an auspicious lunar day type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrṇā",
+     "gloss": "full",
+     "grounds": "name of an auspicious lunar day type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tithayastu",
+     "gloss": "lunar-days-but",
+     "grounds": "fused form naming tithis as subject",
+     "morph": "f.nom.pl + (indecl.), sandhi=tithayaḥ+tu"
+    },
+    {
+     "surface": "śubhāvahāḥ",
+     "gloss": "auspicious-bringing",
+     "grounds": "bringing good results",
+     "morph": "f.nom.pl, compound=śubha+āvaha"
+    }
+   ],
+   "question": "Which lunar days are identified as bringing auspicious results for undertakings?",
+   "premises": [
+    "Bhadrā, jayā, and pūrṇā are named.",
+    "These are lunar days.",
+    "They are described as bringing auspicious results."
+   ],
+   "inference": "The lunar days bhadrā, jayā, and pūrṇā are auspicious.",
+   "uncertainties": [
+    "The technical definitions of bhadrā, jayā, and pūrṇā tithis follow broader calendrical systems not specified here."
+   ],
+   "plain_english": "The lunar days bhadrā, jayā, and pūrṇā bring auspicious results."
+  },
+  {
+   "verse": 3732,
+   "rows": [
+    {
+     "surface": "kartṛjanmādinādhvāstu",
+     "gloss": "doer-birth-etc-path-but",
+     "grounds": "path reckoned from doer's birth and so on",
+     "morph": "m.nom.sg + (indecl.), compound=kartṛ+janma+ādi+nā+adhvan, sandhi=adhvā+tu"
+    },
+    {
+     "surface": "*",
+     "gloss": "unreadable",
+     "grounds": "missing or illegible token in source",
+     "morph": "(unreadable)"
+    },
+    {
+     "surface": "*",
+     "gloss": "unreadable",
+     "grounds": "missing or illegible token in source",
+     "morph": "(unreadable)"
+    },
+    {
+     "surface": "studinasīmakam",
+     "gloss": "good-day-limit",
+     "grounds": "boundary or limit of an auspicious day",
+     "morph": "n.nom.sg, compound=stu+dina+sīmaka"
+    }
+   ],
+   "question": "What limit related to the doer's birth-path and an auspicious day is being indicated here?",
+   "premises": [
+    "The path beginning from the doer's birth is mentioned.",
+    "Two tokens are unreadable in the source.",
+    "A limit of a good day is named."
+   ],
+   "inference": "The verse relates the doer's birth-path to the limit of an auspicious day, but the full rule is unclear.",
+   "uncertainties": [
+    "Two tokens are missing or illegible.",
+    "The intended calculation or boundary rule cannot be reconstructed securely."
+   ],
+   "plain_english": "The path from the doer's birth and so on extends to the limit of a good day, but part of the text is missing."
+  },
+  {
+   "verse": 3733,
+   "rows": [
+    {
+     "surface": "vasunandadinaṃ",
+     "gloss": "vasu-nanda-day",
+     "grounds": "day associated with numbers eight and nine",
+     "morph": "n.nom.sg, compound=vasu+nanda+dina"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "most excellent or auspicious",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "janmādi",
+     "gloss": "birth-and-so-on",
+     "grounds": "reckoning starting from birth",
+     "morph": "n.nom.sg, compound=janma+ādi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker emphasizing recurrence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which day-count reckoned from birth is declared best in this sequence?",
+   "premises": [
+    "The vasu-nanda day is named.",
+    "It is declared best.",
+    "The reckoning from birth is repeated again and again."
+   ],
+   "inference": "The day counted as vasu-nanda from birth is considered especially auspicious in repeated reckoning.",
+   "uncertainties": [
+    "The exact numerical mapping of vasu and nanda in this context is not fully specified."
+   ],
+   "plain_english": "The vasu-nanda day is best, counting again and again from birth onward."
+  },
+  {
+   "verse": 3734,
+   "rows": [
+    {
+     "surface": "viṣāya",
+     "gloss": "for-poison",
+     "grounds": "dative-like form indicating harmful category",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dvādaśaṃ",
+     "gloss": "twelfth",
+     "grounds": "ordinal position",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lagnaṃ",
+     "gloss": "ascendant",
+     "grounds": "rising sign or moment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matyāvasura",
+     "gloss": "matyavasura",
+     "grounds": "unclear technical term or name",
+     "morph": "(unclear)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative prescribing avoidance",
+     "morph": "3.sg.act.opt-pres + vṛj"
+    }
+   ],
+   "question": "Which ascendant must be avoided because of its association with a harmful condition?",
+   "premises": [
+    "The twelfth ascendant is mentioned.",
+    "It is associated with poison or harm.",
+    "One should avoid it."
+   ],
+   "inference": "The twelfth ascendant, linked to a harmful condition, should be avoided.",
+   "uncertainties": [
+    "The meaning of matyāvasura is unclear.",
+    "The grammatical role of viṣāya is uncertain in this context."
+   ],
+   "plain_english": "One should avoid the twelfth ascendant, which is associated with poison."
+  },
+  {
+   "verse": 3735,
+   "rows": [
+    {
+     "surface": "bhuktajanmadinadvāstu",
+     "gloss": "enjoyed-birth-day-dwelling-but",
+     "grounds": "dwelling or place related to experienced birth day",
+     "morph": "n.nom.sg + (indecl.), compound=bhukta+janma+dina+dvā, sandhi=dvā+tu"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "by name or namely",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛkṣavirodhikam",
+     "gloss": "star-opposing",
+     "grounds": "in conflict with the lunar mansion",
+     "morph": "n.nom.sg, compound=ṛkṣa+virodhika"
+    }
+   ],
+   "question": "What kind of birth-day dwelling is identified as opposed to the lunar mansion?",
+   "premises": [
+    "A dwelling related to the experienced birth day is mentioned.",
+    "It is named as such.",
+    "It is opposed to the lunar mansion."
+   ],
+   "inference": "The birth-day dwelling in question is characterized as conflicting with the lunar mansion.",
+   "uncertainties": [
+    "The compound bhuktajanmadinadvāstu is difficult to parse with certainty."
+   ],
+   "plain_english": "The dwelling connected with the experienced birth day is said to be opposed to the lunar mansion."
+  },
+  {
+   "verse": 3736,
+   "rows": [
+    {
+     "surface": "meṣe",
+     "gloss": "in-aries",
+     "grounds": "zodiacal sign Aries",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mithune",
+     "gloss": "in-gemini",
+     "grounds": "zodiacal sign Gemini",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karkisiṃhataulikavṛścike",
+     "gloss": "in-cancer-leo-libra-scorpio",
+     "grounds": "fused list of zodiacal signs",
+     "morph": "m.loc.sg, compound=karki+siṃha+taulika+vṛścika"
+    }
+   ],
+   "question": "Which zodiacal signs are enumerated as the relevant settings in this passage?",
+   "premises": [
+    "Aries is mentioned.",
+    "Gemini is mentioned.",
+    "Cancer, Leo, Libra, and Scorpio are mentioned together."
+   ],
+   "inference": "The verse lists Aries, Gemini, Cancer, Leo, Libra, and Scorpio as relevant signs.",
+   "uncertainties": [
+    "The specific action prescribed for these signs is given in the following verse."
+   ],
+   "plain_english": "In Aries, in Gemini, and in Cancer, Leo, Libra, and Scorpio."
+  },
+  {
+   "verse": 3737,
+   "rows": [
+    {
+     "surface": "grāmādyārambhaṇaṃ",
+     "gloss": "village-etc-beginning",
+     "grounds": "commencement of a village and similar works",
+     "morph": "n.nom.sg, compound=grāma+ādi+ārambhaṇa"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "most auspicious",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhārambhaṃ",
+     "gloss": "house-beginning",
+     "grounds": "commencement of a house",
+     "morph": "m.acc.sg, compound=gṛha+ārambha"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhanam",
+     "gloss": "auspicious",
+     "grounds": "favorable or good",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kinds of beginnings are declared best and auspicious under the listed signs?",
+   "premises": [
+    "The beginning of a village and so on is mentioned.",
+    "It is declared best.",
+    "The beginning of a house is also declared auspicious."
+   ],
+   "inference": "Beginning a village and beginning a house are auspicious under the stated conditions.",
+   "uncertainties": [
+    "The connection to the signs in the previous verse is implied but not repeated explicitly."
+   ],
+   "plain_english": "The beginning of a village and the like is best, and the beginning of a house is auspicious."
+  },
+  {
+   "verse": 3738,
+   "rows": [
+    {
+     "surface": "grāmārambhaṃ",
+     "gloss": "village-beginning",
+     "grounds": "commencement of a village",
+     "morph": "m.acc.sg, compound=grāma+ārambha"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive indicating obligation or permissibility",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viparītaṃ",
+     "gloss": "opposite",
+     "grounds": "reverse or contrary manner",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-do",
+     "grounds": "causative optative prescribing action",
+     "morph": "3.sg.act.opt-caus-pres + kṛ"
+    }
+   ],
+   "question": "What prohibitions govern the beginning of a village and its contrary execution?",
+   "premises": [
+    "The beginning of a village should not be done in certain cases.",
+    "The opposite should not be caused to be done.",
+    "Both direct and causative actions are restricted."
+   ],
+   "inference": "One must neither improperly begin a village nor have it done in a contrary manner.",
+   "uncertainties": [
+    "The exact conditions making it improper are not specified in this verse."
+   ],
+   "plain_english": "One should not undertake the beginning of a village, nor cause it to be done in the opposite way."
+  },
+  {
+   "verse": 3739,
+   "rows": [
+    {
+     "surface": "viprairadhiṣṭhitaṃ",
+     "gloss": "by-brahmins-presided-over",
+     "grounds": "supervised or occupied by brahmins",
+     "morph": "n.nom.sg, compound=vipra+adhiṣṭhita"
+    },
+    {
+     "surface": "yattan",
+     "gloss": "that-which",
+     "grounds": "fused relative-demonstrative expression",
+     "morph": "n.nom.sg, sandhi=yat+tat"
+    },
+    {
+     "surface": "malakṣmyā",
+     "gloss": "by-misfortune",
+     "grounds": "by inauspicious goddess or misfortune",
+     "morph": "f.inst.sg, compound=mala+lakṣmī"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "exists or is present",
+     "morph": "3.sg.pass.pres + vid"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative addressing a twice-born",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What presence of misfortune is said to affect a place presided over by brahmins?",
+   "premises": [
+    "A place presided over by brahmins is mentioned.",
+    "Misfortune is found there.",
+    "The statement is addressed to a twice-born."
+   ],
+   "inference": "Even a place overseen by brahmins may be found to be affected by misfortune.",
+   "uncertainties": [
+    "The intended contrast or corrective is not fully clear from this verse alone."
+   ],
+   "plain_english": "O twice-born, that which is presided over by brahmins is found to be affected by misfortune."
+  },
+  {
+   "verse": 3740,
+   "rows": [
+    {
+     "surface": "grāmāḥ",
+     "gloss": "villages",
+     "grounds": "settlements",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syadanyavāsaṃ",
+     "gloss": "may-be-other-dwelling",
+     "grounds": "possibly another type of residence",
+     "morph": "n.nom.sg, compound=syat+anya+vāsa"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṭikā",
+     "gloss": "hut",
+     "grounds": "small dwelling",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "quotation or enumeration marker",
+     "morph": "(indecl.), sandhi=ca+iti"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "stated or named",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are villages and other dwellings classified in this terminological statement?",
+   "premises": [
+    "Villages are mentioned.",
+    "Another dwelling may be distinguished.",
+    "A hut is named and declared as such."
+   ],
+   "inference": "The text distinguishes villages from other dwellings and identifies a hut as a named category.",
+   "uncertainties": [
+    "The form syadanyavāsaṃ is obscure and may be textually uncertain."
+   ],
+   "plain_english": "Villages, or another dwelling, and a hut are thus declared."
+  },
+  {
+   "verse": 3741,
+   "rows": [
+    {
+     "surface": "samastajāti",
+     "gloss": "all-castes",
+     "grounds": "comprising all social groups",
+     "morph": "n.nom.sg, compound=samasta+jāti"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "combined or endowed with",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "krayavikrayakairyutam",
+     "gloss": "with-buy-sell-doers-endowed",
+     "grounds": "possessing those engaged in buying and selling",
+     "morph": "n.nom.sg, compound=kraya+vikraya+ka+āyuta, sandhi=kaiḥ+yutam"
+    }
+   ],
+   "question": "What social and commercial composition characterizes the settlement being described?",
+   "premises": [
+    "It is joined with all castes.",
+    "It is endowed with buyers and sellers.",
+    "Both social diversity and commerce are present."
+   ],
+   "inference": "The described settlement includes all castes and people engaged in trade.",
+   "uncertainties": [
+    "The exact referent of the described settlement is carried over from context."
+   ],
+   "plain_english": "It is joined with all castes and endowed with people engaged in buying and selling."
+  },
+  {
+   "verse": 3742,
+   "rows": [
+    {
+     "surface": "sāgarāṇāṃ",
+     "gloss": "of-oceans",
+     "grounds": "genitive plural referring to seas",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "at-side",
+     "grounds": "location beside",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāgarānugatāyatam",
+     "gloss": "ocean-following-extended",
+     "grounds": "stretched along following the ocean",
+     "morph": "n.nom.sg, compound=sāgara+anugata+āyata"
+    }
+   ],
+   "question": "Where is the described settlement situated in relation to the oceans?",
+   "premises": [
+    "It is at the side of the oceans.",
+    "It is extended following the ocean.",
+    "Its layout is aligned with the sea."
+   ],
+   "inference": "The settlement lies beside the oceans and stretches along them.",
+   "uncertainties": [
+    "The repetition of tu is stylistic and does not add clear semantic contrast."
+   ],
+   "plain_english": "It lies at the side of the oceans, extended along the line of the sea."
+  },
+  {
+   "verse": 3743,
+   "rows": [
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "location in or near water",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parvavadhaṃkastivane",
+     "gloss": "parvavadhamkastivana",
+     "grounds": "obscure compound or place description",
+     "morph": "(unclear), compound=parva+vadhaṃ+kasti+vana"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "girisaṃgare",
+     "gloss": "in-mountain-junction",
+     "grounds": "meeting place of mountains",
+     "morph": "n.loc.sg, compound=giri+saṃgara"
+    }
+   ],
+   "question": "What alternative locations are mentioned for the placement of the settlement?",
+   "premises": [
+    "A location in water is mentioned.",
+    "An obscure alternative location is mentioned.",
+    "A mountain junction is mentioned as another alternative."
+   ],
+   "inference": "The settlement may be placed in water-related areas, an unclear location, or at a mountain junction.",
+   "uncertainties": [
+    "The token parvavadhaṃkastivane is highly obscure and cannot be reliably analyzed."
+   ],
+   "plain_english": "It may be in water, in parvavadhaṃkastivane, or at a junction of mountains."
+  },
+  {
+   "verse": 3744,
+   "rows": [
+    {
+     "surface": "samastajāti",
+     "gloss": "all-castes",
+     "grounds": "comprising all social groups",
+     "morph": "n.nom.sg, compound=samasta+jāti"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "combined or endowed with",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadravyasamanvitam",
+     "gloss": "with-all-goods-endowed",
+     "grounds": "possessing all kinds of materials or wealth",
+     "morph": "n.nom.sg, compound=sarva+dravya+samanvita"
+    }
+   ],
+   "question": "What social inclusiveness and material abundance define the settlement in this description?",
+   "premises": [
+    "It is joined with all castes.",
+    "It is endowed with all goods.",
+    "Social and material completeness are both asserted."
+   ],
+   "inference": "The settlement is characterized by inclusion of all castes and possession of all kinds of goods.",
+   "uncertainties": [
+    "The referent continues from prior verses and is not explicitly restated."
+   ],
+   "plain_english": "It is joined with all castes and endowed with all kinds of goods."
+  },
+  {
+   "verse": 3745,
+   "rows": [
+    {
+     "surface": "prāgukta",
+     "gloss": "previously-said",
+     "grounds": "as stated earlier",
+     "morph": "m.nom.sg, compound=prāk+ukta"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "according to prescribed method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "brahmin",
+     "grounds": "vocative addressing a brahmin",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "dikparicchedanaṃ",
+     "gloss": "direction-delimitation",
+     "grounds": "marking out of directions",
+     "morph": "n.acc.sg, compound=dik+paricchedana"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative command",
+     "morph": "2.sg.act.impv-pres + kṛ"
+    }
+   ],
+   "question": "What directional procedure must the brahmin perform according to the earlier rule?",
+   "premises": [
+    "A previously stated rule is invoked.",
+    "The addressee is a brahmin.",
+    "The delimitation of directions must be done."
+   ],
+   "inference": "The brahmin is instructed to carry out the delimitation of directions according to the earlier method.",
+   "uncertainties": [
+    "The details of the previously stated rule are not included in this verse."
+   ],
+   "plain_english": "O brahmin, carry out the delimitation of the directions according to the rule stated earlier."
+  },
+  {
+   "verse": 3746,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "whole",
+     "grounds": "entire or complete",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādamevaṃ",
+     "gloss": "foot-thus",
+     "grounds": "a quarter or foot in this manner",
+     "morph": "m.nom.sg + (indecl.), sandhi=pādam+evam"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative indicating result",
+     "morph": "3.sg.act.opt-pres + as"
+    },
+    {
+     "surface": "pecakaṃ",
+     "gloss": "pecaka",
+     "grounds": "technical term for a unit or figure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣpadam",
+     "gloss": "four-footed",
+     "grounds": "having four parts or quarters",
+     "morph": "n.nom.sg, compound=catur+pada"
+    }
+   ],
+   "question": "How is the whole unit divided into feet and identified as a four-footed pecaka?",
+   "premises": [
+    "The whole is considered as a foot in this way.",
+    "A pecaka is named.",
+    "It is described as four-footed."
+   ],
+   "inference": "The complete unit is structured as a four-footed pecaka.",
+   "uncertainties": [
+    "The technical meaning of pecaka in this architectural or diagrammatic context is unclear."
+   ],
+   "plain_english": "Thus the whole would be a foot, and the pecaka would be four-footed."
+  },
+  {
+   "verse": 3747,
+   "rows": [
+    {
+     "surface": "paṃcaviṃśatyupapīṭhaṃ",
+     "gloss": "twenty-five-sub-seat",
+     "grounds": "configuration with twenty-five sub-seats",
+     "morph": "n.nom.sg, compound=pañcaviṃśati+upapīṭha"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative indicating result",
+     "morph": "3.sg.act.opt-pres + as"
+    },
+    {
+     "surface": "ṣaḍviṃśatyupapīṭhakam",
+     "gloss": "twenty-six-sub-seat",
+     "grounds": "configuration with twenty-six sub-seats",
+     "morph": "n.nom.sg, compound=ṣaḍviṃśati+upapīṭhaka"
+    }
+   ],
+   "question": "What alternative sub-seat configurations are specified for the layout?",
+   "premises": [
+    "A twenty-five sub-seat configuration may be.",
+    "A twenty-six sub-seat configuration may be.",
+    "Both are presented as possible forms."
+   ],
+   "inference": "The layout may be arranged with either twenty-five or twenty-six sub-seats.",
+   "uncertainties": [
+    "The criteria for choosing between the two configurations are not stated."
+   ],
+   "plain_english": "There may be a configuration of twenty-five sub-seats, or one of twenty-six sub-seats."
+  },
+  {
+   "verse": 3748,
+   "rows": [
+    {
+     "surface": "ṣaṇṇavatyādhikaṃ",
+     "gloss": "ninety-six-excess",
+     "grounds": "exceeding by ninety-six",
+     "morph": "n.nom.sg, compound=ṣaṇṇavati+ādhika"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.), sandhi=ca+eva"
+    },
+    {
+     "surface": "śatabhadra",
+     "gloss": "hundred-bhadra",
+     "grounds": "name of a configuration or seat",
+     "morph": "n.nom.sg, compound=śata+bhadra"
+    },
+    {
+     "surface": "mahāsanam",
+     "gloss": "great-seat",
+     "grounds": "large or principal seat",
+     "morph": "n.nom.sg, compound=mahā+āsana"
+    }
+   ],
+   "question": "What great-seat configuration is defined by an excess of ninety-six units?",
+   "premises": [
+    "An excess of ninety-six is specified.",
+    "The configuration is called śatabhadra.",
+    "It is identified as a great seat."
+   ],
+   "inference": "A great seat called śatabhadra is defined with an excess of ninety-six units.",
+   "uncertainties": [
+    "The base number to which ninety-six is added is not explicit in this verse."
+   ],
+   "plain_english": "And indeed, exceeding by ninety-six, there is the great seat called śatabhadra."
+  },
+  {
+   "verse": 3749,
+   "rows": [
+    {
+     "surface": "rasādhikaṃ",
+     "gloss": "rasa-excess",
+     "grounds": "exceeding by six",
+     "morph": "n.nom.sg, compound=rasa+ādhika"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāṃśaṃ",
+     "gloss": "five-part",
+     "grounds": "consisting of five parts",
+     "morph": "n.nom.sg, compound=pañca+aṃśa"
+    },
+    {
+     "surface": "*",
+     "gloss": "unreadable",
+     "grounds": "missing or illegible token in source",
+     "morph": "(unreadable)"
+    },
+    {
+     "surface": "śata",
+     "gloss": "hundred",
+     "grounds": "numeral hundred",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triyutaṃ",
+     "gloss": "three-added",
+     "grounds": "joined with three",
+     "morph": "n.nom.sg, compound=tri+yuta"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "optative indicating resulting total",
+     "morph": "3.sg.act.opt-pres + bhū"
+    }
+   ],
+   "question": "What numerical composition results when rasa-excess and three-added hundred are combined?",
+   "premises": [
+    "An excess of rasa is mentioned.",
+    "A five-part element is mentioned.",
+    "A hundred joined with three is stated as the result."
+   ],
+   "inference": "The configuration yields a total involving a hundred plus three, with additional specified increments, though one element is unreadable.",
+   "uncertainties": [
+    "One token is missing or illegible.",
+    "The full arithmetic relation among the terms cannot be securely reconstructed."
+   ],
+   "plain_english": "With an excess of rasa and a five-part element, it would become a hundred joined with three, but part of the text is missing."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "samṛddhi+",
+     "gloss": "prosperity",
+     "grounds": "first member of compound indicating abundance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mān",
+     "gloss": "possessing",
+     "grounds": "second member forming possessive adjective with samṛddhi+",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "optative expressing resulting state",
+     "morph": "3.sg.optative-active + √bhū"
+    },
+    {
+     "surface": "saḥ+",
+     "gloss": "he",
+     "grounds": "refers to the person described in previous verses",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds a further attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+",
+     "gloss": "all",
+     "grounds": "first member qualifying sins",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāpa+",
+     "gloss": "sin",
+     "grounds": "second member of compound object of removal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "haraḥ",
+     "gloss": "remover",
+     "grounds": "agent noun describing one who destroys sins",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates permanence of the sin-removing capacity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What prosperity and sin-destroying power accrue to the person who attains this liberation?",
+   "premises": [
+    "He also becomes endowed with prosperity.",
+    "He becomes a remover of all sins.",
+    "This sin-removing capacity is present always."
+   ],
+   "inference": "The liberated person gains both material abundance and a perpetual power to destroy all sins.",
+   "uncertainties": [
+    "The possessive form samṛddhimān is represented across two tokens, samṛddhi+ and mān."
+   ],
+   "plain_english": "He also becomes prosperous and is always one who removes all sins."
+  }
+ ]
+}

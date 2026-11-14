@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "acintyām",
+     "gloss": "unthinkable",
+     "grounds": "adjective describing the goddess form; negative of cintya",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aprameyāñca",
+     "gloss": "immeasurable-and",
+     "grounds": "sandhi of aprameyā plus ca; adjective describing the goddess form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrṇarūpāṃ",
+     "gloss": "full-form",
+     "grounds": "compound pūrṇa-rūpā; adjective describing the goddess form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "durāsadām",
+     "gloss": "hard-to-approach",
+     "grounds": "adjective describing the goddess form",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which four attributes define the goddess's worshipped form in this rite?",
+   "premises": [
+    "The verse lists four adjectives.",
+    "They modify the goddess form.",
+    "Worship follows measured triangle construction."
+   ],
+   "inference": "The worshipped goddess is unthinkable, immeasurable, full-formed, and hard to approach.",
+   "uncertainties": [
+    "The exact syntactic head is omitted in the excerpt."
+   ],
+   "plain_english": "Unthinkable, immeasurable, full-formed, and hard to approach."
+  }
+ ]
+}

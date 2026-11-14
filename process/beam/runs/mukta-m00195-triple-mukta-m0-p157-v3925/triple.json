@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3925,
+   "rows": [
+    {
+     "surface": "nāśaḥ",
+     "gloss": "destruction",
+     "grounds": "nominal subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the previously mentioned state",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the described destruction",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.ppp.pra-√vac"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "correlative demonstrative subject",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "predicate identifying the declared destruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What divine identity is claimed for the destruction that has been declared?",
+   "premises": [
+    "A destruction of that state is under discussion.",
+    "This destruction has been explicitly declared.",
+    "The declared destruction is identified as Maheśvara."
+   ],
+   "inference": "Therefore Maheśvara is the declared destruction of that state.",
+   "uncertainties": [
+    "The precise referent of 'asya' depends on the immediately preceding context."
+   ],
+   "plain_english": "That which is declared to be its destruction is Maheśvara."
+  }
+ ]
+}

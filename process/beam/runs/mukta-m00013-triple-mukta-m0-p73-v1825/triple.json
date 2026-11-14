@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "pāda",
+     "gloss": "foot",
+     "grounds": "bodily location in a series for ritual placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kaṭi",
+     "gloss": "hip",
+     "grounds": "bodily location in a series for ritual placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "hṛdaya",
+     "gloss": "heart",
+     "grounds": "bodily location in a series for ritual placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaktra",
+     "gloss": "face",
+     "grounds": "bodily location in a series for ritual placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūrddhasu",
+     "gloss": "heads",
+     "grounds": "bodily location in a series for ritual placement",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying the syllables to be placed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "syllables",
+     "grounds": "mantric syllables to be ritually placed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribes ritual placement (nyāsa)",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "On which five bodily locations must the five syllables be ritually placed?",
+   "premises": [
+    "Five bodily locations are specified: foot, hip, heart, face, and head.",
+    "Five syllables are the objects to be placed.",
+    "The verb nyaset prescribes their ritual placement."
+   ],
+   "inference": "Therefore, one should place the five syllables respectively on the foot, hip, heart, face, and head.",
+   "uncertainties": [
+    "The exact mapping of each specific syllable to each location is not stated in this verse."
+   ],
+   "plain_english": "One should place the five syllables on the foot, hip, heart, face, and head."
+  }
+ ]
+}

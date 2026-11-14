@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "itaḥ",
+     "gloss": "than-this",
+     "grounds": "indeclinable indicating comparison or limit beyond the previously stated measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "more",
+     "grounds": "comparative excess beyond the prescribed amount",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "agent subject to ritual consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive expressing prior action leading to consequence",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "prāyaścittī",
+     "gloss": "requiring-expiation",
+     "grounds": "one subject to ritual atonement due to transgression",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "expresses necessary consequence or obligation",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes inevitability of the stated consequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual consequence necessarily follows when a person performs more than the prescribed action?",
+   "premises": [
+    "A person may act beyond the previously stated prescribed measure.",
+    "Exceeding the prescribed ritual action constitutes a transgression.",
+    "Such transgression entails the obligation of expiation."
+   ],
+   "inference": "Therefore, a person who does more than prescribed certainly becomes subject to expiation.",
+   "uncertainties": [
+    "The exact scope of 'itaḥ' depends on the specific limits defined in the preceding verses."
+   ],
+   "plain_english": "If a person does more than this, he certainly becomes one who must perform expiation."
+  }
+ ]
+}

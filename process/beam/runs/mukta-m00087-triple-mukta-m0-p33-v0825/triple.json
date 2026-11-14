@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "yasmai",
+     "gloss": "to-whom",
+     "grounds": "relative pronoun in dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kasmai",
+     "gloss": "to-anyone",
+     "grounds": "interrogative pronoun in dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyo",
+     "gloss": "to-be-given",
+     "grounds": "passive participle from root dā",
+     "morph": "m.nom.sg (passive participle, root dā)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaḥ",
+     "gloss": "to-be-given",
+     "grounds": "passive participle from root dā",
+     "morph": "m.nom.sg (passive participle, root dā)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indeclinable adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom and to anyone should this teaching never be given?",
+   "premises": [
+    "The verse forbids giving to anyone.",
+    "The prohibition applies at all times.",
+    "No recipient is permitted."
+   ],
+   "inference": "The teaching is to be withheld from all recipients always.",
+   "uncertainties": [
+    "The exact referent of dātavya is unspecified.",
+    "The two dative forms may be rhetorical rather than distinct recipients."
+   ],
+   "plain_english": "To whom? To anyone? It is never to be given, never to be given at any time."
+  }
+ ]
+}

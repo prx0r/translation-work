@@ -1,0 +1,74 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p11",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "1402a7a5ea4bec51",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 142
+ },
+ "align": {
+  "min_ratio": 0.899,
+  "sub090": {
+   "255": {
+    "ratio": 0.899,
+    "disposition": "sandhi-only: ghātakaḥ→ghātako, iti+eṣa→ityeṣa, trividhaḥ→trividho; T1 writes citation eṣaḥ where source prints eṣa (missing visarga before trividha-; editorial normalization, same word/case) (assessor-verified 2026-11-14)"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 65,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 142,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "c9439b6c6ef64a57ab0a6453562166930b02e31c3b4b1985d5b920d32db9e458",
+  "l0": "0eef1e2de8c617925e32a374fffc51b41efb0ae8f99d2b95fd50e9e0e49f5c2c",
+  "argmap": "5b9c9b5029a109c9f17d9ca6c0a2075f937cf5d5fcbdd283671841d06dc11adc",
+  "l2": "00175b9b589c403d3e412c2fe5134b041c0e439f68eab9789005f18a1275ba63",
+  "c1": "ef03ac606bbd17e166cd30391d89a17cb4bdbeb4c8005de27af1383eae666102"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1402a7a5ea4bec51",
+  "t1": "kul-p11/data/kul-p11.t1.json",
+  "l0": "kul-p11/data/kul-p11.l0.json",
+  "l2": "kul-p11/data/kul-p11.l2.json",
+  "c1": "kul-p11/data/kul-p11.c1.json"
+ }
+}

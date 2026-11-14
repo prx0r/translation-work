@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "īśādhipatyaṃ",
+     "gloss": "īśa-lordship",
+     "grounds": "compound of īśa and adhipatya; neuter accusative singular",
+     "morph": "neut.acc.sg (compound)"
+    },
+    {
+     "surface": "yārṇaṃ",
+     "gloss": "which-letter",
+     "grounds": "compound of yad and arṇa; neuter accusative singular",
+     "morph": "neut.acc.sg (compound)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun; neuter accusative singular",
+     "morph": "neut.acc.sg (pron)"
+    },
+    {
+     "surface": "puruṣakavacaiḥ",
+     "gloss": "puruṣa-armor",
+     "grounds": "compound of puruṣa and kavaca; instrumental plural",
+     "morph": "neut.inst.pl (compound)"
+    },
+    {
+     "surface": "yutam",
+     "gloss": "joined",
+     "grounds": "past participle of yuj; neuter accusative singular",
+     "morph": "neut.acc.sg (ppp yuj)"
+    }
+   ],
+   "question": "What letter-bearing form is joined with puruṣa armor under īśa's lordship?",
+   "premises": [
+    "īśa holds lordship over the letter-form.",
+    "That letter-form is joined with puruṣa armor.",
+    "The verse names the letter-form as yārṇa."
+   ],
+   "inference": "The letter-form under īśa's lordship is joined with puruṣa armor.",
+   "uncertainties": [
+    "Compound and case analysis of īśādhipatyaṃ and yārṇaṃ is interpretive."
+   ],
+   "plain_english": "That letter-form, under īśa's lordship, is joined with puruṣa armor."
+  }
+ ]
+}

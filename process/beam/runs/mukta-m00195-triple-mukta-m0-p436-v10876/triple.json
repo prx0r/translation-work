@@ -1,0 +1,1089 @@
+{
+ "song": "mukta-m0-p436",
+ "items": [
+  {
+   "verse": 10876,
+   "rows": [
+    {
+     "surface": "tarpaṇādi",
+     "gloss": "libation-etc",
+     "grounds": "compound referring to libation and related rites",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completing prior ritual action",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "prayogārho",
+     "gloss": "fit-for-application",
+     "grounds": "qualified for ritual use",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative (bhū)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula as subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual completion renders a mantra fit for application?",
+   "premises": [
+    "Libation and related rites are performed first",
+    "Completion of these rites precedes application",
+    "A mantra becomes fit after such performance"
+   ],
+   "inference": "Performing tarpaṇa and related rites makes the mantra ready for ritual application",
+   "uncertainties": [],
+   "plain_english": "After performing libation and the other rites, the mantra becomes fit for application."
+  },
+  {
+   "verse": 10877,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṃja+patrair",
+     "gloss": "lotus-leaves",
+     "grounds": "oblation material",
+     "morph": "compound n.inst.pl"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "one-should-offer",
+     "grounds": "prescribed oblation act",
+     "morph": "3.sg.optative (hu)"
+    },
+    {
+     "surface": "homoyaṃ",
+     "gloss": "this-oblation",
+     "grounds": "fused form referring to the oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "loka+vaśya+kṛt",
+     "gloss": "world-subduing-making",
+     "grounds": "effect of the oblation",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What oblation material produces the subjugation of the world?",
+   "premises": [
+    "Lotus leaves may be used as oblation material",
+    "An oblation is to be offered with them",
+    "This oblation brings the world under control"
+   ],
+   "inference": "Offering an oblation with lotus leaves effects the subjugation of the world",
+   "uncertainties": [
+    "homoyaṃ taken as fused form for homo+ayam"
+   ],
+   "plain_english": "Or one should offer an oblation with lotus leaves; this oblation brings the world under control."
+  },
+  {
+   "verse": 10878,
+   "rows": [
+    {
+     "surface": "mallikābhir",
+     "gloss": "with-jasmine-flowers",
+     "grounds": "oblation material",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "jagad+vaśyaṃ",
+     "gloss": "world-subjugation",
+     "grounds": "resulting effect",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "bhavaty",
+     "gloss": "becomes",
+     "grounds": "result occurs",
+     "morph": "3.sg.present (bhū)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does oblation with jasmine flowers certainly bring world subjugation?",
+   "premises": [
+    "Jasmine flowers are used in oblation",
+    "World subjugation arises from this act",
+    "No doubt remains about this result"
+   ],
+   "inference": "Oblation with jasmine flowers assuredly produces subjugation of the world",
+   "uncertainties": [],
+   "plain_english": "With jasmine flowers, subjugation of the world indeed comes about; there is no doubt."
+  },
+  {
+   "verse": 10879,
+   "rows": [
+    {
+     "surface": "navabhir",
+     "gloss": "with-nine",
+     "grounds": "number of companions",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "deva+kanyābhir",
+     "gloss": "divine-maidens",
+     "grounds": "celestial female companions",
+     "morph": "compound f.inst.pl"
+    },
+    {
+     "surface": "deva+vatsa",
+     "gloss": "o-son-of-gods",
+     "grounds": "vocative address",
+     "morph": "compound m.voc.sg"
+    },
+    {
+     "surface": "pramodate",
+     "gloss": "he-rejoices",
+     "grounds": "resulting enjoyment",
+     "morph": "3.sg.present-middle (mud)"
+    }
+   ],
+   "question": "What enjoyment follows for the practitioner addressed as son of gods?",
+   "premises": [
+    "The practitioner is addressed as son of gods",
+    "Nine divine maidens are involved",
+    "He rejoices with them"
+   ],
+   "inference": "The practitioner rejoices with nine divine maidens",
+   "uncertainties": [],
+   "plain_english": "O son of the gods, he rejoices with nine divine maidens."
+  },
+  {
+   "verse": 10880,
+   "rows": [
+    {
+     "surface": "kapila+ājyaṃ",
+     "gloss": "brown-cow-ghee",
+     "grounds": "substance to be consumed",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "prescribed act",
+     "morph": "3.sg.optative (pā)"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "subject of condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrvā+rasa+vimiśritam",
+     "gloss": "dūrvā-juice-mixed",
+     "grounds": "mixture with dūrvā juice",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What mixture should a practitioner drink to gain the stated benefit?",
+   "premises": [
+    "A person may drink a prepared substance",
+    "The substance is ghee from a brown cow",
+    "It is mixed with dūrvā juice"
+   ],
+   "inference": "One should drink brown-cow ghee mixed with dūrvā juice",
+   "uncertainties": [],
+   "plain_english": "Whoever drinks ghee from a brown cow mixed with dūrvā juice."
+  },
+  {
+   "verse": 10881,
+   "rows": [
+    {
+     "surface": "śuddha+brāhmī+rasaṃ",
+     "gloss": "pure-brāhmī-juice",
+     "grounds": "alternative substance",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject attaining result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+jño",
+     "gloss": "all-knowing",
+     "grounds": "resulting state",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-become",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative (bhū)"
+    },
+    {
+     "surface": "drutam",
+     "gloss": "quickly",
+     "grounds": "speed of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative drink leads a person to become all-knowing quickly?",
+   "premises": [
+    "Pure brāhmī juice is an alternative",
+    "The same person consumes it",
+    "He becomes all-knowing quickly"
+   ],
+   "inference": "Drinking pure brāhmī juice makes one quickly all-knowing",
+   "uncertainties": [],
+   "plain_english": "Or if he drinks pure brāhmī juice, he quickly becomes all-knowing."
+  },
+  {
+   "verse": 10882,
+   "rows": [
+    {
+     "surface": "p. 638",
+     "gloss": "page-638",
+     "grounds": "editorial page marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "māsena",
+     "gloss": "in-a-month",
+     "grounds": "time period",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahat+aiśvaryaṃ",
+     "gloss": "great-sovereignty",
+     "grounds": "resulting power",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "arises as result",
+     "morph": "3.sg.present-middle (jan)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Within what time does great sovereignty arise without doubt?",
+   "premises": [
+    "A month passes after the practice",
+    "Great sovereignty arises",
+    "There is no doubt in this matter"
+   ],
+   "inference": "Great sovereignty arises within a month, without doubt",
+   "uncertainties": [],
+   "plain_english": "Within a month great sovereignty arises; there is no doubt about this."
+  },
+  {
+   "verse": 10883,
+   "rows": [
+    {
+     "surface": "dhana+vān",
+     "gloss": "wealthy",
+     "grounds": "possessing wealth",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.present-middle (jan)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "mantra adept as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitīya",
+     "gloss": "second",
+     "grounds": "comparison marker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "simile particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yakṣa+rāṭ",
+     "gloss": "yakṣa-king",
+     "grounds": "Kubera-like comparison",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What status of wealth does the mantra practitioner attain?",
+   "premises": [
+    "The mantra practitioner undergoes transformation",
+    "He becomes wealthy",
+    "He is compared to the king of yakṣas"
+   ],
+   "inference": "The practitioner becomes wealthy like a second king of the yakṣas",
+   "uncertainties": [],
+   "plain_english": "The practitioner becomes wealthy, like a second king of the yakṣas."
+  },
+  {
+   "verse": 10884,
+   "rows": [
+    {
+     "surface": "lakṣam",
+     "gloss": "hundred-thousand",
+     "grounds": "count of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "single unit of count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhi+sthāne",
+     "gloss": "prescribed-place",
+     "grounds": "ritually proper location",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "nidhi+lābho",
+     "gloss": "treasure-gain",
+     "grounds": "acquisition of treasure",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "result occurs",
+     "morph": "3.sg.optative (bhū)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assured result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What practice in a prescribed place certainly yields treasure?",
+   "premises": [
+    "One hundred thousand repetitions are performed",
+    "The practice occurs in a prescribed place",
+    "Gain of treasure certainly follows"
+   ],
+   "inference": "Performing one hundred thousand repetitions in the prescribed place certainly brings treasure",
+   "uncertainties": [],
+   "plain_english": "By performing one hundred thousand repetitions in the prescribed place, gain of treasure certainly comes about."
+  },
+  {
+   "verse": 10885,
+   "rows": [
+    {
+     "surface": "jñāna+pradaṃ",
+     "gloss": "knowledge-giving",
+     "grounds": "bestowing knowledge",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "mahā+mantraṃ",
+     "gloss": "great-mantra",
+     "grounds": "the mantra being described",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "sanaka+ādyair",
+     "gloss": "by-sanaka-and-others",
+     "grounds": "worshipped by sages",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "upāsitam",
+     "gloss": "worshipped",
+     "grounds": "reverently practiced",
+     "morph": "m.acc.sg past-participle (upās)"
+    }
+   ],
+   "question": "Which great mantra bestows knowledge and was worshipped by Sanaka and others?",
+   "premises": [
+    "The mantra gives knowledge",
+    "It is a great mantra",
+    "Sanaka and others worshipped it"
+   ],
+   "inference": "The knowledge-giving great mantra was worshipped by Sanaka and others",
+   "uncertainties": [],
+   "plain_english": "This great mantra, which gives knowledge, was worshipped by Sanaka and the others."
+  },
+  {
+   "verse": 10886,
+   "rows": [
+    {
+     "surface": "uttama+śloka+varyyāya",
+     "gloss": "to-best-of-renowned",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "nyasta+daṇḍa+arcita+aṃghraye",
+     "gloss": "placed-staff-worshipped-feet",
+     "grounds": "epithet describing honored feet",
+     "morph": "compound m.dat.sg"
+    }
+   ],
+   "question": "To whom is homage directed through these honorific epithets?",
+   "premises": [
+    "The recipient is called best among the renowned",
+    "His feet are worshipped by those who have laid down the staff",
+    "The verse offers salutation to him"
+   ],
+   "inference": "Homage is directed to the supreme renowned one whose feet are worshipped by renunciants",
+   "uncertainties": [
+    "nyasta+daṇḍa may refer to renunciants or those who have set aside punishment"
+   ],
+   "plain_english": "To the best of the renowned, whose feet are worshipped by those who have laid down the staff."
+  },
+  {
+   "verse": 10887,
+   "rows": [
+    {
+     "surface": "śrī+rāmo",
+     "gloss": "śrī-rāma",
+     "grounds": "name of the deity",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity of the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "mantric seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rāṃ",
+     "gloss": "rāṃ",
+     "grounds": "the seed syllable itself",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varyyaḥ",
+     "gloss": "excellent",
+     "grounds": "qualifying the power",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktir",
+     "gloss": "power",
+     "grounds": "mantric power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "declarative statement",
+     "morph": "3.sg.present-passive (vac)"
+    }
+   ],
+   "question": "What deity, seed syllable, and power are declared for this mantra?",
+   "premises": [
+    "Śrī Rāma is named as the deity",
+    "The seed syllable is rāṃ",
+    "The excellent power is declared"
+   ],
+   "inference": "The mantra's deity is Śrī Rāma, its seed is rāṃ, and its power is called excellent",
+   "uncertainties": [],
+   "plain_english": "Śrī Rāma is the deity, rāṃ is the seed syllable, and the excellent power is so called."
+  },
+  {
+   "verse": 10888,
+   "rows": [
+    {
+     "surface": "vāk+vat+dhyāna+ādikaṃ",
+     "gloss": "speech-like-meditation-etc",
+     "grounds": "preliminary practices including meditation",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "count for preliminary rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-rite",
+     "grounds": "preparatory mantra discipline",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrttitā",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement",
+     "morph": "f.nom.sg past-participle (kīrt)"
+    }
+   ],
+   "question": "What preliminary rite and count are declared for this mantra practice?",
+   "premises": [
+    "Meditation and related practices are included",
+    "A count of one hundred thousand is specified",
+    "This is declared as the preliminary rite"
+   ],
+   "inference": "The preliminary rite is declared as one hundred thousand with meditation and related practices",
+   "uncertainties": [
+    "vāk+vat+dhyāna+ādikaṃ is syntactically compressed"
+   ],
+   "plain_english": "Meditation and the like, with one hundred thousand repetitions, is declared as the preliminary rite."
+  },
+  {
+   "verse": 10889,
+   "rows": [
+    {
+     "surface": "prayogāḥ",
+     "gloss": "applications",
+     "grounds": "ritual applications",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūrva+mantra+uktā",
+     "gloss": "previous-mantra-stated",
+     "grounds": "as stated for the earlier mantra",
+     "morph": "compound m.nom.pl"
+    },
+    {
+     "surface": "mokṣa+arthī",
+     "gloss": "liberation-seeking",
+     "grounds": "one desiring liberation",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "sādhayed",
+     "gloss": "should-practice",
+     "grounds": "prescribed practice",
+     "morph": "3.sg.optative (sādh)"
+    },
+    {
+     "surface": "amum",
+     "gloss": "this",
+     "grounds": "this mantra",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should a seeker of liberation practice this mantra's applications?",
+   "premises": [
+    "Applications are as stated for the previous mantra",
+    "The practitioner seeks liberation",
+    "He should practice this mantra"
+   ],
+   "inference": "A seeker of liberation should practice this mantra using the applications stated for the previous one",
+   "uncertainties": [],
+   "plain_english": "The applications are as stated for the previous mantra; one who seeks liberation should practice this one."
+  },
+  {
+   "verse": 10890,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental cause",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kārā+gṛhān",
+     "gloss": "from-prison",
+     "grounds": "place of confinement",
+     "morph": "compound n.abl.sg"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "released",
+     "grounds": "freed from captivity",
+     "morph": "m.nom.sg past-participle (muc)"
+    },
+    {
+     "surface": "rāvaṇasya",
+     "gloss": "of-rāvaṇa",
+     "grounds": "captor's name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sura+īśvaraḥ",
+     "gloss": "lord-of-gods",
+     "grounds": "Indra as the released one",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Which mantra effected the release of the lord of gods from Rāvaṇa's prison?",
+   "premises": [
+    "The lord of gods was imprisoned by Rāvaṇa",
+    "He was released from that prison",
+    "Release occurred by means of this mantra"
+   ],
+   "inference": "By this mantra the lord of gods was freed from Rāvaṇa's prison",
+   "uncertainties": [],
+   "plain_english": "By this mantra the lord of the gods was released from Rāvaṇa's prison."
+  },
+  {
+   "verse": 10891,
+   "rows": [
+    {
+     "surface": "bandī+vimukta+śṛṃkhale",
+     "gloss": "prisoner-release-chain",
+     "grounds": "mantra phrase addressing release from chains",
+     "morph": "compound f.voc.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāviṃśat+akṣaraḥ",
+     "gloss": "twenty-two-syllabled",
+     "grounds": "syllable count of the mantra",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What is the form and syllable count of the chain-releasing mantra?",
+   "premises": [
+    "The mantra addresses release from chains",
+    "It ends with svāhā",
+    "It consists of twenty-two syllables"
+   ],
+   "inference": "The chain-releasing mantra is twenty-two syllables long and ends with svāhā",
+   "uncertainties": [],
+   "plain_english": "“Bandī-vimukta-śṛṅkhale svāhā” — this mantra has twenty-two syllables."
+  },
+  {
+   "verse": 10892,
+   "rows": [
+    {
+     "surface": "padair",
+     "gloss": "with-parts",
+     "grounds": "using the mantra's parts",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "referring to this mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ṣaḍ+aṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "six ritual limbs",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "japel",
+     "gloss": "one-should-mutter",
+     "grounds": "prescribed recitation",
+     "morph": "3.sg.optative (jap)"
+    },
+    {
+     "surface": "lakṣa+mitaṃ",
+     "gloss": "hundred-thousand-measure",
+     "grounds": "count of recitation",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continual practice",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the six limbs of this mantra be recited in practice?",
+   "premises": [
+    "The mantra has six limbs",
+    "They are recited using its parts",
+    "Recitation should reach one hundred thousand and be continual"
+   ],
+   "inference": "One should always recite the six limbs with its parts up to one hundred thousand times",
+   "uncertainties": [],
+   "plain_english": "One should always recite its six limbs with its parts, to the measure of one hundred thousand."
+  },
+  {
+   "verse": 10893,
+   "rows": [
+    {
+     "surface": "sapta+āhāj",
+     "gloss": "in-seven-days",
+     "grounds": "time period for result",
+     "morph": "compound m.abl.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "arises as result",
+     "morph": "3.sg.present-middle (jan)"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "resulting liberation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasyeti śeṣaḥ ||",
+     "gloss": "of-him-thus-remainder",
+     "grounds": "editorial gloss indicating ellipsis",
+     "morph": "(phrase)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryyā",
+     "gloss": "to-be-done",
+     "grounds": "required action",
+     "morph": "f.nom.sg future-passive-participle (kṛ)"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "doubtful deliberation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Within what period does liberation arise without need for deliberation?",
+   "premises": [
+    "Liberation arises in seven days",
+    "An editorial remainder phrase qualifies the subject",
+    "No deliberation is needed in this matter"
+   ],
+   "inference": "Liberation arises in seven days and there should be no deliberation about it",
+   "uncertainties": [
+    "tasyeti śeṣaḥ is an editorial note included as a token"
+   ],
+   "plain_english": "In seven days liberation arises for him — thus the remainder — there should be no deliberation about this."
+  },
+  {
+   "verse": 10894,
+   "rows": [
+    {
+     "surface": "śrīsītāyai",
+     "gloss": "to-śrī-sītā",
+     "grounds": "recipient of salutation",
+     "morph": "compound f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sītā+mantraḥ",
+     "gloss": "sītā-mantra",
+     "grounds": "name of the mantra",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍ+akṣaraḥ",
+     "gloss": "six-syllabled",
+     "grounds": "syllable count",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What is the wording and syllable count of the Sītā mantra?",
+   "premises": [
+    "The mantra is addressed to Śrī Sītā",
+    "It includes namaḥ and svāhā",
+    "It has six syllables"
+   ],
+   "inference": "The Sītā mantra is “śrīsītāyai namaḥ svāhā” and consists of six syllables",
+   "uncertainties": [],
+   "plain_english": "“To Śrī Sītā, obeisance, svāhā” — this is the Sītā mantra, of six syllables."
+  },
+  {
+   "verse": 10895,
+   "rows": [
+    {
+     "surface": "dīrgha+svara+yuta+ādyena",
+     "gloss": "long-vowel-joined-beginning",
+     "grounds": "method using initial element with long vowels",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "ṣaḍ+aṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "six ritual limbs",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-form",
+     "grounds": "prescribed formation",
+     "morph": "3.sg.optative (kḷp)"
+    }
+   ],
+   "question": "How should the six limbs of the Sītā mantra be formed?",
+   "premises": [
+    "The six limbs must be formed",
+    "Formation uses the initial element joined with long vowels",
+    "This is a prescribed procedure"
+   ],
+   "inference": "One should form the six limbs using the initial element joined with long vowels",
+   "uncertainties": [
+    "exact technical application of dīrgha+svara+yuta+ādyena is compressed"
+   ],
+   "plain_english": "One should form the six limbs using the initial element joined with long vowels."
+  },
+  {
+   "verse": 10896,
+   "rows": [
+    {
+     "surface": "svarṇa+ābhām",
+     "gloss": "golden-splendor",
+     "grounds": "radiant golden appearance",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "ambuja+karāṃ",
+     "gloss": "lotus-handed",
+     "grounds": "holding a lotus in hand",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "rāma+ālokana+tat+parām",
+     "gloss": "rāma-beholding-intent",
+     "grounds": "absorbed in gazing at Rāma",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "How is Sītā visualized in meditation for this mantra practice?",
+   "premises": [
+    "She has golden splendor",
+    "She holds a lotus in her hand",
+    "She is intent on beholding Rāma"
+   ],
+   "inference": "Sītā is to be visualized as golden, lotus-handed, and intent on gazing at Rāma",
+   "uncertainties": [],
+   "plain_english": "One should visualize her as golden in splendor, lotus in hand, and intent on gazing at Rāma."
+  },
+  {
+   "verse": 10897,
+   "rows": [
+    {
+     "surface": "śrī+phalāni",
+     "gloss": "bilva-fruits",
+     "grounds": "oblation material",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "tilān",
+     "gloss": "sesame-seeds",
+     "grounds": "oblation material",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "muktyai",
+     "gloss": "for-liberation",
+     "grounds": "purpose of liberation",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "bhuktyai",
+     "gloss": "for-enjoyment",
+     "grounds": "purpose of enjoyment",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescribed oblation",
+     "morph": "3.sg.optative (hu)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continual practice",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings should be made continually for liberation and enjoyment?",
+   "premises": [
+    "Bilva fruits and sesame seeds are offered",
+    "The offerings serve liberation and enjoyment",
+    "The practice should be done always"
+   ],
+   "inference": "One should always offer bilva fruits and sesame seeds for liberation and enjoyment",
+   "uncertainties": [],
+   "plain_english": "One should always offer bilva fruits and sesame seeds for liberation and for enjoyment."
+  },
+  {
+   "verse": 10898,
+   "rows": [
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "kṛṣṇa",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "identifying pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "blessed-lord",
+     "grounds": "divine title",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kali+dvāpara+sandhi+gaḥ",
+     "gloss": "kali-dvāpara-junction-born",
+     "grounds": "appearing at the junction of Kali and Dvāpara",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Which divine figure appears at the junction of Kali and Dvāpara ages?",
+   "premises": [
+    "Kṛṣṇa is identified as the Blessed Lord",
+    "He appears at the junction of Kali and Dvāpara",
+    "The identity is emphatic"
+   ],
+   "inference": "Kṛṣṇa, the Blessed Lord himself, appears at the junction of Kali and Dvāpara",
+   "uncertainties": [],
+   "plain_english": "He is indeed Kṛṣṇa, the Blessed Lord, who appears at the junction of the Kali and Dvāpara ages."
+  },
+  {
+   "verse": 10899,
+   "rows": [
+    {
+     "surface": "eka+saptati+rūpaḥ",
+     "gloss": "seventy-one-formed",
+     "grounds": "having seventy-one forms",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this-one",
+     "grounds": "that deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prati+manvantare",
+     "gloss": "in-each-manvantara",
+     "grounds": "recurring in every manvantara",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "bhavat",
+     "gloss": "became",
+     "grounds": "manifested repeatedly",
+     "morph": "3.sg.imperfect (bhū)"
+    }
+   ],
+   "question": "In what recurring form does this deity manifest in each manvantara?",
+   "premises": [
+    "The deity has seventy-one forms",
+    "Manifestation occurs in each manvantara",
+    "This is stated as a recurring fact"
+   ],
+   "inference": "This deity manifests in seventy-one forms in each manvantara",
+   "uncertainties": [],
+   "plain_english": "This one, having seventy-one forms, appeared in each manvantara."
+  }
+ ]
+}

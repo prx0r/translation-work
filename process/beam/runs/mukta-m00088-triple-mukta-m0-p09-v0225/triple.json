@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "mandāravāṭikāṃ",
+     "gloss": "mandara-grove",
+     "grounds": "accusative object of samarcayet; mandāra heavenly tree grove",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pārijātavāṭīṃ",
+     "gloss": "parijata-grove",
+     "grounds": "accusative object of samarcayet; pārijāta heavenly tree grove",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "causative optative of arc; governs the two groves",
+     "morph": "3.sg.act.opt (root arc)"
+    }
+   ],
+   "question": "Which heavenly groves must the practitioner visualize and worship in this stage of the rite?",
+   "premises": [
+    "mandara-grove is named as an object",
+    "parijata-grove is named as an object",
+    "samarcayet commands worship of both"
+   ],
+   "inference": "The practitioner should worship both the mandara grove and the parijata grove.",
+   "uncertainties": [
+    "exact ritual stage and preceding visualization sequence are not stated in this verse"
+   ],
+   "plain_english": "One should worship the mandara grove and the parijata grove."
+  }
+ ]
+}

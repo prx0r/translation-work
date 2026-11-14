@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "nānāpuṣpaiḥ",
+     "gloss": "with-various-flowers",
+     "grounds": "instrumental plural of compound nānā-puṣpa indicating diverse flowers used in the rite",
+     "morph": "compound(nānā-puṣpa).inst.pl.n"
+    },
+    {
+     "surface": "kuśairdarbhaiḥ",
+     "gloss": "with-kuśa-and-darbha-grasses",
+     "grounds": "fused form containing kuśaiḥ and darbhaiḥ joined by visarga sandhi; instrumental plural of kuśa and darbha",
+     "morph": "kuśa.inst.pl.m+darbhaiḥ.inst.pl.m"
+    },
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-darbha-grasses",
+     "grounds": "instrumental plural of darbha, reiterating the sacred grass as ritual material",
+     "morph": "darbha.inst.pl.m"
+    },
+    {
+     "surface": "paristīrya",
+     "gloss": "having-strewn-around",
+     "grounds": "absolutive expressing prior action of spreading materials around the ritual area",
+     "morph": "gerund(pari-√stṛ)"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "the-skilled-one",
+     "grounds": "nominative singular masculine denoting the competent ritual agent",
+     "morph": "vicakṣaṇa.nom.sg.m"
+    }
+   ],
+   "question": "Which materials must the skilled officiant strew to complete the prescribed ritual preparation?",
+   "premises": [
+    "Various flowers are specified as ritual materials.",
+    "Kuśa and darbha grasses are specified as strewing materials.",
+    "A skilled officiant performs the act of strewing around."
+   ],
+   "inference": "The prescribed ritual preparation is completed when the skilled officiant strews various flowers together with kuśa and darbha grasses around the area.",
+   "uncertainties": [
+    "The repetition of darbhaiḥ may be emphatic or indicate a distinct use, but the exact nuance is unclear."
+   ],
+   "plain_english": "The skilled one, having strewn around various flowers, kuśa and darbha grasses, and darbha grasses, completes the preparation."
+  }
+ ]
+}

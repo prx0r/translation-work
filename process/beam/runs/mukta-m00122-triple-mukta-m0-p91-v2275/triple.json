@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "dhanī",
+     "gloss": "wealthy",
+     "grounds": "adjective describing the ideal figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhoktā'paradveṣī",
+     "gloss": "enjoyer-not-hating-faults",
+     "grounds": "fused form bhoktā + aparadveṣī; one who enjoys and does not hate faults",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "premabhūrāvayorbhavet",
+     "gloss": "loving-one-of-us-two-becomes",
+     "grounds": "fused form premabhūḥ āvayoḥ bhavet; may become a loving one of us two",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which qualities identify the ideal devotee who becomes a loving companion of the divine pair?",
+   "premises": [
+    "Wealthy enjoyer lacks fault-hatred.",
+    "Loving one becomes of us two.",
+    "Traits define ideal companion."
+   ],
+   "inference": "The verse enumerates qualities culminating in loving companionship.",
+   "uncertainties": [
+    "Exact sandhi and compound boundaries remain uncertain."
+   ],
+   "plain_english": "Wealthy, an enjoyer who does not hate faults, becomes a loving one of us two."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restrictive particle qualifying the following practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkānyāsaṃ",
+     "gloss": "mātṛkā-placement",
+     "grounds": "ritual placement of the mātṛkā syllables",
+     "morph": "compound=mātṛkā+nyāsa; m.acc.sg"
+    },
+    {
+     "surface": "kuryāttadrahitaṃ",
+     "gloss": "should-do-devoid-of-that",
+     "grounds": "fused sandhi form: kuryāt + tadrahitam; 'that' refers to the previously mentioned Rudra-Śakti accompaniment",
+     "morph": "fused=kuryāt(3.sg.opt.act √kṛ)+tadrahitam(compound=tad+rahita; m.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or emphatic particle introducing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking an optional alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the mātṛkā placement valid when performed without the accompanying Rudra-Śakti elements?",
+   "premises": [
+    "The preceding instruction prescribes lipinyāsa accompanied by Rudra-Śakti.",
+    "An alternative ritual procedure is introduced as an option.",
+    "The mātṛkā placement can be performed alone, devoid of that accompaniment."
+   ],
+   "inference": "Therefore, performing only the mātṛkā placement without the Rudra-Śakti accompaniment is a permitted alternative.",
+   "uncertainties": [
+    "The referent of 'that' in tadrahitaṃ is inferred from the immediately preceding context to be the Rudra-Śakti accompaniment."
+   ],
+   "plain_english": "Alternatively, one may perform only the mātṛkā placement, without that accompanying element."
+  }
+ ]
+}

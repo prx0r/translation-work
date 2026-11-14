@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "manasa",
+     "gloss": "with-mind",
+     "grounds": "instrumental sense in context; here glossed as qualifying manner in connection with prior instruction",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or gloss marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīghram",
+     "gloss": "quickly",
+     "grounds": "explanatory gloss of the preceding term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closes the explanatory gloss",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvānvayi",
+     "gloss": "connected-with-previous",
+     "grounds": "indicates syntactic and semantic linkage to the preceding verse",
+     "morph": "compound: pūrva+anvayin"
+    }
+   ],
+   "question": "How should the term manasa be construed in relation to the preceding worship instruction?",
+   "premises": [
+    "The preceding verse prescribes worship with mental offerings.",
+    "The term manasa is here explained as meaning quickly.",
+    "The expression is marked as connected with the previous statement."
+   ],
+   "inference": "Therefore manasa in this context qualifies the preceding mental worship as to be performed swiftly.",
+   "uncertainties": [
+    "The exact semantic shift from with-mind to quickly is context-dependent and not fully explicit."
+   ],
+   "plain_english": "The word 'manasa' is explained here as meaning 'quickly' and is to be taken together with the preceding instruction."
+  }
+ ]
+}

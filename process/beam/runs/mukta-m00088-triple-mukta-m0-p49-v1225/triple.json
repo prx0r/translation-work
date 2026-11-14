@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "janmakoṭibhavaṃ",
+     "gloss": "birth-crore-born",
+     "grounds": "compound adjective modifying pāpaṃ; born from crores of births",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "accusative object of vināśayet",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "sādhakasya",
+     "gloss": "practitioner's",
+     "grounds": "genitive of possession",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "destroys",
+     "grounds": "causative verb governing pāpaṃ",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "Does the described practice destroy the practitioner's sin born of crores of births?",
+   "premises": [
+    "sin born of crores of births afflicts the practitioner",
+    "the practice is said to destroy that sin"
+   ],
+   "inference": "the practitioner's accumulated sin born of crores of births is destroyed",
+   "uncertainties": [
+    "exact ritual context is not supplied by these tokens alone"
+   ],
+   "plain_english": "It destroys the practitioner's sin born of crores of births."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "eṣām",
+     "gloss": "of-these",
+     "grounds": "genitive plural masculine pronoun referring to the listed sacred places",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "anyatamaṃ",
+     "gloss": "any-one",
+     "grounds": "accusative singular neuter adjective selecting one among many",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "accusative singular neuter noun, object of āśritya",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "āśritya",
+     "gloss": "resorting",
+     "grounds": "absolutive of āśri, indicating resorting to a place",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "japam",
+     "gloss": "japa",
+     "grounds": "accusative singular masculine noun, object of ācaret",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative third singular active of ācar, prescribes performance",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which among the listed sacred places may a practitioner resort to for performing japa?",
+   "premises": [
+    "the listed places are sacred",
+    "any one of them suffices",
+    "japa should be performed there"
+   ],
+   "inference": "a practitioner may choose any one listed sacred place for japa",
+   "uncertainties": [
+    "the exact referent of eṣām depends on the preceding list"
+   ],
+   "plain_english": "Resorting to any one of these places, one should perform japa."
+  }
+ ]
+}

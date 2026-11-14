@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p241",
+ "items": [
+  {
+   "verse": 6001,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and-also",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyavyam",
+     "gloss": "of-wind",
+     "grounds": "relating to wind or breath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāyikam",
+     "gloss": "bodily",
+     "grounds": "relating to the body",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānasam",
+     "gloss": "mental",
+     "grounds": "relating to the mind",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional categories of ritual action are enumerated in this classification?",
+   "premises": [
+    "Actions can be classified by their medium.",
+    "Wind-related action is included.",
+    "Bodily and mental actions are likewise included."
+   ],
+   "inference": "Ritual action encompasses wind-related, bodily, and mental categories.",
+   "uncertainties": [],
+   "plain_english": "And also the wind-related, the bodily, and likewise the mental."
+  },
+  {
+   "verse": 6002,
+   "rows": [
+    {
+     "surface": "aṣṭa+adhika",
+     "gloss": "eight+more",
+     "grounds": "compound indicating eight more than a base",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahasram",
+     "gloss": "thousand",
+     "grounds": "numerical quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mukhyam",
+     "gloss": "chief",
+     "grounds": "primary or principal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditionally taught or declared",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What quantity of recitation is declared the chief practice?",
+   "premises": [
+    "Recitation is prescribed as a practice.",
+    "A specific number is designated.",
+    "This number is remembered as chief."
+   ],
+   "inference": "A recitation of eight thousand and more is regarded as the chief practice.",
+   "uncertainties": [
+    "aṣṭa+adhika sahasram may mean eight thousand or a thousand plus eight depending on context"
+   ],
+   "plain_english": "And a recitation of more than eight thousand is remembered as this chief practice."
+  },
+  {
+   "verse": 6003,
+   "rows": [
+    {
+     "surface": "mudrikā+yuktā",
+     "gloss": "seal+joined",
+     "grounds": "accompanied by hand seals",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "other",
+     "grounds": "another form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vimudrikā",
+     "gloss": "without-seal",
+     "grounds": "lacking hand seals",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What two modes of practice are distinguished by the presence or absence of seals?",
+   "premises": [
+    "Practice may be performed with seals.",
+    "Practice may be performed without seals.",
+    "Both modes are recognized."
+   ],
+   "inference": "Practice is distinguished into forms with seals and without seals.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one form is joined with seals, and another is without seals."
+  },
+  {
+   "verse": 6004,
+   "rows": [
+    {
+     "surface": "sandhyā+arghyam",
+     "gloss": "twilight+water-offering",
+     "grounds": "ritual offering made at twilight",
+     "morph": "compound"
+    },
+    {
+     "surface": "gāyatryā",
+     "gloss": "by-gāyatrī",
+     "grounds": "using the Gāyatrī mantra",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sampradīyate",
+     "gloss": "is-offered",
+     "grounds": "is duly given",
+     "morph": "3.sg.pass-pres.ind (√dā)"
+    }
+   ],
+   "question": "By which mantra is the twilight water offering properly made?",
+   "premises": [
+    "A twilight water offering is prescribed.",
+    "The offering requires a mantra.",
+    "The Gāyatrī is specified for this offering."
+   ],
+   "inference": "The twilight water offering is made with the Gāyatrī mantra.",
+   "uncertainties": [],
+   "plain_english": "The twilight water offering is offered with the Gāyatrī."
+  },
+  {
+   "verse": 6005,
+   "rows": [
+    {
+     "surface": "pañca+yajñāḥ",
+     "gloss": "five+sacrifices",
+     "grounds": "the five ritual sacrifices",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa+karma",
+     "gloss": "ten+rites",
+     "grounds": "the ten ritual acts",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtyate",
+     "gloss": "is-proclaimed",
+     "grounds": "is declared or named",
+     "morph": "3.sg.pass-pres.ind (√kīrt)"
+    }
+   ],
+   "question": "Which ritual sets are proclaimed as the five sacrifices and ten rites?",
+   "premises": [
+    "Ritual duties are grouped into sets.",
+    "One set consists of five sacrifices.",
+    "Another set consists of ten rites."
+   ],
+   "inference": "The tradition proclaims the five sacrifices and the ten rites.",
+   "uncertainties": [],
+   "plain_english": "And the five sacrifices and the ten rites are thus proclaimed."
+  },
+  {
+   "verse": 6006,
+   "rows": [
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "uttama+uttama+mukhyakāḥ",
+     "gloss": "supreme+supreme+chief",
+     "grounds": "of the highest and most principal rank",
+     "morph": "compound"
+    }
+   ],
+   "question": "What rank is assigned to the previously declared ritual practices?",
+   "premises": [
+    "Certain practices have been declared.",
+    "These practices are given a qualitative rank.",
+    "The rank is described as supremely chief."
+   ],
+   "inference": "The declared practices are designated as the most supreme and chief.",
+   "uncertainties": [],
+   "plain_english": "They are declared to be the most supreme and chief."
+  },
+  {
+   "verse": 6007,
+   "rows": [
+    {
+     "surface": "deva+yajña+prakāraḥ",
+     "gloss": "god+sacrifice+method",
+     "grounds": "the procedure of the sacrifice to gods",
+     "morph": "compound"
+    },
+    {
+     "surface": "devata+tarpaṇam",
+     "gloss": "deity+satisfaction",
+     "grounds": "the pleasing or satisfying of deities",
+     "morph": "compound"
+    }
+   ],
+   "question": "What constitutes the method of the sacrifice to the gods?",
+   "premises": [
+    "The sacrifice to gods has a defined method.",
+    "Satisfying deities is part of ritual practice.",
+    "The method is identified with deity satisfaction."
+   ],
+   "inference": "The method of the sacrifice to the gods is the satisfaction of the deities.",
+   "uncertainties": [],
+   "plain_english": "The method of the sacrifice to the gods is the satisfaction of the deities."
+  },
+  {
+   "verse": 6008,
+   "rows": [
+    {
+     "surface": "tat+sūktasya",
+     "gloss": "of-that+hymn",
+     "grounds": "of that particular hymn",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also, in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra or hymn repetition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What additional practice accompanies the sacrifice through recitation of a specific hymn?",
+   "premises": [
+    "A specific hymn is referenced.",
+    "Recitation is a ritual act.",
+    "Recitation of that hymn is likewise prescribed."
+   ],
+   "inference": "Recitation of that hymn is likewise part of the practice.",
+   "uncertainties": [
+    "The referent of tat+sūktasya is not specified in this verse."
+   ],
+   "plain_english": "Likewise, there is recitation of that hymn."
+  },
+  {
+   "verse": 6009,
+   "rows": [
+    {
+     "surface": "vaiśvadeva+ante",
+     "gloss": "at-vaiśvadeva+end",
+     "grounds": "at the conclusion of the Vaiśvadeva rite",
+     "morph": "compound"
+    },
+    {
+     "surface": "yanvatā",
+     "gloss": "yanvatā",
+     "grounds": "unresolved ritual term or mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "by-mantra",
+     "grounds": "by means of a mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the concluding mantra element applied at the end of the Vaiśvadeva rite?",
+   "premises": [
+    "The Vaiśvadeva rite has a concluding point.",
+    "A mantra element is uttered at that point.",
+    "The utterance is designated as yanvatā."
+   ],
+   "inference": "At the end of the Vaiśvadeva rite, the mantra element yanvatā is used.",
+   "uncertainties": [
+    "yanvatā is obscure and may be a textual or mantra-specific term"
+   ],
+   "plain_english": "At the end of the Vaiśvadeva, by mantra, with 'yanvatā'."
+  },
+  {
+   "verse": 6010,
+   "rows": [
+    {
+     "surface": "bhūta+yajñaḥ",
+     "gloss": "being+sacrifice",
+     "grounds": "sacrifice to beings or creatures",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "is to be or should be",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "kṣudra+bādha+nivāraṇaḥ",
+     "gloss": "small+obstacle+removal",
+     "grounds": "removing minor harms or disturbances",
+     "morph": "compound"
+    }
+   ],
+   "question": "What purpose is assigned to the sacrifice offered to beings?",
+   "premises": [
+    "The sacrifice to beings is prescribed.",
+    "Minor obstacles can cause disturbance.",
+    "This sacrifice serves to remove such obstacles."
+   ],
+   "inference": "The sacrifice to beings should function to remove minor obstacles.",
+   "uncertainties": [],
+   "plain_english": "The sacrifice to beings should be for the removal of minor obstacles."
+  },
+  {
+   "verse": 6011,
+   "rows": [
+    {
+     "surface": "dhyāna+mātram",
+     "gloss": "meditation+only",
+     "grounds": "mere meditation",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedānām",
+     "gloss": "of-vedas",
+     "grounds": "pertaining to the Vedas",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "one should read or recite",
+     "morph": "3.sg.opt.act (√paṭh)"
+    },
+    {
+     "surface": "ṛcaḥ",
+     "gloss": "verses",
+     "grounds": "Vedic verses",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "What minimal Vedic practice is prescribed through meditation and recitation?",
+   "premises": [
+    "Meditation on the Vedas is prescribed.",
+    "Recitation of Vedic verses is prescribed.",
+    "The practice may be limited to these acts."
+   ],
+   "inference": "One should engage in mere meditation on the Vedas and recite their verses.",
+   "uncertainties": [],
+   "plain_english": "One should practice mere meditation on the Vedas and recite their verses."
+  },
+  {
+   "verse": 6012,
+   "rows": [
+    {
+     "surface": "hantakāraḥ",
+     "gloss": "with-hanta-utterance",
+     "grounds": "characterized by the utterance 'hanta'",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitṛ+yajñaḥ",
+     "gloss": "ancestor+sacrifice",
+     "grounds": "sacrifice to ancestors",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "in two ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "regarded or held",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the sacrifice to ancestors classified in terms of its form?",
+   "premises": [
+    "The sacrifice to ancestors is discussed.",
+    "It involves the utterance 'hanta'.",
+    "It is regarded as twofold."
+   ],
+   "inference": "The ancestor sacrifice, involving the utterance 'hanta', is considered twofold.",
+   "uncertainties": [
+    "The exact two divisions are not specified in this verse."
+   ],
+   "plain_english": "And the sacrifice to ancestors, with the utterance 'hanta', is considered twofold."
+  },
+  {
+   "verse": 6013,
+   "rows": [
+    {
+     "surface": "sat+kulīnānām",
+     "gloss": "of-good+family-born",
+     "grounds": "of those born in good families",
+     "morph": "compound"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "mental disposition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaidika+vartmani",
+     "gloss": "vedic+path",
+     "grounds": "on the Vedic path",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where is the mind of those born in good families directed?",
+   "premises": [
+    "People born in good families are considered.",
+    "Their mental disposition is described.",
+    "That disposition is oriented toward the Vedic path."
+   ],
+   "inference": "The mind of those born in good families is set on the Vedic path.",
+   "uncertainties": [],
+   "plain_english": "The mind of those born in good families is on the Vedic path."
+  },
+  {
+   "verse": 6014,
+   "rows": [
+    {
+     "surface": "nṝṇām",
+     "gloss": "of-men",
+     "grounds": "of human beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nṛ+yoniḥ",
+     "gloss": "human+womb",
+     "grounds": "human birth",
+     "morph": "compound"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "for that reason",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "durlabhā",
+     "gloss": "hard-to-obtain",
+     "grounds": "difficult to attain",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is human birth considered difficult for human beings to obtain?",
+   "premises": [
+    "Human birth is being evaluated.",
+    "It is described as rare.",
+    "This rarity is asserted as a consequence."
+   ],
+   "inference": "Human birth is therefore hard to obtain for human beings.",
+   "uncertainties": [],
+   "plain_english": "Therefore, human birth is hard for men to obtain."
+  },
+  {
+   "verse": 6015,
+   "rows": [
+    {
+     "surface": "jñānī",
+     "gloss": "knower",
+     "grounds": "one who possesses knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kukkuratām",
+     "gloss": "dog+state",
+     "grounds": "the condition of being a dog",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-go",
+     "grounds": "may attain or go to",
+     "morph": "3.sg.opt.act (√vraj)"
+    }
+   ],
+   "question": "What degraded rebirth may befall a knower under certain conditions?",
+   "premises": [
+    "A knower is the subject.",
+    "Rebirth into a degraded state is possible.",
+    "The state of a dog is named as that outcome."
+   ],
+   "inference": "A knower may go to the state of being a dog.",
+   "uncertainties": [
+    "The condition causing this outcome is not stated in this verse."
+   ],
+   "plain_english": "A knower may go to the state of a dog."
+  },
+  {
+   "verse": 6016,
+   "rows": [
+    {
+     "surface": "pratyaham",
+     "gloss": "every-day",
+     "grounds": "daily",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bali+pūjā+ādi+tatparaḥ",
+     "gloss": "offering+worship+etc+devoted",
+     "grounds": "devoted to offerings, worship, and related acts",
+     "morph": "compound"
+    }
+   ],
+   "question": "What daily devotional activities characterize the person described here?",
+   "premises": [
+    "Daily practice is indicated.",
+    "Offerings and worship are included.",
+    "The person is devoted to these activities."
+   ],
+   "inference": "The person is devoted every day to offerings, worship, and similar acts.",
+   "uncertainties": [],
+   "plain_english": "And every day devoted to offerings, worship, and so forth."
+  },
+  {
+   "verse": 6017,
+   "rows": [
+    {
+     "surface": "dhātu+vāde",
+     "gloss": "in-metal+alchemy",
+     "grounds": "in the discourse or practice of alchemy",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhana+kṣayaḥ",
+     "gloss": "wealth+loss",
+     "grounds": "loss of wealth",
+     "morph": "compound"
+    }
+   ],
+   "question": "What negative consequence is associated with involvement in alchemy?",
+   "premises": [
+    "Alchemy is a field of activity.",
+    "Engagement in it has consequences.",
+    "Loss of wealth is identified as that consequence."
+   ],
+   "inference": "Involvement in alchemy leads to loss of wealth.",
+   "uncertainties": [],
+   "plain_english": "In alchemy, there is loss of wealth."
+  },
+  {
+   "verse": 6018,
+   "rows": [
+    {
+     "surface": "śaiva+ādi+vaiṣṇava+ādīnām",
+     "gloss": "of-śaiva+etc+vaiṣṇava+etc",
+     "grounds": "of Śaivas, Vaiṣṇavas, and others",
+     "morph": "compound"
+    },
+    {
+     "surface": "dveṣāt",
+     "gloss": "from-hatred",
+     "grounds": "because of hatred",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "niraya+gāminaḥ",
+     "gloss": "hell+going",
+     "grounds": "going to hell",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fate results from hatred toward Śaivas, Vaiṣṇavas, and similar groups?",
+   "premises": [
+    "Different religious groups are mentioned.",
+    "Hatred toward them is possible.",
+    "Such hatred leads to a dire fate."
+   ],
+   "inference": "From hatred of Śaivas, Vaiṣṇavas, and others, one goes to hell.",
+   "uncertainties": [],
+   "plain_english": "From hatred of Śaivas, Vaiṣṇavas, and others, they go to hell."
+  },
+  {
+   "verse": 6019,
+   "rows": [
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paratra",
+     "gloss": "in-other-world",
+     "grounds": "in the next world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "goal",
+     "grounds": "final destination or attainment",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What supreme attainment is promised in the other world?",
+   "premises": [
+    "Attainment beyond this world is considered.",
+    "Success is affirmed.",
+    "A supreme goal is also affirmed."
+   ],
+   "inference": "There is success and also the supreme goal in the other world.",
+   "uncertainties": [],
+   "plain_english": "There is success and also the supreme goal in the other world."
+  },
+  {
+   "verse": 6020,
+   "rows": [
+    {
+     "surface": "sarva+upakārāya",
+     "gloss": "for-all+benefit",
+     "grounds": "for the benefit of all",
+     "morph": "compound"
+    },
+    {
+     "surface": "kim+anyat",
+     "gloss": "what+else",
+     "grounds": "what other thing",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "to listen to",
+     "morph": "(inf.) (√śru)"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-wish",
+     "grounds": "you desire",
+     "morph": "2.sg.pres.act (√iṣ)"
+    }
+   ],
+   "question": "What further teaching for the benefit of all does the listener wish to hear?",
+   "premises": [
+    "Teachings have been given for universal benefit.",
+    "The listener may desire more.",
+    "The speaker asks what else is wished to be heard."
+   ],
+   "inference": "The speaker invites the listener to ask what else they wish to hear for the benefit of all.",
+   "uncertainties": [],
+   "plain_english": "What else do you wish to hear for the benefit of all?"
+  },
+  {
+   "verse": 6021,
+   "rows": [
+    {
+     "surface": "vaidika+yantra+kathana+prakāśaḥ",
+     "gloss": "vedic+diagram+description+illumination",
+     "grounds": "the illumination describing Vedic diagrams",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañcadaśaḥ",
+     "gloss": "fifteenth",
+     "grounds": "the fifteenth section or chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which numbered section presents the illumination on Vedic diagrams?",
+   "premises": [
+    "A section title is given.",
+    "The subject is the description of Vedic diagrams.",
+    "The section is identified as the fifteenth."
+   ],
+   "inference": "The fifteenth section is the illumination on the description of Vedic diagrams.",
+   "uncertainties": [],
+   "plain_english": "The fifteenth is the illumination on the description of Vedic diagrams."
+  },
+  {
+   "verse": 6022,
+   "rows": [
+    {
+     "surface": "mantra+antaraiḥ",
+     "gloss": "by-other+mantras",
+     "grounds": "by other mantras",
+     "morph": "compound"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "vocative address to a deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "perfected or attained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "in the manner that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "spiritual teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are other mantras insufficient compared to the accomplishment granted by the guru?",
+   "premises": [
+    "Accomplishment can be sought through mantras.",
+    "Other mantras are compared to the guru.",
+    "The guru is presented as uniquely effective."
+   ],
+   "inference": "One is not accomplished by other mantras in the way one is through the guru.",
+   "uncertainties": [],
+   "plain_english": "O god, one is not indeed accomplished by other mantras as by the guru."
+  },
+  {
+   "verse": 6023,
+   "rows": [
+    {
+     "surface": "deveśa",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative address to the lord of gods",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kīdṛk",
+     "gloss": "of-what-kind",
+     "grounds": "of what nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "that person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-reach",
+     "grounds": "may come to or attain",
+     "morph": "3.sg.opt.act (√vraj)"
+    }
+   ],
+   "question": "What kind of accomplishment may reach the person in question?",
+   "premises": [
+    "A question is addressed to the lord of gods.",
+    "The nature of accomplishment is being asked about.",
+    "That accomplishment may reach a specific person."
+   ],
+   "inference": "The verse asks what kind of accomplishment may come to him.",
+   "uncertainties": [],
+   "plain_english": "O lord of gods, what kind of accomplishment may reach him?"
+  },
+  {
+   "verse": 6024,
+   "rows": [
+    {
+     "surface": "ūrdhva+āmnāyī",
+     "gloss": "of-upper+tradition",
+     "grounds": "belonging to the upper transmission",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyeṣu",
+     "gloss": "in-others",
+     "grounds": "among others",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūrva+āmnāyī",
+     "gloss": "of-eastern+tradition",
+     "grounds": "belonging to the eastern transmission",
+     "morph": "compound"
+    },
+    {
+     "surface": "pareṣu",
+     "gloss": "in-others",
+     "grounds": "among other cases",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are practitioners associated with the upper and eastern transmissions distributed among others?",
+   "premises": [
+    "Different transmissions are named.",
+    "The upper transmission is mentioned.",
+    "The eastern transmission is mentioned among others."
+   ],
+   "inference": "The upper-transmission adherent is in some cases, and the eastern-transmission adherent in others.",
+   "uncertainties": [
+    "The predicate governing these terms is not explicit in this verse."
+   ],
+   "plain_english": "One of the upper tradition, and likewise among others one of the eastern tradition, and in others."
+  }
+ ]
+}

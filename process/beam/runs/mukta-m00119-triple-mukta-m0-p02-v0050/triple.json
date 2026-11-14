@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "trikaṃṭakī",
+     "gloss": "trikantaki",
+     "grounds": "proper name of a goddess in the mahavidya list",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative address to the deity",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyas",
+     "grounds": "the ten great goddesses or vidyas",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "passive participle of kṛt, praised or proclaimed",
+     "morph": "v.part.pass.past.3pl"
+    }
+   ],
+   "question": "Is trikantaki counted among the declared great vidyas addressed to the lord of gods?",
+   "premises": [
+    "trikantaki is named in the verse",
+    "the great vidyas are declared",
+    "the address is to the lord of gods"
+   ],
+   "inference": "The verse declares trikantaki among the great vidyas.",
+   "uncertainties": [
+    "The exact doctrinal role of trikantaki among the mahavidyas is not specified here."
+   ],
+   "plain_english": "Trikantaki too, O lord of gods, is declared among the great vidyas."
+  }
+ ]
+}

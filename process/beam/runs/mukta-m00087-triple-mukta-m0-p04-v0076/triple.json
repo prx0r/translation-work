@@ -1,0 +1,1139 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāgbhavam",
+     "gloss": "speech-born",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "having-written",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sarva+vidyāḥ",
+     "gloss": "all-vidyās",
+     "grounds": "compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "one-should-extract",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the speech-born vidyā be written and all vidyās extracted?",
+   "premises": [
+    "The speech-born vidyā is written first",
+    "All vidyās are then extracted",
+    "The verse gives a ritual procedure"
+   ],
+   "inference": "Writing the speech-born vidyā precedes extracting all vidyās",
+   "uncertainties": [
+    "Exact ritual sense of extraction"
+   ],
+   "plain_english": "Having written this speech-born vidyā, one should extract all vidyās."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "hitvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "anujaṃ",
+     "gloss": "younger-brother",
+     "grounds": "compound member",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "proper name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sāgraṃ",
+     "gloss": "with-agra",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manu+pūjitā",
+     "gloss": "manu-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which vidyā is worshipped by Manu after abandoning the younger brother Śiva?",
+   "premises": [
+    "Manu worships this vidyā",
+    "It is described with agra",
+    "The younger brother Śiva is abandoned"
+   ],
+   "inference": "The Manu-worshipped vidyā follows abandonment of the younger brother Śiva",
+   "uncertainties": [
+    "Identity of younger brother Śiva"
+   ],
+   "plain_english": "Having abandoned the younger brother Śiva, this vidyā with agra is worshipped by Manu."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "candra+ārādhita",
+     "gloss": "by-candra-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhukti+mukti+pradāyinī",
+     "gloss": "enjoyment-liberation-bestowing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does the vidyā worshipped by Candra bestow?",
+   "premises": [
+    "Candra worships this vidyā",
+    "It bestows enjoyment",
+    "It bestows liberation"
+   ],
+   "inference": "The Candra-worshipped vidyā grants both enjoyment and liberation",
+   "uncertainties": [
+    "Specific vidyā identity"
+   ],
+   "plain_english": "This vidyā worshipped by Candra bestows enjoyment and liberation."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "kubera+ārādhitā",
+     "gloss": "by-kubera-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhukti+mukti+phala+pradā",
+     "gloss": "enjoyment-liberation-fruit-giving",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fruit does the vidyā worshipped by Kubera give?",
+   "premises": [
+    "Kubera worships this vidyā",
+    "It gives enjoyment",
+    "It gives liberation"
+   ],
+   "inference": "The Kubera-worshipped vidyā gives the fruit of enjoyment and liberation",
+   "uncertainties": [
+    "Exact fruit enumeration"
+   ],
+   "plain_english": "The vidyā worshipped by Kubera gives the fruit of enjoyment and liberation."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "kāma+ārādhita",
+     "gloss": "by-kāma-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purā+eva",
+     "gloss": "before-indeed",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "fully-described",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "When was the vidyā worshipped by Kāma fully described?",
+   "premises": [
+    "Kāma worships this vidyā",
+    "It was fully described before",
+    "The description is already given"
+   ],
+   "inference": "The Kāma-worshipped vidyā had already been fully described earlier",
+   "uncertainties": [
+    "Location of earlier description"
+   ],
+   "plain_english": "The vidyā worshipped by Kāma was indeed fully described before."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lopā",
+     "gloss": "lopā",
+     "grounds": "proper name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-vidyā",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sā+eva",
+     "gloss": "she-indeed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agastya+pūjitā",
+     "gloss": "by-agastya-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which great vidyā is worshipped by Agastya here?",
+   "premises": [
+    "Lopā is the great vidyā",
+    "She is worshipped by Agastya",
+    "This occurs here"
+   ],
+   "inference": "The great vidyā Lopā is worshipped by Agastya in this context",
+   "uncertainties": [
+    "Identity of Lopā"
+   ],
+   "plain_english": "Likewise, the great vidyā Lopā is here worshipped by Agastya."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "śaktau",
+     "gloss": "in-śakti",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "agastya+vidyā",
+     "gloss": "agastya-vidyā",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nandi+ārādhita+devatā",
+     "gloss": "by-nandin-worshipped-deity",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which deity is worshipped by Nandin in the śakti division?",
+   "premises": [
+    "This occurs in śakti",
+    "The vidyā is Agastya's",
+    "Nandin worships the deity"
+   ],
+   "inference": "In the śakti division, Nandin worships the deity of Agastya's vidyā",
+   "uncertainties": [
+    "Exact deity name"
+   ],
+   "plain_english": "In śakti, this Agastya vidyā is the deity worshipped by Nandin."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "sa+ha+ādya",
+     "gloss": "with-sa-beginning",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mante",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sa+ha+yoḥ",
+     "gloss": "of-sa-ha",
+     "grounds": "compound",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "kaḥ",
+     "grounds": "syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya+pūjitā",
+     "gloss": "by-sūrya-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What mantra with sa and ha beginning is worshipped by Sūrya?",
+   "premises": [
+    "The mantra begins with sa and ha",
+    "Kaḥ stands in the middle",
+    "Sūrya worships it"
+   ],
+   "inference": "Sūrya worships the mantra whose sa and ha frame kaḥ in the middle",
+   "uncertainties": [
+    "Full mantra reading"
+   ],
+   "plain_english": "In the mantra beginning with sa and ha, with kaḥ in the middle of sa and ha, is worshipped by Sūrya."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "ha+sa+ādyaṃ",
+     "gloss": "ha-beginning",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viṣṇu+pūjyā",
+     "gloss": "by-viṣṇu-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭ+kūṭā",
+     "gloss": "six-parted",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parama+īśvarī",
+     "gloss": "supreme-goddess",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the six-parted supreme goddess worshipped by Viṣṇu?",
+   "premises": [
+    "It begins with ha and sa",
+    "Viṣṇu worships it",
+    "It has six parts"
+   ],
+   "inference": "The six-parted supreme goddess beginning with ha and sa is worshipped by Viṣṇu",
+   "uncertainties": [
+    "Exact six parts"
+   ],
+   "plain_english": "This six-parted supreme goddess, beginning with ha and sa, is worshipped by Viṣṇu."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "viṣṇu+vidyā",
+     "gloss": "viṣṇu-vidyā",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcamam",
+     "gloss": "fifth",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "skanda+ārādhita+devatā",
+     "gloss": "by-skanda-worshipped-deity",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which vidyā is the fifth and worshipped by Skanda?",
+   "premises": [
+    "Viṣṇu vidyā is fifth",
+    "Skanda worships the deity",
+    "The verse links them"
+   ],
+   "inference": "The fifth Viṣṇu vidyā is the deity worshipped by Skanda",
+   "uncertainties": [
+    "Counting scheme"
+   ],
+   "plain_english": "The Viṣṇu vidyā is fifth, and the deity is worshipped by Skanda."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "catuḥ+kūṭā",
+     "gloss": "four-parted",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-vidyā",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaṅkareṇa",
+     "gloss": "by-śaṅkara",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "prapūjitā",
+     "gloss": "fully-worshipped",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who fully worships the four-parted great vidyā?",
+   "premises": [
+    "The great vidyā has four parts",
+    "Śaṅkara worships it",
+    "It is fully worshipped"
+   ],
+   "inference": "Śaṅkara fully worships the four-parted great vidyā",
+   "uncertainties": [
+    "Specific vidyā name"
+   ],
+   "plain_english": "The four-parted great vidyā is fully worshipped by Śaṅkara."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "śakti+kūṭaṃ",
+     "gloss": "śakti-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tri+kārṇam",
+     "gloss": "three-syllabled",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmarājasya",
+     "gloss": "of-kāmarāja",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "one-should-write",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one write for Kāmarāja in the śakti part?",
+   "premises": [
+    "The śakti part is written",
+    "It is three-syllabled",
+    "It belongs to Kāmarāja"
+   ],
+   "inference": "One should write the three-syllabled śakti part of Kāmarāja",
+   "uncertainties": [
+    "Exact syllables"
+   ],
+   "plain_english": "One should write the three-syllabled śakti part of Kāmarāja."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "durvāsasā",
+     "gloss": "by-durvāsas",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puruṣa+artha+pradāyinī",
+     "gloss": "human-goals-bestowing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does the vidyā worshipped by Durvāsas bestow?",
+   "premises": [
+    "Durvāsas worships this vidyā",
+    "It bestows human goals",
+    "It is described as this"
+   ],
+   "inference": "The Durvāsas-worshipped vidyā bestows the human goals",
+   "uncertainties": [
+    "Which human goals"
+   ],
+   "plain_english": "This vidyā worshipped by Durvāsas bestows the human goals."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhāḥ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhedāḥ",
+     "gloss": "divisions",
+     "grounds": "noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "kathyante",
+     "gloss": "are-told",
+     "grounds": "passive",
+     "morph": "3.pl.pass"
+    },
+    {
+     "surface": "tantra+vartmanā",
+     "gloss": "by-tantra-path",
+     "grounds": "compound",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How are other pure divisions also told?",
+   "premises": [
+    "Other pure divisions may exist",
+    "They are told",
+    "The tantra path tells them"
+   ],
+   "inference": "Other pure divisions may be told by the tantra path",
+   "uncertainties": [
+    "Which divisions"
+   ],
+   "plain_english": "Other pure divisions may also be told by the tantra path."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manu+vidyāyāḥ",
+     "gloss": "of-manu-vidyā",
+     "grounds": "compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "verb",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "sarva+āgameṣu",
+     "gloss": "in-all-āgamas",
+     "grounds": "compound",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is there any difference in Manu's vidyā across all āgamas?",
+   "premises": [
+    "Manu's vidyā has no difference",
+    "This holds in all āgamas",
+    "Even all āgamas agree"
+   ],
+   "inference": "Manu's vidyā has no difference even across all āgamas",
+   "uncertainties": [
+    "Scope of āgamas"
+   ],
+   "plain_english": "But there is no difference in Manu's vidyā even in all āgamas."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kāme",
+     "gloss": "in-kāma",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tārttīye",
+     "gloss": "in-tārttīya",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candra+pūjitā",
+     "gloss": "by-candra-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which vidyā is second and worshipped by Candra in Kāma and Tārttīya?",
+   "premises": [
+    "These occur in Kāma",
+    "They occur in Tārttīya",
+    "The second is Candra-worshipped"
+   ],
+   "inference": "The second vidyā in Kāma and Tārttīya is worshipped by Candra",
+   "uncertainties": [
+    "Exact enumeration"
+   ],
+   "plain_english": "These in Kāma and in Tārttīya: the second is worshipped by Candra."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "śiva+kāmeśa+śaktī",
+     "gloss": "śiva-kāmeśa-śakti",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lāḥ",
+     "gloss": "lāḥ",
+     "grounds": "syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhanada+pūjitā",
+     "gloss": "by-dhanada-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What supreme vidyā with śiva, kāmeśa, śakti, and lāḥ is worshipped by Dhanada?",
+   "premises": [
+    "It contains śiva, kāmeśa, śakti",
+    "It includes lāḥ",
+    "Dhanada worships it"
+   ],
+   "inference": "The supreme vidyā containing śiva, kāmeśa, śakti, and lāḥ is worshipped by Dhanada",
+   "uncertainties": [
+    "Meaning of lāḥ"
+   ],
+   "plain_english": "The supreme vidyā of śiva, kāmeśa, śakti, and lāḥ is worshipped by Dhanada."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "agastyasya",
+     "gloss": "of-agastya",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-vidyā",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmarājaḥ",
+     "gloss": "kāmarāja",
+     "grounds": "proper name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "that",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is the great vidyā of Agastya?",
+   "premises": [
+    "Agastya has a great vidyā",
+    "Kāmarāja is that vidyā",
+    "The identification is emphatic"
+   ],
+   "inference": "Kāmarāja is indeed the great vidyā of Agastya",
+   "uncertainties": [
+    "Doctrinal identification"
+   ],
+   "plain_english": "The great vidyā of Agastya is indeed Kāmarāja."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "sa+ha+kāma+ādi",
+     "gloss": "sa-ha-kāma-beginning",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāma+antaṃ",
+     "gloss": "kāma-ending",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktau",
+     "gloss": "in-śakti",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nandi+prapūjitā",
+     "gloss": "by-nandin-fully-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What vidyā beginning with sa, ha, kāma and ending with kāma is worshipped by Nandin?",
+   "premises": [
+    "It begins with sa, ha, kāma",
+    "It ends with kāma",
+    "Nandin fully worships it in śakti"
+   ],
+   "inference": "In śakti, Nandin fully worships the vidyā framed by sa, ha, kāma and kāma",
+   "uncertainties": [
+    "Exact mantra form"
+   ],
+   "plain_english": "In śakti, the vidyā beginning with sa, ha, kāma and ending with kāma is fully worshipped by Nandin."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya+vidyāyāḥ",
+     "gloss": "of-sūrya-vidyā",
+     "grounds": "compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "verb",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is there ever any difference in Sūrya's vidyā here?",
+   "premises": [
+    "Sūrya's vidyā has no difference",
+    "This holds here",
+    "It never differs"
+   ],
+   "inference": "Sūrya's vidyā never differs in this context",
+   "uncertainties": [
+    "Scope of here"
+   ],
+   "plain_english": "But there is never any difference in Sūrya's vidyā here."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "śaktau",
+     "gloss": "in-śakti",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāma+antimaṃ",
+     "gloss": "kāma-ending",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣṇu+pūjitā",
+     "gloss": "by-viṣṇu-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which second vidyā ending in kāma is worshipped by Viṣṇu in śakti?",
+   "premises": [
+    "This occurs in śakti",
+    "The vidyā ends in kāma",
+    "The second is Viṣṇu-worshipped"
+   ],
+   "inference": "In śakti, the second vidyā ending in kāma is worshipped by Viṣṇu",
+   "uncertainties": [
+    "Enumeration basis"
+   ],
+   "plain_english": "In śakti, the second vidyā ending in kāma is worshipped by Viṣṇu."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "vāci",
+     "gloss": "in-vāc",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāme",
+     "gloss": "in-kāma",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktau",
+     "gloss": "in-śakti",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "skanda+pūjyā",
+     "gloss": "by-skanda-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aparā",
+     "gloss": "another",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where may another vidyā worshipped by Skanda be found?",
+   "premises": [
+    "It may be in vāc",
+    "It may be in kāma",
+    "It may be in śakti"
+   ],
+   "inference": "Another vidyā worshipped by Skanda may occur in vāc, kāma, or śakti",
+   "uncertainties": [
+    "Exact location"
+   ],
+   "plain_english": "In vāc, in kāma, and likewise in śakti, another may be worshipped by Skanda."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "kāme",
+     "gloss": "in-kāma",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "traya+ante",
+     "gloss": "three-ending",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhū+jīvau",
+     "gloss": "bhū-jīva",
+     "grounds": "compound",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "tri+kūṭā",
+     "gloss": "three-parted",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiva+pūjitā",
+     "gloss": "by-śiva-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What three-parted vidyā ending in three is worshipped by Śiva in Kāma?",
+   "premises": [
+    "This occurs in Kāma",
+    "It ends in three",
+    "Śiva worships it"
+   ],
+   "inference": "In Kāma, the three-parted vidyā ending in three is worshipped by Śiva",
+   "uncertainties": [
+    "Meaning of bhū and jīva"
+   ],
+   "plain_english": "In Kāma, at the ending of three, the three-parted vidyā of bhū and jīva is worshipped by Śiva."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "agastyasya",
+     "gloss": "of-agastya",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-vidyā",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sā+eva",
+     "gloss": "she-indeed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agastya+pūjitā",
+     "gloss": "by-agastya-worshipped",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who worships Agastya's great vidyā here?",
+   "premises": [
+    "Agastya has a great vidyā",
+    "She is worshipped here",
+    "Agastya worships her"
+   ],
+   "inference": "Agastya's great vidyā is here worshipped by Agastya",
+   "uncertainties": [
+    "Relation to verse 93"
+   ],
+   "plain_english": "Agastya's great vidyā is indeed here worshipped by Agastya."
+  }
+ ]
+}

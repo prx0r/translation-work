@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "samākhyātā",
+     "gloss": "called",
+     "grounds": "past passive participle used predicatively, naming or designating the subject",
+     "morph": "f.nom.sg.ppp sam-ā-√khyā"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying the scope of tantras",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tantra",
+     "gloss": "tantra",
+     "grounds": "second member of compound denoting the body of teachings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradīpikā",
+     "gloss": "illuminator",
+     "grounds": "final member and head of compound, functioning as the designation",
+     "morph": "f.nom.sg compound-final"
+    }
+   ],
+   "question": "What designation identifies this work in relation to all tantric teachings?",
+   "premises": [
+    "The work receives an explicit designation.",
+    "The designation characterizes it as an illuminator.",
+    "The scope of illumination extends to all tantras."
+   ],
+   "inference": "Therefore, this work is identified as the illuminator of all tantras.",
+   "uncertainties": [
+    "Whether pradīpikā is intended as a formal title or a descriptive epithet is not fully explicit."
+   ],
+   "plain_english": "It is called the illuminator of all tantras."
+  }
+ ]
+}

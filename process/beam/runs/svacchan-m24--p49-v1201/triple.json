@@ -1,0 +1,758 @@
+{
+ "song": "sva-p49",
+ "items": [
+  {
+   "verse": 1201,
+   "rows": [
+    {
+     "surface": "bhāvayanti",
+     "gloss": "cause-to-manifest",
+     "grounds": "from bhū in causative sense, to bring into being",
+     "morph": "3.pl.act-pres √bhū-caus"
+    },
+    {
+     "surface": "vāsayati",
+     "gloss": "cause-to-dwell",
+     "grounds": "from vas in causative sense, to make reside",
+     "morph": "3.sg.act-pres √vas-caus"
+    },
+    {
+     "surface": "antaḥkaraṇam",
+     "gloss": "inner-organ",
+     "grounds": "compound denoting the inner instrument of mind",
+     "morph": "antaḥ+karaṇam (compound, n.acc.sg)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or explanation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvāḥ",
+     "gloss": "states",
+     "grounds": "entities or dispositions produced in the mind",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dharmādayaḥ",
+     "gloss": "dharma-and-others",
+     "grounds": "compound beginning with dharma",
+     "morph": "dharma+ādayaḥ (compound, m.nom.pl)"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral indicating total count",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are these eight called bhāvas?",
+   "premises": [
+    "They cause manifestation in experience",
+    "They cause dwelling in the inner organ",
+    "Dharma and others number eight"
+   ],
+   "inference": "The eight states beginning with dharma are called bhāvas because they manifest and reside in the inner organ.",
+   "uncertainties": [],
+   "plain_english": "Because they cause things to manifest and to dwell in the inner organ, the eight states beginning with dharma are called bhāvas."
+  },
+  {
+   "verse": 1202,
+   "rows": [
+    {
+     "surface": "īritāni",
+     "gloss": "spoken",
+     "grounds": "past participle indicating what has been stated",
+     "morph": "n.nom.pl ppp √īr"
+    },
+    {
+     "surface": "udīritāni",
+     "gloss": "uttered",
+     "grounds": "past participle indicating what has been declared",
+     "morph": "n.nom.pl ppp ud-√īr"
+    }
+   ],
+   "question": "What has been spoken and uttered?",
+   "premises": [
+    "The items have been spoken",
+    "The items have been uttered"
+   ],
+   "inference": "The matters referred to have already been stated and declared.",
+   "uncertainties": [
+    "The specific referent is not explicit in this unit alone"
+   ],
+   "plain_english": "They have been spoken and uttered."
+  },
+  {
+   "verse": 1203,
+   "rows": [
+    {
+     "surface": "vyaktībhaviṣyati",
+     "gloss": "will-become-manifest",
+     "grounds": "future expression indicating manifestation",
+     "morph": "3.sg.act-fut vyaktī-√bhū"
+    }
+   ],
+   "question": "What will become manifest later?",
+   "premises": [
+    "A future manifestation is indicated",
+    "The process is not yet complete"
+   ],
+   "inference": "Something will become manifest in due course.",
+   "uncertainties": [
+    "The subject of manifestation is not specified here"
+   ],
+   "plain_english": "It will become manifest."
+  },
+  {
+   "verse": 1204,
+   "rows": [
+    {
+     "surface": "trayaḥ",
+     "gloss": "three",
+     "grounds": "numeral indicating a group of three",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker introducing specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśvaryavairāgyadharmāḥ",
+     "gloss": "power-detachment-dharma",
+     "grounds": "compound listing three members",
+     "morph": "aiśvarya+vairāgya+dharmāḥ (compound, m.nom.pl)"
+    }
+   ],
+   "question": "Which three are being specified here?",
+   "premises": [
+    "A group of three is named",
+    "The members are power, detachment, and dharma"
+   ],
+   "inference": "The three specified are power, detachment, and dharma.",
+   "uncertainties": [],
+   "plain_english": "The three are power, detachment, and dharma."
+  },
+  {
+   "verse": 1205,
+   "rows": [
+    {
+     "surface": "akalkatā",
+     "gloss": "freedom-from-impurity",
+     "grounds": "abstract quality of being without kalkā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "apāpacittatā",
+     "gloss": "sinless-mind-state",
+     "grounds": "compound expressing a mind free from sin",
+     "morph": "apāpa+citta+tā (compound, f.nom.sg)"
+    }
+   ],
+   "question": "What two qualities are named here?",
+   "premises": [
+    "Freedom from impurity is named",
+    "A sinless state of mind is named"
+   ],
+   "inference": "The two qualities are freedom from impurity and a sinless mind.",
+   "uncertainties": [],
+   "plain_english": "Freedom from impurity and a sinless state of mind."
+  },
+  {
+   "verse": 1206,
+   "rows": [
+    {
+     "surface": "adhiṣṭhitāḥ",
+     "gloss": "presided-over",
+     "grounds": "past participle indicating superintendence",
+     "morph": "m.nom.pl ppp adhi-√sthā"
+    },
+    {
+     "surface": "vyāptāḥ",
+     "gloss": "pervaded",
+     "grounds": "past participle indicating pervasion",
+     "morph": "m.nom.pl ppp vi-√āp"
+    }
+   ],
+   "question": "How are these entities governed and pervaded?",
+   "premises": [
+    "They are presided over",
+    "They are pervaded"
+   ],
+   "inference": "The entities are both superintended and pervaded.",
+   "uncertainties": [
+    "The agents or subjects are not explicit in this unit"
+   ],
+   "plain_english": "They are presided over and pervaded."
+  },
+  {
+   "verse": 1207,
+   "rows": [
+    {
+     "surface": "yathottaram",
+     "gloss": "in-succession",
+     "grounds": "indeclinable compound indicating successive order",
+     "morph": "yathā+uttaram (indecl. compound)"
+    },
+    {
+     "surface": "adharmādayaḥ",
+     "gloss": "adharma-and-others",
+     "grounds": "compound beginning with adharma",
+     "morph": "adharma+ādayaḥ (compound, m.nom.pl)"
+    },
+    {
+     "surface": "prakṛṣyante",
+     "gloss": "are-drawn-forth",
+     "grounds": "passive verb indicating being intensified or extended",
+     "morph": "3.pl.pass-pres pra-√kṛṣ"
+    }
+   ],
+   "question": "How do adharma and the others develop?",
+   "premises": [
+    "Adharma and others are the subjects",
+    "Their development follows successive order"
+   ],
+   "inference": "Adharma and the others are drawn forth in successive order.",
+   "uncertainties": [],
+   "plain_english": "Adharma and the others are drawn forth in succession."
+  },
+  {
+   "verse": 1208,
+   "rows": [
+    {
+     "surface": "daityāḥ",
+     "gloss": "demons",
+     "grounds": "a class of beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yakṣaprāyāḥ",
+     "gloss": "mostly-yakshas",
+     "grounds": "compound indicating predominance of yakshas",
+     "morph": "yakṣa+prāyāḥ (compound, m.nom.pl)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of beings are indicated here?",
+   "premises": [
+    "Demons are mentioned",
+    "They are mostly like yakshas"
+   ],
+   "inference": "The beings indicated are demons, indeed mostly of the yaksha type.",
+   "uncertainties": [],
+   "plain_english": "They are demons, indeed mostly like yakshas."
+  },
+  {
+   "verse": 1209,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable indicating all places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aviśeṣāt",
+     "gloss": "from-non-distinction",
+     "grounds": "absence of distinguishing condition",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pṛthivyām",
+     "gloss": "on-earth",
+     "grounds": "locative specifying the earth",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker introducing a specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣacodanāyāḥ",
+     "gloss": "of-specific-injunction",
+     "grounds": "compound denoting a particular directive",
+     "morph": "viśeṣa+codanāyāḥ (compound, f.gen.sg)"
+    },
+    {
+     "surface": "anupapatteḥ",
+     "gloss": "because-of-impossibility",
+     "grounds": "abstract noun indicating lack of applicability",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "Why is no specific injunction given for the earth?",
+   "premises": [
+    "There is non-distinction everywhere",
+    "A specific injunction would require distinction",
+    "Such a specific injunction is impossible"
+   ],
+   "inference": "Because there is no distinction everywhere, a specific injunction regarding the earth is impossible.",
+   "uncertainties": [],
+   "plain_english": "Because there is no distinction everywhere, a specific injunction concerning the earth is impossible."
+  },
+  {
+   "verse": 1210,
+   "rows": [
+    {
+     "surface": "yonyānantyahetuḥ",
+     "gloss": "cause-of-womb-infinity",
+     "grounds": "compound indicating the reason for endless births or wombs",
+     "morph": "yoni+ānantya+hetuḥ (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What is identified as the cause of infinite wombs?",
+   "premises": [
+    "A cause is named",
+    "The effect is infinity of wombs"
+   ],
+   "inference": "This is the cause of the infinity of wombs.",
+   "uncertainties": [
+    "The exact referent of the cause is not explicit in this unit"
+   ],
+   "plain_english": "It is the cause of the infinity of wombs."
+  },
+  {
+   "verse": 1211,
+   "rows": [
+    {
+     "surface": "nirdeśaḥ",
+     "gloss": "designation",
+     "grounds": "act or instance of specifying",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is being provided in this statement?",
+   "premises": [
+    "A designation is given",
+    "Something is being specified"
+   ],
+   "inference": "This is a designation.",
+   "uncertainties": [
+    "What is designated is not stated here"
+   ],
+   "plain_english": "This is a designation."
+  },
+  {
+   "verse": 1212,
+   "rows": [
+    {
+     "surface": "vastuśūnyāni",
+     "gloss": "empty-of-substance",
+     "grounds": "compound indicating absence of real content",
+     "morph": "vastu+śūnyāni (compound, n.nom.pl)"
+    },
+    {
+     "surface": "suvrate",
+     "gloss": "o-good-vowed-one",
+     "grounds": "vocative address to one of good vows",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are these things characterized to the addressee?",
+   "premises": [
+    "The addressee is called good-vowed",
+    "The things are described as empty of substance"
+   ],
+   "inference": "The things addressed to the good-vowed one are empty of substance.",
+   "uncertainties": [
+    "The specific things referred to are not named here"
+   ],
+   "plain_english": "O good-vowed one, they are empty of substance."
+  },
+  {
+   "verse": 1213,
+   "rows": [
+    {
+     "surface": "laukikam",
+     "gloss": "worldly",
+     "grounds": "pertaining to ordinary worldly affairs",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vārtādaṇḍanītyādi",
+     "gloss": "livelihood-policy-and-so-on",
+     "grounds": "compound listing worldly disciplines beginning with livelihood and governance",
+     "morph": "vārtā+daṇḍanīti+ādi (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What kind of knowledge is being described?",
+   "premises": [
+    "It is characterized as worldly",
+    "It includes livelihood, policy, and so on"
+   ],
+   "inference": "The knowledge described is worldly, including livelihood, governance, and related matters.",
+   "uncertainties": [],
+   "plain_english": "It is worldly knowledge, such as livelihood, policy, and so on."
+  },
+  {
+   "verse": 1214,
+   "rows": [
+    {
+     "surface": "pātañjalādau",
+     "gloss": "in-patanjali-and-others",
+     "grounds": "compound locative referring to Patanjali's system and related texts",
+     "morph": "pātañjala+ādau (compound, n.loc.sg)"
+    },
+    {
+     "surface": "vibhūtipāde",
+     "gloss": "in-power-chapter",
+     "grounds": "compound naming the chapter on powers",
+     "morph": "vibhūti+pāde (compound, m.loc.sg)"
+    },
+    {
+     "surface": "aiśvaryasya",
+     "gloss": "of-power",
+     "grounds": "refers to lordly power or attainment",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktatvāt",
+     "gloss": "because-of-being-stated",
+     "grounds": "abstract reason indicating prior statement",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is power mentioned in this context?",
+   "premises": [
+    "Power is discussed in Patanjali and related systems",
+    "It is stated in the chapter on powers"
+   ],
+   "inference": "Power is mentioned because it is also stated in the power chapter of Patanjali and related texts.",
+   "uncertainties": [],
+   "plain_english": "Because power is also stated in the chapter on powers in Patanjali and related systems."
+  },
+  {
+   "verse": 1215,
+   "rows": [
+    {
+     "surface": "paśulokam",
+     "gloss": "bound-being-world",
+     "grounds": "compound referring to the world of bound beings",
+     "morph": "paśu+lokam (compound, m.acc.sg)"
+    },
+    {
+     "surface": "atītam",
+     "gloss": "transcended",
+     "grounds": "past participle indicating having gone beyond",
+     "morph": "m.acc.sg ppp ati-√i"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker of explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) √kṛ"
+    }
+   ],
+   "question": "What is done with regard to the world of bound beings?",
+   "premises": [
+    "The world of bound beings is considered",
+    "It is treated as transcended"
+   ],
+   "inference": "One takes the world of bound beings as having been transcended.",
+   "uncertainties": [],
+   "plain_english": "Having taken the world of bound beings as transcended."
+  },
+  {
+   "verse": 1216,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal quantifier",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokāḥ",
+     "gloss": "worlds",
+     "grounds": "plural referring to realms",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ucyante",
+     "gloss": "are-called",
+     "grounds": "passive verb indicating designation",
+     "morph": "3.pl.pass-pres √vac"
+    },
+    {
+     "surface": "tadatītāḥ",
+     "gloss": "beyond-those",
+     "grounds": "compound indicating transcendence of those worlds",
+     "morph": "tad+atītāḥ (compound, m.nom.pl)"
+    },
+    {
+     "surface": "atimārgasthāḥ",
+     "gloss": "beyond-path-dwellers",
+     "grounds": "compound denoting those situated beyond the path",
+     "morph": "atimārga+sthāḥ (compound, m.nom.pl)"
+    }
+   ],
+   "question": "Who are called beyond those worlds here?",
+   "premises": [
+    "All worlds are referred to in this context",
+    "Some are described as beyond those worlds",
+    "They dwell beyond the path"
+   ],
+   "inference": "Those who have transcended all these worlds are called dwellers beyond the path.",
+   "uncertainties": [],
+   "plain_english": "Here all these are called worlds, and those who have gone beyond them are the dwellers beyond the path."
+  },
+  {
+   "verse": 1217,
+   "rows": [
+    {
+     "surface": "śivajñānam",
+     "gloss": "shiva-knowledge",
+     "grounds": "compound denoting knowledge of Shiva",
+     "morph": "śiva+jñānam (compound, n.nom.sg)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "what remains or is left over",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is identified as the remainder here?",
+   "premises": [
+    "Shiva-knowledge is named",
+    "It is identified as the remainder"
+   ],
+   "inference": "The remainder is identified as Shiva-knowledge.",
+   "uncertainties": [],
+   "plain_english": "The remainder is Shiva-knowledge."
+  },
+  {
+   "verse": 1218,
+   "rows": [
+    {
+     "surface": "satatāvabhāsvarasarvābhāsakasvatantracidekarūpam",
+     "gloss": "ever-radiant-all-illuminating-free-consciousness-one-form",
+     "grounds": "long compound describing a single nature of consciousness as ever radiant, illuminating all, and free",
+     "morph": "satata+avabhāsvara+sarva+ābhāsaka+svatantra+cit+eka+rūpam (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What nature of consciousness is being described?",
+   "premises": [
+    "It is ever radiant",
+    "It illuminates all",
+    "It is free and of one conscious form"
+   ],
+   "inference": "The described nature is a single, ever-radiant, all-illuminating, free consciousness.",
+   "uncertainties": [],
+   "plain_english": "It is of one form: ever-radiant, illuminating all, and free consciousness."
+  },
+  {
+   "verse": 1219,
+   "rows": [
+    {
+     "surface": "sarvātiśayanirmuktam",
+     "gloss": "free-from-all-surpassing",
+     "grounds": "compound indicating absence of any higher excellence",
+     "morph": "sarva+atiśaya+nirmuktam (compound, n.nom.sg)"
+    },
+    {
+     "surface": "anādibhavavajītam",
+     "gloss": "devoid-of-beginningless-becoming",
+     "grounds": "compound indicating absence of beginningless worldly becoming",
+     "morph": "anādi+bhava+varjitam (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What further qualities characterize this reality?",
+   "premises": [
+    "It is free from all surpassing excellence",
+    "It is devoid of beginningless becoming"
+   ],
+   "inference": "This reality is unsurpassed and free from beginningless becoming.",
+   "uncertainties": [],
+   "plain_english": "It is free from all surpassing excellence and devoid of beginningless becoming."
+  },
+  {
+   "verse": 1220,
+   "rows": [
+    {
+     "surface": "yathoktatattvasvarūpam",
+     "gloss": "as-stated-principle-nature",
+     "grounds": "compound referring to the nature of the principle as previously described",
+     "morph": "yathā+ukta+tattva+svarūpam (compound, n.nom.sg)"
+    },
+    {
+     "surface": "avaśyajñeyam",
+     "gloss": "necessarily-to-be-known",
+     "grounds": "gerundive indicating necessity of knowing",
+     "morph": "avaśya+jñeyam (compound, n.nom.sg gerundive √jñā)"
+    }
+   ],
+   "question": "What must necessarily be known according to this statement?",
+   "premises": [
+    "The nature of the principle has been stated",
+    "That nature is marked as necessarily knowable"
+   ],
+   "inference": "The nature of the principle, as previously stated, must necessarily be known.",
+   "uncertainties": [],
+   "plain_english": "The nature of the principle, as stated, must necessarily be known."
+  },
+  {
+   "verse": 1221,
+   "rows": [
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "the practice or discipline named yoga",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is identified as yoga in this context?",
+   "premises": [
+    "The context is specified as here",
+    "Yoga is emphatically identified"
+   ],
+   "inference": "This indeed is yoga in the present context.",
+   "uncertainties": [
+    "The precise referent of 'this' is not explicit in this unit"
+   ],
+   "plain_english": "This indeed is yoga here."
+  },
+  {
+   "verse": 1222,
+   "rows": [
+    {
+     "surface": "saṃhāraḥ",
+     "gloss": "dissolution",
+     "grounds": "withdrawal or reabsorption",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable indicating manner or likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker of explanation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is dissolution being characterized here?",
+   "premises": [
+    "Dissolution is named",
+    "It is characterized as so or thus"
+   ],
+   "inference": "Dissolution is characterized in that manner.",
+   "uncertainties": [
+    "The fuller comparison implied by 'so' is not explicit here"
+   ],
+   "plain_english": "Dissolution is thus characterized."
+  },
+  {
+   "verse": 1223,
+   "rows": [
+    {
+     "surface": "dvighaṭikārūpaḥ",
+     "gloss": "two-ghatika-form",
+     "grounds": "compound indicating a duration or form of two ghaṭikās",
+     "morph": "dvi+ghaṭikā+rūpaḥ (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What duration or form is specified here?",
+   "premises": [
+    "A form is named",
+    "It consists of two ghaṭikās"
+   ],
+   "inference": "The specified form or duration is that of two ghaṭikās.",
+   "uncertainties": [],
+   "plain_english": "It has the form of two ghaṭikās."
+  },
+  {
+   "verse": 1224,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "varṣāṇām",
+     "gloss": "of-years",
+     "grounds": "time unit in plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sahasrāṇi",
+     "gloss": "thousands",
+     "grounds": "numeral indicating thousands",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What length of time is being indicated?",
+   "premises": [
+    "The manner is indicated as thus",
+    "The quantity is ten thousands",
+    "The unit is years"
+   ],
+   "inference": "The indicated duration is ten thousand years.",
+   "uncertainties": [],
+   "plain_english": "Thus, ten thousand years."
+  }
+ ]
+}

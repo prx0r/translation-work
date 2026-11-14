@@ -1,0 +1,785 @@
+{
+ "song": "mukta-m0-p180",
+ "items": [
+  {
+   "verse": 4476,
+   "rows": [
+    {
+     "surface": "snigdhaiṣā",
+     "gloss": "smooth-this",
+     "grounds": "smooth quality of the described form",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "dvandvaṣaḍgūḍhamaṇiromavivarjitam",
+     "gloss": "paired-six-hidden-gem-hair-devoid",
+     "grounds": "compound describing absence of paired six hidden gem hair",
+     "morph": "compound"
+    }
+   ],
+   "question": "What smooth bodily form is devoid of paired six hidden gem hair?",
+   "premises": [
+    "The form is smooth.",
+    "It lacks paired six hidden gem hair."
+   ],
+   "inference": "The verse prescribes a smooth hairless form.",
+   "uncertainties": [
+    "Exact anatomical referent is unclear."
+   ],
+   "plain_english": "This form is smooth and lacks paired six hidden gem hair."
+  },
+  {
+   "verse": 4477,
+   "rows": [
+    {
+     "surface": "yonyantāt",
+     "gloss": "from-yoni-end",
+     "grounds": "ablative from yoni end",
+     "morph": "noun.abl.sg"
+    },
+    {
+     "surface": "kaṭikāpārśve",
+     "gloss": "hip-side",
+     "grounds": "locative hip side",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "rekhe+dve",
+     "gloss": "two-lines",
+     "grounds": "two lines",
+     "morph": "num.adj"
+    },
+    {
+     "surface": "vidhivanmate",
+     "gloss": "as-prescribed",
+     "grounds": "in prescribed manner",
+     "morph": "adv"
+    }
+   ],
+   "question": "Where are two lines prescribed from the yoni end to the hip side?",
+   "premises": [
+    "Two lines are marked.",
+    "They run from yoni end to hip side."
+   ],
+   "inference": "The verse gives a prescribed linear measurement.",
+   "uncertainties": [
+    "Exact line function is unclear."
+   ],
+   "plain_english": "Two lines are prescribed from the yoni end to the hip side."
+  },
+  {
+   "verse": 4478,
+   "rows": [
+    {
+     "surface": "tālaṃ",
+     "gloss": "palm",
+     "grounds": "palm measure",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "wide",
+     "grounds": "wide quality",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "mūlorormadhyoroḥ",
+     "gloss": "root-thigh-middle-thigh",
+     "grounds": "compound of root thigh and middle thigh",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañcakolakam",
+     "gloss": "five-cubits",
+     "grounds": "five cubits",
+     "morph": "num.adj"
+    }
+   ],
+   "question": "What wide palm measure spans root thigh to middle thigh?",
+   "premises": [
+    "The palm is wide.",
+    "It spans root thigh to middle thigh."
+   ],
+   "inference": "The verse gives a five-cubit span.",
+   "uncertainties": [
+    "Exact cubit equivalence is unclear."
+   ],
+   "plain_english": "The wide palm spans from root thigh to middle thigh for five cubits."
+  },
+  {
+   "verse": 4479,
+   "rows": [
+    {
+     "surface": "tatpañcāṅgulavistāraṃ",
+     "gloss": "that-five-angula-width",
+     "grounds": "that five angula width",
+     "morph": "compound"
+    },
+    {
+     "surface": "jaṅghābhāgaḥ",
+     "gloss": "shank-portion",
+     "grounds": "shank portion",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "saṣaḍyavaḥ",
+     "gloss": "with-six-yava",
+     "grounds": "with six yava",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What shank portion has that five-angula width with six yava?",
+   "premises": [
+    "The shank portion is specified.",
+    "It has five-angula width with six yava."
+   ],
+   "inference": "The verse gives shank measurement.",
+   "uncertainties": [
+    "Exact yava measure is unclear."
+   ],
+   "plain_english": "That shank portion has a five-angula width with six yava."
+  },
+  {
+   "verse": 4480,
+   "rows": [
+    {
+     "surface": "hastihastanibhāvūrū",
+     "gloss": "elephant-trunk-like-thighs",
+     "grounds": "thighs like elephant trunk",
+     "morph": "compound"
+    },
+    {
+     "surface": "viromaṃ",
+     "gloss": "hairless",
+     "grounds": "hairless quality",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "jānumaṇḍalam",
+     "gloss": "knee-orb",
+     "grounds": "knee orb",
+     "morph": "noun.acc.sg"
+    }
+   ],
+   "question": "What hairless knee orb accompanies elephant-trunk-like thighs?",
+   "premises": [
+    "Thighs are elephant-trunk-like.",
+    "The knee orb is hairless."
+   ],
+   "inference": "The verse describes thigh and knee form.",
+   "uncertainties": [
+    "Exact orb measurement is unclear."
+   ],
+   "plain_english": "The thighs are elephant-trunk-like and the knee orb is hairless."
+  },
+  {
+   "verse": 4481,
+   "rows": [
+    {
+     "surface": "syādaṅguṣṭhakaniṣṭhāgrapārṣṇiraṅghritalāyatā",
+     "gloss": "thumb-little-toe-tip-heel-foot-sole-length",
+     "grounds": "compound of thumb little toe tip heel foot sole length",
+     "morph": "compound"
+    }
+   ],
+   "question": "What foot sole length runs from thumb to little toe tip and heel?",
+   "premises": [
+    "The foot sole length is specified.",
+    "It spans thumb to little toe tip and heel."
+   ],
+   "inference": "The verse gives foot sole proportion.",
+   "uncertainties": [
+    "Exact length value is embedded in compound."
+   ],
+   "plain_english": "The foot sole length runs from thumb to little toe tip and heel."
+  },
+  {
+   "verse": 4482,
+   "rows": [
+    {
+     "surface": "vyāsena+ṣaḍyavāyāmā",
+     "gloss": "by-measure-six-yava-length",
+     "grounds": "length by six yava measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādāṅguṣṭhādyavādhikā",
+     "gloss": "from-thumb-yava-excess",
+     "grounds": "excess yava from thumb",
+     "morph": "compound"
+    }
+   ],
+   "question": "What length exceeds six yava from the foot thumb?",
+   "premises": [
+    "Length is by six yava measure.",
+    "Excess yava is from thumb."
+   ],
+   "inference": "The verse gives foot thumb measurement.",
+   "uncertainties": [
+    "Exact excess amount is unclear."
+   ],
+   "plain_english": "The length is by six yava measure with excess yava from the foot thumb."
+  },
+  {
+   "verse": 4483,
+   "rows": [
+    {
+     "surface": "yavārdhena+viśālaḥ",
+     "gloss": "by-half-yava-wide",
+     "grounds": "wide by half yava",
+     "morph": "compound"
+    },
+    {
+     "surface": "syadaṅguṣṭhe+ṣaḍyavo+nakhaḥ",
+     "gloss": "syat-thumb-six-yava-nail",
+     "grounds": "nail of thumb six yava",
+     "morph": "compound"
+    }
+   ],
+   "question": "What nail of the thumb is six yava wide by half yava?",
+   "premises": [
+    "The thumb nail is six yava.",
+    "Width is by half yava."
+   ],
+   "inference": "The verse gives thumb nail proportion.",
+   "uncertainties": [
+    "Exact syat form is unclear."
+   ],
+   "plain_english": "The thumb nail is six yava, wide by half yava."
+  },
+  {
+   "verse": 4484,
+   "rows": [
+    {
+     "surface": "sāmānyalakṣaṇaṃ+proktaṃ",
+     "gloss": "common-mark-described",
+     "grounds": "common mark described",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratimānāṃ",
+     "gloss": "of-images",
+     "grounds": "genitive of images",
+     "morph": "noun.gen.pl"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "best twice-born",
+     "morph": "noun.voc.pl"
+    }
+   ],
+   "question": "What common mark of images is described for best twice-born?",
+   "premises": [
+    "A common mark is described.",
+    "It concerns images."
+   ],
+   "inference": "The verse introduces common image marks.",
+   "uncertainties": [
+    "Exact mark is in prior context."
+   ],
+   "plain_english": "The common mark of images is described for best twice-born."
+  },
+  {
+   "verse": 4485,
+   "rows": [
+    {
+     "surface": "vṛddhyā+hānyā",
+     "gloss": "by-increase-decrease",
+     "grounds": "by increase or decrease",
+     "morph": "compound"
+    },
+    {
+     "surface": "prayoktavyaṃ",
+     "gloss": "to-be-applied",
+     "grounds": "to be applied",
+     "morph": "verb.gerundive"
+    },
+    {
+     "surface": "sarveṣvaṅgeṣu",
+     "gloss": "in-all-limbs",
+     "grounds": "in all limbs",
+     "morph": "noun.loc.pl"
+    },
+    {
+     "surface": "vā+dvijāḥ",
+     "gloss": "or-twice-born",
+     "grounds": "or twice-born",
+     "morph": "conj+noun"
+    }
+   ],
+   "question": "How should increase or decrease be applied in all limbs?",
+   "premises": [
+    "Increase or decrease is applied.",
+    "It applies in all limbs."
+   ],
+   "inference": "The verse allows proportional adjustment.",
+   "uncertainties": [
+    "Exact adjustment rule is unclear."
+   ],
+   "plain_english": "Increase or decrease should be applied in all limbs, O twice-born."
+  },
+  {
+   "verse": 4486,
+   "rows": [
+    {
+     "surface": "tryaṅgulāntaṃ+śiraścakraṃ",
+     "gloss": "three-angula-end-head-circle",
+     "grounds": "head circle ending at three angula",
+     "morph": "compound"
+    },
+    {
+     "surface": "suvṛttaṃ",
+     "gloss": "well-rounded",
+     "grounds": "well rounded",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "makarānvitam",
+     "gloss": "makara-adorned",
+     "grounds": "adorned with makara",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What well-rounded head circle ending at three angula is makara-adorned?",
+   "premises": [
+    "Head circle ends at three angula.",
+    "It is well-rounded and makara-adorned."
+   ],
+   "inference": "The verse describes head circle ornament.",
+   "uncertainties": [
+    "Exact makara placement is unclear."
+   ],
+   "plain_english": "The head circle, ending at three angula, is well-rounded and adorned with makara."
+  },
+  {
+   "verse": 4487,
+   "rows": [
+    {
+     "surface": "ārabhyāṅgulahānyaikatalāntaṃ",
+     "gloss": "beginning-angula-decrease-one-palm-end",
+     "grounds": "beginning with angula decrease to one palm end",
+     "morph": "compound"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "to-be-calculated",
+     "grounds": "should be calculated",
+     "morph": "verb.3.sg.opt"
+    }
+   ],
+   "question": "What should be calculated from angula decrease to one palm end?",
+   "premises": [
+    "Calculation begins with angula decrease.",
+    "It ends at one palm."
+   ],
+   "inference": "The verse gives a calculation range.",
+   "uncertainties": [
+    "Exact calculated quantity is unclear."
+   ],
+   "plain_english": "One should calculate from angula decrease to one palm end."
+  },
+  {
+   "verse": 4488,
+   "rows": [
+    {
+     "surface": "triṃśadaṅgulaparyantaṃ",
+     "gloss": "thirty-angula-limit",
+     "grounds": "limit of thirty angula",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhanurbāṇādiyuktitaḥ",
+     "gloss": "with-bow-arrow-etc",
+     "grounds": "with bow arrow etc",
+     "morph": "compound"
+    }
+   ],
+   "question": "What thirty-angula limit applies with bow arrow etc?",
+   "premises": [
+    "Limit is thirty angula.",
+    "It involves bow arrow etc."
+   ],
+   "inference": "The verse gives weapon proportion limit.",
+   "uncertainties": [
+    "Exact application is unclear."
+   ],
+   "plain_english": "The limit is thirty angula with bow, arrow, etc."
+  },
+  {
+   "verse": 4489,
+   "rows": [
+    {
+     "surface": "candanaśca",
+     "gloss": "sandalwood",
+     "grounds": "sandalwood",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "madhūkaśca",
+     "gloss": "madhuka",
+     "grounds": "madhuka",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "khadiraḥ",
+     "gloss": "khadira",
+     "grounds": "khadira",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "saralaḥ",
+     "gloss": "sarala",
+     "grounds": "sarala",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "and so",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which woods are listed including sandalwood madhuka khadira sarala?",
+   "premises": [
+    "Sandalwood is listed.",
+    "Madhuka khadira sarala are listed."
+   ],
+   "inference": "The verse lists suitable woods.",
+   "uncertainties": [
+    "Exact ritual use is unclear."
+   ],
+   "plain_english": "Sandalwood, madhuka, khadira, sarala, and so on are listed."
+  },
+  {
+   "verse": 4490,
+   "rows": [
+    {
+     "surface": "kramukaḥ",
+     "gloss": "betel-nut",
+     "grounds": "betel nut",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "saptaparṇaśca",
+     "gloss": "seven-leaf",
+     "grounds": "seven leaf",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "vakulaḥ",
+     "gloss": "vakula",
+     "grounds": "vakula",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "kundacandanau",
+     "gloss": "kunda-sandal",
+     "grounds": "kunda and sandal",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which woods include betel nut seven-leaf vakula kunda sandal?",
+   "premises": [
+    "Betel nut is listed.",
+    "Seven-leaf vakula kunda sandal are listed."
+   ],
+   "inference": "The verse continues suitable woods.",
+   "uncertainties": [
+    "Exact ritual use is unclear."
+   ],
+   "plain_english": "Betel nut, seven-leaf, vakula, kunda, and sandal are listed."
+  },
+  {
+   "verse": 4491,
+   "rows": [
+    {
+     "surface": "śrīparṇī",
+     "gloss": "śrīparṇī",
+     "grounds": "śrīparṇī",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "khadiraḥ",
+     "gloss": "khadira",
+     "grounds": "khadira",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "sālatintṛṇīsālabilvakau",
+     "gloss": "sāla-tinduka-sāla-bilva",
+     "grounds": "sāla tinduka sāla bilva",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which woods include śrīparṇī khadira sāla tinduka bilva?",
+   "premises": [
+    "Śrīparṇī is listed.",
+    "Khadira sāla tinduka bilva are listed."
+   ],
+   "inference": "The verse continues suitable woods.",
+   "uncertainties": [
+    "Exact ritual use is unclear."
+   ],
+   "plain_english": "Śrīparṇī, khadira, sāla, tinduka, sāla, and bilva are listed."
+  },
+  {
+   "verse": 4492,
+   "rows": [
+    {
+     "surface": "panaso",
+     "gloss": "jackfruit",
+     "grounds": "jackfruit",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "devādāruśca",
+     "gloss": "devadaru",
+     "grounds": "devadaru",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "padmatindukasaṃjñakau",
+     "gloss": "lotus-tinduka-named",
+     "grounds": "named lotus tinduka",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which woods include jackfruit devadaru lotus tinduka?",
+   "premises": [
+    "Jackfruit is listed.",
+    "Devadaru lotus tinduka are listed."
+   ],
+   "inference": "The verse continues suitable woods.",
+   "uncertainties": [
+    "Exact ritual use is unclear."
+   ],
+   "plain_english": "Jackfruit, devadaru, and lotus-tinduka-named woods are listed."
+  },
+  {
+   "verse": 4493,
+   "rows": [
+    {
+     "surface": "vakulaḥ",
+     "gloss": "vakula",
+     "grounds": "vakula",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "kuṭajāhvaśca",
+     "gloss": "kuṭaja-named",
+     "grounds": "named kuṭaja",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "piṇḍitastiniśaḥ+punaḥ",
+     "gloss": "pounded-tiniśa-again",
+     "grounds": "pounded tiniśa again",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which woods include vakula kuṭaja pounded tiniśa?",
+   "premises": [
+    "Vakula is listed.",
+    "Kuṭaja and pounded tiniśa are listed."
+   ],
+   "inference": "The verse continues suitable woods.",
+   "uncertainties": [
+    "Exact ritual use is unclear."
+   ],
+   "plain_english": "Vakula, kuṭaja-named, and pounded tiniśa again are listed."
+  },
+  {
+   "verse": 4494,
+   "rows": [
+    {
+     "surface": "yasya+devasya+yā+devī",
+     "gloss": "whose-deity-whose-goddess",
+     "grounds": "whose deity whose goddess",
+     "morph": "compound"
+    },
+    {
+     "surface": "tasyāḥ+tadvṛkṣa+eva+hi",
+     "gloss": "her-that-tree-indeed",
+     "grounds": "her that tree indeed",
+     "morph": "compound"
+    }
+   ],
+   "question": "Whose tree is prescribed for whose deity and goddess?",
+   "premises": [
+    "Each deity has a goddess.",
+    "Her tree is that deity's tree."
+   ],
+   "inference": "The verse links deity goddess and tree.",
+   "uncertainties": [
+    "Exact tree mapping is in context."
+   ],
+   "plain_english": "For whose deity and goddess, her tree is indeed that tree."
+  },
+  {
+   "verse": 4495,
+   "rows": [
+    {
+     "surface": "jyeṣṭhāyāḥ+pāṭalī+proktā",
+     "gloss": "of-jyeṣṭhā-pāṭalī-declared",
+     "grounds": "pāṭalī declared for jyeṣṭhā",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivākhyaḥ+saptamātṛṣu",
+     "gloss": "śiva-named-among-seven-mothers",
+     "grounds": "śiva-named among seven mothers",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which tree is declared for jyeṣṭhā among seven mothers?",
+   "premises": [
+    "Pāṭalī is declared for jyeṣṭhā.",
+    "Śiva-named is among seven mothers."
+   ],
+   "inference": "The verse maps tree to mother.",
+   "uncertainties": [
+    "Exact mother list is unclear."
+   ],
+   "plain_english": "Pāṭalī is declared for jyeṣṭhā among the seven mothers named Śiva."
+  },
+  {
+   "verse": 4496,
+   "rows": [
+    {
+     "surface": "khādiraḥ",
+     "gloss": "khadira",
+     "grounds": "khadira",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "sarvadevānāṃ",
+     "gloss": "of-all-gods",
+     "grounds": "of all gods",
+     "morph": "noun.gen.pl"
+    },
+    {
+     "surface": "kṣīriṇī",
+     "gloss": "milky",
+     "grounds": "milky",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "khādiraḥ",
+     "gloss": "khadira",
+     "grounds": "khadira",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "and so",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which wood is for all gods and milky khadira?",
+   "premises": [
+    "Khadira is for all gods.",
+    "Milky khadira is also listed."
+   ],
+   "inference": "The verse assigns khadira broadly.",
+   "uncertainties": [
+    "Exact milky distinction is unclear."
+   ],
+   "plain_english": "Khadira is for all gods, and milky khadira likewise."
+  },
+  {
+   "verse": 4497,
+   "rows": [
+    {
+     "surface": "gaṇapaskandaśāstṝṇāṃ",
+     "gloss": "of-gaṇapa-skanda-śāstṛ",
+     "grounds": "of gaṇapa skanda śāstṛ",
+     "morph": "compound"
+    },
+    {
+     "surface": "mātṝṇāṃ",
+     "gloss": "of-mothers",
+     "grounds": "of mothers",
+     "morph": "noun.gen.pl"
+    },
+    {
+     "surface": "śivapādapāḥ",
+     "gloss": "śiva-trees",
+     "grounds": "śiva trees",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which trees are for gaṇapa skanda śāstṛ and mothers?",
+   "premises": [
+    "Gaṇapa skanda śāstṛ are named.",
+    "Mothers have śiva trees."
+   ],
+   "inference": "The verse assigns śiva trees.",
+   "uncertainties": [
+    "Exact tree species is unclear."
+   ],
+   "plain_english": "Śiva trees are for gaṇapa, skanda, śāstṛ, and mothers."
+  },
+  {
+   "verse": 4498,
+   "rows": [
+    {
+     "surface": "tāmrārakūṭaraupyairvā",
+     "gloss": "with-copper-brass-silver-or-electrum",
+     "grounds": "with copper brass silver or electrum",
+     "morph": "compound"
+    },
+    {
+     "surface": "śātakumbhena+vā",
+     "gloss": "or-śātakumbha",
+     "grounds": "or śātakumbha",
+     "morph": "compound"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "considered",
+     "morph": "verb.3.pl.perf"
+    }
+   ],
+   "question": "Which metals are considered including copper brass silver electrum śātakumbha?",
+   "premises": [
+    "Copper brass silver electrum are considered.",
+    "Śātakumbha is also considered."
+   ],
+   "inference": "The verse lists acceptable metals.",
+   "uncertainties": [
+    "Exact metal choice is unclear."
+   ],
+   "plain_english": "Copper, brass, silver, electrum, or śātakumbha are considered."
+  },
+  {
+   "verse": 4499,
+   "rows": [
+    {
+     "surface": "dravyasaṃgrahaṇaṃ",
+     "gloss": "material-collection",
+     "grounds": "collection of materials",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "kuryāttadvidhanaprakārataḥ",
+     "gloss": "should-do",
+     "grounds": "should do according to that method",
+     "morph": "verb.3.sg.opt"
+    }
+   ],
+   "question": "How should material collection be done?",
+   "premises": [
+    "Material collection is to be done.",
+    "It follows that method."
+   ],
+   "inference": "The verse prescribes material collection method.",
+   "uncertainties": [
+    "Exact method is in prior context."
+   ],
+   "plain_english": "One should collect materials according to that method."
+  }
+ ]
+}

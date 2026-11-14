@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p197",
+ "items": [
+  {
+   "verse": 4925,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence after the preceding directional rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhāte",
+     "gloss": "at-dawn",
+     "grounds": "locative time of the prescribed worship",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "bimbādyaṃ",
+     "gloss": "image-and-the-rest",
+     "grounds": "object of worship including the image and related items",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kumbhānagnīṃśca",
+     "gloss": "pots-and-fires-and",
+     "grounds": "fused accusative objects plus enclitic ca",
+     "morph": "m.acc.pl (fused with ca)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescribed ritual action at dawn",
+     "morph": "3.sg.act.opt (root pūj)"
+    }
+   ],
+   "question": "Which ritual objects are to be worshipped at dawn following the prescribed directional leaf offerings?",
+   "premises": [
+    "dawn follows the preceding directional rites",
+    "the image and related objects are worshipped",
+    "pots and fires are also worshipped"
+   ],
+   "inference": "the rite prescribes dawn worship of the image, pots, and fires",
+   "uncertainties": [
+    "the exact scope of bimbādyaṃ beyond image and related objects is not specified"
+   ],
+   "plain_english": "Then at dawn one should worship the image and the rest, the pots, and the fires."
+  }
+ ]
+}

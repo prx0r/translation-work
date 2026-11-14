@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "kaṭutailavimiśritaiś",
+     "gloss": "with-pungent-oil-mixed",
+     "grounds": "compound: kaṭu (pungent) + taila (oil) + vimiśrita (mixed); instrumental plural qualifying oblation materials",
+     "morph": "kaṭu+taila+vimiśrita+instr.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting to prior ritual means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homād",
+     "gloss": "from-oblation",
+     "grounds": "ablative indicating source or means of the effect",
+     "morph": "homa+abl.sg.m"
+    },
+    {
+     "surface": "arayas",
+     "gloss": "enemies",
+     "grounds": "subject undergoing the stated outcome",
+     "morph": "ari+nom.pl.m"
+    },
+    {
+     "surface": "trimunivāsarān",
+     "gloss": "three-seven-days",
+     "grounds": "compound: tri (three) + muni (seven) + vāsara (days), indicating a period of twenty-one days",
+     "morph": "tri+muni+vāsara+acc.pl.m"
+    },
+    {
+     "surface": "mriyante",
+     "gloss": "die",
+     "grounds": "main verb expressing the result of the oblation",
+     "morph": "3.pl.pres.middle √mṛ"
+    }
+   ],
+   "question": "By what oblation do enemies perish within twenty-one days?",
+   "premises": [
+    "Oblations are performed with substances mixed with pungent oil.",
+    "The ritual effect unfolds over twenty-one days.",
+    "Enemies are the targets of this oblation."
+   ],
+   "inference": "Oblations mixed with pungent oil cause enemies to die within twenty-one days.",
+   "uncertainties": [],
+   "plain_english": "And from oblations mixed with pungent oil, enemies die within twenty-one days."
+  }
+ ]
+}

@@ -1,0 +1,1013 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1051,
+   "rows": [
+    {
+     "surface": "japen",
+     "gloss": "one-should-mutter",
+     "grounds": "optative verbal form",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "object of muttering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative specifying mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śatrur",
+     "gloss": "enemy",
+     "grounds": "subject affected by rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jvarito",
+     "gloss": "fever-stricken",
+     "grounds": "resulting condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "final outcome",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brajet",
+     "gloss": "should-go-to",
+     "grounds": "optative result",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "What lethal effect follows from muttering this mantra against an enemy?",
+   "premises": [
+    "The practitioner mutters this mantra.",
+    "The enemy becomes fever-stricken.",
+    "The enemy goes to death."
+   ],
+   "inference": "Muttering this mantra causes the enemy to die through fever.",
+   "uncertainties": [],
+   "plain_english": "One should mutter this mantra; the enemy, stricken with fever, should go to death."
+  },
+  {
+   "verse": 1052,
+   "rows": [
+    {
+     "surface": "śūlaprotaṃ",
+     "gloss": "impaled-on-spike",
+     "grounds": "visualized state of enemy",
+     "morph": "m.acc.sg compound śūla+prota"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "specifies enemy",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ripuṃ",
+     "gloss": "enemy",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dināstreṇa",
+     "gloss": "by-day-weapon",
+     "grounds": "instrument of torment",
+     "morph": "n.ins.sg compound dina+astra"
+    },
+    {
+     "surface": "prapīḍitam",
+     "gloss": "tormented",
+     "grounds": "condition of enemy",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How must one's own enemy be visualized when tormented by the day-weapon?",
+   "premises": [
+    "The enemy is one's own.",
+    "The enemy is impaled on a spike.",
+    "The enemy is tormented by the day-weapon."
+   ],
+   "inference": "The rite requires visualizing one's own enemy impaled and tormented by the day-weapon.",
+   "uncertainties": [
+    "The exact referent of 'day-weapon' is not specified in this verse."
+   ],
+   "plain_english": "One should visualize one's own enemy impaled on a spike and tormented by the weapon of the day."
+  },
+  {
+   "verse": 1053,
+   "rows": [
+    {
+     "surface": "ravimaṇḍalagaṃ",
+     "gloss": "gone-to-sun-disk",
+     "grounds": "location of enemy",
+     "morph": "m.acc.sg compound ravi+maṇḍala+ga"
+    },
+    {
+     "surface": "śatruṃ",
+     "gloss": "enemy",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daṣṭaṃ",
+     "gloss": "bitten",
+     "grounds": "condition of enemy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadrathapannagaiḥ",
+     "gloss": "by-that-chariot-serpents",
+     "grounds": "agents biting enemy",
+     "morph": "m.ins.pl compound tad+ratha+pannaga"
+    }
+   ],
+   "question": "What affliction befalls the enemy visualized within the sun's disk?",
+   "premises": [
+    "The enemy is visualized in the sun's disk.",
+    "Serpents of that chariot are present.",
+    "The enemy is bitten by those serpents."
+   ],
+   "inference": "The enemy in the sun's disk is afflicted by being bitten by the chariot's serpents.",
+   "uncertainties": [],
+   "plain_english": "One should visualize the enemy gone to the sun's disk, bitten by the serpents of that chariot."
+  },
+  {
+   "verse": 1054,
+   "rows": [
+    {
+     "surface": "tarpayed",
+     "gloss": "one-should-offer-oblations",
+     "grounds": "ritual action",
+     "morph": "3.sg.act-opt √tṛp-caus"
+    },
+    {
+     "surface": "dinabāṇena",
+     "gloss": "with-day-arrow",
+     "grounds": "instrument or means of offering",
+     "morph": "m.ins.sg compound dina+bāṇa"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative result",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that-one",
+     "grounds": "refers to enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yamavallabhaḥ",
+     "gloss": "beloved-of-yama",
+     "grounds": "euphemism for death",
+     "morph": "m.nom.sg compound yama+vallabha"
+    }
+   ],
+   "question": "What fatal outcome results from offering oblations with the day-arrow?",
+   "premises": [
+    "One offers oblations with the day-arrow.",
+    "The targeted person becomes beloved of Yama.",
+    "Being beloved of Yama implies death."
+   ],
+   "inference": "Offering oblations with the day-arrow brings death to the target.",
+   "uncertainties": [
+    "The ritual substance or exact procedure of 'day-arrow' oblation is unstated."
+   ],
+   "plain_english": "One should offer oblations with the day-arrow; that one should become beloved of Yama."
+  },
+  {
+   "verse": 1055,
+   "rows": [
+    {
+     "surface": "ripuṃ",
+     "gloss": "enemy",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(indecl.) absolutive √dhyai"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-mutter",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of muttering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krīḍati",
+     "gloss": "sports",
+     "grounds": "euphemistic result",
+     "morph": "3.sg.act-pres √krīḍ"
+    },
+    {
+     "surface": "yamāntike",
+     "gloss": "near-yama",
+     "grounds": "location implying death",
+     "morph": "n.loc.sg compound yama+antika"
+    }
+   ],
+   "question": "What fate befalls the enemy when meditated upon during mantra recitation?",
+   "premises": [
+    "The practitioner meditates on the enemy.",
+    "The practitioner mutters the mantra.",
+    "The enemy sports near Yama."
+   ],
+   "inference": "Meditating on the enemy while muttering the mantra causes the enemy's death.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the enemy, one should mutter the mantra; he sports near Yama."
+  },
+  {
+   "verse": 1056,
+   "rows": [
+    {
+     "surface": "pratipadya",
+     "gloss": "having-approached",
+     "grounds": "prior act toward enemy",
+     "morph": "(indecl.) absolutive prati+√pad"
+    },
+    {
+     "surface": "nijaṃ",
+     "gloss": "own",
+     "grounds": "specifies enemy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śatruṃ",
+     "gloss": "enemy",
+     "grounds": "object approached",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pra",
+     "gloss": "forth",
+     "grounds": "verbal prefix in fused form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-mutter",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "object in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vittamaḥ",
+     "gloss": "most-skilled-in-mantra",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg compound mantra+vittama"
+    }
+   ],
+   "question": "Who should mutter the mantra after approaching one's own enemy?",
+   "premises": [
+    "One approaches one's own enemy.",
+    "The mantra is to be muttered.",
+    "The actor is most skilled in mantra."
+   ],
+   "inference": "The most mantra-skilled practitioner should approach his own enemy and mutter the mantra.",
+   "uncertainties": [
+    "The split of 'pra japen' across tokens is preserved as given; internal sandhi noted."
+   ],
+   "plain_english": "Having approached one's own enemy, the one most skilled in mantra should mutter the mantra."
+  },
+  {
+   "verse": 1057,
+   "rows": [
+    {
+     "surface": "pralayānalasaṃkāśāaṃ",
+     "gloss": "resembling-dissolution-fire",
+     "grounds": "appearance of visualized deity",
+     "morph": "f.acc.sg compound pralaya+anala+saṃkāśa"
+    },
+    {
+     "surface": "kālarātrim",
+     "gloss": "night-of-time",
+     "grounds": "fierce goddess form",
+     "morph": "f.acc.sg compound kāla+rātri"
+    },
+    {
+     "surface": "ivā",
+     "gloss": "like",
+     "grounds": "comparative particle with sandhi",
+     "morph": "(indecl.) iva+ā"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "qualifies goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What supreme goddess form resembling dissolution fire must be visualized?",
+   "premises": [
+    "The form resembles dissolution fire.",
+    "The form is like Kālarātri.",
+    "The form is supreme."
+   ],
+   "inference": "The practitioner must visualize a supreme form like Kālarātri, resembling the fire of dissolution.",
+   "uncertainties": [
+    "The token 'pralayānalasaṃkāśāaṃ' shows an unusual vowel sequence as transmitted."
+   ],
+   "plain_english": "One should visualize the supreme one, resembling the fire of dissolution, like Kālarātri."
+  },
+  {
+   "verse": 1058,
+   "rows": [
+    {
+     "surface": "savitur",
+     "gloss": "of-sun",
+     "grounds": "location reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "maṇḍalāntaḥsthāṃ",
+     "gloss": "standing-within-disk",
+     "grounds": "position of visualized form",
+     "morph": "f.acc.sg compound maṇḍala+antaḥstha"
+    },
+    {
+     "surface": "raktanetratrayodgataiḥ",
+     "gloss": "issuing-from-three-red-eyes",
+     "grounds": "source of rays",
+     "morph": "m.ins.pl compound rakta+netra+traya+udgata"
+    }
+   ],
+   "question": "Where is the visualized goddess situated and from what do her rays issue?",
+   "premises": [
+    "She stands within the sun's disk.",
+    "She has three red eyes.",
+    "Rays issue from those three red eyes."
+   ],
+   "inference": "The goddess is visualized within the sun's disk emitting rays from her three red eyes.",
+   "uncertainties": [],
+   "plain_english": "She stands within the disk of the sun, with rays issuing from her three red eyes."
+  },
+  {
+   "verse": 1059,
+   "rows": [
+    {
+     "surface": "spaṣṭadraṃṣṭādharāṃ",
+     "gloss": "with-clearly-visible-fangs-and-lips",
+     "grounds": "terrifying facial feature",
+     "morph": "f.acc.sg compound spaṣṭa+draṃṣṭra+adhara"
+    },
+    {
+     "surface": "nṛtyadbhrukuṭīkuṭilānanām",
+     "gloss": "with-face-crooked-by-dancing-brows",
+     "grounds": "fierce expression",
+     "morph": "f.acc.sg compound nṛtyat+bhrukuṭī+kuṭila+ānana"
+    }
+   ],
+   "question": "What fierce facial features characterize the visualized goddess's appearance?",
+   "premises": [
+    "Her fangs and lips are clearly visible.",
+    "Her brows are dancing.",
+    "Her face is made crooked by those brows."
+   ],
+   "inference": "The goddess is visualized with visible fangs and a face distorted by dancing brows.",
+   "uncertainties": [],
+   "plain_english": "She has clearly visible fangs and lips, and a face made crooked by dancing brows."
+  },
+  {
+   "verse": 1060,
+   "rows": [
+    {
+     "surface": "daṃṣṭrāmayūkhajvālena",
+     "gloss": "by-flame-of-fang-rays",
+     "grounds": "source of illumination",
+     "morph": "m.ins.sg compound daṃṣṭrā+mayūkha+jvāla"
+    },
+    {
+     "surface": "dyotayantīṃ",
+     "gloss": "illuminating",
+     "grounds": "action of goddess",
+     "morph": "f.acc.sg.act-pres-part √dyut-caus"
+    },
+    {
+     "surface": "digantaram",
+     "gloss": "space-between-directions",
+     "grounds": "area illuminated",
+     "morph": "n.acc.sg compound diś+antara"
+    }
+   ],
+   "question": "How does the goddess illuminate the space between the directions?",
+   "premises": [
+    "Flames arise from rays of her fangs.",
+    "She illuminates with that flame.",
+    "The space between directions is lit."
+   ],
+   "inference": "The goddess illuminates the intermediate directions with flames from her fang-rays.",
+   "uncertainties": [],
+   "plain_english": "She illuminates the space between the directions with the flame of rays from her fangs."
+  },
+  {
+   "verse": 1061,
+   "rows": [
+    {
+     "surface": "japed",
+     "gloss": "should-mutter",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "dinatrayaṃ",
+     "gloss": "for-three-days",
+     "grounds": "duration of practice",
+     "morph": "n.acc.sg compound dina+traya"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mārayed",
+     "gloss": "should-kill",
+     "grounds": "intended result",
+     "morph": "3.sg.act-opt √mṛ-caus"
+    },
+    {
+     "surface": "ripum",
+     "gloss": "enemy",
+     "grounds": "target",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-oneself",
+     "grounds": "specifies enemy",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What result follows when the practitioner mutters for three days?",
+   "premises": [
+    "The practitioner mutters for three days.",
+    "The target is one's own enemy.",
+    "The act should kill the enemy."
+   ],
+   "inference": "Muttering for three days enables the practitioner to kill his own enemy.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should mutter for three days and should kill his own enemy."
+  },
+  {
+   "verse": 1062,
+   "rows": [
+    {
+     "surface": "raktavastradharāṃ",
+     "gloss": "wearing-red-garments",
+     "grounds": "attire of visualized form",
+     "morph": "f.acc.sg compound rakta+vastra+dhara"
+    },
+    {
+     "surface": "krūrāṃ",
+     "gloss": "fierce",
+     "grounds": "quality of form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "raktanetratrayānvitām",
+     "gloss": "endowed-with-three-red-eyes",
+     "grounds": "facial feature",
+     "morph": "f.acc.sg compound rakta+netra+traya+anvita"
+    }
+   ],
+   "question": "What attire and fierce features define this visualized goddess form?",
+   "premises": [
+    "She wears red garments.",
+    "She is fierce.",
+    "She is endowed with three red eyes."
+   ],
+   "inference": "The goddess is visualized as fierce, wearing red garments and having three red eyes.",
+   "uncertainties": [],
+   "plain_english": "She wears red garments, is fierce, and is endowed with three red eyes."
+  },
+  {
+   "verse": 1063,
+   "rows": [
+    {
+     "surface": "khaḍgena",
+     "gloss": "with-sword",
+     "grounds": "instrument of cutting",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "refers to enemy's head",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chiraś",
+     "gloss": "head",
+     "grounds": "object cut off",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chittvā",
+     "gloss": "having-cut-off",
+     "grounds": "prior violent act",
+     "morph": "(indecl.) absolutive √chid"
+    },
+    {
+     "surface": "kṣaṇād",
+     "gloss": "in-an-instant",
+     "grounds": "speed of movement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vyomatalaṃ",
+     "gloss": "to-sky-surface",
+     "grounds": "destination",
+     "morph": "n.acc.sg compound vyoman+tala"
+    },
+    {
+     "surface": "gatām",
+     "gloss": "gone",
+     "grounds": "state of goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What swift action does the goddess perform after cutting off the head?",
+   "premises": [
+    "She cuts off that head with a sword.",
+    "The action is completed instantly.",
+    "She goes to the surface of the sky."
+   ],
+   "inference": "After cutting off the head with a sword, the goddess instantly ascends to the sky.",
+   "uncertainties": [],
+   "plain_english": "Having cut off that head with a sword, she has gone in an instant to the surface of the sky."
+  },
+  {
+   "verse": 1064,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "refers to described method",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "method",
+     "grounds": "ritual procedure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ripur",
+     "gloss": "enemy",
+     "grounds": "target",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyu",
+     "gloss": "death",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "priyo",
+     "gloss": "dear-to",
+     "grounds": "second member of compound",
+     "morph": "m.nom.sg compound mṛtyu+priya"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "optative result",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What outcome for the enemy is ensured by this very method?",
+   "premises": [
+    "This very method is applied.",
+    "The enemy becomes dear to death.",
+    "Being dear to death means dying."
+   ],
+   "inference": "By this very method, the enemy should become subject to death.",
+   "uncertainties": [],
+   "plain_english": "By this very method, the enemy should become dear to death."
+  },
+  {
+   "verse": 1065,
+   "rows": [
+    {
+     "surface": "paścimāmukhaliṅgasya",
+     "gloss": "of-west-facing-liṅga",
+     "grounds": "ritual location",
+     "morph": "n.gen.sg compound paścima+āmukha+liṅga"
+    },
+    {
+     "surface": "sajīvaṃ",
+     "gloss": "living",
+     "grounds": "state of offering",
+     "morph": "m.acc.sg compound sa+jīva"
+    },
+    {
+     "surface": "mahiṣaṃ",
+     "gloss": "buffalo",
+     "grounds": "sacrificial animal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puraḥ",
+     "gloss": "in-front",
+     "grounds": "placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What living offering must be placed before a west-facing liṅga?",
+   "premises": [
+    "The liṅga faces west.",
+    "A buffalo is used.",
+    "The buffalo is living and placed in front."
+   ],
+   "inference": "A living buffalo must be placed in front of a west-facing liṅga.",
+   "uncertainties": [],
+   "plain_english": "A living buffalo should be placed in front of a west-facing liṅga."
+  },
+  {
+   "verse": 1066,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative reference to fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samedhite",
+     "gloss": "kindled",
+     "grounds": "state of fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "fire",
+     "grounds": "ritual fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yathāvad",
+     "gloss": "properly",
+     "grounds": "manner of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-of-teachers",
+     "grounds": "qualified officiant",
+     "morph": "m.nom.sg compound deśika+uttama"
+    }
+   ],
+   "question": "Who must properly perform the rite in that kindled fire?",
+   "premises": [
+    "The fire is kindled.",
+    "The rite must be done properly.",
+    "The officiant is the best of teachers."
+   ],
+   "inference": "The best of teachers must properly perform the rite in that kindled fire.",
+   "uncertainties": [],
+   "plain_english": "In that kindled fire, the best of teachers should act properly."
+  },
+  {
+   "verse": 1067,
+   "rows": [
+    {
+     "surface": "ajāraktena",
+     "gloss": "with-goat-blood",
+     "grounds": "substance for sprinkling",
+     "morph": "n.ins.sg compound aja+rakta"
+    },
+    {
+     "surface": "saṃsiktān",
+     "gloss": "sprinkled",
+     "grounds": "prepared fuel sticks",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kāraskarasamidvarān",
+     "gloss": "excellent-kāraskara-fuel-sticks",
+     "grounds": "ritual fuel",
+     "morph": "m.acc.pl compound kāraskara+samidh+vara"
+    }
+   ],
+   "question": "What fuel sticks must be sprinkled with goat blood for the rite?",
+   "premises": [
+    "Kāraskara fuel sticks are selected.",
+    "They are excellent ones.",
+    "They are sprinkled with goat blood."
+   ],
+   "inference": "Excellent kāraskara fuel sticks sprinkled with goat blood must be used.",
+   "uncertainties": [
+    "The botanical identity of 'kāraskara' is not specified here."
+   ],
+   "plain_english": "Excellent kāraskara fuel sticks sprinkled with goat blood should be used."
+  },
+  {
+   "verse": 1068,
+   "rows": [
+    {
+     "surface": "pralayāgnisamāṃ",
+     "gloss": "equal-to-dissolution-fire",
+     "grounds": "comparison of form",
+     "morph": "f.acc.sg compound pralaya+agni+sama"
+    },
+    {
+     "surface": "ghorāṃ",
+     "gloss": "terrible",
+     "grounds": "quality of form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dvātriṃśadbhujaśobhitām",
+     "gloss": "adorned-with-thirty-two-arms",
+     "grounds": "iconographic feature",
+     "morph": "f.acc.sg compound dvātriṃśat+bhuja+śobhita"
+    }
+   ],
+   "question": "What terrible, multi-armed form equal to dissolution fire is visualized?",
+   "premises": [
+    "The form equals dissolution fire.",
+    "The form is terrible.",
+    "The form is adorned with thirty-two arms."
+   ],
+   "inference": "A terrible form equal to dissolution fire and adorned with thirty-two arms is visualized.",
+   "uncertainties": [],
+   "plain_english": "One should visualize her as equal to the fire of dissolution, terrible, and adorned with thirty-two arms."
+  },
+  {
+   "verse": 1069,
+   "rows": [
+    {
+     "surface": "mahādraṃṣṭrāṃ",
+     "gloss": "having-great-fangs",
+     "grounds": "fearsome feature",
+     "morph": "f.acc.sg compound mahā+draṃṣṭra"
+    },
+    {
+     "surface": "mahābhīmāṃ",
+     "gloss": "very-fearsome",
+     "grounds": "overall quality",
+     "morph": "f.acc.sg compound mahā+bhīma"
+    },
+    {
+     "surface": "jvalatkeśīṃ",
+     "gloss": "with-blazing-hair",
+     "grounds": "fiery appearance",
+     "morph": "f.acc.sg compound jvalat+keśa"
+    },
+    {
+     "surface": "nadanmukhīm",
+     "gloss": "with-roaring-mouth",
+     "grounds": "sound and expression",
+     "morph": "f.acc.sg compound nadat+mukha"
+    }
+   ],
+   "question": "What fearsome features of fangs, hair, and mouth characterize this form?",
+   "premises": [
+    "She has great fangs.",
+    "She is very fearsome.",
+    "She has blazing hair and a roaring mouth."
+   ],
+   "inference": "The visualized form is extremely fearsome with great fangs, blazing hair, and a roaring mouth.",
+   "uncertainties": [],
+   "plain_english": "She has great fangs, is very fearsome, has blazing hair, and a roaring mouth."
+  },
+  {
+   "verse": 1070,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "refers to method",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "method",
+     "grounds": "ritual procedure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śatrur",
+     "gloss": "enemy",
+     "grounds": "target",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jvara",
+     "gloss": "fever",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prapīḍitaḥ",
+     "gloss": "tormented",
+     "grounds": "resulting condition",
+     "morph": "m.nom.sg compound mahā+jvara+prapīḍita"
+    }
+   ],
+   "question": "What severe affliction strikes the enemy through this ritual method?",
+   "premises": [
+    "This method is applied.",
+    "The enemy is targeted.",
+    "The enemy is tormented by great fever."
+   ],
+   "inference": "By this method, the enemy becomes tormented by a great fever.",
+   "uncertainties": [],
+   "plain_english": "By this method, the enemy is tormented by a great fever."
+  },
+  {
+   "verse": 1071,
+   "rows": [
+    {
+     "surface": "urdhvamuṣṇāmbhasā",
+     "gloss": "with-upward-hot-water",
+     "grounds": "ritual condition or medium",
+     "morph": "n.ins.sg compound urdhva+uṣṇa+ambhas"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lambayitvā",
+     "gloss": "having-suspended",
+     "grounds": "prior action",
+     "morph": "(indecl.) absolutive √lamb-caus"
+    },
+    {
+     "surface": "bhujaṅgamam",
+     "gloss": "snake",
+     "grounds": "object suspended",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What preparatory act involving a snake must the practitioner perform?",
+   "premises": [
+    "The practitioner acts as ritual agent.",
+    "A snake is suspended.",
+    "Hot water is involved in the upward arrangement."
+   ],
+   "inference": "The practitioner must suspend a snake in connection with upward hot water.",
+   "uncertainties": [
+    "The exact ritual arrangement implied by 'urdhvamuṣṇāmbhasā' is unclear."
+   ],
+   "plain_english": "The practitioner, having suspended a snake, uses upward hot water."
+  },
+  {
+   "verse": 1072,
+   "rows": [
+    {
+     "surface": "sahasrapāṇicaraṇāṃ",
+     "gloss": "having-thousand-hands-and-feet",
+     "grounds": "cosmic form attribute",
+     "morph": "f.acc.sg compound sahasra+pāṇi+caraṇa"
+    },
+    {
+     "surface": "sahasrākṣiśiromukhīm",
+     "gloss": "having-thousand-eyes-heads-and-faces",
+     "grounds": "cosmic form attribute",
+     "morph": "f.acc.sg compound sahasra+akṣi+śiras+mukha"
+    }
+   ],
+   "question": "What cosmic multiplicity of limbs and faces defines the meditated form?",
+   "premises": [
+    "The form has a thousand hands and feet.",
+    "The form has a thousand eyes, heads, and faces.",
+    "These attributes describe the meditated deity."
+   ],
+   "inference": "The meditated form is cosmic, possessing thousands of hands, feet, eyes, heads, and faces.",
+   "uncertainties": [],
+   "plain_english": "One should visualize her as having a thousand hands and feet, and a thousand eyes, heads, and faces."
+  },
+  {
+   "verse": 1073,
+   "rows": [
+    {
+     "surface": "dhyāyen",
+     "gloss": "one-should-meditate",
+     "grounds": "contemplative act",
+     "morph": "3.sg.act-opt √dhyai"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "means of meditation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sarpāsye",
+     "gloss": "in-snake-mouth",
+     "grounds": "location of offering",
+     "morph": "n.loc.sg compound sarpa+āsya"
+    },
+    {
+     "surface": "tarpayed",
+     "gloss": "one-should-offer-oblations",
+     "grounds": "ritual action",
+     "morph": "3.sg.act-opt √tṛp-caus"
+    },
+    {
+     "surface": "uṣṇa",
+     "gloss": "hot",
+     "grounds": "quality of water",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "substance of oblation",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "How must oblations be offered into the snake's mouth using the root mantra?",
+   "premises": [
+    "One meditates with the root mantra.",
+    "Oblations are offered in the snake's mouth.",
+    "The oblation is made with hot water."
+   ],
+   "inference": "Meditating with the root mantra, one should offer oblations of hot water into the snake's mouth.",
+   "uncertainties": [],
+   "plain_english": "One should meditate with the root mantra and offer oblations of hot water into the snake's mouth."
+  },
+  {
+   "verse": 1074,
+   "rows": [
+    {
+     "surface": "madhyāhnārkāyutaprakhyāṃ",
+     "gloss": "shining-like-ten-thousand-midday-suns",
+     "grounds": "radiant appearance",
+     "morph": "f.acc.sg compound madhyāhna+arka+ayuta+prakhya"
+    },
+    {
+     "surface": "nadantīṃ",
+     "gloss": "roaring",
+     "grounds": "sound of form",
+     "morph": "f.acc.sg.act-pres-part √nad"
+    },
+    {
+     "surface": "narasiṃhavat",
+     "gloss": "like-man-lion",
+     "grounds": "comparison to Narasiṃha",
+     "morph": "(indecl.) compound nara+siṃha+vat"
+    }
+   ],
+   "question": "What radiant and roaring appearance likened to Narasiṃha is visualized?",
+   "premises": [
+    "She shines like ten thousand midday suns.",
+    "She is roaring.",
+    "Her manner is like Narasiṃha."
+   ],
+   "inference": "The form is visualized as dazzling like ten thousand midday suns, roaring like Narasiṃha.",
+   "uncertainties": [],
+   "plain_english": "One should visualize her shining like ten thousand midday suns, roaring like the man-lion."
+  }
+ ]
+}

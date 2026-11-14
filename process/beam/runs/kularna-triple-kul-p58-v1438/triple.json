@@ -1,0 +1,599 @@
+{
+ "song": "kul-p58",
+ "items": [
+  {
+   "verse": 1438,
+   "rows": [
+    {
+     "surface": "anādiṣṭaḥ",
+     "gloss": "uninstructed",
+     "grounds": "prefix an with ādiṣṭaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt-kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avandanapūrvakam",
+     "gloss": "without-salutation-first",
+     "grounds": "a-vandana-pūrvaka-m compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should an uninstructed disciple avoid doing?",
+   "premises": [
+    "an uninstructed disciple should not act",
+    "salutation must precede action"
+   ],
+   "inference": "Uninstructed action without prior salutation is prohibited.",
+   "uncertainties": [
+    "exact scope of anādiṣṭaḥ"
+   ],
+   "plain_english": "An uninstructed disciple should not act, nor act without first saluting."
+  },
+  {
+   "verse": 1439,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurvājñayā",
+     "gloss": "by-guru-command",
+     "grounds": "guru-ājñā instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "śiṣyau",
+     "gloss": "two-disciples",
+     "grounds": "dual nominative",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "viśvaset",
+     "gloss": "should-trust",
+     "grounds": "optative of viśvas",
+     "morph": "3.sg.opt-viśvas"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaśāsanāt",
+     "gloss": "from-another-order",
+     "grounds": "anya-śāsana ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "When may two disciples trust one another?",
+   "premises": [
+    "trust requires guru command",
+    "another's order is insufficient"
+   ],
+   "inference": "Disciples may trust each other only under guru command, not another's order.",
+   "uncertainties": [
+    "whether śiṣyau is general or specific"
+   ],
+   "plain_english": "Two disciples should trust each other only by guru command, not by another's order."
+  },
+  {
+   "verse": 1440,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "bhakti instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "gerund of praṇam",
+     "morph": "ger-praṇam"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttiṣṭhet",
+     "gloss": "should-rise",
+     "grounds": "optative of ut-sthā",
+     "morph": "3.sg.opt-utsthā"
+    },
+    {
+     "surface": "kṛtāñjalipuṭaḥ",
+     "gloss": "with-joined-palms",
+     "grounds": "kṛta-añjali-puṭaḥ compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should a disciple rise before the guru?",
+   "premises": [
+    "devotion precedes rising",
+    "joined palms accompany rising"
+   ],
+   "inference": "A disciple rises with devotion, bowing, and joined palms.",
+   "uncertainties": [
+    "addressee priye unspecified"
+   ],
+   "plain_english": "With devotion, having bowed, one should rise with joined palms, dear one."
+  },
+  {
+   "verse": 1441,
+   "rows": [
+    {
+     "surface": "ekāsane",
+     "gloss": "on-one-seat",
+     "grounds": "eka-āsana locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upaviśed",
+     "gloss": "should-sit",
+     "grounds": "optative of upa-viś",
+     "morph": "3.sg.opt-upaviś"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "guru instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tatsamaiḥ",
+     "gloss": "with-equals",
+     "grounds": "tat-sama instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who may share a seat with the guru?",
+   "premises": [
+    "one seat excludes sitting",
+    "guru and equals are excepted"
+   ],
+   "inference": "A disciple should not sit on one seat with guru or equals.",
+   "uncertainties": [
+    "whether tatsamaiḥ means peers"
+   ],
+   "plain_english": "One should not sit on one seat with the guru or his equals."
+  },
+  {
+   "verse": 1442,
+   "rows": [
+    {
+     "surface": "deśyāsanaṃ",
+     "gloss": "proper-seat",
+     "grounds": "deśya-āsana compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaniṣṭhānām",
+     "gloss": "of-juniors",
+     "grounds": "kaniṣṭha genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "itareṣāṃ",
+     "gloss": "of-others",
+     "grounds": "itara genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samāsanam",
+     "gloss": "same-seat",
+     "grounds": "sama-āsana compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are seats assigned among disciples?",
+   "premises": [
+    "juniors receive proper seats",
+    "others share same seat"
+   ],
+   "inference": "Juniors get designated seats, while others sit together.",
+   "uncertainties": [
+    "exact social ranking"
+   ],
+   "plain_english": "Juniors have their proper seats; others share the same seat."
+  },
+  {
+   "verse": 1443,
+   "rows": [
+    {
+     "surface": "daṇḍapraṇāmaṃ",
+     "gloss": "prostration",
+     "grounds": "daṇḍa-praṇāma compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund of kṛ",
+     "morph": "ger-kṛ"
+    },
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triḥ",
+     "gloss": "thrice",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "pradakṣiṇa accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of ā-car",
+     "morph": "3.sg.opt-ācar"
+    }
+   ],
+   "question": "What ritual follows prostration before the guru?",
+   "premises": [
+    "prostration is performed first",
+    "circumambulation follows thrice"
+   ],
+   "inference": "After prostration, one circumambulates once thrice.",
+   "uncertainties": [
+    "whether ekam modifies prostration or circumambulation"
+   ],
+   "plain_english": "Having prostrated, one should circumambulate thrice."
+  },
+  {
+   "verse": 1444,
+   "rows": [
+    {
+     "surface": "praguroḥ",
+     "gloss": "before-guru",
+     "grounds": "pra-guru genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "sannidhi locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svaguruṃ",
+     "gloss": "own-guru",
+     "grounds": "sva-guru accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "with-mind",
+     "grounds": "manas instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "namet",
+     "gloss": "should-bow",
+     "grounds": "optative of nam",
+     "morph": "3.sg.opt-nam"
+    }
+   ],
+   "question": "How should a disciple bow in another guru's presence?",
+   "premises": [
+    "disciple is in guru's presence",
+    "own guru is bowed to mentally"
+   ],
+   "inference": "In another guru's presence, the disciple bows to his own guru mentally.",
+   "uncertainties": [
+    "whether praguroḥ means senior guru"
+   ],
+   "plain_english": "In another guru's presence, the disciple should bow to his own guru mentally."
+  },
+  {
+   "verse": 1445,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namet",
+     "gloss": "should-bow",
+     "grounds": "optative of nam",
+     "morph": "3.sg.opt-nam"
+    },
+    {
+     "surface": "devabuddhyā",
+     "gloss": "with-god-thought",
+     "grounds": "deva-buddhi instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lauhamṛṇmayīm",
+     "gloss": "of-metal-or-clay",
+     "grounds": "lauha-mṛṇ-maya compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "When should one not bow to an image as god?",
+   "premises": [
+    "metal or clay images are excluded",
+    "god-thought bowing is prohibited"
+   ],
+   "inference": "One should not bow to metal or clay images with god-thought.",
+   "uncertainties": [
+    "whether all images or only material ones"
+   ],
+   "plain_english": "One should not bow to a metal or clay image as if it were god."
+  },
+  {
+   "verse": 1446,
+   "rows": [
+    {
+     "surface": "pūjyānām",
+     "gloss": "of-worshipful",
+     "grounds": "pūjya genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "añjaliḥ",
+     "gloss": "joined-palms",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "anya genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vākyavandanam",
+     "gloss": "verbal-salutation",
+     "grounds": "vākya-vandana compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are worshipful persons and others saluted?",
+   "premises": [
+    "worshipful persons receive joined palms",
+    "others receive verbal salutation"
+   ],
+   "inference": "Worshipful persons are saluted with joined palms; others with words.",
+   "uncertainties": [
+    "whether tadvat modifies both clauses"
+   ],
+   "plain_english": "Worshipful persons are saluted with joined palms; others with verbal salutation."
+  },
+  {
+   "verse": 1447,
+   "rows": [
+    {
+     "surface": "vidyādhikān",
+     "gloss": "more-learned",
+     "grounds": "vidyā-adhika accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "svadharmasthān",
+     "gloss": "established-in-own-duty",
+     "grounds": "sva-dharma-stha accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "should-bow",
+     "grounds": "optative of praṇam",
+     "morph": "3.sg.opt-praṇam"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-Kula-leader",
+     "grounds": "kula-nāyikā vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whom should one bow to, O Kula leader?",
+   "premises": [
+    "more learned persons are bowed to",
+    "duty-established persons are bowed to"
+   ],
+   "inference": "One should bow to those more learned and established in duty.",
+   "uncertainties": [
+    "whether kulanāyike is addressee or object"
+   ],
+   "plain_english": "One should bow to those more learned and established in their duty, O Kula leader."
+  },
+  {
+   "verse": 1448,
+   "rows": [
+    {
+     "surface": "vikarmāṇaṃ",
+     "gloss": "wrong-actor",
+     "grounds": "vi-karman accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtaghnaṃ",
+     "gloss": "ungrateful",
+     "grounds": "kṛta-ghna accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāśramiṇaṃ",
+     "gloss": "without-āśrama",
+     "grounds": "an-āśramin accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namet",
+     "gloss": "should-bow",
+     "grounds": "optative of nam",
+     "morph": "3.sg.opt-nam"
+    }
+   ],
+   "question": "Whom should one not bow to?",
+   "premises": [
+    "wrong actors are excluded",
+    "ungrateful and uninitiated are excluded"
+   ],
+   "inference": "One should not bow to wrong actors, ungrateful persons, or those without āśrama.",
+   "uncertainties": [
+    "whether no is emphatic negative"
+   ],
+   "plain_english": "One should not bow to a wrongdoer, an ungrateful person, or one without āśrama."
+  },
+  {
+   "verse": 1449,
+   "rows": [
+    {
+     "surface": "amedhyaṃ",
+     "gloss": "impure",
+     "grounds": "a-medhya nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt-bhū"
+    },
+    {
+     "surface": "annam",
+     "gloss": "food",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūkaraḥ",
+     "gloss": "pig",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "present of jan",
+     "morph": "3.sg.pres-jan"
+    },
+    {
+     "surface": "mṛtaḥ",
+     "gloss": "dead",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to impure food and the dead?",
+   "premises": [
+    "impure food becomes that",
+    "the dead becomes a pig"
+   ],
+   "inference": "Impure food becomes that substance, and the dead is reborn as a pig.",
+   "uncertainties": [
+    "exact referent of tat"
+   ],
+   "plain_english": "That food becomes impure, and the dead person is born as a pig."
+  }
+ ]
+}

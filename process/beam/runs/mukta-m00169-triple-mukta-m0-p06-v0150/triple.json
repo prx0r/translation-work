@@ -1,0 +1,28 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "śarkarā+padma+kiñjalka+padma+kesara+kalkakaiḥ",
+     "gloss": "with-sugar-lotus-filament-lotus-stamen-pastes",
+     "grounds": "compound of śarkarā, padma-kiñjalka, padma-kesara, and kalka; instrumental plural ending indicates means or accompaniment",
+     "morph": "compound; m.inst.pl"
+    }
+   ],
+   "question": "Which ingredients constitute the pastes employed in this preparation?",
+   "premises": [
+    "The compound includes śarkarā as an ingredient.",
+    "The compound includes padma-kiñjalka as an ingredient.",
+    "The compound includes padma-kesara as an ingredient.",
+    "The final member kalkakaiḥ denotes pastes in instrumental plural."
+   ],
+   "inference": "The preparation employs pastes made from sugar, lotus filaments, and lotus stamens.",
+   "uncertainties": [
+    "The exact preparation method of the pastes is not specified in this token."
+   ],
+   "plain_english": "With pastes made of sugar, lotus filaments, and lotus stamens."
+  }
+ ]
+}

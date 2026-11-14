@@ -1,0 +1,45 @@
+{
+ "song": "kul-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "etadāmodakaṃ",
+     "gloss": "this-amodaka",
+     "grounds": "fused demonstrative with amodaka; accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "neuter noun in nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadevapriyaṃ",
+     "gloss": "all-gods-dear",
+     "grounds": "compound of sarva, deva, and priya; nominative singular neuter",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular feminine of priyā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What substance is declared all-gods-dear and beloved?",
+   "premises": [
+    "This amodaka is a substance.",
+    "It is dear to all gods.",
+    "It is addressed as beloved."
+   ],
+   "inference": "The amodaka substance is praised as beloved by all gods.",
+   "uncertainties": [
+    "The fused form etadāmodakaṃ is analyzed without splitting the row."
+   ],
+   "plain_english": "This amodaka substance, dear to all gods, O beloved."
+  }
+ ]
+}

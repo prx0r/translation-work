@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "pañcāṅgulāntarālāni",
+     "gloss": "five-finger-intervals",
+     "grounds": "compound pañca-aṅgula-antarāla in plural neuter nominative/accusative",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative feminine singular of deveśī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "middle voice present third singular of root jan",
+     "morph": "3.sg.mid-pres+jan"
+    }
+   ],
+   "question": "What arises after five-finger intervals in the purified stable place?",
+   "premises": [
+    "five-finger intervals mark the spacing",
+    "purified stable place is prepared",
+    "arising follows the spacing"
+   ],
+   "inference": "the ritual element arises after five-finger intervals",
+   "uncertainties": [
+    "exact referent of the arising is not specified in this verse"
+   ],
+   "plain_english": "Then, O goddess, five-finger intervals arise."
+  }
+ ]
+}

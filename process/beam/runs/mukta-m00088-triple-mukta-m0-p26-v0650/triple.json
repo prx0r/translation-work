@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun feminine plural nominative referring to the yoginis",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rahasyayoginyaḥ",
+     "gloss": "secret-yoginis",
+     "grounds": "compound of rahasya and yoginī, feminine plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prathamāvaraṇe",
+     "gloss": "first-enclosure",
+     "grounds": "locative singular of prathama-āvaraṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "past participle of sthā, feminine plural nominative",
+     "morph": "f.nom.pl.ppp"
+    }
+   ],
+   "question": "Which secret yoginis are situated in the first enclosure?",
+   "premises": [
+    "Secret yoginis are named.",
+    "They are situated in first enclosure.",
+    "Verse identifies their location."
+   ],
+   "inference": "The secret yoginis occupy the first enclosure.",
+   "uncertainties": [
+    "No verse-specific doctrinal elaboration beyond location."
+   ],
+   "plain_english": "These secret yoginis are situated in the first enclosure."
+  }
+ ]
+}

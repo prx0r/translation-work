@@ -1,0 +1,973 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "kavasana",
+     "gloss": "by-what-means",
+     "grounds": "interrogative instrumental",
+     "morph": "interrog."
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śaṃkara",
+     "gloss": "shankara",
+     "grounds": "name of Shiva",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vuje",
+     "gloss": "worship",
+     "grounds": "act of worship",
+     "morph": "1.sg.pres"
+    }
+   ],
+   "question": "By what mantra should one worship Shankara?",
+   "premises": [
+    "Worship of Shankara is being considered",
+    "A mantra is sought as the means of worship"
+   ],
+   "inference": "The appropriate mantra for worshipping Shankara must be identified",
+   "uncertainties": [],
+   "plain_english": "By what mantra, O Shankara, should I worship you?"
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "maṃtraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "which",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "command to speak",
+     "morph": "2.sg.imp-act"
+    },
+    {
+     "surface": "prayojyaḥ",
+     "gloss": "to-be-employed",
+     "grounds": "fit for use",
+     "morph": "m.nom.sg.gerundive"
+    }
+   ],
+   "question": "Which mantra is to be employed in that worship?",
+   "premises": [
+    "A mantra is required for worship",
+    "The specific mantra to be used is not yet stated"
+   ],
+   "inference": "The speaker asks to be told which mantra should be employed",
+   "uncertainties": [],
+   "plain_english": "And tell me, which mantra is to be employed there?"
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "chvapi",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃtra",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṃkara",
+     "gloss": "shankara",
+     "grounds": "name of Shiva",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vuje",
+     "gloss": "worship",
+     "grounds": "act of worship",
+     "morph": "1.sg.pres"
+    }
+   ],
+   "question": "What mantra is used to worship Shankara in this teaching?",
+   "premises": [
+    "The question of the mantra for worship continues",
+    "Shankara is addressed directly"
+   ],
+   "inference": "The speaker seeks the mantra for worshipping Shankara",
+   "uncertainties": [],
+   "plain_english": "With this mantra, O Shankara, I worship you."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "mauna+ākhya",
+     "gloss": "silence-named",
+     "grounds": "compound: silence + called",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṃtreṇa",
+     "gloss": "by-mantra",
+     "grounds": "means of worship",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samarcaye",
+     "gloss": "i-worship",
+     "grounds": "act of honoring",
+     "morph": "1.sg.pres-mid"
+    },
+    {
+     "surface": "īśam",
+     "gloss": "lord",
+     "grounds": "Shiva as lord",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Can the mantra called silence serve to worship the Lord?",
+   "premises": [
+    "A mantra named silence is identified",
+    "The Lord is worshipped through this mantra"
+   ],
+   "inference": "Silence itself functions as the mantra for worshipping the Lord",
+   "uncertainties": [],
+   "plain_english": "I worship the Lord with the mantra called silence."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "ucchvāsa+mātreṇa",
+     "gloss": "exhalation-mere",
+     "grounds": "compound: exhalation + only",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhṛtiṃ",
+     "gloss": "steadfastness",
+     "grounds": "firmness or resolve",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajāmi",
+     "gloss": "i-practice",
+     "grounds": "cultivate or hold",
+     "morph": "1.sg.pres-act"
+    }
+   ],
+   "question": "How can mere exhalation become the practice of steadfastness?",
+   "premises": [
+    "Steadfastness is practiced",
+    "The means is nothing more than exhalation"
+   ],
+   "inference": "Simple exhalation suffices as the practice of steadfastness",
+   "uncertainties": [],
+   "plain_english": "By mere exhalation, I practice steadfastness."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "caya",
+     "gloss": "to-you",
+     "grounds": "addressee",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "chukha",
+     "gloss": "is",
+     "grounds": "existential",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "soruya",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ta",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lāgijiya",
+     "gloss": "to-be-done",
+     "grounds": "required action",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "kyāha",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "interrog."
+    }
+   ],
+   "question": "What remains to be done for you when all already belongs to you?",
+   "premises": [
+    "Everything already belongs to the addressee",
+    "The need for further action is questioned"
+   ],
+   "inference": "No additional offering or action is necessary",
+   "uncertainties": [],
+   "plain_english": "All is yours; what is there to be done for you?"
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "tvad+pūjā+arthaṃ",
+     "gloss": "your-worship-for-sake",
+     "grounds": "compound: your + worship + purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "anything",
+     "grounds": "indefinite object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhe",
+     "gloss": "i-obtain",
+     "grounds": "acquire or find",
+     "morph": "1.sg.pres-mid"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "What can be obtained for the sake of worshipping you?",
+   "premises": [
+    "Worship of the addressee is intended",
+    "The speaker finds nothing to obtain for that purpose"
+   ],
+   "inference": "Nothing external can be acquired as a means for worship",
+   "uncertainties": [],
+   "plain_english": "For the sake of your worship, I obtain nothing at all."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "tamiya",
+     "gloss": "by-that",
+     "grounds": "instrumental reference",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "soruya",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyanduna",
+     "gloss": "to-be-known",
+     "grounds": "object of knowledge",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "svāsa",
+     "gloss": "breath",
+     "grounds": "vital breath",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does breath become the means by which all is known?",
+   "premises": [
+    "All is to be known",
+    "Breath is identified as the means"
+   ],
+   "inference": "Breath serves as the medium through which all is known",
+   "uncertainties": [],
+   "plain_english": "By that breath, all is to be known."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "act of renouncing",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhasma+vat",
+     "gloss": "ash-like",
+     "grounds": "compound: ash + like",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāva+jātam",
+     "gloss": "entity-mass",
+     "grounds": "compound: being + collection",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does abandoning the entire mass of entities as ash accomplish?",
+   "premises": [
+    "The whole mass of entities is abandoned",
+    "It is treated as mere ash"
+   ],
+   "inference": "Renouncing all entities as insubstantial leads beyond attachment",
+   "uncertainties": [],
+   "plain_english": "Having abandoned the entire mass of entities as if it were ash."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "mya",
+     "gloss": "to-me",
+     "grounds": "recipient",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "cya+ta",
+     "gloss": "to-you-and",
+     "grounds": "compound: to-you + and",
+     "morph": "compound"
+    },
+    {
+     "surface": "pānasa",
+     "gloss": "to-self",
+     "grounds": "one's own self",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dituma",
+     "gloss": "given",
+     "grounds": "bestowed",
+     "morph": "past-participle"
+    },
+    {
+     "surface": "chvaha",
+     "gloss": "is",
+     "grounds": "existential",
+     "morph": "3.sg.pres"
+    }
+   ],
+   "question": "What is given when self is offered to you and to me?",
+   "premises": [
+    "Something is given to the self",
+    "The giving involves both you and me"
+   ],
+   "inference": "The self is recognized as given in relation to both self and other",
+   "uncertainties": [
+    "exact syntactic relation of cya+ta in this vernacular form"
+   ],
+   "plain_english": "To me and to you, it is given to the self."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "act of knowing",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "present moment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrāntim",
+     "gloss": "repose",
+     "grounds": "rest or cessation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upāgatā",
+     "gloss": "approached",
+     "grounds": "arrived at",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "tvām",
+     "gloss": "you",
+     "grounds": "addressee",
+     "morph": "pron.acc.sg"
+    }
+   ],
+   "question": "How does knowing you lead to attaining repose today?",
+   "premises": [
+    "Knowledge has arisen",
+    "Repose is attained in relation to you"
+   ],
+   "inference": "Knowing you brings the speaker to repose",
+   "uncertainties": [],
+   "plain_english": "Having known you today, I have come to repose in you."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "saya",
+     "gloss": "always",
+     "grounds": "continuous time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dapije",
+     "gloss": "to-be-said",
+     "grounds": "worthy of utterance",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "sahajā",
+     "gloss": "innate",
+     "grounds": "born-with nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriya",
+     "gloss": "practice",
+     "grounds": "action or discipline",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is innate practice always worthy of being spoken?",
+   "premises": [
+    "Practice is innate",
+    "It is always to be affirmed or spoken"
+   ],
+   "inference": "Innate practice is continuously valid and expressible",
+   "uncertainties": [],
+   "plain_english": "Innate practice is always to be spoken of."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "smṛtyā",
+     "gloss": "by-remembrance",
+     "grounds": "act of remembering",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "arcyate",
+     "gloss": "is-worshipped",
+     "grounds": "honored or revered",
+     "morph": "3.sg.pres-pass"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "viśuddhaḥ",
+     "gloss": "pure",
+     "grounds": "cleansed or clear",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "inner self",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does remembrance worship the pure self?",
+   "premises": [
+    "Worship occurs through remembrance",
+    "The self is pure"
+   ],
+   "inference": "Remembrance itself constitutes worship of the pure self",
+   "uncertainties": [],
+   "plain_english": "By remembrance, through which the pure self is worshipped."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "niśa",
+     "gloss": "near",
+     "grounds": "proximity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chuya",
+     "gloss": "is",
+     "grounds": "existential",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "ta",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parjānatana",
+     "gloss": "by-recognition",
+     "grounds": "act of recognizing",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How does recognition reveal what is already near?",
+   "premises": [
+    "What is sought is near",
+    "Recognition makes it known"
+   ],
+   "inference": "Recognition discloses the nearness of what already is",
+   "uncertainties": [],
+   "plain_english": "It is near, and known by recognition."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "completed action",
+     "morph": "n.nom.sg.past-participle"
+    },
+    {
+     "surface": "pradeśa+antara",
+     "gloss": "place-other",
+     "grounds": "compound: place + another",
+     "morph": "compound"
+    },
+    {
+     "surface": "mārgaṇena",
+     "gloss": "by-searching",
+     "grounds": "act of seeking",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What is accomplished by searching in another place?",
+   "premises": [
+    "Searching is directed to another place",
+    "The action is already completed or futile"
+   ],
+   "inference": "Searching elsewhere is unnecessary or already done in vain",
+   "uncertainties": [],
+   "plain_english": "What is done by searching in another place?"
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "jyana",
+     "gloss": "to-know",
+     "grounds": "act of knowing",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jyana",
+     "gloss": "to-know",
+     "grounds": "act of knowing",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "ta",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatuya",
+     "gloss": "there-indeed",
+     "grounds": "emphatic location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pyana",
+     "gloss": "to-fall",
+     "grounds": "to arrive or settle",
+     "morph": "infinitive"
+    }
+   ],
+   "question": "What happens when knowing and not-knowing both fall away there?",
+   "premises": [
+    "Knowing and not-knowing are both invoked",
+    "Both come to rest in that place"
+   ],
+   "inference": "Beyond knowing and not-knowing, one settles in that state",
+   "uncertainties": [
+    "precise nuance of pyana in this context"
+   ],
+   "plain_english": "To know, not to know, and there indeed to fall."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "yāvat+pramāṇaṃ",
+     "gloss": "as-much-measure",
+     "grounds": "compound: as far as + extent",
+     "morph": "compound"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehi+jātam",
+     "gloss": "embodied-mass",
+     "grounds": "compound: embodied + collection",
+     "morph": "compound"
+    }
+   ],
+   "question": "To what extent does the mass of embodied beings share the same condition?",
+   "premises": [
+    "Embodied beings are considered as a whole",
+    "Their extent or measure is indicated"
+   ],
+   "inference": "All embodied beings fall within the same measured condition",
+   "uncertainties": [],
+   "plain_english": "Indeed, to whatever extent there is the mass of embodied beings."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "sva+antar",
+     "gloss": "own-within",
+     "grounds": "compound: own + inside",
+     "morph": "compound"
+    },
+    {
+     "surface": "niviṣṭā",
+     "gloss": "entered",
+     "grounds": "settled within",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad+vimarśe",
+     "gloss": "that-contemplation",
+     "grounds": "compound: that + reflective awareness",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does contemplative awareness enter within one's own self?",
+   "premises": [
+    "Awareness turns inward",
+    "It is established in contemplation of that"
+   ],
+   "inference": "Contemplative awareness abides within one's own self",
+   "uncertainties": [],
+   "plain_english": "Indeed, entered within one's own self, in contemplation of that."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "pyali",
+     "gloss": "fallen",
+     "grounds": "dropped or settled",
+     "morph": "past-participle"
+    },
+    {
+     "surface": "dali",
+     "gloss": "torn",
+     "grounds": "split or broken",
+     "morph": "past-participle"
+    },
+    {
+     "surface": "trāvimasa",
+     "gloss": "abandoned",
+     "grounds": "left behind",
+     "morph": "1.pl.past"
+    },
+    {
+     "surface": "tatiya",
+     "gloss": "there-indeed",
+     "grounds": "emphatic location",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is released when one falls, breaks, and abandons there?",
+   "premises": [
+    "Falling and breaking occur",
+    "Abandonment takes place in that state"
+   ],
+   "inference": "Letting go in that state involves the dissolution of former supports",
+   "uncertainties": [
+    "exact verbal forms and subjects in vernacular"
+   ],
+   "plain_english": "Fallen, torn, abandoned there."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "lalleti",
+     "gloss": "lalla-thus",
+     "grounds": "name with quotative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "among people",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prathitā",
+     "gloss": "renowned",
+     "grounds": "widely known",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "How did the speaker become renowned in the world as Lalla?",
+   "premises": [
+    "The speaker is known as Lalla",
+    "This renown occurred in the world at that time"
+   ],
+   "inference": "The speaker attained public recognition under the name Lalla",
+   "uncertainties": [],
+   "plain_english": "Then I became renowned in the world as Lalla."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "existing or true",
+     "morph": "f.loc.sg.pres-participle"
+    },
+    {
+     "surface": "nya/gi",
+     "gloss": "taken",
+     "grounds": "grasped or received",
+     "morph": "past-participle"
+    },
+    {
+     "surface": "sarasa",
+     "gloss": "essence",
+     "grounds": "vital core",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūnya+ākāra",
+     "gloss": "void-form",
+     "grounds": "compound: void + form",
+     "morph": "compound"
+    }
+   ],
+   "question": "How can essence be grasped as having the form of void?",
+   "premises": [
+    "Essence is taken or realized",
+    "Its form is described as void"
+   ],
+   "inference": "The realized essence is apprehended as void in form",
+   "uncertainties": [
+    "exact parsing of nya/gi"
+   ],
+   "plain_english": "In being, the essence is taken as void in form."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "smarāmi",
+     "gloss": "i-remember",
+     "grounds": "act of recollection",
+     "morph": "1.sg.pres-act"
+    },
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "void",
+     "grounds": "emptiness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta+vāram",
+     "gloss": "seven-times",
+     "grounds": "compound: seven + occasions",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the significance of remembering the void seven times?",
+   "premises": [
+    "The void is remembered",
+    "The remembrance occurs seven times"
+   ],
+   "inference": "Repeated remembrance of the void marks a sustained contemplative act",
+   "uncertainties": [],
+   "plain_english": "Indeed, I remember the void seven times."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "shiva",
+     "grounds": "ultimate reality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chuya",
+     "gloss": "is",
+     "grounds": "existential",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "krūṭhu-tāya",
+     "gloss": "difficult",
+     "grounds": "hard to attain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cena",
+     "gloss": "your",
+     "grounds": "possessive",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "upadeśa",
+     "gloss": "teaching",
+     "grounds": "instruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the teaching about Shiva said to be difficult?",
+   "premises": [
+    "The teaching concerns Shiva",
+    "The teaching is described as difficult"
+   ],
+   "inference": "Understanding or attaining Shiva through this teaching is difficult",
+   "uncertainties": [],
+   "plain_english": "Shiva is difficult; such is your teaching."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "kaṣṭena",
+     "gloss": "with-difficulty",
+     "grounds": "through hardship",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "labhyaṃ",
+     "gloss": "attainable",
+     "grounds": "to be obtained",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp-act"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "from-guru",
+     "grounds": "source of teaching",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "shiva",
+     "grounds": "ultimate reality",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why must Shiva be heard from the guru if attained with difficulty?",
+   "premises": [
+    "Shiva is attainable with difficulty",
+    "The teaching is to be heard from the guru"
+   ],
+   "inference": "Because Shiva is hard to attain, one must receive that teaching from the guru",
+   "uncertainties": [],
+   "plain_english": "Hear: Shiva is attained with difficulty, from the guru."
+  }
+ ]
+}

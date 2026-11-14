@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "dhakāraṃ",
+     "gloss": "syllable-dha",
+     "grounds": "accusative object denoting the letter dha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kuṇḍalī",
+     "gloss": "kuṇḍalī",
+     "grounds": "appositional identification with the syllable dha",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣarūpiṇī",
+     "gloss": "liberation-formed",
+     "grounds": "compound: mokṣa+rūpiṇī; describes kuṇḍalī as having the form of liberation",
+     "morph": "f.nom.sg (compound: mokṣa+rukpiṇī)"
+    }
+   ],
+   "question": "What liberative identity does the syllable dha embody as kuṇḍalī?",
+   "premises": [
+    "The syllable dha is addressed as the object of contemplation.",
+    "The syllable dha is identified as kuṇḍalī.",
+    "This kuṇḍalī is characterized as having the form of liberation."
+   ],
+   "inference": "Therefore, the syllable dha, as kuṇḍalī, embodies the very form of liberation.",
+   "uncertainties": [
+    "The exact compound analysis of mokṣarūpiṇī as bahuvrīhī or karmadhāraya is context-dependent."
+   ],
+   "plain_english": "O supreme goddess, the syllable dha is kuṇḍalī, whose very form is liberation."
+  }
+ ]
+}

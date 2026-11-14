@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "kukkuṭaḥ",
+     "gloss": "rooster",
+     "grounds": "name of the method",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or designative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmānyam",
+     "gloss": "general",
+     "grounds": "designation of common applicability",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrva+pūrvataḥ",
+     "gloss": "in-due-sequence",
+     "grounds": "compound expressing successive order from what precedes",
+     "morph": "compound"
+    }
+   ],
+   "question": "What general designation and sequential position are assigned to the kukkuṭa method?",
+   "premises": [
+    "The term kukkuṭa is introduced as a designation.",
+    "This designation is characterized as general.",
+    "Its placement follows the established preceding sequence."
+   ],
+   "inference": "Therefore kukkuṭa is identified as the general method in due sequence.",
+   "uncertainties": [
+    "The precise technical sense of kukkuṭa in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "And 'kukkuṭa' is the general designation, following in the established sequence."
+  }
+ ]
+}

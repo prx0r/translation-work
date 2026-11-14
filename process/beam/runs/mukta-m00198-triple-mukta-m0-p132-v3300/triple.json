@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "locative of vāma, indicating the left side or hand in context",
+     "morph": "adj.loc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle continuing the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhipiṃchaṃ",
+     "gloss": "peacock-feather",
+     "grounds": "compound of śikhi (peacock) and piṃcha (feather)",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing prescription or requirement",
+     "morph": "gerundive.nom.sg.nt √kṛ"
+    },
+    {
+     "surface": "śītalaṃ",
+     "gloss": "cool",
+     "grounds": "adjective qualifying the feather",
+     "morph": "adj.acc.sg.nt"
+    },
+    {
+     "surface": "dhṛtam",
+     "gloss": "held",
+     "grounds": "past participle indicating the state of being held",
+     "morph": "ppp.acc.sg.nt √dhṛ"
+    }
+   ],
+   "question": "What specific attribute must be held in the left hand in this iconographic prescription?",
+   "premises": [
+    "The left side is the locus specified for this attribute.",
+    "The object prescribed is a peacock feather.",
+    "The peacock feather is characterized as cool and held."
+   ],
+   "inference": "Therefore, a cool peacock feather must be held in the left hand.",
+   "uncertainties": [
+    "Whether vāme refers specifically to the left hand or more generally to the left side is inferred from the preceding context."
+   ],
+   "plain_english": "And in the left hand, a cool peacock feather should be held."
+  }
+ ]
+}

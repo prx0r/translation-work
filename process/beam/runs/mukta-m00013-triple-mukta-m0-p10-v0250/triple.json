@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "vipra+ārādhana+mātreṇa",
+     "gloss": "by-brahmin-worship-mere",
+     "grounds": "compound: vipra+ārādhana (dependent determinative) + mātra, expressing instrument of mere honoring of a brahmin",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "vyaṅgaṃ",
+     "gloss": "deficient",
+     "grounds": "describes a rite or observance lacking required parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāṅgaṃ",
+     "gloss": "complete-with-parts",
+     "grounds": "describes a rite or observance possessing all required parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the resulting transformation",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts the certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can mere worship of a brahmin render a deficient observance complete?",
+   "premises": [
+    "Mere worship of a brahmin can be performed.",
+    "An observance may be deficient in its required parts.",
+    "Such worship has the capacity to supply completeness."
+   ],
+   "inference": "Therefore, by mere worship of a brahmin, a deficient observance certainly becomes complete.",
+   "uncertainties": [
+    "The specific ritual context of the deficient observance is supplied by the preceding verses."
+   ],
+   "plain_english": "By merely honoring a brahmin, what is deficient certainly becomes complete."
+  }
+ ]
+}

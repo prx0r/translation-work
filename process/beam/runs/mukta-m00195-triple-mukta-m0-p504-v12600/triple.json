@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p504",
+ "items": [
+  {
+   "verse": 12600,
+   "rows": [
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient of the gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "gāṃ",
+     "gloss": "cow",
+     "grounds": "object given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two gifts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahiṣīṃ",
+     "gloss": "she-buffalo",
+     "grounds": "object given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the giver",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mṛtyubhayaṃ",
+     "gloss": "death-fear",
+     "grounds": "mṛtyu+bhayam compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "whence",
+     "grounds": "rhetorical question denying possibility",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What source of fear of death remains for one who gives a cow and she-buffalo to the guru?",
+   "premises": [
+    "A cow and a she-buffalo are given to the guru.",
+    "This gift is offered to the guru.",
+    "Such an offering removes the giver's fear of death."
+   ],
+   "inference": "Therefore, no fear of death remains for that giver.",
+   "uncertainties": [
+    "The subject performing the giving is implied rather than explicitly stated."
+   ],
+   "plain_english": "To the guru he gives a cow and a she-buffalo; whence then could he have fear of death?"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "veda+āhutīḥ",
+     "gloss": "veda-oblations",
+     "grounds": "compound of veda and āhuti; object of dadyāt",
+     "morph": "veda+āhuti.acc.pl.f"
+    },
+    {
+     "surface": "catasraḥ",
+     "gloss": "four",
+     "grounds": "numeral qualifying āhutīḥ",
+     "morph": "catur.acc.pl.f"
+    },
+    {
+     "surface": "āhutīḥ",
+     "gloss": "oblations",
+     "grounds": "repeated noun in apposition with veda+āhutīḥ",
+     "morph": "āhuti.acc.pl.f"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescriptive optative expressing ritual injunction",
+     "morph": "3.sg.act.opt√dā"
+    }
+   ],
+   "question": "What specific number of Vedic oblations must the officiant offer in this ritual?",
+   "premises": [
+    "The ritual injunction prescribes the giving of oblations.",
+    "The oblations in question are designated as Vedic.",
+    "The prescribed quantity of these oblations is four."
+   ],
+   "inference": "Therefore, the officiant must offer four Vedic oblations.",
+   "uncertainties": [
+    "The precise relation of these four Vedic oblations to the five oblations mentioned in the preceding context is not explicitly stated in this verse."
+   ],
+   "plain_english": "One should give four Vedic oblations."
+  }
+ ]
+}

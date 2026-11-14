@@ -1,0 +1,1061 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1801,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "measure of one part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-pavilion",
+     "grounds": "architectural element at corner",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-part",
+     "grounds": "measure of three parts (guṇa=3)",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "koṣṭhadīrghakam",
+     "gloss": "cell-length",
+     "grounds": "length of the cell",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportions are prescribed for the corner pavilion and the cell length?",
+   "premises": [
+    "The corner pavilion should measure one part.",
+    "The cell length should measure three parts."
+   ],
+   "inference": "The corner pavilion is set at one part while the cell length is set at three parts.",
+   "uncertainties": [],
+   "plain_english": "The corner pavilion should be one part, and the length of the cell should be three parts."
+  },
+  {
+   "verse": 1802,
+   "rows": [
+    {
+     "surface": "vistāraṃ",
+     "gloss": "breadth",
+     "grounds": "width measurement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saptabhāgaṃ",
+     "gloss": "seven-parts",
+     "grounds": "measure of seven parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "navabhāgaṃ",
+     "gloss": "nine-parts",
+     "grounds": "measure of nine parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadāyatam",
+     "gloss": "its-length",
+     "grounds": "length of that element",
+     "morph": "n.nom.sg (tat+āyata, compound)"
+    }
+   ],
+   "question": "What breadth and length proportions are specified for that element?",
+   "premises": [
+    "The breadth should be seven parts.",
+    "Its length should be nine parts."
+   ],
+   "inference": "The element is proportioned with a breadth of seven parts and a length of nine parts.",
+   "uncertainties": [
+    "The referent of 'that' is implied from the preceding context."
+   ],
+   "plain_english": "Its breadth should be seven parts, and its length should be nine parts."
+  },
+  {
+   "verse": 1803,
+   "rows": [
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-pavilion",
+     "grounds": "architectural element at corner",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāreṃśaṃ",
+     "gloss": "breadth-part",
+     "grounds": "one part in breadth (tāra)",
+     "morph": "n.nom.sg (tāra+aṃśa, compound)"
+    },
+    {
+     "surface": "śālādīrghaṃ",
+     "gloss": "hall-length",
+     "grounds": "length of the hall",
+     "morph": "n.nom.sg (śālā+dīrgha, compound)"
+    },
+    {
+     "surface": "guṇāṃśakam",
+     "gloss": "three-part",
+     "grounds": "measure of three parts",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What breadth and hall-length proportions are assigned to the corner pavilion?",
+   "premises": [
+    "The corner pavilion is one part in breadth.",
+    "The hall length is three parts."
+   ],
+   "inference": "The corner pavilion measures one part in breadth and the hall length measures three parts.",
+   "uncertainties": [],
+   "plain_english": "The corner pavilion should be one part in breadth, and the hall length should be three parts."
+  },
+  {
+   "verse": 1804,
+   "rows": [
+    {
+     "surface": "śālādīrghaṃ",
+     "gloss": "hall-length",
+     "grounds": "length of the hall",
+     "morph": "n.acc.sg (śālā+dīrgha, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "measure of five parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āyāmaṃ",
+     "gloss": "length",
+     "grounds": "longitudinal extent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-determine",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kḷp (pra-)"
+    }
+   ],
+   "question": "How many parts should be assigned to the hall length in this determination?",
+   "premises": [
+    "The hall length is under consideration.",
+    "One should determine its length as five parts."
+   ],
+   "inference": "The prescribed length for the hall is five parts.",
+   "uncertainties": [],
+   "plain_english": "One should determine the hall length as five parts."
+  },
+  {
+   "verse": 1805,
+   "rows": [
+    {
+     "surface": "kūṭāntarasamāyāmaṃ",
+     "gloss": "equal-length-between-pavilions",
+     "grounds": "length equal to the interval between pavilions",
+     "morph": "n.nom.sg (kūṭa+antara+sama+āyāma, compound)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hārānvitaṃ",
+     "gloss": "with-garland",
+     "grounds": "provided with a hāra",
+     "morph": "n.nom.sg (hāra+anvita, compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "How should the remaining portion between pavilions be configured?",
+   "premises": [
+    "The remainder has a length equal to the interval between pavilions.",
+    "The remainder should be provided with a garland."
+   ],
+   "inference": "The remaining interval between pavilions should be equal in length and furnished with a garland.",
+   "uncertainties": [],
+   "plain_english": "The remainder, equal in length to the space between the pavilions, should be provided with a garland."
+  },
+  {
+   "verse": 1806,
+   "rows": [
+    {
+     "surface": "dvitalaṃ",
+     "gloss": "two-storied",
+     "grounds": "structure with two stories",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyevam",
+     "gloss": "thus-indeed",
+     "grounds": "emphatic conclusion",
+     "morph": "(indecl., hi+evam)"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "stated or explained",
+     "morph": "n.nom.sg ppp √khyā (ā-)"
+    },
+    {
+     "surface": "tritalaṃ",
+     "gloss": "three-storied",
+     "grounds": "structure with three stories",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvadhunā",
+     "gloss": "but-now",
+     "grounds": "transition to next topic",
+     "morph": "(indecl., tu+adhunā)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "present passive statement",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What transition marks the shift from the two-storied to the three-storied design?",
+   "premises": [
+    "The two-storied design has thus been declared.",
+    "The three-storied design is now being stated."
+   ],
+   "inference": "The exposition concludes the two-storied design and proceeds to the three-storied design.",
+   "uncertainties": [],
+   "plain_english": "Thus the two-storied structure has been described; now the three-storied one is being explained."
+  },
+  {
+   "verse": 1807,
+   "rows": [
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "sanctum",
+     "grounds": "inner shrine chamber",
+     "morph": "n.nom.sg (garbha+geha, compound)"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-part",
+     "grounds": "measure of three parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "by-one-part",
+     "grounds": "measure of one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "gṛhapiṇḍikā",
+     "gloss": "shrine-plinth",
+     "grounds": "base or plinth of the shrine",
+     "morph": "f.nom.sg (gṛha+piṇḍikā, compound)"
+    }
+   ],
+   "question": "What proportions are prescribed for the sanctum and the shrine plinth?",
+   "premises": [
+    "The sanctum should be three parts.",
+    "The shrine plinth should be one part."
+   ],
+   "inference": "The sanctum is set at three parts and the shrine plinth at one part.",
+   "uncertainties": [],
+   "plain_english": "The sanctum should be three parts, and the shrine plinth should be one part."
+  },
+  {
+   "verse": 1808,
+   "rows": [
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-pavilion",
+     "grounds": "architectural element at corner",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāṃśena",
+     "gloss": "by-one-part",
+     "grounds": "measure of one part (śiva=1)",
+     "morph": "m.inst.sg (śiva+aṃśa, compound)"
+    },
+    {
+     "surface": "śālādīrghaṃ",
+     "gloss": "hall-length",
+     "grounds": "length of the hall",
+     "morph": "n.nom.sg (śālā+dīrgha, compound)"
+    },
+    {
+     "surface": "guṇāṃśakam",
+     "gloss": "three-part",
+     "grounds": "measure of three parts",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures are assigned to the corner pavilion and the hall length here?",
+   "premises": [
+    "The corner pavilion is one part.",
+    "The hall length is three parts."
+   ],
+   "inference": "The corner pavilion measures one part and the hall length measures three parts.",
+   "uncertainties": [],
+   "plain_english": "The corner pavilion should be one part, and the hall length should be three parts."
+  },
+  {
+   "verse": 1809,
+   "rows": [
+    {
+     "surface": "kalpyevamādibhūmaṃ",
+     "gloss": "determine-thus-first-story",
+     "grounds": "the first story should be determined thus",
+     "morph": "n.acc.sg (kalpya+evam+ādi+bhūma, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitalaṃ",
+     "gloss": "two-storied",
+     "grounds": "structure with two stories",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavadviduḥ",
+     "gloss": "know-as-before",
+     "grounds": "they know it as before",
+     "morph": "3.pl.perf.act √vid (pūrvavat+viduḥ)"
+    }
+   ],
+   "question": "How should the first story of the two-storied structure be understood?",
+   "premises": [
+    "The first story should be determined in this manner.",
+    "The two-storied structure is known as before."
+   ],
+   "inference": "The first story is determined as stated, and the two-storied structure follows the previous pattern.",
+   "uncertainties": [],
+   "plain_english": "One should determine the first story thus, and the two-storied structure is understood as before."
+  },
+  {
+   "verse": 1810,
+   "rows": [
+    {
+     "surface": "dvāraśobhaṃ",
+     "gloss": "door-ornament",
+     "grounds": "ornamental door element",
+     "morph": "n.acc.sg (dvāra+śobhā, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "breadth",
+     "grounds": "width measurement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rudrāṃśaṃ",
+     "gloss": "eleven-parts",
+     "grounds": "measure of eleven parts (rudra=11)",
+     "morph": "m.acc.sg (rudra+aṃśa, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadāyatam",
+     "gloss": "its-length",
+     "grounds": "length of that element",
+     "morph": "n.acc.sg (tat+āyata, compound)"
+    }
+   ],
+   "question": "What breadth and length are prescribed for the door ornament?",
+   "premises": [
+    "The door ornament has a breadth of eleven parts.",
+    "Its length corresponds to that measure."
+   ],
+   "inference": "The door ornament is specified with a breadth of eleven parts and a corresponding length.",
+   "uncertainties": [
+    "The exact referent of 'its length' depends on the preceding proportional scheme."
+   ],
+   "plain_english": "The door ornament should have a breadth of eleven parts and a corresponding length."
+  },
+  {
+   "verse": 1811,
+   "rows": [
+    {
+     "surface": "alindaṃ",
+     "gloss": "porch",
+     "grounds": "verandah or porch",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "same measure as that",
+     "morph": "n.nom.sg (tat+sama, compound)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized",
+     "morph": "n.nom.sg ppp √khyā"
+    },
+    {
+     "surface": "hāraṃ",
+     "gloss": "garland",
+     "grounds": "architectural garland element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-one-part",
+     "grounds": "measure of one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-determine",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "What measures are prescribed for the porch and the garland element?",
+   "premises": [
+    "The porch is known to be equal to that measure.",
+    "The garland should be determined as one part."
+   ],
+   "inference": "The porch matches the prior measure and the garland is set at one part.",
+   "uncertainties": [],
+   "plain_english": "The porch is known to be equal to that, and the garland should be determined as one part."
+  },
+  {
+   "verse": 1812,
+   "rows": [
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "with respect to length",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paṃcabhāgena",
+     "gloss": "by-five-parts",
+     "grounds": "measure of five parts",
+     "morph": "m.inst.sg (pañcan+bhāga, compound)"
+    },
+    {
+     "surface": "koṣṭhadīrghaṃ",
+     "gloss": "cell-length",
+     "grounds": "length of the cell",
+     "morph": "n.acc.sg (koṣṭha+dīrgha, compound)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-determine",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kḷp (pra-)"
+    }
+   ],
+   "question": "What length proportion should be assigned to the cell in this context?",
+   "premises": [
+    "The length is being determined.",
+    "The cell length should be set at five parts."
+   ],
+   "inference": "The cell length is prescribed as five parts.",
+   "uncertainties": [],
+   "plain_english": "In length, one should determine the cell length as five parts."
+  },
+  {
+   "verse": 1813,
+   "rows": [
+    {
+     "surface": "tritalaṃ",
+     "gloss": "three-storied",
+     "grounds": "structure with three stories",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyevam",
+     "gloss": "thus-indeed",
+     "grounds": "emphatic conclusion",
+     "morph": "(indecl., hi+evam)"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "stated or explained",
+     "morph": "n.nom.sg ppp √khyā (ā-)"
+    },
+    {
+     "surface": "caturbhūmim",
+     "gloss": "four-storied",
+     "grounds": "structure with four stories",
+     "morph": "f.acc.sg (catur+bhūmi, compound)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "next",
+     "grounds": "following or further",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What transition introduces the four-storied design after the three-storied one?",
+   "premises": [
+    "The three-storied design has thus been declared.",
+    "This next topic is the four-storied design."
+   ],
+   "inference": "The exposition concludes the three-storied design and moves on to the four-storied design.",
+   "uncertainties": [],
+   "plain_english": "Thus the three-storied structure has been described; next is this four-storied one."
+  },
+  {
+   "verse": 1814,
+   "rows": [
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "sanctum",
+     "grounds": "inner shrine chamber",
+     "morph": "n.nom.sg (garbha+geha, compound)"
+    },
+    {
+     "surface": "tribhāgādi",
+     "gloss": "beginning-with-three-parts",
+     "grounds": "three parts and so on",
+     "morph": "n.nom.sg (tri+bhāga+ādi, compound)"
+    },
+    {
+     "surface": "sārdhāṃśaṃ",
+     "gloss": "one-and-half-parts",
+     "grounds": "measure of one and a half parts",
+     "morph": "n.nom.sg (sa+ardha+aṃśa, compound)"
+    },
+    {
+     "surface": "kuḍyavistṛtam",
+     "gloss": "wall-breadth",
+     "grounds": "breadth of the wall",
+     "morph": "n.nom.sg (kuḍya+vistṛta, compound)"
+    }
+   ],
+   "question": "What proportions are specified for the sanctum and the wall breadth?",
+   "premises": [
+    "The sanctum begins with three parts.",
+    "The wall breadth is one and a half parts."
+   ],
+   "inference": "The sanctum is set at three parts and the wall breadth at one and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The sanctum should be three parts and so on, and the wall breadth one and a half parts."
+  },
+  {
+   "verse": 1815,
+   "rows": [
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "lattice",
+     "grounds": "cage-like architectural element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-pavilion",
+     "grounds": "architectural element at corner",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvekaikāṃśena",
+     "gloss": "by-one-part-each",
+     "grounds": "one part for each",
+     "morph": "m.inst.sg (tu+eka+eka+aṃśa, compound)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-determine",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "What measure should be assigned to the lattice and the corner pavilion?",
+   "premises": [
+    "The lattice and the corner pavilion are to be determined.",
+    "Each should be assigned one part."
+   ],
+   "inference": "Both the lattice and the corner pavilion are prescribed as one part each.",
+   "uncertainties": [],
+   "plain_english": "One should determine the lattice and the corner pavilion as one part each."
+  },
+  {
+   "verse": 1816,
+   "rows": [
+    {
+     "surface": "śālāyāme",
+     "gloss": "in-hall-length",
+     "grounds": "with respect to the hall length",
+     "morph": "m.loc.sg (śālā+āyāma, compound)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "measure of four parts (veda=4)",
+     "morph": "m.acc.sg (veda+aṃśa, compound)"
+    },
+    {
+     "surface": "ardhāṃśaṃ",
+     "gloss": "half-part",
+     "grounds": "measure of half a part",
+     "morph": "m.acc.sg (ardha+aṃśa, compound)"
+    },
+    {
+     "surface": "hārayontaram",
+     "gloss": "garland-interval",
+     "grounds": "interval of the garland",
+     "morph": "n.acc.sg (hāra+antara, compound)"
+    }
+   ],
+   "question": "What proportions are given for the hall length and the garland interval?",
+   "premises": [
+    "In the hall length there are four parts.",
+    "The garland interval is half a part."
+   ],
+   "inference": "The hall length is four parts and the garland interval is half a part.",
+   "uncertainties": [],
+   "plain_english": "In the hall length there should be four parts, and the garland interval should be half a part."
+  },
+  {
+   "verse": 1817,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-breadth",
+     "grounds": "with respect to breadth",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśāṃśe",
+     "gloss": "in-ten-parts",
+     "grounds": "divided into ten parts",
+     "morph": "m.loc.sg (daśan+aṃśa, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānvaṃśaṃ",
+     "gloss": "twelve-parts",
+     "grounds": "measure of twelve parts (bhānu=12)",
+     "morph": "m.acc.sg (bhānu+aṃśa, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadāyatam",
+     "gloss": "its-length",
+     "grounds": "length of that element",
+     "morph": "n.nom.sg (tat+āyata, compound)"
+    }
+   ],
+   "question": "How are breadth and length proportioned when the breadth is divided into ten parts?",
+   "premises": [
+    "The breadth is divided into ten parts.",
+    "Its length is twelve parts."
+   ],
+   "inference": "When the breadth is ten parts, the corresponding length is twelve parts.",
+   "uncertainties": [],
+   "plain_english": "When the breadth is divided into ten parts, its length should be twelve parts."
+  },
+  {
+   "verse": 1818,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavaduddiṣṭaṃ",
+     "gloss": "stated-as-before",
+     "grounds": "prescribed as previously",
+     "morph": "n.nom.sg ppp (pūrvavat+uddiṣṭa, compound)"
+    },
+    {
+     "surface": "catubhūmim",
+     "gloss": "four-storied",
+     "grounds": "structure with four stories",
+     "morph": "f.acc.sg (catur+bhūmi, compound)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "highest or excellent",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the remainder of the four-storied design to be completed?",
+   "premises": [
+    "The remainder is stated as before.",
+    "This four-storied design is described as supreme."
+   ],
+   "inference": "The remaining details of the four-storied design follow the previous prescriptions.",
+   "uncertainties": [],
+   "plain_english": "The remainder is as stated before; this four-storied structure is supreme."
+  },
+  {
+   "verse": 1819,
+   "rows": [
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "on the eastern side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pare",
+     "gloss": "in-west",
+     "grounds": "on the western side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "on-sides",
+     "grounds": "on the lateral sides",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "hall structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paṃcāṃśamāyatam",
+     "gloss": "five-parts-length",
+     "grounds": "length of five parts",
+     "morph": "n.nom.sg (pañcan+aṃśa+āyata, compound)"
+    }
+   ],
+   "question": "What length is prescribed for the hall on the east, west, and sides?",
+   "premises": [
+    "The hall is placed in the east, west, and sides.",
+    "Its length should be five parts."
+   ],
+   "inference": "The hall on all these sides is prescribed to have a length of five parts.",
+   "uncertainties": [],
+   "plain_english": "On the east, west, and sides, the hall should have a length of five parts."
+  },
+  {
+   "verse": 1820,
+   "rows": [
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "garland-interval",
+     "grounds": "interval of the garland",
+     "morph": "n.acc.sg (hāra+antara, compound)"
+    },
+    {
+     "surface": "tathāṃśaṃ",
+     "gloss": "likewise-one-part",
+     "grounds": "similarly one part",
+     "morph": "n.acc.sg (tathā+aṃśa, compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpyevaṃ",
+     "gloss": "determine-thus",
+     "grounds": "one should determine in this way",
+     "morph": "(indecl., kalpya+evam)"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "initial",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "talam",
+     "gloss": "story",
+     "grounds": "floor or story",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the garland interval be determined for the first story?",
+   "premises": [
+    "The garland interval is likewise one part.",
+    "The first story should be determined in this way."
+   ],
+   "inference": "For the first story, the garland interval is set at one part.",
+   "uncertainties": [],
+   "plain_english": "The garland interval should likewise be one part; thus one should determine the first story."
+  },
+  {
+   "verse": 1821,
+   "rows": [
+    {
+     "surface": "tāramekādaśāṃśe",
+     "gloss": "breadth-in-eleven-parts",
+     "grounds": "breadth divided into eleven parts",
+     "morph": "m.loc.sg (tāra+ekādaśan+aṃśa, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddīrghaṃ",
+     "gloss": "its-length",
+     "grounds": "length of that element",
+     "morph": "n.nom.sg (tat+dīrgha, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteen",
+     "grounds": "measure of thirteen parts",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length corresponds to a breadth divided into eleven parts?",
+   "premises": [
+    "The breadth is divided into eleven parts.",
+    "Its length is thirteen parts."
+   ],
+   "inference": "A breadth of eleven parts corresponds to a length of thirteen parts.",
+   "uncertainties": [],
+   "plain_english": "When the breadth is eleven parts, its length should be thirteen parts."
+  },
+  {
+   "verse": 1822,
+   "rows": [
+    {
+     "surface": "alindaṃ",
+     "gloss": "porch",
+     "grounds": "verandah or porch",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caikabhāgena",
+     "gloss": "and-by-one-part",
+     "grounds": "by one part",
+     "morph": "m.inst.sg (ca+eka+bhāga, compound)"
+    },
+    {
+     "surface": "hārābhāgena",
+     "gloss": "by-garland-part",
+     "grounds": "by the garland part",
+     "morph": "m.inst.sg (hāra+bhāga, compound)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-determine",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "How should the porch and the garland part be determined in this scheme?",
+   "premises": [
+    "The porch is to be determined by one part.",
+    "The garland is to be determined by its part."
+   ],
+   "inference": "The porch and the garland are each determined by one part.",
+   "uncertainties": [],
+   "plain_english": "One should determine the porch by one part and the garland by one part."
+  },
+  {
+   "verse": 1823,
+   "rows": [
+    {
+     "surface": "paṃcabhūmessamākhyātaṃ",
+     "gloss": "declared-for-five-storied",
+     "grounds": "thus declared for the five-storied structure",
+     "morph": "n.nom.sg ppp (pañcan+bhūmi+samākhyāta, compound)"
+    },
+    {
+     "surface": "ṣaṭtalaṃ",
+     "gloss": "six-storied",
+     "grounds": "structure with six stories",
+     "morph": "n.acc.sg (ṣaṣ+tala, compound)"
+    },
+    {
+     "surface": "tvadhunā",
+     "gloss": "but-now",
+     "grounds": "transition to next topic",
+     "morph": "(indecl., tu+adhunā)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative address",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What transition introduces the six-storied design after the five-storied one?",
+   "premises": [
+    "The five-storied design has been declared.",
+    "The six-storied design is now to be heard."
+   ],
+   "inference": "The exposition concludes the five-storied design and invites attention to the six-storied design.",
+   "uncertainties": [],
+   "plain_english": "Thus the five-storied structure has been described; now hear about the six-storied one."
+  },
+  {
+   "verse": 1824,
+   "rows": [
+    {
+     "surface": "yugāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "measure of four parts (yuga=4)",
+     "morph": "n.nom.sg (yuga+aṃśa, compound)"
+    },
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "sanctum",
+     "grounds": "inner shrine chamber",
+     "morph": "n.nom.sg (garbha+geha, compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "measure of two parts",
+     "morph": "n.nom.sg (dvi+bhāga, compound)"
+    },
+    {
+     "surface": "bhakti",
+     "gloss": "wall-division",
+     "grounds": "architectural division or wall section",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "extended",
+     "grounds": "in breadth or extent",
+     "morph": "n.nom.sg ppp √stṛ (vi-)"
+    }
+   ],
+   "question": "What proportions are prescribed for the sanctum and the wall division in the six-storied design?",
+   "premises": [
+    "The sanctum should be four parts.",
+    "The wall division should be two parts in extent."
+   ],
+   "inference": "In the six-storied design, the sanctum is set at four parts and the wall division at two parts.",
+   "uncertainties": [
+    "The exact architectural sense of 'bhakti' here is context-dependent."
+   ],
+   "plain_english": "The sanctum should be four parts, and the wall division should be two parts in breadth."
+  }
+ ]
+}

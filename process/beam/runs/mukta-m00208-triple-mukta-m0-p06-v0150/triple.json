@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "upadiṣṭamapi",
+     "gloss": "instructed-even",
+     "grounds": "fused form of upadiṣṭam and api; past passive participle with enclitic particle",
+     "morph": "compound=upadiṣṭam+api"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "subject of the clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maruvanna",
+     "gloss": "like-desert-not",
+     "grounds": "comparative expression indicating barren ground where growth fails",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prarohati",
+     "gloss": "sprouts-forth",
+     "grounds": "denotes taking root or growing",
+     "morph": "3.sg.present.active pra-√ruh"
+    }
+   ],
+   "question": "Can knowledge imparted through instruction take root without the required observance?",
+   "premises": [
+    "Knowledge may be imparted through instruction.",
+    "A desert-like condition prevents sprouting or growth.",
+    "The required observance provides the condition for knowledge to take root."
+   ],
+   "inference": "Even when instructed, knowledge fails to sprout without the required observance.",
+   "uncertainties": [
+    "The exact force of maruvanna as a simile or negated comparison is context-dependent."
+   ],
+   "plain_english": "Even when it is taught, knowledge does not sprout, just as nothing grows in a desert."
+  }
+ ]
+}

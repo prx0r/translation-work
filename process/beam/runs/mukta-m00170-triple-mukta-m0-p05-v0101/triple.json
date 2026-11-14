@@ -1,0 +1,1263 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "vājisthāne",
+     "gloss": "in-horse-place",
+     "grounds": "locative indicating the position for the horse; compound vāji-sthāna",
+     "morph": "n.loc.sg (compound: vāji+sthāna)"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing what should be fashioned",
+     "morph": "n.nom.sg (gerundive √kṛ)"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "reflexive adjective, repeated for distributive sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "repeated reflexive adjective indicating each deity’s own",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-deity",
+     "grounds": "possessor of the vehicle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāhanam",
+     "gloss": "vehicle",
+     "grounds": "mount or vehicle of the deity",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What may be fashioned in the horse-position as an alternative?",
+   "premises": [
+    "The horse-position is a designated location in the structure.",
+    "An alternative installation is permitted in that position.",
+    "Each deity has its own specific vehicle."
+   ],
+   "inference": "Instead of a horse, the specific vehicle of each deity may be made in the horse-position.",
+   "uncertainties": [
+    "The exact architectural location denoted by vājisthāna is not specified in this verse."
+   ],
+   "plain_english": "Or, in the horse-place, each deity’s own vehicle should be made."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "trisārddhaṃ",
+     "gloss": "three-and-a-half",
+     "grounds": "numerical measure; compound tri-sārdha",
+     "morph": "n.nom.sg (compound: tri+sārdha)"
+    },
+    {
+     "surface": "kaṇakaṃ",
+     "gloss": "kaṇaka",
+     "grounds": "technical architectural element or measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "and-a-half",
+     "grounds": "additional half measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturbhir",
+     "gloss": "with-four",
+     "grounds": "instrumental indicating four units or parts",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "grāsapaṭṭikā",
+     "gloss": "moulding-band",
+     "grounds": "technical term for a moulding strip; compound grāsa-paṭṭikā",
+     "morph": "f.nom.sg (compound: grāsa+paṭṭikā)"
+    }
+   ],
+   "question": "What measurements are prescribed for the kaṇaka and the moulding-band?",
+   "premises": [
+    "The kaṇaka is assigned a measure of three and a half.",
+    "An additional half measure is specified.",
+    "The moulding-band is associated with four units."
+   ],
+   "inference": "The kaṇaka should measure three and a half, with an additional half, and the moulding-band should be made with four units.",
+   "uncertainties": [
+    "The exact unit of measurement and the precise relation of sārddhaṃ to the preceding or following elements are unclear."
+   ],
+   "plain_english": "The kaṇaka is three and a half, with an additional half, and the moulding-band is made with four."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "antarālam",
+     "gloss": "interval",
+     "grounds": "intermediate space or gap",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhasteṣām",
+     "gloss": "below-them",
+     "grounds": "position beneath the previously mentioned elements; compound adhas-teṣām",
+     "morph": "(indecl.+m.gen.pl compound: adhas+teṣām)"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "above",
+     "grounds": "upper position; first member of compound",
+     "morph": "(compound-member: ūrdhva)"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "half measure; middle member of compound",
+     "morph": "(compound-member: ardha)"
+    },
+    {
+     "surface": "karṇayugmakam",
+     "gloss": "ear-pair",
+     "grounds": "pair of ear-like projections; compound karṇa-yugmaka",
+     "morph": "n.nom.sg (compound: ūrdhva+ardha+karṇa+yugmaka)"
+    }
+   ],
+   "question": "What elements are placed in the interval below and above those parts?",
+   "premises": [
+    "An interval is specified in relation to preceding elements.",
+    "A position below them is indicated.",
+    "An upper half ear-pair is prescribed."
+   ],
+   "inference": "An interval should be placed below them, and an upper half ear-pair above.",
+   "uncertainties": [
+    "The referent of teṣām is not explicitly stated in this verse."
+   ],
+   "plain_english": "There should be an interval below them, and above it a half ear-pair."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "jāḍyakumbhaḥ",
+     "gloss": "jāḍya-pitcher",
+     "grounds": "technical architectural element; compound jāḍya-kumbha",
+     "morph": "m.nom.sg (compound: jāḍya+kumbha)"
+    },
+    {
+     "surface": "kaṇālī",
+     "gloss": "kaṇālī",
+     "grounds": "technical architectural element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāsapaṭṭī",
+     "gloss": "moulding-band",
+     "grounds": "technical term for a moulding strip; compound grāsa-paṭṭī",
+     "morph": "f.nom.sg (compound: grāsa+paṭṭī)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal or sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.act.opt. √bhū"
+    }
+   ],
+   "question": "Which architectural elements should be present at that stage?",
+   "premises": [
+    "The jāḍya-pitcher is named as an element.",
+    "The kaṇālī is named as an element.",
+    "The moulding-band is named as an element."
+   ],
+   "inference": "At that stage there should be a jāḍya-pitcher, a kaṇālī, and a moulding-band.",
+   "uncertainties": [
+    "The precise forms and functions of jāḍyakumbha and kaṇālī are technical and not defined here."
+   ],
+   "plain_english": "Then there should be a jāḍya-pitcher, a kaṇālī, and a moulding-band."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "latine",
+     "gloss": "in-latina",
+     "grounds": "technical architectural term for a moulding or projection type",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nirgame",
+     "gloss": "in-projection",
+     "grounds": "outward projection or offset",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "deficient",
+     "grounds": "lacking or reduced",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sādhāre",
+     "gloss": "in-common-part",
+     "grounds": "shared or common architectural section",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirgama",
+     "gloss": "projection",
+     "grounds": "outward projection; first member of compound",
+     "morph": "(compound-member: nirgama)"
+    },
+    {
+     "surface": "adhikam",
+     "gloss": "excess",
+     "grounds": "additional or greater amount",
+     "morph": "n.nom.sg (compound: nirgama+adhika)"
+    }
+   ],
+   "question": "How should projection be adjusted when the latina projection is deficient?",
+   "premises": [
+    "The latina projection may be deficient.",
+    "The common part is the location for adjustment.",
+    "An increased projection is prescribed."
+   ],
+   "inference": "When the latina projection is deficient, the projection in the common part should be increased.",
+   "uncertainties": [
+    "The technical meanings of latina and sādhāra in this architectural context are not fully specified."
+   ],
+   "plain_english": "When the projection in the latina is deficient, the projection in the common part should be increased."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "pīṭhahīnaṃ",
+     "gloss": "base-less",
+     "grounds": "lacking a base; compound pīṭha-hīna",
+     "morph": "n.nom.sg (compound: pīṭha+hīna)"
+    },
+    {
+     "surface": "vināśāya",
+     "gloss": "for-destruction",
+     "grounds": "purpose or result of ruin",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prāsāda",
+     "gloss": "temple",
+     "grounds": "temple structure; first member of compound",
+     "morph": "(compound-member: prāsāda)"
+    },
+    {
+     "surface": "bhuvana",
+     "gloss": "building",
+     "grounds": "edifice or building; middle member of compound",
+     "morph": "(compound-member: bhuvana)"
+    },
+    {
+     "surface": "ādikam",
+     "gloss": "and-so-forth",
+     "grounds": "and similar structures",
+     "morph": "n.nom.sg (compound: prāsāda+bhuvana+ādika)"
+    }
+   ],
+   "question": "What consequence follows from constructing a temple or building without a base?",
+   "premises": [
+    "A temple, building, or similar structure may lack a base.",
+    "Absence of a base is evaluated for its outcome.",
+    "The outcome is described as destruction."
+   ],
+   "inference": "A temple, building, or similar structure without a base leads to destruction.",
+   "uncertainties": [],
+   "plain_english": "A temple, building, and the like without a base lead to destruction."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the previously mentioned measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential progression",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numerical value in bhūtasaṅkhyā or direct count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numerical value",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣu",
+     "gloss": "five",
+     "grounds": "bhūtasaṅkhyā for five (arrows)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāma",
+     "gloss": "three",
+     "grounds": "bhūtasaṅkhyā for three (Rāmas)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṃdra",
+     "gloss": "one",
+     "grounds": "bhūtasaṅkhyā for one (moon)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulaḥ",
+     "gloss": "aṅgula",
+     "grounds": "unit of measure (finger-breadth)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhikaḥ",
+     "gloss": "more",
+     "grounds": "additional amount",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What successive aṅgula increments are prescribed in this sequence?",
+   "premises": [
+    "The increase proceeds in order.",
+    "The sequence gives nine, seven, five, three, and one.",
+    "The unit of increase is the aṅgula."
+   ],
+   "inference": "The prescribed successive increments are nine, seven, five, three, and one aṅgula in order.",
+   "uncertainties": [
+    "The base to which these increments are added is not stated in this verse."
+   ],
+   "plain_english": "In order, it is increased by nine, seven, five, three, and one aṅgula."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "haste",
+     "gloss": "per-cubit",
+     "grounds": "unit of length (cubit)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "per-cubit",
+     "grounds": "repeated to indicate per-cubit progression",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential progression",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vṛddhir",
+     "gloss": "increase",
+     "grounds": "increment or growth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manu",
+     "gloss": "fourteen",
+     "grounds": "bhūtasaṅkhyā for fourteen (Manus)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "twelve",
+     "grounds": "bhūtasaṅkhyā for twelve (suns/Ādityas)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numerical value",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulā",
+     "gloss": "aṅgulas",
+     "grounds": "units of measure (finger-breadths)",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What aṅgula increases apply successively for each cubit in this sequence?",
+   "premises": [
+    "The increase is calculated per cubit in order.",
+    "The sequence gives fourteen, twelve, and nine.",
+    "The unit of increase is the aṅgula."
+   ],
+   "inference": "The increase is fourteen, twelve, and nine aṅgulas successively for each cubit.",
+   "uncertainties": [
+    "The range of cubits to which this sequence applies is not specified in this verse."
+   ],
+   "plain_english": "Cubit by cubit, in order, the increase is fourteen, twelve, and nine aṅgulas."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "haste",
+     "gloss": "per-cubit",
+     "grounds": "unit of length (cubit)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "twelve",
+     "grounds": "bhūtasaṅkhyā for twelve (suns/Ādityas)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulā",
+     "gloss": "aṅgulas",
+     "grounds": "units of measure (finger-breadths)",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vṛddhir",
+     "gloss": "increase",
+     "grounds": "increment or growth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "limit marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṃśat",
+     "gloss": "thirty",
+     "grounds": "numerical limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kara",
+     "gloss": "cubits",
+     "grounds": "units of length; first member of compound",
+     "morph": "(compound-member: kara)"
+    },
+    {
+     "surface": "avadhi",
+     "gloss": "limit",
+     "grounds": "upper boundary",
+     "morph": "m.nom.sg (compound: kara+avadhi)"
+    }
+   ],
+   "question": "What constant per-cubit increase applies up to the thirty-cubit limit?",
+   "premises": [
+    "The increase is measured per cubit.",
+    "The increase is twelve aṅgulas.",
+    "The upper limit is thirty cubits."
+   ],
+   "inference": "An increase of twelve aṅgulas per cubit applies until the limit of thirty cubits.",
+   "uncertainties": [],
+   "plain_english": "The increase is twelve aṅgulas per cubit, up to the limit of thirty cubits."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "pīṭhorddhe",
+     "gloss": "above-base",
+     "grounds": "position above the base; compound pīṭha-ūrdhva in locative",
+     "morph": "n.loc.sg (compound: pīṭha+ūrdhva)"
+    },
+    {
+     "surface": "udayaḥ",
+     "gloss": "height",
+     "grounds": "vertical rise or height",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chādyānte",
+     "gloss": "at-end-of-covering",
+     "grounds": "terminal point of the covering; compound chādya-anta",
+     "morph": "m.loc.sg (compound: chādya+anta)"
+    },
+    {
+     "surface": "nāgara",
+     "gloss": "nāgara",
+     "grounds": "nāgara style or measure; first member of compound",
+     "morph": "(compound-member: nāgara)"
+    },
+    {
+     "surface": "adhikam",
+     "gloss": "more",
+     "grounds": "additional amount",
+     "morph": "n.nom.sg (compound: nāgara+adhika)"
+    }
+   ],
+   "question": "Where is the height measured and what additional nāgara measure is indicated?",
+   "premises": [
+    "Height is considered above the base.",
+    "The endpoint is at the end of the covering.",
+    "An additional nāgara measure is specified."
+   ],
+   "inference": "The height above the base extends to the end of the covering, with an additional nāgara measure.",
+   "uncertainties": [
+    "The exact nature of the nāgara addition is not fully explained in this verse."
+   ],
+   "plain_english": "The height above the base extends to the end of the covering, with an additional nāgara measure."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "lower bound of the range; first member of compound",
+     "morph": "(compound-member: pañca)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "indicates start of range; middle member of compound",
+     "morph": "(compound-member: ādi)"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "upper bound of the range; middle member of compound",
+     "morph": "(compound-member: nava)"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "parts",
+     "grounds": "divisions; middle member of compound",
+     "morph": "(compound-member: bhāga)"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "up-to",
+     "grounds": "indicates end of range",
+     "morph": "m.acc.sg (compound: pañca+ādi+nava+bhāga+anta)"
+    },
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-base",
+     "grounds": "possessor whose height is specified",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "fivefold division or variation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udayaḥ",
+     "gloss": "height",
+     "grounds": "vertical rise of the base",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What range of divisions determines the fivefold height of the base?",
+   "premises": [
+    "The base has a prescribed height.",
+    "The height is determined fivefold.",
+    "The range of parts runs from five up to nine."
+   ],
+   "inference": "The height of the base is determined fivefold, ranging from five up to nine parts.",
+   "uncertainties": [],
+   "plain_english": "The height of the base is fivefold, ranging from five up to nine parts."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "khurakaḥ",
+     "gloss": "khuraka",
+     "grounds": "technical base moulding element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numerical measure; first member of compound",
+     "morph": "(compound-member: pañca)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "parts",
+     "grounds": "divisions or units",
+     "morph": "m.acc.sg (compound: pañca+bhāga)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.act.opt. √as"
+    },
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "numerical measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kumbhakaḥ",
+     "gloss": "kumbhaka",
+     "grounds": "technical pitcher-like moulding element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel prescription",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What part-measures are assigned to the khuraka and the kumbhaka?",
+   "premises": [
+    "The khuraka is a prescribed base element.",
+    "The kumbhaka is a prescribed base element.",
+    "Specific part-measures are assigned to each."
+   ],
+   "inference": "The khuraka should be five parts and the kumbhaka likewise twenty.",
+   "uncertainties": [
+    "The total unit system within which these parts are counted is not stated here."
+   ],
+   "plain_english": "The khuraka should be five parts, and the kumbhaka likewise twenty."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "kapotikā",
+     "gloss": "kapotikā",
+     "grounds": "technical moulding element (dove-like cornice)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numerical measure",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mañcī",
+     "gloss": "mañcī",
+     "grounds": "technical platform or moulding element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.act.opt. √as"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg (gerundive √kṛ)"
+    },
+    {
+     "surface": "navabhāgikā",
+     "gloss": "nine-parted",
+     "grounds": "consisting of nine parts; compound nava-bhāgika",
+     "morph": "f.nom.sg (compound: nava+bhāgika)"
+    }
+   ],
+   "question": "What part-measures are prescribed for the kapotikā and the mañcī?",
+   "premises": [
+    "The kapotikā is assigned a numerical measure.",
+    "The mañcī is prescribed as an element to be made.",
+    "The mañcī is specified as nine-parted."
+   ],
+   "inference": "The kapotikā should be eight parts, and the mañcī should be made nine-parted.",
+   "uncertainties": [],
+   "plain_english": "The kapotikā should be eight parts, and the mañcī should be made nine-parted."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "vasubhir",
+     "gloss": "with-eight",
+     "grounds": "bhūtasaṅkhyā for eight (Vasus)",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bharaṇi",
+     "gloss": "bharaṇī",
+     "grounds": "technical architectural element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg (gerundive √kṛ)"
+    },
+    {
+     "surface": "śirāpaṭṭī",
+     "gloss": "śirāpaṭṭī",
+     "grounds": "technical band or fillet element; compound śirā-paṭṭī",
+     "morph": "f.nom.sg (compound: śirā+paṭṭī)"
+    },
+    {
+     "surface": "daśāṃśikā",
+     "gloss": "ten-parted",
+     "grounds": "consisting of ten parts; compound daśa-aṃśika",
+     "morph": "f.nom.sg (compound: daśa+aṃśika)"
+    }
+   ],
+   "question": "What part-measures are prescribed for the bharaṇī and the śirāpaṭṭī?",
+   "premises": [
+    "The bharaṇī is to be made with a specified measure.",
+    "The measure for the bharaṇī is eight.",
+    "The śirāpaṭṭī is specified as ten-parted."
+   ],
+   "inference": "The bharaṇī should be made with eight parts, and the śirāpaṭṭī should be ten-parted.",
+   "uncertainties": [],
+   "plain_english": "The bharaṇī should be made with eight parts, and the śirāpaṭṭī should be ten-parted."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "chādyaṃ",
+     "gloss": "covering",
+     "grounds": "covering or roof element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteen",
+     "grounds": "numerical measure; first member of compound",
+     "morph": "(compound-member: trayodaśa)"
+    },
+    {
+     "surface": "aṃśa",
+     "gloss": "parts",
+     "grounds": "divisions; middle member of compound",
+     "morph": "(compound-member: aṃśa)"
+    },
+    {
+     "surface": "uccaṃ",
+     "gloss": "high",
+     "grounds": "height measure",
+     "morph": "n.nom.sg (compound: trayodaśa+aṃśa+ucca)"
+    },
+    {
+     "surface": "daśabhir",
+     "gloss": "with-ten",
+     "grounds": "numerical measure in instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhāgair",
+     "gloss": "parts",
+     "grounds": "divisions or units",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vinirgamaḥ",
+     "gloss": "projection",
+     "grounds": "outward projection",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What height and projection are prescribed for the covering element?",
+   "premises": [
+    "The covering is assigned a height measure.",
+    "The height is thirteen parts.",
+    "The projection is ten parts."
+   ],
+   "inference": "The covering should be thirteen parts high, with a projection of ten parts.",
+   "uncertainties": [],
+   "plain_english": "The covering should be thirteen parts high, with a projection of ten parts."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatikā",
+     "gloss": "twenty-five",
+     "grounds": "numerical measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jaṅghā",
+     "gloss": "jaṅghā",
+     "grounds": "technical term for the wall or pillar section",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "udagmaḥ",
+     "gloss": "height",
+     "grounds": "vertical rise or height",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteen",
+     "grounds": "numerical measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measures are prescribed for the jaṅghā and its height?",
+   "premises": [
+    "The jaṅghā is assigned a numerical measure.",
+    "A height is also specified.",
+    "The measures given are twenty-five and thirteen."
+   ],
+   "inference": "The jaṅghā is twenty-five, and its height is thirteen.",
+   "uncertainties": [
+    "The units for these measures are not explicitly stated in this verse."
+   ],
+   "plain_english": "The jaṅghā is twenty-five, and its height is thirteen."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numerical measure; first member of compound",
+     "morph": "(compound-member: sapta)"
+    },
+    {
+     "surface": "bhāgā",
+     "gloss": "parts",
+     "grounds": "divisions or units",
+     "morph": "f.nom.sg (compound: sapta+bhāga)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.act.opt. √bhū"
+    },
+    {
+     "surface": "mañcī",
+     "gloss": "mañcī",
+     "grounds": "technical platform or moulding element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kūṭachādyasya",
+     "gloss": "of-kūṭa-covering",
+     "grounds": "covering of the kūṭa structure; compound kūṭa-chādya",
+     "morph": "n.gen.sg (compound: kūṭa+chādya)"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-top",
+     "grounds": "uppermost position or head",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What size should the mañcī be on top of the kūṭa-covering?",
+   "premises": [
+    "A mañcī is placed on top of the kūṭa-covering.",
+    "The mañcī is assigned a part-measure.",
+    "The prescribed measure is seven parts."
+   ],
+   "inference": "The mañcī on top of the kūṭa-covering should be seven parts.",
+   "uncertainties": [],
+   "plain_english": "The mañcī on top of the kūṭa-covering should be seven parts."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "śirāvaṭī",
+     "gloss": "śirāvaṭī",
+     "grounds": "technical architectural element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "numerical measure; first member of compound",
+     "morph": "(compound-member: catur)"
+    },
+    {
+     "surface": "bhāgā",
+     "gloss": "parts",
+     "grounds": "divisions or units",
+     "morph": "f.nom.sg (compound: catur+bhāga)"
+    },
+    {
+     "surface": "paṭṭaḥ",
+     "gloss": "paṭṭa",
+     "grounds": "technical band or slab element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.act.opt. √as"
+    },
+    {
+     "surface": "pañcabhāgikaḥ",
+     "gloss": "five-parted",
+     "grounds": "consisting of five parts; compound pañca-bhāgika",
+     "morph": "m.nom.sg (compound: pañca+bhāgika)"
+    }
+   ],
+   "question": "What part-measures are prescribed for the śirāvaṭī and the paṭṭa?",
+   "premises": [
+    "The śirāvaṭī is assigned a part-measure.",
+    "The paṭṭa is assigned a part-measure.",
+    "The measures given are four parts and five parts respectively."
+   ],
+   "inference": "The śirāvaṭī should be four parts, and the paṭṭa should be five-parted.",
+   "uncertainties": [],
+   "plain_english": "The śirāvaṭī should be four parts, and the paṭṭa should be five-parted."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "kumbhakasya",
+     "gloss": "of-kumbhaka",
+     "grounds": "technical pitcher-like moulding element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yugāṃśena",
+     "gloss": "by-two-parts",
+     "grounds": "measure of two parts; compound yuga-aṃśa",
+     "morph": "m.inst.sg (compound: yuga+aṃśa)"
+    },
+    {
+     "surface": "sthāvarāṇāṃ",
+     "gloss": "of-immovable-images",
+     "grounds": "fixed or immovable images",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "praveśakaḥ",
+     "gloss": "insertion",
+     "grounds": "depth or extent of insertion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How deep should immovable images be inserted in relation to the kumbhaka?",
+   "premises": [
+    "Immovable images require insertion into the structure.",
+    "The kumbhaka provides the reference measure.",
+    "The insertion measure is two parts of the kumbhaka."
+   ],
+   "inference": "The insertion of immovable images should be by two parts of the kumbhaka.",
+   "uncertainties": [
+    "Whether the insertion is into the kumbhaka or measured from it is not fully explicit."
+   ],
+   "plain_english": "The insertion of immovable images should be by two parts of the kumbhaka."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "alpadravye",
+     "gloss": "with-little-wealth",
+     "grounds": "condition of limited material resources; compound alpa-dravya",
+     "morph": "n.loc.sg (compound: alpa+dravya)"
+    },
+    {
+     "surface": "mahatpuṇyaṃ",
+     "gloss": "great-merit",
+     "grounds": "great religious merit; compound mahat-puṇya",
+     "morph": "n.nom.sg (compound: mahat+puṇya)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "n.nom.sg (past-passive-participle √kath)"
+    },
+    {
+     "surface": "viśvakarmaṇā",
+     "gloss": "by-Viśvakarman",
+     "grounds": "divine architect as authority",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What result is declared for construction undertaken with limited resources?",
+   "premises": [
+    "Construction may be undertaken with little wealth.",
+    "Viśvakarman is cited as the authority.",
+    "Great merit is declared in this condition."
+   ],
+   "inference": "Viśvakarman declared that even with little wealth, great merit is obtained.",
+   "uncertainties": [],
+   "plain_english": "Viśvakarman declared that even with little wealth, great merit is gained."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "dvādaśānāṃ",
+     "gloss": "of-twelve",
+     "grounds": "numerical quantity",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "khurādīnāṃ",
+     "gloss": "beginning-with-khuraka",
+     "grounds": "series starting with khuraka; compound khura-ādi",
+     "morph": "m.gen.pl (compound: khura+ādi)"
+    },
+    {
+     "surface": "bhāgasaṃkhyā",
+     "gloss": "part-number",
+     "grounds": "count or number of parts; compound bhāga-saṃkhyā",
+     "morph": "f.nom.sg (compound: bhāga+saṃkhyā)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequential arrangement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic or continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is being enumerated in sequence for the twelve elements beginning with khuraka?",
+   "premises": [
+    "There are twelve elements beginning with khuraka.",
+    "Their part-numbers are the subject.",
+    "The enumeration proceeds in order."
+   ],
+   "inference": "The part-numbers of the twelve elements beginning with khuraka are now given in order.",
+   "uncertainties": [],
+   "plain_english": "Now, in order, the part-numbers of the twelve elements beginning with khuraka are given."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "sārddhasya",
+     "gloss": "of-one-and-a-half",
+     "grounds": "measure including a half",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "half part; first member of compound",
+     "morph": "(compound-member: ardha)"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "another half part; middle member of compound",
+     "morph": "(compound-member: ardha)"
+    },
+    {
+     "surface": "bhāgaiḥ",
+     "gloss": "with-parts",
+     "grounds": "divisions or units",
+     "morph": "m.inst.pl (compound: ardha+ardha+bhāga)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.act.opt. √as"
+    },
+    {
+     "surface": "dvisārdhair",
+     "gloss": "with-two-and-a-half",
+     "grounds": "measure of two and a half; compound dvi-sārdha",
+     "morph": "m.inst.pl (compound: dvi+sārdha)"
+    },
+    {
+     "surface": "dvyaṃśa",
+     "gloss": "two-part",
+     "grounds": "measure of two parts; compound dvi-aṃśa",
+     "morph": "(compound-member: dvi+aṃśa)"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "projection",
+     "grounds": "outward projection",
+     "morph": "m.nom.sg (compound: dvyaṃśa+nirgama)"
+    }
+   ],
+   "question": "What fractional parts and projection measures are prescribed in this sequence?",
+   "premises": [
+    "A measure of one and a half is referenced.",
+    "Half and half parts are specified.",
+    "A projection of two parts with two and a half is prescribed."
+   ],
+   "inference": "The sequence prescribes half and half parts of one and a half, and a projection of two parts with two and a half.",
+   "uncertainties": [
+    "The exact syntactic grouping of these fractional measures is ambiguous."
+   ],
+   "plain_english": "With half and half parts of one and a half, and with two and a half, the projection should be two parts."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "sādhāra",
+     "gloss": "common-part",
+     "grounds": "shared or common section; first member of compound",
+     "morph": "(compound-member: sādhāra)"
+    },
+    {
+     "surface": "aṣṭāṃśato",
+     "gloss": "from-eight-parts",
+     "grounds": "derived from eight parts; compound aṣṭa-aṃśa with ablative suffix",
+     "morph": "(indecl. compound: sādhāra+aṣṭa+aṃśa+tas)"
+    },
+    {
+     "surface": "bhittir",
+     "gloss": "wall",
+     "grounds": "wall of the structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśāṃśair",
+     "gloss": "with-ten-parts",
+     "grounds": "measure of ten parts; compound daśa-aṃśa",
+     "morph": "m.inst.pl (compound: daśa+aṃśa)"
+    },
+    {
+     "surface": "dhātu",
+     "gloss": "metal",
+     "grounds": "material: metal; first member of compound",
+     "morph": "(compound-member: dhātu)"
+    },
+    {
+     "surface": "ratna",
+     "gloss": "gem",
+     "grounds": "material: gem; middle member of compound",
+     "morph": "(compound-member: ratna)"
+    },
+    {
+     "surface": "je",
+     "gloss": "made-of",
+     "grounds": "produced from or made of; born/produced",
+     "morph": "n.loc.sg (compound: dhātu+ratna+ja)"
+    }
+   ],
+   "question": "How is the wall proportioned in relation to the common part and metal-gem construction?",
+   "premises": [
+    "The wall is measured from eight parts of the common part.",
+    "A measure of ten parts is specified.",
+    "Construction in metal and gem is referenced."
+   ],
+   "inference": "The wall, from eight parts of the common part, is made with ten parts in metal and gem construction.",
+   "uncertainties": [
+    "The precise syntactic relation between daśāṃśair and dhāturatnaje is ambiguous."
+   ],
+   "plain_english": "The wall, from eight parts of the common part, is made with ten parts in metal and gem work."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "phālanīyaṃ",
+     "gloss": "to-be-split",
+     "grounds": "gerundive indicating something that must be split or divided",
+     "morph": "n.nom.sg (gerundive √phal)"
+    },
+    {
+     "surface": "garbhagṛha",
+     "gloss": "sanctum",
+     "grounds": "inner sanctum; compound garbha-gṛha",
+     "morph": "(compound-member: garbha+gṛha)"
+    },
+    {
+     "surface": "doṣadaṃ",
+     "gloss": "fault-giving",
+     "grounds": "causing defect or harm; compound doṣa-da",
+     "morph": "n.nom.sg (compound: garbhagṛha+doṣa+da)"
+    },
+    {
+     "surface": "garbha",
+     "gloss": "womb",
+     "grounds": "inner chamber or womb; first member of compound",
+     "morph": "(compound-member: garbha)"
+    },
+    {
+     "surface": "māyatam",
+     "gloss": "extended",
+     "grounds": "extended or elongated",
+     "morph": "n.nom.sg (compound: garbha+āyata, past-passive-participle √yam with ā)"
+    }
+   ],
+   "question": "Why must the sanctum not be split when its inner chamber is extended?",
+   "premises": [
+    "The sanctum is considered in relation to splitting.",
+    "Splitting is described as fault-giving.",
+    "The condition involves an extended inner chamber."
+   ],
+   "inference": "Splitting the sanctum when its inner chamber is extended is fault-giving and must be avoided.",
+   "uncertainties": [
+    "The exact architectural action denoted by phālanīyaṃ in this context is not fully specified."
+   ],
+   "plain_english": "The sanctum must not be split, for that gives fault when the inner chamber is extended."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p264",
+ "items": [
+  {
+   "verse": 6600,
+   "rows": [
+    {
+     "surface": "pāpam",
+     "gloss": "sin",
+     "grounds": "the wrongdoing or demerit under discussion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmaḥ",
+     "gloss": "righteousness",
+     "grounds": "meritorious order or duty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "itself",
+     "grounds": "restrictive emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "demonstrative referring back to the sin",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Into what does sin transform when the deity is graciously pleased?",
+   "premises": [
+    "Sin may be present in an action.",
+    "The deity's gracious pleasure alters the condition of sin.",
+    "That same sin becomes righteousness itself."
+   ],
+   "inference": "Sin is transmuted into dharma through divine favor.",
+   "uncertainties": [
+    "The gender agreement of saḥ with pāpam is read contextually as referring to that sin."
+   ],
+   "plain_english": "That sin indeed becomes righteousness itself."
+  }
+ ]
+}

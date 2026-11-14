@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "piṇḍikāyāṃ",
+     "gloss": "in-pedestal",
+     "grounds": "locative indicating the place of installation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "prescriptive optative enjoining placement",
+     "morph": "3.sg.act.opt √nyas"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "liṅga",
+     "grounds": "object of the ritual placement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṅguṣṭhena",
+     "gloss": "with-thumb",
+     "grounds": "instrument used for the tactile act",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "should-touch",
+     "grounds": "prescriptive optative enjoining contact",
+     "morph": "3.sg.act.opt √spṛś"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "ritual-preceptor",
+     "grounds": "agent performing the prescribed acts; ācārya as ritual actor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What placement and tactile act must the ritual preceptor perform with the liṅga on the pedestal?",
+   "premises": [
+    "The liṅga is the object to be placed in the pedestal.",
+    "The ritual preceptor is enjoined to place the liṅga in the pedestal.",
+    "The ritual preceptor is enjoined to touch the liṅga with the thumb."
+   ],
+   "inference": "The ritual preceptor must install the liṅga in the pedestal and perform a prescribed touch with the thumb.",
+   "uncertainties": [
+    "The specific ritual timing continues from the preceding verse's context of the equinox and musical sound."
+   ],
+   "plain_english": "The guru should place the liṅga in the pedestal and touch it with the thumb."
+  }
+ ]
+}

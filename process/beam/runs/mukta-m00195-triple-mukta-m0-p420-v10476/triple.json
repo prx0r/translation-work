@@ -1,0 +1,1269 @@
+{
+ "song": "mukta-m0-p420",
+ "items": [
+  {
+   "verse": 10476,
+   "rows": [
+    {
+     "surface": "sahasram",
+     "gloss": "thousand",
+     "grounds": "numeral quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "object of eating",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-eat",
+     "grounds": "ritual consumption",
+     "morph": "3.sg.act-opt √bhakṣ"
+    },
+    {
+     "surface": "śatrum",
+     "gloss": "enemy",
+     "grounds": "target",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utkaṭam",
+     "gloss": "fierce",
+     "grounds": "quality of enemy",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual act empowers one to overcome a fierce enemy?",
+   "premises": [
+    "One thousand and one repetitions are specified",
+    "The mantra is to be consumed",
+    "The target is a fierce enemy"
+   ],
+   "inference": "Consuming the mantra one thousand and one times is prescribed for overcoming a fierce enemy.",
+   "uncertainties": [
+    "The exact mode of eating the mantra is not specified"
+   ],
+   "plain_english": "One should eat the mantra one thousand and one times to overcome a fierce enemy."
+  },
+  {
+   "verse": 10477,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "fire oblation",
+     "morph": "3.sg.act-opt √hu"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "number of days",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divasān",
+     "gloss": "days",
+     "grounds": "duration",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājñaḥ",
+     "gloss": "of-king",
+     "grounds": "possessor of army",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "camūṃ",
+     "gloss": "army",
+     "grounds": "object to be dispatched",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "skilled practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What preparatory rite enables the wise one to mobilize a king's army?",
+   "premises": [
+    "Oblations are to be offered for seven days",
+    "The wise one performs the rite",
+    "The king's army is the object of action"
+   ],
+   "inference": "After seven days of oblations, the wise one is able to dispatch the king's army.",
+   "uncertainties": [],
+   "plain_english": "The wise one should offer oblations for seven days, and then dispatch the king's army."
+  },
+  {
+   "verse": 10478,
+   "rows": [
+    {
+     "surface": "prasthāpayet",
+     "gloss": "should-dispatch",
+     "grounds": "sending forth",
+     "morph": "3.sg.act-caus-opt √sthā"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "refers to army",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "su+dṛḍhāṃ",
+     "gloss": "very-firm",
+     "grounds": "strengthened condition; compound su+dṛḍhā",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "rakṣitāṃ",
+     "gloss": "protected",
+     "grounds": "guarded state",
+     "morph": "f.acc.sg past-pass-part √rakṣ"
+    },
+    {
+     "surface": "balibhiḥ",
+     "gloss": "by-strong",
+     "grounds": "agents of protection",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "naraiḥ",
+     "gloss": "men",
+     "grounds": "protectors",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "In what condition must the dispatched army be sent forth?",
+   "premises": [
+    "The army is to be dispatched",
+    "It must be very firm",
+    "It must be protected by strong men"
+   ],
+   "inference": "The army should be sent forth only when made very firm and guarded by strong men.",
+   "uncertainties": [],
+   "plain_english": "He should dispatch that army, made very firm and protected by strong men."
+  },
+  {
+   "verse": 10479,
+   "rows": [
+    {
+     "surface": "bhakṣayantaṃ",
+     "gloss": "devouring",
+     "grounds": "ongoing ritual act",
+     "morph": "m.acc.sg pres-act-part √bhakṣ"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "ritual worship",
+     "morph": "3.sg.act-opt √yaj"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "minister",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "perform action",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "comes",
+     "grounds": "arrival of army",
+     "morph": "3.sg.act-pres √yā"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to army",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "camūḥ",
+     "gloss": "army",
+     "grounds": "subject arriving",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What concurrent ritual ensures the dispatched army's arrival?",
+   "premises": [
+    "The minister worships while devouring",
+    "The minister performs the rite",
+    "The army comes as a result"
+   ],
+   "inference": "The minister's worship while devouring causes the army to arrive.",
+   "uncertainties": [
+    "The object being devoured is implied from context"
+   ],
+   "plain_english": "While devouring, the minister should worship and perform the rite; then that army comes."
+  },
+  {
+   "verse": 10480,
+   "rows": [
+    {
+     "surface": "āgacchet",
+     "gloss": "should-come",
+     "grounds": "arrival",
+     "morph": "3.sg.act-opt √gam"
+    },
+    {
+     "surface": "bhūpatiḥ",
+     "gloss": "king",
+     "grounds": "ruler; compound bhū+pati",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "śūraḥ",
+     "gloss": "heroic",
+     "grounds": "quality of king",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantriṇam",
+     "gloss": "minister",
+     "grounds": "object of approach",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "with-respect",
+     "grounds": "manner of approach",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does the heroic king respond to the minister after success?",
+   "premises": [
+    "The heroic king comes afterwards",
+    "He approaches the minister",
+    "He does so with respect"
+   ],
+   "inference": "After the army's arrival, the heroic king comes to the minister with respect.",
+   "uncertainties": [],
+   "plain_english": "Afterwards the heroic king should come to the minister with respect."
+  },
+  {
+   "verse": 10481,
+   "rows": [
+    {
+     "surface": "mantriṇo",
+     "gloss": "of-minister",
+     "grounds": "experiencer of satisfaction",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santoṣo",
+     "gloss": "satisfaction",
+     "grounds": "state of contentment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "hypothetical state",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "bhūpateḥ",
+     "gloss": "of-king",
+     "grounds": "source of satisfaction; compound bhū+pati",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "consequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition regarding the minister's satisfaction prompts further instruction?",
+   "premises": [
+    "The minister may lack satisfaction",
+    "The satisfaction concerns the king",
+    "This condition triggers a new topic"
+   ],
+   "inference": "If the minister is not satisfied with the king, further instruction follows.",
+   "uncertainties": [],
+   "plain_english": "If the minister is not satisfied with the king, then what follows applies."
+  },
+  {
+   "verse": 10482,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "topic transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "then",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampravakṣyāmi",
+     "gloss": "shall-declare",
+     "grounds": "authorial statement",
+     "morph": "1.sg.act-fut √vac"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nṛ+hariṃ",
+     "gloss": "man-lion",
+     "grounds": "deity form; compound nṛ+hari",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "lord",
+     "grounds": "epithet of deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What new deity form is introduced after the previous procedure?",
+   "premises": [
+    "A new declaration is announced",
+    "The subject is a second form",
+    "The form is the lord Nṛhari"
+   ],
+   "inference": "The text now declares the second form, the lord Nṛhari.",
+   "uncertainties": [],
+   "plain_english": "Now then I shall declare the second form, the lord Nṛhari."
+  },
+  {
+   "verse": 10483,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "meter name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chanda",
+     "gloss": "meter",
+     "grounds": "metrical category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "stated specification",
+     "morph": "n.nom.sg past-pass-part √diś"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nṛ+hariḥ",
+     "gloss": "man-lion",
+     "grounds": "deity name; compound nṛ+hari",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditional identification",
+     "morph": "m.nom.sg past-pass-part √smṛ"
+    }
+   ],
+   "question": "What meter and deity are assigned to the second Nṛhari mantra?",
+   "premises": [
+    "The meter is declared as Gāyatrī",
+    "The deity is identified as Nṛhari",
+    "These are traditional specifications"
+   ],
+   "inference": "The second mantra has Gāyatrī as its meter and Nṛhari as its deity.",
+   "uncertainties": [],
+   "plain_english": "The meter is declared to be Gāyatrī, and the deity is remembered as Nṛhari."
+  },
+  {
+   "verse": 10484,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral component",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "repetition count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-repeat",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haviṣya+āśī",
+     "gloss": "eating-haviṣya",
+     "grounds": "dietary discipline; compound haviṣya+āśin",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "jita+indriyaḥ",
+     "gloss": "sense-controlled",
+     "grounds": "self-discipline; compound jita+indriya",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What discipline and repetition count are required for the Nṛhari mantra?",
+   "premises": [
+    "The mantra is to be repeated one hundred thousand times",
+    "The practitioner eats only haviṣya food",
+    "The practitioner has controlled senses"
+   ],
+   "inference": "One should repeat the mantra one hundred thousand times while eating haviṣya and controlling the senses.",
+   "uncertainties": [],
+   "plain_english": "One should repeat the mantra one hundred thousand times, eating only haviṣya food and with senses controlled."
+  },
+  {
+   "verse": 10485,
+   "rows": [
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "ritual offering",
+     "morph": "3.sg.act-caus-opt √tṛp"
+    },
+    {
+     "surface": "kṣudra+salilaiḥ",
+     "gloss": "with-rice-gruel",
+     "grounds": "libation substance; compound kṣudra+salila",
+     "morph": "n.inst.pl (compound)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātma+abhiṣecanam",
+     "gloss": "self-sprinkling",
+     "grounds": "self-consecration; compound ātman+abhiṣecana",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What libation and self-rite follow the mantra repetition?",
+   "premises": [
+    "Libations are to be offered with rice gruel",
+    "Self-sprinkling is to be performed",
+    "These actions follow the repetition"
+   ],
+   "inference": "After repetition, one should offer libations with rice gruel and perform self-sprinkling.",
+   "uncertainties": [],
+   "plain_english": "One should offer libations with rice gruel and perform self-sprinkling."
+  },
+  {
+   "verse": 10486,
+   "rows": [
+    {
+     "surface": "mantra+rāja",
+     "gloss": "by-mantra-king",
+     "grounds": "instrumental source; compound mantra+rāja",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "uditān",
+     "gloss": "taught",
+     "grounds": "declared applications",
+     "morph": "m.acc.pl past-pass-part √vad"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "applications",
+     "grounds": "ritual uses",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who may perform all applications taught by this mantra-king?",
+   "premises": [
+    "All applications are taught by the mantra-king",
+    "These applications are available here",
+    "The practitioner is the agent"
+   ],
+   "inference": "The practitioner may perform all applications taught here by the mantra-king.",
+   "uncertainties": [],
+   "plain_english": "Here the practitioner may perform all the applications taught by this king of mantras."
+  },
+  {
+   "verse": 10487,
+   "rows": [
+    {
+     "surface": "viṣa+ārtam",
+     "gloss": "poison-afflicted",
+     "grounds": "person suffering from poison; compound viṣa+ārta",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "abhiṣiñceta",
+     "gloss": "should-sprinkle",
+     "grounds": "ritual sprinkling",
+     "morph": "3.sg.act-opt √sic"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-released",
+     "grounds": "liberation from poison",
+     "morph": "3.sg.pass-pres √muc"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣeṇa",
+     "gloss": "from-poison",
+     "grounds": "source of affliction",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "afflicted person",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What effect does sprinkling have on a person afflicted by poison?",
+   "premises": [
+    "A poison-afflicted person is sprinkled",
+    "The sprinkling is a ritual act",
+    "Release from poison follows"
+   ],
+   "inference": "Sprinkling a poison-afflicted person causes him to be released from the poison.",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle a person afflicted by poison; indeed he is released from the poison."
+  },
+  {
+   "verse": 10488,
+   "rows": [
+    {
+     "surface": "bahu+pad",
+     "gloss": "from-many-footed",
+     "grounds": "source of poison; compound bahu+pad",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "bṛścika+utthaiḥ",
+     "gloss": "scorpion-born",
+     "grounds": "poisons arising from scorpions; compound bṛścika+uttha",
+     "morph": "n.inst.pl (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣaiḥ",
+     "gloss": "from-poisons",
+     "grounds": "toxic substances",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "freed",
+     "grounds": "released state",
+     "morph": "m.nom.sg past-pass-part √muc"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of poisons can the mantra's application remove?",
+   "premises": [
+    "Poisons come from many-footed creatures",
+    "Poisons come from scorpions",
+    "Freedom from these poisons is certain"
+   ],
+   "inference": "The application certainly frees one from poisons of many-footed creatures and scorpions.",
+   "uncertainties": [],
+   "plain_english": "One certainly becomes freed from poisons of many-footed creatures and from those born of scorpions."
+  },
+  {
+   "verse": 10489,
+   "rows": [
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "body part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "akṣi",
+     "gloss": "eye",
+     "grounds": "body part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "ear",
+     "grounds": "body part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛt",
+     "gloss": "heart",
+     "grounds": "body part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kukṣi",
+     "gloss": "belly",
+     "grounds": "body part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaṇṭha",
+     "gloss": "throat",
+     "grounds": "body part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rogān",
+     "gloss": "diseases",
+     "grounds": "ailments",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "should-destroy",
+     "grounds": "removal of disease",
+     "morph": "3.sg.act-caus-opt √naś"
+    }
+   ],
+   "question": "Which bodily diseases can the mantra application destroy?",
+   "premises": [
+    "Diseases of head, eye, ear, heart, belly, and throat are listed",
+    "The application acts on these diseases",
+    "Destruction of these diseases is the result"
+   ],
+   "inference": "The application should destroy diseases of the head, eyes, ears, heart, belly, and throat.",
+   "uncertainties": [],
+   "plain_english": "It should destroy diseases of the head, eyes, ears, heart, belly, and throat."
+  },
+  {
+   "verse": 10490,
+   "rows": [
+    {
+     "surface": "śamayet",
+     "gloss": "should-pacify",
+     "grounds": "calming effect",
+     "morph": "3.sg.act-caus-opt √śam"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "with-ashes",
+     "grounds": "ritual substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃliptaṃ",
+     "gloss": "smeared",
+     "grounds": "applied state",
+     "morph": "n.acc.sg past-pass-part √lip"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "required action",
+     "morph": "f.nom.sg future-pass-part √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "doubt or deliberation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What assurance is given about pacifying with smeared ashes?",
+   "premises": [
+    "Smeared ashes pacify the condition",
+    "No consideration is needed here",
+    "The effect is assured"
+   ],
+   "inference": "Smeared ashes should pacify, and no further consideration is required.",
+   "uncertainties": [
+    "The specific condition being pacified is implied from context"
+   ],
+   "plain_english": "It should pacify when smeared with ashes; no consideration is needed here."
+  },
+  {
+   "verse": 10491,
+   "rows": [
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral component",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhika",
+     "gloss": "more",
+     "grounds": "addition; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrañ",
+     "gloss": "thousand",
+     "grounds": "repetition count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "result for enemy",
+     "morph": "3.sg.pass-pres √mṛ"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "target",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-him",
+     "grounds": "possessor/practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What repetition count brings about the death of one's enemy?",
+   "premises": [
+    "Eight more than a thousand repetitions are performed",
+    "The enemy is the target",
+    "Death of the enemy is the result"
+   ],
+   "inference": "Performing one thousand and eight repetitions causes the enemy to die.",
+   "uncertainties": [],
+   "plain_english": "Indeed, with one thousand and eight repetitions, his enemy dies."
+  },
+  {
+   "verse": 10492,
+   "rows": [
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eka+akṣaro",
+     "gloss": "one-syllabled",
+     "grounds": "mantra structure; compound eka+akṣara",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg past-pass-part √vac"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samṛddhi+daḥ",
+     "gloss": "prosperity-giving",
+     "grounds": "effect of mantra; compound samṛddhi+da",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What power is attributed to the declared one-syllabled mantra?",
+   "premises": [
+    "The mantra is one-syllabled",
+    "It is authoritatively declared",
+    "It gives all prosperity"
+   ],
+   "inference": "This one-syllabled mantra is declared to grant all prosperity.",
+   "uncertainties": [
+    "The specific syllable is not stated in this verse"
+   ],
+   "plain_english": "This one-syllabled mantra is declared to grant all prosperity."
+  },
+  {
+   "verse": 10493,
+   "rows": [
+    {
+     "surface": "āṃ hrīṃ jroṃ kroṃ hrāṃ phaḍ",
+     "gloss": "āṃ-hrīṃ-jroṃ-kroṃ-hrāṃ-phaḍ",
+     "grounds": "mantra syllables given as a unit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍ+arṇo",
+     "gloss": "six-syllabled",
+     "grounds": "mantra structure; compound ṣaṣ+arṇa",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg past-pass-part √īr"
+    }
+   ],
+   "question": "What is the form of the declared six-syllabled mantra?",
+   "premises": [
+    "The syllables āṃ hrīṃ jroṃ kroṃ hrāṃ phaḍ are given",
+    "The mantra is described as six-syllabled",
+    "It is authoritatively declared"
+   ],
+   "inference": "The mantra declared as six-syllabled consists of āṃ, hrīṃ, jroṃ, kroṃ, hrāṃ, and phaḍ.",
+   "uncertainties": [],
+   "plain_english": "Thus the six-syllabled mantra is declared: āṃ hrīṃ jroṃ kroṃ hrāṃ phaḍ."
+  },
+  {
+   "verse": 10494,
+   "rows": [
+    {
+     "surface": "mantra",
+     "gloss": "with-mantra",
+     "grounds": "instrumental element; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaiḥ",
+     "gloss": "syllables",
+     "grounds": "components used",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "aṅga+ṣaṭkaṃ",
+     "gloss": "six-limbs",
+     "grounds": "ritual body assignment; compound aṅga+ṣaṭka",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior ritual act",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "visualization practice",
+     "morph": "3.sg.act-opt √dhyai"
+    },
+    {
+     "surface": "nṛsiṃhakam",
+     "gloss": "on-man-lion",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What preparatory act precedes meditation on Nṛsiṃha?",
+   "premises": [
+    "The six limbs are formed with mantra syllables",
+    "This is done before meditation",
+    "Nṛsiṃha is the object of meditation"
+   ],
+   "inference": "After forming the six limbs with the mantra syllables, one should meditate on Nṛsiṃha.",
+   "uncertainties": [],
+   "plain_english": "Having formed the six limbs with the mantra syllables, one should meditate on Nṛsiṃha."
+  },
+  {
+   "verse": 10495,
+   "rows": [
+    {
+     "surface": "soma",
+     "gloss": "moon",
+     "grounds": "one eye; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "one eye; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "one eye; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netraḥ",
+     "gloss": "eyed",
+     "grounds": "having eyes; compound soma+sūrya+agni+netra",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānā",
+     "gloss": "with-various",
+     "grounds": "diversity; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇi",
+     "gloss": "jewel",
+     "grounds": "ornament; compound member",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhūṣitaḥ",
+     "gloss": "adorned",
+     "grounds": "decorated state; compound nānā+maṇi+vibhūṣita",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What visual attributes characterize Nṛsiṃha in meditation?",
+   "premises": [
+    "Nṛsiṃha has moon, sun, and fire as eyes",
+    "He is adorned with various jewels",
+    "These are attributes for visualization"
+   ],
+   "inference": "In meditation Nṛsiṃha is visualized with moon, sun, and fire as eyes and adorned with various jewels.",
+   "uncertainties": [],
+   "plain_english": "He has the moon, sun, and fire as his eyes and is adorned with various jewels."
+  },
+  {
+   "verse": 10496,
+   "rows": [
+    {
+     "surface": "vajraṃ",
+     "gloss": "thunderbolt",
+     "grounds": "weapon held",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gadāṃ",
+     "gloss": "mace",
+     "grounds": "weapon held",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dārayantaṃ",
+     "gloss": "tearing",
+     "grounds": "action performed",
+     "morph": "m.acc.sg pres-act-part √dṛ"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "with-two",
+     "grounds": "two hands or means",
+     "morph": "f.inst.dual"
+    },
+    {
+     "surface": "daitya+īśvara",
+     "gloss": "of-demon-lord",
+     "grounds": "victim; compound daitya+īśvara",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "udaram",
+     "gloss": "belly",
+     "grounds": "part torn",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What violent act defines Nṛsiṃha's iconography in this meditation?",
+   "premises": [
+    "Nṛsiṃha holds a thunderbolt and a mace",
+    "He tears with two hands",
+    "He tears the belly of the demon lord"
+   ],
+   "inference": "Nṛsiṃha is visualized holding a thunderbolt and mace while tearing open the demon lord's belly with two hands.",
+   "uncertainties": [],
+   "plain_english": "He holds a thunderbolt and a mace, tearing open the belly of the lord of demons with two hands."
+  },
+  {
+   "verse": 10497,
+   "rows": [
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "location or context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "absolutive √pūj"
+    },
+    {
+     "surface": "nṛ+hariṃ",
+     "gloss": "man-lion",
+     "grounds": "deity worshipped; compound nṛ+hari",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "perform action",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "āvaraṇa+arcanam",
+     "gloss": "enclosure-worship",
+     "grounds": "ritual of surrounding deities; compound āvaraṇa+arcana",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What ritual follows the worship of Nṛhari in that context?",
+   "premises": [
+    "Nṛhari is first worshipped",
+    "The worship occurs in that context",
+    "Enclosure worship is then performed"
+   ],
+   "inference": "After worshipping Nṛhari there, one should perform the worship of the enclosures.",
+   "uncertainties": [
+    "The referent of tasyāṃ is implied from prior context"
+   ],
+   "plain_english": "Having worshipped Nṛhari there, one should perform the worship of the enclosures."
+  },
+  {
+   "verse": 10498,
+   "rows": [
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "location relative to center; compound tad+bāhya",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "ṣaḍ+daleṃ",
+     "gloss": "in-six-petals",
+     "grounds": "lotus enclosure; compound ṣaṣ+dala",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "'ṅgāni",
+     "gloss": "limbs",
+     "grounds": "six ritual limbs",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tat+astrāṇi",
+     "gloss": "his-weapons",
+     "grounds": "weapons of deity; compound tad+astra",
+     "morph": "n.acc.pl (compound)"
+    },
+    {
+     "surface": "aṣṭa+patrake",
+     "gloss": "in-eight-petals",
+     "grounds": "lotus enclosure; compound aṣṭa+patraka",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "Where are the limbs and weapons placed in the enclosure worship?",
+   "premises": [
+    "The limbs are placed in the six-petaled enclosure outside that",
+    "The weapons are placed in the eight-petaled enclosure",
+    "These are parts of enclosure worship"
+   ],
+   "inference": "The limbs are worshipped in the six-petaled enclosure and the weapons in the eight-petaled enclosure.",
+   "uncertainties": [],
+   "plain_english": "Outside that, in the six-petaled lotus are the limbs, and in the eight-petaled lotus are his weapons."
+  },
+  {
+   "verse": 10499,
+   "rows": [
+    {
+     "surface": "khaḍgaṃ",
+     "gloss": "sword",
+     "grounds": "weapon",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kheṭaṃ",
+     "gloss": "shield",
+     "grounds": "weapon",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "location relative to prior enclosure; compound tad+bāhya",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "bhū+puraṃ",
+     "gloss": "ground-enclosure",
+     "grounds": "outer ritual boundary; compound bhū+pura",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dik+īśvarān",
+     "gloss": "direction-lords",
+     "grounds": "guardians of directions; compound diś+īśvara",
+     "morph": "m.acc.pl (compound)"
+    }
+   ],
+   "question": "What elements are placed in the outermost enclosure of the worship?",
+   "premises": [
+    "The sword and shield are placed outside that",
+    "The ground enclosure is included",
+    "The lords of the directions are placed there"
+   ],
+   "inference": "Outside that are the sword and shield, and in the ground enclosure are the lords of the directions.",
+   "uncertainties": [],
+   "plain_english": "Outside that are the sword and shield, and then in the ground enclosure are the lords of the directions."
+  }
+ ]
+}

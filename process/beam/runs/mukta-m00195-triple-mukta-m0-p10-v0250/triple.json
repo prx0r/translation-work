@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "kaulikavastūnāṃ",
+     "gloss": "of-kaulika-substances",
+     "grounds": "genitive plural of compound kaulika-vastu, indicating the materials belonging to kaula practice",
+     "morph": "kaulika+vastu.compound m.gen.pl"
+    },
+    {
+     "surface": "piṇḍāḥ",
+     "gloss": "masses",
+     "grounds": "nominative plural subject denoting formed lumps or balls",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction adding to the preceding ritual description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudhirokṣitāḥ",
+     "gloss": "blood-sprinkled",
+     "grounds": "compound rudhira-ukṣita describing the masses as sprinkled with blood",
+     "morph": "rudhira+ukṣita.compound m.nom.pl"
+    }
+   ],
+   "question": "How are the masses of kaulika substances ritually prepared in this context?",
+   "premises": [
+    "Kaulika substances are formed into masses.",
+    "These masses undergo a specific ritual treatment.",
+    "The treatment involves sprinkling with blood."
+   ],
+   "inference": "The masses of kaulika substances are ritually prepared by being sprinkled with blood.",
+   "uncertainties": [
+    "The exact nature and composition of the kaulika substances are not specified in this verse."
+   ],
+   "plain_english": "And the masses of kaulika substances are sprinkled with blood."
+  }
+ ]
+}

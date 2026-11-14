@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "bījam",
+     "gloss": "seed-syllable",
+     "grounds": "object of recitation; mantra seed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the seed-syllable",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prathamam",
+     "gloss": "first",
+     "grounds": "indicates initial or primary recitation",
+     "morph": "adv"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "ten-times",
+     "grounds": "specifies the number of repetitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive injunction for mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "In what manner must this seed-syllable be recited at the outset, O great goddess?",
+   "premises": [
+    "The verse addresses the great goddess directly.",
+    "The verse prescribes recitation of this seed-syllable.",
+    "The recitation is specified as first and tenfold."
+   ],
+   "inference": "Therefore, this seed-syllable should first be recited ten times.",
+   "uncertainties": [
+    "The specific bīja syllable referred to by 'etat bījam' depends on prior context."
+   ],
+   "plain_english": "O great goddess, one should first recite this seed-syllable ten times."
+  }
+ ]
+}

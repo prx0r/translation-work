@@ -1,0 +1,87 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "net-p03",
+ "work": "netratantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "L2_CITE_FAIL 6",
+  "DATA_OBJECTS 6 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "debf40b67a2bb002",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 75
+ },
+ "align": {
+  "min_ratio": 0.988,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 81,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "sudhūpitaṃ kṛtvā ityarthaḥ anyat spaṣṭam",
+   "castvarthe ayute daśasāhasre",
+   "dehoccāṭanādikarmabhedena śiṣṭamiti trikoṇaṣaṭkoṇādirūpam",
+   "śivāgnistadāpādanam tridhā bhramaṇaṃ ca praṇavenaiva",
+   "samānatantrāpekṣatvāt evamuttaratrāpi",
+   "vidhānamanantaraṃ bhaviṣyati kṣīravṛkṣaḥ śvetārkādiḥ"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[net-p03-v59]: cite part not byte-exact in source: sudhūpitaṃ kṛtvā ityarthaḥ anyat spaṣṭam",
+   "l2[net-p03-v62]: cite part not byte-exact in source: castvarthe ayute daśasāhasre",
+   "l2[net-p03-v64]: cite part not byte-exact in source: dehoccāṭanādikarmabhedena śiṣṭamiti trikoṇaṣaṭkoṇādirūpam",
+   "l2[net-p03-v69]: cite part not byte-exact in source: śivāgnistadāpādanam tridhā bhramaṇaṃ ca praṇavenaiva",
+   "l2[net-p03-v72]: cite part not byte-exact in source: samānatantrāpekṣatvāt evamuttaratrāpi",
+   "l2[net-p03-v74]: cite part not byte-exact in source: vidhānamanantaraṃ bhaviṣyati kṣīravṛkṣaḥ śvetārkādiḥ"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 75,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "417845b4a813297e007b62d4fa8d0612ee0d9ad79aa2fb7c23d410ac4b022bcf",
+  "l0": "76c4ec0b059c81c1936bb0d15ed5bdb0e11ac21211a07e4028ed7432e06394ba",
+  "argmap": "7a00051167dd805676cafc2bbed38f0c72ed1d9cad1b53478246dda70e390987",
+  "l2": "7f7d84cf71e5a917b4a6cf219f31f43b80651d73081880859c8b408ef4737023",
+  "c1": "439bdd919c4a7c0c54f85edb2f5b15f1dd55d67aef953ab72c52959204bf666b"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "debf40b67a2bb002",
+  "t1": "net-p03/data/net-p03.t1.json",
+  "l0": "net-p03/data/net-p03.l0.json",
+  "l2": "net-p03/data/net-p03.l2.json",
+  "c1": "net-p03/data/net-p03.c1.json"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "devatāprītaye",
+     "gloss": "for-deity-pleasure",
+     "grounds": "dative of purpose expressing aim of the rite",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "adverbial temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpet",
+     "gloss": "resolve",
+     "grounds": "optative or imperative form of saṃkalp",
+     "morph": "3.sg.act.opt (root saṃkalp)"
+    },
+    {
+     "surface": "prāgudaṅmukhaḥ",
+     "gloss": "east-north-facing",
+     "grounds": "compound describing practitioner's orientation",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What orientation and preliminary resolve are required for deity pleasure?",
+   "premises": [
+    "Deity pleasure requires preliminary resolve.",
+    "Practitioner faces east or north."
+   ],
+   "inference": "Resolve first while facing east-north for deity pleasure.",
+   "uncertainties": [
+    "Mood of saṃkalpet is not fully certain."
+   ],
+   "plain_english": "First resolve, facing east or north, for the pleasure of the deity."
+  }
+ ]
+}

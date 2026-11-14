@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "parākrama+paraḥ",
+     "gloss": "supreme-in-power",
+     "grounds": "compound describing the agent as devoted to or supreme in power/valor",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "enjoys",
+     "grounds": "experiential enjoyment or realization of one's nature",
+     "morph": "3.sg.middle-present √bhuj"
+    },
+    {
+     "surface": "svabhāvam",
+     "gloss": "own-nature",
+     "grounds": "inherent essential nature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aśiva",
+     "gloss": "inauspiciousness",
+     "grounds": "that which is not auspicious or beneficial",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "apaham",
+     "gloss": "removing",
+     "grounds": "dispelling or destroying, qualifying svabhāvam",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What nature does the one supreme in power come to enjoy?",
+   "premises": [
+    "The agent is characterized as supreme in power.",
+    "This agent enjoys their own inherent nature.",
+    "The enjoyed nature removes inauspiciousness."
+   ],
+   "inference": "Supreme power culminates in the enjoyment of an own-nature that dispels inauspiciousness.",
+   "uncertainties": [
+    "The precise nuance of parākrama+paraḥ (supreme in valor versus devoted to supreme power) is context-dependent."
+   ],
+   "plain_english": "The one supreme in power enjoys their own nature, which removes all inauspiciousness."
+  }
+ ]
+}

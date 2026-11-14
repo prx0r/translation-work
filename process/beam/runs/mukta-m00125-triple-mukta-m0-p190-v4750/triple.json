@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p190",
+ "items": [
+  {
+   "verse": 4750,
+   "rows": [
+    {
+     "surface": "prasādasya",
+     "gloss": "of-the-shrine",
+     "grounds": "From context: installation around a prasāda/sanctuary; genitive indicating location/association (of the shrine).",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "Locative plural indicating placement in the four directions around the shrine.",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vahnāvīśe'tha",
+     "gloss": "in-fire-in-īśa-then",
+     "grounds": "Fused token as given (sandhi fusion marked in form by elision); conveys placement in the fire direction and in the Īśa direction, followed by 'then' in sequence of installation steps.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭapāḥ",
+     "gloss": "pavilions",
+     "grounds": "Nominative plural subject/object in this procedural list: pavilions to be set up/placed.",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "In which directional locations around the shrine are the pavilions to be established in this installation step?",
+   "premises": [
+    "Pavilions are designated for placement in this rite.",
+    "Placement is specified relative to the shrine in multiple directions.",
+    "Directional placements include the fire direction and the Īśa direction in sequence."
+   ],
+   "inference": "The verse directs that pavilions be set up in the four directions of the shrine and then in the fire and Īśa directions as part of the installation procedure.",
+   "uncertainties": [
+    "Exact mapping of vahnāvīśe'tha into two locatives plus 'atha' is inferred from the legacy hint and context; internal sandhi boundaries not split because token is fused as given."
+   ],
+   "plain_english": "Pavilions are to be placed in the four directions of the shrine, and then in the fire direction and in the Īśa direction."
+  }
+ ]
+}

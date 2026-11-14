@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p560",
+ "items": [
+  {
+   "verse": 14000,
+   "rows": [
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral qualifying the syllable-count of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arṇa",
+     "gloss": "syllable",
+     "grounds": "first member of compound denoting a twelve-syllable mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "applications",
+     "grounds": "ritual applications or employments of the mantra",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikhilān",
+     "gloss": "all",
+     "grounds": "qualifies the applications as complete or without omission",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "anaphoric reference to the applications",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating the ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-to-perform",
+     "grounds": "injunctive instruction to have the applications carried out",
+     "morph": "3.sg.optative-causative-active √kṛ"
+    }
+   ],
+   "question": "Must all applications of the twelve-syllable mantra be performed in that context?",
+   "premises": [
+    "The applications pertain to a twelve-syllable mantra.",
+    "All those applications are included without exception.",
+    "The instruction requires causing them to be performed there."
+   ],
+   "inference": "Therefore, every application of the twelve-syllable mantra must be carried out in that context.",
+   "uncertainties": [
+    "The specific referent of tatra depends on the preceding ritual context."
+   ],
+   "plain_english": "And there one should have all those applications of the twelve-syllable mantra performed."
+  }
+ ]
+}

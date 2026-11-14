@@ -1,0 +1,525 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1063,
+   "rows": [
+    {
+     "surface": "karanyāse",
+     "gloss": "in-hand-nyasa",
+     "grounds": "locative form of karanyāsa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "hand",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "passive participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-deity",
+     "grounds": "genitive relation",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "karamātrakam",
+     "gloss": "hand-only",
+     "grounds": "compound meaning hand-alone",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is known as the hand in hand-nyasa?",
+   "premises": [
+    "hand-nyasa concerns deity's hand",
+    "only hand is known",
+    "deity relation is stated"
+   ],
+   "inference": "In hand-nyasa the hand alone is known as the deity's hand.",
+   "uncertainties": [
+    "exact case of karanyāse"
+   ],
+   "plain_english": "In hand-nyasa, the hand alone is known as the deity's hand."
+  },
+  {
+   "verse": 1064,
+   "rows": [
+    {
+     "surface": "varṇanyāse",
+     "gloss": "in-varna-nyasa",
+     "grounds": "locative form",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "deho",
+     "gloss": "body",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "devamayo",
+     "gloss": "deity-filled",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular verb",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What becomes of the body in varna-nyasa?",
+   "premises": [
+    "varna-nyasa is addressed",
+    "body is subject",
+    "deity-filled result stated"
+   ],
+   "inference": "In varna-nyasa the body becomes filled with deity.",
+   "uncertainties": [
+    "exact gender of deho"
+   ],
+   "plain_english": "In varna-nyasa, O great goddess, the body becomes filled with deity."
+  },
+  {
+   "verse": 1065,
+   "rows": [
+    {
+     "surface": "so'haṃ+jñānena",
+     "gloss": "by-so-ham-knowledge",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "ṛṣyahaṃ",
+     "gloss": "rishi-i",
+     "grounds": "compound form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "paricintayet",
+     "gloss": "should-contemplate",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should one contemplate by so-ham knowledge?",
+   "premises": [
+    "so-ham knowledge is instrument",
+    "goddess is addressed",
+    "rishi-i is contemplated"
+   ],
+   "inference": "By so-ham knowledge one should contemplate the rishi-i.",
+   "uncertainties": [
+    "compound segmentation of ṛṣyahaṃ"
+   ],
+   "plain_english": "By so-ham knowledge, O goddess of gods, one should contemplate the rishi-i."
+  },
+  {
+   "verse": 1066,
+   "rows": [
+    {
+     "surface": "taddehaṃ",
+     "gloss": "that-body",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "devatārūpaṃ",
+     "gloss": "deity-form",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "so'haṃ+jñānaṃ",
+     "gloss": "so-ham-knowledge",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is that body deity-form and so-ham knowledge?",
+   "premises": [
+    "that body is object",
+    "deity-form is predicated",
+    "so-ham knowledge is stated",
+    "always and when are given"
+   ],
+   "inference": "That body is deity-form and so-ham knowledge always, when the condition holds.",
+   "uncertainties": [
+    "exact syntactic relation of yadā"
+   ],
+   "plain_english": "That body is deity-form and so-ham knowledge always, when applicable."
+  },
+  {
+   "verse": 1067,
+   "rows": [
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsajālena",
+     "gloss": "by-nyasa-net",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "saptaite",
+     "gloss": "these-seven",
+     "grounds": "nominative plural",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "devarūpiṇaḥ",
+     "gloss": "deity-formed",
+     "grounds": "nominative plural adjective",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What are these seven through the nyasa net?",
+   "premises": [
+    "sevenfold is stated",
+    "nyasa-net is instrument",
+    "these seven are subject",
+    "deity-formed is predicated"
+   ],
+   "inference": "These seven become deity-formed through the sevenfold nyasa net.",
+   "uncertainties": [
+    "exact referent of saptaite"
+   ],
+   "plain_english": "These seven become deity-formed through the sevenfold nyasa net."
+  },
+  {
+   "verse": 1068,
+   "rows": [
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrayenmantrī",
+     "gloss": "mantra-should-recite",
+     "grounds": "fused verb form",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "kyāpakanyāsakaṃ",
+     "gloss": "pervasion-nyasa",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shive",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What should the mantra-reciter do sevenfold?",
+   "premises": [
+    "sevenfold is stated",
+    "mantra-reciter is subject",
+    "pervasion-nyasa is object",
+    "shive is addressed"
+   ],
+   "inference": "The mantra-reciter should recite pervasion-nyasa sevenfold, O Shive.",
+   "uncertainties": [
+    "fused form mantrayenmantrī"
+   ],
+   "plain_english": "The mantra-reciter should recite pervasion-nyasa sevenfold, O Shive."
+  },
+  {
+   "verse": 1069,
+   "rows": [
+    {
+     "surface": "bhaktyāpi",
+     "gloss": "even-by-devotion",
+     "grounds": "instrumental with api",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "yaddīyamānaṃ",
+     "gloss": "whatever-is-given",
+     "grounds": "relative participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "gṛhṇāti",
+     "gloss": "accepts",
+     "grounds": "third singular verb",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "o-lady-of-family",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What does the lady of the family accept?",
+   "premises": [
+    "devotion is instrument",
+    "whatever is given is relative",
+    "that is accepted",
+    "lady of family is addressed"
+   ],
+   "inference": "Even by devotion, whatever is given, that is accepted, O lady of the family.",
+   "uncertainties": [
+    "exact referent of tad"
+   ],
+   "plain_english": "Even by devotion, whatever is given, that is accepted, O lady of the family."
+  },
+  {
+   "verse": 1070,
+   "rows": [
+    {
+     "surface": "ādhāre",
+     "gloss": "in-support",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "by-manu",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive verb",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done after placing in support?",
+   "premises": [
+    "support is locative",
+    "manu is instrumental",
+    "having placed is stated",
+    "should satisfy is verb",
+    "thereafter is adverb"
+   ],
+   "inference": "After placing by manu in support, one should satisfy thereafter.",
+   "uncertainties": [
+    "object of tarpayet"
+   ],
+   "plain_english": "After placing by manu in support, one should satisfy thereafter."
+  },
+  {
+   "verse": 1071,
+   "rows": [
+    {
+     "surface": "guruśaktiṃ",
+     "gloss": "guru-power",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tarpayitvā",
+     "gloss": "having-satisfied",
+     "grounds": "absolutive verb",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "sveṣṭadevīñca",
+     "gloss": "and-own-desired-goddess",
+     "grounds": "accusative compound with ca",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Whom should one satisfy after guru-power?",
+   "premises": [
+    "guru-power is object",
+    "having satisfied is stated",
+    "own desired goddess is object",
+    "should satisfy is verb"
+   ],
+   "inference": "Having satisfied guru-power, one should satisfy one's own desired goddess.",
+   "uncertainties": [
+    "exact scope of ca"
+   ],
+   "plain_english": "Having satisfied guru-power, one should satisfy one's own desired goddess."
+  },
+  {
+   "verse": 1072,
+   "rows": [
+    {
+     "surface": "gurorājñānusāreṇa",
+     "gloss": "according-to-guru-command",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "tacchaktiramaṇañcaret",
+     "gloss": "should-enjoy-that-shakti",
+     "grounds": "fused verb form",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done according to guru command?",
+   "premises": [
+    "guru command is instrumental",
+    "that shakti enjoyment is verb"
+   ],
+   "inference": "According to guru command, one should enjoy that shakti.",
+   "uncertainties": [
+    "fused form tacchaktiramaṇañcaret"
+   ],
+   "plain_english": "According to guru command, one should enjoy that shakti."
+  },
+  {
+   "verse": 1073,
+   "rows": [
+    {
+     "surface": "gurorājñānusāreṇa",
+     "gloss": "according-to-guru-command",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive verb",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "kriyāñcaret",
+     "gloss": "should-perform-action",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be performed after giving vessel?",
+   "premises": [
+    "guru command is instrumental",
+    "vessel is object",
+    "having given is stated",
+    "should perform action is verb"
+   ],
+   "inference": "According to guru command, having given vessel, one should perform action.",
+   "uncertainties": [
+    "exact action intended"
+   ],
+   "plain_english": "According to guru command, having given vessel, one should perform action."
+  },
+  {
+   "verse": 1074,
+   "rows": [
+    {
+     "surface": "vivāhaṃ",
+     "gloss": "marriage",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bandhanaṃ",
+     "gloss": "bondage",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "passive participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vartistho",
+     "gloss": "in-vessel",
+     "grounds": "locative compound",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "vahnivat",
+     "gloss": "like-fire",
+     "grounds": "indeclinable simile",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-dear",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What is marriage known as in the vessel?",
+   "premises": [
+    "marriage is object",
+    "bondage is object",
+    "to-be-known is stated",
+    "in-vessel is locative",
+    "like-fire is simile",
+    "dear is addressed"
+   ],
+   "inference": "Marriage is known as bondage in the vessel, like fire, O dear.",
+   "uncertainties": [
+    "exact relation of vivāhaṃ and bandhanaṃ"
+   ],
+   "plain_english": "Marriage is known as bondage in the vessel, like fire, O dear."
+  }
+ ]
+}

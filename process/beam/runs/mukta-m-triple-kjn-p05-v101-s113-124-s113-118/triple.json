@@ -1,0 +1,287 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsād",
+     "gloss": "from-six-months",
+     "grounds": "ablative of time",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "abhyased",
+     "gloss": "should-practice",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṣāyaṃ",
+     "gloss": "ochre-robe",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bandha+varjitam",
+     "gloss": "free-from-bondage",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Who becomes freed from bondage after six months of practice without an ochre robe?",
+   "premises": [
+    "Six months of practice is prescribed.",
+    "The practitioner avoids ochre robe.",
+    "Freedom from bondage follows."
+   ],
+   "inference": "The verse identifies the qualified practitioner by duration and absence of ochre robe.",
+   "uncertainties": [
+    "Exact ablative sense of ṣaṇmāsād."
+   ],
+   "plain_english": "Whoever practices for six months without an ochre robe becomes free from bondage."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "sarva+vyādhi+vinirmukto",
+     "gloss": "freed-from-all-diseases",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "with-yogis",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "saha+melakam",
+     "gloss": "together-union",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What happens to one freed from all diseases in relation to yogis?",
+   "premises": [
+    "Freedom from all diseases is attained.",
+    "Union with yogis is mentioned.",
+    "The result is communal practice."
+   ],
+   "inference": "The verse links bodily freedom to joining yogis.",
+   "uncertainties": [
+    "Whether melakam means meeting or union."
+   ],
+   "plain_english": "Freed from all diseases, one has union with yogis."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "2sg.dat"
+    },
+    {
+     "surface": "jīva+abhyāsaṃ",
+     "gloss": "practice-of-soul",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "2sg.dat"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavi",
+     "gloss": "o-bhairavī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What practice has just been explained to Bhairavi?",
+   "premises": [
+    "The speaker addresses Bhairavi.",
+    "A practice of the soul is mentioned.",
+    "The teaching is declared told."
+   ],
+   "inference": "The verse closes the instruction on soul practice.",
+   "uncertainties": [
+    "Whether kathitaṃ agrees with etat or jīvābhyāsa."
+   ],
+   "plain_english": "This practice of the soul has been told to you, O Bhairavi."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "sarva+bhāva+upapannasya",
+     "gloss": "to-one-endowed-with-all-states",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛta+niścaye",
+     "gloss": "to-one-of-resolved-mind",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "To whom should the kaula essence be given?",
+   "premises": [
+    "The recipient is endowed with all states.",
+    "The recipient has a resolved mind.",
+    "The essence is to be given."
+   ],
+   "inference": "The verse restricts transmission to a qualified and resolved recipient.",
+   "uncertainties": [
+    "Whether kṛtaniścaye is locative or dative."
+   ],
+   "plain_english": "It should be given to one endowed with all states and of resolved mind."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulikaṃ",
+     "gloss": "kaula",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sāraṃ",
+     "gloss": "essence",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yoginīnām",
+     "gloss": "of-yoginīs",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhavam",
+     "gloss": "origin",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kaula essence should not be given even if it originates from yoginis?",
+   "premises": [
+    "The kaula essence is mentioned.",
+    "It originates from yoginis.",
+    "It is declared not to be given."
+   ],
+   "inference": "The verse prohibits giving this essence despite its yogini origin.",
+   "uncertainties": [
+    "Whether sambhavam modifies sāraṃ or kaulikaṃ."
+   ],
+   "plain_english": "The kaula essence originating from yoginis should not be given."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "1sg.gen"
+    },
+    {
+     "surface": "nirmalaṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deham",
+     "gloss": "body",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ajñāna+paṭala+āhatam",
+     "gloss": "struck-by-veil-of-ignorance",
+     "grounds": "compound participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What has struck the speaker's pure body today?",
+   "premises": [
+    "The speaker refers to today.",
+    "The body is called pure.",
+    "It is struck by a veil of ignorance."
+   ],
+   "inference": "The verse states that ignorance's veil affects the otherwise pure body.",
+   "uncertainties": [
+    "Whether me is genitive or dative."
+   ],
+   "plain_english": "Today my pure body has been struck by the veil of ignorance."
+  }
+ ]
+}

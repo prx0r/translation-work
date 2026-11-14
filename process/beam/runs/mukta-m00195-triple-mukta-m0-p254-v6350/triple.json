@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p254",
+ "items": [
+  {
+   "verse": 6350,
+   "rows": [
+    {
+     "surface": "ṣoḍaśasaṃkhyāni",
+     "gloss": "sixteen-in-number",
+     "grounds": "compound ṣoḍaśa-saṃkhyāni qualifying catuṣkāṇi",
+     "morph": "compound: ṣoḍaśa+saṃkhyāni; n.nom.pl"
+    },
+    {
+     "surface": "catuṣkāṇi",
+     "gloss": "sets-of-four",
+     "grounds": "subject denoting groups of four",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are",
+     "grounds": "predicate indicating resulting quantity",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle adding to previously stated counts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity of fourfold groups arises in this ritual arrangement?",
+   "premises": [
+    "The context establishes preceding counts of groups.",
+    "The verse specifies groups characterized as fourfold.",
+    "The verse assigns a numerical total to these groups."
+   ],
+   "inference": "The arrangement yields sixteen sets of four.",
+   "uncertainties": [],
+   "plain_english": "There are also sixteen sets of four."
+  }
+ ]
+}

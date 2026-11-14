@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "taṇḍulabrīhisidhārthatilodakam",
+     "gloss": "rice-barley-mustard-sesame-water",
+     "grounds": "compound listing ritual substances as an alternative set",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-even",
+     "grounds": "indeclinable introducing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable marking an alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternative combination of grains and water is permissible for the ritual offering?",
+   "premises": [
+    "Previous verses specify combinations of water, milk, kuśa tips, grains, and flowers.",
+    "Ritual prescriptions allow alternative sets of substances.",
+    "Rice, barley, mustard, sesame, and water form a valid alternative set."
+   ],
+   "inference": "Rice, barley, mustard, sesame, and water may be used as an alternative combination.",
+   "uncertainties": [
+    "The exact ritual action for which this combination is used is supplied by the surrounding context."
+   ],
+   "plain_english": "Alternatively, one may use rice, barley, mustard, sesame, and water."
+  }
+ ]
+}

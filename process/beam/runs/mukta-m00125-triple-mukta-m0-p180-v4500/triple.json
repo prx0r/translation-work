@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p180",
+ "items": [
+  {
+   "verse": 4500,
+   "rows": [
+    {
+     "surface": "sārdha dvayāṃśa",
+     "gloss": "with-half-two-parts",
+     "grounds": "compound indicating one-and-a-half parts as a proportional measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaikāṃśa",
+     "gloss": "one-part",
+     "grounds": "compound indicating a single part as a proportional measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "indicates equality of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "first member of compound denoting the wall",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "extent",
+     "grounds": "subject denoting the breadth or extent of the wall",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are permitted for the extent of the wall?",
+   "premises": [
+    "The wall extent may measure one-and-a-half parts.",
+    "The wall extent may measure one part.",
+    "The wall extent may be equal in measure."
+   ],
+   "inference": "The extent of the wall is permitted in alternative proportions of one-and-a-half parts, one part, or equal measure.",
+   "uncertainties": [],
+   "plain_english": "The extent of the wall may be one-and-a-half parts, one part, or equal."
+  }
+ ]
+}

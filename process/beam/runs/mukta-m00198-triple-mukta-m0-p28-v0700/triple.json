@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral indicating the factor of increase",
+     "morph": "numeral"
+    },
+    {
+     "surface": "vṛddhyā",
+     "gloss": "by-increase",
+     "grounds": "instrument expressing the operation of augmentation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "parithau",
+     "gloss": "in-circumference",
+     "grounds": "locative indicating the domain of adjustment; form uncertain",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "cubit",
+     "grounds": "unit of measure affected by the calculation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saptasaṃkhyā",
+     "gloss": "by-seven-number",
+     "grounds": "instrumental compound specifying the factor of decrease",
+     "morph": "f.inst.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast between operations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrāsayet",
+     "gloss": "one-should-decrease",
+     "grounds": "optative prescribing the corrective operation",
+     "morph": "3.sg.opt.act √hras"
+    }
+   ],
+   "question": "How do the factors nine and seven adjust the cubit measure in the circumference calculation?",
+   "premises": [
+    "An increase by nine applies in the circumference context.",
+    "The measure involved is expressed in cubits.",
+    "A decrease by the number seven is prescribed as a contrasting adjustment."
+   ],
+   "inference": "The cubit measure is adjusted upward by nine and downward by seven according to the stated rule.",
+   "uncertainties": [
+    "The exact meaning and base form of 'parithau' are unclear in this context.",
+    "The precise computational procedure linking these adjustments to the preceding verses is not fully specified."
+   ],
+   "plain_english": "By an increase of nine in the circumference, one obtains the cubit measure, but one should decrease it by seven."
+  }
+ ]
+}

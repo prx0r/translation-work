@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "samareṣu",
+     "gloss": "in-battles",
+     "grounds": "locative plural of samara (battle)",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "mahīpānāṃ",
+     "gloss": "of-kings",
+     "grounds": "genitive plural of mahīpa (king)",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "yantram",
+     "gloss": "diagram",
+     "grounds": "accusative singular of yantra (diagram)",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun neuter singular",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "past passive participle of ud-īr (declare)",
+     "morph": "nom/acc.sg.n-part"
+    }
+   ],
+   "question": "Which diagram for kings in battles is declared here?",
+   "premises": [
+    "a diagram is declared here",
+    "it is for kings",
+    "it concerns battles"
+   ],
+   "inference": "The verse identifies a declared diagram for kings in battles.",
+   "uncertainties": [
+    "the verse alone does not specify the diagram's ritual function"
+   ],
+   "plain_english": "This diagram is declared for kings in battles."
+  }
+ ]
+}

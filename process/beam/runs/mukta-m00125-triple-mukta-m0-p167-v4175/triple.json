@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p167",
+ "items": [
+  {
+   "verse": 4175,
+   "rows": [
+    {
+     "surface": "dvārāṇi",
+     "gloss": "doors",
+     "grounds": "object of worship context; entrances of the ritual space",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tat",
+     "gloss": "their",
+     "grounds": "refers to the doors; sandhi/compound relation with following term in context",
+     "morph": "pron.stem"
+    },
+    {
+     "surface": "patīn",
+     "gloss": "lords",
+     "grounds": "guardian deities of the doors",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "iṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action performed by the guru",
+     "morph": "gerund (√yaj)"
+    },
+    {
+     "surface": "samutthāpya",
+     "gloss": "having-raised",
+     "grounds": "subsequent ritual action of invoking or elevating",
+     "morph": "caus.gerund (sam-ud-√sthā)"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound qualifying īśvarīm",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśvarīm",
+     "gloss": "sovereign-goddess",
+     "grounds": "deity invoked after worship of door guardians",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which deities and actions must the guru address at the doors following the morning preparations?",
+   "premises": [
+    "The doors are ritually addressed as part of the sequence.",
+    "The lords associated with the doors are worshipped.",
+    "The great sovereign goddess is raised or invoked afterward."
+   ],
+   "inference": "After the morning preparations, the guru must worship the doors and their guardian lords and then raise the great sovereign goddess.",
+   "uncertainties": [
+    "The exact referent of tat in relation to patīn is contextually inferred as the doors' lords.",
+    "The precise ritual sense of samutthāpya (raising, awakening, or installing) depends on broader ritual context."
+   ],
+   "plain_english": "Having worshipped the doors and their lords, and having raised the great sovereign goddess."
+  }
+ ]
+}

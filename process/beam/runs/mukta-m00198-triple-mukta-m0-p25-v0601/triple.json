@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 601,
+   "rows": [
+    {
+     "surface": "patraṃ",
+     "gloss": "leaf",
+     "grounds": "object to be shaped or decorated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cettena",
+     "gloss": "by-that",
+     "grounds": "instrumental demonstrative referring to prior measure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "standard of proportion",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle indicating conformity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saundaryam",
+     "gloss": "beauty",
+     "grounds": "desired aesthetic quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-make",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act √ā-car"
+    }
+   ],
+   "question": "What proportional principle should guide the shaping of decorative leaf elements?",
+   "premises": [
+    "A leaf element is the object of work.",
+    "A stated measure provides the standard.",
+    "Beauty is the intended result."
+   ],
+   "inference": "The leaf element should be executed according to that measure so as to achieve beauty.",
+   "uncertainties": [
+    "The exact referent of cettena depends on the preceding context."
+   ],
+   "plain_english": "One should fashion the leaf element according to that measure so that it attains beauty."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "vallimaṇḍalacitrādyaiḥ",
+     "gloss": "creeper-circle-variegated-etc",
+     "grounds": "instrumental plural compound listing decorative motifs",
+     "morph": "n.ins.pl (compound)"
+    },
+    {
+     "surface": "bhūṣayet",
+     "gloss": "should-adorn",
+     "grounds": "prescriptive action of decoration",
+     "morph": "3.sg.opt.act √bhūṣ"
+    },
+    {
+     "surface": "mukhapaṭṭikā",
+     "gloss": "face-band",
+     "grounds": "architectural front band to be adorned",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "Which decorative motifs are prescribed for adorning the face band?",
+   "premises": [
+    "The face band is the object to be adorned.",
+    "Creeper, circular, and variegated motifs are specified.",
+    "Adornment is enjoined as a deliberate act."
+   ],
+   "inference": "The face band should be adorned with creeper, circular, variegated, and similar motifs.",
+   "uncertainties": [
+    "The full range covered by ādyaiḥ is not explicitly listed."
+   ],
+   "plain_english": "One should adorn the face band with creepers, circles, variegated designs, and similar motifs."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "śayitasthitapaṭṭyābhā",
+     "gloss": "lying-standing-band-like",
+     "grounds": "describes appearance resembling reclining or standing bands",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "mṛṇālyādi",
+     "gloss": "lotus-stalk-etc",
+     "grounds": "materials or motifs beginning with lotus stalks",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vibhūṣitam",
+     "gloss": "adorned",
+     "grounds": "state of being decorated",
+     "morph": "n.nom.sg (past-participle)"
+    }
+   ],
+   "question": "What appearance and materials characterize the prescribed decorated element here?",
+   "premises": [
+    "The element resembles lying or standing bands.",
+    "Lotus stalks and similar materials are used.",
+    "The element is described as adorned."
+   ],
+   "inference": "The element should appear like lying or standing bands and be adorned with lotus stalks and similar materials.",
+   "uncertainties": [
+    "The specific architectural element being described is implied by context."
+   ],
+   "plain_english": "It should look like reclining or standing bands and be adorned with lotus stalks and the like."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "mālikā",
+     "gloss": "garland",
+     "grounds": "decorative garland element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kūṭakoṣṭhādi",
+     "gloss": "kūṭa-koṣṭha-etc",
+     "grounds": "architectural features beginning with kūṭa and koṣṭha",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "maṇḍitaṃ",
+     "gloss": "adorned",
+     "grounds": "state of being ornamented",
+     "morph": "n.nom.sg (past-participle)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimānavat",
+     "gloss": "like-a-palace",
+     "grounds": "comparison to a vimāna structure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative forms of ornamentation are permitted for the garland element?",
+   "premises": [
+    "A garland element is under consideration.",
+    "It may be adorned with kūṭa, koṣṭha, and similar features.",
+    "It may alternatively resemble a palace structure."
+   ],
+   "inference": "The garland may be ornamented with kūṭa and koṣṭha features or made like a palace.",
+   "uncertainties": [
+    "The precise architectural meanings of kūṭa and koṣṭha depend on tradition."
+   ],
+   "plain_english": "The garland may be adorned with kūṭa, koṣṭha, and similar elements, or made to resemble a palace."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "sabhadrāṃ",
+     "gloss": "with-auspicious-part",
+     "grounds": "qualified by a bhadra projection",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahānāsī",
+     "gloss": "great-nose",
+     "grounds": "prominent nāsikā feature",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "pādasarvāṃgasundarāḥ",
+     "gloss": "foot-all-limb-beautiful",
+     "grounds": "beautiful in base and all parts",
+     "morph": "f.nom.pl (compound)"
+    }
+   ],
+   "question": "What qualities must the great nose feature possess in its construction?",
+   "premises": [
+    "The great nose is specified with a bhadra element.",
+    "Its base and all limbs should be beautiful.",
+    "The verse prescribes these qualities together."
+   ],
+   "inference": "The great nose should be made with a bhadra and be beautiful in its base and all parts.",
+   "uncertainties": [
+    "The grammatical agreement of pādasarvāṃgasundarāḥ with mahānāsī is contextually understood."
+   ],
+   "plain_english": "The great nose should have a bhadra and be beautiful in its base and all its parts."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "kalpayitvā",
+     "gloss": "having-fashioned",
+     "grounds": "prior act of constructing",
+     "morph": "(absolutive) √kḷp"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasis on careful execution",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "karottaradi",
+     "gloss": "hand-upper-measure",
+     "grounds": "measurement term for upper hand dimension",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "by-measure",
+     "grounds": "according to measurement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what standard of measurement should the construction be especially fashioned?",
+   "premises": [
+    "Construction is to be carried out first.",
+    "Special care is required.",
+    "The hand-upper measure is the stated standard."
+   ],
+   "inference": "After fashioning it, one should especially follow the hand-upper measure as the standard.",
+   "uncertainties": [
+    "The exact technical meaning of karottaradi is not fully explicit."
+   ],
+   "plain_english": "Having fashioned it, one should especially follow the hand-upper measure as the standard."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "nāsikāstaṃbhavistāraṃ",
+     "gloss": "nose-pillar-width",
+     "grounds": "width of the nose pillar",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "kaṇṭhottarāntamunnatam",
+     "gloss": "throat-upper-end-raised",
+     "grounds": "height raised up to the upper end of the throat",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What width and height limits define the nose pillar in this prescription?",
+   "premises": [
+    "The nose pillar has a specified width.",
+    "Its height extends to the upper end of the throat.",
+    "Both dimensions are prescribed together."
+   ],
+   "inference": "The nose pillar should have the stated width and be raised up to the upper end of the throat.",
+   "uncertainties": [
+    "The base unit for these dimensions is supplied by surrounding verses."
+   ],
+   "plain_english": "The nose pillar should have that width and be raised up to the upper end of the throat."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "nāsikāyāstu",
+     "gloss": "of-nose-but",
+     "grounds": "genitive of nose with specifying particle",
+     "morph": "f.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "vistārād",
+     "gloss": "from-width",
+     "grounds": "ablative indicating basis of measure",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-cubits",
+     "grounds": "measure of two daṇḍas",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridaṇḍakam",
+     "gloss": "three-cubits",
+     "grounds": "measure of three daṇḍas",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What alternative breadth measurements are allowed relative to the nose width?",
+   "premises": [
+    "The nose width serves as the basis.",
+    "Two daṇḍas is one permitted measure.",
+    "Three daṇḍas is an alternative measure."
+   ],
+   "inference": "Relative to the nose width, the measure may be two daṇḍas or three daṇḍas.",
+   "uncertainties": [
+    "Whether this applies to projection or another dimension is context-dependent."
+   ],
+   "plain_english": "From the width of the nose, the measure may be two daṇḍas or three daṇḍas."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "nāsikāṃghridvayormadhye",
+     "gloss": "nose-foot-two-between",
+     "grounds": "location between the nose and two feet",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "diṅmūrtisthāpanaṃ",
+     "gloss": "direction-image-placement",
+     "grounds": "installation of directional images",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative command to perform placement",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "Where must the placement of directional images be carried out?",
+   "premises": [
+    "Directional images are to be placed.",
+    "The specified location is between the nose and the two feet.",
+    "The verse gives a direct command."
+   ],
+   "inference": "One must place the directional images between the nose and the two feet.",
+   "uncertainties": [
+    "The exact architectural referents of nose and feet depend on the structure described."
+   ],
+   "plain_english": "Place the directional images between the nose and the two feet."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "sārdhadaṇḍaṃ",
+     "gloss": "one-and-half-cubits",
+     "grounds": "measure of one and a half daṇḍas",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-cubits",
+     "grounds": "measure of two daṇḍas",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "expanded",
+     "grounds": "breadth or extent",
+     "morph": "n.nom.sg (past-participle)"
+    }
+   ],
+   "question": "What alternative extents are prescribed for the expanded dimension here?",
+   "premises": [
+    "An expanded dimension is specified.",
+    "One and a half daṇḍas is permitted.",
+    "Two daṇḍas is an alternative."
+   ],
+   "inference": "The expanded dimension may be one and a half daṇḍas or two daṇḍas.",
+   "uncertainties": [
+    "The specific element whose extent is measured is implied by context."
+   ],
+   "plain_english": "The expanded extent may be one and a half daṇḍas or two daṇḍas."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "kapotālambanāt",
+     "gloss": "from-pigeon-support",
+     "grounds": "ablative indicating starting point at the kapota support",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "kakṣaṃ",
+     "gloss": "side-space",
+     "grounds": "the kakṣa architectural part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāsikoccaṃ",
+     "gloss": "nose-high",
+     "grounds": "as high as the nose",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-make",
+     "grounds": "prescriptive construction",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "From what point and to what height should the side space be constructed?",
+   "premises": [
+    "The kapota support is the starting point.",
+    "The kakṣa is the element to be made.",
+    "Its height should match the nose height."
+   ],
+   "inference": "One should construct the kakṣa from the kapota support up to the height of the nose.",
+   "uncertainties": [
+    "The technical identification of kakṣa varies in architectural texts."
+   ],
+   "plain_english": "From the kapota support, one should make the kakṣa as high as the nose."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "taduccaṃ",
+     "gloss": "that-height",
+     "grounds": "the height previously mentioned",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhābhajya",
+     "gloss": "into-three-dividing",
+     "grounds": "dividing into three parts",
+     "morph": "(absolutive) (compound)"
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "one of the three divisions",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "kaṇṭhamānakam",
+     "gloss": "throat-measure",
+     "grounds": "measure assigned to the throat",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "How should the stated height be divided to determine the throat measure?",
+   "premises": [
+    "The previously stated height is taken as the whole.",
+    "It is divided into three parts.",
+    "One part is assigned as the throat measure."
+   ],
+   "inference": "Dividing that height into three, one part should be taken as the throat measure.",
+   "uncertainties": [],
+   "plain_english": "Divide that height into three parts and take one part as the measure of the throat."
+  },
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "base or foot element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratikapoteṣu",
+     "gloss": "at-each-pigeon",
+     "grounds": "location at each kapota element",
+     "morph": "m.loc.pl (compound)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-make",
+     "grounds": "prescriptive construction",
+     "morph": "3.sg.opt.act √kḷp"
+    },
+    {
+     "surface": "svastikākṛtim",
+     "gloss": "svastika-shape",
+     "grounds": "form resembling a svastika",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What shape should the foot element take at each pigeon support?",
+   "premises": [
+    "A foot element is to be made.",
+    "The location is at each kapota.",
+    "The svastika shape is prescribed."
+   ],
+   "inference": "At each kapota one should make the foot element in the shape of a svastika.",
+   "uncertainties": [],
+   "plain_english": "At each kapota, one should fashion the foot element in the shape of a svastika."
+  },
+  {
+   "verse": 614,
+   "rows": [
+    {
+     "surface": "kalpayettu",
+     "gloss": "should-make-but",
+     "grounds": "prescriptive construction with emphatic particle",
+     "morph": "3.sg.opt.act √kḷp + (indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasis on special care",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śikhare",
+     "gloss": "at-peak",
+     "grounds": "location at the summit",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhadranāsikāḥ",
+     "gloss": "auspicious-noses",
+     "grounds": "bhadra-type nāsikā elements",
+     "morph": "f.acc.pl (compound)"
+    }
+   ],
+   "question": "What special nose elements should be fashioned at the peak of the structure?",
+   "premises": [
+    "Construction at the peak is specified.",
+    "Special care is required.",
+    "Bhadra-nāsikā elements are the prescribed objects."
+   ],
+   "inference": "One should especially fashion bhadra-nāsikā elements at the peak.",
+   "uncertainties": [],
+   "plain_english": "One should especially fashion auspicious bhadra-nāsikā elements at the peak."
+  },
+  {
+   "verse": 615,
+   "rows": [
+    {
+     "surface": "kalpayet",
+     "gloss": "should-make",
+     "grounds": "prescriptive construction",
+     "morph": "3.sg.opt.act √kḷp"
+    },
+    {
+     "surface": "paṃjarasthāne",
+     "gloss": "at-cage-place",
+     "grounds": "location at the pañjara position",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "mahānāsyākhya",
+     "gloss": "great-nose-named",
+     "grounds": "named as the great nose",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "nāsikā",
+     "gloss": "nose",
+     "grounds": "nāsikā architectural element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named nose element should be placed at the cage position?",
+   "premises": [
+    "The pañjara position is specified.",
+    "A nāsikā element is to be made there.",
+    "It is named the great nose."
+   ],
+   "inference": "At the pañjara position one should make the nāsikā called the great nose.",
+   "uncertainties": [
+    "The exact architectural meaning of pañjara depends on context."
+   ],
+   "plain_english": "At the pañjara position, one should fashion the nāsikā known as the great nose."
+  },
+  {
+   "verse": 616,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumat-kāśyapa",
+     "grounds": "colophon locating the text in the Aṃśumatkāśyapa",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "nāsikā",
+     "gloss": "nose",
+     "grounds": "topic of the chapter",
+     "morph": "f.nom.sg (compound-member)"
+    },
+    {
+     "surface": "lakṣaṇapaṭalaḥ",
+     "gloss": "characteristics-chapter",
+     "grounds": "chapter dealing with defining characteristics",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ekaviṃśaḥ",
+     "gloss": "twenty-first",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter title and number conclude this section of the Aṃśumatkāśyapa?",
+   "premises": [
+    "The text is identified as the Aṃśumatkāśyapa.",
+    "The chapter concerns the characteristics of the nāsikā.",
+    "It is numbered twenty-first."
+   ],
+   "inference": "This concludes the twenty-first chapter on the characteristics of the nāsikā in the Aṃśumatkāśyapa.",
+   "uncertainties": [
+    "The compound ityaṃśumānkāśyape may reflect transmission spelling."
+   ],
+   "plain_english": "Thus ends the twenty-first chapter, on the characteristics of the nāsikā, in the Aṃśumatkāśyapa."
+  },
+  {
+   "verse": 617,
+   "rows": [
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "temple",
+     "grounds": "synonym for a sacred building",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "house",
+     "grounds": "synonym for dwelling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadma",
+     "gloss": "abode",
+     "grounds": "synonym for residence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "harmyaṃ",
+     "gloss": "mansion",
+     "grounds": "synonym for large building",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "dwelling",
+     "grounds": "synonym for abode",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niketanam",
+     "gloss": "residence",
+     "grounds": "synonym for habitation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which synonymous terms are enumerated to designate a building or abode?",
+   "premises": [
+    "Multiple terms for a building are listed.",
+    "The terms include prāsāda, sadana, sadma, harmya, dhāma, and niketana.",
+    "They function as near-synonyms in this context."
+   ],
+   "inference": "The verse enumerates prāsāda, sadana, sadma, harmya, dhāma, and niketana as synonymous terms for a building.",
+   "uncertainties": [],
+   "plain_english": "Prāsāda, sadana, sadma, harmya, dhāma, and niketana are names for a building or abode."
+  },
+  {
+   "verse": 618,
+   "rows": [
+    {
+     "surface": "āspadaṃ",
+     "gloss": "seat",
+     "grounds": "synonym for place or seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśrayaṃ",
+     "gloss": "support",
+     "grounds": "synonym for refuge or support",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhāraṃ",
+     "gloss": "base",
+     "grounds": "synonym for foundation or support",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "charming",
+     "grounds": "qualifier meaning pleasing to the mind",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional synonyms and quality are attributed to the dwelling in this enumeration?",
+   "premises": [
+    "Further terms for a dwelling are listed.",
+    "The terms include āspada, āśraya, and ādhāra.",
+    "The dwelling is also described as charming."
+   ],
+   "inference": "The dwelling is further called seat, support, and base, and is described as charming.",
+   "uncertainties": [],
+   "plain_english": "It is also called āspada, āśraya, and ādhāra, and it is charming."
+  },
+  {
+   "verse": 619,
+   "rows": [
+    {
+     "surface": "yasmādaṇupaśo",
+     "gloss": "because-from-atom",
+     "grounds": "causal compound indicating derivation from aṇu",
+     "morph": "(indecl.) (compound)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "negation of existence",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "paramāṇussa",
+     "gloss": "supreme-atom-it",
+     "grounds": "term paramāṇu with emphatic particle fused in transmission",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "statement of designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "Why is the smallest unit designated by the term paramāṇu in this account?",
+   "premises": [
+    "Nothing smaller than the aṇu is said to exist.",
+    "The term paramāṇu is applied on that basis.",
+    "The verse gives a definitional explanation."
+   ],
+   "inference": "Because nothing exists beyond the aṇu, that smallest unit is called paramāṇu.",
+   "uncertainties": [
+    "The sandhi form paramāṇussa reflects transmission and is kept as given."
+   ],
+   "plain_english": "Because there is nothing smaller than the aṇu, it is called the paramāṇu."
+  },
+  {
+   "verse": 620,
+   "rows": [
+    {
+     "surface": "picūṇāmaṣṭako",
+     "gloss": "of-hairs-group-of-eight",
+     "grounds": "a set of eight picu units",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "yāstu",
+     "gloss": "which-but",
+     "grounds": "relative with specifying particle",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "keśāgramiti",
+     "gloss": "hair-tip-thus",
+     "grounds": "name keśāgra introduced by quotation marker",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "saṃjñitam",
+     "gloss": "named",
+     "grounds": "designation assigned",
+     "morph": "n.nom.sg (past-participle)"
+    }
+   ],
+   "question": "What measurement unit is defined as a group of eight hair particles?",
+   "premises": [
+    "A group of eight picu units is specified.",
+    "This group receives a technical name.",
+    "The name given is keśāgra."
+   ],
+   "inference": "A group of eight picu units is designated as a keśāgra.",
+   "uncertainties": [
+    "The exact size of a picu is defined elsewhere in the tradition."
+   ],
+   "plain_english": "A group of eight picu units is called a keśāgra, or hair-tip."
+  },
+  {
+   "verse": 621,
+   "rows": [
+    {
+     "surface": "tatkeśāgrāṣṭakāyāstu",
+     "gloss": "that-hair-tip-eightfold-of-but",
+     "grounds": "genitive of eight keśāgra units with specifying particle",
+     "morph": "f.gen.sg + (indecl.) (compound)"
+    },
+    {
+     "surface": "likhyaṃ",
+     "gloss": "likhya",
+     "grounds": "name of the next measurement unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taducadāhṛtam",
+     "gloss": "that-thus-declared",
+     "grounds": "states that this unit is so declared",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What larger measurement unit is formed from eight hair-tip units?",
+   "premises": [
+    "Eight keśāgra units are taken together.",
+    "A new unit name is assigned to that quantity.",
+    "The unit is declared as likhya."
+   ],
+   "inference": "Eight keśāgra units together are declared to be one likhya.",
+   "uncertainties": [
+    "The compound taducadāhṛtam appears compressed in transmission."
+   ],
+   "plain_english": "Eight of those hair-tip units are declared to be one likhya."
+  },
+  {
+   "verse": 622,
+   "rows": [
+    {
+     "surface": "yavamaṣṭaguṇaṃ",
+     "gloss": "barley-eightfold",
+     "grounds": "eight times a barley grain",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "a unit of measurement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃgulaṃ",
+     "gloss": "finger",
+     "grounds": "the aṅgula unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-declared",
+     "grounds": "states the designation",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How many barley grains constitute the standard finger measure declared here?",
+   "premises": [
+    "A measure equal to eight barley grains is specified.",
+    "This measure is named aṅgula.",
+    "The verse declares this equivalence."
+   ],
+   "inference": "The standard aṅgula measure is declared to be eight barley grains.",
+   "uncertainties": [],
+   "plain_english": "A measure of eight barley grains is declared to be one aṅgula."
+  },
+  {
+   "verse": 623,
+   "rows": [
+    {
+     "surface": "ṣaṭsaṃkhyāyavatāraṃ",
+     "gloss": "six-number-barley-measure",
+     "grounds": "measure consisting of six barley grains",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive or definitional copula",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "adhamāṃgulamitismṛtam",
+     "gloss": "lowest-finger-thus-remembered",
+     "grounds": "declares this as the lowest aṅgula",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What barley-grain count defines the lowest finger measure in this system?",
+   "premises": [
+    "A measure of six barley grains is specified.",
+    "This measure is identified as a type of aṅgula.",
+    "It is remembered as the lowest aṅgula."
+   ],
+   "inference": "Six barley grains constitute the lowest aṅgula measure.",
+   "uncertainties": [
+    "The compound ṣaṭsaṃkhyāyavatāraṃ is interpreted as six barley grains by context."
+   ],
+   "plain_english": "A measure of six barley grains is remembered as the lowest aṅgula."
+  },
+  {
+   "verse": 624,
+   "rows": [
+    {
+     "surface": "trisārdhāśālidīrghaṃ",
+     "gloss": "three-and-half-rice-grain-long",
+     "grounds": "length of three and a half rice grains",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "the middle measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjñitāḥ",
+     "gloss": "named",
+     "grounds": "designation assigned",
+     "morph": "f.nom.pl (past-participle)"
+    }
+   ],
+   "question": "What length is designated as the middle measure in this classification?",
+   "premises": [
+    "A length of three and a half rice grains is specified.",
+    "This length is given a classificatory name.",
+    "It is designated as the middle measure."
+   ],
+   "inference": "A length of three and a half rice grains is designated as the middle measure.",
+   "uncertainties": [
+    "The plural saṃjñitāḥ may refer to measures in general though madhyamā is singular."
+   ],
+   "plain_english": "A length of three and a half rice grains is designated as the middle measure."
+  }
+ ]
+}

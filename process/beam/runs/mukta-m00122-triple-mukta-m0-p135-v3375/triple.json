@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "vidyānuṣṭhānayoḥ",
+     "gloss": "of-vidyā-and-practice",
+     "grounds": "compound of vidyā and anuṣṭhāna in genitive dual",
+     "morph": "gen.du.n (compound)"
+    },
+    {
+     "surface": "sthairyyaṃ",
+     "gloss": "steadiness",
+     "grounds": "neuter noun, subject or result",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dhiyaḥ",
+     "gloss": "of-mind",
+     "grounds": "genitive singular of dhi",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "saṃśayanāśataḥ",
+     "gloss": "from-destruction-of-doubt",
+     "grounds": "ablative from saṃśaya-nāśa",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How does destruction of doubt produce steadiness of mind in vidyā practice?",
+   "premises": [
+    "steadiness of mind depends on destruction of doubt",
+    "vidyā practice frames the steadiness",
+    "doubt obstructs mental steadiness"
+   ],
+   "inference": "destroying doubt steadies the mind in vidyā practice",
+   "uncertainties": [
+    "exact case role of sthairyyaṃ",
+    "compound parsing of vidyānuṣṭhānayoḥ"
+   ],
+   "plain_english": "Steadiness of mind in vidyā practice comes from the destruction of doubt."
+  }
+ ]
+}

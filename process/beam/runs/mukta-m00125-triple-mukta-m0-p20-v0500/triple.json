@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "māghamāse",
+     "gloss": "in-magha-month",
+     "grounds": "locative of time specifying the month of Māgha",
+     "morph": "māgha-māsa.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhyantaṃ",
+     "gloss": "ending-at-sixth",
+     "grounds": "compound indicating the limit up to the sixth lunar day",
+     "morph": "ṣaṣṭhī-anta.acc.sg.n"
+    },
+    {
+     "surface": "parvāntaṃ",
+     "gloss": "ending-at-festival-juncture",
+     "grounds": "compound indicating the limit up to the parvan or festival juncture",
+     "morph": "parva-anta.acc.sg.n"
+    },
+    {
+     "surface": "sarvamāsake",
+     "gloss": "in-every-month",
+     "grounds": "locative indicating applicability in each month, continuing the general rule",
+     "morph": "sarva-māsaka.loc.sg.n"
+    }
+   ],
+   "question": "What temporal limits apply in the month of Māgha within the recurring monthly observance?",
+   "premises": [
+    "The month of Māgha is specifically designated.",
+    "The observance may extend up to the sixth lunar day.",
+    "The observance may extend up to the festival juncture in every month."
+   ],
+   "inference": "In the month of Māgha, the observance is delimited by the sixth lunar day or by the festival juncture, in accordance with the rule for every month.",
+   "uncertainties": [
+    "Whether ṣaṣṭhyantaṃ and parvāntaṃ are alternative or cumulative limits is not explicit."
+   ],
+   "plain_english": "In the month of Māgha, the observance extends up to the sixth day or up to the festival juncture, as it does in every month."
+  }
+ ]
+}

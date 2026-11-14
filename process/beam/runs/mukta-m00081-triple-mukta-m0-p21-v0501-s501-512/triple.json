@@ -1,0 +1,507 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in another locus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "in a body other than one's own",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarpādau",
+     "gloss": "in-snake-etc",
+     "grounds": "in a snake and similar things",
+     "morph": "compound sarpa+ādi, m.loc.sg"
+    },
+    {
+     "surface": "dīpādau",
+     "gloss": "in-lamp-etc",
+     "grounds": "in a lamp and similar things",
+     "morph": "compound dīpa+ādi, m.loc.sg"
+    },
+    {
+     "surface": "nāgnitālpake",
+     "gloss": "not-fire-smallness",
+     "grounds": "absence of even a small degree of fire-nature",
+     "morph": "compound na+agnitā+alpaka, n.loc.sg"
+    }
+   ],
+   "question": "Can fire-nature be present in another body such as a snake or a lamp?",
+   "premises": [
+    "A body may be located elsewhere than one's own.",
+    "Examples of other bodies include snakes and lamps.",
+    "Such other bodies lack even a small degree of fire-nature."
+   ],
+   "inference": "Fire-nature is not found in other bodies like snakes or lamps.",
+   "uncertainties": [
+    "The exact referent of dehe in this context is slightly ambiguous."
+   ],
+   "plain_english": "In another body, such as a snake or a lamp, there is not even the slightest trace of fire-nature."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "bhavedicchādiviṣaye",
+     "gloss": "in-desire-etc-object",
+     "grounds": "in objects such as desire and the like",
+     "morph": "compound icchā+ādi+viṣaya, m.loc.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all places or cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravisāriṇī",
+     "gloss": "pervading",
+     "grounds": "spreading or extending throughout",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does pervasion extend everywhere to objects such as desire and the like?",
+   "premises": [
+    "Desire and similar states are objects of experience.",
+    "Pervasion is described as extending to all places.",
+    "This pervasion reaches the domain of desire and related objects."
+   ],
+   "inference": "Pervasion extends everywhere, including to objects such as desire.",
+   "uncertainties": [
+    "The subject of pravisāriṇī is implied rather than explicitly stated."
+   ],
+   "plain_english": "It would be pervading everywhere, extending to objects such as desire and the like."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "duḥkhe'pi",
+     "gloss": "in-sorrow-even",
+     "grounds": "even in the state of sorrow",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "pravikāsena",
+     "gloss": "by-expansion",
+     "grounds": "through unfolding or expansion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "duḥkhārthe",
+     "gloss": "for-sorrow-purpose",
+     "grounds": "for the sake or object of sorrow",
+     "morph": "compound duḥkha+artha, m.loc.sg"
+    },
+    {
+     "surface": "dhṛtisaṃgamāt",
+     "gloss": "from-firmness-union",
+     "grounds": "from union with firmness or steadiness",
+     "morph": "compound dhṛti+saṃgama, m.abl.sg"
+    }
+   ],
+   "question": "How can expansion and firmness arise even within the experience of sorrow?",
+   "premises": [
+    "Sorrow is a state that can be experienced.",
+    "Expansion can occur even within sorrow.",
+    "Union with firmness arises in relation to the object of sorrow."
+   ],
+   "inference": "Even in sorrow, expansion and union with firmness are possible.",
+   "uncertainties": [
+    "The precise relation between pravikāsena and dhṛtisaṃgamāt is interpretively open."
+   ],
+   "plain_english": "Even in sorrow, through expansion and through union with firmness directed toward the object of sorrow."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "nirvṛtyā",
+     "gloss": "by-bliss",
+     "grounds": "through bliss or satisfaction",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "in which place or condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogo'sti",
+     "gloss": "union-is",
+     "grounds": "there is union or connection",
+     "morph": "m.nom.sg + 3.sg.pres.act √as"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "in that very place alone",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "śivatā",
+     "gloss": "śiva-ness",
+     "grounds": "the state or nature of being Śiva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "in a manifest or evident way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does the state of being Śiva become clearly manifest through blissful union?",
+   "premises": [
+    "Bliss can be present in experience.",
+    "Union may occur together with bliss.",
+    "The state of being Śiva is recognized where such union exists."
+   ],
+   "inference": "Wherever there is union with bliss, Śiva-ness is clearly present there.",
+   "uncertainties": [],
+   "plain_english": "Where there is union accompanied by bliss, there alone the state of being Śiva is clearly manifest."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "pṛthivyāderhi",
+     "gloss": "of-earth-etc-indeed",
+     "grounds": "of earth and similar elements",
+     "morph": "compound pṛthivī+ādi, f.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "mūrtasya",
+     "gloss": "of-corporeal",
+     "grounds": "of what has form or body",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ghaṭādervā",
+     "gloss": "of-pot-etc-or",
+     "grounds": "or of a pot and similar objects",
+     "morph": "compound ghaṭa+ādi, m.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitting",
+     "grounds": "is appropriate or possible",
+     "morph": "3.sg.pres.pass √yuj"
+    }
+   ],
+   "question": "Is agency or consciousness fitting for corporeal things like earth or a pot?",
+   "premises": [
+    "Earth and similar elements are corporeal.",
+    "A pot and similar objects are corporeal.",
+    "Corporeal things lack the basis for agency or consciousness."
+   ],
+   "inference": "It is not fitting for corporeal things such as earth or a pot to possess agency or consciousness.",
+   "uncertainties": [
+    "The specific predicate denied by yujyate is supplied from context."
+   ],
+   "plain_english": "Indeed, it is not fitting for corporeal things such as earth and the like, or for a pot and similar objects."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "nājñātvā",
+     "gloss": "not-without-knowing",
+     "grounds": "not without having known",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "kartumiṣyeta",
+     "gloss": "to-do-is-desired",
+     "grounds": "one would wish to act",
+     "morph": "3.sg.opt.pass √iṣ with infinitive √kṛ"
+    },
+    {
+     "surface": "tathācidavabodhanāt",
+     "gloss": "thus-consciousness-awakening",
+     "grounds": "because of awakening as consciousness in that way",
+     "morph": "compound tathā+cit+avabodhana, n.abl.sg"
+    }
+   ],
+   "question": "Why is prior knowing required for the desire to perform an action?",
+   "premises": [
+    "Action is preceded by a desire to act.",
+    "Desire to act does not arise without knowing.",
+    "Knowing depends on awakening as consciousness."
+   ],
+   "inference": "Because of conscious awakening, one cannot wish to act without prior knowing.",
+   "uncertainties": [
+    "The compound tathācidavabodhanāt admits more than one internal analysis."
+   ],
+   "plain_english": "One would not wish to act without having known, because of awakening as consciousness in that manner."
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "jaḍena",
+     "gloss": "by-inert",
+     "grounds": "by what is insentient or inert",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vyajyate",
+     "gloss": "is-manifested",
+     "grounds": "is revealed or made manifest",
+     "morph": "3.sg.pres.pass √añj with vi"
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "not-even",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "caitanyamajaḍātmakam",
+     "gloss": "consciousness-non-inert-nature",
+     "grounds": "consciousness whose nature is non-inert",
+     "morph": "compound caitanya+ajaḍa+ātmaka, n.nom.sg"
+    }
+   ],
+   "question": "Can consciousness whose nature is non-inert be manifested by an inert entity?",
+   "premises": [
+    "An inert entity lacks consciousness.",
+    "Consciousness is by nature non-inert.",
+    "What is non-inert cannot be manifested by what is inert."
+   ],
+   "inference": "Consciousness of non-inert nature cannot be manifested by an inert entity.",
+   "uncertainties": [],
+   "plain_english": "Consciousness, whose nature is non-inert, cannot be manifested by what is inert."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "tiṣṭhatyādikriyāyāṃ",
+     "gloss": "in-standing-etc-action",
+     "grounds": "in actions such as standing and the like",
+     "morph": "compound tiṣṭhat+ādi+kriyā, f.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartṛtvaṃ",
+     "gloss": "agency",
+     "grounds": "the state of being an agent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaḍo",
+     "gloss": "inert",
+     "grounds": "an insentient entity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "can-be",
+     "grounds": "could be or become",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Can an inert entity possess agency in actions such as standing and the like?",
+   "premises": [
+    "Standing and similar activities are actions.",
+    "Agency is required for performing actions.",
+    "An inert entity lacks agency."
+   ],
+   "inference": "An inert entity cannot be an agent in actions such as standing.",
+   "uncertainties": [],
+   "plain_english": "Indeed, in actions such as standing and the like, an inert thing cannot possess agency."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "prayojyatvamathocyeta",
+     "gloss": "being-used-then-may-be-said",
+     "grounds": "if being an instrument or being used is then proposed",
+     "morph": "compound prayojyatva+atha+ucyeta, n.nom.sg + (indecl.) + 3.sg.opt.pass √vac"
+    },
+    {
+     "surface": "pravṛttaṃ",
+     "gloss": "engaged",
+     "grounds": "what has been set in motion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "moves or acts",
+     "morph": "3.sg.pres.mid √vṛt with pra"
+    }
+   ],
+   "question": "Does being used as an instrument explain how an inert thing proceeds to act?",
+   "premises": [
+    "One might propose that an inert thing acts by being used.",
+    "What proceeds must already be engaged in activity.",
+    "Being merely used does not establish self-initiated proceeding."
+   ],
+   "inference": "The claim that an inert thing proceeds merely by being used is insufficient.",
+   "uncertainties": [
+    "The opponent's position is compressed into the compound opening token."
+   ],
+   "plain_english": "If it is then said that it acts by being used, still, what is engaged indeed proceeds."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "ajñāte",
+     "gloss": "when-unknown",
+     "grounds": "when not known or unrecognized",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svātmakartṛtve",
+     "gloss": "own-self-agency",
+     "grounds": "agency belonging to one's own self",
+     "morph": "compound sva+ātman+kartṛtva, n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭaḥ",
+     "gloss": "pot",
+     "grounds": "a pot as an inert object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sampravartate",
+     "gloss": "proceeds",
+     "grounds": "sets itself in motion or acts",
+     "morph": "3.sg.pres.mid √vṛt with sam-pra"
+    }
+   ],
+   "question": "Can a pot proceed to act without awareness of its own agency?",
+   "premises": [
+    "A pot is an inert object.",
+    "Proceeding to act requires awareness of one's own agency.",
+    "A pot does not know its own agency."
+   ],
+   "inference": "A pot does not proceed to act when its own agency is unknown.",
+   "uncertainties": [],
+   "plain_english": "When its own agency is unknown, a pot does not proceed to act."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "kūlaṃ",
+     "gloss": "bank",
+     "grounds": "the riverbank or edge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pipatiṣati",
+     "gloss": "wants-to-fall",
+     "grounds": "desires to fall",
+     "morph": "m.loc.sg participle, desiderative √pat"
+    },
+    {
+     "surface": "gorvyavahāraḥ",
+     "gloss": "cow-conduct",
+     "grounds": "the conventional behavior or usage regarding a cow",
+     "morph": "compound go+vyavahāra, m.nom.sg"
+    },
+    {
+     "surface": "prasiddhyati",
+     "gloss": "becomes-established",
+     "grounds": "is established or holds good",
+     "morph": "3.sg.pres.act √sidh with pra"
+    }
+   ],
+   "question": "How is ordinary behavior attributed to a cow that appears about to fall from a bank?",
+   "premises": [
+    "A cow may be in a state of wanting to fall from a bank.",
+    "Ordinary conduct is attributed based on observed behavior.",
+    "Such attribution presupposes an agent-like tendency."
+   ],
+   "inference": "The conventional behavior of a cow is established when it appears to want to fall from the bank.",
+   "uncertainties": [
+    "The example's exact argumentative role depends on the surrounding context."
+   ],
+   "plain_english": "When a cow wants to fall from the bank, the ordinary understanding of its behavior is established."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "ceṣṭonmeṣādyabhāvāt",
+     "gloss": "from-effort-opening-etc-absence",
+     "grounds": "because of the absence of effort, opening, and the like",
+     "morph": "compound ceṣṭā+unmeṣa+ādi+abhāva, m.abl.sg"
+    },
+    {
+     "surface": "tanmūrcchite",
+     "gloss": "in-that-fainted",
+     "grounds": "in that which is unconscious or swooned",
+     "morph": "compound tad+mūrcchita, n.loc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative asking what action is possible",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kariṣyasi",
+     "gloss": "will-do",
+     "grounds": "you will do",
+     "morph": "2.sg.fut.act √kṛ"
+    }
+   ],
+   "question": "What action can be attributed when effort and responsiveness are absent in an unconscious state?",
+   "premises": [
+    "Effort, opening, and similar signs indicate activity.",
+    "In a fainted or unconscious state these signs are absent.",
+    "Action cannot be attributed without such signs."
+   ],
+   "inference": "Nothing can be done or attributed as action in that unconscious state lacking effort and responsiveness.",
+   "uncertainties": [
+    "The addressee of kariṣyasi is not explicitly identified."
+   ],
+   "plain_english": "Because of the absence of effort, opening, and the like, what will you do in that unconscious state?"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m00644-p01",
+ "work": "mukta-m00644",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v2 ratio=0.739",
+  "L2_CITE_FAIL 1",
+  "DATA_OBJECTS 1 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "110231746b670d72",
+ "source_verses": 2,
+ "t1_verses": 2,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 22
+ },
+ "align": {
+  "min_ratio": 0.739,
+  "sub090": {
+   "2": {
+    "ratio": 0.739,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 40,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 2,
+  "failures": [
+   "mārgepuravarāṇica krameṇayātisapretaḥpuraṃyāmyaṃśubhāśubhaiḥ itiśrībhṛṅgīśasaṃhi"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[mukta-m00644-p01-v2]: cite part not byte-exact in source: mārgepuravarāṇica krameṇayātisapretaḥpuraṃyāmyaṃśubhāśubhaiḥ"
+  ],
+  "counts": {
+   "t1": 2,
+   "l0": 22,
+   "argmap": 2,
+   "l2": 2,
+   "l3": 0,
+   "l4": 0,
+   "essence": 2,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v2"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "1a85222725dfff1df4fc94d5eaee4faa851279c6f9bab2553ad975bd40602b8e",
+  "l0": "231db5ab985f1ce6ed22afc1d59dfb286d13463edf3c7e6008b3cfe922863aef",
+  "argmap": "1acb98ea3575608fdd02aa6bc29c1868bc0a8a9877b3d6c29b1035b2b4d58c66",
+  "l2": "c8e5ec3ecdbf81b4a6df920f712f5b682227410881dcb5cff7279d10e5c40e03",
+  "c1": "d71c80b6bf9843af502d7f597535193544fdb8db1a6f36651efdb377f0305591"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "110231746b670d72",
+  "t1": "mukta-m00644-p01/data/mukta-m00644-p01.t1.json",
+  "l0": "mukta-m00644-p01/data/mukta-m00644-p01.l0.json",
+  "l2": "mukta-m00644-p01/data/mukta-m00644-p01.l2.json",
+  "c1": "mukta-m00644-p01/data/mukta-m00644-p01.c1.json"
+ }
+}

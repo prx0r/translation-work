@@ -1,0 +1,552 @@
+{
+ "song": "kul-p24",
+ "items": [
+  {
+   "verse": 576,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samavāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb of obtaining",
+     "morph": "3.sg.act-pres+root-sam-āp"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs+root-kṛ"
+    },
+    {
+     "surface": "kramārcanam",
+     "gloss": "sequential-worship",
+     "grounds": "compound of krama and arcana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result does one obtain by performing sequential worship once?",
+   "premises": [
+    "sequential worship performed once yields result",
+    "result is obtained by the worshipper"
+   ],
+   "inference": "A single performance of sequential worship suffices to obtain that result.",
+   "uncertainties": [
+    "exact referent of tat is supplied by context"
+   ],
+   "plain_english": "That result is obtained by performing sequential worship once."
+  },
+  {
+   "verse": 577,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samavāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb of obtaining",
+     "morph": "3.sg.act-pres+root-sam-āp"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs+root-kṛ"
+    },
+    {
+     "surface": "śrīcakradarśanam",
+     "gloss": "śrī-cakra-vision",
+     "grounds": "compound of śrī, cakra, darśana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result follows from having seen the śrīcakra?",
+   "premises": [
+    "seeing the śrīcakra yields result",
+    "result is obtained by the seer"
+   ],
+   "inference": "Having seen the śrīcakra brings the same result.",
+   "uncertainties": [
+    "exact referent of tat is supplied by context"
+   ],
+   "plain_english": "That result is obtained by having seen the śrīcakra."
+  },
+  {
+   "verse": 578,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb of obtaining",
+     "morph": "3.sg.mid-pres+root-labh"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs+root-kṛ"
+    },
+    {
+     "surface": "kramārcanam",
+     "gloss": "sequential-worship",
+     "grounds": "compound of krama and arcana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result does the goddess say one obtains by sequential worship once?",
+   "premises": [
+    "sequential worship performed once yields result",
+    "result is obtained by the worshipper"
+   ],
+   "inference": "A single performance of sequential worship suffices to obtain that result.",
+   "uncertainties": [
+    "exact referent of tat is supplied by context"
+   ],
+   "plain_english": "O goddess, that result is obtained by performing sequential worship once."
+  },
+  {
+   "verse": 579,
+   "rows": [
+    {
+     "surface": "kulācāryāya",
+     "gloss": "to-kula-teacher",
+     "grounds": "dative of kulācārya",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pūjārthaṃ",
+     "gloss": "for-worship",
+     "grounds": "compound expressing purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuladravyaṃ",
+     "gloss": "kula-substance",
+     "grounds": "compound of kula and dravya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharmavit",
+     "gloss": "dharma-knower",
+     "grounds": "compound of dharma and vid",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To whom is the kula substance given for worship?",
+   "premises": [
+    "the dharma-knower gives kula substance",
+    "it is given to the kula teacher for worship"
+   ],
+   "inference": "The dharma-knower offers kula substance to the kula teacher for worship.",
+   "uncertainties": [
+    "whether sa refers to the dharma-knower or another agent"
+   ],
+   "plain_english": "The dharma-knower gives the kula substance to the kula teacher for worship."
+  },
+  {
+   "verse": 580,
+   "rows": [
+    {
+     "surface": "bauddhe",
+     "gloss": "in-buddhist",
+     "grounds": "locative of bauddha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāśupate",
+     "gloss": "in-pāśupata",
+     "grounds": "locative of pāśupata",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sāṃkhye",
+     "gloss": "in-sāṃkhya",
+     "grounds": "locative of sāṃkhya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vrate",
+     "gloss": "in-vow",
+     "grounds": "locative of vrata",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kulamukhe",
+     "gloss": "in-kula-mouth",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which contexts is the kula mouth likewise present?",
+   "premises": [
+    "kula mouth is present in buddhist context",
+    "kula mouth is present in pāśupata context",
+    "kula mouth is present in sāṃkhya context"
+   ],
+   "inference": "The kula mouth is present across these varied contexts as well.",
+   "uncertainties": [
+    "exact sense of kulamukhe depends on context"
+   ],
+   "plain_english": "Likewise in the Buddhist, Pāśupata, Sāṃkhya, vow, and kula-mouth contexts."
+  },
+  {
+   "verse": 581,
+   "rows": [
+    {
+     "surface": "vinā'lipiśitābhyāṃ",
+     "gloss": "without-meat-fish",
+     "grounds": "fused form with @ marking sandhi fusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "compound of niṣ and phala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb of becoming",
+     "morph": "3.sg.act-opt+root-bhū"
+    }
+   ],
+   "question": "What becomes fruitless without meat and fish?",
+   "premises": [
+    "worship without meat and fish is fruitless",
+    "fruitlessness follows from absence of those substances"
+   ],
+   "inference": "Worship performed without meat and fish becomes fruitless.",
+   "uncertainties": [
+    "whether vinā'lipiśitābhyāṃ is ablative or instrumental in force"
+   ],
+   "plain_english": "Worship without meat and fish becomes fruitless."
+  },
+  {
+   "verse": 582,
+   "rows": [
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "compound of niṣ and phala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadbhaveddevi",
+     "gloss": "that-becomes-goddess",
+     "grounds": "fused form with @ marking sandhi fusion",
+     "morph": "3.sg.act-opt+root-bhū"
+    },
+    {
+     "surface": "bhasmanīva",
+     "gloss": "like-ash",
+     "grounds": "compound with iva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutam",
+     "gloss": "offered",
+     "grounds": "past participle of hu",
+     "morph": "pp+root-hu"
+    }
+   ],
+   "question": "To what is fruitless worship compared?",
+   "premises": [
+    "fruitless worship is like ash",
+    "offered oblation without result resembles ash"
+   ],
+   "inference": "Fruitless worship is comparable to an offering reduced to ash.",
+   "uncertainties": [
+    "exact parsing of tadbhaveddevi as fused form"
+   ],
+   "plain_english": "That becomes fruitless, O goddess, like an offering reduced to ash."
+  },
+  {
+   "verse": 583,
+   "rows": [
+    {
+     "surface": "tathāntaryāganiṣṭhā",
+     "gloss": "thus-internal-worship-devoted",
+     "grounds": "fused compound form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "priyā",
+     "gloss": "dear",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nāpare",
+     "gloss": "not-others",
+     "grounds": "compound of na and apare",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are dear to the goddess among the devoted?",
+   "premises": [
+    "those devoted to internal worship are dear",
+    "no others are dear in this regard"
+   ],
+   "inference": "Those devoted to internal worship are dear, not others.",
+   "uncertainties": [
+    "exact compound parsing of tathāntaryāganiṣṭhā"
+   ],
+   "plain_english": "Those devoted to internal worship are dear, O goddess, not others."
+  },
+  {
+   "verse": 584,
+   "rows": [
+    {
+     "surface": "utpādayanti",
+     "gloss": "produce",
+     "grounds": "verb of producing",
+     "morph": "3.pl.act-pres+root-ut-pad"
+    },
+    {
+     "surface": "cānandaṃ",
+     "gloss": "and-bliss",
+     "grounds": "fused form with @ marking sandhi fusion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "matpriyāḥ",
+     "gloss": "my-dear",
+     "grounds": "compound of mat and priya",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kaulikāś",
+     "gloss": "kaulikas",
+     "grounds": "plural noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who produce bliss and are dear to me?",
+   "premises": [
+    "kaulikas produce bliss",
+    "kaulikas are dear to me"
+   ],
+   "inference": "The kaulikas who produce bliss are dear to me.",
+   "uncertainties": [
+    "exact referent of te in context"
+   ],
+   "plain_english": "They, the kaulikas, produce bliss and are dear to me."
+  },
+  {
+   "verse": 585,
+   "rows": [
+    {
+     "surface": "kuladravyopabhogena",
+     "gloss": "by-kula-substance-enjoyment",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "parisphurati",
+     "gloss": "manifests",
+     "grounds": "verb of manifesting",
+     "morph": "3.sg.act-pres+root-pari-sphur"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "compound of na and anyathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the kula substance manifest?",
+   "premises": [
+    "manifestation occurs by enjoyment of kula substance",
+    "manifestation does not occur otherwise"
+   ],
+   "inference": "The kula substance manifests only through its enjoyment.",
+   "uncertainties": [
+    "exact scope of parisphurati"
+   ],
+   "plain_english": "It manifests by enjoyment of the kula substance, not otherwise."
+  },
+  {
+   "verse": 586,
+   "rows": [
+    {
+     "surface": "kuladravyopabhogena",
+     "gloss": "by-kula-substance-enjoyment",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb of arising",
+     "morph": "3.sg.mid-pres+root-jan"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "compound of na and anyathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How does the result arise, dear one?",
+   "premises": [
+    "arising occurs by enjoyment of kula substance",
+    "arising does not occur otherwise"
+   ],
+   "inference": "The result arises only through enjoyment of the kula substance.",
+   "uncertainties": [
+    "exact referent of the arising result"
+   ],
+   "plain_english": "It arises by enjoyment of the kula substance, not otherwise, dear one."
+  },
+  {
+   "verse": 587,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb of arising",
+     "morph": "3.sg.mid-pres+root-jan"
+    },
+    {
+     "surface": "bhairavāveśaḥ",
+     "gloss": "bhairava-possession",
+     "grounds": "compound of bhairava and āveśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samadarśanaḥ",
+     "gloss": "equal-vision",
+     "grounds": "compound of sama and darśana",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What arises everywhere with equal vision?",
+   "premises": [
+    "bhairava possession arises",
+    "it arises everywhere with equal vision"
+   ],
+   "inference": "Bhairava possession arises everywhere accompanied by equal vision.",
+   "uncertainties": [
+    "whether samadarśanaḥ modifies possession or the experiencer"
+   ],
+   "plain_english": "Bhairava possession arises everywhere with equal vision."
+  }
+ ]
+}

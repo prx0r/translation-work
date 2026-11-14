@@ -1,0 +1,513 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating place of operation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "instrumental plural of pronoun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "proktasaṃkhyair",
+     "gloss": "stated-count",
+     "grounds": "compound of stated and count",
+     "morph": "compound"
+    },
+    {
+     "surface": "akṣaraiḥ",
+     "gloss": "letters",
+     "grounds": "instrumental plural of akṣara",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How are the stated-count letters used in constructing the yantra?",
+   "premises": [
+    "stated-count letters are specified",
+    "they are used there"
+   ],
+   "inference": "the construction begins from the stated letter set",
+   "uncertainties": [
+    "exact ritual referent of tatra"
+   ],
+   "plain_english": "There, by those stated-count letters."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive of vidhā",
+     "morph": "verb 3.sg.act-perf + root vidhā"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative of madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māyāsthaṃ",
+     "gloss": "maya-placed",
+     "grounds": "compound of maya and placed",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "absolutive of kṛ",
+     "morph": "verb 3.sg.act-perf + root kṛ"
+    },
+    {
+     "surface": "nāmatrikoṇagam",
+     "gloss": "name-triangle-gone",
+     "grounds": "compound describing name entering triangle",
+     "morph": "compound"
+    }
+   ],
+   "question": "What placement of maya and name-triangle follows the initial making?",
+   "premises": [
+    "vidhāya precedes placement",
+    "maya is placed in middle",
+    "name-triangle is made to go"
+   ],
+   "inference": "the yantra is arranged with maya centrally and name in triangle",
+   "uncertainties": [
+    "precise geometric sense of nāmatrikoṇagam"
+   ],
+   "plain_english": "Having made, place maya in the middle, making the name enter the triangle."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "caturdaśārṇam",
+     "gloss": "fourteen-syllables",
+     "grounds": "compound numeral adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "write",
+     "grounds": "absolutive of ālikh",
+     "morph": "verb 3.sg.act-perf + root ālikh"
+    },
+    {
+     "surface": "vṛttamadhye",
+     "gloss": "circle-middle",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkām",
+     "gloss": "matrka",
+     "grounds": "accusative of mātṛkā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where is the fourteen-syllable matrka written in the yantra?",
+   "premises": [
+    "fourteen-syllable form is written",
+    "it is written in circle-middle",
+    "matrka is the object"
+   ],
+   "inference": "the matrka is inscribed in the central circle",
+   "uncertainties": [
+    "whether caturdaśārṇam modifies matrka or another element"
+   ],
+   "plain_english": "Write the fourteen-syllable matrka in the middle of the circle."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "trayastriṃśattamaṃ",
+     "gloss": "thirty-third",
+     "grounds": "ordinal compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "accusative of yantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saśaktyamṛtapañcakaiḥ",
+     "gloss": "with-shakti-amrita-pentad",
+     "grounds": "compound instrumental phrase",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which yantra is completed with the shakti-amrita pentad?",
+   "premises": [
+    "thirty-third yantra is named",
+    "it is completed with shakti-amrita pentad"
+   ],
+   "inference": "the thirty-third yantra includes the shakti-amrita pentad",
+   "uncertainties": [
+    "exact constituents of the pentad"
+   ],
+   "plain_english": "The thirty-third yantra, with the shakti-amrita pentad."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "sphoṭe",
+     "gloss": "in-sphota",
+     "grounds": "locative of sphoṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "masūrikāyāṃ",
+     "gloss": "in-smallpox",
+     "grounds": "locative of masūrikā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netrābhyāṃ",
+     "gloss": "in-eyes",
+     "grounds": "locative dual of netra",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "kukṣisaṃbhave",
+     "gloss": "in-belly-born",
+     "grounds": "locative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "In which bodily conditions and locations is this yantra applied?",
+   "premises": [
+    "sphota is named",
+    "smallpox is named",
+    "eyes and belly-born condition are named"
+   ],
+   "inference": "the yantra's use extends to sphota, smallpox, eyes, and belly-born affliction",
+   "uncertainties": [
+    "whether these are separate applications or one combined rite"
+   ],
+   "plain_english": "In sphota, in smallpox, and in the eyes and belly-born condition."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "sarvatrā",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣarayantreṣu",
+     "gloss": "in-letter-yantras",
+     "grounds": "locative plural of kṣarayantra",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhānam",
+     "gloss": "procedure",
+     "grounds": "accusative of vidhāna",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where does the described procedure apply among letter-yantras?",
+   "premises": [
+    "procedure is named",
+    "it applies everywhere",
+    "it applies in letter-yantras"
+   ],
+   "inference": "the same procedure is used in all letter-yantras",
+   "uncertainties": [
+    "whether sarvatrā modifies scope or emphasis"
+   ],
+   "plain_english": "Everywhere, the procedure in letter-yantras."
+  },
+  {
+   "verse": 1019,
+   "rows": [
+    {
+     "surface": "bālagrahārtau",
+     "gloss": "child-graha-disease-purpose",
+     "grounds": "compound bāla-graha-artha in locative sense",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "daurbhāgye",
+     "gloss": "misfortune",
+     "grounds": "locative of daurbhāgya",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bandhyātve",
+     "gloss": "barrenness",
+     "grounds": "locative of bandhyātva",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vairipīḍane",
+     "gloss": "enemy-torment",
+     "grounds": "locative of vairipīḍana",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How many square compartments arise in the cakra when worship is performed with two hundred ninety-six by them?",
+   "premises": [
+    "Two hundred ninety-six are used by them.",
+    "The cakra is worshipped there.",
+    "Square compartments arise by that."
+   ],
+   "inference": "Therefore the cakra has square compartments arising from that worship.",
+   "uncertainties": [
+    "Exact grammatical case of śatadvayam and koṣṭhāni is not fully resolved."
+   ],
+   "plain_english": "Hear, goddess; I will declare by all-limbs yoga. Two hundred ninety-six by them; the cakra there worship. By that square compartments arise, Parvati."
+  },
+  {
+   "verse": 1020,
+   "rows": [
+    {
+     "surface": "ḍākinyādigaṇaiḥ",
+     "gloss": "by-dakini-etc-six-ganas",
+     "grounds": "instrumental plural of ḍākinyādi-gaṇa",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "ṣaḍbhir",
+     "gloss": "by-six",
+     "grounds": "instrumental plural of ṣaṣ",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "ākrāntyāṃ",
+     "gloss": "in-possession",
+     "grounds": "locative of ākrānti",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "brahmarākṣasaiḥ",
+     "gloss": "by-brahma-rakshasas",
+     "grounds": "instrumental plural of brahmarākṣasa",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "How many square compartments arise in the cakra when worship is performed with two hundred ninety-six by them?",
+   "premises": [
+    "Two hundred ninety-six are used by them.",
+    "The cakra is worshipped there.",
+    "Square compartments arise by that."
+   ],
+   "inference": "Therefore the cakra has square compartments arising from that worship.",
+   "uncertainties": [
+    "Exact grammatical case of śatadvayam and koṣṭhāni is not fully resolved."
+   ],
+   "plain_english": "Hear, goddess; I will declare by all-limbs yoga. Two hundred ninety-six by them; the cakra there worship. By that square compartments arise, Parvati."
+  },
+  {
+   "verse": 1021,
+   "rows": [
+    {
+     "surface": "yojayet",
+     "gloss": "apply",
+     "grounds": "optative of yuj",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "uktavidhinā",
+     "gloss": "by-stated-method",
+     "grounds": "instrumental of uktavidhi",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "trayastriṃśad",
+     "gloss": "thirty-three",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "goddess",
+     "grounds": "vocative of īśvarī",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How many square compartments arise in the cakra when worship is performed with two hundred ninety-six by them?",
+   "premises": [
+    "Two hundred ninety-six are used by them.",
+    "The cakra is worshipped there.",
+    "Square compartments arise by that."
+   ],
+   "inference": "Therefore the cakra has square compartments arising from that worship.",
+   "uncertainties": [
+    "Exact grammatical case of śatadvayam and koṣṭhāni is not fully resolved."
+   ],
+   "plain_english": "Hear, goddess; I will declare by all-limbs yoga. Two hundred ninety-six by them; the cakra there worship. By that square compartments arise, Parvati."
+  },
+  {
+   "verse": 1022,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative of śru",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative of devī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-will-declare",
+     "grounds": "future of vac",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "sarvāṅgāṅgitvayogataḥ",
+     "gloss": "by-all-limbs-yoga",
+     "grounds": "ablative of sarvāṅgāṅgitva-yoga",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How many square compartments arise in the cakra when worship is performed with two hundred ninety-six by them?",
+   "premises": [
+    "Two hundred ninety-six are used by them.",
+    "The cakra is worshipped there.",
+    "Square compartments arise by that."
+   ],
+   "inference": "Therefore the cakra has square compartments arising from that worship.",
+   "uncertainties": [
+    "Exact grammatical case of śatadvayam and koṣṭhāni is not fully resolved."
+   ],
+   "plain_english": "Hear, goddess; I will declare by all-limbs yoga. Two hundred ninety-six by them; the cakra there worship. By that square compartments arise, Parvati."
+  },
+  {
+   "verse": 1023,
+   "rows": [
+    {
+     "surface": "śatadvayaṃ",
+     "gloss": "two-hundred",
+     "grounds": "accusative of śatadvaya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ṣaṇṇavatiṃ",
+     "gloss": "ninety-six",
+     "grounds": "accusative of ṣaṇṇavati",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "instrumental plural of tad",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "accusative of cakra",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "nominative of pūjana",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How many square compartments arise in the cakra when worship is performed with two hundred ninety-six by them?",
+   "premises": [
+    "Two hundred ninety-six are used by them.",
+    "The cakra is worshipped there.",
+    "Square compartments arise by that."
+   ],
+   "inference": "Therefore the cakra has square compartments arising from that worship.",
+   "uncertainties": [
+    "Exact grammatical case of śatadvayam and koṣṭhāni is not fully resolved."
+   ],
+   "plain_english": "Hear, goddess; I will declare by all-limbs yoga. Two hundred ninety-six by them; the cakra there worship. By that square compartments arise, Parvati."
+  },
+  {
+   "verse": 1024,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental of tad",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "compartments",
+     "grounds": "nominative plural of koṣṭha",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "present middle of jan",
+     "morph": "3.pl.mid-pres"
+    },
+    {
+     "surface": "caturasrāṇi",
+     "gloss": "square",
+     "grounds": "nominative plural of caturasra",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "parvati",
+     "grounds": "vocative of pārvatī",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How many square compartments arise in the cakra when worship is performed with two hundred ninety-six by them?",
+   "premises": [
+    "Two hundred ninety-six are used by them.",
+    "The cakra is worshipped there.",
+    "Square compartments arise by that."
+   ],
+   "inference": "Therefore the cakra has square compartments arising from that worship.",
+   "uncertainties": [
+    "Exact grammatical case of śatadvayam and koṣṭhāni is not fully resolved."
+   ],
+   "plain_english": "Hear, goddess; I will declare by all-limbs yoga. Two hundred ninety-six by them; the cakra there worship. By that square compartments arise, Parvati."
+  }
+ ]
+}

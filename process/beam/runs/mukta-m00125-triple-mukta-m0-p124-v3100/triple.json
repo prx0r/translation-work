@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "maṭhe",
+     "gloss": "in-monastery",
+     "grounds": "locative of place; site in the enumerated list",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prapādike",
+     "gloss": "in-water-shed",
+     "grounds": "locative of place; a rest-house or water-shed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "disjunctive particle connecting listed locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārāmādāv",
+     "gloss": "in-garden-etc",
+     "grounds": "locative of compound ārāma-ādi; 'garden and so forth'",
+     "morph": "compound: ārāma+ādi; m.loc.sg"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-even",
+     "grounds": "conjunctive-disjunctive particle adding alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle completing the alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional places qualify as sites for such occurrences?",
+   "premises": [
+    "A monastery is named as a possible site.",
+    "A water-shed is named as a possible site.",
+    "A garden and similar places are included as alternatives."
+   ],
+   "inference": "The enumerated occurrences may also take place in monasteries, water-sheds, gardens, or similar locations.",
+   "uncertainties": [
+    "The exact scope of ārāmādi ('garden etc.') is not specified in this verse."
+   ],
+   "plain_english": "Or in a monastery, in a water-shed, or in a garden and such places, or also elsewhere."
+  }
+ ]
+}

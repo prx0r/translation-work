@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative temporal adverb indicating duration until a condition changes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhramanti",
+     "gloss": "they-wander",
+     "grounds": "describes ongoing roaming or erring",
+     "morph": "3.pl.act-pres √bhram"
+    },
+    {
+     "surface": "moha+ātmā",
+     "gloss": "delusion-natured",
+     "grounds": "compound: moha (delusion) + ātman (self/nature), describing those whose being is characterized by delusion",
+     "morph": "compound: moha+ātman, m.nom.pl"
+    },
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "first member indicating multiplicity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāva",
+     "gloss": "state",
+     "grounds": "middle member referring to conditions or states of existence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anubandhanaiḥ",
+     "gloss": "by-attachments",
+     "grounds": "final member of compound nānā-bhāva-anubandhana, denoting binding connections or attachments",
+     "morph": "compound: nānā+bhāva+anubandhana, m.inst.pl"
+    }
+   ],
+   "question": "What keeps delusion-natured beings wandering through various states and attachments?",
+   "premises": [
+    "Beings whose nature is delusion continue to wander.",
+    "Their wandering persists through various states.",
+    "These states are experienced as binding attachments."
+   ],
+   "inference": "Delusion sustains continued wandering by binding beings to diverse states and attachments.",
+   "uncertainties": [
+    "The endpoint implied by tāvat is not explicitly stated in this verse and depends on context."
+   ],
+   "plain_english": "So long, those whose nature is delusion wander on, bound by attachments to various states."
+  }
+ ]
+}

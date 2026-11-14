@@ -1,0 +1,257 @@
+{
+ "song": "sva-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "rudrā",
+     "gloss": "rudras",
+     "grounds": "legacy hint rudras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "īśvarasya",
+     "gloss": "of-isvara",
+     "grounds": "legacy hint of-isvara",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parivārāḥ",
+     "gloss": "attendants",
+     "grounds": "legacy hint attendants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rudrā",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who are the attendants of Isvara?",
+   "premises": [
+    "Rudras are attendants.",
+    "They belong to Isvara.",
+    "The verse names them."
+   ],
+   "inference": "Rudras serve as Isvara's attendants.",
+   "uncertainties": [
+    "Exact grammatical role of final rudrā is unclear."
+   ],
+   "plain_english": "The rudras are the attendants of Isvara."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "principal",
+     "grounds": "legacy hint principal",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "ones",
+     "grounds": "legacy hint ones",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the principal ones?",
+   "premises": [
+    "The term is repeated.",
+    "It denotes principal ones.",
+    "The verse emphasizes them."
+   ],
+   "inference": "The principal ones are being emphasized.",
+   "uncertainties": [
+    "Repeated token may reflect editorial or sandhi issue."
+   ],
+   "plain_english": "The principal ones are indeed thus."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "samayāvaraṇam",
+     "gloss": "covering",
+     "grounds": "legacy hint covering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "legacy hint eleven",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catubhīḥ+saha",
+     "gloss": "with-four",
+     "grounds": "legacy hint with-four; fused sandhi form retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśa",
+     "gloss": "fifteen",
+     "grounds": "legacy hint fifteen",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "legacy hint become",
+     "morph": "3.pl.act-pres + root bhū"
+    }
+   ],
+   "question": "How many coverings become fifteen?",
+   "premises": [
+    "Eleven plus four make fifteen.",
+    "The covering becomes fifteen.",
+    "The verse states the total."
+   ],
+   "inference": "The samaya covering becomes fifteen.",
+   "uncertainties": [
+    "Exact relation of eleven and four is inferred."
+   ],
+   "plain_english": "The covering becomes fifteen, eleven with four."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "tadbhuvanadvitayarūpaṃ",
+     "gloss": "two-world-form",
+     "grounds": "legacy hint two-world-form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyāvaraṇam",
+     "gloss": "knowledge-covering",
+     "grounds": "legacy hint knowledge-covering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "legacy hint thus-meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of this knowledge covering?",
+   "premises": [
+    "The covering has two-world form.",
+    "This is the knowledge covering.",
+    "Thus is the meaning."
+   ],
+   "inference": "This knowledge covering has two-world form.",
+   "uncertainties": [
+    "Which two worlds are meant is not specified."
+   ],
+   "plain_english": "This knowledge covering is of two-world form; thus is the meaning."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "legacy hint by-that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmādibhuvanatrayaparivṛtam",
+     "gloss": "vama-etc-world-triad-surrounded",
+     "grounds": "legacy hint vama-etc-world-triad-surrounded",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "icchābhuvanamātretyarthaḥ",
+     "gloss": "will-world-only",
+     "grounds": "legacy hint will-world-only",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What surrounds this will world?",
+   "premises": [
+    "This is surrounded by a world triad.",
+    "The triad begins with vama.",
+    "Thus it is will world only."
+   ],
+   "inference": "This will world is surrounded by the vama-etc world triad.",
+   "uncertainties": [
+    "The exact members of the triad are not listed."
+   ],
+   "plain_english": "By that, this is surrounded by the vama-etc world triad; it is will world only."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "tālūrdhvaṃ",
+     "gloss": "above-palate",
+     "grounds": "legacy hint above-palate",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāvadantam",
+     "gloss": "this-much-end",
+     "grounds": "legacy hint this-much-end",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īśvaratattvāśrayam",
+     "gloss": "isvara-principle-refuge",
+     "grounds": "legacy hint isvara-principle-refuge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaraṇāya",
+     "gloss": "for-remembrance",
+     "grounds": "legacy hint for-remembrance",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "What is remembered up to the palate?",
+   "premises": [
+    "Above the palate is the limit.",
+    "This much end is Isvara principle refuge.",
+    "It is for remembrance."
+   ],
+   "inference": "Up to above the palate, the Isvara principle refuge is for remembrance.",
+   "uncertainties": [
+    "The exact referent of this much is unclear."
+   ],
+   "plain_english": "Above the palate, up to this much end, the Isvara principle refuge is for remembrance."
+  }
+ ]
+}

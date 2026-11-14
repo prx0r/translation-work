@@ -1,0 +1,43 @@
+{
+ "song": "sva-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle marking conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "usage",
+     "grounds": "noun prayoga nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What usage is indicated here?",
+   "premises": [
+    "Thus also here usage is indicated."
+   ],
+   "inference": "The passage concludes by stating that a usage applies here.",
+   "uncertainties": [
+    "Context beyond the provided units is unavailable."
+   ],
+   "plain_english": "Thus, here too, there is usage."
+  }
+ ]
+}

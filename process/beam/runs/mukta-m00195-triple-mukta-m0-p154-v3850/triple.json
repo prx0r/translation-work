@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3850,
+   "rows": [
+    {
+     "surface": "kumārī",
+     "gloss": "kumārī-flower",
+     "grounds": "first member in a series of flowers continued from previous verse and concluded by ādibhiḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aruṇa",
+     "gloss": "red",
+     "grounds": "qualifier for mandāra within the flower series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mandāra",
+     "gloss": "mandāra-flower",
+     "grounds": "flower name qualified by aruṇa in the series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jātī",
+     "gloss": "jasmine",
+     "grounds": "flower name in the series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuṃda",
+     "gloss": "kunda-flower",
+     "grounds": "flower name in the series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "japa",
+     "gloss": "hibiscus",
+     "grounds": "flower name in the series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-others",
+     "grounds": "concluding term indicating additional similar flowers; instrumental plural in construction with preceding context",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which additional flowers are included for the sattvic nourishing ritual application?",
+   "premises": [
+    "The preceding verses specify a sattvic nourishing ritual application.",
+    "A series of flowers is being enumerated for that application.",
+    "The list includes kumārī, red mandāra, jātī, kuṃda, japa, and others."
+   ],
+   "inference": "These additional flowers are also suitable materials for the sattvic nourishing ritual application.",
+   "uncertainties": [
+    "The exact botanical identification of kumārī in this ritual context is not fully certain."
+   ],
+   "plain_english": "With kumārī, red mandāra, jātī, kuṃda, japa, and other such flowers."
+  }
+ ]
+}

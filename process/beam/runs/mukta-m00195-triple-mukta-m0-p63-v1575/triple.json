@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "refers to every member without exception",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtānāṃ",
+     "gloss": "of-beings",
+     "grounds": "refers to living entities",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "tulya",
+     "gloss": "equal",
+     "grounds": "first member of compound indicating sameness",
+     "morph": "compound:tulya+first"
+    },
+    {
+     "surface": "duḥkha",
+     "gloss": "suffering",
+     "grounds": "second member of compound denoting pain",
+     "morph": "compound:duḥkha+middle"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "happiness",
+     "grounds": "third member of compound denoting pleasure",
+     "morph": "compound:sukha+middle"
+    },
+    {
+     "surface": "au",
+     "gloss": "two",
+     "grounds": "dual ending of compound",
+     "morph": "compound:au+final"
+    },
+    {
+     "surface": "ubhau",
+     "gloss": "both",
+     "grounds": "refers to the pair of suffering and happiness",
+     "morph": "pron.nom.du.m"
+    }
+   ],
+   "question": "In what manner are suffering and happiness distributed among all beings?",
+   "premises": [
+    "All beings are included without exception.",
+    "Suffering and happiness form a paired set.",
+    "Both states are characterized as equal for all beings."
+   ],
+   "inference": "Suffering and happiness are equally shared by all beings.",
+   "uncertainties": [],
+   "plain_english": "For all beings indeed, both suffering and happiness are equal."
+  }
+ ]
+}

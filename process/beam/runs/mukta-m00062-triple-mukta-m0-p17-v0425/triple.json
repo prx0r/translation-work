@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "dvādaśa+sāhasrikāyāṃ",
+     "gloss": "in-the-twelve-thousand",
+     "grounds": "compound locative indicating location within a twelve-thousand-verse work",
+     "morph": "dvādaśa+sāhasrikā+loc.sg.f"
+    },
+    {
+     "surface": "kālikrama+nirṇaya+sūtraṃ",
+     "gloss": "kālikrama-determination-treatise",
+     "grounds": "compound naming the treatise on the determination of the kālikrama",
+     "morph": "kālikrama+nirṇaya+sūtra+nom.sg.n"
+    },
+    {
+     "surface": "saptamaḥ",
+     "gloss": "seventh",
+     "grounds": "ordinal adjective qualifying paṭalaḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun denoting a chapter or section",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the placement of the Kālikrama determination treatise within the twelve-thousand-verse work?",
+   "premises": [
+    "The location is specified as the twelve-thousand-verse work.",
+    "The named text is the Kālikrama determination treatise.",
+    "The designated section is identified as the seventh chapter."
+   ],
+   "inference": "The seventh chapter in the twelve-thousand-verse work is the Kālikrama determination treatise.",
+   "uncertainties": [
+    "The referent of the twelve-thousand-verse work is not explicitly named in this verse."
+   ],
+   "plain_english": "The seventh chapter, the Kālikrama determination treatise, is in the twelve-thousand-verse work."
+  }
+ ]
+}

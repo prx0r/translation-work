@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p220",
+ "items": [
+  {
+   "verse": 5500,
+   "rows": [
+    {
+     "surface": "loka+pālāḥ",
+     "gloss": "world-guardians",
+     "grounds": "compound denoting the directional guardian deities",
+     "morph": "compound"
+    },
+    {
+     "surface": "tat+astrāṇi",
+     "gloss": "their-weapons",
+     "grounds": "compound referring to the weapons of those guardians",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive verbal form expressing ritual injunction",
+     "morph": "3.sg.optative-active + pūj"
+    },
+    {
+     "surface": "ittham",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcanam",
+     "gloss": "worship",
+     "grounds": "action noun naming the ritual act",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which deities and implements must be honored in this prescribed manner of worship?",
+   "premises": [
+    "The world-guardians are objects of worship.",
+    "The weapons of those guardians are also to be worshipped.",
+    "The worship is to be performed in this manner."
+   ],
+   "inference": "Therefore, the ritual worship includes honoring the world-guardians together with their weapons in the prescribed manner.",
+   "uncertainties": [
+    "The exact ritual details implied by ittham depend on the preceding context."
+   ],
+   "plain_english": "One should worship the world-guardians and their weapons; such is the worship."
+  }
+ ]
+}

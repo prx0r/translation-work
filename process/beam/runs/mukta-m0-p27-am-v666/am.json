@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p27",
+ "verse": 666,
+ "question": "What range of storeys is specified from the starting to the ending limit?",
+ "premises": [
+  "The sequence begins at four storeys.",
+  "The sequence ends at twelve storeys.",
+  "The range is explicitly bounded."
+ ],
+ "inference": "The prescribed range runs from four storeys up to twelve storeys.",
+ "uncertainties": [
+  "The symbolic values veda and bhānu are interpreted as four and twelve."
+ ],
+ "plain_english": "Beginning from four storeys, the range extends up to twelve storeys."
+}

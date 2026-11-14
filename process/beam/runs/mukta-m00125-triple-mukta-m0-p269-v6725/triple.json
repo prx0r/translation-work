@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p269",
+ "items": [
+  {
+   "verse": 6725,
+   "rows": [
+    {
+     "surface": "kṣīravṛkṣasamutpanna",
+     "gloss": "milk-tree-born",
+     "grounds": "bahuvrīhi/tatpuruṣa compound qualifying the fuel-sticks; produced from trees that yield milky sap",
+     "morph": "compound"
+    },
+    {
+     "surface": "samidbhirdūrvayāthavā",
+     "gloss": "with-fuel-sticks-or-with-dūrvā-grass",
+     "grounds": "fused sandhi form containing samidbhiḥ (instrumental plural of samidh), dūrvayā (instrumental singular of dūrvā), and athavā (alternative particle)",
+     "morph": "f.ins.pl+f.ins.sg+(indecl.)"
+    },
+    {
+     "surface": "dūrvayāthavā",
+     "gloss": "or-with-dūrvā-grass",
+     "grounds": "repetition of the alternative dūrvayā athavā as given in the text; dūrvā in instrumental singular with athavā",
+     "morph": "f.ins.sg+(indecl.)"
+    }
+   ],
+   "question": "What alternative materials may serve as fuel to complete the fire offering?",
+   "premises": [
+    "The fire offering is to be completed after the preceding offerings.",
+    "Fuel-sticks born from milk-yielding trees are a suitable material.",
+    "Dūrvā grass is presented as an alternative material."
+   ],
+   "inference": "The fire offering may be completed using fuel-sticks from milk-yielding trees or, alternatively, using dūrvā grass.",
+   "uncertainties": [
+    "The repetition of dūrvayāthavā in the third token may be emphatic or a textual duplication; its exact rhetorical function is unclear."
+   ],
+   "plain_english": "One should complete the fire offering with fuel-sticks produced from milk-yielding trees, or alternatively with dūrvā grass."
+  }
+ ]
+}

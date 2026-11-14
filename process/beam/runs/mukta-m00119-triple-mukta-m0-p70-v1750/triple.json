@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "virūpā",
+     "gloss": "ugly",
+     "grounds": "adjective describing bodily forms",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "surūpā",
+     "gloss": "beautiful",
+     "grounds": "adjective describing bodily forms",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatitā",
+     "gloss": "existing",
+     "grounds": "participle qualifying bodies",
+     "morph": "part.nom.sg.f"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "vigrahā",
+     "gloss": "bodies",
+     "grounds": "plural noun for embodied forms",
+     "morph": "noun.nom.pl.f"
+    }
+   ],
+   "question": "Are both ugly and beautiful forms included among my existing bodies?",
+   "premises": [
+    "ugly forms are possible bodies",
+    "beautiful forms are possible bodies",
+    "existing bodies belong to me"
+   ],
+   "inference": "The speaker accepts every bodily form as his own.",
+   "uncertainties": [
+    "the exact syntactic relation of vatitā to vigrahā is unclear",
+    "number agreement between adjective and noun is not fully resolved"
+   ],
+   "plain_english": "Whether ugly or beautiful, my bodies exist."
+  }
+ ]
+}

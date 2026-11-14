@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p176",
+ "items": [
+  {
+   "verse": 4400,
+   "rows": [
+    {
+     "surface": "aiśa",
+     "gloss": "belonging-to-īśa",
+     "grounds": "adjective qualifying the portion as pertaining to Īśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudrāṃśakaṃ",
+     "gloss": "rudra-portion",
+     "grounds": "compound denoting a part or division associated with Rudra",
+     "morph": "n.acc.sg, compound rudra+aṃśaka"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing prior action of forming or constituting",
+     "morph": "(indecl.) absolutive, √kṛ"
+    },
+    {
+     "surface": "rūparāmaika rāmakaiḥ",
+     "gloss": "by-form-rāma-single-rāmakas",
+     "grounds": "instrumental plural agent; internal compound structure analyzed within the fused token as given",
+     "morph": "m.inst.pl, compound rūpa-rāma-eka+rāmaka"
+    }
+   ],
+   "question": "By what agents is the portion belonging to Īśa and Rudra constituted?",
+   "premises": [
+    "A portion is identified as belonging to Īśa and Rudra.",
+    "This portion is constituted through a completed act of making.",
+    "The act of making is performed by Rāmakas characterized by form and unity with Rāma."
+   ],
+   "inference": "The Īśa-Rudra portion is constituted by means of those Rāmakas.",
+   "uncertainties": [
+    "The precise internal analysis of the compound in rūparāmaika rāmakaiḥ remains interpretively uncertain."
+   ],
+   "plain_english": "Having made the portion belonging to Īśa and Rudra by means of the Rāmakas characterized by a single Rāma-form."
+  }
+ ]
+}

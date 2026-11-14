@@ -1,0 +1,50 @@
+{
+ "song": "kul-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "timira+utpāṭana+āt",
+     "gloss": "from-removing-darkness",
+     "grounds": "compound in ablative singular, internal sandhi not split",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "smṛtiḥ",
+     "gloss": "memory",
+     "grounds": "nominative subject of the clause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "called",
+     "grounds": "passive present third singular",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Why is smṛti called smṛti?",
+   "premises": [
+    "Smṛti removes darkness.",
+    "Darkness removal names smṛti."
+   ],
+   "inference": "Smṛti is named from removing darkness.",
+   "uncertainties": [
+    "compound internal sandhi not split"
+   ],
+   "plain_english": "O goddess, from removing darkness, it is called smṛti."
+  }
+ ]
+}

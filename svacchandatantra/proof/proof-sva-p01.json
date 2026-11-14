@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p01",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "a895ee3e1cfde0d1",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 90
+ },
+ "align": {
+  "min_ratio": 0.935,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 71,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "śiṣyaśabdo'rhapratyayāntaḥ spaṣṭamanyat",
+   "yasyāstu nyāsamātreṇa aṇutvaṃ pravilīyate \" iti"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p01-v8]: cite part not byte-exact in source: śiṣyaśabdo'rhapratyayāntaḥ spaṣṭamanyat",
+   "l2[sva-p01-v19]: cite part not byte-exact in source: yasyāstu nyāsamātreṇa aṇutvaṃ pravilīyate \" iti"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 90,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "436a99b2ddd5596e1c17e7367b8f7fddb5b84a7f0277c365306790efd7d37333",
+  "l0": "cc46a576ae2cfcc82e0d96b6772c4c175a22f0f5aec4d68ebb87bfd1dd8291ae",
+  "argmap": "6d3989bf8c7bd02b078185af0ae622db67016d537ec07f9d481fe95b43b907d5",
+  "l2": "5ad6be37387f0fb3e64aecfa8b3350c835dc5c842e393312de80f1d92ac2a63a",
+  "c1": "5f107ced387f1ca421e94c0546c3373b0303f05a82dcb3d0a80b72aacd8cccb6"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "a895ee3e1cfde0d1",
+  "t1": "sva-p01/data/sva-p01.t1.json",
+  "l0": "sva-p01/data/sva-p01.l0.json",
+  "l2": "sva-p01/data/sva-p01.l2.json",
+  "c1": "sva-p01/data/sva-p01.c1.json"
+ }
+}

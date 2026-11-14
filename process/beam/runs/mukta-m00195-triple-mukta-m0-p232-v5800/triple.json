@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p232",
+ "items": [
+  {
+   "verse": 5800,
+   "rows": [
+    {
+     "surface": "kamale",
+     "gloss": "in-lotus",
+     "grounds": "locative of kamala, indicating the locus of inscription",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "karṇikāyāñ",
+     "gloss": "in-pericarp",
+     "grounds": "locative of karṇikā, specifying the central part of the lotus",
+     "morph": "loc.sg.f."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking loci or elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍdalam",
+     "gloss": "six-petaled",
+     "grounds": "compound of ṣaṣ (six) and dala (petal), describing the form to be drawn",
+     "morph": "compound: ṣaṣ+dala; acc.sg.n."
+    }
+   ],
+   "question": "Where within the lotus diagram must the six-petaled structure be inscribed?",
+   "premises": [
+    "The inscription is located in the lotus.",
+    "The inscription is located in the pericarp.",
+    "A six-petaled structure is specified for drawing."
+   ],
+   "inference": "The six-petaled structure is to be inscribed within the lotus and its pericarp.",
+   "uncertainties": [
+    "The precise syntactic role of ṣaḍdalam as direct object or descriptive attribute depends on the continued context."
+   ],
+   "plain_english": "And in the lotus, in its pericarp, draw a six-petaled form."
+  }
+ ]
+}

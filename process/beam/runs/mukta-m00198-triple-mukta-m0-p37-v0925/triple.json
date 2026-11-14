@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "rasāśraṃ",
+     "gloss": "six-cornered",
+     "grounds": "compound of rasa (six) and aśra (corner), qualifying the spire and neck",
+     "morph": "compound; n.acc.sg"
+    },
+    {
+     "surface": "śikharaṃ",
+     "gloss": "spire",
+     "grounds": "object denoting the temple spire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "neck",
+     "grounds": "object denoting the neck section below the spire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūṭakoṣṭhādi",
+     "gloss": "peak-compartment-and-so-on",
+     "grounds": "compound of kūṭa (peak), koṣṭha (compartment), and ādi (and-so-on)",
+     "morph": "compound; n.acc.sg"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined-with",
+     "grounds": "past participle indicating conjunction with the listed components",
+     "morph": "n.acc.sg; ppp sam+√yu"
+    }
+   ],
+   "question": "What geometric form and accompanying components must the temple spire and neck possess?",
+   "premises": [
+    "The spire is specified as six-cornered.",
+    "The neck is specified as six-cornered.",
+    "The spire and neck are joined with peak, compartment, and related elements."
+   ],
+   "inference": "The temple spire and neck must be six-cornered and integrated with peak, compartment, and similar components.",
+   "uncertainties": [
+    "The exact scope of ādi in kūṭakoṣṭhādi is not specified in this verse."
+   ],
+   "plain_english": "The spire and the neck should be six-cornered and joined with the peak, compartment, and other such parts."
+  }
+ ]
+}

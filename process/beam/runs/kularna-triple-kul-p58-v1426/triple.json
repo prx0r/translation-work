@@ -1,0 +1,605 @@
+{
+ "song": "kul-p58",
+ "items": [
+  {
+   "verse": 1426,
+   "rows": [
+    {
+     "surface": "nirgataṃ",
+     "gloss": "gone-forth",
+     "grounds": "from guru's mouth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guror",
+     "gloss": "guru's",
+     "grounds": "possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaktrāt",
+     "gloss": "from-mouth",
+     "grounds": "source of speech",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "sacred teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive of vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is called scripture that has gone forth from the guru's mouth?",
+   "premises": [
+    "scripture gone forth from guru's mouth is called scripture",
+    "guru's mouth is the source of teaching"
+   ],
+   "inference": "All teaching emanating from the guru's mouth counts as scripture.",
+   "uncertainties": [],
+   "plain_english": "Whatever scripture has gone forth from the guru's mouth, all of that is called scripture."
+  },
+  {
+   "verse": 1427,
+   "rows": [
+    {
+     "surface": "bahubhṛtya",
+     "gloss": "with-many-servants",
+     "grounds": "attendant retinue",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parair",
+     "gloss": "by-others",
+     "grounds": "other people",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "bhṛtyaiḥ",
+     "gloss": "with-servants",
+     "grounds": "attendants",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "accompanied",
+     "grounds": "together with",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atibhaktimān",
+     "gloss": "greatly-devoted",
+     "grounds": "intense devotion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should a disciple behave even when accompanied by many servants?",
+   "premises": [
+    "a disciple may be accompanied by many servants",
+    "devotion remains required despite retinue"
+   ],
+   "inference": "Even with a large retinue, the disciple must remain greatly devoted.",
+   "uncertainties": [],
+   "plain_english": "Even when accompanied by many servants and others, he should be greatly devoted."
+  },
+  {
+   "verse": 1428,
+   "rows": [
+    {
+     "surface": "gurvājñām",
+     "gloss": "guru's-command",
+     "grounds": "instruction to obey",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "tadagatena",
+     "gloss": "with-that-gone",
+     "grounds": "inner alignment",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "antarātmanā",
+     "gloss": "with-inner-self",
+     "grounds": "innermost being",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "How should the disciple carry out the guru's command?",
+   "premises": [
+    "the disciple should do the guru's command",
+    "the command must be done with inner self"
+   ],
+   "inference": "The disciple should obey the guru's command with his whole inner being.",
+   "uncertainties": [],
+   "plain_english": "He should indeed carry out the guru's command with his inner self aligned to it."
+  },
+  {
+   "verse": 1429,
+   "rows": [
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "constant time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevayet",
+     "gloss": "should-serve",
+     "grounds": "optative of sev",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "constantly",
+     "grounds": "unbroken practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "student role",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhrīguru",
+     "gloss": "guru's-presence",
+     "grounds": "near the guru",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "proximity",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should a disciple serve in the guru's presence?",
+   "premises": [
+    "a disciple should serve always",
+    "service occurs in guru's presence"
+   ],
+   "inference": "The disciple should constantly serve while in the guru's presence.",
+   "uncertainties": [],
+   "plain_english": "The disciple should always serve constantly in the presence of the guru."
+  },
+  {
+   "verse": 1430,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "address to Parvati",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhūmyāsane",
+     "gloss": "on-ground-seat",
+     "grounds": "low seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tiṣṭhed",
+     "gloss": "should-stand",
+     "grounds": "optative of sthā",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "gurukāryaṃ",
+     "gloss": "guru's-work",
+     "grounds": "service task",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of ācar",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "What should the disciple do on a ground seat before the guru?",
+   "premises": [
+    "the disciple should stand on a ground seat",
+    "the disciple should perform the guru's work"
+   ],
+   "inference": "The disciple should stand on a low seat and perform the guru's work.",
+   "uncertainties": [],
+   "plain_english": "O goddess, he should stand on a ground seat and perform the guru's work."
+  },
+  {
+   "verse": 1431,
+   "rows": [
+    {
+     "surface": "gurupārśvagataḥ",
+     "gloss": "gone-to-guru's-side",
+     "grounds": "near guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namraḥ",
+     "gloss": "humble",
+     "grounds": "bowed posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasannavadanaḥ",
+     "gloss": "cheerful-faced",
+     "grounds": "pleasant expression",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "How should one be when standing beside the guru?",
+   "premises": [
+    "one gone to guru's side should be humble",
+    "one should have a cheerful face"
+   ],
+   "inference": "Beside the guru one should be humble and cheerful-faced.",
+   "uncertainties": [],
+   "plain_english": "Having gone to the guru's side, one should be humble and cheerful-faced."
+  },
+  {
+   "verse": 1432,
+   "rows": [
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "optative of ācar",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "all",
+     "grounds": "entirety",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "wrongdoing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "koṭiguṇaḥ",
+     "gloss": "ten-million-fold",
+     "grounds": "multiplied fault",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "What happens to all faults done against the guru?",
+   "premises": [
+    "doing against him multiplies fault",
+    "all his fault becomes ten-million-fold"
+   ],
+   "inference": "Any fault committed against the guru becomes multiplied ten million times.",
+   "uncertainties": [],
+   "plain_english": "If one acts against him, all fault becomes ten-million-fold."
+  },
+  {
+   "verse": 1433,
+   "rows": [
+    {
+     "surface": "ahitaṃ",
+     "gloss": "harmful",
+     "grounds": "not beneficial",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitaṃ",
+     "gloss": "beneficial",
+     "grounds": "good",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "raurava",
+     "grounds": "hell name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "punishment realm",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative of vraj",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "Where does one go after harmful or beneficial acts against the guru?",
+   "premises": [
+    "harmful or beneficial acts against guru are considered",
+    "one goes to raurava hell"
+   ],
+   "inference": "Whether the act is harmful or beneficial, one goes to Raurava hell.",
+   "uncertainties": [],
+   "plain_english": "Whether harmful or beneficial, one would go to Raurava hell."
+  },
+  {
+   "verse": 1434,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "wrongdoing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samavāpnoti",
+     "gloss": "obtains-fully",
+     "grounds": "verb sam-ava-āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "gurvagre",
+     "gloss": "before-guru",
+     "grounds": "in guru's presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anṛtabhāṣaṇāt",
+     "gloss": "from-false-speech",
+     "grounds": "lying",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What sin is obtained by false speech before the guru?",
+   "premises": [
+    "false speech before guru produces sin",
+    "that sin is fully obtained"
+   ],
+   "inference": "Lying in the guru's presence brings that sin upon oneself.",
+   "uncertainties": [],
+   "plain_english": "That sin is fully obtained from false speech before the guru."
+  },
+  {
+   "verse": 1435,
+   "rows": [
+    {
+     "surface": "śrīguruṃ",
+     "gloss": "revered-guru",
+     "grounds": "honored teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative of tyaj",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "in any place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadādiṣṭaḥ",
+     "gloss": "instructed-by-him",
+     "grounds": "commanded by guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "optative of vraj",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Should the disciple abandon the revered guru anywhere?",
+   "premises": [
+    "the disciple should not abandon the revered guru anywhere",
+    "the instructed disciple should go as commanded"
+   ],
+   "inference": "The disciple must not abandon the guru anywhere and should follow his instruction.",
+   "uncertainties": [],
+   "plain_english": "O beloved, one should not abandon the revered guru anywhere; the instructed one should go."
+  },
+  {
+   "verse": 1436,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacched",
+     "gloss": "should-go",
+     "grounds": "optative of gam",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "agratas",
+     "gloss": "in-front",
+     "grounds": "before guru",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhed",
+     "gloss": "should-stand",
+     "grounds": "optative of sthā",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "utthite",
+     "gloss": "when-risen",
+     "grounds": "guru standing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should one move when the guru rises?",
+   "premises": [
+    "one should not go in front of him",
+    "one should not stand when guru rises"
+   ],
+   "inference": "One must not walk ahead of the guru or stand while he rises.",
+   "uncertainties": [],
+   "plain_english": "One should not go in front of him, nor stand when the guru rises."
+  },
+  {
+   "verse": 1437,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "among them",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "svacchāyāṃ",
+     "gloss": "own-shadow",
+     "grounds": "personal shadow",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaped",
+     "gloss": "should-sleep",
+     "grounds": "optative of svap",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "gurusannidhau",
+     "gloss": "near-guru",
+     "grounds": "guru's presence",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What conduct is forbidden in the guru's presence?",
+   "premises": [
+    "one should not do in those places",
+    "one should not sleep near guru"
+   ],
+   "inference": "In the guru's presence one must not cast one's shadow over others or sleep.",
+   "uncertainties": [],
+   "plain_english": "One should not do so in those places, nor sleep in the guru's presence."
+  }
+ ]
+}

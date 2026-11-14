@@ -1,0 +1,51 @@
+{
+ "song": "kul-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "muṣṭimātrāṅkuraiḥ",
+     "gloss": "fistful-sprouts",
+     "grounds": "compound of muṣṭi (fist), mātra (measure), and aṅkura (sprout), instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sārddham",
+     "gloss": "together",
+     "grounds": "indeclinable adverb meaning together or with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekasmin",
+     "gloss": "in-one",
+     "grounds": "locative singular of eka (one)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-combine",
+     "grounds": "causative optative of yuj (to join or yoke)",
+     "morph": "3.sg.act.opt. (yuj)"
+    },
+    {
+     "surface": "ghaṭe",
+     "gloss": "pot",
+     "grounds": "locative singular of ghaṭa (pot or jar)",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should the sprouts be combined in the pot?",
+   "premises": [
+    "Sprouts are measured by fistful.",
+    "Water and buttermilk are prepared.",
+    "Combination occurs in one pot."
+   ],
+   "inference": "The ritual vessel receives sprouts together with water and buttermilk.",
+   "uncertainties": [
+    "Exact sprout type is unspecified."
+   ],
+   "plain_english": "Combine a fistful of sprouts together in one pot."
+  }
+ ]
+}

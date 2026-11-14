@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "kāmākarṣaṇakāriṇyo",
+     "gloss": "desire-attracting-doers",
+     "grounds": "compound kāma-ākarṣaṇa-kāriṇī; feminine nominative plural ending -yaḥ sandhis to -yo before vighnaṃ",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "vighnaṃ",
+     "gloss": "obstacle",
+     "grounds": "accusative singular neuter object of vighnantu",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vighnantu",
+     "gloss": "let-them-destroy",
+     "grounds": "third-person plural imperative active of root vighn, governing vighnaṃ",
+     "morph": "verb.3pl.act.impv"
+    },
+    {
+     "surface": "ṣoḍasa",
+     "gloss": "sixteen",
+     "grounds": "indeclinable numeral modifying the implied sixteen deities",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sixteen desire-attracting deities are invoked to destroy obstacles?",
+   "premises": [
+    "sixteen desire-attracting deities destroy obstacles",
+    "obstacle removal is sought before practice"
+   ],
+   "inference": "the verse invokes sixteen kāmākarṣaṇa deities to remove obstacles",
+   "uncertainties": [
+    "exact identity of the sixteen deities is not specified in this verse"
+   ],
+   "plain_english": "May the sixteen desire-attracting ones destroy obstacles."
+  }
+ ]
+}

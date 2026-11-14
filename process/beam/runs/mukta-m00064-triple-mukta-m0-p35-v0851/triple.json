@@ -1,0 +1,1217 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "vinirjitya",
+     "gloss": "having-conquered",
+     "grounds": "absolutive of vi-nir-ji 'to conquer completely'",
+     "morph": "gerund (vi-nir-√ji)"
+    },
+    {
+     "surface": "nṛpān",
+     "gloss": "kings",
+     "grounds": "object of vinirjitya",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "qualifies nṛpān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "subject qualifier",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "subject qualifier",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāmatiḥ",
+     "gloss": "great-minded",
+     "grounds": "subject; compound mahā+mati",
+     "morph": "compound=mahā+mati; m.nom.sg"
+    }
+   ],
+   "question": "What kind of ruler conquers all other kings?",
+   "premises": [
+    "A single ruler conquers all kings.",
+    "This ruler is glorious.",
+    "This ruler is great-minded."
+   ],
+   "inference": "Supreme conquest is attributed to one glorious and wise ruler.",
+   "uncertainties": [],
+   "plain_english": "Having conquered all kings, there is one glorious and great-minded ruler."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "kuvācā",
+     "gloss": "by-bad-speech",
+     "grounds": "instrumental cause or means; compound ku+vāc",
+     "morph": "compound=ku+vāc; f.inst.sg"
+    },
+    {
+     "surface": "dhārmikāḥ",
+     "gloss": "righteous",
+     "grounds": "qualifies rājānaḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "qualifies rājānaḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rājāno",
+     "gloss": "kings",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yuddha+durmadāḥ",
+     "gloss": "battle-mad",
+     "grounds": "qualifies rājānaḥ; compound yuddha+durmada",
+     "morph": "compound=yuddha+durmada; m.nom.pl"
+    }
+   ],
+   "question": "How are the opposing kings characterized in this conflict?",
+   "premises": [
+    "All the kings are described as righteous.",
+    "They are maddened by battle.",
+    "Bad speech is associated with them."
+   ],
+   "inference": "The opposing kings are portrayed as righteous yet inflamed by battle and harsh words.",
+   "uncertainties": [
+    "The exact syntactic role of kuvācā is contextually ambiguous."
+   ],
+   "plain_english": "By bad speech, all the righteous kings became maddened for battle."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "main verb",
+     "morph": "3.sg.present.active (√sthā)"
+    },
+    {
+     "surface": "avyakta+rūpeṇa",
+     "gloss": "in-unmanifest-form",
+     "grounds": "manner of standing; compound avyakta+rūpa",
+     "morph": "compound=avyakta+rūpa; n.inst.sg"
+    },
+    {
+     "surface": "paṭṭe",
+     "gloss": "on-throne",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ākalpam",
+     "gloss": "until-kalpa",
+     "grounds": "duration; compound ā+kalpa",
+     "morph": "compound=ā+kalpa; m.acc.sg (indecl.-like usage)"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "O-Mother",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How long and in what form does the ruler remain enthroned?",
+   "premises": [
+    "The ruler stands on the throne.",
+    "The ruler remains in an unmanifest form.",
+    "The duration extends until the end of a kalpa."
+   ],
+   "inference": "The ruler abides enthroned in unmanifest form for an entire kalpa.",
+   "uncertainties": [],
+   "plain_english": "O Mother, he stands on the throne in an unmanifest form until the end of the kalpa."
+  },
+  {
+   "verse": 854,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyā",
+     "gloss": "wife",
+     "grounds": "subject of comparison",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nandimatā",
+     "gloss": "Nandimatā",
+     "grounds": "name of the wife",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative qualifier",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle used predicatively",
+     "morph": "f.nom.sg (past participle, √man)"
+    }
+   ],
+   "question": "To whom is this yoginī explicitly compared in status?",
+   "premises": [
+    "Nandimatā is identified as a wife.",
+    "This yoginī is compared to her.",
+    "The comparison establishes equivalence in regard."
+   ],
+   "inference": "This yoginī is regarded as comparable to Nandimatā.",
+   "uncertainties": [],
+   "plain_english": "Just as Nandimatā was a wife, so this yoginī is considered."
+  },
+  {
+   "verse": 855,
+   "rows": [
+    {
+     "surface": "vinusiṃhaḥ",
+     "gloss": "Vinusiṃha",
+     "grounds": "proper name, subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpa+ante",
+     "gloss": "at-kalpa-end",
+     "grounds": "time; compound kalpa+anta",
+     "morph": "compound=kalpa+anta; m.loc.sg"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies siddhim",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "perfection",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avāpsyati",
+     "gloss": "will-attain",
+     "grounds": "future verb",
+     "morph": "3.sg.future.active (ava-√āp)"
+    }
+   ],
+   "question": "What ultimate attainment awaits Vinusiṃha at the end of the kalpa?",
+   "premises": [
+    "Vinusiṃha is the subject.",
+    "The time specified is the end of the kalpa.",
+    "He will attain supreme perfection."
+   ],
+   "inference": "Vinusiṃha is destined to attain supreme perfection at the kalpa's end.",
+   "uncertainties": [],
+   "plain_english": "Vinusiṃha also will attain supreme perfection at the end of the kalpa."
+  },
+  {
+   "verse": 856,
+   "rows": [
+    {
+     "surface": "bhaviṣyanti",
+     "gloss": "will-be",
+     "grounds": "future verb",
+     "morph": "3.pl.future.active (√bhū)"
+    },
+    {
+     "surface": "mahātmāno",
+     "gloss": "great-souled",
+     "grounds": "subject qualifier; compound mahā+ātman",
+     "morph": "compound=mahā+ātman; m.nom.pl"
+    },
+    {
+     "surface": "gaṇeśāḥ",
+     "gloss": "lords-of-gaṇas",
+     "grounds": "subject; compound gaṇa+īśa",
+     "morph": "compound=gaṇa+īśa; m.nom.pl"
+    },
+    {
+     "surface": "dhaneśāḥ",
+     "gloss": "lords-of-wealth",
+     "grounds": "subject; compound dhana+īśa",
+     "morph": "compound=dhana+īśa; m.nom.pl"
+    },
+    {
+     "surface": "sarva+śālinaḥ",
+     "gloss": "all-endowed",
+     "grounds": "subject qualifier; compound sarva+śālin",
+     "morph": "compound=sarva+śālin; m.nom.pl"
+    }
+   ],
+   "question": "What exalted status will these beings attain in the future?",
+   "premises": [
+    "They will become great-souled.",
+    "They will become lords of gaṇas and lords of wealth.",
+    "They will be endowed with all things."
+   ],
+   "inference": "These beings will attain exalted lordship and complete endowment.",
+   "uncertainties": [],
+   "plain_english": "They will become great-souled lords of gaṇas, lords of wealth, and endowed with all things."
+  },
+  {
+   "verse": 857,
+   "rows": [
+    {
+     "surface": "viharanti",
+     "gloss": "they-roam",
+     "grounds": "present verb",
+     "morph": "3.pl.present.active (vi-√hṛ)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "time adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "krīḍante",
+     "gloss": "they-sport",
+     "grounds": "present verb",
+     "morph": "3.pl.present.middle (√krīḍ)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavāḥ",
+     "gloss": "Bhairavas",
+     "grounds": "standard of comparison",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do these exalted beings conduct themselves, according to the comparison?",
+   "premises": [
+    "They roam always.",
+    "They sport playfully.",
+    "Their conduct is compared to that of the Bhairavas."
+   ],
+   "inference": "They live in perpetual freedom and play like the Bhairavas.",
+   "uncertainties": [],
+   "plain_english": "O goddess, they always roam and sport just as the Bhairavas do."
+  },
+  {
+   "verse": 858,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "repeated time adverb for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatīrya",
+     "gloss": "having-descended",
+     "grounds": "absolutive of ava-tṝ",
+     "morph": "gerund (ava-√tṝ)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svasya",
+     "gloss": "of-own",
+     "grounds": "qualifies kāmasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāmasya",
+     "gloss": "desire",
+     "grounds": "object of protection",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pālakaḥ",
+     "gloss": "protector",
+     "grounds": "predicate noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What role does he assume after descending at that time?",
+   "premises": [
+    "He descends at that time.",
+    "He is associated with his own desire.",
+    "He becomes its protector."
+   ],
+   "inference": "After descending, he acts as the protector of his own desire.",
+   "uncertainties": [
+    "The precise referent of kāmasya may depend on broader context."
+   ],
+   "plain_english": "Then, having descended, he becomes the protector of his own desire."
+  },
+  {
+   "verse": 859,
+   "rows": [
+    {
+     "surface": "kalpa+antam",
+     "gloss": "until-kalpa-end",
+     "grounds": "duration; compound kalpa+anta",
+     "morph": "compound=kalpa+anta; m.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lord-of-gods",
+     "grounds": "vocative address; compound deva+īśī",
+     "morph": "compound=deva+īśī; f.voc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāpaḥ",
+     "gloss": "curse",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimucyate",
+     "gloss": "is-released",
+     "grounds": "passive verb",
+     "morph": "3.sg.present.passive (vi-√muc)"
+    }
+   ],
+   "question": "Until what point does this condition persist before the curse is released?",
+   "premises": [
+    "The condition lasts until the end of the kalpa.",
+    "The duration is linked to the curse.",
+    "The curse is eventually released."
+   ],
+   "inference": "The stated condition continues until the curse is released at the kalpa's end.",
+   "uncertainties": [],
+   "plain_english": "Thus, O goddess, it continues until the end of the kalpa, as long as the curse is released."
+  },
+  {
+   "verse": 860,
+   "rows": [
+    {
+     "surface": "kalpam",
+     "gloss": "for-a-kalpa",
+     "grounds": "duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address; compound mahā+īśānī",
+     "morph": "compound=mahā+īśānī; f.voc.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-Kali-age",
+     "grounds": "time period",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "varṣa+śata+trayam",
+     "gloss": "three-hundred-years",
+     "grounds": "duration; compound varṣa+śata+traya",
+     "morph": "compound=varṣa+śata+traya; n.nom.sg"
+    }
+   ],
+   "question": "What duration is specified for this condition in the Kali age?",
+   "premises": [
+    "A kalpa is mentioned as a duration.",
+    "The context is the Kali age.",
+    "A period of three hundred years is specified."
+   ],
+   "inference": "In the Kali age, the duration is specified as three hundred years within a kalpa.",
+   "uncertainties": [
+    "The relation between kalpam and varṣa+śata+trayam is syntactically compressed."
+   ],
+   "plain_english": "O great goddess, in the Kali age it lasts for a kalpa, indeed for three hundred years."
+  },
+  {
+   "verse": 861,
+   "rows": [
+    {
+     "surface": "kāmākhyā",
+     "gloss": "Kāmākhyā",
+     "grounds": "subject, goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāmāye",
+     "gloss": "O-great-illusion",
+     "grounds": "vocative address; compound mahā+māyā",
+     "morph": "compound=mahā+māyā; f.voc.sg"
+    },
+    {
+     "surface": "tad+ante",
+     "gloss": "at-that-end",
+     "grounds": "time; compound tad+anta",
+     "morph": "compound=tad+anta; m.loc.sg"
+    },
+    {
+     "surface": "sakalam",
+     "gloss": "all",
+     "grounds": "predicate qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "will-be",
+     "grounds": "optative or future sense verb",
+     "morph": "3.sg.optative.active (√bhū)"
+    }
+   ],
+   "question": "What becomes complete at the end of that period for Kāmākhyā?",
+   "premises": [
+    "Kāmākhyā is the subject.",
+    "The time is at the end of that period.",
+    "Everything becomes complete."
+   ],
+   "inference": "At that end, Kāmākhyā becomes complete in all respects.",
+   "uncertainties": [],
+   "plain_english": "O great Māyā, at the end of that period Kāmākhyā will become complete in all respects."
+  },
+  {
+   "verse": 862,
+   "rows": [
+    {
+     "surface": "kāmākhyāyāḥ",
+     "gloss": "of-Kāmākhyā",
+     "grounds": "possessive or topic",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address; compound mahā+īśānī",
+     "morph": "compound=mahā+īśānī; f.voc.sg"
+    },
+    {
+     "surface": "sākalyena",
+     "gloss": "in-entirety",
+     "grounds": "manner",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphatic adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who affirms the complete account concerning Kāmākhyā with certainty?",
+   "premises": [
+    "The subject matter concerns Kāmākhyā.",
+    "The account is given in its entirety.",
+    "The speaker affirms it certainly."
+   ],
+   "inference": "The speaker certainly declares the complete account of Kāmākhyā.",
+   "uncertainties": [
+    "The verb is elided; the statement functions as an affirmation."
+   ],
+   "plain_english": "O great goddess, this concerning Kāmākhyā has certainly been stated by me in its entirety."
+  },
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "takṣakeṇa",
+     "gloss": "by-Takṣaka",
+     "grounds": "agent of biting",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṣṭasya",
+     "gloss": "of-bitten-one",
+     "grounds": "person affected; past participle used substantively",
+     "morph": "m.gen.sg (past participle, √daṃś)"
+    },
+    {
+     "surface": "pratīkāraḥ",
+     "gloss": "remedy",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+kṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "time; compound tad+kṣaṇa",
+     "morph": "compound=tad+kṣaṇa; m.abl.sg"
+    }
+   ],
+   "question": "How quickly can a remedy act for one bitten by Takṣaka?",
+   "premises": [
+    "A person is bitten by Takṣaka.",
+    "A remedy exists for that person.",
+    "The remedy acts at that very moment."
+   ],
+   "inference": "Even a bite by Takṣaka can be remedied instantly.",
+   "uncertainties": [],
+   "plain_english": "Indeed, for one bitten even by Takṣaka, there is a remedy at that very moment."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "narakāt",
+     "gloss": "from-hells",
+     "grounds": "source of release",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "niṣkṛtiḥ",
+     "gloss": "release",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "verb of existence",
+     "morph": "3.sg.present.active (√as)"
+    },
+    {
+     "surface": "tasya+abhāvāt",
+     "gloss": "from-its-absence",
+     "grounds": "reason; compound tad+abhāva",
+     "morph": "compound=tad+abhāva; m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject of second clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What consequence follows when release from hell is absent?",
+   "premises": [
+    "There is no release from hell.",
+    "This is due to its absence.",
+    "There is no doubt about this."
+   ],
+   "inference": "The absence of release from hell is certain and unquestionable.",
+   "uncertainties": [
+    "The referent of tasya in tasya+abhāvāt is context-dependent."
+   ],
+   "plain_english": "There is no release from hell; because of its absence, there is no doubt."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "nānāvidha+mahā+utpātaiḥ",
+     "gloss": "by-various-great-calamities",
+     "grounds": "instrumental cause; compound nānāvidha+mahā+utpāta",
+     "morph": "compound=nānāvidha+mahā+utpāta; m.inst.pl"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "temporal extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.optative.active (√as)"
+    },
+    {
+     "surface": "sāpta+pauruṣam",
+     "gloss": "for-seven-generations",
+     "grounds": "duration; compound saptan+puruṣa with taddhita sense",
+     "morph": "compound=sāpta+pauruṣa; n.nom.sg (indecl.-like usage)"
+    }
+   ],
+   "question": "How long may various great calamities continue to afflict?",
+   "premises": [
+    "Various great calamities occur.",
+    "Their duration is specified.",
+    "The duration extends for seven generations."
+   ],
+   "inference": "The calamities may persist for seven generations.",
+   "uncertainties": [],
+   "plain_english": "There may be various great calamities lasting for seven generations."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "sarva+deva+mayaḥ",
+     "gloss": "consisting-of-all-gods",
+     "grounds": "predicate qualifier; compound sarva+deva+maya",
+     "morph": "compound=sarva+deva+maya; m.nom.sg"
+    },
+    {
+     "surface": "vipraḥ",
+     "gloss": "brahmin",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahma+viṣṇu+śiva+ātmakaḥ",
+     "gloss": "of-Brahmā-Viṣṇu-Śiva-nature",
+     "grounds": "predicate qualifier; compound brahma+viṣṇu+śiva+ātmaka",
+     "morph": "compound=brahma+viṣṇu+śiva+ātmaka; m.nom.sg"
+    }
+   ],
+   "question": "What divine nature is attributed to the brahmin in this teaching?",
+   "premises": [
+    "The brahmin is described as consisting of all gods.",
+    "The brahmin is of the nature of Brahmā, Viṣṇu, and Śiva.",
+    "Both descriptions identify the brahmin with divine totality."
+   ],
+   "inference": "The brahmin is presented as embodying the totality of the gods.",
+   "uncertainties": [],
+   "plain_english": "The brahmin consists of all gods and is of the nature of Brahmā, Viṣṇu, and Śiva."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "brāhmaṇaiḥ",
+     "gloss": "by-brahmins",
+     "grounds": "agent of eating",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhujyate",
+     "gloss": "is-eaten",
+     "grounds": "passive verb",
+     "morph": "3.sg.present.passive (√bhuj)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "eats",
+     "grounds": "active verb",
+     "morph": "3.sg.present.middle (√bhuj)"
+    },
+    {
+     "surface": "hariḥ",
+     "gloss": "Hari",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is said to partake when brahmins are fed?",
+   "premises": [
+    "Food is eaten by brahmins in some place.",
+    "Hari eats there as well.",
+    "Hari himself is identified as the eater."
+   ],
+   "inference": "Feeding brahmins is equated with feeding Hari himself.",
+   "uncertainties": [],
+   "plain_english": "Wherever brahmins eat, there Hari himself eats."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "pitaraḥ",
+     "gloss": "ancestors",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "gods",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "qualifies subjects",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhuñjate",
+     "gloss": "eat",
+     "grounds": "present verb",
+     "morph": "3.pl.present.middle (√bhuj)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject of negated clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which beings are affirmed to partake without any doubt?",
+   "premises": [
+    "The ancestors eat.",
+    "All the gods eat.",
+    "There is no doubt about this."
+   ],
+   "inference": "Feeding in this context satisfies both ancestors and all gods.",
+   "uncertainties": [],
+   "plain_english": "All the ancestors and all the gods eat; there is no doubt about this."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "brāhmaṇam",
+     "gloss": "brahmin",
+     "grounds": "object in list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumārīm",
+     "gloss": "maiden",
+     "grounds": "object in list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "śakti",
+     "grounds": "object in list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "agnim",
+     "gloss": "fire",
+     "grounds": "object in list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrutim",
+     "gloss": "scripture",
+     "grounds": "object in list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gām",
+     "gloss": "cow",
+     "grounds": "object in list",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which revered figures and entities are enumerated together for honor?",
+   "premises": [
+    "A brahmin is listed.",
+    "A maiden, śakti, fire, scripture, and cow are listed.",
+    "These are presented together in one enumeration."
+   ],
+   "inference": "The verse groups several sacred persons and entities as worthy of reverence.",
+   "uncertainties": [
+    "The governing verb is elided; worship or honor is implied by context."
+   ],
+   "plain_english": "The brahmin, the maiden, the śakti, fire, scripture, and the cow."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "pūjitā+ekā",
+     "gloss": "when-one-worshipped",
+     "grounds": "condition; compound pūjitā+eka with internal sandhi",
+     "morph": "compound=pūjitā+eka; f.nom.sg"
+    },
+    {
+     "surface": "kumārī",
+     "gloss": "maiden",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyam",
+     "gloss": "second",
+     "grounds": "qualifies pūjanam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "subject of result clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.optative.active (√bhū)"
+    }
+   ],
+   "question": "What additional worship results from honoring a single maiden?",
+   "premises": [
+    "One maiden is worshipped.",
+    "A conditional result is stated.",
+    "A second worship would thereby occur."
+   ],
+   "inference": "Worshipping one maiden is treated as equivalent to a second act of worship.",
+   "uncertainties": [
+    "The exact equivalence implied by dvitīyam pūjanam depends on context."
+   ],
+   "plain_english": "If one maiden is worshipped, it would be as if a second worship were performed."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "kumāryaḥ",
+     "gloss": "maidens",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "śaktis",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "predicate qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cara+acaram",
+     "gloss": "moving-and-unmoving",
+     "grounds": "predicate; compound cara+acara",
+     "morph": "compound=cara+acara; n.nom.sg"
+    }
+   ],
+   "question": "How broadly are maidens and śaktis identified with the world?",
+   "premises": [
+    "Maidens and śaktis are named.",
+    "All this is identified with them.",
+    "This includes the moving and unmoving world."
+   ],
+   "inference": "Maidens and śaktis are identified with the entirety of the moving and unmoving world.",
+   "uncertainties": [],
+   "plain_english": "The maidens and the śaktis are all this, the moving and unmoving world."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "qualifies devyaḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāḥ",
+     "gloss": "supreme",
+     "grounds": "qualifies devyaḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūjitāḥ",
+     "gloss": "worshipped",
+     "grounds": "predicate participle",
+     "morph": "f.nom.pl (past participle, √pūj)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.pl.optative.active (√as)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject of negated clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the consequence for all supreme goddesses in this worship?",
+   "premises": [
+    "All supreme goddesses are the referent.",
+    "They would be worshipped.",
+    "There is no doubt about this."
+   ],
+   "inference": "The act results in the worship of all supreme goddesses without doubt.",
+   "uncertainties": [],
+   "plain_english": "Indeed, all the supreme goddesses would be worshipped; there is no doubt."
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "passive verb",
+     "morph": "3.sg.present.passive (√labh)"
+    },
+    {
+     "surface": "koṭi+guṇitam",
+     "gloss": "multiplied-by-crores",
+     "grounds": "result qualifier; compound koṭi+guṇita",
+     "morph": "compound=koṭi+guṇita; n.nom.sg"
+    },
+    {
+     "surface": "viśvāsāt",
+     "gloss": "by-faith",
+     "grounds": "cause or means",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject of negated clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What magnitude of fruit is gained through faith in this act?",
+   "premises": [
+    "A result is obtained.",
+    "The result is multiplied by crores.",
+    "Faith is the cause and there is no doubt."
+   ],
+   "inference": "Faith yields a result multiplied by crores, certainly.",
+   "uncertainties": [
+    "The specific fruit obtained is not explicitly named in this verse."
+   ],
+   "plain_english": "Through faith, a result multiplied by crores is obtained; there is no doubt about this."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "go+grāsam",
+     "gloss": "cow-mouthful",
+     "grounds": "object; compound go+grāsa",
+     "morph": "compound=go+grāsa; m.acc.sg"
+    },
+    {
+     "surface": "pāvanam",
+     "gloss": "purifying",
+     "grounds": "qualifies go+grāsam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarva+pāpa+nikṛntanam",
+     "gloss": "all-sin-destroying",
+     "grounds": "qualifies go+grāsam; compound sarva+pāpa+nikṛntana",
+     "morph": "compound=sarva+pāpa+nikṛntana; n.acc.sg"
+    }
+   ],
+   "question": "What purifying power is attributed to offering a mouthful to a cow?",
+   "premises": [
+    "A mouthful for a cow is mentioned.",
+    "It is described as purifying in the world.",
+    "It destroys all sins."
+   ],
+   "inference": "Offering a mouthful to a cow is a purifying act that destroys all sins.",
+   "uncertainties": [
+    "The verb is elided; the verse functions as a commendation."
+   ],
+   "plain_english": "A mouthful offered to a cow is purifying in the world and destroys all sins."
+  }
+ ]
+}

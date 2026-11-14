@@ -1,0 +1,1333 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "ekahaste",
+     "gloss": "one-hand-measure",
+     "grounds": "locative indicating the scale of the temple",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "locative specifying the structure",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "daṇḍaḥ",
+     "gloss": "rod",
+     "grounds": "subject denoting the measuring rod",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pādona",
+     "gloss": "quarter-less",
+     "grounds": "compound describing reduced measure",
+     "morph": "nom.sg.nt (pāda+ūna)"
+    },
+    {
+     "surface": "aṅgulam",
+     "gloss": "finger-unit",
+     "grounds": "unit of measurement for the rod",
+     "morph": "nom.sg.nt"
+    }
+   ],
+   "question": "What rod measurement applies to a temple of one-hand scale?",
+   "premises": [
+    "The context is a temple of one-hand measure.",
+    "The rod is specified as quarter-less.",
+    "The unit of measure is an aṅgula."
+   ],
+   "inference": "In a one-hand temple the rod should measure three-quarters of an aṅgula.",
+   "uncertainties": [],
+   "plain_english": "But in a temple of one-hand measure, the rod should be a quarter less than one aṅgula."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "pṛ0",
+     "gloss": "pṛ0",
+     "grounds": "abbreviated marker as given in the text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suvṛttaḥ",
+     "gloss": "well-rounded",
+     "grounds": "describes the shape of the rod",
+     "morph": "nom.sg.m (su+vṛtta)"
+    },
+    {
+     "surface": "sāradāruḥ",
+     "gloss": "sara-wood",
+     "grounds": "specifies the material of the rod",
+     "morph": "nom.sg.m (sāra+dāru)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "granthi",
+     "gloss": "knot",
+     "grounds": "first defect to be excluded",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kaṇṭaka",
+     "gloss": "thorn",
+     "grounds": "second defect to be excluded",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varjitaḥ",
+     "gloss": "devoid",
+     "grounds": "predicate indicating absence of defects",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What material qualities must the measuring rod possess for proper use?",
+   "premises": [
+    "The rod should be well-rounded.",
+    "The rod should be made of sāra wood.",
+    "The rod must be free from knots and thorns."
+   ],
+   "inference": "A proper measuring rod is well-rounded, made of sāra wood, and devoid of knots and thorns.",
+   "uncertainties": [
+    "The token pṛ0 is an abbreviated marker whose expansion is unclear."
+   ],
+   "plain_english": "The rod should be well-rounded, made of sāra wood, and free from knots and thorns."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "daṇḍa",
+     "gloss": "rod",
+     "grounds": "first member of compound indicating basis of measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dīrgha",
+     "gloss": "length",
+     "grounds": "second member indicating the rod's length",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ṣaḍaṃśena",
+     "gloss": "by-sixth-part",
+     "grounds": "instrumental specifying a fractional measure",
+     "morph": "ins.sg.m (ṣaṣ+aṃśa)"
+    },
+    {
+     "surface": "markaṭya",
+     "gloss": "markaṭī",
+     "grounds": "term related to the component being measured",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "?",
+     "gloss": "unclear",
+     "grounds": "unreadable or uncertain token in the source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rdhena",
+     "gloss": "by-half",
+     "grounds": "instrumental indicating half measure",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "width",
+     "grounds": "subject denoting the breadth",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How is the width of the markaṭī determined relative to the rod length?",
+   "premises": [
+    "The rod's length provides the base measure.",
+    "A sixth part of the rod length is involved.",
+    "The width is specified with a half measure."
+   ],
+   "inference": "The width of the markaṭī is determined by a fractional measure derived from the rod's length.",
+   "uncertainties": [
+    "The token ? is unreadable and the exact relation of rdhena to markaṭya is unclear."
+   ],
+   "plain_english": "The width is determined by a sixth part of the rod's length and half of the markaṭī measure."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "dhvajo",
+     "gloss": "flag",
+     "grounds": "first member of compound indicating the flag",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "rod",
+     "grounds": "second member indicating the flagstaff",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramāṇena",
+     "gloss": "by-measure",
+     "grounds": "instrumental indicating the standard of measurement",
+     "morph": "ins.sg.nt"
+    },
+    {
+     "surface": "dhairghyeṃ",
+     "gloss": "in-length",
+     "grounds": "locative specifying the dimension of length",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "'ṣṭāṃśena",
+     "gloss": "by-eighth-part",
+     "grounds": "instrumental specifying a fractional width",
+     "morph": "ins.sg.m (aṣṭa+aṃśa)"
+    },
+    {
+     "surface": "vistare",
+     "gloss": "in-width",
+     "grounds": "locative specifying the dimension of width",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What proportional width should the flag have relative to the flagstaff measure?",
+   "premises": [
+    "The flagstaff measure serves as the standard.",
+    "The length is taken as the reference dimension.",
+    "The width is set at an eighth part."
+   ],
+   "inference": "The flag's width should be one-eighth of the flagstaff's measure in length.",
+   "uncertainties": [],
+   "plain_english": "By the measure of the flagstaff, the flag's width should be one-eighth of its length."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "pure",
+     "gloss": "in-city",
+     "grounds": "locative listing a place type",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nagare",
+     "gloss": "in-town",
+     "grounds": "locative listing a place type",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "koṭṭe",
+     "gloss": "in-fort",
+     "grounds": "locative listing a place type",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "rathe",
+     "gloss": "in-chariot",
+     "grounds": "locative listing a place type",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "rājagṛhe",
+     "gloss": "in-palace",
+     "grounds": "locative listing a place type",
+     "morph": "loc.sg.nt (rāja+gṛha)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which types of locations do the prescribed architectural rules apply?",
+   "premises": [
+    "Cities and towns are included as locations.",
+    "Forts and chariots are included as locations.",
+    "Palaces are included likewise."
+   ],
+   "inference": "The rules apply in cities, towns, forts, chariots, and palaces.",
+   "uncertainties": [],
+   "plain_english": "Likewise in a city, a town, a fort, a chariot, and a palace."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "niṣpannaṃ",
+     "gloss": "completed",
+     "grounds": "describes the finished state of the spire",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "śikharaṃ",
+     "gloss": "spire",
+     "grounds": "object denoting the temple spire",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive indicating prior observation",
+     "morph": "(indecl., absolutive of dṛś)"
+    },
+    {
+     "surface": "dhvaja",
+     "gloss": "flag",
+     "grounds": "first member of compound indicating absence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "without",
+     "grounds": "describes the spire lacking a flag",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.optative-active (kṛ, causative)"
+    }
+   ],
+   "question": "Should a completed spire be left without installing a flag?",
+   "premises": [
+    "A completed spire may be observed.",
+    "The spire may be without a flag.",
+    "Leaving it without a flag is prohibited."
+   ],
+   "inference": "One should not leave a completed spire without a flag.",
+   "uncertainties": [],
+   "plain_english": "Having seen a completed spire without a flag, one should not leave it so."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "dhvaja",
+     "gloss": "flag",
+     "grounds": "first member of compound indicating elevation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ucchrāyeṇa",
+     "gloss": "by-elevation",
+     "grounds": "instrumental indicating the raising of the flag",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "tuṣyanti",
+     "gloss": "are-pleased",
+     "grounds": "predicate expressing satisfaction",
+     "morph": "3.pl.present-active (tuṣ)"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "subject denoting divine beings",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitaraḥ",
+     "gloss": "ancestors",
+     "grounds": "subject denoting ancestral beings",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating equal application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is pleased by the raising of the temple flag?",
+   "premises": [
+    "The flag is raised high.",
+    "Gods are pleased by this elevation.",
+    "Ancestors are likewise pleased."
+   ],
+   "inference": "The elevation of the flag pleases both the gods and the ancestors.",
+   "uncertainties": [],
+   "plain_english": "By the raising of the flag, the gods and likewise the ancestors are pleased."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "pañcaśat",
+     "gloss": "five-hundred",
+     "grounds": "numerical measure",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "pūrvataḥ",
+     "gloss": "in-front",
+     "grounds": "directional term indicating forward extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "behind",
+     "grounds": "directional term indicating rear extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "oneself",
+     "grounds": "reflexive object indicating the reference point",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikam",
+     "gloss": "more",
+     "grounds": "indicates additional extent",
+     "morph": "acc.sg.nt"
+    }
+   ],
+   "question": "What extent of visibility or influence is prescribed around the structure?",
+   "premises": [
+    "A measure of five hundred is specified.",
+    "This extent applies in front and behind.",
+    "An additional extent around oneself is included."
+   ],
+   "inference": "The prescribed extent is five hundred in front and behind, and likewise more around oneself.",
+   "uncertainties": [
+    "The unit of the measure five hundred is not explicitly stated."
+   ],
+   "plain_english": "Five hundred in front and behind, and likewise more around oneself."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimā",
+     "gloss": "image",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dṛṣṭi",
+     "gloss": "sight",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pada",
+     "gloss": "position",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthāna",
+     "gloss": "place",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śikhara",
+     "gloss": "spire",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhvaja",
+     "gloss": "flag",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kalaśa",
+     "gloss": "finial",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣaṇa",
+     "gloss": "characteristic",
+     "grounds": "topic of the section",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "adhikāraḥ",
+     "gloss": "section",
+     "grounds": "denotes the thematic division",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "caturthaḥ",
+     "gloss": "fourth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "'dhyāyaḥ",
+     "gloss": "chapter",
+     "grounds": "denotes the chapter",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which chapter concludes the section on image, sight, position, spire, flag, and finial characteristics?",
+   "premises": [
+    "The section covers image, sight, position, place, spire, flag, and finial characteristics.",
+    "This is identified as a thematic section.",
+    "It is designated as the fourth chapter."
+   ],
+   "inference": "The fourth chapter concludes the section on the characteristics of image, sight, position, place, spire, flag, and finial.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the fourth chapter, the section on the characteristics of the image, sight, position, place, spire, flag, and finial."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "sūtradhāraḥ",
+     "gloss": "architect",
+     "grounds": "subject denoting the master builder",
+     "morph": "nom.sg.m (sūtra+dhāra)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the architect",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative prescribing status",
+     "morph": "3.sg.optative-active (as)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive indicating scope of protection",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "pālana",
+     "gloss": "protection",
+     "grounds": "first member of compound indicating capability",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṣamaḥ",
+     "gloss": "capable",
+     "grounds": "predicate indicating fitness for protection",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Who is declared capable of protecting all involved in the work?",
+   "premises": [
+    "The architect is the subject.",
+    "He alone is designated for this role.",
+    "He must be capable of protecting all."
+   ],
+   "inference": "The architect alone should be capable of protecting all.",
+   "uncertainties": [],
+   "plain_english": "The architect alone should be capable of protecting all."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "viśvakarma",
+     "gloss": "Viśvakarman",
+     "grounds": "first member of compound referring to the divine architect",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prasādena",
+     "gloss": "by-grace",
+     "grounds": "instrumental indicating divine favor",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "śilpibhiḥ",
+     "gloss": "by-artisans",
+     "grounds": "instrumental indicating the agents who respect",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "manyatāṃ",
+     "gloss": "should-be-respected",
+     "grounds": "imperative prescribing respect",
+     "morph": "3.sg.imperative-passive (man)"
+    },
+    {
+     "surface": "vacaḥ",
+     "gloss": "word",
+     "grounds": "object denoting the instruction or teaching",
+     "morph": "nom.sg.nt"
+    }
+   ],
+   "question": "Whose word should artisans respect by the grace of Viśvakarman?",
+   "premises": [
+    "Viśvakarman's grace is invoked.",
+    "Artisans are the agents of respect.",
+    "The word or instruction must be respected."
+   ],
+   "inference": "By the grace of Viśvakarman, artisans should respect the word.",
+   "uncertainties": [
+    "The specific source of the word to be respected is not explicitly named."
+   ],
+   "plain_english": "By the grace of Viśvakarman, the word should be respected by the artisans."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "first member of compound indicating division",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "subject denoting the count of parts",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātā",
+     "gloss": "known",
+     "grounds": "predicate indicating established recognition",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "phālanā",
+     "gloss": "division",
+     "grounds": "subject denoting the splitting",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "corner",
+     "grounds": "first member of compound indicating location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "outside",
+     "grounds": "ablative indicating external position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the division of parts known in relation to the outer corner?",
+   "premises": [
+    "The number of parts is designated.",
+    "The division is well known.",
+    "The division relates to the outside of the corner."
+   ],
+   "inference": "The division by number of parts is known as the splitting outside the corner.",
+   "uncertainties": [],
+   "plain_english": "The number of parts is thus known as the division outside the corner."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "sama",
+     "gloss": "with-equal",
+     "grounds": "first member of compound describing parts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṃśaiḥ",
+     "gloss": "parts",
+     "grounds": "instrumental indicating equal divisions",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "viṣamaiḥ",
+     "gloss": "with-unequal",
+     "grounds": "instrumental indicating unequal divisions",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-made",
+     "grounds": "gerundive prescribing action",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nanda",
+     "gloss": "nanda",
+     "grounds": "technical term for a type of division",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "medaiḥ",
+     "gloss": "meda",
+     "grounds": "technical term for a type of division",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phālanāḥ",
+     "gloss": "divisions",
+     "grounds": "subject denoting the divisions to be made",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "By what kinds of parts should the nanda and meda divisions be made?",
+   "premises": [
+    "Divisions can be made with equal parts.",
+    "Divisions can be made with unequal parts.",
+    "The divisions include nanda and meda types."
+   ],
+   "inference": "The nanda and meda divisions should be made with equal or unequal parts.",
+   "uncertainties": [
+    "The technical meanings of nanda and meda divisions are context-specific."
+   ],
+   "plain_english": "The divisions should be made with equal or unequal parts, including the nanda and meda divisions."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "subject denoting the names",
+     "morph": "nom.pl.nt"
+    },
+    {
+     "surface": "jātayaḥ",
+     "gloss": "types",
+     "grounds": "subject denoting the classes",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "genitive referring to the divisions",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "upward",
+     "grounds": "first member of compound indicating direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mārga",
+     "gloss": "path",
+     "grounds": "second member indicating the course",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anusārataḥ",
+     "gloss": "according-to",
+     "grounds": "ablative indicating accordance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to what principle are the names and types of those divisions determined?",
+   "premises": [
+    "Names and types of the divisions exist.",
+    "These pertain to the previously mentioned divisions.",
+    "They follow the upward path or course."
+   ],
+   "inference": "The names and types of those divisions are determined according to the upward path.",
+   "uncertainties": [],
+   "plain_english": "Their names and types follow according to the upward path."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numerical division option",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numerical division option",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numerical division option",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-division",
+     "grounds": "instrumental indicating the mode of division",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "bhramo",
+     "gloss": "circumference",
+     "grounds": "subject denoting the circular extent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhittiḥ",
+     "gloss": "wall",
+     "grounds": "subject denoting the wall",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "predicate indicating prescription",
+     "morph": "3.sg.present-passive (vidhā)"
+    }
+   ],
+   "question": "By what numerical divisions are the circumference and wall prescribed?",
+   "premises": [
+    "Divisions of nine, eight, or ten are possible.",
+    "The circumference is subject to this division.",
+    "The wall is likewise prescribed by this division."
+   ],
+   "inference": "The circumference and wall are prescribed by divisions of nine, eight, or ten parts.",
+   "uncertainties": [],
+   "plain_english": "The circumference and the wall are prescribed by a division into nine, eight, or ten parts."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "prāsādo",
+     "gloss": "temple",
+     "grounds": "subject denoting the temple type",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-Brahmā",
+     "grounds": "genitive indicating association with Brahmā",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "predicate indicating declaration",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dhīmatā",
+     "gloss": "by-wise",
+     "grounds": "instrumental indicating the declaring authority",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "viśvakarmaṇā",
+     "gloss": "by-Viśvakarman",
+     "grounds": "instrumental naming the wise authority",
+     "morph": "ins.sg.m"
+    }
+   ],
+   "question": "Which temple type is declared by the wise Viśvakarman as belonging to Brahmā?",
+   "premises": [
+    "A temple is the subject of declaration.",
+    "It is associated with Brahmā.",
+    "The wise Viśvakarman makes this declaration."
+   ],
+   "inference": "The wise Viśvakarman declared this temple to be of Brahmā.",
+   "uncertainties": [],
+   "plain_english": "This temple is declared by the wise Viśvakarman to be of Brahmā."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "with-four",
+     "grounds": "instrumental indicating number",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "śukanāsaiḥ",
+     "gloss": "śukanāsa-elements",
+     "grounds": "instrumental denoting architectural features",
+     "morph": "ins.pl.m (śuka+nāsa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siṃhakarṇaiḥ",
+     "gloss": "siṃhakarṇa-elements",
+     "grounds": "instrumental denoting architectural features",
+     "morph": "ins.pl.m (siṃha+karṇa)"
+    },
+    {
+     "surface": "virājitam",
+     "gloss": "adorned",
+     "grounds": "predicate describing the temple's adornment",
+     "morph": "nom.sg.nt"
+    }
+   ],
+   "question": "What architectural features adorn the temple described in this context?",
+   "premises": [
+    "Four śukanāsa elements are present.",
+    "Siṃhakarṇa elements are also present.",
+    "These features adorn the temple."
+   ],
+   "inference": "The temple is adorned with four śukanāsas and with siṃhakarṇas.",
+   "uncertainties": [],
+   "plain_english": "It is adorned with four śukanāsas and with siṃhakarṇas."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "tridvāre",
+     "gloss": "in-three-door",
+     "grounds": "locative describing a structure with three doors",
+     "morph": "loc.sg.nt (tri+dvāra)"
+    },
+    {
+     "surface": "madhyajaṃ",
+     "gloss": "middle-born",
+     "grounds": "describes the central door",
+     "morph": "acc.sg.nt (madhya+ja)"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "object denoting the door",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "dakṣiṇa",
+     "gloss": "south",
+     "grounds": "first member of compound indicating direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āsyaṃ",
+     "gloss": "facing",
+     "grounds": "describes the orientation of the door",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "optative prescribing avoidance",
+     "morph": "3.sg.optative-active (vṛj, causative)"
+    }
+   ],
+   "question": "Which door orientation must be avoided in a structure with three doors?",
+   "premises": [
+    "The structure has three doors.",
+    "The middle door is under consideration.",
+    "A south-facing orientation for it is prohibited."
+   ],
+   "inference": "In a three-door structure, one should avoid making the middle door south-facing.",
+   "uncertainties": [],
+   "plain_english": "In a structure with three doors, one should avoid making the middle door face south."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "homaśālā",
+     "gloss": "sacrificial-hall",
+     "grounds": "subject denoting the hall for oblations",
+     "morph": "nom.sg.f (homa+śālā)"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "first member of compound indicating number of doors",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvārā",
+     "gloss": "doored",
+     "grounds": "describes the hall as having four doors",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "sometimes",
+     "grounds": "indefinite particle indicating occasional occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājagṛhe",
+     "gloss": "in-palace",
+     "grounds": "locative specifying the location",
+     "morph": "loc.sg.nt (rāja+gṛha)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may a sacrificial hall with four doors sometimes be situated?",
+   "premises": [
+    "A sacrificial hall is the subject.",
+    "It may have four doors.",
+    "It may sometimes be located in a palace."
+   ],
+   "inference": "A four-doored sacrificial hall may sometimes be situated in a palace.",
+   "uncertainties": [],
+   "plain_english": "Likewise, a sacrificial hall with four doors may sometimes be in a palace."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numerical element in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "numerical element in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numerical element in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numerical element in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅka",
+     "gloss": "number",
+     "grounds": "first member of compound indicating numbered branches",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śākhā",
+     "gloss": "branch",
+     "grounds": "second member indicating door frames or branches",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antaiḥ",
+     "gloss": "ending-with",
+     "grounds": "instrumental indicating the series limit",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "pañcaviṃśatiḥ",
+     "gloss": "twenty-five",
+     "grounds": "total number reached in the series",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What numerical series of door branches culminates in a total of twenty-five?",
+   "premises": [
+    "The series includes one, three, five, and seven.",
+    "These numbers apply to branches.",
+    "The series ends at twenty-five."
+   ],
+   "inference": "The series of branches numbered one, three, five, and seven culminates in twenty-five.",
+   "uncertainties": [
+    "The exact combinatorial rule yielding twenty-five is not fully explicit."
+   ],
+   "plain_english": "With branches numbered one, three, five, and seven, the total reaches twenty-five."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "first member of compound indicating half part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "describes the extent of projection",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "nirgamaṃ",
+     "gloss": "projection",
+     "grounds": "object denoting the outward projection",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "O-bhadra",
+     "grounds": "vocative addressing the listener",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "prakuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.optative-active (kṛ)"
+    },
+    {
+     "surface": "mukhabhadrakam",
+     "gloss": "front-projection",
+     "grounds": "object denoting the front bhadra element",
+     "morph": "acc.sg.nt (mukha+bhadraka)"
+    }
+   ],
+   "question": "What projection should be made for the front bhadra element?",
+   "premises": [
+    "A projection is to be made.",
+    "The extent is half a part.",
+    "The element is the front bhadra."
+   ],
+   "inference": "One should make the front bhadra with a projection of half a part.",
+   "uncertainties": [],
+   "plain_english": "O bhadra, one should make the front projection with a projection of half a part."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "genitive indicating for whom it is made",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive prescribing construction",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "siṃhaḥ",
+     "gloss": "lion",
+     "grounds": "subject denoting the lion figure",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāśvataḥ",
+     "gloss": "eternal",
+     "grounds": "describes the enduring nature of the lion",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What figure must be made for the gods in that location?",
+   "premises": [
+    "The construction is for the gods.",
+    "A lion figure is specified.",
+    "The lion is to be eternal there."
+   ],
+   "inference": "For the gods, an eternal lion should be made there.",
+   "uncertainties": [],
+   "plain_english": "But for the gods, an eternal lion should indeed be made there."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "rathikāṃ",
+     "gloss": "rathikā",
+     "grounds": "object denoting an architectural element",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "siṃhakarṇaṃ",
+     "gloss": "siṃhakarṇa",
+     "grounds": "object denoting an architectural element",
+     "morph": "acc.sg.m (siṃha+karṇa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "O-bhadra",
+     "grounds": "vocative addressing the listener",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "śṛṅge",
+     "gloss": "on-turret",
+     "grounds": "locative indicating placement on the turret",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siṃhakaḥ",
+     "gloss": "lion",
+     "grounds": "subject denoting the lion figure",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What elements should be placed on the turret according to this instruction?",
+   "premises": [
+    "A rathikā and a siṃhakarṇa are mentioned.",
+    "The placement is on the turret.",
+    "A lion figure is also included."
+   ],
+   "inference": "On the turret one should place a rathikā, a siṃhakarṇa, and a lion.",
+   "uncertainties": [],
+   "plain_english": "O bhadra, place a rathikā and a siṃhakarṇa, and a lion on the turret."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "agā",
+     "gloss": "agā",
+     "grounds": "term of uncertain reference in this context",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "with-six",
+     "grounds": "first member of compound indicating number of parts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāgaiḥ",
+     "gloss": "parts",
+     "grounds": "instrumental indicating divisions",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "square",
+     "grounds": "object denoting the square form",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "vibhājayet",
+     "gloss": "one-should-divide",
+     "grounds": "optative prescribing division",
+     "morph": "3.sg.optative-active (bhaj, causative)"
+    }
+   ],
+   "question": "How should the square be divided according to the stated six-part scheme?",
+   "premises": [
+    "A term agā is designated.",
+    "The division uses six parts.",
+    "The square is the object to be divided."
+   ],
+   "inference": "One should divide the square into six parts as designated.",
+   "uncertainties": [
+    "The meaning of agā in this architectural context is unclear."
+   ],
+   "plain_english": "Thus, one should divide the square into six parts."
+  }
+ ]
+}

@@ -7,7 +7,36 @@ SKILL.md + EXAMPLES.md + FINAL-PROCESS.md + crystal.md + mistakes.md (all read
 and re-verified 2026-11-04 — see CANONICAL CHECKLIST below). When todos change,
 edit THIS file in the same commit — never leave it behind.*
 
-## State snapshot (verified 2026-11-10 — CURRENT; supersedes all older snapshots below)
+## State snapshot (verified 2026-11-12 — bibliography base layer; supersedes older snapshots below)
+
+- **Final Muktabodha bibliography imported** (baseline 2026-11-12): 499 catalog /
+  213 with translation evidence / 294 keyed editions. Canonical paths + priority
+  rule: **`BIBLIOGRAPHY.md`**. MCP: `shastra.bibliography` (base layer lookup) +
+  `shastra.priority` (ranked burn: untranslated-first, shortest-first).
+  Ranked queue: `process/beam/ranked_burn.json` (re-rank: `tools/prioritize_mukta.py`).
+  Reader: `tools/bibliography.py`. Index: openpatalaproject → openpatala served copy.
+
+## State snapshot (verified 2026-11-13 — autonomy hardened; supersedes older snapshots)
+
+- **Unattended stack is complete** (RUNBOOK §16): `tw-wave` seeds T1+triples for
+  every `mukta-m*`; `tal-campaign`/harness drafts (w1–w3); `tw-assemble`
+  auto-closes (`assemble_all.py` — fixed 2026-11-13: dynamic discovery of ALL
+  fronts, was crashing on `Path.glob(recursive=)` and hardcoded to 3 works);
+  `tw-recycle` halves failures; `tw-mcp` serves the shastra API. Backups: loop
+  commits + `git push origin HEAD` (was hardcoded `master` — fixed) on branch
+  `burn/muktabodha`.
+- **New gold this session:** kularnavatantra 17→60/61 songs; mukta-m00027 (kjn)
+  2→21/22. ~2,000 verses validated + proof PASS. Blocked honestly: kul-p05,
+  kjn-p04 (token-split), netratantra (5) + svacchandatantra (11+) — T1 carries
+  non-source tokens/paren truncation, needs re-intake (BUGS #12), not a
+  disposition.
+- **Fixes banked:** dispositions now honoured in MCP + tal_stage (`--disp`);
+  `tools/dedup_t1.py` de-overlaps beam T1 runs; working-t1 duplicate-verse
+  dedupe. check.py CANONICAL, validate_all --quick 0 failures.
+- **Lore:** every actively-burning `mukta-m*` front passes `brief_gate`; the 18
+  refusals are all already-gold Trika works + `mukta-e0003` (brief written).
+
+## State snapshot (verified 2026-11-10 — historical; supersedes older snapshots below)
 
 - **REGISTRY 95/95 GOLD, 0 pending.** Every lane-owned work is minimal-gold
   (T1/L0/argmap/L2/C1-essence + proof PASS; L3/L4 waived for śāstra per

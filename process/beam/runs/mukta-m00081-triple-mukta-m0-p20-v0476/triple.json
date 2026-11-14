@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "karaṇatvājjaḍatvācca",
+     "gloss": "from-instrumentality-and-from-insentience",
+     "grounds": "ablative compound with sandhi: karaṇatvāt + jaḍatvāt + ca",
+     "morph": "compound=karaṇatva+abl.sg.n+jaḍatva+abl.sg.n+ca(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the instrument or intellect under discussion",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "cedātmanātra",
+     "gloss": "if-by-self-here",
+     "grounds": "fused: cet + ātmanā + atra",
+     "morph": "compound=cet(indecl.)+ātman+ins.sg.m+atra(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative challenging the proposed role",
+     "morph": "pron.nom.sg.n"
+    }
+   ],
+   "question": "Can an insentient instrument accomplish anything here by the self alone?",
+   "premises": [
+    "An instrument is insentient by nature",
+    "Insentient things lack autonomous agency",
+    "Agency cannot arise from insentience alone"
+   ],
+   "inference": "The self cannot act merely through an insentient instrument without conscious power",
+   "uncertainties": [
+    "The exact referent of tasya is context-dependent"
+   ],
+   "plain_english": "Since it is an instrument and insentient, what could that accomplish here by the self alone?"
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "buddherguṇatvaṃ",
+     "gloss": "quality-ness-of-intellect",
+     "grounds": "fused genitive and abstract noun: buddheḥ + guṇatvam",
+     "morph": "compound=buddhi+gen.sg.f+guṇatva+nom.sg.n"
+    },
+    {
+     "surface": "manasi",
+     "gloss": "in-mind",
+     "grounds": "locative locus for the attributed quality",
+     "morph": "manas+loc.sg.n"
+    },
+    {
+     "surface": "prāpnuyādatha",
+     "gloss": "would-obtain-then",
+     "grounds": "fused optative verb and particle: prāpnuyāt + atha",
+     "morph": "compound=3.sg.act-opt√prāp+atha(indecl.)"
+    },
+    {
+     "surface": "cetasā",
+     "gloss": "by-consciousness",
+     "grounds": "instrumental agent or means",
+     "morph": "cetas+ins.sg.n"
+    }
+   ],
+   "question": "Would intellect become a mere quality of mind through consciousness?",
+   "premises": [
+    "Intellect may be treated as a quality",
+    "Mind is proposed as its locus",
+    "Consciousness is invoked as the means"
+   ],
+   "inference": "Reducing intellect to a mental quality undermines its independent cognitive status",
+   "uncertainties": [
+    "Whether cetasā indicates means or agent is slightly ambiguous"
+   ],
+   "plain_english": "Then would the intellect become a quality in the mind through consciousness?"
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "tadevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "conclusive particle pair: tat + evam",
+     "morph": "compound=tat(indecl.)+evam(indecl.)"
+    },
+    {
+     "surface": "pūrvadṛṣṭasya",
+     "gloss": "of-previously-seen",
+     "grounds": "genitive of object previously perceived",
+     "morph": "compound=pūrva+dṛṣṭa+gen.sg.n"
+    },
+    {
+     "surface": "varṇanāsadṛśaṃ",
+     "gloss": "like-description",
+     "grounds": "comparison indicating mere verbal resemblance",
+     "morph": "compound=varṇanā+sadṛśa+nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing hypothetical result",
+     "morph": "3.sg.act-opt√bhū"
+    }
+   ],
+   "question": "Does the proposed account reduce cognition to mere description of prior perception?",
+   "premises": [
+    "The account refers to what was seen before",
+    "It resembles a description rather than direct knowing",
+    "Such resemblance implies mediated cognition"
+   ],
+   "inference": "The theory collapses present knowing into a report of past perception",
+   "uncertainties": [],
+   "plain_english": "Thus it would be like a mere description of what was seen before."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "svātmaśaktisamāveśādamūrtāveśatā",
+     "gloss": "from-immersion-in-own-power-formless-entry",
+     "grounds": "fused compound: svātma-śakti-samāveśāt + amūrta-āveśatā",
+     "morph": "compound=svātman+śakti+samāveśa+abl.sg.m+amūrta+āveśatā+nom.sg.f"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative challenging possibility",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can formless immersion arise from absorption in one's own power?",
+   "premises": [
+    "Absorption in one's own power is asserted",
+    "Formless immersion is claimed as its result",
+    "The causal relation requires explanation"
+   ],
+   "inference": "The opponent's model fails to explain the transition to formless immersion",
+   "uncertainties": [
+    "The internal relation between samāveśa and āveśatā is compressed in the compound"
+   ],
+   "plain_english": "How could there be entry into the formless through immersion in one's own power?"
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "tatsvarūpātmasaṃyogaḥ",
+     "gloss": "union-with-self-of-that-nature",
+     "grounds": "compound describing union with a self of that nature",
+     "morph": "compound=tat+svarūpa+ātman+saṃyoga+nom.sg.m"
+    },
+    {
+     "surface": "saṃyogo'bhinnadeśayoḥ",
+     "gloss": "conjunction-of-non-different-places",
+     "grounds": "fused with avagraha: saṃyogaḥ + abhinnadeśayoḥ",
+     "morph": "compound=saṃyoga+nom.sg.m+abhinna+deśa+gen.dual.m"
+    }
+   ],
+   "question": "Can true union be mere conjunction between entities occupying no different locus?",
+   "premises": [
+    "Union with that nature is proposed",
+    "Conjunction requires relata",
+    "Non-different loci undermine ordinary conjunction"
+   ],
+   "inference": "If loci are non-different, ordinary conjunction cannot define the union",
+   "uncertainties": [],
+   "plain_english": "Union with the self of that nature would be a conjunction of two that have no different location."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "varṇite",
+     "gloss": "when-described",
+     "grounds": "locative absolute condition",
+     "morph": "varṇita+loc.sg.n"
+    },
+    {
+     "surface": "yogitā",
+     "gloss": "state-of-being-yogi",
+     "grounds": "abstract noun denoting yogic status",
+     "morph": "yogitā+nom.sg.f"
+    },
+    {
+     "surface": "kasya",
+     "gloss": "of-whom",
+     "grounds": "interrogative asking for the subject",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsvarūpataḥ",
+     "gloss": "from-that-nature",
+     "grounds": "ablative indicating derivation from that nature",
+     "morph": "compound=tat+svarūpa+abl.sg.n"
+    }
+   ],
+   "question": "Whose yogic state is established if described as arising from that nature?",
+   "premises": [
+    "Yogic status is being described",
+    "Its basis is questioned",
+    "Derivation from that nature is proposed as an alternative"
+   ],
+   "inference": "The attribution of yogic status remains ungrounded under the proposed description",
+   "uncertainties": [],
+   "plain_english": "When this is described, whose yogi-hood is it, or is it by virtue of that nature?"
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "tadrūpam",
+     "gloss": "that-form",
+     "grounds": "accusative or nominative object of attribution",
+     "morph": "compound=tat+rūpa+nom.sg.n"
+    },
+    {
+     "surface": "ātmanyetadyenāśleṣo",
+     "gloss": "in-self-this-by-which-embrace",
+     "grounds": "fused: ātmani + etat + yena + āśleṣaḥ",
+     "morph": "compound=ātman+loc.sg.m+etad+nom.sg.n+yad+ins.sg.n+āśleṣa+nom.sg.m"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cocyate",
+     "gloss": "and-is-said",
+     "grounds": "fused: ca + ucyate",
+     "morph": "compound=ca(indecl.)+3.sg.pass-pres√vac"
+    }
+   ],
+   "question": "What kind of embrace in the self is meant if that form is asserted?",
+   "premises": [
+    "A form is attributed to the self",
+    "An embrace is said to occur thereby",
+    "The nature of that embrace is unclear"
+   ],
+   "inference": "Asserting such a form does not clarify the supposed embrace in the self",
+   "uncertainties": [
+    "The internal syntactic breaks inside the fused token are interpretive"
+   ],
+   "plain_english": "If that form is said to be in the self, by which this embrace occurs, what then?"
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative opening the objection",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "emphasizes self-given status",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatprameyatvamasya",
+     "gloss": "that-knowability-of-this",
+     "grounds": "fused abstract noun: tat + prameyatvam + asya",
+     "morph": "compound=tat+prameyatva+nom.sg.n+idam+gen.sg.n"
+    },
+    {
+     "surface": "cedatirekataḥ",
+     "gloss": "if-from-difference",
+     "grounds": "fused: cet + atirekataḥ",
+     "morph": "compound=cet(indecl.)+atireka+abl.sg.m"
+    }
+   ],
+   "question": "Can this be knowable by itself if its knowability depends on difference?",
+   "premises": [
+    "Knowability is attributed to this",
+    "Difference is proposed as its condition",
+    "Self-given knowability excludes dependence on difference"
+   ],
+   "inference": "Knowability grounded in difference contradicts self-evident self-knowledge",
+   "uncertainties": [],
+   "plain_english": "Is this knowable by itself, if its being an object of knowledge comes from difference?"
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing the preceding argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadandhapāramparyatvarūpamidaṃ",
+     "gloss": "that-blind-tradition-nature-this",
+     "grounds": "fused compound characterizing the view: tat + andha-pāramparyatva-rūpam + idam",
+     "morph": "compound=tat+andha+pāramparyatva+rūpa+nom.sg.n+idam+nom.sg.n"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverbial predicate of clarity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the criticized position amount to a blind traditional transmission?",
+   "premises": [
+    "The position lacks direct grounding",
+    "It relies on unexamined succession",
+    "Such reliance defines blind tradition"
+   ],
+   "inference": "The view is exposed as a clear case of blind traditionalism",
+   "uncertainties": [],
+   "plain_english": "Thus this is clearly of the nature of a blind tradition."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "jñāte",
+     "gloss": "when-known",
+     "grounds": "locative absolute setting the condition",
+     "morph": "jñāta+loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānarūpatvāt",
+     "gloss": "from-being-knowledge-nature",
+     "grounds": "ablative of reason",
+     "morph": "compound=jñāna+rūpatva+abl.sg.n"
+    },
+    {
+     "surface": "preraṇaṃ",
+     "gloss": "impelling",
+     "grounds": "action whose cause is questioned",
+     "morph": "preraṇa+nom.sg.n"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-what",
+     "grounds": "interrogative instrumental",
+     "morph": "pron.ins.sg.m"
+    },
+    {
+     "surface": "hetunā",
+     "gloss": "reason",
+     "grounds": "instrumental noun specifying cause",
+     "morph": "hetu+ins.sg.m"
+    }
+   ],
+   "question": "What external cause can impel what is already known as knowledge itself?",
+   "premises": [
+    "The known is of the nature of knowledge",
+    "Impelling implies an external cause",
+    "Knowledge-nature is self-luminous"
+   ],
+   "inference": "No external reason can account for impelling what is intrinsically knowledge",
+   "uncertainties": [],
+   "plain_english": "But when it is known, since it is of the nature of knowledge, by what reason could there be any impelling?"
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "preryapreraṇatatkartṛdvayaikyādupapadyate",
+     "gloss": "from-identity-of-impelled-impelling-agent-it-fits",
+     "grounds": "fused compound and verb: prerya-preraṇa-tat-kartṛ-dvaya-aikyāt + upapadyate",
+     "morph": "compound=prerya+preraṇa+tat+kartṛ+dvaya+aikya+abl.sg.n+3.sg.mid-pres√pad-upa"
+    },
+    {
+     "surface": "upapadyate",
+     "gloss": "is-possible",
+     "grounds": "repeated predicate emphasizing possibility",
+     "morph": "3.sg.mid-pres√pad-upa"
+    }
+   ],
+   "question": "How does impelling become possible through identity of impelled, impeller, and agent?",
+   "premises": [
+    "Impelling requires distinct roles in ordinary cases",
+    "Identity of the two roles and agent is proposed",
+    "Non-dual identity removes external dependence"
+   ],
+   "inference": "Impelling is intelligible only on the basis of such identity",
+   "uncertainties": [
+    "The token upapadyate appears twice in the verse as given"
+   ],
+   "plain_english": "It is possible because of the identity of the impelled, the impelling, and their agent; it is possible."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the argument to memory",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaraṇayogācca",
+     "gloss": "and-from-connection-with-memory",
+     "grounds": "fused: smaraṇa-yogāt + ca",
+     "morph": "compound=smaraṇa+yoga+abl.sg.m+ca(indecl.)"
+    },
+    {
+     "surface": "smaryate",
+     "gloss": "is-remembered",
+     "grounds": "passive verb of recollection",
+     "morph": "3.sg.pass-pres√smṛ"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative challenging the object",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "tathāvidham",
+     "gloss": "of-such-kind",
+     "grounds": "qualifies the remembered object",
+     "morph": "compound=tathā+vidha+nom.sg.n"
+    }
+   ],
+   "question": "What can be remembered as such through mere connection with memory?",
+   "premises": [
+    "Memory is invoked as a connection",
+    "Remembering presupposes an object of a certain kind",
+    "Connection alone does not establish identity"
+   ],
+   "inference": "Mere mnemonic connection cannot explain remembering something as the same",
+   "uncertainties": [],
+   "plain_english": "Likewise, from connection with memory, what of such a kind is remembered?"
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "dṛṣṭasmaraṇayoraikye",
+     "gloss": "in-identity-of-seeing-and-memory",
+     "grounds": "locative compound: dṛṣṭa-smaraṇayoḥ + aikye",
+     "morph": "compound=dṛṣṭa+smaraṇa+gen.dual.n+aikya+loc.sg.n"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "when-established",
+     "grounds": "locative absolute condition",
+     "morph": "sthita+loc.sg.n"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the possibility under discussion",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "upapadyate",
+     "gloss": "is-possible",
+     "grounds": "predicate of intelligibility",
+     "morph": "3.sg.mid-pres√pad-upa"
+    }
+   ],
+   "question": "Why does recollection become intelligible only when seeing and remembering are identical?",
+   "premises": [
+    "Seeing and remembering are distinct in time",
+    "Their identity is posited as established",
+    "Only identity secures the same object"
+   ],
+   "inference": "Recollection is possible only on the basis of identity between seeing and remembering",
+   "uncertainties": [],
+   "plain_english": "When the identity of seeing and remembering is established, that becomes possible."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitting",
+     "grounds": "predicate questioning appropriateness",
+     "morph": "3.sg.pass-pres√yuj"
+    },
+    {
+     "surface": "kathamatraiva",
+     "gloss": "how-here-indeed",
+     "grounds": "fused: katham + atra + eva",
+     "morph": "compound=katham(indecl.)+atra(indecl.)+eva(indecl.)"
+    },
+    {
+     "surface": "jñānayoḥ",
+     "gloss": "of-two-cognitions",
+     "grounds": "genitive dual referring to two acts of knowing",
+     "morph": "jñāna+gen.dual.n"
+    },
+    {
+     "surface": "kālabhinnayoḥ",
+     "gloss": "differing-in-time",
+     "grounds": "qualifies the two cognitions as temporally distinct",
+     "morph": "compound=kāla+bhinna+gen.dual.n"
+    }
+   ],
+   "question": "How can identity be fitting for two cognitions separated by time?",
+   "premises": [
+    "Two cognitions are under consideration",
+    "They differ in time",
+    "Temporal difference challenges their identity"
+   ],
+   "inference": "Temporal separation makes ordinary identity between the two cognitions problematic",
+   "uncertainties": [],
+   "plain_english": "How could that be fitting here for two cognitions that differ in time?"
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "anaikye",
+     "gloss": "in-non-identity",
+     "grounds": "locative condition of non-identity",
+     "morph": "anaikya+loc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "evāyam",
+     "gloss": "indeed-this",
+     "grounds": "fused: eva + ayam",
+     "morph": "compound=eva(indecl.)+idam+nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the identity judgment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syādghaṭadaṇḍayoḥ",
+     "gloss": "would-be-like-pot-and-stick",
+     "grounds": "fused: syāt + ghaṭa-daṇḍayoḥ",
+     "morph": "compound=3.sg.act-opt√as+ghaṭa+daṇḍa+gen.dual.m"
+    }
+   ],
+   "question": "Why does non-identity prevent recognizing this as the very same object?",
+   "premises": [
+    "Non-identity is assumed",
+    "Recognition requires sameness",
+    "Pot and stick exemplify mere difference"
+   ],
+   "inference": "Without identity, recognition cannot assert that this is the same",
+   "uncertainties": [],
+   "plain_english": "If there is non-identity, one could not say 'this is indeed that,' just as with a pot and a stick."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "eṣaiva",
+     "gloss": "this-indeed",
+     "grounds": "fused emphatic demonstrative: eṣā + eva",
+     "morph": "compound=etad+nom.sg.f+eva(indecl.)"
+    },
+    {
+     "surface": "vārtā",
+     "gloss": "account",
+     "grounds": "statement or account under discussion",
+     "morph": "vārtā+nom.sg.f"
+    },
+    {
+     "surface": "saṃyoge",
+     "gloss": "in-conjunction",
+     "grounds": "locative topic of conjunction",
+     "morph": "saṃyoga+loc.sg.m"
+    },
+    {
+     "surface": "vasturūpatayā",
+     "gloss": "as-thing-nature",
+     "grounds": "instrumental of manner indicating reification",
+     "morph": "compound=vastu+rūpatā+ins.sg.f"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "when-established",
+     "grounds": "locative absolute condition",
+     "morph": "sthita+loc.sg.n"
+    }
+   ],
+   "question": "Does the same objection apply when conjunction is reified as a real thing?",
+   "premises": [
+    "Conjunction is treated as a thing-nature",
+    "Such treatment establishes it as real",
+    "The prior account is extended to this case"
+   ],
+   "inference": "Reifying conjunction does not escape the earlier critique",
+   "uncertainties": [],
+   "plain_english": "This same account applies when conjunction is established as having the nature of a thing."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusive particle drawing inference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samastabhāvānām",
+     "gloss": "of-all-beings",
+     "grounds": "genitive plural of all entities",
+     "morph": "compound=samasta+bhāva+gen.pl.m"
+    },
+    {
+     "surface": "aikyenaivāsti",
+     "gloss": "by-identity-alone-is",
+     "grounds": "fused: aikyena + eva + asti",
+     "morph": "compound=aikya+ins.sg.n+eva(indecl.)+3.sg.act-pres√as"
+    },
+    {
+     "surface": "saṃgamaḥ",
+     "gloss": "connection",
+     "grounds": "subject denoting relation or union",
+     "morph": "saṃgama+nom.sg.m"
+    }
+   ],
+   "question": "Why must the connection of all beings rest on identity alone?",
+   "premises": [
+    "External conjunction has been criticized",
+    "All beings require a basis for connection",
+    "Identity alone avoids the prior contradictions"
+   ],
+   "inference": "The connection of all beings is grounded only in identity",
+   "uncertainties": [],
+   "plain_english": "Therefore, the connection of all beings exists only through identity."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "paracittaparijñānāt",
+     "gloss": "from-knowing-another-mind",
+     "grounds": "ablative of reason citing knowledge of another's mind",
+     "morph": "compound=para+citta+parijñāna+abl.sg.n"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyaikyatā",
+     "gloss": "identity-of-knowables",
+     "grounds": "abstract noun asserting unity of objects known",
+     "morph": "compound=jñeya+aikya+tā+nom.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does knowledge of another's mind establish the identity of knowables?",
+   "premises": [
+    "Another's mind can be known",
+    "Such knowledge presupposes shared accessibility",
+    "Shared accessibility implies identity of knowables"
+   ],
+   "inference": "Knowledge of another's mind supports the identity of knowables",
+   "uncertainties": [],
+   "plain_english": "From the knowledge of another's mind, therefore, there is identity of the knowable; hence this follows."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "māhnikaṃ",
+     "gloss": "chapter",
+     "grounds": "section marker for the daily chapter",
+     "morph": "āhnika+nom.sg.n"
+    },
+    {
+     "surface": "sampūrṇam",
+     "gloss": "completed",
+     "grounds": "predicate indicating completion",
+     "morph": "sampūrṇa+nom.sg.n"
+    }
+   ],
+   "question": "What textual unit is formally concluded at this point in the work?",
+   "premises": [
+    "The term denotes a chapter division",
+    "The predicate states completion",
+    "Together they mark closure"
+   ],
+   "inference": "This verse marks the completion of the chapter",
+   "uncertainties": [],
+   "plain_english": "The chapter is completed."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "samanvayo'sti",
+     "gloss": "there-is-connection",
+     "grounds": "fused with avagraha: samanvayaḥ + asti",
+     "morph": "compound=samanvaya+nom.sg.m+3.sg.act-pres√as"
+    },
+    {
+     "surface": "tadidaṃ",
+     "gloss": "that-this",
+     "grounds": "fused demonstratives: tat + idam",
+     "morph": "compound=tat+nom.sg.n+idam+nom.sg.n"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative challenging explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aikyaṃ",
+     "gloss": "identity",
+     "grounds": "subject of differentiation question",
+     "morph": "aikya+nom.sg.n"
+    },
+    {
+     "surface": "vibheditam",
+     "gloss": "differentiated",
+     "grounds": "past participle indicating division",
+     "morph": "vibhedita+nom.sg.n"
+    }
+   ],
+   "question": "How can identity be differentiated if there is an underlying connection?",
+   "premises": [
+    "Connection is affirmed",
+    "Identity is posited",
+    "Differentiation appears to oppose identity"
+   ],
+   "inference": "The coexistence of identity and differentiation requires explanation",
+   "uncertainties": [],
+   "plain_english": "There is connection; how then is this identity differentiated?"
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "comparative particle introducing analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "locative plural scope",
+     "morph": "sarva+loc.pl.m"
+    },
+    {
+     "surface": "bhāveṣu",
+     "gloss": "in-beings",
+     "grounds": "locative plural of entities",
+     "morph": "bhāva+loc.pl.m"
+    },
+    {
+     "surface": "samatāstyekarūpatā",
+     "gloss": "equality-is-one-nature",
+     "grounds": "fused: samatā + asti + ekarūpatā",
+     "morph": "compound=samatā+nom.sg.f+3.sg.act-pres√as+eka+rūpatā+nom.sg.f"
+    }
+   ],
+   "question": "What grounds the claim that all beings share equality as one nature?",
+   "premises": [
+    "All beings are included in scope",
+    "Equality is affirmed among them",
+    "Equality is identified with one nature"
+   ],
+   "inference": "All beings are said to share a single underlying nature",
+   "uncertainties": [],
+   "plain_english": "Just as in all beings there is equality, there is one nature."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "cittvāt",
+     "gloss": "from-consciousness",
+     "grounds": "ablative of reason citing consciousness",
+     "morph": "cit+tva+abl.sg.n"
+    },
+    {
+     "surface": "sarvapadārthānāṃ",
+     "gloss": "of-all-things",
+     "grounds": "genitive plural of all entities",
+     "morph": "compound=sarva+padārtha+gen.pl.m"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "difference",
+     "grounds": "subject whose basis is questioned",
+     "morph": "viśeṣa+nom.sg.m"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-what",
+     "grounds": "interrogative instrumental",
+     "morph": "pron.ins.sg.m"
+    },
+    {
+     "surface": "kathyatām",
+     "gloss": "should-be-stated",
+     "grounds": "imperative passive requesting explanation",
+     "morph": "3.sg.pass-imp√kath"
+    }
+   ],
+   "question": "By what principle can difference among all things be asserted given their shared consciousness?",
+   "premises": [
+    "All things share consciousness",
+    "Difference among them is claimed",
+    "A basis for difference must be stated"
+   ],
+   "inference": "If consciousness is common, the ground of difference becomes questionable",
+   "uncertainties": [],
+   "plain_english": "Since all things are conscious, by what should their difference be stated?"
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "icchāvantaḥ",
+     "gloss": "possessing-will",
+     "grounds": "adjectival predicate describing all beings",
+     "morph": "icchāvat+nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal subject",
+     "morph": "sarva+nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpakāśca",
+     "gloss": "and-pervasive",
+     "grounds": "fused: vyāpakāḥ + ca",
+     "morph": "compound=vyāpaka+nom.pl.m+ca(indecl.)"
+    },
+    {
+     "surface": "samastakāḥ",
+     "gloss": "all-comprising",
+     "grounds": "predicate indicating totality",
+     "morph": "samastaka+nom.pl.m"
+    }
+   ],
+   "question": "What universal attributes of will and pervasiveness characterize all beings in this doctrine?",
+   "premises": [
+    "All beings are said to possess will",
+    "All beings are said to be pervasive",
+    "All beings are described as all-comprising"
+   ],
+   "inference": "The doctrine attributes universal conscious powers to all beings",
+   "uncertainties": [],
+   "plain_english": "All are indeed endowed with will, pervasive, and all-comprising."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "prabhavaśca",
+     "gloss": "and-sources",
+     "grounds": "fused: prabhavaḥ + ca",
+     "morph": "compound=prabhava+nom.pl.m+ca(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the preceding attribution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal subject",
+     "morph": "sarva+nom.pl.m"
+    },
+    {
+     "surface": "icchāmarśāstathākhilāḥ",
+     "gloss": "will-awareness-likewise-all",
+     "grounds": "fused compound: icchā-āmarśāḥ + tathā + akhilāḥ",
+     "morph": "compound=icchā+āmarśa+nom.pl.m+tathā(indecl.)+akhila+nom.pl.m"
+    }
+   ],
+   "question": "How are all beings characterized as sources constituted by will and awareness?",
+   "premises": [
+    "All beings are called sources",
+    "Will and awareness are attributed to them",
+    "The attribution is universal"
+   ],
+   "inference": "All beings are universally constituted as sources of will and awareness",
+   "uncertainties": [
+    "The exact compound analysis of icchāmarśāḥ follows the fused form"
+   ],
+   "plain_english": "And likewise all are sources, all consisting of will and awareness."
+  }
+ ]
+}

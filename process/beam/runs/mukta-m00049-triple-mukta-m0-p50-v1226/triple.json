@@ -1,0 +1,1493 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1226,
+   "rows": [
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "female partner or energy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "male practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "female partner or energy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "accompanied",
+     "grounds": "together with",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "male practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must the practitioner be accompanied by during the ritual?",
+   "premises": [
+    "The practitioner is mentioned twice.",
+    "The practitioner is described as accompanied by śakti.",
+    "The pairing emphasizes the presence of śakti with the practitioner."
+   ],
+   "inference": "The ritual requires the practitioner to be accompanied by śakti.",
+   "uncertainties": [
+    "Whether śakti refers to a female partner, ritual energy, or both is context-dependent."
+   ],
+   "plain_english": "The practitioner should be accompanied by śakti."
+  },
+  {
+   "verse": 1227,
+   "rows": [
+    {
+     "surface": "manoramaṃ",
+     "gloss": "delightful",
+     "grounds": "pleasing to the mind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ramyaṃ",
+     "gloss": "charming",
+     "grounds": "beautiful",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual cup or container",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-optative √kṛ"
+    }
+   ],
+   "question": "What kind of ritual vessel should be prepared for the rite?",
+   "premises": [
+    "A vessel is the object to be made.",
+    "The vessel is described as delightful.",
+    "The vessel is described as charming."
+   ],
+   "inference": "A delightful and charming vessel should be prepared.",
+   "uncertainties": [],
+   "plain_english": "One should prepare a delightful and charming vessel."
+  },
+  {
+   "verse": 1228,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmayikaiḥ",
+     "gloss": "with-initiated-companions",
+     "grounds": "fellow initiates of the same observance",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "together",
+     "grounds": "in company with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāna",
+     "gloss": "drinking",
+     "grounds": "ritual drinking",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "and",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhojanam",
+     "gloss": "eating",
+     "grounds": "ritual eating",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-optative √ācar"
+    }
+   ],
+   "question": "With whom should the practitioner perform ritual drinking and eating?",
+   "premises": [
+    "Drinking and eating are to be performed.",
+    "The action follows a prior step.",
+    "The action is done together with initiated companions."
+   ],
+   "inference": "Ritual drinking and eating should be performed together with initiated companions.",
+   "uncertainties": [],
+   "plain_english": "Then, together with initiated companions, one should perform ritual drinking and eating."
+  },
+  {
+   "verse": 1229,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ati",
+     "gloss": "very",
+     "grounds": "intensifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "hṛṣṭa",
+     "gloss": "joyful",
+     "grounds": "delighted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "with-mind",
+     "grounds": "mental state",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samastaḥ",
+     "gloss": "all",
+     "grounds": "the entire group",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "the kula community",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "kula practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mental state should characterize the entire kula practitioner group afterward?",
+   "premises": [
+    "The instruction follows a prior ritual step.",
+    "The entire kula practitioner is the subject.",
+    "The practitioner is described as having a very joyful mind."
+   ],
+   "inference": "The entire kula practitioner group should be in a very joyful state of mind.",
+   "uncertainties": [
+    "samastaḥ may refer to each practitioner or the group collectively."
+   ],
+   "plain_english": "Then every kula practitioner should be filled with a very joyful mind."
+  },
+  {
+   "verse": 1230,
+   "rows": [
+    {
+     "surface": "mūlādhārāt",
+     "gloss": "from-root-support",
+     "grounds": "from the mūlādhāra center",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "starting from",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "jihvāntāṃ",
+     "gloss": "ending-at-tongue",
+     "grounds": "extending up to the tip of the tongue",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cit",
+     "gloss": "consciousness",
+     "grounds": "awareness",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpāṃ",
+     "gloss": "formed-as",
+     "grounds": "having the nature of",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "of the kula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṇḍalīm",
+     "gloss": "coiled-power",
+     "grounds": "kuṇḍalinī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the kula kuṇḍalinī visualized in terms of extent and nature?",
+   "premises": [
+    "The kula kuṇḍalinī is the object of contemplation.",
+    "It extends from the mūlādhāra to the tip of the tongue.",
+    "It is described as having the nature of consciousness."
+   ],
+   "inference": "The kula kuṇḍalinī should be contemplated as consciousness extending from the mūlādhāra to the tongue.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the kula kuṇḍalinī, whose nature is consciousness, extending from the mūlādhāra up to the tip of the tongue."
+  },
+  {
+   "verse": 1231,
+   "rows": [
+    {
+     "surface": "paraspara",
+     "gloss": "mutual",
+     "grounds": "from one another",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "ājñām",
+     "gloss": "permission",
+     "grounds": "consent or command",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "having received",
+     "morph": "(indecl.) absolutive √ādā"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "perform oblation",
+     "morph": "3.sg.act-optative √hu"
+    },
+    {
+     "surface": "kuṇḍalī",
+     "gloss": "coiled-power",
+     "grounds": "kuṇḍalinī",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "into the mouth of",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What prerequisite and locus are required for making the ritual offering?",
+   "premises": [
+    "An offering is to be made.",
+    "Mutual permission must first be taken.",
+    "The offering is made into the mouth of the kuṇḍalinī."
+   ],
+   "inference": "After receiving mutual permission, one should make the offering into the mouth of the kuṇḍalinī.",
+   "uncertainties": [],
+   "plain_english": "Having taken mutual permission, one should make the offering into the mouth of the kuṇḍalinī."
+  },
+  {
+   "verse": 1232,
+   "rows": [
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "for practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gṛhasthānāṃ",
+     "gloss": "of-householders",
+     "grounds": "living in the household stage",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number five",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessels",
+     "grounds": "ritual cups or measures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-prescribed",
+     "grounds": "is declared",
+     "morph": "n.nom.sg past-passive-participle √kīrt"
+    }
+   ],
+   "question": "How many ritual vessels are prescribed for householder practitioners?",
+   "premises": [
+    "The rule concerns householder practitioners.",
+    "A specific number of vessels is stated.",
+    "The measure is declared as prescribed."
+   ],
+   "inference": "Five vessels are prescribed for householder practitioners.",
+   "uncertainties": [
+    "The exact measure of a pātra is not specified here."
+   ],
+   "plain_english": "For householder practitioners, five vessels are prescribed."
+  },
+  {
+   "verse": 1233,
+   "rows": [
+    {
+     "surface": "ati",
+     "gloss": "excessive",
+     "grounds": "too much",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "pānāt",
+     "gloss": "from-drinking",
+     "grounds": "due to drinking",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kulīnānāṃ",
+     "gloss": "of-kula-members",
+     "grounds": "of those belonging to the kula",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "spiritual success",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "diminution",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.mid-present √jan"
+    }
+   ],
+   "question": "What consequence follows from excessive drinking for members of the kula?",
+   "premises": [
+    "Excessive drinking is identified as a cause.",
+    "The affected group is kula members.",
+    "Loss of accomplishment is said to arise."
+   ],
+   "inference": "Excessive drinking causes loss of spiritual accomplishment for kula members.",
+   "uncertainties": [],
+   "plain_english": "From excessive drinking, kula members suffer a loss of spiritual accomplishment."
+  },
+  {
+   "verse": 1234,
+   "rows": [
+    {
+     "surface": "pāna",
+     "gloss": "drinking",
+     "grounds": "ritual drinking",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "and",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhojanam",
+     "gloss": "eating",
+     "grounds": "ritual eating",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-optative √ācar"
+    }
+   ],
+   "question": "What ritual activities are enjoined as a continuing practice?",
+   "premises": [
+    "Drinking and eating are named together.",
+    "The verb expresses an injunction.",
+    "The instruction is given as a practice to perform."
+   ],
+   "inference": "One should perform ritual drinking and eating.",
+   "uncertainties": [],
+   "plain_english": "One should perform ritual drinking and eating."
+  },
+  {
+   "verse": 1235,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "to that extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pānaṃ",
+     "gloss": "drinking",
+     "grounds": "ritual drinking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-do",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.mid-optative √kṛ"
+    },
+    {
+     "surface": "paśu",
+     "gloss": "beastly",
+     "grounds": "of the bound or animal-like state",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "pānam",
+     "gloss": "drinking",
+     "grounds": "drinking like a paśu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "beyond-this",
+     "grounds": "beyond that limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "further",
+     "grounds": "more than that",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What limit distinguishes proper ritual drinking from beastly drinking?",
+   "premises": [
+    "Drinking should be done only to a certain extent.",
+    "Drinking beyond that extent is called beastly drinking.",
+    "The instruction sets a boundary for proper practice."
+   ],
+   "inference": "One should drink only up to the proper limit, as drinking beyond it is beastly.",
+   "uncertainties": [
+    "The exact quantitative limit is not specified in this verse."
+   ],
+   "plain_english": "One should drink only so much; drinking beyond that is beastly drinking."
+  },
+  {
+   "verse": 1236,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpiṣṭhaḥ",
+     "gloss": "most-sinful",
+     "grounds": "extremely sinful",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "in what way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brūyāt",
+     "gloss": "should-say",
+     "grounds": "could claim",
+     "morph": "3.sg.act-optative √brū"
+    },
+    {
+     "surface": "ādyāṃ",
+     "gloss": "primordial",
+     "grounds": "original",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālīṃ",
+     "gloss": "Kālī",
+     "grounds": "the goddess Kālī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajāmi",
+     "gloss": "I-worship",
+     "grounds": "I revere",
+     "morph": "1.sg.act-present √bhaj"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "1.nom.sg"
+    }
+   ],
+   "question": "Why is a sinful person unfit to claim worship of the primordial Kālī?",
+   "premises": [
+    "The person is described as most sinful.",
+    "The person claims to worship the primordial Kālī.",
+    "The verse questions the legitimacy of that claim."
+   ],
+   "inference": "A most sinful person cannot legitimately claim to worship the primordial Kālī.",
+   "uncertainties": [
+    "The specific sin implied may be excessive drinking from the prior context."
+   ],
+   "plain_english": "How can that most sinful person say, 'I worship the primordial Kālī'?"
+  },
+  {
+   "verse": 1237,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "of you",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "prasāde",
+     "gloss": "in-grace",
+     "grounds": "in the consecrated offering or favor",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "even",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāti",
+     "gloss": "birth",
+     "grounds": "caste or birth-group",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedaṃ",
+     "gloss": "distinction",
+     "grounds": "difference",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "one-should-abandon",
+     "grounds": "one should avoid",
+     "morph": "3.sg.act-optative √vṛj"
+    }
+   ],
+   "question": "What social distinction must be abandoned in relation to the divine grace-offering?",
+   "premises": [
+    "The context concerns divine grace or consecrated offering.",
+    "Distinction based on birth is named.",
+    "The instruction is to abandon that distinction."
+   ],
+   "inference": "One should abandon distinctions of birth in the context of divine grace.",
+   "uncertainties": [
+    "prasāda may refer to divine favor or to consecrated ritual substance."
+   ],
+   "plain_english": "Likewise, even in your grace, one should abandon distinctions of birth."
+  },
+  {
+   "verse": 1238,
+   "rows": [
+    {
+     "surface": "lepa",
+     "gloss": "smearing",
+     "grounds": "ritual paste or mark",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "avanodanaṃ",
+     "gloss": "removal",
+     "grounds": "wiping away",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "vastreṇa",
+     "gloss": "with-cloth",
+     "grounds": "using a cloth",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pāthasā",
+     "gloss": "with-water",
+     "grounds": "using water",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "or",
+     "grounds": "alternatively",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "indeed",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means may the ritual smearing be removed after the rite?",
+   "premises": [
+    "Removal of the smearing is to be done.",
+    "A cloth is mentioned as a means.",
+    "Water is mentioned as an alternative means."
+   ],
+   "inference": "The ritual smearing should be removed with a cloth or with water.",
+   "uncertainties": [],
+   "plain_english": "One should remove the ritual smearing with a cloth or with water."
+  },
+  {
+   "verse": 1239,
+   "rows": [
+    {
+     "surface": "yantra",
+     "gloss": "diagram",
+     "grounds": "ritual diagram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "lepaṃ",
+     "gloss": "smearing",
+     "grounds": "paste applied from the diagram",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūrca",
+     "gloss": "space-between-eyebrows",
+     "grounds": "kūrca region",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-region",
+     "grounds": "in the place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viharet",
+     "gloss": "one-should-place",
+     "grounds": "one should apply or move",
+     "morph": "3.sg.act-optative √vihṛ"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "divine being",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "in the manner of",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "in the world",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Where should the diagram's smearing be applied to embody a divine manner on earth?",
+   "premises": [
+    "The smearing from the diagram is the object.",
+    "The space between the eyebrows is the specified location.",
+    "The practitioner should act like a god on earth."
+   ],
+   "inference": "The diagram's smearing should be applied at the space between the eyebrows so one moves on earth like a god.",
+   "uncertainties": [
+    "viharet may imply placing, wearing, or moving about with the mark."
+   ],
+   "plain_english": "One should apply the smearing from the diagram at the space between the eyebrows and move on earth like a god."
+  },
+  {
+   "verse": 1240,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-much-as",
+     "grounds": "to the extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cālayet",
+     "gloss": "one-should-move",
+     "grounds": "one should stir or shift",
+     "morph": "3.sg.act-causative-optative √cal"
+    },
+    {
+     "surface": "ghūrṇayet",
+     "gloss": "one-should-whirl",
+     "grounds": "one should rotate",
+     "morph": "3.sg.act-causative-optative √ghūrṇ"
+    }
+   ],
+   "question": "What motions are prescribed for the ritual action described in this step?",
+   "premises": [
+    "A measured extent is indicated.",
+    "Moving or stirring is prescribed.",
+    "Whirling or rotating is prescribed."
+   ],
+   "inference": "One should move and whirl the object to the prescribed extent.",
+   "uncertainties": [
+    "The object being moved or whirled is not explicitly named in this verse."
+   ],
+   "plain_english": "To that extent, one should move it and whirl it thus."
+  },
+  {
+   "verse": 1241,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "so it is said",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lepa",
+     "gloss": "smearing",
+     "grounds": "ritual paste",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "avanodanam",
+     "gloss": "removal",
+     "grounds": "wiping away",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hasta",
+     "gloss": "hand",
+     "grounds": "from the hand",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "lepa",
+     "gloss": "smearing",
+     "grounds": "ritual paste",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "apanayanam",
+     "gloss": "removal",
+     "grounds": "taking away",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the removal of the ritual smearing defined in this instruction?",
+   "premises": [
+    "The verse defines a ritual action.",
+    "Removal of the smearing is named.",
+    "Removal of the smearing from the hand is also named."
+   ],
+   "inference": "The prescribed action is the removal of the smearing, including its removal from the hand.",
+   "uncertainties": [],
+   "plain_english": "Thus, this is the removal of the smearing, the taking away of the smearing from the hand."
+  },
+  {
+   "verse": 1242,
+   "rows": [
+    {
+     "surface": "kūrcam",
+     "gloss": "space-between-eyebrows",
+     "grounds": "kūrca region",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "astrī",
+     "gloss": "weapon",
+     "grounds": "weapon-mantra or implement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhruvoḥ",
+     "gloss": "of-eyebrows",
+     "grounds": "of the two eyebrows",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyam",
+     "gloss": "middle",
+     "grounds": "the space between",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "so says",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amaraḥ",
+     "gloss": "Amara",
+     "grounds": "the lexicographer Amara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What authoritative definition identifies the kūrca as the middle of the eyebrows?",
+   "premises": [
+    "The term kūrca is being defined.",
+    "It is identified as the middle of the eyebrows.",
+    "The definition is attributed to Amara."
+   ],
+   "inference": "According to Amara, the kūrca is the middle space between the eyebrows.",
+   "uncertainties": [
+    "The role of astrī in this glossing context is unclear."
+   ],
+   "plain_english": "Amara states that the kūrca is the middle space between the eyebrows."
+  },
+  {
+   "verse": 1243,
+   "rows": [
+    {
+     "surface": "saubhāgya",
+     "gloss": "good-fortune",
+     "grounds": "auspiciousness",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "and",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "release",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "jananaṃ",
+     "gloss": "producing",
+     "grounds": "bringing about",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "ultimate-reality",
+     "grounds": "Brahman",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "realization",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "eka",
+     "gloss": "sole",
+     "grounds": "only",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "means",
+     "grounds": "method or practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dual fruits and singular means are attributed to the described practice?",
+   "premises": [
+    "The practice produces good fortune and liberation.",
+    "It is described as a means.",
+    "It is identified as the sole means for knowledge of ultimate reality."
+   ],
+   "inference": "The practice produces good fortune and liberation and is the sole means for knowledge of ultimate reality.",
+   "uncertainties": [],
+   "plain_english": "It produces good fortune and liberation and is the sole means for the knowledge of ultimate reality."
+  },
+  {
+   "verse": 1244,
+   "rows": [
+    {
+     "surface": "nyāsa",
+     "gloss": "installation",
+     "grounds": "ritual placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "and",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhānañ",
+     "gloss": "procedure",
+     "grounds": "prescribed method",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhya",
+     "gloss": "external",
+     "grounds": "outward",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "and",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "abhyantara",
+     "gloss": "internal",
+     "grounds": "inward",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedataḥ",
+     "gloss": "by-distinction",
+     "grounds": "according to division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the procedure of installation and worship divided in its application?",
+   "premises": [
+    "Installation and worship procedures are named.",
+    "A distinction is made in their application.",
+    "The distinction is between external and internal forms."
+   ],
+   "inference": "The procedure of installation and worship is divided into external and internal forms.",
+   "uncertainties": [],
+   "plain_english": "And the procedure of installation and worship is distinguished as external and internal."
+  },
+  {
+   "verse": 1245,
+   "rows": [
+    {
+     "surface": "vinaya",
+     "gloss": "humility",
+     "grounds": "modesty",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "avanatā",
+     "gloss": "bowed-down",
+     "grounds": "humbly inclined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "provāca",
+     "gloss": "spoke",
+     "grounds": "said",
+     "morph": "3.sg.act-perfect √vac"
+    },
+    {
+     "surface": "śaṅkaraṃ",
+     "gloss": "to-Śaṅkara",
+     "grounds": "addressing Śaṅkara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "to",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner and to whom does the goddess address her speech?",
+   "premises": [
+    "The goddess is the speaker.",
+    "She is bowed down with humility.",
+    "She speaks toward Śaṅkara."
+   ],
+   "inference": "The goddess, bowed down with humility, speaks to Śaṅkara.",
+   "uncertainties": [],
+   "plain_english": "Bowed down with humility, the goddess spoke to Śaṅkara."
+  },
+  {
+   "verse": 1246,
+   "rows": [
+    {
+     "surface": "kṛpayā",
+     "gloss": "out-of-compassion",
+     "grounds": "through mercy",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "explained",
+     "morph": "n.nom.sg past-passive-participle √kath"
+    },
+    {
+     "surface": "deva",
+     "gloss": "O-god",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakṛti",
+     "gloss": "nature",
+     "grounds": "primordial nature",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "practice",
+     "grounds": "means or method",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What practice has been compassionately revealed by the god to the goddess?",
+   "premises": [
+    "The god is addressed as the revealer.",
+    "The teaching was given out of compassion.",
+    "The subject revealed is the practice of the supreme nature."
+   ],
+   "inference": "Out of compassion, the god has revealed the practice of the supreme nature.",
+   "uncertainties": [
+    "parā-prakṛti may refer to supreme nature or to the supreme goddess."
+   ],
+   "plain_english": "O god, out of compassion you have told the practice of the supreme nature."
+  },
+  {
+   "verse": 1247,
+   "rows": [
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "particularly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaliyuge",
+     "gloss": "in-Kali-age",
+     "grounds": "in the age of Kali",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jīvānām",
+     "gloss": "of-beings",
+     "grounds": "of living beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "swiftly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "success",
+     "grounds": "accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "joined-with",
+     "grounds": "compound marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "dam",
+     "gloss": "giving",
+     "grounds": "bestowing",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "For whom and in which age does the revealed practice grant swift accomplishment?",
+   "premises": [
+    "The practice is especially relevant in the Kali age.",
+    "It concerns living beings.",
+    "It is described as giving swift accomplishment."
+   ],
+   "inference": "Especially in the Kali age, the practice grants swift accomplishment to living beings.",
+   "uncertainties": [],
+   "plain_english": "Especially in the Kali age, it quickly gives accomplishment to living beings."
+  },
+  {
+   "verse": 1248,
+   "rows": [
+    {
+     "surface": "sadāśiva",
+     "gloss": "ever-auspicious",
+     "grounds": "Sadāśiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-on",
+     "grounds": "et cetera",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|| 4",
+     "gloss": "section-four",
+     "grounds": "section marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What textual marker indicates continuation and section division at this point?",
+   "premises": [
+    "The name Sadāśiva appears.",
+    "The term ityādi indicates continuation.",
+    "A numbered section marker is present."
+   ],
+   "inference": "The text marks continuation with 'Sadāśiva and so on' and indicates section four.",
+   "uncertainties": [
+    "The omitted content after ityādi is not recoverable from this verse alone."
+   ],
+   "plain_english": "Sadāśiva and so on. || 4"
+  },
+  {
+   "verse": 1249,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utthātum",
+     "gloss": "to-rise",
+     "grounds": "to get up",
+     "morph": "(indecl.) infinitive √sthā"
+    },
+    {
+     "surface": "īhate",
+     "gloss": "desires",
+     "grounds": "wishes or attempts",
+     "morph": "3.sg.mid-present √īh"
+    },
+    {
+     "surface": "svairaṃ",
+     "gloss": "freely",
+     "grounds": "of one's own accord",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "once more",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthayate",
+     "gloss": "requests",
+     "grounds": "asks",
+     "morph": "3.sg.mid-present √prārth"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "soon",
+     "grounds": "without delay",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What behavior shows the speaker's reluctance to depart and desire for further teaching?",
+   "premises": [
+    "The subject does not wish to rise.",
+    "The subject acts freely in remaining.",
+    "The subject requests again soon."
+   ],
+   "inference": "The speaker shows reluctance to depart by not wishing to rise and by soon requesting further teaching.",
+   "uncertainties": [
+    "The subject of the verbs is implied by context rather than stated explicitly."
+   ],
+   "plain_english": "She does not wish to rise; freely she soon requests again."
+  }
+ ]
+}

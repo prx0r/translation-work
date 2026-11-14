@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the targeted army",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "senā",
+     "gloss": "army",
+     "grounds": "subject noun denoting the hostile force",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "manner adverb indicating manifold breaking",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinnā",
+     "gloss": "broken",
+     "grounds": "past participle describing the army's shattered state",
+     "morph": "ppp.f.nom.sg (√bhid)"
+    },
+    {
+     "surface": "jvara+roga+vimohitā",
+     "gloss": "fever-disease-bewildered",
+     "grounds": "compound describing the army as deluded by fever and disease; vimohitā is ppp of vi-√muh",
+     "morph": "compound.f.nom.sg (jvara+roga+vimohitā)"
+    }
+   ],
+   "question": "What condition befalls the targeted army after the prescribed oblation?",
+   "premises": [
+    "The referent is that specific army (sā senā).",
+    "The army becomes broken in many ways (bahudhā bhinnā).",
+    "The army is bewildered by fever and disease (jvara+roga+vimohitā)."
+   ],
+   "inference": "Following the ritual oblation, the targeted army is shattered and afflicted with fever and disease.",
+   "uncertainties": [],
+   "plain_english": "That army, shattered in many ways, is bewildered by fever and disease."
+  }
+ ]
+}

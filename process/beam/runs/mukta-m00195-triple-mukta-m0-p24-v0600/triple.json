@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound with siddhiḥ, indicating totality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "complete attainment or success; head of compound sarva-siddhiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṭi",
+     "gloss": "entry",
+     "grounds": "first member of compound with pucche, denoting pervasion or entry",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pucche",
+     "gloss": "in-tail",
+     "grounds": "terminal part or end; locative in compound viṣṭi-pucche",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthire",
+     "gloss": "when-stable",
+     "grounds": "qualifies viṣṭi-pucche, indicating a firm or settled state",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a contrast or qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthiratā",
+     "gloss": "stability",
+     "grounds": "state of firmness or steadiness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "expresses potential or resulting state",
+     "morph": "3.sg.optative-active (bhū)"
+    }
+   ],
+   "question": "What condition allows complete accomplishment to result in lasting stability?",
+   "premises": [
+    "Complete accomplishment is associated with the tail of entry.",
+    "The tail of entry can be in a stable state.",
+    "Stability arises when that state is stable."
+   ],
+   "inference": "Therefore, when the tail of entry is stable, complete accomplishment yields stability.",
+   "uncertainties": [
+    "The precise technical sense of viṣṭi-pucche in this context is unclear."
+   ],
+   "plain_english": "All accomplishment is in the tail of entry; but when that tail is stable, stability arises."
+  }
+ ]
+}

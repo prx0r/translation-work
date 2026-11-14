@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "vāmakukṣau",
+     "gloss": "left-abdomen",
+     "grounds": "locative of the compound vāma-kukṣi, denoting the left side of the abdomen",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nir-ṛtau",
+     "gloss": "nirṛti-quarter",
+     "grounds": "locative of nirṛti, the southwest guardian deity or direction",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle joining the two placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasiddhyādidevatām",
+     "gloss": "all-siddhi-first-deity",
+     "grounds": "accusative of the compound sarva-siddhi-ādi-devatā, the deity to be placed",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Where should the all-siddhi-first-deity be placed together with nirṛti in the left abdomen?",
+   "premises": [
+    "left abdomen houses nirṛti",
+    "all-siddhi-first-deity is placed there",
+    "ca coordinates the two placements"
+   ],
+   "inference": "The verse directs placement of the all-siddhi-first-deity with nirṛti in the left abdomen.",
+   "uncertainties": [
+    "exact ritual referent of sarvasiddhyādidevatām is not specified beyond the compound",
+    "precise bodily mapping of nirṛti remains context-dependent"
+   ],
+   "plain_english": "Place the all-siddhi-first-deity with Nirṛti in the left abdomen."
+  }
+ ]
+}

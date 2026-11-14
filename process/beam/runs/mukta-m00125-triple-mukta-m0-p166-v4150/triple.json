@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p166",
+ "items": [
+  {
+   "verse": 4150,
+   "rows": [
+    {
+     "surface": "savitānadhvajaṃ",
+     "gloss": "with-canopy-and-banner",
+     "grounds": "Bahuvrihi compound sa-vitāna-dhvaja describing the prepared object; analyzed as fused form.",
+     "morph": "compound(sa+vitāna+dhvaja).acc.sg.n"
+    },
+    {
+     "surface": "darbhamuktā",
+     "gloss": "kuśa-grass-and-pearl",
+     "grounds": "Compound darbha-muktā qualifying the garland; exact sense of muktā in this ritual context is uncertain.",
+     "morph": "compound(darbha+muktā).nom.sg.f"
+    },
+    {
+     "surface": "puṣpajamālayā",
+     "gloss": "with-flower-born-garland",
+     "grounds": "Compound puṣpa-ja-mālā in instrumental case indicating accompaniment or adornment.",
+     "morph": "compound(puṣpa+ja+mālā).inst.sg.f"
+    }
+   ],
+   "question": "What ritual adornments must accompany the śakti-empowered object prepared in the preceding arrangement?",
+   "premises": [
+    "The prepared object is furnished with a canopy and a banner.",
+    "The object is accompanied by elements of kuśa grass and pearl.",
+    "The object is adorned with a garland made of flowers."
+   ],
+   "inference": "The śakti-empowered ritual object must be completed with a canopy, banner, kuśa-grass and pearl elements, and a flower garland.",
+   "uncertainties": [
+    "The precise meaning of muktā in darbhamuktā, whether pearl or another ritual element, is unclear."
+   ],
+   "plain_english": "It should have a canopy and a banner, and be adorned with kuśa grass and pearls and a garland of flowers."
+  }
+ ]
+}

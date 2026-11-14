@@ -1,0 +1,1012 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 601,
+   "rows": [
+    {
+     "surface": "gaṇeśāya",
+     "gloss": "to-lord-of-gaṇas",
+     "grounds": "dative recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "dative apposition to gaṇeśāya",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which deity is obeisance formally directed in this salutation?",
+   "premises": [
+    "gaṇeśāya names lord of gaṇas",
+    "devatāyai identifies divine recipient",
+    "namaḥ expresses ritual obeisance"
+   ],
+   "inference": "The salutation is directed to the deity Gaṇeśa.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the deity Gaṇeśa."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "ṣaḍdīrghabhājā",
+     "gloss": "endowed-with-six-long",
+     "grounds": "describes seed syllable with six long vowels",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vījena",
+     "gloss": "with-seed-syllable",
+     "grounds": "instrument for forming limbs",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act.optative √kṛ"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual body parts of mantra",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṣaṭkramāt",
+     "gloss": "in-sixfold-sequence",
+     "grounds": "ablative indicating ordered procedure",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the six ritual limbs be formed using the seed syllable?",
+   "premises": [
+    "vījena specifies seed syllable as instrument",
+    "ṣaḍdīrghabhājā qualifies it with six long forms",
+    "aṅgāni ṣaṭkramāt requires sixfold sequence"
+   ],
+   "inference": "One should form the six limbs in sequence with the seed syllable endowed with six long vowels.",
+   "uncertainties": [
+    "Exact phonetic form of the seed syllable is not specified here."
+   ],
+   "plain_english": "One should form the six limbs in sixfold sequence using the seed syllable endowed with six long vowels."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "instrumental means of worship",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sampūjyā",
+     "gloss": "having-worshipped",
+     "grounds": "prior worship act",
+     "morph": "absolutive sam-√pūj"
+    },
+    {
+     "surface": "rghyasthāpanaṃ",
+     "gloss": "arghya-placement",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg compound arghya+sthāpana"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act.optative √kṛ"
+    }
+   ],
+   "question": "What ritual action follows mental meditation and mental worship in this sequence?",
+   "premises": [
+    "evaṃ dhyātvā indicates prior meditation",
+    "mānasaiḥ sampūjyā indicates mental worship",
+    "rghyasthāpanaṃ kuryāt prescribes next act"
+   ],
+   "inference": "After meditating and worshipping mentally, one should perform the placement of arghya.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should perform the placement of the arghya."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks next stage in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpādivisarjanāntaṃ",
+     "gloss": "up-to-dismissal-from-incense",
+     "grounds": "defines span of ritual actions",
+     "morph": "n.acc.sg compound dhūpa+ādi+visarjana+anta"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual procedure to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "prescriptive conclusion of rite",
+     "morph": "3.sg.act.optative sam-ā-√āp"
+    }
+   ],
+   "question": "Up to which concluding act must the ritual procedure be completed?",
+   "premises": [
+    "tato indicates subsequent stage",
+    "dhūpādivisarjanāntaṃ marks endpoint at dismissal",
+    "karma samāpayet prescribes completion"
+   ],
+   "inference": "The rite should be completed up to the dismissal beginning from incense and so forth.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite up to the dismissal, beginning with incense and so forth."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "aṣṭadravyāṇi",
+     "gloss": "eight-substances",
+     "grounds": "objects declared for ritual use",
+     "morph": "n.nom.pl compound aṣṭa+dravya"
+    },
+    {
+     "surface": "vighnasya",
+     "gloss": "of-vighna",
+     "grounds": "genitive linking substances to Vighna",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kathitāni",
+     "gloss": "have-been-declared",
+     "grounds": "reports traditional teaching",
+     "morph": "n.nom.pl past-passive-participle √kath"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "authoritative declarers",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Who has declared the eight substances associated with Vighna?",
+   "premises": [
+    "aṣṭadravyāṇi vighnasya specifies eight substances of Vighna",
+    "kathitāni indicates they were declared",
+    "manīṣibhiḥ names the wise as declarers"
+   ],
+   "inference": "The wise have declared the eight substances of Vighna.",
+   "uncertainties": [
+    "The specific eight substances are not listed in this verse."
+   ],
+   "plain_english": "The wise have declared the eight substances of Vighna."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśatyakṣaro",
+     "gloss": "twenty-eight-syllabled",
+     "grounds": "describes mantra length",
+     "morph": "m.nom.sg compound aṣṭāviṃśati+akṣara"
+    },
+    {
+     "surface": "'yaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tārādyo",
+     "gloss": "beginning-with-tāra",
+     "grounds": "specifies initial syllable",
+     "morph": "m.nom.sg compound tāra+ādya"
+    },
+    {
+     "surface": "manur",
+     "gloss": "mantra",
+     "grounds": "subject being declared",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "is-declared",
+     "grounds": "states authoritative teaching",
+     "morph": "m.nom.sg past-passive-participle √īr"
+    }
+   ],
+   "question": "What defining features characterize the mantra declared in this statement?",
+   "premises": [
+    "manur is the subject declared",
+    "aṣṭāviṃśatyakṣaro gives syllable count",
+    "tārādyo specifies it begins with tāra"
+   ],
+   "inference": "This mantra is declared to have twenty-eight syllables and to begin with tāra.",
+   "uncertainties": [
+    "The full mantra text is not given here."
+   ],
+   "plain_english": "This mantra is declared to have twenty-eight syllables and to begin with tāra."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative beneficiary of bringing",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "under-control",
+     "grounds": "state to which object is brought",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ānaya",
+     "gloss": "bring",
+     "grounds": "imperative command in mantra",
+     "morph": "2.sg.act.imperative ā-√nī"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation, kept as mantra element",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What command and ritual exclamation are expressed in this mantra formula?",
+   "premises": [
+    "me vaśam indicates bringing under my control",
+    "ānaya is an imperative command",
+    "svāhā is a ritual exclamation"
+   ],
+   "inference": "The formula commands bringing under control for me and ends with svāhā.",
+   "uncertainties": [
+    "The object to be brought under control is not explicitly named."
+   ],
+   "plain_english": "Bring under my control, svāhā."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "mahāgaṇapataye",
+     "gloss": "to-great-gaṇapati",
+     "grounds": "dative recipient of obeisance",
+     "morph": "m.dat.sg compound mahā+gaṇapati"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "dative apposition",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which great deity is obeisance offered in this salutation?",
+   "premises": [
+    "mahāgaṇapataye names great Gaṇapati",
+    "devatāyai identifies the deity",
+    "namaḥ expresses obeisance"
+   ],
+   "inference": "The salutation is offered to the deity Mahāgaṇapati.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the deity Mahāgaṇapati."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "instrumental means of worship",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior worship act",
+     "morph": "absolutive sam-√pūj"
+    },
+    {
+     "surface": "vahiḥ",
+     "gloss": "external",
+     "grounds": "qualifies worship as outward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjām",
+     "gloss": "worship",
+     "grounds": "ritual act to be begun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ārabheta",
+     "gloss": "one-should-begin",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.mid.optative ā-√rabh"
+    }
+   ],
+   "question": "What form of worship should commence after mental meditation and mental worship?",
+   "premises": [
+    "evaṃ dhyātvā mānasaiḥ sampūjya describes prior inner acts",
+    "vahiḥ qualifies the next worship as external",
+    "pūjām ārabheta prescribes beginning it"
+   ],
+   "inference": "After mental meditation and worship, one should begin external worship.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should begin the external worship."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks next stage in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpādī",
+     "gloss": "incense-and-so-forth",
+     "grounds": "initial items in ritual span",
+     "morph": "n.acc.sg compound dhūpa+ādi"
+    },
+    {
+     "surface": "visarjanāntaṃ",
+     "gloss": "up-to-dismissal",
+     "grounds": "endpoint of ritual span",
+     "morph": "n.acc.sg compound visarjana+anta"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual procedure to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "prescriptive conclusion of rite",
+     "morph": "3.sg.act.optative sam-ā-√āp"
+    }
+   ],
+   "question": "What range of ritual actions must be completed after beginning external worship?",
+   "premises": [
+    "tato indicates subsequent stage",
+    "dhūpādī visarjanāntaṃ defines the span",
+    "karma samāpayet prescribes completion"
+   ],
+   "inference": "The rite should be completed from incense and so forth up to dismissal.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite from incense and so forth up to dismissal."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire offering",
+     "morph": "3.sg.act.optative √hu"
+    },
+    {
+     "surface": "dravyair",
+     "gloss": "with-substances",
+     "grounds": "instrumental materials for offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "aṣṭābhir",
+     "gloss": "with-eight",
+     "grounds": "specifies number of substances",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "modakādibhiḥ",
+     "gloss": "beginning-with-modaka",
+     "grounds": "exemplifies the substances",
+     "morph": "n.ins.pl compound modaka+ādi"
+    }
+   ],
+   "question": "With how many and what kinds of substances should the fire offering be made?",
+   "premises": [
+    "juhuyāt prescribes a fire offering",
+    "dravyair aṣṭābhir specifies eight substances",
+    "modakādibhiḥ indicates modaka and others"
+   ],
+   "inference": "One should make the fire offering with eight substances beginning with modaka.",
+   "uncertainties": [
+    "The full list of eight substances is not given."
+   ],
+   "plain_english": "One should offer into the fire with eight substances, beginning with modaka."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "ṅentam",
+     "gloss": "ending-in-ṅ",
+     "grounds": "describes mantra termination",
+     "morph": "m.acc.sg compound ṅ+anta"
+    },
+    {
+     "surface": "agnivadhuḥ",
+     "gloss": "fire-wife",
+     "grounds": "mantra element svāhā indicated by epithet",
+     "morph": "f.nom.sg compound agni+vadhu"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "is-declared",
+     "grounds": "states authoritative teaching",
+     "morph": "m.nom.sg past-passive-participle pra-√vac"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "subject being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'yaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśākṣaraḥ",
+     "gloss": "twelve-syllabled",
+     "grounds": "specifies mantra length",
+     "morph": "m.nom.sg compound dvādaśa+akṣara"
+    }
+   ],
+   "question": "What structural features define the mantra described in this declaration?",
+   "premises": [
+    "mantro 'yaṃ is the declared subject",
+    "ṅentam and agnivadhuḥ describe its ending",
+    "dvādaśākṣaraḥ gives its syllable count"
+   ],
+   "inference": "This mantra is declared to be twelve-syllabled, ending in ṅ and with agnivadhuḥ.",
+   "uncertainties": [
+    "agnivadhuḥ likely indicates svāhā but is not expanded here."
+   ],
+   "plain_english": "This mantra is declared to be twelve syllables long, ending in ṅ and with agnivadhuḥ."
+  },
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "uditā",
+     "gloss": "declared",
+     "grounds": "states teaching about deity",
+     "morph": "f.nom.sg past-passive-participle ud-√vad"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject identified in mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantre",
+     "gloss": "in-the-mantra",
+     "grounds": "locative context of declaration",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental specifying identification",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śaktigaṇādhipaḥ",
+     "gloss": "śakti-gaṇādhipa",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg compound śakti+gaṇādhipa"
+    }
+   ],
+   "question": "Which deity is identified by name within this mantra?",
+   "premises": [
+    "devatā mantre uditā states deity is declared in mantra",
+    "nāmnā indicates identification by name",
+    "śaktigaṇādhipaḥ provides the name"
+   ],
+   "inference": "The deity declared in the mantra by name is Śaktigaṇādhipa.",
+   "uncertainties": [],
+   "plain_english": "The deity declared in the mantra by name is Śaktigaṇādhipa."
+  },
+  {
+   "verse": 614,
+   "rows": [
+    {
+     "surface": "śaktigaṇādhipataye",
+     "gloss": "to-śakti-gaṇādhipa",
+     "grounds": "dative recipient of obeisance",
+     "morph": "m.dat.sg compound śakti+gaṇādhipati"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "dative apposition",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which deity is obeisance directed in this salutation formula?",
+   "premises": [
+    "śaktigaṇādhipataye names the recipient",
+    "devatāyai identifies the deity",
+    "namaḥ expresses obeisance"
+   ],
+   "inference": "The salutation is directed to the deity Śaktigaṇādhipa.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the deity Śaktigaṇādhipa."
+  },
+  {
+   "verse": 615,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "instrumental means of worship",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior worship act",
+     "morph": "absolutive sam-√pūj"
+    },
+    {
+     "surface": "śaṅkhasthāpanaṃ",
+     "gloss": "conch-placement",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg compound śaṅkha+sthāpana"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act.optative √kṛ"
+    }
+   ],
+   "question": "What ritual placement should be performed after mental meditation and worship?",
+   "premises": [
+    "evaṃ dhyātvā indicates prior meditation",
+    "mānasaiḥ sampūjya indicates mental worship",
+    "śaṅkhasthāpanaṃ kuryāt prescribes next act"
+   ],
+   "inference": "After meditating and worshipping mentally, one should perform the placement of the conch.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should perform the placement of the conch."
+  },
+  {
+   "verse": 616,
+   "rows": [
+    {
+     "surface": "āvarapūjāṃ",
+     "gloss": "enclosure-worship",
+     "grounds": "worship of surrounding retinue",
+     "morph": "f.acc.sg compound āvara+pūjā"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act.optative √kṛ"
+    }
+   ],
+   "question": "What additional form of worship must be performed in this ritual step?",
+   "premises": [
+    "āvarapūjāṃ names enclosure worship",
+    "kuryāt prescribes performing it"
+   ],
+   "inference": "One should perform the worship of the enclosure.",
+   "uncertainties": [],
+   "plain_english": "One should perform the worship of the surrounding enclosure."
+  },
+  {
+   "verse": 617,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire offering",
+     "morph": "3.sg.act.optative √hu"
+    },
+    {
+     "surface": "arcite",
+     "gloss": "in-worshipped",
+     "grounds": "locative describing prepared fire",
+     "morph": "m.loc.sg past-passive-participle √arc"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "fire",
+     "grounds": "locus of offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dineśo",
+     "gloss": "lord-of-day",
+     "grounds": "subject performing worship",
+     "morph": "m.nom.sg compound dina+īśa"
+    },
+    {
+     "surface": "devam",
+     "gloss": "god",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive worship instruction",
+     "morph": "3.sg.act.optative √arc"
+    }
+   ],
+   "question": "What actions involving fire offering and deity worship are prescribed for the lord of day?",
+   "premises": [
+    "juhuyāt arcite vahnau prescribes offering in worshipped fire",
+    "dineśo is the agent",
+    "devam arcayet prescribes worship of the god"
+   ],
+   "inference": "The lord of day should offer in the worshipped fire and worship the god.",
+   "uncertainties": [
+    "Identity of devam is not specified in this verse."
+   ],
+   "plain_english": "One should offer into the worshipped fire, and the lord of day should worship the god."
+  },
+  {
+   "verse": 618,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive referring to current deity or rite",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pūjāyantrañ",
+     "gloss": "worship-diagram",
+     "grounds": "ritual diagram for worship",
+     "morph": "n.nom.sg compound pūjā+yantra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates following previous method",
+     "morph": "(indecl.) compound pūrva+vat"
+    }
+   ],
+   "question": "According to what precedent should the worship diagram for this rite be used?",
+   "premises": [
+    "asya pūjāyantrañ identifies this worship diagram",
+    "ca connects the statement",
+    "pūrvavat indicates prior method"
+   ],
+   "inference": "The worship diagram for this is to be used as before.",
+   "uncertainties": [
+    "The earlier reference for pūrvavat is not specified here."
+   ],
+   "plain_english": "And the worship diagram for this is as before."
+  },
+  {
+   "verse": 619,
+   "rows": [
+    {
+     "surface": "etāny",
+     "gloss": "these",
+     "grounds": "demonstrative referring to elements to place",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "aṃguṣṭhādiṣu",
+     "gloss": "on-thumbs-and-so-forth",
+     "grounds": "locative locations on body",
+     "morph": "m.loc.pl compound aṃguṣṭha+ādi"
+    },
+    {
+     "surface": "hṛdayādiṣu",
+     "gloss": "on-heart-and-so-forth",
+     "grounds": "locative locations on body",
+     "morph": "n.loc.pl compound hṛdaya+ādi"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive ritual placement",
+     "morph": "3.sg.act.optative vi-ni-√as"
+    }
+   ],
+   "question": "Where should these ritual elements be placed during the installation procedure?",
+   "premises": [
+    "etāny refers to elements to be placed",
+    "aṃguṣṭhādiṣu specifies thumb and related locations",
+    "hṛdayādiṣu vinyaset prescribes placement on heart and related locations"
+   ],
+   "inference": "These should be placed on the thumbs and so forth and on the heart and so forth.",
+   "uncertainties": [
+    "The specific elements referred to by etāny are not named in this verse."
+   ],
+   "plain_english": "One should place these on the thumbs and so forth and on the heart and so forth."
+  },
+  {
+   "verse": 620,
+   "rows": [
+    {
+     "surface": "apūpair",
+     "gloss": "with-cakes",
+     "grounds": "offering substances",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ājyayuktair",
+     "gloss": "joined-with-ghee",
+     "grounds": "qualifies cakes as mixed with ghee",
+     "morph": "m.ins.pl compound ājya+yukta"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyān",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire offering",
+     "morph": "3.sg.act.optative √hu"
+    },
+    {
+     "surface": "mantrasiddhaye",
+     "gloss": "for-mantra-accomplishment",
+     "grounds": "purpose of the offering",
+     "morph": "f.dat.sg compound mantra+siddhi"
+    }
+   ],
+   "question": "For what purpose may cakes mixed with ghee be offered into the fire?",
+   "premises": [
+    "apūpair ājyayuktair specifies cakes joined with ghee",
+    "juhuyān prescribes offering them",
+    "mantrasiddhaye states the purpose as mantra accomplishment"
+   ],
+   "inference": "One may offer cakes mixed with ghee for the accomplishment of the mantra.",
+   "uncertainties": [],
+   "plain_english": "One should offer cakes mixed with ghee, for the accomplishment of the mantra."
+  },
+  {
+   "verse": 621,
+   "rows": [
+    {
+     "surface": "caturvarṇātmako",
+     "gloss": "of-four-colors-nature",
+     "grounds": "describes essential nature",
+     "morph": "m.nom.sg compound catur+varṇa+ātmaka"
+    },
+    {
+     "surface": "nṛṇāṃ",
+     "gloss": "of-men",
+     "grounds": "beneficiaries of fruit",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "caturvargaphalapradaḥ",
+     "gloss": "giver-of-four-goals-fruit",
+     "grounds": "describes result bestowed",
+     "morph": "m.nom.sg compound catur+varga+phala+prada"
+    }
+   ],
+   "question": "What nature and what fourfold fruit are attributed to this entity for human beings?",
+   "premises": [
+    "caturvarṇātmako attributes a four-color nature",
+    "nṛṇāṃ identifies humans as recipients",
+    "caturvargaphalapradaḥ attributes giving fruit of four goals"
+   ],
+   "inference": "It is of four-color nature and grants humans the fruit of the four goals.",
+   "uncertainties": [
+    "The subject is implied from context and not named in this verse."
+   ],
+   "plain_english": "It is of the nature of four colors and gives humans the fruit of the four goals."
+  },
+  {
+   "verse": 622,
+   "rows": [
+    {
+     "surface": "śirasi",
+     "gloss": "on-the-head",
+     "grounds": "locative placement in nyāsa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gaṇaka-ṛṣaye",
+     "gloss": "to-gaṇaka-sage",
+     "grounds": "dative recipient of salutation",
+     "morph": "m.dat.sg compound gaṇaka+ṛṣi"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-and-so-forth",
+     "grounds": "indicates continuation of formula",
+     "morph": "n.nom.sg compound iti+ādi"
+    }
+   ],
+   "question": "What placement and salutation formula is indicated for the sage Gaṇaka?",
+   "premises": [
+    "śirasi specifies placement on the head",
+    "gaṇaka-ṛṣaye namaḥ gives salutation to the sage",
+    "ityādi indicates further similar formulas"
+   ],
+   "inference": "On the head one places obeisance to the sage Gaṇaka, and so forth.",
+   "uncertainties": [
+    "The full sequence of placements is abbreviated by ityādi."
+   ],
+   "plain_english": "On the head: obeisance to the sage Gaṇaka, and so forth."
+  },
+  {
+   "verse": 623,
+   "rows": [
+    {
+     "surface": "ṣaḍdīrghabhājā",
+     "gloss": "endowed-with-six-long",
+     "grounds": "describes seed syllable with six long vowels",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed-syllable",
+     "grounds": "instrument for arranging limbs",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual body parts to be arranged",
+     "morph": "n.acc.pl compound ṣaṣ+aṅga"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act.optative pra-√kḷp"
+    }
+   ],
+   "question": "How should the six limbs be arranged using the specified seed syllable?",
+   "premises": [
+    "bījena specifies the seed syllable as instrument",
+    "ṣaḍdīrghabhājā qualifies it with six long forms",
+    "ṣaḍaṅgāni prakalpayet prescribes arranging six limbs"
+   ],
+   "inference": "One should arrange the six limbs with the seed syllable endowed with six long vowels.",
+   "uncertainties": [
+    "Exact phonetic form of the seed syllable is not specified here."
+   ],
+   "plain_english": "One should arrange the six limbs with the seed syllable endowed with six long vowels."
+  },
+  {
+   "verse": 624,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "instrumental means of worship",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sampūjyā",
+     "gloss": "having-worshipped",
+     "grounds": "prior worship act",
+     "morph": "absolutive sam-√pūj"
+    },
+    {
+     "surface": "rghyasthāpanaṃ",
+     "gloss": "arghya-placement",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg compound arghya+sthāpana"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act.optative √kṛ"
+    }
+   ],
+   "question": "What ritual action is prescribed after completing mental meditation and worship here?",
+   "premises": [
+    "evaṃ dhyātvā indicates prior meditation",
+    "mānasaiḥ sampūjyā indicates mental worship",
+    "rghyasthāpanaṃ kuryāt prescribes next act"
+   ],
+   "inference": "After meditating and worshipping mentally, one should perform the placement of arghya.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should perform the placement of the arghya."
+  }
+ ]
+}

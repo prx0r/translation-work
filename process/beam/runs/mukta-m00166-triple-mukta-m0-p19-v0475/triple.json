@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśleṣaṃ",
+     "gloss": "separation",
+     "grounds": "object of going/attaining",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yātaḥ",
+     "gloss": "gone-to",
+     "grounds": "past participle; agrees with dual subject in sense",
+     "morph": "m.nom.sg.past-participle (root yā)"
+    },
+    {
+     "surface": "kimapi",
+     "gloss": "any-whatever",
+     "grounds": "indefinite emphasizing absence of separation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhu",
+     "gloss": "moon",
+     "grounds": "first member of compound with rāga",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rāga",
+     "gloss": "radiance",
+     "grounds": "second member of compound with vidhu",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ativimalau",
+     "gloss": "extremely-pure",
+     "grounds": "qualifies the dual compound vidhu-rāga",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What claim of inseparability holds between the moon and its radiance?",
+   "premises": [
+    "The moon and its radiance are extremely pure.",
+    "They have not gone to any separation.",
+    "No degree of separation whatsoever applies to them."
+   ],
+   "inference": "The moon and its radiance remain utterly inseparable in their pure state.",
+   "uncertainties": [
+    "The compound vidhu-rāga may denote moon and color, passion, or radiance depending on context."
+   ],
+   "plain_english": "The moon and its radiance, both extremely pure, have not undergone any separation whatsoever."
+  }
+ ]
+}

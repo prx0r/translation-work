@@ -1,0 +1,499 @@
+{
+ "song": "sva-p28",
+ "items": [
+  {
+   "verse": 688,
+   "rows": [
+    {
+     "surface": "avibhāgena",
+     "gloss": "without-division",
+     "grounds": "adverbial sense of non-division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triṃśatprāṇacārāḥ",
+     "gloss": "thirty-prāṇa-courses",
+     "grounds": "compound naming the courses",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the remaining thirty prāṇa courses described?",
+   "premises": [
+    "remainder is without division",
+    "thirty prāṇa courses remain",
+    "thus marks the statement"
+   ],
+   "inference": "The remaining thirty prāṇa courses are to be understood without division.",
+   "uncertainties": [
+    "exact syntactic role of avibhāgena"
+   ],
+   "plain_english": "The remainder, the thirty prāṇa courses, is without division."
+  },
+  {
+   "verse": 689,
+   "rows": [
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśa",
+     "gloss": "fifteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṭayaḥ",
+     "gloss": "tuṭis",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratipadādyāḥ",
+     "gloss": "pratipadā-beginning",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tithayaḥ",
+     "gloss": "tithis",
+     "grounds": "predicate noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which fifteen tuṭis are identified as tithis?",
+   "premises": [
+    "fifteen tuṭis are in the middle",
+    "they are pratipadā-beginning tithis",
+    "eva emphasizes identity"
+   ],
+   "inference": "The fifteen middle tuṭis are the pratipadā-beginning tithis.",
+   "uncertainties": [
+    "precise referent of madhye"
+   ],
+   "plain_english": "The fifteen tuṭis in the middle are the pratipadā-beginning tithis."
+  },
+  {
+   "verse": 690,
+   "rows": [
+    {
+     "surface": "carati",
+     "gloss": "moves",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root car"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrāṃśāt",
+     "gloss": "sūtra-portion",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "anantaraṃ",
+     "gloss": "after",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "tadā",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhyāhāryam",
+     "gloss": "to-be-supplied",
+     "grounds": "gerundive predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What must be supplied after the sūtra portion?",
+   "premises": [
+    "movement is stated thus",
+    "after the sūtra portion",
+    "then something is to be supplied"
+   ],
+   "inference": "After the sūtra portion, the missing element is to be supplied.",
+   "uncertainties": [
+    "exact missing element"
+   ],
+   "plain_english": "Thus it moves; after the sūtra portion, the rest is to be supplied."
+  },
+  {
+   "verse": 691,
+   "rows": [
+    {
+     "surface": "dṛśyamāna",
+     "gloss": "visible",
+     "grounds": "participial adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sitapakṣa",
+     "gloss": "white-fortnight",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcadaśakalātmanā",
+     "gloss": "fifteen-kalā-self",
+     "grounds": "instrumental of self-form",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "predicate noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the visible white fortnight?",
+   "premises": [
+    "white fortnight is visible",
+    "it has fifteen-kalā self",
+    "thus is the meaning"
+   ],
+   "inference": "The visible white fortnight means the fifteen-kalā self.",
+   "uncertainties": [
+    "whether ca adds another member"
+   ],
+   "plain_english": "The visible white fortnight, having the self of fifteen kalās, is the meaning."
+  },
+  {
+   "verse": 692,
+   "rows": [
+    {
+     "surface": "bāhye",
+     "gloss": "external",
+     "grounds": "locative sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantavyam",
+     "gloss": "to-be-considered",
+     "grounds": "gerundive predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the external case be considered?",
+   "premises": [
+    "external is also there",
+    "thus in the same way",
+    "it is to be considered"
+   ],
+   "inference": "The external case is also to be considered in the same way.",
+   "uncertainties": [
+    "exact external referent"
+   ],
+   "plain_english": "Externally too, there, it is to be considered thus."
+  },
+  {
+   "verse": 693,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "subject pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive predicate",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is to be known about her?",
+   "premises": [
+    "she is the subject",
+    "she is to be known"
+   ],
+   "inference": "She is to be known.",
+   "uncertainties": [
+    "identity of she"
+   ],
+   "plain_english": "She is to be known."
+  },
+  {
+   "verse": 694,
+   "rows": [
+    {
+     "surface": "apānacandrodayarūpaḥ",
+     "gloss": "apāna-moon-rise-form",
+     "grounds": "compound predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form is described as apāna moon rise?",
+   "premises": [
+    "compound names apāna moon rise form"
+   ],
+   "inference": "The form is that of apāna moon rise.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "It is of the form of apāna moon rise."
+  },
+  {
+   "verse": 695,
+   "rows": [
+    {
+     "surface": "ehikaphalam",
+     "gloss": "this-world-fruit",
+     "grounds": "object noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityarthāt",
+     "gloss": "thus",
+     "grounds": "ablative of meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the meaning of this-world fruit?",
+   "premises": [
+    "this-world fruit is named",
+    "thus gives the meaning"
+   ],
+   "inference": "The meaning is this-world fruit.",
+   "uncertainties": [
+    "exact grammatical role of ityarthāt"
+   ],
+   "plain_english": "The meaning is this-world fruit."
+  },
+  {
+   "verse": 696,
+   "rows": [
+    {
+     "surface": "candragrahaṇam",
+     "gloss": "moon-eclipse",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aihikottamasiddhipradatayā",
+     "gloss": "this-world-supreme-accomplishment-giving",
+     "grounds": "instrumental of giving",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mahāpuṇyam",
+     "gloss": "great-merit",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is moon eclipse great merit?",
+   "premises": [
+    "moon eclipse gives supreme accomplishment",
+    "it is in this world",
+    "therefore it is great merit"
+   ],
+   "inference": "Moon eclipse is great merit because it gives supreme accomplishment in this world.",
+   "uncertainties": [
+    "whether aihikottama modifies siddhi or fruit"
+   ],
+   "plain_english": "Moon eclipse is great merit, giving supreme accomplishment in this world."
+  },
+  {
+   "verse": 697,
+   "rows": [
+    {
+     "surface": "krūrasaumyasiddhipradam",
+     "gloss": "cruel-auspicious-accomplishment-giving",
+     "grounds": "compound predicate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhiyoginaḥ",
+     "gloss": "of-striver",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "udyuktasya",
+     "gloss": "of-energetic",
+     "grounds": "genitive adjective",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What does the striver receive from this practice?",
+   "premises": [
+    "it gives cruel and auspicious accomplishment",
+    "it is for the striver",
+    "the striver is energetic"
+   ],
+   "inference": "For the energetic striver, it gives cruel and auspicious accomplishment.",
+   "uncertainties": [
+    "whether krūra and saumya are separate fruits"
+   ],
+   "plain_english": "It gives cruel and auspicious accomplishment to the energetic striver."
+  },
+  {
+   "verse": 698,
+   "rows": [
+    {
+     "surface": "yoginā",
+     "gloss": "by-yogin",
+     "grounds": "agent instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "anuṣṭhātavyam",
+     "gloss": "to-be-performed",
+     "grounds": "gerundive predicate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣodaye",
+     "gloss": "year-rise",
+     "grounds": "locative time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "abhiprāyaḥ",
+     "gloss": "intention",
+     "grounds": "predicate noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the yogin's intention at year rise?",
+   "premises": [
+    "by the yogin it is to be performed",
+    "thus at year rise",
+    "the intention is stated"
+   ],
+   "inference": "The yogin's intention is that it be performed at year rise.",
+   "uncertainties": [
+    "exact referent of anuṣṭhātavyam"
+   ],
+   "plain_english": "Thus, at the rise of the year, it is to be performed by the yogin."
+  },
+  {
+   "verse": 699,
+   "rows": [
+    {
+     "surface": "bāhyasaṃkrāntiṣu",
+     "gloss": "external-transits",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattatphalapradatvaṃ",
+     "gloss": "respective-fruit-giving",
+     "grounds": "compound subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smartavyam",
+     "gloss": "to-be-remembered",
+     "grounds": "gerundive predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What must be remembered during external transits?",
+   "premises": [
+    "external transits are included",
+    "respective fruit giving applies",
+    "it is to be remembered"
+   ],
+   "inference": "During external transits, the respective fruit-giving is to be remembered.",
+   "uncertainties": [
+    "exact scope of tattat"
+   ],
+   "plain_english": "During external transits too, the respective fruit-giving is to be remembered."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p127",
+ "verse": 3171,
+ "question": "What girths are prescribed for the arrow and the bowstring?",
+ "premises": [
+  "The arrow’s girth is specified as one third.",
+  "The bowstring’s girth is specified.",
+  "The bowstring is made of thread."
+ ],
+ "inference": "The arrow’s girth is one third of the reference, and the bowstring is a thread of corresponding girth.",
+ "uncertainties": [
+  "The base measure for 'one third' is not explicitly stated in this verse."
+ ],
+ "plain_english": "The arrow’s girth should be one third, and the bowstring’s girth should be that of a thread."
+}

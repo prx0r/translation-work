@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "lakṣmīṃ",
+     "gloss": "Lakṣmī",
+     "grounds": "object of invocation/recitation; goddess Lakṣmī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hrī/",
+     "gloss": "hrī",
+     "grounds": "bīja syllable; first element of the mantra, transliterated as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+iti",
+     "gloss": "śrī-thus",
+     "grounds": "bīja syllable śrī followed by quotative particle iti marking the mantra formula",
+     "morph": "indecl.+(indecl.)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śata+vāraṃ",
+     "gloss": "hundred-times",
+     "grounds": "specifies the number of repetitions",
+     "morph": "compound: śata+vāram (indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive injunction for ritual recitation",
+     "morph": "3.sg.opt.act (√jap)"
+    }
+   ],
+   "question": "What mantra addressed to Lakṣmī must be recited one hundred times?",
+   "premises": [
+    "Lakṣmī is the designated recipient of the recitation.",
+    "The mantra is specified by the formula 'hrī śrī'.",
+    "The prescribed number of recitations is one hundred times."
+   ],
+   "inference": "Therefore, one should recite the 'hrī śrī' mantra to Lakṣmī one hundred times.",
+   "uncertainties": [
+    "The exact ritual function of this recitation relative to the preceding oblations is implied by context but not stated within this verse."
+   ],
+   "plain_english": "One should recite the mantra 'hrī śrī' to Lakṣmī one hundred times."
+  }
+ ]
+}

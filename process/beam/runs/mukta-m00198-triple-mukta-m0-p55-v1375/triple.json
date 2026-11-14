@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "refers to the two lines mentioned in the previous verse",
+     "morph": "pron.gen.du"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "postpositional locative indicating the space between",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣāṃśaṃ",
+     "gloss": "wing-portion",
+     "grounds": "compound denoting the wing section of the layout",
+     "morph": "pakṣa+aṃśa-compound; m.acc.sg"
+    },
+    {
+     "surface": "śālādīrgham",
+     "gloss": "hall-length",
+     "grounds": "compound indicating extent equal to the length of the hall",
+     "morph": "śālā+dīrgha-compound; m.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "past participle stating the prescribed measure",
+     "morph": "ppp.n.nom.sg; ud-ā-√hṛ"
+    }
+   ],
+   "question": "What dimension is prescribed for the wing portion situated between the two layout lines?",
+   "premises": [
+    "The context refers to the space between two previously mentioned lines.",
+    "A wing portion is located in that middle space.",
+    "This wing portion is specified as having the length of the hall."
+   ],
+   "inference": "Therefore, the wing portion between the two lines is prescribed to be hall-length.",
+   "uncertainties": [
+    "The exact architectural referent of pakṣāṃśa depends on the broader layout description."
+   ],
+   "plain_english": "In the middle between those two, the wing portion is declared to be as long as the hall."
+  }
+ ]
+}

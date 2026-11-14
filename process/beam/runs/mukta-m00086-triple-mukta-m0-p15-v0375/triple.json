@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "absolutive of writing, indicating prior action",
+     "morph": "gerund (likh)"
+    },
+    {
+     "surface": "darśayed",
+     "gloss": "one-should-show",
+     "grounds": "prescriptive optative directing the manner of disclosure",
+     "morph": "3.sg.act.opt (dṛś)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "location where the written form is to be displayed",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates oral disclosure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the prohibited mode with the prescribed one",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "location representing spoken or whispered transmission",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "one-should-reveal",
+     "grounds": "prescriptive optative prohibiting open oral proclamation",
+     "morph": "3.sg.act.opt (pra-kāś)"
+    }
+   ],
+   "question": "By what method must the secret teaching be disclosed while avoiding oral proclamation?",
+   "premises": [
+    "The teaching may be written down before disclosure.",
+    "The written teaching should be shown on the ground.",
+    "The teaching must not be revealed orally into the ear."
+   ],
+   "inference": "Therefore, the secret teaching is to be transmitted by silent written display rather than by spoken utterance.",
+   "uncertainties": [
+    "Whether bhūmau implies writing directly on the earth or displaying a written surface upon it is not explicit."
+   ],
+   "plain_english": "Having written it down, one should show it on the ground, and one should not reveal it by speaking into the ear."
+  }
+ ]
+}

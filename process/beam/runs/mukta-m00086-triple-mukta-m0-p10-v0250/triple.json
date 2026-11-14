@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "tilājyahomamātreṇa",
+     "gloss": "by-mere-sesame-ghee-oblation",
+     "grounds": "compound of tila (sesame), ājya (ghee), homa (oblation), and mātra (mere/only), indicating the instrument",
+     "morph": "compound; n.instr.sg"
+    },
+    {
+     "surface": "sarvakarmāṇi",
+     "gloss": "all-actions",
+     "grounds": "compound of sarva (all) and karman (action/rite), object of accomplishment",
+     "morph": "compound; n.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "expresses potential or prescribed capability to achieve the stated aims",
+     "morph": "3.sg.act-opt; √sādh"
+    }
+   ],
+   "question": "Can all ritual aims be accomplished by a mere oblation of sesame and ghee?",
+   "premises": [
+    "An oblation can be performed using only sesame and ghee.",
+    "Such an oblation is described as sufficient in its mere performance.",
+    "Ritual aims are encompassed by all actions to be accomplished."
+   ],
+   "inference": "Therefore, one can accomplish all actions through the mere performance of a sesame-and-ghee oblation.",
+   "uncertainties": [
+    "The scope of sarvakarmāṇi may be contextually limited to the rites discussed in this section."
+   ],
+   "plain_english": "By merely performing an oblation of sesame and ghee, one can accomplish all actions."
+  }
+ ]
+}

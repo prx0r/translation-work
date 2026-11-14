@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "numeral indicating quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahā",
+     "gloss": "together",
+     "grounds": "indicates simultaneous inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samastaṃ",
+     "gloss": "all",
+     "grounds": "the entire amount",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañc+ānane",
+     "gloss": "in-five-faced",
+     "grounds": "compound locating the context",
+     "morph": "compound: pañca+ānana, loc.sg.n"
+    },
+    {
+     "surface": "kvacin",
+     "gloss": "in-some-cases",
+     "grounds": "indicates occasional or situational applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "expresses an accepted view",
+     "morph": "n.nom.sg, ppp of √man"
+    }
+   ],
+   "question": "What quantity of insertion is accepted for a five-faced receptacle in certain cases?",
+   "premises": [
+    "A five-faced receptacle is the context under consideration.",
+    "Four portions together may be inserted in that context.",
+    "Alternatively the entire amount may be inserted in that context.",
+    "This arrangement is regarded as accepted in some cases."
+   ],
+   "inference": "Therefore a five-faced receptacle admits either four portions together or the entire amount as a valid option.",
+   "uncertainties": [
+    "The exact referent of the inserted material depends on the preceding verses."
+   ],
+   "plain_english": "In a five-faced one, inserting four together or the whole amount is, in some cases, considered acceptable."
+  }
+ ]
+}

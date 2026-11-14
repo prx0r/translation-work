@@ -1,0 +1,45 @@
+{
+ "song": "kjn-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun referring to the previously mentioned conduct",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "bheda-upabhedena",
+     "gloss": "by-division-and-subdivision",
+     "grounds": "compound expressing classification through primary and secondary divisions",
+     "morph": "bheda+upabheda (compound), m.inst.sg"
+    },
+    {
+     "surface": "kaula-śāstre",
+     "gloss": "in-kaula-scripture",
+     "grounds": "compound naming the textual source where the determination is found",
+     "morph": "kaula+śāstra (compound), n.loc.sg"
+    },
+    {
+     "surface": "vinirṇayam",
+     "gloss": "determination",
+     "grounds": "object denoting a definitive explanation or ascertainment",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "By what means is the determination of that conduct specified in the Kaula scripture?",
+   "premises": [
+    "The verse refers to a previously mentioned subject requiring determination.",
+    "The determination is articulated through divisions and subdivisions.",
+    "The Kaula scripture serves as the locus of this determination."
+   ],
+   "inference": "The determination of that conduct is specified in the Kaula scripture by means of divisions and subdivisions.",
+   "uncertainties": [
+    "The exact referent of 'tasya' depends on the preceding verse's description of conduct."
+   ],
+   "plain_english": "I will explain its determination in the Kaula scripture through its divisions and subdivisions."
+  }
+ ]
+}

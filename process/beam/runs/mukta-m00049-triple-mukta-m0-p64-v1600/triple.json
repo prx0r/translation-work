@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "prāgalbhyam",
+     "gloss": "boldness",
+     "grounds": "accusative object in a series of behaviors to be avoided, continuing vivarjayet from verse 1598",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhārṣṭyam",
+     "gloss": "audacity",
+     "grounds": "accusative object paired with prāgalbhyam as a further behavior to be avoided",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional overbold behaviors are prohibited in proper conduct?",
+   "premises": [
+    "The preceding injunction requires avoiding certain improper behaviors.",
+    "Boldness is named as a behavior to be avoided.",
+    "Audacity is named alongside boldness as prohibited."
+   ],
+   "inference": "Both boldness and audacity must be avoided as improper forms of conduct.",
+   "uncertainties": [
+    "The governing verb vivarjayet is supplied from the preceding verse context."
+   ],
+   "plain_english": "Boldness and audacity are to be avoided."
+  }
+ ]
+}

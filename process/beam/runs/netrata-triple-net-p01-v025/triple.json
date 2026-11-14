@@ -1,0 +1,51 @@
+{
+ "song": "net-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "bhagavato",
+     "gloss": "of-lord",
+     "grounds": "genitive of bhagavat",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asādhyam",
+     "gloss": "impossible",
+     "grounds": "accusative neuter of asādhya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smitaṃ",
+     "gloss": "smile",
+     "grounds": "accusative of smita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive of vidhā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is impossible for the Lord?",
+   "premises": [
+    "The Lord is addressed.",
+    "Impossibility is stated.",
+    "A smile is made."
+   ],
+   "inference": "The verse depicts the Lord smiling at an impossibility.",
+   "uncertainties": [
+    "Exact referent of asādhyam is unclear from context."
+   ],
+   "plain_english": "Having smiled, [he says] 'impossible for the Lord'."
+  }
+ ]
+}

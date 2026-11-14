@@ -1,0 +1,45 @@
+{
+ "song": "kjn-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "caturaśīti",
+     "gloss": "eighty-four",
+     "grounds": "numeral eighty-four",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasreṣu",
+     "gloss": "thousands",
+     "grounds": "locative plural of sahasra",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yoniyantreṣu",
+     "gloss": "womb-diagrams",
+     "grounds": "locative plural compound yoni+yantra",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pīḍitāḥ",
+     "gloss": "tormented",
+     "grounds": "past participle of pīḍ in nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "In how many womb-diagrams are beings said to be tormented?",
+   "premises": [
+    "Eighty-four thousand womb-diagrams exist.",
+    "Beings are tormented within them.",
+    "The count is eighty-four thousand."
+   ],
+   "inference": "Torment occurs across eighty-four thousand womb-diagrams.",
+   "uncertainties": [
+    "Exact grammatical number of pīḍitāḥ remains unclear."
+   ],
+   "plain_english": "They are tormented in eighty-four thousand womb-diagrams."
+  }
+ ]
+}

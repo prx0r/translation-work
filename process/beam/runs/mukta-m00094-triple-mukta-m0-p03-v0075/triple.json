@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "āṃ",
+     "gloss": "āṃ-syllable",
+     "grounds": "bīja syllable used in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "soham+iti",
+     "gloss": "soham-thus",
+     "grounds": "fused mantra phrase with iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "instrumental of mantra",
+     "morph": "m/n.instr.sg"
+    },
+    {
+     "surface": "jīva+nyāsaṃ",
+     "gloss": "life-nyāsa",
+     "grounds": "fused compound naming the rite",
+     "morph": "m/n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative/impersonal verb of performance",
+     "morph": "3sg.act.opt."
+    }
+   ],
+   "question": "What mantra should be used to perform jīva-nyāsa?",
+   "premises": [
+    "āṃ soham iti is the mantra",
+    "jīva-nyāsa is the rite performed",
+    "samācaret directs its performance"
+   ],
+   "inference": "The verse prescribes performing jīva-nyāsa with the āṃ soham mantra.",
+   "uncertainties": [
+    "exact ritual scope of jīva-nyāsa remains unspecified"
+   ],
+   "plain_english": "With the mantra āṃ soham, one should perform jīva-nyāsa."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "aṣṭavidyeśvarān",
+     "gloss": "eight-vidyeśvaras",
+     "grounds": "compound object of placement; the eight Vidyeśvaras",
+     "morph": "m.acc.pl (compound aṣṭa-vidyeśvara)"
+    },
+    {
+     "surface": "tara",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence; form as given in text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-pedestal",
+     "grounds": "locative of place for installation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvādiṣu",
+     "gloss": "beginning-with-east",
+     "grounds": "compound indicating directions starting from the east",
+     "morph": "m.loc.pl (compound pūrva-ādi)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "injunctive/optative prescribing ritual placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "In which locations on the pedestal must the eight Vidyeśvaras be ritually installed?",
+   "premises": [
+    "The eight Vidyeśvaras are the deities to be installed.",
+    "The pedestal is the designated locus for their placement.",
+    "Their installation proceeds in directions beginning with the east."
+   ],
+   "inference": "Therefore, the practitioner should place the eight Vidyeśvaras on the pedestal starting from the east.",
+   "uncertainties": [
+    "The form 'tara' is taken as a sequential particle ('then') based on context, though its exact morphological derivation is unclear."
+   ],
+   "plain_english": "Then one should place the eight Vidyeśvaras on the pedestal, beginning in the east and proceeding in the other directions."
+  }
+ ]
+}

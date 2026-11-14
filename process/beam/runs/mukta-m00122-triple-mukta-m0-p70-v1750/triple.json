@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "tathā+api",
+     "gloss": "even-so",
+     "grounds": "adverbial phrase introducing a concessive turn",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+diśā",
+     "gloss": "in-that-direction",
+     "grounds": "directional phrase pointing to the topic under discussion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "something",
+     "grounds": "indefinite pronoun introducing an additional item",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "varṇyate",
+     "gloss": "is-described",
+     "grounds": "passive present describing the forthcoming account",
+     "morph": "verb.3.sg.pass-pres+√varṇ"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the account to be heard",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative directing the listener to attend",
+     "morph": "verb.2.sg.act-impv+√śru"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address to the listener",
+     "morph": "noun.voc.sg.f"
+    }
+   ],
+   "question": "What further description in that direction is now to be heard by the dear one?",
+   "premises": [
+    "Even so, something is described in that direction.",
+    "The dear one is asked to hear that.",
+    "A further account follows despite prior statements."
+   ],
+   "inference": "The verse introduces an additional description to be heard.",
+   "uncertainties": [
+    "The exact doctrinal referent of 'that direction' is not specified in this verse."
+   ],
+   "plain_english": "Even so, something in that direction is described; hear that, dear one."
+  }
+ ]
+}

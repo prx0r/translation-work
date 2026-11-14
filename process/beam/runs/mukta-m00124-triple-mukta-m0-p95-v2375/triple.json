@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "etāṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the previously described structure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "khalūrikāṃ",
+     "gloss": "khalūrikā",
+     "grounds": "technical architectural term for a specific base or platform element",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "prescriptive optative expressing injunction",
+     "morph": "3.sg.act.opt-√kṛ"
+    },
+    {
+     "surface": "prāsādādiṣu",
+     "gloss": "in-temples-and-others",
+     "grounds": "compound indicating temples and similar structures as locations",
+     "morph": "prāsāda-ādi-loc.pl.nt"
+    },
+    {
+     "surface": "buddhimān",
+     "gloss": "wise-one",
+     "grounds": "qualified agent enjoined to perform the construction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which structures should a wise builder construct this khalūrikā?",
+   "premises": [
+    "A khalūrikā is the structure to be constructed.",
+    "The construction is prescribed as an injunction.",
+    "Temples and similar structures are the designated locations."
+   ],
+   "inference": "Therefore, a wise builder should construct this khalūrikā in temples and similar structures.",
+   "uncertainties": [
+    "The precise architectural form denoted by khalūrikā is context-dependent."
+   ],
+   "plain_english": "A wise person should make this khalūrikā in temples and other such structures."
+  }
+ ]
+}

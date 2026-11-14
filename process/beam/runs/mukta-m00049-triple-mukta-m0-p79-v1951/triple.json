@@ -1,0 +1,1019 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1951,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "repetition of prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "manner of offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "ghee",
+     "grounds": "ritual substance offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior action before covering",
+     "morph": "gerund (dā)"
+    },
+    {
+     "surface": "sthālīm",
+     "gloss": "pot",
+     "grounds": "vessel to be covered",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ācchādayet",
+     "gloss": "should-cover",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act (ā-chad)"
+    },
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "with-kusha-grass",
+     "grounds": "material used for covering",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What covering procedure follows the threefold offering of ghee into the ritual pot?",
+   "premises": [
+    "Ghee is offered threefold again.",
+    "The offering precedes covering the pot.",
+    "The pot must be covered with kuśa grass."
+   ],
+   "inference": "After giving ghee three times, the practitioner should cover the pot with kuśa grass.",
+   "uncertainties": [],
+   "plain_english": "Again, having offered ghee three times, one should cover the pot with kuśa grass."
+  },
+  {
+   "verse": 1952,
+   "rows": [
+    {
+     "surface": "kiñcit",
+     "gloss": "a-little",
+     "grounds": "small portion of material",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carum",
+     "gloss": "oblation",
+     "grounds": "cooked ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "prior action before offering",
+     "morph": "gerund (sam-ā-dā)"
+    },
+    {
+     "surface": "jānuhomam",
+     "gloss": "knee-offering",
+     "grounds": "specific type of oblation",
+     "morph": "m.acc.sg (compound: jānu+homa)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "What specific oblation must be performed after taking a small portion of caru?",
+   "premises": [
+    "A small portion of caru is taken.",
+    "Taking the caru precedes the offering.",
+    "A knee-offering is to be performed."
+   ],
+   "inference": "After taking a little caru, the practitioner should perform the knee-offering.",
+   "uncertainties": [
+    "jānuhomam: exact ritual form of 'knee-offering' not specified"
+   ],
+   "plain_english": "Having taken a little of the oblation, one should perform the knee-offering."
+  },
+  {
+   "verse": 1953,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "contextual location or case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "refers to appointed deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vihitāḥ",
+     "gloss": "appointed",
+     "grounds": "deities prescribed for the rite",
+     "morph": "m.nom.pl.past-passive-participle (vi-dhā)"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "recipients of oblations",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tanmantraiḥ",
+     "gloss": "with-their-mantras",
+     "grounds": "mantras corresponding to those deities",
+     "morph": "m.inst.pl (compound: tad+mantra)"
+    },
+    {
+     "surface": "āhutīḥ",
+     "gloss": "oblations",
+     "grounds": "offerings into fire",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act (hu)"
+    }
+   ],
+   "question": "By what means must oblations be offered to the deities appointed in a given context?",
+   "premises": [
+    "Certain gods are appointed in specific contexts.",
+    "Each appointed deity has corresponding mantras.",
+    "Oblations are to be offered into the fire."
+   ],
+   "inference": "One should offer oblations with the mantras of whichever gods are appointed there.",
+   "uncertainties": [],
+   "plain_english": "Wherever particular gods are appointed, one should offer oblations with their respective mantras."
+  },
+  {
+   "verse": 1954,
+   "rows": [
+    {
+     "surface": "prāyaścittātmakam",
+     "gloss": "of-expiation-nature",
+     "grounds": "character of the oblation",
+     "morph": "n.acc.sg (compound: prāyaścitta+ātmaka)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "prior expiatory action",
+     "morph": "gerund (hu)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescribed concluding action",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "karmasamāpanam",
+     "gloss": "rite-completion",
+     "grounds": "formal conclusion of the rite",
+     "morph": "n.acc.sg (compound: karman+samāpana)"
+    }
+   ],
+   "question": "What concluding action follows the offering of an expiatory oblation in the rite?",
+   "premises": [
+    "An oblation of expiatory nature is offered.",
+    "The expiatory offering precedes completion.",
+    "The rite must be formally concluded."
+   ],
+   "inference": "After offering the expiatory oblation, the practitioner should complete the rite.",
+   "uncertainties": [],
+   "plain_english": "Having made an expiatory offering, one should bring the rite to completion."
+  },
+  {
+   "verse": 1955,
+   "rows": [
+    {
+     "surface": "vidheyaḥ",
+     "gloss": "to-be-performed",
+     "grounds": "prescriptive requirement",
+     "morph": "m.nom.sg.future-passive-participle (vi-dhā)"
+    },
+    {
+     "surface": "śubhakarmādau",
+     "gloss": "at-auspicious-rite-beginning",
+     "grounds": "time or occasion for performance",
+     "morph": "m.loc.sg (compound: śubha+karman+ādi)"
+    },
+    {
+     "surface": "karmasaṃsiddhihetave",
+     "gloss": "for-rite-accomplishment-cause",
+     "grounds": "purpose of the prescribed action",
+     "morph": "m.dat.sg (compound: karman+saṃsiddhi+hetu)"
+    }
+   ],
+   "question": "For what purpose must this procedure be performed at the beginning of an auspicious rite?",
+   "premises": [
+    "The procedure is prescribed as obligatory.",
+    "It is performed at the beginning of an auspicious rite.",
+    "Its purpose is the accomplishment of the rite."
+   ],
+   "inference": "This procedure should be performed at the start of an auspicious rite to ensure its successful accomplishment.",
+   "uncertainties": [],
+   "plain_english": "It should be performed at the beginning of an auspicious rite for the sake of the rite's successful accomplishment."
+  },
+  {
+   "verse": 1956,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "initial stage of procedure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṛtusaṃskāraḥ",
+     "gloss": "seasonal-consecration",
+     "grounds": "specific ritual purification",
+     "morph": "m.nom.sg (compound: ṛtu+saṃskāra)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-declared",
+     "grounds": "textual exposition",
+     "morph": "3.sg.pres.pass (kath)"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "sequential manner of teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "address to the hearer",
+     "morph": "2.sg.imp.act (śru)"
+    }
+   ],
+   "question": "What initial ritual procedure is declared in sequence for the hearer to learn?",
+   "premises": [
+    "The teaching proceeds in that context.",
+    "The seasonal consecration comes first.",
+    "The hearer is instructed to listen to the sequence."
+   ],
+   "inference": "The seasonal consecration is declared first in order, and the hearer is asked to listen.",
+   "uncertainties": [],
+   "plain_english": "There, the seasonal consecration is declared first in order; listen."
+  },
+  {
+   "verse": 1957,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior action before covering",
+     "morph": "gerund (dā)"
+    },
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "with-kusha-grass",
+     "grounds": "material used for covering",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sthālīm",
+     "gloss": "pot",
+     "grounds": "vessel to be covered",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ācchādayet",
+     "gloss": "should-cover",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act (ā-chad)"
+    }
+   ],
+   "question": "What action must be taken to cover the ritual pot with kuśa grass?",
+   "premises": [
+    "An offering or placement precedes the covering.",
+    "The pot is the object to be covered.",
+    "Kuśa grass is the covering material."
+   ],
+   "inference": "After giving, one should cover the pot with kuśa grass.",
+   "uncertainties": [
+    "dattvā: object given not explicitly stated in this verse"
+   ],
+   "plain_english": "Having given, one should cover the pot with kuśa grass."
+  },
+  {
+   "verse": 1958,
+   "rows": [
+    {
+     "surface": "jñātavyaḥ",
+     "gloss": "should-be-known",
+     "grounds": "prescriptive knowledge requirement",
+     "morph": "m.nom.sg.future-passive-participle (jñā)"
+    }
+   ],
+   "question": "What epistemic status is assigned to the matter under discussion in this context?",
+   "premises": [
+    "The subject matter is under consideration.",
+    "A requirement of knowledge is expressed.",
+    "The form indicates obligation to know."
+   ],
+   "inference": "The matter in question should be known.",
+   "uncertainties": [
+    "subject of jñātavyaḥ not explicit in this verse alone"
+   ],
+   "plain_english": "It should be known."
+  },
+  {
+   "verse": 1959,
+   "rows": [
+    {
+     "surface": "devānām",
+     "gloss": "of-gods",
+     "grounds": "deities associated with mantras",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "ritual formulas used in offering",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "āhutīḥ",
+     "gloss": "oblations",
+     "grounds": "offerings into fire",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescribed fire offering",
+     "morph": "3.sg.opt.act (hu)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed act of giving",
+     "morph": "3.sg.opt.act (dā)"
+    }
+   ],
+   "question": "What ritual actions must be performed using the mantras of the gods?",
+   "premises": [
+    "Mantras belonging to the gods are employed.",
+    "Oblations are to be offered into the fire.",
+    "Gifts are also to be given."
+   ],
+   "inference": "One should offer oblations and give offerings using the mantras of the gods.",
+   "uncertainties": [],
+   "plain_english": "With the mantras of the gods, one should offer oblations and give offerings."
+  },
+  {
+   "verse": 1960,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "deity invoked",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durga",
+     "grounds": "goddess invoked",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaṇeśaḥ+ca",
+     "gloss": "ganesha-and",
+     "grounds": "deity invoked with conjunction",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "grahāḥ",
+     "gloss": "planets",
+     "grounds": "celestial powers invoked",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dikpatayaḥ+tathā",
+     "gloss": "quarter-guardians-and",
+     "grounds": "directional guardians invoked",
+     "morph": "m.nom.pl (compound: dik+pati) + (indecl.)"
+    }
+   ],
+   "question": "Which deities and cosmic powers are enumerated for invocation in this ritual context?",
+   "premises": [
+    "Brahmā, Durgā, and Gaṇeśa are named.",
+    "The planets are included.",
+    "The guardians of the quarters are also included."
+   ],
+   "inference": "The invocation includes Brahmā, Durgā, Gaṇeśa, the planets, and the guardians of the quarters.",
+   "uncertainties": [],
+   "plain_english": "Brahmā, Durgā, Gaṇeśa, the planets, and likewise the guardians of the quarters."
+  },
+  {
+   "verse": 1961,
+   "rows": [
+    {
+     "surface": "tatastu",
+     "gloss": "thereafter",
+     "grounds": "sequence after previous step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkāḥ",
+     "gloss": "mother-goddesses",
+     "grounds": "group of deities to be worshipped",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescribed ritual honor",
+     "morph": "f.nom.pl.future-passive-participle (pūj)"
+    },
+    {
+     "surface": "gauryādyāḥ",
+     "gloss": "gauri-beginning-with",
+     "grounds": "specifies first of the group",
+     "morph": "f.nom.pl (compound: gaurī+ādi)"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "number of mother goddesses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential manner of worship",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How many Mother goddesses beginning with Gaurī must be worshipped in sequence thereafter?",
+   "premises": [
+    "The worship occurs after the previous step.",
+    "The Mother goddesses are the objects of worship.",
+    "They begin with Gaurī and number sixteen."
+   ],
+   "inference": "Thereafter, the sixteen Mother goddesses beginning with Gaurī should be worshipped in order.",
+   "uncertainties": [],
+   "plain_english": "Thereafter, the sixteen Mother goddesses, beginning with Gaurī, should be worshipped in order."
+  },
+  {
+   "verse": 1962,
+   "rows": [
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-oneself",
+     "grounds": "personal deity of the practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devatā+caiva",
+     "gloss": "deity-and-also",
+     "grounds": "personal deity included",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuladevatā",
+     "gloss": "clan-deity",
+     "grounds": "family or lineage deity",
+     "morph": "f.nom.sg (compound: kula+devatā)"
+    }
+   ],
+   "question": "Which personal and lineage deities must also be included in the worship sequence?",
+   "premises": [
+    "The deity of oneself is included.",
+    "The clan deity is included likewise.",
+    "Both are objects of worship in this context."
+   ],
+   "inference": "One's own deity and likewise the clan deity must also be worshipped.",
+   "uncertainties": [],
+   "plain_english": "One's own deity and likewise the clan deity should also be worshipped."
+  },
+  {
+   "verse": 1963,
+   "rows": [
+    {
+     "surface": "vivāha",
+     "gloss": "of-marriage",
+     "grounds": "type of auspicious rite",
+     "morph": "m.stem (compound member)"
+    },
+    {
+     "surface": "vrata",
+     "gloss": "of-vow",
+     "grounds": "type of religious observance",
+     "morph": "n.stem (compound member)"
+    },
+    {
+     "surface": "yajñānām",
+     "gloss": "of-sacrifices",
+     "grounds": "types of ritual performances",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarvābhīṣṭam",
+     "gloss": "all-desired-object",
+     "grounds": "fulfillment sought from rites",
+     "morph": "n.nom.sg (compound: sarva+abhīṣṭa)"
+    },
+    {
+     "surface": "prakalpyatām",
+     "gloss": "may-be-arranged",
+     "grounds": "prescribed arrangement or accomplishment",
+     "morph": "3.sg.imp.pass (pra-kḷp)"
+    }
+   ],
+   "question": "What desired outcome should be arranged through rites such as marriage, vows, and sacrifices?",
+   "premises": [
+    "Marriage, vows, and sacrifices are named contexts.",
+    "All desired objects are sought in these rites.",
+    "An arrangement or accomplishment is enjoined."
+   ],
+   "inference": "In marriage, vows, and sacrifices, all desired objects should be arranged or secured.",
+   "uncertainties": [],
+   "plain_english": "In marriage, vows, and sacrifices, may every desired object be arranged."
+  },
+  {
+   "verse": 1964,
+   "rows": [
+    {
+     "surface": "āyāntu",
+     "gloss": "may-come",
+     "grounds": "invocation of arrival",
+     "morph": "3.pl.imp.act (ā-yā)"
+    },
+    {
+     "surface": "mātaraḥ",
+     "gloss": "mothers",
+     "grounds": "mother goddesses invoked",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "totality of the mothers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yajñotsavasamṛddhaye",
+     "gloss": "for-sacrifice-festival-prosperity",
+     "grounds": "purpose of their arrival",
+     "morph": "f.dat.sg (compound: yajña+utsava+samṛddhi)"
+    }
+   ],
+   "question": "For what purpose are all the Mother goddesses invoked to come to the rite?",
+   "premises": [
+    "All the Mothers are addressed.",
+    "Their coming is requested.",
+    "The purpose is the prosperity of the sacrifice-festival."
+   ],
+   "inference": "All the Mothers are invoked to come for the prosperity of the sacrifice-festival.",
+   "uncertainties": [],
+   "plain_english": "May all the Mothers come for the prosperity of the sacrifice-festival."
+  },
+  {
+   "verse": 1965,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "possible number of drops",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "alternative number of drops",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindūn",
+     "gloss": "drops",
+     "grounds": "marks to be applied",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed act of placing",
+     "morph": "3.sg.opt.act (dā)"
+    },
+    {
+     "surface": "sindūracandanaiḥ",
+     "gloss": "with-vermilion-sandal",
+     "grounds": "materials for the marks",
+     "morph": "n.inst.pl (compound: sindūra+candana)"
+    }
+   ],
+   "question": "How many drops made with vermilion and sandal may be applied as an alternative offering?",
+   "premises": [
+    "Drops are to be given or applied.",
+    "The number may be seven or five.",
+    "The materials are vermilion and sandal."
+   ],
+   "inference": "One should apply either seven or five drops using vermilion and sandal.",
+   "uncertainties": [],
+   "plain_english": "One should apply seven or five drops with vermilion and sandal."
+  },
+  {
+   "verse": 1966,
+   "rows": [
+    {
+     "surface": "pañcadevān",
+     "gloss": "five-gods",
+     "grounds": "group of deities to be worshipped",
+     "morph": "m.acc.pl (compound: pañca+deva)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "prescribed ritual worship",
+     "morph": "3.sg.opt.act (sam-arc)"
+    },
+    {
+     "surface": "ityapekṣāyām",
+     "gloss": "thus-in-expectation",
+     "grounds": "context of this requirement",
+     "morph": "f.loc.sg (compound: iti+apekṣā)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "said",
+     "grounds": "introduces cited teaching",
+     "morph": "3.sg.perf.act (ah)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "first deity named in citation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-beginning",
+     "grounds": "indicates start of enumeration",
+     "morph": "(indecl.) (compound: iti+ādi)"
+    }
+   ],
+   "question": "What scriptural citation introduces the requirement to worship the five gods?",
+   "premises": [
+    "The five gods are to be worshipped.",
+    "This is stated in expectation of that worship.",
+    "The text cites 'Brahmā and so forth'."
+   ],
+   "inference": "In expectation of worshipping the five gods, the text says 'Brahmā and so forth'.",
+   "uncertainties": [],
+   "plain_english": "In expectation of worshipping the five gods, it is said: 'Brahmā and so forth.'"
+  },
+  {
+   "verse": 1967,
+   "rows": [
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-fragrance-flowers-etc",
+     "grounds": "materials used in worship",
+     "morph": "n.inst.pl (compound: gandha+puṣpa+ādi)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-thoroughly-worship",
+     "grounds": "prescribed act of worship",
+     "morph": "3.sg.opt.act (pra-pūj)"
+    }
+   ],
+   "question": "With what materials must thorough worship be performed in this ritual step?",
+   "premises": [
+    "Worship is to be performed thoroughly.",
+    "Fragrance and flowers are specified.",
+    "Other similar offerings are included."
+   ],
+   "inference": "One should thoroughly worship with fragrance, flowers, and so forth.",
+   "uncertainties": [],
+   "plain_english": "One should thoroughly worship with fragrance, flowers, and other such offerings."
+  },
+  {
+   "verse": 1968,
+   "rows": [
+    {
+     "surface": "gaurītyādinā",
+     "gloss": "with-gauri-etc",
+     "grounds": "formula or enumeration beginning with Gaurī",
+     "morph": "n.inst.sg (compound: gaurī+iti+ādi)"
+    },
+    {
+     "surface": "sārddhena",
+     "gloss": "together-with",
+     "grounds": "accompaniment or inclusion",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What accompanying formula beginning with Gaurī is indicated for this ritual action?",
+   "premises": [
+    "A formula beginning with Gaurī is referenced.",
+    "It is used together with the action.",
+    "The phrase indicates accompaniment."
+   ],
+   "inference": "The action is to be done together with the formula beginning with 'Gaurī and so forth'.",
+   "uncertainties": [
+    "exact ritual action accompanied is implied from context"
+   ],
+   "plain_english": "Together with the formula beginning with 'Gaurī and so forth'."
+  },
+  {
+   "verse": 1969,
+   "rows": [
+    {
+     "surface": "āyāntu",
+     "gloss": "may-come",
+     "grounds": "invocation of arrival",
+     "morph": "3.pl.imp.act (ā-yā)"
+    },
+    {
+     "surface": "mātaraḥ",
+     "gloss": "mothers",
+     "grounds": "mother goddesses invoked",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "totality of the mothers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-beginning",
+     "grounds": "indicates start of invocation formula",
+     "morph": "(indecl.) (compound: iti+ādi)"
+    }
+   ],
+   "question": "What opening words constitute the invocation formula addressed to all the Mothers?",
+   "premises": [
+    "The Mothers are invoked to come.",
+    "All of them are addressed.",
+    "The text gives the beginning of the formula."
+   ],
+   "inference": "The invocation begins with 'May all the Mothers come' and so forth.",
+   "uncertainties": [],
+   "plain_english": "'May all the Mothers come,' and so forth."
+  },
+  {
+   "verse": 1970,
+   "rows": [
+    {
+     "surface": "ghṛtadhārām",
+     "gloss": "ghee-stream",
+     "grounds": "continuous offering of ghee",
+     "morph": "f.acc.sg (compound: ghṛta+dhārā)"
+    },
+    {
+     "surface": "avicchinnām",
+     "gloss": "uninterrupted",
+     "grounds": "quality of the stream",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior action before worship",
+     "morph": "gerund (dā)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasum",
+     "gloss": "vasu",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescribed ritual worship",
+     "morph": "3.sg.opt.act (yaj)"
+    }
+   ],
+   "question": "What worship must follow the offering of an uninterrupted stream of ghee?",
+   "premises": [
+    "An uninterrupted stream of ghee is offered.",
+    "The offering takes place there in the rite.",
+    "Vasu is to be worshipped."
+   ],
+   "inference": "After offering an uninterrupted stream of ghee, one should worship Vasu there.",
+   "uncertainties": [
+    "vasum: may refer to a specific deity or class of deities"
+   ],
+   "plain_english": "Having poured an uninterrupted stream of ghee there, one should worship Vasu."
+  },
+  {
+   "verse": 1971,
+   "rows": [
+    {
+     "surface": "homadravyāṇi",
+     "gloss": "offering-materials",
+     "grounds": "substances used in fire offering",
+     "morph": "n.acc.pl (compound: homa+dravya)"
+    },
+    {
+     "surface": "saṃskṛtya",
+     "gloss": "having-sanctified",
+     "grounds": "ritual preparation of materials",
+     "morph": "gerund (sam-kṛ)"
+    },
+    {
+     "surface": "pacet",
+     "gloss": "should-cook",
+     "grounds": "prescribed preparation action",
+     "morph": "3.sg.opt.act (pac)"
+    },
+    {
+     "surface": "carum",
+     "gloss": "oblation",
+     "grounds": "cooked ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anuttamam",
+     "gloss": "excellent",
+     "grounds": "quality of the oblation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How must the oblation be prepared from the sanctified materials for the fire offering?",
+   "premises": [
+    "The offering materials are sanctified.",
+    "Sanctification precedes cooking.",
+    "An excellent oblation is to be cooked."
+   ],
+   "inference": "After sanctifying the offering materials, one should cook an excellent oblation.",
+   "uncertainties": [],
+   "plain_english": "Having sanctified the offering materials, one should cook an excellent oblation."
+  },
+  {
+   "verse": 1972,
+   "rows": [
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "conclusion of prior rite",
+     "morph": "gerund (sam-āp)"
+    },
+    {
+     "surface": "dhārāhomāntam",
+     "gloss": "stream-offering-ending",
+     "grounds": "rite ending with stream offering",
+     "morph": "n.acc.sg (compound: dhārā+homa+anta)"
+    },
+    {
+     "surface": "kṛtyam",
+     "gloss": "rite",
+     "grounds": "ritual action to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārtavam",
+     "gloss": "seasonal",
+     "grounds": "pertaining to the season",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhet",
+     "gloss": "should-begin",
+     "grounds": "prescribed commencement",
+     "morph": "3.sg.opt.ātmanepada (ā-rabh)"
+    }
+   ],
+   "question": "What seasonal rite must be begun after completing the procedure ending with the stream offering?",
+   "premises": [
+    "The rite ending with the stream offering is completed.",
+    "Completion precedes the next rite.",
+    "A seasonal rite is to be begun."
+   ],
+   "inference": "After completing the rite ending with the stream offering, one should begin the seasonal rite.",
+   "uncertainties": [],
+   "plain_english": "Having completed the rite ending with the stream offering, one should begin the seasonal rite."
+  },
+  {
+   "verse": 1973,
+   "rows": [
+    {
+     "surface": "pradāya",
+     "gloss": "having-offered",
+     "grounds": "prior act of giving",
+     "morph": "gerund (pra-dā)"
+    },
+    {
+     "surface": "ekāhutim",
+     "gloss": "one-oblation",
+     "grounds": "single fire offering",
+     "morph": "f.acc.sg (compound: eka+āhuti)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed act of giving",
+     "morph": "3.sg.opt.act (dā)"
+    },
+    {
+     "surface": "imam",
+     "gloss": "this",
+     "grounds": "specific mantra to be uttered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udīrayan",
+     "gloss": "uttering",
+     "grounds": "simultaneous recitation",
+     "morph": "m.nom.sg.pres.act.participle (ud-īr)"
+    }
+   ],
+   "question": "What must accompany the giving of a single oblation in this stage of the rite?",
+   "premises": [
+    "One oblation is to be given.",
+    "A specific mantra is indicated.",
+    "The mantra must be uttered while giving."
+   ],
+   "inference": "While uttering this mantra, one should give one oblation.",
+   "uncertainties": [],
+   "plain_english": "Having offered, one should give one oblation while uttering this mantra."
+  },
+  {
+   "verse": 1974,
+   "rows": [
+    {
+     "surface": "sindūracandanaiḥ",
+     "gloss": "with-vermilion-sandal",
+     "grounds": "materials for the offering",
+     "morph": "n.inst.pl (compound: sindūra+candana)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed act of giving",
+     "morph": "3.sg.opt.act (dā)"
+    }
+   ],
+   "question": "What materials must be used when making the prescribed offering in this step?",
+   "premises": [
+    "An offering is to be given.",
+    "Vermilion and sandal are specified.",
+    "These materials accompany the act of giving."
+   ],
+   "inference": "One should give the offering with vermilion and sandal.",
+   "uncertainties": [
+    "object of dadyāt implied from context"
+   ],
+   "plain_english": "One should give with vermilion and sandal."
+  }
+ ]
+}

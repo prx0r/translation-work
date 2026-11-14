@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "piturapyadhiko",
+     "gloss": "greater-than-father",
+     "grounds": "fused form pitur+api+adhikaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñeyo",
+     "gloss": "to-be-known",
+     "grounds": "jñeyaḥ with final visarga sandhi before mantradaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantradaḥ",
+     "gloss": "mantra-giver",
+     "grounds": "compound mantra-daḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramo",
+     "gloss": "supreme",
+     "grounds": "paramaḥ with final visarga sandhi before guruḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is to be known as the supreme teacher greater than one's father?",
+   "premises": [
+    "mantra-giver exceeds father in status",
+    "supreme teacher is to be known",
+    "guru is supreme among teachers"
+   ],
+   "inference": "The mantra-giving supreme teacher outranks even the father.",
+   "uncertainties": [
+    "fused sandhi forms are transcribed without expansion"
+   ],
+   "plain_english": "The mantra-giver, greater than the father, is to be known as the supreme teacher."
+  }
+ ]
+}

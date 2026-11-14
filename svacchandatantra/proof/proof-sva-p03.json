@@ -1,0 +1,178 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p03",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v52 ratio=0.667",
+  "ALIGN_NODISP v53 ratio=0.817",
+  "ALIGN_NODISP v54 ratio=0.632",
+  "ALIGN_NODISP v55 ratio=0.805",
+  "ALIGN_NODISP v56 ratio=0.839",
+  "ALIGN_NODISP v57 ratio=0.800",
+  "ALIGN_NODISP v59 ratio=0.400",
+  "ALIGN_NODISP v62 ratio=0.850",
+  "ALIGN_NODISP v63 ratio=0.811",
+  "ALIGN_NODISP v64 ratio=0.400",
+  "ALIGN_NODISP v65 ratio=0.620",
+  "ALIGN_NODISP v66 ratio=0.760",
+  "ALIGN_NODISP v67 ratio=0.588",
+  "ALIGN_NODISP v70 ratio=0.606",
+  "ALIGN_NODISP v71 ratio=0.400",
+  "ALIGN_NODISP v72 ratio=0.833",
+  "L2_CITE_FAIL 3",
+  "DATA_OBJECTS 3 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "863c276ba305f726",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 110
+ },
+ "align": {
+  "min_ratio": 0.4,
+  "sub090": {
+   "52": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "53": {
+    "ratio": 0.817,
+    "disposition": null
+   },
+   "54": {
+    "ratio": 0.632,
+    "disposition": null
+   },
+   "55": {
+    "ratio": 0.805,
+    "disposition": null
+   },
+   "56": {
+    "ratio": 0.839,
+    "disposition": null
+   },
+   "57": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "59": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "62": {
+    "ratio": 0.85,
+    "disposition": null
+   },
+   "63": {
+    "ratio": 0.811,
+    "disposition": null
+   },
+   "64": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "65": {
+    "ratio": 0.62,
+    "disposition": null
+   },
+   "66": {
+    "ratio": 0.76,
+    "disposition": null
+   },
+   "67": {
+    "ratio": 0.588,
+    "disposition": null
+   },
+   "70": {
+    "ratio": 0.606,
+    "disposition": null
+   },
+   "71": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "72": {
+    "ratio": 0.833,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 53,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "iti nyāyāt śṛṇu antaḥ parāmṛśa",
+   "prathāprarohakaḥ evamanyat",
+   "tvasyāmātmābhedo grāhyaḥ evamātmanaḥ paro dehaḥ"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p03-v68]: cite part not byte-exact in source: iti nyāyāt śṛṇu antaḥ parāmṛśa",
+   "l2[sva-p03-v72]: cite part not byte-exact in source: prathāprarohakaḥ evamanyat",
+   "l2[sva-p03-v73]: cite part not byte-exact in source: tvasyāmātmābhedo grāhyaḥ evamātmanaḥ paro dehaḥ"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 110,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v52",
+  "fix: word-order/gloss vs source for v53",
+  "fix: word-order/gloss vs source for v54",
+  "fix: word-order/gloss vs source for v55",
+  "fix: word-order/gloss vs source for v56",
+  "fix: word-order/gloss vs source for v57",
+  "fix: word-order/gloss vs source for v59",
+  "fix: word-order/gloss vs source for v62",
+  "fix: word-order/gloss vs source for v63",
+  "fix: word-order/gloss vs source for v64",
+  "fix: word-order/gloss vs source for v65",
+  "fix: word-order/gloss vs source for v66",
+  "fix: word-order/gloss vs source for v67",
+  "fix: word-order/gloss vs source for v70",
+  "fix: word-order/gloss vs source for v71",
+  "fix: word-order/gloss vs source for v72"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "3f843ed826260283508447dfadba98f032e437d47c5a50c4c978c6bc36d34f0e",
+  "l0": "c2d28d4019bd822abbc3b3140047f71dae617622d39548c65fd67ff3fd8f6796",
+  "argmap": "b71dfe62682218985131ab295abdc26c7e93e66013fa9d9a1cf3751c31ccb32c",
+  "l2": "e7d4f405851106071383a948ac5932cb6d93c3c2159d2047d4a84350647e40ff",
+  "c1": "9ea555b5f6e410f8200dbc6936645478fa2b26e01d8b86e857863b3e43ddc419"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "863c276ba305f726",
+  "t1": "sva-p03/data/sva-p03.t1.json",
+  "l0": "sva-p03/data/sva-p03.l0.json",
+  "l2": "sva-p03/data/sva-p03.l2.json",
+  "c1": "sva-p03/data/sva-p03.c1.json"
+ }
+}

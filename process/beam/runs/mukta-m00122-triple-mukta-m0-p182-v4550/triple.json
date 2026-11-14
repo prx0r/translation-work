@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p182",
+ "items": [
+  {
+   "verse": 4550,
+   "rows": [
+    {
+     "surface": "tiryyak",
+     "gloss": "transverse",
+     "grounds": "adverb indicating transverse direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃktiṣu",
+     "gloss": "in-rows",
+     "grounds": "locative plural of paṃkti",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "anabhyasta",
+     "gloss": "non-repeated",
+     "grounds": "negative adjective modifying sequence",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kramam",
+     "gloss": "sequence",
+     "grounds": "accusative object of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṅkāḥ",
+     "gloss": "numbers",
+     "grounds": "nominative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb of universal placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are numbers assigned in transverse rows when the sequence is not repeated?",
+   "premises": [
+    "transverse rows receive numbers",
+    "non-repeated sequence governs placement",
+    "numbers appear everywhere"
+   ],
+   "inference": "Numbers fill transverse rows according to a non-repeated sequence everywhere.",
+   "uncertainties": [
+    "exact ritual diagram context not fully recoverable from this verse alone"
+   ],
+   "plain_english": "In transverse rows, numbers follow a non-repeated sequence everywhere."
+  }
+ ]
+}

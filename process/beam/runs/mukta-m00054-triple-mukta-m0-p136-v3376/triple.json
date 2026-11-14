@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p136",
+ "items": [
+  {
+   "verse": 3376,
+   "rows": [
+    {
+     "surface": "japyante",
+     "gloss": "are-chanted",
+     "grounds": "passive verb indicating recitation",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "sādaram+nityam",
+     "gloss": "with-reverence+always",
+     "grounds": "compound adverbial expression of manner and frequency",
+     "morph": "compound=adverbial+adverbial"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of the recitation",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "niyama+pūrvakam",
+     "gloss": "with-discipline+preceded",
+     "grounds": "compound indicating observance preceded by discipline",
+     "morph": "compound=niyama+adjectival"
+    }
+   ],
+   "question": "How are these names recited by the speaker in practice?",
+   "premises": [
+    "The names are chanted.",
+    "The chanting is done by the speaker.",
+    "The chanting is reverent, constant, and disciplined."
+   ],
+   "inference": "The speaker recites these names regularly with reverence and disciplined observance.",
+   "uncertainties": [],
+   "plain_english": "They are always chanted by me with reverence and preceded by discipline."
+  },
+  {
+   "verse": 3377,
+   "rows": [
+    {
+     "surface": "santi",
+     "gloss": "there-are",
+     "grounds": "existential verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "anantāni",
+     "gloss": "endless",
+     "grounds": "qualifies the names as innumerable",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "subhage",
+     "gloss": "O-fortunate-one",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vedeṣu",
+     "gloss": "in-the-Vedas",
+     "grounds": "locative indicating scriptural source",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vividheṣu",
+     "gloss": "various",
+     "grounds": "qualifies the Vedas as diverse",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are countless names of the deity found in scripture?",
+   "premises": [
+    "Endless names exist.",
+    "They are found in the Vedas.",
+    "The Vedas referred to are various."
+   ],
+   "inference": "Countless names of the deity are present across the various Vedas.",
+   "uncertainties": [],
+   "plain_english": "O fortunate one, there are endless names in the various Vedas as well."
+  },
+  {
+   "verse": 3378,
+   "rows": [
+    {
+     "surface": "aṣṭottara+sahasram",
+     "gloss": "eight-more-thousand",
+     "grounds": "compound numeral indicating 1008",
+     "morph": "compound=aṣṭottara+sahasram"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle narrowing focus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmnām",
+     "gloss": "of-names",
+     "grounds": "genitive specifying the set counted",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "upadiśat",
+     "gloss": "he-taught",
+     "grounds": "verb of instruction",
+     "morph": "3.sg.act-imperf"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "temporal adverb indicating past occasion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many names were specifically taught in the earlier account?",
+   "premises": [
+    "A teaching of names occurred formerly.",
+    "The number taught was a thousand and eight.",
+    "This specifies a particular set among many names."
+   ],
+   "inference": "Formerly, a specific set of one thousand and eight names was taught.",
+   "uncertainties": [],
+   "plain_english": "But formerly he taught a thousand and eight names."
+  },
+  {
+   "verse": 3379,
+   "rows": [
+    {
+     "surface": "viṣṇunā",
+     "gloss": "by-Viṣṇu",
+     "grounds": "agent who made the request",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "prārthitaḥ",
+     "gloss": "having-been-requested",
+     "grounds": "past participle describing the supreme lord",
+     "morph": "m.nom.sg.past-pass-part"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "relative pronoun referring to Viṣṇu",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "santuṣṭaḥ",
+     "gloss": "was-satisfied",
+     "grounds": "state of the supreme lord upon request",
+     "morph": "m.nom.sg.past-pass-part"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "the-supreme-lord",
+     "grounds": "subject who was pleased and taught",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What prompted the supreme lord to teach the thousand and eight names?",
+   "premises": [
+    "Viṣṇu requested the supreme lord.",
+    "The supreme lord was satisfied by that request.",
+    "The satisfied lord responded to Viṣṇu."
+   ],
+   "inference": "The supreme lord taught the names after being pleased by Viṣṇu's request.",
+   "uncertainties": [],
+   "plain_english": "The supreme lord, having been requested by Viṣṇu and satisfied by him, taught them."
+  },
+  {
+   "verse": 3380,
+   "rows": [
+    {
+     "surface": "śivo",
+     "gloss": "Śiva",
+     "grounds": "divine name in the list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haro",
+     "gloss": "Hara",
+     "grounds": "divine name meaning remover",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛḍo",
+     "gloss": "Mṛḍa",
+     "grounds": "divine name meaning gracious one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "Rudra",
+     "grounds": "divine name in the list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣkaraḥ",
+     "gloss": "Puṣkara",
+     "grounds": "divine name meaning lotus-like or nourisher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣpa+locanaḥ",
+     "gloss": "lotus-eyed",
+     "grounds": "compound describing eyes like flowers",
+     "morph": "compound=puṣpa+locana"
+    }
+   ],
+   "question": "Which divine names begin the recited list of the supreme lord?",
+   "premises": [
+    "A sequence of names is being enumerated.",
+    "The names include Śiva, Hara, Mṛḍa, and Rudra.",
+    "The names include Puṣkara and the lotus-eyed one."
+   ],
+   "inference": "The recitation begins with these six names of the supreme lord.",
+   "uncertainties": [],
+   "plain_english": "Śiva, Hara, Mṛḍa, Rudra, Puṣkara, and the lotus-eyed one."
+  },
+  {
+   "verse": 3381,
+   "rows": [
+    {
+     "surface": "candrāpīḍaḥ",
+     "gloss": "moon-crested",
+     "grounds": "compound name describing the moon as crest",
+     "morph": "compound=candra+āpīḍa"
+    },
+    {
+     "surface": "candra+maulir",
+     "gloss": "moon-diademed",
+     "grounds": "compound name describing the moon on the head",
+     "morph": "compound=candra+mauli"
+    },
+    {
+     "surface": "viśva+ādiḥ",
+     "gloss": "universe-beginning",
+     "grounds": "compound name indicating origin of the universe",
+     "morph": "compound=viśva+ādi"
+    },
+    {
+     "surface": "ca+amareśvaraḥ",
+     "gloss": "and-lord-of-immortals",
+     "grounds": "conjunction fused with compound name for lord of immortals",
+     "morph": "compound=ca+amara+īśvara"
+    }
+   ],
+   "question": "Which further names identify the lord as cosmic origin and ruler of immortals?",
+   "premises": [
+    "The list continues with additional names.",
+    "Two names describe the moon as crest or diadem.",
+    "Other names identify him as origin of the universe and lord of immortals."
+   ],
+   "inference": "These names present the lord as moon-adorned, cosmic source, and ruler of immortals.",
+   "uncertainties": [],
+   "plain_english": "Moon-crested, moon-diademed, the beginning of the universe, and lord of the immortals."
+  },
+  {
+   "verse": 3382,
+   "rows": [
+    {
+     "surface": "dhyāna+ādhāraḥ",
+     "gloss": "meditation-support",
+     "grounds": "compound name indicating support for meditation",
+     "morph": "compound=dhyāna+ādhāra"
+    },
+    {
+     "surface": "aparicchedyo",
+     "gloss": "indivisible",
+     "grounds": "name indicating absence of limitation or division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gaurī+bharttā",
+     "gloss": "Gaurī-husband",
+     "grounds": "compound name identifying consort of Gaurī",
+     "morph": "compound=gaurī+bhartṛ"
+    },
+    {
+     "surface": "gaṇeśvaraḥ",
+     "gloss": "lord-of-attendants",
+     "grounds": "compound name indicating lord of the gaṇas",
+     "morph": "compound=gaṇa+īśvara"
+    }
+   ],
+   "question": "Which names describe the lord as meditative support and sovereign of attendants?",
+   "premises": [
+    "The enumeration continues with more names.",
+    "One name presents him as the support of meditation.",
+    "Others present him as indivisible, Gaurī's husband, and lord of attendants."
+   ],
+   "inference": "These names portray the lord as indivisible meditative ground and master of Gaurī and the gaṇas.",
+   "uncertainties": [],
+   "plain_english": "The support of meditation, the indivisible one, the husband of Gaurī, and the lord of the attendants."
+  },
+  {
+   "verse": 3383,
+   "rows": [
+    {
+     "surface": "jñāna+gamyo",
+     "gloss": "knowledge-accessible",
+     "grounds": "compound name indicating attainability through knowledge",
+     "morph": "compound=jñāna+gamya"
+    },
+    {
+     "surface": "dṛḍha+prajño",
+     "gloss": "firm-wisdomed",
+     "grounds": "compound name indicating steadfast wisdom",
+     "morph": "compound=dṛḍha+prajña"
+    },
+    {
+     "surface": "deva+devas",
+     "gloss": "god-of-gods",
+     "grounds": "compound title indicating supremacy over gods",
+     "morph": "compound=deva+deva"
+    },
+    {
+     "surface": "tri+locanaḥ",
+     "gloss": "three-eyed",
+     "grounds": "compound name indicating three eyes",
+     "morph": "compound=tri+locana"
+    }
+   ],
+   "question": "Which names emphasize the lord's knowability, wisdom, and divine supremacy?",
+   "premises": [
+    "The list includes epistemic and hierarchical names.",
+    "He is described as accessible through knowledge and firm in wisdom.",
+    "He is called god of gods and three-eyed."
+   ],
+   "inference": "These names present the lord as supremely wise, knowable through knowledge, and sovereign among gods.",
+   "uncertainties": [],
+   "plain_english": "Accessible through knowledge, firm in wisdom, god of gods, and three-eyed."
+  },
+  {
+   "verse": 3384,
+   "rows": [
+    {
+     "surface": "viśva+rūpī",
+     "gloss": "universal-form",
+     "grounds": "compound name indicating possession of all forms",
+     "morph": "compound=viśva+rūpin"
+    },
+    {
+     "surface": "virūpa+ākṣo",
+     "gloss": "odd-eyed",
+     "grounds": "compound name indicating unusual or distinctive eyes",
+     "morph": "compound=virūpa+akṣa"
+    },
+    {
+     "surface": "vāgīśaḥ",
+     "gloss": "lord-of-speech",
+     "grounds": "compound name indicating mastery over speech",
+     "morph": "compound=vāc+īśa"
+    },
+    {
+     "surface": "śuci+mattaraḥ",
+     "gloss": "most-pure",
+     "grounds": "compound comparative indicating supreme purity",
+     "morph": "compound=śuci+mattara"
+    }
+   ],
+   "question": "Which names attribute universal form, speech mastery, and supreme purity to the lord?",
+   "premises": [
+    "The recited names continue.",
+    "He is described as having universal form and distinctive eyes.",
+    "He is described as lord of speech and supremely pure."
+   ],
+   "inference": "These names portray the lord as all-formed, master of speech, and most pure.",
+   "uncertainties": [],
+   "plain_english": "Of universal form, odd-eyed, lord of speech, and most pure."
+  },
+  {
+   "verse": 3385,
+   "rows": [
+    {
+     "surface": "īśaḥ",
+     "gloss": "lord",
+     "grounds": "title indicating sovereignty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pinākī",
+     "gloss": "bow-holder",
+     "grounds": "name indicating bearer of the Pināka bow",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khaṭvāṅgī",
+     "gloss": "club-holder",
+     "grounds": "name indicating bearer of the khaṭvāṅga staff",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "citra+veṣaḥ",
+     "gloss": "varied-attire",
+     "grounds": "compound name indicating manifold appearance or dress",
+     "morph": "compound=citra+veṣa"
+    },
+    {
+     "surface": "cirantanaḥ",
+     "gloss": "ancient",
+     "grounds": "name indicating primordial antiquity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which names depict the lord's sovereignty, attributes, and ancient nature?",
+   "premises": [
+    "The list gives further epithets.",
+    "He is called lord and bearer of bow and club.",
+    "He is described as having varied attire and being ancient."
+   ],
+   "inference": "These names present the lord as sovereign, iconically armed, manifold in appearance, and ancient.",
+   "uncertainties": [],
+   "plain_english": "Lord, bearer of the bow, bearer of the club, of varied attire, and ancient."
+  },
+  {
+   "verse": 3386,
+   "rows": [
+    {
+     "surface": "kāla+kālaḥ",
+     "gloss": "death-of-death",
+     "grounds": "compound name indicating conqueror of time or death",
+     "morph": "compound=kāla+kāla"
+    },
+    {
+     "surface": "kṛtti+vāsāḥ",
+     "gloss": "skin-clad",
+     "grounds": "compound name indicating garment of hide",
+     "morph": "compound=kṛtti+vāsas"
+    },
+    {
+     "surface": "subhagaḥ",
+     "gloss": "auspicious",
+     "grounds": "name indicating blessed or gracious nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praṇata+ātmakaḥ",
+     "gloss": "devoted-self",
+     "grounds": "compound name indicating nature inclined to the devoted or embodying devotion",
+     "morph": "compound=praṇata+ātmaka"
+    }
+   ],
+   "question": "Which names present the lord as transcending death yet gracious to devotees?",
+   "premises": [
+    "The enumeration continues.",
+    "He is called death of death and clad in hide.",
+    "He is called auspicious and of a devoted nature."
+   ],
+   "inference": "These names portray the lord as transcendent over death, ascetic in form, and gracious to devotees.",
+   "uncertainties": [
+    "praṇata+ātmakaḥ may mean 'whose nature is devoted' or 'whose nature is toward the devoted'."
+   ],
+   "plain_english": "Death of death, clad in hide, auspicious, and of a devoted nature."
+  },
+  {
+   "verse": 3387,
+   "rows": [
+    {
+     "surface": "divya+āyudhaḥ",
+     "gloss": "divine-weapons",
+     "grounds": "compound name indicating possession of divine weapons",
+     "morph": "compound=divya+āyudha"
+    },
+    {
+     "surface": "skanda+guruḥ",
+     "gloss": "teacher-of-Skanda",
+     "grounds": "compound name indicating guru of Skanda",
+     "morph": "compound=skanda+guru"
+    },
+    {
+     "surface": "parameṣṭhī",
+     "gloss": "supreme-lord",
+     "grounds": "name indicating highest station",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "para+at+paraḥ",
+     "gloss": "higher-than-the-highest",
+     "grounds": "compound expressing transcendence beyond the supreme",
+     "morph": "compound=para+at+para"
+    }
+   ],
+   "question": "Which names assert the lord's supreme transcendence and divine authority?",
+   "premises": [
+    "Further epithets are listed.",
+    "He bears divine weapons and is teacher of Skanda.",
+    "He is called supreme and higher than the highest."
+   ],
+   "inference": "These names affirm the lord's supreme authority and transcendence beyond all heights.",
+   "uncertainties": [],
+   "plain_english": "Bearer of divine weapons, teacher of Skanda, the supreme one, and higher than the highest."
+  },
+  {
+   "verse": 3388,
+   "rows": [
+    {
+     "surface": "kubera+bandhuḥ",
+     "gloss": "friend-of-Kubera",
+     "grounds": "compound name indicating association with Kubera",
+     "morph": "compound=kubera+bandhu"
+    },
+    {
+     "surface": "śrī+kaṇṭho",
+     "gloss": "glorious-throated",
+     "grounds": "compound name referring to the marked or blue throat",
+     "morph": "compound=śrī+kaṇṭha"
+    },
+    {
+     "surface": "loka+varṇa+uttamo",
+     "gloss": "world-class-best",
+     "grounds": "compound indicating highest among the classes or orders of the world",
+     "morph": "compound=loka+varṇa+uttama"
+    },
+    {
+     "surface": "mṛduḥ",
+     "gloss": "gentle",
+     "grounds": "name indicating softness or mildness",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which names combine the lord's social ties, distinctive mark, and gentle excellence?",
+   "premises": [
+    "The list continues with relational and qualitative names.",
+    "He is friend of Kubera and glorious-throated.",
+    "He is highest among worldly orders and gentle."
+   ],
+   "inference": "These names present the lord as connected, distinctly marked, preeminent, and gentle.",
+   "uncertainties": [
+    "loka+varṇa+uttamo may refer to social classes or to categories/orders in the world."
+   ],
+   "plain_english": "Friend of Kubera, glorious-throated, best among the orders of the world, and gentle."
+  },
+  {
+   "verse": 3389,
+   "rows": [
+    {
+     "surface": "viśāla+ākṣo",
+     "gloss": "wide-eyed",
+     "grounds": "compound name describing large eyes",
+     "morph": "compound=viśāla+akṣa"
+    },
+    {
+     "surface": "mṛga+vyādhaḥ",
+     "gloss": "deer-hunter",
+     "grounds": "compound name referring to the hunter form",
+     "morph": "compound=mṛga+vyādha"
+    },
+    {
+     "surface": "sureśaḥ",
+     "gloss": "lord-of-gods",
+     "grounds": "compound name indicating sovereignty over gods",
+     "morph": "compound=sura+īśa"
+    },
+    {
+     "surface": "sūrya+tāpanaḥ",
+     "gloss": "sun-scorcher",
+     "grounds": "compound name indicating power to scorch or surpass the sun",
+     "morph": "compound=sūrya+tāpana"
+    }
+   ],
+   "question": "Which names portray the lord as hunter, divine sovereign, and solar overpowerer?",
+   "premises": [
+    "Additional epithets are enumerated.",
+    "He is described as wide-eyed and a deer-hunter.",
+    "He is described as lord of gods and scorcher of the sun."
+   ],
+   "inference": "These names depict the lord as fierce hunter, sovereign of gods, and overpowering the sun.",
+   "uncertainties": [],
+   "plain_english": "Wide-eyed, hunter of the deer, lord of the gods, and scorcher of the sun."
+  },
+  {
+   "verse": 3390,
+   "rows": [
+    {
+     "surface": "ugraḥ",
+     "gloss": "fierce",
+     "grounds": "name indicating formidable nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paśu+patis",
+     "gloss": "lord-of-beasts",
+     "grounds": "compound title indicating lordship over beings or beasts",
+     "morph": "compound=paśu+pati"
+    },
+    {
+     "surface": "tārkṣyaḥ",
+     "gloss": "Tārkṣya",
+     "grounds": "divine name or epithet in the list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priya+bhaktaḥ",
+     "gloss": "fond-of-devotees",
+     "grounds": "compound name indicating affection for devotees",
+     "morph": "compound=priya+bhakta"
+    },
+    {
+     "surface": "priya/vvadaḥ",
+     "gloss": "speaking-kindly",
+     "grounds": "compound name indicating one who speaks pleasantly; internal sandhi marked by /v",
+     "morph": "compound=priya+vada"
+    }
+   ],
+   "question": "Which names balance the lord's fierceness with kindness toward devotees?",
+   "premises": [
+    "The list includes contrasting qualities.",
+    "He is called fierce, lord of beasts, and Tārkṣya.",
+    "He is called fond of devotees and kindly speaking."
+   ],
+   "inference": "These names present the lord as both formidable and benevolent toward devotees.",
+   "uncertainties": [
+    "tārkṣyaḥ may function as a specific epithet whose precise reference here is not explicit."
+   ],
+   "plain_english": "Fierce, lord of beasts, Tārkṣya, fond of devotees, and speaking kindly."
+  },
+  {
+   "verse": 3391,
+   "rows": [
+    {
+     "surface": "śmaśāna+nilayaḥ",
+     "gloss": "cremation-ground-dweller",
+     "grounds": "compound name indicating abode in cremation grounds",
+     "morph": "compound=śmaśāna+nilaya"
+    },
+    {
+     "surface": "sūkṣmaḥ",
+     "gloss": "subtle",
+     "grounds": "name indicating subtle nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śmaśāna+stho",
+     "gloss": "cremation-ground-abiding",
+     "grounds": "compound name indicating presence in cremation grounds",
+     "morph": "compound=śmaśāna+stha"
+    },
+    {
+     "surface": "mahā+īśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "compound title indicating supreme lordship",
+     "morph": "compound=mahā+īśvara"
+    }
+   ],
+   "question": "Which names unite the lord's cremation-ground presence with subtle greatness?",
+   "premises": [
+    "The enumeration continues.",
+    "He is described as dwelling and abiding in cremation grounds.",
+    "He is described as subtle and the great lord."
+   ],
+   "inference": "These names present the lord as both cremation-ground dweller and subtle great sovereign.",
+   "uncertainties": [],
+   "plain_english": "Dweller in the cremation ground, subtle, abiding in the cremation ground, and the great lord."
+  },
+  {
+   "verse": 3392,
+   "rows": [
+    {
+     "surface": "uttaro",
+     "gloss": "supreme",
+     "grounds": "name indicating higher or supreme status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "go+patis",
+     "gloss": "lord-of-cows",
+     "grounds": "compound title indicating lordship over cows or rays/senses in some contexts",
+     "morph": "compound=go+pati"
+    },
+    {
+     "surface": "goptā",
+     "gloss": "protector",
+     "grounds": "agent noun indicating one who protects",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñāna+gamyaḥ",
+     "gloss": "knowledge-accessible",
+     "grounds": "compound name indicating attainability through knowledge",
+     "morph": "compound=jñāna+gamya"
+    },
+    {
+     "surface": "purātanaḥ",
+     "gloss": "ancient",
+     "grounds": "name indicating primordial existence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which names describe the lord as supreme protector knowable through knowledge?",
+   "premises": [
+    "Further names are listed.",
+    "He is called supreme, lord of cows, and protector.",
+    "He is called accessible through knowledge and ancient."
+   ],
+   "inference": "These names portray the lord as ancient supreme protector accessible through knowledge.",
+   "uncertainties": [
+    "go+patis may mean lord of cows, earth, rays, or senses depending on context."
+   ],
+   "plain_english": "Supreme, lord of cows, protector, accessible through knowledge, and ancient."
+  },
+  {
+   "verse": 3393,
+   "rows": [
+    {
+     "surface": "soma+po",
+     "gloss": "soma-drinker",
+     "grounds": "compound name indicating drinker of soma",
+     "morph": "compound=soma+pa"
+    },
+    {
+     "surface": "amṛta+paḥ",
+     "gloss": "nectar-drinker",
+     "grounds": "compound name indicating drinker of nectar",
+     "morph": "compound=amṛta+pa"
+    },
+    {
+     "surface": "saumyo",
+     "gloss": "gentle",
+     "grounds": "name indicating mild or soma-related nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā+jyotir",
+     "gloss": "great-light",
+     "grounds": "compound name indicating immense luminosity",
+     "morph": "compound=mahā+jyotis"
+    },
+    {
+     "surface": "mahā+dyutiḥ",
+     "gloss": "great-splendor",
+     "grounds": "compound name indicating immense radiance",
+     "morph": "compound=mahā+dyuti"
+    }
+   ],
+   "question": "Which names associate the lord with soma, nectar, gentleness, and radiant light?",
+   "premises": [
+    "The list continues with luminous and ritual epithets.",
+    "He is called drinker of soma and drinker of nectar.",
+    "He is called gentle, great light, and great splendor."
+   ],
+   "inference": "These names present the lord as soma-associated, gentle, and supremely radiant.",
+   "uncertainties": [],
+   "plain_english": "Drinker of soma, drinker of nectar, gentle, great light, and great splendor."
+  },
+  {
+   "verse": 3394,
+   "rows": [
+    {
+     "surface": "ajāta+śatrur",
+     "gloss": "unborn-enemy",
+     "grounds": "compound name indicating one with no enemy born",
+     "morph": "compound=ajāta+śatru"
+    },
+    {
+     "surface": "āloka",
+     "gloss": "light",
+     "grounds": "name indicating illumination or visibility",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sambhāvyo",
+     "gloss": "to-be-conceived",
+     "grounds": "gerundive indicating one who can or should be conceived or honored",
+     "morph": "m.nom.sg.gerundive"
+    },
+    {
+     "surface": "havya+vāhanaḥ",
+     "gloss": "oblation-carrier",
+     "grounds": "compound name indicating carrier of offerings, often associated with fire",
+     "morph": "compound=havya+vāhana"
+    }
+   ],
+   "question": "Which names present the lord as unopposed light worthy of contemplation and oblation-bearing?",
+   "premises": [
+    "Additional epithets are given.",
+    "He is called one with no born enemy and light.",
+    "He is called worthy of conception and carrier of oblations."
+   ],
+   "inference": "These names portray the lord as unopposed, luminous, contemplable, and linked to sacrificial offerings.",
+   "uncertainties": [
+    "sambhāvyo can mean conceivable, possible, or worthy of regard."
+   ],
+   "plain_english": "One with no enemy born, light, worthy of contemplation, and carrier of oblations."
+  },
+  {
+   "verse": 3395,
+   "rows": [
+    {
+     "surface": "mahā+rṣiḥ",
+     "gloss": "great-seer",
+     "grounds": "compound name indicating a great sage",
+     "morph": "compound=mahā+ṛṣi"
+    },
+    {
+     "surface": "kapila+ācāryo",
+     "gloss": "Kapila-teacher",
+     "grounds": "compound name identifying him as the teacher Kapila",
+     "morph": "compound=kapila+ācārya"
+    },
+    {
+     "surface": "viśva+dīptir",
+     "gloss": "universal-light",
+     "grounds": "compound name indicating illumination of the universe",
+     "morph": "compound=viśva+dīpti"
+    },
+    {
+     "surface": "vilocanaḥ",
+     "gloss": "eyeless",
+     "grounds": "name indicating absence of ordinary eyes or transcendent vision",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which names identify the lord as sage, teacher, universal light, and beyond ordinary sight?",
+   "premises": [
+    "The list continues with sage-like and luminous names.",
+    "He is called great seer and teacher Kapila.",
+    "He is called universal light and eyeless."
+   ],
+   "inference": "These names present the lord as sage-teacher, universal illumination, and beyond ordinary ocular vision.",
+   "uncertainties": [
+    "vilocanaḥ may mean eyeless or, in some contexts, having distinctive eyes; context here is ambiguous."
+   ],
+   "plain_english": "Great seer, the teacher Kapila, universal light, and eyeless."
+  },
+  {
+   "verse": 3396,
+   "rows": [
+    {
+     "surface": "dhātṛ+dhāmā",
+     "gloss": "support-of-supports",
+     "grounds": "compound name indicating abode or foundation of the supporter",
+     "morph": "compound=dhātṛ+dhāman"
+    },
+    {
+     "surface": "dhāma+karaḥ",
+     "gloss": "abode-maker",
+     "grounds": "compound name indicating maker of abodes or light",
+     "morph": "compound=dhāma+kara"
+    },
+    {
+     "surface": "sarva+daḥ",
+     "gloss": "all-giver",
+     "grounds": "compound name indicating giver of all",
+     "morph": "compound=sarva+da"
+    },
+    {
+     "surface": "sarva+gocaraḥ",
+     "gloss": "all-pervading",
+     "grounds": "compound name indicating range over all or accessibility to all",
+     "morph": "compound=sarva+gocara"
+    }
+   ],
+   "question": "Which names describe the lord as foundational giver present to all domains?",
+   "premises": [
+    "Further epithets are enumerated.",
+    "He is called support of supports and maker of abodes.",
+    "He is called giver of all and within range of all."
+   ],
+   "inference": "These names portray the lord as foundational, creative, generous, and universally pervasive.",
+   "uncertainties": [
+    "dhāma can mean abode, light, or power; sarva+gocaraḥ can mean all-pervading or accessible to all."
+   ],
+   "plain_english": "Support of supports, maker of abodes, giver of all, and pervading all."
+  },
+  {
+   "verse": 3397,
+   "rows": [
+    {
+     "surface": "śākho",
+     "gloss": "branch",
+     "grounds": "name indicating a branch or division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśākho",
+     "gloss": "many-branched",
+     "grounds": "name indicating many branches",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "go+śākhaḥ",
+     "gloss": "cow-branch",
+     "grounds": "compound name whose precise sense is context-dependent",
+     "morph": "compound=go+śākha"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "auspicious",
+     "grounds": "name indicating benevolent auspiciousness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhiṣag+anuttamaḥ",
+     "gloss": "physician-unsurpassed",
+     "grounds": "compound name indicating the unsurpassed healer",
+     "morph": "compound=bhiṣaj+anuttama"
+    }
+   ],
+   "question": "Which names present the lord as branching, auspicious, and the unsurpassed healer?",
+   "premises": [
+    "The list includes branching and healing epithets.",
+    "He is called branch, many-branched, and cow-branch.",
+    "He is called auspicious and unsurpassed physician."
+   ],
+   "inference": "These names portray the lord as manifold, auspicious, and the supreme healer.",
+   "uncertainties": [
+    "go+śākhaḥ has an unclear specific reference in this context."
+   ],
+   "plain_english": "Branch, many-branched, cow-branch, auspicious, and the unsurpassed physician."
+  },
+  {
+   "verse": 3398,
+   "rows": [
+    {
+     "surface": "vijita+ātmā",
+     "gloss": "self-conquered",
+     "grounds": "compound name indicating mastery over oneself",
+     "morph": "compound=vijita+ātman"
+    },
+    {
+     "surface": "vidheya+ātmā",
+     "gloss": "restrained-self",
+     "grounds": "compound name indicating a disciplined or compliant self",
+     "morph": "compound=vidheya+ātman"
+    },
+    {
+     "surface": "bhūta+vāhana+sārathiḥ",
+     "gloss": "beings-vehicle-charioteer",
+     "grounds": "compound name indicating charioteer of the vehicle of beings",
+     "morph": "compound=bhūta+vāhana+sārathi"
+    }
+   ],
+   "question": "Which names depict the lord as self-mastered and guide of all beings?",
+   "premises": [
+    "The enumeration continues with self-related and cosmic roles.",
+    "He is described as self-conquered and restrained in self.",
+    "He is described as charioteer of the vehicle of beings."
+   ],
+   "inference": "These names present the lord as perfectly self-mastered and guiding all beings.",
+   "uncertainties": [
+    "bhūta+vāhana+sārathiḥ may be parsed as charioteer whose vehicle is beings or related to beings' vehicles."
+   ],
+   "plain_english": "Self-conquered, self-restrained, and the charioteer of the vehicle of beings."
+  },
+  {
+   "verse": 3399,
+   "rows": [
+    {
+     "surface": "kāma+devaḥ",
+     "gloss": "desire-god",
+     "grounds": "compound name identifying the god of desire",
+     "morph": "compound=kāma+deva"
+    },
+    {
+     "surface": "kāma+pālo",
+     "gloss": "desire-protector",
+     "grounds": "compound name indicating protector or guardian of desire",
+     "morph": "compound=kāma+pāla"
+    },
+    {
+     "surface": "bhasma+uddhūlita+vigrahaḥ",
+     "gloss": "ash-smeared-body",
+     "grounds": "compound describing a body dusted with ash",
+     "morph": "compound=bhasma+uddhūlita+vigraha"
+    }
+   ],
+   "question": "Which names relate the lord to desire while affirming his ash-smeared form?",
+   "premises": [
+    "The list includes names connected to desire.",
+    "He is called god of desire and protector of desire.",
+    "He is described as having a body smeared with ash."
+   ],
+   "inference": "These names present the lord as sovereign over desire while bearing an ash-smeared ascetic body.",
+   "uncertainties": [],
+   "plain_english": "God of desire, protector of desire, and one whose body is smeared with ash."
+  }
+ ]
+}

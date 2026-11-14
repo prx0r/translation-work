@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "ādyante",
+     "gloss": "at-beginning-and-end",
+     "grounds": "compound adverb indicating placement at both extremities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "whole",
+     "grounds": "modifies nāma in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object to be written",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker after the name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavam",
+     "gloss": "praṇava",
+     "grounds": "object written after the name",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "should-write",
+     "grounds": "optative verb governing both objects",
+     "morph": "3.sg.opt.act-likh"
+    }
+   ],
+   "question": "Where should the whole name and praṇava be written in the mantra construction?",
+   "premises": [
+    "Whole name occupies beginning and end.",
+    "Praṇava is written after that.",
+    "Mantra construction follows scripture path."
+   ],
+   "inference": "Thus the mantra is framed by the whole name with praṇava appended.",
+   "uncertainties": [
+    "ādyante parsing as locative dual or compound adverb remains unresolved."
+   ],
+   "plain_english": "At beginning and end [write] the whole name; then write praṇava."
+  }
+ ]
+}

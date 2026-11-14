@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "vaśyaṃ",
+     "gloss": "subjugation",
+     "grounds": "ritual aim; object of inscription",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "pūrve'hṇi",
+     "gloss": "in-forenoon",
+     "grounds": "time specification; fused locative form with internal sandhi",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "madhyāhne",
+     "gloss": "at-midday",
+     "grounds": "time specification for following ritual aims",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vidveṣa",
+     "gloss": "enmity",
+     "grounds": "ritual aim; object of inscription",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "eradication",
+     "grounds": "ritual aim; object of inscription",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-inscribe",
+     "grounds": "prescriptive injunction governing the timed acts",
+     "morph": "verb.3.sg.act-opt~√likh"
+    }
+   ],
+   "question": "At what times must subjugation, enmity, and eradication rites be inscribed?",
+   "premises": [
+    "Subjugation is prescribed for inscription in the forenoon.",
+    "Enmity and eradication are prescribed for inscription at midday.",
+    "The verse enjoins inscription as the operative ritual act."
+   ],
+   "inference": "Therefore, the proper time of inscription is determined by the specific ritual aim.",
+   "uncertainties": [
+    "Whether vidveṣa and uccāṭanaṃ are intended as two distinct acts or a closely paired operation is not explicitly specified."
+   ],
+   "plain_english": "One should inscribe subjugation in the forenoon, and inscribe enmity and eradication at midday."
+  }
+ ]
+}

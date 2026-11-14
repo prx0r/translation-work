@@ -1,0 +1,553 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 788,
+   "rows": [
+    {
+     "surface": "dugdhaiḥ",
+     "gloss": "by-milks",
+     "grounds": "instrumental offering substance",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "ārogyasaṃsiddhyai",
+     "gloss": "for-health-accomplishment",
+     "grounds": "dative purpose compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "by-three",
+     "grounds": "instrumental numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśvaryasiddhaye",
+     "gloss": "for-sovereignty-accomplishment",
+     "grounds": "dative purpose compound",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Which accomplishments are sought by offering milk and threefold worship to Maheśvarī?",
+   "premises": [
+    "milk offerings aim at health",
+    "threefold worship aims at sovereignty"
+   ],
+   "inference": "specific offerings are tied to specific ritual accomplishments",
+   "uncertainties": [
+    "exact threefold rite is not specified here"
+   ],
+   "plain_english": "Milk is offered for health, and threefold worship is offered for sovereignty."
+  },
+  {
+   "verse": 789,
+   "rows": [
+    {
+     "surface": "sarvārthasiddhaye",
+     "gloss": "for-all-object-accomplishment",
+     "grounds": "dative purpose compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "toyaiḥ",
+     "gloss": "by-waters",
+     "grounds": "instrumental offering substance",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "optative verb of consecration",
+     "morph": "3.sg.act.opt.+root"
+    },
+    {
+     "surface": "maheśvarīm",
+     "gloss": "maheśvarī",
+     "grounds": "accusative deity",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the purpose of sprinkling water upon Maheśvarī?",
+   "premises": [
+    "water sprinkling is prescribed",
+    "its purpose is all-object accomplishment"
+   ],
+   "inference": "water consecration brings comprehensive ritual success",
+   "uncertainties": [
+    "scope of all objects remains general"
+   ],
+   "plain_english": "One should sprinkle water on Maheśvarī for the accomplishment of all aims."
+  },
+  {
+   "verse": 790,
+   "rows": [
+    {
+     "surface": "nivasan",
+     "gloss": "dwelling",
+     "grounds": "participial state",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpuṣpaiḥ",
+     "gloss": "by-that-flowers",
+     "grounds": "instrumental offering flowers",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "present verb of arising",
+     "morph": "3.sg.mid.pres.+root"
+    },
+    {
+     "surface": "manmathaḥ",
+     "gloss": "love-god",
+     "grounds": "subject of arising",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aparaḥ",
+     "gloss": "another",
+     "grounds": "qualifier of love-god",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What arises for one dwelling there and worshipping with those flowers?",
+   "premises": [
+    "dwelling there with flower worship",
+    "another love-god is born"
+   ],
+   "inference": "the rite generates a further manmatha",
+   "uncertainties": [
+    "identity of the second love-god is not explained"
+   ],
+   "plain_english": "Dwelling there and worshipping with those flowers, another love-god is born."
+  },
+  {
+   "verse": 791,
+   "rows": [
+    {
+     "surface": "kṛtyāḥ",
+     "gloss": "magic-rites",
+     "grounds": "subject noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pareritāḥ",
+     "gloss": "sent-by-others",
+     "grounds": "participial qualifier",
+     "morph": "past.part."
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "subject noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vimukhāḥ",
+     "gloss": "averse",
+     "grounds": "predicate adjective",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "accusative object",
+     "morph": "pron.acc.pl"
+    },
+    {
+     "surface": "grasanti",
+     "gloss": "they-devour",
+     "grounds": "present verb",
+     "morph": "3.pl.act.pres.+root"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to hostile magic rites and mantras sent by others?",
+   "premises": [
+    "hostile rites and mantras are averse",
+    "they are devoured"
+   ],
+   "inference": "the worship neutralizes attacking magic",
+   "uncertainties": [
+    "agent of devouring is implicit"
+   ],
+   "plain_english": "Hostile magic rites and mantras sent by others become averse and are devoured."
+  },
+  {
+   "verse": 792,
+   "rows": [
+    {
+     "surface": "sarvanaivedyāni",
+     "gloss": "all-naivedya",
+     "grounds": "compound object",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "interpretive gloss",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does the preceding statement about offerings mean?",
+   "premises": [
+    "all naivedya offerings are included",
+    "the phrase gives the meaning"
+   ],
+   "inference": "the ritual scope covers every food offering",
+   "uncertainties": [
+    "exact list of naivedya is not given"
+   ],
+   "plain_english": "The meaning is that all naivedya offerings are included."
+  },
+  {
+   "verse": 793,
+   "rows": [
+    {
+     "surface": "nityapūjāmantraiḥ",
+     "gloss": "by-eternal-worship-mantras",
+     "grounds": "instrumental mantra means",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "tatkrameṇa",
+     "gloss": "by-that-order",
+     "grounds": "instrumental sequence",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative offering verb",
+     "morph": "3.sg.act.opt.+root"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental causal",
+     "morph": "pron.instr.sg"
+    },
+    {
+     "surface": "sarvopaplavaśāntiḥ",
+     "gloss": "all-calamities-pacification",
+     "grounds": "result compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present result verb",
+     "morph": "3.sg.act.pres.+root"
+    }
+   ],
+   "question": "What pacification results from giving offerings in the prescribed order with eternal worship mantras?",
+   "premises": [
+    "offerings follow the prescribed order",
+    "eternal worship mantras are used",
+    "all calamities are pacified"
+   ],
+   "inference": "ordered mantra worship removes every calamity",
+   "uncertainties": [
+    "the exact order is referenced but not listed"
+   ],
+   "plain_english": "By giving offerings in that order with eternal worship mantras, all calamities are pacified."
+  },
+  {
+   "verse": 794,
+   "rows": [
+    {
+     "surface": "tribhiḥ",
+     "gloss": "by-three",
+     "grounds": "instrumental numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaiḥ",
+     "gloss": "by-spoken",
+     "grounds": "instrumental qualifier",
+     "morph": "past.part."
+    },
+    {
+     "surface": "prītyai",
+     "gloss": "for-pleasure",
+     "grounds": "dative purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "svanirvṛttaye",
+     "gloss": "for-self-satisfaction",
+     "grounds": "dative purpose compound",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "For what purposes are the three spoken rites performed?",
+   "premises": [
+    "three spoken rites are used",
+    "they are for pleasure",
+    "they are for self-satisfaction"
+   ],
+   "inference": "the spoken rites serve pleasure and self-satisfaction",
+   "uncertainties": [
+    "which three rites are meant is not specified"
+   ],
+   "plain_english": "The three spoken rites are for pleasure and self-satisfaction."
+  },
+  {
+   "verse": 795,
+   "rows": [
+    {
+     "surface": "pūjayan",
+     "gloss": "worshipping",
+     "grounds": "participial action",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "iṣṭam",
+     "gloss": "desired",
+     "grounds": "object qualifier",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "akhilam",
+     "gloss": "all",
+     "grounds": "object qualifier",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "he-obtains",
+     "grounds": "present result verb",
+     "morph": "3.sg.mid.pres.+root"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paratra",
+     "gloss": "and-beyond",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does one obtain by worshipping all desired things?",
+   "premises": [
+    "worship covers all desired things",
+    "results occur here and beyond"
+   ],
+   "inference": "complete worship yields benefits in this life and beyond",
+   "uncertainties": [
+    "the exact desired objects are unspecified"
+   ],
+   "plain_english": "By worshipping all desired things, one obtains them here and beyond."
+  },
+  {
+   "verse": 796,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative worship verb",
+     "morph": "3.sg.act.opt.+root"
+    },
+    {
+     "surface": "māsamātreṇa",
+     "gloss": "by-a-month-measure",
+     "grounds": "instrumental time measure",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "prāgjanmāghaiḥ",
+     "gloss": "from-previous-birth-sins",
+     "grounds": "ablative source",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "vimucyate",
+     "gloss": "is-freed",
+     "grounds": "present passive result",
+     "morph": "3.sg.pass.pres.+root"
+    }
+   ],
+   "question": "What happens when one worships for a month?",
+   "premises": [
+    "worship lasts one month",
+    "freedom is from previous-birth sins"
+   ],
+   "inference": "a month of worship frees from prior sins",
+   "uncertainties": [
+    "the deity worshipped is implicit from context"
+   ],
+   "plain_english": "By worshipping for a month, one is freed from sins of previous births."
+  },
+  {
+   "verse": 797,
+   "rows": [
+    {
+     "surface": "vimuktaḥ",
+     "gloss": "freed",
+     "grounds": "participial state",
+     "morph": "past.part."
+    },
+    {
+     "surface": "sarvapāpaughaiḥ",
+     "gloss": "from-all-sin-heaps",
+     "grounds": "ablative source",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "tām",
+     "gloss": "her",
+     "grounds": "accusative object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "he-sees",
+     "grounds": "present perception verb",
+     "morph": "3.sg.act.pres.+root"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakṣuṣā",
+     "gloss": "by-eye",
+     "grounds": "instrumental means",
+     "morph": "n.instr.sg"
+    }
+   ],
+   "question": "What does one who is freed from all heaps of sin see?",
+   "premises": [
+    "freedom from all sin heaps",
+    "she is seen by eye"
+   ],
+   "inference": "purification enables direct visionary perception",
+   "uncertainties": [
+    "identity of 'her' depends on context"
+   ],
+   "plain_english": "Freed from all heaps of sin, one sees her with the eye."
+  },
+  {
+   "verse": 798,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "he-is-freed",
+     "grounds": "present passive result",
+     "morph": "3.sg.pass.pres.+root"
+    },
+    {
+     "surface": "pāpakṛtyādi",
+     "gloss": "from-sinful-acts-etc",
+     "grounds": "ablative source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "duḥkhaiḥ",
+     "gloss": "sorrows",
+     "grounds": "ablative source",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "ghorataraiḥ",
+     "gloss": "very-terrible",
+     "grounds": "qualifier of sorrows",
+     "morph": "adj.abl.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what is one freed, including terrible sorrows?",
+   "premises": [
+    "freedom from sinful acts and so on",
+    "freedom from very terrible sorrows"
+   ],
+   "inference": "the rite removes both sin and severe suffering",
+   "uncertainties": [
+    "the exact scope of 'etc.' is unspecified"
+   ],
+   "plain_english": "One is freed from sinful acts and even very terrible sorrows."
+  },
+  {
+   "verse": 799,
+   "rows": [
+    {
+     "surface": "bhāvayan",
+     "gloss": "contemplating",
+     "grounds": "participial action",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "viṣayaiḥ",
+     "gloss": "by-objects",
+     "grounds": "instrumental means",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "by-flowers",
+     "grounds": "instrumental offering",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "pūjayan",
+     "gloss": "worshipping",
+     "grounds": "participial action",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "tanmayaḥ",
+     "gloss": "by-her-filled",
+     "grounds": "resultative state",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "he-becomes",
+     "grounds": "optative result verb",
+     "morph": "3.sg.act.opt.+root"
+    }
+   ],
+   "question": "What state results from contemplating, offering flowers, and worshipping?",
+   "premises": [
+    "contemplation and flower worship are performed",
+    "one becomes filled with her"
+   ],
+   "inference": "sustained worship transforms the devotee into her-filled state",
+   "uncertainties": [
+    "the exact contemplative object is implicit"
+   ],
+   "plain_english": "Contemplating, offering flowers, and worshipping, one becomes filled with her."
+  }
+ ]
+}

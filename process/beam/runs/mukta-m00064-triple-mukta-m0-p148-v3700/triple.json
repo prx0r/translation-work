@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "of-the-god",
+     "grounds": "genitive dependent indicating the domain of the god",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "aiśānya+bhāge",
+     "gloss": "in-northeast-part",
+     "grounds": "locative compound indicating direction and portion; internal compound boundary at +",
+     "morph": "m.loc.sg (compound: aiśānya+bhāga)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "situated",
+     "grounds": "past participle describing the goddess's location",
+     "morph": "f.nom.sg (ppp, sam-sthā)"
+    },
+    {
+     "surface": "parameśvarī",
+     "gloss": "supreme-goddess",
+     "grounds": "subject, epithet of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "In which part of the god's domain is the supreme goddess situated?",
+   "premises": [
+    "The domain belongs to the god.",
+    "A northeast part of that domain is specified.",
+    "The supreme goddess is situated there."
+   ],
+   "inference": "The supreme goddess is located in the northeast part of the god's domain.",
+   "uncertainties": [
+    "The identity of devasya as a specific deity or a general referent is not explicit in this verse alone."
+   ],
+   "plain_english": "But the supreme goddess is situated in the northeast part of the god's domain."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p411",
+ "items": [
+  {
+   "verse": 10275,
+   "rows": [
+    {
+     "surface": "bhagavān",
+     "gloss": "blessed-lord",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ramānātho",
+     "gloss": "lord-of-ramā",
+     "grounds": "compound: ramā+nātha; identifies the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "mantric seed component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃ",
+     "gloss": "maṃ",
+     "grounds": "mantric syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīlakam",
+     "gloss": "peg",
+     "grounds": "mantric peg component",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which deity and syllables function as the seed and peg of this twelve-syllable mantra?",
+   "premises": [
+    "The blessed lord of Ramā is identified as the seed.",
+    "The syllables śrīṃ and maṃ are identified as the peg.",
+    "These assignments specify components of the stated twelve-syllable mantra."
+   ],
+   "inference": "The mantra's seed is the lord of Ramā, and its peg consists of śrīṃ and maṃ.",
+   "uncertainties": [],
+   "plain_english": "The blessed lord, the lord of Ramā, is the seed, and śrīṃ and maṃ are the peg."
+  }
+ ]
+}

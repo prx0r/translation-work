@@ -1,0 +1,38 @@
+{
+ "song": "sva-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaputrakādiviṣaye",
+     "gloss": "adept-son-etc-subject",
+     "grounds": "compound locative singular masculine",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where does the praṇava apply in this context?",
+   "premises": [
+    "Praṇava applies everywhere.",
+    "Subject includes adept and son."
+   ],
+   "inference": "Thus praṇava is universal across subjects.",
+   "uncertainties": [
+    "Exact scope of etc. unclear."
+   ],
+   "plain_english": "Thus, everywhere, in the subject of the adept, son, and so on."
+  }
+ ]
+}

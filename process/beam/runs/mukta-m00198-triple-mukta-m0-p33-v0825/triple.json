@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "rudrāṃśe",
+     "gloss": "in-rudra-part",
+     "grounds": "locative of compound rudra-aṃśa indicating the Rudra division",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "sadanotsedhe",
+     "gloss": "in-house-height",
+     "grounds": "locative of compound sadana-utsedha indicating the building height",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "talam",
+     "gloss": "floor",
+     "grounds": "subject or measure referent for the floor or base level",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśamānataḥ",
+     "gloss": "of-one-part-measure",
+     "grounds": "compound expressing measurement by one part",
+     "morph": "compound.(indecl.)"
+    }
+   ],
+   "question": "What floor measure is prescribed when the building height falls in the Rudra division?",
+   "premises": [
+    "The building height can fall in the Rudra division.",
+    "The floor level requires a specified proportional measure.",
+    "A one-part measure is assigned in this condition."
+   ],
+   "inference": "When the house height is in the Rudra division, the floor is measured as one part.",
+   "uncertainties": [
+    "The exact architectural referent of talam as floor, base, or story level is context-dependent."
+   ],
+   "plain_english": "When the height of the house falls in the Rudra division, the floor is to measure one part."
+  }
+ ]
+}

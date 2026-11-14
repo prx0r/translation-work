@@ -1,0 +1,1417 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2376,
+   "rows": [
+    {
+     "surface": "nāraṅga",
+     "gloss": "orange-trees",
+     "grounds": "tree name in list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nārikelau",
+     "gloss": "coconut-trees",
+     "grounds": "tree name in list",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "panasāḥ",
+     "gloss": "jackfruit-trees",
+     "grounds": "tree name in list",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefixal element indicating accompaniment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "campakāḥ",
+     "gloss": "champaka-trees",
+     "grounds": "tree name in list",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which auspicious trees are included among those to be planted in this context?",
+   "premises": [
+    "Orange and coconut trees are named.",
+    "Jackfruit trees are named.",
+    "Champaka trees are included with them."
+   ],
+   "inference": "Orange, coconut, jackfruit, and champaka trees form part of the prescribed planting.",
+   "uncertainties": [],
+   "plain_english": "Orange trees, coconut trees, jackfruit trees, and champaka trees are included."
+  },
+  {
+   "verse": 2377,
+   "rows": [
+    {
+     "surface": "sarala",
+     "gloss": "pine-trees",
+     "grounds": "tree name in compound list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nandikāvarta",
+     "gloss": "nandikavarta-trees",
+     "grounds": "tree name in compound list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāla",
+     "gloss": "palmyra-trees",
+     "grounds": "tree name in compound list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agastya",
+     "gloss": "agastya-trees",
+     "grounds": "tree name in compound list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "timuktakāḥ",
+     "gloss": "timuktaka-trees",
+     "grounds": "final tree name in list",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which additional tree varieties continue the list of suitable plantings?",
+   "premises": [
+    "Pine and nandikavarta trees are named.",
+    "Palmyra and agastya trees are named.",
+    "Timuktaka trees complete this group."
+   ],
+   "inference": "Pine, nandikavarta, palmyra, agastya, and timuktaka trees are also prescribed.",
+   "uncertainties": [],
+   "plain_english": "Pine trees, nandikavarta trees, palmyra trees, agastya trees, and timuktaka trees are included."
+  },
+  {
+   "verse": 2378,
+   "rows": [
+    {
+     "surface": "ebhiḥ",
+     "gloss": "by-these",
+     "grounds": "refers to previously listed trees",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "antaritāḥ",
+     "gloss": "interspersed",
+     "grounds": "placed among others",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "krūrāḥ",
+     "gloss": "fierce",
+     "grounds": "describes harsh trees",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhūruhāḥ",
+     "gloss": "trees",
+     "grounds": "plants growing from earth",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative expression of result",
+     "morph": "3.pl.opt-act √as"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "happiness",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradāḥ",
+     "gloss": "giving",
+     "grounds": "bestowing the stated quality",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What effect do the previously listed trees have when interspersed with fierce trees?",
+   "premises": [
+    "Fierce trees may be interspersed with these trees.",
+    "The interspersion changes their effect.",
+    "The result is that they become givers of happiness."
+   ],
+   "inference": "Interspersing fierce trees with these makes them conducive to happiness.",
+   "uncertainties": [],
+   "plain_english": "When fierce trees are interspersed with these, they may become givers of happiness."
+  },
+  {
+   "verse": 2379,
+   "rows": [
+    {
+     "surface": "śivasya",
+     "gloss": "of-shiva",
+     "grounds": "refers to the deity Shiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "niyamaḥ",
+     "gloss": "restriction",
+     "grounds": "fixed rule or limitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres-act √as"
+    },
+    {
+     "surface": "prāsāda",
+     "gloss": "temple",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "making",
+     "grounds": "act of constructing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "regarding",
+     "grounds": "marks the object of restriction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is there any restriction on where a temple for Shiva may be constructed?",
+   "premises": [
+    "The statement concerns making a temple for Shiva.",
+    "It explicitly denies a restriction.",
+    "No limiting condition is stated."
+   ],
+   "inference": "There is no restriction regarding the construction of a temple for Shiva.",
+   "uncertainties": [],
+   "plain_english": "There is no restriction with regard to making a temple for Shiva."
+  },
+  {
+   "verse": 2380,
+   "rows": [
+    {
+     "surface": "mumukṣoḥ",
+     "gloss": "of-one-seeking-liberation",
+     "grounds": "desiderative agent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "indefinite place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśaḥ",
+     "gloss": "the-lord",
+     "grounds": "refers to Shiva as lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "may-give",
+     "grounds": "optative granting",
+     "morph": "3.sg.opt-act √dā"
+    },
+    {
+     "surface": "muktiṃ",
+     "gloss": "liberation",
+     "grounds": "spiritual release",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "helayā",
+     "gloss": "easily",
+     "grounds": "without difficulty",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Can the Lord grant liberation to a seeker regardless of the place of worship?",
+   "premises": [
+    "The seeker desires liberation.",
+    "The place is stated as wherever it may be.",
+    "The Lord may grant liberation easily there."
+   ],
+   "inference": "The Lord can grant liberation easily to a seeker in any place.",
+   "uncertainties": [],
+   "plain_english": "Wherever it may be, the Lord may easily grant liberation to one who desires liberation."
+  },
+  {
+   "verse": 2381,
+   "rows": [
+    {
+     "surface": "pātāla",
+     "gloss": "netherworld",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "khecarī",
+     "gloss": "sky-moving",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "attainment",
+     "grounds": "supernatural accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāhaḥ",
+     "gloss": "burning",
+     "grounds": "destruction by burning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntayaḥ",
+     "gloss": "pacifications",
+     "grounds": "ritual appeasements",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What specific powers or ritual outcomes are associated with this practice?",
+   "premises": [
+    "Netherworld and sky-moving attainments are mentioned.",
+    "Burning of enemies is mentioned.",
+    "Pacifications are also mentioned."
+   ],
+   "inference": "The practice is associated with such attainments, enemy-burning, and pacifications.",
+   "uncertainties": [
+    "Context of how these results are obtained is not explicit in this verse."
+   ],
+   "plain_english": "Attainment of the netherworld and sky-moving powers, the burning of enemies, and pacifications are mentioned."
+  },
+  {
+   "verse": 2382,
+   "rows": [
+    {
+     "surface": "grāma",
+     "gloss": "village",
+     "grounds": "first member of compound series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates similar items",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśa",
+     "gloss": "isha-direction",
+     "grounds": "directional deity name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "indra",
+     "gloss": "indra-direction",
+     "grounds": "directional deity name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire-direction",
+     "grounds": "directional deity name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthāḥ",
+     "gloss": "situated",
+     "grounds": "located in those directions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paścimāḥ",
+     "gloss": "western",
+     "grounds": "facing or placed westward",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "āsyāḥ",
+     "gloss": "facing",
+     "grounds": "having orientation",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "surāḥ",
+     "gloss": "gods",
+     "grounds": "deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "favorable",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which directional placements and orientations of deities are considered auspicious for villages and similar sites?",
+   "premises": [
+    "Deities associated with Isha, Indra, and Fire directions are mentioned.",
+    "They are described as facing west.",
+    "These deities are declared auspicious."
+   ],
+   "inference": "For villages and similar sites, such west-facing deities in those directions are auspicious.",
+   "uncertainties": [
+    "Exact syntactic relation of grāma-ādi to the rest is compressed."
+   ],
+   "plain_english": "For villages and so forth, the gods situated in the directions of Isha, Indra, and Fire, facing west, are auspicious."
+  },
+  {
+   "verse": 2383,
+   "rows": [
+    {
+     "surface": "adhikaṃ",
+     "gloss": "greater",
+     "grounds": "exceeding measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "same measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hinaṃ",
+     "gloss": "less",
+     "grounds": "deficient measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvāyām",
+     "gloss": "in-east",
+     "grounds": "eastern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates related directions or cases",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bādhakam",
+     "gloss": "obstructive",
+     "grounds": "causing hindrance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements in the eastern direction and related cases are considered obstructive?",
+   "premises": [
+    "Greater, equal, or lesser measures are listed.",
+    "The eastern direction and similar cases are specified.",
+    "Such measures are described as obstructive."
+   ],
+   "inference": "In the east and similar cases, greater, equal, or lesser measures are obstructive.",
+   "uncertainties": [
+    "The precise object being measured is not stated in this verse."
+   ],
+   "plain_english": "In the east and so forth, whether greater, equal, or less, it is obstructive."
+  },
+  {
+   "verse": 2384,
+   "rows": [
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "refers to two sides or measures",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "dviguṇa",
+     "gloss": "double",
+     "grounds": "twice the measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ucchrāyā",
+     "gloss": "height",
+     "grounds": "vertical elevation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt-act √kṛ"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "excluding a space",
+     "morph": "(gerund) √tyaj"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "forward area",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣitau",
+     "gloss": "on-ground",
+     "grounds": "on the earth",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What height should be made in relation to both measures while leaving space in front?",
+   "premises": [
+    "A height double that of both is prescribed.",
+    "Space in front on the ground must be left.",
+    "The action is given as a rule."
+   ],
+   "inference": "One should make the height double that of both, leaving space in front on the ground.",
+   "uncertainties": [
+    "The exact referents of 'both' are not specified in this verse."
+   ],
+   "plain_english": "One should make the height double that of both, leaving space in front on the ground."
+  },
+  {
+   "verse": 2385,
+   "rows": [
+    {
+     "surface": "bhinna",
+     "gloss": "split",
+     "grounds": "divided condition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "central point or navel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "refers to current rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "defect or flaw",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhinna",
+     "gloss": "unsplit",
+     "grounds": "undivided condition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nābhike",
+     "gloss": "in-navel",
+     "grounds": "central point or navel",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Does this rule apply differently when the navel point is split or unsplit?",
+   "premises": [
+    "This rule applies in the case of a split navel.",
+    "In the case of an unsplit navel there is no fault.",
+    "The verse contrasts the two conditions."
+   ],
+   "inference": "The rule applies to a split navel, but an unsplit navel is not a fault.",
+   "uncertainties": [
+    "The technical meaning of navel in this ritual context may be specific."
+   ],
+   "plain_english": "This rule applies in the case of a split navel; in the case of an unsplit navel there is no fault."
+  },
+  {
+   "verse": 2386,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāṇa",
+     "gloss": "bana",
+     "grounds": "name in doctrinal source",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "matāt",
+     "gloss": "from-doctrine",
+     "grounds": "from that teaching",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "after understanding",
+     "morph": "(gerund) √jñā"
+    },
+    {
+     "surface": "hari",
+     "gloss": "vishnu",
+     "grounds": "deity name in list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "deity name in list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-others",
+     "grounds": "indicates additional deities",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ropayet",
+     "gloss": "one-should-install",
+     "grounds": "prescriptive installation",
+     "morph": "3.sg.opt-caus √ruh"
+    }
+   ],
+   "question": "How should one proceed with installing Vishnu, the Sun, and others according to Bana's doctrine?",
+   "premises": [
+    "The instruction is to be understood from Bana's doctrine.",
+    "Vishnu, the Sun, and others are the objects of installation.",
+    "The action prescribed is installation."
+   ],
+   "inference": "Having understood Bana's doctrine, one should install Vishnu, the Sun, and others accordingly.",
+   "uncertainties": [],
+   "plain_english": "Thus, having understood from the doctrine of Bana, one should install Vishnu, the Sun, and others."
+  },
+  {
+   "verse": 2387,
+   "rows": [
+    {
+     "surface": "svayambhūte",
+     "gloss": "in-self-manifested",
+     "grounds": "self-arisen sacred object or site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sahasra",
+     "gloss": "thousand",
+     "grounds": "numerical quantity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numerical quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahadbhiḥ",
+     "gloss": "by-great-ones",
+     "grounds": "by eminent persons or beings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śata",
+     "gloss": "hundred",
+     "grounds": "numerical quantity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pañcakam",
+     "gloss": "five",
+     "grounds": "group of five",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What numerical distinctions are made for self-manifested and great-established cases?",
+   "premises": [
+    "A self-manifested case is associated with one thousand and one.",
+    "Great ones are associated with five hundred.",
+    "The verse presents contrasting quantities."
+   ],
+   "inference": "The self-manifested case involves one thousand and one, while that of the great ones involves five hundred.",
+   "uncertainties": [
+    "The units being counted are not explicitly named in this verse."
+   ],
+   "plain_english": "In the self-manifested case there are one thousand and one; by the great ones, five hundred."
+  },
+  {
+   "verse": 2388,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utpannaṃ",
+     "gloss": "produced",
+     "grounds": "arisen or generated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "offered-remains",
+     "grounds": "remains of worship offerings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛte",
+     "gloss": "in-dead",
+     "grounds": "when deceased",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jantau",
+     "gloss": "creature",
+     "grounds": "living being",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vimocanam",
+     "gloss": "liberation",
+     "grounds": "release",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What effect does offered-remains produced there have for a deceased creature?",
+   "premises": [
+    "Offered-remains are produced in that context.",
+    "The case concerns a dead creature.",
+    "The remains are said to bring liberation."
+   ],
+   "inference": "The offered-remains produced there bring liberation to a deceased creature.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the offered-remains produced there bring liberation to a dead creature."
+  },
+  {
+   "verse": 2389,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "after entering",
+     "morph": "(gerund) pra-√viś"
+    },
+    {
+     "surface": "bhūmiṃ",
+     "gloss": "ground",
+     "grounds": "the site or earth",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "specific ground",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "knowledgeable ritual actor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udak",
+     "gloss": "north",
+     "grounds": "directional element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśāna",
+     "gloss": "northeast",
+     "grounds": "directional deity region",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gocare",
+     "gloss": "in-region",
+     "grounds": "within that area",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the wise ritual actor go after entering the designated ground?",
+   "premises": [
+    "The wise one enters that ground.",
+    "A specific directional region is named.",
+    "The region is the north-northeast area."
+   ],
+   "inference": "After entering that ground, the wise one should proceed to the north-northeast region.",
+   "uncertainties": [],
+   "plain_english": "Having entered that ground, the wise one should go to the region of the north and northeast."
+  },
+  {
+   "verse": 2390,
+   "rows": [
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kambu",
+     "gloss": "water",
+     "grounds": "liquid element in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phalaiḥ",
+     "gloss": "with-fruits",
+     "grounds": "accompanied by fruits",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "endowed",
+     "grounds": "provided with",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandalwood",
+     "grounds": "fragrant substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandalwood",
+     "grounds": "repeated fragrant substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "su",
+     "gloss": "well",
+     "grounds": "intensifying prefix",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "carcitam",
+     "gloss": "smeared",
+     "grounds": "anointed or coated",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What substances and preparations should characterize the object placed in that region?",
+   "premises": [
+    "The object is endowed with grain, water, and fruits.",
+    "It is well smeared with sandalwood.",
+    "These qualities describe its preparation."
+   ],
+   "inference": "The object should be endowed with grain, water, and fruits and well smeared with sandalwood.",
+   "uncertainties": [
+    "The repeated 'candana' may be emphatic or textual; taken as sandalwood."
+   ],
+   "plain_english": "It should be endowed with grain, water, and fruits, and well smeared with sandalwood."
+  },
+  {
+   "verse": 2391,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.opt-act ni-√as"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭaṃ",
+     "gloss": "jar",
+     "grounds": "ritual vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "sacred or excellent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tūrya",
+     "gloss": "musical-instruments",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maṅgala",
+     "gloss": "auspicious",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nisvanaiḥ",
+     "gloss": "with-sounds",
+     "grounds": "accompanied by sounds",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What ritual object should be placed there and with what accompanying sounds?",
+   "premises": [
+    "A divine jar is to be placed there.",
+    "The placement is accompanied by sounds.",
+    "The sounds come from musical instruments and auspicious noises."
+   ],
+   "inference": "One should place a divine jar there amid the sounds of musical instruments and auspicious tones.",
+   "uncertainties": [],
+   "plain_english": "One should place a divine jar there, accompanied by the sounds of musical instruments and auspicious noises."
+  },
+  {
+   "verse": 2392,
+   "rows": [
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "tool to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "muṣṭilāṃ",
+     "gloss": "hammer",
+     "grounds": "tool to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "cord",
+     "grounds": "measuring or binding cord",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kīlakān",
+     "gloss": "pegs",
+     "grounds": "wooden pegs",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to prior location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "to-north",
+     "grounds": "northern side",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which tools and implements should be placed to the north of that location?",
+   "premises": [
+    "An axe, hammer, and cord are listed.",
+    "Pegs are also listed.",
+    "Their placement is to the north of that."
+   ],
+   "inference": "An axe, hammer, cord, and pegs should be placed to the north of that location.",
+   "uncertainties": [],
+   "plain_english": "An axe, a hammer, a cord, and pegs should be placed to the north of that."
+  },
+  {
+   "verse": 2393,
+   "rows": [
+    {
+     "surface": "punnāga",
+     "gloss": "punnaga",
+     "grounds": "tree name in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śasta",
+     "gloss": "approved",
+     "grounds": "commended or suitable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛkṣa",
+     "gloss": "tree",
+     "grounds": "source tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "utthāḥ",
+     "gloss": "arising-from",
+     "grounds": "originating from",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kīlakāḥ",
+     "gloss": "pegs",
+     "grounds": "ritual pegs",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "single kind",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jātayaḥ",
+     "gloss": "kind",
+     "grounds": "of one origin or type",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "From what kind of approved trees should the ritual pegs be made?",
+   "premises": [
+    "The pegs should arise from approved trees such as punnaga.",
+    "They should be of one kind.",
+    "Uniform origin is prescribed."
+   ],
+   "inference": "The pegs should be made from one kind of approved tree such as punnaga.",
+   "uncertainties": [],
+   "plain_english": "The pegs should be of one kind, arising from approved trees such as the punnaga."
+  },
+  {
+   "verse": 2394,
+   "rows": [
+    {
+     "surface": "śaṅkuṃ",
+     "gloss": "stake",
+     "grounds": "pointed marker",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "one-should-fix",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.opt-caus ni-√viś"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "in that place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "āja",
+     "gloss": "goat",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gatyāḥ",
+     "gloss": "of-motion",
+     "grounds": "manner of movement",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "according to order",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the stake be fixed in that place according to the prescribed motion?",
+   "premises": [
+    "A stake is to be fixed in that place.",
+    "The fixing follows a sequence.",
+    "The sequence is likened to the motion of a goat."
+   ],
+   "inference": "One should fix the stake there in sequence according to the motion of a goat.",
+   "uncertainties": [
+    "The exact technical sense of 'goat's motion' is not explained here."
+   ],
+   "plain_english": "One should fix the stake in that place in due sequence, according to the motion of a goat."
+  },
+  {
+   "verse": 2395,
+   "rows": [
+    {
+     "surface": "su",
+     "gloss": "fine",
+     "grounds": "intensifying prefix",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vastraiḥ",
+     "gloss": "with-clothes",
+     "grounds": "garments",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "veṣṭitāḥ",
+     "gloss": "wrapped",
+     "grounds": "covered around",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "every one of them",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "su",
+     "gloss": "good",
+     "grounds": "intensifying prefix",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhūpena",
+     "gloss": "with-incense",
+     "grounds": "fragrant smoke",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpitāḥ",
+     "gloss": "fumigated",
+     "grounds": "treated with incense smoke",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How should all the ritual items be prepared with cloth and incense?",
+   "premises": [
+    "All items are to be wrapped in fine cloths.",
+    "All items are to be fumigated.",
+    "Good incense is used for fumigation."
+   ],
+   "inference": "All the items should be wrapped in fine cloths and fumigated with good incense.",
+   "uncertainties": [],
+   "plain_english": "All should be wrapped in fine cloths and fumigated with good incense."
+  },
+  {
+   "verse": 2396,
+   "rows": [
+    {
+     "surface": "adhaḥ",
+     "gloss": "downward",
+     "grounds": "lower direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "base part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "upward",
+     "grounds": "upper direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ga",
+     "gloss": "going",
+     "grounds": "directed toward",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agrāḥ",
+     "gloss": "tips",
+     "grounds": "pointed ends",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛju",
+     "gloss": "straight",
+     "grounds": "not crooked",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpāḥ",
+     "gloss": "formed",
+     "grounds": "having shape",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "su",
+     "gloss": "very",
+     "grounds": "intensifying prefix",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śobhanāḥ",
+     "gloss": "beautiful",
+     "grounds": "pleasing in appearance",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What physical characteristics must the pegs or stakes possess for proper use?",
+   "premises": [
+    "Their roots should be downward and tips upward.",
+    "They should be straight in form.",
+    "They should be very beautiful."
+   ],
+   "inference": "The items must have roots below, tips above, be straight, and very beautiful.",
+   "uncertainties": [],
+   "plain_english": "With roots below and tips above, they should be straight in form and very beautiful."
+  },
+  {
+   "verse": 2397,
+   "rows": [
+    {
+     "surface": "dakṣiṇena",
+     "gloss": "with-right",
+     "grounds": "right side",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samutthāpya",
+     "gloss": "having-lifted",
+     "grounds": "after raising up",
+     "morph": "(gerund) sam-ud-√sthā-caus"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "left side",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hastena",
+     "gloss": "with-hand",
+     "grounds": "by means of hand",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "muṣṭinā",
+     "gloss": "with-fist",
+     "grounds": "using a clenched hand",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How should the ritual actor lift and hold the implement using the hands?",
+   "premises": [
+    "The implement is lifted with the right hand.",
+    "The left hand is involved.",
+    "The left hand forms a fist."
+   ],
+   "inference": "One should lift it with the right hand while using the left hand as a fist.",
+   "uncertainties": [
+    "The exact object being lifted is carried over from context."
+   ],
+   "plain_english": "Having lifted it with the right hand, one should use the left hand as a fist."
+  },
+  {
+   "verse": 2398,
+   "rows": [
+    {
+     "surface": "tāḍayan",
+     "gloss": "striking",
+     "grounds": "hitting repeatedly",
+     "morph": "m.nom.sg.pres-part-act √taḍ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "recite softly",
+     "morph": "3.sg.opt-act √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāk",
+     "gloss": "eastward",
+     "grounds": "toward the east",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimittāni",
+     "gloss": "omens",
+     "grounds": "signs or portents",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "lakṣayet",
+     "gloss": "one-should-observe",
+     "grounds": "watch carefully",
+     "morph": "3.sg.opt-act √lakṣ"
+    }
+   ],
+   "question": "What actions must accompany striking while observing omens in the eastern direction?",
+   "premises": [
+    "Striking is performed.",
+    "A mantra is to be muttered.",
+    "Omens to the east are to be observed."
+   ],
+   "inference": "While striking, one should mutter the mantra and observe the omens to the east.",
+   "uncertainties": [],
+   "plain_english": "While striking, one should mutter the mantra and observe the omens to the east."
+  },
+  {
+   "verse": 2399,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "in this particular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "house",
+     "grounds": "dwelling or structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhantu",
+     "gloss": "may-dwell",
+     "grounds": "imperative wish to remain",
+     "morph": "3.pl.imp-act √sthā"
+    },
+    {
+     "surface": "āyuḥ",
+     "gloss": "life",
+     "grounds": "longevity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bala",
+     "gloss": "strength",
+     "grounds": "power",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karāḥ",
+     "gloss": "making",
+     "grounds": "producing those qualities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What beneficial powers are invoked to dwell always in this house?",
+   "premises": [
+    "The invocation concerns this house.",
+    "Entities that produce life and strength are addressed.",
+    "They are asked to dwell there always."
+   ],
+   "inference": "Powers that grant life and strength are invoked to dwell always in this house.",
+   "uncertainties": [
+    "The specific beings addressed are implied rather than named."
+   ],
+   "plain_english": "May those who grant life and strength always dwell in this house."
+  }
+ ]
+}

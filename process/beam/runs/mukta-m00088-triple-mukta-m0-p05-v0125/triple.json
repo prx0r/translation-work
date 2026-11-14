@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "vahnijāyānvito",
+     "gloss": "fire-consort-joined",
+     "grounds": "fire-consort-joined; sandhi final o before mantro",
+     "morph": "compound = vahnijāyā + anvita"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "mantra; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūlānte",
+     "gloss": "at-root-end",
+     "grounds": "root-end; locative singular",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "samudāhṛtaḥ",
+     "gloss": "uttered",
+     "grounds": "uttered; passive past participle agreeing with mantra",
+     "morph": "m.nom.sg.pass.past.part"
+    }
+   ],
+   "question": "What happens to the mantra at the root-end after meditation on the root-vidyā?",
+   "premises": [
+    "mantra is joined with fire-consort",
+    "mantra is uttered at root-end",
+    "meditation on root-vidyā precedes disclosure"
+   ],
+   "inference": "The mantra joined with fire's consort is uttered at the root-end following meditation on the root-vidyā.",
+   "uncertainties": [
+    "exact sandhi resolution of vahnijāyānvito is not expanded"
+   ],
+   "plain_english": "The mantra, joined with the fire's consort, is uttered at the root-end."
+  }
+ ]
+}

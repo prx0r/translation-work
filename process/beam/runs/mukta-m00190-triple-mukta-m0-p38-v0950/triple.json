@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "caruṃ",
+     "gloss": "oblation",
+     "grounds": "ritual rice offering to be prepared",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pacet",
+     "gloss": "one-should-cook",
+     "grounds": "prescribes cooking the oblation",
+     "morph": "3.sg.opt.act √pac"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribes recitation in the ritual",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred formula to be recited; kept as ritual term",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avatārya",
+     "gloss": "having-invoked",
+     "grounds": "bringing down or invoking the mantra prior to recitation",
+     "morph": "gerund √avatṛ"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition of the invocation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-practitioner",
+     "grounds": "intelligent ritual agent performing the actions",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual actions must the wise practitioner perform with the prepared oblation and mantra?",
+   "premises": [
+    "The prepared offering is to be cooked as an oblation.",
+    "The mantra must be invoked before recitation.",
+    "The wise practitioner must recite the mantra again."
+   ],
+   "inference": "The wise practitioner should cook the oblation and, having invoked the mantra again, recite it.",
+   "uncertainties": [],
+   "plain_english": "The wise practitioner should cook the oblation, and having invoked the mantra again, should recite it."
+  }
+ ]
+}

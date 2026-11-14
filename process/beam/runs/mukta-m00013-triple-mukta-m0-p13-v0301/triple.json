@@ -1,0 +1,1053 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "guhya",
+     "gloss": "secret",
+     "grounds": "formula word naming secrecy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atiguhya",
+     "gloss": "most-secret",
+     "grounds": "intensified formula word",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "goptrītvam",
+     "gloss": "protectorship",
+     "grounds": "abstract quality invoked in formula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādinā",
+     "gloss": "and-so-on",
+     "grounds": "indicates similar formula words",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "ritual offering object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √ṛ+sam"
+    }
+   ],
+   "question": "What formulaic words accompany the ritual offering of recitation?",
+   "premises": [
+    "The words guhya, atiguhya, and goptrītvam are named.",
+    "The particle iti marks them as a formula.",
+    "The term ādinā extends the formula to similar words.",
+    "The recitation is to be offered with this formula."
+   ],
+   "inference": "Recitation is offered while uttering the formula beginning with secret, most-secret, and protectorship.",
+   "uncertainties": [],
+   "plain_english": "One should offer the recitation with the words 'secret, most-secret, protectorship' and so on."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "refers to previously mentioned water",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "water",
+     "grounds": "ritual medium",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sakalāḥ",
+     "gloss": "all",
+     "grounds": "qualifies the kalās",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "powers",
+     "grounds": "ritual powers or aspects invoked",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √vāh+ā"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What ritual action must be performed in the water after invoking all powers?",
+   "premises": [
+    "The location specified is that water.",
+    "All kalās are to be invoked there.",
+    "Worship is prescribed after invocation."
+   ],
+   "inference": "After invoking all powers in that water, one should perform worship.",
+   "uncertainties": [
+    "The precise referent of kalāḥ depends on ritual context."
+   ],
+   "plain_english": "In that water, having invoked all the powers, one should perform worship."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "jaṭāmāṃsī",
+     "gloss": "spikenard",
+     "grounds": "aromatic substance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kapiyutā",
+     "gloss": "mixed-with-kapi",
+     "grounds": "compound describing mixture; kapi is a substance name",
+     "morph": "f.nom.sg (compound: kapi+yutā)"
+    },
+    {
+     "surface": "śakter",
+     "gloss": "of-śakti",
+     "grounds": "attribution to the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "gandhāṣṭakaṃ",
+     "gloss": "eight-fragrances",
+     "grounds": "ritual set of eight fragrant substances",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "traditional knowledge statement",
+     "morph": "3.pl.perf.act √vid"
+    }
+   ],
+   "question": "Which fragrant mixture is traditionally known as the eight-fragrances of Śakti?",
+   "premises": [
+    "Jaṭāmāṃsī mixed with kapi is specified.",
+    "This mixture is attributed to Śakti.",
+    "It is identified as the gandhāṣṭaka."
+   ],
+   "inference": "The tradition knows spikenard mixed with kapi as Śakti’s eight-fragrances.",
+   "uncertainties": [
+    "The exact identity of kapi is not specified here."
+   ],
+   "plain_english": "They know spikenard mixed with kapi to be the eight-fragrances of Śakti."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-viṣṇu",
+     "grounds": "attribution to Viṣṇu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gandhāṣṭakaṃ",
+     "gloss": "eight-fragrances",
+     "grounds": "ritual set of eight fragrant substances",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "traditional teaching statement",
+     "morph": "n.nom.sg (past-passive-participle) √smṛ"
+    }
+   ],
+   "question": "To which deity is the next set of eight-fragrances traditionally attributed?",
+   "premises": [
+    "A gandhāṣṭaka is mentioned.",
+    "It is attributed to Viṣṇu.",
+    "It is stated as remembered tradition."
+   ],
+   "inference": "The eight-fragrances of Viṣṇu are remembered in tradition.",
+   "uncertainties": [
+    "The specific ingredients of Viṣṇu’s gandhāṣṭaka are not listed in this verse."
+   ],
+   "plain_english": "The eight-fragrances of Viṣṇu are remembered in tradition."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "kuṣṭhasaṃyuktaṃ",
+     "gloss": "mixed-with-kuṣṭha",
+     "grounds": "compound describing mixture with kuṣṭha",
+     "morph": "n.nom.sg (compound: kuṣṭha+saṃyukta)"
+    },
+    {
+     "surface": "śaivaṃ",
+     "gloss": "śaiva",
+     "grounds": "attributed to Śiva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gandhāṣṭakaṃ",
+     "gloss": "eight-fragrances",
+     "grounds": "ritual set of eight fragrant substances",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "traditional teaching statement",
+     "morph": "n.nom.sg (past-passive-participle) √smṛ"
+    }
+   ],
+   "question": "What characterizes the Śaiva set of eight-fragrances in tradition?",
+   "premises": [
+    "A gandhāṣṭaka is described as Śaiva.",
+    "It is mixed with kuṣṭha.",
+    "It is stated as remembered tradition."
+   ],
+   "inference": "The Śaiva eight-fragrances are remembered as being mixed with kuṣṭha.",
+   "uncertainties": [
+    "The full composition of the Śaiva gandhāṣṭaka is not detailed here."
+   ],
+   "plain_english": "The Śaiva eight-fragrances, mixed with kuṣṭha, are remembered in tradition."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekena",
+     "gloss": "one-by-one",
+     "grounds": "indicates individual treatment",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "repeated ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "How should worship proceed after the initial act in this sequence?",
+   "premises": [
+    "Worship is enjoined.",
+    "The sequence continues with tataḥ.",
+    "Worship is to be done individually, one by one."
+   ],
+   "inference": "After the initial worship, one should worship each item individually.",
+   "uncertainties": [
+    "The specific objects of individual worship are implied by context."
+   ],
+   "plain_english": "One should worship, and then worship each one individually."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior preparatory action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What general sequence governs the act of worship in this instruction?",
+   "premises": [
+    "A preparatory action is completed first.",
+    "Worship follows that action."
+   ],
+   "inference": "Having performed the required action, one should then worship.",
+   "uncertainties": [
+    "The specific preparatory action is supplied by context."
+   ],
+   "plain_english": "Having done so, one should worship."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhanaṃ",
+     "gloss": "invocation",
+     "grounds": "ritual act of calling the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What ritual act must precede worship at that stage of the procedure?",
+   "premises": [
+    "The instruction applies at that point.",
+    "Invocation is to be performed.",
+    "Worship follows the invocation."
+   ],
+   "inference": "There, after performing invocation, one should worship.",
+   "uncertainties": [],
+   "plain_english": "There, having performed the invocation, one should worship."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "jalavācakatvāt",
+     "gloss": "because-denoting-water",
+     "grounds": "compound giving reason; internal sandhi in compound",
+     "morph": "n.abl.sg (compound: jala+vācaka+tva)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "refers to the ritual water offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ācamanīyaṃ",
+     "gloss": "sipping-water",
+     "grounds": "ritual water for sipping",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vam",
+     "gloss": "vam",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadanti",
+     "gloss": "they-say",
+     "grounds": "traditional statement",
+     "morph": "3.pl.pres.act √vad"
+    }
+   ],
+   "question": "Why is the sipping-water designated by the syllable vam in this tradition?",
+   "premises": [
+    "The syllable denotes water.",
+    "The item in question is ācamanīya.",
+    "Tradition assigns the name vam to it."
+   ],
+   "inference": "Because it signifies water, tradition calls this sipping-water vam.",
+   "uncertainties": [],
+   "plain_english": "Because it denotes water, they call this sipping-water 'vam'."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "svadhāmantro",
+     "gloss": "svadhā-mantra",
+     "grounds": "compound naming the mantra; final vowel sandhi in form",
+     "morph": "m.nom.sg (compound: svadhā+mantra)"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-employed",
+     "grounds": "prescribes usage",
+     "morph": "3.sg.pres.pass √yuj"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhā",
+     "gloss": "sudhā",
+     "grounds": "alternative mantra word rejected here",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhuḥ",
+     "gloss": "they-say",
+     "grounds": "traditional statement",
+     "morph": "3.pl.perf.act √ah"
+    }
+   ],
+   "question": "Which mantra term is prescribed for use instead of sudhā in this context?",
+   "premises": [
+    "The svadhā mantra is said to be employed.",
+    "The term sudhā is explicitly rejected.",
+    "This is stated as traditional teaching."
+   ],
+   "inference": "Tradition prescribes the svadhā mantra and not sudhā.",
+   "uncertainties": [],
+   "plain_english": "They say the svadhā mantra is to be used, but not sudhā."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "ritual offering items",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vauṣaṭ",
+     "gloss": "vauṣaṭ",
+     "grounds": "ritual exclamation, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "in-all-cases",
+     "grounds": "universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāne",
+     "gloss": "in-offering",
+     "grounds": "ritual context of giving",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūlamantroccāraṇam",
+     "gloss": "root-mantra-recitation",
+     "grounds": "compound naming recitation of the mūla mantra",
+     "morph": "n.nom.sg (compound: mūla+mantra+uccāraṇa)"
+    }
+   ],
+   "question": "What utterances accompany the offering of flowers in all ritual contexts?",
+   "premises": [
+    "Flowers are the offering.",
+    "The utterance vauṣaṭ is specified.",
+    "Recitation of the mūla mantra is required in all offerings."
+   ],
+   "inference": "In every offering of flowers, one utters vauṣaṭ and recites the mūla mantra.",
+   "uncertainties": [],
+   "plain_english": "In all offerings of flowers, one should utter 'vauṣaṭ' and recite the root mantra."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvaraṇapūjā",
+     "gloss": "enclosure-worship",
+     "grounds": "compound naming worship of surrounding deities",
+     "morph": "f.nom.sg (compound: āvaraṇa+pūjā)"
+    }
+   ],
+   "question": "Which ritual stage follows next in the prescribed worship sequence?",
+   "premises": [
+    "The sequence advances with tataḥ.",
+    "Āvaraṇapūjā is named as the next stage."
+   ],
+   "inference": "After the preceding acts, the worship of the enclosures follows.",
+   "uncertainties": [],
+   "plain_english": "Then comes the worship of the surrounding enclosures."
+  },
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "dhūpayed",
+     "gloss": "should-offer-incense",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √dhūp (causative)"
+    },
+    {
+     "surface": "ājyasammiśraiḥ",
+     "gloss": "mixed-with-ghee",
+     "grounds": "compound describing incense mixture",
+     "morph": "m.inst.pl (compound: ājya+sammiśra)"
+    },
+    {
+     "surface": "nīcaiḥ",
+     "gloss": "softly",
+     "grounds": "manner of offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-the-deity",
+     "grounds": "recipient of offering",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "the-ritualist",
+     "grounds": "officiating practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the ritualist present incense to the deity at this stage?",
+   "premises": [
+    "The ritualist is the agent.",
+    "Incense mixed with ghee is to be offered.",
+    "The offering is to be made softly to the deity."
+   ],
+   "inference": "The ritualist should softly offer incense mixed with ghee to the deity.",
+   "uncertainties": [],
+   "plain_english": "The ritualist should softly offer incense mixed with ghee to the deity."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "vimalaṃ",
+     "gloss": "spotless",
+     "grounds": "qualifies the fragrance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "ritual offering substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound naming the mantra used",
+     "morph": "m.inst.sg (compound: mūla+mantra)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "the-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fragrance should the practitioner offer and with which mantra?",
+   "premises": [
+    "The practitioner is the agent.",
+    "A spotless fragrance is specified.",
+    "The offering is made with the mūla mantra."
+   ],
+   "inference": "The practitioner should offer spotless fragrance with the root mantra.",
+   "uncertainties": [
+    "The verb of offering is implied from context."
+   ],
+   "plain_english": "The practitioner should offer spotless fragrance with the root mantra."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "continues the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "the-discerning-one",
+     "grounds": "qualified ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is instructed to give incense in this address to the goddess?",
+   "premises": [
+    "The instruction is addressed to the goddess.",
+    "Incense is the offering.",
+    "The discerning one is the agent who should give it."
+   ],
+   "inference": "The discerning practitioner should likewise give incense.",
+   "uncertainties": [],
+   "plain_english": "Thus, O goddess, the discerning one should give incense."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "dahet",
+     "gloss": "should-burn",
+     "grounds": "preparatory action for incense",
+     "morph": "3.sg.opt.act √dah"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √ṛ+sam"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ghaṇṭāvādyajayasvanaiḥ",
+     "gloss": "with-bell-and-victory-sounds",
+     "grounds": "compound listing accompanying sounds",
+     "morph": "m.inst.pl (compound: ghaṇṭā+vādya+jaya+svana)"
+    }
+   ],
+   "question": "What actions and sounds accompany the proper offering of incense?",
+   "premises": [
+    "The incense is first to be burned.",
+    "Then it is to be offered.",
+    "The offering is accompanied by bell sounds and victory cries."
+   ],
+   "inference": "One should burn and then offer incense with the sounds of bells and victory cries.",
+   "uncertainties": [],
+   "plain_english": "One should burn the incense and then offer it, accompanied by the sounding of bells and cries of victory."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √arc+abhi"
+    },
+    {
+     "surface": "vādayet",
+     "gloss": "should-sound",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √vad (causative)"
+    },
+    {
+     "surface": "ghaṇṭāṃ",
+     "gloss": "bell",
+     "grounds": "ritual instrument",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sudhūpaiḥ",
+     "gloss": "with-fragrant-incense",
+     "grounds": "means of fumigation",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dhūpayet",
+     "gloss": "should-fumigate",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √dhūp (causative)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of worship, bell-ringing, and fumigation is prescribed here?",
+   "premises": [
+    "Worship is performed first.",
+    "The bell is to be sounded.",
+    "Fumigation with fragrant incense follows."
+   ],
+   "inference": "After worship, one should ring the bell and then fumigate with fragrant incense.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped, one should ring the bell and then fumigate with fragrant incense."
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "scriptural or ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "prohibited placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vitaret",
+     "gloss": "should-place",
+     "grounds": "action being prohibited",
+     "morph": "3.sg.opt.act √tṛ+vi"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsane",
+     "gloss": "on-seat",
+     "grounds": "prohibited placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭe",
+     "gloss": "on-vessel",
+     "grounds": "prohibited placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where must incense not be placed according to tantric ritual rules?",
+   "premises": [
+    "The rule is stated in the context of tantra.",
+    "Placing incense on the ground is prohibited.",
+    "Placing incense on the seat or on the vessel is likewise prohibited."
+   ],
+   "inference": "In tantric practice, incense must not be placed on the ground, the seat, or the vessel.",
+   "uncertainties": [],
+   "plain_english": "In tantric practice, one should not place incense on the ground, nor on the seat, nor on the vessel."
+  },
+  {
+   "verse": 319,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates analogy with previous rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extends the rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpadāne",
+     "gloss": "in-lamp-offering",
+     "grounds": "compound naming the ritual context",
+     "morph": "n.loc.sg (compound: dīpa+dāna)"
+    },
+    {
+     "surface": "ghaṇṭāvādanam",
+     "gloss": "bell-sounding",
+     "grounds": "compound naming the accompanying act",
+     "morph": "n.nom.sg (compound: ghaṇṭā+vādana)"
+    }
+   ],
+   "question": "What accompanying act applies likewise during the offering of a lamp?",
+   "premises": [
+    "The previous practice is extended by analogy.",
+    "The context is the offering of a lamp.",
+    "Bell-sounding is prescribed."
+   ],
+   "inference": "Bell-sounding is likewise performed during the offering of a lamp.",
+   "uncertainties": [
+    "The verb is implied from the preceding context."
+   ],
+   "plain_english": "Likewise, in the offering of a lamp, the bell should be sounded."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "darśanāt",
+     "gloss": "from-observation",
+     "grounds": "grounds the practice in what is seen or taught",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "On what basis is the preceding ritual practice supported?",
+   "premises": [
+    "The term darśanāt indicates a basis or source.",
+    "It follows the preceding ritual instruction."
+   ],
+   "inference": "The practice is supported by observation or authoritative teaching.",
+   "uncertainties": [
+    "Darśanāt may mean direct observation or scriptural view; context is elliptical."
+   ],
+   "plain_english": "This is based on observation or authoritative teaching."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "pakvam",
+     "gloss": "cooked-food",
+     "grounds": "prepared food offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāvāme",
+     "gloss": "on-deity-left",
+     "grounds": "compound indicating placement to the deity’s left",
+     "morph": "n.loc.sg (compound: devatā+vāma)"
+    },
+    {
+     "surface": "āmānnam",
+     "gloss": "uncooked-food",
+     "grounds": "compound naming raw food offering",
+     "morph": "n.nom.sg (compound: āma+anna)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "placement to the right",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should cooked food and uncooked food be placed relative to the deity?",
+   "premises": [
+    "Cooked food is specified.",
+    "Uncooked food is specified.",
+    "Cooked food is placed on the deity’s left and uncooked food on the right."
+   ],
+   "inference": "Cooked food should be placed on the deity’s left and uncooked food on the right.",
+   "uncertainties": [
+    "The verb of placement is implied from context."
+   ],
+   "plain_english": "Cooked food should be placed on the deity’s left, and uncooked food on the right."
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "suropamam",
+     "gloss": "like-gods",
+     "grounds": "compound indicating likeness to the gods",
+     "morph": "n.nom.sg (compound: sura+upama)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the stated view",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmpradāyikāḥ",
+     "gloss": "traditionalists",
+     "grounds": "holders of transmitted tradition",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do traditionalists characterize the prescribed food arrangement?",
+   "premises": [
+    "The arrangement is described as suropamam.",
+    "This description is attributed to traditionalists."
+   ],
+   "inference": "Traditionalists say the arrangement is like that of the gods.",
+   "uncertainties": [
+    "The exact sense of suropamam in this ritual context is concise and traditional."
+   ],
+   "plain_english": "The traditionalists say it is like that of the gods."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "dakṣakarṇe",
+     "gloss": "in-right-ear",
+     "grounds": "compound indicating location",
+     "morph": "m.loc.sg (compound: dakṣa+karṇa)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijātiviṣayam",
+     "gloss": "concerning-twice-born",
+     "grounds": "compound delimiting applicability",
+     "morph": "n.nom.sg (compound: dvijāti+viṣaya)"
+    }
+   ],
+   "question": "For whom does the instruction concerning the right ear specifically apply?",
+   "premises": [
+    "The right ear is specified.",
+    "The instruction is delimited to the twice-born."
+   ],
+   "inference": "The instruction concerning the right ear applies to the twice-born.",
+   "uncertainties": [
+    "The specific action performed at the right ear is implied by context."
+   ],
+   "plain_english": "This applies to the twice-born, with regard to the right ear."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "refers to the stated rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "ritual prescription",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvijātīnām",
+     "gloss": "of-twice-born",
+     "grounds": "one group to whom the rule applies",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "strīśūdrāṇām",
+     "gloss": "of-women-and-śūdras",
+     "grounds": "compound naming another group",
+     "morph": "m.gen.pl (compound: strī+śūdra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects groups",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "on-the-left",
+     "grounds": "specifies placement for the latter group",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the prescribed rule differ for twice-born persons and for women and śūdras?",
+   "premises": [
+    "A rule is stated for the twice-born.",
+    "The same rule context applies to women and śūdras.",
+    "For women and śūdras the placement is on the left."
+   ],
+   "inference": "This rule applies to the twice-born, while for women and śūdras it is performed on the left.",
+   "uncertainties": [
+    "The exact action modified by left placement is carried over from the previous verse."
+   ],
+   "plain_english": "This rule is for the twice-born, and for women and śūdras it is performed on the left."
+  }
+ ]
+}

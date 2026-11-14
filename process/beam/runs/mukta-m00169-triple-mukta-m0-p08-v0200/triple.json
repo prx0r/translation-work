@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "refers to substances mentioned in preceding verses",
+     "morph": "pron.acc.pl.m"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund.(√piṣ)"
+    },
+    {
+     "surface": "sva+vīryeṇa",
+     "gloss": "with-own-semen",
+     "grounds": "compound: sva (own) + vīrya (semen/vigor); instrumental of means",
+     "morph": "compound.instr.sg.n"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing agent",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative expressing prescribed action",
+     "morph": "3.sg.opt.act.(√kṛ)"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "object of the prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pumān",
+     "gloss": "man",
+     "grounds": "agent performing the action",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can a man prepare a forehead-mark using these substances and his own semen?",
+   "premises": [
+    "The previously mentioned substances are to be taken.",
+    "These substances are ground together with one's own semen.",
+    "A man may perform this preparation as a prescribed action."
+   ],
+   "inference": "By grinding these substances with his own semen, a man can make a forehead-mark.",
+   "uncertainties": [
+    "The precise referents of etān depend on the preceding verses.",
+    "vīrya may denote semen or vital potency in this ritual context."
+   ],
+   "plain_english": "A man who grinds these substances with his own semen and makes a forehead-mark from them."
+  }
+ ]
+}

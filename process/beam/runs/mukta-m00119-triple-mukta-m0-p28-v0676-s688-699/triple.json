@@ -1,0 +1,497 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 688,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣoḍaśaparyantaṃ",
+     "gloss": "up-to-sixteen",
+     "grounds": "compound limit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yogavīṇā",
+     "gloss": "yoga-vina",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which attainment is proclaimed to extend up to sixteen?",
+   "premises": [
+    "yoga-vina is proclaimed",
+    "its limit is sixteen",
+    "the verse names it"
+   ],
+   "inference": "The verse identifies yoga-vina as extending to sixteen.",
+   "uncertainties": [
+    "exact unit of sixteen unspecified"
+   ],
+   "plain_english": "Then yoga-vina is proclaimed up to sixteen."
+  },
+  {
+   "verse": 689,
+   "rows": [
+    {
+     "surface": "dvātriṃśadvarṣaparyantaṃ",
+     "gloss": "up-to-thirty-two-years",
+     "grounds": "compound limit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sāmrājyaguṭikābhidhā",
+     "gloss": "imperial-pill-named",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which attainment named sāmrājyaguṭikā extends to thirty-two years?",
+   "premises": [
+    "sāmrājyaguṭikā is named",
+    "its limit is thirty-two years",
+    "the verse states it"
+   ],
+   "inference": "The verse identifies sāmrājyaguṭikā as extending to thirty-two years.",
+   "uncertainties": [
+    "exact ritual sense of guṭikā unspecified"
+   ],
+   "plain_english": "Sāmrājyaguṭikā extends up to thirty-two years."
+  },
+  {
+   "verse": 690,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "digvarṣaparyantam",
+     "gloss": "up-to-ten-years",
+     "grounds": "compound limit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saubhāgyakamalaṃ",
+     "gloss": "fortune-lotus",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What becomes the fortune-lotus up to ten years?",
+   "premises": [
+    "fortune-lotus is named",
+    "its limit is ten years",
+    "it becomes so"
+   ],
+   "inference": "The verse states that saubhāgyakamala becomes up to ten years.",
+   "uncertainties": [
+    "exact attainment context unspecified"
+   ],
+   "plain_english": "Then the fortune-lotus becomes up to ten years."
+  },
+  {
+   "verse": 691,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣoḍaśaparyantaṃ",
+     "gloss": "up-to-sixteen",
+     "grounds": "compound limit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mahāsāmrājyamaṇḍalam",
+     "gloss": "great-imperial-circle",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Which great imperial circle extends up to sixteen?",
+   "premises": [
+    "great imperial circle is named",
+    "its limit is sixteen",
+    "the verse states it"
+   ],
+   "inference": "The verse identifies mahāsāmrājyamaṇḍala as extending to sixteen.",
+   "uncertainties": [
+    "exact unit of sixteen unspecified"
+   ],
+   "plain_english": "Then the great imperial circle extends up to sixteen."
+  },
+  {
+   "verse": 692,
+   "rows": [
+    {
+     "surface": "vairājyamaṇḍalaṃ",
+     "gloss": "imperial-circle",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvajñapīṭhakam",
+     "gloss": "all-knower-seat",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What follows the imperial circle for the goddess?",
+   "premises": [
+    "imperial circle is named",
+    "goddess is addressed",
+    "all-knower seat follows"
+   ],
+   "inference": "The verse places sarvajñapīṭhaka after vairājyamaṇḍala.",
+   "uncertainties": [
+    "sequence relation unspecified"
+   ],
+   "plain_english": "O goddess, then the all-knower seat follows the imperial circle."
+  },
+  {
+   "verse": 693,
+   "rows": [
+    {
+     "surface": "sarvasiddhipradā",
+     "gloss": "all-accomplishment-giving",
+     "grounds": "compound",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "plural",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "kelikuñcyāḥ",
+     "gloss": "play-shrine",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "Which goddesses of the play-shrine are proclaimed all-accomplishment-giving?",
+   "premises": [
+    "goddesses are proclaimed",
+    "they give all accomplishments",
+    "they belong to play-shrine"
+   ],
+   "inference": "The verse proclaims the play-shrine goddesses as all-accomplishment-giving.",
+   "uncertainties": [
+    "identity of kelikuñcī unspecified"
+   ],
+   "plain_english": "The goddesses of the play-shrine are proclaimed as giving all accomplishments."
+  },
+  {
+   "verse": 694,
+   "rows": [
+    {
+     "surface": "ṣoḍaśottaragaṃ",
+     "gloss": "sixteen-beyond-going",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "ṣaṣṭisidhdyabhidhaṃ",
+     "gloss": "sixty-accomplishment-named",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What named sixty-accomplishment becomes sixteen-beyond-going?",
+   "premises": [
+    "sixteen-beyond-going is named",
+    "sixty-accomplishment is named",
+    "it becomes so"
+   ],
+   "inference": "The verse states that the sixty-accomplishment-named becomes sixteen-beyond-going.",
+   "uncertainties": [
+    "exact attainment context unspecified"
+   ],
+   "plain_english": "O goddess, the sixty-accomplishment-named becomes sixteen-beyond-going."
+  },
+  {
+   "verse": 695,
+   "rows": [
+    {
+     "surface": "śrīkālīmohanākhyaṃ",
+     "gloss": "shri-kali-mohana-named",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What named shri-kali-mohana is declared thereafter?",
+   "premises": [
+    "shri-kali-mohana is named",
+    "it is declared",
+    "it comes thereafter"
+   ],
+   "inference": "The verse declares shri-kali-mohana thereafter.",
+   "uncertainties": [
+    "exact ritual referent unspecified"
+   ],
+   "plain_english": "But shri-kali-mohana is declared thereafter."
+  },
+  {
+   "verse": 696,
+   "rows": [
+    {
+     "surface": "ruḍhijātikriyā",
+     "gloss": "customary-birth-action",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root as"
+    },
+    {
+     "surface": "adhirājādhipaṃ",
+     "gloss": "supreme-imperial-lord",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recite",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root jap"
+    }
+   ],
+   "question": "What should be recited if customary birth action occurs?",
+   "premises": [
+    "customary birth action is posited",
+    "supreme imperial lord is named",
+    "recitation is enjoined"
+   ],
+   "inference": "The verse enjoins reciting the supreme imperial lord if customary birth action occurs.",
+   "uncertainties": [
+    "exact condition unspecified"
+   ],
+   "plain_english": "If customary birth action occurs, one should recite the supreme imperial lord."
+  },
+  {
+   "verse": 697,
+   "rows": [
+    {
+     "surface": "pradadyāt",
+     "gloss": "give",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root dā"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "parādikramataḥ",
+     "gloss": "supreme-order",
+     "grounds": "compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be given carefully from supreme order or otherwise?",
+   "premises": [
+    "giving is enjoined",
+    "care is required",
+    "supreme order or alternative applies"
+   ],
+   "inference": "The verse enjoins careful giving from supreme order or otherwise.",
+   "uncertainties": [
+    "object of giving unspecified"
+   ],
+   "plain_english": "O goddess, one should give carefully from supreme order or otherwise."
+  },
+  {
+   "verse": 698,
+   "rows": [
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "devadeveśi",
+     "gloss": "goddess-of-gods",
+     "grounds": "compound vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "nivikalpaḥ",
+     "gloss": "without-doubt",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jitendriyaḥ",
+     "gloss": "sense-conquered",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What qualities characterize the practitioner addressing the goddess of gods?",
+   "premises": [
+    "practitioner is named",
+    "goddess of gods is addressed",
+    "without-doubt and sense-conquered are stated"
+   ],
+   "inference": "The verse describes the practitioner as without doubt and sense-conquered.",
+   "uncertainties": [
+    "exact practitioner grade unspecified"
+   ],
+   "plain_english": "O goddess of gods, the practitioner is without doubt and sense-conquered."
+  },
+  {
+   "verse": 699,
+   "rows": [
+    {
+     "surface": "dṛṣṭadoṣe",
+     "gloss": "seen-fault",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "manaḥkṣobhaṃ",
+     "gloss": "mind-agitation",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root kṛ"
+    }
+   ],
+   "question": "What should not be caused even when a fault is seen?",
+   "premises": [
+    "seen fault is posited",
+    "goddess is addressed",
+    "mind-agitation is prohibited"
+   ],
+   "inference": "The verse prohibits causing mind-agitation even when a fault is seen.",
+   "uncertainties": [
+    "exact fault context unspecified"
+   ],
+   "plain_english": "O goddess, even when a fault is seen, one should not cause mind-agitation."
+  }
+ ]
+}

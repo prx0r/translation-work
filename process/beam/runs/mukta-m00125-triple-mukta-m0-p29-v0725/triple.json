@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "kṛsara+annaṃ",
+     "gloss": "sesame-rice-dish",
+     "grounds": "compound naming a prepared food of rice mixed with sesame; accusative object in the offering list",
+     "morph": "compound.acc.sg.nt"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "clarified butter listed as an offering ingredient",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "saktu",
+     "gloss": "parched-flour",
+     "grounds": "roasted grain flour listed as an offering ingredient",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "laḍḍukaiśca",
+     "gloss": "and-with-sweet-balls",
+     "grounds": "laḍḍukaiḥ (instrumental plural) + ca; sweet balls included in the mixture",
+     "morph": "n.ins.pl.m + (indecl.)"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "past participle qualifying the prepared mixture as endowed with the listed items",
+     "morph": "ppp.acc.sg.nt"
+    }
+   ],
+   "question": "Which additional food items are included in the prepared ritual offering mixture?",
+   "premises": [
+    "Sesame-rice dish is listed as an offering item.",
+    "Ghee and parched flour are included among the items.",
+    "Sweet balls are added to complete the mixture."
+   ],
+   "inference": "The prepared ritual offering mixture includes sesame-rice dish, ghee, parched flour, and sweet balls together.",
+   "uncertainties": [],
+   "plain_english": "It is accompanied by sesame-rice, ghee, parched flour, and sweet balls."
+  }
+ ]
+}

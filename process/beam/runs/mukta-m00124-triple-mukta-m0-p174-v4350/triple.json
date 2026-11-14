@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p174",
+ "items": [
+  {
+   "verse": 4350,
+   "rows": [
+    {
+     "surface": "jaṅghe",
+     "gloss": "in-shank",
+     "grounds": "locative of jaṅghā (shank)",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "dviguṇitāyāme",
+     "gloss": "in-doubled-length",
+     "grounds": "locative of āyāma (length) with dviguṇita (doubled)",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tāloccaṃ",
+     "gloss": "palm-height",
+     "grounds": "compound tāla (palm measure) + ucca (height)",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "bhāgataḥ",
+     "gloss": "by-parts",
+     "grounds": "from bhāga (part)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū (to be)",
+     "morph": "3.sg.act.opt. bhū"
+    }
+   ],
+   "question": "How does doubling the shank length affect the palm-height measure by parts?",
+   "premises": [
+    "Shank length is doubled.",
+    "Palm height is reckoned by parts.",
+    "The relation is stated conditionally."
+   ],
+   "inference": "Doubling the shank length yields a palm-height value determined by parts.",
+   "uncertainties": [
+    "The exact numerical proportion is not explicit in the verse."
+   ],
+   "plain_english": "When the shank is doubled in length, the palm height is reckoned by parts."
+  }
+ ]
+}

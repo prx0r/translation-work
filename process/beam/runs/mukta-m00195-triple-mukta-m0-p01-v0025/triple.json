@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "dharmasāraṃ",
+     "gloss": "dharma-essence",
+     "grounds": "compound of dharma and sāra; describes the essential core of dharma",
+     "morph": "dharma+sāra(n.acc.sg)"
+    },
+    {
+     "surface": "tantrāṇāṃ",
+     "gloss": "of-tantras",
+     "grounds": "genitive plural indicating the body of texts to which the essence belongs",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "metaphor for the innermost core or central teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies hṛdayaṃ as the highest or ultimate",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What constitutes the supreme heart and essential dharma of the tantras?",
+   "premises": [
+    "The tantras possess an essential core identified as dharmasāra.",
+    "This core is characterized as the hṛdayaṃ of the tantras.",
+    "This heart is described as supreme (param)."
+   ],
+   "inference": "Therefore, the supreme heart of the tantras is their essential dharma.",
+   "uncertainties": [
+    "The syntactic role of dharmasāraṃ and hṛdayaṃ as appositional or predicative is context-dependent."
+   ],
+   "plain_english": "It is the essence of dharma, the supreme heart of the tantras."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2675,
+   "rows": [
+    {
+     "surface": "apare",
+     "gloss": "others",
+     "grounds": "other authorities or teachers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tāramevoktaṃ",
+     "gloss": "full-measure-indeed-stated",
+     "grounds": "fused form tāram+eva+uktam; tāra as full or high measure",
+     "morph": "sandhi-fusion: m.acc.sg + (indecl.) + n.nom.sg.ppp"
+    },
+    {
+     "surface": "pārśvavyāsam",
+     "gloss": "side-width",
+     "grounds": "breadth or extent of the sides",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces an alternative statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "reports the prescribed measurement",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What alternative measurement do other authorities prescribe for the side-width?",
+   "premises": [
+    "Other authorities hold a different view on the side-width.",
+    "They state the side-width as the full measure.",
+    "This alternative prescription is now being reported."
+   ],
+   "inference": "According to other authorities, the side-width is to be taken as the full measure.",
+   "uncertainties": [
+    "The precise technical value of tāra in this measurement context is not fully specified."
+   ],
+   "plain_english": "Now it is stated that others prescribe the side-width as the full measure."
+  }
+ ]
+}

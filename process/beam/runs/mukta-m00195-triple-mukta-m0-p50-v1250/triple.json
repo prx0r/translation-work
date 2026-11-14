@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "object of going or purpose; act of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "destination or locus to be reached",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "qualifies the place as one's own",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "prayātu",
+     "gloss": "should-go",
+     "grounds": "injunctive command to proceed",
+     "morph": "3.sg.imperative; pra-√yā"
+    },
+    {
+     "surface": "punas",
+     "gloss": "again",
+     "grounds": "indicates repetition or return",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+tat",
+     "gloss": "and-that",
+     "grounds": "conjunction linking to prior act and demonstrative referring to worship; fused token kept as given",
+     "morph": "ca (indecl.) + tat (pron.n.acc.sg)"
+    }
+   ],
+   "question": "Where should one proceed and what should be resumed after completing the sin-removal rite?",
+   "premises": [
+    "The sin-removal rite has already been performed.",
+    "A return to one's own place is enjoined.",
+    "Worship is to be undertaken again."
+   ],
+   "inference": "After completing the sin-removal rite, one should return to one's own place and resume that worship.",
+   "uncertainties": [
+    "Whether pūjanaṃ functions as the destination or as the purpose of going is not fully explicit."
+   ],
+   "plain_english": "After that, one should go again to one's own place and perform that worship."
+  }
+ ]
+}

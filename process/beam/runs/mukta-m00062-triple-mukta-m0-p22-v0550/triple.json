@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "sva+arthaṃ",
+     "gloss": "for-own-purpose",
+     "grounds": "compound sva+artha in accusative sense indicating purpose; internal sandhi preserved in fused token",
+     "morph": "compound.acc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "particle used with vā to mark an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "para+arthaṃ",
+     "gloss": "for-another-purpose",
+     "grounds": "compound para+artha in accusative sense indicating purpose; internal sandhi preserved in fused token",
+     "morph": "compound.acc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle completing the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apa+mṛtyur",
+     "gloss": "untimely-death",
+     "grounds": "compound apa+mṛtyu denoting premature death; nominative subject",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "verb expressing the removal or perishing of untimely death",
+     "morph": "3.sg.act-pres √naś+vi"
+    }
+   ],
+   "question": "For whose benefit can untimely death be destroyed by this means?",
+   "premises": [
+    "The action may be undertaken for one's own purpose.",
+    "The action may be undertaken for another's purpose.",
+    "Untimely death is destroyed in either case."
+   ],
+   "inference": "Untimely death perishes whether the intended benefit is for oneself or for another.",
+   "uncertainties": [
+    "The precise force of atha alongside vā is contextually inferred as an alternative marker."
+   ],
+   "plain_english": "Whether for one's own sake or for another's sake, untimely death is destroyed."
+  }
+ ]
+}

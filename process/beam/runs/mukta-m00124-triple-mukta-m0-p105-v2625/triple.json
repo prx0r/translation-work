@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "catuṣṭayānāṃ",
+     "gloss": "of-four",
+     "grounds": "genitive plural of catuṣṭaya",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "śālānāṃ",
+     "gloss": "halls",
+     "grounds": "genitive plural of śālā",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "madhyamadhyordhvamastakam",
+     "gloss": "middle-middle-top",
+     "grounds": "compound of madhya, madhya, ūrdhva, and mastaka",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How should the central upper portion be designated among four halls?",
+   "premises": [
+    "Four halls are referenced.",
+    "Their middle-middle-top is named.",
+    "The verse specifies spatial arrangement."
+   ],
+   "inference": "The layout names a central upper point among four halls.",
+   "uncertainties": [
+    "Exact syntactic role of madhyamadhyordhvamastakam is unclear from the isolated verse."
+   ],
+   "plain_english": "Among four halls, the middle-middle-top is designated."
+  }
+ ]
+}

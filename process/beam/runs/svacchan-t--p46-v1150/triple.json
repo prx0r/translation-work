@@ -1,0 +1,49 @@
+{
+ "song": "sva-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suṣumṇābhuvanaṃ",
+     "gloss": "sushumna-world",
+     "grounds": "compound of suṣumṇā and bhuvanaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "suṣumṇā",
+     "gloss": "sushumna",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "situated",
+     "grounds": "past participle of saṃ-sthā",
+     "morph": "part.f.nom.sg"
+    }
+   ],
+   "question": "What is situated there in the sushumna world?",
+   "premises": [
+    "tataḥ means then",
+    "suṣumṇābhuvanaṃ names the sushumna world",
+    "saṃsthitā means situated"
+   ],
+   "inference": "Then the sushumna world is named, and sushumna is situated there.",
+   "uncertainties": [],
+   "plain_english": "Then the sushumna world; sushumna is situated there."
+  }
+ ]
+}

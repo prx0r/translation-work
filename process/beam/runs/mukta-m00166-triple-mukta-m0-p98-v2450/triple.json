@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "ahārayat",
+     "gloss": "she-took-away",
+     "grounds": "verb from ā-hṛ, to take or seize away",
+     "morph": "3.sg.act-impf.ā-hṛ"
+    },
+    {
+     "surface": "svasāmrājyaṃ",
+     "gloss": "own-sovereignty",
+     "grounds": "compound of sva and sāmrājya",
+     "morph": "compound(sva+sāmrājya).acc.sg.n"
+    },
+    {
+     "surface": "sākṣakrīḍāratiḥ",
+     "gloss": "with-dice-play-delighting",
+     "grounds": "compound of sa, akṣa, krīḍā, and rati",
+     "morph": "compound(sa+akṣa+krīḍā+rati).nom.sg.f"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "auspicious-one",
+     "grounds": "epithet or name of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How did Śivā, delighting in dice-play, seize her own sovereignty?",
+   "premises": [
+    "Śivā is the agent of the action.",
+    "Śivā delighted in dice-play.",
+    "Śivā took away her own sovereignty."
+   ],
+   "inference": "Śivā's delight in dice-play accompanies her seizure of her own sovereignty.",
+   "uncertainties": [
+    "Whether svasāmrājyaṃ implies reclaiming or establishing sovereignty is context-dependent."
+   ],
+   "plain_english": "Delighting in dice-play, the auspicious Śivā seized her own sovereignty."
+  }
+ ]
+}

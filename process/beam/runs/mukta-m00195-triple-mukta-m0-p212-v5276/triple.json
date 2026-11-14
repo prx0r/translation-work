@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p212",
+ "items": [
+  {
+   "verse": 5276,
+   "rows": [
+    {
+     "surface": "praskaṇva+nāmā",
+     "gloss": "named-praskaṇva",
+     "grounds": "bahuvrīhi compound naming the seer",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anuṣṭup",
+     "gloss": "anuṣṭup",
+     "grounds": "name of the meter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity of the mantra",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What seer, meter, and deity are specified for the ritual formula?",
+   "premises": [
+    "The seer is named Praskaṇva.",
+    "The meter is anuṣṭup.",
+    "A presiding deity is also specified."
+   ],
+   "inference": "The ritual formula is assigned Praskaṇva as seer, anuṣṭup as meter, and a deity.",
+   "uncertainties": [
+    "The specific deity is not named in this verse."
+   ],
+   "plain_english": "The seer is named Praskaṇva, the meter is anuṣṭup, and there is a deity."
+  },
+  {
+   "verse": 5277,
+   "rows": [
+    {
+     "surface": "santarpayāmi",
+     "gloss": "i-satisfy",
+     "grounds": "ritual utterance of satisfaction",
+     "morph": "1.sg.pres.act √tṛp-caus"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "n.nom.sg.past-pass-part √vac"
+    },
+    {
+     "surface": "sita+itare",
+     "gloss": "in-dark-fortnight",
+     "grounds": "locative compound meaning other than bright fortnight",
+     "morph": "compound"
+    }
+   ],
+   "question": "What ritual utterance is prescribed during the dark fortnight?",
+   "premises": [
+    "The formula 'I satisfy' is spoken.",
+    "This manner of utterance is declared.",
+    "The prescription applies in the dark fortnight."
+   ],
+   "inference": "During the dark fortnight one should declare the satisfaction formula as prescribed.",
+   "uncertainties": [
+    "The object of satisfaction is not specified in this verse."
+   ],
+   "plain_english": "Thus it is declared that one should say 'I satisfy' in the dark fortnight."
+  },
+  {
+   "verse": 5278,
+   "rows": [
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act √vad"
+    },
+    {
+     "surface": "ardha+ṛke",
+     "gloss": "at-half-verse",
+     "grounds": "locative compound indicating midpoint of the verse",
+     "morph": "compound"
+    },
+    {
+     "surface": "mitra+ravibhyām",
+     "gloss": "to-mitra-and-ravi",
+     "grounds": "dual recipients of the offering",
+     "morph": "m.dat.du"
+    },
+    {
+     "surface": "arghyam",
+     "gloss": "water-offering",
+     "grounds": "ritual oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering formula should be spoken at the half-verse point?",
+   "premises": [
+    "Speech is prescribed at the half-verse.",
+    "Mitra and Ravi are named as recipients.",
+    "A water offering is mentioned."
+   ],
+   "inference": "At the half-verse one should also say the formula offering water to Mitra and Ravi.",
+   "uncertainties": [],
+   "plain_english": "At the half-verse one should also say, 'A water offering to Mitra and Ravi.'"
+  },
+  {
+   "verse": 5279,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryam",
+     "gloss": "sun",
+     "grounds": "object of satisfaction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayāmi",
+     "gloss": "i-satisfy",
+     "grounds": "ritual utterance of satisfaction",
+     "morph": "1.sg.pres.act √tṛp-caus"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvadet",
+     "gloss": "one-should-speak",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "What universal formula should be spoken to satisfy the sun?",
+   "premises": [
+    "The prescription applies everywhere.",
+    "The sun is the object addressed.",
+    "The formula 'I satisfy' is to be spoken."
+   ],
+   "inference": "In all contexts one should speak the formula 'I satisfy the sun.'",
+   "uncertainties": [],
+   "plain_english": "Everywhere one should indeed speak, 'I satisfy the sun.'"
+  },
+  {
+   "verse": 5280,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "prescribed action",
+     "morph": "n.nom.sg.fut-pass-part √kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in other contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsare",
+     "gloss": "on-day",
+     "grounds": "locative indicating time",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Under what temporal restriction is the prescribed action limited?",
+   "premises": [
+    "An action is prescribed as to be done.",
+    "It is negated elsewhere.",
+    "The restriction is tied to a specific day."
+   ],
+   "inference": "The prescribed action should be done on that day and not elsewhere.",
+   "uncertainties": [
+    "The specific day referred to is not named in this verse."
+   ],
+   "plain_english": "Indeed it should be done on that day, and not on any other day."
+  },
+  {
+   "verse": 5281,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of repetitions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śītatva+ādi",
+     "gloss": "coolness-and-such",
+     "grounds": "compound indicating coolness and similar conditions",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahā+gade",
+     "gloss": "in-great-disease",
+     "grounds": "locative compound indicating severe illness",
+     "morph": "compound"
+    }
+   ],
+   "question": "What repetition count is prescribed for conditions like coolness in severe disease?",
+   "premises": [
+    "A thousand repetitions are indicated.",
+    "Conditions such as coolness are mentioned.",
+    "The context is a great disease."
+   ],
+   "inference": "In cases of great disease involving coolness and similar conditions, a thousand repetitions are prescribed.",
+   "uncertainties": [
+    "The exact ritual act repeated a thousand times is implied from context."
+   ],
+   "plain_english": "Indeed a thousand times, in cases of coolness and the like in great disease."
+  },
+  {
+   "verse": 5282,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal qualifier",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nīruk",
+     "gloss": "disease-free",
+     "grounds": "free from illness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajā",
+     "gloss": "offspring",
+     "grounds": "progeny or people",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "comes into being",
+     "morph": "3.sg.pres.mid √jan"
+    }
+   ],
+   "question": "What condition of offspring results from the prescribed ritual practice?",
+   "premises": [
+    "Offspring are the subject.",
+    "They are described as entirely disease-free.",
+    "Their birth in this state is affirmed."
+   ],
+   "inference": "The practice results in all offspring being born disease-free.",
+   "uncertainties": [],
+   "plain_english": "All offspring are born free from disease."
+  },
+  {
+   "verse": 5283,
+   "rows": [
+    {
+     "surface": "bipulāṃ",
+     "gloss": "abundant",
+     "grounds": "great in extent",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lakṣmīṃ",
+     "gloss": "prosperity",
+     "grounds": "wealth and good fortune",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "sacred-power",
+     "grounds": "spiritual potency or brahman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "attains as result",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "anāmayam",
+     "gloss": "free-from-disease",
+     "grounds": "state of health",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What benefits of prosperity, sacred power, and health are obtained through the rite?",
+   "premises": [
+    "Abundant prosperity is obtained.",
+    "Sacred power is obtained.",
+    "A disease-free state is obtained."
+   ],
+   "inference": "The practitioner obtains abundant prosperity, sacred power, and freedom from disease.",
+   "uncertainties": [
+    "The term brahma may refer to sacred knowledge or spiritual power."
+   ],
+   "plain_english": "One obtains abundant prosperity, sacred power, and freedom from disease."
+  },
+  {
+   "verse": 5284,
+   "rows": [
+    {
+     "surface": "śrī+sūryaḥ",
+     "gloss": "glorious-sun",
+     "grounds": "compound naming the revered sun",
+     "morph": "compound"
+    },
+    {
+     "surface": "kriyayā",
+     "gloss": "by-action",
+     "grounds": "through ritual activity",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "jātaḥ",
+     "gloss": "born",
+     "grounds": "arisen or produced",
+     "morph": "m.nom.sg.past-pass-part √jan"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual veneration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-distinguished",
+     "grounds": "is especially emphasized",
+     "morph": "3.sg.pres.pass √śiṣ"
+    }
+   ],
+   "question": "Why is worship especially distinguished in relation to the glorious sun's arising?",
+   "premises": [
+    "The glorious sun is said to be born by action.",
+    "Worship is present in that context.",
+    "Worship is distinguished there."
+   ],
+   "inference": "Because the glorious sun arose through action, worship is especially distinguished in that context.",
+   "uncertainties": [
+    "The sense of jātaḥ as born or manifested is context-dependent."
+   ],
+   "plain_english": "The glorious sun arose through action, and therefore worship is especially distinguished there."
+  },
+  {
+   "verse": 5285,
+   "rows": [
+    {
+     "surface": "samabhavat",
+     "gloss": "arose",
+     "grounds": "came into being",
+     "morph": "3.sg.imperf.act √bhū"
+    },
+    {
+     "surface": "candraḥ",
+     "gloss": "moon",
+     "grounds": "lunar deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual veneration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-distinguished",
+     "grounds": "is especially emphasized",
+     "morph": "3.sg.pres.pass √śiṣ"
+    }
+   ],
+   "question": "Why is worship especially distinguished in relation to the moon's arising?",
+   "premises": [
+    "The moon arose.",
+    "Worship is present in that context.",
+    "Worship is distinguished there."
+   ],
+   "inference": "In the context of the moon's arising, worship is especially distinguished.",
+   "uncertainties": [],
+   "plain_english": "The moon arose, and therefore worship is especially distinguished there."
+  },
+  {
+   "verse": 5286,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "name of the meter or mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "stated or taught",
+     "morph": "n.nom.sg.past-pass-part √īr"
+    }
+   ],
+   "question": "What deity and meter are declared for this ritual context?",
+   "premises": [
+    "A deity is mentioned.",
+    "Gāyatrī is named.",
+    "The meter is declared."
+   ],
+   "inference": "The deity and the Gāyatrī meter are declared for this context.",
+   "uncertainties": [
+    "Gāyatrī may refer to the meter or be associated with the deity."
+   ],
+   "plain_english": "The deity and the Gāyatrī meter are declared."
+  },
+  {
+   "verse": 5287,
+   "rows": [
+    {
+     "surface": "āpāgūṃretāgūṃsi",
+     "gloss": "āpāgūṃretāgūṃsi",
+     "grounds": "mantra syllables or formula preserved as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jinvati",
+     "gloss": "jinvati",
+     "grounds": "mantra verb form preserved as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula is presented for use in this ritual sequence?",
+   "premises": [
+    "A specific mantra sequence is given.",
+    "The elements are presented as a formula.",
+    "The formula is to be used in the rite."
+   ],
+   "inference": "The mantra formula 'āpāgūṃretāgūṃsi jinvati' is presented for ritual use.",
+   "uncertainties": [
+    "The mantra elements are preserved without semantic translation."
+   ],
+   "plain_english": "The mantra formula is: āpāgūṃretāgūṃsi jinvati."
+  },
+  {
+   "verse": 5288,
+   "rows": [
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "prescribed action",
+     "morph": "m.nom.sg.fut-pass-part √kṛ"
+    },
+    {
+     "surface": "pada+nyāsaḥ",
+     "gloss": "placing-of-steps",
+     "grounds": "compound indicating ritual placement of steps or syllables",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvitīyakaḥ",
+     "gloss": "second",
+     "grounds": "the second in sequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sequential ritual placement is prescribed as the second step?",
+   "premises": [
+    "A ritual placement is prescribed.",
+    "It is identified as the second.",
+    "The action is to be performed."
+   ],
+   "inference": "The second ritual placement is to be performed.",
+   "uncertainties": [
+    "pada+nyāsaḥ may refer to placement of steps or syllables depending on context."
+   ],
+   "plain_english": "The second placement is to be performed."
+  },
+  {
+   "verse": 5289,
+   "rows": [
+    {
+     "surface": "pūjyamānaṃ",
+     "gloss": "being-worshipped",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg.pres-pass-part √pūj"
+    },
+    {
+     "surface": "catur+bāhuṃ",
+     "gloss": "four-armed",
+     "grounds": "compound describing form",
+     "morph": "compound"
+    },
+    {
+     "surface": "kirīṭinam",
+     "gloss": "crowned",
+     "grounds": "wearing a crown",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What physical attributes characterize the deity being worshipped?",
+   "premises": [
+    "The deity is being worshipped.",
+    "The deity is four-armed.",
+    "The deity is crowned."
+   ],
+   "inference": "The worshipped deity is characterized as four-armed and crowned.",
+   "uncertainties": [],
+   "plain_english": "One worships the four-armed, crowned deity."
+  },
+  {
+   "verse": 5290,
+   "rows": [
+    {
+     "surface": "vaśiṣṭha+gotra+sambhūtaṃ",
+     "gloss": "born-in-vaśiṣṭha-lineage",
+     "grounds": "compound indicating lineage origin",
+     "morph": "compound"
+    },
+    {
+     "surface": "jamadagni+arṣikaṃ",
+     "gloss": "having-jamadagni-as-seer",
+     "grounds": "compound indicating associated seer",
+     "morph": "compound"
+    },
+    {
+     "surface": "kujam",
+     "gloss": "mars",
+     "grounds": "planetary deity Kuja",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What lineage and seer associations are attributed to the deity Kuja?",
+   "premises": [
+    "Kuja is named.",
+    "He is associated with the Vaśiṣṭha lineage.",
+    "He is associated with the seer Jamadagni."
+   ],
+   "inference": "Kuja is identified as born in the Vaśiṣṭha lineage and having Jamadagni as seer.",
+   "uncertainties": [],
+   "plain_english": "Kuja, born in the lineage of Vaśiṣṭha and having Jamadagni as seer."
+  },
+  {
+   "verse": 5291,
+   "rows": [
+    {
+     "surface": "avantī+deśa+sambhūtaṃ",
+     "gloss": "born-in-avanti-land",
+     "grounds": "compound indicating place of origin",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(gerund) √dhyai"
+    },
+    {
+     "surface": "devam",
+     "gloss": "god",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "How should the deity born in the Avanti land be approached in worship?",
+   "premises": [
+    "The deity is described as born in the Avanti land.",
+    "Meditation on the deity is prescribed.",
+    "Worship follows meditation."
+   ],
+   "inference": "Having meditated on the god born in the Avanti land, one should worship him.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the god born in the land of Avanti, one should worship him."
+  },
+  {
+   "verse": 5292,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "prior ritual act of invocation",
+     "morph": "(gerund) √vah"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What ritual sequence must precede worship in that context?",
+   "premises": [
+    "The context is specified as there.",
+    "Invocation is performed first.",
+    "Worship is prescribed afterward."
+   ],
+   "inference": "In that context one should invoke and then worship.",
+   "uncertainties": [],
+   "plain_english": "There, having invoked him, one should worship."
+  },
+  {
+   "verse": 5293,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "name of the meter or mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūḥ",
+     "gloss": "earth",
+     "grounds": "sacred utterance or realm",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What meter, sacred utterance, and deity are specified in this context?",
+   "premises": [
+    "Gāyatrī is named.",
+    "Bhūḥ is named.",
+    "A deity is specified."
+   ],
+   "inference": "Gāyatrī, Bhūḥ, and the deity are specified for this context.",
+   "uncertainties": [
+    "The precise ritual role of bhūḥ in this verse is context-dependent."
+   ],
+   "plain_english": "Gāyatrī, Bhūḥ, and the deity are specified."
+  },
+  {
+   "verse": 5294,
+   "rows": [
+    {
+     "surface": "saprathāḥ",
+     "gloss": "saprathāḥ",
+     "grounds": "mantra term preserved as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apanaḥ",
+     "gloss": "apanaḥ",
+     "grounds": "mantra term preserved as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śośucadagham",
+     "gloss": "śośucadagham",
+     "grounds": "mantra term preserved as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula is given for recitation in this section?",
+   "premises": [
+    "A specific mantra sequence is presented.",
+    "The terms form a ritual formula.",
+    "The formula is preserved for use."
+   ],
+   "inference": "The mantra formula 'saprathāḥ apanaḥ śośucadagham' is given for ritual use.",
+   "uncertainties": [
+    "The mantra elements are preserved without semantic translation."
+   ],
+   "plain_english": "The mantra formula is: saprathāḥ apanaḥ śośucadagham."
+  },
+  {
+   "verse": 5295,
+   "rows": [
+    {
+     "surface": "kuja+prītyai",
+     "gloss": "for-pleasing-mars",
+     "grounds": "dative compound indicating purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "japa+arthaṃ",
+     "gloss": "for-recitation",
+     "grounds": "compound indicating purpose of recitation",
+     "morph": "compound"
+    },
+    {
+     "surface": "viniyojanam",
+     "gloss": "application",
+     "grounds": "ritual assignment of the mantra",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual application is assigned to the recitation for pleasing Mars?",
+   "premises": [
+    "The purpose is to please Mars.",
+    "The act is recitation.",
+    "A ritual application is stated."
+   ],
+   "inference": "The recitation is ritually applied for the purpose of pleasing Mars.",
+   "uncertainties": [],
+   "plain_english": "The application is for recitation for the purpose of pleasing Mars."
+  },
+  {
+   "verse": 5296,
+   "rows": [
+    {
+     "surface": "go+jihvām",
+     "gloss": "cow-tongue-plant",
+     "grounds": "compound naming a plant",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-hold",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act √dhṛ"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "regularly or constantly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhauma+vāre",
+     "gloss": "on-tuesday",
+     "grounds": "locative compound indicating Mars's day",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogikaḥ",
+     "gloss": "sick-person",
+     "grounds": "one afflicted by illness",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remedial practice should a sick person perform on Tuesday?",
+   "premises": [
+    "The cow-tongue plant is to be held.",
+    "The practice is done regularly on Tuesday.",
+    "The practitioner is a sick person."
+   ],
+   "inference": "A sick person should regularly hold the cow-tongue plant on Tuesday.",
+   "uncertainties": [
+    "The exact manner of holding the plant is not specified."
+   ],
+   "plain_english": "A sick person should always hold the cow-tongue plant on Tuesday."
+  },
+  {
+   "verse": 5297,
+   "rows": [
+    {
+     "surface": "ripavaḥ",
+     "gloss": "enemies",
+     "grounds": "hostile forces",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "netra",
+     "gloss": "eye",
+     "grounds": "part of a descriptive compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chāyā",
+     "gloss": "shadow",
+     "grounds": "part of a descriptive compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "part of a descriptive compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sannibhāḥ",
+     "gloss": "resembling",
+     "grounds": "similar in appearance",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the enemies described in terms of their fiery appearance?",
+   "premises": [
+    "Enemies are the subject.",
+    "They are compared to eye, shadow, and fire.",
+    "They resemble that fiery appearance."
+   ],
+   "inference": "The enemies are described as resembling the shadow of eyes like fire.",
+   "uncertainties": [
+    "The compound netra-chāyā-agni-sannibhāḥ is compact and its exact imagery is interpretive."
+   ],
+   "plain_english": "The enemies resemble the fiery shadow of eyes."
+  },
+  {
+   "verse": 5298,
+   "rows": [
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "prescribed",
+     "grounds": "enjoined or indicated",
+     "morph": "n.nom.sg.past-pass-part √diś"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agniḥ",
+     "gloss": "fire",
+     "grounds": "fire deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuja+tuṣṭaye",
+     "gloss": "for-satisfaction-of-mars",
+     "grounds": "dative compound indicating purpose",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which deity is prescribed for the satisfaction of Mars?",
+   "premises": [
+    "A prescription is stated.",
+    "The god Agni is named.",
+    "The purpose is the satisfaction of Mars."
+   ],
+   "inference": "The god Agni is prescribed for the satisfaction of Mars.",
+   "uncertainties": [],
+   "plain_english": "The god Agni is prescribed for the satisfaction of Mars."
+  },
+  {
+   "verse": 5299,
+   "rows": [
+    {
+     "surface": "haryanaḥ",
+     "gloss": "haryanaḥ",
+     "grounds": "mantra term or epithet preserved as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What single mantra term is given at this point in the sequence?",
+   "premises": [
+    "A single term is presented.",
+    "It appears as part of the ritual sequence.",
+    "The term is preserved as given."
+   ],
+   "inference": "The term 'haryanaḥ' is given as a mantra element in this sequence.",
+   "uncertainties": [
+    "The term is preserved without semantic translation."
+   ],
+   "plain_english": "The term is: haryanaḥ."
+  }
+ ]
+}

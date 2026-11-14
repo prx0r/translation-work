@@ -1,0 +1,1011 @@
+{
+ "song": "mukta-m0-p313",
+ "items": [
+  {
+   "verse": 7801,
+   "rows": [
+    {
+     "surface": "pūjyā",
+     "gloss": "worthy-of-worship",
+     "grounds": "to be honored in ritual",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "manmathādyā",
+     "gloss": "manmatha-and-others",
+     "grounds": "Manmatha and similar deities",
+     "morph": "compound=manmatha+ādi, m.nom.pl"
+    },
+    {
+     "surface": "madoddhatāḥ",
+     "gloss": "intoxication-arrogant",
+     "grounds": "uplifted by intoxication or pride",
+     "morph": "compound=mada+uddhata, m.nom.pl"
+    }
+   ],
+   "question": "Which deities beginning with Manmatha deserve ritual worship in this arrangement?",
+   "premises": [
+    "Manmatha and others are named as objects of worship",
+    "They are described as uplifted by intoxication",
+    "They are declared worthy of worship"
+   ],
+   "inference": "Manmatha and associated deities, though intoxicated with pride, are to be worshipped.",
+   "uncertainties": [],
+   "plain_english": "Manmatha and the other deities, proud and intoxicated, are worthy of worship."
+  },
+  {
+   "verse": 7802,
+   "rows": [
+    {
+     "surface": "patrasaṃsthā",
+     "gloss": "petal-situated",
+     "grounds": "located on the petals",
+     "morph": "compound=patra+saṃstha, f.nom.pl"
+    },
+    {
+     "surface": "mātaras",
+     "gloss": "mothers",
+     "grounds": "the mother goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadagre",
+     "gloss": "their-front",
+     "grounds": "in front of them",
+     "morph": "compound=tad+agra, n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "number eight",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavāḥ",
+     "gloss": "bhairavas",
+     "grounds": "the eight Bhairavas",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where are the Mothers and the eight Bhairavas positioned in the ritual diagram?",
+   "premises": [
+    "The Mothers are situated on the petals",
+    "Eight Bhairavas are also included",
+    "The Bhairavas are placed in front of them"
+   ],
+   "inference": "The Mothers occupy the petals while the eight Bhairavas stand in front of them.",
+   "uncertainties": [],
+   "plain_english": "The Mothers are situated on the petals, and in front of them are the eight Bhairavas."
+  },
+  {
+   "verse": 7803,
+   "rows": [
+    {
+     "surface": "brāhmyādyā",
+     "gloss": "brahmi-and-others",
+     "grounds": "Brahmi and the other Mothers",
+     "morph": "compound=brāhmī+ādi, f.nom.pl"
+    },
+    {
+     "surface": "hrasvādyā",
+     "gloss": "hrasva-and-others",
+     "grounds": "Hrasva and the other forms",
+     "morph": "compound=hrasvā+ādi, f.nom.pl"
+    },
+    {
+     "surface": "bhairavā",
+     "gloss": "bhairavas",
+     "grounds": "the Bhairavas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific groups of Mothers and Bhairavas are included in this worship?",
+   "premises": [
+    "The Mothers beginning with Brahmi are included",
+    "The forms beginning with Hrasva are included",
+    "The Bhairavas are also included"
+   ],
+   "inference": "The worship includes Brahmi and the other Mothers, Hrasva and related forms, and the Bhairavas.",
+   "uncertainties": [
+    "The exact identity of hrasvādyā is not fully specified here"
+   ],
+   "plain_english": "Brahmi and the other Mothers, Hrasva and the others, and also the Bhairavas are included."
+  },
+  {
+   "verse": 7804,
+   "rows": [
+    {
+     "surface": "ādarśa",
+     "gloss": "mirror",
+     "grounds": "ritual mirror offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ratnadīpaṃ",
+     "gloss": "jewel-lamp",
+     "grounds": "lamp adorned with jewels",
+     "morph": "compound=ratna+dīpa, m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyajanaṃ",
+     "gloss": "fan",
+     "grounds": "ritual fan",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "then in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "next",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual implements are offered in sequence after the preceding items?",
+   "premises": [
+    "A mirror is mentioned",
+    "A jeweled lamp and a fan are mentioned",
+    "The sequence continues thereafter"
+   ],
+   "inference": "The offerings proceed with a mirror, a jeweled lamp, and a fan in order.",
+   "uncertainties": [],
+   "plain_english": "Then come a mirror, a jeweled lamp, and a fan."
+  },
+  {
+   "verse": 7805,
+   "rows": [
+    {
+     "surface": "vāso",
+     "gloss": "garment",
+     "grounds": "cloth offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mālya",
+     "gloss": "garland",
+     "grounds": "flower garland",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātapatra",
+     "gloss": "parasol",
+     "grounds": "ceremonial umbrella",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ābharaṇa",
+     "gloss": "ornament",
+     "grounds": "jewelry or adornment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aśuka",
+     "gloss": "cloth",
+     "grounds": "fine cloth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śālikaiḥ",
+     "gloss": "rice-grains",
+     "grounds": "with grains of rice",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which additional offerings accompany the ritual sequence described here?",
+   "premises": [
+    "Garment, garland, parasol, ornament, and cloth are listed",
+    "Rice grains are included as well",
+    "These items form part of the offering set"
+   ],
+   "inference": "The ritual offerings include garments, garlands, a parasol, ornaments, cloth, and rice grains.",
+   "uncertainties": [],
+   "plain_english": "Garments, garlands, a parasol, ornaments, cloth, and rice grains are offered."
+  },
+  {
+   "verse": 7806,
+   "rows": [
+    {
+     "surface": "vāmahastais",
+     "gloss": "left-hands",
+     "grounds": "with their left hands",
+     "morph": "compound=vāma+hasta, m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśāḥ",
+     "gloss": "god-lords",
+     "grounds": "the lords among the gods",
+     "morph": "compound=deva+īśa, m.nom.pl"
+    },
+    {
+     "surface": "khaḍgapāṇayaḥ",
+     "gloss": "sword-in-hand",
+     "grounds": "holding swords in hand",
+     "morph": "compound=khaḍga+pāṇi, m.nom.pl"
+    }
+   ],
+   "question": "How are the lordly deities depicted holding weapons in this visualization?",
+   "premises": [
+    "The lordly deities are the subjects",
+    "They hold swords in their hands",
+    "The left hands are specifically mentioned"
+   ],
+   "inference": "The lordly deities are visualized holding swords in their left hands.",
+   "uncertainties": [],
+   "plain_english": "The lordly deities hold swords in their left hands."
+  },
+  {
+   "verse": 7807,
+   "rows": [
+    {
+     "surface": "vīṇāñ",
+     "gloss": "lute",
+     "grounds": "the musical instrument vina",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "catuḥpatre",
+     "gloss": "four-petal",
+     "grounds": "in the four-petaled area",
+     "morph": "compound=catur+patra, n.loc.sg"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "thereafter",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "perform worship",
+     "morph": "3.sg.optative-active, root arc"
+    }
+   ],
+   "question": "What object should be worshipped in the four-petaled region of the diagram?",
+   "premises": [
+    "A lute is specified as the object",
+    "The location is the four-petaled area",
+    "Worship is enjoined thereafter"
+   ],
+   "inference": "One should worship the lute in the four-petaled region.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship the lute in the four-petaled area."
+  },
+  {
+   "verse": 7808,
+   "rows": [
+    {
+     "surface": "alaṃkṛtabhujā",
+     "gloss": "adorned-arms",
+     "grounds": "having decorated arms",
+     "morph": "compound=alaṃkṛta+bhuja, f.nom.sg"
+    },
+    {
+     "surface": "raktā",
+     "gloss": "red",
+     "grounds": "red in color",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "the second goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cendusannibhhā",
+     "gloss": "moon-resembling",
+     "grounds": "resembling the moon",
+     "morph": "compound=cendu+sannibha, f.nom.sg"
+    }
+   ],
+   "question": "How is the second goddess described in appearance within this meditation?",
+   "premises": [
+    "The second goddess is the subject",
+    "She has adorned arms and is red",
+    "She resembles the moon"
+   ],
+   "inference": "The second goddess is red, has adorned arms, and resembles the moon.",
+   "uncertainties": [
+    "The compound cendusannibhhā may reflect a textual spelling variant"
+   ],
+   "plain_english": "The second goddess has adorned arms, is red, and resembles the moon."
+  },
+  {
+   "verse": 7809,
+   "rows": [
+    {
+     "surface": "pāśa",
+     "gloss": "noose",
+     "grounds": "ritual noose",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṅkuśa",
+     "gloss": "goad",
+     "grounds": "ritual goad",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarojāni",
+     "gloss": "lotuses",
+     "grounds": "lotus flowers",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yonimudrāñ",
+     "gloss": "yoni-gesture",
+     "grounds": "the yoni hand gesture",
+     "morph": "compound=yoni+mudrā, f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhratī",
+     "gloss": "bearing",
+     "grounds": "holding or displaying",
+     "morph": "f.nom.sg.present-participle-active, root bhṛ"
+    }
+   ],
+   "question": "Which attributes does the goddess bear in her hands during meditation?",
+   "premises": [
+    "A noose and a goad are named",
+    "Lotuses and the yoni gesture are named",
+    "She is described as bearing them"
+   ],
+   "inference": "The goddess bears a noose, a goad, lotuses, and the yoni gesture.",
+   "uncertainties": [],
+   "plain_english": "She bears a noose, a goad, lotuses, and the yoni gesture."
+  },
+  {
+   "verse": 7810,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātavyā",
+     "gloss": "to-be-meditated",
+     "grounds": "fit to be visualized",
+     "morph": "f.nom.sg.future-passive-participle, root dhyai"
+    },
+    {
+     "surface": "mantrisattamaiḥ",
+     "gloss": "mantra-best",
+     "grounds": "by the best practitioners of mantra",
+     "morph": "compound=mantrin+sattama, m.ins.pl"
+    }
+   ],
+   "question": "Who is enjoined to meditate upon the goddess described above?",
+   "premises": [
+    "The goddess is to be meditated upon",
+    "The agents are the best among mantra practitioners",
+    "The instruction continues the prior description"
+   ],
+   "inference": "The best mantra practitioners should meditate upon this goddess.",
+   "uncertainties": [],
+   "plain_english": "And the best of mantra practitioners should meditate upon her."
+  },
+  {
+   "verse": 7811,
+   "rows": [
+    {
+     "surface": "gaṇeśa",
+     "gloss": "ganesha",
+     "grounds": "the deity Ganesha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durga",
+     "grounds": "the goddess Durga",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaṭuka",
+     "gloss": "vatuka",
+     "grounds": "the deity Vatuka",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣetrapālān",
+     "gloss": "field-guardians",
+     "grounds": "the Kshetrapala guardians",
+     "morph": "compound=kṣetra+pāla, m.acc.pl"
+    },
+    {
+     "surface": "bahis",
+     "gloss": "outside",
+     "grounds": "in the outer area",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "perform worship",
+     "morph": "3.sg.optative-active, root yaj"
+    }
+   ],
+   "question": "Which deities should be worshipped in the outer area of the ritual space?",
+   "premises": [
+    "Ganesha, Durga, Vatuka, and the Kshetrapalas are named",
+    "The location specified is outside",
+    "Worship of them is enjoined"
+   ],
+   "inference": "One should worship Ganesha, Durga, Vatuka, and the Kshetrapalas outside.",
+   "uncertainties": [],
+   "plain_english": "One should worship Ganesha, Durga, Vatuka, and the Kshetrapalas outside."
+  },
+  {
+   "verse": 7812,
+   "rows": [
+    {
+     "surface": "padadvayam",
+     "gloss": "two-words",
+     "grounds": "a pair of words or phrases",
+     "morph": "compound=pada+dvaya, n.nom.sg"
+    },
+    {
+     "surface": "uttarānvayi",
+     "gloss": "connected-to-following",
+     "grounds": "syntactically linked to what follows",
+     "morph": "compound=uttara+anvayin, n.nom.sg"
+    }
+   ],
+   "question": "How do the two words in this line relate to the following instruction?",
+   "premises": [
+    "Two words are identified",
+    "They are described as connected to what follows",
+    "The construction bridges to the next statement"
+   ],
+   "inference": "The pair of words should be read together with the following instruction.",
+   "uncertainties": [],
+   "plain_english": "These two words are to be connected with what follows."
+  },
+  {
+   "verse": 7813,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "after performing",
+     "morph": "(indecl., absolutive), root kṛ"
+    },
+    {
+     "surface": "brāhmaṇārādhanan",
+     "gloss": "brahmin-worship",
+     "grounds": "honoring of brahmins",
+     "morph": "compound=brāhmaṇa+ārādhana, n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory act must be completed before the subsequent oblations?",
+   "premises": [
+    "The worship of brahmins is specified",
+    "It is to be performed first",
+    "The action precedes the next ritual step"
+   ],
+   "inference": "One must first perform the worship of brahmins before proceeding.",
+   "uncertainties": [],
+   "plain_english": "Having likewise performed the worship of brahmins,"
+  },
+  {
+   "verse": 7814,
+   "rows": [
+    {
+     "surface": "juhuyāj",
+     "gloss": "one-should-offer",
+     "grounds": "perform a fire oblation",
+     "morph": "3.sg.optative-active, root hu"
+    },
+    {
+     "surface": "jātī",
+     "gloss": "jasmine",
+     "grounds": "jasmine flowers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mallikā",
+     "gloss": "mallika",
+     "grounds": "mallika jasmine flowers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāgakeśaraiḥ",
+     "gloss": "naga-filaments",
+     "grounds": "with nagakesara flowers",
+     "morph": "compound=nāga+keśara, m.ins.pl"
+    }
+   ],
+   "question": "Which flowers should be used as oblations in the fire ritual described here?",
+   "premises": [
+    "A fire oblation is enjoined",
+    "Jasmine and mallika are specified",
+    "Nagakesara flowers are also specified"
+   ],
+   "inference": "One should offer oblations with jasmine, mallika, and nagakesara flowers.",
+   "uncertainties": [],
+   "plain_english": "One should offer oblations with jasmine, mallika, and nagakesara flowers."
+  },
+  {
+   "verse": 7815,
+   "rows": [
+    {
+     "surface": "paṅkajaiḥ",
+     "gloss": "with-lotuses",
+     "grounds": "using lotus flowers",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "svāṃ",
+     "gloss": "one's-own",
+     "grounds": "belonging to oneself",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "prosperity",
+     "grounds": "wealth and auspicious fortune",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "attains or gains",
+     "morph": "3.sg.present-active, root āp"
+    },
+    {
+     "surface": "anuttamām",
+     "gloss": "unsurpassed",
+     "grounds": "highest, without superior",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What result follows from offering lotuses in the prescribed fire ritual?",
+   "premises": [
+    "Lotuses are used in the oblation",
+    "The practitioner obtains prosperity",
+    "The prosperity attained is unsurpassed"
+   ],
+   "inference": "Offering lotuses brings the practitioner unsurpassed prosperity.",
+   "uncertainties": [],
+   "plain_english": "By offering lotuses, one obtains one's own unsurpassed prosperity."
+  },
+  {
+   "verse": 7816,
+   "rows": [
+    {
+     "surface": "japā",
+     "gloss": "japa-flower",
+     "grounds": "hibiscus flower",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bandhūka",
+     "gloss": "bandhuka-flower",
+     "grounds": "bandhuka flower",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bakulair",
+     "gloss": "bakula-flowers",
+     "grounds": "with bakula flowers",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vajravṛkṣasamudbhavaiḥ",
+     "gloss": "vajra-tree-born",
+     "grounds": "produced from the vajra tree",
+     "morph": "compound=vajra+vṛkṣa+samudbhava, m.ins.pl"
+    }
+   ],
+   "question": "Which additional flowers are prescribed for oblations in this ritual context?",
+   "premises": [
+    "Japa and bandhuka flowers are named",
+    "Bakula flowers are named",
+    "Flowers born from the vajra tree are named"
+   ],
+   "inference": "The oblations may use japa, bandhuka, bakula, and flowers from the vajra tree.",
+   "uncertainties": [
+    "The exact botanical identity of vajravṛkṣa is uncertain"
+   ],
+   "plain_english": "With japa, bandhuka, bakula, and flowers born from the vajra tree,"
+  },
+  {
+   "verse": 7817,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "perform a fire oblation",
+     "morph": "3.sg.optative-active, root hu"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "for that practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvasiddhir",
+     "gloss": "all-accomplishment",
+     "grounds": "attainment of all powers",
+     "morph": "compound=sarva+siddhi, f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.present-active, root bhū"
+    },
+    {
+     "surface": "alam",
+     "gloss": "fully",
+     "grounds": "completely, abundantly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What comprehensive result arises for the practitioner who performs these oblations?",
+   "premises": [
+    "The practitioner performs the prescribed oblation",
+    "All accomplishment is named as the result",
+    "The result is said to arise fully"
+   ],
+   "inference": "Performing these oblations brings the practitioner complete attainment of all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "If one offers these, complete accomplishment of all powers arises for that person."
+  },
+  {
+   "verse": 7818,
+   "rows": [
+    {
+     "surface": "juhuyād",
+     "gloss": "one-should-offer",
+     "grounds": "perform a fire oblation",
+     "morph": "3.sg.optative-active, root hu"
+    },
+    {
+     "surface": "vṛṣṭikāmas",
+     "gloss": "rain-desiring",
+     "grounds": "one who desires rain",
+     "morph": "compound=vṛṣṭi+kāma, m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a specific case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍūcībhir",
+     "gloss": "with-guduchi",
+     "grounds": "using guduchi plants",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "jvaraṃ",
+     "gloss": "fever",
+     "grounds": "illness of fever",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "takes away",
+     "morph": "3.sg.optative-active, root hṛ"
+    }
+   ],
+   "question": "What specific benefits result from oblations made with guduchi plants?",
+   "premises": [
+    "Oblations with guduchi are prescribed",
+    "One who desires rain may perform them",
+    "The oblation removes fever"
+   ],
+   "inference": "Oblations with guduchi can bring rain for one who desires it and remove fever.",
+   "uncertainties": [],
+   "plain_english": "One who desires rain should offer oblations with guduchi, and it removes fever."
+  },
+  {
+   "verse": 7819,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "annavāñ",
+     "gloss": "food-possessing",
+     "grounds": "endowed with food",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.present-middle, root jan"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "without-delay",
+     "grounds": "quickly, soon",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What further benefit quickly accrues from the previously mentioned oblation?",
+   "premises": [
+    "The oblation continues to yield results",
+    "The practitioner becomes endowed with food",
+    "This occurs without delay"
+   ],
+   "inference": "The practitioner quickly becomes endowed with food.",
+   "uncertainties": [],
+   "plain_english": "And one quickly becomes endowed with food."
+  },
+  {
+   "verse": 7820,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "that which",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "previously stated",
+     "morph": "n.nom.sg.past-passive-participle, root vac"
+    },
+    {
+     "surface": "trisvādvaktaṃ",
+     "gloss": "three-sweet-offering",
+     "grounds": "offering of three sweet substances",
+     "morph": "compound=tri+svādu+akta, n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "that same thing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be used",
+     "morph": "3.sg.optative-active, root bhū"
+    }
+   ],
+   "question": "What is the prescribed nature of the three-sweet offering mentioned here?",
+   "premises": [
+    "A three-sweet offering has been declared",
+    "The statement refers back to that declaration",
+    "It affirms that it should be so"
+   ],
+   "inference": "The offering should be the three-sweet mixture as previously declared.",
+   "uncertainties": [
+    "The exact three sweet substances are not specified in this verse"
+   ],
+   "plain_english": "What has been declared as the three-sweet offering should indeed be that."
+  },
+  {
+   "verse": 7821,
+   "rows": [
+    {
+     "surface": "nimbaprasūnahomāc",
+     "gloss": "nimba-flower-oblation",
+     "grounds": "from oblation of nimba flowers",
+     "morph": "compound=nimba+prasūna+homa, m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kamalāṃ",
+     "gloss": "fortune",
+     "grounds": "prosperity, associated with Kamala",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāñchitāṃ",
+     "gloss": "desired",
+     "grounds": "wished for",
+     "morph": "f.acc.sg.past-passive-participle, root vāñch"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-obtains",
+     "grounds": "one may gain",
+     "morph": "3.sg.optative-active, root labh"
+    }
+   ],
+   "question": "What desired benefit is gained through oblations of nimba flowers?",
+   "premises": [
+    "An oblation of nimba flowers is performed",
+    "The desired fortune is the object sought",
+    "The practitioner obtains that fortune"
+   ],
+   "inference": "Oblation with nimba flowers enables one to obtain the desired fortune.",
+   "uncertainties": [],
+   "plain_english": "And from an oblation of nimba flowers, one obtains the desired fortune."
+  },
+  {
+   "verse": 7822,
+   "rows": [
+    {
+     "surface": "candana",
+     "gloss": "sandalwood",
+     "grounds": "sandal paste or wood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aguru",
+     "gloss": "agarwood",
+     "grounds": "fragrant agarwood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "camphor substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rocanā",
+     "gloss": "yellow-pigment",
+     "grounds": "bright yellow pigment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṃkumair",
+     "gloss": "saffron",
+     "grounds": "with saffron",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fragrant and coloring substances are listed for preparing the ritual mark?",
+   "premises": [
+    "Sandalwood, agarwood, and camphor are named",
+    "Yellow pigment and saffron are named",
+    "These substances are grouped together"
+   ],
+   "inference": "The preparation includes sandalwood, agarwood, camphor, yellow pigment, and saffron.",
+   "uncertainties": [],
+   "plain_english": "With sandalwood, agarwood, camphor, yellow pigment, and also saffron,"
+  },
+  {
+   "verse": 7823,
+   "rows": [
+    {
+     "surface": "aṣṭābhir",
+     "gloss": "with-eight",
+     "grounds": "by means of eight",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "japaitair",
+     "gloss": "recitations",
+     "grounds": "with mantra recitations",
+     "morph": "m.ins.pl.past-passive-participle, root jap"
+    },
+    {
+     "surface": "etais",
+     "gloss": "with-these",
+     "grounds": "with these substances",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "ritual mark on the forehead",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "janamohanam",
+     "gloss": "people-enchanting",
+     "grounds": "capable of enchanting people",
+     "morph": "compound=jana+mohana, n.acc.sg"
+    }
+   ],
+   "question": "What effect does a forehead mark prepared with these substances and recitations produce?",
+   "premises": [
+    "The listed substances are used",
+    "Eight recitations are performed with them",
+    "The resulting mark enchants people"
+   ],
+   "inference": "A forehead mark prepared with these substances and eight recitations enchants people.",
+   "uncertainties": [
+    "The exact referent of aṣṭābhir japaitair is somewhat compressed"
+   ],
+   "plain_english": "With these, empowered by eight recitations, the forehead mark enchants people."
+  },
+  {
+   "verse": 7824,
+   "rows": [
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty or hesitation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What degree of certainty is asserted regarding the efficacy of the preceding rite?",
+   "premises": [
+    "The preceding rite has been described",
+    "The term doubt is negated in effect by assertion",
+    "No uncertainty remains about the result"
+   ],
+   "inference": "There is no doubt about the efficacy of the preceding rite.",
+   "uncertainties": [],
+   "plain_english": "There is no doubt."
+  }
+ ]
+}

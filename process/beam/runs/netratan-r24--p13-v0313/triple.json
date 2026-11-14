@@ -1,0 +1,447 @@
+{
+ "song": "net-p13",
+ "items": [
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "pañcagavyena",
+     "gloss": "with-five-cow-products",
+     "grounds": "instrumental substance used in the rite",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference to the ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrayuktena",
+     "gloss": "joined-with-mantra",
+     "grounds": "qualifies the substance as empowered by mantra",
+     "morph": "compound"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act √kṛ (caus.)"
+    }
+   ],
+   "question": "What alternative mantra-empowered substance may be used to perform the prescribed rite?",
+   "premises": [
+    "The five cow-products are named as a ritual substance.",
+    "The particle vā marks an alternative option.",
+    "The substance is specified as joined with mantra.",
+    "An agent should cause the rite to be performed with it."
+   ],
+   "inference": "The rite may alternatively be performed using the five cow-products empowered by mantra.",
+   "uncertainties": [],
+   "plain_english": "Or there one should have the rite performed with the five cow-products joined with mantra."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "refers to what remains of the procedure or material",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What status is assigned to the remainder in the ritual procedure?",
+   "premises": [
+    "A remainder is explicitly named.",
+    "The optative bhavet assigns it a resulting state."
+   ],
+   "inference": "The remainder is to be treated as what remains in the prescribed manner.",
+   "uncertainties": [
+    "The exact referent of śeṣaḥ depends on the preceding ritual context."
+   ],
+   "plain_english": "The remainder should be as prescribed."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "ityādinā",
+     "gloss": "by-this-and-so-forth",
+     "grounds": "indicates an illustrative or abbreviated formula",
+     "morph": "compound"
+    },
+    {
+     "surface": "granthena",
+     "gloss": "by-text",
+     "grounds": "refers to the scriptural or instructional passage",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "By what kind of textual formulation is the preceding instruction conveyed?",
+   "premises": [
+    "The phrase ityādinā signals an abbreviated or exemplary formulation.",
+    "The formulation is located in a grantha, a text or passage."
+   ],
+   "inference": "The instruction is conveyed by a text expressed in an 'and so forth' formulation.",
+   "uncertainties": [
+    "The full extent of the referenced text is not specified here."
+   ],
+   "plain_english": "This is stated by the text beginning with these words and so forth."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "kṛtsnaḥ",
+     "gloss": "whole",
+     "grounds": "qualifies the group as complete",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṛsamūhaḥ",
+     "gloss": "mother-group",
+     "grounds": "names the collective of Mothers",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṣṭaḥ",
+     "gloss": "pleased",
+     "grounds": "states the resulting disposition of the group",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "asserts the outcome of the rite",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "from-that-instant",
+     "grounds": "specifies immediate timing of the result",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What immediate effect does the rite produce on the entire group of Mothers?",
+   "premises": [
+    "The whole group of Mothers is the subject.",
+    "The group becomes pleased.",
+    "The result occurs from that very instant."
+   ],
+   "inference": "The entire group of Mothers becomes pleased immediately as a result of the rite.",
+   "uncertainties": [],
+   "plain_english": "But the whole group of Mothers becomes pleased at that very instant."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "sitaraktapītakṛṣṇaiḥ",
+     "gloss": "white-red-yellow-black",
+     "grounds": "lists the colors of the offerings",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "names flowers as ritual offerings",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "nānāvidhaiḥ",
+     "gloss": "of-various-kinds",
+     "grounds": "qualifies the flowers as diverse",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connects this offering to the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of flowers are specified as offerings in this ritual sequence?",
+   "premises": [
+    "Flowers are named as offerings.",
+    "The flowers are white, red, yellow, and black.",
+    "The flowers are of various kinds."
+   ],
+   "inference": "The rite employs diverse flowers in white, red, yellow, and black colors.",
+   "uncertainties": [],
+   "plain_english": "Likewise, with various flowers that are white, red, yellow, and black."
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "bhūrimadyaiḥ",
+     "gloss": "with-abundant-liquors",
+     "grounds": "names plentiful intoxicating offerings",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the list of offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃsaiḥ",
+     "gloss": "with-meats",
+     "grounds": "names meat as a ritual offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "raktapuṣpavilepanaiḥ",
+     "gloss": "with-red-flower-unguents",
+     "grounds": "names anointing substances made with red flowers",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which additional offerings accompany the flowers in the propitiation rite?",
+   "premises": [
+    "Abundant liquors are included as offerings.",
+    "Meats are included as offerings.",
+    "Unguents or anointings with red flowers are included."
+   ],
+   "inference": "The rite additionally employs abundant liquors, meats, and red-flower unguents.",
+   "uncertainties": [],
+   "plain_english": "Likewise, with abundant liquors, meats, and unguents of red flowers."
+  },
+  {
+   "verse": 319,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "demonstrative specifying the mantra; repeated for emphasis",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "repetition reinforces specificity",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "names the mantra as the operative means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ātratyena",
+     "gloss": "belonging-here",
+     "grounds": "identifies the mantra as the one proper to this context",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "restricts the means to that specific mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific mantra must be used as the operative means in this rite?",
+   "premises": [
+    "The mantra is indicated by repeated demonstratives.",
+    "The mantra is identified as belonging to this context.",
+    "The particle eva restricts the means to that mantra."
+   ],
+   "inference": "The rite must be performed with that very mantra belonging to this context.",
+   "uncertainties": [
+    "The exact wording of the mantra is not given in this verse."
+   ],
+   "plain_english": "With that very mantra, the one belonging to this context."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion or citation of a statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyākālaguṇottare",
+     "gloss": "in-rite-time-quality-excellent",
+     "grounds": "locates the statement in the named text or section",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣitāḥ",
+     "gloss": "characterized",
+     "grounds": "states that figures are described or marked",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rakṣodhipaḥ",
+     "gloss": "lord-of-rakshasas",
+     "grounds": "names a guardian or demonic lord figure",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirṛtiḥ",
+     "gloss": "nirriti",
+     "grounds": "names the deity Nirṛti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which figures are identified in the Kriyākālaguṇottara as being characterized in this context?",
+   "premises": [
+    "The statement is located in the Kriyākālaguṇottara.",
+    "Certain figures are said to be characterized there.",
+    "The lord of rakshasas and Nirṛti are named."
+   ],
+   "inference": "The Kriyākālaguṇottara characterizes the lord of rakshasas and Nirṛti in this context.",
+   "uncertainties": [
+    "The grammatical relation of lakṣitāḥ to the two named figures is compressed in this fragment."
+   ],
+   "plain_english": "Thus, in the Kriyākālaguṇottara, the lord of rakshasas and Nirṛti are characterized."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "devatāyoginībhūtādibhyaḥ",
+     "gloss": "to-deities-yoginis-beings-and-others",
+     "grounds": "names the recipients or targets as a grouped class",
+     "morph": "compound"
+    }
+   ],
+   "question": "To which classes of beings is the ritual action directed in this context?",
+   "premises": [
+    "Deities are included in the named group.",
+    "Yoginīs are included in the named group.",
+    "Bhūtas and others are included in the named group."
+   ],
+   "inference": "The action is directed to deities, yoginīs, bhūtas, and similar beings.",
+   "uncertainties": [
+    "The specific ritual action is supplied by the surrounding context."
+   ],
+   "plain_english": "To deities, yoginīs, bhūtas, and others."
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks citation or conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraivoktam",
+     "gloss": "there-indeed-said",
+     "grounds": "refers to what was stated in that very place; fused form with internal sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvoktavidhiḥ",
+     "gloss": "previously-stated-method",
+     "grounds": "names the method taught earlier",
+     "morph": "compound"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locates the application in the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "specifies the mantra as the operative means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "arcāhomādi",
+     "gloss": "worship-fire-offering-and-so-forth",
+     "grounds": "names worship, oblation, and related acts",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the previously stated method be applied in the present ritual context?",
+   "premises": [
+    "The method was stated in that very place.",
+    "That previously stated method is to be applied here.",
+    "The application involves worship, fire offering, and related acts performed with mantra."
+   ],
+   "inference": "Here one should apply the previously stated method through mantra in worship, fire offering, and related acts.",
+   "uncertainties": [],
+   "plain_english": "Thus it is said there itself: here the previously stated method applies, with mantra, for worship, fire offering, and so forth."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "mahānavamyāmeva",
+     "gloss": "on-great-ninth-only",
+     "grounds": "specifies the exclusive ritual occasion; fused form with internal sandhi",
+     "morph": "compound"
+    }
+   ],
+   "question": "On which exclusive occasion is the prescribed observance to be performed?",
+   "premises": [
+    "The great ninth day is named.",
+    "The particle eva restricts the occasion to that day alone."
+   ],
+   "inference": "The observance is to be performed only on the great ninth day.",
+   "uncertainties": [
+    "The specific observance is supplied by the surrounding context."
+   ],
+   "plain_english": "Only on the great ninth day."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "samāsaḥ",
+     "gloss": "in-brief",
+     "grounds": "signals a summary statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṅghaḥ",
+     "gloss": "assembly",
+     "grounds": "names the collective as an assembly",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṛyoginyādigaṇaḥ",
+     "gloss": "group-of-mothers-yoginis-and-others",
+     "grounds": "identifies the assembly as comprising Mothers, Yoginīs, and related beings",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the collective of Mothers, Yoginīs, and related beings summarized in this statement?",
+   "premises": [
+    "The statement is presented as a summary.",
+    "The collective is called an assembly.",
+    "The assembly consists of Mothers, Yoginīs, and others."
+   ],
+   "inference": "In brief, the collective is summarized as the assembly of Mothers, Yoginīs, and related beings.",
+   "uncertainties": [],
+   "plain_english": "In brief, it is the assembly, the group of Mothers, Yoginīs, and others."
+  }
+ ]
+}

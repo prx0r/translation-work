@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the ritual agent",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "vām",
+     "gloss": "you-two",
+     "grounds": "refers to the addressed pair Indra and Varuna",
+     "morph": "pron.acc.du"
+    },
+    {
+     "surface": "indrāvaruṇāv",
+     "gloss": "indra-varuna",
+     "grounds": "dual vocative addressing the divine pair",
+     "morph": "m.voc.du"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "locative indicating the ritual locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "snāmas",
+     "gloss": "we-bathe",
+     "grounds": "ritual bathing or laving in the fire context; first-person plural form",
+     "morph": "1.pl.pres.act (√snā)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "demonstrative pronoun resuming the relative subject",
+     "morph": "pron.m.acc.sg"
+    },
+    {
+     "surface": "vām",
+     "gloss": "you-two",
+     "grounds": "object of propitiation, referring again to Indra and Varuna",
+     "morph": "pron.acc.du"
+    },
+    {
+     "surface": "etenā",
+     "gloss": "by-this",
+     "grounds": "instrumental indicating the means of worship",
+     "morph": "pron.m.inst.sg"
+    },
+    {
+     "surface": "avayaje",
+     "gloss": "i-propitiate",
+     "grounds": "ritual act of worship directed to the divine pair",
+     "morph": "1.sg.pres.mid (ava-√yaj)"
+    }
+   ],
+   "question": "What ritual act performed in fire secures the propitiation of Indra and Varuna?",
+   "premises": [
+    "The verse addresses Indra and Varuna as a divine pair.",
+    "A ritual bathing in fire is performed for them.",
+    "The performer propitiates the pair by this act."
+   ],
+   "inference": "Therefore, bathing Indra and Varuna in fire constitutes the means by which the worshipper propitiates them.",
+   "uncertainties": [
+    "The precise ritual sense of snāmas in this fire context is not fully explicit."
+   ],
+   "plain_english": "O Indra and Varuna, whoever bathes you two in the fire—by this act I propitiate you two."
+  }
+ ]
+}

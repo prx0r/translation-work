@@ -1,0 +1,1084 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "measure term for a staff-length module",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhadaṇḍaṃ",
+     "gloss": "half-staff",
+     "grounds": "ardha+daṇḍa compound naming half measure",
+     "morph": "compound: ardha+daṇḍa; m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-staff",
+     "grounds": "dvi+daṇḍa compound naming double measure",
+     "morph": "compound: dvi+daṇḍa; m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridaṇḍakam",
+     "gloss": "three-staff",
+     "grounds": "tri+daṇḍaka compound naming triple measure",
+     "morph": "compound: tri+daṇḍaka; m.acc.sg"
+    }
+   ],
+   "question": "What alternative staff-length measures are permitted for the prescribed architectural element?",
+   "premises": [
+    "A staff measure is permitted",
+    "A half-staff measure is permitted",
+    "Two-staff and three-staff measures are permitted"
+   ],
+   "inference": "The element may be constructed using any of these four staff-length measures",
+   "uncertainties": [
+    "The specific architectural element measured is supplied by surrounding context"
+   ],
+   "plain_english": "It may be one staff, or half a staff, or two staffs, or three staffs in measure."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "caturmahānāsikopetaṃ",
+     "gloss": "with-four-great-noses",
+     "grounds": "catur+mahā+nāsikā+upeta compound describing four large nose projections",
+     "morph": "compound: catur+mahā+nāsikā+upeta; n.acc.sg"
+    },
+    {
+     "surface": "śikharāyatavṛttakam",
+     "gloss": "elongated-round-peak",
+     "grounds": "śikhara+āyata+vṛttaka compound describing peak shape",
+     "morph": "compound: śikhara+āyata+vṛttaka; n.acc.sg"
+    }
+   ],
+   "question": "What structural features define the form of the prescribed peak?",
+   "premises": [
+    "The form is equipped with four great noses",
+    "The peak is elongated and rounded"
+   ],
+   "inference": "The prescribed peak is characterized by four great nose projections and an elongated round shape",
+   "uncertainties": [],
+   "plain_english": "It should have four great nose projections and an elongated, rounded peak."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "kalyāṇasundaraṃ",
+     "gloss": "auspicious-beautiful",
+     "grounds": "kalyāṇa+sundara compound expressing auspicious beauty",
+     "morph": "compound: kalyāṇa+sundara; n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "renowned",
+     "grounds": "describes the form as well known",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadevārhakaṃ",
+     "gloss": "worthy-of-all-gods",
+     "grounds": "sarva+deva+arhaka compound indicating fitness for all deities",
+     "morph": "compound: sarva+deva+arhaka; n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative stating required result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What qualities must the completed form possess to be fit for worship?",
+   "premises": [
+    "The form should be auspicious and beautiful",
+    "The form should be renowned",
+    "The form should be worthy of all gods"
+   ],
+   "inference": "A properly completed form must be auspicious, renowned, and suitable for all deities",
+   "uncertainties": [],
+   "plain_english": "It should be auspicious and beautiful, renowned, and worthy of all the gods."
+  },
+  {
+   "verse": 854,
+   "rows": [
+    {
+     "surface": "lalāṭanāsikopetaṃ",
+     "gloss": "with-forehead-nose",
+     "grounds": "lalāṭa+nāsikā+upeta compound indicating a forehead nose feature",
+     "morph": "compound: lalāṭa+nāsikā+upeta; n.acc.sg"
+    },
+    {
+     "surface": "pārśvayor",
+     "gloss": "on-both-sides",
+     "grounds": "locates features on the two sides",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-twice-born",
+     "grounds": "dvija+sattama compound used as vocative address",
+     "morph": "compound: dvija+sattama; m.voc.sg"
+    }
+   ],
+   "question": "What lateral feature is prescribed for the structure, O best twice-born?",
+   "premises": [
+    "The structure is equipped with a forehead nose",
+    "This feature is placed on both sides",
+    "The instruction is addressed to the best twice-born"
+   ],
+   "inference": "A forehead-nose feature must be provided on both sides of the structure",
+   "uncertainties": [
+    "The exact architectural referent of the forehead nose depends on context"
+   ],
+   "plain_english": "O best of the twice-born, it should be equipped with a forehead-nose feature on both sides."
+  },
+  {
+   "verse": 855,
+   "rows": [
+    {
+     "surface": "talaṃ",
+     "gloss": "base",
+     "grounds": "names the base or level under discussion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prativimānānāṃ",
+     "gloss": "of-subsidiary-shrines",
+     "grounds": "prati+vimāna compound referring to subsidiary shrines",
+     "morph": "compound: prati+vimāna; m.gen.pl"
+    },
+    {
+     "surface": "diṅmūrtim",
+     "gloss": "directional-image",
+     "grounds": "diś+mūrti compound naming images for directions",
+     "morph": "compound: diś+mūrti; f.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-told",
+     "grounds": "announces forthcoming instruction",
+     "morph": "3.sg.pass-future √vac"
+    }
+   ],
+   "question": "What topic concerning subsidiary shrines will be explained next in the text?",
+   "premises": [
+    "The base of subsidiary shrines is the context",
+    "Directional images are the subject",
+    "The text announces future explanation"
+   ],
+   "inference": "The next instruction will explain the directional images for the base of subsidiary shrines",
+   "uncertainties": [],
+   "plain_english": "Now the directional images for the base of the subsidiary shrines will be explained."
+  },
+  {
+   "verse": 856,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "specifies the western direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viṣṇumūrtiṃ",
+     "gloss": "viṣṇu-image",
+     "grounds": "viṣṇu+mūrti compound naming an image of Viṣṇu",
+     "morph": "compound: viṣṇu+mūrti; f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃgodbhavam",
+     "gloss": "liṅga-born-form",
+     "grounds": "liṅga+udbhava compound naming the liṅgodbhava form",
+     "morph": "compound: liṅga+udbhava; m.acc.sg"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-else",
+     "grounds": "atha+api combination reinforcing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine forms are permitted for placement in the western direction?",
+   "premises": [
+    "The western direction is specified",
+    "A Viṣṇu image is permitted",
+    "A liṅgodbhava form is permitted as alternative"
+   ],
+   "inference": "Either a Viṣṇu image or the liṅgodbhava form may be placed in the west",
+   "uncertainties": [],
+   "plain_english": "In the west, one may place an image of Viṣṇu or else the Liṅgodbhava form."
+  },
+  {
+   "verse": 857,
+   "rows": [
+    {
+     "surface": "maṇṭape",
+     "gloss": "in-pavilion",
+     "grounds": "locates the placement in a pavilion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "specifies the southern direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "in-auspicious-part",
+     "grounds": "specifies an auspicious section or niche",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-install",
+     "grounds": "prescriptive optative for installation",
+     "morph": "3.sg.act-optative √sthā-caus"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vināyakam",
+     "gloss": "vināyaka",
+     "grounds": "names the deity Vināyaka",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deity must be installed in the southern auspicious part of the pavilion?",
+   "premises": [
+    "The location is the pavilion",
+    "The direction is south in an auspicious part",
+    "Vināyaka is the deity to be installed"
+   ],
+   "inference": "Vināyaka should be installed in the southern auspicious part of the pavilion",
+   "uncertainties": [],
+   "plain_english": "In the pavilion, in the auspicious southern part, one should install Vināyaka."
+  },
+  {
+   "verse": 858,
+   "rows": [
+    {
+     "surface": "durgām",
+     "gloss": "durgā",
+     "grounds": "names the goddess Durgā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "uttaradigbhāge",
+     "gloss": "in-north-direction-part",
+     "grounds": "uttara+diś+bhāga compound specifying northern section",
+     "morph": "compound: uttara+diś+bhāga; m.loc.sg"
+    },
+    {
+     "surface": "kṣetrapālaṃ",
+     "gloss": "field-guardian",
+     "grounds": "kṣetra+pāla compound naming the guardian deity",
+     "morph": "compound: kṣetra+pāla; m.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "tathā+eva indicating similar placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are assigned to the northern section in the prescribed arrangement?",
+   "premises": [
+    "Durgā is named for placement",
+    "The northern directional section is specified",
+    "Kṣetrapāla is likewise included"
+   ],
+   "inference": "Durgā and Kṣetrapāla should be placed in the northern section",
+   "uncertainties": [
+    "The exact relative positions of Durgā and Kṣetrapāla are not fully specified"
+   ],
+   "plain_english": "In the northern section, one should place Durgā and likewise Kṣetrapāla."
+  },
+  {
+   "verse": 859,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the preceding instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharātalordhve",
+     "gloss": "above-ground-level",
+     "grounds": "dharā+tala+ūrdhva compound indicating above the ground base",
+     "morph": "compound: dharā+tala+ūrdhva; n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-twice-born",
+     "grounds": "dvija+sattama compound used as vocative address",
+     "morph": "compound: dvija+sattama; m.voc.sg"
+    }
+   ],
+   "question": "Where must the previously described arrangements be carried out, O best twice-born?",
+   "premises": [
+    "The instructions are summarized as thus",
+    "The location is above the ground level",
+    "The action is obligatory"
+   ],
+   "inference": "These arrangements must be carried out above the ground level",
+   "uncertainties": [],
+   "plain_english": "Thus, O best of the twice-born, this should be done above the ground level."
+  },
+  {
+   "verse": 860,
+   "rows": [
+    {
+     "surface": "hastī",
+     "gloss": "elephant",
+     "grounds": "names the elephant motif",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinābjakānāsī",
+     "gloss": "without-lotus-nose",
+     "grounds": "vinā+abjaka+nāsī compound indicating absence of lotus nose",
+     "morph": "compound: vinā+abjaka+nāsī; m.nom.sg"
+    },
+    {
+     "surface": "nāsikā",
+     "gloss": "nose",
+     "grounds": "names the nose feature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ragnivistaram",
+     "gloss": "ragni-extent",
+     "grounds": "compound or fused term indicating extent; reading uncertain",
+     "morph": "compound: ragni+vistara; m.acc.sg"
+    }
+   ],
+   "question": "What specification is given for the elephant and nose feature in this construction?",
+   "premises": [
+    "An elephant is mentioned",
+    "It is without a lotus nose",
+    "A nose extent termed ragnivistara is specified"
+   ],
+   "inference": "The elephant motif lacks a lotus nose and the nose has the specified ragnivistara extent",
+   "uncertainties": [
+    "The meaning of ragnivistaram is unclear in this context"
+   ],
+   "plain_english": "The elephant is without a lotus nose, and the nose should have the extent called ragnivistara."
+  },
+  {
+   "verse": 861,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "specifies the western direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nārasiṃhaṃ",
+     "gloss": "narasiṃha",
+     "grounds": "names the Narasiṃha form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saumya",
+     "gloss": "gentle",
+     "grounds": "describes the form as gentle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūrtimathāpi",
+     "gloss": "image-or-else",
+     "grounds": "mūrti+atha+api fused form offering an alternative image",
+     "morph": "compound: mūrti+atha+api; f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternative images may be placed in the western direction according to this rule?",
+   "premises": [
+    "The western direction is specified",
+    "Narasiṃha is permitted",
+    "A gentle image is permitted as alternative"
+   ],
+   "inference": "Either Narasiṃha or a gentle image may be placed in the west",
+   "uncertainties": [
+    "The identity of the gentle image is not explicitly named"
+   ],
+   "plain_english": "In the west, one may place Narasiṃha or else a gentle image."
+  },
+  {
+   "verse": 862,
+   "rows": [
+    {
+     "surface": "prastaropari",
+     "gloss": "above-entablature",
+     "grounds": "prastara+upari compound indicating above the entablature",
+     "morph": "compound: prastara+upari; (indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekadvitritale",
+     "gloss": "in-one-two-three-levels",
+     "grounds": "eka+dvi+tri+tala compound referring to one, two, or three levels",
+     "morph": "compound: eka+dvi+tri+tala; n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At what structural levels above the entablature must the work be carried out?",
+   "premises": [
+    "The work is to be done above the entablature",
+    "One, two, or three levels are specified",
+    "The rule applies likewise"
+   ],
+   "inference": "The prescribed work must be done above the entablature in structures of one, two, or three levels",
+   "uncertainties": [],
+   "plain_english": "Likewise, this should be done above the entablature in structures of one, two, or three levels."
+  },
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "umāskandādi",
+     "gloss": "umā-skanda-and-others",
+     "grounds": "umā+skanda+ādi compound naming Umā, Skanda, and others",
+     "morph": "compound: umā+skanda+ādi; n.nom.sg"
+    },
+    {
+     "surface": "sahitā",
+     "gloss": "accompanied",
+     "grounds": "indicates being together with",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "maheśāḥ",
+     "gloss": "great-lords",
+     "grounds": "mahā+īśa compound referring to forms of the great lord",
+     "morph": "compound: mahā+īśa; m.nom.pl"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "states that these are proclaimed",
+     "morph": "m.nom.pl past-passive-participle √kīrt"
+    }
+   ],
+   "question": "Which divine figures are declared to accompany the great lord in this context?",
+   "premises": [
+    "Umā, Skanda, and others are named",
+    "They are accompanied together",
+    "The great lords are declared"
+   ],
+   "inference": "The great lord forms are declared to be accompanied by Umā, Skanda, and others",
+   "uncertainties": [
+    "The full list implied by ādi is not specified"
+   ],
+   "plain_english": "The great lord forms are declared to be accompanied by Umā, Skanda, and others."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "kalāntaṃ",
+     "gloss": "up-to-kalā",
+     "grounds": "kalā+anta compound indicating extent up to the kalā part",
+     "morph": "compound: kalā+anta; n.acc.sg"
+    },
+    {
+     "surface": "yugabhūmyādi",
+     "gloss": "yuga-level-and-others",
+     "grounds": "yuga+bhūmi+ādi compound naming levels beginning with yuga",
+     "morph": "compound: yuga+bhūmi+ādi; n.nom.sg"
+    },
+    {
+     "surface": "grīve",
+     "gloss": "in-neck",
+     "grounds": "locates in the neck section",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prastarāntake",
+     "gloss": "up-to-entablature-end",
+     "grounds": "prastara+antaka compound indicating up to the end of entablature",
+     "morph": "compound: prastara+antaka; n.loc.sg"
+    }
+   ],
+   "question": "Which architectural zones are delimited by the terms kalānta and prastarāntaka?",
+   "premises": [
+    "The extent reaches up to kalā",
+    "Levels beginning with yuga are included",
+    "The neck and the end of the entablature are specified"
+   ],
+   "inference": "The described arrangement spans from levels such as yuga through the neck up to the end of the entablature and kalā",
+   "uncertainties": [
+    "The precise technical boundaries of kalānta and yugabhūmyādi are context-dependent"
+   ],
+   "plain_english": "This extends up to the kalā, including the yuga level and others, in the neck and up to the end of the entablature."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "galādhastāt",
+     "gloss": "below-neck",
+     "grounds": "gala+adhastāt compound indicating below the neck",
+     "morph": "compound: gala+adhastāt; (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃcordhve",
+     "gloss": "above-maṃca",
+     "grounds": "maṃca+ūrdhva compound indicating above the maṃca platform",
+     "morph": "compound: maṃca+ūrdhva; n.loc.sg"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "specifies corner locations",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vṛṣabhaṃ",
+     "gloss": "bull",
+     "grounds": "names the bull figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction to create",
+     "morph": "2.sg.act-imperative √kṛ"
+    }
+   ],
+   "question": "Where must a bull figure be placed relative to the neck and maṃca?",
+   "premises": [
+    "The location is below the neck",
+    "The location is above the maṃca",
+    "The bull must be made in the corners"
+   ],
+   "inference": "A bull figure must be made in the corners below the neck and above the maṃca",
+   "uncertainties": [
+    "The exact form of maṃca in this architectural context is not defined here"
+   ],
+   "plain_english": "Below the neck and above the maṃca, make a bull in the corners."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "bhūtaṃ",
+     "gloss": "being",
+     "grounds": "names a being or spirit figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "vā+atha offering an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkoṇe",
+     "gloss": "in-four-corners",
+     "grounds": "catur+koṇa compound specifying four corners",
+     "morph": "compound: catur+koṇa; n.loc.sg"
+    },
+    {
+     "surface": "hṛdayāṃjali",
+     "gloss": "heart-anjali",
+     "grounds": "hṛdaya+añjali compound describing hands joined at heart",
+     "morph": "compound: hṛdaya+añjali; (indecl.)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "indicates being endowed or joined with the gesture",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What alternative figure with what gesture may be placed in the four corners?",
+   "premises": [
+    "A being is offered as an alternative",
+    "The location is the four corners",
+    "The figure is joined with hands at the heart"
+   ],
+   "inference": "Alternatively, a being with hands joined at the heart may be placed in the four corners",
+   "uncertainties": [],
+   "plain_english": "Or else, place a being in the four corners with hands joined at the heart."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "āmodamagni",
+     "gloss": "āmoda-fire",
+     "grounds": "āmoda+agni compound naming Āmoda in the fire corner",
+     "morph": "compound: āmoda+agni; m.nom.sg"
+    },
+    {
+     "surface": "koṇe",
+     "gloss": "in-corner",
+     "grounds": "specifies corner location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramodaṃ",
+     "gloss": "pramoda",
+     "grounds": "names Pramoda as the figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nair-ṛte",
+     "gloss": "in-southwest",
+     "grounds": "specifies the southwest direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative stating placement",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "Which figures are assigned to the fire corner and the southwest corner?",
+   "premises": [
+    "Āmoda is associated with the fire corner",
+    "Pramoda is named for the southwest",
+    "The placement is prescribed"
+   ],
+   "inference": "Āmoda should be in the fire corner and Pramoda should be in the southwest corner",
+   "uncertainties": [
+    "The exact syntactic role of āmodamagni is compressed and read from context"
+   ],
+   "plain_english": "Āmoda should be in the fire corner, and Pramoda should be in the southwest."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "śvetaṃ",
+     "gloss": "white",
+     "grounds": "specifies white color",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "specifies red color",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "specifies yellow color",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇam",
+     "gloss": "black",
+     "grounds": "specifies black color",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "agnyādiṣu",
+     "gloss": "in-fire-and-others",
+     "grounds": "agni+ādi compound indicating directions starting with fire",
+     "morph": "compound: agni+ādi; m.loc.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential assignment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the four colors assigned to the directions beginning with the fire quarter?",
+   "premises": [
+    "White, red, yellow, and black are listed",
+    "The directions begin with fire and others",
+    "The assignment follows order"
+   ],
+   "inference": "White, red, yellow, and black are assigned in order to the directions beginning with the fire quarter",
+   "uncertainties": [],
+   "plain_english": "White, red, yellow, and black should be assigned in order to the directions beginning with the fire quarter."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "karāla",
+     "gloss": "karāla",
+     "grounds": "names a substance or quality; reading uncertain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudgī",
+     "gloss": "mudgī",
+     "grounds": "names a substance, possibly mung-related; reading uncertain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulmāṣa",
+     "gloss": "kulmāṣa",
+     "grounds": "names a gruel or paste substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalka",
+     "gloss": "paste",
+     "grounds": "names a prepared paste",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cikkaṇa",
+     "gloss": "smooth",
+     "grounds": "describes a smooth or unctuous quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lepanam",
+     "gloss": "plastering",
+     "grounds": "names the act or material of coating",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What materials or preparations are specified for the plastering mixture?",
+   "premises": [
+    "Karāla, mudgī, kulmāṣa, and kalka are listed",
+    "A smooth quality is indicated",
+    "The context is plastering or coating"
+   ],
+   "inference": "The plastering involves a smooth mixture including karāla, mudgī, kulmāṣa, and paste",
+   "uncertainties": [
+    "The precise identification of karāla and mudgī is uncertain"
+   ],
+   "plain_english": "Karāla, mudgī, kulmāṣa, and paste are used for a smooth plastering."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "nānākrīḍā",
+     "gloss": "various-play-scenes",
+     "grounds": "nānā+krīḍā compound indicating various playful motifs",
+     "morph": "compound: nānā+krīḍā; f.nom.sg"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "sam+ā+yukta indicating being furnished with",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sudhayā",
+     "gloss": "with-plaster",
+     "grounds": "instrumental indicating use of plaster or stucco",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "dārubhiḥ",
+     "gloss": "with-wood",
+     "grounds": "instrumental indicating use of wooden materials",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What decorative elements and materials are prescribed for the construction?",
+   "premises": [
+    "Various play scenes are included",
+    "Plaster is used as material",
+    "Wood is likewise used"
+   ],
+   "inference": "The construction should be furnished with various play scenes using plaster and wood",
+   "uncertainties": [],
+   "plain_english": "It should be furnished with various playful scenes, made with plaster and likewise with wood."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "evamekatalaṃ",
+     "gloss": "thus-one-level",
+     "grounds": "evam+eka+tala compound summarizing the one-level form",
+     "morph": "compound: evam+eka+tala; n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "renowned",
+     "grounds": "states that it is known as such",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitalaṃ",
+     "gloss": "two-level",
+     "grounds": "dvi+tala compound naming a two-level form",
+     "morph": "compound: dvi+tala; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indicates sequence to next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidu",
+     "gloss": "know",
+     "grounds": "imperative or injunctive sense urging knowledge; form compressed",
+     "morph": "2.pl.act-imperative √vid"
+    }
+   ],
+   "question": "How does the text conclude the one-level description and introduce the two-level form?",
+   "premises": [
+    "The one-level form is thus renowned",
+    "A two-level form is mentioned next",
+    "The audience is told to know it"
+   ],
+   "inference": "The one-level form is concluded as renowned and the two-level form is introduced next",
+   "uncertainties": [
+    "The form vidu is morphologically compressed"
+   ],
+   "plain_english": "Thus the one-level form is renowned; now know the two-level form."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "iti+aṃśumān+kāśyapa compound marking colophon in this text",
+     "morph": "compound: iti+aṃśumān+kāśyapa; m.loc.sg"
+    },
+    {
+     "surface": "ekatalavidhipaṭalaḥ",
+     "gloss": "one-level-rule-chapter",
+     "grounds": "eka+tala+vidhi+paṭala compound naming the chapter",
+     "morph": "compound: eka+tala+vidhi+paṭala; m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍviṃśaḥ",
+     "gloss": "twenty-sixth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter of the Aṃśumān Kāśyapa text concludes at this point?",
+   "premises": [
+    "The colophon refers to Aṃśumān Kāśyapa",
+    "The chapter concerns the rule for one level",
+    "It is the twenty-sixth chapter"
+   ],
+   "inference": "This marks the end of the twenty-sixth chapter on the one-level rule in the Aṃśumān Kāśyapa",
+   "uncertainties": [],
+   "plain_english": "Thus ends the twenty-sixth chapter, on the rules for the one-level structure, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "prāsādamūlavat",
+     "gloss": "like-temple-base",
+     "grounds": "prāsāda+mūla+vat compound indicating likeness to temple base",
+     "morph": "compound: prāsāda+mūla+vat; (indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vistāroccaṃ",
+     "gloss": "width-and-height",
+     "grounds": "vistāra+ucca compound naming breadth and height",
+     "morph": "compound: vistāra+ucca; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgamam",
+     "gloss": "projection",
+     "grounds": "names the outward projection",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How must the width, height, and projection be determined for the next construction?",
+   "premises": [
+    "The construction should be like the temple base",
+    "Width and height are specified",
+    "Projection is specified"
+   ],
+   "inference": "The width, height, and projection must be made like those of the temple base",
+   "uncertainties": [],
+   "plain_english": "The width, height, and projection should be made just like those of the temple base."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "eka+aṃśa compound specifying one part",
+     "morph": "compound: eka+aṃśa; m.acc.sg"
+    },
+    {
+     "surface": "kūṭavistāraṃ",
+     "gloss": "kūṭa-width",
+     "grounds": "kūṭa+vistāra compound naming width of the kūṭa",
+     "morph": "compound: kūṭa+vistāra; m.acc.sg"
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "koṣṭha",
+     "grounds": "names the koṣṭha module",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taddviguṇā",
+     "gloss": "twice-that",
+     "grounds": "tad+dvi+guṇa compound indicating double that measure",
+     "morph": "compound: tad+dvi+guṇa; f.nom.sg"
+    },
+    {
+     "surface": "yatam",
+     "gloss": "extended",
+     "grounds": "form indicating extent or measure; reading uncertain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are prescribed for the kūṭa width and the koṣṭha module?",
+   "premises": [
+    "The kūṭa width is one part",
+    "The koṣṭha is specified",
+    "The koṣṭha measure is twice that"
+   ],
+   "inference": "The kūṭa width should be one part and the koṣṭha should be twice that measure",
+   "uncertainties": [
+    "The final token yatam is morphologically and semantically uncertain in this context"
+   ],
+   "plain_english": "The width of the kūṭa should be one part, and the koṣṭha should be twice that in extent."
+  }
+ ]
+}

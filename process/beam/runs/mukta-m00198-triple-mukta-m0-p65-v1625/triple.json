@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "smallest",
+     "grounds": "superlative adjective indicating the least or smallest measure in the series",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "navatālaṃ",
+     "gloss": "nine-tāla-measure",
+     "grounds": "compound specifying a unit of nine tālas",
+     "morph": "compound: nava+numeral, tāla+head; n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.optative-act + as"
+    },
+    {
+     "surface": "vedādhikaśataṃ",
+     "gloss": "hundred-plus-four",
+     "grounds": "compound indicating one hundred increased by four (veda = four), yielding 104",
+     "morph": "compound: veda+first, adhika+second, śata+head; n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative reinforcing the prescribed measure",
+     "morph": "3.sg.optative-act + bhū"
+    }
+   ],
+   "question": "What numerical measure in parts is prescribed for the smallest nine-tāla unit?",
+   "premises": [
+    "The smallest unit in this sequence is designated as nine tālas.",
+    "Its measure is specified as one hundred increased by four.",
+    "The prescribed value is stated as a normative requirement."
+   ],
+   "inference": "Therefore, the smallest nine-tāla unit is prescribed to measure one hundred and four parts.",
+   "uncertainties": [
+    "The exact unit of the parts (bhāga or aṅgula) is implied from context but not stated explicitly in this verse."
+   ],
+   "plain_english": "The smallest nine-tāla measure should be one hundred and four parts."
+  }
+ ]
+}

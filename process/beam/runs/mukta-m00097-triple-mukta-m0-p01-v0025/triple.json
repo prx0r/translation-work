@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "candrajñānaṃ",
+     "gloss": "candrajñāna-tantra",
+     "grounds": "continues the enumeration of excellent tantras; accusative singular object in the list",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāsukiṃ",
+     "gloss": "vāsuki-tantra",
+     "grounds": "continues the enumeration of excellent tantras; accusative singular object in the list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the listed tantra names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāsaṃmohanaṃ",
+     "gloss": "mahāsaṃmohana-tantra",
+     "grounds": "continues the enumeration of excellent tantras; accusative singular object in the list",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "marks that these names belong to the same enumerated set",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional excellent tantras are named alongside the previously listed ones?",
+   "premises": [
+    "The verse continues a list of tantras.",
+    "It names Candrajñāna, Vāsuki, and Mahāsaṃmohana.",
+    "The particle tathā links them to the same set."
+   ],
+   "inference": "The verse adds Candrajñāna, Vāsuki, and Mahāsaṃmohana to the enumerated excellent tantras.",
+   "uncertainties": [
+    "The exact syntactic verb governing the accusative list is not supplied in this excerpt."
+   ],
+   "plain_english": "Likewise Candrajñāna, Vāsuki, and Mahāsaṃmohana."
+  }
+ ]
+}

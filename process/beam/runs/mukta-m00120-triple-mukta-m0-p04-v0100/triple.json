@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "patiṃ",
+     "gloss": "lord",
+     "grounds": "accusative object requested by dehi",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "imperative directed to the goddess",
+     "morph": "2.sg.act.impv + dā"
+    },
+    {
+     "surface": "jaganmātaḥ",
+     "gloss": "mother-of-world",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f compound"
+    },
+    {
+     "surface": "kāmabhāvena",
+     "gloss": "with-desire-nature",
+     "grounds": "instrumental manner of the request",
+     "morph": "inst.sg.m/n compound"
+    },
+    {
+     "surface": "kāṅghitā",
+     "gloss": "desired",
+     "grounds": "qualifies the requested object or state",
+     "morph": "nom.sg.f? participle"
+    }
+   ],
+   "question": "What does the devotee request from the world-mother and in what manner?",
+   "premises": [
+    "devotee addresses the world-mother",
+    "devotee requests the lord",
+    "request is made with desire-nature",
+    "desired object is sought"
+   ],
+   "inference": "The verse petitions the world-mother to give the lord through desire-nature.",
+   "uncertainties": [
+    "kāṅghitā may be participle or adjective",
+    "patiṃ may mean lord or husband"
+   ],
+   "plain_english": "Give me the Lord, O Mother of the world, with desire-nature, desired."
+  }
+ ]
+}

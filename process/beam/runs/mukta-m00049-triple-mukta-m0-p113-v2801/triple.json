@@ -1,0 +1,1051 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2801,
+   "rows": [
+    {
+     "surface": "śaṅkaraśāsanāt",
+     "gloss": "by-shankara-command",
+     "grounds": "ablative compound indicating source of injunction",
+     "morph": "compound:śaṅkara+śāsana.abl.sg.n"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "accusative object indicating portion of vow",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vratam",
+     "gloss": "vow",
+     "grounds": "accusative object of observance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing observance",
+     "morph": "3.sg.opt.act √ā-car"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative reinforcing prescribed action",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "What portion of a vow must be performed according to Shankara's command?",
+   "premises": [
+    "Shankara's command is the authoritative source",
+    "A vow is the object of observance",
+    "Only half the vow is prescribed"
+   ],
+   "inference": "By Shankara's command one should perform half the vow.",
+   "uncertainties": [],
+   "plain_english": "By Shankara's command, one should perform half the vow."
+  },
+  {
+   "verse": 2802,
+   "rows": [
+    {
+     "surface": "vasane",
+     "gloss": "in-garment",
+     "grounds": "locative indicating item of clothing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vastre",
+     "gloss": "in-cloth",
+     "grounds": "locative synonym reinforcing clothing context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣāra+yogaṃ",
+     "gloss": "alkali-application",
+     "grounds": "compound object denoting use of alkali",
+     "morph": "compound:kṣāra+yoga.m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking prohibitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative expressing prohibition",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "What treatment of garments is prohibited during the observance?",
+   "premises": [
+    "Garments and cloth are the items concerned",
+    "Alkali application is a possible treatment",
+    "The action is explicitly negated"
+   ],
+   "inference": "One should not apply alkali to garments or cloth.",
+   "uncertainties": [],
+   "plain_english": "One should not apply alkali to garments or cloth."
+  },
+  {
+   "verse": 2803,
+   "rows": [
+    {
+     "surface": "bhojayitvā",
+     "gloss": "having-fed",
+     "grounds": "absolutive indicating prior act of feeding",
+     "morph": "(gerund) √bhuj-caus"
+    },
+    {
+     "surface": "vimuktaḥ",
+     "gloss": "freed",
+     "grounds": "past participle indicating release from sin",
+     "morph": "m.nom.sg.past-part.pass √vi-muc"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing resulting state",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "jñāna+go+vadha+pātakāt",
+     "gloss": "from-knowledge-cow-slaying-sin",
+     "grounds": "ablative compound naming the sin from which one is freed",
+     "morph": "compound:jñāna+go+vadha+pātaka.n.abl.sg"
+    }
+   ],
+   "question": "How can one become freed from the sin of knowingly killing a cow?",
+   "premises": [
+    "Feeding others is performed as a prior act",
+    "Freedom from sin is the resulting state",
+    "The sin specified is knowingly killing a cow"
+   ],
+   "inference": "By having fed others, one should be freed from the sin of knowingly killing a cow.",
+   "uncertainties": [],
+   "plain_english": "Having fed others, one should be freed from the sin of knowingly killing a cow."
+  },
+  {
+   "verse": 2804,
+   "rows": [
+    {
+     "surface": "bāhu+jādyāḥ",
+     "gloss": "arm-born-and-others",
+     "grounds": "compound referring to classes born from arms etc.",
+     "morph": "compound:bāhu+ja.m.nom.pl"
+    },
+    {
+     "surface": "viśudhyeyuḥ",
+     "gloss": "should-be-purified",
+     "grounds": "optative passive expressing purification",
+     "morph": "3.pl.opt.pass √vi-śudh"
+    },
+    {
+     "surface": "pāda+nyūna+kramāt",
+     "gloss": "by-quarter-less-sequence",
+     "grounds": "ablative compound indicating graduated reduction",
+     "morph": "compound:pāda+nyūna+krama.m.abl.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative addressing the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what graduated sequence should those born of the arms and others be purified?",
+   "premises": [
+    "Those born of the arms and other classes require purification",
+    "Purification follows a specific sequence",
+    "The sequence involves reduction by quarters"
+   ],
+   "inference": "Those born of the arms and others should be purified by a sequence reduced by quarters.",
+   "uncertainties": [
+    "The exact classes included in bāhu+jādyāḥ are not fully specified here."
+   ],
+   "plain_english": "O beloved, those born of the arms and others should be purified by a sequence reduced by quarters."
+  },
+  {
+   "verse": 2805,
+   "rows": [
+    {
+     "surface": "upavāsaiḥ",
+     "gloss": "by-fasts",
+     "grounds": "instrumental indicating means of purification",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "by-three",
+     "grounds": "numeral specifying count of fasts",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śudhyet",
+     "gloss": "should-be-purified",
+     "grounds": "optative passive expressing purification",
+     "morph": "3.sg.opt.pass √śudh"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "person",
+     "grounds": "subject undergoing purification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛta+kilviṣaḥ",
+     "gloss": "having-committed-sin",
+     "grounds": "compound describing the person as sinful",
+     "morph": "compound:kṛta+kilviṣa.m.nom.sg"
+    }
+   ],
+   "question": "How many fasts purify a person who has committed sin?",
+   "premises": [
+    "A person who has committed sin needs purification",
+    "Fasts are the means of purification",
+    "Three fasts are specified"
+   ],
+   "inference": "A person who has committed sin should be purified by three fasts.",
+   "uncertainties": [],
+   "plain_english": "A person who has committed sin should be purified by three fasts."
+  },
+  {
+   "verse": 2806,
+   "rows": [
+    {
+     "surface": "mayūra+śuka+haṃsān",
+     "gloss": "peacocks-parrots-swans",
+     "grounds": "compound accusative listing birds to be avoided",
+     "morph": "compound:mayūra+śuka+haṃsa.m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding another item",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa+jyotiḥ+aśanaṃ",
+     "gloss": "with-firefly-eating",
+     "grounds": "compound object indicating eating of fireflies",
+     "morph": "compound:sa+jyotis+aśana.n.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative prescribing avoidance",
+     "morph": "3.sg.opt.act √tyaj"
+    }
+   ],
+   "question": "Which birds and foods must be abandoned according to this injunction?",
+   "premises": [
+    "Peacocks, parrots, and swans are listed",
+    "Eating fireflies is also included",
+    "Abandonment is prescribed"
+   ],
+   "inference": "One should abandon peacocks, parrots, swans, and the eating of fireflies.",
+   "uncertainties": [
+    "The exact sense of sa+jyotiḥ+aśanaṃ is contextually interpreted as eating fireflies."
+   ],
+   "plain_english": "One should abandon peacocks, parrots, swans, and the eating of fireflies."
+  },
+  {
+   "verse": 2807,
+   "rows": [
+    {
+     "surface": "jñāna+go+vadha+pātakāt",
+     "gloss": "from-knowledge-cow-slaying-sin",
+     "grounds": "ablative compound naming the sin",
+     "morph": "compound:jñāna+go+vadha+pātaka.n.abl.sg"
+    },
+    {
+     "surface": "janaḥ",
+     "gloss": "person",
+     "grounds": "subject who becomes freed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimuktaḥ",
+     "gloss": "freed",
+     "grounds": "past participle indicating release",
+     "morph": "m.nom.sg.past-part.pass √vi-muc"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing resulting state",
+     "morph": "3.sg.opt.act √as"
+    }
+   ],
+   "question": "From what specific sin can a person become freed in this context?",
+   "premises": [
+    "A person is the subject of liberation",
+    "Liberation is expressed as a resulting state",
+    "The sin is knowingly killing a cow"
+   ],
+   "inference": "A person should be freed from the sin of knowingly killing a cow.",
+   "uncertainties": [],
+   "plain_english": "A person should be freed from the sin of knowingly killing a cow."
+  },
+  {
+   "verse": 2808,
+   "rows": [
+    {
+     "surface": "pāda+pāda+nyūnaṃ",
+     "gloss": "quarter-by-quarter-less",
+     "grounds": "compound describing graduated reduction of vow",
+     "morph": "compound:pāda+pāda+nyūna.n.acc.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "accusative object to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karaṇīyam",
+     "gloss": "to-be-performed",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker indicating stated meaning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "meaning",
+     "grounds": "noun indicating intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the intended meaning regarding how the vow should be performed?",
+   "premises": [
+    "The vow is the object of performance",
+    "Performance is obligatory",
+    "The vow is reduced quarter by quarter"
+   ],
+   "inference": "The meaning is that the vow should be performed reduced quarter by quarter.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that the vow should be performed reduced quarter by quarter."
+  },
+  {
+   "verse": 2809,
+   "rows": [
+    {
+     "surface": "mānavaḥ",
+     "gloss": "person",
+     "grounds": "subject undergoing purification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tribhiḥ+upavāsaiḥ",
+     "gloss": "by-three-fasts",
+     "grounds": "instrumental compound indicating means and number",
+     "morph": "compound:tri+upavāsa.m.inst.pl"
+    },
+    {
+     "surface": "śudhyet",
+     "gloss": "should-be-purified",
+     "grounds": "optative passive expressing purification",
+     "morph": "3.sg.opt.pass √śudh"
+    }
+   ],
+   "question": "What expiatory measure purifies a person in this statement?",
+   "premises": [
+    "A person is the subject of purification",
+    "Fasts are the means of purification",
+    "Three fasts are prescribed"
+   ],
+   "inference": "A person should be purified by three fasts.",
+   "uncertainties": [],
+   "plain_english": "A person should be purified by three fasts."
+  },
+  {
+   "verse": 2810,
+   "rows": [
+    {
+     "surface": "jyotiḥ",
+     "gloss": "light",
+     "grounds": "noun whose referent is being clarified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nā",
+     "gloss": "indeed",
+     "grounds": "particle used in clarification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāskare",
+     "gloss": "in-sun",
+     "grounds": "locative excluding sun as referent",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "locative excluding fire as referent",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking excluded referents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klībaṃ",
+     "gloss": "neuter",
+     "grounds": "grammatical gender noted for the term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadyota",
+     "gloss": "in-firefly",
+     "grounds": "locative indicating intended referent in usage",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dṛṣṭiṣu",
+     "gloss": "in-usages",
+     "grounds": "locative plural indicating contexts of usage",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "Rudra",
+     "grounds": "speaker or authority cited",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the term jyotiḥ refer to in the usages cited by Rudra?",
+   "premises": [
+    "The term jyotiḥ is under discussion",
+    "Sun and fire are excluded as referents",
+    "In usages it is neuter and refers to the firefly"
+   ],
+   "inference": "According to Rudra, jyotiḥ in these usages is neuter and refers to the firefly, not the sun or fire.",
+   "uncertainties": [
+    "The form bhadyota appears where khadyota might be expected; taken as given."
+   ],
+   "plain_english": "Rudra states that jyotiḥ, neuter in usage, refers to the firefly, not to the sun or fire."
+  },
+  {
+   "verse": 2811,
+   "rows": [
+    {
+     "surface": "nirasthi+jīvinaḥ",
+     "gloss": "boneless-living-beings",
+     "grounds": "compound accusative plural denoting creatures without bones",
+     "morph": "compound:nirasthi+jīvin.m.acc.pl"
+    },
+    {
+     "surface": "hatvā",
+     "gloss": "having-killed",
+     "grounds": "absolutive indicating prior act",
+     "morph": "(gerund) √han"
+    },
+    {
+     "surface": "manaḥ+tāpena",
+     "gloss": "by-mental-anguish",
+     "grounds": "instrumental compound indicating means of purification",
+     "morph": "compound:manas+tāpa.m.inst.sg"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "one-is-purified",
+     "grounds": "present indicative stating purification",
+     "morph": "3.sg.pres.act √śudh"
+    }
+   ],
+   "question": "How is one purified after killing boneless living beings?",
+   "premises": [
+    "Boneless living beings are killed",
+    "Mental anguish is experienced",
+    "Purification follows from that anguish"
+   ],
+   "inference": "Having killed boneless living beings, one is purified by mental anguish.",
+   "uncertainties": [],
+   "plain_english": "Having killed boneless living beings, one is purified by mental anguish."
+  },
+  {
+   "verse": 2812,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of deserving sin",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpa+arhaḥ",
+     "gloss": "deserving-sin",
+     "grounds": "compound predicate indicating liability to sin",
+     "morph": "compound:pāpa+arha.m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing state",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative addressing the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rājñaḥ",
+     "gloss": "of-king",
+     "grounds": "genitive indicating whose duty is meant",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dharmaḥ",
+     "gloss": "duty",
+     "grounds": "subject described as eternal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sanātanaḥ",
+     "gloss": "eternal",
+     "grounds": "adjective qualifying duty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why does a king not incur sin when performing his eternal duty?",
+   "premises": [
+    "The king has an eternal duty",
+    "Performing duty is the context",
+    "Liability to sin is negated"
+   ],
+   "inference": "O goddess, one should not be deserving of sin, for the king's duty is eternal.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should not incur sin, for the king's duty is eternal."
+  },
+  {
+   "verse": 2813,
+   "rows": [
+    {
+     "surface": "kṛtāyāṃ",
+     "gloss": "when-done",
+     "grounds": "locative absolute participle indicating condition",
+     "morph": "f.loc.sg.past-part.pass √kṛ"
+    },
+    {
+     "surface": "vaidha+hiṃsāyāṃ",
+     "gloss": "scripture-sanctioned-killing",
+     "grounds": "locative compound naming sanctioned violence",
+     "morph": "compound:vaidha+hiṃsā.f.loc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "subject not tainted by sin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpaiḥ",
+     "gloss": "by-sins",
+     "grounds": "instrumental indicating tainting agents",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of taint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-tainted",
+     "grounds": "present passive indicating absence of taint",
+     "morph": "3.sg.pres.pass √lip"
+    }
+   ],
+   "question": "Does a person incur sin when performing killing sanctioned by scripture?",
+   "premises": [
+    "Killing sanctioned by scripture is performed",
+    "A person is the agent in that context",
+    "Taint by sins is negated"
+   ],
+   "inference": "When scripture-sanctioned killing is done, a person is not tainted by sins.",
+   "uncertainties": [],
+   "plain_english": "When scripture-sanctioned killing is performed, a person is not tainted by sins."
+  },
+  {
+   "verse": 2814,
+   "rows": [
+    {
+     "surface": "aśucau",
+     "gloss": "in-impurity",
+     "grounds": "locative indicating state of impurity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devatā+sparśe",
+     "gloss": "deity-touch",
+     "grounds": "locative compound indicating contact with deity",
+     "morph": "compound:devatā+sparśa.m.loc.sg"
+    },
+    {
+     "surface": "gāyatrī+japam",
+     "gloss": "gayatri-recitation",
+     "grounds": "compound accusative naming prescribed recitation",
+     "morph": "compound:gāyatrī+japa.m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing remedial action",
+     "morph": "3.sg.opt.act √ā-car"
+    }
+   ],
+   "question": "What remedial action is required when touching a deity in a state of impurity?",
+   "premises": [
+    "A state of impurity is present",
+    "Contact with a deity occurs",
+    "Recitation of the Gayatri is prescribed"
+   ],
+   "inference": "In impurity, upon touching a deity, one should perform recitation of the Gayatri.",
+   "uncertainties": [],
+   "plain_english": "If one touches a deity while impure, one should perform recitation of the Gayatri."
+  },
+  {
+   "verse": 2815,
+   "rows": [
+    {
+     "surface": "nirasthi+jīvinaḥ",
+     "gloss": "boneless-living-beings",
+     "grounds": "compound accusative plural denoting creatures without bones",
+     "morph": "compound:nirasthi+jīvin.m.acc.pl"
+    },
+    {
+     "surface": "asthi+rahita+jantūn",
+     "gloss": "bone-less-creatures",
+     "grounds": "compound accusative plural synonym reinforcing same class",
+     "morph": "compound:asthi+rahita+jantu.m.acc.pl"
+    },
+    {
+     "surface": "hatvā",
+     "gloss": "having-killed",
+     "grounds": "absolutive indicating prior act",
+     "morph": "(gerund) √han"
+    },
+    {
+     "surface": "manaḥ+tāpena",
+     "gloss": "by-mental-anguish",
+     "grounds": "instrumental compound indicating means of purification",
+     "morph": "compound:manas+tāpa.m.inst.sg"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "one-is-purified",
+     "grounds": "present indicative stating purification",
+     "morph": "3.sg.pres.act √śudh"
+    }
+   ],
+   "question": "What purifies one after killing creatures that lack bones?",
+   "premises": [
+    "Boneless creatures are killed",
+    "The act is followed by mental anguish",
+    "Mental anguish effects purification"
+   ],
+   "inference": "Having killed boneless creatures, one is purified by mental anguish.",
+   "uncertainties": [],
+   "plain_english": "Having killed boneless creatures, one is purified by mental anguish."
+  },
+  {
+   "verse": 2816,
+   "rows": [
+    {
+     "surface": "kṛtāyāṃ",
+     "gloss": "when-done",
+     "grounds": "locative absolute participle indicating condition",
+     "morph": "f.loc.sg.past-part.pass √kṛ"
+    },
+    {
+     "surface": "satyāṃ",
+     "gloss": "being-so",
+     "grounds": "locative participle reinforcing condition",
+     "morph": "f.loc.sg.pres-part √as"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "subject not tainted by sin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpaiḥ",
+     "gloss": "by-sins",
+     "grounds": "instrumental indicating tainting agents",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of taint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-tainted",
+     "grounds": "present passive indicating absence of taint",
+     "morph": "3.sg.pres.pass √lip"
+    }
+   ],
+   "question": "Under what condition is a person not tainted by sins in this case?",
+   "premises": [
+    "An action is done and is so established",
+    "A person is the agent",
+    "Taint by sins is negated"
+   ],
+   "inference": "When it is done and so established, a person is not tainted by sins.",
+   "uncertainties": [
+    "The specific action referred to is implied from context rather than named explicitly."
+   ],
+   "plain_english": "When that is done, a person is not tainted by sins."
+  },
+  {
+   "verse": 2817,
+   "rows": [
+    {
+     "surface": "nindan",
+     "gloss": "censuring",
+     "grounds": "present participle indicating act of blame",
+     "morph": "m.nom.sg.pres-part.act √nind"
+    },
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "accusative pronoun referring to persons censured",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vadan",
+     "gloss": "speaking",
+     "grounds": "present participle indicating harsh speech",
+     "morph": "m.nom.sg.pres-part.act √vad"
+    },
+    {
+     "surface": "krūraṃ",
+     "gloss": "cruelly",
+     "grounds": "adverbial accusative qualifying speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śudhyet",
+     "gloss": "should-be-purified",
+     "grounds": "optative passive prescribing expiation",
+     "morph": "3.sg.opt.pass √śudh"
+    },
+    {
+     "surface": "pañca+upavāsataḥ",
+     "gloss": "by-five-fasts",
+     "grounds": "ablative compound indicating means of purification",
+     "morph": "compound:pañcan+upavāsa.m.abl.sg"
+    }
+   ],
+   "question": "What expiation purifies one who cruelly censures and speaks against these persons?",
+   "premises": [
+    "Censuring and cruel speech are committed",
+    "These persons are the targets",
+    "Five fasts are prescribed for purification"
+   ],
+   "inference": "One who censures these and speaks cruelly should be purified by five fasts.",
+   "uncertainties": [
+    "The identity of etān is not specified in this verse."
+   ],
+   "plain_english": "One who censures these and speaks cruelly should be purified by five fasts."
+  },
+  {
+   "verse": 2818,
+   "rows": [
+    {
+     "surface": "sārdha+dvaya+upavāsena",
+     "gloss": "by-two-and-a-half-fast",
+     "grounds": "instrumental compound specifying expiatory measure",
+     "morph": "compound:sārdha+dvaya+upavāsa.m.inst.sg"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "freed",
+     "grounds": "past participle indicating release from sin",
+     "morph": "m.nom.sg.past-part.pass √muc"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present indicative stating result",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "pātakāt",
+     "gloss": "from-sin",
+     "grounds": "ablative indicating source of release",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What expiation frees one from sin in this prescribed case?",
+   "premises": [
+    "Freedom from sin is the result",
+    "An expiatory fast is the means",
+    "Two and a half fasts are specified"
+   ],
+   "inference": "By two and a half fasts one becomes freed from sin.",
+   "uncertainties": [],
+   "plain_english": "By two and a half fasts, one becomes freed from sin."
+  },
+  {
+   "verse": 2819,
+   "rows": [
+    {
+     "surface": "niṣiddha+kaulika+ācāraṃ",
+     "gloss": "forbidden-kaula-practice",
+     "grounds": "compound accusative describing what is to be avoided",
+     "morph": "compound:niṣiddha+kaulika+ācāra.m.acc.sg"
+    },
+    {
+     "surface": "deśaṃ",
+     "gloss": "place",
+     "grounds": "accusative object to be abandoned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāstram",
+     "gloss": "scripture",
+     "grounds": "accusative object to be abandoned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle extending the scope of abandonment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative prescribing avoidance",
+     "morph": "3.sg.opt.act √tyaj"
+    }
+   ],
+   "question": "What places and teachings must be abandoned when associated with forbidden Kaula practice?",
+   "premises": [
+    "Forbidden Kaula practice is identified",
+    "A place and a scripture are associated objects",
+    "Abandonment is prescribed"
+   ],
+   "inference": "One should abandon a place and also a scripture associated with forbidden Kaula practice.",
+   "uncertainties": [],
+   "plain_english": "One should abandon a place and also a scripture associated with forbidden Kaula practice."
+  },
+  {
+   "verse": 2820,
+   "rows": [
+    {
+     "surface": "kula+dharmāt",
+     "gloss": "from-family-duty",
+     "grounds": "ablative compound indicating source of fall",
+     "morph": "compound:kula+dharma.m.abl.sg"
+    },
+    {
+     "surface": "patet",
+     "gloss": "one-falls",
+     "grounds": "optative indicating possible lapse",
+     "morph": "3.sg.opt.act √pat"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating restoration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śudhyet",
+     "gloss": "should-be-purified",
+     "grounds": "optative passive prescribing purification",
+     "morph": "3.sg.opt.pass √śudh"
+    },
+    {
+     "surface": "pūrṇa+abhiṣekataḥ",
+     "gloss": "by-full-consecration",
+     "grounds": "ablative compound indicating means of restoration",
+     "morph": "compound:pūrṇa+abhiṣeka.m.abl.sg"
+    }
+   ],
+   "question": "How can one be restored after falling from family duty?",
+   "premises": [
+    "A fall from family duty may occur",
+    "Purification is required afterward",
+    "Full consecration is the means of purification"
+   ],
+   "inference": "If one falls from family duty, one should be purified again by full consecration.",
+   "uncertainties": [],
+   "plain_english": "If one falls from family duty, one should be purified again by full consecration."
+  },
+  {
+   "verse": 2821,
+   "rows": [
+    {
+     "surface": "aśucau",
+     "gloss": "in-impurity",
+     "grounds": "locative indicating state of impurity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aśauce",
+     "gloss": "in-uncleanness",
+     "grounds": "locative synonym reinforcing impure state",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devatā+sparśe",
+     "gloss": "deity-touch",
+     "grounds": "locative compound indicating contact with deity",
+     "morph": "compound:devatā+sparśa.m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatrī+japam",
+     "gloss": "gayatri-recitation",
+     "grounds": "compound accusative naming prescribed recitation",
+     "morph": "compound:gāyatrī+japa.m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing remedial action",
+     "morph": "3.sg.opt.act √ā-car"
+    }
+   ],
+   "question": "What recitation must be performed after touching a deity while in impurity or uncleanness?",
+   "premises": [
+    "Impurity or uncleanness is present",
+    "Contact with a deity occurs",
+    "Recitation of the Gayatri is prescribed"
+   ],
+   "inference": "In impurity or uncleanness, upon touching a deity, one should perform recitation of the Gayatri.",
+   "uncertainties": [],
+   "plain_english": "If one touches a deity while in impurity or uncleanness, one should perform recitation of the Gayatri."
+  },
+  {
+   "verse": 2822,
+   "rows": [
+    {
+     "surface": "śudhyet",
+     "gloss": "should-be-purified",
+     "grounds": "optative passive expressing purification",
+     "morph": "3.sg.opt.pass √śudh"
+    }
+   ],
+   "question": "What is the prescribed outcome stated in this brief injunction?",
+   "premises": [
+    "Purification is the stated outcome",
+    "The verb is prescriptive",
+    "No specific means is named here"
+   ],
+   "inference": "One should be purified.",
+   "uncertainties": [
+    "The means and subject of purification are not specified in this verse."
+   ],
+   "plain_english": "One should be purified."
+  },
+  {
+   "verse": 2823,
+   "rows": [
+    {
+     "surface": "mānavaḥ",
+     "gloss": "person",
+     "grounds": "subject of the injunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative prescribing abandonment",
+     "morph": "3.sg.opt.act √tyaj"
+    }
+   ],
+   "question": "What action is prescribed for a person in this brief injunction?",
+   "premises": [
+    "A person is the subject",
+    "Abandonment is prescribed",
+    "The object to be abandoned is unspecified"
+   ],
+   "inference": "A person should abandon.",
+   "uncertainties": [
+    "The object to be abandoned is not specified in this verse."
+   ],
+   "plain_english": "A person should abandon it."
+  },
+  {
+   "verse": 2824,
+   "rows": [
+    {
+     "surface": "upavāsaḥ",
+     "gloss": "fast",
+     "grounds": "subject being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "demonstrative identifying the fast",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating it should be understood",
+     "morph": "m.nom.sg.gerundive √vi-jñā"
+    },
+    {
+     "surface": "prāyaścitte",
+     "gloss": "in-expiation",
+     "grounds": "locative indicating ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "present passive stating prescription",
+     "morph": "3.sg.pres.pass √vi-dhā"
+    }
+   ],
+   "question": "How should fasting be understood when prescribed in expiation?",
+   "premises": [
+    "Fasting is the subject under definition",
+    "It is to be known in a specific way",
+    "It is prescribed in the context of expiation"
+   ],
+   "inference": "That fast should be understood as what is prescribed in expiation.",
+   "uncertainties": [],
+   "plain_english": "That fast should be understood as what is prescribed in expiation."
+  }
+ ]
+}

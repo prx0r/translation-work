@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3600,
+   "rows": [
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "color term describing one component of the mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "color term describing the other component of the mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "indicates equal proportion in the mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "describes the combined state of the two colors",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bakula+asya+phala+ākṛtiḥ",
+     "gloss": "bakula-fruit-shape",
+     "grounds": "compound denoting the resulting form or appearance; bakula+asya is genitive relation within compound",
+     "morph": "compound(f.nom.sg)"
+    }
+   ],
+   "question": "What resulting appearance arises from mixing red and yellow in equal measure?",
+   "premises": [
+    "Red is one component of the mixture.",
+    "Yellow is the other component of the mixture.",
+    "The two components are mixed in equal measure.",
+    "The resulting mixture has the shape of a bakula fruit."
+   ],
+   "inference": "An equal mixture of red and yellow produces an appearance likened to the shape of a bakula fruit.",
+   "uncertainties": [
+    "Whether ākṛtiḥ refers primarily to shape or to overall appearance/color-form is not fully explicit."
+   ],
+   "plain_english": "Red and yellow mixed in equal parts have the form of a bakula fruit."
+  }
+ ]
+}

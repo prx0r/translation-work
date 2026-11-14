@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3425,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśa+hīnamagrasya",
+     "gloss": "eight-part-lacking-of-tip",
+     "grounds": "compound of aṣṭāṃśa (eighth part), hīna (lacking), and agra (tip); final member in possessive relation",
+     "morph": "compound (aṣṭāṃśa+hīna+agra), m.gen.sg"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "wide",
+     "grounds": "qualifies tatsuvṛttakam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsuvṛttakam",
+     "gloss": "that-well-rounded",
+     "grounds": "compound of tat (that) and suvṛttaka (well-rounded)",
+     "morph": "compound (tat+suvṛttaka), n.nom.sg"
+    }
+   ],
+   "question": "What width and shape are prescribed for the goddess’s trident tip?",
+   "premises": [
+    "The tip is taken as the measure of reference.",
+    "The width is reduced by one eighth of that tip.",
+    "The resulting form is described as well-rounded."
+   ],
+   "inference": "The goddess’s trident tip must be well-rounded and wide by a measure one eighth less than the tip.",
+   "uncertainties": [
+    "The exact referent of agrasya as the base measure in this ritual context is not fully explicit."
+   ],
+   "plain_english": "For the goddess, it should be well-rounded and wide, measuring one eighth less than the tip."
+  }
+ ]
+}

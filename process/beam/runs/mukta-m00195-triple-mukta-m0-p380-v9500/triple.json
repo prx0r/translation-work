@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p380",
+ "items": [
+  {
+   "verse": 9500,
+   "rows": [
+    {
+     "surface": "juhuyāl",
+     "gloss": "one-should-offer",
+     "grounds": "optative verb expressing a prescribed ritual action",
+     "morph": "3.sg.act-opt √hu"
+    },
+    {
+     "surface": "lavaṇopetāṃ",
+     "gloss": "mixed-with-salt",
+     "grounds": "compound describing the mustard seed as endowed with salt",
+     "morph": "lavaṇa+upeta-tatpuruṣa.acc.sg.f"
+    },
+    {
+     "surface": "rājikāṃ",
+     "gloss": "mustard-seed",
+     "grounds": "object of the offering",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "specifies the time for the ritual offering",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tatphalam",
+     "gloss": "for-that-result",
+     "grounds": "refers back to the previously stated outcome of destroying enemies",
+     "morph": "tad+phala-karmadhāraya.acc.sg.n"
+    }
+   ],
+   "question": "What nocturnal offering secures the swift destruction of enemies?",
+   "premises": [
+    "A prior mantra practice aims at destroying enemies.",
+    "Mustard seeds can be prepared mixed with salt.",
+    "A ritual offering may be performed at night."
+   ],
+   "inference": "Offering salt-mixed mustard seeds at night accomplishes that intended result.",
+   "uncertainties": [
+    "The exact ritual fire context for juhuyāl is implied but not explicitly stated in this verse."
+   ],
+   "plain_english": "At night, one should offer mustard seeds mixed with salt to achieve that result."
+  }
+ ]
+}

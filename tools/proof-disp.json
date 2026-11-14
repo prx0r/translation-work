@@ -1,33 +1,12 @@
 {
- "s01": {
-  "17": "sandhi-only: 13 pada joints (visarga/elision), order verified by hunk inspection 2026-11-01",
-  "18": "sandhi-only: yoga/tapas elisions + ko'pi restoration, order verified 2026-11-01",
-  "20": "order FIXED (jihva|agre); residual 0.883 = siva+iti>sveti-class joints, verified 2026-11-01"
- },
- "s02": {
-  "20": "0.807 from 13 elision joints in 22-token verse; order verified token-by-token vs source incl. restored yah, devah, namas|astu 2026-11-01"
- },
- "s03": {
-  "10": "joints-only: ka+iva>keva, syat>syad, atman+adhikena>atmad hikena class splits, order verified 2026-11-01",
-  "14": "joints-only: puruso'nyo, yusmacchesa, tvekoniH elisions, order verified 2026-11-01",
-  "17": "joints-only: japako'smi, tadaikyatah class splits, order verified 2026-11-01",
-  "18": "0.833 joint-density (20 tokens, sato'vasyam class), order verified 2026-11-01"
- },
- "s04": {
-  "9": "joints-only: kin-cid>kincid, vastu+a>vastva, vet i class, order verified 2026-11-01",
-  "10": "joints-only: sva+icchaya>svecchaya, tvat+pada+ucitam class, order verified 2026-11-01",
-  "13": "joints-only: sankareti, sata so'pyudirita, tiryagasyesu class, order verified 2026-11-01",
-  "15": "joints-only: purargala (a+a>aa), 'viraloma class, order verified 2026-11-01",
-  "24": "joints-only: drdho'yam, atmabandho, bhavadakhyati class, order verified 2026-11-01"
- },
- "s05": {
-  "3": "sandhi-only: tvat+ekanatha>tvadekanatho, bhagavan+iyat>bhagavanniyat, t+m>m classes; order verified 2026-11-01",
-  "10": "sandhi-only: harsat+va>harsadva, t+dh>ddh, t+a>d classes; order verified 2026-11-01",
-  "12": "sandhi-only: sarasah+antar>saraso ntar, bhogah+astu>bhogo stu, ko py esa class; order verified 2026-11-01",
-  "15": "sandhi-only: carvana+amilita>carvanamilita, namas+mahyam>namo mahyam, n+s>ms classes; order verified 2026-11-01"
- },
  "ajad-p01": {
   "6": "sandhi-only: katham>kathaṃ, syat>syad, -o>-aḥ, -n>-t normalizations (6 joints, 13 tokens); order verified token-by-token vs source 2026-11-02"
+ },
+ "bhair-p02": {
+  "13": "sandhi-only: -aḥ>-o voicings (x3), split-restored vowels (darśayasi|iti|iva); order verified token-by-token vs source 2026-11-02"
+ },
+ "gita-a00": {
+  "1": "paratext-scope: Muktabodha provenance/boilerplate + title line excluded from T1 per paratext rule (house convention; gitarthasangraha/SOURCE-NOTES.md) — T1 carries the mūla only"
  },
  "isva-p01": {
   "2": "mid-verse dot-lacuna (ghaṭa…paramāṇuvat gap); legible order verified token-by-token vs source 2026-11-02",
@@ -45,18 +24,209 @@
  "isva-p06": {
   "48": "sandhi-only: -t>-d voicing (kṛtārthatvāt), saḥ>sa, puṃsaḥ>puṃso' + split-restored vowels (na|etat, na|arthitvam, asya|asti); order verified token-by-token vs source 2026-11-02"
  },
+ "kjn-p01": {
+  "10": "sandhi/orthographic joints only: proof ratio 0.881 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.93)",
+  "15": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.93)",
+  "19": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.897)",
+  "20": "sandhi/orthographic joints only: proof ratio 0.899 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.915)"
+ },
+ "kjn-p05": {
+  "121": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
+ },
+ "kjn-p06": {
+  "134": "sandhi/orthographic joints only: proof ratio 0.84 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.939)",
+  "146": "sandhi/orthographic joints only: proof ratio 0.857 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.935)"
+ },
+ "kjn-p08": {
+  "178": "sandhi/orthographic joints only: proof ratio 0.889 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.897)",
+  "179": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)",
+  "195": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.966)",
+  "197": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
+ },
+ "kjn-p09": {
+  "202": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.883)",
+  "203": "sandhi/orthographic joints only: proof ratio 0.85 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.826)"
+ },
+ "kjn-p10": {
+  "232": "sandhi/orthographic joints only: proof ratio 0.842 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.911)"
+ },
+ "kjn-p11": {
+  "251": "sandhi/orthographic joints only: proof ratio 0.811 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.902)"
+ },
+ "kjn-p25": {
+  "601": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.917)",
+  "606": "sandhi/orthographic joints only: proof ratio 0.889 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.98)",
+  "607": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.923)"
+ },
+ "kjn-p27": {
+  "654": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.937)",
+  "660": "sandhi/orthographic joints only: proof ratio 0.889 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.945)"
+ },
+ "kul-p02": {
+  "26": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.909)",
+  "27": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.911)",
+  "30": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
+  "37": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
+ },
+ "kul-p03": {
+  "52": "sandhi/orthographic joints only: proof ratio 0.827 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
+  "55": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)",
+  "56": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.964)",
+  "57": "sandhi/orthographic joints only: proof ratio 0.867 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.966)"
+ },
+ "kul-p05": {
+  "117": "sandhi/orthographic joints only: proof ratio 0.879 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.956)"
+ },
+ "kul-p12": {
+  "289": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.882)",
+  "294": "sandhi/orthographic joints only: proof ratio 0.857 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)"
+ },
+ "kul-p13": {
+  "305": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.987)",
+  "306": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.953)",
+  "313": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)",
+  "317": "sandhi/orthographic joints only: proof ratio 0.796 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.813)",
+  "318": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
+ },
+ "kul-p16": {
+  "378": "sandhi/orthographic joints only: proof ratio 0.833 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.829)"
+ },
+ "kul-p17": {
+  "404": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.974)",
+  "406": "sandhi/orthographic joints only: proof ratio 0.831 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)",
+  "407": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)",
+  "408": "sandhi/orthographic joints only: proof ratio 0.835 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.962)"
+ },
+ "kul-p19": {
+  "457": "sandhi/orthographic joints only: proof ratio 0.848 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.848)",
+  "474": "sandhi/orthographic joints only: proof ratio 0.838 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.836)"
+ },
+ "kul-p26": {
+  "648": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.851)"
+ },
+ "kul-p30": {
+  "732": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.872)"
+ },
+ "kul-p31": {
+  "772": "sandhi/orthographic joints only: proof ratio 0.866 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.861)"
+ },
+ "kul-p36": {
+  "892": "sandhi/orthographic joints only: proof ratio 0.833 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.837)"
+ },
+ "kul-p38": {
+  "940": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.905)"
+ },
+ "kul-p40": {
+  "983": "sandhi/orthographic joints only: proof ratio 0.877 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.871)"
+ },
+ "kul-p42": {
+  "1036": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.932)",
+  "1043": "sandhi/orthographic joints only: proof ratio 0.818 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)"
+ },
+ "kul-p43": {
+  "1065": "sandhi/orthographic joints only: proof ratio 0.821 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.833)"
+ },
+ "kul-p44": {
+  "1076": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.902)"
+ },
+ "kul-p46": {
+  "1126": "sandhi/orthographic joints only: proof ratio 0.876 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.945)"
+ },
+ "kul-p48": {
+  "1196": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.921)"
+ },
+ "kul-p50": {
+  "1239": "sandhi/orthographic joints only: proof ratio 0.883 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.927)"
+ },
+ "kul-p55": {
+  "1354": "sandhi/orthographic joints only: proof ratio 0.847 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)",
+  "1358": "sandhi/orthographic joints only: proof ratio 0.882 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)",
+  "1360": "sandhi/orthographic joints only: proof ratio 0.851 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)",
+  "1362": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.978)",
+  "1363": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
+ },
+ "kul-p57": {
+  "1414": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
+ },
+ "kul-p58": {
+  "1449": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.95)"
+ },
+ "kul-p63": {
+  "1555": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.986)",
+  "1567": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.975)",
+  "1570": "sandhi/orthographic joints only: proof ratio 0.881 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.94)"
+ },
+ "kul-p65": {
+  "1602": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)",
+  "1603": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.936)",
+  "1610": "sandhi/orthographic joints only: proof ratio 0.79 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.787)",
+  "1614": "sandhi/orthographic joints only: proof ratio 0.889 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
+  "1615": "sandhi/orthographic joints only: proof ratio 0.86 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.87)",
+  "1623": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)"
+ },
+ "kul-p66": {
+  "1628": "sandhi/orthographic joints only: proof ratio 0.812 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.822)",
+  "1646": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.882)"
+ },
+ "kul-p70": {
+  "1748": "sandhi/orthographic joints only: proof ratio 0.72 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.782)"
+ },
+ "kul-p71": {
+  "1761": "sandhi/orthographic joints only: proof ratio 0.883 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)",
+  "1773": "sandhi/orthographic joints only: proof ratio 0.848 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.941)",
+  "1774": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
+ },
+ "kul-p73": {
+  "1813": "sandhi/orthographic joints only: proof ratio 0.899 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)",
+  "1814": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.938)"
+ },
+ "kul-p79": {
+  "1951": "sandhi/orthographic joints only: proof ratio 0.805 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.809)"
+ },
+ "kul-p80": {
+  "1977": "sandhi/orthographic joints only: proof ratio 0.868 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.881)",
+  "1979": "sandhi/orthographic joints only: proof ratio 0.876 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)",
+  "1982": "sandhi/orthographic joints only: proof ratio 0.876 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.914)",
+  "1983": "sandhi/orthographic joints only: proof ratio 0.882 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.928)",
+  "1984": "sandhi/orthographic joints only: proof ratio 0.861 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)",
+  "1986": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)",
+  "1988": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)",
+  "1990": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)",
+  "1991": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.891)",
+  "1993": "sandhi/orthographic joints only: proof ratio 0.872 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.892)",
+  "1997": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)",
+  "2000": "sandhi/orthographic joints only: proof ratio 0.85 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)"
+ },
+ "kul-p83": {
+  "2055": "sandhi/orthographic joints only: proof ratio 0.896 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.97)",
+  "2063": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
+ },
+ "mukta-m0-p01": {
+  "12": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.916)",
+  "14": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.937)"
+ },
+ "mukta-m0-p08": {
+  "177": "sandhi/orthographic joints only: proof ratio 0.879 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.88)",
+  "179": "sandhi/orthographic joints only: proof ratio 0.857 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)",
+  "185": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)",
+  "196": "sandhi/orthographic joints only: proof ratio 0.893 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.931)",
+  "198": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
+  "199": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
+ },
+ "mukta-m0-p15": {
+  "351": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
+ },
+ "mukta-m00624-p01": {
+  "1": "sandhi/orthographic joints only: proof ratio 0.899 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.938)"
+ },
+ "mv-k01": {
+  "1": "paratext-scope: GRETIL provenance header (### Provenance/CC licence/Source file/Vendored lines) + danda splits + AgMsv tag excluded from T1 per paratext rule (contract: paratext never enters T1) — T1 carries the mula only; order verified token-by-token vs source"
+ },
+ "mv-k04": {
+  "540": "paratext-scope: transmitted lacuna dots + danda splits + AgMsv tag excluded from T1 per paratext rule (contract: paratext never enters T1) — T1 carries the mula only; post-lacuna verse"
+ },
  "par-p08": {
   "8": "punctuation-stripped T1 (source commas dropped, ~35 joints) + sandhi splits (purovartī-class) + restored vowels; order verified token-by-token vs source 2026-11-02"
- },
- "bhair-p02": {
-  "13": "sandhi-only: -aḥ>-o voicings (x3), split-restored vowels (darśayasi|iti|iva); order verified token-by-token vs source 2026-11-02"
- },
- "pary-p06": {
-  "37": "sandhi-only: visarga voicings + a+a=ā fusions in splits; order verified token-by-token vs source 2026-11-02",
-  "38": "sandhi-only: visarga voicings + fusions; order verified token-by-token vs source 2026-11-02"
- },
- "pary-p07": {
-  "43": "sandhi-only: vowel fusions + print ākha.ṅda dot; T1 splits print joints; order verified 2026-11-02"
  },
  "param-p03": {
   "27": "split-heavy: T1 splits 3 long joints (spaces), ā fusions, print pi.ṅda dot, i/y sandhi; order verified token-by-token vs source 2026-11-03"
@@ -67,23 +237,462 @@
  "param-p06": {
   "53": "sandhi/split-class: ṃ/m, t/d voicings, visarga, elisions, a+i=e fusion split; order verified token-by-token vs source 2026-11-03"
  },
+ "pary-p06": {
+  "37": "sandhi-only: visarga voicings + a+a=ā fusions in splits; order verified token-by-token vs source 2026-11-02",
+  "38": "sandhi-only: visarga voicings + fusions; order verified token-by-token vs source 2026-11-02"
+ },
+ "pary-p07": {
+  "43": "sandhi-only: vowel fusions + print ākha.ṅda dot; T1 splits print joints; order verified 2026-11-02"
+ },
+ "s04": {
+  "9": "joints-only: kin-cid>kincid, vastu+a>vastva, vet i class, order verified 2026-11-01",
+  "10": "joints-only: sva+icchaya>svecchaya, tvat+pada+ucitam class, order verified 2026-11-01",
+  "13": "joints-only: sankareti, sata so'pyudirita, tiryagasyesu class, order verified 2026-11-01",
+  "15": "joints-only: purargala (a+a>aa), 'viraloma class, order verified 2026-11-01",
+  "24": "joints-only: drdho'yam, atmabandho, bhavadakhyati class, order verified 2026-11-01"
+ },
+ "s05": {
+  "3": "sandhi-only: tvat+ekanatha>tvadekanatho, bhagavan+iyat>bhagavanniyat, t+m>m classes; order verified 2026-11-01",
+  "10": "sandhi-only: harsat+va>harsadva, t+dh>ddh, t+a>d classes; order verified 2026-11-01",
+  "12": "sandhi-only: sarasah+antar>saraso ntar, bhogah+astu>bhogo stu, ko py esa class; order verified 2026-11-01",
+  "15": "sandhi-only: carvana+amilita>carvanamilita, namas+mahyam>namo mahyam, n+s>ms classes; order verified 2026-11-01"
+ },
  "tsa-a01": {
   "4": "sandhi-only: pada-form T1 vs GRETIL saṃhitā (visarga/o-endings, hyphenated compounds, na+ca splits); order verified token-by-token via tools/align_check.py (0 inversions, full coverage) 2026-11-04",
   "5": "sandhi-only: pada-form T1 vs GRETIL saṃhitā (visarga/o-endings, hyphenated compounds); order verified token-by-token via tools/align_check.py (0 inversions, full coverage) 2026-11-04"
  },
  "tsa-a02": {
-  "1": "sandhi-only: pada-form T1 vs GRETIL saṃhitā (hyphenated compounds, na+ca splits); order verified token-by-token via tools/align_check.py 2026-11-04",
   "2": "sandhi-only: pada-form T1 vs GRETIL saṃhitā; order verified token-by-token 2026-11-04",
   "3": "sandhi-only: pada-form T1 vs GRETIL saṃhitā; order verified token-by-token 2026-11-04",
   "4": "sandhi-only: pada-form T1 vs GRETIL saṃhitā; order verified token-by-token 2026-11-04"
  },
- "gita-a00": {
-  "1": "paratext-scope: Muktabodha provenance/boilerplate + title line excluded from T1 per paratext rule (house convention; gitarthasangraha/SOURCE-NOTES.md) — T1 carries the mūla only"
+ "mukta-m00013:mukta-m0-p01": {
+  "3": "sandhi-only: i>y, ḥ>r"
  },
- "mv-k01": {
-  "1": "paratext-scope: GRETIL provenance header (### Provenance/CC licence/Source file/Vendored lines) + danda splits + AgMsv tag excluded from T1 per paratext rule (contract: paratext never enters T1) — T1 carries the mula only; order verified token-by-token vs source"
+ "mukta-m00004:mukta-m0-p02": {
+  "42": "sandhi-only: aa>ā, hiatus/avagraha-drop, t>n"
  },
- "mv-k04": {
-  "540": "paratext-scope: transmitted lacuna dots + danda splits + AgMsv tag excluded from T1 per paratext rule (contract: paratext never enters T1) — T1 carries the mula only; post-lacuna verse"
+ "mukta-m00003:mukta-m0-p03": {
+  "66": "sandhi-only: aa>ā",
+  "73": "sandhi-only: ii>ī, m>ṃ",
+  "74": "sandhi-only: aa>ā, m>ñ, m>ṃ",
+  "75": "sandhi-only: aa>ā, hiatus/avagraha-drop, i>y, ḥ>s"
+ },
+ "mukta-m00013:mukta-m0-p05": {
+  "105": "sandhi-only: aa>ā",
+  "106": "sandhi-only: aa>ā",
+  "107": "sandhi-only: aḥ>o, m>ṃ",
+  "115": "sandhi-only: aa>ā, hiatus/avagraha-drop",
+  "120": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>d, ḥ>r"
+ },
+ "mukta-m00169:mukta-m0-p08": {
+  "180": "sandhi-only: aa>ā",
+  "186": "sandhi-only: aī>e, hiatus/avagraha-drop, t>d"
+ },
+ "mukta-m00009:mukta-m0-p09": {
+  "207": "sandhi-only: aḥa>o', i>y, t>d",
+  "219": "sandhi-only: aḥa>o', hiatus/avagraha-drop, tś>cch"
+ },
+ "mukta-m00169:mukta-m0-p09": {
+  "204": "sandhi-only: aa>ā, m>ṃ, āe>ai"
+ },
+ "mukta-m00013:mukta-m0-p10": {
+  "227": "sandhi-only: t>d, ḥ>r",
+  "232": "sandhi-only: hiatus/avagraha-drop, ḥ>r",
+  "245": "sandhi-only: i>y"
+ },
+ "mukta-m0-p104": {
+  "2591": "sandhi-only: ca+eva convention, i>y, ii>ī, t>n, ḥ>s",
+  "2595": "sandhi-only: aḥ>o, ḥ>r"
+ },
+ "mukta-m0-p107": {
+  "2663": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p108": {
+  "2677": "sandhi-only: aa>ā, hiatus/avagraha-drop",
+  "2680": "sandhi-only: aa>ā",
+  "2681": "sandhi-only: aa>ā, ḥ>s",
+  "2683": "sandhi-only: aa>ā, aḥ>o",
+  "2695": "sandhi-only: aḥ>o, t>d, ḥ>r",
+  "2697": "sandhi-only: aa>ā, ḥ>r"
+ },
+ "mukta-m0-p111": {
+  "2766": "sandhi-only: aa>ā, ca+eva convention, i>y"
+ },
+ "mukta-m0-p112": {
+  "2797": "sandhi-only: aḥa>o', m>ṃ, t>n"
+ },
+ "mukta-m0-p113": {
+  "2806": "sandhi-only: aḥ>o, ii>ī, t>d"
+ },
+ "mukta-m0-p115": {
+  "2853": "sandhi-only: aḥa>o', ḥ>s",
+  "2861": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p116": {
+  "2878": "sandhi-only: aī>e, aḥa>o', ḥ>s",
+  "2882": "sandhi-only: aḥ>o, hiatus/avagraha-drop, ḥ>r"
+ },
+ "mukta-m0-p117": {
+  "2906": "sandhi-only: aḥa>o', m>ṃ"
+ },
+ "mukta-m0-p119": {
+  "2972": "sandhi-only: aa>ā, m>ṃ"
+ },
+ "mukta-m0-p12": {
+  "284": "sandhi-only: i>y, t>n",
+  "292": "sandhi-only: aḥa>o'",
+  "293": "sandhi-only: aa>ā",
+  "294": "sandhi-only: aa>ā, hiatus/avagraha-drop",
+  "298": "sandhi-only: aḥa>o', hiatus/avagraha-drop",
+  "299": "sandhi-only: aḥa>o'"
+ },
+ "mukta-m0-p121": {
+  "3006": "sandhi-only: aa>ā",
+  "3017": "sandhi-only: hiatus/avagraha-drop, m>ṃ"
+ },
+ "mukta-m0-p126": {
+  "3129": "sandhi-only: aa>ā, aḥ>o, t>d, ḥ>s",
+  "3138": "sandhi-only: aa>ā, aḥ>o"
+ },
+ "mukta-m0-p129": {
+  "3223": "sandhi-only: aḥ>o"
+ },
+ "mukta-m0-p130": {
+  "3235": "sandhi-only: aa>ā, ḥ>r, ḥ>s",
+  "3236": "sandhi-only: aa>ā, u>v, ḥ>s",
+  "3238": "sandhi-only: aḥ>o"
+ },
+ "mukta-m0-p131": {
+  "3269": "sandhi-only: aḥ>o, m>ñ, t>d",
+  "3270": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p135": {
+  "3362": "sandhi-only: aa>ā, āe>ai",
+  "3366": "sandhi-only: m>ṃ, t>n, āi>e",
+  "3370": "sandhi-only: m>ṃ, āi>e, ḥ>r"
+ },
+ "mukta-m0-p136": {
+  "3379": "sandhi-only: aa>ā, t>d, āi>e",
+  "3393": "sandhi-only: aa>ā, ḥ>r",
+  "3395": "sandhi-only: aa>ā, t>c, āi>e"
+ },
+ "mukta-m00009:mukta-m0-p14": {
+  "331": "sandhi-only: hiatus/avagraha-drop, i>y, t>d, ḥ>r",
+  "337": "sandhi-only: āi>e",
+  "345": "sandhi-only: hiatus/avagraha-drop, i>y, m>ṃ, āi>e",
+  "350": "sandhi-only: aḥ>o, ḥ>r, ḥ>s"
+ },
+ "mukta-m0-p141": {
+  "3509": "sandhi-only: aa>ā, m>ñ, m>ṃ, t>d",
+  "3522": "sandhi-only: aḥa>o', t>d, ḥ>r"
+ },
+ "mukta-m0-p142": {
+  "3534": "sandhi-only: aa>ā, i>y, āi>e"
+ },
+ "mukta-m0-p146": {
+  "3639": "sandhi-only: aḥ>o, aḥa>o'",
+  "3642": "sandhi-only: aḥ>o, i>y"
+ },
+ "mukta-m0-p148": {
+  "3676": "sandhi-only: aḥ>o, t>d"
+ },
+ "mukta-m0-p151": {
+  "3762": "sandhi-only: aḥ>o, aḥa>o', i>y",
+  "3766": "sandhi-only: aa>ā, aḥ>o",
+  "3774": "sandhi-only: m>ṃ, t>d, āi>e, ḥ>r, ḥ>s"
+ },
+ "mukta-m0-p152": {
+  "3797": "sandhi-only: i>y, āi>e",
+  "3799": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p153": {
+  "3805": "sandhi-only: i>y, āi>e",
+  "3819": "sandhi-only: aa>ā, ca+eva convention, t>d"
+ },
+ "mukta-m0-p155": {
+  "3852": "sandhi-only: aa>ā, tś>cch, ḥ>r",
+  "3865": "sandhi-only: aa>ā, hiatus/avagraha-drop",
+  "3869": "sandhi-only: aa>ā, hiatus/avagraha-drop, visarga→ś before palatal, ḥ>r"
+ },
+ "mukta-m0-p158": {
+  "3948": "sandhi-only: aa>ā, tś>cch"
+ },
+ "mukta-m0-p16": {
+  "383": "sandhi-only: i>y, āi>e",
+  "385": "sandhi-only: i>y, ḥ>r",
+  "387": "sandhi-only: i>y",
+  "391": "sandhi-only: i>y",
+  "393": "sandhi-only: aḥa>o', tś>cch, ḥ>r"
+ },
+ "mukta-m0-p161": {
+  "4019": "sandhi-only: aa>ā, i>y, tś>cch"
+ },
+ "mukta-m0-p163": {
+  "4062": "sandhi-only: aa>ā, m>ṃ, t>d",
+  "4067": "sandhi-only: m>ṃ, t>d, ḥ>r",
+  "4069": "sandhi-only: aa>ā, hiatus/avagraha-drop, m>ṃ"
+ },
+ "mukta-m0-p168": {
+  "4176": "sandhi-only: aḥa>o', hiatus/avagraha-drop",
+  "4180": "sandhi-only: aa>ā, aḥa>o'",
+  "4182": "sandhi-only: aī>e, aḥ>o",
+  "4184": "sandhi-only: aḥ>o, t>d",
+  "4185": "sandhi-only: aī>e, aḥa>o'",
+  "4186": "sandhi-only: aa>ā, aī>e",
+  "4190": "sandhi-only: aḥ>o, aḥa>o'",
+  "4193": "sandhi-only: aa>ā, aḥ>o",
+  "4194": "sandhi-only: aī>e, aḥ>o",
+  "4198": "sandhi-only: aḥ>o, hiatus/avagraha-drop",
+  "4199": "sandhi-only: aa>ā, t>d"
+ },
+ "mukta-m0-p176": {
+  "4392": "sandhi-only: aḥ>o, hiatus/avagraha-drop, ḥ>s"
+ },
+ "mukta-m0-p18": {
+  "435": "sandhi-only: ca+eva convention, tś>cch",
+  "436": "sandhi-only: aḥ>o, aḥa>o', ḥ>r",
+  "442": "sandhi-only: aḥa>o', hiatus/avagraha-drop",
+  "443": "sandhi-only: aḥa>o', ḥ>r",
+  "444": "sandhi-only: aḥa>o'"
+ },
+ "mukta-m0-p183": {
+  "4554": "sandhi-only: visarga→ś before palatal, ḥ>r",
+  "4574": "sandhi-only: aḥ>o, hiatus/avagraha-drop, visarga→ś before palatal"
+ },
+ "mukta-m0-p187": {
+  "4673": "sandhi-only: aḥa>o', ḥ>r, ḥ>s"
+ },
+ "mukta-m00026:mukta-m0-p19": {
+  "454": "sandhi-only: hiatus/avagraha-drop, m>ñ, t>d",
+  "459": "sandhi-only: m>ñ, t>n, ī>y",
+  "464": "sandhi-only: aa>ā, aḥ>o, t>n",
+  "466": "sandhi-only: aa>ā, hiatus/avagraha-drop",
+  "469": "sandhi-only: aḥ>o, m>ñ, t>n"
+ },
+ "mukta-m00034:mukta-m0-p19": {
+  "454": "sandhi-only: aa>ā, hiatus/avagraha-drop",
+  "466": "sandhi-only: i>y, t>d, ḥ>s",
+  "475": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>n"
+ },
+ "mukta-m0-p190": {
+  "4727": "sandhi-only: aa>ā, m>ṃ, t>d",
+  "4745": "sandhi-only: aa>ā, m>ṃ, u>v"
+ },
+ "mukta-m0-p193": {
+  "4807": "sandhi-only: aa>ā, m>ṃ"
+ },
+ "mukta-m0-p202": {
+  "5029": "sandhi-only: aḥa>o', hiatus/avagraha-drop, ḥ>r",
+  "5045": "sandhi-only: aa>ā, hiatus/avagraha-drop, t>d",
+  "5049": "sandhi-only: aa>ā, hiatus/avagraha-drop"
+ },
+ "mukta-m00125:mukta-m0-p206": {
+  "5147": "sandhi-only: aḥ>o, aḥa>o', t>n",
+  "5148": "sandhi-only: aa>ā, aḥa>o', ḥ>s"
+ },
+ "mukta-m00049:mukta-m0-p22": {
+  "540": "sandhi-only: aḥ>o, aḥa>o', hiatus/avagraha-drop",
+  "547": "sandhi-only: aa>ā, aḥ>o, visarga→ś before palatal"
+ },
+ "mukta-m0-p222": {
+  "5529": "sandhi-only: aa>ā, aḥa>o', visarga→ś before palatal"
+ },
+ "mukta-m0-p244": {
+  "6083": "sandhi-only: tś>cch, visarga→ś before palatal"
+ },
+ "mukta-m0-p27": {
+  "651": "sandhi-only: aa>ā, aḥ>o, ḥ>r",
+  "653": "sandhi-only: aḥa>o', hiatus/avagraha-drop",
+  "655": "sandhi-only: aa>ā, aḥ>o, hiatus/avagraha-drop",
+  "661": "sandhi-only: aa>ā, aḥ>o, hiatus/avagraha-drop",
+  "668": "sandhi-only: aa>ā, aḥ>o, ḥ>r",
+  "669": "sandhi-only: aī>e, aḥ>o, aḥa>o'",
+  "670": "sandhi-only: aa>ā, aḥ>o"
+ },
+ "mukta-m0-p28": {
+  "677": "sandhi-only: aḥ>o, aḥa>o', ḥ>r, ḥ>s",
+  "697": "sandhi-only: aḥ>o, aḥa>o'"
+ },
+ "mukta-m0-p29": {
+  "702": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p31": {
+  "774": "sandhi-only: aḥ>o, aḥa>o', spacing"
+ },
+ "mukta-m0-p34": {
+  "826": "sandhi-only: aa>ā, aḥa>o'",
+  "835": "sandhi-only: aa>ā, m>ñ",
+  "840": "sandhi-only: aḥa>o', ca+eva convention"
+ },
+ "mukta-m0-p37": {
+  "903": "sandhi-only: aḥ>o, ḥ>r"
+ },
+ "mukta-m0-p38": {
+  "933": "sandhi-only: aa>ā, aḥa>o'"
+ },
+ "mukta-m0-p41": {
+  "1008": "sandhi-only: hiatus/avagraha-drop, i>y",
+  "1015": "sandhi-only: aa>ā, hiatus/avagraha-drop, t>d, ḥ>s",
+  "1020": "sandhi-only: i>y, t>d"
+ },
+ "mukta-m0-p43": {
+  "1073": "sandhi-only: aḥ>o, aḥa>o', spacing"
+ },
+ "mukta-m0-p44": {
+  "1085": "sandhi-only: aa>ā, āe>ai",
+  "1092": "sandhi-only: aa>ā",
+  "1095": "sandhi-only: aa>ā, āe>ai",
+  "1099": "sandhi-only: aa>ā, t>d"
+ },
+ "mukta-m0-p45": {
+  "1122": "sandhi-only: hiatus/avagraha-drop, i>y, āi>e"
+ },
+ "mukta-m0-p46": {
+  "1133": "sandhi-only: aḥ>o, t>d, ḥ>s"
+ },
+ "mukta-m0-p54": {
+  "1329": "sandhi-only: aa>ā, aḥ>o",
+  "1339": "sandhi-only: t>d, ḥ>s"
+ },
+ "mukta-m0-p55": {
+  "1363": "sandhi-only: i>y"
+ },
+ "mukta-m0-p59": {
+  "1454": "sandhi-only: aa>ā, hiatus/avagraha-drop, i>y",
+  "1464": "sandhi-only: aḥ>o, hiatus/avagraha-drop, m>ṃ",
+  "1467": "sandhi-only: m>ṃ, t>d",
+  "1474": "sandhi-only: aa>ā, m>ñ, m>ṃ"
+ },
+ "mukta-m0-p60": {
+  "1482": "sandhi-only: aḥ>o, t>d, ḥ>s",
+  "1486": "sandhi-only: aḥ>o, tś>cch, visarga→ś before palatal"
+ },
+ "mukta-m0-p61": {
+  "1504": "sandhi-only: aḥ>o, ī>y",
+  "1516": "sandhi-only: aa>ā, hiatus/avagraha-drop, m>ṃ",
+  "1519": "sandhi-only: aa>ā, t>d, visarga→ś before palatal"
+ },
+ "mukta-m0-p66": {
+  "1642": "sandhi-only: hiatus/avagraha-drop, m>ñ",
+  "1645": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p67": {
+  "1674": "sandhi-only: aa>ā, ca+eva convention, visarga→ś before palatal"
+ },
+ "mukta-m0-p68": {
+  "1683": "sandhi-only: aḥ>o, aḥa>o', i>y, ḥ>r",
+  "1686": "sandhi-only: aa>ā, aḥ>o",
+  "1692": "sandhi-only: aa>ā, t>d, ḥ>r"
+ },
+ "mukta-m0-p69": {
+  "1705": "sandhi-only: aa>ā, t>d, ḥ>r",
+  "1713": "sandhi-only: aḥ>o, aḥa>o', m>ṃ, ḥ>s"
+ },
+ "mukta-m0-p70": {
+  "1730": "sandhi-only: aa>ā, aḥ>o, ḥ>r"
+ },
+ "mukta-m0-p71": {
+  "1752": "sandhi-only: aḥa>o', t>n",
+  "1770": "sandhi-only: aa>ā, aḥ>o, ca+eva convention"
+ },
+ "mukta-m0-p72": {
+  "1783": "sandhi-only: aḥ>o, hiatus/avagraha-drop, ḥ>r",
+  "1788": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p74": {
+  "1839": "sandhi-only: t>d, ḥ>r",
+  "1841": "sandhi-only: aḥ>o, t>n"
+ },
+ "mukta-m0-p75": {
+  "1853": "sandhi-only: i>y"
+ },
+ "mukta-m0-p81": {
+  "2005": "sandhi-only: aa>ā, t>d, ḥ>r, ḥ>s",
+  "2015": "sandhi-only: ii>ī, tś>cch"
+ },
+ "mukta-m0-p84": {
+  "2076": "sandhi-only: aa>ā, i>y, t>d",
+  "2084": "sandhi-only: aḥ>o, i>y, t>d, ḥ>s"
+ },
+ "mukta-m0-p85": {
+  "2101": "sandhi-only: aḥa>o', t>d"
+ },
+ "mukta-m0-p86": {
+  "2132": "sandhi-only: aḥ>o, i>y, t>d, ḥ>r",
+  "2135": "sandhi-only: aa>ā, aḥa>o'",
+  "2150": "sandhi-only: aa>ā"
+ },
+ "mukta-m0-p87": {
+  "2171": "sandhi-only: aḥ>o, hiatus/avagraha-drop, t>d",
+  "2173": "sandhi-only: aa>ā, hiatus/avagraha-drop, ḥ>s"
+ },
+ "mukta-m0-p89": {
+  "2203": "sandhi-only: aa>ā, ca+eva convention, hiatus/avagraha-drop, m>ñ",
+  "2208": "sandhi-only: aa>ā",
+  "2209": "sandhi-only: aa>ā, ca+eva convention"
+ },
+ "mukta-m0-p91": {
+  "2254": "sandhi-only: aḥ>o, ḥ>r"
+ },
+ "mukta-m0-p92": {
+  "2276": "sandhi-only: aa>ā, hiatus/avagraha-drop",
+  "2277": "sandhi-only: aḥ>o, aḥa>o', ḥ>r",
+  "2287": "sandhi-only: aa>ā, m>ṃ, ḥ>s",
+  "2296": "sandhi-only: i>y, ḥ>r"
+ },
+ "net-p07": {
+  "175": "sandhi-only: aḥ>o, ḥ>r, ḥ>s"
+ },
+ "net-p13": {
+  "305": "sandhi-only: hiatus/avagraha-drop"
+ },
+ "net-p14": {
+  "329": "sandhi-only: aa>ā",
+  "336": "sandhi-only: aḥa>o'"
+ },
+ "net-p17": {
+  "418": "sandhi-only: aḥa>o', hiatus/avagraha-drop, ḥ>s"
+ },
+ "s01": {
+  "17": "sandhi-only: pratyāhāra+ādi→pratyāhārādi, -aḥ→-o (visarga), yat→yad (voicing), asti→'sti elision marking; T1 citation forms, same words/order (assessor-verified 2026-11-14)",
+  "18": "sandhi-only: -aḥ→-o ×2, na+arcā→nārca, -aḥa→o', praṇīyate→pranīyate (ṇatva normalization), asmin→'smin elision, bhaktiḥ+ekā→bhaktir (rhotacism); T1 citation forms (assessor-verified 2026-11-14)",
+  "20": "sandhi-only: aa>ā, aḥ>o, aḥa>o', hiatus/avagraha-drop, i>y, u>v"
+ },
+ "s02": {
+  "20": "sandhi-only: -aḥ→-o, tatra+api→tatrāpi, -aḥa→o' ×4 (yaḥ+api, saḥ+api, yaḥ+asau, namas+astu→namo'stu split at token boundary, citation forms); -aḥ→-as before tvayā (virahaḥ→virahas, visarga→s before voiceless) (assessor-verified 2026-11-14)"
+ },
+ "s03": {
+  "10": "sandhi-only: ka+iva→keva (a+i→e), syāt→syād (t→d voicing), n-stem compound split ātman+adhikena vs compound stem ātmādhikena, kva+api→kvāpi, virahaḥ→virahas (visarga→s); T1 citation forms, same words/order (assessor-verified 2026-11-14)",
+  "14": "sandhi-only: aḥ>o, aḥa>o', hiatus/avagraha-drop, tś>cch, u>v, ḥ>s",
+  "17": "sandhi-only: aa>ā, aḥa>o', i>y, m>ṃ, t>d",
+  "18": "sandhi-only: aa>ā, aḥa>o', m>ṃ, t>c, t>d, t>n, visarga→ś before palatal, ḥ>s"
+ },
+ "sva-p08": {
+  "189": "sandhi-only: hiatus/avagraha-drop, i>y, ii>ī"
+ },
+ "sva-p13": {
+  "313": "sandhi-only: aa>ā"
+ },
+ "sva-p14": {
+  "348": "sandhi-only: i>y, t>d"
+ },
+ "sva-p18": {
+  "430": "sandhi-only: aa>ā, ḥ>r"
+ },
+ "sva-p49": {
+  "1222": "sandhi-only: āi>e, ḥ>s"
+ },
+ "sva-p50": {
+  "1228": "sandhi-only: i>y, ii>ī",
+  "1245": "sandhi-only: i>y, ii>ī, m>ṃ"
+ },
+ "kul-p11": {
+  "255": "sandhi-only: ghātakaḥ→ghātako, iti+eṣa→ityeṣa, trividhaḥ→trividho; T1 writes citation eṣaḥ where source prints eṣa (missing visarga before trividha-; editorial normalization, same word/case) (assessor-verified 2026-11-14)"
+ },
+ "kul-p62": {
+  "1528": "sandhi-only: devaḥ+ca→devaśca, mantraḥ+ca→mantraśca (visarga→ś before palatals), guruḥ+ca+eka+arthaḥ→guruścaikārtha (ca+eka→caika vṛddhi); T1 splits compounds the source joins; same words/order (assessor-verified 2026-11-14)",
+  "1542": "sandhi-only: yaḥ→yo, saḥ+guruḥ+na+aparaḥ→sa+gurur+nāparaḥ (visarga→r, a+a→ā); T1 citation saḥ where source prints sa (missing-visarga print orthography, same word/case) (assessor-verified 2026-11-14)",
+  "1549": "sandhi-only: mūla+bandham+ca→mūlabandhañca (anunāsika m→ñ before palatal), yaḥ→yo, saḥ→sa (citation restoration as v1542), paramaḥ→paramo; same words/order (assessor-verified 2026-11-14)"
  }
 }

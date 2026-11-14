@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p310",
+ "items": [
+  {
+   "verse": 7750,
+   "rows": [
+    {
+     "surface": "sarvalokam",
+     "gloss": "all-worlds",
+     "grounds": "compound of sarva (all) and loka (world), object of uktvā",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "absolutive of √vac, governs preceding and following utterance elements",
+     "morph": "gerund.√vac"
+    },
+    {
+     "surface": "amukaṃ",
+     "gloss": "so-and-so",
+     "grounds": "placeholder for the designated target person named in the formula",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive optative completing the ritual instruction",
+     "morph": "3.sg.act.opt.√vad"
+    }
+   ],
+   "question": "Which concluding utterance must follow invoking all worlds and the designated target?",
+   "premises": [
+    "The ritual instruction requires uttering the phrase sarvalokam.",
+    "The designated target must be named by the placeholder amukam.",
+    "The optative vadet prescribes a subsequent act of speaking."
+   ],
+   "inference": "After saying sarvalokam and naming the target as amukam, the practitioner must utter the prescribed concluding word.",
+   "uncertainties": [
+    "The specific concluding word to be spoken is supplied by the preceding or following ritual context."
+   ],
+   "plain_english": "Having said 'all the worlds' and named the designated person, one should then speak the prescribed concluding word."
+  }
+ ]
+}

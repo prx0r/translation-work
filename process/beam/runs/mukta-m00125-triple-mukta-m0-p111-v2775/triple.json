@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "nṛpa",
+     "gloss": "king",
+     "grounds": "first member of compound nṛpa-bhaṅgāya",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhaṅgāya",
+     "gloss": "for-destruction",
+     "grounds": "dative of purpose in compound nṛpa-bhaṅgāya",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "jātāste",
+     "gloss": "born-they",
+     "grounds": "fused sandhi: jātāḥ + te",
+     "morph": "m.nom.pl(ppp,√jan)+pron.2.nom.pl"
+    },
+    {
+     "surface": "rāṣṭravikṣobhakāriṇaḥ",
+     "gloss": "realm-disturbance-causing",
+     "grounds": "compound rāṣṭra-vikṣobha-kārin, describing the subjects",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What destructive consequences befall the king and realm when required expiation is neglected?",
+   "premises": [
+    "Such persons are born for the destruction of the king.",
+    "Such persons become agents causing disturbance to the realm."
+   ],
+   "inference": "Neglect of required expiation results in forces that bring ruin to the king and turmoil to the state.",
+   "uncertainties": [
+    "The subject 'they' (te) refers back to the officiants mentioned in the preceding verses."
+   ],
+   "plain_english": "They are born for the destruction of the king and become causes of turmoil in the realm."
+  }
+ ]
+}

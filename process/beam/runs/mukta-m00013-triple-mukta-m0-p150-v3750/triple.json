@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "ātmavidyāśivaistattvaiḥ",
+     "gloss": "with-self-knowledge-shiva-principles",
+     "grounds": "instrumental plural of compound ātman-vidyā-śiva-tattva; denotes sipping with these principles",
+     "morph": "ātman+vidyā+śiva+tattva+instr.pl.nt"
+    },
+    {
+     "surface": "ācāmya",
+     "gloss": "having-sipped",
+     "grounds": "absolutive indicating ritual sipping completed before next action",
+     "morph": "gerund (ā-√cam)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "refers to remaining ritual actions not specified here",
+     "morph": "pron.acc.sg.nt"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction for subsequent ritual conduct",
+     "morph": "3.sg.act.opt (sam-ā-√car)"
+    }
+   ],
+   "question": "What ritual conduct must follow sipping performed with the principles of self, knowledge, and Śiva?",
+   "premises": [
+    "Ritual sipping is performed with the principles of self, knowledge, and Śiva.",
+    "The act of sipping is completed before subsequent conduct.",
+    "Remaining ritual actions are to be carried out afterward."
+   ],
+   "inference": "After performing sipping with the principles of self, knowledge, and Śiva, the practitioner should perform the other prescribed ritual acts.",
+   "uncertainties": [
+    "The specific rites included under 'anyat' are not named in this verse."
+   ],
+   "plain_english": "Having performed the sipping rite with the principles of self, knowledge, and Śiva, one should then carry out the other rites."
+  }
+ ]
+}

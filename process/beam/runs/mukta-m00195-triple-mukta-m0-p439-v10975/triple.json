@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p439",
+ "items": [
+  {
+   "verse": 10975,
+   "rows": [
+    {
+     "surface": "svarṇa",
+     "gloss": "gold",
+     "grounds": "first member describing hue; forms descriptive compound sense with ābhaḥ",
+     "morph": "compound-first"
+    },
+    {
+     "surface": "ābhaḥ",
+     "gloss": "hued",
+     "grounds": "having splendor or color; qualifies vasudevaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vasudevaḥ",
+     "gloss": "Vasudeva",
+     "grounds": "proper name, subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktaḥ",
+     "gloss": "red",
+     "grounds": "color attribute qualifying nandaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nandaḥ",
+     "gloss": "Nanda",
+     "grounds": "proper name, subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle stating declared attribute",
+     "morph": "m.nom.sg.past-passive-participle pra-√kīrt"
+    }
+   ],
+   "question": "What distinctive hues are attributed to Vasudeva and Nanda respectively?",
+   "premises": [
+    "Vasudeva is described as having a golden hue.",
+    "Nanda is described as being red.",
+    "These attributes are explicitly proclaimed."
+   ],
+   "inference": "Vasudeva and Nanda are distinguished by their proclaimed golden and red hues.",
+   "uncertainties": [],
+   "plain_english": "Vasudeva is indeed golden-hued, while Nanda is proclaimed to be red."
+  }
+ ]
+}

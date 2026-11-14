@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3725,
+   "rows": [
+    {
+     "surface": "atyantābhāsa",
+     "gloss": "extreme-appearance",
+     "grounds": "compound member qualifying bhedaṃ; atyanta+ābhāsa",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedaṃ",
+     "gloss": "division",
+     "grounds": "object denoting a classification or variety",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle adding to prior classifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "specifies the number of divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address; dvija+sattama compound",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Into how many divisions is the variety of extreme appearance classified?",
+   "premises": [
+    "The passage continues a sequence of classifications.",
+    "The division is specified as that of extreme appearance.",
+    "The stated number of divisions is ninefold."
+   ],
+   "inference": "The variety of extreme appearance is classified into nine divisions.",
+   "uncertainties": [
+    "The precise doctrinal referent of atyantābhāsa in this context is not fully specified."
+   ],
+   "plain_english": "And, O best of the twice-born, the division of extreme appearance is ninefold."
+  }
+ ]
+}

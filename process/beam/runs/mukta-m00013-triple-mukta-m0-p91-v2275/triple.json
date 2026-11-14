@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "anyāni",
+     "gloss": "other",
+     "grounds": "refers to additional items beyond those already named; implied āsanāni (seats) from previous verse",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "vaktavyāni",
+     "gloss": "to-be-spoken",
+     "grounds": "gerundive indicating obligation or intention to describe; root √vac",
+     "morph": "gerundive.nom.pl.n (√vac)"
+    }
+   ],
+   "question": "What further seating arrangements must still be described beyond those already named?",
+   "premises": [
+    "The wise have already named vajra and bhadraka as seats.",
+    "Other seating arrangements exist beyond those two.",
+    "These remaining arrangements are to be stated."
+   ],
+   "inference": "Additional seats beyond vajra and bhadraka remain to be described.",
+   "uncertainties": [
+    "The noun āsanāni (seats) is implied from the previous verse rather than explicitly stated."
+   ],
+   "plain_english": "Other seats are to be described."
+  }
+ ]
+}

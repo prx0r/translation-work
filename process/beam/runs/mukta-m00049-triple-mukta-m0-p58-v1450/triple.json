@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "indeclinable indicating sequence after preceding instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa+paryantaṃ",
+     "gloss": "up-to-sixteen",
+     "grounds": "compound expressing limit or extent; unit implied by context",
+     "morph": "compound = ṣoḍaśa+paryantam"
+    },
+    {
+     "surface": "guṇān",
+     "gloss": "virtues",
+     "grounds": "object of teaching alongside knowledge",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vidyām",
+     "gloss": "knowledge",
+     "grounds": "object of teaching conjoined with virtues",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking virtues and knowledge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikṣayet",
+     "gloss": "one-should-teach",
+     "grounds": "prescriptive instruction to impart virtues and knowledge",
+     "morph": "3.sg.optative-active + śikṣ"
+    }
+   ],
+   "question": "What instruction in virtues and knowledge must follow thereafter and up to what limit?",
+   "premises": [
+    "The instruction follows after the preceding duties.",
+    "The teaching continues up to sixteen.",
+    "Both virtues and knowledge are to be taught."
+   ],
+   "inference": "Therefore, one should teach virtues and knowledge thereafter up to sixteen.",
+   "uncertainties": [
+    "The unit of ṣoḍaśa+paryantaṃ, such as years, is implied by context rather than stated."
+   ],
+   "plain_english": "Thereafter, one should teach virtues and knowledge up to sixteen."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "prājāpatyasya",
+     "gloss": "of-prājāpatya",
+     "grounds": "relating to the prājāpatya standard of measure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "instrumental of the standard used for measurement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "maṇḍape",
+     "gloss": "in-pavilion",
+     "grounds": "locative indicating the ritual pavilion as domain of application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vigrahe",
+     "gloss": "in-image",
+     "grounds": "locative indicating the sacred image as domain of application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking domains",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurement standard governs the dimensions of both the pavilion and the sacred image?",
+   "premises": [
+    "Specific linear measures such as vitasti and prādeśa have been defined previously.",
+    "The prājāpatya standard provides an authoritative basis for measurement.",
+    "Both the pavilion and the sacred image require regulated dimensions."
+   ],
+   "inference": "Therefore the pavilion and the sacred image are to be measured according to the prājāpatya standard.",
+   "uncertainties": [],
+   "plain_english": "By the prājāpatya measure, this applies to the pavilion and also to the sacred image."
+  }
+ ]
+}

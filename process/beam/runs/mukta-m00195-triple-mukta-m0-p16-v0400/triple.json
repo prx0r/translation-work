@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.opt-act.√as"
+    },
+    {
+     "surface": "sarvatobhadrā",
+     "gloss": "auspicious-on-all-sides",
+     "grounds": "name of altar design",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhadrābhiṣecane",
+     "gloss": "in-four-auspicious-consecration",
+     "grounds": "compound locating ritual context",
+     "morph": "catur+bhadra+abhiṣecana(n.loc.sg)"
+    }
+   ],
+   "question": "Which altar design is prescribed for the four-bhadra consecration rite?",
+   "premises": [
+    "The verse specifies the ritual context of a four-bhadra consecration.",
+    "Within that context the altar is prescribed to be sarvatobhadra.",
+    "This continues the prior specification of altar forms for ritual use."
+   ],
+   "inference": "Therefore the sarvatobhadra altar is enjoined for the four-bhadra consecration.",
+   "uncertainties": [
+    "The subject altar is implied from the preceding verse rather than stated explicitly."
+   ],
+   "plain_english": "And in the four-bhadra consecration, the altar should be of the sarvatobhadra type."
+  }
+ ]
+}

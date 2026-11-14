@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p02",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "e9d9bd77007b58e9",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 93
+ },
+ "align": {
+  "min_ratio": 0.918,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 56,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "saṃhārapradhānatvāt kalāstathocitanāmnyaḥ",
+   "śuddhatattvasṛṣṭivyāptyaitat tadāguṇṭhyeti liptvā"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p02-v26]: cite part not byte-exact in source: saṃhārapradhānatvāt kalāstathocitanāmnyaḥ",
+   "l2[sva-p02-v48]: cite part not byte-exact in source: śuddhatattvasṛṣṭivyāptyaitat tadāguṇṭhyeti liptvā"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 93,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "f508c5118c5c6f64b0cb9fd90aa20621fdd420d31719c59580a25609eb61cdc7",
+  "l0": "1ea16740f78b3aa40e7f8777f4fdb9d664d4a10578e482f0b054a647b4a457b4",
+  "argmap": "7136822ebb4ca040ee98cefa48e95ce66dc2e2bccfa6a67dc23bcebc13f86f70",
+  "l2": "71d7f04d8e0e1be1ac2f3051420760c37e65aedddb72b96d82c82768b7d60007",
+  "c1": "a49b27b5a9b544f05432f89f78cd169c93c8db65d607652a687aae61f4320c7e"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "e9d9bd77007b58e9",
+  "t1": "sva-p02/data/sva-p02.t1.json",
+  "l0": "sva-p02/data/sva-p02.l0.json",
+  "l2": "sva-p02/data/sva-p02.l2.json",
+  "c1": "sva-p02/data/sva-p02.c1.json"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "bāhyavāriyutaṃ",
+     "gloss": "external-water-endowed",
+     "grounds": "compound describing the opening as furnished with external water",
+     "morph": "bāhya+vāri+yuta-n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "conjunction presenting an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivaraṃ",
+     "gloss": "opening",
+     "grounds": "aperture or hollow space in the structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction presenting a further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction for designing the feature",
+     "morph": "3.sg.opt.act pra-√kḷp"
+    }
+   ],
+   "question": "Should the brahmāṅkaṇa's aperture be designed with external water or as a simple opening?",
+   "premises": [
+    "The brahmāṅkaṇa may be constructed with an aperture.",
+    "One option provides the aperture with external water.",
+    "Another option leaves the aperture as a plain opening."
+   ],
+   "inference": "Therefore the designer may arrange the aperture either with external water or as a simple opening.",
+   "uncertainties": [],
+   "plain_english": "One should arrange it either as an opening furnished with external water or as a plain opening."
+  }
+ ]
+}

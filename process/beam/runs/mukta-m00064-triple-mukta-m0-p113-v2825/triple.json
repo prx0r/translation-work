@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "paśūnām",
+     "gloss": "of-animals",
+     "grounds": "refers to animals as the subject to be declared",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "announces forthcoming exposition",
+     "morph": "1.sg.fut.act (pra+√vac)"
+    },
+    {
+     "surface": "vanyānāṃ",
+     "gloss": "of-forest-dwelling",
+     "grounds": "qualifies animals as wild or forest-born",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "grāmavāsinām",
+     "gloss": "of-village-dwelling",
+     "grounds": "qualifies animals as inhabiting villages",
+     "morph": "m.gen.pl (grāma+vāsin)"
+    }
+   ],
+   "question": "Which two categories of animals are included in the forthcoming exposition?",
+   "premises": [
+    "The speaker announces a declaration concerning animals.",
+    "Animals are specified as forest-dwelling.",
+    "Animals are also specified as village-dwelling."
+   ],
+   "inference": "The forthcoming exposition will cover both wild forest animals and domesticated village animals.",
+   "uncertainties": [
+    "The specific animals within each category are not named in this verse."
+   ],
+   "plain_english": "And I shall declare the animals, both those dwelling in the forest and those dwelling in the village."
+  }
+ ]
+}

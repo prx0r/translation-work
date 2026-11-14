@@ -1,0 +1,1193 @@
+{
+ "song": "mukta-m0-p524",
+ "items": [
+  {
+   "verse": 13076,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "optative of motion",
+     "morph": "3.sg.act.opt √vraj"
+    },
+    {
+     "surface": "vāyu+koṇe",
+     "gloss": "in-wind-corner",
+     "grounds": "directional compound",
+     "morph": "compound vāyu+koṇa; m.loc.sg"
+    },
+    {
+     "surface": "kalisya",
+     "gloss": "of-kali",
+     "grounds": "name of deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nikaṭe",
+     "gloss": "near",
+     "grounds": "locative of proximity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "optative of ritual action",
+     "morph": "3.sg.act.opt √arc (caus.)"
+    }
+   ],
+   "question": "Where must the practitioner go next to worship Kali?",
+   "premises": [
+    "The practitioner should go afterward.",
+    "The destination is the wind corner.",
+    "Worship should be performed near Kali."
+   ],
+   "inference": "After the previous step, the practitioner proceeds to the northwest corner and worships near Kali.",
+   "uncertainties": [],
+   "plain_english": "Then one should go to the northwest corner and worship near Kali."
+  },
+  {
+   "verse": 13077,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāṃ-vīṃ-vūṃ",
+     "gloss": "vāṃ-vīṃ-vūṃ",
+     "grounds": "seed syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krāṃ-krīṃ",
+     "gloss": "krāṃ-krīṃ",
+     "grounds": "seed syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhobho",
+     "gloss": "o-o",
+     "grounds": "vocative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyo",
+     "gloss": "o-wind",
+     "grounds": "address to Vayu",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "bhuvaḥ",
+     "gloss": "bhuvaḥ",
+     "grounds": "cosmic utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra syllables begin the invocation addressed to Vayu?",
+   "premises": [
+    "The mantra opens with oṃ and seed syllables.",
+    "Vayu is directly addressed.",
+    "Additional syllables follow in sequence."
+   ],
+   "inference": "The invocation to Vayu begins with the specified sequence of sacred syllables and vocative address.",
+   "uncertainties": [
+    "Exact segmentation of the mantra into functional units is ritual-specific."
+   ],
+   "plain_english": "Oṃ, vāṃ-vīṃ-vūṃ, then krāṃ-krīṃ, O Vayu, bhuvaḥ, again."
+  },
+  {
+   "verse": 13078,
+   "rows": [
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gṛhṇa+yugam",
+     "gloss": "take-pair",
+     "grounds": "imperative phrase in mantra",
+     "morph": "compound gṛhṇa+yuga; n.acc.sg"
+    },
+    {
+     "surface": "huṃ+phaṭ",
+     "gloss": "huṃ-phaṭ",
+     "grounds": "seed and explosive syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcatriṃśa+akṣaraḥ",
+     "gloss": "thirty-five-syllabled",
+     "grounds": "count of mantra syllables",
+     "morph": "compound pañcatriṃśa+akṣara; m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the syllable count of the mantra concluding with the offering command?",
+   "premises": [
+    "The mantra includes a command to take the offering.",
+    "The mantra ends with huṃ and phaṭ.",
+    "The mantra is described by its syllable count."
+   ],
+   "inference": "The mantra commanding acceptance of the offering consists of thirty-five syllables.",
+   "uncertainties": [],
+   "plain_english": "“Take the offering, huṃ phaṭ” — this mantra has thirty-five syllables."
+  },
+  {
+   "verse": 13079,
+   "rows": [
+    {
+     "surface": "āvāhayet",
+     "gloss": "should-invoke",
+     "grounds": "ritual summoning",
+     "morph": "3.sg.act.opt √vāh (caus., ā-)"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "gerund √pūj (caus.)"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "instrument of worship",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nirvapet",
+     "gloss": "should-offer",
+     "grounds": "ritual presentation",
+     "morph": "3.sg.act.opt √vap (nir-)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What sequence of actions must accompany the offering with the mantra?",
+   "premises": [
+    "The deity should be invoked.",
+    "Worship should be performed with the mantra.",
+    "The offering should then be presented."
+   ],
+   "inference": "The practitioner invokes, worships with the mantra, and then offers the bali.",
+   "uncertainties": [],
+   "plain_english": "One should invoke, worship with the mantra, and then present the offering."
+  },
+  {
+   "verse": 13080,
+   "rows": [
+    {
+     "surface": "mama+apūpa+baliṃ",
+     "gloss": "my-cake-offering",
+     "grounds": "specified offering",
+     "morph": "compound mama+apūpa+bali; m.acc.sg"
+    },
+    {
+     "surface": "gṛhṇa+yugam",
+     "gloss": "take-pair",
+     "grounds": "imperative phrase in mantra",
+     "morph": "compound gṛhṇa+yuga; n.acc.sg"
+    },
+    {
+     "surface": "huṃ phaṭ",
+     "gloss": "huṃ-phaṭ",
+     "grounds": "seed and explosive syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veda+agni+varṇakaḥ",
+     "gloss": "four-fire-syllabled",
+     "grounds": "symbolic syllable count",
+     "morph": "compound veda+agni+varṇaka; m.nom.sg"
+    }
+   ],
+   "question": "How many syllables compose the mantra requesting acceptance of the cake offering?",
+   "premises": [
+    "The mantra asks for acceptance of a cake offering.",
+    "It ends with huṃ phaṭ.",
+    "Its length is given symbolically as veda and agni."
+   ],
+   "inference": "The cake-offering mantra is described as having four and three syllables by symbolic count.",
+   "uncertainties": [
+    "The exact total syllable count depends on traditional interpretation of veda+agni+varṇakaḥ."
+   ],
+   "plain_english": "“Take my cake offering, huṃ phaṭ” — this mantra is of four-and-fire syllables."
+  },
+  {
+   "verse": 13081,
+   "rows": [
+    {
+     "surface": "huṃ+bījena",
+     "gloss": "with-huṃ-seed",
+     "grounds": "mantric instrument",
+     "morph": "compound huṃ+bīja; n.inst.sg"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "gerund √arc (sam-abhi-)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yacchet",
+     "gloss": "should-give",
+     "grounds": "act of giving",
+     "morph": "3.sg.act.opt √yam"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "with-this",
+     "grounds": "reference to mantra",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "By what means should the offering be worshipped and given in this step?",
+   "premises": [
+    "Worship is performed with the huṃ seed.",
+    "The offering is then to be given.",
+    "The same procedure applies with this mantra."
+   ],
+   "inference": "The practitioner worships with the huṃ bīja and likewise gives the offering using this mantra.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with the huṃ seed, one should give the offering likewise with this mantra."
+  },
+  {
+   "verse": 13082,
+   "rows": [
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gṛhṇa+yugam",
+     "gloss": "take-pair",
+     "grounds": "imperative phrase in mantra",
+     "morph": "compound gṛhṇa+yuga; n.acc.sg"
+    },
+    {
+     "surface": "huṃ+phaṭ",
+     "gloss": "huṃ-phaṭ",
+     "grounds": "seed and explosive syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candra+nāga+mita+akṣaraḥ",
+     "gloss": "moon-serpent-measured-syllabled",
+     "grounds": "symbolic syllable count",
+     "morph": "compound candra+nāga+mita+akṣara; m.nom.sg"
+    }
+   ],
+   "question": "What symbolic syllable count defines the next offering mantra?",
+   "premises": [
+    "The mantra commands acceptance of the offering.",
+    "It ends with huṃ and phaṭ.",
+    "Its syllable count is measured by moon and serpent."
+   ],
+   "inference": "This offering mantra is defined by a syllable count symbolized as moon and serpent.",
+   "uncertainties": [
+    "The numeric values of candra and nāga require traditional decoding."
+   ],
+   "plain_english": "“Take the offering, huṃ phaṭ” — this mantra has syllables measured by moon and serpent."
+  },
+  {
+   "verse": 13083,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "reference to mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "ritual formula",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "stambhaṃ",
+     "gloss": "pillar",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nirbhayaḥ",
+     "gloss": "fearless",
+     "grounds": "state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paripūjayet",
+     "gloss": "should-worship",
+     "grounds": "thorough ritual worship",
+     "morph": "3.sg.act.opt √pūj (pari-, caus.)"
+    }
+   ],
+   "question": "How should the fearless practitioner worship the pillar with this mantra?",
+   "premises": [
+    "The practitioner uses this mantra.",
+    "The object of worship is the pillar.",
+    "The practitioner is to be fearless."
+   ],
+   "inference": "With this mantra, the fearless practitioner should thoroughly worship the pillar.",
+   "uncertainties": [],
+   "plain_english": "With this mantra, the fearless one should thoroughly worship the pillar."
+  },
+  {
+   "verse": 13084,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrāṃ-hrīṃ-hrūṃ",
+     "gloss": "hrāṃ-hrīṃ-hrūṃ",
+     "grounds": "seed syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣāṃ-kṣīṃ-kṣūṃ-kṣaḥ",
+     "gloss": "kṣāṃ-kṣīṃ-kṣūṃ-kṣaḥ",
+     "grounds": "seed syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proccaret",
+     "gloss": "should-utter",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.act.opt √car (pra-ud-)"
+    }
+   ],
+   "question": "Which syllables must be uttered in the next mantra recitation?",
+   "premises": [
+    "The recitation begins with oṃ and hrāṃ-hrīṃ-hrūṃ.",
+    "It includes obeisance and huṃ.",
+    "It continues with kṣāṃ-kṣīṃ-kṣūṃ-kṣaḥ."
+   ],
+   "inference": "The practitioner should utter the specified sequence of sacred syllables.",
+   "uncertainties": [],
+   "plain_english": "One should utter: oṃ, hrāṃ-hrīṃ-hrūṃ, namo, huṃ, and kṣāṃ-kṣīṃ-kṣūṃ-kṣaḥ."
+  },
+  {
+   "verse": 13085,
+   "rows": [
+    {
+     "surface": "sruṃ-srāṃ-sreṃ-sraṃ",
+     "gloss": "sruṃ-srāṃ-sreṃ-sraṃ",
+     "grounds": "seed syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mrāṃ-mrauṃ",
+     "gloss": "mrāṃ-mrauṃ",
+     "grounds": "seed syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triḥ",
+     "gloss": "three-times",
+     "grounds": "repetition count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ho",
+     "gloss": "ho",
+     "grounds": "exclamatory syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "having-uttered",
+     "grounds": "completed recitation",
+     "morph": "gerund √muc"
+    },
+    {
+     "surface": "tridhā+tridhā",
+     "gloss": "thrice-thrice",
+     "grounds": "repeated threefold pattern",
+     "morph": "compound tridhā+tridhā; (indecl.)"
+    }
+   ],
+   "question": "How should the subsequent mantra syllables be repeated in recitation?",
+   "premises": [
+    "Further syllables are uttered in sequence.",
+    "The syllable ho is released three times.",
+    "The pattern is performed thrice and thrice."
+   ],
+   "inference": "The practitioner utters the given syllables and repeats the ho utterance in a threefold pattern.",
+   "uncertainties": [
+    "The exact grouping implied by tridhā+tridhā is ritually specific."
+   ],
+   "plain_english": "Then utter sruṃ-srāṃ-sreṃ-sraṃ and mrāṃ-mrauṃ, releasing ho three times, thrice and thrice."
+  },
+  {
+   "verse": 13086,
+   "rows": [
+    {
+     "surface": "rakṣa+rakṣa",
+     "gloss": "protect-protect",
+     "grounds": "repeated imperative",
+     "morph": "compound rakṣa+rakṣa; 2.sg.act.impv √rakṣ"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-uttered",
+     "grounds": "prior recitation",
+     "morph": "gerund √vac (pra-)"
+    },
+    {
+     "surface": "rakṣa+rakṣa",
+     "gloss": "protect-protect",
+     "grounds": "repeated imperative",
+     "morph": "compound rakṣa+rakṣa; 2.sg.act.impv √rakṣ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "o-bhairava",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What protective phrase must be uttered while addressing Bhairava?",
+   "premises": [
+    "The word protect-protect is uttered.",
+    "It is repeated as a quoted phrase.",
+    "Bhairava is directly addressed."
+   ],
+   "inference": "The practitioner utters the protective command “protect, protect” while addressing Bhairava.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the word “protect, protect,” say again “protect, protect,” O Bhairava."
+  },
+  {
+   "verse": 13087,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "completed mantra recitation",
+     "morph": "gerund √jap"
+    },
+    {
+     "surface": "ātma+rakṣāṃ",
+     "gloss": "self-protection",
+     "grounds": "protective act",
+     "morph": "compound ātman+rakṣā; f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completed action",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stambhasya",
+     "gloss": "of-pillar",
+     "grounds": "reference point",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīpataḥ",
+     "gloss": "near",
+     "grounds": "spatial proximity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must be done before approaching the vicinity of the pillar?",
+   "premises": [
+    "The mantra is recited.",
+    "Self-protection is performed.",
+    "The practitioner then moves near the pillar."
+   ],
+   "inference": "After recitation and self-protection, the practitioner proceeds near the pillar.",
+   "uncertainties": [],
+   "plain_english": "Having recited and performed self-protection, one then goes near the pillar."
+  },
+  {
+   "verse": 13088,
+   "rows": [
+    {
+     "surface": "sva+agre",
+     "gloss": "in-front-of-self",
+     "grounds": "spatial orientation",
+     "morph": "compound sva+agra; n.loc.sg"
+    },
+    {
+     "surface": "same",
+     "gloss": "on-level",
+     "grounds": "even ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmi+agre",
+     "gloss": "on-ground-surface",
+     "grounds": "place of ritual",
+     "morph": "compound bhūmi+agra; n.loc.sg"
+    },
+    {
+     "surface": "gomaya+ādi+upalepite",
+     "gloss": "smeared-with-cow-dung-etc",
+     "grounds": "ritual purification of ground",
+     "morph": "compound gomaya+ādi+upalepita; n.loc.sg"
+    }
+   ],
+   "question": "What kind of ground must be prepared in front of the practitioner?",
+   "premises": [
+    "The place is in front of the practitioner.",
+    "The ground must be level.",
+    "The surface is smeared with cow dung and other substances."
+   ],
+   "inference": "The ritual is performed on a level, purified ground in front of the practitioner.",
+   "uncertainties": [],
+   "plain_english": "In front of oneself, on a level ground surface smeared with cow dung and the like."
+  },
+  {
+   "verse": 13089,
+   "rows": [
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "outer area",
+     "morph": "compound tad+bāhya; n.loc.sg"
+    },
+    {
+     "surface": "aṣṭa+dalaṃ",
+     "gloss": "eight-petalled",
+     "grounds": "diagram form",
+     "morph": "compound aṣṭa+dala; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asitāṅga+ādi+bhairavān",
+     "gloss": "asitāṅga-etc-bhairavas",
+     "grounds": "deities to be placed",
+     "morph": "compound asitāṅga+ādi+bhairava; m.acc.pl"
+    }
+   ],
+   "question": "What diagram and deities are established outside the prepared area?",
+   "premises": [
+    "An area outside the previous space is used.",
+    "An eight-petalled form is made there.",
+    "The Bhairavas beginning with Asitāṅga are placed."
+   ],
+   "inference": "Outside that area, an eight-petalled diagram is made for Asitāṅga and the other Bhairavas.",
+   "uncertainties": [],
+   "plain_english": "Outside that, one makes an eight-petalled form and places Asitāṅga and the other Bhairavas."
+  },
+  {
+   "verse": 13090,
+   "rows": [
+    {
+     "surface": "kulīśaṃ",
+     "gloss": "kulīśa",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sukulīśaṃ",
+     "gloss": "sukulīśa",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāmitraṃ",
+     "gloss": "jāmitra",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ḍāmaraṃ",
+     "gloss": "ḍāmara",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ribham",
+     "gloss": "ribha",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deities are named in this part of the worship sequence?",
+   "premises": [
+    "A list of specific names is given.",
+    "The names are objects of worship placement.",
+    "They continue the enumeration of deities."
+   ],
+   "inference": "Kulīśa, Sukulīśa, Jāmitra, Ḍāmara, and Ribha are included among the deities.",
+   "uncertainties": [],
+   "plain_english": "Kulīśa, Sukulīśa, Jāmitra, Ḍāmara, and Ribha."
+  },
+  {
+   "verse": 13091,
+   "rows": [
+    {
+     "surface": "cāritraṃ",
+     "gloss": "cāritra",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "camatkāraṃ",
+     "gloss": "camatkāra",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cañcalaṃ",
+     "gloss": "cañcala",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cāru bhūṣaṇam",
+     "gloss": "cāru-bhūṣaṇa",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which additional deities complete this enumerated group?",
+   "premises": [
+    "Further names are listed.",
+    "They are joined by conjunctions.",
+    "They belong to the same worship sequence."
+   ],
+   "inference": "Cāritra, Camatkāra, Cañcala, and Cāru Bhūṣaṇa complete this part of the list.",
+   "uncertainties": [
+    "cāru bhūṣaṇam appears as two tokens but functions as one name."
+   ],
+   "plain_english": "Cāritra, Camatkāra, Cañcala, and Cāru Bhūṣaṇa."
+  },
+  {
+   "verse": 13092,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative reference",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sva+nāmabhiḥ",
+     "gloss": "by-own-names",
+     "grounds": "mode of worship",
+     "morph": "compound sva+nāman; n.inst.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "ritual obligation",
+     "morph": "m.nom.pl (gerundive)"
+    },
+    {
+     "surface": "ṣoḍaśa+ānanda+pūritāḥ",
+     "gloss": "filled-with-sixteen-blisses",
+     "grounds": "qualifying description",
+     "morph": "compound ṣoḍaśa+ānanda+pūrita; m.nom.pl"
+    }
+   ],
+   "question": "How must these enumerated deities be worshipped according to the text?",
+   "premises": [
+    "The listed deities are referred to collectively.",
+    "They are to be worshipped by their own names.",
+    "They are described as filled with sixteen blisses."
+   ],
+   "inference": "These deities must be worshipped by their own names as beings filled with sixteen blisses.",
+   "uncertainties": [],
+   "plain_english": "These are to be worshipped by their own names, filled with the sixteen blisses."
+  },
+  {
+   "verse": 13093,
+   "rows": [
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "outer area",
+     "morph": "compound tad+bāhya; n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+astrāṇi",
+     "gloss": "their-weapons",
+     "grounds": "associated implements",
+     "morph": "compound tad+astra; n.acc.pl"
+    },
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "further outer area",
+     "morph": "compound tad+bāhya; n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imān",
+     "gloss": "these",
+     "grounds": "demonstrative reference",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "ritual action",
+     "morph": "3.sg.act.opt √yaj"
+    }
+   ],
+   "question": "What must be worshipped in the successive outer zones of the diagram?",
+   "premises": [
+    "Outside that area their weapons are placed.",
+    "Further outside, other beings are indicated.",
+    "These too should be worshipped."
+   ],
+   "inference": "The practitioner worships their weapons in the next outer zone and these beings beyond that.",
+   "uncertainties": [
+    "The referent of imān is specified in the following verse."
+   ],
+   "plain_english": "Outside that, worship their weapons; and outside that, worship these as well."
+  },
+  {
+   "verse": 13094,
+   "rows": [
+    {
+     "surface": "vyomakeśaṃ",
+     "gloss": "vyomakeśa",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyomabāhuṃ",
+     "gloss": "vyomabāhu",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyoma+vyāpakam",
+     "gloss": "space-pervading",
+     "grounds": "deity epithet or name",
+     "morph": "compound vyoma+vyāpaka; m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which beings are identified as the objects of worship in that outer zone?",
+   "premises": [
+    "Specific names are listed.",
+    "They follow the instruction to worship these.",
+    "The names are connected to vyoma."
+   ],
+   "inference": "Vyomakeśa, Vyomabāhu, and the space-pervading one are to be worshipped there.",
+   "uncertainties": [],
+   "plain_english": "Vyomakeśa, Vyomabāhu, and the space-pervading one."
+  },
+  {
+   "verse": 13095,
+   "rows": [
+    {
+     "surface": "abhyarcayet",
+     "gloss": "should-worship",
+     "grounds": "ritual action",
+     "morph": "3.sg.act.opt √arc (abhi-)"
+    },
+    {
+     "surface": "nirbhayaḥ",
+     "gloss": "fearless",
+     "grounds": "state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsān",
+     "gloss": "placements",
+     "grounds": "ritual installations",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "ritual execution",
+     "morph": "3.sg.act.opt √car (sam-ā-)"
+    }
+   ],
+   "question": "What ritual actions follow the worship of those outer deities?",
+   "premises": [
+    "The practitioner should worship fearlessly.",
+    "The next step occurs afterward.",
+    "The placements are to be performed."
+   ],
+   "inference": "After worshipping fearlessly, the practitioner should perform the nyāsas.",
+   "uncertainties": [],
+   "plain_english": "One should worship fearlessly, and then perform the placements."
+  },
+  {
+   "verse": 13096,
+   "rows": [
+    {
+     "surface": "uccaiḥ",
+     "gloss": "loud",
+     "grounds": "manner of sound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarān",
+     "gloss": "sounds",
+     "grounds": "audible utterances",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "comes",
+     "grounds": "arrival",
+     "morph": "3.sg.act.pres √yā (ā-)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "regular occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavaḥ",
+     "gloss": "bhairava",
+     "grounds": "deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "direct presence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result follows when loud sounds are made during the ritual?",
+   "premises": [
+    "Loud sounds are produced at that time.",
+    "Bhairava comes as a result.",
+    "His coming occurs daily and personally."
+   ],
+   "inference": "When loud sounds are made, Bhairava himself comes daily.",
+   "uncertainties": [],
+   "plain_english": "Then, when loud sounds are made, Bhairava himself comes daily."
+  },
+  {
+   "verse": 13097,
+   "rows": [
+    {
+     "surface": "sambhojayet",
+     "gloss": "should-feed",
+     "grounds": "ritual offering of food",
+     "morph": "3.sg.act.opt √bhuj (sam-, caus.)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "performance of action",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "nirbhayaḥ",
+     "gloss": "fearless",
+     "grounds": "state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prīta+mānasaḥ",
+     "gloss": "with-pleased-mind",
+     "grounds": "mental state",
+     "morph": "compound prīta+mānasa; m.nom.sg"
+    }
+   ],
+   "question": "How should the practitioner act after Bhairava's arrival?",
+   "premises": [
+    "The practitioner should offer food.",
+    "The practitioner should perform recitation.",
+    "The practitioner should be fearless and pleased in mind."
+   ],
+   "inference": "After Bhairava comes, the fearless and pleased practitioner should feed him and perform japa.",
+   "uncertainties": [],
+   "plain_english": "One should feed him and perform recitation, fearless and with a pleased mind."
+  },
+  {
+   "verse": 13098,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "directional placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "payasā",
+     "gloss": "with-milk",
+     "grounds": "offering substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "reference to Bhairava",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tṛptiḥ",
+     "gloss": "satisfaction",
+     "grounds": "result of offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "coming into being",
+     "morph": "3.sg.mid.pres √jan (pra-)"
+    }
+   ],
+   "question": "What offering on the right side produces Bhairava's satisfaction?",
+   "premises": [
+    "An offering is made on the right side.",
+    "The offering is made with milk.",
+    "Satisfaction arises for him from this."
+   ],
+   "inference": "Offering milk on the right side brings about Bhairava's satisfaction.",
+   "uncertainties": [],
+   "plain_english": "And on the right side, with milk, his satisfaction arises."
+  },
+  {
+   "verse": 13099,
+   "rows": [
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence",
+     "morph": "gerund √nam (pra-)"
+    },
+    {
+     "surface": "daṇḍavat",
+     "gloss": "like-stick",
+     "grounds": "full prostration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "place of prostration",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vāñchitaṃ",
+     "gloss": "desired",
+     "grounds": "object of request",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varam",
+     "gloss": "boon",
+     "grounds": "requested favor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "should-utter",
+     "grounds": "verbal request",
+     "morph": "3.sg.act.opt √car (ud-)"
+    }
+   ],
+   "question": "How must the practitioner request the desired boon from Bhairava?",
+   "premises": [
+    "The practitioner bows flat on the ground.",
+    "The bow is performed like a stick.",
+    "The desired boon is then uttered."
+   ],
+   "inference": "After full prostration on the ground, the practitioner should utter the desired boon.",
+   "uncertainties": [],
+   "plain_english": "Having bowed flat on the ground like a stick, one should utter the desired boon."
+  }
+ ]
+}

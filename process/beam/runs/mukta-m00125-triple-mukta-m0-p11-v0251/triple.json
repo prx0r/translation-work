@@ -1,0 +1,1002 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "śrīveṣṭako",
+     "gloss": "pine-resin",
+     "grounds": "names a ritual substance; nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gandharasaḥ",
+     "gloss": "fragrant-resin",
+     "grounds": "compound naming a scented substance; nominative singular",
+     "morph": "m.nom.sg (compound: gandha+rasa)"
+    },
+    {
+     "surface": "pippalī",
+     "gloss": "long-pepper",
+     "grounds": "names a ritual substance; nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hastipippalī",
+     "gloss": "elephant-long-pepper",
+     "grounds": "compound naming a variety of long pepper; nominative singular",
+     "morph": "f.nom.sg (compound: hasti+pippalī)"
+    }
+   ],
+   "question": "Which specific aromatic and pungent substances are prescribed for the ritual preparation?",
+   "premises": [
+    "śrīveṣṭaka is listed as a substance",
+    "gandharasa is listed as a substance",
+    "pippalī and hastipippalī are listed as substances"
+   ],
+   "inference": "The ritual preparation includes pine-resin, fragrant resin, long pepper, and elephant long pepper.",
+   "uncertainties": [
+    "Exact botanical identification of gandharasa may vary by tradition"
+   ],
+   "plain_english": "Pine-resin, fragrant resin, long pepper, and elephant long pepper are included."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "raktacandanasaṃjñañca",
+     "gloss": "red-sandal-named-and",
+     "grounds": "compound with naming element and enclitic conjunction; accusative singular",
+     "morph": "n.acc.sg (compound: rakta+candana+saṃjña) + (indecl.)"
+    },
+    {
+     "surface": "lavaṃgaṃ",
+     "gloss": "clove",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rātricūrṇakam",
+     "gloss": "night-powder",
+     "grounds": "compound naming a powdered substance; accusative singular",
+     "morph": "n.acc.sg (compound: rātri+cūrṇaka)"
+    }
+   ],
+   "question": "Which additional named substances are included in the prescribed ritual materials?",
+   "premises": [
+    "A substance named red sandal is included",
+    "Clove is included",
+    "A substance called night-powder is included"
+   ],
+   "inference": "The prescribed materials further include red sandal, clove, and night-powder.",
+   "uncertainties": [
+    "The exact identity of rātricūrṇaka is uncertain"
+   ],
+   "plain_english": "Red sandal, clove, and night-powder are also included."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "numeral qualifying the following substance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīra",
+     "gloss": "milk",
+     "grounds": "names a ritual substance; nominative singular in compound context",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kujodbhūtatvaksārvasyātkaṣāyakaḥ",
+     "gloss": "earth-born-bark-all-astringent",
+     "grounds": "complex compound indicating an astringent made from bark of earth-born plants; nominative singular",
+     "morph": "m.nom.sg (compound: kuja+udbhūta+tvac+sārva+kaṣāyaka)"
+    }
+   ],
+   "question": "What liquid and astringent substances are required for the ritual mixture?",
+   "premises": [
+    "Fourfold milk is specified",
+    "An astringent from bark of earth-born plants is specified"
+   ],
+   "inference": "The mixture requires four kinds of milk and an astringent made from the bark of plants grown in the earth.",
+   "uncertainties": [
+    "The precise meaning of catuḥ kṣīra and the scope of kujodbhūta are context-dependent"
+   ],
+   "plain_english": "Use four kinds of milk and an astringent made from the bark of plants that grow in the earth."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "dūrvātilakuśāgraistu",
+     "gloss": "dūrvā-sesame-kuśa-tips-with",
+     "grounds": "compound listing materials used for sweeping, with instrumental plural and enclitic",
+     "morph": "n.ins.pl (compound: dūrvā+tila+kuśa+agra) + (indecl.)"
+    },
+    {
+     "surface": "mārjanaṃ",
+     "gloss": "sweeping",
+     "grounds": "names the ritual act; nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvabhidhīyate",
+     "gloss": "indeed-is-prescribed",
+     "grounds": "verb with emphatic particle fused in transmission; passive present",
+     "morph": "(indecl.) + 3.sg.pass-pres (√dhā with abhi)"
+    }
+   ],
+   "question": "Which materials are prescribed for performing the ritual act of sweeping?",
+   "premises": [
+    "Dūrvā grass, sesame, and kuśa tips are specified",
+    "Sweeping is the act being prescribed"
+   ],
+   "inference": "Sweeping is to be performed with dūrvā grass, sesame, and the tips of kuśa grass.",
+   "uncertainties": [
+    "The fusion tvabhidhīyate reflects sandhi in the transmitted form"
+   ],
+   "plain_english": "Sweeping is prescribed with dūrvā grass, sesame, and the tips of kuśa grass."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "pādyam",
+     "gloss": "foot-water",
+     "grounds": "names a ritual offering; nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ācamanañcārghyaṃ",
+     "gloss": "sipping-water-and-honor-water",
+     "grounds": "two offerings joined by enclitic conjunction with internal sandhi",
+     "morph": "n.nom.sg + (indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "gavyaṃ",
+     "gloss": "cow-product",
+     "grounds": "names a substance derived from the cow; nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural indicating placement in cardinal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vidikṣu",
+     "gloss": "in-intermediate-directions",
+     "grounds": "locative plural indicating placement in intermediate directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking locations",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual offerings and placements are specified for the cardinal and intermediate directions?",
+   "premises": [
+    "Foot-water, sipping-water, and honor-water are listed",
+    "A cow-product is listed",
+    "Placement is specified in directions and intermediate directions"
+   ],
+   "inference": "Foot-water, sipping-water, honor-water, and a cow-product are to be placed in the cardinal and intermediate directions.",
+   "uncertainties": [
+    "The exact cow-product intended by gavyaṃ is not specified here"
+   ],
+   "plain_english": "Foot-water, sipping-water, honor-water, and a cow-product are placed in the directions and intermediate directions."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "tilaṃ",
+     "gloss": "sesame",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrīvṛkṣapatrañca",
+     "gloss": "sacred-fig-leaf-and",
+     "grounds": "compound naming a leaf with enclitic conjunction; accusative singular",
+     "morph": "n.acc.sg (compound: śrīvṛkṣa+patra) + (indecl.)"
+    },
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandal",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "meghasaṃjñakam",
+     "gloss": "cloud-named",
+     "grounds": "compound indicating a substance named after cloud; accusative singular",
+     "morph": "n.acc.sg (compound: megha+saṃjñaka)"
+    }
+   ],
+   "question": "Which further substances, including one named after a cloud, are prescribed?",
+   "premises": [
+    "Sesame is included",
+    "A sacred fig leaf is included",
+    "Sandal is included",
+    "A substance named after cloud is included"
+   ],
+   "inference": "The prescribed substances include sesame, a sacred fig leaf, sandal, and a cloud-named substance.",
+   "uncertainties": [
+    "The identity of the cloud-named substance is uncertain"
+   ],
+   "plain_english": "Sesame, a sacred fig leaf, sandal, and a substance called cloud-named are included."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "takkolañca",
+     "gloss": "takkola-and",
+     "grounds": "names a substance with enclitic conjunction; accusative singular",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṣṭhaṃ",
+     "gloss": "costus",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaccolaṃ",
+     "gloss": "kakkola",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lohasaṃjñakam",
+     "gloss": "iron-named",
+     "grounds": "compound indicating a substance named after iron; accusative singular",
+     "morph": "n.acc.sg (compound: loha+saṃjñaka)"
+    }
+   ],
+   "question": "Which additional fruits and named substances are included in the ritual list?",
+   "premises": [
+    "Takkola and a fruit are included",
+    "Costus and kakkola are included",
+    "An iron-named substance is included"
+   ],
+   "inference": "The list includes takkola, a fruit, costus, kakkola, and an iron-named substance.",
+   "uncertainties": [
+    "The specific fruit and the iron-named substance are not identified here"
+   ],
+   "plain_english": "Takkola, a fruit, costus, kakkola, and an iron-named substance are included."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "tṛtīyāvaraṇe",
+     "gloss": "in-third-enclosure",
+     "grounds": "compound indicating location in the third enclosure; locative singular",
+     "morph": "n.loc.sg (compound: tṛtīya+āvaraṇa)"
+    },
+    {
+     "surface": "saktūn",
+     "gloss": "groats",
+     "grounds": "names a ritual substance; accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "locative singular indicating placement in fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhūtaghaṭeṣvapi",
+     "gloss": "in-element-pots-also",
+     "grounds": "compound indicating pots of elements with locative plural and enclitic",
+     "morph": "m.loc.pl (compound: bhūta+ghaṭa) + (indecl.)"
+    }
+   ],
+   "question": "Where are groats to be placed within the third enclosure and related ritual locations?",
+   "premises": [
+    "The third enclosure is specified as a location",
+    "Groats are the substance to be placed",
+    "Fire and element-pots are also specified as locations"
+   ],
+   "inference": "Groats are to be placed in the third enclosure, in the fire, and also in the element-pots.",
+   "uncertainties": [],
+   "plain_english": "Place groats in the third enclosure, in the fire, and also in the element-pots."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "dhātrī",
+     "gloss": "myrobalan",
+     "grounds": "names a fruit; nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nālikerañca",
+     "gloss": "coconut-and",
+     "grounds": "names a fruit with enclitic conjunction; accusative singular",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "likucaṃ",
+     "gloss": "likuca-fruit",
+     "grounds": "names a fruit; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātulaṃgakam",
+     "gloss": "citron",
+     "grounds": "names a fruit; accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which fruits are enumerated for inclusion in the ritual arrangement?",
+   "premises": [
+    "Myrobalan is listed",
+    "Coconut is listed",
+    "Likuca fruit and citron are listed"
+   ],
+   "inference": "The enumerated fruits are myrobalan, coconut, likuca fruit, and citron.",
+   "uncertainties": [],
+   "plain_english": "Myrobalan, coconut, likuca fruit, and citron are included."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "lakṣmīñca",
+     "gloss": "lakṣmī-plant-and",
+     "grounds": "names a plant or substance with enclitic conjunction; accusative singular",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "sahadevīñca",
+     "gloss": "sahadevī-plant-and",
+     "grounds": "names a plant with enclitic conjunction; accusative singular",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "viṣṇukrāntiṃ",
+     "gloss": "viṣṇukrānti-plant",
+     "grounds": "names a plant; accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental singular indicating sequential arrangement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred plants are to be arranged in a prescribed sequence?",
+   "premises": [
+    "Lakṣmī, sahadevī, and viṣṇukrānti are listed",
+    "Sequential arrangement is indicated"
+   ],
+   "inference": "Lakṣmī, sahadevī, and viṣṇukrānti are to be arranged in order.",
+   "uncertainties": [
+    "These names may refer to specific ritual plants whose identification can vary"
+   ],
+   "plain_english": "Lakṣmī, sahadevī, and viṣṇukrānti are to be placed in order."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "guñjādi",
+     "gloss": "starting-from-guñjā",
+     "grounds": "compound indicating the lower limit of a range",
+     "morph": "n.nom.sg (compound: guñjā+ādi)"
+    },
+    {
+     "surface": "niṣkaparyantaṃ",
+     "gloss": "up-to-niṣka",
+     "grounds": "compound indicating the upper limit of a range; accusative singular used adverbially",
+     "morph": "n.acc.sg (compound: niṣka+paryanta)"
+    },
+    {
+     "surface": "pādyādyaṃgaṃ",
+     "gloss": "foot-water-etc-component",
+     "grounds": "compound referring to components beginning with foot-water; accusative singular",
+     "morph": "n.acc.sg (compound: pādya+ādi+aṅga)"
+    },
+    {
+     "surface": "pramāṇakam",
+     "gloss": "measure",
+     "grounds": "names the standard of measurement; nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What range of measures applies to the components beginning with foot-water?",
+   "premises": [
+    "A range from guñjā to niṣka is specified",
+    "The measure applies to components beginning with foot-water"
+   ],
+   "inference": "The measure for components beginning with foot-water ranges from a guñjā up to a niṣka.",
+   "uncertainties": [
+    "Exact weight equivalents of guñjā and niṣka depend on traditional standards"
+   ],
+   "plain_english": "The measure for foot-water and the other components ranges from a guñjā up to a niṣka."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "madhyamānaṃ",
+     "gloss": "middle-measure",
+     "grounds": "compound indicating a middle standard; nominative singular",
+     "morph": "n.nom.sg (compound: madhya+māna)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating prescription",
+     "morph": "n.nom.sg (ppp, √vac with pra)"
+    },
+    {
+     "surface": "pādamardhaṃ",
+     "gloss": "quarter-or-half",
+     "grounds": "compound indicating reduced measures; nominative singular",
+     "morph": "n.nom.sg (compound: pāda+ardha)"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "likewise-also",
+     "grounds": "compound adverbial expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative middle or reduced measures are declared for the ritual quantities?",
+   "premises": [
+    "A middle measure is declared",
+    "A quarter or half measure is also mentioned",
+    "An alternative is indicated"
+   ],
+   "inference": "A middle measure is declared, or alternatively a quarter or half measure may be used.",
+   "uncertainties": [
+    "The exact application of pāda and ardha as alternatives is context-dependent"
+   ],
+   "plain_english": "A middle measure is declared, or alternatively a quarter or a half measure."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "karpūrakuṃkumādīnāṃ",
+     "gloss": "of-camphor-saffron-etc",
+     "grounds": "compound listing substances with genitive plural",
+     "morph": "n.gen.pl (compound: karpūra+kuṃkuma+ādi)"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "names the quantity; nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "as-desired",
+     "grounds": "past passive participle indicating discretion",
+     "morph": "n.nom.sg (ppp, √iṣ)"
+    },
+    {
+     "surface": "pradīyatām",
+     "gloss": "should-be-given",
+     "grounds": "passive imperative prescribing the action",
+     "morph": "3.sg.pass-imperative (√dā with pra)"
+    }
+   ],
+   "question": "How should the quantities of camphor, saffron, and similar substances be determined?",
+   "premises": [
+    "Camphor, saffron, and similar substances are specified",
+    "The measure is described as desired",
+    "Giving is prescribed"
+   ],
+   "inference": "Camphor, saffron, and similar substances should be given in the desired measure.",
+   "uncertainties": [],
+   "plain_english": "Camphor, saffron, and similar substances should be given in whatever measure is desired."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb summarizing the preceding method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividharītyā",
+     "gloss": "by-threefold-method",
+     "grounds": "compound indicating a threefold procedure; instrumental singular",
+     "morph": "f.ins.sg (compound: tri+vidha+rīti)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral indicating a count; nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "eight-more",
+     "grounds": "compound indicating an addition of eight; nominative singular",
+     "morph": "n.nom.sg (compound: aṣṭa+uttara)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "is-considered",
+     "grounds": "past passive participle indicating accepted view",
+     "morph": "n.nom.sg (ppp, √man)"
+    }
+   ],
+   "question": "What total count is established by following the threefold ritual method?",
+   "premises": [
+    "A threefold method is specified",
+    "A hundred and eight more are mentioned",
+    "This count is considered authoritative"
+   ],
+   "inference": "By the threefold method, the total is considered to be one hundred and eight.",
+   "uncertainties": [
+    "The exact referent of the count depends on the preceding ritual context"
+   ],
+   "plain_english": "Thus, by the threefold method, the total is considered to be one hundred and eight."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "aṣṭādvārasamāyuktai",
+     "gloss": "with-eight-twelve-combined",
+     "grounds": "compound indicating combination of eight and twelve; instrumental plural",
+     "morph": "n.ins.pl (compound: aṣṭa+dvādaśa+samāyukta)"
+    },
+    {
+     "surface": "rekāśītistu",
+     "gloss": "one-eighty-indeed",
+     "grounds": "numeral expression with enclitic particle; nominative singular",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "pūjyate",
+     "gloss": "is-worshipped",
+     "grounds": "passive present indicating ritual worship",
+     "morph": "3.sg.pass-pres (√pūj)"
+    }
+   ],
+   "question": "What total number is worshipped when combined with groups of eight and twelve?",
+   "premises": [
+    "Groups combined with eight and twelve are specified",
+    "Eighty-one is stated",
+    "Worship is performed"
+   ],
+   "inference": "Eighty-one is worshipped in combination with groups of eight and twelve.",
+   "uncertainties": [
+    "The parsing of aṣṭādvārasamāyuktai and rekāśīti is partly ambiguous in this transmitted form"
+   ],
+   "plain_english": "Eighty-one is worshipped together with combinations of eight and twelve."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "varāla",
+     "gloss": "varāla",
+     "grounds": "names a substance; nominative singular in list context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "truṭi",
+     "gloss": "truṭi",
+     "grounds": "names a substance or small measure; nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "names a ritual substance; nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvag",
+     "gloss": "bark",
+     "grounds": "names a ritual substance; nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "elo",
+     "gloss": "cardamom",
+     "grounds": "names a ritual substance; nominative singular in transmitted form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śīrajātayaḥ",
+     "gloss": "uśīra-born-kinds",
+     "grounds": "compound indicating kinds derived from uśīra; nominative plural",
+     "morph": "m.nom.pl (compound: śīra+jāti)"
+    }
+   ],
+   "question": "Which aromatic substances and plant-derived kinds are listed for ritual use?",
+   "premises": [
+    "Varāla, truṭi, camphor, bark, and cardamom are listed",
+    "Kinds derived from uśīra are listed"
+   ],
+   "inference": "The list includes varāla, truṭi, camphor, bark, cardamom, and kinds derived from uśīra.",
+   "uncertainties": [
+    "The identities of varāla and truṭi are uncertain in this context"
+   ],
+   "plain_english": "Varāla, truṭi, camphor, bark, cardamom, and kinds of uśīra are listed."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "tenaiva",
+     "gloss": "with-that-indeed",
+     "grounds": "instrumental pronoun with emphatic particle",
+     "morph": "n.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative verb prescribing the action",
+     "morph": "3.sg.act-opt (√pṝ)"
+    },
+    {
+     "surface": "kumbhān",
+     "gloss": "pots",
+     "grounds": "names ritual vessels; accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vardhanī",
+     "gloss": "vardhanī-vessel",
+     "grounds": "names a specific ritual vessel; accusative singular in transmitted form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pitchers",
+     "grounds": "names ritual vessels; accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual vessels should be filled using the previously mentioned substances?",
+   "premises": [
+    "The previously mentioned material is to be used",
+    "Filling is prescribed",
+    "Pots, the vardhanī vessel, and pitchers are specified"
+   ],
+   "inference": "One should fill the pots, the vardhanī vessel, and the pitchers with that material.",
+   "uncertainties": [],
+   "plain_english": "With that, one should fill the pots, the vardhanī vessel, and also the pitchers."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "kṣīran",
+     "gloss": "milk",
+     "grounds": "names a ritual substance; accusative singular in transmitted form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghṛtañcaiva",
+     "gloss": "ghee-and-indeed",
+     "grounds": "names a ritual substance with enclitic conjunction and emphatic particle",
+     "morph": "n.acc.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "prathamāvaraṇe",
+     "gloss": "in-first-enclosure",
+     "grounds": "compound indicating location in the first enclosure; locative singular",
+     "morph": "n.loc.sg (compound: prathama+āvaraṇa)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb prescribing placement",
+     "morph": "3.sg.act-opt (√nyas)"
+    }
+   ],
+   "question": "Which dairy substances should be placed in the first enclosure?",
+   "premises": [
+    "Milk, curd, and ghee are specified",
+    "The first enclosure is specified as the location",
+    "Placement is prescribed"
+   ],
+   "inference": "Milk, curd, and ghee should be placed in the first enclosure.",
+   "uncertainties": [],
+   "plain_english": "One should place milk, curd, and ghee in the first enclosure."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "sarṣapaṃ",
+     "gloss": "mustard",
+     "grounds": "names a ritual substance; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nālikerākhyaṃ",
+     "gloss": "coconut-named",
+     "grounds": "compound indicating a substance named coconut; accusative singular",
+     "morph": "n.acc.sg (compound: nālikera+ākhya)"
+    },
+    {
+     "surface": "rajanī",
+     "gloss": "turmeric",
+     "grounds": "names a ritual substance; nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātulaṃgakam",
+     "gloss": "citron",
+     "grounds": "names a fruit; accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which additional substances including mustard and turmeric are prescribed in this section?",
+   "premises": [
+    "Mustard is listed",
+    "A coconut-named substance is listed",
+    "Turmeric and citron are listed"
+   ],
+   "inference": "The prescribed substances include mustard, a coconut-named item, turmeric, and citron.",
+   "uncertainties": [],
+   "plain_english": "Mustard, a coconut-named substance, turmeric, and citron are included."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatimadhyastha",
+     "gloss": "twenty-five-middle-situated",
+     "grounds": "compound indicating location within a group of twenty-five",
+     "morph": "n.nom.pl (compound: pañcaviṃśati+madhya+stha)"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "substances",
+     "grounds": "names the ritual materials; nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to the substances",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral indicating the count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many of the substances situated within the group of twenty-five are identified here?",
+   "premises": [
+    "Substances situated within twenty-five are referred to",
+    "These substances are specified",
+    "The number sixteen is given"
+   ],
+   "inference": "These sixteen substances are those situated within the group of twenty-five.",
+   "uncertainties": [
+    "The precise grouping of the twenty-five depends on the broader ritual layout"
+   ],
+   "plain_english": "These sixteen substances are among those situated within the group of twenty-five."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "pūrvasmin",
+     "gloss": "in-eastern",
+     "grounds": "locative singular indicating the eastern location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃsthitaṃ",
+     "gloss": "situated",
+     "grounds": "past passive participle indicating placement",
+     "morph": "n.nom.sg (ppp, √sthā with sam)"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "should-be-known",
+     "grounds": "gerundive indicating what is to be understood",
+     "morph": "n.nom.sg (gerundive, √jñā)"
+    },
+    {
+     "surface": "koṇadvayavivarjitam",
+     "gloss": "two-corners-excluded",
+     "grounds": "compound indicating exclusion of two corners; nominative singular",
+     "morph": "n.nom.sg (compound: koṇa+dvaya+vivarjita)"
+    }
+   ],
+   "question": "How should the placement in the eastern direction be understood with respect to the corners?",
+   "premises": [
+    "The eastern location is specified",
+    "Placement is to be known",
+    "Two corners are excluded"
+   ],
+   "inference": "In the east, the placement should be understood as excluding two corners.",
+   "uncertainties": [
+    "Which two corners are excluded is not specified in this verse"
+   ],
+   "plain_english": "In the east, it should be understood as situated with two corners excluded."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative singular indicating the southern location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative singular indicating the western location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "should-be-known",
+     "grounds": "gerundive indicating what is to be understood",
+     "morph": "n.nom.sg (gerundive, √jñā)"
+    },
+    {
+     "surface": "mānyāstraphalatoyayuk",
+     "gloss": "mānyā-weapon-fruit-water-joined",
+     "grounds": "compound describing what is joined or included; nominative singular",
+     "morph": "n.nom.sg (compound: mānyā+astra+phala+toya+yuj)"
+    }
+   ],
+   "question": "What combination should be understood for the southern and western placements?",
+   "premises": [
+    "The southern and western locations are specified",
+    "A combination involving mānyā, weapon, fruit, and water is indicated",
+    "This is to be known"
+   ],
+   "inference": "In the south and west, it should be understood as joined with mānyā, weapon, fruit, and water.",
+   "uncertainties": [
+    "The exact meaning of mānyā and astra in this ritual context is uncertain"
+   ],
+   "plain_english": "In the south and west, it should be understood as joined with mānyā, a weapon, fruit, and water."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "kāntamūlodakaṃ",
+     "gloss": "kānta-root-water",
+     "grounds": "compound naming water prepared with kānta root; nominative singular",
+     "morph": "n.nom.sg (compound: kānta+mūla+udaka)"
+    },
+    {
+     "surface": "brahmakūrcaṃ",
+     "gloss": "brahma-kūrca",
+     "grounds": "compound naming a ritual mixture; nominative singular",
+     "morph": "n.nom.sg (compound: brahma+kūrca)"
+    },
+    {
+     "surface": "śāntyudavalkale",
+     "gloss": "peace-water-bark",
+     "grounds": "compound naming substances related to peace water and bark; nominative dual or locative in transmitted form",
+     "morph": "n.nom.du (compound: śānti+udaka+valkala)"
+    }
+   ],
+   "question": "Which prepared waters and ritual substances are specified in this part of the list?",
+   "premises": [
+    "Water made with kānta root is listed",
+    "Brahmakūrca is listed",
+    "Substances related to peace water and bark are listed"
+   ],
+   "inference": "The list includes kānta-root water, brahmakūrca, and peace-water with bark.",
+   "uncertainties": [
+    "The exact parsing and number of śāntyudavalkale are uncertain in this transmitted form"
+   ],
+   "plain_english": "Kānta-root water, brahmakūrca, and peace-water with bark are included."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "puṣparāgaṃ",
+     "gloss": "topaz",
+     "grounds": "names a gemstone; accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pravālañca",
+     "gloss": "coral-and",
+     "grounds": "names a substance with enclitic conjunction; accusative singular",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "sphaṭikaṃ",
+     "gloss": "crystal",
+     "grounds": "names a gemstone; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "marakatantathā",
+     "gloss": "emerald-likewise",
+     "grounds": "names a gemstone with adverb fused in transmission; accusative singular",
+     "morph": "n.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "Which gemstones are enumerated as part of the prescribed ritual materials?",
+   "premises": [
+    "Topaz is listed",
+    "Coral is listed",
+    "Crystal is listed",
+    "Emerald is listed likewise"
+   ],
+   "inference": "The prescribed gemstones include topaz, coral, crystal, and emerald.",
+   "uncertainties": [],
+   "plain_english": "Topaz, coral, crystal, and likewise emerald are included."
+  }
+ ]
+}

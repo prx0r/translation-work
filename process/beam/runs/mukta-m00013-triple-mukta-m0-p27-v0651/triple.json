@@ -1,0 +1,1015 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "vānte",
+     "gloss": "emitted",
+     "grounds": "locative participle indicating prior utterance",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sinyai",
+     "gloss": "with-s",
+     "grounds": "syllable component of the mantra",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "priyā",
+     "gloss": "beloved",
+     "grounds": "epithet or syllable component in mantra",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vahneḥ+",
+     "gloss": "of-fire",
+     "grounds": "genitive referring to Agni/fire",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.sg.m.past-passive-participle"
+    },
+    {
+     "surface": "daśa+akṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "compound describing mantra length",
+     "morph": "compound: daśa+akṣaraḥ"
+    }
+   ],
+   "question": "What is the declared syllabic length of the fire mantra?",
+   "premises": [
+    "The mantra of fire is declared",
+    "It is described as ten-syllabled",
+    "Specific syllabic elements are indicated"
+   ],
+   "inference": "The fire mantra is declared to consist of ten syllables.",
+   "uncertainties": [
+    "Exact parsing of sinyai priyā as mantra syllables is context-dependent"
+   ],
+   "plain_english": "After the utterance with 's' and 'priyā', the mantra of fire is declared to be ten-syllabled."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "ṛṣiḥ+",
+     "gloss": "seer",
+     "grounds": "mantra seer",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dakṣaḥ",
+     "gloss": "dakṣa",
+     "grounds": "proper name of the seer",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "virāṭ+chandaḥ",
+     "gloss": "virāṭ-meter",
+     "grounds": "compound naming the metrical form",
+     "morph": "compound: virāṭ+chandaḥ"
+    },
+    {
+     "surface": "devatā+",
+     "gloss": "deity",
+     "grounds": "presiding deity of the mantra",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "śrī",
+     "grounds": "goddess Śrī/Lakṣmī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.sg.f.past-passive-participle"
+    }
+   ],
+   "question": "Which seer, meter, and deity are assigned to this mantra?",
+   "premises": [
+    "The seer is named Dakṣa",
+    "The meter is Virāṭ",
+    "The deity is declared as Śrī"
+   ],
+   "inference": "The mantra's seer is Dakṣa, its meter is Virāṭ, and its deity is Śrī.",
+   "uncertainties": [],
+   "plain_english": "The seer is Dakṣa, the meter is Virāṭ, and the deity is declared to be Śrī."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon",
+     "grounds": "astra mantra component",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kamala+rūpāyai",
+     "gloss": "to-lotus-formed",
+     "grounds": "compound epithet in dative",
+     "morph": "compound: kamala+rūpāyai"
+    },
+    {
+     "surface": "namaḥ+antāḥ",
+     "gloss": "ending-with-namaḥ",
+     "grounds": "compound indicating mantra ending",
+     "morph": "compound: namaḥ+antāḥ"
+    },
+    {
+     "surface": "praṇava+ādikāḥ",
+     "gloss": "beginning-with-praṇava",
+     "grounds": "compound indicating mantra beginning with oṃ",
+     "morph": "compound: praṇava+ādikāḥ"
+    }
+   ],
+   "question": "How is the weapon mantra structured with respect to its opening and closing?",
+   "premises": [
+    "The mantra begins with the praṇava",
+    "It is addressed to the lotus-formed one",
+    "It ends with namaḥ"
+   ],
+   "inference": "The weapon mantra begins with praṇava and ends with namaḥ addressed to the lotus-formed deity.",
+   "uncertainties": [],
+   "plain_english": "The weapon mantra begins with the praṇava and ends with 'namaḥ' to the lotus-formed one."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "vidhāya+",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āvaraṇa+pūjāṃ",
+     "gloss": "enclosure-worship",
+     "grounds": "compound for worship of surrounding deities",
+     "morph": "compound: āvaraṇa+pūjāṃ"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunctive/optative prescribing action",
+     "morph": "3.sg.optative-active √kṛ"
+    }
+   ],
+   "question": "What ritual action must follow the performance of enclosure worship?",
+   "premises": [
+    "Enclosure worship is to be performed",
+    "A subsequent action is prescribed",
+    "The practitioner should carry it out"
+   ],
+   "inference": "After performing enclosure worship, the practitioner should proceed with the prescribed rite.",
+   "uncertainties": [
+    "The specific action is completed in the following verse"
+   ],
+   "plain_english": "Having performed the enclosure worship, one should proceed."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa+ādi+visarjana+antaṃ",
+     "gloss": "ending-with-incense-etc-dismissal",
+     "grounds": "compound describing ritual sequence up to dismissal",
+     "morph": "compound: dhūpa+ādi+visarjana+antaṃ"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "prescriptive completion of rite",
+     "morph": "3.sg.optative-active √sam-āp"
+    }
+   ],
+   "question": "Up to which concluding stage should the ritual sequence be completed?",
+   "premises": [
+    "The rite continues after prior steps",
+    "It includes incense and related offerings",
+    "It concludes with dismissal"
+   ],
+   "inference": "The practitioner should complete the rite up to incense offerings and dismissal.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite ending with incense and other offerings and dismissal."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "daśa+aṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "compound indicating one-tenth quantity",
+     "morph": "compound: daśa+aṃśaṃ"
+    },
+    {
+     "surface": "juhuyāt+",
+     "gloss": "should-offer",
+     "grounds": "prescriptive fire offering",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "one who uses the mantra",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "madhura+āktaiḥ",
+     "gloss": "smeared-with-sweet-substances",
+     "grounds": "compound describing oblation material",
+     "morph": "compound: madhura+āktaiḥ"
+    },
+    {
+     "surface": "saroruhaiḥ",
+     "gloss": "with-lotuses",
+     "grounds": "instrumental plural of lotus offerings",
+     "morph": "inst.pl.n"
+    }
+   ],
+   "question": "What oblation quantity and materials are prescribed for the fire offering?",
+   "premises": [
+    "The practitioner should perform a fire offering",
+    "The quantity is one-tenth",
+    "Lotuses smeared with sweet substances are used"
+   ],
+   "inference": "The practitioner should offer one-tenth as oblations using lotuses smeared with sweet substances.",
+   "uncertainties": [
+    "One-tenth is relative to a prior count, likely of mantra recitations"
+   ],
+   "plain_english": "The practitioner should offer a tenth part into the fire with lotuses smeared with sweet substances."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "mahālakṣmyāḥ",
+     "gloss": "of-mahālakṣmī",
+     "grounds": "genitive specifying the deity",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "samuddiṣṭaḥ+",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.sg.m.past-passive-participle"
+    },
+    {
+     "surface": "tāra+ādyaḥ",
+     "gloss": "beginning-with-tāra",
+     "grounds": "compound indicating mantra begins with oṃ",
+     "morph": "compound: tāra+ādyaḥ"
+    },
+    {
+     "surface": "sarva+siddhi+daḥ",
+     "gloss": "granting-all-accomplishments",
+     "grounds": "compound describing mantra's efficacy",
+     "morph": "compound: sarva+siddhi+daḥ"
+    }
+   ],
+   "question": "What opening element and efficacy are attributed to the mantra of Mahālakṣmī?",
+   "premises": [
+    "The mantra belongs to Mahālakṣmī",
+    "It begins with the tāra syllable",
+    "It grants all accomplishments"
+   ],
+   "inference": "Mahālakṣmī's mantra begins with tāra and grants all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "The mantra of Mahālakṣmī is declared to begin with the tāra and to grant all accomplishments."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "mahālakṣmyai",
+     "gloss": "to-mahālakṣmī",
+     "grounds": "dative of address",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "dative apposition",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What salutation formula is directed to the deity Mahālakṣmī?",
+   "premises": [
+    "The address is to Mahālakṣmī",
+    "She is identified as the deity",
+    "The formula uses namaḥ"
+   ],
+   "inference": "The salutation is 'obeisance to the deity Mahālakṣmī'.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the deity Mahālakṣmī."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "śeṣān+",
+     "gloss": "remaining",
+     "grounds": "refers to remaining syllables",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "nyaset+",
+     "gloss": "should-place",
+     "grounds": "prescriptive ritual placement",
+     "morph": "3.sg.optative-active √nyas"
+    },
+    {
+     "surface": "sapta+varṇān",
+     "gloss": "seven-syllables",
+     "grounds": "compound indicating count of syllables",
+     "morph": "compound: sapta+varṇān"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "location for placement",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sapta+dhātuṣu",
+     "gloss": "in-seven-dhātus",
+     "grounds": "compound referring to seven bodily constituents",
+     "morph": "compound: sapta+dhātuṣu"
+    }
+   ],
+   "question": "Where should the remaining seven syllables be ritually placed?",
+   "premises": [
+    "Seven remaining syllables are specified",
+    "They should be placed ritually",
+    "The locations are the heart and seven dhātus"
+   ],
+   "inference": "The remaining seven syllables should be placed in the heart and in the seven dhātus.",
+   "uncertainties": [
+    "Exact distribution across heart and seven dhātus is not fully specified"
+   ],
+   "plain_english": "One should place the remaining seven syllables in the heart and in the seven bodily constituents."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "jñāna+aiśvarya+ādayaḥ",
+     "gloss": "knowledge-sovereignty-etc",
+     "grounds": "compound listing qualities beginning with knowledge and sovereignty",
+     "morph": "compound: jñāna+aiśvarya+ādayaḥ"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.pl.f.past-passive-participle"
+    },
+    {
+     "surface": "ṣaṭ+kramāt+",
+     "gloss": "in-order-of-six",
+     "grounds": "compound indicating sequence of six",
+     "morph": "compound: ṣaṭ+kramāt+"
+    },
+    {
+     "surface": "aṅga+devatāḥ",
+     "gloss": "limb-deities",
+     "grounds": "compound for deities of the limbs",
+     "morph": "compound: aṅga+devatāḥ"
+    }
+   ],
+   "question": "Which qualities are identified as the six limb deities in sequence?",
+   "premises": [
+    "Limb deities are declared",
+    "They follow an order of six",
+    "They begin with knowledge and sovereignty"
+   ],
+   "inference": "The six limb deities are declared in sequence as knowledge, sovereignty, and so forth.",
+   "uncertainties": [
+    "The full list of six is abbreviated by ādayaḥ"
+   ],
+   "plain_english": "Knowledge, sovereignty, and so on are declared as the limb deities in the order of six."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa+ādi+visarjana+antaṃ",
+     "gloss": "ending-with-incense-etc-dismissal",
+     "grounds": "compound describing ritual sequence up to dismissal",
+     "morph": "compound: dhūpa+ādi+visarjana+antaṃ"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "prescriptive completion of rite",
+     "morph": "3.sg.optative-active √sam-āp"
+    }
+   ],
+   "question": "Up to which concluding stage should this ritual sequence be completed?",
+   "premises": [
+    "The rite continues after prior steps",
+    "It includes incense and related offerings",
+    "It concludes with dismissal"
+   ],
+   "inference": "The practitioner should complete the rite up to incense offerings and dismissal.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite ending with incense and other offerings and dismissal."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "ayuta+dvayam+",
+     "gloss": "two-myriads",
+     "grounds": "compound indicating twenty thousand",
+     "morph": "compound: ayuta+dvayam+"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācanika+vyavasthā",
+     "gloss": "scriptural-stipulation",
+     "grounds": "compound referring to textual rule",
+     "morph": "compound: vācanika+vyavasthā"
+    }
+   ],
+   "question": "What numerical count is established by the scriptural stipulation?",
+   "premises": [
+    "A scriptural stipulation is stated",
+    "The count given is two myriads",
+    "This serves as a prescribed rule"
+   ],
+   "inference": "The scriptural stipulation establishes a count of twenty thousand.",
+   "uncertainties": [
+    "The object being counted, likely recitations, is implied by context"
+   ],
+   "plain_english": "Thus the scriptural stipulation is two myriads."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "ya+kāraḥ",
+     "gloss": "letter-ya",
+     "grounds": "name of the syllable ya",
+     "morph": "compound: ya+kāraḥ"
+    },
+    {
+     "surface": "e+kāra+yuktaḥ",
+     "gloss": "joined-with-e",
+     "grounds": "compound indicating combination with e",
+     "morph": "compound: e+kāra+yuktaḥ"
+    }
+   ],
+   "question": "Which vowel modification is applied to the letter ya?",
+   "premises": [
+    "The base letter is ya",
+    "It is joined with another element",
+    "That element is the letter e"
+   ],
+   "inference": "The letter ya is joined with the vowel e.",
+   "uncertainties": [],
+   "plain_english": "The letter ya joined with the letter e."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "astram+",
+     "gloss": "weapon",
+     "grounds": "astra mantra",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "etaiḥ",
+     "gloss": "with-these",
+     "grounds": "instrumental referring to specified elements",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "padaiḥ",
+     "gloss": "words",
+     "grounds": "mantric words or phrases",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "kuryāt+",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive formation",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "tri+bīja+puṭitaiḥ",
+     "gloss": "enclosed-by-three-bījas",
+     "grounds": "compound describing encapsulation with three seed syllables",
+     "morph": "compound: tri+bīja+puṭitaiḥ"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates separate application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the weapon mantra be formed using the specified words and seed syllables?",
+   "premises": [
+    "The weapon mantra is to be formed",
+    "It uses these words",
+    "Each is enclosed separately by three bījas"
+   ],
+   "inference": "One should form the weapon mantra with these words, each separately enclosed by three bījas.",
+   "uncertainties": [
+    "The identity of the three bījas is not specified here"
+   ],
+   "plain_english": "One should make the weapon mantra with these words, each separately enclosed by three seed syllables."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior meditation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "instrumental describing internal worship",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaṅkha+sthānaṃ",
+     "gloss": "conch-placement",
+     "grounds": "compound referring to placing or preparing the conch",
+     "morph": "compound: śaṅkha+sthānaṃ"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active √kṛ"
+    }
+   ],
+   "question": "What preparatory actions precede the placement of the conch?",
+   "premises": [
+    "Meditation is performed in this manner",
+    "Worship is done with mental offerings",
+    "The conch placement follows these acts"
+   ],
+   "inference": "After meditating and worshipping with mental offerings, one should perform the conch placement.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should perform the placement of the conch."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "anurāgāya",
+     "gloss": "to-passion",
+     "grounds": "dative of address",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "mahālakṣmī+bāṇāya",
+     "gloss": "to-mahālakṣmī-arrow",
+     "grounds": "compound epithet in dative",
+     "morph": "compound: mahālakṣmī+bāṇāya"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "indicates sequential procedure",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive worship",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "In what manner and sequence should worship be performed with this salutation?",
+   "premises": [
+    "A salutation to passion and the arrow of Mahālakṣmī is given",
+    "Worship is prescribed",
+    "It should follow a sequential order"
+   ],
+   "inference": "One should worship in due order using the salutation to Anurāga and the arrow of Mahālakṣmī.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to Anurāga, to the arrow of Mahālakṣmī; thus one should worship in order."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "daśa+aṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "compound indicating one-tenth quantity",
+     "morph": "compound: daśa+aṃśaṃ"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "in-consecrated",
+     "grounds": "locative describing prepared fire",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "fire",
+     "grounds": "ritual fire",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "prāk+proktena+",
+     "gloss": "by-previously-declared",
+     "grounds": "compound referring to earlier method",
+     "morph": "compound: prāk+proktena+"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "method",
+     "grounds": "instrumental indicating procedure",
+     "morph": "inst.sg.n"
+    }
+   ],
+   "question": "By what method and in what fire should the tenth-part offering be made?",
+   "premises": [
+    "A tenth-part offering is indicated",
+    "The fire must be consecrated",
+    "The method is the one previously declared"
+   ],
+   "inference": "The tenth-part offering should be made in consecrated fire by the previously declared method.",
+   "uncertainties": [
+    "The verb for offering is implied from context"
+   ],
+   "plain_english": "One should offer a tenth part in the consecrated fire by the very method previously declared."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "aṣṭa+akṣaraḥ",
+     "gloss": "eight-syllabled",
+     "grounds": "compound describing mantra length",
+     "morph": "compound: aṣṭa+akṣaraḥ"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.sg.m.past-passive-participle"
+    },
+    {
+     "surface": "bhānoḥ+",
+     "gloss": "of-sun",
+     "grounds": "genitive specifying deity",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "abhimata+pradaḥ",
+     "gloss": "granting-desires",
+     "grounds": "compound describing efficacy",
+     "morph": "compound: abhimata+pradaḥ"
+    }
+   ],
+   "question": "What length and efficacy are attributed to the mantra of the sun?",
+   "premises": [
+    "The mantra belongs to the sun",
+    "It is declared to be eight-syllabled",
+    "It grants desired ends"
+   ],
+   "inference": "The sun's mantra is declared to be eight-syllabled and to grant desired ends.",
+   "uncertainties": [],
+   "plain_english": "The eight-syllabled mantra of the sun is declared to grant desired ends."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "pīṭha+mantraḥ+",
+     "gloss": "seat-mantra",
+     "grounds": "compound for mantra of the seat",
+     "morph": "compound: pīṭha+mantraḥ+"
+    },
+    {
+     "surface": "ayam+",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ākhyātaḥ",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.sg.m.past-passive-participle"
+    },
+    {
+     "surface": "dina+īśasya",
+     "gloss": "of-lord-of-day",
+     "grounds": "compound epithet of the sun",
+     "morph": "compound: dina+īśasya"
+    },
+    {
+     "surface": "jagat+pateḥ",
+     "gloss": "lord-of-world",
+     "grounds": "compound epithet of the sun",
+     "morph": "compound: jagat+pateḥ"
+    }
+   ],
+   "question": "To which solar deity is this seat mantra attributed?",
+   "premises": [
+    "This is declared as the seat mantra",
+    "It belongs to the lord of day",
+    "He is also called lord of the world"
+   ],
+   "inference": "This seat mantra is declared for the lord of day, the lord of the world.",
+   "uncertainties": [],
+   "plain_english": "This is declared as the seat mantra of the lord of day, the lord of the world."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "ādityaḥ",
+     "gloss": "āditya",
+     "grounds": "name of the sun deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.sg.m.past-passive-participle"
+    },
+    {
+     "surface": "dṛṣṭa+adṛṣṭa+phala+pradaḥ",
+     "gloss": "granting-visible-invisible-fruits",
+     "grounds": "compound describing efficacy in seen and unseen results",
+     "morph": "compound: dṛṣṭa+adṛṣṭa+phala+pradaḥ"
+    }
+   ],
+   "question": "What range of results is the deity Āditya declared to grant?",
+   "premises": [
+    "Āditya is declared the deity",
+    "He grants fruits",
+    "These fruits are both visible and invisible"
+   ],
+   "inference": "Āditya is declared the deity who grants both visible and invisible fruits.",
+   "uncertainties": [],
+   "plain_english": "Āditya is declared the deity who grants both visible and invisible fruits."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaya+ādiṣu",
+     "gloss": "in-heart-etc",
+     "grounds": "compound locative indicating heart and other locations",
+     "morph": "compound: hṛdaya+ādiṣu"
+    }
+   ],
+   "question": "In which bodily locations should the prescribed placement be performed?",
+   "premises": [
+    "A placement procedure is indicated",
+    "It is done in this manner",
+    "The locations begin with the heart"
+   ],
+   "inference": "The placement should be performed in the heart and other specified locations.",
+   "uncertainties": [
+    "The specific action is continued from surrounding verses"
+   ],
+   "plain_english": "Thus in the heart and so forth."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviṭha+antāḥ",
+     "gloss": "ending-with-dviṭha",
+     "grounds": "compound indicating ending element",
+     "morph": "compound: dviṭha+antāḥ"
+    },
+    {
+     "surface": "pṛthak+",
+     "gloss": "separately",
+     "grounds": "indicates separate application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritāḥ",
+     "gloss": "declared",
+     "grounds": "stated as taught",
+     "morph": "nom.pl.m.past-passive-participle"
+    }
+   ],
+   "question": "How are the mantra endings with phaṭ and dviṭha to be applied?",
+   "premises": [
+    "Endings are declared",
+    "They include phaṭ and dviṭha",
+    "They are applied separately"
+   ],
+   "inference": "The endings with phaṭ and dviṭha are declared to be applied separately.",
+   "uncertainties": [
+    "The exact referent of dviṭha is context-dependent"
+   ],
+   "plain_english": "They are declared separately as ending with 'phaṭ' and 'dviṭha'."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "guhye",
+     "gloss": "in-private-part",
+     "grounds": "location for placement",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "iṃ",
+     "gloss": "iṃ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāskarāya",
+     "gloss": "to-bhāskara",
+     "grounds": "dative of address to the sun",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "caraṇayoḥ",
+     "gloss": "in-feet",
+     "grounds": "location for placement",
+     "morph": "loc.dual.m"
+    },
+    {
+     "surface": "aṃ",
+     "gloss": "aṃ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryāya",
+     "gloss": "to-sūrya",
+     "grounds": "dative of address to the sun",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "Which syllables and solar names are placed in the private part and feet?",
+   "premises": [
+    "Placement locations include the private part and feet",
+    "The syllables iṃ and aṃ are used",
+    "They are addressed to Bhāskara and Sūrya"
+   ],
+   "inference": "One places 'iṃ' to Bhāskara in the private part and 'aṃ' to Sūrya in the feet.",
+   "uncertainties": [],
+   "plain_english": "In the private part place 'iṃ' to Bhāskara, and in the feet 'aṃ' to Sūrya."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "mantra+varṇān",
+     "gloss": "mantra-syllables",
+     "grounds": "compound for syllables of the mantra",
+     "morph": "compound: mantra+varṇān"
+    },
+    {
+     "surface": "nyaset+",
+     "gloss": "should-place",
+     "grounds": "prescriptive ritual placement",
+     "morph": "3.sg.optative-active √nyas"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral indicating count",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "indicates individual application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇava+ādinā",
+     "gloss": "beginning-with-praṇava",
+     "grounds": "compound indicating each begins with oṃ",
+     "morph": "compound: praṇava+ādinā"
+    }
+   ],
+   "question": "How should the eight mantra syllables be individually placed?",
+   "premises": [
+    "Eight mantra syllables are specified",
+    "Each should be placed ritually",
+    "Each begins with the praṇava"
+   ],
+   "inference": "One should place each of the eight mantra syllables beginning with the praṇava.",
+   "uncertainties": [],
+   "plain_english": "One should place the eight mantra syllables, each beginning with the praṇava."
+  }
+ ]
+}

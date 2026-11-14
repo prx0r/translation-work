@@ -1,0 +1,1023 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2851,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "points to all ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāga+śālāyāṃ",
+     "gloss": "sacrifice-hall-in",
+     "grounds": "compound locative indicating place",
+     "morph": "compound+f.loc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "ritual work to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "totality of the action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "should-complete",
+     "grounds": "injunction to finish the rite",
+     "morph": "3.sg.optative-active+sam-āp"
+    }
+   ],
+   "question": "Where should the officiant complete all the prescribed ritual actions?",
+   "premises": [
+    "The ritual sequence continues after prior steps",
+    "All prescribed actions remain to be completed",
+    "The sacrifice hall is the designated place"
+   ],
+   "inference": "Therefore the officiant should complete all the ritual actions in the sacrifice hall.",
+   "uncertainties": [],
+   "plain_english": "Then he should complete all this ritual action in the sacrifice hall."
+  },
+  {
+   "verse": 2852,
+   "rows": [
+    {
+     "surface": "tarpaṇārtham",
+     "gloss": "for-satisfaction",
+     "grounds": "purpose of the preparation",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "maheśasya",
+     "gloss": "of-great-lord",
+     "grounds": "recipient of the offering",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kalpyam",
+     "gloss": "should-be-prepared",
+     "grounds": "injunction to arrange materials",
+     "morph": "n.nom.sg.gerundive+kḷp"
+    },
+    {
+     "surface": "munipuṅgavāḥ",
+     "gloss": "o-best-of-sages",
+     "grounds": "vocative address to audience",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "For whose satisfaction must the ritual materials be prepared next?",
+   "premises": [
+    "The rite requires a preparatory arrangement",
+    "The preparation serves a specific purpose",
+    "The great lord is the intended recipient"
+   ],
+   "inference": "Therefore materials should be prepared for the satisfaction of the great lord.",
+   "uncertainties": [],
+   "plain_english": "O best of sages, preparations should be made for the satisfaction of the great lord."
+  },
+  {
+   "verse": 2853,
+   "rows": [
+    {
+     "surface": "tadagre",
+     "gloss": "before-that",
+     "grounds": "locative indicating position in front",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "saṃyajet",
+     "gloss": "should-worship",
+     "grounds": "injunction to perform worship",
+     "morph": "3.sg.optative-active+sam-yaj"
+    },
+    {
+     "surface": "astraṃ+śivākhyaṃ",
+     "gloss": "weapon-named-śiva",
+     "grounds": "compound naming the deity-form as śiva weapon",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-of-teachers",
+     "grounds": "qualified officiant",
+     "morph": "compound+m.nom.sg"
+    }
+   ],
+   "question": "Which divine weapon must the foremost teacher worship before that place?",
+   "premises": [
+    "Worship is to be performed in front of the prepared place",
+    "The officiant is the foremost teacher",
+    "The object of worship is the weapon named śiva"
+   ],
+   "inference": "Therefore the foremost teacher should worship the weapon named śiva before that place.",
+   "uncertainties": [],
+   "plain_english": "Before that, the best of teachers should worship the weapon known as śiva."
+  },
+  {
+   "verse": 2854,
+   "rows": [
+    {
+     "surface": "candrakhaṇḍa+sumūrdhānam",
+     "gloss": "moon-crescent-fine-head",
+     "grounds": "compound describing the deity's head",
+     "morph": "compound+m.acc.sg"
+    },
+    {
+     "surface": "sacatuṣkara+pallavam",
+     "gloss": "with-four-hands-tender",
+     "grounds": "compound describing four tender hands",
+     "morph": "compound+m.acc.sg"
+    }
+   ],
+   "question": "What physical features characterize the śiva weapon to be visualized in worship?",
+   "premises": [
+    "The deity-form has a distinct head ornament",
+    "The deity-form has four hands",
+    "These features define its appearance"
+   ],
+   "inference": "Therefore the śiva weapon is visualized with a crescent moon on its head and four tender hands.",
+   "uncertainties": [],
+   "plain_english": "He has a fine head adorned with a crescent moon and four tender hands."
+  },
+  {
+   "verse": 2855,
+   "rows": [
+    {
+     "surface": "dvādaśākṣiyutam",
+     "gloss": "twelve-eyed-endowed",
+     "grounds": "compound indicating twelve eyes",
+     "morph": "compound+m.acc.sg"
+    },
+    {
+     "surface": "śakti+śūla+abhaya+varānvitam",
+     "gloss": "power-trident-fearlessness-boon-endowed",
+     "grounds": "compound listing attributes held",
+     "morph": "compound+m.acc.sg"
+    }
+   ],
+   "question": "What eyes and hand-held attributes further define the śiva weapon's form?",
+   "premises": [
+    "The deity-form possesses multiple eyes",
+    "The deity-form holds specific emblems",
+    "These attributes complete its iconography"
+   ],
+   "inference": "Therefore the śiva weapon is endowed with twelve eyes and holds power, trident, fearlessness, and boon.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with twelve eyes and bears the power, the trident, the gesture of fearlessness, and the gesture of boon."
+  },
+  {
+   "verse": 2856,
+   "rows": [
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aghoram",
+     "gloss": "aghora",
+     "grounds": "name of deity-form to worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior action before next worship",
+     "morph": "(gerund)+abhi-arc"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśupatam",
+     "gloss": "pāśupata",
+     "grounds": "name of deity-form to worship next",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "injunction for subsequent worship",
+     "morph": "3.sg.optative-active+yaj"
+    }
+   ],
+   "question": "Which deities must be worshipped in sequence on the right side?",
+   "premises": [
+    "Worship proceeds in a fixed order",
+    "Aghora is worshipped on the right side",
+    "Pāśupata is worshipped after aghora"
+   ],
+   "inference": "Therefore one should worship aghora on the right and afterwards worship pāśupata.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped aghora on the right, he should afterwards worship pāśupata."
+  },
+  {
+   "verse": 2857,
+   "rows": [
+    {
+     "surface": "oṃ+hrīṃ",
+     "gloss": "oṃ-hrīṃ",
+     "grounds": "seed syllables of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker in mantra extraction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇavāsase",
+     "gloss": "to-black-garment",
+     "grounds": "mantra phrase addressed to black-garmented form",
+     "morph": "compound+m.dat.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "quotation marker in mantra sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "refers to the mantra word",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "Which mantra words begin the extraction of the pāśupata formula?",
+   "premises": [
+    "The mantra is given by sequential extraction",
+    "The opening syllables are specified",
+    "A following phrase is identified as a word"
+   ],
+   "inference": "Therefore the mantra begins with oṃ hrīṃ followed by the word kṛṣṇavāsase.",
+   "uncertainties": [],
+   "plain_english": "Then come oṃ and hrīṃ, and then the word 'to the one clad in black garments'."
+  },
+  {
+   "verse": 2858,
+   "rows": [
+    {
+     "surface": "mahābhairavivarṇe",
+     "gloss": "great-bhairava-colored",
+     "grounds": "mantra phrase describing appearance",
+     "morph": "compound+m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects mantra elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśatrupadam",
+     "gloss": "all-enemies-word",
+     "grounds": "next mantra word",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which descriptive and functional words follow in the pāśupata mantra sequence?",
+   "premises": [
+    "The mantra continues after the previous word",
+    "A descriptive phrase is included",
+    "A phrase naming all enemies follows"
+   ],
+   "inference": "Therefore the sequence includes the phrase of great bhairava color and then the word for all enemies.",
+   "uncertainties": [],
+   "plain_english": "And then the phrase 'of the color of the great bhairava', and after that the word 'of all enemies'."
+  },
+  {
+   "verse": 2859,
+   "rows": [
+    {
+     "surface": "cchedanī",
+     "gloss": "cutting",
+     "grounds": "mantra word expressing cutting action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddhare",
+     "gloss": "should-extract",
+     "grounds": "instruction to utter or extract",
+     "morph": "3.sg.optative-middle+ud-hṛ"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhūtadamanyapi",
+     "gloss": "all-beings-subduing-also",
+     "grounds": "compound mantra phrase with enclitic",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "Which cutting and subduing mantra words must be extracted next in order?",
+   "premises": [
+    "The mantra extraction proceeds stepwise",
+    "A word meaning cutting is specified",
+    "A word for subduing all beings follows"
+   ],
+   "inference": "Therefore one should extract the word 'cutting' and afterwards the word for subduing all beings.",
+   "uncertainties": [],
+   "plain_english": "One should extract the word 'cutting', and afterwards also the word that subdues all beings."
+  },
+  {
+   "verse": 2860,
+   "rows": [
+    {
+     "surface": "sarvavighnān",
+     "gloss": "all-obstacles",
+     "grounds": "object addressed in mantra",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "identifies mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chindhichindhi",
+     "gloss": "cut-cut",
+     "grounds": "reduplicated imperative in mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatpadam",
+     "gloss": "which-word",
+     "grounds": "refers to the quoted word",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "Which obstacle-removing command words are included in the mantra sequence?",
+   "premises": [
+    "The mantra addresses obstacles",
+    "A word naming all obstacles is given",
+    "A repeated command to cut is given"
+   ],
+   "inference": "Therefore the mantra includes the word 'all obstacles' and the repeated command 'cut, cut'.",
+   "uncertainties": [],
+   "plain_english": "Then the word 'all obstacles', and the word 'cut, cut'."
+  },
+  {
+   "verse": 2861,
+   "rows": [
+    {
+     "surface": "sarvaduṣyān",
+     "gloss": "all-harmful-ones",
+     "grounds": "object addressed in mantra",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣa",
+     "gloss": "devour",
+     "grounds": "imperative mantra syllable-word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣa",
+     "gloss": "devour",
+     "grounds": "repeated imperative mantra syllable-word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "identifies mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "should-extract",
+     "grounds": "instruction to extract mantra word",
+     "morph": "3.sg.optative-active+ud-hṛ"
+    }
+   ],
+   "question": "Which command against all harmful beings must be extracted in the mantra?",
+   "premises": [
+    "The mantra continues with another target",
+    "All harmful beings are named",
+    "A repeated command to devour is specified"
+   ],
+   "inference": "Therefore one should extract the word 'all harmful ones' and the repeated command 'devour, devour'.",
+   "uncertainties": [],
+   "plain_english": "Then one should extract the word 'all harmful ones' and the word 'devour, devour'."
+  },
+  {
+   "verse": 2862,
+   "rows": [
+    {
+     "surface": "pratyaṅgire",
+     "gloss": "o-pratyaṅgirā",
+     "grounds": "vocative mantra address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "identifies mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "seed syllable in mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namostu",
+     "gloss": "homage-be",
+     "grounds": "salutation phrase in mantra",
+     "morph": "compound+(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative referring to word",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "identifies mantra element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which concluding invocation and salutation complete this part of the mantra?",
+   "premises": [
+    "The mantra sequence continues to its close",
+    "The name pratyaṅgirā is invoked",
+    "A seed syllable and salutation follow"
+   ],
+   "inference": "Therefore the mantra includes the word 'pratyaṅgire', then 'hrīṃ', and then 'homage be'.",
+   "uncertainties": [],
+   "plain_english": "Afterwards the word 'O Pratyaṅgirā', then 'hrīṃ', and then the word 'let there be homage'."
+  },
+  {
+   "verse": 2863,
+   "rows": [
+    {
+     "surface": "praṇavāt",
+     "gloss": "from-praṇava",
+     "grounds": "starting point of syllable count",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saptavarṇam",
+     "gloss": "seven-syllables",
+     "grounds": "count for heart mantra",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "hṛcchiraḥ+pañcadaśākṣaram",
+     "gloss": "heart-head-fifteen-syllables",
+     "grounds": "compound giving counts for heart and head parts",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "How many syllables are assigned to the heart and head portions from the praṇava?",
+   "premises": [
+    "The mantra structure is measured from the praṇava",
+    "The heart portion has a specified syllable count",
+    "The head portion has a specified syllable count"
+   ],
+   "inference": "Therefore from the praṇava the heart portion has seven syllables and the head portion has fifteen syllables.",
+   "uncertainties": [
+    "The exact segmentation of hṛcchiraḥ+pañcadaśākṣaram as applying separately to heart and head follows traditional parsing but is compact in the compound."
+   ],
+   "plain_english": "From the praṇava, the heart portion has seven syllables and the head portion has fifteen syllables."
+  },
+  {
+   "verse": 2864,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "continues the same method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "continues from previous point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "netrāṇu",
+     "gloss": "eyes-mantra",
+     "grounds": "mantra portion for the eyes",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "catustriṃśadbhiḥ+astrakam",
+     "gloss": "with-thirty-four-weapon",
+     "grounds": "compound giving syllable count for weapon portion",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "How many syllables are assigned to the eyes and weapon portions of the mantra?",
+   "premises": [
+    "The syllable assignment continues in the same manner",
+    "The eyes portion is specified",
+    "The weapon portion is specified with thirty-four syllables"
+   ],
+   "inference": "Therefore likewise the eyes portion and the weapon portion with thirty-four syllables are assigned.",
+   "uncertainties": [
+    "The precise division between netrāṇu and the thirty-four-syllable weapon portion is compressed in the text."
+   ],
+   "plain_english": "Likewise, from that point come the eyes portion and the weapon portion with thirty-four syllables."
+  },
+  {
+   "verse": 2865,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "mantra ending for heart",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra ending for head",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṣaṭ",
+     "gloss": "vaṣaṭ",
+     "grounds": "mantra ending for tuft",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṣaṭ",
+     "gloss": "oṣaṭ",
+     "grounds": "mantra ending variant",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hruṃ+phaṭ",
+     "gloss": "hruṃ-phaṭ",
+     "grounds": "mantra endings for armor and weapon",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "joined",
+     "grounds": "indicates attachment to limbs",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hṛdādayaḥ",
+     "gloss": "heart-and-others",
+     "grounds": "refers to heart and other mantra limbs",
+     "morph": "compound+m.nom.pl"
+    }
+   ],
+   "question": "Which ritual endings are joined to the heart and other mantra limbs?",
+   "premises": [
+    "Each mantra limb requires a specific ending",
+    "A series of ritual syllables is listed",
+    "These syllables are joined to heart and other limbs"
+   ],
+   "inference": "Therefore namaḥ, svāhā, vaṣaṭ, oṣaṭ, hruṃ, and phaṭ are joined to the heart and other mantra limbs.",
+   "uncertainties": [
+    "The exact one-to-one mapping of each ending to each limb is implied by convention rather than stated explicitly."
+   ],
+   "plain_english": "Joined with namaḥ, svāhā, vaṣaṭ, oṣaṭ, hruṃ, and phaṭ are the heart and the other mantra limbs."
+  },
+  {
+   "verse": 2866,
+   "rows": [
+    {
+     "surface": "kṛṣṇāñjananibhām",
+     "gloss": "black-collyrium-like",
+     "grounds": "describes the goddess's color",
+     "morph": "compound+f.acc.sg"
+    },
+    {
+     "surface": "vṛttaraktanetratrayānvitām",
+     "gloss": "round-red-three-eyes-endowed",
+     "grounds": "compound describing three round red eyes",
+     "morph": "compound+f.acc.sg"
+    }
+   ],
+   "question": "What color and eye characteristics define the goddess in meditation?",
+   "premises": [
+    "The goddess has a specified complexion",
+    "The goddess has three eyes",
+    "The eyes are described as round and red"
+   ],
+   "inference": "Therefore the goddess is visualized as black like collyrium and endowed with three round red eyes.",
+   "uncertainties": [],
+   "plain_english": "She is like black collyrium and endowed with three round red eyes."
+  },
+  {
+   "verse": 2867,
+   "rows": [
+    {
+     "surface": "vahantīm",
+     "gloss": "bearing",
+     "grounds": "describes what she holds",
+     "morph": "f.acc.sg.present-participle+vah"
+    },
+    {
+     "surface": "vāmahastābhyām",
+     "gloss": "by-left-hands",
+     "grounds": "instrumental indicating left hands",
+     "morph": "compound+m.inst.dual"
+    },
+    {
+     "surface": "muṇḍam",
+     "gloss": "skull",
+     "grounds": "object held in left hands",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śeṣe",
+     "gloss": "in-remaining",
+     "grounds": "locative referring to remaining hands",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pallavam",
+     "gloss": "tender-sprout",
+     "grounds": "object held in remaining hands",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What objects does the goddess hold in her left and remaining hands?",
+   "premises": [
+    "The goddess bears objects in her hands",
+    "Her left hands hold a skull",
+    "Her remaining hands hold a tender sprout"
+   ],
+   "inference": "Therefore she bears a skull in her left hands and a tender sprout in the remaining hands.",
+   "uncertainties": [],
+   "plain_english": "She bears a skull in her left hands and, in the remaining hands, a tender sprout."
+  },
+  {
+   "verse": 2868,
+   "rows": [
+    {
+     "surface": "mauktikābharaṇaiḥ",
+     "gloss": "with-pearl-ornaments",
+     "grounds": "instrumental describing adornment",
+     "morph": "compound+n.inst.pl"
+    },
+    {
+     "surface": "yuktām",
+     "gloss": "endowed",
+     "grounds": "describes her adorned state",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvāvayavabhūṣaṇām",
+     "gloss": "all-limbs-adorned",
+     "grounds": "compound indicating full bodily adornment",
+     "morph": "compound+f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess adorned in the prescribed visualization?",
+   "premises": [
+    "The goddess wears ornaments",
+    "The ornaments include pearls",
+    "All her limbs are adorned"
+   ],
+   "inference": "Therefore the goddess is endowed with pearl ornaments and adorned on all her limbs.",
+   "uncertainties": [],
+   "plain_english": "She is endowed with pearl ornaments and adorned on all her limbs."
+  },
+  {
+   "verse": 2869,
+   "rows": [
+    {
+     "surface": "dhyātvaivaṃ",
+     "gloss": "having-meditated-thus",
+     "grounds": "gerund indicating prior meditation",
+     "morph": "(gerund)+dhyai"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-fragrance-flower-and-others",
+     "grounds": "instrumental listing offerings",
+     "morph": "compound+n.inst.pl"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "injunction to perform worship",
+     "morph": "3.sg.optative-active+arc"
+    },
+    {
+     "surface": "parameśvarīm",
+     "gloss": "supreme-goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What must the officiant do after visualizing the supreme goddess in this form?",
+   "premises": [
+    "The goddess has been visualized as described",
+    "Worship requires offerings",
+    "Fragrance, flowers, and other items are used"
+   ],
+   "inference": "Therefore after meditating thus, one should worship the supreme goddess with fragrance, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on her thus, one should worship the supreme goddess with fragrance, flowers, and other offerings."
+  },
+  {
+   "verse": 2870,
+   "rows": [
+    {
+     "surface": "gandhodakodarān",
+     "gloss": "fragrant-water-filled",
+     "grounds": "describes vessels filled with scented water",
+     "morph": "compound+m.acc.pl"
+    },
+    {
+     "surface": "kūrca",
+     "gloss": "kuśa-brush",
+     "grounds": "ritual item placed in vessels",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "ritual item placed in vessels",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "paṅkajasaṃyutān",
+     "gloss": "lotus-joined",
+     "grounds": "compound indicating lotuses included",
+     "morph": "compound+m.acc.pl"
+    }
+   ],
+   "question": "What prepared vessels and contents must be arranged for the ritual?",
+   "premises": [
+    "Ritual vessels are to be prepared",
+    "The vessels contain fragrant water",
+    "They are joined with kuśa brushes, gold, and lotuses"
+   ],
+   "inference": "Therefore vessels filled with fragrant water and joined with kuśa brushes, gold, and lotuses should be arranged.",
+   "uncertainties": [
+    "The exact grammatical number and agreement of kūrca and hema are taken from the listed forms and ritual context."
+   ],
+   "plain_english": "Prepare vessels filled with fragrant water, joined with kuśa brushes, gold, and lotuses."
+  },
+  {
+   "verse": 2871,
+   "rows": [
+    {
+     "surface": "candanāliptadehāṃs",
+     "gloss": "sandal-anointed-bodies",
+     "grounds": "describes bodies anointed with sandal paste",
+     "morph": "compound+m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "gerund indicating placement",
+     "morph": "(gerund)+vi-ni-as"
+    },
+    {
+     "surface": "karakeṇa",
+     "gloss": "by-hand-vessel",
+     "grounds": "instrument used in placement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the anointed ritual items be placed during the procedure?",
+   "premises": [
+    "Certain items have bodies anointed with sandal paste",
+    "These items must be placed in position",
+    "A hand vessel is used in the placement"
+   ],
+   "inference": "Therefore, having placed the sandal-anointed items with a hand vessel, one proceeds further.",
+   "uncertainties": [],
+   "plain_english": "And having placed those whose bodies are anointed with sandal paste, using a hand vessel."
+  },
+  {
+   "verse": 2872,
+   "rows": [
+    {
+     "surface": "prāguktayā",
+     "gloss": "by-previously-stated",
+     "grounds": "refers to earlier prescribed method",
+     "morph": "compound+f.inst.sg"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indicates surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astrāṇi",
+     "gloss": "weapons",
+     "grounds": "ritual weapons to be placed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyaṅgirām+api",
+     "gloss": "pratyaṅgirā-also",
+     "grounds": "includes pratyaṅgirā in the rite",
+     "morph": "compound+f.acc.sg"
+    }
+   ],
+   "question": "Which powers must be placed around according to the previously stated method?",
+   "premises": [
+    "A method was stated earlier",
+    "Weapons are to be placed around",
+    "Pratyaṅgirā is also included"
+   ],
+   "inference": "Therefore, by the previously stated method, the weapons and also pratyaṅgirā should be placed around.",
+   "uncertainties": [],
+   "plain_english": "Then, by the previously stated method, place the weapons around, and also Pratyaṅgirā."
+  },
+  {
+   "verse": 2873,
+   "rows": [
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svakīyaṃ",
+     "gloss": "own",
+     "grounds": "indicates one's own fire pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃskṛtya",
+     "gloss": "having-consecrated",
+     "grounds": "gerund indicating ritual preparation",
+     "morph": "(gerund)+sam-kṛ"
+    },
+    {
+     "surface": "pāvakaṃ",
+     "gloss": "fire",
+     "grounds": "sacred fire to be prepared",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā+purā",
+     "gloss": "as-before",
+     "grounds": "refers to earlier procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the fire pit and fire be prepared before the offering?",
+   "premises": [
+    "The ritual requires a fire pit and fire",
+    "These must be consecrated",
+    "The preparation follows the earlier procedure"
+   ],
+   "inference": "Therefore one should consecrate one's own fire pit and the fire as before.",
+   "uncertainties": [],
+   "plain_english": "Having consecrated one's own fire pit and the fire as before."
+  },
+  {
+   "verse": 2874,
+   "rows": [
+    {
+     "surface": "tarpayeyuḥ",
+     "gloss": "should-satisfy",
+     "grounds": "injunction to perform oblations",
+     "morph": "3.pl.optative-active+tṛp-causative"
+    },
+    {
+     "surface": "yathānyāyaṃ",
+     "gloss": "according-to-rule",
+     "grounds": "indicates proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrtipā+guruṇā",
+     "gloss": "image-guardian-with-teacher",
+     "grounds": "compound indicating officiants together",
+     "morph": "compound+m.inst.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "indicates accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who must perform the satisfying oblations and according to what standard?",
+   "premises": [
+    "Satisfying oblations are to be performed",
+    "The performance must follow proper rule",
+    "The image guardians act together with the teacher"
+   ],
+   "inference": "Therefore the image guardians together with the teacher should perform the satisfying oblations according to rule.",
+   "uncertainties": [
+    "The compound mūrtipā+guruṇā is read as the image guardians together with the teacher, following the ritual context."
+   ],
+   "plain_english": "They should perform the satisfying oblations according to rule, together with the teacher and the guardians of the images."
+  }
+ ]
+}

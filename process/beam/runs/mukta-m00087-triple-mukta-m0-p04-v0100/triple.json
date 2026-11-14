@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to the divisions just enumerated",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhedāḥ",
+     "gloss": "divisions",
+     "grounds": "plural noun bheda in nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samākhyātāḥ",
+     "gloss": "fully-declared",
+     "grounds": "past participle of sam-ā-khyā, 'fully declared'",
+     "morph": "m.nom.pl.part.pass"
+    },
+    {
+     "surface": "śuddhāḥ",
+     "gloss": "pure",
+     "grounds": "plural adjective modifying the divisions",
+     "morph": "m.nom.pl.adj"
+    },
+    {
+     "surface": "siddhi+pradāyakāḥ",
+     "gloss": "siddhi-bestowing",
+     "grounds": "compound of siddhi and pradāyaka, 'bestowing siddhi'",
+     "morph": "m.nom.pl.comp"
+    }
+   ],
+   "question": "Which enumerated divisions are declared pure and bestowing siddhi?",
+   "premises": [
+    "These divisions are fully declared.",
+    "These divisions are pure.",
+    "These divisions bestow siddhi."
+   ],
+   "inference": "The enumerated divisions are pure and siddhi-bestowing.",
+   "uncertainties": [
+    "The exact referent of 'ete' depends on the preceding context."
+   ],
+   "plain_english": "These divisions are fully declared, pure, and bestowing siddhi."
+  }
+ ]
+}

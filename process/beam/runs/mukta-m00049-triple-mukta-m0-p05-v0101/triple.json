@@ -1,0 +1,1017 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "patiṣyanti",
+     "gloss": "will-fall",
+     "grounds": "future action of falling",
+     "morph": "3.pl.act-fut/√pat"
+    },
+    {
+     "surface": "mariṣyanti",
+     "gloss": "will-die",
+     "grounds": "future action of dying",
+     "morph": "3.pl.act-fut/√mṛ"
+    },
+    {
+     "surface": "manujā",
+     "gloss": "humans",
+     "grounds": "subject of falling and dying",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mada+vihvalāḥ",
+     "gloss": "intoxication-bewildered",
+     "grounds": "describes humans overcome by intoxication",
+     "morph": "compound: mada+vihvala; m.nom.pl"
+    }
+   ],
+   "question": "What fate awaits humans bewildered by intoxication?",
+   "premises": [
+    "Humans can be bewildered by intoxication",
+    "Such humans are subject to decline",
+    "Falling and dying are their outcomes"
+   ],
+   "inference": "Humans bewildered by intoxication will fall and die.",
+   "uncertainties": [],
+   "plain_english": "Humans bewildered by intoxication will fall and will die."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "kecin",
+     "gloss": "some",
+     "grounds": "indefinite group of people",
+     "morph": "m.nom.pl (indecl.-like pronoun)"
+    },
+    {
+     "surface": "maunā",
+     "gloss": "silent",
+     "grounds": "describes some as silent",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mṛta+prāyā",
+     "gloss": "dead-like",
+     "grounds": "describes some as almost dead",
+     "morph": "compound: mṛta+prāya; m.nom.pl"
+    },
+    {
+     "surface": "apare",
+     "gloss": "others",
+     "grounds": "another group of people",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bahu+jalpakāḥ",
+     "gloss": "much-talkative",
+     "grounds": "describes others as excessively talkative",
+     "morph": "compound: bahu+jalpaka; m.nom.pl"
+    }
+   ],
+   "question": "What contrasting behaviors will different people exhibit?",
+   "premises": [
+    "People will differ in conduct",
+    "Some will become silent and inert",
+    "Others will become excessively talkative"
+   ],
+   "inference": "People will divide into silent, death-like individuals and excessively talkative ones.",
+   "uncertainties": [],
+   "plain_english": "Some will be silent and almost like the dead, while others will be very talkative."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "hitāya",
+     "gloss": "for-welfare",
+     "grounds": "purpose of the actions",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "refers to actions",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "deeds declared for welfare",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kathitāni",
+     "gloss": "told",
+     "grounds": "actions that were declared",
+     "morph": "n.nom.pl past-passive-participle/√kath"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "speaker who declared them",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Who declared the actions intended for human welfare?",
+   "premises": [
+    "Certain actions were declared for welfare",
+    "These actions were spoken by the lord",
+    "The address acknowledges the lord as speaker"
+   ],
+   "inference": "The lord declared actions intended for welfare.",
+   "uncertainties": [],
+   "plain_english": "O Lord, which actions were told by you for the welfare of beings?"
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "ke",
+     "gloss": "who",
+     "grounds": "asks about practitioners",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "practice in question",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kariṣyanti",
+     "gloss": "will-do",
+     "grounds": "future performance of yoga",
+     "morph": "3.pl.act-fut/√kṛ"
+    },
+    {
+     "surface": "nyāsa+jātāni",
+     "gloss": "renunciation-born",
+     "grounds": "acts or practices arising from renunciation",
+     "morph": "compound: nyāsa+jāta; n.acc.pl"
+    },
+    {
+     "surface": "ke",
+     "gloss": "who",
+     "grounds": "asks again about practitioners",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who will practice yoga or acts born of renunciation?",
+   "premises": [
+    "Yoga requires dedicated practice",
+    "Renunciation-born acts require commitment",
+    "Few may be willing to undertake them"
+   ],
+   "inference": "It is doubtful who will practice yoga or renunciation-born acts.",
+   "uncertainties": [
+    "nyāsa+jātāni may refer to practices or rites arising from nyāsa"
+   ],
+   "plain_english": "Who will practice yoga, or who will perform the acts born of renunciation?"
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "bhaviṣyanti",
+     "gloss": "will-be",
+     "grounds": "future state of people",
+     "morph": "3.pl.act-fut/√bhū"
+    },
+    {
+     "surface": "ati+durvṛttāḥ",
+     "gloss": "very-ill-behaved",
+     "grounds": "describes extreme misconduct",
+     "morph": "compound: ati+durvṛtta; m.nom.pl"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "totality of misconduct",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpa+kāriṇaḥ",
+     "gloss": "sin-doing",
+     "grounds": "describes people as committing sin",
+     "morph": "compound: pāpa+kārin; m.nom.pl"
+    }
+   ],
+   "question": "What moral condition will people widely fall into?",
+   "premises": [
+    "People will become very ill-behaved",
+    "Their misconduct will be comprehensive",
+    "They will engage in sinful actions"
+   ],
+   "inference": "People will become thoroughly ill-behaved and sinful.",
+   "uncertainties": [],
+   "plain_english": "They will be extremely ill-behaved in every way and will do sinful deeds."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "āyur+ārogya+varcasyaṃ",
+     "gloss": "life-health-splendor-giving",
+     "grounds": "describes something promoting life, health, and splendor",
+     "morph": "compound: āyus+ārogya+varcasya; n.acc.sg"
+    },
+    {
+     "surface": "bala+vīrya+vibarddhanam",
+     "gloss": "strength-vigor-increasing",
+     "grounds": "describes something increasing strength and vigor",
+     "morph": "compound: bala+vīrya+vibarddhana; n.acc.sg"
+    }
+   ],
+   "question": "What qualities should a beneficial teaching promote in people?",
+   "premises": [
+    "A beneficial teaching should support life and health",
+    "It should enhance splendor and vigor",
+    "It should increase strength"
+   ],
+   "inference": "The sought teaching should promote longevity, health, splendor, strength, and vigor.",
+   "uncertainties": [],
+   "plain_english": "Tell of that which gives life, health, and splendor, and increases strength and vigor."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental means leading to result",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "lokā",
+     "gloss": "people",
+     "grounds": "those who will benefit",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhaviṣyanti",
+     "gloss": "will-be",
+     "grounds": "future result",
+     "morph": "3.pl.act-fut/√bhū"
+    },
+    {
+     "surface": "mahā+bala+parākramāḥ",
+     "gloss": "great-strength-prowess",
+     "grounds": "describes people with great strength and prowess",
+     "morph": "compound: mahā+bala+parākrama; m.nom.pl"
+    }
+   ],
+   "question": "What result should the sought means produce in people?",
+   "premises": [
+    "A means is sought for worldly benefit",
+    "That means should empower people",
+    "Empowerment includes strength and prowess"
+   ],
+   "inference": "The sought means should make people possess great strength and prowess.",
+   "uncertainties": [],
+   "plain_english": "By which people will become endowed with great strength and prowess."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "sva+dāra+niṣṭhāḥ",
+     "gloss": "own-wife-devoted",
+     "grounds": "describes fidelity to one's own wife",
+     "morph": "compound: sva+dāra+niṣṭha; m.nom.pl"
+    },
+    {
+     "surface": "puruṣāḥ",
+     "gloss": "men",
+     "grounds": "subjects of the conduct",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "para+strīṣu",
+     "gloss": "other-women",
+     "grounds": "women other than one's own wife",
+     "morph": "compound: para+strī; f.loc.pl"
+    },
+    {
+     "surface": "parāṅmukhāḥ",
+     "gloss": "turned-away",
+     "grounds": "describes aversion to other women",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What marital conduct is desired for men in society?",
+   "premises": [
+    "Social welfare requires proper conduct",
+    "Men should be devoted to their own wives",
+    "Men should turn away from other women"
+   ],
+   "inference": "Men should be faithful to their own wives and avoid other women.",
+   "uncertainties": [],
+   "plain_english": "Men should be devoted to their own wives and turned away from other women."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "devatā+guru+bhaktāḥ",
+     "gloss": "deity-guru-devoted",
+     "grounds": "describes devotion to deities and gurus",
+     "morph": "compound: devatā+guru+bhakta; m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects qualities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putra+sva+jana+poṣakāḥ",
+     "gloss": "son-kin-nourishing",
+     "grounds": "describes those who support children and kin",
+     "morph": "compound: putra+sva+jana+poṣaka; m.nom.pl"
+    }
+   ],
+   "question": "What devotional and familial duties should people uphold?",
+   "premises": [
+    "Proper conduct includes devotion to deities and gurus",
+    "Proper conduct includes caring for family",
+    "Both duties support social welfare"
+   ],
+   "inference": "People should be devoted to deities and gurus and should support their children and kin.",
+   "uncertainties": [],
+   "plain_english": "And they should be devoted to the deities and the guru, and should nourish their sons and their own people."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "siddhyarthaṃ",
+     "gloss": "for-accomplishment",
+     "grounds": "purpose of success",
+     "morph": "compound: siddhi+artha; n.acc.sg (indecl.-like)"
+    },
+    {
+     "surface": "loka+yātrāyāḥ",
+     "gloss": "of-worldly-conduct",
+     "grounds": "maintenance of worldly life",
+     "morph": "compound: loka+yātrā; f.gen.sg"
+    },
+    {
+     "surface": "kathayasva",
+     "gloss": "tell",
+     "grounds": "request to speak",
+     "morph": "2.sg.mid-imperative/√kath"
+    },
+    {
+     "surface": "hitāya",
+     "gloss": "for-welfare",
+     "grounds": "purpose of benefit",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "refers to the beneficial means",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What teaching is requested for worldly success and welfare?",
+   "premises": [
+    "Worldly conduct requires guidance",
+    "Accomplishment and welfare are desired goals",
+    "The lord is asked to tell the means"
+   ],
+   "inference": "A teaching is requested that brings accomplishment in worldly conduct and welfare.",
+   "uncertainties": [],
+   "plain_english": "Tell what is for the accomplishment of worldly conduct and for welfare."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion of another protector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "the addressed lord",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sarva+lokānāṃ",
+     "gloss": "of-all-people",
+     "grounds": "all beings in need of protection",
+     "morph": "compound: sarva+loka; m.gen.pl"
+    },
+    {
+     "surface": "kas",
+     "gloss": "who",
+     "grounds": "rhetorical question about protector",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trātā",
+     "gloss": "protector",
+     "grounds": "one who saves",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvana+traye",
+     "gloss": "in-three-worlds",
+     "grounds": "scope of protection",
+     "morph": "compound: bhuvana+traya; n.loc.sg"
+    }
+   ],
+   "question": "Who besides the lord can protect all beings in the three worlds?",
+   "premises": [
+    "All people in the three worlds need protection",
+    "The lord is addressed as the potential protector",
+    "No other protector is implied"
+   ],
+   "inference": "There is no protector of all beings in the three worlds other than the lord.",
+   "uncertainties": [],
+   "plain_english": "Without you, who is the protector of all people in the three worlds?"
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "jīva+nistāra+upāya+praśnaḥ",
+     "gloss": "life-deliverance-means-question",
+     "grounds": "title of the question about means of deliverance",
+     "morph": "compound: jīva+nistāra+upāya+praśna; m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indicates naming",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathama+ullāsaḥ",
+     "gloss": "first-chapter",
+     "grounds": "title of the first chapter",
+     "morph": "compound: prathama+ullāsa; m.nom.sg"
+    }
+   ],
+   "question": "What is the title of the first chapter concerning deliverance?",
+   "premises": [
+    "The text names a question about deliverance",
+    "This question belongs to the first chapter",
+    "The chapter is formally titled"
+   ],
+   "inference": "The first chapter is named the question on the means of deliverance for beings.",
+   "uncertainties": [],
+   "plain_english": "This is the first chapter, named the question on the means of deliverance for living beings."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "ārogyāya",
+     "gloss": "for-health",
+     "grounds": "purpose of health",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "varcase",
+     "gloss": "for-splendor",
+     "grounds": "purpose of splendor",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "tejase",
+     "gloss": "for-brilliance",
+     "grounds": "purpose of brilliance",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects purposes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "beneficial",
+     "grounds": "describes what is beneficial",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What benefits should the teaching provide for human well-being?",
+   "premises": [
+    "Health is a desired benefit",
+    "Splendor and brilliance are desired benefits",
+    "The teaching should be beneficial"
+   ],
+   "inference": "The teaching should be beneficial for health, splendor, and brilliance.",
+   "uncertainties": [],
+   "plain_english": "It is beneficial for health, for splendor, and for brilliance."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "prajñāvantaḥ",
+     "gloss": "wise",
+     "grounds": "describes those with wisdom",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "loka+yātrāyāḥ",
+     "gloss": "of-worldly-conduct",
+     "grounds": "concerns worldly conduct",
+     "morph": "compound: loka+yātrā; f.gen.sg"
+    },
+    {
+     "surface": "loka+nirvāhasya",
+     "gloss": "of-world-maintenance",
+     "grounds": "concerns maintenance of the world",
+     "morph": "compound: loka+nirvāha; m.gen.sg"
+    }
+   ],
+   "question": "Who is concerned with worldly conduct and its maintenance?",
+   "premises": [
+    "Worldly conduct requires guidance",
+    "Maintenance of the world requires wisdom",
+    "Wise people are suited for this concern"
+   ],
+   "inference": "The wise are concerned with worldly conduct and the maintenance of the world.",
+   "uncertainties": [],
+   "plain_english": "The wise are concerned with worldly conduct and the maintenance of the world."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "kathayāmāsa",
+     "gloss": "told",
+     "grounds": "act of explaining",
+     "morph": "3.sg.act-perfect/√kath"
+    },
+    {
+     "surface": "tattvena",
+     "gloss": "in-truth",
+     "grounds": "manner of truthful explanation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mahā+kāruṇya+vāridhiḥ",
+     "gloss": "great-compassion-ocean",
+     "grounds": "epithet of the compassionate speaker",
+     "morph": "compound: mahā+kāruṇya+vāridhi; m.nom.sg"
+    }
+   ],
+   "question": "How did the compassionate lord respond to the request?",
+   "premises": [
+    "A request for guidance was made",
+    "The speaker is an ocean of great compassion",
+    "The response was given truthfully"
+   ],
+   "inference": "The ocean of great compassion explained the matter truthfully.",
+   "uncertainties": [],
+   "plain_english": "The ocean of great compassion explained it in truth."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "etādṛśaḥ",
+     "gloss": "such",
+     "grounds": "describes the nature of the question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śubhaḥ",
+     "gloss": "auspicious",
+     "grounds": "praises the question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praśnaḥ",
+     "gloss": "question",
+     "grounds": "the inquiry made",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kenāpi",
+     "gloss": "by-anyone",
+     "grounds": "no one at all",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "made",
+     "grounds": "act of asking",
+     "morph": "m.nom.sg past-passive-participle/√kṛ"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "in earlier times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How unprecedented was the auspicious question asked?",
+   "premises": [
+    "The question is described as auspicious",
+    "No one had asked such a question before",
+    "Its uniqueness is emphasized"
+   ],
+   "inference": "Such an auspicious question had never been asked by anyone before.",
+   "uncertainties": [],
+   "plain_english": "Such an auspicious question has never been asked by anyone before."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "yadyad",
+     "gloss": "whatever",
+     "grounds": "refers to all that was said",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "what was spoken",
+     "morph": "n.nom.sg past-passive-participle/√vac"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "speaker of the words",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fair-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "true",
+     "grounds": "affirms truth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "true",
+     "grounds": "repeated affirmation of truth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathārthataḥ",
+     "gloss": "as-it-is",
+     "grounds": "in accordance with reality",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How truthful is the statement made by the fair one?",
+   "premises": [
+    "The fair one has spoken",
+    "Her words are affirmed as true",
+    "The affirmation is repeated and grounded in reality"
+   ],
+   "inference": "Whatever the fair one said is true, truly as it is.",
+   "uncertainties": [],
+   "plain_english": "O fair one, whatever you have said is true, true indeed, exactly as it is."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "bhūtaṃ",
+     "gloss": "past",
+     "grounds": "what has been",
+     "morph": "n.nom.sg past-passive-participle/√bhū"
+    },
+    {
+     "surface": "bhavat",
+     "gloss": "present",
+     "grounds": "what is",
+     "morph": "n.nom.sg present-participle/√bhū"
+    },
+    {
+     "surface": "bhaviṣyañ",
+     "gloss": "future",
+     "grounds": "what will be",
+     "morph": "n.nom.sg future-participle/√bhū"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharma+yuktaṃ",
+     "gloss": "dharma-endowed",
+     "grounds": "aligned with dharma",
+     "morph": "compound: dharma+yukta; n.nom.sg"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "speaker of the statement",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What scope of time and dharma characterizes the beloved's statement?",
+   "premises": [
+    "The statement concerns past, present, and future",
+    "The statement is endowed with dharma",
+    "The beloved is affirmed as its speaker"
+   ],
+   "inference": "The beloved has spoken in a way that encompasses past, present, and future and is aligned with dharma.",
+   "uncertainties": [],
+   "plain_english": "O beloved, what you have said concerns the past, present, and future, and is endowed with dharma."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "mahā+kāruṇya+vāridhiḥ",
+     "gloss": "great-compassion-ocean",
+     "grounds": "epithet of boundless compassion",
+     "morph": "compound: mahā+kāruṇya+vāridhi; m.nom.sg"
+    },
+    {
+     "surface": "mahā+dayā+samudraḥ",
+     "gloss": "great-mercy-ocean",
+     "grounds": "epithet of boundless mercy",
+     "morph": "compound: mahā+dayā+samudra; m.nom.sg"
+    }
+   ],
+   "question": "What compassionate qualities define the responding lord?",
+   "premises": [
+    "The lord is described as an ocean of great compassion",
+    "The lord is described as an ocean of great mercy",
+    "Both epithets emphasize boundless kindness"
+   ],
+   "inference": "The lord is characterized by boundless compassion and mercy.",
+   "uncertainties": [],
+   "plain_english": "He is an ocean of great compassion and an ocean of great mercy."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "sarvajña+ityādi",
+     "gloss": "omniscient-etc",
+     "grounds": "indicates omniscience and similar qualities",
+     "morph": "compound: sarvajña+ityādi; n.nom.sg"
+    },
+    {
+     "surface": "bhavat",
+     "gloss": "present",
+     "grounds": "what is present or existing",
+     "morph": "n.nom.sg present-participle/√bhū"
+    },
+    {
+     "surface": "vartamānam",
+     "gloss": "current",
+     "grounds": "what is currently manifest",
+     "morph": "n.nom.sg present-participle/√vṛt"
+    }
+   ],
+   "question": "What present qualities are attributed to the lord?",
+   "premises": [
+    "The lord is associated with omniscience and related qualities",
+    "These qualities are described as present",
+    "They are currently manifest"
+   ],
+   "inference": "Qualities such as omniscience are presently manifest in the lord.",
+   "uncertainties": [
+    "sarvajña+ityādi is elliptical and may imply a fuller list of attributes"
+   ],
+   "plain_english": "Omniscience and such qualities are present and current in him."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "kali+kalmaṣa+dīnānāṃ",
+     "gloss": "kali-impurity-afflicted",
+     "grounds": "describes those afflicted by the impurities of the kali age",
+     "morph": "compound: kali+kalmaṣa+dīna; m.gen.pl"
+    },
+    {
+     "surface": "dvija+ādīnāṃ",
+     "gloss": "of-twice-born-etc",
+     "grounds": "refers to twice-born and others",
+     "morph": "compound: dvija+ādi; m.gen.pl"
+    },
+    {
+     "surface": "sura+īśvari",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound: sura+īśvarī; f.voc.sg"
+    }
+   ],
+   "question": "Who are the afflicted beings addressed in the kali age?",
+   "premises": [
+    "The kali age brings impurity and affliction",
+    "Twice-born and others are affected",
+    "The goddess is addressed regarding them"
+   ],
+   "inference": "The twice-born and others afflicted by the impurities of the kali age are the concern.",
+   "uncertainties": [],
+   "plain_english": "O goddess of the gods, for the twice-born and others afflicted by the impurities of the kali age..."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhitā+ādyaiḥ",
+     "gloss": "by-saṃhitās-etc",
+     "grounds": "by saṃhitās and similar texts",
+     "morph": "compound: saṃhitā+ādi; f.ins.pl"
+    },
+    {
+     "surface": "smṛtibhiḥ",
+     "gloss": "by-smṛtis",
+     "grounds": "by traditional law texts",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "iṣṭa+siddhiḥ",
+     "gloss": "desired-accomplishment",
+     "grounds": "attainment of desired ends",
+     "morph": "compound: iṣṭa+siddhi; f.nom.sg"
+    },
+    {
+     "surface": "nṛṇāṃ",
+     "gloss": "of-men",
+     "grounds": "for human beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "will-be",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.act-optative/√bhū"
+    }
+   ],
+   "question": "Can saṃhitās and smṛtis grant desired accomplishment in the kali age?",
+   "premises": [
+    "People seek desired accomplishment",
+    "Saṃhitās and smṛtis are traditional authorities",
+    "Their efficacy is questioned for this age"
+   ],
+   "inference": "Desired accomplishment for people will not arise through saṃhitās and smṛtis.",
+   "uncertainties": [],
+   "plain_english": "For people, the desired accomplishment will not come about through the saṃhitās and the smṛtis."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion of other paths",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgama+mārgeṇa",
+     "gloss": "āgama-path",
+     "grounds": "the path taught by āgama",
+     "morph": "compound: āgama+mārga; m.ins.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "in the kali age",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "denies existence",
+     "morph": "3.sg.act-pres/√as"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "goal",
+     "grounds": "the ultimate way or refuge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What path alone provides the goal in the kali age?",
+   "premises": [
+    "The kali age limits effective paths",
+    "The āgama path is distinguished",
+    "No other goal or refuge is available without it"
+   ],
+   "inference": "In the kali age there is no goal without the path of the āgama.",
+   "uncertainties": [],
+   "plain_english": "Indeed, O beloved, in the kali age there is no goal without the path of the āgama."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "āgama+ukta+vidhānena",
+     "gloss": "āgama-declared-method",
+     "grounds": "method prescribed by the āgama",
+     "morph": "compound: āgama+ukta+vidhāna; n.ins.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "in the kali age",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "deities to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescribed worship",
+     "morph": "3.sg.act-optative/√yaj"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "the discerning practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise worship the gods in the kali age?",
+   "premises": [
+    "The kali age requires a specific method",
+    "The āgama declares the proper method",
+    "The wise should follow that method in worship"
+   ],
+   "inference": "In the kali age the wise should worship the gods according to the method declared by the āgama.",
+   "uncertainties": [],
+   "plain_english": "In the kali age, the wise one should worship the gods according to the method declared by the āgama."
+  }
+ ]
+}

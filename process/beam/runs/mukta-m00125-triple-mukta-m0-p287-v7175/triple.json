@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p287",
+ "items": [
+  {
+   "verse": 7175,
+   "rows": [
+    {
+     "surface": "nīrandhraṃ",
+     "gloss": "without-gaps",
+     "grounds": "describes the state to be achieved; gapless or without openings",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "māṣa",
+     "gloss": "bean",
+     "grounds": "first member of a measure expression with kalpena",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kalpena",
+     "gloss": "by-measure",
+     "grounds": "specifies the standard of measure as a māṣa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action before filling",
+     "morph": "abs(√kṛ)"
+    },
+    {
+     "surface": "gavyena",
+     "gloss": "with-cow-product",
+     "grounds": "instrumental substance used for filling",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "should-fill",
+     "grounds": "prescriptive action completing the procedure",
+     "morph": "3.sg.opt.act(√pṛ)"
+    }
+   ],
+   "question": "How must the prepared ritual space be sealed and filled according to the prescribed measure and substance?",
+   "premises": [
+    "The prepared space must be made without gaps.",
+    "The sealing is done to the measure of a māṣa.",
+    "The filling must be performed with a cow-product."
+   ],
+   "inference": "The ritual space is to be made gapless to a māṣa measure and then filled with a cow-product.",
+   "uncertainties": [
+    "The exact referent of the object made gapless is implied from the preceding verse."
+   ],
+   "plain_english": "Having made it gapless to the measure of a māṣa, one should fill it with a cow product."
+  }
+ ]
+}

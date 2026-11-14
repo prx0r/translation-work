@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "śava+rūpa+mahā+deva+hṛdaya+upari",
+     "gloss": "corpse-form-great-god-heart-upon",
+     "grounds": "compound: śava-rūpa-mahā-deva (corpse-form great god) + hṛdaya-upari (upon the heart); locative/postpositional sense",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃsthitām",
+     "gloss": "standing",
+     "grounds": "past participle of sam-sthā, agreeing with the described goddess",
+     "morph": "f.acc.sg.past-participle (sam-√sthā)"
+    }
+   ],
+   "question": "Upon whose heart is the fierce goddess established?",
+   "premises": [
+    "The goddess is described as established in position.",
+    "Her position is located upon a heart.",
+    "That heart belongs to the great god in corpse-form."
+   ],
+   "inference": "The fierce goddess stands upon the heart of the great god appearing in corpse-form.",
+   "uncertainties": [
+    "The specific identity of the corpse-form great god is not explicitly named in this verse."
+   ],
+   "plain_english": "She stands upon the heart of the great god in the form of a corpse."
+  }
+ ]
+}

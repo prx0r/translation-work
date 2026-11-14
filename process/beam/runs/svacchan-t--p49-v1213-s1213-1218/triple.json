@@ -1,0 +1,230 @@
+{
+ "song": "sva-p49",
+ "items": [
+  {
+   "verse": 1213,
+   "rows": [
+    {
+     "surface": "laukikam",
+     "gloss": "worldly",
+     "grounds": "worldly adjective in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vārtādaṇḍanītyādi",
+     "gloss": "livelihood-punishment-policy-etc",
+     "grounds": "compound noun in nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What worldly topics are listed here?",
+   "premises": [
+    "worldly topics are named",
+    "livelihood punishment and policy are included"
+   ],
+   "inference": "the verse names worldly subject matter",
+   "uncertainties": [
+    "exact syntactic role of the compound"
+   ],
+   "plain_english": "Worldly matters such as livelihood, punishment, and policy are named."
+  },
+  {
+   "verse": 1214,
+   "rows": [
+    {
+     "surface": "pātañjalādau",
+     "gloss": "in-patanjali-etc",
+     "grounds": "locative singular of patanjali and others",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vibhūtipāde",
+     "gloss": "in-vibhuti-section",
+     "grounds": "locative singular compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aiśvaryasya",
+     "gloss": "of-power",
+     "grounds": "genitive singular of power",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktatvāt",
+     "gloss": "because-stated",
+     "grounds": "ablative singular of statedness",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is power mentioned in this context?",
+   "premises": [
+    "power is stated in patanjali contexts",
+    "the vibhuti section is referenced",
+    "statedness is the reason"
+   ],
+   "inference": "power is included because it has been stated",
+   "uncertainties": [
+    "scope of patanjali-etc"
+   ],
+   "plain_english": "Power is also mentioned because it is stated in the Patanjali and related vibhuti contexts."
+  },
+  {
+   "verse": 1215,
+   "rows": [
+    {
+     "surface": "paśulokam",
+     "gloss": "animal-world",
+     "grounds": "accusative singular compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atītam",
+     "gloss": "transcended",
+     "grounds": "past participle adjective in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund of root kri",
+     "morph": "gerund root kri"
+    }
+   ],
+   "question": "What is done with the animal world?",
+   "premises": [
+    "the animal world is transcended",
+    "this is presented as a completed act"
+   ],
+   "inference": "the animal world is treated as transcended",
+   "uncertainties": [
+    "exact object of krtva"
+   ],
+   "plain_english": "Having transcended the animal world, this is stated as accomplished."
+  },
+  {
+   "verse": 1216,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokāḥ",
+     "gloss": "worlds",
+     "grounds": "nominative plural noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ucyante",
+     "gloss": "are-called",
+     "grounds": "passive present third plural of root vac",
+     "morph": "3.pl.pass-pres root vac"
+    },
+    {
+     "surface": "tadatītāḥ",
+     "gloss": "those-transcended",
+     "grounds": "nominative plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "atimārgasthāḥ",
+     "gloss": "beyond-path-dwellers",
+     "grounds": "nominative plural compound adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are all worlds here described?",
+   "premises": [
+    "all worlds are named here",
+    "they are called transcended",
+    "they are beyond-path dwellers"
+   ],
+   "inference": "all worlds are described as transcended and beyond-path",
+   "uncertainties": [
+    "exact referent of those-transcended"
+   ],
+   "plain_english": "All worlds here are called transcended, beyond-path dwellers."
+  },
+  {
+   "verse": 1217,
+   "rows": [
+    {
+     "surface": "śivajñānam",
+     "gloss": "shiva-knowledge",
+     "grounds": "nominative singular compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains after this statement?",
+   "premises": [
+    "shiva-knowledge is named",
+    "the remainder is stated"
+   ],
+   "inference": "the remainder is shiva-knowledge",
+   "uncertainties": [
+    "ellipsis of the full statement"
+   ],
+   "plain_english": "The remainder is Shiva-knowledge."
+  },
+  {
+   "verse": 1218,
+   "rows": [
+    {
+     "surface": "satatāvabhāsvarasarvābhāsakasvatantracidekarūpam",
+     "gloss": "ever-radiant-all-illuminating-independent-consciousness-one-form",
+     "grounds": "long compound adjective in accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What single form is described here?",
+   "premises": [
+    "it is ever radiant",
+    "it illuminates all",
+    "it is independent consciousness one form"
+   ],
+   "inference": "the described form is ever-radiant all-illuminating independent consciousness",
+   "uncertainties": [
+    "exact syntactic head of the compound"
+   ],
+   "plain_english": "It is the ever-radiant, all-illuminating, independent consciousness in one form."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "song": "kul-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriyāṇāṃ",
+     "gloss": "of-senses",
+     "grounds": "genitive plural of indriya",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "dahyante",
+     "gloss": "are-burned",
+     "grounds": "passive present of dah",
+     "morph": "3.pl.pass-pres + dah"
+    },
+    {
+     "surface": "doṣāḥ",
+     "gloss": "faults",
+     "grounds": "nominative plural of doṣa",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "prāṇasya",
+     "gloss": "of-prāṇa",
+     "grounds": "genitive singular of prāṇa",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "saṃyamāt",
+     "gloss": "by-control",
+     "grounds": "ablative singular of saṃyama",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How are the faults of the senses burned?",
+   "premises": [
+    "Control of prāṇa burns faults.",
+    "Senses' faults are burned."
+   ],
+   "inference": "Prāṇa control burns sensory faults.",
+   "uncertainties": [
+    "Verse context beyond supplied lines is not available."
+   ],
+   "plain_english": "Thus the faults of the senses are burned by control of prāṇa."
+  }
+ ]
+}

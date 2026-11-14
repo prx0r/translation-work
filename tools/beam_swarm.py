@@ -33,13 +33,17 @@ def _brief_text(work: str, ahn: str = '') -> str:
     if ahn:
         cands.append(STATE / 'lore' / f'tal-a{ahn}.md')
     cands.append(STATE / 'lore' / f'{work}.md')
+    brief = ''
     for p in cands:
         try:
             if p.exists():
-                return p.read_text()
+                brief = p.read_text()
+                break
         except OSError:
             continue
-    return ''
+    # ONE lore file per work: brief + knowledge core are merged into
+    # process/beam/lore/<work>.md (owner 2026-11-11). No second lookup.
+    return brief
 
 _AVAGRAHA = {'\u02bc', '\u2019', "'", '`', '\u02bd'}
 
@@ -48,6 +52,9 @@ def norm_surface(s: str) -> str:
     """Compare token surfaces modulo avagraha representation + whitespace.
     GRETIL/transcription uses ASCII ', beam often emits U+02BC or omits it;
     the linguistic content is identical. Compare normalized, store verbatim."""
+    # split-marker '+' is OUR pada-split notation, never part of the surface:
+    # both sides compare without it (fixes surface-drift on compounds).
+    s = s.replace('+', '').replace(' ', '')
     return ''.join('\u02bc' if c in _AVAGRAHA else c for c in s).strip()
 
 try:
@@ -199,6 +206,20 @@ STALE_CLAIM_SECS = 15 * 60  # a claim older than this is dead; steal it
 def claimable(t: dict) -> bool:
     if t['attempts'] >= t['max_attempts']:
         return False
+    # STRUCTURAL GUARD (owner 2026-11-11): beam may never work on
+    # (a) a work whose directory is gone, or (b) a song already assembled
+    # into data/. This is the ONE choke point every worker passes through,
+    # so no seeder/recycler/legacy task can bypass it.
+    args = t.get('args') or {}
+    w, song = args.get('work'), args.get('song')
+    if w:
+        wdir = ROOT / w
+        if not wdir.is_dir():
+            return False
+        if song and (wdir / 'data' / f'{song}.t1.json').exists():
+            return False
+    if t.get('status') == 'pending':
+        return True
     if t['status'] == 'pending':
         return True
     if t['status'] == 'claimed':
@@ -561,7 +582,10 @@ class TalTriple(BaseModel):
 
 TAL_TRIPLE_SYS = ('You process Tantraloka verses for a translation pipeline in ONE pass. '
   'For each verse return: rows (one per token, in order: gloss + morphology + grounds), '
-  'question (the verse\'s own question, >=5 words, never "what does verse N state"), '
+  'question (the DOCTRINAL question the verse answers — >=8 words, must name the '
+  'claim at stake; NEVER open with or contain: "does verse", "this verse", '
+  '"the verse", "what does verse", "is being told"; a reader must be able to '
+  'answer it only by understanding THIS verse), '
   'premises (terse logical statements, >=3 words each), inference, uncertainties, '
   'plain_english (readable translation, no metacommentary). Output ONLY JSON.\n'
   'SURFACE FIDELITY (hard gate — mismatches are rejected wholesale): copy every '
@@ -576,6 +600,35 @@ TAL_TRIPLE_SYS = ('You process Tantraloka verses for a translation pipeline in O
   'Morph: case.number.gender (m.nom.sg), verb person.number.voice-tense/mood + root, '
   '(indecl.), compound = member+membership. Analyze the FUSED form as given; note '
   'internal sandhi in grounds, do not split the row.')
+
+
+def _split_merged(t: dict, verses: list, song: str, why: str):
+    """Halve a triple group with UNIQUE child ids, then MERGE children's
+    triple.jsons into the parent's (fixes last-wins overwrite where a
+    partial child clobbered the full result)."""
+    mid = len(verses) // 2
+    kids, outs = [], []
+    for part in (verses[:mid], verses[mid:]):
+        kid = dict(t, args=dict(t["args"], verses=part),
+                   id=f"{t['id']}-s{part[0]}-{part[-1]}")
+        ok, msg = run_tal_triple(kid)
+        kids.append(kid)
+        outs.append((ok, msg))
+    if not all(o[0] for o in outs):
+        return False, why + ' ' + '; '.join(o[1] for o in outs)
+    items = []
+    for kid in kids:
+        kd = json.loads((ROOT / "process" / "beam" / "runs" / kid["id"] /
+                         "triple.json").read_text())
+        items.extend(kd["items"])
+    items.sort(key=lambda x: x["verse"])
+    outd = ROOT / "process" / "beam" / "runs" / t["id"]
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / "triple.json").write_text(
+        json.dumps({"song": song, "items": items}, indent=1,
+                   ensure_ascii=False))
+    return True, (why + f' merged {len(items)}/{len(verses)} verses; ' +
+                  '; '.join(o[1] for o in outs))
 
 
 def run_tal_triple(t: dict) -> tuple[bool, str]:
@@ -619,20 +672,13 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
     a, b = text.find('{'), text.rfind('}')
     if a < 0 or b < a:
         if len(verses) > 1:  # likely hit the output ceiling: halve the group
-            mid = len(verses) // 2
-            outs = [run_tal_triple(dict(t, args=dict(t['args'], verses=verses[:mid]))),
-                    run_tal_triple(dict(t, args=dict(t['args'], verses=verses[mid:])))]
-            ok = all(o[0] for o in outs)
-            return ok, 'split ' + '; '.join(o[1] for o in outs)
+            return _split_merged(t, verses, song, 'split')
         return False, 'no JSON: ' + text[:200]
     try:
         d = TalTriple.model_validate_json(text[a:b + 1])
     except ValidationError as ex:
         if len(verses) > 1:
-            mid = len(verses) // 2
-            outs = [run_tal_triple(dict(t, args=dict(t['args'], verses=verses[:mid]))),
-                    run_tal_triple(dict(t, args=dict(t['args'], verses=verses[mid:])))]
-            return all(o[0] for o in outs), 'split after schema fail'
+            return _split_merged(t, verses, song, 'split after schema fail')
         return False, f'schema fail: {ex.errors()[:2]}'
     if len(d.items) != len(verses):
         return False, f'items {len(d.items)} != verses {len(verses)}'
@@ -831,6 +877,18 @@ def run_tal_brief(t: dict) -> tuple[bool, str]:
 
 def worker_loop(name: str) -> int:
     os.environ['BEAM_WORKER'] = name
+    # SLOT LOCK (2026-11-13): only ONE worker process per w-slot. Multiple
+    # supervisors (harness + continue + watchdog) can race to start the same
+    # slot; a duplicate double-claims tasks. Hold an exclusive non-blocking
+    # lock for the process lifetime; exit quietly if the slot is taken.
+    import fcntl as _fcntl
+    STATE.mkdir(parents=True, exist_ok=True)
+    _lf = open(STATE / f'worker-{name}.lock', 'w')
+    try:
+        _fcntl.flock(_lf, _fcntl.LOCK_EX | _fcntl.LOCK_NB)
+    except OSError:
+        print(f'[{name}] slot already locked — duplicate worker exiting')
+        return 0
     from beam_client import chat  # noqa: F401  (fail fast if key missing)
     import beam_client as _b
     import threading as _th

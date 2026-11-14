@@ -1,0 +1,101 @@
+{
+ "song": "kul-p01",
+ "items": [
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānuṣyaṃ",
+     "gloss": "humanity",
+     "grounds": "human state or condition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition/absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvajñānaṃ",
+     "gloss": "truth-knowledge",
+     "grounds": "compound of truth and knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "passive of labh",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Where is truth-knowledge obtained without humanity?",
+   "premises": [
+    "truth-knowledge is not obtained without humanity",
+    "humanity is the necessary condition"
+   ],
+   "inference": "human embodiment is required for truth-knowledge",
+   "uncertainties": [
+    "exact scope of mānuṣyaṃ"
+   ],
+   "plain_english": "Truth-knowledge is not obtained without humanity."
+  },
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "yāvattiṣṭhati",
+     "gloss": "as-long-as",
+     "grounds": "compound temporal clause",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "deho'yaṃ",
+     "gloss": "this-body",
+     "grounds": "demonstrative with body",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāvattattvaṃ",
+     "gloss": "so-long-truth",
+     "grounds": "correlative temporal phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samabhyaset",
+     "gloss": "practice",
+     "grounds": "optative or imperative of samabhyas",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How long should truth be practiced while the body stands?",
+   "premises": [
+    "as long as this body stands",
+    "truth should be practiced correspondingly"
+   ],
+   "inference": "practice truth throughout bodily life",
+   "uncertainties": [
+    "mood of samabhyaset"
+   ],
+   "plain_english": "As long as this body stands, practice truth so long."
+  }
+ ]
+}

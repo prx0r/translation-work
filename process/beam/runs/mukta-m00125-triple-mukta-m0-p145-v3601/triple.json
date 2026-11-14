@@ -1,0 +1,1073 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3601,
+   "rows": [
+    {
+     "surface": "prāsāde",
+     "gloss": "in-palace",
+     "grounds": "location of birth or death",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "manuje",
+     "gloss": "human",
+     "grounds": "person involved",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jāte",
+     "gloss": "born",
+     "grounds": "event of birth",
+     "morph": "m.loc.sg (ppp, jan)"
+    },
+    {
+     "surface": "mṛte",
+     "gloss": "dead",
+     "grounds": "event of death",
+     "morph": "m.loc.sg (ppp, mṛ)"
+    },
+    {
+     "surface": "rājo",
+     "gloss": "for-king",
+     "grounds": "affected ruler",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "threatening consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "severity of danger",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What danger arises for the king when a human is born or dies in the palace?",
+   "premises": [
+    "A human birth occurs in the palace.",
+    "A human death occurs in the palace.",
+    "Such events produce a consequence for the king."
+   ],
+   "inference": "The birth or death of a human in the palace brings great fear to the king.",
+   "uncertainties": [
+    "rājo may be read as rājo or rāñaḥ in transmission; taken as genitive sense here."
+   ],
+   "plain_english": "If a human is born or dies in the palace, great fear arises for the king."
+  },
+  {
+   "verse": 3602,
+   "rows": [
+    {
+     "surface": "prokṣayet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "purificatory action",
+     "morph": "3.sg.opt.act (pra-ukṣ)"
+    },
+    {
+     "surface": "gomayāmbhobhiḥ",
+     "gloss": "with-cow-dung-water",
+     "grounds": "purifying substances",
+     "morph": "n.inst.pl (compound: gomaya+ambhas)"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "route taken",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deśena",
+     "gloss": "by-place",
+     "grounds": "area traversed",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "persons or bodies carried",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gatāḥ",
+     "gloss": "gone",
+     "grounds": "movement through that place",
+     "morph": "m.nom.pl (ppp, gam)"
+    }
+   ],
+   "question": "How should the path by which they passed be purified after such an event?",
+   "premises": [
+    "There is a place by which they have passed.",
+    "Purification requires sprinkling.",
+    "Cow-dung water is the prescribed substance."
+   ],
+   "inference": "One should sprinkle with cow-dung water the place by which they passed.",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle with cow-dung and water the area by which they were carried."
+  },
+  {
+   "verse": 3603,
+   "rows": [
+    {
+     "surface": "mṛtaprasūtadeśaṃ",
+     "gloss": "death-birth-place",
+     "grounds": "site of death or birth",
+     "morph": "m.acc.sg (compound: mṛta+prasūta+deśa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khānayogyaṃ",
+     "gloss": "fit-for-digging",
+     "grounds": "condition allowing excavation",
+     "morph": "m.acc.sg (compound: khāna+yogya)"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "one-should-dig",
+     "grounds": "remedial action",
+     "morph": "3.sg.opt.act (khan)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "timing of action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What remedial action should be taken at the site of death or birth if it is suitable for digging?",
+   "premises": [
+    "The place of death or birth is identified.",
+    "That place may be suitable for digging.",
+    "Digging is prescribed as a remedy."
+   ],
+   "inference": "If the site of death or birth is fit for digging, one should dig it then.",
+   "uncertainties": [],
+   "plain_english": "Then one should dig up the place of death or birth if it is suitable for digging."
+  },
+  {
+   "verse": 3604,
+   "rows": [
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "preliminary cleansing",
+     "morph": "(gerund, pra-kṣal)"
+    },
+    {
+     "surface": "āsannakuḍyādyaṃ",
+     "gloss": "nearby-wall-and-others",
+     "grounds": "adjacent structures",
+     "morph": "n.acc.sg (compound: āsanna+kuḍya+ādi)"
+    },
+    {
+     "surface": "gomayālepanaṃ",
+     "gloss": "cow-dung-smearing",
+     "grounds": "purificatory coating",
+     "morph": "n.acc.sg (compound: gomaya+ālepana)"
+    },
+    {
+     "surface": "sthale",
+     "gloss": "on-ground",
+     "grounds": "place of application",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What purification should be applied to the nearby walls and ground after washing?",
+   "premises": [
+    "Nearby walls and similar surfaces are washed first.",
+    "Cow-dung smearing is a purificatory measure.",
+    "The ground is included in the treatment."
+   ],
+   "inference": "After washing the nearby walls and other surfaces, one should apply cow-dung smearing on the ground.",
+   "uncertainties": [],
+   "plain_english": "After washing the nearby walls and so forth, one should smear the place with cow-dung."
+  },
+  {
+   "verse": 3605,
+   "rows": [
+    {
+     "surface": "śaiva",
+     "gloss": "śaiva",
+     "grounds": "pertaining to Śiva's community",
+     "morph": "n.nom.sg (compound member)"
+    },
+    {
+     "surface": "saṃbhojanaṃ",
+     "gloss": "communal-feast",
+     "grounds": "ritual feeding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "final stage",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jalasaṃprokṣaṇaṃ",
+     "gloss": "water-sprinkling",
+     "grounds": "final purification",
+     "morph": "n.acc.sg (compound: jala+saṃprokṣaṇa)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-perform",
+     "grounds": "completion of rite",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "What concluding rites should be performed after the purification procedures are completed?",
+   "premises": [
+    "A Śaiva communal feast is prescribed.",
+    "Water sprinkling is prescribed at the end.",
+    "Both actions complete the rite."
+   ],
+   "inference": "At the end one should conduct a Śaiva communal feast and perform water sprinkling.",
+   "uncertainties": [],
+   "plain_english": "At the end, one should hold a Śaiva communal feast and carry out sprinkling with water."
+  },
+  {
+   "verse": 3606,
+   "rows": [
+    {
+     "surface": "śāntihomojjhitaṃ",
+     "gloss": "without-peace-fire-offering",
+     "grounds": "omission of śāntihoma",
+     "morph": "n.acc.sg (compound: śānti+homa+ujjhita)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-do",
+     "grounds": "prescribed procedure",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "ardhamaṇḍapake",
+     "gloss": "in-half-pavilion",
+     "grounds": "location of incident",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being-present",
+     "grounds": "condition",
+     "morph": "n.loc.sg (pr.part., as)"
+    }
+   ],
+   "question": "What ritual adjustment is required when the incident occurs in the half-pavilion?",
+   "premises": [
+    "The incident occurs in the half-pavilion.",
+    "A peace fire offering is normally considered.",
+    "The procedure is modified in this location."
+   ],
+   "inference": "If the incident is in the half-pavilion, one should perform the rite without the peace fire offering.",
+   "uncertainties": [],
+   "plain_english": "If it occurs in the half-pavilion, one should perform the rite without the peace fire offering."
+  },
+  {
+   "verse": 3607,
+   "rows": [
+    {
+     "surface": "antassālāntare",
+     "gloss": "inside-inner-hall",
+     "grounds": "location within the hall",
+     "morph": "n.loc.sg (compound: antar+sālā+antara)"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalasaṃprokṣaṇaṃ",
+     "gloss": "water-sprinkling",
+     "grounds": "purificatory act",
+     "morph": "n.acc.sg (compound: jala+saṃprokṣaṇa)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "What purification should be performed if the incident occurs inside the inner hall?",
+   "premises": [
+    "The incident occurs inside the inner hall.",
+    "Water sprinkling is an appropriate purification.",
+    "The rite must be carried out in that case."
+   ],
+   "inference": "If the incident is inside the inner hall, one should perform water sprinkling.",
+   "uncertainties": [],
+   "plain_english": "If it happens inside the inner hall, one should carry out sprinkling with water."
+  },
+  {
+   "verse": 3608,
+   "rows": [
+    {
+     "surface": "gavyena",
+     "gloss": "with-cow-product",
+     "grounds": "purifying substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "purificatory action",
+     "morph": "3.sg.opt.act (pra-ukṣ)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "the affected place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthapīṭhānyapi",
+     "gloss": "seats-also",
+     "grounds": "additional objects to purify",
+     "morph": "n.acc.pl (compound: stha+pīṭha+api; sandhi in form)"
+    },
+    {
+     "surface": "viśuddhaye",
+     "gloss": "for-purification",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What should be sprinkled with cow products for purification in that location?",
+   "premises": [
+    "The affected place requires purification.",
+    "Seats and similar items are also affected.",
+    "Cow products are used for sprinkling."
+   ],
+   "inference": "One should sprinkle that place and also the seats with cow products for purification.",
+   "uncertainties": [],
+   "plain_english": "For purification, one should sprinkle that place and also the seats with cow products."
+  },
+  {
+   "verse": 3609,
+   "rows": [
+    {
+     "surface": "antassālasya",
+     "gloss": "of-inner-hall",
+     "grounds": "reference structure",
+     "morph": "f.gen.sg (compound: antar+sālā)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "external location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapana",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.nom.sg (compound member)"
+    },
+    {
+     "surface": "diśāhutiḥ",
+     "gloss": "directional-offering",
+     "grounds": "offering to directions",
+     "morph": "f.nom.sg (compound: diś+āhuti)"
+    }
+   ],
+   "question": "What rites are prescribed if the incident occurs outside the inner hall?",
+   "premises": [
+    "The incident occurs outside the inner hall.",
+    "Ritual bathing is appropriate.",
+    "Directional offerings are appropriate."
+   ],
+   "inference": "If the incident is outside the inner hall, bathing and directional offerings are prescribed.",
+   "uncertainties": [
+    "The verb is implied from context; the verse states the required rites."
+   ],
+   "plain_english": "If it occurs outside the inner hall, bathing and directional offerings should be performed."
+  },
+  {
+   "verse": 3610,
+   "rows": [
+    {
+     "surface": "pūrvacchuddhim",
+     "gloss": "prior-purity",
+     "grounds": "initial state of cleanliness",
+     "morph": "f.acc.sg (compound: pūrva+śuddhi)"
+    },
+    {
+     "surface": "āpādya",
+     "gloss": "having-established",
+     "grounds": "restoring purity first",
+     "morph": "(gerund, ā-pad)"
+    },
+    {
+     "surface": "paryagnikaraṇaṃ",
+     "gloss": "fire-circling",
+     "grounds": "protective fire rite",
+     "morph": "n.acc.sg (compound: paryagni+karaṇa)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-perform",
+     "grounds": "subsequent action",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "What ritual sequence should follow after restoring the prior state of purity?",
+   "premises": [
+    "Prior purity must be restored first.",
+    "Fire circling is a prescribed rite.",
+    "The rite follows the restoration of purity."
+   ],
+   "inference": "After establishing the prior purity, one should perform the fire-circling rite.",
+   "uncertainties": [],
+   "plain_english": "After restoring the earlier purity, one should carry out the rite of circling with fire."
+  },
+  {
+   "verse": 3611,
+   "rows": [
+    {
+     "surface": "prākāradvaya",
+     "gloss": "two-enclosures",
+     "grounds": "double boundary wall",
+     "morph": "n.nom.sg (compound member: prākāra+dvaya)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "external location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cec",
+     "gloss": "if",
+     "grounds": "condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "appeasing ritual",
+     "morph": "m.acc.sg (compound: śānti+homa)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "What ritual is required if the incident occurs outside the two enclosure walls?",
+   "premises": [
+    "The incident occurs outside the two enclosure walls.",
+    "A peace fire offering is prescribed in such cases.",
+    "The offering must be properly performed."
+   ],
+   "inference": "If the incident is outside the two enclosure walls, one should perform a peace fire offering.",
+   "uncertainties": [],
+   "plain_english": "If it occurs outside the two enclosure walls, one should perform a peace fire offering."
+  },
+  {
+   "verse": 3612,
+   "rows": [
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "leaving that place",
+     "morph": "(gerund, pari-tyaj)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "the affected site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "continuation of duties",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "nityanaimittikādikam",
+     "gloss": "daily-occasional-and-other",
+     "grounds": "regular and occasional rites",
+     "morph": "n.acc.sg (compound: nitya+naimittika+ādika)"
+    }
+   ],
+   "question": "What ritual duties should continue after abandoning the affected site in that case?",
+   "premises": [
+    "The affected site is to be abandoned.",
+    "Daily and occasional rites remain obligatory.",
+    "These rites should be performed elsewhere."
+   ],
+   "inference": "Having abandoned that site, one should perform the daily, occasional, and other rites.",
+   "uncertainties": [],
+   "plain_english": "Having abandoned that place, one should carry out the daily, occasional, and other rites."
+  },
+  {
+   "verse": 3613,
+   "rows": [
+    {
+     "surface": "sūtāvāpi",
+     "gloss": "even-in-birth-impurity",
+     "grounds": "context of birth impurity",
+     "morph": "m.loc.sg (sūtau+api; sandhi in form)"
+    },
+    {
+     "surface": "mṛtā",
+     "gloss": "dead",
+     "grounds": "death of creatures",
+     "morph": "m.nom.pl (ppp, mṛ)"
+    },
+    {
+     "surface": "dhāmni",
+     "gloss": "in-dwelling",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pakṣiṇaḥ",
+     "gloss": "birds",
+     "grounds": "type of creature",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paśavoḥ",
+     "gloss": "beasts",
+     "grounds": "type of creature",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mṛgāḥ",
+     "gloss": "wild-animals",
+     "grounds": "type of creature",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which creatures dying in the dwelling during birth impurity require ritual attention?",
+   "premises": [
+    "The context includes birth impurity in the dwelling.",
+    "Birds may die in the dwelling.",
+    "Beasts and wild animals may die in the dwelling."
+   ],
+   "inference": "During birth impurity, the death of birds, beasts, or wild animals in the dwelling is the case under consideration.",
+   "uncertainties": [
+    "The verse states the condition; the remedy follows in subsequent verses."
+   ],
+   "plain_english": "Even during birth impurity, if birds, beasts, or wild animals die in the dwelling, this situation applies."
+  },
+  {
+   "verse": 3614,
+   "rows": [
+    {
+     "surface": "gomayālepanaṃ",
+     "gloss": "cow-dung-smearing",
+     "grounds": "purificatory coating",
+     "morph": "n.acc.sg (compound: gomaya+ālepana)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "purificatory action",
+     "morph": "3.sg.opt.act (pra-ukṣ)"
+    },
+    {
+     "surface": "pañyagavyataḥ",
+     "gloss": "with-five-cow-products",
+     "grounds": "purifying mixture",
+     "morph": "(indecl./abl. sense, compound: pañca+gavya)"
+    }
+   ],
+   "question": "What purification measures should be applied there when animals die in the dwelling?",
+   "premises": [
+    "An animal death has occurred in that place.",
+    "Cow-dung smearing is prescribed.",
+    "Sprinkling with the five cow products is prescribed."
+   ],
+   "inference": "There one should apply cow-dung smearing and sprinkle with the five cow products.",
+   "uncertainties": [
+    "pañyagavyataḥ appears to reflect pañcagavyataḥ in transmission."
+   ],
+   "plain_english": "There one should smear with cow-dung and sprinkle with the five products of the cow."
+  },
+  {
+   "verse": 3615,
+   "rows": [
+    {
+     "surface": "kevalasnapanaṃ",
+     "gloss": "simple-bathing",
+     "grounds": "basic ablution rite",
+     "morph": "n.acc.sg (compound: kevala+snapana)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhamaṇḍape",
+     "gloss": "in-half-pavilion",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "ritual arrangement",
+     "morph": "3.sg.opt.act (pari-kḷp)"
+    }
+   ],
+   "question": "What bathing rite should be arranged in the half-pavilion in this situation?",
+   "premises": [
+    "The half-pavilion is the relevant location.",
+    "A simple bathing rite is sufficient.",
+    "The rite must be arranged."
+   ],
+   "inference": "One should arrange a simple bathing rite in the half-pavilion.",
+   "uncertainties": [],
+   "plain_english": "And one should arrange a simple bathing rite in the half-pavilion."
+  },
+  {
+   "verse": 3616,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "preliminary worship",
+     "morph": "(gerund, sam-pūj)"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-fragrance-flower-and-others",
+     "grounds": "worship materials",
+     "morph": "n.inst.pl (compound: gandha+puṣpa+ādi)"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "appeasing ritual",
+     "morph": "m.acc.sg (compound: śānti+homa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "having the rite performed",
+     "morph": "3.sg.opt.caus.act (kṛ)"
+    }
+   ],
+   "question": "What worship and fire offering should be performed after the preliminary arrangements?",
+   "premises": [
+    "Worship is performed with fragrance, flowers, and other items.",
+    "A peace fire offering is prescribed.",
+    "The offering should be caused to be performed."
+   ],
+   "inference": "After worshipping with fragrance, flowers, and other items, one should have a peace fire offering performed.",
+   "uncertainties": [],
+   "plain_english": "After worshipping with fragrances, flowers, and the like, one should have a peace fire offering performed."
+  },
+  {
+   "verse": 3617,
+   "rows": [
+    {
+     "surface": "uṣṇīṣam",
+     "gloss": "turban",
+     "grounds": "garment item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttarīyaṃ",
+     "gloss": "upper-garment",
+     "grounds": "garment item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasanaṃ",
+     "gloss": "garment",
+     "grounds": "clothing item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yajñasūtrakam",
+     "gloss": "sacrificial-thread",
+     "grounds": "ritual cord",
+     "morph": "n.nom.sg (compound: yajña+sūtraka)"
+    }
+   ],
+   "question": "Which garments or ritual items are listed as relevant in this context?",
+   "premises": [
+    "A turban is mentioned.",
+    "An upper garment or other garment is mentioned.",
+    "A sacrificial thread is mentioned."
+   ],
+   "inference": "The turban, upper garment or garment, and sacrificial thread are the items named.",
+   "uncertainties": [
+    "The syntactic role is elliptical; the list likely specifies affected or prescribed items."
+   ],
+   "plain_english": "A turban, an upper garment or other garment, and the sacrificial thread are mentioned."
+  },
+  {
+   "verse": 3618,
+   "rows": [
+    {
+     "surface": "jvarabādhā",
+     "gloss": "fever-affliction",
+     "grounds": "illness in the community",
+     "morph": "f.nom.sg (compound: jvara+bādhā)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-arise",
+     "grounds": "occurrence",
+     "morph": "3.sg.opt.act (bhū)"
+    },
+    {
+     "surface": "grāme",
+     "gloss": "in-village",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "taddoṣaśamanāya",
+     "gloss": "for-that-fault-pacification",
+     "grounds": "purpose of remedy",
+     "morph": "n.dat.sg (compound: tad+doṣa+śamana)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connection to remedy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What communal affliction may arise in the village requiring pacification of its fault?",
+   "premises": [
+    "A fever affliction may occur in the village.",
+    "Such an affliction is treated as a fault or disturbance.",
+    "A remedy for pacifying that fault is required."
+   ],
+   "inference": "If fever affliction arises in the village, measures for pacifying that fault are required.",
+   "uncertainties": [],
+   "plain_english": "If a fever affliction arises in the village, it must be addressed for the pacification of that fault."
+  },
+  {
+   "verse": 3619,
+   "rows": [
+    {
+     "surface": "evameva",
+     "gloss": "in-same-way",
+     "grounds": "same procedure applies",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescription",
+     "morph": "3.sg.opt.act (bhū)"
+    },
+    {
+     "surface": "kartṛhotrādīnāṃ",
+     "gloss": "of-performer-priest-and-others",
+     "grounds": "ritual officiants affected",
+     "morph": "m.gen.pl (compound: kartṛ+hotṛ+ādi)"
+    },
+    {
+     "surface": "munīśvarāḥ",
+     "gloss": "o-lords-of-sages",
+     "grounds": "vocative address",
+     "morph": "m.voc.pl (compound: muni+īśvara)"
+    }
+   ],
+   "question": "To whom does the same remedial procedure apply according to the address to the lords of sages?",
+   "premises": [
+    "The same procedure is indicated.",
+    "Performers, priests, and others are involved.",
+    "The teaching is addressed to the lords of sages."
+   ],
+   "inference": "O lords of sages, the same procedure should apply to the performer, priest, and others.",
+   "uncertainties": [],
+   "plain_english": "O lords of sages, the same should be done for the performer, the priest, and others."
+  },
+  {
+   "verse": 3620,
+   "rows": [
+    {
+     "surface": "daṣṭe",
+     "gloss": "when-bitten",
+     "grounds": "case of biting",
+     "morph": "n.loc.sg (ppp, daṃś)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūṣikādyaiḥ",
+     "gloss": "by-mouse-and-others",
+     "grounds": "biting creatures",
+     "morph": "m.inst.pl (compound: mūṣika+ādi)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalamihocyate",
+     "gloss": "result-here-stated",
+     "grounds": "outcome declared",
+     "morph": "n.nom.sg (compound: phala+iha+ucyate; sandhi in form)"
+    }
+   ],
+   "question": "What is declared regarding the result when someone is bitten by mice or similar creatures?",
+   "premises": [
+    "A person may be bitten by mice or similar creatures.",
+    "The text addresses this case in sequence.",
+    "A result is stated for this situation."
+   ],
+   "inference": "When bitten by mice or similar creatures, the result is stated here in due order.",
+   "uncertainties": [
+    "The specific result is not fully detailed in this verse alone."
+   ],
+   "plain_english": "If someone is bitten by mice or the like, the result is stated here in order."
+  },
+  {
+   "verse": 3621,
+   "rows": [
+    {
+     "surface": "putrotpattir",
+     "gloss": "son-birth",
+     "grounds": "birth of a son",
+     "morph": "f.nom.sg (compound: putra+utpatti)"
+    },
+    {
+     "surface": "yaśaścaiva",
+     "gloss": "and-fame-indeed",
+     "grounds": "additional result",
+     "morph": "n.nom.sg (yaśas+ca+eva; sandhi in form)"
+    },
+    {
+     "surface": "daśapāśāntamadhyame",
+     "gloss": "in-ten-bond-end-middle",
+     "grounds": "specific ritual or spatial context",
+     "morph": "n.loc.sg (compound: daśa+pāśa+anta+madhyama)"
+    }
+   ],
+   "question": "What auspicious results are associated with the context described as the middle of the end of ten bonds?",
+   "premises": [
+    "The birth of a son is named as a result.",
+    "Fame is named as a result.",
+    "These occur in the specified context."
+   ],
+   "inference": "In that specified context, the results are the birth of a son and fame.",
+   "uncertainties": [
+    "The exact technical meaning of daśapāśāntamadhyame is unclear from this verse alone."
+   ],
+   "plain_english": "In that context, the results are the birth of a son and fame."
+  },
+  {
+   "verse": 3622,
+   "rows": [
+    {
+     "surface": "vastraṃ",
+     "gloss": "cloth",
+     "grounds": "ritual material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "tripled form",
+     "morph": "n.acc.sg (compound: tri+guṇa)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "preparatory action",
+     "morph": "(gerund, kṛ)"
+    },
+    {
+     "surface": "brahmendrayamavahniṣu",
+     "gloss": "in-brahma-indra-yama-fire",
+     "grounds": "directional or deity stations",
+     "morph": "m.loc.pl (compound: brahma+indra+yama+vahni)"
+    }
+   ],
+   "question": "How should a cloth be prepared and placed in relation to Brahma, Indra, Yama, and Fire?",
+   "premises": [
+    "A cloth is to be used.",
+    "It may be made threefold.",
+    "It is placed in connection with Brahma, Indra, Yama, and Fire."
+   ],
+   "inference": "Having made a cloth threefold, one should place or use it in relation to Brahma, Indra, Yama, and Fire.",
+   "uncertainties": [
+    "The exact ritual placement is implied rather than fully specified."
+   ],
+   "plain_english": "Having made a cloth threefold, one should use it in connection with Brahma, Indra, Yama, and Fire."
+  },
+  {
+   "verse": 3623,
+   "rows": [
+    {
+     "surface": "evameva",
+     "gloss": "in-same-way",
+     "grounds": "same procedure applies",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narāṇāṃ",
+     "gloss": "for-people",
+     "grounds": "recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "timing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "purificatory rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "completion of bathing",
+     "morph": "(gerund, vi-dhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purificatory action should likewise be performed for people in that situation?",
+   "premises": [
+    "The same procedure applies.",
+    "People are the recipients.",
+    "Bathing is to be performed at that time."
+   ],
+   "inference": "In the same way, bathing should then be performed for the people.",
+   "uncertainties": [],
+   "plain_english": "In the same way, bathing should then be performed for the people."
+  },
+  {
+   "verse": 3624,
+   "rows": [
+    {
+     "surface": "narāṇāṃ",
+     "gloss": "of-people",
+     "grounds": "group concerned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śivabhaktānāṃ",
+     "gloss": "of-śiva-devotees",
+     "grounds": "devotional qualification",
+     "morph": "m.gen.pl (compound: śiva+bhakta)"
+    },
+    {
+     "surface": "dīkṣitānāṃ",
+     "gloss": "of-initiated",
+     "grounds": "initiatory qualification",
+     "morph": "m.gen.pl (ppp, dīkṣ)"
+    },
+    {
+     "surface": "śivāya",
+     "gloss": "for-śiva",
+     "grounds": "dedication to Śiva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative dedication",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For which qualified people may the rite be dedicated to Śiva in this context?",
+   "premises": [
+    "The people concerned are devotees of Śiva.",
+    "They are initiated.",
+    "The rite may be dedicated to Śiva."
+   ],
+   "inference": "The rite may be for people who are devotees of Śiva and initiated, dedicated to Śiva.",
+   "uncertainties": [
+    "The main verb is implied from the preceding verse."
+   ],
+   "plain_english": "This applies to people who are devotees of Śiva and initiated, for the sake of Śiva."
+  }
+ ]
+}

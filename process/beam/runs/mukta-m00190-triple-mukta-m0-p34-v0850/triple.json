@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "absolutive of ni-√vid, indicating prior completion of offering",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vidhi+vat",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial compound expressing conformity with prescribed procedure",
+     "morph": "compound=vidhi+vat (indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal indeclinable marking sequence after the offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantri+varyeṇa",
+     "gloss": "by-mantra-practitioner+best",
+     "grounds": "agent of the burning act; compound with superlative final member",
+     "morph": "compound=mantrin+varya; m.ins.sg"
+    },
+    {
+     "surface": "nirdahet",
+     "gloss": "should-burn",
+     "grounds": "main verb prescribing the burning action in the ritual sequence",
+     "morph": "3.sg.act.opt; nir-√dah"
+    }
+   ],
+   "question": "What ritual sequence must the foremost mantra practitioner follow when performing the burning act?",
+   "premises": [
+    "An offering must be made according to prescribed rule.",
+    "The burning act occurs after the offering is completed.",
+    "The foremost mantra practitioner is the designated agent of burning."
+   ],
+   "inference": "Therefore the foremost mantra practitioner should perform the burning only after duly making the offering according to rule.",
+   "uncertainties": [
+    "The specific object of nivedya and nirdahet is not explicitly stated in this verse."
+   ],
+   "plain_english": "Having duly offered according to rule, the foremost mantra practitioner should afterwards perform the burning."
+  }
+ ]
+}

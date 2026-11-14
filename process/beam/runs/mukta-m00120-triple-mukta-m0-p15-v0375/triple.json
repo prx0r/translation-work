@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "third-person pronoun referring to the rajasic type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājaso",
+     "gloss": "rajasic",
+     "grounds": "rajasic quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-lady",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rāgātmā",
+     "gloss": "passion-soul",
+     "grounds": "one whose soul is passion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāgakāṅkṣaṇaḥ",
+     "gloss": "passion-desiring",
+     "grounds": "desiring passion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What marks the rajasic practitioner among the three guna-types?",
+   "premises": [
+    "Rajasic type is passion-souled.",
+    "Rajasic type desires passion.",
+    "Addressed to great lady."
+   ],
+   "inference": "The rajasic practitioner is defined by passion and desire for passion.",
+   "uncertainties": [
+    "Exact grammatical role of rāgakāṅkṣaṇaḥ is uncertain."
+   ],
+   "plain_english": "He is rajasic, O great lady, passion-souled and desiring passion."
+  }
+ ]
+}

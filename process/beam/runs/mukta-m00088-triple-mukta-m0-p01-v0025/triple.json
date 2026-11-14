@@ -1,0 +1,27 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "mahāmāṇikyavaidūryaratnacāmarabhūṣitam",
+     "gloss": "great-ruby-cat's-eye-gem-decorated",
+     "grounds": "Fused compound adjective ending in -am; internal members include mahā, māṇikya, vaidūrya, ratna, cāmara, and bhūṣita.",
+     "morph": "compound.adj.acc.sg.n"
+    }
+   ],
+   "question": "What ornamental feature is attributed to the described structure?",
+   "premises": [
+    "The token is a compound adjective.",
+    "It ends in -am indicating accusative singular neuter.",
+    "It denotes decoration with gems and whisk."
+   ],
+   "inference": "The described object is decorated with great ruby, cat's-eye gem, and whisk.",
+   "uncertainties": [
+    "Exact syntactic head is not present in this isolated token."
+   ],
+   "plain_english": "decorated with great ruby, cat's-eye gem, and whisk"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "dina+antare",
+     "gloss": "on-another-day",
+     "grounds": "compound locative indicating a different day",
+     "morph": "compound.loc.sg.nt"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle extending the temporal condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāsyāmi",
+     "gloss": "I-shall-give",
+     "grounds": "first-person promise to give the offering later",
+     "morph": "1.sg.act-fut.√dā"
+    },
+    {
+     "surface": "svīkṛtya",
+     "gloss": "having-accepted",
+     "grounds": "absolutive expressing prior acceptance",
+     "morph": "(gerund).√svī-kṛ"
+    },
+    {
+     "surface": "sva+gṛham",
+     "gloss": "to-own-house",
+     "grounds": "compound accusative indicating destination",
+     "morph": "compound.acc.sg.nt"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "optative prescribing departure after acceptance",
+     "morph": "3.sg.act-opt.√vraj"
+    }
+   ],
+   "question": "What promise and departure are required after accepting the offering on another day?",
+   "premises": [
+    "The speaker promises to give the offering on another day.",
+    "The offering is first accepted.",
+    "After acceptance, departure to one's own house is prescribed."
+   ],
+   "inference": "Accepting the offering entails a promise to give it on another day followed by returning home.",
+   "uncertainties": [
+    "The specific object of dāsyāmi is implied from the preceding context (the offering)."
+   ],
+   "plain_english": "I shall also give it on another day; having accepted it, one should go to one's own house."
+  }
+ ]
+}

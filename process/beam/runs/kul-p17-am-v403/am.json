@@ -1,0 +1,15 @@
+{
+ "song": "kul-p17",
+ "verse": 403,
+ "question": "What world elements are listed as seats?",
+ "premises": [
+  "world is named",
+  "islands oceans mountains cities are listed",
+  "seats are named"
+ ],
+ "inference": "The verse lists world, islands, oceans, mountains, cities, and seats.",
+ "uncertainties": [
+  "whether all terms are nominative in context"
+ ],
+ "plain_english": "World, islands, oceans, mountains, cities, and seats are enumerated."
+}

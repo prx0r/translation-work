@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p279",
+ "items": [
+  {
+   "verse": 6975,
+   "rows": [
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "the adversary targeted in the preceding visualization",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truly",
+     "grounds": "affirms the certainty of the stated outcome",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "auśanasa",
+     "gloss": "O-Auśanasa",
+     "grounds": "vocative address to Auśanasa (Uśanas/Śukra)",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been spoken",
+     "morph": "n.nom.sg.ppp (ud+√vad)"
+    }
+   ],
+   "question": "Is the enemy's fate truly assured according to Auśanasa's declaration?",
+   "premises": [
+    "The preceding context describes visualizing and restraining the enemy through mantra.",
+    "The verse addresses Auśanasa and affirms a declaration as true.",
+    "The declaration concerns the enemy's outcome."
+   ],
+   "inference": "Therefore, the enemy's fate is presented as truly confirmed by the declaration attributed to Auśanasa.",
+   "uncertainties": [
+    "The exact content of what is declared (uditam) is not specified within this verse alone and depends on the preceding context."
+   ],
+   "plain_english": "O Auśanasa, it is truly declared: the enemy."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p360",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v8977 ratio=0.872",
+  "ALIGN_NODISP v8980 ratio=0.864",
+  "ALIGN_NODISP v8983 ratio=0.892",
+  "ALIGN_NODISP v8984 ratio=0.881",
+  "ALIGN_NODISP v8988 ratio=0.848",
+  "ALIGN_NODISP v8995 ratio=0.872"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "5046e0114deed886",
+ "source_digest_normalized_sha256": "5046e0114deed886fe0232221a5fe57501a8ea97a0d0e52910385323974358a8",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 141
+ },
+ "align": {
+  "min_ratio": 0.848,
+  "sub090": {
+   "8977": {
+    "ratio": 0.872,
+    "disposition": null
+   },
+   "8980": {
+    "ratio": 0.864,
+    "disposition": null
+   },
+   "8983": {
+    "ratio": 0.892,
+    "disposition": null
+   },
+   "8984": {
+    "ratio": 0.881,
+    "disposition": null
+   },
+   "8988": {
+    "ratio": 0.848,
+    "disposition": null
+   },
+   "8995": {
+    "ratio": 0.872,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 58,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 141,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v8977",
+  "fix: word-order/gloss vs source for v8980",
+  "fix: word-order/gloss vs source for v8983",
+  "fix: word-order/gloss vs source for v8984",
+  "fix: word-order/gloss vs source for v8988",
+  "fix: word-order/gloss vs source for v8995"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "627b3e972ff52bebf9ac9cff100512874facb696fcf5571c4d5848989584f264",
+  "l0": "6e60397c665043eed9a2e9c451a4aa1776a5a4215a6bef15c7cf89d86c762d91",
+  "argmap": "cba92d5ac577295e04e97e3cf31f00431647adc86370ca0f68e19c9cff9c96a6",
+  "l2": "a98ac741c907b25d6280ba431316b113171da9a35a7bbc78403db0baac7e47b9",
+  "c1": "5527d8b83a7d00967291c460f0591ecc8098af385da7978172d53478c59436f5"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "5046e0114deed886",
+  "t1": "mukta-m0-p360/data/mukta-m0-p360.t1.json",
+  "l0": "mukta-m0-p360/data/mukta-m0-p360.l0.json",
+  "l2": "mukta-m0-p360/data/mukta-m0-p360.l2.json",
+  "c1": "mukta-m0-p360/data/mukta-m0-p360.c1.json"
+ }
+}

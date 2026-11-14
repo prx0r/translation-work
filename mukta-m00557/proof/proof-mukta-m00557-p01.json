@@ -1,0 +1,88 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m00557-p01",
+ "work": "mukta-m00557",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1 ratio=0.400",
+  "L2_CITE_FAIL 3",
+  "DATA_OBJECTS 3 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "ac2df4a19c9c8fd5",
+ "source_verses": 4,
+ "t1_verses": 4,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 28
+ },
+ "align": {
+  "min_ratio": 0.4,
+  "sub090": {
+   "1": {
+    "ratio": 0.4,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 66,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 4,
+  "failures": [
+   "kāli śrīpādukāṃ 10 iti pūjyāt ḥ matsyamudrāṃ ligayonyābhiṣinyātaḥ",
+   "5 ṣaṭkoṇacakra śrīpādukāṃ 10 iti sakṛtpūjya uktamudrābhinamyātaḥ",
+   "10 5 nhrīṁ niśeśvari sahita niśeśvari śrīpādukāṃ 10"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[mukta-m00557-p01-v2]: cite part not byte-exact in source: kāli śrīpādukāṃ 10 iti pūjyāt ḥ matsyamudrāṃ ligayonyābhiṣin",
+   "l2[mukta-m00557-p01-v3]: cite part not byte-exact in source: 5 ṣaṭkoṇacakra śrīpādukāṃ 10 iti sakṛtpūjya uktamudrābhinamy",
+   "l2[mukta-m00557-p01-v4]: cite part not byte-exact in source: 10 5 nhrīṁ niśeśvari sahita niśeśvari śrīpādukāṃ 10"
+  ],
+  "counts": {
+   "t1": 4,
+   "l0": 28,
+   "argmap": 4,
+   "l2": 4,
+   "l3": 0,
+   "l4": 0,
+   "essence": 4,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v1"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "76302a675ed70c76f73d9772b45263e215ecdfb9475319e4a69beeb5bb455f17",
+  "l0": "9d21069b048793f60a5cc0c765bef45c80087fe8d17937ef5608543fe2682db5",
+  "argmap": "0ac264d1284b427bc113d89374534fe5a856b093450c8801a08838ec4fdc430b",
+  "l2": "ea47a8726fdb3c0b495296c37db83b26fdcc6b5ec7a41729bc9aace3117db3f4",
+  "c1": "0512e12ad7da2551859388f72169d9e5b3898d564df15f08199031fc736969b0"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ac2df4a19c9c8fd5",
+  "t1": "mukta-m00557-p01/data/mukta-m00557-p01.t1.json",
+  "l0": "mukta-m00557-p01/data/mukta-m00557-p01.l0.json",
+  "l2": "mukta-m00557-p01/data/mukta-m00557-p01.l2.json",
+  "c1": "mukta-m00557-p01/data/mukta-m00557-p01.c1.json"
+ }
+}

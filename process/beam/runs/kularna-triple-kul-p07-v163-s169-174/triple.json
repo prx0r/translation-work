@@ -1,0 +1,287 @@
+{
+ "song": "kul-p07",
+ "items": [
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "pārāvāram",
+     "gloss": "ocean-bound",
+     "grounds": "compound of pāra and avāra",
+     "morph": "compound"
+    },
+    {
+     "surface": "apāraṃ",
+     "gloss": "boundless",
+     "grounds": "adjective modifying ocean",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṇibhyāṃ",
+     "gloss": "with-hands",
+     "grounds": "instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "tarttum",
+     "gloss": "to-cross",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchati",
+     "gloss": "wishes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What futile effort does the verse compare to seeking Kula outside Kaula?",
+   "premises": [
+    "boundless ocean cannot be crossed by hands",
+    "seeking Kula outside Kaula is futile"
+   ],
+   "inference": "the comparison rejects non-Kaula paths as inadequate",
+   "uncertainties": [
+    "exact sandhi of pārāvāram"
+   ],
+   "plain_english": "He wishes to cross the boundless ocean with his hands."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "svapnalabdhadhanenaiva",
+     "gloss": "by-dream-gained-wealth-alone",
+     "grounds": "compound with eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhanavān",
+     "gloss": "wealthy",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What analogy shows the futility of non-Kaula attainment?",
+   "premises": [
+    "dream wealth cannot make one truly wealthy",
+    "non-Kaula attainment is like dream wealth"
+   ],
+   "inference": "such attainment is illusory and insufficient",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "By dream-gained wealth alone he would become wealthy then."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyasamayebhyaśca",
+     "gloss": "and-from-other-samayas",
+     "grounds": "ablative plural with ca",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "bhuktirmuktiḥ",
+     "gloss": "enjoyment-liberation",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "How does Kaula compare with other samayas regarding enjoyment and liberation?",
+   "premises": [
+    "other samayas yield enjoyment and liberation",
+    "Kaula makes them shine forth"
+   ],
+   "inference": "Kaula surpasses other samayas in manifesting both",
+   "uncertainties": [
+    "exact relation of bhuktirmuktiḥ and muktiḥ"
+   ],
+   "plain_english": "Likewise, from other samayas, enjoyment and liberation shine forth."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "kulaniṣṭhaḥ",
+     "gloss": "steadfast-in-kula",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "to-kuleshanis",
+     "grounds": "dative plural",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "bhuktirmuktyoḥ",
+     "gloss": "of-enjoyment-and-liberation",
+     "grounds": "genitive dual",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who becomes the vessel of enjoyment and liberation?",
+   "premises": [
+    "one steadfast in Kula is the vessel",
+    "Kuleshanis receive that vessel"
+   ],
+   "inference": "steadfast Kaula practitioners embody both enjoyment and liberation",
+   "uncertainties": [
+    "kuleśāni referent"
+   ],
+   "plain_english": "Steadfast in Kula, he is the vessel of enjoyment and liberation for the Kuleshanis."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "so'pi",
+     "gloss": "he-too",
+     "grounds": "sandhi of saḥ api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadgatim",
+     "gloss": "good-state",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "attains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kimutāsya",
+     "gloss": "how-much-more-his",
+     "grounds": "compound with kim uta asya",
+     "morph": "compound"
+    },
+    {
+     "surface": "parāyaṇaḥ",
+     "gloss": "devoted-follower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What greater result follows for the devoted follower?",
+   "premises": [
+    "even he attains good state",
+    "the devoted follower attains more"
+   ],
+   "inference": "devotion to the Kaula path brings superior attainment",
+   "uncertainties": [
+    "kimutāsya segmentation"
+   ],
+   "plain_english": "He too attains a good state; how much more his devoted follower."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjayatyāśu",
+     "gloss": "quickly-worships",
+     "grounds": "verb with āśu",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Why should one not abandon the guru?",
+   "premises": [
+    "the worshipped guru quickly worships in return",
+    "therefore one should not abandon him"
+   ],
+   "inference": "reciprocal worship makes abandonment improper",
+   "uncertainties": [
+    "āśu attachment"
+   ],
+   "plain_english": "Worshipped, he quickly worships; therefore do not abandon him."
+  }
+ ]
+}

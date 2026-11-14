@@ -1,0 +1,999 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 2976,
+   "rows": [
+    {
+     "surface": "pādamadhyapradeśinyāṃ",
+     "gloss": "at-foot-middle-forefinger",
+     "grounds": "compound locative indicating the region of the middle forefinger of the foot",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative referring to the middle point",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralambayet",
+     "gloss": "one-should-let-hang",
+     "grounds": "optative prescribing suspension of the cord",
+     "morph": "3.sg.opt.act, pra-√lamb"
+    }
+   ],
+   "question": "At which point on the foot should the measuring cord be suspended?",
+   "premises": [
+    "The reference point is the middle forefinger region of the foot.",
+    "The suspension is specified at the middle of that region.",
+    "The action prescribed is letting the cord hang down."
+   ],
+   "inference": "The cord must be suspended at the middle of the forefinger region of the foot.",
+   "uncertainties": [],
+   "plain_english": "One should let the cord hang down at the middle of the forefinger region of the foot."
+  },
+  {
+   "verse": 2977,
+   "rows": [
+    {
+     "surface": "akṣamadhye",
+     "gloss": "at-axle-middle",
+     "grounds": "compound locative indicating the middle of the axle or central axis",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kaṭī",
+     "gloss": "hip",
+     "grounds": "the hip region as subject of placement",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "at-side",
+     "grounds": "locative indicating the side region",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating the middle point",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lambayet",
+     "gloss": "one-should-hang",
+     "grounds": "optative prescribing suspension or alignment",
+     "morph": "3.sg.opt.act, √lamb"
+    }
+   ],
+   "question": "How should the hip be aligned with respect to the axle middle and the side?",
+   "premises": [
+    "The axle middle is a reference point for alignment.",
+    "The side and its middle are also reference points.",
+    "The hip must be positioned by hanging or aligning the cord accordingly."
+   ],
+   "inference": "The hip should be aligned by suspending the cord at the axle middle and at the middle of the side.",
+   "uncertainties": [
+    "akṣa may refer to axle, axis, or eye depending on context"
+   ],
+   "plain_english": "One should align the hip at the middle of the axle and also at the middle of the side."
+  },
+  {
+   "verse": 2978,
+   "rows": [
+    {
+     "surface": "aparasūtrāttu",
+     "gloss": "from-rear-cord-but",
+     "grounds": "ablative compound with particle indicating measurement from the rear cord",
+     "morph": "abl.sg.n + (indecl.)"
+    },
+    {
+     "surface": "maulyagraṃ",
+     "gloss": "crown-tip",
+     "grounds": "the tip of the crown or head",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "the middle measure or position",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ṣaṇmātram",
+     "gloss": "six-measures",
+     "grounds": "a quantity of six units of measure",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive verb indicating traditional prescription",
+     "morph": "3.sg.pres.pass, √vac"
+    }
+   ],
+   "question": "What measurement defines the middle crown tip from the rear cord?",
+   "premises": [
+    "The measurement is taken from the rear cord.",
+    "The point measured is the middle crown tip.",
+    "The prescribed quantity is six measures."
+   ],
+   "inference": "The middle crown tip is stated to be six measures from the rear cord.",
+   "uncertainties": [
+    "mātra unit may refer to aṅgula or another standard measure"
+   ],
+   "plain_english": "From the rear cord, the middle crown tip is stated to be six measures."
+  },
+  {
+   "verse": 2979,
+   "rows": [
+    {
+     "surface": "aparasūtrācchiraḥ",
+     "gloss": "from-rear-cord-head",
+     "grounds": "ablative compound with head as the measured part",
+     "morph": "abl.sg.n + nom.sg.n"
+    },
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "the back surface of the body",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pādonaṃ",
+     "gloss": "quarter-less",
+     "grounds": "diminished by one quarter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugāṃgulam",
+     "gloss": "two-fingers",
+     "grounds": "a measure of two finger-units",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What distance separates the back of the head from the rear cord?",
+   "premises": [
+    "The measurement is taken from the rear cord.",
+    "The measured part is the back of the head.",
+    "The distance is two finger-units less by a quarter."
+   ],
+   "inference": "The back of the head is two finger-units less a quarter from the rear cord.",
+   "uncertainties": [],
+   "plain_english": "From the rear cord, the back of the head is two finger-units less by a quarter."
+  },
+  {
+   "verse": 2980,
+   "rows": [
+    {
+     "surface": "kṛkāṭikāparasūtraṃ",
+     "gloss": "nape-rear-cord",
+     "grounds": "compound indicating the rear cord at the nape of the neck",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavonāgnyaṃgulāntaram",
+     "gloss": "barley-less-three-finger-interval",
+     "grounds": "compound expressing an interval of three finger-units less one barley grain",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What interval is prescribed for the rear cord at the nape of the neck?",
+   "premises": [
+    "The reference is the rear cord at the nape.",
+    "The interval is measured in finger-units and barley grains.",
+    "The specified amount is three finger-units less one barley grain."
+   ],
+   "inference": "The rear cord at the nape should be at an interval of three finger-units less one barley grain.",
+   "uncertainties": [
+    "agni as three is inferred from numerical convention"
+   ],
+   "plain_english": "The rear cord at the nape is at an interval of three finger-units less one barley grain."
+  },
+  {
+   "verse": 2981,
+   "rows": [
+    {
+     "surface": "kakuthoparasūtrā",
+     "gloss": "shoulder-hump-rear-cord",
+     "grounds": "compound indicating the rear cord at the shoulder hump",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśaṃ",
+     "gloss": "sixteen",
+     "grounds": "numerical measure",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavāntaram",
+     "gloss": "barley-interval",
+     "grounds": "interval measured in barley grains",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What interval is specified for the rear cord at the shoulder hump?",
+   "premises": [
+    "The reference is the rear cord at the shoulder hump.",
+    "The interval is expressed in barley grains.",
+    "The prescribed quantity is sixteen barley grains."
+   ],
+   "inference": "The rear cord at the shoulder hump is at an interval of sixteen barley grains.",
+   "uncertainties": [],
+   "plain_english": "The rear cord at the shoulder hump is at an interval of sixteen barley grains."
+  },
+  {
+   "verse": 2982,
+   "rows": [
+    {
+     "surface": "kakunmadhyātparasūtrādyantaraṃ",
+     "gloss": "from-hump-middle-to-rear-cord-interval",
+     "grounds": "compound expressing the interval from the middle of the hump to the rear cord",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "manuyavārdhakam",
+     "gloss": "fourteen-barley-half",
+     "grounds": "a measure of fourteen and a half barley grains",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What interval lies between the middle of the hump and the rear cord?",
+   "premises": [
+    "The measurement runs from the middle of the hump to the rear cord.",
+    "The interval is measured in barley grains.",
+    "The prescribed amount is fourteen and a half barley grains."
+   ],
+   "inference": "The interval from the middle of the hump to the rear cord is fourteen and a half barley grains.",
+   "uncertainties": [
+    "manu as fourteen is inferred from numerical convention"
+   ],
+   "plain_english": "The interval from the middle of the hump to the rear cord is fourteen and a half barley grains."
+  },
+  {
+   "verse": 2983,
+   "rows": [
+    {
+     "surface": "vaṃśanimnāparaṃ",
+     "gloss": "spine-hollow-rear",
+     "grounds": "compound indicating the rear point at the hollow of the spine",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "cord",
+     "grounds": "the measuring cord",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pādona",
+     "gloss": "quarter-less",
+     "grounds": "diminished by one quarter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dvyaṃśakāntaram",
+     "gloss": "two-part-interval",
+     "grounds": "an interval of two parts less a quarter",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What interval is prescribed for the rear cord at the hollow of the spine?",
+   "premises": [
+    "The reference is the rear cord at the hollow of the spine.",
+    "The interval is measured in parts.",
+    "The amount is two parts less by a quarter."
+   ],
+   "inference": "The rear cord at the hollow of the spine is at an interval of two parts less a quarter.",
+   "uncertainties": [
+    "aṃśaka unit may refer to a specific subdivision of aṅgula"
+   ],
+   "plain_english": "The rear cord at the hollow of the spine is at an interval of two parts less by a quarter."
+  },
+  {
+   "verse": 2984,
+   "rows": [
+    {
+     "surface": "nābhisūtrasame",
+     "gloss": "at-navel-cord-level",
+     "grounds": "compound locative indicating the level of the navel cord",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "at-back",
+     "grounds": "locative indicating the back region",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sārdhapakṣāṃgulaṃ",
+     "gloss": "with-half-two-fingers",
+     "grounds": "a measure of two and a half finger-units",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.opt.act, √bhū"
+    }
+   ],
+   "question": "What measurement should the back have at the level of the navel cord?",
+   "premises": [
+    "The reference level is that of the navel cord.",
+    "The location measured is the back.",
+    "The prescribed measure is two and a half finger-units."
+   ],
+   "inference": "At the level of the navel cord, the back should measure two and a half finger-units.",
+   "uncertainties": [
+    "pakṣa as two is inferred from numerical convention"
+   ],
+   "plain_english": "At the level of the navel cord, the back should be two and a half finger-units."
+  },
+  {
+   "verse": 2985,
+   "rows": [
+    {
+     "surface": "tatsame",
+     "gloss": "at-that-level",
+     "grounds": "compound locative indicating the same level as before",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tvapare",
+     "gloss": "but-at-rear",
+     "grounds": "particle with locative indicating the rear side",
+     "morph": "(indecl.) + loc.sg.n"
+    },
+    {
+     "surface": "sūtrāt",
+     "gloss": "from-cord",
+     "grounds": "ablative indicating measurement from the cord",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "the distance or interval",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sārdhamātrakam",
+     "gloss": "with-half-measure",
+     "grounds": "a measure of one and a half units",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What interval is prescribed from the cord at that same rear level?",
+   "premises": [
+    "The reference is the same level as previously stated.",
+    "The measurement is taken from the cord at the rear.",
+    "The interval is one and a half measures."
+   ],
+   "inference": "At that same level on the rear side, the interval from the cord is one and a half measures.",
+   "uncertainties": [],
+   "plain_english": "At that same level on the rear side, the interval from the cord is one and a half measures."
+  },
+  {
+   "verse": 2986,
+   "rows": [
+    {
+     "surface": "jaṃghāmadhye",
+     "gloss": "at-calf-middle",
+     "grounds": "compound locative indicating the middle of the calf",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nalakā",
+     "gloss": "reed-stalk",
+     "grounds": "the reed-like part, possibly shin or hollow stalk region",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating the middle point",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purogatam",
+     "gloss": "gone-forward",
+     "grounds": "positioned toward the front",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How is the forward position determined at the middle of the calf and reed-stalk?",
+   "premises": [
+    "The middle of the calf is a reference location.",
+    "The middle of the reed-stalk is another reference location.",
+    "The position is directed forward at these points."
+   ],
+   "inference": "At the middle of the calf and the middle of the reed-stalk, the position is set forward.",
+   "uncertainties": [
+    "nalakā may refer to a specific anatomical part of the leg"
+   ],
+   "plain_english": "At the middle of the calf and at the middle of the reed-stalk, it goes forward."
+  },
+  {
+   "verse": 2987,
+   "rows": [
+    {
+     "surface": "tattatsthāne",
+     "gloss": "at-each-respective-place",
+     "grounds": "compound locative indicating each specific location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pare",
+     "gloss": "at-rear",
+     "grounds": "locative indicating the rear side",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiryak",
+     "gloss": "crosswise",
+     "grounds": "adverb indicating transverse direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "cord",
+     "grounds": "the measuring cord",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing the placement of the cord",
+     "morph": "3.sg.opt.act, pra-√kḷp"
+    }
+   ],
+   "question": "How should the measuring cord be arranged at each respective rear location?",
+   "premises": [
+    "Each respective place requires a specific arrangement.",
+    "The rear side is included in this arrangement.",
+    "The cord must be placed crosswise."
+   ],
+   "inference": "At each respective place and at the rear, one should arrange the cord crosswise.",
+   "uncertainties": [],
+   "plain_english": "At each respective place and at the rear, one should arrange the cord crosswise."
+  },
+  {
+   "verse": 2988,
+   "rows": [
+    {
+     "surface": "tatraivāparasūtrāntaṃ",
+     "gloss": "there-only-rear-cord-end",
+     "grounds": "compound indicating the end of the rear cord at that very place",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yavona",
+     "gloss": "barley-less",
+     "grounds": "diminished by one barley grain",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "caturaṃgulam",
+     "gloss": "four-fingers",
+     "grounds": "a measure of four finger-units",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What measurement defines the rear cord end at that specific location?",
+   "premises": [
+    "The reference is the rear cord end at that very place.",
+    "The measure is expressed in finger-units and barley grains.",
+    "The amount is four finger-units less one barley grain."
+   ],
+   "inference": "At that place, the rear cord end is four finger-units less one barley grain.",
+   "uncertainties": [],
+   "plain_english": "At that very place, the rear cord end is four finger-units less one barley grain."
+  },
+  {
+   "verse": 2989,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "locative adverb with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parasūtrāntāt",
+     "gloss": "from-rear-cord-end",
+     "grounds": "ablative indicating measurement from the rear cord end",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "pādo",
+     "gloss": "quarter",
+     "grounds": "one quarter unit",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle used in subtractive measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcamātrakam",
+     "gloss": "five-measures",
+     "grounds": "a quantity of five units of measure",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What measurement is taken from the rear cord end at that same location?",
+   "premises": [
+    "The measurement is taken at that very place.",
+    "The reference point is the rear cord end.",
+    "The amount is five measures less a quarter."
+   ],
+   "inference": "At that place, the measurement from the rear cord end is five measures less a quarter.",
+   "uncertainties": [
+    "pādo na interpreted as subtractive quarter; exact syntax slightly ambiguous"
+   ],
+   "plain_english": "At that very place, from the rear cord end, it is five measures less a quarter."
+  },
+  {
+   "verse": 2990,
+   "rows": [
+    {
+     "surface": "tatraivāparasūtrāntaṃ",
+     "gloss": "there-only-rear-cord-end",
+     "grounds": "compound indicating the end of the rear cord at that very place",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ṣaḍviṃśati",
+     "gloss": "twenty-six",
+     "grounds": "numerical quantity",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yavaṃ",
+     "gloss": "barley-grains",
+     "grounds": "unit of measure in barley grains",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.opt.act, √bhū"
+    }
+   ],
+   "question": "How many barley grains define the rear cord end at that location?",
+   "premises": [
+    "The reference is the rear cord end at that very place.",
+    "The unit of measurement is barley grains.",
+    "The prescribed quantity is twenty-six."
+   ],
+   "inference": "At that place, the rear cord end should be twenty-six barley grains.",
+   "uncertainties": [],
+   "plain_english": "At that very place, the rear cord end should be twenty-six barley grains."
+  },
+  {
+   "verse": 2991,
+   "rows": [
+    {
+     "surface": "nalakāparasūtrāntaṃ",
+     "gloss": "reed-stalk-rear-cord-end",
+     "grounds": "compound indicating the rear cord end at the reed-stalk",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pādona",
+     "gloss": "quarter-less",
+     "grounds": "diminished by one quarter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paṃcamātrakam",
+     "gloss": "five-measures",
+     "grounds": "a quantity of five units of measure",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What measurement defines the rear cord end at the reed-stalk region?",
+   "premises": [
+    "The reference is the rear cord end at the reed-stalk.",
+    "The measure is expressed in standard units.",
+    "The amount is five measures less a quarter."
+   ],
+   "inference": "The rear cord end at the reed-stalk is five measures less a quarter.",
+   "uncertainties": [],
+   "plain_english": "The rear cord end at the reed-stalk is five measures less a quarter."
+  },
+  {
+   "verse": 2992,
+   "rows": [
+    {
+     "surface": "tatsūtrātpārṣṇiparyantaṃ",
+     "gloss": "from-that-cord-to-heel-limit",
+     "grounds": "compound expressing the extent from that cord to the heel",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sārdhamanvaṃśamiṣyate",
+     "gloss": "with-half-fourteen-part-is-desired",
+     "grounds": "compound with verb indicating a prescribed measure of fourteen and a half parts",
+     "morph": "nom.sg.n + 3.sg.pres.pass, √iṣ"
+    }
+   ],
+   "question": "What extent is prescribed from that cord to the heel?",
+   "premises": [
+    "The measurement runs from that cord to the heel.",
+    "The extent is measured in parts.",
+    "The prescribed amount is fourteen and a half parts."
+   ],
+   "inference": "From that cord to the heel, the extent is prescribed as fourteen and a half parts.",
+   "uncertainties": [
+    "manu as fourteen and aṃśa as part are inferred from numerical convention"
+   ],
+   "plain_english": "From that cord to the heel, the extent is desired to be fourteen and a half parts."
+  },
+  {
+   "verse": 2993,
+   "rows": [
+    {
+     "surface": "tatkāyamadhyasūtrāttu",
+     "gloss": "from-that-body-middle-cord-but",
+     "grounds": "ablative compound indicating measurement from the middle cord of the body",
+     "morph": "abl.sg.n + (indecl.)"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "the head region",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "the back surface",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yugārdhakam",
+     "gloss": "pair-half",
+     "grounds": "half of a pair, indicating one unit",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What distance separates the back of the head from the body's middle cord?",
+   "premises": [
+    "The measurement is taken from the middle cord of the body.",
+    "The measured part is the back of the head.",
+    "The prescribed distance is half a pair."
+   ],
+   "inference": "From the body's middle cord, the back of the head is at a distance of half a pair.",
+   "uncertainties": [
+    "yugārdhaka interpreted as one unit; exact value depends on convention"
+   ],
+   "plain_english": "From the middle cord of the body, the back of the head is one unit."
+  },
+  {
+   "verse": 2994,
+   "rows": [
+    {
+     "surface": "uromadhyapradeśe",
+     "gloss": "at-chest-middle-region",
+     "grounds": "compound locative indicating the middle region of the chest",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "at-back",
+     "grounds": "locative indicating the back region",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sārdha",
+     "gloss": "with-half",
+     "grounds": "indicating an additional half unit",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ṣaḍaṃgulam",
+     "gloss": "six-fingers",
+     "grounds": "a measure of six finger-units",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What measurement is prescribed for the back at the middle of the chest?",
+   "premises": [
+    "The reference region is the middle of the chest.",
+    "The location measured is the back.",
+    "The prescribed measure is six and a half finger-units."
+   ],
+   "inference": "At the middle of the chest, the back should measure six and a half finger-units.",
+   "uncertainties": [],
+   "plain_english": "At the middle region of the chest, the back is six and a half finger-units."
+  },
+  {
+   "verse": 2995,
+   "rows": [
+    {
+     "surface": "nābhipradeśe",
+     "gloss": "at-navel-region",
+     "grounds": "compound locative indicating the navel region",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "at-back",
+     "grounds": "locative indicating the back region",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhabhūtāṃgulaṃ",
+     "gloss": "with-half-five-fingers",
+     "grounds": "a measure of five and a half finger-units",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.opt.act, √bhū"
+    }
+   ],
+   "question": "What measurement should the back have at the navel region?",
+   "premises": [
+    "The reference region is the navel.",
+    "The location measured is the back.",
+    "The prescribed measure is five and a half finger-units."
+   ],
+   "inference": "At the navel region, the back should measure five and a half finger-units.",
+   "uncertainties": [
+    "bhūta as five is inferred from numerical convention"
+   ],
+   "plain_english": "At the navel region, the back should be five and a half finger-units."
+  },
+  {
+   "verse": 2996,
+   "rows": [
+    {
+     "surface": "ūrumadhyāparaṃ",
+     "gloss": "thigh-middle-rear",
+     "grounds": "compound indicating the rear at the middle of the thigh",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vedajānu",
+     "gloss": "four-knee",
+     "grounds": "compound indicating four units at the knee region",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "the back surface",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise-also",
+     "grounds": "adverb indicating similarity with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurements apply to the rear at the middle of the thigh and the knee?",
+   "premises": [
+    "The rear at the middle of the thigh is a reference point.",
+    "The knee region is given a measure of four units.",
+    "The back is measured likewise at these points."
+   ],
+   "inference": "The rear at the middle of the thigh and the knee back are likewise measured as four units.",
+   "uncertainties": [
+    "veda as four is inferred; exact syntactic relation between elements is compressed"
+   ],
+   "plain_english": "At the rear of the middle of the thigh and at the knee, the back is likewise four units."
+  },
+  {
+   "verse": 2997,
+   "rows": [
+    {
+     "surface": "pārśvasūtrau",
+     "gloss": "two-side-cords",
+     "grounds": "the cords on both sides",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyasthaṃ",
+     "gloss": "standing-in-middle",
+     "grounds": "located in the middle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "samasūtre",
+     "gloss": "at-equal-cord",
+     "grounds": "locative indicating alignment with the equal cord",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitāḥ",
+     "gloss": "situated",
+     "grounds": "positioned or established",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "How are the side cords positioned relative to the middle and the equal cord?",
+   "premises": [
+    "There are two side cords as reference elements.",
+    "A middle position is specified.",
+    "The cords are situated in alignment with the equal cord."
+   ],
+   "inference": "The side cords are situated in the middle in alignment with the equal cord.",
+   "uncertainties": [
+    "gender agreement of saṃsthitāḥ with neuter subjects is contextually flexible"
+   ],
+   "plain_english": "The two side cords are situated in the middle, aligned with the equal cord."
+  },
+  {
+   "verse": 2998,
+   "rows": [
+    {
+     "surface": "tatsūtrādapare",
+     "gloss": "from-that-cord-to-rear",
+     "grounds": "compound indicating the direction from that cord to the rear",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bāhu",
+     "gloss": "arm",
+     "grounds": "the arm region",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paryantaṃ",
+     "gloss": "up-to-limit",
+     "grounds": "extending to the boundary",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vasumātrakam",
+     "gloss": "eight-measures",
+     "grounds": "a quantity of eight units of measure",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What extent is prescribed from that cord to the limit of the arm?",
+   "premises": [
+    "The measurement starts from that cord toward the rear.",
+    "The extent reaches the limit of the arm.",
+    "The prescribed measure is eight units."
+   ],
+   "inference": "From that cord to the limit of the arm, the extent is eight measures.",
+   "uncertainties": [
+    "vasu as eight is inferred from numerical convention"
+   ],
+   "plain_english": "From that cord to the limit of the arm, it is eight measures."
+  },
+  {
+   "verse": 2999,
+   "rows": [
+    {
+     "surface": "tatkare",
+     "gloss": "at-that-hand",
+     "grounds": "compound locative indicating that hand region",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bāhyavistṛtau",
+     "gloss": "at-outer-extension",
+     "grounds": "locative indicating the outer breadth or extension",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "caturaṃgulamiṣyate",
+     "gloss": "four-fingers-is-desired",
+     "grounds": "compound with verb indicating a prescribed measure of four finger-units",
+     "morph": "nom.sg.n + 3.sg.pres.pass, √iṣ"
+    }
+   ],
+   "question": "What outer extension is prescribed for that hand region?",
+   "premises": [
+    "The reference is that hand region.",
+    "The measurement concerns the outer extension.",
+    "The prescribed measure is four finger-units."
+   ],
+   "inference": "At that hand, the outer extension is prescribed as four finger-units.",
+   "uncertainties": [],
+   "plain_english": "At that hand, the outer extension is desired to be four finger-units."
+  }
+ ]
+}

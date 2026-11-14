@@ -1,0 +1,971 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2876,
+   "rows": [
+    {
+     "surface": "korparaṃ",
+     "gloss": "elbow",
+     "grounds": "measurement point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śroṇi",
+     "gloss": "hip",
+     "grounds": "measurement point",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pārśvāt",
+     "gloss": "from-side",
+     "grounds": "starting point of measure",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcaṣaṭsaptamātrakam",
+     "gloss": "five-six-seven-measures",
+     "grounds": "compound specifying measure range",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What range of measures defines the distance from side to elbow or hip?",
+   "premises": [
+    "The elbow is a specified measurement point.",
+    "The hip is a specified measurement point.",
+    "The distance from the side is five, six, or seven measures."
+   ],
+   "inference": "The side-to-elbow or side-to-hip distance may be five, six, or seven measures.",
+   "uncertainties": [],
+   "plain_english": "From the side, the distance to the elbow or the hip is five, six, or seven measures."
+  },
+  {
+   "verse": 2877,
+   "rows": [
+    {
+     "surface": "meḍhramūlāt",
+     "gloss": "from-genital-root",
+     "grounds": "starting point of measure",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmāṃghri",
+     "gloss": "left-foot",
+     "grounds": "compound specifying limb",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "gulphamadhyaṃ",
+     "gloss": "ankle-middle",
+     "grounds": "endpoint of measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "rasāṃgulam",
+     "gloss": "six-finger-measures",
+     "grounds": "measure using rasa as six",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What measure is prescribed from the genital root to the middle of the left ankle?",
+   "premises": [
+    "The starting point is the root of the genitals.",
+    "The endpoint is the middle of the left ankle.",
+    "The prescribed distance is six finger-measures."
+   ],
+   "inference": "The distance from the genital root to the middle of the left ankle is six finger-measures.",
+   "uncertainties": [
+    "rasāṃgulam interpreted as six finger-measures based on traditional numeric value of rasa"
+   ],
+   "plain_english": "From the root of the genitals to the middle of the left ankle, the measure is six finger-breadths."
+  },
+  {
+   "verse": 2878,
+   "rows": [
+    {
+     "surface": "nābhimadhyāt",
+     "gloss": "from-navel-middle",
+     "grounds": "starting point of measure",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmāṃghrinalakā",
+     "gloss": "left-foot-nail",
+     "grounds": "compound specifying endpoint region",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "endpoint of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "numeric measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is prescribed from the navel middle to the middle of the left foot nail?",
+   "premises": [
+    "The starting point is the middle of the navel.",
+    "The endpoint is the middle of the left foot nail.",
+    "The prescribed distance is fourteen measures."
+   ],
+   "inference": "The distance from the navel middle to the middle of the left foot nail is fourteen measures.",
+   "uncertainties": [],
+   "plain_english": "From the middle of the navel to the middle of the left foot's nail, the measure is fourteen."
+  },
+  {
+   "verse": 2879,
+   "rows": [
+    {
+     "surface": "maulyagraṃ",
+     "gloss": "crown-tip",
+     "grounds": "reference point",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "madhyamātsūtrāt",
+     "gloss": "from-middle-thread",
+     "grounds": "starting reference line",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "dvantaraṃ",
+     "gloss": "interval",
+     "grounds": "distance between points",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "manu",
+     "gloss": "fourteen",
+     "grounds": "numeric measure using manu as fourteen",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātrakam",
+     "gloss": "measures",
+     "grounds": "unit of measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What interval in measures is specified between the crown tip and the middle thread?",
+   "premises": [
+    "The reference points are the crown tip and the middle thread.",
+    "The interval between them is measured.",
+    "The prescribed interval is fourteen measures."
+   ],
+   "inference": "The interval from the middle thread to the crown tip is fourteen measures.",
+   "uncertainties": [
+    "manu interpreted as fourteen based on traditional numeric value"
+   ],
+   "plain_english": "The interval from the middle thread to the tip of the crown is fourteen measures."
+  },
+  {
+   "verse": 2880,
+   "rows": [
+    {
+     "surface": "ṛjvāgataṃ",
+     "gloss": "straight-arrived",
+     "grounds": "posture description",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "sukhāsīnaṃ",
+     "gloss": "comfortably-seated",
+     "grounds": "posture description",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "pravālasadṛśaṃ",
+     "gloss": "coral-like",
+     "grounds": "color or appearance comparison",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "prabhum",
+     "gloss": "lord",
+     "grounds": "deity being described",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the posture and appearance of the lord be represented?",
+   "premises": [
+    "The lord is to be depicted straight.",
+    "The lord is to be depicted comfortably seated.",
+    "The lord is to be depicted coral-like in appearance."
+   ],
+   "inference": "The lord should be represented as straight, comfortably seated, and coral-like.",
+   "uncertainties": [],
+   "plain_english": "The lord should be depicted upright, comfortably seated, and resembling coral in color."
+  },
+  {
+   "verse": 2881,
+   "rows": [
+    {
+     "surface": "vyāghrājināmbaradharaṃ",
+     "gloss": "tiger-skin-garment-wearing",
+     "grounds": "compound describing attire",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "dukūlavasanānvitam",
+     "gloss": "fine-cloth-garment-endowed",
+     "grounds": "compound describing attire",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What garments should the lord be depicted as wearing?",
+   "premises": [
+    "The lord wears a tiger-skin garment.",
+    "The lord is also endowed with fine cloth garments."
+   ],
+   "inference": "The lord should be depicted wearing both tiger skin and fine cloth.",
+   "uncertainties": [],
+   "plain_english": "He should be shown wearing a tiger-skin garment and also clad in fine cloth."
+  },
+  {
+   "verse": 2882,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "object held",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black-antelope",
+     "grounds": "object held",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "action of placing",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "karadvaye",
+     "gloss": "in-two-hands",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "What objects should be placed in the lord's two hands?",
+   "premises": [
+    "An axe is to be placed in the right hand.",
+    "A black antelope skin is to be placed in the left hand.",
+    "Both are placed in the two hands."
+   ],
+   "inference": "The lord should hold an axe in the right hand and a black antelope skin in the left.",
+   "uncertainties": [
+    "kṛṣṇaṃ interpreted as black antelope skin in this iconographic context"
+   ],
+   "plain_english": "Place an axe in the right hand and a black antelope skin in the left hand."
+  },
+  {
+   "verse": 2883,
+   "rows": [
+    {
+     "surface": "vāmakarṇe",
+     "gloss": "in-left-ear",
+     "grounds": "location",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śaṃkhapatraṃ",
+     "gloss": "conch-leaf-ornament",
+     "grounds": "ornament to be placed",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-act √dhā (causative)"
+    }
+   ],
+   "question": "What ornament should be placed especially in the lord's left ear?",
+   "premises": [
+    "The location specified is the left ear.",
+    "The ornament specified is a conch-leaf ornament.",
+    "It should be placed there especially."
+   ],
+   "inference": "A conch-leaf ornament should be placed especially in the left ear.",
+   "uncertainties": [],
+   "plain_english": "One should especially place a conch-leaf ornament in the left ear."
+  },
+  {
+   "verse": 2884,
+   "rows": [
+    {
+     "surface": "karṇanāla",
+     "gloss": "ear-hole",
+     "grounds": "location reference",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "indeed-thus",
+     "grounds": "emphatic particle combination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "measure multiplier",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "patravistṛtam",
+     "gloss": "leaf-spread",
+     "grounds": "extent of ornament",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How wide should the ear ornament spread relative to the ear hole?",
+   "premises": [
+    "The ear hole is the reference point.",
+    "The leaf ornament has a spread.",
+    "The spread is threefold."
+   ],
+   "inference": "The leaf ornament should spread to three times the ear hole.",
+   "uncertainties": [],
+   "plain_english": "The spread of the leaf ornament should indeed be three times that of the ear hole."
+  },
+  {
+   "verse": 2885,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "makarākhyaṃ",
+     "gloss": "makara-named",
+     "grounds": "type of earring",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍalaṃ",
+     "gloss": "earring",
+     "grounds": "ornament",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "siṃhameva",
+     "gloss": "lion-indeed",
+     "grounds": "alternative ornament type",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What type of earring is prescribed for the right ear?",
+   "premises": [
+    "The right ear is the specified location.",
+    "A makara-shaped earring may be used.",
+    "Alternatively, a lion-shaped earring may be used."
+   ],
+   "inference": "The right ear should have either a makara-shaped or a lion-shaped earring.",
+   "uncertainties": [],
+   "plain_english": "In the right ear, one should place an earring shaped like a makara, or else like a lion."
+  },
+  {
+   "verse": 2886,
+   "rows": [
+    {
+     "surface": "yuktaṃ",
+     "gloss": "fitting",
+     "grounds": "properly made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍalaṃ",
+     "gloss": "earring",
+     "grounds": "ornament",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "action of making",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "skandhoparinyaset",
+     "gloss": "should-place-above-shoulder",
+     "grounds": "injunction for placement",
+     "morph": "3.sg.optative-act √as (with prefixes)"
+    }
+   ],
+   "question": "How should the properly made earring be positioned on the body?",
+   "premises": [
+    "A fitting earring is to be made.",
+    "It is placed in the ear.",
+    "It should extend above the shoulder."
+   ],
+   "inference": "After making a fitting earring, it should be placed in the ear so that it rests above the shoulder.",
+   "uncertainties": [],
+   "plain_english": "Having made a proper earring, one should place it in the ear so that it extends above the shoulder."
+  },
+  {
+   "verse": 2887,
+   "rows": [
+    {
+     "surface": "vṛttakuṇḍalavistāraṃ",
+     "gloss": "round-earring-width",
+     "grounds": "dimension of ornament",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "aṣṭādaśayavaṃ",
+     "gloss": "eighteen-yava",
+     "grounds": "measure in yava units",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What width is prescribed for the round earring?",
+   "premises": [
+    "The ornament is a round earring.",
+    "Its width is specified.",
+    "The width should be eighteen yava units."
+   ],
+   "inference": "The width of the round earring should be eighteen yava.",
+   "uncertainties": [],
+   "plain_english": "The width of the round earring should be eighteen yava."
+  },
+  {
+   "verse": 2888,
+   "rows": [
+    {
+     "surface": "anyaṃ",
+     "gloss": "another",
+     "grounds": "alternative option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sundaropetaṃ",
+     "gloss": "beauty-endowed",
+     "grounds": "quality of ornament",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "kalpayed",
+     "gloss": "one-should-fashion",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-act √kḷp (causative)"
+    },
+    {
+     "surface": "vṛttakuṇḍalam",
+     "gloss": "round-earring",
+     "grounds": "ornament",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What alternative form of round earring may be fashioned?",
+   "premises": [
+    "An alternative earring is permitted.",
+    "It should be endowed with beauty.",
+    "It should be fashioned as a round earring."
+   ],
+   "inference": "Alternatively, one may fashion another beautiful round earring.",
+   "uncertainties": [],
+   "plain_english": "Or one may fashion another beautiful round earring."
+  },
+  {
+   "verse": 2889,
+   "rows": [
+    {
+     "surface": "makuṭasyodayaṃ",
+     "gloss": "of-crown-height",
+     "grounds": "dimension of crown",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brahmin",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "caturviṃśāṃgulaṃ",
+     "gloss": "twenty-four-finger-measures",
+     "grounds": "measure of height",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What height is prescribed for the crown of the deity?",
+   "premises": [
+    "The crown's height is being specified.",
+    "The measure is given in finger-breadths.",
+    "The height should be twenty-four finger-measures."
+   ],
+   "inference": "The height of the crown should be twenty-four finger-measures.",
+   "uncertainties": [],
+   "plain_english": "O brahmin, the height of the crown should be twenty-four finger-breadths."
+  },
+  {
+   "verse": 2890,
+   "rows": [
+    {
+     "surface": "keśāntānmakuṭoccaṃ",
+     "gloss": "from-hair-end-crown-height",
+     "grounds": "compound specifying crown height from hairline",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lalāṭapaṭṭasaṃyutam",
+     "gloss": "forehead-band-joined",
+     "grounds": "compound describing crown feature",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "From what point and with what feature should the crown's height be measured?",
+   "premises": [
+    "The crown's height is measured from the hairline.",
+    "The crown is joined with a forehead band."
+   ],
+   "inference": "The crown's height extends from the hairline and includes a forehead band.",
+   "uncertainties": [],
+   "plain_english": "The crown's height is measured from the end of the hair and is joined with a forehead band."
+  },
+  {
+   "verse": 2891,
+   "rows": [
+    {
+     "surface": "tatsaptāṣṭa navāṃśaikaṃ",
+     "gloss": "that-seven-eight-nine-part-one",
+     "grounds": "compound indicating fractional reduction",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "hīnamagraviśālakam",
+     "gloss": "less-at-top-width",
+     "grounds": "compound describing reduced top width",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How much narrower should the crown be at its top?",
+   "premises": [
+    "The crown's top width is reduced.",
+    "The reduction is by one part in seven, eight, or nine."
+   ],
+   "inference": "The crown should be narrower at the top by one-seventh, one-eighth, or one-ninth.",
+   "uncertainties": [
+    "exact parsing of fractional reduction is context-dependent"
+   ],
+   "plain_english": "Its width at the top should be less by one part out of seven, eight, or nine."
+  },
+  {
+   "verse": 2892,
+   "rows": [
+    {
+     "surface": "kaṭisūtraṃ",
+     "gloss": "waist-thread",
+     "grounds": "garment or ornament",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "trisaṃkhyābhiḥ",
+     "gloss": "with-three-numbered",
+     "grounds": "specifying number of threads",
+     "morph": "f.ins.pl (compound)"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratiyavaṃ",
+     "gloss": "per-yava",
+     "grounds": "measure per unit",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "ghanam",
+     "gloss": "thick",
+     "grounds": "thickness",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What thickness and composition are prescribed for the waist thread?",
+   "premises": [
+    "The waist thread consists of three threads.",
+    "Each thread has a specified thickness.",
+    "The thickness is one yava per thread."
+   ],
+   "inference": "The waist thread should be made of three threads, each one yava thick.",
+   "uncertainties": [],
+   "plain_english": "The waist thread should consist of three strands, each one yava thick."
+  },
+  {
+   "verse": 2893,
+   "rows": [
+    {
+     "surface": "paṃcaṣaṭsaptamātraṃ",
+     "gloss": "five-six-seven-measures",
+     "grounds": "measure range",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛttimānanavistṛtam",
+     "gloss": "hide-measure-width-spread",
+     "grounds": "compound describing spread of hide",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What range of width is prescribed for the spread of the hide garment?",
+   "premises": [
+    "The spread of the hide garment is measured.",
+    "The width may be five, six, or seven measures."
+   ],
+   "inference": "The hide garment should be spread to a width of five, six, or seven measures.",
+   "uncertainties": [],
+   "plain_english": "The spread of the hide garment should be five, six, or seven measures wide."
+  },
+  {
+   "verse": 2894,
+   "rows": [
+    {
+     "surface": "kaṭisūtrādūrumānaṃ",
+     "gloss": "from-waist-thread-thigh-measure",
+     "grounds": "compound specifying thigh measure from waist thread",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "madhyatriṃśāvasānakam",
+     "gloss": "middle-thirty-ending",
+     "grounds": "compound indicating measure ending at thirty",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What measure is prescribed for the thigh from the waist thread?",
+   "premises": [
+    "The thigh is measured from the waist thread.",
+    "The measure ends at thirty in the middle."
+   ],
+   "inference": "The thigh measure from the waist thread should end at thirty.",
+   "uncertainties": [
+    "madhyatriṃśāvasānakam interpretation is approximate"
+   ],
+   "plain_english": "The measure of the thigh from the waist thread should extend to thirty."
+  },
+  {
+   "verse": 2895,
+   "rows": [
+    {
+     "surface": "kaṭisūtraṃ",
+     "gloss": "waist-thread",
+     "grounds": "item described",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "statement of completion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṭakaṃ",
+     "gloss": "bracelet",
+     "grounds": "ornament",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "valayaṃ",
+     "gloss": "bangle",
+     "grounds": "ornament",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative to listener",
+     "morph": "2.sg.imperative-act √śru"
+    }
+   ],
+   "question": "What transition in instruction follows the description of the waist thread?",
+   "premises": [
+    "The waist thread has been declared.",
+    "The next topics are the bracelet and bangle.",
+    "The listener is asked to hear."
+   ],
+   "inference": "After declaring the waist thread, the instruction turns to the bracelet and bangle.",
+   "uncertainties": [],
+   "plain_english": "The waist thread has been described; now hear about the bracelet and the bangle."
+  },
+  {
+   "verse": 2896,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāṃguliparīṇāhaṃ",
+     "gloss": "little-finger-circumference",
+     "grounds": "measure reference",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "valayaṃ",
+     "gloss": "bangle",
+     "grounds": "ornament",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārdavā",
+     "gloss": "half-or",
+     "grounds": "fractional measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What circumference is prescribed for the bangle relative to the little finger?",
+   "premises": [
+    "The bangle's circumference is specified.",
+    "The reference is the little finger's circumference.",
+    "The bangle is half of that."
+   ],
+   "inference": "The bangle's circumference should be half that of the little finger.",
+   "uncertainties": [
+    "ārdavā parsing uncertain; taken as indicating half"
+   ],
+   "plain_english": "The bangle should indeed have a circumference half that of the little finger."
+  },
+  {
+   "verse": 2897,
+   "rows": [
+    {
+     "surface": "racitaṃ",
+     "gloss": "made",
+     "grounds": "constructed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ratnakāṇḍaistu",
+     "gloss": "with-gem-sections",
+     "grounds": "material or decoration",
+     "morph": "n.ins.pl (compound)"
+    },
+    {
+     "surface": "prakoṣṭhe",
+     "gloss": "on-forearm",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-act √dhā (causative)"
+    }
+   ],
+   "question": "Where should the bangle made with gem sections be placed?",
+   "premises": [
+    "The bangle is made with gem sections.",
+    "The specified location is the forearm.",
+    "It should be placed there."
+   ],
+   "inference": "The bangle made with gem sections should be placed on the forearm.",
+   "uncertainties": [],
+   "plain_english": "One should place the bangle, made with sections of gems, on the forearm."
+  },
+  {
+   "verse": 2898,
+   "rows": [
+    {
+     "surface": "keyūraṃ",
+     "gloss": "armlet",
+     "grounds": "ornament",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "korpare",
+     "gloss": "on-elbow",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "action of placing",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "valayasya",
+     "gloss": "of-bangle",
+     "grounds": "comparison reference",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ghanānvitam",
+     "gloss": "thickness-endowed",
+     "grounds": "quality of armlet",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "Where and with what thickness should the armlet be placed?",
+   "premises": [
+    "The armlet is to be placed on the elbow.",
+    "It should be endowed with thickness.",
+    "Its thickness is related to that of the bangle."
+   ],
+   "inference": "The armlet should be placed on the elbow and made as thick as the bangle.",
+   "uncertainties": [],
+   "plain_english": "Having placed the armlet on the elbow, it should be endowed with the thickness of the bangle."
+  },
+  {
+   "verse": 2899,
+   "rows": [
+    {
+     "surface": "nānāratnasamāyuktaṃ",
+     "gloss": "various-gems-endowed",
+     "grounds": "compound describing decoration",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "śaivālābham",
+     "gloss": "algae-like",
+     "grounds": "color comparison",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-else",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative decorations or appearance may the armlet have?",
+   "premises": [
+    "The armlet may be endowed with various gems.",
+    "Alternatively, it may have an algae-like appearance."
+   ],
+   "inference": "The armlet may be decorated with various gems or be algae-colored.",
+   "uncertainties": [],
+   "plain_english": "It may be adorned with various gems, or else have the appearance of algae."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "sarvasiddhim",
+     "gloss": "all-success",
+     "grounds": "compound; object of avāpnoti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "present indicative; result for the qualified śūdra",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb modifying avāpnoti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devam",
+     "gloss": "god",
+     "grounds": "object of avāpnuyāt",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "may-attain",
+     "grounds": "optative expressing further attainment",
+     "morph": "3.sg.opt.act √āp"
+    }
+   ],
+   "question": "Can a truthful and self-controlled śūdra attain all success and the deity?",
+   "premises": [
+    "The preceding condition describes a śūdra who is truthful and self-controlled.",
+    "Such a person obtains all success quickly.",
+    "Such a person may also attain the deity."
+   ],
+   "inference": "Therefore, truthfulness and self-control enable even a śūdra to attain all success and the deity.",
+   "uncertainties": [
+    "The precise distinction in force between the indicative avāpnoti and the optative avāpnuyāt is contextually inferred."
+   ],
+   "plain_english": "He quickly obtains all success and may attain the god."
+  }
+ ]
+}

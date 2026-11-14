@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "draviṇotsargasantuṣṭā",
+     "gloss": "wealth-giving-satisfied",
+     "grounds": "compound epithet: draviṇa (wealth) + utsarga (relinquishment/giving) + santuṣṭā (satisfied); describes the goddess as pleased by the offering of wealth",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "draviṇatyāgatoṣikā",
+     "gloss": "wealth-renunciation-delighting",
+     "grounds": "compound epithet: draviṇa (wealth) + tyāga (renunciation) + toṣikā (delighting/pleasing); describes the goddess as delighting in the renunciation of wealth",
+     "morph": "compound.f.nom.sg"
+    }
+   ],
+   "question": "What disposition toward wealth satisfies and delights the goddess?",
+   "premises": [
+    "The goddess is satisfied by the giving of wealth.",
+    "The goddess delights in the renunciation of wealth.",
+    "Both epithets link her pleasure to relinquishing material resources."
+   ],
+   "inference": "The goddess is pleased not by the possession of wealth but by its voluntary offering and renunciation.",
+   "uncertainties": [
+    "The precise ritual or ethical nuance distinguishing utsarga and tyāga in this context is not explicit."
+   ],
+   "plain_english": "She is satisfied by the giving of wealth and delights in its renunciation."
+  }
+ ]
+}

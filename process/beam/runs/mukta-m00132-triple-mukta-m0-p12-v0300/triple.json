@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "ānandaiḥ",
+     "gloss": "with-blisses",
+     "grounds": "instrumental plural of ānanda, indicating the means",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address to the supreme goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhaktānāṃ",
+     "gloss": "of-devotees",
+     "grounds": "genitive plural of bhakta, denoting those who receive benefit",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hita+kāriṇī",
+     "gloss": "welfare-doing",
+     "grounds": "compound of hita (welfare) and kāriṇī (doing, causing), describing the goddess",
+     "morph": "hita+welfare + kāriṇī+doer; f.nom.sg"
+    }
+   ],
+   "question": "Through what means does the supreme goddess accomplish the welfare of devotees?",
+   "premises": [
+    "The supreme goddess is directly addressed.",
+    "Devotees are the recipients of her beneficial action.",
+    "Blisses function as the means of her benefaction."
+   ],
+   "inference": "The supreme goddess accomplishes the welfare of devotees through blisses.",
+   "uncertainties": [
+    "The specific nature of the blisses (ānandaiḥ) is not further specified in this verse."
+   ],
+   "plain_english": "O supreme goddess, you bring welfare to the devotees through blisses."
+  }
+ ]
+}

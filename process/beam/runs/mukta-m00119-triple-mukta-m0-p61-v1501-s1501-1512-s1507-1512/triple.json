@@ -1,0 +1,275 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1507,
+   "rows": [
+    {
+     "surface": "dhinnamastāvidhau",
+     "gloss": "chinnamastā-rite",
+     "grounds": "fused compound naming the Chinnamastā rite",
+     "morph": "compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "narāsthimālikā",
+     "gloss": "human-bone-rosary",
+     "grounds": "compound naming the rosary of human bones",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb of correspondence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which rosary is prescribed for the Chinnamastā rite?",
+   "premises": [
+    "Chinnamastā rite is named",
+    "human bone rosary is named",
+    "likewise indicates correspondence"
+   ],
+   "inference": "The Chinnamastā rite uses a human-bone rosary.",
+   "uncertainties": [
+    "exact sandhi of dhinnamastāvidhau is not expanded"
+   ],
+   "plain_english": "For the Chinnamastā rite, O goddess, a human-bone rosary is likewise used."
+  },
+  {
+   "verse": 1508,
+   "rows": [
+    {
+     "surface": "svayambhūkusumākhyā",
+     "gloss": "self-born-flower-named",
+     "grounds": "fused compound naming the self-born flower",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavyā",
+     "gloss": "of-bhairavī",
+     "grounds": "genitive of Bhairavī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle of parikīrt",
+     "morph": "f.nom.sg.pass-part"
+    }
+   ],
+   "question": "What rosary is declared for Bhairavī?",
+   "premises": [
+    "self-born flower is named",
+    "Bhairavī is in genitive",
+    "declared states attribution"
+   ],
+   "inference": "The rosary named after the self-born flower is declared for Bhairavī.",
+   "uncertainties": [
+    "whether svayambhūkusumākhyā is a full compound or elliptical"
+   ],
+   "plain_english": "The rosary named after the self-born flower is indeed declared for Bhairavī."
+  },
+  {
+   "verse": 1509,
+   "rows": [
+    {
+     "surface": "haridrākhyā",
+     "gloss": "turmeric-named",
+     "grounds": "compound naming turmeric",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vagalāmukhyā",
+     "gloss": "of-bagalāmukhī",
+     "grounds": "genitive of Bagalāmukhī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "noun naming the rosary",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle of prakīrt",
+     "morph": "f.nom.sg.pass-part"
+    }
+   ],
+   "question": "What rosary is declared for Bagalāmukhī?",
+   "premises": [
+    "turmeric-named is given",
+    "Bagalāmukhī is in genitive",
+    "rosary is declared"
+   ],
+   "inference": "The turmeric-named rosary is declared for Bagalāmukhī.",
+   "uncertainties": [
+    "whether haridrākhyā modifies mālā directly"
+   ],
+   "plain_english": "The turmeric-named rosary is indeed declared for Bagalāmukhī."
+  },
+  {
+   "verse": 1510,
+   "rows": [
+    {
+     "surface": "anayor",
+     "gloss": "of-these-two",
+     "grounds": "genitive dual of demonstrative",
+     "morph": "pron.gen.du"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedo'",
+     "gloss": "difference",
+     "grounds": "fused form with sandhi apostrophe",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "third singular present of as",
+     "morph": "3.sg.act-pres root-as"
+    },
+    {
+     "surface": "śivaśakyor",
+     "gloss": "of-śiva-and-śakti",
+     "grounds": "fused genitive dual compound",
+     "morph": "compound.gen.du"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is there any difference between these two rosaries?",
+   "premises": [
+    "these two are in genitive dual",
+    "difference is denied",
+    "comparison is made to Śiva and Śakti"
+   ],
+   "inference": "There is no difference between these two, just as there is none between Śiva and Śakti.",
+   "uncertainties": [
+    "which two rosaries anayor refers to"
+   ],
+   "plain_english": "O beloved, there is indeed no difference between these two, just as between Śiva and Śakti."
+  },
+  {
+   "verse": 1511,
+   "rows": [
+    {
+     "surface": "bhuvaneśyāḥ",
+     "gloss": "of-bhuvaneśī",
+     "grounds": "genitive of Bhuvaneśī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sphāṭikī",
+     "gloss": "crystal",
+     "grounds": "adjective or noun naming crystal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt root-as"
+    },
+    {
+     "surface": "siddhavidyāvidhau",
+     "gloss": "accomplished-vidyā-rite",
+     "grounds": "fused compound naming the rite",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What rosary should be used in the accomplished vidyā rite of Bhuvaneśī?",
+   "premises": [
+    "Bhuvaneśī is in genitive",
+    "crystal is named",
+    "accomplished vidyā rite is named"
+   ],
+   "inference": "A crystal rosary should be used in Bhuvaneśī's accomplished vidyā rite.",
+   "uncertainties": [
+    "whether sphāṭikī is adjective or standalone noun"
+   ],
+   "plain_english": "O Śivā, in the accomplished vidyā rite of Bhuvaneśī, a crystal rosary should be used."
+  },
+  {
+   "verse": 1512,
+   "rows": [
+    {
+     "surface": "gandharūpajātibhedair",
+     "gloss": "by-fragrance-form-class-differences",
+     "grounds": "instrumental plural compound",
+     "morph": "compound.inst.pl"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyā",
+     "grounds": "compound naming the great vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle of prakīrt",
+     "morph": "f.nom.sg.pass-part"
+    }
+   ],
+   "question": "How is the great vidyā declared to be distinguished?",
+   "premises": [
+    "fragrance form and class differences are instrumental",
+    "great vidyā is named",
+    "declared states attribution"
+   ],
+   "inference": "The great vidyā is declared through differences of fragrance, form, and class.",
+   "uncertainties": [
+    "whether gandharūpajātibhedair modifies naming or classification"
+   ],
+   "plain_english": "The great vidyā is declared by differences of fragrance, form, and class."
+  }
+ ]
+}

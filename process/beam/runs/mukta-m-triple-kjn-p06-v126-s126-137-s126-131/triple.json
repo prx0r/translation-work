@@ -1,0 +1,335 @@
+{
+ "song": "kjn-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "accusative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt+vijñā"
+    },
+    {
+     "surface": "balī",
+     "gloss": "strength",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palita",
+     "gloss": "gray-hair",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "result noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should one know about nectar's effect on strength and gray hair?",
+   "premises": [
+    "nectar is that",
+    "one should know it",
+    "it destroys strength and gray hair"
+   ],
+   "inference": "nectar is to be known as destroying strength and gray hair",
+   "uncertainties": [
+    "exact syntactic relation of balī and palita"
+   ],
+   "plain_english": "One should know that nectar destroys strength and gray hair."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "balī",
+     "gloss": "strength",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palita",
+     "gloss": "gray-hair",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirmuktaḥ",
+     "gloss": "freed-from",
+     "grounds": "participle",
+     "morph": "m.nom.sg.part+nirmuc"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivarjitaḥ",
+     "gloss": "devoid-of",
+     "grounds": "participle",
+     "morph": "m.nom.sg.part+vivarj"
+    }
+   ],
+   "question": "What qualities characterize one freed from gray hair and disease?",
+   "premises": [
+    "one is freed from strength and gray hair",
+    "one is devoid of all disease",
+    "freedom and absence are stated"
+   ],
+   "inference": "the practitioner is freed from gray hair and devoid of disease",
+   "uncertainties": [
+    "whether balī is strength or strong"
+   ],
+   "plain_english": "Freed from gray hair and devoid of all disease."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "rasanā",
+     "gloss": "tongue",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tālu",
+     "gloss": "palate",
+     "grounds": "locative relation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "root",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "genitive purpose",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāśāya",
+     "gloss": "destruction",
+     "grounds": "dative purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt+yoj"
+    }
+   ],
+   "question": "Where should the tongue be applied for disease destruction?",
+   "premises": [
+    "tongue is the instrument",
+    "palate root is the place",
+    "application is for disease destruction"
+   ],
+   "inference": "apply the tongue at the palate root to destroy disease",
+   "uncertainties": [
+    "exact grammatical case of vyādhi"
+   ],
+   "plain_english": "Apply the tongue at the root of the palate for destroying disease."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "rasanaṃ",
+     "gloss": "tongue",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuñcayet",
+     "gloss": "one-should-contract",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt+kuñc"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaktreṇa",
+     "gloss": "mouth",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "united-with",
+     "grounds": "participle",
+     "morph": "n.acc.sg.part+saṃyu"
+    }
+   ],
+   "question": "How should the tongue be contracted in this practice?",
+   "premises": [
+    "tongue is contracted",
+    "contraction is always",
+    "it is united with own mouth"
+   ],
+   "inference": "contract the tongue always, united with one's own mouth",
+   "uncertainties": [
+    "exact relation of sva and vaktreṇa"
+   ],
+   "plain_english": "Always contract the tongue, united with one's own mouth."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "heart",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthaṃ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "n.acc.sg.part+sthā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs+kṛ"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmanatāṃ",
+     "gloss": "unmana-state",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "m.nom.sg.part+gam"
+    }
+   ],
+   "question": "What mental state is reached by placing mind in the heart?",
+   "premises": [
+    "mind is placed in heart",
+    "this continues until",
+    "one goes to unmana state"
+   ],
+   "inference": "placing mind in the heart leads to the unmana state",
+   "uncertainties": [
+    "exact scope of yāvat"
+   ],
+   "plain_english": "Having placed the mind in the heart, one goes to the unmana state."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "kālasya",
+     "gloss": "time",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vañcanaṃ",
+     "gloss": "deception",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sugopyaṃ",
+     "gloss": "well-guarded",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakaṭīkṛtam",
+     "gloss": "made-manifest",
+     "grounds": "participle",
+     "morph": "n.nom.sg.part+prakṛ"
+    }
+   ],
+   "question": "What is said about time's deception and its manifestation?",
+   "premises": [
+    "time's deception is addressed to goddess",
+    "it is well guarded",
+    "it is made manifest"
+   ],
+   "inference": "time's deception, well guarded, is made manifest",
+   "uncertainties": [
+    "exact relation of sugopyaṃ and prakaṭīkṛtam"
+   ],
+   "plain_english": "O goddess, time's deception, well guarded, is made manifest."
+  }
+ ]
+}

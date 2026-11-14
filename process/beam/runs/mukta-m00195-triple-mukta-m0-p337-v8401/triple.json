@@ -1,0 +1,1001 @@
+{
+ "song": "mukta-m0-p337",
+ "items": [
+  {
+   "verse": 8401,
+   "rows": [
+    {
+     "surface": "ṅentaṃ",
+     "gloss": "ending-in-ṅa",
+     "grounds": "adjective describing mantra form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛdantaṃ",
+     "gloss": "ending-in-hṛd",
+     "grounds": "adjective describing mantra form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rudrārṇaiḥ",
+     "gloss": "with-rudra-syllables",
+     "grounds": "instrumental compound indicating syllable count",
+     "morph": "compound: rudra+arṇa; m.inst.pl"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "predicate of mantra",
+     "morph": "m.nom.sg.past-passive-participle; pra-√vac"
+    },
+    {
+     "surface": "bhaumapriyo",
+     "gloss": "dear-to-mars",
+     "grounds": "epithet of mantra",
+     "morph": "compound: bhauma+priya; m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllabic form defines the mantra dear to Mars?",
+   "premises": [
+    "The mantra ends in ṅa",
+    "The mantra ends in hṛd",
+    "The mantra uses Rudra syllables"
+   ],
+   "inference": "This specific syllabic structure constitutes the mantra dear to Mars",
+   "uncertainties": [],
+   "plain_english": "The mantra dear to Mars is declared as ending in ṅa and hṛd, formed with Rudra syllables."
+  },
+  {
+   "verse": 8402,
+   "rows": [
+    {
+     "surface": "bhagavandevadeveśa",
+     "gloss": "o-lord-lord-of-gods",
+     "grounds": "vocative address to deity",
+     "morph": "compound-vocative: bhagavat+deva+deva+īśa; m.voc.sg"
+    },
+    {
+     "surface": "ehyehi",
+     "gloss": "come-come",
+     "grounds": "repeated imperative for invocation",
+     "morph": "2.sg.imperative; ā-√i (reduplicated)"
+    },
+    {
+     "surface": "tvaṃmahāprabho",
+     "gloss": "you-o-great-lord",
+     "grounds": "fused address; sandhi noted in form",
+     "morph": "compound/fused: tvam+mahā+prabhu; m.voc.sg"
+    }
+   ],
+   "question": "How is the great lord invoked to approach the worshipper?",
+   "premises": [
+    "The deity is addressed as lord of gods",
+    "The deity is urged to come repeatedly",
+    "The deity is called great lord"
+   ],
+   "inference": "The invocation summons the great lord to be present",
+   "uncertainties": [],
+   "plain_english": "O Lord, Lord of gods, come, come, you great Lord."
+  },
+  {
+   "verse": 8403,
+   "rows": [
+    {
+     "surface": "raktagandhādivastraiśca",
+     "gloss": "with-red-fragrance-garments",
+     "grounds": "offerings including red items",
+     "morph": "compound: rakta+gandha+ādi+vastra; n.inst.pl + (indecl.) ca"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍodanam",
+     "gloss": "jaggery-rice",
+     "grounds": "specific food offering",
+     "morph": "compound: guḍa+odana; n.acc.sg"
+    }
+   ],
+   "question": "What offerings should accompany the worship of Mars?",
+   "premises": [
+    "Red fragrance and garments are offered",
+    "A food offering is included",
+    "Jaggery rice is specified"
+   ],
+   "inference": "Worship requires red items and jaggery rice as offerings",
+   "uncertainties": [],
+   "plain_english": "Offer red fragrance, garments, and other items, along with food offering of jaggery rice."
+  },
+  {
+   "verse": 8404,
+   "rows": [
+    {
+     "surface": "godhūmacūrṇajās",
+     "gloss": "made-from-wheat-flour",
+     "grounds": "items prepared from wheat flour",
+     "morph": "compound: godhūma+cūrṇa+ja; m.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb in ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "prior ritual action",
+     "morph": "absolutive; sthā-√pay (causative)"
+    },
+    {
+     "surface": "prabhakṣayet",
+     "gloss": "one-should-eat",
+     "grounds": "prescribed consumption",
+     "morph": "3.sg.optative-active; pra-√bhakṣ"
+    }
+   ],
+   "question": "What should be done with items made from wheat flour?",
+   "premises": [
+    "Wheat flour preparations are used",
+    "They are placed in the ritual setting",
+    "They should be eaten afterward"
+   ],
+   "inference": "The practitioner should place and then eat wheat flour preparations",
+   "uncertainties": [],
+   "plain_english": "Having placed there items made of wheat flour, one should eat them."
+  },
+  {
+   "verse": 8405,
+   "rows": [
+    {
+     "surface": "bhaumastotrapurāṇādicarcayā",
+     "gloss": "with-mars-praise-purana-worship",
+     "grounds": "means of spending the day",
+     "morph": "compound: bhauma+stotra+purāṇa+ādi+carcā; f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dinaṃ",
+     "gloss": "day",
+     "grounds": "time period",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-pass",
+     "grounds": "prescribed conduct",
+     "morph": "3.sg.optative-active; √nī"
+    }
+   ],
+   "question": "How should the practitioner spend the day devoted to Mars?",
+   "premises": [
+    "Praise of Mars is performed",
+    "Purana recitation and worship are included",
+    "The day is to be passed in these acts"
+   ],
+   "inference": "The day should be spent in praise, Purana recitation, and worship of Mars",
+   "uncertainties": [],
+   "plain_english": "One should indeed pass the day with praise of Mars, Purana recitation, and worship."
+  },
+  {
+   "verse": 8406,
+   "rows": [
+    {
+     "surface": "yācanīyaṃ",
+     "gloss": "to-be-requested",
+     "grounds": "object of request",
+     "morph": "n.nom.sg.future-passive-participle; √yāc"
+    },
+    {
+     "surface": "yogyavastu",
+     "gloss": "suitable-thing",
+     "grounds": "appropriate desired object",
+     "morph": "compound: yogya+vastu; n.nom.sg"
+    },
+    {
+     "surface": "satvarañca",
+     "gloss": "quickly-and",
+     "grounds": "manner and connective",
+     "morph": "(indecl.) satvaram + (indecl.) ca"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "he-gives",
+     "grounds": "result of worship",
+     "morph": "3.sg.present-active; pra-√yam"
+    }
+   ],
+   "question": "What result follows when a suitable request is made to Mars?",
+   "premises": [
+    "A suitable thing may be requested",
+    "The request is made in this context",
+    "Mars gives quickly"
+   ],
+   "inference": "Mars quickly grants a suitable requested object",
+   "uncertainties": [],
+   "plain_english": "A suitable thing may be requested, and he quickly gives it."
+  },
+  {
+   "verse": 8407,
+   "rows": [
+    {
+     "surface": "oṃhāṃhaṃsaḥ",
+     "gloss": "oṃ-hāṃ-haṃ-saḥ",
+     "grounds": "mantra syllables as given",
+     "morph": "(indecl.) mantra-sequence"
+    },
+    {
+     "surface": "khaṃkha",
+     "gloss": "khaṃ-kha",
+     "grounds": "mantra syllables as given",
+     "morph": "(indecl.) mantra-sequence"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "predicate",
+     "morph": "m.nom.sg.past-passive-participle; pra-√vac"
+    },
+    {
+     "surface": "ṣaḍakṣaraḥ",
+     "gloss": "six-syllabled",
+     "grounds": "description of mantra length",
+     "morph": "compound: ṣaṣ+akṣara; m.nom.sg"
+    }
+   ],
+   "question": "What is the declared form and syllable count of this mantra?",
+   "premises": [
+    "The mantra syllables are specified",
+    "The mantra is explicitly declared",
+    "The mantra has six syllables"
+   ],
+   "inference": "The declared mantra consists of six syllables in the given sequence",
+   "uncertainties": [
+    "Exact syllable parsing of fused mantra tokens follows traditional transmission"
+   ],
+   "plain_english": "The mantra is declared as 'oṃ hāṃ haṃ saḥ khaṃ kha', consisting of six syllables."
+  },
+  {
+   "verse": 8408,
+   "rows": [
+    {
+     "surface": "ṣaḍbhirvarṇaiḥ",
+     "gloss": "with-six-letters",
+     "grounds": "means for forming limbs",
+     "morph": "compound: ṣaṣ+varṇa; m.inst.pl"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual limbs of mantra",
+     "morph": "compound: ṣaṣ+aṅga; n.acc.pl"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "possessor of limbs",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-middle; √kṛ"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the practitioner construct the six limbs of the mantra?",
+   "premises": [
+    "The mantra has six letters",
+    "Six limbs are to be formed",
+    "The practitioner performs the rite"
+   ],
+   "inference": "The practitioner should form the six limbs using the six letters",
+   "uncertainties": [],
+   "plain_english": "The practitioner should form the six limbs of the mantra with its six letters."
+  },
+  {
+   "verse": 8409,
+   "rows": [
+    {
+     "surface": "meṣasaṃsthaṃ",
+     "gloss": "stationed-in-aries",
+     "grounds": "astrological position",
+     "morph": "compound: meṣa+saṃstha; m.acc.sg"
+    },
+    {
+     "surface": "raktavastraṃ",
+     "gloss": "red-garmented",
+     "grounds": "iconographic attribute",
+     "morph": "compound: rakta+vastra; m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "object of salutation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vandehaṃ",
+     "gloss": "i-salute",
+     "grounds": "fused expression of salutation",
+     "morph": "fused: vande+aham; 1.sg.present-middle; √vand"
+    },
+    {
+     "surface": "dharātmajam",
+     "gloss": "son-of-earth",
+     "grounds": "epithet of Mars",
+     "morph": "compound: dharā+ātmaja; m.acc.sg"
+    }
+   ],
+   "question": "How is the son of Earth visualized for salutation in worship?",
+   "premises": [
+    "He is stationed in Aries",
+    "He wears red garments",
+    "He is saluted as son of Earth"
+   ],
+   "inference": "The practitioner salutes Mars as red-garmented, in Aries, son of Earth",
+   "uncertainties": [],
+   "plain_english": "I salute him, the son of Earth, stationed in Aries and clothed in red garments."
+  },
+  {
+   "verse": 8410,
+   "rows": [
+    {
+     "surface": "śaivapīṭhe",
+     "gloss": "in-shaiva-seat",
+     "grounds": "ritual location",
+     "morph": "compound: śaiva+pīṭha; n.loc.sg"
+    },
+    {
+     "surface": "yajedbhaumaṃ",
+     "gloss": "one-should-worship-mars",
+     "grounds": "fused main injunction",
+     "morph": "fused: yajet+bhaumam; 3.sg.optative-active; √yaj + m.acc.sg"
+    },
+    {
+     "surface": "prāg",
+     "gloss": "first",
+     "grounds": "sequence of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual components",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active; √pūj"
+    }
+   ],
+   "question": "What sequence of worship is prescribed at the Shaiva seat?",
+   "premises": [
+    "Mars is worshipped in the Shaiva seat",
+    "The limbs are worshipped first",
+    "Both actions are prescribed"
+   ],
+   "inference": "One should first worship the limbs and then worship Mars in the Shaiva seat",
+   "uncertainties": [],
+   "plain_english": "In the Shaiva seat one should worship Mars, but first one should worship the limbs."
+  },
+  {
+   "verse": 8411,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "manner of accomplishment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "susiddhaṃ",
+     "gloss": "well-accomplished",
+     "grounds": "state of mantra lord",
+     "morph": "compound: su+siddha; m.acc.sg"
+    },
+    {
+     "surface": "mantreśaṃ",
+     "gloss": "lord-of-mantras",
+     "grounds": "object of application",
+     "morph": "compound: mantra+īśa; m.acc.sg"
+    },
+    {
+     "surface": "sveṣṭasiddhyai",
+     "gloss": "for-desired-accomplishment",
+     "grounds": "purpose",
+     "morph": "compound: sva+iṣṭa+siddhi; f.dat.sg"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "one-should-employ",
+     "grounds": "prescribed application",
+     "morph": "3.sg.optative-causative-active; pra-√yuj"
+    }
+   ],
+   "question": "For what purpose should the well-accomplished lord of mantras be employed?",
+   "premises": [
+    "The lord of mantras is well accomplished",
+    "He is employed in this manner",
+    "The aim is desired accomplishment"
+   ],
+   "inference": "The accomplished lord of mantras should be employed for attaining desired ends",
+   "uncertainties": [],
+   "plain_english": "Thus one should employ the well-accomplished lord of mantras for the fulfillment of one's desired aims."
+  },
+  {
+   "verse": 8412,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "one-obtains",
+     "grounds": "result",
+     "morph": "3.sg.present-middle; √labh"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty asserted",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "object obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvaguṇānvitam",
+     "gloss": "endowed-with-all-qualities",
+     "grounds": "description of son",
+     "morph": "compound: sarva+guṇa+anvita; m.acc.sg"
+    }
+   ],
+   "question": "What assured result is promised from this ritual application?",
+   "premises": [
+    "One obtains a son",
+    "The son has all qualities",
+    "There is no doubt in this"
+   ],
+   "inference": "The ritual assuredly yields a son endowed with all qualities",
+   "uncertainties": [],
+   "plain_english": "One obtains a son endowed with all qualities; there is no doubt in this."
+  },
+  {
+   "verse": 8413,
+   "rows": [
+    {
+     "surface": "dantāndhāveddvedamārgasamidhā",
+     "gloss": "with-teeth-blind-two-ways-fuel",
+     "grounds": "ritual fuel specification; traditional code-like expression",
+     "morph": "compound: danta+andha+āveddva+eda+mārga+samidh; f.inst.sg"
+    },
+    {
+     "surface": "maunasevitā",
+     "gloss": "observed-in-silence",
+     "grounds": "manner of observance",
+     "morph": "compound: mauna+sevita; f.nom.sg"
+    }
+   ],
+   "question": "Under what ritual conditions is the prescribed observance performed?",
+   "premises": [
+    "A specific fuel is used",
+    "The observance is maintained in silence",
+    "The instruction is ritual in nature"
+   ],
+   "inference": "The rite is performed with specified fuel while maintaining silence",
+   "uncertainties": [
+    "The compound dantāndhāveddvedamārgasamidhā is obscure and may encode a traditional ritual specification"
+   ],
+   "plain_english": "The observance is performed in silence with the specified fuel."
+  },
+  {
+   "verse": 8414,
+   "rows": [
+    {
+     "surface": "vidhijñaṃ",
+     "gloss": "knowing-the-rite",
+     "grounds": "qualification of priest",
+     "morph": "compound: vidhi+jña; m.acc.sg"
+    },
+    {
+     "surface": "vipramāhūya",
+     "gloss": "having-summoned-priest",
+     "grounds": "prior action",
+     "morph": "compound/fused: vipram+āhūya; absolutive; ā-√hū"
+    },
+    {
+     "surface": "bhaumam",
+     "gloss": "mars",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arcet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active; √arc"
+    },
+    {
+     "surface": "tadājñayā",
+     "gloss": "by-his-command",
+     "grounds": "authority for worship",
+     "morph": "compound: tad+ājñā; f.inst.sg"
+    }
+   ],
+   "question": "Under whose guidance should Mars be worshipped in this rite?",
+   "premises": [
+    "A priest knowing the rite is summoned",
+    "Mars is to be worshipped",
+    "The worship follows his command"
+   ],
+   "inference": "Mars should be worshipped under the direction of a knowledgeable priest",
+   "uncertainties": [],
+   "plain_english": "Having summoned a priest who knows the rite, one should worship Mars according to his instruction."
+  },
+  {
+   "verse": 8415,
+   "rows": [
+    {
+     "surface": "maṅgalādīni",
+     "gloss": "mangala-and-others",
+     "grounds": "names beginning with Mangala",
+     "morph": "compound: maṅgala+ādi; n.acc.pl"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "objects to be placed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "svapratīkeṣu",
+     "gloss": "in-own-images",
+     "grounds": "locations for placement",
+     "morph": "compound: sva+pratīka; n.loc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement",
+     "morph": "3.sg.optative-active; vi-ni-√as"
+    }
+   ],
+   "question": "Where should the names of Mars beginning with Mangala be placed?",
+   "premises": [
+    "Names such as Mangala are used",
+    "They are placed ritually",
+    "They are placed in one's own images"
+   ],
+   "inference": "The names of Mars should be placed in one's own corresponding images",
+   "uncertainties": [],
+   "plain_english": "One should place the names beginning with Mangala in one's own images."
+  },
+  {
+   "verse": 8416,
+   "rows": [
+    {
+     "surface": "vāmabāhau",
+     "gloss": "on-left-arm",
+     "grounds": "body location",
+     "morph": "compound: vāma+bāhu; m.loc.sg"
+    },
+    {
+     "surface": "dakṣabāhau",
+     "gloss": "on-right-arm",
+     "grounds": "body location",
+     "morph": "compound: dakṣa+bāhu; m.loc.sg"
+    },
+    {
+     "surface": "gale",
+     "gloss": "on-neck",
+     "grounds": "body location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadane",
+     "gloss": "on-face",
+     "grounds": "body location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nasoḥ",
+     "gloss": "on-two-nostrils",
+     "grounds": "body location",
+     "morph": "f.loc.dual"
+    }
+   ],
+   "question": "On which parts of the body should the ritual placements be made?",
+   "premises": [
+    "Placements are made on left and right arms",
+    "Placements are made on neck and face",
+    "Placements are made on the nostrils"
+   ],
+   "inference": "The placements extend across arms, neck, face, and nostrils",
+   "uncertainties": [],
+   "plain_english": "On the left arm, right arm, neck, face, and the two nostrils."
+  },
+  {
+   "verse": 8417,
+   "rows": [
+    {
+     "surface": "bāhudvayetha",
+     "gloss": "on-two-arms-then",
+     "grounds": "fused locative with connective particle",
+     "morph": "compound/fused: bāhu+dvaya+atha; n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "mūrddhādipāda",
+     "gloss": "from-head-to-feet",
+     "grounds": "extent of body",
+     "morph": "compound: mūrddhan+ādi+pāda"
+    },
+    {
+     "surface": "paryyantavigrahe",
+     "gloss": "up-to-end-body",
+     "grounds": "entire body as locus",
+     "morph": "compound: paryanta+vigraha; m.loc.sg"
+    }
+   ],
+   "question": "What extent of the body is included in the placement sequence?",
+   "premises": [
+    "The two arms are included",
+    "The range spans from head onward",
+    "The placement reaches the feet"
+   ],
+   "inference": "The placement covers the entire body from head to feet",
+   "uncertainties": [],
+   "plain_english": "Then on the two arms, and on the body extending from the head down to the feet."
+  },
+  {
+   "verse": 8418,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing prior placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyastaśarīrosau",
+     "gloss": "with-placed-body-he",
+     "grounds": "fused state of practitioner and pronoun",
+     "morph": "compound/fused: nyasta+śarīra+asau; m.nom.sg"
+    },
+    {
+     "surface": "dhyāyed",
+     "gloss": "one-should-meditate",
+     "grounds": "prescribed meditation",
+     "morph": "3.sg.optative-active; √dhyai"
+    },
+    {
+     "surface": "dharaṇinandanam",
+     "gloss": "son-of-earth",
+     "grounds": "object of meditation",
+     "morph": "compound: dharaṇi+nandana; m.acc.sg"
+    }
+   ],
+   "question": "What meditation follows after placing the body with the ritual names?",
+   "premises": [
+    "The body has been ritually placed",
+    "Meditation is prescribed",
+    "The son of Earth is the object"
+   ],
+   "inference": "After nyasa, one should meditate on the son of Earth",
+   "uncertainties": [],
+   "plain_english": "Thus, with the body prepared by placement, one should meditate on the son of Earth."
+  },
+  {
+   "verse": 8419,
+   "rows": [
+    {
+     "surface": "ekaviṃśatikoṣṭhāḍhye",
+     "gloss": "endowed-with-twenty-one-cells",
+     "grounds": "description of diagram",
+     "morph": "compound: ekaviṃśati+koṣṭha+āḍhya; n.loc.sg"
+    },
+    {
+     "surface": "trikoṇe",
+     "gloss": "in-triangle",
+     "grounds": "geometric figure",
+     "morph": "compound: tri+koṇa; n.loc.sg"
+    },
+    {
+     "surface": "tāmrapātrake",
+     "gloss": "in-copper-vessel",
+     "grounds": "ritual support",
+     "morph": "compound: tāmra+pātraka; n.loc.sg"
+    }
+   ],
+   "question": "What ritual diagram and support are prepared for the worship?",
+   "premises": [
+    "A triangle is used",
+    "It contains twenty-one cells",
+    "It is placed in a copper vessel"
+   ],
+   "inference": "Worship uses a twenty-one-celled triangle in a copper vessel",
+   "uncertainties": [],
+   "plain_english": "In a triangle endowed with twenty-one cells, placed in a copper vessel."
+  },
+  {
+   "verse": 8420,
+   "rows": [
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "objects of worship",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active; √pūj"
+    },
+    {
+     "surface": "prāgvad",
+     "gloss": "as-before",
+     "grounds": "method reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaviṃśatikoṣṭhataḥ",
+     "gloss": "from-twenty-one-cells",
+     "grounds": "basis of arrangement",
+     "morph": "compound: ekaviṃśati+koṣṭha; (indecl.) -tas"
+    }
+   ],
+   "question": "How should the limbs be worshipped within the twenty-one-celled diagram?",
+   "premises": [
+    "The limbs are to be worshipped",
+    "The method follows the earlier pattern",
+    "The arrangement uses twenty-one cells"
+   ],
+   "inference": "The limbs should be worshipped as before according to the twenty-one cells",
+   "uncertainties": [],
+   "plain_english": "One should worship the limbs as before, according to the twenty-one cells."
+  },
+  {
+   "verse": 8421,
+   "rows": [
+    {
+     "surface": "brāhmyādyā",
+     "gloss": "brahmi-and-others",
+     "grounds": "group of Mothers",
+     "morph": "compound: brāhmī+ādi; f.nom.sg"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mothers",
+     "grounds": "deity group",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "location in diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śakrādīnāyudhānyapi",
+     "gloss": "indra-weapons-also",
+     "grounds": "fused mention of weapons of Indra and others",
+     "morph": "compound/fused: śakra+ādi+āyudha; n.nom.pl + (indecl.) api"
+    }
+   ],
+   "question": "What deities and weapons are placed outside the central diagram?",
+   "premises": [
+    "The Mothers beginning with Brahmi are placed outside",
+    "Weapons of Indra and others are included",
+    "These are external placements"
+   ],
+   "inference": "The Mothers and the weapons of Indra and others are worshipped outside",
+   "uncertainties": [],
+   "plain_english": "Outside are the Mothers beginning with Brahmi, and also the weapons of Indra and the others."
+  },
+  {
+   "verse": 8422,
+   "rows": [
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "absolutive; ni-√dhā"
+    },
+    {
+     "surface": "mantrābhyāṃ",
+     "gloss": "with-two-mantras",
+     "grounds": "ritual means",
+     "morph": "m.inst.dual"
+    },
+    {
+     "surface": "bhaumāyārghyaṃ",
+     "gloss": "to-mars-arghya",
+     "grounds": "fused offering to Mars",
+     "morph": "compound/fused: bhaumāya+arghyam; m.dat.sg + n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-causative-active; ni-√vid"
+    }
+   ],
+   "question": "How should the arghya offering be presented to Mars?",
+   "premises": [
+    "Fruit is placed as part of the offering",
+    "Two mantras are used",
+    "Arghya is offered to Mars"
+   ],
+   "inference": "One should place fruit and offer arghya to Mars with two mantras",
+   "uncertainties": [],
+   "plain_english": "Having placed fruit, one should offer arghya to Mars with the two mantras."
+  },
+  {
+   "verse": 8423,
+   "rows": [
+    {
+     "surface": "sutārthinī",
+     "gloss": "desiring-a-son",
+     "grounds": "state of supplicant",
+     "morph": "compound: suta+arthin; f.nom.sg"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object of refuge",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "prapannā",
+     "gloss": "having-taken-refuge",
+     "grounds": "act of surrender",
+     "morph": "f.nom.sg.past-active-participle; pra-√pad"
+    },
+    {
+     "surface": "gṛhāṇārghyaṃ",
+     "gloss": "accept-arghya",
+     "grounds": "fused imperative and object",
+     "morph": "fused: gṛhāṇa+arghyam; 2.sg.imperative; √grah + n.acc.sg"
+    },
+    {
+     "surface": "namostu",
+     "gloss": "salutation-be",
+     "grounds": "fused salutation formula",
+     "morph": "fused: namaḥ+astu; (indecl.) + 3.sg.imperative; √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of salutation",
+     "morph": "2.dat.sg"
+    }
+   ],
+   "question": "What prayer does a woman desiring a son offer to Mars?",
+   "premises": [
+    "She desires a son",
+    "She takes refuge in Mars",
+    "She asks him to accept arghya and offers salutation"
+   ],
+   "inference": "A son-seeking woman prays to Mars to accept her arghya with reverence",
+   "uncertainties": [],
+   "plain_english": "Desiring a son, I have taken refuge in you; accept the arghya, salutations to you."
+  },
+  {
+   "verse": 8424,
+   "rows": [
+    {
+     "surface": "pradakṣiṇā",
+     "gloss": "circumambulations",
+     "grounds": "ritual act",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vidhātavyā",
+     "gloss": "should-be-done",
+     "grounds": "obligation",
+     "morph": "f.nom.pl.future-passive-participle; vi-√dhā"
+    },
+    {
+     "surface": "tāvadbhir",
+     "gloss": "by-that-many",
+     "grounds": "specified number",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "nagapātmaje",
+     "gloss": "o-son-of-mountain",
+     "grounds": "vocative address",
+     "morph": "compound: naga+pā+ātmaja; m.voc.sg"
+    }
+   ],
+   "question": "What concluding ritual action is prescribed before the son of the mountain?",
+   "premises": [
+    "Circumambulations are prescribed",
+    "They must be performed",
+    "They are done in that specified number"
+   ],
+   "inference": "The prescribed number of circumambulations should be performed",
+   "uncertainties": [
+    "The vocative nagapātmaje is unexpected in a Mars context and may reflect textual transmission"
+   ],
+   "plain_english": "Circumambulations should be performed in that number, O son of the mountain."
+  }
+ ]
+}

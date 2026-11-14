@@ -1,0 +1,1085 @@
+{
+ "song": "mukta-m0-p340",
+ "items": [
+  {
+   "verse": 8476,
+   "rows": [
+    {
+     "surface": "daśākṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "bahuvrīhi compound describing the mantra as having ten syllables",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ketumantro",
+     "gloss": "ketu-mantra",
+     "grounds": "compound naming the mantra of Ketu",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "japto",
+     "gloss": "chanted",
+     "grounds": "past participle indicating recitation",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśāyutam",
+     "gloss": "twelve-ten-thousands",
+     "grounds": "numerical expression indicating 120,000 repetitions",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many repetitions of the ten-syllabled Ketu mantra are prescribed?",
+   "premises": [
+    "The Ketu mantra consists of ten syllables.",
+    "This mantra is to be chanted.",
+    "The prescribed number of repetitions is twelve ayutas."
+   ],
+   "inference": "The ten-syllabled Ketu mantra must be chanted one hundred twenty thousand times.",
+   "uncertainties": [],
+   "plain_english": "This ten-syllabled Ketu mantra is to be chanted one hundred twenty thousand times."
+  },
+  {
+   "verse": 8477,
+   "rows": [
+    {
+     "surface": "upāsakānām",
+     "gloss": "of-worshippers",
+     "grounds": "refers to those who worship using this mantra",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "etasya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun referring to the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ketavo",
+     "gloss": "ketus",
+     "grounds": "celestial or spiritual agents associated with Ketu",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "indicates position ahead of the worshippers",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "calanti",
+     "gloss": "move",
+     "grounds": "describes the action of the Ketus",
+     "morph": "3.pl.present-active √cal"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect does worship of this Ketu mantra produce for its practitioners?",
+   "premises": [
+    "There are worshippers of this mantra.",
+    "Ketus are associated with this mantra.",
+    "The Ketus move in front of these worshippers."
+   ],
+   "inference": "Worship of this Ketu mantra causes the Ketus to move ahead of its practitioners.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the Ketus move in front of the worshippers of this mantra."
+  },
+  {
+   "verse": 8478,
+   "rows": [
+    {
+     "surface": "grahamātari",
+     "gloss": "planet-mother",
+     "grounds": "compound referring to the mother of the planets; locative absolute context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ruṣṭāyāṃ",
+     "gloss": "being-angry",
+     "grounds": "describes the state of the planet-mother",
+     "morph": "f.loc.sg.past-participle"
+    },
+    {
+     "surface": "sugrahaiḥ",
+     "gloss": "with-good-planets",
+     "grounds": "compound referring to benefic planets",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun questioning utility",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayojanam",
+     "gloss": "use",
+     "grounds": "purpose or benefit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What benefit do benefic planets provide when the planet-mother is angry?",
+   "premises": [
+    "The planet-mother can become angry.",
+    "Benefic planets may be present.",
+    "Her anger raises the question of their usefulness."
+   ],
+   "inference": "When the planet-mother is angry, the presence of benefic planets is of no use.",
+   "uncertainties": [
+    "The specific identity of the planet-mother is not stated explicitly."
+   ],
+   "plain_english": "When the mother of the planets is angry, what use are the benefic planets?"
+  },
+  {
+   "verse": 8479,
+   "rows": [
+    {
+     "surface": "ulkā",
+     "gloss": "ulkā",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhā",
+     "gloss": "siddhā",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃkaṭā",
+     "gloss": "saṃkaṭā",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikaṭā",
+     "gloss": "vikaṭā",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "garbhapālikā",
+     "gloss": "garbhapālikā",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which five named powers are enumerated in this list?",
+   "premises": [
+    "Ulkā is named.",
+    "Siddhā, Saṃkaṭā, and Vikaṭā are named.",
+    "Garbhapālikā is named."
+   ],
+   "inference": "The five powers enumerated are Ulkā, Siddhā, Saṃkaṭā, Vikaṭā, and Garbhapālikā.",
+   "uncertainties": [],
+   "plain_english": "Ulkā, Siddhā, Saṃkaṭā, Vikaṭā, and Garbhapālikā."
+  },
+  {
+   "verse": 8480,
+   "rows": [
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāmani",
+     "gloss": "in-name",
+     "grounds": "locative indicating the domain of name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "visible or manifest form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative expressing possibility or result",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "ekopacayatā",
+     "gloss": "single-increase-state",
+     "grounds": "compound expressing unified augmentation",
+     "morph": "compound+bahuvrīhi"
+    },
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-two",
+     "grounds": "refers to the two elements, name and form",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "How do name and form relate to the resulting fruit described here?",
+   "premises": [
+    "Fruit is mentioned as a result.",
+    "Name and form are both involved.",
+    "The two share a single increase."
+   ],
+   "inference": "The fruit manifests in name and form as a unified increase of both.",
+   "uncertainties": [
+    "The precise doctrinal sense of single increase is context-dependent."
+   ],
+   "plain_english": "The fruit would be in name and form, as a single increase of the two."
+  },
+  {
+   "verse": 8481,
+   "rows": [
+    {
+     "surface": "tuṣṭā",
+     "gloss": "satisfied",
+     "grounds": "describes the goddess in a pleased state",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatruvargasya",
+     "gloss": "of-enemy-group",
+     "grounds": "compound referring to the host of enemies",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "ruṣṭā",
+     "gloss": "angry",
+     "grounds": "describes the goddess in an angered state",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "would-do",
+     "grounds": "optative expressing action against someone",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhake",
+     "gloss": "on-practitioner",
+     "grounds": "the ritual practitioner as target",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How does the goddess's disposition affect the practitioner and the enemy group?",
+   "premises": [
+    "The goddess may be satisfied or angry.",
+    "The enemy group is mentioned as affected when she is satisfied.",
+    "The practitioner is mentioned as affected when she is angry."
+   ],
+   "inference": "If satisfied she acts for the enemy group, but if angry she acts against the practitioner.",
+   "uncertainties": [
+    "The exact action when satisfied is implied rather than explicitly stated."
+   ],
+   "plain_english": "If satisfied, she favors the enemy group; but if angry, she would act against the practitioner."
+  },
+  {
+   "verse": 8482,
+   "rows": [
+    {
+     "surface": "dīrghaṣaṭkayujā",
+     "gloss": "with-long-six-joined",
+     "grounds": "compound indicating use of six long syllables",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": " [kṣāṃ kṣīṃ kṣūṃ kṣaiṃ kṣauṃ kṣaḥ | ebhirakṣaraiḥ ṣaḍaṃganyāsaṃ caret || ] ",
+     "gloss": "kṣāṃ-kṣīṃ-kṣūṃ-kṣaiṃ-kṣauṃ-kṣaḥ-mantra-line",
+     "grounds": "mantra syllables and instruction for six-limb placement, kept byte-exact",
+     "morph": "(mantra-text)"
+    },
+    {
+     "surface": "pūrvabījena",
+     "gloss": "with-previous-seed",
+     "grounds": "refers to the seed syllable given earlier",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṃgakam",
+     "gloss": "six-limbed",
+     "grounds": "refers to the six-limb ritual placement",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which seed syllables are used to perform the six-limb ritual placement?",
+   "premises": [
+    "The six long syllables kṣāṃ kṣīṃ kṣūṃ kṣaiṃ kṣauṃ kṣaḥ are specified.",
+    "The previous seed is also to be used.",
+    "These are applied to the six-limb placement."
+   ],
+   "inference": "The six-limb placement is performed with the six long syllables and the previous seed.",
+   "uncertainties": [],
+   "plain_english": "With the six long syllables [kṣāṃ kṣīṃ kṣūṃ kṣaiṃ kṣauṃ kṣaḥ | ebhirakṣaraiḥ ṣaḍaṃganyāsaṃ caret || ] and with the previous seed, one performs the six-limb placement."
+  },
+  {
+   "verse": 8483,
+   "rows": [
+    {
+     "surface": "hastābhyāṃ",
+     "gloss": "with-two-hands",
+     "grounds": "instrumental dual indicating both hands",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "dadhatīṃ",
+     "gloss": "holding",
+     "grounds": "present participle describing the goddess",
+     "morph": "f.acc.sg.present-participle √dhā"
+    },
+    {
+     "surface": "padmayugalaṃ",
+     "gloss": "lotus-pair",
+     "grounds": "compound referring to two lotuses",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajāmyaham",
+     "gloss": "i-worship",
+     "grounds": "first person statement of worship; fused form",
+     "morph": "1.sg.present-active √bhaj"
+    }
+   ],
+   "question": "How is the goddess visualized and worshipped in this devotional statement?",
+   "premises": [
+    "The goddess holds a pair of lotuses.",
+    "She holds them with both hands.",
+    "The speaker declares worship of her."
+   ],
+   "inference": "The practitioner worships the goddess visualized as holding a pair of lotuses in both hands.",
+   "uncertainties": [],
+   "plain_english": "I worship her, holding a pair of lotuses in her two hands."
+  },
+  {
+   "verse": 8484,
+   "rows": [
+    {
+     "surface": "japāpuṣpāṇi",
+     "gloss": "japā-flowers",
+     "grounds": "compound naming hibiscus flowers used in worship",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "śastāni",
+     "gloss": "commended",
+     "grounds": "indicates these flowers are recommended",
+     "morph": "n.nom.pl.past-participle"
+    },
+    {
+     "surface": "dhūpo",
+     "gloss": "incense",
+     "grounds": "ritual offering of incense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guggulasambhavaḥ",
+     "gloss": "guggula-born",
+     "grounds": "compound indicating incense derived from guggula",
+     "morph": "compound+tatpuruṣa"
+    }
+   ],
+   "question": "Which flowers and incense are recommended for this worship?",
+   "premises": [
+    "Japā flowers are mentioned.",
+    "These flowers are commended.",
+    "Incense born of guggula is specified."
+   ],
+   "inference": "Japā flowers and guggula incense are the recommended offerings.",
+   "uncertainties": [],
+   "plain_english": "Japā flowers are commended, and incense born of guggula."
+  },
+  {
+   "verse": 8485,
+   "rows": [
+    {
+     "surface": "alaṃkāras",
+     "gloss": "ornament",
+     "grounds": "ritual adornment; sandhi form as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktās",
+     "gloss": "red",
+     "grounds": "describes the color of garments; sandhi form as given",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastrāṇi",
+     "gloss": "garments",
+     "grounds": "ritual clothing offerings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "candanam",
+     "gloss": "sandalwood",
+     "grounds": "fragrant paste or offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional ritual offerings and adornments are prescribed here?",
+   "premises": [
+    "Ornaments are included.",
+    "Red garments are included.",
+    "Sandalwood is included."
+   ],
+   "inference": "Ornaments, red garments, and sandalwood are prescribed as additional offerings.",
+   "uncertainties": [],
+   "plain_english": "Ornaments likewise, red garments likewise, and sandalwood."
+  },
+  {
+   "verse": 8486,
+   "rows": [
+    {
+     "surface": "tarppayet",
+     "gloss": "one-should-propitiate",
+     "grounds": "ritual instruction to offer satisfaction",
+     "morph": "3.sg.optative-active √tṛp"
+    },
+    {
+     "surface": "parameśānīṃ",
+     "gloss": "supreme-goddess",
+     "grounds": "title of the goddess to be propitiated",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tattanmantraiḥ",
+     "gloss": "with-those-mantras",
+     "grounds": "compound referring to the respective mantras",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "sahasradhā",
+     "gloss": "thousand-times",
+     "grounds": "indicates the number of repetitions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the supreme goddess be propitiated according to this instruction?",
+   "premises": [
+    "The supreme goddess is the object of propitiation.",
+    "The respective mantras are to be used.",
+    "The act is to be performed a thousand times."
+   ],
+   "inference": "One should propitiate the supreme goddess a thousand times with those respective mantras.",
+   "uncertainties": [],
+   "plain_english": "One should propitiate the supreme goddess a thousand times with those respective mantras."
+  },
+  {
+   "verse": 8487,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(absolutive) √kṛ"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual diagram; śrīcakra context per ledger",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathoktantu",
+     "gloss": "as-prescribed",
+     "grounds": "compound with particle indicating accordance with prior instruction; fused form",
+     "morph": "compound+avyayībhāva"
+    },
+    {
+     "surface": "yoginīṃ",
+     "gloss": "yoginī",
+     "grounds": "the goddess to be worshipped; per ledger yoginī = the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the diagram",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction to perform worship",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "Where and how should the yoginī be worshipped after preparing the diagram?",
+   "premises": [
+    "A diagram is to be made as prescribed.",
+    "The yoginī is the object of worship.",
+    "The worship is to take place there."
+   ],
+   "inference": "After making the prescribed diagram, one should worship the yoginī there.",
+   "uncertainties": [],
+   "plain_english": "Having made the diagram as prescribed, one should worship the yoginī there."
+  },
+  {
+   "verse": 8488,
+   "rows": [
+    {
+     "surface": "saptāhena",
+     "gloss": "in-seven-days",
+     "grounds": "time period for the result to occur",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prajāyeta",
+     "gloss": "is-produced",
+     "grounds": "optative or passive sense indicating result",
+     "morph": "3.sg.optative-middle √jan"
+    },
+    {
+     "surface": "trividhotpāta",
+     "gloss": "threefold-portent",
+     "grounds": "compound referring to three kinds of portents",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "vāraṇam",
+     "gloss": "averting",
+     "grounds": "the act of warding off",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Within what time period does the averting of threefold portents occur?",
+   "premises": [
+    "A time period of seven days is specified.",
+    "Threefold portents are to be averted.",
+    "The averting is produced as a result."
+   ],
+   "inference": "The averting of threefold portents is produced within seven days.",
+   "uncertainties": [],
+   "plain_english": "In seven days, the averting of threefold portents is brought about."
+  },
+  {
+   "verse": 8489,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-ground",
+     "grounds": "ritual ground or altar space",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śuddhe",
+     "gloss": "pure",
+     "grounds": "describes the ritual ground as purified",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sulipte",
+     "gloss": "well-smeared",
+     "grounds": "describes the ground as properly plastered",
+     "morph": "n.loc.sg.past-participle"
+    },
+    {
+     "surface": "gomayāmbubhiḥ",
+     "gloss": "with-cow-dung-water",
+     "grounds": "compound indicating smearing with cow-dung and water",
+     "morph": "compound+dvandva"
+    }
+   ],
+   "question": "What alternative ritual ground preparation is permitted for the practice?",
+   "premises": [
+    "An alternative is introduced.",
+    "The ground must be pure.",
+    "The ground must be well-smeared with cow-dung and water."
+   ],
+   "inference": "Alternatively, the practice may be done on a pure ground well-smeared with cow-dung and water.",
+   "uncertainties": [],
+   "plain_english": "Or else, on a pure ground well-smeared with cow-dung and water."
+  },
+  {
+   "verse": 8490,
+   "rows": [
+    {
+     "surface": "anyāsāṃ",
+     "gloss": "of-others",
+     "grounds": "refers to other goddesses or powers",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "daśavārāṃs",
+     "gloss": "ten-times",
+     "grounds": "number of repetitions; sandhi form as given",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viruddhāyāḥ",
+     "gloss": "of-adverse-one",
+     "grounds": "refers to a hostile or opposing power",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sahasradhā",
+     "gloss": "thousand-times",
+     "grounds": "number of repetitions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the prescribed repetition counts differ for others versus the adverse power?",
+   "premises": [
+    "Others require ten repetitions.",
+    "The adverse one is treated differently.",
+    "The adverse one requires a thousand repetitions."
+   ],
+   "inference": "One performs ten repetitions for others but a thousand for the adverse power.",
+   "uncertainties": [],
+   "plain_english": "Ten times for others, but a thousand times for the adverse one."
+  },
+  {
+   "verse": 8491,
+   "rows": [
+    {
+     "surface": "sahasram",
+     "gloss": "thousand",
+     "grounds": "numerical option for repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "numerical option for repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle; fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "numerical option for repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmanākramāt",
+     "gloss": "by-desire-order",
+     "grounds": "compound indicating according to the sequence or intensity of desire",
+     "morph": "compound+tatpuruṣa"
+    }
+   ],
+   "question": "What range of repetition counts may be chosen according to the practitioner's desire?",
+   "premises": [
+    "A thousand repetitions is an option.",
+    "Ten thousand or a hundred thousand are options.",
+    "The choice follows the order of desire."
+   ],
+   "inference": "One may perform a thousand, ten thousand, or a hundred thousand repetitions according to desire.",
+   "uncertainties": [],
+   "plain_english": "A thousand, ten thousand, or a hundred thousand, according to the order of one's desire."
+  },
+  {
+   "verse": 8492,
+   "rows": [
+    {
+     "surface": "icchāṃ",
+     "gloss": "will-power",
+     "grounds": "power of will",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge-power",
+     "grounds": "power of knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kriyāśaktiṃ",
+     "gloss": "action-power",
+     "grounds": "compound naming the power of action",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "in-three",
+     "grounds": "refers to three locations",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "corners of the ritual diagram",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction to perform worship",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "Which three powers should be worshipped in the three corners of the diagram?",
+   "premises": [
+    "Will, knowledge, and action powers are named.",
+    "There are three corners.",
+    "These powers are to be worshipped there."
+   ],
+   "inference": "One should worship the powers of will, knowledge, and action in the three corners.",
+   "uncertainties": [],
+   "plain_english": "One should worship the powers of will, knowledge, and action in the three corners."
+  },
+  {
+   "verse": 8493,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "compound indicating the area outside the previous location",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "bhūpure",
+     "gloss": "in-ground-enclosure",
+     "grounds": "the outer square enclosure of the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lokapālān",
+     "gloss": "world-guardians",
+     "grounds": "compound naming the guardians of the directions",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "astrāṇi",
+     "gloss": "weapons",
+     "grounds": "ritual weapons or weapon-mantras",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction to perform worship",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "What deities and implements should be worshipped in the outer ground enclosure?",
+   "premises": [
+    "The location is outside the previous area in the ground enclosure.",
+    "The world-guardians are to be worshipped.",
+    "The weapons are to be worshipped."
+   ],
+   "inference": "One should worship the world-guardians and weapons in the outer ground enclosure.",
+   "uncertainties": [],
+   "plain_english": "Outside that, in the ground enclosure, one should worship the world-guardians and the weapons."
+  },
+  {
+   "verse": 8494,
+   "rows": [
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "special-rule",
+     "grounds": "a particular or additional instruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates an additional point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atrāsti",
+     "gloss": "here-exists",
+     "grounds": "states presence of a special rule; fused form with sandhi",
+     "morph": "3.sg.present-active √as"
+    },
+    {
+     "surface": "śatrūcchedābhicārakaiḥ",
+     "gloss": "by-enemy-destruction-rites",
+     "grounds": "compound referring to practitioners of magical rites for destroying enemies",
+     "morph": "compound+tatpuruṣa"
+    }
+   ],
+   "question": "For whom does a special rule apply in this ritual context?",
+   "premises": [
+    "A special rule exists here.",
+    "The rule concerns those performing enemy-destruction rites.",
+    "This is stated as an additional instruction."
+   ],
+   "inference": "A special rule applies here for those performing magical rites aimed at destroying enemies.",
+   "uncertainties": [],
+   "plain_english": "Again, there is a special rule here for those performing magical rites for the destruction of enemies."
+  },
+  {
+   "verse": 8495,
+   "rows": [
+    {
+     "surface": "garuḍāsanam",
+     "gloss": "on-garuḍa-seat",
+     "grounds": "compound indicating seated on Garuḍa as a mount or seat",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "āsīnāṃ",
+     "gloss": "seated",
+     "grounds": "describes the goddess's posture",
+     "morph": "f.acc.sg.past-participle"
+    },
+    {
+     "surface": "vairinigrahakariṇīm",
+     "gloss": "enemy-subduing",
+     "grounds": "compound describing her as causing the subjugation of enemies",
+     "morph": "compound+tatpuruṣa"
+    }
+   ],
+   "question": "How is the goddess visualized for the purpose of subduing enemies?",
+   "premises": [
+    "The goddess is seated on Garuḍa.",
+    "She is described as subduing enemies.",
+    "This visualization is given as a special form."
+   ],
+   "inference": "For subduing enemies, the goddess is visualized seated on Garuḍa and causing enemy subjugation.",
+   "uncertainties": [],
+   "plain_english": "Seated on Garuḍa, causing the subduing of enemies."
+  },
+  {
+   "verse": 8496,
+   "rows": [
+    {
+     "surface": "sarvaśatru",
+     "gloss": "all-enemy",
+     "grounds": "compound referring to all enemies",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "vināśaḥ",
+     "gloss": "destruction",
+     "grounds": "the ruin or annihilation of enemies",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative expressing the result",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "duḥkhaṃ",
+     "gloss": "suffering",
+     "grounds": "pain or distress",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "experiences or reaches",
+     "morph": "3.sg.present-active √āp"
+    },
+    {
+     "surface": "kutracit",
+     "gloss": "anywhere",
+     "grounds": "indefinite locative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective and destructive results follow from this enemy-subduing practice?",
+   "premises": [
+    "Destruction of all enemies would occur.",
+    "Suffering is mentioned.",
+    "The practitioner does not obtain suffering anywhere."
+   ],
+   "inference": "This practice brings destruction of all enemies and prevents the practitioner from experiencing suffering anywhere.",
+   "uncertainties": [],
+   "plain_english": "There would be destruction of all enemies, and one would not experience suffering anywhere."
+  },
+  {
+   "verse": 8497,
+   "rows": [
+    {
+     "surface": "māyādyo",
+     "gloss": "beginning-with-māyā",
+     "grounds": "compound indicating the mantra begins with the māyā bīja; sandhi form as given",
+     "morph": "compound+bahuvrīhi"
+    },
+    {
+     "surface": " [hrīṃ maṃgale maṃgalālayai svāhā || ] ",
+     "gloss": "hrīṃ-maṃgale-maṃgalālayai-svāhā-mantra",
+     "grounds": "mantra text kept byte-exact; bīja syllable transliterated",
+     "morph": "(mantra-text)"
+    },
+    {
+     "surface": "vahnijāyānto",
+     "gloss": "ending-with-fire-consort",
+     "grounds": "compound indicating the mantra ends with svāhā; sandhi form as given",
+     "morph": "compound+bahuvrīhi"
+    },
+    {
+     "surface": "maṅgale",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address to the goddess Maṅgalā",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "maṅgalālaye",
+     "gloss": "o-abode-of-auspiciousness",
+     "grounds": "compound vocative addressing the goddess as abode of auspiciousness",
+     "morph": "compound+tatpuruṣa"
+    }
+   ],
+   "question": "What is the structure and wording of the Maṅgalā mantra given here?",
+   "premises": [
+    "The mantra begins with the māyā bīja.",
+    "The mantra ends with the fire-consort syllable svāhā.",
+    "The mantra addresses Maṅgalā as the abode of auspiciousness."
+   ],
+   "inference": "The Maṅgalā mantra is hrīṃ maṃgale maṃgalālayai svāhā, beginning with māyā and ending with svāhā.",
+   "uncertainties": [],
+   "plain_english": "Beginning with māyā and ending with svāhā: [hrīṃ maṃgale maṃgalālayai svāhā || ], O Maṅgalā, O abode of auspiciousness."
+  },
+  {
+   "verse": 8498,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(absolutive) √kṛ"
+    },
+    {
+     "surface": "ādyena",
+     "gloss": "with-first",
+     "grounds": "refers to the first element or seed",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "the six-limb ritual placement",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dīrghaṣaṭkayujā",
+     "gloss": "with-long-six-joined",
+     "grounds": "compound indicating use of six long syllables",
+     "morph": "compound+tatpuruṣa"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the six-limb ritual placement be performed using the first element and long syllables?",
+   "premises": [
+    "The six limbs are to be performed.",
+    "The first element is used.",
+    "The six long syllables are joined likewise."
+   ],
+   "inference": "One should perform the six-limb placement with the first element and likewise with the six long syllables.",
+   "uncertainties": [],
+   "plain_english": "Having performed the six limbs with the first, likewise joined with the six long syllables."
+  },
+  {
+   "verse": 8499,
+   "rows": [
+    {
+     "surface": "darasmeramukhāmbhojāṃ",
+     "gloss": "gentle-smile-lotus-face",
+     "grounds": "compound describing the goddess with a slightly smiling lotus-like face",
+     "morph": "compound+bahuvrīhi"
+    },
+    {
+     "surface": "sindūrasundarādharām",
+     "gloss": "vermilion-beautiful-lip",
+     "grounds": "compound describing her lips as beautiful with vermilion",
+     "morph": "compound+bahuvrīhi"
+    }
+   ],
+   "question": "What facial features characterize the goddess in this visualization?",
+   "premises": [
+    "Her face is like a lotus with a gentle smile.",
+    "Her lips are beautiful with vermilion.",
+    "These features form part of her visualization."
+   ],
+   "inference": "The goddess is visualized with a gently smiling lotus face and vermilion-beautiful lips.",
+   "uncertainties": [],
+   "plain_english": "With a lotus face gently smiling and lips beautiful with vermilion."
+  }
+ ]
+}

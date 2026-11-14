@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative plural masculine of tad",
+     "morph": "pron.loc.pl.m"
+    },
+    {
+     "surface": "svarāḥ",
+     "gloss": "vowels",
+     "grounds": "nominative plural masculine of svara",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "svatantrāḥ",
+     "gloss": "independent",
+     "grounds": "nominative plural masculine of svatantra",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "syustairvyajyādvyañjanaṃ",
+     "gloss": "they-are-by-them-manifested-consonant",
+     "grounds": "fused sandhi form; internal components include syuḥ, tair, vyajyāt, and vyañjanaṃ",
+     "morph": "fused-verb-pron-verb-noun"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative third singular active of bhū",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How do vowels and consonants differ in their ontological independence within the phoneme system?",
+   "premises": [
+    "Vowels are independent among the letters.",
+    "Consonants are manifested by vowels.",
+    "The phoneme system distinguishes independent and dependent sounds."
+   ],
+   "inference": "Vowels possess independent status while consonants depend on vowels for manifestation.",
+   "uncertainties": [
+    "Fused token segmentation is editorial; exact sandhi boundaries uncertain."
+   ],
+   "plain_english": "Among those letters, the vowels are independent; by them the consonant is manifested."
+  }
+ ]
+}

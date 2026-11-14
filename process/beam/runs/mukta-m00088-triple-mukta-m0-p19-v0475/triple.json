@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "anāmike",
+     "gloss": "ring-finger",
+     "grounds": "locative singular feminine of anāmikā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarale",
+     "gloss": "straight",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "nominative singular neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahis",
+     "gloss": "outside",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarjanīdvayam",
+     "gloss": "two-index-fingers",
+     "grounds": "nominative singular neuter compound dvaya",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the ring finger and two index fingers be arranged in this mudra?",
+   "premises": [
+    "ring finger is the locus",
+    "straight form is specified",
+    "two index fingers lie outside"
+   ],
+   "inference": "The mudra places the straight form in the ring finger while keeping both index fingers outside.",
+   "uncertainties": [
+    "the exact mudra name is not stated in this verse"
+   ],
+   "plain_english": "In the ring finger it is straight; the two index fingers are outside."
+  }
+ ]
+}

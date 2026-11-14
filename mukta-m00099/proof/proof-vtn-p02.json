@@ -1,0 +1,94 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "vtn-p02",
+ "work": "mukta-m00099",
+ "date": "2026-11-01",
+ "blocking": [
+  "DATA_OBJECTS 18 schema/cross-layer errors"
+ ],
+ "warnings": [
+  "METACOMMENTARY ['the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)']"
+ ],
+ "mode": "shastra",
+ "source_sha": "dac5d9f141edc35a",
+ "source_verses": 3,
+ "t1_verses": 3,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 28
+ },
+ "align": {
+  "min_ratio": 0.908,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 33,
+ "c1_metacommentary": [
+  "the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)"
+ ],
+ "l2_cites": {
+  "checked": 3,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l0[vtn-p02-v26-p001]: chosen 'plus' != T1.quick_gloss 'plus-and-liberation' (mark revised+reason)",
+   "l0[vtn-p02-v26-p002]: chosen 'liberation' != T1.quick_gloss 'plus-and-both' (mark revised+reason)",
+   "l0[vtn-p02-v26-p003]: chosen 'plus' != T1.quick_gloss 'plus-and-transcended' (mark revised+reason)",
+   "l0[vtn-p02-v26-p004]: chosen 'both' != T1.quick_gloss 'plus-and-great' (mark revised+reason)",
+   "l0[vtn-p02-v26-p005]: chosen 'plus' != T1.quick_gloss 'plus-and-liberation' (mark revised+reason)",
+   "l0[vtn-p02-v26-p006]: chosen 'transcended' != T1.quick_gloss 'palm' (mark revised+reason)",
+   "l0[vtn-p02-v26-p007]: chosen 'plus' != T1.quick_gloss 'plus-and-emblic-like' (mark revised+reason)",
+   "l0[vtn-p02-v26-p008]: chosen 'great' != T1.quick_gloss 'standing' (mark revised+reason)",
+   "l0[vtn-p02-v26-p009]: chosen 'plus' != T1.quick_gloss 'plus-and-thus' (mark revised+reason)",
+   "l0[vtn-p02-v26-p010]: chosen 'liberation' != T1.quick_gloss 'plus-and-meaning' (mark revised+reason)",
+   "l0[vtn-p02-v26-p011]: chosen 'palm' != T1.quick_gloss None (mark revised+reason)",
+   "l0[vtn-p02-v26-p012]: chosen 'plus' != T1.quick_gloss None (mark revised+reason)",
+   "l0[vtn-p02-v26-p013]: chosen 'emblic-like' != T1.quick_gloss None (mark revised+reason)",
+   "l0[vtn-p02-v26-p014]: chosen 'standing' != T1.quick_gloss None (mark revised+reason)",
+   "l0[vtn-p02-v26-p015]: chosen 'plus' != T1.quick_gloss None (mark revised+reason)",
+   "l0[vtn-p02-v26-p016]: chosen 'thus' != T1.quick_gloss None (mark revised+reason)",
+   "l0[vtn-p02-v26-p017]: chosen 'plus' != T1.quick_gloss None (mark revised+reason)",
+   "l0[vtn-p02-v26-p018]: chosen 'meaning' != T1.quick_gloss None (mark revised+reason)"
+  ],
+  "counts": {
+   "t1": 3,
+   "l0": 28,
+   "argmap": 3,
+   "l2": 3,
+   "l3": 0,
+   "l4": 0,
+   "essence": 3,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "61f6e04ec733af73753a520262c9d15abdb26e279d1c317471241f3dc59cf8e2",
+  "l0": "f2b772949cacb6ad2eadd60e4003db9e035c7c1ed41db025315343d61bc2c824",
+  "argmap": "8f2c5df7e1eeb19f95d772b1bae1d327397f077fbacf50f002f1c7e058e3b433",
+  "l2": "72d59f9cb2b41681aa1461a9ccfe883e45e21b51fb807168695eaa6a928a2ce2",
+  "c1": "a2a108c91289822cb41cc2534d2ce019e818381359e24389fc2168e93985c6ee"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "dac5d9f141edc35a",
+  "t1": "vtn-p02/data/vtn-p02.t1.json",
+  "l0": "vtn-p02/data/vtn-p02.l0.json",
+  "l2": "vtn-p02/data/vtn-p02.l2.json",
+  "c1": "vtn-p02/data/vtn-p02.c1.json"
+ }
+}

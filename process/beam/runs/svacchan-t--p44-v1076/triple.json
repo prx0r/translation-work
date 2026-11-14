@@ -1,0 +1,567 @@
+{
+ "song": "sva-p44",
+ "items": [
+  {
+   "verse": 1076,
+   "rows": [
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is conveyed by this short phrase?",
+   "premises": [
+    "saha means with",
+    "iti marks quotation",
+    "arthaḥ means meaning"
+   ],
+   "inference": "The phrase gives the sense of accompaniment or togetherness.",
+   "uncertainties": [
+    "exact referent of saha is not specified"
+   ],
+   "plain_english": "The meaning is 'with'."
+  },
+  {
+   "verse": 1077,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative singular pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma-rūpa",
+     "gloss": "name-form",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bheda",
+     "gloss": "difference",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "loka-anugraha",
+     "gloss": "for-world-welfare",
+     "grounds": "compound noun in dative sense",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "avatīrṇā",
+     "gloss": "descended",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What descended for the welfare of the world?",
+   "premises": [
+    "tat refers to that",
+    "nāma-rūpa means name and form",
+    "bheda means difference",
+    "loka-anugraha means for world welfare",
+    "avatīrṇā means descended"
+   ],
+   "inference": "A differentiated name-and-form manifestation descended for world welfare.",
+   "uncertainties": [
+    "the exact deity or principle is not named"
+   ],
+   "plain_english": "That name-form distinction descended for the welfare of the world."
+  },
+  {
+   "verse": 1078,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "neuter nominative singular pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "purāṇeṣu",
+     "gloss": "in-puranas",
+     "grounds": "locative plural noun",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "prasiddha",
+     "gloss": "well-known",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is this teaching already well known?",
+   "premises": [
+    "etat means this",
+    "purāṇeṣu means in the puranas",
+    "prasiddha means well known",
+    "eva means indeed"
+   ],
+   "inference": "This teaching is already well known in the puranas.",
+   "uncertainties": [
+    "which purana is intended is unspecified"
+   ],
+   "plain_english": "This is indeed well known in the puranas."
+  },
+  {
+   "verse": 1079,
+   "rows": [
+    {
+     "surface": "ruhati",
+     "gloss": "grows",
+     "grounds": "third singular active present verb",
+     "morph": "3.sg.act.pres (root ruh)"
+    },
+    {
+     "surface": "aṅka",
+     "gloss": "sprout",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ruhā",
+     "gloss": "grows",
+     "grounds": "feminine nominative singular noun or participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāma-ardha",
+     "gloss": "left-half",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "portion",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What grows and goes to the left half?",
+   "premises": [
+    "ruhati means grows",
+    "aṅka means sprout",
+    "ruhā means grows",
+    "vāma-ardha means left half",
+    "bhāga means portion",
+    "gatā means gone"
+   ],
+   "inference": "A growing sprout or portion has gone to the left half.",
+   "uncertainties": [
+    "the exact referent of the sprout is unclear"
+   ],
+   "plain_english": "The sprout grows and a portion has gone to the left half."
+  },
+  {
+   "verse": 1080,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṃśa",
+     "gloss": "part",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ākhyā-devatā",
+     "gloss": "named-deity",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvena",
+     "gloss": "as",
+     "grounds": "instrumental suffix form",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatīrṇā",
+     "gloss": "descended",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "fused iti plus arthaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is one part also described as a named deity?",
+   "premises": [
+    "ca means and",
+    "eka means one",
+    "aṃśa means part",
+    "ākhyā-devatā means named deity",
+    "tvena means as",
+    "api means also",
+    "avatīrṇā means descended",
+    "ityarthaḥ means thus meaning"
+   ],
+   "inference": "One part is also understood as a named deity that descended.",
+   "uncertainties": [
+    "the named deity is not specified"
+   ],
+   "plain_english": "And one part is also a named deity that descended."
+  },
+  {
+   "verse": 1081,
+   "rows": [
+    {
+     "surface": "mahiṣāsura-vadha",
+     "gloss": "for-buffalo-demon-slaying",
+     "grounds": "compound noun in dative sense",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "avatīrṇā",
+     "gloss": "descended",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "For what purpose did this descent occur?",
+   "premises": [
+    "mahiṣāsura-vadha means for buffalo demon slaying",
+    "avatīrṇā means descended"
+   ],
+   "inference": "The descent occurred for the slaying of the buffalo demon.",
+   "uncertainties": [
+    "the descending figure is not named"
+   ],
+   "plain_english": "She descended for the slaying of the buffalo demon."
+  },
+  {
+   "verse": 1082,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "by-that",
+     "grounds": "genitive singular pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "neuter nominative singular pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śakti-aṃśa",
+     "gloss": "power-portion",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhiṣṭhita",
+     "gloss": "presided",
+     "grounds": "past participle adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvāt",
+     "gloss": "by-reason-of",
+     "grounds": "ablative suffix form",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇutvam",
+     "gloss": "viṣṇu-hood",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is viṣṇu-hood attributed to this power-portion?",
+   "premises": [
+    "tasya means by that",
+    "etat means this",
+    "śakti-aṃśa means power portion",
+    "adhiṣṭhita means presided",
+    "tvāt means by reason of",
+    "eva means indeed",
+    "viṣṇutvam means viṣṇu-hood"
+   ],
+   "inference": "Viṣṇu-hood arises because this power-portion is presided over by that.",
+   "uncertainties": [
+    "the exact presiding power is not named"
+   ],
+   "plain_english": "Because that power-portion is presided over, viṣṇu-hood results."
+  },
+  {
+   "verse": 1083,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "neuter nominative singular pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyākhyāna",
+     "gloss": "explanation",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avasare",
+     "gloss": "occasion",
+     "grounds": "locative singular noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva-gṛha",
+     "gloss": "deity-house",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anusāreṇa",
+     "gloss": "according-to",
+     "grounds": "instrumental singular noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yojanā",
+     "gloss": "connection",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśītā",
+     "gloss": "shown",
+     "grounds": "feminine nominative singular participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the explanation connected to the deity house?",
+   "premises": [
+    "etat means this",
+    "vyākhyāna means explanation",
+    "avasare means occasion",
+    "iha means here",
+    "deva-gṛha means deity house",
+    "anusāreṇa means according to",
+    "yojanā means connection",
+    "daśītā means shown"
+   ],
+   "inference": "The explanation is shown here in connection with the deity house according to occasion.",
+   "uncertainties": [
+    "the exact occasion is not specified"
+   ],
+   "plain_english": "Here the explanation is shown in connection with the deity house."
+  },
+  {
+   "verse": 1084,
+   "rows": [
+    {
+     "surface": "prajā-hita-kāriṇā",
+     "gloss": "world-welfare-doing",
+     "grounds": "instrumental singular adjective or participle",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Who is described as doing world welfare?",
+   "premises": [
+    "prajā-hita-kāriṇā means by one doing world welfare"
+   ],
+   "inference": "The agent is characterized as one who does world welfare.",
+   "uncertainties": [
+    "the agent is not explicitly named"
+   ],
+   "plain_english": "By one who does world welfare."
+  },
+  {
+   "verse": 1085,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avasthitaḥ",
+     "gloss": "situated",
+     "grounds": "masculine nominative singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "third singular active present verb",
+     "morph": "3.sg.act.pres (root kṛ)"
+    }
+   ],
+   "question": "What does the one situated there do?",
+   "premises": [
+    "tatra means there",
+    "avasthitaḥ means situated",
+    "karoti means does"
+   ],
+   "inference": "The one situated there performs an action.",
+   "uncertainties": [
+    "the specific action is not stated"
+   ],
+   "plain_english": "Situated there, he does."
+  },
+  {
+   "verse": 1086,
+   "rows": [
+    {
+     "surface": "indriya-jayaḥ",
+     "gloss": "sense-control",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ittham",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive singular pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yogasya",
+     "gloss": "yoga",
+     "grounds": "genitive singular noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saguṇa",
+     "gloss": "with-qualities",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyaktīkṛtam",
+     "gloss": "manifested",
+     "grounds": "neuter nominative singular participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is sense-control manifested in this yoga?",
+   "premises": [
+    "indriya-jayaḥ means sense control",
+    "ittham means thus",
+    "ca means and",
+    "asya means of this",
+    "yogasya means of yoga",
+    "saguṇa means with qualities",
+    "eva means indeed",
+    "vyaktīkṛtam means manifested"
+   ],
+   "inference": "Sense-control is thus manifested as a qualified aspect of this yoga.",
+   "uncertainties": [
+    "the exact qualified form is not detailed"
+   ],
+   "plain_english": "Thus sense-control is indeed manifested as a qualified aspect of this yoga."
+  },
+  {
+   "verse": 1087,
+   "rows": [
+    {
+     "surface": "parameśvara-śāstra",
+     "gloss": "supreme-lord-scripture",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āśvasta",
+     "gloss": "protected",
+     "grounds": "masculine nominative plural participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "buddhayaḥ",
+     "gloss": "minds",
+     "grounds": "feminine nominative plural noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Whose minds are protected by supreme lord scripture?",
+   "premises": [
+    "parameśvara-śāstra means supreme lord scripture",
+    "āśvasta means protected",
+    "buddhayaḥ means minds"
+   ],
+   "inference": "Minds are protected by the scripture of the supreme lord.",
+   "uncertainties": [
+    "whose minds are protected is not specified"
+   ],
+   "plain_english": "Minds are protected by the scripture of the supreme lord."
+  }
+ ]
+}

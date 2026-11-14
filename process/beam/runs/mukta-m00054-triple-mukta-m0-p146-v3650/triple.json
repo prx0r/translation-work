@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3650,
+   "rows": [
+    {
+     "surface": "kamaṇḍaludharaḥ",
+     "gloss": "water-pot-bearer",
+     "grounds": "compound kamaṇḍalu-dharaḥ; epithet denoting one who holds a water-pot",
+     "morph": "compound kamaṇḍalu+dhara, m.nom.sg"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "kalpa",
+     "grounds": "epithet; can denote ordinance, aeon, or competence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kapardī",
+     "gloss": "matted-hair-wearer",
+     "grounds": "kapardin; epithet denoting one with matted hair",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalabhānanaḥ",
+     "gloss": "elephant-calf-faced",
+     "grounds": "compound kalabha-ānanaḥ; epithet denoting one with the face of an elephant calf",
+     "morph": "compound kalabha+ānana, m.nom.sg"
+    }
+   ],
+   "question": "Which epithets of bearing, hair, and visage identify the deity in this enumeration?",
+   "premises": [
+    "The deity is identified as bearing a water-pot.",
+    "The deity is designated by the epithet kalpa.",
+    "The deity is identified as wearing matted hair.",
+    "The deity is identified as having the face of an elephant calf."
+   ],
+   "inference": "These epithets together attribute specific iconographic features and titles to the deity.",
+   "uncertainties": [
+    "The precise sense of kalpaḥ as an epithet is context-dependent."
+   ],
+   "plain_english": "Bearer of the water-pot, Kalpa, wearer of matted hair, and elephant-calf-faced."
+  }
+ ]
+}

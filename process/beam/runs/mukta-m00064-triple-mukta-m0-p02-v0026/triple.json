@@ -1,0 +1,1551 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject of sentence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun, refers to guru",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaśī",
+     "gloss": "under-control",
+     "grounds": "predicate adjective in compound-like state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūto",
+     "gloss": "become",
+     "grounds": "past participle with vaśī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "subject of praṇamanti",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "object, refers to guru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praṇamanti",
+     "gloss": "bow-down",
+     "grounds": "main verb",
+     "morph": "3.pl.act-pres √praṇam"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What exalted status belongs to a teacher who has mastered control?",
+   "premises": [
+    "A teacher becomes fully self-controlled",
+    "Such a teacher commands supreme reverence",
+    "Even the gods bow down to him"
+   ],
+   "inference": "A self-controlled teacher is worthy of homage even from the gods.",
+   "uncertainties": [
+    "vaśī bhūto may imply control over senses or over others; context favors self-mastery"
+   ],
+   "plain_english": "Even the gods bow down to that teacher who has become fully self-controlled."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √pā"
+    },
+    {
+     "surface": "amṛta",
+     "gloss": "nectar",
+     "grounds": "object of drinking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavena",
+     "gloss": "with-state",
+     "grounds": "instrumental of manner or attitude",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "vocative or part of compound context",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "puraṃ",
+     "gloss": "city",
+     "grounds": "object of vrajet",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "What spiritual destination is attained by one who drinks nectar with proper inner state?",
+   "premises": [
+    "One may drink nectar with a particular inner state",
+    "Such drinking is linked to a higher attainment",
+    "The result is reaching the goddess's city"
+   ],
+   "inference": "Drinking nectar with the proper inner state leads one to the goddess's city.",
+   "uncertainties": [
+    "amṛta bhavena may mean with an attitude of immortality or with ritual nectar; both are possible"
+   ],
+   "plain_english": "O Goddess, whoever drinks the nectar with that inner state should go to the city of the Goddess."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "subject of implied existence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vede",
+     "gloss": "in-veda",
+     "grounds": "locative reference",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthita",
+     "gloss": "situated",
+     "grounds": "participle describing condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is any expiation required in that state even when established in Vedic observance?",
+   "premises": [
+    "The context concerns a specific elevated state",
+    "Vedic standing is acknowledged",
+    "No expiation applies there"
+   ],
+   "inference": "In that state, no expiation is required, even for one established in the Veda.",
+   "uncertainties": [
+    "tatra refers back to the prior state or attainment; exact antecedent depends on preceding context"
+   ],
+   "plain_english": "For in that state there is no expiation at all, even for one established in the Veda."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "first member of compound",
+     "morph": "compound: sva+mata"
+    },
+    {
+     "surface": "mataṃ",
+     "gloss": "view",
+     "grounds": "second member of compound, object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vedaiḥ",
+     "gloss": "by-vedas",
+     "grounds": "instrumental support or comparison",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound",
+     "morph": "compound: mahā+rudra"
+    },
+    {
+     "surface": "rudra",
+     "gloss": "rudra",
+     "grounds": "second member of compound",
+     "morph": "compound: mahā+rudra+vacas"
+    },
+    {
+     "surface": "vaco",
+     "gloss": "word",
+     "grounds": "final member of compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may one's own doctrine be aligned with Vedic and Mahārudra teachings?",
+   "premises": [
+    "An alternative approach is presented",
+    "One's own view can be considered",
+    "It may be understood in accordance with the Vedas and Mahārudra's word"
+   ],
+   "inference": "One's own doctrine may be upheld as consistent with the Vedas and the word of Mahārudra.",
+   "uncertainties": [
+    "syntactic relation is compressed; exact predicate is implied rather than explicit"
+   ],
+   "plain_english": "Or else, one's own view is to be understood in accordance with the Vedas, as in the word of Mahārudra."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "advaitaṃ",
+     "gloss": "non-duality",
+     "grounds": "subject or predicate noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "first member of compound",
+     "morph": "compound: devatā+aiśvarya"
+    },
+    {
+     "surface": "aiśvaryaṃ",
+     "gloss": "sovereignty",
+     "grounds": "second member of compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation, sandhi form of na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvaitaṃ",
+     "gloss": "duality",
+     "grounds": "negated term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "with-teacher",
+     "grounds": "instrumental companion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "postposition governing instrumental",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the proper non-dual understanding of deity, sovereignty, and relation with the teacher?",
+   "premises": [
+    "Non-duality is affirmed",
+    "The sovereignty of the deity is affirmed",
+    "Duality is denied in relation with the teacher"
+   ],
+   "inference": "Deity and its sovereignty are non-dual, and there is no duality with the teacher.",
+   "uncertainties": [
+    "legacy hint for dvaitaṃ as non-duality appears erroneous; glossed as duality based on nā dvaitaṃ"
+   ],
+   "plain_english": "Non-duality is the sovereignty of the deity; there is no duality together with the teacher."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "refuge",
+     "grounds": "predicate noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "predicate noun, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "predicate noun, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "predicate noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In what supreme forms is the teacher identified for the devoted disciple?",
+   "premises": [
+    "The teacher is declared to be the refuge",
+    "The teacher is identified as god",
+    "The teacher is identified as goddess"
+   ],
+   "inference": "The teacher is the ultimate refuge and is identical with both god and goddess.",
+   "uncertainties": [
+    "repetition of guruḥ devo may be emphatic or textual doubling; preserved as given"
+   ],
+   "plain_english": "O beloved, the teacher is the refuge, the teacher is god, the teacher is god, and the teacher is likewise the goddess."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "alpa",
+     "gloss": "little",
+     "grounds": "first member of compound",
+     "morph": "compound: alpa+jña"
+    },
+    {
+     "surface": "jño",
+     "gloss": "knowing",
+     "grounds": "second member of compound, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "an",
+     "gloss": "not",
+     "grounds": "negative prefix",
+     "morph": "compound: an+alpa"
+    },
+    {
+     "surface": "alpa",
+     "gloss": "little",
+     "grounds": "member of compound",
+     "morph": "compound: an+alpa+vijña"
+    },
+    {
+     "surface": "vijño",
+     "gloss": "knowing",
+     "grounds": "final member of compound, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "refuge",
+     "grounds": "predicate noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does the teacher remain the sole refuge regardless of apparent learning or limitation?",
+   "premises": [
+    "The teacher may appear to know little",
+    "The teacher may appear to know much",
+    "In all cases the teacher is the refuge"
+   ],
+   "inference": "Whether seemingly of little or great knowledge, the teacher alone is always the refuge.",
+   "uncertainties": [],
+   "plain_english": "Whether of little knowledge or of vast knowledge, the teacher alone is always the refuge."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of compound",
+     "morph": "compound: guru+patnī"
+    },
+    {
+     "surface": "patnī",
+     "gloss": "wife",
+     "grounds": "second member of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "predicate subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "negated noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the true status of the teacher's wife in relation to the teacher?",
+   "premises": [
+    "The teacher's wife is addressed in this teaching",
+    "She is identified with the teacher",
+    "No doubt is permitted regarding this"
+   ],
+   "inference": "The teacher's wife is none other than the teacher himself, without doubt.",
+   "uncertainties": [],
+   "plain_english": "O Great Goddess, the teacher's wife is the teacher alone; there is no doubt."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "bhojanīyaṃ",
+     "gloss": "to-be-eaten",
+     "grounds": "gerundive, object or subject of obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandeho",
+     "gloss": "doubt",
+     "grounds": "negated noun, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikāraḥ",
+     "gloss": "alteration",
+     "grounds": "condition in protasis",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adho",
+     "gloss": "downward",
+     "grounds": "first member of compound",
+     "morph": "compound: adhas+gati"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "course",
+     "grounds": "second member of compound, result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What consequence follows if one hesitates or reacts wrongly to what must be eaten?",
+   "premises": [
+    "What is given is to be eaten without doubt",
+    "A negative reaction or alteration is possible",
+    "Such reaction leads to a downward course"
+   ],
+   "inference": "One must eat without doubt, for aversion or alteration leads to a downward fall.",
+   "uncertainties": [
+    "bhojanīyaṃ likely refers to food offered by or associated with the guru; antecedent implied"
+   ],
+   "plain_english": "It is to be eaten without doubt; if there is aversion or alteration, the result is a downward course."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of compound",
+     "morph": "compound: guru+ucchiṣṭa"
+    },
+    {
+     "surface": "ucchiṣṭaṃ",
+     "gloss": "remnants",
+     "grounds": "second member of compound, subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "greatly",
+     "grounds": "first member of compound",
+     "morph": "compound: mahā+pūta"
+    },
+    {
+     "surface": "pūtaṃ",
+     "gloss": "pure",
+     "grounds": "second member of compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parāt",
+     "gloss": "beyond",
+     "grounds": "ablative in comparative expression",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual and spiritual purity is attributed to the teacher's remnants?",
+   "premises": [
+    "The teacher's remnants are discussed",
+    "They are declared greatly pure",
+    "They are said to be supreme beyond the supreme"
+   ],
+   "inference": "The teacher's remnants are supremely pure, surpassing even the highest purity.",
+   "uncertainties": [],
+   "plain_english": "The teacher's remnants are likewise declared to be greatly pure, supreme beyond the supreme."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of compound",
+     "morph": "compound: guru+antika"
+    },
+    {
+     "surface": "antike",
+     "gloss": "near",
+     "grounds": "second member of compound, locative sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "should-dwell",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √vas"
+    },
+    {
+     "surface": "pañcāśad",
+     "gloss": "fifty",
+     "grounds": "first member of compound",
+     "morph": "compound: pañcāśad+varṣa"
+    },
+    {
+     "surface": "varṣam",
+     "gloss": "years",
+     "grounds": "second member of compound, duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttame",
+     "gloss": "excellent",
+     "grounds": "adjective qualifying place or state",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What long-term dwelling near the teacher is presented as an ideal condition?",
+   "premises": [
+    "Dwelling near the teacher is considered",
+    "A duration of fifty years is specified",
+    "The dwelling is in an excellent setting"
+   ],
+   "inference": "Living near the teacher for fifty years in an excellent state is set forth as an ideal.",
+   "uncertainties": [
+    "uttame may qualify antike or the manner of dwelling; taken as excellent condition"
+   ],
+   "plain_english": "If one should dwell near the teacher for fifty years in an excellent state..."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-enjoyed",
+     "grounds": "absolutive participle",
+     "morph": "(indecl.) √bhuj"
+    },
+    {
+     "surface": "varān",
+     "gloss": "excellent",
+     "grounds": "adjective qualifying enjoyments",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "enjoyments",
+     "grounds": "object of bhuktvā",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ante",
+     "gloss": "in-the-end",
+     "grounds": "locative of time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "first member of compound",
+     "morph": "compound: devī+gaṇa"
+    },
+    {
+     "surface": "gaṇo",
+     "gloss": "attendant",
+     "grounds": "second member of compound, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "first member of compound",
+     "morph": "compound: deva+gaṇa"
+    },
+    {
+     "surface": "gaṇo",
+     "gloss": "attendant",
+     "grounds": "second member of compound, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What final attainment follows a life of excellent enjoyments in this world?",
+   "premises": [
+    "One enjoys excellent pleasures in this world",
+    "This life comes to an end",
+    "One becomes an attendant of the goddess or the god"
+   ],
+   "inference": "After enjoying excellent pleasures here, one becomes an attendant in the retinue of the goddess or the god.",
+   "uncertainties": [
+    "devī gaṇo deva gaṇo may indicate alternative or combined attainment"
+   ],
+   "plain_english": "Having enjoyed excellent pleasures here, in the end one should become an attendant of the goddess or an attendant of the god."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viharati",
+     "gloss": "roams",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres √vihṛ"
+    },
+    {
+     "surface": "vīro",
+     "gloss": "hero",
+     "grounds": "appositive to subject, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "first member of compound",
+     "morph": "compound: candra+arka+tāraka"
+    },
+    {
+     "surface": "ārka",
+     "gloss": "sun",
+     "grounds": "member of compound",
+     "morph": "compound: candra+arka+tāraka"
+    },
+    {
+     "surface": "tārakam",
+     "gloss": "stars",
+     "grounds": "final member of compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For how long does the accomplished hero continue to roam freely?",
+   "premises": [
+    "The subject is described as a hero",
+    "He roams freely",
+    "His roaming lasts as long as moon, sun, and stars endure"
+   ],
+   "inference": "The hero roams freely for as long as the moon, sun, and stars exist.",
+   "uncertainties": [],
+   "plain_english": "That hero roams freely as long as the moon, sun, and stars endure."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "his",
+     "grounds": "demonstrative determiner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sutaṃ",
+     "gloss": "son",
+     "grounds": "object of praṇamet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "his",
+     "grounds": "demonstrative determiner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tanayāṃ",
+     "gloss": "daughter",
+     "grounds": "object of praṇamet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "should-bow",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √praṇam"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "rule",
+     "grounds": "first member of compound",
+     "morph": "compound: vidhi+pūrvaka"
+    },
+    {
+     "surface": "pūrvakam",
+     "gloss": "preceded",
+     "grounds": "second member of compound, adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What reverence is owed to the teacher's son or daughter according to proper rule?",
+   "premises": [
+    "The teacher's son or daughter is the object of respect",
+    "Bowing to them is prescribed",
+    "This should be done according to proper rule"
+   ],
+   "inference": "One should bow to the teacher's son or daughter in accordance with the prescribed rule.",
+   "uncertainties": [
+    "tat functions as genitive equivalent in this context"
+   ],
+   "plain_english": "One should bow to his son or his daughter in accordance with the proper rule."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "yatrā",
+     "gloss": "in-which",
+     "grounds": "relative locative, sandhi form of yatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśāyāṃ",
+     "gloss": "direction",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive dependent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "subject of implied location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prātaḥ",
+     "gloss": "in-morning",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "first member of compound",
+     "morph": "compound: tat+mukha"
+    },
+    {
+     "surface": "mukhaḥ",
+     "gloss": "facing",
+     "grounds": "second member of compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should one orient oneself daily toward the direction of the teacher's abode?",
+   "premises": [
+    "The teacher's place lies in some direction",
+    "Daily morning practice is indicated",
+    "One should face that direction"
+   ],
+   "inference": "One should always face the direction of the teacher's abode, especially in the morning.",
+   "uncertainties": [],
+   "plain_english": "In whichever direction the teacher's place lies, one should always face that direction, especially in the morning."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "praṇamet",
+     "gloss": "should-bow",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √praṇam"
+    },
+    {
+     "surface": "bhakti",
+     "gloss": "devotion",
+     "grounds": "first member of compound",
+     "morph": "compound: bhakti+saṃyukta"
+    },
+    {
+     "surface": "saṃyuktaḥ",
+     "gloss": "endowed",
+     "grounds": "second member of compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "predicate adjective, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation, sandhi form of na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tra",
+     "gloss": "here",
+     "grounds": "locative adverb, sandhi fragment of atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "negated noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What spiritual accomplishment results from bowing with devotion toward the teacher's direction?",
+   "premises": [
+    "One bows endowed with devotion",
+    "Such devotion is directed toward the teacher",
+    "The practitioner becomes accomplished"
+   ],
+   "inference": "One who bows with devotion becomes accomplished, without doubt.",
+   "uncertainties": [
+    "nā tra reflects sandhi for na atra; analyzed as given fused form"
+   ],
+   "plain_english": "Endowed with devotion, one should bow; he becomes accomplished—there is no doubt here."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "vṛkṣa",
+     "gloss": "tree",
+     "grounds": "first member of compound",
+     "morph": "compound: vṛkṣa+ālī"
+    },
+    {
+     "surface": "ālī",
+     "gloss": "row",
+     "grounds": "second member of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalpa",
+     "gloss": "wish-fulfilling",
+     "grounds": "first member of compound",
+     "morph": "compound: kalpa+vṛkṣa"
+    },
+    {
+     "surface": "vṛkṣa",
+     "gloss": "tree",
+     "grounds": "second member of compound",
+     "morph": "compound: kalpa+vṛkṣa+ālī"
+    },
+    {
+     "surface": "ālī",
+     "gloss": "row",
+     "grounds": "final member of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "latā",
+     "gloss": "creeper",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalpa",
+     "gloss": "wish-fulfilling",
+     "grounds": "first member of compound",
+     "morph": "compound: kalpa+latā"
+    },
+    {
+     "surface": "latā",
+     "gloss": "creeper",
+     "grounds": "second member of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past participle predicate",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the trees and creepers in the teacher's domain regarded in sacred terms?",
+   "premises": [
+    "Rows of trees are present in the teacher's domain",
+    "Creepers are also present",
+    "They are regarded as wish-fulfilling"
+   ],
+   "inference": "The rows of trees and creepers there are to be regarded as wish-fulfilling.",
+   "uncertainties": [
+    "syntactic compression leaves implied location (guru's place) from context"
+   ],
+   "plain_english": "The rows of trees are rows of wish-fulfilling trees, and the creepers are remembered as wish-fulfilling creepers."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of compound",
+     "morph": "compound: guru+geha"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "house",
+     "grounds": "second member of compound, locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "participle describing dāsyaḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dāsyo",
+     "gloss": "maidservants",
+     "grounds": "subject, sandhi form",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhairavyaḥ",
+     "gloss": "bhairavis",
+     "grounds": "predicate noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle predicate",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What divine identity is attributed to the maidservants dwelling in the teacher's house?",
+   "premises": [
+    "Maidservants dwell in the teacher's house",
+    "They are given a sacred identification",
+    "They are proclaimed to be Bhairavīs"
+   ],
+   "inference": "The maidservants in the teacher's house are proclaimed to be Bhairavīs.",
+   "uncertainties": [],
+   "plain_english": "The maidservants situated in the teacher's house are proclaimed to be Bhairavīs."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "pradakṣiṇī",
+     "gloss": "circumambulation",
+     "grounds": "first member of compound",
+     "morph": "compound: pradakṣiṇī+kṛta"
+    },
+    {
+     "surface": "kṛtā",
+     "gloss": "made",
+     "grounds": "second member of compound, predicate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "instrumental agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "first member of compound",
+     "morph": "compound: sapta+dvīpa"
+    },
+    {
+     "surface": "dvīpā",
+     "gloss": "island",
+     "grounds": "second member of compound",
+     "morph": "compound: sapta+dvīpa+vasundharā"
+    },
+    {
+     "surface": "vasundharā",
+     "gloss": "earth",
+     "grounds": "final member of compound, object",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cosmic merit is gained by performing circumambulation in this sacred context?",
+   "premises": [
+    "Circumambulation is performed by someone",
+    "The act has a vast equivalent merit",
+    "It equals circumambulating the seven-island earth"
+   ],
+   "inference": "By that circumambulation, one is deemed to have circumambulated the entire seven-island earth.",
+   "uncertainties": [
+    "object of circumambulation is implied from prior context, likely the guru or guru's abode"
+   ],
+   "plain_english": "By him, circumambulation is made of the earth with its seven islands."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "tvatto",
+     "gloss": "than-you",
+     "grounds": "ablative of comparison, sandhi form of tvattaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhika",
+     "gloss": "greater",
+     "grounds": "first member of compound",
+     "morph": "compound: adhika+eva"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "instrumental agent",
+     "morph": "2.sg.inst"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "past participle predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the declared greatness of the teacher compare even to the goddess addressed?",
+   "premises": [
+    "The goddess is addressed as the speaker's counterpart",
+    "The teacher is compared to her",
+    "The teacher is declared even greater than her"
+   ],
+   "inference": "The teacher is declared by you to be even greater than you.",
+   "uncertainties": [
+    "speaker attribution depends on dialogue context; tvayā indicates the addressed deity declares this"
+   ],
+   "plain_english": "This teacher has been declared by you to be even greater than you."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound: sarva+mantra"
+    },
+    {
+     "surface": "mantre",
+     "gloss": "mantra",
+     "grounds": "second member of compound, locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What supreme authority does the teacher hold in relation to all mantras?",
+   "premises": [
+    "The teacher is the subject of affirmation",
+    "All mantras are within scope",
+    "The teacher is declared supreme in that domain"
+   ],
+   "inference": "The teacher alone is supreme in relation to all mantras.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, lord of gods, that very teacher is now supreme in all mantras."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "mahāśaive",
+     "gloss": "in-great-shaiva",
+     "grounds": "locative of tradition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saure",
+     "gloss": "in-saura",
+     "grounds": "locative of tradition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tra",
+     "gloss": "here",
+     "grounds": "locative adverb, sandhi fragment of atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "negated noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does the teacher's supreme status extend across different tantric traditions without exception?",
+   "premises": [
+    "The great Śaiva tradition is included",
+    "The Saura tradition is included",
+    "The same teacher is affirmed in both"
+   ],
+   "inference": "The teacher holds the same supreme status in both the great Śaiva and Saura traditions, without doubt.",
+   "uncertainties": [
+    "na tra reflects sandhi for na atra; analyzed as given fused form"
+   ],
+   "plain_english": "In the great Śaiva and in the Saura traditions, he is the teacher—there is no doubt here."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound: mantra+pradāna"
+    },
+    {
+     "surface": "pradāna",
+     "gloss": "giving",
+     "grounds": "second member of compound",
+     "morph": "compound: mantra+pradāna+kāla"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "time",
+     "grounds": "final member of compound, locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānuṣe",
+     "gloss": "in-human",
+     "grounds": "locative context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mānuṣo",
+     "gloss": "human",
+     "grounds": "predicate adjective, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naga",
+     "gloss": "mountain",
+     "grounds": "first member of compound",
+     "morph": "compound: naga+nandinī"
+    },
+    {
+     "surface": "nandini",
+     "gloss": "daughter",
+     "grounds": "second member of compound, vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What human appearance does the teacher assume at the time of mantra transmission?",
+   "premises": [
+    "The context is the time of giving mantra",
+    "The setting involves a human recipient or form",
+    "The teacher appears as human"
+   ],
+   "inference": "At the time of mantra transmission, the teacher appears in human form.",
+   "uncertainties": [
+    "mānuṣe may refer to a human disciple or human context; taken as human setting"
+   ],
+   "plain_english": "O daughter of the mountain, at the time of giving mantra, in the human realm, the teacher is indeed human."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "atas",
+     "gloss": "therefore",
+     "grounds": "conclusive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of compound",
+     "morph": "compound: guru+tā"
+    },
+    {
+     "surface": "tā",
+     "gloss": "state",
+     "grounds": "second member of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mānuṣe",
+     "gloss": "in-human",
+     "grounds": "locative context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mānuṣī",
+     "gloss": "human",
+     "grounds": "predicate adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "repeated negation for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tra",
+     "gloss": "here",
+     "grounds": "locative adverb, sandhi fragment of atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "negated noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is the teacher's essential status merely human despite appearing in human form?",
+   "premises": [
+    "The teacher appears in a human context",
+    "The state of being teacher is considered",
+    "That state is not merely human"
+   ],
+   "inference": "Therefore, although appearing in human form, the teacher's true status is not merely human, without doubt.",
+   "uncertainties": [
+    "na na tra reflects emphatic negation and sandhi for na atra; analyzed as given fused forms"
+   ],
+   "plain_english": "Therefore, O Goddess, in the human realm the state of being teacher is not merely human—there is no doubt here."
+  }
+ ]
+}

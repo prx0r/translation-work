@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p173",
+ "items": [
+  {
+   "verse": 4325,
+   "rows": [
+    {
+     "surface": "dviśastatra",
+     "gloss": "twice-there",
+     "grounds": "adverb of repetition plus locative particle fused in one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajeddevīmāvāhya",
+     "gloss": "worship-goddess-invoking",
+     "grounds": "optative verb, accusative noun, and absolutive fused by sandhi",
+     "morph": "verb.3.sg.act-opt + acc.sg.f + abs."
+    },
+    {
+     "surface": "parivārakaiḥ",
+     "gloss": "with-attendants",
+     "grounds": "instrumental plural masculine noun",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "How many times must the goddess be worshipped with attendants after invocation?",
+   "premises": [
+    "the goddess is worshipped twice there",
+    "invocation precedes the worship",
+    "attendants accompany the worship"
+   ],
+   "inference": "the ritual prescribes a double worship of the invoked goddess with her attendants",
+   "uncertainties": [
+    "internal sandhi boundaries are not expanded in the row surfaces"
+   ],
+   "plain_english": "There, worship the goddess twice, having invoked her, together with her attendants."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p243",
+ "items": [
+  {
+   "verse": 6075,
+   "rows": [
+    {
+     "surface": "maṇḍa+ādibhiḥ",
+     "gloss": "with-circle-and-others",
+     "grounds": "instrumental plural of compound maṇḍa+ādi, indicating means",
+     "morph": "compound.ins.pl.m"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb expressing attainment or achievement",
+     "morph": "3.sg.act-pres √av-āp"
+    },
+    {
+     "surface": "mantraḥ+ayam",
+     "gloss": "this-mantra",
+     "grounds": "demonstrative pronoun with noun; sandhi fusion marked by +",
+     "morph": "nom.sg.m+nom.sg.m"
+    },
+    {
+     "surface": "praṇava+ādikaḥ",
+     "gloss": "beginning-with-praṇava",
+     "grounds": "compound adjective qualifying mantra",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What attainment does this praṇava-beginning mantra achieve through maṇḍa and other means?",
+   "premises": [
+    "This mantra begins with praṇava.",
+    "The mantra is applied with maṇḍa and other means.",
+    "Such application leads to obtaining a result."
+   ],
+   "inference": "Therefore this praṇava-beginning mantra obtains its intended attainment through maṇḍa and other means.",
+   "uncertainties": [
+    "The specific object attained by avāpnoti is not stated in this verse."
+   ],
+   "plain_english": "This mantra, beginning with praṇava, achieves its attainment through the use of maṇḍa and other means."
+  }
+ ]
+}

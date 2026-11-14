@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "virāme",
+     "gloss": "at-cessation",
+     "grounds": "locative indicating the point of ending or pause",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṅgasya",
+     "gloss": "of-limb",
+     "grounds": "denotes the part or limb in relation to which cessation occurs",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the mantra so situated; form as given",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "subject of the designation; final visarga elided in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛtavīrya",
+     "gloss": "deprived-of-power",
+     "grounds": "compound describing the mantra as having its potency taken away",
+     "morph": "hṛta+vīrya (compound)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "anaphoric pronoun referring back to the mantra",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states the designation applied to the mantra in this condition",
+     "morph": "3.sg.pass-pres (√vac)"
+    }
+   ],
+   "question": "Under what condition is a mantra designated as deprived of its power?",
+   "premises": [
+    "A mantra may occur at the cessation of a limb.",
+    "In that position the mantra has its power taken away.",
+    "Such a mantra receives a specific designation."
+   ],
+   "inference": "A mantra located at the cessation of a limb and deprived of power is so designated.",
+   "uncertainties": [
+    "The grammatical agreement between 'ye' (plural form) and singular 'mantro'/'sa' is unclear from the surface form alone."
+   ],
+   "plain_english": "A mantra which, at the cessation of the limb, has its power taken away is called deprived of power."
+  }
+ ]
+}

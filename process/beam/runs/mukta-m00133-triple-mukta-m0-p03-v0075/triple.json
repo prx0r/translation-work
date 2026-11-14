@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "chakāraṃ",
+     "gloss": "ca-syllable",
+     "grounds": "accusative object identifying the syllable ca; bīja/mantra element transliterated by function",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parama+āścaryaṃ",
+     "gloss": "supreme-wonder",
+     "grounds": "compound adjective qualifying chakāraṃ; expresses the wondrous nature of the syllable",
+     "morph": "compound: parama+āścarya; m.acc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "herself",
+     "grounds": "indeclinable emphasizing self-identity of the subject",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parama+kuṇḍalī",
+     "gloss": "supreme-kuṇḍalī",
+     "grounds": "compound noun naming the goddess as the supreme kuṇḍalī, subject of the identification",
+     "morph": "compound: parama+kuṇḍalī; f.nom.sg"
+    }
+   ],
+   "question": "What wondrous identity does the supreme kuṇḍalī embody in the form of the ca-syllable?",
+   "premises": [
+    "The supreme kuṇḍalī is identified with the ca-syllable.",
+    "The ca-syllable is characterized as a supreme wonder.",
+    "This identification is affirmed as her own intrinsic nature."
+   ],
+   "inference": "Therefore the ca-syllable is the supreme kuṇḍalī's own wondrous self-manifestation.",
+   "uncertainties": [
+    "The implicit predicate linking chakāraṃ and parama+kuṇḍalī is supplied from context."
+   ],
+   "plain_english": "The supreme kuṇḍalī is herself the ca-syllable, a supreme wonder."
+  }
+ ]
+}

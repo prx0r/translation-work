@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "mantra syllable/word used as ritual formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument by which worship is performed",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ādhāre",
+     "gloss": "on-support",
+     "grounds": "location of the ritual act; ritual base",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahni+maṇḍalam",
+     "gloss": "fire-circle",
+     "grounds": "compound object of worship: vahni (fire) + maṇḍala (circle)",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act (√arc)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the stated instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "identifies the purport of the preceding instruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what mantra and in what location must the fire-circle be worshipped?",
+   "premises": [
+    "The mantra formula is specified as 'namaḥ'.",
+    "The act of worship is to be performed with that mantra.",
+    "The fire-circle is to be worshipped on the support or base."
+   ],
+   "inference": "Therefore, one should worship the fire-circle on the support using the mantra 'namaḥ'.",
+   "uncertainties": [
+    "The specific identity of the ādhāra (support/base) is not specified in this verse alone."
+   ],
+   "plain_english": "With the mantra 'namaḥ', one should worship the fire-circle on the support; such is the meaning."
+  }
+ ]
+}

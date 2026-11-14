@@ -1,0 +1,1017 @@
+{
+ "song": "mukta-m0-p185",
+ "items": [
+  {
+   "verse": 4601,
+   "rows": [
+    {
+     "surface": "ekadvitrikramāt",
+     "gloss": "in-one-two-three-order",
+     "grounds": "compound indicating sequential order",
+     "morph": "compound"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "adhike",
+     "gloss": "in-excess",
+     "grounds": "locative of the additional portion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ṛtuvat",
+     "gloss": "like-seasons",
+     "grounds": "comparative indicating seasonal proportion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-made",
+     "grounds": "locative absolute condition",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what sequential order should the excess portion be allotted when constructed?",
+   "premises": [
+    "An excess portion is being allotted",
+    "The allotment follows one-two-three order",
+    "The proportion is made like seasons"
+   ],
+   "inference": "The excess should be given in one-two-three sequence according to seasonal proportion.",
+   "uncertainties": [
+    "The exact seasonal analogy implied by ṛtuvat is context-dependent"
+   ],
+   "plain_english": "When made, one should give the excess in the order of one, two, and three, like the seasons."
+  },
+  {
+   "verse": 4602,
+   "rows": [
+    {
+     "surface": "saptasaptāṣṭa",
+     "gloss": "seven-seven-eight",
+     "grounds": "compound numeral sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "object denoting division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca+pañca+ṣaḍaṃśakam",
+     "gloss": "five-five-six-part",
+     "grounds": "compound numeral with part",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative sets of proportional parts are prescribed for the division?",
+   "premises": [
+    "One set of parts is seven-seven-eight",
+    "Another set of parts is five-five-six",
+    "Both sets function as divisions"
+   ],
+   "inference": "The division may be made either as seven-seven-eight parts or as five-five-six parts.",
+   "uncertainties": [],
+   "plain_english": "The parts are seven, seven, and eight, or alternatively five, five, and six."
+  },
+  {
+   "verse": 4603,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivādhikaṃ",
+     "gloss": "with-śiva-excess",
+     "grounds": "compound describing liṅga with Śiva portion exceeding",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "liṅga",
+     "grounds": "object of prescription",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brāhmādyādiṣvanukramāt",
+     "gloss": "in-brāhma-and-others-in-order",
+     "grounds": "compound indicating sequential application to types",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should a liṅga with excess Śiva portion be applied across Brāhma and other types?",
+   "premises": [
+    "The liṅga has a Śiva-excess portion",
+    "The application follows a stated order",
+    "The order proceeds through Brāhma and other types"
+   ],
+   "inference": "Thus the liṅga with Śiva-excess is to be applied in order to the Brāhma and other types.",
+   "uncertainties": [
+    "The full list of types implied by brāhmādyādiṣu is not specified here"
+   ],
+   "plain_english": "Thus the liṅga with the Śiva portion in excess is applied in order among the Brāhma and other types."
+  },
+  {
+   "verse": 4604,
+   "rows": [
+    {
+     "surface": "ṣaḍsaptāṣṭa",
+     "gloss": "six-seven-eight",
+     "grounds": "compound numeral sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhāgaiḥ",
+     "gloss": "by-divisions",
+     "grounds": "instrumental of measure",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāho",
+     "gloss": "diameter",
+     "grounds": "subject term for measurement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudrādiṣu+kramāt",
+     "gloss": "in-rudra-and-others-in-order",
+     "grounds": "compound indicating sequential application",
+     "morph": "compound"
+    }
+   ],
+   "question": "What divisional measures determine the diameter for Rudra and other liṅga types?",
+   "premises": [
+    "The diameter is measured by divisions",
+    "The divisions are six-seven-eight",
+    "The application proceeds in order through Rudra and others"
+   ],
+   "inference": "For Rudra and other types, the diameter is determined by divisions of six, seven, and eight in order.",
+   "uncertainties": [],
+   "plain_english": "But for Rudra and other types, the diameter is set by divisions of six, seven, and eight in order."
+  },
+  {
+   "verse": 4605,
+   "rows": [
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "adverbial division into nine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃgamānena",
+     "gloss": "by-liṅga-measure",
+     "grounds": "instrumental standard of measurement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tricaturbhiḥ",
+     "gloss": "by-three-and-four",
+     "grounds": "instrumental numeral indicating parts",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ajādayaḥ",
+     "gloss": "aja-and-others",
+     "grounds": "compound naming a class of types",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are Aja and other types proportioned using a ninefold liṅga measure?",
+   "premises": [
+    "The liṅga measure is divided ninefold",
+    "Three and four parts are used",
+    "The rule applies to Aja and other types"
+   ],
+   "inference": "Aja and other types are proportioned by three and four parts within a ninefold liṅga measure.",
+   "uncertainties": [
+    "The precise assignment of three and four parts is not fully explicit"
+   ],
+   "plain_english": "For Aja and others, using a ninefold liṅga measure, the parts are three and four."
+  },
+  {
+   "verse": 4606,
+   "rows": [
+    {
+     "surface": "triṃśadbhāge",
+     "gloss": "in-thirty-part",
+     "grounds": "locative of total division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivāyāme",
+     "gloss": "in-śiva-length",
+     "grounds": "locative specifying Śiva portion length",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "navadigrudrabhāgataḥ",
+     "gloss": "from-nine-direction-rudra-part",
+     "grounds": "compound indicating derivation from parts",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the Śiva-length portion determined within a thirty-part division?",
+   "premises": [
+    "The whole is divided into thirty parts",
+    "The Śiva-length is being specified",
+    "The measure derives from nine-direction-Rudra parts"
+   ],
+   "inference": "In a thirty-part division, the Śiva-length is determined from the nine-direction-Rudra parts.",
+   "uncertainties": [
+    "The technical meaning of navadigrudrabhāgataḥ requires ritual context"
+   ],
+   "plain_english": "In a thirty-part division, the Śiva-length is taken according to the nine-direction-Rudra parts."
+  },
+  {
+   "verse": 4607,
+   "rows": [
+    {
+     "surface": "trayastriṃśatkṛte",
+     "gloss": "made-in-thirty-three",
+     "grounds": "compound locative condition of division",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṃge",
+     "gloss": "in-liṅga",
+     "grounds": "locative of the object",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svasthikaṃ",
+     "gloss": "svastika",
+     "grounds": "name of a liṅga form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūdrayogyakam",
+     "gloss": "suitable-for-śūdra",
+     "grounds": "compound indicating suitability",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which liṅga form divided into thirty-three parts is deemed suitable for a Śūdra?",
+   "premises": [
+    "The liṅga is divided into thirty-three parts",
+    "A specific form called svastika is identified",
+    "This form is suitable for a Śūdra"
+   ],
+   "inference": "When the liṅga is made in thirty-three parts, the svastika form is suitable for a Śūdra.",
+   "uncertainties": [],
+   "plain_english": "When the liṅga is divided into thirty-three parts, the svastika form is suitable for a Śūdra."
+  },
+  {
+   "verse": 4608,
+   "rows": [
+    {
+     "surface": "mukha",
+     "gloss": "face",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "liṅga",
+     "grounds": "object being considered",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvokta",
+     "gloss": "previously-stated",
+     "grounds": "compound referring to earlier rule",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhinātrāpi",
+     "gloss": "by-rule-here-also",
+     "grounds": "fused compound with locative and particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvyate",
+     "gloss": "is-to-be-considered",
+     "grounds": "prescriptive passive",
+     "morph": "3.sg.present-passive √bhū"
+    }
+   ],
+   "question": "By what rule should the mukha-liṅga also be understood in this context?",
+   "premises": [
+    "The mukha-liṅga is under consideration",
+    "A rule was previously stated",
+    "That same rule applies here also"
+   ],
+   "inference": "The mukha-liṅga is to be understood here also according to the previously stated rule.",
+   "uncertainties": [],
+   "plain_english": "And the mukha-liṅga is to be considered here also according to the previously stated rule."
+  },
+  {
+   "verse": 4609,
+   "rows": [
+    {
+     "surface": "liṃgānāmadhikaṃ",
+     "gloss": "excess-of-liṅgas",
+     "grounds": "compound object indicating additional portion",
+     "morph": "compound"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "śiraso",
+     "gloss": "of-head",
+     "grounds": "genitive specifying part",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vartanāṃśakam",
+     "gloss": "curvature-part",
+     "grounds": "compound denoting rounded portion",
+     "morph": "compound"
+    }
+   ],
+   "question": "What additional portion should be allotted to the head of the liṅgas?",
+   "premises": [
+    "An excess portion for liṅgas is prescribed",
+    "The portion relates to the head",
+    "It consists of a curvature part"
+   ],
+   "inference": "One should give the excess of the liṅgas as the curvature part of the head.",
+   "uncertainties": [
+    "The exact technical sense of vartanāṃśaka may vary by tradition"
+   ],
+   "plain_english": "One should give the excess of the liṅgas as the curvature portion of the head."
+  },
+  {
+   "verse": 4610,
+   "rows": [
+    {
+     "surface": "śivaliṃgapratiṣṭhokta",
+     "gloss": "stated-in-śiva-liṅga-installation",
+     "grounds": "compound referring to installation prescriptions",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "instrumental of procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "object to be determined",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-apply",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active √nī"
+    }
+   ],
+   "question": "By which procedural rule should the defining characteristics of the liṅga be applied?",
+   "premises": [
+    "The liṅga has defining characteristics",
+    "A rule is stated in Śiva-liṅga installation",
+    "That rule guides application"
+   ],
+   "inference": "One should apply the characteristics according to the rule stated for Śiva-liṅga installation.",
+   "uncertainties": [],
+   "plain_english": "One should apply the characteristic marks according to the rule stated for the installation of the Śiva-liṅga."
+  },
+  {
+   "verse": 4611,
+   "rows": [
+    {
+     "surface": "liṃgaviṣkambhamānena",
+     "gloss": "by-liṅga-diameter-measure",
+     "grounds": "instrumental standard of measurement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "triguṇā",
+     "gloss": "threefold",
+     "grounds": "predicate describing width",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistṛtiḥ",
+     "gloss": "width",
+     "grounds": "subject being specified",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What width is prescribed relative to the diameter measure of the liṅga?",
+   "premises": [
+    "The liṅga diameter provides the measure",
+    "The width is being specified",
+    "A threefold proportion is allowed"
+   ],
+   "inference": "The width may be three times the liṅga diameter measure.",
+   "uncertainties": [],
+   "plain_english": "Or the width may be three times the measure of the liṅga’s diameter."
+  },
+  {
+   "verse": 4612,
+   "rows": [
+    {
+     "surface": "pūjāṃśa",
+     "gloss": "worship-part",
+     "grounds": "subject part being measured",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviguṇā",
+     "gloss": "twofold",
+     "grounds": "first proportional option",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triguṇā",
+     "gloss": "threefold",
+     "grounds": "second proportional option",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturguṇā",
+     "gloss": "fourfold",
+     "grounds": "third proportional option",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What proportional options are allowed for the worship portion of the liṅga?",
+   "premises": [
+    "The worship part is being measured",
+    "Multiple proportional options are given",
+    "The options are twofold threefold or fourfold"
+   ],
+   "inference": "The worship part may be twofold, threefold, or fourfold.",
+   "uncertainties": [],
+   "plain_english": "The worship portion may be twofold, or threefold, or fourfold."
+  },
+  {
+   "verse": 4613,
+   "rows": [
+    {
+     "surface": "nāha",
+     "gloss": "diameter",
+     "grounds": "subject term for measurement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviguṇa+mānā",
+     "gloss": "twofold-measure",
+     "grounds": "compound describing proportional measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭha+vistṛti",
+     "gloss": "pedestal-width",
+     "grounds": "compound subject being evaluated",
+     "morph": "compound"
+    },
+    {
+     "surface": "rucyate",
+     "gloss": "is-approved",
+     "grounds": "prescriptive passive",
+     "morph": "3.sg.present-passive √ruc"
+    }
+   ],
+   "question": "Is a pedestal width twice the diameter measure considered acceptable?",
+   "premises": [
+    "The diameter provides a base measure",
+    "A twofold measure is proposed",
+    "The pedestal width is being evaluated"
+   ],
+   "inference": "A pedestal width of twice the diameter measure is approved.",
+   "uncertainties": [],
+   "plain_english": "Or a pedestal width twice the diameter measure is approved."
+  },
+  {
+   "verse": 4614,
+   "rows": [
+    {
+     "surface": "garbhageha",
+     "gloss": "sanctum-house",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tribhāgaikaḥ",
+     "gloss": "one-third-part",
+     "grounds": "compound expressing fractional proportion",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhāgaikaḥ",
+     "gloss": "one-fourth-part",
+     "grounds": "compound expressing fractional proportion",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fractional proportions of the sanctum are permitted for the measure?",
+   "premises": [
+    "The sanctum provides the reference measure",
+    "One-third is a possible proportion",
+    "One-fourth is an alternative proportion"
+   ],
+   "inference": "The measure may be one-third or one-fourth of the sanctum.",
+   "uncertainties": [],
+   "plain_english": "It may be one-third of the sanctum, or indeed one-fourth."
+  },
+  {
+   "verse": 4615,
+   "rows": [
+    {
+     "surface": "viṣṇubhāga",
+     "gloss": "viṣṇu-part",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samottuṅga",
+     "gloss": "equal-height",
+     "grounds": "compound describing equal elevation",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādārdha",
+     "gloss": "half-foot",
+     "grounds": "compound indicating additional measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "together-with",
+     "grounds": "predicate indicating inclusion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative height is allowed relative to the Viṣṇu portion of the liṅga?",
+   "premises": [
+    "The Viṣṇu part sets a height reference",
+    "An equal height is considered",
+    "An additional half-foot may be included"
+   ],
+   "inference": "Alternatively, the height may equal the Viṣṇu part together with an added half-foot.",
+   "uncertainties": [],
+   "plain_english": "Or else it may be equal in height to the Viṣṇu portion together with half a foot."
+  },
+  {
+   "verse": 4616,
+   "rows": [
+    {
+     "surface": "pañcāṃśoccaṃ",
+     "gloss": "five-part-high",
+     "grounds": "compound describing height",
+     "morph": "compound"
+    },
+    {
+     "surface": "taduccaṃ",
+     "gloss": "that-high",
+     "grounds": "compound referring back to height",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇvaṃśottuṅgataḥ",
+     "gloss": "than-viṣṇu-part-height",
+     "grounds": "compound ablative comparison",
+     "morph": "compound"
+    },
+    {
+     "surface": "adhikaḥ",
+     "gloss": "greater",
+     "grounds": "predicate indicating excess",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How may the height exceed the Viṣṇu portion in five-part divisions?",
+   "premises": [
+    "A five-part height is considered",
+    "The Viṣṇu-part height is the baseline",
+    "The height may be greater than that baseline"
+   ],
+   "inference": "The height may be five parts, or greater than the height of the Viṣṇu portion.",
+   "uncertainties": [],
+   "plain_english": "It may be five parts high, or higher than the height of the Viṣṇu portion."
+  },
+  {
+   "verse": 4617,
+   "rows": [
+    {
+     "surface": "liṃga+viṣkambhamānena",
+     "gloss": "by-liṅga-diameter-measure",
+     "grounds": "instrumental standard of measurement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "first proportional option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "second proportional option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu+vā",
+     "gloss": "but-or",
+     "grounds": "combined contrastive and alternative particles",
+     "morph": "compound"
+    }
+   ],
+   "question": "What multiples of the liṅga diameter measure are prescribed as alternatives?",
+   "premises": [
+    "The liṅga diameter is the base measure",
+    "A twofold multiple is possible",
+    "A threefold multiple is possible"
+   ],
+   "inference": "The measure may be twofold or threefold relative to the liṅga diameter.",
+   "uncertainties": [],
+   "plain_english": "By the measure of the liṅga’s diameter, it may be twofold or threefold."
+  },
+  {
+   "verse": 4618,
+   "rows": [
+    {
+     "surface": "tattadantara+mānāni",
+     "gloss": "those-various-interval-measures",
+     "grounds": "compound denoting intermediate measures",
+     "morph": "compound"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "adverbial division into nine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active pari-√kḷp"
+    }
+   ],
+   "question": "How should the intermediate measures between those limits be arranged?",
+   "premises": [
+    "There are various intermediate measures",
+    "These measures fall between stated limits",
+    "They should be arranged ninefold"
+   ],
+   "inference": "One should arrange the various intermediate measures in ninefold divisions.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the various intermediate measures in nine divisions."
+  },
+  {
+   "verse": 4619,
+   "rows": [
+    {
+     "surface": "pīṭha+vistāra",
+     "gloss": "pedestal-width",
+     "grounds": "compound indicating reference measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadṛśaṃ",
+     "gloss": "equal-to",
+     "grounds": "predicate of similarity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmaśailaṃ",
+     "gloss": "brahma-stone",
+     "grounds": "object to be arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active pra-√kḷp"
+    }
+   ],
+   "question": "What size should the Brahma-stone be arranged in relation to the pedestal width?",
+   "premises": [
+    "The pedestal width is a reference measure",
+    "The Brahma-stone must be arranged",
+    "The Brahma-stone should match that width"
+   ],
+   "inference": "One should arrange the Brahma-stone equal in size to the pedestal width.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the Brahma-stone equal to the width of the pedestal."
+  },
+  {
+   "verse": 4620,
+   "rows": [
+    {
+     "surface": "tatpādaṃ",
+     "gloss": "its-quarter",
+     "grounds": "compound indicating a fractional measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samutsedhaṃ",
+     "gloss": "equal-height",
+     "grounds": "object describing height",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brahmaśailasya",
+     "gloss": "of-brahma-stone",
+     "grounds": "genitive specifying possessor",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active √kḷp"
+    }
+   ],
+   "question": "What alternative height may be assigned to the Brahma-stone?",
+   "premises": [
+    "The Brahma-stone requires a height specification",
+    "A quarter measure is available as reference",
+    "An equal height option is prescribed"
+   ],
+   "inference": "One should arrange the height of the Brahma-stone as equal to its quarter, or accordingly.",
+   "uncertainties": [
+    "The exact referent of tatpādaṃ depends on prior context"
+   ],
+   "plain_english": "Or one should make the height of the Brahma-stone equal to a quarter of that measure."
+  },
+  {
+   "verse": 4621,
+   "rows": [
+    {
+     "surface": "liṃga+viṣkaṃbha+mānaṃ",
+     "gloss": "liṅga-diameter-measure",
+     "grounds": "compound subject of comparison",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikārāṃśa",
+     "gloss": "modification-part",
+     "grounds": "compound indicating a derived portion",
+     "morph": "compound"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "predicate of equality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What measure should equal the modification part in relation to the liṅga diameter?",
+   "premises": [
+    "The liṅga diameter measure is specified",
+    "A modification part is defined",
+    "The two measures should be equal"
+   ],
+   "inference": "The liṅga diameter measure should be equal to the modification part.",
+   "uncertainties": [
+    "The technical meaning of vikārāṃśa is context-specific"
+   ],
+   "plain_english": "But the measure of the liṅga’s diameter should be equal to the modification part."
+  },
+  {
+   "verse": 4622,
+   "rows": [
+    {
+     "surface": "brahmaśailāvaṭaṃ",
+     "gloss": "brahma-stone-pit",
+     "grounds": "compound object to be made",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "utsedhādvistarāt",
+     "gloss": "from-height-and-width",
+     "grounds": "compound ablative indicating dimensions",
+     "morph": "compound"
+    },
+    {
+     "surface": "puraḥ",
+     "gloss": "before",
+     "grounds": "adverbial particle of prior reference",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the pit for the Brahma-stone be made with respect to height and width?",
+   "premises": [
+    "A pit for the Brahma-stone must be made",
+    "Height and width are determining dimensions",
+    "The dimensions follow prior specifications"
+   ],
+   "inference": "One should make the pit for the Brahma-stone according to the previously stated height and width.",
+   "uncertainties": [],
+   "plain_english": "One should make the pit for the Brahma-stone according to the height and width stated before."
+  },
+  {
+   "verse": 4623,
+   "rows": [
+    {
+     "surface": "kaścid",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "assertive present",
+     "morph": "3.sg.present-active √as"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "distinction",
+     "grounds": "subject denoting special rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative demonstrative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yāvatpūjāṃśa+dairghyakam",
+     "gloss": "as-far-as-worship-part-length",
+     "grounds": "compound indicating extent of length",
+     "morph": "compound"
+    }
+   ],
+   "question": "What special distinction applies here regarding the length of the worship portion?",
+   "premises": [
+    "A distinction exists in this case",
+    "The distinction concerns extent",
+    "It relates to the length of the worship part"
+   ],
+   "inference": "There is a special distinction here concerning the length of the worship portion.",
+   "uncertainties": [
+    "The precise nature of the distinction is not fully specified"
+   ],
+   "plain_english": "There is some special distinction in this case regarding the length of the worship portion."
+  },
+  {
+   "verse": 4624,
+   "rows": [
+    {
+     "surface": "chāyādoṣo",
+     "gloss": "shadow-defect",
+     "grounds": "compound subject denoting flaw",
+     "morph": "compound"
+    },
+    {
+     "surface": "yathā+nasyāt",
+     "gloss": "so-that-not-be",
+     "grounds": "compound purpose clause with negation",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṃgapīṭhikayoḥ",
+     "gloss": "of-liṅga-and-pedestal",
+     "grounds": "dual genitive specifying both objects",
+     "morph": "n.gen.dual"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative or nominative address to practitioners",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What defect must be avoided in relation to the liṅga and its pedestal?",
+   "premises": [
+    "A shadow defect is possible",
+    "The liṅga and pedestal are involved",
+    "The arrangement must prevent that defect"
+   ],
+   "inference": "The arrangement should be made so that no shadow defect arises between the liṅga and the pedestal.",
+   "uncertainties": [],
+   "plain_english": "O twice-born ones, arrange it so that there is no shadow defect between the liṅga and the pedestal."
+  }
+ ]
+}

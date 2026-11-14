@@ -1,0 +1,305 @@
+{
+ "song": "kul-p83",
+ "items": [
+  {
+   "verse": 2063,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aputrāya",
+     "gloss": "to-sonless",
+     "grounds": "a-privative + putra; dative recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pravaktavyam",
+     "gloss": "to-be-taught",
+     "grounds": "future passive participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśiṣyāya",
+     "gloss": "to-non-disciple",
+     "grounds": "a-privative + śiṣya; dative recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indefinite adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom must this teaching never be given?",
+   "premises": [
+    "teaching is withheld from sonless recipients",
+    "teaching is withheld from non-disciples",
+    "restriction applies at all times"
+   ],
+   "inference": "The verse restricts transmission to qualified recipients only.",
+   "uncertainties": [
+    "whether aputra means childless or uninitiated",
+    "whether pravaktavyam is nominative or accusative"
+   ],
+   "plain_english": "This should never be taught to one without a son, nor ever to a non-disciple."
+  },
+  {
+   "verse": 2064,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative or interrogative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "passive present of root vid",
+     "morph": "3.sg.passive-present (root vid)"
+    },
+    {
+     "surface": "prājñe",
+     "gloss": "in-wise",
+     "grounds": "locative of wise one",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tattat",
+     "gloss": "that-that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "something",
+     "grounds": "indefinite pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first-person instrumental",
+     "morph": "1.sg.instr"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "spoken",
+     "grounds": "past participle passive of root vad",
+     "morph": "n.nom.sg (past participle passive, root vad)"
+    }
+   ],
+   "question": "What has been spoken by me to the wise?",
+   "premises": [
+    "the speaker addresses the goddess",
+    "something exists in the wise",
+    "the speaker has spoken it"
+   ],
+   "inference": "The verse affirms that the teaching has been disclosed to the wise.",
+   "uncertainties": [
+    "whether yat is relative or interrogative",
+    "whether uditam is nominative or accusative"
+   ],
+   "plain_english": "O goddess, whatever exists among the wise, that something has been spoken by me."
+  },
+  {
+   "verse": 2065,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvāmnāyamāhātmyam",
+     "gloss": "upper-tradition-glory",
+     "grounds": "compound of upper tradition and glory",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "reads",
+     "grounds": "optative of root paṭh",
+     "morph": "3.sg.optative-active (root paṭh)"
+    },
+    {
+     "surface": "śrīcakrasannidhau",
+     "gloss": "in-presence-of-sricakra",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Who reads the glory of the upper tradition before the sricakra?",
+   "premises": [
+    "a person reads the upper tradition's glory",
+    "reading occurs in the sricakra's presence",
+    "the clause is conditional or optative"
+   ],
+   "inference": "The verse links recitation of the upper tradition's glory with presence before the sricakra.",
+   "uncertainties": [
+    "whether paṭhet is optative or subjunctive",
+    "whether ūrdhvāmnāya names a specific tradition"
+   ],
+   "plain_english": "Whoever reads the glory of the upper tradition in the presence of the sricakra."
+  },
+  {
+   "verse": 2066,
+   "rows": [
+    {
+     "surface": "vratam",
+     "gloss": "vow",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bathing",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tapaḥ",
+     "gloss": "austerity",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "pilgrimage",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yajñadevārcanādiṣu",
+     "gloss": "in-sacrifice-deity-worship-etc",
+     "grounds": "locative plural compound",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "What practices are grouped with sacrifice and deity worship?",
+   "premises": [
+    "vow bathing austerity and pilgrimage are listed",
+    "they are placed with sacrifice and deity worship",
+    "the locative plural groups them"
+   ],
+   "inference": "The verse enumerates practices associated with sacrificial and devotional worship.",
+   "uncertainties": [
+    "whether the list is exhaustive or exemplary",
+    "whether tīrtham means pilgrimage or sacred ford"
+   ],
+   "plain_english": "Vow, bathing, austerity, pilgrimage, and the like in sacrifice and deity worship."
+  },
+  {
+   "verse": 2067,
+   "rows": [
+    {
+     "surface": "tvatsannidhau",
+     "gloss": "in-your-presence",
+     "grounds": "locative compound with second person",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sannivaset",
+     "gloss": "should-dwell",
+     "grounds": "optative of root nivas",
+     "morph": "3.sg.optative-active (root nivas)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "feminine future passive participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What need not be done in your presence?",
+   "premises": [
+    "one should dwell in your presence",
+    "no deliberation is to be done here",
+    "the negation removes deliberation"
+   ],
+   "inference": "The verse says dwelling in the goddess's presence removes the need for deliberation.",
+   "uncertainties": [
+    "whether sannivaset is optative or imperative",
+    "whether kāryā agrees with vicāraṇā"
+   ],
+   "plain_english": "One should dwell in your presence; here no deliberation is to be done."
+  },
+  {
+   "verse": 2068,
+   "rows": [
+    {
+     "surface": "kāmyakarmakathanam",
+     "gloss": "desired-action-narration",
+     "grounds": "compound of desired action and narration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadaśollāsaḥ",
+     "gloss": "seventeenth-chapter",
+     "grounds": "compound of seventeen and wave or chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the name of the seventeenth chapter?",
+   "premises": [
+    "the chapter is named",
+    "its name concerns desired action narration",
+    "it is the seventeenth wave or chapter"
+   ],
+   "inference": "The verse gives the colophon name of the seventeenth chapter.",
+   "uncertainties": [
+    "whether ullāsa means wave or chapter",
+    "whether kāmyakarma is desired or optional action"
+   ],
+   "plain_english": "Named the narration of desired action: the seventeenth chapter."
+  }
+ ]
+}

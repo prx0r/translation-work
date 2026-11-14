@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p551",
+ "items": [
+  {
+   "verse": 13775,
+   "rows": [
+    {
+     "surface": "akāra",
+     "gloss": "letter-a",
+     "grounds": "first element of the syllable range",
+     "morph": "m.nom.sg (compound-member)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "marks the start of the range with akāra",
+     "morph": "m.nom.sg (compound-member)"
+    },
+    {
+     "surface": "kṣakāra",
+     "gloss": "letter-kṣa",
+     "grounds": "final element of the syllable range",
+     "morph": "m.nom.sg (compound-member)"
+    },
+    {
+     "surface": "antān",
+     "gloss": "ending-with",
+     "grounds": "marks the end of the range with kṣakāra; describes implied syllables",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "antya",
+     "gloss": "last",
+     "grounds": "qualifies the petal receiving the final group",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "patre",
+     "gloss": "petal",
+     "grounds": "location for placing the final group",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the syllable range placement with the final group",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptakam",
+     "gloss": "group-of-seven",
+     "grounds": "set of seven syllables placed on the last petal",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where must the syllables from a to kṣa and the final heptad be placed on the outer lotus?",
+   "premises": [
+    "The instructed syllable range begins with the letter a.",
+    "The instructed syllable range ends with the letter kṣa.",
+    "A group of seven is assigned to the last petal."
+   ],
+   "inference": "Therefore the outer lotus petals receive the syllables from a to kṣa, with seven placed on the final petal.",
+   "uncertainties": [
+    "The exact distribution of the syllables across the individual petals is not specified in this verse alone.",
+    "The specific members of the final group of seven are not identified here."
+   ],
+   "plain_english": "Place the letters from a to kṣa on the petals, and place a group of seven on the last petal."
+  }
+ ]
+}

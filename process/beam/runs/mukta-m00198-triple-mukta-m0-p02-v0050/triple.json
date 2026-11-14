@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "sīrordhve",
+     "gloss": "above-plough-part",
+     "grounds": "sandhi fusion of sīra and ūrdhve; locative sense indicating position above the plough-section",
+     "morph": "compound-loc.sg.nt"
+    },
+    {
+     "surface": "ghrāṇa",
+     "gloss": "nose",
+     "grounds": "the part being measured",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "raised",
+     "grounds": "describes the elevation of the nose",
+     "morph": "adj.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāṃgulam",
+     "gloss": "five-finger-widths",
+     "grounds": "compound indicating a measure of five aṅgulas",
+     "morph": "compound-nom.sg.nt"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "declares the prescribed measurement",
+     "morph": "ppp.nom.sg.nt (ud-ā-√hṛ)"
+    }
+   ],
+   "question": "What prescribed height must the nose have above the plough-section?",
+   "premises": [
+    "The nose is positioned above the plough-section.",
+    "The nose is characterized as raised.",
+    "The prescribed measure given is five finger-widths."
+   ],
+   "inference": "The nose above the plough-section is prescribed to be raised five finger-widths.",
+   "uncertainties": [
+    "The exact anatomical referent of sīra in this measurement context is not fully explicit."
+   ],
+   "plain_english": "Above the plough-section, the nose is stated to be raised to a height of five finger-widths."
+  }
+ ]
+}

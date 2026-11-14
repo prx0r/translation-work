@@ -1,0 +1,979 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2051,
+   "rows": [
+    {
+     "surface": "nāgābharaṇasaṃyuktāḥ",
+     "gloss": "endowed-with-snake-ornaments",
+     "grounds": "bahuvrīhi compound describing figures adorned with serpent ornaments",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhasmoddhūlitavigrahāḥ",
+     "gloss": "bodies-smeared-with-ash",
+     "grounds": "bahuvrīhi compound describing figures whose bodies are dusted with ash",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What bodily adornments and markings characterize these figures?",
+   "premises": [
+    "The figures are endowed with snake ornaments.",
+    "Their bodies are smeared with ash."
+   ],
+   "inference": "These figures are distinguished by serpent ornaments and ash-smeared bodies.",
+   "uncertainties": [],
+   "plain_english": "They are adorned with snake ornaments and have bodies smeared with ash."
+  },
+  {
+   "verse": 2052,
+   "rows": [
+    {
+     "surface": "phalakā",
+     "gloss": "on-planks",
+     "grounds": "possible seat or support; form taken as given in context of seating",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhadrapīṭhe",
+     "gloss": "on-auspicious-seat",
+     "grounds": "locative indicating placement on a sacred seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitaras",
+     "gloss": "ancestors",
+     "grounds": "subject of the description",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāsanāḥ",
+     "gloss": "having-great-seats",
+     "grounds": "bahuvrīhi compound describing the ancestors as possessing great seats",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What seating arrangements are prescribed for the ancestors?",
+   "premises": [
+    "The ancestors may be on planks or on an auspicious seat.",
+    "The ancestors are described as having great seats."
+   ],
+   "inference": "The ancestors are to be depicted seated on planks or on an auspicious seat as possessors of great seats.",
+   "uncertainties": [
+    "The exact syntactic role of phalakā is ambiguous in isolation."
+   ],
+   "plain_english": "The ancestors, possessing great seats, may be placed on planks or on an auspicious seat."
+  },
+  {
+   "verse": 2053,
+   "rows": [
+    {
+     "surface": "sūcir",
+     "gloss": "needle",
+     "grounds": "object or attribute associated with the right hand",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇahastās",
+     "gloss": "in-right-hands",
+     "grounds": "bahuvrīhi compound indicating possession in the right hand",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitaraḥ",
+     "gloss": "ancestors",
+     "grounds": "subject being identified",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "trayaḥ",
+     "gloss": "three",
+     "grounds": "numeral specifying the count of ancestors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb introducing the designation",
+     "morph": "3.sg.passive-present √vac"
+    }
+   ],
+   "question": "How many ancestors are identified and what do they hold in their right hands?",
+   "premises": [
+    "A needle is associated with the right hands.",
+    "Three ancestors are named in this description."
+   ],
+   "inference": "The three ancestors are said to hold a needle in their right hands.",
+   "uncertainties": [
+    "The precise form and distribution of sūcir among the three is not explicit."
+   ],
+   "plain_english": "The three ancestors are said to have a needle in their right hands."
+  },
+  {
+   "verse": 2054,
+   "rows": [
+    {
+     "surface": "dvibhujaṃ",
+     "gloss": "two-armed",
+     "grounds": "bahuvrīhi compound describing bodily form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇavarṇaṃ",
+     "gloss": "black-colored",
+     "grounds": "bahuvrīhi compound describing complexion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaḍgakheṭakadhāriṇam",
+     "gloss": "bearing-sword-and-shield",
+     "grounds": "compound describing the figure as holding a sword and shield",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What physical form, color, and weapons define this figure?",
+   "premises": [
+    "The figure is two-armed and black-colored.",
+    "The figure bears a sword and a shield."
+   ],
+   "inference": "This figure is characterized as two-armed, black in color, and armed with sword and shield.",
+   "uncertainties": [],
+   "plain_english": "He is two-armed, black in color, and bears a sword and shield."
+  },
+  {
+   "verse": 2055,
+   "rows": [
+    {
+     "surface": "raktavastradharaṃ",
+     "gloss": "wearing-red-garments",
+     "grounds": "compound describing clothing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ugraṃ",
+     "gloss": "fierce",
+     "grounds": "adjective describing demeanor or appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kirīṭamakuṭānvitam",
+     "gloss": "endowed-with-crown-and-diadem",
+     "grounds": "compound describing head ornaments",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What garments, demeanor, and head ornaments characterize this figure?",
+   "premises": [
+    "The figure wears red garments and is fierce.",
+    "The figure is endowed with a crown and diadem."
+   ],
+   "inference": "This figure is fierce, clothed in red, and adorned with a crown and diadem.",
+   "uncertainties": [],
+   "plain_english": "He wears red garments, is fierce, and is endowed with a crown and diadem."
+  },
+  {
+   "verse": 2056,
+   "rows": [
+    {
+     "surface": "yamavat",
+     "gloss": "like-yama",
+     "grounds": "comparative expression indicating resemblance to Yama",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the previously described figure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārśvasthau",
+     "gloss": "standing-at-sides",
+     "grounds": "compound indicating position at the sides",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tamivaśmaśruvaktrakau",
+     "gloss": "with-beard-and-face-like-his",
+     "grounds": "compound describing two attendants resembling him in beard and face",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Who stands at the sides of this Yama-like figure and how do they resemble him?",
+   "premises": [
+    "Two figures stand at his sides.",
+    "They resemble him in beard and face."
+   ],
+   "inference": "Two attendants standing at his sides share his beard and facial appearance.",
+   "uncertainties": [
+    "The internal segmentation of tamivaśmaśruvaktrakau is interpretive but the surface is kept intact."
+   ],
+   "plain_english": "Standing at his sides are two figures who resemble him, with beards and faces like his."
+  },
+  {
+   "verse": 2057,
+   "rows": [
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "color term describing one of the pair",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāma",
+     "gloss": "dark",
+     "grounds": "color term describing the other of the pair",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nibhau",
+     "gloss": "resembling",
+     "grounds": "adjective indicating likeness in appearance",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "petāu",
+     "gloss": "two-ghosts",
+     "grounds": "identifies the pair as ghostly beings",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "raktavastradharāvubhau",
+     "gloss": "both-wearing-red-garments",
+     "grounds": "compound describing both as clothed in red garments",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What colors, nature, and clothing distinguish the two side attendants?",
+   "premises": [
+    "The pair resemble black and dark hues.",
+    "They are ghosts and both wear red garments."
+   ],
+   "inference": "The two side attendants are ghostly beings, one black and one dark, both wearing red garments.",
+   "uncertainties": [],
+   "plain_english": "They are two ghosts, one black and one dark in appearance, and both wear red garments."
+  },
+  {
+   "verse": 2058,
+   "rows": [
+    {
+     "surface": "nīlalohitasaṃkāśau",
+     "gloss": "resembling-blue-and-red",
+     "grounds": "compound describing complexion as blue-red",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral indicating a pair",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "cāmaradhṛtistriyau",
+     "gloss": "two-women-holding-chowries",
+     "grounds": "compound identifying two women holding chowrie fans",
+     "morph": "f.nom.du"
+    }
+   ],
+   "question": "What appearance and role characterize the two female attendants described here?",
+   "premises": [
+    "There are two figures resembling blue and red.",
+    "They are women holding chowrie fans."
+   ],
+   "inference": "Two blue-red women attendants are present holding chowrie fans.",
+   "uncertainties": [],
+   "plain_english": "There are two women, blue-red in appearance, holding chowrie fans."
+  },
+  {
+   "verse": 2059,
+   "rows": [
+    {
+     "surface": "yamaḥ",
+     "gloss": "yama",
+     "grounds": "names the deity being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siṃhāsanāsīno",
+     "gloss": "seated-on-lion-throne",
+     "grounds": "compound describing posture and seat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahiṣopari",
+     "gloss": "above-buffalo",
+     "grounds": "locative expression indicating position over a buffalo",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rohitaḥ",
+     "gloss": "red",
+     "grounds": "adjective describing color",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is Yama depicted in terms of seat, mount, and color?",
+   "premises": [
+    "Yama is seated on a lion throne above a buffalo.",
+    "Yama is red in color."
+   ],
+   "inference": "Yama is depicted as red, seated on a lion throne positioned above a buffalo.",
+   "uncertainties": [],
+   "plain_english": "Yama is red, seated on a lion throne above a buffalo."
+  },
+  {
+   "verse": 2060,
+   "rows": [
+    {
+     "surface": "karaṇḍamakuṭā",
+     "gloss": "wearing-basket-crown",
+     "grounds": "bahuvrīhi compound describing headgear",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raktā",
+     "gloss": "red",
+     "grounds": "adjective describing color",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvibhujā",
+     "gloss": "two-armed",
+     "grounds": "bahuvrīhi compound describing bodily form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suśobhanā",
+     "gloss": "very-beautiful",
+     "grounds": "adjective describing appearance",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What physical attributes and appearance define this female figure?",
+   "premises": [
+    "The figure wears a basket crown, is red, and two-armed.",
+    "The figure is very beautiful."
+   ],
+   "inference": "This female figure is red, two-armed, very beautiful, and wears a basket crown.",
+   "uncertainties": [],
+   "plain_english": "She wears a basket crown, is red, two-armed, and very beautiful."
+  },
+  {
+   "verse": 2061,
+   "rows": [
+    {
+     "surface": "āsīno",
+     "gloss": "seated",
+     "grounds": "participle indicating seated posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "participle indicating standing posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptasaṃkhyā",
+     "gloss": "seven-in-number",
+     "grounds": "compound specifying a count of seven",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rohiṇī",
+     "gloss": "rohiṇī",
+     "grounds": "name or designation of the figure or group",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What postures and numerical identity are attributed to Rohiṇī?",
+   "premises": [
+    "The figure may be seated or standing.",
+    "Rohiṇī is identified as seven in number."
+   ],
+   "inference": "Rohiṇī may be depicted seated or standing and is characterized as sevenfold.",
+   "uncertainties": [
+    "Agreement between saptasaṃkhyā and rohiṇī suggests a collective or sevenfold identity."
+   ],
+   "plain_english": "Rohiṇī may be seated or standing and is said to be seven in number."
+  },
+  {
+   "verse": 2062,
+   "rows": [
+    {
+     "surface": "nir-ṛtiṃ",
+     "gloss": "nirṛti",
+     "grounds": "name of the deity being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raktavarṇaṃ",
+     "gloss": "red-colored",
+     "grounds": "bahuvrīhi compound describing complexion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhujaṃ",
+     "gloss": "two-armed",
+     "grounds": "bahuvrīhi compound describing bodily form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātanum",
+     "gloss": "great-bodied",
+     "grounds": "bahuvrīhi compound describing large body",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What color, number of arms, and bodily stature characterize Nirṛti?",
+   "premises": [
+    "Nirṛti is red-colored and two-armed.",
+    "Nirṛti has a great body."
+   ],
+   "inference": "Nirṛti is depicted as red, two-armed, and large-bodied.",
+   "uncertainties": [],
+   "plain_english": "Nirṛti is red in color, two-armed, and great-bodied."
+  },
+  {
+   "verse": 2063,
+   "rows": [
+    {
+     "surface": "pītavastradharaṃ",
+     "gloss": "wearing-yellow-garments",
+     "grounds": "compound describing clothing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raudraṃ",
+     "gloss": "fierce",
+     "grounds": "adjective describing terrifying nature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karālavasudaṃṣṭrakam",
+     "gloss": "with-terrible-tusks",
+     "grounds": "compound describing fearsome tusks or teeth",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What clothing and fearsome features characterize Nirṛti's appearance?",
+   "premises": [
+    "The figure wears yellow garments and is fierce.",
+    "The figure has terrible tusks."
+   ],
+   "inference": "Nirṛti is fierce, clothed in yellow, and marked by terrible tusks.",
+   "uncertainties": [
+    "The element vasu in karālavasudaṃṣṭrakam is unclear in this compound."
+   ],
+   "plain_english": "He wears yellow garments, is fierce, and has terrible tusks."
+  },
+  {
+   "verse": 2064,
+   "rows": [
+    {
+     "surface": "raktakeśasamāyuktaṃ",
+     "gloss": "endowed-with-red-hair",
+     "grounds": "compound describing hair color",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "standing",
+     "grounds": "participle indicating standing posture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsīnam",
+     "gloss": "seated",
+     "grounds": "participle indicating seated posture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What hair color and possible postures are prescribed for Nirṛti?",
+   "premises": [
+    "The figure is endowed with red hair.",
+    "The figure may be standing or seated."
+   ],
+   "inference": "Nirṛti is depicted with red hair and may be shown either standing or seated.",
+   "uncertainties": [],
+   "plain_english": "He has red hair and may be depicted either standing or seated."
+  },
+  {
+   "verse": 2065,
+   "rows": [
+    {
+     "surface": "atikāntā",
+     "gloss": "very-radiant",
+     "grounds": "adjective describing exceptional beauty or radiance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yuvā",
+     "gloss": "youthful",
+     "grounds": "adjective indicating youth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raktā",
+     "gloss": "red",
+     "grounds": "adjective describing color",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "keśabhārālakānvitā",
+     "gloss": "endowed-with-mass-of-curly-hair",
+     "grounds": "compound describing abundant curly hair",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities of radiance, age, color, and hair define this female figure?",
+   "premises": [
+    "The figure is very radiant, youthful, and red.",
+    "The figure has a mass of curly hair."
+   ],
+   "inference": "This female figure is youthful, radiant, red, and distinguished by abundant curly hair.",
+   "uncertainties": [],
+   "plain_english": "She is very radiant, youthful, red, and endowed with a mass of curly hair."
+  },
+  {
+   "verse": 2066,
+   "rows": [
+    {
+     "surface": "dukūlavasanās",
+     "gloss": "wearing-silk-garments",
+     "grounds": "bahuvrīhi compound describing fine clothing",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "quantifier indicating the whole group",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pīnorūjaghanasthalāḥ",
+     "gloss": "with-full-thighs-hips-breasts",
+     "grounds": "compound describing full bodily features",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What clothing and bodily features are attributed to all these female figures?",
+   "premises": [
+    "All the figures wear silk garments.",
+    "All have full thighs, hips, and breasts."
+   ],
+   "inference": "The entire group of female figures is clothed in silk and depicted with full bodily forms.",
+   "uncertainties": [],
+   "plain_english": "All of them wear silk garments and have full thighs, hips, and breasts."
+  },
+  {
+   "verse": 2067,
+   "rows": [
+    {
+     "surface": "gandhādyairanuliptāṃgā",
+     "gloss": "limbs-anointed-with-fragrances",
+     "grounds": "compound describing bodies anointed with sandal and other fragrances",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhadrapīṭhopari",
+     "gloss": "upon-auspicious-seat",
+     "grounds": "locative expression indicating placement on an auspicious seat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "standing",
+     "grounds": "participle indicating posture or placement",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are these female figures anointed and where are they placed?",
+   "premises": [
+    "Their limbs are anointed with fragrances and the like.",
+    "They are placed upon an auspicious seat."
+   ],
+   "inference": "These figures are fragrance-anointed and positioned upon an auspicious seat.",
+   "uncertainties": [],
+   "plain_english": "Their limbs are anointed with fragrances and they stand upon an auspicious seat."
+  },
+  {
+   "verse": 2068,
+   "rows": [
+    {
+     "surface": "apsarās",
+     "gloss": "apsarases",
+     "grounds": "identifies the group as celestial nymphs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tvevam",
+     "gloss": "thus-indeed",
+     "grounds": "particles concluding the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākhyātā",
+     "gloss": "declared",
+     "grounds": "participle indicating the description has been stated",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "varuṇas",
+     "gloss": "varuṇa",
+     "grounds": "introduces the next deity to be described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "now",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-described",
+     "grounds": "verb announcing the next description",
+     "morph": "3.sg.passive-future √vac"
+    }
+   ],
+   "question": "What group has been fully described and which deity is introduced next?",
+   "premises": [
+    "The apsarases have thus been declared.",
+    "Varuṇa is announced as the next subject to be described."
+   ],
+   "inference": "The description of the apsarases concludes and the account turns to Varuṇa.",
+   "uncertainties": [],
+   "plain_english": "Thus the apsarases have been described; now Varuṇa will be described."
+  },
+  {
+   "verse": 2069,
+   "rows": [
+    {
+     "surface": "sarvābharaṇasaṃyuktaṃ",
+     "gloss": "endowed-with-all-ornaments",
+     "grounds": "compound describing complete adornment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karaṇḍamakuṭānvitam",
+     "gloss": "endowed-with-basket-crown",
+     "grounds": "compound describing headgear",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ornaments and headgear characterize Varuṇa's appearance?",
+   "premises": [
+    "The figure is endowed with all ornaments.",
+    "The figure is endowed with a basket crown."
+   ],
+   "inference": "Varuṇa is depicted fully adorned and wearing a basket crown.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with all ornaments and wears a basket crown."
+  },
+  {
+   "verse": 2070,
+   "rows": [
+    {
+     "surface": "yajñasūtreṇasaṃyuktaṃ",
+     "gloss": "endowed-with-sacred-thread",
+     "grounds": "compound describing the wearing of the sacred thread",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "makarasthānakānvitam",
+     "gloss": "associated-with-makara-seat",
+     "grounds": "compound indicating association with a makara mount or place",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual marker and mount association define Varuṇa's iconography?",
+   "premises": [
+    "The figure is endowed with the sacred thread.",
+    "The figure is associated with a makara seat or position."
+   ],
+   "inference": "Varuṇa is depicted wearing the sacred thread and associated with the makara.",
+   "uncertainties": [
+    "makarasthānakānvitam may indicate a mount or a specific placement; the exact sense is context-dependent."
+   ],
+   "plain_english": "He wears the sacred thread and is associated with the makara."
+  },
+  {
+   "verse": 2071,
+   "rows": [
+    {
+     "surface": "vṛddhās",
+     "gloss": "old",
+     "grounds": "adjective describing age",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhujāḥ",
+     "gloss": "two-armed",
+     "grounds": "bahuvrīhi compound describing bodily form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāntāḥ",
+     "gloss": "peaceful",
+     "grounds": "adjective describing demeanor",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jaṭācūḍasamanvitāḥ",
+     "gloss": "endowed-with-matted-hair-tuft",
+     "grounds": "compound describing matted hair arranged as a tuft",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What age, form, demeanor, and hairstyle characterize these figures?",
+   "premises": [
+    "The figures are old, two-armed, and peaceful.",
+    "They are endowed with a tuft of matted hair."
+   ],
+   "inference": "These figures are depicted as old, peaceful, two-armed sages with matted hair tufts.",
+   "uncertainties": [],
+   "plain_english": "They are old, two-armed, peaceful, and endowed with a tuft of matted hair."
+  },
+  {
+   "verse": 2072,
+   "rows": [
+    {
+     "surface": "bhasmanā",
+     "gloss": "with-ash",
+     "grounds": "instrumental indicating the substance used for marking",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripuṇṭrās",
+     "gloss": "marked-with-three-lines",
+     "grounds": "compound describing the tripuṇḍra ash marking",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the previously described figures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthānakāstvāsanāstu",
+     "gloss": "standing-or-seated",
+     "grounds": "compound expressing alternative postures of standing or sitting",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ash marking and postures are prescribed for these figures?",
+   "premises": [
+    "They bear the three-lined mark made with ash.",
+    "They may be standing or seated."
+   ],
+   "inference": "These figures are marked with the tripuṇḍra in ash and may be depicted standing or seated.",
+   "uncertainties": [],
+   "plain_english": "They are marked with three lines of ash and may be either standing or seated."
+  },
+  {
+   "verse": 2073,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "object that may be held",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vināthavā",
+     "gloss": "or-without",
+     "grounds": "compound expressing an alternative of absence or presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "locative indicating the hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "savye",
+     "gloss": "left",
+     "grounds": "adjective specifying the left hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānamudrikāḥ",
+     "gloss": "knowledge-gesture",
+     "grounds": "compound indicating the gesture of knowledge; form taken as given",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What objects or gestures may these figures display in their left hands?",
+   "premises": [
+    "A staff may be present or absent in the hand.",
+    "The left hand may display the gesture of knowledge."
+   ],
+   "inference": "In the left hand they may hold a staff or be without it, and display the knowledge gesture.",
+   "uncertainties": [
+    "The exact syntactic coordination between daṇḍaṃ vināthavā and jñānamudrikāḥ is compressed."
+   ],
+   "plain_english": "In the left hand they may hold a staff or not, and they display the gesture of knowledge."
+  },
+  {
+   "verse": 2074,
+   "rows": [
+    {
+     "surface": "atryagastthau",
+     "gloss": "atri-and-agastya",
+     "grounds": "dual compound naming two sages",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vasiṣṭhaśca",
+     "gloss": "and-vasiṣṭha",
+     "grounds": "name of a sage joined by conjunctive particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gautamāṃgirasau",
+     "gloss": "gautama-and-aṅgiras",
+     "grounds": "dual compound naming two sages",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sages are named as the figures described in this group?",
+   "premises": [
+    "Atri and Agastya are named together.",
+    "Vasiṣṭha, Gautama, and Aṅgiras are likewise named."
+   ],
+   "inference": "The described figures are identified as Atri, Agastya, Vasiṣṭha, Gautama, and Aṅgiras.",
+   "uncertainties": [],
+   "plain_english": "They are Atri and Agastya, Vasiṣṭha, and likewise Gautama and Aṅgiras."
+  }
+ ]
+}

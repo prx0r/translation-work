@@ -133,7 +133,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--song", required=True, help="e.g. s01")
     ap.add_argument("--work", default="sivastotravali")
-    ap.add_argument("--disp", default=None, help="JSON {song: {verse: note}} for sub-0.90 dispositions")
+    ap.add_argument("--disp", default=None, help="JSON {song: {verse: note}} for sub-0.90 dispositions; work-qualified keys 'work:song' take precedence over bare song keys (bare keys are shared across works with colliding song names — avoid for those)")
     ap.add_argument("--shastra", action="store_true",
                     help="shastra-chunk mode (SHASTRA-MINIMAL.md): workcfg chunk spans, "
                          "contract data/*.json layers instead of T1-*.md/C1-*.md/L2-*.md, "
@@ -141,6 +141,11 @@ def main() -> int:
     root = Path(__file__).resolve().parent.parent
     default_source = root.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
     ap.add_argument("--gretil", default=str(default_source))
+    ap.add_argument("--no-write", action="store_true",
+                    help="recompute and print the verdict only; do NOT write "
+                         "proof-<song>.json or the decision trail (used by "
+                         "verification passes to detect drift without touching "
+                         "committed state)")
     args = ap.parse_args()
     global _ARGS
     _ARGS = args
@@ -169,7 +174,23 @@ def main() -> int:
         rec["mode"] = "shastra"
     block = rec["blocking"]
 
-    rec["source_sha"] = sha(" ".join(" ".join(t) for v, t in sorted(src.items())))
+    # Source identity: keep the historical 64-bit normalized-token digest
+    # (`source_sha`, used for cheap drift detection) AND record full-strength
+    # identities alongside it (audit 2026-11-14): the exact raw-byte SHA-256 of
+    # the source file, plus the full SHA-256 of the normalized token text.
+    # Additive only — existing consumers of `source_sha` are unaffected.
+    norm_text = " ".join(" ".join(t) for v, t in sorted(src.items()))
+    rec["source_sha"] = sha(norm_text)
+    rec["source_digest_normalized_sha256"] = hashlib.sha256(
+        norm_text.encode("utf-8")).hexdigest()
+    try:
+        _srcfile = Path(gretil)
+        if _srcfile.is_file():
+            rec["source_sha256_raw"] = hashlib.sha256(
+                _srcfile.read_bytes()).hexdigest()
+            rec["source_sha256_raw_file"] = str(_srcfile)
+    except (OSError, ValueError):
+        pass
     rec["source_verses"] = len(src)
 
     if args.shastra:
@@ -250,13 +271,32 @@ def main() -> int:
             _para = None
     disp = {}
     if args.disp:
-        disp = json.loads(Path(args.disp).read_text()).get(song, {})
+        alld = json.loads(Path(args.disp).read_text())
+        # Work-qualified keys win; bare song keys are a legacy fallback.
+        # (Bare keys are UNSAFE for song names shared by multiple works —
+        # e.g. mukta-m0-p01 — since dispositions would leak across works.)
+        disp = alld.get(f"{args.work}:{song}", alld.get(song, {}))
+
+    def _clean_span(toks: list[str]) -> list[str]:
+        # Dandas glued to words (oṃ…||, …||2||) are punctuation, not text:
+        # strip pipes, then drop only tokens that are PURE apparatus.
+        # A whole-token is_paratext drop would empty verses whose only "fault"
+        # is a glued danda (mātṛkātantra v2/v3 read 0.000). Deleting data is
+        # never the fix; cleaning the comparison is.
+        out = []
+        for t in toks:
+            s = t.replace("|", "").replace("‖", "")
+            if not s.strip():
+                continue
+            if _para is not None and _para(s):
+                continue
+            out.append(s)
+        return out
+
     align = {}; sub090 = {}
     for v in sorted(src):
         a = "".join(t1.get(v, []))
-        _sv = src[v]
-        if _para is not None:
-            _sv = [t for t in _sv if not _para(t)]
+        _sv = _clean_span(src[v])
         b = "".join(_sv)
         r = difflib.SequenceMatcher(None, deparen(a), deparen(b)).ratio()
         align[str(v)] = round(r, 3)
@@ -318,8 +358,28 @@ def main() -> int:
         if l2path.exists():
             for o in json.loads(l2path.read_text(encoding="utf-8")):
                 cites += [p.strip() for p in str(o.get("sanskrit_cite", "")).split("|") if p.strip()]
-        src_flat = deparen(norm_ws(" ".join(" ".join(t) for v, t in sorted(src.items()))))
-        fails = [c for c in cites if deparen(norm_ws(c)) not in src_flat]
+        _flat_toks = [tok for v, t in sorted(src.items()) for tok in _clean_span(t)]
+        src_flat = deparen(norm_ws(" ".join(_flat_toks)))
+        def _clean_cite(c: str) -> str:
+            # Witness sigla and danda pipes are apparatus, not text: strip them
+            # from the cite before comparing (the cite is allowed to be clean
+            # even when the source span carries `(vi0 6|7)`-style sigla).
+            toks = []
+            for w in str(c).replace("|", " ").split():
+                w2 = w.replace("‖", "")
+                if not w2.strip():
+                    continue
+                if _para is not None and _para(w2):
+                    continue
+                toks.append(w2)
+            return deparen(norm_ws(" ".join(toks)))
+        # Occurrence is a LETTER-level fact: a cite that re-segments a source
+        # compound (adds a token boundary the source doesn't print) still cites
+        # the source. Compare space-insensitively on both sides (classic branch
+        # already does this). Wrong words still fail; only spacing is forgiven.
+        _sf_nospace = src_flat.replace(" ", "")
+        fails = [c for c in cites
+                 if _clean_cite(c).replace(" ", "") not in _sf_nospace]
         real_fails = [c[:80] for c in fails]
         verses_text = {}
     else:
@@ -416,12 +476,15 @@ def main() -> int:
                           "t1": f"T1-{song}.md", "l0": f"T1-{song}.l0.jsonl",
                           "l2": f"L2-{song}.md", "c1": f"c1/C1-{song}.md"}
     outdir = w / "proof"
-    outdir.mkdir(exist_ok=True)
-    (outdir / f"proof-{song}.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False))
+    if not args.no_write:
+        outdir.mkdir(exist_ok=True)
+        (outdir / f"proof-{song}.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False))
     print(json.dumps({"song": song, "gate": rec["deterministic_gate"],
                       "blocking": block, "warnings": rec["warnings"],
                       "min_ratio": rec["align"]["min_ratio"],
                       "cites": rec["l2_cites"]}, indent=1, ensure_ascii=False))
+    if args.no_write:
+        return 0 if not block else 1
     if block:
         return 1
     # Gate passed: record the layer-accept decision trail at ingest time.

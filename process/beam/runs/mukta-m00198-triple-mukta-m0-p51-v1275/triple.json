@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "pādonacaturaṃśaṃ",
+     "gloss": "quarter-less-fourth-part",
+     "grounds": "compound expressing a measure of three-quarters (four parts minus one quarter)",
+     "morph": "compound (pāda+ūna+catur+aṃśa).n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharātalamudāhṛtam",
+     "gloss": "ground-level-declared",
+     "grounds": "fused token containing dharātalam (earth-level) and udāhṛtam (declared); internal boundary not split",
+     "morph": "compound/fused (dharā+tala).n.nom.sg + ud-ā-√hṛ.ppp.n.nom.sg"
+    }
+   ],
+   "question": "What proportional measure is prescribed for the ground level in this construction?",
+   "premises": [
+    "The ground level (dharātala) is the element being specified.",
+    "Its measure is prescribed as a fourth part less by one quarter.",
+    "This measure is authoritatively declared in the text."
+   ],
+   "inference": "Therefore the ground level is prescribed to measure three-quarters of the relevant unit.",
+   "uncertainties": [
+    "The exact reference unit for the three-quarter measure depends on the preceding verses' context."
+   ],
+   "plain_english": "But the ground level is declared to be three-quarters in measure."
+  }
+ ]
+}

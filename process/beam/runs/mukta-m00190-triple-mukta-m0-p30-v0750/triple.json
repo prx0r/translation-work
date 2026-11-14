@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "caturdaśa+akṣarī",
+     "gloss": "fourteen-syllabled",
+     "grounds": "bahuvrīhi compound qualifying the mantra or goddess form by syllable count",
+     "morph": "compound: caturdaśa+akṣarī (f.nom.sg)"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating authoritative statement",
+     "morph": "f.nom.sg.past-passive-participle (pra+√vac)"
+    },
+    {
+     "surface": "mahākālī",
+     "gloss": "mahākālī",
+     "grounds": "name of the goddess or her mantra form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhruva+ādikā",
+     "gloss": "beginning-with-dhruva",
+     "grounds": "bahuvrīhi compound specifying the initial element of the mantra",
+     "morph": "compound: dhruva+ādikā (f.nom.sg)"
+    }
+   ],
+   "question": "What syllable count and initial element characterize the Mahākālī mantra?",
+   "premises": [
+    "Mahākālī is declared to be fourteen-syllabled.",
+    "Mahākālī is declared to begin with dhruva."
+   ],
+   "inference": "The Mahākālī mantra is defined as a fourteen-syllable formula whose opening element is dhruva.",
+   "uncertainties": [
+    "The specific syllable or mantra element denoted by dhruva is not identified in this verse."
+   ],
+   "plain_english": "Mahākālī is declared to be fourteen-syllabled and to begin with dhruva."
+  }
+ ]
+}

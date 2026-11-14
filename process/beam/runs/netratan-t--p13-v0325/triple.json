@@ -1,0 +1,45 @@
+{
+ "song": "net-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "bhūrihomena",
+     "gloss": "abundant-homa",
+     "grounds": "compound of abundant and homa in instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahārthe",
+     "gloss": "for-companion",
+     "grounds": "locative singular of sahārtha, companion sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "feminine nominative singular of tṛtīya",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "Why is the instrumental case used with abundant homa?",
+   "premises": [
+    "Instrumental case expresses accompaniment.",
+    "Abundant homa is mentioned.",
+    "Third inflection is tṛtīyā."
+   ],
+   "inference": "The verse states the third case conveys companion sense with abundant homa.",
+   "uncertainties": [
+    "Exact syntactic relation of bhūrihomena to tṛtīyā is not explicit."
+   ],
+   "plain_english": "With abundant homa; thus the third (instrumental) case is used in the sense of accompaniment."
+  }
+ ]
+}

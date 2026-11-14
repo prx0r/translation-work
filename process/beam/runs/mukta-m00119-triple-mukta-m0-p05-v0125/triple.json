@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "śrīmūrtisaṃhitāyām",
+     "gloss": "in-śrīmūrtisaṃhitā",
+     "grounds": "locative ending -yām places the named text as the locus of the cited teaching",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking this citation to the preceding list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverbial particle indicating the same relation holds for the following text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samayārṇave",
+     "gloss": "in-samayārṇava",
+     "grounds": "locative ending -e places the named text as the locus of the cited teaching",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which additional tantric scriptures are cited as containing this same classification?",
+   "premises": [
+    "Verse names Śrīmūrtisaṃhitā as a locus.",
+    "Verse names Samayārṇava as a locus.",
+    "The particle tathaiva marks parallel inclusion."
+   ],
+   "inference": "The verse extends the list of authoritative texts said to contain the same teaching.",
+   "uncertainties": [
+    "The exact doctrine referenced is not restated in this verse."
+   ],
+   "plain_english": "And in the Śrīmūrtisaṃhitā, and likewise in the Samayārṇava."
+  }
+ ]
+}

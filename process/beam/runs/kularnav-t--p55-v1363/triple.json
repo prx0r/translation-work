@@ -1,0 +1,656 @@
+{
+ "song": "kul-p55",
+ "items": [
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "mlecchaḥ",
+     "gloss": "barbarian",
+     "grounds": "mleccha in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇahīnaḥ",
+     "gloss": "virtue-lacking",
+     "grounds": "compound guṇa + hīna in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktimān",
+     "gloss": "devoted",
+     "grounds": "possessive adjective in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "śiṣya in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present third singular",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Who is called a disciple even if a barbarian?",
+   "premises": [
+    "devotion outweighs birth and virtue",
+    "a devoted disciple is named even among barbarians"
+   ],
+   "inference": "devotion makes one a disciple regardless of origin",
+   "uncertainties": [
+    "exact scope of guṇahīnaḥ"
+   ],
+   "plain_english": "Even a barbarian lacking virtue is called a disciple if devoted."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "sarva in accusative or nominative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "present active third singular of naś",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūṣaṇaṃ",
+     "gloss": "ornament",
+     "grounds": "bhūṣaṇa in nominative or accusative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lokarañjanam",
+     "gloss": "world-pleasing",
+     "grounds": "compound loka + rañjana in nominative or accusative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What perishes there while ornament and world-pleasing remain?",
+   "premises": [
+    "all else perishes there",
+    "ornament and world-pleasing remain"
+   ],
+   "inference": "devotion's visible marks outlast other qualities",
+   "uncertainties": [
+    "exact referent of tatra"
+   ],
+   "plain_english": "There all else perishes; ornament and world-pleasing remain."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "śvapacaḥ",
+     "gloss": "dog-cooker",
+     "grounds": "śvapaca in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraiḥ",
+     "gloss": "by-others",
+     "grounds": "para in instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūjyaḥ",
+     "gloss": "worshipful",
+     "grounds": "pūjya in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "scholar",
+     "grounds": "vidvas in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāstikaḥ",
+     "gloss": "atheist",
+     "grounds": "nāstika in nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is worshipful even among dog-cookers and scholars?",
+   "premises": [
+    "a dog-cooker may be worshipful",
+    "a scholar may still not be an atheist"
+   ],
+   "inference": "devotion and learning are judged by conduct not birth",
+   "uncertainties": [
+    "whether paraiḥ modifies pūjyaḥ"
+   ],
+   "plain_english": "Even a dog-cooker may be worshipful; even a scholar is not an atheist."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "sarvārthaiḥ",
+     "gloss": "by-all-means",
+     "grounds": "sarvārtha in instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śrīgurau",
+     "gloss": "in-holy-teacher",
+     "grounds": "śrīguru in locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "devī in vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun in genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "bhakti in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthirā",
+     "gloss": "steady",
+     "grounds": "sthirā in nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Whose devotion to the holy teacher is always steady?",
+   "premises": [
+    "devotion to the guru is steady",
+    "it is praised by all means"
+   ],
+   "inference": "steady guru-devotion is the highest qualification",
+   "uncertainties": [
+    "exact force of sarvārthaiḥ"
+   ],
+   "plain_english": "O goddess, whose devotion to the holy teacher is always steady."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-devotion",
+     "grounds": "bhakti in instrumental singular feminine",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative active third singular of smṛ",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "pronoun in genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sidviradūrataḥ",
+     "gloss": "power-far-away",
+     "grounds": "compound-like adverbial phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who should remember by devotion and what follows?",
+   "premises": [
+    "one should remember by devotion",
+    "his power remains far away otherwise"
+   ],
+   "inference": "devotional remembrance is required for power",
+   "uncertainties": [
+    "parsing of sidviradūrataḥ"
+   ],
+   "plain_english": "Thus one should remember by devotion; otherwise his power stays far away."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "pronoun in genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun in dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kathitāḥ",
+     "gloss": "told",
+     "grounds": "past participle passive in nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthāḥ",
+     "gloss": "meanings",
+     "grounds": "artha in nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakāśante",
+     "gloss": "shine",
+     "grounds": "present middle third plural of prakāś",
+     "morph": "3.pl.mid-pres"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "O-lady-of-family",
+     "grounds": "kuleśvarī in vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "To whom are his meanings told and made to shine?",
+   "premises": [
+    "his meanings are told to you",
+    "they shine forth",
+    "O lady of the family"
+   ],
+   "inference": "devotional transmission reveals meaning",
+   "uncertainties": [
+    "whether tasya refers to guru or disciple"
+   ],
+   "plain_english": "His meanings are indeed told to you and shine forth, O lady of the family."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "bhakti in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "O-great-goddess",
+     "grounds": "mahādevī in vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nije",
+     "gloss": "in-own",
+     "grounds": "nija in locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "teacher",
+     "grounds": "guru in locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should devotion be directed toward one's own teacher?",
+   "premises": [
+    "devotion is to be done",
+    "it is directed to one's own teacher"
+   ],
+   "inference": "devotion must be practiced toward the guru",
+   "uncertainties": [
+    "exact force of yathā tathā"
+   ],
+   "plain_english": "O great goddess, devotion should be done in one's own teacher."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "śrīguruṃ",
+     "gloss": "holy-teacher",
+     "grounds": "śrīguru in accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurupatnīm",
+     "gloss": "teacher's-wife",
+     "grounds": "gurupatnī in accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitarau",
+     "gloss": "parents",
+     "grounds": "pitṛ in accusative dual masculine",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-think",
+     "grounds": "optative active third singular of cint",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Whom should one think of as the holy teacher?",
+   "premises": [
+    "one should think of the holy teacher",
+    "also the teacher's wife and parents"
+   ],
+   "inference": "the guru is to be revered with family",
+   "uncertainties": [
+    "whether pitarau means biological or spiritual parents"
+   ],
+   "plain_english": "One should think of the holy teacher, the teacher's wife, and the parents."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "yajñaḥ",
+     "gloss": "sacrifice",
+     "grounds": "yajña in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dānatapastīrthavratādyaiḥ",
+     "gloss": "by-gift-austerity-pilgrimage-vow-etc",
+     "grounds": "compound in instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "priyā in vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is sacrifice equal to gift, austerity, pilgrimage, and vow?",
+   "premises": [
+    "sacrifice is not so dear",
+    "gift, austerity, pilgrimage, and vow are compared"
+   ],
+   "inference": "sacrifice is not the supreme means",
+   "uncertainties": [
+    "exact comparative force of tathā"
+   ],
+   "plain_english": "Sacrifice is not so dear, O dear one, as gift, austerity, pilgrimage, and vow."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "pronoun in genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vijñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "vijñāna in nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vardhate",
+     "gloss": "grows",
+     "grounds": "present middle third singular of vṛdh",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-family-leader",
+     "grounds": "kulanāyikā in vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How does his knowledge grow in this way?",
+   "premises": [
+    "knowledge grows thus",
+    "it grows for him",
+    "O family leader"
+   ],
+   "inference": "repeated practice increases knowledge",
+   "uncertainties": [
+    "exact referent of asya"
+   ],
+   "plain_english": "Thus, thus his knowledge grows, O family leader."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "nirvyājasevā",
+     "gloss": "selfless-service",
+     "grounds": "compound nirvyāja + sevā in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "deveśī in vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "bhakti in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "pronoun in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadguroḥ",
+     "gloss": "of-true-teacher",
+     "grounds": "sadguru in genitive singular masculine",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What is devotion to the true teacher?",
+   "premises": [
+    "selfless service is devotion",
+    "it belongs to the true teacher"
+   ],
+   "inference": "devotion is selfless service to the guru",
+   "uncertainties": [
+    "whether nirvyājasevā is appositive to bhaktiḥ"
+   ],
+   "plain_english": "O goddess, selfless service is indeed devotion to the true teacher."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun in nominative or accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "phala in nominative or accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present middle third singular of labh",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "devī in vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sukhena",
+     "gloss": "easily",
+     "grounds": "sukha in instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "gurusevayā",
+     "gloss": "by-teacher-service",
+     "grounds": "compound guru + sevā in instrumental singular feminine",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How does one obtain that fruit?",
+   "premises": [
+    "that fruit is obtained",
+    "it is obtained easily",
+    "by service to the teacher"
+   ],
+   "inference": "guru service yields the fruit easily",
+   "uncertainties": [
+    "exact referent of tat phalaṃ"
+   ],
+   "plain_english": "O goddess, that fruit is obtained easily by service to the teacher."
+  }
+ ]
+}

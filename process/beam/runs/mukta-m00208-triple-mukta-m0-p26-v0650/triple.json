@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle referring to the preceding act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "flower-offering",
+     "grounds": "ritual offering of flowers held in joined hands",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund) √dā"
+    },
+    {
+     "surface": "asaṃkhyaṃ",
+     "gloss": "countless",
+     "grounds": "qualifies the subsequent light-waving as innumerable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nīrājanaṃ",
+     "gloss": "light-waving",
+     "grounds": "ritual waving of light before the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "diśet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive injunction for the ritual act",
+     "morph": "3.sg.opt.act √diś"
+    }
+   ],
+   "question": "What ritual act must follow the offering of the flower-offering?",
+   "premises": [
+    "The flower-offering is given as a completed ritual act.",
+    "After giving the flower-offering, a further offering is prescribed.",
+    "The prescribed subsequent offering is a countless light-waving."
+   ],
+   "inference": "Therefore, after offering the flower-offering, one should perform countless light-wavings.",
+   "uncertainties": [
+    "Whether asaṃkhyaṃ indicates an indefinite number or a ritually prescribed multitude is not explicit."
+   ],
+   "plain_english": "Thus, having given the flower-offering, one should offer countless light-wavings."
+  }
+ ]
+}

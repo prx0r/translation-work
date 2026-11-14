@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "saṃkocayati",
+     "gloss": "contracts",
+     "grounds": "verb expressing constriction or contraction",
+     "morph": "3.sg.act-pres √saṃ-kuc"
+    },
+    {
+     "surface": "saṃkruddhā",
+     "gloss": "enraged",
+     "grounds": "feminine agent described as intensely angry",
+     "morph": "f.nom.sg.past-participle √saṃ-krudh"
+    },
+    {
+     "surface": "vipralabdhā",
+     "gloss": "deceived",
+     "grounds": "feminine agent described as misled or cheated",
+     "morph": "f.nom.sg.past-participle √vi-pra-labh"
+    },
+    {
+     "surface": "virodhayet",
+     "gloss": "would-oppose",
+     "grounds": "verb expressing opposition or obstruction",
+     "morph": "3.sg.act-opt √vi-rudh"
+    }
+   ],
+   "question": "How do anger and deception condition the constricting and opposing actions of the female agent?",
+   "premises": [
+    "When enraged, the female agent contracts.",
+    "When deceived, the female agent opposes.",
+    "Distinct emotional states produce distinct reactive actions."
+   ],
+   "inference": "The female agent's constricting and opposing behaviors are determined by her states of anger and deception.",
+   "uncertainties": [
+    "The exact referent of the feminine agent relies on the preceding verse's context."
+   ],
+   "plain_english": "When enraged, she contracts; when deceived, she opposes."
+  }
+ ]
+}

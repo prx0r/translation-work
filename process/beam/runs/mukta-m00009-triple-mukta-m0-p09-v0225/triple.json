@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "sūkṣmā",
+     "gloss": "subtle",
+     "grounds": "Qualifies the subtle aspect of mahāmāyā introduced in the preceding division.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "Names the first principle in the series; first member of a compound with ādi.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "Indicates a series starting from kalā; second member of the compound kalā-ādi.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tattvānām",
+     "gloss": "of-principles",
+     "grounds": "Denotes the set of principles beginning with kalā.",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "avibhāga",
+     "gloss": "undivided",
+     "grounds": "Expresses non-differentiation; first member of compound with svarūpiṇī.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "svarūpiṇī",
+     "gloss": "having-nature",
+     "grounds": "Predicates the essential nature of the subtle aspect as undifferentiated.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What essential nature defines the subtle aspect of mahāmāyā with respect to the principles beginning with kalā?",
+   "premises": [
+    "Mahāmāyā is divided into three aspects, including a subtle one.",
+    "The subtle aspect is related to the principles beginning with kalā.",
+    "Its defining character is the non-differentiation of those principles."
+   ],
+   "inference": "Therefore the subtle aspect of mahāmāyā consists in the undifferentiated state of the principles beginning with kalā.",
+   "uncertainties": [
+    "The exact range of principles included by kalā-ādi is not specified within this verse."
+   ],
+   "plain_english": "The subtle aspect has as its nature the undivided state of the principles beginning with kalā."
+  }
+ ]
+}

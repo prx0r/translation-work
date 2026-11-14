@@ -1,0 +1,1319 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "vimukhā",
+     "gloss": "averse",
+     "grounds": "turned away, unfavorable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavate",
+     "gloss": "becomes",
+     "grounds": "becomes for one",
+     "morph": "3.sg.pres.Ā (bhū)"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "the goddess Kālī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāpānām",
+     "gloss": "of-sins",
+     "grounds": "of transgressions",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "āśrayo",
+     "gloss": "refuge",
+     "grounds": "abode, resort",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "would become",
+     "morph": "3.sg.opt.P (bhū)"
+    }
+   ],
+   "question": "What consequence follows when Kālī turns averse toward a person?",
+   "premises": [
+    "Kālī can become averse.",
+    "An averse Kālī becomes a refuge of sins."
+   ],
+   "inference": "Kālī's aversion results in one becoming a locus for sin.",
+   "uncertainties": [
+    "The specific cause of Kālī's aversion is supplied by surrounding context."
+   ],
+   "plain_english": "Kālī becomes averse, and one may become a refuge for sins."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "guru",
+     "grounds": "teacher; first member of compound with vaktrāt",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "vaktrāt",
+     "gloss": "from-mouth",
+     "grounds": "from the mouth",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "niṣkrāntā",
+     "gloss": "issued-forth",
+     "grounds": "gone out, emerged",
+     "morph": "f.nom.sg (past-participle, niṣ-kram)"
+    },
+    {
+     "surface": "śrota",
+     "gloss": "ear",
+     "grounds": "hearing; first member of compound with mārge",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "in-path",
+     "grounds": "along the path, by way of",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "in the heart",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "established, abiding",
+     "morph": "f.nom.sg (past-participle, sthā)"
+    }
+   ],
+   "question": "By what path does the transmitted knowledge reach and abide in the heart?",
+   "premises": [
+    "Knowledge issues forth from the guru's mouth.",
+    "It travels by the path of the ear.",
+    "It becomes situated in the heart."
+   ],
+   "inference": "Authentic knowledge is transmitted orally from guru to disciple and established in the heart.",
+   "uncertainties": [
+    "The subject vidyā is implied from the following verse."
+   ],
+   "plain_english": "Issued from the guru's mouth, it passes through the ear and becomes established in the heart."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "bhoga",
+     "gloss": "enjoyment",
+     "grounds": "worldly enjoyment; first member of compound",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "release; second member of compound",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "pradāṃ",
+     "gloss": "granting",
+     "grounds": "bestowing, giving",
+     "morph": "f.acc.sg (compound-final)"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "sacred knowledge, teaching",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pustake",
+     "gloss": "in-book",
+     "grounds": "in a written book",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lekhayet",
+     "gloss": "one-should-write",
+     "grounds": "one should cause to be written",
+     "morph": "3.sg.opt.caus.P (likh)"
+    }
+   ],
+   "question": "Why must knowledge that grants enjoyment and liberation not be written in a book?",
+   "premises": [
+    "This knowledge grants both enjoyment and liberation.",
+    "The verse prohibits writing it in a book."
+   ],
+   "inference": "Knowledge granting enjoyment and liberation must be preserved through oral transmission, not written records.",
+   "uncertainties": [],
+   "plain_english": "One should never write down in a book the knowledge that grants both enjoyment and liberation."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "then, from that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred formula; subject of instruction",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "upadeṣṭavyā",
+     "gloss": "to-be-instructed",
+     "grounds": "should be taught",
+     "morph": "f.nom.sg (gerundive, upa-diś)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "own",
+     "grounds": "one's own; first member of compound with śubham",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "good",
+     "grounds": "welfare, benefit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "icchati",
+     "gloss": "desires",
+     "grounds": "wishes for",
+     "morph": "3.sg.pres.P (iṣ)"
+    }
+   ],
+   "question": "Under what condition should the mantra be properly instructed to a seeker?",
+   "premises": [
+    "The mantra is to be instructed.",
+    "The condition is desiring one's own good."
+   ],
+   "inference": "If one desires one's own welfare, the mantra should be received through proper instruction.",
+   "uncertainties": [
+    "The proper mode of instruction is implied by the preceding prohibition on writing."
+   ],
+   "plain_english": "Therefore, if one desires one's own good, the mantra should be properly instructed."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "niraye",
+     "gloss": "in-hell",
+     "grounds": "in a hell realm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirataṃ",
+     "gloss": "constant",
+     "grounds": "engaged in, devoted to",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāso",
+     "gloss": "dwelling",
+     "grounds": "residence, abode",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "shall come to be",
+     "morph": "3.sg.fut.P (bhū)"
+    },
+    {
+     "surface": "su",
+     "gloss": "very",
+     "grounds": "intensifier; first member of compound with dāruṇe",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "dāruṇe",
+     "gloss": "terrible",
+     "grounds": "dreadful, harsh",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What fate awaits one who violates the proper transmission of the mantra?",
+   "premises": [
+    "Violation of proper transmission is implied by context.",
+    "Dwelling in a very terrible hell is stated as the result."
+   ],
+   "inference": "Improper handling of the mantra leads to prolonged residence in a terrible hell.",
+   "uncertainties": [
+    "The specific transgression is inferred from verses 453-454."
+   ],
+   "plain_english": "One will have a constant dwelling in a very terrible hell."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "āstika",
+     "gloss": "faithful",
+     "grounds": "believing, trusting; first member of compound with buddhi",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "buddhi",
+     "gloss": "mind",
+     "grounds": "intellect, disposition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasyā",
+     "gloss": "of-whom",
+     "grounds": "whose",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sti",
+     "gloss": "is",
+     "grounds": "exists; sandhi form of asti",
+     "morph": "3.sg.pres.P (as)"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "to that person",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "is-pleased",
+     "grounds": "becomes gracious, favors",
+     "morph": "3.sg.pres.P (pra-sad)"
+    }
+   ],
+   "question": "What inner disposition causes the goddess to become gracious toward a devotee?",
+   "premises": [
+    "A person may possess a faithful mind.",
+    "The goddess becomes pleased with such a person."
+   ],
+   "inference": "Faithful disposition is the condition for receiving the goddess's grace.",
+   "uncertainties": [],
+   "plain_english": "The goddess is pleased with one who has a faithful mind."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "śaṅkāyā",
+     "gloss": "from-doubt",
+     "grounds": "due to doubt, suspicion",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "success",
+     "grounds": "accomplishment; first member of compound with hāniḥ",
+     "morph": "f.stem (compound)"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "destruction, diminution",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "would occur",
+     "morph": "3.sg.opt.P (as)"
+    },
+    {
+     "surface": "nirvikalpaṃ",
+     "gloss": "non-conceptual",
+     "grounds": "free from conceptual construction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāśrayet",
+     "gloss": "one-should-resort-to",
+     "grounds": "one should take refuge in",
+     "morph": "3.sg.opt.P (sam-ā-śri)"
+    }
+   ],
+   "question": "How does doubt affect spiritual accomplishment and what state should be adopted instead?",
+   "premises": [
+    "Doubt leads to loss of accomplishment.",
+    "The non-conceptual state is prescribed as the remedy."
+   ],
+   "inference": "To avoid loss of accomplishment, one must abandon doubt and resort to the non-conceptual.",
+   "uncertainties": [],
+   "plain_english": "Doubt brings loss of accomplishment, so one should resort to the non-conceptual state."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "by me",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "even, too",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vuṣṇunā",
+     "gloss": "with-viṣṇu",
+     "grounds": "together with Viṣṇu; spelling as given",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "together",
+     "grounds": "along with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaṇā",
+     "gloss": "by-brahmā",
+     "grounds": "together with Brahmā",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "munibhiḥ",
+     "gloss": "with-sages",
+     "grounds": "together with sages",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "accompanied by",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which exalted beings are included as practitioners alongside the speaker in this teaching?",
+   "premises": [
+    "The speaker includes himself.",
+    "Viṣṇu, Brahmā, and sages are included as companions."
+   ],
+   "inference": "Even the highest deities and sages participate in this practice or context.",
+   "uncertainties": [
+    "The main verb or predicate continues in the next verse."
+   ],
+   "plain_english": "By me also, together with Viṣṇu, with Brahmā, and with the sages."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "deva",
+     "gloss": "gods",
+     "grounds": "deities; first member of compound",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "gandharva",
+     "gloss": "gandharvas",
+     "grounds": "celestial musicians; compound member",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "daitya",
+     "gloss": "demons",
+     "grounds": "daityas; compound member",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "ādīn",
+     "gloss": "and-others",
+     "grounds": "and so forth",
+     "morph": "m.acc.pl (compound-final)"
+    },
+    {
+     "surface": "rakṣa",
+     "gloss": "demons",
+     "grounds": "rākṣasas; first member of compound",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "panna",
+     "gloss": "serpents",
+     "grounds": "serpents; compound member",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "ga",
+     "gloss": "nāgas",
+     "grounds": "nāgas; compound member",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "mānavāḥ",
+     "gloss": "humans",
+     "grounds": "human beings",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What range of beings is encompassed in the scope of this teaching or practice?",
+   "premises": [
+    "Gods, gandharvas, daityas and others are included.",
+    "Rākṣasas, serpents, nāgas, and humans are included."
+   ],
+   "inference": "The teaching or practice extends across all classes of beings from gods to humans.",
+   "uncertainties": [
+    "The syntactic role of these beings depends on the predicate in the following verse."
+   ],
+   "plain_english": "Gods, gandharvas, daityas and others, rākṣasas, serpents, nāgas, and humans."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "for those beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "what use, why",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vicāreṇa",
+     "gloss": "by-deliberation",
+     "grounds": "by analysis, by inquiry",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nirvikalpaṃ",
+     "gloss": "non-conceptual",
+     "grounds": "free from conceptual construction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-practice",
+     "grounds": "one should perform, engage in",
+     "morph": "3.sg.opt.P (sam-ā-car)"
+    }
+   ],
+   "question": "What is the value of deliberation for all these beings compared to non-conceptual practice?",
+   "premises": [
+    "All classes of beings have been enumerated.",
+    "Deliberation is questioned as to its use.",
+    "Non-conceptual practice is enjoined."
+   ],
+   "inference": "For all beings, non-conceptual practice supersedes conceptual deliberation.",
+   "uncertainties": [],
+   "plain_english": "What use is that deliberation for them? One should practice the non-conceptual."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-goddess",
+     "grounds": "of the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prabhāveṇa",
+     "gloss": "by-power",
+     "grounds": "by the might, by the efficacy",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "why, what use",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāra",
+     "gloss": "conduct",
+     "grounds": "prescribed conduct; first member of compound with vicārayet",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "vicārayet",
+     "gloss": "one-should-consider",
+     "grounds": "one should deliberate about",
+     "morph": "3.sg.opt.P (vi-car caus.)"
+    }
+   ],
+   "question": "Why is deliberation about conduct unnecessary given the goddess's power?",
+   "premises": [
+    "The goddess possesses power or efficacy.",
+    "Deliberation about conduct is questioned."
+   ],
+   "inference": "By the goddess's power, anxious deliberation about conduct is rendered unnecessary.",
+   "uncertainties": [],
+   "plain_english": "Likewise, by the power of the goddess, why should one deliberate about conduct?"
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "complete; first member of compound with siddhiṃ",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "success, attainment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the great goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "must be kept secret",
+     "morph": "n.nom.sg (gerundive, gup)"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "carefully, diligently",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the attainment of all accomplishments be treated by the practitioner?",
+   "premises": [
+    "All accomplishment is the subject.",
+    "It must be concealed with effort."
+   ],
+   "inference": "Complete accomplishment should be diligently kept secret.",
+   "uncertainties": [
+    "The speaker addressing Maheśāni indicates a dialogic context."
+   ],
+   "plain_english": "O great goddess, all accomplishment must be carefully concealed."
+  },
+  {
+   "verse": 463,
+   "rows": [
+    {
+     "surface": "yasmin",
+     "gloss": "in-which",
+     "grounds": "in whatever",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantre",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "whatever",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ācāra",
+     "gloss": "conduct",
+     "grounds": "prescribed practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmaḥ",
+     "gloss": "dharma",
+     "grounds": "right conduct, duty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "but, indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśaḥ",
+     "gloss": "such",
+     "grounds": "of that kind",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is dharma determined in relation to the conduct prescribed for a given mantra?",
+   "premises": [
+    "Each mantra has its own prescribed conduct.",
+    "Dharma in that context corresponds to that conduct."
+   ],
+   "inference": "Dharma is relative to the specific conduct enjoined by each mantra.",
+   "uncertainties": [],
+   "plain_english": "In whichever mantra there is a particular conduct, there dharma is of that very kind."
+  },
+  {
+   "verse": 464,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adharmo",
+     "gloss": "unrighteousness",
+     "grounds": "non-dharma; sandhi form of adharmaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpa",
+     "gloss": "sin",
+     "grounds": "transgression; first member of compound with ādi",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "and such things",
+     "morph": "n.nom.sg (compound-final)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "is produced, comes into being",
+     "morph": "3.sg.pres.Ā (jan)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "meva",
+     "gloss": "alone",
+     "grounds": "only that; sandhi fusion of m + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "indeed",
+     "grounds": "and, emphatic",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What moral consequences arise from following the conduct proper to a given mantra?",
+   "premises": [
+    "Conduct proper to a mantra is dharma in that context.",
+    "Neither unrighteousness nor sin arises from it."
+   ],
+   "inference": "Mantra-specific conduct, when properly followed, produces no unrighteousness or sin.",
+   "uncertainties": [
+    "The exact referent of tat meva is contextually the prescribed conduct."
+   ],
+   "plain_english": "No unrighteousness and no sin or the like arises; that alone is so."
+  },
+  {
+   "verse": 465,
+   "rows": [
+    {
+     "surface": "śaktau",
+     "gloss": "in-śakti",
+     "grounds": "in the goddess Śakti, in power",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "everything; first member of compound with samutpannaṃ",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "samutpannaṃ",
+     "gloss": "originated",
+     "grounds": "arisen, produced",
+     "morph": "n.nom.sg (past-participle, sam-ut-pad)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "that which",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "anything",
+     "grounds": "anything at all",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagatī",
+     "gloss": "in-world",
+     "grounds": "in the world; first member of compound with gatam",
+     "morph": "f.stem (compound)"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "existing",
+     "grounds": "gone into, present in",
+     "morph": "n.nom.sg (past-participle, gam)"
+    }
+   ],
+   "question": "What is the ultimate source of everything that exists in the world?",
+   "premises": [
+    "Whatever exists in the world is considered.",
+    "All of it has originated in Śakti."
+   ],
+   "inference": "Śakti is the source of all that exists in the world.",
+   "uncertainties": [],
+   "plain_english": "Whatever exists in the world has all originated in Śakti."
+  },
+  {
+   "verse": 466,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "complete; first member of compound",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "veda",
+     "gloss": "vedas",
+     "grounds": "sacred scriptures; compound member",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "vido",
+     "gloss": "knowers",
+     "grounds": "those who know; sandhi form of vidaḥ",
+     "morph": "m.nom.pl (compound-final)"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brāhmaṇa",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sadācāreṇa",
+     "gloss": "by-good-conduct",
+     "grounds": "through right conduct",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "suvrata",
+     "gloss": "o-one-of-good-vows",
+     "grounds": "vocative address to one of good vows",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What characterizes those who know all the Vedas in this teaching's address?",
+   "premises": [
+    "Knowers of all Vedas are addressed.",
+    "They are associated with good conduct and good vows."
+   ],
+   "inference": "True knowledge of all Vedas is linked with good conduct and disciplined vows.",
+   "uncertainties": [
+    "The sentence continues into the next verse."
+   ],
+   "plain_english": "O brāhmaṇa of good vows, the knowers of all the Vedas live by good conduct."
+  },
+  {
+   "verse": 467,
+   "rows": [
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "the self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "the absolute reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vijānīhi",
+     "gloss": "know",
+     "grounds": "understand, realize",
+     "morph": "2.sg.imp.P (vi-jñā)"
+    },
+    {
+     "surface": "bhrānti",
+     "gloss": "delusion",
+     "grounds": "error, mistaken cognition; first member of compound with jñānaṃ",
+     "morph": "f.stem (compound)"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "cognition, understanding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "one-should-abandon",
+     "grounds": "one should completely give up",
+     "morph": "3.sg.opt.P (pari-tyaj)"
+    }
+   ],
+   "question": "What realization and what renunciation are enjoined regarding the self and delusion?",
+   "premises": [
+    "The self is to be known as Brahman.",
+    "Delusive knowledge is to be abandoned."
+   ],
+   "inference": "Realizing the self as Brahman requires abandoning delusive cognition.",
+   "uncertainties": [],
+   "plain_english": "Know the self to be Brahman, and abandon delusive knowledge."
+  },
+  {
+   "verse": 468,
+   "rows": [
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "gnosis; first member of compound with mārgeṇa",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-path",
+     "grounds": "by means of the path",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "entire, whole",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "conceptualization",
+     "grounds": "mental construction, differentiation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "one-should-abandon",
+     "grounds": "one should completely avoid",
+     "morph": "3.sg.opt.P (pari-vṛj)"
+    }
+   ],
+   "question": "By what means should one abandon all conceptual construction?",
+   "premises": [
+    "The path of knowledge is the means.",
+    "All conceptualization is to be abandoned."
+   ],
+   "inference": "Through the path of knowledge, one should completely abandon all conceptualization.",
+   "uncertainties": [],
+   "plain_english": "By the path of knowledge, one should abandon all conceptualization."
+  },
+  {
+   "verse": 469,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "Śiva; first member of compound",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "śaktī",
+     "gloss": "śakti",
+     "grounds": "Śakti; second member of compound",
+     "morph": "f.stem (compound)"
+    },
+    {
+     "surface": "mayaṃ",
+     "gloss": "consisting-of",
+     "grounds": "made of, pervaded by",
+     "morph": "m.acc.sg (compound-final)"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "the body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rajaḥ",
+     "gloss": "semen",
+     "grounds": "male generative fluid",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śukraṃ",
+     "gloss": "seed",
+     "grounds": "seminal essence, seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "is born, arises",
+     "morph": "3.sg.pres.Ā (pra-jan)"
+    }
+   ],
+   "question": "How are the body and generative substances understood as manifestations of Śiva and Śakti?",
+   "premises": [
+    "The body consists of Śiva and Śakti.",
+    "Generative fluids are produced in this context."
+   ],
+   "inference": "The body and its generative substances are manifestations of the union of Śiva and Śakti.",
+   "uncertainties": [
+    "The precise identification of rajaḥ and śukraṃ follows ritual-physiological usage."
+   ],
+   "plain_english": "The body consists of Śiva and Śakti, and from it semen and seed are produced."
+  },
+  {
+   "verse": 470,
+   "rows": [
+    {
+     "surface": "nīrājya",
+     "gloss": "arghya-water",
+     "grounds": "consecrated water; first member of compound",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "honey; compound member",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "maireyai",
+     "gloss": "liquor",
+     "grounds": "intoxicating liquor; compound member, instrumental plural sense in compound",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "dravya",
+     "gloss": "substance",
+     "grounds": "material; first member of compound with bhedā",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "bhedā",
+     "gloss": "differences",
+     "grounds": "distinctions, varieties; sandhi form of bhedāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are",
+     "grounds": "exist, occur",
+     "morph": "3.pl.pres.P (bhū)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "for, certainly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of ritual substances are acknowledged as having distinct forms in practice?",
+   "premises": [
+    "Arghya-water, honey, and liquor are named.",
+    "Differences among substances are affirmed."
+   ],
+   "inference": "Ritual practice recognizes distinct categories of substances such as arghya-water, honey, and liquor.",
+   "uncertainties": [
+    "The compound structure of maireyai is read in context of listed substances."
+   ],
+   "plain_english": "Indeed, there are differences of substances such as arghya-water, honey, and liquor."
+  },
+  {
+   "verse": 471,
+   "rows": [
+    {
+     "surface": "aśva",
+     "gloss": "horse",
+     "grounds": "horse; first member of compound",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "medha",
+     "gloss": "sacrifice",
+     "grounds": "sacrificial rite; compound member",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "great; first member of compound with yajñe",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "yajñe",
+     "gloss": "in-sacrifice",
+     "grounds": "in the ritual sacrifice",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāji",
+     "gloss": "horse",
+     "grounds": "horse; first member of compound with hatyā",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "hatyā",
+     "gloss": "killing",
+     "grounds": "slaying",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "in what way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "can-be",
+     "grounds": "could be",
+     "morph": "3.sg.opt.P (bhū)"
+    }
+   ],
+   "question": "How can horse-killing be attributed in the context of the great horse sacrifice?",
+   "premises": [
+    "The great horse sacrifice is referenced.",
+    "The possibility of horse-killing is questioned."
+   ],
+   "inference": "The verse challenges the notion that the horse sacrifice constitutes culpable killing.",
+   "uncertainties": [
+    "The rhetorical answer is implied rather than stated."
+   ],
+   "plain_english": "In the great horse sacrifice, how can there be the killing of a horse?"
+  },
+  {
+   "verse": 472,
+   "rows": [
+    {
+     "surface": "pauṣyaṃ",
+     "gloss": "nourishing",
+     "grounds": "nutritive, strengthening",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taru",
+     "gloss": "from-tree",
+     "grounds": "from a tree; first member of compound with bhavaṃ",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "bhavaṃ",
+     "gloss": "born",
+     "grounds": "originating from",
+     "morph": "n.nom.sg (compound-final)"
+    },
+    {
+     "surface": "dhānyaṃ",
+     "gloss": "grain",
+     "grounds": "grain, cereal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃbhavaṃ",
+     "gloss": "produced",
+     "grounds": "arising, originating",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "takra",
+     "gloss": "from-buttermilk",
+     "grounds": "from buttermilk; first member of compound with nirmitam",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "nirmitam",
+     "gloss": "made",
+     "grounds": "prepared, fashioned",
+     "morph": "n.nom.sg (past-participle, nis-mā)"
+    }
+   ],
+   "question": "What natural origins are attributed to nourishing ritual or dietary substances here?",
+   "premises": [
+    "Nourishing grain is described as born from a tree.",
+    "A substance is described as produced and made from buttermilk."
+   ],
+   "inference": "The verse emphasizes the natural, non-violent origins of certain substances.",
+   "uncertainties": [
+    "The exact referent of the buttermilk-derived substance is not specified."
+   ],
+   "plain_english": "Nourishing grain is born from a tree, and something produced is made from buttermilk."
+  },
+  {
+   "verse": 473,
+   "rows": [
+    {
+     "surface": "ajñānaiḥ",
+     "gloss": "by-ignorant",
+     "grounds": "by those lacking knowledge",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃskṛtaṃ",
+     "gloss": "consecrated",
+     "grounds": "prepared, ritually processed",
+     "morph": "n.nom.sg (past-participle, sam-kṛ)"
+    },
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "at once; sandhi form of sadyaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "great; first member of compound with pātaka",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "pātaka",
+     "gloss": "sin",
+     "grounds": "transgression; compound member",
+     "morph": "n.stem (compound)"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "causing",
+     "grounds": "making, producing",
+     "morph": "n.nom.sg (compound-final)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "would become",
+     "morph": "3.sg.opt.P (bhū)"
+    }
+   ],
+   "question": "What consequence follows when ritual substances are consecrated by the ignorant?",
+   "premises": [
+    "Consecration may be performed by the ignorant.",
+    "Such consecration can immediately cause great sin."
+   ],
+   "inference": "Ritual consecration performed without knowledge becomes a source of great transgression.",
+   "uncertainties": [],
+   "plain_english": "When consecrated by the ignorant, it may immediately become the cause of great sin."
+  },
+  {
+   "verse": 474,
+   "rows": [
+    {
+     "surface": "pūjanāt",
+     "gloss": "by-worship",
+     "grounds": "through worship, through ritual honoring",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "only, indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvartya",
+     "gloss": "accomplished",
+     "grounds": "having been completed, carried out",
+     "morph": "(gerund, nis-vṛt)"
+    },
+    {
+     "surface": "nirvikalpa",
+     "gloss": "non-conceptual",
+     "grounds": "free from conceptual construction; first member of compound with samantravit",
+     "morph": "m.stem (compound)"
+    },
+    {
+     "surface": "samantravit",
+     "gloss": "with-mantra-knower",
+     "grounds": "together with one who knows the mantra",
+     "morph": "m.nom.sg (compound-final)"
+    }
+   ],
+   "question": "How is worship to be properly accomplished according to this concluding instruction?",
+   "premises": [
+    "Worship alone is the means of accomplishment.",
+    "It is accomplished in a non-conceptual state with a knower of mantra."
+   ],
+   "inference": "Proper worship is completed through non-conceptual practice in the company of a mantra-knower.",
+   "uncertainties": [
+    "The syntactic completion of the sentence may continue beyond this verse."
+   ],
+   "plain_english": "Accomplished through worship alone, in a non-conceptual state, together with one who knows the mantra."
+  }
+ ]
+}

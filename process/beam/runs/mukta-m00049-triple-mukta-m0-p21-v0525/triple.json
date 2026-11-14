@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun, subject of kurvanti",
+     "morph": "pron.rel.nom.pl.m"
+    },
+    {
+     "surface": "kurvanti",
+     "gloss": "perform",
+     "grounds": "action done by those designated by ye",
+     "morph": "3.pl.act.pres(√kṛ)"
+    },
+    {
+     "surface": "kulācāraiḥ",
+     "gloss": "by-kula-practices",
+     "grounds": "instrumental plural indicating means or manner",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the verb bādhate",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "correlative pronoun, object of bādhate",
+     "morph": "pron.dem.acc.pl.m"
+    },
+    {
+     "surface": "bādhate",
+     "gloss": "afflicts",
+     "grounds": "action attributed to Kali",
+     "morph": "3.sg.act.pres(√bādh)"
+    },
+    {
+     "surface": "kaliḥ",
+     "gloss": "kali",
+     "grounds": "personified age or force, subject of bādhate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are practitioners of Kula practices immune to the afflictions of the Kali age?",
+   "premises": [
+    "Some people perform actions according to Kula practices.",
+    "Kali is a force that afflicts beings.",
+    "The verse explicitly denies that Kali afflicts those practitioners."
+   ],
+   "inference": "Therefore, those who act according to Kula practices are not afflicted by Kali.",
+   "uncertainties": [
+    "The specific scope and nature of 'kulācāraiḥ' is not defined within this verse alone."
+   ],
+   "plain_english": "Indeed, Kali does not afflict those who perform their actions according to Kula practices."
+  }
+ ]
+}

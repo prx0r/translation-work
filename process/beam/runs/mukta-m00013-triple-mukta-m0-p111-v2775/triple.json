@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "bhavāya",
+     "gloss": "to-bhava",
+     "grounds": "dative form addressing the deity Bhava as recipient of salutation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhava+sambhūta+duḥkha+hantre",
+     "gloss": "existence-born-sorrow-destroyer",
+     "grounds": "compound describing Bhava as destroyer of sorrow arising from worldly existence",
+     "morph": "compound; m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "imperative expressing a wish or benediction",
+     "morph": "3.sg.imp.act; √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "personal pronoun referring to the addressed deity",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What salvific role of Bhava warrants this obeisance from the devotee?",
+   "premises": [
+    "Bhava is addressed as the recipient of obeisance.",
+    "Bhava destroys sorrow arising from worldly existence.",
+    "The devotee directs reverential salutation to that deity."
+   ],
+   "inference": "Therefore obeisance is rightly offered to Bhava as the remover of existence-born suffering.",
+   "uncertainties": [
+    "bhava may evoke both the deity Bhava and worldly existence within the compound."
+   ],
+   "plain_english": "Obeisance be to you, Bhava, destroyer of the sorrow born of existence."
+  }
+ ]
+}

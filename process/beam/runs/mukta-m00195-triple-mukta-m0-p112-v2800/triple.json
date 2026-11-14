@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "prasaktāgre",
+     "gloss": "with-tips-extended",
+     "grounds": "bahuvrihi compound describing kaniṣṭhe; tips directed outward/upward",
+     "morph": "compound.adj.f.nom.du"
+    },
+    {
+     "surface": "kaniṣṭhe",
+     "gloss": "little-fingers",
+     "grounds": "the two smallest fingers of the hands",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle continuing the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvataḥ",
+     "gloss": "upward",
+     "grounds": "directional adverb indicating orientation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "situated",
+     "grounds": "past participle agreeing with kaniṣṭhe; √sthā",
+     "morph": "f.nom.du.ppp √sthā"
+    }
+   ],
+   "question": "What position must the little fingers assume in the described hand gesture?",
+   "premises": [
+    "The little fingers are the subject of the instruction.",
+    "Their tips are described as extended.",
+    "They are directed and situated upward."
+   ],
+   "inference": "The little fingers must be placed upward with their tips extended.",
+   "uncertainties": [
+    "The exact degree of extension implied by prasakta is context-dependent."
+   ],
+   "plain_english": "And the little fingers, with their tips extended, are to be held upward."
+  }
+ ]
+}

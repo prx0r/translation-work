@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "anaphoric subject continuing the markless akulavīra of the preceding verses",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle extending the series of identifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāṃkhyaḥ",
+     "gloss": "sāṃkhya",
+     "grounds": "name of the philosophical system or its exemplar identified with the akulavīra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "purāṇāśca",
+     "gloss": "purāṇas-and",
+     "grounds": "fused form of purāṇāḥ and ca; the purāṇic traditions included in the identification",
+     "morph": "m.nom.pl+indecl."
+    },
+    {
+     "surface": "arihanta+buddha",
+     "gloss": "arihant-and-buddha",
+     "grounds": "paired revered figures joined in a compound; both identified with the akulavīra",
+     "morph": "compound: arihanta+coord+buddha+coord"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "closing connective particle in the enumerative series",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which philosophical traditions and revered teachers are identified with the markless akulavīra?",
+   "premises": [
+    "The subject is the same markless akulavīra named in the preceding verses.",
+    "Sāṃkhya and the Purāṇas are included among the identities of that akulavīra.",
+    "Arihant and Buddha are also explicitly included in this identification."
+   ],
+   "inference": "The markless akulavīra encompasses not only major deities but also diverse philosophical traditions and revered teachers.",
+   "uncertainties": [
+    "Whether sāṃkhyaḥ refers to the Sāṃkhya system, its founder, or its adherents is not specified.",
+    "The compound arihanta+buddha may reflect a dvandva pairing, but its precise internal relation is unstated."
+   ],
+   "plain_english": "He is also Sāṃkhya, the Purāṇas, and indeed Arihant and Buddha."
+  }
+ ]
+}

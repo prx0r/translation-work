@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p136",
+ "items": [
+  {
+   "verse": 3400,
+   "rows": [
+    {
+     "surface": "pipīlikā",
+     "gloss": "ant",
+     "grounds": "a small creature named in the enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūnāgo",
+     "gloss": "earth-snake",
+     "grounds": "compound of bhū and nāga with nominative sandhi",
+     "morph": "m.nom.sg (compound: bhū+nāga)"
+    },
+    {
+     "surface": "lūtādyā",
+     "gloss": "spider-and-others",
+     "grounds": "compound indicating spider and similar beings",
+     "morph": "m.nom.pl (compound: lūtā+ādya)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the beings named",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle indicating prior mention",
+     "morph": "m.nom.pl.ppp (√kīrt)"
+    }
+   ],
+   "question": "Which additional beings are proclaimed to belong to this enumerated series?",
+   "premises": [
+    "The ant is named as part of the series.",
+    "The earth-snake is named as part of the series.",
+    "Beings beginning with the spider are proclaimed as included."
+   ],
+   "inference": "These creatures further extend the previously enumerated series of beings.",
+   "uncertainties": [],
+   "plain_english": "And the ant, the earth-snake, and those beginning with the spider are proclaimed as included."
+  }
+ ]
+}

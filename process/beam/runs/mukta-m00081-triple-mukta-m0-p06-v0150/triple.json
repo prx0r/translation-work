@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "kvacidupayogi",
+     "gloss": "applicable-in-some-cases",
+     "grounds": "fused compound of kvacit (somewhere) and upayogin (useful, applicable)",
+     "morph": "compound (kvacit+upayogin): m.nom.sg"
+    },
+    {
+     "surface": "bhavatīti",
+     "gloss": "becomes-thus",
+     "grounds": "fused sandhi of bhavati (becomes) and iti (thus)",
+     "morph": "bhavati (3.sg.pres.act, √bhū) + iti (indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "to-that-extent",
+     "grounds": "limiting particle marking the extent or scope of applicability",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To what extent can a designation remain applicable despite an underlying unity?",
+   "premises": [
+    "A designation may be applicable in some contexts.",
+    "Such applicability arises only to a limited extent.",
+    "Contextual usefulness does not negate underlying unity."
+   ],
+   "inference": "A designation holds only insofar as it serves a contextual purpose within an underlying unity.",
+   "uncertainties": [
+    "The exact antecedent of the limited applicability depends on the preceding verses."
+   ],
+   "plain_english": "It is applicable in some cases only to that extent, thus."
+  }
+ ]
+}

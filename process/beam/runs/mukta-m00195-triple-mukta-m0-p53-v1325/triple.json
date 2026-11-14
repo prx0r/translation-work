@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-discard",
+     "grounds": "injunction to abandon the preceding act",
+     "morph": "3.sg.optative-active √tyaj"
+    },
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "first member of compound denoting hand-purification",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śuddhiṃ",
+     "gloss": "purification",
+     "grounds": "object of discarding; hand-purification rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequential transition to next action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-astra",
+     "grounds": "instrumental means for the following act",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform the next ritual action",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "tāla",
+     "gloss": "clap",
+     "grounds": "first member of compound denoting a set of claps",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "object specifying three claps",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks transition to the subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual actions must replace hand-purification in the prescribed sequence?",
+   "premises": [
+    "Hand-purification is to be discarded.",
+    "After discarding, an action is performed with the astra.",
+    "That action consists of performing three claps."
+   ],
+   "inference": "The ritual sequence requires abandoning hand-purification and then performing three claps with the astra.",
+   "uncertainties": [
+    "The exact ritual referent of kara-śuddhi in this context is not specified in the verse."
+   ],
+   "plain_english": "One should discard the hand-purification; then, with the astra, one should perform three claps; then proceed."
+  }
+ ]
+}

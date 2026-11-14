@@ -1,0 +1,51 @@
+{
+ "song": "kul-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "indeclinable adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutrāpi",
+     "gloss": "anywhere",
+     "grounds": "indeclinable adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "acalanaṃ",
+     "gloss": "immobility",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sannirodhanam",
+     "gloss": "restraint",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "passive past participle from root īr",
+     "morph": "ppp (īr)"
+    }
+   ],
+   "question": "Wherever is immobility and restraint declared?",
+   "premises": [
+    "Immobility is declared as seat.",
+    "Restraint is declared as seat.",
+    "This applies wherever."
+   ],
+   "inference": "The seat is wherever immobility and restraint occur.",
+   "uncertainties": [
+    "Exact syntactic relation to previous verse unclear."
+   ],
+   "plain_english": "Wherever immobility and restraint are declared, that is the seat."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p207",
+ "items": [
+  {
+   "verse": 5175,
+   "rows": [
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "first member of compound with mārgeṇa indicating the Vedic path",
+     "morph": "veda+compound"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-path",
+     "grounds": "instrumental expressing the means or mode; compounded with veda",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kīdṛk",
+     "gloss": "of-what-kind",
+     "grounds": "interrogative adjective qualifying pūjā",
+     "morph": "interrog.f.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject of the inquiry regarding ritual form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manuś",
+     "gloss": "manu",
+     "grounds": "nominative form with visarga sandhi before ca; refers to a mantra or authoritative formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjoins the inquiries about pūjā and manu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "which",
+     "grounds": "interrogative pronoun qualifying manuś",
+     "morph": "interrog.m.nom.sg"
+    }
+   ],
+   "question": "What specific form of worship and which manu are prescribed by the Vedic path?",
+   "premises": [
+    "The Vedic path serves as the standard for ritual practice.",
+    "Worship may take different specific forms.",
+    "A particular manu may be required in that worship."
+   ],
+   "inference": "The Vedic path determines both the specific character of worship and the identity of the required manu.",
+   "uncertainties": [
+    "Whether manuś refers to a specific mantra formula or to a Manus-derived injunction is not explicit in this verse alone."
+   ],
+   "plain_english": "According to the Vedic path, what kind of worship is performed, and which manu is used?"
+  }
+ ]
+}

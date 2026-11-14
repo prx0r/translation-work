@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "yajanaṃ",
+     "gloss": "worship",
+     "grounds": "object of the prescribed ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-fragrance-flower-etc",
+     "grounds": "instrumental compound listing ritual offerings",
+     "morph": "gandha-puṣpa-ādi+instr.pl.n"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "individually",
+     "grounds": "adverb indicating separate application to each recipient",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "prescriptive passive verb enjoining the ritual act",
+     "morph": "3.sg.pass-pres pra-√dhā"
+    }
+   ],
+   "question": "What manner of worship with fragrances and flowers is prescribed for each recipient?",
+   "premises": [
+    "Worship is the ritual action being prescribed.",
+    "Fragrances, flowers, and similar items serve as the means of worship.",
+    "The prescription applies individually to each recipient."
+   ],
+   "inference": "Therefore, worship using fragrances, flowers, and the like must be performed separately for each recipient.",
+   "uncertainties": [
+    "The specific referent of 'each' depends on the recipients mentioned in the preceding verses."
+   ],
+   "plain_english": "Worship with fragrances, flowers, and so forth is prescribed to be performed individually for each."
+  }
+ ]
+}

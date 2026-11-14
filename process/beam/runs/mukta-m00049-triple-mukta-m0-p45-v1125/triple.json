@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable indicating an alternative or contrary condition to the prescribed procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "the goddess to whom the offering is directed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "satisfaction",
+     "grounds": "pleasure or favor of the deity resulting from proper worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "comes into being or is produced",
+     "morph": "3.sg.pres.middle (√jan)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the arising of satisfaction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "emphasizes that the negation holds at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does the deity's satisfaction fail to arise from the ritual offering?",
+   "premises": [
+    "A prescribed ritual offering is required to please the deity.",
+    "An alternative procedure contrary to the prescription may be followed.",
+    "In such an alternative case, the deity's satisfaction does not arise at any time."
+   ],
+   "inference": "Therefore, deviation from the prescribed offering prevents the deity's satisfaction from arising.",
+   "uncertainties": [],
+   "plain_english": "Otherwise, the deity's satisfaction never arises."
+  }
+ ]
+}

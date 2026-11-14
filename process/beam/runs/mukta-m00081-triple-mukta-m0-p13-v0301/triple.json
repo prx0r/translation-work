@@ -1,0 +1,1027 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "bandhamokṣayor",
+     "gloss": "of-bondage-and-liberation",
+     "grounds": "dual compound in genitive dual referring to bondage and liberation",
+     "morph": "compound(bandha+coord-mokṣa).gen.dual.m"
+    },
+    {
+     "surface": "bandhamokṣatā",
+     "gloss": "state-of-bondage-and-liberation",
+     "grounds": "abstract noun formed from the pair bondage and liberation",
+     "morph": "compound(bandha-mokṣa+tā).nom.sg.f"
+    }
+   ],
+   "question": "What is the status of bondage and liberation as a pair?",
+   "premises": [
+    "Bondage and liberation are named together",
+    "Their pairing is treated as a single state"
+   ],
+   "inference": "The discourse treats bondage and liberation as a unified conceptual pair",
+   "uncertainties": [],
+   "plain_english": "Bondage and liberation are spoken of as a single state of bondage-and-liberation."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "kathanaṃ",
+     "gloss": "statement",
+     "grounds": "act of speaking or declaring",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvasāmyāya",
+     "gloss": "for-universal-equality",
+     "grounds": "purpose of establishing sameness of all",
+     "morph": "compound(sarva+sāmya).dat.sg.n"
+    },
+    {
+     "surface": "vivādihananāya",
+     "gloss": "for-striking-down-disputants",
+     "grounds": "purpose of defeating opponents in debate",
+     "morph": "compound(vivādin+hanana).dat.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose is the statement about bondage and liberation made?",
+   "premises": [
+    "The statement serves universal equality",
+    "The statement serves defeating disputants"
+   ],
+   "inference": "The teaching is presented for establishing equality and refuting opponents",
+   "uncertainties": [],
+   "plain_english": "This statement is made for the sake of universal equality and for striking down disputants."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "śivatvaṃ",
+     "gloss": "śiva-ness",
+     "grounds": "the state or nature of being Śiva",
+     "morph": "compound(śiva+tva).acc.sg.n"
+    },
+    {
+     "surface": "bhāvānāṃ",
+     "gloss": "of-beings",
+     "grounds": "all existent entities or states",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratijānate",
+     "gloss": "they-claim",
+     "grounds": "assert or maintain as a position",
+     "morph": "3.pl.middle-present.√jñā+prati"
+    },
+    {
+     "surface": "tadvivādiparājayāya",
+     "gloss": "for-defeat-of-those-disputants",
+     "grounds": "purpose of overcoming opponents in that debate",
+     "morph": "compound(tad-vivādin+parājaya).dat.sg.m"
+    }
+   ],
+   "question": "Why is the Śiva-nature of all beings not asserted in this context?",
+   "premises": [
+    "Śiva-ness of beings is not claimed here",
+    "The aim is defeating disputants"
+   ],
+   "inference": "The non-assertion is strategic for refuting opponents rather than denying Śiva-ness",
+   "uncertainties": [],
+   "plain_english": "They do not claim the Śiva-ness of all beings here, because the aim is to defeat those disputants."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "tadātmatve",
+     "gloss": "in-that-selfhood",
+     "grounds": "state of being identical with that reality",
+     "morph": "compound(tad+ātmatva).loc.sg.n"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "negation of existence",
+     "morph": "3.sg.active-present.√as+na"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "bondage",
+     "grounds": "state of limitation or bondage",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tadabhāvāt",
+     "gloss": "from-absence-of-that",
+     "grounds": "because bondage is absent in that state",
+     "morph": "compound(tad+abhāva).abl.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣaṇam",
+     "gloss": "liberation",
+     "grounds": "act or state of release",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Can bondage or liberation exist in the state of identity with that reality?",
+   "premises": [
+    "In that selfhood bondage does not exist",
+    "Where bondage is absent liberation is not applicable"
+   ],
+   "inference": "Neither bondage nor liberation obtains in the state of that selfhood",
+   "uncertainties": [],
+   "plain_english": "In that selfhood there is no bondage, and because of its absence there is no liberation either."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "bandhaḥ",
+     "gloss": "bondage",
+     "grounds": "state of limitation or bondage",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tadabhāvāt",
+     "gloss": "from-absence-of-that",
+     "grounds": "because that bondage is absent",
+     "morph": "compound(tad+abhāva).abl.sg.m"
+    },
+    {
+     "surface": "tadapekṣaḥ",
+     "gloss": "dependent-on-that",
+     "grounds": "requiring bondage as its correlate",
+     "morph": "compound(tad+apekṣa).nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣo'pi",
+     "gloss": "liberation-even",
+     "grounds": "liberation also, fused with particle api",
+     "morph": "nom.sg.m+api(indecl.)"
+    }
+   ],
+   "question": "Why can liberation not exist when bondage is absent?",
+   "premises": [
+    "Bondage is absent in that state",
+    "Liberation depends on bondage as its correlate"
+   ],
+   "inference": "Liberation cannot exist without the presence of bondage",
+   "uncertainties": [],
+   "plain_english": "Since bondage is absent, liberation, which depends on it, does not exist either."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "of-the-lord",
+     "grounds": "refers to the divine lord",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śāstrāt",
+     "gloss": "from-scripture",
+     "grounds": "from the teaching or scripture",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "bodhena",
+     "gloss": "by-knowledge",
+     "grounds": "through awakening or understanding",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative asking for purpose",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prayojanameva",
+     "gloss": "purpose-indeed",
+     "grounds": "the intended aim or use",
+     "morph": "compound(prayojana+eva).nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purpose does the Lord gain from knowledge arising through scripture?",
+   "premises": [
+    "The Lord is already complete",
+    "Scripture produces knowledge"
+   ],
+   "inference": "Scriptural knowledge cannot serve a purpose for the Lord himself",
+   "uncertainties": [],
+   "plain_english": "And what purpose indeed could the Lord have from knowledge gained through scripture?"
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "kimarthaṃ",
+     "gloss": "for-what-purpose",
+     "grounds": "interrogative compound asking the aim",
+     "morph": "compound(kim+artha).acc.sg.n"
+    },
+    {
+     "surface": "śāstram",
+     "gloss": "scripture",
+     "grounds": "the teaching text or instruction",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ārabdhavān",
+     "gloss": "he-began",
+     "grounds": "undertook or initiated",
+     "morph": "nom.sg.m.perfect-participle.√rabh+ā"
+    },
+    {
+     "surface": "kasya",
+     "gloss": "for-whose",
+     "grounds": "interrogative asking the beneficiary",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "bodhāya",
+     "gloss": "for-knowledge",
+     "grounds": "for the sake of awakening",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "For whose knowledge and for what purpose was scripture initiated?",
+   "premises": [
+    "Scripture was begun by the Lord",
+    "Scripture aims at producing knowledge"
+   ],
+   "inference": "The initiation of scripture must be explained in terms of a beneficiary other than the Lord",
+   "uncertainties": [],
+   "plain_english": "For what purpose did he begin the scripture, and for whose knowledge?"
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that same lord or self",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svecchayā",
+     "gloss": "by-own-will",
+     "grounds": "by his own free will",
+     "morph": "compound(sva+icchā).ins.sg.f"
+    },
+    {
+     "surface": "ste",
+     "gloss": "remains",
+     "grounds": "abides or stands",
+     "morph": "3.sg.middle-present.√as"
+    },
+    {
+     "surface": "tatkartṛtvena",
+     "gloss": "by-that-agency",
+     "grounds": "as the agent of that activity",
+     "morph": "compound(tad-kartṛ+tva).ins.sg.n"
+    },
+    {
+     "surface": "bodhyataḥ",
+     "gloss": "is-to-be-known",
+     "grounds": "should be understood",
+     "morph": "nom.sg.m.passive-future-participle.√budh"
+    }
+   ],
+   "question": "How should the Lord's agency in scripture be understood?",
+   "premises": [
+    "He remains by his own will",
+    "He is the agent of that activity"
+   ],
+   "inference": "The Lord's role in scripture is to be known as free self-willed agency",
+   "uncertainties": [],
+   "plain_english": "He indeed remains thus by his own will, and is to be known as the agent of that."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that same self or lord",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃprajāyeta",
+     "gloss": "would-be-born",
+     "grounds": "comes to be or manifests as",
+     "morph": "3.sg.middle-optative.√jan+sam-pra"
+    },
+    {
+     "surface": "tadanuṣṭhānatatparaḥ",
+     "gloss": "intent-on-its-practice",
+     "grounds": "devoted to carrying out that teaching",
+     "morph": "compound(tad-anuṣṭhāna+tatpara).nom.sg.m"
+    }
+   ],
+   "question": "Who becomes the practitioner devoted to carrying out the teaching?",
+   "premises": [
+    "The same self is the agent",
+    "Practice requires devoted engagement"
+   ],
+   "inference": "The same self manifests as the one intent on practicing the teaching",
+   "uncertainties": [],
+   "plain_english": "He indeed would become the one intent on carrying out that practice."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthakāmādiphalarūpatvena",
+     "gloss": "as-form-of-wealth-desire-fruits",
+     "grounds": "in the form of results such as wealth and desire",
+     "morph": "compound(artha-kāma-ādi-phala-rūpa+tva).ins.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that same self",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svakāle",
+     "gloss": "at-own-time",
+     "grounds": "at the appropriate time",
+     "morph": "compound(sva+kāla).loc.sg.m"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes to be or manifests",
+     "morph": "3.sg.active-present.√bhū"
+    }
+   ],
+   "question": "In what other forms does the same self manifest over time?",
+   "premises": [
+    "The same self manifests as practitioner",
+    "Results like wealth and desire arise in time"
+   ],
+   "inference": "The same self also becomes the form of fruits such as wealth and desire at their proper time",
+   "uncertainties": [],
+   "plain_english": "Likewise, he indeed also becomes, at the proper time, the form of fruits such as wealth, desire, and so on."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "vāditvaprativāditve",
+     "gloss": "in-proponent-and-opponent-roles",
+     "grounds": "states of being disputant and counter-disputant",
+     "morph": "compound(vāditva+prativāditva).loc.sg.n"
+    },
+    {
+     "surface": "kasmāt",
+     "gloss": "why",
+     "grounds": "interrogative asking for reason",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle introducing objection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of that self or lord",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tatsthite",
+     "gloss": "in-that-abiding",
+     "grounds": "while abiding in that state",
+     "morph": "compound(tad+sthiti).loc.sg.f"
+    }
+   ],
+   "question": "Why do roles of proponent and opponent arise if he abides in that state?",
+   "premises": [
+    "The self abides in its own state",
+    "Disputant roles appear in experience"
+   ],
+   "inference": "An explanation is required for the appearance of disputant roles within that abiding",
+   "uncertainties": [],
+   "plain_english": "If he abides in that state, why then are there the roles of proponent and opponent?"
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "intrinsic form or essence",
+     "morph": "compound(sva+rūpa).acc.sg.n"
+    },
+    {
+     "surface": "vastugaṃ",
+     "gloss": "belonging-to-things",
+     "grounds": "pertaining to the nature of reality",
+     "morph": "compound(vastu+ga).acc.sg.n"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "understand or recognize",
+     "morph": "2.sg.active-imperative.√vid"
+    },
+    {
+     "surface": "vyavahāraḥ",
+     "gloss": "convention",
+     "grounds": "ordinary transactional usage",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātucit",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does conventional usage ever define the true nature of reality?",
+   "premises": [
+    "Own nature belongs to reality itself",
+    "Convention is a mode of usage"
+   ],
+   "inference": "Conventional usage never constitutes the intrinsic nature of things",
+   "uncertainties": [],
+   "plain_english": "Know that own-nature belongs to reality itself; convention never does."
+  },
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "cidrūpameva",
+     "gloss": "consciousness-form-alone",
+     "grounds": "nothing but the nature of consciousness",
+     "morph": "compound(cit-rūpa+eva).nom.sg.n"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "exclusively",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "in-the-external",
+     "grounds": "with respect to outward appearance",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "prakāśanābhāvāt",
+     "gloss": "from-absence-of-manifestation",
+     "grounds": "because it does not appear outwardly",
+     "morph": "compound(prakāśana+abhāva).abl.sg.m"
+    },
+    {
+     "surface": "avastu",
+     "gloss": "non-thing",
+     "grounds": "not an external object",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is spoken of as",
+     "morph": "3.sg.passive-present.√vac"
+    }
+   ],
+   "question": "Why is pure consciousness called a non-thing in the external sense?",
+   "premises": [
+    "Reality is only consciousness-form",
+    "It does not manifest as an external object"
+   ],
+   "inference": "Consciousness is called a non-thing only because it lacks external objecthood",
+   "uncertainties": [],
+   "plain_english": "It is only consciousness itself; because it does not manifest externally, it is called a non-thing."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "everything without exception",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "by a single",
+     "morph": "ins.sg.n"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "form",
+     "grounds": "mode or nature",
+     "morph": "ins.sg.n"
+    },
+    {
+     "surface": "yadvicāryaṃ",
+     "gloss": "what-is-to-be-examined",
+     "grounds": "that which should be investigated",
+     "morph": "compound(yad+vicārya).nom.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in that manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "hereafter",
+     "grounds": "in what follows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should everything be examined in the discussion that follows?",
+   "premises": [
+    "All things are subject to examination",
+    "A single form provides the basis of inquiry"
+   ],
+   "inference": "Everything should be examined hereafter under one unifying form",
+   "uncertainties": [],
+   "plain_english": "Everything that is to be examined should thus be considered hereafter under one single form."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "tatphalāphalayogena",
+     "gloss": "by-connection-with-fruit-and-nonfruit",
+     "grounds": "through association with results and their absence",
+     "morph": "compound(tad-phala-aphala+yoga).ins.sg.m"
+    },
+    {
+     "surface": "yuktatā",
+     "gloss": "fitness",
+     "grounds": "appropriateness or coherence",
+     "morph": "compound(yukta+tā).nom.sg.f"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "of that abiding or position",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "tatsthiteḥ",
+     "gloss": "of-that-abiding",
+     "grounds": "of remaining in that state",
+     "morph": "compound(tad+sthiti).gen.sg.f"
+    }
+   ],
+   "question": "What establishes the fitness of abiding in that state?",
+   "premises": [
+    "Abiding in that state is under consideration",
+    "Fruit and non-fruit are connected to it"
+   ],
+   "inference": "The fitness of that abiding is established through its relation to fruit and non-fruit",
+   "uncertainties": [],
+   "plain_english": "The fitness of abiding in that state is established by its connection with fruit and non-fruit."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "yadyat",
+     "gloss": "whatever",
+     "grounds": "anything at all that",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pratibhāsate",
+     "gloss": "appears",
+     "grounds": "shines forth or manifests",
+     "morph": "3.sg.middle-present.√bhās+prati"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "that very thing",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cidrūpaśivātmakam",
+     "gloss": "of-consciousness-form-śiva-nature",
+     "grounds": "having the essence of Śiva as consciousness",
+     "morph": "compound(cit-rūpa-śiva+ātmaka).nom.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the essential nature of whatever appears in experience?",
+   "premises": [
+    "Things appear in experience",
+    "Appearance is not separate from consciousness"
+   ],
+   "inference": "Whatever appears is essentially consciousness in the form of Śiva",
+   "uncertainties": [],
+   "plain_english": "Whatever appears is indeed of the nature of Śiva, whose form is consciousness."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "kāraṇasya",
+     "gloss": "of-the-cause",
+     "grounds": "of the underlying cause",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "ekarūpatve",
+     "gloss": "in-one-form-ness",
+     "grounds": "when the cause has a single nature",
+     "morph": "compound(eka-rūpa+tva).loc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "defect or problem",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tritayātmatā",
+     "gloss": "threefold-nature",
+     "grounds": "having the nature of a triad",
+     "morph": "compound(tritaya+ātmatā).nom.sg.f"
+    }
+   ],
+   "question": "Does a threefold nature contradict the unity of the cause?",
+   "premises": [
+    "The cause is of one nature",
+    "A triadic character is attributed"
+   ],
+   "inference": "The threefold nature is not a fault when the cause remains one in essence",
+   "uncertainties": [],
+   "plain_english": "When the cause is of one nature, its threefold character is not a fault."
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "samavāyī",
+     "gloss": "inherent-cause",
+     "grounds": "the intrinsic or inherent causal factor",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tadicchaiva",
+     "gloss": "that-will-alone",
+     "grounds": "that very will, with emphasis",
+     "morph": "compound(tad-icchā+eva).nom.sg.f"
+    },
+    {
+     "surface": "tadyogaḥ",
+     "gloss": "its-connection",
+     "grounds": "its conjunction or association",
+     "morph": "compound(tad+yoga).nom.sg.m"
+    },
+    {
+     "surface": "sahakāraṇam",
+     "gloss": "auxiliary-cause",
+     "grounds": "the assisting or concomitant cause",
+     "morph": "compound(saha+kāraṇa).nom.sg.n"
+    }
+   ],
+   "question": "What roles do will and its connection play as causes?",
+   "premises": [
+    "That will is identified as the inherent cause",
+    "Its connection functions as auxiliary cause"
+   ],
+   "inference": "Will and its conjunction account for causality without dividing the one cause",
+   "uncertainties": [],
+   "plain_english": "That will alone is the inherent cause, and its connection is the auxiliary cause."
+  },
+  {
+   "verse": 319,
+   "rows": [
+    {
+     "surface": "sarvabhedavyavahārasya",
+     "gloss": "of-all-difference-convention",
+     "grounds": "of all conventional dealings involving difference",
+     "morph": "compound(sarva-bheda+vyavahāra).gen.sg.m"
+    },
+    {
+     "surface": "abhedākhyātirūpatvam",
+     "gloss": "form-of-non-difference-misapprehension",
+     "grounds": "having the nature of non-recognition of non-difference",
+     "morph": "compound(abheda-ākhyāti+rūpatva).nom.sg.n"
+    }
+   ],
+   "question": "What underlies all conventional dealings based on difference?",
+   "premises": [
+    "Conventional usage involves distinctions",
+    "Non-difference is not recognized in such usage"
+   ],
+   "inference": "All difference-based convention rests on the non-recognition of non-difference",
+   "uncertainties": [
+    "ākhyāti may imply non-apprehension or misapprehension depending on doctrinal context"
+   ],
+   "plain_english": "All conventional dealings involving difference have the form of non-recognition of non-difference."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthivyādike",
+     "gloss": "in-earth-and-so-on",
+     "grounds": "in earth and other such elements",
+     "morph": "compound(pṛthivī+ādi).loc.sg.n"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "in that reality",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kalpanā",
+     "gloss": "imagination",
+     "grounds": "conceptual construction",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃpravartate",
+     "gloss": "proceeds",
+     "grounds": "operates or takes effect",
+     "morph": "3.sg.middle-present.√vṛt+sam-pra"
+    }
+   ],
+   "question": "Does conceptual imagination operate in that reality as it does in earth and other elements?",
+   "premises": [
+    "Imagination operates in differentiated elements",
+    "That reality is being distinguished from them"
+   ],
+   "inference": "Conceptual imagination does not proceed in that reality as it does in earth and so on",
+   "uncertainties": [],
+   "plain_english": "Imagination does not proceed in that reality as it does in earth and the like."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-alone",
+     "grounds": "that very thing",
+     "morph": "compound(tad+eva).nom.sg.n"
+    },
+    {
+     "surface": "tatkalpitaṃ",
+     "gloss": "imagined-as-that",
+     "grounds": "constructed by imagination as that",
+     "morph": "compound(tad+kalpita).nom.sg.n"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "satye",
+     "gloss": "in-truth",
+     "grounds": "in what is real",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or concession",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-it-be",
+     "grounds": "concessive imperative",
+     "morph": "3.sg.active-imperative.√as"
+    },
+    {
+     "surface": "kalpanā",
+     "gloss": "imagination",
+     "grounds": "conceptual construction",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What status can imagination have when applied to what is truly real?",
+   "premises": [
+    "Imagination constructs its objects",
+    "Truth is distinguished from imagined constructs"
+   ],
+   "inference": "Imagination has no ultimate standing in relation to what is truly real",
+   "uncertainties": [],
+   "plain_english": "If that alone is imagined as such, what place can imagination have in what is truly real?"
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "citravahnāvaśokādau",
+     "gloss": "in-painted-fire-and-aśoka-etc",
+     "grounds": "in examples like a painted fire or aśoka tree",
+     "morph": "compound(citra-vahni-aśoka+ādi).loc.sg.n"
+    },
+    {
+     "surface": "kalpanā",
+     "gloss": "imagination",
+     "grounds": "conceptual construction",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "rājate",
+     "gloss": "shines",
+     "grounds": "appears effective or vivid",
+     "morph": "3.sg.middle-present.√rāj"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "sometimes",
+     "grounds": "in some cases",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does imagination appear to have vivid effect despite lacking reality?",
+   "premises": [
+    "Imagination lacks ultimate reality",
+    "Representations can still appear vivid"
+   ],
+   "inference": "Imagination shines only in limited cases such as painted fire or similar representations",
+   "uncertainties": [],
+   "plain_english": "Imagination shines only in certain cases, such as a painted fire or an aśoka and the like."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "vandyā",
+     "gloss": "praiseworthy",
+     "grounds": "worthy of praise, used ironically",
+     "morph": "nom.sg.f.future-passive-participle.√vand"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upahāsaḥ",
+     "gloss": "mockery",
+     "grounds": "ridicule or ironic remark",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How should the praise of such imagination be understood?",
+   "premises": [
+    "Imagination was said to shine in limited cases",
+    "Calling it praiseworthy can be ironic"
+   ],
+   "inference": "The praise of imagination in such cases is meant as mockery",
+   "uncertainties": [],
+   "plain_english": "To call it praiseworthy is, in fact, mockery."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "śivatattve",
+     "gloss": "in-śiva-principle",
+     "grounds": "in the reality or principle of Śiva",
+     "morph": "compound(śiva+tattva).loc.sg.n"
+    },
+    {
+     "surface": "sānubhave",
+     "gloss": "with-direct-experience",
+     "grounds": "accompanied by lived realization",
+     "morph": "compound(sa+anubhava).loc.sg.n"
+    },
+    {
+     "surface": "paśyantyā",
+     "gloss": "for-the-seeing-one",
+     "grounds": "for one who perceives or realizes",
+     "morph": "gen.sg.f.present-participle.√paś"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samānatā",
+     "gloss": "equality",
+     "grounds": "sameness or parity with imagined cases",
+     "morph": "compound(samāna+tā).nom.sg.f"
+    }
+   ],
+   "question": "Can imagined appearances be considered equal to direct experience of the Śiva principle?",
+   "premises": [
+    "The Śiva principle can be directly experienced",
+    "Imagination operates only in limited representational cases"
+   ],
+   "inference": "For one who directly experiences the Śiva principle, imagined appearances have no equality with it",
+   "uncertainties": [],
+   "plain_english": "For one who sees the Śiva principle through direct experience, there is no equality with mere imagination."
+  }
+ ]
+}

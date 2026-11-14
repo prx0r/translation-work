@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the vidyā",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśī",
+     "gloss": "sixteenfold",
+     "grounds": "qualifies vidyā as having sixteen parts or syllables",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "technical term for a sacred formula or knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mata+bhedena",
+     "gloss": "by-difference-of-doctrine",
+     "grounds": "instrumental compound indicating cause or basis of variation",
+     "morph": "mata+bheda+instrumental.sg.m"
+    },
+    {
+     "surface": "darśitā",
+     "gloss": "shown",
+     "grounds": "past passive participle indicating presentation or teaching",
+     "morph": "ppp.nom.sg.f (√dṛś)"
+    }
+   ],
+   "question": "By what doctrinal difference is this sixteenfold vidyā shown to vary?",
+   "premises": [
+    "This vidyā is characterized as sixteenfold.",
+    "The vidyā is presented as having been shown.",
+    "Its presentation varies according to differences in doctrine."
+   ],
+   "inference": "Therefore, the sixteenfold vidyā is taught in different forms across doctrines.",
+   "uncertainties": [],
+   "plain_english": "This sixteenfold vidyā is indeed shown according to differences in doctrine."
+  }
+ ]
+}

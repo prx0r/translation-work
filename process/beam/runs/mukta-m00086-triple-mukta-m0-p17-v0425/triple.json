@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "ramate",
+     "gloss": "enjoys",
+     "grounds": "root ram; present active third singular",
+     "morph": "3.sg.act-pres root-ram"
+    },
+    {
+     "surface": "sakalāṃ",
+     "gloss": "all",
+     "grounds": "feminine accusative singular adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nārīṃ",
+     "gloss": "women",
+     "grounds": "feminine accusative singular noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive of jap",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "root yā; present active third singular",
+     "morph": "3.sg.act-pres root-yā"
+    },
+    {
+     "surface": "surālayam",
+     "gloss": "abode-of-gods",
+     "grounds": "compound sura+ālaya; accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What fruit accrues to one who recites the twenty-seven-syllable Mahātripurasundarī vidyā?",
+   "premises": [
+    "Recitation precedes enjoyment and ascent.",
+    "All women are enjoyed.",
+    "Surālaya is the destination."
+   ],
+   "inference": "Reciting this vidyā yields worldly enjoyment and heavenly ascent.",
+   "uncertainties": [
+    "Exact referent of vidyā comes from preceding context.",
+    "Surālaya may mean heaven or divine abode."
+   ],
+   "plain_english": "Having recited it, he enjoys all women and goes to the abode of the gods."
+  }
+ ]
+}

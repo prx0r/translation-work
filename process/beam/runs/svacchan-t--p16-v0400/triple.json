@@ -1,0 +1,45 @@
+{
+ "song": "sva-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the attainment clause",
+     "morph": "rel.pron.nom/acc.sg.n"
+    },
+    {
+     "surface": "prāptyartham",
+     "gloss": "attainment-purpose",
+     "grounds": "compound of prāpti and artha expressing purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyān",
+     "gloss": "this-much",
+     "grounds": "demonstrative indicating magnitude",
+     "morph": "dem.pron.nom.sg.m"
+    },
+    {
+     "surface": "śāstrasaṃrambhaḥ",
+     "gloss": "scripture-effort",
+     "grounds": "compound of śāstra and saṃrambha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "For what attainment is such scripture effort undertaken?",
+   "premises": [
+    "scripture effort is undertaken for attainment",
+    "the attainment is indicated by relative pronoun",
+    "the effort's magnitude is this much"
+   ],
+   "inference": "the scripture effort aims at a specific attainment",
+   "uncertainties": [
+    "relative pronoun's exact case function is context-dependent"
+   ],
+   "plain_english": "Such is the effort of scripture for the attainment of which."
+  }
+ ]
+}

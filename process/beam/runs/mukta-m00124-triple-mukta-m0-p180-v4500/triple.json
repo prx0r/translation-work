@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p180",
+ "items": [
+  {
+   "verse": 4500,
+   "rows": [
+    {
+     "surface": "brahmadaṇḍasya+vistāraḥ",
+     "gloss": "brahma-staff-width",
+     "grounds": "genitive brahma-staff plus nominative width joined by editorial plus",
+     "morph": "compound genitive+nominative masculine singular"
+    },
+    {
+     "surface": "pañcāṅgulamiti+smṛtam",
+     "gloss": "five-angula-thus-remembered",
+     "grounds": "five-angula measure plus iti plus remembered joined by editorial plus",
+     "morph": "neuter accusative/nominative singular plus indeclinable plus participle"
+    }
+   ],
+   "question": "What is the prescribed width of the brahma-staff?",
+   "premises": [
+    "brahma-staff width is five angulas",
+    "the measure is thus remembered"
+   ],
+   "inference": "The brahma-staff's width is five angulas.",
+   "uncertainties": [
+    "editorial plus marks word boundary within one token"
+   ],
+   "plain_english": "The width of the brahma-staff is remembered as five angulas."
+  }
+ ]
+}

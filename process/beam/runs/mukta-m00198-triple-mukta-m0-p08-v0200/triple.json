@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "kampam",
+     "gloss": "molding",
+     "grounds": "object of prescribed construction; architectural element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "instrumental measure specifying the unit of construction",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligatory construction",
+     "morph": "gerundive.n.nom.sg (kṛ)"
+    },
+    {
+     "surface": "ekāntaritaṃ",
+     "gloss": "separated-by-one-interval",
+     "grounds": "compound adjective indicating spacing by a single interval",
+     "morph": "eka-antarita (compound).n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative indicating required state",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What construction measure and interval spacing are prescribed for the molding element?",
+   "premises": [
+    "The molding is to be made with one unit.",
+    "The molding must be separated by one interval.",
+    "The prescribed form requires both measure and spacing."
+   ],
+   "inference": "The molding is constructed as a single unit set apart by one interval.",
+   "uncertainties": [
+    "The exact referent of kampam as a specific architectural molding is context-dependent."
+   ],
+   "plain_english": "A molding should be made with one part, and it should be separated by one interval."
+  }
+ ]
+}

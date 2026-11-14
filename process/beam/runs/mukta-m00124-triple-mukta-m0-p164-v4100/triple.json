@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p164",
+ "items": [
+  {
+   "verse": 4100,
+   "rows": [
+    {
+     "surface": "dvādaśastambhasaṃyuktā",
+     "gloss": "joined-with-twelve-pillars",
+     "grounds": "compound dvādaśa+stambha+saṃyuktā; feminine nominative singular agreeing with the implied structure",
+     "morph": "f.adj.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of √as, third person singular active",
+     "morph": "3.sg.act.opt.√as"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-the-linga",
+     "grounds": "locative singular masculine of liṅga",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "madhyamatraye",
+     "gloss": "in-the-middle-three",
+     "grounds": "locative singular of compound madhyama-traya",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "How many pillars must be joined in the middle three of the linga?",
+   "premises": [
+    "The verse specifies twelve pillars joined.",
+    "It places them in the middle three of the linga."
+   ],
+   "inference": "The prescribed structure has twelve pillars in the linga's middle three.",
+   "uncertainties": [
+    "The exact referent of the surrounding kūṭa or prapā is not fully resolved by this verse alone."
+   ],
+   "plain_english": "It should be joined with twelve pillars in the middle three of the linga."
+  }
+ ]
+}

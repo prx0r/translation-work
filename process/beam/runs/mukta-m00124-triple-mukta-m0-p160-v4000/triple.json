@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 4000,
+   "rows": [
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "adverb indicating an eightfold division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "let-divide",
+     "grounds": "optative verb expressing a commanded division",
+     "morph": "3.sg.act.opt. (root bhaj)"
+    },
+    {
+     "surface": "tāram",
+     "gloss": "star",
+     "grounds": "accusative object of the division",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "madhyardhena",
+     "gloss": "by-middle-half",
+     "grounds": "instrumental means of division",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "vivartanāt",
+     "gloss": "by-turning",
+     "grounds": "ablative means or cause of division",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How is the star to be divided eightfold by middle-half and turning?",
+   "premises": [
+    "the star is divided eightfold",
+    "the middle half serves as means",
+    "turning serves as means"
+   ],
+   "inference": "the verse prescribes an eightfold division of the star by middle-half and turning",
+   "uncertainties": [
+    "exact doctrinal referent of tāra remains unspecified"
+   ],
+   "plain_english": "Let the star be divided eightfold by the middle half through turning."
+  }
+ ]
+}

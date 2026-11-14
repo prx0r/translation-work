@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "jātītarāṇāṃ",
+     "gloss": "of-other-castes",
+     "grounds": "genitive plural of jātītara",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "kṣapaṇaṃ",
+     "gloss": "destruction",
+     "grounds": "accusative singular neuter noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "instrumental dual of dvi",
+     "morph": "instr.du.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tryaṅgulena",
+     "gloss": "by-three-angulas",
+     "grounds": "instrumental singular of tryaṅgula",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What depth measure destroys other castes in this graded descent?",
+   "premises": [
+    "Other castes are destroyed by two.",
+    "Or they are destroyed by three angulas.",
+    "The measure follows the graded descent."
+   ],
+   "inference": "The prescribed destruction uses either two or three angulas depending on grade.",
+   "uncertainties": [
+    "The exact referent of dvābhyāṃ is unclear.",
+    "The full bhūmi context is not supplied."
+   ],
+   "plain_english": "The destruction of other castes is by two or by three angulas."
+  }
+ ]
+}

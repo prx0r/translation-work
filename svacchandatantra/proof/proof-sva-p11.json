@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p11",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "a3fad7217856b747",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 75
+ },
+ "align": {
+  "min_ratio": 0.979,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 38,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "śuddhimabhivyaṅktum ācamyeti pūrvatrāpi yojyam",
+   "dakṣiṇavaktrābhimukhena śiṣṭaṃ spaṣṭam"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p11-v269]: cite part not byte-exact in source: śuddhimabhivyaṅktum ācamyeti pūrvatrāpi yojyam",
+   "l2[sva-p11-v273]: cite part not byte-exact in source: dakṣiṇavaktrābhimukhena śiṣṭaṃ spaṣṭam"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 75,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "dcb2e43e15b4e46a9784d4adbe656fbd3e7daaee0b4e771ec31c98d6844a93a4",
+  "l0": "9cb9313d56cf0867e5136e20843feb1722c07ebadba481d1f911b2ee1a444c1a",
+  "argmap": "6b0199c39d67780891aa3dd63e40b694d7009f02461cffad82c1b53be9f79637",
+  "l2": "ebeb9ef5d3ca60a3d4888635c873f42be554409bd0115d0c1be2f6915800b961",
+  "c1": "7170ed627926d3925eb16831eb3076cbec1b8630833bb16592793c32171dfb1c"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "a3fad7217856b747",
+  "t1": "sva-p11/data/sva-p11.t1.json",
+  "l0": "sva-p11/data/sva-p11.l0.json",
+  "l2": "sva-p11/data/sva-p11.l2.json",
+  "c1": "sva-p11/data/sva-p11.c1.json"
+ }
+}

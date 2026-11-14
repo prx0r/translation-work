@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "vismayaṃ",
+     "gloss": "wonder-gesture",
+     "grounds": "object held in the left hands",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kheṭakaṃ",
+     "gloss": "shield",
+     "grounds": "object held in the left hands",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāśaṃ",
+     "gloss": "noose",
+     "grounds": "object held in the left hands",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sūcihastaṃ",
+     "gloss": "needle-hand",
+     "grounds": "compound naming a hand gesture; object held in the left hands",
+     "morph": "compound=sūci+hasta; m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "in-left",
+     "grounds": "specifies the side bearing the listed attributes",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which attributes are specified for the left side of the eight-handed form?",
+   "premises": [
+    "The preceding verse announces the description of the eight-handed form.",
+    "The wonder-gesture, shield, noose, and needle-hand are enumerated.",
+    "These enumerated attributes are located on the left side."
+   ],
+   "inference": "The left side of the eight-handed form holds the wonder-gesture, shield, noose, and needle-hand.",
+   "uncertainties": [
+    "Whether vismayaṃ denotes a gesture of wonder or the state of wonder is not fully explicit."
+   ],
+   "plain_english": "On the left side are the gesture of wonder, a shield, a noose, and the needle-hand."
+  }
+ ]
+}

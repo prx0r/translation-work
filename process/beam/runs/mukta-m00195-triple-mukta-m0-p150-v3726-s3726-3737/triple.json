@@ -1,0 +1,505 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3726,
+   "rows": [
+    {
+     "surface": "kulayoginyaḥ",
+     "gloss": "kula-yoginīs",
+     "grounds": "Nom. pl. fem. of kulayoginī; compound kula-yoginīḥ.",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kulavṛkṣeṣu",
+     "gloss": "in-kula-trees",
+     "grounds": "Loc. pl. masc./nt. of kulavṛkṣa; compound kula-vṛkṣeṣu.",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "Indeclinable adverb of time.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where do the kula-yoginīs perpetually abide?",
+   "premises": [
+    "The kula-yoginīs are the subject.",
+    "Kula-trees are specified as their location.",
+    "Their presence there is constant."
+   ],
+   "inference": "The kula-yoginīs always abide in the kula-trees.",
+   "uncertainties": [],
+   "plain_english": "The kula-yoginīs always dwell in the kula-trees."
+  },
+  {
+   "verse": 3727,
+   "rows": [
+    {
+     "surface": "svapyāt",
+     "gloss": "one-should-sleep",
+     "grounds": "Optative 3rd sg. of √svap.",
+     "morph": "3.sg.act.opt-√svap"
+    },
+    {
+     "surface": "kulavṛkṣādho",
+     "gloss": "under-kula-tree",
+     "grounds": "Indeclinable adverbial compound; kula-vṛkṣa-adhas with final sandhi.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Indeclinable conjunction.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "Indeclinable negation particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadravam",
+     "gloss": "harm",
+     "grounds": "Acc. sg. masc. of upadrava.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-do",
+     "grounds": "Optative 3rd sg. of ā-√car.",
+     "morph": "3.sg.act.opt-ā√car"
+    }
+   ],
+   "question": "What conduct is prescribed beneath a kula-tree?",
+   "premises": [
+    "Sleeping under a kula-tree is enjoined.",
+    "Causing harm is explicitly negated.",
+    "Both injunctions apply in the same context."
+   ],
+   "inference": "One should sleep under a kula-tree and should not cause any harm.",
+   "uncertainties": [],
+   "plain_english": "One should sleep beneath a kula-tree and should not cause any harm."
+  },
+  {
+   "verse": 3728,
+   "rows": [
+    {
+     "surface": "śleṣmāntaka",
+     "gloss": "śleṣmāntaka",
+     "grounds": "First member of a list of tree names; stem form in compound-like enumeration.",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "karañja",
+     "gloss": "karañja",
+     "grounds": "Tree name in enumerative list.",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "akṣa",
+     "gloss": "akṣa",
+     "grounds": "Tree name in enumerative list.",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "nimba",
+     "gloss": "nimba",
+     "grounds": "Tree name in enumerative list.",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "aśvattha",
+     "gloss": "aśvattha",
+     "grounds": "Tree name in enumerative list.",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "kadambakāḥ",
+     "gloss": "kadambakas",
+     "grounds": "Nom. pl. masc. of kadambaka, concluding the list.",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which trees are identified as belonging to the kula-tree group?",
+   "premises": [
+    "Several specific tree names are enumerated.",
+    "The list includes śleṣmāntaka, karañja, akṣa, nimba, and aśvattha.",
+    "The enumeration concludes with kadambakas."
+   ],
+   "inference": "The kula-trees include śleṣmāntaka, karañja, akṣa, nimba, aśvattha, and kadambakas.",
+   "uncertainties": [
+    "Exact botanical identifications of some tree names may vary by tradition."
+   ],
+   "plain_english": "The śleṣmāntaka, karañja, akṣa, nimba, aśvattha, and kadambaka trees are named."
+  },
+  {
+   "verse": 3729,
+   "rows": [
+    {
+     "surface": "bhṛgoḥ",
+     "gloss": "of-bhṛgu",
+     "grounds": "Gen. sg. masc. of bhṛgu.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "Past passive participle of pra-√vac, nom./acc. sg. nt.",
+     "morph": "nt.nom.sg.ppp-pra√vac"
+    },
+    {
+     "surface": "sannyāsaṃ",
+     "gloss": "renunciation",
+     "grounds": "Acc. sg. masc. of sannyāsa.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vratadhāraṇam",
+     "gloss": "vow-observance",
+     "grounds": "Acc. sg. nt. of vratadhāraṇa; compound vrata-dhāraṇam.",
+     "morph": "nt.acc.sg"
+    }
+   ],
+   "question": "What practice is declared to be the renunciation taught by Bhṛgu?",
+   "premises": [
+    "Bhṛgu is cited as the authority.",
+    "Renunciation is explicitly mentioned.",
+    "Vow-observance is identified with that renunciation."
+   ],
+   "inference": "Bhṛgu declared that renunciation consists in the observance of vows.",
+   "uncertainties": [],
+   "plain_english": "The observance of vows is declared to be the renunciation taught by Bhṛgu."
+  },
+  {
+   "verse": 3730,
+   "rows": [
+    {
+     "surface": "ekākṣarapradātāraṃ",
+     "gloss": "one-syllable-giver",
+     "grounds": "Acc. sg. masc. of ekākṣarapradātṛ; compound eka-akṣara-pradātāram.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "Nom. sg. masc. relative pronoun.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "Acc. sg. masc. of guru.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Indeclinable particle, here emphatic/connective.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avamanyate",
+     "gloss": "disrespects",
+     "grounds": "Present 3rd sg. middle of ava-√man.",
+     "morph": "3.sg.mid.pres-ava√man"
+    }
+   ],
+   "question": "What offense is committed against a guru who imparts even a single syllable?",
+   "premises": [
+    "The guru is described as a giver of one syllable.",
+    "A person may act disrespectfully toward such a guru.",
+    "The verse identifies this act of disrespect."
+   ],
+   "inference": "Disrespecting a guru who gives even a single syllable is condemned.",
+   "uncertainties": [],
+   "plain_english": "Whoever disrespects a guru who imparts even a single syllable commits a grave offense."
+  },
+  {
+   "verse": 3731,
+   "rows": [
+    {
+     "surface": "hananāt",
+     "gloss": "from-killing",
+     "grounds": "Abl. sg. nt. of hanana.",
+     "morph": "nt.abl.sg"
+    },
+    {
+     "surface": "kṣemaṃ",
+     "gloss": "welfare",
+     "grounds": "Nom. sg. nt. of kṣema.",
+     "morph": "nt.nom.sg"
+    },
+    {
+     "surface": "bahūnāṃ",
+     "gloss": "of-many",
+     "grounds": "Gen. pl. masc. of bahu.",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "Indeclinable conditional particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "Nom. sg. fem. of śubha.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "destination",
+     "grounds": "Nom. sg. fem. of gati.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Under what condition can killing lead to an auspicious destination?",
+   "premises": [
+    "Killing is mentioned as an action.",
+    "The welfare of many is presented as a condition.",
+    "An auspicious destination is stated as the result."
+   ],
+   "inference": "If killing results in the welfare of many, it can lead to an auspicious destination.",
+   "uncertainties": [
+    "The ethical scope and limits of this exception are not specified in this verse."
+   ],
+   "plain_english": "If the killing of one brings welfare to many, it may lead to an auspicious destination."
+  },
+  {
+   "verse": 3732,
+   "rows": [
+    {
+     "surface": "gopayet",
+     "gloss": "one-should-conceal",
+     "grounds": "Optative 3rd sg. of √gup.",
+     "morph": "3.sg.act.opt-√gup"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "Voc. sg. fem. of devī.",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nārikelaphalāmbuvat",
+     "gloss": "like-coconut-fruit-water",
+     "grounds": "Indeclinable comparative compound; nārikela-phala-ambu-vat.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should sacred knowledge be concealed according to the coconut analogy?",
+   "premises": [
+    "Concealment is directly enjoined.",
+    "The goddess is addressed.",
+    "The analogy compares concealment to water inside a coconut fruit."
+   ],
+   "inference": "Sacred knowledge should be kept hidden within, like water inside a coconut.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should conceal it as water is concealed within a coconut fruit."
+  },
+  {
+   "verse": 3733,
+   "rows": [
+    {
+     "surface": "aprakāśa",
+     "gloss": "by-non-revelation",
+     "grounds": "First member of an instrumental dual compound; a-prakāśa.",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "prakāśābhyāṃ",
+     "gloss": "and-by-revelation",
+     "grounds": "Instr. dual masc. of prakāśa in dvandva compound aprakāśa-prakāśābhyām.",
+     "morph": "m.instr.dual"
+    },
+    {
+     "surface": "kṣīyante",
+     "gloss": "diminish",
+     "grounds": "Present 3rd pl. passive of √kṣi.",
+     "morph": "3.pl.pass.pres-√kṣi"
+    },
+    {
+     "surface": "sampadāyuṣaḥ",
+     "gloss": "wealth-and-lifespan",
+     "grounds": "Nom. pl. of a dvandva compound sampad-āyuṣaḥ.",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What causes wealth and lifespan to diminish through improper handling of secrecy?",
+   "premises": [
+    "Both non-revelation and revelation are named as causes.",
+    "Wealth and lifespan are the affected entities.",
+    "The verb indicates their diminution."
+   ],
+   "inference": "Wealth and lifespan diminish through both improper concealment and improper revelation.",
+   "uncertainties": [
+    "The precise conditions distinguishing proper from improper concealment or revelation are not stated here."
+   ],
+   "plain_english": "By both non-revelation and revelation, wealth and lifespan diminish."
+  },
+  {
+   "verse": 3734,
+   "rows": [
+    {
+     "surface": "kulācāra",
+     "gloss": "from-kula-conduct",
+     "grounds": "Ablative sense in compound; kula-ācāra.",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "paribhraṣṭo",
+     "gloss": "fallen",
+     "grounds": "Nom. sg. masc. past participle of pari-√bhraṃś.",
+     "morph": "m.nom.sg.ppp-pari√bhraṃś"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "to-raurava",
+     "grounds": "Acc. sg. masc. of raurava, name of a hell.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "Acc. sg. masc. of naraka.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "Optative 3rd sg. of √vraj.",
+     "morph": "3.sg.act.opt-√vraj"
+    }
+   ],
+   "question": "What fate awaits one who has fallen away from kula conduct?",
+   "premises": [
+    "Falling away from kula conduct is the condition.",
+    "Raurava hell is named as the destination.",
+    "The verse prescribes this as the consequence."
+   ],
+   "inference": "One who has fallen from kula conduct goes to the Raurava hell.",
+   "uncertainties": [],
+   "plain_english": "One who has fallen away from kula conduct should go to the Raurava hell."
+  },
+  {
+   "verse": 3735,
+   "rows": [
+    {
+     "surface": "śiṣye",
+     "gloss": "in-disciple",
+     "grounds": "Loc. sg. masc. of śiṣya.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "Nom. sg. masc. of pātakin.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "Nom. sg. masc. demonstrative pronoun.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "Nom. sg. masc. of guru.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "Optative 3rd sg. of √bhū.",
+     "morph": "3.sg.act.opt-√bhū"
+    }
+   ],
+   "question": "What moral status does a guru incur in relation to a disciple under fault?",
+   "premises": [
+    "The context involves the disciple.",
+    "The guru is the subject.",
+    "The guru becomes a sinner."
+   ],
+   "inference": "In relation to the disciple, that guru becomes a sinner.",
+   "uncertainties": [
+    "The specific fault or condition making the guru sinful is not explicit in this verse alone."
+   ],
+   "plain_english": "In regard to the disciple, that guru becomes a sinner."
+  },
+  {
+   "verse": 3736,
+   "rows": [
+    {
+     "surface": "duḥkhāpahārāya",
+     "gloss": "for-removal-of-suffering",
+     "grounds": "Dat. sg. masc. of duḥkhāpahāra; compound duḥkha-apahārāya.",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "Optative 3rd sg. of √kṛ.",
+     "morph": "3.sg.act.opt-√kṛ"
+    },
+    {
+     "surface": "aṣṭāṣṭapūjanam",
+     "gloss": "eight-times-eight-worship",
+     "grounds": "Acc. sg. nt. of aṣṭāṣṭapūjana; compound aṣṭa-aṣṭa-pūjanam.",
+     "morph": "nt.acc.sg"
+    }
+   ],
+   "question": "What ritual action is prescribed for the removal of suffering?",
+   "premises": [
+    "Removal of suffering is stated as the purpose.",
+    "A specific worship is named.",
+    "The worship is described as eight times eight."
+   ],
+   "inference": "One should perform the eight-times-eight worship for the removal of suffering.",
+   "uncertainties": [],
+   "plain_english": "For the removal of suffering, one should perform the worship of eight times eight."
+  },
+  {
+   "verse": 3737,
+   "rows": [
+    {
+     "surface": "viśuddhātmā",
+     "gloss": "pure-souled",
+     "grounds": "Nom. sg. masc. of viśuddhātman; compound viśuddha-ātmā.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "Absolutive of √kṛ.",
+     "morph": "(gerund)-√kṛ"
+    },
+    {
+     "surface": "nyāsān",
+     "gloss": "installations",
+     "grounds": "Acc. pl. masc. of nyāsa.",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "puroditān",
+     "gloss": "previously-declared",
+     "grounds": "Acc. pl. masc. past passive participle of purā-ud-√vad/√diś sense; compound puraḥ-uditān.",
+     "morph": "m.acc.pl.ppp"
+    }
+   ],
+   "question": "What preparatory acts must a pure-souled practitioner complete before further worship?",
+   "premises": [
+    "The practitioner is described as pure-souled.",
+    "Installations are to be performed.",
+    "These installations were previously declared."
+   ],
+   "inference": "A pure-souled practitioner should first perform the previously declared installations.",
+   "uncertainties": [],
+   "plain_english": "Being pure-souled, one should perform the previously declared installations."
+  }
+ ]
+}

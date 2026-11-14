@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "dīrgha+ādi+tvam",
+     "gloss": "long-etc-ness",
+     "grounds": "compound with abstract suffix denoting the quality of being long and so forth",
+     "morph": "compound:n.nom.sg"
+    },
+    {
+     "surface": "etāsām",
+     "gloss": "of-these",
+     "grounds": "demonstrative pronoun referring to previously mentioned feminine entities",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "adversative particle introducing a contrast or qualification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualifying attribute of length and the like belongs to these entities?",
+   "premises": [
+    "A preceding statement establishes a prohibition regarding the conch.",
+    "The entities in question are identified as these.",
+    "The quality of being long and so forth is attributed to them."
+   ],
+   "inference": "Despite the stated prohibition, these entities possess the attribute of length and similar qualities.",
+   "uncertainties": [
+    "The specific entities referred to by etāsām are not explicitly named in this verse."
+   ],
+   "plain_english": "But these have the quality of being long and so forth."
+  }
+ ]
+}

@@ -1,0 +1,1099 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3601,
+   "rows": [
+    {
+     "surface": "pītasya",
+     "gloss": "of-yellow",
+     "grounds": "base color in mixture",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantity modifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "added color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "miśritaṃ",
+     "gloss": "mixed",
+     "grounds": "combined state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atiraktakam",
+     "gloss": "very-red",
+     "grounds": "resulting color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What resulting color is produced by mixing double red with yellow?",
+   "premises": [
+    "Yellow serves as the base color.",
+    "Red is added in double quantity.",
+    "The two colors are mixed together."
+   ],
+   "inference": "Mixing double red with yellow yields a very red color.",
+   "uncertainties": [],
+   "plain_english": "When red in double quantity is mixed with yellow, the result is a very red color."
+  },
+  {
+   "verse": 3602,
+   "rows": [
+    {
+     "surface": "raktasya",
+     "gloss": "of-red",
+     "grounds": "base color in mixture",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantity modifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "added color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "miśritaṃ",
+     "gloss": "mixed",
+     "grounds": "combined state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gulavarṇakam",
+     "gloss": "rose-color",
+     "grounds": "resulting color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What resulting color is produced by mixing double yellow with red?",
+   "premises": [
+    "Red serves as the base color.",
+    "Yellow is added in double quantity.",
+    "The two colors are mixed together."
+   ],
+   "inference": "Mixing double yellow with red yields a rose color.",
+   "uncertainties": [],
+   "plain_english": "When yellow in double quantity is mixed with red, the result is a rose color."
+  },
+  {
+   "verse": 3603,
+   "rows": [
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "base color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedāṃśaraktāḍhyaṃ",
+     "gloss": "quarter-red-enriched",
+     "grounds": "mixed with one part red to four parts base",
+     "morph": "n.nom.sg, compound=veda-aṃśa-rakta-āḍhya"
+    },
+    {
+     "surface": "śapharasya",
+     "gloss": "of-śaphara-fish",
+     "grounds": "comparison object",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nibhaṃ",
+     "gloss": "resembling",
+     "grounds": "similarity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What resulting color arises when yellow is enriched with a quarter part red?",
+   "premises": [
+    "Yellow is the base color.",
+    "It is enriched with a quarter part of red.",
+    "The result is compared to the śaphara fish."
+   ],
+   "inference": "Yellow enriched with a quarter part red becomes like the color of the śaphara fish.",
+   "uncertainties": [
+    "The exact shade of śaphara is context-dependent."
+   ],
+   "plain_english": "Yellow enriched with a quarter part of red becomes a color resembling that of the śaphara fish."
+  },
+  {
+   "verse": 3604,
+   "rows": [
+    {
+     "surface": "śvetasya",
+     "gloss": "of-white",
+     "grounds": "base color in mixture",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantity modifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "added color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "miśritaṃ",
+     "gloss": "mixed",
+     "grounds": "combined state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "piṃgalaṃ",
+     "gloss": "tawny",
+     "grounds": "resulting color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What resulting color is produced by mixing double yellow with white?",
+   "premises": [
+    "White serves as the base color.",
+    "Yellow is added in double quantity.",
+    "The two colors are mixed together."
+   ],
+   "inference": "Mixing double yellow with white yields a tawny color.",
+   "uncertainties": [],
+   "plain_english": "When yellow in double quantity is mixed with white, the result becomes tawny."
+  },
+  {
+   "verse": 3605,
+   "rows": [
+    {
+     "surface": "kṛṣṇasya",
+     "gloss": "of-black",
+     "grounds": "base color in mixture",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantity modifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "added color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "miśritaṃ",
+     "gloss": "mixed",
+     "grounds": "combined state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "busaṃnibham",
+     "gloss": "chaff-like",
+     "grounds": "resulting color resemblance",
+     "morph": "n.nom.sg, compound=busa-nibha"
+    }
+   ],
+   "question": "What resulting color is produced by mixing double yellow with black?",
+   "premises": [
+    "Black serves as the base color.",
+    "Yellow is added in double quantity.",
+    "The two colors are mixed together."
+   ],
+   "inference": "Mixing double yellow with black yields a color like chaff.",
+   "uncertainties": [
+    "The exact shade of busa is uncertain."
+   ],
+   "plain_english": "When yellow in double quantity is mixed with black, the result resembles the color of chaff."
+  },
+  {
+   "verse": 3606,
+   "rows": [
+    {
+     "surface": "haritālaṃ",
+     "gloss": "orpiment",
+     "grounds": "one ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śyāmasamaṃ",
+     "gloss": "dark-equal",
+     "grounds": "equal quantity of dark color",
+     "morph": "n.nom.sg, compound=śyāma-sama"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "combined state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śukapakṣasamaṃ",
+     "gloss": "parrot-wing-like",
+     "grounds": "resulting color resemblance",
+     "morph": "n.nom.sg, compound=śuka-pakṣa-sama"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What resulting color is produced by mixing orpiment with an equal amount of dark color?",
+   "premises": [
+    "Orpiment is one ingredient.",
+    "An equal amount of dark color is added.",
+    "The two are mixed together."
+   ],
+   "inference": "Mixing orpiment with an equal dark color yields a color like a parrot’s wing.",
+   "uncertainties": [],
+   "plain_english": "When orpiment is mixed with an equal amount of dark color, the result becomes like a parrot’s wing."
+  },
+  {
+   "verse": 3607,
+   "rows": [
+    {
+     "surface": "śyāmaṃ",
+     "gloss": "dark",
+     "grounds": "base color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "haritālāḍhyaṃ",
+     "gloss": "orpiment-enriched",
+     "grounds": "mixed with orpiment",
+     "morph": "n.nom.sg, compound=haritāla-āḍhya"
+    },
+    {
+     "surface": "kuṃkuṣṭhārītālārdhakam",
+     "gloss": "half-kunkustha-orpiment",
+     "grounds": "resulting shade specification",
+     "morph": "n.nom.sg, compound=kuṃkuṣṭha-harītāla-ardhaka"
+    }
+   ],
+   "question": "What resulting color arises when dark color is enriched with orpiment?",
+   "premises": [
+    "Dark color is the base.",
+    "It is enriched with orpiment.",
+    "The result is specified as half kunkustha and orpiment."
+   ],
+   "inference": "Dark color enriched with orpiment becomes a shade of half kunkustha and orpiment.",
+   "uncertainties": [
+    "The identification of kuṃkuṣṭha is uncertain."
+   ],
+   "plain_english": "Dark color enriched with orpiment becomes a shade described as half kunkustha and half orpiment."
+  },
+  {
+   "verse": 3608,
+   "rows": [
+    {
+     "surface": "jambūphalasamanve",
+     "gloss": "jambu-fruit-like",
+     "grounds": "resulting color resemblance",
+     "morph": "n.loc.sg, compound=jambū-phala-samanva"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "color",
+     "grounds": "subject of statement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "declaration",
+     "morph": "3.sg.present-passive √vac"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker",
+     "morph": "1.sg.inst"
+    }
+   ],
+   "question": "How is the color resembling the jambu fruit formally declared by the speaker?",
+   "premises": [
+    "A color resembling the jambu fruit is under discussion.",
+    "The speaker makes a formal declaration.",
+    "The declaration identifies this color."
+   ],
+   "inference": "The speaker declares that this color is like the jambu fruit.",
+   "uncertainties": [],
+   "plain_english": "I declare that this color is like that of the jambu fruit."
+  },
+  {
+   "verse": 3609,
+   "rows": [
+    {
+     "surface": "kṛṣṇanīlasamaṃ",
+     "gloss": "black-blue-equal",
+     "grounds": "equal mixture of black and blue",
+     "morph": "n.nom.sg, compound=kṛṣṇa-nīla-sama"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "combined state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "keśavarṇam",
+     "gloss": "hair-color",
+     "grounds": "resulting color",
+     "morph": "n.nom.sg, compound=keśa-varṇa"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg, past-passive-participle √ud-ā-hṛ"
+    }
+   ],
+   "question": "What resulting color is declared from mixing equal parts of black and blue?",
+   "premises": [
+    "Black and blue are taken in equal amounts.",
+    "They are mixed together.",
+    "The result is formally declared."
+   ],
+   "inference": "An equal mixture of black and blue is declared to be hair-color.",
+   "uncertainties": [],
+   "plain_english": "A mixture of equal parts black and blue is declared to be hair-color."
+  },
+  {
+   "verse": 3610,
+   "rows": [
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "one ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktasamaṃ",
+     "gloss": "red-equal",
+     "grounds": "equal quantity of red",
+     "morph": "n.nom.sg, compound=rakta-sama"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "combined state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhuvarṇam",
+     "gloss": "honey-color",
+     "grounds": "resulting color",
+     "morph": "n.nom.sg, compound=madhu-varṇa"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg, past-passive-participle √ud-ā-hṛ"
+    }
+   ],
+   "question": "What resulting color is declared from mixing equal parts of black and red?",
+   "premises": [
+    "Black and red are taken in equal amounts.",
+    "They are mixed together.",
+    "The result is formally declared."
+   ],
+   "inference": "An equal mixture of black and red is declared to be honey-color.",
+   "uncertainties": [],
+   "plain_english": "A mixture of equal parts black and red is declared to be honey-color."
+  },
+  {
+   "verse": 3611,
+   "rows": [
+    {
+     "surface": "mānuṣāraktamādhikyaṃ",
+     "gloss": "human-blood-excess",
+     "grounds": "predominance of human-blood-like red",
+     "morph": "n.nom.sg, compound=mānuṣa-rakta-ādhikya"
+    },
+    {
+     "surface": "varṇarūkṣaharītakī",
+     "gloss": "dry-haritaki-color",
+     "grounds": "resulting color resemblance",
+     "morph": "f.nom.sg, compound=varṇa-rūkṣa-harītakī"
+    }
+   ],
+   "question": "What resulting color is associated with an excess of human-blood-like red?",
+   "premises": [
+    "There is an excess of human-blood-like red.",
+    "A resulting color is identified.",
+    "The color is compared to dry haritaki."
+   ],
+   "inference": "An excess of human-blood-like red yields a color like dry haritaki.",
+   "uncertainties": [
+    "The compound analysis of varṇarūkṣaharītakī is tentative."
+   ],
+   "plain_english": "An excess of human-blood-like red gives a color like dry haritaki."
+  },
+  {
+   "verse": 3612,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "within those substances",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yaddravyam",
+     "gloss": "which-substance",
+     "grounds": "any such material",
+     "morph": "n.nom.sg, compound=yad-dravya"
+    },
+    {
+     "surface": "alpena",
+     "gloss": "by-little",
+     "grounds": "small quantity",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bāhumānasamanvitam",
+     "gloss": "much-regard-endowed",
+     "grounds": "appearing substantial despite little",
+     "morph": "n.nom.sg, compound=bāhu-māna-samanvita"
+    }
+   ],
+   "question": "How is a substance characterized when a small amount appears substantial among those materials?",
+   "premises": [
+    "The context is among those substances.",
+    "A substance is present in small quantity.",
+    "It appears endowed with much regard or bulk."
+   ],
+   "inference": "Such a substance is characterized by appearing substantial despite being little in quantity.",
+   "uncertainties": [
+    "The sense of bāhumāna in this technical context is uncertain."
+   ],
+   "plain_english": "Among those substances, whichever one appears substantial even in a small quantity is being described."
+  },
+  {
+   "verse": 3613,
+   "rows": [
+    {
+     "surface": "alpasāram",
+     "gloss": "little-essence",
+     "grounds": "designation of weak substance",
+     "morph": "n.nom.sg, compound=alpa-sāra"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg, past-passive-participle √khyā"
+    },
+    {
+     "surface": "sārelpakalpitaṃ",
+     "gloss": "arranged-with-little-essence",
+     "grounds": "prepared with scant essence",
+     "morph": "n.acc.sg, compound=sāra-alpa-kalpita"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "expert knowledge",
+     "morph": "3.pl.perfect-active √vid"
+    }
+   ],
+   "question": "What designation do experts give to a substance arranged with little essence?",
+   "premises": [
+    "A substance is arranged with little essence.",
+    "Experts recognize such substances.",
+    "A traditional designation is applied."
+   ],
+   "inference": "Experts know a substance arranged with little essence as having little essence.",
+   "uncertainties": [],
+   "plain_english": "Experts know that which is arranged with little essence to be called 'little-essence'."
+  },
+  {
+   "verse": 3614,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśumānkāśyape",
+     "gloss": "in-aṃśumān-kāśyapa",
+     "grounds": "textual location",
+     "morph": "m.loc.sg, compound=aṃśumān-kāśyapa"
+    },
+    {
+     "surface": "saṃkaravarṇapaṭalaḥ",
+     "gloss": "mixed-color-chapter",
+     "grounds": "chapter title",
+     "morph": "m.nom.sg, compound=saṃkara-varṇa-paṭala"
+    },
+    {
+     "surface": "ekonanavatitamaḥ",
+     "gloss": "eighty-ninth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg, compound=ekona-navati-tama"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa text concludes with this mixed-color section?",
+   "premises": [
+    "The statement marks a conclusion.",
+    "The text is identified as Aṃśumān Kāśyapa.",
+    "The chapter concerns mixed colors and has an ordinal number."
+   ],
+   "inference": "This concludes the eighty-ninth chapter on mixed colors in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the eighty-ninth chapter, on mixed colors, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 3615,
+   "rows": [
+    {
+     "surface": "śailadā",
+     "gloss": "stone-giving",
+     "grounds": "material or context designation",
+     "morph": "f.nom.sg, compound=śaila-dā"
+    },
+    {
+     "surface": "ṣaṣṭikāgarbhaṃ",
+     "gloss": "sixty-grain-core",
+     "grounds": "layer or mixture specification",
+     "morph": "n.nom.sg, compound=ṣaṣṭikā-garbha"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇalepanam",
+     "gloss": "color-plastering",
+     "grounds": "application process",
+     "morph": "n.nom.sg, compound=varṇa-lepana"
+    }
+   ],
+   "question": "How is the color plastering with a sixty-grain core to be applied in threefold manner?",
+   "premises": [
+    "A sixty-grain core is involved.",
+    "The process concerns color plastering.",
+    "The application is specified as threefold."
+   ],
+   "inference": "Color plastering with a sixty-grain core is to be done in a threefold manner.",
+   "uncertainties": [
+    "The exact meaning of śailadā and ṣaṣṭikāgarbhaṃ is technically uncertain."
+   ],
+   "plain_english": "The color plastering with a sixty-grain core is indeed to be done in a threefold manner."
+  },
+  {
+   "verse": 3616,
+   "rows": [
+    {
+     "surface": "upariṣṭāt",
+     "gloss": "above",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭācchādya",
+     "gloss": "having-covered-with-cloth",
+     "grounds": "preparatory action",
+     "morph": "indeclinable-absolutive, compound=paṭa-ācchādya"
+    },
+    {
+     "surface": "tasyordhve",
+     "gloss": "above-that",
+     "grounds": "location relative to covering",
+     "morph": "n.loc.sg, compound=tasya-ūrdhve"
+    },
+    {
+     "surface": "śarkaraṃ",
+     "gloss": "gravel",
+     "grounds": "material to apply",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lipet",
+     "gloss": "should-smear",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active √lip"
+    }
+   ],
+   "question": "What material should be smeared above after covering the surface with cloth?",
+   "premises": [
+    "The surface is first covered with cloth above.",
+    "An additional layer is applied above that covering.",
+    "Gravel is the specified material."
+   ],
+   "inference": "After covering with cloth above, one should smear gravel over it.",
+   "uncertainties": [],
+   "plain_english": "After covering the top with cloth, one should smear gravel above it."
+  },
+  {
+   "verse": 3617,
+   "rows": [
+    {
+     "surface": "bimbocitanibhaṃ",
+     "gloss": "bimba-suitable-like",
+     "grounds": "desired appearance",
+     "morph": "n.acc.sg, compound=bimba-ucita-nibha"
+    },
+    {
+     "surface": "lipyā",
+     "gloss": "by-smearing",
+     "grounds": "means of application",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pratiṣṭhāṃ",
+     "gloss": "installation",
+     "grounds": "ritual act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samyagācaret",
+     "gloss": "should-properly-perform",
+     "grounds": "prescribed conduct",
+     "morph": "3.sg.optative-active, compound=samyak-ā-caret"
+    }
+   ],
+   "question": "How should the installation be properly performed after smearing to achieve a bimba-like appearance?",
+   "premises": [
+    "Smearing produces a bimba-suitable appearance.",
+    "An installation is to be performed.",
+    "The performance must be proper."
+   ],
+   "inference": "One should properly perform the installation after smearing to achieve a bimba-like appearance.",
+   "uncertainties": [],
+   "plain_english": "After smearing it to a bimba-like appearance, one should properly perform the installation."
+  },
+  {
+   "verse": 3618,
+   "rows": [
+    {
+     "surface": "śarkarāṃ",
+     "gloss": "gravel",
+     "grounds": "material to apply",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yavamānaṃ",
+     "gloss": "barley-measure",
+     "grounds": "thickness specification",
+     "morph": "n.acc.sg, compound=yava-māna"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyā",
+     "gloss": "by-smearing",
+     "grounds": "means of application",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "cikkaṇalepanam",
+     "gloss": "smooth-plastering",
+     "grounds": "resulting finish",
+     "morph": "n.nom.sg, compound=cikkaṇa-lepana"
+    }
+   ],
+   "question": "What thickness and finish are prescribed when smearing gravel as plaster?",
+   "premises": [
+    "Gravel is to be smeared.",
+    "The measure is specified as that of a barley grain.",
+    "The plastering should be smooth."
+   ],
+   "inference": "Gravel should be smeared to the measure of a barley grain to produce a smooth plastering.",
+   "uncertainties": [],
+   "plain_english": "Smearing gravel to the thickness of a barley grain produces a smooth plaster."
+  },
+  {
+   "verse": 3619,
+   "rows": [
+    {
+     "surface": "śilāgarbham",
+     "gloss": "stone-core",
+     "grounds": "designation of this type",
+     "morph": "n.nom.sg, compound=śilā-garbha"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg, past-passive-participle √khyā"
+    },
+    {
+     "surface": "varṇabhinnas",
+     "gloss": "color-different",
+     "grounds": "alternative variation",
+     "morph": "m.nom.sg, compound=varṇa-bhinna"
+    },
+    {
+     "surface": "tameva",
+     "gloss": "that-same",
+     "grounds": "same base type",
+     "morph": "m.acc.sg, compound=tam-eva"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What designation applies to this stone-core type and its color-different alternative?",
+   "premises": [
+    "A stone-core type is being described.",
+    "It is traditionally known by a name.",
+    "An alternative with different color is included."
+   ],
+   "inference": "This is known as stone-core, or alternatively the same type with different color.",
+   "uncertainties": [
+    "The exact scope of varṇabhinnas is slightly ambiguous."
+   ],
+   "plain_english": "This is known as stone-core, or else that same type with a different color."
+  },
+  {
+   "verse": 3620,
+   "rows": [
+    {
+     "surface": "citraṃ",
+     "gloss": "painted",
+     "grounds": "fully decorated option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhacitraṃ",
+     "gloss": "half-painted",
+     "grounds": "partly decorated option",
+     "morph": "n.nom.sg, compound=ardha-citra"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakveṣṭakā",
+     "gloss": "baked-brick",
+     "grounds": "material option",
+     "morph": "f.nom.sg, compound=pakva-iṣṭakā"
+    },
+    {
+     "surface": "sudhānvitam",
+     "gloss": "lime-endowed",
+     "grounds": "combined with lime",
+     "morph": "n.nom.sg, compound=sudhā-anvita"
+    }
+   ],
+   "question": "What alternative forms and materials are permitted for this construction or finish?",
+   "premises": [
+    "The work may be fully painted.",
+    "The work may be half-painted.",
+    "Baked brick endowed with lime is also an option."
+   ],
+   "inference": "The construction may be painted, half-painted, or made of baked brick with lime.",
+   "uncertainties": [],
+   "plain_english": "It may be fully painted, half-painted, or made of baked brick combined with lime."
+  },
+  {
+   "verse": 3621,
+   "rows": [
+    {
+     "surface": "śarkarādīni",
+     "gloss": "gravel-and-others",
+     "grounds": "materials beginning with gravel",
+     "morph": "n.nom.pl, compound=śarkara-ādi"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "entire set",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śailaje",
+     "gloss": "in-stone-born",
+     "grounds": "in stone-based work",
+     "morph": "n.loc.sg, compound=śaila-ja"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlative manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should gravel and all related materials be applied in stone-born construction?",
+   "premises": [
+    "Gravel and other materials are included.",
+    "The context is stone-born construction.",
+    "The application follows the same manner as before."
+   ],
+   "inference": "In stone-born construction, gravel and all such materials should be applied in the same manner.",
+   "uncertainties": [],
+   "plain_english": "In stone-born work, gravel and all the other materials should be applied just as before."
+  },
+  {
+   "verse": 3622,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summary marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividharītyā",
+     "gloss": "by-threefold-method",
+     "grounds": "procedural manner",
+     "morph": "f.inst.sg, compound=trividha-rīti"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇagarbham",
+     "gloss": "color-core",
+     "grounds": "subject being defined",
+     "morph": "n.nom.sg, compound=varṇa-garbha"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg, past-passive-participle √ud-ā-hṛ"
+    }
+   ],
+   "question": "How is the color-core method formally declared according to the threefold procedure?",
+   "premises": [
+    "A threefold method has been described.",
+    "The subject is the color-core.",
+    "A formal declaration is made."
+   ],
+   "inference": "Thus the color-core is declared according to the threefold method.",
+   "uncertainties": [],
+   "plain_english": "Thus the color-core is declared to be done by the threefold method."
+  },
+  {
+   "verse": 3623,
+   "rows": [
+    {
+     "surface": "jalaiḥ",
+     "gloss": "with-waters",
+     "grounds": "mixing medium",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "gradually",
+     "grounds": "sequential manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "color",
+     "grounds": "material to prepare",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "with-three",
+     "grounds": "three applications or stages",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "preparatory action",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lepayet",
+     "gloss": "should-smear",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active √lip"
+    }
+   ],
+   "question": "How should color be prepared with water and applied in three gradual stages?",
+   "premises": [
+    "Color is prepared with water.",
+    "The preparation proceeds gradually.",
+    "It is done in three stages before smearing."
+   ],
+   "inference": "One should prepare the color with water gradually in three stages and then smear it.",
+   "uncertainties": [],
+   "plain_english": "Having prepared the color gradually with water in three stages, one should smear it on."
+  },
+  {
+   "verse": 3624,
+   "rows": [
+    {
+     "surface": "sitabimbanibhaṃ",
+     "gloss": "white-bimba-like",
+     "grounds": "one resulting appearance",
+     "morph": "n.acc.sg, compound=sita-bimba-nibha"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sumiśraṃ",
+     "gloss": "well-mixed",
+     "grounds": "properly blended state",
+     "morph": "n.acc.sg, compound=su-miśra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṇḍuvat",
+     "gloss": "pale-like",
+     "grounds": "alternative resulting appearance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What final appearances can the well-mixed color application achieve in this process?",
+   "premises": [
+    "The color is well mixed.",
+    "One possible appearance is white-bimba-like.",
+    "Another possible appearance is pale-like."
+   ],
+   "inference": "The well-mixed application can result in a white-bimba-like or pale-like appearance.",
+   "uncertainties": [],
+   "plain_english": "Thus, when well mixed, it becomes like a white bimba or pale in appearance."
+  }
+ ]
+}

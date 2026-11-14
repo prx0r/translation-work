@@ -1,0 +1,503 @@
+{
+ "song": "kul-p33",
+ "items": [
+  {
+   "verse": 801,
+   "rows": [
+    {
+     "surface": "prakṛtyādyaiḥ",
+     "gloss": "by-prakṛti-and-others",
+     "grounds": "instrumental plural from prakṛti and related principles",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "pṛthivyantaiḥ",
+     "gloss": "by-earth-ending",
+     "grounds": "instrumental plural ending with earth",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "catuvīṃśatibhiḥ",
+     "gloss": "by-twenty-four",
+     "grounds": "instrumental plural of the number twenty-four",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address to the beloved",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How are the twenty-four principles used in purification?",
+   "premises": [
+    "prakṛti and others are twenty-four",
+    "earth marks their final limit",
+    "the beloved is addressed directly"
+   ],
+   "inference": "The twenty-four principles from prakṛti to earth are invoked for purification.",
+   "uncertainties": [
+    "exact gender of catuvīṃśatibhiḥ"
+   ],
+   "plain_english": "By the twenty-four principles from prakṛti to earth, O beloved."
+  },
+  {
+   "verse": 802,
+   "rows": [
+    {
+     "surface": "saṃyuktenātmatattvena",
+     "gloss": "with-self-principle",
+     "grounds": "instrumental singular of self-principle",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "sthūladehaṃ",
+     "gloss": "gross-body",
+     "grounds": "accusative singular of gross body",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "purify",
+     "grounds": "optative third singular of vi-śudh",
+     "morph": "3.sg.act.opt. (viśudh)"
+    }
+   ],
+   "question": "How is the gross body purified?",
+   "premises": [
+    "self-principle is joined with the body",
+    "gross body is the object",
+    "purification is commanded"
+   ],
+   "inference": "One purifies the gross body with the self-principle.",
+   "uncertainties": [
+    "compound analysis of saṃyuktenātmatattvena"
+   ],
+   "plain_english": "With the self-principle joined, purify the gross body."
+  },
+  {
+   "verse": 803,
+   "rows": [
+    {
+     "surface": "yuktena+vidyātattvena",
+     "gloss": "with-vidyā-principle",
+     "grounds": "instrumental singular of vidyā-principle",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "sūkṣmadehaṃ",
+     "gloss": "subtle-body",
+     "grounds": "accusative singular of subtle body",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "purify",
+     "grounds": "optative third singular of vi-śudh",
+     "morph": "3.sg.act.opt. (viśudh)"
+    }
+   ],
+   "question": "How is the subtle body purified?",
+   "premises": [
+    "vidyā-principle is joined with the body",
+    "subtle body is the object",
+    "purification is commanded"
+   ],
+   "inference": "One purifies the subtle body with the vidyā-principle.",
+   "uncertainties": [
+    "internal sandhi of yuktena+vidyātattvena"
+   ],
+   "plain_english": "With the vidyā-principle joined, purify the subtle body."
+  },
+  {
+   "verse": 804,
+   "rows": [
+    {
+     "surface": "parayā+śivatattvena",
+     "gloss": "with-supreme-śiva-principle",
+     "grounds": "instrumental singular of supreme śiva-principle",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "paraṃ+dehaṃ",
+     "gloss": "supreme-body",
+     "grounds": "accusative singular of supreme body",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "purify",
+     "grounds": "optative third singular of vi-śudh",
+     "morph": "3.sg.act.opt. (viśudh)"
+    }
+   ],
+   "question": "How is the supreme body purified?",
+   "premises": [
+    "supreme śiva-principle is joined with the body",
+    "supreme body is the object",
+    "purification is commanded"
+   ],
+   "inference": "One purifies the supreme body with the supreme śiva-principle.",
+   "uncertainties": [
+    "internal sandhi of parayā+śivatattvena"
+   ],
+   "plain_english": "With the supreme śiva-principle, purify the supreme body."
+  },
+  {
+   "verse": 805,
+   "rows": [
+    {
+     "surface": "sarvatattvāśrayaṃ",
+     "gloss": "all-principles-refuge",
+     "grounds": "accusative singular of all-principles refuge",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "accusative singular of seed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sarvatattva+viśodhayet",
+     "gloss": "all-principles-purify",
+     "grounds": "optative third singular for all principles",
+     "morph": "3.sg.act.opt. (viśudh)"
+    }
+   ],
+   "question": "What does the seed purify?",
+   "premises": [
+    "the seed is the refuge of all principles",
+    "the seed is the object",
+    "all principles are purified"
+   ],
+   "inference": "The seed, refuge of all principles, purifies all principles.",
+   "uncertainties": [
+    "compound boundary in sarvatattva+viśodhayet"
+   ],
+   "plain_english": "The seed, refuge of all principles, purifies all principles."
+  },
+  {
+   "verse": 806,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-devotion",
+     "grounds": "instrumental singular of devotion",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "cāvanataḥ",
+     "gloss": "bowed",
+     "grounds": "nominative singular participle bowed",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śiṣyo",
+     "gloss": "disciple",
+     "grounds": "nominative singular of disciple",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "niḥśabdaṃ",
+     "gloss": "silent",
+     "grounds": "adverbial accusative silent",
+     "morph": "adv"
+    },
+    {
+     "surface": "triḥ",
+     "gloss": "thrice",
+     "grounds": "indeclinable numeral thrice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pibed+alim",
+     "gloss": "drink-nectar",
+     "grounds": "optative third singular drink nectar",
+     "morph": "3.sg.act.opt. (pā)"
+    }
+   ],
+   "question": "How does the disciple drink the nectar?",
+   "premises": [
+    "devotion is the means",
+    "the disciple is bowed",
+    "silence and thrice are specified"
+   ],
+   "inference": "The bowed disciple drinks the nectar silently thrice by devotion.",
+   "uncertainties": [
+    "internal sandhi of pibed+alim"
+   ],
+   "plain_english": "By devotion, the bowed disciple drinks the nectar silently thrice."
+  },
+  {
+   "verse": 807,
+   "rows": [
+    {
+     "surface": "śiraḥprabhṛti+pādāntaṃ",
+     "gloss": "head-to-feet",
+     "grounds": "accusative singular from head to feet",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "accusative singular pure",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "accusative singular of body",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "contemplate",
+     "grounds": "optative third singular of vi-cint",
+     "morph": "3.sg.act.opt. (cint)"
+    }
+   ],
+   "question": "What should be contemplated as pure?",
+   "premises": [
+    "the body extends from head to feet",
+    "the body is pure",
+    "contemplation is commanded"
+   ],
+   "inference": "One contemplates the body from head to feet as pure.",
+   "uncertainties": [
+    "internal sandhi of śiraḥprabhṛti+pādāntaṃ"
+   ],
+   "plain_english": "Contemplate the body from head to feet as pure."
+  },
+  {
+   "verse": 808,
+   "rows": [
+    {
+     "surface": "parāntaṃ",
+     "gloss": "supreme-end",
+     "grounds": "accusative singular supreme end",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śivatattvaṃ",
+     "gloss": "śiva-principle",
+     "grounds": "nominative or accusative singular śiva-principle",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "syād+iti",
+     "gloss": "be",
+     "grounds": "optative third singular with iti",
+     "morph": "3.sg.act.opt. (as) + (indecl.)"
+    },
+    {
+     "surface": "tattvatrayaṃ",
+     "gloss": "three-principles",
+     "grounds": "nominative singular three principles",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "nominative singular world",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What are the three principles of the world?",
+   "premises": [
+    "śiva-principle is the supreme end",
+    "three principles are stated",
+    "the world is named"
+   ],
+   "inference": "The world consists of three principles, with śiva-principle as the supreme end.",
+   "uncertainties": [
+    "syntactic role of parāntaṃ"
+   ],
+   "plain_english": "The śiva-principle is the supreme end; the world has three principles."
+  },
+  {
+   "verse": 809,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jīvanneva",
+     "gloss": "while-living",
+     "grounds": "indeclinable participle while living",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "nominative singular liberated",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syād+iti",
+     "gloss": "be",
+     "grounds": "optative third singular with iti",
+     "morph": "3.sg.act.opt. (as) + (indecl.)"
+    },
+    {
+     "surface": "śaṅkarabhāṣitam",
+     "gloss": "śaṅkara-spoken",
+     "grounds": "nominative singular spoken by Śaṅkara",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Who is liberated while living?",
+   "premises": [
+    "he is the subject",
+    "liberation occurs while living",
+    "this is spoken by Śaṅkara"
+   ],
+   "inference": "He is liberated while living, as Śaṅkara declares.",
+   "uncertainties": [
+    "antecedent of sa"
+   ],
+   "plain_english": "He is liberated while living, as Śaṅkara says."
+  },
+  {
+   "verse": 810,
+   "rows": [
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "indeclinable gerund taking",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "instrumental singular of guru",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "accusative singular given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sadvitīyāsavaṃ",
+     "gloss": "with-second-nectar",
+     "grounds": "accusative singular with second nectar",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "drink",
+     "grounds": "optative third singular of pā",
+     "morph": "3.sg.act.opt. (pā)"
+    }
+   ],
+   "question": "What should be drunk after taking the guru's gift?",
+   "premises": [
+    "the guru gives something",
+    "it is taken",
+    "the second nectar is drunk"
+   ],
+   "inference": "After taking what the guru gives, one drinks the second nectar.",
+   "uncertainties": [
+    "compound analysis of sadvitīyāsavaṃ"
+   ],
+   "plain_english": "Taking what the guru gives, drink the second nectar."
+  },
+  {
+   "verse": 811,
+   "rows": [
+    {
+     "surface": "nopaviśya",
+     "gloss": "not-sitting",
+     "grounds": "indeclinable gerund not sitting",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piben+madyaṃ",
+     "gloss": "drink-wine",
+     "grounds": "optative third singular drink wine",
+     "morph": "3.sg.act.opt. (pā) + acc.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrasya+nirṇayaḥ",
+     "gloss": "scripture-decision",
+     "grounds": "nominative singular decision of scripture",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the scripture's decision about drinking wine?",
+   "premises": [
+    "not sitting is specified",
+    "drinking wine is the act",
+    "scripture gives a decision"
+   ],
+   "inference": "The scripture decides that wine is not to be drunk while sitting.",
+   "uncertainties": [
+    "internal sandhi of piben+madyaṃ"
+   ],
+   "plain_english": "Not sitting, drink wine; thus is the scripture's decision."
+  },
+  {
+   "verse": 812,
+   "rows": [
+    {
+     "surface": "avijñāya",
+     "gloss": "without-knowing",
+     "grounds": "indeclinable gerund without knowing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "acts",
+     "grounds": "optative third singular of ā-car",
+     "morph": "3.sg.act.opt. (car)"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who",
+     "grounds": "nominative singular relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "optative third singular of bhū",
+     "morph": "3.sg.act.opt. (bhū)"
+    },
+    {
+     "surface": "āpadāmpadam",
+     "gloss": "danger-refuge",
+     "grounds": "nominative singular refuge of dangers",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What happens to one who acts without knowing?",
+   "premises": [
+    "acting without knowing is condemned",
+    "the subject is identified",
+    "he becomes a refuge of dangers"
+   ],
+   "inference": "One who acts without knowing becomes a refuge of dangers.",
+   "uncertainties": [
+    "compound analysis of āpadāmpadam"
+   ],
+   "plain_english": "He who acts without knowing becomes a refuge of dangers."
+  }
+ ]
+}

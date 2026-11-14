@@ -1,0 +1,303 @@
+{
+ "song": "sva-p05",
+ "items": [
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "āhvāna",
+     "gloss": "invocation",
+     "grounds": "act of calling or summoning",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantraṇa",
+     "gloss": "addressing",
+     "grounds": "act of speaking or addressing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vibhaktyā",
+     "gloss": "with-case-ending",
+     "grounds": "grammatical inflection used in address",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "indicates subsequent placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaste",
+     "gloss": "salutation-to-you",
+     "grounds": "formula of reverential greeting",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all cases or contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "application",
+     "grounds": "ritual usage or employment",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What universal formula must follow invocation and addressing in ritual application?",
+   "premises": [
+    "Invocation and addressing are performed with the appropriate case ending.",
+    "The salutation 'namaste' is placed afterwards.",
+    "This application is prescribed everywhere."
+   ],
+   "inference": "Therefore, every ritual invocation and address must conclude with the formula 'namaste'.",
+   "uncertainties": [],
+   "plain_english": "In every case, after invoking and addressing with the proper case ending, one should apply the formula 'namaste'."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anusmaran",
+     "gloss": "remembering",
+     "grounds": "continually recollecting",
+     "morph": "pres.part.nom.sg.m (anu-smṛ)"
+    },
+    {
+     "surface": "tatsattā",
+     "gloss": "its-being",
+     "grounds": "the being or presence of that",
+     "morph": "compound: tat+pronoun-base + sattā+f.nom.sg"
+    },
+    {
+     "surface": "samāviṣṭaḥ",
+     "gloss": "absorbed",
+     "grounds": "fully entered or permeated",
+     "morph": "past.part.nom.sg.m (sam-ā-viś)"
+    },
+    {
+     "surface": "samāviṣṭaḥ",
+     "gloss": "absorbed",
+     "grounds": "repeated for emphasis on complete absorption",
+     "morph": "past.part.nom.sg.m (sam-ā-viś)"
+    }
+   ],
+   "question": "What inner state must accompany the recollection of the mantra during practice?",
+   "premises": [
+    "The practitioner remembers the mantra.",
+    "The practitioner becomes absorbed in its being.",
+    "The repetition emphasizes complete absorption."
+   ],
+   "inference": "Therefore, mantra recollection must be accompanied by total absorption in the mantra's being.",
+   "uncertainties": [],
+   "plain_english": "Remembering the mantra, one should become fully absorbed, fully absorbed in its being."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "agnim",
+     "gloss": "fire",
+     "grounds": "the ritual fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the term to be connected",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarasthaṃ",
+     "gloss": "situated-north",
+     "grounds": "located in the northern position",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kākākṣivat",
+     "gloss": "like-crow-eye",
+     "grounds": "applying to both sides like a crow's eye",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extends the application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbandhyam",
+     "gloss": "to-be-connected",
+     "grounds": "should be linked or related",
+     "morph": "gerundive.n.nom.sg (sam-bandh)"
+    }
+   ],
+   "question": "How should the term for fire situated in the north be connected in this ritual context?",
+   "premises": [
+    "The fire is identified as situated in the north.",
+    "The connection operates like a crow's eye.",
+    "This mode of connection applies here as well."
+   ],
+   "inference": "Therefore, the term 'fire situated in the north' must be connected here in the manner of a crow's eye.",
+   "uncertainties": [
+    "The exact syntactic scope of the crow's-eye connection is not fully explicit."
+   ],
+   "plain_english": "Here too, the term 'fire situated in the north' should be connected in the manner of a crow's eye."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "parāmṛtāpādana",
+     "gloss": "supreme-nectar-bestowing",
+     "grounds": "conferring the highest nectar",
+     "morph": "compound: para+amṛta+āpādana"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "nature or character",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "ritual honoring",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the fire or deity in context",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active (kṛ)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "intended sense or purpose",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the intended purpose of performing worship in this ritual context?",
+   "premises": [
+    "Worship of this is to be performed.",
+    "Its form is that of bestowing supreme nectar.",
+    "The verse states this as the meaning."
+   ],
+   "inference": "Therefore, the purpose of the worship is to realize or enact its supreme-nectar-bestowing nature.",
+   "uncertainties": [
+    "The referent of 'asya' depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "The meaning is that one should perform its worship in the form that bestows supreme nectar."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "rakṣārtham",
+     "gloss": "for-protection",
+     "grounds": "for the purpose of guarding",
+     "morph": "compound: rakṣā+f + artha+m.acc.sg (used adverbially)"
+    },
+    {
+     "surface": "ūrdhvamukhaiḥ",
+     "gloss": "with-upward-facing",
+     "grounds": "having tips or mouths turned upward",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-darbha-grasses",
+     "grounds": "sacred grass stalks",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement or deposition",
+     "morph": "3.sg.optative-active (ni-as)"
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "the protective act or result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual action establishes protection using darbha grasses in this procedure?",
+   "premises": [
+    "Protection is the intended purpose.",
+    "Upward-facing darbha grasses are used.",
+    "These grasses should be placed ritually."
+   ],
+   "inference": "Therefore, placing upward-facing darbha grasses constitutes the act of protection.",
+   "uncertainties": [],
+   "plain_english": "For protection, one should place upward-facing darbha grasses; this is the protection."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "kaṅkaṇa",
+     "gloss": "bracelet",
+     "grounds": "ritual wrist-band",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "binding",
+     "grounds": "act of tying or fastening",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaṅkaṇa",
+     "gloss": "bracelet",
+     "grounds": "ritual wrist-band",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "binding",
+     "grounds": "repeated for emphasis or completion of the act",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual act is emphatically prescribed by the repeated naming of bracelet binding?",
+   "premises": [
+    "The phrase 'bracelet binding' is stated.",
+    "The same phrase is immediately repeated.",
+    "Repetition in ritual instruction signals emphasis or completion."
+   ],
+   "inference": "Therefore, the binding of the bracelet is emphatically enjoined as a distinct ritual act.",
+   "uncertainties": [],
+   "plain_english": "The binding of the bracelet, the binding of the bracelet."
+  }
+ ]
+}

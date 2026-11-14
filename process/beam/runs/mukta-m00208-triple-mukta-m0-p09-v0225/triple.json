@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "refers to the entirety of what has been explained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "spoken",
+     "grounds": "past passive participle indicating what has been stated",
+     "morph": "ppp.n.acc.sg (√vac)"
+    },
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "indicates concise or summary manner of exposition",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun asking for further subject matter",
+     "morph": "n.acc.sg (interrog.)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "from-here",
+     "grounds": "points to what follows after the preceding summary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "expresses the object of desire as hearing instruction",
+     "morph": "inf. (√śru)"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-wish",
+     "grounds": "addresses the listener's desire for further teaching",
+     "morph": "2.sg.pres.act (√iṣ)"
+    }
+   ],
+   "question": "What further instruction does the listener wish to hear after this brief summary?",
+   "premises": [
+    "Everything has been stated in brief.",
+    "The exposition so far is presented as a summary.",
+    "The listener may still desire additional instruction."
+   ],
+   "inference": "Since the teaching has been given briefly, the speaker invites the listener to specify what further instruction is desired.",
+   "uncertainties": [],
+   "plain_english": "Everything has been stated briefly; what do you wish to hear now?"
+  }
+ ]
+}

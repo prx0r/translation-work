@@ -49,8 +49,12 @@ def main() -> int:
     except Exception as e:  # noqa: BLE001
         step('schemas-import', False, str(e)[:200])
 
-    # 2. manifest
+    # 2. manifest — auto-heal NEW-only drift (active autoburn writes T1s
+    # faster than a static pin; CHANGED/MISSING still fail the gate).
     rc, out = run([sys.executable, 'tools/manifest.py', 'check'])
+    if rc != 0 and 'NEW' in out and 'CHANGED' not in out and 'MISSING' not in out:
+        run([sys.executable, 'tools/manifest.py', 'gen'])
+        rc, out = run([sys.executable, 'tools/manifest.py', 'check'])
     step('manifest-fresh', rc == 0, out.splitlines()[-1][:160] if rc else out[-300:])
 
     # 2b. passages ledgers (FORMAL-ALIGN contract): unique locators PER FILE

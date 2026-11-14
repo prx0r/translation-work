@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "keṣāñcid",
+     "gloss": "for-some",
+     "grounds": "indefinite pronoun referring to certain recipients; sandhi form of keṣām + cit",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "restrictive particle emphasizing limitation to some",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkrāntā",
+     "gloss": "transmitted",
+     "grounds": "past participle indicating completed transmission; referent understood from context",
+     "morph": "ppp.nom.sg.f (sam-√kram)"
+    },
+    {
+     "surface": "mukhān",
+     "gloss": "from-mouth",
+     "grounds": "source of oral transmission",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mukham",
+     "gloss": "to-mouth",
+     "grounds": "destination of oral transmission",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-sequence",
+     "grounds": "expresses ordered succession in transmission",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By what mode is transmission conveyed sequentially to certain recipients only?",
+   "premises": [
+    "Transmission is restricted to certain recipients only.",
+    "The transmission passes from one mouth to another mouth.",
+    "This passing proceeds in a sequential order."
+   ],
+   "inference": "Therefore, for some recipients the teaching is transmitted orally in due sequence.",
+   "uncertainties": [
+    "The feminine referent of saṅkrāntā is not explicitly stated in this verse."
+   ],
+   "plain_english": "For some indeed, it has been transmitted from mouth to mouth in due sequence."
+  }
+ ]
+}

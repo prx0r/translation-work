@@ -1,0 +1,852 @@
+{
+ "song": "mukta-m0-p201",
+ "items": [
+  {
+   "verse": 5001,
+   "rows": [
+    {
+     "surface": "vyāghrājināmbaro",
+     "gloss": "tiger-skin-garment",
+     "grounds": "bahuvrihi compound describing attire",
+     "morph": "compound bahuvrihi m.nom.sg"
+    },
+    {
+     "surface": "dīptassarvābharaṇa",
+     "gloss": "shining-all-ornament",
+     "grounds": "sandhi dīptaḥ+sarvābharaṇa; compound describing radiance",
+     "morph": "compound bahuvrihi m.nom.sg"
+    },
+    {
+     "surface": "bhūṣitaḥ",
+     "gloss": "adorned",
+     "grounds": "past participle describing the figure",
+     "morph": "m.nom.sg past-participle"
+    }
+   ],
+   "question": "What garments and ornaments characterize the depicted divine figure?",
+   "premises": [
+    "The figure wears a tiger-skin garment",
+    "The figure shines with all ornaments",
+    "The figure is fully adorned"
+   ],
+   "inference": "The divine figure is portrayed as wearing tiger skin and resplendent with complete ornamentation.",
+   "uncertainties": [],
+   "plain_english": "He wears a tiger-skin garment, shines with all ornaments, and is fully adorned."
+  },
+  {
+   "verse": 5002,
+   "rows": [
+    {
+     "surface": "divyāmbarānvito",
+     "gloss": "endowed-with-divine-garments",
+     "grounds": "compound describing alternative attire",
+     "morph": "compound tatpuruṣa m.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "conjunction indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgājinayutopi",
+     "gloss": "joined-with-deer-skin-also",
+     "grounds": "sandhi mṛgājinayutaḥ+api; compound with alternative",
+     "morph": "compound tatpuruṣa m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction indicating alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative garments may the divine figure wear?",
+   "premises": [
+    "Divine garments are one option",
+    "Deer skin is another option",
+    "Alternatives are explicitly allowed"
+   ],
+   "inference": "The figure may be depicted either in divine garments or wearing deer skin.",
+   "uncertainties": [],
+   "plain_english": "He may be clothed in divine garments, or alternatively equipped with a deer skin."
+  },
+  {
+   "verse": 5003,
+   "rows": [
+    {
+     "surface": "dhṛta",
+     "gloss": "bearing",
+     "grounds": "first member of compound indicating holding",
+     "morph": "compound-member past-participle"
+    },
+    {
+     "surface": "vārāhadantāgra",
+     "gloss": "boar-tusk-tip",
+     "grounds": "compound naming an object held",
+     "morph": "compound-member tatpuruṣa"
+    },
+    {
+     "surface": "śārdūlanakhakacchapaiḥ",
+     "gloss": "tiger-nail-tortoise",
+     "grounds": "instrumental plural in compound listing items borne",
+     "morph": "compound bahuvrihi m.inst.pl"
+    }
+   ],
+   "question": "Which specific animal-derived objects does the divine figure bear?",
+   "premises": [
+    "The figure bears a boar-tusk tip",
+    "The figure bears tiger nails",
+    "The figure bears a tortoise"
+   ],
+   "inference": "The divine figure is characterized by bearing a boar-tusk tip, tiger nails, and a tortoise.",
+   "uncertainties": [],
+   "plain_english": "He bears the tip of a boar’s tusk, a tiger’s nail, and a tortoise."
+  },
+  {
+   "verse": 5004,
+   "rows": [
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "past participle describing posture",
+     "morph": "m.nom.sg past-participle"
+    },
+    {
+     "surface": "dakṣiṇapādena",
+     "gloss": "with-right-foot",
+     "grounds": "instrumental indicating supporting foot",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vāmenoparivartinā",
+     "gloss": "with-left-above-turning",
+     "grounds": "sandhi vāmena+uparivartinā; compound describing left foot position",
+     "morph": "compound tatpuruṣa m.inst.sg"
+    }
+   ],
+   "question": "How are the feet positioned in the divine figure’s stance?",
+   "premises": [
+    "The figure stands on the right foot",
+    "The left foot is turned above",
+    "Both feet define the posture"
+   ],
+   "inference": "The figure stands on the right foot while the left foot is positioned above and turned.",
+   "uncertainties": [],
+   "plain_english": "He stands on his right foot, with his left foot turned above."
+  },
+  {
+   "verse": 5005,
+   "rows": [
+    {
+     "surface": "ambikāmukhabiṃbābja",
+     "gloss": "ambika-face-disc-lotus",
+     "grounds": "compound describing the object of gaze",
+     "morph": "compound tatpuruṣa"
+    },
+    {
+     "surface": "bhramarīkṛtalocanaḥ",
+     "gloss": "bee-made-eyes",
+     "grounds": "bahuvrihi compound describing eyes like bees",
+     "morph": "compound bahuvrihi m.nom.sg"
+    }
+   ],
+   "question": "Toward what object are the divine figure’s eyes directed?",
+   "premises": [
+    "Ambika’s face is likened to a lotus disc",
+    "The eyes act like bees",
+    "The gaze is fixed on that face"
+   ],
+   "inference": "The figure’s eyes are directed like bees toward Ambika’s lotus-like face.",
+   "uncertainties": [],
+   "plain_english": "His eyes are made like bees upon the lotus-disc of Ambika’s face."
+  },
+  {
+   "verse": 5006,
+   "rows": [
+    {
+     "surface": "vāmadakṣiṇakarṇāḍhya",
+     "gloss": "left-right-ear-adorned",
+     "grounds": "compound indicating both ears adorned",
+     "morph": "compound bahuvrihi"
+    },
+    {
+     "surface": "patrikā",
+     "gloss": "leaf-ornament",
+     "grounds": "first member naming ear ornament type",
+     "morph": "compound-member f.nom.sg"
+    },
+    {
+     "surface": "nakrakuṇḍalaḥ",
+     "gloss": "crocodile-earring",
+     "grounds": "bahuvrihi compound describing earrings",
+     "morph": "compound bahuvrihi m.nom.sg"
+    }
+   ],
+   "question": "What ornaments adorn the ears of the divine figure?",
+   "premises": [
+    "Both left and right ears are adorned",
+    "Leaf ornaments are present",
+    "Crocodile-shaped earrings are worn"
+   ],
+   "inference": "The figure’s ears are adorned with leaf ornaments and crocodile earrings.",
+   "uncertainties": [],
+   "plain_english": "His left and right ears are adorned with leaf ornaments and crocodile earrings."
+  },
+  {
+   "verse": 5007,
+   "rows": [
+    {
+     "surface": "vāmāparakarasthena",
+     "gloss": "left-other-hand-held",
+     "grounds": "compound describing object held in left hand",
+     "morph": "compound tatpuruṣa m.inst.sg"
+    },
+    {
+     "surface": "vahninā",
+     "gloss": "with-fire",
+     "grounds": "instrumental naming fire",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dakṣakena",
+     "gloss": "with-right-hand",
+     "grounds": "instrumental indicating right hand",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which hands hold which attributes in this depiction?",
+   "premises": [
+    "Fire is held in the left hand",
+    "The right hand is separately specified",
+    "The hands bear distinct attributes"
+   ],
+   "inference": "The left hand holds fire, while the right hand is distinguished for another attribute.",
+   "uncertainties": [
+    "The specific object in the right hand is completed in the next verse"
+   ],
+   "plain_english": "He holds fire in his left hand, and with his right hand—"
+  },
+  {
+   "verse": 5008,
+   "rows": [
+    {
+     "surface": "gokṣīradhavalaprakhya",
+     "gloss": "cow-milk-white-radiant",
+     "grounds": "compound describing radiance",
+     "morph": "compound bahuvrihi"
+    },
+    {
+     "surface": "ādityāṅgulabhaṅgayuk",
+     "gloss": "sun-finger-bend-joined",
+     "grounds": "compound describing hand gesture",
+     "morph": "compound bahuvrihi m.nom.sg"
+    }
+   ],
+   "question": "What appearance and gesture characterize the right hand’s attribute?",
+   "premises": [
+    "The attribute is radiant like cow’s milk",
+    "The fingers form a sun-like bend",
+    "This describes the right hand’s display"
+   ],
+   "inference": "The right hand displays a milk-white radiance with fingers bent in a sun-like gesture.",
+   "uncertainties": [
+    "Exact identification of the gesture depends on iconographic convention"
+   ],
+   "plain_english": "—radiant like cow’s milk, with fingers bent in the manner of the sun."
+  },
+  {
+   "verse": 5009,
+   "rows": [
+    {
+     "surface": "mūrdhno",
+     "gloss": "from-head",
+     "grounds": "ablative indicating starting point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "lalāṭadakṣasthaṃ",
+     "gloss": "forehead-right-placed",
+     "grounds": "compound describing placement",
+     "morph": "compound tatpuruṣa n.acc.sg"
+    },
+    {
+     "surface": "nāsādakṣapuṭasthitam",
+     "gloss": "nose-right-nostril-placed",
+     "grounds": "compound describing placement",
+     "morph": "compound tatpuruṣa n.acc.sg"
+    }
+   ],
+   "question": "Through which points does the measurement line pass on the face?",
+   "premises": [
+    "The line starts from the head",
+    "It passes the right side of the forehead",
+    "It reaches the right nostril"
+   ],
+   "inference": "The measurement line runs from the head through the right forehead to the right nostril.",
+   "uncertainties": [],
+   "plain_english": "From the head, it is placed at the right of the forehead and situated at the right nostril."
+  },
+  {
+   "verse": 5010,
+   "rows": [
+    {
+     "surface": "lalāṭa",
+     "gloss": "forehead",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sūtrāttu",
+     "gloss": "from-thread-but",
+     "grounds": "sandhi sūtrāt+tu; ablative with particle",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "dvimātramitikīrtitam",
+     "gloss": "two-measure-thus-declared",
+     "grounds": "sandhi dvimātram+iti+kīrtitam; compound predicate",
+     "morph": "compound n.nom.sg past-participle"
+    }
+   ],
+   "question": "What distance is prescribed from the forehead’s middle thread line?",
+   "premises": [
+    "A thread line is taken at the forehead middle",
+    "A distance is measured from it",
+    "The distance is declared as two measures"
+   ],
+   "inference": "The prescribed distance from the middle forehead thread is two measures.",
+   "uncertainties": [],
+   "plain_english": "From the thread at the middle of the forehead, it is declared to be two measures."
+  },
+  {
+   "verse": 5011,
+   "rows": [
+    {
+     "surface": "śroṇīvāmorusaṃspṛṣṭaṃ",
+     "gloss": "hip-left-thigh-touching",
+     "grounds": "compound describing contact point",
+     "morph": "compound tatpuruṣa n.nom.sg"
+    },
+    {
+     "surface": "tatsūtramihasaṃmatam",
+     "gloss": "that-thread-here-approved",
+     "grounds": "sandhi tat+sūtram+iha+saṃmatam; compound predicate",
+     "morph": "compound n.nom.sg past-participle"
+    }
+   ],
+   "question": "Where is the prescribed thread line approved to touch the body?",
+   "premises": [
+    "The thread touches the hip and left thigh",
+    "This placement is specified here",
+    "The placement is approved"
+   ],
+   "inference": "The approved thread line touches the hip and the left thigh.",
+   "uncertainties": [],
+   "plain_english": "That thread, touching the hip and the left thigh, is approved here."
+  },
+  {
+   "verse": 5012,
+   "rows": [
+    {
+     "surface": "sūtrāddhi",
+     "gloss": "from-thread-indeed",
+     "grounds": "sandhi sūtrāt+hi; ablative with emphatic particle",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "natajānvantaṃ",
+     "gloss": "to-bent-knee-end",
+     "grounds": "compound indicating extent to bent knee",
+     "morph": "compound tatpuruṣa n.acc.sg"
+    },
+    {
+     "surface": "bhānudignandamātrakam",
+     "gloss": "sun-direction-nanda-measure",
+     "grounds": "compound expressing numeric measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    }
+   ],
+   "question": "What measure extends from the thread to the bent knee?",
+   "premises": [
+    "Measurement starts from the thread",
+    "It extends to the bent knee",
+    "The measure is given as bhānu-dik-nanda units"
+   ],
+   "inference": "The distance from the thread to the bent knee is the stated numeric measure.",
+   "uncertainties": [
+    "Exact numeric value of bhānudignanda requires traditional metrical convention"
+   ],
+   "plain_english": "From the thread to the end of the bent knee, the measure is bhānu-dik-nanda."
+  },
+  {
+   "verse": 5013,
+   "rows": [
+    {
+     "surface": "tatsūtrādvāmajānvake",
+     "gloss": "from-that-thread-to-left-knee",
+     "grounds": "sandhi tat+sūtrāt+vāmajānvake; compound locative",
+     "morph": "compound tatpuruṣa n.loc.sg"
+    },
+    {
+     "surface": "catvāriṃśaddaśāṅgulam",
+     "gloss": "forty-ten-finger-measure",
+     "grounds": "compound expressing fifty aṅgulas",
+     "morph": "compound bahuvrihi n.nom.sg"
+    }
+   ],
+   "question": "What distance is specified from the thread to the left knee?",
+   "premises": [
+    "Measurement is taken from that thread",
+    "The endpoint is the left knee",
+    "The distance is forty plus ten aṅgulas"
+   ],
+   "inference": "The distance from the thread to the left knee is fifty aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "From that thread to the left knee, it is fifty aṅgulas."
+  },
+  {
+   "verse": 5014,
+   "rows": [
+    {
+     "surface": "sūtrāttu",
+     "gloss": "from-thread-but",
+     "grounds": "sandhi sūtrāt+tu; ablative with particle",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "savyakukṣistu",
+     "gloss": "left-belly-but",
+     "grounds": "sandhi savyakukṣiḥ+tu; nominative with particle",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "ravyaṅgula",
+     "gloss": "sun-finger-measure",
+     "grounds": "compound expressing numeric measure in aṅgulas",
+     "morph": "compound bahuvrihi"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "past participle stating prescription",
+     "morph": "m.nom.sg past-participle"
+    }
+   ],
+   "question": "What measure is declared for the left side of the belly from the thread?",
+   "premises": [
+    "Measurement is taken from the thread",
+    "The left belly is the reference",
+    "The measure is given as ravi-aṅgulas"
+   ],
+   "inference": "The left belly is declared to be at a distance of ravi-aṅgulas from the thread.",
+   "uncertainties": [
+    "Exact numeric value of ravi requires traditional convention"
+   ],
+   "plain_english": "From the thread, the left side of the belly is declared to be ravi aṅgulas."
+  },
+  {
+   "verse": 5015,
+   "rows": [
+    {
+     "surface": "sūtrāttadvāmabhāgetu",
+     "gloss": "from-thread-that-left-part-but",
+     "grounds": "sandhi sūtrāt+tat+vāmabhāge+tu; compound locative with particle",
+     "morph": "compound tatpuruṣa n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "navamātramudīritam",
+     "gloss": "nine-measure-declared",
+     "grounds": "sandhi navamātram+udīritam; compound predicate",
+     "morph": "compound n.nom.sg past-participle"
+    }
+   ],
+   "question": "What measure is declared on the left side from the thread?",
+   "premises": [
+    "Measurement is taken from the thread",
+    "The left part is specified",
+    "The measure is nine units"
+   ],
+   "inference": "The left side from the thread is declared to be nine measures.",
+   "uncertainties": [],
+   "plain_english": "From the thread, on that left side, it is declared to be nine measures."
+  },
+  {
+   "verse": 5016,
+   "rows": [
+    {
+     "surface": "sūtrāttu",
+     "gloss": "from-thread-but",
+     "grounds": "sandhi sūtrāt+tu; ablative with particle",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "dakṣiṇaḥ",
+     "gloss": "right",
+     "grounds": "adjective qualifying throat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaṇṭho",
+     "gloss": "throat",
+     "grounds": "noun indicating body part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "noun indicating measure or division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-is-called",
+     "grounds": "sandhi iti+abhidhīyate; quotative with verb",
+     "morph": "3.sg.passive-present √dhā"
+    }
+   ],
+   "question": "How is the right side of the throat defined relative to the thread?",
+   "premises": [
+    "Measurement is taken from the thread",
+    "The right throat is specified",
+    "It is designated as a part"
+   ],
+   "inference": "The right side of the throat from the thread is designated as that part.",
+   "uncertainties": [
+    "The exact numeric value of the part is not explicitly stated in this verse"
+   ],
+   "plain_english": "From the thread, the right side of the throat is called that part."
+  },
+  {
+   "verse": 5017,
+   "rows": [
+    {
+     "surface": "athavānyaprakāreṇa",
+     "gloss": "or-by-another-method",
+     "grounds": "sandhi athavā+anya+prakāreṇa; instrumental indicating alternative method",
+     "morph": "compound tatpuruṣa m.inst.sg"
+    },
+    {
+     "surface": "sūtrapātobhidhīyate",
+     "gloss": "thread-fall-is-described",
+     "grounds": "sandhi sūtrapātaḥ+abhidhīyate; compound subject with verb",
+     "morph": "compound m.nom.sg + 3.sg.passive-present √dhā"
+    }
+   ],
+   "question": "Is an alternative method given for placing the measurement thread?",
+   "premises": [
+    "An alternative method is introduced",
+    "The method concerns thread placement",
+    "The thread fall is described"
+   ],
+   "inference": "An alternative method for the fall of the measurement thread is described.",
+   "uncertainties": [],
+   "plain_english": "Or, by another method, the placing of the thread is described."
+  },
+  {
+   "verse": 5018,
+   "rows": [
+    {
+     "surface": "nābheśca",
+     "gloss": "from-navel-and",
+     "grounds": "sandhi nābheḥ+ca; ablative with conjunction",
+     "morph": "f.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "dakṣamātrāntaṃ",
+     "gloss": "right-measure-end",
+     "grounds": "compound indicating extent to the right",
+     "morph": "compound tatpuruṣa n.acc.sg"
+    },
+    {
+     "surface": "sthitāṅghrergulphamadhyamam",
+     "gloss": "standing-foot-ankle-middle",
+     "grounds": "sandhi sthitāṅghreḥ+gulphamadhyamam; compound indicating ankle middle",
+     "morph": "compound tatpuruṣa n.acc.sg"
+    }
+   ],
+   "question": "Between which bodily points is the alternative thread line drawn?",
+   "premises": [
+    "The line relates to the navel on the right",
+    "It extends to the standing foot",
+    "It reaches the middle of the ankle"
+   ],
+   "inference": "The alternative thread runs from the right of the navel to the middle of the ankle of the standing foot.",
+   "uncertainties": [],
+   "plain_english": "From the navel to the right measure’s end, to the middle of the ankle of the standing foot."
+  },
+  {
+   "verse": 5019,
+   "rows": [
+    {
+     "surface": "sūtrādvāme",
+     "gloss": "from-thread-on-left",
+     "grounds": "sandhi sūtrāt+vāme; ablative with locative",
+     "morph": "n.abl.sg + n.loc.sg"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "noun indicating body part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcamātraṃ",
+     "gloss": "five-measure",
+     "grounds": "compound expressing measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    },
+    {
+     "surface": "kaṇṭha",
+     "gloss": "throat",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trimātrakam",
+     "gloss": "three-measure",
+     "grounds": "compound expressing measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    }
+   ],
+   "question": "What measures are assigned to the face and throat on the left of the thread?",
+   "premises": [
+    "Measurements are taken from the thread on the left",
+    "The face is assigned five measures",
+    "The throat is assigned three measures"
+   ],
+   "inference": "On the left of the thread, the face measures five units and the throat three units.",
+   "uncertainties": [],
+   "plain_english": "From the thread on the left, the face is five measures and the throat three measures."
+  },
+  {
+   "verse": 5020,
+   "rows": [
+    {
+     "surface": "madhyodare'ṣṭamātraṃ",
+     "gloss": "middle-belly-eight-measure",
+     "grounds": "sandhi madhyodare+aṣṭamātraṃ; compound expressing measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    },
+    {
+     "surface": "syācchroṇī",
+     "gloss": "should-be-hip",
+     "grounds": "sandhi syāt+śroṇī; optative with noun",
+     "morph": "3.sg.optative √as + f.nom.sg"
+    },
+    {
+     "surface": "viśvāṅgulena",
+     "gloss": "by-viśva-finger-measure",
+     "grounds": "instrumental compound expressing measure",
+     "morph": "compound bahuvrihi n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measures are prescribed for the middle belly and the hip?",
+   "premises": [
+    "The middle belly is eight measures",
+    "The hip is measured by viśva-aṅgulas",
+    "Both measures are prescribed"
+   ],
+   "inference": "The middle belly should be eight measures and the hip measured by viśva-aṅgulas.",
+   "uncertainties": [
+    "Exact numeric value of viśva requires traditional convention"
+   ],
+   "plain_english": "The middle belly should be eight measures, and the hip by viśva aṅgulas."
+  },
+  {
+   "verse": 5021,
+   "rows": [
+    {
+     "surface": "navamātraṃ",
+     "gloss": "nine-measure",
+     "grounds": "compound expressing measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    },
+    {
+     "surface": "tadūruḥsyāt",
+     "gloss": "that-thigh-should-be",
+     "grounds": "sandhi tat+ūruḥ+syāt; compound subject with optative",
+     "morph": "compound m.nom.sg + 3.sg.optative √as"
+    },
+    {
+     "surface": "rpāṣṇyantaṃ",
+     "gloss": "to-heel-end",
+     "grounds": "compound indicating extent to heel; initial r likely sandhi artifact",
+     "morph": "compound tatpuruṣa n.nom.sg"
+    },
+    {
+     "surface": "vedatuṅgakam",
+     "gloss": "veda-height-measure",
+     "grounds": "compound expressing numeric measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    }
+   ],
+   "question": "What measures are prescribed for the thigh and the extent to the heel?",
+   "premises": [
+    "The thigh is nine measures",
+    "The extent to the heel is specified",
+    "That extent is vedatuṅga in measure"
+   ],
+   "inference": "The thigh should be nine measures and the extent to the heel should be vedatuṅga.",
+   "uncertainties": [
+    "Exact numeric value of vedatuṅga requires traditional convention",
+    "Initial r in rpāṣṇyantaṃ may reflect sandhi or textual form"
+   ],
+   "plain_english": "That thigh should be nine measures, and up to the heel it should be vedatuṅga."
+  },
+  {
+   "verse": 5022,
+   "rows": [
+    {
+     "surface": "bāhvante",
+     "gloss": "at-arm-end",
+     "grounds": "locative compound indicating arm end",
+     "morph": "compound tatpuruṣa n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trimātraṃ",
+     "gloss": "three-measure",
+     "grounds": "compound expressing measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.optative √as"
+    },
+    {
+     "surface": "kakṣānte",
+     "gloss": "at-armpit-end",
+     "grounds": "locative compound indicating armpit end",
+     "morph": "compound tatpuruṣa n.loc.sg"
+    },
+    {
+     "surface": "viśvamātrakam",
+     "gloss": "viśva-measure",
+     "grounds": "compound expressing measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    }
+   ],
+   "question": "What measures are prescribed at the arm end and the armpit end?",
+   "premises": [
+    "The arm end is three measures",
+    "The armpit end is viśva measures",
+    "Both are prescribed as should-be"
+   ],
+   "inference": "The arm end should be three measures and the armpit end viśva measures.",
+   "uncertainties": [
+    "Exact numeric value of viśva requires traditional convention"
+   ],
+   "plain_english": "At the end of the arm it should be three measures, and at the end of the armpit viśva measures."
+  },
+  {
+   "verse": 5023,
+   "rows": [
+    {
+     "surface": "kaṭyāṃ",
+     "gloss": "at-waist",
+     "grounds": "locative indicating waist",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedamātra",
+     "gloss": "veda-measure",
+     "grounds": "compound expressing measure",
+     "morph": "compound bahuvrihi n.nom.sg"
+    },
+    {
+     "surface": "syājjānuraṣṭāṅgulaṃ",
+     "gloss": "should-be-knee-eight-finger",
+     "grounds": "sandhi syāt+jānuḥ+aṣṭāṅgulam; compound predicate",
+     "morph": "3.sg.optative √as + compound bahuvrihi n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.optative √bhū"
+    }
+   ],
+   "question": "What measures are prescribed for the waist and the knee?",
+   "premises": [
+    "The waist is veda measures",
+    "The knee is eight aṅgulas",
+    "Both measures are prescribed"
+   ],
+   "inference": "The waist should be veda measures and the knee should be eight aṅgulas.",
+   "uncertainties": [
+    "Exact numeric value of veda requires traditional convention"
+   ],
+   "plain_english": "At the waist it should be veda measures, and the knee should be eight aṅgulas."
+  },
+  {
+   "verse": 5024,
+   "rows": [
+    {
+     "surface": "sthitajānusamaṃ",
+     "gloss": "standing-knee-equal",
+     "grounds": "compound indicating equality with standing knee",
+     "morph": "compound bahuvrihi n.acc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "optative verb prescribing knowledge",
+     "morph": "3.sg.optative √vid"
+    },
+    {
+     "surface": "vartitāṅghre",
+     "gloss": "of-turned-foot",
+     "grounds": "sandhi vartita+aṅghreḥ; genitive compound",
+     "morph": "compound bahuvrihi m.gen.sg"
+    },
+    {
+     "surface": "samucchrayaḥ",
+     "gloss": "height",
+     "grounds": "noun indicating elevation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How high should the turned foot be relative to the standing knee?",
+   "premises": [
+    "The standing knee provides the reference",
+    "The turned foot’s height is compared to it",
+    "Equality is prescribed"
+   ],
+   "inference": "The height of the turned foot should be known as equal to the standing knee.",
+   "uncertainties": [],
+   "plain_english": "One should know the height of the turned foot to be equal to that of the standing knee."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "gerund of nidhā; action completed before worship",
+     "morph": "absol. (nidhā)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative instruction for ritual worship",
+     "morph": "3.sg.act-opt. (pūj)"
+    },
+    {
+     "surface": "veśmani",
+     "gloss": "in-house",
+     "grounds": "locative of dwelling place",
+     "morph": "loc.sg.n (veśman)"
+    },
+    {
+     "surface": "aśmapātādiśāntaye",
+     "gloss": "for-stone-fall-etc-peace",
+     "grounds": "dative purpose: peace from stone-fall and similar calamities",
+     "morph": "dat.sg.f (śānti)"
+    }
+   ],
+   "question": "What ritual action in the house secures peace from stone-fall and similar calamities?",
+   "premises": [
+    "placing the object precedes worship",
+    "worship occurs inside the house",
+    "peace from stone-fall is sought"
+   ],
+   "inference": "domestic worship after placement pacifies stone-fall calamities",
+   "uncertainties": [
+    "exact object placed is unspecified",
+    "aśmapātādi scope is open-ended"
+   ],
+   "plain_english": "Having placed it, one should worship in the house for peace from stone-fall and similar calamities."
+  }
+ ]
+}

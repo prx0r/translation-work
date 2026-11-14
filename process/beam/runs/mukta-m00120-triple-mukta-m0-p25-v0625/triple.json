@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "gandhāpuṣpair",
+     "gloss": "with-sandal-paste-flowers",
+     "grounds": "instrumental plural offering combining sandal paste and flowers",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "dhūpadīpaiḥ",
+     "gloss": "with-incense-lamp",
+     "grounds": "instrumental plural offering of incense and lamp",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "kāraṇena",
+     "gloss": "with-reason",
+     "grounds": "instrumental singular accompaniment of reason",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb of worship",
+     "morph": "3.sg.act.opt. root pūj"
+    }
+   ],
+   "question": "Which offerings and reason should accompany worship after placing the drop in the yoni-mandala?",
+   "premises": [
+    "The drop has been placed in the yoni-mandala.",
+    "Worship follows with sandal paste flowers incense and lamp.",
+    "Reason accompanies the worship."
+   ],
+   "inference": "Worship should be performed with sandal-paste flowers incense lamp and reason.",
+   "uncertainties": [
+    "Exact internal compound analysis of gandhāpuṣpair is not explicit."
+   ],
+   "plain_english": "He should worship with sandal paste and flowers, incense and lamp, and with reason."
+  }
+ ]
+}

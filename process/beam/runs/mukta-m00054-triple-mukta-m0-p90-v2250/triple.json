@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p90",
+ "items": [
+  {
+   "verse": 2250,
+   "rows": [
+    {
+     "surface": "śriyam",
+     "gloss": "prosperity-goddess",
+     "grounds": "object of invocation; personified as goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "attribute qualifying śriyam",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upahvaye",
+     "gloss": "I-invoke",
+     "grounds": "main verb expressing the act of calling upon",
+     "morph": "1.sg.atm-pres.ind √hve+upa"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "Śrī",
+     "grounds": "subject of the requested favor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "me",
+     "grounds": "object of the favor sought",
+     "morph": "pron.acc.sg.1 (enclitic)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "attribute qualifying śrīḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "juṣatām",
+     "gloss": "may-favor",
+     "grounds": "optative request directed to the goddess",
+     "morph": "3.sg.atm-imperative √juṣ"
+    }
+   ],
+   "question": "Whom does the speaker invoke and what favor is requested from the goddess Śrī?",
+   "premises": [
+    "The speaker invokes the goddess Śrī.",
+    "Śrī is explicitly addressed as a goddess.",
+    "The speaker requests that the goddess Śrī favor him."
+   ],
+   "inference": "The verse constitutes a prayer in which the speaker invokes goddess Śrī and asks for her favor.",
+   "uncertainties": [
+    "The term śriyam/śrīḥ can denote both prosperity and the goddess personified; the presence of devīm/devī supports personification."
+   ],
+   "plain_english": "I invoke the goddess Śrī; may the goddess Śrī be pleased with me."
+  }
+ ]
+}

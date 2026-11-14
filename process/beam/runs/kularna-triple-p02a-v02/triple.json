@@ -1,0 +1,113 @@
+{
+ "song": "kul-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "nighnanti",
+     "gloss": "kill",
+     "grounds": "prefix ni with root han",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "ripuvat",
+     "gloss": "like-enemy",
+     "grounds": "compound ripu + vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogāḥ",
+     "gloss": "diseases",
+     "grounds": "plural masculine nominative",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreyaḥ",
+     "gloss": "good",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "prefix sam-ā with root car, optative",
+     "morph": "v.3.sg.opt.act"
+    }
+   ],
+   "question": "Why should one practice the good when diseases kill like enemies?",
+   "premises": [
+    "diseases kill like enemies",
+    "therefore one should practice good"
+   ],
+   "inference": "The verse urges practice of the good because diseases destroy like enemies.",
+   "uncertainties": [
+    "verses 27-37 were not supplied in the input"
+   ],
+   "plain_english": "Diseases kill like enemies; therefore one should practice the good."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "grathanaṃ",
+     "gloss": "binding",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taraṅgāṇām",
+     "gloss": "of-waves",
+     "grounds": "genitive plural masculine",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "āsthā",
+     "gloss": "support",
+     "grounds": "feminine nominative singular",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyuṣi",
+     "gloss": "in-life",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "fits",
+     "grounds": "passive present of root yuj",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "Why does the binding of waves not fit as support in life?",
+   "premises": [
+    "binding of waves is not support",
+    "it does not fit in life"
+   ],
+   "inference": "The verse denies that wave-binding serves as life's support.",
+   "uncertainties": [
+    "verses 27-37 were not supplied in the input"
+   ],
+   "plain_english": "The binding of waves is not a support that fits in life."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p186",
+ "items": [
+  {
+   "verse": 4650,
+   "rows": [
+    {
+     "surface": "vicakramāṇaḥ",
+     "gloss": "striding-forth",
+     "grounds": "present participle of vi-kram, describing the agent's action",
+     "morph": "m.nom.sg.pres.part.act (vi-√kram)"
+    },
+    {
+     "surface": "tredhā",
+     "gloss": "threefold",
+     "grounds": "indeclinable indicating threefold manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uru+gāyā",
+     "gloss": "wide-going",
+     "grounds": "compound describing the manner or path of striding",
+     "morph": "compound (uru+gāyā)"
+    },
+    {
+     "surface": "vi+avocā",
+     "gloss": "have-proclaimed",
+     "grounds": "first-person aorist of vi-vac expressing the speaker's proclamation",
+     "morph": "1.sg.act-aor.ind (vi-√vac)"
+    }
+   ],
+   "question": "What threefold wide-striding act does the speaker proclaim to have accomplished?",
+   "premises": [
+    "An agent is described as striding forth.",
+    "The striding occurs in a threefold manner.",
+    "The striding is characterized as wide-going.",
+    "The speaker proclaims this accomplished act."
+   ],
+   "inference": "The speaker asserts the completion of a threefold wide-striding act.",
+   "uncertainties": [
+    "The precise referent of uru+gāyā as manner or path is context-dependent."
+   ],
+   "plain_english": "Striding forth threefold in a wide-going manner, I have proclaimed."
+  }
+ ]
+}

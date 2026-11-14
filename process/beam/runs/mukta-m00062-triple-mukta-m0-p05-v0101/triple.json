@@ -1,0 +1,922 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "sūtrīyatā",
+     "gloss": "thread-doctrine",
+     "grounds": "abstract noun from sūtra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past-passive-participle √vac"
+    },
+    {
+     "surface": "dakṣiṇāmnāya+saṅgatam",
+     "gloss": "southern-transmission-connected",
+     "grounds": "compound: dakṣiṇa+āmnāya+saṅgata",
+     "morph": "compound: dakṣiṇa+āmnāya+saṅgata (tatpuruṣa)"
+    }
+   ],
+   "question": "What doctrine connected to the southern transmission is being declared by the speaker?",
+   "premises": [
+    "The speaker declares a thread-doctrine.",
+    "This doctrine is connected to the southern transmission."
+   ],
+   "inference": "A doctrinal formulation pertaining to the southern transmission is being authoritatively stated.",
+   "uncertainties": [
+    "The precise technical sense of sūtrīyatā is context-dependent."
+   ],
+   "plain_english": "I have declared the thread-doctrine connected with the southern transmission."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+parātantre",
+     "gloss": "in-revered-parātantra",
+     "grounds": "compound: śrī+parātantra, locative",
+     "morph": "compound: śrī+parātantra (karmadhāraya), n.loc.sg"
+    },
+    {
+     "surface": "niśeśvarī",
+     "gloss": "o-lady-of-night",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dakṣiṇāmnāyaḥ",
+     "gloss": "southern-transmission",
+     "grounds": "compound: dakṣiṇa+āmnāya",
+     "morph": "compound: dakṣiṇa+āmnāya (tatpuruṣa), m.nom.sg"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section marker",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the revered Parātantra concerning the southern transmission concludes here?",
+   "premises": [
+    "The text refers to the revered Parātantra.",
+    "The southern transmission is named as the subject.",
+    "This is identified as the second chapter."
+   ],
+   "inference": "The second chapter on the southern transmission in the Parātantra is concluded.",
+   "uncertainties": [],
+   "plain_english": "Thus, O Niśeśvarī, ends the second chapter on the southern transmission in the revered Parātantra."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "aneka+śata+sāhasra",
+     "gloss": "many-hundred-thousand",
+     "grounds": "compound indicating vast number",
+     "morph": "compound: aneka+śata+sāhasra (bahuvrīhi-like)"
+    },
+    {
+     "surface": "śrī+nāthena",
+     "gloss": "by-revered-lord",
+     "grounds": "compound: śrī+nātha, agent",
+     "morph": "compound: śrī+nātha (karmadhāraya), m.inst.sg"
+    },
+    {
+     "surface": "avatāritam",
+     "gloss": "brought-down",
+     "grounds": "transmitted or revealed",
+     "morph": "n.nom.sg.past-passive-participle √tṝ with ava"
+    }
+   ],
+   "question": "By whom was the teaching brought down in many hundreds of thousands of forms?",
+   "premises": [
+    "The teaching was brought down.",
+    "It exists in many hundreds of thousands of forms.",
+    "The revered lord is the agent."
+   ],
+   "inference": "The revered lord transmitted an immensely vast body of teaching.",
+   "uncertainties": [
+    "Whether the number is literal or hyperbolic is unclear."
+   ],
+   "plain_english": "It was brought down in many hundreds of thousands of forms by the revered Lord."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "sva+nābhi+mathanāt",
+     "gloss": "from-own-navel-churning",
+     "grounds": "compound: sva+nābhi+mathana, ablative source",
+     "morph": "compound: sva+nābhi+mathana (tatpuruṣa), n.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sva+kīya+rasanā",
+     "gloss": "own-tongue",
+     "grounds": "compound: sva+kīya+rasanā",
+     "morph": "compound: sva+kīya+rasanā (karmadhāraya/tatpuruṣa), f.nom.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "time adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what act did the goddess's own tongue arise in primordial time?",
+   "premises": [
+    "The event occurred formerly.",
+    "It involved churning of one's own navel.",
+    "The result was one's own tongue."
+   ],
+   "inference": "The goddess's tongue originated from the churning of her own navel in ancient time.",
+   "uncertainties": [
+    "The mythic agent performing the churning is implied rather than explicit."
+   ],
+   "plain_english": "O Goddess, formerly, from the churning of his own navel, his own tongue arose."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "tat+ārabhya",
+     "gloss": "from-that-beginning",
+     "grounds": "compound/gerundive phrase indicating starting point",
+     "morph": "compound: tat+ārabhya (indecl. gerund phrase)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kujā+devī+iti",
+     "gloss": "kuja-goddess-thus",
+     "grounds": "compound name with quotation marker",
+     "morph": "compound: kujā+devī (karmadhāraya), f.nom.sg + iti (indecl.)"
+    },
+    {
+     "surface": "viśrutā",
+     "gloss": "renowned",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past-passive-participle √śru with vi"
+    }
+   ],
+   "question": "What name became renowned for the goddess from that originating event onward?",
+   "premises": [
+    "A beginning point is established from that event.",
+    "The goddess is addressed as Maheśānī.",
+    "She became renowned as Kujā Devī."
+   ],
+   "inference": "From that origin, the goddess became widely known as Kujā Devī.",
+   "uncertainties": [],
+   "plain_english": "From that time onward, O Maheśānī, she became renowned as the goddess Kujā."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "sadyojāta+mukha+udgītā",
+     "gloss": "sadyojāta-mouth-sung",
+     "grounds": "compound: sadyojāta+mukha+udgīta",
+     "morph": "compound: sadyojāta+mukha+udgīta (tatpuruṣa), f.nom.sg"
+    },
+    {
+     "surface": "paścima+āmnāya+devatā",
+     "gloss": "western-transmission-deity",
+     "grounds": "compound: paścima+āmnāya+devatā",
+     "morph": "compound: paścima+āmnāya+devatā (tatpuruṣa), f.nom.sg"
+    }
+   ],
+   "question": "Which deity of the western transmission was sung forth from Sadyojāta's mouth?",
+   "premises": [
+    "The deity was sung from Sadyojāta's mouth.",
+    "She belongs to the western transmission."
+   ],
+   "inference": "The western transmission deity was revealed through Sadyojāta's utterance.",
+   "uncertainties": [],
+   "plain_english": "Sung forth from the mouth of Sadyojāta, she is the deity of the western transmission."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "ananta+deśikaḥ",
+     "gloss": "ananta-teacher",
+     "grounds": "compound: ananta+deśika",
+     "morph": "compound: ananta+deśika (karmadhāraya), m.nom.sg"
+    },
+    {
+     "surface": "sevyā",
+     "gloss": "to-be-served",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg.gerundive √sev"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "eternal",
+     "grounds": "attribute",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śiva+samāgatā",
+     "gloss": "śiva-united",
+     "grounds": "compound: śiva+samāgata",
+     "morph": "compound: śiva+samāgata (tatpuruṣa), f.nom.sg"
+    }
+   ],
+   "question": "What qualities define the deity who is to be served with Ananta as teacher?",
+   "premises": [
+    "Ananta is the teacher.",
+    "The deity is to be served.",
+    "She is eternal and united with Śiva."
+   ],
+   "inference": "The deity to be served under Ananta's guidance is eternal and united with Śiva.",
+   "uncertainties": [
+    "The syntactic role of ananta+deśikaḥ as appositive or separate subject is slightly ambiguous."
+   ],
+   "plain_english": "With Ananta as teacher, she is to be served, eternal, and united with Śiva."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "dvātriṃśatā+bheda+yuktā",
+     "gloss": "thirty-two-division-endowed",
+     "grounds": "compound: dvātriṃśat+bheda+yukta",
+     "morph": "compound: dvātriṃśat+bheda+yukta (tatpuruṣa), f.nom.sg"
+    },
+    {
+     "surface": "kubjikā",
+     "gloss": "kubjikā",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairava+āśritā",
+     "gloss": "bhairava-resorted-to",
+     "grounds": "compound: bhairava+āśrita",
+     "morph": "compound: bhairava+āśrita (tatpuruṣa), f.nom.sg"
+    }
+   ],
+   "question": "How is Kubjikā characterized in relation to divisions and Bhairava?",
+   "premises": [
+    "Kubjikā is endowed with thirty-two divisions.",
+    "Kubjikā is resorted to by or associated with Bhairava."
+   ],
+   "inference": "Kubjikā manifests in thirty-two divisions and is closely associated with Bhairava.",
+   "uncertainties": [
+    "bhairava+āśritā may mean sheltered by Bhairava or resorting to Bhairava."
+   ],
+   "plain_english": "Kubjikā, endowed with thirty-two divisions, is associated with Bhairava."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "eka+vaktrī",
+     "gloss": "one-faced",
+     "grounds": "compound: eka+vaktra",
+     "morph": "compound: eka+vaktra (bahuvrīhi), f.nom.sg"
+    },
+    {
+     "surface": "tri+netrā+ca",
+     "gloss": "three-eyed-and",
+     "grounds": "compound: tri+netra with conjunction",
+     "morph": "compound: tri+netra (bahuvrīhi), f.nom.sg + ca (indecl.)"
+    },
+    {
+     "surface": "mujā+aṣṭādaśa+dhāriṇam",
+     "gloss": "arms-eighteen-holding",
+     "grounds": "compound describing attribute; form as given",
+     "morph": "compound: mujā+aṣṭādaśa+dhāriṇ (bahuvrīhi-like), f.acc.sg"
+    }
+   ],
+   "question": "What physical attributes characterize the deity's face, eyes, and arms?",
+   "premises": [
+    "The deity has one face.",
+    "The deity has three eyes.",
+    "The deity holds eighteen arms."
+   ],
+   "inference": "The deity is iconographically described as one-faced, three-eyed, and eighteen-armed.",
+   "uncertainties": [
+    "The surface mujā+aṣṭādaśa+dhāriṇam is morphologically unusual as given."
+   ],
+   "plain_english": "She is one-faced, three-eyed, and bears eighteen arms."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "śaṃkhaṃ",
+     "gloss": "conch",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṇu+vādyaṃ+ca",
+     "gloss": "flute-instrument-and",
+     "grounds": "compound: veṇu+vādya with conjunction",
+     "morph": "compound: veṇu+vādya (tatpuruṣa), n.acc.sg + ca (indecl.)"
+    },
+    {
+     "surface": "vara+da+abhaya+dakṣiṇe",
+     "gloss": "boon-giving-fearlessness-right",
+     "grounds": "compound describing right-side gestures/attributes",
+     "morph": "compound: vara+da+abhaya+dakṣiṇa (bahuvrīhi/tatpuruṣa), n.loc.sg"
+    }
+   ],
+   "question": "What objects and gestures are held or displayed on the deity's right side?",
+   "premises": [
+    "A conch is present.",
+    "A flute instrument is present.",
+    "Boon-giving and fearlessness are associated with the right side."
+   ],
+   "inference": "The deity's right side displays a conch, a flute, and the gestures of boon-giving and fearlessness.",
+   "uncertainties": [
+    "The exact distribution of objects versus gestures in the compound is compressed."
+   ],
+   "plain_english": "On the right side she holds a conch and a flute, and displays boon-giving and fearlessness."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "ghaṇṭā+kapāla+veṇuṃ+ca",
+     "gloss": "bell-skull-flute-and",
+     "grounds": "compound list of objects with conjunction",
+     "morph": "compound: ghaṇṭā+kapāla+veṇu (dvandva-like), m.acc.sg + ca (indecl.)"
+    },
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "gesture or state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhaya+nāśanam",
+     "gloss": "fear-destroying",
+     "grounds": "compound: bhaya+nāśana",
+     "morph": "compound: bhaya+nāśana (tatpuruṣa), n.acc.sg"
+    }
+   ],
+   "question": "What additional objects and fear-dispelling attributes are held by the deity?",
+   "premises": [
+    "A bell, skull, and flute are held.",
+    "Fearlessness is present.",
+    "This fearlessness destroys fear."
+   ],
+   "inference": "The deity holds a bell, skull, and flute, and displays fearlessness that destroys fear.",
+   "uncertainties": [],
+   "plain_english": "She holds a bell, a skull, and a flute, and displays fearlessness that destroys fear."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "eka+vaktrā",
+     "gloss": "one-faced",
+     "grounds": "compound: eka+vaktra",
+     "morph": "compound: eka+vaktra (bahuvrīhi), f.nom.sg"
+    },
+    {
+     "surface": "tri+netrā",
+     "gloss": "three-eyed",
+     "grounds": "compound: tri+netra",
+     "morph": "compound: tri+netra (bahuvrīhi), f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aruṇā",
+     "gloss": "red",
+     "grounds": "color attribute",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varṇa+varṇitā",
+     "gloss": "color-described",
+     "grounds": "compound: varṇa+varṇita",
+     "morph": "compound: varṇa+varṇita (tatpuruṣa), f.nom.sg"
+    }
+   ],
+   "question": "What facial, ocular, and color attributes are ascribed to the deity in this description?",
+   "premises": [
+    "The deity is one-faced.",
+    "The deity is three-eyed.",
+    "The deity is described as red in color."
+   ],
+   "inference": "The deity is characterized as one-faced, three-eyed, and red.",
+   "uncertainties": [],
+   "plain_english": "She is one-faced, three-eyed, and described as red in color."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "nāga+ābharaṇa+bhūṣā+aṅgī",
+     "gloss": "snake-ornament-adorned-limbed",
+     "grounds": "compound: nāga+ābharaṇa+bhūṣā+aṅga",
+     "morph": "compound: nāga+ābharaṇa+bhūṣā+aṅga (bahuvrīhi), f.nom.sg"
+    },
+    {
+     "surface": "khaṇḍa+indu+kṛta+mastakā",
+     "gloss": "crescent-moon-made-head",
+     "grounds": "compound: khaṇḍa+indu+kṛta+mastaka",
+     "morph": "compound: khaṇḍa+indu+kṛta+mastaka (bahuvrīhi), f.nom.sg"
+    }
+   ],
+   "question": "What ornaments adorn the deity's body and head in this iconographic description?",
+   "premises": [
+    "Her limbs are adorned with snake ornaments.",
+    "Her head bears a crescent moon."
+   ],
+   "inference": "The deity is adorned with serpents and crowned with a crescent moon.",
+   "uncertainties": [],
+   "plain_english": "Her limbs are adorned with serpent ornaments, and her head is marked with a crescent moon."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "sarva+ābharaṇa+saṃśobhā",
+     "gloss": "all-ornaments-resplendent",
+     "grounds": "compound: sarva+ābharaṇa+saṃśobhā",
+     "morph": "compound: sarva+ābharaṇa+saṃśobhā (bahuvrīhi), f.nom.sg"
+    },
+    {
+     "surface": "lakṣaṇaiḥ+ca",
+     "gloss": "with-marks-and",
+     "grounds": "instrumental plural with conjunction",
+     "morph": "n.inst.pl + ca (indecl.)"
+    },
+    {
+     "surface": "su+śobhitā",
+     "gloss": "well-adorned",
+     "grounds": "compound: su+śobhita",
+     "morph": "compound: su+śobhita (karmadhāraya), f.nom.sg"
+    }
+   ],
+   "question": "How is the deity's overall splendor and auspicious marking described?",
+   "premises": [
+    "She is resplendent with all ornaments.",
+    "She is well adorned with auspicious marks."
+   ],
+   "inference": "The deity is fully resplendent, adorned with all ornaments and auspicious characteristics.",
+   "uncertainties": [],
+   "plain_english": "She shines with all ornaments and is beautifully adorned with auspicious marks."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "tatra+eva",
+     "gloss": "there-indeed",
+     "grounds": "locative emphasis",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "bahu+bhedā+asti",
+     "gloss": "many-divisions-exists",
+     "grounds": "compound subject with verb",
+     "morph": "compound: bahu+bheda (bahuvrīhi), f.nom.sg + 3.sg.present-active √as"
+    },
+    {
+     "surface": "kubjikā",
+     "gloss": "kubjikā",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kula+mārga+gā",
+     "gloss": "kula-path-going",
+     "grounds": "compound: kula+mārga+ga",
+     "morph": "compound: kula+mārga+ga (tatpuruṣa), f.nom.sg"
+    }
+   ],
+   "question": "In what manifold forms does Kubjikā exist within the Kula path?",
+   "premises": [
+    "Kubjikā exists there in many divisions.",
+    "She follows the Kula path."
+   ],
+   "inference": "Kubjikā manifests in many forms within the Kula path.",
+   "uncertainties": [],
+   "plain_english": "There indeed Kubjikā exists in many divisions, following the Kula path."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "kujeśa+nātha+vīreṇa",
+     "gloss": "by-kujeśa-lord-hero",
+     "grounds": "compound: kujeśa+nātha+vīra, agent",
+     "morph": "compound: kujeśa+nātha+vīra (tatpuruṣa), m.inst.sg"
+    },
+    {
+     "surface": "kuja+āmnāya+prakāśitā",
+     "gloss": "kuja-transmission-revealed",
+     "grounds": "compound: kuja+āmnāya+prakāśita",
+     "morph": "compound: kuja+āmnāya+prakāśita (tatpuruṣa), f.nom.sg"
+    }
+   ],
+   "question": "By whom was the Kuja transmission revealed according to this statement?",
+   "premises": [
+    "The Kuja transmission was revealed.",
+    "The agent is the heroic lord Kujeśanātha."
+   ],
+   "inference": "The heroic lord Kujeśanātha revealed the Kuja transmission.",
+   "uncertainties": [],
+   "plain_english": "The Kuja transmission was revealed by the heroic lord Kujeśanātha."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "krameśī",
+     "gloss": "krameśī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikhaṇḍā",
+     "gloss": "trikhaṇḍā",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahattāri",
+     "gloss": "mahattāri",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trikhaṇḍikā",
+     "gloss": "trikhaṇḍikā",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which four goddesses are enumerated together in this list of forms?",
+   "premises": [
+    "Krameśī is named.",
+    "Trikhaṇḍā is named.",
+    "Mahattāri and Trikhaṇḍikā are named."
+   ],
+   "inference": "The list includes Krameśī, Trikhaṇḍā, Mahattāri, and Trikhaṇḍikā.",
+   "uncertainties": [],
+   "plain_english": "Krameśī, Trikhaṇḍā, Mahattāri, and Trikhaṇḍikā."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "annapūrṇā",
+     "gloss": "annapūrṇā",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kapālī",
+     "gloss": "kapālī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jvālāmālinī",
+     "gloss": "jvālāmālinī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāminī",
+     "gloss": "kāminī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional goddesses are named in this continuation of the enumeration?",
+   "premises": [
+    "Annapūrṇā is named.",
+    "Kapālī is named.",
+    "Jvālāmālinī and Kāminī are named."
+   ],
+   "inference": "The enumeration continues with Annapūrṇā, Kapālī, Jvālāmālinī, and Kāminī.",
+   "uncertainties": [],
+   "plain_english": "Annapūrṇā, Kapālī, Jvālāmālinī, and Kāminī."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "brāhmī",
+     "gloss": "brāhmī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māheśvarī",
+     "gloss": "māheśvarī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "kaumārī",
+     "gloss": "kaumārī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavī",
+     "gloss": "vaiṣṇavī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Mātr̥kā goddesses are included in this part of the list?",
+   "premises": [
+    "Brāhmī and Māheśvarī are named.",
+    "Kaumārī and Vaiṣṇavī are named.",
+    "The list continues likewise."
+   ],
+   "inference": "The list includes the Mātr̥kās Brāhmī, Māheśvarī, Kaumārī, and Vaiṣṇavī.",
+   "uncertainties": [],
+   "plain_english": "Brāhmī, Māheśvarī, Kaumārī, and likewise Vaiṣṇavī."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "aṣṭamī",
+     "gloss": "eighth",
+     "grounds": "ordinal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahālakṣmī",
+     "gloss": "mahālakṣmī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjitāḥ",
+     "gloss": "worshipped",
+     "grounds": "past participle",
+     "morph": "f.nom.pl.past-passive-participle √pūj"
+    }
+   ],
+   "question": "What status is attributed to Mahālakṣmī and the other goddesses listed here?",
+   "premises": [
+    "Mahālakṣmī is named as the eighth.",
+    "These goddesses are referred to collectively.",
+    "They are worshipped everywhere."
+   ],
+   "inference": "Mahālakṣmī and the other named goddesses are universally worshipped.",
+   "uncertainties": [],
+   "plain_english": "And as the eighth, Mahālakṣmī; these are worshipped everywhere."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "kapālo",
+     "gloss": "kapāla",
+     "grounds": "name or epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīṣaṇa+ākhyaḥ+ca",
+     "gloss": "bhīṣaṇa-named-and",
+     "grounds": "compound: bhīṣaṇa+ākhya with conjunction",
+     "morph": "compound: bhīṣaṇa+ākhya (bahuvrīhi), m.nom.sg + ca (indecl.)"
+    },
+    {
+     "surface": "saṃhāraḥ",
+     "gloss": "saṃhāra",
+     "grounds": "name or epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca+aṣṭamaḥ+tathā",
+     "gloss": "and-eighth-likewise",
+     "grounds": "conjunction, ordinal, continuative",
+     "morph": "ca (indecl.) + m.nom.sg + tathā (indecl.)"
+    }
+   ],
+   "question": "Which figures are named in this sequence including one called Bhīṣaṇa and an eighth?",
+   "premises": [
+    "Kapāla is named.",
+    "One named Bhīṣaṇa is included.",
+    "Saṃhāra is named as the eighth likewise."
+   ],
+   "inference": "The sequence includes Kapāla, Bhīṣaṇa, and Saṃhāra as the eighth.",
+   "uncertainties": [
+    "The exact grouping and count within this verse are compressed."
+   ],
+   "plain_english": "Kapāla, and the one named Bhīṣaṇa, and Saṃhāra as the eighth likewise."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "gaṇeśaḥ",
+     "gloss": "gaṇeśa",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṭukaḥ",
+     "gloss": "vaṭuka",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣetra+yoginī+saṅgha+kāḥ",
+     "gloss": "field-yoginī-group-ones",
+     "grounds": "compound: kṣetra+yoginī+saṅgha+ka",
+     "morph": "compound: kṣetra+yoginī+saṅgha+ka (tatpuruṣa), m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "m.nom.pl.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "Which attendant deities and groups are traditionally remembered in this context?",
+   "premises": [
+    "Gaṇeśa is named.",
+    "Vaṭuka is named.",
+    "The groups of field yoginīs are remembered."
+   ],
+   "inference": "Gaṇeśa, Vaṭuka, and the groups of kṣetra-yoginīs are remembered as attendants.",
+   "uncertainties": [],
+   "plain_english": "Gaṇeśa, Vaṭuka, and the groups of field yoginīs are remembered."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "ḍākinī+ādi+mahā+rāvāḥ",
+     "gloss": "ḍākinī-etc-great-sounding",
+     "grounds": "compound: ḍākinī+ādi+mahā+rāva",
+     "morph": "compound: ḍākinī+ādi+mahā+rāva (bahuvrīhi), f.nom.pl"
+    },
+    {
+     "surface": "ṣaṭ+yoginyaḥ",
+     "gloss": "six-yoginīs",
+     "grounds": "compound: ṣaṣ+yoginī",
+     "morph": "compound: ṣaṣ+yoginī (dvigu), f.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "f.nom.pl.past-passive-participle √kīrt with pra"
+    }
+   ],
+   "question": "How many yoginīs beginning with Ḍākinī are proclaimed as great-sounding?",
+   "premises": [
+    "The group begins with Ḍākinī and others.",
+    "They are described as great-sounding.",
+    "They are proclaimed as six yoginīs."
+   ],
+   "inference": "Six great-sounding yoginīs, beginning with ḍākinī, are proclaimed.",
+   "uncertainties": [],
+   "plain_english": "The six yoginīs, beginning with Ḍākinī and making great sounds, are proclaimed."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "sākinī",
+     "gloss": "sākinī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hākinī",
+     "gloss": "hākinī",
+     "grounds": "deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past-passive-participle √vac"
+    },
+    {
+     "surface": "yākiṇyaḥ",
+     "gloss": "yākiṇīs",
+     "grounds": "deity name plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sapta+dhāravaḥ",
+     "gloss": "seven-streams",
+     "grounds": "compound: sapta+dhāra",
+     "morph": "compound: sapta+dhāra (bahuvrīhi), f.nom.pl"
+    }
+   ],
+   "question": "Which yoginīs are declared as constituting seven streams in this enumeration?",
+   "premises": [
+    "Sākinī and Hākinī are declared.",
+    "Yākiṇīs are mentioned.",
+    "They are described as having seven streams."
+   ],
+   "inference": "Sākinī, Hākinī, and the Yākiṇīs are declared as forming seven streams.",
+   "uncertainties": [
+    "The exact referent of sapta+dhāravaḥ and its agreement are somewhat unclear."
+   ],
+   "plain_english": "Sākinī and Hākinī are declared, and the Yākiṇīs are of seven streams."
+  }
+ ]
+}

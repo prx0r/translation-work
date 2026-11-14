@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "trikoṇa+madhya+gāṃ",
+     "gloss": "triangle-middle-gone",
+     "grounds": "fused compound adjective modifying devīṃ; accusative singular feminine form",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "direct object of the implied verbal sense",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "trikoṇa+maya+madhya+gām",
+     "gloss": "triangle-consisting-of-middle-gone",
+     "grounds": "fused compound adjective modifying devīṃ; maya marks consisting-of",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Which goddess is described as gone to the middle of the triangle and to the middle consisting of triangle?",
+   "premises": [
+    "The verse names a goddess.",
+    "It places her in triangle middle.",
+    "It repeats triangle-consisting middle."
+   ],
+   "inference": "The goddess is located in the triangular center.",
+   "uncertainties": [
+    "Exact syntactic relation of repeated compound unclear."
+   ],
+   "plain_english": "The goddess, gone to the middle of the triangle, is gone to the middle consisting of the triangle."
+  }
+ ]
+}

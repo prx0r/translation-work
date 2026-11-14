@@ -282,3 +282,41 @@ idempotent).
 Queue state is durable (`process/beam/queue.json`, untracked/live) and every
 completed verse is on disk under `process/beam/runs/` and committed once an
 ahnika assembles. Nothing is lost by pausing for hours.
+
+## 16. Unattended operation — the full stack (2026-11-13)
+
+Six systemd units run the whole loop. Nothing here needs a human to advance;
+humans only review meaning and approve PASS.
+
+| Unit | Role | What it does |
+|---|---|---|
+| `tw-wave.service` | **queue filler** | `burn_wave.sh` → `auto_burn.py` over every `mukta-m*` work: builds working-T1 (beam) → coverage gate → seeds 12–24v `tal_triple` tasks. Restarts always, so a second pass re-seeds anything missed. |
+| `tal-campaign.service` | **drafting supervisor** | `harness.sh`: health-gates beam, keeps `continue/watchdog/LOOP` alive, enforces workers `w1..w3` (staggered), runs assessor sweep, tries assembly, logs gates. |
+| `tw-assemble.service` | **auto-closer** | `assemble_all.py`: dynamically discovers every `working-t1-<song>.json`; when all verses have gloss+cm+am runs, runs `tal_stage` (assemble→validate→proof, dispositions honoured) and records PASS/BLOCKED. Fixed 2026-11-13 (was crashing on `Path.glob(recursive=)`; now covers ALL fronts, not a hardcoded 3). |
+| `tw-recycle.timer` | **failure recycler** | `recycle_failed.py`: halves + requeues retryable failed triples. |
+| `tw-watchdog.timer` | **heartbeat** | one JSON line to `process/beam/watchdog-progress.jsonl`. |
+| `tw-mcp.service` | **API** | `mcp_server.py --serve-http :8930` (tunnel → `mcp.svatantrya.net`). `promote`/`validate`/`assemble` all pass `--disp tools/proof-disp.json`. |
+
+Health check (30 seconds):
+```bash
+for u in tw-wave tal-campaign tw-assemble tw-mcp tw-recycle.timer tw-watchdog.timer; do
+  printf '%-18s ' $u; systemctl is-active $u; done
+python3 -c "import json;q=json.load(open('process/beam/queue.json'));from collections import Counter;print(Counter(t['status'] for t in q))"
+tail -3 /root/assemble_all.log; tail -3 process/beam/harness.log
+```
+
+Intervene only when: (a) `tw-wave` REFUSED a work (brief gate — write
+`process/beam/lore/<work>.md` with FACTS/TRAPS/Ledger), (b) a song is assembled
+but proof BLOCKED (assessor: dispositions in `tools/proof-disp.json` for
+verified sandhi, or fix the real defect), or (c) beam is paused >2h (account
+tier — wait, do not add workers).
+
+**Expansion / lore supply:** `tools/gen_briefs.py --apply` writes grounded
+per-work briefs (bibliography + tradition doctrine) for any onboarded front
+lacking one; `tools/onboard_wave.py --n N --max-verses M` onboards the next
+short untranslated works (brief first, then T1+seed) so the queue never starves.
+Both are idempotent and safe to run while workers drain.
+
+**Backup:** the loop commits locally each pass and `git push origin HEAD` (was
+hardcoded `master`; fixed 2026-11-13 so `burn/muktabodha` actually backs up).
+Full-disk mirror on R2: `r2:opencode2-root/fs` (r2root.sh) + package snapshots.

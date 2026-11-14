@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2950,
+   "rows": [
+    {
+     "surface": "yāvaddarpaṇasaṃkāśaṃ",
+     "gloss": "until-mirror-like",
+     "grounds": "yāvat (until) + darpaṇa-saṃkāśam (resembling a mirror); expresses the degree to be reached",
+     "morph": "compound.indecl+adj.n.acc.sg"
+    },
+    {
+     "surface": "śaivālaiś",
+     "gloss": "with-algae",
+     "grounds": "instrumental of śaivāla (algae/moss), the covering material",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "chādayettataḥ",
+     "gloss": "should-cover-thereafter",
+     "grounds": "chādayet (should cover) + tataḥ (thereafter); fused form kept as one token",
+     "morph": "verb.3.sg.act-optative+indecl., root √chad"
+    }
+   ],
+   "question": "What degree of reflectiveness must be achieved when covering the surface with algae in this procedure?",
+   "premises": [
+    "The wise ritual actor has already spread the prepared powders.",
+    "Algae are to be used as the covering material.",
+    "The covering must continue until a mirror-like appearance is attained."
+   ],
+   "inference": "Therefore, the ritual actor should thereafter cover the surface with algae until it becomes mirror-like.",
+   "uncertainties": [],
+   "plain_english": "Thereafter, one should cover it with algae until it becomes as reflective as a mirror."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb expressing injunction to perform worship",
+     "morph": "3.sg.act-opt √pūj"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "with-supreme",
+     "grounds": "qualifies the devotion as highest or supreme",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrument expressing the manner of worship",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pratipīṭhaphalaṃ",
+     "gloss": "each-seat-fruit",
+     "grounds": "compound indicating the fruit corresponding to each pīṭha",
+     "morph": "prati+pīṭha+phala n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-obtains",
+     "grounds": "optative verb expressing the result attained",
+     "morph": "3.sg.act-opt √labh"
+    }
+   ],
+   "question": "What result is attained by worship performed with supreme devotion at each sacred seat?",
+   "premises": [
+    "Worship should be performed with supreme devotion.",
+    "The worship pertains to each sacred seat (pīṭha).",
+    "Each sacred seat has an associated fruit or reward."
+   ],
+   "inference": "Therefore, worship with supreme devotion yields the fruit of each sacred seat.",
+   "uncertainties": [],
+   "plain_english": "One should worship with supreme devotion and thereby obtain the fruit of each sacred seat."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "śivaśaktikeralākhyaṃ",
+     "gloss": "śiva-śakti-kerala-named",
+     "grounds": "compound adjective modifying the triad; names the triad as śiva-śakti-kerala",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tritayaṃ",
+     "gloss": "triad",
+     "grounds": "accusative singular neuter noun modified by the adjective",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "is-declared",
+     "grounds": "past participle agreeing with triad in gender number and case",
+     "morph": "part.acc.sg.n"
+    }
+   ],
+   "question": "Which named triad is declared across the three transmission lineages?",
+   "premises": [
+    "Three transmission lineages yield three triads.",
+    "The triad is named śiva-śakti-kerala.",
+    "It is declared in the text."
+   ],
+   "inference": "Thus the declared triad is the śiva-śakti-kerala triad.",
+   "uncertainties": [
+    "The exact referent of kerala remains unclear."
+   ],
+   "plain_english": "The triad named śiva-śakti-kerala is declared."
+  }
+ ]
+}

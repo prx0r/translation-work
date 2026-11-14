@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "gaṃgāsaro",
+     "gloss": "ganges-lake",
+     "grounds": "compound identifying the bathing place as equivalent to the Ganges-lake",
+     "morph": "compound.gaṅgā+saras.n.nom.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "prescriptive recognition of the site's equivalence",
+     "morph": "3.sg.optative.act vi-√jñā"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior ritual action performed at the specified time and place",
+     "morph": "(indecl.) absolutive √snā"
+    },
+    {
+     "surface": "viṣṇupuraṃ",
+     "gloss": "vishnu-abode",
+     "grounds": "destination attained as the fruit of the ritual bath",
+     "morph": "compound.viṣṇu+pura.n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "one-would-go",
+     "grounds": "resulting attainment following the prescribed bath and recognition",
+     "morph": "3.sg.optative.act √vraj"
+    }
+   ],
+   "question": "What ritual equivalence and post-mortem destination are attained by bathing during the specified astrological conjunction?",
+   "premises": [
+    "Bathing occurs during the astrological conjunction described in the preceding verses.",
+    "The bathing site should be recognized as equivalent to the Ganges-lake.",
+    "Ritual bathing with this recognition yields a specific transcendent destination."
+   ],
+   "inference": "Therefore, one who bathes at that time and place should regard it as the Ganges-lake and thereby attains Viṣṇu’s abode.",
+   "uncertainties": [
+    "The exact syntactic role of gaṃgāsaro as predicate or object in this compressed expression is context-dependent."
+   ],
+   "plain_english": "Having bathed there, one should know it to be like the Ganges-lake and would go to the abode of Viṣṇu."
+  }
+ ]
+}

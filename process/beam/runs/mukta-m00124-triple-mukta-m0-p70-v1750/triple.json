@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "satyakāya",
+     "gloss": "to-Satyaka",
+     "grounds": "dative recipient of the offering in the ritual sequence",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "badaryāstu",
+     "gloss": "of-jujube-indeed",
+     "grounds": "fused form containing badaryāḥ (jujube) and tu (indeed); specifies the source of the fruit",
+     "morph": "f.sg.gen+indecl."
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "object of the offering implied from the preceding context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhusamanvitam",
+     "gloss": "honey-accompanied",
+     "grounds": "compound describing the fruit as endowed with honey",
+     "morph": "compound:madhu-samanvitam;n.acc.sg"
+    }
+   ],
+   "question": "What specific offering is prescribed for the deity Satyaka in this ritual sequence?",
+   "premises": [
+    "Satyaka is named as the recipient of an offering.",
+    "The offering consists of jujube fruit.",
+    "The jujube fruit is accompanied by honey."
+   ],
+   "inference": "Therefore, Satyaka should be given jujube fruit accompanied by honey.",
+   "uncertainties": [
+    "The verb of giving is implied from the preceding verses rather than stated explicitly."
+   ],
+   "plain_english": "To Satyaka one should offer jujube fruit accompanied by honey."
+  }
+ ]
+}

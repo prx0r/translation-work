@@ -1,0 +1,93 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "kīrtiḥ",
+     "gloss": "fame",
+     "grounds": "A blessing invoked for renown; nominative subject of the benediction.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "prosperity",
+     "grounds": "A blessing invoked for auspicious fortune; nominative subject of the benediction.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "radiance",
+     "grounds": "A blessing invoked for beauty or splendor; nominative subject of the benediction.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "putrāḥ",
+     "gloss": "sons",
+     "grounds": "A blessing invoked for offspring; nominative subject of the benediction.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "āyuḥ",
+     "gloss": "long-life",
+     "grounds": "A blessing invoked for lifespan; nominative subject of the benediction.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "balaṃ",
+     "gloss": "strength",
+     "grounds": "A blessing invoked for physical or vital power; nominative subject of the benediction.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārogyaṃ",
+     "gloss": "health",
+     "grounds": "A blessing invoked for freedom from disease; nominative subject of the benediction.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "Indicates the enduring or continual nature of the invoked blessings.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "Optative benediction expressing the wish that the blessings be realized.",
+     "morph": "3.sg.imperative-act √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "Addresses the recipient of the benediction.",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "Marks the preceding words as the formula to be uttered.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utthāpayet",
+     "gloss": "one-should-raise",
+     "grounds": "Prescribes the ritual act of raising the practitioner while uttering the formula.",
+     "morph": "3.sg.optative-act caus. √ud-sthā"
+    }
+   ],
+   "question": "Which blessings must be invoked when ritually raising the practitioner with this formula?",
+   "premises": [
+    "The formula invokes fame, prosperity, radiance, sons, long life, strength, and health.",
+    "The particle 'iti' marks these words as a prescribed utterance.",
+    "The verb 'utthāpayet' enjoins raising the practitioner while reciting the formula."
+   ],
+   "inference": "During the ritual raising, the officiant should pronounce this benediction so that enduring fame, prosperity, radiance, offspring, life, strength, and health are conferred upon the recipient.",
+   "uncertainties": [
+    "Whether 'putrāḥ' is intended specifically as sons or more generally as offspring is not explicit in the verse."
+   ],
+   "plain_english": "One should raise the practitioner while saying: 'May fame, prosperity, radiance, sons, long life, strength, and health always be yours.'"
+  }
+ ]
+}

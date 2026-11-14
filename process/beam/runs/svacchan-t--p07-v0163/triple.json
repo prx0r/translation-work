@@ -1,0 +1,419 @@
+{
+ "song": "sva-p07",
+ "items": [
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "pūrvoktavaktrasaṃdhivilakṣaṇaḥ",
+     "gloss": "distinct-from-previously-stated-mouth-junction",
+     "grounds": "compound adjective describing a distinct form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "should-be-done",
+     "grounds": "verbal adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of action is to be performed here?",
+   "premises": [
+    "The action is distinct from the previously stated mouth-junction.",
+    "It is to be performed."
+   ],
+   "inference": "The prescribed action differs from the earlier mouth-junction procedure.",
+   "uncertainties": [
+    "Exact ritual referent is not specified."
+   ],
+   "plain_english": "It should be done in a way distinct from the previously stated mouth-junction."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "svacchandabhairavātmakaṃ",
+     "gloss": "of-svacchanda-bhairava-nature",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācyadevatārūpam",
+     "gloss": "spoken-deity-form",
+     "grounds": "compound noun phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "iti plus arthaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the spoken deity form?",
+   "premises": [
+    "The form is of Svacchanda Bhairava nature.",
+    "It is the spoken deity form."
+   ],
+   "inference": "The spoken deity form is understood as Svacchanda Bhairava in nature.",
+   "uncertainties": [
+    "No further ritual detail is given."
+   ],
+   "plain_english": "The meaning is the spoken deity form of Svacchanda Bhairava nature."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "japaprakaraṇe",
+     "gloss": "in-japa-section",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nirṇīto",
+     "gloss": "decided",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṅgavaddevyā",
+     "gloss": "limb-like-goddess",
+     "grounds": "compound phrase",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "devavad",
+     "gloss": "god-like",
+     "grounds": "compound adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityanye",
+     "gloss": "others-thus",
+     "grounds": "iti plus anye",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do others describe the decided japa section?",
+   "premises": [
+    "The japa section has been decided.",
+    "Others describe it as limb-like goddess and god-like."
+   ],
+   "inference": "The decided japa section is characterized by limb-like goddess and god-like aspects.",
+   "uncertainties": [
+    "The exact relation between the two characterizations is unclear."
+   ],
+   "plain_english": "In the japa section, as decided, others describe it as limb-like goddess and god-like."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "yatheccham",
+     "gloss": "as-desired",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naimittikaḥ",
+     "gloss": "occasional",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmyo",
+     "gloss": "desired",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of rites may be performed as desired?",
+   "premises": [
+    "The rite may be as desired.",
+    "It may be occasional or desired."
+   ],
+   "inference": "The rite is either occasional or desired, performed as desired.",
+   "uncertainties": [
+    "No specific rite is named."
+   ],
+   "plain_english": "As desired, it may be occasional or desired."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "sitaraktapītakṛṣṇaiḥ",
+     "gloss": "white-red-yellow-black",
+     "grounds": "compound instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śamanākṛṣṭipauṣṭikam",
+     "gloss": "pacifying-attracting-nourishing",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is accomplished by white red yellow and black?",
+   "premises": [
+    "White, red, yellow, and black are used.",
+    "Pacifying, attracting, and nourishing are accomplished."
+   ],
+   "inference": "The four colors serve pacifying, attracting, and nourishing purposes.",
+   "uncertainties": [
+    "Color-to-purpose mapping is not explicit."
+   ],
+   "plain_english": "By white, red, yellow, and black, pacifying, attracting, and nourishing are accomplished."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "kāryam",
+     "gloss": "should-be-done",
+     "grounds": "verbal adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalguṣam",
+     "gloss": "phalgu",
+     "grounds": "adjective or noun form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛmāṃsam",
+     "gloss": "human-flesh",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be done with phalgu and human flesh?",
+   "premises": [
+    "Something should be done.",
+    "Phalgu and human flesh are mentioned."
+   ],
+   "inference": "The prescribed action concerns phalgu and human flesh.",
+   "uncertainties": [
+    "The exact action is not fully stated."
+   ],
+   "plain_english": "It should be done with phalgu, thus human flesh."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "akhaṇḍitaiḥ",
+     "gloss": "unbroken",
+     "grounds": "instrumental plural adjective",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root hu"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the remainder be offered?",
+   "premises": [
+    "It is made unbroken.",
+    "The remainder should be offered."
+   ],
+   "inference": "The remainder should be offered after making it unbroken.",
+   "uncertainties": [
+    "What exactly is made unbroken is not stated."
+   ],
+   "plain_english": "Having made it unbroken, one should offer the remainder."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "viracitoddyotākhyavyākhyopete",
+     "gloss": "equipped-with-composed-uddyota-commentary",
+     "grounds": "compound adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "arcādhikāro",
+     "gloss": "worship-chapter",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "adjective or participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the name of the second chapter?",
+   "premises": [
+    "The worship chapter is named.",
+    "It is the second chapter.",
+    "It is equipped with the composed Uddyota commentary."
+   ],
+   "inference": "The second chapter is named the worship chapter, equipped with the Uddyota commentary.",
+   "uncertainties": [
+    "No verse range is given."
+   ],
+   "plain_english": "The second chapter, named the worship chapter, is equipped with the composed Uddyota commentary."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "antarikṣaṃ",
+     "gloss": "mid-air",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuvolokaḥ",
+     "gloss": "earth-world",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "spaṣṭam",
+     "gloss": "clear",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is clear besides mid-air and earth-world?",
+   "premises": [
+    "Mid-air and earth-world are mentioned.",
+    "The other is clear."
+   ],
+   "inference": "Besides mid-air and earth-world, the other matter is clear.",
+   "uncertainties": [
+    "The other matter is not specified."
+   ],
+   "plain_english": "Mid-air and earth-world are clear; the other is also clear."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "nirṇītapūrvam",
+     "gloss": "decided-before",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What has already been decided?",
+   "premises": [
+    "The matter has been decided before."
+   ],
+   "inference": "The matter under discussion was already decided earlier.",
+   "uncertainties": [
+    "The exact matter is not stated."
+   ],
+   "plain_english": "It was decided before."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "pāṭhe",
+     "gloss": "in-reading",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "abhiprāyaḥ",
+     "gloss": "intention",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the intention in the reading?",
+   "premises": [
+    "The reading is under discussion.",
+    "The intention is stated."
+   ],
+   "inference": "The intention belongs to the reading being discussed.",
+   "uncertainties": [
+    "The specific intention is not given."
+   ],
+   "plain_english": "The intention is in the reading."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "tadanatikrameṇa",
+     "gloss": "by-non-transgression-of-that",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "iti plus arthaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of non-transgression of that?",
+   "premises": [
+    "Non-transgression of that is mentioned.",
+    "The meaning is stated."
+   ],
+   "inference": "The meaning is non-transgression of that.",
+   "uncertainties": [
+    "The referent of that is not explicit."
+   ],
+   "plain_english": "The meaning is by non-transgression of that."
+  }
+ ]
+}

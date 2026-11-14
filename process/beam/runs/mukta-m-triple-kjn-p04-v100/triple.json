@@ -1,0 +1,51 @@
+{
+ "song": "kjn-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "amaratvaṃ",
+     "gloss": "immortality",
+     "grounds": "amara (immortal) + tva (abstract noun suffix), accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhaveddevi",
+     "gloss": "would-be-O-goddess",
+     "grounds": "bhavet (optative of bhū) + devi (vocative goddess), sandhi fused",
+     "morph": "verb 3sg.opt.act + n.voc.sg.f"
+    },
+    {
+     "surface": "jayenmṛtyuṃ",
+     "gloss": "conquers-death",
+     "grounds": "jayet (optative of ji) + mṛtyum (accusative death), sandhi fused",
+     "morph": "verb 3sg.opt.act + n.acc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "saṃśaya (doubt) nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What certain outcome follows from attaining immortality in this teaching?",
+   "premises": [
+    "Immortality would arise.",
+    "Death is conquered.",
+    "No doubt remains."
+   ],
+   "inference": "Immortality and conquest of death are certain.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as combined tokens."
+   ],
+   "plain_english": "Immortality would be, O goddess; death is conquered, without doubt."
+  }
+ ]
+}

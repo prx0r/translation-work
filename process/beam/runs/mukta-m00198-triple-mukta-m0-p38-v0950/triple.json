@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "pādonadvyaṃśa",
+     "gloss": "quarter-less-two-parts",
+     "grounds": "compound indicating a measure of a quarter diminished by two parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṃcāḥ",
+     "gloss": "platforms",
+     "grounds": "the raised platforms or stages",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talīpoccaṃ",
+     "gloss": "base-height",
+     "grounds": "compound denoting the height of the base",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddvayam",
+     "gloss": "that-pair",
+     "grounds": "refers to the two aforementioned elements together",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the platforms and the base height?",
+   "premises": [
+    "The platforms are specified as measuring a quarter less two parts.",
+    "The base height is included alongside the platforms in this specification.",
+    "Both the platforms and the base height together constitute that pair."
+   ],
+   "inference": "The platforms and the base height are jointly defined by the measurement of a quarter less two parts.",
+   "uncertainties": [
+    "The exact unit or reference scale for the measure pādonadvyaṃśa is not explicitly stated in this verse."
+   ],
+   "plain_english": "The platforms and the base height are both measured as a quarter less two parts."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "labhante",
+     "gloss": "obtain",
+     "grounds": "present indicative active third plural of labh, 'obtain'",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "putrapautrādyaiḥ",
+     "gloss": "sons-grandsons-etc",
+     "grounds": "instrumental plural masculine of putrapautrādi, 'sons, grandsons, and the rest'",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "edhante",
+     "gloss": "prosper",
+     "grounds": "present indicative active third plural of edh, 'prosper, grow'",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "sampadanvitāḥ",
+     "gloss": "wealth-endowed",
+     "grounds": "nominative plural masculine of sampadanvita, 'endowed with wealth or prosperity'",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What benefits do practitioners gain from obtaining a qualified wife?",
+   "premises": [
+    "Qualified wife obtained effortlessly",
+    "Sons and grandsons follow",
+    "Wealth-endowed practitioners prosper"
+   ],
+   "inference": "Obtaining a qualified wife leads to progeny and prosperity",
+   "uncertainties": [
+    "Exact subject and object are elided from the immediate context"
+   ],
+   "plain_english": "They obtain such a wife, prosper with sons and grandsons, and are endowed with wealth"
+  }
+ ]
+}

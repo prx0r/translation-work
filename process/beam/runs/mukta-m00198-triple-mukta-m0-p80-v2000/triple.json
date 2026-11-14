@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "stanākṣaṃ",
+     "gloss": "breast-nipple",
+     "grounds": "compound of stana and akṣa denoting the nipple; taken as the measured item",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the nipple",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "yavavyāsaṃ",
+     "gloss": "barley-breadth",
+     "grounds": "compound of yava and vyāsa indicating a measure equal to a barley grain's width",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "compound of dvi and aṅgula indicating a measure of two finger-widths",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "stanamaṇḍalam",
+     "gloss": "breast-circle",
+     "grounds": "compound of stana and maṇḍala denoting the circular area of the breast",
+     "morph": "compound.n.nom.sg"
+    }
+   ],
+   "question": "What specific measurements define the nipple and the breast-circle in the prescribed iconometry?",
+   "premises": [
+    "The nipple is specified as having the breadth of a barley grain.",
+    "The breast-circle is specified as measuring two finger-widths."
+   ],
+   "inference": "The verse assigns distinct proportional measures to the nipple and the breast-circle.",
+   "uncertainties": [
+    "Whether stanākṣaṃ refers specifically to the nipple or more generally to the breast's central point is context-dependent."
+   ],
+   "plain_english": "The nipple is of barley-breadth, and the breast-circle is two fingers in measure."
+  }
+ ]
+}

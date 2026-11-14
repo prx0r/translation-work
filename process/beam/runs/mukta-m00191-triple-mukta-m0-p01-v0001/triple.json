@@ -1,0 +1,1138 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "pṛcchati",
+     "gloss": "asks",
+     "grounds": "verb of inquiry",
+     "morph": "3.sg.pres.act √praś"
+    },
+    {
+     "surface": "sma",
+     "gloss": "indeed",
+     "grounds": "particle marking past or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "speaker, epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "speak",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √brū"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "object of the request",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maheśvara",
+     "gloss": "great-lord",
+     "grounds": "addressee, epithet of Śiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What knowledge does the great goddess request the great lord to reveal?",
+   "premises": [
+    "The great goddess asks a question.",
+    "She addresses the great lord directly.",
+    "She requests him to speak knowledge."
+   ],
+   "inference": "The dialogue opens with the goddess seeking revealed knowledge from the lord.",
+   "uncertainties": [],
+   "plain_english": "The great goddess indeed asks: \"Great lord, speak the knowledge.\""
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "brahmajñānaṃ",
+     "gloss": "brahman-knowledge",
+     "grounds": "compound object of inquiry",
+     "morph": "brahman+knowledge n.acc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative asking about manner or nature",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sṛṣṭisaṃhāravarjitam",
+     "gloss": "creation-dissolution-devoid",
+     "grounds": "compound qualifying brahman-knowledge",
+     "morph": "creation+dissolution+devoid n.acc.sg"
+    }
+   ],
+   "question": "How can brahman-knowledge be understood as devoid of creation and dissolution?",
+   "premises": [
+    "Brahman-knowledge is the topic of inquiry.",
+    "The goddess asks about its manner or nature.",
+    "It is described as devoid of creation and dissolution."
+   ],
+   "inference": "The sought knowledge of brahman transcends the processes of creation and dissolution.",
+   "uncertainties": [],
+   "plain_english": "O god, how is brahman-knowledge devoid of creation and dissolution?"
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "avyaktaṃ",
+     "gloss": "unmanifest",
+     "grounds": "qualifies knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahman",
+     "grounds": "possessive relation to knowledge",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "subject being characterized",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭisaṃhāra",
+     "gloss": "creation-dissolution",
+     "grounds": "first member of compound",
+     "morph": "creation+dissolution (compound member)"
+    },
+    {
+     "surface": "varjitam",
+     "gloss": "devoid",
+     "grounds": "predicate qualifying knowledge",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characterizes the unmanifest knowledge of brahman regarding creation and dissolution?",
+   "premises": [
+    "The knowledge of brahman is unmanifest.",
+    "This knowledge belongs to brahman.",
+    "It is devoid of creation and dissolution."
+   ],
+   "inference": "Brahman-knowledge is unmanifest and free from creation and dissolution.",
+   "uncertainties": [],
+   "plain_english": "The unmanifest knowledge of brahman is devoid of creation and dissolution."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first item in a list of practices",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual practice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tapo",
+     "gloss": "austerity",
+     "grounds": "ascetic practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "contemplative practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmākarma",
+     "gloss": "action-non-action",
+     "grounds": "compound pairing opposed modes",
+     "morph": "action+non-action n.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual and contemplative practices are enumerated alongside action and non-action?",
+   "premises": [
+    "Mantra, worship, austerity, and meditation are listed.",
+    "Action and non-action are included.",
+    "The list is connected by additive particles."
+   ],
+   "inference": "A range of ritual, ascetic, contemplative, and actional modes is being enumerated.",
+   "uncertainties": [
+    "The syntactic role of the list in the larger argument is not explicit in this verse alone."
+   ],
+   "plain_english": "Mantra, worship, austerity, meditation, and likewise action and non-action."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "dharmaśāstrapurāṇāni",
+     "gloss": "dharma-scriptures-purāṇas",
+     "grounds": "compound naming textual traditions",
+     "morph": "dharma-scripture+purāṇas n.nom.pl"
+    },
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the sciences",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vidyāḥ",
+     "gloss": "sciences",
+     "grounds": "subject identified as fourteen",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "numeral specifying the sciences",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the dharma scriptures and purāṇas related to the fourteen sciences?",
+   "premises": [
+    "Dharma scriptures and purāṇas are named.",
+    "They are identified as these sciences.",
+    "The sciences are counted as fourteen."
+   ],
+   "inference": "The dharma scriptures and purāṇas are included among the fourteen sciences.",
+   "uncertainties": [],
+   "plain_english": "The dharma scriptures and purāṇas are these fourteen sciences."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "brahmajñānaṃ",
+     "gloss": "brahman-knowledge",
+     "grounds": "object of knowing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "state",
+     "grounds": "appositional or qualifying term for brahman-knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "prior action leading to result",
+     "morph": "(gerund) √jñā"
+    },
+    {
+     "surface": "sarvavidyā",
+     "gloss": "all-sciences",
+     "grounds": "compound subject of becoming firm",
+     "morph": "all+sciences f.nom.sg"
+    },
+    {
+     "surface": "sthirā",
+     "gloss": "firm",
+     "grounds": "resulting state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What effect does knowing the state of brahman-knowledge have on all sciences?",
+   "premises": [
+    "One may know brahman-knowledge as a state.",
+    "All sciences are the subject of the result.",
+    "The result is that they may become firm."
+   ],
+   "inference": "Knowing the state of brahman-knowledge stabilizes all sciences.",
+   "uncertainties": [],
+   "plain_english": "Having known the state of brahman-knowledge, all sciences may become firm."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "particle indicating contrast or further point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbhavī",
+     "gloss": "śāmbhavī",
+     "grounds": "name qualifying the science",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "science",
+     "grounds": "subject being described",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guptā",
+     "gloss": "hidden",
+     "grounds": "predicate describing secrecy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulavadhūr",
+     "gloss": "family-woman",
+     "grounds": "compound used in comparison",
+     "morph": "family+woman f.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "particle of comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the śāmbhavī science characterized in terms of secrecy and concealment?",
+   "premises": [
+    "The śāmbhavī science is the subject.",
+    "It is described as hidden.",
+    "It is compared to a family woman."
+   ],
+   "inference": "The śāmbhavī science is secret and guarded like a woman of the family.",
+   "uncertainties": [],
+   "plain_english": "But that śāmbhavī science is hidden, like a woman of the family."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "dehasthāḥ",
+     "gloss": "in-body-situated",
+     "grounds": "compound predicate locating holy places",
+     "morph": "body+situated n.nom.pl"
+    },
+    {
+     "surface": "sarvatīrthāni",
+     "gloss": "all-holy-places",
+     "grounds": "compound subject",
+     "morph": "all+holy-places n.nom.pl"
+    },
+    {
+     "surface": "guruvākyena",
+     "gloss": "by-guru-word",
+     "grounds": "instrumental means of attainment",
+     "morph": "guru+word n.ins.sg"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.pres.pass √labh"
+    }
+   ],
+   "question": "How are all holy places obtained when they are situated within the body?",
+   "premises": [
+    "All holy places are situated in the body.",
+    "The guru's word is the means.",
+    "They are obtained through that means."
+   ],
+   "inference": "The guru's word reveals that all holy places are attained within the body.",
+   "uncertainties": [],
+   "plain_english": "All holy places are situated in the body and are obtained through the guru's word."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "dharma",
+     "gloss": "dharma",
+     "grounds": "first item in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "second item in a list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japyam",
+     "gloss": "recitation",
+     "grounds": "third item in a list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative summarizing the list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "quantifier for the summarized items",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nivartate",
+     "gloss": "ceases",
+     "grounds": "predicate indicating cessation",
+     "morph": "3.sg.pres.mid √nivṛt"
+    }
+   ],
+   "question": "What happens to dharma, action, and recitation in this context of knowledge?",
+   "premises": [
+    "Dharma, action, and recitation are enumerated.",
+    "They are summarized as all this.",
+    "All this ceases."
+   ],
+   "inference": "Dharma, action, and recitation come to cessation.",
+   "uncertainties": [
+    "The specific condition causing cessation is implied by context rather than stated in this verse."
+   ],
+   "plain_english": "Dharma, action, and likewise recitation—all this ceases."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "dehamadhye",
+     "gloss": "in-body-middle",
+     "grounds": "compound indicating location",
+     "morph": "body+middle n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "subject located in the body",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṇyapāpavivarjitaḥ",
+     "gloss": "merit-sin-devoid",
+     "grounds": "compound predicate describing the god",
+     "morph": "merit+sin+devoid m.nom.sg"
+    }
+   ],
+   "question": "What is the nature of the god located in the middle of the body?",
+   "premises": [
+    "The god is in the middle of the body.",
+    "The god is described as devoid of merit and sin."
+   ],
+   "inference": "The divine presence within the body transcends merit and sin.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in the middle of the body is the god, devoid of merit and sin."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "iḍāpiṅgalayor",
+     "gloss": "of-iḍā-piṅgalā",
+     "grounds": "dual compound naming two channels",
+     "morph": "iḍā+piṅgalā f.gen.du"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location between the two channels",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "suṣumnā",
+     "gloss": "suṣumnā",
+     "grounds": "central channel named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvatī",
+     "grounds": "additional name or identification of the channel",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which channel is identified in the middle of iḍā and piṅgalā?",
+   "premises": [
+    "Iḍā and piṅgalā form a pair.",
+    "The middle between them is specified.",
+    "Suṣumnā and sarasvatī are named there."
+   ],
+   "inference": "Suṣumnā, also called sarasvatī, is located between iḍā and piṅgalā.",
+   "uncertainties": [
+    "Whether sarasvatī is an epithet of suṣumnā or a distinct channel is not fully explicit."
+   ],
+   "plain_english": "In the middle of iḍā and piṅgalā are suṣumnā and sarasvatī."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive or optative prescription",
+     "morph": "3.sg.opt.mid pra-√kṛ"
+    },
+    {
+     "surface": "sarvapāpaiḥ",
+     "gloss": "from-all-sins",
+     "grounds": "compound indicating what one is freed from",
+     "morph": "all+sins n.ins.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "is-liberated",
+     "grounds": "result of the prescribed act",
+     "morph": "3.sg.pres.pass pra-√muc"
+    }
+   ],
+   "question": "What result follows from performing bathing in that central channel?",
+   "premises": [
+    "Bathing should be performed there.",
+    "All sins are the source of bondage.",
+    "One is liberated from all sins."
+   ],
+   "inference": "Bathing in that place brings liberation from all sins.",
+   "uncertainties": [],
+   "plain_english": "One should perform bathing there and is liberated from all sins."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "kīdṛśī",
+     "gloss": "of-what-kind",
+     "grounds": "interrogative asking about nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhyātmavidyā",
+     "gloss": "spiritual-science",
+     "grounds": "compound object of inquiry",
+     "morph": "spiritual+science f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative object of speaking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the answer",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "speak",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √brū"
+    },
+    {
+     "surface": "maheśvara",
+     "gloss": "great-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What is the nature of spiritual science that the goddess asks the great lord to explain?",
+   "premises": [
+    "The goddess asks about spiritual science.",
+    "She wants to know what kind it is.",
+    "She requests the great lord to speak it to her."
+   ],
+   "inference": "The goddess seeks a definition or characterization of spiritual science from the lord.",
+   "uncertainties": [],
+   "plain_english": "And what kind is spiritual science? Tell me that, great lord."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "seal",
+     "grounds": "predicate identifying the subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicarantī",
+     "gloss": "moving",
+     "grounds": "present participle describing activity",
+     "morph": "f.nom.sg.pres.act vi-√car"
+    },
+    {
+     "surface": "khecarī",
+     "gloss": "khecarī",
+     "grounds": "name of the seal",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the moving khecarī identified in relation to the seal?",
+   "premises": [
+    "The subject is identified as that very one.",
+    "It is called the seal.",
+    "It is described as moving and named khecarī."
+   ],
+   "inference": "The moving khecarī is identified as that very seal.",
+   "uncertainties": [],
+   "plain_english": "She indeed is the seal, moving as khecarī."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "science",
+     "grounds": "predicate identifying the subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicarantī",
+     "gloss": "moving",
+     "grounds": "present participle describing activity",
+     "morph": "f.nom.sg.pres.act vi-√car"
+    },
+    {
+     "surface": "śāmbhavī",
+     "gloss": "śāmbhavī",
+     "grounds": "name of the science",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the moving śāmbhavī identified in relation to the science?",
+   "premises": [
+    "The subject is identified as that very one.",
+    "It is called the science.",
+    "It is described as moving and named śāmbhavī."
+   ],
+   "inference": "The moving śāmbhavī is identified as that very science.",
+   "uncertainties": [],
+   "plain_english": "She indeed is the science, moving as śāmbhavī."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "darśanāni",
+     "gloss": "views",
+     "grounds": "subject of becoming",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative asking about manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "come-to-be",
+     "grounds": "verb of arising or existence",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb indicating distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "repeated adverb emphasizing distinction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the various philosophical views come to be distinct from one another?",
+   "premises": [
+    "Philosophical views are the subject.",
+    "The question asks how they come to be.",
+    "They are described as separate, separate."
+   ],
+   "inference": "The goddess asks for an explanation of how distinct philosophical views arise.",
+   "uncertainties": [],
+   "plain_english": "O god, how do the various views come to be, each separate from the others?"
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "prakṛtivādaratāḥ",
+     "gloss": "nature-doctrine-devoted",
+     "grounds": "compound describing the śāktas",
+     "morph": "nature-doctrine+devoted m.nom.pl"
+    },
+    {
+     "surface": "śāktā",
+     "gloss": "śāktas",
+     "grounds": "group named",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bauddhā",
+     "gloss": "buddhists",
+     "grounds": "group named",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śūnyātivādinaḥ",
+     "gloss": "void-extreme-proponents",
+     "grounds": "compound describing the buddhists",
+     "morph": "void+extreme+proponents m.nom.pl"
+    }
+   ],
+   "question": "Which doctrines characterize the śāktas and the buddhists in this enumeration?",
+   "premises": [
+    "The śāktas are devoted to the doctrine of nature.",
+    "The buddhists are named.",
+    "The buddhists are proponents of the extreme doctrine of void."
+   ],
+   "inference": "Śāktas are associated with nature-doctrine and buddhists with the doctrine of void.",
+   "uncertainties": [],
+   "plain_english": "The śāktas are devoted to the doctrine of nature, and the buddhists are proponents of the extreme doctrine of void."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "subject of negation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "verb of existence",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cārvākā",
+     "gloss": "cārvākas",
+     "grounds": "group making the claim",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jalpanti",
+     "gloss": "prattle",
+     "grounds": "verb describing their speech",
+     "morph": "3.pl.pres.act √jalp"
+    },
+    {
+     "surface": "viṣayāśritāḥ",
+     "gloss": "sense-objects-resorting",
+     "grounds": "compound describing the cārvākas",
+     "morph": "sense-objects+resorting m.nom.pl"
+    }
+   ],
+   "question": "What claim do the cārvākas make while resorting to sense objects?",
+   "premises": [
+    "The cārvākas resort to sense objects.",
+    "They prattle a claim.",
+    "Their claim is that all is not."
+   ],
+   "inference": "The cārvākas, attached to sense objects, assert that nothing exists.",
+   "uncertainties": [
+    "The exact scope of 'all is not' in this context may be broader than literal non-existence."
+   ],
+   "plain_english": "Resorting to sense objects, the cārvākas prattle, saying, \"All is not.\""
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "pañcabhūtaṃ",
+     "gloss": "five-elements",
+     "grounds": "compound topic of inquiry",
+     "morph": "five+elements n.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative asking about manner or nature",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "guṇāḥ",
+     "gloss": "qualities",
+     "grounds": "subject of inquiry",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ke",
+     "gloss": "which",
+     "grounds": "interrogative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcaviṃśatiḥ",
+     "gloss": "twenty-five",
+     "grounds": "numeral associated with qualities",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the five elements and their twenty-five qualities to be understood?",
+   "premises": [
+    "The five elements are asked about.",
+    "The qualities are asked about.",
+    "The number twenty-five is mentioned."
+   ],
+   "inference": "The goddess asks how the five elements relate to twenty-five qualities.",
+   "uncertainties": [
+    "The syntactic relation between 'qualities' and 'twenty-five' is compressed in this verse."
+   ],
+   "plain_english": "O god, how are the five elements, and which are the twenty-five qualities?"
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "pṛthvī",
+     "gloss": "earth",
+     "grounds": "element named as subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcaguṇā",
+     "gloss": "five-qualities",
+     "grounds": "compound predicate describing earth",
+     "morph": "five+qualities f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "predicate indicating traditional teaching",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmajñānena",
+     "gloss": "by-brahman-knowledge",
+     "grounds": "instrumental means by which it shines",
+     "morph": "brahman+knowledge n.ins.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.pres.mid √bhās"
+    }
+   ],
+   "question": "How is earth with five qualities said to shine through brahman-knowledge?",
+   "premises": [
+    "Earth is declared to have five qualities.",
+    "Brahman-knowledge is the instrumental means.",
+    "Earth shines through brahman-knowledge."
+   ],
+   "inference": "Earth, possessing five qualities, is manifested through brahman-knowledge.",
+   "uncertainties": [],
+   "plain_english": "Earth is declared to have five qualities and shines through brahman-knowledge."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "apāṃ",
+     "gloss": "of-waters",
+     "grounds": "element named in possessive form",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pañcaguṇāḥ",
+     "gloss": "five-qualities",
+     "grounds": "compound predicate describing waters",
+     "morph": "five+qualities m.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "predicate indicating traditional teaching",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "brahmajñānena",
+     "gloss": "by-brahman-knowledge",
+     "grounds": "instrumental means by which it shines",
+     "morph": "brahman+knowledge n.ins.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.pres.mid √bhās"
+    }
+   ],
+   "question": "How are the waters with five qualities said to shine through brahman-knowledge?",
+   "premises": [
+    "The waters are declared to have five qualities.",
+    "Brahman-knowledge is the instrumental means.",
+    "They shine through brahman-knowledge."
+   ],
+   "inference": "The waters, possessing five qualities, are manifested through brahman-knowledge.",
+   "uncertainties": [
+    "The grammatical agreement between apāṃ and pañcaguṇāḥ/proktā is irregular in form."
+   ],
+   "plain_english": "The waters are declared to have five qualities and shine through brahman-knowledge."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "tejaḥ",
+     "gloss": "fire",
+     "grounds": "element named as subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaguṇāḥ",
+     "gloss": "five-qualities",
+     "grounds": "compound predicate describing fire",
+     "morph": "five+qualities m.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "predicate indicating traditional teaching",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "brahmajñānena",
+     "gloss": "by-brahman-knowledge",
+     "grounds": "instrumental means by which it shines",
+     "morph": "brahman+knowledge n.ins.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.pres.mid √bhās"
+    }
+   ],
+   "question": "How is fire with five qualities said to shine through brahman-knowledge?",
+   "premises": [
+    "Fire is declared to have five qualities.",
+    "Brahman-knowledge is the instrumental means.",
+    "Fire shines through brahman-knowledge."
+   ],
+   "inference": "Fire, possessing five qualities, is manifested through brahman-knowledge.",
+   "uncertainties": [
+    "The grammatical agreement between tejaḥ and pañcaguṇāḥ/proktā is irregular in form."
+   ],
+   "plain_english": "Fire is declared to have five qualities and shines through brahman-knowledge."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "vāyoḥ",
+     "gloss": "of-wind",
+     "grounds": "element named in possessive form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pañcaguṇāḥ",
+     "gloss": "five-qualities",
+     "grounds": "compound predicate describing wind",
+     "morph": "five+qualities m.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "predicate indicating traditional teaching",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "brahmajñānena",
+     "gloss": "by-brahman-knowledge",
+     "grounds": "instrumental means by which it shines",
+     "morph": "brahman+knowledge n.ins.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.pres.mid √bhās"
+    }
+   ],
+   "question": "How is wind with five qualities said to shine through brahman-knowledge?",
+   "premises": [
+    "Wind is declared to have five qualities.",
+    "Brahman-knowledge is the instrumental means.",
+    "Wind shines through brahman-knowledge."
+   ],
+   "inference": "Wind, possessing five qualities, is manifested through brahman-knowledge.",
+   "uncertainties": [
+    "The grammatical agreement between vāyoḥ and pañcaguṇāḥ/proktā is irregular in form."
+   ],
+   "plain_english": "Wind is declared to have five qualities and shines through brahman-knowledge."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "nabhaḥ",
+     "gloss": "ether",
+     "grounds": "element named as subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaguṇāḥ",
+     "gloss": "five-qualities",
+     "grounds": "compound predicate describing ether",
+     "morph": "five+qualities m.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "predicate indicating traditional teaching",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "brahmajñānena",
+     "gloss": "by-brahman-knowledge",
+     "grounds": "instrumental means by which it shines",
+     "morph": "brahman+knowledge n.ins.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.pres.mid √bhās"
+    }
+   ],
+   "question": "How is ether with five qualities said to shine through brahman-knowledge?",
+   "premises": [
+    "Ether is declared to have five qualities.",
+    "Brahman-knowledge is the instrumental means.",
+    "Ether shines through brahman-knowledge."
+   ],
+   "inference": "Ether, possessing five qualities, is manifested through brahman-knowledge.",
+   "uncertainties": [
+    "The grammatical agreement between nabhaḥ and pañcaguṇāḥ/proktā is irregular in form."
+   ],
+   "plain_english": "Ether is declared to have five qualities and shines through brahman-knowledge."
+  }
+ ]
+}

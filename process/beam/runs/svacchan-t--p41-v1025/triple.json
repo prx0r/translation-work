@@ -1,0 +1,33 @@
+{
+ "song": "sva-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "base maṇḍala with accusative singular ending",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pradhānabhuvanam",
+     "gloss": "principal-world",
+     "grounds": "compound of pradhāna and bhuvana in accusative singular",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "Which world is identified with the maṇḍala?",
+   "premises": [
+    "maṇḍala denotes the ritual circle",
+    "pradhānabhuvanam denotes the principal world",
+    "the verse equates maṇḍala with principal world"
+   ],
+   "inference": "maṇḍala is identified as the principal world",
+   "uncertainties": [
+    "exact syntactic relation is omitted (copula implied)"
+   ],
+   "plain_english": "The maṇḍala is the principal world."
+  }
+ ]
+}

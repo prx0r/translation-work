@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "bandho",
+     "gloss": "bondage",
+     "grounds": "nominal stem bandha; final visarga elided before following voiced consonant in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "nominal stem mokṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "nominal stem sukha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhogo",
+     "gloss": "enjoyment",
+     "grounds": "nominal stem bhoga; final visarga becomes o before avagraha-initial vowel in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'yogaḥ",
+     "gloss": "non-yoga",
+     "grounds": "avagraha marks elided initial a of ayoga; negating prefix a- with yoga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "nominal stem satya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṇur",
+     "gloss": "atomic",
+     "grounds": "nominal stem aṇu; final s becomes r before following voiced consonant in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahān",
+     "gloss": "great",
+     "grounds": "nominal stem mahat in strong form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which contrasting states and qualities are affirmed together as real within this enumeration?",
+   "premises": [
+    "Bondage and liberation are listed as paired conditions.",
+    "Happiness, enjoyment, and non-yoga are included among the enumerated states.",
+    "Truth, the atomic, and the great are presented alongside these conditions."
+   ],
+   "inference": "Opposing experiential and ontological conditions are affirmed together as real.",
+   "uncertainties": [
+    "The syntactic role of this list within the surrounding passage is not supplied by the verse alone."
+   ],
+   "plain_english": "Bondage, liberation, happiness, enjoyment, non-yoga, truth, the atomic, and the great."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "prasannavadanāḥ",
+     "gloss": "pleased-faced",
+     "grounds": "prasanna (pleased) + vadana (face), plural nominative feminine describing the Śaktis",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "smerā",
+     "gloss": "smiling",
+     "grounds": "adjective smiling, plural nominative feminine describing the Śaktis",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "varābhayakarānvitāḥ",
+     "gloss": "boon-fearlessness-hand-endowed",
+     "grounds": "compound varā (boon) + abhaya (fearlessness) + kara (hand) + anvitā (endowed), plural nominative feminine",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "What facial and hand attributes characterize these earth-dwelling Śaktis as gracious?",
+   "premises": [
+    "They are pleased-faced.",
+    "They are smiling.",
+    "They bear boon and fearlessness hands."
+   ],
+   "inference": "These Śaktis appear gracious and protective.",
+   "uncertainties": [
+    "The exact referent of 'they' depends on the preceding context."
+   ],
+   "plain_english": "They have pleased faces, smile, and are endowed with hands granting boons and fearlessness."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p272",
+ "items": [
+  {
+   "verse": 6800,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the previously mentioned mahānavamī",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "mahānavamī",
+     "gloss": "great-ninth-day",
+     "grounds": "name of the sacred ninth day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental expressing designation",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tryailokye",
+     "gloss": "in-three-worlds",
+     "grounds": "locative indicating scope across the three worlds",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ati",
+     "gloss": "exceedingly",
+     "grounds": "indeclinable intensifier modifying sudurlabhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudurlabhā",
+     "gloss": "very-rare",
+     "grounds": "predicate describing extreme rarity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What degree of rarity does the day called Mahānavamī possess in the three worlds?",
+   "premises": [
+    "That day is designated by the name Mahānavamī.",
+    "Its status is evaluated across the three worlds.",
+    "It is characterized as exceedingly difficult to obtain."
+   ],
+   "inference": "Therefore, the day called Mahānavamī is exceedingly rare throughout the three worlds.",
+   "uncertainties": [],
+   "plain_english": "That day, known by the name Mahānavamī, is exceedingly rare in the three worlds."
+  }
+ ]
+}

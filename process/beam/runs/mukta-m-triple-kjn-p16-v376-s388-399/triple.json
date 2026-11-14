@@ -1,0 +1,575 @@
+{
+ "song": "kjn-p16",
+ "items": [
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "ūrddha+retā",
+     "gloss": "upward-semen",
+     "grounds": "fused compound as given; technical Nātha term for retained seminal energy.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "optative of bhū in instructional context.",
+     "morph": "3.sg.opt.act/bhū"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "agent of retained energy in Kaula instruction.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation marking a restrictive clause.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "repeated term to mark a contrastive class.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karata(?",
+     "gloss": "by-hand",
+     "grounds": "surface as edited; lacunose/truncated form — cannot be securely normalized; treat as given.",
+     "morph": "(indecl./uncertain)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to a female interlocutor common in this didactic passage.",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What restrictive condition must hold for a yogin of retained semen to count as such rather than by some other means?",
+   "premises": [
+    "A yogin of retained semen is said to become so under a stated condition.",
+    "The negation sets apart one class of yogin from another class of yogin.",
+    "A truncated instrumental/agentive term marks a contrastive means that is not the operative one here."
+   ],
+   "inference": "The verse draws a class distinction: the title yogin turns on a specific mode of practice, not on a hand-based means, though the exact means remains partially obscured by a lacuna.",
+   "uncertainties": [
+    "Token karata(? is truncated in the transmitted text; its case/derivation cannot be fixed with certainty.",
+    "The scope of the contrast between the two yogī tokens is clear in function but not fully explicit due to the lacuna."
+   ],
+   "plain_english": "The yogin with upward-retained semen becomes such — not just any yogin by hand, O beloved."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "durlabhan",
+     "gloss": "hard-to-get",
+     "grounds": "predicative adjective qualifying the cakra as rare in this teaching.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "adversative/confirmatory particle marking emphasis.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "deictic pointing to a cakra taught in the immediate instructional context.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "technical diagrammatic/object term in Kaula instruction; not glossed generically as wheel alone.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "existential negation of a comparative standard.",
+     "morph": "3.sg.pres.act/as"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "accusative standard of comparison for what is said to be higher.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "imam+param",
+     "gloss": "higher-than-this",
+     "grounds": "fused comparative as given; analyzed as given form, internal relation noted in grounds without splitting the row.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "On what basis does this teaching claim that the cakra in question is rarer than any yoga taught as a standard of comparison?",
+   "premises": [
+    "This cakra is affirmed to be hard to obtain.",
+    "There is no yoga that stands as its equal or standard above it in the stated comparison.",
+    "The fused comparative marks a relation of superiority to 'this' without positing another named yoga as higher."
+   ],
+   "inference": "The verse makes a superlative claim of rarity: the cakra is not merely difficult, but has no higher yoga as a point of comparison within the scope of this instruction.",
+   "uncertainties": [
+    "The precise referent of 'this cakra' is not recoverable from these seven tokens alone.",
+    "It is uncertain whether 'yoga' here means a general discipline or a specific named yoga in this lacunose chapter."
+   ],
+   "plain_english": "Indeed, this circle is hard to obtain; there is no yoga higher than this one."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "abhyāse",
+     "gloss": "in-practice",
+     "grounds": "locative of abhyāsa marking the sphere in which the result arises.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "confirmatory particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pada+abhyasta",
+     "gloss": "step-practiced",
+     "grounds": "fused compound as given; denotes something practiced step by step, not a single act.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "mahat+āścarya+kārakam",
+     "gloss": "great-wonder-causing",
+     "grounds": "fused compound as given; predicate of the result produced by such practice.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What kind of result is claimed to arise when practice is carried out in a stepwise manner rather than all at once?",
+   "premises": [
+    "The locus of effect is practice itself.",
+    "What is practiced is characterized as step-practiced.",
+    "That which arises from it is characterized as great-wonder-causing."
+   ],
+   "inference": "In this instruction, efficacy is attributed to graduated, stepwise practice, and its fruit is said to be a cause of great wonder.",
+   "uncertainties": [
+    "The exact referent of 'step-practiced' (a posture, a mantra-step, or a sequence) cannot be determined from these tokens alone.",
+    "The scope of 'great wonder' is not specified in this verse."
+   ],
+   "plain_english": "Indeed, in practice, what is practiced step by step brings about great wonder."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "bhavate",
+     "gloss": "becomes",
+     "grounds": "present of bhū used in a gnomic/instructional assertion.",
+     "morph": "3.sg.pres.act/bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of doubt.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "deictic to this teaching/practice context.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃdehaḥ",
+     "gloss": "doubt",
+     "grounds": "nominal subject of negation.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satata+abhyāsa+tatparāḥ",
+     "gloss": "constant-practice-devoted",
+     "grounds": "fused compound as given; describes those for whom the preceding claim holds.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "For whom is doubt ruled out in this teaching about the practice just stated?",
+   "premises": [
+    "A positive claim about the practice is in force from the preceding context.",
+    "Doubt is negated here.",
+    "The negation is restricted to those devoted to constant practice."
+   ],
+   "inference": "The verse does not rule out doubt in general, but rules it out for those who are devoted to constant practice.",
+   "uncertainties": [
+    "The exact claim from which doubt would arise is not present in verse 391 itself and must be inferred from 390.",
+    "No criterion beyond 'devoted to constant practice' is given here."
+   ],
+   "plain_english": "For those devoted to constant practice, there is no doubt here."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "pratimā+jalpanan",
+     "gloss": "image-muttering",
+     "grounds": "fused compound as given; denotes muttering in relation to an image, a mantra-use context attested in this passage.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tasmi(n",
+     "gloss": "in-that",
+     "grounds": "surface as edited (nasal before consonant context); locative deictic pointing to the image/muttering context as given.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ghaṭa+pāṣāṇa+sphoṭanam",
+     "gloss": "pot-stone-breaking",
+     "grounds": "fused compound as given; states a striking effect attributed to that practice, not a general simile by default.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What effect is claimed to follow from muttering in relation to an image within that specified context?",
+   "premises": [
+    "The practice specified is image-muttering.",
+    "That practice is located in 'that' context.",
+    "An effect described as pot-stone-breaking is attributed to it."
+   ],
+   "inference": "The verse attributes a forceful breaking effect to image-muttering in that context, treating the effect as a claim of this instructional passage rather than a mere comparison.",
+   "uncertainties": [
+    "Token tasmi(n is orthographically truncated as edited; its exact sandhi boundary is not recoverable.",
+    "Whether ghaṭa+pāṣāṇa+sphoṭanam is literal, alchemical, or figurative cannot be decided from these three tokens alone."
+   ],
+   "plain_english": "By image-muttering in that context, pot and stone are broken."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "brahma+viṣṇu+yama+indrāś",
+     "gloss": "brahma-vishnu-yama-indra",
+     "grounds": "fused compound/list as given; names deities in a series without expansion.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "copulative joining the series.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varuṇo",
+     "gloss": "varuna",
+     "grounds": "nominative form joining the list.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāyur",
+     "gloss": "vayu",
+     "grounds": "nominative form with final -r by sandhi as transmitted; kept as given.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle limiting or stressing the list.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "copulative closing/continuing the series.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What function does this series of deities serve in the argument of the passage, given that it is listed rather than described?",
+   "premises": [
+    "A fixed series of major deities is enumerated.",
+    "Copulatives and eva mark the list as a complete or emphatic set.",
+    "No predicates of action are supplied by verse 393 itself."
+   ],
+   "inference": "Verse 393 functions enumeratively: it presents a set of deities as a given list in this instruction, with its argumentative force depending on the surrounding verses rather than on internal predication.",
+   "uncertainties": [
+    "The syntactic role of this list (subject of an unexpressed verb, witnesses, or recipients) cannot be fixed from these six tokens alone.",
+    "No individual function is assigned to any deity here."
+   ],
+   "plain_english": "Brahmā, Viṣṇu, Yama, and Indra, and Varuṇa and Vāyu indeed, and also..."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "gandharvāḥ",
+     "gloss": "gandharvas",
+     "grounds": "nominal member of a class list common in Kaula siddhi contexts.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kinnarā",
+     "gloss": "kinnaras",
+     "grounds": "nominal form as transmitted; kept exactly as given.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yakṣā",
+     "gloss": "yakshas",
+     "grounds": "nominal form as transmitted; kept exactly as given.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nāgā",
+     "gloss": "nagas",
+     "grounds": "nominal form as transmitted; kept exactly as given.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vidyādharāḥ",
+     "gloss": "vidyadharas",
+     "grounds": "class term with strong Kaula/Yoginī associations.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address resuming the interlocutory form of verse 388.",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What class of beings is being presented here, and what claim about them is left to be supplied by the surrounding instruction?",
+   "premises": [
+    "A list of non-human classes is enumerated in the nominative.",
+    "The address priye frames the list didactically.",
+    "No verb or predicate is present in verse 394 itself."
+   ],
+   "inference": "The verse enumerates classes associated with siddhi (gandharvas, kinnaras, yakṣas, nāgas, vidyādharas); its force is enumerative, and any claim of appearance/subjection/attendance must come from adjacent verses.",
+   "uncertainties": [
+    "Syntactic role is undecidable from these tokens alone.",
+    "It is uncertain whether these are said to appear, to be controlled, or simply to be known in this passage."
+   ],
+   "plain_english": "Gandharvas, Kinnaras, Yakṣas, Nāgas, and Vidyādharas — O beloved."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "nakṣatra+tāraka+upetaṃ",
+     "gloss": "constellation-star-endowed",
+     "grounds": "fused compound as given; adjectival to what follows, describing it as endowed with constellations and stars.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "brahmāṇḍa+parighaṭṭitam",
+     "gloss": "universe-encompassed",
+     "grounds": "fused compound as given; adjectival; denotes encompassment of the brahmāṇḍa, kept as a single token.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What object is being described by these two adjectival compounds, and is that object asserted or merely characterized here?",
+   "premises": [
+    "Two fused adjectival compounds are given in sequence.",
+    "No noun is expressed within verse 395.",
+    "Characterization is of something endowed with stars and encompassed in relation to the universe."
+   ],
+   "inference": "Verse 395 is purely attributive: it characterizes an unexpressed object (to be supplied by context, possibly from 394 or 396), without asserting existence or action by itself.",
+   "uncertainties": [
+    "The head noun is ellipted and cannot be recovered with certainty from these two tokens alone.",
+    "It is undecidable whether the description is cosmological, mandalic, or of a subtle object in this practice."
+   ],
+   "plain_english": "Endowed with constellations and stars, encompassed as the universe."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "darśayet",
+     "gloss": "may-show",
+     "grounds": "causative optative of dṛś; agent not expressed.",
+     "morph": "3.sg.opt.caus/dṛś"
+    },
+    {
+     "surface": "svaka+piṇḍaṃ",
+     "gloss": "own-body",
+     "grounds": "fused compound as given; direct object of the causative, referring to one's own embodied form.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "satata+dhyānāt",
+     "gloss": "constant-meditation-from",
+     "grounds": "fused compound as given; ablative of source/means indicating the condition for the showing.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "aneka+dhā",
+     "gloss": "many-ways",
+     "grounds": "adverbial compound as given; manner of the showing.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "Under what condition is it claimed that one's own body may be shown in many ways, and who is the unexpressed agent?",
+   "premises": [
+    "A causative verb of showing is used without an explicit agent.",
+    "The object is one's own body.",
+    "The means/condition is constant meditation, and the manner is in many ways."
+   ],
+   "inference": "The verse claims that, by constant meditation, (an unexpressed agent, likely the yogin or a power activated in practice) may cause one's own body to appear in many ways.",
+   "uncertainties": [
+    "The agent is ellipted; in Kaula instruction this is often left unexpressed, but cannot be forced here.",
+    "Whether 'show' means visionary appearance, transformation, or display of siddhic form is not specified."
+   ],
+   "plain_english": "By constant meditation, one's own body may be shown in many ways."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "abhyāsād",
+     "gloss": "from-practice",
+     "grounds": "ablative of abhyāsa marking source of the siddhi.",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dadate",
+     "gloss": "gives",
+     "grounds": "present of dā; subject unexpressed.",
+     "morph": "3.pl.pres.act/dā"
+    },
+    {
+     "surface": "siddhir",
+     "gloss": "accomplishment",
+     "grounds": "nominative subject in form but placed after verb here; kept as transmitted with sandhi -r.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "adverbial numeral indicating manner/division of the siddhi.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstra+coditā",
+     "gloss": "scripture-enjoined",
+     "grounds": "fused compound as given; adjectival to siddhi, marking its source as scripture-enjoined.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What is claimed to be the source and form of the accomplishment said to be given, given that the giver is left unexpressed?",
+   "premises": [
+    "Practice is the source from which something is given.",
+    "An accomplishment is said to give/be given in eightfold form.",
+    "That accomplishment is characterized as scripture-enjoined."
+   ],
+   "inference": "From practice arises an eightfold accomplishment, scripture-enjoined; the verse states the gift/form of siddhi without naming the giver, a common ellipsis in this instructional genre.",
+   "uncertainties": [
+    "The unexpressed subject of dadate is undecidable (practice, the teacher, a deity/power).",
+    "The content of the 'eightfold' siddhi is not enumerated in verse 397."
+   ],
+   "plain_english": "From practice comes accomplishment, eightfold and scripture-enjoined."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "sataḥ",
+     "gloss": "to-worthy",
+     "grounds": "dative/ablative form as transmitted; marks the recipient qualified as worthy.",
+     "morph": "m.dat./abl.sg"
+    },
+    {
+     "surface": "kaulam+idaṃ",
+     "gloss": "this-kaula",
+     "grounds": "fused compound as given; object/thing to be given, named as this kaula teaching.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive of dā marking obligation/permission.",
+     "morph": "n.nom.sg/gerundive"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the second gerundive.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive repeated for contrastive restriction.",
+     "morph": "n.nom.sg/gerundive"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "to-whom",
+     "grounds": "relative pronoun marking an unqualified recipient.",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "to-anyone",
+     "grounds": "indefinite pronoun intensifying the restriction.",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "What restriction governs transmission of this kaula teaching, and on what qualification is that restriction based?",
+   "premises": [
+    "This kaula teaching is to be given to the worthy.",
+    "It is not to be given to just anyone.",
+    "The restriction is drawn by a relative/indefinite referring to an unqualified person."
+   ],
+   "inference": "Transmission is strictly qualified: the kaula teaching is fit to be given only to the worthy, and must not be given to an unqualified person.",
+   "uncertainties": [
+    "The positive criteria for 'worthy' (sataḥ) are not specified in verse 398.",
+    "In a lacunose chapter the exact scope of 'this kaula teaching' is not fully recoverable from this verse alone."
+   ],
+   "plain_english": "This kaula teaching is to be given to the worthy; it is not to be given to just anyone."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "etat+uddharaṇaṃ",
+     "gloss": "this-extraction",
+     "grounds": "fused compound as given; refers to this extracted teaching/content as the object to be concealed.",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "gopyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "gerundive of gup marking a duty of concealment.",
+     "morph": "n.nom.sg/gerundive"
+    },
+    {
+     "surface": "nityan",
+     "gloss": "always",
+     "grounds": "adverb of time as transmitted; kept exactly as given.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "confirmatory/adversative particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛta+niścayaḥ",
+     "gloss": "firmly-resolved",
+     "grounds": "fused compound as given; describes the person bound to that duty.",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What duty is imposed on a firmly resolved person with regard to this extracted teaching, and is that duty stated as absolute?",
+   "premises": [
+    "This extraction is to be concealed.",
+    "The concealment is to be done always.",
+    "That duty falls to one who is firmly resolved."
+   ],
+   "inference": "The verse closes this group with a duty of secrecy: for the firmly resolved, this extracted teaching must always be concealed.",
+   "uncertainties": [
+    "The referent of 'this extraction' is not explicit in verse 399 and must be inferred from 397–398.",
+    "It is uncertain whether 'always' means at all times or in all circumstances without exception in this instruction."
+   ],
+   "plain_english": "This extraction is indeed to be concealed always by one who is firmly resolved."
+  }
+ ]
+}

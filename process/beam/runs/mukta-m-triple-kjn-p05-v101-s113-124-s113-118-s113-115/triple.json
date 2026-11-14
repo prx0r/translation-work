@@ -1,0 +1,149 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsād",
+     "gloss": "from-six-months",
+     "grounds": "ablative of time",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "abhyased",
+     "gloss": "should-practice",
+     "grounds": "optative of abhyas",
+     "morph": "3.sg.act.opt. (abhyas)"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṣāyaṃ",
+     "gloss": "ochre-robe",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bandha+varjitam",
+     "gloss": "free-from-bondage",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n (compound: bandha+varjita)"
+    }
+   ],
+   "question": "What practice, after six months, frees the ochre-robed practitioner from bondage and disease and unites him with yogis?",
+   "premises": [
+    "Six months of practice frees from bondage.",
+    "The practitioner wears an ochre robe.",
+    "Freedom from bondage precedes yogic union."
+   ],
+   "inference": "The verse prescribes six-month practice leading to liberation and union with yogis.",
+   "uncertainties": [
+    "Exact gender of kāṣāyaṃ is inferred from context."
+   ],
+   "plain_english": "Whoever practices for six months, wearing an ochre robe free from bondage, becomes free from all diseases and joins the yogis in union; this practice of the soul has been told to you, O Bhairavi."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "sarva+vyādhi+vinirmukto",
+     "gloss": "freed-from-all-diseases",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m (compound: sarva+vyādhi+vinirmukta)"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "with-yogis",
+     "grounds": "instrumental plural",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "saha+melakam",
+     "gloss": "together-union",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n (compound: saha+melaka)"
+    }
+   ],
+   "question": "What practice, after six months, frees the ochre-robed practitioner from bondage and disease and unites him with yogis?",
+   "premises": [
+    "Freedom from all diseases is attained.",
+    "Union occurs with yogis.",
+    "The union is together with them."
+   ],
+   "inference": "The verse states the practitioner becomes disease-free and joins yogis in union.",
+   "uncertainties": [
+    "The exact syntactic role of saha+melakam is inferred."
+   ],
+   "plain_english": "Whoever practices for six months, wearing an ochre robe free from bondage, becomes free from all diseases and joins the yogis in union; this practice of the soul has been told to you, O Bhairavi."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "dat.sg.2"
+    },
+    {
+     "surface": "jīva+abhyāsaṃ",
+     "gloss": "practice-of-the-soul",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n (compound: jīva+abhyāsa)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "ppp.acc.sg.n (kath)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "dat.sg.2"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavi",
+     "gloss": "o-bhairavī",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What practice, after six months, frees the ochre-robed practitioner from bondage and disease and unites him with yogis?",
+   "premises": [
+    "This practice is told to you.",
+    "It is the practice of the soul.",
+    "The addressee is Bhairavi."
+   ],
+   "inference": "The verse identifies the teaching as the practice of the soul addressed to Bhairavi.",
+   "uncertainties": [
+    "The exact referent of etat is inferred from context."
+   ],
+   "plain_english": "Whoever practices for six months, wearing an ochre robe free from bondage, becomes free from all diseases and joins the yogis in union; this practice of the soul has been told to you, O Bhairavi."
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence following prior instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "specifies the time for the practice",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "object of the prescribed action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "yathāśaktyā",
+     "gloss": "according-to-ability",
+     "grounds": "qualifies the extent of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-due-order",
+     "grounds": "qualifies the manner of performance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition or emphasis in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation practice is prescribed for the nighttime and in what manner should it be performed?",
+   "premises": [
+    "The nighttime period follows the previously described observances.",
+    "Recitation is the prescribed action for that period.",
+    "The recitation should be performed according to one's ability and in due order."
+   ],
+   "inference": "Therefore, one should perform recitation at night according to one's ability and in the proper sequence.",
+   "uncertainties": [],
+   "plain_english": "Then, at night, one should perform recitation according to one's ability and in due order."
+  }
+ ]
+}

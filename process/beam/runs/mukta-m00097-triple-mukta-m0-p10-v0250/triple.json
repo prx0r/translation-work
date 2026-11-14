@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "dṛṣṭyaiva",
+     "gloss": "by-sight-alone",
+     "grounds": "instrumental of dṛṣṭi plus eva, indicating sight alone as means",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "ākarṣayet",
+     "gloss": "one-attracts",
+     "grounds": "causative optative third singular active",
+     "morph": "3.sg.act.opt.+root-ākṛṣ"
+    },
+    {
+     "surface": "lokaṃ",
+     "gloss": "world",
+     "grounds": "accusative singular masculine object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭyaiva",
+     "gloss": "by-sight-alone",
+     "grounds": "repeated instrumental of dṛṣṭi plus eva",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "third singular middle present of kṛ",
+     "morph": "3.sg.mid.pres+root-kṛ"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "subjugation",
+     "grounds": "accusative singular neuter result",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How can the practitioner attract and subjugate the world by sight alone?",
+   "premises": [
+    "sight alone attracts the world",
+    "sight alone brings the world under control"
+   ],
+   "inference": "The verse teaches that visual power alone suffices for attraction and subjugation.",
+   "uncertainties": [
+    "whether vaśam implies full control or ritual subjugation"
+   ],
+   "plain_english": "By sight alone one attracts the world; by sight alone one brings it under control."
+  }
+ ]
+}

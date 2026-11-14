@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "śrīdā",
+     "gloss": "prosperity-giving",
+     "grounds": "compound describing the neem-born entity as granting prosperity",
+     "morph": "śrī+dā; f.nom.sg"
+    },
+    {
+     "surface": "nimbajā",
+     "gloss": "neem-born",
+     "grounds": "compound naming the entity born from the neem",
+     "morph": "nimba+jā; f.nom.sg"
+    },
+    {
+     "surface": "roganāśinī",
+     "gloss": "disease-destroying",
+     "grounds": "compound describing the neem-born entity as destroying disease",
+     "morph": "roga+nāśinī; f.nom.sg"
+    }
+   ],
+   "question": "What beneficial powers are attributed to the neem-born entity?",
+   "premises": [
+    "The neem-born entity is characterized as prosperity-giving.",
+    "The neem-born entity is characterized as disease-destroying.",
+    "These attributes define its beneficial effects."
+   ],
+   "inference": "The neem-born entity both grants prosperity and destroys disease.",
+   "uncertainties": [],
+   "plain_english": "The neem-born one grants prosperity and destroys disease."
+  }
+ ]
+}

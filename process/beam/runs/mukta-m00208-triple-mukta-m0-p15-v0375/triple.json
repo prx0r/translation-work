@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "tatkāryaṃ",
+     "gloss": "that-act",
+     "grounds": "compound of tat and kāryam, referring to the ritual act",
+     "morph": "acc.sg.n (compound tat-kāryam)"
+    },
+    {
+     "surface": "manasi",
+     "gloss": "in-mind",
+     "grounds": "locative indicating the locus of recollection",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "smṛtvā",
+     "gloss": "having-remembered",
+     "grounds": "absolutive expressing prior mental recollection",
+     "morph": "absolutive (smṛ)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates attainment of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāphalamaśnute",
+     "gloss": "worship-fruit-enjoys",
+     "grounds": "compound pūjā-phala with verb aśnute; fused form kept as one token",
+     "morph": "3.sg.pres.mid (aś)"
+    }
+   ],
+   "question": "Does mere mental recollection of a ritual act secure the fruit of worship?",
+   "premises": [
+    "A ritual act can be recalled in the mind.",
+    "Mental recollection alone does not constitute actual offering.",
+    "The fruit of worship depends on proper offering rather than mere recollection."
+   ],
+   "inference": "Therefore, one who only remembers the ritual act in the mind does not attain the fruit of worship.",
+   "uncertainties": [],
+   "plain_english": "Having remembered that act in the mind, one does not enjoy the fruit of worship."
+  }
+ ]
+}

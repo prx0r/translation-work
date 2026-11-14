@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "sarvavarṇeṣu",
+     "gloss": "in-all-classes",
+     "grounds": "locative plural of compound sarva+varṇa, indicating all social classes",
+     "morph": "compound: sarva+varṇa; loc.pl.m"
+    },
+    {
+     "surface": "dātavyāḥ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive expressing obligation, agreeing with the named feminine subjects",
+     "morph": "gerundive.nom.pl.f (√dā)"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "name of the goddess Kālikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śyāmalā",
+     "gloss": "śyāmalā",
+     "grounds": "name of the goddess Śyāmalā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating continuation of the preceding instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Must the deities Kālikā and Śyāmalā be bestowed across all social classes?",
+   "premises": [
+    "The instruction applies to all social classes.",
+    "Kālikā is prescribed as to be given.",
+    "Śyāmalā is likewise prescribed as to be given."
+   ],
+   "inference": "Kālikā and Śyāmalā are to be given in all social classes.",
+   "uncertainties": [],
+   "plain_english": "Kālikā and Śyāmalā are likewise to be given in all classes."
+  }
+ ]
+}

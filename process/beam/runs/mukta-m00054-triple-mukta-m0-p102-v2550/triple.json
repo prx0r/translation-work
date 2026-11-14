@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "trailokyavanditān",
+     "gloss": "saluted-by-three-worlds",
+     "grounds": "bahuvrīhi/tatpuruṣa compound trailokya-vandita; accusative plural feminine agreeing with devīn",
+     "morph": "compound.acc.pl.f"
+    },
+    {
+     "surface": "devīn",
+     "gloss": "goddesses",
+     "grounds": "accusative plural feminine of devī, object of pūjayāmy",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "trimūrttim",
+     "gloss": "three-formed",
+     "grounds": "compound tri-mūrti; accusative singular feminine, describing the goddess's form",
+     "morph": "compound.acc.sg.f"
+    },
+    {
+     "surface": "pūjayāmy",
+     "gloss": "I-worship",
+     "grounds": "sandhi form of pūjayāmi before aham; first person singular present active of √pūj",
+     "morph": "1.sg.pres.act(√pūj)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "first person singular pronoun, subject of pūjayāmy",
+     "morph": "pron.nom.sg.1"
+    }
+   ],
+   "question": "In what threefold form does the speaker worship the goddess honored by the three worlds?",
+   "premises": [
+    "The goddess is saluted by the three worlds.",
+    "The goddess is characterized as having a threefold form.",
+    "The speaker personally performs worship of this goddess."
+   ],
+   "inference": "The speaker's worship is directed to a universally revered goddess manifesting in a threefold form.",
+   "uncertainties": [
+    "devīn is morphologically plural but may refer to a single goddess in honorific or contextual usage.",
+    "trimūrttim may allude to a specific triadic manifestation not explicitly identified in this verse."
+   ],
+   "plain_english": "I worship the goddess, honored by the three worlds, in her threefold form."
+  }
+ ]
+}

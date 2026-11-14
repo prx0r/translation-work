@@ -1,0 +1,1115 @@
+{
+ "song": "mukta-m0-p187",
+ "items": [
+  {
+   "verse": 4651,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "legacy hint altar",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "legacy hint having-placed",
+     "morph": "part.perf.act"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhādyair",
+     "gloss": "with-sandalwood-etc",
+     "grounds": "legacy hint with-sandalwood-etc",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "arcayed",
+     "gloss": "worship",
+     "grounds": "legacy hint worship",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "legacy hint guru",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What altar placement and worship does the guru perform with sandalwood offerings?",
+   "premises": [
+    "guru places altar",
+    "guru worships with sandalwood"
+   ],
+   "inference": "altar worship begins with guru's placement",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The guru places the altar and worships with sandalwood and similar offerings."
+  },
+  {
+   "verse": 4652,
+   "rows": [
+    {
+     "surface": "lokapālādhipāṃs",
+     "gloss": "world-guardians-lords",
+     "grounds": "legacy hint world-guardians-lords",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hemāḍhyān",
+     "gloss": "gold-rich",
+     "grounds": "legacy hint gold-rich",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "worship",
+     "grounds": "legacy hint worship",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "legacy hint guru",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which gold-rich world-guardian lords does the guru worship there?",
+   "premises": [
+    "guru worships guardians",
+    "guardians are gold-rich"
+   ],
+   "inference": "guardian worship follows altar placement",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "There the guru worships the gold-rich lords of the world-guardians."
+  },
+  {
+   "verse": 4653,
+   "rows": [
+    {
+     "surface": "lambakūrcena",
+     "gloss": "with-long-brush",
+     "grounds": "legacy hint with-long-brush",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "legacy hint joined",
+     "morph": "part.perf.pass"
+    },
+    {
+     "surface": "dvātriṃśatsammitena",
+     "gloss": "thirty-two-measured",
+     "grounds": "legacy hint thirty-two-measured",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What long brush joined and measured to thirty-two is used?",
+   "premises": [
+    "long brush is joined",
+    "measure is thirty-two"
+   ],
+   "inference": "brush specification belongs to ritual preparation",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "A long brush joined and measured to thirty-two is used."
+  },
+  {
+   "verse": 4654,
+   "rows": [
+    {
+     "surface": "gaṅgāditīrtham",
+     "gloss": "Ganges-etc-sacred-water",
+     "grounds": "legacy hint Ganges-etc-sacred-water",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "avāhya",
+     "gloss": "having-brought",
+     "grounds": "legacy hint having-brought",
+     "morph": "part.perf.act"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "legacy hint around",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "legacy hint pots",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "legacy hint place",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where are pots placed after bringing Ganges and other sacred waters?",
+   "premises": [
+    "sacred water is brought",
+    "pots are placed around"
+   ],
+   "inference": "water pots are arranged around the rite",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Having brought Ganges and other sacred waters, place pots around."
+  },
+  {
+   "verse": 4655,
+   "rows": [
+    {
+     "surface": "jalādhivāsanaṃ",
+     "gloss": "water-consecration",
+     "grounds": "legacy hint water-consecration",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "legacy hint do",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "citrādau",
+     "gloss": "in-mirror-etc",
+     "grounds": "legacy hint in-mirror-etc",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "darpaṇe",
+     "gloss": "mirror",
+     "grounds": "legacy hint mirror",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is water consecration done in mirror or not?",
+   "premises": [
+    "water consecration is performed",
+    "mirror is optional"
+   ],
+   "inference": "consecration may use mirror or not",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Perform water consecration, in mirror or not."
+  },
+  {
+   "verse": 4656,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "legacy hint brahmins",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "feed",
+     "grounds": "legacy hint feed",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrāntān",
+     "gloss": "thousand-ending",
+     "grounds": "legacy hint thousand-ending",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "daśādhikān",
+     "gloss": "ten-exceeding",
+     "grounds": "legacy hint ten-exceeding",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "How many brahmins are fed there, thousand-ending and ten-exceeding?",
+   "premises": [
+    "brahmins are fed there",
+    "number is thousand-ending ten-exceeding"
+   ],
+   "inference": "feeding brahmins is part of rite",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "There feed brahmins, thousand-ending and ten-exceeding."
+  },
+  {
+   "verse": 4657,
+   "rows": [
+    {
+     "surface": "paryagnikaraṇaṃ",
+     "gloss": "circumambulatory-fire-rite",
+     "grounds": "legacy hint circumambulatory-fire-rite",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "legacy hint having-done",
+     "morph": "part.perf.act"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "sprinkle",
+     "grounds": "legacy hint sprinkle",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāmbhasā",
+     "gloss": "with-Shiva-water",
+     "grounds": "legacy hint with-Shiva-water",
+     "morph": "n.inst.sg.n"
+    }
+   ],
+   "question": "After circumambulatory fire rite, what is sprinkled with Shiva water?",
+   "premises": [
+    "fire rite is done",
+    "sprinkling follows with Shiva water"
+   ],
+   "inference": "purification follows fire rite",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Having done circumambulatory fire rite, sprinkle with Shiva water."
+  },
+  {
+   "verse": 4658,
+   "rows": [
+    {
+     "surface": "aṣṭadroṇaiḥ",
+     "gloss": "eight-dronas",
+     "grounds": "legacy hint eight-dronas",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "tadardhairvā",
+     "gloss": "or-half-of-that",
+     "grounds": "legacy hint or-half-of-that",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "tadardhaiḥ",
+     "gloss": "half-of-that",
+     "grounds": "legacy hint half-of-that",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "śālibhiḥ",
+     "gloss": "with-rice",
+     "grounds": "legacy hint with-rice",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "matam",
+     "gloss": "opinion",
+     "grounds": "legacy hint opinion",
+     "morph": "part.perf.pass"
+    }
+   ],
+   "question": "What rice quantity is prescribed, eight dronas or half?",
+   "premises": [
+    "rice is measured",
+    "quantity is eight dronas or half"
+   ],
+   "inference": "rice offering has prescribed measure",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "With rice, eight dronas or half of that is the opinion."
+  },
+  {
+   "verse": 4659,
+   "rows": [
+    {
+     "surface": "śayanaṃ",
+     "gloss": "bed",
+     "grounds": "legacy hint bed",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "prepare",
+     "grounds": "legacy hint prepare",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "legacy hint above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carmajādyair",
+     "gloss": "with-leather-etc",
+     "grounds": "legacy hint with-leather-etc",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint in-order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the bed prepared above with leather and other materials?",
+   "premises": [
+    "bed is prepared",
+    "materials are leather etc in order"
+   ],
+   "inference": "bed preparation follows sequence",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Prepare the bed above with leather and other materials in order."
+  },
+  {
+   "verse": 4660,
+   "rows": [
+    {
+     "surface": "prokṣayet",
+     "gloss": "sprinkle",
+     "grounds": "legacy hint sprinkle",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "puruṣeṇaiva",
+     "gloss": "with-man-only",
+     "grounds": "legacy hint with-man-only",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart",
+     "grounds": "legacy hint with-heart",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "gandhādibhiḥ",
+     "gloss": "with-sandalwood-etc",
+     "grounds": "legacy hint with-sandalwood-etc",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "legacy hint worship",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Who sprinkles and worships with heart and sandalwood offerings?",
+   "premises": [
+    "sprinkling is done",
+    "worship uses heart and sandalwood"
+   ],
+   "inference": "man performs sprinkling and worship",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Sprinkle with man only, worship with heart and sandalwood."
+  },
+  {
+   "verse": 4661,
+   "rows": [
+    {
+     "surface": "vyapohya",
+     "gloss": "removing",
+     "grounds": "legacy hint removing",
+     "morph": "part.perf.act"
+    },
+    {
+     "surface": "vastrakūrcāt",
+     "gloss": "cloth-brush",
+     "grounds": "legacy hint cloth-brush",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "caṃ?",
+     "gloss": "and",
+     "grounds": "legacy hint and; token includes question mark",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "legacy hint bathing",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "legacy hint as-before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "lead",
+     "grounds": "legacy hint lead",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What bathing follows removing cloth brush and leading as before?",
+   "premises": [
+    "cloth brush is removed",
+    "bathing is led as before"
+   ],
+   "inference": "bathing follows removal",
+   "uncertainties": [
+    "token caṃ? includes punctuation"
+   ],
+   "plain_english": "Removing cloth brush, lead bathing as before."
+  },
+  {
+   "verse": 4662,
+   "rows": [
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-powers",
+     "grounds": "legacy hint of-powers",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāsāṃ",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "adj.gen.pl.f"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left",
+     "grounds": "legacy hint left",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "legacy hint right",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are all powers placed on left or right side?",
+   "premises": [
+    "all powers are considered",
+    "placement is left or right"
+   ],
+   "inference": "power placement has side options",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "All powers indeed, on left or right also."
+  },
+  {
+   "verse": 4663,
+   "rows": [
+    {
+     "surface": "sasūtrān",
+     "gloss": "with-threads",
+     "grounds": "compound adjective describing implements",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "sahiraṇyān",
+     "gloss": "with-gold",
+     "grounds": "compound adjective describing implements",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakūrcān",
+     "gloss": "with-brushes",
+     "grounds": "compound adjective describing implements",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "vastrasaṃyutān",
+     "gloss": "cloth-joined",
+     "grounds": "compound adjective describing implements",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "How should the ritual implements be arranged and worshipped around the liṅga?",
+   "premises": [
+    "implements include threads gold brushes cloth",
+    "they are placed around",
+    "worship follows with sandalwood flowers"
+   ],
+   "inference": "ritual worship proceeds by placing adorned implements around and offering worship",
+   "uncertainties": [
+    "exact ritual sequence beyond verse"
+   ],
+   "plain_english": "Place the threaded, gold-bearing, brush-bearing, cloth-joined implements around, then worship with sandalwood, flowers, and the rest."
+  },
+  {
+   "verse": 4664,
+   "rows": [
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of placing",
+     "morph": "verb.3.sg.act-perf.part"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "quantifier for implements",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-sandalwood-flowers-etc",
+     "grounds": "instrumental compound",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "optative of worship",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the ritual implements be arranged and worshipped around the liṅga?",
+   "premises": [
+    "implements include threads gold brushes cloth",
+    "they are placed around",
+    "worship follows with sandalwood flowers"
+   ],
+   "inference": "ritual worship proceeds by placing adorned implements around and offering worship",
+   "uncertainties": [
+    "exact ritual sequence beyond verse"
+   ],
+   "plain_english": "Having placed all of them around, worship with sandalwood, flowers, and the rest."
+  },
+  {
+   "verse": 4665,
+   "rows": [
+    {
+     "surface": "ātmavidyāṃ",
+     "gloss": "self-knowledge",
+     "grounds": "object of placement",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "śivākhyaṃ",
+     "gloss": "Shiva-named",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānukarṇaśirovadhi",
+     "gloss": "knee-ear-head-limit",
+     "grounds": "compound adverbial limit",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should self-knowledge and the Shiva-named element be placed up to the head?",
+   "premises": [
+    "self-knowledge is placed",
+    "Shiva-named element is included",
+    "limit runs knee ear head"
+   ],
+   "inference": "placement extends from knee through ear to head",
+   "uncertainties": [
+    "exact bodily mapping"
+   ],
+   "plain_english": "Place self-knowledge and the Shiva-named element up to the limit of knee, ear, and head."
+  },
+  {
+   "verse": 4666,
+   "rows": [
+    {
+     "surface": "palāśodumbarāśvatthavaṭāḥ",
+     "gloss": "palasha-udumbara-ashvattha-vata",
+     "grounds": "compound list of trees",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "pūrvādiṣu",
+     "gloss": "from-east-etc",
+     "grounds": "locative compound",
+     "morph": "noun.loc.pl.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order should the palasha, udumbara, ashvattha, and vata trees be placed?",
+   "premises": [
+    "four trees are named",
+    "placement begins eastward",
+    "order is specified"
+   ],
+   "inference": "the trees are assigned in sequence from east onward",
+   "uncertainties": [
+    "exact directional mapping"
+   ],
+   "plain_english": "The palasha, udumbara, ashvattha, and vata trees are placed from the east onward in order."
+  },
+  {
+   "verse": 4667,
+   "rows": [
+    {
+     "surface": "pradhānasya",
+     "gloss": "of-principal",
+     "grounds": "genitive of principal item",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "palāśaḥ",
+     "gloss": "palasha",
+     "grounds": "subject tree",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative of being",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "samidhaḥ",
+     "gloss": "fuel-sticks",
+     "grounds": "object declared",
+     "morph": "noun.acc.pl.f"
+    },
+    {
+     "surface": "saṃprakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "participle of declaration",
+     "morph": "verb.3.pl.pass-perf.part"
+    }
+   ],
+   "question": "Which tree serves as fuel sticks for the principal item?",
+   "premises": [
+    "principal item is referenced",
+    "palasha is specified",
+    "fuel sticks are declared"
+   ],
+   "inference": "palasha is the fuel stick for the principal item",
+   "uncertainties": [
+    "scope of principal item"
+   ],
+   "plain_english": "For the principal item, palasha is to be the fuel sticks, as declared."
+  },
+  {
+   "verse": 4668,
+   "rows": [
+    {
+     "surface": "yavapriyaṅguśālyaḥ",
+     "gloss": "barley-fox-tail-millet-rice",
+     "grounds": "compound list of grains",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudgamāṣakulutthakāḥ",
+     "gloss": "mung-bean-black-gram-horse-gram",
+     "grounds": "compound list of pulses",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "Which grains and pulses are included among the ritual materials?",
+   "premises": [
+    "barley fox-tail millet rice are named",
+    "mung black gram horse gram are named",
+    "materials are listed together"
+   ],
+   "inference": "the ritual materials include both named grains and pulses",
+   "uncertainties": [
+    "exact use of each material"
+   ],
+   "plain_english": "The materials include barley, fox-tail millet, rice, mung bean, black gram, and horse gram."
+  },
+  {
+   "verse": 4669,
+   "rows": [
+    {
+     "surface": "tripañcasaptanavabhiḥ",
+     "gloss": "three-five-seven-nine",
+     "grounds": "compound numeral",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "rudraiḥ",
+     "gloss": "with-Rudras",
+     "grounds": "instrumental plural",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "viśvaiḥ",
+     "gloss": "with-Vishve",
+     "grounds": "instrumental plural",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣakaiḥ",
+     "gloss": "with-pakshas",
+     "grounds": "instrumental plural",
+     "morph": "noun.inst.pl.m"
+    }
+   ],
+   "question": "With which Rudras, Vishve, and pakshas are the materials offered?",
+   "premises": [
+    "numbers three five seven nine are given",
+    "Rudras Vishve pakshas are named",
+    "offering uses these groups"
+   ],
+   "inference": "the offering is made with specified Rudra Vishve and paksha groups",
+   "uncertainties": [
+    "exact numerical assignment"
+   ],
+   "plain_english": "Offer with Rudras, Vishve, and pakshas in groups of three, five, seven, and nine."
+  },
+  {
+   "verse": 4670,
+   "rows": [
+    {
+     "surface": "brahmādidikṣu",
+     "gloss": "from-Brahma-directions",
+     "grounds": "ablative compound",
+     "morph": "noun.abl.pl.m"
+    },
+    {
+     "surface": "khyātāni",
+     "gloss": "known",
+     "grounds": "participle of knowing",
+     "morph": "verb.3.pl.pass-perf.part"
+    },
+    {
+     "surface": "vidikṣu",
+     "gloss": "in-intermediate-directions",
+     "grounds": "locative compound",
+     "morph": "noun.loc.pl.m"
+    },
+    {
+     "surface": "hṛdayādayaḥ",
+     "gloss": "heart-etc",
+     "grounds": "nominative compound",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "Where are the heart and related elements known to be placed?",
+   "premises": [
+    "Brahma directions are referenced",
+    "intermediate directions are referenced",
+    "heart and related elements are named"
+   ],
+   "inference": "heart and related elements are placed in known directions",
+   "uncertainties": [
+    "exact directional list"
+   ],
+   "plain_english": "The heart and related elements are known in the Brahma and intermediate directions."
+  },
+  {
+   "verse": 4671,
+   "rows": [
+    {
+     "surface": "pañcāgnyātanaṃ",
+     "gloss": "five-fire-altar",
+     "grounds": "compound noun",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayādīni",
+     "gloss": "heart-etc",
+     "grounds": "accusative plural",
+     "morph": "noun.acc.pl.n"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "omit",
+     "grounds": "optative of omitting",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be omitted if a five-fire altar is used?",
+   "premises": [
+    "five-fire altar is conditional",
+    "heart and related elements are named",
+    "omission is commanded"
+   ],
+   "inference": "heart and related elements are omitted when a five-fire altar is used",
+   "uncertainties": [
+    "exact scope of omission"
+   ],
+   "plain_english": "If a five-fire altar is used, omit the heart and related elements."
+  },
+  {
+   "verse": 4672,
+   "rows": [
+    {
+     "surface": "sahasramardhaṃ",
+     "gloss": "thousand-half",
+     "grounds": "compound numeral",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tasyārdhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "compound numeral",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vāṣṭaśataṃ",
+     "gloss": "or-eight-hundred",
+     "grounds": "compound numeral",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantities are prescribed for the offering?",
+   "premises": [
+    "thousand half is named",
+    "half of that is named",
+    "hundred or eight hundred is named"
+   ],
+   "inference": "the offering quantity may be thousand half, half of that, hundred, or eight hundred",
+   "uncertainties": [
+    "which quantity applies when"
+   ],
+   "plain_english": "The quantity may be half a thousand, half of that, a hundred, or eight hundred."
+  },
+  {
+   "verse": 4673,
+   "rows": [
+    {
+     "surface": "mūlāddaśāṃśataḥ",
+     "gloss": "from-root-tenth-part",
+     "grounds": "compound ablative",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "aṅgaiḥ",
+     "gloss": "with-limbs",
+     "grounds": "instrumental plural",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaiḥ",
+     "gloss": "with-all",
+     "grounds": "instrumental plural",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "brahmādi",
+     "gloss": "Brahma-etc",
+     "grounds": "compound noun",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "offer",
+     "grounds": "optative of offering",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the offering be made from the root with all limbs?",
+   "premises": [
+    "root tenth part is referenced",
+    "all limbs are included",
+    "Brahma and related elements are offered"
+   ],
+   "inference": "offering proceeds from the root tenth part with all limbs and Brahma-related elements",
+   "uncertainties": [
+    "exact root calculation"
+   ],
+   "plain_english": "From the root tenth part, offer with all limbs and Brahma and related elements."
+  },
+  {
+   "verse": 4674,
+   "rows": [
+    {
+     "surface": "dravyānte",
+     "gloss": "at-end-of-materials",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "vyāhṛtiṃ",
+     "gloss": "vyahriti",
+     "grounds": "object at end",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative of doing",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "homānte",
+     "gloss": "at-end-of-homa",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "pūrṇayā",
+     "gloss": "with-purna",
+     "grounds": "instrumental adjective",
+     "morph": "adj.inst.sg.f"
+    },
+    {
+     "surface": "yutam",
+     "gloss": "joined",
+     "grounds": "participle joined",
+     "morph": "verb.3.sg.pass-perf.part"
+    }
+   ],
+   "question": "What should be done at the end of materials and at the end of homa?",
+   "premises": [
+    "end of materials is referenced",
+    "vyahriti is performed",
+    "end of homa uses purna joined"
+   ],
+   "inference": "perform vyahriti at the end of materials and purna-joined rite at the end of homa",
+   "uncertainties": [
+    "exact purna rite"
+   ],
+   "plain_english": "At the end of materials perform vyahriti; at the end of homa perform the purna-joined rite."
+  }
+ ]
+}

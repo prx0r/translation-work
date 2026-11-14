@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "accusative item in the worship list",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "rasam",
+     "gloss": "taste",
+     "grounds": "accusative item in the worship list",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction linking listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandham",
+     "gloss": "smell",
+     "grounds": "accusative item in the worship list",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "cittam",
+     "gloss": "mind",
+     "grounds": "accusative item in the worship list",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dhairyam",
+     "gloss": "firmness",
+     "grounds": "accusative item in the worship list",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "smṛtim",
+     "gloss": "memory",
+     "grounds": "accusative item in the worship list",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction closing the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sensory and mental faculties are listed as objects of worship in the first round?",
+   "premises": [
+    "the verse enumerates form taste smell mind firmness memory",
+    "conjunctions connect the listed worship items",
+    "the list follows the first-round worship instruction"
+   ],
+   "inference": "the first round's worship includes form taste smell mind firmness and memory",
+   "uncertainties": [
+    "the exact ritual referent of dhairyam remains context-dependent",
+    "whether the list is exhaustive or abbreviated is not stated here"
+   ],
+   "plain_english": "Form, taste, smell, mind, firmness, and memory."
+  }
+ ]
+}

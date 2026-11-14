@@ -1,0 +1,32 @@
+{
+ "song": "net-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "netrodyote",
+     "gloss": "in-eye-radiance",
+     "grounds": "locative heading form; internal sandhi not split",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaviṃśo'dhikāraḥ",
+     "gloss": "twenty-first-chapter",
+     "grounds": "fused sandhi form ekaviṃśaḥ + adhikāraḥ; whole token retained",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is named in this heading?",
+   "premises": [
+    "The heading names the twenty-first chapter.",
+    "The heading occurs in netrodyota."
+   ],
+   "inference": "This verse marks chapter twenty-one.",
+   "uncertainties": [
+    "Recension wording may vary."
+   ],
+   "plain_english": "In the Netrodyota, the twenty-first chapter."
+  }
+ ]
+}

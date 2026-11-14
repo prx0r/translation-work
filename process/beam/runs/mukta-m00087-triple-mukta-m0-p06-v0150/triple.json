@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "vedādyaṃ",
+     "gloss": "veda-beginning",
+     "grounds": "compound veda+ādya; exact case role uncertain",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lakṣmīvāgbīje",
+     "gloss": "lakshmi-speech-seed",
+     "grounds": "compound lakṣmī+vāc+bīja; locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "manmathaṃ",
+     "gloss": "love-god",
+     "grounds": "accusative object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "adverbial temporal phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should be recited after the kamaraja mantra within the lakshmi speech-seed beginning with veda?",
+   "premises": [
+    "previous verse prescribes kamaraja mantra recitation",
+    "this verse names lakshmi speech-seed beginning with veda",
+    "manmatha follows after that"
+   ],
+   "inference": "recite manmatha after kamaraja in that seed",
+   "uncertainties": [
+    "exact syntactic role of vedādyaṃ remains uncertain",
+    "whether manmatha is a mantra or deity name is not explicit"
+   ],
+   "plain_english": "After that, recite manmatha in the lakshmi speech-seed beginning with veda."
+  }
+ ]
+}

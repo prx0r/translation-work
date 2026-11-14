@@ -1,0 +1,1149 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2476,
+   "rows": [
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "time period for the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "stated as prescribed",
+     "morph": "m.nom.sg.ppp.pra+vac"
+    },
+    {
+     "surface": "ati",
+     "gloss": "exceedingly",
+     "grounds": "intensifier for obligatory",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvaśyake",
+     "gloss": "in-obligatory-rite",
+     "grounds": "in the necessary daily observance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What time is prescribed even for the most obligatory daily rite?",
+   "premises": [
+    "A time is declared for observance.",
+    "The declaration applies even to the obligatory rite.",
+    "The obligatory rite is emphasized as exceedingly necessary."
+   ],
+   "inference": "Therefore, even the most obligatory rite has a prescribed time.",
+   "uncertainties": [
+    "The exact span of the prescribed time is specified in the following verse."
+   ],
+   "plain_english": "And the time is declared even for the most obligatory rite."
+  },
+  {
+   "verse": 2477,
+   "rows": [
+    {
+     "surface": "sārdha",
+     "gloss": "with-half",
+     "grounds": "together with a half unit",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yāma",
+     "gloss": "watch",
+     "grounds": "a division of the day",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "count of three",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hīnaḥ",
+     "gloss": "lacking",
+     "grounds": "devoid of that duration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avaśyake",
+     "gloss": "in-obligatory-rite",
+     "grounds": "in the necessary daily observance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prokta",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣaṇaḥ",
+     "gloss": "characterized",
+     "grounds": "defined by this mark",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the prescribed time for the obligatory rite characterized in duration?",
+   "premises": [
+    "The obligatory rite has a declared characteristic.",
+    "That characteristic involves a duration of three and a half watches.",
+    "The prescribed time is defined as lacking that duration."
+   ],
+   "inference": "Therefore, the obligatory rite is characterized by a time lacking three and a half watches.",
+   "uncertainties": [
+    "The precise calculation of the remaining time depends on the division of the day."
+   ],
+   "plain_english": "In the obligatory rite, the declared time is characterized as lacking three and a half watches."
+  },
+  {
+   "verse": 2478,
+   "rows": [
+    {
+     "surface": "pratidinam",
+     "gloss": "daily",
+     "grounds": "each day",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āmadhyāhnaṃ",
+     "gloss": "until-midday",
+     "grounds": "up to the middle of the day",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act.car"
+    }
+   ],
+   "question": "Until what time of day should daily mantra recitation be performed?",
+   "premises": [
+    "Mantra recitation is a prescribed daily practice.",
+    "The practice has a specified daily time limit.",
+    "That limit extends until midday."
+   ],
+   "inference": "Therefore, one should perform daily recitation until midday.",
+   "uncertainties": [],
+   "plain_english": "One should perform recitation daily until midday."
+  },
+  {
+   "verse": 2479,
+   "rows": [
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "offering of satisfaction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mārjanaṃ",
+     "gloss": "sprinkling",
+     "grounds": "purificatory sprinkling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "after performing these acts",
+     "morph": "(gerund).kṛ"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇa",
+     "gloss": "brahmin",
+     "grounds": "member of the priestly class",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhojanam",
+     "gloss": "feeding",
+     "grounds": "act of giving food",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What additional ritual acts should accompany the daily recitation practice?",
+   "premises": [
+    "Libation and sprinkling are ritual acts.",
+    "These acts are to be performed in sequence.",
+    "Feeding brahmins is likewise to be done."
+   ],
+   "inference": "Therefore, one should perform libation, sprinkling, and likewise feed brahmins.",
+   "uncertainties": [],
+   "plain_english": "Having performed libation and sprinkling, one should likewise feed brahmins."
+  },
+  {
+   "verse": 2480,
+   "rows": [
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "the next alternative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "procedure",
+     "grounds": "prescribed method",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣam",
+     "gloss": "hundred-thousand",
+     "grounds": "count of one lakh",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "single unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act.car"
+    }
+   ],
+   "question": "What quantity of recitation defines the second prescribed procedure?",
+   "premises": [
+    "A second procedure is specified.",
+    "This procedure involves mantra recitation.",
+    "The required amount is one hundred thousand recitations."
+   ],
+   "inference": "Therefore, the second procedure requires performing one hundred thousand recitations.",
+   "uncertainties": [],
+   "plain_english": "The second procedure, however, is to perform one hundred thousand recitations."
+  },
+  {
+   "verse": 2481,
+   "rows": [
+    {
+     "surface": "kalpaḥ",
+     "gloss": "procedure",
+     "grounds": "prescribed method",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "fully accomplished",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act.ā+car"
+    }
+   ],
+   "question": "What kind of recitation should be performed in this procedure?",
+   "premises": [
+    "A procedure is being described.",
+    "The procedure requires recitation.",
+    "The recitation must be complete."
+   ],
+   "inference": "Therefore, one should perform a complete recitation in this procedure.",
+   "uncertainties": [
+    "The exact measure of completeness may be defined by context."
+   ],
+   "plain_english": "But in this procedure, one should perform the recitation completely."
+  },
+  {
+   "verse": 2482,
+   "rows": [
+    {
+     "surface": "daridraiḥ",
+     "gloss": "by-poor-people",
+     "grounds": "by those lacking wealth",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dviguṇaḥ",
+     "gloss": "double",
+     "grounds": "twice the amount",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kārya",
+     "gloss": "to-be-done",
+     "grounds": "required to be performed",
+     "morph": "m.nom.sg.gerundive.kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks citation or conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "the rest is understood",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How must poor practitioners adjust the required amount of recitation?",
+   "premises": [
+    "Recitation is required as a prescribed act.",
+    "Poor practitioners have limited means for other offerings.",
+    "The recitation amount is to be doubled for them."
+   ],
+   "inference": "Therefore, poor people should perform double the recitation; the rest follows accordingly.",
+   "uncertainties": [
+    "The phrase 'the rest' leaves other adjustments unspecified."
+   ],
+   "plain_english": "Poor people should perform double the recitation; thus the rest is understood."
+  },
+  {
+   "verse": 2483,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "procedure",
+     "grounds": "prescribed method",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "relative reference to a deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "deity",
+     "grounds": "a god",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "that which is preferred",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priyam",
+     "gloss": "dear",
+     "grounds": "pleasing or favored",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "On what basis should the procedure be adapted for a particular deity?",
+   "premises": [
+    "A procedure is prescribed for worship.",
+    "Different deities have different preferences.",
+    "The procedure should follow what is dear to the deity."
+   ],
+   "inference": "Therefore, the procedure should be adapted according to what is dear to each deity.",
+   "uncertainties": [
+    "The verse states the principle but does not list specific preferences."
+   ],
+   "plain_english": "Likewise, the procedure should follow whatever is dear to each particular deity."
+  },
+  {
+   "verse": 2484,
+   "rows": [
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "priyāḥ",
+     "gloss": "fond-of",
+     "grounds": "delighting in",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "without exception",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "female deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vāmamārge",
+     "gloss": "in-left-hand-path",
+     "grounds": "in the vāmamārga tradition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bali",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "priyāḥ",
+     "gloss": "fond-of",
+     "grounds": "delighting in",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What ritual offerings are preferred by all goddesses in the left-hand path?",
+   "premises": [
+    "All goddesses have ritual preferences.",
+    "In the left-hand path, goddesses are fond of recitation.",
+    "In the left-hand path, goddesses are also fond of bali offerings."
+   ],
+   "inference": "Therefore, all goddesses in the left-hand path are pleased by recitation and bali offerings.",
+   "uncertainties": [],
+   "plain_english": "All goddesses are fond of recitation, and in the left-hand path they are fond of bali offerings."
+  },
+  {
+   "verse": 2485,
+   "rows": [
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-gaṇeśa",
+     "grounds": "of the deity Gaṇeśa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-viṣṇu",
+     "grounds": "of the deity Viṣṇu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "brāhmaṇa",
+     "gloss": "brahmin",
+     "grounds": "member of the priestly class",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhojanam",
+     "gloss": "feeding",
+     "grounds": "act of giving food",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What offering is especially pleasing to Gaṇeśa and Viṣṇu?",
+   "premises": [
+    "Different deities favor different offerings.",
+    "Gaṇeśa and Viṣṇu are named as recipients.",
+    "Feeding brahmins is identified as the pleasing act."
+   ],
+   "inference": "Therefore, feeding brahmins is dear to Gaṇeśa and Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "For Gaṇeśa and Viṣṇu, feeding brahmins is the favored offering."
+  },
+  {
+   "verse": 2486,
+   "rows": [
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-rite",
+     "grounds": "preparatory ritual observance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catuṣkeṇa",
+     "gloss": "by-set-of-four",
+     "grounds": "by a fourfold set",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tridvyādyaiḥ",
+     "gloss": "by-three-two-etc",
+     "grounds": "by sets of three, two, and so on",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kṣattriyādayaḥ",
+     "gloss": "kṣatriyas-and-others",
+     "grounds": "kṣatriyas and the remaining classes",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do the preliminary rite requirements differ for kṣatriyas and other classes?",
+   "premises": [
+    "The preliminary rite can be performed in sets.",
+    "A fourfold set is one standard.",
+    "Kṣatriyas and others use sets of three, two, and so on."
+   ],
+   "inference": "Therefore, kṣatriyas and others perform the preliminary rite with reduced sets such as three, two, and so forth.",
+   "uncertainties": [
+    "The exact mapping of each class to each number is not fully specified here."
+   ],
+   "plain_english": "The preliminary rite is done by a set of four, while kṣatriyas and others use sets of three, two, and so on."
+  },
+  {
+   "verse": 2487,
+   "rows": [
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "ritually clean",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "beforehand",
+     "grounds": "prior to the practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upoṣitaḥ",
+     "gloss": "having-fasted",
+     "grounds": "having observed a fast",
+     "morph": "m.nom.sg.ppp.upa+vas"
+    }
+   ],
+   "question": "What preparatory state must the practitioner attain before the rite?",
+   "premises": [
+    "The practitioner must be ritually prepared.",
+    "Purity is required beforehand.",
+    "Fasting is required beforehand."
+   ],
+   "inference": "Therefore, the practitioner should be pure and should have fasted beforehand.",
+   "uncertainties": [],
+   "plain_english": "One should be pure and should have fasted beforehand."
+  },
+  {
+   "verse": 2488,
+   "rows": [
+    {
+     "surface": "sparśādi",
+     "gloss": "beginning-with-touch",
+     "grounds": "starting from touch and related acts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "muktiparyantaṃ",
+     "gloss": "up-to-release",
+     "grounds": "extending until release",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribed mantra repetition",
+     "morph": "3.sg.opt.act.jap"
+    },
+    {
+     "surface": "maṃtraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "with collected attention",
+     "morph": "m.nom.sg.ppp.sam+ā+dhā"
+    }
+   ],
+   "question": "In what mental state and scope should the mantra be recited?",
+   "premises": [
+    "Mantra recitation is prescribed.",
+    "The recitation spans from touch-related acts up to release.",
+    "The practitioner must be concentrated."
+   ],
+   "inference": "Therefore, one should recite the mantra with concentration from the initial touch onward up to release.",
+   "uncertainties": [
+    "The specific ritual steps denoted by 'touch and so on' are not enumerated here."
+   ],
+   "plain_english": "With concentration, one should recite the mantra from the acts beginning with touch up to release."
+  },
+  {
+   "verse": 2489,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "members of the priestly class",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "one-should-feed",
+     "grounds": "prescribed act of feeding",
+     "morph": "3.sg.opt.caus.act.bhuj"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "following the prior acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-rite",
+     "grounds": "preparatory ritual observance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samantv",
+     "gloss": "thus-complete",
+     "grounds": "thereby brought to completion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "this rite as described",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What concluding act completes the preliminary rite described here?",
+   "premises": [
+    "The preliminary rite involves prior ritual acts.",
+    "Feeding brahmins is prescribed afterwards.",
+    "This feeding brings the rite to completion."
+   ],
+   "inference": "Therefore, feeding brahmins afterwards completes this preliminary rite.",
+   "uncertainties": [
+    "The form 'samantv' is read as indicating completion in this context."
+   ],
+   "plain_english": "Afterwards one should feed brahmins; thus this preliminary rite is completed."
+  },
+  {
+   "verse": 2490,
+   "rows": [
+    {
+     "surface": "home",
+     "gloss": "in-fire-offering",
+     "grounds": "in the oblation into fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkhyā",
+     "gloss": "number",
+     "grounds": "prescribed count",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tantreṣu",
+     "gloss": "in-tantras",
+     "grounds": "in tantric scriptures",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uditā",
+     "gloss": "stated",
+     "grounds": "declared or specified",
+     "morph": "f.nom.sg.ppp.vad"
+    }
+   ],
+   "question": "Is a specific number prescribed for fire offerings in the tantras?",
+   "premises": [
+    "Fire offerings are part of tantric practice.",
+    "Tantric texts could specify a number for them.",
+    "No such number is stated in the tantras."
+   ],
+   "inference": "Therefore, the tantras do not state a specific number for fire offerings.",
+   "uncertainties": [],
+   "plain_english": "And in the tantras, no specific number is stated for the fire offering."
+  },
+  {
+   "verse": 2491,
+   "rows": [
+    {
+     "surface": "mantrāṇām",
+     "gloss": "of-mantras",
+     "grounds": "regarding sacred formulas",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "a different rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "is declared",
+     "morph": "3.sg.pres.pass.vac"
+    }
+   ],
+   "question": "What alternative rule is stated regarding the mantras in this context?",
+   "premises": [
+    "A rule concerning mantras is being discussed.",
+    "The previous statement indicated an absence of specification.",
+    "Another rule is stated in this same manner."
+   ],
+   "inference": "Therefore, another rule concerning the mantras is stated in just this way.",
+   "uncertainties": [
+    "The content of the 'other' rule is clarified by the following verses."
+   ],
+   "plain_english": "Thus indeed, another rule is stated concerning the mantras."
+  },
+  {
+   "verse": 2492,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "after performing meditation",
+     "morph": "(gerund).dhyai"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribed mantra repetition",
+     "morph": "3.sg.opt.act.jap"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ayutānāṃ",
+     "gloss": "of-ten-thousands",
+     "grounds": "units of ten thousand",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "set-of-four",
+     "grounds": "a group of four",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many mantra recitations should be performed after meditation?",
+   "premises": [
+    "Meditation precedes the recitation.",
+    "The recitation is measured in units of ten thousand.",
+    "Four such units are prescribed."
+   ],
+   "inference": "Therefore, after meditating one should recite the mantra forty thousand times.",
+   "uncertainties": [],
+   "plain_english": "Having meditated, one should recite the mantra four times ten thousand."
+  },
+  {
+   "verse": 2493,
+   "rows": [
+    {
+     "surface": "asiddhatvāt",
+     "gloss": "because-of-unaccomplishment",
+     "grounds": "due to lack of accomplishment",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "of the teacher",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "deities addressed in practice",
+     "morph": "m.voc.pl"
+    },
+    {
+     "surface": "śiṣya",
+     "gloss": "disciple",
+     "grounds": "student",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "successful attainment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.pres.mid.jan"
+    }
+   ],
+   "question": "Why does the disciple fail to attain accomplishment through the deities?",
+   "premises": [
+    "The guru's accomplishment is a condition for transmission.",
+    "The guru may be unaccomplished.",
+    "Without the guru's accomplishment, the disciple's accomplishment does not arise."
+   ],
+   "inference": "Therefore, because of the guru's lack of accomplishment, the disciple does not attain accomplishment from the deities.",
+   "uncertainties": [
+    "The vocative 'devāḥ' may be read as an address within the teaching context."
+   ],
+   "plain_english": "Because the guru is unaccomplished, O gods, the disciple's accomplishment does not arise."
+  },
+  {
+   "verse": 2494,
+   "rows": [
+    {
+     "surface": "bindumat",
+     "gloss": "endowed-with-bindu",
+     "grounds": "marked with the bindu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "the syllabic matrix",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣaraiḥ",
+     "gloss": "with-syllables",
+     "grounds": "by means of letters",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What syllabic form is specified for the mantra in this practice?",
+   "premises": [
+    "The mantra is formed from syllables.",
+    "The syllables belong to the mātṛkā.",
+    "The form is endowed with bindu."
+   ],
+   "inference": "Therefore, the mantra should be formed with mātṛkā syllables endowed with bindu.",
+   "uncertainties": [
+    "The verse is elliptical and its full application depends on surrounding instructions."
+   ],
+   "plain_english": "It should be formed with mātṛkā syllables endowed with bindu."
+  },
+  {
+   "verse": 2495,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homādikāt",
+     "gloss": "from-fire-offering-etc",
+     "grounds": "from fire offering and related acts",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "brought to efficacy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.opt.act.bhū"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Through what subsequent acts does the mantra become accomplished?",
+   "premises": [
+    "The mantra requires further ritual action.",
+    "Fire offering and related acts are performed.",
+    "These acts lead to the mantra's accomplishment."
+   ],
+   "inference": "Therefore, after fire offering and related acts, the mantra becomes accomplished.",
+   "uncertainties": [],
+   "plain_english": "Then, through fire offering and related acts, the mantra becomes accomplished."
+  },
+  {
+   "verse": 2496,
+   "rows": [
+    {
+     "surface": "siddhyet",
+     "gloss": "may-be-accomplished",
+     "grounds": "can attain efficacy",
+     "morph": "3.sg.opt.pass.sidh"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sasvarāḥ",
+     "gloss": "with-vowels",
+     "grounds": "endowed with vowel sounds",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Under what phonetic condition may the syllables be accomplished here?",
+   "premises": [
+    "Accomplishment is being discussed in this context.",
+    "The syllables have a phonetic condition.",
+    "They are to be endowed with vowels."
+   ],
+   "inference": "Therefore, in this context they may be accomplished when endowed with vowels.",
+   "uncertainties": [
+    "The subject of 'sasvarāḥ' is supplied from the preceding syllabic context."
+   ],
+   "plain_english": "And here they may be accomplished when endowed with vowels."
+  },
+  {
+   "verse": 2497,
+   "rows": [
+    {
+     "surface": "hrasvadīrghaplutaiḥ",
+     "gloss": "by-short-long-prolated",
+     "grounds": "by short, long, and prolated measures",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhedaiḥ",
+     "gloss": "distinctions",
+     "grounds": "divisions or variations",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "a",
+     "gloss": "a",
+     "grounds": "the vowel a",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "i",
+     "gloss": "i",
+     "grounds": "the vowel i",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "u",
+     "gloss": "u",
+     "grounds": "the vowel u",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛ",
+     "gloss": "ṛ",
+     "grounds": "the vowel ṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "in three ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "regarded as such",
+     "morph": "m.nom.pl.ppp.man"
+    }
+   ],
+   "question": "How are the vowels a, i, u, and ṛ classified by duration?",
+   "premises": [
+    "Vowels can be distinguished by duration.",
+    "The relevant durations are short, long, and prolated.",
+    "The vowels a, i, u, and ṛ are considered in this threefold way."
+   ],
+   "inference": "Therefore, a, i, u, and ṛ are considered threefold by short, long, and prolated distinctions.",
+   "uncertainties": [],
+   "plain_english": "By the distinctions of short, long, and prolated, the vowels a, i, u, and ṛ are considered threefold."
+  },
+  {
+   "verse": 2498,
+   "rows": [
+    {
+     "surface": "dīrghapluta",
+     "gloss": "long-prolated",
+     "grounds": "long and prolated measures",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vibhedena",
+     "gloss": "by-distinction",
+     "grounds": "by differentiation",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anusvāra",
+     "gloss": "anusvāra",
+     "grounds": "nasal sound mark",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "visargakaiḥ",
+     "gloss": "with-visargas",
+     "grounds": "with visarga marks",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What additional phonetic distinctions apply to long and prolated vowels?",
+   "premises": [
+    "Vowels are distinguished by duration.",
+    "Long and prolated forms admit further distinction.",
+    "These distinctions involve anusvāra and visarga."
+   ],
+   "inference": "Therefore, long and prolated vowels are further distinguished by anusvāra and visarga.",
+   "uncertainties": [
+    "The verse is compressed and assumes knowledge of phonetic notation."
+   ],
+   "plain_english": "Indeed, by the distinction of long and prolated forms, they are further marked with anusvāra and visarga."
+  },
+  {
+   "verse": 2499,
+   "rows": [
+    {
+     "surface": "kādikāḥ",
+     "gloss": "beginning-with-ka",
+     "grounds": "starting from the letter ka",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "letters",
+     "grounds": "phonetic characters",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jihvāmūlīya",
+     "gloss": "jihvāmūlīya",
+     "grounds": "the jihvāmūlīya sound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuk",
+     "gloss": "joined",
+     "grounds": "connected with",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "ka",
+     "grounds": "the letter ka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which consonant among the ka-series is joined with the jihvāmūlīya sound?",
+   "premises": [
+    "The letters beginning with ka are under discussion.",
+    "A special joining with jihvāmūlīya is mentioned.",
+    "The letter ka is specified in this joining."
+   ],
+   "inference": "Therefore, among the letters beginning with ka, ka is joined with jihvāmūlīya.",
+   "uncertainties": [
+    "The grammatical agreement of 'yuk' is compact in this verse."
+   ],
+   "plain_english": "Among the letters beginning with ka, ka is joined with jihvāmūlīya."
+  }
+ ]
+}

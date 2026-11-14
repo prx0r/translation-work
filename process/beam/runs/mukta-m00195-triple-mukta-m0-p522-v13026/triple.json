@@ -1,0 +1,1363 @@
+{
+ "song": "mukta-m0-p522",
+ "items": [
+  {
+   "verse": 13026,
+   "rows": [
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "object of declaration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "antro",
+     "gloss": "mantra",
+     "grounds": "subject, sandhi for mantraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative qualifying mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ākhyātaḥ",
+     "gloss": "declared",
+     "grounds": "predicate describing mantra",
+     "morph": "m.nom.sg.past-participle √khyā"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "beneficiaries of the result",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vijaya",
+     "gloss": "victory",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradaḥ",
+     "gloss": "giving",
+     "grounds": "second member, giver of victory",
+     "morph": "m.nom.sg.compound-member"
+    }
+   ],
+   "question": "What benefit does this declared offering-mantra bestow upon all recipients?",
+   "premises": [
+    "This mantra is declared as an offering.",
+    "The mantra gives victory.",
+    "The victory is given to all."
+   ],
+   "inference": "Therefore this offering-mantra grants victory to everyone.",
+   "uncertainties": [],
+   "plain_english": "This mantra is declared as an offering and it grants victory to all."
+  },
+  {
+   "verse": 13027,
+   "rows": [
+    {
+     "surface": "śva",
+     "gloss": "dog",
+     "grounds": "first member related to following group",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gaṇebhyo",
+     "gloss": "to-groups",
+     "grounds": "recipients of distribution",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "vibhajate",
+     "gloss": "distributes",
+     "grounds": "main action of the practitioner",
+     "morph": "3.sg.middle-present √bhaj"
+    },
+    {
+     "surface": "sāmiṣaṃ",
+     "gloss": "with-meat",
+     "grounds": "describes what is distributed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kruddha",
+     "gloss": "angry",
+     "grounds": "first member of mental state compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mānasaḥ",
+     "gloss": "minded",
+     "grounds": "second member, describes distributor",
+     "morph": "m.nom.sg.compound-member"
+    }
+   ],
+   "question": "How must one distribute meat offerings to the groups of dogs?",
+   "premises": [
+    "The distributor has an angry mind.",
+    "The distribution is made to groups of dogs.",
+    "The offering distributed includes meat."
+   ],
+   "inference": "Therefore one distributes meat to the dog groups with an angry mind.",
+   "uncertainties": [],
+   "plain_english": "With an angry mind, one distributes meat to the groups of dogs."
+  },
+  {
+   "verse": 13028,
+   "rows": [
+    {
+     "surface": "vijaya",
+     "gloss": "victory",
+     "grounds": "first member of compound object",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "fortune",
+     "grounds": "second member, object obtained",
+     "morph": "f.acc.sg.compound-member"
+    },
+    {
+     "surface": "etena",
+     "gloss": "by-this",
+     "grounds": "instrumental means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "subject who obtains",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "main action",
+     "morph": "3.sg.active-present √āp"
+    },
+    {
+     "surface": "ayatnataḥ",
+     "gloss": "without-effort",
+     "grounds": "manner of obtaining",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What reward does a king obtain effortlessly through this practice?",
+   "premises": [
+    "The king acts by this means.",
+    "The king obtains victorious fortune.",
+    "The obtaining happens without effort."
+   ],
+   "inference": "Therefore by this practice a king effortlessly obtains victorious fortune.",
+   "uncertainties": [],
+   "plain_english": "By this, a king obtains the fortune of victory without effort."
+  },
+  {
+   "verse": 13029,
+   "rows": [
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "location of standing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "action of the subjects",
+     "morph": "3.pl.active-present √sthā"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "time",
+     "grounds": "first of repeated time expression",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "after-time",
+     "grounds": "second of repeated time expression",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pure",
+     "gloss": "city",
+     "grounds": "first of repeated place expression",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pure",
+     "gloss": "after-city",
+     "grounds": "second of repeated place expression",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where and when do the beings described in this passage stand?",
+   "premises": [
+    "Certain beings stand in the cremation ground.",
+    "They stand time after time.",
+    "They stand city after city."
+   ],
+   "inference": "Therefore these beings stand in cremation grounds repeatedly across times and cities.",
+   "uncertainties": [
+    "The referent of 'ye' is completed in the following verses."
+   ],
+   "plain_english": "Those who indeed stand in the cremation ground, time after time and city after city."
+  },
+  {
+   "verse": 13030,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member of path compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mārga",
+     "gloss": "path",
+     "grounds": "second member of path compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "third member indicating etcetera",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nirataḥ",
+     "gloss": "devoted",
+     "grounds": "describes engagement in the path",
+     "morph": "m.nom.sg.past-participle √ram"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adveṣa",
+     "gloss": "non-hatred",
+     "grounds": "first member of manner compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tara",
+     "gloss": "manner",
+     "grounds": "second member indicating way",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "by-course",
+     "grounds": "instrumental manner of conduct",
+     "morph": "n.ins.sg.compound-member"
+    }
+   ],
+   "question": "By what manner of conduct do devotees of the left-hand path proceed?",
+   "premises": [
+    "They are devoted to the left-hand path and others.",
+    "Their conduct follows a course of non-hatred.",
+    "Devotion persists even within that path."
+   ],
+   "inference": "Therefore even devotees of the left-hand path proceed by a course of non-hatred.",
+   "uncertainties": [],
+   "plain_english": "Even those devoted to the left-hand path and so forth proceed by a course of non-hatred."
+  },
+  {
+   "verse": 13031,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject, referent from prior verses",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "main verb of transformation",
+     "morph": "3.sg.active-optative √bhū"
+    },
+    {
+     "surface": "bhairavo",
+     "gloss": "bhairava",
+     "grounds": "predicate identity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devas",
+     "gloss": "god",
+     "grounds": "apposition to Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative specifying region",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "deśasya",
+     "gloss": "of-region",
+     "grounds": "domain ruled",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śāsakaḥ",
+     "gloss": "ruler",
+     "grounds": "role attained",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What divine status and authority does such a practitioner attain?",
+   "premises": [
+    "Such a person becomes the god Bhairava.",
+    "He becomes ruler of that region.",
+    "The transformation follows the described conduct."
+   ],
+   "inference": "Therefore the practitioner becomes the god Bhairava and ruler of that region.",
+   "uncertainties": [],
+   "plain_english": "He becomes the god Bhairava, the ruler of that region."
+  },
+  {
+   "verse": 13032,
+   "rows": [
+    {
+     "surface": "svarga",
+     "gloss": "heaven",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cyutānāṃ",
+     "gloss": "of-fallen",
+     "grounds": "those who have fallen from heaven and liberation",
+     "morph": "m.gen.pl.past-participle √cyu"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject, the attained Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāsanaṃ",
+     "gloss": "rule",
+     "grounds": "object, act of governing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "main action",
+     "morph": "3.sg.middle-present √kṛ"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "duration of rule",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Over whom does the attained Bhairava exercise perpetual rule?",
+   "premises": [
+    "Some beings have fallen from heaven and liberation.",
+    "The attained one performs rule.",
+    "This rule is performed always."
+   ],
+   "inference": "Therefore he always rules those fallen from heaven and liberation.",
+   "uncertainties": [],
+   "plain_english": "He always exercises rule over those who have fallen from heaven and liberation."
+  },
+  {
+   "verse": 13033,
+   "rows": [
+    {
+     "surface": "anyasmin",
+     "gloss": "in-another",
+     "grounds": "specifies alternative seed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "by-seed",
+     "grounds": "instrumental means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "grāme",
+     "gloss": "in-village",
+     "grounds": "location of dwelling",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vasati",
+     "gloss": "dwells",
+     "grounds": "main action",
+     "morph": "3.sg.active-present √vas"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty",
+     "morph": "n.acc.sg.adverbial"
+    }
+   ],
+   "question": "Where does the being invoked by another seed-syllable certainly dwell?",
+   "premises": [
+    "Another seed-syllable is used.",
+    "The being dwells in a village.",
+    "This dwelling is certain."
+   ],
+   "inference": "Therefore by another seed-syllable the being certainly dwells in a village.",
+   "uncertainties": [],
+   "plain_english": "By another seed-syllable, he certainly dwells in a village."
+  },
+  {
+   "verse": 13034,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental specifying path",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-path",
+     "grounds": "means of subjugation",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vaśayet",
+     "gloss": "should-subdue",
+     "grounds": "prescribed action",
+     "morph": "3.sg.active-optative √vaś"
+    },
+    {
+     "surface": "kāryya",
+     "gloss": "purpose",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "for-sake",
+     "grounds": "second member indicating aim",
+     "morph": "m.acc.sg.compound-member"
+    },
+    {
+     "surface": "bhairavañ",
+     "gloss": "bhairava",
+     "grounds": "object to be subdued, sandhi for bhairavam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "additional object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "For what purpose should one subdue Bhairava and him by that path?",
+   "premises": [
+    "A specific path is used as means.",
+    "Bhairava and that being are to be subdued.",
+    "The subjugation serves a purpose."
+   ],
+   "inference": "Therefore by that path one should subdue Bhairava and him for the sake of a purpose.",
+   "uncertainties": [
+    "The exact referent of 'tam' depends on prior context."
+   ],
+   "plain_english": "By that path, one should subdue Bhairava and him for the sake of one's purpose."
+  },
+  {
+   "verse": 13035,
+   "rows": [
+    {
+     "surface": "pūrva",
+     "gloss": "east",
+     "grounds": "first member indicating starting direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "second member indicating range start",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "upper",
+     "grounds": "third member indicating end direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āṃntakaṃ",
+     "gloss": "ending-with",
+     "grounds": "fourth member indicating range end",
+     "morph": "n.acc.sg.compound-member"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āmnāyānāṃ",
+     "gloss": "of-transmissions",
+     "grounds": "genitive specifying transmissions",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "manner of arrangement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what directional order are the transmissions arranged in this sequence?",
+   "premises": [
+    "The range begins with the east and so forth.",
+    "The range ends with the upper direction.",
+    "The transmissions follow a sequence."
+   ],
+   "inference": "Therefore this is the order of the transmissions from east up to the upper direction.",
+   "uncertainties": [],
+   "plain_english": "This is the order of the transmissions, beginning with the east and ending with the upper."
+  },
+  {
+   "verse": 13036,
+   "rows": [
+    {
+     "surface": "grāma",
+     "gloss": "village",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "second member, object to pronounce",
+     "morph": "n.acc.sg.compound-member"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-pronounced",
+     "grounds": "prior action",
+     "morph": "absolutive √vac"
+    },
+    {
+     "surface": "pitṛ",
+     "gloss": "father",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "geha",
+     "gloss": "house",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nivāsine",
+     "gloss": "to-dweller",
+     "grounds": "recipient or referent",
+     "morph": "m.dat.sg.compound-member"
+    }
+   ],
+   "question": "What names must be pronounced for the dweller in the father's house?",
+   "premises": [
+    "The village name is pronounced.",
+    "The pronunciation is done then.",
+    "It is directed to the dweller in the father's house."
+   ],
+   "inference": "Therefore one pronounces the village name for the dweller in the father's house.",
+   "uncertainties": [],
+   "plain_english": "Then, having pronounced the village name, for the one dwelling in the father's house."
+  },
+  {
+   "verse": 13037,
+   "rows": [
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-beginning",
+     "grounds": "time of first offering",
+     "morph": "m.loc.sg.compound-member"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "time of second offering",
+     "morph": "m.loc.sg.compound-member"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "frequency of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed action",
+     "morph": "3.sg.active-optative √dā"
+    },
+    {
+     "surface": "ananya",
+     "gloss": "undivided",
+     "grounds": "first member of mental state compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhīḥ",
+     "gloss": "mind",
+     "grounds": "second member, state of practitioner",
+     "morph": "m.nom.sg.compound-member"
+    }
+   ],
+   "question": "When and with what mental focus should offerings be given during recitation?",
+   "premises": [
+    "Offerings are given at the beginning of recitation.",
+    "Offerings are given at the end of recitation.",
+    "The giver maintains an undivided mind always."
+   ],
+   "inference": "Therefore one should always give offerings at the beginning and end of recitation with an undivided mind.",
+   "uncertainties": [],
+   "plain_english": "At the beginning and end of recitation, one should always give offerings with an undivided mind."
+  },
+  {
+   "verse": 13038,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner referring to prior practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddha",
+     "gloss": "accomplished",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "manur",
+     "gloss": "mantra",
+     "grounds": "second member, possessed attainment",
+     "morph": "m.nom.sg.compound-member"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtānāṃ",
+     "gloss": "of-beings",
+     "grounds": "objects of subjugation",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nigraha",
+     "gloss": "subjugation",
+     "grounds": "first member of capability compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṣamaḥ",
+     "gloss": "capable",
+     "grounds": "predicate describing practitioner",
+     "morph": "m.nom.sg.compound-member"
+    }
+   ],
+   "question": "What power does a practitioner gain after thus accomplishing the mantra?",
+   "premises": [
+    "The practitioner has thus accomplished the mantra.",
+    "The practitioner becomes capable of subjugation.",
+    "The subjugation applies to beings."
+   ],
+   "inference": "Therefore a practitioner with an accomplished mantra becomes capable of subjugating beings.",
+   "uncertainties": [],
+   "plain_english": "Thus, the practitioner whose mantra is accomplished becomes capable of subjugating beings."
+  },
+  {
+   "verse": 13039,
+   "rows": [
+    {
+     "surface": "kṛta",
+     "gloss": "performed",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nitya",
+     "gloss": "daily",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kriyaḥ",
+     "gloss": "rites",
+     "grounds": "third member, describes practitioner",
+     "morph": "m.nom.sg.compound-member"
+    },
+    {
+     "surface": "prātaḥ",
+     "gloss": "in-morning",
+     "grounds": "time of preparation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sopavāso",
+     "gloss": "with-fasting",
+     "grounds": "condition of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jita",
+     "gloss": "conquered",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "indriyaḥ",
+     "gloss": "senses",
+     "grounds": "second member, describes practitioner",
+     "morph": "m.nom.sg.compound-member"
+    }
+   ],
+   "question": "What preparatory disciplines must the practitioner observe in the morning?",
+   "premises": [
+    "The practitioner has performed daily rites.",
+    "The practitioner observes fasting in the morning.",
+    "The practitioner has conquered the senses."
+   ],
+   "inference": "Therefore the practitioner must perform daily rites, fast in the morning, and conquer the senses.",
+   "uncertainties": [],
+   "plain_english": "Having performed the daily rites in the morning, fasting and with senses conquered."
+  },
+  {
+   "verse": 13040,
+   "rows": [
+    {
+     "surface": "pragṛhya",
+     "gloss": "having-taken",
+     "grounds": "prior action",
+     "morph": "absolutive √grah"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sāmagrīṃ",
+     "gloss": "materials",
+     "grounds": "object taken",
+     "morph": "f.acc.sg.compound-member"
+    },
+    {
+     "surface": "sāyam",
+     "gloss": "in-evening",
+     "grounds": "time of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttara",
+     "gloss": "northern",
+     "grounds": "first member describing practitioner",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg.compound-member"
+    }
+   ],
+   "question": "When and how should the northern practitioner gather all ritual materials?",
+   "premises": [
+    "The practitioner takes all materials.",
+    "The action occurs in the evening.",
+    "The practitioner is associated with the northern direction."
+   ],
+   "inference": "Therefore the northern practitioner should take all materials in the evening.",
+   "uncertainties": [
+    "The meaning of 'uttara' as northern or superior is context-dependent."
+   ],
+   "plain_english": "In the evening, the northern practitioner, having taken all the materials."
+  },
+  {
+   "verse": 13041,
+   "rows": [
+    {
+     "surface": "vaṭakāḥ",
+     "gloss": "cakes",
+     "grounds": "item in list of offerings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caṇakā",
+     "gloss": "chickpeas",
+     "grounds": "item in list of offerings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhaktaṃ",
+     "gloss": "cooked-rice",
+     "grounds": "item in list of offerings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāyasa",
+     "gloss": "milk-rice",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "apūpa",
+     "gloss": "cake",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śaṣkuli",
+     "gloss": "pastry",
+     "grounds": "third member of compound",
+     "morph": "n.nom.sg.compound-member"
+    }
+   ],
+   "question": "What food items are included among the ritual materials to be gathered?",
+   "premises": [
+    "Cakes and chickpeas are included.",
+    "Cooked rice is included.",
+    "Milk-rice, cakes, and pastries are included."
+   ],
+   "inference": "Therefore the ritual materials include cakes, chickpeas, cooked rice, milk-rice, cakes, and pastries.",
+   "uncertainties": [],
+   "plain_english": "Cakes, chickpeas, cooked rice, milk-rice, cakes, and pastries."
+  },
+  {
+   "verse": 13042,
+   "rows": [
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "number of fire-sticks",
+     "morph": "numeral.nom.pl"
+    },
+    {
+     "surface": "vitasti",
+     "gloss": "span",
+     "grounds": "first member indicating measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dīrghāḥ",
+     "gloss": "long",
+     "grounds": "describes length of sticks",
+     "morph": "f.nom.pl.compound-member"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samidhaḥ",
+     "gloss": "fire-sticks",
+     "grounds": "items specified",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "khādirā",
+     "gloss": "of-khadira",
+     "grounds": "material of sticks",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "predicate indicating prescription",
+     "morph": "f.nom.pl.past-participle √man"
+    }
+   ],
+   "question": "What kind and number of fire-sticks are prescribed for the ritual?",
+   "premises": [
+    "Eight fire-sticks are required.",
+    "Each stick is a span long.",
+    "The sticks are made of khadira wood."
+   ],
+   "inference": "Therefore eight fire-sticks of khadira wood, each a span long, are prescribed.",
+   "uncertainties": [],
+   "plain_english": "Eight fire-sticks, a span long, made of khadira wood, are prescribed."
+  },
+  {
+   "verse": 13043,
+   "rows": [
+    {
+     "surface": "bali",
+     "gloss": "offering",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "object specified",
+     "morph": "n.nom.sg.compound-member"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previously",
+     "grounds": "first member indicating prior mention",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "mentioned",
+     "grounds": "predicate describing substance",
+     "morph": "n.nom.sg.past-participle √vac.compound-member"
+    },
+    {
+     "surface": "pūrvāmnāye",
+     "gloss": "in-eastern-transmission",
+     "grounds": "context of specification",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samatsyakam",
+     "gloss": "with-fish",
+     "grounds": "additional specification",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What offering substance is specified for the eastern transmission?",
+   "premises": [
+    "The offering substance was previously mentioned.",
+    "The context is the eastern transmission.",
+    "The substance includes fish."
+   ],
+   "inference": "Therefore in the eastern transmission the previously mentioned offering substance includes fish.",
+   "uncertainties": [],
+   "plain_english": "And the offering substance previously mentioned, in the eastern transmission, should include fish."
+  },
+  {
+   "verse": 13044,
+   "rows": [
+    {
+     "surface": "grāma",
+     "gloss": "village",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location",
+     "morph": "n.loc.sg.compound-member"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "alternative location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ūrdhvāmnāye",
+     "gloss": "in-upper-transmission",
+     "grounds": "context of specification",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saraktakam",
+     "gloss": "with-blood",
+     "grounds": "additional specification",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where and with what addition is the offering made in the upper transmission?",
+   "premises": [
+    "The offering is made in the middle of a village or in a cremation ground.",
+    "The context is the upper transmission.",
+    "The substance includes blood."
+   ],
+   "inference": "Therefore in the upper transmission that offering, made in a village middle or cremation ground, includes blood.",
+   "uncertainties": [],
+   "plain_english": "In the middle of a village or in a cremation ground, in the upper transmission, that offering should include blood."
+  },
+  {
+   "verse": 13045,
+   "rows": [
+    {
+     "surface": "pāda",
+     "gloss": "foot",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prakṣālanaṃ",
+     "gloss": "washing",
+     "grounds": "action performed",
+     "morph": "n.acc.sg.compound-member"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtvā",
+     "gloss": "having-remembered",
+     "grounds": "subsequent mental action",
+     "morph": "absolutive √smṛ"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "possessor of deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "object of remembrance",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What preparatory acts precede the invocation of the deity in this ritual?",
+   "premises": [
+    "Foot washing is performed first.",
+    "The deity is remembered afterward.",
+    "The deity belongs to that being."
+   ],
+   "inference": "Therefore one washes the feet and then remembers his deity.",
+   "uncertainties": [
+    "The referent of 'asya' depends on prior context."
+   ],
+   "plain_english": "Having washed the feet, then having remembered his deity."
+  },
+  {
+   "verse": 13046,
+   "rows": [
+    {
+     "surface": "tāḥ",
+     "gloss": "they",
+     "grounds": "subject, the deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prayacchantu",
+     "gloss": "may-grant",
+     "grounds": "benedictive request",
+     "morph": "3.pl.active-imperative √yam"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of success",
+     "morph": "pronoun.dat.sg"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "object requested",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prasannāḥ",
+     "gloss": "pleased",
+     "grounds": "desired state of deities",
+     "morph": "f.nom.pl.past-participle √sad"
+    },
+    {
+     "surface": "santu",
+     "gloss": "may-be",
+     "grounds": "benedictive wish",
+     "morph": "3.pl.active-imperative √as"
+    },
+    {
+     "surface": "pāntu",
+     "gloss": "may-protect",
+     "grounds": "benedictive request",
+     "morph": "3.pl.active-imperative √pā"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pronoun.acc.sg"
+    }
+   ],
+   "question": "What blessings are requested from the invoked deities for the practitioner?",
+   "premises": [
+    "The deities are asked to grant success.",
+    "The deities are asked to be pleased.",
+    "The deities are asked to protect the practitioner."
+   ],
+   "inference": "Therefore the practitioner requests success, favor, and protection from the deities.",
+   "uncertainties": [],
+   "plain_english": "May they grant me success, may they be pleased, and may they protect me."
+  },
+  {
+   "verse": 13047,
+   "rows": [
+    {
+     "surface": "kapālī",
+     "gloss": "kapali",
+     "grounds": "name of guardian deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "direction guarded",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive request",
+     "morph": "3.sg.active-imperative √pā"
+    },
+    {
+     "surface": "nairṛtye",
+     "gloss": "in-southwest",
+     "grounds": "direction guarded",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jaṭilo",
+     "gloss": "jatila",
+     "grounds": "name of guardian deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vatu",
+     "gloss": "may-protect",
+     "grounds": "benedictive request, variant form",
+     "morph": "3.sg.active-imperative √av"
+    }
+   ],
+   "question": "Which guardian deities are invoked to protect the southern and southwestern directions?",
+   "premises": [
+    "Kapali is invoked in the south.",
+    "Jatila is invoked in the southwest.",
+    "Both are asked to protect."
+   ],
+   "inference": "Therefore Kapali protects the south and Jatila protects the southwest.",
+   "uncertainties": [],
+   "plain_english": "May Kapali protect in the south; may Jatila protect in the southwest."
+  },
+  {
+   "verse": 13048,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "direction guarded",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "muṇḍa",
+     "gloss": "skull",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "garland",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ḍhya",
+     "gloss": "adorned",
+     "grounds": "third member of compound",
+     "morph": "m.nom.sg.compound-member"
+    },
+    {
+     "surface": "īśāne",
+     "gloss": "in-northeast",
+     "grounds": "direction guarded",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛṣabha",
+     "gloss": "bull",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhvajaḥ",
+     "gloss": "bannered",
+     "grounds": "second member, name of guardian",
+     "morph": "m.nom.sg.compound-member"
+    }
+   ],
+   "question": "Which guardian deities are invoked to protect the northern and northeastern directions?",
+   "premises": [
+    "The skull-garland-adorned one is invoked in the north.",
+    "The bull-bannered one is invoked in the northeast.",
+    "Both serve as directional protectors."
+   ],
+   "inference": "Therefore the skull-garland-adorned one protects the north and the bull-bannered one protects the northeast.",
+   "uncertainties": [],
+   "plain_english": "In the north, the one adorned with a garland of skulls; in the northeast, the one whose banner is a bull."
+  },
+  {
+   "verse": 13049,
+   "rows": [
+    {
+     "surface": "agrato",
+     "gloss": "in-front",
+     "grounds": "direction guarded",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavaḥ",
+     "gloss": "bhairava",
+     "grounds": "name of guardian deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive request",
+     "morph": "3.sg.active-imperative √pā"
+    },
+    {
+     "surface": "pṛṣṭhataḥ",
+     "gloss": "from-behind",
+     "grounds": "direction guarded",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive request",
+     "morph": "3.sg.active-imperative √pā"
+    },
+    {
+     "surface": "khecaraḥ",
+     "gloss": "khecara",
+     "grounds": "name of guardian deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which guardian deities are invoked to protect the front and rear directions?",
+   "premises": [
+    "Bhairava is invoked in front.",
+    "Khecara is invoked behind.",
+    "Both are asked to protect."
+   ],
+   "inference": "Therefore Bhairava protects the front and Khecara protects the rear.",
+   "uncertainties": [],
+   "plain_english": "May Bhairava protect in front; may Khecara protect from behind."
+  }
+ ]
+}
