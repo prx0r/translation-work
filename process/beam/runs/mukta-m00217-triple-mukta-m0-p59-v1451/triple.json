@@ -1,0 +1,962 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1451,
+   "rows": [
+    {
+     "surface": "anaṅgakusumāgre",
+     "gloss": "at-limbless-flower-tip",
+     "grounds": "locative compound indicating the ritual location",
+     "morph": "compound anaṅga-kusuma-agra + m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.act-optative √yaj"
+    },
+    {
+     "surface": "tripurasundarīm",
+     "gloss": "tripura-beauty",
+     "grounds": "name of the goddess as object of worship",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where and whom must the worshipper worship at the tip of the limbless flower?",
+   "premises": [
+    "The ritual location is the tip of the limbless flower.",
+    "The prescribed action is worship.",
+    "The object of worship is Tripurasundarī."
+   ],
+   "inference": "Therefore the worshipper should worship Tripurasundarī at the tip of the limbless flower.",
+   "uncertainties": [
+    "The exact ritual referent of anaṅgakusuma is not specified in this verse."
+   ],
+   "plain_english": "But at the tip of the limbless flower, one should worship Tripurasundarī."
+  },
+  {
+   "verse": 1452,
+   "rows": [
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the yoginīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "guptatarāḥ",
+     "gloss": "most-secret",
+     "grounds": "qualifies the yoginīs as highly concealed",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "subject of the description",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound indicating totality",
+     "morph": "compound sarva-saṃ-tataḥ + first-member"
+    },
+    {
+     "surface": "saṃ",
+     "gloss": "together",
+     "grounds": "middle member of compound",
+     "morph": "compound sarva-saṃ-tataḥ + middle-member"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "extended",
+     "grounds": "final member of compound describing pervasion",
+     "morph": "compound sarva-saṃ-tataḥ + f.nom.pl"
+    }
+   ],
+   "question": "What is the nature and extent of the yoginīs introduced in this context?",
+   "premises": [
+    "These yoginīs are described as most secret.",
+    "The yoginīs are characterized as all-pervading."
+   ],
+   "inference": "Therefore the yoginīs in this context are most secret and all-pervading.",
+   "uncertainties": [
+    "The exact parsing of sarva saṃ tataḥ as a compound is interpretive."
+   ],
+   "plain_english": "These yoginīs are indeed most secret and all-pervading."
+  },
+  {
+   "verse": 1453,
+   "rows": [
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "flower-offering",
+     "grounds": "object to be given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescribes the offering action",
+     "morph": "3.sg.act-optative √dā"
+    },
+    {
+     "surface": "abhīṣṭa",
+     "gloss": "desired",
+     "grounds": "first member of compound naming the mantra",
+     "morph": "compound abhīṣṭa-iti + first-member"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker in compound",
+     "morph": "compound abhīṣṭa-iti + (indecl.)"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "qualified agent who performs the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offering must the knower of mantras present to the goddess?",
+   "premises": [
+    "The recipient of the offering is the goddess.",
+    "The offering to be given is a handful of flowers.",
+    "The agent is one who knows the mantra."
+   ],
+   "inference": "Therefore the knower of mantras should offer a handful of flowers to the goddess with the desired mantra.",
+   "uncertainties": [
+    "The exact mantra indicated by abhīṣṭa iti is not specified."
+   ],
+   "plain_english": "The knower of mantras should offer a handful of flowers to the goddess with the desired mantra."
+  },
+  {
+   "verse": 1454,
+   "rows": [
+    {
+     "surface": "sāmānyāt",
+     "gloss": "from-common",
+     "grounds": "indicates the general starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dbhiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental element in the ritual sequence",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "paścimāt",
+     "gloss": "from-west",
+     "grounds": "directional reference",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning",
+     "grounds": "marks the start of the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmāvarta",
+     "gloss": "leftward-turning",
+     "grounds": "first member of compound describing order",
+     "morph": "compound vāmāvarta-krameṇa + first-member"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "specifies the sequence of action",
+     "morph": "compound vāmāvarta-krameṇa + m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what directional order should the ritual sequence proceed from the common starting point?",
+   "premises": [
+    "The sequence begins from the common point and the west.",
+    "The order of movement is leftward-turning."
+   ],
+   "inference": "Therefore the ritual should proceed in a leftward-turning order starting from the common point and the west.",
+   "uncertainties": [
+    "The token dbhiḥ is obscure in this context and may be a textual issue."
+   ],
+   "plain_english": "Beginning from the common point and from the west, proceed in a leftward-turning order."
+  },
+  {
+   "verse": 1455,
+   "rows": [
+    {
+     "surface": "sarvasaṃkṣobhiṇī",
+     "gloss": "all-agitating",
+     "grounds": "name of the first power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "identifies the entity as a śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvavidrāviṇī",
+     "gloss": "all-driving-away",
+     "grounds": "name of the second power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which powers are named first in this sequence of śaktis?",
+   "premises": [
+    "The first named power is Sarvasaṃkṣobhiṇī.",
+    "The second named power is Sarvavidrāviṇī."
+   ],
+   "inference": "Therefore the sequence begins with the powers Sarvasaṃkṣobhiṇī and Sarvavidrāviṇī.",
+   "uncertainties": [],
+   "plain_english": "The power Sarvasaṃkṣobhiṇī, and likewise Sarvavidrāviṇī."
+  },
+  {
+   "verse": 1456,
+   "rows": [
+    {
+     "surface": "sarvasammohinī",
+     "gloss": "all-deluding",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvastambhinī",
+     "gloss": "all-paralyzing",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvajṛmbhiṇī",
+     "gloss": "all-expanding",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional powers continue the enumerated sequence of śaktis?",
+   "premises": [
+    "Sarvasammohinī is named in the sequence.",
+    "Sarvastambhinī and Sarvajṛmbhiṇī are named in the sequence."
+   ],
+   "inference": "Therefore the sequence continues with Sarvasammohinī, Sarvastambhinī, and Sarvajṛmbhiṇī.",
+   "uncertainties": [],
+   "plain_english": "Sarvasammohinī, Sarvastambhinī, and Sarvajṛmbhiṇī."
+  },
+  {
+   "verse": 1457,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvonmādinī",
+     "gloss": "all-maddening",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvārthasādhinī",
+     "gloss": "all-purpose-accomplishing",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which powers follow next in the continuing enumeration of śaktis?",
+   "premises": [
+    "The sequence continues after the previous powers.",
+    "Sarvonmādinī and Sarvārthasādhinī are named."
+   ],
+   "inference": "Therefore the next powers in the sequence are Sarvonmādinī and Sarvārthasādhinī.",
+   "uncertainties": [],
+   "plain_english": "Then Sarvonmādinī, and likewise Sarvārthasādhinī."
+  },
+  {
+   "verse": 1458,
+   "rows": [
+    {
+     "surface": "sarvamantramayī",
+     "gloss": "all-mantra-embodied",
+     "grounds": "name and nature of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "identifies the entity as a śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvadvandvakṣayaṅkarī",
+     "gloss": "all-duality-destroying",
+     "grounds": "name and function of a power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which final powers complete this group in the śakti enumeration?",
+   "premises": [
+    "Sarvamantramayī is named as a power.",
+    "Sarvadvandvakṣayaṅkarī is named as a power."
+   ],
+   "inference": "Therefore this group concludes with the powers Sarvamantramayī and Sarvadvandvakṣayaṅkarī.",
+   "uncertainties": [],
+   "plain_english": "The power Sarvamantramayī, and Sarvadvandvakṣayaṅkarī."
+  },
+  {
+   "verse": 1459,
+   "rows": [
+    {
+     "surface": "sampradāya",
+     "gloss": "tradition",
+     "grounds": "first member of compound naming the yoginīs",
+     "morph": "compound sampradāya-ākhya + first-member"
+    },
+    {
+     "surface": "ākhya",
+     "gloss": "named",
+     "grounds": "second member of compound indicating designation",
+     "morph": "compound sampradāya-ākhya + f.nom.pl"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "subject identified by the compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitāḥ",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "describes the appearance of the yoginīs",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the tradition-named yoginīs described in their appearance?",
+   "premises": [
+    "The yoginīs are named as belonging to the tradition.",
+    "They are adorned with all ornaments."
+   ],
+   "inference": "Therefore the tradition-named yoginīs are described as adorned with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The yoginīs named of the tradition are adorned with all ornaments."
+  },
+  {
+   "verse": 1460,
+   "rows": [
+    {
+     "surface": "pāśa",
+     "gloss": "noose",
+     "grounds": "first attribute held by the yoginīs",
+     "morph": "compound pāśa-aṃkuśa + first-member"
+    },
+    {
+     "surface": "aṃkuśa",
+     "gloss": "goad",
+     "grounds": "second attribute held by the yoginīs",
+     "morph": "compound pāśa-aṃkuśa + m.nom.sg"
+    },
+    {
+     "surface": "darpaṇaṃ",
+     "gloss": "mirror",
+     "grounds": "third attribute held by the yoginīs",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pānapātraṃ",
+     "gloss": "drinking-vessel",
+     "grounds": "fourth attribute held by the yoginīs",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sudhāmayam",
+     "gloss": "nectar-filled",
+     "grounds": "qualifies the drinking vessel",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual implements are held by the tradition-named yoginīs?",
+   "premises": [
+    "The yoginīs hold a noose and a goad.",
+    "They hold a mirror and a nectar-filled drinking vessel."
+   ],
+   "inference": "Therefore the tradition-named yoginīs hold a noose, goad, mirror, and nectar-filled vessel.",
+   "uncertainties": [],
+   "plain_english": "They hold a noose, a goad, a mirror, and a nectar-filled drinking vessel."
+  },
+  {
+   "verse": 1461,
+   "rows": [
+    {
+     "surface": "sarvasaṃkṣobhiṇīpūrve",
+     "gloss": "beginning-with-all-agitating",
+     "grounds": "locative compound indicating the starting point",
+     "morph": "compound sarvasaṃkṣobhiṇī-pūrve + m.loc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.act-optative √yaj"
+    },
+    {
+     "surface": "tripuravāsinīm",
+     "gloss": "dweller-in-tripura",
+     "grounds": "name of the goddess as object of worship",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom should one worship beginning with the power Sarvasaṃkṣobhiṇī?",
+   "premises": [
+    "The worship begins with Sarvasaṃkṣobhiṇī.",
+    "The prescribed action is worship.",
+    "The object of worship is the dweller in Tripura."
+   ],
+   "inference": "Therefore one should worship the dweller in Tripura beginning with Sarvasaṃkṣobhiṇī.",
+   "uncertainties": [],
+   "plain_english": "Beginning with Sarvasaṃkṣobhiṇī, one should worship the dweller in Tripura."
+  },
+  {
+   "verse": 1462,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the yoginīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sampradāyayoginyaḥ",
+     "gloss": "tradition-yoginīs",
+     "grounds": "identifies the group of yoginīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "specifies sequential performance",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what manner should these tradition yoginīs be worshipped?",
+   "premises": [
+    "These are the tradition yoginīs.",
+    "The worship is to be performed in sequence."
+   ],
+   "inference": "Therefore these tradition yoginīs should indeed be worshipped in order.",
+   "uncertainties": [],
+   "plain_english": "Then these tradition yoginīs should indeed be worshipped in order."
+  },
+  {
+   "verse": 1463,
+   "rows": [
+    {
+     "surface": "bahirdaśārake",
+     "gloss": "in-outer-ten-spoked",
+     "grounds": "locative compound specifying the cakra",
+     "morph": "compound bahir-daśārake + n.loc.sg"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-wheel",
+     "grounds": "ritual diagram location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sāmānyasudhayā",
+     "gloss": "with-common-nectar",
+     "grounds": "instrumental substance used in worship",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where and with what substance is the worship performed in this stage?",
+   "premises": [
+    "The location is the outer ten-spoked wheel.",
+    "The worship uses common nectar."
+   ],
+   "inference": "Therefore the worship is performed in the outer ten-spoked wheel with common nectar.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, in the outer ten-spoked wheel, with common nectar."
+  },
+  {
+   "verse": 1464,
+   "rows": [
+    {
+     "surface": "sarvasiddhipradā",
+     "gloss": "all-accomplishment-giving",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "identifies the entity as a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasampatpradā",
+     "gloss": "all-prosperity-giving",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are named first in this enclosure of the cakra?",
+   "premises": [
+    "Sarvasiddhipradā is named as a goddess.",
+    "Sarvasampatpradā is named likewise."
+   ],
+   "inference": "Therefore the goddesses Sarvasiddhipradā and Sarvasampatpradā are named first.",
+   "uncertainties": [],
+   "plain_english": "The goddess Sarvasiddhipradā, and likewise Sarvasampatpradā."
+  },
+  {
+   "verse": 1465,
+   "rows": [
+    {
+     "surface": "sarvakāmapradā",
+     "gloss": "all-desire-giving",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "identifies the entity as a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaduḥkhavimocinī",
+     "gloss": "all-sorrow-releasing",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses continue the enumeration in this cakra enclosure?",
+   "premises": [
+    "Sarvakāmapradā is named as a goddess.",
+    "Sarvaduḥkhavimocinī is named as a goddess."
+   ],
+   "inference": "Therefore the enumeration continues with Sarvakāmapradā and Sarvaduḥkhavimocinī.",
+   "uncertainties": [],
+   "plain_english": "The goddess Sarvakāmapradā, and Sarvaduḥkhavimocinī."
+  },
+  {
+   "verse": 1466,
+   "rows": [
+    {
+     "surface": "sarvāṅgasundarī",
+     "gloss": "all-limbs-beautiful",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "identifies the entity as a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasaubhāgyadāyinī",
+     "gloss": "all-auspiciousness-giving",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which further goddesses are included in this sequence of the cakra?",
+   "premises": [
+    "Sarvāṅgasundarī is named as a goddess.",
+    "Sarvasaubhāgyadāyinī is named as a goddess."
+   ],
+   "inference": "Therefore the sequence includes Sarvāṅgasundarī and Sarvasaubhāgyadāyinī.",
+   "uncertainties": [],
+   "plain_english": "The goddess Sarvāṅgasundarī, and Sarvasaubhāgyadāyinī."
+  },
+  {
+   "verse": 1467,
+   "rows": [
+    {
+     "surface": "sarvasiddhipradādyāḥ",
+     "gloss": "beginning-with-all-accomplishment-giving",
+     "grounds": "compound summarizing the group of goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "identifies the group as yoginīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvakāmadāḥ",
+     "gloss": "all-desire-giving",
+     "grounds": "describes their function",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What collective identity and function characterize the goddesses beginning with Sarvasiddhipradā?",
+   "premises": [
+    "The group begins with Sarvasiddhipradā.",
+    "They are identified as yoginīs.",
+    "They grant all desires."
+   ],
+   "inference": "Therefore the yoginīs beginning with Sarvasiddhipradā are all-desire-giving.",
+   "uncertainties": [],
+   "plain_english": "The yoginīs beginning with Sarvasiddhipradā grant all desires."
+  },
+  {
+   "verse": 1468,
+   "rows": [
+    {
+     "surface": "mahāsaubhāgyagambhīrāḥ",
+     "gloss": "profound-in-great-auspiciousness",
+     "grounds": "describes their auspicious nature",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pīnavṛttaghanastanāḥ",
+     "gloss": "full-round-firm-breasted",
+     "grounds": "describes their physical form",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What qualities and physical features characterize these yoginīs?",
+   "premises": [
+    "The yoginīs are profound in great auspiciousness.",
+    "They have full, round, firm breasts."
+   ],
+   "inference": "Therefore these yoginīs are characterized by great auspiciousness and a full, firm form.",
+   "uncertainties": [],
+   "plain_english": "They are profound in great auspiciousness, with full, round, firm breasts."
+  },
+  {
+   "verse": 1469,
+   "rows": [
+    {
+     "surface": "nānāratnamayān",
+     "gloss": "made-of-various-gems",
+     "grounds": "qualifies the objects they hold",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dadhatyaḥ",
+     "gloss": "holding",
+     "grounds": "describes their action",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hasitānanāḥ",
+     "gloss": "smiling-faced",
+     "grounds": "describes their expression",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What objects do these yoginīs hold and what expression do they bear?",
+   "premises": [
+    "The yoginīs hold objects made of various gems.",
+    "They have smiling faces."
+   ],
+   "inference": "Therefore these yoginīs hold gem-made objects and bear smiling faces.",
+   "uncertainties": [
+    "The specific objects made of gems are not explicitly named."
+   ],
+   "plain_english": "Holding objects made of various gems, they have smiling faces."
+  },
+  {
+   "verse": 1470,
+   "rows": [
+    {
+     "surface": "sarvasiddhipradāgre",
+     "gloss": "beginning-with-all-accomplishment-giving",
+     "grounds": "locative compound indicating the starting point",
+     "morph": "compound sarvasiddhipradā-agre + n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakreśīṃ",
+     "gloss": "wheel-lady",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tripurāṃ",
+     "gloss": "tripura",
+     "grounds": "name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.act-optative √yaj"
+    }
+   ],
+   "question": "Whom should one worship beginning with the goddess Sarvasiddhipradā?",
+   "premises": [
+    "The worship begins with Sarvasiddhipradā.",
+    "The prescribed action is worship.",
+    "The objects of worship are the wheel-lady and Tripurā."
+   ],
+   "inference": "Therefore one should worship the wheel-lady Tripurā beginning with Sarvasiddhipradā.",
+   "uncertainties": [],
+   "plain_english": "But beginning with Sarvasiddhipradā, one should worship the wheel-lady Tripurā."
+  },
+  {
+   "verse": 1471,
+   "rows": [
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the yoginīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulakaulākhyayoginyaḥ",
+     "gloss": "family-kaula-named-yoginīs",
+     "grounds": "identifies the group by name",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "repeats the identification",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates the same manner as previously",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are these yoginīs named and in what manner are they to be treated?",
+   "premises": [
+    "These yoginīs are named as Kula and Kaula.",
+    "Their treatment follows the previous manner."
+   ],
+   "inference": "Therefore these Kula-Kaula-named yoginīs are to be treated as before.",
+   "uncertainties": [],
+   "plain_english": "And these yoginīs, named the Kula-Kaula yoginīs, are to be worshipped as before."
+  },
+  {
+   "verse": 1472,
+   "rows": [
+    {
+     "surface": "sarvarakṣākare",
+     "gloss": "all-protection-making",
+     "grounds": "qualifies the wheel",
+     "morph": "compound sarva-rakṣākare + n.loc.sg"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-wheel",
+     "grounds": "ritual diagram location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "antardaśāre",
+     "gloss": "in-inner-ten-spoked",
+     "grounds": "specifies the inner part of the wheel",
+     "morph": "compound antar-daśāre + n.loc.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In which part of the protective wheel does the next stage of worship occur?",
+   "premises": [
+    "The wheel is described as all-protection-making.",
+    "The specific location is the inner ten-spoked part."
+   ],
+   "inference": "Therefore the next stage occurs in the inner ten-spoked part of the all-protecting wheel.",
+   "uncertainties": [],
+   "plain_english": "O great lady, in the all-protecting wheel, in the inner ten-spoked part."
+  },
+  {
+   "verse": 1473,
+   "rows": [
+    {
+     "surface": "sarvajñā",
+     "gloss": "all-knowing",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaśaktiḥ",
+     "gloss": "all-powerful",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaiśvaryapradā",
+     "gloss": "all-sovereignty-giving",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are named in the inner ten-spoked enclosure?",
+   "premises": [
+    "Sarvajñā and Sarvaśaktiḥ are named.",
+    "Sarvaiśvaryapradā is named likewise."
+   ],
+   "inference": "Therefore the goddesses Sarvajñā, Sarvaśaktiḥ, and Sarvaiśvaryapradā are named in this enclosure.",
+   "uncertainties": [],
+   "plain_english": "Sarvajñā, Sarvaśaktiḥ, and likewise Sarvaiśvaryapradā."
+  },
+  {
+   "verse": 1474,
+   "rows": [
+    {
+     "surface": "sarvādhārasvarūpā",
+     "gloss": "all-support-natured",
+     "grounds": "name and nature of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvapāpaharā",
+     "gloss": "all-sin-removing",
+     "grounds": "name and function of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional goddesses complete this part of the inner enclosure enumeration?",
+   "premises": [
+    "Sarvādhārasvarūpā is named as a goddess.",
+    "Sarvapāpaharā is named likewise."
+   ],
+   "inference": "Therefore this part of the enumeration includes Sarvādhārasvarūpā and Sarvapāpaharā.",
+   "uncertainties": [],
+   "plain_english": "And Sarvādhārasvarūpā, and likewise Sarvapāpaharā."
+  }
+ ]
+}

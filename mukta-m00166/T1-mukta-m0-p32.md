@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[nara+siṃha+goddess](nārasiṃhī)
+[narasimha's-female-energy](nārasiṃhī) [goddess](nārasiṃhī) [divine-power](nārasiṃhī) [she](nārasiṃhī)
 
 ## mukta-m0-p32-v777
-[prahlāda](prahlādaṃ) [and](ca) [supreme](parā) [conquers](jayati) [exceedingly](atitarāṃ) [she](sā) [nara+siṃha+goddess](nārasiṃhī) [auspicious](śivā)
+[prahlāda](prahlādaṃ) [and](ca) [supreme](parā) [conquers](jayati) [exceedingly](atitarāṃ) [she](sā) [narasimha's-female-energy](nārasiṃhī) [auspicious](śivā)
 
 ## mukta-m0-p32-v778
-[vaiṣṇava+goddess](vaiṣṇavī)
+[vishnu's-female-energy](vaiṣṇavī) [goddess](vaiṣṇavī) [divine-power](vaiṣṇavī) [she](vaiṣṇavī)
 
 ## mukta-m0-p32-v779
-[may-be](bhavet) [higher+and+lower](parāparā) [she-alone](saiva) [if](yadi) [pleased](tuṣṭā) [not](na) [vaiṣṇava+goddess](vaiṣṇavī)
+[may-be](bhavet) [supreme+non-supreme](parāparā) [she-alone](saiva) [if](yadi) [pleased](tuṣṭā) [not](na) [vishnu's-female-energy](vaiṣṇavī)
 
 ## mukta-m0-p32-v780
-[large-bellied-goddess](mahodarī)
+[large-bellied-goddess](mahodarī) [goddess](mahodarī) [divine-power](mahodarī) [she](mahodarī)
 
 ## mukta-m0-p32-v781
-[then](tadā) [outside](bahiḥ) [what](kim) [this](etat) [indeed](nu) [wondrous](vicitraṃ) [wonder](citram) [spreads](ātanot)
+[then](tadā) [outside](bahiḥ) [what](kim) [this](etat) [indeed](nu) [wonderful](vicitraṃ) [wonder](citraṃ) [spreads](ātanot)
 
 ## mukta-m0-p32-v782
-[kātyāyanī](kātyāyanī)
+[katyayani](kātyāyanī) [goddess](kātyāyanī) [divine-power](kātyāyanī) [she](kātyāyanī)
 
 ## mukta-m0-p32-v783
-[whom](yāṃ) [having-attained](prāpya) [indeed](eva) [may-be](astu) [she](sā) [eternal](nityaṃ) [eternal](nityā) [kātyāyanī](kātyāyanī) [goal](gatiḥ)
+[whom](yāṃ) [having-obtained](prāpya) [indeed](eva) [may-be](astu) [she](sā) [eternal](nityaṃ) [eternal](nityā) [katyayani](kātyāyanī) [goal](gatiḥ)
 
 ## mukta-m0-p32-v784
-[page](p.) [120)](120)) [campā](campā)
+[page-120](p. 120)) [campa](campā) [goddess](campā) [divine-power](campā)
 
 ## mukta-m0-p32-v785
-[army](campūṃ) [and](ca) [assembled](sambhṛtāṃ) [campā](campā) [may-manifest](prakaṭīkurutāṃ) [of-the-good](satām)
+[army](campūṃ) [and](ca) [assembled](sambhṛtāṃ) [campa](campā) [may-manifest](prakaṭīkurutāṃ) [of-the-good](satām)
 
 ## mukta-m0-p32-v786
-[all+prosperity+causing](sarvasampattikāriṇī)
+[all+prosperity+causing](sarvasampattikāriṇī) [goddess](sarvasampattikāriṇī) [divine-power](sarvasampattikāriṇī) [she](sarvasampattikāriṇī)
 
 ## mukta-m0-p32-v787
 [meditated-upon](dhyātā) [indeed](eva) [she](sā) [then](tato) [sung](gītā) [all+prosperity+causing](sarvasampattikāriṇī)
 
 ## mukta-m0-p32-v788
-[nārāyaṇī](nārāyaṇī)
+[narayani](nārāyaṇī) [goddess](nārāyaṇī) [divine-power](nārāyaṇī) [she](nārāyaṇī)
 
 ## mukta-m0-p32-v789
-[nārāyaṇa](nārāyaṇa) [thus](iti) [renowned](prathitaḥ) [he](sa) [whose](yasyā) [nārāyaṇī](nārāyaṇī) [she](sā) [indeed](kila) [hard+to+measure](duṣprameyā)
+[narayana](nārāyaṇa) [thus](iti) [renowned](prathitaḥ) [he](sa) [of-whom](yasyā) [narayani](nārāyaṇī) [she](sā) [indeed](kila) [difficult+to-measure](duṣprameyā)
 
 ## mukta-m0-p32-v790
-[great+sleep](mahānidrā)
+[great+sleep](mahānidrā) [goddess](mahānidrā) [divine-power](mahānidrā) [she](mahānidrā)
 
 ## mukta-m0-p32-v791
-[great+sleep](mahānidrā) [may-drive-away](vidrāvayatu) [calamity](vipadaṃ) [of-difficult+paths](durgamapadām)
+[great+sleep](mahānidrā) [may-drive-away](vidrāvayatu) [calamity](vipadaṃ) [of-difficult+misfortunes](durgamapadām)
 
 ## mukta-m0-p32-v792
-[yoga+sleep](yoganidrā)
+[yoga+sleep](yoganidrā) [goddess](yoganidrā) [divine-power](yoganidrā) [she](yoganidrā)
 
 ## mukta-m0-p32-v793
-[clarity](vaiśadyam) [own](ātmīyam) [having-obtained](avāpya) [charming](hṛdyāṃ) [accomplishment](siddhiṃ) [in-own+yoga](svayoge) [make](kuru) [yoga+sleep](yoganidrā)
+[clarity](vaiśadyam) [one's-own](ātmīyam) [having-obtained](avāpya) [in-the-heart](hṛdyāṃ) [accomplishment](siddhiṃ) [in-own+yoga](svayoge) [make](kuru) [yoga+sleep](yoganidrā)
 
 ## mukta-m0-p32-v794
-[luminous-goddess](prabhāvatī)
+[radiant-goddess](prabhāvatī) [goddess](prabhāvatī) [divine-power](prabhāvatī) [she](prabhāvatī)
 
 ## mukta-m0-p32-v795
-[in-day](dine) [even](api) [by-which](yat) [bereft](hīnam) [this](idaṃ) [not](na) [anything](kiṃcit) [luminous-goddess](prabhāvatī) [she](sā) [may-give](dadatāṃ) [own+radiance](nijābhām)
+[in-day](dine) [even](api) [by-which](yat) [devoid](dhīnam) [this](idaṃ) [not](na) [anything](kiṃcid) [radiant-goddess](prabhāvatī) [she](sā) [may-give](dadatāṃ) [own+radiance](nijābhām)
 
 ## mukta-m0-p32-v796
-[page](p.) [121)](121)) [wisdom+perfection](prajñāpāramitā)
+[page-121](p. 121)) [perfection+of-wisdom](prajñāpāramitā) [goddess](prajñāpāramitā) [divine-power](prajñāpāramitā)
 
 ## mukta-m0-p32-v797
-[wisdom+perfection](prajñāpāramitā) [immeasurable](amitā) [may-be](astu) [exceedingly](nitarāṃ) [for-wisdom+accomplishment](prajñāprasiddhyai) [of-the-good](satām)
+[perfection+of-wisdom](prajñāpāramitā) [immeasurable](amitā) [may-be](astu) [exceedingly](nitarāṃ) [for-wisdom+accomplishment](prajñāprasiddhyai) [of-the-good](satām)
 
 ## mukta-m0-p32-v798
-[wisdom](prajñā)
+[wisdom](prajñā) [goddess](prajñā) [divine-power](prajñā) [she](prajñā)
 
 ## mukta-m0-p32-v799
-[he](sa) [merit+possessing](puṇyabhāk) [like-a-ball](kandukavat) [within-which](yadantaḥ) [wisdom](prajñā) [state](sthitiṃ) [placing](sandadhatī) [being](satī) [this](iyam)
+[he](sa) [merit+possessing](puṇyabhāk) [like-a-ball](kandukavat) [within](yadantaḥ) [wisdom](prajñā) [state](sthitiṃ) [placing](sandadhatī) [being](satī) [this](iyam)
 
 ## mukta-m0-p32-v800
-[tārā](tārā)
+[tara](tārā) [goddess](tārā) [divine-power](tārā) [she](tārā)

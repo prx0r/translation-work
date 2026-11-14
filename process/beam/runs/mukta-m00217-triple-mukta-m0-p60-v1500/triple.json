@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "dadhato",
+     "gloss": "holding",
+     "grounds": "present participle of √dhā, describing the bearer of the previously mentioned attributes",
+     "morph": "pres.part.nom.du.m, √dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking this description to the preceding verse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agrakoṇasthā",
+     "gloss": "front-corner-standing",
+     "grounds": "compound indicating location in the front corner; agrees with rudraśaktiḥ",
+     "morph": "compound: agra-koṇa-sthā, f.nom.sg"
+    },
+    {
+     "surface": "rudraśaktiḥ",
+     "gloss": "rudra-power",
+     "grounds": "names the specific śakti being identified",
+     "morph": "compound: rudra-śaktiḥ, f.nom.sg"
+    },
+    {
+     "surface": "prikīrtitā",
+     "gloss": "declared",
+     "grounds": "predicate stating the identification of the śakti",
+     "morph": "ppp.f.nom.sg, pra-√kīrt"
+    }
+   ],
+   "question": "Which divine power stationed in the front corner is identified as holding the depicted emblems?",
+   "premises": [
+    "The preceding verses describe figures holding boon, fearlessness, and a nectar vessel.",
+    "A power is described as standing in the front corner.",
+    "That power is explicitly declared to be Rudraśakti."
+   ],
+   "inference": "The Rudraśakti stationed in the front corner is the one identified as holding those emblems.",
+   "uncertainties": [
+    "The exact referent and agreement of dadhato in relation to rudraśaktiḥ are contextually inferred."
+   ],
+   "plain_english": "And the Rudra-śakti, standing in the front corner and holding them, is declared."
+  }
+ ]
+}

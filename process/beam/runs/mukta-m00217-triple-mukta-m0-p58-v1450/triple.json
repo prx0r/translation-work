@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "anaṅgamālinī",
+     "gloss": "love-god-garlanded",
+     "grounds": "epithet or deity name; feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to enumerated deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bandhūkakusumaprabhāḥ",
+     "gloss": "bandhūka-flower-radiant",
+     "grounds": "bahuvrīhi compound describing luminous appearance",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What identity and radiance characterize the concluding deities in this directional enumeration?",
+   "premises": [
+    "The deity Anaṅgamālinī is named in this enumeration.",
+    "The particle hi emphasizes the stated identification.",
+    "These deities possess radiance like bandhūka flowers."
+   ],
+   "inference": "The concluding deities of the sequence are identified as Anaṅgamālinī, radiant like bandhūka flowers.",
+   "uncertainties": [
+    "Whether etāḥ refers only to Anaṅgamālinī or collectively includes previously named deities."
+   ],
+   "plain_english": "Indeed these are Anaṅgamālinī, radiant like bandhūka flowers."
+  }
+ ]
+}

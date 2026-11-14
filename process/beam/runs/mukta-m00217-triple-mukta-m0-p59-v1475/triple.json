@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "pūjanīyā",
+     "gloss": "worthy-of-worship",
+     "grounds": "gerundive adjective describing the goddess as deserving worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-diligent-effort",
+     "grounds": "instrumental expressing the manner in which worship is to be performed",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sarvepsitaphalapradā",
+     "gloss": "giver-of-all-desired-fruits",
+     "grounds": "compound: sarva-īpsita-phala-pradā, describing the goddess as bestowing all wished-for results",
+     "morph": "compound; f.nom.sg"
+    }
+   ],
+   "question": "What manner of worship and what boon does the goddess merit from devotees?",
+   "premises": [
+    "The goddess is worthy of worship.",
+    "Her worship must be performed with diligent effort.",
+    "She grants all desired fruits to her devotees."
+   ],
+   "inference": "Therefore the goddess merits diligent worship because she bestows all desired fruits.",
+   "uncertainties": [],
+   "plain_english": "She is worthy of worship with diligent effort, for she grants all desired fruits."
+  }
+ ]
+}

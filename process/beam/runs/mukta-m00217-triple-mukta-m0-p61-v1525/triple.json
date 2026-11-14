@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "binducakre",
+     "gloss": "in-bindu-circle",
+     "grounds": "locative of compound bindu-cakra; location of ritual action",
+     "morph": "compound:bindu+cakra; n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvādicaturdikṣu",
+     "gloss": "in-four-directions-beginning-with-east",
+     "grounds": "locative plural of compound pūrva-ādi-catur-diś; specifies directional locations",
+     "morph": "compound:pūrva+ādi+catur+diś; f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "in-the-middle",
+     "grounds": "adverbial form indicating central location",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which specific locations within the bindu-circle is ritual satisfaction to be directed?",
+   "premises": [
+    "The bindu-circle is named as the locus of ritual satisfaction.",
+    "The four directions beginning with east are specified as locations.",
+    "The middle is specified as an additional location."
+   ],
+   "inference": "Ritual satisfaction is to be directed within the bindu-circle at the four directions beginning with east and at the middle.",
+   "uncertainties": [
+    "The verb governing the satisfaction is carried over from the preceding verse."
+   ],
+   "plain_english": "And in the bindu-circle, in the four directions beginning with the east, and in the middle."
+  }
+ ]
+}

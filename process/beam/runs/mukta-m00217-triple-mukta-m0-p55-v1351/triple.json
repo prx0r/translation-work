@@ -1,0 +1,961 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "ajapā",
+     "gloss": "unrecited",
+     "grounds": "name of the unuttered mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mother-syllables",
+     "grounds": "name of the syllable-mother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "conjunction marking enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying sheaths",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kośāḥ",
+     "gloss": "sheaths",
+     "grounds": "enveloping layers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "traditionally proclaimed",
+     "morph": "m.nom.pl.past-passive-participle"
+    }
+   ],
+   "question": "Which five sheaths are proclaimed together with Ajapā and Mātṛkā?",
+   "premises": [
+    "Ajapā and Mātṛkā are named in the enumeration",
+    "Five sheaths are declared",
+    "The enumeration forms a set of five"
+   ],
+   "inference": "Ajapā and Mātṛkā are included among the five proclaimed sheaths.",
+   "uncertainties": [
+    "The identity of the remaining three sheaths is not specified in this verse"
+   ],
+   "plain_english": "Ajapā, Mātṛkā, and so on are declared to be the five sheaths."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "caturasre",
+     "gloss": "in-square",
+     "grounds": "location in the square enclosure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition to next instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "directions starting from the east",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīpātrāmṛtabindubhiḥ",
+     "gloss": "with-auspicious-cup-nectar-drops",
+     "grounds": "instrumental means in worship",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Where and by what means are offerings placed beginning from the east?",
+   "premises": [
+    "The location is the square",
+    "The sequence begins from the east",
+    "The means are drops of nectar from the auspicious cup"
+   ],
+   "inference": "In the square, offerings are made from the east onward using drops of nectar from the auspicious cup.",
+   "uncertainties": [
+    "The specific deities or items receiving the drops are not named here"
+   ],
+   "plain_english": "But in the square, beginning from the east, one uses drops of nectar from the auspicious cup."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "triśaktiḥ",
+     "gloss": "three-powers",
+     "grounds": "possessing three powers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasāmrājyā",
+     "gloss": "universal-sovereignty",
+     "grounds": "having sovereignty over all",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣmyaḥ",
+     "gloss": "lakṣmīs",
+     "grounds": "goddesses named Lakṣmī",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying Lakṣmīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "traditionally proclaimed",
+     "morph": "f.nom.pl.past-passive-participle"
+    }
+   ],
+   "question": "How many Lakṣmīs endowed with three powers and universal sovereignty are proclaimed?",
+   "premises": [
+    "The Lakṣmīs possess three powers",
+    "The Lakṣmīs possess universal sovereignty",
+    "Their number is declared as five"
+   ],
+   "inference": "Five Lakṣmīs characterized by three powers and universal sovereignty are proclaimed.",
+   "uncertainties": [
+    "The individual names of these five Lakṣmīs are not given in this verse"
+   ],
+   "plain_english": "Five Lakṣmīs, possessing three powers and universal sovereignty, are declared."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying Lakṣmīs",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "lakṣmīs",
+     "grounds": "goddesses to be worshipped",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying wish-cows",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kāmadughā",
+     "gloss": "wish-granting-cows",
+     "grounds": "deities who fulfill desires",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    }
+   ],
+   "question": "What ritual sequence follows the worship of the five Lakṣmīs?",
+   "premises": [
+    "The five Lakṣmīs are to be worshipped first",
+    "After that worship, another act is enjoined",
+    "The next act is worship of the five wish-granting cows"
+   ],
+   "inference": "After worshipping the five Lakṣmīs, one should worship the five wish-granting cows.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the five Lakṣmīs, one should then worship the five wish-granting cows."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "śrīvidyāmṛtapīṭheśī",
+     "gloss": "lady-of-śrīvidyā-nectar-seat",
+     "grounds": "name of a deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sudhāsūramṛteśvarī",
+     "gloss": "lady-of-nectar-sun-immortality",
+     "grounds": "name of a deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which two goddesses are named as presiding over nectar seats in this context?",
+   "premises": [
+    "The first named is the lady of the Śrīvidyā nectar seat",
+    "The second named is the lady of nectar, sun, and immortality",
+    "Both are presented as divine names"
+   ],
+   "inference": "Śrīvidyāmṛtapīṭheśī and Sudhāsūramṛteśvarī are the two named goddesses.",
+   "uncertainties": [
+    "Their precise placement in the ritual sequence is implied by context rather than stated here"
+   ],
+   "plain_english": "The goddesses are Śrīvidyāmṛtapīṭheśī and Sudhāsūramṛteśvarī."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśasudhāpātrakalaśā",
+     "gloss": "holding-noose-goad-nectar-cup-jar",
+     "grounds": "describing attributes held",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "raktavigrahāḥ",
+     "gloss": "red-bodied",
+     "grounds": "describing bodily color",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What attributes and bodily color characterize the goddesses described here?",
+   "premises": [
+    "They hold a noose, goad, nectar cup, and jar",
+    "Their bodies are red",
+    "These are descriptive attributes of the goddesses"
+   ],
+   "inference": "The goddesses are red-bodied and hold a noose, goad, nectar cup, and jar.",
+   "uncertainties": [
+    "The referent goddesses are carried over from the preceding verse"
+   ],
+   "plain_english": "They hold a noose, goad, nectar cup, and jar, and their bodies are red."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "sthiticakre",
+     "gloss": "in-maintenance-wheel",
+     "grounds": "location in the wheel of maintenance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition to another location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "directions starting from the east",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīpātrāmṛtabindubhiḥ",
+     "gloss": "with-auspicious-cup-nectar-drops",
+     "grounds": "instrumental means in worship",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What ritual action is performed in the maintenance wheel beginning from the east?",
+   "premises": [
+    "The location is the maintenance wheel",
+    "The sequence begins from the east",
+    "The means are drops of nectar from the auspicious cup"
+   ],
+   "inference": "In the maintenance wheel, offerings are made from the east onward using drops of nectar from the auspicious cup.",
+   "uncertainties": [
+    "The recipients of the drops are specified in the following verse"
+   ],
+   "plain_english": "But in the maintenance wheel, beginning from the east, one uses drops of nectar from the auspicious cup."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "vajravairocanī",
+     "gloss": "vajra-vairocanī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine female being",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samayāḥ",
+     "gloss": "samayā-goddesses",
+     "grounds": "group of covenant goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying samayās",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "traditionally proclaimed",
+     "morph": "f.nom.pl.past-passive-participle"
+    }
+   ],
+   "question": "How many Samayā goddesses including Vajravairocanī are proclaimed in the maintenance wheel?",
+   "premises": [
+    "Vajravairocanī is named as a goddess",
+    "The group is identified as Samayās",
+    "Their number is declared as five"
+   ],
+   "inference": "Five Samayā goddesses, including Vajravairocanī, are proclaimed.",
+   "uncertainties": [
+    "The names of the other four Samayās are not listed in this verse"
+   ],
+   "plain_english": "The goddess Vajravairocanī and the rest are declared to be the five Samayā goddesses."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "samayā",
+     "gloss": "samayā-worship",
+     "grounds": "worship of the Samayā goddesses",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjanānte",
+     "gloss": "at-worship-end",
+     "grounds": "time after completion of worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks subsequent instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgāvaraṇaṃ",
+     "gloss": "six-limb-enclosure",
+     "grounds": "enclosure consisting of six limbs",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    }
+   ],
+   "question": "What worship is enjoined after completing the worship of the Samayās?",
+   "premises": [
+    "The Samayā worship is completed first",
+    "A subsequent worship is enjoined",
+    "The object of that worship is the six-limb enclosure"
+   ],
+   "inference": "After the Samayā worship, one should worship the six-limb enclosure.",
+   "uncertainties": [],
+   "plain_english": "But at the end of the Samayā worship, one should worship the six-limb enclosure."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "bindumadhye",
+     "gloss": "in-bindu-center",
+     "grounds": "location at the center of the bindu",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "location in the four directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "śrīpātrāmṛtabindubhiḥ",
+     "gloss": "with-auspicious-cup-nectar-drops",
+     "grounds": "instrumental means in worship",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Where are nectar drops from the auspicious cup to be applied around the bindu?",
+   "premises": [
+    "The central location is the middle of the bindu",
+    "The surrounding locations are the four directions",
+    "The means are drops of nectar from the auspicious cup"
+   ],
+   "inference": "Drops of nectar from the auspicious cup are applied in the center of the bindu and in the four directions.",
+   "uncertainties": [
+    "The deities receiving these drops are named in the following verses"
+   ],
+   "plain_english": "In the center of the bindu and in the four directions, one uses drops of nectar from the auspicious cup."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "sarvajñā",
+     "gloss": "all-knowing",
+     "grounds": "name or attribute of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityatṛptā",
+     "gloss": "ever-satisfied",
+     "grounds": "name or attribute of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed goddesses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathānādiprabodhinī",
+     "gloss": "likewise-beginningless-awakener",
+     "grounds": "name or attribute of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are named as all-knowing, ever-satisfied, and beginningless awakener?",
+   "premises": [
+    "Sarvajñā is named",
+    "Nityatṛptā is named",
+    "Anādiprabodhinī is named likewise"
+   ],
+   "inference": "The goddesses Sarvajñā, Nityatṛptā, and Anādiprabodhinī are named.",
+   "uncertainties": [
+    "The fourth member of this group appears in the next verse"
+   ],
+   "plain_english": "The goddesses are Sarvajñā, Nityatṛptā, and likewise Anādiprabodhinī."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "nityānantā",
+     "gloss": "eternal-infinite",
+     "grounds": "name or attribute of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to previous list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "f.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion in the same context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogaṣaḍaṅgake",
+     "gloss": "in-enjoyment-six-limbs",
+     "grounds": "context of the six limbs of enjoyment",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which goddess completes the group declared in the context of the six limbs of enjoyment?",
+   "premises": [
+    "Nityānantā is named",
+    "She is declared in this context",
+    "The context is the six limbs of enjoyment"
+   ],
+   "inference": "Nityānantā is declared as part of the group in the context of the six limbs of enjoyment.",
+   "uncertainties": [],
+   "plain_english": "And Nityānantā is likewise declared in the context of the six limbs of enjoyment."
+  },
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "varadābhayadhāriṇyaḥ",
+     "gloss": "holding-boon-and-fearlessness",
+     "grounds": "bearing gestures of boon and protection",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pradhānatanavaḥ",
+     "gloss": "having-principal-forms",
+     "grounds": "possessing primary divine bodies",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "striyaḥ",
+     "gloss": "female-deities",
+     "grounds": "goddesses",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What form and gestures characterize the female deities described in this group?",
+   "premises": [
+    "They hold the gestures of boon and fearlessness",
+    "They possess principal forms",
+    "They are female deities"
+   ],
+   "inference": "The female deities have principal forms and display the gestures of boon and fearlessness.",
+   "uncertainties": [],
+   "plain_english": "These female deities, in their principal forms, hold the gestures of granting boons and fearlessness."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "turīyopāsakānāṃ",
+     "gloss": "of-fourth-state-worshippers",
+     "grounds": "practitioners devoted to the fourth state",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "referring to previously mentioned elements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "āvaśyakāni",
+     "gloss": "necessary",
+     "grounds": "required for practice",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For whom are these ritual elements declared to be necessary?",
+   "premises": [
+    "The elements referred to are these ones",
+    "They are declared necessary",
+    "The recipients are worshippers of the fourth state"
+   ],
+   "inference": "These elements are indeed necessary for worshippers of the fourth state.",
+   "uncertainties": [],
+   "plain_english": "And for the worshippers of the fourth state, these are indeed necessary."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyavidhānīśe",
+     "gloss": "lady-of-middle-rite",
+     "grounds": "goddess presiding over the middle rite",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "navāvṛttiḥ",
+     "gloss": "nine-repetitions",
+     "grounds": "ninefold repetition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ratha",
+     "gloss": "then",
+     "grounds": "particle indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "o-mother",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What ninefold repetition is prescribed here for the lady of the middle rite?",
+   "premises": [
+    "The context is the middle rite",
+    "The goddess of the middle rite is addressed",
+    "A ninefold repetition is stated"
+   ],
+   "inference": "In this context, a ninefold repetition is prescribed for the lady of the middle rite.",
+   "uncertainties": [
+    "The exact object of the ninefold repetition is not specified in this verse"
+   ],
+   "plain_english": "Here, O Ambikā, lady of the middle rite, there is a ninefold repetition."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "turīyopāsakānāṃ",
+     "gloss": "of-fourth-state-worshippers",
+     "grounds": "practitioners devoted to the fourth state",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "referring to previously mentioned elements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "āvaśyakāni",
+     "gloss": "necessary",
+     "grounds": "required for practice",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are these elements reiterated as necessary for worshippers of the fourth state?",
+   "premises": [
+    "The same elements are referred to again",
+    "They are declared necessary",
+    "The recipients are worshippers of the fourth state"
+   ],
+   "inference": "These elements are again affirmed as indeed necessary for worshippers of the fourth state.",
+   "uncertainties": [],
+   "plain_english": "And for the worshippers of the fourth state, these are indeed necessary."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "udīcyāṃ",
+     "gloss": "in-north",
+     "grounds": "location in the northern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "prayajed",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṣobhaṇadrāvaṇau",
+     "gloss": "agitating-and-melting",
+     "grounds": "two deities or powers",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which two powers should be worshipped in the north according to this instruction?",
+   "premises": [
+    "The location is the north",
+    "Worship is enjoined",
+    "The objects are Kṣobhaṇa and Drāvaṇa"
+   ],
+   "inference": "One should then worship Kṣobhaṇa and Drāvaṇa in the north.",
+   "uncertainties": [],
+   "plain_english": "Then, O goddess, one should worship Kṣobhaṇa and Drāvaṇa in the north."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "location in the front",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃmohanaṃ",
+     "gloss": "enchanting",
+     "grounds": "deity or power of enchantment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yaṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "cintayed",
+     "gloss": "one-should-contemplate",
+     "grounds": "mental act enjoined",
+     "morph": "3.sg.optative-active √cint"
+    },
+    {
+     "surface": "bāṇadevatāḥ",
+     "gloss": "arrow-deities",
+     "grounds": "deities associated with arrows",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "What contemplation follows the worship of Saṃmohana in the front?",
+   "premises": [
+    "Saṃmohana is worshipped in the front",
+    "After that worship, contemplation is enjoined",
+    "The objects of contemplation are the arrow deities"
+   ],
+   "inference": "After worshipping Saṃmohana in the front, one should contemplate the arrow deities.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped Saṃmohana in the front, one should contemplate the arrow deities."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "antardaśāre",
+     "gloss": "in-inner-ten-spoked",
+     "grounds": "location in the inner ten-spoked enclosure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pārśvayor",
+     "gloss": "on-two-sides",
+     "grounds": "location at the sides",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "agrayostathā",
+     "gloss": "and-at-fronts-likewise",
+     "grounds": "location at the fronts as well",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "Where within the inner ten-spoked enclosure are the deities to be placed?",
+   "premises": [
+    "The location is the inner ten-spoked enclosure",
+    "Placements are on the two sides",
+    "Placements are likewise at the fronts"
+   ],
+   "inference": "Within the inner ten-spoked enclosure, the deities are placed on the sides and at the fronts.",
+   "uncertainties": [
+    "The specific deities are named in the next verse"
+   ],
+   "plain_english": "O lady of the gods, in the inner ten-spoked enclosure, they are placed on the sides and likewise at the fronts."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "kāmamanmathakandarpamakaradhvajasaṃjñakāḥ",
+     "gloss": "named-kāma-manmatha-kandarpa-makaradhvaja",
+     "grounds": "deities bearing these four names",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which four named deities are identified in the inner ten-spoked enclosure?",
+   "premises": [
+    "Four names are given in a compound",
+    "The names are Kāma, Manmatha, Kandarpa, and Makaradhvaja",
+    "These names identify the deities"
+   ],
+   "inference": "The deities are those named Kāma, Manmatha, Kandarpa, and Makaradhvaja.",
+   "uncertainties": [],
+   "plain_english": "They are the deities named Kāma, Manmatha, Kandarpa, and Makaradhvaja."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "varābhayakarā",
+     "gloss": "hands-showing-boon-fearlessness",
+     "grounds": "displaying boon and protection gestures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "raktāḥ",
+     "gloss": "red",
+     "grounds": "having red color",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcabāṇadhanurdharāḥ",
+     "gloss": "bearing-five-arrows-and-bow",
+     "grounds": "holding bow and five arrows",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What appearance and weapons characterize the four deities named Kāma and others?",
+   "premises": [
+    "They show the gestures of boon and fearlessness",
+    "They are red in color",
+    "They bear a bow and five arrows"
+   ],
+   "inference": "These deities are red, show boon and fearlessness gestures, and carry a bow with five arrows.",
+   "uncertainties": [],
+   "plain_english": "They are red, display the gestures of boon and fearlessness, and bear a bow and five arrows."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "sāmānyapātrasudhayā",
+     "gloss": "with-common-cup-nectar",
+     "grounds": "nectar from the common cup",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "līnā",
+     "gloss": "absorbed",
+     "grounds": "merged or dissolved",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāgaparā",
+     "gloss": "beyond-speech",
+     "grounds": "transcending speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the supreme goddess beyond speech described in relation to the common nectar?",
+   "premises": [
+    "The goddess is supreme and beyond speech",
+    "She is described as absorbed",
+    "The absorption is associated with nectar from the common cup"
+   ],
+   "inference": "The supreme goddess beyond speech is absorbed in the nectar from the common cup.",
+   "uncertainties": [
+    "The instrumental relation may indicate means or accompaniment"
+   ],
+   "plain_english": "The supreme goddess, beyond speech, is absorbed in the nectar from the common cup."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "jñānamudrābhayāḥ",
+     "gloss": "showing-knowledge-gesture-fearlessness",
+     "grounds": "displaying knowledge gesture and fearlessness",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śuklā",
+     "gloss": "white",
+     "grounds": "having white color",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vīṇāpustakapāṇayaḥ",
+     "gloss": "holding-lute-and-book",
+     "grounds": "bearing a lute and a book in the hands",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What color, gestures, and objects characterize the goddesses described here?",
+   "premises": [
+    "They display the knowledge gesture and fearlessness",
+    "They are white in color",
+    "They hold a lute and a book"
+   ],
+   "inference": "The goddesses are white, show the knowledge gesture and fearlessness, and hold a lute and a book.",
+   "uncertainties": [
+    "The referent goddesses are implied by the surrounding context"
+   ],
+   "plain_english": "They are white, display the gesture of knowledge and fearlessness, and hold a lute and a book in their hands."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "location in the front",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindumadhye",
+     "gloss": "in-bindu-center",
+     "grounds": "location at the center of the bindu",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmānyāmṛtabindubhiḥ",
+     "gloss": "with-common-nectar-drops",
+     "grounds": "drops of nectar from the common source",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Where are drops of common nectar applied in this concluding instruction?",
+   "premises": [
+    "One location is in the front",
+    "Another location is in the center of the bindu",
+    "The means are drops of common nectar"
+   ],
+   "inference": "Drops of common nectar are applied in the front and in the center of the bindu.",
+   "uncertainties": [],
+   "plain_english": "And in the front and in the center of the bindu, one uses drops of common nectar."
+  }
+ ]
+}
