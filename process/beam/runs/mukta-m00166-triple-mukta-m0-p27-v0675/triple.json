@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "surān",
+     "gloss": "gods",
+     "grounds": "object of delighting",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nandayāmāsa",
+     "gloss": "delighted",
+     "grounds": "action performed upon the gods",
+     "morph": "3.sg.perfect-active √nand"
+    },
+    {
+     "surface": "sa+eva",
+     "gloss": "that-very-she",
+     "grounds": "emphatic identification with the addressee",
+     "morph": "pronoun+particle"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "direct address to the goddess",
+     "morph": "pronoun.nom.sg"
+    },
+    {
+     "surface": "sura+vanditā",
+     "gloss": "praised-by-gods",
+     "grounds": "epithet attributed to the addressee",
+     "morph": "compound: sura+vanditā (f.nom.sg)"
+    }
+   ],
+   "question": "By what act is the addressed goddess identified as the one praised by the gods?",
+   "premises": [
+    "A certain female agent delighted the gods.",
+    "That very agent is identified with the addressed goddess.",
+    "The addressed goddess is praised by the gods."
+   ],
+   "inference": "Because the goddess who delighted the gods is the very one addressed, her praise by the gods is grounded in that act of delighting them.",
+   "uncertainties": [],
+   "plain_english": "She who delighted the gods is none other than you, the one praised by the gods."
+  }
+ ]
+}
