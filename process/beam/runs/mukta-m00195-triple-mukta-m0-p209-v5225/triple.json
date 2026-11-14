@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p209",
+ "items": [
+  {
+   "verse": 5225,
+   "rows": [
+    {
+     "surface": "rudra",
+     "gloss": "Rudra",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what is stated",
+     "morph": "m.nom.sg.ppp (√vac)"
+    },
+    {
+     "surface": "aṅgeṣu",
+     "gloss": "in-limbs",
+     "grounds": "loci described as limbs or parts",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "cardinal or spatial directions as loci",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two sets of loci",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which limbs and directions is Rudra declared to be present?",
+   "premises": [
+    "Rudra is the subject being declared.",
+    "The limbs are named as loci of Rudra.",
+    "The directions are named as loci of Rudra."
+   ],
+   "inference": "Rudra is declared to be present in both the limbs and the directions.",
+   "uncertainties": [
+    "Whether aṅgeṣu refers to bodily limbs or ritual-mantric parts is not specified."
+   ],
+   "plain_english": "Rudra is declared to be present in the limbs and in the directions."
+  }
+ ]
+}

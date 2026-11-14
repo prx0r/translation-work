@@ -3,24 +3,34 @@
  "verse": 5157,
  "rows": [
   {
-   "lemma": "prabhāte",
+   "lemma": "mahā",
+   "morph": "compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "utpāte",
+   "morph": "m.loc.sg",
+   "grounds": "locative of circumstance"
+  },
+  {
+   "lemma": "para",
+   "morph": "compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "cakra",
+   "morph": "compound",
+   "grounds": "middle member of compound"
+  },
+  {
+   "lemma": "bhaye",
    "morph": "n.loc.sg",
-   "grounds": "early morning time"
+   "grounds": "locative of circumstance"
   },
   {
-   "lemma": "devakuṃbhāgnīn",
-   "morph": "deva+kumbha+agnīn: compound, m.acc.pl",
-   "grounds": "deity, ritual pot, and fires"
-  },
-  {
-   "lemma": "abhyarcya",
-   "morph": "gerund (abhi+arc)",
-   "grounds": "prior act of worship"
-  },
-  {
-   "lemma": "gururādarāt",
-   "morph": "guruḥ+ādarāt: m.nom.sg + m.abl.sg",
-   "grounds": "the guru acts with reverence"
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "extends application"
   }
  ]
 }

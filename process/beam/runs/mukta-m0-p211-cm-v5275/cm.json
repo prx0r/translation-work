@@ -3,39 +3,29 @@
  "verse": 5275,
  "rows": [
   {
-   "lemma": "tattat",
-   "morph": "pron.nom/acc.sg.n",
-   "grounds": "distributive reduplicated pronoun indicating each corresponding item"
+   "lemma": "gandhākṣatādi",
+   "morph": "compound",
+   "grounds": "bahuvrīhi/compound beginning with gandha and akṣata; qualifying puṣpāṇi"
   },
   {
-   "lemma": "kuṃbhādakaiḥ",
-   "morph": "compound: kuṃbha+udaka; n.ins.pl",
-   "grounds": "instrumental plural of compound kuṃbha-udaka; internal sandhi u→ā"
+   "lemma": "puṣpāṇi",
+   "morph": "n.acc.pl",
+   "grounds": "objects to be employed in worship"
   },
   {
-   "lemma": "caiva",
+   "lemma": "raktāni",
+   "morph": "n.acc.pl",
+   "grounds": "qualifies puṣpāṇi, specifying their color"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "conjunction with emphatic particle"
+   "grounds": "emphatic particle restricting the specification"
   },
   {
-   "lemma": "teṣāṃ",
-   "morph": "pron.gen.pl.m",
-   "grounds": "refers to the recipients mentioned in context"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective particle"
-  },
-  {
-   "lemma": "snapanam",
-   "morph": "n.acc.sg",
-   "grounds": "act of bathing or ablution as ritual object"
-  },
-  {
-   "lemma": "nayet",
-   "morph": "3.sg.opt.act (√nī)",
-   "grounds": "optative expressing prescribed ritual action"
+   "lemma": "prayojayet",
+   "morph": "3.sg.optative.active pra√yuj",
+   "grounds": "injunctive ritual instruction"
   }
  ]
 }

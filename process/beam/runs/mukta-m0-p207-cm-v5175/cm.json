@@ -3,34 +3,39 @@
  "verse": 5175,
  "rows": [
   {
-   "lemma": "kuṇḍāṇi",
-   "morph": "n.nom.pl.nt",
-   "grounds": "ritual fire-pits used in the ceremony"
+   "lemma": "veda",
+   "morph": "veda+compound",
+   "grounds": "first member of compound with mārgeṇa indicating the Vedic path"
   },
   {
-   "lemma": "aśrāṇi",
-   "morph": "n.nom.pl.nt",
-   "grounds": "having corners; polygonal in shape"
+   "lemma": "mārgeṇa",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental expressing the means or mode; compounded with veda"
   },
   {
-   "lemma": "vṛttāni",
-   "morph": "n.nom.pl.nt",
-   "grounds": "circular in shape"
+   "lemma": "kīdṛk",
+   "morph": "interrog.f.nom.sg",
+   "grounds": "interrogative adjective qualifying pūjā"
   },
   {
-   "lemma": "taddigaśrāṇi",
-   "morph": "compound n.nom.pl.nt",
-   "grounds": "compound: tad-diś-aśrāṇi; having corners aligned with those directions"
+   "lemma": "pūjā",
+   "morph": "f.nom.sg",
+   "grounds": "subject of the inquiry regarding ritual form"
   },
   {
-   "lemma": "tāni",
-   "morph": "pron.nom.pl.nt",
-   "grounds": "refers back to the fire-pits"
+   "lemma": "manuś",
+   "morph": "m.nom.sg",
+   "grounds": "nominative form with visarga sandhi before ca; refers to a mantra or authoritative formula"
   },
   {
-   "lemma": "vā",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "marks alternative permissible options"
+   "grounds": "conjoins the inquiries about pūjā and manu"
+  },
+  {
+   "lemma": "kaḥ",
+   "morph": "interrog.m.nom.sg",
+   "grounds": "interrogative pronoun qualifying manuś"
   }
  ]
 }
