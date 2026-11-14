@@ -3,29 +3,34 @@
  "verse": 1374,
  "rows": [
   {
-   "lemma": "naivedyaṃ",
+   "lemma": "dadāti",
+   "morph": "3.sg.act.pres(√dā)",
+   "grounds": "present action of giving"
+  },
+  {
+   "lemma": "aṣṭau",
+   "morph": "n.acc.pl",
+   "grounds": "numeral indicating number of days"
+  },
+  {
+   "lemma": "dināni+ante",
+   "morph": "compound: dina(n.acc.pl)+anta(m.loc.sg)",
+   "grounds": "compound indicating the conclusion of a period of days"
+  },
+  {
+   "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "offered food"
+   "grounds": "adjective qualifying the gift"
   },
   {
-   "lemma": "bhrātṛputrāṇāṃ",
-   "morph": "m.gen.pl compound",
-   "grounds": "bhrātṛ+putra compound"
+   "lemma": "vastra+yugaṃ",
+   "morph": "compound: vastra+yuga(n.acc.sg)",
+   "grounds": "compound naming the gift"
   },
   {
-   "lemma": "bhaginīnāṃ",
-   "morph": "f.gen.pl",
-   "grounds": "female siblings"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "dāpayet",
-   "morph": "3.sg.causative-optative-active + √dā",
-   "grounds": "causative optative of dā"
+   "grounds": "adverb indicating subsequent action"
   }
  ]
 }

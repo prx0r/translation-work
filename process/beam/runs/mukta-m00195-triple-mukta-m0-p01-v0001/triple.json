@@ -1,0 +1,1046 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "verb expressing radiant presence",
+     "morph": "3.sg.pres.act √bhā"
+    },
+    {
+     "surface": "tasyai",
+     "gloss": "to-her",
+     "grounds": "recipient of salutation, feminine divine",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient of salutation, masculine divine",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namonamaḥ",
+     "gloss": "salutation-salutation",
+     "grounds": "repeated reverential bow",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is the repeated salutation offered as the shining divine pair?",
+   "premises": [
+    "A radiant presence shines forth.",
+    "Salutation is directed to her.",
+    "Salutation is directed to him.",
+    "The salutation is repeated for emphasis."
+   ],
+   "inference": "Reverence is offered to a shining feminine and masculine divine pair.",
+   "uncertainties": [
+    "The specific identities of 'her' and 'him' are not named in this verse."
+   ],
+   "plain_english": "It shines; repeated salutations to her and to him."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "maheśaṃ",
+     "gloss": "great-lord",
+     "grounds": "supreme deity as refuge",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaraṇaṃ",
+     "gloss": "refuge",
+     "grounds": "state of taking shelter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "having approached or taken",
+     "morph": "m.nom.sg (past-participle)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker declaring surrender",
+     "morph": "1.nom.sg"
+    }
+   ],
+   "question": "Whom does the speaker claim to have taken as refuge?",
+   "premises": [
+    "The speaker identifies himself as 'I'.",
+    "The speaker has gone to refuge.",
+    "The refuge is the great lord."
+   ],
+   "inference": "The speaker declares that he has taken refuge in the great lord.",
+   "uncertainties": [],
+   "plain_english": "I have gone to the great lord for refuge."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "cārcitā",
+     "gloss": "and-worshipped",
+     "grounds": "act of worship performed",
+     "morph": "f.nom.sg (past-participle)"
+    },
+    {
+     "surface": "taistu",
+     "gloss": "by-them-but",
+     "grounds": "agents of worship with contrastive particle",
+     "morph": "m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "vāmadakṣiṇa",
+     "gloss": "left-right",
+     "grounds": "two ritual paths or orientations",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mārgibhiḥ",
+     "gloss": "path-followers",
+     "grounds": "practitioners following those paths",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By which kinds of path-followers is the deity worshipped?",
+   "premises": [
+    "Worship has been performed.",
+    "The worshippers are followers of paths.",
+    "The paths are characterized as left and right."
+   ],
+   "inference": "The deity is worshipped by followers of both the left and right paths.",
+   "uncertainties": [
+    "The specific identity of the worshipped deity is implied but not named."
+   ],
+   "plain_english": "And she is worshipped by them, the followers of the left and right paths."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "vidhiharyādyās",
+     "gloss": "brahma-hari-and-others",
+     "grounds": "gods such as Brahma and Hari",
+     "morph": "m.nom.pl (compound)"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object of meditation",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "subject who meditates",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "dhyāyasi",
+     "gloss": "meditate",
+     "grounds": "act of contemplation",
+     "morph": "2.sg.pres.act √dhyai"
+    },
+    {
+     "surface": "kaṃ",
+     "gloss": "whom",
+     "grounds": "question about object of meditation",
+     "morph": "m.acc.sg (interrogative)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further inquiry",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom do you meditate upon when Brahma, Hari, and others meditate on you?",
+   "premises": [
+    "Brahma, Hari, and others meditate on you.",
+    "You yourself meditate.",
+    "The object of your meditation is questioned."
+   ],
+   "inference": "If supreme gods meditate on you, there is a further question about whom you meditate upon.",
+   "uncertainties": [],
+   "plain_english": "Brahma, Hari, and others meditate on you; whom do you meditate on in turn?"
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative seeking identity",
+     "morph": "n.nom.sg (interrogative)"
+    },
+    {
+     "surface": "dhyeyaṃ",
+     "gloss": "to-be-meditated",
+     "grounds": "object worthy of meditation",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "ultimate reality or truth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of instruction",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "by-compassion",
+     "grounds": "motive for answering",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "speak",
+     "grounds": "request for teaching",
+     "morph": "2.sg.imp.act √vad"
+    }
+   ],
+   "question": "What principle should be meditated upon, as requested out of compassion?",
+   "premises": [
+    "The speaker asks what is to be meditated upon.",
+    "The object sought is a principle.",
+    "The request is made for compassionate instruction."
+   ],
+   "inference": "The speaker seeks compassionate revelation of the true object of meditation.",
+   "uncertainties": [],
+   "plain_english": "What principle is to be meditated upon? Tell me out of compassion."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "vidhīndrādīn",
+     "gloss": "brahma-indra-and-others",
+     "grounds": "gods including Brahma and Indra",
+     "morph": "m.acc.pl (compound)"
+    },
+    {
+     "surface": "vākyam",
+     "gloss": "speech",
+     "grounds": "uttered statement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "refers to the following or present speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "spoke",
+     "grounds": "act of speaking",
+     "morph": "3.sg.perf.act √vac"
+    },
+    {
+     "surface": "ha",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom was this speech addressed by the speaker in response?",
+   "premises": [
+    "A speech was spoken.",
+    "The speech is identified as this one.",
+    "The recipients include Brahma, Indra, and others."
+   ],
+   "inference": "The speaker indeed addressed this speech to Brahma, Indra, and the other gods.",
+   "uncertainties": [
+    "The identity of the speaker is not explicitly named in this verse."
+   ],
+   "plain_english": "He indeed spoke this speech to Brahma, Indra, and the others."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "devayonīnāṃ",
+     "gloss": "of-god-wombs",
+     "grounds": "beings born of divine sources",
+     "morph": "f.gen.pl (compound)"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "unit of time",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āyuś",
+     "gloss": "lifespan",
+     "grounds": "duration of life",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tacchatam",
+     "gloss": "that-hundred",
+     "grounds": "a hundred of those units",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How is the lifespan of the god-born beings measured in days?",
+   "premises": [
+    "The subject is the lifespan of god-born beings.",
+    "A day is mentioned as a measure.",
+    "That measure is counted as a hundred."
+   ],
+   "inference": "The lifespan of the god-born beings is described as a hundred of those days.",
+   "uncertainties": [
+    "The exact calendrical definition of 'day' in this context is not specified."
+   ],
+   "plain_english": "The lifespan of those born of the gods is a day, and that is a hundred."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "including an additional half",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "fully constituted",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dharmaśāstra",
+     "gloss": "dharma-scripture",
+     "grounds": "authoritative texts on dharma",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramaṇataḥ",
+     "gloss": "by-authority",
+     "grounds": "according to authoritative measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what scriptural authority is the complete measure including a half established?",
+   "premises": [
+    "A measure includes a half.",
+    "The measure is described as complete.",
+    "The standard is derived from dharma scriptures."
+   ],
+   "inference": "The complete measure, including a half, is established by the authority of dharma scriptures.",
+   "uncertainties": [
+    "The specific quantity being measured is carried over from context."
+   ],
+   "plain_english": "Complete, together with a half, according to the authority of the dharma scriptures."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "samayaḥ",
+     "gloss": "time",
+     "grounds": "temporal duration or convention",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāya",
+     "gloss": "body",
+     "grounds": "bodily or embodied aspect",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūrakaḥ",
+     "gloss": "filling",
+     "grounds": "that which fills or completes",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic restriction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is identified as the filling measure of embodied time?",
+   "premises": [
+    "Time is the subject.",
+    "There is a filling or completing factor.",
+    "This factor is linked to the body."
+   ],
+   "inference": "Time is indeed identified as that which fills or completes the body.",
+   "uncertainties": [
+    "The technical sense of 'samaya' and 'kāya-pūraka' may be doctrinally specific."
+   ],
+   "plain_english": "Time is indeed that which fills the body."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "cosmic power of illusion",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent identifying the process",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "refers to the previously mentioned process",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chvāsanirgamaḥ",
+     "gloss": "breath-exhalation",
+     "grounds": "outgoing breath",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "How is the exhalation of breath identified in relation to great illusion?",
+   "premises": [
+    "Great illusion is named.",
+    "The speaker identifies something as 'by me'.",
+    "The process is described as the exhalation of breath."
+   ],
+   "inference": "The exhalation of breath is identified as that great illusion by the speaker.",
+   "uncertainties": [
+    "The speaker's identity and the cosmological mapping are context-dependent."
+   ],
+   "plain_english": "That exhalation of breath is, by me, the great illusion."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "ghaṭikayā",
+     "gloss": "by-ghaṭikā",
+     "grounds": "a time unit of twenty-four minutes",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "varṣam+ekaṃ",
+     "gloss": "year-one",
+     "grounds": "a single year",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "vidhes",
+     "gloss": "of-brahma",
+     "grounds": "belonging to Brahma",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditionally taught or known",
+     "morph": "n.nom.sg (past-participle)"
+    }
+   ],
+   "question": "What equivalence between a ghaṭikā and Brahma's year is traditionally remembered?",
+   "premises": [
+    "A ghaṭikā is used as a measure.",
+    "One year is the compared unit.",
+    "The year belongs to Brahma and is remembered in tradition."
+   ],
+   "inference": "Tradition holds that one ghaṭikā corresponds to one year of Brahma.",
+   "uncertainties": [
+    "The cosmological scale implied depends on broader doctrinal context."
+   ],
+   "plain_english": "By one ghaṭikā, one year of Brahma is remembered."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "satīrupaṃ",
+     "gloss": "satī-form",
+     "grounds": "the form of Satī",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "śuklaṃ",
+     "gloss": "white",
+     "grounds": "bright or pure aspect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "dark aspect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "pārvatī",
+     "grounds": "the goddess Pārvatī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the white and dark forms distinguished between Satī and Pārvatī?",
+   "premises": [
+    "A form of Satī is mentioned.",
+    "White and black aspects are named.",
+    "Pārvatī is introduced in contrast."
+   ],
+   "inference": "The verse distinguishes aspects as Satī's form and as white or black, with Pārvatī contrasted.",
+   "uncertainties": [
+    "The exact mapping of white and black to Satī and Pārvatī is syntactically compressed."
+   ],
+   "plain_english": "The form of Satī is white, but the dark one is Pārvatī."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahākālasya",
+     "gloss": "of-great-time",
+     "grounds": "of Mahākāla",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "gehinī",
+     "gloss": "wife",
+     "grounds": "consort or household lady",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to the previously mentioned goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Whose consort is the goddess identified as in this statement?",
+   "premises": [
+    "A female figure is referred to as 'she'.",
+    "She is called a wife.",
+    "Her consort is Mahākāla."
+   ],
+   "inference": "She is indeed identified as the consort of Mahākāla.",
+   "uncertainties": [],
+   "plain_english": "Indeed, she is the wife of Mahākāla."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "tiṣṭhet",
+     "gloss": "may-stand",
+     "grounds": "potential or prescriptive standing",
+     "morph": "3.sg.opt.act √sthā"
+    },
+    {
+     "surface": "samayā",
+     "gloss": "by-time",
+     "grounds": "by time or convention",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "viṣayīkṛtaḥ",
+     "gloss": "objectified",
+     "grounds": "made into an object",
+     "morph": "m.nom.sg (past-participle, compound)"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "existing in that condition",
+     "morph": "m.nom.sg (present-participle) √as"
+    }
+   ],
+   "question": "Under what condition may one stand when made an object by time?",
+   "premises": [
+    "Standing or remaining is expressed as a possibility.",
+    "Time is the conditioning factor.",
+    "The subject is made into an object."
+   ],
+   "inference": "One may remain while being objectified by time.",
+   "uncertainties": [
+    "The subject of 'tiṣṭhet' is not explicitly stated."
+   ],
+   "plain_english": "One may stand, being made an object by time."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "vilayaṃ",
+     "gloss": "dissolution",
+     "grounds": "merging or disappearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "having effected an action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "bhītā",
+     "gloss": "frightened",
+     "grounds": "state of fear",
+     "morph": "m.nom.pl (past-participle)"
+    },
+    {
+     "surface": "natāḥ",
+     "gloss": "bowed",
+     "grounds": "act of reverential bowing",
+     "morph": "m.nom.pl (past-participle)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repeated action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What response follows after dissolution is effected by the frightened ones?",
+   "premises": [
+    "Dissolution has been effected.",
+    "The agents are frightened.",
+    "They bow again."
+   ],
+   "inference": "After effecting dissolution, the frightened ones bow down again.",
+   "uncertainties": [
+    "The agents and the object undergoing dissolution are not explicitly named."
+   ],
+   "plain_english": "Having brought about dissolution, frightened, they bowed again."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśvarā",
+     "gloss": "lords",
+     "grounds": "sovereign deities or rulers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks reported speech or designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vādinaḥ",
+     "gloss": "speakers",
+     "grounds": "those who assert or proclaim",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What claim is made by those who proclaim that all are lords?",
+   "premises": [
+    "All are described as lords.",
+    "This is marked as a stated claim.",
+    "There are speakers who assert it."
+   ],
+   "inference": "Some speakers assert the claim that all are lords.",
+   "uncertainties": [
+    "The verse reports the claim without explicitly endorsing or rejecting it."
+   ],
+   "plain_english": "They are speakers who say, 'All are lords.'"
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "addressed subject",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "maśakāyase",
+     "gloss": "become-mosquito",
+     "grounds": "metaphorical diminishment",
+     "morph": "2.sg.pres.mid (denominative)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What diminishment is denied of the addressed subject in this assertion?",
+   "premises": [
+    "The subject addressed is 'you'.",
+    "Becoming a mosquito is mentioned.",
+    "This transformation is negated emphatically."
+   ],
+   "inference": "The addressed subject is emphatically denied to become like a mosquito.",
+   "uncertainties": [
+    "The metaphorical force of becoming a mosquito is context-dependent."
+   ],
+   "plain_english": "And indeed, you do not become a mosquito."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "kathañ",
+     "gloss": "how",
+     "grounds": "interrogative asking manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "knowable",
+     "grounds": "that which can be known",
+     "morph": "m.nom.sg (gerundive)"
+    },
+    {
+     "surface": "kathayasva",
+     "gloss": "tell",
+     "grounds": "request to explain",
+     "morph": "2.sg.imp.mid √kath"
+    },
+    {
+     "surface": "sadāśiva",
+     "gloss": "o-eternal-śiva",
+     "grounds": "vocative address to Sadāśiva",
+     "morph": "m.voc.sg (compound)"
+    }
+   ],
+   "question": "How is the knowable to be understood, as asked of Sadāśiva?",
+   "premises": [
+    "The manner of knowing is questioned.",
+    "Something is described as knowable.",
+    "Sadāśiva is asked to explain."
+   ],
+   "inference": "The speaker asks Sadāśiva to explain how the knowable is to be known.",
+   "uncertainties": [],
+   "plain_english": "How is it to be known? Tell me, O Sadāśiva."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛpā",
+     "gloss": "compassion",
+     "grounds": "grace or mercy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devyāṃ",
+     "gloss": "in-goddess",
+     "grounds": "located in the goddess",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viṣṇau",
+     "gloss": "in-viṣṇu",
+     "grounds": "located in Viṣṇu",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sureṣu",
+     "gloss": "in-gods",
+     "grounds": "located among the gods",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition is posed regarding compassion in the goddess, Viṣṇu, and the gods?",
+   "premises": [
+    "A conditional 'if' is introduced.",
+    "Compassion is the subject.",
+    "The goddess, Viṣṇu, and the gods are named as loci."
+   ],
+   "inference": "The verse poses a condition concerning the presence of compassion in the goddess, Viṣṇu, and the gods.",
+   "uncertainties": [
+    "The apodosis of the conditional is not stated in this verse."
+   ],
+   "plain_english": "If there is compassion in the goddess, in Viṣṇu, and in the gods..."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "vṛddhin",
+     "gloss": "growth",
+     "grounds": "increase or expansion",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to a previously mentioned entity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "māyākṛtañ",
+     "gloss": "by-illusion-made",
+     "grounds": "produced by illusion",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "the manifested world",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the world said to be in relation to illusion and its growth?",
+   "premises": [
+    "Growth of something is mentioned.",
+    "The world is named.",
+    "The world is described as made by illusion."
+   ],
+   "inference": "The world is characterized as made by illusion in relation to that growth.",
+   "uncertainties": [
+    "The referent of 'tasya' (of that) is not explicit in this verse."
+   ],
+   "plain_english": "The world, made by illusion, is the growth of that."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "prārthitaḥ",
+     "gloss": "requested",
+     "grounds": "having been entreated",
+     "morph": "m.nom.sg (past-participle)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker as agent or recipient",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess addressed or invoked",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samprārthitā",
+     "gloss": "well-requested",
+     "grounds": "earnestly entreated",
+     "morph": "f.nom.sg (past-participle)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of the request",
+     "morph": "1.inst.sg"
+    }
+   ],
+   "question": "Who requests whom in this exchange involving the speaker and the goddess?",
+   "premises": [
+    "The speaker says 'I was requested'.",
+    "The goddess is named.",
+    "The goddess was earnestly requested by me."
+   ],
+   "inference": "There is a mutual or reciprocal act of requesting between the speaker and the goddess.",
+   "uncertainties": [
+    "The content of the request is not specified in this verse."
+   ],
+   "plain_english": "I was requested, and the goddess was earnestly requested by me."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes into being or occurs",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "repeated demonstrative for emphasis",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mārgaḥ",
+     "gloss": "path",
+     "grounds": "spiritual or ritual way",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśitaḥ",
+     "gloss": "revealed",
+     "grounds": "made manifest or illuminated",
+     "morph": "m.nom.sg (past-participle)"
+    }
+   ],
+   "question": "What path is said to come into being and be revealed?",
+   "premises": [
+    "Something becomes or comes to be.",
+    "A path is named.",
+    "That path is revealed."
+   ],
+   "inference": "That very path comes into being and is revealed.",
+   "uncertainties": [
+    "The referent of 'sa' (that/he) depends on prior context."
+   ],
+   "plain_english": "That, that path comes to be and is revealed."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "anyān",
+     "gloss": "other",
+     "grounds": "different ones",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "deities",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vinindanti",
+     "gloss": "revile",
+     "grounds": "speak against or criticize",
+     "morph": "3.pl.pres.act √nind (with vi)"
+    },
+    {
+     "surface": "ṣaṭkarman",
+     "gloss": "in-six-rites",
+     "grounds": "the six ritual acts",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "iratās",
+     "gloss": "engaged",
+     "grounds": "devoted or active in",
+     "morph": "m.nom.pl (past-participle)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continually",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What behavior characterizes those always engaged in the six rites?",
+   "premises": [
+    "Some people revile other gods.",
+    "They are engaged in the six rites.",
+    "This engagement is constant."
+   ],
+   "inference": "Those always engaged in the six rites revile other gods.",
+   "uncertainties": [
+    "The moral evaluation of this behavior is implied but not explicitly stated."
+   ],
+   "plain_english": "Always engaged in the six rites, they revile other gods."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "niratās",
+     "gloss": "engaged",
+     "grounds": "absorbed or devoted",
+     "morph": "m.nom.pl (past-participle)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "by that cause or activity",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "nirdhanāḥ",
+     "gloss": "impoverished",
+     "grounds": "devoid of wealth or substance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pretarūpiṇaḥ",
+     "gloss": "ghost-formed",
+     "grounds": "having the form or nature of ghosts",
+     "morph": "m.nom.pl (compound)"
+    }
+   ],
+   "question": "What condition results for those engaged in that reviling activity?",
+   "premises": [
+    "Some are engaged in that activity.",
+    "That engagement leads to a condition.",
+    "The condition is impoverishment and ghost-like form."
+   ],
+   "inference": "Those engaged in that activity become impoverished and take on a ghost-like nature.",
+   "uncertainties": [
+    "'Tena' refers back to the activity described in the previous verse."
+   ],
+   "plain_english": "Engaged in that, they become impoverished and ghost-like in form."
+  }
+ ]
+}

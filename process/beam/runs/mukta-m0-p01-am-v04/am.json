@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p01",
  "verse": 4,
- "question": "Which ritual and contemplative practices are enumerated alongside action and non-action?",
+ "question": "Whom do you meditate upon when Brahma, Hari, and others meditate on you?",
  "premises": [
-  "Mantra, worship, austerity, and meditation are listed.",
-  "Action and non-action are included.",
-  "The list is connected by additive particles."
+  "Brahma, Hari, and others meditate on you.",
+  "You yourself meditate.",
+  "The object of your meditation is questioned."
  ],
- "inference": "A range of ritual, ascetic, contemplative, and actional modes is being enumerated.",
- "uncertainties": [
-  "The syntactic role of the list in the larger argument is not explicit in this verse alone."
- ],
- "plain_english": "Mantra, worship, austerity, meditation, and likewise action and non-action."
+ "inference": "If supreme gods meditate on you, there is a further question about whom you meditate upon.",
+ "uncertainties": [],
+ "plain_english": "Brahma, Hari, and others meditate on you; whom do you meditate on in turn?"
 }

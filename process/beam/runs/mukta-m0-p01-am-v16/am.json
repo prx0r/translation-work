@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 16,
- "question": "How do the various philosophical views come to be distinct from one another?",
+ "question": "What claim is made by those who proclaim that all are lords?",
  "premises": [
-  "Philosophical views are the subject.",
-  "The question asks how they come to be.",
-  "They are described as separate, separate."
+  "All are described as lords.",
+  "This is marked as a stated claim.",
+  "There are speakers who assert it."
  ],
- "inference": "The goddess asks for an explanation of how distinct philosophical views arise.",
- "uncertainties": [],
- "plain_english": "O god, how do the various views come to be, each separate from the others?"
+ "inference": "Some speakers assert the claim that all are lords.",
+ "uncertainties": [
+  "The verse reports the claim without explicitly endorsing or rejecting it."
+ ],
+ "plain_english": "They are speakers who say, 'All are lords.'"
 }
