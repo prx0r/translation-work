@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 401,
- "question": "Which deities are named in this opening enumeration of the mantra's divine forms?",
+ "question": "Which five deities beginning with Brahma are satisfied in this rite?",
  "premises": [
-  "The verse lists śukra-ātmā, bhāskara, ananta, deva-rāja, and śiva.",
-  "It closes with tathā, linking the list to what follows."
+  "six-faced one is satisfied first",
+  "five deities beginning with Brahma follow",
+  "satisfaction is performed by offering"
  ],
- "inference": "This verse opens a sequential enumeration of deities associated with mantra components.",
- "uncertainties": [],
- "plain_english": "Venus-soul, sun, endless one, king of gods, and Shiva are named thus."
+ "inference": "The rite includes satisfaction of Skanda and the five Brahma-led deities.",
+ "uncertainties": [
+  "exact list of five deities not specified"
+ ],
+ "plain_english": "After satisfying the six-faced one, one satisfies the five deities beginning with Brahma."
 }

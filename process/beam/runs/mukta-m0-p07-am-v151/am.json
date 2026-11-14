@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p07",
  "verse": 151,
- "question": "What characterizes the mantras associated with the sacrificial tongues?",
+ "question": "How are tāra, māyā, and śrī-bīja arranged at the beginning, middle, and end?",
  "premises": [
-  "The mantras are called tongue-mantras",
-  "They are endowed with bindu, nada, and kala",
-  "This characterization is explicitly declared"
+  "tāra and māyā stand at beginning and end",
+  "śrī-bīja is joined in the middle"
  ],
- "inference": "The tongue-mantras are defined as those endowed with bindu, nada, and kala.",
- "uncertainties": [],
- "plain_english": "The tongue-mantras are declared to be endowed with bindu, nada, and kala."
+ "inference": "The mantra components are ordered with śrī-bīja centrally placed.",
+ "uncertainties": [
+  "exact sandhi of tāramāyā not expanded"
+ ],
+ "plain_english": "At beginning and end are tāra and māyā, with śrī-bīja joined in the middle."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 386,
- "question": "What is the essential luminous nature of the goddess described here?",
+ "question": "How many openings should the wise close before immersing three times?",
  "premises": [
-  "The goddess appears in the form of light.",
-  "She is identified as the goddess.",
-  "Her nature is supreme radiance."
+  "Seven openings are closed.",
+  "Immersion follows three times.",
+  "The agent is the wise person."
  ],
- "inference": "The goddess is of the nature of supreme radiance in the form of light.",
- "uncertainties": [],
- "plain_english": "In the form of light, that goddess is of the nature of supreme radiance."
+ "inference": "The verse prescribes closing seven openings before triple immersion.",
+ "uncertainties": [
+  "Which seven openings are meant is not listed."
+ ],
+ "plain_english": "Closing the seven openings, the wise person should immerse three times."
 }

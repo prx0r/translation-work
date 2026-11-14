@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 412,
- "question": "Which powers and lords are grouped with the world-lady?",
+ "question": "What follows after completing the offering in this rite?",
  "premises": [
-  "The verse names bhuvaneśyā, maheśa, śakti, brahmeśa, and indraka.",
-  "It groups them together."
+  "offering is completed",
+  "then sprinkling is performed",
+  "sprinkling is done three times on body"
  ],
- "inference": "The world-lady is grouped with great lord, power, brahma-lord, and indra-like.",
- "uncertainties": [],
- "plain_english": "World-lady, great lord, power, brahma-lord, and indra-like are named."
+ "inference": "After completing the offering, one sprinkles the body three times.",
+ "uncertainties": [
+  "whether tanu means body or person"
+ ],
+ "plain_english": "After completing the offering, one sprinkles the body three times."
 }

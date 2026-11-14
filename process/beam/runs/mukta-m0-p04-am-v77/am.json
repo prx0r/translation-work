@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 77,
- "question": "What size increments apply for rituals of one thousand and ten thousand oblations?",
+ "question": "Which vidyā is worshipped by Manu after abandoning the younger brother Śiva?",
  "premises": [
-  "A ritual of one thousand oblations requires a specific measure.",
-  "A ritual of ten thousand oblations requires a different measure.",
-  "The measures are given as one hasta and two hastas respectively."
+  "Manu worships this vidyā",
+  "It is described with agra",
+  "The younger brother Śiva is abandoned"
  ],
- "inference": "One should apply a one-hasta measure for a thousand oblations and a two-hasta measure for ten thousand.",
- "uncertainties": [],
- "plain_english": "For a thousand oblations the measure is one hasta, and likewise for ten thousand it is two hastas."
+ "inference": "The Manu-worshipped vidyā follows abandonment of the younger brother Śiva",
+ "uncertainties": [
+  "Identity of younger brother Śiva"
+ ],
+ "plain_english": "Having abandoned the younger brother Śiva, this vidyā with agra is worshipped by Manu."
 }

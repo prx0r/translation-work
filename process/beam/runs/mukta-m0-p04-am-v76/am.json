@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 76,
- "question": "How many petals should the wise practitioner draw in the two outer parts?",
+ "question": "How should the speech-born vidyā be written and all vidyās extracted?",
  "premises": [
-  "The wise practitioner is instructed to draw petals.",
-  "The petals are to be drawn in the two outer parts.",
-  "The specified number of petals is eight."
+  "The speech-born vidyā is written first",
+  "All vidyās are then extracted",
+  "The verse gives a ritual procedure"
  ],
- "inference": "The wise practitioner should draw eight petals in the two outer parts.",
- "uncertainties": [],
- "plain_english": "The wise one should draw eight petals in the two outer parts."
+ "inference": "Writing the speech-born vidyā precedes extracting all vidyās",
+ "uncertainties": [
+  "Exact ritual sense of extraction"
+ ],
+ "plain_english": "Having written this speech-born vidyā, one should extract all vidyās."
 }

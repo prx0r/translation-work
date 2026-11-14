@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 226,
- "question": "When should the enclosing sticks be burned in occasional and regular rites?",
+ "question": "By whose grace did Lakṣmī become the Vaiṣṇavī beloved of Viṣṇu?",
  "premises": [
-  "Occasional rites involve specific ritual actions",
-  "Regular rites follow different procedural rules",
-  "Burning enclosing sticks is conditionally prescribed"
+  "grace is the stated cause",
+  "Lakṣmī becomes Vaiṣṇavī",
+  "she is Viṣṇu's beloved"
  ],
- "inference": "The enclosing sticks should be burned in an occasional rite but not in a regular rite.",
- "uncertainties": [],
- "plain_english": "In an occasional rite one should burn the enclosing sticks, but in a regular rite one should not burn them."
+ "inference": "The verse attributes Lakṣmī's Vaiṣṇavī status to a specific grace.",
+ "uncertainties": [
+  "the antecedent of 'whose' is not explicit in this excerpt"
+ ],
+ "plain_english": "By whose grace Lakṣmī became the Vaiṣṇavī beloved of Viṣṇu."
 }

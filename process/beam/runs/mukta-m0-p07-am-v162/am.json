@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p07",
  "verse": 162,
- "question": "What further features define the divine form in meditation?",
+ "question": "How many times is recitation performed at beginning and end?",
  "premises": [
-  "The form is three-eyed and radiant",
-  "It has an upward crown",
-  "It is associated with matted hair and similar features"
+  "recitation has beginning and end",
+  "seven times in order"
  ],
- "inference": "One should meditate on a radiant, three-eyed form with an upward crown and matted hair.",
- "uncertainties": [],
- "plain_english": "One should meditate on the radiant, three-eyed form with an upward crown and matted hair and the like."
+ "inference": "Recitation is performed seven times at beginning and end in order.",
+ "uncertainties": [
+  "object of recitation implied"
+ ],
+ "plain_english": "At beginning and end of recitation, seven times in order."
 }

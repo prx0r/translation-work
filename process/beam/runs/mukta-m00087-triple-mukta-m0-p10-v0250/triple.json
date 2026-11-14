@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "sarvāmnāyaiḥ",
+     "gloss": "by-all-traditions",
+     "grounds": "instrumental plural of sarvāmnāya",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "prapūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "feminine nominative singular passive participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sakalahitakarī",
+     "gloss": "causing-benefit-to-all",
+     "grounds": "feminine nominative singular compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gopanīyā",
+     "gloss": "to-be-concealed",
+     "grounds": "feminine nominative singular passive participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prayatnāt",
+     "gloss": "with-effort",
+     "grounds": "ablative singular of prayatna",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why must this vidyā be worshipped by all traditions yet concealed with effort?",
+   "premises": [
+    "Vidyā is worshipped by all traditions.",
+    "It causes benefit to all.",
+    "It must be concealed with effort."
+   ],
+   "inference": "Universal worship and benefit coexist with strict secrecy.",
+   "uncertainties": [
+    "sakalahitakarī modifies vidyā from the preceding verse"
+   ],
+   "plain_english": "This vidyā is to be worshipped by all traditions, brings benefit to all, and must be carefully concealed."
+  }
+ ]
+}

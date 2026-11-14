@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 406,
- "question": "Which eighteen-syllable mantra form is named here?",
+ "question": "Which deities of the yogini tradition and all-siddhi group are included?",
  "premises": [
-  "The verse calls it aṣṭādaśākṣarī vidyā.",
-  "It identifies it with mahātripurasundarī."
+  "yogini tradition is named",
+  "all-siddhi and related deities are named",
+  "the verse is a list item"
  ],
- "inference": "The eighteen-syllable form is the great Tripurasundarī mantra.",
- "uncertainties": [],
- "plain_english": "The eighteen-syllable mantra is the great Tripurasundarī."
+ "inference": "The rite includes yogini-tradition deities and all-siddhi-related deities.",
+ "uncertainties": [
+  "whether ca connects to previous verse"
+ ],
+ "plain_english": "The yogini tradition and all-siddhi-related deities are included."
 }

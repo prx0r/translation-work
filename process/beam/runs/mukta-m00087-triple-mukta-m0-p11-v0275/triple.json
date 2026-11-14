@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "gurunāma",
+     "gloss": "guru-name",
+     "grounds": "compound of guru and nāma; object of smaret",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction linking the remembered names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktināma",
+     "gloss": "śakti-name",
+     "grounds": "compound of śakti and nāma; object of smaret",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śrīpādukāṃ",
+     "gloss": "śrī-pādukā",
+     "grounds": "accusative object of smaret",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "remember",
+     "grounds": "optative of smṛ with imperative sense",
+     "morph": "3.sg.act.opt (smṛ)"
+    }
+   ],
+   "question": "Which three objects should the practitioner remember here?",
+   "premises": [
+    "guru-name is to be remembered",
+    "śakti-name is to be remembered",
+    "śrī-pādukā is to be remembered"
+   ],
+   "inference": "The practitioner remembers guru-name, śakti-name, and śrī-pādukā.",
+   "uncertainties": [
+    "Exact ritual context of śrī-pādukā is not specified."
+   ],
+   "plain_english": "One should remember the guru's name, the śakti's name, and the śrī-pādukā."
+  }
+ ]
+}

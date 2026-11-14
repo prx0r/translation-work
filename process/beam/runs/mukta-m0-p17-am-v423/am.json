@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 423,
- "question": "Which deities and components are placed between in this enumeration?",
+ "question": "What should be washed at the worship house door?",
  "premises": [
-  "The verse names Bhṛgu, Brahma, sahasrākṣa, and mahāmāyā.",
-  "It ends with tad-antaram."
+  "then indicates sequence",
+  "worship house door is named",
+  "hands and feet are washed"
  ],
- "inference": "Bhṛgu, Brahma, thousand-eyed, and great illusion are placed between.",
- "uncertainties": [],
- "plain_english": "Bhrgu, Brahma, thousand-eyed, and great illusion are placed between."
+ "inference": "Then one should wash hands and feet at the worship house door.",
+ "uncertainties": [
+  "whether pāṇipādakau is dual or compound"
+ ],
+ "plain_english": "Then one should wash hands and feet at the worship house door."
 }

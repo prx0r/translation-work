@@ -1,0 +1,929 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "ṣaḍānanañca",
+     "gloss": "six-faced-and",
+     "grounds": "compound ṣaḍānana + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "santarpya",
+     "gloss": "satisfying",
+     "grounds": "absolutive of santṛp",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "brahmādipañcadevatāḥ",
+     "gloss": "brahma-etc-five-deities",
+     "grounds": "compound brahma-ādi-pañca-devatāḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which five deities beginning with Brahma are satisfied in this rite?",
+   "premises": [
+    "six-faced one is satisfied first",
+    "five deities beginning with Brahma follow",
+    "satisfaction is performed by offering"
+   ],
+   "inference": "The rite includes satisfaction of Skanda and the five Brahma-led deities.",
+   "uncertainties": [
+    "exact list of five deities not specified"
+   ],
+   "plain_english": "After satisfying the six-faced one, one satisfies the five deities beginning with Brahma."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "trivāraṃ",
+     "gloss": "three-times",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlavidyāñca",
+     "gloss": "root-mantra-and",
+     "grounds": "compound mūlavidyā + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "svaśaktyā",
+     "gloss": "by-own-power",
+     "grounds": "instrumental of svaśakti",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental plural of jala",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "How is the root mantra offered with water in this rite?",
+   "premises": [
+    "root mantra is offered three times",
+    "offering is done by one's own power",
+    "water is used sevenfold"
+   ],
+   "inference": "The root mantra is offered three times with sevenfold water by one's own power.",
+   "uncertainties": [
+    "whether svaśaktyā modifies offering or mantra"
+   ],
+   "plain_english": "The root mantra is offered three times, sevenfold with water, by one's own power."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "aṇimādīṃśca",
+     "gloss": "anima-etc-and",
+     "grounds": "compound aṇimā-ādi + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "santarpya",
+     "gloss": "satisfying",
+     "grounds": "absolutive of santṛp",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "brahmāṇyādyaṣṭadevatāḥ",
+     "gloss": "brahmani-etc-eight-deities",
+     "grounds": "compound brahmāṇī-ādi-aṣṭa-devatāḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which eight deities beginning with Brahmani are satisfied after the anima group?",
+   "premises": [
+    "anima and related powers are satisfied",
+    "eight deities beginning with Brahmani follow",
+    "satisfaction is performed by offering"
+   ],
+   "inference": "The rite satisfies the anima group and then eight Brahmani-led deities.",
+   "uncertainties": [
+    "exact list of eight deities not specified"
+   ],
+   "plain_english": "After satisfying the anima powers, one satisfies the eight deities beginning with Brahmani."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "kāmākarṣaṇarūpādi",
+     "gloss": "desire-attraction-form-etc",
+     "grounds": "compound kāma-ākarṣaṇa-rūpa-ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "tarpayettripureśvarīm",
+     "gloss": "should-satisfy-tripuresvari",
+     "grounds": "causative optative of tṛp with Tripureśvarī",
+     "morph": "3.sg.opt.caus"
+    }
+   ],
+   "question": "Which forms of desire and attraction are used to satisfy Tripuresvari?",
+   "premises": [
+    "desire-attraction-forms are named",
+    "Tripuresvari is the object of satisfaction",
+    "the verb is causative optative"
+   ],
+   "inference": "One should satisfy Tripuresvari with desire-attraction forms and related items.",
+   "uncertainties": [
+    "whether rūpādi includes further unnamed forms"
+   ],
+   "plain_english": "One should satisfy Tripuresvari with desire, attraction, form, and related items."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "sundarīṃ",
+     "gloss": "beautiful-one",
+     "grounds": "accusative of Sundarī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tarpayettatra",
+     "gloss": "should-satisfy-there",
+     "grounds": "causative optative of tṛp + tatra",
+     "morph": "3.sg.opt.caus"
+    },
+    {
+     "surface": "suṣuptatarayoginīm",
+     "gloss": "deep-sleep-yogini",
+     "grounds": "compound suṣupta-tara-yoginī",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which yogini is satisfied there along with Sundari?",
+   "premises": [
+    "Sundari is satisfied there",
+    "the deep-sleep yogini is named",
+    "the verb is causative optative"
+   ],
+   "inference": "There one should satisfy Sundari and the deep-sleep yogini.",
+   "uncertainties": [
+    "whether tatra refers to a specific ritual station"
+   ],
+   "plain_english": "There one should satisfy Sundari and the deep-sleep yogini."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "yoginīsampradāyāśca",
+     "gloss": "yogini-tradition-and",
+     "grounds": "compound yoginī-sampradāya + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvasiddhyādidevatāḥ",
+     "gloss": "all-siddhi-etc-deities",
+     "grounds": "compound sarva-siddhi-ādi-devatāḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which deities of the yogini tradition and all-siddhi group are included?",
+   "premises": [
+    "yogini tradition is named",
+    "all-siddhi and related deities are named",
+    "the verse is a list item"
+   ],
+   "inference": "The rite includes yogini-tradition deities and all-siddhi-related deities.",
+   "uncertainties": [
+    "whether ca connects to previous verse"
+   ],
+   "plain_english": "The yogini tradition and all-siddhi-related deities are included."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "sarvajñādīṃśca",
+     "gloss": "all-knowing-etc-and",
+     "grounds": "compound sarvajña-ādi + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "santarpya",
+     "gloss": "satisfying",
+     "grounds": "absolutive of santṛp",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripuramālinīm",
+     "gloss": "tripuramalini",
+     "grounds": "accusative of Tripuramālinī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which all-knowing deities and Tripuramalini are satisfied?",
+   "premises": [
+    "all-knowing and related deities are satisfied",
+    "Tripuramalini is likewise satisfied",
+    "satisfaction is performed by offering"
+   ],
+   "inference": "The rite satisfies all-knowing deities and Tripuramalini.",
+   "uncertainties": [
+    "whether tathā links to previous satisfaction"
+   ],
+   "plain_english": "After satisfying the all-knowing deities, one likewise satisfies Tripuramalini."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "tarpayettripurāṃ",
+     "gloss": "should-satisfy-tripura",
+     "grounds": "causative optative of tṛp with Tripurā",
+     "morph": "3.sg.opt.caus"
+    },
+    {
+     "surface": "siddhāṃ",
+     "gloss": "accomplished",
+     "grounds": "accusative adjective of siddhā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rahasyayoginīstathā",
+     "gloss": "secret-yoginis-thus",
+     "grounds": "compound rahasya-yoginī + tathā",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which accomplished Tripura and secret yoginis are satisfied?",
+   "premises": [
+    "accomplished Tripura is satisfied",
+    "secret yoginis are likewise satisfied",
+    "the verb is causative optative"
+   ],
+   "inference": "One should satisfy accomplished Tripura and the secret yoginis.",
+   "uncertainties": [
+    "whether rahasyayoginī is singular or collective"
+   ],
+   "plain_english": "One should satisfy accomplished Tripura and the secret yoginis."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgayuvatīñcaiva",
+     "gloss": "six-limbed-maiden-and-indeed",
+     "grounds": "compound ṣaḍaṅga-yuvatī + ca + eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāmeśvaryādikaṃ",
+     "gloss": "kamesvari-etc",
+     "grounds": "compound kāmeśvarī-ādika",
+     "morph": "compound"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "triad",
+     "grounds": "accusative of traya",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What triad of six-limbed maiden and Kamesvari group is named?",
+   "premises": [
+    "six-limbed maiden is named",
+    "Kamesvari and related deities are named",
+    "the group is called a triad"
+   ],
+   "inference": "The rite names a triad including the six-limbed maiden and Kamesvari group.",
+   "uncertainties": [
+    "exact members of the triad not specified"
+   ],
+   "plain_english": "The six-limbed maiden and the Kamesvari group form a named triad."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "sarvānandamayaṃ",
+     "gloss": "all-bliss-filled",
+     "grounds": "compound sarva-ānanda-maya",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "accusative of cakra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśvarīm",
+     "gloss": "supreme-goddess",
+     "grounds": "accusative of Parameśvarī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which all-bliss wheel and supreme goddess are named together?",
+   "premises": [
+    "all-bliss-filled wheel is named",
+    "supreme goddess is likewise named",
+    "the verse links wheel and goddess"
+   ],
+   "inference": "The rite names the all-bliss wheel and the supreme goddess.",
+   "uncertainties": [
+    "whether cakra is a ritual diagram or deity group"
+   ],
+   "plain_english": "The all-bliss-filled wheel and the supreme goddess are named together."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "vaṭukādīṃśca",
+     "gloss": "vatuka-etc-and",
+     "grounds": "compound vaṭuka-ādi + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "santarpya",
+     "gloss": "satisfying",
+     "grounds": "absolutive of santṛp",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ekaikāñjalinā",
+     "gloss": "one-by-one-with-palm",
+     "grounds": "compound ekaika-añjali + nā",
+     "morph": "compound"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative of sudhī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the wise one satisfy Vaṭuka and related deities?",
+   "premises": [
+    "Vaṭuka and related deities are satisfied",
+    "offering is made one by one with palm",
+    "the agent is the wise one"
+   ],
+   "inference": "The wise one satisfies Vaṭuka and related deities one by one with palmful offerings.",
+   "uncertainties": [
+    "whether ekaikāñjalinā modifies quantity or gesture"
+   ],
+   "plain_english": "The wise one satisfies Vaṭuka and related deities one by one with palmful offerings."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "tarpaṇañca",
+     "gloss": "offering-and",
+     "grounds": "compound tarpaṇa + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "samāpyātha",
+     "gloss": "completing-then",
+     "grounds": "compound samāpya + atha",
+     "morph": "compound"
+    },
+    {
+     "surface": "trivāraṃ",
+     "gloss": "three-times",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "accusative of prokṣaṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tanu",
+     "gloss": "body",
+     "grounds": "accusative of tanu",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What follows after completing the offering in this rite?",
+   "premises": [
+    "offering is completed",
+    "then sprinkling is performed",
+    "sprinkling is done three times on body"
+   ],
+   "inference": "After completing the offering, one sprinkles the body three times.",
+   "uncertainties": [
+    "whether tanu means body or person"
+   ],
+   "plain_english": "After completing the offering, one sprinkles the body three times."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cārghyaṃ",
+     "gloss": "and-arghya",
+     "grounds": "compound ca + arghya",
+     "morph": "compound"
+    },
+    {
+     "surface": "dineśāya",
+     "gloss": "to-sun",
+     "grounds": "dative of Dineśa",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tanmukhaṃ",
+     "gloss": "that-face",
+     "grounds": "compound tat + mukha",
+     "morph": "compound"
+    },
+    {
+     "surface": "samyagutkṣipet",
+     "gloss": "well-raise",
+     "grounds": "optative of utkṣip with samyak",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How is arghya offered to the sun in this rite?",
+   "premises": [
+    "arghya is offered threefold",
+    "it is given to the sun",
+    "that face is well raised"
+   ],
+   "inference": "One offers arghya threefold to the sun and well raises that face.",
+   "uncertainties": [
+    "whether tanmukhaṃ refers to sun's face or worshipper's face"
+   ],
+   "plain_english": "One offers arghya threefold to the sun and well raises that face."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "mārtaṇḍaṃ",
+     "gloss": "martanda",
+     "grounds": "accusative of Mārtaṇḍa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vallabhārddhaṃ",
+     "gloss": "half-consort",
+     "grounds": "compound vallabhā + ardha",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇimayamukuṭaṃ",
+     "gloss": "gem-crown",
+     "grounds": "compound maṇimaya + mukuṭa",
+     "morph": "compound"
+    },
+    {
+     "surface": "hāradīptaṃ",
+     "gloss": "necklace-radiant",
+     "grounds": "compound hāra + dīpta",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhajāmaḥ",
+     "gloss": "we-worship",
+     "grounds": "first person plural of bhaj",
+     "morph": "1.pl.act"
+    }
+   ],
+   "question": "How is Martanda described in this worship?",
+   "premises": [
+    "Martanda is worshipped",
+    "he is half-consort",
+    "he wears gem crown and radiant necklace"
+   ],
+   "inference": "We worship Martanda, half-consort, with gem crown and radiant necklace.",
+   "uncertainties": [
+    "whether vallabhārddhaṃ means half of consort or consort-half"
+   ],
+   "plain_english": "We worship Martanda, half-consort, crowned with gems and radiant with a necklace."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "mūlena",
+     "gloss": "by-root",
+     "grounds": "instrumental of mūla",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "mantra",
+     "grounds": "instrumental of manu",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "nominative of mantrī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūryasya",
+     "gloss": "of-sun",
+     "grounds": "genitive of Sūrya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "manunāpi",
+     "gloss": "by-mantra-or",
+     "grounds": "compound manunā + api",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra may the practitioner use for the sun?",
+   "premises": [
+    "practitioner uses root mantra",
+    "sun's mantra is also possible",
+    "or connects the two options"
+   ],
+   "inference": "The practitioner may use the root mantra or the sun's mantra.",
+   "uncertainties": [
+    "whether manunāpi means by mantra also or by mantra or"
+   ],
+   "plain_english": "The practitioner may use the root mantra or the sun's mantra."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "sūryamantraśca",
+     "gloss": "sun-mantra-and",
+     "grounds": "compound sūrya-mantra + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃprokto",
+     "gloss": "declared",
+     "grounds": "past participle of saṃpravac",
+     "morph": "pp"
+    },
+    {
+     "surface": "raktapuṣpajalādibhiḥ",
+     "gloss": "red-flower-water-etc",
+     "grounds": "compound rakta-puṣpa-jala-ādibhiḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the sun mantra declared to be offered?",
+   "premises": [
+    "sun mantra is declared",
+    "red flowers water and related items are used",
+    "the verse is a list item"
+   ],
+   "inference": "The sun mantra is declared with red flowers, water, and related items.",
+   "uncertainties": [
+    "whether saṃprokto modifies mantra or offering"
+   ],
+   "plain_english": "The sun mantra is declared with red flowers, water, and related items."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "arghyaṃ",
+     "gloss": "arghya",
+     "grounds": "accusative of arghya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "giving",
+     "grounds": "absolutive of dā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "accusative of mūlamantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japed",
+     "gloss": "recite",
+     "grounds": "optative of jap",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "hundred-eight",
+     "grounds": "compound aṣṭa-uttara",
+     "morph": "compound"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "accusative of śata",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many times is the root mantra recited after arghya?",
+   "premises": [
+    "arghya is given",
+    "root mantra is recited",
+    "count is hundred eight"
+   ],
+   "inference": "After giving arghya, one recites the root mantra one hundred eight times.",
+   "uncertainties": [
+    "whether aṣṭottaraṃ śatam means 108 or 108 hundred"
+   ],
+   "plain_english": "After giving arghya, one recites the root mantra one hundred eight times."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "sadyaḥsantaptahemābhāṃ",
+     "gloss": "instantly-heated-gold-hued",
+     "grounds": "compound sadyas-santapta-hema-ābhā",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūryamaṇḍalarūpiṇīm",
+     "gloss": "sun-orb-formed",
+     "grounds": "compound sūrya-maṇḍala-rūpiṇī",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the sun-orb-formed goddess described?",
+   "premises": [
+    "she is instantly heated gold-hued",
+    "she is sun-orb-formed",
+    "the verse is descriptive"
+   ],
+   "inference": "The goddess is described as instantly heated, gold-hued, and sun-orb-formed.",
+   "uncertainties": [
+    "whether this is a meditation image or deity"
+   ],
+   "plain_english": "She is instantly heated, gold-hued, and formed like the sun's orb."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṅkuśamudrayā",
+     "gloss": "and-with-hook-mudra",
+     "grounds": "compound ca + aṅkuśa-mudrā + yā",
+     "morph": "compound"
+    }
+   ],
+   "question": "What mudra is used then in this rite?",
+   "premises": [
+    "then indicates sequence",
+    "hook mudra is named",
+    "the verse is transitional"
+   ],
+   "inference": "Then the hook mudra is used.",
+   "uncertainties": [
+    "whether cāṅkuśamudrayā is instrumental or ablative"
+   ],
+   "plain_english": "Then one uses the hook mudra."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "abahirmānaso",
+     "gloss": "not-outward-minded",
+     "grounds": "compound a-bahir-mānasa",
+     "morph": "compound"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "nominative of yogī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāgabhūmimathāviśet",
+     "gloss": "sacrificial-ground-then-enter",
+     "grounds": "compound yāga-bhūmi + atha + āviśet",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the yogi enter the sacrificial ground?",
+   "premises": [
+    "yogi is not outward-minded",
+    "sacrificial ground is entered",
+    "then indicates sequence"
+   ],
+   "inference": "The inward-minded yogi then enters the sacrificial ground.",
+   "uncertainties": [
+    "whether abahirmānaso modifies yogī or action"
+   ],
+   "plain_english": "The inward-minded yogi then enters the sacrificial ground."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "p. 443",
+     "gloss": "page-443",
+     "grounds": "editorial page marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nadītīre",
+     "gloss": "river-bank",
+     "grounds": "locative of nadītīra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bilvamūle",
+     "gloss": "bilva-root",
+     "grounds": "locative of bilvamūla",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative of pūj",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "parameśvarīm",
+     "gloss": "supreme-goddess",
+     "grounds": "accusative of Parameśvarī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where should one worship the supreme goddess?",
+   "premises": [
+    "river bank is named",
+    "bilva root is named",
+    "supreme goddess is worshipped"
+   ],
+   "inference": "One should worship the supreme goddess at the river bank or bilva root.",
+   "uncertainties": [
+    "whether locations are alternatives or both required"
+   ],
+   "plain_english": "One should worship the supreme goddess at the river bank or bilva root."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "tadekaliṅgamākhyātaṃ",
+     "gloss": "that-one-linga-called",
+     "grounds": "compound tat + eka + liṅga + ākhyāta",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhir",
+     "gloss": "siddhi",
+     "grounds": "nominative of siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anuttamā",
+     "gloss": "unsurpassed",
+     "grounds": "nominative adjective of anuttamā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is said about the one linga and siddhi there?",
+   "premises": [
+    "one linga is called there",
+    "siddhi is there",
+    "siddhi is unsurpassed"
+   ],
+   "inference": "That one linga is called there, and unsurpassed siddhi is there.",
+   "uncertainties": [
+    "whether tatra refers to river bank or bilva root"
+   ],
+   "plain_english": "That one linga is called there, and unsurpassed siddhi is there."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāgṛhadvāri",
+     "gloss": "worship-house-door",
+     "grounds": "locative of pūjāgṛhadvāra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣālayet",
+     "gloss": "should-wash",
+     "grounds": "optative of kṣal",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "pāṇipādakau",
+     "gloss": "hands-feet",
+     "grounds": "compound pāṇi + pāda + kau",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should be washed at the worship house door?",
+   "premises": [
+    "then indicates sequence",
+    "worship house door is named",
+    "hands and feet are washed"
+   ],
+   "inference": "Then one should wash hands and feet at the worship house door.",
+   "uncertainties": [
+    "whether pāṇipādakau is dual or compound"
+   ],
+   "plain_english": "Then one should wash hands and feet at the worship house door."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "tasmāddūrvā",
+     "gloss": "therefore-durva",
+     "grounds": "compound tasmāt + dūrvā",
+     "morph": "compound"
+    },
+    {
+     "surface": "grahītavyā",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive of grah",
+     "morph": "f.nom.sg.ger"
+    },
+    {
+     "surface": "sarvapuṣpamayī",
+     "gloss": "all-flower-made",
+     "grounds": "compound sarva-puṣpa-mayī",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "nominative adjective of śubhā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why should durva be taken in this rite?",
+   "premises": [
+    "therefore indicates reason",
+    "durva is to be taken",
+    "it is all-flower-made and auspicious"
+   ],
+   "inference": "Therefore durva, all-flower-made and auspicious, should be taken.",
+   "uncertainties": [
+    "whether sarvapuṣpamayī modifies durva or offering"
+   ],
+   "plain_english": "Therefore durva, all-flower-made and auspicious, should be taken."
+  }
+ ]
+}

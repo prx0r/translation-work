@@ -3,24 +3,29 @@
  "verse": 80,
  "rows": [
   {
-   "lemma": "atha",
+   "lemma": "kāma+ārādhita",
+   "morph": "n.nom.sg",
+   "grounds": "compound"
+  },
+  {
+   "lemma": "vidyā",
+   "morph": "n.nom.sg",
+   "grounds": "noun"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "marks transition to a new topic"
+   "grounds": "particle"
   },
   {
-   "lemma": "toḍalatantrasya",
-   "morph": "toḍala+tantra compound n.gen.sg",
-   "grounds": "source of the alternative view"
+   "lemma": "purā+eva",
+   "morph": "(indecl.)",
+   "grounds": "compound"
   },
   {
-   "lemma": "matamanyat",
-   "morph": "mata n.nom.sg + anya n.nom.sg compound",
-   "grounds": "alternative opinion to be stated; sandhi matam+anyat"
-  },
-  {
-   "lemma": "pracakṣyate",
-   "morph": "3.sg.pres.pass √cakṣ",
-   "grounds": "introduces the teaching"
+   "lemma": "parikīrtitā",
+   "morph": "n.nom.sg",
+   "grounds": "participle"
   }
  ]
 }

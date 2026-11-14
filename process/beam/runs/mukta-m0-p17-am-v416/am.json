@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 416,
- "question": "Which mantra division is called supreme here?",
+ "question": "How is the sun mantra declared to be offered?",
  "premises": [
-  "The verse names kāma-indrau, mahāmāyā, and vāgbhava.",
-  "It calls the kūṭa supreme."
+  "sun mantra is declared",
+  "red flowers water and related items are used",
+  "the verse is a list item"
  ],
- "inference": "The speech-born kūṭa is the supreme mantra division.",
- "uncertainties": [],
- "plain_english": "The speech-born kūṭa is supreme."
+ "inference": "The sun mantra is declared with red flowers, water, and related items.",
+ "uncertainties": [
+  "whether saṃprokto modifies mantra or offering"
+ ],
+ "plain_english": "The sun mantra is declared with red flowers, water, and related items."
 }

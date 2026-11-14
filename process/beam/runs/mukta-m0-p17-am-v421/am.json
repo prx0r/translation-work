@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 421,
- "question": "Which components and sage are named in this mantra enumeration?",
+ "question": "Where should one worship the supreme goddess?",
  "premises": [
-  "The verse names mahāmāyā, vāgbhava, mānmatha, sarga-vān, and Bhṛgu.",
-  "It groups them together."
+  "river bank is named",
+  "bilva root is named",
+  "supreme goddess is worshipped"
  ],
- "inference": "Great illusion, speech-born, love-born, creation-possessing, and Bhṛgu are named.",
- "uncertainties": [],
- "plain_english": "Great illusion, speech-born, love-born, creation-possessing, and Bhrgu are named."
+ "inference": "One should worship the supreme goddess at the river bank or bilva root.",
+ "uncertainties": [
+  "whether locations are alternatives or both required"
+ ],
+ "plain_english": "One should worship the supreme goddess at the river bank or bilva root."
 }

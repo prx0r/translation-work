@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "adjective modifying kāmarājam; accusative neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kāmarājam",
+     "gloss": "kamaraja-mantra",
+     "grounds": "noun in accusative singular masculine; second mantra-division named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taruṇa+aruṇa+sannibham",
+     "gloss": "youthful-red-resembling",
+     "grounds": "compound adjective in accusative neuter singular; internal members joined by plus signs",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is the appearance of the second Kāmarāja mantra-division?",
+   "premises": [
+    "the second kamaraja division is named",
+    "its appearance is youthful-red-resembling",
+    "tu marks an emphatic statement"
+   ],
+   "inference": "The second Kāmarāja division is indeed youthful-red-resembling.",
+   "uncertainties": [
+    "the surrounding mantra context is not supplied",
+    "whether kāmarājam names a mantra or division depends on context"
+   ],
+   "plain_english": "The second Kāmarāja [division] is indeed youthful-red-resembling."
+  }
+ ]
+}

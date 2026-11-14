@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p14",
  "verse": 343,
- "question": "What higher enjoyments and accomplishments does this vidyā bestow?",
+ "question": "What form is described as born from that?",
  "premises": [
-  "The vidyā causes great enjoyment",
-  "The vidyā grants great accomplishment"
+  "from that born is stated",
+  "lightning colored is described",
+  "two armed is described",
+  "girl form is described"
  ],
- "inference": "This vidyā bestows great enjoyment and great accomplishment",
- "uncertainties": [],
- "plain_english": "The vidyā brings great enjoyment and grants great accomplishment."
+ "inference": "The form born from that is lightning-colored, two-armed, and girl-formed.",
+ "uncertainties": [
+  "antecedent of that"
+ ],
+ "plain_english": "Born from that, lightning-colored, two-armed, in girl form."
 }

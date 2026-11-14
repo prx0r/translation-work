@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 95,
- "question": "Into how many parts should a one-hasta measure be divided for making the ladles?",
+ "question": "Is there ever any difference in Sūrya's vidyā here?",
  "premises": [
-  "A one-hasta measure is taken as the base.",
-  "This measure must be divided.",
-  "The division is into thirty-six parts."
+  "Sūrya's vidyā has no difference",
+  "This holds here",
+  "It never differs"
  ],
- "inference": "One should take a one-hasta measure and divide it into thirty-six parts.",
- "uncertainties": [],
- "plain_english": "Having taken a one-hasta measure, one should divide it again into thirty-six parts."
+ "inference": "Sūrya's vidyā never differs in this context",
+ "uncertainties": [
+  "Scope of here"
+ ],
+ "plain_english": "But there is never any difference in Sūrya's vidyā here."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 80,
- "question": "What alternative teaching is now declared according to the Toḍala Tantra?",
+ "question": "When was the vidyā worshipped by Kāma fully described?",
  "premises": [
-  "A new section of instruction begins.",
-  "The Toḍala Tantra holds a view on this matter.",
-  "An alternative opinion from that source is to be declared."
+  "Kāma worships this vidyā",
+  "It was fully described before",
+  "The description is already given"
  ],
- "inference": "Another view of the Toḍala Tantra is now declared.",
- "uncertainties": [],
- "plain_english": "Now another view of the Toḍala Tantra is declared."
+ "inference": "The Kāma-worshipped vidyā had already been fully described earlier",
+ "uncertainties": [
+  "Location of earlier description"
+ ],
+ "plain_english": "The vidyā worshipped by Kāma was indeed fully described before."
 }

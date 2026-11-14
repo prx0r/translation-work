@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 417,
- "question": "What is the listener asked to hear?",
+ "question": "How many times is the root mantra recited after arghya?",
  "premises": [
-  "The verse names śakti-kūṭa.",
-  "It commands listen to that."
+  "arghya is given",
+  "root mantra is recited",
+  "count is hundred eight"
  ],
- "inference": "The listener is asked to hear the power-division.",
- "uncertainties": [],
- "plain_english": "Listen to that power-division."
+ "inference": "After giving arghya, one recites the root mantra one hundred eight times.",
+ "uncertainties": [
+  "whether aṣṭottaraṃ śatam means 108 or 108 hundred"
+ ],
+ "plain_english": "After giving arghya, one recites the root mantra one hundred eight times."
 }
