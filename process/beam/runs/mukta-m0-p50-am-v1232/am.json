@@ -1,14 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1232,
- "question": "How should weapons be arranged from the right lower hand end in left-to-right order?",
+ "question": "What sequence of measures governs the construction of the first pair of girdles?",
  "premises": [
-  "weapons are arranged",
-  "the order runs left to right"
+  "A pair of girdles is to be made.",
+  "Their measures follow a sequence of a finger and a half-finger."
  ],
- "inference": "the arrangement follows the stated hand sequence",
+ "inference": "The two girdles are constructed in a sequence of one finger and half a finger.",
  "uncertainties": [
-  "exact weapons"
+  "The order of application of finger and half-finger to each girdle is not explicit."
  ],
- "plain_english": "Arrange weapons from the right lower hand end in left-to-right order."
+ "plain_english": "A pair of girdles should be made in the sequence of a finger and a half-finger."
 }

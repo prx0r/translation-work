@@ -3,29 +3,39 @@
  "verse": 1271,
  "rows": [
   {
-   "lemma": "madanaṃ",
-   "morph": "n.acc.sg.m",
-   "grounds": "accusative singular masculine noun"
+   "lemma": "nityāgnau",
+   "morph": "m.loc.sg(karmadhāraya:nitya+agni)",
+   "grounds": "compound locative: nitya+agni"
   },
   {
-   "lemma": "navadhā",
+   "lemma": "yojayet",
+   "morph": "3.sg.act.opt.caus(√yuj)",
+   "grounds": "optative verb"
+  },
+  {
+   "lemma": "vṛddham",
+   "morph": "n.acc.sg.ppp(√vṛdh)",
+   "grounds": "object adjective or participle"
+  },
+  {
+   "lemma": "anyatra",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb"
+   "grounds": "locative adverb"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "v.3.sg.opt",
-   "grounds": "third singular optative of kṛ"
-  },
-  {
-   "lemma": "pūjayet",
-   "morph": "v.3.sg.opt",
-   "grounds": "third singular optative of pūj"
-  },
-  {
-   "lemma": "tadanantaram",
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb"
+   "grounds": "inclusive particle"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "yojayet",
+   "morph": "3.sg.act.opt.caus(√yuj)",
+   "grounds": "optative verb"
   }
  ]
 }

@@ -1,0 +1,961 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1051,
+   "rows": [
+    {
+     "surface": "tatkāle",
+     "gloss": "at-that-time",
+     "grounds": "locative of time indicating the prescribed occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūjayeddevaṃ",
+     "gloss": "one-should-worship-god",
+     "grounds": "fused sandhi form pūjayet + devam; optative verb with object",
+     "morph": "pūjayet: 3.sg.opt.act √pūj + devam: m.acc.sg"
+    },
+    {
+     "surface": "sarvakāmārthasiddhaye",
+     "gloss": "for-accomplishment-all-desires-aims",
+     "grounds": "dative of purpose; compound of sarva, kāma, artha, siddhi",
+     "morph": "f.dat.sg, compound tatpuruṣa"
+    }
+   ],
+   "question": "For what purpose should the deity be worshipped at that prescribed time?",
+   "premises": [
+    "Worship is enjoined at a specific time.",
+    "The act of worship is directed to the deity.",
+    "The stated purpose is accomplishment of all desires and aims."
+   ],
+   "inference": "Worship performed at the prescribed time is undertaken to accomplish all desired ends.",
+   "uncertainties": [],
+   "plain_english": "At that time one should worship the god for the accomplishment of all desires and aims."
+  },
+  {
+   "verse": 1052,
+   "rows": [
+    {
+     "surface": "bhūribhir",
+     "gloss": "with-abundant",
+     "grounds": "instrumental plural adjective qualifying offerings",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "gandhakusumair",
+     "gloss": "with-fragrances-flowers",
+     "grounds": "instrumental plural compound of gandha and kusuma",
+     "morph": "m/n.inst.pl, compound dvandva"
+    },
+    {
+     "surface": "gandhaiḥ",
+     "gloss": "with-fragrances",
+     "grounds": "instrumental plural noun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "parimalairapi",
+     "gloss": "and-with-perfumes",
+     "grounds": "instrumental plural with enclitic api adding further items",
+     "morph": "m.inst.pl + (indecl.)"
+    }
+   ],
+   "question": "What kinds of fragrant offerings should accompany the worship of the deity?",
+   "premises": [
+    "The worship involves abundant offerings.",
+    "Fragrances and flowers are specified.",
+    "Perfumes are also included."
+   ],
+   "inference": "The deity should be worshipped with plentiful fragrant substances, flowers, and perfumes.",
+   "uncertainties": [],
+   "plain_english": "One should worship with abundant fragrant flowers, fragrances, and perfumes."
+  },
+  {
+   "verse": 1053,
+   "rows": [
+    {
+     "surface": "khaṭvārūḍhām",
+     "gloss": "seated-on-couch",
+     "grounds": "accusative feminine describing Umā; compound of khaṭvā and ārūḍha",
+     "morph": "f.acc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "umāṃ",
+     "gloss": "Umā",
+     "grounds": "accusative object, name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "accusative apposition to Umā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "alaṅkṛtya",
+     "gloss": "having-adorned",
+     "grounds": "absolutive indicating prior act of adornment",
+     "morph": "(gerund) √alaṅkṛ"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb emphasizing special care",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the goddess Umā be prepared before her worship in this rite?",
+   "premises": [
+    "The goddess Umā is the object of preparation.",
+    "She is described as seated on a couch.",
+    "She must be adorned with special care."
+   ],
+   "inference": "Before worship, the goddess Umā seated on a couch should be specially adorned.",
+   "uncertainties": [],
+   "plain_english": "Having especially adorned the goddess Umā seated on a couch, one should proceed."
+  },
+  {
+   "verse": 1054,
+   "rows": [
+    {
+     "surface": "putrapautravivṛddhyarthaṃ",
+     "gloss": "for-increase-sons-grandsons",
+     "grounds": "dative of purpose; compound of putra, pautra, vivṛddhi, artha",
+     "morph": "m.acc.sg used adverbially as purpose, compound tatpuruṣa"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "śaṅkaraṃ",
+     "gloss": "Śaṅkara",
+     "grounds": "accusative object, name of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence after previous act",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what familial purpose should Śaṅkara be worshipped after adorning Umā?",
+   "premises": [
+    "Worship of Śaṅkara follows the previous preparation.",
+    "The stated aim concerns progeny.",
+    "The aim is increase of sons and grandsons."
+   ],
+   "inference": "After adorning Umā, one should worship Śaṅkara for the increase of sons and grandsons.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship Śaṅkara for the increase of sons and grandsons."
+  },
+  {
+   "verse": 1055,
+   "rows": [
+    {
+     "surface": "nṛpater",
+     "gloss": "of-king",
+     "grounds": "genitive indicating beneficiary",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āyurārogyasiddhaye",
+     "gloss": "for-accomplishment-life-health",
+     "grounds": "dative of purpose; compound of āyus, ārogya, siddhi",
+     "morph": "f.dat.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "vijayāya",
+     "gloss": "for-victory",
+     "grounds": "dative of purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking purposes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What benefits for the king are sought through this worship?",
+   "premises": [
+    "The king is named as beneficiary.",
+    "Long life and health are desired accomplishments.",
+    "Victory is also sought."
+   ],
+   "inference": "The worship is performed for the king’s long life, health, and victory.",
+   "uncertainties": [],
+   "plain_english": "It is for the king’s long life, health, and victory."
+  },
+  {
+   "verse": 1056,
+   "rows": [
+    {
+     "surface": "pūjakaḥ",
+     "gloss": "worshipper",
+     "grounds": "subject performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sandhipūrve",
+     "gloss": "before-junction",
+     "grounds": "locative indicating time before the junction period",
+     "morph": "m/n.loc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking procedural specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "snānādikaṃ",
+     "gloss": "bathing-and-so-forth",
+     "grounds": "accusative object; compound with ādi indicating related acts",
+     "morph": "m.acc.sg, compound bahuvrīhi/tatpuruṣa"
+    },
+    {
+     "surface": "vidhim",
+     "gloss": "rite",
+     "grounds": "accusative object specifying the procedure",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "When and what preliminary rite should the worshipper perform before worship?",
+   "premises": [
+    "The worshipper is the agent of the rite.",
+    "The time is before the junction period.",
+    "Bathing and related acts constitute the prescribed procedure."
+   ],
+   "inference": "The worshipper should perform bathing and related rites before the junction period.",
+   "uncertainties": [
+    "The exact junction period (sandhi) intended is not specified in this verse."
+   ],
+   "plain_english": "Before the junction period, the worshipper should perform the rite of bathing and so forth."
+  },
+  {
+   "verse": 1057,
+   "rows": [
+    {
+     "surface": "yajanārthaṃ",
+     "gloss": "for-purpose-worship",
+     "grounds": "accusative used as purpose; compound of yajana and artha",
+     "morph": "m.acc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle continuing procedural instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhārāḥ",
+     "gloss": "materials",
+     "grounds": "subject to be gathered",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sambhriyantāṃ",
+     "gloss": "let-be-gathered",
+     "grounds": "passive imperative prescribing collection",
+     "morph": "3.pl.imp.pass √bhṛ with sam"
+    },
+    {
+     "surface": "jalādayaḥ",
+     "gloss": "water-and-others",
+     "grounds": "nominative plural compound with ādi indicating water etc.",
+     "morph": "m.nom.pl, compound bahuvrīhi"
+    }
+   ],
+   "question": "What materials must be gathered in preparation for the act of worship?",
+   "premises": [
+    "Materials are required for worship.",
+    "They must be gathered.",
+    "Water and other items are included."
+   ],
+   "inference": "For worship, materials beginning with water should be gathered.",
+   "uncertainties": [],
+   "plain_english": "For the purpose of worship, materials such as water and so forth should be gathered."
+  },
+  {
+   "verse": 1058,
+   "rows": [
+    {
+     "surface": "susvādu",
+     "gloss": "very-sweet",
+     "grounds": "adjective describing water",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāsitaṃ",
+     "gloss": "perfumed",
+     "grounds": "past participle describing water",
+     "morph": "n.nom.sg, past participle √vās"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental indicating means of perfuming",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "navamṛtkumbhapūritam",
+     "gloss": "filled-in-new-clay-pot",
+     "grounds": "compound describing water placed in a new earthen pot",
+     "morph": "n.nom.sg, compound tatpuruṣa"
+    }
+   ],
+   "question": "What qualities and container are prescribed for the water used in worship?",
+   "premises": [
+    "The water should be very sweet.",
+    "It should be perfumed with flowers.",
+    "It should be placed in a new clay pot."
+   ],
+   "inference": "Worship water must be sweet, flower-perfumed, and contained in a new earthen pot.",
+   "uncertainties": [],
+   "plain_english": "The water should be very sweet, perfumed with flowers, and filled in a new clay pot."
+  },
+  {
+   "verse": 1059,
+   "rows": [
+    {
+     "surface": "śrīkhaṇḍāgarupatrakaiśca",
+     "gloss": "and-with-sandal-agaru-leaves",
+     "grounds": "instrumental plural compound with enclitic ca; sandal, agaru, and leaves",
+     "morph": "m/n.inst.pl + (indecl.), compound dvandva"
+    },
+    {
+     "surface": "kusumair",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural noun",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "āmodibhiḥ",
+     "gloss": "with-fragrant",
+     "grounds": "instrumental plural adjective qualifying flowers",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "saṃyutāḥ",
+     "gloss": "endowed-with",
+     "grounds": "nominative plural participle describing prepared items",
+     "morph": "m.nom.pl, past participle √yu with sam"
+    }
+   ],
+   "question": "What additional fragrant substances should be combined with the worship materials?",
+   "premises": [
+    "Sandal, agaru, and leaves are included.",
+    "Fragrant flowers are included.",
+    "These substances are to be combined together."
+   ],
+   "inference": "The materials should be endowed with sandal, agaru, leaves, and fragrant flowers.",
+   "uncertainties": [],
+   "plain_english": "They should be combined with sandal, agaru, leaves, and fragrant flowers."
+  },
+  {
+   "verse": 1060,
+   "rows": [
+    {
+     "surface": "proktadravyagaṇeṣu",
+     "gloss": "among-stated-substance-groups",
+     "grounds": "locative plural indicating the previously mentioned groups",
+     "morph": "m.loc.pl, compound tatpuruṣa"
+    },
+    {
+     "surface": "labdham",
+     "gloss": "obtained",
+     "grounds": "past participle describing what is available",
+     "morph": "n.nom.sg, past participle √labh"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yattad",
+     "gloss": "whatever-that",
+     "grounds": "fused relative-correlative pronoun phrase",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "grāhyam",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive indicating acceptability",
+     "morph": "n.nom.sg, gerundive √grah"
+    },
+    {
+     "surface": "āḍhyetaraiḥ",
+     "gloss": "by-rich-and-others",
+     "grounds": "instrumental plural compound indicating both wealthy and others",
+     "morph": "m.inst.pl, compound dvandva"
+    }
+   ],
+   "question": "Who may use which substances from the previously stated groups in this rite?",
+   "premises": [
+    "Substance groups have already been stated.",
+    "Only what is obtained is relevant.",
+    "Both rich and others may take what is available."
+   ],
+   "inference": "From the stated substance groups, whatever is obtained may be used by both the wealthy and others.",
+   "uncertainties": [],
+   "plain_english": "Here, from the stated groups of substances, whatever is obtained may be taken by the rich and others alike."
+  },
+  {
+   "verse": 1061,
+   "rows": [
+    {
+     "surface": "bhārādinavabhārāntaṃ",
+     "gloss": "from-one-bhāra-to-nine-bhāra",
+     "grounds": "accusative indicating range of measure; compound with ādi and anta",
+     "morph": "n.acc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "navaliṅge",
+     "gloss": "in-nine-liṅgas",
+     "grounds": "locative specifying context of nine liṅgas",
+     "morph": "n.loc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "adhamādhame",
+     "gloss": "in-lowest-grade",
+     "grounds": "locative indicating the lowest category",
+     "morph": "m/n.loc.sg, compound karmadhāraya"
+    }
+   ],
+   "question": "What range of material quantity applies in the lowest grade involving nine liṅgas?",
+   "premises": [
+    "A range from one bhāra to nine bhāras is specified.",
+    "The context involves nine liṅgas.",
+    "This applies to the lowest grade."
+   ],
+   "inference": "In the lowest grade with nine liṅgas, the quantity ranges from one to nine bhāras.",
+   "uncertainties": [
+    "The exact substance measured in bhāras is not specified in this verse."
+   ],
+   "plain_english": "In the lowest grade with nine liṅgas, the measure ranges from one bhāra to nine bhāras."
+  },
+  {
+   "verse": 1062,
+   "rows": [
+    {
+     "surface": "aṣṭadroṇair",
+     "gloss": "with-eight-droṇas",
+     "grounds": "instrumental plural specifying a measure",
+     "morph": "m.inst.pl, compound tatpuruṣa"
+    },
+    {
+     "surface": "athādbhirvā",
+     "gloss": "or-with-waters",
+     "grounds": "instrumental plural with atha and vā indicating alternative",
+     "morph": "(indecl.) + f.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "dviguṇaistriguṇaistu",
+     "gloss": "or-with-double-triple",
+     "grounds": "instrumental plural alternatives indicating multiplied measures",
+     "morph": "m/n.inst.pl + m/n.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative quantities of water may be used for the bathing measure?",
+   "premises": [
+    "Eight droṇas are specified as a measure.",
+    "Waters may be used in that measure.",
+    "Double or triple quantities are allowed as alternatives."
+   ],
+   "inference": "The bathing water may be eight droṇas, or alternatively double or triple that amount.",
+   "uncertainties": [],
+   "plain_english": "With eight droṇas of water, or with double or triple that amount."
+  },
+  {
+   "verse": 1063,
+   "rows": [
+    {
+     "surface": "snānodakapramāṇaṃ",
+     "gloss": "measure-bathing-water",
+     "grounds": "subject; compound of snāna, udaka, pramāṇa",
+     "morph": "n.nom.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed allowance",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "ātmārthe",
+     "gloss": "for-own-purpose",
+     "grounds": "locative indicating personal worship context",
+     "morph": "m/n.loc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathecchayā",
+     "gloss": "according-to-desire",
+     "grounds": "instrumental expressing discretion",
+     "morph": "f.inst.sg, compound avyayībhāva"
+    }
+   ],
+   "question": "How much bathing water is required when worship is performed for oneself?",
+   "premises": [
+    "The measure concerns bathing water.",
+    "The context is worship for one’s own purpose.",
+    "Discretion according to desire is permitted."
+   ],
+   "inference": "For personal worship, the amount of bathing water may be chosen according to one’s desire.",
+   "uncertainties": [],
+   "plain_english": "For one’s own worship, the measure of bathing water may indeed be according to one’s desire."
+  },
+  {
+   "verse": 1064,
+   "rows": [
+    {
+     "surface": "snapanārthāya",
+     "gloss": "for-purpose-bathing",
+     "grounds": "dative of purpose; compound of snapana and artha",
+     "morph": "m.dat.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "kathitapramāṇena",
+     "gloss": "with-stated-measure",
+     "grounds": "instrumental indicating the prescribed quantity",
+     "morph": "n.inst.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "optative prescribing preparation",
+     "morph": "3.sg.opt.act √kḷp with pra"
+    }
+   ],
+   "question": "According to what measure should materials be prepared for the bathing rite?",
+   "premises": [
+    "Preparation is for the bathing rite.",
+    "A measure has already been stated.",
+    "Preparation must follow that stated measure."
+   ],
+   "inference": "For the bathing rite, one should prepare materials according to the stated measure.",
+   "uncertainties": [],
+   "plain_english": "For the bathing rite, one should prepare according to the stated measure."
+  },
+  {
+   "verse": 1065,
+   "rows": [
+    {
+     "surface": "devālaṅkārayogyena",
+     "gloss": "fit-for-deity-adornment",
+     "grounds": "instrumental adjective describing the measure; compound of deva, alaṅkāra, yogya",
+     "morph": "n.inst.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "pramāṇena",
+     "gloss": "with-measure",
+     "grounds": "instrumental noun indicating size or quantity",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "accusative participle describing the prepared item",
+     "morph": "n.acc.sg, past participle √anv with sam"
+    }
+   ],
+   "question": "What standard should govern the measure of items used for adorning the deity?",
+   "premises": [
+    "A measure is required.",
+    "The measure must be fit for adorning the deity.",
+    "The prepared item must conform to that measure."
+   ],
+   "inference": "Items should be prepared in a measure suitable for the adornment of the deity.",
+   "uncertainties": [
+    "The specific item referred to is carried over from context."
+   ],
+   "plain_english": "It should be endowed with a measure suitable for adorning the deity."
+  },
+  {
+   "verse": 1066,
+   "rows": [
+    {
+     "surface": "kārpāsatantujaṃ",
+     "gloss": "born-from-cotton-thread",
+     "grounds": "accusative adjective describing cloth; compound of kārpāsa, tantu, ja",
+     "morph": "n.acc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "vastram",
+     "gloss": "cloth",
+     "grounds": "accusative noun being classified",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhamaṃ",
+     "gloss": "lowest",
+     "grounds": "accusative predicate indicating inferior grade",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle indicating traditional classification",
+     "morph": "n.nom.sg, past participle √kīrt with pari"
+    }
+   ],
+   "question": "How is cloth made from cotton thread classified in this ritual grading?",
+   "premises": [
+    "The cloth in question is made from cotton thread.",
+    "A ritual grade is assigned to it.",
+    "It is declared to be the lowest grade."
+   ],
+   "inference": "Cloth made from cotton thread is classified as the lowest grade.",
+   "uncertainties": [],
+   "plain_english": "Cloth made from cotton thread is declared to be of the lowest grade."
+  },
+  {
+   "verse": 1067,
+   "rows": [
+    {
+     "surface": "manoramaṃ",
+     "gloss": "pleasing",
+     "grounds": "accusative adjective describing superior cloth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast with previous grade",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suślakṣṇaṃ",
+     "gloss": "very-smooth",
+     "grounds": "accusative adjective describing texture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśiṣṭaṃ",
+     "gloss": "excellent",
+     "grounds": "accusative adjective indicating superior quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vastram",
+     "gloss": "cloth",
+     "grounds": "accusative noun being classified",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present indicating designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What qualities distinguish cloth of the superior grade in this classification?",
+   "premises": [
+    "A superior cloth is contrasted with the lower grade.",
+    "It is pleasing and very smooth.",
+    "Such cloth is called excellent."
+   ],
+   "inference": "Pleasing, very smooth cloth is designated as the excellent grade.",
+   "uncertainties": [],
+   "plain_english": "But cloth that is pleasing, very smooth, and excellent is so called."
+  },
+  {
+   "verse": 1068,
+   "rows": [
+    {
+     "surface": "ākhudaṣṭāgnidagdhaṃ",
+     "gloss": "mouse-bitten-fire-burnt",
+     "grounds": "accusative object; compound of defects ākhudaṣṭa and agnidagdha",
+     "morph": "n.acc.sg, compound dvandva"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking defective types",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "keśaviddhaṃ",
+     "gloss": "pierced-by-hair",
+     "grounds": "accusative object; compound indicating hair damage",
+     "morph": "n.acc.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking defective types",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "optative prescribing exclusion",
+     "morph": "3.sg.opt.act √vṛj"
+    }
+   ],
+   "question": "Which defective types of cloth must be excluded from ritual use?",
+   "premises": [
+    "Cloth bitten by mice or burnt by fire is defective.",
+    "Cloth pierced by hair is defective.",
+    "Such defective cloth must be avoided."
+   ],
+   "inference": "Cloth damaged by mice, fire, or hair should be excluded from use.",
+   "uncertainties": [],
+   "plain_english": "One should avoid cloth that is bitten by mice, burnt by fire, or pierced by hair."
+  },
+  {
+   "verse": 1069,
+   "rows": [
+    {
+     "surface": "kuṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "nominative/accusative item in a list of substances",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandal",
+     "grounds": "item in a list of substances",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dūrvā",
+     "gloss": "dūrvā-grass",
+     "grounds": "item in a list of substances",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sidhārthośīrakaṃ",
+     "gloss": "mustard-and-uśīra",
+     "grounds": "compound listing mustard and uśīra as substances",
+     "morph": "n.nom.sg, compound dvandva"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances are enumerated as components for the ritual preparation?",
+   "premises": [
+    "Saffron and sandal are listed.",
+    "Dūrvā grass is listed.",
+    "Mustard and uśīra are listed likewise."
+   ],
+   "inference": "The preparation includes saffron, sandal, dūrvā, mustard, and uśīra.",
+   "uncertainties": [
+    "The exact ritual use of this set is clarified by surrounding verses."
+   ],
+   "plain_english": "Saffron, sandal, dūrvā grass, and likewise mustard and uśīra."
+  },
+  {
+   "verse": 1070,
+   "rows": [
+    {
+     "surface": "siddhārthośīrakaṃ",
+     "gloss": "mustard-and-uśīra",
+     "grounds": "compound naming substances",
+     "morph": "n.nom.sg, compound dvandva"
+    },
+    {
+     "surface": "dūrvāyuktaṃ",
+     "gloss": "joined-with-dūrvā",
+     "grounds": "compound indicating combination with dūrvā",
+     "morph": "n.nom.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle-grade",
+     "grounds": "predicate indicating intermediate classification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present indicating designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What combination of substances is designated as the middle grade?",
+   "premises": [
+    "Mustard and uśīra are specified.",
+    "They are combined with dūrvā.",
+    "This combination is called the middle grade."
+   ],
+   "inference": "Mustard and uśīra joined with dūrvā constitute the middle grade.",
+   "uncertainties": [],
+   "plain_english": "Mustard and uśīra combined with dūrvā is called the middle grade."
+  },
+  {
+   "verse": 1071,
+   "rows": [
+    {
+     "surface": "elālavaṅgakarpūravarālaphalasaṃyutam",
+     "gloss": "joined-with-cardamom-clove-camphor-varāla-fruit",
+     "grounds": "single compound listing ingredients combined together",
+     "morph": "n.nom.sg, compound tatpuruṣa"
+    }
+   ],
+   "question": "What additional ingredients characterize the mixture described in this formulation?",
+   "premises": [
+    "Cardamom is included.",
+    "Clove, camphor, and varāla fruit are included.",
+    "These ingredients are combined together."
+   ],
+   "inference": "The formulation is characterized by being combined with cardamom, clove, camphor, and varāla fruit.",
+   "uncertainties": [
+    "The identity of varāla fruit is not fully certain from this verse alone."
+   ],
+   "plain_english": "It is combined with cardamom, clove, camphor, and varāla fruit."
+  },
+  {
+   "verse": 1072,
+   "rows": [
+    {
+     "surface": "palatrayaṃ",
+     "gloss": "three-palas",
+     "grounds": "accusative measure of quantity",
+     "morph": "n.nom.sg, compound tatpuruṣa"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karpūraṃ",
+     "gloss": "camphor",
+     "grounds": "substance specified by measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "truṭī",
+     "gloss": "cardamom",
+     "grounds": "listed substance; term for small cardamom",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "patraṃ",
+     "gloss": "leaf",
+     "grounds": "listed substance, likely aromatic leaf",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative addressing the recipients of instruction",
+     "morph": "m.voc.pl, compound tatpuruṣa"
+    }
+   ],
+   "question": "What measured ingredients are specified for the preparation addressed to the twice-born?",
+   "premises": [
+    "Three palas of camphor are specified.",
+    "Cardamom and leaf are included.",
+    "The instruction is addressed to the best twice-born."
+   ],
+   "inference": "The preparation includes three palas of camphor along with cardamom and leaf, as taught to the twice-born.",
+   "uncertainties": [
+    "The specific leaf intended by patraṃ is not explicitly identified."
+   ],
+   "plain_english": "O best of the twice-born, there are three palas of camphor, cardamom, and leaf."
+  },
+  {
+   "verse": 1073,
+   "rows": [
+    {
+     "surface": "āpaḥ",
+     "gloss": "waters",
+     "grounds": "nominative plural substance",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kṣīrakuśāgrāṇi",
+     "gloss": "milk-kuśa-tips",
+     "grounds": "compound listing milk and tips of kuśa grass",
+     "morph": "n.nom.pl, compound dvandva"
+    },
+    {
+     "surface": "yavasiddhārthataṇḍulaiḥ",
+     "gloss": "with-barley-mustard-rice",
+     "grounds": "instrumental plural compound listing barley, mustard, and rice",
+     "morph": "m.inst.pl, compound dvandva"
+    }
+   ],
+   "question": "What combination of liquids and grains is prescribed in this ritual mixture?",
+   "premises": [
+    "Waters are included.",
+    "Milk and kuśa tips are included.",
+    "Barley, mustard, and rice are included."
+   ],
+   "inference": "The mixture consists of waters, milk, kuśa tips, barley, mustard, and rice.",
+   "uncertainties": [
+    "The grammatical coordination between nominative and instrumental items is compressed in this verse."
+   ],
+   "plain_english": "Waters, milk, and kuśa tips, together with barley, mustard, and rice."
+  },
+  {
+   "verse": 1074,
+   "rows": [
+    {
+     "surface": "āpaḥ",
+     "gloss": "waters",
+     "grounds": "nominative plural substance",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kṣīrakuśāgrāṇi",
+     "gloss": "milk-kuśa-tips",
+     "grounds": "compound listing milk and tips of kuśa grass",
+     "morph": "n.nom.pl, compound dvandva"
+    },
+    {
+     "surface": "taṇḍulāḥ",
+     "gloss": "rice-grains",
+     "grounds": "nominative plural substance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sumanastilāḥ",
+     "gloss": "flowers-sesame",
+     "grounds": "compound listing flowers and sesame",
+     "morph": "m.nom.pl, compound dvandva"
+    }
+   ],
+   "question": "What alternative set of ingredients is listed for this ritual mixture?",
+   "premises": [
+    "Waters are included.",
+    "Milk and kuśa tips are included.",
+    "Rice grains, flowers, and sesame are included."
+   ],
+   "inference": "This mixture consists of waters, milk, kuśa tips, rice grains, flowers, and sesame.",
+   "uncertainties": [],
+   "plain_english": "Waters, milk, and kuśa tips, rice grains, flowers, and sesame."
+  }
+ ]
+}

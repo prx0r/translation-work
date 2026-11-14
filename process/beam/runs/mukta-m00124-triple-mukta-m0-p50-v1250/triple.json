@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vedic",
+     "grounds": "qualifies the fire-rite as belonging to the Vedic mode",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "miśrakaṃ",
+     "gloss": "mixed",
+     "grounds": "qualifies the fire-rite as combining modes",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "śaivam",
+     "gloss": "shaiva",
+     "grounds": "qualifies the fire-rite as belonging to the Śaiva mode",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "agnikāryaṃ",
+     "gloss": "fire-rite",
+     "grounds": "compound denoting ritual action performed in fire",
+     "morph": "agni-kāryam (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "indicates division into three kinds",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "declares traditional classification",
+     "morph": "ppp.nom.sg.n (√smṛ)"
+    }
+   ],
+   "question": "Into what three traditional types is the fire-rite classified?",
+   "premises": [
+    "The fire-rite is the subject being classified.",
+    "One type of fire-rite is vedic.",
+    "One type of fire-rite is mixed.",
+    "One type of fire-rite is shaiva."
+   ],
+   "inference": "Therefore, the fire-rite is traditionally remembered as threefold: vedic, mixed, and shaiva.",
+   "uncertainties": [],
+   "plain_english": "The fire-rite is traditionally remembered as threefold: vedic, mixed, and shaiva."
+  }
+ ]
+}

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p43",
  "verse": 1068,
- "question": "What ritual or doctrinal point is established here?",
+ "question": "Which defective types of cloth must be excluded from ritual use?",
  "premises": [
-  "token sequence is preserved",
-  "meaning remains uncertain",
-  "context is tantric ritual"
+  "Cloth bitten by mice or burnt by fire is defective.",
+  "Cloth pierced by hair is defective.",
+  "Such defective cloth must be avoided."
  ],
- "inference": "the line is treated as a ritual instruction unit",
- "uncertainties": [
-  "uncertain lexical parse"
- ],
- "plain_english": "The line preserves a ritual instruction whose exact sense is unclear."
+ "inference": "Cloth damaged by mice, fire, or hair should be excluded from use.",
+ "uncertainties": [],
+ "plain_english": "One should avoid cloth that is bitten by mice, burnt by fire, or pierced by hair."
 }

@@ -1,14 +1,14 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1235,
- "question": "What is the meaning of the warning about improper performance?",
+ "question": "What measurements distinguish the next and third girdles in the stated sequence?",
  "premises": [
-  "not only fruitlessness",
-  "but self-destruction too"
+  "Another element should measure four fingers.",
+  "The third should measure three fingers."
  ],
- "inference": "the meaning is total loss and self-harm",
+ "inference": "The sequence assigns four fingers to one girdle and three fingers to the third.",
  "uncertainties": [
-  "exact ritual context"
+  "The referent of 'another' versus 'third' depends on the preceding series."
  ],
- "plain_english": "The meaning is: not only fruitlessness, but self-destruction too."
+ "plain_english": "Another should be four fingers, and the third should be three fingers."
 }

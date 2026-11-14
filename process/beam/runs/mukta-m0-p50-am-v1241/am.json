@@ -1,14 +1,12 @@
 {
  "song": "mukta-m0-p50",
  "verse": 1241,
- "question": "What should be written and where for the enemy?",
+ "question": "What condition is stated for a girdle measuring six fingers in breadth and height?",
  "premises": [
-  "one writes the own name",
-  "it is in the east-north of the enemy"
+  "A single girdle may be six fingers broad and high.",
+  "This is presented as a conditional case."
  ],
- "inference": "the name is written in that direction",
- "uncertainties": [
-  "exact diagram"
- ],
- "plain_english": "Having written the own name, then in the east-north of the enemy."
+ "inference": "If one girdle is made, it may measure six fingers in both breadth and height.",
+ "uncertainties": [],
+ "plain_english": "If one girdle is made, it should be six fingers broad and high."
 }
