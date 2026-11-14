@@ -14,6 +14,9 @@
 set -u
 cd /root/translation-work || exit 1
 export OPENCODE_GO_KEY="$(agent-vault vault credential get OPENCODE_GO_KEY --vault oracle)"
+# Second Go account: beam_client rotates sessions across both keys and fails
+# over on 429 before parking a model. Durable in the vault (fallback .env).
+export OPENCODE_GO_KEY_BAK="$(agent-vault vault credential get OPENCODE_GO_KEY_BAK --vault oracle 2>/dev/null || true)"
 LOGDIR=process/beam
 HWORKERS="${HARNESS_WORKERS:-w1 w2}"   # default set; w3 added only if healthy
 SLEEP_SECS=${HARNESS_SLEEP:-300}
@@ -94,6 +97,7 @@ while true; do
   # but keep the canonical export fresh regardless).
   if [ -z "${OPENCODE_GO_KEY:-}" ]; then
     export OPENCODE_GO_KEY="$(agent-vault vault credential get OPENCODE_GO_KEY --vault oracle 2>/dev/null || true)"
+    export OPENCODE_GO_KEY_BAK="$(agent-vault vault credential get OPENCODE_GO_KEY_BAK --vault oracle 2>/dev/null || true)"
     [ -n "${OPENCODE_GO_KEY:-}" ] && log "key re-asserted" || log "key MISSING — beam calls will fail"
   fi
   if health_ok; then

@@ -3,29 +3,39 @@
  "verse": 4,
  "rows": [
   {
-   "lemma": "jñānahāniṃ",
-   "morph": "f.acc.sg (jñāna+hāni)",
-   "grounds": "object of inquiry; compound jñāna+hāni"
+   "lemma": "mantra",
+   "morph": "m.nom.sg",
+   "grounds": "first item in a list of practices"
   },
   {
-   "lemma": "kriyāhāniṃ",
-   "morph": "f.acc.sg (kriyā+hāni)",
-   "grounds": "object of inquiry; compound kriyā+hāni"
+   "lemma": "pūjā",
+   "morph": "f.nom.sg",
+   "grounds": "ritual practice"
   },
   {
-   "lemma": "kīlakaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "object of inquiry"
+   "lemma": "tapo",
+   "morph": "n.nom.sg",
+   "grounds": "ascetic practice"
   },
   {
-   "lemma": "ca",
+   "lemma": "dhyānaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "contemplative practice"
+  },
+  {
+   "lemma": "karmākarma",
+   "morph": "action+non-action n.nom.sg",
+   "grounds": "compound pairing opposed modes"
+  },
+  {
+   "lemma": "tathaiva",
    "morph": "(indecl.)",
    "grounds": "connective particle"
   },
   {
-   "lemma": "tathāparam",
-   "morph": "n.acc.sg (tathā+apara)",
-   "grounds": "additional matter; compound tathā+apara"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
   }
  ]
 }

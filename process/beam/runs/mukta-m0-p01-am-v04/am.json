@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 4,
- "question": "What impairments and obstructions does Gaurī want Śaṅkara to address?",
+ "question": "Which ritual and contemplative practices are enumerated alongside action and non-action?",
  "premises": [
-  "Loss of knowledge is named",
-  "Loss of action is named",
-  "Obstruction and other matters are included"
+  "Mantra, worship, austerity, and meditation are listed.",
+  "Action and non-action are included.",
+  "The list is connected by additive particles."
  ],
- "inference": "Gaurī seeks knowledge about losses, obstructions, and related issues.",
- "uncertainties": [],
- "plain_english": "Tell me of the loss of knowledge, the loss of action, obstruction, and likewise other matters."
+ "inference": "A range of ritual, ascetic, contemplative, and actional modes is being enumerated.",
+ "uncertainties": [
+  "The syntactic role of the list in the larger argument is not explicit in this verse alone."
+ ],
+ "plain_english": "Mantra, worship, austerity, meditation, and likewise action and non-action."
 }

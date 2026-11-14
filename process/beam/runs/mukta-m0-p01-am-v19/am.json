@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 19,
- "question": "What limitation is asserted for someone who lacks knowledge of Uḍḍīśa?",
+ "question": "How are the five elements and their twenty-five qualities to be understood?",
  "premises": [
-  "A person may not know Uḍḍīśa",
-  "Such a person may be angry",
-  "Anger without this knowledge is ineffective"
+  "The five elements are asked about.",
+  "The qualities are asked about.",
+  "The number twenty-five is mentioned."
  ],
- "inference": "One who does not know Uḍḍīśa can accomplish nothing even in anger.",
- "uncertainties": [],
- "plain_english": "He who does not know Uḍḍīśa—what can he do, even if angry?"
+ "inference": "The goddess asks how the five elements relate to twenty-five qualities.",
+ "uncertainties": [
+  "The syntactic relation between 'qualities' and 'twenty-five' is compressed in this verse."
+ ],
+ "plain_english": "O god, how are the five elements, and which are the twenty-five qualities?"
 }

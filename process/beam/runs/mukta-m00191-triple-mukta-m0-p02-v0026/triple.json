@@ -1,0 +1,1283 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "ravir",
+     "gloss": "sun",
+     "grounds": "subject of dissolution",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vilīyate",
+     "gloss": "dissolves",
+     "grounds": "merges into wind",
+     "morph": "3.sg.pass-pres √lī"
+    },
+    {
+     "surface": "vāyau",
+     "gloss": "in-wind",
+     "grounds": "locus of dissolution",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāyur",
+     "gloss": "wind",
+     "grounds": "subject of further dissolution",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vilīyate",
+     "gloss": "dissolves",
+     "grounds": "merges into space",
+     "morph": "3.sg.pass-pres √lī"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khe",
+     "gloss": "in-space",
+     "grounds": "locus of dissolution",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into what successive elements do sun and wind dissolve?",
+   "premises": [
+    "The sun dissolves into wind.",
+    "The wind dissolves into space."
+   ],
+   "inference": "Gross elements resolve progressively into subtler elements.",
+   "uncertainties": [],
+   "plain_english": "The sun dissolves into the wind, and the wind indeed dissolves into space."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "pañcatattvāt",
+     "gloss": "from-five-elements",
+     "grounds": "source beyond which higher principle lies; compound",
+     "morph": "n.abl.sg (pañca+tattva)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "beyond",
+     "grounds": "higher than the five",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "transcendent reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvātītaṃ",
+     "gloss": "beyond-principle",
+     "grounds": "surpassing all principles; compound",
+     "morph": "n.nom.sg (tattva+atīta)"
+    },
+    {
+     "surface": "nirañjanam",
+     "gloss": "stainless",
+     "grounds": "untainted absolute",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What reality transcends the five elements as stainless principle?",
+   "premises": [
+    "There is a principle beyond the five elements.",
+    "That principle is beyond all principles.",
+    "That principle is stainless."
+   ],
+   "inference": "A stainless reality transcends the five-element domain.",
+   "uncertainties": [],
+   "plain_english": "Beyond the five elements there is a higher principle, beyond all principles and stainless."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "pañcendriyam",
+     "gloss": "five-senses",
+     "grounds": "group of five sense faculties; compound",
+     "morph": "n.nom.sg (pañca+indriya)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "points to present principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "identified with senses",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "inner faculty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sādhakam",
+     "gloss": "accomplishing",
+     "grounds": "instrumental or effective faculty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indriyam",
+     "gloss": "sense",
+     "grounds": "mind counted as a sense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the five senses and mind classified as principles?",
+   "premises": [
+    "The five senses constitute this principle.",
+    "The mind is an accomplishing sense."
+   ],
+   "inference": "Mind functions alongside the senses as an operative principle.",
+   "uncertainties": [
+    "sādhakam may mean instrumental or accomplishing; sense depends on context"
+   ],
+   "plain_english": "This principle is the five senses, and the mind is the accomplishing sense."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "sākārāś",
+     "gloss": "with-form",
+     "grounds": "formed entities; nominative plural with sandhi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyanti",
+     "gloss": "perish",
+     "grounds": "destruction of formed things",
+     "morph": "3.pl.act-pres √naś"
+    },
+    {
+     "surface": "nirākāro",
+     "gloss": "formless",
+     "grounds": "formless reality; nominative with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "formless does not perish",
+     "morph": "3.sg.act-pres √naś"
+    }
+   ],
+   "question": "Why does the formless endure while formed things perish?",
+   "premises": [
+    "Things with form perish.",
+    "The formless does not perish."
+   ],
+   "inference": "Imperishability belongs to the formless rather than the formed.",
+   "uncertainties": [],
+   "plain_english": "Things with form perish, but the formless does not perish."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "total exertion; compound",
+     "morph": "m.inst.sg (sarva+prayatna)"
+    },
+    {
+     "surface": "sākāraṃ",
+     "gloss": "with-form",
+     "grounds": "object to be abandoned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "injunction to renounce form",
+     "morph": "3.sg.act-opt √tyaj"
+    }
+   ],
+   "question": "What practical renunciation follows from the perishability of form?",
+   "premises": [
+    "Formed things perish while the formless endures.",
+    "Therefore one should act with full effort."
+   ],
+   "inference": "One should abandon attachment to form.",
+   "uncertainties": [],
+   "plain_english": "Therefore, with all effort, one should indeed abandon what has form."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "first level of selfhood",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarātmā",
+     "gloss": "inner-self",
+     "grounds": "intermediate self; compound",
+     "morph": "m.nom.sg (antar+ātman)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramātmā",
+     "gloss": "supreme-self",
+     "grounds": "highest self; compound",
+     "morph": "m.nom.sg (parama+ātman)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative about mode of being",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "asks about realization or state",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "How are self, inner self, and supreme self to be understood?",
+   "premises": [
+    "Self, inner self, and supreme self are named.",
+    "Their mode of being is questioned."
+   ],
+   "inference": "The verse raises the problem of distinguishing or realizing these three selves.",
+   "uncertainties": [
+    "bhavet may indicate possibility or injunction depending on context"
+   ],
+   "plain_english": "How can there be the self, the inner self, and the supreme self?"
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "asserts presence",
+     "morph": "3.sg.act-pres √as"
+    },
+    {
+     "surface": "tvak",
+     "gloss": "skin",
+     "grounds": "bodily layer or covering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "number of bodily constituents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ite",
+     "gloss": "these",
+     "grounds": "refers to enumerated items; form uncertain",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śarīreṣu",
+     "gloss": "in-bodies",
+     "grounds": "locus of arrangement",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "situated",
+     "grounds": "arranged or established",
+     "morph": "m.nom.pl (past participle √sthā)"
+    }
+   ],
+   "question": "How are the seven bodily constituents arranged within bodies?",
+   "premises": [
+    "Skin and seven items are said to exist.",
+    "They are situated in bodies."
+   ],
+   "inference": "The body is described as having seven established constituents.",
+   "uncertainties": [
+    "ite is obscure in this context and may be corrupt or idiomatic"
+   ],
+   "plain_english": "Skin indeed exists, and these seven are situated in the bodies."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "paramātmā",
+     "gloss": "supreme-self",
+     "grounds": "highest self; compound",
+     "morph": "m.nom.sg (parama+ātman)"
+    },
+    {
+     "surface": "bhavec",
+     "gloss": "becomes",
+     "grounds": "conditional or potential becoming; sandhi form",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "chūnyaṃ",
+     "gloss": "void",
+     "grounds": "state of emptiness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "subject that dissolves; sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "locative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilīyate",
+     "gloss": "dissolves",
+     "grounds": "mind merges away",
+     "morph": "3.sg.pass-pres √lī"
+    }
+   ],
+   "question": "Under what condition does the supreme self manifest as void?",
+   "premises": [
+    "The mind dissolves in some state.",
+    "Where the mind dissolves, voidness arises."
+   ],
+   "inference": "The supreme self is realized as void when the mind dissolves.",
+   "uncertainties": [
+    "chūnyaṃ may qualify the state or the supreme self"
+   ],
+   "plain_english": "Where the mind dissolves, the supreme self becomes void."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "śūnyadhātur",
+     "gloss": "void-element",
+     "grounds": "element characterized by emptiness; compound",
+     "morph": "m.nom.sg (śūnya+dhātu)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "transformation into void element",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "prāṇo",
+     "gloss": "breath",
+     "grounds": "vital breath; nominative with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "garbhapiṇḍaṃ",
+     "gloss": "embryo-mass",
+     "grounds": "bodily mass in womb; compound",
+     "morph": "m.nom.sg (garbha+piṇḍa)"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "comes into being",
+     "morph": "3.sg.pass-pres √jan"
+    }
+   ],
+   "question": "How do breath and embryonic mass arise in relation to void?",
+   "premises": [
+    "Breath becomes the void element.",
+    "The embryonic mass is born."
+   ],
+   "inference": "Vital and bodily formation is linked to the void element.",
+   "uncertainties": [
+    "syntactic relation between clauses is compressed and ambiguous"
+   ],
+   "plain_english": "The breath becomes the void element, and the embryonic mass is born."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "vākyasya",
+     "gloss": "of-speech",
+     "grounds": "object whose determination is sought",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirṇayaṃ",
+     "gloss": "determination",
+     "grounds": "decisive explanation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "speak",
+     "grounds": "command to explain",
+     "morph": "2.sg.act-imper √brū"
+    },
+    {
+     "surface": "paśya",
+     "gloss": "see",
+     "grounds": "command to perceive",
+     "morph": "2.sg.act-imper √dṛś"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "object to be declared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāhara",
+     "gloss": "declare",
+     "grounds": "command to articulate knowledge",
+     "morph": "2.sg.act-imper √hṛ"
+    }
+   ],
+   "question": "What determination and knowledge about speech is being requested?",
+   "premises": [
+    "A determination of speech is requested.",
+    "Knowledge is asked to be seen and declared."
+   ],
+   "inference": "The verse seeks authoritative clarification of speech and knowledge.",
+   "uncertainties": [],
+   "plain_english": "Speak the determination of the statement, see, and declare the knowledge."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "manasot",
+     "gloss": "from-mind",
+     "grounds": "source of arising; fused sandhi form",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "padyate",
+     "gloss": "arises",
+     "grounds": "speech comes forth",
+     "morph": "3.sg.pass-pres √pad"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "speech",
+     "grounds": "agent or instrument in first clause",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "subject that dissolves; sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "in-speech",
+     "grounds": "locus of dissolution",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vilīyate",
+     "gloss": "dissolves",
+     "grounds": "mind merges into speech",
+     "morph": "3.sg.pass-pres √lī"
+    }
+   ],
+   "question": "How do mind and speech mutually arise and dissolve?",
+   "premises": [
+    "Speech arises from the mind.",
+    "Mind dissolves in speech."
+   ],
+   "inference": "Mind and speech are presented in a reciprocal relation.",
+   "uncertainties": [
+    "case function of vācā differs by clause and is contextually compressed"
+   ],
+   "plain_english": "Speech arises from the mind, and the mind dissolves in speech."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "kasmin",
+     "gloss": "in-which",
+     "grounds": "interrogative locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "location of wind",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vased",
+     "gloss": "dwells",
+     "grounds": "residence of wind",
+     "morph": "3.sg.act-opt √vas"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "wind",
+     "grounds": "vital breath or air",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kasmin",
+     "gloss": "in-which",
+     "grounds": "interrogative locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "location of mind",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vasen",
+     "gloss": "dwells",
+     "grounds": "residence of mind",
+     "morph": "3.sg.act-opt √vas"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "inner faculty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In what places do wind and mind respectively dwell?",
+   "premises": [
+    "The dwelling place of wind is asked.",
+    "The dwelling place of mind is asked."
+   ],
+   "inference": "The verse seeks the loci of vital breath and mind.",
+   "uncertainties": [],
+   "plain_english": "In what place does the wind dwell, and in what place does the mind dwell?"
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "sūryāgre",
+     "gloss": "at-sun-tip",
+     "grounds": "subtle locus associated with sun; compound",
+     "morph": "n.loc.sg (sūrya+agra)"
+    },
+    {
+     "surface": "vasate",
+     "gloss": "dwells",
+     "grounds": "residence of wind",
+     "morph": "3.sg.act-pres √vas"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "wind",
+     "grounds": "vital breath or air",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candrāgre",
+     "gloss": "at-moon-tip",
+     "grounds": "subtle locus associated with moon; compound",
+     "morph": "n.loc.sg (candra+agra)"
+    },
+    {
+     "surface": "vasate",
+     "gloss": "dwells",
+     "grounds": "residence of mind",
+     "morph": "3.sg.act-pres √vas"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "inner faculty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the specific dwelling places of wind and mind?",
+   "premises": [
+    "Wind dwells at the tip of the sun.",
+    "Mind dwells at the tip of the moon."
+   ],
+   "inference": "Wind and mind are assigned distinct subtle loci.",
+   "uncertainties": [
+    "sūryāgre and candrāgre may refer to yogic or symbolic points"
+   ],
+   "plain_english": "The wind dwells at the tip of the sun, and the mind dwells at the tip of the moon."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "refers to stated union or teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "joined",
+     "grounds": "union or proper conjunction",
+     "morph": "n.nom.sg (past participle √yuj)"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative address; compound",
+     "morph": "f.voc.sg (mahā+devī)"
+    },
+    {
+     "surface": "guruvākyena",
+     "gloss": "by-guru-word",
+     "grounds": "means of obtaining; compound",
+     "morph": "n.inst.sg (guru+vākya)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "attained through teaching",
+     "morph": "3.sg.pass-pres √labh"
+    }
+   ],
+   "question": "How is this yogic union obtained according to the teaching?",
+   "premises": [
+    "This union is addressed to the great goddess.",
+    "It is obtained through the guru's word."
+   ],
+   "inference": "Access to this union depends on the guru's instruction.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, this union is obtained through the word of the guru."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "kasmin",
+     "gloss": "in-which",
+     "grounds": "interrogative locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "location of time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "dwells",
+     "grounds": "residence of time",
+     "morph": "3.sg.act-opt √vas"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "subject of dwelling; nominative with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jarā",
+     "gloss": "old-age",
+     "grounds": "subject of arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-what",
+     "grounds": "interrogative cause or means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "arising of old age",
+     "morph": "3.sg.pass-pres √jan"
+    }
+   ],
+   "question": "Where does time dwell and by what cause does old age arise?",
+   "premises": [
+    "The dwelling place of time is asked.",
+    "The cause of old age is asked."
+   ],
+   "inference": "The verse seeks the locus of time and origin of aging.",
+   "uncertainties": [],
+   "plain_english": "In what place does time dwell, and by what is old age born?"
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "antarikṣe",
+     "gloss": "in-sky",
+     "grounds": "locus of time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "dwells",
+     "grounds": "residence of time",
+     "morph": "3.sg.act-opt √vas"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "subject of dwelling; nominative with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jarā",
+     "gloss": "old-age",
+     "grounds": "subject of arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "cause or means of aging",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "arising of old age",
+     "morph": "3.sg.pass-pres √jan"
+    }
+   ],
+   "question": "What locus of time and cause of aging are asserted here?",
+   "premises": [
+    "Time dwells in the sky.",
+    "Old age is born by that."
+   ],
+   "inference": "Time's locus in the sky is linked to the arising of old age.",
+   "uncertainties": [
+    "tena may refer to time or to the sky; reference is compressed"
+   ],
+   "plain_english": "Time dwells in the sky, and by that old age is born."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "jāgrat",
+     "gloss": "waking",
+     "grounds": "first state of consciousness",
+     "morph": "n.nom.sg (present participle √jāgṛ)"
+    },
+    {
+     "surface": "svapna",
+     "gloss": "dream",
+     "grounds": "second state of consciousness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suṣuptau",
+     "gloss": "deep-sleep",
+     "grounds": "third state of consciousness",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "points to the awakener",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratibudhyati",
+     "gloss": "awakens",
+     "grounds": "becomes aware across states",
+     "morph": "3.sg.act-pres √budh"
+    }
+   ],
+   "question": "Who is the one that awakens through waking, dream, and deep sleep?",
+   "premises": [
+    "Waking, dream, and deep sleep are named.",
+    "An awakener across these states is questioned."
+   ],
+   "inference": "The verse seeks the subject aware through all three states.",
+   "uncertainties": [
+    "suṣuptau is locative while others are nominative; construction is compressed"
+   ],
+   "plain_english": "Who is that one who awakens in waking, dream, and deep sleep?"
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "jāgratsvapnasuṣuptau",
+     "gloss": "waking-dream-deep-sleep",
+     "grounds": "three states taken together; compound",
+     "morph": "f.loc.sg (jāgrat+svapna+suṣupti)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyuś",
+     "gloss": "wind",
+     "grounds": "vital breath as awakener; nominative with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibudhyati",
+     "gloss": "awakens",
+     "grounds": "becomes aware across states",
+     "morph": "3.sg.act-pres √budh"
+    }
+   ],
+   "question": "What principle awakens across waking, dream, and deep sleep?",
+   "premises": [
+    "The three states are considered together.",
+    "Wind is said to awaken."
+   ],
+   "inference": "Vital breath is identified as the awakener across states.",
+   "uncertainties": [
+    "vāyu may mean breath or subtle vital force"
+   ],
+   "plain_english": "In waking, dream, and deep sleep, it is the wind that awakens."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "performs actions",
+     "morph": "3.sg.act-pres √kṛ"
+    },
+    {
+     "surface": "pāpāni",
+     "gloss": "sins",
+     "grounds": "wrongful acts",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpaiḥ",
+     "gloss": "by-sins",
+     "grounds": "bondage to be released",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "is-freed",
+     "grounds": "liberation from sins",
+     "morph": "3.sg.pass-pres √muc"
+    }
+   ],
+   "question": "Who commits sins and who is freed from those sins?",
+   "premises": [
+    "The doer of sins is questioned.",
+    "The one freed from sins is questioned."
+   ],
+   "inference": "The verse seeks the true agent of sin and liberation.",
+   "uncertainties": [],
+   "plain_english": "Who commits sins, and who is freed from sins?"
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "manaś",
+     "gloss": "mind",
+     "grounds": "subject of identification; nominative with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmanā",
+     "gloss": "that-minded",
+     "grounds": "absorbed in that; compound",
+     "morph": "m.nom.sg (tad+manas)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior condition of absorption",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyair",
+     "gloss": "by-merits",
+     "grounds": "not bound by merits",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakaiḥ",
+     "gloss": "by-sins",
+     "grounds": "not bound by sins",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Why is the absorbed mind untouched by merit and sin?",
+   "premises": [
+    "The mind becomes absorbed in that.",
+    "It is not affected by merits.",
+    "It is not affected by sins."
+   ],
+   "inference": "Absorbed mind transcends bondage to merit and sin.",
+   "uncertainties": [
+    "tanmanā implies absorption in a referent not explicitly named here"
+   ],
+   "plain_english": "Having become absorbed in that, the mind is bound neither by merits nor by sins."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "kāryasya",
+     "gloss": "of-effect",
+     "grounds": "object whose cause is sought",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "explanatory principle requested",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "speak",
+     "grounds": "command to explain",
+     "morph": "2.sg.act-imper √brū"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "asks about manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñca",
+     "gloss": "something",
+     "grounds": "indefinite object or further point; compound particle",
+     "morph": "(indecl.) (kim+ca)"
+    },
+    {
+     "surface": "prasādanam",
+     "gloss": "grace",
+     "grounds": "clarification or favor sought",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the cause of the effect and how does grace arise?",
+   "premises": [
+    "The cause of the effect is requested.",
+    "The manner of grace is requested."
+   ],
+   "inference": "The verse seeks explanation of causation and grace.",
+   "uncertainties": [
+    "prasādanam may mean clarification, appeasement, or grace"
+   ],
+   "plain_english": "Speak the cause of the effect, and how is there grace?"
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "kāryaṃ",
+     "gloss": "effect",
+     "grounds": "identified with cause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "identified with effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvañ",
+     "gloss": "you",
+     "grounds": "addressed subject; sandhi form",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "further qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodho",
+     "gloss": "awakening",
+     "grounds": "distinguishing realization; nominative with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-distinguished",
+     "grounds": "stands out as special",
+     "morph": "3.sg.pass-pres √śiṣ"
+    }
+   ],
+   "question": "How are cause and effect related when awakening is distinguished?",
+   "premises": [
+    "Effect is indeed cause.",
+    "You are included in this relation.",
+    "Awakening is distinguished."
+   ],
+   "inference": "Non-dual causation culminates in distinguished awakening.",
+   "uncertainties": [
+    "the role of tvañ in the identity statement is syntactically compressed"
+   ],
+   "plain_english": "The effect is indeed the cause, and you too; again, awakening is distinguished."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "points to a place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "holy-place",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "points to another place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "holy-place",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhramanti",
+     "gloss": "wander",
+     "grounds": "roam in confusion",
+     "morph": "3.pl.act-pres √bhram"
+    },
+    {
+     "surface": "tāmasā",
+     "gloss": "dark-natured",
+     "grounds": "characterized by inertia or ignorance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "wandering persons",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do dark-natured people wander from one holy place to another?",
+   "premises": [
+    "People say this is a holy place and that is a holy place.",
+    "Dark-natured people wander about."
+   ],
+   "inference": "External pilgrimage without insight reflects ignorance.",
+   "uncertainties": [],
+   "plain_english": "Saying 'this is a holy place, that is a holy place,' dark-natured people wander about."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "brahmavidyārato",
+     "gloss": "delighting-in-brahman-knowledge",
+     "grounds": "absorbed in knowledge of brahman; compound",
+     "morph": "m.nom.sg (brahma+vidyā+rata)"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "whoever",
+     "grounds": "relative subject; fused sandhi form",
+     "morph": "m.nom.sg (yaḥ+tu)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vipro",
+     "gloss": "brahmin",
+     "grounds": "knower or priestly figure; nominative with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedapāragaḥ",
+     "gloss": "veda-accomplished",
+     "grounds": "one who has crossed beyond the Vedas; compound",
+     "morph": "m.nom.sg (veda+pāraga)"
+    }
+   ],
+   "question": "Who truly qualifies as accomplished beyond the Vedas?",
+   "premises": [
+    "One delights in the knowledge of brahman.",
+    "Such a person is called a brahmin.",
+    "Such a person has gone beyond the Vedas."
+   ],
+   "inference": "True Vedic accomplishment lies in delight in brahman-knowledge.",
+   "uncertainties": [],
+   "plain_english": "Whoever delights in the knowledge of Brahman, he is the brahmin who has gone beyond the Vedas."
+  }
+ ]
+}
