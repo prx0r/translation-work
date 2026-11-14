@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4231,
- "question": "With what kind of implement are the ritual substances handled?",
+ "question": "What mantra and offerings are prescribed for pacifying the effects of bad dreams?",
  "premises": [
-  "The substances are thrown in.",
-  "A stick is used as the implement.",
-  "The stick comes from a poisonous tree."
+  "The rite may use only one substance or ghee.",
+  "The lion mantra is employed.",
+  "The stated purpose is pacification."
  ],
- "inference": "The substances are handled with a stick from a poisonous tree.",
- "uncertainties": [],
- "plain_english": "Having thrown them in with a stick taken from a poisonous tree."
+ "inference": "Pacification of bad dreams is performed with ghee or a simple offering and the lion mantra.",
+ "uncertainties": [
+  "The exact referent of kevalena is not fully specified in this verse alone."
+ ],
+ "plain_english": "For pacification, one should use only that or ghee together with the lion mantra."
 }

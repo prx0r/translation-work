@@ -1,0 +1,1125 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4226,
+   "rows": [
+    {
+     "surface": "praphullapādapaḥ",
+     "gloss": "fully-blossomed-tree",
+     "grounds": "auspicious dream image",
+     "morph": "m.nom.sg compound praphulla+pādapa+end"
+    },
+    {
+     "surface": "śālī",
+     "gloss": "rice",
+     "grounds": "auspicious dream image",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rocanā",
+     "gloss": "bright-pigment",
+     "grounds": "auspicious dream image",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṃkumaṃ",
+     "gloss": "saffron",
+     "grounds": "auspicious dream image",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "auspicious dream image",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which auspicious objects appearing in dreams are named as favorable signs?",
+   "premises": [
+    "A fully blossomed tree is listed among dream images.",
+    "Rice, bright pigment, saffron, and honey are listed alongside it.",
+    "These items form a set of favorable dream objects."
+   ],
+   "inference": "Seeing such objects in a dream counts as an auspicious sign.",
+   "uncertainties": [
+    "The syntactic connection to the following verse is implicit in this fragment."
+   ],
+   "plain_english": "A fully blossomed tree, rice, bright pigment, saffron, and honey are named as auspicious things seen in dreams."
+  },
+  {
+   "verse": 4227,
+   "rows": [
+    {
+     "surface": "upapanno'pi",
+     "gloss": "attained-even",
+     "grounds": "fused form with internal sandhi",
+     "morph": "m.nom.sg + (indecl.) compound upapanna+api"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāryo",
+     "gloss": "teacher",
+     "grounds": "figure appearing in dream",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "sacred mantra or deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varasaṅgatā",
+     "gloss": "joined-with-excellence",
+     "grounds": "qualified association",
+     "morph": "f.nom.sg compound vara+saṅgata+end"
+    }
+   ],
+   "question": "What additional auspicious figures or presences may appear in favorable dreams?",
+   "premises": [
+    "An attained teacher may appear even in such a context.",
+    "Gāyatrī is named as present.",
+    "Gāyatrī is described as joined with excellence."
+   ],
+   "inference": "The appearance of an attained teacher or excellent Gāyatrī is an auspicious dream sign.",
+   "uncertainties": [
+    "The exact referent of gāyatrī as mantra or goddess is not specified."
+   ],
+   "plain_english": "Then even an attained teacher, or Gāyatrī joined with excellence, may appear as an auspicious sign in a dream."
+  },
+  {
+   "verse": 4228,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal qualifier",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svapnāḥ",
+     "gloss": "dreams",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "predicate quality",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.pl past-passive-participle"
+    },
+    {
+     "surface": "siddhimokṣaphalapradāḥ",
+     "gloss": "giving-fruit-of-accomplishment-and-liberation",
+     "grounds": "result of auspicious dreams",
+     "morph": "m.nom.pl compound siddhi+mokṣa+phala+prada+end"
+    }
+   ],
+   "question": "What fruits are attributed to all dreams declared auspicious in this teaching?",
+   "premises": [
+    "All such dreams are declared auspicious.",
+    "They are said to give fruit.",
+    "The fruit named is accomplishment and liberation."
+   ],
+   "inference": "Auspicious dreams are held to yield both accomplishment and liberation.",
+   "uncertainties": [],
+   "plain_english": "All these dreams are declared auspicious and are said to give the fruits of accomplishment and liberation."
+  },
+  {
+   "verse": 4229,
+   "rows": [
+    {
+     "surface": "garhitāḥ",
+     "gloss": "blameworthy",
+     "grounds": "negative qualification",
+     "morph": "m.nom.pl past-passive-participle"
+    },
+    {
+     "surface": "lokavidviṣṭāḥ",
+     "gloss": "hated-by-the-world",
+     "grounds": "socially condemned",
+     "morph": "m.nom.pl compound loka+vidviṣṭa+end"
+    },
+    {
+     "surface": "svapnāḥ",
+     "gloss": "dreams",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative reference",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśubhāvahāḥ",
+     "gloss": "bringing-inauspiciousness",
+     "grounds": "negative result",
+     "morph": "m.nom.pl compound aśubha+āvaha+end"
+    }
+   ],
+   "question": "What consequence is assigned to dreams that are blameworthy and hated by people?",
+   "premises": [
+    "Certain dreams are described as blameworthy.",
+    "Those same dreams are described as hated by the world.",
+    "They are said to bring inauspiciousness."
+   ],
+   "inference": "Blameworthy and socially condemned dreams are inauspicious in effect.",
+   "uncertainties": [],
+   "plain_english": "Those dreams that are blameworthy and hated by people indeed bring inauspicious results."
+  },
+  {
+   "verse": 4230,
+   "rows": [
+    {
+     "surface": "tailābhyaktaṃ",
+     "gloss": "anointed-with-oil",
+     "grounds": "inauspicious dream image",
+     "morph": "m.acc.sg compound taila+abhyakta+end"
+    },
+    {
+     "surface": "naraṃ",
+     "gloss": "man",
+     "grounds": "figure seen in dream",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nagnaṃ",
+     "gloss": "naked",
+     "grounds": "qualifier of man",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śuṣkavṛkṣaṃ",
+     "gloss": "dry-tree",
+     "grounds": "inauspicious dream image",
+     "morph": "m.acc.sg compound śuṣka+vṛkṣa+end"
+    },
+    {
+     "surface": "sakaṇṭhakam",
+     "gloss": "with-thorns",
+     "grounds": "qualifier of tree",
+     "morph": "m.acc.sg compound sa+kaṇṭhaka+end"
+    }
+   ],
+   "question": "Which troubling images exemplify the inauspicious dreams mentioned in this context?",
+   "premises": [
+    "A man anointed with oil and naked is named.",
+    "A dry tree is named.",
+    "The tree is described as having thorns."
+   ],
+   "inference": "Such images are examples of inauspicious dream content.",
+   "uncertainties": [
+    "The verb governing these objects is supplied by the surrounding context."
+   ],
+   "plain_english": "Examples include seeing a naked man anointed with oil, or a dry thorny tree."
+  },
+  {
+   "verse": 4231,
+   "rows": [
+    {
+     "surface": "kevalena",
+     "gloss": "with-only",
+     "grounds": "alternative ritual substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ājyena",
+     "gloss": "with-ghee",
+     "grounds": "ritual substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "siṃhamantreṇa",
+     "gloss": "with-lion-mantra",
+     "grounds": "mantra used for pacification",
+     "morph": "m.ins.sg compound siṃha+mantra+end"
+    },
+    {
+     "surface": "śāntaye",
+     "gloss": "for-pacification",
+     "grounds": "purpose of rite",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What mantra and offerings are prescribed for pacifying the effects of bad dreams?",
+   "premises": [
+    "The rite may use only one substance or ghee.",
+    "The lion mantra is employed.",
+    "The stated purpose is pacification."
+   ],
+   "inference": "Pacification of bad dreams is performed with ghee or a simple offering and the lion mantra.",
+   "uncertainties": [
+    "The exact referent of kevalena is not fully specified in this verse alone."
+   ],
+   "plain_english": "For pacification, one should use only that or ghee together with the lion mantra."
+  },
+  {
+   "verse": 4232,
+   "rows": [
+    {
+     "surface": "astrasaṃpuṭitena",
+     "gloss": "enclosed-by-weapon-mantra",
+     "grounds": "ritual sealing",
+     "morph": "n.ins.sg compound astra+saṃpuṭita+end"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to prior items or persons",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "with-name",
+     "grounds": "naming in rite",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "svāhānvitena",
+     "gloss": "endowed-with-svāhā",
+     "grounds": "mantric ending",
+     "morph": "n.ins.sg compound svāhā+anvita+end"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the mantra be ritually framed when used for pacifying these dreams?",
+   "premises": [
+    "The mantra is enclosed by the weapon mantra.",
+    "It is used with the name of these.",
+    "It is endowed with svāhā."
+   ],
+   "inference": "The pacifying mantra should be sealed with the weapon mantra, applied with the relevant name, and concluded with svāhā.",
+   "uncertainties": [
+    "The precise identity of eṣāṃ depends on the preceding context."
+   ],
+   "plain_english": "It should be enclosed by the weapon mantra, used with their name, and endowed with svāhā."
+  },
+  {
+   "verse": 4233,
+   "rows": [
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "preparatory act",
+     "morph": "(indecl.) absolutive"
+    },
+    {
+     "surface": "śirasā",
+     "gloss": "with-head",
+     "grounds": "manner of bowing",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "hṛṣṭaḥ",
+     "gloss": "joyful",
+     "grounds": "state of dreamer",
+     "morph": "m.nom.sg past-passive-participle"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient, likely guru",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svapnaṃ",
+     "gloss": "dream",
+     "grounds": "object reported",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-report",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active causative-root ni-vid"
+    }
+   ],
+   "question": "What respectful procedure should be followed when reporting a dream to the proper recipient?",
+   "premises": [
+    "One should bow with the head.",
+    "One should be joyful.",
+    "One should report the dream to him."
+   ],
+   "inference": "A dream should be reported respectfully and joyfully to the designated recipient.",
+   "uncertainties": [
+    "The recipient tasmai is most likely the guru but not named explicitly here."
+   ],
+   "plain_english": "Having bowed with the head and feeling joyful, one should report the dream to him."
+  },
+  {
+   "verse": 4234,
+   "rows": [
+    {
+     "surface": "akasmāt",
+     "gloss": "suddenly",
+     "grounds": "unexpected occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyeta",
+     "gloss": "should-arise",
+     "grounds": "occurrence of dream",
+     "morph": "3.sg.optative-middle root jan"
+    },
+    {
+     "surface": "nākhyātavyaṃ",
+     "gloss": "not-to-be-told",
+     "grounds": "prohibition",
+     "morph": "n.nom.sg future-passive-participle compound na+ākhyātavya"
+    },
+    {
+     "surface": "gurorvinā",
+     "gloss": "without-guru",
+     "grounds": "excluded condition",
+     "morph": "m.abl.sg + (indecl.) compound guru+vinā"
+    }
+   ],
+   "question": "Under what condition must a suddenly arising dream not be disclosed to others?",
+   "premises": [
+    "A dream may arise suddenly.",
+    "Disclosure is prohibited in that case.",
+    "The prohibition applies without the guru."
+   ],
+   "inference": "A suddenly arising dream must not be told in the absence of the guru.",
+   "uncertainties": [],
+   "plain_english": "If a dream arises suddenly, it should not be told without the guru."
+  },
+  {
+   "verse": 4235,
+   "rows": [
+    {
+     "surface": "prakāśanīyaṃ",
+     "gloss": "to-be-revealed",
+     "grounds": "prescribed disclosure",
+     "morph": "n.nom.sg future-passive-participle"
+    },
+    {
+     "surface": "viprendraṃ",
+     "gloss": "to-best-of-brahmins",
+     "grounds": "possible recipient",
+     "morph": "m.acc.sg compound vipra+indra+end"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "to-someone",
+     "grounds": "indefinite recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "siddhimicchatā",
+     "gloss": "by-one-desiring-accomplishment",
+     "grounds": "qualified agent",
+     "morph": "m.ins.sg present-participle compound siddhi+icchat+end"
+    }
+   ],
+   "question": "To whom may a dream be revealed by someone who desires spiritual accomplishment?",
+   "premises": [
+    "The dream is to be revealed.",
+    "The agent desires accomplishment.",
+    "The recipient is indicated as someone such as the best of brahmins."
+   ],
+   "inference": "One seeking accomplishment may reveal the dream only to a worthy recipient such as an eminent brahmin.",
+   "uncertainties": [
+    "The relation to the previous prohibition suggests restricted disclosure, but the syntax is compressed."
+   ],
+   "plain_english": "One who desires accomplishment may reveal it to someone such as an eminent brahmin."
+  },
+  {
+   "verse": 4236,
+   "rows": [
+    {
+     "surface": "nikaṭasthāḥ",
+     "gloss": "standing-near",
+     "grounds": "previously close attainments",
+     "morph": "f.nom.pl compound nikaṭa+stha+end"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative reference",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "spiritual attainments",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "movement away",
+     "morph": "3.pl.present-active root yā"
+    },
+    {
+     "surface": "dūrataḥ",
+     "gloss": "far-away",
+     "grounds": "resulting distance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to accomplishments that were near when a dream is improperly disclosed?",
+   "premises": [
+    "Accomplishments may be standing near the person.",
+    "Those accomplishments belong to him.",
+    "They go far away."
+   ],
+   "inference": "Improper disclosure causes nearby accomplishments to recede.",
+   "uncertainties": [
+    "The causal link to improper disclosure is inferred from the preceding verses."
+   ],
+   "plain_english": "Those accomplishments of his that were near at hand go far away."
+  },
+  {
+   "verse": 4237,
+   "rows": [
+    {
+     "surface": "nijaṃ",
+     "gloss": "own",
+     "grounds": "self-reference",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śarīram",
+     "gloss": "body",
+     "grounds": "object of vision or identification",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāmayaṃ",
+     "gloss": "made-of-deity",
+     "grounds": "transformed identity",
+     "morph": "n.acc.sg compound devatā+maya+end"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may one's own body be perceived in the visionary experiences described here?",
+   "premises": [
+    "One's own body is mentioned.",
+    "An alternative is a body made of deity.",
+    "The statement is emphatic."
+   ],
+   "inference": "The practitioner may perceive the body as ordinary or as wholly deity-filled.",
+   "uncertainties": [
+    "The governing verb is supplied by the surrounding passage."
+   ],
+   "plain_english": "One may perceive one's own body, or indeed a body made entirely of the deity."
+  },
+  {
+   "verse": 4238,
+   "rows": [
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "occurrence of obstacles",
+     "morph": "3.pl.present-middle root jan"
+    },
+    {
+     "surface": "bahavaḥ",
+     "gloss": "many",
+     "grounds": "quantity",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vighnāḥ",
+     "gloss": "obstacles",
+     "grounds": "hindrances in practice",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "niyamasthasya",
+     "gloss": "of-one-established-in-discipline",
+     "grounds": "practitioner under restraint",
+     "morph": "m.gen.sg compound niyama+stha+end"
+    },
+    {
+     "surface": "nārada",
+     "gloss": "nārada",
+     "grounds": "addressee",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What difficulties arise for a practitioner who is established in disciplined observance?",
+   "premises": [
+    "The addressee is Nārada.",
+    "The practitioner is established in discipline.",
+    "Many obstacles arise for such a person."
+   ],
+   "inference": "Disciplined practice can be accompanied by the arising of many obstacles.",
+   "uncertainties": [],
+   "plain_english": "O Nārada, many obstacles arise for one who is established in disciplined observance."
+  },
+  {
+   "verse": 4239,
+   "rows": [
+    {
+     "surface": "tṛtīyavatsarāt",
+     "gloss": "from-third-year",
+     "grounds": "time marker",
+     "morph": "m.abl.sg compound tṛtīya+vatsara+end"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "beyond",
+     "grounds": "after that point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājānaḥ",
+     "gloss": "kings",
+     "grounds": "powerful figures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahībhṛtaḥ",
+     "gloss": "earth-bearers",
+     "grounds": "rulers or kings",
+     "morph": "m.nom.pl compound mahī+bhṛt+end"
+    }
+   ],
+   "question": "Which powerful figures become relevant after the third year of disciplined practice?",
+   "premises": [
+    "A time marker is given as after the third year.",
+    "Kings are mentioned.",
+    "Earth-bearers are mentioned alongside them."
+   ],
+   "inference": "After the third year, kings and other rulers become part of the practitioner's situation.",
+   "uncertainties": [
+    "The exact action involving these figures is continued in the next verse."
+   ],
+   "plain_english": "After the third year, kings and other rulers become involved."
+  },
+  {
+   "verse": 4240,
+   "rows": [
+    {
+     "surface": "prasādaḥ",
+     "gloss": "favor",
+     "grounds": "requested grace",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyatāṃ",
+     "gloss": "let-be-done",
+     "grounds": "request",
+     "morph": "3.sg.imperative-passive root kṛ"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "lord",
+     "grounds": "addressed authority",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mamoddharaṇakāraṇam",
+     "gloss": "cause-of-my-upliftment",
+     "grounds": "purpose of favor",
+     "morph": "n.nom.sg compound mama+uddharaṇa+kāraṇa+end"
+    }
+   ],
+   "question": "What request is made to the lord as the cause of the supplicant's upliftment?",
+   "premises": [
+    "Favor is requested.",
+    "The lord is addressed.",
+    "The favor is described as the cause of the speaker's upliftment."
+   ],
+   "inference": "The supplicant asks the lord for favor that will bring upliftment.",
+   "uncertainties": [],
+   "plain_english": "O lord, let favor be shown as the cause of my upliftment."
+  },
+  {
+   "verse": 4241,
+   "rows": [
+    {
+     "surface": "atas",
+     "gloss": "therefore",
+     "grounds": "consequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muniśārdūla",
+     "gloss": "tiger-among-sages",
+     "grounds": "honorific address",
+     "morph": "m.voc.sg compound muni+śārdūla+end"
+    },
+    {
+     "surface": "niṣṭhuraṃ",
+     "gloss": "harsh-words",
+     "grounds": "speech avoided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaktum",
+     "gloss": "to-speak",
+     "grounds": "action avoided",
+     "morph": "(indecl.) infinitive root vac"
+    },
+    {
+     "surface": "akṣamāḥ",
+     "gloss": "unable",
+     "grounds": "incapacity",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are the speakers unable to utter harsh words in this situation?",
+   "premises": [
+    "The addressee is honored as tiger among sages.",
+    "Harsh speech is the action in question.",
+    "The speakers are unable to perform it."
+   ],
+   "inference": "Out of the stated circumstance, the speakers cannot bring themselves to speak harshly.",
+   "uncertainties": [
+    "The precise cause indicated by atas depends on the immediately preceding context."
+   ],
+   "plain_english": "Therefore, O tiger among sages, they are unable to speak harsh words."
+  },
+  {
+   "verse": 4242,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "multiplicity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āścaryāṇi",
+     "gloss": "wonders",
+     "grounds": "visionary experiences",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "inner locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantrasiddhimayāni",
+     "gloss": "filled-with-mantra-accomplishment",
+     "grounds": "nature of wonders",
+     "morph": "n.nom.pl compound mantra+siddhi+maya+end"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of inner wonders arise as signs filled with mantra accomplishment?",
+   "premises": [
+    "Various wonders arise.",
+    "They arise in the heart.",
+    "They are filled with mantra accomplishment."
+   ],
+   "inference": "Mantra accomplishment manifests inwardly as various wondrous experiences in the heart.",
+   "uncertainties": [],
+   "plain_english": "Indeed, various wonders filled with mantra accomplishment arise in the heart."
+  },
+  {
+   "verse": 4243,
+   "rows": [
+    {
+     "surface": "jaḍadhīḥ",
+     "gloss": "dull-minded",
+     "grounds": "state of intellect",
+     "morph": "m.nom.sg compound jaḍa+dhī+end"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "brahmin",
+     "grounds": "addressee",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kṣaṇam",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "state of being",
+     "morph": "3.sg.present-active root as"
+    },
+    {
+     "surface": "praharṣitaḥ",
+     "gloss": "delighted",
+     "grounds": "alternating state",
+     "morph": "m.nom.sg past-passive-participle"
+    }
+   ],
+   "question": "How does the practitioner's mental state fluctuate during these mantra-born experiences?",
+   "premises": [
+    "At one moment the person is dull-minded.",
+    "At another moment the person is delighted.",
+    "The fluctuation occurs moment by moment."
+   ],
+   "inference": "The inner experience alternates rapidly between dullness and delight.",
+   "uncertainties": [],
+   "plain_english": "But, O brahmin, for a moment one is dull-minded, and for a moment one is delighted."
+  },
+  {
+   "verse": 4244,
+   "rows": [
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhuraṃ",
+     "gloss": "sweet",
+     "grounds": "quality of sound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vādyaṃ",
+     "gloss": "music",
+     "grounds": "auditory experience",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nānāgītasamanvitam",
+     "gloss": "accompanied-by-various-songs",
+     "grounds": "description of music",
+     "morph": "n.acc.sg compound nānā+gīta+samanvita+end"
+    }
+   ],
+   "question": "What kind of auditory experience may briefly arise within these inner signs?",
+   "premises": [
+    "The experience lasts for a moment.",
+    "Sweet music is perceived.",
+    "The music is accompanied by various songs."
+   ],
+   "inference": "A brief inner experience of sweet music with various songs may occur.",
+   "uncertainties": [
+    "The perceiving subject is carried over from the surrounding verses."
+   ],
+   "plain_english": "And for a moment there is sweet music accompanied by various songs."
+  },
+  {
+   "verse": 4245,
+   "rows": [
+    {
+     "surface": "utpatantaṃ",
+     "gloss": "rising-up",
+     "grounds": "visionary motion",
+     "morph": "m.acc.sg present-participle root ut-pat"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "alternative marker",
+     "morph": "(indecl.) compound vā+api"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "act of perception",
+     "morph": "3.sg.present-active root dṛś"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "object seen",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātmanā",
+     "gloss": "by-self",
+     "grounds": "instrument or reflexive means",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "What self-vision may the practitioner momentarily perceive during these experiences?",
+   "premises": [
+    "The practitioner sees the self.",
+    "The self is seen rising up.",
+    "The perception occurs for a moment and by the self."
+   ],
+   "inference": "The practitioner may briefly experience a vision of the self rising upward.",
+   "uncertainties": [
+    "The instrumental sense of ātmanā could be reflexive or instrumental."
+   ],
+   "plain_english": "Or for a moment one sees oneself rising up, by one's own self."
+  },
+  {
+   "verse": 4246,
+   "rows": [
+    {
+     "surface": "gajagovṛṣanādāṃśca",
+     "gloss": "sounds-of-elephant-cow-and-bull-and",
+     "grounds": "auditory visions",
+     "morph": "m.acc.pl + (indecl.) compound gaja+go+vṛṣa+nāda+end+ca"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "additional conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇuyāt",
+     "gloss": "may-hear",
+     "grounds": "possible perception",
+     "morph": "3.sg.optative-active root śru"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvijaḥ",
+     "gloss": "twice-born",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What animal sounds might the twice-born practitioner briefly hear in these states?",
+   "premises": [
+    "The subject is a twice-born person.",
+    "The sounds of elephant, cow, and bull are named.",
+    "The hearing may occur for a moment."
+   ],
+   "inference": "The twice-born may briefly hear the sounds of elephants, cows, and bulls.",
+   "uncertainties": [],
+   "plain_english": "For a moment the twice-born may hear the sounds of elephants, cows, and bulls."
+  },
+  {
+   "verse": 4247,
+   "rows": [
+    {
+     "surface": "tārakāṇi",
+     "gloss": "stars",
+     "grounds": "celestial objects",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vicitrāṇi",
+     "gloss": "variegated",
+     "grounds": "quality of stars",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yogino",
+     "gloss": "of-yogins",
+     "grounds": "associated figures",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nabhasi",
+     "gloss": "in-sky",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitān",
+     "gloss": "standing",
+     "grounds": "positioned in sky",
+     "morph": "m.acc.pl past-passive-participle"
+    }
+   ],
+   "question": "What celestial vision involving yogins and stars may appear in the sky?",
+   "premises": [
+    "Variegated stars are seen.",
+    "They are in the sky.",
+    "Yogins are associated with them as standing there."
+   ],
+   "inference": "One may perceive variegated stars and yogins standing in the sky.",
+   "uncertainties": [
+    "The grammatical relation of yogino to sthitān is somewhat compressed."
+   ],
+   "plain_english": "One may see variegated stars and yogins standing in the sky."
+  },
+  {
+   "verse": 4248,
+   "rows": [
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kilikilārāvaṃ",
+     "gloss": "kilikilā-sound",
+     "grounds": "auditory experience",
+     "morph": "m.acc.sg compound kilikilā+rāva+end"
+    },
+    {
+     "surface": "haṃsavarhiravaṃ",
+     "gloss": "sound-of-swan-and-peacock",
+     "grounds": "auditory experience",
+     "morph": "m.acc.sg compound haṃsa+varhi+rava+end"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional sounds may be briefly heard as part of these visionary experiences?",
+   "premises": [
+    "The experience lasts for a moment.",
+    "A kilikilā sound is heard.",
+    "The sound of swans and peacocks is heard likewise."
+   ],
+   "inference": "Brief visionary experience may include kilikilā cries and the sounds of swans and peacocks.",
+   "uncertainties": [],
+   "plain_english": "For a moment one may likewise hear a kilikilā sound and the cries of swans and peacocks."
+  },
+  {
+   "verse": 4249,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of experience",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divasālokaṃ",
+     "gloss": "daylight",
+     "grounds": "visual experience",
+     "morph": "m.acc.sg compound divasa+āloka+end"
+    },
+    {
+     "surface": "sasūryyaṃ",
+     "gloss": "with-sun",
+     "grounds": "quality of daylight",
+     "morph": "m.acc.sg compound sa+sūrya+end"
+    },
+    {
+     "surface": "kṣaṇam",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īkṣate",
+     "gloss": "sees",
+     "grounds": "act of perception",
+     "morph": "3.sg.present-middle root īkṣ"
+    }
+   ],
+   "question": "What paradoxical visual experience may occur at night for the practitioner?",
+   "premises": [
+    "The experience occurs at night.",
+    "Daylight is seen.",
+    "The daylight appears with the sun and only for a moment."
+   ],
+   "inference": "The practitioner may briefly perceive sunlit daylight even during the night.",
+   "uncertainties": [],
+   "plain_english": "And at night, for a moment, one may see daylight together with the sun."
+  }
+ ]
+}

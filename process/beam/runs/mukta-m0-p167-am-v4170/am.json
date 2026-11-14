@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p167",
  "verse": 4170,
- "question": "Which wood is preferred or permitted for use in the fire-offering?",
+ "question": "Which type of food is considered preferable during the practice of mantra accomplishment?",
  "premises": [
-  "Palāśa should be the principal wood.",
-  "Palāśa alone may be used for all purposes."
+  "Different foods are compared.",
+  "The earlier-mentioned option is preferable.",
+  "The context is mantra accomplishment."
  ],
- "inference": "Palāśa is the preferred wood and is also approved as sufficient for all uses.",
- "uncertainties": [],
- "plain_english": "Palāśa should be the principal wood, or palāśa alone is approved for all."
+ "inference": "In mantra accomplishment, the earlier-mentioned food is preferable.",
+ "uncertainties": [
+  "The referent of pūrvaṃ depends on the preceding enumeration."
+ ],
+ "plain_english": "In mantra accomplishment, the earlier food is preferable, the earlier food is preferable."
 }

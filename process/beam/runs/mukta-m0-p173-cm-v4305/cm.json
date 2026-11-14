@@ -3,24 +3,29 @@
  "verse": 4305,
  "rows": [
   {
-   "lemma": "vahnau",
-   "morph": "m.loc.sg",
-   "grounds": "location of ritual action"
+   "lemma": "mūlamantreṇa",
+   "morph": "m.ins.sg (compound)",
+   "grounds": "instrument specifying the mantra used"
   },
   {
-   "lemma": "yathāvat",
+   "lemma": "mantrajñaḥ",
+   "morph": "m.nom.sg (compound)",
+   "grounds": "qualified agent performing the rite"
+  },
+  {
+   "lemma": "sahasraṃ",
+   "morph": "n.acc.sg",
+   "grounds": "number of offerings"
+  },
+  {
+   "lemma": "śatameva",
+   "morph": "n.acc.sg + (indecl.)",
+   "grounds": "alternative number with emphasis"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "manner of performance"
-  },
-  {
-   "lemma": "deśika",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
-  },
-  {
-   "lemma": "uttamaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "the supreme teacher as agent"
+   "grounds": "marks alternative count"
   }
  ]
 }

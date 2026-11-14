@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p173",
  "verse": 4303,
- "question": "At what time is the following ritual action to be performed?",
+ "question": "In what kind of container should the prepared inscription be placed?",
  "premises": [
-  "The particle tu specifies a condition",
-  "The action is located in nights"
+  "The prepared item must be placed somewhere.",
+  "The container is small and made of clay.",
+  "The placement is described as in a sweet context."
  ],
- "inference": "The ritual is to be performed during the nights",
- "uncertainties": [],
- "plain_english": "But this is to be done during the nights."
+ "inference": "The inscription should be placed in a small clay vessel in a sweet medium.",
+ "uncertainties": [
+  "The exact sense of 'madhure' as substance or quality is unclear."
+ ],
+ "plain_english": "One should place that in a small clay vessel in something sweet."
 }

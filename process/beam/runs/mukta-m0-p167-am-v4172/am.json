@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p167",
  "verse": 4172,
- "question": "To whom must oblations be offered in each fire-pit during the rite?",
+ "question": "Which specific plant foods are permitted or excluded for the observance diet?",
  "premises": [
-  "Oblations must be offered to the principles and their lords and others.",
-  "This must be done in each fire-pit."
+  "Sesame is permitted.",
+  "White mung beans are permitted.",
+  "Tubers are permitted except kemuka."
  ],
- "inference": "In every fire-pit, oblations are directed to the principles, the lords of the principles, and related beings.",
- "uncertainties": [],
- "plain_english": "And one should offer oblations to the principles, the lords of the principles, and others in each fire-pit."
+ "inference": "The permitted diet includes sesame, white mung beans, and tubers excluding kemuka.",
+ "uncertainties": [
+  "kemuka identifies a specific tuber; left untranslated as a plant name."
+ ],
+ "plain_english": "Sesame, white mung beans, and tubers, except kemuka, are permitted."
 }
