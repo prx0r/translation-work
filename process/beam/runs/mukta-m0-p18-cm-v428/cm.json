@@ -3,34 +3,39 @@
  "verse": 428,
  "rows": [
   {
-   "lemma": "śāntāya",
-   "morph": "m.dat.sg",
-   "grounds": "to one who is calm"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
   },
   {
-   "lemma": "ṛjave",
-   "morph": "m.dat.sg",
-   "grounds": "to one who is straightforward"
+   "lemma": "bhayaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "negated condition"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "kvāpi",
+   "morph": "(indecl.)",
+   "grounds": "indefinite locative adverb"
   },
   {
-   "lemma": "bhaktiḥ",
-   "morph": "f.nom.sg",
-   "grounds": "devotional qualification"
+   "lemma": "sarveṣāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "universal qualifier of the following group"
+  },
+  {
+   "lemma": "vyāghra+ādīnāṃ",
+   "morph": "compound: vyāghra+ādi (m.gen.pl)",
+   "grounds": "compound indicating tigers and similar beings"
+  },
+  {
+   "lemma": "tathā+eva",
+   "morph": "compound: tathā (indecl.)+eva (indecl.)",
+   "grounds": "compound emphatic adverbial phrase extending previous denial"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective"
-  },
-  {
-   "lemma": "aṇḍālajātiṣu",
-   "morph": "f.loc.pl, compound=aṇḍāla+jāti",
-   "grounds": "among those of low birth"
+   "grounds": "conjunctive particle"
   }
  ]
 }

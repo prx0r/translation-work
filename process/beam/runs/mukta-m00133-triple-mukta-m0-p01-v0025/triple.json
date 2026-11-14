@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "dharma+artha+kāma+mokṣam",
+     "gloss": "duty-wealth-desire-liberation",
+     "grounds": "compound of the four aims of human life; taken as object",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking objects or qualities",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb indicating constant bestowal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sukha+pradāyakam",
+     "gloss": "happiness-bestowing",
+     "grounds": "compound describing what is granted; agrees with object",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "Which four human aims and what enduring benefit are granted by this?",
+   "premises": [
+    "The verse names duty, wealth, desire, and liberation as aims.",
+    "These four aims are presented as objects granted.",
+    "The granting is described as constant and happiness-bestowing."
+   ],
+   "inference": "This grants the four aims of human life together with constant happiness.",
+   "uncertainties": [],
+   "plain_english": "And it always grants duty, wealth, desire, liberation, and happiness."
+  }
+ ]
+}

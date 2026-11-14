@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun indicating possession",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "in-house",
+     "grounds": "location where the tantra is present",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "past participle of sthā indicating presence",
+     "morph": "n.nom.sg.ppp (√sthā)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tantram+etat",
+     "gloss": "this-tantra",
+     "grounds": "demonstrative and noun fused in the given token",
+     "morph": "n.nom.sg (etad+pron + tantra+noun)"
+    },
+    {
+     "surface": "bhaya+apaham",
+     "gloss": "fear-removing",
+     "grounds": "compound adjective qualifying the tantra",
+     "morph": "n.nom.sg (bhaya+noun + apaha+adj)"
+    }
+   ],
+   "question": "What protective quality does the presence of this tantra confer upon a household?",
+   "premises": [
+    "A household may have this tantra situated within it.",
+    "This tantra is characterized as removing fear.",
+    "The presence of the tantra in a house is the stated condition."
+   ],
+   "inference": "Therefore, a household in which this tantra is present possesses a fear-removing protection.",
+   "uncertainties": [
+    "The consequence of this condition may be elaborated in subsequent verses."
+   ],
+   "plain_english": "O goddess, in whose house this fear-removing tantra is situated."
+  }
+ ]
+}

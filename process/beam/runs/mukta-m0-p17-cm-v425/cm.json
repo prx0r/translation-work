@@ -3,29 +3,34 @@
  "verse": 425,
  "rows": [
   {
-   "lemma": "śūdrasya",
-   "morph": "m.gen.sg",
-   "grounds": "refers to a person of the śūdra class; genitive indicates relation to what is declared"
+   "lemma": "yasya",
+   "morph": "m/n.gen.sg",
+   "grounds": "relative pronoun indicating possession"
   },
   {
-   "lemma": "sakalaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "describes the teaching or content as whole or complete"
+   "lemma": "gehe",
+   "morph": "n.loc.sg",
+   "grounds": "location where the tantra is present"
+  },
+  {
+   "lemma": "sthitaṃ",
+   "morph": "n.nom.sg.ppp (√sthā)",
+   "grounds": "past participle of sthā indicating presence"
   },
   {
    "lemma": "devi",
    "morph": "f.voc.sg",
-   "grounds": "vocative address to Pārvatī"
+   "grounds": "vocative address to the goddess"
   },
   {
-   "lemma": "kathayāmi",
-   "morph": "1.sg.pres.act √kath",
-   "grounds": "present act of telling or declaring by the speaker"
+   "lemma": "tantram+etat",
+   "morph": "n.nom.sg (etad+pron + tantra+noun)",
+   "grounds": "demonstrative and noun fused in the given token"
   },
   {
-   "lemma": "varānane",
-   "morph": "f.voc.sg (vara+ānana)",
-   "grounds": "vocative epithet addressing Pārvatī; compound of vara and ānana"
+   "lemma": "bhaya+apaham",
+   "morph": "n.nom.sg (bhaya+noun + apaha+adj)",
+   "grounds": "compound adjective qualifying the tantra"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 437,
- "question": "Which chapter and textual frame are concluded by this colophon statement?",
+ "question": "Which sectarian devotees are restricted by Śiva's command?",
  "premises": [
-  "The statement marks the end of a section.",
-  "It names the Bhūtaśuddhitantra and the Hara-Gaurī dialogue.",
-  "It identifies the section as the twelfth chapter."
+  "A devotee of Kālī is named.",
+  "A Śaiva and a Vaiṣṇava are named.",
+  "The restriction is stated by Śiva's command."
  ],
- "inference": "This is the colophon of the twelfth chapter in the Bhūtaśuddhitantra, in the dialogue of Hara and Gaurī.",
- "uncertainties": [],
- "plain_english": "Thus ends the twelfth chapter in the holy Bhūtaśuddhitantra, in the dialogue of Hara and Gaurī."
+ "inference": "By Śiva's command, the teaching must not be given to a devotee of Kālī, a Śaiva, or a Vaiṣṇava.",
+ "uncertainties": [
+  "The rationale for excluding these specific devotees is not stated in this verse."
+ ],
+ "plain_english": "By Śiva’s command, it must not be given to a devotee of Kālī, to a Śaiva, or to a Vaiṣṇava."
 }

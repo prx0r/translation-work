@@ -3,12 +3,7 @@
  "song": "kul-p62",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1528 ratio=0.857",
-  "ALIGN_NODISP v1530 ratio=0.750",
-  "ALIGN_NODISP v1542 ratio=0.880",
-  "ALIGN_NODISP v1549 ratio=0.886"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "ac88d11346d68606",
@@ -21,23 +16,19 @@
   "tokens": 184
  },
  "align": {
-  "min_ratio": 0.75,
+  "min_ratio": 0.857,
   "sub090": {
    "1528": {
     "ratio": 0.857,
-    "disposition": null
-   },
-   "1530": {
-    "ratio": 0.75,
-    "disposition": null
+    "disposition": "sandhi-only: devaḥ+ca→devaśca, mantraḥ+ca→mantraśca (visarga→ś before palatals), guruḥ+ca+eka+arthaḥ→guruścaikārtha (ca+eka→caika vṛddhi); T1 splits compounds the source joins; same words/order (assessor-verified 2026-11-14)"
    },
    "1542": {
     "ratio": 0.88,
-    "disposition": null
+    "disposition": "sandhi-only: yaḥ→yo, saḥ+guruḥ+na+aparaḥ→sa+gurur+nāparaḥ (visarga→r, a+a→ā); T1 citation saḥ where source prints sa (missing-visarga print orthography, same word/case) (assessor-verified 2026-11-14)"
    },
    "1549": {
     "ratio": 0.886,
-    "disposition": null
+    "disposition": "sandhi-only: mūla+bandham+ca→mūlabandhañca (anunāsika m→ñ before palatal), yaḥ→yo, saḥ→sa (citation restoration as v1542), paramaḥ→paramo; same words/order (assessor-verified 2026-11-14)"
    }
   }
  },
@@ -70,15 +61,12 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1528",
-  "fix: word-order/gloss vs source for v1530",
-  "fix: word-order/gloss vs source for v1542",
-  "fix: word-order/gloss vs source for v1549"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "6c62d47691f79ded2037218ef7a839f66efb00c86b0d5b792b6517311535788c",
-  "l0": "a0ee5e6c2086328bf1d8ef7b6bf915e42c45cfcc58b22cfc7d0051b1426532de",
+  "t1": "4fa773e5ee1ffe46cfd563156dca36e6b2668ce476d4b42060c4e7350117eb54",
+  "l0": "f4af0c29a0c6b56a40742741da39fae8677982c6080b7048256f5fab2f9b2f28",
   "argmap": "dc8daf40d7cfc7a340880734707b5195d417bb45309378a2bdd9063b545c6356",
   "l2": "ad8711d3aa139bed52bf8ee3aac630e5c17894353efc9d9670c9085c3fd2b0f0",
   "c1": "c261bbccfc1b2ed2c57b1b127228a3e89c414bdf372e9494ecb318132597e3fc"

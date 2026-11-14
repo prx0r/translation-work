@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 438,
- "question": "What is the first mantra element to be extracted in this sequence?",
+ "question": "What additional ritual practitioners are excluded from receiving the teaching?",
  "premises": [
-  "A sequence of extraction is being instructed.",
-  "The first element named is praṇava.",
-  "The instruction is addressed to the goddess."
+  "One who worships with wine and women is named.",
+  "One who offers bali to Śiva is named.",
+  "Both are included in the prohibition."
  ],
- "inference": "The first element to be extracted in the sequence is the praṇava.",
- "uncertainties": [],
- "plain_english": "O goddess, lotus-faced one, first extract the praṇava."
+ "inference": "The teaching must not be given even to those who worship with wine and women or who offer bali to Śiva.",
+ "uncertainties": [
+  "The compound surā-strī-vandakāya is terse and its exact ritual sense depends on context."
+ ],
+ "plain_english": "And not even to one who worships with wine and women, nor to one who offers bali to Śiva."
 }

@@ -1,0 +1,983 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "temporal adverb introducing request",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+deva+īśa",
+     "gloss": "lord-of-lords-of-gods",
+     "grounds": "vocative compound addressing supreme deity",
+     "morph": "compound = deva+deva+īśa; m.voc.sg"
+    },
+    {
+     "surface": "pañcāśat+varṇam",
+     "gloss": "fifty-syllabled",
+     "grounds": "describes the supreme object of inquiry",
+     "morph": "compound = pañcāśat+varṇa; n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "qualifies the fifty-syllabled teaching",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme fifty-syllabled teaching is now requested from the lord of gods?",
+   "premises": [
+    "The speaker addresses the lord of gods.",
+    "The request concerns a fifty-syllabled teaching.",
+    "This teaching is described as supreme."
+   ],
+   "inference": "The speaker seeks revelation of the supreme fifty-syllabled teaching.",
+   "uncertainties": [],
+   "plain_english": "Now, O lord of the gods, reveal the supreme teaching of the fifty syllables."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "kṛpayā",
+     "gloss": "out-of-compassion",
+     "grounds": "motive for the requested teaching",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kathaya+īśāna",
+     "gloss": "tell-o-lord",
+     "grounds": "imperative request with vocative",
+     "morph": "kathaya = 2.sg.act.imperative + kath; īśāna = m.voc.sg"
+    },
+    {
+     "surface": "yadi+aham",
+     "gloss": "if-i",
+     "grounds": "conditional appeal based on relationship",
+     "morph": "yadi = (indecl.); aham = 1.nom.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "indicates belonging to the addressed lord",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "speaker claims beloved status",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "On what relational basis does the speaker ask the lord to teach compassionately?",
+   "premises": [
+    "The speaker requests compassionate instruction.",
+    "The speaker claims to be beloved of the lord.",
+    "The request is conditioned on that beloved status."
+   ],
+   "inference": "The speaker appeals to being beloved to obtain compassionate teaching.",
+   "uncertainties": [],
+   "plain_english": "Out of compassion, tell me, O lord, if I am your beloved."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "refers to the knowledge sought",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vijñāta+mātreṇa",
+     "gloss": "known-merely",
+     "grounds": "knowledge alone, without further practice",
+     "morph": "compound = vijñāta+mātra; n.inst.sg"
+    },
+    {
+     "surface": "jīvat+muktaḥ",
+     "gloss": "living-liberated",
+     "grounds": "state attained while still alive",
+     "morph": "compound = jīvat+mukta; m.nom.sg"
+    },
+    {
+     "surface": "bhavet+naraḥ",
+     "gloss": "becomes-person",
+     "grounds": "result for a human being",
+     "morph": "bhavet = 3.sg.act.optative + bhū; naraḥ = m.nom.sg"
+    }
+   ],
+   "question": "What transformative power is attributed to merely knowing the requested teaching?",
+   "premises": [
+    "The teaching can be merely known.",
+    "Mere knowledge of it has an effect.",
+    "That effect is living liberation for a person."
+   ],
+   "inference": "Mere knowledge of the teaching brings living liberation to a person.",
+   "uncertainties": [],
+   "plain_english": "By merely knowing which, a person becomes liberated while still living."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "totality of ritual efforts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to one lacking this knowledge",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vṛthā",
+     "gloss": "in-vain",
+     "grounds": "futility of efforts without knowledge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical question implying no value",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers again to the same person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "japa+pūjanaiḥ",
+     "gloss": "by-recitation-and-worship",
+     "grounds": "ritual acts rendered futile",
+     "morph": "compound = japa+pūjana; n.inst.pl"
+    }
+   ],
+   "question": "What value do recitation and worship hold without the requisite syllable knowledge?",
+   "premises": [
+    "A person may perform recitation and worship.",
+    "Without the relevant knowledge these acts are considered.",
+    "All such efforts are declared vain."
+   ],
+   "inference": "Recitation and worship are futile without syllable knowledge.",
+   "uncertainties": [],
+   "plain_english": "O goddess, all his recitation and worship are in vain; what use are they to him?"
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "varṇa+jñānam",
+     "gloss": "syllable-knowledge",
+     "grounds": "essential knowledge of syllables",
+     "morph": "compound = varṇa+jñāna; n.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "introduces condition of absence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates existence of knowledge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "states absence of syllable knowledge",
+     "morph": "3.sg.act.present + as"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical question implying no benefit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the ignorant practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "japa+pūjanaiḥ",
+     "gloss": "by-recitation-and-worship",
+     "grounds": "ritual acts lacking efficacy",
+     "morph": "compound = japa+pūjana; n.inst.pl"
+    }
+   ],
+   "question": "How does the absence of syllable knowledge affect the efficacy of ritual practice?",
+   "premises": [
+    "Syllable knowledge may be absent.",
+    "Recitation and worship may still be performed.",
+    "Without syllable knowledge these practices yield no benefit."
+   ],
+   "inference": "Ritual practice lacks efficacy when syllable knowledge is absent.",
+   "uncertainties": [],
+   "plain_english": "When there is no knowledge of the syllables, what use are his recitation and worship?"
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "nānā+varṇa+yutam",
+     "gloss": "endowed-with-various-syllables",
+     "grounds": "describes the teaching's manifold syllables",
+     "morph": "compound = nānā+varṇa+yuta; n.acc.sg"
+    },
+    {
+     "surface": "śuddham",
+     "gloss": "pure",
+     "grounds": "qualifies the teaching as pure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tantrāṇām",
+     "gloss": "of-tantras",
+     "grounds": "locates teaching among tantras",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sāram+uttamam",
+     "gloss": "supreme-essence",
+     "grounds": "identifies it as highest essence",
+     "morph": "compound = sāra+uttama; n.acc.sg"
+    }
+   ],
+   "question": "What status does the manifold-syllabled pure teaching hold among the tantras?",
+   "premises": [
+    "The teaching contains various syllables.",
+    "The teaching is pure.",
+    "It is identified as the supreme essence of the tantras."
+   ],
+   "inference": "The manifold-syllabled pure teaching is the supreme essence of the tantras.",
+   "uncertainties": [],
+   "plain_english": "It is endowed with various syllables, pure, and the supreme essence of the tantras."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "nānā+vidyā+mayīm",
+     "gloss": "consisting-of-various-knowledges",
+     "grounds": "describes the goddess as manifold knowledge",
+     "morph": "compound = nānā+vidyā+maya; f.acc.sg"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "object of description",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahā+vidyā+mayīm",
+     "gloss": "consisting-of-great-knowledge",
+     "grounds": "describes the goddess as great knowledge",
+     "morph": "compound = mahā+vidyā+maya; f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds another characterization",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the goddess characterized in terms of manifold and great knowledge?",
+   "premises": [
+    "The goddess is described as consisting of various knowledges.",
+    "The goddess is likewise described as consisting of great knowledge.",
+    "Both characterizations apply to the same goddess."
+   ],
+   "inference": "The goddess embodies both manifold knowledge and great knowledge.",
+   "uncertainties": [],
+   "plain_english": "She is the goddess consisting of various knowledges and likewise of great knowledge."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "sarva+deva+mayīm",
+     "gloss": "consisting-of-all-gods",
+     "grounds": "goddess encompasses all deities",
+     "morph": "compound = sarva+deva+maya; f.acc.sg"
+    },
+    {
+     "surface": "saumyām",
+     "gloss": "gentle",
+     "grounds": "describes her benevolent nature",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "brahmāṇḍa+jananīm",
+     "gloss": "mother-of-universe",
+     "grounds": "identifies her as cosmic mother",
+     "morph": "compound = brahmāṇḍa+jananī; f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "affirms her highest status",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What cosmic and divine roles are attributed to the supreme gentle goddess?",
+   "premises": [
+    "The goddess consists of all gods.",
+    "The goddess is gentle and supreme.",
+    "The goddess is the mother of the universe."
+   ],
+   "inference": "The supreme gentle goddess encompasses all gods and mothers the universe.",
+   "uncertainties": [],
+   "plain_english": "She consists of all gods, is gentle, the mother of the universe, and supreme."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "akāra+ādi+kṣakāra+antā",
+     "gloss": "beginning-with-a-ending-with-kṣa",
+     "grounds": "defines the full range of syllables",
+     "morph": "compound = akāra+ādi+kṣakāra+anta; f.nom.sg"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "name of the syllable matrix; kept as tradition term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bīja+rūpiṇī",
+     "gloss": "having-seed-form",
+     "grounds": "identifies mātṛkā as seed-form",
+     "morph": "compound = bīja+rūpin; f.nom.sg"
+    }
+   ],
+   "question": "How is the mātṛkā defined by its syllabic range and essential form?",
+   "premises": [
+    "The mātṛkā begins with the syllable a.",
+    "The mātṛkā ends with the syllable kṣa.",
+    "The mātṛkā has the form of seed."
+   ],
+   "inference": "The mātṛkā spans from a to kṣa and is seed in form.",
+   "uncertainties": [],
+   "plain_english": "The mātṛkā, beginning with a and ending with kṣa, has the form of seed."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "varṇāt",
+     "gloss": "from-syllable",
+     "grounds": "syllable as source of origin",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "origin of Brahmā",
+     "morph": "3.sg.mid.present + jan"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "deity born from syllable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends origin to Viṣṇu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "deity born from syllable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "origin of Viṣṇu",
+     "morph": "3.sg.mid.present + pra-jan"
+    }
+   ],
+   "question": "What divine origins are attributed to the power of the syllable?",
+   "premises": [
+    "Brahmā is born from the syllable.",
+    "Viṣṇu is likewise born.",
+    "The syllable is presented as their source."
+   ],
+   "inference": "The syllable is the source from which Brahmā and Viṣṇu are born.",
+   "uncertainties": [],
+   "plain_english": "Indeed, from the syllable Brahmā is born, and likewise Viṣṇu is born."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker claims possession",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "kaṇṭha+sthitā",
+     "gloss": "situated-in-throat",
+     "grounds": "location of the goddess",
+     "morph": "compound = kaṇṭha+sthita; f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "correlative pronoun identifying goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāradā",
+     "gloss": "śāradā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāma+locanā",
+     "gloss": "beautiful-eyed",
+     "grounds": "epithet of the goddess",
+     "morph": "compound = vāma+locana; f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is identified as dwelling in the speaker's throat?",
+   "premises": [
+    "A goddess is situated in the speaker's throat.",
+    "That goddess is identified as Śāradā.",
+    "She is described as beautiful-eyed."
+   ],
+   "inference": "The beautiful-eyed Śāradā dwells in the speaker's throat.",
+   "uncertainties": [],
+   "plain_english": "She who is situated in my throat is Śāradā, the beautiful-eyed one."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "vidhṛtya",
+     "gloss": "having-held",
+     "grounds": "act of holding in the throat region",
+     "morph": "(indecl.) absolutive + vi-dhṛ"
+    },
+    {
+     "surface": "kaṇṭha+deśe",
+     "gloss": "in-throat-region",
+     "grounds": "location of holding",
+     "morph": "compound = kaṇṭha+deśa; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaḥ+aham",
+     "gloss": "śiva-i-am",
+     "grounds": "identity claim of the speaker",
+     "morph": "śivaḥ = m.nom.sg; aham = 1.nom.sg"
+    },
+    {
+     "surface": "kamala+ānane",
+     "gloss": "o-lotus-faced",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound = kamala+ānana; f.voc.sg"
+    }
+   ],
+   "question": "What identity does the speaker claim upon holding the goddess in the throat?",
+   "premises": [
+    "The goddess is held in the throat region.",
+    "The speaker addresses the lotus-faced goddess.",
+    "The speaker declares identity as Śiva."
+   ],
+   "inference": "By holding her in the throat, the speaker claims to be Śiva.",
+   "uncertainties": [],
+   "plain_english": "Having held her in the throat region, O lotus-faced one, I am indeed Śiva."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "śarat+candra+pratīkāśam",
+     "gloss": "resembling-autumn-moon",
+     "grounds": "visual likeness of the syllable",
+     "morph": "compound = śarat+candra+pratīkāśa; n.acc.sg"
+    },
+    {
+     "surface": "pañca+koṣa+mayam",
+     "gloss": "consisting-of-five-sheaths",
+     "grounds": "composition of the syllable",
+     "morph": "compound = pañca+koṣa+maya; n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant nature",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What appearance and composition are attributed to the described syllable?",
+   "premises": [
+    "The syllable resembles the autumn moon.",
+    "The syllable consists of five sheaths.",
+    "This nature is constant."
+   ],
+   "inference": "The syllable is always autumn-moon-like and composed of five sheaths.",
+   "uncertainties": [],
+   "plain_english": "It always resembles the autumn moon and consists of the five sheaths."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "bindu+tattva+mayam",
+     "gloss": "consisting-of-bindu-principle",
+     "grounds": "syllable composed of bindu principle",
+     "morph": "compound = bindu+tattva+maya; n.acc.sg"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "syllable",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "identifies syllable with the goddess",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛti+rūpiṇī",
+     "gloss": "having-primordial-nature-form",
+     "grounds": "goddess as primordial nature",
+     "morph": "compound = prakṛti+rūpin; f.nom.sg"
+    }
+   ],
+   "question": "How is the syllable identified with bindu principle and primordial nature?",
+   "premises": [
+    "The syllable consists of the bindu principle.",
+    "The syllable is identified with the goddess herself.",
+    "The goddess has the form of primordial nature."
+   ],
+   "inference": "The syllable embodies bindu principle and is the goddess as primordial nature.",
+   "uncertainties": [],
+   "plain_english": "The syllable consists of the bindu principle and is herself in the form of primordial nature."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "brahma+viṣṇu+mayam",
+     "gloss": "consisting-of-brahmā-viṣṇu",
+     "grounds": "syllable composed of Brahmā and Viṣṇu",
+     "morph": "compound = brahma+viṣṇu+maya; n.acc.sg"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "syllable",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds Rudra to composition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudram",
+     "gloss": "rudra",
+     "grounds": "included in the syllable's composition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "identifies syllable with the goddess",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which deities are encompassed within the nature of the described syllable?",
+   "premises": [
+    "The syllable consists of Brahmā and Viṣṇu.",
+    "The syllable likewise includes Rudra.",
+    "The syllable is identified with the goddess herself."
+   ],
+   "inference": "The syllable encompasses Brahmā, Viṣṇu, and Rudra as the goddess herself.",
+   "uncertainties": [],
+   "plain_english": "O beloved, the syllable consists of Brahmā and Viṣṇu, and likewise Rudra, and is herself."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "ikāram",
+     "gloss": "i-syllable",
+     "grounds": "specific syllable being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parama+ānandam",
+     "gloss": "supreme-bliss",
+     "grounds": "nature of the i-syllable",
+     "morph": "compound = parama+ānanda; m.acc.sg"
+    },
+    {
+     "surface": "sugandha+kusuma+cchavim",
+     "gloss": "splendor-of-fragrant-flower",
+     "grounds": "visual and sensory quality",
+     "morph": "compound = sugandha+kusuma+cchavi; m.acc.sg"
+    }
+   ],
+   "question": "What blissful nature and radiant appearance characterize the syllable i?",
+   "premises": [
+    "The syllable i is described.",
+    "It is supreme bliss.",
+    "It has the splendor of a fragrant flower."
+   ],
+   "inference": "The syllable i is supreme bliss with the splendor of a fragrant flower.",
+   "uncertainties": [],
+   "plain_english": "The syllable i is supreme bliss, with the splendor of a fragrant flower."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant nature",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti+mayam",
+     "gloss": "consisting-of-power",
+     "grounds": "composed of śakti",
+     "morph": "compound = śakti+maya; m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "guru+brahma",
+     "gloss": "guru-brahman",
+     "grounds": "identified with guru and Brahman",
+     "morph": "compound = guru+brahma; m.acc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "identifies syllable with the goddess",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds further identification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What enduring power and identity are attributed to the syllable addressed to the goddess?",
+   "premises": [
+    "The syllable is always consisting of power.",
+    "The syllable is identified as guru and Brahman.",
+    "The syllable is the goddess herself."
+   ],
+   "inference": "The syllable is eternally powerful and identical with guru, Brahman, and the goddess.",
+   "uncertainties": [],
+   "plain_english": "O goddess, it is always consisting of power, and is itself guru and Brahman."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "hari+brahma+ātmakam",
+     "gloss": "consisting-of-hari-brahmā",
+     "grounds": "syllable composed of Hari and Brahmā",
+     "morph": "compound = hari+brahma+ātmaka; n.acc.sg"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "syllable",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guṇa+traya+samanvitam",
+     "gloss": "endowed-with-three-qualities",
+     "grounds": "possessing the three guṇas",
+     "morph": "compound = guṇa+traya+samanvita; n.acc.sg"
+    }
+   ],
+   "question": "What divine composition and qualitative nature define the described syllable?",
+   "premises": [
+    "The syllable consists of Hari and Brahmā.",
+    "The syllable is endowed with the three qualities.",
+    "These attributes characterize the same syllable."
+   ],
+   "inference": "The syllable embodies Hari and Brahmā and is endowed with the three qualities.",
+   "uncertainties": [],
+   "plain_english": "The syllable consists of Hari and Brahmā and is endowed with the three qualities."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "īkāram",
+     "gloss": "ī-syllable",
+     "grounds": "specific syllable being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parama+īśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "compound = parama+īśānī; f.voc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "identifies syllable with the goddess",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parama+kuṇḍalī",
+     "gloss": "supreme-kuṇḍalinī",
+     "grounds": "identifies syllable as supreme Kuṇḍalinī",
+     "morph": "compound = parama+kuṇḍalī; f.nom.sg"
+    }
+   ],
+   "question": "How is the syllable ī identified with the supreme Kuṇḍalinī?",
+   "premises": [
+    "The syllable ī is addressed to the supreme goddess.",
+    "The syllable is the goddess herself.",
+    "The syllable is identified as the supreme Kuṇḍalinī."
+   ],
+   "inference": "The syllable ī is herself the supreme Kuṇḍalinī.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, the syllable ī is herself the supreme Kuṇḍalinī."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "pañca+deva+mayam",
+     "gloss": "consisting-of-five-deities",
+     "grounds": "syllable composed of five deities",
+     "morph": "compound = pañca+deva+maya; n.acc.sg"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "syllable",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīta+vidyut+latā+ākṛtim",
+     "gloss": "form-of-yellow-lightning-creeper",
+     "grounds": "visual form of the syllable",
+     "morph": "compound = pīta+vidyut+latā+ākṛti; n.acc.sg"
+    }
+   ],
+   "question": "What divine composition and luminous form characterize the described syllable?",
+   "premises": [
+    "The syllable consists of five deities.",
+    "The syllable has a distinct visual form.",
+    "Its form resembles a yellow lightning creeper."
+   ],
+   "inference": "The syllable consists of five deities and appears like a yellow lightning creeper.",
+   "uncertainties": [],
+   "plain_english": "The syllable consists of five deities and has the form of a yellow lightning creeper."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "ukāram",
+     "gloss": "u-syllable",
+     "grounds": "specific syllable being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parama+īśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "compound = parama+īśānī; f.voc.sg"
+    },
+    {
+     "surface": "tāra",
+     "gloss": "tārā",
+     "grounds": "identified as Tārā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍalīnī",
+     "gloss": "kuṇḍalinī",
+     "grounds": "identified as Kuṇḍalinī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "identifies syllable with the goddess",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the syllable u identified with Tārā and Kuṇḍalinī?",
+   "premises": [
+    "The syllable u is addressed to the supreme goddess.",
+    "The syllable is identified as Tārā.",
+    "The syllable is herself Kuṇḍalinī."
+   ],
+   "inference": "The syllable u is herself Tārā and Kuṇḍalinī.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, the syllable u is herself Tārā and Kuṇḍalinī."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "pañca+prāṇa+mayam",
+     "gloss": "consisting-of-five-vital-breaths",
+     "grounds": "syllable composed of five prāṇas",
+     "morph": "compound = pañca+prāṇa+maya; n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "catur+varga+pradāyakam",
+     "gloss": "bestowing-four-aims",
+     "grounds": "grants the four aims of life",
+     "morph": "compound = catur+varga+pradāyaka; n.acc.sg"
+    }
+   ],
+   "question": "What vital composition and life-goal bestowal are attributed to the described syllable?",
+   "premises": [
+    "The syllable consists of the five vital breaths.",
+    "The syllable bestows the four aims of life.",
+    "These attributes belong to the same syllable."
+   ],
+   "inference": "The syllable composed of five vital breaths bestows the four aims of life.",
+   "uncertainties": [],
+   "plain_english": "O goddess, it consists of the five vital breaths and bestows the four aims of life."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "śaṅkha+kunda+sama+ākāram",
+     "gloss": "appearance-like-conch-jasmine",
+     "grounds": "visual likeness to conch and jasmine",
+     "morph": "compound = śaṅkha+kunda+sama+ākāra; n.acc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "identifies syllable with the goddess",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parama+kuṇḍalī",
+     "gloss": "supreme-kuṇḍalinī",
+     "grounds": "identifies syllable as supreme Kuṇḍalinī",
+     "morph": "compound = parama+kuṇḍalī; f.nom.sg"
+    }
+   ],
+   "question": "What appearance and identity are ascribed to the supreme Kuṇḍalinī syllable?",
+   "premises": [
+    "The syllable resembles conch and jasmine in appearance.",
+    "The syllable is the goddess herself.",
+    "The syllable is identified as the supreme Kuṇḍalinī."
+   ],
+   "inference": "The supreme Kuṇḍalinī syllable appears like conch and jasmine.",
+   "uncertainties": [],
+   "plain_english": "It has the appearance of conch and jasmine and is herself the supreme Kuṇḍalinī."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "pañca+prāṇa+yutam",
+     "gloss": "endowed-with-five-vital-breaths",
+     "grounds": "syllable endowed with five prāṇas",
+     "morph": "compound = pañca+prāṇa+yuta; n.acc.sg"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "syllable",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds another attribute",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+guṇa+ātmakam",
+     "gloss": "consisting-of-three-qualities",
+     "grounds": "composed of the three guṇas",
+     "morph": "compound = tri+guṇa+ātmaka; n.acc.sg"
+    }
+   ],
+   "question": "What vital and qualitative constituents are present in the described syllable?",
+   "premises": [
+    "The syllable is endowed with the five vital breaths.",
+    "The syllable likewise consists of the three qualities.",
+    "Both constituents characterize the same syllable."
+   ],
+   "inference": "The syllable contains the five vital breaths and the three qualities.",
+   "uncertainties": [],
+   "plain_english": "The syllable is endowed with the five vital breaths and likewise consists of the three qualities."
+  }
+ ]
+}

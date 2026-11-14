@@ -3,29 +3,34 @@
  "verse": 346,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "anantādyās",
+   "morph": "m.nom.pl ananta+ādi",
+   "grounds": "compound: ananta+beginning-with; final s from sandhi"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "colophon marker"
+   "grounds": "connective adverb"
   },
   {
-   "lemma": "śrībhūtaśuddhitantre",
-   "morph": "n.loc.sg",
-   "grounds": "compound: śrī+bhūtaśuddhi+tantra; text title"
+   "lemma": "nāgāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "serpent deities"
   },
   {
-   "lemma": "harapārvatīsaṃvāde",
-   "morph": "m.loc.sg",
-   "grounds": "compound: hara+pārvatī+saṃvāda; dialogue frame"
+   "lemma": "sarpā",
+   "morph": "m.nom.pl",
+   "grounds": "serpent beings"
   },
   {
-   "lemma": "navamaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "chapter number"
+   "lemma": "ye",
+   "morph": "pron.m.nom.pl",
+   "grounds": "relative pronoun"
   },
   {
-   "lemma": "paṭalaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "section of the text"
+   "lemma": "takṣakādayaḥ",
+   "morph": "m.nom.pl takṣaka+ādi",
+   "grounds": "compound: takṣaka+beginning-with"
   }
  ]
 }
