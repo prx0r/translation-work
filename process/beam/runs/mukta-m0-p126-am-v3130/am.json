@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3130,
- "question": "What sacred object is found on the delightful Madguru mountain?",
+ "question": "What is called divine when established by gods and sage-made when placed by sages?",
  "premises": [
-  "The Madguru mountain is delightful.",
-  "A linga is present there.",
-  "That linga is called Madguru."
+  "gods establish divine liṅga",
+  "sages place sage-made liṅga"
  ],
- "inference": "On the delightful Madguru mountain there is the Madguru linga.",
+ "inference": "divine and sage-made liṅgas have distinct agents",
  "uncertainties": [
-  "madguram may be a name or an attribute of the linga"
+  "overlap"
  ],
- "plain_english": "On the delightful Madguru mountain there is the Madguru linga."
+ "plain_english": "Divine liṅga is established by gods; sage-made is placed by sages."
 }

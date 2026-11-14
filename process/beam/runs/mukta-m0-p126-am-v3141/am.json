@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3141,
- "question": "What prayer is offered to Rudra at that sacred site?",
+ "question": "Is garbha shrine third part desired relative to wall diameter?",
  "premises": [
-  "Rudra is addressed as praiseworthy and spotless.",
-  "The devotee asks Rudra to remove sin.",
-  "The devotee offers obeisance to Rudra."
+  "garbha shrine is third part",
+  "wall diameter is desired measure"
  ],
- "inference": "The devotee prays to the spotless Rudra to remove sin and offers obeisance.",
- "uncertainties": [],
- "plain_english": "O praiseworthy, spotless Rudra, remove my sin; obeisance be to you."
+ "inference": "garbha shrine measure relates to wall diameter",
+ "uncertainties": [
+  "exact ratio"
+ ],
+ "plain_english": "The garbha shrine third part is desired with wall diameter."
 }

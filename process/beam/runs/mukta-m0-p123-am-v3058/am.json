@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3058,
- "question": "Which mountain is situated in the southeast direction according to this sacred geography?",
+ "question": "What parts are left above and behind in this arrangement?",
  "premises": [
-  "The direction specified is southeast.",
-  "A mountain is located there.",
-  "That mountain is named Gandhamādana."
+  "a fourth part is named",
+  "above that is named",
+  "a two-part is left behind"
  ],
- "inference": "The mountain Gandhamādana is located in the southeast.",
- "uncertainties": [],
- "plain_english": "O great goddess, in the southeast is the mountain Gandhamādana."
+ "inference": "The arrangement leaves a two-part behind after taking a fourth part above.",
+ "uncertainties": [
+  "the spatial relation is compressed"
+ ],
+ "plain_english": "A fourth part is taken above, and a two-part is left behind."
 }

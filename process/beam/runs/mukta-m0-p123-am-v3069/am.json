@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3069,
- "question": "Where is the next sacred platform located relative to that site?",
+ "question": "What numbers are assigned to nāgara and drāmiḍa?",
  "premises": [
-  "The reference point is that place.",
-  "The direction is northeast.",
-  "A ground platform is located there."
+  "nāgara has three-three numbers",
+  "drāmiḍa has nine number"
  ],
- "inference": "A sacred ground platform lies in the northeast part of that site.",
- "uncertainties": [],
- "plain_english": "O great goddess, in its northeast part, on a ground platform."
+ "inference": "Nāgara is assigned three-three numbers and drāmiḍa nine.",
+ "uncertainties": [
+  "the exact numerical scheme is not expanded"
+ ],
+ "plain_english": "Nāgara has three-three numbers and drāmiḍa has nine."
 }

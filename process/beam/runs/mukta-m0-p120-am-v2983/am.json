@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2983,
- "question": "What supportive role and temporal knowledge define the deity?",
+ "question": "How is channel-house width stated for a two-floor nagara temple?",
  "premises": [
-  "The deity is addressed as a companion.",
-  "The deity knows the time of action.",
-  "Obeisance is offered to these aspects."
+  "nagara style has two floors",
+  "channel-house width is stated"
  ],
- "inference": "The deity is honored as a supportive companion who knows the proper time for action.",
- "uncertainties": [],
- "plain_english": "Obeisance to the companion; obeisance to the knower of the time of action."
+ "inference": "A two-floor nagara temple has a stated channel-house width.",
+ "uncertainties": [
+  "exact width value remains unclear"
+ ],
+ "plain_english": "For a two-floor nagara temple, the channel-house width is stated."
 }

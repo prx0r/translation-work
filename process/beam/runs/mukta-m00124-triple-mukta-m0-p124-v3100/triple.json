@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "etatsapta",
+     "gloss": "this-seven",
+     "grounds": "fused pronoun etat plus numeral sapta",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle of pravac",
+     "morph": "participle.nom.sg.n"
+    },
+    {
+     "surface": "ekaviṃśatisaṃyutam",
+     "gloss": "twenty-one-joined",
+     "grounds": "compound of numeral ekaviṃśati and participle saṃyuta",
+     "morph": "compound"
+    }
+   ],
+   "question": "What total number of earths is proclaimed when the sevenfold set is joined with twenty-one?",
+   "premises": [
+    "The sevenfold earth is proclaimed.",
+    "It is joined with twenty-one.",
+    "The resulting count is twenty-eight."
+   ],
+   "inference": "Therefore twenty-eight earths are proclaimed.",
+   "uncertainties": [
+    "The exact referent of 'this seven' depends on the preceding verse."
+   ],
+   "plain_english": "This seven is proclaimed, joined with twenty-one."
+  }
+ ]
+}

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3127,
- "question": "What is the extent of the sacred area below in Lauhitya?",
+ "question": "Can a temple be derived from a liṅga or a liṅga from a temple?",
  "premises": [
-  "A location below in Lauhitya is specified.",
-  "Its extent is measured in bow-lengths.",
-  "The measure is twenty-two bow-lengths."
+  "temple and liṅga are mutually derived",
+  "either direction is possible"
  ],
- "inference": "The area below in Lauhitya extends for twenty-two bow-lengths.",
- "uncertainties": [],
- "plain_english": "And indeed below in the Lauhitya it extends for twenty-two bow-lengths."
+ "inference": "temple and liṅga stand in reciprocal relation",
+ "uncertainties": [
+  "exact relation"
+ ],
+ "plain_english": "A temple may come from a liṅga, or a liṅga from a temple."
 }

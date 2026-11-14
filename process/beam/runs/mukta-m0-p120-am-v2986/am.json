@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2986,
- "question": "What contrasting qualities of tranquility and fierce splendor characterize the deity?",
+ "question": "How do seven, three, and eleven parts relate to four, five, and six parts?",
  "premises": [
-  "The deity possesses a tranquil self.",
-  "The deity is identified with fire.",
-  "The deity possesses fierce splendor."
+  "seven, three, and eleven parts occur",
+  "four, five, and six parts also occur"
  ],
- "inference": "The deity unites inner tranquility with the fierce splendor of fire.",
- "uncertainties": [],
- "plain_english": "Obeisance to the one of tranquil self; obeisance to fire; obeisance to the one of fierce splendor."
+ "inference": "The verse pairs seven-three-eleven parts with four-five-six parts.",
+ "uncertainties": [
+  "exact proportional relation remains unclear"
+ ],
+ "plain_english": "Seven, three, and eleven parts are paired with four, five, and six parts."
 }

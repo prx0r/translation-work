@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3144,
- "question": "What destination is attained by one who dies in those conditions?",
+ "question": "Should a mixed pair-portion be made if a pair exists?",
  "premises": [
-  "The person is freed from all sins.",
-  "Brahma has an abode.",
-  "The freed person would go to that abode."
+  "pair implies pair-portion",
+  "mixed pair-portion should not be made"
  ],
- "inference": "One freed from all sins would go to the abode of Brahma.",
- "uncertainties": [],
- "plain_english": "Freed from all sins, he would go to the abode of Brahma."
+ "inference": "avoid mixed pair-portion in paired case",
+ "uncertainties": [
+  "exact mixing"
+ ],
+ "plain_english": "If a pair exists, a pair-portion should be; do not make it mixed."
 }

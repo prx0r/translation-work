@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3054,
- "question": "Which sacred river is located to the east of Kāmākhyā?",
+ "question": "Which part-divisions are used for the drāmiḍa linga measurements?",
  "premises": [
-  "The location is east of Kāmākhyā.",
-  "A river named Kṣīrodā is there.",
-  "That river is described as flowing."
+  "nine parts are named",
+  "a ten-part is named",
+  "eleven divisions are named"
  ],
- "inference": "The flowing river Kṣīrodā lies in the eastern part of Kāmākhyā.",
- "uncertainties": [],
- "plain_english": "To the east of Kāmākhyā is the flowing river called Kṣīrodā."
+ "inference": "The verse lists nine, ten, and eleven part-divisions for the measurement.",
+ "uncertainties": [
+  "their exact application is not stated here"
+ ],
+ "plain_english": "The measurement uses nine parts, a ten-part, and eleven divisions."
 }

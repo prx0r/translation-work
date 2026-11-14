@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3149,
- "question": "What auspicious timing is specified for the observance at that location?",
+ "question": "Is temple middle desired, and likewise in the west?",
  "premises": [
-  "A new-moon day is considered.",
-  "It may be conjoined with Monday.",
-  "This conjunction defines the auspicious time."
+  "temple middle is desired",
+  "west is also desired thus"
  ],
- "inference": "The auspicious time occurs when the new-moon day falls on a Monday.",
+ "inference": "temple middle and west are both desired",
  "uncertainties": [
-  "the result of this conjunction continues in the next verse"
+  "exact layout"
  ],
- "plain_english": "When indeed the new-moon day is conjoined with a Monday."
+ "plain_english": "Temple middle is desired, and likewise in the west."
 }

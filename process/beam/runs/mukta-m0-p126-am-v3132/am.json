@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3132,
- "question": "What river originates from the eastern part of that sacred area?",
+ "question": "Is a temple desired from the liṅga for all others as well?",
  "premises": [
-  "A river issues forth there.",
-  "It comes from the eastern part.",
-  "It is described as the best of mountain rivers."
+  "temple is desired from liṅga",
+  "this applies to all"
  ],
- "inference": "A supreme mountain river issues forth there from the eastern part.",
- "uncertainties": [],
- "plain_english": "There indeed, from the eastern part, a supreme mountain river issues forth."
+ "inference": "temple derives from liṅga for all",
+ "uncertainties": [
+  "scope"
+ ],
+ "plain_english": "For all others too, a temple is desired from the liṅga."
 }

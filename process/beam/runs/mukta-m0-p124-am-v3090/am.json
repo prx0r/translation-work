@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p124",
  "verse": 3090,
- "question": "Which qualities of greatness, universal honor, and whiteness are attributed to the deity in obeisance?",
+ "question": "Where may kāma's abode be placed in relation to viṣṇu or elsewhere?",
  "premises": [
-  "The deity is addressed as great-souled.",
-  "The deity is addressed as honored by all.",
-  "The deity is addressed as white."
+  "kāma-abode is named",
+  "as-viṣṇu is named",
+  "elsewhere-place is named"
  ],
- "inference": "The deity is honored as magnanimous, universally revered, and pure.",
- "uncertainties": [],
- "plain_english": "Obeisance to the great-souled one; obeisance to the one honored by all; obeisance to the white one."
+ "inference": "It may be placed as viṣṇu's or elsewhere by place.",
+ "uncertainties": [
+  "selection rule is not stated"
+ ],
+ "plain_english": "Kāma's abode may be as viṣṇu's, or elsewhere by place."
 }

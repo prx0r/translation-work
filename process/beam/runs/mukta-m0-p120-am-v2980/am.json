@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p120",
  "verse": 2980,
- "question": "Which divine identities and features are honored in this salutation?",
+ "question": "How is place determination made with three, four, and five measures of pigeons?",
  "premises": [
-  "The deity is addressed as having a great face.",
-  "The deity is identified as Viṣvaksena.",
-  "The deity is identified as Hari."
+  "pigeon measures are three, four, and five",
+  "place determination follows them"
  ],
- "inference": "The salutation honors a great-faced deity identified with Viṣvaksena and Hari.",
- "uncertainties": [],
- "plain_english": "Obeisance to the one with a great face; obeisance to Viṣvaksena; obeisance to Hari."
+ "inference": "Place determination uses three, four, and five pigeon measures.",
+ "uncertainties": [
+  "meaning of pigeon measure remains unclear"
+ ],
+ "plain_english": "Place determination is made with three, four, and five pigeon measures."
 }

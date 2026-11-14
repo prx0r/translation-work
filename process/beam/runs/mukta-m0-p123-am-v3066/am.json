@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3066,
- "question": "Where on the shore of the Lauhita ocean is the next sacred site located?",
+ "question": "Where is the cowrie suitable among nāgara vesara and kāliṅga?",
  "premises": [
-  "The site is on the shore of the Lauhita ocean.",
-  "The direction is south.",
-  "The goddess is addressed as supreme."
+  "nāgara vesara and kāliṅga are named",
+  "suitability is named",
+  "cowrie is named"
  ],
- "inference": "The next sacred site lies on the southern shore of the Lauhita ocean.",
- "uncertainties": [],
- "plain_english": "O supreme goddess, on the southern shore of the Lauhita ocean."
+ "inference": "The cowrie is suitable in the named nāgara, vesara, and kāliṅga contexts.",
+ "uncertainties": [
+  "the exact suitability rule is not expanded"
+ ],
+ "plain_english": "The cowrie is suitable in nāgara, vesara, and kāliṅga contexts."
 }

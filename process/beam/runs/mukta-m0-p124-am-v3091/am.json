@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p124",
  "verse": 3091,
- "question": "What qualities of triple whiteness, accomplishment, and purity are affirmed in obeisance to the deity?",
+ "question": "What is the placement rule for previously named gods and goddesses?",
  "premises": [
-  "The deity is addressed as thrice white.",
-  "The deity is addressed as accomplished.",
-  "The deity is addressed as pure."
+  "previously-said is named",
+  "gods is named",
+  "goddesses is named"
  ],
- "inference": "The deity is honored as supremely pure and fully accomplished.",
- "uncertainties": [],
- "plain_english": "Obeisance to the thrice-white one; obeisance to the accomplished one; obeisance to the pure one."
+ "inference": "They are to be placed in all places.",
+ "uncertainties": [
+  "exact all-places distribution is not specified"
+ ],
+ "plain_english": "For previously named gods and goddesses, the placement is all-places."
 }

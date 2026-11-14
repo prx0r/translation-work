@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3062,
- "question": "Which mountain is located to the south of that previously mentioned mountain?",
+ "question": "What worship-part and above-part measures are named here?",
  "premises": [
-  "The reference point is that mountain.",
-  "The direction is south.",
-  "A mountain named Nivedha is located there."
+  "a twelve-part worship-part is named",
+  "a sixteen-two-part above measure is named"
  ],
- "inference": "The mountain named Nivedha lies to the south of that mountain.",
- "uncertainties": [],
- "plain_english": "To the south of that mountain is a mountain named Nivedha."
+ "inference": "The verse names a twelve-part worship-part and a sixteen-two-part above measure.",
+ "uncertainties": [
+  "the relation between the two measures is compressed"
+ ],
+ "plain_english": "A twelve-part worship-part and a sixteen-two-part above measure are named."
 }

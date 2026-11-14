@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3143,
- "question": "In what locations may a person die and still receive the stated merit?",
+ "question": "What unpaired shrine is measured by pedestal diameter?",
  "premises": [
-  "Death may occur in water.",
-  "Death may occur in the atmosphere.",
-  "Death may occur on land."
+  "pedestal diameter measures shrine",
+  "shrine is unpaired"
  ],
- "inference": "The merit applies regardless of whether one dies in water, air, or on land.",
- "uncertainties": [],
- "plain_english": "Whether one dies in water, in the atmosphere, or on land."
+ "inference": "pedestal diameter governs unpaired shrine",
+ "uncertainties": [
+  "compound meaning"
+ ],
+ "plain_english": "By pedestal diameter, the unpaired palace-sthana-nālī shrine is measured."
 }

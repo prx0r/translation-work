@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p120",
  "verse": 3000,
- "question": "What should one write after drawing a square and mantra syllables?",
+ "question": "What are the doubled diameter-height proportions for Kamada and related temples in the city?",
  "premises": [
-  "A square is drawn first.",
-  "Mantra syllables are drawn.",
-  "Six items are written."
+  "diameter and height are doubled",
+  "Kamada and related temples",
+  "located in the city"
  ],
- "inference": "The verse prescribes drawing a square and mantra syllables then writing six.",
+ "inference": "temple proportions follow a doubled diameter-height rule",
  "uncertainties": [
-  "The exact referent of six is unspecified."
+  "exact parsing of the fused phrase remains uncertain"
  ],
- "plain_english": "Having drawn a square and the mantra syllables, one should write six."
+ "plain_english": "In the city, Kamada and the rest have heights double their diameters."
 }
