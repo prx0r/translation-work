@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1287,
- "question": "What transformation does Mahākāla Bhairava undergo in this account?",
+ "question": "What red items are placed left and right in order?",
  "premises": [
-  "Mahākāla Bhairava is the subject.",
-  "He also became the thunderbolt-holder."
+  "raktapuṣpaṃ raktavastraṃ names red items",
+  "vāmadakṣiṇayoḥ kramāt states left and right in order"
  ],
- "inference": "Mahākāla Bhairava assumes the form of the thunderbolt-holder.",
- "uncertainties": [],
- "plain_english": "Mahākāla Bhairava also became the thunderbolt-holder."
+ "inference": "Red flower and red cloth are placed left and right in order.",
+ "uncertainties": [
+  "whether both items are paired to both sides"
+ ],
+ "plain_english": "Red flower and red cloth are placed left and right in order."
 }

@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1286,
- "question": "What supreme power is attributed to the mouth or face of the addressed deity?",
+ "question": "What diagram is drawn after the aśoka tree?",
  "premises": [
-  "Your mouth is of the form of time.",
-  "It is all-restraining and supreme."
+  "aśokatarum ālikhya states drawing aśoka tree",
+  "trikoṇaṃ maṇḍalaṃ likhet states drawing three-cornered diagram"
  ],
- "inference": "The deity’s mouth embodies supreme, universal restraining power as time.",
- "uncertainties": [],
- "plain_english": "Your mouth is of the form of time, all-restraining and supreme."
+ "inference": "After drawing the aśoka tree, one draws a three-cornered diagram.",
+ "uncertainties": [
+  "whether ālikhya and likhet are sequential or alternative"
+ ],
+ "plain_english": "Having drawn the aśoka tree, draw a three-cornered diagram."
 }

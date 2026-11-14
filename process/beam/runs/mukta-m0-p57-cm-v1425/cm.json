@@ -3,24 +3,29 @@
  "verse": 1425,
  "rows": [
   {
-   "lemma": "lauhityamadhye",
-   "morph": "compound loc.sg.nt",
-   "grounds": "locative compound indicating location at the middle of the Lauhitya"
-  },
-  {
-   "lemma": "deveśi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address to the goddess"
-  },
-  {
-   "lemma": "dhanustriṃśat",
-   "morph": "compound f.nom.sg",
-   "grounds": "compound numeral expressing a measure of thirty bows"
-  },
-  {
-   "lemma": "pramāṇataḥ",
+   "lemma": "atha",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating extent or measurement"
+   "grounds": "introductory particle marking transition to the next topic"
+  },
+  {
+   "lemma": "ātaḥ",
+   "morph": "(indecl.)",
+   "grounds": "adverb indicating consequence from the preceding description"
+  },
+  {
+   "lemma": "saṃpravakṣyāmi",
+   "morph": "1.sg.act-fut + root pravac",
+   "grounds": "first-person singular active future of saṃ-pra-vac, announcing forthcoming instruction"
+  },
+  {
+   "lemma": "śaktikūṭasya",
+   "morph": "gen.sg.n",
+   "grounds": "genitive singular of śaktikūṭa, the third mantra division"
+  },
+  {
+   "lemma": "sādhanam",
+   "morph": "acc.sg.n",
+   "grounds": "accusative singular neuter, object of saṃpravakṣyāmi"
   }
  ]
 }

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative verb of worship",
+     "morph": "3.sg.act-opt root pūj"
+    },
+    {
+     "surface": "tripurāṃ",
+     "gloss": "tripura",
+     "grounds": "accusative object of worship",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative object of worship",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "offer",
+     "grounds": "optative verb of offering",
+     "morph": "3.sg.act-opt root hu"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "fire before which offering occurs",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sammukhe",
+     "gloss": "before",
+     "grounds": "locative position before fire",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Should Tripura goddess be worshipped while offerings are made before fire?",
+   "premises": [
+    "Tripura goddess receives worship",
+    "offerings are made before fire",
+    "ritual combines worship and oblation"
+   ],
+   "inference": "The verse prescribes simultaneous worship of Tripura and fire offering.",
+   "uncertainties": [
+    "exact ritual sequence unclear",
+    "agni case unresolved"
+   ],
+   "plain_english": "Worship Tripura, the goddess, and offer oblations before the fire."
+  }
+ ]
+}

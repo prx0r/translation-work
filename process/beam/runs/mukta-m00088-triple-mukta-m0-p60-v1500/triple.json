@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "dhāraṇīyaṃ prayatnena",
+     "gloss": "to-be-worn-carefully",
+     "grounds": "dhāraṇīyaṃ is a gerundive of dhṛ; prayatnena is instrumental of prayatna",
+     "morph": "gerundive.neu.acc.sg; noun.m.inst.sg"
+    },
+    {
+     "surface": "gopanīyaṃ punaḥ punaḥ",
+     "gloss": "to-be-concealed-again-again",
+     "grounds": "gopanīyaṃ is a gerundive of gup; punaḥ is repeated for emphasis",
+     "morph": "gerundive.neu.acc.sg; indecl. (×2)"
+    }
+   ],
+   "question": "How must the empowered object be handled after its use?",
+   "premises": [
+    "The object is to be worn carefully.",
+    "The object is to be concealed repeatedly.",
+    "Handling follows the prior ritual effects."
+   ],
+   "inference": "Careful wearing and repeated concealment are prescribed.",
+   "uncertainties": [
+    "The exact referent of the object is not stated in this verse."
+   ],
+   "plain_english": "It should be worn carefully and concealed again and again."
+  }
+ ]
+}

@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1299,
- "question": "How are the sacred seats of Jālandhara and Pūrṇa located directionally?",
+ "question": "What is given after honoring brahmins?",
  "premises": [
-  "Jālandhara is located in the west.",
-  "The Pūrṇa seat is located in the east."
+  "brāhmaṇān api saṃpūjya states honoring brahmins",
+  "pradadyād gurudakṣiṇām states giving teacher offering"
  ],
- "inference": "These two sacred seats are positioned at opposite directional points.",
- "uncertainties": [],
- "plain_english": "Jālandhara is in the west, and the Pūrṇa seat is in the east."
+ "inference": "After honoring brahmins, one gives the teacher offering.",
+ "uncertainties": [
+  "whether gurudakṣiṇām is fee or gift"
+ ],
+ "plain_english": "Having honored brahmins, give the teacher offering."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1364,
- "question": "Which yogas must be avoided on the seventh lunar day?",
+ "question": "Who creates the three worlds by self-yoga form?",
  "premises": [
-  "It is the seventh lunar day.",
-  "The yogas Varīyān and Parigha are present.",
-  "These yogas must be avoided."
+  "ātmayogasvarūpeṇa means by self yoga form",
+  "trailokyaṃ means three worlds",
+  "racayatyasau means creates"
  ],
- "inference": "One must avoid Varīyān and Parigha on the seventh lunar day.",
- "uncertainties": [],
- "plain_english": "On the seventh lunar day, one should avoid Varīyān and Parigha."
+ "inference": "He creates the three worlds by self-yoga form.",
+ "uncertainties": [
+  "subject asau"
+ ],
+ "plain_english": "By self-yoga form, he creates the three worlds."
 }

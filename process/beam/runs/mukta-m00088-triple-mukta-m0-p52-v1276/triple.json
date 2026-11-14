@@ -1,0 +1,1058 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1276,
+   "rows": [
+    {
+     "surface": "śaktibhinnaṃ",
+     "gloss": "power-divided",
+     "grounds": "legacy hint śakti+bhinnaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bindunādakalāḍhyaṃ",
+     "gloss": "rich-in-bindu-nāda-kalā",
+     "grounds": "legacy hint bindu+nāda+kalā+āḍhyaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-born",
+     "grounds": "legacy hint vāgbhavaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "legacy hint idam",
+     "morph": "pron.acc.sg.n"
+    }
+   ],
+   "question": "What is the first kūṭa of the mantra when śakti is divided?",
+   "premises": [
+    "śaktibhinnaṃ names the divided power",
+    "bindunādakalāḍhyaṃ describes its fullness",
+    "vāgbhavaṃ tu idam identifies this kūṭa"
+   ],
+   "inference": "The vāgbhava kūṭa is the śakti-divided form rich in bindu, nāda, and kalā.",
+   "uncertainties": [
+    "exact sandhi of bindunādakalāḍhyaṃ not expanded"
+   ],
+   "plain_english": "This vāgbhava kūṭa is divided by śakti and rich in bindu, nāda, and kalā."
+  },
+  {
+   "verse": 1277,
+   "rows": [
+    {
+     "surface": "bindunādakalākrāntaṃ",
+     "gloss": "overcome-by-bindu-nāda-kalā",
+     "grounds": "legacy hint bindu+nāda+kalā+ākrāntaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kāmarājam",
+     "gloss": "kāmarāja",
+     "grounds": "legacy hint kāmarājam",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "legacy hint idam",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "legacy hint mahat",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is the second kūṭa when bindu, nāda, and kalā pervade it?",
+   "premises": [
+    "bindunādakalākrāntaṃ marks pervasion",
+    "kāmarājam idaṃ mahat names the great kūṭa"
+   ],
+   "inference": "The kāmarāja kūṭa is the great form pervaded by bindu, nāda, and kalā.",
+   "uncertainties": [
+    "gender agreement of mahat with kāmarājam not resolved"
+   ],
+   "plain_english": "This great kāmarāja kūṭa is pervaded by bindu, nāda, and kalā."
+  },
+  {
+   "verse": 1278,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "legacy hint anena",
+     "morph": "pron.inst.sg.n"
+    },
+    {
+     "surface": "śaramantreṇa",
+     "gloss": "arrow-mantra",
+     "grounds": "legacy hint śara+mantreṇa",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "rakṣaṇaṃ",
+     "gloss": "protection",
+     "grounds": "legacy hint rakṣaṇaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "armor",
+     "grounds": "legacy hint kavacena",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is protection accomplished with the arrow mantra?",
+   "premises": [
+    "anena śaramantreṇa names the means",
+    "rakṣaṇaṃ states the aim",
+    "kavacena tu adds armor"
+   ],
+   "inference": "Protection is done by the arrow mantra and armor.",
+   "uncertainties": [
+    "exact relation of kavacena to rakṣaṇaṃ not specified"
+   ],
+   "plain_english": "By this arrow mantra, protection is made with armor."
+  },
+  {
+   "verse": 1279,
+   "rows": [
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "legacy hint baddhvā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "triśūlamudrāntu",
+     "gloss": "trident-mudrā",
+     "grounds": "legacy hint triśūla+mudrām",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmayet",
+     "gloss": "should-revolve",
+     "grounds": "legacy hint bhrāmayet",
+     "morph": "verb.3.sg.act.opt.+bhram"
+    },
+    {
+     "surface": "madanopari",
+     "gloss": "over-madana",
+     "grounds": "legacy hint madana+upari",
+     "morph": "adv"
+    }
+   ],
+   "question": "What mudrā action is performed over Madana?",
+   "premises": [
+    "baddhvā triśūlamudrāntu tu names the bound mudrā",
+    "bhrāmayet states revolving",
+    "madanopari gives the location"
+   ],
+   "inference": "One binds the trident mudrā and revolves it over Madana.",
+   "uncertainties": [
+    "whether baddhvā modifies mudrā or practitioner"
+   ],
+   "plain_english": "Having bound the trident mudrā, one revolves it over Madana."
+  },
+  {
+   "verse": 1280,
+   "rows": [
+    {
+     "surface": "prasārayet",
+     "gloss": "should-extend",
+     "grounds": "legacy hint prasārayet",
+     "morph": "verb.3.sg.act.opt.+prasār"
+    },
+    {
+     "surface": "triśūlasya",
+     "gloss": "of-trident",
+     "grounds": "legacy hint triśūlasya",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "mudreyaṃ",
+     "gloss": "this-mudrā",
+     "grounds": "legacy hint mudrā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "legacy hint iyam",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "parikīrttitā",
+     "gloss": "declared",
+     "grounds": "legacy hint parikīrttitā",
+     "morph": "participle"
+    }
+   ],
+   "question": "What is declared about the trident mudrā?",
+   "premises": [
+    "prasārayet states extension",
+    "triśūlasya mudreyaṃ iyam names the mudrā",
+    "parikīrttitā marks declaration"
+   ],
+   "inference": "This trident mudrā is declared by extending it.",
+   "uncertainties": [
+    "exact syntactic role of mudreyaṃ"
+   ],
+   "plain_english": "This trident mudrā is declared by extending it."
+  },
+  {
+   "verse": 1281,
+   "rows": [
+    {
+     "surface": "uddhared",
+     "gloss": "should-raise",
+     "grounds": "legacy hint uddharet",
+     "morph": "verb.3.sg.act.opt.+uddhṛ"
+    },
+    {
+     "surface": "astramantreṇa",
+     "gloss": "weapon-mantra",
+     "grounds": "legacy hint astra+mantreṇa",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "by-heart",
+     "grounds": "legacy hint hṛdayena",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "vilopayet",
+     "gloss": "should-remove",
+     "grounds": "legacy hint vilopayet",
+     "morph": "verb.3.sg.act.opt.+vilup"
+    }
+   ],
+   "question": "How are the weapon mantra and heart used?",
+   "premises": [
+    "uddhared astramantreṇa states raising by weapon mantra",
+    "hṛdayena vilopayet states removing by heart"
+   ],
+   "inference": "One raises with the weapon mantra and removes with the heart.",
+   "uncertainties": [
+    "object of uddhared and vilopayet not stated"
+   ],
+   "plain_english": "Raise with the weapon mantra and remove with the heart."
+  },
+  {
+   "verse": 1282,
+   "rows": [
+    {
+     "surface": "nityapūjāṃ",
+     "gloss": "daily-worship",
+     "grounds": "legacy hint nitya+pūjāṃ",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "legacy hint vidhāya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "legacy hint niśi",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "legacy hint saṃsthāpya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vidyayā",
+     "gloss": "by-mantra",
+     "grounds": "legacy hint vidyayā",
+     "morph": "n.inst.sg.f"
+    }
+   ],
+   "question": "When is daily worship established by mantra?",
+   "premises": [
+    "nityapūjāṃ vidhāya eva states daily worship performed",
+    "niśi saṃsthāpya vidyayā states establishment at night by mantra"
+   ],
+   "inference": "Daily worship is performed and established at night by mantra.",
+   "uncertainties": [
+    "whether vidyayā modifies saṃsthāpya only"
+   ],
+   "plain_english": "Having performed daily worship, establish it at night by mantra."
+  },
+  {
+   "verse": 1283,
+   "rows": [
+    {
+     "surface": "sadyo'dhivāsanaṃ",
+     "gloss": "immediate-consecration",
+     "grounds": "legacy hint sadyaḥ+adhivāsanaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣapūjārthasiddhaye",
+     "gloss": "for-year-worship-purpose-fulfillment",
+     "grounds": "legacy hint varṣa+pūjā+artha+siddhaye",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "What alternative consecration serves yearly worship fulfillment?",
+   "premises": [
+    "sadyo'dhivāsanaṃ vā api gives immediate consecration alternative",
+    "varṣapūjārthasiddhaye states purpose"
+   ],
+   "inference": "Immediate consecration also serves fulfillment of yearly worship purpose.",
+   "uncertainties": [
+    "whether sadyaḥ is adverb or compound member"
+   ],
+   "plain_english": "Or immediate consecration also, for fulfillment of yearly worship purpose."
+  },
+  {
+   "verse": 1284,
+   "rows": [
+    {
+     "surface": "navakoṇaṃ",
+     "gloss": "nine-cornered",
+     "grounds": "legacy hint nava+koṇaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "legacy hint vidhāya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sindūreṇa",
+     "gloss": "with-vermilion",
+     "grounds": "legacy hint sindūreṇa",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "mahāprabham",
+     "gloss": "greatly-radiant",
+     "grounds": "legacy hint mahā+prabham",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What diagram is made with vermilion?",
+   "premises": [
+    "navakoṇaṃ vidhāya atha states making nine-cornered",
+    "sindūreṇa mahāprabham states with vermilion radiant"
+   ],
+   "inference": "A nine-cornered, greatly radiant diagram is made with vermilion.",
+   "uncertainties": [
+    "whether mahāprabham modifies diagram or sindūra"
+   ],
+   "plain_english": "Then make a nine-cornered, greatly radiant diagram with vermilion."
+  },
+  {
+   "verse": 1285,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "legacy hint ekaṃ",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "whole",
+     "grounds": "legacy hint sakalaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ramyaṃ",
+     "gloss": "pleasing",
+     "grounds": "legacy hint ramyaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sthāpayed",
+     "gloss": "should-place",
+     "grounds": "legacy hint sthāpayet",
+     "morph": "verb.3.sg.act.opt.+sthā"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "legacy hint deśika+uttamaḥ",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What may the best teacher place?",
+   "premises": [
+    "ekaṃ vā sakalaṃ ramyaṃ gives options",
+    "sthāpayed deśikottamaḥ states placement by best teacher"
+   ],
+   "inference": "The best teacher may place one or the whole pleasing form.",
+   "uncertainties": [
+    "exact object of sthāpayed"
+   ],
+   "plain_english": "The best teacher should place one or the whole pleasing form."
+  },
+  {
+   "verse": 1286,
+   "rows": [
+    {
+     "surface": "aśokatarum",
+     "gloss": "aśoka-tree",
+     "grounds": "legacy hint aśoka+tarum",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "having-drawn",
+     "grounds": "legacy hint ālikhya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "trikoṇaṃ",
+     "gloss": "three-cornered",
+     "grounds": "legacy hint tri+koṇaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "diagram",
+     "grounds": "legacy hint maṇḍalaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-draw",
+     "grounds": "legacy hint likhet",
+     "morph": "verb.3.sg.act.opt.+likh"
+    }
+   ],
+   "question": "What diagram is drawn after the aśoka tree?",
+   "premises": [
+    "aśokatarum ālikhya states drawing aśoka tree",
+    "trikoṇaṃ maṇḍalaṃ likhet states drawing three-cornered diagram"
+   ],
+   "inference": "After drawing the aśoka tree, one draws a three-cornered diagram.",
+   "uncertainties": [
+    "whether ālikhya and likhet are sequential or alternative"
+   ],
+   "plain_english": "Having drawn the aśoka tree, draw a three-cornered diagram."
+  },
+  {
+   "verse": 1287,
+   "rows": [
+    {
+     "surface": "raktapuṣpaṃ",
+     "gloss": "red-flower",
+     "grounds": "legacy hint rakta+puṣpaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "raktavastraṃ",
+     "gloss": "red-cloth",
+     "grounds": "legacy hint rakta+vastraṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vāmadakṣiṇayoḥ",
+     "gloss": "left-and-right",
+     "grounds": "legacy hint vāma+dakṣiṇayoḥ",
+     "morph": "n.loc.du.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint kramāt",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What red items are placed left and right in order?",
+   "premises": [
+    "raktapuṣpaṃ raktavastraṃ names red items",
+    "vāmadakṣiṇayoḥ kramāt states left and right in order"
+   ],
+   "inference": "Red flower and red cloth are placed left and right in order.",
+   "uncertainties": [
+    "whether both items are paired to both sides"
+   ],
+   "plain_english": "Red flower and red cloth are placed left and right in order."
+  },
+  {
+   "verse": 1288,
+   "rows": [
+    {
+     "surface": "vasantasahitaṃ",
+     "gloss": "with-spring",
+     "grounds": "legacy hint vasanta+sahitaṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma",
+     "grounds": "legacy hint kāmaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "legacy hint pūjayet",
+     "morph": "verb.3.sg.act.opt.+pūj"
+    },
+    {
+     "surface": "siddhihetave",
+     "gloss": "for-accomplishment",
+     "grounds": "legacy hint siddhi+hetave",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "Why is Kāma worshipped with spring?",
+   "premises": [
+    "vasantasahitaṃ kāmaṃ pūjayet states worship of Kāma with spring",
+    "siddhihetave states purpose"
+   ],
+   "inference": "Kāma is worshipped with spring for accomplishment.",
+   "uncertainties": [
+    "whether vasanta is attendant or season"
+   ],
+   "plain_english": "Worship Kāma with spring for accomplishment."
+  },
+  {
+   "verse": 1289,
+   "rows": [
+    {
+     "surface": "kāmāya nama",
+     "gloss": "salutation-to-kāma",
+     "grounds": "legacy hint kāmāya nama",
+     "morph": "(mantra phrase)"
+    },
+    {
+     "surface": "alikhya",
+     "gloss": "having-written",
+     "grounds": "legacy hint ālikhya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vidyeyantu",
+     "gloss": "this-mantra",
+     "grounds": "legacy hint vidyā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "legacy hint iyam",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navākṣarī",
+     "gloss": "nine-syllabled",
+     "grounds": "legacy hint nava+akṣarī",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is the nine-syllabled mantra for Kāma?",
+   "premises": [
+    "kāmāya nama gives salutation",
+    "alikhya vidyeyantu iyam tu navākṣarī identifies the mantra"
+   ],
+   "inference": "The nine-syllabled mantra is written with salutation to Kāma.",
+   "uncertainties": [
+    "surface alikhya vs ālikhya not normalized"
+   ],
+   "plain_english": "Write the nine-syllabled mantra: salutation to Kāma."
+  },
+  {
+   "verse": 1290,
+   "rows": [
+    {
+     "surface": "ratyai namaś",
+     "gloss": "salutation-to-rati",
+     "grounds": "legacy hint ratyai namaḥ",
+     "morph": "(mantra phrase)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭavarṇā",
+     "gloss": "eight-lettered",
+     "grounds": "legacy hint aṣṭa+varṇā",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ratividyā",
+     "gloss": "rati-mantra",
+     "grounds": "legacy hint rati+vidyā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "prakīrttitā",
+     "gloss": "declared",
+     "grounds": "legacy hint prakīrttitā",
+     "morph": "participle"
+    }
+   ],
+   "question": "What is declared as the eight-lettered Rati mantra?",
+   "premises": [
+    "ratyai namaś ca gives salutation",
+    "aṣṭavarṇā ratividyā prakīrttitā declares the mantra"
+   ],
+   "inference": "The eight-lettered Rati mantra is declared with salutation to Rati.",
+   "uncertainties": [
+    "ca placement"
+   ],
+   "plain_english": "And salutation to Rati; the eight-lettered Rati mantra is declared."
+  },
+  {
+   "verse": 1291,
+   "rows": [
+    {
+     "surface": "prītiṃ",
+     "gloss": "delight",
+     "grounds": "legacy hint prītiṃ",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "legacy hint vadet",
+     "morph": "verb.3.sg.act.opt.+vad"
+    },
+    {
+     "surface": "ratisthāne",
+     "gloss": "in-rati-place",
+     "grounds": "legacy hint rati+sthāne",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "prītimantro",
+     "gloss": "delight-mantra",
+     "grounds": "legacy hint prīti+mantraḥ",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "'ṣṭavarṇakaḥ",
+     "gloss": "eight-lettered",
+     "grounds": "legacy hint aṣṭa+varṇakaḥ",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What mantra replaces Rati in its place?",
+   "premises": [
+    "prītiṃ vadet ratisthāne states saying delight in Rati's place",
+    "prītimantro 'ṣṭavarṇakaḥ names eight-lettered delight mantra"
+   ],
+   "inference": "In Rati's place one says delight, using the eight-lettered delight mantra.",
+   "uncertainties": [
+    "whether prītiṃ is object of vadet"
+   ],
+   "plain_english": "In Rati's place say delight; the delight mantra is eight-lettered."
+  },
+  {
+   "verse": 1292,
+   "rows": [
+    {
+     "surface": "padmatāmbūlahaste",
+     "gloss": "lotus-betel-hand",
+     "grounds": "legacy hint padma+tāmbūla+haste",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktavarṇavibhūṣite",
+     "gloss": "red-colored-adorned",
+     "grounds": "legacy hint rakta+varṇa+vibhūṣite",
+     "morph": "adj.loc.sg.m"
+    }
+   ],
+   "question": "How is the deity adorned and handed?",
+   "premises": [
+    "padmatāmbūlahaste states lotus and betel in hand",
+    "raktavarṇavibhūṣite states red-colored adorned"
+   ],
+   "inference": "The deity is adorned in red and holds lotus and betel.",
+   "uncertainties": [
+    "whether ca connects to previous verse"
+   ],
+   "plain_english": "With lotus and betel in hand, adorned in red color."
+  },
+  {
+   "verse": 1293,
+   "rows": [
+    {
+     "surface": "vāmadakṣiṇayor",
+     "gloss": "left-and-right",
+     "grounds": "legacy hint vāma+dakṣiṇayoḥ",
+     "morph": "n.loc.du.m"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "legacy hint dhyānaṃ",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kāmadevasya",
+     "gloss": "of-kāmadeva",
+     "grounds": "legacy hint kāmadevasya",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "kīrttitam",
+     "gloss": "declared",
+     "grounds": "legacy hint kīrttitam",
+     "morph": "participle"
+    }
+   ],
+   "question": "What meditation of Kāmadeva is declared?",
+   "premises": [
+    "vāmadakṣiṇayor states left and right",
+    "dhyānaṃ kāmadevasya kīrttitam declares meditation"
+   ],
+   "inference": "The meditation of Kāmadeva is declared for left and right.",
+   "uncertainties": [
+    "whether vāmadakṣiṇayor modifies dhyānaṃ or placement"
+   ],
+   "plain_english": "The meditation of Kāmadeva is declared for left and right."
+  },
+  {
+   "verse": 1294,
+   "rows": [
+    {
+     "surface": "sauvarṇaṃ",
+     "gloss": "golden",
+     "grounds": "legacy hint sauvarṇaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vāmahaste",
+     "gloss": "in-left-hand",
+     "grounds": "legacy hint vāma+haste",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhāpūrṇaghaṭānvitam",
+     "gloss": "with-nectar-filled-pot",
+     "grounds": "legacy hint sudhā+pūrṇa+ghaṭa+anvitam",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What golden object is held in the left hand?",
+   "premises": [
+    "sauvarṇaṃ vāmahaste ca states golden in left hand",
+    "sudhāpūrṇaghaṭānvitam states with nectar-filled pot"
+   ],
+   "inference": "A golden object with a nectar-filled pot is held in the left hand.",
+   "uncertainties": [
+    "whether sauvarṇaṃ modifies ghaṭa"
+   ],
+   "plain_english": "Golden, with a nectar-filled pot in the left hand."
+  },
+  {
+   "verse": 1295,
+   "rows": [
+    {
+     "surface": "sāṅgaṃ",
+     "gloss": "with-limbs",
+     "grounds": "legacy hint sa+aṅgaṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma",
+     "grounds": "legacy hint kāmaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "prapūjyātha",
+     "gloss": "having-worshipped",
+     "grounds": "legacy hint prapūjya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpadīpādi",
+     "gloss": "incense-lamp-etc",
+     "grounds": "legacy hint dhūpa+dīpa+ādi",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "should-show",
+     "grounds": "legacy hint darśayet",
+     "morph": "verb.3.sg.act.opt.+darś"
+    }
+   ],
+   "question": "What is shown after worshipping Kāma with limbs?",
+   "premises": [
+    "sāṅgaṃ kāmaṃ prapūjyātha states worshipping Kāma with limbs",
+    "atha dhūpadīpādi darśayet states showing incense lamp etc"
+   ],
+   "inference": "After worshipping Kāma with limbs, one shows incense, lamp, and so on.",
+   "uncertainties": [
+    "whether prapūjyātha includes atha"
+   ],
+   "plain_english": "Having worshipped Kāma with limbs, then show incense, lamp, and so on."
+  },
+  {
+   "verse": 1296,
+   "rows": [
+    {
+     "surface": "tañ",
+     "gloss": "that",
+     "grounds": "legacy hint tam",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "legacy hint samyak",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjyātha",
+     "gloss": "having-worshipped",
+     "grounds": "legacy hint prapūjya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātripurasundarīm",
+     "gloss": "great-tripurasundarī",
+     "grounds": "legacy hint mahā+tripurasundarīm",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What is worshipped properly before Mahātripurasundarī?",
+   "premises": [
+    "tañ ca samyak prapūjyātha states properly worshipping that",
+    "atha mahātripurasundarīm states then Mahātripurasundarī"
+   ],
+   "inference": "That is properly worshipped, then Mahātripurasundarī.",
+   "uncertainties": [
+    "referent of tañ not stated"
+   ],
+   "plain_english": "Having properly worshipped that, then worship Mahātripurasundarī."
+  },
+  {
+   "verse": 1297,
+   "rows": [
+    {
+     "surface": "saugandhikaiḥ",
+     "gloss": "with-fragrant-flowers",
+     "grounds": "legacy hint saugandhikaiḥ",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "sakāśmīrair",
+     "gloss": "with-saffron",
+     "grounds": "legacy hint sa+kāśmīraiḥ",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "nānāphalarasair",
+     "gloss": "with-various-fruit-juices",
+     "grounds": "legacy hint nānā+phala+rasaiḥ",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint api",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings accompany the worship?",
+   "premises": [
+    "saugandhikaiḥ sakāśmīrair nānāphalarasair api lists offerings"
+   ],
+   "inference": "Fragrant flowers, saffron, and various fruit juices are also offered.",
+   "uncertainties": [
+    "whether these modify pūjā or arccana"
+   ],
+   "plain_english": "With fragrant flowers, saffron, and various fruit juices also."
+  },
+  {
+   "verse": 1298,
+   "rows": [
+    {
+     "surface": "suvāsinīñ",
+     "gloss": "married-woman",
+     "grounds": "legacy hint suvāsinīm",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "legacy hint saṃpūjya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yonimaṇḍalam",
+     "gloss": "yoni-diagram",
+     "grounds": "legacy hint yoni+maṇḍalam",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "arccayet",
+     "gloss": "should-worship",
+     "grounds": "legacy hint arccayet",
+     "morph": "verb.3.sg.act.opt.+arc"
+    }
+   ],
+   "question": "What is worshipped after honoring a married woman?",
+   "premises": [
+    "suvāsinīñ ca saṃpūjya states honoring married woman",
+    "yonimaṇḍalam arccayet states worshipping yoni diagram"
+   ],
+   "inference": "After honoring a married woman, one worships the yoni diagram.",
+   "uncertainties": [
+    "whether suvāsinīñ is object of saṃpūjya"
+   ],
+   "plain_english": "Having honored a married woman, worship the yoni diagram."
+  },
+  {
+   "verse": 1299,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "legacy hint brāhmaṇān",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "legacy hint saṃpūjya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pradadyād",
+     "gloss": "should-give",
+     "grounds": "legacy hint pradadyāt",
+     "morph": "verb.3.sg.act.opt.+pra+dā"
+    },
+    {
+     "surface": "gurudakṣiṇām",
+     "gloss": "teacher-offering",
+     "grounds": "legacy hint guru+dakṣiṇām",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What is given after honoring brahmins?",
+   "premises": [
+    "brāhmaṇān api saṃpūjya states honoring brahmins",
+    "pradadyād gurudakṣiṇām states giving teacher offering"
+   ],
+   "inference": "After honoring brahmins, one gives the teacher offering.",
+   "uncertainties": [
+    "whether gurudakṣiṇām is fee or gift"
+   ],
+   "plain_english": "Having honored brahmins, give the teacher offering."
+  }
+ ]
+}
