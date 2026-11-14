@@ -103,6 +103,15 @@ while true; do
     touch "$LOGDIR/PAUSED"
     log "beam down — PAUSED set (workers drain, no fresh claims)"
   fi
+  # Disk guard (overnight safety): beam drafts thousands of run files; if the
+  # disk is nearly full, stop fresh claims (PAUSED) so nothing corrupts git or
+  # partial writes. Clears automatically once free space recovers.
+  FREE_GB=$(df -Pk . 2>/dev/null | awk 'NR==2{printf "%d", $4/1024/1024}')
+  FREE_GB=${FREE_GB:-999}
+  if [ "$FREE_GB" -lt 2 ]; then
+    touch "$LOGDIR/PAUSED"
+    log "LOW DISK ${FREE_GB}GB free — PAUSED (workers drain, no new claims)"
+  fi
   ensure_proc "tools/continue.sh" bash tools/continue.sh
   ensure_proc "tools/watchdog.sh" bash tools/watchdog.sh
   # Model loop (Ralph): restarts silently-dead LOOP.sh; promise/STOP file govern exit.
