@@ -3,34 +3,39 @@
  "verse": 535,
  "rows": [
   {
-   "lemma": "japāt",
-   "morph": "m.abl.sg",
-   "grounds": "ablative indicating cause"
-  },
-  {
-   "lemma": "koṭi+guṇaṃ",
-   "morph": "koṭi+guṇa (compound, n.acc.sg)",
-   "grounds": "compound indicating magnitude"
-  },
-  {
-   "lemma": "bhadre",
+   "lemma": "mahākāli",
    "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "mantra word or name uttered"
   },
   {
-   "lemma": "sahasā",
+   "lemma": "padaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "identifies uttered element as a word"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating manner"
+   "grounds": "connects utterance elements"
   },
   {
-   "lemma": "labhate",
-   "morph": "3.sg.mid-pres (labh)",
-   "grounds": "verb indicating attainment"
+   "lemma": "uktvā",
+   "morph": "absolutive (√vac)",
+   "grounds": "utterance precedes next element"
   },
   {
-   "lemma": "dhruvam",
+   "lemma": "kila+yugmam",
+   "morph": "compound (n.acc.sg)",
+   "grounds": "compound naming next mantra component"
+  },
+  {
+   "lemma": "ataḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating certainty"
+   "grounds": "marks sequence in mantra"
+  },
+  {
+   "lemma": "param",
+   "morph": "(indecl.)",
+   "grounds": "indicates following position"
   }
  ]
 }

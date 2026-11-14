@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 276,
- "question": "What structural form defines a five-story root-spire temple?",
+ "question": "Which substances are prescribed for performing the ritual of attraction?",
  "premises": [
-  "The specification follows the previous pattern.",
-  "The structure has a root spire.",
-  "The structure consists of five stories."
+  "The ritual context is attraction.",
+  "Salt is specified as an ingredient.",
+  "Priyangu and nourishing items mentioned are included."
  ],
- "inference": "A five-story structure with a root spire is prescribed in the same manner.",
- "uncertainties": [],
- "plain_english": "Likewise, the structure should have a root spire and five stories."
+ "inference": "Attraction rites employ salt together with priyaṅgu and the nourishing substances mentioned.",
+ "uncertainties": [
+  "Exact compound relation of priyaṅgu and pauṣṭika is unclear from tokenization."
+ ],
+ "plain_english": "For attraction, one should use salt together with priyaṅgu and the nourishing substances that have been mentioned."
 }

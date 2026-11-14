@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 298,
- "question": "What relative size of the bell compared to the śukanāsā is considered best?",
+ "question": "Which mantra elements and names are enumerated in this sequence?",
  "premises": [
-  "The bell is compared to the śukanāsā.",
-  "It may be equal or less.",
-  "It should not be more."
+  "Bindu is named with an associative element.",
+  "Parākrānta is named with an associative element.",
+  "Tumburu and Īśa are also included."
  ],
- "inference": "The bell equal to or less than the śukanāsā is best, but not more.",
- "uncertainties": [],
- "plain_english": "The bell equal to the śukanāsā or less is best, and it should not be more."
+ "inference": "The sequence enumerates bindu, parākrānta, tumburu, and īśa as mantra elements or names.",
+ "uncertainties": [
+  "The technical functions of these mantra terms are not explained in this verse."
+ ],
+ "plain_english": "The list gives bindu, parākrānta, tumburu, and likewise īśa."
 }
