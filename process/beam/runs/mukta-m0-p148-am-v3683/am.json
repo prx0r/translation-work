@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3683,
- "question": "What sacred pool is situated under the mango tree and how large is it?",
+ "question": "What straight thread measure is made in the middle?",
  "premises": [
-  "A pool is situated under a mango tree.",
-  "The pool has a specified measure.",
-  "The measure is sixteen bow-lengths."
+  "a vitasti measure is named",
+  "a straight thread is named",
+  "a middle thread is made"
  ],
- "inference": "A pool measuring sixteen bow-lengths is situated under the mango tree.",
- "uncertainties": [],
- "plain_english": "Under the mango tree there is a pool, measuring sixteen bow-lengths."
+ "inference": "A straight middle thread is made to a vitasti measure.",
+ "uncertainties": [
+  "thread use is unclear"
+ ],
+ "plain_english": "A straight thread of vitasti measure is made in the middle."
 }

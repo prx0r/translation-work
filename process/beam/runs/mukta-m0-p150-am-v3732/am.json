@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3732,
- "question": "What are the northern and southern limits of the construction?",
+ "question": "How many fire-pits should be made around the pavilion?",
  "premises": [
-  "The northern end is named.",
-  "The southern end is named.",
-  "The addressee is dear."
+  "fire-pits are made around",
+  "the number follows element-veda-one"
  ],
- "inference": "The construction is bounded by northern and southern ends.",
+ "inference": "The number of fire-pits is determined by the element-veda-one count.",
  "uncertainties": [
-  "The exact spatial relation between ends is not specified."
+  "the exact numerical value is not stated in this verse"
  ],
- "plain_english": "Thus, from the northern end to the southern end, dear one."
+ "plain_english": "Fire-pits should be made around according to the element-veda-one number."
 }

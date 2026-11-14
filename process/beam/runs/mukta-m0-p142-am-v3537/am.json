@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3537,
- "question": "What are the physical covering and extent of the described pool?",
+ "question": "What round, even, gateway-limb-like elongated form is described?",
  "premises": [
-  "There is a pool.",
-  "The pool is covered by stone.",
-  "The pool extends fifteen cubits."
+  "The form is round-shaped and even.",
+  "It is gateway-limb-like and elongated."
  ],
- "inference": "Therefore the pool is stone-covered and fifteen cubits in extent.",
- "uncertainties": [],
- "plain_english": "There is a pool covered by stone, extending fifteen cubits."
+ "inference": "The verse describes a round, even, elongated gateway-limb-like form.",
+ "uncertainties": [
+  "The token cetu is unclear."
+ ],
+ "plain_english": "The form is round-shaped, even, and elongated like a gateway limb."
 }

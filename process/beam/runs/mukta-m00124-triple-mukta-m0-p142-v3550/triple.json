@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "siṃhaśrotraṃ",
+     "gloss": "lion-ear",
+     "grounds": "compound siṃha+śrotra, neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal adjective agreeing with siṃhaśrotraṃ",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative of as",
+     "morph": "v.3.sg.opt.act (root as)"
+    },
+    {
+     "surface": "khaṇḍaniryūhakaṃ",
+     "gloss": "fragment-eaves",
+     "grounds": "compound khaṇḍa+niryūhaka, neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which pañjara is designated as the lion-ear and what follows it?",
+   "premises": [
+    "siṃhaśrotraṃ is the sixth pañjara",
+    "khaṇḍaniryūhakaṃ follows thereafter",
+    "tu marks the transition"
+   ],
+   "inference": "The verse assigns sixth place to lion-ear and then names fragment-eaves.",
+   "uncertainties": [
+    "Exact doctrinal sense of pañjara and niryūhaka remains context-dependent"
+   ],
+   "plain_english": "The lion-ear would be the sixth; then comes the fragment-eaves."
+  }
+ ]
+}

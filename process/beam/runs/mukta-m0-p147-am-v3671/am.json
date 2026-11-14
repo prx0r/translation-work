@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p147",
  "verse": 3671,
- "question": "Who formerly performed austerity at the holy place of Narada?",
+ "question": "Is the equal measure from waist-star, crest-part, or lupaya-part?",
  "premises": [
-  "Austerity was performed there.",
-  "It was performed in the past.",
-  "The great-souled divine sage Nārada performed it."
+  "equal is named",
+  "waist-star source is named",
+  "crest-part is named"
  ],
- "inference": "Formerly, austerity was performed there by the great-souled divine sage Nārada.",
- "uncertainties": [],
- "plain_english": "Formerly, austerity was performed there by the great-souled divine sage Nārada."
+ "inference": "The verse gives alternative sources for the equal measure.",
+ "uncertainties": [
+  "which source applies is not fixed"
+ ],
+ "plain_english": "It should be equal, from waist-star, crest-part, or lupaya-part."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3544,
- "question": "Where and at what distance is the lake named Bhāskara located?",
+ "question": "What lattice is prescribed between corner and cell for twice-born?",
  "premises": [
-  "A lake named Bhāskara is known.",
-  "It is located in the east.",
-  "Its measure is ten bow intervals."
+  "A lattice is prescribed.",
+  "It lies between corner and cell."
  ],
- "inference": "Therefore the Bhāskara lake is known in the east at a distance of ten bow intervals.",
- "uncertainties": [],
- "plain_english": "In the east they know a lake named Bhāskara, at a distance of ten bows."
+ "inference": "The verse prescribes a lattice between corner and cell for twice-born.",
+ "uncertainties": [
+  "The exact lattice construction is unclear."
+ ],
+ "plain_english": "Twice-born, a lattice is prescribed between corner and cell."
 }

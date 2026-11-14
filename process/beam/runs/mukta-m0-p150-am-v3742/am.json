@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3742,
- "question": "For an auspicious rite, in which zodiac place and direction is the pit declared?",
+ "question": "Which four goddesses should the wise worship in order?",
  "premises": [
-  "The rite is auspicious.",
-  "The place is Gemini zodiac.",
-  "The direction is fire direction."
+  "nanda bhadra jaya and purna are named",
+  "they are worshipped in order by the wise"
  ],
- "inference": "For an auspicious rite, the pit is declared in Gemini zodiac place toward the fire direction.",
+ "inference": "The wise worship the four named goddesses sequentially.",
  "uncertainties": [
-  "The exact pit shape is not named here."
+  "their individual ritual roles are not specified"
  ],
- "plain_english": "For an auspicious rite, in Gemini zodiac place, fire direction is declared."
+ "plain_english": "The wise should worship Nanda, Bhadra, Jaya, and Purna in order."
 }

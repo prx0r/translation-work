@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p146",
  "verse": 3641,
- "question": "What additional ritual acts of shaving and fasting should be performed afterward?",
+ "question": "How many spire heights are named with seven or eight parts?",
  "premises": [
-  "Head-shaving is prescribed.",
-  "Fasting is prescribed.",
-  "These acts follow in sequence."
+  "sapta+aṣṭa+aṃśaṃ means seven-eight-parts",
+  "tārā+ardham means half-of-star",
+  "aṣṭau means eight"
  ],
- "inference": "Afterward one should perform head-shaving and undertake a fast.",
- "uncertainties": [],
- "plain_english": "Then one should perform head-shaving and undertake a fast."
+ "inference": "Eight spire heights are named.",
+ "uncertainties": [
+  "exact grammatical case not verified"
+ ],
+ "plain_english": "Seven-eight parts but half of star, thus eight spire heights."
 }

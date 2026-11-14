@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p147",
  "verse": 3670,
- "question": "What supremely rare holy place of Narada is found there?",
+ "question": "Is the hole waist-measure or wrestlers' entry?",
  "premises": [
-  "A holy place associated with Nārada exists there.",
-  "It is located in that very place.",
-  "It is supremely rare."
+  "hole is named",
+  "waist-measure is named",
+  "wrestlers' entry is named"
  ],
- "inference": "There indeed is the supremely rare holy place of Nārada.",
- "uncertainties": [],
- "plain_english": "And there indeed is the supremely rare holy place of Nārada."
+ "inference": "The verse offers alternative identifications for the hole.",
+ "uncertainties": [
+  "which alternative applies is not fixed"
+ ],
+ "plain_english": "The hole is either waist-measure or wrestlers' entry."
 }

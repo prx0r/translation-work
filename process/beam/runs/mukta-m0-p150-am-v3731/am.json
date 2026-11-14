@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p150",
  "verse": 3731,
- "question": "How are the eastern and western cells related through the middle region?",
+ "question": "What size range is prescribed for the pavilion?",
  "premises": [
-  "The verse begins from the east.",
-  "It names a western pair of cells.",
-  "It ends at the middle region."
+  "the pavilion ranges from nine cubits",
+  "it extends to five cubits"
  ],
- "inference": "The construction spans from east through the western pair to the middle region.",
+ "inference": "The pavilion size is bounded between nine and five cubits.",
  "uncertainties": [
-  "The fused form m madhyadeśataḥ preserves sandhi."
+  "whether the range is inclusive or descending is not explicit"
  ],
- "plain_english": "From the east, the western pair of cells extends to the middle region."
+ "plain_english": "The pavilion is from nine cubits to five cubits."
 }

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p143",
  "verse": 3568,
- "question": "What result follows from reciting this hymn with devotion to Gaṇeśa?",
+ "question": "How are stone-height and platform-rise divided by parts?",
  "premises": [
-  "One should recite this hymn with devotion.",
-  "The hymn is addressed in the context of Gaṇeśa.",
-  "The king of the gaṇas becomes pleased."
+  "one-and-half part is specified",
+  "stone-height is specified",
+  "middle part is specified",
+  "platform-rise is specified"
  ],
- "inference": "Devotional recitation of this hymn brings the pleasure of Gaṇeśa.",
- "uncertainties": [],
- "plain_english": "One should recite this hymn with devotion; then the king of the gaṇas is pleased."
+ "inference": "Stone-height and platform-rise are divided by one-and-half and middle parts.",
+ "uncertainties": [
+  "exact relation between the two measures is unclear"
+ ],
+ "plain_english": "Stone-height is one-and-half part, and platform-rise is middle part."
 }

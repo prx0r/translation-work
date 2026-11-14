@@ -1,0 +1,1140 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3726,
+   "rows": [
+    {
+     "surface": "vaktraikyam",
+     "gloss": "face-unity",
+     "grounds": "compound of vaktra and ekya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "best",
+     "grounds": "superlative adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past participle of vac",
+     "morph": "v.acc.sg.n-ppp"
+    },
+    {
+     "surface": "tantraikyaṃ",
+     "gloss": "tantra-unity",
+     "grounds": "compound of tantra and ekya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "comparative adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Which unity is declared best and which middle in this ritual classification?",
+   "premises": [
+    "face-unity is called best",
+    "tantra-unity is called middle"
+   ],
+   "inference": "The verse ranks face-unity above tantra-unity.",
+   "uncertainties": [
+    "exact ritual referents of face and tantra unity remain context-dependent"
+   ],
+   "plain_english": "Face-unity is best, tantra-unity is middle."
+  },
+  {
+   "verse": 3727,
+   "rows": [
+    {
+     "surface": "tadabhāvāt",
+     "gloss": "from-that-absence",
+     "grounds": "ablative of tadabhāva",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "nikṛṣṭaṃ",
+     "gloss": "inferior",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of budh",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of samācar",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should one do after knowing this ranking of unities?",
+   "premises": [
+    "absence of the higher unity makes the lower inferior",
+    "one should act after knowing this"
+   ],
+   "inference": "Knowledge of the hierarchy determines proper ritual performance.",
+   "uncertainties": [
+    "the exact lower grade is not named in this verse"
+   ],
+   "plain_english": "Thus, knowing this, one should perform accordingly."
+  },
+  {
+   "verse": 3728,
+   "rows": [
+    {
+     "surface": "mukhyatvāt",
+     "gloss": "from-primacy",
+     "grounds": "ablative of mukhyatva",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "sarvaśāstrebhyaḥ",
+     "gloss": "from-all-scriptures",
+     "grounds": "ablative plural of sarvaśāstra",
+     "morph": "n.abl.pl.n"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "past participle of parikīrt",
+     "morph": "v.acc.sg.n-ppp"
+    }
+   ],
+   "question": "Why is this rite proclaimed everywhere above all scriptures?",
+   "premises": [
+    "primacy is the reason",
+    "it is proclaimed everywhere"
+   ],
+   "inference": "The rite's primacy makes it universally proclaimed.",
+   "uncertainties": [
+    "the specific rite is identified by surrounding context"
+   ],
+   "plain_english": "Because of its primacy, it is proclaimed everywhere above all scriptures."
+  },
+  {
+   "verse": 3729,
+   "rows": [
+    {
+     "surface": "sthūpikāsthāpanaṃ",
+     "gloss": "stupa-installation",
+     "grounds": "compound of sthūpikā and sthāpana",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-speak",
+     "grounds": "future of vac",
+     "morph": "v.1.sg.act-fut"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "śṛṇuta",
+     "gloss": "hear",
+     "grounds": "imperative of śru",
+     "morph": "v.2.pl.act-imp"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative plural",
+     "morph": "n.voc.pl.m"
+    }
+   ],
+   "question": "What installation will the speaker now describe to the twice-born?",
+   "premises": [
+    "stupa installation is the topic",
+    "the twice-born are addressed"
+   ],
+   "inference": "The speaker announces instruction on stupa installation.",
+   "uncertainties": [
+    "the exact stupa type is specified later"
+   ],
+   "plain_english": "I will indeed speak of stupa installation; hear, twice-born."
+  },
+  {
+   "verse": 3730,
+   "rows": [
+    {
+     "surface": "avilambena",
+     "gloss": "without-delay",
+     "grounds": "instrumental of avilamba",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive of kṛ",
+     "morph": "v.acc.sg.n-ger"
+    },
+    {
+     "surface": "sumuhūrte",
+     "gloss": "auspicious-moment",
+     "grounds": "locative of sumuhūrta",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "locative of dina",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "When and how should the installation be performed?",
+   "premises": [
+    "it should be done without delay",
+    "it should be done in an auspicious moment on an auspicious day"
+   ],
+   "inference": "The rite requires prompt performance at an auspicious time.",
+   "uncertainties": [
+    "no exact calendrical rule is given here"
+   ],
+   "plain_english": "It should be done without delay in an auspicious moment on an auspicious day."
+  },
+  {
+   "verse": 3731,
+   "rows": [
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "accusative of maṇṭapa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "navahastādi",
+     "gloss": "from-nine-cubits",
+     "grounds": "compound of nava hasta and ādi",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pañcahastāntam",
+     "gloss": "to-five-cubits",
+     "grounds": "compound of pañca hasta and anta",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What size range is prescribed for the pavilion?",
+   "premises": [
+    "the pavilion ranges from nine cubits",
+    "it extends to five cubits"
+   ],
+   "inference": "The pavilion size is bounded between nine and five cubits.",
+   "uncertainties": [
+    "whether the range is inclusive or descending is not explicit"
+   ],
+   "plain_english": "The pavilion is from nine cubits to five cubits."
+  },
+  {
+   "verse": 3732,
+   "rows": [
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "fire-pits",
+     "grounds": "accusative plural of kuṇḍa",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative of kṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "bhūtavedaikasaṃkhyayā",
+     "gloss": "by-element-veda-one-number",
+     "grounds": "instrumental compound",
+     "morph": "n.ins.sg.f"
+    }
+   ],
+   "question": "How many fire-pits should be made around the pavilion?",
+   "premises": [
+    "fire-pits are made around",
+    "the number follows element-veda-one"
+   ],
+   "inference": "The number of fire-pits is determined by the element-veda-one count.",
+   "uncertainties": [
+    "the exact numerical value is not stated in this verse"
+   ],
+   "plain_english": "Fire-pits should be made around according to the element-veda-one number."
+  },
+  {
+   "verse": 3733,
+   "rows": [
+    {
+     "surface": "maṅgalāṅkurakāryaṃ",
+     "gloss": "auspicious-sprout-rite",
+     "grounds": "compound of maṅgala aṅkura and kārya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of samācar",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What rite must be performed first?",
+   "premises": [
+    "the auspicious sprout rite is named",
+    "it should be performed first"
+   ],
+   "inference": "The auspicious sprout rite precedes the rest.",
+   "uncertainties": [
+    "its detailed procedure is not given here"
+   ],
+   "plain_english": "The auspicious sprout rite should indeed be performed first."
+  },
+  {
+   "verse": 3734,
+   "rows": [
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "accusative of maṇḍapa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "samalaṃkṛtya",
+     "gloss": "having-decorated",
+     "grounds": "absolutive of samalaṃkṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day",
+     "grounds": "accusative of puṇyāha",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vācayet",
+     "gloss": "should-recite",
+     "grounds": "optative of vāc",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done after decorating the pavilion?",
+   "premises": [
+    "the pavilion is decorated",
+    "the auspicious day is recited then"
+   ],
+   "inference": "Decoration is followed by recitation of the auspicious day.",
+   "uncertainties": [
+    "the exact recitation formula is not specified"
+   ],
+   "plain_english": "After decorating the pavilion, one should recite the auspicious day."
+  },
+  {
+   "verse": 3735,
+   "rows": [
+    {
+     "surface": "pañcamṛt",
+     "gloss": "five-clays",
+     "grounds": "compound of pañca and mṛt",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pañcagavyaiḥ",
+     "gloss": "five-cow-products",
+     "grounds": "instrumental plural of pañcagavya",
+     "morph": "n.ins.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuṃddhodakasamanvitam",
+     "gloss": "pure-water-accompanied",
+     "grounds": "compound with pure water",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What materials accompany the five clays?",
+   "premises": [
+    "five clays are named",
+    "five cow products and pure water accompany them"
+   ],
+   "inference": "The clays are combined with cow products and pure water.",
+   "uncertainties": [
+    "the exact mixing proportions are not given"
+   ],
+   "plain_english": "The five clays are accompanied by five cow products and pure water."
+  },
+  {
+   "verse": 3736,
+   "rows": [
+    {
+     "surface": "kṛtakautukabandhaḥ",
+     "gloss": "having-made-rite-band",
+     "grounds": "compound of kṛta kautuka and bandha",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vañjaiḥ",
+     "gloss": "with-bamboo",
+     "grounds": "instrumental plural of vañja",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "āveṣṭya",
+     "gloss": "having-enclosed",
+     "grounds": "absolutive of āveṣṭ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative of deśika",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who encloses the rite-band with bamboo?",
+   "premises": [
+    "the teacher has made the rite-band",
+    "he encloses it with bamboo"
+   ],
+   "inference": "The teacher performs the enclosure with bamboo.",
+   "uncertainties": [
+    "the exact form of the rite-band is not described"
+   ],
+   "plain_english": "The teacher, having made the rite-band, encloses it with bamboo."
+  },
+  {
+   "verse": 3737,
+   "rows": [
+    {
+     "surface": "aṣṭadroṇena",
+     "gloss": "eight-drona",
+     "grounds": "instrumental of aṣṭadroṇa",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "śālīnām",
+     "gloss": "of-rice",
+     "grounds": "genitive plural of śāli",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "ardhenārdhena",
+     "gloss": "half-half",
+     "grounds": "instrumental compound",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What quantity of rice is prescribed?",
+   "premises": [
+    "eight drona of rice is named",
+    "or half and half may be used"
+   ],
+   "inference": "The offering uses eight drona, or a half-and-half measure.",
+   "uncertainties": [
+    "the exact half-and-half referent is not explicit"
+   ],
+   "plain_english": "It becomes eight drona of rice, or half and half."
+  },
+  {
+   "verse": 3738,
+   "rows": [
+    {
+     "surface": "vastraiḥ",
+     "gloss": "with-cloths",
+     "grounds": "instrumental plural of vastra",
+     "morph": "n.ins.pl.n"
+    },
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-kusha",
+     "grounds": "instrumental plural of darbha",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "samāchādya",
+     "gloss": "having-covered",
+     "grounds": "absolutive of samāchād",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart",
+     "grounds": "instrumental of hṛdaya",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "by-mantra",
+     "grounds": "ablative of mantra",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "How is the covered object treated?",
+   "premises": [
+    "it is covered with cloths and kusha",
+    "it is treated with heart and mantra"
+   ],
+   "inference": "Covering is followed by heart-centered mantra treatment.",
+   "uncertainties": [
+    "the exact object covered is supplied by context"
+   ],
+   "plain_english": "Having covered it with cloths and kusha, one treats it with heart and mantra."
+  },
+  {
+   "verse": 3739,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "optative of sthā",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhān",
+     "gloss": "pots",
+     "grounds": "accusative plural of kumbha",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "num.acc.pl.m"
+    },
+    {
+     "surface": "vastrādisaṃyutān",
+     "gloss": "with-cloth-etc",
+     "grounds": "compound with cloth and etcetera",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "How many pots should be placed around?",
+   "premises": [
+    "eight pots are named",
+    "they are furnished with cloth and other items"
+   ],
+   "inference": "Eight cloth-furnished pots are placed around.",
+   "uncertainties": [
+    "the etcetera items are not enumerated"
+   ],
+   "plain_english": "One should place eight pots around, furnished with cloth and other items."
+  },
+  {
+   "verse": 3740,
+   "rows": [
+    {
+     "surface": "gandhādyaiḥ",
+     "gloss": "with-sandal-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "arcanāṃ",
+     "gloss": "worship",
+     "grounds": "accusative of arcanā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart",
+     "grounds": "instrumental of hṛdaya",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "vivakṣaṇaḥ",
+     "gloss": "expert",
+     "grounds": "nominative of vivakṣaṇa",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How should worship be performed?",
+   "premises": [
+    "worship is done with sandal and other items",
+    "the expert performs it with heart"
+   ],
+   "inference": "Worship is heart-centered and uses sandal and related offerings.",
+   "uncertainties": [
+    "the full list of offerings is not given"
+   ],
+   "plain_english": "The expert should perform worship with sandal and other items, with heart."
+  },
+  {
+   "verse": 3741,
+   "rows": [
+    {
+     "surface": "ikāraṃ",
+     "gloss": "i-letter",
+     "grounds": "accusative of ikāra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive of nyas",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "ukāraṃ",
+     "gloss": "u-letter",
+     "grounds": "accusative of ukāra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "on-west",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative of nyas",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where are the i and u letters placed?",
+   "premises": [
+    "i is placed on the right",
+    "u is placed in the west"
+   ],
+   "inference": "The two letters are assigned to right and west positions.",
+   "uncertainties": [
+    "the ritual significance of the positions is not explained"
+   ],
+   "plain_english": "Having placed i on the right, one should place u in the west."
+  },
+  {
+   "verse": 3742,
+   "rows": [
+    {
+     "surface": "nandāṃ",
+     "gloss": "nanda",
+     "grounds": "accusative of nandā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "bhadrāṃ",
+     "gloss": "bhadra",
+     "grounds": "accusative of bhadrā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "jayāṃ",
+     "gloss": "jaya",
+     "grounds": "accusative of jayā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "purna",
+     "grounds": "accusative of pūrṇā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental of krama",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "abhyarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative of abhyarc",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise",
+     "grounds": "nominative of sudhī",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which four goddesses should the wise worship in order?",
+   "premises": [
+    "nanda bhadra jaya and purna are named",
+    "they are worshipped in order by the wise"
+   ],
+   "inference": "The wise worship the four named goddesses sequentially.",
+   "uncertainties": [
+    "their individual ritual roles are not specified"
+   ],
+   "plain_english": "The wise should worship Nanda, Bhadra, Jaya, and Purna in order."
+  },
+  {
+   "verse": 3743,
+   "rows": [
+    {
+     "surface": "samidājyacarūn",
+     "gloss": "firewood-ghee-caru",
+     "grounds": "compound of samid ājya and caru",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tilaṃ",
+     "gloss": "sesame",
+     "grounds": "accusative of tila",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "should-offer",
+     "grounds": "optative of hom",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise",
+     "grounds": "nominative of sudhī",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What offerings should the wise make into the fire?",
+   "premises": [
+    "firewood ghee and caru are offered",
+    "sesame is also offered"
+   ],
+   "inference": "The wise offer firewood, ghee, caru, and sesame.",
+   "uncertainties": [
+    "the exact quantities are not stated"
+   ],
+   "plain_english": "The wise should indeed offer firewood, ghee, caru, and sesame."
+  },
+  {
+   "verse": 3744,
+   "rows": [
+    {
+     "surface": "pradhānasya",
+     "gloss": "of-main",
+     "grounds": "genitive of pradhāna",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "palāśaḥ",
+     "gloss": "palasha",
+     "grounds": "nominative of palāśa",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "num.acc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakuṇḍake",
+     "gloss": "in-all-pits",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What wood is used for the main offering?",
+   "premises": [
+    "palasha is named for the main",
+    "one or all pits may be used"
+   ],
+   "inference": "Palasha is the wood for the main offering, in one or all pits.",
+   "uncertainties": [
+    "the exact pit selection rule is not explicit"
+   ],
+   "plain_english": "For the main offering, palasha would be used, one or in all pits."
+  },
+  {
+   "verse": 3745,
+   "rows": [
+    {
+     "surface": "śivāddaśāṃśataḥ",
+     "gloss": "from-shiva-ten-percent",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "accusative plural of aṅga",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "tarpayitvā",
+     "gloss": "having-satisfied",
+     "grounds": "absolutive of tarp",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "nominative of samāhita",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How are the limbs satisfied?",
+   "premises": [
+    "ten percent from Shiva is used",
+    "the limbs are satisfied",
+    "the performer is composed"
+   ],
+   "inference": "A tenth portion from Shiva satisfies the limbs while the performer remains composed.",
+   "uncertainties": [
+    "the exact limb list is not given"
+   ],
+   "plain_english": "Having satisfied the limbs with a tenth from Shiva, one remains composed."
+  },
+  {
+   "verse": 3746,
+   "rows": [
+    {
+     "surface": "mūrtimūrtīśvarān",
+     "gloss": "images-lords",
+     "grounds": "compound of mūrti and īśvara",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive of nyas",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tattvatattveśvarān",
+     "gloss": "tattva-lords",
+     "grounds": "compound of tattva and īśvara",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative of nyas",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What lords are placed in sequence?",
+   "premises": [
+    "image-lords are placed first",
+    "tattva-lords are then placed"
+   ],
+   "inference": "Image-lords precede tattva-lords in placement.",
+   "uncertainties": [
+    "the exact number of each is not stated"
+   ],
+   "plain_english": "Having placed the image-lords, one should place the tattva-lords."
+  },
+  {
+   "verse": 3747,
+   "rows": [
+    {
+     "surface": "nālādyaṃ",
+     "gloss": "stalk-etc",
+     "grounds": "compound of nāla and ādi",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "optative of sthā",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhivāsayutaṃ",
+     "gloss": "with-consecration",
+     "grounds": "compound with adhivāsa",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What may be placed after the stalk?",
+   "premises": [
+    "the stalk and related item is placed after",
+    "it may be with consecration or otherwise"
+   ],
+   "inference": "Placement after the stalk may include a consecrated item.",
+   "uncertainties": [
+    "the exact alternative is not specified"
+   ],
+   "plain_english": "Afterward one should place the stalk and related item, with consecration or otherwise."
+  },
+  {
+   "verse": 3748,
+   "rows": [
+    {
+     "surface": "tadalābhe",
+     "gloss": "that-absence",
+     "grounds": "locative of tadalābha",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "hiraṇyaṃ",
+     "gloss": "gold",
+     "grounds": "accusative of hiraṇya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive of nyas",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "should-establish",
+     "grounds": "optative of saṃsthā",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart",
+     "grounds": "instrumental of hṛd",
+     "morph": "n.ins.sg.n"
+    }
+   ],
+   "question": "What substitute is used when that item is unavailable?",
+   "premises": [
+    "in its absence gold is used",
+    "one establishes it with heart"
+   ],
+   "inference": "Gold substitutes for the unavailable item, established with heart.",
+   "uncertainties": [
+    "the unavailable item is identified by prior context"
+   ],
+   "plain_english": "In its absence, one should place gold and establish it with heart."
+  },
+  {
+   "verse": 3749,
+   "rows": [
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive of sthā",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthūpikīlaṃ",
+     "gloss": "stupa-spike",
+     "grounds": "compound of sthūpikā and kīla",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-fix",
+     "grounds": "optative of vinyas",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What is fixed above the placed item?",
+   "premises": [
+    "after placing the item",
+    "the stupa spike is fixed above it"
+   ],
+   "inference": "The stupa spike is fixed above the previously placed item.",
+   "uncertainties": [
+    "the exact base item is supplied by context"
+   ],
+   "plain_english": "Having placed it, one should fix the stupa spike above it."
+  }
+ ]
+}

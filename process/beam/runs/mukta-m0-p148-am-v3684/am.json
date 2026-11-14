@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3684,
- "question": "Which deity is situated on the earth pedestal at that location?",
+ "question": "How is the bowl placed after cutting?",
  "premises": [
-  "A deity is situated on an earth pedestal.",
-  "The deity is identified as Shankara.",
-  "The deity is called the supreme lord."
+  "placing is prescribed",
+  "a bowl is named",
+  "afterwards cut is specified",
+  "bed thread likeness is given"
  ],
- "inference": "The god Shankara, the supreme lord, is situated on the earth pedestal.",
- "uncertainties": [],
- "plain_english": "The god Shankara, the supreme lord, is situated on the earth pedestal."
+ "inference": "The bowl is placed like a bed thread after cutting.",
+ "uncertainties": [
+  "cutting context is unclear"
+ ],
+ "plain_english": "Place the bowl, cut afterwards, like a bed thread."
 }
