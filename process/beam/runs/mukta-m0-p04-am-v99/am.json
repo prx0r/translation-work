@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p04",
  "verse": 99,
- "question": "Which deities are named in this compound?",
+ "question": "How should Yamunā and Mahākāla be worshipped in this sequence?",
  "premises": [
-  "Dakshinamurti is named",
-  "Hayagriva is named",
-  "Ganesha is named"
+  "Yamunā and Mahākāla are objects of worship",
+  "Offerings such as fragrance are used",
+  "The worship must follow a sequence"
  ],
- "inference": "The verse names Dakshinamurti, Hayagriva, and Ganesha in one compound.",
- "uncertainties": [
-  "syntactic role of the compound in the larger sentence"
- ],
- "plain_english": "Dakshinamurti, Hayagriva, and Ganesha are named together."
+ "inference": "Therefore one should worship Yamunā and Mahākāla in sequence with fragrance and other offerings",
+ "uncertainties": [],
+ "plain_english": "One should worship Yamunā and Mahākāla in sequence with fragrance and other offerings."
 }

@@ -3,34 +3,34 @@
  "verse": 71,
  "rows": [
   {
-   "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "pronoun"
+   "lemma": "mama",
+   "morph": "pron.gen.sg",
+   "grounds": "possessive pronoun referring to the deity"
   },
   {
-   "lemma": "bhojanaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "noun"
+   "lemma": "dāsyaḥ",
+   "morph": "f.nom.pl",
+   "grounds": "subject identified in the statement"
   },
   {
-   "lemma": "vinā",
+   "lemma": "samākhyātāḥ",
+   "morph": "f.nom.pl.past-passive-participle √khyā",
+   "grounds": "predicate describing their status"
+  },
+  {
+   "lemma": "rudra+kanyāḥ",
+   "morph": "compound:f.nom.pl",
+   "grounds": "compound identifying the maidservants"
+  },
+  {
+   "lemma": "bhavanti",
+   "morph": "3.pl.pres.act √bhū",
+   "grounds": "copular verb"
+  },
+  {
+   "lemma": "cet",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
-  },
-  {
-   "lemma": "nūnaṃ",
-   "morph": "(indecl.)",
-   "grounds": "adverb"
-  },
-  {
-   "lemma": "kṣunnivṛttim",
-   "morph": "f.acc.sg",
-   "grounds": "compound accusative"
-  },
-  {
-   "lemma": "abhīpsati",
-   "morph": "3.sg.act.pres",
-   "grounds": "verb"
+   "grounds": "conditional particle"
   }
  ]
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental of hṛdaya, referring to the heart-mantra used in ritual placement",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.act.opt ni-√as"
+    },
+    {
+     "surface": "mumbhān",
+     "gloss": "pots",
+     "grounds": "object of placement; surface form uncertain, possibly related to kumbha in ritual context",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "svarṇādiviniveśayet",
+     "gloss": "should-deposit-gold-etc",
+     "grounds": "compound svarṇa-ādi with causative verb indicating insertion of gold and other materials",
+     "morph": "3.sg.act.caus.opt ni-vi-√viś"
+    }
+   ],
+   "question": "What ritual actions and materials are prescribed for placing and filling the pots?",
+   "premises": [
+    "The heart-mantra is the means for the act of placement.",
+    "The pots are the objects to be placed.",
+    "Gold and other materials are to be deposited into them."
+   ],
+   "inference": "The ritual procedure requires placing the pots with the heart-mantra and depositing gold and other materials into them.",
+   "uncertainties": [
+    "The form mumbhān is unclear and may be a variant or corruption of kumbhān."
+   ],
+   "plain_english": "One should place the pots with the heart-mantra and deposit gold and other materials into them."
+  }
+ ]
+}

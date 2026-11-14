@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p03",
  "verse": 66,
- "question": "Which goddesses are named with siddha-vidyā?",
+ "question": "What musical options are permitted during the bathing ritual?",
  "premises": [
-  "bagalā is named",
-  "siddhavidyā is named",
-  "mātaṅgī and kamalāmbikā follow"
+  "The context is the bathing ritual",
+  "Mantra singing is one option",
+  "Song accompanied by the vīṇā is another option"
  ],
- "inference": "The verse names Bagalā, Siddhavidyā, Mātaṅgī, and Kamalāmbikā.",
- "uncertainties": [
-  "whether ca joins only two items"
- ],
- "plain_english": "Bagalā, Siddhavidyā, and Mātaṅgī, Kamalāmbikā."
+ "inference": "During the bathing, one may perform mantra singing or song accompanied by the vīṇā.",
+ "uncertainties": [],
+ "plain_english": "During the bathing, there may be mantra singing, or alternatively song accompanied by the vīṇā."
 }

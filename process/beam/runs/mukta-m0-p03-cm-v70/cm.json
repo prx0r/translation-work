@@ -3,29 +3,34 @@
  "verse": 70,
  "rows": [
   {
-   "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "pronoun"
+   "lemma": "nitya+utsavaṃ",
+   "morph": "compound:m.acc.sg",
+   "grounds": "compound naming the ritual event"
   },
   {
-   "lemma": "hi",
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "sequence marker"
   },
   {
-   "lemma": "śītanivṛtyarthaṃ",
+   "lemma": "kuryāt",
+   "morph": "3.sg.opt.act √kṛ",
+   "grounds": "main ritual injunction"
+  },
+  {
+   "lemma": "nānā",
    "morph": "(indecl.)",
-   "grounds": "compound purpose"
+   "grounds": "qualifies women"
   },
   {
-   "lemma": "himaśailaṃ",
+   "lemma": "strībhiḥ",
+   "morph": "f.inst.pl",
+   "grounds": "participants accompanying the festival"
+  },
+  {
+   "lemma": "samanvitam",
    "morph": "m.acc.sg",
-   "grounds": "compound accusative"
-  },
-  {
-   "lemma": "niṣevate",
-   "morph": "3.sg.mid.pres",
-   "grounds": "verb"
+   "grounds": "qualifies the festival"
   }
  ]
 }

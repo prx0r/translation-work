@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p01",
  "verse": 4,
- "question": "What extent-length, arrival-mark, and constellation-wheel topics are listed?",
+ "question": "How many times and with which mantra should the recitation be performed again?",
  "premises": [
-  "vistārāyāma names extent length",
-  "āyādilakṣyaṃ names arrival mark",
-  "nakṣatracakrakam names constellation wheel"
+  "The same mantra is to be used again",
+  "The recitation is repeated ten times",
+  "The act is prescribed as obligatory"
  ],
- "inference": "The verse lists extent-length, arrival-mark, and constellation-wheel topics.",
- "uncertainties": [
-  "compound segmentation"
- ],
- "plain_english": "Extent-length, arrival-mark, and constellation-wheel topics are listed."
+ "inference": "One should again perform recitation ten times with that very same mantra.",
+ "uncertainties": [],
+ "plain_english": "Again, one should perform recitation ten times with that very same mantra."
 }

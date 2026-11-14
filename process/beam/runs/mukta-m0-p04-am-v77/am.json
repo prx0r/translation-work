@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p04",
  "verse": 77,
- "question": "Which vidyā is worshipped by Manu after abandoning the younger brother Śiva?",
+ "question": "In which ritual contexts is this procedure declared applicable?",
  "premises": [
-  "Manu worships this vidyā",
-  "It is described with agra",
-  "The younger brother Śiva is abandoned"
+  "Rituals include daily observances",
+  "Rituals include occasional observances",
+  "This procedure is explicitly declared for them"
  ],
- "inference": "The Manu-worshipped vidyā follows abandonment of the younger brother Śiva",
- "uncertainties": [
-  "Identity of younger brother Śiva"
- ],
- "plain_english": "Having abandoned the younger brother Śiva, this vidyā with agra is worshipped by Manu."
+ "inference": "Therefore this procedure is declared for both daily and occasional rites",
+ "uncertainties": [],
+ "plain_english": "This procedure is declared to apply in both daily and occasional rites."
 }
