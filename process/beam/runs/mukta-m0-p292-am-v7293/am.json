@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p292",
  "verse": 7293,
- "question": "What ritual gift should be given to the officiants and with what additions?",
+ "question": "What kind of setting is specified for the ritual context?",
  "premises": [
-  "A ritual gift is prescribed for the officiants.",
-  "The gift should amount to ten niṣkas.",
-  "The gift should be accompanied by ornaments."
+  "A location is described.",
+  "The location is adorned with such a forest."
  ],
- "inference": "The ritual gift should be ten niṣkas and should be accompanied by ornaments.",
- "uncertainties": [],
- "plain_english": "The ritual gift should be ten niṣkas, accompanied by ornaments."
+ "inference": "The setting is a place adorned with a forest of that kind.",
+ "uncertainties": [
+  "The referent of 'such' depends on prior context."
+ ],
+ "plain_english": "In a place adorned with such a forest."
 }

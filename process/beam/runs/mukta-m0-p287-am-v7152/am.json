@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p287",
  "verse": 7152,
- "question": "Which mantra should the sacrificer recite at that stage?",
+ "question": "What substances are to be used in the next stage of the ritual sequence?",
  "premises": [
-  "The sacrificer is the agent of recitation",
-  "The recitation occurs at that time",
-  "The mantra is identified as Rudragayatri"
+  "A pot of ghee is employed as a ritual substance",
+  "A decoction is employed as a ritual substance",
+  "These uses occur in sequential stages"
  ],
- "inference": "The sacrificer should then recite the mantra named Rudragayatri",
- "uncertainties": [],
- "plain_english": "Then the sacrificer should recite the mantra called Rudragayatri."
+ "inference": "After the prior step, the rite proceeds with a ghee pot and then with a decoction",
+ "uncertainties": [
+  "The precise ritual action performed with each substance is implied rather than stated"
+ ],
+ "plain_english": "Then, after that, one should proceed with a pot of ghee and with a decoction."
 }

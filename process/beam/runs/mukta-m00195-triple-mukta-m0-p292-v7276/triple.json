@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p292",
+ "items": [
+  {
+   "verse": 7276,
+   "rows": [
+    {
+     "surface": "nīlāṃśukaparīdhānā",
+     "gloss": "clad-in-blue-garment",
+     "grounds": "bahuvrīhi compound describing attire",
+     "morph": "compound=nīla+blue,aṃśuka+garment,parīdhāna+clad; f.nom.sg"
+    },
+    {
+     "surface": "kastūrīcandanapriyā",
+     "gloss": "fond-of-musk-sandalwood",
+     "grounds": "bahuvrīhi compound describing preference",
+     "morph": "compound=kastūrī+musk,candana+sandalwood,priya+fond; f.nom.sg"
+    }
+   ],
+   "question": "What attire and preferences characterize the goddess being described?",
+   "premises": [
+    "The goddess is clad in a blue garment.",
+    "The goddess is fond of musk and sandalwood."
+   ],
+   "inference": "Her appearance and favored substances are specified as blue clothing with musk and sandalwood.",
+   "uncertainties": [],
+   "plain_english": "She is clad in a blue garment and is fond of musk and sandalwood."
+  },
+  {
+   "verse": 7277,
+   "rows": [
+    {
+     "surface": "mantriṇe",
+     "gloss": "to-practitioner",
+     "grounds": "recipient of the gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tuṣṭā",
+     "gloss": "satisfied",
+     "grounds": "state of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "act of granting",
+     "morph": "3.sg.act.pres √dā"
+    },
+    {
+     "surface": "phalatrayam",
+     "gloss": "three-fruits",
+     "grounds": "object given to the practitioner",
+     "morph": "compound=phala+fruit,traya+triad; n.acc.sg"
+    }
+   ],
+   "question": "What reward does the satisfied goddess grant to the practitioner?",
+   "premises": [
+    "The goddess is satisfied.",
+    "She gives something to the practitioner."
+   ],
+   "inference": "When satisfied, the goddess grants the practitioner a triad of fruits.",
+   "uncertainties": [
+    "The specific nature of the three fruits is not stated here."
+   ],
+   "plain_english": "When satisfied, she gives the practitioner a triad of fruits."
+  },
+  {
+   "verse": 7278,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagatīmohanakṣamam",
+     "gloss": "capable-of-enchanting-world",
+     "grounds": "describes the power granted or possessed",
+     "morph": "compound=jagatī+world,mohana+enchanting,kṣama+capable; n.acc.sg"
+    }
+   ],
+   "question": "What additional power is associated with the granted result?",
+   "premises": [
+    "The verse adds a further qualification.",
+    "The qualification concerns enchanting the world."
+   ],
+   "inference": "The result includes the capacity to enchant the world.",
+   "uncertainties": [
+    "The syntactic link to the previous verse is implied by context."
+   ],
+   "plain_english": "And it is capable of enchanting the world."
+  },
+  {
+   "verse": 7279,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gṛddhā",
+     "gloss": "desirous",
+     "grounds": "emotional state toward the practitioner",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "may-be",
+     "grounds": "potential state",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "veṣataḥ",
+     "gloss": "from-appearance",
+     "grounds": "cause or basis of attraction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to the goddess or female figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tapasvinī",
+     "gloss": "ascetic-woman",
+     "grounds": "describes her as an ascetic",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Under what condition might the ascetic woman become desirous of the practitioner?",
+   "premises": [
+    "The subject is an ascetic woman.",
+    "Her desire may arise in relation to the practitioner."
+   ],
+   "inference": "The ascetic woman may become desirous of him because of his appearance.",
+   "uncertainties": [
+    "The exact nuance of veṣataḥ in this context is somewhat ambiguous."
+   ],
+   "plain_english": "And that ascetic woman may become desirous of him because of his appearance."
+  },
+  {
+   "verse": 7280,
+   "rows": [
+    {
+     "surface": "paṃcavārṣikī",
+     "gloss": "five-years-old",
+     "grounds": "age description",
+     "morph": "compound=pañcan+five,varṣika+year-old; f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "prior verbal action",
+     "morph": "gerund √vac"
+    },
+    {
+     "surface": "bāle",
+     "gloss": "o-girl",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vacanamādhurīm",
+     "gloss": "sweetness-of-speech",
+     "grounds": "quality of speech to be employed",
+     "morph": "compound=vacana+speech,mādhurī+sweetness; f.acc.sg"
+    }
+   ],
+   "question": "How should the practitioner address the girl while speaking sweetly?",
+   "premises": [
+    "The girl is described as five years old.",
+    "The practitioner is to speak with sweetness."
+   ],
+   "inference": "Having said 'five years old,' the practitioner should address the girl with sweetness of speech.",
+   "uncertainties": [
+    "The exact syntactic role of paṃcavārṣikī as quoted speech is inferred."
+   ],
+   "plain_english": "Having said 'five years old,' O girl, one should speak with sweetness of speech."
+  },
+  {
+   "verse": 7281,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "subject being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asyā",
+     "gloss": "of-her",
+     "grounds": "refers to the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-described",
+     "grounds": "statement of exposition",
+     "morph": "3.sg.pass.pres √nirūp"
+    }
+   ],
+   "question": "What is being formally presented regarding the goddess at this point?",
+   "premises": [
+    "The text refers to her meditation.",
+    "The text states that it is being described."
+   ],
+   "inference": "Thus the meditation on her is described.",
+   "uncertainties": [],
+   "plain_english": "And thus her meditation is described."
+  },
+  {
+   "verse": 7282,
+   "rows": [
+    {
+     "surface": "caṃdrāvataṃsāṃ",
+     "gloss": "moon-crested",
+     "grounds": "describes her head ornament",
+     "morph": "compound=candra+moon,avataṃsa+crest; f.acc.sg"
+    },
+    {
+     "surface": "lalitavacanāṃ",
+     "gloss": "charming-speech",
+     "grounds": "describes her manner of speaking",
+     "morph": "compound=lalita+charming,vacana+speech; f.acc.sg"
+    },
+    {
+     "surface": "netrasuṃdarīm",
+     "gloss": "beautiful-eyed",
+     "grounds": "describes her eyes",
+     "morph": "compound=netra+eye,sundarī+beautiful; f.acc.sg"
+    }
+   ],
+   "question": "What visual and verbal qualities define the goddess in meditation?",
+   "premises": [
+    "The goddess is described with a moon crest.",
+    "She is described with charming speech and beautiful eyes."
+   ],
+   "inference": "In meditation she is visualized as moon-crested, charming in speech, and beautiful-eyed.",
+   "uncertainties": [],
+   "plain_english": "She is moon-crested, charming in speech, and beautiful-eyed."
+  },
+  {
+   "verse": 7283,
+   "rows": [
+    {
+     "surface": "tatpaścāt",
+     "gloss": "after-that",
+     "grounds": "indicates sequence of ritual actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṃkumena",
+     "gloss": "with-saffron",
+     "grounds": "ritual substance used",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual substance is introduced for the next stage of practice?",
+   "premises": [
+    "The text marks a subsequent step.",
+    "Saffron is mentioned as a substance."
+   ],
+   "inference": "After that, saffron is to be used in the ritual sequence.",
+   "uncertainties": [
+    "The full action involving saffron continues in the next verse."
+   ],
+   "plain_english": "After that, with saffron as well."
+  },
+  {
+   "verse": 7284,
+   "rows": [
+    {
+     "surface": "dhattūrakusumair",
+     "gloss": "with-dhattura-flowers",
+     "grounds": "ritual offering material",
+     "morph": "compound=dhattūra+dhattura,kusuma+flower; n.ins.pl"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "fire ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sahasraikaṃ",
+     "gloss": "one-thousand",
+     "grounds": "number of offerings",
+     "morph": "compound=sahasra+thousand,eka+one; m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act.opt √samācar"
+    }
+   ],
+   "question": "What fire offering and quantity are prescribed after the prior step?",
+   "premises": [
+    "Dhattura flowers are specified as material.",
+    "A thousand oblations are indicated."
+   ],
+   "inference": "One should perform a thousand oblations with dhattura flowers.",
+   "uncertainties": [],
+   "plain_english": "One should perform a thousand oblations with dhattura flowers."
+  },
+  {
+   "verse": 7285,
+   "rows": [
+    {
+     "surface": "nagno",
+     "gloss": "naked",
+     "grounds": "ritual condition of the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhamantraḥ",
+     "gloss": "with-accomplished-mantra",
+     "grounds": "describes practitioner as having perfected the mantra",
+     "morph": "compound=siddha+accomplished,mantra+mantra; m.nom.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act.opt √samācar"
+    }
+   ],
+   "question": "What alternative states of the practitioner are permitted for performing the rite?",
+   "premises": [
+    "The practitioner may be naked.",
+    "The practitioner may be one whose mantra is accomplished."
+   ],
+   "inference": "The rite may be performed either naked or as one who has accomplished the mantra.",
+   "uncertainties": [
+    "Whether these are alternatives or combined conditions is slightly ambiguous."
+   ],
+   "plain_english": "One should perform it naked, or as one whose mantra is accomplished."
+  },
+  {
+   "verse": 7286,
+   "rows": [
+    {
+     "surface": "tadgṛhe",
+     "gloss": "to-her-house",
+     "grounds": "destination of movement",
+     "morph": "compound=tad+her,gṛha+house; n.loc.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "prior action",
+     "morph": "gerund √gam"
+    },
+    {
+     "surface": "nagno",
+     "gloss": "naked",
+     "grounds": "ritual condition of the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bālāmanuṃ",
+     "gloss": "girl-mantra",
+     "grounds": "mantra to be recited",
+     "morph": "compound=bālā+girl,manu+mantra; m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act.opt √jap"
+    }
+   ],
+   "question": "What action must the practitioner perform after going to the girl's house?",
+   "premises": [
+    "The practitioner goes to her house.",
+    "The practitioner is naked and recites a mantra."
+   ],
+   "inference": "After going to her house naked, the practitioner should recite the girl-mantra.",
+   "uncertainties": [],
+   "plain_english": "Having gone to her house naked, one should recite the mantra of the girl."
+  },
+  {
+   "verse": 7287,
+   "rows": [
+    {
+     "surface": "drumārūḍhā",
+     "gloss": "climbed-on-tree",
+     "grounds": "describes the girl's position",
+     "morph": "compound=druma+tree,ārūḍha+climbed; f.nom.sg"
+    },
+    {
+     "surface": "dhāvaṃt",
+     "gloss": "running",
+     "grounds": "describes movement toward the practitioner",
+     "morph": "f.nom.sg.pres.part √dhāv"
+    },
+    {
+     "surface": "statsannidhau",
+     "gloss": "to-his-presence",
+     "grounds": "destination of her movement",
+     "morph": "compound=tad+his,sannidhi+presence; n.loc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "resulting action",
+     "morph": "3.sg.act.opt √vraj"
+    }
+   ],
+   "question": "What behavior is expected from the girl as a result of the rite?",
+   "premises": [
+    "The girl may be in a tree.",
+    "She moves toward the practitioner's presence."
+   ],
+   "inference": "Even if climbed on a tree, she should come running into his presence.",
+   "uncertainties": [
+    "The exact force of dhāvaṃt as a participial form is interpreted contextually."
+   ],
+   "plain_english": "Even if she has climbed a tree, she should come running into his presence."
+  },
+  {
+   "verse": 7288,
+   "rows": [
+    {
+     "surface": "jihvā",
+     "gloss": "tongue",
+     "grounds": "subject undergoing transformation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rasasandohinī",
+     "gloss": "flowing-with-juice",
+     "grounds": "describes the tongue's new quality",
+     "morph": "compound=rasa+juice,sandohinī+flowing; f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What transformation occurs in the practitioner's tongue through the practice?",
+   "premises": [
+    "The tongue is the subject.",
+    "A new quality of flowing with juice is attributed."
+   ],
+   "inference": "The practitioner's tongue becomes flowing with juice.",
+   "uncertainties": [
+    "The metaphorical or literal sense of rasa is not specified."
+   ],
+   "plain_english": "The tongue becomes flowing with juice."
+  },
+  {
+   "verse": 7289,
+   "rows": [
+    {
+     "surface": "vyāghrādipaśujātīnāṃ",
+     "gloss": "of-tiger-and-other-animals",
+     "grounds": "classes of beings affected",
+     "morph": "compound=vyāghra+tiger,ādi+etc,paśu+animal,jāti+kind; f.gen.pl"
+    },
+    {
+     "surface": "mohanaṃ",
+     "gloss": "enchantment",
+     "grounds": "power over those beings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvaco",
+     "gloss": "his-speech",
+     "grounds": "instrument of enchantment",
+     "morph": "compound=tad+his,vacas+speech; n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What power does the practitioner's speech gain over wild animals?",
+   "premises": [
+    "Tigers and other animal kinds are mentioned.",
+    "The practitioner's speech is the subject."
+   ],
+   "inference": "His speech becomes capable of enchanting tigers and other kinds of animals.",
+   "uncertainties": [],
+   "plain_english": "His speech becomes an enchantment for tigers and other kinds of animals."
+  },
+  {
+   "verse": 7290,
+   "rows": [
+    {
+     "surface": "namaś",
+     "gloss": "homage",
+     "grounds": "mantra element, sandhi form of namaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "statement of teaching",
+     "morph": "m.nom.sg.past.pass.part √pra-vac"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍakṣaraḥ",
+     "gloss": "six-syllabled",
+     "grounds": "describes mantra length",
+     "morph": "compound=ṣaṣ+six,akṣara+syllable; m.nom.sg"
+    }
+   ],
+   "question": "What is the declared length and form of the mantra being taught?",
+   "premises": [
+    "The mantra is explicitly declared.",
+    "It is described as having six syllables."
+   ],
+   "inference": "The mantra declared is six-syllabled and includes 'namaḥ'.",
+   "uncertainties": [
+    "The full six-syllable form is not completely spelled out in this verse alone."
+   ],
+   "plain_english": "And the mantra is declared to be six-syllabled, including 'namaḥ'."
+  },
+  {
+   "verse": 7291,
+   "rows": [
+    {
+     "surface": "gajānteti",
+     "gloss": "ending-with-gaja-thus",
+     "grounds": "instructional mantra fragment",
+     "morph": "compound=gaja+elephant,anta+end,iti+thus; (indecl.)"
+    },
+    {
+     "surface": "tile",
+     "gloss": "in-sesame",
+     "grounds": "ritual medium or context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "mantra word or imperative element",
+     "morph": "2.sg.act.impv √dā"
+    },
+    {
+     "surface": "yugaṃ",
+     "gloss": "pair",
+     "grounds": "quantity or repetition indicated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "What verbal formula and context are prescribed for recitation in this step?",
+   "premises": [
+    "Specific mantra elements are given.",
+    "Sesame is mentioned as the context."
+   ],
+   "inference": "One should say the formula including 'gajānta' and 'dehi' as a pair in relation to sesame.",
+   "uncertainties": [
+    "The precise ritual application of the formula with sesame is unclear."
+   ],
+   "plain_english": "One should say the pair ending with 'gaja' and 'dehi' in connection with sesame."
+  },
+  {
+   "verse": 7292,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "associates the mantra with fire",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject being identified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samākhyāto",
+     "gloss": "is-called",
+     "grounds": "statement of designation",
+     "morph": "m.nom.sg.past.pass.part √sam-ā-khyā"
+    },
+    {
+     "surface": "nāganetramitākṣaraḥ",
+     "gloss": "syllables-measured-by-naga-eye",
+     "grounds": "numerical description of syllable count",
+     "morph": "compound=nāga+nāga,netra+eye,mita+measured,akṣara+syllable; m.nom.sg"
+    }
+   ],
+   "question": "How is the fire mantra identified and measured in syllables?",
+   "premises": [
+    "The mantra is associated with fire.",
+    "Its syllable count is given by a symbolic measure."
+   ],
+   "inference": "The mantra of fire is called one whose syllables are measured by nāga and eye.",
+   "uncertainties": [
+    "The exact numerical value of nāga and netra in this count is not explicit here."
+   ],
+   "plain_english": "The mantra of fire is said to have syllables measured by nāga and eye."
+  },
+  {
+   "verse": 7293,
+   "rows": [
+    {
+     "surface": "tādṛgvanavibhūṣite",
+     "gloss": "adorned-with-such-forest",
+     "grounds": "describes a place or setting",
+     "morph": "compound=tādṛś+such,vana+forest,vibhūṣita+adorned; n.loc.sg"
+    }
+   ],
+   "question": "What kind of setting is specified for the ritual context?",
+   "premises": [
+    "A location is described.",
+    "The location is adorned with such a forest."
+   ],
+   "inference": "The setting is a place adorned with a forest of that kind.",
+   "uncertainties": [
+    "The referent of 'such' depends on prior context."
+   ],
+   "plain_english": "In a place adorned with such a forest."
+  },
+  {
+   "verse": 7294,
+   "rows": [
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "fire ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "daśāṃśataḥ",
+     "gloss": "as-tenth-part",
+     "grounds": "proportional quantity of oblations",
+     "morph": "compound=daśan+ten,aṃśa+part; (indecl.)"
+    }
+   ],
+   "question": "What proportion of oblations should be performed in this context?",
+   "premises": [
+    "An oblation is prescribed.",
+    "A tenth part is specified."
+   ],
+   "inference": "One should perform oblations as a tenth part.",
+   "uncertainties": [
+    "The base quantity of which this is a tenth is not stated here."
+   ],
+   "plain_english": "One should perform oblations as a tenth part."
+  },
+  {
+   "verse": 7295,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "on-eighth-day",
+     "grounds": "ritual timing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇapakṣe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "lunar phase for the rite",
+     "morph": "compound=kṛṣṇa+dark,pakṣa+fortnight; m.loc.sg"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-rite",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "time of performance",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "When should the prescribed rite be performed according to lunar timing?",
+   "premises": [
+    "The eighth day is specified.",
+    "The dark fortnight and night are specified."
+   ],
+   "inference": "The rite should likewise be performed on the eighth day of the dark fortnight at night.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in the rite, on the eighth day of the dark fortnight at night."
+  },
+  {
+   "verse": 7296,
+   "rows": [
+    {
+     "surface": "bhīṣayanti",
+     "gloss": "they-frighten",
+     "grounds": "threatening appearances or beings",
+     "morph": "3.pl.act.pres √bhīṣ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of fear",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhetavyaṃ",
+     "gloss": "should-be-feared",
+     "grounds": "injunction against fear",
+     "morph": "n.nom.sg.gerundive √bhī"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time of the frightening events",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "at-all",
+     "grounds": "emphasizes complete absence of fear",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner respond when frightening manifestations arise during the rite?",
+   "premises": [
+    "Frightening manifestations occur.",
+    "The text gives an instruction about fear."
+   ],
+   "inference": "Even if they frighten, one should not be afraid at all at that time.",
+   "uncertainties": [
+    "The identity of those who frighten is not specified."
+   ],
+   "plain_english": "They may frighten, but one should not be afraid at all then."
+  },
+  {
+   "verse": 7297,
+   "rows": [
+    {
+     "surface": "samārabdhe",
+     "gloss": "when-begun",
+     "grounds": "condition of the rite having started",
+     "morph": "n.loc.sg.past.pass.part √sam-ā-rabh"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time of the event",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kātyāyanī",
+     "gloss": "Katyayani",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "emphasizes direct appearance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddess appears personally once the ritual has begun?",
+   "premises": [
+    "The rite has been begun.",
+    "A goddess appears at that time."
+   ],
+   "inference": "When the rite is begun, Kātyāyanī herself appears.",
+   "uncertainties": [],
+   "plain_english": "When it has begun, Kātyāyanī herself appears then."
+  },
+  {
+   "verse": 7298,
+   "rows": [
+    {
+     "surface": "siñcet",
+     "gloss": "she-sprinkles",
+     "grounds": "action performed by the goddess",
+     "morph": "3.sg.act.opt √sic"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence after sprinkling",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāpi",
+     "gloss": "she-also",
+     "grounds": "refers to the same goddess",
+     "morph": "compound=sā+she,api+also; f.nom.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "departs",
+     "grounds": "subsequent action",
+     "morph": "3.sg.act.pres √pra-yā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions does the goddess perform after her appearance in the rite?",
+   "premises": [
+    "The goddess is present.",
+    "She performs a sprinkling action and then leaves."
+   ],
+   "inference": "She sprinkles and then she also departs.",
+   "uncertainties": [
+    "What is sprinkled is not specified in this verse."
+   ],
+   "plain_english": "She sprinkles, and then she also departs."
+  },
+  {
+   "verse": 7299,
+   "rows": [
+    {
+     "surface": "gajamuṇḍaṃ",
+     "gloss": "elephant-head",
+     "grounds": "object associated with the goddess",
+     "morph": "compound=gaja+elephant,muṇḍa+head; n.acc.sg"
+    },
+    {
+     "surface": "carvayantī",
+     "gloss": "chewing",
+     "grounds": "describes her action",
+     "morph": "f.nom.sg.pres.part.caus √carv"
+    },
+    {
+     "surface": "vamantī",
+     "gloss": "vomiting",
+     "grounds": "describes her action",
+     "morph": "f.nom.sg.pres.part √vam"
+    },
+    {
+     "surface": "śoṇitam",
+     "gloss": "blood",
+     "grounds": "substance emitted",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "place where blood falls",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What fierce actions characterize the goddess's terrifying manifestation?",
+   "premises": [
+    "The goddess is described with an elephant head.",
+    "She is chewing and vomiting blood on the earth."
+   ],
+   "inference": "In her fierce manifestation she chews an elephant head and vomits blood on the earth.",
+   "uncertainties": [],
+   "plain_english": "Chewing an elephant head and vomiting blood on the earth."
+  }
+ ]
+}
