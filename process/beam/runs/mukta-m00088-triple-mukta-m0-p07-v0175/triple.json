@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "sarvārthasādhakaṃ",
+     "gloss": "all-purposes-accomplishing",
+     "grounds": "compound sarva+artha+sādhaka describing the cakra",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "indeclinable naming particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṇādibhāntaiḥ",
+     "gloss": "ṇa-to-bha-letters",
+     "grounds": "compound ṇa-ādi-bha-anta in instrumental plural",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "vibhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past passive participle of bhūṣ",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "Which letter-range adorns the all-purposes-accomplishing cakra named sarvārthasādhakaṃ?",
+   "premises": [
+    "The cakra is named sarvārthasādhakaṃ.",
+    "It is adorned with ṇa-to-bha letters.",
+    "It accomplishes all purposes."
+   ],
+   "inference": "The sarvārthasādhaka cakra is adorned by the ṇa-to-bha letter range.",
+   "uncertainties": [
+    "The isolated verse does not fix whether -am forms are nominative or accusative."
+   ],
+   "plain_english": "The cakra named sarvārthasādhakaṃ is adorned with letters from ṇa to bha."
+  }
+ ]
+}

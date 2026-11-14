@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p09",
  "verse": 207,
- "question": "What garment must be employed when the preferred option is absent?",
+ "question": "Which powers are declared in order as brahma-lines?",
  "premises": [
-  "The prior option may be absent.",
-  "Red silk is specified as the garment.",
-  "No other garment should be employed."
+  "Atom and so forth are brahma-lines.",
+  "They are declared in order."
  ],
- "inference": "In that absence, one should employ only red silk and no other garment.",
- "uncertainties": [],
- "plain_english": "In the absence of that, one should employ red silk and no other garment."
+ "inference": "The powers are ordered as brahma-lines.",
+ "uncertainties": [
+  "The full list after ādi is not specified."
+ ],
+ "plain_english": "Atom and so forth are declared in order as brahma-lines."
 }

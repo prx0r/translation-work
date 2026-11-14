@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p07",
  "verse": 156,
- "question": "What should the best sādhaka utter after reciting this?",
+ "question": "Which flowers are named in the place where Bhairava is addressed?",
  "premises": [
-  "this has been recited",
-  "vāgbhava is then uttered"
+  "The verse names aparajita flower.",
+  "It names java flower.",
+  "Bhairava is addressed."
  ],
- "inference": "The sequence continues with utterance of vāgbhava.",
+ "inference": "The specified flowers are associated with the Bhairava context.",
  "uncertainties": [
-  "antecedent of etat"
+  "Whether these are required offerings or merely mentioned is unclear."
  ],
- "plain_english": "Having recited this, the best sādhaka utters vāgbhava."
+ "plain_english": "Where aparajita and java flowers are present, Bhairava is invoked."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 148,
- "question": "Which aspects of the fire deity are to be placed in the specified locations?",
+ "question": "How are the nine wheels begun from the square in order?",
  "premises": [
-  "The deity is characterized as all-facing and god-facing.",
-  "Specific places have already been indicated.",
-  "Placement is prescribed in those places."
+  "Beginning from the square.",
+  "Nine wheels are made.",
+  "They are made in order."
  ],
- "inference": "One should place the all-facing, god-facing deity in these places.",
- "uncertainties": [],
- "plain_english": "One should place the all-facing, god-facing one in these places."
+ "inference": "The verse says beginning from the square, the nine wheels are made in order.",
+ "uncertainties": [
+  "Exact geometric construction is not detailed."
+ ],
+ "plain_english": "Beginning from the square, the nine wheels are made in order."
 }

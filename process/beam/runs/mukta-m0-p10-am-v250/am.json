@@ -1,15 +1,16 @@
 {
  "song": "mukta-m0-p10",
  "verse": 250,
- "question": "Why must this vidyā be worshipped by all traditions yet concealed with effort?",
+ "question": "When no specific mantra is prescribed, should the name-mantra be used in every ritual context?",
  "premises": [
-  "Vidyā is worshipped by all traditions.",
-  "It causes benefit to all.",
-  "It must be concealed with effort."
+  "mantra specification absent triggers default",
+  "name-mantra applies universally",
+  "ritual employment is prescribed"
  ],
- "inference": "Universal worship and benefit coexist with strict secrecy.",
+ "inference": "Therefore the name-mantra is the universal substitute when no mantra is specified.",
  "uncertainties": [
-  "sakalahitakarī modifies vidyā from the preceding verse"
+  "exact sense of anuktau remains uncertain",
+  "scope of sarvatra in ritual practice remains unclear"
  ],
- "plain_english": "This vidyā is to be worshipped by all traditions, brings benefit to all, and must be carefully concealed."
+ "plain_english": "When no mantra is specified, one should use the name-mantra everywhere."
 }

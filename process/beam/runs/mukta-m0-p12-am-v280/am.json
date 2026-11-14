@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 280,
- "question": "What substitute offering is prescribed when no oblation substance is specified?",
+ "question": "What materials may the vessel be made from?",
  "premises": [
-  "Some ritual contexts leave the oblation substance unspecified.",
-  "A default substitute must be available.",
-  "Sesame and ghee can serve as oblation."
+  "mṛnmayaṃ names earthen",
+  "tāmrajaṃ+vā'pi names copper born",
+  "lohasamudbhavam names iron born"
  ],
- "inference": "When the offering substance is unspecified, sesame-ghee is designated as the oblation.",
- "uncertainties": [],
- "plain_english": "But when the offering substance is not specified, sesame mixed with ghee is called the oblation."
+ "inference": "The vessel may be earthen, copper-born, or iron-born.",
+ "uncertainties": [
+  "vessel type implied"
+ ],
+ "plain_english": "It may be earthen, or copper-born, or iron-born."
 }

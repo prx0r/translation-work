@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "hṛdā",
+     "gloss": "by-heart",
+     "grounds": "instrumental of hṛd",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "prokṣitam",
+     "gloss": "purified",
+     "grounds": "past participle of prokṣ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādhāraṃ",
+     "gloss": "support",
+     "grounds": "accusative of ādhāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthāpayen",
+     "gloss": "should-place",
+     "grounds": "optative of causative sthā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "maṇḍalopari",
+     "gloss": "on-the-mandala",
+     "grounds": "compound maṇḍala plus upari",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the purified support be placed in the mandala rite?",
+   "premises": [
+    "The support is purified by the heart.",
+    "The support is placed on the mandala.",
+    "Placement follows the prior triangular arrangement."
+   ],
+   "inference": "Therefore the purified support rests atop the mandala.",
+   "uncertainties": [
+    "hṛdā may mean by heart or with water.",
+    "sthāpayen is prescriptive optative."
+   ],
+   "plain_english": "Having purified the support with the heart, one should place it on the mandala."
+  }
+ ]
+}

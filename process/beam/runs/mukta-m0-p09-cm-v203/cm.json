@@ -3,39 +3,44 @@
  "verse": 203,
  "rows": [
   {
-   "lemma": "kathayāmi",
-   "morph": "1.sg.present-active (√kath)",
-   "grounds": "speaker announces instruction"
+   "lemma": "eko",
+   "morph": "m.nom.sg",
+   "grounds": "nominative singular masculine"
   },
   {
-   "lemma": "tava",
-   "morph": "pron.gen.sg",
-   "grounds": "addressee of the teaching"
+   "lemma": "dharmo",
+   "morph": "m.nom.sg",
+   "grounds": "nominative singular masculine"
   },
   {
-   "lemma": "snehāt",
-   "morph": "m.abl.sg",
-   "grounds": "states the motive for revealing"
+   "lemma": "guṇān",
+   "morph": "m.acc.pl",
+   "grounds": "accusative plural masculine"
   },
   {
-   "lemma": "ataḥ",
+   "lemma": "sūte",
+   "morph": "3.sg.act-pres root sū",
+   "grounds": "third person singular active present of sū"
+  },
+  {
+   "lemma": "adharmaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "nominative singular masculine"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "connects motive to result"
+   "grounds": "indeclinable particle"
   },
   {
-   "lemma": "siddhi+karaṃ",
-   "morph": "compound: siddhi+kara (n.acc.sg)",
-   "grounds": "compound describing the effect of the teaching"
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable adverb"
   },
   {
-   "lemma": "druta+siddhi+karaṃ",
-   "morph": "compound: druta+siddhi+kara (n.acc.sg)",
-   "grounds": "compound emphasizing rapid accomplishment"
-  },
-  {
-   "lemma": "param",
-   "morph": "n.acc.sg",
-   "grounds": "qualifies the teaching as highest"
+   "lemma": "mataḥ",
+   "morph": "m.nom.sg",
+   "grounds": "past participle in nominative singular"
   }
  ]
 }

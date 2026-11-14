@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "connects to prior kaulikī mudrā instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayatnato",
+     "gloss": "carefully",
+     "grounds": "adverbial ablative sense of effort",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "agent who performs mantra rites",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tarpayed",
+     "gloss": "should-satisfy",
+     "grounds": "causative optative of root tṛp",
+     "morph": "3.sg.act.opt. + root tarpay"
+    },
+    {
+     "surface": "anayā",
+     "gloss": "by-this",
+     "grounds": "instrumental feminine singular pronoun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must a mantrin always carefully perform satisfaction using this kaulikī mudrā?",
+   "premises": [
+    "kaulikī mudrā is remembered with middle-finger-thumb union",
+    "mantrin should satisfy threefold by each mantra",
+    "therefore careful satisfaction by this always follows"
+   ],
+   "inference": "The mantrin must always carefully satisfy by this kaulikī mudrā.",
+   "uncertainties": [
+    "anayā may refer to the mudrā or to the preceding mantra procedure"
+   ],
+   "plain_english": "Therefore the mantrin should always carefully satisfy by this."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "anaphoric pronoun referring to the self under discussion",
+     "morph": "pron.3.sg.m"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "subject identified as the self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇarūpī",
+     "gloss": "prāṇa-formed",
+     "grounds": "compound of prāṇa and rūpī, formed of breath or life-force",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle marking distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "heart",
+     "grounds": "locative indicating the seat of the supreme self",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paramātmakaḥ",
+     "gloss": "supreme-soul",
+     "grounds": "compound of parama and ātmaka, having supreme-self nature",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "What is the relation between the prāṇa-formed self and the supreme self in the heart?",
+   "premises": [
+    "The self is prāṇa-formed.",
+    "The supreme self resides in heart.",
+    "The contrast distinguishes two levels."
+   ],
+   "inference": "Thus the embodied self is breath-formed while the supreme self abides in the heart.",
+   "uncertainties": [
+    "The exact referent of sa is not explicit in this verse."
+   ],
+   "plain_english": "He is the self formed of prāṇa, but the supreme self is in the heart."
+  }
+ ]
+}
