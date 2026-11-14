@@ -3,29 +3,34 @@
  "verse": 1160,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "mūrdhni",
+   "morph": "m.loc.sg",
+   "grounds": "placement location"
+  },
+  {
+   "lemma": "bhāle",
+   "morph": "n.loc.sg",
+   "grounds": "placement location"
+  },
+  {
+   "lemma": "dṛśoḥ",
+   "morph": "f.loc.du",
+   "grounds": "placement location"
+  },
+  {
+   "lemma": "śrutyoḥ",
+   "morph": "f.loc.du",
+   "grounds": "placement location"
+  },
+  {
+   "lemma": "nāsā+āsya+cibukeṣu",
+   "morph": "n.loc.pl compound",
+   "grounds": "placement locations listed together"
+  },
+  {
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "negation particle"
-  },
-  {
-   "lemma": "syāt",
-   "morph": "3.sg.optative-active (as)",
-   "grounds": "optative expressing possibility"
-  },
-  {
-   "lemma": "prasannā",
-   "morph": "f.nom.sg (past participle pra-sad)",
-   "grounds": "state of grace or favor"
-  },
-  {
-   "lemma": "yadi",
-   "morph": "(indecl.)",
-   "grounds": "conditional particle"
-  },
-  {
-   "lemma": "cakrahastā",
-   "morph": "f.nom.sg (bahuvrīhi: cakra+hasta)",
-   "grounds": "epithet of the goddess whose favor is in question"
+   "grounds": "extends the list of locations"
   }
  ]
 }

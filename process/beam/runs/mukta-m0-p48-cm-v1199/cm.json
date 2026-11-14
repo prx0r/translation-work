@@ -3,34 +3,39 @@
  "verse": 1199,
  "rows": [
   {
-   "lemma": "tataḥ",
+   "lemma": "rakta",
+   "morph": "compound-first-member",
+   "grounds": "describes the color of the cloth"
+  },
+  {
+   "lemma": "vastreṇa",
+   "morph": "n.inst.sg (compound-second-member)",
+   "grounds": "material used in making the image"
+  },
+  {
+   "lemma": "lavaṇaiḥ",
+   "morph": "n.inst.pl",
+   "grounds": "material used in making the image"
+  },
+  {
+   "lemma": "kuryāt",
+   "morph": "3.sg.opt.act (√kṛ)",
+   "grounds": "prescribed act of fashioning"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indicates sequence"
+   "grounds": "connects materials or actions"
   },
   {
-   "lemma": "pūrva+sthite",
-   "morph": "pūrva+sthita+e (compound, n.loc.sg)",
-   "grounds": "location of the platform"
+   "lemma": "pratimāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "ritual image to be made"
   },
   {
-   "lemma": "pīṭhe",
-   "morph": "n.loc.sg",
-   "grounds": "place for offering"
-  },
-  {
-   "lemma": "balim",
-   "morph": "m.acc.sg",
-   "grounds": "object to be given"
-  },
-  {
-   "lemma": "dadyāt",
-   "morph": "3.sg.act-optative (√dā)",
-   "grounds": "ritual instruction"
-  },
-  {
-   "lemma": "viśeṣataḥ",
-   "morph": "(indecl.)",
-   "grounds": "emphasizes special care"
+   "lemma": "śubhām",
+   "morph": "f.acc.sg",
+   "grounds": "describes the desired quality of the image"
   }
  ]
 }

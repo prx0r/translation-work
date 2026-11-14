@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1179,
- "question": "What auspicious accompaniments must attend the ritual presentation described here?",
+ "question": "Which parts are designated as the fifth and sixth in the division of the effigy?",
  "premises": [
-  "The presentation is accompanied by the sound of a conch",
-  "The presentation is endowed with a parasol, lamp, and similar items"
+  "The fifth part should be upward from the middle.",
+  "The sixth is declared to be a half part.",
+  "These assignments follow the prescribed sequence."
  ],
- "inference": "The ritual presentation must be accompanied by conch sound and furnished with a parasol, lamp, and other such items.",
- "uncertainties": [],
- "plain_english": "It should be accompanied by the sound of a conch and endowed with a parasol, lamp, and the like."
+ "inference": "The fifth division is taken upward from the middle, and the sixth is declared to be a half portion.",
+ "uncertainties": [
+  "The exact anatomical referent of 'upward from the middle' and 'half part' is not fully specified."
+ ],
+ "plain_english": "The fifth should be upward from the middle, and the sixth is declared to be a half portion."
 }

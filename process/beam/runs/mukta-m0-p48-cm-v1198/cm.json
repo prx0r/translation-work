@@ -3,29 +3,39 @@
  "verse": 1198,
  "rows": [
   {
-   "lemma": "gaṇeśam",
-   "morph": "m.acc.sg",
-   "grounds": "deity to be worshipped"
+   "lemma": "padma",
+   "morph": "compound-first-member",
+   "grounds": "first member of compound naming the flower"
   },
   {
-   "lemma": "tatra",
+   "lemma": "puṣpaṃ",
+   "morph": "n.acc.sg (compound-second-member)",
+   "grounds": "flower to be spread"
+  },
+  {
+   "lemma": "paristīrya",
+   "morph": "gerund (√stṛ with pari)",
+   "grounds": "act of spreading as a base"
+  },
+  {
+   "lemma": "kuśaiḥ",
+   "morph": "m.inst.pl",
+   "grounds": "material spread along with flowers"
+  },
+  {
+   "lemma": "śara",
+   "morph": "compound-first-member",
+   "grounds": "first member of compound indicating material"
+  },
+  {
+   "lemma": "mayaiḥ",
+   "morph": "m.inst.pl (compound-second-member)",
+   "grounds": "indicates items made of reed"
+  },
+  {
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "location of worship"
-  },
-  {
-   "lemma": "saṃpūjya",
-   "morph": "indecl. absolutive (√pūj with sam)",
-   "grounds": "prior ritual action"
-  },
-  {
-   "lemma": "sa+upacāram",
-   "morph": "sa+upacāra+am (compound, n.acc.sg)",
-   "grounds": "manner of worship"
-  },
-  {
-   "lemma": "viśeṣataḥ",
-   "morph": "(indecl.)",
-   "grounds": "emphasizes special care"
+   "grounds": "includes additional material"
   }
  ]
 }

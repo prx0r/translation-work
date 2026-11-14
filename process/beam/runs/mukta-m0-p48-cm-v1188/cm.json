@@ -3,24 +3,34 @@
  "verse": 1188,
  "rows": [
   {
-   "lemma": "tat+adhast",
-   "morph": "tat+adhast (compound, indecl.)",
-   "grounds": "relative location"
+   "lemma": "vāma",
+   "morph": "compound-first-member",
+   "grounds": "specifies the side of the foot"
   },
   {
-   "lemma": "agni+kārya+artham",
-   "morph": "agni+kārya+artha+am (compound, n.acc.sg)",
-   "grounds": "purpose of placement"
+   "lemma": "pādaṃ",
+   "morph": "m.acc.sg (compound-second-member)",
+   "grounds": "starting point of the action"
   },
   {
-   "lemma": "adhastāt",
-   "morph": "(indecl.)",
-   "grounds": "further spatial specification"
+   "lemma": "samārabhya",
+   "morph": "gerund (√rabh with sam-ā)",
+   "grounds": "indicates the starting point"
   },
   {
-   "lemma": "bali+karmaṇe",
-   "morph": "bali+karman+e (compound, n.dat.sg)",
-   "grounds": "purpose of placement"
+   "lemma": "dakṣiṇa",
+   "morph": "compound-first-member",
+   "grounds": "specifies the side of the foot"
+  },
+  {
+   "lemma": "aṅghri",
+   "morph": "compound-first-member",
+   "grounds": "endpoint of the action"
+  },
+  {
+   "lemma": "avasānakam",
+   "morph": "n.acc.sg (compound-second-member)",
+   "grounds": "indicates the concluding point"
   }
  ]
 }

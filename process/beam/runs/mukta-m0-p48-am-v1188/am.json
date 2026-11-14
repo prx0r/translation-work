@@ -1,13 +1,13 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1188,
- "question": "For what distinct ritual purposes must portions be placed below that location?",
+ "question": "From which foot to which foot should the ritual action proceed in this sequence?",
  "premises": [
-  "A portion is placed below that location for the fire ritual",
-  "Another portion is placed below for the offering rite",
-  "These purposes are distinct"
+  "The action begins at the left foot.",
+  "The action ends at the right foot.",
+  "The sequence is defined by these two endpoints."
  ],
- "inference": "Portions must be placed below for the sake of the fire ritual and below for the offering rite.",
+ "inference": "The ritual action should proceed beginning with the left foot and ending with the right foot.",
  "uncertainties": [],
- "plain_english": "Below that, for the sake of the fire ritual, and below for the offering rite."
+ "plain_english": "Beginning with the left foot and ending with the right foot."
 }

@@ -3,24 +3,39 @@
  "verse": 1194,
  "rows": [
   {
-   "lemma": "nakṣatra+rāśi+vargebhyaḥ",
-   "morph": "nakṣatra+rāśi+varga+ebhyaḥ (compound, m.dat.pl)",
-   "grounds": "recipients of offerings"
+   "lemma": "tāla",
+   "morph": "compound-first-member",
+   "grounds": "first member of compound naming the writing surface"
   },
   {
-   "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "indicates similar action"
+   "lemma": "patre",
+   "morph": "n.loc.sg (compound-second-member)",
+   "grounds": "surface on which the mantra is written"
   },
   {
-   "lemma": "viśva+gaṇāya",
-   "morph": "viśva+gaṇa+āya (compound, m.dat.sg)",
-   "grounds": "collective recipient"
+   "lemma": "likhet",
+   "morph": "3.sg.opt.act (√likh)",
+   "grounds": "prescribed act of inscription"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "lemma": "mantraṃ",
+   "morph": "m.acc.sg",
+   "grounds": "sacred formula to be written"
+  },
+  {
+   "lemma": "sādhya",
+   "morph": "compound-first-member",
+   "grounds": "first member of compound indicating the target's name"
+  },
+  {
+   "lemma": "nāma",
+   "morph": "n.nom.sg (compound-second-member)",
+   "grounds": "name of the target"
+  },
+  {
+   "lemma": "vidarbhitam",
+   "morph": "m.acc.sg.past-passive-participle (√dṛbh with vi)",
+   "grounds": "target's name inserted within the mantra"
   }
  ]
 }

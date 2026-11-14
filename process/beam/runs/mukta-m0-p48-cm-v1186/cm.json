@@ -3,29 +3,34 @@
  "verse": 1186,
  "rows": [
   {
-   "lemma": "amṛtīkṛtya",
-   "morph": "indecl. absolutive (amṛtī-√kṛ)",
-   "grounds": "ritual consecration action"
+   "lemma": "japa",
+   "morph": "compound-first-member",
+   "grounds": "first member of compound listing ritual acts"
   },
   {
-   "lemma": "go+stanyā",
-   "morph": "go+stanya+ā (compound, n.ins.sg)",
-   "grounds": "substance used for consecration"
+   "lemma": "pūjā",
+   "morph": "compound-first-member",
+   "grounds": "first member of compound listing ritual acts"
   },
   {
-   "lemma": "naivedye",
-   "morph": "n.loc.sg",
-   "grounds": "location for placing the flower"
-  },
-  {
-   "lemma": "kusumam",
+   "lemma": "ādikaṃ",
    "morph": "n.acc.sg",
-   "grounds": "item to be placed"
+   "grounds": "includes other similar ritual acts"
   },
   {
-   "lemma": "nyaset",
-   "morph": "3.sg.act-optative (√as with ni)",
-   "grounds": "ritual instruction"
+   "lemma": "kuryāt",
+   "morph": "3.sg.opt.act (√kṛ)",
+   "grounds": "prescribed performance"
+  },
+  {
+   "lemma": "prāguvartmanā",
+   "morph": "n.inst.sg",
+   "grounds": "according to the method described earlier"
+  },
+  {
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "marks the next step in sequence"
   }
  ]
 }

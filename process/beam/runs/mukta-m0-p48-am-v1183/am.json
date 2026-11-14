@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1183,
- "question": "Where must all the condiments be arranged in relation to the food-offering?",
+ "question": "How and by whom should the placement be carried out following the earlier procedure?",
  "premises": [
-  "All condiments are to be placed",
-  "The food-offering serves as the base",
-  "The condiments go above the food-offering"
+  "The practitioner is the agent who should place.",
+  "The placement must follow the earlier method.",
+  "The action must be done according to rule."
  ],
- "inference": "All condiments should be placed on top of the food-offering.",
- "uncertainties": [],
- "plain_english": "One should place all the condiments on top of the food-offering."
+ "inference": "The practitioner should then place it according to rule, as before.",
+ "uncertainties": [
+  "The specific object to be placed is implied from context rather than named."
+ ],
+ "plain_english": "Then the practitioner should place it according to the rule, just as before."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1197,
- "question": "What numerical groups of attendants are specified for the ritual arrangement?",
+ "question": "On what kind of seat should the practitioner be seated for this ritual performance?",
  "premises": [
-  "Attendants are enumerated in groups",
-  "The groups are eight, twelve, sixteen, and thirty-two",
-  "These numbers define the attendants"
+  "The seat is made of wood from the target's tree.",
+  "The practitioner is seated upon it.",
+  "The seat is described as excellent."
  ],
- "inference": "The attendants are indeed eight, twelve, sixteen, and thirty-two in number.",
- "uncertainties": [],
- "plain_english": "Indeed, the attendants are eight, twice six, twice eight, and thirty-two."
+ "inference": "The practitioner should be seated on an excellent seat made from the target's tree.",
+ "uncertainties": [
+  "The meaning of 'target's tree' depends on prior ritual context."
+ ],
+ "plain_english": "Seated on an excellent seat made of wood from the target's tree."
 }

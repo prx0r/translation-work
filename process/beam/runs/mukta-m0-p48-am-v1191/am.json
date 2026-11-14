@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1191,
- "question": "What order must govern the giving of offerings when material offerings are absent?",
+ "question": "Which sage is identified as the seer associated with this ritual practice?",
  "premises": [
-  "Material offerings may be absent",
-  "The giving of offerings must still occur",
-  "It must be preceded by the door guardian"
+  "The sage is described as belonging to Varuna.",
+  "He is named Varuna and called Sancalana.",
+  "He is identified personally as the seer."
  ],
- "inference": "In the absence of material offerings, the giving of offerings should proceed beginning with the door guardian.",
- "uncertainties": [],
- "plain_english": "In the absence of it, the giving of offerings should be preceded by the door guardian."
+ "inference": "The sage associated with this practice is Sancalana, himself of Varuna, named Varuna.",
+ "uncertainties": [
+  "The exact parsing of 'varuṇā nāma' as a name element is slightly ambiguous."
+ ],
+ "plain_english": "The sage is Sancalana himself, of Varuna, known by the name Varuna."
 }

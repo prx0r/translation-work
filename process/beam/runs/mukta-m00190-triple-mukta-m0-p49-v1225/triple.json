@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "ātma+rakṣā",
+     "gloss": "self-protection",
+     "grounds": "compound object denoting protection of oneself",
+     "morph": "compound(ātma+rakṣā).f.acc.sg"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "beginning-with",
+     "grounds": "indicates 'and so forth' when qualifying sarvaṃ",
+     "morph": "compound(ādi+ka).n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of acts including self-protection and others",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive optative enjoining the action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "ritual practitioner as the agent of the injunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "refers to previously established practice",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What obligation does the mantrin have regarding self-protection and all prior acts?",
+   "premises": [
+    "The mantrin is the prescribed agent of the action.",
+    "Self-protection and all similar acts are included in the scope.",
+    "The manner of performance follows what was done before."
+   ],
+   "inference": "Therefore the mantrin must perform self-protection and all such acts as previously established.",
+   "uncertainties": [],
+   "plain_english": "The mantrin should perform self-protection and all such acts just as before."
+  }
+ ]
+}
