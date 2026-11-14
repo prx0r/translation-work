@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p201",
  "verse": 5014,
- "question": "What proportional measurements are prescribed for the bull's body parts?",
+ "question": "What measure is declared for the left side of the belly from the thread?",
  "premises": [
-  "neck width is fifty",
-  "root width is specified"
+  "Measurement is taken from the thread",
+  "The left belly is the reference",
+  "The measure is given as ravi-aṅgulas"
  ],
- "inference": "The verse continues the measurement scheme.",
+ "inference": "The left belly is declared to be at a distance of ravi-aṅgulas from the thread.",
  "uncertainties": [
-  "unit context is implicit"
+  "Exact numeric value of ravi requires traditional convention"
  ],
- "plain_english": "It gives neck and root width measurements."
+ "plain_english": "From the thread, the left side of the belly is declared to be ravi aṅgulas."
 }

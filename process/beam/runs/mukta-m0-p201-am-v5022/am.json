@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p201",
  "verse": 5022,
- "question": "What proportional measurements are prescribed for the bull's body parts?",
+ "question": "What measures are prescribed at the arm end and the armpit end?",
  "premises": [
-  "shank tip is three measure",
-  "remainder by strength"
+  "The arm end is three measures",
+  "The armpit end is viśva measures",
+  "Both are prescribed as should-be"
  ],
- "inference": "The verse gives shank tip measure.",
+ "inference": "The arm end should be three measures and the armpit end viśva measures.",
  "uncertainties": [
-  "strength-based remainder"
+  "Exact numeric value of viśva requires traditional convention"
  ],
- "plain_english": "Shank tip is three measure and remainder by strength."
+ "plain_english": "At the end of the arm it should be three measures, and at the end of the armpit viśva measures."
 }

@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p201",
  "verse": 5019,
- "question": "What proportional measurements are prescribed for the bull's body parts?",
+ "question": "What measures are assigned to the face and throat on the left of the thread?",
  "premises": [
-  "hoof height is two measure",
-  "tail root is mentioned"
+  "Measurements are taken from the thread on the left",
+  "The face is assigned five measures",
+  "The throat is assigned three measures"
  ],
- "inference": "The verse gives hoof height.",
- "uncertainties": [
-  "tail root measure implicit"
- ],
- "plain_english": "Hoof height is two measure, and tail root is mentioned."
+ "inference": "On the left of the thread, the face measures five units and the throat three units.",
+ "uncertainties": [],
+ "plain_english": "From the thread on the left, the face is five measures and the throat three measures."
 }

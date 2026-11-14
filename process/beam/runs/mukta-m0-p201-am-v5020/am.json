@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p201",
  "verse": 5020,
- "question": "What proportional measurements are prescribed for the bull's body parts?",
+ "question": "What measures are prescribed for the middle belly and the hip?",
  "premises": [
-  "testicle width is not wide",
-  "measure is two measure"
+  "The middle belly is eight measures",
+  "The hip is measured by viśva-aṅgulas",
+  "Both measures are prescribed"
  ],
- "inference": "The verse gives testicle width measure.",
+ "inference": "The middle belly should be eight measures and the hip measured by viśva-aṅgulas.",
  "uncertainties": [
-  "exact width value"
+  "Exact numeric value of viśva requires traditional convention"
  ],
- "plain_english": "Testicle width is not wide and is two measure."
+ "plain_english": "The middle belly should be eight measures, and the hip by viśva aṅgulas."
 }
