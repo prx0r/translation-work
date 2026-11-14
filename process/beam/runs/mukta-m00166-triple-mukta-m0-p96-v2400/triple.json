@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "bāṇa",
+     "gloss": "arrow",
+     "grounds": "first member of compound bāṇa-puṅkha, arrow-feather",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṅkha",
+     "gloss": "feather",
+     "grounds": "second member of compound bāṇa-puṅkha, fletching of an arrow",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anuvartinī",
+     "gloss": "following",
+     "grounds": "feminine adjective agreeing with khaṭvā from prior context, describing constant alignment",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What manner of steadfast alignment characterizes the ever-unbroken support?",
+   "premises": [
+    "An arrow moves in alignment with its feather.",
+    "The support is described as following in that manner.",
+    "Such following implies unwavering and directed adherence."
+   ],
+   "inference": "The ever-unbroken support maintains a constant, unwavering alignment like an arrow following its feather.",
+   "uncertainties": [
+    "The precise metaphorical referent of the alignment depends on the broader context of khaṭvā."
+   ],
+   "plain_english": "It follows like the feather of an arrow."
+  }
+ ]
+}
