@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p232",
+ "items": [
+  {
+   "verse": 5800,
+   "rows": [
+    {
+     "surface": "prāguktā",
+     "gloss": "previously-stated",
+     "grounds": "Refers to lords mentioned earlier; agrees with tadīśānāḥ.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "Presents an alternative option.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadīśānāḥ",
+     "gloss": "their-lords",
+     "grounds": "Compound referring to the lords of those entities.",
+     "morph": "m.nom.pl (compound)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "Indicates the subsequent step in the ritual sequence.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-oblation",
+     "grounds": "The ritual offering into fire.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "Prescribes the ritual action.",
+     "morph": "3.sg.optative-active (sam-ā-car)"
+    }
+   ],
+   "question": "Should the fire oblation be performed for the previously mentioned lords as an alternative?",
+   "premises": [
+    "The previously mentioned lords are presented as an option.",
+    "The ritual sequence proceeds to a subsequent step.",
+    "The fire oblation is the prescribed ritual action."
+   ],
+   "inference": "Therefore, one may alternatively perform the fire oblation for the previously mentioned lords.",
+   "uncertainties": [
+    "The exact referent of tadīśānāḥ depends on the preceding context."
+   ],
+   "plain_english": "Or, one should then perform the fire oblation for the previously mentioned lords."
+  }
+ ]
+}
