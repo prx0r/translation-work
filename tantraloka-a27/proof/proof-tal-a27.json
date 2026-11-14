@@ -5,9 +5,8 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [
-  "C1_WORDS 713 > 700"
+  "C1_WORDS 1806 > 700"
  ],
- "mode": "shastra",
  "source_sha": "15ee6b8b7f061e5e",
  "source_digest_normalized_sha256": "15ee6b8b7f061e5e622e40c8c69edaf4bae7df46d6fc69a68b15f51e46e4ccab",
  "source_sha256_raw": "6c84580d946fa3c91c3aa6b922700f9d8eca011087a66fa48a6e1ae8c685c805",
@@ -15,7 +14,7 @@
  "source_verses": 59,
  "t1_verses": 59,
  "l0": {
-  "parsed": 0,
+  "parsed": 461,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 461
@@ -26,8 +25,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 0,
- "c1_words": 713,
+ "c1_iast_prose_info": 23,
+ "c1_words": 1806,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 59,
@@ -70,9 +69,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "15ee6b8b7f061e5e",
-  "t1": "tal-a27/data/tal-a27.t1.json",
-  "l0": "tal-a27/data/tal-a27.l0.json",
-  "l2": "tal-a27/data/tal-a27.l2.json",
-  "c1": "tal-a27/data/tal-a27.c1.json"
+  "t1": "T1-tal-a27.md",
+  "l0": "T1-tal-a27.l0.jsonl",
+  "l2": "L2-tal-a27.md",
+  "c1": "c1/C1-tal-a27.md"
  }
 }

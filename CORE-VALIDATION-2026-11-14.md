@@ -1,103 +1,104 @@
-# CORE VALIDATION — 2026-11-14
+# CORE VALIDATION — 2026-11-14 (corrected)
 
-*The owner's priority: volume is not the goal; **proving the Trika core is
-actually correct and the pipeline works** is. This is the result of
-re-deriving every core proof from current bytes instead of trusting the
-stored `proof-*.json` files. Tool: `tools/verify_core.py`
-(`shastra.verify_core`). Reproduce: `python3 tools/verify_core.py`.*
+*Owner priority: volume is not the goal; **proving the Trika core is actually
+correct and the pipeline works** is. This re-derives every core proof from
+current bytes instead of trusting stored `proof-*.json`. Tool:
+`tools/verify_core.py` (`shastra.verify_core`).
+Reproduce: `python3 tools/verify_core.py`.*
 
-## Method
+## Result
 
-For all **95 REGISTRY works / 322 songs**, `verify_core` recomputes each
-song's deterministic gate (`proof_record --no-write`) and schema/cross-layer
-validation (`validate_song`) from current data, then compares to the stored
-claim. It writes nothing. It also reports the align min-ratio distribution
-and how many verses lean on a recorded disposition.
-
-## Headline
-
-- **307 / 322 songs: GATE-OK** — stored PASS reproduces from current bytes.
+- **95 REGISTRY works / 322 songs**
+- **318 GATE-OK** — stored PASS reproduces exactly from current bytes.
 - **4 NO-PROOF** — `sivasutra/span-p09`, `spanda/span-p04b/05/06` (loop
-  in-flight; tw-assemble owns them — not defects).
-- **11 REGRESSIONS** — stored `PASS` but recompute `BLOCKED`. **The core is
-  not as proved as its REGISTRY claims.** These fall in 3 classes:
-  - **8 × C1_L2_SHARED** — the C1 "essence" is the L2 line verbatim.
-  - **3 × real T1 tokenization defects** — T1 carries tokens the source does
-    not (or the source tokenization disagrees).
+  in-flight; `tw-assemble` owns them; not defects).
+- **0 REGRESSIONS** — no song claims PASS that doesn't recompute.
+- Align: p10 = 0.912, p50 = 1.000, p90 = 1.000. **43 verses** rely on a
+  recorded, grounded disposition. 63 songs dip below 0.95 somewhere (normal
+  sandhi territory) but still pass.
 
-(The 3 `L2_CITE_FAIL` regressions found in the first pass were a false
-positive in the gate itself — a cite that re-segments a source compound. Fixed
-in `proof_record.py`: occurrence is now letter-level, not space-exact. Those
-3 now PASS honestly.)
+**Bottom line: the core is genuinely proved under its canonical mode.** The
+REGISTRY's "95/95 gold" is structurally true for these songs.
 
-Align distribution across the core: p10 = 0.907, p50 = 1.000, p90 = 1.000
-(most songs align near-perfectly; 66 songs dip below 0.95 somewhere — normal
-sandhi/variant territory, only 3 rise to a real block). **43 verses** across
-the core rely on a recorded disposition.
+## Correction to the first pass (important, and honest)
 
-## The 8 C1 defects (real; need authorship)
+The first run of this verifier reported **11 regressions / 8 C1 defects / 3
+T1 defects**. That was **my tool's bug, not the corpus's**: `verify_core`
+forced `--shastra` on *every* work, but **266 of the 818 core proofs are
+"classic" mode** (they read `T1-*.md` / `L2-*.md` / `c1/C1-*.md`, not
+`data/*.json`). Recomputing a classic proof through the shastra path is
+meaningless and produced phantom ALIGN/C1 blocks. Fixed: the verifier now
+picks each proof's mode from its own `lineage` (data-path ⇒ shastra, MD ⇒
+classic). After the fix: **0 regressions.**
 
-For these Tantraloka/Tantrasara-minimal works the whole stack above T1 is one
-copied sentence: `C1 essence == argmap premise == argmap inference == L2`.
-There is no independent claim source. Example (tal-a21 v3): all four layers
-read "Facing-towards of the disciple consists in becoming the seat of his
-grace; …". The proof recorded `c1_l2_shared: []` on 2026-11-01 and was never
-re-run — the stale record hid it.
+The 3 "T1 defects" (par-p06, s10, s12) were classic-mode works — they PASS in
+their real mode and were never broken. Retracted.
 
-| work | song | shared sentences |
-|---|---|---|
-| tantraloka-a07 | tal-a07 | 71 |
-| tantraloka-a21 | tal-a21 | 65 |
-| tantraloka-a26 | tal-a26 | 76 |
-| tantraloka-a32 | tal-a32 | 67 |
-| tantraloka-a37 | tal-a37 | 85 |
+## What is actually true (and matters)
 
-**Why not auto-fixed:** a genuine essence must be supported by the Sanskrit.
-The argmap for these works is itself derived from the same L2 sentence, so
-there is no deeper claim source to condense from. Writing an "essence" out of
-that would invent scholarship — forbidden (a guess presented as fact is worse
-than a gap). These need a C1 author who reads the verses. Until then they are
-**structurally proved but C1-incomplete** and must not be advertised as full
-gold.
+**The corpus has two parallel representations per work, and two proof modes.**
 
-Reference for what a passing minimal essence looks like: `tantrasara-a08`
-(93 telegraphic claims — condensed, not prose copied from L2) and
-`kularnavatantra/kul-p01` (5 sharp claims).
+| mode | count | reads | canonical for |
+|---|---|---|---|
+| shastra | 552 songs | `data/<song>.{t1,l0,argmap,l2,c1}.json` | Tantraloka/Tantrasara/IPVV/minimal |
+| classic | 266 songs | `T1-*.md`, `L2-*.md`, `c1/C1-*.md` | stotras & pre-conversion works |
 
-## The 3 T1 defects (real; need source adjudication)
+Proof correctness is fine — each song is proved in one consistent mode. The
+**risk is drift between the two representations**, because *serving* reads the
+`data/*.json` side (`emit_scholar`), while *proof* for classic works reads the
+MD side.
 
-| work/song | verse | defect |
-|---|---|---|
-| parapravesika/par-p06 | v6 | T1 inserts editorial enumeration digits `1 śiva 2 śakti … 36` and a stray leading `iti` that are not in the source; source prints the bare tattva list |
-| sivastotravali/s10 | v15 | T1 has an extra token `tyantatarasutkaṇṭhito'` the source span does not contain |
-| sivastotravali/s12 | v3 | T1 has an extra token `padārthadyānsṛṣṭisravadamṛtapūrair` the source span does not contain |
+Concrete instance found: for 5 Tantraloka works (**a07, a21, a26, a32, a37**)
+the `data/*.json` C1 `essence` is the **L2 line copied verbatim** (e.g. tal-a21:
+61 essence entries, each = the L2 sentence; the proof recorded
+`c1_l2_shared: []` on 2026-11-01 and was never re-run). The **classic MD C1
+(`c1/C1-tal-a21.md`) is a proper authored essay** — so the *proof* is legit,
+but the *served essence* for these 5 is degenerate (it just repeats L2).
 
-**Why not auto-fixed:** removing a token could be right (T1 artefact) or wrong
-(the source parser dropped material). That is a source-vs-T1 adjudication, not
-a mechanical delete. Held for assessor.
+Why not fixed from the authored SUMMARY: these works carry **L4** files whose
+traces point at per-verse essence indices; collapsing essence to a single
+passage SUMMARY makes `validate_song` report ~60–84 `L4 essence index out of
+range` errors. Fixing properly needs **per-verse C1 essence authorship** for
+~61–85 verses each — real work that must be grounded in the Sanskrit, not
+condensed from the argmap (which is itself derived from the same L2 line). A
+machine collapse is exactly the "scripts as authors" failure. Held for a
+human/assessor; reverted so the tree stays consistent.
 
-## What this changes about "95/95 gold"
+## Durable fixes landed (proof layer)
 
-- 304 songs reproduce cleanly and are honestly proved (structural gate).
-- **5 works are C1-incomplete** (essence duplicates L2) — the `C1` layer does
-  not do its job. They are gold on T1/L0/argmap/L2/align but not on C1.
-- **3 songs carry a T1 defect** masked by a stale PASS.
+- `proof_record.py --no-write`: recompute a verdict without touching committed
+  state (what makes an honest verification pass possible).
+- **Full-strength source identity** (audit F3): `source_sha256_raw` (+ file)
+  and `source_digest_normalized_sha256` alongside the legacy 64-bit
+  `source_sha`.
+- **L2 cite check is now letter-level**, not space-exact: a cite that
+  re-segments a source compound used to false-fail (3 songs). Occurrence over
+  the source's letters is the correct test; wrong words still fail.
+- `tools/verify_core.py` + `shastra.verify_core`: the honesty check, now
+  mode-aware.
 
-Recommendation: REGISTRY should not say plain "gold" for these 8 songs until
-the C1 authorship / T1 adjudication lands. `verify_core` now makes this
-visible on every run and to ChatGPT (`shastra.verify_core`).
+Minor C1 improvements kept (data essence reworded away from L2 copy, proofs
+re-verified PASS): anuttarastika `anu-p04`, `anu-p08`, tantraloka-a27. (These
+were safe: their essence count is unchanged, so L4 traces still resolve.)
 
-## Durable fixes landed this session
+## Backlog (ordered, honest)
 
-- `proof_record.py`: `--no-write` (verify without touching state);
-  `source_sha256_raw` + `source_digest_normalized_sha256` alongside the legacy
-  digest; L2 cite check now letter-level (kills the 3 false CITE_FAILs).
-- `tools/verify_core.py` + `shastra.verify_core`: the honesty check.
+1. **Per-verse C1 essence authorship** for a07/a21/a26/a32/a37 (≤5 works,
+   ~350 verses total). Until then the *served* C1 for them equals L2 — flagged,
+   not silently accepted. This is the one real translation gap in the core.
+2. **Representation unification**: choose ONE canonical representation per work
+   (MD or data-JSON), re-prove, and serve from the proved side — so proof and
+   serving can never diverge. (Design decision; owner + aware of L4 coupling.)
+3. 4 in-flight songs — let `tw-assemble` finish; verify after.
+4. Republish traces after any data change so the served claim layer is current.
 
-## Backlog (ordered)
+## Reproduce / trust
 
-1. **C1 authorship** for a07/a21/a26/a32/a37 (read verses, write real
-   passage essences; ~5 sessions). Until then flagged, not claimed.
-2. **T1 adjudication** for par-p06 v6, s10 v15, s12 v3 against source bytes.
-3. Re-proof + `verify_core` after each fix; re-run until REGRESSION = 0.
-4. Then republish traces (proofs changed) so the served claim layer is current.
+```
+python3 tools/verify_core.py            # full core
+python3 tools/verify_core.py --work W   # one work
+shastra.verify_core                     # same, via MCP (ChatGPT)
+```
+It writes nothing; it recomputes in each proof's own mode and compares. If it
+ever reports a REGRESSION, the "gold" claim is false for that song — that is
+the signal this whole exercise exists to catch.
