@@ -1,0 +1,1106 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1851,
+   "rows": [
+    {
+     "surface": "ekaliṅge",
+     "gloss": "in-one-linga",
+     "grounds": "compound place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śūnyadeśe",
+     "gloss": "in-empty-place",
+     "grounds": "compound place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śūnyagehe",
+     "gloss": "in-empty-house",
+     "grounds": "compound place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jalārṇave",
+     "gloss": "in-ocean-of-water",
+     "grounds": "compound place",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Which places are named as auspicious seats for this rite?",
+   "premises": [
+    "four locative places are listed",
+    "they are ritual seats"
+   ],
+   "inference": "the verse enumerates valid ritual locations",
+   "uncertainties": [
+    "exact ritual sense of each place"
+   ],
+   "plain_english": "In one linga, in an empty place, in an empty house, or in an ocean of water."
+  },
+  {
+   "verse": 1852,
+   "rows": [
+    {
+     "surface": "svayambhūkusumaṃ",
+     "gloss": "self-born-flower",
+     "grounds": "compound object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "* *",
+     "gloss": "illegible-token",
+     "grounds": "damaged text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṃ",
+     "gloss": "jaṃ",
+     "grounds": "syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which offerings or alternatives are mentioned for the rite?",
+   "premises": [
+    "self-born flower is named",
+    "alternatives are joined by particles"
+   ],
+   "inference": "the verse lists ritual options",
+   "uncertainties": [
+    "damaged token obscures one item"
+   ],
+   "plain_english": "A self-born flower, or, or [damaged], jaṃ, and or."
+  },
+  {
+   "verse": 1853,
+   "rows": [
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "sthānāt",
+     "gloss": "from-place",
+     "grounds": "ablative source",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "śubhān",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp root vid"
+    },
+    {
+     "surface": "mahākaulavarapradān",
+     "gloss": "great-kaula-boon-giving",
+     "grounds": "compound adjective",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "What should be known about these places?",
+   "premises": [
+    "these places are auspicious",
+    "they give great kaula boon"
+   ],
+   "inference": "the listed places are declared boon-giving",
+   "uncertainties": [
+    "exact scope of boon"
+   ],
+   "plain_english": "Know these places as auspicious and great kaula boon-giving."
+  },
+  {
+   "verse": 1854,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-her",
+     "grounds": "genitive possessor",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "goddess name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prasannā",
+     "gloss": "pleased",
+     "grounds": "participle adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "copula",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negation locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "inquiry",
+     "grounds": "abstract noun",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Is further inquiry needed when Kālī is pleased?",
+   "premises": [
+    "Kālī is pleased",
+    "no inquiry is to be done here"
+   ],
+   "inference": "pleased Kālī removes need for further inquiry",
+   "uncertainties": [
+    "ritual context of pleasure"
+   ],
+   "plain_english": "Her Kālī is pleased; no inquiry is to be done here."
+  },
+  {
+   "verse": 1855,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-her",
+     "grounds": "genitive possessor",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "goddess name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prasannā",
+     "gloss": "pleased",
+     "grounds": "participle adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "copula",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negation locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "abstract noun",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Does pleased Kālī leave any need for consideration?",
+   "premises": [
+    "Kālī is pleased",
+    "no consideration is to be done here"
+   ],
+   "inference": "pleased Kālī ends further consideration",
+   "uncertainties": [
+    "difference from inquiry"
+   ],
+   "plain_english": "Her Kālī is pleased; no consideration is to be done here."
+  },
+  {
+   "verse": 1856,
+   "rows": [
+    {
+     "surface": "tapanadinasumuṇḍaṃ",
+     "gloss": "sun-day-sumuṇḍa",
+     "grounds": "compound object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kāryapātre",
+     "gloss": "for-ritual-vessel",
+     "grounds": "dative purpose",
+     "morph": "dat.sg.n"
+    }
+   ],
+   "question": "What is prescribed for the ritual vessel?",
+   "premises": [
+    "sun-day-sumuṇḍa is named",
+    "middle is specified",
+    "it is for ritual vessel"
+   ],
+   "inference": "the middle sun-day-sumuṇḍa is for the vessel",
+   "uncertainties": [
+    "meaning of sumuṇḍa"
+   ],
+   "plain_english": "The middle sun-day-sumuṇḍa is for the ritual vessel."
+  },
+  {
+   "verse": 1857,
+   "rows": [
+    {
+     "surface": "sādhyādi",
+     "gloss": "sādhya-etc",
+     "grounds": "compound list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramato",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāyaṃ",
+     "gloss": "evening",
+     "grounds": "time noun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dikpātraṃ",
+     "gloss": "direction-vessel",
+     "grounds": "compound object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How are sādhya and related items arranged?",
+   "premises": [
+    "sādhya etc are in order",
+    "evening direction-vessel is named"
+   ],
+   "inference": "the verse gives ordered ritual arrangement",
+   "uncertainties": [
+    "exact directional mapping"
+   ],
+   "plain_english": "Sādhya and the rest in order, evening direction-vessel, O supreme goddess."
+  },
+  {
+   "verse": 1858,
+   "rows": [
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "sādhya",
+     "grounds": "ritual grade",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "siddhaṃ",
+     "gloss": "siddha",
+     "grounds": "ritual grade",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "susiddhaṃ",
+     "gloss": "well-siddha",
+     "grounds": "ritual grade",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "susiddheyaṃ",
+     "gloss": "well-siddheya",
+     "grounds": "ritual grade",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual grades are enumerated here?",
+   "premises": [
+    "sādhya is named",
+    "siddha is named",
+    "susiddha and susiddheya are named"
+   ],
+   "inference": "the verse lists successive ritual grades",
+   "uncertainties": [
+    "distinction among grades"
+   ],
+   "plain_english": "Sādhya, siddha, well-siddha, and well-siddheya, thus and."
+  },
+  {
+   "verse": 1859,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "in-brief",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śṛṇve",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp root śru"
+    },
+    {
+     "surface": "tat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sādhanaṃ",
+     "gloss": "sādhana",
+     "grounds": "practice noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is being presented in brief?",
+   "premises": [
+    "it is spoken in brief",
+    "this auspicious sādhana is to be heard"
+   ],
+   "inference": "the verse introduces an auspicious practice",
+   "uncertainties": [
+    "scope of practice"
+   ],
+   "plain_english": "Thus in brief is spoken; hear this auspicious sādhana."
+  },
+  {
+   "verse": 1860,
+   "rows": [
+    {
+     "surface": "śaktisaṅgamarahasyakathanaṃ",
+     "gloss": "śakti-saṅgama-secret-telling",
+     "grounds": "compound title",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptatriṃśatiḥ",
+     "gloss": "thirty-seventh",
+     "grounds": "ordinal",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the name and number of this chapter?",
+   "premises": [
+    "title is śakti-saṅgama secret telling",
+    "it is thirty-seventh chapter"
+   ],
+   "inference": "this is chapter thirty-seven",
+   "uncertainties": [
+    "exact chapter numbering"
+   ],
+   "plain_english": "Named śakti-saṅgama secret telling, the thirty-seventh chapter."
+  },
+  {
+   "verse": 1861,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root prāp"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "siddhi",
+     "grounds": "abstract noun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "devairapi",
+     "gloss": "by-gods",
+     "grounds": "instrumental agent",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "sudurlabhām",
+     "gloss": "very-difficult",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What result does the practitioner obtain?",
+   "premises": [
+    "he obtains supreme siddhi",
+    "it is very difficult even for gods"
+   ],
+   "inference": "the practice grants rare supreme attainment",
+   "uncertainties": [
+    "identity of practitioner"
+   ],
+   "plain_english": "He obtains supreme siddhi, very difficult even for gods."
+  },
+  {
+   "verse": 1862,
+   "rows": [
+    {
+     "surface": "mañjughoṣe",
+     "gloss": "in-mañjughoṣa",
+     "grounds": "locative place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "cīnamārge",
+     "gloss": "in-china-path",
+     "grounds": "locative path",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "snānanatyādikaṃ",
+     "gloss": "bathing-etc",
+     "grounds": "compound object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp root śru"
+    }
+   ],
+   "question": "What is to be heard about bathing in this path?",
+   "premises": [
+    "mañjughoṣa and china path are named",
+    "bathing etc is the topic"
+   ],
+   "inference": "the verse introduces bathing instructions",
+   "uncertainties": [
+    "exact path meaning"
+   ],
+   "plain_english": "In mañjughoṣa, in the china path, hear bathing and so on."
+  },
+  {
+   "verse": 1863,
+   "rows": [
+    {
+     "surface": "utthāya",
+     "gloss": "rising",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "namanaṃ",
+     "gloss": "bowing",
+     "grounds": "action noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root kṛ"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "standing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How should bowing be performed?",
+   "premises": [
+    "rising then bowing should be done",
+    "or standing is allowed"
+   ],
+   "inference": "bowing may follow rising or standing",
+   "uncertainties": [
+    "posture details"
+   ],
+   "plain_english": "Rising, one should bow, or standing, O supreme goddess."
+  },
+  {
+   "verse": 1864,
+   "rows": [
+    {
+     "surface": "maṇibandhādadhaḥ",
+     "gloss": "wrist-below",
+     "grounds": "compound place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṇiḥ",
+     "gloss": "hand",
+     "grounds": "body part",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pādo",
+     "gloss": "foot",
+     "grounds": "body part",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gulphādadhaḥ",
+     "gloss": "ankle-below",
+     "grounds": "compound place",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are hand and foot placed?",
+   "premises": [
+    "hand is below wrist",
+    "foot is below ankle"
+   ],
+   "inference": "the verse gives bodily placement",
+   "uncertainties": [
+    "exact gesture"
+   ],
+   "plain_english": "Hand below the wrist, foot below the ankle."
+  },
+  {
+   "verse": 1865,
+   "rows": [
+    {
+     "surface": "sādhanāyām",
+     "gloss": "for-sādhana",
+     "grounds": "dative purpose",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "action noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "karttavyam",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ādikāraṇam",
+     "gloss": "primary-cause",
+     "grounds": "compound predicate",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What role does this bathing have in sādhana?",
+   "premises": [
+    "this bathing is to be done",
+    "it is primary cause for sādhana"
+   ],
+   "inference": "bathing is foundational to the practice",
+   "uncertainties": [
+    "causal mechanism"
+   ],
+   "plain_english": "This bathing is to be done for sādhana; it is the primary cause."
+  },
+  {
+   "verse": 1866,
+   "rows": [
+    {
+     "surface": "bhairavena",
+     "gloss": "by-bhairava",
+     "grounds": "instrumental agent",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvasiddhikaraṃ",
+     "gloss": "all-siddhi-giving",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Who spoke this supreme all-siddhi-giving teaching?",
+   "premises": [
+    "Bhairava spoke it formerly",
+    "it gives all siddhi",
+    "it is supreme"
+   ],
+   "inference": "the teaching is Bhairava's supreme siddhi-giving instruction",
+   "uncertainties": [
+    "transmission context"
+   ],
+   "plain_english": "Formerly spoken by Bhairava, all-siddhi-giving, supreme."
+  },
+  {
+   "verse": 1867,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "copula",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "parataraṃ",
+     "gloss": "more",
+     "grounds": "comparative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "anything",
+     "grounds": "indefinite",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres root vid"
+    },
+    {
+     "surface": "śīghrasiddhidam",
+     "gloss": "quick-siddhi-giving",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Is there anything more quick-siddhi-giving?",
+   "premises": [
+    "nothing more exists",
+    "this is quick-siddhi-giving"
+   ],
+   "inference": "no superior quick-siddhi-giving thing exists",
+   "uncertainties": [
+    "comparison scope"
+   ],
+   "plain_english": "Nothing more exists; this is quick-siddhi-giving."
+  },
+  {
+   "verse": 1868,
+   "rows": [
+    {
+     "surface": "mṛdukomalayorvā",
+     "gloss": "soft-gentle",
+     "grounds": "compound alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cūḍakācūḍake",
+     "gloss": "cūḍaka-acūḍaka",
+     "grounds": "compound alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternatives are allowed in this practice?",
+   "premises": [
+    "soft-gentle alternative is named",
+    "cūḍaka-acūḍaka alternative is named"
+   ],
+   "inference": "the verse permits alternative forms",
+   "uncertainties": [
+    "exact ritual variants"
+   ],
+   "plain_english": "Soft-gentle, or, api, cūḍaka-acūḍaka, or, api."
+  },
+  {
+   "verse": 1869,
+   "rows": [
+    {
+     "surface": "sādhaneyaṃ",
+     "gloss": "this-sādhana",
+     "grounds": "demonstrative practice",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "eteṣu",
+     "gloss": "in-these",
+     "grounds": "locative demonstrative",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Where is this sādhana declared?",
+   "premises": [
+    "this sādhana is declared",
+    "it is in these"
+   ],
+   "inference": "the practice is declared among these",
+   "uncertainties": [
+    "referent of these"
+   ],
+   "plain_english": "This sādhana, O great goddess, is declared in these."
+  },
+  {
+   "verse": 1870,
+   "rows": [
+    {
+     "surface": "caṇḍake",
+     "gloss": "in-caṇḍa",
+     "grounds": "locative place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bagalāyāñca",
+     "gloss": "in-bagalā",
+     "grounds": "locative place",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "sādhaneyaṃ",
+     "gloss": "this-sādhana",
+     "grounds": "demonstrative practice",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "In which goddess contexts is this sādhana declared?",
+   "premises": [
+    "in caṇḍa it is declared",
+    "in bagalā it is declared"
+   ],
+   "inference": "the practice is declared in both contexts",
+   "uncertainties": [
+    "exact goddess forms"
+   ],
+   "plain_english": "In caṇḍa and in bagalā this sādhana is declared."
+  },
+  {
+   "verse": 1871,
+   "rows": [
+    {
+     "surface": "rudasaṃkhyā",
+     "gloss": "ruda-number",
+     "grounds": "compound number",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manavo",
+     "gloss": "mantras",
+     "grounds": "plural noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mañjughoṣeti",
+     "gloss": "mañjughoṣa",
+     "grounds": "quoted name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-pārvatī",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How many mantras are named here?",
+   "premises": [
+    "ruda-number is given",
+    "mantras are named mañjughoṣa"
+   ],
+   "inference": "the verse states a mantra count and name",
+   "uncertainties": [
+    "numeric value of ruda"
+   ],
+   "plain_english": "Ruda-number here, mantras mañjughoṣa, O Pārvatī."
+  },
+  {
+   "verse": 1872,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "knowing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "svaguruvaktrāttu",
+     "gloss": "from-own-guru-mouth",
+     "grounds": "ablative source",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "mantrācārakulakramāt",
+     "gloss": "mantra-ācāra-kula-order",
+     "grounds": "ablative order",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "From where should the mantra order be known?",
+   "premises": [
+    "knowing from own guru mouth",
+    "mantra-ācāra-kula order is named"
+   ],
+   "inference": "transmission comes from guru and lineage order",
+   "uncertainties": [
+    "exact lineage"
+   ],
+   "plain_english": "Knowing from one's own guru's mouth, by mantra-ācāra-kula order."
+  },
+  {
+   "verse": 1873,
+   "rows": [
+    {
+     "surface": "sampādya",
+     "gloss": "having-prepared",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sāmiṣānnaṃ",
+     "gloss": "food-with-flesh",
+     "grounds": "compound object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svagehe",
+     "gloss": "in-own-house",
+     "grounds": "locative place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "balimāharet",
+     "gloss": "offering",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root hṛ"
+    }
+   ],
+   "question": "What offering should be made in one's own house?",
+   "premises": [
+    "having prepared food with flesh",
+    "offering should be made in own house"
+   ],
+   "inference": "the verse prescribes a domestic offering",
+   "uncertainties": [
+    "ritual recipient"
+   ],
+   "plain_english": "Having prepared food with flesh, one should make offering in one's own house."
+  },
+  {
+   "verse": 1874,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliprayogārthaṃ",
+     "gloss": "for-offering-purpose",
+     "grounds": "dative purpose",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "piṣṭaṃ",
+     "gloss": "flour",
+     "grounds": "substance noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "puṣpādyanekadhā",
+     "gloss": "flowers-etc",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is used for the offering purpose?",
+   "premises": [
+    "then for offering purpose",
+    "flour and flowers etc are named"
+   ],
+   "inference": "the verse lists offering materials",
+   "uncertainties": [
+    "exact preparation"
+   ],
+   "plain_english": "Then for offering purpose, flour, flowers and so on."
+  }
+ ]
+}

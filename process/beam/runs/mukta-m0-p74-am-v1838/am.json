@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1838,
- "question": "What benefits are promised to a pregnant woman and a maiden?",
+ "question": "What ritual items are listed together with betel and circle?",
  "premises": [
-  "A pregnant woman bears a son.",
-  "A maiden finds a good husband."
+  "betel is named",
+  "circle is named",
+  "skull garland and corpse seat are named"
  ],
- "inference": "The hymn brings favorable family outcomes.",
+ "inference": "The verse lists betel, circle, skull garland, and corpse seat among ritual items.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "two tokens are editorial placeholders"
  ],
- "plain_english": "A pregnant woman bears a son, and a maiden finds a good husband."
+ "plain_english": "Betel, circle, skull garland, and corpse seat are listed as ritual items."
 }

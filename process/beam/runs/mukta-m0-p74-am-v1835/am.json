@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1835,
- "question": "What is the hymn of thousand names that emerged from the speaker's mouth?",
+ "question": "How should a brāhmaṇa prepare honey liquor?",
  "premises": [
-  "The hymn is named thousand names.",
-  "It emerged from the speaker's mouth."
+  "the brāhmaṇa is the agent",
+  "a copper vessel is used",
+  "honey liquor is to be prepared"
  ],
- "inference": "The thousand-named hymn is the speaker's own oral composition.",
+ "inference": "A brāhmaṇa should prepare honey liquor in a copper vessel.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "the ritual purpose is not stated"
  ],
- "plain_english": "This hymn, called the thousand names, emerged from my mouth."
+ "plain_english": "A brāhmaṇa should indeed prepare honey liquor in a copper vessel."
 }

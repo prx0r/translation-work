@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1831,
- "question": "How is the goddess described as threefold, lady of three heavens, and Tripura-beautiful?",
+ "question": "Which liquors are assigned to which social classes?",
  "premises": [
-  "The goddess is threefold.",
-  "The goddess is lady of three heavens and Tripura-beautiful."
+  "flour-based liquor belongs to the śūdra",
+  "honey-based liquor belongs to the kṣatriya",
+  "the two are paired together"
  ],
- "inference": "The verse praises the goddess through threefold and heavenly beauty attributes.",
+ "inference": "Flour liquor is for the śūdra and honey liquor is for the kṣatriya.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "the brāhmaṇa rule is given in the next verse"
  ],
- "plain_english": "She is threefold, lady of the three heavens, and Tripura-beautiful."
+ "plain_english": "Flour liquor is for the śūdra, honey liquor is for the kṣatriya, and these two are paired."
 }

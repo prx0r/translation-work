@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1834,
- "question": "Is there any hymn or japa more excellent than this one?",
+ "question": "What conditions make liquor unfit for immediate drinking?",
  "premises": [
-  "No hymn is more excellent than this.",
-  "No japa is more excellent than this."
+  "liquor should not be immediately drinkable",
+  "liquor mixed with jaggery is excluded",
+  "fitness for drinking is denied"
  ],
- "inference": "This hymn and japa are unsurpassed in excellence.",
+ "inference": "Liquor should not be immediately fit for drinking, nor mixed with jaggery.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "the intended preparation rule is only implied"
  ],
- "plain_english": "There is no hymn more excellent than this, and no japa more excellent than this."
+ "plain_english": "It should not be immediately fit for drinking, nor should the liquor be mixed with jaggery."
 }

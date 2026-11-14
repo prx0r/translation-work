@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1848,
- "question": "What transformation occurs for one who reads a thousand times?",
+ "question": "To whom does the goddess give success and boons?",
  "premises": [
-  "He who reads a thousand times becomes a sky-goer.",
-  "He becomes a sky-goer as a man."
+  "success-giving applies to him",
+  "she is the subject",
+  "boon-giving applies to another"
  ],
- "inference": "Thousandfold recitation makes a man a sky-goer.",
+ "inference": "She gives success to him and boons to another.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "the identities of him and another are not specified"
  ],
- "plain_english": "The man who reads a thousand times becomes a sky-goer."
+ "plain_english": "Then indeed she is success-giving to him, and boon-giving to another."
 }

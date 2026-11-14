@@ -1,0 +1,1157 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1926,
+   "rows": [
+    {
+     "surface": "ekānte",
+     "gloss": "in-solitude",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnya+sadane",
+     "gloss": "in-empty-dwelling",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parvate",
+     "gloss": "on-mountain",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vipine",
+     "gloss": "in-forest",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vane",
+     "gloss": "in-grove",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which solitary and empty places are prescribed for performing this ritual?",
+   "premises": [
+    "The verse lists secluded locations.",
+    "It names mountain forest and grove.",
+    "It frames ritual placement."
+   ],
+   "inference": "The ritual is to be performed in isolated natural settings.",
+   "uncertainties": [
+    "Exact ritual action is not stated here."
+   ],
+   "plain_english": "In solitude, in an empty dwelling, on a mountain, in a forest, or in a grove."
+  },
+  {
+   "verse": 1927,
+   "rows": [
+    {
+     "surface": "eka+liṅge",
+     "gloss": "at-single-liṅga",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śūnya+deśe",
+     "gloss": "in-empty-place",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "raṇa+maṇḍale",
+     "gloss": "in-battle-arena",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which additional solitary or liminal places are named for the ritual?",
+   "premises": [
+    "The verse names a single liṅga.",
+    "It names empty place cremation ground and battle arena.",
+    "These are liminal settings."
+   ],
+   "inference": "The ritual may be performed in liminal and solitary places.",
+   "uncertainties": [
+    "No explicit action accompanies the list."
+   ],
+   "plain_english": "At a single liṅga, in an empty place, in a cremation ground, or in a battle arena."
+  },
+  {
+   "verse": 1928,
+   "rows": [
+    {
+     "surface": "gaṅgā+garbhe",
+     "gloss": "in-gaṅgā-womb",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "catur+mārge",
+     "gloss": "at-four-roads",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tri+pathe",
+     "gloss": "at-three-paths",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devatā+ālaye",
+     "gloss": "in-deity-abode",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which sacred or crossroad locations are included among the ritual sites?",
+   "premises": [
+    "The verse names Gaṅgā's womb.",
+    "It names four roads and three paths.",
+    "It names a deity abode."
+   ],
+   "inference": "Sacred rivers crossroads and temples are valid ritual sites.",
+   "uncertainties": [
+    "The exact meaning of Gaṅgā womb is contextual."
+   ],
+   "plain_english": "In the womb of the Gaṅgā, at four roads, at three paths, or in a deity's abode."
+  },
+  {
+   "verse": 1929,
+   "rows": [
+    {
+     "surface": "kīlāni",
+     "gloss": "nails",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "āropya",
+     "gloss": "having-fixed",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dik+pālebhyo",
+     "gloss": "to-direction-guardians",
+     "grounds": "compound dative plural",
+     "morph": "n.dat.pl"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should nails and offerings be directed to the guardians of the directions?",
+   "premises": [
+    "Nails are fixed with effort.",
+    "An offering is cast.",
+    "The recipients are direction guardians."
+   ],
+   "inference": "The rite fixes nails and casts offerings to directional guardians.",
+   "uncertainties": [
+    "The nail's ritual function is not fully explained."
+   ],
+   "plain_english": "Having fixed nails with effort, one should cast an offering to the guardians of the directions."
+  },
+  {
+   "verse": 1930,
+   "rows": [
+    {
+     "surface": "saṃvid+dugdhaṃ",
+     "gloss": "consciousness-milked",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bali+ravyaṃ",
+     "gloss": "offering-substance",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañca+gavyaṃ",
+     "gloss": "five-cow-products",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rasaṃ",
+     "gloss": "juice",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances are specified as offerings in this rite?",
+   "premises": [
+    "Consciousness-milked substance is named.",
+    "Offering substance and five cow products are named.",
+    "Juice is also included."
+   ],
+   "inference": "The offering includes consciousness-derived milk, pañcagavya, and juice.",
+   "uncertainties": [
+    "The exact composition of bali-ravya is unclear."
+   ],
+   "plain_english": "Consciousness-milked substance, offering substance, five cow products, and juice, likewise."
+  },
+  {
+   "verse": 1931,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "trai+lokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is said to follow from standing there and performing recitation?",
+   "premises": [
+    "One stands there and performs recitation.",
+    "The three worlds are to be accomplished.",
+    "Then follows further action."
+   ],
+   "inference": "Recitation at the site accomplishes the three worlds.",
+   "uncertainties": [
+    "The subsequent action is not specified."
+   ],
+   "plain_english": "Having stood there and performed recitation, one should accomplish the three worlds; then..."
+  },
+  {
+   "verse": 1932,
+   "rows": [
+    {
+     "surface": "deva+īśa",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "v.inf"
+    },
+    {
+     "surface": "ucchāmi",
+     "gloss": "i-desire",
+     "grounds": "first person",
+     "morph": "v.1.sg.act-pres"
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrva+sūcitam",
+     "gloss": "previously-indicated",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What secret previously indicated does the speaker wish to hear?",
+   "premises": [
+    "The speaker addresses the lord of gods.",
+    "The speaker desires to hear.",
+    "The object is a previously indicated secret."
+   ],
+   "inference": "The dialogue requests revelation of an earlier hinted secret.",
+   "uncertainties": [
+    "The secret's content is not given in this verse."
+   ],
+   "plain_english": "O lord of gods, I desire to hear the secret previously indicated."
+  },
+  {
+   "verse": 1933,
+   "rows": [
+    {
+     "surface": "śaive",
+     "gloss": "in-śaiva",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "śākte",
+     "gloss": "in-śākta",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "gāṇapatye",
+     "gloss": "in-gāṇapatya",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "cāndre",
+     "gloss": "in-cāndra",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "saure",
+     "gloss": "in-saura",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārhate",
+     "gloss": "in-ārhata",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    }
+   ],
+   "question": "Which sectarian traditions are enumerated in this context?",
+   "premises": [
+    "The verse lists Śaiva and Śākta.",
+    "It lists Gāṇapatya Cāndra and Saura.",
+    "It also lists Ārhata."
+   ],
+   "inference": "Multiple sectarian traditions are named together.",
+   "uncertainties": [
+    "The grammatical relation to the surrounding sentence is implicit."
+   ],
+   "plain_english": "In Śaiva, Śākta, Gāṇapatya, Cāndra, Saura, and likewise Ārhata traditions."
+  },
+  {
+   "verse": 1934,
+   "rows": [
+    {
+     "surface": "svarṇa+ratnāni",
+     "gloss": "gold-jewels",
+     "grounds": "compound accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyāni",
+     "gloss": "other",
+     "grounds": "accusative plural",
+     "morph": "adj.acc.pl"
+    },
+    {
+     "surface": "nānā+vastrāṇi",
+     "gloss": "various-garments",
+     "grounds": "compound accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "What valuables and garments are mentioned as offerings or gifts?",
+   "premises": [
+    "Gold and jewels are named.",
+    "Other items are included.",
+    "Various garments are named."
+   ],
+   "inference": "The rite involves offering precious objects and garments.",
+   "uncertainties": [
+    "The recipient is not stated in this verse."
+   ],
+   "plain_english": "Gold, jewels, and other various garments, O Pārvatī."
+  },
+  {
+   "verse": 1935,
+   "rows": [
+    {
+     "surface": "guru+putrāya",
+     "gloss": "to-guru-son",
+     "grounds": "compound dative",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "tat+patnyai",
+     "gloss": "to-his-wife",
+     "grounds": "compound dative",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "tat+sutāyai",
+     "gloss": "to-his-daughter",
+     "grounds": "compound dative",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "To whom should these offerings be presented?",
+   "premises": [
+    "The offering goes to the guru's son.",
+    "It goes to his wife.",
+    "It goes to his daughter."
+   ],
+   "inference": "Offerings are directed to the guru's family members.",
+   "uncertainties": [
+    "The exact items offered are from the previous verse."
+   ],
+   "plain_english": "One should offer them to the guru's son, his wife, and his daughter."
+  },
+  {
+   "verse": 1936,
+   "rows": [
+    {
+     "surface": "kūpe",
+     "gloss": "in-well",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "araṇye",
+     "gloss": "in-wilderness",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "guhā+madhye",
+     "gloss": "in-cave-middle",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taḍāge",
+     "gloss": "in-pond",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-throw",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative",
+     "morph": "adj.voc.sg"
+    }
+   ],
+   "question": "Where may the offerings be thrown instead of being presented?",
+   "premises": [
+    "Well wilderness cave and pond are named.",
+    "The action is throwing.",
+    "The addressee is beloved."
+   ],
+   "inference": "Offerings may be disposed of in natural or secluded places.",
+   "uncertainties": [
+    "The object thrown is implied from context."
+   ],
+   "plain_english": "One should throw them in a well, wilderness, cave, or pond, O beloved."
+  },
+  {
+   "verse": 1937,
+   "rows": [
+    {
+     "surface": "bhaktāya",
+     "gloss": "to-devotee",
+     "grounds": "dative",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "amṛta+rūpo",
+     "gloss": "nectar-form",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedyaḥ",
+     "gloss": "food-offering",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "is-declared",
+     "grounds": "participle",
+     "morph": "v.part.pass"
+    }
+   ],
+   "question": "For whom is the food offering declared to be nectar-like?",
+   "premises": [
+    "The food offering is declared.",
+    "It is nectar-form.",
+    "It is for a devotee."
+   ],
+   "inference": "The food offering becomes nectar for a devotee.",
+   "uncertainties": [
+    "No ritual procedure is given."
+   ],
+   "plain_english": "Indeed, the food offering is declared to be nectar-form for a devotee."
+  },
+  {
+   "verse": 1938,
+   "rows": [
+    {
+     "surface": "śāligrāme",
+     "gloss": "in-śāligrāma",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāṇa+liṅge",
+     "gloss": "in-bāṇa-liṅga",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naivedyā",
+     "gloss": "food-offering",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣyati",
+     "gloss": "is-polluted",
+     "grounds": "present",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "In which sacred objects is the food offering said not to be polluted?",
+   "premises": [
+    "Śāligrāma is named.",
+    "Bāṇa liṅga is named.",
+    "The food offering is not polluted."
+   ],
+   "inference": "Food offerings remain unpolluted in Śāligrāma and Bāṇa liṅga.",
+   "uncertainties": [
+    "The scope of pollution is not defined."
+   ],
+   "plain_english": "In Śāligrāma and Bāṇa liṅga, the food offering is indeed not polluted."
+  },
+  {
+   "verse": 1939,
+   "rows": [
+    {
+     "surface": "prayoga+kāle",
+     "gloss": "at-application-time",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brāhmaṇas",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "vratī",
+     "gloss": "vow-observer",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whom should the vow-observer worship at the time of application?",
+   "premises": [
+    "The time is application time.",
+    "Brāhmaṇas are to be worshipped.",
+    "The agent is a vow-observer."
+   ],
+   "inference": "A vow-observer should worship brāhmaṇas during ritual application.",
+   "uncertainties": [
+    "The exact application is unspecified."
+   ],
+   "plain_english": "O goddess, at the time of application, the vow-observer should worship brāhmaṇas."
+  },
+  {
+   "verse": 1940,
+   "rows": [
+    {
+     "surface": "ārambha+antaṃ",
+     "gloss": "from-beginning-to-end",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be performed after completing the rite from beginning to end?",
+   "premises": [
+    "The rite is completed from beginning to end.",
+    "Then expiation is mentioned.",
+    "Thereafter one should perform it."
+   ],
+   "inference": "Expiation should be performed after completing the rite.",
+   "uncertainties": [
+    "The type of expiation is not specified."
+   ],
+   "plain_english": "Having completed it from beginning to end, then one should perform expiation thereafter."
+  },
+  {
+   "verse": 1941,
+   "rows": [
+    {
+     "surface": "kārya+madhye",
+     "gloss": "in-action-middle",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "action",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṅga+aṅgitvaṃ",
+     "gloss": "limb-limbed-ness",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "What relationship between action and limb should arise during the rite?",
+   "premises": [
+    "The context is in the middle of action.",
+    "Action and limb-limbedness are named.",
+    "The relation should be."
+   ],
+   "inference": "Action and its limbs should be properly related during performance.",
+   "uncertainties": [
+    "The exact limb relation is technical."
+   ],
+   "plain_english": "In the middle of the action, O Śivā, action and limb-limbedness should again be."
+  },
+  {
+   "verse": 1942,
+   "rows": [
+    {
+     "surface": "kāryāṇi",
+     "gloss": "actions",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "ca+anyathā",
+     "gloss": "otherwise",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārakī",
+     "gloss": "hell-dweller",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-would-become",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What consequence follows if the actions are not accomplished properly?",
+   "premises": [
+    "Actions should be accomplished.",
+    "Otherwise is stated.",
+    "One would become a hell-dweller."
+   ],
+   "inference": "Failure to accomplish the actions leads to hell.",
+   "uncertainties": [
+    "The specific failure condition is not detailed."
+   ],
+   "plain_english": "O goddess, one should accomplish the actions; otherwise one would become a hell-dweller."
+  },
+  {
+   "verse": 1943,
+   "rows": [
+    {
+     "surface": "nyāya+adhikaraṇaṃ",
+     "gloss": "proper-adjudication",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "pīṭhikā+jñāna+pūrvakam",
+     "gloss": "pedestal-knowledge-preceded-by",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What knowledge must precede proper adjudication in this rite?",
+   "premises": [
+    "Proper adjudication is to be known.",
+    "Pedestal knowledge precedes it.",
+    "The verse is terse."
+   ],
+   "inference": "Knowledge of the pedestal precedes proper adjudication.",
+   "uncertainties": [
+    "The full procedural context is omitted."
+   ],
+   "plain_english": "Having known proper adjudication, preceded by knowledge of the pedestal."
+  },
+  {
+   "verse": 1944,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-action",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karmaṇām",
+     "gloss": "of-actions",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ārambhaḥ",
+     "gloss": "commencement",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacid",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Is there a commencement of actions within an action?",
+   "premises": [
+    "The verse denies commencement.",
+    "It concerns actions within action.",
+    "It says nowhere should it be."
+   ],
+   "inference": "There is no commencement of actions within an action.",
+   "uncertainties": [
+    "The philosophical implication is terse."
+   ],
+   "plain_english": "Indeed, there should be no commencement of actions anywhere within an action."
+  },
+  {
+   "verse": 1945,
+   "rows": [
+    {
+     "surface": "kārye",
+     "gloss": "action",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jāte",
+     "gloss": "having-arisen",
+     "grounds": "locative participle",
+     "morph": "v.part.loc"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+īśi",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "sandhyā+pūti",
+     "gloss": "twilight-worship",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Should twilight worship still be performed even after an action has arisen?",
+   "premises": [
+    "Even if action has arisen.",
+    "Twilight worship is named.",
+    "One should perform it."
+   ],
+   "inference": "Twilight worship remains obligatory despite arising action.",
+   "uncertainties": [
+    "The relation between action and worship is implicit."
+   ],
+   "plain_english": "Even when an action has arisen, O lord of gods, one should perform twilight worship."
+  },
+  {
+   "verse": 1946,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "in-brief",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "v.part.pass"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "else",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "v.inf"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-desire",
+     "grounds": "second person",
+     "morph": "v.2.sg.act-pres"
+    }
+   ],
+   "question": "What else does the listener desire to hear after this brief declaration?",
+   "premises": [
+    "The teaching has been declared in brief.",
+    "The speaker asks what else.",
+    "The listener desires to hear."
+   ],
+   "inference": "The dialogue invites further questions after the summary.",
+   "uncertainties": [
+    "No further topic is named."
+   ],
+   "plain_english": "Thus it has been declared in brief; what else do you desire to hear?"
+  },
+  {
+   "verse": 1947,
+   "rows": [
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekona+catvāriṃśatiḥ",
+     "gloss": "thirty-ninth",
+     "grounds": "compound nominative",
+     "morph": "num.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the name of this chapter?",
+   "premises": [
+    "The name is stated.",
+    "It is the thirty-ninth.",
+    "It is a chapter."
+   ],
+   "inference": "This is the thirty-ninth chapter.",
+   "uncertainties": [
+    "The chapter title itself is not given."
+   ],
+   "plain_english": "Name: the thirty-ninth chapter."
+  },
+  {
+   "verse": 1948,
+   "rows": [
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahu+vidhā",
+     "gloss": "of-many-kinds",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "v.part.pass"
+    },
+    {
+     "surface": "mahā+śaṅkha+ādi+bhedataḥ",
+     "gloss": "by-great-conch-etc-distinction",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How is the rosary declared to be of many kinds?",
+   "premises": [
+    "The rosary is declared.",
+    "It is of many kinds.",
+    "The distinction is by great conch and so on."
+   ],
+   "inference": "Rosaries are classified by great conch and similar distinctions.",
+   "uncertainties": [
+    "The full classification is not enumerated."
+   ],
+   "plain_english": "The rosary, of many kinds, is declared by distinction of great conch and so on."
+  },
+  {
+   "verse": 1949,
+   "rows": [
+    {
+     "surface": "varṇa+mālā",
+     "gloss": "letter-rosary",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "sarva+kārya+artha+sādhinī",
+     "gloss": "all-purpose-accomplishing",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is the function of the letter rosary?",
+   "premises": [
+    "The letter rosary is named.",
+    "It is addressed to the goddess.",
+    "It accomplishes all purposes."
+   ],
+   "inference": "The letter rosary accomplishes all purposes.",
+   "uncertainties": [
+    "The mechanism of accomplishment is not stated."
+   ],
+   "plain_english": "Likewise, O goddess, the letter rosary accomplishes all purposes."
+  }
+ ]
+}

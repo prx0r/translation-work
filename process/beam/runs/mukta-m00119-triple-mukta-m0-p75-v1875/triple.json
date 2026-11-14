@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "sārdhayāmottaraṃ",
+     "gloss": "one-and-half-yāma-later",
+     "grounds": "compound adverb indicating time after one and a half yāmas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "indeclinable spatial adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakṛdeva",
+     "gloss": "once-indeed",
+     "grounds": "fused form of sakṛt and eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the bali be offered around the goddess after one and a half yāmas?",
+   "premises": [
+    "bali offering follows one and a half yāmas",
+    "offering occurs around the goddess",
+    "offering is performed once"
+   ],
+   "inference": "The ritual timing is one and a half yāmas later, with a single circumambulatory offering.",
+   "uncertainties": [
+    "verse fragment appears incomplete",
+    "sakṛdeva fusion is not expanded"
+   ],
+   "plain_english": "After one and a half yāmas, O goddess, [the offering is made] around [her], once, and..."
+  }
+ ]
+}

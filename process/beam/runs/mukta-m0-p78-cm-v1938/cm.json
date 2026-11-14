@@ -3,39 +3,34 @@
  "verse": 1938,
  "rows": [
   {
-   "lemma": "duḥkhaṃ",
+   "lemma": "śāligrāme",
+   "morph": "n.loc.sg",
+   "grounds": "locative"
+  },
+  {
+   "lemma": "bāṇa+liṅge",
+   "morph": "n.loc.sg",
+   "grounds": "compound locative"
+  },
+  {
+   "lemma": "naivedyā",
    "morph": "n.nom.sg",
-   "grounds": "neuter nominative singular"
-  },
-  {
-   "lemma": "prāpnoti",
-   "morph": "3.sg.act-pres",
-   "grounds": "third singular present active"
-  },
-  {
-   "lemma": "manasā",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental singular"
-  },
-  {
-   "lemma": "kāyena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental singular"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable conjunction"
+   "grounds": "nominative"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negative particle"
+   "grounds": "negation"
   },
   {
-   "lemma": "saṃśayaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative masculine singular"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "particle"
+  },
+  {
+   "lemma": "dūṣyati",
+   "morph": "v.3.sg.pass-pres",
+   "grounds": "present"
   }
  ]
 }

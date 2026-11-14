@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p77",
  "verse": 1922,
- "question": "How should the ritual site be decorated?",
+ "question": "How many vira arrangements are possible?",
  "premises": [
-  "Flags and banners crowd it",
-  "High gateways adorn it",
-  "The site is decorated"
+  "one vira is possible",
+  "three vira is possible",
+  "five eight nine vira is possible"
  ],
- "inference": "The ritual site is crowded with flags and banners and adorned with high gateways.",
+ "inference": "The verse lists one, three, five, eight, or nine vira arrangements.",
  "uncertainties": [
-  "Exact sandhi boundaries not expanded"
+  "whether pañcāṣṭanava means 5,8,9 or 589"
  ],
- "plain_english": "The site is crowded with flags and banners and adorned with high gateways."
+ "plain_english": "One vira, three vira, or five-eight-nine vira arrangements are possible."
 }

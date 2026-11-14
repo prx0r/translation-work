@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1830,
- "question": "What abode, oversight, slaying, and dwelling attributes belong to the goddess?",
+ "question": "What kinds of liquor are distinguished by their source ingredients?",
  "premises": [
-  "The goddess has three abodes.",
-  "The goddess oversees three gods, slays three, and dwells in Tripura."
+  "flour-based liquor is named",
+  "molasses-based liquor is named",
+  "honey-based and palm-date-based liquors are named"
  ],
- "inference": "The goddess is connected with three abodes, three gods, three slayings, and Tripura.",
+ "inference": "The verse distinguishes liquors made from flour, molasses, honey, and palm-date.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "no prohibition or permission is stated here"
  ],
- "plain_english": "She has three abodes, oversees the three gods, slays three, and dwells in Tripura."
+ "plain_english": "There are liquors made from flour, molasses, honey, and palm-date."
 }

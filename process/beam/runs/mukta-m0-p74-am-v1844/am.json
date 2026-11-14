@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1844,
- "question": "What animal comparisons illustrate fear or reaction?",
+ "question": "What follows from beholding the circle before acting?",
  "premises": [
-  "Frogs seeing a serpent react with fear.",
-  "A mouse seeing a cat reacts with fear."
+  "the circle is beheld",
+  "whatever is done follows",
+  "a man is the agent"
  ],
- "inference": "The verse uses animal fear comparisons.",
+ "inference": "A man who beholds the circle before acting does whatever he does with that vision.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "two tokens are editorial placeholders"
  ],
- "plain_english": "As frogs seeing a serpent, as a mouse seeing a cat."
+ "plain_english": "Having beheld the circle, a man does whatever he does."
 }

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1841,
- "question": "How should this hymn be concealed and read?",
+ "question": "When may a Kālikā mantra mutterer touch a sinner?",
  "premises": [
-  "It should be concealed with effort.",
-  "It should be read carefully."
+  "the mutterer of Kālikā mantra is the subject",
+  "touching a sinner is the action",
+  "the condition is introduced by if"
  ],
- "inference": "The hymn requires both secrecy and careful recitation.",
+ "inference": "A Kālikā mantra mutterer may touch a sinner only under the stated condition.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "the condition is not fully specified in this verse"
  ],
- "plain_english": "It should be concealed with effort and read carefully."
+ "plain_english": "A Kālikā mantra mutterer may indeed touch a sinner, if the condition holds."
 }

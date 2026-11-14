@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1832,
- "question": "What Tripura, prosperity, mother, enjoyer, Bhairavi, and om attributes are named?",
+ "question": "What restriction applies to the brāhmaṇa regarding honey liquor?",
  "premises": [
-  "The goddess is Tripura and prosperity.",
-  "The goddess is three-mother, three-enjoyer, Tripura-Bhairavi, and om."
+  "the brāhmaṇa is the agent",
+  "something is to be given",
+  "honey liquor is excluded in any way"
  ],
- "inference": "The verse lists sacred names and attributes of the goddess.",
+ "inference": "The brāhmaṇa must give without honey liquor in any way.",
  "uncertainties": [
-  "Compound segmentation not expanded."
+  "the object to be given is not fully specified"
  ],
- "plain_english": "Tripura, prosperity, three-mother, three-enjoyer, Tripura-Bhairavi, om."
+ "plain_english": "By the brāhmaṇa, it is to be given, without honey liquor in any way."
 }
