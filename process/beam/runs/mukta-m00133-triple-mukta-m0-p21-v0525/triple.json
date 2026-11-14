@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "rahasyanena",
+     "gloss": "by-this-secret",
+     "grounds": "instrumental of rahasya with demonstrative force; refers to the secret method just indicated",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "cārvaṅgi",
+     "gloss": "o-beautiful-limbed-one",
+     "grounds": "vocative address to Pārvatī; compound of cāru and aṅga",
+     "morph": "f.voc.sg, compound cāru+aṅgī"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "expresses the result produced by the secret",
+     "morph": "3.sg.pres.pass-√jan"
+    },
+    {
+     "surface": "viṣṇuvigraham",
+     "gloss": "viṣṇu-form",
+     "grounds": "accusative object indicating the form attained; compound of viṣṇu and vigraha",
+     "morph": "m.acc.sg, compound viṣṇu+vigraha"
+    }
+   ],
+   "question": "What divine form is attained through this secret, O beautiful-limbed one?",
+   "premises": [
+    "A specific secret method is being invoked.",
+    "The beautiful-limbed one is the addressed recipient.",
+    "Through this secret a Viṣṇu-form arises."
+   ],
+   "inference": "Therefore, employing this secret results in the attainment of a Viṣṇu-form.",
+   "uncertainties": [
+    "jāyate may indicate being born as or coming to possess the stated form."
+   ],
+   "plain_english": "O beautiful-limbed one, by this secret a Viṣṇu-form is attained."
+  }
+ ]
+}

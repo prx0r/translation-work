@@ -3,24 +3,34 @@
  "verse": 457,
  "rows": [
   {
-   "lemma": "bhāvayet",
-   "morph": "3.sg.opt.act √bhū (causative)",
-   "grounds": "visualize or meditate upon"
+   "lemma": "mātā",
+   "morph": "f.nom.sg",
+   "grounds": "predicate identifying the mātṛkā"
   },
   {
-   "lemma": "akṣara+śreṇīm",
-   "morph": "compound: akṣara+śreṇī, f.acc.sg",
-   "grounds": "sequence of mantra syllables; akṣara+śreṇī compound"
+   "lemma": "sā",
+   "morph": "f.nom.sg pronoun",
+   "grounds": "subject referring to mātṛkā"
   },
   {
-   "lemma": "iṣṭa+vidyāṃ",
-   "morph": "compound: iṣṭa+vidyā, f.acc.sg",
-   "grounds": "the chosen mantra or knowledge; iṣṭa+vidyā compound"
+   "lemma": "sarvavidyānāṃ",
+   "morph": "f.gen.pl compound=sarva+vidyā",
+   "grounds": "genitive plural scope"
   },
   {
-   "lemma": "sanātanīm",
-   "morph": "f.acc.sg",
-   "grounds": "timeless and primordial"
+   "lemma": "mantrāṇāñca",
+   "morph": "m.gen.pl + (indecl.)",
+   "grounds": "extends scope to mantras"
+  },
+  {
+   "lemma": "pṛthak",
+   "morph": "(indecl.)",
+   "grounds": "adverb indicating each individually"
+  },
+  {
+   "lemma": "pṛthak",
+   "morph": "(indecl.)",
+   "grounds": "repeated for emphasis"
   }
  ]
 }
