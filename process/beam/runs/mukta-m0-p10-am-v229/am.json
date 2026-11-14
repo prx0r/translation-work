@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 229,
- "question": "Which syllables are located at the left foot and above the head?",
+ "question": "What ornamental and structural elements are placed on the spire pair and corner?",
  "premises": [
-  "The syllable ha is associated with the left foot.",
-  "The syllable kṣa is associated with the region above the head.",
-  "Both are specified as bodily placements."
+  "An ornament is placed on the pair of spires.",
+  "The corner position is also specified.",
+  "Two pratirathas are associated with the corner."
  ],
- "inference": "The syllables ha and kṣa are placed at the left foot and above the head respectively.",
- "uncertainties": [],
- "plain_english": "The syllable ha is placed at the left foot, and the syllable kṣa above the head."
+ "inference": "An ornament is placed on the spire pair and two pratirathas are placed at the corner.",
+ "uncertainties": [
+  "The token pratirathyakaḥ is singular in form but is taken with dve as indicating two pratirathas."
+ ],
+ "plain_english": "Place an ornament on the pair of spires, and place two pratirathas at the corner."
 }

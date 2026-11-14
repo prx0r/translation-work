@@ -1,0 +1,1093 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "mandiraṃ",
+     "gloss": "temple",
+     "grounds": "object of the prescribed omission",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "qualifies the temple element",
+     "morph": "adj.acc.sg.nt"
+    },
+    {
+     "surface": "bhadramalayor",
+     "gloss": "on-bhadra-and-malaya",
+     "grounds": "locative dual indicating the two positions",
+     "morph": "compound: bhadra+malaya (loc.du)"
+    },
+    {
+     "surface": "bhadrajaṃ",
+     "gloss": "born-on-bhadra",
+     "grounds": "qualifies the third temple element as arising on the bhadra",
+     "morph": "compound: bhadra+ja (adj.acc.sg.nt)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act-opt √tyaj"
+    }
+   ],
+   "question": "Which third temple element arising on the bhadra and malaya must be omitted?",
+   "premises": [
+    "A third temple element is under consideration.",
+    "This element arises on the bhadra and malaya.",
+    "The prescribed action is abandonment of that element."
+   ],
+   "inference": "The third bhadra-born temple element on the bhadra and malaya must be omitted.",
+   "uncertainties": [],
+   "plain_english": "One should abandon the third temple element born on the bhadra when it occurs on the bhadra and the malaya."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "bhadroruśṛṅgavaiśāla",
+     "gloss": "bhadra-large-spire-broad",
+     "grounds": "compound describing a broad form with a large spire on the bhadra",
+     "morph": "compound: bhadra+uru+śṛṅga+vaiśāla (adj.nom.sg.m)"
+    },
+    {
+     "surface": "pratirathye",
+     "gloss": "in-pratiratha",
+     "grounds": "locative indicating the position",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "subhūṣaṇaḥ",
+     "gloss": "well-adorned",
+     "grounds": "predicate describing the resulting form",
+     "morph": "compound: su+bhūṣaṇa (adj.nom.sg.m)"
+    }
+   ],
+   "question": "What adornment characterizes a broad large-spired form placed in the pratiratha?",
+   "premises": [
+    "A form is broad with a large spire on the bhadra.",
+    "This form is situated in the pratiratha.",
+    "Such a form is described as well adorned."
+   ],
+   "inference": "A broad large-spired bhadra form in the pratiratha is well adorned.",
+   "uncertainties": [],
+   "plain_english": "In the pratiratha, a form broad with a large spire on the bhadra is well adorned."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "bhadrārdhaṃ",
+     "gloss": "bhadra-half",
+     "grounds": "measure related to half of the bhadra",
+     "morph": "compound: bhadra+ardha (n.acc.sg.nt)"
+    },
+    {
+     "surface": "bhāgabhāgaṃ",
+     "gloss": "part-by-part",
+     "grounds": "distributive measure of parts",
+     "morph": "compound: bhāga+bhāga (n.acc.sg.nt)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects measures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgārdhena",
+     "gloss": "by-half-part",
+     "grounds": "instrumental indicating the extent of projection",
+     "morph": "compound: bhāga+ardha (n.inst.sg.nt)"
+    },
+    {
+     "surface": "vinirgamam",
+     "gloss": "projection",
+     "grounds": "object denoting outward extension",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What projection measure is prescribed using half-bhadra and half-part divisions?",
+   "premises": [
+    "A half-bhadra measure is specified.",
+    "A part-by-part division is also specified.",
+    "The projection is made by a half-part."
+   ],
+   "inference": "The projection should extend by a half-part according to the specified bhadra and part divisions.",
+   "uncertainties": [],
+   "plain_english": "The projection should be made by a half-part, following the half-bhadra and part-by-part measures."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "śṛṅgayugme",
+     "gloss": "in-spire-pair",
+     "grounds": "locative indicating placement on a pair of spires",
+     "morph": "compound: śṛṅga+yugma (n.loc.sg.nt)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "ornament",
+     "grounds": "decorative element to be placed",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-corner",
+     "grounds": "locative indicating the corner position",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "number of pratirathas",
+     "morph": "num.nom.du"
+    },
+    {
+     "surface": "pratirathyakaḥ",
+     "gloss": "pratirathas",
+     "grounds": "elements placed at the corner; surface form singular but context indicates two",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What ornamental and structural elements are placed on the spire pair and corner?",
+   "premises": [
+    "An ornament is placed on the pair of spires.",
+    "The corner position is also specified.",
+    "Two pratirathas are associated with the corner."
+   ],
+   "inference": "An ornament is placed on the spire pair and two pratirathas are placed at the corner.",
+   "uncertainties": [
+    "The token pratirathyakaḥ is singular in form but is taken with dve as indicating two pratirathas."
+   ],
+   "plain_english": "Place an ornament on the pair of spires, and place two pratirathas at the corner."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "śikharaṃ",
+     "gloss": "spire",
+     "grounds": "subject of the description",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "pañcavistāraṃ",
+     "gloss": "five-widths",
+     "grounds": "compound indicating the spire's breadth measure",
+     "morph": "compound: pañca+vistāra (adj.nom.sg.nt)"
+    },
+    {
+     "surface": "mahendro",
+     "gloss": "mahendra",
+     "grounds": "name of the spire type",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rājyado",
+     "gloss": "kingdom-giving",
+     "grounds": "describes the fruit bestowed by this type",
+     "morph": "compound: rājya+da (adj.nom.sg.m)"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "to-men",
+     "grounds": "recipients of the benefit",
+     "morph": "n.gen.pl.m"
+    }
+   ],
+   "question": "What benefit does a five-width Mahendra spire confer upon men?",
+   "premises": [
+    "A spire of five widths is identified as Mahendra.",
+    "Mahendra is described as kingdom-giving.",
+    "The benefit is directed to men."
+   ],
+   "inference": "A five-width Mahendra spire grants kingship to men.",
+   "uncertainties": [],
+   "plain_english": "A spire five widths broad, called Mahendra, bestows kingship upon men."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior action before the prohibition",
+     "morph": "gerund √tyaj"
+    },
+    {
+     "surface": "ekaśṛṅgabhadrasya",
+     "gloss": "of-one-spire-bhadra",
+     "grounds": "object whose support is to be rejected",
+     "morph": "compound: eka+śṛṅga+bhadra (n.gen.sg.m)"
+    },
+    {
+     "surface": "matālambaṃ",
+     "gloss": "support-of-opinion",
+     "grounds": "the doctrinal support to be avoided",
+     "morph": "compound: mata+ālamba (n.acc.sg.m)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "prohibitive injunction",
+     "morph": "3.sg.act-caus-opt √kṛ"
+    }
+   ],
+   "question": "Why must the doctrinal support for a one-spired bhadra be rejected in construction?",
+   "premises": [
+    "The support of the opinion concerning a one-spired bhadra is considered.",
+    "This support is to be abandoned.",
+    "One should not construct according to that support."
+   ],
+   "inference": "Construction should not follow the abandoned doctrinal support for a one-spired bhadra.",
+   "uncertainties": [],
+   "plain_english": "Having abandoned the doctrinal support for a one-spired bhadra, one should not have it constructed."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "sitaśṛṅgas",
+     "gloss": "white-spire",
+     "grounds": "compound naming the spire type",
+     "morph": "compound: sita+śṛṅga (adj.nom.sg.m)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the resulting designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "introduces the name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvarasya",
+     "gloss": "of-lord",
+     "grounds": "the deity to whom it is dear",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates permanence of favor",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "predicate describing its status",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What name and divine favor belong to the white-spired temple form?",
+   "premises": [
+    "The form is characterized by a white spire.",
+    "It is then designated by that name.",
+    "It is always dear to the Lord."
+   ],
+   "inference": "The white-spired form is so named and is always dear to Īśvara.",
+   "uncertainties": [],
+   "plain_english": "Then it is called Sitaśṛṅga, and it is always dear to Īśvara."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "trailokyavijayo",
+     "gloss": "conqueror-of-three-worlds",
+     "grounds": "name or epithet of the form",
+     "morph": "compound: trailokya+vijaya (n.nom.sg.m)"
+    },
+    {
+     "surface": "bhadraśṛṅge",
+     "gloss": "in-bhadra-spire",
+     "grounds": "locative indicating the spire context",
+     "morph": "compound: bhadra+śṛṅga (n.loc.sg.nt)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following attribute",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣitivallabhaḥ",
+     "gloss": "beloved-of-earth",
+     "grounds": "attribute denied to this form",
+     "morph": "compound: kṣiti+vallabha (adj.nom.sg.m)"
+    }
+   ],
+   "question": "What earthly favor is denied to the Trailokyavijaya form with a bhadra spire?",
+   "premises": [
+    "The form is called Trailokyavijaya.",
+    "It is associated with a bhadra spire.",
+    "It is not beloved of the earth."
+   ],
+   "inference": "The Trailokyavijaya form with a bhadra spire does not bring favor from the earth.",
+   "uncertainties": [],
+   "plain_english": "The Trailokyavijaya, when it has a bhadra spire, is not beloved of the earth."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "quantity specified",
+     "morph": "num.nom.sg.nt"
+    },
+    {
+     "surface": "pratirathaḥ",
+     "gloss": "pratiratha",
+     "grounds": "element counted as three",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-corner",
+     "grounds": "locative indicating placement",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "bhāgo",
+     "gloss": "part",
+     "grounds": "measure unit",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhāgasamo",
+     "gloss": "equal-to-part",
+     "grounds": "describes equivalence of measure",
+     "morph": "compound: bhāga+sama (adj.nom.sg.m)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "How many pratirathas and what part measure should be placed at the corner?",
+   "premises": [
+    "Three pratirathas are specified.",
+    "They are placed at the corner.",
+    "The part should be equal to a part."
+   ],
+   "inference": "Three pratirathas should be placed at the corner with a measure equal to one part.",
+   "uncertainties": [],
+   "plain_english": "There should be three pratirathas at the corner, and the part should be equal to one part."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "rathoparathe",
+     "gloss": "on-ratha-and-uparatha",
+     "grounds": "locative indicating placement on ratha and uparatha",
+     "morph": "compound: ratha+uparatha (n.loc.sg.nt)"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "ornament",
+     "grounds": "decorative element to be placed",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pratyaṅgaṃ",
+     "gloss": "subsidiary-part",
+     "grounds": "additional element to be placed",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rathopari",
+     "gloss": "on-ratha",
+     "grounds": "locative indicating placement above the ratha",
+     "morph": "compound: ratha+upari (indecl.)"
+    }
+   ],
+   "question": "Where should the ornament and subsidiary part be placed on the ratha structure?",
+   "premises": [
+    "An ornament is to be placed on the ratha and uparatha.",
+    "A subsidiary part is also to be placed.",
+    "Placement above the ratha is specified."
+   ],
+   "inference": "An ornament should be placed on the ratha and uparatha, and a subsidiary part above the ratha.",
+   "uncertainties": [],
+   "plain_english": "Place an ornament on the ratha and uparatha, and a subsidiary part above the ratha."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "bhadre",
+     "gloss": "on-bhadra",
+     "grounds": "locative indicating placement",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "śṛṅgaṃ",
+     "gloss": "spire",
+     "grounds": "element to be added",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal qualifying the spire",
+     "morph": "adj.acc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kailāso",
+     "gloss": "kailasa",
+     "grounds": "name of the resulting form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "introduces the name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "indeed-by-name",
+     "grounds": "emphasizes the designation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What name is given when a third spire is added on the bhadra?",
+   "premises": [
+    "A third spire is placed on the bhadra.",
+    "The resulting form receives a name.",
+    "That name is Kailāsa."
+   ],
+   "inference": "Adding a third spire on the bhadra produces the form named Kailāsa.",
+   "uncertainties": [],
+   "plain_english": "When a third spire is placed on the bhadra, it is indeed called Kailāsa by name."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "on-bhadra",
+     "grounds": "locative indicating placement",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates repetition of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-place",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the resulting designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "refers to the resulting form",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "gandhamādanaḥ",
+     "gloss": "gandhamadana",
+     "grounds": "name of the resulting form",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What name results from placing another spire again on the bhadra?",
+   "premises": [
+    "Another spire is placed again on the bhadra.",
+    "This follows the previous procedure.",
+    "The resulting form is then named Gandhamādana."
+   ],
+   "inference": "Placing another spire again on the bhadra yields the form named Gandhamādana.",
+   "uncertainties": [],
+   "plain_english": "Likewise, if one should place another spire again on the bhadra, then that form is called Gandhamādana."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "bhadre",
+     "gloss": "on-bhadra",
+     "grounds": "locative indicating placement",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-place",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates further repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṅge",
+     "gloss": "spire",
+     "grounds": "element to be placed; locative form in context of placement",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "vijayānanda",
+     "gloss": "vijayananda",
+     "grounds": "name of the resulting form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states the designation",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What designation is given when yet another spire is placed on the bhadra?",
+   "premises": [
+    "Another spire is placed again on the bhadra.",
+    "This continues the series of additions.",
+    "The resulting form is called Vijayānanda."
+   ],
+   "inference": "Placing yet another spire on the bhadra produces the form called Vijayānanda.",
+   "uncertainties": [],
+   "plain_english": "If one should place yet another spire on the bhadra, it is called Vijayānanda."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "śṛṅgadvayaṃ",
+     "gloss": "two-spires",
+     "grounds": "object denoting a pair of spires",
+     "morph": "compound: śṛṅga+dvaya (n.acc.sg.nt)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cchādya",
+     "gloss": "having-covered",
+     "grounds": "prior action of covering",
+     "morph": "gerund √chad"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "locative indicating upper position",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "sarvāṅgatilakas",
+     "gloss": "ornament-on-all-parts",
+     "grounds": "compound describing an ornament covering all parts",
+     "morph": "compound: sarva+aṅga+tilaka (n.nom.sg.m)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the resulting state",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ornamental configuration results from covering two spires above?",
+   "premises": [
+    "Two spires are covered.",
+    "The covering is done above.",
+    "The result is an ornament on all parts."
+   ],
+   "inference": "Covering two spires above produces an ornament on all parts.",
+   "uncertainties": [],
+   "plain_english": "Then, having covered the two spires above, there is an ornament on all parts."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "mahābhāgas",
+     "gloss": "mahabhaga",
+     "grounds": "name of the resulting form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "introduces the name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakāmaphalapradaḥ",
+     "gloss": "giver-of-all-desired-fruits",
+     "grounds": "compound describing the benefit bestowed",
+     "morph": "compound: sarva+kāma+phala+prada (adj.nom.sg.m)"
+    }
+   ],
+   "question": "What name and benefit belong to the form that grants all desired fruits?",
+   "premises": [
+    "The form is then designated by name.",
+    "That name is Mahābhāga.",
+    "It grants the fruits of all desires."
+   ],
+   "inference": "The form named Mahābhāga grants the fruits of all desires.",
+   "uncertainties": [],
+   "plain_english": "Then it is called Mahābhāga by name, the giver of the fruits of all desires."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "meruś",
+     "gloss": "meru",
+     "grounds": "name of the form; final s reflects sandhi",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects designations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds an additional designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samākhyātaḥ",
+     "gloss": "called",
+     "grounds": "states the designation",
+     "morph": "adj.nom.sg.m (past participle √khyā with sam+ā)"
+    },
+    {
+     "surface": "sarvadeveṣu",
+     "gloss": "among-all-gods",
+     "grounds": "locative indicating the sphere of worship",
+     "morph": "compound: sarva+deva (n.loc.pl.m)"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "describes its honored status",
+     "morph": "adj.nom.sg.m (past participle √pūj)"
+    }
+   ],
+   "question": "What additional name and divine honor are attributed to the Meru form?",
+   "premises": [
+    "The form is also called Meru.",
+    "It is recognized among all gods.",
+    "It is worshipped."
+   ],
+   "inference": "The form called Meru is worshipped among all the gods.",
+   "uncertainties": [],
+   "plain_english": "It is also called Meru and is worshipped among all the gods."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "iṣṭakāśailajā",
+     "gloss": "brick-and-stone-born",
+     "grounds": "compound describing the material origin of Meru",
+     "morph": "compound: iṣṭakā+śaila+ja (adj.nom.sg.f)"
+    },
+    {
+     "surface": "meru",
+     "gloss": "of-meru",
+     "grounds": "refers to the Meru form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "the fruit associated with circumambulation",
+     "morph": "compound: tad+phala (n.nom.sg.nt)"
+    },
+    {
+     "surface": "pradakṣiṇākṛte",
+     "gloss": "when-circumambulated",
+     "grounds": "locative absolute indicating the condition",
+     "morph": "compound: pradakṣiṇā+kṛta (n.loc.sg.nt)"
+    }
+   ],
+   "question": "What fruit is obtained when a brick-and-stone Meru is circumambulated?",
+   "premises": [
+    "A Meru made of brick and stone is considered.",
+    "Circumambulation of it is performed.",
+    "That act yields a corresponding fruit."
+   ],
+   "inference": "Circumambulating a brick-and-stone Meru yields that same fruit.",
+   "uncertainties": [],
+   "plain_english": "When a Meru made of brick and stone is circumambulated, that same fruit is obtained."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "pṛ0",
+     "gloss": "page",
+     "grounds": "manuscript or edition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of the section",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairājyādiprāsādapañcaviṃśatyadhikāre",
+     "gloss": "in-section-on-twenty-five-temples-beginning-with-vairajya",
+     "grounds": "compound naming the section title",
+     "morph": "compound: vairājya+ādi+prāsāda+pañcaviṃśati+adhikāra (n.loc.sg.m)"
+    },
+    {
+     "surface": "pañcamo",
+     "gloss": "fifth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "'dhyāyaḥ",
+     "gloss": "chapter",
+     "grounds": "concluding label; initial apostrophe marks elision",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which chapter concludes the section on the twenty-five temples beginning with Vairājya?",
+   "premises": [
+    "The section concerns the twenty-five temples beginning with Vairājya.",
+    "The text marks a conclusion with iti.",
+    "The chapter number is given as fifth."
+   ],
+   "inference": "The fifth chapter concludes the section on the twenty-five temples beginning with Vairājya.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the fifth chapter in the section on the twenty-five temples beginning with Vairājya."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "nandīśo",
+     "gloss": "nandisha",
+     "grounds": "name in a list of temple types; final o reflects sandhi",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mandaraś",
+     "gloss": "mandara",
+     "grounds": "name in a list of temple types; final ś reflects sandhi",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīvṛkṣaś",
+     "gloss": "shrivriksha",
+     "grounds": "name in a list of temple types; final ś reflects sandhi",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛtodbhavaḥ",
+     "gloss": "amritodbhava",
+     "grounds": "name in a list of temple types",
+     "morph": "compound: amṛta+udbhava (n.nom.sg.m)"
+    }
+   ],
+   "question": "Which temple types are enumerated first in this list of named forms?",
+   "premises": [
+    "A series of temple names is being listed.",
+    "Nandīśa, Mandara, Śrīvṛkṣa, and Amṛtodbhava are named.",
+    "These names are presented in sequence."
+   ],
+   "inference": "The list begins with Nandīśa, Mandara, Śrīvṛkṣa, and Amṛtodbhava.",
+   "uncertainties": [],
+   "plain_english": "Nandīśa, Mandara, Śrīvṛkṣa, and Amṛtodbhava are named."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "indranīlo",
+     "gloss": "indranila",
+     "grounds": "name in a list of temple types; final o reflects sandhi",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mahānīlo",
+     "gloss": "mahanila",
+     "grounds": "name in a list of temple types; final o reflects sandhi",
+     "morph": "compound: mahā+nīla (n.nom.sg.m)"
+    },
+    {
+     "surface": "bhūdharo",
+     "gloss": "bhudhara",
+     "grounds": "name in a list of temple types; final o reflects sandhi",
+     "morph": "compound: bhū+dhara (n.nom.sg.m)"
+    },
+    {
+     "surface": "ratnakūṭakaḥ",
+     "gloss": "ratnakutaka",
+     "grounds": "name in a list of temple types",
+     "morph": "compound: ratna+kūṭaka (n.nom.sg.m)"
+    }
+   ],
+   "question": "Which additional temple types continue the enumeration after the first group?",
+   "premises": [
+    "The enumeration of temple names continues.",
+    "Indranīla, Mahānīla, Bhūdhara, and Ratnakūṭaka are named.",
+    "These names form the next group in the list."
+   ],
+   "inference": "The list continues with Indranīla, Mahānīla, Bhūdhara, and Ratnakūṭaka.",
+   "uncertainties": [],
+   "plain_english": "Indranīla, Mahānīla, Bhūdhara, and Ratnakūṭaka are named."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "airāvato",
+     "gloss": "airavata",
+     "grounds": "name in a list of temple types; final o reflects sandhi",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rājahaṃso",
+     "gloss": "rajahamsa",
+     "grounds": "name in a list of temple types; final o reflects sandhi",
+     "morph": "compound: rāja+haṃsa (n.nom.sg.m)"
+    },
+    {
+     "surface": "garuḍo",
+     "gloss": "garuda",
+     "grounds": "name in a list of temple types; final o reflects sandhi",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vṛṣabhadhvajaḥ",
+     "gloss": "vrishabhadhvaja",
+     "grounds": "name in a list of temple types",
+     "morph": "compound: vṛṣabha+dhvaja (n.nom.sg.m)"
+    }
+   ],
+   "question": "Which further temple types complete this segment of the enumeration?",
+   "premises": [
+    "The enumeration of temple names continues.",
+    "Airāvata, Rājahaṃsa, Garuḍa, and Vṛṣabhadhvaja are named.",
+    "These names form another group in the list."
+   ],
+   "inference": "The list continues with Airāvata, Rājahaṃsa, Garuḍa, and Vṛṣabhadhvaja.",
+   "uncertainties": [],
+   "plain_english": "Airāvata, Rājahaṃsa, Garuḍa, and Vṛṣabhadhvaja are named."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇuśivārkāṇām",
+     "gloss": "of-brahma-vishnu-shiva-arka",
+     "grounds": "genitive plural listing four deities",
+     "morph": "compound: brahma+viṣṇu+śiva+arka (n.gen.pl.m)"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "genitive plural referring to other deities",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates applicability to others",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "emphasizes absolute exclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which deities is the following rule restricted and from whom is it excluded?",
+   "premises": [
+    "Brahmā, Viṣṇu, Śiva, and Arka are specified.",
+    "Other deities are also considered.",
+    "The rule never applies to the others."
+   ],
+   "inference": "The rule applies to Brahmā, Viṣṇu, Śiva, and Arka, but never to others.",
+   "uncertainties": [],
+   "plain_english": "This applies to Brahmā, Viṣṇu, Śiva, and Arka, and never to others."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "caturṇāṃ",
+     "gloss": "of-four",
+     "grounds": "genitive indicating the four subjects",
+     "morph": "num.gen.pl"
+    },
+    {
+     "surface": "kramato",
+     "gloss": "in-order",
+     "grounds": "indicates sequential progression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛddhir",
+     "gloss": "increase",
+     "grounds": "the process of growth",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "yāvad",
+     "gloss": "until",
+     "grounds": "sets the upper limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekottaraṃ",
+     "gloss": "one-hundred-plus-one",
+     "grounds": "compound indicating 101",
+     "morph": "compound: eka+uttara (adj.acc.sg.nt)"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numerical base of the limit",
+     "morph": "n.acc.sg.nt"
+    }
+   ],
+   "question": "What sequential increase is prescribed for the four up to one hundred and one?",
+   "premises": [
+    "Four subjects are involved.",
+    "Their increase proceeds in order.",
+    "The increase continues up to one hundred and one."
+   ],
+   "inference": "For the four, there is a sequential increase up to one hundred and one.",
+   "uncertainties": [],
+   "plain_english": "For the four, there is a sequential increase up to one hundred and one."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "bhadrārdhaṃ",
+     "gloss": "bhadra-half",
+     "grounds": "measure related to half of the bhadra",
+     "morph": "compound: bhadra+ardha (n.nom.sg.nt)"
+    },
+    {
+     "surface": "karṇatulyaṃ",
+     "gloss": "equal-to-corner",
+     "grounds": "describes equivalence with the corner",
+     "morph": "compound: karṇa+tulya (adj.nom.sg.nt)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects measures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgenaikena",
+     "gloss": "by-one-part",
+     "grounds": "instrumental indicating the extent of projection; internal sandhi bhāgena+ekena",
+     "morph": "compound: bhāga+eka (n.inst.sg.m)"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "projection",
+     "grounds": "subject denoting outward extension",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What projection measure equals the corner and extends by one part from the bhadra half?",
+   "premises": [
+    "The bhadra half is made equal to the corner.",
+    "The projection is measured by one part.",
+    "These measures define the outward extension."
+   ],
+   "inference": "The projection, equal to the corner at the bhadra half, extends by one part.",
+   "uncertainties": [],
+   "plain_english": "The bhadra half should be equal to the corner, and the projection should extend by one part."
+  }
+ ]
+}

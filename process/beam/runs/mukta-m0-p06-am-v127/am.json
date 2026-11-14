@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 127,
- "question": "How is movement across the crystal stones of Sumeru characterized?",
+ "question": "How many parts define the kumbha pillar in the prescribed divisions?",
  "premises": [
-  "Movement occurs on crystal stones.",
-  "Movement includes both ascending and descending.",
-  "The movement is practiced and familiar."
+  "A division into eight parts is specified.",
+  "One part is assigned in one case.",
+  "Two and a half parts are assigned in another case."
  ],
- "inference": "Travel over the crystal stones involves practiced ascending and descending.",
- "uncertainties": [],
- "plain_english": "Movement on the crystal stones was practiced, involving both ascending and descending."
+ "inference": "The kumbha pillar is measured as one part out of eight or as two and a half parts according to the rule.",
+ "uncertainties": [
+  "The exact referent of the alternative measures is not fully explicit."
+ ],
+ "plain_english": "The kumbha pillar should be one part out of eight, or two and a half parts."
 }

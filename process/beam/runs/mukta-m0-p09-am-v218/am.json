@@ -1,13 +1,13 @@
 {
  "song": "mukta-m0-p09",
  "verse": 218,
- "question": "At what times of day should this prescribed practice be performed?",
+ "question": "Which door orientation must be avoided in a structure with three doors?",
  "premises": [
-  "The practice is to be performed by someone",
-  "Three daily junctures are specified",
-  "The instruction is given as a prescription"
+  "The structure has three doors.",
+  "The middle door is under consideration.",
+  "A south-facing orientation for it is prohibited."
  ],
- "inference": "One should perform this practice at the three daily junctures.",
+ "inference": "In a three-door structure, one should avoid making the middle door south-facing.",
  "uncertainties": [],
- "plain_english": "O trembling-eyed one, O lotus-faced one, whoever should do this at the three junctures."
+ "plain_english": "In a structure with three doors, one should avoid making the middle door face south."
 }

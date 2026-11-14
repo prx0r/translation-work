@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 137,
- "question": "What twilight worship is performed for the lord after the evening rite?",
+ "question": "What breadth proportion relative to length is considered beautiful?",
  "premises": [
-  "The lord is to be worshipped at twilight.",
-  "The twilight rite has been completed.",
-  "Lights are waved with multitudes of lamps on all sides."
+  "Breadth is measured by half the length.",
+  "An alternative adds one part to that measure.",
+  "The resulting proportion is described as beautiful."
  ],
- "inference": "After completing the twilight rite, the lord is honored with lamp-waving from all sides.",
- "uncertainties": [],
- "plain_english": "He honored the lord, who is to be worshipped at twilight and had completed the twilight rite, by waving lamps on all sides."
+ "inference": "A breadth of half the length, or one part more, is considered beautiful.",
+ "uncertainties": [
+  "The exact size of the added part is context-dependent."
+ ],
+ "plain_english": "In breadth, half the length is beautiful, or that increased by one part."
 }

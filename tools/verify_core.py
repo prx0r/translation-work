@@ -34,6 +34,17 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DISP = "tools/proof-disp.json"
 
+# Songs whose data exists but which are OUT OF SCOPE for the build (documented
+# in REGISTRY): the later Spanda nihṣyandas (only vv1-25 are in scope) and the
+# sivasutra extra sutras beyond the 75-sutra Kaul recension. They are not
+# defects and carry no proof by design.
+OUT_OF_SCOPE = {
+    "spanda/span-p04b": "later nihṣyanda; REGISTRY scope = first nihṣyanda vv1-25",
+    "spanda/span-p05": "later nihṣyanda; out of scope",
+    "spanda/span-p06": "later nihṣyanda; out of scope",
+    "sivasutra/span-p09": "sutras 76-77 beyond the 75-sutra Kaul Shastri recension",
+}
+
 
 def registry_works() -> list[str]:
     reg = json.loads((ROOT / "REGISTRY.json").read_text(encoding="utf-8"))
@@ -118,7 +129,9 @@ def main() -> int:
             mode = stored_mode(pp)
             fg, blocking, mr = recompute(w, s, mode)
             errs = validate(w, s)
-            if sg is None:
+            if f"{w}/{s}" in OUT_OF_SCOPE:
+                kind = "OUT-OF-SCOPE"
+            elif sg is None:
                 kind = "NO-PROOF"
             elif sg == "PASS" and fg != "PASS":
                 kind = "REGRESSION"

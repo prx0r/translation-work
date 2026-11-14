@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 220,
- "question": "Where is the letter a placed in the bodily mapping of mātṛkā elements?",
+ "question": "What numerical series of door branches culminates in a total of twenty-five?",
  "premises": [
-  "The letter a is introduced as a topic",
-  "A bodily locus is assigned to it",
-  "The listener is asked to attend"
+  "The series includes one, three, five, and seven.",
+  "These numbers apply to branches.",
+  "The series ends at twenty-five."
  ],
- "inference": "The letter a is assigned to the mouth as its elemental locus.",
- "uncertainties": [],
- "plain_english": "Listen, O fair-complexioned one: the letter a is the element of the mouth."
+ "inference": "The series of branches numbered one, three, five, and seven culminates in twenty-five.",
+ "uncertainties": [
+  "The exact combinatorial rule yielding twenty-five is not fully explicit."
+ ],
+ "plain_english": "With branches numbered one, three, five, and seven, the total reaches twenty-five."
 }

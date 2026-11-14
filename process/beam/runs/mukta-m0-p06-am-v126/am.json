@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 126,
- "question": "What distinctive features characterize the lower peak of Mount Sumeru in this scene?",
+ "question": "What proportional measures relative to the sanctum width determine the pillar dimension?",
  "premises": [
-  "The peak is situated below the summit of Sumeru.",
-  "The peak is broad like the trunks of divine trees."
+  "The sanctum width provides the base measure.",
+  "Proportions include a sixth part addition.",
+  "Proportions include a quarter and a half addition."
  ],
- "inference": "The described location is a broad lower peak of Sumeru comparable to divine tree trunks.",
- "uncertainties": [],
- "plain_english": "The scene takes place on a lower peak of Sumeru's summit, broad like the trunks of divine trees."
+ "inference": "The pillar dimension is calculated from the sanctum width using specified fractional additions.",
+ "uncertainties": [
+  "Exact application of each fractional option is context-dependent."
+ ],
+ "plain_english": "From the width of the sanctum, the measure should be taken with a sixth part, with a quarter, or with a half."
 }

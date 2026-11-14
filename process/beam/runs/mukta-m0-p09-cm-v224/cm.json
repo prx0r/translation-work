@@ -3,34 +3,39 @@
  "verse": 224,
  "rows": [
   {
-   "lemma": "kakārādi",
+   "lemma": "agā",
+   "morph": "nom.sg.f",
+   "grounds": "term of uncertain reference in this context"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "particle indicating designation"
+  },
+  {
+   "lemma": "ṣaḍ",
    "morph": "compound-member",
-   "grounds": "starting from ka"
+   "grounds": "first member of compound indicating number of parts"
   },
   {
-   "lemma": "pañca",
-   "morph": "compound-member",
-   "grounds": "fivefold"
+   "lemma": "bhāgaiḥ",
+   "morph": "ins.pl.m",
+   "grounds": "instrumental indicating divisions"
   },
   {
-   "lemma": "tattvaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "principles or group"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "dakṣa",
-   "morph": "compound-member",
-   "grounds": "right side"
+   "lemma": "caturasraṃ",
+   "morph": "acc.sg.nt",
+   "grounds": "object denoting the square form"
   },
   {
-   "lemma": "bāhau",
-   "morph": "m.loc.sg",
-   "grounds": "in the arm"
-  },
-  {
-   "lemma": "praśasyate",
-   "morph": "3.sg.pres.pass (śaṃs)",
-   "grounds": "is prescribed or commended"
+   "lemma": "vibhājayet",
+   "morph": "3.sg.optative-active (bhaj, causative)",
+   "grounds": "optative prescribing division"
   }
  ]
 }
