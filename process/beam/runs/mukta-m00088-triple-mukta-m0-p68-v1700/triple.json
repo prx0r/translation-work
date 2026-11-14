@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "epithet of the goddess; compound of great and illusion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvīryā",
+     "gloss": "great-vigor",
+     "grounds": "epithet of the goddess; compound of great and vigor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāpātakanāśinī",
+     "gloss": "great-sin-destroying",
+     "grounds": "epithet of the goddess; compound of great, sin, and destroying",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine attributes are praised as destroying great sin and illusion?",
+   "premises": [
+    "The verse lists three epithets of the goddess.",
+    "Each epithet begins with mahā.",
+    "The final epithet names destruction of great sin."
+   ],
+   "inference": "The goddess is praised as great illusion, great vigor, and destroyer of great sin.",
+   "uncertainties": [
+    "Exact syntactic role of these epithets in the larger sentence is not shown."
+   ],
+   "plain_english": "Great illusion, great vigor, destroyer of great sin."
+  }
+ ]
+}

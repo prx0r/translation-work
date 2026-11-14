@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1595,
- "question": "What behaviors must be avoided in the master's presence?",
+ "question": "In what order should the mantra-knower read the hymn?",
  "premises": [
-  "One may be in the master's presence.",
-  "Improper speech, play, and laughter are possible behaviors.",
-  "These are to be abandoned there."
+  "The verse says having read first.",
+  "It names mantra-knower.",
+  "It says then reads hymn."
  ],
- "inference": "In the master's presence, one should avoid improper speech, play, and laughter.",
- "uncertainties": [],
- "plain_english": "In his presence, one should abandon improper speech, play, and laughter."
+ "inference": "He first reads something, then reads the hymn.",
+ "uncertainties": [
+  "Object of first reading is implicit."
+ ],
+ "plain_english": "Having first read, the mantra-knower then reads its hymn."
 }

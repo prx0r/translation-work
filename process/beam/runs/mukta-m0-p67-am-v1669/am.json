@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p67",
  "verse": 1669,
- "question": "What is the extent and status of the sacred place called Prabhāsa?",
+ "question": "What should be increased and avoided in that?",
  "premises": [
-  "The place is called Prabhāsa.",
-  "Its extent is one hundred bows.",
-  "It is a supreme sacred place."
+  "goddess should be increased",
+  "vessel should be avoided"
  ],
- "inference": "Prabhāsa is a supreme sacred place extending one hundred bows.",
- "uncertainties": [],
- "plain_english": "That supreme sacred place Prabhāsa extends one hundred bows."
+ "inference": "Increase the goddess there and avoid the vessel.",
+ "uncertainties": [
+  "vessel type"
+ ],
+ "plain_english": "Increase the goddess there; therefore avoid the vessel."
 }

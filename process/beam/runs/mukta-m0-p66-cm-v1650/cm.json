@@ -3,34 +3,29 @@
  "verse": 1650,
  "rows": [
   {
-   "lemma": "mantraḥ+ayam",
-   "morph": "pron.nom.sg.m + noun.nom.sg.m",
-   "grounds": "fused form of mantraḥ (mantra) and ayam (this); internal sandhi marked by +"
+   "lemma": "sapiṇḍaśchedayed",
+   "morph": "compound+verb fused",
+   "grounds": "fused form carries sapiṇḍa plus chedayed; sandhi retained"
   },
   {
-   "lemma": "deva+devasya",
-   "morph": "compound noun.gen.sg.m",
-   "grounds": "genitive dependent of mantraḥ+ayam; compound deva-deva (god-of-gods)"
+   "lemma": "chedayed",
+   "morph": "3.sg.act.opt (chid)",
+   "grounds": "alternative cutting action"
   },
   {
-   "lemma": "ṛṣi+gargaiḥ",
-   "morph": "compound noun.ins.pl.m",
-   "grounds": "agent of udāhṛtaḥ; fused form with internal sandhi marked by +; honorific or plural instrumental form of ṛṣi-garga"
+   "lemma": "vāpi",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "udāhṛtaḥ",
-   "morph": "ppp.nom.sg.m (ud-ā-√hṛ)",
-   "grounds": "past passive participle describing mantraḥ+ayam"
+   "lemma": "śuddhāntaḥkaraṇo",
+   "morph": "adj.nom.sg.m (śuddha+antaḥkaraṇa)",
+   "grounds": "compound adjective qualifying the agent"
   },
   {
-   "lemma": "ṛṣi",
-   "morph": "noun.nom.sg.m",
-   "grounds": "appositive or title identifying gargaṃ-"
-  },
-  {
-   "lemma": "gargaṃ-",
-   "morph": "noun.acc.sg.m",
-   "grounds": "name of the sage; trailing dash preserved as given in the token"
+   "lemma": "yadi",
+   "morph": "(indecl.)",
+   "grounds": "conditional particle"
   }
  ]
 }

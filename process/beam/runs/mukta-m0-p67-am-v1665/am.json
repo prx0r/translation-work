@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p67",
  "verse": 1665,
- "question": "What mountain named Varāha is located in the northwest of Māna mountain?",
+ "question": "What cotton threads should be given?",
  "premises": [
-  "The location is northwest of Māna mountain.",
-  "A mountain is named Varāha.",
-  "Its position is specified."
+  "cotton threads are an option",
+  "twenty-one threads are specified"
  ],
- "inference": "The mountain named Varāha lies in the northwest of Māna mountain.",
- "uncertainties": [],
- "plain_english": "In the northwest of Māna mountain is a mountain named Varāha."
+ "inference": "Give cotton threads, or twenty-one threads.",
+ "uncertainties": [
+  "exact count rule"
+ ],
+ "plain_english": "Give cotton threads, or twenty-one threads."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p64",
  "verse": 1597,
- "question": "For whose benefit may a servant not use the master's footwear, ornaments, or weapons?",
+ "question": "Which animals are listed in this offering context?",
  "premises": [
-  "Footwear, ornaments, and weapons are available.",
-  "A servant might use them.",
-  "Use for oneself is prohibited."
+  "The verse names yak.",
+  "It names black antelope, fish, ram, boar.",
+  "They are listed together."
  ],
- "inference": "A servant should not employ the master's footwear, ornaments, or weapons for his own purposes.",
- "uncertainties": [],
- "plain_english": "One should not use footwear, ornaments, or weapons for oneself."
+ "inference": "These animals are listed for the offering context.",
+ "uncertainties": [
+  "Their ritual role is not stated."
+ ],
+ "plain_english": "Yak, black antelope, fish, ram, and boar."
 }

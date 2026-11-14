@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p67",
  "verse": 1655,
- "question": "Which goddess is located in the northeast as the central point, beloved?",
+ "question": "What may be loss for kings and auspicious for householders in fire?",
  "premises": [
-  "The direction specified is the northeast.",
-  "The goddess Maṅgalā is present there.",
-  "This location is described as the middle."
+  "kings face loss",
+  "householders gain auspiciousness"
  ],
- "inference": "Goddess Maṅgalā is situated in the northeast as the central point.",
- "uncertainties": [],
- "plain_english": "In the northeast is the goddess Maṅgalā; this is the middle, O beloved."
+ "inference": "In fire, kings may suffer loss while householders gain auspiciousness.",
+ "uncertainties": [
+  "fire rite context"
+ ],
+ "plain_english": "In fire, kings may suffer loss, while householders may gain auspiciousness."
 }

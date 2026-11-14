@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p67",
  "verse": 1656,
- "question": "Which deities are placed in the southern face and in the west?",
+ "question": "What success may certainly occur after a little time?",
  "premises": [
-  "Kāmeśī is in the southern face.",
-  "Hayagrīva is in the west.",
-  "Both placements are specified."
+  "little time is enough",
+  "all success becomes certain"
  ],
- "inference": "Kāmeśī occupies the southern face and Hayagrīva occupies the west.",
- "uncertainties": [],
- "plain_english": "In the southern face is Kāmeśī, and in the west is Hayagrīva."
+ "inference": "All success may certainly occur after a little time.",
+ "uncertainties": [
+  "triggering condition"
+ ],
+ "plain_english": "Then after a little time, all success may certainly occur."
 }
