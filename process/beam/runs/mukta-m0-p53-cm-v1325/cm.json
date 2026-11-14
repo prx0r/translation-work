@@ -3,19 +3,34 @@
  "verse": 1325,
  "rows": [
   {
-   "lemma": "tatraiva",
+   "lemma": "gurave",
+   "morph": "m.dat.sg",
+   "grounds": "dative of guru; recipient of the fee"
+  },
+  {
+   "lemma": "dakṣiṇārthāya",
+   "morph": "m.dat.sg",
+   "grounds": "dative singular of dakṣiṇārtha; purpose of offering the fee"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb; sandhi-final -aiva intensifies tatra"
+   "grounds": "conjunction linking the prescription"
   },
   {
-   "lemma": "devadeveśi",
-   "morph": "voc.sg.f",
-   "grounds": "vocative address to the goddess; compound of deva-deva-īśī"
+   "lemma": "aṣṭavāraṃ",
+   "morph": "n.acc.sg",
+   "grounds": "accusative of aṣṭavāra; frequency of chanting"
   },
   {
-   "lemma": "tragunyādbhedabhājanam",
-   "morph": "acc.sg.n",
-   "grounds": "fused form; parsed as tra-guṇyād-bheda-bhājanam, a vessel of distinction arising from the three gunas"
+   "lemma": "japen",
+   "morph": "3.sg.act-opt+jap",
+   "grounds": "optative of jap; prescriptive chanting"
+  },
+  {
+   "lemma": "manum",
+   "morph": "m.acc.sg",
+   "grounds": "accusative object of japen; mantra to be chanted"
   }
  ]
 }

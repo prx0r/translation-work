@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun in feminine plural nominative referring to the goddesses named previously",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tvām",
+     "gloss": "you",
+     "grounds": "second-person pronoun in accusative singular as the one to be anointed",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "abhiṣiñcantu",
+     "gloss": "let-them-anoint",
+     "grounds": "imperative plural active of abhiṣiñc, directing the goddesses to perform anointing",
+     "morph": "3.pl.act.impv"
+    },
+    {
+     "surface": "mantra pūtena",
+     "gloss": "with-mantra-purified",
+     "grounds": "instrumental adjective phrase modifying water, indicating purification by mantra",
+     "morph": "adj.ins.sg.m"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "water",
+     "grounds": "neuter noun in instrumental singular naming the anointing substance",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "Who is to anoint the recipient and with what purified substance?",
+   "premises": [
+    "The goddesses are named as agents.",
+    "The recipient is addressed directly.",
+    "The anointing uses mantra-purified water."
+   ],
+   "inference": "The verse prescribes anointing of the recipient by the goddesses using water purified by mantra.",
+   "uncertainties": [
+    "The exact gender and number agreement of mantra pūtena with vāriṇā is not fully explicit in the token."
+   ],
+   "plain_english": "Let these goddesses anoint you with water purified by mantra."
+  }
+ ]
+}

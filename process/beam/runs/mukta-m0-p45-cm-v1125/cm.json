@@ -3,29 +3,34 @@
  "verse": 1125,
  "rows": [
   {
-   "lemma": "sūryagrahe",
-   "morph": "m.loc.sg",
-   "grounds": "locative singular of sūryagraha; sets the temporal condition"
+   "lemma": "tatpātraṃ",
+   "morph": "n.acc.sg",
+   "grounds": "tat (that) + pātraṃ (vessel), fused sandhi form"
   },
   {
-   "lemma": "śaktidīkṣāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "accusative object; compound śakti + dīkṣā"
+   "lemma": "prathamaṃ",
+   "morph": "adj.acc.sg.n",
+   "grounds": "adjective modifying tatpātraṃ"
   },
   {
-   "lemma": "paśudīkṣāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "accusative object; compound paśu + dīkṣā"
+   "lemma": "samastajagatāṃ",
+   "morph": "n.gen.pl",
+   "grounds": "samasta (all) + jagatām (worlds), genitive plural"
   },
   {
-   "lemma": "na",
+   "lemma": "saukhyāya",
+   "morph": "n.dat.sg",
+   "grounds": "dative singular of saukhya"
+  },
+  {
+   "lemma": "vande",
+   "morph": "v.1.sg.ātm.-pres + root vand",
+   "grounds": "first person singular ātmanepada present of root vand"
+  },
+  {
+   "lemma": "sadā",
    "morph": "(indecl.)",
-   "grounds": "negative particle modifying kārayet"
-  },
-  {
-   "lemma": "kārayet",
-   "morph": "3.sg.opt.-root kṛ (causative)",
-   "grounds": "causative optative third singular of kṛ; prohibits causing the initiations"
+   "grounds": "indeclinable adverb"
   }
  ]
 }

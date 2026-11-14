@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun referring to the rite or vessel just mentioned",
+     "morph": "pronoun genitive singular masculine/neuter"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative of vāma, left side",
+     "morph": "adjective locative singular neuter"
+    },
+    {
+     "surface": "nārīmātraṃ",
+     "gloss": "woman-only",
+     "grounds": "compound of nārī and mātra, accusative object",
+     "morph": "compound accusative singular feminine"
+    },
+    {
+     "surface": "ramaṇañca",
+     "gloss": "enjoyment-and",
+     "grounds": "sandhi fusion of ramaṇam and ca",
+     "morph": "noun accusative singular neuter + indecl."
+    },
+    {
+     "surface": "tadājñayā",
+     "gloss": "then-by-command",
+     "grounds": "compound of tad and ājñayā, instrumental",
+     "morph": "compound instrumental singular feminine"
+    }
+   ],
+   "question": "What object of enjoyment is prescribed on the left side for that rite by command?",
+   "premises": [
+    "The rite is performed according to the guru's command.",
+    "Marriage is bondage for one established in fire.",
+    "On the left side only a woman is to be enjoyed."
+   ],
+   "inference": "Thus the left-side enjoyment is restricted to a woman under command.",
+   "uncertainties": [
+    "The exact ritual referent of tasya and vāme is not explicit.",
+    "Whether nārīmātraṃ means only woman or woman-measure remains ambiguous."
+   ],
+   "plain_english": "For that, on the left, only a woman is to be enjoyed, by that command."
+  }
+ ]
+}

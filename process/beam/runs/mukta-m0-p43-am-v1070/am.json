@@ -1,15 +1,17 @@
 {
  "song": "mukta-m0-p43",
  "verse": 1070,
- "question": "Which thirteen-syllabled horse-mounted mantra protects from the northwest direction?",
+ "question": "What should be done after placing in support?",
  "premises": [
-  "The mantra has thirteen syllables.",
-  "It begins with tāra.",
-  "The invoked form is horse-mounted and protects in the northwest."
+  "support is locative",
+  "manu is instrumental",
+  "having placed is stated",
+  "should satisfy is verb",
+  "thereafter is adverb"
  ],
- "inference": "The thirteen-syllabled mantra beginning with tāra, in horse-mounted form, protects from the northwest.",
+ "inference": "After placing by manu in support, one should satisfy thereafter.",
  "uncertainties": [
-  "anane interpreted as northwest direction by context of directional sequence"
+  "object of tarpayet"
  ],
- "plain_english": "May the thirteen-syllabled mantra beginning with tāra, mounted on a horse, protect in the northwest."
+ "plain_english": "After placing by manu in support, one should satisfy thereafter."
 }

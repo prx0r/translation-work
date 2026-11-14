@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1037,
- "question": "Which renouncer is called Shankara, kapalika, and Kala Bhairava?",
+ "question": "Which deity desires the offering when a name is to be given?",
  "premises": [
-  "a renouncer is named",
-  "Shankara is called",
-  "kapalika and Kala Bhairava are named"
+  "The verse names a name to be given.",
+  "It names that deity.",
+  "It says offering-desires."
  ],
- "inference": "The verse identifies a renouncer with the names Shankara, kapalika, and Kala Bhairava.",
+ "inference": "The deity whose name is to be given desires the offering.",
  "uncertainties": [
-  "whether these are epithets of one figure or separate identifications is not explicit"
+  "The exact name is not specified."
  ],
- "plain_english": "The renouncer is called Shankara, kapalika, and Kala Bhairava."
+ "plain_english": "The deity whose name is to be given desires the offering."
 }
