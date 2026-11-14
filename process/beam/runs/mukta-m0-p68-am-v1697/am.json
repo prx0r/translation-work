@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p68",
  "verse": 1697,
- "question": "What proportional dimensions and frontal feature are prescribed for this pavilion?",
+ "question": "How should the target-name-marked element be positioned in relation to the triangle?",
  "premises": [
-  "The breadth and length follow a three-part division.",
-  "The structure is endowed with a frontal auspicious porch."
+  "An element spans both sides of the triangle.",
+  "It is marked with the target’s name.",
+  "Its placement is below."
  ],
- "inference": "The pavilion should have three-part breadth and length and include a frontal auspicious porch.",
- "uncertainties": [],
- "plain_english": "With breadth and length in three parts, it should be endowed with a frontal auspicious porch."
+ "inference": "The element marked with the target’s name should be placed below, extending to both sides of the triangle.",
+ "uncertainties": [
+  "The exact referent of the feminine accusative is implied from context."
+ ],
+ "plain_english": "And indeed, place below that which spans both sides of the triangle and is marked with the target’s name."
 }

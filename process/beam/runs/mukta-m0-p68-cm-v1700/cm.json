@@ -3,19 +3,34 @@
  "verse": 1700,
  "rows": [
   {
-   "lemma": "ita ūrdhvaṃ",
-   "morph": "(indecl.)",
-   "grounds": "directional phrase: itaḥ (from here) + ūrdhvam (upward)"
+   "lemma": "dakṣiṇābhimukho",
+   "morph": "compound: dakṣiṇa+abhimukha, m.nom.sg",
+   "grounds": "compound dakṣiṇa-abhimukhaḥ with final sandhi"
   },
   {
-   "lemma": "catustriṃśat",
-   "morph": "num.nom.sg.f",
-   "grounds": "cardinal numeral"
+   "lemma": "mantrī",
+   "morph": "m.nom.sg",
+   "grounds": "agent performing the rite"
   },
   {
-   "lemma": "daśasīmāvasānakam",
-   "morph": "n.nom.sg",
-   "grounds": "compound: daśa-sīmā-avasāna+kam (having an end at the boundary of ten)"
+   "lemma": "vahnau",
+   "morph": "m.loc.sg",
+   "grounds": "locus of the ritual action"
+  },
+  {
+   "lemma": "dagdhvā",
+   "morph": "gerund, √dah",
+   "grounds": "prior action leading to the main act"
+  },
+  {
+   "lemma": "ripūn",
+   "morph": "m.acc.pl",
+   "grounds": "targets of the burning"
+  },
+  {
+   "lemma": "dahet",
+   "morph": "3.sg.act-optative, √dah",
+   "grounds": "injunctive ritual instruction"
   }
  ]
 }
