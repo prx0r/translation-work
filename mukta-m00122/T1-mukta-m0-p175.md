@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p175-v4351
-[there](tatra) [vajra](vajra) [vajra-yantra](vajrayantra) [full](pūrṇāsu) [fifth](pañcamī) [tenth](daśamī) [fifteenth](pañcadaśīṣu)
+[there](tatra) [vajra+vajra-yantra](vajravajrayantra) [on-full-moon-days](pūrṇāsu) [on-fifth+tenth+fifteenth-days](pañcamīdaśamī+pañcadaśīṣu)
 
 ## mukta-m0-p175-v4352
-[second](dvitīya) [varieties](bhedāḥ) [draw](vilikhet) [thus](tathā) [with-accomplishment](sādhyasamanvitāḥ)
+[second+divisions](dvitīyabhedāḥ) [one-should-write](vilikhet) [thus](tathā) [with-target+accompanied](sādhyasamanvitāḥ)
 
 ## mukta-m0-p175-v4353
-[thus](evam) [infer](ūhyaṃ) [third-born](tṛtīyottha) [vidyās](vidyābhiḥ) [also](api) [construct](kalpayet)
+[thus](evam) [should-be-inferred](ūhyaṃ) [by-third+arisen+vidyās](tṛtīyotthavidyābhir) [also](api) [one-should-arrange](kalpayet)
 
 ## mukta-m0-p175-v4354
-[grid-yantra](koṣṭhayantra) [varieties](vibhedāni) [hear](śṛṇu) [I-will-speak](vakṣye) [as-rule](yathāvidhi)
+[cell+yantra+divisions](koṣṭhayantravibhedāni) [listen](śṛṇu) [I-shall-tell](vakṣye) [as-per-rule](yathāvidhi)
 
 ## mukta-m0-p175-v4355
-[thus](eva) [determination](avadhāraṇe)
+[thus](evam) [in-determination](avadhāraṇe)
 
 ## mukta-m0-p175-v4356
-[those](teṣu) [marks](aṅkāni) [equal](samaṃ) [making](kṛtvā) [row](paṃktau) [those](teṣu) [write-evenly](samālikhet)
+[in-them](teṣu) [numbers](aṅkāni) [equal](samaṃ) [having-made](kṛtvā) [in-row](paṃktau) [in-them](teṣu) [one-should-write](samālikhet)
 
 ## mukta-m0-p175-v4357
-[desired](manīṣitaṃ) [and](ca) [writing](saṃlikhya) [their](teṣāṃ) [middle-cell](madhyasthakoṣṭhataḥ)
+[desired](manīṣitam) [and](ca) [having-written](saṃlikhya) [of-them](teṣāṃ) [from-middle+cell](madhyasthakoṣṭhataḥ)
 
 ## mukta-m0-p175-v4358
-[subjugation](vaśya) [attraction](ākarṣaṇa) [aversion](vidveṣa) [stopping](stambhana) [expulsion](uccāṭana) [etc](ādikam)
+[subjugation+attraction+hatred+paralysis+eradication+etc](vaśyākarṣaṇavidveṣastambhanoccāṭanādikam)
 
 ## mukta-m0-p175-v4359
-[placing](sthāpanāt) [holding](dhāraṇāt) [and](ca) [other](anyaiḥ) [means](upāyaiḥ) [accomplisher](sādhaka) [night](niśam)
+[by-establishment+by-fixing](sthāpanāddhāraṇāt) [and](ca) [by-other](anyaiḥ) [by-means](upāyaiḥ) [practitioner](sādhakaḥ) [constantly](niśam)
 
 ## mukta-m0-p175-v4360
-[completely](aśeṣaṃ) [goddess](devi) [to-you](te) [spoken](proktaṃ) [yantra-siddhi](yantrasiddhi) [treatise](abhidhāgame)
+[entire](aśeṣaṃ) [O-goddess](devi) [to-you](te) [declared](proktaṃ) [in-yantra+accomplishment+teaching+scripture](yantrasiddhyabhidhāgame)
 
 ## mukta-m0-p175-v4361
-[thus](iti) [sixteen-eternal](ṣoḍaśanityā) [tantra](tantre) [śrī-kādi](śrīkādimat) [thirty-three](trayastriṃśat) [chapter](paṭalam)
+[thus](iti) [in-ṣoḍaśanityā-tantra](ṣoḍaśanityātantre) [in-śrīkādimata](śrīkādimate) [thirty-third](trayastriṃśat) [chapter](paṭalam) [|| 33](|| 33)
 
 ## mukta-m0-p175-v4362
-[treatise](āgame) [100](100)
+[in-scripture](āgame) [|| 100](|| 100)
 
 ## mukta-m0-p175-v4363
-[touched](parāmṛṣṭam) [33](33) [om](oṃ) [that-truth](tatsat)
+[considered](parāmṛṣṭam) [|| 33 ||](|| 33 ||) [oṃ tatsat ||](oṃ tatsat ||)
 
 ## mukta-m0-p175-v4364
-[wonder-working](camatkārakarīṃ) [vidyā](vidyāṃ) [I-will-speak](vakṣyāmi) [hear](śṛṇu) [beautiful](sundari)
+[wonder+causing](camatkārakarīṃ) [vidyā](vidyāṃ) [I-shall-tell](vakṣyāmi) [listen](śṛṇu) [O-beautiful-one](sundari)
 
 ## mukta-m0-p175-v4365
-[horse-rider](aśvārūḍhām) [annapūrṇā](annapūrṇāṃ) [nine-self](navātmānaṃ) [nine-self](navātmikām)
+[horse+riding](aśvārūḍhā) [food+full](annapūrṇāṃ) [nine+self](navātmānaṃ) [nine+self-feminine](navātmikām)
 
 ## mukta-m0-p175-v4366
-[three-gold-giver](niṣkatrayapradām) [desired-giver](iṣṭadāyinīm) [and](ca) [matangini](mataṅginīm)
+[three-niṣka+giving](niṣkatrayapradām) [desired+giving](iṣṭadāyinīm) [and](ca) [mataṅginī](mataṅginīm)
 
 ## mukta-m0-p175-v4367
-[cowherd-varieties](gopālabhedān) [herbs](auṣadhān) [I-speak](vadāmi) [prescribed-order](uktakrameṇa) [indeed](vai)
+[gopāla+divisions](gopālabhedān) [herbs](auṣadhān) [I-tell](vadāmi) [by-stated+order](uktakrameṇa) [indeed](vai)
 
 ## mukta-m0-p175-v4368
-[swan-heart](haṃsahṛt) [radiance](tejasām) [yoga](yogāt) [glow](dyuti) [burning](dāha) [movement](cara) [own](svakaiḥ)
+[haṃsa+heart](haṃsahṛt) [of-energies](tejasāṃ) [by-union](yogāt) [with-splendor+burning+moving+own](dyutidāhacarasvakaiḥ)
 
 ## mukta-m0-p175-v4369
-[all-serpent](sakalabhujaṅgama) [poison-removing](viṣaharāṇi) [own-will](svecchā) [transcendence](utkrānti) [making](karaṇāni) [and](ca)
+[all+serpent+poison+removing](sakalabhujaṅgamaviṣaharāṇi) [and](ca) [own-will+transcending+causing](svecchotkrāntikaraṇāni)
 
 ## mukta-m0-p175-v4370
-[with-means](samāyaiḥ) [spoken](uditā) [vidyā](vidyā) [five-syllable](pañcārṇa) [nectar-form](amṛtavigrahā)
+[with-equals](samāyaiḥ) [uttered](uditā) [vidyā](vidyā) [five+syllable+nectar+bodied](pañcārṇāmṛtavigrahā)
 
 ## mukta-m0-p175-v4371
-[by-māyā](māyayā) [or](vā) [perform](vidadhyāt) [and](ca) [meditation](dhyānaṃ) [and](ca) [first](ādya) [spoken](anudīrite)
+[by-māyā](māyayā) [or](vā) [one-should-perform](vidadhyāt) [and](ca) [meditation](dhyānaṃ) [and](ca) [in-first+stated](ādyānudīrite)
 
 ## mukta-m0-p175-v4372
-[meditating](dhyātvā) [accomplished-mantra](siddhamanuḥ) [afterwards](paścāt) [perform](vidadhyāt) [application](viniyogakam)
+[having-meditated](dhyātvā) [accomplished+mantra](siddhamanuḥ) [afterwards](paścāt) [one-should-perform](vidadhyāt) [application](viniyogakam)
 
 ## mukta-m0-p175-v4373
-[causing-drink](pāyayitvā) [and](ca) [her](tāṃ) [say](brūyāt) [verse](ślokayā) [iti](iti) [composed](samāhitaḥ)
+[having-made-drink](pāyayitvā) [and](ca) [her](tāṃ) [one-should-say](brūyāt) [recite-verse](ślokayeti) [composed](samāhitaḥ)
 
 ## mukta-m0-p175-v4374
-[meditation-special](dhyānaviśeṣaḥ) [spoken](proktaḥ) [and](ca) [there-only](tatraiva) [meaning](ityarthaḥ)
+[meditation+speciality](dhyānaviśeṣaḥ) [declared](proktaḥ) [and](ca) [there+indeed](tatraiva) [thus+meaning](iti+arthaḥ)
 
 ## mukta-m0-p175-v4375
-[meditation](dhyānam) [amṛteśvarī](amṛteśvarī) [meditation](dhyānam) [only](eva) [iti](iti)
+[meditation](dhyānam) [of-amṛteśvarī+meditation](amṛteśvarīdhyānam) [indeed](eva) [thus](iti)

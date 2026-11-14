@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p114",
  "verse": 2836,
- "question": "How should the fingers be arranged according to this instruction?",
+ "question": "How many parts should be used to fashion the sacrificial spoon and ladle?",
  "premises": [
-  "The fingers are the object of the action.",
-  "They are to be joined together.",
-  "They are to be raised."
+  "The spoon is measured by twenty-four parts.",
+  "The ladle is to be fashioned accordingly.",
+  "The instruction is prescriptive."
  ],
- "inference": "One should make the fingers joined together and raised.",
- "uncertainties": [],
- "plain_english": "One should make the fingers joined together and raised."
+ "inference": "One should fashion the ladle using twenty-four parts for the spoon.",
+ "uncertainties": [
+  "The relation between spoon and ladle in this measurement is slightly compressed."
+ ],
+ "plain_english": "One should fashion the ladle with twenty-four parts for the spoon."
 }

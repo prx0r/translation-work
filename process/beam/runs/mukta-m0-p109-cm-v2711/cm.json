@@ -3,29 +3,34 @@
  "verse": 2711,
  "rows": [
   {
-   "lemma": "tasyādhaḥ",
+   "lemma": "viṣuvaktraṃ",
+   "morph": "n.acc.sg",
+   "grounds": "object to be withdrawn"
+  },
+  {
+   "lemma": "svake",
+   "morph": "n.loc.sg",
+   "grounds": "describes vaktre"
+  },
+  {
+   "lemma": "vaktre",
+   "morph": "n.loc.sg",
+   "grounds": "locus of withdrawal"
+  },
+  {
+   "lemma": "saṃhared",
+   "morph": "3.sg.act.opt √hṛ+sam",
+   "grounds": "ritual action"
+  },
+  {
+   "lemma": "deśikaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "agent"
+  },
+  {
+   "lemma": "svayam",
    "morph": "(indecl.)",
-   "grounds": "locates the next measure below the previous point"
-  },
-  {
-   "lemma": "kaṇṭhamānaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "names the measure of the neck"
-  },
-  {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "marks specification"
-  },
-  {
-   "lemma": "caturbhāga",
-   "morph": "compound-member",
-   "grounds": "first member of compound indicating four-part measure"
-  },
-  {
-   "lemma": "udāhṛtam",
-   "morph": "n.nom.sg.past-pass-part √ud-ā-hṛ",
-   "grounds": "states that this measure is taught"
+   "grounds": "agent emphasis"
   }
  ]
 }

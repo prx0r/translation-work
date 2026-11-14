@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "prasthamātragrāhighaṭān",
+     "gloss": "prastha-measure-holding-pots",
+     "grounds": "compound describing vessels holding a prastha measure of grain",
+     "morph": "prastha-mātra-grāhin-ghaṭa+acc.pl.m"
+    },
+    {
+     "surface": "itareṣu",
+     "gloss": "in-others",
+     "grounds": "refers to the remaining locations not specified previously",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "injunctive ritual instruction to install the vessels",
+     "morph": "3.sg.opt.act.caus+ni-√dhā"
+    }
+   ],
+   "question": "What kind of vessels must be installed in the remaining locations?",
+   "premises": [
+    "The prior instruction specifies jars placed in rice heaps.",
+    "Other locations remain to be furnished with vessels.",
+    "Pots holding a prastha measure are designated for these locations."
+   ],
+   "inference": "Therefore the remaining locations must receive pots holding a prastha measure.",
+   "uncertainties": [
+    "The exact referent of itareṣu depends on the broader ritual layout."
+   ],
+   "plain_english": "In the remaining places, one should place pots holding a prastha measure of grain."
+  }
+ ]
+}

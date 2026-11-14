@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p113",
  "verse": 2813,
- "question": "What breadth and shape are prescribed for the nails?",
+ "question": "Which named flame types are enumerated in this part of the list?",
  "premises": [
-  "The nail breadth is specified as two parts.",
-  "The nail is described as round.",
-  "Its length is equal to its breadth."
+  "Several flame names are listed.",
+  "They include bhadralohitā, lohitā, śvetā, dhūminī, and karālikā.",
+  "An ordinal marker indicates sequence."
  ],
- "inference": "The nail breadth should be two parts, with equal length and a round shape.",
- "uncertainties": [],
- "plain_english": "The nail should be two parts in breadth, round, and equal in length and breadth."
+ "inference": "This verse enumerates specific named flame types in sequence.",
+ "uncertainties": [
+  "The exact sequential numbering of all named flames across verses is partly implicit."
+ ],
+ "plain_english": "The flames named are bhadralohitā, the fourth, lohitā, śvetā, another smoky one, and karālikā."
 }

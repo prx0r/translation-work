@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p114",
  "verse": 2834,
- "question": "Which two fingers define the interval referenced for the next gesture?",
+ "question": "What measurements are specified for the staff pair and staff circumference?",
  "premises": [
-  "The little finger is named.",
-  "The ring finger is named.",
-  "The space between them is indicated."
+  "A pair of staffs is prescribed.",
+  "Their measure is given as two parts.",
+  "The circumference of the staff is declared."
  ],
- "inference": "The interval between the little finger and the ring finger is specified.",
- "uncertainties": [],
- "plain_english": "Between the little finger and the ring finger."
+ "inference": "The staff pair should measure two parts, and the staff's circumference is as declared.",
+ "uncertainties": [
+  "The exact referent of the declared circumference is not fully explicit."
+ ],
+ "plain_english": "The pair of staffs should be two parts, and the circumference of the staff is declared."
 }

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-seed",
+     "grounds": "the seed-syllable vāgbhava (origin-of-speech bīja), object of utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bījamuccāryaṃ",
+     "gloss": "seed-to-be-uttered",
+     "grounds": "sandhi fusion of bījam (seed) and uccāryam (to-be-uttered); gerundive qualifying the seed",
+     "morph": "n.acc.sg (sandhi-fused: bīja+uccārya)"
+    },
+    {
+     "surface": "jīvaprāṇasamanvitam",
+     "gloss": "endowed-with-life-and-breath",
+     "grounds": "compound: jīva (life) + prāṇa (vital-breath) + samanvita (endowed-with), qualifying the seed",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "Which seed-syllable, endowed with life and vital breath, must be uttered in this practice?",
+   "premises": [
+    "The vāgbhava seed-syllable is specified as the object of utterance.",
+    "This seed-syllable is designated as something to be uttered.",
+    "The utterance must be accompanied by life and vital breath."
+   ],
+   "inference": "Therefore, the practitioner must utter the vāgbhava bīja while it is conjoined with jīva and prāṇa.",
+   "uncertainties": [
+    "The precise technical sense of jīva and prāṇa in this Śrīvidyā context (literal breath, subtle vital forces, or mantra-internal features) is not fully specified in this verse alone."
+   ],
+   "plain_english": "One should utter the vāgbhava seed-syllable, endowed with life and vital breath."
+  }
+ ]
+}

@@ -3,24 +3,39 @@
  "verse": 2880,
  "rows": [
   {
-   "lemma": "ṛjvāgataṃ",
-   "morph": "m.acc.sg (compound)",
-   "grounds": "posture description"
+   "lemma": "svakramaṃ",
+   "morph": "compound=sva+krama, m.acc.sg",
+   "grounds": "compound object"
   },
   {
-   "lemma": "sukhāsīnaṃ",
-   "morph": "m.acc.sg (compound)",
-   "grounds": "posture description"
+   "lemma": "tasya",
+   "morph": "m.gen.sg",
+   "grounds": "pronoun, recipient"
   },
   {
-   "lemma": "pravālasadṛśaṃ",
-   "morph": "m.acc.sg (compound)",
-   "grounds": "color or appearance comparison"
+   "lemma": "kathayet",
+   "morph": "3.sg.opt.act., √kath",
+   "grounds": "optative of kath"
   },
   {
-   "lemma": "prabhum",
+   "lemma": "tadā",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable of time"
+  },
+  {
+   "lemma": "prabhṛti",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable"
+  },
+  {
+   "lemma": "so'pi",
+   "morph": "m.nom.sg + (indecl.)",
+   "grounds": "pronoun with particle; sandhi saḥ + api"
+  },
+  {
+   "lemma": "tam",
    "morph": "m.acc.sg",
-   "grounds": "deity being described"
+   "grounds": "pronoun object"
   }
  ]
 }

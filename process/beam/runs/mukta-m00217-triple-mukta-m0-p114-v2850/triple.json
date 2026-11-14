@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2850,
+   "rows": [
+    {
+     "surface": "candanā",
+     "gloss": "sandalwood",
+     "grounds": "aromatic ritual substance listed in enumeration",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "guru",
+     "gloss": "agarwood",
+     "grounds": "aromatic ritual substance listed in enumeration",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "aromatic ritual substance listed in enumeration",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "kastūrī",
+     "gloss": "musk",
+     "grounds": "aromatic ritual substance listed in enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṃkumāni",
+     "gloss": "saffron",
+     "grounds": "aromatic ritual substance listed in enumeration",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction completing the enumerated list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which aromatic substances are specified as part of the prescribed ritual materials?",
+   "premises": [
+    "Sandalwood is included among the listed materials.",
+    "Agarwood, camphor, and musk are included among the listed materials.",
+    "Saffron is included and the list is completed with a conjunction."
+   ],
+   "inference": "The prescribed ritual materials include sandalwood, agarwood, camphor, musk, and saffron.",
+   "uncertainties": [
+    "The exact grammatical number intended for some forms in this enumerative context is not fully certain."
+   ],
+   "plain_english": "Sandalwood, agarwood, camphor, musk, and saffron are included."
+  }
+ ]
+}
