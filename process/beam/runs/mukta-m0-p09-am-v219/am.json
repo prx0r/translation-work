@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 219,
- "question": "How are sleep and waking states correlated with the left and right sides?",
+ "question": "What aspect of the previously asked matter is now being described?",
  "premises": [
-  "Sleep time is associated with a specific side.",
-  "Waking is associated with another side.",
-  "The verse correlates left with sleep and right with waking."
+  "Something was previously asked.",
+  "Its superiority is the topic.",
+  "That superiority is now described."
  ],
- "inference": "Sleep time corresponds to the left side, and waking corresponds to the right side.",
- "uncertainties": [],
- "plain_english": "The time of sleep belongs to the left side, and the time of waking belongs to the right."
+ "inference": "The superiority of what was asked is now being described.",
+ "uncertainties": [
+  "The specific subject of the earlier question is not stated in this verse."
+ ],
+ "plain_english": "The superiority of what was asked has now been described."
 }

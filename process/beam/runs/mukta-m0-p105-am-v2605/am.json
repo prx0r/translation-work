@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p105",
  "verse": 2605,
- "question": "What identity is invoked through the repeated address to the hero-bearing mother?",
+ "question": "What restriction is placed on uttering the previously indicated kind of speech?",
  "premises": [
-  "The term vīra addresses a hero",
-  "The term sūḥ names a mother who bears",
-  "The paired address is repeated four times"
+  "A specific speech is referred to by 'that speech'.",
+  "The verse contains a strong negation.",
+  "The act of speaking it is expressed in the optative."
  ],
- "inference": "The repeated invocation emphasizes and sanctifies the identity of the mother who bears heroes.",
- "uncertainties": [],
- "plain_english": "O hero-bearing mother, O hero-bearing mother, O hero-bearing mother, O hero-bearing mother!"
+ "inference": "That speech must not be uttered at all.",
+ "uncertainties": [
+  "The exact content of 'that speech' depends on the preceding context."
+ ],
+ "plain_english": "And one must never utter that speech."
 }

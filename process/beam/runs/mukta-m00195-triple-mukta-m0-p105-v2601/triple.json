@@ -1,0 +1,1047 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2601,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "ablative/genitive sense in context of giving; refers to the guru",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act.opt root dā"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "addressed to the practitioner",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-and-so-forth",
+     "grounds": "indicates quoted or similar speech",
+     "morph": "compound ity-ādi"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-speak",
+     "grounds": "optative prohibition/injunction regarding speech",
+     "morph": "3.sg.act.opt root vad"
+    }
+   ],
+   "question": "What kinds of speech concerning giving from the guru must the practitioner avoid uttering?",
+   "premises": [
+    "The practitioner is addressed directly as 'you'.",
+    "Speech such as 'one should give from the guru' is specified.",
+    "Such speech is prohibited by 'na vā vadet'."
+   ],
+   "inference": "The practitioner must not speak in ways that suggest or demand giving from the guru.",
+   "uncertainties": [
+    "The exact range of expressions covered by 'ityādi' is not fully specified."
+   ],
+   "plain_english": "You should not say things like, 'Give from the guru,' or speak in such a manner."
+  },
+  {
+   "verse": 2602,
+   "rows": [
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "indefinite locative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śapathaṃ",
+     "gloss": "oath",
+     "grounds": "object of the action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurusañjñitam",
+     "gloss": "named-by-guru",
+     "grounds": "compound describing an oath designated in the guru's name",
+     "morph": "compound guru-sañjñita m.acc.sg"
+    }
+   ],
+   "question": "Under what circumstances may an oath invoking the guru's name be taken?",
+   "premises": [
+    "An oath named by the guru is mentioned.",
+    "The context continues the prohibitive tone from the previous verse.",
+    "The location is given as anywhere."
+   ],
+   "inference": "An oath made in the guru's name must not be taken anywhere.",
+   "uncertainties": [
+    "The verb governing this verse is implied from the surrounding context."
+   ],
+   "plain_english": "One must not take an oath in the guru's name anywhere."
+  },
+  {
+   "verse": 2603,
+   "rows": [
+    {
+     "surface": "nirvahet",
+     "gloss": "one-should-complete",
+     "grounds": "optative injunction to carry out fully",
+     "morph": "3.sg.act.opt root nir-vah"
+    },
+    {
+     "surface": "yatnāt",
+     "gloss": "with-effort",
+     "grounds": "manner of performance",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "time or concluding stage of observance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual act to be completed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japā",
+     "gloss": "recitation",
+     "grounds": "mantra recitation as ritual act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hutīḥ",
+     "gloss": "oblations",
+     "grounds": "fire offerings as ritual acts",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "How must worship, recitation, and oblations be carried out at the conclusion of the observance?",
+   "premises": [
+    "Worship, recitation, and oblations are listed together.",
+    "They are to be completed with effort.",
+    "The completion is specified for the end."
+   ],
+   "inference": "At the end, one must diligently complete worship, recitation, and oblations.",
+   "uncertainties": [
+    "The exact ritual sequence referred to by 'ante' is not specified."
+   ],
+   "plain_english": "At the end, one should diligently complete worship, recitation, and oblations."
+  },
+  {
+   "verse": 2604,
+   "rows": [
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "remedial ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "refers to the mantra requiring expiation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act.opt root kṛ"
+    },
+    {
+     "surface": "mūlasya",
+     "gloss": "of-root",
+     "grounds": "qualifies the mantra as the root mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle emphasizing the root mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousandfold",
+     "grounds": "specifies the measure of expiatory recitation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What specific expiatory practice is prescribed for faults related to the mantra?",
+   "premises": [
+    "Expiation is enjoined.",
+    "The expiation concerns the mantra, specifically the root mantra.",
+    "A thousandfold measure is prescribed."
+   ],
+   "inference": "One should perform expiation by a thousandfold recitation of the root mantra alone.",
+   "uncertainties": [
+    "Whether 'sahasrakam' refers to recitations, oblations, or another count is not explicit."
+   ],
+   "plain_english": "One should perform expiation by doing a thousandfold practice of the root mantra alone."
+  },
+  {
+   "verse": 2605,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to previously mentioned speech",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "giraṃ",
+     "gloss": "speech",
+     "grounds": "object of speaking",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle strengthening negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣayet",
+     "gloss": "one-should-speak",
+     "grounds": "optative prohibition",
+     "morph": "3.sg.act.opt root bhāṣ"
+    }
+   ],
+   "question": "What restriction is placed on uttering the previously indicated kind of speech?",
+   "premises": [
+    "A specific speech is referred to by 'that speech'.",
+    "The verse contains a strong negation.",
+    "The act of speaking it is expressed in the optative."
+   ],
+   "inference": "That speech must not be uttered at all.",
+   "uncertainties": [
+    "The exact content of 'that speech' depends on the preceding context."
+   ],
+   "plain_english": "And one must never utter that speech."
+  },
+  {
+   "verse": 2606,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "one-should-take",
+     "grounds": "optative prohibition regarding acceptance",
+     "morph": "3.sg.act.opt root grah"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "universal temporal negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition may the prohibited thing be accepted by the practitioner?",
+   "premises": [
+    "The act of taking is negated.",
+    "The negation is reinforced by 'ever'.",
+    "The verse gives an absolute prohibition."
+   ],
+   "inference": "The practitioner must never accept it under any condition.",
+   "uncertainties": [
+    "The object to be taken is implied from prior verses."
+   ],
+   "plain_english": "One should never accept it at any time."
+  },
+  {
+   "verse": 2607,
+   "rows": [
+    {
+     "surface": "ācaran",
+     "gloss": "acting",
+     "grounds": "present participle describing conduct",
+     "morph": "m.nom.sg.act.pres.part root ā-car"
+    },
+    {
+     "surface": "anādarāt",
+     "gloss": "from-disrespect",
+     "grounds": "cause or manner of improper conduct",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace",
+     "grounds": "object attained through proper remedy or state",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dīkṣitaḥ",
+     "gloss": "initiated-one",
+     "grounds": "subject qualified by initiation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative subject",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "adhigacchati",
+     "gloss": "attains",
+     "grounds": "present indicative stating result",
+     "morph": "3.sg.act.pres root adhi-gam"
+    }
+   ],
+   "question": "What outcome follows when an initiated practitioner acts with disrespect?",
+   "premises": [
+    "The subject is an initiated person acting with disrespect.",
+    "The verse states attainment of peace.",
+    "The result is presented as a consequence of that conduct."
+   ],
+   "inference": "Even if acting disrespectfully, the initiated person attains peace, likely through prescribed remedy.",
+   "uncertainties": [
+    "The mechanism by which peace is attained despite disrespect is not explicit in this verse alone."
+   ],
+   "plain_english": "An initiated person who acts with disrespect attains peace."
+  },
+  {
+   "verse": 2608,
+   "rows": [
+    {
+     "surface": "svasya",
+     "gloss": "of-one's-own",
+     "grounds": "reflexive possessive",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "subject or focus of practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāpadyapi",
+     "gloss": "even-in-great-calamity",
+     "grounds": "compound with enclitic api indicating concession",
+     "morph": "compound mahā-āpadi+api (indecl.)"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "by-practitioners",
+     "grounds": "agents who maintain the practice",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What obligation do practitioners have regarding their own mantra during great calamity?",
+   "premises": [
+    "One's own mantra is mentioned.",
+    "The situation includes even great calamity.",
+    "Practitioners are the agents in view."
+   ],
+   "inference": "Practitioners must maintain or employ their own mantra even in great calamity.",
+   "uncertainties": [
+    "The governing verb is implied from the surrounding injunctions."
+   ],
+   "plain_english": "Even in great calamity, practitioners should hold to their own mantra."
+  },
+  {
+   "verse": 2609,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act.opt root kṛ"
+    },
+    {
+     "surface": "anātheṣu",
+     "gloss": "toward-helpless",
+     "grounds": "recipients of compassion",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dayāṃ",
+     "gloss": "compassion",
+     "grounds": "object of the action",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ethical duty toward the helpless is required of the practitioner at all times?",
+   "premises": [
+    "Compassion is prescribed as the action.",
+    "The helpless are specified as its recipients.",
+    "The duty is to be performed always."
+   ],
+   "inference": "The practitioner must always show compassion toward the helpless.",
+   "uncertainties": [],
+   "plain_english": "One should always show compassion toward those who are helpless."
+  },
+  {
+   "verse": 2610,
+   "rows": [
+    {
+     "surface": "vastavyaṃ",
+     "gloss": "one-should-dwell",
+     "grounds": "gerundive expressing obligation to reside",
+     "morph": "n.nom.sg.gerundive root vas"
+    },
+    {
+     "surface": "prayāyāt",
+     "gloss": "one-should-go",
+     "grounds": "optative expressing movement",
+     "morph": "3.sg.act.opt root pra-yā"
+    },
+    {
+     "surface": "saṃsmaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating continuous remembrance",
+     "morph": "m.nom.sg.act.pres.part root sam-smṛ"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locus of remembrance",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should remembrance be maintained while dwelling or traveling?",
+   "premises": [
+    "Both dwelling and going are mentioned.",
+    "Remembrance is prescribed during these activities.",
+    "The heart is specified as the place of remembrance."
+   ],
+   "inference": "Whether dwelling or traveling, one should continually remember in the heart.",
+   "uncertainties": [
+    "The object of remembrance is not explicitly stated in this verse."
+   ],
+   "plain_english": "Whether staying or going, one should keep remembering in the heart."
+  },
+  {
+   "verse": 2611,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative locative introducing condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindā",
+     "gloss": "censure",
+     "grounds": "criticism or blame present in that place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "correlative demonstrative locative",
+     "morph": "pron.m.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "location referred to",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "one-should-dwell",
+     "grounds": "optative prohibition",
+     "morph": "3.sg.act.opt root vas"
+    }
+   ],
+   "question": "What kind of place must the practitioner avoid dwelling in because of its prevailing speech?",
+   "premises": [
+    "A place where censure occurs is described.",
+    "The correlative points back to that same place.",
+    "Dwelling there is explicitly prohibited."
+   ],
+   "inference": "One must not dwell in a place where censure prevails.",
+   "uncertainties": [
+    "Whether the censure is of the guru, deity, or doctrine is not specified."
+   ],
+   "plain_english": "One should not live in a place where there is censure."
+  },
+  {
+   "verse": 2612,
+   "rows": [
+    {
+     "surface": "vacaḥ",
+     "gloss": "speech",
+     "grounds": "object or quality to be maintained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truthful",
+     "grounds": "quality of speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sauśīlyaṃ",
+     "gloss": "good-conduct",
+     "grounds": "virtuous behavior",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samatāṃ",
+     "gloss": "equanimity",
+     "grounds": "evenness of mind",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhṛtim",
+     "gloss": "steadfastness",
+     "grounds": "firmness or resolve",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which virtues of speech and character must the practitioner cultivate?",
+   "premises": [
+    "Truthful speech is listed.",
+    "Good conduct, equanimity, and steadfastness are listed.",
+    "The items form a set of prescribed qualities."
+   ],
+   "inference": "The practitioner must cultivate truthful speech, good conduct, equanimity, and steadfastness.",
+   "uncertainties": [
+    "The governing verb is implied from the surrounding injunctions."
+   ],
+   "plain_english": "One should maintain truthful speech, good conduct, equanimity, and steadfastness."
+  },
+  {
+   "verse": 2613,
+   "rows": [
+    {
+     "surface": "gamanāgamane",
+     "gloss": "in-going-and-coming",
+     "grounds": "compound indicating departure and return",
+     "morph": "compound gamana-āgamana n.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act.opt root kṛ"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "absolutive indicating prior act of reverence",
+     "morph": "absolutive root pra-nam"
+    },
+    {
+     "surface": "gurupāduke",
+     "gloss": "guru-sandals",
+     "grounds": "object of reverence representing the guru",
+     "morph": "compound guru-pādukā f.acc.du"
+    }
+   ],
+   "question": "What act of reverence is required when departing and returning?",
+   "premises": [
+    "Going and coming are specified as occasions.",
+    "Bowing is prescribed as the act.",
+    "The guru's sandals are the object of reverence."
+   ],
+   "inference": "When going and coming, one should bow to the guru's sandals.",
+   "uncertainties": [],
+   "plain_english": "When going out and coming back, one should bow to the guru's sandals."
+  },
+  {
+   "verse": 2614,
+   "rows": [
+    {
+     "surface": "malayuktādi+rahitaḥ",
+     "gloss": "free-from-impurity-and-such",
+     "grounds": "compound with '+' marking internal boundary; describes required purity",
+     "morph": "compound mala-yukta-ādi+rahita m.nom.sg"
+    },
+    {
+     "surface": "keśaśmaśru+viluñcanāt",
+     "gloss": "by-plucking-hair-and-beard",
+     "grounds": "compound with '+' marking internal boundary; ablative indicating means or occasion",
+     "morph": "compound keśa-śmaśru+viluñcana n.abl.sg"
+    }
+   ],
+   "question": "What standard of bodily purity is required in relation to grooming practices?",
+   "premises": [
+    "Freedom from impurity and the like is prescribed.",
+    "Plucking of hair and beard is mentioned as a context.",
+    "The verse links purity with that grooming act."
+   ],
+   "inference": "One should remain free from impurity, including in the context of removing hair and beard.",
+   "uncertainties": [
+    "The exact ritual or hygienic procedure implied is not fully detailed."
+   ],
+   "plain_english": "One should be free from impurity and the like, especially in connection with removing hair and beard."
+  },
+  {
+   "verse": 2615,
+   "rows": [
+    {
+     "surface": "bhāvayet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative injunction for contemplative practice",
+     "morph": "3.sg.act.opt root bhū (causative)"
+    },
+    {
+     "surface": "devatāṃ",
+     "gloss": "on-deity",
+     "grounds": "object of meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "Viṣṇu",
+     "grounds": "name of the deity to be contemplated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guruvipra+śarīragām",
+     "gloss": "present-in-bodies-of-guru-and-priest",
+     "grounds": "compound with '+' marking internal boundary; describes locus of the deity",
+     "morph": "compound guru-vipra+śarīra-ga f.acc.sg"
+    }
+   ],
+   "question": "Where should the practitioner contemplate the deity Viṣṇu as present?",
+   "premises": [
+    "Meditation on the deity Viṣṇu is enjoined.",
+    "Viṣṇu is described as present in the bodies of guru and priest.",
+    "The contemplative locus is explicitly specified."
+   ],
+   "inference": "One should meditate on Viṣṇu as present in the bodies of the guru and the priest.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on the deity Viṣṇu as present in the bodies of the guru and the priest."
+  },
+  {
+   "verse": 2616,
+   "rows": [
+    {
+     "surface": "viśvāśrayo",
+     "gloss": "support-of-universe",
+     "grounds": "compound epithet of Viṣṇu",
+     "morph": "compound viśva-āśraya m.nom.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "Viṣṇu",
+     "grounds": "subject identified by epithets",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "identity or inner essence to be known",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive prescribing understanding",
+     "morph": "m.nom.sg.gerundive root jñā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuvat",
+     "gloss": "like-Viṣṇu",
+     "grounds": "comparative indicating manner of knowing",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should Viṣṇu and the self be understood in relation to each other?",
+   "premises": [
+    "Viṣṇu is called the support of the universe.",
+    "The self is to be known.",
+    "The comparison 'like Viṣṇu' qualifies that knowledge."
+   ],
+   "inference": "Viṣṇu, the support of the universe, is to be known, and the self is to be known as like Viṣṇu.",
+   "uncertainties": [
+    "The precise metaphysical identity or similarity intended by 'viṣṇuvat' is open to interpretation."
+   ],
+   "plain_english": "Viṣṇu, the support of the universe, should be known, and the self should be known as like Viṣṇu."
+  },
+  {
+   "verse": 2617,
+   "rows": [
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg.gerundive root kṛ"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "continuous time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrasiddhaye",
+     "gloss": "for-mantra-accomplishment",
+     "grounds": "purpose of the prescribed action",
+     "morph": "compound mantra-siddhi f.dat.sg"
+    }
+   ],
+   "question": "For what purpose must the prescribed practice be performed constantly?",
+   "premises": [
+    "An action is declared obligatory.",
+    "It must be done constantly.",
+    "Its purpose is mantra accomplishment."
+   ],
+   "inference": "The practice must be performed constantly for the accomplishment of the mantra.",
+   "uncertainties": [
+    "The specific practice referred to is implied from the preceding verses."
+   ],
+   "plain_english": "It should be done constantly for the accomplishment of the mantra."
+  },
+  {
+   "verse": 2618,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "possessive relation to the name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "first element in the naming sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devanāma",
+     "gloss": "deity-name",
+     "grounds": "compound indicating the deity's name",
+     "morph": "compound deva-nāma n.nom.sg"
+    },
+    {
+     "surface": "taduttaram",
+     "gloss": "after-that",
+     "grounds": "compound indicating sequence following the previous name",
+     "morph": "compound tad-uttara n.nom.sg"
+    }
+   ],
+   "question": "In what sequence should the guru's name and the deity's name be uttered?",
+   "premises": [
+    "The guru's name is mentioned.",
+    "The deity's name is mentioned.",
+    "The deity's name is specified as coming after that."
+   ],
+   "inference": "One should utter the guru's name first and the deity's name after it.",
+   "uncertainties": [
+    "The ritual context for this naming sequence is implied rather than stated."
+   ],
+   "plain_english": "One should utter the guru's name, and after that the deity's name."
+  },
+  {
+   "verse": 2619,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-speak",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act.opt root vad"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object to be spoken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tithyarṇaṃ",
+     "gloss": "lunar-day-syllable",
+     "grounds": "compound indicating a syllable associated with a tithi",
+     "morph": "compound tithi-arṇa n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "harer",
+     "gloss": "of-Hari",
+     "grounds": "possessive relation, possibly to name or syllable",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "first-person possessive",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "What additional names or syllables must be spoken in the prescribed formula?",
+   "premises": [
+    "Speaking a name is enjoined.",
+    "A tithi-syllable is included.",
+    "References to Hari and 'my' are included in the sequence."
+   ],
+   "inference": "One should also speak the name, the tithi-syllable, and elements associated with Hari and 'my'.",
+   "uncertainties": [
+    "The exact syntactic grouping and ritual formula structure are ambiguous."
+   ],
+   "plain_english": "And one should speak the name, the tithi-syllable, and that of Hari as mine."
+  },
+  {
+   "verse": 2620,
+   "rows": [
+    {
+     "surface": "bhajanaṃ",
+     "gloss": "worship",
+     "grounds": "act performed by the devotee",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-Goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "present indicative describing performance",
+     "morph": "3.sg.act.pres root kṛ"
+    },
+    {
+     "surface": "āpatparaṃparām",
+     "gloss": "up-to-lineage-end",
+     "grounds": "compound indicating extent through a succession",
+     "morph": "compound ā-pada-paraṃparā f.acc.sg"
+    }
+   ],
+   "question": "To what extent is worship said to be performed within the lineage addressed to the Goddess?",
+   "premises": [
+    "Worship is described as being done.",
+    "The Goddess is directly addressed.",
+    "The extent is expressed as reaching through a succession."
+   ],
+   "inference": "Worship is performed extending through the entire lineage succession.",
+   "uncertainties": [
+    "The precise meaning of 'āpatparaṃparām' in this ritual context is uncertain."
+   ],
+   "plain_english": "O Goddess, one performs worship extending through the whole succession."
+  },
+  {
+   "verse": 2621,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior count or act",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "measure or count",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcatulyā",
+     "gloss": "equal-to-five",
+     "grounds": "compound indicating equivalence to five",
+     "morph": "compound pañca-tulya f.nom.sg"
+    },
+    {
+     "surface": "pare dine",
+     "gloss": "on-next-day",
+     "grounds": "locative expression indicating the following day",
+     "morph": "compound para dina n.loc.sg"
+    }
+   ],
+   "question": "What numerical measure applies to the practice on the following day?",
+   "premises": [
+    "A number is specified.",
+    "That number is equal to five.",
+    "The timing is the next day."
+   ],
+   "inference": "On the next day, the prescribed number is equal to five.",
+   "uncertainties": [
+    "What is being counted (recitations, offerings, etc.) is not explicit."
+   ],
+   "plain_english": "On the next day, that number is equal to five."
+  },
+  {
+   "verse": 2622,
+   "rows": [
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual act being defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle indicating authoritative statement",
+     "morph": "f.nom.sg.past.part root pra-vac"
+    },
+    {
+     "surface": "viṃśatibhedikā",
+     "gloss": "having-twenty-divisions",
+     "grounds": "compound describing the structure of worship",
+     "morph": "compound viṃśati-bhedikā f.nom.sg"
+    }
+   ],
+   "question": "How is the prescribed worship structurally classified in terms of its divisions?",
+   "premises": [
+    "Worship is the subject.",
+    "It is authoritatively declared.",
+    "It is described as having twenty divisions."
+   ],
+   "inference": "The worship is declared to consist of twenty divisions.",
+   "uncertainties": [],
+   "plain_english": "The worship is declared to have twenty divisions."
+  },
+  {
+   "verse": 2623,
+   "rows": [
+    {
+     "surface": "yugādyāḥ",
+     "gloss": "yuga-beginnings-and-others",
+     "grounds": "compound/plural referring to auspicious beginnings such as yuga days",
+     "morph": "compound yuga-ādi f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgaṃ",
+     "gloss": "limb",
+     "grounds": "part or component in the ritual context",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatābhavam",
+     "gloss": "arising-from-deities",
+     "grounds": "compound describing origin from deities",
+     "morph": "compound devatā-bhava n.nom.sg"
+    }
+   ],
+   "question": "What ritual timing or condition is associated with occasions like yuga-beginnings and deity-born components?",
+   "premises": [
+    "Yuga-beginnings and similar occasions are mentioned.",
+    "A temporal condition 'when' is introduced.",
+    "A component arising from deities is mentioned."
+   ],
+   "inference": "Special observance applies when occasions like yuga-beginnings coincide with a deity-born component.",
+   "uncertainties": [
+    "The main clause governing this condition is not present in this verse alone."
+   ],
+   "plain_english": "When occasions such as the beginnings of yugas occur, and there is a component arising from the deities..."
+  },
+  {
+   "verse": 2624,
+   "rows": [
+    {
+     "surface": "dīkṣāyā",
+     "gloss": "of-initiation",
+     "grounds": "possessive relation to the day",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "divasaṃ",
+     "gloss": "day",
+     "grounds": "time period designated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "navarātrakam",
+     "gloss": "nine-nights-period",
+     "grounds": "compound indicating a period of nine nights",
+     "morph": "compound nava-rātraka n.acc.sg"
+    }
+   ],
+   "question": "What duration is designated in relation to the day of initiation?",
+   "premises": [
+    "The day of initiation is referenced.",
+    "A period of nine nights is named.",
+    "The verse specifies this duration in that context."
+   ],
+   "inference": "A nine-night period is designated in relation to the day of initiation.",
+   "uncertainties": [
+    "Whether this prescribes observance before, after, or including initiation day is not explicit."
+   ],
+   "plain_english": "The day of initiation is associated with a period of nine nights."
+  }
+ ]
+}

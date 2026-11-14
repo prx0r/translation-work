@@ -1,0 +1,1035 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "rasāgnilocanayugā",
+     "gloss": "taste-fire-eye-pairs",
+     "grounds": "compound encoding numerical values: rasa=6, agni=3, locana=2, in pairs",
+     "morph": "compound: rasa+agni+locana+yuga"
+    },
+    {
+     "surface": "nāgaṣaḍgo'bdhivahnayaḥ",
+     "gloss": "serpent-six-cow-ocean-fires",
+     "grounds": "compound encoding numerical values: nāga=8, ṣaṭ=6, go=9, abdhi=4, vahni=3",
+     "morph": "compound: nāga+ṣaṭ+go+abdhi+vahni, m.nom.pl"
+    }
+   ],
+   "question": "Which numerical sequences are established for the calculation procedure?",
+   "premises": [
+    "The first sequence is taste-fire-eye-pairs.",
+    "The second sequence is serpent-six-cow-ocean-fires.",
+    "These sequences provide numerical values for computation."
+   ],
+   "inference": "The verse specifies two coded numerical series to be used in the prescribed calculation.",
+   "uncertainties": [
+    "The exact order and application of the numerical values depend on the broader ritual context."
+   ],
+   "plain_english": "The numerical sequences are taste-fire-eye-pairs and serpent-six-cow-ocean-fires."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "ādyāstadaṅkayogotra",
+     "gloss": "first-their-number-sum-here",
+     "grounds": "compound referring to the sum of the initial numbers mentioned",
+     "morph": "compound: ādya+tad+aṅka+yoga+atra"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "in-deficiency",
+     "grounds": "locative condition when the result is less",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "’ṣṭāṅke",
+     "gloss": "in-eight-number",
+     "grounds": "locative referring to the number eight as a threshold",
+     "morph": "compound: aṣṭa+aṅka, n.loc.sg"
+    },
+    {
+     "surface": "’dhike",
+     "gloss": "in-excess",
+     "grounds": "locative condition when the result is greater",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jayaḥ",
+     "gloss": "victory",
+     "grounds": "outcome indicated by the calculation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What outcome is indicated when the calculated sum is deficient or excessive relative to eight?",
+   "premises": [
+    "The sum of the initial numbers is considered here.",
+    "The result may be deficient or excessive relative to eight.",
+    "Victory is declared as the outcome."
+   ],
+   "inference": "Depending on whether the sum is less or more than eight, victory is indicated.",
+   "uncertainties": [
+    "The precise interpretive rule for deficiency versus excess is not fully explicit."
+   ],
+   "plain_english": "When the sum of those initial numbers is less than or more than eight, victory is indicated."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "rasāgnivedayugmāṅgaṣaṭ",
+     "gloss": "taste-fire-veda-pairs-limb-six",
+     "grounds": "compound encoding numerical values: rasa=6, agni=3, veda=4, yugma=2, aṅga=6, ṣaṭ=6",
+     "morph": "compound: rasa+agni+veda+yugma+aṅga+ṣaṭ"
+    },
+    {
+     "surface": "kṛtāgnīnduśūnyabhūḥ",
+     "gloss": "action-fire-moon-void-earth",
+     "grounds": "compound encoding numerical values: kṛta=4, agni=3, indu=1, śūnya=0, bhū=1",
+     "morph": "compound: kṛta+agni+indu+śūnya+bhū, f.nom.sg"
+    }
+   ],
+   "question": "Which additional numerical sequences are provided for the prognostic calculation?",
+   "premises": [
+    "One sequence is taste-fire-veda-pairs-limb-six.",
+    "Another sequence is action-fire-moon-void-earth.",
+    "These sequences supply further numerical values."
+   ],
+   "inference": "The verse gives two more coded numerical series for use in calculation.",
+   "uncertainties": [
+    "The mapping of each term to a specific digit follows conventional numerical symbolism."
+   ],
+   "plain_english": "The sequences are taste-fire-veda-pairs-limb-six and action-fire-moon-void-earth."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "taṣṭāṣṭabhiś",
+     "gloss": "reduced-by-eight",
+     "grounds": "instrumental indicating reduction by the number eight",
+     "morph": "compound: taṣṭa+aṣṭan, n.ins.pl"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikā",
+     "gloss": "greater",
+     "grounds": "predicate indicating excess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gadino",
+     "gloss": "of-the-diseased",
+     "grounds": "refers to a sick person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jīvitam",
+     "gloss": "life",
+     "grounds": "subject of the prognostic outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "Under what numerical condition is the life of a diseased person predicted to continue?",
+   "premises": [
+    "The calculation involves reduction by eight.",
+    "The result may be greater.",
+    "The subject is the life of a diseased person."
+   ],
+   "inference": "If the value remains greater after reduction by eight, the diseased person may live.",
+   "uncertainties": [
+    "The exact quantity being reduced is implied from the previous verses."
+   ],
+   "plain_english": "If, after being reduced by eight, it is greater, the diseased person may live."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "gurumukhān",
+     "gloss": "from-the-guru’s-mouth",
+     "grounds": "ablative indicating the source of instruction",
+     "morph": "compound: guru+mukha, n.abl.sg"
+    },
+    {
+     "surface": "nāmakarma",
+     "gloss": "name-rite",
+     "grounds": "the naming ritual",
+     "morph": "compound: nāman+karman, n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active sam-ā-√car"
+    }
+   ],
+   "question": "From whom should the naming rite be learned and performed?",
+   "premises": [
+    "The naming rite is to be performed.",
+    "The guru’s mouth is specified as the source.",
+    "Performance follows the guru’s instruction."
+   ],
+   "inference": "One should perform the naming rite as received from the guru’s mouth.",
+   "uncertainties": [],
+   "plain_english": "One should perform the naming rite as learned from the guru’s mouth."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "svakalpoktavidhānena",
+     "gloss": "by-one’s-own-prescribed-method",
+     "grounds": "instrumental indicating the procedure according to one’s own kalpa",
+     "morph": "compound: sva+kalpa+ukta+vidhāna, n.ins.sg"
+    },
+    {
+     "surface": "śūdrādīnām",
+     "gloss": "of-śūdras-and-others",
+     "grounds": "genitive indicating the recipients or subjects",
+     "morph": "compound: śūdra+ādi, m.gen.pl"
+    },
+    {
+     "surface": "amantrakaḥ",
+     "gloss": "without-mantra",
+     "grounds": "specifies that the rite is performed without mantras",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the rite be performed for śūdras and others according to their own tradition?",
+   "premises": [
+    "The method follows one’s own prescribed kalpa.",
+    "The subjects include śūdras and others.",
+    "The rite is performed without mantra."
+   ],
+   "inference": "For śūdras and others, the rite should be performed without mantra according to their own prescribed method.",
+   "uncertainties": [],
+   "plain_english": "For śūdras and others, it should be performed without mantra according to the method prescribed in their own tradition."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "devāś",
+     "gloss": "gods",
+     "grounds": "subject receiving the remainder",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrasya",
+     "gloss": "of-the-circle",
+     "grounds": "genitive referring to the ritual circle",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pūjānteṣv",
+     "gloss": "at-the-end-of-worship",
+     "grounds": "locative indicating the time after worship",
+     "morph": "compound: pūjā+anta, m.loc.pl"
+    },
+    {
+     "surface": "avaśeṣitam",
+     "gloss": "the-remainder",
+     "grounds": "what remains after the ritual",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What happens to the remainder at the conclusion of the circle’s worship?",
+   "premises": [
+    "The context is the end of worship of the circle.",
+    "There is a remainder left over.",
+    "The gods are mentioned in relation to it."
+   ],
+   "inference": "At the end of the circle’s worship, the remainder is associated with the gods.",
+   "uncertainties": [
+    "The exact ritual action with the remainder is implied rather than stated."
+   ],
+   "plain_english": "And at the end of the circle’s worship, the remainder is for the gods."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "kṛtavidhānasya",
+     "gloss": "of-one-who-has-performed-the-rite",
+     "grounds": "genitive referring to the practitioner who completed the procedure",
+     "morph": "compound: kṛta+vidhāna, m.gen.sg"
+    },
+    {
+     "surface": "kṣudvipattir",
+     "gloss": "hunger-calamity",
+     "grounds": "compound denoting the affliction of hunger",
+     "morph": "compound: kṣudh+vipatti, f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present indicative stating non-occurrence",
+     "morph": "3.sg.present-middle √jan"
+    }
+   ],
+   "question": "What affliction does not arise for one who has properly performed the rite?",
+   "premises": [
+    "The subject has performed the prescribed rite.",
+    "Hunger-calamity is considered.",
+    "Its arising is negated."
+   ],
+   "inference": "For one who has performed the rite, the calamity of hunger does not arise.",
+   "uncertainties": [],
+   "plain_english": "For one who has performed the rite, the calamity of hunger does not arise."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "for-all",
+     "grounds": "genitive indicating universal applicability",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "summarizing adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating what has been taught",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bālyapātakanāśanam",
+     "gloss": "childhood-sin-destruction",
+     "grounds": "compound describing the effect of the rite",
+     "morph": "compound: bālya+pātaka+nāśana, n.nom.sg"
+    }
+   ],
+   "question": "What universal benefit is declared for all through this rite?",
+   "premises": [
+    "The teaching is declared for all.",
+    "The effect is described as destruction of childhood sin.",
+    "This summarizes the preceding instruction."
+   ],
+   "inference": "The rite is declared for all as destroying sins committed in childhood.",
+   "uncertainties": [],
+   "plain_english": "Thus it is declared for all as the destruction of sins committed in childhood."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "strīṇām",
+     "gloss": "of-women",
+     "grounds": "genitive indicating the subjects",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saubhāgyārogyavṛddhaye",
+     "gloss": "for-good-fortune-health-increase",
+     "grounds": "dative of purpose",
+     "morph": "compound: saubhāgya+ārogya+vṛddhi, f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should this rite also be performed for women?",
+   "premises": [
+    "The rite is also to be done for women.",
+    "The purpose is increase of good fortune and health.",
+    "The instruction extends the previous application."
+   ],
+   "inference": "For women too, the rite should be performed to increase good fortune and health.",
+   "uncertainties": [],
+   "plain_english": "It should also be performed for women for the increase of good fortune and health."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "absolutive indicating a prior action",
+     "morph": "absolutive √kṣip"
+    },
+    {
+     "surface": "khaned",
+     "gloss": "one-should-dig",
+     "grounds": "optative prescribing the action",
+     "morph": "3.sg.optative-active √khan"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "in-the-earth",
+     "grounds": "locative indicating place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viśeṣo",
+     "gloss": "distinction",
+     "grounds": "special rule or difference",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāminām",
+     "gloss": "for-the-left-handed",
+     "grounds": "genitive referring to practitioners of the left path",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What special procedure is prescribed for practitioners of the left path?",
+   "premises": [
+    "The actions involve throwing and digging in the earth.",
+    "A distinction is stated for the left-handed.",
+    "The instruction is marked as a specific rule."
+   ],
+   "inference": "For practitioners of the left path, the special rule is to throw and then dig in the earth.",
+   "uncertainties": [
+    "What is to be thrown is not specified in this verse."
+   ],
+   "plain_english": "Having thrown it, one should dig in the earth; this is the special rule for those of the left path."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "samīpe",
+     "gloss": "near",
+     "grounds": "locative indicating proximity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nayanaṃ",
+     "gloss": "leading",
+     "grounds": "act of bringing or leading near",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upanayanaṃ",
+     "gloss": "initiation",
+     "grounds": "the rite of bringing near, initiation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the act of leading near traditionally identified in this context?",
+   "premises": [
+    "The act is described as leading near.",
+    "It is identified with upanayana.",
+    "This identification is traditionally remembered."
+   ],
+   "inference": "That leading near is traditionally remembered as initiation (upanayana).",
+   "uncertainties": [],
+   "plain_english": "That leading near is remembered as initiation."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuladīkṣaṇam",
+     "gloss": "family-initiation",
+     "grounds": "initiation into the family or lineage tradition",
+     "morph": "compound: kula+dīkṣaṇa, n.nom.sg"
+    }
+   ],
+   "question": "Which initiation must be performed before others in the prescribed sequence?",
+   "premises": [
+    "An initiation is to be performed.",
+    "It is specified as family initiation.",
+    "It must be done first."
+   ],
+   "inference": "Family initiation should be performed first.",
+   "uncertainties": [],
+   "plain_english": "First, the family initiation should be performed."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "laghudaivatyā",
+     "gloss": "of-the-minor-deity",
+     "grounds": "refers to initiation related to a lesser deity",
+     "morph": "compound: laghu+daivatya, f.nom.sg"
+    },
+    {
+     "surface": "prāk",
+     "gloss": "first",
+     "grounds": "adverb indicating earlier sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścān",
+     "gloss": "afterwards",
+     "grounds": "adverb indicating later sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahatas",
+     "gloss": "of-the-great",
+     "grounds": "refers to initiation related to a greater deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order should initiations of minor and great deities be undertaken?",
+   "premises": [
+    "Initiation of a minor deity is mentioned.",
+    "Initiation of a great deity is mentioned.",
+    "The sequence is first and afterwards."
+   ],
+   "inference": "Initiation of the minor deity should come first, and that of the great deity afterwards.",
+   "uncertainties": [
+    "The noun 'initiation' is implied from the previous verse."
+   ],
+   "plain_english": "First that of the minor deity, and afterwards likewise that of the great one."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "grāhyā",
+     "gloss": "to-be-received",
+     "grounds": "gerundive indicating what should be taken",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantradīkṣā",
+     "gloss": "mantra-initiation",
+     "grounds": "initiation involving mantra",
+     "morph": "compound: mantra+dīkṣā, f.nom.sg"
+    },
+    {
+     "surface": "puraścaryāṃ",
+     "gloss": "preliminary-rite",
+     "grounds": "accusative indicating the rite to be begun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "optative prescribing commencement",
+     "morph": "3.sg.optative-middle sam-ā-√rabh"
+    }
+   ],
+   "question": "What must be received before one begins the preliminary rite?",
+   "premises": [
+    "Mantra initiation is to be received.",
+    "The preliminary rite is to be begun.",
+    "Receiving initiation precedes beginning the rite."
+   ],
+   "inference": "One should receive mantra initiation and then begin the preliminary rite.",
+   "uncertainties": [],
+   "plain_english": "One should receive mantra initiation and then begin the preliminary rite."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "suputraṃ",
+     "gloss": "to-a-good-son",
+     "grounds": "accusative indicating a worthy recipient",
+     "morph": "compound: su+putra, m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vineṣṭaṃ",
+     "gloss": "without-desire",
+     "grounds": "describes giving without proper wish or qualification",
+     "morph": "compound: vi+ni+iṣṭa, m.acc.sg"
+    },
+    {
+     "surface": "dāpayenna",
+     "gloss": "one-should-not-give",
+     "grounds": "prohibitive optative with negation",
+     "morph": "3.sg.optative-causative-active √dā + na"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom should the teaching not be given according to this prohibition?",
+   "premises": [
+    "A good son is mentioned as a possible recipient.",
+    "Giving without desire or proper qualification is considered.",
+    "The act of giving is prohibited in that case."
+   ],
+   "inference": "One should not give it except to a worthy recipient, nor give it without proper desire or qualification.",
+   "uncertainties": [
+    "The exact nuance of 'vineṣṭaṃ' is context-dependent."
+   ],
+   "plain_english": "One should not give it to one who is not a good son or who is not properly desirous."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present indicative stating occurrence",
+     "morph": "3.sg.present-middle √jan"
+    },
+    {
+     "surface": "siddhir",
+     "gloss": "success",
+     "grounds": "positive outcome",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-the-guru",
+     "grounds": "genitive indicating the source of consequence",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śāpaḥ",
+     "gloss": "curse",
+     "grounds": "negative consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "present indicative stating occurrence",
+     "morph": "3.sg.present-middle pra-√jan"
+    }
+   ],
+   "question": "What contrasting consequences arise in relation to the guru in this context?",
+   "premises": [
+    "Success is said to arise.",
+    "A curse of the guru is said to be produced.",
+    "Both outcomes are presented as possible consequences."
+   ],
+   "inference": "Success may arise, but the guru’s curse may also be produced.",
+   "uncertainties": [
+    "The specific conditions distinguishing the two outcomes are implied by the preceding prohibition."
+   ],
+   "plain_english": "Success arises, but the guru’s curse is also produced."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "prasaktā",
+     "gloss": "attached",
+     "grounds": "describes being devoted or engaged",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svavidyā",
+     "gloss": "own-knowledge",
+     "grounds": "one’s own knowledge or mantra-knowledge",
+     "morph": "compound: sva+vidyā, f.nom.sg"
+    },
+    {
+     "surface": "rājavad",
+     "gloss": "like-a-king",
+     "grounds": "comparative indicating sovereign power",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What status does one’s own knowledge attain when it is firmly engaged?",
+   "premises": [
+    "One’s own knowledge becomes attached or engaged.",
+    "It is compared to a king.",
+    "This comparison indicates a powerful status."
+   ],
+   "inference": "When firmly engaged, one’s own knowledge becomes sovereign like a king.",
+   "uncertainties": [],
+   "plain_english": "When that own knowledge is firmly engaged, it becomes like a king."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun referring to the question asked",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pṛṣṭaṃ",
+     "gloss": "was-asked",
+     "grounds": "past participle indicating the inquiry",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive referring back to what was asked",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ādhikyaṃ",
+     "gloss": "superiority",
+     "grounds": "the quality of being higher or greater",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇitam",
+     "gloss": "described",
+     "grounds": "past participle indicating explanation given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What aspect of the previously asked matter is now being described?",
+   "premises": [
+    "Something was previously asked.",
+    "Its superiority is the topic.",
+    "That superiority is now described."
+   ],
+   "inference": "The superiority of what was asked is now being described.",
+   "uncertainties": [
+    "The specific subject of the earlier question is not stated in this verse."
+   ],
+   "plain_english": "The superiority of what was asked has now been described."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vedic",
+     "grounds": "pertaining to the Veda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "superlative indicating highest rank",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataś",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smārtam",
+     "gloss": "traditional",
+     "grounds": "pertaining to smṛti tradition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "superlative indicating high rank",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which two paths are ranked as best and supreme in this hierarchy?",
+   "premises": [
+    "The Vedic path is called best.",
+    "The traditional (smārta) path is called supreme.",
+    "They are presented in sequence."
+   ],
+   "inference": "The Vedic is ranked best and the smārta is ranked supreme after it.",
+   "uncertainties": [],
+   "plain_english": "The Vedic is best, and then the traditional is supreme."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "yāmalās",
+     "gloss": "yāmala-texts",
+     "grounds": "refers to Yāmala scriptures or traditions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatsaṃgamāc",
+     "gloss": "from-their-union",
+     "grounds": "ablative indicating origin from their conjunction",
+     "morph": "compound: tad+saṃgama, m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrīśānī",
+     "gloss": "mantrīśānī",
+     "grounds": "name of a tradition or text",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṇḍavam",
+     "gloss": "tāṇḍava",
+     "grounds": "name of a tradition or text",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which additional traditions are included in the enumerated hierarchy?",
+   "premises": [
+    "Yāmala texts are mentioned.",
+    "Mantrīśānī and Tāṇḍava are mentioned.",
+    "Their union or connection is indicated."
+   ],
+   "inference": "The hierarchy includes Yāmalas, and from their union Mantrīśānī and Tāṇḍava.",
+   "uncertainties": [
+    "The precise relationship denoted by 'tatsaṃgamāc' is interpretively open."
+   ],
+   "plain_english": "The Yāmalas, and from their union Mantrīśānī and Tāṇḍava."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "kramād",
+     "gloss": "gradually",
+     "grounds": "ablative indicating progression in order",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "apacitaṃ",
+     "gloss": "diminished",
+     "grounds": "describes decreasing status",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating what should be understood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathāyogyena",
+     "gloss": "according-to-fitness",
+     "grounds": "instrumental indicating appropriateness",
+     "morph": "compound: yathā+yogya, n.ins.sg"
+    },
+    {
+     "surface": "mukhyatā",
+     "gloss": "superiority",
+     "grounds": "primary status or preeminence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the relative superiority of these paths be understood across the sequence?",
+   "premises": [
+    "The sequence proceeds gradually.",
+    "Diminution and superiority are both mentioned.",
+    "Understanding should follow fitness or appropriateness."
+   ],
+   "inference": "One should understand that superiority is determined according to fitness, even as status varies gradually.",
+   "uncertainties": [
+    "Whether 'apacitaṃ' applies to the whole sequence or specific members is ambiguous."
+   ],
+   "plain_english": "It should be known that, gradually, superiority is determined according to fitness."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "dadyāc",
+     "gloss": "one-should-give",
+     "grounds": "optative prescribing giving",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasmai",
+     "gloss": "to-all",
+     "grounds": "dative indicating universal recipients",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svāṃcārāt",
+     "gloss": "by-one’s-own-conduct",
+     "grounds": "ablative indicating the basis in one’s own practice",
+     "morph": "compound: sva+ācāra, m.abl.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "the ritual or prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurvate",
+     "gloss": "to-those-who-perform",
+     "grounds": "present participle indicating practitioners",
+     "morph": "m.dat.sg.present-middle-participle √kṛ"
+    }
+   ],
+   "question": "To whom should one give according to their own conduct and performance of action?",
+   "premises": [
+    "Giving is prescribed.",
+    "The recipients are those who perform action.",
+    "The basis is one’s own conduct."
+   ],
+   "inference": "One should give to all who perform action according to their own conduct.",
+   "uncertainties": [
+    "The object of giving is not explicitly stated in this verse."
+   ],
+   "plain_english": "And one should give to all who perform action according to their own conduct."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-the-path",
+     "grounds": "instrumental indicating the method or path",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vaidikas",
+     "gloss": "vedic",
+     "grounds": "follower of the Vedic path",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāntrikaḥ",
+     "gloss": "tantric",
+     "grounds": "follower of the tantric path",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating continuation or contrast",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which two types of practitioners are distinguished by their respective paths?",
+   "premises": [
+    "A path is mentioned as the basis of distinction.",
+    "A Vedic practitioner is named.",
+    "A tantric practitioner is named."
+   ],
+   "inference": "Practitioners are distinguished as Vedic and tantric according to their path.",
+   "uncertainties": [
+    "The predicate completing the sentence likely continues from the previous verse."
+   ],
+   "plain_english": "By the path, there is the Vedic practitioner and again the tantric practitioner."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2538,
- "question": "What offerings should accompany the foot-water and other ritual items?",
+ "question": "Where should one wear one's own chosen mantra for this rite?",
  "premises": [
-  "A collection beginning with foot-water is offered",
-  "Cloth is included among the offerings",
-  "Perfume, flowers, and sesame accompany them"
+  "A practitioner has a chosen mantra.",
+  "The mantra is to be borne physically.",
+  "The neck is specified as the place of wearing."
  ],
- "inference": "The offerings include foot-water and related items, cloth, and perfume, flowers, and sesame.",
- "uncertainties": [],
- "plain_english": "One should offer the collection of foot-water and so on, cloth, together with perfume, flowers, and sesame."
+ "inference": "One should wear one's chosen mantra on the neck.",
+ "uncertainties": [
+  "The referent of tat in tat+kaṇṭhe may depend on prior context."
+ ],
+ "plain_english": "One should wear one's own chosen mantra on that neck."
 }

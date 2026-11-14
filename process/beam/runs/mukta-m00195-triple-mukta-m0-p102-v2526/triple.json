@@ -1,0 +1,967 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2526,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating the appropriate time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescribes the performance of the ritual action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "tat+prakāra",
+     "gloss": "that+method",
+     "grounds": "refers to the specific procedure to be followed",
+     "morph": "compound: tat+prakāra"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb pointing to the present text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "indicates that the method is being explained",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "By what method should the prescribed ritual action be performed at that time?",
+   "premises": [
+    "A ritual action is to be performed at that time.",
+    "A specific method for that action exists.",
+    "That method is stated in this context."
+   ],
+   "inference": "The text proceeds to explain the required ritual method.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform it in that manner; that method is stated here."
+  },
+  {
+   "verse": 2527,
+   "rows": [
+    {
+     "surface": "uśīra+rocanābhyām",
+     "gloss": "with-vetiver+and-yellow-pigment",
+     "grounds": "names two ritual substances used together",
+     "morph": "compound: uśīra+rocanā, inst.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects additional substances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilā+karpūra+kuṃkumaiḥ",
+     "gloss": "with-stone-camphor+and-saffron",
+     "grounds": "names further ritual substances used in the mixture",
+     "morph": "compound: śilā+karpūra+kuṃkuma, inst.pl"
+    }
+   ],
+   "question": "Which specific substances are required for preparing the ritual mixture?",
+   "premises": [
+    "The ritual requires material ingredients.",
+    "Vetiver and yellow pigment are included.",
+    "Stone, camphor, and saffron are also included."
+   ],
+   "inference": "The preparation uses a combination of these specified substances.",
+   "uncertainties": [
+    "The exact identification of śilā in this compound is uncertain."
+   ],
+   "plain_english": "With vetiver and yellow pigment, and with stone, camphor, and saffron."
+  },
+  {
+   "verse": 2528,
+   "rows": [
+    {
+     "surface": "japāt",
+     "gloss": "from-recitation",
+     "grounds": "ablative indicating the effect arising from mantra recitation",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "dhomāt",
+     "gloss": "from-oblation",
+     "grounds": "ablative indicating the effect arising from fire offering",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "drāvitaḥ",
+     "gloss": "melted",
+     "grounds": "describes the substance as liquefied through ritual action",
+     "morph": "past-participle, m.nom.sg"
+    },
+    {
+     "surface": "phaladaḥ",
+     "gloss": "fruit-giving",
+     "grounds": "describes the resulting efficacy of the preparation",
+     "morph": "compound: phala+da, m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "states the expected outcome of the procedure",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What result follows when the substance is melted through recitation and oblation?",
+   "premises": [
+    "Recitation and oblation are applied to the substance.",
+    "The substance becomes melted through these actions.",
+    "A melted preparation can yield a desired result."
+   ],
+   "inference": "The melted substance becomes effective in granting results.",
+   "uncertainties": [],
+   "plain_english": "Melted through recitation and oblation, it should become fruitful."
+  },
+  {
+   "verse": 2529,
+   "rows": [
+    {
+     "surface": "aiṁbījena",
+     "gloss": "with-aiṁ-seed",
+     "grounds": "instrumental naming the bīja syllable aiṁ used in the rite",
+     "morph": "compound: aiṁ+bīja, inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another seed element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed",
+     "grounds": "refers to an accompanying seed syllable",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "sampuṭīkṛtya",
+     "gloss": "having-enclosed",
+     "grounds": "indicates enclosing the mantra between seed syllables",
+     "morph": "absolutive √kṛ with sampuṭī"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the mantra to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribes the recitation of the enclosed mantra",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "How should the mantra be enclosed and recited using seed syllables?",
+   "premises": [
+    "The seed syllable aiṁ is to be used.",
+    "Another seed syllable is also involved.",
+    "The mantra is enclosed and then recited."
+   ],
+   "inference": "One should recite the mantra after enclosing it with the specified seed syllables.",
+   "uncertainties": [
+    "The identity of the second bīja is not specified in this verse."
+   ],
+   "plain_english": "Having enclosed that mantra with the aiṁ seed and another seed, one should recite it."
+  },
+  {
+   "verse": 2530,
+   "rows": [
+    {
+     "surface": "mahādāru",
+     "gloss": "mahādāru",
+     "grounds": "names a ritual substance, likely deodar or a similar resinous wood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haridrā",
+     "gloss": "turmeric",
+     "grounds": "names turmeric as a ritual substance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed substances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥśilā",
+     "gloss": "realgar",
+     "grounds": "names realgar as a ritual substance",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional substances are named for use in the ritual procedure?",
+   "premises": [
+    "The procedure involves specific material substances.",
+    "Mahādāru is named among them.",
+    "Turmeric and realgar are also named."
+   ],
+   "inference": "These substances form part of the prescribed ritual materials.",
+   "uncertainties": [
+    "The precise botanical identification of mahādāru may vary by context."
+   ],
+   "plain_english": "Mahādāru, turmeric, and realgar."
+  },
+  {
+   "verse": 2531,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the potential outcome of the rite",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "vaśyaḥ",
+     "gloss": "subdued",
+     "grounds": "describes the target as brought under control",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negates the expected outcome",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescribes a further action if the first fails",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "prapīḍanam",
+     "gloss": "tormenting",
+     "grounds": "names the coercive ritual action to be performed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What corrective action should be taken if the target is not subdued?",
+   "premises": [
+    "The ritual aims to subdue a target.",
+    "The target may fail to become subdued.",
+    "A further coercive action is prescribed in that case."
+   ],
+   "inference": "If subjugation fails, one should perform the tormenting rite.",
+   "uncertainties": [],
+   "plain_english": "If the target does not become subdued, one should perform tormenting."
+  },
+  {
+   "verse": 2532,
+   "rows": [
+    {
+     "surface": "paṭhet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribes recitation as the ritual action",
+     "morph": "3.sg.opt.act √paṭh"
+    },
+    {
+     "surface": "turyam",
+     "gloss": "fourth",
+     "grounds": "specifies which element or part is to be recited",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāttataḥ",
+     "gloss": "with-high-tone",
+     "grounds": "indicates the accent or tonal manner of recitation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what tonal manner should the fourth element be recited?",
+   "premises": [
+    "A specific element is designated as the fourth.",
+    "Recitation of that element is prescribed.",
+    "The recitation must be performed with a high tone."
+   ],
+   "inference": "The fourth element should be recited in a raised tone.",
+   "uncertainties": [
+    "The referent of the fourth element depends on prior context."
+   ],
+   "plain_english": "One should recite the fourth with a high tone."
+  },
+  {
+   "verse": 2533,
+   "rows": [
+    {
+     "surface": "anudātta+pada+uccāre",
+     "gloss": "in-unaccented+word+utterance",
+     "grounds": "locative describing recitation with unaccented utterance",
+     "morph": "compound: anudātta+pada+uccāra, loc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "the-god",
+     "grounds": "object of meditation in the ritual visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescribes visualization of the deity",
+     "morph": "3.sg.opt.act √dhyai"
+    },
+    {
+     "surface": "adhaḥsthitam",
+     "gloss": "situated-below",
+     "grounds": "describes the deity's position in the visualization",
+     "morph": "compound: adhas+sthita, m.acc.sg"
+    }
+   ],
+   "question": "How should the deity be visualized during unaccented utterance of the words?",
+   "premises": [
+    "The utterance is performed in an unaccented manner.",
+    "Meditation on the deity is prescribed.",
+    "The deity is to be visualized as situated below."
+   ],
+   "inference": "During unaccented utterance, one should meditate on the deity below.",
+   "uncertainties": [],
+   "plain_english": "During unaccented utterance, one should meditate on the god situated below."
+  },
+  {
+   "verse": 2534,
+   "rows": [
+    {
+     "surface": "bhūrje",
+     "gloss": "on-birch-bark",
+     "grounds": "locative specifying the writing surface",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "bhānu+dugdhena",
+     "gloss": "with-sun+milk",
+     "grounds": "instrumental naming the substance used for writing",
+     "morph": "compound: bhānu+dugdha, inst.sg"
+    },
+    {
+     "surface": "lekhayet",
+     "gloss": "one-should-write",
+     "grounds": "prescribes the act of inscribing the mantra",
+     "morph": "3.sg.opt.caus.act √likh"
+    }
+   ],
+   "question": "On what material and with what substance should the inscription be made?",
+   "premises": [
+    "An inscription is to be made.",
+    "Birch bark serves as the writing surface.",
+    "A substance called sun-milk is used for writing."
+   ],
+   "inference": "One should write on birch bark using sun-milk.",
+   "uncertainties": [
+    "The exact identity of bhānu-dugdha is uncertain."
+   ],
+   "plain_english": "One should write on birch bark with sun-milk."
+  },
+  {
+   "verse": 2535,
+   "rows": [
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the ritual effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pīḍitaḥ",
+     "gloss": "tormented",
+     "grounds": "describes the mantra as subjected to coercive ritual pressure",
+     "morph": "past-participle, m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "anaphoric reference to the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "becomes-pleased",
+     "grounds": "states the resulting favorable response of the mantra",
+     "morph": "3.sg.pres.act √sad with pra"
+    }
+   ],
+   "question": "What effect does tormenting the mantra produce on its disposition?",
+   "premises": [
+    "The mantra is subjected to tormenting.",
+    "Ritual pressure can alter the mantra's response.",
+    "The mantra becomes pleased as a result."
+   ],
+   "inference": "Tormenting the mantra causes it to become favorable.",
+   "uncertainties": [],
+   "plain_english": "That mantra, when tormented, becomes pleased."
+  },
+  {
+   "verse": 2536,
+   "rows": [
+    {
+     "surface": "soma+bīja+puṭitaṃ",
+     "gloss": "with-soma-seed+enclosed",
+     "grounds": "describes the mantra enclosed by the soma bīja",
+     "morph": "compound: soma+bīja+puṭita, m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be written",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "prescribes inscribing the mantra",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "bhūrjasya+patrake",
+     "gloss": "on-birch-bark+leaf",
+     "grounds": "locative specifying the writing surface",
+     "morph": "compound: bhūrja+patraka, loc.sg"
+    }
+   ],
+   "question": "How and where should the mantra enclosed with the soma seed be written?",
+   "premises": [
+    "The mantra is to be enclosed with the soma seed.",
+    "Writing the mantra is prescribed.",
+    "A birch-bark leaf is the designated surface."
+   ],
+   "inference": "One should write the soma-seed-enclosed mantra on a birch-bark leaf.",
+   "uncertainties": [
+    "The specific syllable intended by soma-bīja is not identified here."
+   ],
+   "plain_english": "One should write the mantra enclosed with the soma seed on a birch-bark leaf."
+  },
+  {
+   "verse": 2537,
+   "rows": [
+    {
+     "surface": "poṣaṇam",
+     "gloss": "nourishing",
+     "grounds": "names the ritual effect previously described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion of the preceding topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "indicates that the nourishing rite has been explained",
+     "morph": "past-participle, n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces the next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śoṣaṇam",
+     "gloss": "drying",
+     "grounds": "names the next ritual effect to be explained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "indicates that the drying rite is now explained",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What transition is made from the nourishing rite to the drying rite?",
+   "premises": [
+    "The nourishing rite has been explained.",
+    "A new ritual topic is introduced.",
+    "The drying rite is now to be stated."
+   ],
+   "inference": "The text concludes nourishing and begins explaining drying.",
+   "uncertainties": [],
+   "plain_english": "Thus nourishing has been stated; now drying is explained."
+  },
+  {
+   "verse": 2538,
+   "rows": [
+    {
+     "surface": "sva+iṣṭa+mantraṃ",
+     "gloss": "one's-own-desired+mantra",
+     "grounds": "refers to the practitioner's chosen mantra",
+     "morph": "compound: sva+iṣṭa+mantra, m.acc.sg"
+    },
+    {
+     "surface": "tat+kaṇṭhe",
+     "gloss": "on-that+neck",
+     "grounds": "locative indicating placement on the neck",
+     "morph": "compound: tat+kaṇṭha, loc.sg"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-wear",
+     "grounds": "prescribes wearing or bearing the mantra",
+     "morph": "3.sg.opt.caus.act √dhṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the stated instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should one wear one's own chosen mantra for this rite?",
+   "premises": [
+    "A practitioner has a chosen mantra.",
+    "The mantra is to be borne physically.",
+    "The neck is specified as the place of wearing."
+   ],
+   "inference": "One should wear one's chosen mantra on the neck.",
+   "uncertainties": [
+    "The referent of tat in tat+kaṇṭhe may depend on prior context."
+   ],
+   "plain_english": "One should wear one's own chosen mantra on that neck."
+  },
+  {
+   "verse": 2539,
+   "rows": [
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive plural indicating the group of mantras involved",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "catur+dikṣu",
+     "gloss": "in-four+directions",
+     "grounds": "locative specifying enclosure in the four directions",
+     "morph": "compound: catur+diś, loc.pl"
+    },
+    {
+     "surface": "samāvṛtān",
+     "gloss": "enclosed",
+     "grounds": "describes the mantras as surrounded or covered",
+     "morph": "past-participle, m.acc.pl"
+    }
+   ],
+   "question": "How are the mantras arranged in relation to the four directions?",
+   "premises": [
+    "Multiple mantras are involved.",
+    "The four directions are specified.",
+    "The mantras are enclosed in those directions."
+   ],
+   "inference": "The mantras are arranged as enclosed in the four directions.",
+   "uncertainties": [],
+   "plain_english": "The mantras enclosed in the four directions."
+  },
+  {
+   "verse": 2540,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the previously described arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhāryaṃ",
+     "gloss": "to-be-worn",
+     "grounds": "prescribes that the arrangement should be worn",
+     "morph": "gerundive, n.nom.sg"
+    },
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "on-neck",
+     "grounds": "locative specifying where it is to be worn",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "dāha+kriyā",
+     "gloss": "burning+rite",
+     "grounds": "names the ritual procedure being introduced",
+     "morph": "compound: dāha+kriyā, f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "marks a shift to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "identifies the burning rite now described",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is to be worn on the neck and what rite is introduced next?",
+   "premises": [
+    "The previously described arrangement is to be worn.",
+    "The place of wearing is the neck.",
+    "A burning rite is introduced as the next topic."
+   ],
+   "inference": "That arrangement should be worn on the neck, and this is the burning rite.",
+   "uncertainties": [],
+   "plain_english": "That is to be worn on the neck; and this indeed is the burning rite."
+  },
+  {
+   "verse": 2541,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a specific condition or case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmākṣā",
+     "gloss": "Kāmākṣā",
+     "grounds": "names the goddess Kāmākṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "introduces the locus or condition of the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "identifies Kāmākṣā as the presiding deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deity presides in the context where this rite is performed?",
+   "premises": [
+    "The rite is performed in a specific context.",
+    "Kāmākṣā is named in that context.",
+    "Kāmākṣā is identified as the deity."
+   ],
+   "inference": "The rite is associated with Kāmākṣā as the presiding deity.",
+   "uncertainties": [],
+   "plain_english": "But where Kāmākṣā is the deity."
+  },
+  {
+   "verse": 2542,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be placed or written in the rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasizes the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃśa+upari",
+     "gloss": "upon-bamboo",
+     "grounds": "locative indicating placement above or on bamboo",
+     "morph": "compound: vaṃśa+upari, (indecl.)"
+    },
+    {
+     "surface": "yathā+kramam",
+     "gloss": "in-due-order",
+     "grounds": "specifies that the action follows proper sequence",
+     "morph": "compound: yathā+krama, (indecl.)"
+    }
+   ],
+   "question": "In what order and upon what support should the mantra be placed?",
+   "premises": [
+    "The mantra is to be placed in the rite.",
+    "Bamboo is specified as the support.",
+    "The placement must follow due order."
+   ],
+   "inference": "The mantra should be placed upon bamboo in proper sequence.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the mantra should be placed upon bamboo in due order."
+  },
+  {
+   "verse": 2543,
+   "rows": [
+    {
+     "surface": "tasya+eva",
+     "gloss": "of-that+very",
+     "grounds": "emphatic genitive referring back to the same support or place",
+     "morph": "compound: tad+eva, m.gen.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "locative specifying the base location",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "śailasya",
+     "gloss": "of-mountain",
+     "grounds": "genitive identifying the mountain associated with the site",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parvaṇi",
+     "gloss": "at-joint",
+     "grounds": "locative specifying a joint or section of the place",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "At which specific part of the mountain's base should the rite be situated?",
+   "premises": [
+    "The rite is located at the base of that very place.",
+    "A mountain is associated with the location.",
+    "A joint or section of that site is specified."
+   ],
+   "inference": "The rite is situated at the joint at the root of that mountain.",
+   "uncertainties": [
+    "The precise meaning of parvaṇi in this ritual context is somewhat unclear."
+   ],
+   "plain_english": "At the very root of that mountain, at its joint."
+  },
+  {
+   "verse": 2544,
+   "rows": [
+    {
+     "surface": "yoginī+śaile",
+     "gloss": "on-yoginī+mountain",
+     "grounds": "locative naming the Yoginī mountain as the site",
+     "morph": "compound: yoginī+śaila, loc.sg"
+    },
+    {
+     "surface": "dakṣiṇasyāṃ",
+     "gloss": "in-southern",
+     "grounds": "specifies the southern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "direction",
+     "grounds": "locative noun indicating direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes the certainty of the location",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which direction on the Yoginī mountain is the rite to be performed?",
+   "premises": [
+    "The Yoginī mountain is the designated site.",
+    "A specific direction on that mountain is indicated.",
+    "The southern direction is stated with certainty."
+   ],
+   "inference": "The rite is certainly to be performed on the southern side of the Yoginī mountain.",
+   "uncertainties": [],
+   "plain_english": "Certainly on the Yoginī mountain, in the southern direction."
+  },
+  {
+   "verse": 2545,
+   "rows": [
+    {
+     "surface": "jvālāmukhī+samīpe",
+     "gloss": "near-Jvālāmukhī",
+     "grounds": "locative indicating proximity to Jvālāmukhī",
+     "morph": "compound: jvālāmukhī+samīpa, loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiṃgulā+ja+samāpataḥ",
+     "gloss": "from-vermilion+born+occurrence",
+     "grounds": "ablative-like expression indicating origin or occurrence related to vermilion",
+     "morph": "compound: hiṃgulā+ja+samāpata, abl.sg"
+    }
+   ],
+   "question": "What alternative locations are permitted for performing the prescribed rite?",
+   "premises": [
+    "A primary location has been indicated.",
+    "An alternative near Jvālāmukhī is allowed.",
+    "Another alternative is linked to the occurrence of vermilion."
+   ],
+   "inference": "The rite may also be performed near Jvālāmukhī or where vermilion occurs.",
+   "uncertainties": [
+    "The exact sense of hiṃgulā+ja+samāpataḥ is uncertain."
+   ],
+   "plain_english": "Or near Jvālāmukhī, or from the occurrence arising from vermilion."
+  },
+  {
+   "verse": 2546,
+   "rows": [
+    {
+     "surface": "strī+samīpe",
+     "gloss": "near-woman",
+     "grounds": "locative indicating proximity to a woman",
+     "morph": "compound: strī+samīpa, loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces another specific case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāma+pīṭhe",
+     "gloss": "at-kāma+seat",
+     "grounds": "locative naming the Kāma seat as the ritual site",
+     "morph": "compound: kāma+pīṭha, loc.sg"
+    },
+    {
+     "surface": "manoḥ+grahaḥ",
+     "gloss": "of-mantra+seizing",
+     "grounds": "names the act of grasping or receiving the mantra",
+     "morph": "compound: manas+graha, m.nom.sg"
+    }
+   ],
+   "question": "Where does the seizing of the mantra take place in this context?",
+   "premises": [
+    "A specific ritual act is the seizing of the mantra.",
+    "Proximity to a woman is mentioned.",
+    "The Kāma seat is specified as the location."
+   ],
+   "inference": "The seizing of the mantra occurs near a woman at the Kāma seat.",
+   "uncertainties": [
+    "The ritual sense of manoḥ+grahaḥ may depend on broader context."
+   ],
+   "plain_english": "But near a woman, at the Kāma seat, is the seizing of the mantra."
+  },
+  {
+   "verse": 2547,
+   "rows": [
+    {
+     "surface": "pūrṇa+kumbhe",
+     "gloss": "in-full+jar",
+     "grounds": "locative specifying a full ritual jar as the container",
+     "morph": "compound: pūrṇa+kumbha, loc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "prescribes placing the object in the jar",
+     "morph": "3.sg.opt.caus.act √dhā with ni"
+    }
+   ],
+   "question": "In what kind of vessel should the ritual object be placed?",
+   "premises": [
+    "A ritual object must be placed somewhere.",
+    "A jar is specified as the vessel.",
+    "The jar must be full."
+   ],
+   "inference": "One should place the object in a full jar.",
+   "uncertainties": [],
+   "plain_english": "One should place it in a full jar."
+  },
+  {
+   "verse": 2548,
+   "rows": [
+    {
+     "surface": "tāntrika+mantrāṇāṃ",
+     "gloss": "of-tāntric+mantras",
+     "grounds": "genitive plural specifying the mantras concerned",
+     "morph": "compound: tāntrika+mantra, m.gen.pl"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "object naming the initiation to be explained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressing the listener",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "accusative referring to the human teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indicates initiation without a human guru",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can initiation into tantric mantras occur without a human guru?",
+   "premises": [
+    "Initiation into tantric mantras is the topic.",
+    "The listener is instructed to hear about it.",
+    "This initiation is described as occurring without a guru."
+   ],
+   "inference": "The text introduces initiation into tantric mantras without a human guru.",
+   "uncertainties": [],
+   "plain_english": "Hear now the initiation into tantric mantras without a guru."
+  },
+  {
+   "verse": 2549,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrteḥ",
+     "gloss": "of-Dakṣiṇāmūrti",
+     "grounds": "genitive naming the deity Dakṣiṇāmūrti",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative indicating presence before the deity",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes worship as the ritual action",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the act of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "refers to Dakṣiṇāmūrti as the object of worship",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Whom should one worship in the presence of Dakṣiṇāmūrti for this initiation?",
+   "premises": [
+    "The initiation context involves Dakṣiṇāmūrti.",
+    "Worship is prescribed in that presence.",
+    "Dakṣiṇāmūrti is the object of worship."
+   ],
+   "inference": "One should worship Dakṣiṇāmūrti in his presence.",
+   "uncertainties": [],
+   "plain_english": "In the presence of Dakṣiṇāmūrti, one should worship him."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 204,
- "question": "For what therapeutic purpose is the rodha mantra placement prescribed?",
+ "question": "Under what numerical condition is the life of a diseased person predicted to continue?",
  "premises": [
-  "Afflictions include fever, seizure, poison, and similar harms.",
-  "Pacification of such afflictions is a ritual aim.",
-  "Rodha is prescribed in that context."
+  "The calculation involves reduction by eight.",
+  "The result may be greater.",
+  "The subject is the life of a diseased person."
  ],
- "inference": "Rodha is prescribed for pacifying afflictions such as fever, seizure, and poison.",
- "uncertainties": [],
- "plain_english": "Rodha is prescribed for the pacification of afflictions such as fever, seizure, poison, and the like."
+ "inference": "If the value remains greater after reduction by eight, the diseased person may live.",
+ "uncertainties": [
+  "The exact quantity being reduced is implied from the previous verses."
+ ],
+ "plain_english": "If, after being reduced by eight, it is greater, the diseased person may live."
 }

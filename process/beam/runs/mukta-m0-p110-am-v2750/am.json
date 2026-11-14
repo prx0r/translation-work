@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p110",
  "verse": 2750,
- "question": "Which lineage governs the giving of ancestral rice-balls, rites, and water?",
+ "question": "Which deities continue the enumeration of tithi lords addressed to the goddess?",
  "premises": [
-  "Marriage mantras remove a woman's paternal lineage.",
-  "A woman adopts the lineage of her husband.",
-  "Ancestral offerings must be performed under the adopted lineage."
+  "The preceding verses introduce an enumeration of tithi lords.",
+  "Vahnir names fire as a member of this sequence.",
+  "Brahmā, Candraḥ, Śivaḥ, and Aditiḥ are listed as further members."
  ],
- "inference": "Therefore the rice-ball, ancestral rite, and water should be given under that lineage.",
- "uncertainties": [],
- "plain_english": "Therefore, the rice-ball, the ancestral rite, and water should indeed be given under that lineage."
+ "inference": "The sequence of tithi lords continues with Fire, Brahmā, the Moon, Śiva, and Aditi.",
+ "uncertainties": [
+  "The specific tithi assignments for each named deity are not stated in this verse alone."
+ ],
+ "plain_english": "Fire, Brahmā, the Moon, Śiva, and Aditi."
 }
