@@ -1,0 +1,1137 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 901,
+   "rows": [
+    {
+     "surface": "citrā",
+     "gloss": "citrā",
+     "grounds": "name of lunar mansion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maghā",
+     "gloss": "maghā",
+     "grounds": "name of lunar mansion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśākhāḥ",
+     "gloss": "and-viśākhās",
+     "grounds": "name of lunar mansions",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "copula expressing classification",
+     "morph": "3.pl.act-opt √as"
+    },
+    {
+     "surface": "tārāḥ",
+     "gloss": "stars",
+     "grounds": "lunar mansions as stars",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rākṣasadevatāḥ",
+     "gloss": "rākṣasa-deities",
+     "grounds": "compound: rākṣasa+devatā; deities of rākṣasa class",
+     "morph": "f.nom.pl, compound rākṣasa+devatā"
+    }
+   ],
+   "question": "Which lunar mansions are classified as having rākṣasa deities?",
+   "premises": [
+    "Citrā is a lunar mansion.",
+    "Maghā is a lunar mansion.",
+    "Viśākhās are lunar mansions.",
+    "These stars belong to rākṣasa deities."
+   ],
+   "inference": "Citrā, Maghā, and Viśākhā are the lunar mansions presided over by rākṣasa deities.",
+   "uncertainties": [],
+   "plain_english": "Citrā, Maghā, and Viśākhā are the stars whose deities are rākṣasas."
+  },
+  {
+   "verse": 902,
+   "rows": [
+    {
+     "surface": "anurādhā",
+     "gloss": "anurādhā",
+     "grounds": "name of lunar mansion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mṛgaśiraḥ",
+     "gloss": "mṛgaśiras",
+     "grounds": "name of lunar mansion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śravaṇaṃ",
+     "gloss": "śravaṇa",
+     "grounds": "name of lunar mansion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatārakāḥ",
+     "gloss": "deity-stars",
+     "grounds": "compound: deva+tārakā; stars of divine class",
+     "morph": "f.nom.pl, compound deva+tārakā"
+    }
+   ],
+   "question": "Which lunar mansions are classified as having divine deities?",
+   "premises": [
+    "Anurādhā is a lunar mansion.",
+    "Mṛgaśiras is a lunar mansion.",
+    "Śravaṇa is a lunar mansion.",
+    "These are deity stars."
+   ],
+   "inference": "Anurādhā, Mṛgaśiras, and Śravaṇa are the lunar mansions presided over by divine deities.",
+   "uncertainties": [],
+   "plain_english": "Anurādhā, Mṛgaśiras, and Śravaṇa are the stars belonging to the deities."
+  },
+  {
+   "verse": 903,
+   "rows": [
+    {
+     "surface": "upakrameta",
+     "gloss": "one-should-begin",
+     "grounds": "undertake a ritual action",
+     "morph": "3.sg.mid-opt √kram with upa"
+    },
+    {
+     "surface": "nandāsu",
+     "gloss": "on-nandā-days",
+     "grounds": "lunar days of nandā class",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "riktāsva",
+     "gloss": "on-riktā-days",
+     "grounds": "lunar days of riktā class; sandhi riktāsu",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon",
+     "grounds": "ritual weapon or missile",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-release",
+     "grounds": "dismiss or discharge ritually",
+     "morph": "3.sg.act-opt √sṛj with vi"
+    }
+   ],
+   "question": "On which lunar days should one begin and on which release the weapon?",
+   "premises": [
+    "Ritual action requires proper timing.",
+    "Nandā days are specified for beginning.",
+    "Riktā days are specified for release.",
+    "The weapon is the object of both actions."
+   ],
+   "inference": "One should begin on nandā days and release the weapon on riktā days.",
+   "uncertainties": [
+    "Legacy hint glossed astraṃ as cloth; ritual context suggests weapon."
+   ],
+   "plain_english": "One should undertake the rite on nandā days and release the weapon on riktā days."
+  },
+  {
+   "verse": 904,
+   "rows": [
+    {
+     "surface": "upakramaḥ",
+     "gloss": "commencement",
+     "grounds": "beginning of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaumavāre",
+     "gloss": "on-tuesday",
+     "grounds": "day of Mars",
+     "morph": "m.loc.sg, compound bhauma+vāra"
+    },
+    {
+     "surface": "śanivāre",
+     "gloss": "on-saturday",
+     "grounds": "day of Saturn",
+     "morph": "m.loc.sg, compound śani+vāra"
+    },
+    {
+     "surface": "visarjanam",
+     "gloss": "release",
+     "grounds": "dismissal of the rite",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "On which weekdays should commencement and release of the rite occur?",
+   "premises": [
+    "Commencement requires a specified weekday.",
+    "Tuesday is assigned to commencement.",
+    "Saturday is assigned to release.",
+    "Release is the concluding action."
+   ],
+   "inference": "Commencement should occur on Tuesday and release on Saturday.",
+   "uncertainties": [],
+   "plain_english": "The commencement should be on Tuesday and the release on Saturday."
+  },
+  {
+   "verse": 905,
+   "rows": [
+    {
+     "surface": "sthireṣu",
+     "gloss": "in-fixed",
+     "grounds": "fixed zodiacal signs",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "rāśiṣu",
+     "gloss": "in-signs",
+     "grounds": "zodiacal signs",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ārambhaḥ",
+     "gloss": "commencement",
+     "grounds": "beginning of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "careṣu",
+     "gloss": "in-movable",
+     "grounds": "movable zodiacal signs",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjanam",
+     "gloss": "release",
+     "grounds": "dismissal of the rite",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In which zodiacal signs should commencement and release be performed?",
+   "premises": [
+    "Zodiacal signs govern ritual timing.",
+    "Fixed signs are suitable for commencement.",
+    "Movable signs are suitable for release.",
+    "Both actions require appropriate signs."
+   ],
+   "inference": "Commencement should be in fixed signs and release in movable signs.",
+   "uncertainties": [],
+   "plain_english": "The commencement should be in fixed signs and the release in movable signs."
+  },
+  {
+   "verse": 906,
+   "rows": [
+    {
+     "surface": "kṛṣṇapakṣe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "waning half of lunar month",
+     "morph": "m.loc.sg, compound kṛṣṇa+pakṣa"
+    },
+    {
+     "surface": "analenā",
+     "gloss": "by-fire",
+     "grounds": "fire as ritual agent; sandhi analena",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon",
+     "grounds": "ritual weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "visṛjet",
+     "gloss": "one-should-discharge",
+     "grounds": "release or cast forth",
+     "morph": "3.sg.act-opt √sṛj with vi"
+    },
+    {
+     "surface": "śaśinā",
+     "gloss": "by-moon",
+     "grounds": "moon as ritual agent",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "alternatively or also",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By which celestial agents should the weapon be discharged in the dark fortnight?",
+   "premises": [
+    "The dark fortnight is the specified period.",
+    "Fire can serve as the discharging agent.",
+    "The moon can serve as the discharging agent.",
+    "The weapon is to be discharged."
+   ],
+   "inference": "In the dark fortnight one should discharge the weapon by fire or again by the moon.",
+   "uncertainties": [
+    "The exact ritual sense of discharging by fire or moon is context-dependent."
+   ],
+   "plain_english": "In the dark fortnight one should discharge the weapon by means of fire, or again by means of the moon."
+  },
+  {
+   "verse": 907,
+   "rows": [
+    {
+     "surface": "bhānunā",
+     "gloss": "by-sun",
+     "grounds": "sun as ritual agent",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mokṣasaṃhārau",
+     "gloss": "release-and-destruction",
+     "grounds": "compound: mokṣa+saṃhāra; two ritual outcomes",
+     "morph": "m.acc.du, compound mokṣa+saṃhāra"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "carry out the acts",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "pakṣadvaye",
+     "gloss": "in-both-fortnights",
+     "grounds": "bright and dark halves",
+     "morph": "n.loc.sg, compound pakṣa+dvaya"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "the-wise",
+     "grounds": "skilled practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner perform release and destruction across both fortnights?",
+   "premises": [
+    "The wise practitioner performs ritual acts.",
+    "Release and destruction are the acts.",
+    "The sun is the specified agent.",
+    "Both fortnights are suitable periods."
+   ],
+   "inference": "The wise one should perform release and destruction by the sun in both fortnights.",
+   "uncertainties": [],
+   "plain_english": "The wise practitioner should perform release and destruction by means of the sun in both fortnights."
+  },
+  {
+   "verse": 908,
+   "rows": [
+    {
+     "surface": "nakṣatravṛkṣa",
+     "gloss": "lunar-mansion-trees",
+     "grounds": "trees associated with lunar mansions",
+     "morph": "m.acc.pl, compound nakṣatra+vṛkṣa"
+    },
+    {
+     "surface": "sakalān",
+     "gloss": "all",
+     "grounds": "entire set",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sādhyākhyān",
+     "gloss": "named-target",
+     "grounds": "designated by the target's name; sandhi sādhyākhyān",
+     "morph": "m.acc.pl, compound sādhya+ākhya"
+    },
+    {
+     "surface": "karmasaṃyutān",
+     "gloss": "joined-with-rites",
+     "grounds": "prepared for ritual use",
+     "morph": "m.acc.pl, compound karman+saṃyuta"
+    }
+   ],
+   "question": "Which trees should be prepared in connection with the ritual target?",
+   "premises": [
+    "Trees of lunar mansions are ritually relevant.",
+    "All such trees may be used.",
+    "They must be designated by the target's name.",
+    "They must be joined with the rites."
+   ],
+   "inference": "All lunar-mansion trees designated by the target's name and joined with the rites should be used.",
+   "uncertainties": [],
+   "plain_english": "One should use all the lunar-mansion trees designated by the target's name and prepared for the rites."
+  },
+  {
+   "verse": 909,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "make oblation into fire",
+     "morph": "3.sg.act-opt √hu"
+    },
+    {
+     "surface": "edhite",
+     "gloss": "in-kindled",
+     "grounds": "blazing or increased",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "sacrificial fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mārayet",
+     "gloss": "one-should-kill",
+     "grounds": "cause death by ritual",
+     "morph": "3.sg.act-caus-opt √mṛ"
+    },
+    {
+     "surface": "ripum",
+     "gloss": "enemy",
+     "grounds": "hostile target",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-oneself",
+     "grounds": "one's own enemy",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What ritual offering in kindled fire brings about the death of one's enemy?",
+   "premises": [
+    "Oblations are made into kindled fire.",
+    "The rite targets one's own enemy.",
+    "The ritual act aims at killing.",
+    "Proper offering effects the result."
+   ],
+   "inference": "By offering into kindled fire one should kill one's own enemy.",
+   "uncertainties": [],
+   "plain_english": "One should make offerings into the kindled fire and thereby kill one's own enemy."
+  },
+  {
+   "verse": 910,
+   "rows": [
+    {
+     "surface": "dhustūra",
+     "gloss": "dhustūra",
+     "grounds": "thorn apple plant",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "viṣavṛkṣa",
+     "gloss": "poison-tree",
+     "grounds": "toxic tree",
+     "morph": "m.stem, compound viṣa+vṛkṣa"
+    },
+    {
+     "surface": "ākhya",
+     "gloss": "named",
+     "grounds": "so called",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "bhūruhotthān",
+     "gloss": "tree-produced",
+     "grounds": "arising from trees; sandhi bhūruhotthān",
+     "morph": "m.acc.pl, compound bhūruha+uttha"
+    },
+    {
+     "surface": "samidvarān",
+     "gloss": "best-fuel-sticks",
+     "grounds": "excellent sacrificial sticks",
+     "morph": "m.acc.pl, compound samidh+vara"
+    }
+   ],
+   "question": "Which fuel sticks are specified for the hostile fire offering?",
+   "premises": [
+    "Fuel sticks are required for oblation.",
+    "Dhustūra and poison trees are named sources.",
+    "The sticks arise from such trees.",
+    "They are the best fuel sticks."
+   ],
+   "inference": "The best fuel sticks are those produced from dhustūra and other poison trees.",
+   "uncertainties": [],
+   "plain_english": "One should use the best fuel sticks produced from dhustūra and other poison trees."
+  },
+  {
+   "verse": 911,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "make oblation",
+     "morph": "3.sg.act-opt √hu"
+    },
+    {
+     "surface": "saṃyataḥ",
+     "gloss": "self-restrained",
+     "grounds": "disciplined and controlled",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "being in that state",
+     "morph": "absolutive √bhū"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "hostile target",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yamapuraṃ",
+     "gloss": "to-yama-city",
+     "grounds": "abode of death",
+     "morph": "n.acc.sg, compound yama+pura"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-go",
+     "grounds": "proceed to",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "What result follows when a restrained practitioner offers with such fuel sticks?",
+   "premises": [
+    "The practitioner must be self-restrained.",
+    "The offering is made with specified sticks.",
+    "The enemy is the target of the rite.",
+    "Yama's city signifies death."
+   ],
+   "inference": "If a self-restrained practitioner offers thus, the enemy may go to Yama's city.",
+   "uncertainties": [],
+   "plain_english": "Having become self-restrained, one should offer; then the enemy may go to the city of Yama."
+  },
+  {
+   "verse": 912,
+   "rows": [
+    {
+     "surface": "ārdravastro",
+     "gloss": "wet-garment",
+     "grounds": "wearing wet clothes",
+     "morph": "m.nom.sg, compound ārdra+vastra"
+    },
+    {
+     "surface": "vṛṣṭikāle",
+     "gloss": "in-rain-time",
+     "grounds": "during rainfall",
+     "morph": "m.loc.sg, compound vṛṣṭi+kāla"
+    },
+    {
+     "surface": "maricaiḥ",
+     "gloss": "with-peppers",
+     "grounds": "black pepper grains",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "madhunā",
+     "gloss": "with-honey",
+     "grounds": "honey as ritual substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "by-this",
+     "grounds": "by this mantra or means",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "Under what conditions and with what substances should the rite be performed?",
+   "premises": [
+    "The practitioner wears a wet garment.",
+    "The rite occurs during rainfall.",
+    "Black peppers are used as substance.",
+    "Honey and this means are employed."
+   ],
+   "inference": "Wearing a wet garment in the rainy time, one should perform the rite with peppers, honey, and this means.",
+   "uncertainties": [
+    "amunā may refer to the mantra mentioned earlier; exact referent is contextual."
+   ],
+   "plain_english": "Wearing a wet garment at the time of rain, one should act with black peppers, honey, and by this means."
+  },
+  {
+   "verse": 913,
+   "rows": [
+    {
+     "surface": "tālapatre",
+     "gloss": "on-palm-leaf",
+     "grounds": "leaf used as writing surface",
+     "morph": "n.loc.sg, compound tāla+patra"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "having-drawn",
+     "grounds": "having written or inscribed",
+     "morph": "absolutive √likh with sam+ā"
+    },
+    {
+     "surface": "śatrunāma",
+     "gloss": "enemy-name",
+     "grounds": "name of the target",
+     "morph": "n.acc.sg, compound śatru+nāman"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "following prescribed method",
+     "morph": "(indecl.), compound yathā+vidhi"
+    }
+   ],
+   "question": "How should the enemy's name be inscribed for the ritual procedure?",
+   "premises": [
+    "A palm leaf serves as the surface.",
+    "The enemy's name must be inscribed.",
+    "The inscription follows prescribed rules.",
+    "Proper inscription prepares the rite."
+   ],
+   "inference": "One should inscribe the enemy's name on a palm leaf according to rule.",
+   "uncertainties": [],
+   "plain_english": "Having inscribed the enemy's name on a palm leaf according to rule."
+  },
+  {
+   "verse": 914,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "make oblation",
+     "morph": "3.sg.act-opt √hu"
+    },
+    {
+     "surface": "maricaiḥ",
+     "gloss": "with-peppers",
+     "grounds": "black pepper grains",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kruddhaḥ",
+     "gloss": "angry",
+     "grounds": "ritually wrathful",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jvarākrāntaḥ",
+     "gloss": "fever-seized",
+     "grounds": "afflicted by fever",
+     "morph": "m.nom.sg, compound jvara+ākrānta"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the targeted enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.mid-pres √jan"
+    }
+   ],
+   "question": "What affliction befalls the enemy when an angry practitioner offers with peppers?",
+   "premises": [
+    "The practitioner offers while angry.",
+    "Black peppers are the oblation substance.",
+    "The rite targets the enemy.",
+    "Fever is the resulting affliction."
+   ],
+   "inference": "When one angrily offers with peppers, the enemy becomes seized by fever.",
+   "uncertainties": [],
+   "plain_english": "One should angrily offer with black peppers; then he becomes afflicted with fever."
+  },
+  {
+   "verse": 915,
+   "rows": [
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-pounded",
+     "grounds": "having ground into paste",
+     "morph": "absolutive √piṣ"
+    },
+    {
+     "surface": "apāmārgabījāni",
+     "gloss": "apāmārga-seeds",
+     "grounds": "seeds of Achyranthes aspera",
+     "morph": "n.acc.pl, compound apāmārga+bīja"
+    },
+    {
+     "surface": "maricam",
+     "gloss": "black-pepper",
+     "grounds": "pepper as ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhusaṃyutam",
+     "gloss": "mixed-with-honey",
+     "grounds": "combined with honey",
+     "morph": "n.acc.sg, compound madhu+saṃyuta"
+    }
+   ],
+   "question": "Which ingredients must be pounded together for the fever-inducing preparation?",
+   "premises": [
+    "Apāmārga seeds are required.",
+    "Black pepper is required.",
+    "Honey is mixed with them.",
+    "The ingredients are pounded together."
+   ],
+   "inference": "One should pound apāmārga seeds and black pepper mixed with honey.",
+   "uncertainties": [],
+   "plain_english": "Having pounded apāmārga seeds and black pepper mixed with honey."
+  },
+  {
+   "verse": 916,
+   "rows": [
+    {
+     "surface": "ṛkṣavṛkṣa",
+     "gloss": "lunar-mansion-tree",
+     "grounds": "tree associated with a lunar mansion",
+     "morph": "m.stem, compound ṛkṣa+vṛkṣa"
+    },
+    {
+     "surface": "pratikṛteḥ",
+     "gloss": "of-image",
+     "grounds": "effigy of the target",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "heart region of effigy",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vadane",
+     "gloss": "in-face",
+     "grounds": "face region of effigy",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nasi",
+     "gloss": "in-nostril",
+     "grounds": "nostril of effigy",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where on the lunar-mansion-tree effigy should the preparation be applied?",
+   "premises": [
+    "An effigy is made from a lunar-mansion tree.",
+    "The heart is a target location.",
+    "The face is a target location.",
+    "The nostril is a target location."
+   ],
+   "inference": "The preparation should be applied to the heart, face, and nostril of the lunar-mansion-tree effigy.",
+   "uncertainties": [],
+   "plain_english": "On the heart, face, and nostril of an image made from a lunar-mansion tree."
+  },
+  {
+   "verse": 917,
+   "rows": [
+    {
+     "surface": "āgneyam",
+     "gloss": "fire-related",
+     "grounds": "mantra of the fire deity or fire nature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "one-should-utter",
+     "grounds": "recite or pronounce",
+     "morph": "3.sg.act-opt √car with ud"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the targeted enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "without-delay",
+     "grounds": "quickly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jvaritaḥ",
+     "gloss": "fevered",
+     "grounds": "afflicted with fever",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "comes to be",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What mantra recitation causes the target to become fevered without delay?",
+   "premises": [
+    "A fire-related mantra is specified.",
+    "The mantra must be uttered.",
+    "The target is the enemy.",
+    "Fever arises quickly as the result."
+   ],
+   "inference": "By uttering the fire-related mantra, the target quickly becomes fevered.",
+   "uncertainties": [],
+   "plain_english": "One should utter the fire-related mantra; then he quickly becomes fevered."
+  },
+  {
+   "verse": 918,
+   "rows": [
+    {
+     "surface": "tīkṣṇasnehena",
+     "gloss": "with-sharp-oil",
+     "grounds": "pungent or potent oil",
+     "morph": "m.ins.sg, compound tīkṣṇa+sneha"
+    },
+    {
+     "surface": "saṃlliptām",
+     "gloss": "anointed",
+     "grounds": "smeared thoroughly; sandhi saṃliptām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "belonging to the enemy",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratikṛtim",
+     "gloss": "image",
+     "grounds": "effigy of the target",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "during nighttime",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "How and when should the enemy's effigy be prepared with sharp oil?",
+   "premises": [
+    "The enemy's effigy is the object.",
+    "Sharp oil is used for anointing.",
+    "The effigy must be thoroughly smeared.",
+    "The action is performed at night."
+   ],
+   "inference": "At night one should anoint the enemy's effigy with sharp oil.",
+   "uncertainties": [],
+   "plain_english": "At night, one should anoint the enemy's image with sharp oil."
+  },
+  {
+   "verse": 919,
+   "rows": [
+    {
+     "surface": "jvareṇa",
+     "gloss": "by-fever",
+     "grounds": "fever as affliction",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bādhyate",
+     "gloss": "is-oppressed",
+     "grounds": "is tormented",
+     "morph": "3.sg.pass-pres √bādh"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "at once",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homāt",
+     "gloss": "from-offering",
+     "grounds": "as result of fire oblation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "of this enemy",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mṛtiḥ",
+     "gloss": "death",
+     "grounds": "demise",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "may occur",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What immediate harm and possible death result from the fire offering against the effigy?",
+   "premises": [
+    "The target is oppressed by fever immediately.",
+    "A fire offering is performed.",
+    "The offering intensifies the rite's effect.",
+    "Death may result for the target."
+   ],
+   "inference": "The target is immediately oppressed by fever, and from the offering death may occur.",
+   "uncertainties": [],
+   "plain_english": "He is immediately oppressed by fever, and from the offering his death may occur."
+  },
+  {
+   "verse": 920,
+   "rows": [
+    {
+     "surface": "kvathite",
+     "gloss": "in-boiled",
+     "grounds": "in boiling liquid",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puttalīm",
+     "gloss": "puppet",
+     "grounds": "small effigy or doll",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sādhya",
+     "gloss": "target",
+     "grounds": "the intended victim",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "nakṣatratarunirmitām",
+     "gloss": "made-of-lunar-mansion-tree",
+     "grounds": "fashioned from the target's lunar-mansion tree",
+     "morph": "f.acc.sg, compound nakṣatra+taru+nirmita"
+    }
+   ],
+   "question": "What kind of effigy should be placed in the boiled liquid for the rite?",
+   "premises": [
+    "The rite uses boiled liquid.",
+    "A puppet effigy is required.",
+    "The effigy represents the target.",
+    "It must be made from the target's lunar-mansion tree."
+   ],
+   "inference": "A puppet of the target made from the lunar-mansion tree should be placed in the boiled liquid.",
+   "uncertainties": [],
+   "plain_english": "One should place in the boiled liquid a puppet of the target made from the lunar-mansion tree."
+  },
+  {
+   "verse": 921,
+   "rows": [
+    {
+     "surface": "tac",
+     "gloss": "of-that",
+     "grounds": "of that effigy; sandhi tat",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śiras",
+     "gloss": "head",
+     "grounds": "head of the effigy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāḍanam",
+     "gloss": "striking",
+     "grounds": "beating or hitting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "perform the action",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mutter the mantra",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "astram",
+     "gloss": "weapon-mantra",
+     "grounds": "astra formula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vilomataḥ",
+     "gloss": "in-reverse",
+     "grounds": "in inverted order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions should be performed on the effigy while reciting the weapon mantra in reverse?",
+   "premises": [
+    "The effigy has a head to be struck.",
+    "Striking is the prescribed action.",
+    "The weapon mantra must be recited.",
+    "The recitation is done in reverse order."
+   ],
+   "inference": "One should strike the effigy's head and recite the weapon mantra in reverse.",
+   "uncertainties": [],
+   "plain_english": "One should strike its head and recite the weapon mantra in reverse order."
+  },
+  {
+   "verse": 922,
+   "rows": [
+    {
+     "surface": "ādityaratha",
+     "gloss": "sun-chariot",
+     "grounds": "chariot of the sun",
+     "morph": "m.stem, compound āditya+ratha"
+    },
+    {
+     "surface": "nāga",
+     "gloss": "nāga",
+     "grounds": "serpent",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "indra",
+     "gloss": "indra",
+     "grounds": "lord or chief",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "grasta",
+     "gloss": "seized",
+     "grounds": "swallowed or grasped",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "kṛta",
+     "gloss": "made",
+     "grounds": "rendered or caused",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "viṣāhatam",
+     "gloss": "poison-struck",
+     "grounds": "smitten by poison",
+     "morph": "m.acc.sg, compound viṣa+āhata"
+    }
+   ],
+   "question": "How should the enemy be visualized as struck by poison in the solar context?",
+   "premises": [
+    "The visualization involves the sun's chariot.",
+    "A chief nāga is part of the image.",
+    "The enemy is seized in this image.",
+    "The enemy is made poison-struck."
+   ],
+   "inference": "One should visualize the enemy as seized by the chief nāga of the sun's chariot and struck by poison.",
+   "uncertainties": [
+    "The compound chain is dense; exact mythic referent may vary by tradition."
+   ],
+   "plain_english": "One should visualize him as seized by the chief nāga of the sun's chariot and struck by poison."
+  },
+  {
+   "verse": 923,
+   "rows": [
+    {
+     "surface": "adhomukham",
+     "gloss": "face-downward",
+     "grounds": "with face turned down",
+     "morph": "m.acc.sg, compound adhas+mukha"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "one's own",
+     "morph": "m.stem, compound member"
+    },
+    {
+     "surface": "ripum",
+     "gloss": "enemy",
+     "grounds": "hostile target",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "having visualized",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "kvāthitavariṇā",
+     "gloss": "by-boiled-water",
+     "grounds": "with boiling water",
+     "morph": "n.ins.sg, compound kvāthita+vari"
+    }
+   ],
+   "question": "In what posture should one visualize one's own enemy while using boiled water?",
+   "premises": [
+    "The enemy is the object of meditation.",
+    "The enemy is visualized face downward.",
+    "Boiled water is used in the rite.",
+    "Visualization accompanies the action."
+   ],
+   "inference": "Having visualized one's own enemy face downward, one should act with boiled water.",
+   "uncertainties": [],
+   "plain_english": "Having visualized one's own enemy face downward, one should use boiled water."
+  },
+  {
+   "verse": 924,
+   "rows": [
+    {
+     "surface": "bibhrantīm",
+     "gloss": "bearing",
+     "grounds": "carrying or holding",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "musalam",
+     "gloss": "mace",
+     "grounds": "club weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūlam",
+     "gloss": "spear",
+     "grounds": "trident or spike",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "one should visualize",
+     "morph": "3.sg.act-opt √dhyai"
+    },
+    {
+     "surface": "kālaghanaprabhām",
+     "gloss": "dark-cloud-radiance",
+     "grounds": "having the luster of a dark rain cloud",
+     "morph": "f.acc.sg, compound kāla+ghana+prabhā"
+    }
+   ],
+   "question": "What fearsome form bearing weapons should be visualized in this destructive rite?",
+   "premises": [
+    "A form bearing a mace is visualized.",
+    "The same form bears a spear.",
+    "The form has dark-cloud radiance.",
+    "Meditation on this form supports the rite."
+   ],
+   "inference": "One should visualize a dark-cloud-radiant form bearing a mace and a spear.",
+   "uncertainties": [
+    "The subject of bibhrantīm is implied from context, likely a fierce deity or power."
+   ],
+   "plain_english": "One should visualize a form with the radiance of a dark cloud, bearing a mace and a spear."
+  }
+ ]
+}

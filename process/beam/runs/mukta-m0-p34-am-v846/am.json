@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p34",
  "verse": 846,
- "question": "What facial features of brows, nose, cheeks, and lips are described for this face?",
+ "question": "What secrecy rule must be observed by one who desires perfect success with this practice?",
  "premises": [
-  "The face is described as without brows.",
-  "The face has a high nose.",
-  "The face has beautiful cheeks and smiling lips."
+  "The practitioner desires perfect success.",
+  "The matter is to be kept secret.",
+  "Uttering it even by name is prohibited."
  ],
- "inference": "The described face lacks brows, has a high nose, and has beautiful cheeks with smiling lips.",
- "uncertainties": [],
- "plain_english": "It is without brows, has a high nose, and has beautiful cheeks with smiling lips."
+ "inference": "One who desires perfect success must keep it secret and should not utter it even by name.",
+ "uncertainties": [
+  "The exact referent kept secret is implied by context rather than named in this verse."
+ ],
+ "plain_english": "One who desires perfect success should keep it secret and not utter it even by name."
 }

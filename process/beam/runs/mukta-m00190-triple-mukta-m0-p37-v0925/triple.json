@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of root hu, indicating a completed oblation preceding the main act",
+     "morph": "gerund (hu)"
+    },
+    {
+     "surface": "vidveṣayet",
+     "gloss": "should-cause-enmity",
+     "grounds": "causative optative expressing the ritual injunction to produce hostility",
+     "morph": "3.sg.opt.act-caus (vi-dviṣ)"
+    },
+    {
+     "surface": "śatrūn",
+     "gloss": "enemies",
+     "grounds": "direct object of the enmity-causing act",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "instrument specifying the operative means of the rite",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "demonstrative qualifying the mantra as the one given in context",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "the-teacher",
+     "grounds": "agent who performs the prescribed ritual act",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what ritual act and means does the teacher incite enmity among enemies?",
+   "premises": [
+    "The teacher performs an oblation as part of the prescribed rite.",
+    "The teacher employs this specific mantra as the operative instrument.",
+    "The intended effect of the rite is to cause enmity among enemies."
+   ],
+   "inference": "Through oblation performed with this mantra, the teacher effects enmity among enemies.",
+   "uncertainties": [],
+   "plain_english": "Having made the oblation, the teacher should cause enmity among enemies by means of this mantra."
+  }
+ ]
+}
