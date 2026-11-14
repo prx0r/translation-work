@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2141,
- "question": "Which locations are especially recommended for performing the practice?",
+ "question": "What is the meaning of per-face and ten-armed together?",
  "premises": [
-  "An empty house is mentioned",
-  "A cremation ground is mentioned",
-  "A solitary place is especially recommended"
+  "Per-face gives the meaning.",
+  "Ten-armed is included.",
+  "Together indicates the remainder."
  ],
- "inference": "The practice is especially recommended in an empty house, a cremation ground, or a solitary place",
- "uncertainties": [],
- "plain_english": "Especially in an empty house, in a cremation ground, and in a solitary place."
+ "inference": "The meaning is per-face, with ten-armed together as the remainder.",
+ "uncertainties": [
+  "The exact face count is not stated here."
+ ],
+ "plain_english": "The meaning is per face; ten-armed together is the remainder."
 }

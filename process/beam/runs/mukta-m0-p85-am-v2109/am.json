@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2109,
- "question": "Which divine epithets are invoked in the salutation to Ananta?",
+ "question": "When is the offering not declared and when is it pleasure-giving?",
  "premises": [
-  "The salutation is addressed to Ananta",
-  "Ananta is called husband of Lakṣmī",
-  "Ananta is called supreme person"
+  "not-offering is declared",
+  "of these is genitive",
+  "when condition is named",
+  "pleasure-giving is named"
  ],
- "inference": "The worshipper salutes Ananta as Lakṣmī's husband and the supreme person.",
- "uncertainties": [],
- "plain_english": "O husband of Lakṣmī, salutation to you, O Ananta, O supreme person."
+ "inference": "two conditions are contrasted",
+ "uncertainties": [
+  "exact ritual condition"
+ ],
+ "plain_english": "Not offering is declared for these; when it is pleasure-giving for these."
 }

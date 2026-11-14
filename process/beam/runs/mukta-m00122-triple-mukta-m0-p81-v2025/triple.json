@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "savaṃdanaṃ",
+     "gloss": "with-reverence",
+     "grounds": "sa-vandanam fused; reverence included",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saviśvāsaṃ",
+     "gloss": "with-faith",
+     "grounds": "sa-viśvāsam fused; faith included",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalatyeva",
+     "gloss": "it-fructifies-indeed",
+     "grounds": "phalati + eva fused; verb plus emphatic particle",
+     "morph": "3.sg.act-pres + (indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb of alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "repeated for emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does a rite performed with reverence and faith bear fruit while otherwise it fails?",
+   "premises": [
+    "reverence accompanies the practice",
+    "faith accompanies the practice",
+    "fruit follows only then",
+    "otherwise no fruit"
+   ],
+   "inference": "Reverence and faith are necessary conditions for fructification.",
+   "uncertainties": [
+    "exact scope of the repeated anyathā is not fully explicit"
+   ],
+   "plain_english": "With reverence and faith it bears fruit; otherwise, it does not."
+  }
+ ]
+}

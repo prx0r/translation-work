@@ -1,0 +1,563 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "vātena",
+     "gloss": "by-wind",
+     "grounds": "wind instrument",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carasvābhyāṃ",
+     "gloss": "by-movement",
+     "grounds": "movement instrument dual",
+     "morph": "n.instr.du"
+    },
+    {
+     "surface": "dvitīyam",
+     "gloss": "second",
+     "grounds": "second ordinal",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "How is the second rite performed by wind and movement for Pārvatī?",
+   "premises": [
+    "wind and movement are instruments",
+    "the second rite is specified",
+    "Pārvatī is addressed"
+   ],
+   "inference": "The verse prescribes a second rite using wind and movement for Pārvatī.",
+   "uncertainties": [
+    "carasvābhyāṃ exact derivation"
+   ],
+   "plain_english": "By wind and by movement, the second rite too, O Pārvatī."
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trivarṇā",
+     "gloss": "three-lettered",
+     "grounds": "three letters",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "mantra knowledge",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "rite",
+     "grounds": "procedure",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "passive present",
+     "morph": "verb.3.sg.pass-pres root kath"
+    }
+   ],
+   "question": "How is the three-lettered vidyā and its rite then told?",
+   "premises": [
+    "the vidyā is three-lettered",
+    "its rite is named",
+    "the telling follows"
+   ],
+   "inference": "The verse states that the three-lettered vidyā and its rite are then told.",
+   "uncertainties": [
+    "trivarṇā exact letters"
+   ],
+   "plain_english": "Thus the three-lettered vidyā and its rite are then told."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root kṛ"
+    },
+    {
+     "surface": "karāṅgayoḥ",
+     "gloss": "of-hands-limbs",
+     "grounds": "genitive dual",
+     "morph": "n.gen.du.n"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root dhyai"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "accusative",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done with hands and limbs before meditating on her?",
+   "premises": [
+    "hands and limbs are specified",
+    "meditation on her follows",
+    "the order is given"
+   ],
+   "inference": "The verse instructs doing as before with hands and limbs, then meditating on her.",
+   "uncertainties": [
+    "karāṅgayoḥ exact scope"
+   ],
+   "plain_english": "One should do as before with hands and limbs, and then meditate on her."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "caturbhujāṃ",
+     "gloss": "four-armed",
+     "grounds": "four arms",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "trinayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "three eyes",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "prasannasmeravaktrakām",
+     "gloss": "pleasant-smiling-faced",
+     "grounds": "pleasant smiling face",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What form does the meditated goddess take in these verses?",
+   "premises": [
+    "she is four-armed",
+    "she is three-eyed",
+    "her face is pleasant and smiling"
+   ],
+   "inference": "The goddess is visualized as four-armed, three-eyed, and pleasant-smiling-faced.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Four-armed, three-eyed, with a pleasant smiling face."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "trikoṇe",
+     "gloss": "in-triangle",
+     "grounds": "locative triangle",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "svastikāsīnāṃ",
+     "gloss": "svastika-seated",
+     "grounds": "svastika seat",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "karuṇānandamandirām",
+     "gloss": "compassion-bliss-abode",
+     "grounds": "abode of compassion and bliss",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where and in what posture is the goddess seated?",
+   "premises": [
+    "she is in a triangle",
+    "she is svastika-seated",
+    "she is an abode of compassion and bliss"
+   ],
+   "inference": "The goddess is seated in svastika posture within a triangle as an abode of compassion and bliss.",
+   "uncertainties": [
+    "trikoṇe exact diagram"
+   ],
+   "plain_english": "In a triangle, svastika-seated, an abode of compassion and bliss."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "pustakaṃ",
+     "gloss": "book",
+     "grounds": "object held",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "object held",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hastair",
+     "gloss": "hands",
+     "grounds": "instrumental hands",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "dadhānāṃ",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "sarvamaṅgalām",
+     "gloss": "all-auspicious",
+     "grounds": "all auspicious",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What does the goddess hold in her hands?",
+   "premises": [
+    "she holds a book",
+    "she holds a boon",
+    "her hands are specified"
+   ],
+   "inference": "The goddess holds a book and a boon in her hands and is all-auspicious.",
+   "uncertainties": [
+    "number of hands"
+   ],
+   "plain_english": "Holding a book and a boon in her hands, all-auspicious."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "kulāsane",
+     "gloss": "in-kula-seat",
+     "grounds": "locative seat",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "halakṣārṇamadhye",
+     "gloss": "h-lakṣa-letters-middle",
+     "grounds": "middle of h-lakṣa letters",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tadvidyayānvite",
+     "gloss": "with-that-vidyā",
+     "grounds": "endowed with that vidyā",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "Where is the vidyā placed among the letters?",
+   "premises": [
+    "it is in the kula seat",
+    "it is in the middle of h-lakṣa letters",
+    "it is endowed with that vidyā"
+   ],
+   "inference": "The vidyā is placed in the kula seat, in the middle of the h-lakṣa letters, endowed with that vidyā.",
+   "uncertainties": [
+    "halakṣārṇa exact set"
+   ],
+   "plain_english": "In the kula seat, in the middle of the h-lakṣa letters, endowed with that vidyā."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "dakṣiṇordhvādi",
+     "gloss": "right-upward-etc",
+     "grounds": "right upward etc",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmādharāntaṃ",
+     "gloss": "left-downward-end",
+     "grounds": "left downward end",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dhāryāṇi",
+     "gloss": "to-be-held",
+     "grounds": "gerundive",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "pārśvakrameṇa",
+     "gloss": "side-order",
+     "grounds": "side order",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root kalp"
+    }
+   ],
+   "question": "How should the held items be arranged from right to left?",
+   "premises": [
+    "right upward is the start",
+    "left downward is the end",
+    "arrangement is by side order"
+   ],
+   "inference": "The items to be held should be arranged from right upward to left downward in side order.",
+   "uncertainties": [
+    "exact items"
+   ],
+   "plain_english": "From right upward to left downward, the items to be held should be arranged in side order."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative middle",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "trikoṇakoṇeṣu",
+     "gloss": "triangle-corners",
+     "grounds": "locative plural corners",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "ratiprītimanobhavān",
+     "gloss": "rati-prīti-manobhava",
+     "grounds": "rati prīti manobhava",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "What is placed in the middle and triangle corners?",
+   "premises": [
+    "the middle is specified",
+    "triangle corners are specified",
+    "rati prīti and manobhava are named"
+   ],
+   "inference": "Rati, prīti, and manobhava are placed in the middle and triangle corners.",
+   "uncertainties": [
+    "exact placement distribution"
+   ],
+   "plain_english": "In the middle and triangle corners: rati, prīti, and manobhava."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "caturasre",
+     "gloss": "in-square",
+     "grounds": "locative square",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "lokapālān",
+     "gloss": "world-guardians",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root arc"
+    }
+   ],
+   "question": "What should be worshipped in the square as before?",
+   "premises": [
+    "the square is specified",
+    "world guardians are named",
+    "powers are named"
+   ],
+   "inference": "In the square, world guardians and powers should be worshipped as before.",
+   "uncertainties": [
+    "exact guardian list"
+   ],
+   "plain_english": "In the square, world guardians and powers should be worshipped as before."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "balidvayaṃ",
+     "gloss": "two-offerings",
+     "grounds": "two offerings",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "homa",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "neuter accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samunnayet",
+     "gloss": "should-raise",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root unnī"
+    }
+   ],
+   "question": "What offerings and homa should be raised as before?",
+   "premises": [
+    "two offerings are named",
+    "homa is named",
+    "other items are raised"
+   ],
+   "inference": "Two offerings and homa, along with other items, should be raised as before.",
+   "uncertainties": [
+    "anyat scope"
+   ],
+   "plain_english": "Two offerings and homa, and other items, should be raised as before."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "brāhmīrasavacādugdhe",
+     "gloss": "brāhmī-rasa-vacā-milk",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "śṛtaṃ",
+     "gloss": "boiled",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sarpis",
+     "gloss": "ghee",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tribhirdinaiḥ",
+     "gloss": "three-days",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl.n"
+    }
+   ],
+   "question": "How is ghee prepared with brāhmī rasa vacā and milk?",
+   "premises": [
+    "brāhmī rasa vacā and milk are named",
+    "ghee is boiled",
+    "three days are specified"
+   ],
+   "inference": "Ghee is boiled with brāhmī rasa, vacā, and milk over three days.",
+   "uncertainties": [
+    "exact preparation"
+   ],
+   "plain_english": "Ghee boiled with brāhmī rasa, vacā, and milk for three days."
+  }
+ ]
+}

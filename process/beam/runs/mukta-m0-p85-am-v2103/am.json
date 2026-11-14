@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2103,
- "question": "What ritual reward follows from bathing and beholding the goddess?",
+ "question": "What is the meaning of cutting the serpent's hood and using it with srug?",
  "premises": [
-  "One should bathe first",
-  "One should behold the goddess",
-  "A specific sacrificial fruit is attainable"
+  "serpent hood is cut",
+  "srug-gone is used",
+  "that hood is used"
  ],
- "inference": "By bathing and beholding the goddess, one obtains the fruit of the Agniṣṭoma.",
- "uncertainties": [],
- "plain_english": "Having bathed, one should behold the goddess and obtain the fruit of the Agniṣṭoma sacrifice."
+ "inference": "the verse gives the meaning",
+ "uncertainties": [
+  "technical ritual sense"
+ ],
+ "plain_english": "Cutting the serpent's hood and using it with srug gives that meaning."
 }

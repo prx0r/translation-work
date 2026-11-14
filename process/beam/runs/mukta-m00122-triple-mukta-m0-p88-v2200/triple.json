@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "remainder of the vidyās after the dvādaśārṇā vidyā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhā",
+     "gloss": "accomplished",
+     "grounds": "feminine nominative singular agreeing with vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverbial comparison to the prior pattern",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "repeated closing remainder",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which remainder of the vidyās is accomplished as before?",
+   "premises": [
+    "remainder of vidyās remains",
+    "accomplishment follows prior pattern",
+    "second remainder closes list"
+   ],
+   "inference": "The remaining vidyās are accomplished as before.",
+   "uncertainties": [
+    "exact referent of each remainder is unclear"
+   ],
+   "plain_english": "The remainder is accomplished as before; the remainder."
+  }
+ ]
+}

@@ -1,0 +1,1096 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2101,
+   "rows": [
+    {
+     "surface": "ekāśītipadāni",
+     "gloss": "eighty-one-padas",
+     "grounds": "compound count",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+as"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "koṇacatuṣṭaye",
+     "gloss": "corner-fourfold",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How are eighty-one padas distributed in the four corners?",
+   "premises": [
+    "eighty-one padas exist",
+    "they are in four corners"
+   ],
+   "inference": "the verse states their placement",
+   "uncertainties": [
+    "exact geometric sense"
+   ],
+   "plain_english": "Eighty-one padas are in the four corners."
+  },
+  {
+   "verse": 2102,
+   "rows": [
+    {
+     "surface": "caturdikṣu",
+     "gloss": "four-directions",
+     "grounds": "locative",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "trikoṇāni",
+     "gloss": "triangles",
+     "grounds": "plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "catuḥkoṣṭhaiḥ",
+     "gloss": "with-four-cells",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt+kr"
+    }
+   ],
+   "question": "How should triangles and four-celled arrangements be placed in the four directions?",
+   "premises": [
+    "four directions are named",
+    "triangles are placed",
+    "four cells are used"
+   ],
+   "inference": "arrangement is prescribed",
+   "uncertainties": [
+    "ritual geometry"
+   ],
+   "plain_english": "In the four directions arrange triangles with four cells."
+  },
+  {
+   "verse": 2103,
+   "rows": [
+    {
+     "surface": "bhujaṅgamasya",
+     "gloss": "serpent's",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "phaṇaṃ",
+     "gloss": "hood",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chitvā",
+     "gloss": "having-cut",
+     "grounds": "absolutive",
+     "morph": "abs+chid"
+    },
+    {
+     "surface": "sruggatena",
+     "gloss": "with-srug-gone",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tena phaṇena",
+     "gloss": "with-that-hood",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of cutting the serpent's hood and using it with srug?",
+   "premises": [
+    "serpent hood is cut",
+    "srug-gone is used",
+    "that hood is used"
+   ],
+   "inference": "the verse gives the meaning",
+   "uncertainties": [
+    "technical ritual sense"
+   ],
+   "plain_english": "Cutting the serpent's hood and using it with srug gives that meaning."
+  },
+  {
+   "verse": 2104,
+   "rows": [
+    {
+     "surface": "rahasyārthaḥ",
+     "gloss": "secret-meaning",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svagurumukhāt",
+     "gloss": "from-own-guru's-mouth",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "evāvagantavyaḥ",
+     "gloss": "to-be-understood",
+     "grounds": "gerundive",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "From whom must the secret meaning be understood?",
+   "premises": [
+    "secret meaning exists",
+    "it is from own guru's mouth",
+    "it is to be understood"
+   ],
+   "inference": "guru transmission is required",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The secret meaning is to be understood from one's own guru's mouth."
+  },
+  {
+   "verse": 2105,
+   "rows": [
+    {
+     "surface": "śiṣṭeṣu",
+     "gloss": "remaining",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "madhyādhaḥkoṣṭham",
+     "gloss": "middle-lower-cell",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive",
+     "morph": "abs+rabh"
+    },
+    {
+     "surface": "pratilomajān",
+     "gloss": "reverse-born",
+     "grounds": "accusative",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Where does the reverse-born sequence begin among the remaining cells?",
+   "premises": [
+    "remaining cells are named",
+    "middle-lower cell is starting point",
+    "reverse-born are produced"
+   ],
+   "inference": "sequence begins there",
+   "uncertainties": [
+    "exact cell order"
+   ],
+   "plain_english": "Beginning from the middle-lower cell among the remaining, produce the reverse-born."
+  },
+  {
+   "verse": 2106,
+   "rows": [
+    {
+     "surface": "sādhyayonyasṛjā",
+     "gloss": "with-sādhya-yoni-sṛjā",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "piṣṭa",
+     "gloss": "ground",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvṛkṣakṣoda",
+     "gloss": "that-tree-powder",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lepitān",
+     "gloss": "smeared",
+     "grounds": "participle",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What materials are ground and smeared in this rite?",
+   "premises": [
+    "sādhya-yoni-sṛjā is used",
+    "ground substance is named",
+    "tree powder is used",
+    "smeared ones are named"
+   ],
+   "inference": "materials are specified",
+   "uncertainties": [
+    "exact ritual use"
+   ],
+   "plain_english": "Ground with sādhya-yoni-sṛjā and smeared with that tree powder."
+  },
+  {
+   "verse": 2107,
+   "rows": [
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caṇḍikāgehe",
+     "gloss": "in-Caṇḍikā-house",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kulotsādakaraṃ",
+     "gloss": "clan-destroying",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt+bhu"
+    }
+   ],
+   "question": "Where does this rite become clan-destroying?",
+   "premises": [
+    "cremation ground is named",
+    "Caṇḍikā house is named",
+    "clan-destroying result is named"
+   ],
+   "inference": "location determines destructive result",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "In the cremation ground or Caṇḍikā house it becomes clan-destroying."
+  },
+  {
+   "verse": 2108,
+   "rows": [
+    {
+     "surface": "anugrahaṃ",
+     "gloss": "favor",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp+śru"
+    },
+    {
+     "surface": "prājñe",
+     "gloss": "O-wise",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "pūjācakravidhānataḥ",
+     "gloss": "from-pūjā-circle-rite",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what rite is favor to be heard by the wise?",
+   "premises": [
+    "favor is named",
+    "wise one is addressed",
+    "pūjā-circle rite is source"
+   ],
+   "inference": "favor comes from that rite",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Hear the favor, O wise one, from the pūjā-circle rite."
+  },
+  {
+   "verse": 2109,
+   "rows": [
+    {
+     "surface": "navedyam",
+     "gloss": "not-offering",
+     "grounds": "negated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āsāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "samproktaṃ",
+     "gloss": "well-declared",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prītidāyakam",
+     "gloss": "pleasure-giving",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "When is the offering not declared and when is it pleasure-giving?",
+   "premises": [
+    "not-offering is declared",
+    "of these is genitive",
+    "when condition is named",
+    "pleasure-giving is named"
+   ],
+   "inference": "two conditions are contrasted",
+   "uncertainties": [
+    "exact ritual condition"
+   ],
+   "plain_english": "Not offering is declared for these; when it is pleasure-giving for these."
+  },
+  {
+   "verse": 2110,
+   "rows": [
+    {
+     "surface": "haridrānnaṃ",
+     "gloss": "turmeric-rice",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tilānnaṃ",
+     "gloss": "sesame-rice",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhānnaṃ",
+     "gloss": "pure-rice",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭakam",
+     "gloss": "sixfold",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which rice offerings are named as sixfold?",
+   "premises": [
+    "turmeric rice is named",
+    "sesame rice is named",
+    "pure rice is named",
+    "sixfold is named"
+   ],
+   "inference": "rice offerings are enumerated",
+   "uncertainties": [
+    "exact six items"
+   ],
+   "plain_english": "Turmeric rice, sesame rice, and pure rice are sixfold indeed."
+  },
+  {
+   "verse": 2111,
+   "rows": [
+    {
+     "surface": "yuvatīḥ",
+     "gloss": "maidens",
+     "grounds": "accusative",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive",
+     "morph": "abs+sthā"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "worshipping",
+     "grounds": "absolutive",
+     "morph": "abs+arc"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "them",
+     "grounds": "pronoun",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How are seven maidens established and worshipped?",
+   "premises": [
+    "seven maidens are named",
+    "they are established",
+    "they are worshipped",
+    "in order is named"
+   ],
+   "inference": "ordered worship is prescribed",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Establish seven maidens, worship them as before, in order."
+  },
+  {
+   "verse": 2112,
+   "rows": [
+    {
+     "surface": "tāsu tuṣṭāsu",
+     "gloss": "when-they-pleased",
+     "grounds": "locative absolute",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "tuṣṭāḥ",
+     "gloss": "pleased",
+     "grounds": "participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.pl.act-opt+as"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "samāḥ",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when the maidens are pleased?",
+   "premises": [
+    "when they are pleased",
+    "powers would be pleased",
+    "those powers are equal",
+    "then is named"
+   ],
+   "inference": "pleasure of maidens equals powers",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "When they are pleased, the powers would be pleased and equal then."
+  },
+  {
+   "verse": 2113,
+   "rows": [
+    {
+     "surface": "kūṭānuktasamārambhān",
+     "gloss": "unspoken-kūṭa-beginnings",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prādakṣiṇyena",
+     "gloss": "clockwise",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sallikhet",
+     "gloss": "well-draw",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt+likh"
+    }
+   ],
+   "question": "How should unspoken kūṭa beginnings be drawn?",
+   "premises": [
+    "unspoken kūṭa beginnings are named",
+    "clockwise is named",
+    "well-draw is prescribed"
+   ],
+   "inference": "clockwise drawing is required",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Draw the unspoken kūṭa beginnings clockwise."
+  },
+  {
+   "verse": 2114,
+   "rows": [
+    {
+     "surface": "proktāni",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "nominative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.pl.act-opt+as"
+    },
+    {
+     "surface": "yogo'yaṃ",
+     "gloss": "this-yoga",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "laghuvigrahaḥ",
+     "gloss": "light-embodiment",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fruits and yoga are declared here?",
+   "premises": [
+    "declared fruits are named",
+    "would-be is named",
+    "this yoga is named",
+    "light embodiment is named"
+   ],
+   "inference": "declared fruits belong to this yoga",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The declared fruits would be; this yoga is light-embodiment."
+  },
+  {
+   "verse": 2115,
+   "rows": [
+    {
+     "surface": "bījadvayādyaiḥ",
+     "gloss": "with-two-seeds-etc",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saptākṣaryantaiḥ",
+     "gloss": "ending-in-seven-syllables",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pañcadaśākṣaraiḥ",
+     "gloss": "fifteen-syllables",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What syllable counts are used with the two seeds?",
+   "premises": [
+    "two seeds etc are named",
+    "ending in seven syllables is named",
+    "fifteen syllables is named"
+   ],
+   "inference": "syllable counts are specified",
+   "uncertainties": [
+    "exact mantra construction"
+   ],
+   "plain_english": "With two seeds etc, ending in seven syllables, fifteen syllables."
+  },
+  {
+   "verse": 2116,
+   "rows": [
+    {
+     "surface": "dineṣu",
+     "gloss": "in-days",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ghaṭikāyogāt",
+     "gloss": "by-ghaṭikā-union",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pañcāśanmithunāni",
+     "gloss": "fifty-couples",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many couples arise by ghaṭikā union in days?",
+   "premises": [
+    "in days is named",
+    "by ghaṭikā union is named",
+    "fifty couples is named",
+    "also is named"
+   ],
+   "inference": "fifty couples arise",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "In days, by ghaṭikā union, fifty couples also."
+  },
+  {
+   "verse": 2117,
+   "rows": [
+    {
+     "surface": "saptākṣaryā",
+     "gloss": "with-seven-syllable",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyuktā",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcadaśākṣarāḥ",
+     "gloss": "fifteen-syllable",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What mantras are joined with seven-syllable and fifteen-syllable forms?",
+   "premises": [
+    "seven-syllable is named",
+    "joined is named",
+    "mantras are named",
+    "fifteen-syllable is named"
+   ],
+   "inference": "mantras are joined",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Joined with seven-syllable, mantras are fifteen-syllable."
+  },
+  {
+   "verse": 2118,
+   "rows": [
+    {
+     "surface": "manīṣitaṃ",
+     "gloss": "desired",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "well-writing",
+     "grounds": "absolutive",
+     "morph": "abs+likh"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tanmithunāni",
+     "gloss": "those-couples",
+     "grounds": "compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ve",
+     "gloss": "ve",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is well-written and where are those couples placed?",
+   "premises": [
+    "desired is named",
+    "well-writing is named",
+    "in those is named",
+    "those couples are named"
+   ],
+   "inference": "desired thing is written among couples",
+   "uncertainties": [
+    "meaning of ve"
+   ],
+   "plain_english": "Well-writing the desired among those couples, ve."
+  },
+  {
+   "verse": 2119,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalamāsārddhāt",
+     "gloss": "from-maṇḍala-half-month",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prāpnotyeva",
+     "gloss": "obtains-indeed",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+prāp"
+    },
+    {
+     "surface": "abhivāñchitam",
+     "gloss": "desired",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "From what period does one obtain the desired?",
+   "premises": [
+    "thus is named",
+    "from maṇḍala half-month is named",
+    "obtains indeed is named",
+    "desired is named"
+   ],
+   "inference": "desired is obtained from that period",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Thus from maṇḍala half-month one indeed obtains the desired."
+  },
+  {
+   "verse": 2120,
+   "rows": [
+    {
+     "surface": "proktaphalāvāptiḥ",
+     "gloss": "declared-fruit-obtainment",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt+as"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayogeṣu",
+     "gloss": "in-rites",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "apiyatnasādhya",
+     "gloss": "apiyatna-sādhya",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is declared about fruit obtainment in rites?",
+   "premises": [
+    "declared fruit obtainment is named",
+    "would-be is named",
+    "thus is named",
+    "this is named",
+    "in rites is named",
+    "apiyatna-sādhya is named"
+   ],
+   "inference": "fruit obtainment is declared",
+   "uncertainties": [
+    "meaning of apiyatna"
+   ],
+   "plain_english": "Declared fruit obtainment would be; thus this in rites is apiyatna-sādhya, iti."
+  },
+  {
+   "verse": 2121,
+   "rows": [
+    {
+     "surface": "samastavāñchitaprāptiḥ",
+     "gloss": "all-desired-obtainment",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+bhu"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does all-desired obtainment become?",
+   "premises": [
+    "all-desired obtainment is named",
+    "always is named",
+    "becomes is named",
+    "always is named"
+   ],
+   "inference": "it always becomes",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "All-desired obtainment always becomes, always."
+  },
+  {
+   "verse": 2122,
+   "rows": [
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-this",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "niṣphālanāt",
+     "gloss": "non-fruiting",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "citte",
+     "gloss": "in-mind",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tattattvaṃ",
+     "gloss": "that-tattva",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svātmasātkṛtam",
+     "gloss": "made-one's-own-self",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What becomes one's own self in mind from non-fruiting?",
+   "premises": [
+    "of this is named",
+    "non-fruiting is named",
+    "in mind is named",
+    "that-tattva is named",
+    "made one's own self is named"
+   ],
+   "inference": "tattva becomes one's own self",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "From non-fruiting of this, that tattva is made one's own self in mind."
+  },
+  {
+   "verse": 2123,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "honorific",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśanityātantre",
+     "gloss": "in-Ṣoḍaśanityā-tantra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kādimate",
+     "gloss": "in-Kādimata",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ṣoḍaśapaṭalam",
+     "gloss": "sixteenth-chapter",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In which tantra and chapter is this concluded?",
+   "premises": [
+    "thus is named",
+    "śrī is named",
+    "in Ṣoḍaśanityā tantra is named",
+    "in Kādimata is named",
+    "sixteenth chapter is named"
+   ],
+   "inference": "conclusion names chapter",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Thus in Śrī Ṣoḍaśanityā tantra, Kādimata, sixteenth chapter."
+  },
+  {
+   "verse": 2124,
+   "rows": [
+    {
+     "surface": "pañcadaśapaṭalaṃ",
+     "gloss": "fifteenth-chapter",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paripūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parāmṛṣṭam",
+     "gloss": "reviewed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the status of the fifteenth chapter?",
+   "premises": [
+    "fifteenth chapter is named",
+    "complete is named",
+    "reviewed is named"
+   ],
+   "inference": "chapter is complete and reviewed",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The fifteenth chapter is complete and reviewed."
+  }
+ ]
+}

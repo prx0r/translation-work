@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2124,
- "question": "What calamity is certain to occur outside under the stated condition?",
+ "question": "What is the status of the fifteenth chapter?",
  "premises": [
-  "The condition occurs outside",
-  "Famine arises there",
-  "No doubt is admitted"
+  "fifteenth chapter is named",
+  "complete is named",
+  "reviewed is named"
  ],
- "inference": "Outside there is famine, and there is no doubt about it.",
- "uncertainties": [],
- "plain_english": "Outside there is famine; there is no doubt about it."
+ "inference": "chapter is complete and reviewed",
+ "uncertainties": [
+  "none"
+ ],
+ "plain_english": "The fifteenth chapter is complete and reviewed."
 }

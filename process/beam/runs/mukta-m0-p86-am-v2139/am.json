@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2139,
- "question": "Where and when should the hymn be written and recited?",
+ "question": "Why is there no fault of repetition in this condensed expansion?",
  "premises": [
-  "The hymn should be written and recited",
-  "An auspicious conjunction is required",
-  "A temple or abode of gods is the proper place"
+  "The purpose is brevity and expansion.",
+  "Therefore no repetition fault arises.",
+  "The verse denies repetition fault."
  ],
- "inference": "One should write and recite the hymn during an auspicious conjunction in a temple",
- "uncertainties": [],
- "plain_english": "One should write and recite the hymn during an auspicious conjunction in a temple."
+ "inference": "Because the purpose is brevity and expansion, there is no repetition fault.",
+ "uncertainties": [
+  "The exact expanded passage is not identified here."
+ ],
+ "plain_english": "Because of the purpose of brevity and expansion, there is no fault of repetition."
 }

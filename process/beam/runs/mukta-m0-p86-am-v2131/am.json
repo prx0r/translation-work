@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2131,
- "question": "Under what condition should this teaching not be spoken anywhere?",
+ "question": "What rite is said and then told by the speaker?",
  "premises": [
-  "The teaching should not be spoken anywhere",
-  "The condition concerns desiring one's own welfare",
-  "Secrecy is linked to personal benefit"
+  "A rite is said.",
+  "The speaker says I tell.",
+  "Thus connection follows."
  ],
- "inference": "If one desires one's own welfare, this should not be spoken anywhere",
- "uncertainties": [],
- "plain_english": "It should not be spoken anywhere, if one desires one's own welfare."
+ "inference": "The said rite is told by the speaker as the connected meaning.",
+ "uncertainties": [
+  "The exact rite is not named in this verse."
+ ],
+ "plain_english": "The rite is said; I tell it, and thus the connection follows."
 }
