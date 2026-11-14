@@ -3,34 +3,39 @@
  "verse": 369,
  "rows": [
   {
-   "lemma": "maṇḍapena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental agent of encroachment"
+   "lemma": "hatvā",
+   "morph": "absolutive √han",
+   "grounds": "prior action"
   },
   {
-   "lemma": "ca",
+   "lemma": "sthitvā",
+   "morph": "absolutive √sthā",
+   "grounds": "prior action or posture"
+  },
+  {
+   "lemma": "niśā+ṛkṣe",
+   "morph": "n.loc.sg compound: niśā+ṛkṣe",
+   "grounds": "astrological timing"
+  },
+  {
+   "lemma": "tri+dina+parimitaṃ",
+   "morph": "n.acc.sg compound: tri+dina+parimitam",
+   "grounds": "duration"
+  },
+  {
+   "lemma": "mohayet",
+   "morph": "3.sg.optative.causative.active √muh",
+   "grounds": "possible ritual effect"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "prāsādo",
-   "morph": "m.nom.sg",
-   "grounds": "subject; sandhi form of prāsādaḥ"
-  },
-  {
-   "lemma": "grasto",
-   "morph": "m.nom.sg.ppp.√gras",
-   "grounds": "past participle; sandhi form of grastaḥ"
-  },
-  {
-   "lemma": "vai",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
-  },
-  {
-   "lemma": "doṣakārakaḥ",
-   "morph": "compound.m.nom.sg",
-   "grounds": "compound predicate: doṣa + kāraka"
+   "lemma": "mārayet",
+   "morph": "3.sg.optative.causative.active √mṛ",
+   "grounds": "alternative ritual effect"
   }
  ]
 }

@@ -3,34 +3,39 @@
  "verse": 255,
  "rows": [
   {
-   "lemma": "trayaḥ",
-   "morph": "num.m.nom.pl",
-   "grounds": "number of pratirathas"
+   "lemma": "padma",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "pratirathāḥ",
-   "morph": "n.nom.pl.m",
-   "grounds": "subsidiary projections in the temple plan"
+   "lemma": "sūtra",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "karṇe",
-   "morph": "n.loc.sg.m",
-   "grounds": "location of the projections"
+   "lemma": "kṛtā",
+   "morph": "f.nom.sg.past-participle, compound + kṛ",
+   "grounds": "describes the cord, compound with padma-sūtra"
   },
   {
-   "lemma": "bhadrārdhaṃ",
-   "morph": "n.nom.sg.nt",
-   "grounds": "measure related to the bhadra"
+   "lemma": "rajjuḥ",
+   "morph": "f.nom.sg",
+   "grounds": "subject commended"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connects measures"
+   "lemma": "śastā",
+   "morph": "f.nom.sg.past-participle + śaṃs",
+   "grounds": "predicate describing the cord"
   },
   {
-   "lemma": "dvibhāgikam",
-   "morph": "adj.nom.sg.nt",
-   "grounds": "measure consisting of two parts"
+   "lemma": "śāntika",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "pauṣṭike",
+   "morph": "n.loc.sg, compound",
+   "grounds": "contexts of use, compound with śāntika"
   }
  ]
 }

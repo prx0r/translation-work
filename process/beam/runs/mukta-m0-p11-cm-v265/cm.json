@@ -3,29 +3,44 @@
  "verse": 265,
  "rows": [
   {
-   "lemma": "vinā",
+   "lemma": "śāntike",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "pauṣṭike",
+   "morph": "n.loc.sg, compound",
+   "grounds": "contexts for oblation, compound with śāntike"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "exclusion of rotations"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "bhramair",
-   "morph": "n.ins.pl.m",
-   "grounds": "rotational or circular movements in design"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "nirādhārāḥ",
-   "morph": "adj.nom.pl.m",
-   "grounds": "structures lacking support; compound"
+   "lemma": "homaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject of prescription"
   },
   {
-   "lemma": "kartavyāḥ",
-   "morph": "gerundive.nom.pl.m",
-   "grounds": "gerundive prescribing construction"
+   "lemma": "syāt",
+   "morph": "3.sg.optative.active + as",
+   "grounds": "optative prescription"
   },
   {
-   "lemma": "śāntimicchatā",
-   "morph": "adj.ins.sg.m",
-   "grounds": "agent desiring peace; compound"
+   "lemma": "yajña",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "sādhakaiḥ",
+   "morph": "m.ins.pl, compound",
+   "grounds": "agents performing oblation, compound with yajña"
   }
  ]
 }

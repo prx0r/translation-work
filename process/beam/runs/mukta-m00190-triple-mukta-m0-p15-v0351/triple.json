@@ -1,0 +1,1099 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of chanting",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japtaṃ",
+     "gloss": "chanted",
+     "grounds": "past participle describing mantra",
+     "morph": "m.acc.sg.past-passive-participle √jap"
+    },
+    {
+     "surface": "sapta+vāraṃ",
+     "gloss": "seven-times",
+     "grounds": "compound indicating repetition count",
+     "morph": "compound: sapta+vāram"
+    },
+    {
+     "surface": "nāma+karma+vidarbhitam",
+     "gloss": "name-action-interwoven",
+     "grounds": "compound describing mantra infused with name and action",
+     "morph": "m.acc.sg.past-passive-participle compound: nāma+karma+vidarbhitam √dṛbh"
+    }
+   ],
+   "question": "How must a mantra be prepared with name and action for ritual use?",
+   "premises": [
+    "A mantra is the ritual object.",
+    "The mantra must be chanted seven times.",
+    "The mantra must be interwoven with name and action."
+   ],
+   "inference": "Effective ritual preparation requires chanting the mantra seven times while interweaving it with the target's name and action.",
+   "uncertainties": [
+    "The specific ritual action implied by karma is not specified."
+   ],
+   "plain_english": "A mantra, chanted seven times and interwoven with the name and action, is prepared for use."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "dhūpaḥ",
+     "gloss": "incense",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "main verb",
+     "morph": "3.sg.present.active √bhū"
+    },
+    {
+     "surface": "vidviṣṭau",
+     "gloss": "hostile-pair",
+     "grounds": "two who are in hatred",
+     "morph": "m.nom.du.past-passive-participle √dviṣ"
+    },
+    {
+     "surface": "snigdhau",
+     "gloss": "affectionate-pair",
+     "grounds": "two who are affectionate",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhidyataḥ",
+     "gloss": "are-separated",
+     "grounds": "resulting action on the pair",
+     "morph": "3.du.present.passive √bhid"
+    }
+   ],
+   "question": "What effect does the prepared incense have on even affectionate pairs?",
+   "premises": [
+    "The prepared substance becomes incense.",
+    "The targets may be hostile or even affectionate.",
+    "The pair becomes separated."
+   ],
+   "inference": "Using the prepared incense causes separation even between affectionate individuals.",
+   "uncertainties": [],
+   "plain_english": "It becomes incense, and even an affectionate pair is separated."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "viṣa+liptaṃ",
+     "gloss": "poison-smeared",
+     "grounds": "object prepared with poison",
+     "morph": "n.acc.sg.past-passive-participle compound: viṣa+liptam √lip"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √khan"
+    },
+    {
+     "surface": "sindhu+tīrayoḥ",
+     "gloss": "on-river-banks",
+     "grounds": "location for burial",
+     "morph": "n.loc.du compound: sindhu+tīrayoḥ"
+    }
+   ],
+   "question": "Where should a poison-smeared object be buried to achieve the ritual aim?",
+   "premises": [
+    "An object is smeared with poison.",
+    "The object is divided in two.",
+    "The pieces should be buried on river banks."
+   ],
+   "inference": "Burying a poison-smeared object split in two on river banks enacts the prescribed ritual.",
+   "uncertainties": [
+    "The specific intended outcome is implied by context but not stated in this verse."
+   ],
+   "plain_english": "Having divided a poison-smeared object in two, one should bury it on the banks of a river."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction to perform oblation",
+     "morph": "3.sg.optative.active √hu"
+    },
+    {
+     "surface": "anyonya+vidveṣaḥ",
+     "gloss": "mutual-hatred",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg compound: anyonya+vidveṣaḥ"
+    },
+    {
+     "surface": "bhavetām",
+     "gloss": "may-be",
+     "grounds": "potential result for two subjects",
+     "morph": "3.du.optative.active √bhū"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogiṇoḥ",
+     "gloss": "of-two-sick",
+     "grounds": "targets of the ritual",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What mutual condition can arise between two sick persons through ritual oblation?",
+   "premises": [
+    "One should perform an oblation.",
+    "The targets are two sick persons.",
+    "Mutual hatred may arise between them."
+   ],
+   "inference": "Performing the oblation can produce mutual hatred even between two sick persons.",
+   "uncertainties": [],
+   "plain_english": "One should offer an oblation; even two sick persons may come to mutual hatred."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be buried",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthāpita+pavanaṃ",
+     "gloss": "placed-breath",
+     "grounds": "mantra infused with breath",
+     "morph": "m.acc.sg compound: sthāpita+pavanam"
+    },
+    {
+     "surface": "sahasra+japtaṃ",
+     "gloss": "thousand-chanted",
+     "grounds": "mantra chanted a thousand times",
+     "morph": "m.acc.sg.past-passive-participle compound: sahasra+japtam √jap"
+    },
+    {
+     "surface": "catuṣ+pathe",
+     "gloss": "at-crossroads",
+     "grounds": "location for burial",
+     "morph": "n.loc.sg compound: catuṣ+pathe"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √khan"
+    }
+   ],
+   "question": "How should a breath-infused mantra be ritually deposited at a crossroads?",
+   "premises": [
+    "The mantra has breath placed in it.",
+    "The mantra is chanted a thousand times.",
+    "It should be buried at a crossroads."
+   ],
+   "inference": "A mantra infused with breath and chanted a thousand times should be buried at a crossroads.",
+   "uncertainties": [],
+   "plain_english": "One should bury a mantra, infused with breath and chanted a thousand times, at a crossroads."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "kṛta+japaṃ",
+     "gloss": "done-chanting",
+     "grounds": "object that has been chanted",
+     "morph": "m.acc.sg compound: kṛta+japam"
+    },
+    {
+     "surface": "tri+sahasraka+saṃkhyayā",
+     "gloss": "by-three-thousand-count",
+     "grounds": "number of repetitions",
+     "morph": "f.inst.sg compound: tri+sahasraka+saṃkhyayā"
+    },
+    {
+     "surface": "pathi",
+     "gloss": "on-road",
+     "grounds": "location for burial",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "one-should-bury",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √khan"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāla+nivāraṇam",
+     "gloss": "net-obstruction",
+     "grounds": "ritual effect",
+     "morph": "n.nom.sg compound: jāla+nivāraṇam"
+    }
+   ],
+   "question": "What ritual effect follows burying a mantra chanted three thousand times on a road?",
+   "premises": [
+    "Chanting is performed three thousand times.",
+    "The chanted object is buried on a road.",
+    "The result is obstruction of a net."
+   ],
+   "inference": "Burying a mantra chanted three thousand times on a road produces obstruction of a net.",
+   "uncertainties": [
+    "The exact nature of jāla (net/snare) is context-dependent."
+   ],
+   "plain_english": "Having chanted it three thousand times, one should bury it on a road; then there is obstruction of the net."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "nava+sahasra+japāt",
+     "gloss": "from-nine-thousand-chanting",
+     "grounds": "source condition of chanting",
+     "morph": "m.abl.sg compound: nava+sahasra+japāt"
+    },
+    {
+     "surface": "vasu+sādhitaṃ",
+     "gloss": "accomplished-by-eight",
+     "grounds": "prepared or empowered by eight",
+     "morph": "n.acc.sg.past-passive-participle compound: vasu+sādhitam √sādh"
+    },
+    {
+     "surface": "pathi",
+     "gloss": "on-road",
+     "grounds": "location for burial",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "one-should-bury",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √khan"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sainya+nirodhakam",
+     "gloss": "army-obstruction",
+     "grounds": "ritual effect",
+     "morph": "n.nom.sg compound: sainya+nirodhakam"
+    }
+   ],
+   "question": "What ritual effect follows burying an object empowered after nine thousand chants on a road?",
+   "premises": [
+    "Chanting is performed nine thousand times.",
+    "The object is accomplished by eight.",
+    "It is buried on a road and obstructs an army."
+   ],
+   "inference": "Burying an object empowered by nine thousand chants and eightfold accomplishment on a road obstructs an army.",
+   "uncertainties": [
+    "The meaning of vasu (eight) as an accomplishment factor is not fully specified."
+   ],
+   "plain_english": "After nine thousand chants and accomplishment by eight, one should bury it on a road; then it obstructs an army."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "ālikhya",
+     "gloss": "having-written",
+     "grounds": "prior action",
+     "morph": "absolutive √likh"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object written",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manu+karma+yugasya",
+     "gloss": "of-mantra-action-pair",
+     "grounds": "pair associated with the name",
+     "morph": "n.gen.sg compound: manu+karma+yugasya"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "location of writing",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the name of the mantra-action pair be written in this ritual?",
+   "premises": [
+    "The name is to be written.",
+    "The name belongs to the mantra-action pair.",
+    "The writing is placed on the head."
+   ],
+   "inference": "The ritual requires writing the name of the mantra-action pair on the head.",
+   "uncertainties": [
+    "Whether mūrdhni refers to a physical head or a diagrammatic top is unclear."
+   ],
+   "plain_english": "Having written the name of the mantra-action pair on the head."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "object placed or assigned",
+     "morph": "n.acc.sg.past-passive-participle √dā"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "prior action of arranging",
+     "morph": "absolutive √dhā"
+    },
+    {
+     "surface": "ripu+mūrdhni",
+     "gloss": "on-enemy-head",
+     "grounds": "target location",
+     "morph": "m.loc.sg compound: ripu+mūrdhni"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "one-should-throw",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √kṣip"
+    },
+    {
+     "surface": "tam",
+     "gloss": "that",
+     "grounds": "refers to the prepared object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be done with the prepared object on the enemy's head?",
+   "premises": [
+    "The object has been prepared and given form.",
+    "The target location is the enemy's head.",
+    "One should throw that object there."
+   ],
+   "inference": "The prepared object should be cast onto the enemy's head.",
+   "uncertainties": [],
+   "plain_english": "Having prepared and placed it, one should throw that onto the enemy's head."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "mantra+upamaṃ",
+     "gloss": "mantra-like",
+     "grounds": "object resembling or containing mantra",
+     "morph": "n.acc.sg compound: mantra+upamam"
+    },
+    {
+     "surface": "puṭitam",
+     "gloss": "encased",
+     "grounds": "enclosed or folded",
+     "morph": "n.acc.sg.past-passive-participle √puṭ"
+    },
+    {
+     "surface": "aṣṭa+sahasra+japtam",
+     "gloss": "eight-thousand-chanted",
+     "grounds": "chanted eight thousand times",
+     "morph": "n.acc.sg.past-passive-participle compound: aṣṭa+sahasra+japtam √jap"
+    }
+   ],
+   "question": "How must the mantra-like object be prepared before further ritual use?",
+   "premises": [
+    "The object is mantra-like.",
+    "The object is encased.",
+    "The object is chanted eight thousand times."
+   ],
+   "inference": "The ritual requires an encased, mantra-like object chanted eight thousand times.",
+   "uncertainties": [],
+   "plain_english": "A mantra-like object, encased and chanted eight thousand times."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "sahasra+japtaṃ",
+     "gloss": "thousand-chanted",
+     "grounds": "chanted a thousand times",
+     "morph": "n.acc.sg.past-passive-participle compound: sahasra+japtam √jap"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √khan"
+    },
+    {
+     "surface": "dviṣāṃ",
+     "gloss": "of-enemies",
+     "grounds": "owners of the target house",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "location for burial",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should a thousand-times-chanted object be buried to affect enemies?",
+   "premises": [
+    "The object is chanted a thousand times.",
+    "The burial location is the enemies' house.",
+    "One should bury it there."
+   ],
+   "inference": "Burying a thousand-times-chanted object in the enemies' house targets them ritually.",
+   "uncertainties": [],
+   "plain_english": "One should bury it, chanted a thousand times, in the house of enemies."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "prior action",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+bhasita+miśrita+mantra",
+     "gloss": "that-ashes-mixed-mantra",
+     "grounds": "mantra mixed with those ashes",
+     "morph": "m.acc.sg compound: tat+bhasita+miśrita+mantra"
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "target of the ritual",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How is a mantra mixed with ashes prepared against an enemy?",
+   "premises": [
+    "Chanting is performed.",
+    "The mantra is mixed with those ashes.",
+    "The preparation is directed against an enemy."
+   ],
+   "inference": "After chanting, a mantra mixed with ashes is prepared for use against an enemy.",
+   "uncertainties": [
+    "The source of tat (those ashes) is implied from prior context."
+   ],
+   "plain_english": "Having chanted, and with the mantra mixed with those ashes, against the enemy."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "karma+anvaya+āḍhya+manunā",
+     "gloss": "with-action-endowed-mantra",
+     "grounds": "instrumental means involving mantra endowed with action",
+     "morph": "m.inst.sg compound: karma+anvaya+āḍhya+manunā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasra+japtam",
+     "gloss": "thousand-chanted",
+     "grounds": "chanted a thousand times",
+     "morph": "n.acc.sg.past-passive-participle compound: sahasra+japtam √jap"
+    }
+   ],
+   "question": "What mantra preparation involving action-endowment requires a thousand chants?",
+   "premises": [
+    "A mantra endowed with action is used.",
+    "The preparation is chanted a thousand times."
+   ],
+   "inference": "The action-endowed mantra must be chanted a thousand times for the ritual.",
+   "uncertainties": [],
+   "plain_english": "And with a mantra endowed with action, chanted a thousand times."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "saṃpṛkta+patraṃ",
+     "gloss": "mixed-leaf",
+     "grounds": "leaf combined with other material",
+     "morph": "n.acc.sg compound: saṃpṛkta+patram"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasra+japtam",
+     "gloss": "thousand-chanted",
+     "grounds": "chanted a thousand times",
+     "morph": "n.acc.sg.past-passive-participle compound: sahasra+japtam √jap"
+    }
+   ],
+   "question": "What preparation of a mixed leaf requires a thousand mantra chants?",
+   "premises": [
+    "A leaf is mixed with ritual material.",
+    "The mixed leaf is chanted a thousand times."
+   ],
+   "inference": "A mixed leaf must be chanted over a thousand times as part of the ritual.",
+   "uncertainties": [
+    "The substance mixed with the leaf is not specified."
+   ],
+   "plain_english": "And a mixed leaf, chanted a thousand times."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "kīlaṃ",
+     "gloss": "nail",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "citā+kāṣṭha+mayaṃ",
+     "gloss": "cremation-wood-made",
+     "grounds": "material of the nail",
+     "morph": "m.acc.sg compound: citā+kāṣṭha+mayam"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "name to be associated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma+anvitaṃ",
+     "gloss": "action-endowed",
+     "grounds": "endowed with ritual action",
+     "morph": "m.acc.sg.past-passive-participle compound: karma+anvitam √i"
+    },
+    {
+     "surface": "aṣṭa+sahasra+saṃkhyam",
+     "gloss": "eight-thousand-count",
+     "grounds": "number of chants",
+     "morph": "m.acc.sg compound: aṣṭa+sahasra+saṃkhyam"
+    }
+   ],
+   "question": "How should a nail made of cremation wood be ritually empowered?",
+   "premises": [
+    "The nail is made of cremation wood.",
+    "It is endowed with name and action.",
+    "It is empowered by eight thousand chants."
+   ],
+   "inference": "A cremation-wood nail endowed with name and action must be chanted eight thousand times.",
+   "uncertainties": [],
+   "plain_english": "And a nail made of cremation wood, endowed with name and action, chanted eight thousand times."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "kāka+vandhyā+phalaṃ",
+     "gloss": "crow-barren-fruit",
+     "grounds": "specific fruit used as writing surface or object",
+     "morph": "n.acc.sg compound: kāka+vandhyā+phalam"
+    },
+    {
+     "surface": "kānta+manuṃ",
+     "gloss": "desired-mantra",
+     "grounds": "the chosen mantra",
+     "morph": "m.acc.sg compound: kānta+manum"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √likh"
+    },
+    {
+     "surface": "karma+nāma+saṃpuṭitam",
+     "gloss": "action-name-encased",
+     "grounds": "mantra enclosed with action and name",
+     "morph": "m.acc.sg.past-passive-participle compound: karma+nāma+saṃpuṭitam √puṭ"
+    }
+   ],
+   "question": "How should the desired mantra be inscribed on the crow-barren fruit?",
+   "premises": [
+    "The object is a crow-barren fruit.",
+    "The desired mantra is to be written.",
+    "The mantra is encased with action and name."
+   ],
+   "inference": "One should write the desired mantra, encased with action and name, on a crow-barren fruit.",
+   "uncertainties": [
+    "The botanical identity of kāka+vandhyā+phala is uncertain."
+   ],
+   "plain_english": "One should write the desired mantra, encased with action and name, on a crow-barren fruit."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasra+japtaṃ",
+     "gloss": "thousand-chanted",
+     "grounds": "chanted a thousand times",
+     "morph": "n.acc.sg.past-passive-participle compound: sahasra+japtam √jap"
+    },
+    {
+     "surface": "śmaśāna+deśe",
+     "gloss": "in-cremation-ground",
+     "grounds": "possible location",
+     "morph": "m.loc.sg compound: śmaśāna+deśe"
+    },
+    {
+     "surface": "catuṣ+pathe",
+     "gloss": "at-crossroads",
+     "grounds": "alternative location",
+     "morph": "n.loc.sg compound: catuṣ+pathe"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the thousand-times-chanted object be placed for this ritual?",
+   "premises": [
+    "The object is chanted a thousand times.",
+    "Possible locations include a cremation ground.",
+    "Possible locations also include a crossroads."
+   ],
+   "inference": "The thousand-times-chanted object may be placed in a cremation ground or at a crossroads.",
+   "uncertainties": [],
+   "plain_english": "There indeed, chanted a thousand times, in a cremation ground or also at a crossroads."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "deśa+antaram",
+     "gloss": "to-another-country",
+     "grounds": "destination of departure",
+     "morph": "n.acc.sg compound: deśa+antaram"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "the target person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāsyati",
+     "gloss": "will-go",
+     "grounds": "future movement",
+     "morph": "3.sg.future.active √yā"
+    },
+    {
+     "surface": "loka+antaraṃ",
+     "gloss": "to-another-world",
+     "grounds": "alternative destination",
+     "morph": "n.acc.sg compound: loka+antaram"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogī",
+     "gloss": "sick",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fates may befall the targeted person as a result of this ritual?",
+   "premises": [
+    "The person may go to another country.",
+    "The person may go to another world.",
+    "The person may remain always sick."
+   ],
+   "inference": "The ritual can cause the target to depart to another country, die, or suffer perpetual illness.",
+   "uncertainties": [
+    "loka+antaraṃ is interpreted as another world/death based on context."
+   ],
+   "plain_english": "He will go to another country, or to another world, or remain always sick."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "hatvā",
+     "gloss": "having-struck",
+     "grounds": "prior action",
+     "morph": "absolutive √han"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "prior action or posture",
+     "morph": "absolutive √sthā"
+    },
+    {
+     "surface": "niśā+ṛkṣe",
+     "gloss": "in-night-constellation",
+     "grounds": "astrological timing",
+     "morph": "n.loc.sg compound: niśā+ṛkṣe"
+    },
+    {
+     "surface": "tri+dina+parimitaṃ",
+     "gloss": "for-three-days",
+     "grounds": "duration",
+     "morph": "n.acc.sg compound: tri+dina+parimitam"
+    },
+    {
+     "surface": "mohayet",
+     "gloss": "one-may-bewilder",
+     "grounds": "possible ritual effect",
+     "morph": "3.sg.optative.causative.active √muh"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārayet",
+     "gloss": "one-may-kill",
+     "grounds": "alternative ritual effect",
+     "morph": "3.sg.optative.causative.active √mṛ"
+    }
+   ],
+   "question": "What effects can be produced by performing the ritual under a night constellation for three days?",
+   "premises": [
+    "The ritual involves striking and standing under a night constellation.",
+    "The duration is limited to three days.",
+    "The effects may be bewilderment or killing."
+   ],
+   "inference": "Performed under a night constellation for three days, the ritual can bewilder or kill the target.",
+   "uncertainties": [
+    "The exact referent of hatvā and sthitvā is context-dependent."
+   ],
+   "plain_english": "Having struck and stood under a night constellation for three days, one may bewilder or kill."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "yat+yat",
+     "gloss": "whatever",
+     "grounds": "distributive relative",
+     "morph": "n.nom.sg compound: yat+yat"
+    },
+    {
+     "surface": "ripoḥ",
+     "gloss": "of-enemy",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "resulting destruction",
+     "morph": "3.sg.future.active √naś"
+    },
+    {
+     "surface": "tat+tat+aṅgam",
+     "gloss": "that-that-limb",
+     "grounds": "corresponding body part",
+     "morph": "n.nom.sg compound: tat+tat+aṅgam"
+    }
+   ],
+   "question": "Which part of the enemy is affected when destruction occurs in this ritual?",
+   "premises": [
+    "Whatever part is targeted perishes.",
+    "The parts belong to the enemy.",
+    "The corresponding limb is destroyed."
+   ],
+   "inference": "Whichever limb of the enemy is targeted by the ritual will perish.",
+   "uncertainties": [],
+   "plain_english": "Whatever limb of the enemy perishes, that very limb is affected."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the target",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "prior action of placing",
+     "morph": "absolutive √nyas"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "manner of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pavanaṃ",
+     "gloss": "breath",
+     "grounds": "breath or vital air",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japyāt",
+     "gloss": "one-should-chant",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √jap"
+    },
+    {
+     "surface": "sahasra+dvayam",
+     "gloss": "two-thousand",
+     "grounds": "number of chants",
+     "morph": "n.acc.sg compound: sahasra+dvayam"
+    }
+   ],
+   "question": "How should breath be placed and chanted in the target's heart for this ritual?",
+   "premises": [
+    "This breath is placed in his heart.",
+    "The practitioner should chant quickly.",
+    "The chant is performed two thousand times."
+   ],
+   "inference": "Placing this breath in the target's heart and chanting it two thousand times enacts the ritual.",
+   "uncertainties": [],
+   "plain_english": "Having placed this breath in his heart, one should quickly chant it two thousand times."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "preta+pateḥ",
+     "gloss": "of-lord-of-dead",
+     "grounds": "ruler of the dead",
+     "morph": "m.gen.sg compound: preta+pateḥ"
+    },
+    {
+     "surface": "puraṃ",
+     "gloss": "city",
+     "grounds": "destination",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrutam",
+     "gloss": "heard",
+     "grounds": "known or reported",
+     "morph": "n.nom.sg.past-passive-participle √śru"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "the enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāsyati",
+     "gloss": "will-go",
+     "grounds": "future result",
+     "morph": "3.sg.future.active √yā"
+    },
+    {
+     "surface": "arātiḥ",
+     "gloss": "enemy",
+     "grounds": "target of the ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty of outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain fate awaits the enemy when the practitioner performs this rite?",
+   "premises": [
+    "The practitioner performs the ritual.",
+    "The destination is the city of the lord of the dead.",
+    "The enemy will certainly go there."
+   ],
+   "inference": "Through this rite, the practitioner causes the enemy to certainly go to the city of the lord of the dead.",
+   "uncertainties": [],
+   "plain_english": "The practitioner knows: that enemy will certainly go to the city of the lord of the dead."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "śmaśāna+bhūmau",
+     "gloss": "in-cremation-ground",
+     "grounds": "ritual location",
+     "morph": "f.loc.sg compound: śmaśāna+bhūmau"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction to perform oblation",
+     "morph": "3.sg.optative.active √hu"
+    },
+    {
+     "surface": "vināśyam",
+     "gloss": "to-be-destroyed",
+     "grounds": "object or target intended for destruction",
+     "morph": "n.acc.sg.future-passive-participle √naś"
+    }
+   ],
+   "question": "Where should an oblation be performed to destroy the intended target?",
+   "premises": [
+    "The ritual location is a cremation ground.",
+    "One should perform an oblation.",
+    "The oblation is directed at what is to be destroyed."
+   ],
+   "inference": "Performing an oblation in a cremation ground effects the destruction of the intended target.",
+   "uncertainties": [
+    "The specific substance offered in the oblation is not stated."
+   ],
+   "plain_english": "One should offer an oblation in a cremation ground for that which is to be destroyed."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "tāla+patre",
+     "gloss": "on-palm-leaf",
+     "grounds": "writing surface",
+     "morph": "n.loc.sg compound: tāla+patre"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "having-written",
+     "grounds": "prior action",
+     "morph": "absolutive √likh"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manu+vidarbhitam",
+     "gloss": "mantra-interwoven",
+     "grounds": "object interwoven with mantra",
+     "morph": "n.acc.sg.past-passive-participle compound: manu+vidarbhitam √dṛbh"
+    }
+   ],
+   "question": "On what material should the mantra-interwoven inscription be written?",
+   "premises": [
+    "The writing is done on a palm leaf.",
+    "The inscription is interwoven with mantra.",
+    "The action is performed at that time."
+   ],
+   "inference": "The mantra-interwoven inscription should be written on a palm leaf.",
+   "uncertainties": [],
+   "plain_english": "Then, having written on a palm leaf that which is interwoven with the mantra."
+  }
+ ]
+}
