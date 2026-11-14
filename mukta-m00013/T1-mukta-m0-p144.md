@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p144-v3576
-[from-ocean](saṃsāra)+[ocean](sāgarāt) [immediately](sadyaḥ) [is-released](mucyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[from-world+ocean](saṃsārasāgarāt) [immediately](sadyo) [is-liberated](mucyate) [not+here](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p144-v3577
-[with-seeds](bījaiḥ) [thousand-numbered](sahasra)+[numbered](saṃkhyātaiḥ) [oblation](homaḥ) [fear-destruction](bhaya)+[vināśanaḥ]
+[with-seeds](bījaiḥ) [counted-in-thousands](sahasrasaṃkhyātaiḥ) [oblation](homo) [fear+destroying](bhayavināśanaḥ)
 
 ## mukta-m0-p144-v3578
-[released](muktaḥ) [from-bondage](bandhāt) [becomes](bhavet) [immediately](sadyaḥ) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
+[liberated](mukto) [from-bondage](bandhāt) [becomes](bhavet) [immediately](sadyo) [not+here](nātra) [to-be-done](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p144-v3579
-[of-all-vedas](sarva)+[vedas](veda)+[agamas](āgama)+[beginning](ādīnām) [expounder](vyākhyātā) [becomes](jāyate) [soon](acirāt)
+[of-all+Vedas+Āgamas+etc.](sarvavedāgamādīnāṃ) [expounder](vyākhyātā) [becomes](jāyate) [quickly](acirāt)
 
 ## mukta-m0-p144-v3580
-[auspicious-flower](śrī)+[flower](puṣpam) [clove-flower](lavaṅga)+[flower](puṣpam)
+[śrī+flower](śrīpuṣpaṃ) [clove+flower](lavaṅgapuṣpam)
 
 ## mukta-m0-p144-v3581
-[sleepless](anidraḥ) [mantra-knower](mantra)+[vit](vit) [afterwards](paścāt) [good-dream](su)+[dream](svapnaḥ) [of-him](tasya) [becomes](jāyate)
+[sleepless](anidro) [knower-of-mantra](mantravit) [afterwards](paścāt) [good+sleep](susvapnas) [of-him](tasya) [arises](jāyate)
 
 ## mukta-m0-p144-v3582
-[destroys](nāśayet) [soon](acirāt) [indeed](eva) [by-power](prabhāvataḥ) [of-this-mantra](mantrasya)+[asya]
+[destroys](nāśayet) [quickly](acirāt) [indeed](eva) [of-mantra](mantrasya) [of-this](asya) [by-power](prabhāvataḥ)
 
 ## mukta-m0-p144-v3583
-[may-recite](japet) [mantra](mantram) [may-remember](smaret) [this](enam) [from-sorrows](duḥkhāt) [released](muktaḥ) [becomes](bhavet) [man](naraḥ)
+[should-recite](japet) [mantra](mantraṃ) [should-remember](smaret) [this](enaṃ) [from-suffering](duḥkhāt) [liberated](mukto) [becomes](bhavet) [person](naraḥ)
 
 ## mukta-m0-p144-v3584
-[of-son](putra)+[friend](mitra)+[wife](kalatra)+[etc](ādeḥ) [driving-away](uccāṭaḥ) [becomes](jāyate) [of-enemy](ripoḥ)
+[of-son+friend+wife+etc.](putramitrakalatrāder) [driving-away](uccāṭo) [arises](jāyate) [of-enemy](ripoḥ)
 
 ## mukta-m0-p144-v3585
-[becomes](jāyate) [from-circle](maṇḍalāt) [within](arvāk) [of-enemy-army](śatru)+[senā] [prevention](nivāraṇam)
+[arises](jāyate) [from-circle](maṇḍalāt) [within](arvāk) [enemy+army+repulsion](śatrusenānivāraṇam)
 
 ## mukta-m0-p144-v3586
-[mantrin](mantrī) [if](yadi) [not](na) [is-satisfied](santuṣyet) [misfortune](anarthaḥ) [would-be](syāt) [of-great-king](mahī)+[pateḥ]
+[priest](mantrī) [if](yadi) [not](na) [is-satisfied](santuṣyet) [calamity](anarthaḥ) [would-be](syāt) [of-king](mahīpateḥ)
 
 ## mukta-m0-p144-v3587
-[from-enemy](śatru) [from-thief](caura) [from-great-beings](mahā)+[bhūtaiḥ] [having-made](kṛtvā) [obstruction](āṃvādhām) [may-destroy](vināśayet)
+[by-enemies+thieves+great+beings](śatrucauramahābhūtaiḥ) [having-made](kṛtvā) [affliction](āṃvādhāṃ) [would-destroy](vināśayet)
 
 ## mukta-m0-p144-v3588
-[thus](evam) [on-seven-sundays](sapta)+[āra]+[vāreṣu] [may-offer-oblation](juhuyāt) [for-field-accomplishment](kṣetra)+[siddhaye]
+[thus](evaṃ) [in-seven+spoke+periods](saptāravāreṣu) [one-should-offer](juhuyāt) [for-field+accomplishment](kṣetrasiddhaye)
 
 ## mukta-m0-p144-v3589
-[opposition](virodhaḥ) [is-destroyed](naśyati) [in-field](kṣetre) [together-with](saha) [thief-etc](caura)+[ādyaiḥ] [upheavals](upaplvaiḥ)
+[hostility](virodho) [is-destroyed](naśyati) [in-field](kṣetre) [with](saha) [thief+etc.+calamities](caurādyupaplavaiḥ)
 
 ## mukta-m0-p144-v3590
-[as-long-as](tāvat) [with-ghee](ājyena) [may-offer-oblation](juhuyān) [from-circle](maṇḍalāt) [gold](suvarṇam) [may-obtain](āpnuyāt)
+[so-much](tāvat) [with-clarified-butter](ājyena) [one-should-offer](juhuyāt) [from-circle](maṇḍalāt) [gold](svarṇam) [obtains](āpnuyāt)
 
 ## mukta-m0-p144-v3591
-[life](āyuḥ) [health](ārogya) [prosperity](sampattiḥ) [fame](yaśaḥ) [sons](putrān) [may-increase](vivarddhayet)
+[life+health+prosperity](āyurārogasampattir) [fame](yaśaḥ) [sons](putrān) [increases](vivarddhayet)
 
 ## mukta-m0-p144-v3592
-[freed](vimuktaḥ) [for-long-time](suciram) [may-live](jīvet) [autumns](śaradām) [hundred](śatam) [easily](añjasā)
+[liberated](vimuktaḥ) [for-very-long](suciraṃ) [may-live](jīvet) [of-autumns](śaradāṃ) [hundred](śatam) [easily](añjasā)
 
 ## mukta-m0-p144-v3593
-[long-life](dīrgha)+[āyuḥ] [may-obtain](avāpnoti) [desired](vāñchitām) [may-attain](vindate) [fortune](śriyam)
+[long+life](dīrghamāyur) [obtains](avāpnoti) [desired](vāñchitāṃ) [attains](vindate) [prosperity](śriyam)
 
 ## mukta-m0-p144-v3594
-[conqueror-of-untimely-death](apamṛtyu)+[jit](jit) [indeed](eva) [may-be](syāt) [life-health-increaser](āyuḥ)+[ārogya]+[varddhanaḥ]
+[untimely-death+conquering](apamṛtyujid) [indeed](eva) [would-be](syāt) [life+health+increasing](āyurārogyavarddhanaḥ)
 
 ## mukta-m0-p144-v3595
-[with-best-fuel-sticks](samid)+[varaiḥ] [done](kṛtaḥ) [oblation](homaḥ) [all-death-disease-remover](sarva)+[mṛtyu]+[gada]+[apahaḥ]
+[with-excellent+fuel-sticks](samidvaraiḥ) [performed](kṛto) [oblation](homaḥ) [all+death+disease+removing](sarvamṛtyugadāpahaḥ)
 
 ## mukta-m0-p144-v3596
-[with-apāmārga-fuel-sticks](apāmārga)+[samid]+[homaḥ] [all-disease-destroyer](sarva)+[āmaya]+[nisūdanaḥ]
+[apāmārga+fuel-stick+oblation](apāmārgasamiddhomaḥ) [all+disease+destroying](sarvāmayanisūdanaḥ)
 
 ## mukta-m0-p144-v3597
-[of-scripture-exposition](śāstra)+[vyākhyāna] [ability](sāmarthyam) [obtains](labhate) [at-end-of-year](vatsara)+[antare]
+[scripture+explanation+ability](śāstravyākhyānasāmarthyaṃ) [obtains](labhate) [within-a-year](vatsarāntare)
 
 ## mukta-m0-p144-v3598
-[drunk](nipītam) [poetry-beauty-strength-life-fortune-fortitude-giver](kavitā)+[kānti]+[bala]+[āyuḥ]+[śrī]+[dhṛti]+[pradam]
+[drunk](nipītaṃ) [poetry+beauty+strength+life+prosperity+firmness+giving](kavitā-kānti-balāyuḥ-śrīdhṛtipradam)
 
 ## mukta-m0-p144-v3599
-[thus](evam) [done](kṛte) [world-subjugated](jagat)+[vaśyaḥ] [of-ramā](ramāyāḥ) [abode](bhavanam) [becomes](bhavet)
+[thus](evaṃ) [when-done](kṛte) [world+subduing](jagadvaśyo) [of-Lakṣmī](ramāyā) [abode](bhavanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p144-v3600
-[with-flowers](puṣpaiḥ) [with-milk](payas) [with-food](annaiḥ) [with-ghee](sa)+[ghṛtaiḥ] [by-oblation](homāt) [universe](viśvam) [under-control](vaśam) [may-lead](nayet)
+[with-flowers](puṣpaiḥ) [with-milk+rice](payo'nnaiḥ) [with-ghee](saghṛtair) [by-oblation](homād) [universe](viśvaṃ) [under-control](vaśaṃ) [leads](nayet)

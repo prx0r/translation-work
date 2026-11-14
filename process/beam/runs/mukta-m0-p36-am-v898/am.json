@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 898,
- "question": "For what duration and at which daily junctions should ritual dance be performed?",
+ "question": "What recitation is the disciple required to perform after the teacher's instruction?",
  "premises": [
-  "The duration is declared as two watches.",
-  "Dance is to be performed.",
-  "The occasions are the three junctions."
+  "The disciple is the one who repeats.",
+  "The content repeated is what the teacher has spoken.",
+  "The act is a ritual repetition."
  ],
- "inference": "Dance should be performed for two watches at the three daily junctions.",
- "uncertainties": [],
- "plain_english": "The time is declared as two watches; one should perform dance at the three junctions."
+ "inference": "The disciple should repeat what has been spoken by the teacher.",
+ "uncertainties": [
+  "The token surface kṣiṣyaḥ appears where śiṣyaḥ might be expected."
+ ],
+ "plain_english": "The disciple should repeat what has been told by the teacher."
 }

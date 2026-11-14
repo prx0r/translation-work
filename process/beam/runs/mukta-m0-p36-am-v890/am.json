@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 890,
- "question": "How frequently must the food offering and fire offering be performed in this ritual grade?",
+ "question": "What ritual element does the teacher place on the disciple's head at this point?",
  "premises": [
-  "The food offering is prescribed at three times.",
-  "The fire offering is prescribed at three times.",
-  "Both actions are to be performed."
+  "The teacher is the agent of the action.",
+  "The object is the divine tree situated at the pot's mouth.",
+  "The placement is on the head of the disciple."
  ],
- "inference": "Both the food offering and the fire offering should be performed three times daily.",
- "uncertainties": [],
- "plain_english": "The food offering should be made three times, and one should perform the fire offering three times."
+ "inference": "The teacher places the divine tree situated at the mouth of the pot on the head of the disciple.",
+ "uncertainties": [
+  "The verb of placement is supplied by the following verse's context."
+ ],
+ "plain_english": "And the teacher places the divine tree situated at the mouth of the pot on the head of this disciple."
 }
