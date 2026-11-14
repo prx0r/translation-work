@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 661,
- "question": "Which deity should the yogi accomplish in that setting and by what epithet is she identified?",
+ "question": "Which part of the night makes a dream especially significant for the dreamer?",
  "premises": [
-  "The yogi performs the practice in that context.",
-  "The deity to be accomplished is Tārā.",
-  "Tārā is identified as the savior across the three realms."
+  "The dream occurs in a dream context",
+  "That night is specified for the dreamer",
+  "It is the last part of the night"
  ],
- "inference": "In that setting the yogi should accomplish Tārā, the savior of the three worlds.",
- "uncertainties": [],
- "plain_english": "There the yogi should accomplish Tārā, the savior of the three worlds."
+ "inference": "A dream seen in the last part of the night is especially significant",
+ "uncertainties": [
+  "paścimā can mean last or western; last part of night is inferred"
+ ],
+ "plain_english": "In a dream, that night is his last part of the night."
 }

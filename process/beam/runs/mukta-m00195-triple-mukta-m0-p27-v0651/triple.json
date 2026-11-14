@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective describing auspicious color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candanavastrāṇi",
+     "gloss": "sandal-garments",
+     "grounds": "compound of sandal and garments",
+     "morph": "compound=candana+vastra; n.nom.pl"
+    },
+    {
+     "surface": "śālayaḥ",
+     "gloss": "rice-grains",
+     "grounds": "auspicious food item",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kuṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "auspicious substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "auspicious substance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which auspicious substances appear as favorable dream omens?",
+   "premises": [
+    "White color is auspicious",
+    "Sandal and garments are auspicious",
+    "Rice, saffron, and honey are auspicious"
+   ],
+   "inference": "Seeing these substances in a dream indicates a favorable omen",
+   "uncertainties": [],
+   "plain_english": "White things, sandal and garments, rice grains, saffron, and honey are auspicious signs."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "auspicious items",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "siddhānnaṃ",
+     "gloss": "cooked-rice",
+     "grounds": "compound of prepared and food",
+     "morph": "compound=siddha+anna; n.nom.sg"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "auspicious food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bālaṃ",
+     "gloss": "child",
+     "grounds": "young person seen as auspicious",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vilāsinam",
+     "gloss": "charming",
+     "grounds": "describes the child as playful or charming",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which foods and figures signify auspicious dream visions?",
+   "premises": [
+    "Fruits are auspicious signs",
+    "Cooked rice and curd are auspicious",
+    "A charming child is auspicious"
+   ],
+   "inference": "These items and figures indicate favorable outcomes in dreams",
+   "uncertainties": [],
+   "plain_english": "Fruits, cooked rice, curd, and a charming child are auspicious signs."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "baddham",
+     "gloss": "bound",
+     "grounds": "past participle indicating something tied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekaparaṃ",
+     "gloss": "single-excellent",
+     "grounds": "compound indicating one supreme or singular",
+     "morph": "compound=eka+para; n.nom.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "auspicious object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadvākyaṃ",
+     "gloss": "good-speech",
+     "grounds": "compound of good and speech",
+     "morph": "compound=sat+vākya; n.nom.sg"
+    },
+    {
+     "surface": "cakṣurañjanam",
+     "gloss": "eye-delighting",
+     "grounds": "compound of eye and delighting",
+     "morph": "compound=cakṣus+rañjana; n.nom.sg"
+    }
+   ],
+   "question": "What objects and words count as favorable dream signs?",
+   "premises": [
+    "A bound single excellent flower is auspicious",
+    "Good speech is auspicious",
+    "Something delighting the eyes is auspicious"
+   ],
+   "inference": "These sights and sounds indicate favorable dream results",
+   "uncertainties": [
+    "Exact sense of baddham ekaparaṃ puṣpaṃ is context-dependent"
+   ],
+   "plain_english": "A bound, singular excellent flower, good speech, and something pleasing to the eyes are auspicious signs."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "rodanahīnaṃ",
+     "gloss": "weeping-without",
+     "grounds": "compound indicating absence of crying",
+     "morph": "compound=rodana+hīna; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇḍrāṇi",
+     "gloss": "sacred-marks",
+     "grounds": "auspicious marks on the body",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patākikā",
+     "gloss": "small-flag",
+     "grounds": "auspicious banner",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which signs of calm and auspicious marks are favorable in dreams?",
+   "premises": [
+    "Absence of weeping is favorable",
+    "Sacred marks are favorable",
+    "A small flag is favorable"
+   ],
+   "inference": "These signs indicate positive dream outcomes",
+   "uncertainties": [
+    "rodanahīnaṃ may qualify a person or situation"
+   ],
+   "plain_english": "Being without weeping, sacred marks, and a small flag are auspicious signs."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "māṅgalyagītāni",
+     "gloss": "auspicious-songs",
+     "grounds": "compound of auspicious and songs",
+     "morph": "compound=māṅgalya+gīta; n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkuśaṃ",
+     "gloss": "goad",
+     "grounds": "instrument, often auspicious symbol",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yuddhadaṃ",
+     "gloss": "battle-giving",
+     "grounds": "compound indicating giving or causing battle",
+     "morph": "compound=yuddha+da; n.acc.sg"
+    },
+    {
+     "surface": "priyam",
+     "gloss": "beloved",
+     "grounds": "something dear or pleasing",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which sounds, objects, and experiences are favorable dream omens?",
+   "premises": [
+    "Auspicious songs are favorable",
+    "A goad is a notable sign",
+    "Something beloved or battle-related appears as a sign"
+   ],
+   "inference": "These elements function as dream omens with specific implications",
+   "uncertainties": [
+    "yuddhadaṃ priyam may mean a beloved battle or a pleasing battle-giving sign"
+   ],
+   "plain_english": "Auspicious songs, a goad, and something beloved that brings battle are signs in a dream."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "vyādhyādyārte",
+     "gloss": "disease-etc-afflicted",
+     "grounds": "compound describing one afflicted by disease and such",
+     "morph": "compound=vyādhi+ādi+ārta; m.loc.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "negation of existence",
+     "morph": "3.sg.present-active √as"
+    },
+    {
+     "surface": "duḥkhaṃ",
+     "gloss": "sorrow",
+     "grounds": "suffering or pain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāmānyaḥ",
+     "gloss": "ordinary-person",
+     "grounds": "a common person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "pleasure or ease",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.optative-active √āp"
+    }
+   ],
+   "question": "What dream outcome relieves the afflicted and benefits ordinary people?",
+   "premises": [
+    "For one afflicted by disease there is no sorrow",
+    "An ordinary person may obtain happiness",
+    "The dream sign reverses or improves condition"
+   ],
+   "inference": "The indicated dream brings relief to the afflicted and happiness to others",
+   "uncertainties": [],
+   "plain_english": "For one afflicted by disease and such, there is no sorrow, and an ordinary person may obtain happiness."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "nadīṃ",
+     "gloss": "river",
+     "grounds": "body of flowing water",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sindhuṃ",
+     "gloss": "ocean",
+     "grounds": "sea or great river",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvijaṃ",
+     "gloss": "twice-born",
+     "grounds": "member of twice-born class",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śvetāmbaraṃ",
+     "gloss": "white-garment",
+     "grounds": "compound of white and garment",
+     "morph": "compound=śveta+ambara; m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which visions of waters and revered figures are auspicious in dreams?",
+   "premises": [
+    "Seeing a river is significant",
+    "Seeing an ocean is significant",
+    "Seeing a twice-born in white garments is significant"
+   ],
+   "inference": "These visions are listed as auspicious dream signs",
+   "uncertainties": [],
+   "plain_english": "Seeing a river, an ocean, and likewise a twice-born clad in white garments are auspicious signs."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "harmyaprāsādanāgāśvavṛṣaśailāgnirohaṇam",
+     "gloss": "mansion-palace-elephant-horse-bull-mountain-fire-ascending",
+     "grounds": "long compound listing things ascended in a dream",
+     "morph": "compound=harmya+prāsāda+nāga+aśva+vṛṣa+śaila+agni+rohaṇa; n.nom.sg"
+    }
+   ],
+   "question": "What kinds of ascents in dreams indicate favorable outcomes?",
+   "premises": [
+    "Ascending a mansion or palace is significant",
+    "Ascending an elephant, horse, or bull is significant",
+    "Ascending a mountain or fire is significant"
+   ],
+   "inference": "Ascending these various objects or beings in a dream is an auspicious sign",
+   "uncertainties": [
+    "Ascending fire may be symbolic or ritual in meaning"
+   ],
+   "plain_english": "Ascending a mansion, palace, elephant, horse, bull, mountain, or fire in a dream is an auspicious sign."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "kṛmiviṣṭhānulepaḥ",
+     "gloss": "worm-excrement-smearing",
+     "grounds": "compound of worm, excrement, and smearing",
+     "morph": "compound=kṛmi+viṣṭhā+anulepa; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudhireṇa",
+     "gloss": "with-blood",
+     "grounds": "instrument of sprinkling",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "abhiṣecanam",
+     "gloss": "sprinkling",
+     "grounds": "act of anointing or sprinkling",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which seemingly inauspicious dream experiences can signal success?",
+   "premises": [
+    "Smearing with worms and excrement appears inauspicious",
+    "Sprinkling with blood appears inauspicious",
+    "Such images can have positive dream interpretations"
+   ],
+   "inference": "These disturbing dream images may paradoxically indicate favorable results",
+   "uncertainties": [
+    "Interpretation depends on broader dream-omen context"
+   ],
+   "plain_english": "Being smeared with worms and excrement, and being sprinkled with blood, are signs seen in dreams."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "pracandrakiraṇaṃ",
+     "gloss": "bright-moon-rays",
+     "grounds": "compound describing intense moonlight",
+     "morph": "compound=pra+candra+kiraṇa; n.nom.sg"
+    },
+    {
+     "surface": "svapne",
+     "gloss": "in-dream",
+     "grounds": "locative indicating dream context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāryasiddheḥ",
+     "gloss": "of-task-accomplishment",
+     "grounds": "compound indicating success of an undertaking",
+     "morph": "compound=kārya+siddhi; f.gen.sg"
+    },
+    {
+     "surface": "sulakṣaṇam",
+     "gloss": "good-sign",
+     "grounds": "compound of good and mark",
+     "morph": "compound=su+lakṣaṇa; n.nom.sg"
+    }
+   ],
+   "question": "What dream vision signals the successful accomplishment of tasks?",
+   "premises": [
+    "Bright moon rays appear in a dream",
+    "The context is task accomplishment",
+    "It is described as a good sign"
+   ],
+   "inference": "Seeing bright moon rays in a dream is a good sign for success in undertakings",
+   "uncertainties": [],
+   "plain_english": "In a dream, bright moon rays are a good sign of the accomplishment of one's tasks."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "svapne",
+     "gloss": "in-dream",
+     "grounds": "locative indicating dream context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rātriḥ",
+     "gloss": "night",
+     "grounds": "time period of the dream",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the dreamer",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paścimā",
+     "gloss": "last",
+     "grounds": "final or western, here indicating last part of night",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which part of the night makes a dream especially significant for the dreamer?",
+   "premises": [
+    "The dream occurs in a dream context",
+    "That night is specified for the dreamer",
+    "It is the last part of the night"
+   ],
+   "inference": "A dream seen in the last part of the night is especially significant",
+   "uncertainties": [
+    "paścimā can mean last or western; last part of night is inferred"
+   ],
+   "plain_english": "In a dream, that night is his last part of the night."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "hatyā",
+     "gloss": "killing",
+     "grounds": "act of slaying",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pītayā",
+     "gloss": "by-yellow",
+     "grounds": "yellow color associated with the act or object",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "karadaḥ",
+     "gloss": "tax-giving",
+     "grounds": "compound indicating one who pays tribute",
+     "morph": "compound=kara+da; m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What outcome follows from a dream involving killing associated with yellow?",
+   "premises": [
+    "A killing is associated with yellow",
+    "The dream produces a resulting state",
+    "The result is becoming a tribute-payer"
+   ],
+   "inference": "Such a dream indicates the dreamer will become subject to paying tribute",
+   "uncertainties": [
+    "The exact referent of pītayā is ambiguous"
+   ],
+   "plain_english": "By a killing associated with yellow, one becomes a payer of tribute."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "svapne",
+     "gloss": "in-dream",
+     "grounds": "locative indicating dream context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the dreamer",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "prosperity",
+     "grounds": "fortune or wealth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatomukhī",
+     "gloss": "facing-all-directions",
+     "grounds": "compound indicating coming from all sides",
+     "morph": "compound=sarvatas+mukha; f.nom.sg"
+    }
+   ],
+   "question": "What kind of prosperity comes to the dreamer from this dream sign?",
+   "premises": [
+    "The context is a dream",
+    "Prosperity belongs to the dreamer",
+    "The prosperity faces all directions"
+   ],
+   "inference": "The dream indicates prosperity coming to the dreamer from all sides",
+   "uncertainties": [],
+   "plain_english": "In a dream, his prosperity comes from all directions."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the dreamer",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "prosperity",
+     "grounds": "fortune or wealth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatomukhī",
+     "gloss": "facing-all-directions",
+     "grounds": "compound indicating coming from all sides",
+     "morph": "compound=sarvatas+mukha; f.nom.sg"
+    }
+   ],
+   "question": "How extensive is the prosperity promised to the dreamer?",
+   "premises": [
+    "Prosperity belongs to the dreamer",
+    "It is described as facing all directions",
+    "The statement emphasizes totality"
+   ],
+   "inference": "The dreamer receives all-encompassing prosperity",
+   "uncertainties": [],
+   "plain_english": "His prosperity comes from all directions."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "bhogī",
+     "gloss": "enjoyer",
+     "grounds": "one who experiences enjoyment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rogī",
+     "gloss": "sick-person",
+     "grounds": "one afflicted by disease",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rogāt",
+     "gloss": "from-disease",
+     "grounds": "source of affliction",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vimucyate",
+     "gloss": "is-released",
+     "grounds": "liberation from disease",
+     "morph": "3.sg.present-passive √muc"
+    }
+   ],
+   "question": "What contrasting outcomes of enjoyment and healing follow from the dream?",
+   "premises": [
+    "One may become an enjoyer",
+    "A sick person is considered",
+    "The sick person is released from disease"
+   ],
+   "inference": "The dream brings enjoyment and also healing from illness",
+   "uncertainties": [],
+   "plain_english": "One becomes an enjoyer, and a sick person is released from disease."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "vardhate",
+     "gloss": "increases",
+     "grounds": "growth or expansion",
+     "morph": "3.sg.present-middle √vṛdh"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the dreamer",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dugdhapānadhanātyayaḥ",
+     "gloss": "milk-drinking-wealth-destruction",
+     "grounds": "compound whose exact relation is ambiguous; may indicate loss despite milk-drinking or loss of wealth related to milk",
+     "morph": "compound=dugdha+pāna+dhana+atyaya; m.nom.sg"
+    }
+   ],
+   "question": "What increase or loss is indicated by drinking milk in the dream?",
+   "premises": [
+    "Something increases for the dreamer",
+    "The compound involves milk drinking",
+    "The compound involves wealth and destruction or loss"
+   ],
+   "inference": "The dream sign involving milk drinking leads to a stated change concerning wealth",
+   "uncertainties": [
+    "The compound dugdhapānadhanātyayaḥ is syntactically and semantically ambiguous"
+   ],
+   "plain_english": "For him, there is an increase related to drinking milk and the loss of wealth."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "affection",
+     "grounds": "pleasure or love",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "godhūmaiḥ",
+     "gloss": "with-wheat",
+     "grounds": "instrumental cause or association",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanāgamaḥ",
+     "gloss": "wealth-arrival",
+     "grounds": "compound of wealth and arrival",
+     "morph": "compound=dhana+āgama; m.nom.sg"
+    }
+   ],
+   "question": "What emotional and material gains result from seeing wheat in a dream?",
+   "premises": [
+    "Wheat is associated with the dream sign",
+    "Affection arises as a result",
+    "The arrival of wealth occurs"
+   ],
+   "inference": "Seeing wheat in a dream brings affection and incoming wealth",
+   "uncertainties": [],
+   "plain_english": "There is affection and the arrival of wealth through wheat."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "dadhilābhaḥ",
+     "gloss": "curd-gain",
+     "grounds": "compound of curd and gain",
+     "morph": "compound=dadhi+lābha; m.nom.sg"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "gives",
+     "grounds": "bestows a result",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "arthān",
+     "gloss": "wealth",
+     "grounds": "material gains or purposes",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ghṛtalābhāt",
+     "gloss": "from-ghee-gain",
+     "grounds": "compound indicating obtaining ghee",
+     "morph": "compound=ghṛta+lābha; m.abl.sg"
+    },
+    {
+     "surface": "dhruvañjayaḥ",
+     "gloss": "certain-victory",
+     "grounds": "compound of certain and victory",
+     "morph": "compound=dhruva+jaya; m.nom.sg"
+    }
+   ],
+   "question": "What gains and victories follow from obtaining curd and ghee in dreams?",
+   "premises": [
+    "Gaining curd gives wealth",
+    "Gaining ghee is a cause",
+    "Certain victory results"
+   ],
+   "inference": "Dream gains of curd and ghee lead to wealth and assured victory",
+   "uncertainties": [
+    "dhruvañjayaḥ could be read as a name or as certain victory"
+   ],
+   "plain_english": "Gaining curd gives wealth, and from gaining ghee comes certain victory."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "liṅgānām",
+     "gloss": "of-liṅgas",
+     "grounds": "sacred emblems, likely of Śiva",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "arcanan",
+     "gloss": "worship",
+     "grounds": "act of honoring or worshiping",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior perception in the dream",
+     "morph": "absolutive √dṛś"
+    },
+    {
+     "surface": "vyavahāraḥ",
+     "gloss": "transaction",
+     "grounds": "business or practical dealings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context or world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.present-middle √jan"
+    }
+   ],
+   "question": "What worldly activity arises after seeing the worship of liṅgas in a dream?",
+   "premises": [
+    "Worship of liṅgas is seen in a dream",
+    "Seeing it has a consequence",
+    "Transaction or business arises here"
+   ],
+   "inference": "Seeing liṅga worship in a dream leads to arising worldly transactions",
+   "uncertainties": [],
+   "plain_english": "Having seen the worship of liṅgas, transaction arises here."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "patre",
+     "gloss": "in-leaf",
+     "grounds": "on a leaf or in a vessel/leaf context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "refers to the person seen or indicated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "instruction to recognize",
+     "morph": "3.sg.optative-active √vid"
+    },
+    {
+     "surface": "pṛthivīpatim",
+     "gloss": "earth-lord",
+     "grounds": "compound meaning king",
+     "morph": "compound=pṛthivī+pati; m.acc.sg"
+    }
+   ],
+   "question": "How should a person seen on a leaf in a dream be identified?",
+   "premises": [
+    "A person is seen in relation to a leaf",
+    "The dreamer should know his identity",
+    "He is identified as a lord of the earth"
+   ],
+   "inference": "Seeing him on a leaf indicates he is or will be a king",
+   "uncertainties": [
+    "The exact dream image involving patre is unclear"
+   ],
+   "plain_english": "One should know him on a leaf to be a lord of the earth."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "svapne",
+     "gloss": "in-dream",
+     "grounds": "locative indicating dream context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to what was seen or indicated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "just-so",
+     "grounds": "emphatic confirmation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future realization",
+     "morph": "3.sg.future-active √bhū"
+    }
+   ],
+   "question": "How reliably do certain dream indications come true in reality?",
+   "premises": [
+    "Something is seen in a dream",
+    "It is affirmed emphatically",
+    "It will come to be in the same way"
+   ],
+   "inference": "The dream indication will be realized exactly as seen",
+   "uncertainties": [],
+   "plain_english": "In a dream, that will come to be just so."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "maṇḍalarājyaṃ",
+     "gloss": "province-kingship",
+     "grounds": "compound indicating rule over a region",
+     "morph": "compound=maṇḍala+rājya; n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "nagare",
+     "gloss": "in-city",
+     "grounds": "location of rule",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pārthivaḥ",
+     "gloss": "king",
+     "grounds": "ruler of the earth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What levels of rulership can result from the indicated dream sign?",
+   "premises": [
+    "Rule over a province may arise",
+    "Rule in a city is indicated",
+    "One becomes a king"
+   ],
+   "inference": "The dream sign can lead to kingship at regional or city levels",
+   "uncertainties": [],
+   "plain_english": "There may be rule over a province, or one becomes a king in a city."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "grasanaṃ",
+     "gloss": "devouring",
+     "grounds": "act of swallowing or consuming",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "those who are hostile",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadhakriyā",
+     "gloss": "killing-act",
+     "grounds": "compound of killing and act",
+     "morph": "compound=vadha+kriyā; f.nom.sg"
+    }
+   ],
+   "question": "What hostile outcomes toward enemies are signified by the dream?",
+   "premises": [
+    "Devouring is indicated",
+    "Enemies are the object",
+    "Alternatively, an act of killing is indicated"
+   ],
+   "inference": "The dream signifies overpowering or destroying enemies",
+   "uncertainties": [],
+   "plain_english": "It signifies the devouring of enemies or an act of killing them."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "vaḍavāmahiṣīsiṃhīgohastinyādidohanam",
+     "gloss": "mare-she-buffalo-lioness-cow-she-elephant-etc-milking",
+     "grounds": "long compound listing female animals being milked",
+     "morph": "compound=vaḍavā+mahiṣī+siṃhī+go+hastinī+ādi+dohana; n.nom.sg"
+    }
+   ],
+   "question": "What does milking various female animals in a dream signify?",
+   "premises": [
+    "Milking is the central action",
+    "Various female animals are involved",
+    "The list includes mare, buffalo, lioness, cow, and elephant"
+   ],
+   "inference": "Milking these animals in a dream is a significant omen with specific results",
+   "uncertainties": [
+    "The specific outcome of this omen is not stated in this unit"
+   ],
+   "plain_english": "Milking a mare, she-buffalo, lioness, cow, she-elephant, and others is a dream sign."
+  }
+ ]
+}
