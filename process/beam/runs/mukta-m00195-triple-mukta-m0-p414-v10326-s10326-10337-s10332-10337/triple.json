@@ -1,0 +1,311 @@
+{
+ "song": "mukta-m0-p414",
+ "items": [
+  {
+   "verse": 10332,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introductory particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampravakṣyāmi",
+     "gloss": "i-shall-explain",
+     "grounds": "verb of declaration introducing the teaching",
+     "morph": "1.sg.act-fut sam-pra-√vac"
+    },
+    {
+     "surface": "maṇḍala",
+     "gloss": "mandala",
+     "grounds": "first member of compound",
+     "morph": "compound: maṇḍala+dhyānam"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "object of explanation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adbhūtam",
+     "gloss": "wondrous",
+     "grounds": "qualifies the meditation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What wondrous meditation on the mandala is introduced as the next teaching?",
+   "premises": [
+    "The speaker signals a transition with 'atha' and 'ataḥ'.",
+    "The speaker declares an intention to explain something.",
+    "The object to be explained is a wondrous mandala meditation."
+   ],
+   "inference": "The text announces that a wondrous meditation on the mandala will now be taught.",
+   "uncertainties": [],
+   "plain_english": "Now, therefore, I shall explain the wondrous meditation on the mandala."
+  },
+  {
+   "verse": 10333,
+   "rows": [
+    {
+     "surface": "nandyāvartān",
+     "gloss": "nandyavarta-figures",
+     "grounds": "objects to be visualized",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "location of visualization",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "injunctive instruction for meditation",
+     "morph": "3.sg.act-opt √cint"
+    },
+    {
+     "surface": "bhūmi",
+     "gloss": "earth",
+     "grounds": "first member of compound",
+     "morph": "compound: bhūmi+maṇḍalam"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "mandala",
+     "grounds": "object associated with the visualization",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the earth mandala be visualized in its corners?",
+   "premises": [
+    "The instruction prescribes visualization.",
+    "Nandyavarta figures are the objects to be visualized.",
+    "The location specified for them is the corners of the earth mandala."
+   ],
+   "inference": "One should visualize nandyavarta figures in the corners of the earth mandala.",
+   "uncertainties": [],
+   "plain_english": "One should visualize nandyavarta figures in the corners of the earth mandala."
+  },
+  {
+   "verse": 10334,
+   "rows": [
+    {
+     "surface": "vāruṇaṃ",
+     "gloss": "of-water",
+     "grounds": "qualifies the mandala as belonging to water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śvetaṃ",
+     "gloss": "white",
+     "grounds": "describes the color of the mandala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "specifies location within the mandala",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃbīja",
+     "gloss": "vaṃ-seed",
+     "grounds": "seed syllable marking the mandala",
+     "morph": "compound: vaṃ+bīja"
+    },
+    {
+     "surface": "lāñchitam",
+     "gloss": "marked",
+     "grounds": "indicates the mandala bears the seed syllable",
+     "morph": "n.acc.sg ppp √lāñch"
+    }
+   ],
+   "question": "What are the defining color and central mark of the water mandala?",
+   "premises": [
+    "The mandala is identified as belonging to water.",
+    "Its color is specified as white.",
+    "Its middle is marked with the vaṃ seed syllable."
+   ],
+   "inference": "The water mandala is white and marked in the middle with the vaṃ seed syllable.",
+   "uncertainties": [],
+   "plain_english": "The water mandala is white and marked in the middle with the seed syllable vaṃ."
+  },
+  {
+   "verse": 10335,
+   "rows": [
+    {
+     "surface": "taijasaṃ",
+     "gloss": "fiery",
+     "grounds": "qualifies the mandala as fiery",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "indicates traditional teaching",
+     "morph": "n.acc.sg ppp pra-√vac"
+    },
+    {
+     "surface": "dhyeyaṃ",
+     "gloss": "to-be-meditated",
+     "grounds": "prescribes meditation on the mandala",
+     "morph": "n.acc.sg gerundive √dhyai"
+    },
+    {
+     "surface": "bhāvukasattamaiḥ",
+     "gloss": "by-best-contemplatives",
+     "grounds": "specifies the practitioners",
+     "morph": "m.inst.pl compound: bhāvuka+sattamaiḥ"
+    }
+   ],
+   "question": "Who is instructed to meditate on the declared fiery mandala?",
+   "premises": [
+    "A fiery mandala is declared.",
+    "This mandala is prescribed as an object of meditation.",
+    "The best contemplatives are named as those who should meditate on it."
+   ],
+   "inference": "The declared fiery mandala is to be meditated upon by the best contemplatives.",
+   "uncertainties": [],
+   "plain_english": "The fiery mandala is declared and should be meditated upon by the best contemplatives."
+  },
+  {
+   "verse": 10336,
+   "rows": [
+    {
+     "surface": "samīra",
+     "gloss": "wind",
+     "grounds": "first member of compound",
+     "morph": "compound: samīra+maṇḍalam"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhūmra",
+     "gloss": "smoke",
+     "grounds": "first member of compound describing color",
+     "morph": "compound: dhūmra+varṇam"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "colored",
+     "grounds": "describes the appearance of the mandala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyeyaṃ",
+     "gloss": "to-be-meditated",
+     "grounds": "prescribes meditation on the mandala",
+     "morph": "n.acc.sg gerundive √dhyai"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continual practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janaiḥ",
+     "gloss": "by-people",
+     "grounds": "specifies the practitioners",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is the prescribed appearance and practice for the wind mandala?",
+   "premises": [
+    "The mandala is identified as belonging to wind.",
+    "Its color is described as smoke-colored.",
+    "People are instructed to meditate on it always."
+   ],
+   "inference": "The smoke-colored wind mandala should always be meditated upon by people.",
+   "uncertainties": [],
+   "plain_english": "People should always meditate on the wind mandala, which is smoke-colored."
+  },
+  {
+   "verse": 10337,
+   "rows": [
+    {
+     "surface": "nīla",
+     "gloss": "blue",
+     "grounds": "first member of compound describing color",
+     "morph": "compound: nīla+varṇam"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "colored",
+     "grounds": "describes appearance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound qualifying void",
+     "morph": "compound: mahā+śūnyam"
+    },
+    {
+     "surface": "śūnyam",
+     "gloss": "void",
+     "grounds": "object to be remembered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anāhata",
+     "gloss": "unstruck",
+     "grounds": "first member of compound describing sound",
+     "morph": "compound: anāhata+ravam"
+    },
+    {
+     "surface": "ravaṃ",
+     "gloss": "sound",
+     "grounds": "qualifies the void by its sound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "injunctive instruction for meditation",
+     "morph": "3.sg.act-opt √smṛ"
+    }
+   ],
+   "question": "What qualities characterize the great void that one should remember?",
+   "premises": [
+    "The instruction prescribes remembrance.",
+    "The object of remembrance is a great void.",
+    "This void is characterized as blue-colored and having an unstruck sound."
+   ],
+   "inference": "One should remember the great void as blue-colored and resonant with the unstruck sound.",
+   "uncertainties": [],
+   "plain_english": "One should remember the great void as blue in color and filled with the unstruck sound."
+  }
+ ]
+}

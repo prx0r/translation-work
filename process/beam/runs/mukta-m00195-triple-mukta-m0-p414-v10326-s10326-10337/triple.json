@@ -1,0 +1,635 @@
+{
+ "song": "mukta-m0-p414",
+ "items": [
+  {
+   "verse": 10326,
+   "rows": [
+    {
+     "surface": "gadā",
+     "gloss": "mace",
+     "grounds": "weapon held by a guardian",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "spear",
+     "grounds": "weapon held by a guardian",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "gesture or gift held by a guardian",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpaṃ",
+     "gloss": "bow",
+     "grounds": "weapon held by a guardian",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāhyeṣu",
+     "gloss": "in-outer-directions",
+     "grounds": "location of the guardians",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dikpitīn",
+     "gloss": "direction-guardians",
+     "grounds": "deities guarding the directions",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What implements are assigned to the direction guardians stationed in the outer directions?",
+   "premises": [
+    "The mace, spear, boon, and bow are named as implements.",
+    "These implements are associated with the outer directions.",
+    "The direction guardians are the recipients or bearers in that context."
+   ],
+   "inference": "The direction guardians in the outer directions are to be envisioned bearing the mace, spear, boon, and bow.",
+   "uncertainties": [
+    "The exact pairing of each implement with a specific guardian is not specified in this verse."
+   ],
+   "plain_english": "In the outer directions, the guardians of the directions hold the mace, spear, boon, and bow."
+  },
+  {
+   "verse": 10327,
+   "rows": [
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "prescribed recitation action",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmāni",
+     "gloss": "lotuses",
+     "grounds": "offerings for the fire rite",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "svādvaktāni",
+     "gloss": "sweet-spoken",
+     "grounds": "qualified lotuses accompanied by sweet speech",
+     "morph": "n.acc.pl compound=svādu+vakta"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "should-offer",
+     "grounds": "prescribed fire offering action",
+     "morph": "3.sg.opt.caus.act √hu"
+    }
+   ],
+   "question": "What recitation and fire offering actions are prescribed as part of this ritual procedure?",
+   "premises": [
+    "A recitation of one hundred thousand is prescribed.",
+    "Lotuses described as sweet-spoken are specified as offerings.",
+    "A fire offering action is prescribed."
+   ],
+   "inference": "The practitioner should mutter one hundred thousand times and offer lotuses with sweet speech into the fire.",
+   "uncertainties": [
+    "The exact meaning of svādvaktāni as applied to lotuses is ambiguous."
+   ],
+   "plain_english": "One should mutter one hundred thousand times and offer lotuses accompanied by sweet speech into the fire."
+  },
+  {
+   "verse": 10328,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "refers to the previously mentioned practice",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "anyaprakāreṇa",
+     "gloss": "by-another-method",
+     "grounds": "indicates an alternative procedure",
+     "morph": "m.inst.sg compound=anya+prakāra"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "the ritual procedure being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-taught",
+     "grounds": "introduces the teaching of the method",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What alternative preliminary rite is now being introduced for this practice?",
+   "premises": [
+    "The verse marks a transition with 'now'.",
+    "It refers to the same practice as before.",
+    "It states that a preliminary rite is taught by another method."
+   ],
+   "inference": "An alternative method for performing the preliminary rite of this practice is now being taught.",
+   "uncertainties": [],
+   "plain_english": "Now the preliminary rite for this is taught by another method."
+  },
+  {
+   "verse": 10329,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "proportion to be offered",
+     "morph": "m.acc.sg compound=daśa+aṃśa"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "prescribed fire offering action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "location of the offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puraścaraṇavān",
+     "gloss": "having-completed-preliminary-rite",
+     "grounds": "state achieved by the practitioner",
+     "morph": "m.nom.sg compound=puraścaraṇa+vat"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state of the practitioner",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What offering proportion makes the practitioner accomplished in the preliminary rite?",
+   "premises": [
+    "A tenth part is specified as the amount to offer.",
+    "The offering is to be made in fire.",
+    "Completing this makes one accomplished in the preliminary rite."
+   ],
+   "inference": "By offering a tenth part in the fire, the practitioner becomes accomplished in the preliminary rite.",
+   "uncertainties": [
+    "The base quantity of which a tenth is offered is not stated in this verse."
+   ],
+   "plain_english": "One should offer a tenth part in the fire and thereby become accomplished in the preliminary rite."
+  },
+  {
+   "verse": 10330,
+   "rows": [
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of a list of prosperities",
+     "morph": "n.stem compound-member"
+    },
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "second member of a list of prosperities",
+     "morph": "n.stem compound-member"
+    },
+    {
+     "surface": "dharā",
+     "gloss": "earth",
+     "grounds": "third member of a list of prosperities",
+     "morph": "f.stem compound-member"
+    },
+    {
+     "surface": "lakṣmyaḥ",
+     "gloss": "prosperities",
+     "grounds": "collective result of the rite",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "states the arising of results",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locates the result in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negates doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "what is negated regarding the result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What material prosperities are guaranteed to arise from this preliminary rite without doubt?",
+   "premises": [
+    "Wealth, grain, and earth are listed as prosperities.",
+    "These prosperities are said to arise in this context.",
+    "The verse explicitly denies any doubt about this result."
+   ],
+   "inference": "The preliminary rite produces wealth, grain, land, and other prosperities without doubt.",
+   "uncertainties": [],
+   "plain_english": "Wealth, grain, land, and prosperities arise from this; there is no doubt."
+  },
+  {
+   "verse": 10331,
+   "rows": [
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-water-rite",
+     "grounds": "ritual context associated with Varuna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtyutaḥ",
+     "gloss": "from-death",
+     "grounds": "danger from which peace is obtained",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "peace",
+     "grounds": "result of the water rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āgneye",
+     "gloss": "in-fire-rite",
+     "grounds": "ritual context associated with fire",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jvara",
+     "gloss": "fever",
+     "grounds": "condition to be subdued",
+     "morph": "m.stem compound-member"
+    },
+    {
+     "surface": "vaśyatā",
+     "gloss": "subjugation",
+     "grounds": "result of the fire rite over fever",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What specific protective results are obtained from the water rite and the fire rite respectively?",
+   "premises": [
+    "The water rite is associated with peace from death.",
+    "The fire rite is associated with subjugation of fever.",
+    "Each rite yields a distinct protective outcome."
+   ],
+   "inference": "The water rite brings peace from death, while the fire rite brings subjugation of fever.",
+   "uncertainties": [],
+   "plain_english": "In the water rite there is peace from death; in the fire rite there is subjugation of fever."
+  },
+  {
+   "verse": 10332,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introductory particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampravakṣyāmi",
+     "gloss": "i-shall-explain",
+     "grounds": "verb of declaration introducing the teaching",
+     "morph": "1.sg.act-fut sam-pra-√vac"
+    },
+    {
+     "surface": "maṇḍala",
+     "gloss": "mandala",
+     "grounds": "first member of compound",
+     "morph": "compound: maṇḍala+dhyānam"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "object of explanation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adbhūtam",
+     "gloss": "wondrous",
+     "grounds": "qualifies the meditation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What wondrous meditation on the mandala is introduced as the next teaching?",
+   "premises": [
+    "The speaker signals a transition with 'atha' and 'ataḥ'.",
+    "The speaker declares an intention to explain something.",
+    "The object to be explained is a wondrous mandala meditation."
+   ],
+   "inference": "The text announces that a wondrous meditation on the mandala will now be taught.",
+   "uncertainties": [],
+   "plain_english": "Now, therefore, I shall explain the wondrous meditation on the mandala."
+  },
+  {
+   "verse": 10333,
+   "rows": [
+    {
+     "surface": "nandyāvartān",
+     "gloss": "nandyavarta-figures",
+     "grounds": "objects to be visualized",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "location of visualization",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "injunctive instruction for meditation",
+     "morph": "3.sg.act-opt √cint"
+    },
+    {
+     "surface": "bhūmi",
+     "gloss": "earth",
+     "grounds": "first member of compound",
+     "morph": "compound: bhūmi+maṇḍalam"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "mandala",
+     "grounds": "object associated with the visualization",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the earth mandala be visualized in its corners?",
+   "premises": [
+    "The instruction prescribes visualization.",
+    "Nandyavarta figures are the objects to be visualized.",
+    "The location specified for them is the corners of the earth mandala."
+   ],
+   "inference": "One should visualize nandyavarta figures in the corners of the earth mandala.",
+   "uncertainties": [],
+   "plain_english": "One should visualize nandyavarta figures in the corners of the earth mandala."
+  },
+  {
+   "verse": 10334,
+   "rows": [
+    {
+     "surface": "vāruṇaṃ",
+     "gloss": "of-water",
+     "grounds": "qualifies the mandala as belonging to water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śvetaṃ",
+     "gloss": "white",
+     "grounds": "describes the color of the mandala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "specifies location within the mandala",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃbīja",
+     "gloss": "vaṃ-seed",
+     "grounds": "seed syllable marking the mandala",
+     "morph": "compound: vaṃ+bīja"
+    },
+    {
+     "surface": "lāñchitam",
+     "gloss": "marked",
+     "grounds": "indicates the mandala bears the seed syllable",
+     "morph": "n.acc.sg ppp √lāñch"
+    }
+   ],
+   "question": "What are the defining color and central mark of the water mandala?",
+   "premises": [
+    "The mandala is identified as belonging to water.",
+    "Its color is specified as white.",
+    "Its middle is marked with the vaṃ seed syllable."
+   ],
+   "inference": "The water mandala is white and marked in the middle with the vaṃ seed syllable.",
+   "uncertainties": [],
+   "plain_english": "The water mandala is white and marked in the middle with the seed syllable vaṃ."
+  },
+  {
+   "verse": 10335,
+   "rows": [
+    {
+     "surface": "taijasaṃ",
+     "gloss": "fiery",
+     "grounds": "qualifies the mandala as fiery",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "indicates traditional teaching",
+     "morph": "n.acc.sg ppp pra-√vac"
+    },
+    {
+     "surface": "dhyeyaṃ",
+     "gloss": "to-be-meditated",
+     "grounds": "prescribes meditation on the mandala",
+     "morph": "n.acc.sg gerundive √dhyai"
+    },
+    {
+     "surface": "bhāvukasattamaiḥ",
+     "gloss": "by-best-contemplatives",
+     "grounds": "specifies the practitioners",
+     "morph": "m.inst.pl compound: bhāvuka+sattamaiḥ"
+    }
+   ],
+   "question": "Who is instructed to meditate on the declared fiery mandala?",
+   "premises": [
+    "A fiery mandala is declared.",
+    "This mandala is prescribed as an object of meditation.",
+    "The best contemplatives are named as those who should meditate on it."
+   ],
+   "inference": "The declared fiery mandala is to be meditated upon by the best contemplatives.",
+   "uncertainties": [],
+   "plain_english": "The fiery mandala is declared and should be meditated upon by the best contemplatives."
+  },
+  {
+   "verse": 10336,
+   "rows": [
+    {
+     "surface": "samīra",
+     "gloss": "wind",
+     "grounds": "first member of compound",
+     "morph": "compound: samīra+maṇḍalam"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "object being described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhūmra",
+     "gloss": "smoke",
+     "grounds": "first member of compound describing color",
+     "morph": "compound: dhūmra+varṇam"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "colored",
+     "grounds": "describes the appearance of the mandala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyeyaṃ",
+     "gloss": "to-be-meditated",
+     "grounds": "prescribes meditation on the mandala",
+     "morph": "n.acc.sg gerundive √dhyai"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continual practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janaiḥ",
+     "gloss": "by-people",
+     "grounds": "specifies the practitioners",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is the prescribed appearance and practice for the wind mandala?",
+   "premises": [
+    "The mandala is identified as belonging to wind.",
+    "Its color is described as smoke-colored.",
+    "People are instructed to meditate on it always."
+   ],
+   "inference": "The smoke-colored wind mandala should always be meditated upon by people.",
+   "uncertainties": [],
+   "plain_english": "People should always meditate on the wind mandala, which is smoke-colored."
+  },
+  {
+   "verse": 10337,
+   "rows": [
+    {
+     "surface": "nīla",
+     "gloss": "blue",
+     "grounds": "first member of compound describing color",
+     "morph": "compound: nīla+varṇam"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "colored",
+     "grounds": "describes appearance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound qualifying void",
+     "morph": "compound: mahā+śūnyam"
+    },
+    {
+     "surface": "śūnyam",
+     "gloss": "void",
+     "grounds": "object to be remembered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anāhata",
+     "gloss": "unstruck",
+     "grounds": "first member of compound describing sound",
+     "morph": "compound: anāhata+ravam"
+    },
+    {
+     "surface": "ravaṃ",
+     "gloss": "sound",
+     "grounds": "qualifies the void by its sound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "injunctive instruction for meditation",
+     "morph": "3.sg.act-opt √smṛ"
+    }
+   ],
+   "question": "What qualities characterize the great void that one should remember?",
+   "premises": [
+    "The instruction prescribes remembrance.",
+    "The object of remembrance is a great void.",
+    "This void is characterized as blue-colored and having an unstruck sound."
+   ],
+   "inference": "One should remember the great void as blue-colored and resonant with the unstruck sound.",
+   "uncertainties": [],
+   "plain_english": "One should remember the great void as blue in color and filled with the unstruck sound."
+  }
+ ]
+}

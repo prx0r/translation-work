@@ -1,0 +1,1253 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1051,
+   "rows": [
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "offering substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "offering substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣata",
+     "gloss": "unbroken-rice",
+     "grounds": "offering substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādīni",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "totality of offerings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "āsādayet",
+     "gloss": "should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √āsad"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which offerings must be placed after the preceding ritual steps?",
+   "premises": [
+    "Fragrance, flowers, unbroken rice and similar items are offerings.",
+    "All such offerings must be placed.",
+    "This placement occurs then in sequence."
+   ],
+   "inference": "The practitioner should place all offerings such as fragrance, flowers, and unbroken rice at that stage.",
+   "uncertainties": [],
+   "plain_english": "Then one should place all offerings such as fragrance, flowers, unbroken rice, and so forth."
+  },
+  {
+   "verse": 1052,
+   "rows": [
+    {
+     "surface": "prokṣaṇī",
+     "gloss": "sprinkling",
+     "grounds": "ritual function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pātra",
+     "gloss": "vessel",
+     "grounds": "ritual container",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yugalaṃ",
+     "gloss": "pair",
+     "grounds": "two vessels",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paripūrya",
+     "gloss": "having-filled",
+     "grounds": "prior action",
+     "morph": "(gerund) √pṝ"
+    },
+    {
+     "surface": "śubha",
+     "gloss": "auspicious",
+     "grounds": "quality of water",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ambunā",
+     "gloss": "with-water",
+     "grounds": "substance used for filling",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How should the pair of sprinkling vessels be prepared for use?",
+   "premises": [
+    "A pair of sprinkling vessels is required.",
+    "The vessels must be filled.",
+    "The filling substance is auspicious water."
+   ],
+   "inference": "The pair of sprinkling vessels should be filled with auspicious water.",
+   "uncertainties": [],
+   "plain_english": "Having filled the pair of sprinkling vessels with auspicious water."
+  },
+  {
+   "verse": 1053,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to one vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual container",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "praṇītā",
+     "gloss": "praṇītā",
+     "grounds": "technical ritual name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.present-passive √vac"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "authoritative designation",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What name do the wise assign to that prepared ritual vessel?",
+   "premises": [
+    "One of the vessels is being designated.",
+    "The designation is praṇītā.",
+    "The wise use this designation."
+   ],
+   "inference": "That vessel is called praṇītā by the wise.",
+   "uncertainties": [],
+   "plain_english": "That vessel is called praṇītā by the wise."
+  },
+  {
+   "verse": 1054,
+   "rows": [
+    {
+     "surface": "yajña",
+     "gloss": "sacrifice",
+     "grounds": "ritual context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sādhana",
+     "gloss": "instrument",
+     "grounds": "means of ritual",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sambhārān",
+     "gloss": "materials",
+     "grounds": "ritual implements and substances",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "ritual purification",
+     "morph": "3.sg.optative-active √prokṣ"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "primary mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "with-mantra",
+     "grounds": "mantric means",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the materials used for the sacrifice be ritually purified?",
+   "premises": [
+    "Sacrificial materials require purification.",
+    "Sprinkling is the prescribed action.",
+    "The root mantra is used in the act."
+   ],
+   "inference": "One should sprinkle the sacrificial materials with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle the materials for the sacrifice with the root mantra."
+  },
+  {
+   "verse": 1055,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-southern",
+     "grounds": "directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "area of ritual space",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "veśayet",
+     "gloss": "one-should-seat",
+     "grounds": "ritual placement of person",
+     "morph": "3.sg.optative-causative √viś"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "the officiant",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuśa",
+     "gloss": "kuśa-grass",
+     "grounds": "material of seat",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āsane",
+     "gloss": "on-seat",
+     "grounds": "place of seating",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the officiant be seated within the ritual space?",
+   "premises": [
+    "The officiant must be seated.",
+    "The seating is in the southern part.",
+    "The seat is made of kuśa grass."
+   ],
+   "inference": "One should seat him on a kuśa seat in the southern part.",
+   "uncertainties": [],
+   "plain_english": "One should seat him on a kuśa seat in the southern part."
+  },
+  {
+   "verse": 1056,
+   "rows": [
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "ritual context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "auxiliary part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūta",
+     "gloss": "being",
+     "grounds": "constituting",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "homesmin",
+     "gloss": "in-this-offering",
+     "grounds": "fused form home + asmin",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brāhmaṇaṃ",
+     "gloss": "brahmin",
+     "grounds": "officiant addressed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "direct address",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "vṛṇe",
+     "gloss": "i-choose",
+     "grounds": "formal selection",
+     "morph": "1.sg.present-middle √vṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What formula is spoken when selecting the brahmin for the initiation offering?",
+   "premises": [
+    "A brahmin is chosen for the offering.",
+    "The offering is a limb of initiation.",
+    "The chooser addresses the brahmin directly."
+   ],
+   "inference": "One should say, 'I choose you, brahmin, for this offering which is a limb of initiation.'",
+   "uncertainties": [],
+   "plain_english": "One should say: 'I choose you, brahmin, for this offering which is a limb of initiation.'"
+  },
+  {
+   "verse": 1057,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "additional condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "availability",
+     "morph": "3.sg.present-passive √labh"
+    },
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brahmin",
+     "grounds": "required officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition is considered if a brahmin officiant is unavailable?",
+   "premises": [
+    "A brahmin is normally required.",
+    "Availability may fail.",
+    "The verse states the negative condition."
+   ],
+   "inference": "The verse addresses the case in which a brahmin is not obtained.",
+   "uncertainties": [],
+   "plain_english": "And also, if a brahmin is not available."
+  },
+  {
+   "verse": 1058,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "multiplicity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "keśara",
+     "gloss": "filaments",
+     "grounds": "lotus-like parts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "possessing features",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "number of doors",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvāra",
+     "gloss": "doors",
+     "grounds": "openings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāvṛtam",
+     "gloss": "surrounded",
+     "grounds": "enclosed structure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What structural features characterize the ritual diagram being described?",
+   "premises": [
+    "The structure has various filaments.",
+    "The structure has four doors.",
+    "The structure is enclosed."
+   ],
+   "inference": "The described structure is endowed with various filaments and surrounded by four doors.",
+   "uncertainties": [],
+   "plain_english": "It is endowed with various filaments and surrounded by four doors."
+  },
+  {
+   "verse": 1059,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "of-that",
+     "grounds": "refers back to fire",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vahneḥ",
+     "gloss": "fire",
+     "grounds": "ritual fire",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location in ritual space",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍala",
+     "gloss": "circle",
+     "grounds": "ritual diagram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kādinā",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional elements",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What ritual locus of the fire is indicated for further operations?",
+   "premises": [
+    "The fire is the referent.",
+    "A circle and related elements are present there.",
+    "The phrase indicates continuation."
+   ],
+   "inference": "There, in relation to that fire, the circle and so forth are to be considered.",
+   "uncertainties": [],
+   "plain_english": "There, with the circle and so forth of that fire."
+  },
+  {
+   "verse": 1060,
+   "rows": [
+    {
+     "surface": "prādakṣiṇyena",
+     "gloss": "clockwise",
+     "grounds": "direction of movement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "starting or reference point",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "to-end",
+     "grounds": "extent of sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pītāṃ",
+     "gloss": "yellow",
+     "grounds": "color attribute",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śvetāṃ",
+     "gloss": "white",
+     "grounds": "color attribute",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aruṇām",
+     "gloss": "red",
+     "grounds": "color attribute",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "In what order and colors are the elements arranged around the fire circle?",
+   "premises": [
+    "The arrangement proceeds clockwise.",
+    "The sequence runs from middle to end.",
+    "The colors named are yellow, white, and red."
+   ],
+   "inference": "The elements are arranged clockwise from middle to end as yellow, white, and red.",
+   "uncertainties": [],
+   "plain_english": "Clockwise, from the middle to the end, as yellow, white, and red."
+  },
+  {
+   "verse": 1061,
+   "rows": [
+    {
+     "surface": "rucirāṃ",
+     "gloss": "beautiful",
+     "grounds": "quality attribute",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jvālinīṃ",
+     "gloss": "flaming",
+     "grounds": "fiery quality",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "entirety",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pedestal",
+     "grounds": "ritual seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "What concluding attributes define the pedestal that must be worshipped?",
+   "premises": [
+    "The pedestal is described as beautiful and flaming.",
+    "The enumeration is concluded with thus.",
+    "The entire pedestal must be worshipped."
+   ],
+   "inference": "One should worship the entire pedestal as beautiful and flaming.",
+   "uncertainties": [],
+   "plain_english": "Thus one should worship the entire pedestal as beautiful and flaming."
+  },
+  {
+   "verse": 1062,
+   "rows": [
+    {
+     "surface": "samasta",
+     "gloss": "entire",
+     "grounds": "totality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "pedestal",
+     "grounds": "ritual seat",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjāyāṃ",
+     "gloss": "in-worship",
+     "grounds": "ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "deity or element invoked",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "is-declared",
+     "grounds": "scriptural statement",
+     "morph": "m.nom.sg.past-passive-participle √hṛ"
+    }
+   ],
+   "question": "Which mantra is prescribed for worship of the entire pedestal?",
+   "premises": [
+    "The context is worship of the entire pedestal.",
+    "A specific mantra is declared for it.",
+    "The mantra is the fire mantra."
+   ],
+   "inference": "The fire mantra is declared for the worship of the entire pedestal.",
+   "uncertainties": [],
+   "plain_english": "In the worship of the entire pedestal, the fire mantra is declared."
+  },
+  {
+   "verse": 1063,
+   "rows": [
+    {
+     "surface": "saṃyuktaiḥ",
+     "gloss": "endowed-with",
+     "grounds": "possessing",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhujaiḥ",
+     "gloss": "arms",
+     "grounds": "bodily limbs",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "complete manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "virājitam",
+     "gloss": "shining",
+     "grounds": "radiant appearance",
+     "morph": "n.acc.sg.past-passive-participle √rāj"
+    }
+   ],
+   "question": "How is the visual form of the invoked fire deity described?",
+   "premises": [
+    "The form has arms.",
+    "The arms are properly present.",
+    "The form shines."
+   ],
+   "inference": "The form is properly shining, endowed with arms.",
+   "uncertainties": [],
+   "plain_english": "Properly shining, endowed with arms."
+  },
+  {
+   "verse": 1064,
+   "rows": [
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "number of eyes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eyed",
+     "grounds": "having eyes",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṭā",
+     "gloss": "matted-hair",
+     "grounds": "ascetic hairstyle",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maulim",
+     "gloss": "crowned",
+     "grounds": "having a crown or crest",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīta",
+     "gloss": "yellow",
+     "grounds": "color of garment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "garment",
+     "grounds": "clothing",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aruṇa",
+     "gloss": "red",
+     "grounds": "color of garland",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "srajam",
+     "gloss": "garlanded",
+     "grounds": "wearing a garland",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What iconographic features further characterize the fire deity's form?",
+   "premises": [
+    "The deity is three-eyed and crowned with matted hair.",
+    "The deity wears yellow garments.",
+    "The deity wears a red garland."
+   ],
+   "inference": "The fire deity is three-eyed, matted-haired, clad in yellow, and garlanded in red.",
+   "uncertainties": [],
+   "plain_english": "Three-eyed, crowned with matted hair, wearing yellow garments and a red garland."
+  },
+  {
+   "verse": 1065,
+   "rows": [
+    {
+     "surface": "p. 60",
+     "gloss": "page-60",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiśvānara",
+     "gloss": "vaiśvānara",
+     "grounds": "name of fire",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "jātaveda",
+     "gloss": "jātaveda",
+     "grounds": "name of fire",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ihāvaha",
+     "gloss": "bring-here",
+     "grounds": "invocation command",
+     "morph": "2.sg.imperative-active √vah"
+    },
+    {
+     "surface": "lohitākṣa",
+     "gloss": "red-eyed-one",
+     "grounds": "epithet of fire",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What invocation addresses the fire deity by name and epithet?",
+   "premises": [
+    "The fire is addressed as Vaiśvānara and Jātaveda.",
+    "The fire is called red-eyed.",
+    "The fire is commanded to come here."
+   ],
+   "inference": "The invocation calls Vaiśvānara, Jātaveda, the red-eyed one, to come here.",
+   "uncertainties": [],
+   "plain_english": "O Vaiśvānara, Jātaveda, red-eyed one, bring here."
+  },
+  {
+   "verse": 1066,
+   "rows": [
+    {
+     "surface": "saptaviṃśati",
+     "gloss": "twenty-seven",
+     "grounds": "syllable count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣaraḥ",
+     "gloss": "syllabled",
+     "grounds": "having syllables",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "refers to mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "ritual context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjane",
+     "gloss": "in-worship",
+     "grounds": "ritual application",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What syllable count defines the mantra used in fire worship?",
+   "premises": [
+    "A mantra is prescribed for fire worship.",
+    "The mantra has a specific syllable count.",
+    "The count is twenty-seven."
+   ],
+   "inference": "This mantra for fire worship should be twenty-seven syllables long.",
+   "uncertainties": [],
+   "plain_english": "This mantra for fire worship should be of twenty-seven syllables."
+  },
+  {
+   "verse": 1067,
+   "rows": [
+    {
+     "surface": "jihvā",
+     "gloss": "tongue",
+     "grounds": "flame-tongue of fire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jvālā",
+     "gloss": "flame",
+     "grounds": "fiery manifestation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rucaḥ",
+     "gloss": "splendors",
+     "grounds": "radiances",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vara",
+     "gloss": "boon",
+     "grounds": "gesture of granting",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhaya",
+     "gloss": "fearlessness",
+     "grounds": "gesture of protection",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karāḥ",
+     "gloss": "hand-making",
+     "grounds": "forming gestures",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "additional attribute",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What gestures are attributed to all the tongues and flames of the fire?",
+   "premises": [
+    "All tongues and flame-splendors are included.",
+    "They make hand gestures.",
+    "The gestures are boon-giving and fearlessness."
+   ],
+   "inference": "All the tongues and flame-splendors likewise make the gestures of boon and fearlessness.",
+   "uncertainties": [],
+   "plain_english": "All the tongues and flame-splendors likewise make the gestures of granting boons and fearlessness."
+  },
+  {
+   "verse": 1068,
+   "rows": [
+    {
+     "surface": "vaiḍūrya",
+     "gloss": "beryl",
+     "grounds": "gem color reference",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "having color",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanakā",
+     "gloss": "golden",
+     "grounds": "name or quality of flame-tongue",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "directional placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "stambhana",
+     "gloss": "paralyzing",
+     "grounds": "ritual function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kārya",
+     "gloss": "function",
+     "grounds": "task or effect",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛt",
+     "gloss": "engaged-in",
+     "grounds": "occupied with",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which flame-tongue in the east is associated with the paralyzing function?",
+   "premises": [
+    "A flame-tongue is beryl-colored and called Kanakā.",
+    "It is located in the east.",
+    "It is engaged in the function of paralyzing."
+   ],
+   "inference": "The beryl-colored Kanakā in the east is engaged in the function of paralyzing.",
+   "uncertainties": [],
+   "plain_english": "The beryl-colored Kanakā in the east is engaged in the function of paralyzing."
+  },
+  {
+   "verse": 1069,
+   "rows": [
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "color",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "añjana",
+     "gloss": "collyrium",
+     "grounds": "dark substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "caya",
+     "gloss": "mass",
+     "grounds": "heap or accumulation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prakhyā",
+     "gloss": "resembling",
+     "grounds": "similar in appearance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "directional placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "māraṇa",
+     "gloss": "killing",
+     "grounds": "ritual function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "capable",
+     "grounds": "able to perform",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which flame-tongue in the southwest is capable of the killing function?",
+   "premises": [
+    "A flame-tongue resembles a mass of black collyrium.",
+    "It is located in the southwest.",
+    "It is capable of killing."
+   ],
+   "inference": "The flame-tongue in the southwest, resembling black collyrium, is capable of killing.",
+   "uncertainties": [],
+   "plain_english": "In the southwest is one resembling a mass of black collyrium, capable of killing."
+  },
+  {
+   "verse": 1070,
+   "rows": [
+    {
+     "surface": "jayā",
+     "gloss": "victory",
+     "grounds": "name or quality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ābhāsā",
+     "gloss": "resembling",
+     "grounds": "appearance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśye",
+     "gloss": "in-subjugation",
+     "grounds": "ritual function",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāyu",
+     "gloss": "wind",
+     "grounds": "directional deity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "diśaṃ",
+     "gloss": "direction",
+     "grounds": "northwest direction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone-to",
+     "grounds": "located in",
+     "morph": "f.nom.sg.past-passive-participle √gam"
+    }
+   ],
+   "question": "Which flame-tongue in the northwest direction is associated with subjugation?",
+   "premises": [
+    "A flame-tongue has the appearance of victory.",
+    "It is located in the direction of wind.",
+    "It functions in subjugation."
+   ],
+   "inference": "The victory-like flame-tongue in the northwest is associated with subjugation.",
+   "uncertainties": [],
+   "plain_english": "Resembling victory, gone to the direction of wind, it functions in subjugation."
+  },
+  {
+   "verse": 1071,
+   "rows": [
+    {
+     "surface": "aneka",
+     "gloss": "manifold",
+     "grounds": "many kinds",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kārya",
+     "gloss": "tasks",
+     "grounds": "ritual aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃsiddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "successful completion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāśa",
+     "gloss": "destruction",
+     "grounds": "removal or ruin",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kartrī",
+     "gloss": "causing",
+     "grounds": "agent of effect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "that flame-tongue",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "traditional view",
+     "morph": "f.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What dual powers are attributed to that flame-tongue in ritual use?",
+   "premises": [
+    "The flame-tongue accomplishes manifold tasks.",
+    "The flame-tongue causes destruction.",
+    "This is the accepted view."
+   ],
+   "inference": "She is considered the accomplisher of manifold tasks and the cause of destruction.",
+   "uncertainties": [],
+   "plain_english": "She is considered the accomplisher of manifold tasks and also the cause of destruction."
+  },
+  {
+   "verse": 1072,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "parallel case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "desired result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viparīte",
+     "gloss": "in-reverse",
+     "grounds": "opposite condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viparyayaḥ",
+     "gloss": "reverse",
+     "grounds": "opposite outcome",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What outcome follows when the ritual condition is reversed?",
+   "premises": [
+    "Success occurs under proper conditions.",
+    "The condition can be reversed.",
+    "Reversal yields the opposite outcome."
+   ],
+   "inference": "Likewise, in the reverse condition there is the reverse of success.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in the reverse case, success becomes its opposite."
+  },
+  {
+   "verse": 1073,
+   "rows": [
+    {
+     "surface": "lelihā",
+     "gloss": "lelihā",
+     "grounds": "name of flame-tongue",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jihvā",
+     "gloss": "tongue",
+     "grounds": "flame-tongue",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇava",
+     "gloss": "vaiṣṇava",
+     "grounds": "related to Viṣṇu rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-rite",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which flame-tongue is specified for use in a Vaiṣṇava rite?",
+   "premises": [
+    "A flame-tongue is named Lelihā.",
+    "The context is a Vaiṣṇava rite.",
+    "The tongue is designated for that rite."
+   ],
+   "inference": "The flame-tongue called Lelihā is used in a Vaiṣṇava rite.",
+   "uncertainties": [],
+   "plain_english": "And the tongue called Lelihā is used in a Vaiṣṇava rite."
+  },
+  {
+   "verse": 1074,
+   "rows": [
+    {
+     "surface": "sakalāḥ",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jihvāḥ",
+     "gloss": "tongues",
+     "grounds": "flame-tongues",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "varada",
+     "gloss": "boon-giving",
+     "grounds": "granting wishes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhaya",
+     "gloss": "fearlessness",
+     "grounds": "granting protection",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "satkarāḥ",
+     "gloss": "gesture-endowed",
+     "grounds": "making auspicious gestures",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What universal gestures characterize all the flame-tongues together?",
+   "premises": [
+    "All flame-tongues are included.",
+    "They are endowed with gestures.",
+    "The gestures grant boons and fearlessness."
+   ],
+   "inference": "All the flame-tongues are endowed with the gestures of boon-giving and fearlessness.",
+   "uncertainties": [],
+   "plain_english": "All the tongues are endowed with the gestures of granting boons and fearlessness."
+  }
+ ]
+}

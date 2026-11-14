@@ -29,7 +29,7 @@
 [is-given](dīyate) [manifold](vividhā) [knowledge](vidyā) [illusion](māyā) [prosperity](śrīḥ) [facing-all-directions](sarvataḥ+mukhī)
 
 ## mukta-m0-p11-v260
-[by-pair-pair-sequence](yugma+yugma+krameṇa) [also](api) [mantra](mantraḥ) [this](ayaṃ) [manifold](vividho) [may-be](bhavet)
+[by-pair-and-pair-sequence](yugma+yugma+krameṇa) [also](api) [mantra](mantraḥ) [this](ayaṃ) [manifold](vividhaḥ) [may-be](bhavet)
 
 ## mukta-m0-p11-v261
 [for-devotees](bhaktānāṃ) [accomplishment-giver](siddhi+dāyakaṃ) [may-be](bhavet)
@@ -38,7 +38,7 @@
 [of-mantra](mantrasya) [presiding-deity](adhiṣṭhātṛ) [may-be](bhavet)
 
 ## mukta-m0-p11-v263
-[by-sat-cit-one-brahman](sat+cit+ekaṃ+brahma) [by-this-statement](iti+anena) [indeed](tu) [thus-śrī](śrī+iti)
+[by-saccid-ekam-brahma-thus](sat+cit+ekaṃ brahma+iti+anena) [indeed](tu) [śrī-thus](śrī+iti)
 
 ## mukta-m0-p11-v264
 [deity](devatā) [supreme](paramaṃ) [brahman](brahma) [inner-controller-of-all](sarva+antaryāmi) [without-qualities](nirguṇam)
@@ -50,22 +50,22 @@
 [on-thumb-index-middle-ring-fingers](aṅguṣṭha+tarjanī+madhya+anāmikāsu) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p11-v267
-[namaḥ](namaḥ) [svāhā](svāhā) [vaṣaṭ](vaṣaṭ) [hūṃ](hū/) [vauṣaṭ](vauṣaṭ) [ending-with-phaṭ](phaḍ+antaiḥ) [in-due-order](yathā+kramam)
+[with-namaḥ-svāhā-vaṣaṭ-hūṁ-vauṣaṭ-phaṭ-ending](namaḥ svāhā vaṣaṭ hū/ vauṣaṭ phaḍ+antaiḥ) [in-due-order](yathā+kramam)
 
 ## mukta-m0-p11-v268
-[cidbrahma](cidbrahma) [ekaṃ-brahma](ekaṃ brahma) [saccit](saccit) [cidekam](cidekam) [thus](iti)
+[cidbrahma](cidbrahma) [separator](|) [ekaṃ-brahma](ekaṃ brahma) [separator](|) [saccit](saccit) [separator](|) [cidekam-thus](cidekam+iti)
 
 ## mukta-m0-p11-v269
 [limb-nyāsa-etc](aṅga+nyāsa+ityādi) [verse-39](|| 39)
 
 ## mukta-m0-p11-v270
-[beginning-with-heart-up-to-hand](hṛd+ādi+kara+paryantam) [thus](evam) [indeed](eva) [is-prescribed](vidhīyate)
+[up-to-heart-etc-and-hand](hṛd+ādi+kara+paryantam) [thus](evam) [indeed](eva) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p11-v271
-[with-middle-and-ring-fingers](madhyamā+anāmikābhyām) [and](ca) [of-right-hand](dakṣa+hastasya) [O-pārvatī](pārvati)
+[with-middle-and-ring-fingers](madhyamā+anāmikābhyām) [and](ca) [of-right-hand](dakṣa+hastasya) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p11-v272
-[should-fill](pūayet) [breath](pavanaṃ) [practitioner](mantrī) [root-mantra-eight-times](mūlam+aṣṭa+mitaṃ) [reciting](japan)
+[should-fill](pūayet) [breath](pavanaṃ) [practitioner](mantrī) [root-mantra-eight-times](mūlam+aṣṭa+mitam) [reciting](japan)
 
 ## mukta-m0-p11-v273
 [should-recite](japet) [with-thirty-two-repetitions](dvātriṃśatā+āvṛttyā) [then](tato) [through-right-nostril](dakṣiṇa+nāsayā)
@@ -74,4 +74,4 @@
 [in-left-nostril](vāma+nāsā+puṭe) [also](api) [thus](evaṃ) [inhalation-retention-exhalation](pūraka+kumbhaka+recakam)
 
 ## mukta-m0-p11-v275
-[breath-control-method](prāṇāyāma+vidhiḥ) [declared](prokto) [of-brahma-mantra](brahma+mantrasya) [in-practice](sādhane)
+[breath-control-method](prāṇāyāma+vidhiḥ) [declared](proktaḥ) [of-brahma-mantra](brahma+mantrasya) [in-practice](sādhane)
