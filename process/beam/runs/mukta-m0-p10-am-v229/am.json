@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p10",
  "verse": 229,
- "question": "What ornamental and structural elements are placed on the spire pair and corner?",
+ "question": "Which colors are assigned to the visualized forms in this sequence?",
  "premises": [
-  "An ornament is placed on the pair of spires.",
-  "The corner position is also specified.",
-  "Two pratirathas are associated with the corner."
+  "Yellow and white are specified.",
+  "Red is specified.",
+  "Black-colored and smoke-colored are specified."
  ],
- "inference": "An ornament is placed on the spire pair and two pratirathas are placed at the corner.",
- "uncertainties": [
-  "The token pratirathyakaḥ is singular in form but is taken with dve as indicating two pratirathas."
- ],
- "plain_english": "Place an ornament on the pair of spires, and place two pratirathas at the corner."
+ "inference": "The sequence of colors is yellow, white, red, black, and smoke-colored.",
+ "uncertainties": [],
+ "plain_english": "They are yellow, white, red, black-colored, and smoke-colored."
 }

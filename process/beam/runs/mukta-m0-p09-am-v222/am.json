@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 222,
- "question": "What figure must be made for the gods in that location?",
+ "question": "Where must the mind be placed to perform the rite of killing in that same context?",
  "premises": [
-  "The construction is for the gods.",
-  "A lion figure is specified.",
-  "The lion is to be eternal there."
+  "The context is the same as previously indicated.",
+  "The mind can be placed on the right side.",
+  "Placing the mind there enables the killing rite."
  ],
- "inference": "For the gods, an eternal lion should be made there.",
- "uncertainties": [],
- "plain_english": "But for the gods, an eternal lion should indeed be made there."
+ "inference": "In that same context, placing the mind on the right side, one performs the killing rite.",
+ "uncertainties": [
+  "The finite verb is implied from the preceding prescriptive context."
+ ],
+ "plain_english": "In that same context, placing the mind on the right side, one performs the act of killing."
 }

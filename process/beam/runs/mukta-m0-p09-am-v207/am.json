@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 207,
- "question": "Who is pleased by the raising of the temple flag?",
+ "question": "How should mantra syllables and target-name syllables be arranged in sequential alternation?",
  "premises": [
-  "The flag is raised high.",
-  "Gods are pleased by this elevation.",
-  "Ancestors are likewise pleased."
+  "Two mantra syllables are used as instruments.",
+  "Syllables of the target name are included.",
+  "The arrangement proceeds one by one in sequence."
  ],
- "inference": "The elevation of the flag pleases both the gods and the ancestors.",
- "uncertainties": [],
- "plain_english": "By the raising of the flag, the gods and likewise the ancestors are pleased."
+ "inference": "One should alternate mantra syllables with each syllable of the target name in sequence.",
+ "uncertainties": [
+  "The verse is syntactically compressed and may depend on the following verse for a finite verb."
+ ],
+ "plain_english": "One should place, in order, one syllable of the target name alternately with mantra syllables."
 }

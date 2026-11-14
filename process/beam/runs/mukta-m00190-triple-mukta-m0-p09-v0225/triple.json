@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "baindave",
+     "gloss": "in-bindu-related",
+     "grounds": "locative of baindava, pertaining to bindu; analyzed as fused form",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "qualifies bhāge, indicating the right side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "locative noun denoting region or division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive expressing prior action of fixing or establishing",
+     "morph": "(indecl., gerund, √sthā)"
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "object of sthāpya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cared",
+     "gloss": "should-act",
+     "grounds": "optative expressing prescribed conduct",
+     "morph": "3.sg.act.opt, √car"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "subject, the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which region of the bindu should the wise practitioner establish the mind for effective action?",
+   "premises": [
+    "The baindava region includes a right part.",
+    "The mind can be deliberately placed in that part.",
+    "Prescribed action follows from such placement."
+   ],
+   "inference": "Therefore, the wise practitioner should place the mind in the right part of the bindu and then act.",
+   "uncertainties": [
+    "The specific technical function of baindave in this ritual context is not fully explicit."
+   ],
+   "plain_english": "Having placed the mind in the right part of the bindu, the wise one should act."
+  }
+ ]
+}
