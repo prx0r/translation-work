@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p10",
  "verse": 232,
- "question": "Which phonetic units are enumerated for this mantra sequence?",
+ "question": "Which chapter concludes at this point in the Bhuta Shuddhi Tantra dialogue?",
  "premises": [
-  "The verse lists phonetic units.",
-  "The listed items are treated as units.",
-  "The sequence is presented as an enumeration."
+  "The text is the holy Bhuta Shuddhi Tantra",
+  "The frame is the dialogue of Hara and Gauri",
+  "The sixth chapter ends here"
  ],
- "inference": "The verse enumerates phonetic units in sequence.",
- "uncertainties": [
-  "Exact doctrinal referent remains unclear from the supplied token list."
- ],
- "plain_english": "The verse enumerates phonetic units."
+ "inference": "The sixth chapter of the holy Bhuta Shuddhi Tantra in the dialogue of Hara and Gauri concludes here.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the sixth chapter in the holy Bhuta Shuddhi Tantra, in the dialogue of Hara and Gauri."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p10",
  "verse": 234,
- "question": "Which phonetic units are enumerated for this mantra sequence?",
+ "question": "In what manner is the great god asked to reveal further knowledge?",
  "premises": [
-  "The verse lists phonetic units.",
-  "The listed items are treated as units.",
-  "The sequence is presented as an enumeration."
+  "The great god is addressed",
+  "The request is to tell",
+  "Compassion is the requested manner"
  ],
- "inference": "The verse enumerates phonetic units in sequence.",
- "uncertainties": [
-  "Exact doctrinal referent remains unclear from the supplied token list."
- ],
- "plain_english": "The verse enumerates phonetic units."
+ "inference": "The great god is asked to tell further knowledge with compassion.",
+ "uncertainties": [],
+ "plain_english": "O trident-holder, great god, lord, tell me with compassion."
 }

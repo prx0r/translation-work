@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p10",
  "verse": 247,
- "question": "Which phonetic units are enumerated for this mantra sequence?",
+ "question": "What condition renders Brahma inert like a corpse according to this doctrine?",
  "premises": [
-  "The verse lists phonetic units.",
-  "The listed items are treated as units.",
-  "The sequence is presented as an enumeration."
+  "Brahma is the subject",
+  "Shakti may be absent",
+  "Without shakti Brahma is corpse-like"
  ],
- "inference": "The verse enumerates phonetic units in sequence.",
- "uncertainties": [
-  "Exact doctrinal referent remains unclear from the supplied token list."
- ],
- "plain_english": "The verse enumerates phonetic units."
+ "inference": "Without shakti, Brahma is indeed like a corpse.",
+ "uncertainties": [],
+ "plain_english": "O great goddess, without shakti, Brahma is indeed like a corpse."
 }

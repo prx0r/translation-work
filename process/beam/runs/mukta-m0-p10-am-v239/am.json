@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p10",
  "verse": 239,
- "question": "Which phonetic units are enumerated for this mantra sequence?",
+ "question": "What qualities define the bindu located above the half-yoni?",
  "premises": [
-  "The verse lists phonetic units.",
-  "The listed items are treated as units.",
-  "The sequence is presented as an enumeration."
+  "The bindu is above the half-yoni",
+  "The bindu is changeless",
+  "The bindu is desireless"
  ],
- "inference": "The verse enumerates phonetic units in sequence.",
- "uncertainties": [
-  "Exact doctrinal referent remains unclear from the supplied token list."
- ],
- "plain_english": "The verse enumerates phonetic units."
+ "inference": "The bindu above the half-yoni is changeless and desireless.",
+ "uncertainties": [],
+ "plain_english": "Above the half-yoni is the bindu, changeless and desireless."
 }

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "kṛpayā",
+     "gloss": "out-of-compassion",
+     "grounds": "instrumental of kṛpā, expressing the manner of the request",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kathaya",
+     "gloss": "tell",
+     "grounds": "imperative request addressed to the lord",
+     "morph": "imp.2.sg.act √kath"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "pronoun indicating the recipient of the teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative address to the deity or teacher",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tavāhaṃ",
+     "gloss": "your-i",
+     "grounds": "fused form of tava + ahaṃ, expressing the speaker's relation to the lord",
+     "morph": "compound(pron.gen.sg+pron.nom.sg)"
+    },
+    {
+     "surface": "paricārikā",
+     "gloss": "attendant",
+     "grounds": "predicate noun identifying the speaker's role",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "On what basis should the lord compassionately disclose the teaching to his attendant?",
+   "premises": [
+    "The speaker directly addresses the lord with a request to tell.",
+    "The request is explicitly framed as an appeal to compassion.",
+    "The speaker identifies herself as the lord's attendant."
+   ],
+   "inference": "The lord is therefore petitioned to compassionately explain the teaching to his attendant.",
+   "uncertainties": [
+    "tavāhaṃ is treated as a fused surface unit containing tava and ahaṃ."
+   ],
+   "plain_english": "Out of compassion, tell me, O lord; I am your attendant."
+  }
+ ]
+}
