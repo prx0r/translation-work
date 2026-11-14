@@ -373,7 +373,13 @@ def main() -> int:
                     continue
                 toks.append(w2)
             return deparen(norm_ws(" ".join(toks)))
-        fails = [c for c in cites if _clean_cite(c) not in src_flat]
+        # Occurrence is a LETTER-level fact: a cite that re-segments a source
+        # compound (adds a token boundary the source doesn't print) still cites
+        # the source. Compare space-insensitively on both sides (classic branch
+        # already does this). Wrong words still fail; only spacing is forgiven.
+        _sf_nospace = src_flat.replace(" ", "")
+        fails = [c for c in cites
+                 if _clean_cite(c).replace(" ", "") not in _sf_nospace]
         real_fails = [c[:80] for c in fails]
         verses_text = {}
     else:
