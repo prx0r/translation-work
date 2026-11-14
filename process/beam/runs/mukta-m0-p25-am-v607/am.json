@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 607,
- "question": "To which deity must the first oblation be offered in this sequence?",
+ "question": "What width and height limits define the nose pillar in this prescription?",
  "premises": [
-  "An oblation is to be given.",
-  "It is designated as the first oblation.",
-  "The recipient is the god Mahākāla."
+  "The nose pillar has a specified width.",
+  "Its height extends to the upper end of the throat.",
+  "Both dimensions are prescribed together."
  ],
- "inference": "The first oblation must be given to the god Mahākāla.",
- "uncertainties": [],
- "plain_english": "One should give the first oblation to the god Mahākāla."
+ "inference": "The nose pillar should have the stated width and be raised up to the upper end of the throat.",
+ "uncertainties": [
+  "The base unit for these dimensions is supplied by surrounding verses."
+ ],
+ "plain_english": "The nose pillar should have that width and be raised up to the upper end of the throat."
 }

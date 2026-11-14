@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p36",
  "verse": 882,
- "question": "Which common fire-rite materials must be excluded in this ritual procedure?",
+ "question": "What proportional heights are prescribed for the entablature and base in the thirty-four-part scheme?",
  "premises": [
-  "Strewn grass and enclosing sticks are named as possible items.",
-  "The action considered is placing them in the fire.",
-  "The verse explicitly negates that placement."
+  "The entablature height should be three parts.",
+  "The base should be six and a half parts."
  ],
- "inference": "One should not place strewn grass or enclosing sticks in the fire in this rite.",
- "uncertainties": [],
- "plain_english": "But one should not place the strewn grass or the enclosing sticks in the fire."
+ "inference": "In this scheme the entablature is three parts and the base six and a half.",
+ "uncertainties": [
+  "The exact referent of talipaṃ is contextually architectural."
+ ],
+ "plain_english": "The entablature height should be three parts, and the base should be six and a half parts."
 }

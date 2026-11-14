@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-the-temple",
+     "grounds": "genitive relation indicating the possessor of the breadth",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "breadth",
+     "grounds": "object denoting the dimension to be adopted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcasaptāṣṭa",
+     "gloss": "five-seven-eight",
+     "grounds": "numeral compound specifying alternative measures",
+     "morph": "pañca-sapta-aṣṭa+compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle indicating alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-adopt",
+     "grounds": "optative prescribing the choice of breadth",
+     "morph": "3.sg.opt.act√bhaj"
+    }
+   ],
+   "question": "Which alternative breadth measures are prescribed for the temple structure?",
+   "premises": [
+    "The temple possesses a breadth as a measurable dimension.",
+    "The prescribed breadth measures are five, seven, or eight.",
+    "One of these alternative measures should be adopted."
+   ],
+   "inference": "The temple's breadth should be set to five, seven, or eight units.",
+   "uncertainties": [
+    "The specific unit of measurement for five, seven, or eight is not stated in this verse."
+   ],
+   "plain_english": "One should adopt a breadth for the temple of five, seven, or eight."
+  }
+ ]
+}
