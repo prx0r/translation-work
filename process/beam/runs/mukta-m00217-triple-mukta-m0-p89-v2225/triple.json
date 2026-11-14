@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "vistārāt",
+     "gloss": "from-width",
+     "grounds": "ablative indicating the basis of measurement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsedham",
+     "gloss": "height",
+     "grounds": "object of declaration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaḍbhiḥ+ṣaḍbhiḥ",
+     "gloss": "six-by-six",
+     "grounds": "reduplicated instrumental expressing measure; fused token kept as given",
+     "morph": "instr.pl+instr.pl"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "predicate stating the prescribed measure",
+     "morph": "ppp.n.nom.sg (ud-ā-√hṛ)"
+    }
+   ],
+   "question": "What height is prescribed for the lotus in relation to its width?",
+   "premises": [
+    "The lotus has an established width as the basis of measurement.",
+    "The height is considered in relation to that width.",
+    "The height is declared to measure six by six units."
+   ],
+   "inference": "Therefore the lotus's height is prescribed as six-by-six units relative to its width.",
+   "uncertainties": [],
+   "plain_english": "From the width, the height too is declared to be six by six."
+  }
+ ]
+}

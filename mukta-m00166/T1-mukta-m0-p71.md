@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[past](bhūta) + [future](bhāvi) + [illuminating](vibhāvinī) [she-who-illuminates](bhūtabhāvivibhāvinī)
+[past-future-manifesting](bhūta+bhāvi+vibhāvinī)
 
 ## mukta-m0-p71-v1752
-[therefore](ataḥ) + [other](anyaḥ) [who](kaḥ) [always](sadā) + [beginning-and-end](ādyantaḥ) [you](tvāṃ) [to-comprehend](vibhāvayituṃ) [capable](kṣamaḥ)
+[than-that](ataḥ) [other](anyaḥ) [who](kaḥ) [always-beginning-end](sadā+ādi+antaḥ) [you](tvāṃ) [to-comprehend](vibhāvayituṃ) [capable](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[auspicious-one](maṅgalā)
+[auspicious](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[she](sā) [auspicious](maṅgalā) + [you](tva) + [of-him](asya) [always](sadā) [companion](sahāyā)
+[she](sā) [auspicious](maṅgalā) [your](asya) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-[of-good-conduct](suśīlā)
+[virtuous](suśīlā)
 
 ## mukta-m0-p71-v1756
-[yourself](svayaṃ) [of-good-conduct](suśīlā) [if](yadi) [not](na) + [you-had-been](abhaviṣyaḥ)
+[yourself](svayaṃ) [virtuous](suśīlā) [if](yadi) [not](na) [you-were](abhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[supreme-truth](paramārtha) + [awakener](prabodhikā)
+[supreme-truth-awakener](parama+artha+prabodhikā)
 
 ## mukta-m0-p71-v1758
-[by-whose](yad) + [attainment](āptyā) [delusive](bhrāmakān) + [other](anyān) + [calamities](arthāñ) [I-know](jānāmi) [like-grass](śaṣpavat)
+[by-whose-attainment](yat+āptyā) [deluding](bhrāmakān) [other](anyān) [calamities](arthāñ) [I-know](jānāmi) [like-grass](śaṣpa+vat)
 
 ## mukta-m0-p71-v1759
-[skilful-one](dakṣiṇā)
+[skillful](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[therefore](yatas) + [therefore](tatas) + [by-those-wise](tatprajñaiḥ) + [as-dakṣiṇā](dakṣiṇā) + [thus](iti) [you-are-celebrated](prakīrtyase)
+[therefore](yatas) [therefore](tatas) [by-those-wise](tata+prajñaiḥ) [as-Dakṣiṇā](dakṣiṇā+iti) [you-are-celebrated](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[south-facing-form](dakṣiṇāmūrtiḥ)
+[Dakṣiṇāmūrti](dakṣiṇā+mūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[she](sā) [dakṣiṇāmūrti](dakṣiṇāmūrtiḥ) + [thus](iti) [renowned](prasiddhā)
+[she](sā) [as-Dakṣiṇāmūrti](dakṣiṇā+mūrtiḥ+iti) [renowned](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[very-skilful](sudakṣiṇā)
+[very-skillful](su+dakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[truly](satyaṃ) [therefore](tatas) [O-goddess](devi) [very-skilful](sudakṣiṇā) + [you-are](asi)
+[truly](satyaṃ) [therefore](tatas) [O-goddess](devi) [very-skillful](su+dakṣiṇā) [you-are](asi)
 
 ## mukta-m0-p71-v1765
-[beloved-of-hari](haripriyā)
+[beloved-of-Hari](hari+priyā)
 
 ## mukta-m0-p71-v1766
-[śauri](śauriḥ) + [by-whose](yad) + [compassion](dayayā) [O-goddess](devī) [celebrated](kīrtitā) [she](sā) [beloved-of-hari](haripriyā)
+[Śauri](śauriḥ) [by-whose-compassion](yat+dayayā) [O-goddess](devī) [celebrated](kīrtitā) [she](sā) [beloved-of-Hari](hari+priyā)
 
 ## mukta-m0-p71-v1767
 [yoginī](yoginī)
 
 ## mukta-m0-p71-v1768
-[disease](roga) + [sorrow](śoka) + [removed](vinivartita) + [mind](āśayā) [yoginī](yoginī) [auspicious](subhaga) + [yoga](yoga) + [giver](dā) + [may-she-be](astu) [she](sā)
+[disease-sorrow-removed-mind](roga+śoka+vinivartita+āśayā) [yoginī](yoginī) [auspicious-yoga-giver](subhaga+yoga+dā) [may-be](astu) [she](sā)
 
 ## mukta-m0-p71-v1769
-[united-with-yoga](yogayuktā)
+[united-with-yoga](yoga+yuktā)
 
 ## mukta-m0-p71-v1770
-[consciousness](cit) + [bliss](ānanda) + [indeed](eva) [because](yat) + [always](nityaṃ) [united-with-yoga](yogayuktā) [therefore](tataḥ) [by-nature](svataḥ)
+[consciousness-bliss](cit+ānanda) [alone](eva) [because](yat) [always](nityaṃ) [united-with-yoga](yoga+yuktā) [therefore](tataḥ) [by-nature](svataḥ)
 
 ## mukta-m0-p71-v1771
-[having-yoga-as-limb](yogāṅgā)
+[having-yoga-as-limb](yoga+aṅgā)
 
 ## mukta-m0-p71-v1772
-[of-the-afflicted](āpannānām) + [calamity](āpad) + [end](anta) + [sole](eka) + [cause](hetuḥ) + [yoga-limbed](yogāṅgā) + [this](iyaṃ) [celebrated](kīrtitā) [by-lords-of-yogins](yogināthaiḥ)
+[of-the-afflicted](āpannānām) [calamity-end-sole-cause](āpad+anta+eka+hetuḥ) [having-yoga-as-limb](yoga+aṅgā) [this](iyaṃ) [celebrated](kīrtitā) [by-lords-of-yogins](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[absorbed-in-meditation](dhyānaśālinī)
+[abiding-in-meditation](dhyāna+śālinī)
 
 ## mukta-m0-p71-v1774
-[by-all](sarva) + [to-be-meditated-upon](dhyeyā) + [although](api) [all](sarvā) + [you-are](asi) [you](tvaṃ) [of-whom](yasya) [absorbed-in-meditation](dhyānaśālinī)
+[to-be-meditated-by-all](sarva+dhyeyā) [also](api) [all](sarvā) [you-are](asi) [you](tvaṃ) [of-whom](yasya) [abiding-in-meditation](dhyāna+śālinī)
 
 ## mukta-m0-p71-v1775
-[wearer-of-yoga-band](yogapaṭṭadharā)
+[wearer-of-yoga-band](yoga+paṭṭa+dharā)

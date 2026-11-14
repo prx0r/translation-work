@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p90",
+ "items": [
+  {
+   "verse": 2250,
+   "rows": [
+    {
+     "surface": "svagehe",
+     "gloss": "in-own-house",
+     "grounds": "locative of compound sva-geha indicating place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāstupūjāyāṃ",
+     "gloss": "in-vāstu-worship",
+     "grounds": "locative of compound vāstu-pūjā indicating ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-diagram",
+     "grounds": "locative of maṇḍala indicating ritual space",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing the ritual action",
+     "morph": "3.sg.act.opt~sam-ā-car"
+    }
+   ],
+   "question": "Where may the prescribed bali offering be properly performed?",
+   "premises": [
+    "The preceding verses prescribe bali offerings with milk-rice and condiments.",
+    "One's own house is named as a valid location.",
+    "Vāstu worship and the maṇḍala are named as valid ritual settings."
+   ],
+   "inference": "The prescribed bali offering may be performed in one's own house, in vāstu worship, or in a maṇḍala.",
+   "uncertainties": [
+    "The particle tu may indicate emphasis rather than a strict alternative."
+   ],
+   "plain_english": "One should perform it in one's own house, in vāstu worship, or in the maṇḍala."
+  }
+ ]
+}

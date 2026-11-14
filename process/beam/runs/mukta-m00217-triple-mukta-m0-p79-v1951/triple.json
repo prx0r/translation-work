@@ -6,15 +6,15 @@
    "rows": [
     {
      "surface": "bhavānī",
-     "gloss": "Bhavani",
-     "grounds": "goddess name",
+     "gloss": "bhavani",
+     "grounds": "name of goddess",
      "morph": "f.nom.sg"
     },
     {
      "surface": "vāyukoṇe",
      "gloss": "in-northwest-corner",
-     "grounds": "compound: vayu+kona, locative of place",
-     "morph": "compound+m.loc.sg"
+     "grounds": "compound: vāyu+koṇa; locative of direction",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "tu",
@@ -24,14 +24,14 @@
     },
     {
      "surface": "śyāmā",
-     "gloss": "Shyama",
-     "grounds": "goddess name",
+     "gloss": "shyama",
+     "grounds": "name of goddess",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tārā",
-     "gloss": "Tara",
-     "grounds": "goddess name",
+     "gloss": "tara",
+     "grounds": "name of goddess",
      "morph": "f.nom.sg"
     },
     {
@@ -42,117 +42,117 @@
     },
     {
      "surface": "tatpare",
-     "gloss": "in-that-direction",
-     "grounds": "compound: tad+para, locative of place",
-     "morph": "compound+n.loc.sg"
+     "gloss": "in-that-next",
+     "grounds": "compound: tad+para; locative of following position",
+     "morph": "n.loc.sg"
     }
    ],
-   "question": "Which goddesses are assigned to the northwest corner and the direction beyond it?",
+   "question": "Which goddesses are assigned to the northwest corner and the position beyond it?",
    "premises": [
     "Bhavani is placed in the northwest corner.",
-    "Shyama and Tara are placed in the direction beyond that."
+    "Shyama and Tara are placed in the position beyond that."
    ],
-   "inference": "The northwest corner and its adjacent direction are assigned to Bhavani, Shyama, and Tara respectively.",
+   "inference": "The northwest corner and its adjacent position are occupied respectively by Bhavani and by Shyama with Tara.",
    "uncertainties": [],
-   "plain_english": "Bhavani is in the northwest corner, and Shyama and Tara are in the direction beyond it."
+   "plain_english": "Bhavani is in the northwest corner, and Shyama and Tara are in the position beyond that."
   },
   {
    "verse": 1952,
    "rows": [
     {
      "surface": "caturāmnāyavidyā",
-     "gloss": "four-transmission-mantras",
-     "grounds": "compound: catur+amnaya+vidya",
-     "morph": "compound+f.nom.pl"
+     "gloss": "four-transmission-knowledges",
+     "grounds": "compound: catur+āmnāya+vidyā",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "particle of alternative",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "prayojyāḥ",
      "gloss": "to-be-employed",
-     "grounds": "gerundive of use",
-     "morph": "f.nom.pl (gerundive)"
+     "grounds": "gerundive of pra-yuj",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "parameśvari",
-     "gloss": "O-supreme-goddess",
+     "gloss": "o-supreme-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Are the mantras of the four transmissions to be employed in this worship, O supreme goddess?",
+   "question": "Whether the knowledges of the four transmissions may be employed in this worship?",
    "premises": [
     "The text addresses the supreme goddess.",
-    "The mantras of the four transmissions are presented as an option.",
-    "These mantras are described as to be employed."
+    "The knowledges of the four transmissions are presented as applicable.",
+    "The gerundive indicates they should be employed."
    ],
-   "inference": "The mantras of the four transmissions may be employed in the ritual.",
+   "inference": "The knowledges of the four transmissions are to be employed in the ritual.",
    "uncertainties": [],
-   "plain_english": "O supreme goddess, the mantras of the four transmissions may also be employed."
+   "plain_english": "O supreme goddess, the knowledges of the four transmissions should be employed."
   },
   {
    "verse": 1953,
    "rows": [
     {
      "surface": "cidambaramahāmantraḥ",
-     "gloss": "Cidambara-great-mantra",
-     "grounds": "compound: cidambara+maha+mantra",
-     "morph": "compound+m.nom.sg"
+     "gloss": "cidambara-great-mantra",
+     "grounds": "compound: cidambara+mahā+mantra",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "pakṣirūpaśca",
      "gloss": "and-bird-form",
-     "grounds": "compound: paksi+rupa with enclitic ca",
-     "morph": "compound+m.nom.sg"
+     "grounds": "compound: pakṣi+rūpa with enclitic ca",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "śārabhaḥ",
-     "gloss": "Sharabha",
-     "grounds": "deity or mantra name",
+     "gloss": "sharabha",
+     "grounds": "name of a form or mantra",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which additional mantras or forms are included among those to be employed in worship?",
+   "question": "Which additional mantras or forms are included in the prescribed sequence?",
    "premises": [
     "The great mantra of Cidambara is named.",
-    "A bird-form is named.",
-    "Sharabha is named."
+    "A bird-form is included.",
+    "Sharabha is also included."
    ],
-   "inference": "The Cidambara great mantra, the bird-form, and Sharabha are included in the list.",
+   "inference": "The Cidambara great mantra, the bird-form, and Sharabha are included among those to be used.",
    "uncertainties": [
-    "pakṣirūpaśca may refer to a specific bird-form mantra or deity"
+    "The exact identity of the bird-form mantra is not specified."
    ],
-   "plain_english": "The great mantra of Cidambara, the bird-form, and Sharabha are also included."
+   "plain_english": "The great mantra of Cidambara, the bird-form, and Sharabha are included."
   },
   {
    "verse": 1954,
    "rows": [
     {
      "surface": "lakṣmījanārdano",
-     "gloss": "Lakshmi-Janardana",
-     "grounds": "compound deity name",
-     "morph": "compound+m.nom.sg"
+     "gloss": "lakshmi-janardana",
+     "grounds": "compound: lakṣmī+janārdana",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "lakṣmīvāsudevastathaiva",
-     "gloss": "and-so-Lakshmi-Vasudeva",
-     "grounds": "compound with tatha and eva fused",
-     "morph": "compound+m.nom.sg"
+     "gloss": "lakshmi-vasudeva-and-so",
+     "grounds": "compound: lakṣmī+vāsudeva with tathā and eva fused",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -168,13 +168,13 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which forms of Vishnu paired with Lakshmi are included in the worship list?",
+   "question": "Which forms of Vishnu paired with Lakshmi are included in the list?",
    "premises": [
     "Lakshmi-Janardana is named.",
     "Lakshmi-Vasudeva is named.",
-    "Connective particles indicate their inclusion in the same list."
+    "Particles emphasize their inclusion."
    ],
-   "inference": "Lakshmi-Janardana and Lakshmi-Vasudeva are included among the forms to be worshipped.",
+   "inference": "Lakshmi-Janardana and Lakshmi-Vasudeva are included in the prescribed forms.",
    "uncertainties": [],
    "plain_english": "Lakshmi-Janardana and likewise Lakshmi-Vasudeva are included."
   },
@@ -183,14 +183,14 @@
    "rows": [
     {
      "surface": "mārtaṇḍabhairavaścaiva",
-     "gloss": "and-indeed-Martanda-Bhairava",
-     "grounds": "compound with ca and eva fused",
-     "morph": "compound+m.nom.sg"
+     "gloss": "martanda-bhairava-and-indeed",
+     "grounds": "compound: mārtaṇḍa+bhairava with ca and eva fused",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -201,9 +201,9 @@
     },
     {
      "surface": "mahāgaṇapatistathā",
-     "gloss": "and-so-Maha-Ganapati",
-     "grounds": "compound with tatha fused",
-     "morph": "compound+m.nom.sg"
+     "gloss": "great-ganapati-and-so",
+     "grounds": "compound: mahā+gaṇapati with tathā fused",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tathā",
@@ -212,47 +212,47 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which fierce and elephant-headed deities are added to the sequence of worship?",
+   "question": "Which additional deities are added to the continuing enumeration of worship forms?",
    "premises": [
-    "Martanda-Bhairava is named.",
-    "Maha-Ganapati is named.",
-    "Connective particles place them in the same sequence."
+    "Martanda Bhairava is named.",
+    "Mahaganapati is named.",
+    "Particles indicate their inclusion in the same list."
    ],
-   "inference": "Martanda-Bhairava and Maha-Ganapati are added to the worship sequence.",
+   "inference": "Martanda Bhairava and Mahaganapati are added to the enumeration.",
    "uncertainties": [],
-   "plain_english": "Martanda-Bhairava and likewise Maha-Ganapati are included."
+   "plain_english": "Martanda Bhairava and likewise Mahaganapati are included."
   },
   {
    "verse": 1956,
    "rows": [
     {
      "surface": "gāṇapatyāḥ",
-     "gloss": "Ganapatya-forms",
+     "gloss": "ganapati-forms",
      "grounds": "related to Ganapati",
      "morph": "m.nom.pl"
     },
     {
      "surface": "śriyā",
-     "gloss": "with-Shri",
+     "gloss": "with-shri",
      "grounds": "accompaniment",
      "morph": "f.inst.sg"
     },
     {
      "surface": "yuktāḥ",
      "gloss": "joined",
-     "grounds": "past participle",
-     "morph": "m.nom.pl (past-participle)"
+     "grounds": "past participle of yuj",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "sītārāmastathaiva",
-     "gloss": "and-so-Sita-Rama",
-     "grounds": "compound with tatha and eva fused",
-     "morph": "compound+m.nom.sg"
+     "gloss": "sita-rama-and-so",
+     "grounds": "compound: sītā+rāma with tathā and eva fused",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -268,53 +268,53 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which Ganapatya forms and divine pair are included together in the worship list?",
+   "question": "Which Ganapati-related forms and divine pair are included in this part of the list?",
    "premises": [
-    "Ganapatya forms joined with Shri are named.",
-    "Sita-Rama is named.",
-    "Connective particles include them in the same list."
+    "Ganapati forms joined with Shri are mentioned.",
+    "Sita-Rama is mentioned.",
+    "Particles mark their inclusion."
    ],
-   "inference": "Ganapatya forms joined with Shri and Sita-Rama are included in worship.",
+   "inference": "Ganapati forms united with Shri and Sita-Rama are included in the enumeration.",
    "uncertainties": [],
-   "plain_english": "Ganapatya forms joined with Shri, and likewise Sita-Rama, are included."
+   "plain_english": "Ganapati forms joined with Shri, and likewise Sita-Rama, are included."
   },
   {
    "verse": 1957,
    "rows": [
     {
      "surface": "pañcakāmāśca",
-     "gloss": "and-five-desires",
-     "grounds": "compound: panca+kama with enclitic ca",
-     "morph": "compound+m.nom.pl"
+     "gloss": "five-desires-and",
+     "grounds": "compound: pañca+kāma with enclitic ca",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "deveśi",
-     "gloss": "O-goddess-lord",
+     "gloss": "o-goddess-lord",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "jainā",
-     "gloss": "Jain-forms",
+     "gloss": "jaina-forms",
      "grounds": "related to Jain tradition",
      "morph": "m.nom.pl"
     },
     {
      "surface": "bauddhāstathaiva",
-     "gloss": "and-so-Buddhist-forms",
-     "grounds": "with tatha and eva fused",
+     "gloss": "buddhist-forms-and-so",
+     "grounds": "related to Buddhist tradition with tathā and eva fused",
      "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -330,38 +330,37 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which additional groups, including non-Vedic traditions, are included in the worship enumeration?",
+   "question": "Which additional groups, including non-Vedic traditions, are included in the enumeration?",
    "premises": [
     "The five desires are named.",
-    "Jain forms are named.",
-    "Buddhist forms are named.",
-    "The goddess is addressed directly."
+    "Jaina forms are named.",
+    "Buddhist forms are named."
    ],
-   "inference": "The five desires, Jain forms, and Buddhist forms are included in the enumeration.",
+   "inference": "The five desires, Jaina forms, and Buddhist forms are included in the list.",
    "uncertainties": [
-    "pañcakāmāḥ may refer to a specific group of five desire-deities or mantras"
+    "The precise referent of the five desires in this ritual context is not specified."
    ],
-   "plain_english": "O goddess, the five desires, and likewise the Jain and Buddhist forms, are included."
+   "plain_english": "O goddess, the five desires, and likewise Jaina and Buddhist forms, are included."
   },
   {
    "verse": 1958,
    "rows": [
     {
      "surface": "śivapañcākṣarībhedāḥ",
-     "gloss": "Shiva-five-syllable-variants",
-     "grounds": "compound: shiva+pancaksari+bheda",
-     "morph": "compound+m.nom.pl"
+     "gloss": "shiva-five-syllable-varieties",
+     "grounds": "compound: śiva+pañcākṣarī+bheda",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "prāsādākhyāḥ",
-     "gloss": "called-Prasada",
-     "grounds": "compound: prasada+akhya",
-     "morph": "compound+m.nom.pl"
+     "gloss": "called-prasada",
+     "grounds": "compound: prāsāda+ākhya",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "śivāstathā",
-     "gloss": "and-so-Shiva-forms",
-     "grounds": "with tatha fused",
+     "gloss": "shiva-forms-and-so",
+     "grounds": "plural of śiva with tathā fused",
      "morph": "m.nom.pl"
     },
     {
@@ -371,23 +370,23 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which variants of Shiva mantras and forms are included in the worship list?",
+   "question": "Which Shaiva mantra varieties and forms are included in the continuing list?",
    "premises": [
-    "Variants of the Shiva five-syllable mantra are named.",
+    "Varieties of the Shiva five-syllable mantra are named.",
     "Forms called Prasada are named.",
-    "Shiva forms are named."
+    "Shiva forms are also included."
    ],
-   "inference": "Variants of the Shiva five-syllable mantra, Prasada forms, and Shiva forms are included.",
+   "inference": "Varieties of the Shiva five-syllable mantra, those called Prasada, and Shiva forms are included.",
    "uncertainties": [],
-   "plain_english": "The variants of the Shiva five-syllable mantra, those called Prasada, and likewise Shiva forms are included."
+   "plain_english": "The varieties of the Shiva five-syllable mantra, those called Prasada, and likewise Shiva forms are included."
   },
   {
    "verse": 1959,
    "rows": [
     {
      "surface": "gāṇapatye",
-     "gloss": "in-Ganapatya-tradition",
-     "grounds": "locative context",
+     "gloss": "in-ganapati-tradition",
+     "grounds": "related to Ganapati worship",
      "morph": "n.loc.sg"
     },
     {
@@ -398,15 +397,15 @@
     },
     {
      "surface": "ekārṇabhedā",
-     "gloss": "one-syllable-variants",
-     "grounds": "compound: eka+arna+bheda",
-     "morph": "compound+m.nom.pl"
+     "gloss": "one-syllable-varieties",
+     "grounds": "compound: eka+arṇa+bheda",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ghṛṇimanustathā",
-     "gloss": "and-so-Ghrni-mantra",
-     "grounds": "compound with tatha fused",
-     "morph": "compound+m.nom.sg"
+     "gloss": "ghrni-mantra-and-so",
+     "grounds": "compound: ghṛṇi+manu with tathā fused",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tathā",
@@ -415,29 +414,29 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which Ganapatya mantra variants are specified for inclusion in the ritual enumeration?",
+   "question": "Which Ganapati-related mantra varieties are specified for inclusion in worship?",
    "premises": [
-    "The context is the Ganapatya tradition.",
-    "One-syllable variants are named.",
+    "The context is the Ganapati tradition.",
+    "One-syllable varieties are named.",
     "The Ghrni mantra is named."
    ],
-   "inference": "In the Ganapatya tradition, one-syllable variants and the Ghrni mantra are included.",
+   "inference": "In the Ganapati tradition, one-syllable varieties and the Ghrni mantra are included.",
    "uncertainties": [],
-   "plain_english": "In the Ganapatya tradition, the one-syllable variants and likewise the Ghrni mantra are included."
+   "plain_english": "In the Ganapati tradition, the one-syllable varieties and likewise the Ghrni mantra are included."
   },
   {
    "verse": 1960,
    "rows": [
     {
      "surface": "haridrāgaṇapaścaiva",
-     "gloss": "and-indeed-Haridra-Ganapati",
-     "grounds": "compound with ca and eva fused",
-     "morph": "compound+m.nom.sg"
+     "gloss": "haridra-ganapati-and-indeed",
+     "grounds": "compound: haridrā+gaṇapa with ca and eva fused",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -448,83 +447,83 @@
     },
     {
      "surface": "vaṭukāḥ",
-     "gloss": "Vatukas",
-     "grounds": "deity group name",
+     "gloss": "vatukas",
+     "grounds": "name of attendant deities",
      "morph": "m.nom.pl"
     },
     {
      "surface": "kṣetrapālakāḥ",
      "gloss": "field-protectors",
-     "grounds": "compound: ksetra+palaka",
-     "morph": "compound+m.nom.pl"
+     "grounds": "compound: kṣetra+pālaka",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "Which Ganapati form and guardian deities are added to the worship list?",
+   "question": "Which specific Ganapati form and guardian deities are added to the list?",
    "premises": [
-    "Haridra-Ganapati is named.",
+    "Haridra Ganapati is named.",
     "Vatukas are named.",
-    "Field-protectors are named."
+    "Kshetrapalakas are named."
    ],
-   "inference": "Haridra-Ganapati, Vatukas, and field-protectors are included in the list.",
+   "inference": "Haridra Ganapati, the Vatukas, and the Kshetrapalakas are included.",
    "uncertainties": [],
-   "plain_english": "Haridra-Ganapati, and also the Vatukas and field-protectors, are included."
+   "plain_english": "Haridra Ganapati, the Vatukas, and the field-protectors are included."
   },
   {
    "verse": 1961,
    "rows": [
     {
      "surface": "śrīkṛṣṇamantrabhedāśca",
-     "gloss": "and-Shri-Krishna-mantra-variants",
-     "grounds": "compound with enclitic ca",
-     "morph": "compound+m.nom.pl"
+     "gloss": "shri-krishna-mantra-varieties-and",
+     "grounds": "compound: śrī+kṛṣṇa+mantra+bheda with enclitic ca",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "dadhivāmanasaṃjñakāḥ",
-     "gloss": "named-Dadhivamana",
-     "grounds": "compound: dadhivamana+samjnaka",
-     "morph": "compound+m.nom.pl"
+     "gloss": "called-dadhivamana",
+     "grounds": "compound: dadhivāmana+saṃjñaka",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "Which Krishna-related mantra variants and named forms are included in the enumeration?",
+   "question": "Which Krishna-related mantra varieties are included in the prescribed enumeration?",
    "premises": [
-    "Variants of Shri Krishna mantras are named.",
-    "Forms named Dadhivamana are named."
+    "Varieties of Shri Krishna mantras are named.",
+    "Forms called Dadhivamana are named."
    ],
-   "inference": "Shri Krishna mantra variants and forms named Dadhivamana are included.",
+   "inference": "Varieties of Shri Krishna mantras and those called Dadhivamana are included.",
    "uncertainties": [],
-   "plain_english": "Variants of Shri Krishna mantras and those named Dadhivamana are included."
+   "plain_english": "The varieties of Shri Krishna mantras and those called Dadhivamana are included."
   },
   {
    "verse": 1962,
    "rows": [
     {
      "surface": "puruṣottamasaṃjñāśca",
-     "gloss": "and-named-Purushottama",
-     "grounds": "compound with enclitic ca",
-     "morph": "compound+m.nom.pl"
+     "gloss": "called-purushottama-and",
+     "grounds": "compound: puruṣottama+saṃjña with enclitic ca",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mālāmantrāstathaiva",
-     "gloss": "and-so-garland-mantras",
-     "grounds": "compound with tatha and eva fused",
-     "morph": "compound+m.nom.pl"
+     "gloss": "garland-mantras-and-so",
+     "grounds": "compound: mālā+mantra with tathā and eva fused",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -540,17 +539,15 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which Purushottama forms and mantra types are further included in the worship list?",
+   "question": "Which further named forms and mantra types are added to the list?",
    "premises": [
-    "Forms named Purushottama are included.",
-    "Garland-mantras are included.",
-    "Connective particles link them to the ongoing list."
+    "Forms called Purushottama are named.",
+    "Garland mantras are named.",
+    "Particles emphasize their inclusion."
    ],
-   "inference": "Forms named Purushottama and garland-mantras are further included.",
-   "uncertainties": [
-    "mālāmantrāḥ may refer to mantras recited with a rosary or to a specific class of long mantras"
-   ],
-   "plain_english": "Forms named Purushottama and likewise garland-mantras are included."
+   "inference": "Forms called Purushottama and the garland mantras are included.",
+   "uncertainties": [],
+   "plain_english": "Those called Purushottama and likewise the garland mantras are included."
   },
   {
    "verse": 1963,
@@ -558,14 +555,14 @@
     {
      "surface": "paścimāmnāyavikhyātā",
      "gloss": "famed-in-western-transmission",
-     "grounds": "compound: pascima+amnaya+vikhyata",
-     "morph": "compound+f.nom.sg"
+     "grounds": "compound: paścima+āmnāya+vikhyāta",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "dakṣiṇāmūrtireva",
-     "gloss": "indeed-Dakshinamurti",
+     "gloss": "dakshinamurti-indeed",
      "grounds": "name with emphatic eva fused",
-     "morph": "m.nom.sg"
+     "morph": "f.nom.sg"
     },
     {
      "surface": "eva",
@@ -576,14 +573,15 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which deity famed in the western transmission is included in the worship enumeration?",
+   "question": "Which deity famed in the western transmission is explicitly included?",
    "premises": [
-    "A deity famed in the western transmission is indicated.",
-    "Dakshinamurti is explicitly named."
+    "A deity famed in the western transmission is referred to.",
+    "Dakshinamurti is named.",
+    "Emphatic particles stress this inclusion."
    ],
    "inference": "Dakshinamurti, famed in the western transmission, is included.",
    "uncertainties": [],
@@ -594,14 +592,14 @@
    "rows": [
     {
      "surface": "vetālāśceṭakāścaiva",
-     "gloss": "and-indeed-Vetalas-and-Chetakas",
-     "grounds": "two names with ca and eva fused",
+     "gloss": "vetalas-and-cetakas-and-indeed",
+     "grounds": "plural names with ca and eva fused",
      "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -619,24 +617,24 @@
     {
      "surface": "vai",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "hariharātmakāḥ",
-     "gloss": "of-Hari-Hara-nature",
-     "grounds": "compound: hari+hara+atmaka",
-     "morph": "compound+m.nom.pl"
+     "gloss": "of-hari-hara-nature",
+     "grounds": "compound: hari+hara+ātmaka",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "Which spirit beings of Hari-Hara nature are included in the worship list?",
+   "question": "Which attendant beings of Hari-Hara nature are included in the enumeration?",
    "premises": [
-    "Vetalas and Chetakas are named.",
+    "Vetalas and Cetakas are named.",
     "They are described as having the nature of Hari and Hara."
    ],
-   "inference": "Vetalas and Chetakas of Hari-Hara nature are included in the list.",
+   "inference": "Vetalas and Cetakas of Hari-Hara nature are included.",
    "uncertainties": [],
-   "plain_english": "Vetalas and Chetakas, who are indeed of the nature of Hari and Hara, are included."
+   "plain_english": "The Vetalas and Cetakas, who are indeed of the nature of Hari and Hara, are included."
   },
   {
    "verse": 1965,
@@ -644,81 +642,79 @@
     {
      "surface": "uttarāmnāyavikhyātāḥ",
      "gloss": "famed-in-northern-transmission",
-     "grounds": "compound: uttara+amnaya+vikhyata",
-     "morph": "compound+m.nom.pl"
+     "grounds": "compound: uttara+āmnāya+vikhyāta",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "śīghrakālaphalapradāḥ",
-     "gloss": "giving-fruit-in-short-time",
-     "grounds": "compound: sighra+kala+phala+prada",
-     "morph": "compound+m.nom.pl"
+     "gloss": "quick-time-fruit-givers",
+     "grounds": "compound: śīghra+kāla+phala+prada",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "What qualities characterize the forms famed in the northern transmission within this list?",
+   "question": "What qualities characterize the forms famed in the northern transmission?",
    "premises": [
     "Certain forms are famed in the northern transmission.",
-    "These forms give fruit in a short time."
+    "They are described as giving results quickly."
    ],
-   "inference": "The forms famed in the northern transmission are characterized as quick to grant results.",
-   "uncertainties": [
-    "the specific forms are implied from context rather than named in this verse"
-   ],
-   "plain_english": "Those famed in the northern transmission grant results quickly."
+   "inference": "The forms famed in the northern transmission grant results in a short time.",
+   "uncertainties": [],
+   "plain_english": "Those famed in the northern transmission give results quickly."
   },
   {
    "verse": 1966,
    "rows": [
     {
      "surface": "bhāsvadgaṇaśrīpatipārvatīśā",
-     "gloss": "radiant-Gana-Shri-pati-Parvati-lords",
-     "grounds": "compound listing deities",
-     "morph": "compound+m.nom.pl"
+     "gloss": "radiant-gana-shri-lord-parvati-lord",
+     "grounds": "compound listing deities: bhāsvad-gaṇa, śrīpati, pārvatīśa",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "vighneśvarārkādrisutā",
-     "gloss": "Vighneshvara-Sun-mountain-daughter",
-     "grounds": "compound listing deities",
-     "morph": "compound+m.nom.pl"
+     "gloss": "vighneshvara-sun-mountain-daughter",
+     "grounds": "compound listing: vighneśvara, arka, adrisutā",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "hariśca",
-     "gloss": "and-Hari",
+     "gloss": "and-hari",
      "grounds": "name with enclitic ca",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which deities are enumerated together for worship in this sequence of the text?",
+   "question": "Which deities are named together in this grouped enumeration for worship?",
    "premises": [
-    "A group including radiant Gana, Shri-pati, and Parvati's lord is named.",
-    "Vighneshvara, the Sun, and the mountain's daughter are named.",
-    "Hari is named."
+    "A group including radiant Gana, the lord of Shri, and the lord of Parvati is named.",
+    "Vighneshvara, the Sun, and the daughter of the mountain are named.",
+    "Hari is also named."
    ],
-   "inference": "These deities are enumerated together as part of the worship sequence.",
+   "inference": "This verse enumerates a set of deities including Gana, Vishnu, Shiva, Ganesha, Surya, Parvati, and Hari for worship.",
    "uncertainties": [
-    "exact parsing of the compound members is uncertain due to dense sandhi"
+    "The exact parsing of the long compounds may allow slight variation in identifying each member."
    ],
-   "plain_english": "The radiant Gana, Shri-pati, Parvati's lord, Vighneshvara, the Sun, the mountain's daughter, and Hari are named."
+   "plain_english": "The radiant Gana, the lord of Shri, the lord of Parvati, Vighneshvara, the Sun, the daughter of the mountain, and Hari are named."
   },
   {
    "verse": 1967,
    "rows": [
     {
      "surface": "īśenavighnādhipaśaktikṛṣṇā",
-     "gloss": "Isha-Vighna-lord-Shakti-Krishna",
-     "grounds": "compound listing deities",
-     "morph": "compound+m.nom.pl"
+     "gloss": "isha-isha-vighna-lord-shakti-krishna",
+     "grounds": "compound listing deities: īśa, ena/īśa, vighnādhipa, śakti, kṛṣṇa",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "madhyāgnikoṇakramatastu",
-     "gloss": "but-in-order-from-center-to-southeast-corner",
-     "grounds": "compound with tu fused",
-     "morph": "compound+(indecl.)"
+     "gloss": "from-center-southeast-corner-in-order",
+     "grounds": "compound: madhya+agni+koṇa+krama with tu fused",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tu",
@@ -729,30 +725,30 @@
     {
      "surface": "pūjyāḥ",
      "gloss": "to-be-worshipped",
-     "grounds": "gerundive",
-     "morph": "m.nom.pl (gerundive)"
+     "grounds": "gerundive of pūj",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "In what spatial order are Isha, Vighnadhipa, Shakti, and Krishna to be worshipped?",
+   "question": "In what spatial order should the named deities be worshipped in this arrangement?",
    "premises": [
-    "Isha, Vighnadhipa, Shakti, and Krishna are named.",
-    "An order from the center to the southeast corner is specified.",
-    "They are described as to be worshipped."
+    "A set of deities including Isha, the lord of obstacles, Shakti, and Krishna is named.",
+    "The order is specified from the center to the southeast corner.",
+    "They are declared to be worshipped."
    ],
-   "inference": "Isha, Vighnadhipa, Shakti, and Krishna are to be worshipped in order from the center to the southeast corner.",
+   "inference": "These deities are to be worshipped in sequence from the center to the southeast corner.",
    "uncertainties": [
-    "exact mapping of each deity to each position is not fully explicit"
+    "The internal segmentation of the first compound is somewhat compressed and interpretive."
    ],
-   "plain_english": "Isha, Vighnadhipa, Shakti, and Krishna are to be worshipped in order from the center to the southeast corner."
+   "plain_english": "Isha, the lord of obstacles, Shakti, Krishna, and the others are to be worshipped in order from the center to the southeast corner."
   },
   {
    "verse": 1968,
    "rows": [
     {
      "surface": "gaṇeśārkāmbikeśānāstathā",
-     "gloss": "and-so-Ganesha-Sun-Ambika-Isha",
-     "grounds": "compound with tatha fused",
-     "morph": "compound+m.nom.pl"
+     "gloss": "ganesha-sun-ambika-isha-and-so",
+     "grounds": "compound listing: gaṇeśa, arka, ambikā, īśāna with tathā fused",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "tathā",
@@ -762,19 +758,19 @@
     },
     {
      "surface": "nārāyaṇārcane",
-     "gloss": "in-Narayana-worship",
-     "grounds": "compound: narayana+arcana, locative context",
-     "morph": "compound+n.loc.sg"
+     "gloss": "in-narayana-worship",
+     "grounds": "compound: nārāyaṇa+arcana",
+     "morph": "n.loc.sg"
     }
    ],
-   "question": "Which deities are to be included during the worship of Narayana?",
+   "question": "Which deities are placed in the worship of Narayana according to this instruction?",
    "premises": [
-    "Ganesha, the Sun, Ambika, and Isha are named.",
+    "Ganesha, the Sun, Ambika, and Ishana are named.",
     "The context is the worship of Narayana."
    ],
-   "inference": "Ganesha, the Sun, Ambika, and Isha are included in the worship of Narayana.",
+   "inference": "In the worship of Narayana, Ganesha, the Sun, Ambika, and Ishana are included.",
    "uncertainties": [],
-   "plain_english": "In the worship of Narayana, Ganesha, the Sun, Ambika, and Isha are likewise included."
+   "plain_english": "In the worship of Narayana, Ganesha, the Sun, Ambika, and Ishana are likewise included."
   },
   {
    "verse": 1969,
@@ -782,37 +778,37 @@
     {
      "surface": "devyarcane",
      "gloss": "in-goddess-worship",
-     "grounds": "compound: devi+arcana, locative context",
-     "morph": "compound+n.loc.sg"
+     "grounds": "compound: devī+arcana",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "śivo",
-     "gloss": "Shiva",
-     "grounds": "deity name",
+     "gloss": "shiva",
+     "grounds": "name of deity",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vighnaḥ",
-     "gloss": "Vighna",
-     "grounds": "deity name, remover of obstacles",
+     "gloss": "vighna",
+     "grounds": "name of deity, remover or lord of obstacles",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sūryo",
-     "gloss": "Sun",
-     "grounds": "deity name",
+     "gloss": "sun",
+     "grounds": "name of deity",
      "morph": "m.nom.sg"
     },
     {
      "surface": "viṣṇustathaiva",
-     "gloss": "and-so-Vishnu",
-     "grounds": "name with tatha and eva fused",
+     "gloss": "vishnu-and-so",
+     "grounds": "name with tathā and eva fused",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
@@ -828,14 +824,15 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which deities are to be included during the worship of the goddess?",
+   "question": "Which deities are included when performing the worship of the Goddess?",
    "premises": [
-    "The context is the worship of the goddess.",
-    "Shiva, Vighna, the Sun, and Vishnu are named."
+    "The context is the worship of the Goddess.",
+    "Shiva, Vighna, Surya, and Vishnu are named.",
+    "Particles emphasize their inclusion."
    ],
-   "inference": "Shiva, Vighna, the Sun, and Vishnu are included in the worship of the goddess.",
+   "inference": "In the worship of the Goddess, Shiva, Vighna, Surya, and Vishnu are included.",
    "uncertainties": [],
-   "plain_english": "In the worship of the goddess, Shiva, Vighna, the Sun, and likewise Vishnu are included."
+   "plain_english": "In the worship of the Goddess, Shiva, Vighna, the Sun, and Vishnu are likewise included."
   },
   {
    "verse": 1970,
@@ -843,37 +840,37 @@
     {
      "surface": "āgneyādiṣu",
      "gloss": "in-southeast-and-others",
-     "grounds": "compound: agneya+adi, locative plural",
-     "morph": "compound+m.loc.pl"
+     "grounds": "compound: āgneya+ādi",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "koṇeṣu",
      "gloss": "in-corners",
-     "grounds": "locative of place",
+     "grounds": "plural locative of corner",
      "morph": "m.loc.pl"
     },
     {
      "surface": "sthāpyā",
      "gloss": "to-be-placed",
-     "grounds": "gerundive",
-     "morph": "m.nom.pl (gerundive)"
+     "grounds": "gerundive of sthā in causative sense",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "aṅgāṅgibhāvataḥ",
-     "gloss": "as-limb-and-principal",
-     "grounds": "compound: anga+angi+bhava with ablative sense",
-     "morph": "compound+(indecl.)"
+     "gloss": "by-limb-limb-possessor-relation",
+     "grounds": "compound: aṅga+aṅgin+bhāva with ablative sense",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How are deities to be placed in the southeast and other corners of the ritual diagram?",
+   "question": "How should deities be placed in the southeast and other corners of the arrangement?",
    "premises": [
     "The southeast and other corners are specified.",
-    "The deities are to be placed there.",
-    "Their placement follows the relation of limb and principal."
+    "Placement is prescribed.",
+    "The placement follows the relation of limb and principal."
    ],
    "inference": "Deities are to be placed in the southeast and other corners according to the limb-and-principal relationship.",
    "uncertainties": [],
-   "plain_english": "They are to be placed in the southeast and other corners according to the relationship of limb and principal."
+   "plain_english": "They are to be placed in the southeast and other corners according to the relationship of subsidiary and principal."
   },
   {
    "verse": 1971,
@@ -881,8 +878,8 @@
     {
      "surface": "kṛtārcanādikaṃ",
      "gloss": "done-worship-and-so-on",
-     "grounds": "compound: krta+arcana+adi",
-     "morph": "compound+n.nom.sg"
+     "grounds": "compound: kṛta+arcana+ādika",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "sarvaṃ",
@@ -899,25 +896,25 @@
     {
      "surface": "bhavati",
      "gloss": "becomes",
-     "grounds": "verb 'to be/become'",
-     "morph": "3.sg.present-active bhu"
+     "grounds": "verb from bhū",
+     "morph": "3.sg.pres.act"
     },
     {
      "surface": "śāmbhavi",
-     "gloss": "O-Shambhavi",
+     "gloss": "o-shambhavi",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What becomes of worship performed without the proper ritual support, O Shambhavi?",
+   "question": "What consequence follows if worship and related acts are performed without the proper support?",
    "premises": [
     "Worship and related acts may be performed.",
     "The text addresses Shambhavi.",
-    "Such acts are said to become fruitless."
+    "Such acts are declared to become fruitless."
    ],
-   "inference": "Worship performed without the proper support becomes fruitless.",
+   "inference": "All worship and related acts become fruitless without the proper basis.",
    "uncertainties": [
-    "the missing support is implied by the following verses to be the yantra"
+    "The specific missing condition is implied by the following verses rather than stated here."
    ],
    "plain_english": "O Shambhavi, all worship and related acts become fruitless."
   },
@@ -926,58 +923,59 @@
    "rows": [
     {
      "surface": "yantre",
-     "gloss": "in-yantra",
-     "grounds": "ritual diagram, locative",
+     "gloss": "in-diagram",
+     "grounds": "ritual diagram",
      "morph": "n.loc.sg"
     },
     {
      "surface": "sampūjitā",
-     "gloss": "fully-worshipped",
-     "grounds": "past participle",
-     "morph": "f.nom.sg (past-participle)"
+     "gloss": "well-worshipped",
+     "grounds": "past participle of sam-pūj",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "devī",
      "gloss": "goddess",
-     "grounds": "deity",
+     "grounds": "name/title",
      "morph": "f.nom.sg"
     },
     {
      "surface": "sahasaiva",
      "gloss": "at-once-indeed",
-     "grounds": "sahasa with eva fused",
+     "grounds": "sahasā with eva fused",
      "morph": "(indecl.)"
     },
     {
      "surface": "prasīdati",
      "gloss": "becomes-pleased",
-     "grounds": "verb 'to be pleased'",
-     "morph": "3.sg.present-active pra-sad"
+     "grounds": "verb from pra-sad",
+     "morph": "3.sg.pres.act"
     }
    ],
-   "question": "What effect does worshipping the goddess in the yantra have on her disposition?",
+   "question": "What effect does worshipping the Goddess in the yantra have on her disposition?",
    "premises": [
-    "The goddess is fully worshipped in the yantra.",
-    "The result is described as immediate."
+    "The Goddess is worshipped in the yantra.",
+    "The worship is well performed.",
+    "She becomes pleased immediately."
    ],
-   "inference": "When worshipped in the yantra, the goddess becomes pleased at once.",
+   "inference": "When worshipped in the yantra, the Goddess becomes pleased at once.",
    "uncertainties": [],
-   "plain_english": "When the goddess is fully worshipped in the yantra, she becomes pleased at once."
+   "plain_english": "When the Goddess is well worshipped in the yantra, she becomes pleased at once."
   },
   {
    "verse": 1973,
    "rows": [
     {
      "surface": "yantram",
-     "gloss": "yantra",
+     "gloss": "diagram",
      "grounds": "ritual diagram",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ityāhuretasmin",
      "gloss": "thus-they-say-in-this",
-     "grounds": "iti+ahuh+etasmin fused",
-     "morph": "compound+(indecl.)"
+     "grounds": "iti+āhuḥ+etasmin fused",
+     "morph": "(indecl.)"
     },
     {
      "surface": "devaḥ",
@@ -988,24 +986,25 @@
     {
      "surface": "prīṇāti",
      "gloss": "pleases",
-     "grounds": "verb 'to please'",
-     "morph": "3.sg.present-active pri"
+     "grounds": "verb from prī",
+     "morph": "3.sg.pres.act"
     },
     {
      "surface": "pūjitaḥ",
      "gloss": "worshipped",
-     "grounds": "past participle",
-     "morph": "m.nom.sg (past-participle)"
+     "grounds": "past participle of pūj",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Why is the ritual diagram called a yantra in relation to the worshipped deity?",
+   "question": "Why is the ritual diagram called a yantra in this teaching?",
    "premises": [
     "The term yantra is explained by tradition.",
-    "A deity worshipped in it is pleased."
+    "In it the deity is worshipped.",
+    "The worshipped deity is pleased."
    ],
    "inference": "It is called a yantra because the deity worshipped in it is pleased.",
    "uncertainties": [
-    "etymological explanation is traditional rather than strictly linguistic"
+    "The etymological explanation is traditional and may be interpretive."
    ],
    "plain_english": "They say it is called a yantra because the deity worshipped in it is pleased."
   },
@@ -1014,8 +1013,8 @@
    "rows": [
     {
      "surface": "sarveṣāmeva",
-     "gloss": "indeed-of-all",
-     "grounds": "sarvesam with eva fused",
+     "gloss": "of-all-indeed",
+     "grounds": "sarveṣām with eva fused",
      "morph": "m.gen.pl"
     },
     {
@@ -1026,8 +1025,8 @@
     },
     {
      "surface": "devānāṃ",
-     "gloss": "of-deities",
-     "grounds": "gods",
+     "gloss": "of-gods",
+     "grounds": "plural of deva",
      "morph": "m.gen.pl"
     },
     {
@@ -1038,25 +1037,26 @@
     },
     {
      "surface": "yantraṃ",
-     "gloss": "yantra",
+     "gloss": "diagram",
      "grounds": "ritual diagram",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pratiṣṭhitam",
      "gloss": "established",
-     "grounds": "past participle",
-     "morph": "n.nom.sg (past-participle)"
+     "grounds": "past participle of prati-sthā",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "For which deities is the use of a yantra established as a ritual support?",
+   "question": "For which deities is the use of a yantra established as valid?",
    "premises": [
-    "The statement applies to all deities.",
-    "The yantra is described as established."
+    "The statement refers to all gods.",
+    "The yantra is described as established.",
+    "The scope is universal among deities."
    ],
-   "inference": "The yantra is established as a ritual support for all deities.",
+   "inference": "The yantra is established as valid for the worship of all deities.",
    "uncertainties": [],
-   "plain_english": "Thus the yantra is established for all deities."
+   "plain_english": "Thus the yantra is established for all the gods."
   }
  ]
 }

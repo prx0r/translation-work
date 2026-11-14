@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p79",
  "verse": 1967,
- "question": "In what spatial order are Isha, Vighnadhipa, Shakti, and Krishna to be worshipped?",
+ "question": "In what spatial order should the named deities be worshipped in this arrangement?",
  "premises": [
-  "Isha, Vighnadhipa, Shakti, and Krishna are named.",
-  "An order from the center to the southeast corner is specified.",
-  "They are described as to be worshipped."
+  "A set of deities including Isha, the lord of obstacles, Shakti, and Krishna is named.",
+  "The order is specified from the center to the southeast corner.",
+  "They are declared to be worshipped."
  ],
- "inference": "Isha, Vighnadhipa, Shakti, and Krishna are to be worshipped in order from the center to the southeast corner.",
+ "inference": "These deities are to be worshipped in sequence from the center to the southeast corner.",
  "uncertainties": [
-  "exact mapping of each deity to each position is not fully explicit"
+  "The internal segmentation of the first compound is somewhat compressed and interpretive."
  ],
- "plain_english": "Isha, Vighnadhipa, Shakti, and Krishna are to be worshipped in order from the center to the southeast corner."
+ "plain_english": "Isha, the lord of obstacles, Shakti, Krishna, and the others are to be worshipped in order from the center to the southeast corner."
 }
