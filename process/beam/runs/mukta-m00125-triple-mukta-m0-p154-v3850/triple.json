@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3850,
+   "rows": [
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "points to a position higher than the previously mentioned locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbha",
+     "gloss": "pot",
+     "grounds": "first member of compound with saṃsthaḥ indicating location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃsthaḥ",
+     "gloss": "situated",
+     "grounds": "describes placement of deveśaḥ",
+     "morph": "m.nom.sg."
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśaḥ",
+     "gloss": "lord-of-gods",
+     "grounds": "subject of the conditional clause",
+     "morph": "m.nom.sg."
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying doṣa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "doṣa",
+     "gloss": "fault",
+     "grounds": "second member of compound with kṛt",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "causing",
+     "grounds": "agent noun from √kṛ indicating production of faults",
+     "morph": "m.nom.sg."
+    }
+   ],
+   "question": "What consequence follows from placing the lord-of-gods in a pot above the previously specified locations?",
+   "premises": [
+    "The preceding context specifies locations for certain ritual placements.",
+    "A position above those locations is considered here.",
+    "The lord-of-gods may be situated in a pot at that higher position."
+   ],
+   "inference": "If the lord-of-gods is situated in a pot above that level, he becomes the cause of all faults.",
+   "uncertainties": [
+    "The exact referent of tad in tadūrdhvaṃ depends on the preceding verses' spatial scheme."
+   ],
+   "plain_english": "If, above that, the lord of the gods is placed in a pot, he causes all faults."
+  }
+ ]
+}

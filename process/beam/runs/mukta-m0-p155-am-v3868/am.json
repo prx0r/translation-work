@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3868,
- "question": "What width is assigned to sauṣṭhika above that?",
+ "question": "Which categories are included among the paths listed in this classification?",
  "premises": [
-  "the location is above that",
-  "the division is into six parts",
-  "one part is sauṣṭhika width"
+  "A worldly category is named.",
+  "A vedic and another category are named.",
+  "A spiritual path is included."
  ],
- "inference": "Above that, in a six-part division, one part is the width of sauṣṭhika.",
+ "inference": "The list includes worldly, vedic, other, and spiritual paths.",
  "uncertainties": [
-  "what 'that' refers to"
+  "The exact parsing of the fused final token is uncertain."
  ],
- "plain_english": "Above that, in a six-part division, one part is the width of sauṣṭhika."
+ "plain_english": "The worldly, the Vedic and other, and the spiritual path—"
 }

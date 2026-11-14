@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p152",
  "verse": 3779,
- "question": "What name is given to the form joined at four corners?",
+ "question": "What must be done with architectural parts produced contrary to proper measure?",
  "premises": [
-  "caturṇāsisamāyuktam means four corners joined",
-  "etatpāñcālamiṣyate means this pancala is called"
+  "A base or other architectural part may be produced contrary to rule.",
+  "Such a part lacks proper measure.",
+  "Architectural correctness requires proper measure."
  ],
- "inference": "The four-corner-joined form is called pancala.",
- "uncertainties": [
-  "exact sandhi split"
- ],
- "plain_english": "Joined at four corners, it is called pancala."
+ "inference": "Therefore, a wrongly produced base or other part must be made properly measured.",
+ "uncertainties": [],
+ "plain_english": "Any base or other part that has been wrongly produced should be made properly measured."
 }

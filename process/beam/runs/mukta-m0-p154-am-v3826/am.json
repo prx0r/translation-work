@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p154",
  "verse": 3826,
- "question": "What name and ornamentation characterize this beautiful chamber?",
+ "question": "What characteristics define the object that has not been raised?",
  "premises": [
-  "bhadrakoṣṭha names the chamber",
-  "idaṃ points to this chamber",
-  "sarvālaṅkārasaṃyutam means fully ornamented"
+  "The object has a certain form",
+  "The object has a certain measure",
+  "The object has a certain material and has not been raised"
  ],
- "inference": "The chamber is named bhadrakoṣṭha and is fully ornamented.",
- "uncertainties": [
-  "bhadrakoṣṭha is a technical architectural term"
- ],
- "plain_english": "This beautiful chamber, named bhadrakoṣṭha, is endowed with all ornaments."
+ "inference": "The unraised object is specified by its form, measure, material, and unraised state.",
+ "uncertainties": [],
+ "plain_english": "Whatever its form, whatever its measure, whatever it is made of, and whatever has not been raised—"
 }

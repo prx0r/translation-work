@@ -3,29 +3,29 @@
  "verse": 3925,
  "rows": [
   {
-   "lemma": "maṇḍapasya",
-   "morph": "n.gen.sg.n",
-   "grounds": "genitive singular of maṇḍapa"
-  },
-  {
-   "lemma": "vimānasya",
-   "morph": "n.gen.sg.n",
-   "grounds": "genitive singular of vimāna"
-  },
-  {
-   "lemma": "saumyāyāṃ",
-   "morph": "adj.f.loc.sg",
-   "grounds": "locative singular feminine of saumya"
-  },
-  {
-   "lemma": "pūrvato",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "indeclinable directional form"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "diśi",
-   "morph": "n.f.loc.sg",
-   "grounds": "locative singular feminine of diś"
+   "lemma": "bhaviṣyati",
+   "morph": "3.sg.active-future √bhū",
+   "grounds": "future occurrence denied"
+  },
+  {
+   "lemma": "bhūtaśca",
+   "morph": "compound-like-fusion: past-participle.m.nom.sg √bhū + (indecl.)",
+   "grounds": "fused form: bhūtaḥ + ca with sandhi; past occurrence also denied"
+  },
+  {
+   "lemma": "satyametadudāhṛtam",
+   "morph": "compound-like-fusion: n.nom.sg + n.nom.sg + past-participle.n.nom.sg ud-ā-√hṛ",
+   "grounds": "fused form: satyam + etat + udāhṛtam; affirms the statement as true"
+  },
+  {
+   "lemma": "etadudāhṛtam",
+   "morph": "compound-like-fusion: n.nom.sg + past-participle.n.nom.sg ud-ā-√hṛ",
+   "grounds": "fused form: etat + udāhṛtam; emphatic repetition of declaration"
   }
  ]
 }

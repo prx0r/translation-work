@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3856,
- "question": "How is the wall-mass proportioned relative to the sanctum?",
+ "question": "Does the same installation rule apply universally or admit specific exceptions?",
  "premises": [
-  "the sanctum is named",
-  "the wall-mass uses three parts",
-  "the proportion is from that part"
+  "The rule is stated to apply in all cases.",
+  "A difference may still be possible.",
+  "Some particular difference may be desired."
  ],
- "inference": "The wall-mass is proportioned from that part using three parts relative to the sanctum.",
+ "inference": "The rule is generally universal, though some specific difference may be desired.",
  "uncertainties": [
-  "exact arithmetic relation"
+  "The nature of the desired difference is unspecified."
  ],
- "plain_english": "The sanctum has a wall-mass of three parts from that part."
+ "plain_english": "In all cases it is just so, though some particular difference may be desired."
 }

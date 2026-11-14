@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p153",
  "verse": 3813,
- "question": "What is joined with garbhakūṭa and adorned with small noses?",
+ "question": "What sequence of actions is required when repairing a stone pedestal?",
  "premises": [
-  "garbha-kūṭa names garbhakūṭa",
-  "upasaṃyuktaṃ means joined",
-  "kṣudra-nāsī means with small noses"
+  "A stone pedestal may require repair.",
+  "The existing pedestal must first be lifted or removed.",
+  "New or replacement stone must then be fitted."
  ],
- "inference": "The joined garbhakūṭa is adorned with small noses.",
- "uncertainties": [
-  "subject omitted"
- ],
- "plain_english": "Joined with garbhakūṭa, it is adorned with small noses."
+ "inference": "After lifting the stone pedestal, one should fit the stone in place.",
+ "uncertainties": [],
+ "plain_english": "Having lifted the stone pedestal, one should then fit the stone."
 }

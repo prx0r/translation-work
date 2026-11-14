@@ -3,24 +3,44 @@
  "verse": 3850,
  "rows": [
   {
-   "lemma": "syāt",
-   "morph": "3.sg.act-optative root-as",
-   "grounds": "optative of as; prescriptive statement"
+   "lemma": "tadūrdhvaṃ",
+   "morph": "(indecl.)",
+   "grounds": "points to a position higher than the previously mentioned locations"
   },
   {
-   "lemma": "satripādabhāgena",
-   "morph": "inst.sg.m",
-   "grounds": "compound sa+tripāda+bhāga+ena; instrumental"
+   "lemma": "kumbha",
+   "morph": "compound-member",
+   "grounds": "first member of compound with saṃsthaḥ indicating location"
   },
   {
-   "lemma": "prastaraḥ",
-   "morph": "nom.sg.m",
-   "grounds": "subject of the clause"
+   "lemma": "saṃsthaḥ",
+   "morph": "m.nom.sg.",
+   "grounds": "describes placement of deveśaḥ"
   },
   {
-   "lemma": "vedikāṃśataḥ",
-   "morph": "abl.sg.m",
-   "grounds": "ablative of vedikā-aṃśa"
+   "lemma": "cet",
+   "morph": "(indecl.)",
+   "grounds": "introduces a conditional case"
+  },
+  {
+   "lemma": "deveśaḥ",
+   "morph": "m.nom.sg.",
+   "grounds": "subject of the conditional clause"
+  },
+  {
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying doṣa"
+  },
+  {
+   "lemma": "doṣa",
+   "morph": "compound-member",
+   "grounds": "second member of compound with kṛt"
+  },
+  {
+   "lemma": "kṛt",
+   "morph": "m.nom.sg.",
+   "grounds": "agent noun from √kṛ indicating production of faults"
   }
  ]
 }

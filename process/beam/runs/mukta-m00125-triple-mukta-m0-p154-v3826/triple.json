@@ -1,0 +1,1353 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3826,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "object of description",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāṇañ",
+     "gloss": "measure",
+     "grounds": "final ñ marks sandhi before ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayaṃ",
+     "gloss": "made-of",
+     "grounds": "material composition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anuddhratam",
+     "gloss": "not-raised",
+     "grounds": "negated past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characteristics define the object that has not been raised?",
+   "premises": [
+    "The object has a certain form",
+    "The object has a certain measure",
+    "The object has a certain material and has not been raised"
+   ],
+   "inference": "The unraised object is specified by its form, measure, material, and unraised state.",
+   "uncertainties": [],
+   "plain_english": "Whatever its form, whatever its measure, whatever it is made of, and whatever has not been raised—"
+  },
+  {
+   "verse": 3827,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "of-that",
+     "grounds": "correlative demonstrative",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object to be constructed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "in-south",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vai'sānakoṇake",
+     "gloss": "in-īśāna-corner",
+     "grounds": "compound indicating northeast corner; apostrophe as given",
+     "morph": "m.loc.sg, compound"
+    }
+   ],
+   "question": "Where should a pavilion be constructed in relation to that object?",
+   "premises": [
+    "A pavilion is to be made",
+    "Its placement is specified relative to that object",
+    "The location is in the south at the Īśāna corner"
+   ],
+   "inference": "One should construct a pavilion in front of that object, in the south at the Īśāna corner.",
+   "uncertainties": [
+    "The exact directional sense of dakṣe vai'sānakoṇake is context-dependent"
+   ],
+   "plain_english": "In front of that, one should make a pavilion in the south, in the Īśāna corner."
+  },
+  {
+   "verse": 3828,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "alaṃkāra",
+     "gloss": "ornament",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyukta",
+     "gloss": "endowed-with",
+     "grounds": "past participle in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antar",
+     "gloss": "inside",
+     "grounds": "locative adverbial element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhā",
+     "gloss": "garland",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "row",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "provided-with",
+     "grounds": "describes the pavilion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the interior of the pavilion be adorned?",
+   "premises": [
+    "The pavilion is endowed with all ornaments",
+    "Its interior is furnished with garlands and rows",
+    "Other similar decorations are included"
+   ],
+   "inference": "The pavilion should be fully ornamented and furnished inside with garlands, rows, and similar decorations.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with all ornaments and furnished inside with garlands, rows, and the like."
+  },
+  {
+   "verse": 3829,
+   "rows": [
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "santarpaṇaṃ",
+     "gloss": "satiation",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "location of offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuṇḍa",
+     "gloss": "pit",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates other prepared places",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kalpite",
+     "gloss": "prepared",
+     "grounds": "describes fire receptacle",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What ritual preparation must precede the offering in the fire?",
+   "premises": [
+    "Mantra satiation must be performed",
+    "The fire is in a prepared receptacle",
+    "The receptacle includes a pit and similar arrangements"
+   ],
+   "inference": "After performing mantra satiation, one should proceed with the fire prepared in a pit or similar receptacle.",
+   "uncertainties": [],
+   "plain_english": "Having performed the satiation of the mantras in the fire, in a prepared pit or the like,"
+  },
+  {
+   "verse": 3830,
+   "rows": [
+    {
+     "surface": "vāstu",
+     "gloss": "site",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anta",
+     "gloss": "and-other",
+     "grounds": "indicates inclusion of other entities",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dik",
+     "gloss": "directions",
+     "grounds": "recipients of offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācamya",
+     "gloss": "having-performed",
+     "grounds": "absolutive",
+     "morph": "(gerund) sam-ā-√cam"
+    },
+    {
+     "surface": "guruttamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg, compound"
+    }
+   ],
+   "question": "Who performs the directional and site offerings after mantra satiation?",
+   "premises": [
+    "Offerings are made to the site and the directions",
+    "The offerings are duly performed",
+    "The best teacher is the agent"
+   ],
+   "inference": "The best teacher should perform the offerings to the site and the directions.",
+   "uncertainties": [],
+   "plain_english": "and having duly performed the offerings to the site and the directions, the best of teachers"
+  },
+  {
+   "verse": 3831,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñāpayet",
+     "gloss": "one-should-inform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt vi-√jñā-caus"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "the-god",
+     "grounds": "addressee",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prabha",
+     "gloss": "dawn",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "doṣa",
+     "gloss": "fault",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āvahaṃ",
+     "gloss": "bringing",
+     "grounds": "describes the fault",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must the teacher communicate to the deity after the offerings?",
+   "premises": [
+    "The teacher addresses the deity",
+    "A fault arising at dawn is identified",
+    "This fault must be reported"
+   ],
+   "inference": "The teacher should inform the deity of this fault that arises at dawn.",
+   "uncertainties": [
+    "prabha-doṣa may refer to a fault related to radiance or early morning"
+   ],
+   "plain_english": "should then inform the deity of this fault that brings harm at dawn."
+  },
+  {
+   "verse": 3832,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the fault",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "uddhārāya",
+     "gloss": "for-removal",
+     "grounds": "purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "amānta",
+     "gloss": "from-this",
+     "grounds": "first part of fused demonstrative",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "smāt",
+     "gloss": "therefore",
+     "grounds": "ablative element in fused form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "adhitiṣṭha",
+     "gloss": "be-present",
+     "grounds": "imperative request",
+     "morph": "2.sg.act-imp adhi-√sthā"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "vocative epithet element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "auspicious-one",
+     "grounds": "vocative address to Sadāśiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What request is made to Sadāśiva regarding the reported fault?",
+   "premises": [
+    "The fault requires removal",
+    "Sadāśiva is addressed directly",
+    "Sadāśiva is asked to be present for that removal"
+   ],
+   "inference": "Sadāśiva is requested to be present for the removal of this fault.",
+   "uncertainties": [
+    "amānta smāt appears as two tokens but functions as a fused demonstrative expression"
+   ],
+   "plain_english": "For the removal of this, therefore, be present, O ever-auspicious Śiva."
+  },
+  {
+   "verse": 3833,
+   "rows": [
+    {
+     "surface": "kṣīra",
+     "gloss": "milk",
+     "grounds": "first oblation substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ājya",
+     "gloss": "ghee",
+     "grounds": "second oblation substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "third oblation substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "durvābhi",
+     "gloss": "with-dūrvā-grass",
+     "grounds": "instrumental plural in compound-like form",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "śśivena",
+     "gloss": "with-śiva-mantra",
+     "grounds": "instrumental; initial śś marks sandhi",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "aṣṭasahasrakam",
+     "gloss": "eight-thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What substances and count are prescribed for the oblation with the Śiva mantra?",
+   "premises": [
+    "Milk, ghee, honey, and dūrvā grass are used",
+    "The oblation is performed with the Śiva mantra",
+    "The prescribed count is eight thousand"
+   ],
+   "inference": "One should offer milk, ghee, honey, and dūrvā grass eight thousand times with the Śiva mantra.",
+   "uncertainties": [],
+   "plain_english": "With milk, ghee, honey, and dūrvā grass, using the Śiva mantra, eight thousand times."
+  },
+  {
+   "verse": 3834,
+   "rows": [
+    {
+     "surface": "vyāpakeśvara",
+     "gloss": "vyāpakeśvara",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śabdan",
+     "gloss": "word",
+     "grounds": "object to be employed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthyantaṃ",
+     "gloss": "ending-in-fourth",
+     "grounds": "grammatical form of the word",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "one-should-employ",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt pra-√yuj-caus"
+    }
+   ],
+   "question": "In what grammatical form should the word Vyāpakeśvara be employed?",
+   "premises": [
+    "The word Vyāpakeśvara is to be used",
+    "A specific grammatical ending is required",
+    "It should end in the fourth form"
+   ],
+   "inference": "The word Vyāpakeśvara should be employed in the dative form.",
+   "uncertainties": [],
+   "plain_english": "One should employ the word Vyāpakeśvara ending in the dative."
+  },
+  {
+   "verse": 3835,
+   "rows": [
+    {
+     "surface": "vyāpakeśvara",
+     "gloss": "vyāpakeśvara",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śabdan",
+     "gloss": "word",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaya",
+     "gloss": "heart",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates other mantra limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantra element to be added",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra elements follow the word Vyāpakeśvara in the formula?",
+   "premises": [
+    "The word Vyāpakeśvara is used",
+    "Additional mantra words are appended",
+    "These include the heart and other limbs"
+   ],
+   "inference": "After the word Vyāpakeśvara, one should add the words for the heart and other mantra limbs.",
+   "uncertainties": [],
+   "plain_english": "Then, after the word Vyāpakeśvara, add the word for the heart and so forth."
+  },
+  {
+   "verse": 3836,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-join",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt √yuj-caus"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-these",
+     "grounds": "instrumental reference to mantra elements",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgañ",
+     "gloss": "liṅga",
+     "grounds": "ritual object; final ñ marks sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ja",
+     "gloss": "and",
+     "grounds": "connective particle as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavāsane",
+     "gloss": "on-praṇava-seat",
+     "grounds": "location for the liṅga",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "What restriction applies to the mantra and where is the liṅga placed?",
+   "premises": [
+    "A seed syllable should not be joined",
+    "The liṅga is involved in the rite",
+    "The liṅga is placed on a seat of praṇava"
+   ],
+   "inference": "One should not join a seed syllable with these elements, and the liṅga should be placed on the praṇava seat.",
+   "uncertainties": [
+    "ja is read as a connective particle as given in the token list"
+   ],
+   "plain_english": "One should not join a seed syllable with these, and the liṅga should be placed on the seat of praṇava."
+  },
+  {
+   "verse": 3837,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "in-that",
+     "grounds": "locative demonstrative element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āśritaṃ",
+     "gloss": "residing",
+     "grounds": "describes the being",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "satvaṃ",
+     "gloss": "being",
+     "grounds": "entity residing in the liṅga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrāvaye",
+     "gloss": "one-should-make-hear",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt √śru-caus"
+    },
+    {
+     "surface": "dastra",
+     "gloss": "astra-mantra",
+     "grounds": "mantra used while uttering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "muccaran",
+     "gloss": "uttering",
+     "grounds": "present participle",
+     "morph": "m.nom.sg.act-pres-part ud-√car"
+    }
+   ],
+   "question": "What should be addressed to the being residing in the liṅga and how?",
+   "premises": [
+    "A being resides in that liṅga",
+    "That being must be made to hear",
+    "The astra mantra is uttered during the address"
+   ],
+   "inference": "One should make the being residing there hear while uttering the astra mantra.",
+   "uncertainties": [
+    "dastra is taken as astra as per legacy hint"
+   ],
+   "plain_english": "Then, while uttering the astra mantra, one should make the being residing in that liṅga hear."
+  },
+  {
+   "verse": 3838,
+   "rows": [
+    {
+     "surface": "liṅgan",
+     "gloss": "liṅga",
+     "grounds": "object to be abandoned; final n as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "(gerund) √tyaj"
+    },
+    {
+     "surface": "śivājñābhir",
+     "gloss": "by-śiva-commands",
+     "grounds": "instrumental cause",
+     "morph": "f.ins.pl, compound"
+    },
+    {
+     "surface": "yatheṣṭaṃ",
+     "gloss": "as-desired",
+     "grounds": "manner of departure",
+     "morph": "(indecl.), compound"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "place reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchatu",
+     "gloss": "let-it-go",
+     "grounds": "imperative dismissal",
+     "morph": "3.sg.act-imp √gam"
+    }
+   ],
+   "question": "What instruction is given to the being after it leaves the liṅga?",
+   "premises": [
+    "The being abandons the liṅga",
+    "The departure is by Śiva’s commands",
+    "The being is permitted to go as desired"
+   ],
+   "inference": "Having abandoned the liṅga by Śiva’s commands, the being should go wherever it wishes.",
+   "uncertainties": [],
+   "plain_english": "Having abandoned the liṅga by Śiva’s commands, let it go there as it wishes."
+  },
+  {
+   "verse": 3839,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner of speaking",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "absolutive",
+     "morph": "(gerund) √vac"
+    },
+    {
+     "surface": "mahāstreṇa",
+     "gloss": "with-great-astra",
+     "grounds": "instrumental mantra",
+     "morph": "n.ins.sg, compound"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive",
+     "morph": "(gerund) √dā"
+    },
+    {
+     "surface": "arghyan",
+     "gloss": "arghya",
+     "grounds": "ritual offering; final n as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāṅmukham",
+     "gloss": "turned-away",
+     "grounds": "describes the dismissed being",
+     "morph": "n.acc.sg, compound"
+    }
+   ],
+   "question": "What ritual action concludes the dismissal of the turned-away being?",
+   "premises": [
+    "The dismissal is spoken thus",
+    "The great astra mantra is used",
+    "Arghya is given to the turned-away being"
+   ],
+   "inference": "After speaking thus, one should give arghya with the great astra to the turned-away being.",
+   "uncertainties": [],
+   "plain_english": "Having spoken thus, and having given arghya with the great astra to the one turned away,"
+  },
+  {
+   "verse": 3840,
+   "rows": [
+    {
+     "surface": "agra",
+     "gloss": "front",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthaṇḍila",
+     "gloss": "altar",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyukte",
+     "gloss": "endowed-with",
+     "grounds": "describes the place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svarṇa",
+     "gloss": "gold",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "cloth",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvite",
+     "gloss": "furnished-with",
+     "grounds": "describes the place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What kind of prepared place is required for the next installation?",
+   "premises": [
+    "A front altar is prepared",
+    "The place is endowed with an altar",
+    "The place is furnished with gold and cloth"
+   ],
+   "inference": "The next rite takes place on a front altar furnished with gold and cloth.",
+   "uncertainties": [],
+   "plain_english": "on a front altar, furnished with gold and cloth,"
+  },
+  {
+   "verse": 3841,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāyāṃ",
+     "gloss": "prepared",
+     "grounds": "describes the vessel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "varddhanyām",
+     "gloss": "in-vardhanī-vessel",
+     "grounds": "ritual vessel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ambikāṃ",
+     "gloss": "Ambikā",
+     "grounds": "deity to be installed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt √sthā-caus"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-teacher",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who installs Ambikā and in what vessel is she placed?",
+   "premises": [
+    "A vardhanī vessel is prepared",
+    "Ambikā is the deity to be installed",
+    "The teacher performs the installation"
+   ],
+   "inference": "The teacher should install Ambikā in the prepared vardhanī vessel.",
+   "uncertainties": [],
+   "plain_english": "the teacher should install Ambikā in the prepared vardhanī vessel."
+  },
+  {
+   "verse": 3842,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāntihoma",
+     "gloss": "pacifying-oblations",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied-by",
+     "grounds": "describes worship",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ongoing ritual observance is required after installing Ambikā?",
+   "premises": [
+    "Worship must be performed daily",
+    "The worship is obligatory",
+    "It must be accompanied by pacifying oblations"
+   ],
+   "inference": "Daily worship accompanied by pacifying oblations must be performed.",
+   "uncertainties": [],
+   "plain_english": "And daily worship should be performed, accompanied by pacifying oblations."
+  },
+  {
+   "verse": 3843,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "(gerund) √hu"
+    },
+    {
+     "surface": "śāntyaṃ",
+     "gloss": "for-pacification",
+     "grounds": "purpose of offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhasā",
+     "gloss": "with-ashes",
+     "grounds": "instrumental substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "prokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive",
+     "morph": "(gerund) pra-√ukṣ"
+    },
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "with-kuśa-grass",
+     "grounds": "instrumental means",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "spṛṣṭvā",
+     "gloss": "having-touched",
+     "grounds": "absolutive",
+     "morph": "(gerund) √spṛś"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-teacher",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence of actions should the teacher perform during the pacification rite?",
+   "premises": [
+    "The teacher offers oblations for pacification",
+    "The teacher sprinkles with ashes and touches with kuśa grass",
+    "The teacher should recite mantras"
+   ],
+   "inference": "After offering for pacification, sprinkling with ashes, and touching with kuśa grass, the teacher should recite.",
+   "uncertainties": [],
+   "plain_english": "Having offered for pacification, sprinkled with ashes, and touched with kuśa grass, the teacher should recite."
+  },
+  {
+   "verse": 3844,
+   "rows": [
+    {
+     "surface": "tadante",
+     "gloss": "at-end-of-that",
+     "grounds": "time marker",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "mūrti",
+     "gloss": "in-image",
+     "grounds": "first location in list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūrtīśān",
+     "gloss": "in-image-lords",
+     "grounds": "second location in list",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "liṅga",
+     "gloss": "in-liṅga",
+     "grounds": "third location in list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "piṇḍi",
+     "gloss": "pedestal",
+     "grounds": "fourth location in list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates other locations",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃsthitān",
+     "gloss": "situated",
+     "grounds": "describes entities present",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which entities situated in sacred supports are addressed at the end of the rite?",
+   "premises": [
+    "The action occurs at the end of that rite",
+    "Entities are situated in images, image-lords, liṅga, and pedestal",
+    "Other similar supports are included"
+   ],
+   "inference": "At the end, those situated in the image, image-lords, liṅga, pedestal, and so forth are addressed.",
+   "uncertainties": [],
+   "plain_english": "At the end of that, those situated in the image, the lords of the images, the liṅga, the pedestal, and so forth—"
+  },
+  {
+   "verse": 3845,
+   "rows": [
+    {
+     "surface": "śivam",
+     "gloss": "auspiciousness",
+     "grounds": "benediction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-it-be",
+     "grounds": "optative benediction",
+     "morph": "3.sg.act-imp √as"
+    },
+    {
+     "surface": "gṛṇan",
+     "gloss": "uttering",
+     "grounds": "present participle",
+     "morph": "m.nom.sg.act-pres-part √gṛ"
+    },
+    {
+     "surface": "lokaiḥ",
+     "gloss": "with-people",
+     "grounds": "accompanying participants",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "prikṣipet",
+     "gloss": "should-cast",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt pra-√kṣip"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "place of immersion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-teacher",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the teacher conclude the rite with the sacred supports?",
+   "premises": [
+    "The teacher utters a benediction of auspiciousness",
+    "The people participate with the teacher",
+    "The items are cast into water"
+   ],
+   "inference": "Uttering 'let there be auspiciousness' together with the people, the teacher should cast them into water.",
+   "uncertainties": [],
+   "plain_english": "Uttering 'may there be auspiciousness' together with the people, the teacher should cast them into the water."
+  },
+  {
+   "verse": 3846,
+   "rows": [
+    {
+     "surface": "prāsāda",
+     "gloss": "temple",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "site",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śuddhyarthaṃ",
+     "gloss": "for-purification",
+     "grounds": "purpose",
+     "morph": "(indecl.), compound"
+    },
+    {
+     "surface": "hotavyan",
+     "gloss": "to-be-offered",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "number of offerings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "repeated for emphasis or total count",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many oblations are prescribed for purifying the temple site?",
+   "premises": [
+    "The purpose is purification of the temple site",
+    "Oblations must be offered",
+    "The count is given as hundred and hundred"
+   ],
+   "inference": "For the purification of the temple site, one hundred and one hundred oblations should be offered.",
+   "uncertainties": [
+    "śataṃ śatam may indicate two hundred or a repeated hundredfold offering"
+   ],
+   "plain_english": "For the purification of the temple and site, a hundred and a hundred oblations should be offered."
+  },
+  {
+   "verse": 3847,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "object of reference",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aparañ",
+     "gloss": "another",
+     "grounds": "alternative; final ñ marks sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-establish",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt √sthā-caus"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg, compound"
+    }
+   ],
+   "question": "Who should establish another measure in that context?",
+   "premises": [
+    "A measure is under consideration",
+    "Another measure is also possible",
+    "The best teacher performs the establishment"
+   ],
+   "inference": "The best teacher should establish that or another measure here.",
+   "uncertainties": [
+    "The referent of tat mānam depends on prior ritual context"
+   ],
+   "plain_english": "And here the best of teachers should establish that measure or another."
+  },
+  {
+   "verse": 3848,
+   "rows": [
+    {
+     "surface": "gāṇave",
+     "gloss": "in-gaṇava-liṅga",
+     "grounds": "first case",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lohaje",
+     "gloss": "in-metal-made",
+     "grounds": "second case",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prastravaṇa",
+     "gloss": "flowing",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādiṣu",
+     "gloss": "and-so-forth",
+     "grounds": "indicates other locations",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "In which types of liṅgas or locations does the stated rule apply?",
+   "premises": [
+    "The rule applies to a gaṇava liṅga",
+    "The rule applies to a metal-made liṅga",
+    "The rule applies in rivers, streams, and similar places"
+   ],
+   "inference": "The rule applies in the case of a gaṇava liṅga, a metal liṅga, and in rivers, streams, and the like.",
+   "uncertainties": [
+    "gāṇave is interpreted as relating to a gaṇava liṅga based on context"
+   ],
+   "plain_english": "In the case of a gaṇava liṅga, a metal one, and in rivers, streams, and so forth,"
+  },
+  {
+   "verse": 3849,
+   "rows": [
+    {
+     "surface": "mānuṣāṇāñ",
+     "gloss": "of-humans",
+     "grounds": "possessive; final ñ marks sandhi",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgānāṃ",
+     "gloss": "of-liṅgas",
+     "grounds": "possessive",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ghaṭa",
+     "gloss": "pot",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāryan",
+     "gloss": "rite",
+     "grounds": "ritual procedure; final n as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive statement",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What ritual procedure is prescribed for liṅgas made by humans?",
+   "premises": [
+    "The liṅgas in question are those of humans",
+    "A pot rite is specified",
+    "This procedure is prescribed by the text"
+   ],
+   "inference": "For liṅgas made by humans, that pot rite is prescribed.",
+   "uncertainties": [],
+   "plain_english": "and for liṅgas made by humans, that pot rite is prescribed."
+  }
+ ]
+}
