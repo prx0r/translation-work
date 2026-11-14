@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p31",
  "verse": 768,
- "question": "What alternative groups may be included in this arrangement?",
+ "question": "What declaration must precede the performance of nyāsa in this mantra ritual?",
  "premises": [
-  "A group beginning with Krodha is mentioned.",
-  "That group numbers eight.",
-  "A group beginning with Śatarudra is given as an alternative."
+  "Mahākṛt is declared as the deity.",
+  "This declaration is made explicitly.",
+  "Nyāsa is to be performed after the declaration."
  ],
- "inference": "The arrangement may include the eight beginning with Krodha or alternatively those beginning with Śatarudra.",
- "uncertainties": [],
- "plain_english": "There are the eight beginning with Krodha, or alternatively those beginning with Śatarudra."
+ "inference": "After declaring Mahākṛt as the deity, one should perform the nyāsa.",
+ "uncertainties": [
+  "The exact identity or form of Mahākṛt is not further specified here."
+ ],
+ "plain_english": "Having declared 'Mahākṛt is the deity,' one should perform the nyāsa."
 }

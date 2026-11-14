@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p31",
  "verse": 751,
- "question": "What consecration renders water fit for Śiva worship?",
+ "question": "What ritual actions of taking, fastening, and drawing out must be performed with the specified pairs?",
  "premises": [
-  "Water is joined with specified substances.",
-  "The water becomes Śiva-water.",
-  "Consecration occurs through Śiva mantras."
+  "A pair is to be taken.",
+  "A pair of posts is to be fastened.",
+  "Another pair is to be drawn out."
  ],
- "inference": "Water combined with prescribed substances and consecrated by Śiva mantras becomes Śiva-water.",
- "uncertainties": [],
- "plain_english": "Water joined with these substances becomes Śiva-water when consecrated with Śiva mantras."
+ "inference": "The ritual procedure requires sequential acts of taking, fastening, and extracting specified pairs.",
+ "uncertainties": [
+  "The exact ritual objects denoted by dvayaṃ and stambha-yugmaṃ are not specified in this verse."
+ ],
+ "plain_english": "Take a pair, fasten the pair of posts, and draw out a pair."
 }
