@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1043,
- "question": "Which deities bowed to the supremely auspicious Kālī?",
+ "question": "In what garment conditions should mantra not be chanted?",
  "premises": [
-  "Kālī is identified as supremely auspicious",
-  "Vidhi and Keśava bowed to her"
+  "one garment is named",
+  "many garments crowded is named",
+  "mantra chanting is named"
  ],
- "inference": "Brahmā and Viṣṇu paid obeisance to the supremely auspicious Kālī",
- "uncertainties": [],
- "plain_english": "Having bowed to that supremely auspicious Kālī, Vidhi and Keśava."
+ "inference": "Mantra should not be chanted in one garment or crowded with many garments.",
+ "uncertainties": [
+  "exact garment rule"
+ ],
+ "plain_english": "Do not chant mantra in one garment or crowded with many garments."
 }

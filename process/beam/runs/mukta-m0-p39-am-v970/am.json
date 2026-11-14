@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p39",
  "verse": 970,
- "question": "What epithet identifies the goddess introduced at this point?",
+ "question": "What happens to all his afflictions?",
  "premises": [
-  "A goddess is being introduced.",
-  "She is described as singular.",
-  "She is identified as mother of the world."
+  "The verse says all his afflictions perish.",
+  "It says this happens soon."
  ],
- "inference": "The goddess is identified as the one mother of the world.",
- "uncertainties": [],
- "plain_english": "The one mother of the world."
+ "inference": "All his afflictions perish soon.",
+ "uncertainties": [
+  "The referent of 'his' is not explicit."
+ ],
+ "plain_english": "Soon all his afflictions perish."
 }

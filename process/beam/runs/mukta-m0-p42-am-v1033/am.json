@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1033,
- "question": "Where is the great abode of Kāmarūpa located geographically?",
+ "question": "Which moral faults must be abandoned from afar?",
  "premises": [
-  "The location is specified on earth",
-  "It is in the region of Bhārata and named Kāmarūpa"
+  "false speech is named",
+  "crookedness is named",
+  "abandon from afar is commanded"
  ],
- "inference": "The great abode of Kāmarūpa is situated in the Bhārata region on earth",
- "uncertainties": [],
- "plain_english": "On earth, in the region of Bhārata, is the great abode of Kāmarūpa."
+ "inference": "False speech and crookedness must be abandoned from afar.",
+ "uncertainties": [
+  "scope of dūrataḥ"
+ ],
+ "plain_english": "Abandon false speech and crookedness from afar."
 }

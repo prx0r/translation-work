@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p44",
  "verse": 1090,
- "question": "What condition grants liberation to all who die in Kāśī?",
+ "question": "How many times should the japa count be chanted?",
  "premises": [
-  "All such persons attain liberation.",
-  "The place of death is Kāśī.",
-  "Death there occurs by fortune."
+  "prajaptvā means having chanted",
+  "japasaṃkhyā means japa count",
+  "dasāṃsataḥ means ten times"
  ],
- "inference": "Therefore all who die in Kāśī by fortune attain liberation.",
- "uncertainties": [],
- "plain_english": "All of them attain liberation if, by good fortune, they die in Kāśī."
+ "inference": "The japa count should be chanted fully ten times.",
+ "uncertainties": [
+  "exact count base"
+ ],
+ "plain_english": "Chant the japa count fully ten times."
 }

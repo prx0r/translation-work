@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "saptottarā",
+     "gloss": "seven-beyond",
+     "grounds": "compound sapta+uttarā",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "satamayī",
+     "gloss": "hundred-composed",
+     "grounds": "compound śata+mayī",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "asi",
+     "gloss": "are",
+     "grounds": "root as",
+     "morph": "verb.2.sg.act-pres"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "feminine numeral",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "Is the goddess one unified reality despite being counted as seven hundred?",
+   "premises": [
+    "saptottarā means seven beyond hundred",
+    "satamayī means consisting of hundred",
+    "tvam ekā asserts oneness"
+   ],
+   "inference": "The verse identifies Tripura as one despite numerical epithets.",
+   "uncertainties": [
+    "Exact numerical parsing of saptottarā is uncertain"
+   ],
+   "plain_english": "You are the seven-hundred-formed one; you are one."
+  }
+ ]
+}

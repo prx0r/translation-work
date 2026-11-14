@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1044,
- "question": "What kind of account is being introduced to the lady of the kula?",
+ "question": "When should chanting be abandoned during bodily interruptions?",
  "premises": [
-  "The account is described as ancient",
-  "The account is described as very secret"
+  "sneezing is named",
+  "downward breath is named",
+  "yawning is named"
  ],
- "inference": "An ancient and highly secret account is being presented to the lady of the kula",
- "uncertainties": [],
- "plain_english": "O lady of the kula, this is indeed an ancient and very secret account."
+ "inference": "Chanting should be abandoned on sneezing, downward breath, or yawning.",
+ "uncertainties": [
+  "whether resume after"
+ ],
+ "plain_english": "Abandon chanting on sneezing, downward breath, or yawning."
 }

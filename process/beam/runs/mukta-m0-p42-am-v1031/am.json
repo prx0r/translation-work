@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1031,
- "question": "What devotional act at the yonimaṇḍala is being specified?",
+ "question": "With what substances should one bathe in this rite?",
  "premises": [
-  "One may reach the yonimaṇḍala",
-  "One may worship Kāmākhyā there"
+  "bathing is prescribed",
+  "five cow products are named",
+  "pure amalaka is named"
  ],
- "inference": "The specified act is reaching the yonimaṇḍala and worshipping Kāmākhyā",
- "uncertainties": [],
- "plain_english": "Whoever, having reached the yoni-circle, worships Kāmākhyā."
+ "inference": "One should bathe with five cow products or pure amalaka.",
+ "uncertainties": [
+  "choice conditions"
+ ],
+ "plain_english": "Bathe with five cow products or pure amalaka."
 }

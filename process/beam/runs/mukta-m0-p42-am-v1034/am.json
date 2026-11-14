@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1034,
- "question": "What characterizes the sacred site of Kāmarūpa addressed to Brahman?",
+ "question": "Which bodily adornments are listed in this rule?",
  "premises": [
-  "Kāmarūpa is described as consisting of nine yonis",
-  "Kāmarūpa is described as charming"
+  "oil massage is named",
+  "scented unguent is named",
+  "flower wearing is named"
  ],
- "inference": "Kāmarūpa is a charming sacred site constituted by nine yonis",
- "uncertainties": [],
- "plain_english": "O Brahman, in Kāmarūpa, which consists of nine yonis, it is charming."
+ "inference": "The verse lists oil massage, scented unguent, and flower wearing.",
+ "uncertainties": [
+  "whether prohibited or prescribed"
+ ],
+ "plain_english": "Oil massage, scented unguent, and flower wearing are listed."
 }

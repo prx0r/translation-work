@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1046,
- "question": "What declaration did the two make in the ocean waters?",
+ "question": "What daily and sleeping practices are prescribed here?",
  "premises": [
-  "Two beings spoke in the ocean waters",
-  "They twice declared 'I am Īśvara'"
+  "daily washing is named",
+  "bed is named",
+  "sleep alone fearless is named"
  ],
- "inference": "The two proclaimed their identity as Īśvara while in the ocean waters",
- "uncertainties": [],
- "plain_english": "In the ocean waters, the two said, 'I am Īśvara, I am Īśvara.'"
+ "inference": "Wash the bed daily and sleep alone fearless.",
+ "uncertainties": [
+  "exact washing object"
+ ],
+ "plain_english": "Wash the bed daily and sleep alone, fearless."
 }

@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1039,
- "question": "What actions must the god perform to attain excellence?",
+ "question": "Which mental states disqualify chanting in this rule?",
  "premises": [
-  "The god is urged to attain excellence",
-  "He must see the sacred seat and perform austerity"
+  "anxious mind is named",
+  "anger is named",
+  "confusion is named",
+  "haste is named"
  ],
- "inference": "Attaining excellence requires beholding the sacred seat and undertaking austerity",
- "uncertainties": [],
- "plain_english": "O god, attain excellence; having seen the sacred seat, perform austerity."
+ "inference": "Anxious, angry, confused, or hasty states disqualify chanting.",
+ "uncertainties": [
+  "whether all are prohibitions"
+ ],
+ "plain_english": "Do not chant when anxious, angry, confused, or hasty."
 }

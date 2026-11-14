@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1041,
- "question": "Why does the sin become imperceptible after austerity there?",
+ "question": "How should daily chanting be measured each day?",
  "premises": [
-  "Austerity is performed at that place",
-  "By the power of austerity that sin is not seen by anyone"
+  "deficient is forbidden",
+  "excessive is forbidden",
+  "daily chanting is named"
  ],
- "inference": "The power of austerity at that place renders the sin invisible to all",
- "uncertainties": [],
- "plain_english": "There, by the power of austerity, that is not seen by anyone at all."
+ "inference": "Daily chanting should be neither deficient nor excessive.",
+ "uncertainties": [
+  "exact count"
+ ],
+ "plain_english": "Chant daily neither too little nor too much."
 }

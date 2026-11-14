@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 1000,
- "question": "What power instantly reduced the foremost demon to ashes?",
+ "question": "Which four great bodily features are attributed to the goddess?",
  "premises": [
-  "A huṃ-sound was uttered.",
-  "The foremost demon was the target.",
-  "The huṃ-sound alone effected his destruction."
+  "The verse lists four epithets.",
+  "Each epithet begins with mahā.",
+  "Each names a bodily feature."
  ],
- "inference": "The utterance of the huṃ-sound alone reduced the foremost demon to ashes.",
- "uncertainties": [],
- "plain_english": "With the huṃ-sound alone, he reduced that foremost demon to ashes."
+ "inference": "The goddess is praised through four great bodily features.",
+ "uncertainties": [
+  "Exact grammatical gender inferred from feminine epithet pattern."
+ ],
+ "plain_english": "Great-eyed, great-mouthed, great-tongued, great-armed."
 }

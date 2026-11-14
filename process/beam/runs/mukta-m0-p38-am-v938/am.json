@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p38",
  "verse": 938,
- "question": "What twofold course characterizes the operation of mantras in this teaching?",
+ "question": "What happens when one recites the daily kavaca once?",
  "premises": [
-  "Union and separation are named together.",
-  "Mantras are the domain in question.",
-  "Their course is described as twofold."
+  "prajapya means having recited",
+  "nityakavacam means daily kavaca",
+  "sakrt means once",
+  "sarvam means all"
  ],
- "inference": "The course of mantras is twofold, consisting of union and separation.",
- "uncertainties": [],
- "plain_english": "Union and separation: the course of mantras is twofold."
+ "inference": "Reciting the daily kavaca once makes that one abandon all.",
+ "uncertainties": [
+  "The fused form tyajatyasau is treated as one token"
+ ],
+ "plain_english": "Having recited the daily kavaca once, that one abandons all."
 }

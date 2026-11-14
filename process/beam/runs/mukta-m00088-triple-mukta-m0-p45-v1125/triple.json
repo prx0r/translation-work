@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "dvayor",
+     "gloss": "of-two",
+     "grounds": "genitive dual of dva",
+     "morph": "gen.du.m/n"
+    },
+    {
+     "surface": "bhedo",
+     "gloss": "distinction",
+     "grounds": "nominative singular masculine of bheda",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyo",
+     "gloss": "to-be-made",
+     "grounds": "gerundive of kṛ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yadīcchet",
+     "gloss": "if-desires",
+     "grounds": "internal sandhi yadi + icchet; optative of iṣ",
+     "morph": "3.sg.act.opt. (iṣ)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular neuter of parama",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "accusative singular neuter of pada",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Should the distinction between the two be avoided by one who desires the supreme state?",
+   "premises": [
+    "distinction between two is prohibited",
+    "supreme state is the desired goal",
+    "avoidance follows from that desire"
+   ],
+   "inference": "Therefore one seeking the supreme state should not make a distinction between the two.",
+   "uncertainties": [
+    "referents of 'the two' are not specified in this verse",
+    "gender of dvayor is not fully fixed by context"
+   ],
+   "plain_english": "The distinction between the two should not be made, if one desires the supreme state."
+  }
+ ]
+}
