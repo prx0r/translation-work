@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 95,
- "question": "What mark and radiance characterize this syllable?",
+ "question": "What attendants and items are involved in bathing and changing garments for the lord?",
  "premises": [
-  "The syllable is accompanied by the three dots.",
-  "The syllable has splendor equal to yellow lightning."
+  "Water and other things are needed for bathing.",
+  "Garments and similar items require changing.",
+  "Attendants are assigned to these tasks."
  ],
- "inference": "This syllable is marked by the three dots and shines with the splendor of yellow lightning.",
- "uncertainties": [],
- "plain_english": "This syllable is accompanied by the three dots and has a splendor equal to yellow lightning."
+ "inference": "Various attendants and materials are engaged in providing bathing water and changing garments and other items.",
+ "uncertainties": [
+  "The segmentation of snāna+artha+vāra+amitara+ān is textually compressed."
+ ],
+ "plain_english": "He engages attendants for bathing water and other needs, and others for changing garments and the like."
 }

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "śiṣṭaṃ",
+     "gloss": "remainder",
+     "grounds": "what is left over after prior distribution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pradiṣṭa+ājñaḥ",
+     "gloss": "given-command",
+     "grounds": "one who has received an instruction or order",
+     "morph": "compound bahuvrihi m.nom.sg"
+    },
+    {
+     "surface": "udāra+sattvaḥ",
+     "gloss": "noble-natured",
+     "grounds": "possessing a generous or elevated disposition",
+     "morph": "compound bahuvrihi m.nom.sg"
+    },
+    {
+     "surface": "śiṣṭa+īśvarebhyaḥ",
+     "gloss": "to-remaining-lords",
+     "grounds": "to other noble lords or masters",
+     "morph": "compound tatpuruṣa m.dat.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle indicating extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhājayan",
+     "gloss": "distributing",
+     "grounds": "apportioning or sharing out",
+     "morph": "pres.act.part m.nom.sg vi-√bhaj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What obligation governs the sharing of remaining offerings with other noble lords?",
+   "premises": [
+    "A noble-natured person acts under a received command.",
+    "A remainder persists after earlier acts of distribution.",
+    "Other noble lords remain as rightful recipients."
+   ],
+   "inference": "The commanded noble-natured person must also distribute the remainder to the other noble lords.",
+   "uncertainties": [
+    "The precise referent of śiṣṭa+īśvarebhyaḥ as specific lords or a general class is context-dependent."
+   ],
+   "plain_english": "Having received the command and being noble-natured, he also distributes what remains to the other noble lords."
+  }
+ ]
+}

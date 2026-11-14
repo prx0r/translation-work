@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 78,
- "question": "What appearance and qualities are constantly attributed to this syllable?",
+ "question": "Who fails to experience wonder upon seeing the rising white-and-red branch?",
  "premises": [
-  "The syllable resembles the autumn moon.",
-  "The syllable is always united with the three qualities."
+  "A rising branch appears white and red.",
+  "Someone may see this rising branch.",
+  "The sight is capable of producing wonder."
  ],
- "inference": "This syllable is eternally moon-like in appearance and endowed with the three qualities.",
- "uncertainties": [],
- "plain_english": "It always resembles the autumn moon and is united with the three qualities."
+ "inference": "No one who sees the rising white-and-red branch fails to obtain wonder.",
+ "uncertainties": [
+  "The symbolic referent of the rising branch is not explicit."
+ ],
+ "plain_english": "Who, having seen the rising white-and-red branch, does not feel wonder?"
 }

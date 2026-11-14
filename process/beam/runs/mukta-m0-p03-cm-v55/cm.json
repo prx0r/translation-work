@@ -3,24 +3,44 @@
  "verse": 55,
  "rows": [
   {
-   "lemma": "kakāraḥ",
+   "lemma": "jyotiḥ",
+   "morph": "n.nom.sg",
+   "grounds": "subject merging"
+  },
+  {
+   "lemma": "jyotiḥ",
+   "morph": "n.acc.sg",
+   "grounds": "goal of merging"
+  },
+  {
+   "lemma": "upaiti",
+   "morph": "3.sg.pres.act (upa-i)",
+   "grounds": "act of merging"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates the following comparison"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive emphasis"
+  },
+  {
+   "lemma": "nivahaḥ",
    "morph": "m.nom.sg",
-   "grounds": "the letter ka"
+   "grounds": "subject of the contrasted case"
   },
   {
-   "lemma": "kāma+dā",
-   "morph": "compound: kāma+dā; f.nom.sg",
-   "grounds": "compound describing function"
+   "lemma": "svacchandatāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "state not attained by mere multitude"
   },
   {
-   "lemma": "kāma+rūpiṇī",
-   "morph": "compound: kāma+rūpiṇī; f.nom.sg",
-   "grounds": "compound describing nature"
-  },
-  {
-   "lemma": "sphurat+avyayā",
-   "morph": "compound: sphurat+avyayā; f.nom.sg",
-   "grounds": "compound describing qualities"
+   "lemma": "chandasām",
+   "morph": "n.gen.pl",
+   "grounds": "possessor of the multitude"
   }
  ]
 }

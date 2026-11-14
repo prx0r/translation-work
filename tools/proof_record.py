@@ -141,6 +141,11 @@ def main() -> int:
     root = Path(__file__).resolve().parent.parent
     default_source = root.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
     ap.add_argument("--gretil", default=str(default_source))
+    ap.add_argument("--no-write", action="store_true",
+                    help="recompute and print the verdict only; do NOT write "
+                         "proof-<song>.json or the decision trail (used by "
+                         "verification passes to detect drift without touching "
+                         "committed state)")
     args = ap.parse_args()
     global _ARGS
     _ARGS = args
@@ -465,12 +470,15 @@ def main() -> int:
                           "t1": f"T1-{song}.md", "l0": f"T1-{song}.l0.jsonl",
                           "l2": f"L2-{song}.md", "c1": f"c1/C1-{song}.md"}
     outdir = w / "proof"
-    outdir.mkdir(exist_ok=True)
-    (outdir / f"proof-{song}.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False))
+    if not args.no_write:
+        outdir.mkdir(exist_ok=True)
+        (outdir / f"proof-{song}.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False))
     print(json.dumps({"song": song, "gate": rec["deterministic_gate"],
                       "blocking": block, "warnings": rec["warnings"],
                       "min_ratio": rec["align"]["min_ratio"],
                       "cites": rec["l2_cites"]}, indent=1, ensure_ascii=False))
+    if args.no_write:
+        return 0 if not block else 1
     if block:
         return 1
     # Gate passed: record the layer-accept decision trail at ingest time.
