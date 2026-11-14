@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "by-which",
+     "grounds": "relative pronoun indicating the basis or support",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "āśrayāt",
+     "gloss": "support",
+     "grounds": "that on which reliance is placed",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the mother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūyāt",
+     "gloss": "may-become",
+     "grounds": "optative expressing potential result",
+     "morph": "3.sg.optative-active + √bhū"
+    },
+    {
+     "surface": "hitā",
+     "gloss": "beneficial",
+     "grounds": "favorable or salutary in effect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "nurturing feminine principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bala",
+     "gloss": "strength",
+     "grounds": "power or force; first member of compound with uddhatā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uddhatā",
+     "gloss": "uplifted",
+     "grounds": "raised or exalted; qualifies mātā together with bala",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "By whose support can this strength-uplifted mother become beneficial?",
+   "premises": [
+    "This mother is uplifted by strength.",
+    "Her becoming beneficial depends on a specific support.",
+    "Reliance on that support enables her beneficial nature."
+   ],
+   "inference": "The strength-uplifted mother becomes beneficial through reliance on that particular support.",
+   "uncertainties": [
+    "The exact referent of yad āśrayāt is not specified within this verse alone."
+   ],
+   "plain_english": "By relying on which support may this mother, uplifted by strength, become beneficial?"
+  }
+ ]
+}
