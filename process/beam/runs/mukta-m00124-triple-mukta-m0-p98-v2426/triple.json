@@ -1,0 +1,1079 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2426,
+   "rows": [
+    {
+     "surface": "puṣpadante",
+     "gloss": "in-pushpadanta",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sugrīve",
+     "gloss": "in-sugriva",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhallāṭe",
+     "gloss": "in-bhallata",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gṛhamukhyake",
+     "gloss": "in-main-house",
+     "grounds": "compound: gṛha+mukhyaka",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which directional divisions are designated for the main house?",
+   "premises": [
+    "Pushpadanta is a named directional division.",
+    "Sugriva and Bhallata are named directional divisions.",
+    "These divisions are associated with the main house."
+   ],
+   "inference": "The main house is located in the divisions of Pushpadanta, Sugriva, and Bhallata.",
+   "uncertainties": [],
+   "plain_english": "The main house is to be placed in the divisions of Pushpadanta, Sugriva, and Bhallata."
+  },
+  {
+   "verse": 2427,
+   "rows": [
+    {
+     "surface": "ekatripañcasaptāṃśe",
+     "gloss": "in-first-third-fifth-seventh-parts",
+     "grounds": "compound indicating numbered divisions",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhvajasiṃhavṛṣadvipāḥ",
+     "gloss": "banner-lion-bull-elephant",
+     "grounds": "compound listing four auspicious signs",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which auspicious signs occupy the first, third, fifth, and seventh parts?",
+   "premises": [
+    "The first, third, fifth, and seventh parts are specified.",
+    "Banner, lion, bull, and elephant are named signs.",
+    "These signs are assigned to those parts."
+   ],
+   "inference": "The banner, lion, bull, and elephant occupy the first, third, fifth, and seventh parts respectively.",
+   "uncertainties": [],
+   "plain_english": "The banner, lion, bull, and elephant are placed in the first, third, fifth, and seventh parts."
+  },
+  {
+   "verse": 2428,
+   "rows": [
+    {
+     "surface": "dvicatuḥ",
+     "gloss": "second-fourth",
+     "grounds": "compound indicating numbered divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍvasusthānāṃ",
+     "gloss": "of-sixth-eighth-places",
+     "grounds": "compound: ṣaṣ+vasu+sthāna",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dhūmaśvakharavāyasāḥ",
+     "gloss": "smoke-dog-donkey-crow",
+     "grounds": "compound listing four inauspicious signs",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which inauspicious signs occupy the second, fourth, sixth, and eighth places?",
+   "premises": [
+    "The second, fourth, sixth, and eighth places are specified.",
+    "Smoke, dog, donkey, and crow are named signs.",
+    "These signs are assigned to those places."
+   ],
+   "inference": "Smoke, dog, donkey, and crow occupy the second, fourth, sixth, and eighth places respectively.",
+   "uncertainties": [],
+   "plain_english": "Smoke, dog, donkey, and crow are placed in the second, fourth, sixth, and eighth places."
+  },
+  {
+   "verse": 2429,
+   "rows": [
+    {
+     "surface": "dhvajaḥ",
+     "gloss": "banner",
+     "grounds": "auspicious sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siṃho",
+     "gloss": "lion",
+     "grounds": "auspicious sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛṣo",
+     "gloss": "bull",
+     "grounds": "auspicious sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hastī",
+     "gloss": "elephant",
+     "grounds": "auspicious sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tadveśmano",
+     "gloss": "of-that-house",
+     "grounds": "compound: tad+veśman",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mukham",
+     "gloss": "entrance",
+     "grounds": "front or face of the house",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What determines the entrance orientation of a house by its auspicious sign?",
+   "premises": [
+    "Banner, lion, bull, and elephant are possible signs.",
+    "A house is associated with one of these signs.",
+    "The sign determines the house's entrance."
+   ],
+   "inference": "Whichever sign a house has, that sign determines its entrance.",
+   "uncertainties": [],
+   "plain_english": "If a house has the banner, lion, bull, or elephant sign, that sign determines the position of its entrance."
+  },
+  {
+   "verse": 2430,
+   "rows": [
+    {
+     "surface": "dhvajo",
+     "gloss": "banner",
+     "grounds": "auspicious sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb of motion",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "haristhānaṃ",
+     "gloss": "to-lion-place",
+     "grounds": "compound: hari+sthāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gajasthānaṃ",
+     "gloss": "to-elephant-place",
+     "grounds": "compound: gaja+sthāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kesarī",
+     "gloss": "lion",
+     "grounds": "auspicious sign",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How may the banner and lion entrances be shifted to other positions?",
+   "premises": [
+    "The banner sign is associated with an entrance.",
+    "The lion sign is associated with an entrance.",
+    "These entrances may move to other specified places."
+   ],
+   "inference": "The banner entrance may go to the lion's place, and the lion entrance may go to the elephant's place.",
+   "uncertainties": [],
+   "plain_english": "The banner entrance may be placed in the lion's position, and the lion entrance may be placed in the elephant's position."
+  },
+  {
+   "verse": 2431,
+   "rows": [
+    {
+     "surface": "ukṣe",
+     "gloss": "in-bull",
+     "grounds": "auspicious sign location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "entrance of the house",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upamadhye",
+     "gloss": "in-near-middle",
+     "grounds": "location near the middle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of possibility",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What restriction applies to placing a door in the bull position?",
+   "premises": [
+    "The bull position is under consideration.",
+    "A door is not to be made there directly.",
+    "An alternative placement near the middle is allowed."
+   ],
+   "inference": "A door should not be made in the bull position, or it may be placed near the middle.",
+   "uncertainties": [],
+   "plain_english": "A door should not be made in the bull position; alternatively, it may be placed near the middle."
+  },
+  {
+   "verse": 2432,
+   "rows": [
+    {
+     "surface": "vaiśyasya",
+     "gloss": "of-merchant",
+     "grounds": "member of the merchant class",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dakṣiṇadvāraṃ",
+     "gloss": "south-door",
+     "grounds": "compound: dakṣiṇa+dvāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "most excellent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūdrasya",
+     "gloss": "of-servant",
+     "grounds": "member of the servant class",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paścimam",
+     "gloss": "western",
+     "grounds": "located in the west",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which door directions are best for the merchant and servant classes?",
+   "premises": [
+    "The merchant class requires a specified door direction.",
+    "The servant class requires a specified door direction.",
+    "South and west are assigned as best directions."
+   ],
+   "inference": "The southern door is best for a merchant, and the western door is best for a servant.",
+   "uncertainties": [],
+   "plain_english": "A southern door is best for a merchant, and a western door is best for a servant."
+  },
+  {
+   "verse": 2433,
+   "rows": [
+    {
+     "surface": "yāmyālayabahirdvāraṃ",
+     "gloss": "south-house-outer-door",
+     "grounds": "compound: yāmya+ālaya+bahis+dvāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhallāṭe",
+     "gloss": "in-bhallata",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing arrangement",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the outer door of a south-facing house be arranged?",
+   "premises": [
+    "A south-facing house has an outer door.",
+    "Bhallata is a specified directional division.",
+    "The door should be arranged in that division."
+   ],
+   "inference": "The outer door of a south-facing house should be arranged in the Bhallata division.",
+   "uncertainties": [],
+   "plain_english": "One should place the outer door of a south-facing house in the Bhallata division."
+  },
+  {
+   "verse": 2434,
+   "rows": [
+    {
+     "surface": "puṣpadantapadadvāraṃ",
+     "gloss": "pushpadanta-division-door",
+     "grounds": "compound: puṣpadanta+pada+dvāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvagehe",
+     "gloss": "in-east-house",
+     "grounds": "compound: pūrva+geha",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive prescription",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Where is the door prescribed for an east-facing house?",
+   "premises": [
+    "An east-facing house requires a door placement.",
+    "The Pushpadanta division is specified.",
+    "This placement is prescribed."
+   ],
+   "inference": "The door in the Pushpadanta division is prescribed for an east-facing house.",
+   "uncertainties": [],
+   "plain_english": "For an east-facing house, the door is prescribed in the Pushpadanta division."
+  },
+  {
+   "verse": 2435,
+   "rows": [
+    {
+     "surface": "āgneyyāṃ",
+     "gloss": "in-southeast",
+     "grounds": "direction ruled by fire",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pacanasthānaṃ",
+     "gloss": "cooking-place",
+     "grounds": "compound: pacana+sthāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣatriyāṇāṃ",
+     "gloss": "of-warriors",
+     "grounds": "member of the warrior class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive commendation",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Where is the cooking place praised for members of the warrior class?",
+   "premises": [
+    "A cooking place must be located.",
+    "The southeast direction is specified.",
+    "This location is praised for warriors."
+   ],
+   "inference": "The cooking place in the southeast is praised for warriors.",
+   "uncertainties": [],
+   "plain_english": "For warriors, the cooking place in the southeast is recommended."
+  },
+  {
+   "verse": 2436,
+   "rows": [
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "in-northwest",
+     "grounds": "direction ruled by wind",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pacanasthānaṃ",
+     "gloss": "cooking-place",
+     "grounds": "compound: pacana+sthāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūdrāṇāṃ",
+     "gloss": "of-servants",
+     "grounds": "member of the servant class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṃpraśasyate",
+     "gloss": "is-highly-praised",
+     "grounds": "passive strong commendation",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Where is the cooking place highly praised for members of the servant class?",
+   "premises": [
+    "A cooking place must be located.",
+    "The northwest direction is specified.",
+    "This location is highly praised for servants."
+   ],
+   "inference": "The cooking place in the northwest is highly praised for servants.",
+   "uncertainties": [],
+   "plain_english": "For servants, the cooking place in the northwest is highly recommended."
+  },
+  {
+   "verse": 2437,
+   "rows": [
+    {
+     "surface": "yāmyāyāṃ",
+     "gloss": "in-south",
+     "grounds": "southern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śayanasthānaṃ",
+     "gloss": "sleeping-place",
+     "grounds": "compound: śayana+sthāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nairṛtyām",
+     "gloss": "in-southwest",
+     "grounds": "direction ruled by nirriti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "āyudhālayaḥ",
+     "gloss": "weapon-storehouse",
+     "grounds": "compound: āyudha+ālaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which directions are assigned to the sleeping place and weapon storehouse?",
+   "premises": [
+    "A sleeping place requires a direction.",
+    "A weapon storehouse requires a direction.",
+    "South and southwest are specified respectively."
+   ],
+   "inference": "The sleeping place is in the south and the weapon storehouse is in the southwest.",
+   "uncertainties": [],
+   "plain_english": "The sleeping place should be in the south, and the weapon storehouse in the southwest."
+  },
+  {
+   "verse": 2438,
+   "rows": [
+    {
+     "surface": "goṣṭhāgāraṃ",
+     "gloss": "cattle-shed",
+     "grounds": "compound: goṣṭha+āgāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyavyām",
+     "gloss": "in-northwest",
+     "grounds": "direction ruled by wind",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "uttarasyāṃ",
+     "gloss": "in-north",
+     "grounds": "northern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dhanālayaḥ",
+     "gloss": "treasury",
+     "grounds": "compound: dhana+ālaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which directions are assigned to the cattle shed and the treasury?",
+   "premises": [
+    "A cattle shed requires a direction.",
+    "A treasury requires a direction.",
+    "Northwest and north are specified respectively."
+   ],
+   "inference": "The cattle shed is in the northwest and the treasury is in the north.",
+   "uncertainties": [],
+   "plain_english": "The cattle shed should be in the northwest, and the treasury in the north."
+  },
+  {
+   "verse": 2439,
+   "rows": [
+    {
+     "surface": "kāñjīlavaṇayoḥ",
+     "gloss": "of-sour-gruel-and-salt",
+     "grounds": "compound: kāñjī+lavaṇa",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "container for storage",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgudagdiśi",
+     "gloss": "in-northeast-direction",
+     "grounds": "compound: prāc+udac+diś",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the vessel for sour gruel and salt be placed?",
+   "premises": [
+    "A vessel holds sour gruel and salt.",
+    "The northeast direction is specified.",
+    "The vessel should be placed there."
+   ],
+   "inference": "The vessel for sour gruel and salt should be placed in the northeast.",
+   "uncertainties": [],
+   "plain_english": "One should place the vessel for sour gruel and salt in the northeast direction."
+  },
+  {
+   "verse": 2440,
+   "rows": [
+    {
+     "surface": "annaprāśanam",
+     "gloss": "food-eating",
+     "grounds": "compound: anna+prāśana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āryāṃśe",
+     "gloss": "in-arya-part",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indrāṇyāṃ",
+     "gloss": "in-indrani-part",
+     "grounds": "name of a directional division",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savitrake",
+     "gloss": "in-savitra-part",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In which divisions should the place for eating food be located?",
+   "premises": [
+    "A place for eating food is required.",
+    "Arya, Indrani, and Savitra divisions are named.",
+    "These divisions are suitable for that purpose."
+   ],
+   "inference": "The place for eating food should be in the Arya, Indrani, or Savitra divisions.",
+   "uncertainties": [],
+   "plain_english": "The place for eating food should be in the Arya, Indrani, or Savitra division."
+  },
+  {
+   "verse": 2441,
+   "rows": [
+    {
+     "surface": "kṣaudram",
+     "gloss": "honey",
+     "grounds": "substance to be stored",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indrajaye",
+     "gloss": "in-indrajaya",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "optative prescribing knowledge or placement",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vāyau",
+     "gloss": "in-vayu",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "some",
+     "gloss": "in-soma",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of possibility",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "In which divisions may honey be placed or kept?",
+   "premises": [
+    "Honey requires a designated place.",
+    "Indrajaya is specified as a location.",
+    "Vayu or Soma are given as alternatives."
+   ],
+   "inference": "Honey should be placed in Indrajaya, or it may be in Vayu or Soma.",
+   "uncertainties": [],
+   "plain_english": "Honey should be kept in the Indrajaya division, or alternatively in Vayu or Soma."
+  },
+  {
+   "verse": 2442,
+   "rows": [
+    {
+     "surface": "sugrīve",
+     "gloss": "in-sugriva",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṣpadante",
+     "gloss": "in-pushpadanta",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasūtigṛham",
+     "gloss": "childbirth-house",
+     "grounds": "compound: prasūti+gṛha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive prescription",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "In which divisions is the childbirth house desired?",
+   "premises": [
+    "A childbirth house requires a location.",
+    "Sugriva and Pushpadanta divisions are named.",
+    "These locations are desired for it."
+   ],
+   "inference": "The childbirth house is desired in the Sugriva and Pushpadanta divisions.",
+   "uncertainties": [],
+   "plain_english": "The childbirth house is desired in the Sugriva and Pushpadanta divisions."
+  },
+  {
+   "verse": 2443,
+   "rows": [
+    {
+     "surface": "aṅkaṇaṃ",
+     "gloss": "courtyard",
+     "grounds": "open space in the house",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahendrāṃśe",
+     "gloss": "in-mahendra-part",
+     "grounds": "compound: mahendra+aṃśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "peṣaṇī",
+     "gloss": "grinding-place",
+     "grounds": "place for grinding",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahīdhare",
+     "gloss": "in-mahidhara",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the courtyard and the grinding place be located?",
+   "premises": [
+    "A courtyard requires a location.",
+    "A grinding place requires a location.",
+    "Mahendra and Mahidhara divisions are specified respectively."
+   ],
+   "inference": "The courtyard should be in the Mahendra division and the grinding place in the Mahidhara division.",
+   "uncertainties": [],
+   "plain_english": "The courtyard should be in the Mahendra division, and the grinding place in the Mahidhara division."
+  },
+  {
+   "verse": 2444,
+   "rows": [
+    {
+     "surface": "ariṣṭāgāram",
+     "gloss": "lying-in-chamber",
+     "grounds": "compound: ariṣṭa+āgāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "approved or wished",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of prescription",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upaskārabhūmikam",
+     "gloss": "service-area",
+     "grounds": "compound: upaskāra+bhūmika",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional area is desired together with the lying-in chamber?",
+   "premises": [
+    "A lying-in chamber is desired.",
+    "A service area is mentioned in the same place.",
+    "Both are prescribed together."
+   ],
+   "inference": "The lying-in chamber is desired there together with a service area.",
+   "uncertainties": [
+    "ariṣṭāgāra interpreted as lying-in chamber based on context"
+   ],
+   "plain_english": "A lying-in chamber is desired there, along with a service area."
+  },
+  {
+   "verse": 2445,
+   "rows": [
+    {
+     "surface": "asure",
+     "gloss": "in-asura",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhānye",
+     "gloss": "grain",
+     "grounds": "stored grain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāsaḥ",
+     "gloss": "dwelling",
+     "grounds": "residence or storage place",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of prescription",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "āyudhādi",
+     "gloss": "weapons-and-others",
+     "grounds": "compound: āyudha+ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indrājake",
+     "gloss": "in-indraraja",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should grain storage and weapons be placed in the house plan?",
+   "premises": [
+    "Grain requires a dwelling or storage place.",
+    "Weapons and related items require a place.",
+    "Asura and Indraraja divisions are specified respectively."
+   ],
+   "inference": "Grain should be stored in the Asura division and weapons in the Indraraja division.",
+   "uncertainties": [],
+   "plain_english": "Grain should be kept in the Asura division, and weapons and similar items in the Indraraja division."
+  },
+  {
+   "verse": 2446,
+   "rows": [
+    {
+     "surface": "bhūdhare",
+     "gloss": "in-bhudhara",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kośagehaṃ",
+     "gloss": "treasure-house",
+     "grounds": "compound: kośa+geha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of prescription",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nāgāṃśe",
+     "gloss": "in-naga-part",
+     "grounds": "compound: nāga+aṃśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "ghee",
+     "grounds": "clarified butter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "auṣadham",
+     "gloss": "medicine",
+     "grounds": "medicinal substance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where should the treasure house, ghee, and medicine be located?",
+   "premises": [
+    "A treasure house requires a location.",
+    "Ghee and medicine require a location.",
+    "Bhudhara and Naga divisions are specified respectively."
+   ],
+   "inference": "The treasure house should be in Bhudhara, and ghee and medicine in the Naga division.",
+   "uncertainties": [],
+   "plain_english": "The treasure house should be in the Bhudhara division, and ghee and medicine in the Naga division."
+  },
+  {
+   "verse": 2447,
+   "rows": [
+    {
+     "surface": "viṣapratyauṣadhaṃ",
+     "gloss": "poison-antidote",
+     "grounds": "compound: viṣa+pratyauṣadha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūpe",
+     "gloss": "in-well",
+     "grounds": "location near or in well area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devagṛhaṃ",
+     "gloss": "deity-house",
+     "grounds": "compound: deva+gṛha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of prescription",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should poison antidotes and the deity house be placed?",
+   "premises": [
+    "Poison antidotes require a designated place.",
+    "A deity house requires a designated place.",
+    "The well area is specified for these."
+   ],
+   "inference": "Poison antidotes and the deity house should be placed in the well area.",
+   "uncertainties": [
+    "kūpe interpreted as the well area or division associated with a well"
+   ],
+   "plain_english": "Poison antidotes and the deity house should be placed in the area of the well."
+  },
+  {
+   "verse": 2448,
+   "rows": [
+    {
+     "surface": "vitathe",
+     "gloss": "in-vitatha",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūṣṇi",
+     "gloss": "in-pushan",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sāvitre",
+     "gloss": "in-savitra",
+     "grounds": "name of a directional division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhojanāgāra",
+     "gloss": "dining-hall",
+     "grounds": "compound: bhojana+āgāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which divisions may the dining hall be located?",
+   "premises": [
+    "A dining hall requires a location.",
+    "Vitatha, Pushan, and Savitra divisions are named.",
+    "These divisions are given as possible locations."
+   ],
+   "inference": "The dining hall may be located in Vitatha, Pushan, or Savitra.",
+   "uncertainties": [],
+   "plain_english": "The dining hall may be placed in the Vitatha, Pushan, or Savitra division."
+  },
+  {
+   "verse": 2449,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "in-front",
+     "grounds": "front or entrance area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "volūkhalaṃ",
+     "gloss": "mortar",
+     "grounds": "implement for pounding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "gaṇikāś",
+     "gloss": "courtesans",
+     "grounds": "female attendants or courtesans",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśaṃsitāḥ",
+     "gloss": "praised",
+     "grounds": "commended as suitable",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What should be placed at the front and who is praised there?",
+   "premises": [
+    "The front area requires a specific arrangement.",
+    "A mortar should be placed there.",
+    "Courtesans are praised in that location."
+   ],
+   "inference": "One should place a mortar at the front, and courtesans are praised there.",
+   "uncertainties": [
+    "gaṇikāḥ interpreted as courtesans; context may imply attendants"
+   ],
+   "plain_english": "One should place a mortar at the front, and courtesans are also praised there."
+  }
+ ]
+}

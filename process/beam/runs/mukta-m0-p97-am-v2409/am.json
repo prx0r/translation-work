@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p97",
  "verse": 2409,
- "question": "On which recurring lunar days should the observance be performed especially?",
+ "question": "What number of pillars is prescribed for śūdras and other groups?",
  "premises": [
-  "The practice recurs every month",
-  "The eighth day is specified",
-  "The fourteenth day is specified especially"
+  "The rule applies to śūdras and other groups.",
+  "An odd number of pillars is specified.",
+  "This arrangement is desired."
  ],
- "inference": "The observance should be performed every month on the eighth and especially on the fourteenth day.",
- "uncertainties": [],
- "plain_english": "Likewise, every month on the eighth day and especially on the fourteenth day."
+ "inference": "Śūdras and other groups should have an odd number of pillars.",
+ "uncertainties": [
+  "The scope of other groups is not fully specified."
+ ],
+ "plain_english": "For śūdras and other groups, an odd number of pillars is desired."
 }

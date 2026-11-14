@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p97",
  "verse": 2404,
- "question": "What sacred place is identified as supremely difficult to attain?",
+ "question": "What placement rules govern a pillar at the door and the orientation of the water side?",
  "premises": [
-  "A place is named Muktimaṇḍapika",
-  "It is designated as a sthāna",
-  "It is described as supremely rare"
+  "A pillar-foot at the door is not desired.",
+  "The water side should have its head facing west.",
+  "Both are prescriptive architectural rules."
  ],
- "inference": "The place called Muktimaṇḍapika is supremely difficult to attain.",
- "uncertainties": [],
- "plain_english": "The place called Muktimaṇḍapika is supremely difficult to attain."
+ "inference": "Door construction must avoid a pillar at the doorway and orient the water side westward.",
+ "uncertainties": [
+  "The precise architectural meaning of udak pratyakchiraḥ is context-dependent."
+ ],
+ "plain_english": "A pillar at the door is not desirable, and the water side should face west."
 }

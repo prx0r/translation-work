@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p97",
  "verse": 2401,
- "question": "What reward is obtained on the ninth day of Kārtika?",
+ "question": "Which six kinds of trees are considered destructive to a house?",
  "premises": [
-  "A specific fruit is under discussion",
-  "The ninth day of Kārtika is specified",
-  "The goddess is addressed as witness or recipient"
+  "The sun-plant is listed among harmful trees.",
+  "The cotton-tree is listed among harmful trees.",
+  "These six are called house-destroyers."
  ],
- "inference": "One obtains that fruit on the ninth day of Kārtika.",
- "uncertainties": [],
- "plain_english": "O goddess, one obtains that fruit on the ninth day of Kārtika."
+ "inference": "The sun-plant and cotton-tree belong to a group of six trees that destroy houses.",
+ "uncertainties": [
+  "The other four trees of the six are not named in this verse."
+ ],
+ "plain_english": "The sun-plant, the cotton-tree, and these six are destroyers of houses."
 }

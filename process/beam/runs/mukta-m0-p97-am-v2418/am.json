@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p97",
  "verse": 2418,
- "question": "What vision follows bathing in the Kāmakuṇḍa pool?",
+ "question": "How many peaks are prescribed for vaiśyas, śūdras, and kings respectively?",
  "premises": [
-  "A person bathes in Kāmakuṇḍa",
-  "The person then beholds a deity",
-  "The deity is Kāmamīśvara"
+  "Three peaks are associated with vaiśyas and śūdras.",
+  "Five and seven are mentioned.",
+  "Kings are assigned a different number."
  ],
- "inference": "After bathing in Kāmakuṇḍa, one should behold Kāmamīśvara.",
- "uncertainties": [],
- "plain_english": "A man who, having bathed in Kāmakuṇḍa, beholds Kāmamīśvara."
+ "inference": "Vaiśyas and śūdras have three peaks, while kings have five or seven.",
+ "uncertainties": [
+  "The exact distribution of five and seven for kings is compressed."
+ ],
+ "plain_english": "Vaiśyas and śūdras should have three peaks, and kings five or seven."
 }

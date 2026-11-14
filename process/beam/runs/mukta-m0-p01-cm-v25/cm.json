@@ -3,24 +3,29 @@
  "verse": 25,
  "rows": [
   {
-   "lemma": "aṅgaliṅgapratiṣṭhā",
-   "morph": "fem.nom.sg",
-   "grounds": "compound of aṅga, liṅga, and pratiṣṭhā; listed as a ritual item"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "kevalaṃ",
    "morph": "(indecl.)",
-   "grounds": "conjunction joining the listed items"
+   "grounds": "restrictive particle qualifying the following practice"
   },
   {
-   "lemma": "sadeśasthāpanaṃ",
-   "morph": "neut.nom.sg",
-   "grounds": "compound of sa-deśa and sthāpana; listed as a ritual item"
+   "lemma": "mātṛkānyāsaṃ",
+   "morph": "compound=mātṛkā+nyāsa; m.acc.sg",
+   "grounds": "ritual placement of the mātṛkā syllables"
   },
   {
-   "lemma": "tataḥ",
+   "lemma": "kuryāttadrahitaṃ",
+   "morph": "fused=kuryāt(3.sg.opt.act √kṛ)+tadrahitam(compound=tad+rahita; m.acc.sg)",
+   "grounds": "fused sandhi form: kuryāt + tadrahitam; 'that' refers to the previously mentioned Rudra-Śakti accompaniment"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "adverb marking sequence after the preceding items"
+   "grounds": "contrastive or emphatic particle introducing an alternative"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle marking an optional alternative"
   }
  ]
 }
