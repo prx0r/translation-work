@@ -1,0 +1,139 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p354",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v8827 ratio=0.867",
+  "ALIGN_NODISP v8828 ratio=0.854",
+  "ALIGN_NODISP v8829 ratio=0.883",
+  "ALIGN_NODISP v8832 ratio=0.844",
+  "ALIGN_NODISP v8836 ratio=0.891",
+  "ALIGN_NODISP v8838 ratio=0.894",
+  "ALIGN_NODISP v8840 ratio=0.894",
+  "ALIGN_NODISP v8841 ratio=0.864",
+  "ALIGN_NODISP v8845 ratio=0.889",
+  "ALIGN_NODISP v8846 ratio=0.867",
+  "ALIGN_NODISP v8848 ratio=0.878"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "497290f313f0e9a1",
+ "source_digest_normalized_sha256": "497290f313f0e9a19ba2c39e6603b11d76ca75c2dab5d32b6f9449bdd56dec62",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 133
+ },
+ "align": {
+  "min_ratio": 0.844,
+  "sub090": {
+   "8827": {
+    "ratio": 0.867,
+    "disposition": null
+   },
+   "8828": {
+    "ratio": 0.854,
+    "disposition": null
+   },
+   "8829": {
+    "ratio": 0.883,
+    "disposition": null
+   },
+   "8832": {
+    "ratio": 0.844,
+    "disposition": null
+   },
+   "8836": {
+    "ratio": 0.891,
+    "disposition": null
+   },
+   "8838": {
+    "ratio": 0.894,
+    "disposition": null
+   },
+   "8840": {
+    "ratio": 0.894,
+    "disposition": null
+   },
+   "8841": {
+    "ratio": 0.864,
+    "disposition": null
+   },
+   "8845": {
+    "ratio": 0.889,
+    "disposition": null
+   },
+   "8846": {
+    "ratio": 0.867,
+    "disposition": null
+   },
+   "8848": {
+    "ratio": 0.878,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 67,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 133,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v8827",
+  "fix: word-order/gloss vs source for v8828",
+  "fix: word-order/gloss vs source for v8829",
+  "fix: word-order/gloss vs source for v8832",
+  "fix: word-order/gloss vs source for v8836",
+  "fix: word-order/gloss vs source for v8838",
+  "fix: word-order/gloss vs source for v8840",
+  "fix: word-order/gloss vs source for v8841",
+  "fix: word-order/gloss vs source for v8845",
+  "fix: word-order/gloss vs source for v8846",
+  "fix: word-order/gloss vs source for v8848"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "6d9b5fc3a28839a9937151a41e78cb84a943483a13ff160e4822236a3c16147b",
+  "l0": "be4c1d734e1c823f3365ab61c64b434db6b80f1e8a7f002eec1edfb63c57f1c0",
+  "argmap": "120b2cfcf2aa93ebb5aed9e1321eee37a0043da3b97c784a8376eb7c8660685c",
+  "l2": "4c4a7fc3c095b4c4784f5922789eaa9a33edac6ddcc41df07562ed3b01115378",
+  "c1": "194dc386d3ad67765bdddd89d00c12bbb23ada03ab98c26049a838de36cc78b4"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "497290f313f0e9a1",
+  "t1": "mukta-m0-p354/data/mukta-m0-p354.t1.json",
+  "l0": "mukta-m0-p354/data/mukta-m0-p354.l0.json",
+  "l2": "mukta-m0-p354/data/mukta-m0-p354.l2.json",
+  "c1": "mukta-m0-p354/data/mukta-m0-p354.c1.json"
+ }
+}

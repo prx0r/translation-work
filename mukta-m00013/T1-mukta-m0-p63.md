@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[fierce+terrible+trident+holder](caṇḍa+ugra+śūla+pāṇeḥ) [and](ca) [mantra](mantraḥ) [all+purpose+accomplishing](sarva+artha+sādhakaḥ)
+[of-fierce-terrible-trident-holder](caṇḍa+ugra+śūla+pāṇeḥ) [and](ca) [mantra](mantraḥ) [accomplishing-all-purposes](sarva+artha+sādhakaḥ)
 
 ## mukta-m0-p63-v1552
-[six+long-vowels+endowed](ṣaṭ+dīrgha+bhājā) [with-seed-syllable](bījena) [beginning-with-oṃ](tāra+ādyena) [six+limb-ritual](ṣaṭ+aṅgakam)
+[endowed-with-six-long-vowels](ṣaṭ+dīrgha+bhājā) [with-seed](bījena) [beginning-with-tārā](tārā+ādyena) [six-limbed-ritual](ṣaṭ+aṅgakam)
 
 ## mukta-m0-p63-v1553
-[wine+drinking+delight+absorbed](surā+pāna+rasa+āviṣṭaṃ) [practitioner+desired+granting](sādhaka+abhīṣṭa+dāyakam)
+[intoxicated-with-delight-of-wine-drinking](surā+pāna+rasa+āviṣṭaṃ) [granting-desires-of-practitioner](sādhaka+abhīṣṭa+dāyakam) [and](ca) [mantra](mantraḥ)
 
 ## mukta-m0-p63-v1554
-[tenth+part](daśa+aṃśaṃ) [in-consecrated](saṃskṛte) [in-fire](vahnau) [should-offer](hunet) [with-red+lotus](rakta+utpalena) [and](ca)
+[tenth-part](daśa+aṃśaṃ) [in-consecrated-fire](saṃskṛte) (vahnau) [one-should-offer](hunet) [with-red-lotus](rakta+utpalena) [and](ca)
 
 ## mukta-m0-p63-v1555
-[of-red+lotus](rakta+padmasya) [by-oblation](homena) [great](mahatīṃ) [prosperity](śriyām) [one-may-obtain](āpnuyāt)
+[with-offering-of-red-lotus](rakta+padmasya) (homena) [great](mahatīṃ) [prosperity](śriyām) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p63-v1556
-[with-safflower+oil+oblation](kusumbha+taila+homena) [enemies](ripūn) [one-may-kill](hanyāt) [not](na) [doubt](saṃśayaḥ)
+[with-offering-of-safflower-oil](kusumbha+taila+homena) [enemies](ripūn) [one-should-kill](hanyāt) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p63-v1557
-[only](kevalaṃ) [with-pure+disposition](śuddha+bhāvena) [eating-sacrificial-food](haviṣya+āśī) [by-day](divā) [one-should-recite](japet)
+[only](kevalaṃ) [with-pure-disposition](śuddha+bhāvena) [eating-havisya-food](haviṣya+āśī) [by-day](divā) [one-should-recite](japet)
 
 ## mukta-m0-p63-v1558
-[of-this](asya) [indeed](eva) [by-recitation+alone](japa+mātreṇa) [all+accomplishment](sarva+siddhim) [one-may-obtain](upālabhet)
+[by-mere-recitation](asya+eva) (japa+mātreṇa) [all-accomplishment](sarva+siddhim) [one-may-obtain](upālabhet)
 
 ## mukta-m0-p63-v1559
-[of-this](asya) [by-worship+alone](upāsana+mātreṇa) [speech+accomplishment](vāk+siddhiṃ) [one-obtains](labhate) [quickly](acirāt)
+[by-mere-worship](asya+upāsana+mātreṇa) [power-of-speech](vāk+siddhiṃ) [one-obtains](labhate) [quickly](acirāt)
 
 ## mukta-m0-p63-v1560
-[mātaṅgī](mātaṅgī) [with-ṅe](ṅe+yutā) [weapon](ca) [astraṃ](astraṃ) [ending-with-fire+consort](vahni+jāyā+avadhiḥ) [mantra](manuḥ)
+[mātaṅgī](mātaṅgī) [joined-with-ṅe](ṅe+yutā) [and-astra](ca+astraṃ) [ending-with-vahnijāyā](vahni+jāyā+avadhiḥ) [mantra](manuḥ)
 
 ## mukta-m0-p63-v1561
-[mātaṅgī](mātaṅgī) [deity](devatā) [goddess](devī) [all+tasks+granting](sarva+kārya+pradāyinī)
+[mātaṅgī](mātaṅgī) [deity](devatā) [goddess](devī) [granting-all-tasks](sarva+kārya+pradāyinī)
 
 ## mukta-m0-p63-v1562
-[six+long-vowels+endowed](ṣaṭ+dīrgha+bhājā) [with-seed-syllable](bījena) [beginning-with-praṇava](praṇava+ādyena) [one-should-assign](kalpayet)
+[endowed-with-six-long-vowels](ṣaṭ+dīrgha+bhājā) [with-seed](bījena) [beginning-with-praṇava](praṇava+ādyena) [one-should-form](kalpayet)
 
 ## mukta-m0-p63-v1563
-[with-vedas](vedaiḥ) [with-arms](bāhu+daṇḍaiḥ) [sword+shield+noose+goad+holding](asi+kheṭaka+pāśa+aṅkuśa+dharām)
+[with-four-arms](vedaiḥ+bāhu+daṇḍaiḥ) [holding-sword-shield-noose-and-goad](asi+kheṭaka+pāśa+aṅkuśa+dharām) [thus](evaṃ) [one-should-visualize](dhyāyet)
 
 ## mukta-m0-p63-v1564
-[thus](evaṃ) [preliminary-rite](puraskriyāṃ) [having-done](kṛtvā) [application+procedure](prayoga+vidhim) [one-should-perform](ācaret)
+[thus](evaṃ) [preliminary-rite](puraskriyāṃ) [having-done](kṛtvā) [method-of-application](prayoga+vidhim) [one-should-perform](ācaret)
 
 ## mukta-m0-p63-v1565
-[by-night+practice](rātri+yogena) [to-be-done](kartavyaṃ) [always](sadā) [complete](pūrṇaḥ) [and](ca) [practitioner](sādhakaḥ)
+[with-night-practice](rātri+yogena) [to-be-done](kartavyaṃ) [always](sadā) [and-complete](pūrṇaḥ) [practitioner](ca) (sādhakaḥ)
 
 ## mukta-m0-p63-v1566
-[in-scripture](śāstre) [in-debate](vāde) [in-poetry](kavitve) [and](ca) [like-bṛhaspati](bṛhaspatiḥ+iva) [another](aparaḥ)
+[in-scripture](śāstre) [in-debate](vāde) [in-poetry](kavitve) [and](ca) [like-another-bṛhaspati](bṛhaspatiḥ+iva+aparaḥ)
 
 ## mukta-m0-p63-v1567
-[without](vinā) [fish](matsyaiḥ) [without](vinā) [meat](māṃsaiḥ) [not](na) [one-should-worship](arcayet) [supreme+goddess](para+devatām)
+[without-fish](vinā) (matsyaiḥ) [without-meat](vinā) (māṃsaiḥ) [not](na) [one-should-worship](arcayet) [supreme-goddess](para+devatām)
 
 ## mukta-m0-p63-v1568
-[with-visarga](sa+visargaṃ) [great+goddess](mahā+devi) [all+accomplishment+granting](sarva+siddhi+pradāyakam)
+[with-visarga](sa+visargaṃ) [o-great-goddess](mahā+devi) [granting-all-accomplishments](sarva+siddhi+pradāyakam)
 
 ## mukta-m0-p63-v1569
-[nineteen+syllabled](ekona+viṃśati+arṇaḥ) [this](ayaṃ) [all+desires+fulfilling](sarva+abhīṣṭa+karaḥ) [may-be](bhavet)
+[of-nineteen-syllables](ekona+viṃśati+arṇaḥ) [this](ayaṃ) [fulfilling-all-desires](sarva+abhīṣṭa+karaḥ) [will-be](bhavet)
 
 ## mukta-m0-p63-v1570
-[which](yāṃ) [which](yāṃ) [desires](prārthayate) [accomplishment](siddhiṃ) [forcibly](haṭhāt) [that](tāṃ) [that](tām) [one-obtains](avāpnuyāt)
+[whatever](yāṃ) (yāṃ) [one-desires](prārthayate) [accomplishment](siddhiṃ) [forcibly](haṭhāt) [that](tāṃ) (tām) [one-obtains](avāpnuyāt)
 
 ## mukta-m0-p63-v1571
-[offering](valim) [also](api) [with-remnants](ucchiṣṭena)
+[offering](valim) [also](api) [with-remnants](ucchiṣṭena) [one-should-give](dadyāt)
 
 ## mukta-m0-p63-v1572
-[of-whom](yasya) [abides](tiṣṭhati) [mantra](mantraḥ) [this](ayaṃ) [not](na) [and](ca) [by-obstacles](vighnaiḥ) [he](sa) [is-hindered](bādhyate)
+[of-whom](yasya) [abides](tiṣṭhati) [this-mantra](mantraḥ+ayaṃ) [not](na) [and](ca) [by-obstacles](vighnaiḥ) [he](saḥ) [is-troubled](bādhyate)
 
 ## mukta-m0-p63-v1573
-[by-left+right+union](vāma+dakṣiṇa+yogena) [should-meditate](dhyāyet) [mantra+knower+best](mantra+vid+uttamaḥ)
+[with-left-and-right-union](vāma+dakṣiṇa+yogena) [should-meditate](dhyāyet) [best-knower-of-mantra](mantra+vid+uttamaḥ)
 
 ## mukta-m0-p63-v1574
-[in-remnants](ucchiṣṭe) [of-one-reciting](japamānasya) [arise](jāyante) [all+accomplishments](sarva+siddhayaḥ)
+[in-remnants](ucchiṣṭe) [of-one-reciting](japamānasya) [arise](jāyante) [all-accomplishments](sarva+siddhayaḥ)
 
 ## mukta-m0-p63-v1575
-[by-thousand+one+method](sahasra+eka+vidhānena) [arise](bhavanti) [clan+accomplishments](kula+siddhayaḥ)
+[by-method-of-one-thousand-and-one](sahasra+eka+vidhānena) [arise](bhavanti) [accomplishments-of-the-kula](kula+siddhayaḥ)
