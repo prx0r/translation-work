@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "śaṅkhinī+yukto",
+     "gloss": "joined-with-śaṅkhinī",
+     "grounds": "compound of śaṅkhinī and yukta, describing association",
+     "morph": "compound (śaṅkhinī+dependent, yukta+head), m.nom.sg"
+    },
+    {
+     "surface": "meṣa+īśaḥ",
+     "gloss": "lord-of-meṣa",
+     "grounds": "compound of meṣa and īśa, naming the presiding figure",
+     "morph": "compound (meṣa+dependent, īśa+head), m.nom.sg"
+    },
+    {
+     "surface": "tarjanī+yutaḥ",
+     "gloss": "accompanied-by-tarjanī",
+     "grounds": "compound of tarjanī and yuta, describing association",
+     "morph": "compound (tarjanī+dependent, yuta+head), m.nom.sg"
+    }
+   ],
+   "question": "Which attendant figures accompany the lord of Meṣa in this enumeration?",
+   "premises": [
+    "The lord of Meṣa is named as the subject.",
+    "The lord of Meṣa is joined with Śaṅkhinī.",
+    "The lord of Meṣa is accompanied by Tarjanī."
+   ],
+   "inference": "The lord of Meṣa is identified together with Śaṅkhinī and Tarjanī as his associated figures.",
+   "uncertainties": [
+    "The specific identities or roles of Śaṅkhinī and Tarjanī are not defined within this verse."
+   ],
+   "plain_english": "The lord of Meṣa is joined with Śaṅkhinī and accompanied by Tarjanī."
+  }
+ ]
+}

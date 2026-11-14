@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[there](tatra) [consecration+mere+and](abhiṣekamātrañca) [victorious](vijayī) [always](sarvadā) [one-should-be](bhavet)
+[there](tatra) [consecration+mere](abhiṣeka+mātram) [and](ca) [victorious](vijayī) [always](sarvadā) [would-be](bhavet)
 
 ## mukta-m0-p64-v1577
-[there](tatra) [liṅga](liṅgaṃ) [of-the-great-lord](maheśasya) [Vijaya](vijayaṃ) [by-name](nāma) [renowned](viśrutam)
+[there](tatra) [linga](liṅgaṃ) [of-the-great-lord](maheśasya) [victory](vijayaṃ) [by-name](nāma) [renowned](viśrutam)
 
 ## mukta-m0-p64-v1578
-[having-dwelt](uṣitvā) [there](tatra) [O-goddess](deveśi) [one-is-freed](mucyate) [from-all+sins](sarvapātakaiḥ)
+[having-dwelt](uṣitvā) [there](tatra) [o-goddess](deveśi) [is-freed](mucyate) [from-all+sins](sarva+pātakaiḥ)
 
 ## mukta-m0-p64-v1579
-[all+sin+removing](sarvapāpaharaṃ) [of-Śambhu](śambhor) [abode](nivāsaḥ) [of-the-supreme-lord](parameṣṭhinaḥ)
+[all+sin+removing](sarva+pāpa+haraṃ) [of-śambhu](śambhoḥ) [abode](nivāsaḥ) [of-the-supreme-lord](parameṣṭhinaḥ)
 
 ## mukta-m0-p64-v1580
-[desired](īpsitān) [one-obtains](labhate) [wishes](kāmān) [of-Rudra](rudrasya) [beloved](dayito) [one-should-be](bhavet)
+[desired](īpsitān) [obtains](labhate) [wishes](kāmān) [of-rudra](rudrasya) [beloved](dayitaḥ) [would-be](bhavet)
 
 ## mukta-m0-p64-v1581
-[by-the-to-be-spoken](vakṣyamāṇena) [with-mantra](mantreṇa) [having-bathed](snātvā) [offering](arghyaṃ) [one-should-present](vinivedayet)
+[with-the-to-be-spoken](vakṣyamāṇena) [mantra](mantreṇa) [having-bathed](snātvā) [offering](arghyaṃ) [should-present](vinivedayet)
 
 ## mukta-m0-p64-v1582
-[O-Yogakuṇḍa](yogakuṇḍa) [O-greatly-fortunate](mahābhāga) [me](māṃ) [purify](punātva) [worshipped-by-immortals](amarārcita)
+[o-yogakuṇḍa](yogakuṇḍa) [o-greatly-fortunate](mahābhāga) [me](māṃ) [may-purify](punātu) [by-immortals+worshipped](amara+arcita)
 
 ## mukta-m0-p64-v1583
-[there](tatrāpi) [having-bathed](snātvā) [according-to-rule](vidhivat) [having-satisfied](santarpya) [fathers+and-gods](pitṛdevatāḥ)
+[there+also](tatra+api) [having-bathed](snātvā) [according-to-rule](vidhivat) [having-satisfied](santarpya) [ancestors+and-deities](pitṛ+devatāḥ)
 
 ## mukta-m0-p64-v1584
-[having-bathed](snātvā) [with-Kaula](kaulena) [with-seed-syllable](bījena) [with-principle](tattvena) [offering](arghyaṃ) [one-should-present](nivedayet)
+[having-bathed](snātvā) [with-kaula](kaulena) [seed-syllable](bījena) [with-tattva](tattvena) [offering](arghyam) [should-offer](nivedayet)
 
 ## mukta-m0-p64-v1585
-[fifteen+hand+measured](tithihastamitaṃ) [pool](kuṇḍaṃ) [by-gods+and-gandharvas+served](devagandharvasevitam)
+[lunar-day+hand+measured](tithi+hasta+mitaṃ) [pool](kuṇḍaṃ) [by-gods+and-gandharvas+served](deva+gandharva+sevitam)
 
 ## mukta-m0-p64-v1586
-[of-Indraśaila](indraśailasya) [to-the-south](yāme) [indeed](tu) [bows](dhanur) [twelve](dvādaśa) [at-a-distance](manataḥ)
+[of-indraśaila](indraśailasya) [in-the-south](yāme) [but](tu) [bows+twelve+distant](dhanuḥ+dvādaśa+manataḥ)
 
 ## mukta-m0-p64-v1587
-[invisible+form](adṛśyamūrtiḥ) [blessed-lord](bhagavān) [seven+horse+chariot+rider](saptāśvarathavāhanaḥ)
+[invisible+form](adṛśya+mūrtiḥ) [blessed-lord](bhagavān) [seven+horse+chariot+borne](sapta+aśva+ratha+vāhanaḥ)
 
 ## mukta-m0-p64-v1588
-[when](yadā) [Hara+and](haraśca) [constant+abode](niratanivāsaṃ) [made](kṛtavān) [here](iha)
+[when](yadā) [hara](haraḥ) [and](ca) [constant+residence](nirata+nivāsaṃ) [made](kṛtavān) [here](iha)
 
 ## mukta-m0-p64-v1589
-[with-sun+seed-syllable](bhānubījena) [having-bathed](snātvā) [indeed](tu) [offering](arghyaṃ) [with-Tāra](tāreṇa) [one-should-give](dāpayet)
+[with-sun+seed-syllable](bhānu+bījena) [having-bathed](snātvā) [then](tu) [offering](arghyaṃ) [with-tāra](tāreṇa) [should-give](dāpayet)
 
 ## mukta-m0-p64-v1590
-[Durgakūpa+pair](durgakūpadvayaṃ) [there](tatra) [Brahmayūpa+and](brahmayūpaśca) [stands](tiṣṭhati)
+[fortress+well+pair](durgakūpa+dvayaṃ) [there](tatra) [brahma+post](brahmayūpaḥ) [and](ca) [stands](tiṣṭhati)
 
 ## mukta-m0-p64-v1591
 [of-mantras](mantrāṇām) [ten-thousand](ayutaṃ) [reciting](japan)
 
 ## mukta-m0-p64-v1592
-[ancestors+and](pitṛṃśca) [one-causes-to-cross](tārayet) [by-that](tena) [in-Brahma's-world](brahmaloke) [one-is-honored](mahīyate)
+[ancestors](pitṝn) [and](ca) [should-carry-across](tārayet) [by-that](tena) [in-brahma-world](brahmaloke) [is-honored](mahīyate)
 
 ## mukta-m0-p64-v1593
-[whose](yasya) [of-a-friend](mitrasya) [which](yad) [wealth](vittaṃ) [one-should-purify](śodhayet) [in-previous+birth](pūrvajanmani)
+[whose](yasya) [of-friend](mitrasya) [which+wealth](yat+vittaṃ) [should-purify](śodhayet) [in-previous+birth](pūrva+janmani)
 
 ## mukta-m0-p64-v1594
-[Maṇīśvara](maṇīśvaraṃ) [then](tataḥ) [one-should-see](paśyet) [from-hell+and](nirayācca) [one-is-released](pramucyate)
+[maṇīśvara](maṇīśvaraṃ) [then](tataḥ) [should-see](paśyet) [from-hell](nirayāt) [and](ca) [is-released](pramucyate)
 
 ## mukta-m0-p64-v1595
-[on-Indrakūṭa+situated](indrakūṭasthitaṃ) [having-seen](dṛṣṭvā) [Maṇinātha](maṇināthaṃ) [he](sa) [by-Vāyu](vāyunā)
+[on-indrakūṭa+situated](indrakūṭa+sthitam) [having-seen](dṛṣṭvā) [maṇinātha](maṇināthaṃ) [he](sa) [by-wind](vāyunā)
 
 ## mukta-m0-p64-v1596
-[at-the-end](carame) [of-Lomatīrtha](lomatīrthasya) [bows](dhanuḥ) [five](pañca) [in-measure](pramāṇataḥ)
+[at-the-end](carame) [of-lomatīrtha](lomatīrthasya) [bows](dhanuḥ) [five+in-measure](pañca+pramāṇataḥ)
 
 ## mukta-m0-p64-v1597
-[in-Nāgakuṇḍa](nāgakuṇḍe) [indeed](hi) [Vaikuṇṭha](vaikuṇṭhaḥ) [having-bathed](snātvā) [nāgas](nāgān) [one-should-worship](samarcayet)
+[in-nāgakuṇḍa](nāgakuṇḍe) [indeed](hi) [vaikuṇṭha](vaikuṇṭhaḥ) [having-bathed](snātvā) [nāgas](nāgān) [should-worship](samarcayet)
 
 ## mukta-m0-p64-v1598
-[bath](snānaṃ) [perform](kurvanti) [who](ye) [mortals](martyā) [with-devotion](bhaktyā) [on-Śrāvaṇa+fifth-day](śrāvaṇapañcamīm)
+[bath](snānaṃ) [perform](kurvanti) [who](ye) [mortals](martyāḥ) [with-devotion](bhaktyā) [on-śrāvaṇa+fifth-day](śrāvaṇa+pañcamīm)
 
 ## mukta-m0-p64-v1599
-[śrāddha](śrādhaṃ) [of-ancestors](pitṛṇāṃ) [who](ye) [there](tatra) [will-perform](kariṣyanti) [men](narā) [on-earth](bhuvi)
+[śrāddha](śrādhaṃ) [of-ancestors](pitṛṇāṃ) [who](ye) [there](tatra) [will-perform](kariṣyanti) [men](narāḥ) [on-earth](bhuvi)
 
 ## mukta-m0-p64-v1600
-[from-Candra](candrāt) [to-the-north](uttarataḥ) [mountain](śailaḥ) [sixty-four](catuḥṣaṣṭi) [in-measure](pramāṇataḥ)
+[from-candra](candrāt) [to-the-north](uttarataḥ) [mountain](śailaḥ) [sixty-four+in-measure](catuḥ+ṣaṣṭi+pramāṇataḥ)
