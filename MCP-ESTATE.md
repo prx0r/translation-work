@@ -11,7 +11,7 @@ of these as a custom connector.*
 | Endpoint | Kind | Backend (systemd) | Local port | Tools / routes |
 |---|---|---|---|---|
 | **https://shastra.svatantrya.net/mcp** | MCP (Streamable HTTP) | `tw-mcp.service` | 8930 | **36** — operator (swarm/ops) + bibliography |
-| https://mcp.svatantrya.net/mcp | MCP (site federation) | (federation gateway) | — | 40 — openpatala/scholar/formal/translate read sheaf |
+| https://mcp.svatantrya.net/mcp | MCP (site federation) | (federation gateway, remotely served) | — | ~51 observed 2026-11-14 — openpatala/scholar/formal/translate read sheaf |
 | **https://book.svatantrya.net/mcp** | MCP (Streamable HTTP) | `bookfactory-mcp.service` | 8950 | **22** — book factory |
 | **https://video.svatantrya.net/mcp** | MCP (Streamable HTTP) | `videofactory-mcp.service` | 8951 | **18** — video factory |
 | **https://patala.svatantrya.net** | REST (read-only) | `openpatala-api.service` | 8802 | **46** `/v1/*` + `/health` + `/openapi.json` |

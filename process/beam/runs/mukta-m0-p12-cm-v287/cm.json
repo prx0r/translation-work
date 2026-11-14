@@ -3,24 +3,34 @@
  "verse": 287,
  "rows": [
   {
-   "lemma": "brahmaviṣṇuśivādīnāṃ",
-   "morph": "m.gen.pl (brahma+noun, viṣṇu+noun, śiva+noun, ādi+adjective)",
-   "grounds": "compound listing major deities"
+   "lemma": "pūjāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "ritual act completed"
   },
   {
-   "lemma": "sā",
-   "morph": "f.nom.sg",
-   "grounds": "demonstrative pronoun referring to the supreme worship"
+   "lemma": "samāpya",
+   "morph": "gerund+√samāp",
+   "grounds": "prior completion of worship"
   },
   {
-   "lemma": "pūjā",
-   "morph": "f.nom.sg",
-   "grounds": "ritual or contemplative practice"
+   "lemma": "devyāḥ+tu",
+   "morph": "f.gen.sg+(indecl.)",
+   "grounds": "compound/particle: goddess as object of devotion"
   },
   {
-   "lemma": "iṣṭadevatā",
-   "morph": "f.nom.sg (iṣṭa+adjective, devatā+noun)",
-   "grounds": "compound identifying the object of devotion"
+   "lemma": "stavaiḥ+tu",
+   "morph": "m.ins.pl+(indecl.)",
+   "grounds": "compound/particle: means of praise"
+  },
+  {
+   "lemma": "praṇamet",
+   "morph": "3.sg.act-optative+√praṇam",
+   "grounds": "injunction to offer reverence"
+  },
+  {
+   "lemma": "mudā",
+   "morph": "f.ins.sg",
+   "grounds": "emotional disposition in reverence"
   }
  ]
 }

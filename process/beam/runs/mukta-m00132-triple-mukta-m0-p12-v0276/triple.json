@@ -1,0 +1,1107 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "time adverb indicating initial action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strībhyaḥ",
+     "gloss": "to-women",
+     "grounds": "recipients of the offering",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "samarpya+eva",
+     "gloss": "having-offered+indeed",
+     "grounds": "compound/particle: gerund with emphatic particle",
+     "morph": "gerund+√sṛp/√ṛ+caus+(indecl.)"
+    },
+    {
+     "surface": "prasāda+alpaṃ",
+     "gloss": "consecrated-food+a-little",
+     "grounds": "compound: small portion of consecrated substance",
+     "morph": "m.acc.sg+n.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-partake",
+     "grounds": "injunction to consume",
+     "morph": "3.sg.act-optative+√bhaj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence governs the initial offering and partaking of consecrated food?",
+   "premises": [
+    "The action begins at first with women as recipients.",
+    "A small portion of consecrated food is offered to them.",
+    "Partaking follows only after that offering."
+   ],
+   "inference": "Consecrated food must first be offered to women before others partake.",
+   "uncertainties": [],
+   "plain_english": "At first, having offered a little consecrated food to the women, one should then partake of it."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "abhiṣektā",
+     "gloss": "the-consecrator",
+     "grounds": "agent performing consecration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhakān+ca",
+     "gloss": "the-practitioners+and",
+     "grounds": "compound/particle: practitioners included as recipients",
+     "morph": "m.acc.pl+(indecl.)"
+    },
+    {
+     "surface": "pāyayet",
+     "gloss": "should-make-drink",
+     "grounds": "causative injunction to give drink",
+     "morph": "3.sg.act-optative+√pā+caus"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "reflexive agent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "injunction for the consecrator to drink",
+     "morph": "3.sg.act-optative+√pā"
+    }
+   ],
+   "question": "Who must drink and who must be given drink by the consecrator?",
+   "premises": [
+    "The consecrator is the acting agent.",
+    "The practitioners are to be made to drink.",
+    "The consecrator himself should also drink."
+   ],
+   "inference": "The consecrator gives drink to the practitioners and then drinks himself.",
+   "uncertainties": [],
+   "plain_english": "The consecrator should make the practitioners drink, and he himself should drink."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "rameran",
+     "gloss": "they-should-sport",
+     "grounds": "injunction to engage in enjoyment",
+     "morph": "3.pl.mid-optative+√ram"
+    },
+    {
+     "surface": "parama+ānandaiḥ",
+     "gloss": "with-supreme+blisses",
+     "grounds": "compound: highest states of bliss",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "veśyāyāṃ",
+     "gloss": "with-the-courtesan",
+     "grounds": "companion in the rite",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā+sukham",
+     "gloss": "according-to+pleasure",
+     "grounds": "compound: as one wishes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should participants engage in blissful enjoyment during this ritual stage?",
+   "premises": [
+    "Participants are enjoined to sport with supreme blisses.",
+    "The courtesan is included in this enjoyment.",
+    "The enjoyment proceeds according to pleasure."
+   ],
+   "inference": "Ritual enjoyment with the courtesan is to be undertaken freely in supreme bliss.",
+   "uncertainties": [],
+   "plain_english": "They should sport with supreme blisses, with the courtesan, according to their pleasure."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "abhiṣecana+karmā+āśu",
+     "gloss": "consecration+rite+quickly",
+     "grounds": "compound: the act of consecration performed swiftly",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "nirvighnaṃ",
+     "gloss": "without-obstacle",
+     "grounds": "resulting condition of the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca+iti",
+     "gloss": "and+thus",
+     "grounds": "particles marking conclusion",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certain",
+     "grounds": "asserted certainty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What outcome is assured when the consecration rite is performed quickly?",
+   "premises": [
+    "The consecration rite is performed quickly.",
+    "The rite is described as without obstacle.",
+    "This outcome is declared certain."
+   ],
+   "inference": "Swift performance of the consecration rite ensures an unobstructed completion.",
+   "uncertainties": [],
+   "plain_english": "Thus the consecration rite, performed quickly, is certainly without obstacle."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "prātaḥ+kṛtya+ādi+karmāṇi",
+     "gloss": "morning+duties+etc.+rites",
+     "grounds": "compound: morning duties and related ritual acts",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "injunction to carry out rites",
+     "morph": "3.sg.act-optative+√kṛ"
+    },
+    {
+     "surface": "tatra+eva",
+     "gloss": "there+indeed",
+     "grounds": "emphatic location of performance",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "the-practitioner",
+     "grounds": "agent responsible for the rites",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where must the practitioner perform the morning duties and related rites?",
+   "premises": [
+    "Morning duties and related rites are prescribed.",
+    "The practitioner is the one who should perform them.",
+    "They must be performed in that very place."
+   ],
+   "inference": "The practitioner must perform the morning and related rites at that same location.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should perform the morning duties and other rites there itself."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "śiṣyaḥ+ca+ādau",
+     "gloss": "the-disciple+and+first",
+     "grounds": "compound/particles: disciple mentioned first",
+     "morph": "m.nom.sg+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "divā+rātram",
+     "gloss": "day+night",
+     "grounds": "compound: duration covering day and night",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhiṣiktaḥ",
+     "gloss": "consecrated",
+     "grounds": "state resulting from consecration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "injunction regarding state",
+     "morph": "3.sg.act-optative+√bhū"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For how long should the disciple remain in the consecrated state initially?",
+   "premises": [
+    "The disciple is addressed first in this instruction.",
+    "The disciple should be consecrated.",
+    "This consecrated state lasts day and night."
+   ],
+   "inference": "The disciple should remain consecrated continuously through day and night at first.",
+   "uncertainties": [],
+   "plain_english": "And first the disciple should remain consecrated day and night; then thereafter."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāṇḍaṃ",
+     "gloss": "large",
+     "grounds": "excluded size quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudraṃ",
+     "gloss": "small",
+     "grounds": "excluded size quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "of-proper-measure",
+     "grounds": "required quality of the jar",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ghaṭam",
+     "gloss": "jar",
+     "grounds": "ritual vessel to be brought",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "one-should-bring",
+     "grounds": "injunction to procure",
+     "morph": "3.sg.act-optative+√āhṛ"
+    }
+   ],
+   "question": "What size requirement governs the jar to be brought for the rite?",
+   "premises": [
+    "The jar must not be large.",
+    "The jar must not be small.",
+    "The jar must be of proper measure."
+   ],
+   "inference": "A jar of proper measure, neither large nor small, should be brought.",
+   "uncertainties": [],
+   "plain_english": "One should bring a jar of proper measure, neither large nor small."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "pravālaṃ",
+     "gloss": "coral",
+     "grounds": "precious material to be brought",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hīrakaṃ",
+     "gloss": "diamond",
+     "grounds": "precious material to be brought",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muktāṃ",
+     "gloss": "pearl",
+     "grounds": "precious material to be brought",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svarṇa+raupye",
+     "gloss": "gold+silver",
+     "grounds": "compound: precious metals to be brought",
+     "morph": "n.acc.dual"
+    },
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise+indeed",
+     "grounds": "emphatic continuation",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which precious materials must be gathered for the ritual preparations?",
+   "premises": [
+    "Coral, diamond, and pearl are specified.",
+    "Gold and silver are likewise specified.",
+    "These materials are to be brought for the rite."
+   ],
+   "inference": "Coral, diamond, pearl, gold, and silver must be gathered as ritual materials.",
+   "uncertainties": [],
+   "plain_english": "One should bring coral, diamond, pearl, and likewise gold and silver."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "kastūrī+kuṅkuma+ādīni",
+     "gloss": "musk+saffron+etc.",
+     "grounds": "compound: aromatic substances and others",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nānā+gandhāni",
+     "gloss": "various+fragrances",
+     "grounds": "compound: diverse fragrant substances",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca+āharet",
+     "gloss": "and+one-should-bring",
+     "grounds": "particle with injunction to procure",
+     "morph": "(indecl.)+3.sg.act-optative+√āhṛ"
+    }
+   ],
+   "question": "What aromatic substances are required among the ritual offerings?",
+   "premises": [
+    "Musk, saffron, and similar substances are required.",
+    "Various fragrances are also required.",
+    "All these should be brought."
+   ],
+   "inference": "Musk, saffron, and various other fragrances must be brought for the rite.",
+   "uncertainties": [],
+   "plain_english": "And one should bring musk, saffron, and other such substances, and various fragrances."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "vihitān",
+     "gloss": "prescribed",
+     "grounds": "items enjoined by rule",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dhūpa+dīpān+ca",
+     "gloss": "incense+lamps+and",
+     "grounds": "compound/particle: ritual offerings of incense and lamps",
+     "morph": "m.acc.pl+(indecl.)"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "substance used with lamps",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which prescribed offerings of incense and lamps must be prepared for the goddess?",
+   "premises": [
+    "Incense and lamps are prescribed offerings.",
+    "The lamps are prepared with ghee.",
+    "The instruction is addressed to the supreme goddess."
+   ],
+   "inference": "Prescribed incense and ghee lamps must be prepared as offerings to the supreme goddess.",
+   "uncertainties": [],
+   "plain_english": "O Supreme Goddess, one should bring the prescribed incense and lamps with ghee."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "veśyābhiḥ",
+     "gloss": "with-courtesans",
+     "grounds": "participants in worship",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "with-practitioners",
+     "grounds": "participants in worship",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "together",
+     "grounds": "joint participation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to conduct worship",
+     "morph": "3.sg.act-optative+√samācar"
+    }
+   ],
+   "question": "Who must jointly participate in performing the ritual worship?",
+   "premises": [
+    "Worship is to be performed.",
+    "Courtesans are included as participants.",
+    "Practitioners participate together with them."
+   ],
+   "inference": "Worship should be performed jointly by the courtesans and the practitioners.",
+   "uncertainties": [],
+   "plain_english": "One should perform the worship together with the courtesans and the practitioners."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual act completed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "prior completion of worship",
+     "morph": "gerund+√samāp"
+    },
+    {
+     "surface": "devyāḥ+tu",
+     "gloss": "of-the-goddess+indeed",
+     "grounds": "compound/particle: goddess as object of devotion",
+     "morph": "f.gen.sg+(indecl.)"
+    },
+    {
+     "surface": "stavaiḥ+tu",
+     "gloss": "with-hymns+indeed",
+     "grounds": "compound/particle: means of praise",
+     "morph": "m.ins.pl+(indecl.)"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "one-should-bow",
+     "grounds": "injunction to offer reverence",
+     "morph": "3.sg.act-optative+√praṇam"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "emotional disposition in reverence",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "What devotional act follows the completion of the goddess's worship?",
+   "premises": [
+    "The worship of the goddess is completed first.",
+    "Hymns are used in the following act.",
+    "One should bow with joy."
+   ],
+   "inference": "After completing worship, one should joyfully bow to the goddess with hymns.",
+   "uncertainties": [],
+   "plain_english": "Having completed the worship of the goddess, one should bow with joy using hymns."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "item to be provided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vastra+bhūṣāṃ",
+     "gloss": "garment+ornament",
+     "grounds": "compound: clothing and adornment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekena",
+     "gloss": "by-each",
+     "grounds": "distribution to each participant",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "O-lady-of-the-kula",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What items must each participant provide according to the instruction to Kuleśvarī?",
+   "premises": [
+    "A seat is to be provided.",
+    "Garment and ornament are to be provided.",
+    "Each participant is responsible for providing them."
+   ],
+   "inference": "Each participant must provide a seat, garment, and ornament.",
+   "uncertainties": [
+    "The verb governing these objects is implied from context rather than stated explicitly."
+   ],
+   "plain_english": "O Lady of the Kula, each one should provide a seat, garment, and ornament."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "ghaṭa+sthāpanakaṃ",
+     "gloss": "jar+installation",
+     "grounds": "compound: act of installing the jar",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform installation",
+     "morph": "3.sg.act-optative+√kṛ"
+    },
+    {
+     "surface": "kramaṃ",
+     "gloss": "procedure",
+     "grounds": "ordered method to be heard",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location/context of procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to attend to instruction",
+     "morph": "2.sg.act-imperative+√śru"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What procedural instruction is introduced regarding the installation of the jar?",
+   "premises": [
+    "The installation of the jar is to be performed.",
+    "The procedure for it is to be explained.",
+    "The beloved is asked to listen."
+   ],
+   "inference": "The text introduces the procedure for installing the jar and asks the beloved to listen.",
+   "uncertainties": [],
+   "plain_english": "One should perform the installation of the jar; listen to the procedure there, O beloved."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "śaktyā+kalaśam",
+     "gloss": "with-śakti+the-jar",
+     "grounds": "compound: jar associated with śakti",
+     "morph": "f.ins.sg+m.acc.sg"
+    },
+    {
+     "surface": "āropya",
+     "gloss": "having-raised",
+     "grounds": "prior action of placing or raising",
+     "morph": "gerund+√āruh+caus"
+    },
+    {
+     "surface": "māyayā",
+     "gloss": "with-māyā",
+     "grounds": "ritual power or principle employed",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "injunction to fill the jar",
+     "morph": "3.sg.act-optative+√pṝ+caus"
+    },
+    {
+     "surface": "jalaiḥ",
+     "gloss": "with-waters",
+     "grounds": "substance filling the jar",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How should the ritual jar be prepared and filled according to śakti and māyā?",
+   "premises": [
+    "The jar is raised in association with śakti.",
+    "Māyā is employed in the act.",
+    "The jar should be filled with waters."
+   ],
+   "inference": "The jar, raised with śakti and empowered by māyā, must be filled with waters.",
+   "uncertainties": [
+    "The precise ritual sense of śaktyā and māyayā is context-dependent."
+   ],
+   "plain_english": "Having raised the jar with śakti, one should fill it with waters through māyā."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "āvāhayet+ca",
+     "gloss": "one-should-invoke+and",
+     "grounds": "particle with injunction to invoke",
+     "morph": "3.sg.act-optative+√āvah+caus+(indecl.)"
+    },
+    {
+     "surface": "tīrthāni",
+     "gloss": "the-sacred-waters",
+     "grounds": "sacred presences to be invoked",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "mantreṇa+anena",
+     "gloss": "with-mantra+this",
+     "grounds": "compound: means of invocation",
+     "morph": "m.ins.sg+m.ins.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "the-teacher",
+     "grounds": "ritual agent performing invocation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who invokes the sacred waters and by what means during the rite?",
+   "premises": [
+    "The sacred waters are to be invoked.",
+    "The invocation is performed with this mantra.",
+    "The teacher is the agent of invocation."
+   ],
+   "inference": "The teacher should invoke the sacred waters using this mantra.",
+   "uncertainties": [],
+   "plain_english": "And the teacher should invoke the sacred waters with this mantra."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of invoked waters",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samudrāḥ",
+     "gloss": "oceans",
+     "grounds": "bodies of water invoked",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saritaḥ",
+     "gloss": "rivers",
+     "grounds": "bodies of water invoked",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarāṃsi",
+     "gloss": "lakes",
+     "grounds": "bodies of water invoked",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "jaladāḥ",
+     "gloss": "cloud-born-waters",
+     "grounds": "waters originating from clouds",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nadāḥ",
+     "gloss": "streams",
+     "grounds": "flowing waters invoked",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which bodies of water are summoned in the invocation mantra?",
+   "premises": [
+    "All oceans are named in the invocation.",
+    "Rivers, lakes, cloud-born waters, and streams are named.",
+    "The mantra calls upon these waters collectively."
+   ],
+   "inference": "The invocation summons all oceans, rivers, lakes, cloud-born waters, and streams.",
+   "uncertainties": [],
+   "plain_english": "All oceans, rivers, lakes, cloud-born waters, and streams."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "sarva+tīrthāni",
+     "gloss": "all+sacred-waters",
+     "grounds": "compound: all sacred pilgrimage waters",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puṇyāni",
+     "gloss": "holy",
+     "grounds": "purifying quality of the waters",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ghaṭe",
+     "gloss": "in-the-jar",
+     "grounds": "location of presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kurvantu",
+     "gloss": "may-make",
+     "grounds": "benedictive request for presence",
+     "morph": "3.pl.act-imperative+√kṛ"
+    },
+    {
+     "surface": "sannidhim",
+     "gloss": "presence",
+     "grounds": "desired state of manifestation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What presence is requested of all holy sacred waters within the jar?",
+   "premises": [
+    "All sacred waters are addressed.",
+    "These waters are described as holy.",
+    "They are asked to establish presence in the jar."
+   ],
+   "inference": "All holy sacred waters are requested to become present in the jar.",
+   "uncertainties": [],
+   "plain_english": "May all holy sacred waters establish their presence in the jar."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "kūrcena",
+     "gloss": "with-kuśa-grass",
+     "grounds": "ritual implement used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "phala+dānaṃ",
+     "gloss": "fruit+giving",
+     "grounds": "compound: offering or giving of fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "injunction regarding the act",
+     "morph": "3.sg.act-optative+√as"
+    },
+    {
+     "surface": "gandha+vastra+hṛdā+ātmanā",
+     "gloss": "with-fragrance+garment+heart+self",
+     "grounds": "compound: means including fragrance, garment, heart, and self",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "By what ritual means should the offering of fruit be performed?",
+   "premises": [
+    "The act involves giving fruit.",
+    "Kuśa grass is used in the act.",
+    "Fragrance, garment, heart, and self are included as means."
+   ],
+   "inference": "The offering of fruit should be performed with kuśa grass together with fragrance, garment, heart, and self.",
+   "uncertainties": [
+    "The exact ritual syntax of gandha+vastra+hṛdā+ātmanā is compressed and context-dependent."
+   ],
+   "plain_english": "The giving of fruit should be done with kuśa grass, with fragrance, garment, heart, and self."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "mūlena",
+     "gloss": "with-the-root-mantra",
+     "grounds": "primary mantra used",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dūrvāṃ",
+     "gloss": "dūrvā-grass",
+     "grounds": "ritual substance used",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "praṇavaiḥ",
+     "gloss": "with-praṇavas",
+     "grounds": "sacred syllables used",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform sprinkling",
+     "morph": "3.sg.act-optative+√kṛ"
+    },
+    {
+     "surface": "abhyukṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the sprinkling rite be performed using mantra and dūrvā grass?",
+   "premises": [
+    "Sprinkling is the prescribed act.",
+    "The root mantra and praṇavas are employed.",
+    "Dūrvā grass is used in the act."
+   ],
+   "inference": "Sprinkling should then be performed with dūrvā grass using the root mantra and praṇavas.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the sprinkling with dūrvā grass, using the root mantra and the praṇavas."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "vicintya",
+     "gloss": "having-visualized",
+     "grounds": "mental act preceding worship",
+     "morph": "gerund+√vicint"
+    },
+    {
+     "surface": "mūla+pīṭhaṃ",
+     "gloss": "root+pedestal",
+     "grounds": "compound: foundational seat visualized",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of the act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "act of connecting or establishing",
+     "morph": "gerund+√saṃyuj+caus"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to perform worship",
+     "morph": "3.sg.act-optative+√pūj"
+    }
+   ],
+   "question": "What mental and ritual steps precede worship at the root pedestal?",
+   "premises": [
+    "The root pedestal must be visualized.",
+    "It must be joined or established there.",
+    "Worship should be performed after these steps."
+   ],
+   "inference": "One should visualize and establish the root pedestal there, then perform worship.",
+   "uncertainties": [],
+   "plain_english": "Having visualized the root pedestal and having established it there, one should worship."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "tat+ghaṭe",
+     "gloss": "on-that+jar",
+     "grounds": "compound: location on the specified jar",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hastam",
+     "gloss": "hand",
+     "grounds": "body part placed on the jar",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āropya",
+     "gloss": "having-placed",
+     "grounds": "prior action of placing",
+     "morph": "gerund+√āruh+caus"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "the-disciple",
+     "grounds": "object of the teacher's gaze",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyan",
+     "gloss": "beholding",
+     "grounds": "concurrent action of seeing",
+     "morph": "m.nom.sg.pres-participle+√paś"
+    },
+    {
+     "surface": "guruḥ+ca",
+     "gloss": "teacher+and",
+     "grounds": "compound/particle: teacher as agent",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "anaphoric reference to the teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What actions must the teacher perform while attending to the disciple at the jar?",
+   "premises": [
+    "The teacher places his hand on that jar.",
+    "The teacher beholds the disciple.",
+    "These actions occur together in the rite."
+   ],
+   "inference": "The teacher, placing his hand on the jar, should behold the disciple.",
+   "uncertainties": [],
+   "plain_english": "Placing his hand on that jar and beholding the disciple, that teacher."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "sarva+tīrtha+ambu+saṃpūrṇa",
+     "gloss": "with-all+sacred-water+water+filled",
+     "grounds": "compound: filled with all sacred waters",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "pūraya+asya",
+     "gloss": "fulfill+his",
+     "grounds": "imperative with possessive: fulfill his desire",
+     "morph": "2.sg.act-imperative+√pṝ+caus+m.gen.sg"
+    },
+    {
+     "surface": "manoratham",
+     "gloss": "desire",
+     "grounds": "object to be fulfilled",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What request is made to the jar filled with all sacred waters?",
+   "premises": [
+    "The jar is filled with all sacred waters.",
+    "A desire belonging to someone is identified.",
+    "The jar is asked to fulfill that desire."
+   ],
+   "inference": "The jar filled with all sacred waters is invoked to fulfill the disciple's desire.",
+   "uncertainties": [
+    "The referent of asya is implied as the disciple from the preceding verse."
+   ],
+   "plain_english": "O you filled with the waters of all sacred places, fulfill his desire."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "maṅgalaiḥ",
+     "gloss": "with-auspicious-things",
+     "grounds": "auspicious substances or items",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "nikhilaiḥ",
+     "gloss": "with-all",
+     "grounds": "totality of items",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "with-substances",
+     "grounds": "ritual materials used",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "with-practitioners",
+     "grounds": "participants accompanying the act",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "with-śaktis",
+     "grounds": "female ritual partners or powers",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With whom and with what materials should the concluding ritual actions be performed?",
+   "premises": [
+    "All auspicious substances are included.",
+    "Practitioners are present as participants.",
+    "Śaktis accompany the practitioners."
+   ],
+   "inference": "The ritual actions should be performed with all auspicious substances together with practitioners and śaktis.",
+   "uncertainties": [
+    "The governing verb is carried over from the preceding context."
+   ],
+   "plain_english": "Together with all auspicious substances, with the practitioners and with the śaktis."
+  }
+ ]
+}
