@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p51",
  "verse": 1262,
- "question": "In what sequence are the specified elements to be arranged?",
+ "question": "What is the syllable count of the formula used in presenting the Sun's water offering?",
  "premises": [
-  "The last, first, second, fourth, and middle elements are named",
-  "The arrangement is to follow an order"
+  "The formula has thirty-four syllables.",
+  "It is used for the Sun.",
+  "It is used in presenting arghya."
  ],
- "inference": "The elements are to be taken in the order: last, first, second, fourth, and middle",
- "uncertainties": [
-  "the exact referents of these ordinal positions depend on the implied letter set"
- ],
- "plain_english": "In order: the last, the first, the second, the fourth, and the middle."
+ "inference": "This thirty-four-syllable formula is used in presenting the Sun's water offering.",
+ "uncertainties": [],
+ "plain_english": "This is a thirty-four-syllable formula for presenting the water offering to the Sun."
 }

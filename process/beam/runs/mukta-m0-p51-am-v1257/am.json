@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p51",
  "verse": 1257,
- "question": "How many vertical and crosswise lines form the diagram's grid?",
+ "question": "What shape must be formed with water as part of the offering preparation?",
  "premises": [
-  "Ten lines are drawn upward and downward",
-  "Crosswise lines are likewise drawn",
-  "The number of crosswise lines is ten"
+  "Water is used as the material.",
+  "A shape is made with it.",
+  "The shape has four corners."
  ],
- "inference": "The diagram is formed by ten vertical and ten crosswise lines",
- "uncertainties": [],
- "plain_english": "Draw ten lines upward and downward, and likewise ten crosswise lines."
+ "inference": "A four-cornered form should be made with water.",
+ "uncertainties": [
+  "Whether this refers to a diagram or a vessel arrangement is not explicit."
+ ],
+ "plain_english": "Having made a four-cornered form with water."
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p514",
+ "items": [
+  {
+   "verse": 12850,
+   "rows": [
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "the ritual limbs or body-parts to be worshipped",
+     "morph": "n.acc.pl.nt"
+    },
+    {
+     "surface": "dalamūleṣu",
+     "gloss": "in-petal-bases",
+     "grounds": "compound dala-mūla in locative plural indicating locations at petal bases",
+     "morph": "dala+stem, mūla+head; n.loc.pl.nt"
+    },
+    {
+     "surface": "dvitīyeṣu",
+     "gloss": "in-second",
+     "grounds": "qualifies the petal bases as the second set",
+     "morph": "adj.loc.pl.nt"
+    },
+    {
+     "surface": "aṣṭadale",
+     "gloss": "on-eight-petaled",
+     "grounds": "compound aṣṭa-dala describing the lotus support",
+     "morph": "aṣṭa+stem, dala+head; n.loc.sg.nt"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act.opt; √yaj"
+    }
+   ],
+   "question": "In which locations on the eight-petaled lotus are the limbs to be worshipped?",
+   "premises": [
+    "The ritual context includes an eight-petaled lotus.",
+    "The lotus contains a second set of petal bases.",
+    "The limbs are designated objects of worship."
+   ],
+   "inference": "Therefore the limbs are to be worshipped in the bases of the second petals on the eight-petaled lotus.",
+   "uncertainties": [
+    "Whether dvitīyeṣu refers to a second ring of petals or a second set of bases is not fully explicit."
+   ],
+   "plain_english": "One should worship the limbs in the bases of the second petals on the eight-petaled lotus."
+  }
+ ]
+}

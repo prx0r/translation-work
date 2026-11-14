@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p509",
+ "items": [
+  {
+   "verse": 12725,
+   "rows": [
+    {
+     "surface": "mūṣīviṣaṃ",
+     "gloss": "mouse-poison",
+     "grounds": "compound; object of hanti",
+     "morph": "compound: mūṣī+viṣa; n.acc.sg"
+    },
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "appositional or general object; object of hanti",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "main verb",
+     "morph": "3.sg.pres.act √han"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "subject of hanti",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptadaśonmitaḥ",
+     "gloss": "seventeen-measured",
+     "grounds": "compound adjective qualifying japaḥ",
+     "morph": "compound: saptadaśa+unmita; m.nom.sg"
+    }
+   ],
+   "question": "Can a recitation measured as seventeen repetitions destroy mouse poison?",
+   "premises": [
+    "Mouse poison is a harmful poison requiring removal.",
+    "Recitation is presented as an effective remedial act.",
+    "A specific measure of seventeen repetitions is prescribed."
+   ],
+   "inference": "Therefore, recitation performed seventeen times destroys mouse poison.",
+   "uncertainties": [
+    "The exact unit counted as seventeen (repetitions, syllables, or another measure) is not specified in this verse."
+   ],
+   "plain_english": "A recitation measured as seventeen destroys mouse poison, that poison."
+  }
+ ]
+}

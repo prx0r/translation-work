@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p501",
+ "items": [
+  {
+   "verse": 12525,
+   "rows": [
+    {
+     "surface": "avasthitaṃ",
+     "gloss": "abiding",
+     "grounds": "past participle indicating a firmly established state",
+     "morph": "m.acc.sg.ppp(ava-√sthā)"
+    },
+    {
+     "surface": "śivaḥ+aham",
+     "gloss": "I-am-Śiva",
+     "grounds": "fused identity expression asserting unity with Śiva",
+     "morph": "compound(nom.sg.+nom.sg.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior contemplative act",
+     "morph": "gerund(√dhyai)"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "within",
+     "grounds": "locative adverb indicating inward focus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg."
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive injunction for ritual action",
+     "morph": "3.sg.opt.act(√car)"
+    }
+   ],
+   "question": "What inner realization must precede the prescribed performance of worship?",
+   "premises": [
+    "The practitioner abides in the state of being Śiva.",
+    "This abiding identity is contemplated inwardly.",
+    "Worship is an action to be performed after such contemplation."
+   ],
+   "inference": "Therefore, worship should be performed after inwardly meditating on the abiding identity 'I am Śiva'.",
+   "uncertainties": [
+    "The exact referent of avasthitaṃ (state, self, or presence) is context-dependent."
+   ],
+   "plain_english": "Having meditated inwardly on the abiding state 'I am Śiva,' one should perform worship."
+  }
+ ]
+}

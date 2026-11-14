@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p510",
+ "items": [
+  {
+   "verse": 12750,
+   "rows": [
+    {
+     "surface": "hakārādyaṃ",
+     "gloss": "ha-syllable-beginning",
+     "grounds": "compound describing the form as beginning with the syllable ha; object of cintayet",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting elements of the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hemābhaṃ",
+     "gloss": "gold-resembling",
+     "grounds": "compound: hema (gold) + ābha (splendor/resemblance), qualifying the visualized form",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "stambhane",
+     "gloss": "in-immobilization",
+     "grounds": "locative indicating the ritual context of paralyzing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction combining ca and eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "optative prescribing the act of contemplation or visualization",
+     "morph": "opt.3.sg.act √cint"
+    }
+   ],
+   "question": "What golden form beginning with the syllable ha must be visualized during the act of immobilization?",
+   "premises": [
+    "The prescribed form begins with the syllable ha.",
+    "The prescribed form is characterized as resembling gold.",
+    "The visualization is to be performed in the context of immobilization."
+   ],
+   "inference": "Therefore, one should visualize a golden form beginning with the syllable ha for the purpose of immobilization.",
+   "uncertainties": [],
+   "plain_english": "And indeed, in the act of immobilization, one should visualize a golden form beginning with the syllable 'ha'."
+  }
+ ]
+}

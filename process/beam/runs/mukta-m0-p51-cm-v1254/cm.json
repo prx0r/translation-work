@@ -3,29 +3,44 @@
  "verse": 1254,
  "rows": [
   {
-   "lemma": "dakṣiṇasthe",
-   "morph": "compound: dakṣiṇa+stha (m.loc.sg)",
-   "grounds": "locative describing the breath when situated in the right channel"
+   "lemma": "prāṇa",
+   "morph": "prāṇa+āyāma (compound)",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "anile",
-   "morph": "m.loc.sg",
-   "grounds": "the breath or vital air"
+   "lemma": "āyāma",
+   "morph": "prāṇa+āyāma (compound)",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "mantrī",
+   "lemma": "trayaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "number of breath controls"
+  },
+  {
+   "lemma": "kṛtvā",
+   "morph": "(gerund) √kṛ",
+   "grounds": "completed preparatory act"
+  },
+  {
+   "lemma": "sūrya",
+   "morph": "sūrya+mantra (compound)",
+   "grounds": "qualifies the mantra"
+  },
+  {
+   "lemma": "mantreṇa",
+   "morph": "m.ins.sg",
+   "grounds": "instrument used"
+  },
+  {
+   "lemma": "mantra",
+   "morph": "mantra+vit (compound)",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "vit",
    "morph": "m.nom.sg",
-   "grounds": "the ritual agent performing the act"
-  },
-  {
-   "lemma": "nikhaned",
-   "morph": "3.sg.optative-active √khan",
-   "grounds": "ritual action of burying the diagram"
-  },
-  {
-   "lemma": "ardharātrike",
-   "morph": "n.loc.sg",
-   "grounds": "time specified for the ritual act"
+   "grounds": "qualified practitioner"
   }
  ]
 }

@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p503",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v12553 ratio=0.480"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "3c8c9f33ecadd6c9",
+ "source_digest_normalized_sha256": "3c8c9f33ecadd6c9ddff841625869b15d775ef41b294b1c093d2d281794cbcd1",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 107
+ },
+ "align": {
+  "min_ratio": 0.48,
+  "sub090": {
+   "12553": {
+    "ratio": 0.48,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 49,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 107,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v12553"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "b7fde126a6e9f9795edfb22bab57ce7d0c27463004ee83cc254dd3e9c62b874b",
+  "l0": "d6b3ec6ba5770f2124d5be3bc2776f3f1688a768bad68b65e4097482c61e855b",
+  "argmap": "b8b16802c45adc5ea25434c660f99424308dfb7f3a5cc2118cad85be4e6a69bb",
+  "l2": "699847af3896f5826fa07934d6003ed5444d2ca5fcf530cde433cbaa94d0e5cd",
+  "c1": "130543b4c9809083dbce40973cbdb1ef0a113b14989f6eb261b107d279f00696"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "3c8c9f33ecadd6c9",
+  "t1": "mukta-m0-p503/data/mukta-m0-p503.t1.json",
+  "l0": "mukta-m0-p503/data/mukta-m0-p503.l0.json",
+  "l2": "mukta-m0-p503/data/mukta-m0-p503.l2.json",
+  "c1": "mukta-m0-p503/data/mukta-m0-p503.c1.json"
+ }
+}

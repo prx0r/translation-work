@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p91-v2251
-[offspring+desiring](apatyārthī) [season](ṛtuṃ) [having-seen](dṛṣṭvā) [cycle+passed](cakrātīte) [but](tu) [her](tāṃ) [should-abandon](tyajet)
+[desiring-offspring](apatyārthī) [season](ṛtuṃ) [having-seen](dṛṣṭvā) [cycle+passed](cakrātīte) [but](tu) [her](tāṃ) [should-abandon](tyajet)
 
 ## mukta-m0-p91-v2252
-[kaulas](kaulāḥ) [with+respect](sādaraṃ) [as](yathā) [may-be](syāt) [thus](tathā) [hail](svasti) [thus](iti) [should-say](brūyuḥ) [should-speak](vadeyuḥ)
+[kaulas](kaulāḥ) [with-respect](sādaraṃ) [as](yathā) [may-be](syāt) [so](tathā) [hail+thus](svastīti) [should-say](brūyuḥ) [should-speak](vadeyuḥ)
 
 ## mukta-m0-p91-v2253
-[should-sprinkle](abhiṣiñcet) [thus](iti) [in-expectation](apekṣāyām) [says](āha) [rājarājeśvarī](rājarājeśvarī) [etcetera](ityādi)
+[should-consecrate+thus](abhiṣiñcet) [iti+in-expectation](ityapekṣāyām) [says](āha) [rājarājeśvarī+etc](rājarājeśvarītyādi)
 
 ## mukta-m0-p91-v2254
-[vāgbhava](vāgbhavaṃ) [aim](aim) [thus](iti) [ramā](ramāṃ) [śrīm](śrīm) [thus](iti) [and](ca) [seed](bījaṃ) [should-cause-to-hear](śrāvayet)
+[vāgbhava](vāgbhavaṃ) [aim+thus](aimiti) [ramā](ramāṃ) [śrīm+thus](śrīmiti) [and](ca) [seed-mantra](bījaṃ) [should-cause-to-hear](śrāvayet)
 
 ## mukta-m0-p91-v2255
-[offspring+desiring](apatyārthī) [hero](vīraḥ) [second](dvitaḥ) [this](ayam) [season](ṛtuṃ) [having-seen](dṛṣṭvā) [should-abandon](tyajet)
+[desiring-offspring](apatyārthī) [hero](vīraḥ) [second+this+season](dvitoyamṛtuṃ) [having-seen](dṛṣṭvā) [should-abandon](tyajet)
 
 ## mukta-m0-p91-v2256
-[should-practice](samācaret) [in-reverse-order](vilomena) [that](tat) [but](tu) [common+class](māmānya+jāti) [like](vat)
+[should-practice](samācaret) [in-reverse-order](vilomena) [that+indeed](tattu) [common+birth+like](māmānyajātivat)
 
 ## mukta-m0-p91-v2257
-[food+giving](bhojya+pradānaṃ) [of-kaulas](kaulānāṃ) [eating](bhojanaṃ) [prescribed](vihitaṃ) [should-be](bhavet)
+[food+giving](bhojyapradānaṃ) [of-kaulas](kaulānāṃ) [eating](bhojanaṃ) [prescribed](vihitaṃ) [should-be](bhavet)
 
 ## mukta-m0-p91-v2258
-[for-brevity](saṅkṣepāya) [for-benefit](hitārthāya) [in-śaiva+doctrine](śaiva+dharme) [declared](nirūpitam)
+[for-brevity](saṅkṣepāya) [for-benefit+purpose](hitārthāya) [in-śaiva+dharma](śaivadharme) [declared](nirūpitam)
 
 ## mukta-m0-p91-v2259
-[of-dharma+artha+kāma+mokṣa](dharma+artha+kāma+mokṣāṇāṃ) [lord](prabhuḥ) [becomes](bhavati) [not+otherwise](na+anyathā)
+[dharma+artha+kāma+liberations+of](dharmārthakāmamokṣāṇāṃ) [lord](prabhuḥ) [becomes](bhavati) [not+otherwise](nānyathā)
 
 ## mukta-m0-p91-v2260
-[growth+śrāddha+rite](vṛddhi+śrāddha+vidhiṃ) [o-god](deva) [by-compassion](kṛpayā) [to-me](me) [reveal](prakāśaya)
+[growth+śrāddha+rite](vṛddhiśrāddhavidhiṃ) [o-god](deva) [with-compassion](kṛpayā) [to-me](me) [reveal](prakāśaya)
 
 ## mukta-m0-p91-v2261
-[kuśaṇḍikā+rite](kuśaṇḍikā+vidhānañ) [and](ca) [growth+śrāddha](vṛddhi+śrāddhañ) [and](ca) [o-śaṅkara](śaṅkara)
+[kuśaṇḍikā+rite+and](kuśaṇḍikāvidhānañca) [growth+śrāddha+and](vṛddhiśrāddhañca) [o-śaṅkara](śaṅkara)
 
 ## mukta-m0-p91-v2262
-[for-my+pleasure](mat+prītaye) [o-great-lord](maheśāna) [of-living-beings](jīvānāṃ) [for-welfare](maṅgalāya) [and](ca)
+[my+pleasure+for](matprītaye) [o-great-lord](maheśāna) [of-beings](jīvānāṃ) [for-auspiciousness](maṅgalāya) [and](ca)
 
 ## mukta-m0-p91-v2263
-[where](yatra) [what](yat) [prescribed](vihitaṃ) [o-fair-one](bhadre) [with-particulars](sa+viśeṣaṃ) [declared](prakīrtitam)
+[where](yatra) [what+prescribed](yadvihitaṃ) [o-lady](bhadre) [with-detail](saviśeṣaṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p91-v2264
-[elsewhere](anyatra) [what](yat) [to-be-done](vidhātavyaṃ) [that](tat) [hear](śṛṇuṣva) [o-beautiful-faced-one](varānane)
+[elsewhere](anyatra) [what+to-be-done](yadvidhātavyaṃ) [that+hear](tacchṛṇuṣva) [o-fair-faced](varānane)
 
 ## mukta-m0-p91-v2265
-[speak](brūhi) [1](||) [1](1) [2](||) [2](2)
+[speak](brūhi) [verse-marker](||) [one](1) [verse-marker](||) [two](2)
 
 ## mukta-m0-p91-v2266
-[jīvaseka+etcetera](jīvasekādityādi) [from-jīvaseka](jīvasekāt) [beginning-with-jīvaseka](jīvasekam+ārabhya) [4](||) [4](4)
+[jīva+sprinkling+etc](jīvasekādityādi) [from-jīva+sprinkling](jīvasekāt) [jīva+sprinkling+beginning-with](jīvasekamārabhya) [verse-marker](||) [four](4)
 
 ## mukta-m0-p91-v2267
-[house+garden+vow+etcetera](gṛha+ārāma+vrata+ādīnāṃ) [in-consecration+rites](pratiṣṭhā+karmasu) [o-beloved](priye)
+[house+garden+vow+etc+of](gṛhārāmavratādīnāṃ) [consecration+rites+in](pratiṣṭhākarmasu) [o-beloved](priye)
 
 ## mukta-m0-p91-v2268
-[vasordhārā](vasordhārā) [and](ca) [to-be-done](kartavyā) [in-growth+śrāddha+kuśaṇḍikā](vṛddhi+śrāddha+kuśaṇḍike)
+[vasu+stream](vasordhārā) [and](ca) [to-be-done](kartavyā) [growth+śrāddha+kuśaṇḍikā+in](vṛddhiśrāddhakuśaṇḍike)
 
 ## mukta-m0-p91-v2269
-[for-satisfaction-of-gods+ancestors](devatā+pitṛ+tṛptyarthaṃ) [food](bhojyam) [one](ekaṃ) [should-offer](samutsṛjet)
+[deity+ancestor+satisfaction+for](devatāpitṛtṛptyarthaṃ) [food](bhojyam) [one](ekaṃ) [should-offer](samutsṛjet)
 
 ## mukta-m0-p91-v2270
-[with-devotion](bhaktyā) [by-woman](striyā) [to-be-performed](vidhātavyā) [by-priest](ṛtvijā) [o-lotus-faced-one](kamalānane)
+[with-devotion](bhaktyā) [by-woman](striyā) [to-be-performed](vidhātavyā) [by-priest](ṛtvijā) [o-lotus-faced](kamalānane)
 
 ## mukta-m0-p91-v2271
-[son-in-law+priest+god+ancestor](jāmātṛ+ṛtvig+daiva+pitre) [commended](śastāḥ) [in-substitution](pratinidhau) [o-śiva](śive)
+[son-in-law+priest+deity+ancestor+for](jāmātartvigdaivapitre) [commended](śastāḥ) [in-substitution](pratinidhau) [o-śiva](śive)
 
 ## mukta-m0-p91-v2272
-[growth+śrāddha](vṛddhi+śrāddhaṃ) [I-shall-declare](pravakṣyāmi) [in-truth](tattvataḥ) [hear](śṛṇu) [o-kālikā](kālike)
+[growth+śrāddha](vṛddhiśrāddhaṃ) [I-shall-declare](pravakṣyāmi) [in-truth](tattvataḥ) [hear](śṛṇu) [o-kālikā](kālike)
 
 ## mukta-m0-p91-v2273
-[gaṅgā](gaṅgāṃ) [yajñeśvara](yajñeśvaraṃ) [viṣṇu](viṣṇuṃ) [vāstvīśa](vāstvīśaṃ) [lord-of-earth](bhūpatiṃ) [should-worship](yajet)
+[gaṅgā](gaṅgāṃ) [yajñeśvara](yajñeśvaraṃ) [viṣṇu](viṣṇuṃ) [vāstu+lord](vāstvīśaṃ) [earth+lord](bhūpatiṃ) [should-worship](yajet)
 
 ## mukta-m0-p91-v2274
-[vāpī+etcetera](vāpītyādi) [of-god+image](deva+pratikṛteḥ) [of-deity+image](devatā+pratimāyāḥ)
+[vāpī+etc](vāpītyādi) [deity+image+of](devapratikṛteḥ) [deity+image+of](devatāpratimāyāḥ)
 
 ## mukta-m0-p91-v2275
-[sixth](ṣaṣṭhī) [should-offer](samutsṛjet) [woman](strī) [thus](iti) [remainder](śeṣaḥ)
+[sixth](ṣaṣṭhī) [should-offer](samutsṛjet) [woman+iti](strīti) [remainder](śeṣaḥ)
