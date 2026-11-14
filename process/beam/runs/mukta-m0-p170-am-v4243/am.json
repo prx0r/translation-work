@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p170",
  "verse": 4243,
- "question": "What substitute is prescribed for bathing in that ritual context?",
+ "question": "What extent of control does the minister gain as a result of this rite?",
  "premises": [
-  "The context requires bathing",
-  "Weapon-consecrated water is available",
-  "Sprinkling with that water serves the purpose of bathing"
+  "The minister is the beneficiary.",
+  "The world becomes the object of control.",
+  "The world comes under his control."
  ],
- "inference": "In that context, sprinkling with weapon-consecrated water serves for the purpose of bathing.",
- "uncertainties": [],
- "plain_english": "O best of the twice-born, there sprinkling with weapon-consecrated water serves for the purpose of bathing."
+ "inference": "Through this rite the minister brings the world under control.",
+ "uncertainties": [
+  "The referent of tasya is contextually ambiguous."
+ ],
+ "plain_english": "His minister should bring the whole world under control."
 }

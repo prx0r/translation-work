@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p171",
  "verse": 4271,
- "question": "How should materials such as stone be handled in accordance with the ritual?",
+ "question": "What colors or appearances are specified for the cows or materials used?",
  "premises": [
-  "Materials such as stone are taken.",
-  "The ritual requires proper handling.",
-  "Action must conform to the rite."
+  "The ritual specifies particular types by appearance.",
+  "Tawny and white are named.",
+  "A mixed white, smoky, and reddish splendor is also named."
  ],
- "inference": "One should take materials such as stone and proceed in accordance with the ritual.",
- "uncertainties": [],
- "plain_english": "Having taken stone and other materials, one should proceed in accordance with the ritual."
+ "inference": "The specified types are tawny, white, and those of white-smoky-reddish splendor.",
+ "uncertainties": [
+  "Referent may be cows or derived substances; taken as descriptive classes in the ritual context."
+ ],
+ "plain_english": "They are tawny, white, and of white, smoky, and reddish splendor."
 }

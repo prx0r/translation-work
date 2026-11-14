@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p171",
  "verse": 4259,
- "question": "How do the eminent sages rank these accomplishments among supernatural powers?",
+ "question": "What kind of ladle should be used for the ritual action?",
  "premises": [
-  "Such accomplishments are described.",
-  "They are ranked among powers.",
-  "Eminent sages address this ranking."
+  "A ladle is required as the implement.",
+  "The ladle must come from a specific tree.",
+  "The brahma tree is the prescribed source."
  ],
- "inference": "O best of sages, such accomplishments and the like are the best among powers.",
- "uncertainties": [],
- "plain_english": "O best of sages, thus and so on is the best among the powers."
+ "inference": "The action should be performed with a ladle made from the brahma tree.",
+ "uncertainties": [
+  "brahma+taru identifies a specific tree; exact botanical identity not specified here."
+ ],
+ "plain_english": "with a ladle made from the brahma tree,"
 }
