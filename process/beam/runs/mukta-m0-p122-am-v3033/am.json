@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p122",
  "verse": 3033,
- "question": "Which attributes must be placed in the right and left hands respectively?",
+ "question": "How often and how many times should the goddess's mantra be recited?",
  "premises": [
-  "A chisel is specified for the right hand.",
-  "A deer is specified for the left hand.",
-  "The arrangement is prescribed as it should be."
+  "Recitation is prescribed before the goddess.",
+  "The count is one hundred and eight.",
+  "The practice is to be done daily."
  ],
- "inference": "The right hand should hold a chisel and the left hand should hold a deer.",
- "uncertainties": [],
- "plain_english": "There should be a chisel in the right hand and a deer in the left hand."
+ "inference": "One should recite the mantra one hundred and eight times daily before the goddess.",
+ "uncertainties": [
+  "agre may refer to being in front of the deity or to a preliminary step."
+ ],
+ "plain_english": "One should daily recite one hundred and eight times before the goddess."
 }

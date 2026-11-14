@@ -1,0 +1,1159 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3001,
+   "rows": [
+    {
+     "surface": "dāho",
+     "gloss": "burning",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gotrā",
+     "gloss": "lineage",
+     "grounds": "seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "carayutā",
+     "gloss": "joined-with-moving",
+     "grounds": "compound: cara+yuta; seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāhaḥ",
+     "gloss": "burning",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rayaḥ",
+     "gloss": "speed",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which coded syllabic elements form the opening sequence of the mantra construction?",
+   "premises": [
+    "The sequence begins with burning and lineage.",
+    "Lineage is joined with the moving element.",
+    "Burning and speed follow in the same manner."
+   ],
+   "inference": "The opening mantra sequence is specified as dāha, gotrā joined with cara, then dāha and raya.",
+   "uncertainties": [
+    "The exact phonetic values of the code terms dāho, gotrā, cara, and raya are not explicit."
+   ],
+   "plain_english": "The sequence is: burning, lineage joined with moving, likewise burning, and likewise speed."
+  },
+  {
+   "verse": 3002,
+   "rows": [
+    {
+     "surface": "rasaḥ",
+     "gloss": "essence",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthirā",
+     "gloss": "steady",
+     "grounds": "seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇo",
+     "gloss": "life-breath",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rasāgnisahito",
+     "gloss": "joined-with-essence-fire",
+     "grounds": "compound: rasa+agni+sahita; seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive formation",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "How does the mantra sequence continue after the initial coded elements?",
+   "premises": [
+    "Essence and steady are given in sequence.",
+    "Life-breath follows after them.",
+    "Life-breath should be joined with essence and fire."
+   ],
+   "inference": "The next part of the mantra is rasa, sthirā, then prāṇa joined with rasa and agni.",
+   "uncertainties": [
+    "The exact phonetic realization of rasa, sthirā, prāṇa, and agni remains coded."
+   ],
+   "plain_english": "Then come essence and steady; after that, life-breath should be joined with essence and fire."
+  },
+  {
+   "verse": 3003,
+   "rows": [
+    {
+     "surface": "śūnyayugmaṃ",
+     "gloss": "void-pair",
+     "grounds": "compound: śūnya+yugma; seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gotrā",
+     "gloss": "lineage",
+     "grounds": "seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive formation",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "dāhayuktāmbunā",
+     "gloss": "with-water-joined-to-burning",
+     "grounds": "compound: dāha+yukta+ambu; instrumental relation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "caraḥ",
+     "gloss": "moving",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What combination of coded elements is prescribed in this stage of the mantra?",
+   "premises": [
+    "A pair of voids is specified.",
+    "Lineage is included in the formation.",
+    "The moving element is joined with water united to burning."
+   ],
+   "inference": "The mantra stage consists of a void pair, gotrā, and cara joined with dāha and ambu.",
+   "uncertainties": [
+    "The precise syllabic mapping of śūnya, gotrā, dāha, ambu, and cara is not stated."
+   ],
+   "plain_english": "There should be a pair of voids and lineage, with the moving element joined to water united with burning."
+  },
+  {
+   "verse": 3004,
+   "rows": [
+    {
+     "surface": "gotrā",
+     "gloss": "lineage",
+     "grounds": "seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dāhamarudyuktā",
+     "gloss": "joined-with-burning-wind",
+     "grounds": "compound: dāha+marut+yukta; seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ambu",
+     "gloss": "water",
+     "grounds": "seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyāptam",
+     "gloss": "pervaded",
+     "grounds": "describes the formed element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive formation",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What resulting mantra element arises from combining lineage, burning, wind, and water?",
+   "premises": [
+    "Lineage is joined with burning and wind.",
+    "Water is present in the combination.",
+    "The result is described as pervaded."
+   ],
+   "inference": "The combination yields a pervaded water element formed with gotrā, dāha, and marut.",
+   "uncertainties": [
+    "The intended phonetic output of this pervaded combination is not explicitly given."
+   ],
+   "plain_english": "Lineage joined with burning and wind, together with water, should become pervaded."
+  },
+  {
+   "verse": 3005,
+   "rows": [
+    {
+     "surface": "rasaḥ",
+     "gloss": "essence",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthirāmbvagniyutaṃ",
+     "gloss": "joined-with-steady-water-fire",
+     "grounds": "compound: sthirā+ambu+agni+yuta; seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāyuyugmaṃ",
+     "gloss": "wind-pair",
+     "grounds": "compound: vāyu+yugma; seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "carānvitam",
+     "gloss": "endowed-with-moving",
+     "grounds": "compound: cara+anvita; seed-syllable code element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which further coded components are assembled in this mantra sequence?",
+   "premises": [
+    "Essence is named as a component.",
+    "A wind pair is specified.",
+    "The wind pair is joined with steady, water, fire, and endowed with moving."
+   ],
+   "inference": "The sequence includes rasa and a vāyu pair joined with sthirā, ambu, agni, and cara.",
+   "uncertainties": [
+    "The exact syllabic correspondence of these combined code terms is unclear."
+   ],
+   "plain_english": "Essence, and a pair of winds joined with steady, water, and fire, endowed with moving."
+  },
+  {
+   "verse": 3006,
+   "rows": [
+    {
+     "surface": "grāso",
+     "gloss": "swallowing",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūsahito",
+     "gloss": "joined-with-earth",
+     "grounds": "compound: bhū+sahita; seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "raso",
+     "gloss": "essence",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāptaṃ",
+     "gloss": "pervaded",
+     "grounds": "describes the formed element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataś",
+     "gloss": "then",
+     "grounds": "sequential particle with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛt",
+     "gloss": "heart",
+     "grounds": "seed-syllable code element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What mantra elements are addressed to the goddess in this step of formation?",
+   "premises": [
+    "Swallowing joined with earth is specified.",
+    "Essence becomes pervaded in this step.",
+    "The heart element follows thereafter."
+   ],
+   "inference": "The addressed sequence is grāsa joined with bhū, pervaded rasa, and then hṛt.",
+   "uncertainties": [
+    "The phonetic identity of grāsa, bhū, rasa, and hṛt as seed-syllables is not explicit."
+   ],
+   "plain_english": "O goddess, swallowing joined with earth, then essence pervaded, and then heart."
+  },
+  {
+   "verse": 3007,
+   "rows": [
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "void",
+     "grounds": "seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "qualifies the void element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "blessed-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rasaś",
+     "gloss": "essence",
+     "grounds": "seed-syllable code element with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sacarā",
+     "gloss": "with-moving",
+     "grounds": "compound: sa+cara; qualifies sthirā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthirā",
+     "gloss": "steady",
+     "grounds": "seed-syllable code element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which simple and combined coded elements are specified in this mantra instruction?",
+   "premises": [
+    "A void alone is prescribed.",
+    "Essence is included in the sequence.",
+    "Steady is qualified as accompanied by moving."
+   ],
+   "inference": "The instruction gives śūnya alone, rasa, and sthirā together with cara.",
+   "uncertainties": [
+    "The exact syllabic values of śūnya, rasa, cara, and sthirā are not specified."
+   ],
+   "plain_english": "O blessed one, void alone, and essence, and steady together with moving."
+  },
+  {
+   "verse": 3008,
+   "rows": [
+    {
+     "surface": "bhūmi",
+     "gloss": "earth",
+     "grounds": "seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rasākṣmāsvayutā",
+     "gloss": "joined-with-essence-space-self",
+     "grounds": "compound: rasa+ākṣma+sva+yuta; seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcaikāntaritāḥ",
+     "gloss": "separated-by-five-and-one",
+     "grounds": "compound: pañca+eka+antarita; describes arrangement",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "placed",
+     "grounds": "describes the arranged elements",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the coded elements arranged in this stage of the mantra sequence?",
+   "premises": [
+    "Earth is joined with essence, space, and self.",
+    "The elements are described as separated by five and one.",
+    "The elements are placed in that arrangement."
+   ],
+   "inference": "The mantra elements including bhūmi joined with rasa, ākṣma, and sva are placed at intervals of five and one.",
+   "uncertainties": [
+    "The meaning of the interval count pañcaikāntaritāḥ in the mantra layout is ambiguous."
+   ],
+   "plain_english": "Earth joined with essence, space, and self is placed, separated by intervals of five and one."
+  },
+  {
+   "verse": 3009,
+   "rows": [
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "refers to previously arranged elements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "jyā",
+     "gloss": "bowstring",
+     "grounds": "seed-syllable code element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sacaro",
+     "gloss": "with-moving",
+     "grounds": "compound: sa+cara; seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raso",
+     "gloss": "essence",
+     "grounds": "seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūś",
+     "gloss": "earth",
+     "grounds": "seed-syllable code element with sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nabhoyutā",
+     "gloss": "joined-with-sky",
+     "grounds": "compound: nabhas+yuta; qualifies earth",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "In what order are the previously arranged mantra elements to be taken?",
+   "premises": [
+    "The elements are to be taken in sequence.",
+    "The sequence includes bowstring, moving, and essence.",
+    "Earth joined with sky is included in the same order."
+   ],
+   "inference": "The ordered sequence is jyā, cara, rasa, and bhū joined with nabhas.",
+   "uncertainties": [
+    "The phonetic mapping of jyā, cara, rasa, bhū, and nabhas is not explicit."
+   ],
+   "plain_english": "Those, in order, are bowstring, with moving, essence, and earth joined with sky."
+  },
+  {
+   "verse": 3010,
+   "rows": [
+    {
+     "surface": "śūnyayugmaṃ",
+     "gloss": "void-pair",
+     "grounds": "compound: śūnya+yugma; seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "carayutaṃ",
+     "gloss": "joined-with-moving",
+     "grounds": "compound: cara+yuta; seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛddāho",
+     "gloss": "heart-burning",
+     "grounds": "compound: hṛt+dāha; seed-syllable code element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ambumarudyutaḥ",
+     "gloss": "joined-with-water-wind",
+     "grounds": "compound: ambu+marut+yuta; seed-syllable code element",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which additional coded combinations continue the mantra formation here?",
+   "premises": [
+    "A void pair joined with moving is specified.",
+    "Heart and burning form another element.",
+    "That element is joined with water and wind."
+   ],
+   "inference": "The continuation includes a void pair with cara and hṛd-dāha joined with ambu and marut.",
+   "uncertainties": [
+    "The exact syllabic realization of these combined elements is not stated."
+   ],
+   "plain_english": "A pair of voids joined with moving, and heart-burning joined with water and wind."
+  },
+  {
+   "verse": 3011,
+   "rows": [
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "void",
+     "grounds": "seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāgni",
+     "gloss": "with-fire",
+     "grounds": "compound: sa+agni; qualifies void",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "mantric salutation element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "careṇa",
+     "gloss": "with-moving",
+     "grounds": "instrumental accompaniment",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sahitaṃ",
+     "gloss": "joined",
+     "grounds": "describes the formed element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the practitioner form the mantra element involving void, fire, and salutation?",
+   "premises": [
+    "Void with fire is specified.",
+    "The salutation element is to be made.",
+    "It should be joined with the moving element."
+   ],
+   "inference": "One should form śūnya with agni and namaḥ together with cara.",
+   "uncertainties": [
+    "The exact placement of namaḥ within the resulting mantra string is not fully explicit."
+   ],
+   "plain_english": "O beloved, one should make void with fire and salutation, joined with moving."
+  },
+  {
+   "verse": 3012,
+   "rows": [
+    {
+     "surface": "śūnya",
+     "gloss": "void",
+     "grounds": "seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyāptaṃ",
+     "gloss": "pervaded",
+     "grounds": "describes the formed element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdyuktaṃ",
+     "gloss": "joined-with-heart",
+     "grounds": "compound: hṛt+yukta; seed-syllable code element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rayadāhasvavahnibhiḥ",
+     "gloss": "with-speed-burning-own-fire",
+     "grounds": "compound: raya+dāha+sva+vahni; instrumental accompaniment",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What combination of void, heart, speed, burning, and fire is prescribed here?",
+   "premises": [
+    "Void is described as pervaded.",
+    "It is joined with the heart element.",
+    "Speed, burning, and its own fire accompany it."
+   ],
+   "inference": "The mantra element is pervaded śūnya joined with hṛt and accompanied by raya, dāha, and sva-vahni.",
+   "uncertainties": [
+    "The referent of sva in svavahnibhiḥ is not explicitly identified."
+   ],
+   "plain_english": "Void, pervaded and joined with heart, together with speed, burning, and its own fire."
+  },
+  {
+   "verse": 3013,
+   "rows": [
+    {
+     "surface": "haṃsaḥ",
+     "gloss": "hamsa",
+     "grounds": "mantric syllable or code name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive formation",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "dāhavahnisvaiḥ",
+     "gloss": "with-burning-fire-own",
+     "grounds": "compound: dāha+vahni+sva; instrumental accompaniment",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "joined",
+     "grounds": "describes the formed element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "antyam",
+     "gloss": "final",
+     "grounds": "marks position in the sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "transmission statement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What final mantra element is declared at the end of this construction sequence?",
+   "premises": [
+    "The element haṃsa is named.",
+    "It is joined with burning, fire, and its own components.",
+    "This element is declared as final."
+   ],
+   "inference": "The final declared element is haṃsa joined with dāha, vahni, and sva.",
+   "uncertainties": [
+    "The exact phonetic form of haṃsa in this coded context is not specified."
+   ],
+   "plain_english": "Haṃsa should be joined with burning, fire, and its own elements; this is declared as the final one."
+  },
+  {
+   "verse": 3014,
+   "rows": [
+    {
+     "surface": "devateyaṃ",
+     "gloss": "this-goddess",
+     "grounds": "compound: devatā+iyam; identifies the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "mantric seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "harablemātmakaṃ",
+     "gloss": "of-harablema-nature",
+     "grounds": "compound: harablema+ātmaka; describes the seed-syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is identified as the seed-syllable nature of this goddess?",
+   "premises": [
+    "This goddess is explicitly identified.",
+    "A seed-syllable is named for her.",
+    "The seed-syllable is described as having the nature of harablema."
+   ],
+   "inference": "The goddess's seed-syllable is declared to be of harablema nature.",
+   "uncertainties": [
+    "The exact syllabic content of harablema is not decoded in the text."
+   ],
+   "plain_english": "O beloved, this goddess indeed has a seed-syllable whose nature is harablema."
+  },
+  {
+   "verse": 3015,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "with-four",
+     "grounds": "indicates number of components",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "śīrṣaṃ",
+     "gloss": "head",
+     "grounds": "mantra limb designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive formation",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "mantra limb designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "with-three",
+     "grounds": "indicates number of components",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "udīritā",
+     "gloss": "declared",
+     "grounds": "transmission statement",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many components form the head and crest portions of the mantra?",
+   "premises": [
+    "The head portion is formed with four components.",
+    "The crest portion is formed with three components.",
+    "Both assignments are declared in sequence."
+   ],
+   "inference": "The mantra's head uses four components and its crest uses three.",
+   "uncertainties": [
+    "Which specific syllables count as these four and three components is not stated here."
+   ],
+   "plain_english": "Then the head should be with four, and the crest is declared to be with three."
+  },
+  {
+   "verse": 3016,
+   "rows": [
+    {
+     "surface": "aruṇām",
+     "gloss": "reddish",
+     "grounds": "describes the goddess's color",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aruṇākalpāṃ",
+     "gloss": "adorned-in-red",
+     "grounds": "compound: aruṇa+ākalpa; describes appearance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sundarīṃ",
+     "gloss": "beautiful",
+     "grounds": "describes the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "susmitānanām",
+     "gloss": "with-gently-smiling-face",
+     "grounds": "compound: su+smita+ānana; describes the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess visualized in terms of color and appearance?",
+   "premises": [
+    "The goddess is described as reddish in color.",
+    "She is adorned in red garments or ornaments.",
+    "She is beautiful with a gently smiling face."
+   ],
+   "inference": "The visualization presents a red, beautifully adorned, smiling goddess.",
+   "uncertainties": [],
+   "plain_english": "Visualize her as reddish, adorned in red, beautiful, and with a gently smiling face."
+  },
+  {
+   "verse": 3017,
+   "rows": [
+    {
+     "surface": "kahlārapāśapuṇḍrekṣukodaṇḍān",
+     "gloss": "white-lotus-noose-puṇḍra-sugarcane-bow",
+     "grounds": "compound: kahlāra+pāśa+puṇḍra+ikṣu+kodaṇḍa; objects held",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vāmabāhubhiḥ",
+     "gloss": "with-left-arms",
+     "grounds": "compound: vāma+bāhu; locates the objects",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which objects are held in the goddess's left arms during visualization?",
+   "premises": [
+    "A set of objects is named in a compound.",
+    "These objects are associated with the left arms.",
+    "The objects include lotus, noose, puṇḍra, sugarcane, and bow."
+   ],
+   "inference": "The goddess holds a white lotus, noose, puṇḍra, sugarcane, and bow in her left arms.",
+   "uncertainties": [
+    "The exact identity of puṇḍra in this iconographic list is uncertain."
+   ],
+   "plain_english": "In her left arms she holds a white lotus, a noose, a puṇḍra, and a sugarcane bow."
+  },
+  {
+   "verse": 3018,
+   "rows": [
+    {
+     "surface": "tathāvidhābhiḥ",
+     "gloss": "of-such-kind",
+     "grounds": "refers back to similar forms",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "paritovṛtāṃ",
+     "gloss": "surrounded-all-around",
+     "grounds": "compound: paritas+vṛta; describes the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "by-powers",
+     "grounds": "attendant feminine powers",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "ātmabhiḥ",
+     "gloss": "by-own-forms",
+     "grounds": "indicates the powers are her own manifestations",
+     "morph": "f.ins.pl"
+    }
+   ],
+   "question": "By whom is the visualized goddess surrounded in this contemplative form?",
+   "premises": [
+    "The goddess is surrounded on all sides.",
+    "The surrounding figures are powers.",
+    "These powers are of the same kind and are her own forms."
+   ],
+   "inference": "The goddess is surrounded by powers that are manifestations of herself.",
+   "uncertainties": [],
+   "plain_english": "She is surrounded on all sides by powers of the same kind, who are her own forms."
+  },
+  {
+   "verse": 3019,
+   "rows": [
+    {
+     "surface": "pañcatriṃśacchatārṇaiḥ",
+     "gloss": "with-thirty-five-hundred-syllables",
+     "grounds": "compound: pañcatriṃśat+śata+arṇa; numerical mantra specification",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-those",
+     "grounds": "refers to the specified syllables",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "rūpiṇīśaktipañcakam",
+     "gloss": "fivefold-embodied-power-group",
+     "grounds": "compound: rūpiṇī+śakti+pañcaka; group of five powers",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the fivefold group of embodied powers constituted in syllabic form?",
+   "premises": [
+    "A count of thirty-five hundred syllables is given.",
+    "Those syllables are used to constitute the group.",
+    "The group consists of five embodied powers."
+   ],
+   "inference": "The five embodied powers are formed through those thirty-five hundred syllables.",
+   "uncertainties": [
+    "The expression pañcatriṃśacchatārṇaiḥ is numerically unusual and its exact count is uncertain."
+   ],
+   "plain_english": "By those thirty-five hundred syllables, the fivefold group of embodied powers is formed."
+  },
+  {
+   "verse": 3020,
+   "rows": [
+    {
+     "surface": "madanāṃ",
+     "gloss": "madanā",
+     "grounds": "name of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mohinīṃ",
+     "gloss": "mohinī",
+     "grounds": "name of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lolāṃ",
+     "gloss": "lolā",
+     "grounds": "name of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhañjanīm",
+     "gloss": "bhañjanī",
+     "grounds": "name of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "udyamāṃ",
+     "gloss": "udyamā",
+     "grounds": "name of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śubhām",
+     "gloss": "auspicious",
+     "grounds": "qualifies the named power",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which powers are named in the first part of the enumerated group?",
+   "premises": [
+    "Several powers are listed by name.",
+    "The names given are Madanā, Mohinī, Lolā, Bhañjanī, and Udyamā.",
+    "Udyamā is further qualified as auspicious."
+   ],
+   "inference": "The first enumerated powers are Madanā, Mohinī, Lolā, Bhañjanī, and auspicious Udyamā.",
+   "uncertainties": [],
+   "plain_english": "Madanā, Mohinī, Lolā, Bhañjanī, and the auspicious Udyamā."
+  },
+  {
+   "verse": 3021,
+   "rows": [
+    {
+     "surface": "sarvonmādāṃ",
+     "gloss": "all-maddening",
+     "grounds": "compound: sarva+unmāda; name or epithet of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvasukhāṃ",
+     "gloss": "all-delighting",
+     "grounds": "compound: sarva+sukha; name or epithet of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sabhaṅgām",
+     "gloss": "with-breaking",
+     "grounds": "compound: sa+bhaṅga; name or epithet of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhitodyamām",
+     "gloss": "fully-rousing",
+     "grounds": "compound: abhitas+udyama; name or epithet of a power",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which additional powers complete the enumeration begun in the previous verse?",
+   "premises": [
+    "More powers are listed in continuation.",
+    "The names or epithets include all-maddening and all-delighting.",
+    "They also include with-breaking and fully-rousing."
+   ],
+   "inference": "The continued enumeration includes Sarvonmādā, Sarvasukhā, Sabhaṅgā, and Abhitodyamā.",
+   "uncertainties": [
+    "Whether these are proper names or descriptive epithets is not fully certain."
+   ],
+   "plain_english": "Sarvonmādā, Sarvasukhā, Sabhaṅgā, and Abhitodyamā."
+  },
+  {
+   "verse": 3022,
+   "rows": [
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "refers to the enumerated powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "prescriptive identification",
+     "morph": "3.pl.optative-act √as"
+    },
+    {
+     "surface": "śaktyaḥ",
+     "gloss": "powers",
+     "grounds": "identifies the listed figures",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañcapañcāśadbhiḥ",
+     "gloss": "with-fifty-five",
+     "grounds": "numerical specification",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numerical specification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tviti",
+     "gloss": "thus-indeed",
+     "grounds": "compound: tu+iti; concluding marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the enumerated powers summarized in number and identity?",
+   "premises": [
+    "The previously listed figures are identified as powers.",
+    "A numerical total is given as fifty-five and a hundred.",
+    "The statement concludes the enumeration."
+   ],
+   "inference": "These are declared to be the powers, totaling one hundred and fifty-five.",
+   "uncertainties": [
+    "The exact counting method yielding one hundred and fifty-five is not explained."
+   ],
+   "plain_english": "These should be the powers; thus they are one hundred and fifty-five."
+  },
+  {
+   "verse": 3023,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjākramaṃ",
+     "gloss": "worship-sequence",
+     "grounds": "compound: pūjā+krama; ritual procedure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "instruction to the listener",
+     "morph": "2.sg.imperative-act √śru"
+    },
+    {
+     "surface": "sarvārthadāyakam",
+     "gloss": "granting-all-aims",
+     "grounds": "compound: sarva+artha+dāyaka; qualifies the worship sequence",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What new ritual instruction is introduced after the mantra and power descriptions?",
+   "premises": [
+    "A transition marker introduces a new section.",
+    "The goddess is addressed directly.",
+    "The worship sequence is described as granting all aims."
+   ],
+   "inference": "The text now turns to teaching the worship sequence that grants all aims.",
+   "uncertainties": [],
+   "plain_english": "Now, O goddess, hear the sequence of worship that grants all aims."
+  },
+  {
+   "verse": 3024,
+   "rows": [
+    {
+     "surface": "caturasradvayaṃ",
+     "gloss": "pair-of-squares",
+     "grounds": "compound: caturasra+dvaya; diagrammatic structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtyā",
+     "gloss": "having-made",
+     "grounds": "prior action in ritual procedure",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "part of the diagram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-the-west",
+     "grounds": "locates the door",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the initial diagrammatic structure for worship be constructed?",
+   "premises": [
+    "A pair of squares is to be made first.",
+    "A door is to be made in that structure.",
+    "The door is specified to be in the west."
+   ],
+   "inference": "The worship diagram begins with two squares and a door placed in the west.",
+   "uncertainties": [],
+   "plain_english": "Having made a pair of squares, one should make a door in the west."
+  }
+ ]
+}

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p121",
  "verse": 3015,
- "question": "What food offerings are appropriate in this rite according to one's wish?",
+ "question": "How many components form the head and crest portions of the mantra?",
  "premises": [
-  "Curd and rice are used in the offering",
-  "Flour-made items may be used as desired"
+  "The head portion is formed with four components.",
+  "The crest portion is formed with three components.",
+  "Both assignments are declared in sequence."
  ],
- "inference": "The offering may include curd-rice and flour-made items as desired",
- "uncertainties": [],
- "plain_english": "In the offering, curd and rice, and here flour-made items as desired."
+ "inference": "The mantra's head uses four components and its crest uses three.",
+ "uncertainties": [
+  "Which specific syllables count as these four and three components is not stated here."
+ ],
+ "plain_english": "Then the head should be with four, and the crest is declared to be with three."
 }
