@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p163",
  "verse": 4052,
- "question": "What specific accomplishment and adornment characterize the invoked goddess?",
+ "question": "Where are the six pots arranged in the southern triad and left side?",
  "premises": [
-  "The goddess grants speech success",
-  "She is explicitly named goddess",
-  "She wears a ruby garland"
+  "six pots are arranged",
+  "southern triad is named",
+  "left side is named"
  ],
- "inference": "The goddess is both a granter of efficacious speech and a radiant figure adorned with rubies.",
- "uncertainties": [],
- "plain_english": "The goddess grants success in speech and is adorned with a garland of rubies."
+ "inference": "The six pots occupy the southern triad and left positions.",
+ "uncertainties": [
+  "exact spatial mapping"
+ ],
+ "plain_english": "In the south triad and on the left, six pots are arranged."
 }

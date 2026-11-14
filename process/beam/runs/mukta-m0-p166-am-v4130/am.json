@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p166",
  "verse": 4130,
- "question": "What yogic and iconographic attributes identify this deity as Viṣṇu?",
+ "question": "What remains above after leaving a fourth part in the sixteenth part?",
  "premises": [
-  "The deity is sought through yoga.",
-  "The deity is lotus-naveled and reclines on Śeṣa.",
-  "The deity is the lord of Śrī."
+  "a fourth part is left",
+  "the remainder is above",
+  "the remainder is a twelfth part"
  ],
- "inference": "These attributes identify the deity with the classical iconography and lordship of Viṣṇu.",
- "uncertainties": [],
- "plain_english": "He is sought through yoga, lotus-naveled, reclining on Śeṣa, and the lord of Śrī."
+ "inference": "The verse prescribes leaving a fourth part and taking a twelfth part above.",
+ "uncertainties": [
+  "exact spatial operation is not specified"
+ ],
+ "plain_english": "Leaving a fourth part in the sixteenth part, a twelfth part remains above."
 }

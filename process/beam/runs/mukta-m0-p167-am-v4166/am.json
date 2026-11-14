@@ -1,13 +1,19 @@
 {
  "song": "mukta-m0-p167",
  "verse": 4166,
- "question": "What worthiness, dispelling of ignorance, and demon-slaying power define the being?",
+ "question": "What should be placed in the water middle afterwards?",
  "premises": [
-  "The being is worthy of honor from all",
-  "The being destroys the dullness of the world",
-  "The being is the slayer of Madhu"
+  "in water middle is named",
+  "should place is named",
+  "afterwards is named",
+  "god is named",
+  "goddess is named",
+  "and pots is named",
+  "those is named"
  ],
- "inference": "The being is universally revered, removes ignorance, and conquers demonic forces.",
- "uncertainties": [],
- "plain_english": "He is worthy of honor from all, destroyer of the world's dullness, and the slayer of Madhu."
+ "inference": "Afterwards god, goddess, and those pots should be placed in the water middle.",
+ "uncertainties": [
+  "sequence with prior verse is implicit"
+ ],
+ "plain_english": "Afterwards place god, goddess, and those pots in the water middle."
 }

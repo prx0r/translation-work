@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p164",
  "verse": 4081,
- "question": "What additional adornments characterize the visualized form of the guru?",
+ "question": "Should circumambulation be avoided for others?",
  "premises": [
-  "The form has hands adorned with red bracelets",
-  "The form is beautified with jeweled anklets"
+  "others are included",
+  "all are included",
+  "circumambulation may be avoided"
  ],
- "inference": "The meditative image includes specific ornaments on the hands and feet.",
- "uncertainties": [],
- "plain_english": "And as having hands adorned with red bracelets and beautified with jeweled anklets."
+ "inference": "Circumambulation may be avoided for others or all.",
+ "uncertainties": [
+  "whether avoidance is mandatory"
+ ],
+ "plain_english": "For others also, or for all, circumambulation may be avoided."
 }

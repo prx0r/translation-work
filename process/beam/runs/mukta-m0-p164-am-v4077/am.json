@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p164",
  "verse": 4077,
- "question": "What obligation governs the secrecy of matters concerning the guru?",
+ "question": "Which sprouts are considered auspicious for the rite?",
  "premises": [
-  "The guru's secret must be kept",
-  "It must never be spoken"
+  "sprouts are white",
+  "sprouts are tender",
+  "sprouts grow upward"
  ],
- "inference": "Matters concerning the guru are subject to strict and perpetual secrecy.",
- "uncertainties": [],
- "plain_english": "The guru's secret must be kept and must never be spoken."
+ "inference": "Auspicious sprouts are white, tender, and upward-growing.",
+ "uncertainties": [
+  "color criteria"
+ ],
+ "plain_english": "The sprouts should be white, auspicious, tender, and upward-growing."
 }

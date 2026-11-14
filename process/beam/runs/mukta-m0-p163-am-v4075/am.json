@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p163",
  "verse": 4075,
- "question": "What is said about fever and other diseases not arising?",
+ "question": "Should the pot be filled with fragrant water before its water dries?",
  "premises": [
-  "fever and other diseases do not arise",
-  "thus by this and"
+  "Pot water must not dry first.",
+  "Fragrant water fills the pot.",
+  "Filling occurs before drying."
  ],
- "inference": "the verse states that fever and other diseases do not arise",
+ "inference": "Therefore fill the pot with fragrant water before the pot water dries.",
  "uncertainties": [
-  "exact syntactic role of the fused compound remains unclear"
+  "The ablative may mark temporal 'before' rather than source."
  ],
- "plain_english": "Thus by this, fever and other diseases do not arise."
+ "plain_english": "Before the water in the pot dries, one should fill it with fragrant water."
 }

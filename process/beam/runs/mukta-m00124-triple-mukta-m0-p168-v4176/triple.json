@@ -1,0 +1,905 @@
+{
+ "song": "mukta-m0-p168",
+ "items": [
+  {
+   "verse": 4176,
+   "rows": [
+    {
+     "surface": "śivakumbhāstrayajano",
+     "gloss": "śiva-kumbha-astra-worship",
+     "grounds": "compound of śiva, kumbha, astra, yajana",
+     "morph": "compound"
+    },
+    {
+     "surface": "lokapālārcanānvitaḥ",
+     "gloss": "world-guardian-worship-endowed-with",
+     "grounds": "compound of loka, pāla, arcana, anvita",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the śiva-kumbha-astra worship accompanied by world-guardian worship?",
+   "premises": [
+    "śiva-kumbha-astra worship is performed",
+    "world-guardian worship accompanies it"
+   ],
+   "inference": "The rite pairs śiva-kumbha-astra worship with world-guardian worship.",
+   "uncertainties": [
+    "exact sandhi boundaries not expanded"
+   ],
+   "plain_english": "The śiva-kumbha-astra worship is performed together with worship of the world guardians."
+  },
+  {
+   "verse": 4177,
+   "rows": [
+    {
+     "surface": "kṛtakumbhāstrasaṃpūjaḥ",
+     "gloss": "having-performed-kumbha-weapon-worship",
+     "grounds": "compound of kṛta, kumbha, astra, saṃpūja",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadadhyeṣaṇasaṃyutaḥ",
+     "gloss": "that-request-accompanied-by",
+     "grounds": "compound of tad, adhyeṣaṇa, saṃyuta",
+     "morph": "compound"
+    }
+   ],
+   "question": "What accompanies the completed kumbha-astra worship?",
+   "premises": [
+    "kumbha-astra worship has been performed",
+    "that request accompanies it"
+   ],
+   "inference": "The completed worship is joined with the request concerning it.",
+   "uncertainties": [
+    "tad refers to prior rite"
+   ],
+   "plain_english": "Having performed kumbha-astra worship, one is accompanied by the request for it."
+  },
+  {
+   "verse": 4178,
+   "rows": [
+    {
+     "surface": "jalādhivāsanasthānādānīya",
+     "gloss": "water-immersion-place-from-having-brought",
+     "grounds": "compound of jala, adhivāsana, sthāna, ānīya",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "compound of parama, īśvara",
+     "morph": "compound"
+    }
+   ],
+   "question": "From where is the supreme lord brought for the rite?",
+   "premises": [
+    "water-immersion place is the source",
+    "supreme lord is brought from there"
+   ],
+   "inference": "The supreme lord is brought from the water-immersion place.",
+   "uncertainties": [
+    "exact ritual object unspecified"
+   ],
+   "plain_english": "Bring the supreme lord from the water-immersion place."
+  },
+  {
+   "verse": 4179,
+   "rows": [
+    {
+     "surface": "mṛdbhiḥ",
+     "gloss": "with-clods-of-earth",
+     "grounds": "instrumental plural of mṛd",
+     "morph": "noun.instr.pl"
+    },
+    {
+     "surface": "kaṣāyavargeṇa",
+     "gloss": "astringent-group-with",
+     "grounds": "compound of kaṣāya, varga, instrumental",
+     "morph": "compound.instr.sg"
+    },
+    {
+     "surface": "pañcagavyaphalodakaiḥ",
+     "gloss": "five-cow-products-fruit-waters-with",
+     "grounds": "compound of pañca, gavya, phala, udaka, instrumental",
+     "morph": "compound.instr.pl"
+    }
+   ],
+   "question": "With what substances is the bathing preparation made?",
+   "premises": [
+    "clods of earth are used",
+    "astringent group is used",
+    "five cow products fruit waters are used"
+   ],
+   "inference": "The preparation uses earth, astringents, and five-cow-product fruit waters.",
+   "uncertainties": [
+    "exact mixing order not stated"
+   ],
+   "plain_english": "Bathe with clods of earth, astringent substances, and waters of five cow products and fruits."
+  },
+  {
+   "verse": 4180,
+   "rows": [
+    {
+     "surface": "pañcāmṛtaiḥ",
+     "gloss": "with-five-nectars",
+     "grounds": "compound of pañca, amṛta, instrumental",
+     "morph": "compound.instr.pl"
+    },
+    {
+     "surface": "kuśodairvā",
+     "gloss": "with-kuśa-waters-or",
+     "grounds": "compound of kuśa, uda, instrumental, vā",
+     "morph": "compound.instr.pl"
+    },
+    {
+     "surface": "snāpayedvṛṣabhadhvajam",
+     "gloss": "one-should-bathe-bull-bannered-one",
+     "grounds": "compound of snāpayet, vṛṣabha, dhvaja",
+     "morph": "verb.3.sg.act.opt + compound"
+    }
+   ],
+   "question": "With what may the bull-bannered one be bathed?",
+   "premises": [
+    "five nectars may be used",
+    "kuśa waters may be used",
+    "the bull-bannered one is bathed"
+   ],
+   "inference": "The bull-bannered one may be bathed with five nectars or kuśa waters.",
+   "uncertainties": [
+    "vā marks alternative"
+   ],
+   "plain_english": "Bathe the bull-bannered one with five nectars or with kuśa waters."
+  },
+  {
+   "verse": 4181,
+   "rows": [
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "absolutive of ācchād",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "vastrayugmena",
+     "gloss": "with-garment-pair",
+     "grounds": "compound of vastra, yugma, instrumental",
+     "morph": "compound.instr.sg"
+    },
+    {
+     "surface": "gandhādyairarcayetkramāt",
+     "gloss": "with-fragrance-and-others-one-should-worship-in-order",
+     "grounds": "compound of gandha, ādi, arcayet, kramāt",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is worship performed after covering with a garment pair?",
+   "premises": [
+    "covering with garment pair occurs",
+    "fragrance and other offerings follow",
+    "worship proceeds in order"
+   ],
+   "inference": "After covering, worship proceeds in order with fragrance and other offerings.",
+   "uncertainties": [
+    "ādi unspecified"
+   ],
+   "plain_english": "After covering with a pair of garments, worship in order with fragrance and other offerings."
+  },
+  {
+   "verse": 4182,
+   "rows": [
+    {
+     "surface": "śayyāṃ",
+     "gloss": "bed",
+     "grounds": "accusative singular of śayyā",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayedvidvān",
+     "gloss": "should-prepare-wise-one",
+     "grounds": "compound of kalpayet, vidvān",
+     "morph": "verb.3.sg.act.opt + noun"
+    },
+    {
+     "surface": "śālitaṇḍulakādibhiḥ",
+     "gloss": "with-rice-grain-and-others",
+     "grounds": "compound of śāli, taṇḍula, ka, ādi, instrumental",
+     "morph": "compound.instr.pl"
+    }
+   ],
+   "question": "What should the wise one prepare for the bed?",
+   "premises": [
+    "bed is prepared",
+    "wise one prepares it",
+    "rice grain and other materials are used"
+   ],
+   "inference": "The wise one prepares the bed with rice grain and other materials.",
+   "uncertainties": [
+    "ka may be particle"
+   ],
+   "plain_english": "The wise one should prepare the bed with rice grains and similar materials."
+  },
+  {
+   "verse": 4183,
+   "rows": [
+    {
+     "surface": "tilaiḥ",
+     "gloss": "with-sesame-seeds",
+     "grounds": "instrumental plural of tila",
+     "morph": "noun.instr.pl"
+    },
+    {
+     "surface": "tadardhairlājaiśca",
+     "gloss": "their-half-with-parched-grains-and",
+     "grounds": "compound of tad, ardha, lāja, ca, instrumental",
+     "morph": "compound.instr.pl"
+    },
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-darbha-grass",
+     "grounds": "instrumental plural of darbha",
+     "morph": "noun.instr.pl"
+    },
+    {
+     "surface": "puṣpaiḥ paristaret",
+     "gloss": "with-flowers-should-strew",
+     "grounds": "compound of puṣpa, paristaret, instrumental",
+     "morph": "compound"
+    }
+   ],
+   "question": "With what materials should the bed be strewn?",
+   "premises": [
+    "sesame seeds are used",
+    "half portions and parched grains are used",
+    "darbha grass is used",
+    "flowers are used"
+   ],
+   "inference": "The bed is strewn with sesame, half portions, parched grains, darbha, and flowers.",
+   "uncertainties": [
+    "tad refers to prior measure"
+   ],
+   "plain_english": "Strew the bed with sesame seeds, half portions, parched grains, darbha grass, and flowers."
+  },
+  {
+   "verse": 4184,
+   "rows": [
+    {
+     "surface": "kārpāsajaṃ",
+     "gloss": "made-of-cotton",
+     "grounds": "compound of kārpāsa, ja",
+     "morph": "compound"
+    },
+    {
+     "surface": "krameṇaiva",
+     "gloss": "in-order-indeed",
+     "grounds": "compound of krama, eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalpayedupadhānakam",
+     "gloss": "should-prepare-pillow",
+     "grounds": "compound of kalpayet, upadhānaka",
+     "morph": "verb.3.sg.act.opt + noun"
+    }
+   ],
+   "question": "How should the cotton pillow be prepared?",
+   "premises": [
+    "pillow is cotton-made",
+    "preparation follows order",
+    "pillow should be prepared"
+   ],
+   "inference": "The cotton pillow should be prepared in due order.",
+   "uncertainties": [
+    "krameṇa scope"
+   ],
+   "plain_english": "Prepare the cotton pillow in due order."
+  },
+  {
+   "verse": 4185,
+   "rows": [
+    {
+     "surface": "sampūjyāsanamantraiśca",
+     "gloss": "having-worshipped-with-seat-mantras-and",
+     "grounds": "compound of sampūjya, āsana, mantra, ca, instrumental",
+     "morph": "compound.instr.pl"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative singular of śakti",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "śayyādhipāṃ",
+     "gloss": "bed-presiding-goddess",
+     "grounds": "compound of śayyā, adhipā",
+     "morph": "compound.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative of nyas",
+     "morph": "verb.3.sg.act.opt"
+    }
+   ],
+   "question": "Where is the bed-presiding goddess placed?",
+   "premises": [
+    "seat mantras are used in worship",
+    "power is invoked",
+    "bed-presiding goddess is placed"
+   ],
+   "inference": "After worship with seat mantras, place the power as bed-presiding goddess.",
+   "uncertainties": [
+    "nyaset object is śaktiṃ"
+   ],
+   "plain_english": "Having worshipped with seat mantras, place the power as the presiding goddess of the bed."
+  },
+  {
+   "verse": 4186,
+   "rows": [
+    {
+     "surface": "dvāradeśe",
+     "gloss": "door-place",
+     "grounds": "compound of dvāra, deśa, locative",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃprāpte",
+     "gloss": "having-arrived",
+     "grounds": "absolutive of saṃprāp",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "dadyādarghyaṃ",
+     "gloss": "should-give-arghya-offering",
+     "grounds": "compound of dadyāt, arghya",
+     "morph": "verb.3.sg.act.opt + noun"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental/ablative of krama",
+     "morph": "noun.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should arghya be given at the door?",
+   "premises": [
+    "door place is reached",
+    "arghya is given",
+    "order is followed"
+   ],
+   "inference": "When the door place is reached, arghya is given in order.",
+   "uncertainties": [
+    "tu repeated for emphasis"
+   ],
+   "plain_english": "When one reaches the door place, give arghya in due order."
+  },
+  {
+   "verse": 4187,
+   "rows": [
+    {
+     "surface": "liṅgasyottarato",
+     "gloss": "of-liṅga-to-the-north",
+     "grounds": "compound of liṅga, uttara, locative/ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular of devī",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "kriyākhyāṃ",
+     "gloss": "action-named",
+     "grounds": "compound of kriyā, ākhyā",
+     "morph": "compound.acc.sg"
+    },
+    {
+     "surface": "pīṭhavigrahām",
+     "gloss": "pedestal-embodied",
+     "grounds": "compound of pīṭha, vigraha",
+     "morph": "compound.acc.sg"
+    }
+   ],
+   "question": "Where is the action-named goddess placed?",
+   "premises": [
+    "north of the liṅga is the place",
+    "goddess is action-named",
+    "pedestal-embodied form is intended"
+   ],
+   "inference": "The action-named goddess in pedestal-embodied form is placed north of the liṅga.",
+   "uncertainties": [
+    "exact directional case"
+   ],
+   "plain_english": "Place the action-named goddess, embodied in the pedestal, to the north of the liṅga."
+  },
+  {
+   "verse": 4188,
+   "rows": [
+    {
+     "surface": "mūrtimūrtīśvaranyāsaṃ",
+     "gloss": "form-form-lord-placement",
+     "grounds": "compound of mūrti, mūrtīśvara, nyāsa",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatvatatveśvarānvitam",
+     "gloss": "principle-principle-lord-endowed-with",
+     "grounds": "compound of tatva, tatveśvara, anvita",
+     "morph": "compound"
+    }
+   ],
+   "question": "What placement is endowed with principle lords?",
+   "premises": [
+    "form and form-lord placement occurs",
+    "principle and principle-lord endowment occurs"
+   ],
+   "inference": "The form-placement is endowed with principle lords.",
+   "uncertainties": [
+    "compound boundaries dense"
+   ],
+   "plain_english": "Perform the placement of forms and form-lords, endowed with principle lords."
+  },
+  {
+   "verse": 4189,
+   "rows": [
+    {
+     "surface": "ātmavidyāśivākhyaṃ",
+     "gloss": "self-knowledge-śiva-named",
+     "grounds": "compound of ātma, vidyā, śiva, ākhya",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatvatrayamitīritam",
+     "gloss": "principle-triad-thus-declared",
+     "grounds": "compound of tatva, traya, iti, īrita",
+     "morph": "compound"
+    }
+   ],
+   "question": "What triad is declared as self-knowledge-śiva?",
+   "premises": [
+    "self-knowledge-śiva is named",
+    "principle triad is thus declared"
+   ],
+   "inference": "The principle triad is declared as self-knowledge-śiva.",
+   "uncertainties": [
+    "ākhya modifies triad"
+   ],
+   "plain_english": "The principle triad is thus declared as self-knowledge-śiva."
+  },
+  {
+   "verse": 4190,
+   "rows": [
+    {
+     "surface": "vyomāntā",
+     "gloss": "ether-ending",
+     "grounds": "compound of vyoma, anta",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtayaścāṣṭau",
+     "gloss": "forms-and-eight",
+     "grounds": "compound of mūrti, ca, aṣṭau",
+     "morph": "compound"
+    },
+    {
+     "surface": "nyastavyāḥ",
+     "gloss": "to-be-placed",
+     "grounds": "gerundive of nyas",
+     "morph": "verb.gerundive"
+    },
+    {
+     "surface": "pratikhaṇḍakam",
+     "gloss": "in-each-section",
+     "grounds": "compound of prati, khaṇḍaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many forms ending in ether are to be placed?",
+   "premises": [
+    "forms ending in ether are eight",
+    "they are to be placed",
+    "placement is in each section"
+   ],
+   "inference": "Eight ether-ending forms are to be placed in each section.",
+   "uncertainties": [
+    "vyomāntā scope"
+   ],
+   "plain_english": "Eight forms ending in ether are to be placed in each section."
+  },
+  {
+   "verse": 4191,
+   "rows": [
+    {
+     "surface": "īśānaśca",
+     "gloss": "īśāna-and",
+     "grounds": "compound of īśāna, ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahādevo",
+     "gloss": "great-god",
+     "grounds": "compound of mahā, deva",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhīmaścetyaṣṭamūrtipāḥ",
+     "gloss": "bhīma-and-thus-eight-form-guardians",
+     "grounds": "compound of bhīma, ca, iti, aṣṭa, mūrti, pā",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who are the eight form-guardians named?",
+   "premises": [
+    "īśāna is included",
+    "mahādeva is included",
+    "bhīma and others are eight form-guardians"
+   ],
+   "inference": "The eight form-guardians include īśāna, mahādeva, and bhīma among others.",
+   "uncertainties": [
+    "list abbreviated"
+   ],
+   "plain_english": "The eight form-guardians include īśāna, mahādeva, bhīma, and others."
+  },
+  {
+   "verse": 4192,
+   "rows": [
+    {
+     "surface": "khañceti",
+     "gloss": "kha-and-thus",
+     "grounds": "compound of kha, ca, iti",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtayo",
+     "gloss": "forms",
+     "grounds": "nominative plural of mūrti",
+     "morph": "noun.nom.pl"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "locative singular of liṅga",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "brahmādyā",
+     "gloss": "brahmā-and-others",
+     "grounds": "compound of brahmā, ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtipā",
+     "gloss": "form-guardians",
+     "grounds": "compound of mūrti, pā",
+     "morph": "compound"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "participle of man",
+     "morph": "verb.part"
+    }
+   ],
+   "question": "Which forms are considered in the liṅga?",
+   "premises": [
+    "kha and other forms are named",
+    "brahmā and others are form-guardians",
+    "they are considered in the liṅga"
+   ],
+   "inference": "The forms including kha and brahmā-guardians are considered in the liṅga.",
+   "uncertainties": [
+    "kha meaning unclear"
+   ],
+   "plain_english": "Forms such as kha, along with brahmā and other form-guardians, are considered in the liṅga."
+  },
+  {
+   "verse": 4193,
+   "rows": [
+    {
+     "surface": "śivaśaktimanīṣāntaṃ",
+     "gloss": "śiva-śakti-manīṣā-ending",
+     "grounds": "compound of śiva, śakti, manīṣā, anta",
+     "morph": "compound"
+    },
+    {
+     "surface": "trikhaṇḍakalpanaṃ",
+     "gloss": "three-section-arrangement",
+     "grounds": "compound of tri, khaṇḍa, kalpana",
+     "morph": "compound"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What arrangement ends in śiva-śakti-manīṣā?",
+   "premises": [
+    "three-section arrangement is made",
+    "it ends in śiva-śakti-manīṣā",
+    "it is repeated again"
+   ],
+   "inference": "The three-section arrangement ending in śiva-śakti-manīṣā is made again.",
+   "uncertainties": [
+    "manīṣā sense"
+   ],
+   "plain_english": "Again make the three-section arrangement ending in śiva-śakti-manīṣā."
+  },
+  {
+   "verse": 4194,
+   "rows": [
+    {
+     "surface": "śabdacittamanīṣāntaṃ",
+     "gloss": "sound-mind-manīṣā-ending",
+     "grounds": "compound of śabda, citta, manīṣā, anta",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "locative singular of liṅga",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "in-pedestal",
+     "grounds": "locative singular of pīṭha",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "'śmani kramāt",
+     "gloss": "in-stone-in-order",
+     "grounds": "compound of aśman, kramāt with leading sandhi apostrophe",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where is the sound-mind-manīṣā arrangement placed?",
+   "premises": [
+    "sound-mind-manīṣā ending is intended",
+    "liṅga is one place",
+    "pedestal is another",
+    "stone follows in order"
+   ],
+   "inference": "The arrangement is placed in liṅga, pedestal, and stone in order.",
+   "uncertainties": [
+    "leading apostrophe retained"
+   ],
+   "plain_english": "Place the sound-mind-manīṣā arrangement in the liṅga, pedestal, and stone in order."
+  },
+  {
+   "verse": 4195,
+   "rows": [
+    {
+     "surface": "dhārikā",
+     "gloss": "dhārikā",
+     "grounds": "nominative singular of dhārikā",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "dīptimutyugrā",
+     "gloss": "dīpti-utu-ugrā",
+     "grounds": "compound of dīpti, utu, ugrā",
+     "morph": "compound"
+    },
+    {
+     "surface": "jyotsnā",
+     "gloss": "jyotsnā",
+     "grounds": "nominative singular of jyotsnā",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "cetā",
+     "gloss": "cetā",
+     "grounds": "nominative singular of cetā",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "balotkaṭā",
+     "gloss": "bala-utkaṭā",
+     "grounds": "compound of bala, utkaṭā",
+     "morph": "compound"
+    }
+   ],
+   "question": "What powers are named in this list?",
+   "premises": [
+    "dhārikā is named",
+    "dīpti-utu-ugrā is named",
+    "jyotsnā is named",
+    "cetā is named",
+    "bala-utkaṭā is named"
+   ],
+   "inference": "The list names dhārikā, dīpti-utu-ugrā, jyotsnā, cetā, and bala-utkaṭā.",
+   "uncertainties": [
+    "technical sense of each term"
+   ],
+   "plain_english": "The named powers are dhārikā, dīpti-utu-ugrā, jyotsnā, cetā, and bala-utkaṭā."
+  },
+  {
+   "verse": 4196,
+   "rows": [
+    {
+     "surface": "pañcamūrtyātmake",
+     "gloss": "five-form-consisting-of",
+     "grounds": "compound of pañca, mūrti, ātmaka, locative",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "nyāse",
+     "gloss": "in-placement",
+     "grounds": "locative singular of nyāsa",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "vāmādyā",
+     "gloss": "vāmā-and-others",
+     "grounds": "compound of vāmā, ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtipā",
+     "gloss": "form-guardians",
+     "grounds": "compound of mūrti, pā",
+     "morph": "compound"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "participle of man",
+     "morph": "verb.part"
+    }
+   ],
+   "question": "Who are considered in the five-form placement?",
+   "premises": [
+    "five-form placement is the context",
+    "vāmā and others are named",
+    "form-guardians are considered"
+   ],
+   "inference": "In the five-form placement, vāmā and other form-guardians are considered.",
+   "uncertainties": [
+    "vāmā list incomplete"
+   ],
+   "plain_english": "In the five-form placement, vāmā and other form-guardians are considered."
+  },
+  {
+   "verse": 4197,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of saṃpūj",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "gandhapuṣpādyairdevānadhvapatīn",
+     "gloss": "with-fragrance-flower-and-others-gods-path-lords",
+     "grounds": "compound of gandha, puṣpa, ādi, deva, adhvapati, instrumental",
+     "morph": "compound.instr.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative/instrumental of krama",
+     "morph": "noun.instr.sg"
+    }
+   ],
+   "question": "Whom should one worship with fragrance and flowers?",
+   "premises": [
+    "worship is performed",
+    "gods and path-lords are worshipped",
+    "fragrance flowers and others are used",
+    "order is followed"
+   ],
+   "inference": "One worships gods and path-lords with fragrance, flowers, and other offerings in order.",
+   "uncertainties": [
+    "adhvapati sense"
+   ],
+   "plain_english": "Having worshipped, offer fragrance, flowers, and other items to the gods and path-lords in order."
+  },
+  {
+   "verse": 4198,
+   "rows": [
+    {
+     "surface": "śivāṅgāni",
+     "gloss": "śiva-limbs",
+     "grounds": "compound of śiva, aṅga, accusative plural",
+     "morph": "compound.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of saṃpūj",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-fragrance-flower-and-others",
+     "grounds": "compound of gandha, puṣpa, ādi, instrumental",
+     "morph": "compound.instr.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative/instrumental of krama",
+     "morph": "noun.instr.sg"
+    }
+   ],
+   "question": "What should be worshipped with fragrance and flowers?",
+   "premises": [
+    "śiva limbs are worshipped",
+    "fragrance flowers and others are used",
+    "order is followed"
+   ],
+   "inference": "The limbs of śiva are worshipped with fragrance, flowers, and other offerings in order.",
+   "uncertainties": [
+    "aṅga list not given"
+   ],
+   "plain_english": "Worship the limbs of śiva with fragrance, flowers, and other offerings in order."
+  },
+  {
+   "verse": 4199,
+   "rows": [
+    {
+     "surface": "vedyūrdhve",
+     "gloss": "altar-above",
+     "grounds": "compound of vedi, ūrdhva, locative",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhānnyasedviśveśvarātmakān",
+     "gloss": "pots-should-place-viśveśvara-natured",
+     "grounds": "compound of kumbha, nyaset, viśveśvara, ātmaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should viśveśvara-natured pots be placed?",
+   "premises": [
+    "above the altar is the place",
+    "all around is intended",
+    "viśveśvara-natured pots are placed"
+   ],
+   "inference": "Viśveśvara-natured pots are placed above and around the altar.",
+   "uncertainties": [
+    "nyased embedded in compound"
+   ],
+   "plain_english": "Place viśveśvara-natured pots above and around the altar."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p167",
  "verse": 4152,
- "question": "How can lordship over all worlds coexist with detachment and wondrous enjoyment?",
+ "question": "What offerings and recipients are named after the grain heap?",
  "premises": [
-  "The being is lord of all worlds without possessiveness",
-  "The being is without attachment",
-  "The being possesses wondrous enjoyment"
+  "a grain heap is named",
+  "a cow with calf is named",
+  "brahmins are named"
  ],
- "inference": "Supreme lordship is compatible with complete detachment and marvelous enjoyment.",
- "uncertainties": [],
- "plain_english": "He is the lord of all worlds, free from possessiveness, unattached, and endowed with wondrous enjoyment."
+ "inference": "The passage names a grain heap, a cow with calf, and brahmins.",
+ "uncertainties": [
+  "grammatical relation to prior verse is implicit"
+ ],
+ "plain_english": "Then a grain heap, a cow with calf, and brahmins."
 }

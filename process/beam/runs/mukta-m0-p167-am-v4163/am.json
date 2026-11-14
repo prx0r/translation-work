@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p167",
  "verse": 4163,
- "question": "Which divine identities and dharmic lineage are attributed to the being?",
+ "question": "What decorated structure is made in waist-deep water?",
  "premises": [
-  "The being is Nara and Kṛṣṇa",
-  "The being is Hari",
-  "The being is son of Dharma and lives by dharma"
+  "waist-deep water is named",
+  "making is named",
+  "decorated pandal is named"
  ],
- "inference": "The being unites multiple divine identities grounded in dharma.",
- "uncertainties": [],
- "plain_english": "He is Nara and Kṛṣṇa, Hari, the son of Dharma, and one who lives by dharma."
+ "inference": "A decorated pandal is made in waist-deep water.",
+ "uncertainties": [
+  "object of kṛtvā is implicit"
+ ],
+ "plain_english": "Making waist-deep water, a decorated pandal."
 }

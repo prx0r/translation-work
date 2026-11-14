@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p169",
+ "items": [
+  {
+   "verse": 4225,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb marking sequence after offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhāte",
+     "gloss": "at-dawn",
+     "grounds": "locative time of dawn",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vimale",
+     "gloss": "pure",
+     "grounds": "adjective agreeing with dawn",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "deśiko",
+     "gloss": "teacher",
+     "grounds": "agent who performs rite",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mūrtipaiḥ",
+     "gloss": "with-image-protectors",
+     "grounds": "instrumental companions",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "conjunction with instrumental",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must the teacher do at pure dawn after the expiation and offerings?",
+   "premises": [
+    "Expiation and offerings precede dawn rite.",
+    "Teacher acts with image-protectors.",
+    "Dawn is pure."
+   ],
+   "inference": "The teacher proceeds at pure dawn accompanied by image-protectors after completing expiation and offerings.",
+   "uncertainties": [
+    "mūrtipaiḥ may denote image-protectors or images generally.",
+    "deśiko may denote initiator or teacher."
+   ],
+   "plain_english": "Then, at pure dawn, the teacher, with the image-protectors, proceeds."
+  }
+ ]
+}

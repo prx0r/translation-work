@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4050,
+   "rows": [
+    {
+     "surface": "madhyame",
+     "gloss": "in-the-middle",
+     "grounds": "locative of madhyama",
+     "morph": "loc.sg.m/n"
+    },
+    {
+     "surface": "jyeṣṭham",
+     "gloss": "eldest",
+     "grounds": "superlative adjective used substantively",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "is-called",
+     "grounds": "passive participle of ā-khyā",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "madhyamadhyamam",
+     "gloss": "middle-middle",
+     "grounds": "reduplicated compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass.-pres"
+    }
+   ],
+   "question": "Which positions in the arranged pot-circle are designated eldest and middle-middle?",
+   "premises": [
+    "five-by-five padas are arranged",
+    "eight pots are placed outside the main pot",
+    "in the middle the eldest is called",
+    "the middle-middle is said"
+   ],
+   "inference": "The ritual layout assigns distinct names to central and medial pot positions.",
+   "uncertainties": [
+    "The exact ritual referent of madhyamadhyamam is not explicit in this verse."
+   ],
+   "plain_english": "In the middle, the eldest is called; the middle-middle is said."
+  }
+ ]
+}

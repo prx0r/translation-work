@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4125,
+   "rows": [
+    {
+     "surface": "vikārabhakte",
+     "gloss": "in-sixteen-division",
+     "grounds": "compound locative form; exact internal sense uncertain",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "adhastād",
+     "gloss": "below",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "absolutive of tyaj",
+     "morph": "abs.-tyaj"
+    },
+    {
+     "surface": "bhāgadvayaṃ",
+     "gloss": "two-parts",
+     "grounds": "accusative object of tyaktvā",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the two lower parts be handled in the sixteen divisions?",
+   "premises": [
+    "two parts are left below",
+    "sixteen divisions are mentioned",
+    "construction follows likewise"
+   ],
+   "inference": "the lower two parts are omitted in the sixteen-division scheme",
+   "uncertainties": [
+    "exact referent of vikārabhakte uncertain",
+    "precise construction context uncertain"
+   ],
+   "plain_english": "Likewise, having left two parts below, or in the sixteen divisions."
+  }
+ ]
+}
