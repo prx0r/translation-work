@@ -51,6 +51,7 @@ SANDHI_PAIRS = {
     ("ḥ", "s"), ("s", "ḥ"), ("ḥ", "r"), ("r", "ḥ"),
     ("aa", "a"), ("a", "aa"),
     ("uu", "ū"), ("ū", "uu"), ("ii", "ī"), ("ī", "ii"),
+    ("ī", "y"), ("y", "ī"),
     ("m", "ñ"), ("ñ", "m"), ("tś", "cch"), ("cch", "tś"),
     # ā+i→e and ā+e→ai (vṛddhi) joints. The 2-char āi/āe side makes these
     # distinctive: a lone e/i swap is kept as needs-eyes (fork risk, e.g.
@@ -71,11 +72,41 @@ def _eva_window_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
         return None
     if sorted([a_frag, b_frag]) != ["e", "i"]:
         return None
-    a_win = a_full[max(0, i1 - 3):i2 + 1]
-    b_win = b_full[max(0, j1 - 3):j2 + 1]
-    pair = sorted([a_win, b_win])
-    if pair == ["aeva", "aiva"] or pair == ["āeva", "āiva"]:
+    # window: 1 char before the op + op + 2 chars after, on each side
+    a_win = a_full[max(0, i1 - 1):i2 + 2]
+    b_win = b_full[max(0, j1 - 1):j2 + 2]
+    if sorted([a_win, b_win]) in (["aeva", "aiva"], ["āeva", "āiva"]):
         return True, "ca+eva convention"
+    return None
+
+
+def _iti_window_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
+                   a_frag: str, b_frag: str, tag: str) -> tuple[bool, str] | None:
+    """ā+iti→eti joint: T1 splits (jātā + iti), witness joins (jāteti).
+    Accept a single-char ā~e swap ONLY when both sides are immediately
+    followed by 'ti'. Anything else stays needs-eyes."""
+    if tag != "replace":
+        return None
+    if sorted([a_frag, b_frag]) != ["e", "ā"]:
+        return None
+    if a_full[i2:i2 + 2] == "ti" and b_full[j2:j2 + 2] == "ti":
+        return True, "ā+iti→eti joint"
+    return None
+
+
+def _visarga_palatal_ok(a_full: str, b_full: str, i1: int, i2: int, j1: int, j2: int,
+                        a_frag: str, b_frag: str, tag: str) -> tuple[bool, str] | None:
+    """Visarga→ś before palatals: T1 citation -aḥ + ca/śa vs witness -aś+ca.
+    Accept ḥ~ś ONLY when the following char is identical on both sides and a
+    palatal (c/ś/j)."""
+    if tag != "replace":
+        return None
+    if sorted([a_frag, b_frag]) != ["ś", "ḥ"]:
+        return None
+    nxt_a = a_full[i2:i2 + 1]
+    nxt_b = b_full[j2:j2 + 1]
+    if nxt_a and nxt_a == nxt_b and nxt_a in "cśj":
+        return True, "visarga→ś before palatal"
     return None
 
 
@@ -123,6 +154,9 @@ def _frag_ok(a: str, b: str, tag: str) -> tuple[bool, str]:
 
 def classify(a: str, b: str) -> tuple[str, str]:
     """Joined-string diff -> ('sandhi-only', note) or ('needs-eyes', diff)."""
+    # '+' is T1 compound-boundary markup (never Sanskrit, never in source):
+    # strip it up front so opcodes align on content, not markup.
+    a, b = a.replace("+", ""), b.replace("+", "")
     sm = difflib.SequenceMatcher(None, a, b)
     classes = []
     bad = []
@@ -131,11 +165,16 @@ def classify(a: str, b: str) -> tuple[str, str]:
             continue
         af, bf = a[i1:i2], b[j1:j2]
         if tag == "replace":
-            eva = _eva_window_ok(a, b, i1, i2, j1, j2, af, bf, tag)
-            if eva is not None:
-                ok, name = eva
+            for checker in (_eva_window_ok, _iti_window_ok, _visarga_palatal_ok):
+                hit = checker(a, b, i1, i2, j1, j2, af, bf, tag)
+                if hit is not None:
+                    ok, name = hit
+                    (classes if ok else bad).append(name)
+                    break
+            else:
+                ok, name = _frag_ok(af, bf, tag)
                 (classes if ok else bad).append(name)
-                continue
+            continue
         ok, name = _frag_ok(af, bf, tag)
         (classes if ok else bad).append(name)
     if bad:
