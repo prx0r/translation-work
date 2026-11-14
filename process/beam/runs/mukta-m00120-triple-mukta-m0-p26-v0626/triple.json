@@ -1,0 +1,1122 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 626,
+   "rows": [
+    {
+     "surface": "ramaṇānte",
+     "gloss": "at-end-of-copulation",
+     "grounds": "compound ramaṇa+ante",
+     "morph": "indecl."
+    },
+    {
+     "surface": "maheśāna",
+     "gloss": "o-great-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "bhagavāri",
+     "gloss": "o-bhagavari",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pivenmudā",
+     "gloss": "let-him-drink",
+     "grounds": "piven + mudā fused",
+     "morph": "3.sg.act.impv + root pā"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "instrumental",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "What should the adept drink with joy at the end of copulation?",
+   "premises": [
+    "ramaṇānte marks end of copulation",
+    "pivenmudā commands drinking",
+    "mudā qualifies joy"
+   ],
+   "inference": "The verse prescribes joyful drinking after copulation.",
+   "uncertainties": [
+    "exact beverage unspecified"
+   ],
+   "plain_english": "At the end of copulation, O great lord, O Bhagavari, let him drink with joy."
+  },
+  {
+   "verse": 627,
+   "rows": [
+    {
+     "surface": "śaktiyantraṃ",
+     "gloss": "instrument-of-shakti",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "causal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māyā+prabodhakam",
+     "gloss": "maya-awakening",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is water to be known as the instrument of shakti?",
+   "premises": [
+    "śaktiyantraṃ is water",
+    "jñeyaṃ marks knowability",
+    "māyā+prabodhakam gives reason"
+   ],
+   "inference": "Water is the shakti instrument because it awakens maya.",
+   "uncertainties": [
+    "exact ritual use"
+   ],
+   "plain_english": "Water is to be known as the instrument of shakti, because it awakens maya."
+  },
+  {
+   "verse": 628,
+   "rows": [
+    {
+     "surface": "bhagavārīti",
+     "gloss": "bhagavari-thus",
+     "grounds": "quoted vocative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "toyañca",
+     "gloss": "and-water",
+     "grounds": "ca appended",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triguṇāktaṃ",
+     "gloss": "tinged-with-three-gunas",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tridevatā",
+     "gloss": "three-deities",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the water addressed to Bhagavari characterized?",
+   "premises": [
+    "toyañca is water",
+    "triguṇāktaṃ qualifies it",
+    "tridevatā names three deities"
+   ],
+   "inference": "The water is tinged with the three gunas and linked to three deities.",
+   "uncertainties": [
+    "which three deities"
+   ],
+   "plain_english": "Thus, O Bhagavari, the water is tinged with the three gunas and is the three deities."
+  },
+  {
+   "verse": 629,
+   "rows": [
+    {
+     "surface": "taddehaṃ",
+     "gloss": "that-body",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dehañca",
+     "gloss": "and-body",
+     "grounds": "ca appended",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṃdehañca",
+     "gloss": "and-male-body",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadāśivam",
+     "gloss": "sadhiva",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What bodies are identified with Sadashiva?",
+   "premises": [
+    "taddehaṃ is that body",
+    "mama dehañca adds my body",
+    "puṃdehañca adds male body",
+    "sadāśivam is the identification"
+   ],
+   "inference": "That body, my body, and the male body are Sadashiva.",
+   "uncertainties": [
+    "exact metaphysical scope"
+   ],
+   "plain_english": "That body, my body, and the male body are Sadashiva."
+  },
+  {
+   "verse": 630,
+   "rows": [
+    {
+     "surface": "sādhakastava",
+     "gloss": "adept-yours",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tulyo'pi",
+     "gloss": "equal-even",
+     "grounds": "tulya + api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devacakre",
+     "gloss": "in-deva-circle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "manohare",
+     "gloss": "charming",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the adept related to the charming deva circle?",
+   "premises": [
+    "sādhakastava is your adept",
+    "tulyo'pi means even equal",
+    "devacakre locates in deva circle",
+    "manohare qualifies charming"
+   ],
+   "inference": "Even your adept is equal in the charming deva circle.",
+   "uncertainties": [
+    "exact equality claim"
+   ],
+   "plain_english": "Even your adept is equal in the charming deva circle."
+  },
+  {
+   "verse": 631,
+   "rows": [
+    {
+     "surface": "devacakraṃ",
+     "gloss": "deva-circle",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devacakraṃ",
+     "gloss": "deva-circle",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devacakraṃ",
+     "gloss": "deva-circle",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "yuge",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is repeated concerning the deva circle in the kali age?",
+   "premises": [
+    "devacakraṃ repeated three times",
+    "kalau yuge locates kali age"
+   ],
+   "inference": "The deva circle is emphatically named in the kali age.",
+   "uncertainties": [
+    "reason for repetition"
+   ],
+   "plain_english": "Deva circle, deva circle, deva circle in the kali age."
+  },
+  {
+   "verse": 632,
+   "rows": [
+    {
+     "surface": "svecchayā",
+     "gloss": "by-own-will",
+     "grounds": "instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "gāna-pānañca",
+     "gloss": "song-and-drink",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maithunañca",
+     "gloss": "and-copulation",
+     "grounds": "ca appended",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sukhoditam",
+     "gloss": "pleasure-arisen",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What arises by one's own will in this practice?",
+   "premises": [
+    "svecchayā means by own will",
+    "gāna-pānañca and maithunañca are acts",
+    "sukhoditam qualifies pleasure"
+   ],
+   "inference": "Song, drink, and copulation arise as pleasure by one's own will.",
+   "uncertainties": [
+    "normative status"
+   ],
+   "plain_english": "By one's own will, song, drink, and copulation arise as pleasure."
+  },
+  {
+   "verse": 633,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "causal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "emphatic",
+     "morph": "indecl."
+    },
+    {
+     "surface": "maheśāna",
+     "gloss": "o-great-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "devacakraṃ",
+     "gloss": "deva-circle",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "yuge",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What conclusion follows for the deva circle in the kali age?",
+   "premises": [
+    "ata eva marks conclusion",
+    "maheśāna addresses lord",
+    "devacakraṃ kalau yuge locates"
+   ],
+   "inference": "Therefore, O great lord, the deva circle is in the kali age.",
+   "uncertainties": [
+    "exact doctrinal implication"
+   ],
+   "plain_english": "Therefore, O great lord, the deva circle is in the kali age."
+  },
+  {
+   "verse": 634,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusive",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīsarvānandanāthaviracite",
+     "gloss": "in-composed-by-srivallananda-natha",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvollāse",
+     "gloss": "in-sarvollasa",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viṃśatyullāsaḥ",
+     "gloss": "twentieth-ullasa",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What textual unit is named at this point?",
+   "premises": [
+    "iti closes section",
+    "śrīsarvānandanāthaviracite names composer",
+    "sarvollāse names work",
+    "viṃśatyullāsaḥ names twentieth ullasa"
+   ],
+   "inference": "This is the twentieth ullasa of Sarvollasa composed by Srivallananda Natha.",
+   "uncertainties": [
+    "exact author name"
+   ],
+   "plain_english": "Thus, in the Sarvollasa composed by Srivallananda Natha, this is the twentieth ullasa."
+  },
+  {
+   "verse": 635,
+   "rows": [
+    {
+     "surface": "nivṛtte",
+     "gloss": "when-bhairava-circle-ceased",
+     "grounds": "locative absolute",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhairavaucakre",
+     "gloss": "bhairava-circle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all-varnas",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "varṇāḥ",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What happens to all varnas when the bhairava circle ceases?",
+   "premises": [
+    "nivṛtte bhairavaucakre sets cessation",
+    "sarve varṇāḥ are all varnas",
+    "pṛthak pṛthak means separately"
+   ],
+   "inference": "When the bhairava circle ceases, all varnas become separate.",
+   "uncertainties": [
+    "exact ritual consequence"
+   ],
+   "plain_english": "When the bhairava circle ceases, all varnas become separate."
+  },
+  {
+   "verse": 636,
+   "rows": [
+    {
+     "surface": "narake",
+     "gloss": "in-hell",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "duṣkare",
+     "gloss": "difficult",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ghore",
+     "gloss": "terrible",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "patatyeva",
+     "gloss": "falls-indeed",
+     "grounds": "patati + eva",
+     "morph": "3.sg.act.ind + root pat"
+    },
+    {
+     "surface": "na",
+     "gloss": "no-doubt",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "saṃśayaḥ",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the certain result of falling into terrible hell?",
+   "premises": [
+    "narake duṣkare ghore describes hell",
+    "patatyeva means falls indeed",
+    "na saṃśayaḥ removes doubt"
+   ],
+   "inference": "One certainly falls into terrible hell; there is no doubt.",
+   "uncertainties": [
+    "who falls"
+   ],
+   "plain_english": "One certainly falls into terrible, difficult hell; there is no doubt."
+  },
+  {
+   "verse": 637,
+   "rows": [
+    {
+     "surface": "caṇḍīkopād",
+     "gloss": "from-chandi's-anger",
+     "grounds": "ablative",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "bhavennaṣṭaṃ",
+     "gloss": "becomes-lost",
+     "grounds": "bhavet + naṣṭaṃ",
+     "morph": "3.sg.act.opt + root bhū"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "beauty",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puṣṭirbalaṃ",
+     "gloss": "nourishment",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "balaṃ",
+     "gloss": "strength",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yaśaḥ",
+     "gloss": "fame",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is lost from Chandi's anger?",
+   "premises": [
+    "caṇḍīkopād is from Chandi's anger",
+    "bhavennaṣṭaṃ means becomes lost",
+    "kāntiḥ puṣṭirbalaṃ balaṃ yaśaḥ list losses"
+   ],
+   "inference": "Beauty, nourishment, strength, and fame are lost from Chandi's anger.",
+   "uncertainties": [
+    "exact causal chain"
+   ],
+   "plain_english": "From Chandi's anger, beauty, nourishment, strength, and fame become lost."
+  },
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "maithunasya",
+     "gloss": "of-copulation",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mahāsaukhyaṃ",
+     "gloss": "great-pleasure",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madyañca",
+     "gloss": "and-wine",
+     "grounds": "ca appended",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the seed of great pleasure in copulation?",
+   "premises": [
+    "maithunasya is of copulation",
+    "mahāsaukhyaṃ is great pleasure",
+    "bījaṃ is seed",
+    "madyañca adds wine"
+   ],
+   "inference": "Wine is the seed of great pleasure in copulation.",
+   "uncertainties": [
+    "metaphorical or literal"
+   ],
+   "plain_english": "O beautiful one, wine is the seed of great pleasure in copulation."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "madrūpāḥ",
+     "gloss": "my-form",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puruṣāḥ",
+     "gloss": "men",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tvadrūpā",
+     "gloss": "your-form",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yoṣitaḥ",
+     "gloss": "women",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are men and women related to the divine forms?",
+   "premises": [
+    "madrūpāḥ puruṣāḥ sarve means all men are my form",
+    "tvadrūpā yoṣitaḥ means women are your form",
+    "priye addresses beloved"
+   ],
+   "inference": "All men are my form and women are your form, O beloved.",
+   "uncertainties": [
+    "exact theological identity"
+   ],
+   "plain_english": "All men are my form and women are your form, O beloved."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "narāśca",
+     "gloss": "and-men",
+     "grounds": "ca appended",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "verb",
+     "morph": "3.pl.act.ind + root sthā"
+    },
+    {
+     "surface": "jātipāśena",
+     "gloss": "by-caste-bond",
+     "grounds": "instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vandhitāḥ",
+     "gloss": "bound",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do men stand bound?",
+   "premises": [
+    "tathā narāśca tiṣṭhanti says men stand thus",
+    "jātipāśena means by caste bond",
+    "vandhitāḥ means bound"
+   ],
+   "inference": "Men stand bound by the caste bond.",
+   "uncertainties": [
+    "exact social implication"
+   ],
+   "plain_english": "Thus men stand bound by the caste bond."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "śrīcakre'pi",
+     "gloss": "in-shri-chakra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pivenmadyaṃ",
+     "gloss": "let-drink-wine",
+     "grounds": "piven + madyaṃ",
+     "morph": "3.sg.act.impv + root pā"
+    },
+    {
+     "surface": "jātibhedaṃ",
+     "gloss": "caste-difference",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parityajan",
+     "gloss": "abandoning",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should one abandon while drinking wine in the shri chakra?",
+   "premises": [
+    "śrīcakre'pi locates in shri chakra",
+    "pivenmadyaṃ commands drinking wine",
+    "jātibhedaṃ parityajan means abandoning caste difference"
+   ],
+   "inference": "One should abandon caste difference while drinking wine in the shri chakra.",
+   "uncertainties": [
+    "ritual context"
+   ],
+   "plain_english": "In the shri chakra, let one drink wine, abandoning caste difference."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "sūkṣmasya",
+     "gloss": "of-subtle",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-whom",
+     "grounds": "instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive",
+     "morph": "indecl."
+    },
+    {
+     "surface": "naṣṭaṃ",
+     "gloss": "lost",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cotpattiḥ",
+     "gloss": "and-birth",
+     "grounds": "ca + utpattiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-whom",
+     "grounds": "instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who causes loss and birth of the subtle?",
+   "premises": [
+    "sūkṣmasya is of subtle",
+    "kena vā asks by whom",
+    "naṣṭaṃ cotpattiḥ punaḥ asks loss and birth again"
+   ],
+   "inference": "The verse asks by whom the subtle is lost and born again.",
+   "uncertainties": [
+    "no answer given"
+   ],
+   "plain_english": "By whom is the subtle lost, and by whom is it born again?"
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "hrāsavṛddhī",
+     "gloss": "decrease-increase",
+     "grounds": "compound",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "na",
+     "gloss": "if-not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ced",
+     "gloss": "ced",
+     "grounds": "conditional",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jāte",
+     "gloss": "born",
+     "grounds": "participle",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ramāyāṃ",
+     "gloss": "in-rama",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "niśināthavat",
+     "gloss": "like-moon-lord",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What follows if decrease and increase are not born in Rama?",
+   "premises": [
+    "hrāsavṛddhī are decrease and increase",
+    "na ced means if not",
+    "jāte ramāyāṃ means born in Rama",
+    "niśināthavat means like moon lord"
+   ],
+   "inference": "If decrease and increase are not born in Rama, it is like the moon lord.",
+   "uncertainties": [
+    "exact comparison"
+   ],
+   "plain_english": "If decrease and increase are not born in Rama, it is like the moon lord."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "jātibhraṣṭasya",
+     "gloss": "of-caste-fallen",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāntāpi",
+     "gloss": "wife-even",
+     "grounds": "api appended",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyabhuk",
+     "gloss": "middle-eater",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ramaṇī",
+     "gloss": "charming",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What is said about the wife of one fallen from caste?",
+   "premises": [
+    "jātibhraṣṭasya is of caste-fallen",
+    "kāntāpi is wife even",
+    "madhyabhuk ramaṇī describes her",
+    "śive addresses Shiva"
+   ],
+   "inference": "Even the wife of one fallen from caste is a middle-eating charming woman, O Shiva.",
+   "uncertainties": [
+    "exact ritual meaning"
+   ],
+   "plain_english": "O Shiva, even the wife of one fallen from caste is a middle-eating charming woman."
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "pūjayettāṃ",
+     "gloss": "let-worship-her",
+     "grounds": "pūjayet + tāṃ",
+     "morph": "3.sg.act.opt + root pūj"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ramaṇaṃ",
+     "gloss": "copulation",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "let-do",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt + root kṛ"
+    }
+   ],
+   "question": "What should be worshipped and what should not be done?",
+   "premises": [
+    "pūjayettāṃ commands worship her",
+    "maheśāni addresses goddess",
+    "ramaṇaṃ naiva kārayet forbids copulation"
+   ],
+   "inference": "Worship her, O great goddess, but do not perform copulation.",
+   "uncertainties": [
+    "ritual context"
+   ],
+   "plain_english": "Worship her, O great goddess, but do not perform copulation."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "śrīcakre",
+     "gloss": "in-shri-chakra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jātipāśaṃ",
+     "gloss": "caste-bond",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "let-abandon",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt + root tyaj"
+    }
+   ],
+   "question": "What should be abandoned in the shri chakra?",
+   "premises": [
+    "śrīcakre locates in shri chakra",
+    "parameśāni addresses supreme goddess",
+    "jātipāśaṃ parityajet commands abandoning caste bond"
+   ],
+   "inference": "In the shri chakra, let one abandon the caste bond, O supreme goddess.",
+   "uncertainties": [
+    "exact ritual scope"
+   ],
+   "plain_english": "In the shri chakra, O supreme goddess, let one abandon the caste bond."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "vṛthāpānaṃ",
+     "gloss": "vain-drinking",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavettasya",
+     "gloss": "becomes-his",
+     "grounds": "bhavet + tasya",
+     "morph": "3.sg.act.opt + root bhū"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jātināśakam",
+     "gloss": "caste-destroying",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is vain drinking said to be?",
+   "premises": [
+    "vṛthāpānaṃ is vain drinking",
+    "bhavettasya becomes his",
+    "kevalaṃ jātināśakam means only caste-destroying"
+   ],
+   "inference": "Vain drinking becomes only caste-destroying for him.",
+   "uncertainties": [
+    "exact social consequence"
+   ],
+   "plain_english": "Vain drinking becomes for him only caste-destroying."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "nānāvyañjanasaṃyuktam",
+     "gloss": "various-condiments-joined",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should food joined with various condiments be treated?",
+   "premises": [
+    "nānāvyañjanasaṃyuktam qualifies food",
+    "annaṃ is food",
+    "saṃsthāpya means having placed",
+    "yatnataḥ means carefully"
+   ],
+   "inference": "Food joined with various condiments should be carefully placed.",
+   "uncertainties": [
+    "exact ritual action"
+   ],
+   "plain_english": "Having carefully placed food joined with various condiments."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "bhakṣaṇañca",
+     "gloss": "eating",
+     "grounds": "ca appended",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśeṣañca",
+     "gloss": "and-special",
+     "grounds": "ca appended",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sandeśaṃ",
+     "gloss": "message",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What various things are mentioned for the dear one?",
+   "premises": [
+    "bhakṣaṇañca is eating",
+    "viśeṣañca is special",
+    "sandeśaṃ vividhaṃ are various messages",
+    "priye addresses dear"
+   ],
+   "inference": "Eating, special things, and various messages are for the dear one.",
+   "uncertainties": [
+    "exact list"
+   ],
+   "plain_english": "Eating, special things, and various messages, O dear one."
+  }
+ ]
+}

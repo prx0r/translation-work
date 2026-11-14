@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 996,
- "question": "What offerings adorn the rite with betel, aloes, musk, garments, and ornaments?",
+ "question": "Why are the mantra and power-rite considered vain?",
  "premises": [
-  "The compound lists ritual adornments.",
-  "They are instrumental."
+  "Its mantra is vain.",
+  "The power-rite is vain.",
+  "The reason is given as because."
  ],
- "inference": "The verse names adornments used in the rite.",
+ "inference": "The verse declares both mantra and power-rite ineffective under the stated condition.",
  "uncertainties": [
-  "Exact ritual use."
+  "The condition is supplied in the next verse."
  ],
- "plain_english": "With betel, aloes, musk, divine garments, and ornaments."
+ "plain_english": "Its mantra is known to be vain, and the power-rite is vain, because."
 }

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p33",
  "verse": 807,
- "question": "How is the great goddess pleased?",
+ "question": "What should be done with the brought items after dedicating them to the goddess?",
  "premises": [
-  "circumambulation and obeisances please",
-  "great goddess is object"
+  "The items are brought with effort.",
+  "They are dedicated to the goddess.",
+  "One should kill them."
  ],
- "inference": "The great goddess is pleased by circumambulation and obeisances.",
+ "inference": "The brought items are to be killed after dedication to the goddess.",
  "uncertainties": [
-  "ritual sequence implicit"
+  "Whether killing is literal or ritual."
  ],
- "plain_english": "Having pleased the great goddess with circumambulation and obeisances."
+ "plain_english": "Having brought them with effort, and having dedicated them to the goddess, one should kill them."
 }

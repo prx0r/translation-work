@@ -3,34 +3,29 @@
  "verse": 806,
  "rows": [
   {
-   "lemma": "tāvad",
+   "lemma": "ānīya",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "absolutive"
   },
   {
-   "lemma": "varṣa",
+   "lemma": "tāni",
+   "morph": "pron.acc.pl",
+   "grounds": "accusative plural"
+  },
+  {
+   "lemma": "yatnena",
+   "morph": "n.inst.sg",
+   "grounds": "instrumental"
+  },
+  {
+   "lemma": "devyāḥ",
+   "morph": "n.gen.sg",
+   "grounds": "genitive singular"
+  },
+  {
+   "lemma": "santuṣṭa+hetave",
    "morph": "compound",
-   "grounds": "compound member"
-  },
-  {
-   "lemma": "sahasrāṇi",
-   "morph": "nom.pl.n",
-   "grounds": "nominative plural"
-  },
-  {
-   "lemma": "brahma",
-   "morph": "loc.sg.m",
-   "grounds": "locative singular"
-  },
-  {
-   "lemma": "loke",
-   "morph": "loc.sg.m",
-   "grounds": "locative singular"
-  },
-  {
-   "lemma": "mahīyate",
-   "morph": "3.sg.pass-pres.√mah",
-   "grounds": "passive present third singular"
+   "grounds": "dative compound"
   }
  ]
 }

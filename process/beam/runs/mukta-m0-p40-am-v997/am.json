@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p40",
  "verse": 997,
- "question": "What is the time span from sunrise to next sunrise?",
+ "question": "What is absent in the left path if prohibition and rule are not found?",
  "premises": [
-  "It begins at sunrise.",
-  "It extends to next sunrise."
+  "Prohibition and rule are named.",
+  "They are absent in the left path.",
+  "The condition is if."
  ],
- "inference": "The verse defines a day span from sunrise to sunrise.",
+ "inference": "The verse states that the left path lacks prohibition and rule under the condition.",
  "uncertainties": [
-  "Ritual timing."
+  "The exact condition is elliptical."
  ],
- "plain_english": "Beginning at sunrise, again until next sunrise."
+ "plain_english": "If prohibition and rule are not in the left path, because."
 }

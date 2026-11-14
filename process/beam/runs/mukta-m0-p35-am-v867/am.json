@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p35",
  "verse": 867,
- "question": "What is declared in season yoga?",
+ "question": "Why must flower and water be plucked by that hand?",
  "premises": [
-  "Season yoga is named.",
-  "Great empire is named.",
-  "Is declared is stated."
+  "Flower is plucked by that hand",
+  "Water is plucked by that hand",
+  "Same hand is emphasized"
  ],
- "inference": "Great empire is declared in season yoga.",
+ "inference": "The verse requires both flower and water to be plucked by that hand.",
  "uncertainties": [
-  "Exact season is not specified."
+  "Identity of that hand"
  ],
- "plain_english": "In season yoga, O Maheśāni, great empire is declared."
+ "plain_english": "Flower and water plucked by that hand are specified."
 }

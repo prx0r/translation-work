@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "śrīcakre",
+     "gloss": "in-shri-chakra",
+     "grounds": "locative of śrīcakra; no sandhi fusion marker",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sthāpayeddevi",
+     "gloss": "let-place-o-goddess",
+     "grounds": "fused optative sthāpayet plus vocative devi",
+     "morph": "3.sg.act.opt.+voc.sg.f"
+    },
+    {
+     "surface": "devatātṛptihetave",
+     "gloss": "for-deity-satisfaction-cause",
+     "grounds": "dative of hetu in compound devatā-tṛpti-hetu",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "What should be placed in the shri-chakra for deity satisfaction?",
+   "premises": [
+    "Offerings are arranged with care.",
+    "Placement occurs in shri-chakra.",
+    "Purpose is deity satisfaction."
+   ],
+   "inference": "The ritual placement in shri-chakra aims at deity satisfaction.",
+   "uncertainties": [
+    "The exact object to place is not explicit in this verse."
+   ],
+   "plain_english": "Place it in the shri-chakra, O goddess, for the satisfaction of the deity."
+  }
+ ]
+}

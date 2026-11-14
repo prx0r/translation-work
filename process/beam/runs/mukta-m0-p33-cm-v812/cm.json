@@ -3,44 +3,39 @@
  "verse": 812,
  "rows": [
   {
-   "lemma": "svāhā",
+   "lemma": "devatā+arthe",
+   "morph": "compound",
+   "grounds": "locative compound"
+  },
+  {
+   "lemma": "dvija+arthe",
+   "morph": "compound",
+   "grounds": "locative compound"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "disjunctive"
   },
   {
-   "lemma": "anta",
-   "morph": "compound",
-   "grounds": "compound member"
+   "lemma": "hatvā",
+   "morph": "(indecl.)",
+   "grounds": "absolutive"
   },
   {
-   "lemma": "mūla",
-   "morph": "compound",
-   "grounds": "compound member"
+   "lemma": "pāpaiḥ",
+   "morph": "n.inst.pl",
+   "grounds": "instrumental plural"
   },
   {
-   "lemma": "mantreṇa",
-   "morph": "inst.sg.m",
-   "grounds": "instrumental singular"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "daśa",
-   "morph": "compound",
-   "grounds": "compound member"
-  },
-  {
-   "lemma": "āṃsaṃ",
-   "morph": "acc.sg.m",
-   "grounds": "accusative singular"
-  },
-  {
-   "lemma": "homam",
-   "morph": "acc.sg.m",
-   "grounds": "accusative singular"
-  },
-  {
-   "lemma": "ācaret",
-   "morph": "3.sg.act-opt.√car",
-   "grounds": "optative third singular"
+   "lemma": "lipyate",
+   "morph": "3.sg.pass-pres+root lip",
+   "grounds": "passive present"
   }
  ]
 }

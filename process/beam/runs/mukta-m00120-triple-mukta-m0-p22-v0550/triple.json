@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "dhūrtaṃ",
+     "gloss": "rogue",
+     "grounds": "accusative singular masculine of dhūrta",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaṭhaṃ",
+     "gloss": "deceitful",
+     "grounds": "accusative singular masculine of śaṭha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cumbakam",
+     "gloss": "flatterer",
+     "grounds": "accusative singular masculine of cumbaka",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukharaṃ",
+     "gloss": "talkative",
+     "grounds": "accusative singular masculine of mukhara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dāmbhikaṃ",
+     "gloss": "hypocritical",
+     "grounds": "accusative singular masculine of dāmbhika",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative singular masculine of Śiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which six traits identify the paśu grade in this tantric classification?",
+   "premises": [
+    "Paśu is contrasted with vīra.",
+    "The verse lists six traits.",
+    "The traits are addressed to Śiva."
+   ],
+   "inference": "The listed traits characterize the paśu grade.",
+   "uncertainties": [
+    "Exact grammatical case of śive is uncertain.",
+    "Whether cumbakam means flatterer or flattering is uncertain."
+   ],
+   "plain_english": "Rogue, deceitful, flattering, and talkative, hypocritical, O Śiva."
+  }
+ ]
+}

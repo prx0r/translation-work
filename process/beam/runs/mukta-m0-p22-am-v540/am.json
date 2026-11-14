@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p22",
  "verse": 540,
- "question": "What kinds of poison from drinking may be destroyed by this rite?",
+ "question": "Why should revelation not be made, O great goddess?",
  "premises": [
-  "Poison may be stationary or moving.",
-  "The poison is taken by drinking.",
-  "The rite may destroy it."
+  "therefore revelation is rejected",
+  "great goddess is addressed",
+  "making revelation is prohibited"
  ],
- "inference": "Therefore the rite may destroy both stationary and moving poison taken by drinking.",
- "uncertainties": [],
- "plain_english": "It may destroy stationary or moving poison arising from drinking poison."
+ "inference": "The verse prohibits causing revelation.",
+ "uncertainties": [
+  "kārayet may mean cause or perform"
+ ],
+ "plain_english": "Therefore, O great goddess, one should indeed not make revelation."
 }
