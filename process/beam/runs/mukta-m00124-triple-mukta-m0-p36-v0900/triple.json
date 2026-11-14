@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "trikālaṃ",
+     "gloss": "at-three-times",
+     "grounds": "adverbial accusative indicating frequency at three occasions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bali+homaṃ",
+     "gloss": "offering-and-oblation",
+     "grounds": "copulative compound denoting the ritual acts to be performed",
+     "morph": "compound:bali+offering+homa+oblation (m.acc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting or adding the prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśat+vādya+saṃyutam",
+     "gloss": "accompanied-by-fifty-instruments",
+     "grounds": "compound describing the bali-homa as joined with fifty musical instruments",
+     "morph": "compound:pañcāśat+fifty+vādya+instrument+saṃyuta+accompanied (m.acc.sg)"
+    }
+   ],
+   "question": "At what frequency and with what musical accompaniment must the offering and oblation be performed?",
+   "premises": [
+    "The ritual action prescribed is the offering and oblation.",
+    "This offering and oblation is to be performed at three times.",
+    "The performance must be accompanied by fifty musical instruments."
+   ],
+   "inference": "The offering and oblation should be carried out three times together with accompaniment by fifty instruments.",
+   "uncertainties": [
+    "The exact three times intended may depend on the preceding context of the three junctures."
+   ],
+   "plain_english": "One should perform the offering and oblation three times, accompanied by fifty musical instruments."
+  }
+ ]
+}

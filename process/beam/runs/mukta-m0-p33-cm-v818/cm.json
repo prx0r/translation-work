@@ -3,34 +3,39 @@
  "verse": 818,
  "rows": [
   {
-   "lemma": "tasmāt",
+   "lemma": "dharmo",
+   "morph": "m.nom.sg",
+   "grounds": "first member of the quartet"
+  },
+  {
+   "lemma": "jñānaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "second member of the quartet"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "causal adverb"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "praśastakaṃ",
-   "morph": "adj",
-   "grounds": "nominative"
+   "lemma": "vairāgyaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "third member of the quartet"
   },
   {
-   "lemma": "jñeyaṃ",
-   "morph": "(indecl.)",
-   "grounds": "gerundive"
-  },
-  {
-   "lemma": "dagdhaṃ",
-   "morph": "adj",
-   "grounds": "nominative participle"
-  },
-  {
-   "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "particle"
-  },
-  {
-   "lemma": "vara+varṇini",
+   "lemma": "tvaiśvaryaṃ",
    "morph": "compound",
-   "grounds": "vocative compound"
+   "grounds": "fourth member with conjunction; internal sandhi tu+aiśvaryam"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "catuṣṭayam",
+   "morph": "n.nom.sg",
+   "grounds": "group of four"
   }
  ]
 }
