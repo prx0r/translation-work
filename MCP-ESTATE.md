@@ -153,8 +153,14 @@ curl -sS -X PUT "https://api.cloudflare.com/client/v4/accounts/$ACC/cfd_tunnel/$
 
 ## 7. Auth, safety, caveats
 
-- **Auth:** none yet (open MCP reads; write tools are gated by the factories).
-  Before wide sharing: Cloudflare Access or a bearer token on the hostnames.
+- **Auth:** `shastra` and `book` are open MCP reads (write tools gated by the
+  factories). **`video.svatantrya.net/mcp` is behind Cloudflare Access** — an
+  unauthenticated `initialize` returns `HTTP 401` with
+  `www-authenticate: Bearer resource_metadata=…/.well-known/oauth-protected-resource`.
+  To connect ChatGPT you must either (a) add an Access **bypass/service-token**
+  policy for `/mcp`, or (b) complete the OAuth flow the challenge advertises.
+  This is the one endpoint not yet plug-and-play for ChatGPT connectors.
+  Before wide sharing: Cloudflare Access or a bearer token on the other hostnames.
 - **No auto-publish/sign/ship:** `promote` is machine-proposed; video publish/launch
   refuse over MCP unless `VF_MCP_ALLOW_WRITE=1` (deliberately). Human disposes.
 - **WAF:** Cloudflare edge-filters the bare `Python-urllib` default UA (403).
