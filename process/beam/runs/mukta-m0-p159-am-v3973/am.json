@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p159",
  "verse": 3973,
- "question": "What kind of son can be obtained through the grace of Goddess Ṣaṣṭhī?",
+ "question": "Which bodily locations are named for placement?",
  "premises": [
-  "The grace of Goddess Ṣaṣṭhī is the cause",
-  "The son obtained is glorious",
-  "The son obtained is a lord among kings"
+  "savyakaṇṭhastanataṭe is left neck-breast bank",
+  "hṛdi is heart",
+  "nābhau is navel",
+  "guhyake is secret place"
  ],
- "inference": "By the grace of Goddess Ṣaṣṭhī, one obtains a glorious son who is a lord among kings.",
- "uncertainties": [],
- "plain_english": "By the grace of Goddess Ṣaṣṭhī, one obtains a glorious son, a lord among kings."
+ "inference": "The named locations are left neck-breast bank, heart, navel, and secret place.",
+ "uncertainties": [
+  "exact placement order implicit"
+ ],
+ "plain_english": "Left neck-breast bank, heart, navel, and secret place."
 }

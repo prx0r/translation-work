@@ -3,24 +3,29 @@
  "verse": 3900,
  "rows": [
   {
-   "lemma": "praṇata+ārtti+haro",
-   "morph": "compound: praṇata+ārtti+hara, m.nom.sg",
-   "grounds": "compound of praṇata (bowed), ārtti (distress), and hara (remover)"
+   "lemma": "vihāya",
+   "morph": "(indecl.)",
+   "grounds": "gerund of vi-hā; introduces abandonment of straightness"
   },
   {
-   "lemma": "vādī",
-   "morph": "m.nom.sg",
-   "grounds": "one who speaks or articulates"
+   "lemma": "ṛjutāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "accusative object of vihāya"
   },
   {
-   "lemma": "siddha+kāryo",
-   "morph": "compound: siddha+kārya, m.nom.sg",
-   "grounds": "compound of siddha (accomplished) and kārya (task)"
+   "lemma": "yāti",
+   "morph": "verb 3.sg.act-pres root yā",
+   "grounds": "main verb of the clause"
   },
   {
-   "lemma": "jana+īśvaraḥ",
-   "morph": "compound: jana+īśvara, m.nom.sg",
-   "grounds": "compound of jana (people) and īśvara (lord)"
+   "lemma": "svecchādaṇḍāhatā",
+   "morph": "f.nom.sg",
+   "grounds": "compound adjective modifying satī; struck by staff of own will"
+  },
+  {
+   "lemma": "satī",
+   "morph": "f.nom.sg",
+   "grounds": "present participle of as; subject of yāti"
   }
  ]
 }

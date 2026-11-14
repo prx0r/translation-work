@@ -3,24 +3,34 @@
  "verse": 3970,
  "rows": [
   {
-   "lemma": "deva+rakṣaṇa+kāriṇyai",
-   "morph": "compound: deva+rakṣaṇa+kāriṇī (f.dat.sg)",
-   "grounds": "epithet of the goddess; compound"
+   "lemma": "śubhāśubhāni",
+   "morph": "nom/acc.pl.n",
+   "grounds": "subject"
   },
   {
-   "lemma": "ṣaṣṭhī+devyai",
-   "morph": "compound: ṣaṣṭhī+devī (f.dat.sg)",
-   "grounds": "recipient of salutation; compound"
+   "lemma": "sarvāṇi",
+   "morph": "nom/acc.pl.n",
+   "grounds": "quantifier"
   },
   {
-   "lemma": "namaḥ",
+   "lemma": "phalanti",
+   "morph": "3.pl.act-pres root-phal",
+   "grounds": "main verb"
+  },
+  {
+   "lemma": "evam",
    "morph": "(indecl.)",
-   "grounds": "act of reverence"
+   "grounds": "adverb"
   },
   {
-   "lemma": "namaḥ",
+   "lemma": "kṛte",
+   "morph": "loc.sg.n",
+   "grounds": "locative participle"
+  },
+  {
+   "lemma": "dhruvam",
    "morph": "(indecl.)",
-   "grounds": "repeated act of reverence"
+   "grounds": "adverb"
   }
  ]
 }
