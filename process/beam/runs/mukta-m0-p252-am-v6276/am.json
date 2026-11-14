@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p252",
  "verse": 6276,
- "question": "Which additional types of wood are specified for constructing the ritual seat?",
+ "question": "What ritual actions must follow reflection to activate the mantra?",
  "premises": [
-  "Likuca wood is included",
-  "Mango wood is included",
-  "Kutaja and katphala woods are likewise included"
+  "Reflection precedes the ritual handling of the mantra.",
+  "The practitioner should take the mantra in their own hand.",
+  "The practitioner should recite that mantra."
  ],
- "inference": "The ritual seat may be made using likuca, mango, kutaja, and katphala woods.",
- "uncertainties": [],
- "plain_english": "Likuca and mango, and likewise kutaja and katphala."
+ "inference": "After mental reflection, one secures and activates the mantra by taking it in hand and reciting it.",
+ "uncertainties": [
+  "The exact referent of taking the mantra in hand is not specified."
+ ],
+ "plain_english": "After reflecting, one should take that mantra in one's own hand and recite it."
 }

@@ -1,0 +1,912 @@
+{
+ "song": "mukta-m0-p254",
+ "items": [
+  {
+   "verse": 6326,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of devotion accompanying the act",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "devadevaṃ",
+     "gloss": "god-of-gods",
+     "grounds": "epithet of the supreme deity addressed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasannadhīḥ",
+     "gloss": "with-serene-mind",
+     "grounds": "describes the mental state of the practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mental attitude should accompany devotion to the god of gods?",
+   "premises": [
+    "Devotion is directed toward the god of gods",
+    "The practitioner acts with a serene mind"
+   ],
+   "inference": "Proper worship requires both devotion and mental serenity",
+   "uncertainties": [],
+   "plain_english": "With devotion and a serene mind, one should approach the god of gods."
+  },
+  {
+   "verse": 6327,
+   "rows": [
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "refers to the ritual method being taught",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "points to the procedure about to be described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressed to the listener",
+     "morph": "2.sg.act-imperative √śru"
+    },
+    {
+     "surface": "vaidikatarpaṇam",
+     "gloss": "vedic-libation",
+     "grounds": "compound naming the ritual offering according to Vedic form",
+     "morph": "n.acc.sg (vaidika+tarpaṇa)"
+    }
+   ],
+   "question": "What specific ritual procedure is the listener instructed to hear?",
+   "premises": [
+    "A procedure is being introduced",
+    "The listener is commanded to hear",
+    "The procedure concerns Vedic libation"
+   ],
+   "inference": "The teaching now turns to the method of Vedic libation",
+   "uncertainties": [],
+   "plain_english": "And hear this procedure: the Vedic libation."
+  },
+  {
+   "verse": 6328,
+   "rows": [
+    {
+     "surface": "brūyāt",
+     "gloss": "should-say",
+     "grounds": "prescriptive optative for utterance",
+     "morph": "3.sg.act-optative √brū"
+    },
+    {
+     "surface": "vāmācārī",
+     "gloss": "left-hand-practitioner",
+     "grounds": "compound identifying a practitioner of the left-hand path",
+     "morph": "m.nom.sg (vāma+ācārī)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "ritual salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "prescriptive optative for utterance",
+     "morph": "3.sg.act-optative √vad"
+    }
+   ],
+   "question": "What utterance is prescribed for a left-hand practitioner during the rite?",
+   "premises": [
+    "A left-hand practitioner is the subject",
+    "The practitioner should speak prescribed words",
+    "The word of obeisance is specified"
+   ],
+   "inference": "The left-hand practitioner should utter the formula of obeisance",
+   "uncertainties": [],
+   "plain_english": "The left-hand practitioner should say 'namo'."
+  },
+  {
+   "verse": 6329,
+   "rows": [
+    {
+     "surface": "prathama",
+     "gloss": "first",
+     "grounds": "indicates the initial stage of the sequence",
+     "morph": "(indecl./adverbial)"
+    },
+    {
+     "surface": "daśavāraṃ",
+     "gloss": "ten-times",
+     "grounds": "compound specifying repetition count",
+     "morph": "(indecl.) (daśa+vāra)"
+    },
+    {
+     "surface": "pratarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "prescriptive optative for performing libation",
+     "morph": "3.sg.act-optative pra-√tṛp"
+    }
+   ],
+   "question": "How many times must the initial libation offering be performed?",
+   "premises": [
+    "An initial action is prescribed",
+    "The action is libation",
+    "The repetition count is ten times"
+   ],
+   "inference": "The first libation should be offered ten times",
+   "uncertainties": [],
+   "plain_english": "First, one should offer the libation ten times."
+  },
+  {
+   "verse": 6330,
+   "rows": [
+    {
+     "surface": "samuccārya",
+     "gloss": "having-pronounced",
+     "grounds": "absolutive indicating prior utterance",
+     "morph": "(indecl.) absolutive sam-ud-√car"
+    },
+    {
+     "surface": "mūlamantrasya",
+     "gloss": "of-root-mantra",
+     "grounds": "compound referring to the foundational mantra",
+     "morph": "m.gen.sg (mūla+mantra)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "prescriptive optative for performing libation",
+     "morph": "3.sg.act-optative √tṛp"
+    }
+   ],
+   "question": "What must be pronounced before performing the next libation offering?",
+   "premises": [
+    "Libation is to be performed",
+    "Pronunciation precedes the libation",
+    "The root mantra is the object pronounced"
+   ],
+   "inference": "One should offer libation after pronouncing the root mantra",
+   "uncertainties": [],
+   "plain_english": "Having pronounced the root mantra, one should offer the libation."
+  },
+  {
+   "verse": 6331,
+   "rows": [
+    {
+     "surface": "ṣaṭpaṃcasaṃkhyākaṃ",
+     "gloss": "six-five-numbered",
+     "grounds": "compound indicating a count of six and five",
+     "morph": "n.nom.sg (ṣaṭ+pañca+saṃkhyāka)"
+    },
+    {
+     "surface": "catuṣkantarpaṇam",
+     "gloss": "set-of-four-libation",
+     "grounds": "compound naming a libation in sets of four",
+     "morph": "n.nom.sg (catuṣka+tarpaṇa)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative indicating result or requirement",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What numerical structure should the set-of-four libation follow?",
+   "premises": [
+    "A set-of-four libation is prescribed",
+    "Its count is specified as six and five",
+    "This structure should be realized"
+   ],
+   "inference": "The set-of-four libation should be performed in a six-and-five count",
+   "uncertainties": [
+    "Exact distribution of the six-and-five count within the sets is unclear"
+   ],
+   "plain_english": "The set-of-four libation should be in a count of six and five."
+  },
+  {
+   "verse": 6332,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates repetition of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental referring to use of the root mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "prescriptive optative for performing libation",
+     "morph": "3.sg.act-optative √tṛp"
+    }
+   ],
+   "question": "With what formula should the libation be offered again?",
+   "premises": [
+    "The libation action is repeated",
+    "The root mantra is used as the means",
+    "The offering is prescribed again"
+   ],
+   "inference": "The libation should again be offered with the root mantra",
+   "uncertainties": [],
+   "plain_english": "Again, one should offer the libation with the root mantra."
+  },
+  {
+   "verse": 6333,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlam",
+     "gloss": "root-mantra",
+     "grounds": "refers to the root mantra in the sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative indicating occurrence",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the described pattern",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkam",
+     "gloss": "set-of-four",
+     "grounds": "names the grouped libation unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpaṇam",
+     "gloss": "libation",
+     "grounds": "names the ritual offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the set-of-four libation structured when the root mantra recurs?",
+   "premises": [
+    "The root mantra occurs again in the sequence",
+    "The pattern is summarized as thus",
+    "A set-of-four libation is included"
+   ],
+   "inference": "The sequence again includes the root mantra, forming a set-of-four libation",
+   "uncertainties": [],
+   "plain_english": "Again the root mantra should occur; thus there is also a set-of-four libation."
+  },
+  {
+   "verse": 6334,
+   "rows": [
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental specifying the mantra used",
+     "morph": "m.ins.sg (mūla+mantra)"
+    },
+    {
+     "surface": "catuṣkājinasaṃkhyakam",
+     "gloss": "set-of-four-ajina-numbered",
+     "grounds": "compound indicating a set-of-four count with an unclear element 'ajina'",
+     "morph": "n.nom.sg (catuṣka+ajina+saṃkhyaka)"
+    }
+   ],
+   "question": "What numbered set-of-four libation is performed with the root mantra?",
+   "premises": [
+    "The root mantra is the instrument",
+    "A set-of-four numbered offering is specified",
+    "The compound includes an additional element ajina"
+   ],
+   "inference": "A set-of-four libation of a specified count is performed with the root mantra",
+   "uncertainties": [
+    "The meaning of 'ajina' in catuṣkājinasaṃkhyakam is unclear"
+   ],
+   "plain_english": "With the root mantra, there is a set-of-four libation of the specified count."
+  },
+  {
+   "verse": 6335,
+   "rows": [
+    {
+     "surface": "tābhyām",
+     "gloss": "of-those-two",
+     "grounds": "refers back to two previously mentioned elements",
+     "morph": "n.ins.dual"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating position between them",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental specifying use of the root mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "cāṣṭadhā",
+     "gloss": "and-eightfold",
+     "grounds": "compound particle plus adverb indicating eightfold division",
+     "morph": "(indecl.) (ca+aṣṭadhā)"
+    }
+   ],
+   "question": "How is the root mantra applied between the two previously mentioned elements?",
+   "premises": [
+    "Two prior elements are referenced",
+    "The root mantra is used in the middle",
+    "The application is eightfold"
+   ],
+   "inference": "Between those two, the root mantra is applied eightfold",
+   "uncertainties": [
+    "The identity of 'those two' depends on the preceding context"
+   ],
+   "plain_english": "Between those two, one should apply the root mantra eightfold."
+  },
+  {
+   "verse": 6336,
+   "rows": [
+    {
+     "surface": "bhūbhūcatuṣkāṃkaiḥ",
+     "gloss": "earth-earth-set-of-four-marks",
+     "grounds": "compound describing markers or units involving earth and sets of four",
+     "morph": "m.ins.pl (bhū+bhū+catuṣka+aṅka)"
+    },
+    {
+     "surface": "vedavedakṛtaiḥ",
+     "gloss": "veda-veda-made",
+     "grounds": "compound indicating something formed by Veda-related elements",
+     "morph": "m.ins.pl (veda+veda+kṛta)"
+    },
+    {
+     "surface": "mitam",
+     "gloss": "measured",
+     "grounds": "past participle indicating the extent or measure",
+     "morph": "n.nom.sg past-participle √mā"
+    }
+   ],
+   "question": "By what markers is the ritual measure determined in this stage?",
+   "premises": [
+    "The measure is specified as determined",
+    "Markers involving earth and sets of four are used",
+    "Elements made by Veda-related factors are used"
+   ],
+   "inference": "The measure is determined by earth-set-of-four marks and Veda-made elements",
+   "uncertainties": [
+    "The precise technical meaning of bhūbhūcatuṣkāṃkaiḥ and vedavedakṛtaiḥ is unclear"
+   ],
+   "plain_english": "It is measured by the earth-earth set-of-four marks and by those made of Veda and Veda."
+  },
+  {
+   "verse": 6337,
+   "rows": [
+    {
+     "surface": "santarpya",
+     "gloss": "having-satisfied",
+     "grounds": "absolutive indicating completion of libation",
+     "morph": "(indecl.) absolutive sam-√tṛp"
+    },
+    {
+     "surface": "mantravarṇaiḥ",
+     "gloss": "with-mantra-syllables",
+     "grounds": "compound specifying syllables of the mantra as means",
+     "morph": "m.ins.pl (mantra+varṇa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "prescriptive optative for performing libation",
+     "morph": "3.sg.act-optative √tṛp"
+    }
+   ],
+   "question": "With what components should libation be performed after satisfying the deities?",
+   "premises": [
+    "A prior act of satisfying has been completed",
+    "Libation is to be performed again",
+    "Mantra syllables are the means"
+   ],
+   "inference": "After satisfying, one should offer libation with the mantra syllables",
+   "uncertainties": [],
+   "plain_english": "Having satisfied them, one should also offer libation with the mantra syllables."
+  },
+  {
+   "verse": 6338,
+   "rows": [
+    {
+     "surface": "antarāntara",
+     "gloss": "between-between",
+     "grounds": "reduplicated form indicating repeated intervals",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental specifying use of the root mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "names the ritual result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catuṣkikā",
+     "gloss": "of-set-of-four",
+     "grounds": "adjective qualifying the accomplishment as fourfold",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual accomplishment results from interposing the root mantra at intervals?",
+   "premises": [
+    "The root mantra is used at repeated intervals",
+    "The method is summarized as thus",
+    "An accomplishment of a fourfold kind is named"
+   ],
+   "inference": "Interposing the root mantra at intervals yields a fourfold accomplishment",
+   "uncertainties": [],
+   "plain_english": "And by interposing the root mantra at intervals, thus there is the fourfold accomplishment."
+  },
+  {
+   "verse": 6339,
+   "rows": [
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyudhānāṃ",
+     "gloss": "of-weapons",
+     "grounds": "refers to ritual weapons or implements",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "order",
+     "grounds": "names the sequence to be followed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "points to the order about to be stated",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence is now introduced regarding the ritual weapons?",
+   "premises": [
+    "Weapons are the subject matter",
+    "An order or sequence is named",
+    "This specific order is being introduced"
+   ],
+   "inference": "The text now introduces the order of the weapons",
+   "uncertainties": [],
+   "plain_english": "Indeed, this is the order of the weapons."
+  },
+  {
+   "verse": 6340,
+   "rows": [
+    {
+     "surface": "pravadet",
+     "gloss": "should-utter",
+     "grounds": "prescriptive optative for recitation",
+     "morph": "3.sg.act-optative pra-√vad"
+    },
+    {
+     "surface": "amukāya",
+     "gloss": "to-so-and-so",
+     "grounds": "placeholder dative for the name of the deity or recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "ritual salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "thus",
+     "grounds": "particle marking the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the formula",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What formulaic utterance should be recited for the named recipient?",
+   "premises": [
+    "An utterance is prescribed",
+    "A placeholder recipient is addressed",
+    "The formula includes obeisance"
+   ],
+   "inference": "One should utter the formula 'obeisance to so-and-so'",
+   "uncertainties": [],
+   "plain_english": "One should utter: 'Obeisance to so-and-so.'"
+  },
+  {
+   "verse": 6341,
+   "rows": [
+    {
+     "surface": "vasudhāṃ",
+     "gloss": "earth",
+     "grounds": "names the earth as an element or recipient",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gam",
+     "gloss": "gam",
+     "grounds": "bīja syllable, transliterated as mantra material",
+     "morph": "(indecl.) mantra-syllable"
+    }
+   ],
+   "question": "Which bīja syllable is associated with the earth in this sequence?",
+   "premises": [
+    "The earth is named",
+    "A bīja syllable is given",
+    "The syllable is gam"
+   ],
+   "inference": "The syllable gam is associated with the earth",
+   "uncertainties": [],
+   "plain_english": "And the earth, and the syllable gam."
+  },
+  {
+   "verse": 6342,
+   "rows": [
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "names śakti as an element in the sequence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇabandhaṃ",
+     "gloss": "breath-bond",
+     "grounds": "compound naming a restraint or bond of breath",
+     "morph": "m.acc.sg (prāṇa+bandha)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "prescriptive optative for utterance",
+     "morph": "3.sg.act-optative √vad"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates the next step in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What elements should be uttered next after the preceding syllable?",
+   "premises": [
+    "A sequence is continuing",
+    "Power and breath-bond are named",
+    "Their utterance is prescribed"
+   ],
+   "inference": "One should then utter power and the breath-bond",
+   "uncertainties": [],
+   "plain_english": "Then one should say power and the breath-bond."
+  },
+  {
+   "verse": 6343,
+   "rows": [
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "past participle indicating prior statement",
+     "morph": "m.nom.pl past-participle pra-√vac"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "refers to the previously mentioned items",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "names of the items to be specified",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "speaker identifying themselves",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "brūve",
+     "gloss": "say",
+     "grounds": "present tense declaration by the speaker",
+     "morph": "1.sg.mid-present √brū"
+    }
+   ],
+   "question": "Who undertakes to state the names of the previously declared items?",
+   "premises": [
+    "Certain items have been declared",
+    "Their names are to be given",
+    "The speaker declares their intention to state them"
+   ],
+   "inference": "The speaker undertakes to state the names of those declared items",
+   "uncertainties": [],
+   "plain_english": "I now state the names of those that have been declared."
+  },
+  {
+   "verse": 6344,
+   "rows": [
+    {
+     "surface": "cakrābjapāśotpalāni",
+     "gloss": "discus-lotus-noose-blue-lotus",
+     "grounds": "compound listing ritual implements or attributes",
+     "morph": "n.nom.pl (cakra+abja+pāśa+utpala)"
+    },
+    {
+     "surface": "kalabhāgraviṣāṇayuk",
+     "gloss": "with-elephant-calf-tip-horn",
+     "grounds": "compound indicating possession of an elephant-calf's horn tip",
+     "morph": "m.nom.sg (kalabha+agra+viṣāṇa+yuj)"
+    }
+   ],
+   "question": "Which implements or attributes are enumerated in this list of names?",
+   "premises": [
+    "A list of items is being given",
+    "Discus, lotus, noose, and blue lotus are named",
+    "An item with an elephant-calf horn tip is included"
+   ],
+   "inference": "The enumerated items include discus, lotus, noose, blue lotus, and one bearing an elephant-calf horn tip",
+   "uncertainties": [
+    "The exact referent of kalabhāgraviṣāṇayuk is context-dependent"
+   ],
+   "plain_english": "The discus, lotus, noose, and blue lotus, and that which bears the tip of an elephant-calf's horn."
+  },
+  {
+   "verse": 6345,
+   "rows": [
+    {
+     "surface": "dvāviṃśasaṃkhyākaṃ",
+     "gloss": "twenty-two-numbered",
+     "grounds": "compound specifying a count of twenty-two",
+     "morph": "n.nom.sg (dvāviṃśa+saṃkhyāka)"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "names the ritual offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "indicates the resulting count or formation",
+     "morph": "3.sg.mid-present pra-√jan"
+    }
+   ],
+   "question": "What total number of libations results from the described procedure?",
+   "premises": [
+    "A libation procedure is being summarized",
+    "The resulting count is twenty-two",
+    "This count is produced by the procedure"
+   ],
+   "inference": "The procedure produces a libation count of twenty-two",
+   "uncertainties": [],
+   "plain_english": "And a libation numbering twenty-two is produced."
+  },
+  {
+   "verse": 6346,
+   "rows": [
+    {
+     "surface": "mūlāntarāntaraḥ",
+     "gloss": "root-between-between",
+     "grounds": "compound indicating the root mantra placed at repeated intervals",
+     "morph": "m.nom.sg (mūla+antara+antara)"
+    }
+   ],
+   "question": "How is the root mantra positioned within the libation sequence?",
+   "premises": [
+    "The root mantra is referenced",
+    "It is placed at intervals",
+    "The placement is repeated between elements"
+   ],
+   "inference": "The root mantra is interposed repeatedly between elements",
+   "uncertainties": [
+    "The full syntactic role depends on the surrounding verses"
+   ],
+   "plain_english": "With the root mantra interposed again and again."
+  },
+  {
+   "verse": 6347,
+   "rows": [
+    {
+     "surface": "lambodara",
+     "gloss": "lambodara",
+     "grounds": "name or epithet, likely of Gaṇeśa, kept as name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "gaṇeśvarau",
+     "gloss": "and-ganesha",
+     "grounds": "dual compound or pair naming Gaṇeśa figures",
+     "morph": "m.acc.dual (gaṇa+īśvara)"
+    }
+   ],
+   "question": "Which deities are named as recipients in this pair?",
+   "premises": [
+    "Two figures are named together",
+    "Lambodara is one name",
+    "Gaṇeśvara is the other in the pair"
+   ],
+   "inference": "The pair Lambodara and Gaṇeśvara is addressed",
+   "uncertainties": [
+    "Whether gaṇeśvarau is a dual of one title or names a distinct pair is slightly ambiguous"
+   ],
+   "plain_english": "Lambodara and the two lords of the gaṇas."
+  },
+  {
+   "verse": 6348,
+   "rows": [
+    {
+     "surface": "viṃśacatuṣkāḥ",
+     "gloss": "twenty-sets-of-four",
+     "grounds": "compound indicating twenty groups of four",
+     "morph": "m.nom.pl (viṃśa+catuṣka)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative indicating the count",
+     "morph": "3.pl.act-optative √as"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates the next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugmāni",
+     "gloss": "pairs",
+     "grounds": "names paired units to be offered",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "prescriptive optative for performing libation",
+     "morph": "3.sg.act-optative √tṛp"
+    }
+   ],
+   "question": "How many sets-of-four precede the libation of pairs in this stage?",
+   "premises": [
+    "A count of twenty sets-of-four is prescribed",
+    "After that, pairs are to be offered",
+    "Libation of pairs is the next action"
+   ],
+   "inference": "After twenty sets-of-four, one should offer libation to the pairs",
+   "uncertainties": [],
+   "plain_english": "There should be twenty sets of four; then one should offer libation to the pairs."
+  },
+  {
+   "verse": 6349,
+   "rows": [
+    {
+     "surface": "prākvat",
+     "gloss": "as-before",
+     "grounds": "adverb indicating conformity with prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadyugmam",
+     "gloss": "that-pair",
+     "grounds": "compound referring to the previously mentioned pair",
+     "morph": "n.acc.sg (tad+yugma)"
+    },
+    {
+     "surface": "ābhāṣya",
+     "gloss": "having-addressed",
+     "grounds": "absolutive indicating prior address or invocation",
+     "morph": "(indecl.) absolutive ā-√bhāṣ"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental specifying use of the root mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "antaritāni",
+     "gloss": "interposed",
+     "grounds": "past participle describing elements placed in between",
+     "morph": "n.acc.pl past-participle antar-√i"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the pair be addressed while interposing the root mantra?",
+   "premises": [
+    "The method follows the previous pattern",
+    "That pair is to be addressed",
+    "The root mantra is interposed among elements"
+   ],
+   "inference": "As before, one should address that pair and interpose the root mantra",
+   "uncertainties": [],
+   "plain_english": "As before, having addressed that pair, and with the root mantra interposed."
+  }
+ ]
+}

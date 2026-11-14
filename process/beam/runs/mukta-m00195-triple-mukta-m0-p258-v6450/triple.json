@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p258",
+ "items": [
+  {
+   "verse": 6450,
+   "rows": [
+    {
+     "surface": "sārasa+ākṣaś",
+     "gloss": "lotus-eyed",
+     "grounds": "bahuvrihi compound sārasa+akṣa; nominative singular masculine form with final visarga rendered as ś before ca",
+     "morph": "compound.bahuvrihi.m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuko",
+     "gloss": "śuka",
+     "grounds": "proper name; nominative singular masculine with sandhi o before following voiced consonant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "meghas",
+     "gloss": "megha",
+     "grounds": "proper name; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal or sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "adverb indicating subsequent position in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which figures are named as continuing the revealed sequence thereafter?",
+   "premises": [
+    "The lotus-eyed one and Śuka are named together.",
+    "Megha is named in the same sequence.",
+    "The sequence continues thereafter with what follows."
+   ],
+   "inference": "The lotus-eyed one, Śuka, and Megha are enumerated as subsequent figures in the ongoing sequence.",
+   "uncertainties": [
+    "Whether sārasa+ākṣaś is an epithet of Śuka or names a distinct figure is not explicit."
+   ],
+   "plain_english": "And the lotus-eyed one, Śuka, and Megha come next in the sequence thereafter."
+  }
+ ]
+}

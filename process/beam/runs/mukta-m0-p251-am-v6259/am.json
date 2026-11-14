@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p251",
  "verse": 6259,
- "question": "What fractional part divisions govern the measurements in this section of the design?",
+ "question": "How many times must the mantra be recited after touching the ritual setup?",
  "premises": [
-  "Measurements use fractional divisions",
-  "Seven parts are specified",
-  "Compound fractional measures are given"
+  "Touching precedes recitation.",
+  "Recitation is prescribed.",
+  "The count specified is one hundred and eight."
  ],
- "inference": "The section is measured using seven parts with the specified fractional divisions.",
- "uncertainties": [
-  "precise numerical parsing of the compound fractions is ambiguous without diagrammatic context"
- ],
- "plain_english": "The measurements are made with seven parts and the specified fractional divisions."
+ "inference": "After touching it, one should recite the mantra one hundred and eight times.",
+ "uncertainties": [],
+ "plain_english": "Having touched it, one should recite the mantra one hundred and eight times."
 }

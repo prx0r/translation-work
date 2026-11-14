@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p250",
  "verse": 6249,
- "question": "What golden motif should be made on the back of the arch?",
+ "question": "How many times should the object be consecrated with the mantra?",
  "premises": [
-  "A construction on the back of the arch is prescribed",
-  "The motif is a wish-fulfilling tree",
-  "It should be made of gold"
+  "Consecration with mantra is prescribed.",
+  "The counts one hundred eight and one thousand are given.",
+  "The same object is to be consecrated."
  ],
- "inference": "One should make a golden wish-fulfilling tree on the back of the arch.",
- "uncertainties": [],
- "plain_english": "But on the back of the arch one should make a wish-fulfilling tree made of gold."
+ "inference": "One should consecrate that object one hundred eight times and a thousand times.",
+ "uncertainties": [
+  "Whether the counts are alternatives or sequential depends on context."
+ ],
+ "plain_english": "One should consecrate that one hundred and eight times and a thousand times."
 }

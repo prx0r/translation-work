@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p254",
  "verse": 6350,
- "question": "What incremental pattern governs the progression from one part to the two-syllable endpoint?",
+ "question": "What quantity of fourfold groups arises in this ritual arrangement?",
  "premises": [
-  "The progression is bounded by a two-syllable endpoint.",
-  "The progression begins from a single part.",
-  "Each step advances by the addition of one part."
+  "The context establishes preceding counts of groups.",
+  "The verse specifies groups characterized as fourfold.",
+  "The verse assigns a numerical total to these groups."
  ],
- "inference": "The sequence extends from one part up to the two-syllable endpoint through successive increases of one part.",
- "uncertainties": [
-  "The precise referent of kāra in this numerical or ritual context is not fully specified in the verse alone.",
-  "The exact syntactic role of the first compound depends on the broader enumeration in the surrounding verses."
- ],
- "plain_english": "The progression runs from one part up to an endpoint of two syllables, advancing by an increase of one part at each step."
+ "inference": "The arrangement yields sixteen sets of four.",
+ "uncertainties": [],
+ "plain_english": "There are also sixteen sets of four."
 }
