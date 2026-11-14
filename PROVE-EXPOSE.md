@@ -155,6 +155,28 @@ batch: weekly  make_readable --all --publish
 daily: serve_status | head -1   (served / total KPI)
 ```
 
+## 8. Session log — 2026-11-14, second pass (trace fan-out + ipvv)
+
+- **`tools/make_traces.py` + `shastra.make_traces`** (34 tools total): batch
+  `trace_bundle` per passage — one work, `--served-untraced`, or `--all`.
+  Idempotent, fail-closed per bundle; verified bundles feed `make_readable
+  --publish` into the claim layer.
+- **Scale result:** 1672 bundles built for 35 served-but-traceless works
+  (kularnavatantra, 34 mukta burn works), 0 failures. Published through the
+  svread chain (2640+ traces → verify packs → claim pages); `scholar__passage_evidence`
+  confirmed serving the new works.
+- **ipvv readable (5/49 chunks).** Root causes, verified: (a) projection was
+  stale (old `chunkA-*` scheme; current data is hyphenated `chunk-a-*` with
+  symlinked layers); (b) 44 chunks have only t1/l0 (+ orphan old-scheme L2s) —
+  argmap/C1 await authorship, correctly withheld; (c) workcfg spans carry print
+  apparatus, so reconstruction now drops `is_paratext` tokens (estate doctrine,
+  same as proof alignment). Served text verified clean (0 pipes/page-marks).
+- **Coordination rule (binding):** stay out of `formal-trika/data/traces`
+  while another agent works there. Trace verify drifts when the translation
+  loop adds layers mid-publish (observed twice on mukta-m00125); the fail-closed
+  publish is the detector, not the problem. Coordination issue: trika-x#20.
+  Publish only from a refresh-then-publish pass, or during a loop pause.
+
 ## 7. Hard rules (inherited)
 
 - **BLOCKED ≠ PASS.** A work with an unverified source or an ineligible song
