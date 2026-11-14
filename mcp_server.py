@@ -54,10 +54,19 @@ def _proof_cmd(work: str, song: str) -> list[str]:
 
 
 def _lore_path(work: str) -> Path | None:
-    """Transmission brief for a work's front (tal-aNN.md convention)."""
-    ahn = work.split("tantraloka-a")[-1] if work.startswith("tantraloka-a") else ""
-    if ahn:
-        p = ROOT / "process" / "beam" / "lore" / f"tal-a{ahn}.md"
+    """Transmission brief for a work's front.
+
+    Convention candidates, in order: the work-named brief
+    (`lore/<work>.md`, e.g. `mukta-m00124.md`, `kularnavatantra.md`) then the
+    Tantraloka `tal-aNN.md` convention. Never assume only the latter — every
+    burn front gets a work-named brief (`mukta-*`, `kularnava`, ...).
+    """
+    lore = ROOT / "process" / "beam" / "lore"
+    cands = [lore / f"{work}.md"]
+    if work.startswith("tantraloka-a"):
+        ahn = work.split("tantraloka-a")[-1]
+        cands.append(lore / f"tal-a{ahn}.md")
+    for p in cands:
         if p.exists():
             return p
     return None
@@ -127,7 +136,7 @@ def lore(work: str) -> dict:
     b = _lore_path(work)
     if b:
         return {"brief": b.name, "text": b.read_text()[:8000]}
-    have = sorted(p.name for p in (ROOT / "process" / "beam" / "lore").glob("tal-*.md"))
+    have = sorted(p.name for p in (ROOT / "process" / "beam" / "lore").glob("*.md"))
     return {"brief": None, "available": have,
             "note": "no brief for this front: 10 min of scholarship now saves hours of bounce cycles"}
 
@@ -769,7 +778,8 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "skill", "concepts", "gates", "recon", "assemble", "supervise",
          "swarm_workers", "review_sweep", "beam_review",
          "bibliography", "priority", "schema", "stats", "works",
-         "editions", "links", "availability", "onboard", "burn"]
+         "editions", "links", "availability", "onboard", "burn",
+         "recycle", "watchdog", "progress", "queue_guard"]
 
 
 if __name__ == "__main__":

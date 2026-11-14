@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral specifying the quantity to be excluded",
+     "morph": "num."
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "rods",
+     "grounds": "units of linear measure in temple or settlement layout",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vyapohya",
+     "gloss": "having-excluded",
+     "grounds": "absolutive indicating prior removal of the measured distance",
+     "morph": "gerund (vi-apa-√ūh)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle stressing the prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive or optative prescribing the construction",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "the structure or sacred dwelling to be constructed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahāntaram",
+     "gloss": "very-great",
+     "grounds": "qualifies the abode as larger or superior",
+     "morph": "n.acc.sg (compound: mahat+antara)"
+    }
+   ],
+   "question": "What spatial exclusion is required before constructing the very great abode?",
+   "premises": [
+    "A measure of nine daṇḍas is specified.",
+    "This measure must be excluded beforehand.",
+    "After exclusion, construction of the abode is prescribed."
+   ],
+   "inference": "The very great abode should be constructed only after setting aside a distance of nine daṇḍas.",
+   "uncertainties": [
+    "The exact physical length of a daṇḍa in this context is not specified in the verse.",
+    "The precise reference point from which the nine daṇḍas are measured is not stated."
+   ],
+   "plain_english": "After excluding nine daṇḍas, one should indeed construct the very great abode."
+  }
+ ]
+}

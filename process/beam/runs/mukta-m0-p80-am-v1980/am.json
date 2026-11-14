@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p80",
  "verse": 1980,
- "question": "How should gems be made by those desiring all success?",
+ "question": "Where should the residences of workers and washermen be located relative to each other?",
  "premises": [
-  "Gems are to be made.",
-  "Care is required.",
-  "The makers desire all success."
+  "Workers are assigned a residence.",
+  "Washermen are assigned a residence in relation to workers.",
+  "The washermen's location is specified as farther outside."
  ],
- "inference": "Those desiring all success should carefully make the gems.",
- "uncertainties": [
-  "Specific gem-making method is not given here."
- ],
- "plain_english": "Gems should be carefully made by those desiring all success."
+ "inference": "The residence of workers should be placed with that of washermen farther outside from there.",
+ "uncertainties": [],
+ "plain_english": "The residence of workers should be there, and that of washermen farther outside."
 }
