@@ -3,29 +3,49 @@
  "verse": 750,
  "rows": [
   {
-   "lemma": "tatpīṭhopari",
-   "morph": "compound",
-   "grounds": "compound with internal sandhi: tat + pīṭha + upari; fused form kept as one token"
-  },
-  {
-   "lemma": "saṃviśya",
-   "morph": "gerund sam-√viś",
-   "grounds": "absolutive indicating prior action of taking a seat"
-  },
-  {
-   "lemma": "daśadhā",
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "manner adverb specifying repetition or division into ten"
+   "grounds": "indeclinable indicating manner; refers to the state described in preceding verses"
   },
   {
-   "lemma": "ca",
+   "lemma": "sthitāsya",
+   "morph": "m.gen.sg",
+   "grounds": "genitive of agent in that state; from sthita (abiding/situated)"
+  },
+  {
+   "lemma": "dhyānena",
+   "morph": "n.inst.sg",
+   "grounds": "instrumental of means"
+  },
+  {
+   "lemma": "bodhāt",
+   "morph": "m.abl.sg",
+   "grounds": "ablative indicating source or cause; bodha as awakening/knowing"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "disjunctive particle presenting alternative means"
   },
   {
-   "lemma": "japenmanum",
-   "morph": "3.sg.opt.act √jap + m.acc.sg",
-   "grounds": "sandhi fusion: japet + manum; optative verb with mantra as object"
+   "lemma": "tat",
+   "morph": "n.acc.sg",
+   "grounds": "demonstrative referring to the previously indicated reality"
+  },
+  {
+   "lemma": "sva",
+   "morph": "n.acc.sg",
+   "grounds": "reflexive possessive qualifying rūpa"
+  },
+  {
+   "lemma": "rūpa",
+   "morph": "n.acc.sg",
+   "grounds": "essential form or nature; object of partaking"
+  },
+  {
+   "lemma": "bhāk",
+   "morph": "m.nom.sg",
+   "grounds": "one who shares or partakes in; from bhaj"
   }
  ]
 }
