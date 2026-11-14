@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p52",
  "verse": 1290,
- "question": "What shape should the sanctum and house take in this variant?",
+ "question": "Which weapons and implements are held by the goddess in this form?",
  "premises": [
-  "The same sanctum chamber is considered.",
-  "Both sanctum and house should be round."
+  "She holds the discus and conch.",
+  "She holds the sword and shield.",
+  "She also holds a trident and a drum."
  ],
- "inference": "In this variant the sanctum and the house should both be circular.",
- "uncertainties": [],
- "plain_english": "That same sanctum chamber should be round, and the house should be round."
+ "inference": "The goddess’s form is armed with discus, conch, sword, shield, trident, and drum.",
+ "uncertainties": [
+  "ari is interpreted as discus (cakra) based on common iconography."
+ ],
+ "plain_english": "She holds the discus and conch, the sword and shield, and also the trident and drum."
 }
