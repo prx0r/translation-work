@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1111,
- "question": "What should be done during solar eclipse after bathing?",
+ "question": "What simple substances may be used alone for the purpose of incense?",
  "premises": [
-  "solar eclipse is named",
-  "after bathing, worship is performed"
+  "Incense may be prepared from single substances.",
+  "Agarwood is a recognized incense material.",
+  "Mahiṣākṣi is presented as an alternative incense material."
  ],
- "inference": "bathe then perform worship in solar eclipse",
- "uncertainties": [],
- "plain_english": "O goddess, during solar eclipse, bathe and perform worship."
+ "inference": "Either agarwood alone or mahiṣākṣi alone may be used for incense.",
+ "uncertainties": [
+  "The exact identity of mahiṣākṣi as a material is uncertain."
+ ],
+ "plain_english": "For incense, one may use only agarwood, or even mahiṣākṣi alone."
 }

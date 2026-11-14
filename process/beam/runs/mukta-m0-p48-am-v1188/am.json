@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1188,
- "question": "What happens to those unable to enter here?",
+ "question": "For what distinct ritual purposes must portions be placed below that location?",
  "premises": [
-  "They are unable to enter.",
-  "They destroy the doer."
+  "A portion is placed below that location for the fire ritual",
+  "Another portion is placed below for the offering rite",
+  "These purposes are distinct"
  ],
- "inference": "Those unable to enter here destroy the doer.",
- "uncertainties": [
-  "The identity of the doer is contextual."
- ],
- "plain_english": "Those unable to enter here destroy the doer."
+ "inference": "Portions must be placed below for the sake of the fire ritual and below for the offering rite.",
+ "uncertainties": [],
+ "plain_english": "Below that, for the sake of the fire ritual, and below for the offering rite."
 }

@@ -3,44 +3,34 @@
  "verse": 1189,
  "rows": [
   {
-   "lemma": "raṇaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "accusative object"
-  },
-  {
-   "lemma": "vīraḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative subject"
-  },
-  {
-   "lemma": "praviśya",
-   "morph": "abs root-viś",
-   "grounds": "absolutive"
-  },
-  {
-   "lemma": "āśu",
-   "morph": "(indecl.)",
-   "grounds": "adverb"
-  },
-  {
-   "lemma": "nāśayet",
-   "morph": "3.sg.act.opt root-naś",
-   "grounds": "optative causative"
-  },
-  {
-   "lemma": "drāvayet",
-   "morph": "3.sg.act.opt root-dru",
-   "grounds": "optative causative"
+   "lemma": "agni+kārya+avaśiṣṭam",
+   "morph": "agni+kārya+avaśiṣṭa+am (compound, n.nom.sg)",
+   "grounds": "portion remaining from fire ritual"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunctive particle"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "tat",
-   "morph": "n.acc.sg",
-   "grounds": "demonstrative object"
+   "lemma": "bali+śiṣṭam",
+   "morph": "bali+śiṣṭa+am (compound, n.nom.sg)",
+   "grounds": "portion remaining from offering"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "yat",
+   "morph": "n.nom.sg",
+   "grounds": "relative pronoun referring to oblation"
+  },
+  {
+   "lemma": "haviḥ",
+   "morph": "n.nom.sg",
+   "grounds": "ritual substance"
   }
  ]
 }

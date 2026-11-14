@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1107,
- "question": "What must be done first by the broad-minded practitioner?",
+ "question": "What graded ingredients or measures are specified for the prescribed preparation?",
  "premises": [
-  "impurity-removing bath is done first",
-  "the practitioner is broad-minded"
+  "A ritual preparation is being specified.",
+  "The specification uses a sequence of numbered elements.",
+  "Claw, sandal, and rice pudding are included among the elements."
  ],
- "inference": "first remove impurity by bathing",
- "uncertainties": [],
- "plain_english": "First perform the impurity-removing bath, O broad-minded one."
+ "inference": "The preparation involves elements in a sequence from one to five together with claw, sandal, and rice pudding.",
+ "uncertainties": [
+  "The exact ritual referent of nakha and the numerical sequence is ambiguous without wider context."
+ ],
+ "plain_english": "With one, two, three, four, and five parts, together with nakha, sandal, and rice pudding."
 }

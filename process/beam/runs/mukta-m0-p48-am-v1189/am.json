@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1189,
- "question": "What should the hero do after entering battle?",
+ "question": "What remainders of the oblation from prior rites are identified for further use?",
  "premises": [
-  "The hero enters battle.",
-  "He should destroy quickly.",
-  "He should make that flee."
+  "There is a remainder from the fire ritual",
+  "There is a remainder from the offering rite",
+  "Both are portions of the oblation"
  ],
- "inference": "The hero, entering battle, should quickly destroy and make that flee.",
- "uncertainties": [
-  "The referent of that is contextual."
- ],
- "plain_english": "The hero, entering battle, should quickly destroy and make that flee."
+ "inference": "The oblation includes what remains from the fire ritual and what remains from the offering rite.",
+ "uncertainties": [],
+ "plain_english": "And whatever oblation remains from the fire ritual and remains from the offering rite."
 }

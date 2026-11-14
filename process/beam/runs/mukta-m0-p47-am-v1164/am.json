@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1164,
- "question": "Who faces purandara in this mantra context?",
+ "question": "Which gourds, melons, and eggplants are enumerated as suitable ingredients?",
  "premises": [
-  "purandara-facing is named",
-  "mantra-holder is named",
-  "tripura is named",
-  "muktamalini is named"
+  "Ash gourd is included",
+  "Jackfruit and gourd are included",
+  "Watermelon and two kinds of eggplant are included"
  ],
- "inference": "The mantra-holder faces purandara, with tripura and muktamalini named.",
+ "inference": "The list includes ash gourd, jackfruit, gourd, watermelon, and two eggplants.",
  "uncertainties": [
-  "exact ritual role of tripura"
+  "panasālābu may be parsed as two items or a compound"
  ],
- "plain_english": "The mantra-holder faces purandara, with tripura and muktamalini named."
+ "plain_english": "Ash gourd, jackfruit and gourd, watermelon, and the pair of eggplants."
 }

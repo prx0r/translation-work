@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1155,
- "question": "How should the deity be worshipped in this sequence?",
+ "question": "Which sensory and cooking defects disqualify prepared food from ritual offering?",
  "premises": [
-  "own facing sequence is specified",
-  "the deity is the object",
-  "worship is enjoined"
+  "Smoky smell, excessive wetness, and overcooking are defects",
+  "Coldness is a defect",
+  "These qualities make the food unsuitable"
  ],
- "inference": "The deity should be worshipped according to one's own facing sequence.",
- "uncertainties": [
-  "whether eva excludes other sequences"
- ],
- "plain_english": "One should worship the deity by one's own facing sequence."
+ "inference": "Food that is smoky, too wet, overcooked, or cold is disqualified.",
+ "uncertainties": [],
+ "plain_english": "It has a smoky smell, is very wet, overcooked, and cold."
 }
