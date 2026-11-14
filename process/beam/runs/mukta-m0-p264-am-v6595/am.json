@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p264",
  "verse": 6595,
- "question": "What actions must follow the proper dismissal of the artisan from the pavilion?",
+ "question": "Where and with what mental act should the offering be made during eating?",
  "premises": [
-  "The artisan is in the pavilion.",
-  "The artisan must be properly dismissed.",
-  "The area must be smeared with cow dung."
+  "The context is eating",
+  "Contemplation is required",
+  "The offering is made in the western fire-pit"
  ],
- "inference": "After properly dismissing the artisan from the pavilion, one should smear the area with cow dung.",
- "uncertainties": [],
- "plain_english": "Having properly dismissed the artisan from the pavilion, one should smear the area with cow dung."
+ "inference": "During eating, one should contemplate and offer in the western fire-pit.",
+ "uncertainties": [
+  "What is to be contemplated is not explicitly stated in this verse."
+ ],
+ "plain_english": "In eating, one should contemplate and offer in the western fire-pit."
 }

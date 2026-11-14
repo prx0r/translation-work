@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p265",
  "verse": 6607,
- "question": "What state of purification and adornment should characterize the participants before the next rite?",
+ "question": "How many times must the utterance be made in this context?",
  "premises": [
-  "Bathing has been completed.",
-  "The body is richly adorned with ornaments.",
-  "White garlands and other items are included."
+  "An act of utterance is prescribed.",
+  "The utterance is qualified as occurring once.",
+  "This follows the prior condition of repetition and grace."
  ],
- "inference": "Therefore the participants should be bathed, richly adorned with ornaments, and endowed with white garlands and other items.",
- "uncertainties": [],
- "plain_english": "Having bathed, richly adorned with ornaments, and endowed with white garlands and other such things,"
+ "inference": "One should utter it once.",
+ "uncertainties": [
+  "The object of utterance is carried over from the preceding context."
+ ],
+ "plain_english": "One should utter it once."
 }

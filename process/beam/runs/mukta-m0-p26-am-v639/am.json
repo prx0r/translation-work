@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 639,
- "question": "By obtaining which knowledge did poets compose works such as the Bhārata?",
+ "question": "What state of attention is required from all gods for the stated procedure?",
  "premises": [
-  "Poets obtained some knowledge",
-  "That knowledge enabled composition",
-  "They composed works such as the Bhārata"
+  "All gods are addressed.",
+  "They are asked to be attentive.",
+  "The attention concerns that procedure."
  ],
- "inference": "The question asks which knowledge enabled poets to compose the Bhārata and other works",
- "uncertainties": [],
- "plain_english": "Having obtained which knowledge did poets compose the Bhārata and other works?"
+ "inference": "All gods must be attentive to that procedure.",
+ "uncertainties": [
+  "The specific procedure referred to by tat is not defined in this verse."
+ ],
+ "plain_english": "O all gods, be attentive to that procedure."
 }

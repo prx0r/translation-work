@@ -3,29 +3,34 @@
  "verse": 6502,
  "rows": [
   {
-   "lemma": "śaṅkhe",
-   "morph": "m.loc.sg",
-   "grounds": "locative locus for worship"
+   "lemma": "brahmāprapañcādiḥ",
+   "morph": "m.nom.sg (compound)",
+   "grounds": "compound naming the sage associated with the mantra"
   },
   {
-   "lemma": "tu",
+   "lemma": "sa",
+   "morph": "m.nom.sg",
+   "grounds": "refers back to the previously mentioned figure"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "contrastive particle"
+   "grounds": "emphasizes identity"
   },
   {
-   "lemma": "vimalaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "deity or aspect to be worshipped"
+   "lemma": "asya",
+   "morph": "m.gen.sg",
+   "grounds": "refers to the mantra described"
   },
   {
-   "lemma": "dīpe",
-   "morph": "m.loc.sg",
-   "grounds": "locative locus for worship"
+   "lemma": "muniḥ",
+   "morph": "m.nom.sg",
+   "grounds": "the seer associated with the mantra"
   },
   {
-   "lemma": "pūjayeddhavyavāhanam",
-   "morph": "3.sg.opt-act √pūj + m.acc.sg compound",
-   "grounds": "fused optative verb and object; sandhi noted"
+   "lemma": "smṛtaḥ",
+   "morph": "m.nom.sg.past-passive-participle √smṛ",
+   "grounds": "states traditional attribution"
   }
  ]
 }

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p269",
+ "items": [
+  {
+   "verse": 6725,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of √dhyai/dhyā 'to meditate'",
+     "morph": "(gerund), root dhyā"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "3.sg.act-opt, root yaj"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "ritual seat or pedestal as object of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "qualifies the seat as the initial one",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "seat",
+     "grounds": "first member of compound with mantrataḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "by-means-of-mantra",
+     "grounds": "taddhita -tas indicating instrumental means; refers to the seat-mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory act and means govern worship of the first seat?",
+   "premises": [
+    "Meditation must precede the act of worship.",
+    "The first seat is the designated object of worship.",
+    "Worship of the seat is performed by means of its mantra."
+   ],
+   "inference": "After meditation, the practitioner should worship the first seat using the seat-mantra.",
+   "uncertainties": [
+    "Whether pīṭhaṃ prathamaṃ refers to a specific named seat in this ritual sequence is not explicit in this verse alone."
+   ],
+   "plain_english": "Having meditated, one should worship the first seat by means of the seat-mantra."
+  }
+ ]
+}

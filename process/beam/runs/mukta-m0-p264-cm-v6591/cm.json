@@ -3,24 +3,39 @@
  "verse": 6591,
  "rows": [
   {
-   "lemma": "niṣpādya",
-   "morph": "gerund √pad+nis caus.",
-   "grounds": "completing preparatory acts"
+   "lemma": "garbha",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "devadeveśaṃ",
-   "morph": "m.acc.sg compound",
-   "grounds": "deity to be worshipped; compound of deva, deva and īśa"
+   "lemma": "sthiti",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "pūrvedyus",
+   "lemma": "bhavam",
+   "morph": "m.acc.sg",
+   "grounds": "compound-final qualifying suffering"
+  },
+  {
+   "lemma": "kleśam",
+   "morph": "m.acc.sg",
+   "grounds": "object not experienced"
+  },
+  {
+   "lemma": "vindate",
+   "morph": "3.sg.pres.middle √vid",
+   "grounds": "main verb"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "specifies the time of worship"
+   "grounds": "negation"
   },
   {
-   "lemma": "saṃprapūjayet",
-   "morph": "3.sg.opt.act √pūj+sam+pra",
-   "grounds": "prescribed act of worship"
+   "lemma": "kadācana",
+   "morph": "(indecl.)",
+   "grounds": "indefinite time adverb"
   }
  ]
 }

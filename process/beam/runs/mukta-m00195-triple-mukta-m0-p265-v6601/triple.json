@@ -1,0 +1,1211 @@
+{
+ "song": "mukta-m0-p265",
+ "items": [
+  {
+   "verse": 6601,
+   "rows": [
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent who may receive the result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "introduces condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "first member of dual boon",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "second member of dual boon",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradaḥ",
+     "gloss": "giver",
+     "grounds": "describes the mantra's effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the mantra or result",
+     "morph": "m.nom.sg.pron"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dual boon of enjoyment and liberation does the practitioner receive?",
+   "premises": [
+    "A practitioner is the subject under consideration.",
+    "Enjoyment and liberation are named as outcomes.",
+    "The mantra is described as granting these outcomes."
+   ],
+   "inference": "The practitioner obtains both enjoyment and liberation through this mantra.",
+   "uncertainties": [
+    "The referent of sa is implied from context rather than explicit in this verse."
+   ],
+   "plain_english": "If one is a practitioner, it indeed grants both enjoyment and liberation."
+  },
+  {
+   "verse": 6602,
+   "rows": [
+    {
+     "surface": "vada",
+     "gloss": "speech",
+     "grounds": "first element of utterance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "indicates twofold utterance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgvādini",
+     "gloss": "o-speech-goddess",
+     "grounds": "vocative address to the deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric term to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "injunctive instruction for recitation",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "Which words must be uttered when invoking the speech-goddess Vāgvādinī?",
+   "premises": [
+    "The speech-goddess Vāgvādinī is directly addressed.",
+    "A pair of 'vada' utterances is specified.",
+    "The word 'vāgvādini' is to be spoken."
+   ],
+   "inference": "One should utter the pair 'vada vada' together with the word 'vāgvādini'.",
+   "uncertainties": [],
+   "plain_english": "One should utter the pair 'vada' and the word 'vāgvādini'."
+  },
+  {
+   "verse": 6603,
+   "rows": [
+    {
+     "surface": "mokṣam",
+     "gloss": "liberation",
+     "grounds": "word to be pronounced",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "prior action in sequence",
+     "morph": "gerund √uc-car"
+    },
+    {
+     "surface": "kuruṣva",
+     "gloss": "do",
+     "grounds": "imperative command",
+     "morph": "2.sg.imp.mid √kṛ"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "sacred-syllable-om",
+     "grounds": "mantric syllable to be uttered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "injunctive instruction for recitation",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "What sequence of utterances completes this portion of the mantra?",
+   "premises": [
+    "The word 'mokṣam' is to be uttered first.",
+    "The command 'kuruṣva' follows in the sequence.",
+    "The sacred syllable praṇava is to be uttered."
+   ],
+   "inference": "The mantra sequence continues with 'mokṣam', 'kuruṣva', and the praṇava.",
+   "uncertainties": [],
+   "plain_english": "Having uttered 'mokṣam', say 'kuruṣva', and then utter the praṇava."
+  },
+  {
+   "verse": 6604,
+   "rows": [
+    {
+     "surface": "nagaiḥ",
+     "gloss": "by-mountains",
+     "grounds": "numerical code indicating seven",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bāṇaiḥ",
+     "gloss": "by-arrows",
+     "grounds": "numerical code indicating five",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-produced",
+     "grounds": "states formation of the mantra",
+     "morph": "3.sg.pres.pass √jan"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra under discussion",
+     "morph": "m.gen.sg.pron"
+    },
+    {
+     "surface": "manu",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "triad",
+     "grounds": "threefold division of the mantra",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the triad of this mantra formed according to numerical codes?",
+   "premises": [
+    "Mountains and arrows function as numerical indicators.",
+    "A triad belonging to this mantra is produced.",
+    "The formation is stated as a definite result."
+   ],
+   "inference": "The mantra's triad is formed according to the counts indicated by mountains and arrows.",
+   "uncertainties": [
+    "The exact mapping of the numerical codes to syllable counts or divisions is not explicit in this verse."
+   ],
+   "plain_english": "By the codes of mountains and arrows, the triad of this mantra is produced."
+  },
+  {
+   "verse": 6605,
+   "rows": [
+    {
+     "surface": "utpatti",
+     "gloss": "creation",
+     "grounds": "first cosmic function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthiti",
+     "gloss": "preservation",
+     "grounds": "second cosmic function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśānāṃ",
+     "gloss": "of-destructions",
+     "grounds": "third cosmic function",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kārikāḥ",
+     "gloss": "causes",
+     "grounds": "describes the triad's role",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "refers to the previously mentioned triad",
+     "morph": "f.nom.pl.pron"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "are-declared",
+     "grounds": "authoritative statement",
+     "morph": "f.nom.pl.past-pass-part √pra-kīrt"
+    }
+   ],
+   "question": "What cosmic functions are attributed to the mantra's three divisions?",
+   "premises": [
+    "Creation, preservation, and destruction are named.",
+    "The three divisions are identified as causes.",
+    "This attribution is explicitly declared."
+   ],
+   "inference": "The three divisions of the mantra are declared to be the causes of creation, preservation, and destruction.",
+   "uncertainties": [],
+   "plain_english": "Those are declared to be the causes of creation, preservation, and destruction."
+  },
+  {
+   "verse": 6606,
+   "rows": [
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-ganesha",
+     "grounds": "deity whose grace is invoked",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prasādena",
+     "gloss": "by-grace",
+     "grounds": "means enabling success",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "unit counted in repetition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "quantity of repetition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "japāt",
+     "gloss": "from-repetition",
+     "grounds": "practice performed",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "drutam",
+     "gloss": "quickly",
+     "grounds": "speed of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What practice performed with Ganeśa's grace yields a swift result?",
+   "premises": [
+    "The grace of Ganeśa is invoked as a condition.",
+    "Repetition of one hundred thousand syllables is specified.",
+    "The result is said to occur quickly."
+   ],
+   "inference": "Through Ganeśa's grace, repetition of one hundred thousand syllables brings a swift result.",
+   "uncertainties": [
+    "The specific result is completed in the following verse."
+   ],
+   "plain_english": "By the grace of Ganeśa, through repetition of one hundred thousand syllables, quickly—"
+  },
+  {
+   "verse": 6607,
+   "rows": [
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "instruction for recitation",
+     "morph": "3.sg.opt.act √vad"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "indicates single utterance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times must the utterance be made in this context?",
+   "premises": [
+    "An act of utterance is prescribed.",
+    "The utterance is qualified as occurring once.",
+    "This follows the prior condition of repetition and grace."
+   ],
+   "inference": "One should utter it once.",
+   "uncertainties": [
+    "The object of utterance is carried over from the preceding context."
+   ],
+   "plain_english": "One should utter it once."
+  },
+  {
+   "verse": 6608,
+   "rows": [
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "result attained",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aśaktau",
+     "gloss": "in-inability",
+     "grounds": "condition of limited capacity",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mita",
+     "gloss": "limited",
+     "grounds": "qualifies the speech",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāṣaṇāt",
+     "gloss": "from-speaking",
+     "grounds": "means of attaining accomplishment",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How can accomplishment be attained when one lacks full capacity?",
+   "premises": [
+    "A state of inability is acknowledged.",
+    "Limited speaking is offered as an alternative.",
+    "Accomplishment is still said to arise."
+   ],
+   "inference": "Even in inability, accomplishment arises from limited speaking.",
+   "uncertainties": [],
+   "plain_english": "In case of inability, accomplishment comes from limited speaking."
+  },
+  {
+   "verse": 6609,
+   "rows": [
+    {
+     "surface": "vāgvādini",
+     "gloss": "o-speech-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "aim",
+     "gloss": "aim",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "identifies a mantra unit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "count of syllables",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣaraḥ",
+     "gloss": "syllabled",
+     "grounds": "describes mantra length",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the composition and syllable count of the stated mantra?",
+   "premises": [
+    "The formula includes 'vāgvādini' and 'aim'.",
+    "It is identified as one mantra.",
+    "It is described as having nine syllables."
+   ],
+   "inference": "The mantra 'vāgvādini aim' is one unit consisting of nine syllables.",
+   "uncertainties": [
+    "The exact syllabic division yielding nine syllables is not fully specified here."
+   ],
+   "plain_english": "Thus, 'vāgvādini aim' is one mantra of nine syllables."
+  },
+  {
+   "verse": 6610,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locates the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "unit counted in repetition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "quantity of repetition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "repetition",
+     "grounds": "prescribed practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What amount of mantra repetition is prescribed in this case?",
+   "premises": [
+    "A specific practice is being prescribed here.",
+    "The practice is repetition of the mantra.",
+    "The quantity is one hundred thousand syllables."
+   ],
+   "inference": "Here, repetition of one hundred thousand syllables should be performed.",
+   "uncertainties": [],
+   "plain_english": "And here, repetition of one hundred thousand syllables should be done."
+  },
+  {
+   "verse": 6611,
+   "rows": [
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "states authoritative teaching",
+     "morph": "n.nom.sg.past-pass-part √pra-vac"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies the scriptures",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tantreṣu",
+     "gloss": "in-scriptures",
+     "grounds": "locus of teaching",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "gopitam",
+     "gloss": "kept-secret",
+     "grounds": "indicates esoteric status",
+     "morph": "n.nom.sg.past-pass-part √gup"
+    }
+   ],
+   "question": "How is this teaching characterized across the tantric scriptures?",
+   "premises": [
+    "The teaching is said to be declared.",
+    "It is found in all tantras.",
+    "It is also described as kept secret."
+   ],
+   "inference": "This teaching is declared in all tantras yet kept secret.",
+   "uncertainties": [],
+   "plain_english": "It is declared in all tantras and kept secret."
+  },
+  {
+   "verse": 6612,
+   "rows": [
+    {
+     "surface": "etābhyām",
+     "gloss": "by-these-two",
+     "grounds": "refers to two mantras",
+     "morph": "n.inst.du.pron"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrābhyāṃ",
+     "gloss": "by-mantras",
+     "grounds": "instruments of accomplishment",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "bahavaḥ",
+     "gloss": "many",
+     "grounds": "indicates numerous practitioners",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kaulikāḥ",
+     "gloss": "kaula-practitioners",
+     "grounds": "practitioners of the Kaula path",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kṛtāḥ",
+     "gloss": "accomplished",
+     "grounds": "result achieved by practitioners",
+     "morph": "m.nom.pl.past-pass-part √kṛ"
+    }
+   ],
+   "question": "What effect have these two mantras had on Kaula practitioners?",
+   "premises": [
+    "Two specific mantras are the instruments.",
+    "Many Kaula practitioners are the subjects.",
+    "They are said to have been accomplished through them."
+   ],
+   "inference": "Many Kaula practitioners have been accomplished by these two mantras alone.",
+   "uncertainties": [],
+   "plain_english": "By these two mantras alone, many Kaula practitioners have been accomplished."
+  },
+  {
+   "verse": 6613,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "qualifies the path",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "in-path",
+     "grounds": "locus of practice",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhānte",
+     "gloss": "in-siddhanta",
+     "grounds": "another doctrinal context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "druta",
+     "gloss": "quick",
+     "grounds": "qualifies accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "result granted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dām",
+     "gloss": "giving",
+     "grounds": "describes the mantras' power",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "In which doctrinal paths do these mantras grant swift accomplishment?",
+   "premises": [
+    "The left-hand path is named as a context.",
+    "The Siddhānta tradition is also named.",
+    "The mantras are described as giving swift accomplishment."
+   ],
+   "inference": "These mantras grant swift accomplishment in both the left-hand path and the Siddhānta.",
+   "uncertainties": [],
+   "plain_english": "In the left-hand path and in the Siddhānta, they grant swift accomplishment."
+  },
+  {
+   "verse": 6614,
+   "rows": [
+    {
+     "surface": "nāda",
+     "gloss": "sound",
+     "grounds": "first component of the kūṭa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "point",
+     "grounds": "second component of the kūṭa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "describes combination",
+     "morph": "n.nom.sg.past-pass-part sam-ā-√yuj"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "seed-of-speech",
+     "grounds": "identifies the vāgbhava kūṭa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭam",
+     "gloss": "section",
+     "grounds": "mantra division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "technical designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What constitutes the vāgbhava kūṭa in this mantra structure?",
+   "premises": [
+    "Nāda and bindu are named as components.",
+    "These components are combined together.",
+    "The resulting section is called vāgbhava."
+   ],
+   "inference": "The vāgbhava kūṭa is the section endowed with nāda and bindu.",
+   "uncertainties": [],
+   "plain_english": "The section endowed with nāda and bindu is called the vāgbhava kūṭa."
+  },
+  {
+   "verse": 6615,
+   "rows": [
+    {
+     "surface": "kāmarāja",
+     "gloss": "kamaraja",
+     "grounds": "name of the second kūṭa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhidhaṃ",
+     "gloss": "named",
+     "grounds": "indicates designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "states accepted identification",
+     "morph": "n.nom.sg.past-pass-part √man"
+    }
+   ],
+   "question": "What name is assigned to the next mantra section?",
+   "premises": [
+    "A mantra section is under discussion.",
+    "The name kāmarāja is applied to it.",
+    "This identification is accepted."
+   ],
+   "inference": "The next section is considered to be named kāmarāja.",
+   "uncertainties": [
+    "The specific syllabic composition of this kūṭa is not stated in this verse."
+   ],
+   "plain_english": "It is considered to be named kāmarāja."
+  },
+  {
+   "verse": 6616,
+   "rows": [
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "ordinal position of the kūṭa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "section",
+     "grounds": "mantra division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "unit of composition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "traya",
+     "gloss": "triad",
+     "grounds": "count of syllables",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātmakam",
+     "gloss": "consisting-of",
+     "grounds": "describes composition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the composition of the third mantra section?",
+   "premises": [
+    "A third kūṭa is identified.",
+    "It is described in terms of syllables.",
+    "It consists of a triad of syllables."
+   ],
+   "inference": "The third kūṭa consists of three syllables.",
+   "uncertainties": [],
+   "plain_english": "The third section indeed consists of three syllables."
+  },
+  {
+   "verse": 6617,
+   "rows": [
+    {
+     "surface": "tṛtīya",
+     "gloss": "third",
+     "grounds": "qualifies the seed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bīje",
+     "gloss": "in-seed",
+     "grounds": "locus of modification",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "with-bindu",
+     "grounds": "element to be included",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āḍhyaṃ",
+     "gloss": "endowed",
+     "grounds": "describes the form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "strīṇām",
+     "gloss": "for-women",
+     "grounds": "specifies recipients",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "authoritative prescription",
+     "morph": "n.nom.sg.past-pass-part √vac"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates following element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarga",
+     "gloss": "with-visarga",
+     "grounds": "element to be excluded",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuk",
+     "gloss": "joined",
+     "grounds": "describes conjunction",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How must the third seed be modified when given to women?",
+   "premises": [
+    "The third seed is the subject of instruction.",
+    "It is stated to be endowed with bindu for women.",
+    "It is stated not to be joined with visarga."
+   ],
+   "inference": "For women, the third seed should be endowed with bindu and not joined with visarga.",
+   "uncertainties": [],
+   "plain_english": "In the third seed, for women, it is stated to be endowed with bindu and not joined with visarga."
+  },
+  {
+   "verse": 6618,
+   "rows": [
+    {
+     "surface": "paṭhanīyaḥ",
+     "gloss": "to-be-recited",
+     "grounds": "prescribes recitation",
+     "morph": "m.nom.sg.fut-pass-part √paṭh"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates corresponding manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "for-them",
+     "grounds": "refers to women",
+     "morph": "f.gen.pl.pron"
+    },
+    {
+     "surface": "deyaḥ",
+     "gloss": "to-be-given",
+     "grounds": "prescribes transmission",
+     "morph": "m.nom.sg.fut-pass-part √dā"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "su",
+     "gloss": "perfect",
+     "grounds": "qualifies accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "purpose of giving",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should the mantra be recited and given to women?",
+   "premises": [
+    "The mantra is to be recited in that manner.",
+    "It is to be given to women.",
+    "The purpose is perfect accomplishment."
+   ],
+   "inference": "The mantra should be recited and given to women for perfect accomplishment.",
+   "uncertainties": [],
+   "plain_english": "It should be recited likewise and given to them for perfect accomplishment."
+  },
+  {
+   "verse": 6619,
+   "rows": [
+    {
+     "surface": "deva",
+     "gloss": "by-gods",
+     "grounds": "agents of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vandita",
+     "gloss": "worshipped",
+     "grounds": "describes reverence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "feet",
+     "grounds": "part worshipped",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abjā",
+     "gloss": "lotus",
+     "grounds": "metaphor for feet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "deity invoked",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tripurabhairavī",
+     "gloss": "tripurabhairavi",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is honored as having lotus feet worshipped by the gods?",
+   "premises": [
+    "A goddess is named as Tripurabhairavī.",
+    "Her lotus feet are described as worshipped.",
+    "The gods are the worshippers."
+   ],
+   "inference": "The goddess Tripurabhairavī is honored as having lotus feet worshipped by the gods.",
+   "uncertainties": [],
+   "plain_english": "The goddess Tripurabhairavī, whose lotus feet are worshipped by the gods."
+  },
+  {
+   "verse": 6620,
+   "rows": [
+    {
+     "surface": "ā",
+     "gloss": "a",
+     "grounds": "mantric element, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛt",
+     "gloss": "hrt",
+     "grounds": "mantric syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrddhā",
+     "gloss": "to-head",
+     "grounds": "indicates placement or direction",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "gone",
+     "grounds": "describes movement or placement",
+     "morph": "n.nom.sg.past-pass-part √gam"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antyaṃ",
+     "gloss": "final",
+     "grounds": "refers to final element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "mantric seed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "three seeds",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "instruction for ritual placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "How should the triad of seed syllables be ritually placed in this sequence?",
+   "premises": [
+    "Specific elements including 'ā', 'hṛt', and a final element are named.",
+    "Movement to the head is indicated.",
+    "A triad of seeds is to be placed."
+   ],
+   "inference": "One should place the triad of seeds in this sequence, including the element gone to the head and the final one.",
+   "uncertainties": [
+    "The precise technical mapping of 'mūrddhā gataṃ' to a specific syllabic form is context-dependent."
+   ],
+   "plain_english": "Thus one should place the triad of seeds: 'ā', 'hṛt', that which has gone to the head, and the final one."
+  },
+  {
+   "verse": 6621,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "on-head",
+     "grounds": "location of placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg.past-pass-part √pra-vac"
+    },
+    {
+     "surface": "saura",
+     "gloss": "with-saura",
+     "grounds": "qualifies the final element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antyena",
+     "gloss": "with-final",
+     "grounds": "instrumental element in placement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "tuft",
+     "grounds": "ritual location",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "states accepted identification",
+     "morph": "f.nom.sg.past-pass-part √man"
+    }
+   ],
+   "question": "Which mantra element is assigned to the head and tuft in this placement?",
+   "premises": [
+    "Placement on the head is declared.",
+    "A final element qualified as saura is specified.",
+    "The tuft is identified in relation to this placement."
+   ],
+   "inference": "The head is declared with the saura-final element, and this is considered for the tuft.",
+   "uncertainties": [
+    "The exact referent of 'saura antyena' depends on mantra-construction conventions."
+   ],
+   "plain_english": "And the head is declared with the saura-final element, and that is considered for the tuft."
+  },
+  {
+   "verse": 6622,
+   "rows": [
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "first placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ādhāre",
+     "gloss": "on-base",
+     "grounds": "second placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "third placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyasyaṃ",
+     "gloss": "to-be-placed",
+     "grounds": "prescribes placement",
+     "morph": "n.nom.sg.fut-pass-part √ni-as"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kūṭa",
+     "gloss": "section",
+     "grounds": "mantra division",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "three sections",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition of placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the triad of mantra sections be placed again in the body?",
+   "premises": [
+    "The head, base, and heart are named as locations.",
+    "The triad of mantra sections is the object of placement.",
+    "The placement is to be done again."
+   ],
+   "inference": "The triad of mantra sections should again be placed on the head, the base, and in the heart.",
+   "uncertainties": [
+    "The compound 'manaḥ-kūṭa-trayaṃ' may refer to the three kūṭas in a specific order; the exact mapping is contextual."
+   ],
+   "plain_english": "Again, the triad of mantra sections should be placed on the head, at the base, and in the heart."
+  },
+  {
+   "verse": 6623,
+   "rows": [
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "location of placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agre",
+     "gloss": "on-tips",
+     "grounds": "specific part of the hand",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "prescribes sequential placement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "instruction for ritual placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "In what manner should placement be performed on the fingertips?",
+   "premises": [
+    "The fingertips are specified as the location.",
+    "Placement is prescribed.",
+    "The placement must follow a sequence."
+   ],
+   "inference": "One should place the mantra elements on the fingertips in due order.",
+   "uncertainties": [],
+   "plain_english": "And one should place them on the fingertips in order."
+  },
+  {
+   "verse": 6624,
+   "rows": [
+    {
+     "surface": "saṃhāra",
+     "gloss": "dissolution",
+     "grounds": "qualifies the order",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "prescribes reverse or dissolution sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "instruction for ritual placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "According to which sequence should the final placement be performed?",
+   "premises": [
+    "A placement action is prescribed.",
+    "The order is qualified as that of dissolution.",
+    "This follows the previous sequential placement."
+   ],
+   "inference": "One should perform the placement in the order of dissolution.",
+   "uncertainties": [],
+   "plain_english": "One should place them in the order of dissolution."
+  }
+ ]
+}

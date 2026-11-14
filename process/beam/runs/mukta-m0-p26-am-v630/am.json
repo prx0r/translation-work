@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 630,
- "question": "What should the most skilled mantra knower do to the whole body?",
+ "question": "What grave consequence can a disciple cause to the guru even once?",
  "premises": [
-  "The whole body is the object of action",
-  "The body must be purified",
-  "The best mantra knower performs the act"
+  "The agent is the disciple.",
+  "The object is the guru.",
+  "The act of destruction may occur even once."
  ],
- "inference": "The most skilled mantra knower should make the whole body purified",
- "uncertainties": [],
- "plain_english": "The foremost knower of mantras should make the whole body purified."
+ "inference": "A disciple may destroy the guru even by a single act.",
+ "uncertainties": [
+  "The nature of the destructive act is not specified."
+ ],
+ "plain_english": "Even once, a disciple may destroy the guru."
 }

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p266",
+ "items": [
+  {
+   "verse": 6650,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.act.opt root-kṛ"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "diagram",
+     "grounds": "ritual diagram to be constructed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guru+mārgataḥ",
+     "gloss": "by-guru-tradition",
+     "grounds": "compound indicating transmission path; -taḥ marks source or manner",
+     "morph": "compound: guru+mārga+taḥ (indecl.)"
+    }
+   ],
+   "question": "What authoritative tradition governs the proper construction of the ritual diagram?",
+   "premises": [
+    "The practitioner has completed the prescribed visualization of Tripurabhairavī.",
+    "A ritual diagram is to be constructed as the next act.",
+    "The construction must follow the path transmitted by the guru."
+   ],
+   "inference": "Therefore the ritual diagram must be constructed according to the guru's tradition.",
+   "uncertainties": [
+    "Whether maṇḍalaṃ refers to a specific diagram such as the śrīcakra or a general ritual diagram is not explicit in this verse."
+   ],
+   "plain_english": "One should then construct the diagram according to the tradition of the guru."
+  }
+ ]
+}

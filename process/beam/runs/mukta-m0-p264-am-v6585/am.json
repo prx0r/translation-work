@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p264",
  "verse": 6585,
- "question": "Where may the subsequent ritual activities be conducted?",
+ "question": "By what rule and in which directions should the offering be directed to go?",
  "premises": [
-  "The teacher's house is a possible location.",
-  "One's own house is a possible location.",
-  "The chosen place should be delightful."
+  "The action follows a prescribed rule",
+  "The directions are upward, downward, and sideways",
+  "A command is given for it to go"
  ],
- "inference": "The activities may be conducted in the teacher's house or in one's own delightful house.",
- "uncertainties": [],
- "plain_english": "This may be done in the teacher's house or in one's own delightful house."
+ "inference": "By the prescribed rule, it should be directed to go upward, downward, and sideways.",
+ "uncertainties": [
+  "The referent of 'let it go' is not explicitly specified in this verse."
+ ],
+ "plain_english": "By the rule, let it go upward, downward, and sideways."
 }

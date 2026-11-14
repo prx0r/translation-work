@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 644,
- "question": "What effect arises from mere knowledge of the mantra?",
+ "question": "Under what condition must a dream not be spoken to avoid destroying its fruit?",
  "premises": [
-  "Mere knowledge of the mantra is sufficient cause",
-  "Intellect is the affected faculty",
-  "The intellect becomes fierce"
+  "A dream may become fruit-destroying.",
+  "In that case it should not be spoken.",
+  "Otherwise the restriction does not apply in the same way."
  ],
- "inference": "By mere knowledge of the mantra, a fierce intellect arises",
- "uncertainties": [],
- "plain_english": "By mere knowledge of the mantra, a fierce intellect arises."
+ "inference": "A dream that would destroy its fruit must not be spoken.",
+ "uncertainties": [
+  "The precise condition making it fruit-destroying is implied rather than explicit."
+ ],
+ "plain_english": "The dream may be fruit-destroying and should not be spoken; otherwise not so."
 }

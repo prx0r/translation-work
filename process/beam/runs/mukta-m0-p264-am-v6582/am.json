@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p264",
  "verse": 6582,
- "question": "What action should the teacher perform after giving this instruction?",
+ "question": "What set of directions is commanded in the second of the five ritual mantras?",
  "premises": [
-  "The teacher has given the instruction.",
-  "A cluster of flowers is available.",
-  "The recipient's hand is the target."
+  "One manifests oneself and performs worship",
+  "The command includes upward, downward, and sideways directions",
+  "The mantra concludes with svāhā"
  ],
- "inference": "After instructing thus, the teacher should place a cluster of flowers in his hand.",
- "uncertainties": [],
- "plain_english": "Having instructed him thus, the teacher should place a cluster of flowers in his hand."
+ "inference": "After manifesting and worshipping oneself, one commands them to go upward, downward, and sideways with svāhā.",
+ "uncertainties": [
+  "The referent of 'let them go' is not explicitly specified in this verse."
+ ],
+ "plain_english": "Having manifested oneself and having worshipped, let them go upward, downward, and sideways — svāhā."
 }

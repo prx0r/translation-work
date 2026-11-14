@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p26",
  "verse": 640,
- "question": "How did the speaker respond to the beloved after embracing her?",
+ "question": "What materials and proportion are prescribed for the fire oblation?",
  "premises": [
-  "The speaker embraced the beloved",
-  "The speaker expressed approval",
-  "The speaker honored her while speaking"
+  "A fire oblation should be performed.",
+  "The quantity is a tenth part of that.",
+  "Bilva leaves sprinkled with ghee are used."
  ],
- "inference": "Embracing and honoring his beloved, the speaker said, 'Well, well'",
- "uncertainties": [],
- "plain_english": "Embracing his beloved and honoring her, he said, 'Well, well.'"
+ "inference": "One should offer a tenth part using bilva leaves sprinkled with ghee.",
+ "uncertainties": [
+  "The referent of tat for the tenth part is not specified here."
+ ],
+ "plain_english": "One should offer oblations of a tenth part of that, with bilva leaves sprinkled with ghee."
 }
