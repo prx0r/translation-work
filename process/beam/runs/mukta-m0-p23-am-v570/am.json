@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p23",
  "verse": 570,
- "question": "What form, color, and emblem characterize the earth element in this contemplative visualization?",
+ "question": "How does the measure increase from two fingers up to six fingers?",
  "premises": [
-  "The earth element is the object described",
-  "It is square and golden-colored",
-  "It is marked by a thunderbolt emblem"
+  "The starting measure is two fingers.",
+  "The increase proceeds by quarters.",
+  "The rule reaches equality with six fingers."
  ],
- "inference": "The earth element should be visualized as square, golden-colored, and marked with a thunderbolt.",
- "uncertainties": [],
- "plain_english": "The earth element is square, golden in color, and marked with a thunderbolt."
+ "inference": "Starting from two fingers and increasing by a quarter, the rule extends up to six fingers.",
+ "uncertainties": [
+  "The exact incremental steps of the quarter increase are not fully detailed."
+ ],
+ "plain_english": "Starting from two fingers and increasing by a quarter, the rule proceeds up to six fingers."
 }

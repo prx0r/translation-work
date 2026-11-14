@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p23",
  "verse": 564,
- "question": "Which alternative enumerations of principles may be contemplated as the object of meditation?",
+ "question": "How many staffs may be placed in the four or eight directions?",
  "premises": [
-  "Twenty-five principles are an option",
-  "Thirty-six principles are an option",
-  "One inner principle is also an option"
+  "Staffs may be placed in the directions.",
+  "Possible counts are nine, five, or one.",
+  "The directions may be four or eight."
  ],
- "inference": "One may contemplate twenty-five, thirty-six, or a single inner principle.",
+ "inference": "One may place nine, five, or one staff in the four or eight directions.",
  "uncertainties": [
-  "The syntactic role of the final vā is elliptical in this listing."
+  "The exact distribution of staffs across directions is not specified."
  ],
- "plain_english": "One may contemplate twenty-five, thirty-six, or indeed one inner principle."
+ "plain_english": "One may place nine, five, or one staff in the four directions or in the eight directions."
 }
