@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[there](tatra) [in+the+body](dehe) [of+the+goddess](devyāḥ) [of+the+vital+breaths](prāṇānāṃ) [establishment](pratiṣṭhāṃ) [one+should+make](kuryāt) [thus+the+meaning](ityarthaḥ)
+[there](tatra) [in-body](dehe) [of-goddess](devyāḥ) [of-life-breaths](prāṇānāṃ) [establishment](pratiṣṭhāṃ) [should-do](kuryāt) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p31-v752
-[the+goddess](devatā) [the+Mātṛkā](mātṛkā) [the+goddess](devī) [the+seed](bījaṃ) [called](saṃjñakam) [by+consonant](vyañjana-)
+[deity](devatā) [mātṛkā](mātṛkā) [goddess](devī) [seed](bījaṃ) [consonant](vyañjana) [named](saṃjñakam)
 
 ## mukta-m0-p31-v753
-[the+ṛṣi-nyāsa](ṛṣinyāsaṃ) [having+performed](vidhāya) [thus](evaṃ) [the+hand-and-limb-nyāsa](karāṅganyāsam) [one+should+perform](ācaret)
+[ṛṣi](ṛṣi) [installation](nyāsaṃ) [having-performed](vidhāya) [thus](evaṃ) [hand](kara) [limb](aṅga) [installation](nyāsam) [should-perform](ācaret)
 
 ## mukta-m0-p31-v754
-[uṃ](uṃ) [ūṃ](ūṃ) [in+the+middle](madhye) [the+ṭa-class](ṭavargam) [tu](tu) [eṃ](eṃ) [aiṃ](aiṃ) [in+the+middle](madhye) [the+ta-class](tavargakam)
+[uṃ](uṃ) [ūṃ](ūṃ) [in-middle](madhye) [ṭa-group](ṭa) [group](vargam) [but](tu) [eṃ](eṃ) [aiṃ](aiṃ) [in-middle](madhye) [ta-group](ta) [group](vargakam)
 
 ## mukta-m0-p31-v755
-[the+bindu](bindu) [and+the+sarga](sarga) [in+the+interval](antarāle) [ca](ca) [the+six-limbed](ṣaḍaṅge) [the+mantra](mantraḥ) [is+declared](īritaḥ)
+[bindu](bindu) [visarga](sarga) [in-interval](antarāle) [and](ca) [six](ṣaḍ) [limbs](aṅge) [mantra](mantraḥ) [declared](īritaḥ)
 
 ## mukta-m0-p31-v756
-[having+placed](vinyasya) [by+the+rule+of+nyāsa](nyāsavidhinā) [one+should+meditate](dhyāyet) [on+Mātṛ-Sarasvatī](mātṛsarasvatīm)
+[having-placed](vinyasya) [installation](nyāsa) [by-method](vidhinā) [one-should-meditate](dhyāyet) [mātṛ](mātṛ) [sarasvatī](sarasvatīm)
 
 ## mukta-m0-p31-v757
-[the+hand-and-limb-nyāsa](karāṅganyāsam) [one+should+perform](ācaret) [one+should+make](kuryāt) [|| 107](|| 107)
+[hand](kara) [limb](aṅga) [installation](nyāsam) [should-perform](ācaret) [should-do](kuryāt)
 
 ## mukta-m0-p31-v758
-[hak](hak) [ṣau](ṣau) [in+the+middle+of+the+eyebrows](bhrūmadhyage) [on+the+lotus](padme) [in+the+throat](kaṇṭhe) [ca](ca) [the+sixteen](ṣoḍaśa) [vowels](svarān)
+[ha](ha) [kṣa](kṣau) [brow](bhrū) [middle](madhya) [in-lotus](ge) [in-lotus](padme) [in-throat](kaṇṭhe) [and](ca) [sixteen](ṣoḍaśa) [vowels](svarān)
 
 ## mukta-m0-p31-v759
-[the+ḍa-class](ḍādiphāntān) [in+the+region+of+the+navel](nābhideśe) [the+bā-class+up+to+la](bādilāntān) [ca](ca) [in+the+linga](liṅgake)
+[ḍa-etc](ḍa) [pha-ending](ādi) [ending](phāntān) [navel](nābhi) [in-region](deśe) [ba-etc](ba) [la-ending](ādi) [ending](lāntān) [and](ca) [in-genitals](liṅgake)
 
 ## mukta-m0-p31-v760
-[thus](iti) [internally+by+the+mind](antarmanasā) [having+placed](nyasya) [the+letters+of+the+Mātṛkā](mātṛkārṇān) [externally](vahih) [one+should+place](nyaset)
+[thus](iti) [internally](antar) [with-mind](manasā) [having-placed](nyasya) [mātṛkā](mātṛkā) [letters](arṇān) [externally](vahis) [one-should-place](nyaset)
 
 ## mukta-m0-p31-v761
-[of+her](yasyāḥ) [thus+being](tathābhūtām)
+[of-whom](yasyās) [thus](tathā) [become](bhū) [state](tām)
 
 ## mukta-m0-p31-v762
-[on+the+lips](oṣṭha) [on+the+teeth](danta) [on+the+head](uttamāṅga) [on+the+mouth](āsya) [on+the+arms](doḥ) [on+the+joints](pat) [on+the+forehead](sandhyagrageṣu) [ca](ca)
+[lips](oṣṭha) [teeth](danta) [head](uttama) [limbs](āṅga) [face](āsya) [arms](doḥ) [feet](pat) [joints](sandhi) [tips](agra) [in-locations](geṣu) [and](ca)
 
 ## mukta-m0-p31-v763
-[on+the+cheek](kakudyaṃśe) [ca](ca) [beginning+with+the+heart](hṛtpūrvaṃ) [on+the+pair+of+hands](pāṇipādayuge) [then](tataḥ)
+[in-palate](kakudi) [in-shoulders](aṃśe) [and](ca) [heart](hṛt) [beginning-with](pūrvaṃ) [hand](pāṇi) [foot](pāda) [in-pair](yuge) [then](tataḥ)
 
 ## mukta-m0-p31-v764
-[thus](itthaṃ) [the+script](lipiṃ) [having+placed+well](pravinyasya) [prāṇāyāma](prāṇāyāmaṃ) [one+should+perform](samācaret)
+[thus](itthaṃ) [letters](lipiṃ) [having-placed](pravinyasya) [breath](prāṇa) [control](āyāmaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p31-v765
-[one+should+fill](pūrayet) [the+body+of+oneself](ātmano dehaṃ) [by+sixty-four](catuḥṣaṣṭyā) [tu](tu) [one+should+retain](kumbhayet)
+[one-should-fill](pūrayet) [of-self](ātmanaḥ) [body](dehaṃ) [with-sixty-four](catuḥṣaṣṭyā) [but](tu) [one-should-retain](kumbhayet)
 
 ## mukta-m0-p31-v766
-[by+thirty-two](dvātriṃśatā) [reciting](japan) [the+seed](bījaṃ) [the+wind](vāyuṃ) [by+the+right](dakṣeṇa) [one+should+exhale](recayet)
+[with-thirty-two](dvātriṃśatā) [reciting](japan) [seed](bījaṃ) [air](vāyuṃ) [through-right](dakṣeṇa) [one-should-release](recayet)
 
 ## mukta-m0-p31-v767
-[prāṇāyāma](prāṇāyāmaṃ) [one+should+perform](vidhāya) [thus](ittham) [the+ṛṣi-nyāsa](ṛṣinyāsaṃ) [one+should+perform](samācaret)
+[breath](prāṇa) [control](āyāmaṃ) [having-performed](vidhāya) [thus](ittham) [ṛṣi](ṛṣi) [installation](nyāsaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p31-v768
-[Gāyatrī+and+others](gāyatryādīni) [the+metres](chandāṃsi) [the+first](ādyā) [Kālī](kālī) [tu](tu) [the+goddess](devatā)
+[gāyatrī](gāyatrī) [etc](ādīni) [meters](chandāṃsi) [primordial](ādyā) [kālī](kālī) [but](tu) [deity](devatā)
 
 ## mukta-m0-p31-v769
-[on+the+head](śiraḥ) [on+the+face](vadana) [on+the+heart](hṛd) [on+the+secret](guhya) [on+the+feet](pāda) [and+on+all+limbs](sarvāṅgakeṣu) [ca](ca)
+[head](śiraḥ) [face](vadana) [heart](hṛd) [secret-part](guhya) [feet](pāda) [all](sarva) [limbs](aṅga) [in-locations](keṣu) [and](ca)
 
 ## mukta-m0-p31-v770
-[this](ayam) [the+pervasive+nyāsa](vyāpakanyāsaḥ) [as+stated](yathokta) [fruit-attainment-giving](phalasiddhidaḥ)
+[this](ayam) [but](tu) [pervading](vyāpaka) [installation](nyāsaḥ) [as](yathā) [stated](ukta) [fruit](phala) [accomplishment](siddhi) [giver](daḥ)
 
 ## mukta-m0-p31-v771
-[or+else](athavā) [by+the+mūla-mantra](mūlamantreṇa) [without](vinā) [the+six+long+svaras](ṣaḍdīrgheṇa) [beloved](priye)
+[or](athavā) [root](mūla) [with-mantra](mantreṇa) [six](ṣaḍ) [with-long](dīrgheṇa) [without](vinā) [o-beloved](priye)
 
 ## mukta-m0-p31-v772
-[namaḥ](namaḥ) [svāhā](svāhā) [vaṣaṭ](vaṣaṭ) [hūṃ](hūṃ) [ca](ca) [vauṣaṭ](vauṣaṭ) [phaṭ](phaṭ) [in+order](kramaśaḥ) [the+wise+one](sudhīḥ)
+[namaḥ](namaḥ) [svāhā](svāhā) [vaṣaṭ](vaṣaṭ) [hūṃ](hūm) [and](ca) [vauṣaṭ](vauṣaṭ) [phaṭ](phaṭ) [in-order](kramaśaḥ) [wise-one](sudhīḥ)
 
 ## mukta-m0-p31-v773
-[the+order+of+ṛṣi-nyāsa](ṛṣinyāsakramaḥ) [|| 122](|| 122)
+[ṛṣi](ṛṣi) [installation](nyāsa) [procedure](kramaḥ)
 
 ## mukta-m0-p31-v774
-[by+the+mūla-mantra+alone](mūlamantreṇa eva) [the+arrangement+of+limbs](aṅgakalpanā) [is+to+be+made](kartavyā)
+[root](mūla) [with-mantra](mantreṇa) [alone](eva) [limb](aṅga) [assignment](kalpanā) [to-be-done](kartavyā)
 
 ## mukta-m0-p31-v775
-[for+the+tuft](śikhāyai) [vaṣaṭ](vaṣaṭ) [thus+said](iti uktaṃ) [for+the+armor](kavacāya) [hūṃ](hūṃ) [is+declared](īritam)
+[for-tuft](śikhāyai) [vaṣaṭ](vaṣaḍ) [thus](iti) [said](uktaṃ) [for-armor](kavacāya) [hum](hum) [declared](īritam)
