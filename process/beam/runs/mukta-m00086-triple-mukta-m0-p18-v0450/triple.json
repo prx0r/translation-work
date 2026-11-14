@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "vāgīśaṃ",
+     "gloss": "speech-lord",
+     "grounds": "accusative object of rivalry",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sparddhate",
+     "gloss": "rivals",
+     "grounds": "middle voice present",
+     "morph": "3.sg.ātm.-pres + root spṛdh"
+    },
+    {
+     "surface": "vākyaiḥ",
+     "gloss": "with-words",
+     "grounds": "instrumental means",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "sarvajñastu",
+     "gloss": "all-knowing-but",
+     "grounds": "sandhi-fused adjective plus particle",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "middle voice present",
+     "morph": "3.sg.ātm.-pres + root prajan"
+    }
+   ],
+   "question": "Who rivals the speech-lord with words and becomes all-knowing?",
+   "premises": [
+    "One who rivals speech-lord with words becomes all-knowing.",
+    "Verse links verbal rivalry to omniscience."
+   ],
+   "inference": "Verbal rivalry with the speech-lord produces omniscience.",
+   "uncertainties": [
+    "Exact referent of vāgīśa and scope of prajāyate remain unclear."
+   ],
+   "plain_english": "One who rivals the speech-lord with words becomes all-knowing."
+  }
+ ]
+}
