@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "toyam",
+     "gloss": "water",
+     "grounds": "object of sprinkling continued from previous verse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āmantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "instrument accompanying the water",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bījaiḥ",
+     "gloss": "with-seed-syllables",
+     "grounds": "instrument; bīja kept as seed-syllable per tradition",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bhūta+ātmakaiḥ",
+     "gloss": "element-natured",
+     "grounds": "compound qualifying the seed-syllables as consisting of elements",
+     "morph": "compound: bhūta+ātmaka, m.inst.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the preceding sprinkling procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of formulas empower the sprinkling water in this continued ritual action?",
+   "premises": [
+    "The water is the object of the sprinkling action carried over from the previous verse.",
+    "The water is accompanied by mantras and by seed-syllables.",
+    "The seed-syllables are characterized as element-natured."
+   ],
+   "inference": "Therefore, the sprinkling water is likewise empowered by mantras and by seed-syllables whose nature corresponds to the elements.",
+   "uncertainties": [
+    "The specific mantras and element-natured seed-syllables are not named in this verse."
+   ],
+   "plain_english": "Likewise, the water is empowered with mantras and with seed-syllables that are of the nature of the elements."
+  }
+ ]
+}

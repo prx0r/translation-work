@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p485",
+ "items": [
+  {
+   "verse": 12125,
+   "rows": [
+    {
+     "surface": "haviḥ",
+     "gloss": "oblation",
+     "grounds": "substance offered into fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates distinct offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcagavyaṃ",
+     "gloss": "five-cow-products",
+     "grounds": "ritual mixture of five cow products",
+     "morph": "n.acc.sg (compound: pañca+gavya)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "prescribes ritual action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "clarified-butter",
+     "grounds": "ghee used as oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connects listed substances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkramāt",
+     "gloss": "in-that-order",
+     "grounds": "specifies sequence of offerings",
+     "morph": "(indecl., compound: tat+krama, abl.)"
+    }
+   ],
+   "question": "Which substances and in what sequence must be offered as oblations in the fire ritual?",
+   "premises": [
+    "The oblation is to be offered separately.",
+    "Pañcagavya is included among the substances to be offered.",
+    "Clarified butter is to be offered following that sequence."
+   ],
+   "inference": "Therefore the fire ritual requires offering the oblation separately, then pañcagavya and clarified butter in that order.",
+   "uncertainties": [],
+   "plain_english": "One should offer the oblation separately, and then offer the pañcagavya and clarified butter in that same order."
+  }
+ ]
+}
