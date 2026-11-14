@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p217",
+ "items": [
+  {
+   "verse": 5425,
+   "rows": [
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "means of grace; listed as arising from the mouth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyākhyānaṃ",
+     "gloss": "exposition",
+     "grounds": "instructional teaching; means of grace",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃsparśā",
+     "gloss": "touch",
+     "grounds": "contact; means of grace; surface form as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "avaloka",
+     "gloss": "glance",
+     "grounds": "sight or look; means of grace",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ukti",
+     "gloss": "speech",
+     "grounds": "utterance; means of grace",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukha",
+     "gloss": "mouth",
+     "grounds": "source from which these means arise; first member of compound with following token",
+     "morph": "compound:mukha+first"
+    },
+    {
+     "surface": "udvijāḥ",
+     "gloss": "born-from",
+     "grounds": "arising or produced from; second member of compound with preceding token",
+     "morph": "compound:udvija+second,m.nom.pl"
+    }
+   ],
+   "question": "Which mouth-born means enable the grace-bestowing beings to confer grace upon all creatures?",
+   "premises": [
+    "The preceding verses identify beings intent on grace toward devotees.",
+    "These grace-bestowing beings range from the smallest to the largest, moving and unmoving.",
+    "Initiation, exposition, touch, glance, and speech are presented as mouth-born means."
+   ],
+   "inference": "The grace-bestowing beings confer grace through initiation, exposition, touch, glance, and speech arising from the mouth.",
+   "uncertainties": [
+    "The exact syntactic relation among the listed items is compressed in this verse.",
+    "The form saṃsparśā is taken as a nominative plural in context despite its surface spelling."
+   ],
+   "plain_english": "Initiation, exposition, touch, glance, and speech, born from the mouth, are the means by which they bestow grace."
+  }
+ ]
+}

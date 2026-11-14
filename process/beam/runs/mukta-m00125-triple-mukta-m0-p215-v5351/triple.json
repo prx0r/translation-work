@@ -1,0 +1,877 @@
+{
+ "song": "mukta-m0-p215",
+ "items": [
+  {
+   "verse": 5351,
+   "rows": [
+    {
+     "surface": "pradhāne'pi",
+     "gloss": "in-main-also",
+     "grounds": "fused sandhi pradhāne + api; locative sense with inclusive particle",
+     "morph": "compound=pradhāne+api (indecl.)"
+    },
+    {
+     "surface": "palāśasyāt",
+     "gloss": "of-leaf-from",
+     "grounds": "fused sandhi palāśasya + āt; ablative nuance in ritual context",
+     "morph": "compound=palāśasya+āt"
+    },
+    {
+     "surface": "dvitīyehvayemācaret",
+     "gloss": "on-second-day-one-should-perform",
+     "grounds": "fused form dvitīye + ahvaye/ahani + mācaret; optative ritual instruction",
+     "morph": "compound=dvitīye+ahvaye+mā+ācaret; verb 3.sg.opt.act √car"
+    }
+   ],
+   "question": "What ritual action should be performed on the second day in the main leaf context?",
+   "premises": [
+    "The instruction concerns the main ritual context",
+    "A leaf-related element is specified",
+    "The action is prescribed for the second day"
+   ],
+   "inference": "On the second day in the main context, the prescribed ritual action should be carried out with the specified leaf element.",
+   "uncertainties": [
+    "Exact segmentation and sense of dvitīyehvayemācaret is uncertain due to fused sandhi"
+   ],
+   "plain_english": "Even in the main rite, using the leaf, one should perform the prescribed action on the second day."
+  },
+  {
+   "verse": 5352,
+   "rows": [
+    {
+     "surface": "pratimāgreghaṭānyasvā",
+     "gloss": "before-image-place-vessel-own",
+     "grounds": "fused compound pratimā-agre-ghaṭa-anyasvā; ritual placement before the image",
+     "morph": "compound=pratimā+agre+ghaṭa+anyasvā"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior element",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "kuṃbhāttumanuṃ",
+     "gloss": "from-vessel-then-mantra",
+     "grounds": "fused sandhi kuṃbhāt + tu + manuṃ; mantra taken from the vessel",
+     "morph": "compound=kuṃbhāt+tu+manuṃ"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location for mental placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the mantra from the vessel be placed during the rite before the image?",
+   "premises": [
+    "A vessel is positioned before the image",
+    "The mantra is taken from that vessel",
+    "A specific locus for placement is named"
+   ],
+   "inference": "The mantra drawn from the vessel placed before the image should be established in the heart.",
+   "uncertainties": [
+    "Precise parsing of pratimāgreghaṭānyasvā is uncertain"
+   ],
+   "plain_english": "Placing the vessel before the image, take the mantra from that vessel and place it in the heart."
+  },
+  {
+   "verse": 5353,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution of the deity or image",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cotsavaṃ",
+     "gloss": "and-festival",
+     "grounds": "fused sandhi ca + utsavaṃ",
+     "morph": "compound=ca+utsavaṃ"
+    },
+    {
+     "surface": "bhūrinaivedyaṃ",
+     "gloss": "abundant-food-offering",
+     "grounds": "compound bhūri + naivedyaṃ",
+     "morph": "compound=bhūri+naivedyaṃ; n.acc.sg"
+    },
+    {
+     "surface": "kārayennavā",
+     "gloss": "one-should-cause-or-not",
+     "grounds": "fused sandhi kārayet + na + vā; optional performance",
+     "morph": "compound=kārayet+na+vā; verb 3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "Which ritual observances may optionally be performed as part of this worship sequence?",
+   "premises": [
+    "Bathing is mentioned as a rite",
+    "A festival and abundant food offerings are mentioned",
+    "The performance is presented as optional"
+   ],
+   "inference": "Bathing, festival rites, and abundant food offerings may be performed or omitted according to option.",
+   "uncertainties": [],
+   "plain_english": "One may or may not arrange the bathing, the festival, and abundant food offerings."
+  },
+  {
+   "verse": 5354,
+   "rows": [
+    {
+     "surface": "evamastrapratiṣṭhāntu",
+     "gloss": "thus-weapon-consecration-but",
+     "grounds": "fused sandhi evam + astra-pratiṣṭhām + tu; topic of weapon consecration",
+     "morph": "compound=evam+astra+pratiṣṭhām+tu"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryādastramūrtinaḥ",
+     "gloss": "should-do-of-weapon-form",
+     "grounds": "fused sandhi kuryāt + astra-mūrtinaḥ; consecration for the weapon-formed deity",
+     "morph": "compound=kuryāt+astra+mūrtinaḥ; verb 3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "Who is qualified to perform the consecration of the weapon-formed deity?",
+   "premises": [
+    "The consecration of the weapon is the topic",
+    "An agent is introduced by a relative pronoun",
+    "The act is prescribed in optative form"
+   ],
+   "inference": "Whoever performs the consecration in this manner does so for the deity in weapon form.",
+   "uncertainties": [
+    "Exact syntactic role of astramūrtinaḥ is slightly ambiguous"
+   ],
+   "plain_english": "Thus, whoever would perform the consecration of the weapon for the one whose form is the weapon."
+  },
+  {
+   "verse": 5355,
+   "rows": [
+    {
+     "surface": "yāttyeva",
+     "gloss": "goes-indeed",
+     "grounds": "fused sandhi yāti + eva; attainment or going to a state",
+     "morph": "compound=yāti+eva; verb 3.sg.pres.act √yā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "result in this world",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mokṣamihāpi",
+     "gloss": "liberation-here-also",
+     "grounds": "fused sandhi mokṣam + iha + api",
+     "morph": "compound=mokṣam+iha+api"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paratra",
+     "gloss": "in-other-world",
+     "grounds": "result beyond this life",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What benefits are attained by performing the weapon consecration in this world and beyond?",
+   "premises": [
+    "The performer attains a positive result",
+    "Happiness and liberation are named",
+    "Both this world and the other world are included"
+   ],
+   "inference": "The performer of this consecration attains happiness and liberation here and in the other world.",
+   "uncertainties": [],
+   "plain_english": "Such a person indeed attains happiness and liberation, both here and in the world beyond."
+  },
+  {
+   "verse": 5356,
+   "rows": [
+    {
+     "surface": "pakṣyākāraṃ",
+     "gloss": "bird-shaped",
+     "grounds": "compound pakṣi + ākāraṃ describing form",
+     "morph": "compound=pakṣi+ākāraṃ; m.acc.sg"
+    },
+    {
+     "surface": "suvarṇābhaṃ",
+     "gloss": "golden-lustered",
+     "grounds": "compound suvarṇa + ābhaṃ describing appearance",
+     "morph": "compound=suvarṇa+ābhaṃ; m.acc.sg"
+    },
+    {
+     "surface": "pakṣadvaya",
+     "gloss": "two-wings",
+     "grounds": "compound pakṣa + dvaya",
+     "morph": "compound=pakṣa+dvaya"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "past participle indicating possession of features",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What physical form characterizes the deity described in this iconographic instruction?",
+   "premises": [
+    "The form is described as bird-shaped",
+    "The appearance is golden-lustered",
+    "The form is endowed with two wings"
+   ],
+   "inference": "The deity should be envisioned as a golden, bird-shaped being with two wings.",
+   "uncertainties": [],
+   "plain_english": "He is bird-shaped, golden in luster, and endowed with two wings."
+  },
+  {
+   "verse": 5357,
+   "rows": [
+    {
+     "surface": "pādaissiṃhapadākāraiścacuturbhiśca",
+     "gloss": "with-feet-lion-foot-shaped-and-four-and",
+     "grounds": "fused sandhi pādaiḥ + siṃha-padākāraiḥ + ca + caturbhiḥ + ca",
+     "morph": "compound=pādaiḥ+siṃha+padākāraiḥ+ca+caturbhiḥ+ca"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "continues description of the form",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How many feet and of what shape should the described form possess?",
+   "premises": [
+    "Feet are specified as part of the form",
+    "The feet are likened to lion feet",
+    "The number of feet is four"
+   ],
+   "inference": "The described form is endowed with four feet shaped like those of a lion.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with four feet shaped like the feet of a lion."
+  },
+  {
+   "verse": 5358,
+   "rows": [
+    {
+     "surface": "divyalāṃgūlasaṃyuktaṃ",
+     "gloss": "with-divine-tail-joined",
+     "grounds": "compound divya + lāṃgūla + saṃyuktaṃ",
+     "morph": "compound=divya+lāṃgūla+saṃyuktaṃ; m.acc.sg"
+    },
+    {
+     "surface": "suvikīrṇa",
+     "gloss": "well-spread",
+     "grounds": "describes the matted hair",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jaṭānvitam",
+     "gloss": "matted-hair-endowed",
+     "grounds": "compound jaṭā + anvitam",
+     "morph": "compound=jaṭā+anvitam; m.acc.sg"
+    }
+   ],
+   "question": "What additional bodily features distinguish the described divine form?",
+   "premises": [
+    "A divine tail is present",
+    "Matted hair is present",
+    "The matted hair is well spread"
+   ],
+   "inference": "The form is distinguished by a divine tail and abundant, well-spread matted hair.",
+   "uncertainties": [],
+   "plain_english": "He is joined with a divine tail and endowed with well-spread matted locks."
+  },
+  {
+   "verse": 5359,
+   "rows": [
+    {
+     "surface": "siṃhāsyaṃ",
+     "gloss": "lion-faced",
+     "grounds": "compound siṃha + āsyaṃ",
+     "morph": "compound=siṃha+āsyaṃ; m.acc.sg"
+    },
+    {
+     "surface": "bhīmadaṃṣṭraṃca",
+     "gloss": "terrible-fangs-and",
+     "grounds": "fused sandhi bhīma-daṃṣṭram + ca",
+     "morph": "compound=bhīma+daṃṣṭram+ca"
+    },
+    {
+     "surface": "bhīmavikramasaṃyutam",
+     "gloss": "terrible-valor-endowed",
+     "grounds": "compound bhīma + vikrama + saṃyutam",
+     "morph": "compound=bhīma+vikrama+saṃyutam; m.acc.sg"
+    }
+   ],
+   "question": "What facial and heroic qualities define the fearsome aspect of this form?",
+   "premises": [
+    "The face is that of a lion",
+    "The fangs are terrible",
+    "The form is endowed with terrible valor"
+   ],
+   "inference": "The form is fearsome, having a lion face, terrible fangs, and terrible valor.",
+   "uncertainties": [],
+   "plain_english": "He has a lion’s face, terrible fangs, and is endowed with fearsome valor."
+  },
+  {
+   "verse": 5360,
+   "rows": [
+    {
+     "surface": "kṛtāñjalipuṭopetaṃ",
+     "gloss": "joined-palms-endowed",
+     "grounds": "compound kṛta-añjali-puṭa-upetaṃ indicating reverential gesture",
+     "morph": "compound=kṛta+añjali+puṭa+upetaṃ; m.acc.sg"
+    },
+    {
+     "surface": "niśceṣṭita",
+     "gloss": "motionless",
+     "grounds": "describes absence of movement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mahātanum",
+     "gloss": "great-bodied",
+     "grounds": "compound mahā + tanum",
+     "morph": "compound=mahā+tanum; m.acc.sg"
+    }
+   ],
+   "question": "What posture and bodily condition characterize the great form being described?",
+   "premises": [
+    "The form has hands joined in reverence",
+    "The form is motionless",
+    "The body is great in size"
+   ],
+   "inference": "The great-bodied form is motionless and holds its hands joined in reverence.",
+   "uncertainties": [],
+   "plain_english": "He is great-bodied, motionless, and has his hands joined in reverence."
+  },
+  {
+   "verse": 5361,
+   "rows": [
+    {
+     "surface": "pādābhyāmaṃbarasthābhyāṃ",
+     "gloss": "with-two-feet-sky-standing",
+     "grounds": "fused sandhi pādābhyām + ambara-sthābhyām; two feet in the sky",
+     "morph": "compound=pādābhyām+ambara+sthābhyām; m./n.inst.dual"
+    },
+    {
+     "surface": "kukṣisthābhyāñca",
+     "gloss": "with-belly-standing-and",
+     "grounds": "fused sandhi kukṣi-sthābhyām + ca; two feet at the belly",
+     "morph": "compound=kukṣi+sthābhyām+ca"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the described form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the four feet of the described form positioned relative to sky and belly?",
+   "premises": [
+    "Two feet are positioned in the sky",
+    "Two feet are positioned at the belly",
+    "The description applies to that form"
+   ],
+   "inference": "Of that form, two feet stand in the sky and two stand at the belly.",
+   "uncertainties": [],
+   "plain_english": "Of that form, two feet stand in the sky and two at the belly."
+  },
+  {
+   "verse": 5362,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇamādiṣṭantasya",
+     "gloss": "characteristics-taught-of-that",
+     "grounds": "fused sandhi lakṣaṇam + ādiṣṭam + tasya",
+     "morph": "compound=lakṣaṇam+ādiṣṭam+tasya"
+    },
+    {
+     "surface": "mantraśca",
+     "gloss": "and-mantra",
+     "grounds": "fused sandhi mantraḥ + ca",
+     "morph": "compound=mantraḥ+ca"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "introduces the mantra teaching",
+     "morph": "verb 3.sg.pres.pass √kath"
+    }
+   ],
+   "question": "What follows after the iconographic characteristics of the form have been taught?",
+   "premises": [
+    "The characteristics have been taught thus",
+    "The subject now shifts to the mantra",
+    "The mantra is said to be declared"
+   ],
+   "inference": "After teaching the characteristics of that form, the text proceeds to declare its mantra.",
+   "uncertainties": [],
+   "plain_english": "Thus the characteristics of that form have been taught, and now its mantra is declared."
+  },
+  {
+   "verse": 5363,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhasvarasamopetaṃ",
+     "gloss": "sixth-vowel-endowed",
+     "grounds": "compound ṣaṣṭha-svara-sama-upetaṃ; mantra element with sixth vowel",
+     "morph": "compound=ṣaṣṭha+svara+sama+upetaṃ; n.acc.sg"
+    },
+    {
+     "surface": "bindunāda",
+     "gloss": "dot-sound",
+     "grounds": "compound bindu + nāda; mantra phonetic marks",
+     "morph": "compound=bindu+nāda"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "indicates inclusion of bindu and nāda",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What phonetic components constitute the mantra being described?",
+   "premises": [
+    "The mantra includes the sixth vowel",
+    "The mantra includes bindu and nāda",
+    "These components are combined together"
+   ],
+   "inference": "The mantra is composed with the sixth vowel and is endowed with bindu and nāda.",
+   "uncertainties": [
+    "Exact identification of the sixth vowel depends on the specific phonetic system"
+   ],
+   "plain_english": "It is endowed with the sixth vowel and combined with bindu and nāda."
+  },
+  {
+   "verse": 5364,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker in mantra construction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hariharastvevaṃ",
+     "gloss": "hari-hara-thus",
+     "grounds": "fused sandhi hari-haraḥ + tu + evaṃ; names Hari and Hara",
+     "morph": "compound=hari+haraḥ+tu+evaṃ"
+    },
+    {
+     "surface": "caturthyantaṃ",
+     "gloss": "ending-in-fourth",
+     "grounds": "grammatical form ending in dative-like fourth ending",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padadvayam",
+     "gloss": "two-words",
+     "grounds": "compound pada + dvayam",
+     "morph": "compound=pada+dvayam; n.acc.sg"
+    }
+   ],
+   "question": "How should the two words naming Hari and Hara be formed in the mantra?",
+   "premises": [
+    "The sequence continues with Hari and Hara",
+    "Two words are specified",
+    "The words take a fourth-ending form"
+   ],
+   "inference": "Then the two words Hari and Hara should be formed with endings in the fourth case.",
+   "uncertainties": [],
+   "plain_english": "Then, thus, the two words Hari and Hara should be set in the fourth-case ending."
+  },
+  {
+   "verse": 5365,
+   "rows": [
+    {
+     "surface": "yojayeccharabheśārthaṃ",
+     "gloss": "one-should-join-for-sharabha-lord",
+     "grounds": "fused sandhi yojayet + śarabheśa-artham; application to Śarabheśa",
+     "morph": "compound=yojayet+śarabheśa+artham; verb 3.sg.opt.act √yuj"
+    },
+    {
+     "surface": "pūjādiṣviṣṭasiddhaye",
+     "gloss": "in-worship-etc-for-desired-success",
+     "grounds": "fused sandhi pūjā-ādiṣu + iṣṭa-siddhaye; purpose in ritual use",
+     "morph": "compound=pūjā+ādiṣu+iṣṭa+siddhaye"
+    }
+   ],
+   "question": "For what ritual purpose should the mantra be applied to Śarabheśa?",
+   "premises": [
+    "The mantra is to be joined for Śarabheśa",
+    "Its use includes worship and related rites",
+    "The aim is attainment of desired success"
+   ],
+   "inference": "The mantra should be applied to Śarabheśa in worship and related rites for the attainment of desired success.",
+   "uncertainties": [],
+   "plain_english": "One should apply it for Śarabheśa in worship and other rites to accomplish the desired end."
+  },
+  {
+   "verse": 5366,
+   "rows": [
+    {
+     "surface": "vajradeho",
+     "gloss": "diamond-bodied",
+     "grounds": "compound vajra + dehaḥ naming first attendant",
+     "morph": "compound=vajra+dehaḥ; m.nom.sg"
+    },
+    {
+     "surface": "bhavedādyaḥ",
+     "gloss": "should-be-first",
+     "grounds": "fused sandhi bhavet + ādyaḥ",
+     "morph": "compound=bhavet+ādyaḥ; verb 3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "khādakaśca",
+     "gloss": "devourer-and",
+     "grounds": "fused sandhi khādakaḥ + ca naming another attendant",
+     "morph": "compound=khādakaḥ+ca"
+    },
+    {
+     "surface": "viyojakaḥ",
+     "gloss": "separator",
+     "grounds": "name of another attendant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which attendant figures are named first in the prescribed group?",
+   "premises": [
+    "Vajradeha is named as the first",
+    "Khādaka is named next",
+    "Viyojaka is named as another"
+   ],
+   "inference": "The first attendants named are Vajradeha, Khādaka, and Viyojaka.",
+   "uncertainties": [],
+   "plain_english": "The first should be Vajradeha, and also Khādaka and Viyojaka."
+  },
+  {
+   "verse": 5367,
+   "rows": [
+    {
+     "surface": "balipriyeṇa",
+     "gloss": "with-offering-lover",
+     "grounds": "compound bali + priyeṇa naming another attendant",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "cāṣṭausyuḥ",
+     "gloss": "and-eight-should-be",
+     "grounds": "fused sandhi ca + aṣṭau + syuḥ; total count of eight",
+     "morph": "compound=ca+aṣṭau+syuḥ; verb 3.pl.opt.act √as"
+    },
+    {
+     "surface": "prāgdigārabhya",
+     "gloss": "beginning-from-east-direction",
+     "grounds": "compound prāk-dik + ārabhya indicating starting direction",
+     "morph": "compound=prāk+dik+ārabhya (indecl.)"
+    },
+    {
+     "surface": "saṃsthitāḥ",
+     "gloss": "situated",
+     "grounds": "describes placement of the eight",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many attendant figures are established and from which direction are they arranged?",
+   "premises": [
+    "An additional attendant is included with Balipriya",
+    "The total number is eight",
+    "Their arrangement begins from the eastern direction"
+   ],
+   "inference": "Eight attendants, including Balipriya, are situated beginning from the east.",
+   "uncertainties": [],
+   "plain_english": "Together with Balipriya there should be eight, situated beginning from the eastern direction."
+  },
+  {
+   "verse": 5368,
+   "rows": [
+    {
+     "surface": "svanāmādyakṣareṇaiṣāṃ",
+     "gloss": "by-own-name-first-syllable-of-these",
+     "grounds": "fused sandhi sva-nāma-ādya-akṣareṇa + eṣām; mantra extraction rule",
+     "morph": "compound=sva+nāma+ādya+akṣareṇa+eṣām"
+    },
+    {
+     "surface": "mantrāṇāmudhdṛtirbhavet",
+     "gloss": "of-mantras-extraction-should-be",
+     "grounds": "fused sandhi mantrāṇām + uddhṛtiḥ + bhavet",
+     "morph": "compound=mantrāṇām+uddhṛtiḥ+bhavet; verb 3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "By what principle should the mantras of these attendants be extracted?",
+   "premises": [
+    "Each attendant has a name",
+    "The first syllable of the name is specified",
+    "This syllable is used for mantra extraction"
+   ],
+   "inference": "The mantras of these attendants should be extracted using the first syllable of each one's own name.",
+   "uncertainties": [],
+   "plain_english": "The extraction of their mantras should be made from the first syllable of each of their own names."
+  },
+  {
+   "verse": 5369,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāṃ",
+     "gloss": "consecration",
+     "grounds": "ritual installation act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive optative",
+     "morph": "verb 3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "śubhalagnodaye'hani",
+     "gloss": "on-day-of-auspicious-ascendant-rising",
+     "grounds": "fused sandhi śubha-lagna-udaye + ahani; auspicious timing",
+     "morph": "compound=śubha+lagna+udaye+ahani"
+    }
+   ],
+   "question": "At what auspicious time should the consecration ritual be performed?",
+   "premises": [
+    "Consecration is to be performed",
+    "The action follows the previous steps",
+    "An auspicious rising of the ascendant on a day is specified"
+   ],
+   "inference": "The consecration should be performed on a day when an auspicious ascendant is rising.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the consecration on a day at the rising of an auspicious ascendant."
+  },
+  {
+   "verse": 5370,
+   "rows": [
+    {
+     "surface": "netrāṇāamapiratnānāmmokṣaṇaṃ",
+     "gloss": "of-eyes-also-of-gems-opening",
+     "grounds": "fused sandhi netrāṇām + api + ratnānām + mokṣaṇaṃ; eye-opening with gems",
+     "morph": "compound=netrāṇām+api+ratnānām+mokṣaṇaṃ"
+    },
+    {
+     "surface": "nyāsamācaret",
+     "gloss": "placement-one-should-perform",
+     "grounds": "fused sandhi nyāsam + ācaret; ritual placement",
+     "morph": "compound=nyāsam+ācaret; verb 3.sg.opt.act √ā-car"
+    }
+   ],
+   "question": "What preparatory ritual acts involving eyes, gems, and placement should be performed?",
+   "premises": [
+    "The opening of eyes is mentioned",
+    "Gems are also involved in the rite",
+    "A placement ritual is to be performed"
+   ],
+   "inference": "One should perform the opening of the eyes and gems and carry out the ritual placement.",
+   "uncertainties": [
+    "Exact ritual sequence implied by mokṣaṇaṃ and nyāsa is compressed"
+   ],
+   "plain_english": "One should perform the opening of the eyes and also of the gems, and carry out the placement."
+  },
+  {
+   "verse": 5371,
+   "rows": [
+    {
+     "surface": "jalādhivāsanaṃ",
+     "gloss": "water-dwelling",
+     "grounds": "ritual immersion or water consecration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates following earlier procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "performed distinctly for each",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive optative",
+     "morph": "verb 3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "hareharau",
+     "gloss": "for-hari-and-hara",
+     "grounds": "fused sandhi hare + harau; dual recipients",
+     "morph": "compound=hare+harau; m.loc.dual"
+    }
+   ],
+   "question": "How should the water-dwelling rite be performed for Hari and Hara?",
+   "premises": [
+    "The water-dwelling rite is prescribed",
+    "It should follow the earlier procedure",
+    "It should be done separately for Hari and Hara"
+   ],
+   "inference": "The water-dwelling rite should be performed separately for Hari and Hara as before.",
+   "uncertainties": [],
+   "plain_english": "One should perform the water-dwelling rite separately for Hari and Hara, as before."
+  },
+  {
+   "verse": 5372,
+   "rows": [
+    {
+     "surface": "pañcāgnyāyatanopeta",
+     "gloss": "with-five-fire-altars-endowed",
+     "grounds": "compound pañca-agni-āyatana-upeta; ritual setup option",
+     "morph": "compound=pañca+agni+āyatana+upeta"
+    },
+    {
+     "surface": "mekāgnyāyatanena",
+     "gloss": "with-one-fire-altar",
+     "grounds": "fused sandhi meka? likely eka-agni-āyatanena; alternative setup",
+     "morph": "compound=eka+agni+āyatanena; n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative fire-altar arrangements are permitted for the ritual?",
+   "premises": [
+    "A setup with five fire altars is mentioned",
+    "A setup with one fire altar is mentioned",
+    "The two arrangements are presented as alternatives"
+   ],
+   "inference": "The ritual may be performed with five fire altars or with a single fire altar.",
+   "uncertainties": [
+    "Surface mekāgnyāyatanena likely reflects eka-agni-āyatanena but is kept as given"
+   ],
+   "plain_english": "It may be done with five fire altars or with one fire altar."
+  },
+  {
+   "verse": 5373,
+   "rows": [
+    {
+     "surface": "viprabhuktintaducchiṣṭodvāsanaṃ",
+     "gloss": "brahmin-eating-that-remnant-dismissal",
+     "grounds": "fused compound vipra-bhuktim + tad-ucchiṣṭa-udvāsanaṃ; ritual sequence",
+     "morph": "compound=vipra+bhuktim+tad+ucchiṣṭa+udvāsanaṃ"
+    },
+    {
+     "surface": "mārjanaṃ",
+     "gloss": "cleansing",
+     "grounds": "purificatory act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual acts of feeding, dismissal, and cleansing should follow in sequence?",
+   "premises": [
+    "Feeding of brahmins is included",
+    "Dismissal of the remnants is included",
+    "Cleansing is performed again"
+   ],
+   "inference": "After the brahmins eat, the remnants are dismissed and cleansing is performed again.",
+   "uncertainties": [
+    "Exact segmentation of viprabhuktintaducchiṣṭodvāsanaṃ is uncertain"
+   ],
+   "plain_english": "There should be the feeding of brahmins, the dismissal of the remnants, and cleansing again."
+  },
+  {
+   "verse": 5374,
+   "rows": [
+    {
+     "surface": "śayanaṃ",
+     "gloss": "resting",
+     "grounds": "ritual laying to rest",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "following earlier procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhanaṃ",
+     "gloss": "tying",
+     "grounds": "ritual binding act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kautukasya",
+     "gloss": "of-protective-thread",
+     "grounds": "refers to the kautuka thread or token",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which concluding ritual acts, including the tying of the protective thread, should be performed as before?",
+   "premises": [
+    "Resting and bathing are prescribed",
+    "The tying of the protective thread is prescribed",
+    "These acts follow the earlier procedure"
+   ],
+   "inference": "Resting, bathing, and the tying of the protective thread should be performed as before.",
+   "uncertainties": [],
+   "plain_english": "The resting, bathing, and the tying of the protective thread should be done as before."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p214",
+ "items": [
+  {
+   "verse": 5350,
+   "rows": [
+    {
+     "surface": "palāśa",
+     "gloss": "palāśa-wood",
+     "grounds": "names a type of sacred wood used in ritual oblations",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uduṃbara",
+     "gloss": "uduṃbara-wood",
+     "grounds": "names a type of sacred wood used in ritual oblations",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśvattha",
+     "gloss": "aśvattha-wood",
+     "grounds": "names a type of sacred wood used in ritual oblations",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṭāḥ",
+     "gloss": "vaṭa-trees",
+     "grounds": "names banyan wood; nominative plural in the list of woods",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "indra+api",
+     "gloss": "indra-and-others",
+     "grounds": "compound indicating Indra and associated directions or deities; internal sandhi in fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative indicating the cardinal directions for placement or offering",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting items in the ritual specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred woods are prescribed for use in the directional oblations during the fire ritual?",
+   "premises": [
+    "The verse lists palāśa, uduṃbara, aśvattha, and vaṭa as ritual woods.",
+    "The term dikṣu specifies placement or use in the directions.",
+    "The compound indra+api links the directions with Indra and others."
+   ],
+   "inference": "Palāśa, uduṃbara, aśvattha, and vaṭa woods are to be used in the directions associated with Indra and others during the oblation.",
+   "uncertainties": [
+    "The exact syntactic role of indra+api in relation to dikṣu is context-dependent.",
+    "The precise ritual action applied to these woods is supplied by the preceding verses."
+   ],
+   "plain_english": "Palāśa, uduṃbara, aśvattha, and vaṭa woods are used in the directions, including that of Indra and others."
+  }
+ ]
+}
