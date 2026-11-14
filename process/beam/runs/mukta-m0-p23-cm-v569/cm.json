@@ -3,24 +3,39 @@
  "verse": 569,
  "rows": [
   {
-   "lemma": "dvi+tri+aṃgula+kṣayāt+vā+api",
-   "morph": "compound: dvi+tri+aṅgula+kṣaya (m.abl.sg.) + (indecl.) + (indecl.)",
-   "grounds": "compound indicating reduction by two or three fingers as an alternative"
+   "lemma": "candra",
+   "morph": "compound-member",
+   "grounds": "first element in compound"
   },
   {
-   "lemma": "mekhalā",
-   "morph": "f.nom.sg.",
-   "grounds": "the girdle or band of the platform"
+   "lemma": "bindu",
+   "morph": "compound-member",
+   "grounds": "second element in compound; mantra mark"
   },
   {
-   "lemma": "mānam",
-   "morph": "n.nom.sg.",
-   "grounds": "the prescribed measurement"
+   "lemma": "yutaṃ",
+   "morph": "n.acc.sg compound-final",
+   "grounds": "joined with moon and bindu"
   },
   {
-   "lemma": "īritam",
-   "morph": "n.nom.sg.past-participle (√īr)",
-   "grounds": "past participle indicating what has been declared"
+   "lemma": "kṛtvā",
+   "morph": "(indecl.) absolutive √kṛ",
+   "grounds": "preparatory act"
+  },
+  {
+   "lemma": "eka+ekaṃ",
+   "morph": "n.acc.sg compound(eka+eka)",
+   "grounds": "distributive repetition"
+  },
+  {
+   "lemma": "daśadhā",
+   "morph": "(indecl.)",
+   "grounds": "number of repetitions"
+  },
+  {
+   "lemma": "japet",
+   "morph": "3.sg.active-optative √jap",
+   "grounds": "prescriptive injunction"
   }
  ]
 }

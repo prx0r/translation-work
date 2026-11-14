@@ -3,29 +3,39 @@
  "verse": 538,
  "rows": [
   {
-   "lemma": "aṣṭottaraśataṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound: aṣṭa+uttara+śata; numerical measure"
+   "lemma": "tat+kathaṃ",
+   "morph": "tad+katham (compound, indecl.)",
+   "grounds": "compound interrogative phrase"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
+   "lemma": "sidhyate",
+   "morph": "3.sg.pass-pres (sidh)",
+   "grounds": "verb indicating accomplishment"
+  },
+  {
+   "lemma": "mantraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject of the question"
+  },
+  {
+   "lemma": "kiṃ",
+   "morph": "n.nom.sg",
+   "grounds": "interrogative pronoun"
+  },
+  {
+   "lemma": "kartavyaṃ",
+   "morph": "n.nom.sg (gerundive, kṛ)",
+   "grounds": "gerundive expressing required action"
+  },
+  {
+   "lemma": "tadā",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable indicating time"
+  },
+  {
+   "lemma": "prabho",
+   "morph": "m.voc.sg",
    "grounds": "vocative address"
-  },
-  {
-   "lemma": "bhinnāyāṃ",
-   "morph": "f.loc.sg",
-   "grounds": "locative describing the divided state"
-  },
-  {
-   "lemma": "triguṇaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound: tri+guṇa; object of nyaset"
-  },
-  {
-   "lemma": "nyaset",
-   "morph": "3.sg.optative.active (ni-as)",
-   "grounds": "prescribed ritual action"
   }
  ]
 }

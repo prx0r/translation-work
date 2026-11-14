@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p25",
  "verse": 625,
- "question": "Which obeisance mantra addressed to Ananta and Virajā must be placed again?",
+ "question": "What declaration does the speaker make about bathing in the Gaṅgā to the fair-hipped one?",
  "premises": [
-  "The instruction prescribes placing a mantra formula.",
-  "The formula contains the bīja syllables oṃ and āṃ.",
-  "The obeisance is directed to Ananta and to Virajā."
+  "The speaker addresses the fair-hipped one directly.",
+  "The speaker refers to bathing in the Gaṅgā.",
+  "The speaker asserts a first-person declaration marked by 'thus I'."
  ],
- "inference": "Therefore one should again place the mantra 'oṃ āṃ anantāya virajāyai natiḥ'.",
- "uncertainties": [],
- "plain_english": "One should again place: 'oṃ āṃ, obeisance to Ananta and to Virajā.'"
+ "inference": "The speaker concludes or declares, in the first person, an act involving bathing in the Gaṅgā.",
+ "uncertainties": [
+  "The initial token '....ṣyāṃ' is fragmentary, so the full verb and its precise meaning are uncertain."
+ ],
+ "plain_english": "And, O fair-hipped one, I [shall ...] bathing in the Gaṅgā, thus I say."
 }
