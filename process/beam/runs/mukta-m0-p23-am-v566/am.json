@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p23",
  "verse": 566,
- "question": "Where should the Viṣṇu-associated elements be placed within the diagram?",
+ "question": "What neck rise is specified when the neck height is two parts of twelve?",
  "premises": [
-  "Viṣṇu's place is identified",
-  "Four cells are specified",
-  "Placement is prescribed"
+  "The neck height is taken as two parts of twelve.",
+  "A specific rise is assigned to the neck.",
+  "That rise is one part."
  ],
- "inference": "They should be placed in the four cells of Viṣṇu's place.",
- "uncertainties": [],
- "plain_english": "One should place them in the four cells of Viṣṇu's place."
+ "inference": "When the neck height is two twelfths, the neck rise should be one part.",
+ "uncertainties": [
+  "The exact unit system for kalāṃśa is technical."
+ ],
+ "plain_english": "When the neck height is two parts out of twelve, the neck rise should be one part."
 }

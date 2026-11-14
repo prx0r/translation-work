@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p22",
  "verse": 543,
- "question": "What kinds of human seekers continually serve this deity for their aims?",
+ "question": "What alternative measures define the platform height in relation to the pillar?",
  "premises": [
-  "Those driven by desire serve her.",
-  "Those driven by duty and seekers of wealth serve her.",
-  "This service is continual."
+  "Half the pillar is given as a measure.",
+  "A part of the total height is given as an alternative.",
+  "Both define the platform measure."
  ],
- "inference": "She is always served by those seeking desire, duty, and wealth.",
- "uncertainties": [],
- "plain_english": "She is always served by those driven by desire, by duty, and by seekers of wealth."
+ "inference": "The platform measure may be half the pillar or a part of the total height.",
+ "uncertainties": [
+  "The exact parsing of āpotsedhāṃśam is context-dependent."
+ ],
+ "plain_english": "The platform measure should be half the pillar, or alternatively a part of the total height."
 }

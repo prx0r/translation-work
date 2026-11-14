@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 510,
- "question": "What adornments and ritual consumption mark Bhadrakālī's iconography?",
+ "question": "What allowable variation in door width is specified relative to half its height?",
  "premises": [
-  "She wears a garland of skulls.",
-  "Her limbs are variegated.",
-  "She drinks blood-liquor."
+  "Half the height is the baseline width",
+  "The width may be more or less",
+  "The variation is measured in twentieths less one"
  ],
- "inference": "Bhadrakālī is iconographically marked by a skull garland and the drinking of blood-liquor.",
- "uncertainties": [],
- "plain_english": "Garlanded with skulls, with variegated limbs, she drinks blood-liquor."
+ "inference": "The door width may be more or less than half the height, adjusted by one part in twenty.",
+ "uncertainties": [
+  "The exact arithmetic of ekona viṃśati is contextually interpreted"
+ ],
+ "plain_english": "The width may be more or less than half the height, by one part in twenty."
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "yatraiva",
+     "gloss": "wherever-indeed",
+     "grounds": "indecl.; yatra + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjitaṃ",
+     "gloss": "excluded",
+     "grounds": "past participle describing absence of prior placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattatmānasūtraṃ",
+     "gloss": "which-that-measuring-cord",
+     "grounds": "fused form: yat + tat + mānasūtraṃ; internal sandhi noted, token kept whole",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive verb indicating ritual prescription",
+     "morph": "3.sg.pass.pres vi-dhā"
+    }
+   ],
+   "question": "Under what condition is the measuring cord to be prescribed in the ritual layout?",
+   "premises": [
+    "A location may lack a previously placed measuring cord.",
+    "The measuring cord is the operative line for ritual measurement.",
+    "Ritual procedure requires explicit prescription for such cases."
+   ],
+   "inference": "Wherever the measuring cord is absent, that measuring cord is to be prescribed there.",
+   "uncertainties": [
+    "The exact referent of the absence depends on the preceding layout instructions in verses 673–674."
+   ],
+   "plain_english": "Wherever it is lacking, that very measuring cord is to be laid down."
+  }
+ ]
+}

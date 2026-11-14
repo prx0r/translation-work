@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "śaktidhvajopariṣṭāttu",
+     "gloss": "spear-banner-above-and",
+     "grounds": "compound śakti-dhvaja-upariṣṭāt with enclitic tu; fused form kept as one token",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "patraṃ",
+     "gloss": "leaf",
+     "grounds": "object or element placed above",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "vā combined with atha introducing an alternative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saśūlakam",
+     "gloss": "with-spear",
+     "grounds": "bahuvrīhi-like possessive compound sa-śūlaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What element may be placed above the spear-banner in this prescribed form?",
+   "premises": [
+    "The location specified is above the spear-banner.",
+    "One permitted element is a leaf.",
+    "An alternative permitted element is one furnished with a spear."
+   ],
+   "inference": "The form above the spear-banner admits either a leaf or a spear-bearing element as valid alternatives.",
+   "uncertainties": [
+    "The exact referent of patraṃ (leaf, blade, or petal-like ornament) is context-dependent.",
+    "The precise object described by saśūlakam is not fully specified in this verse alone."
+   ],
+   "plain_english": "Above the spear-banner there may be a leaf, or alternatively an element furnished with a spear."
+  }
+ ]
+}

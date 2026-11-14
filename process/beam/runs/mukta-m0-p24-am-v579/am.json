@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p24",
  "verse": 579,
- "question": "What ritual offering is prescribed for Viṣṇu on the seventh day?",
+ "question": "What thickness must the disk have relative to that element’s width?",
  "premises": [
-  "The seventh day is specified for this action.",
-  "Viṣṇu is the designated recipient.",
-  "An offering should be formally presented."
+  "The reference measure is the width of that element.",
+  "A fourth part of that width is specified.",
+  "The disk-thickness is prescribed accordingly."
  ],
- "inference": "On the seventh day one should offer to Viṣṇu.",
- "uncertainties": [
-  "The specific substance of the offering is implied from context."
- ],
- "plain_english": "On the seventh day, one should make an offering to Viṣṇu."
+ "inference": "The thickness of its disk should be one fourth of that width.",
+ "uncertainties": [],
+ "plain_english": "In that width, the thickness of its disk should be one fourth."
 }

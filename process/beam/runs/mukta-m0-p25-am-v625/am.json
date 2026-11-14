@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p25",
  "verse": 625,
- "question": "Must Mahākāla be installed according to the same established ritual procedure as the preceding deities?",
+ "question": "Which specific rice varieties are included under the previously defined grain-length measurement?",
  "premises": [
-  "Mahākāla is to be installed likewise.",
-  "The installation is performed in the same manner.",
-  "This procedure is remembered as traditionally established."
+  "White rice is named as a variety.",
+  "Great rice is named as a variety.",
+  "Red rice is named as a variety.",
+  "These varieties are included in the same manner."
  ],
- "inference": "Mahākāla should be installed following the same established ritual procedure.",
- "uncertainties": [],
- "plain_english": "One should likewise install Mahākāla, and this procedure is remembered as the established one."
+ "inference": "The previously stated measurement applies equally to white rice, great rice, and red rice.",
+ "uncertainties": [
+  "The exact grammatical role of the listed nominatives in relation to the preceding verse is implied by context."
+ ],
+ "plain_english": "White rice, great rice, and red rice are likewise included."
 }

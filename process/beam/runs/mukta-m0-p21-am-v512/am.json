@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 512,
- "question": "Who accompanies Bhadrakālī in her fully described form?",
+ "question": "How is the thickness of the door frame determined from its width?",
  "premises": [
-  "Bhadrakālī is constituted as described above.",
-  "Mother goddesses are present.",
-  "She is surrounded by them."
+  "The door frame has a defined width",
+  "Half of that width is taken",
+  "That half is called the thickness"
  ],
- "inference": "Bhadrakālī, in this form, is surrounded by the mother goddesses.",
- "uncertainties": [],
- "plain_english": "Thus constituted, Bhadrakālī is surrounded by the mother goddesses."
+ "inference": "The thickness of the door frame is defined as half its width.",
+ "uncertainties": [
+  "dhana is interpreted as thickness or depth in this architectural context"
+ ],
+ "plain_english": "Half the width of the door frame is called its thickness."
 }

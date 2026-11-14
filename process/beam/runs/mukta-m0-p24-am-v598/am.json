@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p24",
  "verse": 598,
- "question": "What outcomes are declared in this part of the sequential results?",
+ "question": "What fractional alternatives are prescribed for that elevated height?",
  "premises": [
-  "Sons are declared as a result.",
-  "Attainment of wealth is declared as a result.",
-  "Death is declared as a result."
+  "An elevated height is being specified.",
+  "One option is three parts.",
+  "Another option is one part of three."
  ],
- "inference": "The declared results are sons, attainment of wealth, and death.",
- "uncertainties": [],
- "plain_english": "Sons, attainment of wealth, and death are declared as the results."
+ "inference": "That elevation may be set as three parts, or as one part out of three.",
+ "uncertainties": [
+  "The base unit for these fractional divisions is implied."
+ ],
+ "plain_english": "That elevation may be three parts, or else one part out of three."
 }

@@ -1,0 +1,1030 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśumān",
+     "gloss": "aṃśumān",
+     "grounds": "name of the text or tradition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kāśyapa",
+     "grounds": "locative title element",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bodhikālakṣaṇapaṭalaḥ",
+     "gloss": "enlightenment-time-signs-chapter",
+     "grounds": "compound naming the chapter",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "navamaḥ",
+     "gloss": "ninth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa concludes at this point in the text?",
+   "premises": [
+    "The verse uses the concluding particle iti.",
+    "It names the Aṃśumān Kāśyapa.",
+    "It identifies the chapter on the signs of the time of enlightenment as the ninth."
+   ],
+   "inference": "This verse marks the formal conclusion of the ninth chapter on the characteristics of the time of enlightenment in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the ninth chapter, on the characteristics of the time of enlightenment, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "tridaṇḍaṃ",
+     "gloss": "three-staff-measure",
+     "grounds": "measure of width",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "phalakāvyāsaṃ",
+     "gloss": "plank-width",
+     "grounds": "object and dimension",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kanyasārdhādhikaṃ",
+     "gloss": "smallest-half-increased",
+     "grounds": "qualification of measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "describes uniformity",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is prescribed for the plank in the smallest configuration?",
+   "premises": [
+    "The plank width is specified as three daṇḍas.",
+    "An additional qualification states it is increased by half for the smallest.",
+    "The measure is described as equal or uniform."
+   ],
+   "inference": "The prescribed plank width is three daṇḍas, adjusted by an additional half in the smallest configuration.",
+   "uncertainties": [
+    "The exact application of kanyasārdhādhikaṃ to the base measure is somewhat ambiguous."
+   ],
+   "plain_english": "The width of the plank is three daṇḍas, equal, and increased by half for the smallest type."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalakāvyāsaṃ",
+     "gloss": "plank-width",
+     "grounds": "object and dimension",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kuṃbhakarṇasamaṃ",
+     "gloss": "kuṃbhakarṇa-equal",
+     "grounds": "comparison to a standard measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-act (√bhū)"
+    }
+   ],
+   "question": "What alternative measure is permitted for the width of the plank?",
+   "premises": [
+    "The verse introduces an alternative with athavā.",
+    "The subject is the width of the plank.",
+    "The width may be equal to the kuṃbhakarṇa measure."
+   ],
+   "inference": "As an alternative, the plank width may be made equal to the kuṃbhakarṇa measure.",
+   "uncertainties": [
+    "The precise technical value of kuṃbhakarṇa as a measure is not specified here."
+   ],
+   "plain_english": "Or the width of the plank may be equal to the kuṃbhakarṇa measure."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "tadutsedhaṃ",
+     "gloss": "its-height",
+     "grounds": "object to be divided",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "in-three-parts",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajya",
+     "gloss": "having-divided",
+     "grounds": "action prior to prescription",
+     "morph": "(gerund, √bhaj)"
+    },
+    {
+     "surface": "ūrdhvāṃśotsaṃdhirucyate",
+     "gloss": "upper-part-joint-is-said",
+     "grounds": "prescribed result of division",
+     "morph": "3.sg.present-passive (√vac) (compound subject)"
+    }
+   ],
+   "question": "How is the joint of the upper part determined from the total height?",
+   "premises": [
+    "The total height is to be divided.",
+    "The division is into three parts.",
+    "The joint of the upper part is then identified."
+   ],
+   "inference": "Dividing the height into three parts establishes the joint of the upper part.",
+   "uncertainties": [],
+   "plain_english": "Dividing its height into three parts, the joint of the upper part is defined."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "nāgavaktrasamākāraṃ",
+     "gloss": "elephant-face-like-shape",
+     "grounds": "describes the intended form",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "āpotrātpādarūpavat",
+     "gloss": "like-foot-form-from-spout",
+     "grounds": "comparative description of form",
+     "morph": "(indecl., compound with comparative suffix)"
+    }
+   ],
+   "question": "What shape is prescribed for the element described in this instruction?",
+   "premises": [
+    "The form is compared to an elephant’s face.",
+    "It is also compared to a foot-like form arising from a spout or projection."
+   ],
+   "inference": "The element should be shaped like an elephant’s face, resembling a foot-like form extending from a spout.",
+   "uncertainties": [
+    "The exact architectural referent of āpotra and pādarūpa is uncertain."
+   ],
+   "plain_english": "It should be shaped like an elephant’s face, like a foot-form projecting from a spout."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "phalakeva",
+     "gloss": "like-plank",
+     "grounds": "comparative form; internal sandhi phalakā+iva",
+     "morph": "(indecl., compound with iva)"
+    },
+    {
+     "surface": "prakartavyā",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive obligation",
+     "morph": "f.nom.sg.future-passive-participle (√kṛ)"
+    },
+    {
+     "surface": "tasyādhastāt",
+     "gloss": "below-it",
+     "grounds": "locational instruction",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "ghaṭaṃ",
+     "gloss": "pot",
+     "grounds": "object to be made",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "direct command",
+     "morph": "2.sg.imperative-act (√kṛ)"
+    }
+   ],
+   "question": "What construction is required below the plank-like element?",
+   "premises": [
+    "The element should be made like a plank.",
+    "A location below it is specified.",
+    "A pot is to be made there."
+   ],
+   "inference": "After forming the plank-like element, one must make a pot below it.",
+   "uncertainties": [],
+   "plain_english": "It should be made like a plank, and below it you should make a pot."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "sapādadaṇḍatuṃgaṃ",
+     "gloss": "with-quarter-staff-high",
+     "grounds": "specifies height measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭoccaṃ",
+     "gloss": "pot-height",
+     "grounds": "subject of measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "classifies types",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What height and classification are given for the pot in this alternative?",
+   "premises": [
+    "An alternative height is given as one daṇḍa plus a quarter.",
+    "The subject is the height of the pot.",
+    "The pot is described as fourfold."
+   ],
+   "inference": "The pot may alternatively be one and a quarter daṇḍas high and is classified into four kinds.",
+   "uncertainties": [],
+   "plain_english": "Or the pot’s height is one daṇḍa plus a quarter, and it is of four kinds."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "introduces manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "indicates sequence",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "items being stated",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kalaśānāṃ",
+     "gloss": "of-pots",
+     "grounds": "possessor of names",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kramoditam",
+     "gloss": "stated-in-order",
+     "grounds": "describes how names are given",
+     "morph": "n.nom.sg (compound, past-passive-participle √vad)"
+    }
+   ],
+   "question": "How are the names of the different pots presented in the teaching?",
+   "premises": [
+    "The verse refers to the names of the pots.",
+    "It specifies that they are given in order.",
+    "The statement is described as sequentially declared."
+   ],
+   "inference": "The names of the pots are presented in a fixed sequential order.",
+   "uncertainties": [],
+   "plain_english": "The names of the pots are stated in due order, one after another."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "measure of height; veda implies four",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "kalaśotsedhaṃ",
+     "gloss": "pot-height",
+     "grounds": "dimension being measured",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kaṇṭham",
+     "gloss": "neck",
+     "grounds": "part of the pot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekāṃśamānataḥ",
+     "gloss": "one-part-in-measure",
+     "grounds": "measure of the neck",
+     "morph": "(indecl., compound)"
+    }
+   ],
+   "question": "What proportional measures are assigned to the pot’s height and its neck?",
+   "premises": [
+    "The pot’s height is given as four parts.",
+    "The neck is measured separately.",
+    "The neck is assigned one part in measure."
+   ],
+   "inference": "The pot’s total height is four parts, of which the neck occupies one part.",
+   "uncertainties": [],
+   "plain_english": "The height of the pot is four parts, and the neck is one part in measure."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "ardhena",
+     "gloss": "by-half",
+     "grounds": "specifies proportion",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "round",
+     "grounds": "shape to be conceived",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ardhena",
+     "gloss": "by-half",
+     "grounds": "specifies proportion",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "hīnau",
+     "gloss": "diminished-two",
+     "grounds": "describes reduction; dual form",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "saṃkalpayed",
+     "gloss": "should-conceive",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-act (√kḷp with sam)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "agent of conception",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner shape the pot according to proportional divisions?",
+   "premises": [
+    "One portion is to be made round by half.",
+    "Another aspect is diminished by half.",
+    "The wise one is instructed to conceive it accordingly."
+   ],
+   "inference": "The wise practitioner should form the pot with one half rounded and another aspect reduced by half.",
+   "uncertainties": [
+    "The exact referents of the two halves and the dual hīnau are not fully explicit."
+   ],
+   "plain_english": "The wise one should conceive it as round by half and diminished by half."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "summarizes previous instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaṃ",
+     "gloss": "height",
+     "grounds": "dimension already explained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "states completion of explanation",
+     "morph": "n.nom.sg.past-passive-participle (√khyā with sam-ā)"
+    },
+    {
+     "surface": "niṣkaṃbham",
+     "gloss": "diameter",
+     "grounds": "new dimension to be explained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "marks transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listener",
+     "morph": "2.sg.imperative-act (√śru)"
+    }
+   ],
+   "question": "What new dimension is introduced after the height has been fully explained?",
+   "premises": [
+    "The height has been declared.",
+    "The speaker marks a transition with now.",
+    "The listener is told to hear about the diameter."
+   ],
+   "inference": "After explaining the height, the text proceeds to explain the diameter.",
+   "uncertainties": [],
+   "plain_english": "Thus the height has been declared; now hear about the diameter."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "āsyaṃ",
+     "gloss": "mouth",
+     "grounds": "part of the pot",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇaṃ",
+     "gloss": "ear",
+     "grounds": "part of the pot",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasizes specification",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kuṃbhasyaiva",
+     "gloss": "of-pot-indeed",
+     "grounds": "restricts reference to the pot; internal sandhi kuṃbhasya+eva",
+     "morph": "m.gen.sg (compound with eva)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "expanded",
+     "grounds": "describes breadth",
+     "morph": "n.nom.sg.past-passive-participle (√stṛ with vi)"
+    }
+   ],
+   "question": "Which parts of the pot are specifically described as expanded in breadth?",
+   "premises": [
+    "The mouth and ear are named.",
+    "The specification applies especially to the pot itself.",
+    "These parts are described as expanded."
+   ],
+   "inference": "The mouth and ear of the pot are specifically to be made expanded.",
+   "uncertainties": [],
+   "plain_english": "Especially the mouth and the ear of the pot itself are to be broad."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "tasyādholaśunaṃ",
+     "gloss": "its-below-laśuna",
+     "grounds": "locates the laśuna element below it",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "mūlatuṃgadaṇḍaikamānataḥ",
+     "gloss": "root-height-one-staff-measure",
+     "grounds": "specifies its measure",
+     "morph": "(indecl., compound)"
+    }
+   ],
+   "question": "What measure is prescribed for the laśuna element below the pot?",
+   "premises": [
+    "A laśuna element is located below the pot.",
+    "Its measure is given in relation to root height.",
+    "The measure is specified as one daṇḍa."
+   ],
+   "inference": "The laśuna below the pot should measure one daṇḍa in root height.",
+   "uncertainties": [
+    "The technical meaning of laśuna in this architectural context is uncertain."
+   ],
+   "plain_english": "Below it, the laśuna should measure one daṇḍa in height from the base."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "abjāthasvardhadaṇḍena",
+     "gloss": "with-half-staff-measure",
+     "grounds": "instrumental measure; compound reading uncertain",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "vaktrasthānam",
+     "gloss": "mouth-place",
+     "grounds": "location being defined",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "states prescription",
+     "morph": "n.nom.sg.past-passive-participle (√hṛ with ud-ā)"
+    }
+   ],
+   "question": "What measure is declared for the placement of the mouth element?",
+   "premises": [
+    "The place of the mouth is the subject.",
+    "A measure involving half a daṇḍa is given.",
+    "This placement is declared by the text."
+   ],
+   "inference": "The position of the mouth is declared using a measure of half a daṇḍa.",
+   "uncertainties": [
+    "The internal analysis of abjāthasvardhadaṇḍena is unclear."
+   ],
+   "plain_english": "The place of the mouth is declared to be measured by half a daṇḍa."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "laśunaṃ",
+     "gloss": "laśuna",
+     "grounds": "ornamental element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abjapatraṃ",
+     "gloss": "lotus-leaf",
+     "grounds": "ornamental element",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktādāma",
+     "gloss": "pearl-garland",
+     "grounds": "ornamental element",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion in same manner; internal sandhi tathā+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ornamental elements are listed together for this part of the design?",
+   "premises": [
+    "The laśuna element is named.",
+    "The lotus leaf is named.",
+    "The pearl garland is named likewise."
+   ],
+   "inference": "The design includes the laśuna, the lotus leaf, and the pearl garland as ornamental elements.",
+   "uncertainties": [],
+   "plain_english": "There should be the laśuna, the lotus leaf, and likewise the pearl garland."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhikādīnāṃ",
+     "gloss": "of-bodhikā-and-others",
+     "grounds": "objects whose height is discussed",
+     "morph": "f.gen.pl (compound)"
+    },
+    {
+     "surface": "udayaṃ",
+     "gloss": "height",
+     "grounds": "dimension to be stated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "now",
+     "grounds": "particle of transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadāmyaham",
+     "gloss": "i-say",
+     "grounds": "speaker declares intention; internal sandhi vadāmi+aham",
+     "morph": "1.sg.present-act (√vad) + 1.sg.pronoun"
+    }
+   ],
+   "question": "What alternative topic does the speaker propose to explain next?",
+   "premises": [
+    "The verse introduces an alternative with athavā.",
+    "The height of the bodhikā and related elements is mentioned.",
+    "The speaker states an intention to explain it."
+   ],
+   "inference": "The speaker proposes to explain, as an alternative, the height of the bodhikā and similar elements.",
+   "uncertainties": [],
+   "plain_english": "Or now I shall explain the height of the bodhikā and the other elements."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "ūrdhvabhāgaṃ",
+     "gloss": "upper-part",
+     "grounds": "portion to be taken",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle of continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrāhya",
+     "gloss": "having-taken",
+     "grounds": "action prior to division",
+     "morph": "(gerund, √grah with sam)"
+    },
+    {
+     "surface": "dvāviṃśatyaṃśakaṃ",
+     "gloss": "twenty-two-parts",
+     "grounds": "resulting division",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-act (√bhū)"
+    }
+   ],
+   "question": "Into how many parts should the upper portion be divided in this method?",
+   "premises": [
+    "The upper part is to be taken.",
+    "A division into parts is prescribed.",
+    "The total number of parts is twenty-two."
+   ],
+   "inference": "The upper part should be divided into twenty-two parts.",
+   "uncertainties": [],
+   "plain_english": "Taking the upper part, one should divide it into twenty-two parts."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "measure; bhūta implies five",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "phalakotsedhaṃ",
+     "gloss": "plank-height",
+     "grounds": "dimension being measured",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ghṛtamānāṃśakaṃ",
+     "gloss": "ghee-measure-part",
+     "grounds": "another specified part; technical term uncertain",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-act (√bhū)"
+    }
+   ],
+   "question": "What proportional assignments are made to the plank height and the ghṛta measure?",
+   "premises": [
+    "The plank height is assigned five parts.",
+    "A ghṛta-measure part is also specified.",
+    "Both are stated as prescribed measures."
+   ],
+   "inference": "The plank height should be five parts, with a corresponding ghṛta-measure part assigned.",
+   "uncertainties": [
+    "The meaning of ghṛtamānāṃśakaṃ as a technical measure is uncertain."
+   ],
+   "plain_english": "The height of the plank should be five parts, and the ghṛta-measure part should be as specified."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks subsequent step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asyodayamekāṃśaṃ",
+     "gloss": "its-rise-one-part",
+     "grounds": "specifies rise measure",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "element to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "with-one",
+     "grounds": "measure for making the lotus",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "prescriptive causative",
+     "morph": "3.sg.optative-causative-act (√kṛ)"
+    }
+   ],
+   "question": "What rise and lotus measure are prescribed at this stage of construction?",
+   "premises": [
+    "The rise of this element is specified as one part.",
+    "A lotus element is to be made.",
+    "The lotus is to be made with one part."
+   ],
+   "inference": "At this stage, the rise is one part and a lotus of one part should be made.",
+   "uncertainties": [],
+   "plain_english": "Then its rise should be one part, and one should make the lotus with one part."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "laśunā",
+     "gloss": "laśuna",
+     "grounds": "ornamental element; form as given",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "abjalatā",
+     "gloss": "lotus-creeper",
+     "grounds": "ornamental element",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "muktāmālā",
+     "gloss": "pearl-garland",
+     "grounds": "ornamental element",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "mānādi",
+     "gloss": "measure-and-so-on",
+     "grounds": "indicates measures and related details",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "refers to earlier prescription",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the measures of the laśuna, lotus creeper, and pearl garland be determined?",
+   "premises": [
+    "The laśuna, lotus creeper, and pearl garland are listed.",
+    "Measures and related details are indicated.",
+    "The instruction refers back to earlier prescriptions."
+   ],
+   "inference": "The measures for the laśuna, lotus creeper, and pearl garland should follow the earlier specifications.",
+   "uncertainties": [
+    "The instrumental form laśunā is unusual in this list and may reflect the transmitted text."
+   ],
+   "plain_english": "The laśuna, lotus creeper, pearl garland, and their measures should be as before."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "ityaṃśumān",
+     "gloss": "thus-aṃśumān",
+     "grounds": "concluding formula with text name; internal sandhi iti+aṃśumān",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kāśyapa",
+     "grounds": "locative title element",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "stambhabhūṣaṇa",
+     "gloss": "pillar-ornament",
+     "grounds": "chapter subject",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśamaḥ",
+     "gloss": "tenth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa concludes with this colophon?",
+   "premises": [
+    "The verse uses a concluding formula.",
+    "It names the Aṃśumān Kāśyapa.",
+    "It identifies the chapter on pillar ornamentation as the tenth."
+   ],
+   "inference": "This verse marks the conclusion of the tenth chapter on pillar ornamentation in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the tenth chapter, on the ornamentation of pillars, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānopariṣṭhāt",
+     "gloss": "above-pedestal",
+     "grounds": "specifies location",
+     "morph": "(indecl., compound ablative sense)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle of continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "staṃbhamūle",
+     "gloss": "at-pillar-base",
+     "grounds": "specifies location",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-place",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-act (√kḷp)"
+    }
+   ],
+   "question": "Where should the next architectural element be placed in relation to the pedestal and pillar?",
+   "premises": [
+    "A location above the pedestal is specified.",
+    "A location at the base of the pillar is specified.",
+    "The practitioner is instructed to place something there."
+   ],
+   "inference": "The element should be placed above the pedestal at the base of the pillar.",
+   "uncertainties": [],
+   "plain_english": "One should place it above the pedestal, at the base of the pillar."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "adhyardhadaṇḍamānaṃ",
+     "gloss": "one-and-half-staff-measure",
+     "grounds": "specifies height measure",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyasā",
+     "gloss": "smallest",
+     "grounds": "qualifies the vedikā type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedikā",
+     "gloss": "platform",
+     "grounds": "architectural element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madham",
+     "gloss": "lowest",
+     "grounds": "qualifies the vedikā type; form as given",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What measure is prescribed for the smallest and lowest vedikā platform?",
+   "premises": [
+    "The measure is given as one and a half daṇḍas.",
+    "The vedikā is described as the smallest.",
+    "The vedikā is described as the lowest."
+   ],
+   "inference": "The smallest and lowest vedikā should measure one and a half daṇḍas.",
+   "uncertainties": [
+    "The form madham is nonstandard and taken as indicating the lowest type."
+   ],
+   "plain_english": "The smallest and lowest vedikā should measure one and a half daṇḍas."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "another",
+     "grounds": "qualifies method",
+     "morph": "m.inst.sg.stem-form (compound member)"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "by-method",
+     "grounds": "manner of explanation",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vedikotsedham",
+     "gloss": "platform-height",
+     "grounds": "dimension being stated",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "prescriptive declaration",
+     "morph": "3.sg.present-passive (√vac)"
+    }
+   ],
+   "question": "How is an alternative specification for the vedikā’s height introduced?",
+   "premises": [
+    "The verse introduces an alternative with athavā.",
+    "Another method is mentioned.",
+    "The height of the vedikā is stated."
+   ],
+   "inference": "The height of the vedikā is also stated according to another method.",
+   "uncertainties": [],
+   "plain_english": "Or the height of the vedikā is stated in another way."
+  }
+ ]
+}

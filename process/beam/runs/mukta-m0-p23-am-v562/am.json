@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p23",
  "verse": 562,
- "question": "Which group of cells is designated as the place of Brahma?",
+ "question": "What proportional divisions determine the width of the platform?",
  "premises": [
-  "A group of four cells is identified",
-  "Its position is specified as afterwards",
-  "It is declared the place of Brahma"
+  "The width of the platform is specified.",
+  "It is measured by four, five, or six parts.",
+  "These are alternative proportional divisions."
  ],
- "inference": "The subsequent group of four cells is designated as Brahma's place.",
- "uncertainties": [],
- "plain_english": "Afterwards, the group of four cells is declared to be the place of Brahma."
+ "inference": "The platform width should be determined using four, five, or six parts.",
+ "uncertainties": [
+  "The reference whole for these parts is implicit."
+ ],
+ "plain_english": "The width of the platform should be set by four, five, or six parts."
 }
