@@ -3,29 +3,39 @@
  "verse": 5700,
  "rows": [
   {
-   "lemma": "kuṃbhādbījaṃ",
-   "morph": "compound",
-   "grounds": "sandhi fusion of kuṃbhāt and bījam; seed taken from the pot"
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying mantras"
   },
   {
-   "lemma": "samādāya",
-   "morph": "(indecl.) gerund sam-ā-dā",
-   "grounds": "absolutive expressing prior action"
+   "lemma": "para",
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating others"
   },
   {
-   "lemma": "devasya",
-   "morph": "gen.sg.m",
-   "grounds": "refers to the deity"
+   "lemma": "unmukta",
+   "morph": "compound-member",
+   "grounds": "third member of compound describing discharged mantras"
   },
   {
-   "lemma": "hṛdi",
-   "morph": "loc.sg.n",
-   "grounds": "location of placement"
+   "lemma": "mantra",
+   "morph": "compound-member",
+   "grounds": "fourth member of compound specifying the object cut"
   },
   {
-   "lemma": "vinyaset",
-   "morph": "3.sg.opt.act vi-ni-as",
-   "grounds": "injunctive or optative prescribing ritual action"
+   "lemma": "chedini",
+   "morph": "f.nom.sg",
+   "grounds": "feminine agent noun, epithet completing the compound"
+  },
+  {
+   "lemma": "atha",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable marking sequential continuation in the nyāsa"
+  },
+  {
+   "lemma": "astrake",
+   "morph": "n.loc.sg",
+   "grounds": "locative indicating placement on the weapon limb"
   }
  ]
 }
