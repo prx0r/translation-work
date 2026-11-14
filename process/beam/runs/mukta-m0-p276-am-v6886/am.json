@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p276",
  "verse": 6886,
- "question": "What ritual actions must be performed for these deities with libations and offerings?",
+ "question": "What ritual act brings another person under one’s own control?",
  "premises": [
-  "These libations are to be offered.",
-  "An offering is to be placed for these deities."
+  "White lotuses are used in the rite",
+  "They are anointed with some substance",
+  "The target is brought under one's control"
  ],
- "inference": "One should offer these libations and place an offering for them.",
- "uncertainties": [],
- "plain_english": "One should offer these libations and place an offering for these deities."
+ "inference": "Using anointed white lotuses in the rite brings the intended person under one's control.",
+ "uncertainties": [
+  "The substance used for anointing is not specified in this verse"
+ ],
+ "plain_english": "With anointed white lotuses, one should bring the one to be commanded under one's own control."
 }

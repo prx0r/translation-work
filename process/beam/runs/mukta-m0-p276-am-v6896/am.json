@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p276",
  "verse": 6896,
- "question": "What kind of location is prescribed for placing the subject outside the city?",
+ "question": "Which parts of the body are specified as locations in this ritual instruction?",
  "premises": [
-  "The place has water flowing to the right.",
-  "It is pleasant, spacious, and filled with trees."
+  "The shanks are mentioned",
+  "The knees are mentioned",
+  "The pair of thighs is mentioned"
  ],
- "inference": "The prescribed location is pleasant, spacious, tree-filled, and has rightward-flowing water.",
- "uncertainties": [],
- "plain_english": "In a pleasant, spacious place with trees and water flowing clockwise."
+ "inference": "The ritual instruction refers to the shanks, knees, and thighs.",
+ "uncertainties": [
+  "The action performed in relation to these body parts is not stated in this verse"
+ ],
+ "plain_english": "From the shanks, from the knees, and from the pair of thighs."
 }

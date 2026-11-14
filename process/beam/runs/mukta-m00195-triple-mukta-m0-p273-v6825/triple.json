@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p273",
+ "items": [
+  {
+   "verse": 6825,
+   "rows": [
+    {
+     "surface": "dik+krameṇa",
+     "gloss": "direction-order",
+     "grounds": "compound indicating sequence by directions; instrumental of means or manner",
+     "morph": "dik+krama; m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral qualifying the weapons",
+     "morph": "num.acc.pl.n"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking the next procedural step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyudhāni",
+     "gloss": "weapons",
+     "grounds": "objects to be ritually arranged",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.act-opt; √pra-kḷp"
+    }
+   ],
+   "question": "By what directional sequence must the five weapons be ritually arranged?",
+   "premises": [
+    "A directional sequence governs the ritual arrangement.",
+    "Five weapons are specified as the objects to be arranged.",
+    "The arrangement is enjoined as a prescribed action."
+   ],
+   "inference": "Therefore, the practitioner should arrange the five weapons according to the order of the directions.",
+   "uncertainties": [
+    "The specific mapping of each weapon to each direction is not stated in this verse."
+   ],
+   "plain_english": "Then one should indeed arrange the five weapons in the order of the directions."
+  }
+ ]
+}

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p276",
  "verse": 6876,
- "question": "When must this rite be performed annually in the month of Āśvayuja?",
+ "question": "What geometric figures must be drawn and in what spatial arrangement?",
  "premises": [
-  "The rite should be done in the month of Āśvayuja.",
-  "The performance is prescribed every year."
+  "A triangle is drawn first",
+  "A hexagon is drawn inside that triangle",
+  "Drawing is also done on the outside"
  ],
- "inference": "The rite is to be carried out annually in the month of Āśvayuja.",
+ "inference": "The ritual diagram requires a triangle containing a hexagon with additional outer drawing.",
  "uncertainties": [
-  "The exact referent of kuru alongside kuryādāśva is slightly ambiguous."
+  "Exact form of what is drawn on the outside is not specified in this verse"
  ],
- "plain_english": "One should perform it every year in the month of Āśvayuja; do it."
+ "plain_english": "First one should draw a triangle, then a hexagon inside it, and draw on the outside."
 }

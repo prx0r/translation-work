@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p276",
  "verse": 6898,
- "question": "Who must accompany the king when he is endowed with all auspicious elements?",
+ "question": "What substances are combined for use in the associated ritual act?",
  "premises": [
-  "The king is endowed with all auspicious things.",
-  "The king is surrounded by citizens and men."
+  "Peppers are used",
+  "Cumins are used",
+  "They are mixed together"
  ],
- "inference": "The king, possessing all auspicious elements, must be accompanied by citizens and men.",
- "uncertainties": [],
- "plain_english": "The king, endowed with all auspicious things, surrounded by citizens and men."
+ "inference": "Peppers and cumins are mixed together for the ritual act.",
+ "uncertainties": [
+  "The object mixed with them is not specified in this verse"
+ ],
+ "plain_english": "Mixed with peppers and cumins."
 }
