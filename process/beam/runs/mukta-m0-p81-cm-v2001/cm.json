@@ -3,29 +3,34 @@
  "verse": 2001,
  "rows": [
   {
-   "lemma": "jala",
+   "lemma": "vihita",
+   "morph": "ppp.m.nom.sg",
+   "grounds": "past passive participle of vi-dhā"
+  },
+  {
+   "lemma": "akhila",
+   "morph": "adj.stem",
+   "grounds": "adjective qualifying veda-uktaiḥ"
+  },
+  {
+   "lemma": "veda",
    "morph": "compound-member",
-   "grounds": "first member indicating element"
+   "grounds": "first member of compound veda-uktaiḥ"
   },
   {
-   "lemma": "sthā",
-   "morph": "compound-member",
-   "grounds": "second member indicating abiding"
+   "lemma": "uktaiḥ",
+   "morph": "ppp.m.inst.pl",
+   "grounds": "past passive participle of vac, instrumental plural"
   },
   {
-   "lemma": "jalasthā",
-   "morph": "f.nom.sg",
-   "grounds": "compound describing the goddess"
+   "lemma": "brahmarṣibhiḥ",
+   "morph": "compound.m.inst.pl",
+   "grounds": "compound brahma-ṛṣibhiḥ, agents"
   },
   {
-   "lemma": "sā",
-   "morph": "f.nom.sg",
-   "grounds": "demonstrative referring to goddess"
-  },
-  {
-   "lemma": "devatā",
-   "morph": "f.nom.sg",
-   "grounds": "deity identified as water-abiding"
+   "lemma": "akalmaṣaiḥ",
+   "morph": "adj.m.inst.pl",
+   "grounds": "adjective qualifying brahmarṣibhiḥ"
   }
  ]
 }

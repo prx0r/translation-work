@@ -7,25 +7,25 @@
     {
      "surface": "jāti",
      "gloss": "birth",
-     "grounds": "first member of compound describing attributes",
+     "grounds": "first member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "kośa",
      "gloss": "sheath",
-     "grounds": "second member of compound describing attributes",
+     "grounds": "second member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "yutam",
-     "gloss": "endowed-with",
-     "grounds": "describes that which is joined with birth and sheath",
+     "gloss": "joined-with",
+     "grounds": "describes that which belongs to the great lord",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tat",
      "gloss": "that",
-     "grounds": "demonstrative referring to the object",
+     "grounds": "demonstrative pronoun",
      "morph": "n.acc.sg"
     },
     {
@@ -41,17 +41,16 @@
      "morph": "m.gen.sg"
     }
    ],
-   "question": "What attributes belonging to the great lord are to be ritually represented?",
+   "question": "What attributes belonging to the great lord are to be ritually conceived?",
    "premises": [
-    "An object is described as endowed with birth and sheath.",
-    "This endowed object belongs to the great lord.",
-    "The description identifies what is to be represented."
+    "The great lord possesses something joined with birth and sheath.",
+    "That attribute is included in the ritual conception."
    ],
-   "inference": "The ritual representation concerns that aspect of the great lord which is endowed with birth and sheath.",
+   "inference": "The practitioner must conceive that which is joined with birth and sheath as belonging to the great lord.",
    "uncertainties": [
-    "The exact referent of jāti-kośa-yutam in this ritual context is not fully explicit."
+    "The exact referent of jāti-kośa in this ritual context is unclear."
    ],
-   "plain_english": "And that which is endowed with birth and sheath belongs to the great lord."
+   "plain_english": "And that which is joined with birth and sheath belongs to the great lord."
   },
   {
    "verse": 1927,
@@ -65,35 +64,34 @@
     {
      "surface": "ādarśam",
      "gloss": "mirror",
-     "grounds": "object to be ritually imagined",
+     "grounds": "object to be imagined",
      "morph": "m.acc.sg"
     },
     {
      "surface": "kalpayet",
      "gloss": "one-should-imagine",
-     "grounds": "prescribes mental or ritual construction",
-     "morph": "3.sg.optative-active √kḷp"
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-act √kḷp"
     },
     {
      "surface": "chatra",
      "gloss": "parasol",
-     "grounds": "first member of pair of royal insignia",
+     "grounds": "first member of pair",
      "morph": "compound-member"
     },
     {
      "surface": "cāmare",
      "gloss": "and-chowries",
-     "grounds": "second member of pair of royal insignia",
-     "morph": "n.acc.dual"
+     "grounds": "paired ritual objects",
+     "morph": "n.acc.du"
     }
    ],
-   "question": "Which royal insignia should be ritually imagined alongside the mirror?",
+   "question": "Which ritual implements should the practitioner imagine in this stage of worship?",
    "premises": [
-    "The instruction continues with a prescribed act of imagination.",
-    "A mirror is to be imagined.",
-    "A parasol and chowries are also to be imagined."
+    "The ritual sequence continues with further visualization.",
+    "A mirror, parasol, and chowries are specified as objects."
    ],
-   "inference": "The practitioner should ritually imagine a mirror together with a parasol and chowries.",
+   "inference": "The practitioner should imagine a mirror together with a parasol and chowries.",
    "uncertainties": [],
    "plain_english": "Likewise, one should imagine a mirror, and also a parasol and chowries."
   },
@@ -103,41 +101,40 @@
     {
      "surface": "kuryāt",
      "gloss": "one-should-perform",
-     "grounds": "prescribes the ritual action",
-     "morph": "3.sg.optative-active √kṛ"
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-act √kṛ"
     },
     {
      "surface": "dharma",
      "gloss": "duty",
-     "grounds": "first member of compound listing aims",
+     "grounds": "first aim in compound",
      "morph": "compound-member"
     },
     {
      "surface": "kāma",
      "gloss": "desire",
-     "grounds": "second member of compound listing aims",
+     "grounds": "second aim in compound",
      "morph": "compound-member"
     },
     {
      "surface": "artha",
      "gloss": "wealth",
-     "grounds": "third member of compound listing aims",
+     "grounds": "third aim in compound",
      "morph": "compound-member"
     },
     {
      "surface": "siddhaye",
      "gloss": "for-accomplishment",
-     "grounds": "states the purpose of the action",
+     "grounds": "purpose of the ritual act",
      "morph": "f.dat.sg"
     }
    ],
-   "question": "For the accomplishment of which human aims should this ritual act be performed?",
+   "question": "For what human aims should this ritual act be performed?",
    "premises": [
-    "A ritual action is prescribed.",
-    "The action is directed toward accomplishment.",
-    "The aims named are duty, desire, and wealth."
+    "The ritual act is prescribed with a specific purpose.",
+    "Duty, desire, and wealth are named as goals."
    ],
-   "inference": "The ritual act should be performed for the accomplishment of duty, desire, and wealth.",
+   "inference": "The act should be performed for the accomplishment of duty, desire, and wealth.",
    "uncertainties": [],
    "plain_english": "One should perform this for the accomplishment of duty, desire, and wealth."
   },
@@ -147,31 +144,31 @@
     {
      "surface": "likhet",
      "gloss": "one-should-draw",
-     "grounds": "prescribes the act of drawing",
-     "morph": "3.sg.optative-active √likh"
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-act √likh"
     },
     {
      "surface": "padmam",
      "gloss": "lotus",
-     "grounds": "object to be drawn",
+     "grounds": "diagram to be drawn",
      "morph": "n.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "first member of compound specifying petals",
+     "grounds": "number of petals",
      "morph": "compound-member"
     },
     {
      "surface": "patram",
      "gloss": "petaled",
-     "grounds": "second member of compound specifying petals",
+     "grounds": "describes the lotus",
      "morph": "n.acc.sg"
     },
     {
      "surface": "su",
      "gloss": "very",
-     "grounds": "intensifier in compound describing beauty",
+     "grounds": "intensifier in compound",
      "morph": "compound-member"
     },
     {
@@ -181,13 +178,12 @@
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What specific form of lotus must be drawn in this ritual procedure?",
+   "question": "What sacred diagram must be drawn during this ritual procedure?",
    "premises": [
-    "The practitioner is instructed to draw a lotus.",
-    "The lotus is specified as having eight petals.",
-    "The lotus is described as very beautiful."
+    "A drawing action is prescribed.",
+    "The object is specified as an eight-petaled lotus."
    ],
-   "inference": "A very beautiful eight-petaled lotus should be drawn.",
+   "inference": "The practitioner should draw a very beautiful eight-petaled lotus.",
    "uncertainties": [],
    "plain_english": "One should draw a very beautiful eight-petaled lotus."
   },
@@ -196,44 +192,43 @@
    "rows": [
     {
      "surface": "valayāñcita",
-     "gloss": "encircled-by-rings",
-     "grounds": "first member of compound describing adornment",
+     "gloss": "encircled",
+     "grounds": "first member describing adornment",
      "morph": "compound-member"
     },
     {
      "surface": "śobhābhiḥ",
      "gloss": "with-splendors",
-     "grounds": "describes the adorning features",
+     "grounds": "means of adornment",
      "morph": "f.inst.pl"
     },
     {
      "surface": "śobhitān",
      "gloss": "adorned",
-     "grounds": "describes the vessels or spaces as beautified",
+     "grounds": "describes vessels or offerings",
      "morph": "m.acc.pl"
     },
     {
      "surface": "ghṛta",
      "gloss": "ghee",
-     "grounds": "first member of compound indicating filling",
+     "grounds": "substance filling the vessels",
      "morph": "compound-member"
     },
     {
      "surface": "pūritān",
      "gloss": "filled",
-     "grounds": "describes the objects as filled with ghee",
+     "grounds": "describes vessels or offerings",
      "morph": "m.acc.pl"
     }
    ],
-   "question": "How should the ritual receptacles be adorned and filled according to this instruction?",
+   "question": "How should the ritual vessels or offerings be prepared and adorned?",
    "premises": [
-    "The objects are adorned with encircling splendors.",
-    "The objects are beautified.",
-    "The objects are filled with ghee."
+    "The items are adorned with encircling splendors.",
+    "The items are filled with ghee."
    ],
-   "inference": "The ritual receptacles should be adorned with encircling splendors and filled with ghee.",
+   "inference": "The offerings should be adorned with encircling splendors and filled with ghee.",
    "uncertainties": [
-    "The exact objects described as śobhitān and pūritān are implied from context."
+    "The exact objects described as adorned and filled are implied from context."
    ],
    "plain_english": "They should be adorned with encircling splendors and filled with ghee."
   },
@@ -243,47 +238,46 @@
     {
      "surface": "prāgvat",
      "gloss": "as-before",
-     "grounds": "indicates repetition of prior procedure",
+     "grounds": "refers to previous procedure",
      "morph": "(indecl.)"
     },
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "marks sequence in the ritual",
+     "grounds": "marks next step in sequence",
      "morph": "(indecl.)"
     },
     {
      "surface": "śrīṃ",
      "gloss": "śrīṃ",
-     "grounds": "seed-syllable to be used",
+     "grounds": "seed-syllable mantra",
      "morph": "(indecl.)"
     },
     {
      "surface": "hrīm",
      "gloss": "hrīm",
-     "grounds": "seed-syllable to be used",
+     "grounds": "seed-syllable mantra",
      "morph": "(indecl.)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "marks the quoted syllables",
+     "grounds": "marks quoted syllables",
      "morph": "(indecl.)"
     },
     {
      "surface": "kramāt",
      "gloss": "in-order",
-     "grounds": "specifies sequential application",
+     "grounds": "specifies sequence of recitation",
      "morph": "m.abl.sg"
     }
    ],
-   "question": "In what sequence should the seed-syllables śrīṃ and hrīm be applied in this step?",
+   "question": "In what sequence should the specified seed-syllables be applied in the ritual?",
    "premises": [
     "The procedure follows the previous pattern.",
-    "The syllables śrīṃ and hrīm are specified.",
-    "They are to be used in order."
+    "The syllables śrīṃ and hrīm are named."
    ],
-   "inference": "The practitioner should apply śrīṃ and hrīm in sequence as before.",
+   "inference": "The practitioner should apply śrīṃ and hrīm in order as before.",
    "uncertainties": [],
    "plain_english": "Then, as before, one should use śrīṃ and hrīm in that order."
   },
@@ -293,13 +287,13 @@
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "marks next step in sequence",
+     "grounds": "marks next ritual step",
      "morph": "(indecl.)"
     },
     {
      "surface": "tat",
      "gloss": "that",
-     "grounds": "demonstrative referring to the vessel",
+     "grounds": "refers to the vessel",
      "morph": "n.acc.sg"
     },
     {
@@ -311,25 +305,25 @@
     {
      "surface": "uddhṛtya",
      "gloss": "having-lifted",
-     "grounds": "describes the action performed on the vessel",
+     "grounds": "action preceding repetition",
      "morph": "gerund √uddhṛ"
     },
     {
      "surface": "mastaka",
      "gloss": "head",
-     "grounds": "first member of compound indicating limit",
+     "grounds": "first member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "antam",
      "gloss": "up-to",
-     "grounds": "second member indicating extent of lifting",
+     "grounds": "indicates limit of lifting",
      "morph": "m.acc.sg"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "indicates repetition",
+     "grounds": "repetition marker",
      "morph": "(indecl.)"
     },
     {
@@ -339,15 +333,14 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How repeatedly and to what height must the ritual vessel be lifted?",
+   "question": "How should the ritual vessel be moved after it is lifted?",
    "premises": [
-    "The vessel is to be lifted after the previous step.",
-    "It is to be raised up to the head.",
-    "The action is to be repeated again and again."
+    "The vessel is to be lifted.",
+    "The movement is directed up to the head and repeated."
    ],
-   "inference": "The practitioner should lift that vessel up to the head repeatedly.",
+   "inference": "The practitioner should lift the vessel up to the head again and again.",
    "uncertainties": [],
-   "plain_english": "Then, having lifted that vessel up to the head, one should do so again and again."
+   "plain_english": "Then, having lifted that vessel up to the head, do so again and again."
   },
   {
    "verse": 1933,
@@ -355,43 +348,42 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects this step to the previous one",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "marks the next ritual step",
+     "grounds": "marks next ritual step",
      "morph": "(indecl.)"
     },
     {
      "surface": "prāṇāyāma",
      "gloss": "breath-control",
-     "grounds": "first member of compound specifying practice",
+     "grounds": "first member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "trayam",
      "gloss": "set-of-three",
-     "grounds": "specifies the number of breath-controls",
+     "grounds": "number of breath-controls",
      "morph": "n.acc.sg"
     },
     {
      "surface": "caret",
      "gloss": "one-should-perform",
-     "grounds": "prescribes the practice",
-     "morph": "3.sg.optative-active √car"
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-act √car"
     }
    ],
-   "question": "What breath-control practice must be performed after lifting the vessel?",
+   "question": "What breath practice must be performed at this point in the ritual?",
    "premises": [
-    "The sequence continues after the previous action.",
-    "A set of three breath-controls is specified.",
-    "The practitioner is instructed to perform them."
+    "A further action follows the previous steps.",
+    "Three breath-controls are specified."
    ],
-   "inference": "After lifting the vessel, the practitioner should perform three breath-controls.",
+   "inference": "The practitioner should perform three rounds of breath-control.",
    "uncertainties": [],
-   "plain_english": "And then one should perform the threefold breath-control."
+   "plain_english": "And then one should perform three rounds of breath-control."
   },
   {
    "verse": 1934,
@@ -399,13 +391,13 @@
     {
      "surface": "aṣṭottara",
      "gloss": "hundred-and-eight",
-     "grounds": "first member of compound specifying count",
+     "grounds": "first member indicating count",
      "morph": "compound-member"
     },
     {
      "surface": "sahasram",
      "gloss": "thousand",
-     "grounds": "specifies a large number of repetitions",
+     "grounds": "possible recitation count",
      "morph": "n.acc.sg"
     },
     {
@@ -417,45 +409,44 @@
     {
      "surface": "nava",
      "gloss": "nine",
-     "grounds": "alternative count option",
+     "grounds": "alternative count",
      "morph": "n.acc.sg"
     },
     {
      "surface": "dve",
      "gloss": "two",
-     "grounds": "alternative count option",
-     "morph": "n.acc.dual"
+     "grounds": "alternative count",
+     "morph": "n.acc.du"
     },
     {
      "surface": "triśatam",
      "gloss": "three-hundred",
-     "grounds": "alternative count option",
+     "grounds": "alternative count",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
-     "gloss": "or-indeed",
-     "grounds": "emphatic particle in alternative",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
      "morph": "(indecl.)"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "marks alternative options",
+     "grounds": "disjunctive particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What alternative counts of repetition are permitted for the prescribed recitation?",
+   "question": "What alternative counts are permitted for the prescribed recitation?",
    "premises": [
-    "A count of one thousand and eight is given.",
-    "Alternative counts of nine, two, or three hundred are given.",
-    "The particle vā marks these as options."
+    "A numerical count for recitation is required.",
+    "Multiple alternative numbers are listed."
    ],
-   "inference": "The practitioner may perform one thousand and eight repetitions, or alternatively nine, two, or three hundred.",
+   "inference": "The recitation may be done one thousand and eight times, or nine, or two, or three hundred times.",
    "uncertainties": [
-    "The syntactic grouping of nava, dve, triśatam as alternatives is somewhat compressed."
+    "The exact parsing of nava dve triśatam as separate or combined counts is ambiguous."
    ],
-   "plain_english": "One may do one thousand and eight, or nine, or two, or three hundred."
+   "plain_english": "One may recite one thousand and eight times, or nine, or two, or three hundred times."
   },
   {
    "verse": 1935,
@@ -463,33 +454,32 @@
     {
      "surface": "gṛhītvā",
      "gloss": "having-taken",
-     "grounds": "describes preparatory action",
+     "grounds": "action preceding recitation",
      "morph": "gerund √grah"
     },
     {
      "surface": "idam",
      "gloss": "this",
-     "grounds": "refers to the object or text to be recited",
+     "grounds": "object to be recited or held",
      "morph": "n.acc.sg"
     },
     {
      "surface": "paṭhet",
      "gloss": "one-should-recite",
-     "grounds": "prescribes recitation",
-     "morph": "3.sg.optative-active √paṭh"
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-act √paṭh"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "indicates repetition of recitation",
+     "grounds": "indicates repetition",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What action of recitation must be performed again after taking this object or text?",
+   "question": "What recitation action must be repeated after taking the prescribed item?",
    "premises": [
-    "The practitioner takes this.",
-    "Recitation is prescribed.",
-    "The recitation is to be done again."
+    "An item is taken up by the practitioner.",
+    "Recitation is prescribed again."
    ],
    "inference": "Having taken this, the practitioner should recite it again.",
    "uncertainties": [
@@ -503,25 +493,25 @@
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "indicates the beneficiary of grace",
+     "grounds": "recipient of grace",
      "morph": "pronoun.dat.sg"
     },
     {
      "surface": "deva",
-     "gloss": "O-god",
-     "grounds": "vocative address to the deity",
+     "gloss": "o-god",
+     "grounds": "vocative address",
      "morph": "m.voc.sg"
     },
     {
      "surface": "tvat",
-     "gloss": "from-you",
+     "gloss": "your",
      "grounds": "source of grace",
      "morph": "pronoun.abl.sg"
     },
     {
      "surface": "prasādāt",
      "gloss": "by-grace",
-     "grounds": "states the cause of the request",
+     "grounds": "cause of benefit",
      "morph": "m.abl.sg"
     },
     {
@@ -532,126 +522,123 @@
     },
     {
      "surface": "pate",
-     "gloss": "O-lord",
-     "grounds": "second member of vocative compound addressing the deity",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
      "morph": "m.voc.sg"
     }
    ],
-   "question": "From whose grace does the devotee seek favor in this invocation to the deity?",
+   "question": "To whom is the practitioner appealing for grace in this invocation?",
    "premises": [
-    "The devotee addresses the god as lord of the world.",
-    "The devotee refers to grace coming from the deity.",
-    "The grace is sought for the devotee."
+    "The speaker addresses a god and lord of the world.",
+    "The speaker seeks benefit through that deity's grace."
    ],
-   "inference": "The devotee seeks favor through the grace of the god, the lord of the world.",
+   "inference": "The practitioner appeals to the god, lord of the world, for grace.",
    "uncertainties": [],
-   "plain_english": "O God, O lord of the world, by your grace to me..."
+   "plain_english": "O god, O lord of the world, by your grace to me."
   },
   {
    "verse": 1937,
    "rows": [
     {
      "surface": "gīta",
-     "gloss": "song",
-     "grounds": "first member of compound listing offerings",
+     "gloss": "songs",
+     "grounds": "first member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "stutibhiḥ",
      "gloss": "with-praises",
-     "grounds": "means of worship accompanying the rite",
+     "grounds": "means of worship",
      "morph": "f.inst.pl"
     },
     {
      "surface": "ghaṇṭā",
      "gloss": "bell",
-     "grounds": "first member of compound describing sound offering",
+     "grounds": "first member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "vādana",
-     "gloss": "sounding",
-     "grounds": "second member of compound describing sound offering",
+     "gloss": "ringing",
+     "grounds": "second member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "pūrvakam",
      "gloss": "preceded-by",
-     "grounds": "indicates accompaniment or precedence",
+     "grounds": "indicates accompanying action",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What musical and vocal accompaniments should precede or accompany this worship?",
+   "question": "What forms of devotional expression should accompany the worship?",
    "premises": [
-    "Songs and praises are mentioned as accompaniments.",
-    "The sounding of bells is mentioned.",
-    "These elements precede or accompany the act."
+    "Songs and praises are specified.",
+    "Bell-ringing precedes or accompanies them."
    ],
-   "inference": "The worship should be accompanied by songs, praises, and the sounding of bells.",
+   "inference": "Worship should be accompanied by songs and praises preceded by the ringing of bells.",
    "uncertainties": [],
-   "plain_english": "Accompanied by songs and praises, and preceded by the sounding of bells."
+   "plain_english": "With songs and praises, preceded by the ringing of bells."
   },
   {
    "verse": 1938,
    "rows": [
     {
      "surface": "paurāṇika",
-     "gloss": "purāṇic",
-     "grounds": "first member of compound describing texts or recitations",
+     "gloss": "puranic",
+     "grounds": "first member describing texts",
      "morph": "compound-member"
     },
     {
      "surface": "ādyaiḥ",
      "gloss": "and-others",
-     "grounds": "indicates purāṇic and similar recitations",
+     "grounds": "indicates additional similar texts",
      "morph": "m.inst.pl"
     },
     {
      "surface": "vaiśyaḥ",
-     "gloss": "merchant-class-person",
-     "grounds": "subject prescribed a mode of recitation",
+     "gloss": "merchant-class",
+     "grounds": "subject performing worship",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "but",
-     "grounds": "marks distinction between groups",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "śūdraḥ",
-     "gloss": "servant-class-person",
-     "grounds": "subject prescribed another mode of recitation",
+     "gloss": "servant-class",
+     "grounds": "subject performing worship",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "but",
-     "grounds": "marks distinction for the second group",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "prākṛta",
      "gloss": "vernacular",
-     "grounds": "first member of compound describing recitations",
+     "grounds": "first member describing texts",
      "morph": "compound-member"
     },
     {
      "surface": "ādibhiḥ",
      "gloss": "and-others",
-     "grounds": "indicates vernacular and similar recitations",
+     "grounds": "indicates additional similar texts",
      "morph": "m.inst.pl"
     }
    ],
-   "question": "How do the prescribed recitation modes differ for the vaiśya and the śūdra?",
+   "question": "Which textual forms are prescribed for vaiśya and śūdra participants in worship?",
    "premises": [
-    "The vaiśya is associated with purāṇic and similar recitations.",
-    "The śūdra is associated with vernacular and similar recitations.",
-    "The particles tu mark a distinction between them."
+    "Different social groups are addressed separately.",
+    "Puranic and vernacular texts are assigned respectively."
    ],
-   "inference": "The vaiśya should use purāṇic and similar recitations, while the śūdra should use vernacular and similar ones.",
+   "inference": "The vaiśya should use Puranic and similar texts, while the śūdra should use vernacular and similar texts.",
    "uncertainties": [],
-   "plain_english": "The vaiśya should use purāṇic and similar recitations, but the śūdra should use vernacular and similar ones."
+   "plain_english": "The vaiśya should use Puranic and other such texts, and the śūdra should use vernacular and other such texts."
   },
   {
    "verse": 1939,
@@ -659,51 +646,50 @@
     {
      "surface": "nityam",
      "gloss": "daily",
-     "grounds": "specifies regularity of the practice",
+     "grounds": "indicates regularity",
      "morph": "(indecl.)"
     },
     {
      "surface": "tarpaṇa",
      "gloss": "libation",
-     "grounds": "first member of compound naming the practice",
+     "grounds": "first member of compound",
      "morph": "compound-member"
     },
     {
      "surface": "sevanam",
-     "gloss": "observance",
-     "grounds": "names the act to be performed",
-     "morph": "n.acc.sg"
+     "gloss": "service",
+     "grounds": "ritual practice to be performed",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "What regular ritual observance is required on a daily basis?",
+   "question": "What regular ritual service is required as part of this practice?",
    "premises": [
-    "A practice of libation and observance is named.",
-    "The practice is qualified as daily.",
-    "The verse states this as a requirement."
+    "A service is named as part of the practice.",
+    "It is to be performed daily."
    ],
-   "inference": "The daily observance of libation is required.",
+   "inference": "Daily libation service is required.",
    "uncertainties": [],
-   "plain_english": "The daily observance of libation should be performed."
+   "plain_english": "Daily libation service should be performed."
   },
   {
    "verse": 1940,
    "rows": [
     {
      "surface": "naraka",
-     "gloss": "hell",
-     "grounds": "destination named in consequence",
+     "gloss": "to-hell",
+     "grounds": "destination of the sinner",
      "morph": "m.acc.sg"
     },
     {
      "surface": "yāti",
-     "gloss": "goes-to",
-     "grounds": "states the consequence of wrongdoing",
-     "morph": "3.sg.present-active √yā"
+     "gloss": "goes",
+     "grounds": "result of wrongdoing",
+     "morph": "3.sg.present-act √yā"
     },
     {
      "surface": "pitṛbhiḥ",
      "gloss": "with-ancestors",
-     "grounds": "companions in the consequence",
+     "grounds": "companions in consequence",
      "morph": "m.inst.pl"
     },
     {
@@ -714,72 +700,70 @@
     },
     {
      "surface": "pāpakṛt",
-     "gloss": "evil-doer",
-     "grounds": "subject who suffers the consequence",
+     "gloss": "sinner",
+     "grounds": "one who commits wrong",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What consequence befalls the evil-doer and their ancestors for failing in this duty?",
+   "question": "What consequence befalls a sinner who neglects the prescribed duties?",
    "premises": [
-    "The evil-doer is the subject of the consequence.",
-    "The consequence is going to hell.",
-    "The ancestors accompany the evil-doer in this consequence."
+    "A wrongdoer is subject to a negative consequence.",
+    "The consequence extends to the ancestors."
    ],
-   "inference": "The evil-doer goes to hell together with their ancestors.",
+   "inference": "The sinner goes to hell together with his ancestors.",
    "uncertainties": [],
-   "plain_english": "The evil-doer goes to hell together with their ancestors."
+   "plain_english": "The sinner goes to hell together with his ancestors."
   },
   {
    "verse": 1941,
    "rows": [
     {
      "surface": "duḥkhitau",
-     "gloss": "two-suffering",
-     "grounds": "describes the state of the subjects",
-     "morph": "m.nom.dual"
+     "gloss": "miserable",
+     "grounds": "condition in this world",
+     "morph": "m.nom.du"
     },
     {
      "surface": "asmin",
-     "gloss": "in-this-world",
-     "grounds": "locates suffering in the present realm",
+     "gloss": "in-this",
+     "grounds": "refers to this world",
      "morph": "m.loc.sg"
     },
     {
      "surface": "bhaven",
      "gloss": "they-may-be",
-     "grounds": "expresses possible or resulting state",
-     "morph": "3.dual.optative-active √bhū"
+     "grounds": "possible condition",
+     "morph": "3.du.optative-act √bhū"
     },
     {
      "surface": "nyatra",
-     "gloss": "in-other-world",
-     "grounds": "locates suffering in another realm",
-     "morph": "(indecl.)"
+     "gloss": "in-other",
+     "grounds": "refers to the other world",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects the two realms",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "nārakau",
      "gloss": "hell-dwellers",
-     "grounds": "describes their state in the other world",
-     "morph": "m.nom.dual"
+     "grounds": "condition in the other world",
+     "morph": "m.nom.du"
     }
    ],
-   "question": "In which realms do the offenders suffer as a result of their transgression?",
+   "question": "What dual suffering results from the transgression described in this context?",
    "premises": [
-    "The subjects may be suffering in this world.",
-    "They may also be in another world.",
-    "In the other world they are dwellers in hell."
+    "Suffering occurs in this world.",
+    "Suffering continues in the other world."
    ],
-   "inference": "The offenders suffer in this world and become hell-dwellers in the other world.",
+   "inference": "The transgressors become miserable in this world and dwellers in hell in the other.",
    "uncertainties": [
-    "The exact referents of the dual subjects are implied from the previous verse."
+    "The dual number suggests two subjects, but their identity is implied from context."
    ],
-   "plain_english": "They may be suffering in this world and become hell-dwellers in the other."
+   "plain_english": "They may be miserable in this world and hell-dwellers in the other."
   },
   {
    "verse": 1942,
@@ -787,49 +771,48 @@
     {
      "surface": "śṛṇuyāt",
      "gloss": "one-may-hear",
-     "grounds": "states the prohibited or consequential act",
-     "morph": "3.sg.optative-active √śru"
+     "grounds": "prohibited or consequential action",
+     "morph": "3.sg.optative-act √śru"
     },
     {
      "surface": "vedam",
-     "gloss": "Veda",
+     "gloss": "veda",
      "grounds": "object of hearing",
      "morph": "m.acc.sg"
     },
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "subject who hears improperly",
+     "grounds": "subject experiencing consequence",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nirvaṃśaḥ",
      "gloss": "without-lineage",
-     "grounds": "consequence affecting progeny",
+     "grounds": "resulting condition",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "and",
-     "grounds": "connects consequences",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "nirdhanaḥ",
      "gloss": "without-wealth",
-     "grounds": "consequence affecting prosperity",
+     "grounds": "resulting condition",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What consequences follow for one who improperly hears the Veda?",
+   "question": "What penalties follow if an unqualified person hears the Veda?",
    "premises": [
-    "A person hears the Veda.",
-    "That person becomes without lineage.",
-    "That person becomes without wealth."
+    "Hearing the Veda is presented as consequential for the subject.",
+    "Loss of lineage and wealth are named as outcomes."
    ],
-   "inference": "One who improperly hears the Veda becomes without lineage and without wealth.",
+   "inference": "If he hears the Veda, he becomes without lineage and without wealth.",
    "uncertainties": [
-    "The condition making the hearing improper is implied by context rather than stated explicitly."
+    "The specific subject restricted from hearing the Veda is implied from preceding context."
    ],
    "plain_english": "If he hears the Veda, he becomes without lineage and without wealth."
   },
@@ -838,52 +821,51 @@
    "rows": [
     {
      "surface": "prājāpatya",
-     "gloss": "prājāpatya-expiation",
-     "grounds": "first member of compound naming the rite",
+     "gloss": "prajapatya",
+     "grounds": "name of expiatory observance",
      "morph": "compound-member"
     },
     {
      "surface": "trayam",
      "gloss": "set-of-three",
-     "grounds": "specifies the number of expiations",
+     "grounds": "number of observances",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-performed",
-     "grounds": "describes the remedial action",
+     "grounds": "action leading to purification",
      "morph": "gerund √kṛ"
     },
     {
      "surface": "tau",
      "gloss": "those-two",
-     "grounds": "refers to the two offenders",
-     "morph": "m.nom.dual"
+     "grounds": "subjects undergoing purification",
+     "morph": "m.nom.du"
     },
     {
      "surface": "saṃśuddhau",
      "gloss": "purified",
-     "grounds": "describes their resulting state",
-     "morph": "m.nom.dual"
+     "grounds": "resulting state",
+     "morph": "m.nom.du"
     },
     {
      "surface": "bhaviṣyataḥ",
      "gloss": "will-become",
-     "grounds": "states the future result of expiation",
-     "morph": "3.dual.future-active √bhū"
+     "grounds": "future result",
+     "morph": "3.du.future-act √bhū"
     }
    ],
-   "question": "What expiatory act restores purity to the two offenders described earlier?",
+   "question": "What expiatory act restores purity to those who have transgressed?",
    "premises": [
-    "A set of three prājāpatya expiations is performed.",
-    "The two offenders undergo this performance.",
-    "The result is purification."
+    "A specific expiatory observance is prescribed.",
+    "Performing it three times leads to purification."
    ],
-   "inference": "By performing three prājāpatya expiations, those two will become purified.",
+   "inference": "By performing three Prājāpatya observances, those two will become purified.",
    "uncertainties": [
-    "The identity of tau depends on the preceding context."
+    "The identity of the two subjects is implied from the preceding verses."
    ],
-   "plain_english": "Having performed three prājāpatya expiations, those two will become purified."
+   "plain_english": "Having performed three Prājāpatya observances, those two will become purified."
   },
   {
    "verse": 1944,
@@ -891,29 +873,28 @@
     {
      "surface": "gṛhāṇa",
      "gloss": "accept",
-     "grounds": "imperative request to the deity",
-     "morph": "2.sg.imperative-active √grah"
+     "grounds": "imperative request to deity",
+     "morph": "2.sg.imperative-act √grah"
     },
     {
      "surface": "ārādhanam",
      "gloss": "worship",
-     "grounds": "object offered to the deity",
+     "grounds": "offering presented",
      "morph": "n.acc.sg"
     },
     {
      "surface": "varam",
      "gloss": "excellent",
-     "grounds": "qualifies the worship offered",
+     "grounds": "qualifies the worship",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What offering does the devotee ask the deity to accept in this prayer?",
+   "question": "What request is made to the deity regarding the offered worship?",
    "premises": [
-    "The devotee addresses the deity with a request.",
-    "The object of the request is worship.",
+    "Worship is being offered to the deity.",
     "The worship is described as excellent."
    ],
-   "inference": "The devotee asks the deity to accept this excellent worship.",
+   "inference": "The deity is asked to accept the excellent worship.",
    "uncertainties": [],
    "plain_english": "Accept this excellent worship."
   },
@@ -922,38 +903,39 @@
    "rows": [
     {
      "surface": "deveśam",
-     "gloss": "lord-of-gods",
-     "grounds": "object of the offering",
+     "gloss": "to-lord-of-gods",
+     "grounds": "recipient of offering",
      "morph": "m.acc.sg"
     },
     {
      "surface": "ślokaiḥ",
      "gloss": "with-verses",
-     "grounds": "means by which the offering is made",
+     "grounds": "means of offering",
      "morph": "m.inst.pl"
     },
     {
      "surface": "ebhiḥ",
      "gloss": "with-these",
-     "grounds": "specifies the verses used",
+     "grounds": "specifies the verses",
      "morph": "m.inst.pl"
     },
     {
      "surface": "samarpayet",
      "gloss": "one-should-offer",
-     "grounds": "prescribes the act of offering",
-     "morph": "3.sg.optative-causative √ṛ"
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-causative-act √ṛ"
     }
    ],
-   "question": "By what means should the offering be presented to the lord of gods?",
+   "question": "How should the offering be presented to the lord of gods?",
    "premises": [
-    "The lord of gods is the recipient.",
-    "The offering is made with verses.",
-    "These specific verses are to be used."
+    "An offering is directed to the lord of gods.",
+    "Specific verses are used as the means."
    ],
-   "inference": "One should offer to the lord of gods with these verses.",
-   "uncertainties": [],
-   "plain_english": "One should offer to the lord of gods with these verses."
+   "inference": "One should offer it to the lord of gods with these verses.",
+   "uncertainties": [
+    "The exact object being offered is implied from context."
+   ],
+   "plain_english": "One should offer it to the lord of gods with these verses."
   },
   {
    "verse": 1946,
@@ -961,81 +943,79 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects this offering to previous ones",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "naivedyam",
      "gloss": "food-offering",
-     "grounds": "object to be accepted",
+     "grounds": "object offered to deity",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tat",
      "gloss": "that",
-     "grounds": "demonstrative referring to the offering",
+     "grounds": "refers to the food-offering",
      "morph": "n.acc.sg"
     },
     {
      "surface": "gṛhāṇa",
      "gloss": "accept",
-     "grounds": "imperative request to the deity",
-     "morph": "2.sg.imperative-active √grah"
+     "grounds": "imperative request to deity",
+     "morph": "2.sg.imperative-act √grah"
     },
     {
      "surface": "anukampayā",
-     "gloss": "out-of-compassion",
-     "grounds": "states the attitude requested of the deity",
+     "gloss": "with-compassion",
+     "grounds": "manner of acceptance",
      "morph": "f.inst.sg"
     }
    ],
-   "question": "With what attitude is the deity asked to accept the food offering?",
+   "question": "In what spirit is the deity asked to accept the food-offering?",
    "premises": [
-    "A food offering is presented.",
-    "The deity is asked to accept it.",
-    "The acceptance is requested out of compassion."
+    "A food-offering is presented to the deity.",
+    "The deity is asked to accept it compassionately."
    ],
-   "inference": "The deity is asked to accept that food offering out of compassion.",
+   "inference": "The deity is requested to accept the food-offering with compassion.",
    "uncertainties": [],
-   "plain_english": "And accept that food offering out of compassion."
+   "plain_english": "And accept that food-offering with compassion."
   },
   {
    "verse": 1947,
    "rows": [
     {
      "surface": "jānāmi",
-     "gloss": "I-know",
-     "grounds": "expresses the devotee's recognition",
-     "morph": "1.sg.present-active √jñā"
+     "gloss": "i-know",
+     "grounds": "statement of recognition",
+     "morph": "1.sg.present-act √jñā"
     },
     {
      "surface": "tvam",
      "gloss": "you",
-     "grounds": "subject of the recognition",
+     "grounds": "addressed deity",
      "morph": "pronoun.nom.sg"
     },
     {
      "surface": "gatiḥ",
      "gloss": "refuge",
-     "grounds": "predicate identifying the deity",
+     "grounds": "identity attributed to deity",
      "morph": "f.nom.sg"
     },
     {
      "surface": "parameśvara",
-     "gloss": "O-supreme-lord",
-     "grounds": "vocative address to the deity",
+     "gloss": "o-supreme-lord",
+     "grounds": "vocative address",
      "morph": "m.voc.sg"
     }
    ],
-   "question": "What identity of the supreme lord does the devotee explicitly acknowledge?",
+   "question": "What identity of the supreme lord is affirmed by the devotee?",
    "premises": [
-    "The devotee states knowledge.",
-    "The deity is addressed as supreme lord.",
-    "The deity is identified as the refuge."
+    "The devotee addresses the supreme lord directly.",
+    "The devotee claims knowledge of the deity's role."
    ],
-   "inference": "The devotee acknowledges the supreme lord as the ultimate refuge.",
+   "inference": "The devotee affirms that the supreme lord is the ultimate refuge.",
    "uncertainties": [],
-   "plain_english": "O Supreme Lord, I know that you are the refuge."
+   "plain_english": "I know, O supreme lord, that you are the refuge."
   },
   {
    "verse": 1948,
@@ -1043,37 +1023,36 @@
     {
      "surface": "bhūtānām",
      "gloss": "of-beings",
-     "grounds": "specifies whose seer the deity is",
+     "grounds": "objects of seeing",
      "morph": "n.gen.pl"
     },
     {
      "surface": "draṣṭā",
      "gloss": "seer",
-     "grounds": "predicate identifying the deity",
+     "grounds": "identity attributed to deity",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tvam",
      "gloss": "you",
-     "grounds": "subject of the identification",
+     "grounds": "addressed deity",
      "morph": "pronoun.nom.sg"
     },
     {
      "surface": "parameśvara",
-     "gloss": "O-supreme-lord",
-     "grounds": "vocative address to the deity",
+     "gloss": "o-supreme-lord",
+     "grounds": "vocative address",
      "morph": "m.voc.sg"
     }
    ],
    "question": "What role as witness of all beings is attributed to the supreme lord?",
    "premises": [
-    "The deity is addressed as supreme lord.",
-    "The deity is identified as the seer.",
-    "The seeing extends to all beings."
+    "The supreme lord is addressed directly.",
+    "The lord is identified as the seer of beings."
    ],
-   "inference": "The supreme lord is acknowledged as the seer of all beings.",
+   "inference": "The supreme lord is affirmed as the seer of all beings.",
    "uncertainties": [],
-   "plain_english": "O Supreme Lord, you are the seer of all beings."
+   "plain_english": "O supreme lord, you are the seer of all beings."
   },
   {
    "verse": 1949,
@@ -1081,43 +1060,42 @@
     {
      "surface": "bhaktiḥ",
      "gloss": "devotion",
-     "grounds": "subject of the prayer",
+     "grounds": "quality sought by devotee",
      "morph": "f.nom.sg"
     },
     {
      "surface": "avyayā",
-     "gloss": "imperishable",
-     "grounds": "qualifies the devotion sought",
+     "gloss": "unwavering",
+     "grounds": "describes devotion",
      "morph": "f.nom.sg"
     },
     {
      "surface": "astu",
-     "gloss": "let-be",
-     "grounds": "expresses a benedictive wish",
-     "morph": "3.sg.imperative-active √as"
+     "gloss": "may-be",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative-act √as"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "specifies permanence of the devotion",
+     "grounds": "indicates permanence",
      "morph": "(indecl.)"
     },
     {
      "surface": "tvayi",
      "gloss": "in-you",
-     "grounds": "locates the devotion in the deity",
+     "grounds": "object of devotion",
      "morph": "pronoun.loc.sg"
     }
    ],
-   "question": "What enduring quality of devotion does the devotee seek toward the deity?",
+   "question": "What enduring devotional state does the worshipper seek toward the deity?",
    "premises": [
-    "The devotee prays for devotion.",
-    "The devotion is wished to be imperishable.",
-    "The devotion is to remain always in the deity."
+    "The devotee expresses a wish regarding devotion.",
+    "The devotion is desired to be unwavering and constant."
    ],
-   "inference": "The devotee seeks unwavering and imperishable devotion to the deity at all times.",
+   "inference": "The worshipper seeks unwavering devotion to the deity at all times.",
    "uncertainties": [],
-   "plain_english": "May there always be imperishable devotion to you."
+   "plain_english": "May unwavering devotion to you always remain."
   }
  ]
 }

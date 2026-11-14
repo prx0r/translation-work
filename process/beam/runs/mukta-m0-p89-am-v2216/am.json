@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p89",
  "verse": 2216,
- "question": "How many brahmins may be settled when the arrangement is on a small scale?",
+ "question": "What reduced recitation count applies for Gaṇeśa and the sun?",
  "premises": [
-  "The arrangement may be small",
-  "The number of recipients can vary",
-  "One, two, or three are permitted"
+  "Gaṇeśa and the sun are named.",
+  "A proportion relative to the previous count is given.",
+  "The proportion is half."
  ],
- "inference": "In a small arrangement, one may settle one, two, or three brahmins.",
- "uncertainties": [],
- "plain_english": "In a small case, one should settle one, two, or three brahmins."
+ "inference": "For Gaṇeśa and the sun, the required recitation is half of the previously stated amount.",
+ "uncertainties": [
+  "The attachment of tava in ravestava is syntactically unclear."
+ ],
+ "plain_english": "For Gaṇeśa and for the sun, it is half of that."
 }

@@ -1,0 +1,997 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2001,
+   "rows": [
+    {
+     "surface": "vihita",
+     "gloss": "prescribed",
+     "grounds": "past passive participle of vi-dhā",
+     "morph": "ppp.m.nom.sg"
+    },
+    {
+     "surface": "akhila",
+     "gloss": "all",
+     "grounds": "adjective qualifying veda-uktaiḥ",
+     "morph": "adj.stem"
+    },
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "first member of compound veda-uktaiḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uktaiḥ",
+     "gloss": "spoken",
+     "grounds": "past passive participle of vac, instrumental plural",
+     "morph": "ppp.m.inst.pl"
+    },
+    {
+     "surface": "brahmarṣibhiḥ",
+     "gloss": "brahma-sages",
+     "grounds": "compound brahma-ṛṣibhiḥ, agents",
+     "morph": "compound.m.inst.pl"
+    },
+    {
+     "surface": "akalmaṣaiḥ",
+     "gloss": "sinless",
+     "grounds": "adjective qualifying brahmarṣibhiḥ",
+     "morph": "adj.m.inst.pl"
+    }
+   ],
+   "question": "By whom was the practice prescribed according to all Vedic teachings?",
+   "premises": [
+    "The practice was prescribed.",
+    "It followed all Vedic teachings.",
+    "Sinless brahma-sages performed it."
+   ],
+   "inference": "The practice stands established by sinless brahma-sages in accordance with all Vedic teachings.",
+   "uncertainties": [],
+   "plain_english": "It was prescribed by sinless brahma-sages in accordance with all that is spoken in the Vedas."
+  },
+  {
+   "verse": 2002,
+   "rows": [
+    {
+     "surface": "rājarṣibhiḥ",
+     "gloss": "royal-sages",
+     "grounds": "compound rāja-ṛṣibhiḥ, agents",
+     "morph": "compound.m.inst.pl"
+    },
+    {
+     "surface": "taponiṣṭhaiḥ",
+     "gloss": "firm-in-austerity",
+     "grounds": "compound tapas-niṣṭhaiḥ qualifying rājarṣibhiḥ",
+     "morph": "compound.m.inst.pl"
+    },
+    {
+     "surface": "bhagavattattvavedibhiḥ",
+     "gloss": "knowers-of-divine-truth",
+     "grounds": "compound bhagavat-tattva-vedibhiḥ qualifying rājarṣibhiḥ",
+     "morph": "compound.m.inst.pl"
+    }
+   ],
+   "question": "Which other exalted practitioners upheld the prescribed observance?",
+   "premises": [
+    "Royal sages also practiced it.",
+    "They were firm in austerity.",
+    "They knew divine truth."
+   ],
+   "inference": "Royal sages firm in austerity and knowing divine truth likewise upheld the observance.",
+   "uncertainties": [],
+   "plain_english": "It was also practiced by royal sages firm in austerity and knowing the truth of the Divine."
+  },
+  {
+   "verse": 2003,
+   "rows": [
+    {
+     "surface": "strībālavṛddhamukhyādyaiḥ",
+     "gloss": "women-children-elders-others",
+     "grounds": "compound strī-bāla-vṛddha-mukhya-ādyaiḥ listing groups",
+     "morph": "compound.m.inst.pl"
+    },
+    {
+     "surface": "bhaktaiḥ",
+     "gloss": "devotees",
+     "grounds": "noun qualified by preceding compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "akṣuṇṇamānasaiḥ",
+     "gloss": "unshaken-minds",
+     "grounds": "compound akṣuṇṇa-mānasaiḥ qualifying bhaktaiḥ",
+     "morph": "compound.m.inst.pl"
+    }
+   ],
+   "question": "Which broader community of devotees maintained the observance with steadfast minds?",
+   "premises": [
+    "Women, children, elders and others participated.",
+    "They were devotees.",
+    "Their minds were unshaken."
+   ],
+   "inference": "A wide community of devotees, including women, children, and elders, maintained the observance with unshaken minds.",
+   "uncertainties": [],
+   "plain_english": "It was also practiced by devotees—women, children, elders, and others—whose minds were unshaken."
+  },
+  {
+   "verse": 2004,
+   "rows": [
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negative particle, sandhi form of na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktāḥ",
+     "gloss": "able",
+     "grounds": "adjective or past participle, subject implied",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tantrāṇi",
+     "gloss": "tantras",
+     "grounds": "object of implied capacity",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "age",
+     "grounds": "locative singular, repeated for distributive sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "age",
+     "grounds": "locative singular, repeated for distributive sense",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Why do people in successive ages lack the capacity for tantric practice?",
+   "premises": [
+    "People are not able.",
+    "The inability concerns the tantras.",
+    "This condition recurs in age after age."
+   ],
+   "inference": "In successive ages, people lack the capacity to practice the tantras.",
+   "uncertainties": [],
+   "plain_english": "But in age after age, people are not able to practice the tantras."
+  },
+  {
+   "verse": 2005,
+   "rows": [
+    {
+     "surface": "preritāḥ",
+     "gloss": "impelled",
+     "grounds": "past passive participle of pra-īr",
+     "morph": "ppp.m.nom.pl"
+    },
+    {
+     "surface": "viprāḥ",
+     "gloss": "brahmins",
+     "grounds": "subject noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tantrapathagāminaḥ",
+     "gloss": "going-tantra-path",
+     "grounds": "compound tantra-patha-gāminaḥ qualifying viprāḥ",
+     "morph": "compound.m.nom.pl"
+    }
+   ],
+   "question": "Who becomes driven to follow the path of the tantras despite declining capacity?",
+   "premises": [
+    "Some brahmins are impelled.",
+    "They go on the tantra path.",
+    "This follows the stated decline."
+   ],
+   "inference": "Certain brahmins become impelled to follow the path of the tantras.",
+   "uncertainties": [],
+   "plain_english": "Some brahmins, impelled, become followers of the tantric path."
+  },
+  {
+   "verse": 2006,
+   "rows": [
+    {
+     "surface": "bhaviṣyanti",
+     "gloss": "will-be",
+     "grounds": "future of bhū",
+     "morph": "3.pl.future.act"
+    },
+    {
+     "surface": "kṣīṇapuṇyāḥ",
+     "gloss": "diminished-merit",
+     "grounds": "compound kṣīṇa-puṇyāḥ qualifying subject",
+     "morph": "compound.m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raurave",
+     "gloss": "in-raurava",
+     "grounds": "locative of raurava, a hell",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What consequence awaits those brahmins who follow the tantric path improperly?",
+   "premises": [
+    "Such brahmins will exist.",
+    "Their merit is diminished.",
+    "They are associated with Raurava."
+   ],
+   "inference": "Brahmins of diminished merit who take this path will end up in the Raurava hell.",
+   "uncertainties": [
+    "Whether raurave indicates destination or condition is context-dependent."
+   ],
+   "plain_english": "They will be of diminished merit and will be in Raurava."
+  },
+  {
+   "verse": 2007,
+   "rows": [
+    {
+     "surface": "gopaṃ",
+     "gloss": "cowherd",
+     "grounds": "accusative object or name element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṭalaiḥ",
+     "gloss": "with-coverings",
+     "grounds": "instrumental plural of paṭala",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "viṣṇugopanam",
+     "gloss": "viṣṇu-concealment",
+     "grounds": "compound viṣṇu-gopanam, name or description",
+     "morph": "compound.n.acc.sg"
+    }
+   ],
+   "question": "How was the concealed teaching associated with Viṣṇu presented in this context?",
+   "premises": [
+    "A cowherd figure is mentioned.",
+    "Coverings or sections are involved.",
+    "The teaching is called Viṣṇu-concealment."
+   ],
+   "inference": "The teaching was presented as Viṣṇu-concealment, associated with the cowherd and its sections.",
+   "uncertainties": [
+    "The syntactic relation among gopaṃ, paṭalaiḥ, and viṣṇugopanam is compressed."
+   ],
+   "plain_english": "The Viṣṇu-concealment, associated with the cowherd and its sections, was set forth."
+  },
+  {
+   "verse": 2008,
+   "rows": [
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "made",
+     "grounds": "past passive participle of kṛ",
+     "morph": "ppp.n.nom.sg"
+    },
+    {
+     "surface": "tantraṃ",
+     "gloss": "tantra",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "pronoun referring to the tantra",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradhānatā",
+     "gloss": "primacy",
+     "grounds": "abstract noun, predicate",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What status was assigned to the tantra composed in that context?",
+   "premises": [
+    "A tantra was composed.",
+    "It is referred to in that context.",
+    "Primacy is attributed to it."
+   ],
+   "inference": "The tantra composed there was given primacy.",
+   "uncertainties": [],
+   "plain_english": "A tantra was composed, and in that context it was given primacy."
+  },
+  {
+   "verse": 2009,
+   "rows": [
+    {
+     "surface": "samākhyāto",
+     "gloss": "declared",
+     "grounds": "past passive participle of sam-ā-khyā",
+     "morph": "ppp.m.nom.sg"
+    },
+    {
+     "surface": "yuṣmatpraśnavinirṇayaḥ",
+     "gloss": "your-question-resolution",
+     "grounds": "compound yuṣmat-praśna-vinirṇayaḥ",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "What has now been fully declared regarding the audience's inquiry?",
+   "premises": [
+    "A resolution has been declared.",
+    "It concerns your question.",
+    "The declaration is complete."
+   ],
+   "inference": "The resolution of your question has been declared.",
+   "uncertainties": [],
+   "plain_english": "The resolution of your question has now been declared."
+  },
+  {
+   "verse": 2010,
+   "rows": [
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive of kṛ",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "niḥśreyasāya",
+     "gloss": "for-liberation",
+     "grounds": "dative of purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what ultimate purpose must ritual action be performed?",
+   "premises": [
+    "Action is to be done.",
+    "Its purpose is specified.",
+    "The purpose is liberation."
+   ],
+   "inference": "Ritual action must indeed be performed for the sake of liberation.",
+   "uncertainties": [],
+   "plain_english": "Action must indeed be performed for the sake of liberation."
+  },
+  {
+   "verse": 2011,
+   "rows": [
+    {
+     "surface": "āhnikaprakāśaḥ",
+     "gloss": "daily-rite-exposition",
+     "grounds": "compound āhnika-prakāśaḥ, title-like noun",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective qualifying āhnikaprakāśaḥ",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "Which section of the daily rite exposition concludes at this point?",
+   "premises": [
+    "An exposition of daily rites is named.",
+    "It is numbered.",
+    "The number is fifth."
+   ],
+   "inference": "This marks the fifth exposition of the daily rites.",
+   "uncertainties": [],
+   "plain_english": "This is the fifth exposition of the daily rites."
+  },
+  {
+   "verse": 2012,
+   "rows": [
+    {
+     "surface": "vaidikādyāḥ",
+     "gloss": "vedic-and-others",
+     "grounds": "compound vaidika-ādyāḥ qualifying mantrāḥ",
+     "morph": "compound.m.nom.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective stem qualifying mantrāḥ",
+     "morph": "adj.stem"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "subject noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyanti",
+     "gloss": "succeed",
+     "grounds": "present of sidh",
+     "morph": "3.pl.present.act"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun, object of vinā",
+     "morph": "pron.m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing accusative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What essential condition determines whether Vedic and other mantras attain efficacy?",
+   "premises": [
+    "All Vedic and other mantras are considered.",
+    "They do not succeed without someone.",
+    "That someone is indispensable."
+   ],
+   "inference": "All Vedic and other mantras fail to attain efficacy without that essential one.",
+   "uncertainties": [
+    "The referent of yaṃ is not explicitly named in this verse."
+   ],
+   "plain_english": "All mantras, Vedic and others, do not succeed without him."
+  },
+  {
+   "verse": 2013,
+   "rows": [
+    {
+     "surface": "sāraḥ",
+     "gloss": "essence",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopitaḥ",
+     "gloss": "hidden",
+     "grounds": "past passive participle of gup",
+     "morph": "ppp.m.nom.sg"
+    }
+   ],
+   "question": "What is the status of the essential principle underlying all mantras?",
+   "premises": [
+    "That principle is the essence.",
+    "It is contrasted with what is manifest.",
+    "It has been hidden."
+   ],
+   "inference": "The essential principle underlying all mantras has been kept hidden.",
+   "uncertainties": [],
+   "plain_english": "But that essence has been kept hidden."
+  },
+  {
+   "verse": 2014,
+   "rows": [
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caryate",
+     "gloss": "practiced",
+     "grounds": "present passive of car",
+     "morph": "3.sg.present.passive"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle of pra-kīrt",
+     "morph": "ppp.n.nom.sg"
+    }
+   ],
+   "question": "How is the formerly practiced hidden essence now being made known?",
+   "premises": [
+    "Something was practiced formerly.",
+    "That practice is identified.",
+    "It is now proclaimed."
+   ],
+   "inference": "What was practiced formerly is now being proclaimed.",
+   "uncertainties": [],
+   "plain_english": "And what was practiced formerly is now proclaimed."
+  },
+  {
+   "verse": 2015,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun, subject",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.optative.act"
+    },
+    {
+     "surface": "tatprakāraṃ",
+     "gloss": "that-manner",
+     "grounds": "compound tat-prakāram as object",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "bravīmyaham",
+     "gloss": "I-speak",
+     "grounds": "fused form bravīmi aham",
+     "morph": "1.sg.present.act+pron.nom.sg"
+    }
+   ],
+   "question": "Who undertakes to explain the manner of that hidden essence?",
+   "premises": [
+    "The manner of that essence is to be explained.",
+    "A speaker declares intent.",
+    "The speaker identifies himself."
+   ],
+   "inference": "The speaker undertakes to explain the manner of that essence.",
+   "uncertainties": [
+    "The referent of sa is ambiguous without wider context."
+   ],
+   "plain_english": "I shall now speak of its manner."
+  },
+  {
+   "verse": 2016,
+   "rows": [
+    {
+     "surface": "pañcāṅgakasvarūpaṃ",
+     "gloss": "five-limbed-form",
+     "grounds": "compound pañca-aṅgaka-svarūpam",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.n.acc.sg"
+    },
+    {
+     "surface": "āhuḥ",
+     "gloss": "say",
+     "grounds": "perfect of ah used as present",
+     "morph": "3.pl.perfect.act"
+    },
+    {
+     "surface": "kecana",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "pron.m.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do some authorities describe the structure of that practice?",
+   "premises": [
+    "Some authorities speak on this matter.",
+    "They describe a specific form.",
+    "That form is five-limbed."
+   ],
+   "inference": "Some authorities describe that practice as having a five-limbed form.",
+   "uncertainties": [],
+   "plain_english": "Some say that it has a five-limbed form."
+  },
+  {
+   "verse": 2017,
+   "rows": [
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "subject noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "present of sthā",
+     "morph": "3.pl.present.act"
+    },
+    {
+     "surface": "vedeṣu",
+     "gloss": "in-vedas",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb of comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śābare",
+     "gloss": "in-śābara",
+     "grounds": "locative singular of śābara tradition",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which scriptural domains are the relevant mantras found to reside?",
+   "premises": [
+    "Mantras are present in multiple domains.",
+    "The Vedas are included.",
+    "Tantra and Śābara traditions are included."
+   ],
+   "inference": "The relevant mantras are found in the Vedas, in tantra, and in the Śābara tradition.",
+   "uncertainties": [],
+   "plain_english": "The mantras are found in the Vedas, likewise in tantra, and in the Śābara tradition."
+  },
+  {
+   "verse": 2018,
+   "rows": [
+    {
+     "surface": "aghamarṣeṇa",
+     "gloss": "sin-removal",
+     "grounds": "instrumental of aghamarṣa rite",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sūryārgheṇa",
+     "gloss": "sun-offering",
+     "grounds": "compound sūrya-arghena",
+     "morph": "compound.m.inst.sg"
+    },
+    {
+     "surface": "japena",
+     "gloss": "recitation",
+     "grounds": "instrumental of japa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "praṇāmakaiḥ",
+     "gloss": "prostrations",
+     "grounds": "instrumental plural of praṇāmaka",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which ritual acts constitute part of the prescribed observance?",
+   "premises": [
+    "Specific ritual acts are listed.",
+    "They include purification and offering.",
+    "They include recitation and prostration."
+   ],
+   "inference": "The observance includes sin-removal, offering to the sun, recitation, and prostrations.",
+   "uncertainties": [],
+   "plain_english": "It includes the sin-removal rite, offering to the sun, recitation, and prostrations."
+  },
+  {
+   "verse": 2019,
+   "rows": [
+    {
+     "surface": "hutiḥ",
+     "gloss": "oblation",
+     "grounds": "noun in a list of acts",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāgaḥ",
+     "gloss": "sacrifice",
+     "grounds": "noun in a list of acts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcā",
+     "gloss": "worship",
+     "grounds": "noun in a list of acts",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karmataḥ",
+     "gloss": "by-action",
+     "grounds": "ablative used adverbially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrapūjanāt",
+     "gloss": "from-wheel-worship",
+     "grounds": "compound cakra-pūjanāt, ablative",
+     "morph": "compound.n.abl.sg"
+    }
+   ],
+   "question": "Which additional ritual components complete the fuller form of the observance?",
+   "premises": [
+    "Further ritual acts are enumerated.",
+    "They include oblation, sacrifice, and worship.",
+    "They culminate in wheel-worship."
+   ],
+   "inference": "The fuller observance includes oblation, sacrifice, worship, and wheel-worship.",
+   "uncertainties": [
+    "The force of karmataḥ in this list is somewhat compressed."
+   ],
+   "plain_english": "It also includes oblation, sacrifice, worship, ritual action, and wheel-worship."
+  },
+  {
+   "verse": 2020,
+   "rows": [
+    {
+     "surface": "bhavatyekādaśāṅgakaḥ",
+     "gloss": "becomes-eleven-limbed",
+     "grounds": "fused form bhavati ekādaśa-aṅgakaḥ",
+     "morph": "3.sg.present.act+compound.m.nom.sg"
+    }
+   ],
+   "question": "How many limbs does the complete observance comprise when fully enumerated?",
+   "premises": [
+    "The listed acts form a whole.",
+    "That whole is described as limbed.",
+    "The total number is eleven."
+   ],
+   "inference": "When fully enumerated, the observance becomes eleven-limbed.",
+   "uncertainties": [],
+   "plain_english": "Thus it becomes eleven-limbed."
+  },
+  {
+   "verse": 2021,
+   "rows": [
+    {
+     "surface": "sarvapāpakṣayaṃ",
+     "gloss": "all-sins-destruction",
+     "grounds": "compound sarva-pāpa-kṣayam as object",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "would-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.optative.act"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "particle introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhibandhakṛt",
+     "gloss": "accomplishment-binding-making",
+     "grounds": "compound siddhi-bandha-kṛt",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "What alternative outcomes can result from performing this observance?",
+   "premises": [
+    "The observance can produce an effect.",
+    "One possible effect is destruction of all sins.",
+    "Another possible effect is binding accomplishment."
+   ],
+   "inference": "The observance may either destroy all sins or produce a binding form of accomplishment.",
+   "uncertainties": [
+    "The exact sense of siddhibandhakṛt depends on doctrinal context."
+   ],
+   "plain_english": "It may bring about the destruction of all sins, or else produce a binding accomplishment."
+  },
+  {
+   "verse": 2022,
+   "rows": [
+    {
+     "surface": "proktena",
+     "gloss": "by-stated",
+     "grounds": "past passive participle of pra-vac, instrumental",
+     "morph": "ppp.m.inst.sg"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-path",
+     "grounds": "instrumental of means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "pronoun referring to the observance or result",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adūrataḥ",
+     "gloss": "not-far",
+     "grounds": "adverbial expression",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How near is accomplishment when the stated path is followed?",
+   "premises": [
+    "A path has been stated.",
+    "Accomplishment is sought through it.",
+    "That accomplishment is said to be not far."
+   ],
+   "inference": "By following the stated path, accomplishment is near at hand.",
+   "uncertainties": [],
+   "plain_english": "By the path that has been stated, its accomplishment is not far away."
+  },
+  {
+   "verse": 2023,
+   "rows": [
+    {
+     "surface": "kaulikānāṃ",
+     "gloss": "of-kaulikas",
+     "grounds": "genitive plural of kaulika",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vāmināṃ",
+     "gloss": "of-vāmas",
+     "grounds": "genitive plural of vāmin",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nādhikāritā",
+     "gloss": "no-eligibility",
+     "grounds": "compound na-adhikāritā",
+     "morph": "compound.f.nom.sg"
+    }
+   ],
+   "question": "Which groups are explicitly denied eligibility for this observance?",
+   "premises": [
+    "Eligibility is being assessed.",
+    "Kaulikas are mentioned.",
+    "Vāmas are mentioned."
+   ],
+   "inference": "Kaulikas and Vāmas are not eligible for this observance.",
+   "uncertainties": [],
+   "plain_english": "Kaulikas and Vāmas are not eligible."
+  },
+  {
+   "verse": 2024,
+   "rows": [
+    {
+     "surface": "ṛkśākhādhyāyibhiḥ",
+     "gloss": "by-ṛk-branch-reciters",
+     "grounds": "compound ṛk-śākhā-adhyāyibhiḥ, instrumental agents",
+     "morph": "compound.m.inst.pl"
+    },
+    {
+     "surface": "kāryo",
+     "gloss": "should-be-done",
+     "grounds": "gerundive of kṛ, masculine nominative",
+     "morph": "gerundive.m.nom.sg"
+    },
+    {
+     "surface": "gaṇako",
+     "gloss": "calculation",
+     "grounds": "noun, subject of kāryaḥ in this form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvidhiḥ",
+     "gloss": "that-rule",
+     "grounds": "compound tat-vidhiḥ",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "Who should perform the calculation according to the prescribed rule?",
+   "premises": [
+    "A calculation is required.",
+    "Reciters of the Ṛk branch are specified.",
+    "The action must follow the stated rule."
+   ],
+   "inference": "The calculation should be performed by reciters of the Ṛk branch according to that rule.",
+   "uncertainties": [
+    "The precise technical sense of gaṇakaḥ in this ritual context is not fully specified."
+   ],
+   "plain_english": "The calculation should be done by reciters of the Ṛk branch, according to that rule."
+  }
+ ]
+}

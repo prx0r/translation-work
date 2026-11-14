@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[nāga+andhakārikā+āhvam](nāgāndhakārīkāhvaṃ) [and](ca) [stambha+andhakārikā](stambhāndhakārikā) [again](punaḥ)
+[snake+darkness-maker-called](nāgāndhakārīkāhvaṃ) [and](ca) [pillar+darkness-maker](stambhāndhakārikā) [again](punaḥ)
 
 ## mukta-m0-p116-v2877
-[andha+ākhyā](andhākhyā) [but](tu) [marīci+aṅkā](marīcyaṅkā) [root+branch](mūlaśākheti) [is-called](kīrtitā)
+[darkness-named](andhākhyā) [indeed](tu) [ray-marked](marīcyaṅkā) [root+branch](mūlaśākheti) [is-called](kīrtitā)
 
 ## mukta-m0-p116-v2878
-[veda+eka+sārdhaiḥ](vedaikasārdhair) [by-vedas](vedaistu) [bhava+ambu+rūpa](bhavāmburūpa) [by-fourths](turyakaiḥ)
+[veda+one+with-half](vedaikasārdhair) [by-vedas](vedaistu) [world+water+form](bhavāmburūpa) [[kh, gh: tapa]]([kh, gh: tapa]) [by-fourths](turyakaiḥ)
 
 ## mukta-m0-p116-v2879
-[with-half+water](sārdhāmbunā) [position](sthitir) [should-be-known](jñeyā) [of-branch+and-door](śākhādvārikayoḥ) [in-order](kramāt)
+[with-half+water](sārdhāmbunā) [position](sthitiḥ) [should-be-known](jñeyā) [of-branch+and-door](śākhādvārikayoḥ) [in-order](kramāt)
 
 ## mukta-m0-p116-v2880
-[like-root](mūlavat)
+[like-root](mūlavat) [closing-bracket](])
 
 ## mukta-m0-p116-v2881
-[jāhravī](jāhravī) [and-yamunā](yamune) [and](ca) [also](api) [at-their-side](tatpārśve) [load-bearer](bhāravāhikā)
+[Jahnavi](jāhravī) [and-Yamuna](yamune) [and](ca) [also](api) [their-side](tatpārśve) [load-bearer](bhāravāhikā)
 
 ## mukta-m0-p116-v2882
-[with-pairs](yugmakaiḥ)
+[by-pairs](yugmakaiḥ)
 
 ## mukta-m0-p116-v2883
-[should-adorn](śobhayad) [with-effort](yatnataḥ) [branches](śākhās) [with-those-rich](tadhanayaiś) [and](ca) [very-beautiful](suśobhanaiḥ)
+[adorn](śobhayat) [with-effort](yatnataḥ) [branches](śākhāḥ) [with-those-ornaments](tadhanayaiḥ) [and](ca) [very-beautiful](suśobhanaiḥ)
 
 ## mukta-m0-p116-v2884
-[in-first-udumbara](prathamodumbare) [(?)](?) [should-be-placed](sthāpyāḥ) [adorned-with-all-parts](sarvāvayavaśobhitāḥ)
+[in-first-udumbara](prathamodumbare) [(?)](?) [should-be-placed](sthāpyāḥ) [all+limb+adorned](sarvāvayavaśobhitāḥ)
 
 ## mukta-m0-p116-v2885
-[planets](grahāś) [and](ca) [mothers](mātāro) [vevīs](vevyo) [situated-in-channel-activity](nādyavyāpārasaṃsthitāḥ)
+[planets](grahāḥ) [and](ca) [mothers](mātāro) [goddesses](vevyo) [in-channel+activity+situated](nādyavyāpārasaṃsthitāḥ)
 
 ## mukta-m0-p116-v2886
-[forehead](lalāṭaṃ) [beautiful](śobhanaṃ) [and](ca) [above](ūrdhvaṃ) [endowed-with-nāgadantas](nāgadantānvitaṃ) [firm](dṛḍham)
+[forehead](lalāṭaṃ) [beautiful](śobhanaṃ) [and](ca) [above](ūrdhvaṃ) [with-elephant-tusks](nāgadantānvitaṃ) [firm](dṛḍham)
 
 ## mukta-m0-p116-v2887
-[by-half-quarter-of-door-height](dvārocchrayārdhapādena) [or](vā) [by-two-hands-and-feet](karapādadvayena)
+[by-door+height+half+quarter](dvārocchrayārdhapādena) [by-hand+foot+two](karapādadvayena) [or](vā)
 
 ## mukta-m0-p116-v2888
-[by-three](tribhir) [by-thirds-of-guṇa-and-mountain](guṇagiritryaṃśair) [two](dvi) [in-two-parts](dvibhāge) [two-bases](khuradvayam)
+[by-three](tribhiḥ) [by-quality+mountain+third-parts](guṇagiritryaṃśaiḥ) [two](dvi) [in-two+parts](dvibhāge) [base+two](khuradvayam)
 
 ## mukta-m0-p116-v2889
-[egg-born](aṇḍajam)
+[[gh: aṇḍajam]]([gh: aṇḍajam])
 
 ## mukta-m0-p116-v2890
-[should-be-made](kāryaś) [and](ca) [by-four-measures](caturyamāṃśaiś) [threshold](dehalī) [tiger-band](vyāghrapaṭṭikā)
+[should-be-made](kāryaḥ) [and](ca) [by-four+measures+parts](caturyamāṃśaiḥ) [threshold](dehalī) [tiger+strip](vyāghrapaṭṭikā)
 
 ## mukta-m0-p116-v2891
-[for-destruction-of-all-piercing](sarvavedhavināśāya) [a-little](kiñcid) [to-the-north](uttarato) [one-should-place](nyaset)
+[all](sarva) [[mū: sa ca]]([mū: sa ca]) [for-piercing+destruction](vedhavināśāya) [a-little](kiñcit) [to-the-north](uttarato) [one-should-place](nyaset)
 
 ## mukta-m0-p116-v2892
-[therefore](tasmāt) [for-the-sake-of-avoiding-that](tadvarjanānārthāya) [having-known-from-the-teacher](gurorjñātvaṃ) [that-is-stated](taducyate)
+[therefore](tasmāt) [for-that+avoidance+purpose](tadvarjanānārthāya) [of-teacher](guroḥ) [to-be-known](jñātvaṃ) [[kh: rājñā]]([kh: rājñā]) [that-is-stated](taducyate)
 
 ## mukta-m0-p116-v2893
-[when-pierced-by-road](rathyāviddhe) [exile](pravāsaḥ) [would-be](syāc) [by-crossroads](catuṣpathena) [harshness](rūkṣatā)
+[by-road](rathyā) [[mū, gh: ratha]]([mū, gh: ratha]) [pierced](viddhe) [exile](pravāsaḥ) [would-be](syāt) [by-crossroad](catuṣpathena) [harshness](rūkṣatā)
 
 ## mukta-m0-p116-v2894
-[by-tree](vṛkṣeṇa) [loss-of-wealth](vittanāśaś) [and](ca) [by-pillar](stambhena) [servitude-to-another](parabhṛtyatā)
+[by-tree](vṛkṣeṇa) [wealth+destruction](vittanāśaḥ) [and](ca) [[gh: stu]]([gh: stu]) [by-pillar](stambhena) [another's+servitude](parabhṛtyatā)
 
 ## mukta-m0-p116-v2895
-[by-corner](koṇena) [royal-punishment](rājadaṇḍaḥ) [would-be](syād) [confusion](vibhramo) [by-door-leaf](dvāraśākhayā)
+[by-corner](koṇena) [king+punishment](rājadaṇḍaḥ) [would-be](syāt) [confusion](vibhramo) [by-door+leaf](dvāraśākhayā)
 
 ## mukta-m0-p116-v2896
-[fear-of-enemy](śatrorbhayaṃ) [and](ca) [by-well](kūpena) [when-pierced-by-temple](devabiddhe) [bondage](bandhanam)
+[of-enemy](śatroḥ) [fear](bhayaṃ) [and](ca) [by-well](kūpena) [by-deity+pierced](devabiddheba) [bondage](bandhanam)
 
 ## mukta-m0-p116-v2897
-[by-ashes](bhasmanā) [loss-of-cattle](paśunāśaḥ) [would-be](syād) [by-vardhamāna](vardhamānena) [injury-to-cows](govyadhā)
+[by-ashes](bhasmanā) [cattle+destruction](paśunāśaḥ) [would-be](syāt) [by-vardhamāna](vardhamānena) [cow+injury](govyadhā)
 
 ## mukta-m0-p116-v2898
-[by-face](vaktreṇa) [and](ca) [enmity-with-friend](suhṛdogas) [but](tv) [by-hearing-in-veranda](ālindaśravaṇena) [fear](bhīḥ)
+[by-face](vaktreṇa) [and](ca) [friend](suhṛ) [[gh: cakrena vasu]]([gh: cakrena vasu]) [enmity](dogaḥ) [indeed](tu) [by-veranda+ear](ālindaśravaṇena) [fear](bhīḥ)
 
 ## mukta-m0-p116-v2899
-[by-pit](śvabhreṇa) [then](atha) [loss-of-son](sutakṣayaḥ)
+[done+thus+meaning](kṛtamityarthaḥ) [closing-bracket](])] [by-pit](śvabhreṇa) [then](atha) [son+destruction](sutakṣayaḥ)
 
 ## mukta-m0-p116-v2900
-[by-kaṇḍanī](kaṇḍanyā) [loss-of-wealth](dhananāśaḥ) [would-be](syāc) [when-pierced-by-stone](śilābiddhe) [pain](rujā) [likewise](tathā)
+[by-kaṇḍanyā](kaṇḍanyā) [[kuṇḍalyā]]([kuṇḍalyā]) [wealth+destruction](dhananāśaḥ) [would-be](syāt) [by-stone+pierced](śilābiddhe) [pain](rujā) [likewise](tathā)

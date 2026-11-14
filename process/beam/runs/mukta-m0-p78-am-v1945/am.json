@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1945,
- "question": "By what means should the offering be presented to the lord of gods?",
+ "question": "How should the offering be presented to the lord of gods?",
  "premises": [
-  "The lord of gods is the recipient.",
-  "The offering is made with verses.",
-  "These specific verses are to be used."
+  "An offering is directed to the lord of gods.",
+  "Specific verses are used as the means."
  ],
- "inference": "One should offer to the lord of gods with these verses.",
- "uncertainties": [],
- "plain_english": "One should offer to the lord of gods with these verses."
+ "inference": "One should offer it to the lord of gods with these verses.",
+ "uncertainties": [
+  "The exact object being offered is implied from context."
+ ],
+ "plain_english": "One should offer it to the lord of gods with these verses."
 }
