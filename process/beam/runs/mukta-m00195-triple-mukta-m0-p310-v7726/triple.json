@@ -1,0 +1,979 @@
+{
+ "song": "mukta-m0-p310",
+ "items": [
+  {
+   "verse": 7726,
+   "rows": [
+    {
+     "surface": "sammohanaḥ",
+     "gloss": "enchanting",
+     "grounds": "name or quality of the meter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "name of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "regarded as",
+     "morph": "f.nom.sg.ppp"
+    }
+   ],
+   "question": "Which meter and deity are prescribed for this rite?",
+   "premises": [
+    "The meter is named Sammohana.",
+    "The deity is Gāyatrī.",
+    "This identification is considered authoritative."
+   ],
+   "inference": "The rite employs the Sammohana meter and takes Gāyatrī as its deity.",
+   "uncertainties": [],
+   "plain_english": "The meter is Sammohana, and the deity is considered to be Gāyatrī."
+  },
+  {
+   "verse": 7727,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "six ritual limbs",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣaḍdīrghānvitamūlataḥ",
+     "gloss": "from-root-with-six-long-vowels",
+     "grounds": "compound indicating derivation from the root with six long vowels",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the six limbs to be formed in this practice?",
+   "premises": [
+    "Six limbs are prescribed.",
+    "They are formed from the root mantra.",
+    "The root is joined with six long vowels."
+   ],
+   "inference": "The six limbs are constructed from the root mantra combined with six long vowels.",
+   "uncertainties": [],
+   "plain_english": "The six limbs are to be formed from the root mantra together with the six long vowels."
+  },
+  {
+   "verse": 7728,
+   "rows": [
+    {
+     "surface": "pūrvokta",
+     "gloss": "previously-mentioned",
+     "grounds": "referring to what was stated earlier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pañcabāṇān",
+     "gloss": "five-arrows",
+     "grounds": "the five arrows",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "visualization practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "carry out the practice",
+     "morph": "3.sg.opt.act √car+sam-ā"
+    }
+   ],
+   "question": "What ritual actions must follow the earlier instructions?",
+   "premises": [
+    "The previously mentioned five arrows are to be placed.",
+    "Meditation is also prescribed.",
+    "Both actions should be performed."
+   ],
+   "inference": "The practitioner should place the previously mentioned five arrows and perform the meditation.",
+   "uncertainties": [],
+   "plain_english": "One should place the previously mentioned five arrows and perform the meditation."
+  },
+  {
+   "verse": 7729,
+   "rows": [
+    {
+     "surface": "nānālaṅkāra",
+     "gloss": "various-ornaments",
+     "grounds": "adorned with diverse ornaments",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śubhagāṃ",
+     "gloss": "beautiful",
+     "grounds": "auspicious and lovely",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mohayantīṃ",
+     "gloss": "deluding",
+     "grounds": "causing enchantment",
+     "morph": "f.acc.sg.pres.part.act √muh"
+    },
+    {
+     "surface": "jagattrayam",
+     "gloss": "three-worlds",
+     "grounds": "the three worlds",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the deity visualized in the prescribed meditation?",
+   "premises": [
+    "She is adorned with various ornaments.",
+    "She is beautiful.",
+    "She deludes the three worlds."
+   ],
+   "inference": "The meditation visualizes a beautifully adorned goddess who enchants the three worlds.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on her as beautiful, adorned with various ornaments, and deluding the three worlds."
+  },
+  {
+   "verse": 7730,
+   "rows": [
+    {
+     "surface": "kṣobhiṇīṃ",
+     "gloss": "agitating",
+     "grounds": "causing agitation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaśinīṃ",
+     "gloss": "moon-like",
+     "grounds": "having lunar qualities",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "stambhinīṃ",
+     "gloss": "paralyzing",
+     "grounds": "causing immobilization",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional powers characterize the goddess in meditation?",
+   "premises": [
+    "She is agitating.",
+    "She is moon-like.",
+    "She is paralyzing."
+   ],
+   "inference": "The goddess is further visualized as agitating, moon-like, and paralyzing.",
+   "uncertainties": [],
+   "plain_english": "She is also to be seen as agitating, moon-like, and likewise paralyzing."
+  },
+  {
+   "verse": 7731,
+   "rows": [
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "after ritual invocation",
+     "morph": "indecl.abs √vah+sam-ā"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "perform worship",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "mudrāḥ",
+     "gloss": "hand-gestures",
+     "grounds": "ritual seals",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "one-should-display",
+     "grounds": "show the gestures",
+     "morph": "3.sg.opt.caus.act √dṛś"
+    }
+   ],
+   "question": "What actions follow the invocation of the deity?",
+   "premises": [
+    "The deity is first invoked.",
+    "Worship should then be performed.",
+    "Hand gestures should be displayed."
+   ],
+   "inference": "After invocation, the practitioner should worship the deity and display the ritual hand gestures.",
+   "uncertainties": [],
+   "plain_english": "Having invoked her, one should worship her and display the hand gestures."
+  },
+  {
+   "verse": 7732,
+   "rows": [
+    {
+     "surface": "anaṅgarūpiṇī",
+     "gloss": "love-bodied",
+     "grounds": "having the form of love",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anaṅgamadanā",
+     "gloss": "love-intoxicating",
+     "grounds": "intoxicating with love",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-beginning",
+     "grounds": "and so forth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madanā",
+     "gloss": "intoxicating",
+     "grounds": "causing intoxication",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which names or forms of the goddess are indicated here?",
+   "premises": [
+    "Anaṅgarūpiṇī is named.",
+    "Anaṅgamadanā is named.",
+    "Madanā and similar forms are included."
+   ],
+   "inference": "The goddess is identified by forms such as Anaṅgarūpiṇī, Anaṅgamadanā, Madanā, and others.",
+   "uncertainties": [],
+   "plain_english": "She is called Anaṅgarūpiṇī, Anaṅgamadanā, and likewise Madanā, and so on."
+  },
+  {
+   "verse": 7733,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "similarly",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvipikā",
+     "gloss": "in-pairs",
+     "grounds": "arranged two by two",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "number eight",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "samīritāḥ",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "f.nom.pl.ppp √īr+sam"
+    }
+   ],
+   "question": "How many forms are declared and in what arrangement?",
+   "premises": [
+    "The forms are declared similarly.",
+    "They are arranged in pairs.",
+    "There are eight of them."
+   ],
+   "inference": "Eight forms are declared, arranged in pairs.",
+   "uncertainties": [],
+   "plain_english": "Similarly, eight are declared, arranged in pairs."
+  },
+  {
+   "verse": 7734,
+   "rows": [
+    {
+     "surface": "vijñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "should be understood",
+     "morph": "f.nom.pl.fpp √jñā+vi"
+    },
+    {
+     "surface": "tripureśyāḥ",
+     "gloss": "of-tripureśī",
+     "grounds": "belonging to Tripureśī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "in the manner that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "in that manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to which model should these forms be understood?",
+   "premises": [
+    "The forms must be known.",
+    "They correspond to those of Tripureśī.",
+    "The correspondence is direct."
+   ],
+   "inference": "These forms should be understood in the same way as those of Tripureśī.",
+   "uncertainties": [],
+   "plain_english": "They are to be known just as those of Tripureśī are known."
+  },
+  {
+   "verse": 7735,
+   "rows": [
+    {
+     "surface": "gaṇeśān",
+     "gloss": "gaṇeśas",
+     "grounds": "the Gaṇeśa deities",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "rājamātaṅyāḥ",
+     "gloss": "of-rāja-mātaṅgī",
+     "grounds": "belonging to Rāja Mātaṅgī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "saṃbadhān",
+     "gloss": "connected",
+     "grounds": "associated with",
+     "morph": "m.acc.pl.ppp √bandh+sam"
+    },
+    {
+     "surface": "yoginīyutān",
+     "gloss": "joined-with-yoginīs",
+     "grounds": "accompanied by yoginīs",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which attendant deities are associated with Rāja Mātaṅgī here?",
+   "premises": [
+    "Gaṇeśas are mentioned.",
+    "They are connected with Rāja Mātaṅgī.",
+    "They are accompanied by yoginīs."
+   ],
+   "inference": "The Gaṇeśas connected with Rāja Mātaṅgī and accompanied by yoginīs are to be included.",
+   "uncertainties": [],
+   "plain_english": "One should include the Gaṇeśas connected with Rāja Mātaṅgī, accompanied by the yoginīs."
+  },
+  {
+   "verse": 7736,
+   "rows": [
+    {
+     "surface": "namontāḥ",
+     "gloss": "ending-with-namas",
+     "grounds": "mantras ending in namas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "manavaḥ",
+     "gloss": "mantras",
+     "grounds": "sacred formulas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "of those deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "the names",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vacmyaham",
+     "gloss": "i-say",
+     "grounds": "I declare",
+     "morph": "1.sg.pres.act √vac + aham"
+    }
+   ],
+   "question": "How will the mantras and names of these deities be presented?",
+   "premises": [
+    "Their mantras end with namas.",
+    "Their names will be stated.",
+    "The presentation follows a sequence."
+   ],
+   "inference": "The speaker will declare their names in order, with mantras ending in namas.",
+   "uncertainties": [],
+   "plain_english": "Their mantras end with namas; I shall now state their names in order."
+  },
+  {
+   "verse": 7737,
+   "rows": [
+    {
+     "surface": "vināyakaḥ",
+     "gloss": "vināyaka",
+     "grounds": "name of a Gaṇeśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajavināyakaḥ",
+     "gloss": "elephant-vināyaka",
+     "grounds": "name of a Gaṇeśa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which Vināyaka deities are named first in the sequence?",
+   "premises": [
+    "Vināyaka is named.",
+    "Gajavināyaka is named.",
+    "They are given in sequence."
+   ],
+   "inference": "The first named deities in the sequence are Vināyaka and Gajavināyaka.",
+   "uncertainties": [],
+   "plain_english": "They are Vināyaka and likewise Gajavināyaka."
+  },
+  {
+   "verse": 7738,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introducing next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antargṛham",
+     "gloss": "inner-house",
+     "grounds": "the inner chamber",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āvṛtya",
+     "gloss": "having-surrounded",
+     "grounds": "having encompassed",
+     "morph": "indecl.abs √vṛ+ā"
+    },
+    {
+     "surface": "sthitān",
+     "gloss": "situated",
+     "grounds": "standing or placed",
+     "morph": "m.acc.pl.ppp √sthā"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "listen",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "vināyakān",
+     "gloss": "vināyakas",
+     "grounds": "the Vināyaka deities",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which Vināyakas are located around the inner chamber?",
+   "premises": [
+    "The inner chamber is surrounded.",
+    "Certain Vināyakas are situated there.",
+    "The listener is asked to hear their names."
+   ],
+   "inference": "The Vināyakas situated around the inner chamber are now to be heard.",
+   "uncertainties": [],
+   "plain_english": "Now hear of the Vināyakas who are situated surrounding the inner chamber."
+  },
+  {
+   "verse": 7739,
+   "rows": [
+    {
+     "surface": "gajakarṇaḥ",
+     "gloss": "elephant-ear",
+     "grounds": "name of a Vināyaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "citraghaṇṭaḥ",
+     "gloss": "variegated-bell",
+     "grounds": "name of a Vināyaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "maṅgalavināyakaḥ",
+     "gloss": "auspicious-vināyaka",
+     "grounds": "name of a Vināyaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which Vināyakas are identified around the inner chamber?",
+   "premises": [
+    "Gajakarṇa is named.",
+    "Citraghaṇṭa is named.",
+    "Maṅgalavināyaka is named."
+   ],
+   "inference": "The Vināyakas around the inner chamber include Gajakarṇa, Citraghaṇṭa, and Maṅgalavināyaka.",
+   "uncertainties": [],
+   "plain_english": "They are Gajakarṇa, Citraghaṇṭa, and Maṅgalavināyaka."
+  },
+  {
+   "verse": 7740,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "those deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vakṣyante",
+     "gloss": "will-be-spoken",
+     "grounds": "will be declared",
+     "morph": "3.pl.fut.pass √vac"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "by the speaker",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "at this time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who will declare the remaining deities at this point?",
+   "premises": [
+    "Certain deities remain to be named.",
+    "The speaker will declare them.",
+    "The declaration happens now."
+   ],
+   "inference": "The speaker will now declare those deities.",
+   "uncertainties": [],
+   "plain_english": "They will now be spoken by me."
+  },
+  {
+   "verse": 7741,
+   "rows": [
+    {
+     "surface": "jñānapūrvaḥ",
+     "gloss": "beginning-with-jñāna",
+     "grounds": "preceded by jñāna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvāravighneśaḥ",
+     "gloss": "door-obstacle-lord",
+     "grounds": "guardian of the door",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which door guardian is specified in this instruction?",
+   "premises": [
+    "A door guardian is named.",
+    "It is preceded by jñāna.",
+    "The identification is emphatic."
+   ],
+   "inference": "The door guardian is the one beginning with jñāna.",
+   "uncertainties": [
+    "Exact form of the name beginning with jñāna is not fully explicit."
+   ],
+   "plain_english": "And indeed the door guardian is the one beginning with Jñāna."
+  },
+  {
+   "verse": 7742,
+   "rows": [
+    {
+     "surface": "kīrtyante",
+     "gloss": "are-called",
+     "grounds": "are proclaimed",
+     "morph": "3.pl.pres.pass √kīrt"
+    },
+    {
+     "surface": "pretavāhanāḥ",
+     "gloss": "corpse-vehicle",
+     "grounds": "having a corpse as vehicle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "this statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parānvayi",
+     "gloss": "connected-with-what-follows",
+     "grounds": "to be construed with the next",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are these beings described and how does the syntax continue?",
+   "premises": [
+    "They are called pretavāhanāḥ.",
+    "This statement is given.",
+    "It connects with what follows."
+   ],
+   "inference": "They are called corpse-vehicle bearers, and this description continues into the next verse.",
+   "uncertainties": [],
+   "plain_english": "They are called those whose vehicle is a corpse; this connects with what follows."
+  },
+  {
+   "verse": 7743,
+   "rows": [
+    {
+     "surface": "dhūrttaviśvāsā",
+     "gloss": "rogue-faith",
+     "grounds": "trusting in rogues or deceptive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyomaikacaraṇārdhadṛk",
+     "gloss": "sky-one-foot-half-eye",
+     "grounds": "compound describing form: one foot in sky, half eye",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What distinctive attributes characterize this figure?",
+   "premises": [
+    "The figure is called dhūrttaviśvāsā.",
+    "The figure has one foot in the sky and half an eye.",
+    "These are defining attributes."
+   ],
+   "inference": "The figure is characterized as dhūrttaviśvāsā and as having one foot in the sky and half an eye.",
+   "uncertainties": [
+    "The precise sense of dhūrttaviśvāsā is context-dependent."
+   ],
+   "plain_english": "She is Dhūrttaviśvāsā, with one foot in the sky and half an eye."
+  },
+  {
+   "verse": 7744,
+   "rows": [
+    {
+     "surface": "sthūlanāsā",
+     "gloss": "thick-nose",
+     "grounds": "having a thick nose",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mārjārī",
+     "gloss": "cat-like",
+     "grounds": "feline in nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaṃṭhapūraṇā",
+     "gloss": "throat-filling",
+     "grounds": "filling the throat",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What further physical traits define this figure?",
+   "premises": [
+    "She has a thick nose.",
+    "She is cat-like.",
+    "She is throat-filling."
+   ],
+   "inference": "The figure is further defined as thick-nosed, cat-like, and throat-filling.",
+   "uncertainties": [
+    "The exact meaning of kaṃṭhapūraṇā is unclear."
+   ],
+   "plain_english": "She has a thick nose, is cat-like, and is called Kaṃṭhapūraṇā."
+  },
+  {
+   "verse": 7745,
+   "rows": [
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "the yoginī goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṅentaṃ",
+     "gloss": "ending-in-ṅe",
+     "grounds": "name form ending in ṅe",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "the name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "namontakam",
+     "gloss": "ending-in-namas",
+     "grounds": "ending with namas",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What form should the names of these yoginīs take?",
+   "premises": [
+    "The beings are yoginīs.",
+    "Their names end in ṅe.",
+    "Their names end with namas."
+   ],
+   "inference": "The yoginīs’ names are to be formed ending in ṅe and concluding with namas.",
+   "uncertainties": [],
+   "plain_english": "The yoginīs’ names end in ṅe and conclude with namas."
+  },
+  {
+   "verse": 7746,
+   "rows": [
+    {
+     "surface": "sampravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "I will fully explain",
+     "morph": "1.sg.fut.act √vac+sam-pra"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "power",
+     "grounds": "the śakti or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-them",
+     "grounds": "of these beings",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "susiddhidām",
+     "gloss": "granting-great-success",
+     "grounds": "bestowing excellent accomplishment",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What power of these beings will be declared next?",
+   "premises": [
+    "The speaker will declare something.",
+    "It concerns their power.",
+    "That power grants great success."
+   ],
+   "inference": "The speaker will declare their power, which grants great success.",
+   "uncertainties": [],
+   "plain_english": "I shall now declare their power, which grants great success."
+  },
+  {
+   "verse": 7747,
+   "rows": [
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manavaḥ",
+     "gloss": "mantras",
+     "grounds": "sacred formulas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "taught",
+     "morph": "m.nom.pl.ppp √vac+pra"
+    },
+    {
+     "surface": "bhagavatīpradaṃ",
+     "gloss": "bhagavatī-granting",
+     "grounds": "giving the goddess or her favor",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "one should utter",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "What mantra element and utterance are prescribed for this power?",
+   "premises": [
+    "The bīja śrīṃ is involved.",
+    "Mantras are declared.",
+    "One should utter the phrase granting Bhagavatī."
+   ],
+   "inference": "The prescribed utterance includes śrīṃ and the phrase that grants Bhagavatī.",
+   "uncertainties": [
+    "The exact syntactic scope of bhagavatīpradaṃ is compressed."
+   ],
+   "plain_english": "The mantras are declared as beginning with śrīṃ, and one should utter the phrase that grants Bhagavatī."
+  },
+  {
+   "verse": 7748,
+   "rows": [
+    {
+     "surface": "sarvamukharāji",
+     "gloss": "sarvamukharāji",
+     "grounds": "mantra name or phrase, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamukhe",
+     "gloss": "sarvamukhe",
+     "grounds": "mantra phrase, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra phrases are to be uttered in this sequence?",
+   "premises": [
+    "The phrase sarvamukharāji is given.",
+    "The phrase sarvamukhe is given.",
+    "They are marked as utterances."
+   ],
+   "inference": "The mantra sequence includes the phrases sarvamukharāji and sarvamukhe.",
+   "uncertainties": [],
+   "plain_english": "One should say: sarvamukharāji, sarvamukhe."
+  },
+  {
+   "verse": 7749,
+   "rows": [
+    {
+     "surface": "sarvastrīpuruṣa",
+     "gloss": "all-women-men",
+     "grounds": "mantra phrase referring to all women and men",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityuktvā",
+     "gloss": "thus-having-said",
+     "grounds": "after saying thus",
+     "morph": "indecl.abs √vac+ud"
+    },
+    {
+     "surface": "vaśaṃkari",
+     "gloss": "subduing",
+     "grounds": "bringing under control",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "the word or phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "one should utter",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "What concluding phrase completes the subjugation mantra?",
+   "premises": [
+    "The phrase sarvastrīpuruṣa is uttered.",
+    "The word vaśaṃkari follows.",
+    "This word should be spoken."
+   ],
+   "inference": "After saying sarvastrīpuruṣa, one should utter the word vaśaṃkari to complete the mantra.",
+   "uncertainties": [],
+   "plain_english": "Having said sarvastrīpuruṣa, one should then say the word vaśaṃkari."
+  }
+ ]
+}
