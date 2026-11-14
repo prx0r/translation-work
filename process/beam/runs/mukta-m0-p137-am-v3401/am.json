@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p137",
  "verse": 3401,
- "question": "What form and accompanying feature define the elephant-head capital?",
+ "question": "What expiatory observance must a brahmin perform after killing those beings?",
  "premises": [
-  "elephant head form is specified",
-  "pot-bellied accompaniment is specified"
+  "A brahmin has carried out the killing of those beings.",
+  "An expiatory observance is required after such an act.",
+  "The prescribed observance is a portion of a vow."
  ],
- "inference": "The capital takes an elephant-head form with pot-bellied accompaniment.",
- "uncertainties": [
-  "exact grammatical case of second token"
- ],
- "plain_english": "The capital has an elephant-head form and is accompanied by a pot-bellied element."
+ "inference": "Therefore, after killing those beings, a brahmin should perform a portion of the prescribed vow.",
+ "uncertainties": [],
+ "plain_english": "Having killed them, a brahmin should perform a portion of the prescribed vow."
 }

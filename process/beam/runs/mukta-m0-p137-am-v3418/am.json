@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p137",
  "verse": 3418,
- "question": "Where is the foot-stone altar placed?",
+ "question": "What purification follows recitation in the range above ten and up to three hundred?",
  "premises": [
-  "foot stone is specified",
-  "base is specified",
-  "altar is specified"
+  "A range of recitations above ten and up to three hundred is specified.",
+  "Recitation must be completed in that range.",
+  "Ritual bathing completes the purification."
  ],
- "inference": "The foot-stone altar is at the base.",
- "uncertainties": [
-  "exact meaning of grītvāvarge"
- ],
- "plain_english": "The foot-stone altar is at the base."
+ "inference": "Therefore, having chanted in that range, one becomes pure by bathing.",
+ "uncertainties": [],
+ "plain_english": "Having chanted more than ten and up to three hundred times, one becomes pure by bathing."
 }
