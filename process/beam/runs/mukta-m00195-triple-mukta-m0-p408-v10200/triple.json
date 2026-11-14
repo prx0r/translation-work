@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p408",
+ "items": [
+  {
+   "verse": 10200,
+   "rows": [
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable indicating sequence after prior preparation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act.opt-√kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhye",
+     "gloss": "on-target",
+     "grounds": "locative of the object to be accomplished or affected",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārya",
+     "gloss": "purpose",
+     "grounds": "the intended effect or task",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "prescribed",
+     "grounds": "past participle indicating what has been declared",
+     "morph": "n.nom.sg.ppp-√pra-vac"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpakam",
+     "gloss": "lamp-rite",
+     "grounds": "the lamp ritual to be performed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual action must be performed on the target after preparing the lamp?",
+   "premises": [
+    "The action is to be performed afterwards.",
+    "The action is directed toward the target to be accomplished.",
+    "The lamp-rite is prescribed for the intended purpose."
+   ],
+   "inference": "After preparation, one should perform the prescribed lamp-rite on the target for the intended purpose.",
+   "uncertainties": [
+    "The exact referent of sādhye depends on the broader ritual context."
+   ],
+   "plain_english": "Afterwards, one should perform the prescribed lamp-rite on the target for the intended purpose."
+  }
+ ]
+}

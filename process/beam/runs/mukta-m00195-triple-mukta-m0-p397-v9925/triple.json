@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p397",
+ "items": [
+  {
+   "verse": 9925,
+   "rows": [
+    {
+     "surface": "sarasīruhahomena",
+     "gloss": "by-lotus-oblation",
+     "grounds": "tatpuruṣa compound: sarasīruha (lotus) + homa (oblation), instrumental of means",
+     "morph": "compound sarasīruha+homa, m.inst.sg"
+    },
+    {
+     "surface": "sāmrājyaṃ",
+     "gloss": "sovereignty",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhalate",
+     "gloss": "obtains",
+     "grounds": "verb expressing attainment of result",
+     "morph": "3.sg.ātmanepada-present √bhal"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "agent/subject who performs the oblation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What reward does a man gain through oblation performed with lotuses?",
+   "premises": [
+    "An oblation is performed using lotuses.",
+    "A man performs this lotus oblation.",
+    "Sovereignty is the attainable result."
+   ],
+   "inference": "Therefore, a man who performs a lotus oblation obtains sovereignty.",
+   "uncertainties": [
+    "The verbal root of bhalate is uncertain; it is glossed as obtains based on context and legacy hint."
+   ],
+   "plain_english": "By performing an oblation with lotuses, a man obtains sovereignty."
+  }
+ ]
+}

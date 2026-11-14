@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[time](kālaṃ) [devours](grasati) [body+within](dehāntaḥ) [cremation-ground](śmaśānaṃ) [that](sa) [thus](tathā) [remembered](smṛtaḥ)
+[time](kālaṃ) [devours](grasati) [body+within](deha+antaḥ) [cremation-ground](śmaśānaṃ) [that](saḥ) [thus](tathā) [remembered](smṛtaḥ)
 
 ## mukta-m0-p03-v52
-[time+devouring+nature](kālagrasanaśīlatvāt) [skin](tvak) [cremation-ground](śmaśānaṃ) [indeed](tu) [that](sā) [outside](bahiḥ)
+[time+devouring+nature](kāla+grasana+śīlatvāt) [skin](tvak) [cremation-ground](śmaśānaṃ) [indeed](tu) [that](sā) [outside](bahiḥ)
 
 ## mukta-m0-p03-v53
-[I-protect](pālaye) [*](*) [*](*) [*](*) [*](*) [by-two](bhyāṃ) [on-earth](bhūpari) [field+thereafter](kṣetrapastataḥ)
+[I-protect](pālaye) [*](*) [*](*) [*](*) [*](*) [by-the-two](bhyāṃ) [on-earth](bhū+pari) [field+thereafter](kṣetra+paḥ+tataḥ)
 
 ## mukta-m0-p03-v54
-[field](kṣetraṃ) [protects](pālayate) [therefore](tena) [field+lord](kṣetreśaḥ) [and+indeed](ca+eva) [(-śavasyai)]((-śavasyai)) [consisting-of-that](tanmayaḥ)
+[field](kṣetraṃ) [protects](pālayate) [therefore](tena) [field+lord](kṣetra+īśaḥ) [and+indeed](ca+eva) [corpse+for](-śavasyai) [consisting-of-that](tanmayaḥ)
 
 ## mukta-m0-p03-v55
-[field](kṣetraṃ) [protects](pālayate) [therefore](tena) [that+nature](tadātmatvena) [she+indeed](sā+eva) [that](tat)
+[field](kṣetraṃ) [protects](pālayate) [therefore](tena) [that+nature+by](tat+ātmatvena) [she+alone](sā+eva) [that](tat)
 
 ## mukta-m0-p03-v56
-[same-flavor+nature](sāmarasyātmanā) [she+this](sā+eṣā) [union](melaḥ) [dissolution+devouring](saṃhārabhakṣiṇī)
+[sameness+nature+by](sāmarasya+ātmanā) [she](sā) [this](eṣā) [union](melaḥ) [dissolution+devouring](saṃhāra+bhakṣiṇī)
 
 ## mukta-m0-p03-v57
-[same-flavor+nature](sāmarasyātmanā) [she+this](sā+eṣā) [by-turning-back](pratyāvṛttyā) [on-all-sides](samantataḥ)
+[sameness+nature+by](sāmarasya+ātmanā) [she](sā) [this](eṣā) [by-turning-back](pratyāvṛttyā) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p03-v58
-[sense-object+enjoyment+arisen+wonder+augmented](viṣayābhogasambhūtacamatkāropabṛṃhitam)
+[sense-object+enjoyment+arisen](viṣaya+ābhoga+sambhūta) [wonder+nourished](camatkāra+upabṛṃhitam)
 
 ## mukta-m0-p03-v59
-[seed+nature](bījabhāvātmanā) [union](melaḥ) [moist](snigdho) [which](yaḥ) [inward+self](pratyagātmanā)
+[seed+nature+by](bīja+bhāva+ātmanā) [union](melaḥ) [tender](snigdhaḥ) [which](yaḥ) [inward-self+by](pratyag+ātmanā)
 
 ## mukta-m0-p03-v60
-[equality+inner+essence+taste+union](sāmyāntararasāsvādamelāv) [self+is-experienced](ātmānubhūyate)
+[sameness+inner+essence+taste](sāmya+antara+rasa+āsvāda) [union+by](mela+āvā) [self+is-experienced](ātmanā+anubhūyate)
 
 ## mukta-m0-p03-v61
-[being-struck](āhanyamāne) [vehemently](rabhasāt) [supreme+satisfaction+cause](paratarpaṇahetutaḥ)
+[being-struck](āhanyamāne) [impetuously](rabhasāt) [supreme+satisfaction+cause+for](para+tarpaṇa+hetu+taḥ)
 
 ## mukta-m0-p03-v62
-[without-covering+hard-to-perceive+own+resting+state+toward](nirāvaraṇadurllakṣyasvaviśrāntipadonmukhī(m?))
+[unveiled+hard-to-perceive](nirāvaraṇa+durllakṣya) [own+resting+state+toward-facing](sva+viśrānti+pada+unmukhī(m?))
 
 ## mukta-m0-p03-v63
-[fierce+fierce-lordess](raudraraudreśvarī) [who+went](yā+agāt) [therefore+desired](tasmāt+iṣṭo) [by-best-gurus](gurūttamaiḥ)
+[fierce+fierce-lordess](raudra+raudreśvarī) [who](yā) [went](agā) [therefore+desired](tasmāt+iṣṭaḥ) [by-best-gurus](guru+uttamaiḥ)
 
 ## mukta-m0-p03-v64
-[greater+dear+union+from](adhikapriyamelāvāt) [sudden+union+characterized](dhaṭhamelopalakṣaṇaḥ)
+[greater+dear+union+by](adhika+priya+mela+āvāt) [sudden+union+characterized](haṭha+mela+upalakṣaṇaḥ)
 
 ## mukta-m0-p03-v65
-[at-that-moment](tatkṣaṇe) [forgetfulness](vismṛtiḥ) [of-them](teṣām) [of-desire](ākāṅkṣāyāḥ) [from-destruction](parikṣayāt)
+[at-that-moment](tat+kṣaṇe) [forgetfulness](vismṛtiḥ) [of-them](teṣām) [of-desire](ākāṅkṣāyāḥ) [by-destruction](parikṣayāt)
 
 ## mukta-m0-p03-v66
-[here](atra) [conformity](ānuguṇyam) [of-this](etasyā) [goddess](devyāḥ) [is-perceived](sañcetyate) [clearly](sphuṭam)
+[here](atra) [conformity](ānuguṇyam) [of-this](etasyāḥ) [of-goddess](devyāḥ) [is-perceived](sañcetyate) [clearly](sphuṭam)
 
 ## mukta-m0-p03-v67
-[that](sa) [sacrifice](yāgo) [where](yatra) [of-beings](bhāvānāṃ) [resting](viśrāntiḥ) [immediately](samanantaram)
+[that](saḥ) [sacrifice](yāgaḥ) [where](yatra) [of-beings](bhāvānāṃ) [resting](viśrāntiḥ) [immediately](samanantaram)
 
 ## mukta-m0-p03-v68
-[seat+sequence](pīṭhakrameṇa) [having-resorted-to](saṃśritya) [goddess+circle](devīcakraṃ) [expands](vijṛmbhate)
+[seat+sequence+by](pīṭha+krameṇa) [having-resorted-to](saṃśritya) [goddess+circle](devī+cakraṃ) [expands](vijṛmbhate)
 
 ## mukta-m0-p03-v69
-[all+beginning+end+establishment](sarvādyantapratiṣṭhānāt) [this](etat) [supreme+state](sarvottamatvataḥ)
+[all+beginning+end+establishment+from](sarva+ādi+anta+pratiṣṭhāna+āt) [this](etat) [supreme+state+from](sarva+uttama+tva+taḥ)
 
 ## mukta-m0-p03-v70
-[excellence+praise+mere+state](prakarṣanutimātratvāt) [seat](pīṭhaṃ) [praṇava+named](praṇavasaṃjñitam)
+[excellence+praise+mere+state+from](prakarṣa+nuti+mātra+tvāt) [seat](pīṭhaṃ) [praṇava+named](praṇava+saṃjñitam)
 
 ## mukta-m0-p03-v71
-[here](atra) [inner+eye+lord](antarnetranāthasya) [manifest+experience](prakaṭānubhavaḥ) [arose](abhavat) [(n)]((n))
+[here](atra) [inner+eye+lord+of](antar+netra+nāthasya) [manifest+experience](prakaṭa+anubhavaḥ) [arose](abhavat) [(n)]((n))
 
 ## mukta-m0-p03-v72
-[yoginī+siddha+served](yoginīsiddhasaṃsevyam) [in-northern](uttarasyāṃ) [direction](diśi) [situated](sthitam)
+[yoginī+siddha+served](yoginī+siddha+saṃsevyam) [in-northern](uttarasyāṃ) [direction](diśi) [situated](sthitam)
 
 ## mukta-m0-p03-v73
-[all+knowledge+support](sarvajñānāśrayatvena) [world+course+established](lokayātrāpratiṣṭhitam)
+[all+knowledge+support+by](sarva+jñāna+āśraya+tvena) [world+course+established](loka+yātrā+pratiṣṭhitam)
 
 ## mukta-m0-p03-v74
-[consciousness+goddesses](saṃviddevyo) [pervasion+essence](vyāptisārāḥ) [that+abode](taddhāma) [is-proclaimed](parikīrtitam)
+[consciousness+goddesses](saṃvid+devyaḥ) [pervasion+essence](vyāpti+sārāḥ) [that+abode](tat+dhāma) [is-proclaimed](parikīrtitam)
 
 ## mukta-m0-p03-v75
-[knowable+perception+before](prameyalocanādagre) [she](sā) [herself](svayaṃ) [turns-back](vinivartate)
+[knowable+perception+from](prameya+locanāt) [before](agre) [she](sā) [herself](svayaṃ) [turns-back](vinivartate)
