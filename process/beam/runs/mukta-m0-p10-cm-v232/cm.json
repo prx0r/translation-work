@@ -3,34 +3,39 @@
  "verse": 232,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "ukāram",
+   "morph": "m.acc.sg",
+   "grounds": "syllable u in accusative"
+  },
+  {
+   "lemma": "ākāśa+tattvaṃ",
+   "morph": "compound: ākāśa+ether + tattva+principle; n.acc.sg",
+   "grounds": "compound identifying the principle of ether"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "marks the conclusion of the section"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "śrī",
+   "lemma": "ūkāraṃ",
+   "morph": "m.acc.sg",
+   "grounds": "syllable ū in accusative"
+  },
+  {
+   "lemma": "śrotram",
+   "morph": "n.acc.sg",
+   "grounds": "organ of hearing"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "honorific prefix for the text name"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "bhūtaśuddhitantre",
-   "morph": "compound: bhūta+śuddhi+tantra n.loc.sg",
-   "grounds": "compound naming the scripture"
-  },
-  {
-   "lemma": "haragaurīsaṃvāde",
-   "morph": "compound: hara+gaurī+saṃvāda m.loc.sg",
-   "grounds": "compound naming the dialogue frame"
-  },
-  {
-   "lemma": "ṣaṣṭhaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "ordinal number of the chapter"
-  },
-  {
-   "lemma": "paṭalaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "names the textual division"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
   }
  ]
 }

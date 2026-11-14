@@ -3,34 +3,34 @@
  "verse": 129,
  "rows": [
   {
-   "lemma": "punar",
+   "lemma": "rakta",
+   "morph": "compound-member",
+   "grounds": "qualifies candra"
+  },
+  {
+   "lemma": "candra",
+   "morph": "compound-member",
+   "grounds": "member of comparison compound"
+  },
+  {
+   "lemma": "pratīkāśaṃ",
+   "morph": "f.acc.sg",
+   "grounds": "describes kuṇḍalī"
+  },
+  {
+   "lemma": "svayaṃ",
    "morph": "(indecl.)",
-   "grounds": "repetition of practice"
+   "grounds": "emphatic"
   },
   {
-   "lemma": "liṅge",
-   "morph": "n.loc.sg",
-   "grounds": "location"
+   "lemma": "parama",
+   "morph": "compound-member",
+   "grounds": "qualifies kuṇḍalī"
   },
   {
-   "lemma": "sthite",
-   "morph": "n.loc.sg",
-   "grounds": "state of liṅga"
-  },
-  {
-   "lemma": "yonau",
-   "morph": "f.loc.sg",
-   "grounds": "location"
-  },
-  {
-   "lemma": "japec",
-   "morph": "3.sg.optative.act √jap",
-   "grounds": "ritual instruction"
-  },
-  {
-   "lemma": "cāṣṭasahasrakam",
-   "morph": "compound: ca+aṣṭasahasraka (n.acc.sg)",
-   "grounds": "number of recitations; sandhi ca+aṣṭa"
+   "lemma": "kuṇḍalī",
+   "morph": "f.nom.sg",
+   "grounds": "subject described"
   }
  ]
 }

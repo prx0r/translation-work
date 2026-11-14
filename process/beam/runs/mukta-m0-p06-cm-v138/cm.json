@@ -3,19 +3,44 @@
  "verse": 138,
  "rows": [
   {
-   "lemma": "mahākāyayuto",
-   "morph": "compound: mahākāya+yuta (m.nom.sg)",
-   "grounds": "description of deity; sandhi mahākāyayutaḥ"
+   "lemma": "pañca",
+   "morph": "compound-member",
+   "grounds": "qualifies prāṇa"
   },
   {
-   "lemma": "devaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject"
+   "lemma": "prāṇa",
+   "morph": "compound-member",
+   "grounds": "member of compound"
   },
   {
-   "lemma": "saccidānandavigrahaḥ",
-   "morph": "compound: sat+cit+ānanda+vigraha (m.nom.sg)",
-   "grounds": "essential nature of deity"
+   "lemma": "ātmakaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "describes varṇaṃ"
+  },
+  {
+   "lemma": "varṇaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object described"
+  },
+  {
+   "lemma": "tri",
+   "morph": "compound-member",
+   "grounds": "qualifies śakti"
+  },
+  {
+   "lemma": "śakti",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "sahitaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "describes varṇaṃ"
+  },
+  {
+   "lemma": "sadā",
+   "morph": "(indecl.)",
+   "grounds": "indicates permanence"
   }
  ]
 }

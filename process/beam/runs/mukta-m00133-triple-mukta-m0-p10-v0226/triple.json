@@ -1,0 +1,1181 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "pakāraṃ",
+     "gloss": "pa-syllable",
+     "grounds": "syllable pa in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣa+pārśvaṃ",
+     "gloss": "right-side",
+     "grounds": "compound indicating right side of body",
+     "morph": "compound: dakṣa+right + pārśva+side; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phakāraṃ",
+     "gloss": "pha-syllable",
+     "grounds": "syllable pha in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāma+pārśvake",
+     "gloss": "left-side",
+     "grounds": "compound indicating left side of body",
+     "morph": "compound: vāma+left + pārśvaka+side; n.loc.sg"
+    }
+   ],
+   "question": "Which syllables are assigned to the right and left sides of the body?",
+   "premises": [
+    "The syllable pa is placed at the right side.",
+    "The syllable pha is placed at the left side.",
+    "These placements map syllables onto bodily locations."
+   ],
+   "inference": "The syllables pa and pha correspond respectively to the right and left sides of the body.",
+   "uncertainties": [],
+   "plain_english": "The syllable pa is assigned to the right side, and the syllable pha to the left side."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "makāraṃ",
+     "gloss": "ma-syllable",
+     "grounds": "syllable ma in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udaraṃ",
+     "gloss": "belly",
+     "grounds": "bodily location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "ontological principle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yakāraṃ",
+     "gloss": "ya-syllable",
+     "grounds": "syllable ya in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "bodily location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel assignment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllables correspond to the belly principle and the heart?",
+   "premises": [
+    "The syllable ma is associated with the belly.",
+    "The belly is identified as a principle.",
+    "The syllable ya is likewise associated with the heart."
+   ],
+   "inference": "The syllables ma and ya correspond to the belly principle and the heart respectively.",
+   "uncertainties": [],
+   "plain_english": "The syllable ma corresponds to the belly as a principle, and likewise the syllable ya corresponds to the heart."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "ghaṭita+tattvaṃ",
+     "gloss": "constituted-principle",
+     "grounds": "compound describing a formed or constituted principle",
+     "morph": "compound: ghaṭita+constituted + tattva+principle; n.acc.sg"
+    },
+    {
+     "surface": "vakāraṃ",
+     "gloss": "va-syllable",
+     "grounds": "syllable va in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakāraṃ",
+     "gloss": "śa-syllable",
+     "grounds": "syllable śa in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣa+bāhuṣu",
+     "gloss": "right-arms",
+     "grounds": "compound indicating right arms",
+     "morph": "compound: dakṣa+right + bāhu+arm; m.loc.pl"
+    }
+   ],
+   "question": "Which syllables are established as constituted principles in the right arms?",
+   "premises": [
+    "The syllables va and śa are named together.",
+    "They are described as constituted principles.",
+    "Their location is in the right arms."
+   ],
+   "inference": "The syllables va and śa are placed as constituted principles in the right arms.",
+   "uncertainties": [],
+   "plain_english": "The syllables va and śa are established as constituted principles in the right arms."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "vāma+pādaṃ",
+     "gloss": "left-foot",
+     "grounds": "compound indicating left foot",
+     "morph": "compound: vāma+left + pāda+foot; m.acc.sg"
+    },
+    {
+     "surface": "hakāraṃ",
+     "gloss": "ha-syllable",
+     "grounds": "syllable ha in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣakāraṃ",
+     "gloss": "kṣa-syllable",
+     "grounds": "syllable kṣa in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śirasa+upari",
+     "gloss": "head-above",
+     "grounds": "compound indicating above the head",
+     "morph": "compound: śiras+head + upari+above; (indecl.)"
+    }
+   ],
+   "question": "Which syllables are located at the left foot and above the head?",
+   "premises": [
+    "The syllable ha is associated with the left foot.",
+    "The syllable kṣa is associated with the region above the head.",
+    "Both are specified as bodily placements."
+   ],
+   "inference": "The syllables ha and kṣa are placed at the left foot and above the head respectively.",
+   "uncertainties": [],
+   "plain_english": "The syllable ha is placed at the left foot, and the syllable kṣa above the head."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "makāraṃ",
+     "gloss": "ma-syllable",
+     "grounds": "syllable ma in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakāraṃ",
+     "gloss": "sa-syllable",
+     "grounds": "syllable sa in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍitaṃ",
+     "gloss": "adorned",
+     "grounds": "described as adorned or arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the syllables ma and sa described in their placement?",
+   "premises": [
+    "The syllables ma and sa are named together.",
+    "They are described as adorned.",
+    "The description is affirmed as likewise."
+   ],
+   "inference": "The syllables ma and sa are likewise arranged as adorned.",
+   "uncertainties": [
+    "The specific location of these syllables is not stated in this verse."
+   ],
+   "plain_english": "The syllables ma and sa are indeed likewise arranged and adorned."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "nakāraṃ",
+     "gloss": "na-syllable",
+     "grounds": "syllable na in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śabda+tattvaṃ",
+     "gloss": "sound-principle",
+     "grounds": "compound identifying the principle of sound",
+     "morph": "compound: śabda+sound + tattva+principle; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṃ",
+     "gloss": "da-syllable",
+     "grounds": "syllable da in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhaṃ",
+     "gloss": "dha-syllable",
+     "grounds": "syllable dha in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "principle or aspect of form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "declared as commendable or prescribed",
+     "morph": "3.sg.pass-pres; praśaṃs"
+    }
+   ],
+   "question": "Which syllables are praised as the principles of sound and form?",
+   "premises": [
+    "The syllable na is identified with the sound principle.",
+    "The syllables da and dha are identified with form.",
+    "These identifications are praised."
+   ],
+   "inference": "The syllable na corresponds to sound, while da and dha correspond to form.",
+   "uncertainties": [],
+   "plain_english": "The syllable na is praised as the principle of sound, and the syllables da and dha as form."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "ukāram",
+     "gloss": "u-syllable",
+     "grounds": "syllable u in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākāśa+tattvaṃ",
+     "gloss": "ether-principle",
+     "grounds": "compound identifying the principle of ether",
+     "morph": "compound: ākāśa+ether + tattva+principle; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūkāraṃ",
+     "gloss": "ū-syllable",
+     "grounds": "syllable ū in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrotram",
+     "gloss": "ear",
+     "grounds": "organ of hearing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllables are identified with the ether principle and the ear?",
+   "premises": [
+    "The syllable u is associated with the ether principle.",
+    "The syllable ū is associated with the ear.",
+    "These associations are stated emphatically."
+   ],
+   "inference": "The syllables u and ū correspond to the ether principle and the ear respectively.",
+   "uncertainties": [],
+   "plain_english": "The syllable u is the principle of ether, and the syllable ū is indeed the ear."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "kakāraḥ",
+     "gloss": "ka-syllable",
+     "grounds": "syllable ka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛthvī+tattvaṃ",
+     "gloss": "earth-principle",
+     "grounds": "compound identifying the principle of earth",
+     "morph": "compound: pṛthvī+earth + tattva+principle; n.nom.sg"
+    },
+    {
+     "surface": "khakāro",
+     "gloss": "kha-syllable",
+     "grounds": "syllable kha; sandhi form of khakāraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñāna+tattvakam",
+     "gloss": "knowledge-principle",
+     "grounds": "compound identifying the principle of knowledge",
+     "morph": "compound: jñāna+knowledge + tattvaka+principle; n.nom.sg"
+    }
+   ],
+   "question": "Which principles are embodied by the syllables ka and kha?",
+   "premises": [
+    "The syllable ka is identified as the earth principle.",
+    "The syllable kha is identified as the knowledge principle.",
+    "Both identifications are stated directly."
+   ],
+   "inference": "The syllables ka and kha embody the principles of earth and knowledge respectively.",
+   "uncertainties": [],
+   "plain_english": "The syllable ka is the principle of earth, and the syllable kha is the principle of knowledge."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "sakarāṃ",
+     "gloss": "sa-syllable",
+     "grounds": "syllable sa in accusative; variant form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel assignment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candraṃ",
+     "gloss": "moon",
+     "grounds": "lunar principle or sphere",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rakāraṃ",
+     "gloss": "ra-syllable",
+     "grounds": "syllable ra in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vahni+maṇḍalam",
+     "gloss": "fire-sphere",
+     "grounds": "compound indicating the sphere of fire",
+     "morph": "compound: vahni+fire + maṇḍala+sphere; n.acc.sg"
+    }
+   ],
+   "question": "Which syllables correspond to the moon and the sphere of fire?",
+   "premises": [
+    "The syllable sa is associated with the moon.",
+    "The syllable ra is associated with the sphere of fire.",
+    "These associations are presented in parallel."
+   ],
+   "inference": "The syllables sa and ra correspond to the moon and the fire sphere respectively.",
+   "uncertainties": [],
+   "plain_english": "The syllable sa corresponds to the moon, and likewise the syllable ra corresponds to the sphere of fire."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "lakāraṃ",
+     "gloss": "la-syllable",
+     "grounds": "syllable la in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pṛthvī+tattvaṃ",
+     "gloss": "earth-principle",
+     "grounds": "compound identifying the principle of earth",
+     "morph": "compound: pṛthvī+earth + tattva+principle; n.acc.sg"
+    },
+    {
+     "surface": "hakāraṃ",
+     "gloss": "ha-syllable",
+     "grounds": "syllable ha in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiras",
+     "gloss": "head",
+     "grounds": "bodily location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel assignment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllables are assigned to the earth principle and the head?",
+   "premises": [
+    "The syllable la is identified with the earth principle.",
+    "The syllable ha is associated with the head.",
+    "These assignments are given in parallel."
+   ],
+   "inference": "The syllables la and ha correspond to the earth principle and the head respectively.",
+   "uncertainties": [],
+   "plain_english": "The syllable la is the principle of earth, and likewise the syllable ha corresponds to the head."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "etayoḥ",
+     "gloss": "of-these-two",
+     "grounds": "refers to two previously mentioned elements",
+     "morph": "pron.gen.dual"
+    },
+    {
+     "surface": "yogam",
+     "gloss": "union",
+     "grounds": "joining or conjunction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-attained",
+     "grounds": "having reached or obtained",
+     "morph": "gerund; ā-sad"
+    },
+    {
+     "surface": "kṣakāraṃ",
+     "gloss": "kṣa-syllable",
+     "grounds": "syllable kṣa in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tattva+vigraham",
+     "gloss": "principle-embodied",
+     "grounds": "compound indicating embodiment of principles",
+     "morph": "compound: tattva+principle + vigraha+embodied-form; m.acc.sg"
+    }
+   ],
+   "question": "What results from attaining the union of the two preceding elements?",
+   "premises": [
+    "A union of two elements is attained.",
+    "The syllable kṣa is identified in this context.",
+    "The syllable kṣa is described as embodying principles."
+   ],
+   "inference": "Attaining the union of the two yields the syllable kṣa as the embodied form of principles.",
+   "uncertainties": [
+    "The identity of the two elements referred to by etayoḥ is not explicit in this verse."
+   ],
+   "plain_english": "Having attained the union of these two, one reaches the syllable kṣa, which embodies the principles."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "sarva+tattvam",
+     "gloss": "all-principles",
+     "grounds": "compound indicating all principles",
+     "morph": "compound: sarva+all + tattva+principle; n.acc.sg"
+    },
+    {
+     "surface": "ati+guhyaṃ",
+     "gloss": "very-secret",
+     "grounds": "compound indicating extreme secrecy",
+     "morph": "compound: ati+very + guhya+secret; n.acc.sg"
+    },
+    {
+     "surface": "parama+ātmā",
+     "gloss": "supreme-self",
+     "grounds": "compound identifying the supreme self",
+     "morph": "compound: parama+supreme + ātman+self; m.nom.sg"
+    },
+    {
+     "surface": "su+locane",
+     "gloss": "fair-eyed-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound: su+fair + locana+eye; f.voc.sg"
+    }
+   ],
+   "question": "How is the supreme self characterized in relation to all principles?",
+   "premises": [
+    "The supreme self encompasses all principles.",
+    "This reality is described as very secret.",
+    "The teaching is addressed to the fair-eyed one."
+   ],
+   "inference": "The supreme self is the very secret reality comprising all principles.",
+   "uncertainties": [],
+   "plain_english": "O fair-eyed one, the supreme self comprises all principles and is most secret."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "brahmāṇī",
+     "gloss": "brahmāṇī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caṇḍikā",
+     "gloss": "caṇḍikā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raudrī",
+     "gloss": "raudrī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaurī",
+     "gloss": "gaurī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "indrāṇī",
+     "gloss": "indrāṇī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are enumerated at the beginning of this list?",
+   "premises": [
+    "Brahmāṇī, Caṇḍikā, Raudrī, Gaurī, and Indrāṇī are named.",
+    "The names are listed in sequence.",
+    "The list continues with further names."
+   ],
+   "inference": "The enumeration begins with Brahmāṇī, Caṇḍikā, Raudrī, Gaurī, and Indrāṇī.",
+   "uncertainties": [],
+   "plain_english": "Brahmāṇī, Caṇḍikā, Raudrī, Gaurī, and likewise Indrāṇī are named."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muṇḍamālā",
+     "gloss": "muṇḍamālā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivadūtī",
+     "gloss": "śivadūtī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "name or epithet of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional goddesses continue the enumerated sequence?",
+   "premises": [
+    "Kālikā, Muṇḍamālā, and Śivadūtī are named.",
+    "Parā is named as supreme.",
+    "These names extend the prior list."
+   ],
+   "inference": "The sequence continues with Kālikā, Muṇḍamālā, Śivadūtī, and Parā.",
+   "uncertainties": [],
+   "plain_english": "Kālikā, Muṇḍamālā, Śivadūtī, and likewise the supreme Parā are named."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "śaṅkarī",
+     "gloss": "śaṅkarī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayantī",
+     "gloss": "jayantī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃgalā",
+     "gloss": "maṅgalā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kali+mardinī",
+     "gloss": "kali-crusher",
+     "grounds": "compound epithet of a goddess",
+     "morph": "compound: kali+kali + mardinī+crusher; f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses, including the crusher of Kali, are named in this sequence?",
+   "premises": [
+    "Śaṅkarī, Jayantī, and Maṅgalā are named.",
+    "Kali-mardinī is named as an epithet or goddess.",
+    "These continue the enumeration."
+   ],
+   "inference": "The list includes Śaṅkarī, Jayantī, Maṅgalā, and Kali-mardinī.",
+   "uncertainties": [],
+   "plain_english": "Śaṅkarī, Jayantī, Maṅgalā, and Kali-mardinī are named."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "bhīmā",
+     "gloss": "bhīmā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāntā",
+     "gloss": "śāntā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ugrā",
+     "gloss": "ugrā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmarī",
+     "gloss": "bhrāmarī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rudra+rūpiṇī",
+     "gloss": "rudra-form",
+     "grounds": "compound epithet indicating form of Rudra",
+     "morph": "compound: rudra+rudra + rūpiṇī+having-form; f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses, including one in Rudra's form, appear in this part of the list?",
+   "premises": [
+    "Bhīmā, Śāntā, Ugrā, and Bhrāmarī are named.",
+    "Rudra-rūpiṇī is named as having Rudra's form.",
+    "These names continue the enumeration."
+   ],
+   "inference": "The list includes Bhīmā, Śāntā, Ugrā, Bhrāmarī, and Rudra-rūpiṇī.",
+   "uncertainties": [],
+   "plain_english": "Bhīmā, Śāntā, Ugrā, Bhrāmarī, and she who has the form of Rudra are named."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "dhātrī+rūpā",
+     "gloss": "dhātrī-form",
+     "grounds": "compound epithet indicating form of Dhātrī",
+     "morph": "compound: dhātrī+dhātrī + rūpa+form; f.nom.sg"
+    },
+    {
+     "surface": "svadhā",
+     "gloss": "svadhā",
+     "grounds": "name of a goddess or sacred utterance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "name of a goddess or sacred utterance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahni+rūpiṇī",
+     "gloss": "fire-form",
+     "grounds": "compound epithet indicating form of fire",
+     "morph": "compound: vahni+fire + rūpiṇī+having-form; f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses with forms of Dhātrī and fire conclude this portion of the list?",
+   "premises": [
+    "Dhātrī-rūpā, Svadhā, and Svāhā are named.",
+    "Vahni-rūpiṇī is named as having the form of fire.",
+    "These names extend the enumeration."
+   ],
+   "inference": "The list includes Dhātrī-rūpā, Svadhā, Svāhā, and Vahni-rūpiṇī.",
+   "uncertainties": [],
+   "plain_english": "She who has the form of Dhātrī, Svadhā, Svāhā, and likewise she who has the form of fire are named."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "brahmāṇḍa+vāṇī",
+     "gloss": "universe-speech",
+     "grounds": "compound epithet indicating speech of the cosmos",
+     "morph": "compound: brahmāṇḍa+universe + vāṇī+speech; f.nom.sg"
+    },
+    {
+     "surface": "brāhmī",
+     "gloss": "brāhmī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśan",
+     "gloss": "fifty",
+     "grounds": "numeral indicating total count",
+     "morph": "numeral.nom"
+    },
+    {
+     "surface": "mātṛkāḥ",
+     "gloss": "mātṛkās",
+     "grounds": "mother goddesses or syllable powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally known or declared",
+     "morph": "f.nom.pl; past-participle; smṛ"
+    }
+   ],
+   "question": "How many Mātṛkās are traditionally recognized in this enumeration?",
+   "premises": [
+    "Brahmāṇḍa-vāṇī and Brāhmī are included in the list.",
+    "The total count given is fifty.",
+    "These are remembered as Mātṛkās."
+   ],
+   "inference": "The enumerated goddesses are traditionally recognized as the fifty Mātṛkās.",
+   "uncertainties": [],
+   "plain_english": "Brahmāṇḍa-vāṇī and Brāhmī are included, and these are remembered as the fifty Mātṛkās."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "etās",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the listed goddesses",
+     "morph": "pron.f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkā+devyo",
+     "gloss": "mātṛkā-goddesses",
+     "grounds": "compound identifying the goddesses as Mātṛkās",
+     "morph": "compound: mātṛkā+mātṛkā + devī+goddess; f.nom.pl"
+    },
+    {
+     "surface": "brahmāṇḍaṃ",
+     "gloss": "universe",
+     "grounds": "the cosmic egg or universe",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa+cara+acaram",
+     "gloss": "with-moving-unmoving",
+     "grounds": "compound describing the universe as containing moving and unmoving beings",
+     "morph": "compound: sa+with + cara+moving + acara+unmoving; n.acc.sg"
+    }
+   ],
+   "question": "What scope of reality do these Mātṛkā goddesses encompass?",
+   "premises": [
+    "These are identified as the Mātṛkā goddesses.",
+    "They encompass the universe.",
+    "The universe includes both moving and unmoving beings."
+   ],
+   "inference": "The Mātṛkā goddesses encompass the entire universe with all moving and unmoving beings.",
+   "uncertainties": [],
+   "plain_english": "These Mātṛkā goddesses indeed encompass the universe with all its moving and unmoving beings."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "śakti+mantre",
+     "gloss": "in-śakti-mantra",
+     "grounds": "compound indicating the Śakti mantra context",
+     "morph": "compound: śakti+śakti + mantra+mantra; m.loc.sg"
+    },
+    {
+     "surface": "viṣṇu+mantre",
+     "gloss": "in-viṣṇu-mantra",
+     "grounds": "compound indicating the Viṣṇu mantra context",
+     "morph": "compound: viṣṇu+viṣṇu + mantra+mantra; m.loc.sg"
+    },
+    {
+     "surface": "śaive",
+     "gloss": "in-śaiva",
+     "grounds": "in the Śaiva context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saure",
+     "gloss": "in-saura",
+     "grounds": "in the Saura context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In which mantra traditions are the Mātṛkās present according to this teaching?",
+   "premises": [
+    "The Śakti and Viṣṇu mantras are named.",
+    "The Śaiva and Saura contexts are named.",
+    "The teaching is addressed to Pārvatī."
+   ],
+   "inference": "The Mātṛkās are present in the Śakti, Viṣṇu, Śaiva, and Saura mantra traditions.",
+   "uncertainties": [],
+   "plain_english": "O Pārvatī, they are present in the Śakti mantra, the Viṣṇu mantra, and in the Śaiva and Saura traditions."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "the Mātṛkā power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yuvatī+rūpā",
+     "gloss": "youthful-form",
+     "grounds": "compound describing youthful form",
+     "morph": "compound: yuvatī+youthful + rūpa+form; f.nom.sg"
+    },
+    {
+     "surface": "mantra+vigraha+rūpiṇī",
+     "gloss": "mantra-embodied-form",
+     "grounds": "compound indicating embodiment in the form of mantra",
+     "morph": "compound: mantra+mantra + vigraha+embodied + rūpiṇī+having-form; f.nom.sg"
+    }
+   ],
+   "question": "How is the Mātṛkā characterized in form and essence?",
+   "premises": [
+    "The Mātṛkā is described as having a youthful form.",
+    "The Mātṛkā is described as embodied in mantra.",
+    "Both descriptions define her nature."
+   ],
+   "inference": "The Mātṛkā is a youthful form embodied as mantra.",
+   "uncertainties": [],
+   "plain_english": "The Mātṛkā has a youthful form and is embodied in the form of mantra."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the previously mentioned entities",
+     "morph": "pron.m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of the group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cañcala+apāṅgi",
+     "gloss": "trembling-eyed-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound: cañcala+trembling + apāṅga+side-glance; f.voc.sg"
+    },
+    {
+     "surface": "niścalāḥ",
+     "gloss": "motionless",
+     "grounds": "without movement",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nir+indriyāḥ",
+     "gloss": "without-senses",
+     "grounds": "compound indicating absence of sense organs",
+     "morph": "compound: nir+without + indriya+sense; m.nom.pl"
+    }
+   ],
+   "question": "What paradoxical qualities characterize all these entities in their essential state?",
+   "premises": [
+    "All of them are described as motionless.",
+    "All of them are described as without senses.",
+    "The statement is addressed to the trembling-eyed one."
+   ],
+   "inference": "In their essential state, all these entities are motionless and without senses.",
+   "uncertainties": [],
+   "plain_english": "O trembling-eyed one, all of them are motionless and without senses."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "śabda+brahma",
+     "gloss": "sound-brahman",
+     "grounds": "compound identifying Brahman as sound",
+     "morph": "compound: śabda+sound + brahman+brahman; n.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "moves or proceeds",
+     "morph": "3.sg.act-pres; yā"
+    },
+    {
+     "surface": "tantraṃ",
+     "gloss": "tantra",
+     "grounds": "tantric system or framework",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "correlative temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.act-opt; bhū"
+    }
+   ],
+   "question": "Under what condition does sound-Brahman become tantra and mantra?",
+   "premises": [
+    "Sound-Brahman is the subject.",
+    "It moves or proceeds into expression.",
+    "This movement results in tantra and mantra."
+   ],
+   "inference": "When sound-Brahman proceeds forth, it becomes tantra and mantra.",
+   "uncertainties": [],
+   "plain_english": "When sound-Brahman moves forth, it then becomes tantra and mantra."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahman",
+     "grounds": "refers to Brahman",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "causal factor",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "is present",
+     "morph": "3.sg.act-pres; as"
+    },
+    {
+     "surface": "prakṛteḥ",
+     "gloss": "of-prakṛti",
+     "grounds": "refers to primordial nature",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "is present",
+     "morph": "3.sg.act-pres; as"
+    },
+    {
+     "surface": "bhāvini",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What causal distinction is asserted between Brahman and prakṛti?",
+   "premises": [
+    "Brahman is stated to have no cause.",
+    "Prakṛti is stated to have a cause.",
+    "The teaching is addressed to the beautiful one."
+   ],
+   "inference": "Brahman is uncaused, whereas prakṛti has a cause.",
+   "uncertainties": [
+    "The specific cause of prakṛti is not named in this verse."
+   ],
+   "plain_english": "O beautiful one, Brahman has no cause, but prakṛti does have a cause."
+  }
+ ]
+}

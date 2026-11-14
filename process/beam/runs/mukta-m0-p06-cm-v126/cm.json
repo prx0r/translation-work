@@ -3,29 +3,39 @@
  "verse": 126,
  "rows": [
   {
-   "lemma": "karavīraprasūnaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "object to be placed"
+   "lemma": "rakta",
+   "morph": "compound-member",
+   "grounds": "qualifies color"
   },
   {
-   "lemma": "ca",
+   "lemma": "varṇa",
+   "morph": "compound-member",
+   "grounds": "member of descriptive compound"
+  },
+  {
+   "lemma": "prabhā",
+   "morph": "compound-member",
+   "grounds": "member of descriptive compound"
+  },
+  {
+   "lemma": "ākārā",
+   "morph": "f.nom.sg",
+   "grounds": "describes kuṇḍalī"
+  },
+  {
+   "lemma": "svayaṃ",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "emphatic"
   },
   {
-   "lemma": "tasyā",
-   "morph": "f.gen.sg",
-   "grounds": "refers to the yoni/liṅga context"
+   "lemma": "parama",
+   "morph": "compound-member",
+   "grounds": "qualifies kuṇḍalī"
   },
   {
-   "lemma": "liṅgopari",
-   "morph": "compound: liṅga+upari (indecl.)",
-   "grounds": "compound indicating location"
-  },
-  {
-   "lemma": "nyaset",
-   "morph": "3.sg.optative.act √nyas",
-   "grounds": "ritual instruction"
+   "lemma": "kuṇḍalī",
+   "morph": "f.nom.sg",
+   "grounds": "subject described"
   }
  ]
 }

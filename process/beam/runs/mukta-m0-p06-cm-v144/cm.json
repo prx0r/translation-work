@@ -3,19 +3,19 @@
  "verse": 144,
  "rows": [
   {
-   "lemma": "ata",
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "conclusion"
+   "grounds": "concludes statement"
   },
   {
-   "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "lemma": "te",
+   "morph": "pron.dat.sg",
+   "grounds": "recipient"
   },
   {
-   "lemma": "nare",
-   "morph": "m.loc.sg",
-   "grounds": "locus"
+   "lemma": "kathitaṃ",
+   "morph": "n.nom.sg past-participle √kath",
+   "grounds": "past declaration"
   },
   {
    "lemma": "devi",
@@ -23,24 +23,19 @@
    "grounds": "vocative address"
   },
   {
-   "lemma": "gurutā",
-   "morph": "f.nom.sg",
-   "grounds": "subject"
+   "lemma": "prayogaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object told"
   },
   {
-   "lemma": "kalpanā",
-   "morph": "f.nom.sg",
-   "grounds": "status reaffirmed"
+   "lemma": "mantram",
+   "morph": "m.acc.sg",
+   "grounds": "qualified by uttamam"
   },
   {
-   "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "exclusivity"
-  },
-  {
-   "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "explanatory particle"
+   "lemma": "uttamam",
+   "morph": "m.acc.sg",
+   "grounds": "qualifies mantram"
   }
  ]
 }

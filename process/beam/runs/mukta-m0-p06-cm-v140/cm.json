@@ -3,34 +3,44 @@
  "verse": 140,
  "rows": [
   {
-   "lemma": "dīkṣāyai",
-   "morph": "f.dat.sg",
-   "grounds": "purpose"
-  },
-  {
-   "lemma": "sādhakānāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "recipients"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective particle"
-  },
-  {
-   "lemma": "vṛkṣādau",
-   "morph": "compound: vṛkṣa+ādi (m.loc.sg)",
-   "grounds": "locus of worship"
-  },
-  {
-   "lemma": "pūjanaṃ",
+   "lemma": "sarvaṃ",
    "morph": "n.nom.sg",
-   "grounds": "ritual act"
+   "grounds": "qualifies viśvaṃ"
   },
   {
-   "lemma": "yathā",
+   "lemma": "cara",
+   "morph": "compound-member",
+   "grounds": "first part of pair"
+  },
+  {
+   "lemma": "acaraṃ",
+   "morph": "n.nom.sg",
+   "grounds": "second part of pair"
+  },
+  {
+   "lemma": "viśvaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "subject"
+  },
+  {
+   "lemma": "varṇāt",
+   "morph": "m.abl.sg",
+   "grounds": "source of origin"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "comparison"
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "jāyate",
+   "morph": "3.sg.mid.pres.ind √jan",
+   "grounds": "main predicate"
+  },
+  {
+   "lemma": "dhruvam",
+   "morph": "(indecl.)",
+   "grounds": "asserts certainty"
   }
  ]
 }

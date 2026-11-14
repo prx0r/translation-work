@@ -3,29 +3,44 @@
  "verse": 128,
  "rows": [
   {
-   "lemma": "ānandaṃ",
+   "lemma": "tri",
+   "morph": "compound-member",
+   "grounds": "qualifies śakti"
+  },
+  {
+   "lemma": "śakti",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "sahitaṃ",
    "morph": "m.acc.sg",
-   "grounds": "what is increased"
+   "grounds": "describes varṇam"
   },
   {
-   "lemma": "varddhayen",
-   "morph": "3.sg.optative.act √vṛdh",
-   "grounds": "effect of the practice"
+   "lemma": "varṇam",
+   "morph": "m.acc.sg",
+   "grounds": "object described"
   },
   {
-   "lemma": "nityaṃ",
-   "morph": "(indecl.)",
-   "grounds": "continuous manner"
+   "lemma": "ātma",
+   "morph": "compound-member",
+   "grounds": "first member of series"
   },
   {
-   "lemma": "sādhakasya",
-   "morph": "m.gen.sg",
-   "grounds": "recipient of bliss"
+   "lemma": "ādi",
+   "morph": "compound-member",
+   "grounds": "indicates series"
   },
   {
-   "lemma": "mahātmanaḥ",
-   "morph": "m.gen.sg",
-   "grounds": "quality of practitioner"
+   "lemma": "tattva",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "saṃyutam",
+   "morph": "m.acc.sg",
+   "grounds": "describes varṇam"
   }
  ]
 }

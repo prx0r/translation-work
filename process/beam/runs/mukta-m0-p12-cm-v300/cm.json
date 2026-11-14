@@ -3,24 +3,29 @@
  "verse": 300,
  "rows": [
   {
-   "lemma": "ānandaiḥ",
-   "morph": "m.inst.pl",
-   "grounds": "instrumental plural of ānanda, indicating the means"
+   "lemma": "etat+mantram",
+   "morph": "compound.n.acc.sg",
+   "grounds": "demonstrative pronoun compounded with mantra; object of avijñāya"
   },
   {
-   "lemma": "parameśāni",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address to the supreme goddess"
+   "lemma": "avijñāya",
+   "morph": "gerund.(a-√jñā)",
+   "grounds": "absolutive expressing prior condition of not knowing"
   },
   {
-   "lemma": "bhaktānāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "genitive plural of bhakta, denoting those who receive benefit"
+   "lemma": "purāṇaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "scriptural genre named as object"
   },
   {
-   "lemma": "hita+kāriṇī",
-   "morph": "hita+welfare + kāriṇī+doer; f.nom.sg",
-   "grounds": "compound of hita (welfare) and kāriṇī (doing, causing), describing the goddess"
+   "lemma": "saṃhitāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "scriptural compilation named as object"
+  },
+  {
+   "lemma": "smṛtim",
+   "morph": "f.acc.sg",
+   "grounds": "traditional remembered text named as object"
   }
  ]
 }
