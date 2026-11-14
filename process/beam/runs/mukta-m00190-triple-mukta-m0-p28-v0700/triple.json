@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "tātkālikī",
+     "gloss": "instantaneous",
+     "grounds": "qualifies kavitā as arising immediately in the moment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this quality to the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavitā",
+     "gloss": "poetry",
+     "grounds": "poetic composition or inspired utterance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parair",
+     "gloss": "by-others",
+     "grounds": "agent of comparison or surpassing",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "anabhibhāvitā",
+     "gloss": "not-surpassed",
+     "grounds": "negated past passive participle indicating not overpowered or outdone",
+     "morph": "f.nom.sg (negated-past-passive-participle)"
+    }
+   ],
+   "question": "What quality characterizes the poetry that others cannot surpass?",
+   "premises": [
+    "Poetry arises instantaneously.",
+    "This poetry is not surpassed by others.",
+    "Such poetic capacity is presented as a distinguishing attainment."
+   ],
+   "inference": "The attained capacity includes immediate poetic expression that remains unsurpassed by others.",
+   "uncertainties": [
+    "The precise scope of kavitā as poetry or inspired speech is context-dependent."
+   ],
+   "plain_english": "And there is instantaneous poetry that is not surpassed by others."
+  }
+ ]
+}
