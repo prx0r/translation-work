@@ -1,6 +1,6 @@
 # MCP.md — shastra MCP: translation-work as callable tools
 
-*2026-11-12. Server: `mcp_server.py` v3.5.0 (FastMCP stdio, **35 tools**). Registered as
+*2026-11-12. Server: `mcp_server.py` v3.5.0 (FastMCP stdio, **36 tools**). Registered as
 `shastra` in `~/.config/opencode/opencode.jsonc` — restart opencode to load.
 This file is the complete manual: concepts, lanes, every tool with WHEN and
 worked examples, the autonomous loop, troubleshooting, and boundaries. The law
@@ -12,7 +12,7 @@ acting. On any conflict between this file and the skills, the skills win
 
 1. Concepts — DUMB/SMART/scripts, machine-proposed, the layers
 2. Skills — the law, and how to load it
-3. Tool reference — all 35 tools: purpose, args, returns, WHEN, example
+3. Tool reference — all 36 tools: purpose, args, returns, WHEN, example
 4. Standard flows — small work, large work, autonomy (with worked sessions)
 5. Decision trees — which lane, which tool next
 6. Troubleshooting — symptoms, causes, fixes
@@ -279,6 +279,13 @@ recent assessor verdict tallies. Watch `served/total` and any gate failure.
 ```json
 {}
 ```
+
+### `shastra.audit_align(work="", all=false)` — prove-everything classifier.
+
+Read-only. Replays each BLOCKED song's exact B3 comparison and classifies
+every sub-0.90 verse as sandhi-only (with the joint named) or
+needs-human-eyes (with the diff). Never writes dispositions. The assessor
+reviews the list, records honest dispositions, re-proofs.
 
 ### Review console (CLI, not an MCP tool) — `tools/review_inbox.py`
 

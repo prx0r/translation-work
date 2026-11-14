@@ -157,6 +157,22 @@ def health() -> dict:
     return out
 
 
+@mcp.tool()
+def audit_align(work: str = "", all: bool = False) -> dict:
+    """Classify sub-0.90 proof alignments: sandhi-only (propose disposition)
+    vs needs-human-eyes. Read-only report; never writes dispositions.
+    The prove-everything workhorse: run with all=true for the full backlog,
+    or per work. Backed by tools/audit_align.py."""
+    cmd = ["tools/audit_align.py", "--json"]
+    if work:
+        cmd += ["--work", work]
+    elif all:
+        pass
+    else:
+        return {"error": "pass work='W' or all=true"}
+    return _run(cmd, timeout=3600)
+
+
 def _lore_path(work: str) -> Path | None:
     """Transmission brief for a work's front.
 
@@ -884,7 +900,7 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "bibliography", "priority", "schema", "stats", "works",
          "editions", "links", "availability", "onboard", "burn",
          "recycle", "watchdog", "progress", "queue_guard",
-         "serve_status", "make_readable", "make_traces", "health"]
+         "serve_status", "make_readable", "make_traces", "health", "audit_align"]
 
 
 if __name__ == "__main__":

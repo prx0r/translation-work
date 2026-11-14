@@ -238,3 +238,24 @@ Session log — 2026-11-14, second pass (trace fan-out + ipvv)
 - Publish convergence held: one refresh (112 proof-flip traces) + green
   publish, no pause. Next drift already visible (m00125 p271) — normal;
   next cycle picks it up.
+
+## 11. Session log — 2026-11-14, fifth pass (prove everything, wave 1)
+
+- **New tool `tools/audit_align.py`** (+ `shastra.audit_align`, 36 tools
+  total): replays proof_record's exact B3 comparison per BLOCKED song and
+  classifies every sub-0.90 verse as sandhi-only (joint named) or
+  needs-human-eyes (diff shown). Conservative by construction: single-char
+  vowel swaps, >4-char fragments, insertions/deletions of content, and
+  iva/eva-type forks never auto-pass.
+- **Result: 211 honest sandhi dispositions recorded, 25 songs flipped to
+  PASS** (586→615 at the time; 632 after loop additions). The classifier
+  demonstrably refused real defects (kul-p39's dropped repetitions,
+  m00034 p19's auditā/uditā fork → correctly held for human).
+- **Key hygiene fix: proof-disp.json is now work-qualified.** Bare song keys
+  (`mukta-m0-p01`) collide across works — a disposition verified on one work
+  could suppress a genuinely different verse in another. `tools/repair_disp_keys.py`
+  migrated 13 colliding keys to `work:song` form (re-verifying each verse in
+  its owning work; pre-existing third-party entries untouched), and
+  proof_record.py prefers qualified keys. One near-miss caught and fixed
+  before it could launder anything.
+- Steady state unchanged: refresh drifters → green publish → push.
