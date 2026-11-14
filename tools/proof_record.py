@@ -169,7 +169,23 @@ def main() -> int:
         rec["mode"] = "shastra"
     block = rec["blocking"]
 
-    rec["source_sha"] = sha(" ".join(" ".join(t) for v, t in sorted(src.items())))
+    # Source identity: keep the historical 64-bit normalized-token digest
+    # (`source_sha`, used for cheap drift detection) AND record full-strength
+    # identities alongside it (audit 2026-11-14): the exact raw-byte SHA-256 of
+    # the source file, plus the full SHA-256 of the normalized token text.
+    # Additive only — existing consumers of `source_sha` are unaffected.
+    norm_text = " ".join(" ".join(t) for v, t in sorted(src.items()))
+    rec["source_sha"] = sha(norm_text)
+    rec["source_digest_normalized_sha256"] = hashlib.sha256(
+        norm_text.encode("utf-8")).hexdigest()
+    try:
+        _srcfile = Path(gretil)
+        if _srcfile.is_file():
+            rec["source_sha256_raw"] = hashlib.sha256(
+                _srcfile.read_bytes()).hexdigest()
+            rec["source_sha256_raw_file"] = str(_srcfile)
+    except (OSError, ValueError):
+        pass
     rec["source_verses"] = len(src)
 
     if args.shastra:
