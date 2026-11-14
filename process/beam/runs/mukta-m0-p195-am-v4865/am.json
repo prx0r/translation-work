@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p195",
  "verse": 4865,
- "question": "Which deities are listed in this group?",
+ "question": "What measurements are specified for the tooth length and root circumference?",
  "premises": [
-  "sun is listed",
-  "supraja is listed",
-  "fire kinnara and mother are listed"
+  "The tooth length is four measures.",
+  "The root circumference is likewise specified.",
+  "Both dimensions are given together."
  ],
- "inference": "The group includes sun, supraja, fire, kinnara, and mother.",
+ "inference": "The tooth length is four measures and the root circumference is likewise specified.",
  "uncertainties": [
-  "the full list may continue"
+  "The exact value of the root circumference is not explicitly stated in this verse."
  ],
- "plain_english": "The group includes sun, supraja, fire, kinnara, and mother, and so on."
+ "plain_english": "The tooth length is four measures, and the root circumference is likewise specified."
 }

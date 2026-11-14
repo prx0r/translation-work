@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p193",
  "verse": 4804,
- "question": "From what cubit measure does the increase begin?",
+ "question": "What purification procedure is prescribed when the deity image is made of stone?",
  "premises": [
-  "The verse says one cubit beginning-with cubit one one by-increase."
+  "The image may be made of stone.",
+  "A specific act is prescribed in that case.",
+  "The prescribed act is washing."
  ],
- "inference": "Increase begins from one cubit.",
+ "inference": "If the image is of stone, washing is prescribed for it.",
  "uncertainties": [
-  "Exact parsing of repeated eka."
+  "Token 2 repeats the condition found in token 1; textual redundancy or emphasis is possible."
  ],
- "plain_english": "One cubit beginning with cubit one one by increase."
+ "plain_english": "Or if the image is made of stone, washing is prescribed in that case."
 }

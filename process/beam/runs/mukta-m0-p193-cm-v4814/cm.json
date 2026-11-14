@@ -3,34 +3,29 @@
  "verse": 4814,
  "rows": [
   {
-   "lemma": "āyam",
-   "morph": "m.nom.sg",
-   "grounds": "noun"
+   "lemma": "dīpaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of datvā"
   },
   {
-   "lemma": "triguṇitam",
+   "lemma": "mūlāṇunā",
+   "morph": "m.ins.sg",
+   "grounds": "instrumental: mūla-aṇunā"
+  },
+  {
+   "lemma": "datvā",
+   "morph": "gerund (√dā)",
+   "grounds": "absolutive of dā"
+  },
+  {
+   "lemma": "naivedyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "adjective"
+   "grounds": "object of vinivedayet"
   },
   {
-   "lemma": "digbhiḥ",
-   "morph": "f.inst.pl",
-   "grounds": "instrumental"
-  },
-  {
-   "lemma": "manubhiḥ",
-   "morph": "m.inst.pl",
-   "grounds": "instrumental"
-  },
-  {
-   "lemma": "vibhajet",
-   "morph": "3.sg.act-opt",
-   "grounds": "verb"
-  },
-  {
-   "lemma": "tataḥ",
-   "morph": "indecl.",
-   "grounds": "adverb"
+   "lemma": "vinivedayet",
+   "morph": "3.sg.opt.caus (vi-ni-√vid)",
+   "grounds": "optative causative of vi-ni-vid"
   }
  ]
 }

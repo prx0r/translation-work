@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p195",
+ "items": [
+  {
+   "verse": 4875,
+   "rows": [
+    {
+     "surface": "śuklayajñopavītaṃ",
+     "gloss": "white-sacred-thread",
+     "grounds": "compound of śukla and yajñopavīta; describes an attribute of the depicted form",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound of sarva, ābharaṇa, and bhūṣita; describes an attribute of the depicted form",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "What additional adornments complete the prescribed iconographic form of the deity?",
+   "premises": [
+    "The deity is described as wearing a white sacred thread.",
+    "The deity is described as adorned with all ornaments.",
+    "These attributes are conjoined with previously stated iconographic features."
+   ],
+   "inference": "The prescribed iconographic form includes a white sacred thread and adornment with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "And wearing a white sacred thread, adorned with all ornaments."
+  }
+ ]
+}
