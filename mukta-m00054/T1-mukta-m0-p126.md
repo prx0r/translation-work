@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p126-v3126
-[to-the-ancient-one](purāṇāya)[obeisance](namaḥ) [645](|| 645 ||) [to-the-holy](puṇya)[+](cañcave)[to-the-moving-one](namaḥ) [646](|| 646 ||) [to-such-a-one](ītyai)[obeisance](namaḥ)
+[to-the-ancient-one](purāṇāya)[obeisance](namaḥ) [||](||) [645](645) [||](||) [to-the-holy+moving-one](puṇya+cañcave)[obeisance](namaḥ) [||](||) [646](646) [||](||) [to-Ītya](ītyai)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3127
-[to-the-doer](kuru)[+](kartre)[obeisance](namaḥ) [648](|| 648 ||) [to-the-dweller](kuru)[+](vāsine)[obeisance](namaḥ) [649](|| 649 ||) [to-the-much-invoked](puru)[+](hūtāya)[obeisance](namaḥ)
+[to-the-doer+of-actions](kuru+kartre)[obeisance](namaḥ) [||](||) [648](648) [||](||) [to-the-dweller+in-Kuru](kuru+vāsine)[obeisance](namaḥ) [||](||) [649](649) [||](||) [to-the-much-invoked-one](puruhūtāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3128
-[to-the-virtue](guṇa)[+](auṣadhāya)[to-the-medicine](namaḥ) [651](|| 651 ||) [to-the-all](sarva)[+](āśayāya)[to-the-abode](namaḥ)
+[to-the-quality+medicine](guṇa+auṣadhāya)[obeisance](namaḥ) [||](||) [651](651) [||](||) [to-the-abode+of-all](sarva+āśayāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3129
-[to-the-grass](darbbha)[+](cāriṇe)[to-the-wanderer](namaḥ) [653](|| 653 ||) [to-of-all](sarveṣāṃ)[to-living-beings](prāṇi)[+](pataye)[to-the-lord](namaḥ)
+[to-the-grass+walker](darbha+cāriṇe)[obeisance](namaḥ) [||](||) [653](653) [||](||) [to-the-lord+of-all+living-beings](sarveṣāṃ+prāṇi+pataye)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3130
-[to-the-god](deva)[+](devāya)[to-the-god-of](namaḥ) [655](|| 655 ||) [to-happiness](sukha)[+](āsaktāya)[to-the-attached](namaḥ) [656](|| 656 ||) [to-the-existent](sate)[obeisance](namaḥ)
+[to-the-god+of-gods](deva+devāya)[obeisance](namaḥ) [||](||) [655](655) [||](||) [to-the-one-attached+to-happiness](sukha+āsaktāya)[obeisance](namaḥ) [||](||) [656](656) [||](||) [to-the-existent](sate)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3131
-[to-the-non-existent](asate)[obeisance](namaḥ) [658](|| 658 ||) [to-all](sarva)[+](ratna)[+](vide)[to-the-knower-of-jewels](namaḥ) [659](|| 659 ||) [to-Kailasa](kailāsa)[+](giri)[+](vāsine)[to-the-mountain-dweller](namaḥ)
+[to-the-non-existent](asate)[obeisance](namaḥ) [||](||) [658](658) [||](||) [to-the-knower+of-all+jewels](sarva+ratna+vide)[obeisance](namaḥ) [||](||) [659](659) [||](||) [to-the-dweller+on-Kailāsa+mountain](kailāsa+giri+vāsine)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3132
-[to-the-Himalaya](himavad)[+](giri)[+](saṃśrayāya)[to-the-mountain-refuge](namaḥ) [661](|| 661 ||) [to-the-bank](kūla)[+](hāriṇe)[to-the-remover](namaḥ)
+[to-the-one-resorting+to-the-Himavat+mountain](himavad+giri+saṃśrayāya)[obeisance](namaḥ) [||](||) [661](661) [||](||) [to-the-bank+seizer](kūla+hāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3133
-[to-the-merchant](vaṇijāya)[obeisance](namaḥ) [666](|| 666 ||) [to-the-carpenter](varddhakine)[obeisance](namaḥ) [667](|| 667 ||) [to-the-tree](vṛkṣāya)[obeisance](namaḥ)
+[||](||) [to-the-merchant](vaṇijāya)[obeisance](namaḥ) [||](||) [666](666) [||](||) [to-the-carpenter](varddhakine)[obeisance](namaḥ) [||](||) [667](667) [||](||) [to-the-tree](vṛkṣāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3134
-[to-the-bakula-tree](vakulāya)[obeisance](namaḥ) [669](|| 669 ||) [to-the-sandalwood](candanāya)[obeisance](namaḥ) [670](|| 670 ||) [to-the-metre](chandase)[obeisance](namaḥ)
+[to-the-bakula-tree](vakulāya)[obeisance](namaḥ) [||](||) [669](669) [||](||) [to-the-sandalwood](candanāya)[obeisance](namaḥ) [||](||) [670](670) [||](||) [to-the-metre](chandase)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3135
-[to-the-essence](sāra)[+](grīvāya)[to-the-neck](namaḥ) [672](|| 672 ||) [to-the-great](mahā)[+](jatrave)[to-the-collarbone](namaḥ)
+[to-the-one-with-essence+neck](sāra+grīvāya)[obeisance](namaḥ) [||](||) [672](672) [||](||) [to-the-one-with-great+collarbone](mahā+jatrave)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3136
-[to-the-unagitated-one](alolāya)[obeisance](namaḥ) [674](|| 674 ||) [to-the-great](mahā)[+](auṣadhāya)[to-the-medicine](namaḥ)
+[p.](p.) [469)](469)) [to-the-unwavering-one](alolāya)[obeisance](namaḥ) [||](||) [674](674) [||](||) [to-the-great+medicine](mahā+auṣadhāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3137
-[to-the-accomplisher](siddha)[+](ārttha)[+](kāriṇe)[to-of-aims](namaḥ) [676](|| 676 ||) [to-metre](chando)[+](vyākaraṇa)[+](uttara)[+](siddha)[+](ārtthāya)[to-the-accomplished-meaning-of-grammar](namaḥ)
+[to-the-accomplisher+of-desired+ends](siddha+arttha+kāriṇe)[obeisance](namaḥ) [||](||) [676](676) [||](||) [to-the-one-whose-established+meaning+is-beyond+metre+and-grammar](chandas+vyākaraṇa+uttara+siddha+artthāya)[obeisance](namaḥ) [||](||)
 
 ## mukta-m0-p126-v3138
-[677](|| 677 ||) [to-the-lion](siṃha)[+](nādāya)[to-the-roar](namaḥ) [678](|| 678 ||) [to-the-lion](siṃha)[+](daṃṣṭrāya)[to-the-fang](namaḥ)
+[677](677) [||](||) [to-the-lion+roar](siṃha+nādāya)[obeisance](namaḥ) [||](||) [678](678) [||](||) [to-the-lion+tusk](siṃha+daṃṣṭrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3139
-[to-the-lion](siṃha)[+](gāya)[to-the-goer](namaḥ) [680](|| 680 ||) [to-the-lion](siṃha)[+](vāhanāya)[to-the-vehicle](namaḥ)
+[to-the-lion+goer](siṃha+gāya)[obeisance](namaḥ) [||](||) [680](680) [||](||) [to-the-lion+vehicled-one](siṃha+vāhanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3140
-[to-the-majestic](prabhāva)[+](ātmane)[to-the-self](namaḥ) [682](|| 682 ||) [to-the-world](jagat)[+](kāla)[+](sthālāya)[to-the-time-abode](namaḥ)
+[to-the-one-whose-nature+is-majesty](prabhāva+ātmane)[obeisance](namaḥ) [||](||) [682](682) [||](||) [to-the-abode+of-world+time](jagat+kāla+sthālāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3141
-[to-the-world](loka)[+](hitāya)[to-the-benefactor](namaḥ) [684](|| 684 ||) [to-the-tree](tarave)[obeisance](namaḥ) [685](|| 685 ||) [to-the-deer](sāraṅgāya)[obeisance](namaḥ)
+[to-the-benefactor+of-the-world](loka+hitāya)[obeisance](namaḥ) [||](||) [684](684) [||](||) [to-the-savior](tarave)[obeisance](namaḥ) [||](||) [685](685) [||](||) [to-the-deer](sāraṅgāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3142
-[to-the-new](nava)[+](cakra)[+](aṅgāya)[to-the-wheel-limbed](namaḥ) [687](|| 687 ||) [to-the-bannered](ketu)[+](māline)[to-the-garlanded](namaḥ)
+[to-the-one-with-new+wheel+limbs](nava+cakra+aṅgāya)[obeisance](namaḥ) [||](||) [687](687) [||](||) [to-the-one-garlanded+with-banners](ketu+māline)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3143
-[to-the-contemplative](sabhāvanāya)[obeisance](namaḥ) [689](|| 689 ||) [to-the-beings](bhūta)[+](ālayāya)[to-the-abode](namaḥ) [690](|| 690 ||) [to-the-beings](bhūta)[+](pataye)[to-the-lord](namaḥ)
+[to-the-one-with-good+disposition](sa+bhāvanāya)[obeisance](namaḥ) [||](||) [689](689) [||](||) [to-the-abode+of-beings](bhūta+ālayāya)[obeisance](namaḥ) [||](||) [690](690) [||](||) [to-the-lord+of-beings](bhūta+pataye)[obeisance](namaḥ) [||](||)
 
 ## mukta-m0-p126-v3144
-[691](|| 691 ||) [to-day](aho)[+](rātrāya)[to-night](namaḥ) [692](|| 692 ||) [to-the-blameless](aninditāya)[obeisance](namaḥ)
+[691](691) [||](||) [to-day+and-night](aho+rātrāya)[obeisance](namaḥ) [||](||) [692](692) [||](||) [to-the-unblamed-one](aninditāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3145
-[to-all](sarva)[+](bhūta)[+](vāhitre)[to-the-bearer-of-beings](namaḥ) [694](|| 694 ||) [to-all](sarva)[+](bhūta)[+](nilayāya)[to-the-abode-of-beings](namaḥ)
+[to-the-bearer+of-all+beings](sarva+bhūta+vāhitre)[obeisance](namaḥ) [||](||) [694](694) [||](||) [to-the-abode+of-all+beings](sarva+bhūta+nilayāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3146
-[to-the-mighty](vibhave)[obeisance](namaḥ) [696](|| 696 ||) [to-existence](bhavāya)[obeisance](namaḥ) [697](|| 697 ||) [to-the-unfailing](amoghāya)[obeisance](namaḥ)
+[to-the-mighty-one](vibhave)[obeisance](namaḥ) [||](||) [696](696) [||](||) [to-existence](bhavāya)[obeisance](namaḥ) [||](||) [697](697) [||](||) [to-the-unfailing-one](amoghāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3147
-[to-the-truthful](sa/yyatāya)[obeisance](namaḥ) [699](|| 699 ||) [to-the-horse](aśvāya)[obeisance](namaḥ) [700](|| 700 ||) [to-the-food](bhojanāya)[obeisance](namaḥ)
+[to-the-truthful-one](sa/yyatāya)[obeisance](namaḥ) [||](||) [699](699) [||](||) [to-the-horse](aśvāya)[obeisance](namaḥ) [||](||) [700](700) [||](||) [to-food](bhojanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3148
-[to-the-skillful](dakṣāya)[obeisance](namaḥ) [705](|| 705 ||) [to-the-honored](satkṛtāya)[obeisance](namaḥ) [706](|| 706 ||) [to-the-lord](yuga)[+](ādhipāya)[to-of-the-age](namaḥ)
+[||](||) [to-the-skillful-one](dakṣāya)[obeisance](namaḥ) [||](||) [705](705) [||](||) [to-the-honored-one](satkṛtāya)[obeisance](namaḥ) [||](||) [706](706) [||](||) [to-the-lord+of-the-age](yuga+ādhipāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3149
-[to-the-cowherd](gopālāya)[obeisance](namaḥ) [708](|| 708 ||) [to-the-lord](go)[+](pataye)[to-of-cattle](namaḥ) [709](|| 709 ||) [to-the-village](grāmāya)[obeisance](namaḥ)
+[to-the-cowherd](gopālāya)[obeisance](namaḥ) [||](||) [708](708) [||](||) [to-the-lord+of-cows](go+pataye)[obeisance](namaḥ) [||](||) [709](709) [||](||) [to-the-village](grāmāya)[obeisance](namaḥ)
 
 ## mukta-m0-p126-v3150
-[to-cowhide](go)[+](carma)[+](vasanāya)[to-the-garment](namaḥ) [711](|| 711 ||) [to-the-tawny-one](haraye)[obeisance](namaḥ) [712](|| 712 ||) [to-the-golden](hiraṇya)[+](bāhave)[to-the-armed](namaḥ)
+[to-the-one-clad+in-cow+hide](go+carma+vasanāya)[obeisance](namaḥ) [||](||) [711](711) [||](||) [to-the-tawny-one](haraye)[obeisance](namaḥ) [||](||) [712](712) [||](||) [to-the-golden+armed-one](hiraṇya+bāhave)[obeisance](namaḥ) [||](||)
