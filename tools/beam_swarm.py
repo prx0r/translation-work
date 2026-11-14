@@ -961,20 +961,23 @@ def cmd_init_queue() -> None:
     STATE.mkdir(parents=True, exist_ok=True)
     (STATE / 'claims').mkdir(exist_ok=True)
     (STATE / 'runs').mkdir(exist_ok=True)
-    tasks = load_q()
-    have = {t['id'] for t in tasks}
     now = datetime.datetime.now().isoformat(timespec='seconds')
     seed = [
         {'id': 'v3b-pilot', 'kind': 'pilot_pair', 'args': {'label': 'V3B'}},
         {'id': 'tal-a18-brief', 'kind': 'tal_brief', 'args': {'ahnika': 'a18'}},
         {'id': 'tal-a12-brief', 'kind': 'tal_brief', 'args': {'ahnika': 'a12'}},
     ]
-    for s in seed:
-        if s['id'] not in have:
-            tasks.append(Task(id=s['id'], kind=s['kind'], args=s['args'],
-                              created=now, updated=now).model_dump())
-    save_q(tasks)
-    print(f'queue: {len(tasks)} tasks')
+
+    def add_seed(tasks):
+        have = {t['id'] for t in tasks}
+        for item in seed:
+            if item['id'] not in have:
+                tasks.append(Task(id=item['id'], kind=item['kind'], args=item['args'],
+                                  created=now, updated=now).model_dump())
+        return tasks, len(tasks)
+
+    total = queue_update(add_seed)
+    print(f'queue: {total} tasks')
 
 def cmd_status() -> None:
     for t in load_q():

@@ -26,7 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 import sys
 sys.path.insert(0, str(ROOT / "tools"))
-from beam_swarm import load_q, save_q  # noqa: E402
+from beam_swarm import load_q, queue_update  # noqa: E402
 
 RUNS = ROOT / "process" / "beam" / "runs"
 LOG = ROOT / "process" / "beam" / "assessor-reviews.jsonl"
@@ -109,6 +109,28 @@ def _log(task: str, verdict: str, note: str) -> None:
                             "verdict": verdict, "note": note[:500]}) + "\n")
 
 
+def _apply_bounce(task_id: str, bounce: str) -> str:
+    """Requeue one still-DONE task under the worker's shared queue lock."""
+    def update(q: list[dict]) -> tuple[list[dict], str]:
+        task = next((x for x in q if x.get("id") == task_id), None)
+        if task is None:
+            return q, "missing"
+        # A state change during review wins; do not reset a claimed or otherwise
+        # updated task based on an old review snapshot.
+        if task.get("status") != "done":
+            return q, "changed"
+        if task.get("attempts", 0) >= task.get("max_attempts", 3):
+            return q, "at-max"
+        task["status"] = "pending"
+        task["note"] = (task.get("note", "") + " | smart-bounce: " + bounce)[:400]
+        task["worker"] = ""
+        import datetime
+        task["updated"] = datetime.datetime.now().isoformat(timespec="seconds")
+        return q, "bounced"
+
+    return queue_update(update)
+
+
 def review_task(t: dict, apply: bool) -> dict:
     from beam_client import beam
     drafts = drafts_for(t)
@@ -152,22 +174,13 @@ def review_task(t: dict, apply: bool) -> dict:
               "note": ("; ".join(notes)[:400]
                        + (f" | bounce: {bounce[:200]}" if bounce else ""))}
     if apply and verdict == "needs-fix" and bounce and len(bounce) >= 10:
-        q = load_q()
-        for x in q:
-            if x["id"] == t["id"]:
-                if x.get("status") == "done":
-                    pass  # never touch done work; log only
-                elif x.get("attempts", 0) < x.get("max_attempts", 3):
-                    x["status"] = "pending"
-                    x["note"] = (x.get("note", "") + " | smart-bounce: " + bounce)[:400]
-                    x["worker"] = ""
-                    import datetime
-                    x["updated"] = datetime.datetime.now().isoformat(timespec="seconds")
-                    save_q(q)
-                    result["note"] += " [bounced]"
-                else:
-                    result["note"] += " [at max: left for hand-draft]"
-                break
+        outcome = _apply_bounce(t["id"], bounce)
+        if outcome == "bounced":
+            result["note"] += " [bounced]"
+        elif outcome == "at-max":
+            result["note"] += " [at max: left for hand-draft]"
+        elif outcome == "changed":
+            result["note"] += " [task state changed; left untouched]"
     _log(**result)
     return result
 

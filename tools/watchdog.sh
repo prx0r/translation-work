@@ -45,30 +45,36 @@ start_driver(){
 
 reap_stale_claims(){
   python3 - <<'PY' 2>/dev/null
-import json, os, time, glob
+import os, sys, time
+sys.path.insert(0, 'tools')
+from beam_swarm import queue_update
 p='process/beam/queue.json'
-q=json.load(open(p)); n=0
 now=time.time()
-for t in q:
-    if t.get('status')!='claimed': continue
-    f=f"process/beam/claims/{t['id']}.json"
-    try: age=now-os.path.getmtime(f)
-    except OSError: age=9999
-    if age > 1500:  # 25 min: orphan cleanup only. Active tasks heartbeat every
-        # 5 min (beam_swarm worker_loop) so only truly dead claims reach here;
-        # live claims are stolen earlier via the 15-min claim path.
-        # NEVER resurrect exhausted tasks (attempts >= max) — that was the
-        # overnight poison loop: reap reset attempts to 2, task reclaimable
-        # forever on the same schema-fail verses.
-        if t.get('attempts',0) >= t.get('max_attempts',4):
-            t['status']='failed'
-        else:
-            t['status']='pending'
-        n+=1
-        try: os.unlink(f)
-        except OSError: pass
+def reap(q):
+    if not os.path.isfile(p):
+        raise FileNotFoundError(f'queue does not exist: {p}')
+    n=0
+    for t in q:
+        if t.get('status')!='claimed': continue
+        f=f"process/beam/claims/{t['id']}.json"
+        try: age=now-os.path.getmtime(f)
+        except OSError: age=9999
+        if age > 1500:  # 25 min: orphan cleanup only. Active tasks heartbeat every
+            # 5 min (beam_swarm worker_loop) so only truly dead claims reach here;
+            # live claims are stolen earlier via the 15-min claim path.
+            # NEVER resurrect exhausted tasks (attempts >= max) — that was the
+            # overnight poison loop: reap reset attempts to 2, task reclaimable
+            # forever on the same schema-fail verses.
+            if t.get('attempts',0) >= t.get('max_attempts',4):
+                t['status']='failed'
+            else:
+                t['status']='pending'
+            n+=1
+            try: os.unlink(f)
+            except OSError: pass
+    return q,n
+n=queue_update(reap)
 if n:
-    json.dump(q,open(p,'w'),indent=1)
     print(f"reaped {n} stale claims")
 PY
 }
@@ -81,8 +87,11 @@ check_stall(){
   local age=$(( ( $(date +%s) - $(stat -c %Y "$newest") ) / 60 ))
   local claimed
   claimed=$(python3 - <<'PY' 2>/dev/null || echo 0
-import json
-q=json.load(open('process/beam/queue.json'))
+import sys
+sys.path.insert(0, 'tools')
+from beam_swarm import _locked, load_q
+with _locked():
+    q=load_q()
 print(sum(1 for t in q if t.get('status')=='claimed'))
 PY
 )
@@ -92,16 +101,22 @@ PY
     sleep 2
     rm -f process/beam/claims/*.json
     python3 - <<'PY' 2>/dev/null
-import json
-p='process/beam/queue.json'; q=json.load(open(p))
-for t in q:
-    if t.get('status')=='claimed':
-        # same rule as reap: exhausted stays failed, never resets to pending
-        if t.get('attempts',0) >= t.get('max_attempts',4):
-            t['status']='failed'
-        else:
-            t['status']='pending'
-json.dump(q,open(p,'w'),indent=1)
+import os, sys
+sys.path.insert(0, 'tools')
+from beam_swarm import queue_update
+p='process/beam/queue.json'
+def reset(q):
+    if not os.path.isfile(p):
+        raise FileNotFoundError(f'queue does not exist: {p}')
+    for t in q:
+        if t.get('status')=='claimed':
+            # same rule as reap: exhausted stays failed, never resets to pending
+            if t.get('attempts',0) >= t.get('max_attempts',4):
+                t['status']='failed'
+            else:
+                t['status']='pending'
+    return q,None
+queue_update(reset)
 PY
     start_workers
   fi

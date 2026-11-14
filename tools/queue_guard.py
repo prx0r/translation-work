@@ -19,13 +19,15 @@ from __future__ import annotations
 import json
 import sys
 from pathlib import Path
+from beam_swarm import _locked, load_q, queue_update
 
 ROOT = Path(__file__).resolve().parent.parent
 QUEUE = ROOT / "process/beam/queue.json"
 
 
-def audit(fix: bool) -> dict:
-    q = json.loads(QUEUE.read_text())
+def _audit(q: list[dict], fix: bool) -> tuple[list[dict], dict]:
+    if not QUEUE.is_file():
+        raise FileNotFoundError(f"queue does not exist: {QUEUE}")
     problems = {"duplicate_ids": [], "overlaps": [], "superseded": 0}
 
     seen, keep = set(), []
@@ -76,10 +78,17 @@ def audit(fix: bool) -> dict:
                         " | superseded by queue_guard (overlap " + \
                         lst[i - 1][2]["id"] + ")"
                     problems["superseded"] += 1
-    if fix:
-        QUEUE.write_text(json.dumps(q, ensure_ascii=False, indent=0))
     problems["clean"] = not problems["duplicate_ids"] and not problems["overlaps"]
-    return problems
+    return q, problems
+
+
+def audit(fix: bool) -> dict:
+    if fix:
+        # Use the same lock and atomic replacement as the workers.
+        return queue_update(lambda q: _audit(q, True))
+    with _locked():
+        _, problems = _audit(load_q(), False)
+        return problems
 
 
 if __name__ == "__main__":

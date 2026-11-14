@@ -6,14 +6,14 @@ Stages (idempotent; each checks before acting):
   2 seed    queue tal_gloss / tal_cm / tal_am for every verse missing output
   3 check   report counts; exit 0 when all beam outputs present
   4 assemble  glosses+CM+am -> working-t1/l0/argmap/l2/c1, data/*.json
-  5 gates   validate_song + proof_record --shastra; write STATUS/REGISTRY
+  5 gates   validate_song; proof and status decisions remain with the owner
 Beam workers must be running for stages 2-3 to progress; run --loop to wait.
 
 Usage:
   python3 tools/tal_stage.py --work tantraloka-a11 --song tal-a11 [--seed] [--loop] [--wait 600]
 """
 from __future__ import annotations
-import argparse, json, os, pathlib, subprocess, sys, time
+import argparse, json, pathlib, subprocess, sys, time
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / 'tools'))
@@ -26,12 +26,6 @@ RUNS = ROOT / 'process' / 'beam' / 'runs'
 
 def load_q():
     return json.loads(Q.read_text()) if Q.exists() else []
-
-
-def save_q(q):
-    tmp = Q.with_name(f'{Q.name}.{os.getpid()}.{time.time_ns()}.tmp')
-    tmp.write_text(json.dumps(q, indent=1))
-    os.replace(tmp, Q)
 
 
 def stage_parse(work, song):
@@ -275,7 +269,7 @@ def stage_assemble(work, song):
                    'sanskrit_cite': _cite(e),
                    'l0_ids': ids or [l0[0]['id']], 'supplied': []})
         e['quick_english'] = d['plain_english']
-        e['quick_english_source'] = 'manual'
+        e['quick_english_source'] = 'machine-proposed'
     dd = W / 'data'; dd.mkdir(exist_ok=True)
     t1_out = []
     for e in wt:
@@ -376,17 +370,14 @@ def main():
     for _tool in ('dedup_t1.py', 'collapse_dups.py'):
         subprocess.run([sys.executable, f'tools/{_tool}', a.work, a.song],
                        cwd=ROOT, capture_output=True, text=True)
-    _disp = ROOT / 'tools' / 'proof-disp.json'
-    for cmd in (['tools/validate_song.py', '--song', a.song, '--work', a.work],
-                ['tools/proof_record.py', '--song', a.song, '--work', a.work, '--shastra']
-                + (['--disp', str(_disp.relative_to(ROOT))] if _disp.exists() else [])):
-        r = subprocess.run([sys.executable] + cmd, cwd=ROOT, capture_output=True, text=True)
-        tail = (r.stdout + r.stderr).strip()
-        print(tail[-400:])
-        if r.returncode != 0 and 'proof_record' in cmd[0]:
-            print('PROOF NOT PASS — needs assessor')
-            return 2
-    print(f'{a.song}: staged, validated, proofed')
+    cmd = ['tools/validate_song.py', '--song', a.song, '--work', a.work]
+    r = subprocess.run([sys.executable] + cmd, cwd=ROOT, capture_output=True, text=True)
+    tail = (r.stdout + r.stderr).strip()
+    print(tail[-400:])
+    if r.returncode != 0:
+        print('VALIDATION BLOCKED — needs assessor')
+        return r.returncode
+    print(f'{a.song}: machine-proposed and validated; proof and sign-off require owner review')
     return 0
 
 
