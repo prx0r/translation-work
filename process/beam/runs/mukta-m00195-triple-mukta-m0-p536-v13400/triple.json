@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p536",
+ "items": [
+  {
+   "verse": 13400,
+   "rows": [
+    {
+     "surface": "sādhakasya",
+     "gloss": "of-the-practitioner",
+     "grounds": "genitive of sādhaka indicating the one whose presence is approached",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samāyāti",
+     "gloss": "comes",
+     "grounds": "verb of motion expressing arrival or approach",
+     "morph": "3.sg.act-pres √sam-ā-yā"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "into-presence",
+     "grounds": "locative of sannidhi denoting proximity or presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāñchito",
+     "gloss": "desired",
+     "grounds": "past passive participle qualifying jana as wished for",
+     "morph": "m.nom.sg.ppp √vāñch"
+    },
+    {
+     "surface": "janaḥ",
+     "gloss": "person",
+     "grounds": "subject who comes into the practitioner's presence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who approaches the practitioner as a result of the prescribed worship?",
+   "premises": [
+    "The practitioner has performed the prescribed worship.",
+    "A particular person is desired by the practitioner.",
+    "That desired person comes into the practitioner's presence."
+   ],
+   "inference": "The prescribed worship results in the desired person approaching the practitioner.",
+   "uncertainties": [],
+   "plain_english": "The desired person comes into the presence of the practitioner."
+  }
+ ]
+}

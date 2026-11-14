@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[there](tatrāpi) [armor](kavacan) [divine](divyan) [hard-to-obtain](durllabham) [in-world](bhuvana) [triad](traye)
+[there](tatra) [also](api) [armor](kavacam) [divine](divyam) [difficult-to-obtain](durllabham) [in-three-worlds](bhuvana+traye)
 
 ## mukta-m0-p60-v1477
-[of-him](tasya) [all](sarva) [purpose](arttha) [accomplishment](siddhiḥ) [would-be](syāt) [by-Śaṅkara](śaṅkareṇa) [declared](prabhāṣitam)
+[of-him](tasya) [all](sarva) [object](arttha) [accomplishment](siddhiḥ) [may-be](syāt) [by-Śaṅkara](śaṅkareṇa) [declared](prabhāṣitam)
 
 ## mukta-m0-p60-v1478
-[with-non-difference](abhedena) [who](yaḥ) [indeed](tu) [worships](yajet) [of-him](tasya) [success](siddhiḥ) [not-far](adūrataḥ)
+[with-non-difference](abhedena) [who](yaḥ) [may-worship](yajet) [but](tu) [of-him](tasya) [success](siddhiḥ) [not-far](adūrataḥ)
 
 ## mukta-m0-p60-v1479
-[Pārvatī](pārvatī) [asked](paripapraccha) [supreme](para) [favor](anugraha) [desiring](vāñchayā)
+[Pārvatī](pārvatī) [asked](paripapraccha) [desiring-grace-for-others](para+anugraha+vāñchayā)
 
 ## mukta-m0-p60-v1480
 [again](punaḥ) [to-hear](śrotuṃ) [I-desire](samicchāmi) [Bhairavī](bhairavī) [hymn](stotram) [supreme](uttamam)
 
 ## mukta-m0-p60-v1481
-[hymn](stotram) [indeed](tu) [supreme](paramam) [holy](puṇyaṃ) [all](sarva) [auspiciousness](kalyāṇa) [cause](kāraṇam)
+[hymn](stotram) [indeed](tu) [supreme](paramam) [meritorious](puṇyaṃ) [cause-of-all-auspiciousness](sarva+kalyāṇa+kāraṇam)
 
 ## mukta-m0-p60-v1482
 [without](vinā) [meditation](dhyāna) [etc.](ādinā) [or](vā) [even](api) [Bhairavī](bhairavī) [is-pleased](parituṣyati)
 
 ## mukta-m0-p60-v1483
-[with-vermilion](sindūra) [filled](āpūrita) [limbed](aṅgīm) [three](tri) [world](bhuvana) [mother](jananīm) [Bhairavī](bhairavīm) [I-contemplate](bhāvayāmi)
+[with-limbs-filled-with-vermilion](sindūra+āpūrita+aṅgīm) [mother-of-three-worlds](tri+bhuvana+jananīm) [Bhairavī](bhairavīm) [I-contemplate](bhāvayāmi)
 
 ## mukta-m0-p60-v1484
-[I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[I-worship](hajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1485
-[wine](surā) [enemy](apa) [destroyer](dantakārikām) [Bhava](bhava) [experience](anubhāva) [causing](bhāvinīm) [I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[destroyer-of-demon-Sura](surāpa+danta+kārikām) [abiding-in-the-experience-of-Bhava](bhava+anubhāva+bhāvinīm) [I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1486
-[in-heart](hṛdi) [abiding](abhāvinīm) [I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[dwelling-in-the-heart](hṛdi+abhāvinīm) [I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1487
-[good](su) [devotion](bhakti) [liberation](mukti) [prosperity](bhūti) [giving](dām) [I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[giver-of-good-devotion-liberation-and-prosperity](su+bhakti+mukti+bhūti+dām) [I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1488
-[I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[me](mi) [Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1489
-[I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1490
-[I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1491
-[I-worship](bhajāmi) [Bhairavī](bhairavīṃ) [always](sadā)
+[Bhairavī](bhairavīṃ) [always](sadā)
 
 ## mukta-m0-p60-v1492
-[with-delight](pramoda) [minded](mānasā) [and](ca) [Bhairavī](bhairavī)
+[with-delighted-mind](pramoda+mānasā) [and](ca) [Bhairavī](bhairavī)
 
 ## mukta-m0-p60-v1493
-[continually](santataṃ) [happiness](sukha) [giving](pradāḥ)
+[continually](santataṃ) [givers-of-happiness](sukha+pradāḥ)
 
 ## mukta-m0-p60-v1494
-[of-Bhairavī](bhairavī) [of-heart](hṛdayasya) [of-this](asya) [part](kalām) [not](na) [deserve](arhanti) [sixteenth](ṣoḍaśīm)
+[of-this-heart-of-Bhairavī](bhairavī+hṛdayasya+asya) [a-sixteenth-part](kalām) [not](na) [deserve](arhanti) [sixteenth](ṣoḍaśīm)
 
 ## mukta-m0-p60-v1495
-[not](na) [than-this](ataḥ) [higher](parataram) [anything](kiñcit) [merit](puṇyam) [is](asti) [in-world](jagat) [triad](traye)
+[not](na) [than-this](ataḥ) [higher](parataram) [anything](kiñcit) [merit](puṇyam) [is](asti) [in-three-worlds](jagat+traye)
 
 ## mukta-m0-p60-v1496
-[devotee](bhakta) [kind](vatsala) [of-Bhairavī](bhairavyāḥ) [of-names](nāmnām) [eight](aṣṭa) [more-than](uttaraṃ) [hundred](śatam)
+[O-lover-of-devotees](bhakta+vatsala) [of-Bhairavī](bhairavyāḥ) [of-names](nāmnām) [hundred-and-eight](aṣṭa+uttaraṃ) [hundred](śatam)
 
 ## mukta-m0-p60-v1497
-[hear](śṛṇu) [dear](priye) [great](mahā) [secret](gopyam) [of-names](nāmnām) [eight](aṣṭa) [more-than](uttaraṃ) [hundred](śatam)
+[hear](śṛṇu) [O-beloved](priye) [very-secret](mahā+gopyam) [of-names](nāmnām) [hundred-and-eight](aṣṭa+uttaraṃ) [hundred](śatam)
 
 ## mukta-m0-p60-v1498
-[of-which](yasya) [practice](anuṣṭhāna) [merely](mātreṇa) [what](kim) [not](na) [succeeds](siddhyati) [on-earth](bhūtale)
+[by-whose](yasya) [mere-performance](anuṣṭhāna+mātreṇa) [what](kim) [not](na) [is-accomplished](siddhyati) [on-earth](bhū+tale)
 
 ## mukta-m0-p60-v1499
-[noble](āryā) [Brāhmī](brāhmī) [wish](kāma) [cow](dhenuḥ) [all](sarva) [wealth](sampat) [bestowing](pradāyinī)
+[noble](āryā) [Brāhmī](brāhmī) [wish-fulfilling-cow](kāma+dhenuḥ) [giver-of-all-prosperity](sarva+sampat+pradāyinī)
 
 ## mukta-m0-p60-v1500
-[delusion](moha) [destroying](ghnī) [jasmine](mālatī) [garland](mālā) [great](mahā) [sin](pātaka) [destroying](nāśinī)
+[destroyer-of-delusion](moha+ghnī) [garland-of-jasmine](mālatī+mālā) [destroyer-of-great-sins](mahā+pātaka+nāśinī)

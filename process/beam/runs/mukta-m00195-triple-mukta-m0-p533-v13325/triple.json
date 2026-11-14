@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p533",
+ "items": [
+  {
+   "verse": 13325,
+   "rows": [
+    {
+     "surface": "bhūrja+patre",
+     "gloss": "on-birch-bark",
+     "grounds": "compound locative indicating the medium of inscription",
+     "morph": "bhūrja+patra-loc.sg.n"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "prescriptive optative expressing ritual instruction",
+     "morph": "3.sg.opt.act-√likh"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "sacred diagram as object of inscription",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuṃkumena",
+     "gloss": "with-saffron",
+     "grounds": "instrumental indicating writing substance",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "madena",
+     "gloss": "with-musk",
+     "grounds": "instrumental indicating writing substance",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjoins the two writing substances",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What medium and substances are prescribed for inscribing the sacred diagram?",
+   "premises": [
+    "The sacred diagram is to be inscribed.",
+    "Birch-bark serves as the medium for inscription.",
+    "Saffron and musk serve as the substances for inscription."
+   ],
+   "inference": "The sacred diagram should be inscribed on birch-bark using saffron and musk.",
+   "uncertainties": [
+    "madena may denote musk or another ritual substance depending on tradition."
+   ],
+   "plain_english": "One should draw the yantra on birch-bark with saffron and musk."
+  }
+ ]
+}

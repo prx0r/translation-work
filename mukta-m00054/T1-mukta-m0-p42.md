@@ -2,52 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[furrow-goddess](sītā) [elephant-goddess](mātaṅginī) [intelligence](medhā) [madhu+demon+destroyer](madhudaityavināśinī)
+[furrow-goddess](sītā) [mātaṅgī](mātaṅginī) [intelligence](medhā) [madhu-demon+slayer](madhudaityavināśinī)
 
 ## mukta-m0-p42-v1027
-[auspicious-one](bhāvukā) [bagalā](bagalā) [magical-power](kṛtyā) [young-girl](bālā) [three-cities+beautiful-one](tripurasundarī)
+[prosperous-one](bhāvukā) [bagalā](bagalā) [magical-rite](kṛtyā) [young-girl](bālā) [tripura+beautiful-one](tripurasundarī)
 
 ## mukta-m0-p42-v1028
-[hundred+sacrifice+consisting-of](śatayajñamayī) [pure-being](sattvā) [hundred+sacrifices+boon+giver](śatakratuvarapradā)
+[hundred-sacrifice+consisting-of](śatayajñamayī) [being](sattvā) [hundred-sacrifice+boon+giver](śatakratuvarapradā)
 
 ## mukta-m0-p42-v1029
 [moon+sun+fire+eyed](somasūryāgninayanā) [tiger+skin+garment+covered](vyāghracarmāmbarāvṛtā)
 
 ## mukta-m0-p42-v1030
-[thus](iti) [to-you](te) [told+secret+of-names+hundred-and-eight](kathitaṅgopyannāmnāmaṣṭottaraṃ) [hundred](śatam)
+[thus](iti) [to-you](te) [told](kathitaṅ) [secret](gopyan) [of-names](nāmnām) [eight+more-than+hundred](aṣṭottaraṃ) [hundred](śatam)
 
 ## mukta-m0-p42-v1031
-[to-be-kept-secret+to-be-kept-secret+to-be-kept-secret+in-kali](gopanīyaṅgopanīyaṅgopanīyaṅkalau) [age](yuge)
+[to-be-kept-secret](gopanīyaṅ) [to-be-kept-secret](gopanīyaṅ) [to-be-kept-secret](gopanīyaṅ) [in-kali](kalau) [age](yuge)
 
 ## mukta-m0-p42-v1032
-[therefore+crore+times+merit](tasmātkoṭiguṇampuṇyaṃ) [of-hymn+this](stavasyāsya) [from-recitation](prakīrtanāt)
+[therefore](tasmāt) [crore+times](koṭiguṇam) [merit](puṇyaṃ) [of-hymn](stavasyā) [of-this](asya) [from-recitation](prakīrtanāt)
 
 ## mukta-m0-p42-v1033
-[smiling+faced](smeramukhī/) [boon+giving+goad+noose+fearlessness+handed+I-worship](vvaradāṅkuśapāśābhītikarāmprabhaje) [lady-of-the-world](bhuvaneśīm)
+[smiling-faced](smeramukhī/) [boon+goad+noose+fearlessness+handed](vvaradāṅkuśapāśābhītikarām) [I-worship](prabhaje) [lady-of-the-world](bhuvaneśīm)
 
 ## mukta-m0-p42-v1034
-[I-praise](īḍe) [for-all+prosperity](sakalasampattyai) [world+cause+mother](jagatkāraṇamambikām)
+[I-praise](īḍe) [for-all+prosperity](sakalasampattyai) [world+cause](jagatkāraṇam) [mother](ambikām)
 
 ## mukta-m0-p42-v1035
-[I-purify+I](vvimalayāmyaham) [o-mother](ambike) [you](tvām)
+[I-purify](vvimalayāmi) [I](aham) [O-mother](ambike) [you](tvām)
 
 ## mukta-m0-p42-v1036
-[of-god](devasya) [of-enemy-of-love+even](manmathariporapi) [powerfulness+cause](śaktimattāhetus) [you+alone](tvameva) [indeed](khalu) [o-daughter-of-mountain-king](parvatarājaputri)
+[of-god](devasya) [of-love+enemy](manmatharipor) [even](api) [power+possessing+state](śaktimattā) [cause](hetus) [you](tvam) [indeed](eva) [surely](khalu) [mountain+king+daughter](parvatarājaputri)
 
 ## mukta-m0-p42-v1037
-[by-own](sva) [by-sight](dṛṣṭyā)
+[by-own+sight](svadṛṣṭyā)
 
 ## mukta-m0-p42-v1038
 [situated](sthitā) [you-are](asi)
 
 ## mukta-m0-p42-v1039
-[indeed](khalu) [unbroken+world+rulers](akhaṇḍabhuvanādhibhuvaḥ) [they-spread](prathante)
+[surely](khalu) [unbroken+world+sovereign-ladies](akhaṇḍabhuvanādhibhuvaḥ) [spread-forth](prathante)
 
 ## mukta-m0-p42-v1040
-[completely](sam) [pervading](aśnuvānā)
+[pervading](samaśnuvānā)
 
 ## mukta-m0-p42-v1041
-[womb](garbba) [sharers](bhājaḥ)
+[womb+bearers](garbbhabhājaḥ)
 
 ## mukta-m0-p42-v1042
 [form](mūrttim)
@@ -68,7 +68,7 @@
 [of-heart](hṛdayasya) [in-middle](madhye)
 
 ## mukta-m0-p42-v1048
-[may-cause-to-be-ashamed](vilajjayetām)
+[may-cause-shame](vilajjayetām)
 
 ## mukta-m0-p42-v1049
 [not](na) [I](aham)

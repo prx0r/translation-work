@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p538",
+ "items": [
+  {
+   "verse": 13450,
+   "rows": [
+    {
+     "surface": "vaśīkaraṇa",
+     "gloss": "subjugation",
+     "grounds": "first member of a compound qualifying 'mantrasya'",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "mantra used for subjugation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "application",
+     "grounds": "ritual use or procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "refers to the procedure described in the preceding verses",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "stated or set forth",
+     "morph": "m.nom.sg.past-participle (ud-ā-√hṛ)"
+    }
+   ],
+   "question": "What application of the subjugation mantra is declared by this concluding statement?",
+   "premises": [
+    "The preceding verses describe a ritual procedure involving consecration and targeting.",
+    "The term 'vaśīkaraṇa-mantrasya' identifies a mantra intended for subjugation.",
+    "The demonstrative 'ayam' points back to that described procedure as 'prayogaḥ'."
+   ],
+   "inference": "Therefore, the procedure just described is declared to be the application of the subjugation mantra.",
+   "uncertainties": [],
+   "plain_english": "This is declared to be the application of the subjugation mantra."
+  }
+ ]
+}

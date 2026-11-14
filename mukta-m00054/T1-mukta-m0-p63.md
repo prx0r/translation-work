@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[drum+sound+moving+mind+lotus](ḍhakkāvādacalaccittāmbhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[drum-sound-trembling-mind-lotus](ḍhakkāvādacalaccittāmbhaje) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1552
-[Tārā+form](tārasvarūpiṇīm) [Tārā](tārām) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[of-the-nature-of-Tārā](tārasvarūpiṇīm) [Tārā](tārām) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1553
-[thakāra+letter+essence](thakāravarṇasarvasvām) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[whose-essence-is-the-letter-ṭha](thakāravarṇasarvasvām) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1554
-[god+demon+done+destruction](devadaityakṛtadhvaṃsām) [I-bow](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[destroyer-of-gods-and-demons](devadaityakṛtadhvaṃsām) [I-bow-to](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1555
-[smoke+stream+splendor](dhūmadhārāprabhām) [steadfast](dhīrām) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[having-the-splendor-of-smoke-streams](dhūmadhārāprabhām) [steadfast](dhīrām) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1556
-[Narasiṃhī](nārasiṃhīm) [by-men+worshipped](narārādhyām) [I-bow](naumi) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[Narasiṃhī](nārasiṃhīm) [worshipped-by-humans](narārādhyām) [I-bow-to](naumi) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1557
-[lotus+form](padmārūpām) [by-lotus+worshipped](padmapūjyām) [I-bow](naumi) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[having-the-form-of-a-lotus](padmārūpām) [worshipped-with-lotuses](padmapūjyām) [I-bow-to](naumi) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1558
-[pheṭkāri+group+served](phetkārigaṇasaṃsevyām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[served-by-hosts-uttering-pheṭ](phetkārigaṇasaṃsevyām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1559
-[by-Brahmā+and-others+praised](brahmādivanditām) [knowledge](vidyām) [I-bow](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[praised-by-Brahmā-and-others](brahmādivanditām) [knowledge](vidyām) [I-bow-to](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1560
-[to-devotees+welfare+giver](bhaktabhavyapradām) [goddess](devīm) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[bestower-of-welfare-on-devotees](bhaktabhavyapradām) [goddess](devīm) [I-worship](bhaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1561
-[fish+meat+liquor+relishing](matsyamāṃsamadāsvādām) [I-consider](manye) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[relishing-fish-meat-and-intoxicants](matsyamāṃsamadāsvādām) [I-consider](manye) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1562
-[Yaśodā](yaśodām) [sacrifice+fruit+giver](yajñaphaladām) [I-worship](yaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[Yaśodā](yaśodām) [giver-of-sacrificial-fruit](yajñaphaladām) [I-worship](yaje) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1563
-[Rameśa+beloved+worshipped](rameśaramaṇīpūjyām) [I](aham) [Dhūmāvatī](dhūmāvatīm) [I-take-refuge](śraye)
+[worshipped-by-the-beloved-of-the-lord-of-Ramā](rameśaramaṇīpūjyām) [I](aham) [Dhūmāvatī](dhūmāvatīm) [take-refuge-in](śraye)
 
 ## mukta-m0-p63-v1564
-[hanging+seed+sheath+endowed](lambitāmbījakośāḍhyām) [I-bow](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[endowed-with-a-hanging-lotus-bud](lambitāmbījakośāḍhyām) [I-bow-to](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1565
-[young](bālām) [Baka+enemy+to-be-meditated](bakārisandhyeyām) [I-bow](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[young-girl](bālām) [to-be-meditated-upon-at-twilight-by-the-enemy-of-Baka](bakārisandhyeyām) [I-bow-to](vande) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1566
-[enemy+destroying](śatrusaṃhāriṇīm) [pure](śuddhām) [I-take-refuge](śraye) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[destroyer-of-enemies](śatrusaṃhāriṇīm) [pure](śuddhām) [I-take-refuge-in](śraye) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1567
-[six+tastes+relishing](ṣaḍrasāsvādinīm) [gentle](saumyām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[relishing-the-six-tastes](ṣaḍrasāsvādinīm) [gentle](saumyām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1568
-[beautiful-women+group+served](sundarīgaṇasaṃsevyām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[served-by-hosts-of-beautiful-women](sundarīgaṇasaṃsevyām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1569
-[destroyer](hāriṇīm) [of-enemy+hosts](śatrusaṅghānām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[remover-of-hosts-of-enemies](hāriṇīm) [of-enemies](śatrusaṅghānām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1570
-[at-night+to-be-worshipped+lotus-feet](kṣaṇadeśejyapādābjām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
+[whose-lotus-feet-are-worshipped-at-night](kṣaṇadeśejyapādābjām) [I-serve](seve) [Dhūmāvatī](dhūmāvatīm) [I](aham)
 
 ## mukta-m0-p63-v1571
-[may-make](kṛtantu) [heart+hymn](hṛdayastotram) [of-Dhūmāvatī](dhūmāvatyāḥ) [good+accomplishment+giving](susiddhidam)
+[made](kṛtam) [indeed](tu) [heart-hymn](hṛdayastotram) [of-Dhūmāvatī](dhūmāvatyāḥ) [giver-of-great-accomplishment](susiddhidam)
 
 ## mukta-m0-p63-v1572
-[he](saḥ) [obtains](prāpnoti) [supreme](parām) [accomplishment](siddhim) [of-Dhūmāvatī](dhūmāvatyāḥ) [by-grace](prasādataḥ)
+[he](saḥ) [obtains](prāpnoti) [supreme](parām) [accomplishment](siddhim) [of-Dhūmāvatī](dhūmāvatyāḥ) [by-the-grace](prasādataḥ)
 
 ## mukta-m0-p63-v1573
-[that](tat) [all](sarvam) [obtains](samavāpnoti) [truth](satyam) [truth](satyam) [I-say](vadāmi) [I](aham)
+[that](tat) [all](sarvam) [he-obtains](samavāpnoti) [truth](satyam) [truth](satyam) [I-say](vadāmi) [I](aham)
 
 ## mukta-m0-p63-v1574
-[Dhūmrākṣa+slayer](dhūmrākṣamathinī) [blessed](dhanyā) [in-blessed+place+dwelling](dhanyasthānanivāsinī)
+[crusher-of-Dhūmrākṣa](dhūmrākṣamathinī) [blessed](dhanyā) [dwelling-in-a-blessed-place](dhanyasthānanivāsinī)
 
 ## mukta-m0-p63-v1575
-[in-Aghora+mantra+delighted](aghoramantrasamprītā) [by-Aghora+mantra+worshipped](aghoramantrapūjitā)
+[pleased-by-the-Aghora-mantra](aghoramantrasamprītā) [worshipped-by-the-Aghora-mantra](aghoramantrapūjitā)
