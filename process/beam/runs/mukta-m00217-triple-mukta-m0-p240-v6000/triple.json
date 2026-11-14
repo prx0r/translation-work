@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p240",
+ "items": [
+  {
+   "verse": 6000,
+   "rows": [
+    {
+     "surface": "smṛtvā",
+     "gloss": "having-remembered",
+     "grounds": "absolutive of smṛ 'to remember'",
+     "morph": "gerund(smṛ)"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "absolutive of pra-ṇam 'to bow down'",
+     "morph": "gerund(pra-ṇam)"
+    },
+    {
+     "surface": "visṛjet",
+     "gloss": "one-should-release",
+     "grounds": "optative of vi-sṛj 'to release, dismiss'",
+     "morph": "3.sg.act.opt(vi-sṛj)"
+    },
+    {
+     "surface": "maṇḍalānte",
+     "gloss": "at-mandala-end",
+     "grounds": "locative of compound maṇḍala-anta 'end of the mandala'",
+     "morph": "compound(maṇḍala+anta).m.loc.sg"
+    },
+    {
+     "surface": "divākaram",
+     "gloss": "the-sun",
+     "grounds": "accusative object, 'maker of day'",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "By what sequence of remembrance and reverence is the sun deity to be dismissed?",
+   "premises": [
+    "The worshipper first remembers the deity.",
+    "The worshipper then performs a bow of reverence.",
+    "The sun deity is released at the boundary of the mandala."
+   ],
+   "inference": "Remembrance and reverent bowing precede the formal dismissal of the sun deity.",
+   "uncertainties": [],
+   "plain_english": "Having remembered and bowed, one should release the sun at the edge of the mandala."
+  }
+ ]
+}

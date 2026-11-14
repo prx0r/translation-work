@@ -1,0 +1,1130 @@
+{
+ "song": "mukta-m0-p240",
+ "items": [
+  {
+   "verse": 5976,
+   "rows": [
+    {
+     "surface": "gāyatryā",
+     "gloss": "with-gayatri",
+     "grounds": "instrumental of the Gāyatrī mantra",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental of the root mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dadyād+arghyatrayaṃ",
+     "gloss": "should-give+three-offerings",
+     "grounds": "optative verb fused with object; sandhi at +",
+     "morph": "3.sg.act-opt √dā + n.acc.sg compound arghya-traya"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "subject, the discerning practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offerings must the wise practitioner give using the Gāyatrī and root mantras?",
+   "premises": [
+    "The wise practitioner acts after the preceding rite.",
+    "The Gāyatrī mantra is employed in the offering.",
+    "The root mantra is employed in the offering.",
+    "Three arghya offerings are to be given."
+   ],
+   "inference": "Therefore the wise practitioner should give three arghya offerings using both the Gāyatrī and the root mantra.",
+   "uncertainties": [],
+   "plain_english": "Then the wise practitioner should offer three arghyas with the Gāyatrī and with the root mantra."
+  },
+  {
+   "verse": 5977,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "prior action",
+     "morph": "gerund √jap"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatrīm",
+     "gloss": "gayatri",
+     "grounds": "object of chanting",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aṣṭāviṃśativārakam",
+     "gloss": "twenty-eight-times",
+     "grounds": "frequency of recitation",
+     "morph": "(indecl.) compound aṣṭāviṃśati-vāraka"
+    }
+   ],
+   "question": "How many times and in what manner must the Gāyatrī be chanted?",
+   "premises": [
+    "The Gāyatrī is the mantra to be chanted.",
+    "The chanting is performed threefold.",
+    "The total count is twenty-eight times."
+   ],
+   "inference": "Therefore the practitioner should chant the Gāyatrī threefold for a total of twenty-eight repetitions.",
+   "uncertainties": [
+    "The exact distribution of the twenty-eight repetitions across the threefold chanting is not specified."
+   ],
+   "plain_english": "And having chanted the Gāyatrī threefold, twenty-eight times in all."
+  },
+  {
+   "verse": 5978,
+   "rows": [
+    {
+     "surface": "samarpya",
+     "gloss": "having-offered",
+     "grounds": "prior action of dedication",
+     "morph": "gerund sam-√ṛ"
+    },
+    {
+     "surface": "tajjapaṃ",
+     "gloss": "that-recitation",
+     "grounds": "object, the japa just performed",
+     "morph": "m.acc.sg compound tad-japa"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devam",
+     "gloss": "deity",
+     "grounds": "object of dismissal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udvāsya",
+     "gloss": "having-dismissed",
+     "grounds": "ritual dismissal action",
+     "morph": "gerund ud-√vas"
+    },
+    {
+     "surface": "maṇḍalāt",
+     "gloss": "from-mandala",
+     "grounds": "place from which deity is dismissed",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What actions must the mantra practitioner perform after completing the recitation?",
+   "premises": [
+    "The mantra practitioner has completed the recitation.",
+    "That recitation is to be offered.",
+    "The deity is present in the maṇḍala.",
+    "The deity is to be dismissed from the maṇḍala."
+   ],
+   "inference": "Therefore the mantra practitioner should offer the recitation and then dismiss the deity from the maṇḍala.",
+   "uncertainties": [],
+   "plain_english": "Having offered that recitation, the mantra practitioner should dismiss the deity from the maṇḍala."
+  },
+  {
+   "verse": 5979,
+   "rows": [
+    {
+     "surface": "dīkṣitaḥ",
+     "gloss": "initiated-one",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight-rite",
+     "grounds": "object lacking",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hīno",
+     "gloss": "devoid",
+     "grounds": "state of lacking",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣāphalam",
+     "gloss": "initiation-fruit",
+     "grounds": "object not attained",
+     "morph": "n.acc.sg compound dīkṣā-phala"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "attains",
+     "grounds": "main verb",
+     "morph": "3.sg.mid-pres √aś"
+    }
+   ],
+   "question": "What consequence follows for an initiated person who neglects the twilight rite?",
+   "premises": [
+    "The subject is an initiated person.",
+    "Being without the twilight rite is a deficient state.",
+    "The fruit of initiation is the desired attainment."
+   ],
+   "inference": "Therefore an initiated person who is without the twilight rite does not attain the fruit of initiation.",
+   "uncertainties": [],
+   "plain_english": "An initiated person who neglects the twilight rite does not obtain the fruit of initiation."
+  },
+  {
+   "verse": 5980,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "prior action",
+     "morph": "gerund vi-√dhā"
+    },
+    {
+     "surface": "uttarasandhyāyāḥ",
+     "gloss": "of-evening-twilight",
+     "grounds": "genitive specifying the rite",
+     "morph": "f.gen.sg compound uttara-sandhyā"
+    },
+    {
+     "surface": "kriyāṃ",
+     "gloss": "rite",
+     "grounds": "object performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "atandritaḥ",
+     "gloss": "unwearied",
+     "grounds": "manner or state of practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In what state must the practitioner perform the evening twilight rite?",
+   "premises": [
+    "The evening twilight rite is to be performed.",
+    "The practitioner must act without weariness.",
+    "The rite is an obligatory action."
+   ],
+   "inference": "Therefore the practitioner should perform the evening twilight rite unwearied.",
+   "uncertainties": [],
+   "plain_english": "Having undertaken the evening twilight rite, one should perform it unwearied."
+  },
+  {
+   "verse": 5981,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśatāvṛttyā",
+     "gloss": "by-hundred-eight-repetitions",
+     "grounds": "instrumental indicating count",
+     "morph": "f.inst.sg compound aṣṭottara-śata-āvṛtti"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt caus. √tṛp"
+    },
+    {
+     "surface": "mūlamantrataḥ",
+     "gloss": "with-root-mantra",
+     "grounds": "means of satisfaction",
+     "morph": "(indecl.) compound mūla-mantra + -tas"
+    }
+   ],
+   "question": "How should the practitioner perform satisfaction using the root mantra?",
+   "premises": [
+    "Satisfaction is to be performed.",
+    "The root mantra is the means.",
+    "The repetition count is one hundred and eight."
+   ],
+   "inference": "Therefore the practitioner should perform satisfaction with the root mantra one hundred and eight times.",
+   "uncertainties": [],
+   "plain_english": "One should perform satisfaction with the root mantra one hundred and eight times."
+  },
+  {
+   "verse": 5982,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadaṅgāvaraṇadevatāḥ",
+     "gloss": "its-limb-enclosure-deities",
+     "grounds": "object deities to be satisfied",
+     "morph": "f.acc.pl compound tad-aṅga-āvaraṇa-devatā"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt caus. √tṛp"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "manner of procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order must the limb and enclosure deities be satisfied?",
+   "premises": [
+    "The limb and enclosure deities are associated with the main deity.",
+    "These deities are to be satisfied.",
+    "The procedure must follow a sequence."
+   ],
+   "inference": "Therefore the practitioner should satisfy the limb and enclosure deities in due order.",
+   "uncertainties": [],
+   "plain_english": "Then one should satisfy its limb and enclosure deities in proper order."
+  },
+  {
+   "verse": 5983,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior action",
+     "morph": "gerund sam-√pūj"
+    },
+    {
+     "surface": "deveśaṃ",
+     "gloss": "lord-of-deities",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg compound deva-īśa"
+    },
+    {
+     "surface": "sāṅgāvaraṇakaṃ",
+     "gloss": "with-limbs-and-enclosures",
+     "grounds": "accompaniment of the deity",
+     "morph": "m.acc.sg compound sa-aṅga-āvaraṇaka"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What worship must be performed again before proceeding to the next stage?",
+   "premises": [
+    "The lord of deities is the object of worship.",
+    "The deity is worshipped together with limbs and enclosures.",
+    "This worship is performed again."
+   ],
+   "inference": "Therefore the practitioner should again worship the lord of deities together with the limbs and enclosures.",
+   "uncertainties": [],
+   "plain_english": "Then, having again worshipped the lord of deities together with the limbs and enclosures."
+  },
+  {
+   "verse": 5984,
+   "rows": [
+    {
+     "surface": "ekāntaṃ",
+     "gloss": "to-secluded-place",
+     "grounds": "destination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nirjanaṃ",
+     "gloss": "unpeopled",
+     "grounds": "quality of place",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāyāt",
+     "gloss": "should-go",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt √yā"
+    },
+    {
+     "surface": "manojñaṃ",
+     "gloss": "pleasing",
+     "grounds": "quality of place",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "doṣavarjitam",
+     "gloss": "free-from-faults",
+     "grounds": "quality of place",
+     "morph": "m.acc.sg compound doṣa-varjita"
+    }
+   ],
+   "question": "What qualities must the place have to which the practitioner should go?",
+   "premises": [
+    "The practitioner must go to another place.",
+    "The place should be secluded and unpeopled.",
+    "The place should be pleasing and free from faults."
+   ],
+   "inference": "Therefore the practitioner should go to a secluded, unpeopled, pleasing, and faultless place.",
+   "uncertainties": [],
+   "plain_english": "One should go to a secluded, lonely, pleasing, and faultless place."
+  },
+  {
+   "verse": 5985,
+   "rows": [
+    {
+     "surface": "digantaraṃ",
+     "gloss": "other-direction",
+     "grounds": "object not to be looked at",
+     "morph": "n.acc.sg compound diś-antara"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīkṣeta",
+     "gloss": "should-look",
+     "grounds": "prohibited action",
+     "morph": "3.sg.act-opt vi-√īkṣ"
+    },
+    {
+     "surface": "maunī",
+     "gloss": "silent",
+     "grounds": "state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃruddhalocanaḥ",
+     "gloss": "with-restrained-eyes",
+     "grounds": "state of practitioner",
+     "morph": "m.nom.sg compound saṃruddha-locana"
+    }
+   ],
+   "question": "What conduct must the practitioner maintain while going to the secluded place?",
+   "premises": [
+    "The practitioner is moving to a secluded place.",
+    "Looking in other directions is to be avoided.",
+    "Silence and restrained eyes are required."
+   ],
+   "inference": "Therefore the practitioner should remain silent, keep the eyes restrained, and not look in other directions.",
+   "uncertainties": [],
+   "plain_english": "Silent and with eyes restrained, one should not look in other directions."
+  },
+  {
+   "verse": 5986,
+   "rows": [
+    {
+     "surface": "prāpya",
+     "gloss": "having-reached",
+     "grounds": "prior action",
+     "morph": "gerund pra-√āp"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "hands",
+     "grounds": "object washed",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "object washed",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "purificatory action",
+     "morph": "gerund pra-√kṣal"
+    },
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped",
+     "grounds": "purificatory action",
+     "morph": "gerund ā-√cam"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purificatory actions must be performed carefully upon reaching the place?",
+   "premises": [
+    "The practitioner has reached the designated place.",
+    "Hands and feet require washing.",
+    "Sipping water is a purificatory act.",
+    "These acts must be done carefully."
+   ],
+   "inference": "Therefore, upon reaching the place, the practitioner should carefully wash hands and feet and perform sipping.",
+   "uncertainties": [],
+   "plain_english": "Having reached the place, one should carefully wash the hands and feet and sip water."
+  },
+  {
+   "verse": 5987,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāvedyāḥ",
+     "gloss": "of-worship-altar",
+     "grounds": "reference point",
+     "morph": "f.gen.sg compound pūjā-vedī"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "prior action",
+     "morph": "gerund √sthā"
+    },
+    {
+     "surface": "cuturhastāntare",
+     "gloss": "at-four-cubits-distance",
+     "grounds": "specific distance",
+     "morph": "n.loc.sg compound catur-hasta-antara"
+    },
+    {
+     "surface": "dhiyā",
+     "gloss": "with-mind",
+     "grounds": "mental focus",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Where must the practitioner stand with focused mind before the next act?",
+   "premises": [
+    "The worship altar is the reference point.",
+    "The position is outside the altar.",
+    "The distance is four cubits away.",
+    "The stance is taken with mental focus."
+   ],
+   "inference": "Therefore the practitioner should stand with focused mind outside the worship altar at a distance of four cubits.",
+   "uncertainties": [],
+   "plain_english": "Standing outside the worship altar at a distance of four cubits, with focused mind."
+  },
+  {
+   "verse": 5988,
+   "rows": [
+    {
+     "surface": "praṇamet",
+     "gloss": "should-bow",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt pra-√nam"
+    },
+    {
+     "surface": "iṣṭadevaṃ",
+     "gloss": "chosen-deity",
+     "grounds": "primary object of bowing",
+     "morph": "m.acc.sg compound iṣṭa-deva"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "possessive qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dikpālān",
+     "gloss": "direction-guardians",
+     "grounds": "additional objects of bowing",
+     "morph": "m.acc.pl compound diś-pāla"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetasā",
+     "gloss": "with-mind",
+     "grounds": "mental mode of bowing",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "To whom must the practitioner bow mentally from that position?",
+   "premises": [
+    "The practitioner is in the prescribed position.",
+    "The chosen deity is the primary recipient of reverence.",
+    "The guardians of the directions are also included.",
+    "The bowing is performed mentally."
+   ],
+   "inference": "Therefore the practitioner should bow mentally to one's own chosen deity and also to the guardians of the directions.",
+   "uncertainties": [],
+   "plain_english": "One should bow mentally to one's own chosen deity and also to the guardians of the directions."
+  },
+  {
+   "verse": 5989,
+   "rows": [
+    {
+     "surface": "prāyaścitter",
+     "gloss": "of-expiation",
+     "grounds": "ablative context",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apanudet",
+     "gloss": "removes",
+     "grounds": "action not occurring",
+     "morph": "3.sg.act-opt apa-√nud"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "object of remembrance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt √smṛ"
+    },
+    {
+     "surface": "dhiyā",
+     "gloss": "with-mind",
+     "grounds": "mental mode",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What mental act regarding sin is prescribed when expiation does not remove it?",
+   "premises": [
+    "Expiation may fail to remove sin.",
+    "Sin remains present in that case.",
+    "Mental remembrance is prescribed."
+   ],
+   "inference": "Therefore, if expiation does not remove the sin, one should remember that sin mentally.",
+   "uncertainties": [
+    "The syntax linking expiation and remembrance is somewhat compressed."
+   ],
+   "plain_english": "If expiation does not remove it, one should then remember the sin with the mind."
+  },
+  {
+   "verse": 5990,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "subjunctive condition",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "dṛḍhataraṃ",
+     "gloss": "more-firm",
+     "grounds": "comparative quality of sin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "correlative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dūre",
+     "gloss": "far-away",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "avatiṣṭhate",
+     "gloss": "remains",
+     "grounds": "main verb",
+     "morph": "3.sg.mid-pres ava-√sthā"
+    }
+   ],
+   "question": "What happens to sin that is more firmly established when remembered?",
+   "premises": [
+    "Some sins are more firmly established than others.",
+    "Such a sin is the subject under consideration.",
+    "Its resulting state is described as remaining far away."
+   ],
+   "inference": "Therefore sin that is more firmly established remains far away.",
+   "uncertainties": [
+    "Whether 'far away' means distant from removal or distanced from the practitioner is ambiguous."
+   ],
+   "plain_english": "Whatever sin is more firmly established remains far away."
+  },
+  {
+   "verse": 5991,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "subjunctive condition",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "alpataraṃ",
+     "gloss": "more-small",
+     "grounds": "comparative quality of sin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "correlative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "result attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "upagacchati",
+     "gloss": "goes-to",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres upa-√gam"
+    }
+   ],
+   "question": "What happens to sin that is comparatively lesser when remembered?",
+   "premises": [
+    "Some sins are comparatively lesser.",
+    "Such a sin is the subject under consideration.",
+    "Its resulting state is described as going to destruction."
+   ],
+   "inference": "Therefore sin that is comparatively lesser goes to destruction.",
+   "uncertainties": [],
+   "plain_english": "Whatever sin is comparatively lesser goes to destruction."
+  },
+  {
+   "verse": 5992,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "offering",
+     "grounds": "object to be given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dineśāya",
+     "gloss": "to-lord-of-day",
+     "grounds": "recipient deity, the Sun",
+     "morph": "m.dat.sg compound dina-īśa"
+    },
+    {
+     "surface": "tatprakāram",
+     "gloss": "its-manner",
+     "grounds": "topic to be explained",
+     "morph": "m.acc.sg compound tad-prakāra"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative marker in text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "textual announcement",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What offering to the Sun is introduced as the next topic of instruction?",
+   "premises": [
+    "An offering is to be given to the lord of the day.",
+    "The manner of this offering requires explanation.",
+    "The text announces that this manner will be stated."
+   ],
+   "inference": "Therefore one should give an arghya offering to the Sun, and its manner is now stated.",
+   "uncertainties": [],
+   "plain_english": "One should give an arghya offering to the Sun; its manner is stated here."
+  },
+  {
+   "verse": 5993,
+   "rows": [
+    {
+     "surface": "sindūreṇa",
+     "gloss": "with-vermilion",
+     "grounds": "substance used",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upaviśya",
+     "gloss": "having-sat",
+     "grounds": "prior action",
+     "morph": "gerund upa-√viś"
+    },
+    {
+     "surface": "nijāsane",
+     "gloss": "on-own-seat",
+     "grounds": "location",
+     "morph": "n.loc.sg compound nija-āsana"
+    }
+   ],
+   "question": "What preparatory actions precede the Sun offering ritual sequence?",
+   "premises": [
+    "Vermilion is involved in the preparation.",
+    "The practitioner must sit down.",
+    "The sitting is on one's own seat."
+   ],
+   "inference": "Therefore, using vermilion, the practitioner should then sit down on one's own seat.",
+   "uncertainties": [
+    "The exact ritual use of vermilion in this step is not fully specified."
+   ],
+   "plain_english": "Then, with vermilion, one should sit down on one's own seat."
+  },
+  {
+   "verse": 5994,
+   "rows": [
+    {
+     "surface": "prāṇāyāmatrayaṃ",
+     "gloss": "three-breath-controls",
+     "grounds": "object of action",
+     "morph": "n.acc.sg compound prāṇāyāma-traya"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "sūryamantreṇa",
+     "gloss": "with-sun-mantra",
+     "grounds": "mantra used",
+     "morph": "m.inst.sg compound sūrya-mantra"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "subject",
+     "morph": "m.nom.sg compound mantra-vid"
+    }
+   ],
+   "question": "What breath practice must the mantra knower perform with the Sun mantra?",
+   "premises": [
+    "The practitioner is a knower of mantras.",
+    "Breath control is required.",
+    "Three breath controls are to be performed with the Sun mantra."
+   ],
+   "inference": "Therefore the mantra knower should perform three breath controls with the Sun mantra.",
+   "uncertainties": [],
+   "plain_english": "The knower of mantras should perform three breath controls with the Sun mantra."
+  },
+  {
+   "verse": 5995,
+   "rows": [
+    {
+     "surface": "tatkalpoktavidhānena",
+     "gloss": "by-method-stated-in-that-rite",
+     "grounds": "procedural authority",
+     "morph": "n.inst.sg compound tad-kalpa-ukta-vidhāna"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt √pūj"
+    },
+    {
+     "surface": "upacārakaiḥ",
+     "gloss": "with-services",
+     "grounds": "means of worship",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "According to what method and means must the Sun be worshipped?",
+   "premises": [
+    "Worship is to be performed.",
+    "The method is that stated in the relevant ritual procedure.",
+    "The worship is carried out with ritual services."
+   ],
+   "inference": "Therefore one should worship according to the method stated in that rite, using the prescribed services.",
+   "uncertainties": [
+    "The specific kalpa text referred to is not identified here."
+   ],
+   "plain_english": "One should worship with the prescribed services according to the method stated in that ritual procedure."
+  },
+  {
+   "verse": 5996,
+   "rows": [
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "gerund ni-√dhā"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhāraṃ",
+     "gloss": "support",
+     "grounds": "base or stand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sajalaṃ",
+     "gloss": "with-water",
+     "grounds": "quality of vessel",
+     "morph": "n.acc.sg compound sa-jala"
+    },
+    {
+     "surface": "tāmrapātrakam",
+     "gloss": "copper-vessel",
+     "grounds": "object placed",
+     "morph": "n.acc.sg compound tāmra-pātraka"
+    }
+   ],
+   "question": "What vessel must be placed on a support as part of the Sun offering?",
+   "premises": [
+    "A placement action is required.",
+    "A support is used.",
+    "A copper vessel containing water is the object."
+   ],
+   "inference": "Therefore one should place a copper vessel filled with water on a support there.",
+   "uncertainties": [],
+   "plain_english": "There one should place a copper vessel filled with water on a support."
+  },
+  {
+   "verse": 5997,
+   "rows": [
+    {
+     "surface": "satilān",
+     "gloss": "with-sesame",
+     "grounds": "contents added",
+     "morph": "n.acc.pl compound sa-tila"
+    },
+    {
+     "surface": "raktapuṣpāṇi",
+     "gloss": "red-flowers",
+     "grounds": "contents added",
+     "morph": "n.acc.pl compound rakta-puṣpa"
+    },
+    {
+     "surface": "dūrvāś",
+     "gloss": "durva-grass",
+     "grounds": "contents added; final visarga sandhi form",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "should-arrange",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt pra-vi-ni-√as"
+    }
+   ],
+   "question": "What substances must be arranged in the prepared vessel for the offering?",
+   "premises": [
+    "The vessel has been prepared.",
+    "Sesame seeds are to be added.",
+    "Red flowers and durva grass are to be added."
+   ],
+   "inference": "Therefore one should arrange sesame seeds, red flowers, and durva grass in the vessel.",
+   "uncertainties": [],
+   "plain_english": "One should place sesame seeds, red flowers, and durva grass into it."
+  },
+  {
+   "verse": 5998,
+   "rows": [
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "prior ritual action",
+     "morph": "gerund abhi-√mantr"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpātraṃ",
+     "gloss": "that-vessel",
+     "grounds": "object consecrated and raised",
+     "morph": "n.acc.sg compound tad-pātra"
+    },
+    {
+     "surface": "samutthāpya",
+     "gloss": "having-raised",
+     "grounds": "prior physical action",
+     "morph": "gerund sam-ut-√sthā caus."
+    },
+    {
+     "surface": "karadvayāt",
+     "gloss": "with-both-hands",
+     "grounds": "instrumental means",
+     "morph": "n.abl.sg compound kara-dvaya"
+    }
+   ],
+   "question": "What actions must be performed on the vessel before reciting the mantra?",
+   "premises": [
+    "The vessel has been prepared with offerings.",
+    "The vessel must be consecrated by mantra.",
+    "The vessel must be raised with both hands."
+   ],
+   "inference": "Therefore one should consecrate that vessel and raise it with both hands.",
+   "uncertainties": [],
+   "plain_english": "Having consecrated that vessel, one should raise it with both hands."
+  },
+  {
+   "verse": 5999,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "main injunction",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-ability",
+     "grounds": "measure of recitation",
+     "morph": "(indecl.) compound yathā-śakti"
+    },
+    {
+     "surface": "sūryamantram",
+     "gloss": "sun-mantra",
+     "grounds": "object of chanting",
+     "morph": "m.acc.sg compound sūrya-mantra"
+    },
+    {
+     "surface": "ananyadhīḥ",
+     "gloss": "single-minded",
+     "grounds": "mental state of practitioner",
+     "morph": "m.nom.sg compound ananya-dhī"
+    }
+   ],
+   "question": "How must the practitioner chant the Sun mantra while holding the vessel?",
+   "premises": [
+    "The Sun mantra is to be chanted.",
+    "The chanting is done according to one's ability.",
+    "The practitioner must be single-minded."
+   ],
+   "inference": "Therefore the practitioner should chant the Sun mantra according to ability with single-minded focus.",
+   "uncertainties": [],
+   "plain_english": "Then, single-minded, one should chant the Sun mantra according to one's ability."
+  }
+ ]
+}

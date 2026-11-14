@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p240",
  "verse": 5989,
- "question": "What accompanying figures or activities may be included in the depiction as desired?",
+ "question": "What mental act regarding sin is prescribed when expiation does not remove it?",
  "premises": [
-  "Singers may be included.",
-  "Dancers may be included.",
-  "Worshippers or other desired figures may be included."
+  "Expiation may fail to remove sin.",
+  "Sin remains present in that case.",
+  "Mental remembrance is prescribed."
  ],
- "inference": "The depiction may include singers, dancers, worshippers, or other figures as desired.",
- "uncertainties": [],
- "plain_english": "There may be singers, dancers, worshippers, or whatever else is desired."
+ "inference": "Therefore, if expiation does not remove the sin, one should remember that sin mentally.",
+ "uncertainties": [
+  "The syntax linking expiation and remembrance is somewhat compressed."
+ ],
+ "plain_english": "If expiation does not remove it, one should then remember the sin with the mind."
 }

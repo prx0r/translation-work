@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p241",
  "verse": 6016,
- "question": "What daily devotional activities characterize the person described here?",
+ "question": "What action should be taken inside the pavilion after uttering the weapon mantra?",
  "premises": [
-  "Daily practice is indicated.",
-  "Offerings and worship are included.",
-  "The person is devoted to these activities."
+  "The weapon mantra is uttered.",
+  "The destination is inside the pavilion.",
+  "Casting or throwing is prescribed."
  ],
- "inference": "The person is devoted every day to offerings, worship, and similar acts.",
- "uncertainties": [],
- "plain_english": "And every day devoted to offerings, worship, and so forth."
+ "inference": "After uttering the weapon mantra, one should cast the consecrated substances inside the pavilion.",
+ "uncertainties": [
+  "The object to be cast is implied from the previous verses."
+ ],
+ "plain_english": "Having uttered the weapon mantra, one should cast them inside the pavilion."
 }

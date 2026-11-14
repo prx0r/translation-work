@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p242",
+ "items": [
+  {
+   "verse": 6050,
+   "rows": [
+    {
+     "surface": "prāntādir",
+     "gloss": "beginning-with-peripheral",
+     "grounds": "bahuvrīhi/compound adjective describing the syllable; nominative singular masculine",
+     "morph": "compound: prānta+ādi, m.nom.sg"
+    },
+    {
+     "surface": "vāsudevānta",
+     "gloss": "ending-with-vāsudeva",
+     "grounds": "bahuvrīhi/compound adjective describing the syllable; nominative singular masculine",
+     "morph": "compound: vāsudeva+anta, m.nom.sg"
+    },
+    {
+     "surface": "varṇena",
+     "gloss": "with-syllable",
+     "grounds": "instrumental singular of varṇa, the letter or seed-syllable",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion or addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca saṃhataḥ",
+     "gloss": "and joined",
+     "grounds": "conjunction with past passive participle indicating conjunction or combination",
+     "morph": "ca (indecl.) + saṃhataḥ m.nom.sg (ppp, sam-√han)"
+    }
+   ],
+   "question": "What syllable, bounded by prānta at its beginning and vāsudeva at its end, is additionally conjoined in this formation?",
+   "premises": [
+    "The syllable begins with prānta.",
+    "The syllable ends with vāsudeva.",
+    "This syllable is also joined in combination."
+   ],
+   "inference": "A syllable defined by these initial and final elements is included as a conjoined component in the described formation.",
+   "uncertainties": [
+    "The precise phonetic identity of prānta and vāsudeva as syllabic markers depends on the specific mantra code of this witness."
+   ],
+   "plain_english": "The syllable that begins with prānta and ends with vāsudeva is also joined together in this formation."
+  }
+ ]
+}

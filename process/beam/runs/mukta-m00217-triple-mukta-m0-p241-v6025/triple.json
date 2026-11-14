@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p241",
+ "items": [
+  {
+   "verse": 6025,
+   "rows": [
+    {
+     "surface": "ādhāraśaktim",
+     "gloss": "foundation-power",
+     "grounds": "object of installation; the supporting power serving as the starting point",
+     "morph": "f.acc.sg (compound: ādhāra+śakti)"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-with",
+     "grounds": "indicates the sequence starting from the foundation-power",
+     "morph": "(indecl., absolutive, ā-√rabh)"
+    },
+    {
+     "surface": "svāsanam",
+     "gloss": "own-seat",
+     "grounds": "object to be placed; the practitioner's designated seat",
+     "morph": "n.acc.sg (compound: sva+āsana)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the previously prepared seat-place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "prescribes the ritual act of installing the seat",
+     "morph": "3.sg.act.optative (vi-ni-√as)"
+    }
+   ],
+   "question": "From which foundational power must the practitioner install the designated seat in the prepared place?",
+   "premises": [
+    "The seat-place has already been ritually prepared in the preceding steps.",
+    "The installation is prescribed to begin with the foundation-power.",
+    "The practitioner's own seat is to be placed in that prepared location."
+   ],
+   "inference": "Therefore, the practitioner should install the designated seat there by starting the placement sequence from the foundation-power.",
+   "uncertainties": [
+    "The specific identity or form of ādhāraśakti in this ritual context is not specified in this verse."
+   ],
+   "plain_english": "Beginning with the foundation-power, one should place one's own seat there."
+  }
+ ]
+}
