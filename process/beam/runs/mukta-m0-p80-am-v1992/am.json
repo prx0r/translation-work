@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p80",
  "verse": 1992,
- "question": "Does birth impurity apply within the context of left-hand ritual practice?",
+ "question": "What measurements are prescribed for the forearm end and arm breadth?",
  "premises": [
-  "The context is left-hand practice.",
-  "Birth impurity is considered.",
-  "The text negates its applicability."
+  "A measure is given up to the forearm end",
+  "That measure is two fingers",
+  "The arm breadth is three units"
  ],
- "inference": "In left-hand practice, birth impurity does not apply.",
- "uncertainties": [],
- "plain_english": "In left-hand practice, there is no birth impurity."
+ "inference": "The measure up to the forearm end is two fingers and the arm breadth is three units.",
+ "uncertainties": [
+  "ṣaḍardhakam interpreted as half of six, i.e. three"
+ ],
+ "plain_english": "Up to the end of the forearm it should be two fingers, and the breadth of the arm should be three."
 }

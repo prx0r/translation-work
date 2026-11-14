@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p80",
  "verse": 1985,
- "question": "On what supports should the daily worship be performed by the healthy practitioner?",
+ "question": "What proportional measures are prescribed for thigh and knee length?",
  "premises": [
-  "The daily worship is obligatory.",
-  "An altar is a possible support.",
-  "Images are also possible supports."
+  "The thigh has a prescribed measure",
+  "The thigh measure is six parts",
+  "The knee length is three fingers"
  ],
- "inference": "The daily worship should be performed on an altar and in images.",
- "uncertainties": [],
- "plain_english": "It should be performed on an altar and in images."
+ "inference": "The thigh should measure six parts and the knee length should be three fingers.",
+ "uncertainties": [
+  "guṇāṃgulam interpreted as three fingers based on common usage of guṇa"
+ ],
+ "plain_english": "The thigh should be six parts in measure, and the knee length should be three fingers."
 }

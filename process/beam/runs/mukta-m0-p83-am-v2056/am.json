@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p83",
  "verse": 2056,
- "question": "Who must perform the fire-offering rite and with whose assistance?",
+ "question": "Who stands at the sides of this Yama-like figure and how do they resemble him?",
  "premises": [
-  "The ācārya is the designated officiant.",
-  "The image guardians participate in the rite.",
-  "The fire-offering rite is the prescribed action."
+  "Two figures stand at his sides.",
+  "They resemble him in beard and face."
  ],
- "inference": "The ācārya, together with the image guardians, should perform the fire-offering rite.",
- "uncertainties": [],
- "plain_english": "The ācārya, together with the guardians of the images, should perform the fire-offering rite."
+ "inference": "Two attendants standing at his sides share his beard and facial appearance.",
+ "uncertainties": [
+  "The internal segmentation of tamivaśmaśruvaktrakau is interpretive but the surface is kept intact."
+ ],
+ "plain_english": "Standing at his sides are two figures who resemble him, with beards and faces like his."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[or](athavā) [sport+bud-etc](kelikuñcādi) [image-etc](pratimāsādi) [*](* ) [*](* ) [*](*)
+[or](athavā) [sport+bud+etc.](kelikuñcādi) [image+etc.](pratimāsādi) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p30-v727
 [initiated](dīkṣitāṃ) [deity+devoted](devatābhaktāṃ) [compassion+shame+devoid](ghṛṇālajjāvivarjitām)
 
 ## mukta-m0-p30-v728
-[in-her](tasyāṃ) [placement-etc](nyāsādikaṃ) [having-done](kṛtvā) [desire+moon+digit-etc](kāmasomakalādikān)
+[in-her](tasyāṃ) [placement+etc.](nyāsādikaṃ) [having-done](kṛtvā) [desire+moon+digit+etc.](kāmasomakalādikān)
 
 ## mukta-m0-p30-v729
-[touch](sparśaṃ) [having-done](kṛtvā) [recitation](japaṃ) [one-should-do](kuryād) [*](* ) [*](* ) [*](* ) [from-worship](pūjanād) [it-should-be](bhavet)
+[touch](sparśaṃ) [having-done](kṛtvā) [recitation](japaṃ) [one-should-do](kuryād) [*](*) [*](*) [*](*) [from-worship+should-be](pūjanādbhavet)
 
 ## mukta-m0-p30-v730
-[in-worship+completion](pūjāsamāptau) [O-goddess](deveśi) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](*)
+[worship+completion](pūjāsamāptau) [o-goddess-lord](deveśi) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p30-v731
-[worship](pūjāṃ) [know](jānīhi) [O-goddess](deveśi) [by-those-two+said](tayoktaṃ) [union](yogam) [one-should-practice](ācaret)
+[worship](pūjāṃ) [know](jānīhi) [o-goddess-lord](deveśi) [by-her+said](tayoktaṃ) [yoga+one-should-practice](yogamācaret)
 
 ## mukta-m0-p30-v732
-[that+all](tatsarvaṃ) [licking](pralihan) [O-goddess](devi) [recitation](japaṃ) [one-should-do](kuryād) [with-joyful-mind](nandadhiḥ)
+[that+all](tatsarvaṃ) [licking](pralihan) [o-goddess](devi) [recitation](japaṃ) [one-should-do+with-bliss](kuryādnandadhiḥ)
 
 ## mukta-m0-p30-v733
-[of-twice-born](dvijānāṃ) [feeding](bhojanaṃ) [and](ca) [indeed](eva) [always](sarvadā) [where](yatra) [one-stays](tiṣṭhati)
+[of-twice-born](dvijānāṃ) [feeding](bhojanaṃ) [and+indeed](caiva) [always](sarvadā) [where](yatra) [it-remains](tiṣṭhati)
 
 ## mukta-m0-p30-v734
-[entry](praveśanaṃ) [oblation+rite](homakarma) [libation](tarpaṇaṃ) [*](* ) [*](* ) [*](* ) [it-should-be](bhavet)
+[entry](praveśanaṃ) [oblation+rite](homakarma) [libation](tarpaṇaṃ) [*](*) [*](*) [*](*) [should-be](bhavet)
 
 ## mukta-m0-p30-v735
 [of-such+kind](īdṛgvidhaṃ) [great+seat](mahāpīṭhaṃ) [self-born+named](svayambhūsaṃjñakaṃ) [supreme](param)
 
 ## mukta-m0-p30-v736
-[by-themselves](svayam) [having-come](āgatya) [servitude](dāsatvaṃ) [they-do](kurvanti) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
+[self+having-come](svayamāgatya) [servant+state](dāsatvaṃ) [they-do+indeed](kurvantyeva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p30-v737
-[done](kṛtā) [by-whom](yena) [O-great-goddess](maheśāni) [that+equal](tattulyaṃ) [in-a-moment](nimiṣāt) [it-should-be](bhavet)
+[done](kṛtā) [by-whom](yena) [o-great-goddess](maheśāni) [that+equal](tattulyaṃ) [in-a-moment+should-be](nimiṣādbhavet)
 
 ## mukta-m0-p30-v738
-[three+thousand](trisahasraṃ) [veda+hundred](vedaśataṃ) [six+fifty](ṣaṭpañcāśat) [and](tu) [proclaimed](kīrtitam)
+[three+thousand](trisahasraṃ) [veda+hundred](vedaśataṃ) [six+fifty+and](ṣaṭpañcāśattu) [declared](kīrtitam)
 
 ## mukta-m0-p30-v739
-[two+hundred](dviśataṃ) [five+number](paṃcasaṃkhyaṃ) [and](tu) [nāyikā+group](nāyikākulam) [declared](īritam)
+[two+hundred](dviśataṃ) [five+number](paṃcasaṃkhyaṃ) [and](tu) [nāyikā+family+declared](nāyikākulamīritam)
 
 ## mukta-m0-p30-v740
-[in-a-year](varṣāt) [king](bhūpaḥ) [he-becomes](bhavati) [he](saḥ) [indeed](hi) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
+[from-year+king](varṣādbhūpo) [becomes+he+indeed](bhavetsohi) [not+here](nātra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p30-v741
-[now](atha) [I-shall-speak](vakṣye) [O-great-goddess](maheśāni) [youth+sprout](yauvanāṅkuram) [from-the-beginning](āditaḥ)
+[now](atha) [i-shall-speak](vakṣye) [o-great-goddess](maheśāni) [youth+sprout+from-beginning](yauvanāṅkuramāditaḥ)
 
 ## mukta-m0-p30-v742
-[in-divine+and-non-divine](divyādivye) [and](ca) [in-that+pair](taddvaye) [by-citriṇī-etc+sequence](citriṇyādikrameṇa) [and](ca)
+[divine+non-divine](divyādivye) [and](ca) [that+pair](taddvaye) [citriṇī+etc.+in-order](citriṇyādikrameṇa) [and](ca)
 
 ## mukta-m0-p30-v743
-[cities](purī) [forests](vanāni) [villages](grāmāḥ) [and](ca) [islands](dvīpāḥ) [and](ca) [indeed](eva) [in-sequence](krameṇa) [and](ca)
+[cities](purī) [forests](vanāni) [villages+and](grāmāśca) [islands+and+indeed](dvīpāścaiva) [in-order](krameṇa) [and](ca)
 
 ## mukta-m0-p30-v744
-[likewise](tathā) [river-etc](nadyādi) [O-goddess](deveśi) [country+synonym+holy-place](deśaparyāyatīrthakam)
+[likewise](tathā) [river+etc.](nadyādi) [o-goddess-lord](deveśi) [country+region+holy-place](deśaparyāyatīrthakam)
 
 ## mukta-m0-p30-v745
-[sundarī+seat+division](sundarīpīṭhabhedaṃ) [and](ca) [forests](vanāni) [gardens](vāṭikāḥ) [likewise](tathā)
+[sundarī+seat+division](sundarīpīṭhabhedaṃ) [and](ca) [forests](vanāni) [gardens+likewise](vāṭikāstathā)
 
 ## mukta-m0-p30-v746
-[four](catvāraḥ) [nāyikās](nāyikāḥ) [O-goddess](devi) [by-reversal](vyatyayāt) [expressive](pratavācakāḥ)
+[four](catvāro) [nāyikās](nāyikā) [o-goddess](devi) [by-reversal+expressing](vyatyayāṃtpratavācakāḥ)
 
 ## mukta-m0-p30-v747
-[of-universes](brahmāṇḍānām) [endless](anantaṃ) [and](ca) [in-woman+body](strīdehe) [clear](sphuṭam) [indeed](eva) [and](ca)
+[of-universes+infinite](brahmāṇḍānāmanantaṃ) [and](ca) [woman+body](strīdehe) [clear+indeed](sphuṭameva) [and](ca)
 
 ## mukta-m0-p30-v748
-[by-that+form+worship](tadrūpapūjanāt) [O-goddess](devi) [worshipped](pūjitāḥ) [all+women](sarvayoṣitaḥ)
+[that+form+worship+from](tadrūpapūjanāddevi) [worshipped](pūjitāḥ) [all+women](sarvayoṣitaḥ)
 
 ## mukta-m0-p30-v749
-[according-to-fitness+place+seat](yathāyogyasthānapīṭhe) [they-dwell](nivasaṃti) [indeed](eva) [O-Pārvatī](pārvati)
+[as+appropriate+place+seat](yathāyogyasthānapīṭhe) [they-dwell+indeed](nivasaṃtyeva) [o-pārvatī](pārvati)
 
 ## mukta-m0-p30-v750
-[previously+said](pūrvoktam) [here](atra) [of-beasts](paśūnāṃ) [of-divine-beings](divyānām) [this](etat) [indeed](eva) [and](tu)
+[previously+said+here](pūrvoktamatra) [of-pashus](paśūnāṃ) [of-divine-ones+this+indeed](divyānāmetadeva) [and](tu)

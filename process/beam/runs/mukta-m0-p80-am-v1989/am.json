@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p80",
  "verse": 1989,
- "question": "How should the practitioner proceed after offering the prescribed prayer?",
+ "question": "What length is prescribed for the little finger and thumb together?",
  "premises": [
-  "Prayer has been offered.",
-  "A prior manner of conduct exists.",
-  "The practitioner is to resume that manner."
+  "The measurement concerns the little finger and thumb",
+  "The prescribed length is numerical",
+  "The unit is seventeen barley grains"
  ],
- "inference": "After praying, one should again act as before.",
- "uncertainties": [],
- "plain_english": "Having prayed, one should again proceed as before."
+ "inference": "The length of the little finger and thumb is prescribed as seventeen barley grains.",
+ "uncertainties": [
+  "saptadaśā yavam taken as seventeen barley grains though written as two tokens"
+ ],
+ "plain_english": "The length of the little finger and the thumb should be seventeen barley grains."
 }

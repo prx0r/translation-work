@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p80",
  "verse": 1986,
- "question": "What objects may be contemplated as supports for completing the prescribed duty?",
+ "question": "What total length is prescribed from thumb to the stated endpoint?",
  "premises": [
-  "Contemplation of an object is prescribed.",
-  "The sun's disk may be beheld.",
-  "An image may alternatively be used."
+  "The span begins with the thumb",
+  "The span ends at the stated endpoint",
+  "The total length is seven fingers"
  ],
- "inference": "One may behold the sun's disk or, alternatively, an image.",
- "uncertainties": [],
- "plain_english": "Having beheld the sun's disk, or alternatively an image again,"
+ "inference": "The length from the thumb to the stated endpoint should be seven fingers.",
+ "uncertainties": [
+  "vasānakam is an unclear technical endpoint term"
+ ],
+ "plain_english": "From the thumb onward to the stated endpoint, the length should be seven fingers."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2144,
- "question": "Which ritual hand gestures must be displayed during this worship sequence?",
+ "question": "What seat, eye count, and vehicle are attributed to this deity?",
  "premises": [
-  "Ritual gestures are to be displayed.",
-  "Mukulī, padma, and liṅga mudrās are named.",
-  "All three are included in the instruction."
+  "The deity is associated with a lotus seat.",
+  "The deity has two eyes.",
+  "The deity has a ram as vehicle."
  ],
- "inference": "One should display the mukulī, lotus, and liṅga mudrās.",
- "uncertainties": [],
- "plain_english": "One should display the mukulī mudrā, the lotus mudrā, and the liṅga mudrā."
+ "inference": "The deity has a lotus seat, two eyes, and a ram vehicle.",
+ "uncertainties": [
+  "pariṣṭāt may indicate position behind or surrounding context"
+ ],
+ "plain_english": "He has a lotus seat, two eyes, and a ram as his vehicle."
 }
