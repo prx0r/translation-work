@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[mind](man)+[made-of](mayaḥ) [śiva](śiva)+[self](ātmā)
+[consisting-of-mind](manmayaḥ) [śiva-natured](śiva) [+self](ātmā)
 
 ## mukta-m0-p54-v1327
-[page-191](p. 191)) [thus](iti) [śrī](śrī) [sixteen](ṣoḍaśa)+[eternal](nitya)+[tantras](tantreṣu) [in-śrī](śrī)+[kādimata](kādimate) [tenth](daśamaṃ) [chapter](paṭalam)
+[page](p.) [191](191)) [thus](iti) [in-śrī](śrī) [+ṣoḍaśa-nityā-tantras](ṣoḍaśanityātantreṣu) [in-śrī-kādimata](śrīkādimate) [tenth](daśamaṃ) [chapter](paṭalam)
 
 ## mukta-m0-p54-v1328
-[all-pervading](pari)+[full](pūrṇaṃ) [fully](parā)+[grasped](mṛṣṭam)
+[complete](paripūrṇaṃ) [fully-grasped](parāmṛṣṭam)
 
 ## mukta-m0-p54-v1329
-[that](sā) [mantra](vidyā) [of-vahnivāsinī](vahni+vāsinyāḥ) [told](kathitā) [to-you](te) [nine](nava)+[syllabled](akṣarā)
+[that](sā) [vidyā](vidyā) [of-vahnivāsinī](vahnivāsinyāḥ) [told](kathitā) [to-you](te) [nine-syllabled](navākṣarā)
 
 ## mukta-m0-p54-v1330
-[its](tat)+[practice](sādhana)+[method](vidhiṃ) [of-her](tasyāḥ) [applications](prayogān) [various](vividhān) [also](api)
+[its-sādhana-method](tatsādhanavidhiṃ) [of-her](tasyāḥ) [applications](prayogān) [various](vividhān) [also](api)
 
 ## mukta-m0-p54-v1331
-[with-mantra](vidyā)+[second](dvitīya)+[seed-syllable](bījena) [vowels](svarān) [long](dīrghān) [one-should-apply](niyojayet)
+[with-vidyā-second-seed](vidyādvitīyabījena) [vowels](svarān) [long](dīrghān) [one-should-apply](niyojayet)
 
 ## mukta-m0-p54-v1332
-[nine](nava)+[syllables](akṣarāṇi) [of-the-mantra](vidyāyā) [in-nine](nava)+[cavities](randhreṣu) [one-should-place](vinyaset)
+[nine-syllables](navākṣarāṇi) [of-the-vidyā](vidyāyā) [in-nine-apertures](navarandhreṣu) [one-should-place](vinyaset)
 
 ## mukta-m0-p54-v1333
-[in-all](sarvāsu) [also](api) [and](ca) [mantras](vidyāsu) [pervasion](vyāpakaṃ) [that](tat) [one-should-perform](samācaret)
+[in-all](sarvāsu) [also](api) [and](ca) [in-vidyās](vidyāsu) [pervasion](vyāpakaṃ) [that](tat) [one-should-perform](samācaret)
 
 ## mukta-m0-p54-v1334
 [of-him](tasya) [in-no-long-time](acireṇa) [of-the-gods](devānāṃ) [by-grace](prasādāt) [arise](sambhavanti) [and](ca)
@@ -32,46 +32,46 @@
 [in-third](tṛtīye) [chapter](paṭale) [other](anyat) [easy](sugamam) [1](|| 1)
 
 ## mukta-m0-p54-v1336
-[of-all](sarvāsāṃ) [first](prathamaṃ) [having-done](kṛtvā) [afterwards](paścāt) [there](tatra)+[taught](uditaṃ) [one-should-place](nyaset)
+[of-all](sarvāsāṃ) [first](prathamaṃ) [having-done](kṛtvā) [afterwards](paścāt) [there-taught](tatroditaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p54-v1337
-[by-that](tena) [of-her](tasyāḥ) [indeed](tu) [syllable-by-syllable](lipiśaḥ) [placement](nyāsaḥ) [not](na)+[indeed](eva)(?) [declared](samīritam)
+[by-that](tena) [of-her](tasyāḥ) [indeed](tu) [syllable-by-syllable](lipiśaḥ) [nyāsa](nyāsaḥ) [not](na) [indeed](eva) [stated](samīritam)
 
 ## mukta-m0-p54-v1338
-[beautiful](cāru)+[smiling](smera)+[face](mukha)+[lotus](ambhojāṃ) [wide-open](visalat)+[eye](nayana)+[three](trayām)
+[having-beautiful-smiling-face-lotus](cārusmeramukhāmbhojāṃ) [having-streaming-three-eyes](visalannayanatrayām)
 
 ## mukta-m0-p54-v1339
-[ruby](padma+rāga)+[diadem](kirīṭa)+[rays](aṃśu)+[mingling](sambheda)+[reddened](aruṇita)+[garment](ambarām)
+[having-garment-reddened-by-ruby-crown-rays-intermingling](padmarāgakirīṭāṃśusambhedāruṇitāmbarām)
 
 ## mukta-m0-p54-v1340
-[jewel](ratna)+[pearl](mauktika)+[interspersed](saṃbhinna)+[cluster](stabaka)+[ornament](ābharaṇa)+[resplendent](ujjvalām)
+[shining-with-ornaments-of-jewel-pearl-clusters](ratnamauktikasaṃbhinnastabakābharaṇojjvalām)
 
 ## mukta-m0-p54-v1341
-[holding](dadhānāṃ) [with-arms](bāhubhiḥ) [left](vāmaiḥ) [blue-lotus](kahlāraṃ) [golden](hema)+[horn](śṛṅgakam)
+[holding](dadhānāṃ) [with-arms](bāhubhiḥ) [left](vāmaiḥ) [blue-lotus](kahlāraṃ) [golden-horn](hemaśṛṅgakam)
 
 ## mukta-m0-p54-v1342
-[by-her](sva)+[equal](samānābhiḥ) [on-all-sides](abhitaḥ) [by-śaktis](śaktibhiḥ) [surrounded](parivāritām)
+[by-equal-to-herself](svasamānābhiḥ) [on-all-sides](abhitaḥ) [by-śaktis](śaktibhiḥ) [surrounded](parivāritām)
 
 ## mukta-m0-p54-v1343
-[jvālinī](jvālinī)+[visphuliṅginyau](visphuliṅginyau) [maṅgalā](maṅgalā) [sumanoharā](sumanoharā)
+[jvālinī](jvālinī) [visphuliṅginyau](visphuliṅginyau) [maṅgalā](maṅgalā) [sumanoharā](sumanoharā)
 
 ## mukta-m0-p54-v1344
-[nine](nava)+[syllables](akṣarāṇi) [south](dakṣiṇa)+[east](pūrvaṃ) [one-should-place](nyaset) [pervasion](vyāpakaṃ) [as-before](prāgvat) [3](|| 3) [4](|| 4) [5](|| 5)
+[nine-syllables](navākṣarāṇi) [from-south-east](dakṣiṇapūrvaṃ) [one-should-place](nyaset) [pervasion](vyāpakaṃ) [as-before](prāgvat) [3](|| 3) [4](|| 4) [5](|| 5)
 
 ## mukta-m0-p54-v1345
-[in-fifteenth](pañcadaśe) [kulasundarī](kula+sundarī)+[chapter](paṭale) [because-to-be-stated](vakṣyamāṇatvāt) [here](iha) [not](na) [I-explain](vyākaromi) [7](|| 7)
+[in-fifteenth](pañcadaśe) [kulasundarī-chapter](kulasundarīpaṭale) [because-of-being-stated-later](vakṣyamāṇatvāt) [here](iha) [not](na) [I-explain](vyākaromi) [7](|| 7)
 
 ## mukta-m0-p54-v1346
-[above](ūrddhva)+[etc.](ādi) [left](vāma)+[right](dakṣiṇayoḥ) [one-should-arrange](kalpayet) [9](|| 9) [10](|| 10) [11](|| 11) [12](|| 12)
+[in-upper-etc-left-right](ūrddhvādivāmadakṣiṇayoḥ) [one-should-arrange](kalpayet) [9](|| 9) [10](|| 10) [11](|| 11) [12](|| 12)
 
 ## mukta-m0-p54-v1347
-[in-eight](a.qṭa)+[corners](koṇeṣu) [to-be-worshipped](sampūjyāḥ) [from-their-tip](tat+agrāt)+[in-them](tu(tsu)) [clockwise](pradakṣiṇam)
+[in-eight-corners](a.qṭakoṇeṣu) [to-be-worshipped](sampūjyāḥ) [from-their-tips](tadagrāt) [in-them](tu) [clockwise](pradakṣiṇam)
 
 ## mukta-m0-p54-v1348
-[meṣā](meṣāṃ) [named-vṛṣā](vṛṣa)+[āhvayāṃ](āhvayāṃ) [śakti](śaktiṃ) [mithunā](mithunāṃ) [karkaṭī](karkaṭīm) [also](api)
+[meṣā](meṣāṃ) [vṛṣā-named](vṛṣāhvayāṃ) [śakti](śaktiṃ) [mithunā](mithunāṃ) [karkaṭī](karkaṭīm) [also](api)
 
 ## mukta-m0-p54-v1349
-[kumbhā](kumbhāṃ) [mīnā](mīnāṃ) [one-should-worship](yajet) [as-before](prāgvat) [from-tip](agrāt)+[beginning](ārabhya) [o-śāṅkarī](śāṅkari)
+[kumbhā](kumbhāṃ) [mīnā](mīnāṃ) [one-should-worship](yajet) [as-before](prāgvat) [from-tip](agrāt) [beginning](ārabhya) [o-śāṅkarī](śāṅkari)
 
 ## mukta-m0-p54-v1350
-[in-other](anyayoḥ) [and](ca) [directions](diśoḥ) [śaktis](śaktīḥ) [mentioned](proktā) [ten](daśa) [one-should-worship](samarcayet)
+[in-other](anyayoḥ) [and](ca) [in-directions](diśoḥ) [śaktis](śaktīḥ) [mentioned](proktāḥ) [ten](daśa) [one-should-worship](samarcayet)

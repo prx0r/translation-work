@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 312,
- "question": "What part measures are assigned to the neck and lotus in this scheme?",
+ "question": "Which seed-syllables are prescribed after invoking Aghorā and Ghorā?",
  "premises": [
-  "The neck is to be made with one part",
-  "The lotus is assigned two parts",
-  "These measures apply within the stated division"
+  "Aghorā is invoked with the vāgbhava seed",
+  "Ghorā is invoked afterward",
+  "Bhuvaneśvarī is then specified"
  ],
- "inference": "The neck takes one part and the lotus takes two parts.",
- "uncertainties": [],
- "plain_english": "The neck should be made one part, and the lotus two parts."
+ "inference": "The sequence prescribes vāgbhava with Aghorā and Bhuvaneśvarī after Ghorā",
+ "uncertainties": [
+  "Exact parsing of bhuvaneśvarī as seed or deity name is ambiguous"
+ ],
+ "plain_english": "O Aghorā, use the vāgbhava seed; then, O Ghorā, comes Bhuvaneśvarī."
 }

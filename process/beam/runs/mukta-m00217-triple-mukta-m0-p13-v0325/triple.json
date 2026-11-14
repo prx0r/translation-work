@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "kāmeśvarīdevatā",
+     "gloss": "kāmeśvarī-deity",
+     "grounds": "compound of kāmeśvarī and devatā",
+     "morph": "compound: kāmeśvarī+devatā; f.nom.sg"
+    },
+    {
+     "surface": "syādbījenāṅgakriyā",
+     "gloss": "should-be-with-seed-syllable-limb-rite",
+     "grounds": "fused form of syāt, bījena, and aṅga-kriyā with internal sandhi",
+     "morph": "compound-fusion: syāt(verb opt.3.sg.act as)+bījena(n.ins.sg)+aṅga-kriyā(f.nom.sg)"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past passive participle agreeing in gender and number",
+     "morph": "ppp f.nom.sg (man)"
+    }
+   ],
+   "question": "Which deity and which seed-based limb rite are prescribed in this formulation?",
+   "premises": [
+    "The deity is identified as Kāmeśvarī.",
+    "A limb rite performed with the seed-syllable is indicated.",
+    "This identification and rite are regarded as authoritative."
+   ],
+   "inference": "Kāmeśvarī is the prescribed deity, and the limb rite is to be performed with her seed-syllable.",
+   "uncertainties": [
+    "The specific bīja syllable is not explicitly named in this verse."
+   ],
+   "plain_english": "The deity is Kāmeśvarī, and the limb rite performed with the seed-syllable is the one considered proper."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "balidvayaṃ",
+     "gloss": "pair-of-offerings",
+     "grounds": "compound of bali (offering) and dvaya (pair), object of kuryāt",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking ritual elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-oblation",
+     "grounds": "object of kuryāt",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking ritual elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription for the ritual act",
+     "morph": "3.sg.optative.active √kṛ"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates manner by reference to prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāpanam",
+     "gloss": "conclusion",
+     "grounds": "object of kuryāt, denoting the concluding act",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "In what manner must the pair of offerings, fire-oblation, and conclusion be performed?",
+   "premises": [
+    "A pair of offerings is prescribed as a ritual element.",
+    "A fire-oblation is prescribed as a ritual element.",
+    "A concluding act is prescribed to complete the rite.",
+    "The manner of performance follows the previously described procedure."
+   ],
+   "inference": "The practitioner should perform the pair of offerings, the fire-oblation, and the conclusion in the same manner as before.",
+   "uncertainties": [],
+   "plain_english": "One should perform the pair of offerings, the fire-oblation, and the concluding act just as before."
+  }
+ ]
+}
