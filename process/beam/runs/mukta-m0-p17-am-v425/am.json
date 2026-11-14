@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 425,
- "question": "Which materials are prescribed for performing the ash bath at the proper times?",
+ "question": "Under what temporal condition is an occasion situated in the earlier half relative to twilight?",
  "premises": [
-  "Ash bath is performed at proper times.",
-  "The listed materials include copper, lotus, coconut, stone, bamboo, gourd, and leather."
+  "A daily rite may already be in progress.",
+  "An occasional rite may arise during that ongoing daily rite.",
+  "The timing is measured from the later half of twilight."
  ],
- "inference": "The bath is to be performed with these listed materials.",
+ "inference": "If the occasion exists in the earlier half from the later half of twilight, that temporal condition applies.",
  "uncertainties": [
-  "The exact grammatical number and gender of the fused compound remain unclear."
+  "The exact ritual action governed by this condition is carried over from the preceding context."
  ],
- "plain_english": "with copper, lotus, coconut, stone, bamboo, gourd, and leather"
+ "plain_english": "If it occurs in the earlier half, counted from the later half of twilight, then that condition holds."
 }

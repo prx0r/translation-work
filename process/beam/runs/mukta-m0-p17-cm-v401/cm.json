@@ -3,29 +3,34 @@
  "verse": 401,
  "rows": [
   {
-   "lemma": "saṃgṛhya",
-   "morph": "verb.participle.perf.act",
-   "grounds": "past participle of saṃ-grah"
+   "lemma": "kāmyārthaṃ",
+   "morph": "compound: kāmya+artha, m.acc.sg",
+   "grounds": "purpose of optional desire"
   },
   {
-   "lemma": "muṣṭi+mātraṃ",
-   "morph": "compound.acc.sg.n",
-   "grounds": "compound of muṣṭi and mātra"
+   "lemma": "kāmya+karma",
+   "morph": "compound: kāmya+karma, n.acc.sg",
+   "grounds": "optional ritual action"
   },
   {
-   "lemma": "tu",
+   "lemma": "iṣṭa",
+   "morph": "n.acc.sg",
+   "grounds": "wished for"
+  },
+  {
+   "lemma": "na+niṣiddha",
+   "morph": "compound: na+niṣiddha, n.acc.sg",
+   "grounds": "not forbidden by scripture"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "negation"
   },
   {
-   "lemma": "dakṣa+hastena",
-   "morph": "compound.inst.sg.m",
-   "grounds": "compound in instrumental"
-  },
-  {
-   "lemma": "bhasmanaḥ",
-   "morph": "noun.gen.sg.n",
-   "grounds": "genitive of bhasman"
+   "lemma": "samācaret",
+   "morph": "3.sg.optative-active √sam-ā-car",
+   "grounds": "prescriptive injunction"
   }
  ]
 }

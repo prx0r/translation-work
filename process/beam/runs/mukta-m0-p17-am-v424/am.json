@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p17",
  "verse": 424,
- "question": "How often should ash bathing be performed?",
+ "question": "What ritual situation arises when an occasional rite coincides with an ongoing daily rite?",
  "premises": [
-  "ash bath is done as appropriate",
-  "it may be done once",
-  "it may be done repeatedly"
+  "A daily rite may be in progress.",
+  "An occasional rite may arise at that time.",
+  "The coincidence creates a specific ritual situation."
  ],
- "inference": "ash bathing is done as appropriate, once or repeatedly",
- "uncertainties": [
-  "whether sakṛt eva vā means once or even once"
- ],
- "plain_english": "Ash bath as appropriate, who does it once or repeatedly."
+ "inference": "An occasional rite may arise while the daily rite is proceeding.",
+ "uncertainties": [],
+ "plain_english": "But when an occasional rite arises while the daily rite is in progress."
 }

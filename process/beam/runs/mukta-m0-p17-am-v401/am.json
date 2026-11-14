@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p17",
  "verse": 401,
- "question": "How much ash should be taken and with which hand?",
+ "question": "Under what conditions should one refrain from performing a desired optional rite?",
  "premises": [
-  "ash is taken in fist measure",
-  "the right hand is used"
+  "A desired optional rite may be undertaken for a desired purpose.",
+  "Such a rite must not be prohibited.",
+  "If prohibited, it should not be performed."
  ],
- "inference": "the rite begins by taking a fistful of ash in the right hand",
- "uncertainties": [
-  "exact ritual context of taking ash"
- ],
- "plain_english": "Having taken a fistful of ash with the right hand."
+ "inference": "One should not perform a desired optional rite when it is prohibited.",
+ "uncertainties": [],
+ "plain_english": "One should not perform a desired optional rite for a desired purpose if it is prohibited."
 }
