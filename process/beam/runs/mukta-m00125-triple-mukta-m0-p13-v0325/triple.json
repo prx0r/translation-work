@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "tila",
+     "gloss": "sesame",
+     "grounds": "names sesame as a standard of measure in the listed sequence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sarṣapa",
+     "gloss": "mustard",
+     "grounds": "names mustard seed as a standard of measure in the listed sequence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hāridra",
+     "gloss": "turmeric",
+     "grounds": "names turmeric as a standard of measure in the listed sequence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gośakṛt",
+     "gloss": "cow-dung",
+     "grounds": "compound of go and śakṛt naming cow-dung as a standard of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "names ash as a standard of measure in the listed sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānakam",
+     "gloss": "measure",
+     "grounds": "designates the preceding items as constituting the prescribed measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which substances constitute the prescribed standard of measure in this sequence?",
+   "premises": [
+    "The preceding verses establish specific measures for materials such as rice, sugar, and fragrant substances.",
+    "Sesame, mustard, turmeric, cow-dung, and ash are enumerated together in this verse.",
+    "The term mānakam designates these enumerated substances as a standard of measure."
+   ],
+   "inference": "Therefore, sesame, mustard, turmeric, cow-dung, and ash together constitute the prescribed measure in this context.",
+   "uncertainties": [
+    "Whether mānakam refers to a single composite measure or to alternative measures is not explicitly specified."
+   ],
+   "plain_english": "Sesame, mustard, turmeric, cow-dung, and ash are the prescribed measure."
+  }
+ ]
+}

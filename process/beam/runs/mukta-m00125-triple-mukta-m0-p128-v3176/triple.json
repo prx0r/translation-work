@@ -1,0 +1,1043 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3176,
+   "rows": [
+    {
+     "surface": "dīkṣitā",
+     "gloss": "initiated",
+     "grounds": "initiated persons",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantrahīnā",
+     "gloss": "mantra-less",
+     "grounds": "lacking mantras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrakanyāsamā",
+     "gloss": "equal-to-rudra-daughters",
+     "grounds": "likened to Rudra's daughters",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "regarded as",
+     "morph": "m.nom.pl.past-passive-participle"
+    }
+   ],
+   "question": "How are initiated persons who lack mantras to be regarded?",
+   "premises": [
+    "Some persons are initiated.",
+    "Some initiated persons lack mantras.",
+    "Such persons are compared to Rudra's daughters."
+   ],
+   "inference": "Initiated persons without mantras are considered equal to Rudra's daughters.",
+   "uncertainties": [],
+   "plain_english": "Initiated persons who are without mantras are considered equal to Rudra's daughters."
+  },
+  {
+   "verse": 3177,
+   "rows": [
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "location in temple",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "garbhageherdhe",
+     "gloss": "in-half-of-sanctum",
+     "grounds": "in part of the sanctum; internal compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pratimā",
+     "gloss": "image",
+     "grounds": "sacred image",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maṇḍapādike",
+     "gloss": "in-pavilion-and-so-on",
+     "grounds": "in pavilion etc.",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which temple locations may ominous signs appear?",
+   "premises": [
+    "A temple has multiple parts.",
+    "The sanctum and pavilion are temple parts.",
+    "An image may be present in these locations."
+   ],
+   "inference": "Ominous signs may appear in the temple, sanctum, image area, or pavilion and similar places.",
+   "uncertainties": [
+    "garbhageherdhe is read as a fused locative form"
+   ],
+   "plain_english": "They may appear in the temple, in part of the sanctum, at the image, or in the pavilion and similar places."
+  },
+  {
+   "verse": 3178,
+   "rows": [
+    {
+     "surface": "bere",
+     "gloss": "in-idol",
+     "grounds": "location at idol",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-pedestal",
+     "grounds": "location on pedestal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛṣādau",
+     "gloss": "on-bull-and-so-on",
+     "grounds": "on bull mount etc.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddhāmni",
+     "gloss": "in-that-abode",
+     "grounds": "in that dwelling place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "balipīṭhake",
+     "gloss": "on-offering-pedestal",
+     "grounds": "on the offering pedestal",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What other sacred structures can be sites of ominous signs?",
+   "premises": [
+    "Sacred complexes include idols and pedestals.",
+    "They also include mounts and offering pedestals.",
+    "Ominous signs can occur in such places."
+   ],
+   "inference": "Ominous signs may appear at the idol, pedestal, bull mount, its abode, or the offering pedestal.",
+   "uncertainties": [],
+   "plain_english": "Or they may appear at the idol, on the pedestal, on the bull and so forth, in that abode, or on the offering pedestal."
+  },
+  {
+   "verse": 3179,
+   "rows": [
+    {
+     "surface": "āsthānamaṇḍape",
+     "gloss": "in-audience-hall",
+     "grounds": "location in assembly hall",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anyasmin",
+     "gloss": "in-another",
+     "grounds": "in another place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nṛpaveśmani",
+     "gloss": "in-king-palace",
+     "grounds": "in royal residence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "in a house",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which secular buildings may also be affected by ominous signs?",
+   "premises": [
+    "Ominous signs are not limited to temples.",
+    "Audience halls and palaces are important buildings.",
+    "Ordinary houses may also be affected."
+   ],
+   "inference": "Ominous signs may appear in an audience hall, another royal residence, or a house.",
+   "uncertainties": [],
+   "plain_english": "They may also appear in the audience hall, in another royal palace, or in a house."
+  },
+  {
+   "verse": 3180,
+   "rows": [
+    {
+     "surface": "śithilī",
+     "gloss": "weakened",
+     "grounds": "loosening or weakening condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhave",
+     "gloss": "when-occurring",
+     "grounds": "if it arises",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhupañjara",
+     "gloss": "honeycomb",
+     "grounds": "honeycomb formation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sambhave",
+     "gloss": "when-occurring",
+     "grounds": "if it arises",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What kinds of structural or natural disturbances are being considered?",
+   "premises": [
+    "A weakening condition may arise.",
+    "A honeycomb may also arise.",
+    "Both are treated as possible occurrences."
+   ],
+   "inference": "The text considers cases where weakening occurs or where a honeycomb appears.",
+   "uncertainties": [
+    "śithilī is taken as an indeclinable condition marker in context"
+   ],
+   "plain_english": "This applies when there is weakening, or else when a honeycomb appears."
+  },
+  {
+   "verse": 3181,
+   "rows": [
+    {
+     "surface": "samutthitāśced",
+     "gloss": "if-arisen",
+     "grounds": "if they have arisen; sandhi with ced",
+     "morph": "m.nom.pl.past-passive-participle + (indecl.)"
+    },
+    {
+     "surface": "bhūmyādau",
+     "gloss": "from-earth-and-so-on",
+     "grounds": "from the ground etc.",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarvadoṣāvaho",
+     "gloss": "bringing-all-faults",
+     "grounds": "causing all harms",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "for-people",
+     "grounds": "for human beings",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What general consequence follows if such signs arise from the ground?",
+   "premises": [
+    "The signs may arise from the ground or similar places.",
+    "Their arising is inauspicious.",
+    "People are affected by them."
+   ],
+   "inference": "If they arise from the ground and so on, they bring all kinds of harm to people.",
+   "uncertainties": [],
+   "plain_english": "If these arise from the ground and such places, they bring all kinds of harm to people."
+  },
+  {
+   "verse": 3182,
+   "rows": [
+    {
+     "surface": "rogo",
+     "gloss": "disease",
+     "grounds": "illness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "danger or fear",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vahnidāho",
+     "gloss": "fire-burning",
+     "grounds": "conflagration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bandhunāśo",
+     "gloss": "loss-of-kin",
+     "grounds": "destruction of relatives",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanāgamaḥ",
+     "gloss": "gain-of-wealth",
+     "grounds": "arrival of wealth",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What specific outcomes are listed as consequences of these ominous signs?",
+   "premises": [
+    "Ominous signs produce varied results.",
+    "Some results are harmful.",
+    "One listed result is gain of wealth."
+   ],
+   "inference": "The consequences include disease, fear, fire, loss of kin, and gain of wealth.",
+   "uncertainties": [
+    "dhanāgamaḥ appears positive among otherwise harmful outcomes"
+   ],
+   "plain_english": "The results are disease, fear, fire, loss of relatives, and gain of wealth."
+  },
+  {
+   "verse": 3183,
+   "rows": [
+    {
+     "surface": "madhyādīśānaparyantaṃ",
+     "gloss": "from-middle-up-to-īśāna",
+     "grounds": "from center to the Īśāna direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "valmīkasya",
+     "gloss": "of-anthill",
+     "grounds": "of an anthill",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "on-seeing",
+     "grounds": "when seen",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which directional range is specified when an anthill is observed?",
+   "premises": [
+    "An anthill may be seen in a specific area.",
+    "Directions are used to interpret the sign.",
+    "The range extends from the middle to Īśāna."
+   ],
+   "inference": "The text specifies the range from the middle up to the Īśāna direction when an anthill is seen.",
+   "uncertainties": [],
+   "plain_english": "This concerns seeing an anthill in the area from the middle up to the Īśāna direction."
+  },
+  {
+   "verse": 3184,
+   "rows": [
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "beyond that point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇināśassyād",
+     "gloss": "there-would-be-destruction-of-beings",
+     "grounds": "loss of living beings would occur; sandhi with syāt",
+     "morph": "m.nom.sg + 3.sg.optative-active √as"
+    },
+    {
+     "surface": "indrabhāge",
+     "gloss": "in-indra-quarter",
+     "grounds": "in Indra's direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "danger or fear",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-occur",
+     "grounds": "may arise",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What results follow when the anthill appears above that range or in Indra's quarter?",
+   "premises": [
+    "Directional placement changes the result.",
+    "Above the specified range is one case.",
+    "Indra's quarter is another case."
+   ],
+   "inference": "Above that range there would be destruction of beings, and in Indra's quarter there would be fear.",
+   "uncertainties": [],
+   "plain_english": "Above that, there would be destruction of living beings; in Indra's quarter, there would be fear."
+  },
+  {
+   "verse": 3185,
+   "rows": [
+    {
+     "surface": "rājakṣobhastadūrdhvaṃ",
+     "gloss": "royal-disturbance-above-that",
+     "grounds": "disturbance to the king beyond that; compound with tadūrdhvaṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-occur",
+     "grounds": "may arise",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "arthalābho",
+     "gloss": "gain-of-wealth",
+     "grounds": "acquisition of wealth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yame",
+     "gloss": "in-yama-quarter",
+     "grounds": "in Yama's direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-occur",
+     "grounds": "may arise",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What outcomes are associated with the next directional positions after Indra's quarter?",
+   "premises": [
+    "Different directions yield different results.",
+    "A position above the previous one is considered.",
+    "Yama's quarter is considered separately."
+   ],
+   "inference": "Above that there would be royal disturbance, and in Yama's quarter there would be gain of wealth.",
+   "uncertainties": [],
+   "plain_english": "Above that there would be disturbance for the king, and in Yama's quarter there would be gain of wealth."
+  },
+  {
+   "verse": 3186,
+   "rows": [
+    {
+     "surface": "vṛddhir",
+     "gloss": "growth",
+     "grounds": "increase or prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niṛtikāṣṭhāyām",
+     "gloss": "in-nirṛti-quarter",
+     "grounds": "in Nirṛti's direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "anarthaṃ",
+     "gloss": "harm",
+     "grounds": "misfortune",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-occur",
+     "grounds": "may arise",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "tadūrdhvataḥ",
+     "gloss": "above-that",
+     "grounds": "beyond that point",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the results differ between Nirṛti's quarter and the region above it?",
+   "premises": [
+    "Nirṛti's quarter is one directional case.",
+    "The region above it is another case.",
+    "The outcomes are opposite in character."
+   ],
+   "inference": "In Nirṛti's quarter there would be growth, but above that there would be harm.",
+   "uncertainties": [],
+   "plain_english": "In Nirṛti's quarter there would be growth, but above that there would be harm."
+  },
+  {
+   "verse": 3187,
+   "rows": [
+    {
+     "surface": "vāyu",
+     "gloss": "vāyu-quarter",
+     "grounds": "Vāyu's direction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "diksthā",
+     "gloss": "standing-in-direction",
+     "grounds": "located in that direction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyāyāḥ",
+     "gloss": "of-maiden",
+     "grounds": "related to a maiden",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "some",
+     "gloss": "in-soma-quarter",
+     "grounds": "in Soma's direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syāc",
+     "gloss": "would-occur",
+     "grounds": "may arise; sandhi with śatrubhirbhayam",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "śatrubhirbhayam",
+     "gloss": "fear-from-enemies",
+     "grounds": "danger from enemies; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distinct outcomes are assigned to the Vāyu and Soma quarters?",
+   "premises": [
+    "The Vāyu quarter is considered.",
+    "The Soma quarter is considered.",
+    "Each quarter yields a different result."
+   ],
+   "inference": "In the Vāyu quarter the result concerns a maiden, and in the Soma quarter there would be fear from enemies.",
+   "uncertainties": [
+    "The exact outcome in the Vāyu quarter is elliptic in this verse"
+   ],
+   "plain_english": "If it stands in the Vāyu quarter, it concerns a maiden; in the Soma quarter, there would be fear from enemies."
+  },
+  {
+   "verse": 3188,
+   "rows": [
+    {
+     "surface": "gṛhanāśo",
+     "gloss": "destruction-of-house",
+     "grounds": "loss of the house",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-occur",
+     "grounds": "may arise",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "vāre",
+     "gloss": "at-gate",
+     "grounds": "at the entrance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śayanasthānake",
+     "gloss": "in-sleeping-place",
+     "grounds": "in the bedroom or resting place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtiḥ",
+     "gloss": "death",
+     "grounds": "death",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What consequences follow when the sign appears at the gate or sleeping place?",
+   "premises": [
+    "Specific household locations are considered.",
+    "The gate is one such location.",
+    "The sleeping place is another."
+   ],
+   "inference": "At the gate there would be destruction of the house, and in the sleeping place there would be death.",
+   "uncertainties": [],
+   "plain_english": "At the gate there would be destruction of the house, and in the sleeping place there would be death."
+  },
+  {
+   "verse": 3189,
+   "rows": [
+    {
+     "surface": "dvāranāle",
+     "gloss": "in-gate-channel",
+     "grounds": "in the doorway passage",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-occur",
+     "grounds": "may arise",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "bhāryāmaraṇaṃ",
+     "gloss": "death-of-wife",
+     "grounds": "death of the wife; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhṛtyahāriṇī",
+     "gloss": "taking-away-servants",
+     "grounds": "causing loss of servants",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What harms are predicted if the sign appears in the gate channel?",
+   "premises": [
+    "The gate channel is a specific location.",
+    "Ominous signs there have consequences.",
+    "The consequences affect family and servants."
+   ],
+   "inference": "In the gate channel there would be the death of the wife and loss of servants.",
+   "uncertainties": [
+    "bhṛtyahāriṇī is taken as describing a harmful outcome affecting servants"
+   ],
+   "plain_english": "In the gate channel there would be the death of the wife and loss of servants."
+  },
+  {
+   "verse": 3190,
+   "rows": [
+    {
+     "surface": "dṛṣṭirogo",
+     "gloss": "disease-of-sight",
+     "grounds": "eye disease",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-occur",
+     "grounds": "may arise",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "grāmamadhyo",
+     "gloss": "in-middle-of-village",
+     "grounds": "in the center of the village; compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devālayādike",
+     "gloss": "in-temple-and-so-on",
+     "grounds": "in a temple or similar place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What result is indicated for signs in the village center or temple precincts?",
+   "premises": [
+    "Public and sacred locations are considered.",
+    "The village center is one such location.",
+    "Temples and similar places are another."
+   ],
+   "inference": "In the middle of the village or in a temple and similar places, there would be disease of the eyes.",
+   "uncertainties": [
+    "grāmamadhyo is read as a locative sense in compound context"
+   ],
+   "plain_english": "In the middle of the village or in a temple and such places, there would be eye disease."
+  },
+  {
+   "verse": 3191,
+   "rows": [
+    {
+     "surface": "sabhāyāṃ",
+     "gloss": "in-assembly",
+     "grounds": "in the assembly hall",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "caityavṛkṣe",
+     "gloss": "at-sacred-tree",
+     "grounds": "at a caitya tree",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvīthyāṃ",
+     "gloss": "on-great-street",
+     "grounds": "on the main road",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "maṭhe'pi",
+     "gloss": "in-monastery-also",
+     "grounds": "in a monastery as well; sandhi with api",
+     "morph": "m.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional public or sacred sites are named as possible locations for the sign?",
+   "premises": [
+    "Several public places are listed.",
+    "Sacred trees and monasteries are included.",
+    "These are alternative locations."
+   ],
+   "inference": "The sign may appear in an assembly, at a sacred tree, on a main street, or in a monastery.",
+   "uncertainties": [],
+   "plain_english": "It may appear in an assembly hall, at a sacred tree, on the main street, or also in a monastery."
+  },
+  {
+   "verse": 3192,
+   "rows": [
+    {
+     "surface": "liṅgamūle",
+     "gloss": "at-root-of-liṅga",
+     "grounds": "at the base of the liṅga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātāścennṛpater",
+     "gloss": "if-born-then-of-king",
+     "grounds": "if arisen, then for the king; fused sandhi sequence",
+     "morph": "m.nom.pl.past-passive-participle + (indecl.) + m.gen.sg"
+    },
+    {
+     "surface": "bhayamādiśet",
+     "gloss": "one-should-declare-fear",
+     "grounds": "one should predict danger",
+     "morph": "3.sg.optative-active √diś"
+    }
+   ],
+   "question": "What danger should be declared if the sign arises at the base of the liṅga?",
+   "premises": [
+    "The base of the liṅga is a critical sacred location.",
+    "An arising sign there has royal implications.",
+    "The text prescribes declaring fear."
+   ],
+   "inference": "If it arises at the base of the liṅga, one should declare danger for the king.",
+   "uncertainties": [
+    "jātāścennṛpater is treated as a fused token containing multiple grammatical elements"
+   ],
+   "plain_english": "But if it arises at the base of the liṅga, one should declare danger for the king."
+  },
+  {
+   "verse": 3193,
+   "rows": [
+    {
+     "surface": "valmīkadarśane'pyevaṃ",
+     "gloss": "even-on-seeing-anthill-thus",
+     "grounds": "even in the case of seeing an anthill, likewise; sandhi with api",
+     "morph": "n.loc.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "dvārādāvīritaṃ",
+     "gloss": "declared-for-gate-and-so-on",
+     "grounds": "stated for the gate etc.",
+     "morph": "n.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How broadly do the stated results apply in cases of seeing an anthill?",
+   "premises": [
+    "Results were stated for gates and similar places.",
+    "Anthill sightings are also considered.",
+    "The same results apply in that case."
+   ],
+   "inference": "Even when an anthill is seen, the same results declared for the gate and so on apply.",
+   "uncertainties": [],
+   "plain_english": "Even in the case of seeing an anthill, the same results declared for the gate and so forth apply."
+  },
+  {
+   "verse": 3194,
+   "rows": [
+    {
+     "surface": "śuddhamṛtkhaṇḍa",
+     "gloss": "pure-earth-fragment",
+     "grounds": "piece of pure earth; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sahitairna",
+     "gloss": "with-not",
+     "grounds": "together with, not; sandhi with na",
+     "morph": "m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "so-that",
+     "grounds": "in such a way that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punarudbhavaḥ",
+     "gloss": "re-arising",
+     "grounds": "arising again",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition prevents the ominous sign from arising again?",
+   "premises": [
+    "Re-arising of the sign is undesirable.",
+    "Pure earth fragments are used.",
+    "The remedy aims to prevent recurrence."
+   ],
+   "inference": "It should be treated with pure earth fragments so that it does not arise again.",
+   "uncertainties": [
+    "The exact syntactic role of sahitairna is compressed in the verse"
+   ],
+   "plain_english": "It should be dealt with using pure earth fragments so that it does not arise again."
+  },
+  {
+   "verse": 3195,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "after installing",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "kalaśairdevaṃ",
+     "gloss": "the-god-with-pots",
+     "grounds": "the deity with ritual pots; sandhi with devam",
+     "morph": "m.inst.pl + m.acc.sg"
+    },
+    {
+     "surface": "mūrtihomaṃ",
+     "gloss": "image-offering",
+     "grounds": "fire offering to the image",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "one should carry out",
+     "morph": "3.sg.optative-active √car"
+    }
+   ],
+   "question": "What ritual actions should be performed after establishing the deity with pots?",
+   "premises": [
+    "The deity is established with ritual pots.",
+    "A fire offering is prescribed.",
+    "The offering is directed to the image."
+   ],
+   "inference": "After establishing the deity with pots, one should perform the image fire offering.",
+   "uncertainties": [],
+   "plain_english": "Having established the deity with pots, one should perform the fire offering to the image."
+  },
+  {
+   "verse": 3196,
+   "rows": [
+    {
+     "surface": "garbhagehe",
+     "gloss": "in-sanctum",
+     "grounds": "in the inner sanctum",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "'thavā",
+     "gloss": "or",
+     "grounds": "alternative; sandhi with athavā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāri",
+     "gloss": "at-gate",
+     "grounds": "at the doorway",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saptāhaṃ",
+     "gloss": "for-seven-days",
+     "grounds": "for a period of seven days",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caivamācaret",
+     "gloss": "and-thus-one-should-perform",
+     "grounds": "and one should act thus; sandhi with ca evam",
+     "morph": "(indecl.) + (indecl.) + 3.sg.optative-active √car"
+    }
+   ],
+   "question": "Where and for how long should this remedial procedure be carried out?",
+   "premises": [
+    "The sanctum and gate are possible locations.",
+    "The procedure has a fixed duration.",
+    "The same manner of performance is required."
+   ],
+   "inference": "One should perform it thus for seven days in the sanctum or at the gate.",
+   "uncertainties": [],
+   "plain_english": "In the sanctum or at the gate, one should perform it in this way for seven days."
+  },
+  {
+   "verse": 3197,
+   "rows": [
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-perform",
+     "grounds": "one should do",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in another place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrtyākhyaṃ",
+     "gloss": "called-image-offering",
+     "grounds": "named the image offering; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāntihomamathaikaham",
+     "gloss": "peace-offering-then-for-one-day",
+     "grounds": "a peace fire offering for one day; sandhi with atha ekāham",
+     "morph": "m.acc.sg + (indecl.) + n.acc.sg"
+    }
+   ],
+   "question": "What modified ritual is prescribed when the sign occurs elsewhere?",
+   "premises": [
+    "A different location requires a different procedure.",
+    "A peace fire offering is prescribed.",
+    "The duration is one day."
+   ],
+   "inference": "Elsewhere one should perform the image-related peace fire offering for one day.",
+   "uncertainties": [
+    "mūrtyākhyaṃ is interpreted as qualifying the peace offering"
+   ],
+   "plain_english": "Elsewhere, one should perform the image-related peace fire offering for one day."
+  },
+  {
+   "verse": 3198,
+   "rows": [
+    {
+     "surface": "madhunīḍaṃ",
+     "gloss": "honey-nest",
+     "grounds": "honeycomb nest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cettatsthaṃ",
+     "gloss": "if-situated-there",
+     "grounds": "if located there; sandhi with cet tatstham",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "madhunīḍaṃ",
+     "gloss": "honey-nest",
+     "grounds": "honeycomb nest",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-remove",
+     "grounds": "one should dismiss or remove",
+     "morph": "3.sg.optative-active causative √sṛj"
+    }
+   ],
+   "question": "What action is required if a honey nest is found in that place?",
+   "premises": [
+    "A honey nest may be present.",
+    "Its presence is treated as a specific case.",
+    "Removal is prescribed."
+   ],
+   "inference": "If a honey nest is situated there, one should remove that honey nest.",
+   "uncertainties": [],
+   "plain_english": "But if a honey nest is there, one should remove that honey nest."
+  },
+  {
+   "verse": 3199,
+   "rows": [
+    {
+     "surface": "deveśa",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative address to the lord",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bathing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "after performing",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "diśāhomaṃ",
+     "gloss": "directional-offering",
+     "grounds": "fire offering to the directions",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-conduct",
+     "grounds": "one should perform or lead",
+     "morph": "3.sg.optative-active √nī"
+    }
+   ],
+   "question": "What concluding ritual sequence should be performed for the lord of gods?",
+   "premises": [
+    "A ritual bathing is performed.",
+    "A directional fire offering is prescribed.",
+    "These actions form a sequence."
+   ],
+   "inference": "After performing the bathing, one should then conduct the directional fire offering for the lord of gods.",
+   "uncertainties": [],
+   "plain_english": "O Lord of gods, after performing the bathing, one should then conduct the fire offering to the directions."
+  }
+ ]
+}

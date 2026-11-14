@@ -1,16 +1,13 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3198,
- "question": "What well-adorned figure wears white garment turban and upper garment?",
+ "question": "What action is required if a honey nest is found in that place?",
  "premises": [
-  "very white garment is named",
-  "turban is named",
-  "upper garment is named",
-  "well adorned is named"
+  "A honey nest may be present.",
+  "Its presence is treated as a specific case.",
+  "Removal is prescribed."
  ],
- "inference": "The figure is well adorned with white garment, turban, and upper garment.",
- "uncertainties": [
-  "ritual role"
- ],
- "plain_english": "The figure is well adorned with white garment, turban, and upper garment."
+ "inference": "If a honey nest is situated there, one should remove that honey nest.",
+ "uncertainties": [],
+ "plain_english": "But if a honey nest is there, one should remove that honey nest."
 }
