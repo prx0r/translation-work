@@ -1,0 +1,957 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1826,
+   "rows": [
+    {
+     "surface": "malahīnaṃ",
+     "gloss": "free-from-impurity",
+     "grounds": "adjective describing something devoid of impurity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dananyadhāritam",
+     "gloss": "not-otherwise-held",
+     "grounds": "compound expressing being held without alternative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What condition must an offering meet to avoid immediate ritual fault?",
+   "premises": [
+    "The offering must be free from impurity.",
+    "The offering must be held without any alternative.",
+    "These conditions apply immediately."
+   ],
+   "inference": "An offering that is impurity-free and held without alternative satisfies the required condition.",
+   "uncertainties": [
+    "The exact object qualified by malahīnaṃ and dananyadhāritam is implied from context."
+   ],
+   "plain_english": "It must be free from impurity and immediately held without any other alternative."
+  },
+  {
+   "verse": 1827,
+   "rows": [
+    {
+     "surface": "saṃkaraḥ",
+     "gloss": "mixture",
+     "grounds": "undesirable mixing or confusion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-occur",
+     "grounds": "potential result",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What ritual fault arises if the stated condition is not observed?",
+   "premises": [
+    "Failure to observe the condition produces a fault.",
+    "The fault is described as mixture.",
+    "This result is presented as a consequence."
+   ],
+   "inference": "Neglecting the condition results in ritual mixture.",
+   "uncertainties": [],
+   "plain_english": "Otherwise, a mixture would occur."
+  },
+  {
+   "verse": 1828,
+   "rows": [
+    {
+     "surface": "dagdha",
+     "gloss": "burnt",
+     "grounds": "describes a damaged state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādvipad",
+     "gloss": "elephant-foot",
+     "grounds": "compound naming a specific item or mark",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "states a result",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "dāsyaṃ",
+     "gloss": "servitude",
+     "grounds": "undesirable consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "datte",
+     "gloss": "when-given",
+     "grounds": "locative condition of giving",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gātra",
+     "gloss": "limb",
+     "grounds": "first member of compound referring to body support",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avalambite",
+     "gloss": "rested-on",
+     "grounds": "locative condition of being supported",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What adverse consequences follow from using burnt or improperly supported offerings?",
+   "premises": [
+    "A burnt elephant-foot item leads to servitude.",
+    "This consequence arises when it is given.",
+    "It also arises when rested on a limb."
+   ],
+   "inference": "Using a burnt or improperly supported item brings the consequence of servitude.",
+   "uncertainties": [
+    "The precise referent of ādvipad is unclear from the verse alone."
+   ],
+   "plain_english": "If something burnt, like an elephant-foot item, is given or rested on a limb, servitude results."
+  },
+  {
+   "verse": 1829,
+   "rows": [
+    {
+     "surface": "putranāśaḥ",
+     "gloss": "loss-of-son",
+     "grounds": "compound naming a calamity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjanādau",
+     "gloss": "in-worship-and-such",
+     "grounds": "locative context beginning with worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prayojite",
+     "gloss": "when-employed",
+     "grounds": "locative condition of use",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What calamity results from employing a faulty item in worship rituals?",
+   "premises": [
+    "A faulty item may be employed in worship and similar acts.",
+    "Such employment has a specific consequence.",
+    "The consequence is loss of a son."
+   ],
+   "inference": "Employing the faulty item in worship leads to loss of a son.",
+   "uncertainties": [
+    "The faulty item is understood from the preceding context."
+   ],
+   "plain_english": "If it is employed in worship and similar rites, the loss of a son results."
+  },
+  {
+   "verse": 1830,
+   "rows": [
+    {
+     "surface": "strīpumprabhedataḥ",
+     "gloss": "by-woman-man-difference",
+     "grounds": "ablative compound indicating distinction by gender",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyāni",
+     "gloss": "to-be-known",
+     "grounds": "prescribes discernment",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "agents who should know",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Who must discern the distinctions based on differences between women and men?",
+   "premises": [
+    "Distinctions arise from differences between women and men.",
+    "These distinctions must be known.",
+    "The wise are responsible for knowing them."
+   ],
+   "inference": "The wise must discern the distinctions based on gender differences.",
+   "uncertainties": [
+    "The specific distinctions to be known are not detailed in this verse."
+   ],
+   "plain_english": "The wise should also know these distinctions according to the difference between women and men."
+  },
+  {
+   "verse": 1831,
+   "rows": [
+    {
+     "surface": "gandhaḥ",
+     "gloss": "fragrance",
+     "grounds": "subject of classification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcavidho",
+     "gloss": "fivefold",
+     "grounds": "compound indicating five kinds",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñeyo",
+     "gloss": "to-be-known",
+     "grounds": "prescribes recognition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "modadaḥ",
+     "gloss": "joy-giving",
+     "grounds": "compound describing effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svargavāsinām",
+     "gloss": "of-heaven-dwellers",
+     "grounds": "genitive indicating those who receive joy",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "How many kinds of fragrance give joy to the dwellers of heaven?",
+   "premises": [
+    "Fragrance is classified into kinds.",
+    "There are five kinds of fragrance.",
+    "These fragrances give joy to heaven-dwellers."
+   ],
+   "inference": "Fragrance should be known as fivefold and joy-giving to heaven-dwellers.",
+   "uncertainties": [],
+   "plain_english": "Fragrance should be known as fivefold, giving joy to the dwellers of heaven."
+  },
+  {
+   "verse": 1832,
+   "rows": [
+    {
+     "surface": "gandhāhvayāni",
+     "gloss": "called-fragrances",
+     "grounds": "compound naming items designated as fragrances",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "states classification",
+     "morph": "3.pl.optative-active √as"
+    },
+    {
+     "surface": "cūrṇādyaḥ",
+     "gloss": "powder-and-others",
+     "grounds": "compound indicating powder and similar items",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which substances are traditionally remembered as the first class of fragrance?",
+   "premises": [
+    "Certain substances are called fragrances.",
+    "Powder and similar substances belong to this class.",
+    "This class is remembered as the first."
+   ],
+   "inference": "Powder and similar substances are remembered as the first class of fragrance.",
+   "uncertainties": [],
+   "plain_english": "Powders and the like are called fragrances and are remembered as the first kind."
+  },
+  {
+   "verse": 1833,
+   "rows": [
+    {
+     "surface": "kṛṣṇāguruḥ",
+     "gloss": "black-agallochum",
+     "grounds": "compound naming a fragrant substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kadambaḥ",
+     "gloss": "kadamba",
+     "grounds": "name of a fragrant substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which substances are declared to constitute the second class of fragrance?",
+   "premises": [
+    "Black agallochum is a fragrant substance.",
+    "Kadamba is a fragrant substance.",
+    "Together they are declared as the second class."
+   ],
+   "inference": "Black agallochum and kadamba constitute the second class of fragrance.",
+   "uncertainties": [],
+   "plain_english": "Black agallochum and kadamba are declared to be the second kind."
+  },
+  {
+   "verse": 1834,
+   "rows": [
+    {
+     "surface": "pippalīyantrataḥ",
+     "gloss": "from-pepper-instrument",
+     "grounds": "ablative indicating source or means of preparation",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kācakupyāṃ",
+     "gloss": "in-glass-bottle",
+     "grounds": "locative indicating container",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "prepared",
+     "grounds": "describes accomplished preparation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛtīyakaḥ",
+     "gloss": "third",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the third class of fragrance prepared and contained?",
+   "premises": [
+    "The third class involves a prepared substance.",
+    "It is prepared from a pepper instrument.",
+    "It is contained in a glass bottle."
+   ],
+   "inference": "The third class of fragrance is prepared from a pepper instrument in a glass bottle.",
+   "uncertainties": [
+    "The exact nature of pippalīyantra is not specified."
+   ],
+   "plain_english": "The third kind is prepared from a pepper instrument in a glass bottle."
+  },
+  {
+   "verse": 1835,
+   "rows": [
+    {
+     "surface": "kākaṃ",
+     "gloss": "crow",
+     "grounds": "name or epithet of a substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "turagābhidhānam",
+     "gloss": "called-horse",
+     "grounds": "compound giving an alternative name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aśvakarṇaḥ",
+     "gloss": "aśvakarṇa",
+     "grounds": "name of a substance",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What names identify the substance associated with the fourth fragrance class?",
+   "premises": [
+    "One name given is crow.",
+    "Another designation is called horse.",
+    "The substance is also named aśvakarṇa."
+   ],
+   "inference": "The substance is identified by the names crow, horse-called, and aśvakarṇa.",
+   "uncertainties": [
+    "Whether these are synonyms or components is not fully explicit."
+   ],
+   "plain_english": "It is called crow, also called horse, and is aśvakarṇa."
+  },
+  {
+   "verse": 1836,
+   "rows": [
+    {
+     "surface": "dṛṣṭidoṣāpahārī",
+     "gloss": "removing-sight-defect",
+     "grounds": "compound describing a remedial quality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remedial property is attributed to the substance of this fragrance class?",
+   "premises": [
+    "The substance has a specific property.",
+    "That property relates to sight.",
+    "It removes defects of sight."
+   ],
+   "inference": "The substance is a remover of defects of sight.",
+   "uncertainties": [
+    "The subject is carried over from the previous verse."
+   ],
+   "plain_english": "It removes defects of sight."
+  },
+  {
+   "verse": 1837,
+   "rows": [
+    {
+     "surface": "caturthaḥ",
+     "gloss": "fourth",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sammarda",
+     "gloss": "mixture",
+     "grounds": "name of the class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtyate",
+     "gloss": "is-called",
+     "grounds": "traditional designation",
+     "morph": "3.sg.present-passive √kīrt"
+    }
+   ],
+   "question": "What name is traditionally given to the fourth class of fragrance?",
+   "premises": [
+    "The fourth class is being identified.",
+    "It is given a specific name.",
+    "That name is mixture."
+   ],
+   "inference": "The fourth class of fragrance is called mixture.",
+   "uncertainties": [],
+   "plain_english": "But the fourth is called mixture."
+  },
+  {
+   "verse": 1838,
+   "rows": [
+    {
+     "surface": "tadardha",
+     "gloss": "its-half",
+     "grounds": "compound indicating half proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ailājaṭāmāṃsī",
+     "gloss": "cardamom-spikenard",
+     "grounds": "compound listing ingredients",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvakkuṣṭhaṃ",
+     "gloss": "bark-costus",
+     "grounds": "compound listing ingredients",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilārasaḥ",
+     "gloss": "benzoin",
+     "grounds": "name of an ingredient",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which ingredients are included in the mixture described for this fragrance?",
+   "premises": [
+    "The mixture includes specific ingredients.",
+    "Cardamom and spikenard are included in half measure.",
+    "Bark, costus, and benzoin are also included."
+   ],
+   "inference": "The mixture consists of half-measure cardamom-spikenard along with bark-costus and benzoin.",
+   "uncertainties": [
+    "The exact proportions beyond tadardha are not fully specified."
+   ],
+   "plain_english": "It includes half portions of cardamom and spikenard, along with bark, costus, and benzoin."
+  },
+  {
+   "verse": 1839,
+   "rows": [
+    {
+     "surface": "rājavacā",
+     "gloss": "royal-speech",
+     "grounds": "compound naming an ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds another item",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional ingredient is likewise included in the fragrance mixture?",
+   "premises": [
+    "The list of ingredients continues.",
+    "Another ingredient is added likewise.",
+    "That ingredient is royal-speech."
+   ],
+   "inference": "Royal-speech is likewise included in the mixture.",
+   "uncertainties": [
+    "The botanical identity of rājavacā is uncertain."
+   ],
+   "plain_english": "Likewise, royal-speech is included."
+  },
+  {
+   "verse": 1840,
+   "rows": [
+    {
+     "surface": "kṛṣṇāguruḥ",
+     "gloss": "black-agallochum",
+     "grounds": "name of an ingredient",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālīyaṃ",
+     "gloss": "kālīya",
+     "grounds": "name of an ingredient",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadbhāgāṣṭakam",
+     "gloss": "its-eight-parts",
+     "grounds": "compound indicating eight parts of that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "traditional statement",
+     "morph": "3.sg.present-passive √vac"
+    }
+   ],
+   "question": "What final ingredients and proportion complete the stated fragrance mixture?",
+   "premises": [
+    "Black agallochum is included.",
+    "Kālīya is included.",
+    "Eight parts of that are prescribed."
+   ],
+   "inference": "Black agallochum and kālīya are included as eight parts of the mixture.",
+   "uncertainties": [
+    "The referent of tad in tadbhāgāṣṭakam is context-dependent."
+   ],
+   "plain_english": "Black agallochum and kālīya are said to be included as eight parts of it."
+  },
+  {
+   "verse": 1841,
+   "rows": [
+    {
+     "surface": "devatārājatoṣakṛt",
+     "gloss": "giving-satisfaction-to-deity-king",
+     "grounds": "compound describing the effect of the mixture",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What effect does this fragrance mixture produce for the king of deities?",
+   "premises": [
+    "The mixture has a specific effect.",
+    "The effect is directed toward the king of deities.",
+    "It produces satisfaction."
+   ],
+   "inference": "The mixture gives satisfaction to the king of deities.",
+   "uncertainties": [
+    "The subject is carried over from the preceding verses."
+   ],
+   "plain_english": "It gives satisfaction to the king of the deities."
+  },
+  {
+   "verse": 1842,
+   "rows": [
+    {
+     "surface": "sugandhaḥ",
+     "gloss": "fragrant",
+     "grounds": "describes the quality of the substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadānavatāṣekṛt",
+     "gloss": "giving-satisfaction-to-gods-demons",
+     "grounds": "compound describing the effect on gods and demons",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What broader effect does a fragrant substance have on gods and demons?",
+   "premises": [
+    "A fragrant substance is considered.",
+    "Its effect extends to gods and demons.",
+    "It produces satisfaction for them."
+   ],
+   "inference": "A fragrant substance gives satisfaction to gods and demons.",
+   "uncertainties": [
+    "The exact parsing of devadānavatāṣekṛt is uncertain."
+   ],
+   "plain_english": "Indeed, a fragrant substance gives satisfaction to gods and demons."
+  },
+  {
+   "verse": 1843,
+   "rows": [
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "quality category",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hīna",
+     "gloss": "low",
+     "grounds": "first member of compound indicating inferior category",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anteṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive referring to the group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "i-shall-tell",
+     "grounds": "statement of intent to explain",
+     "morph": "1.sg.future-active √vac"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "object to be explained",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What characteristics of middle and low categories will be explained next?",
+   "premises": [
+    "There are middle and low categories among these.",
+    "Their characteristics are to be explained.",
+    "The speaker intends to tell them."
+   ],
+   "inference": "The speaker will explain the characteristics of the middle and low categories.",
+   "uncertainties": [
+    "The exact scope of anteṣāṃ depends on prior context."
+   ],
+   "plain_english": "I shall tell the characteristics of the middle and low among these."
+  },
+  {
+   "verse": 1844,
+   "rows": [
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "subject being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāmrajaṃ",
+     "gloss": "copper-born",
+     "grounds": "compound describing origin or color",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of flower is declared in this classification?",
+   "premises": [
+    "A flower is being classified.",
+    "It is described as copper-born.",
+    "This description is declared."
+   ],
+   "inference": "A copper-born flower is declared in this classification.",
+   "uncertainties": [
+    "The meaning of tāmrajaṃ may refer to color or origin."
+   ],
+   "plain_english": "A copper-born flower is declared."
+  },
+  {
+   "verse": 1845,
+   "rows": [
+    {
+     "surface": "jātī",
+     "gloss": "jasmine",
+     "grounds": "name of a flower",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālatī",
+     "gloss": "mālatī",
+     "grounds": "name of a flower",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasiddha",
+     "gloss": "well-known",
+     "grounds": "describes common recognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālatī",
+     "gloss": "mālatī",
+     "grounds": "repeated name of the flower",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which flowers are recognized as well-known examples in this context?",
+   "premises": [
+    "Jasmine is mentioned as an option.",
+    "Mālatī is mentioned as an alternative.",
+    "Mālatī is emphasized as well-known."
+   ],
+   "inference": "Jasmine or mālatī, especially the well-known mālatī, is recognized.",
+   "uncertainties": [],
+   "plain_english": "Jasmine or mālatī, indeed the well-known mālatī."
+  },
+  {
+   "verse": 1846,
+   "rows": [
+    {
+     "surface": "koṣṇakaṃ",
+     "gloss": "lukewarm",
+     "grounds": "describes an unsuitable condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taptam",
+     "gloss": "heated",
+     "grounds": "describes an unsuitable condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛmibhakṣitam",
+     "gloss": "worm-eaten",
+     "grounds": "compound describing damage by worms",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What defective conditions make a flower unsuitable for ritual use?",
+   "premises": [
+    "A flower may be lukewarm.",
+    "A flower may be heated.",
+    "A flower may be worm-eaten."
+   ],
+   "inference": "Lukewarm, heated, or worm-eaten flowers are defective.",
+   "uncertainties": [
+    "The subject flower is implied from context."
+   ],
+   "plain_english": "Lukewarm, heated, or worm-eaten."
+  },
+  {
+   "verse": 1847,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ugragandham",
+     "gloss": "strong-smelling",
+     "grounds": "compound describing overpowering smell",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agandhaṃ",
+     "gloss": "smell-less",
+     "grounds": "compound describing absence of smell",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyāhnasnānataḥ",
+     "gloss": "from-midday-bathing",
+     "grounds": "ablative indicating origin after midday bathing",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional defects disqualify flowers from proper ritual offering?",
+   "premises": [
+    "Flowers with overpowering smell are defective.",
+    "Flowers without smell are defective.",
+    "Flowers taken after midday bathing are likewise defective."
+   ],
+   "inference": "Strong-smelling, smell-less, or post-midday-bathing flowers are disqualified.",
+   "uncertainties": [
+    "The exact ritual reason for madhyāhnasnānataḥ is not stated."
+   ],
+   "plain_english": "Likewise, those with a strong smell, without smell, or taken after midday bathing."
+  },
+  {
+   "verse": 1848,
+   "rows": [
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "traditional statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathotpannaṃ",
+     "gloss": "as-produced",
+     "grounds": "compound indicating natural state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathārpaṇam",
+     "gloss": "so-offering",
+     "grounds": "compound indicating offering in that same state",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In what natural condition should an offering be presented according to tradition?",
+   "premises": [
+    "The manner of offering is declared.",
+    "The item should be as it is produced.",
+    "The offering should be made in that same state."
+   ],
+   "inference": "An offering should be presented in its natural, as-produced state.",
+   "uncertainties": [],
+   "plain_english": "It is declared that the offering should be made just as it was produced."
+  },
+  {
+   "verse": 1849,
+   "rows": [
+    {
+     "surface": "neṣṭaṃ",
+     "gloss": "not-desired",
+     "grounds": "negated desirability",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣpāñjalividhau",
+     "gloss": "in-flower-handful-rite",
+     "grounds": "locative compound naming the ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the unsuitable item",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is a defective item rejected in the rite of offering a handful of flowers?",
+   "premises": [
+    "The context is the rite of offering a handful of flowers.",
+    "A defective item is considered.",
+    "Such an item is not desired in that rite."
+   ],
+   "inference": "A defective item is not desired in the flower-handful rite.",
+   "uncertainties": [
+    "The specific defective item is understood from the preceding verses."
+   ],
+   "plain_english": "That is not desired in the rite of offering a handful of flowers."
+  }
+ ]
+}

@@ -3,29 +3,39 @@
  "verse": 1680,
  "rows": [
   {
-   "lemma": "susaṃhita",
-   "morph": "compound:susaṃhita+first",
-   "grounds": "first member of compound"
+   "lemma": "śāla",
+   "morph": "śāla+stem (compound-member)",
+   "grounds": "first member of the place-name Śālagrāma"
   },
   {
-   "lemma": "padaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "unit of spatial layout"
+   "lemma": "grāma",
+   "morph": "grāma+stem (compound-member)",
+   "grounds": "second member of the place-name Śālagrāma"
   },
   {
-   "lemma": "karṇasūtra",
-   "morph": "compound:karṇasūtra+first",
-   "grounds": "first member of compound"
+   "lemma": "śilā",
+   "morph": "f.nom.sg",
+   "grounds": "sacred stone associated with Śālagrāma"
   },
   {
-   "lemma": "yuktaṃ",
-   "morph": "n.acc.sg.past-passive-participle √yuj",
-   "grounds": "describes alignment with diagonal lines"
+   "lemma": "yatra",
+   "morph": "(indecl.)",
+   "grounds": "relative locative introducing first location"
   },
   {
-   "lemma": "prakalpayet",
-   "morph": "3.sg.opt.act pra-√kḷp",
-   "grounds": "prescriptive optative"
+   "lemma": "yatra",
+   "morph": "(indecl.)",
+   "grounds": "relative locative introducing second location"
+  },
+  {
+   "lemma": "dvāravatī",
+   "morph": "f.nom.sg",
+   "grounds": "place-name associated with the second stone"
+  },
+  {
+   "lemma": "śilā",
+   "morph": "f.nom.sg",
+   "grounds": "sacred stone associated with Dvāravatī"
   }
  ]
 }
