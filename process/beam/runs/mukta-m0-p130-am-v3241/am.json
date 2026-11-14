@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3241,
- "question": "Where should a wise person install images of Brahmā and other deities relative to Śiva's domain?",
+ "question": "How are pairs of elements distributed across single and paired locations?",
  "premises": [
-  "Images of Brahmā and other deities are under consideration.",
-  "Their placement must be distinguished from Śiva's primary place.",
-  "A wise person should install them appropriately."
+  "A single place is mentioned.",
+  "A pair of places is mentioned.",
+  "Two pairs are indicated."
  ],
- "inference": "Therefore the wise person should install images of Brahmā and others elsewhere than in that place.",
- "uncertainties": [],
- "plain_english": "The wise person should install images of Brahmā and other deities elsewhere than in that place."
+ "inference": "Two elements are placed in a single place and two in a pair of places.",
+ "uncertainties": [
+  "The exact mapping of each pair to each location is terse."
+ ],
+ "plain_english": "In one place and in a pair of places, two and two."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3246,
- "question": "Which deities' places are mentioned as appropriate within the designated sacred arrangement?",
+ "question": "Which yoginīs are named in this part of the placement sequence?",
  "premises": [
-  "Specific deity places are being enumerated.",
-  "The Sun, Indra, Fire, and Yama are named.",
-  "These places are considered in the arrangement."
+  "Ḍākinī is named.",
+  "Mahārahasyā is named.",
+  "Hākinī is named."
  ],
- "inference": "Therefore the places of the Sun, Indra, Fire, or Yama are included in the arrangement.",
- "uncertainties": [],
- "plain_english": "The place may be that of the Sun, or likewise of Indra, or of Fire, or of Yama."
+ "inference": "The sequence names Ḍākinī, Mahārahasyā, and Hākinī.",
+ "uncertainties": [
+  "The token mahārahasya appears without final long ā as listed; taken as the goddess name by context."
+ ],
+ "plain_english": "Ḍākinī, and then Mahārahasyā and Hākinī."
 }

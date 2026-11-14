@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3132,
- "question": "What harmful consequences arise from faults in the southeast and south directions?",
+ "question": "Which directional traditions are said to appear in different places?",
  "premises": [
-  "A fault in the southeast leads to fire-burning.",
-  "A fault in the south leads to quarrel.",
-  "These are stated as possible outcomes."
+  "The upper tradition is mentioned",
+  "Southern, northern, and western traditions are mentioned",
+  "Their occurrence varies by place"
  ],
- "inference": "Misplacement in the southeast causes fire, and in the south causes quarrel.",
- "uncertainties": [],
- "plain_english": "In the southeast there would be fire-burning; in the south there would be quarrel."
+ "inference": "Different directional traditions are found in different places.",
+ "uncertainties": [
+  "The governing verb is implied from context."
+ ],
+ "plain_english": "Somewhere the upper tradition, and somewhere the southern, northern, and western traditions."
 }

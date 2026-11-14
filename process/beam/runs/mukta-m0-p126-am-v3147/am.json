@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3147,
- "question": "What structural damages to walls and gateways require remedial measures?",
+ "question": "Whose speech is characterized by meaning that follows it?",
  "premises": [
-  "The enclosure wall may be damaged.",
-  "The gateway tower may be damaged.",
-  "Decay, falling, or cracking are relevant defects."
+  "A person's speech is mentioned",
+  "Meaning follows that speech",
+  "The speaker identifies with this standard"
  ],
- "inference": "Decay, collapse, or cracking of the wall or gateway requires remedial measures.",
- "uncertainties": [],
- "plain_english": "When the enclosure wall or the gateway tower is decayed, fallen, cracked, and so on."
+ "inference": "The verse characterizes an authoritative speaker whose meaning follows their speech.",
+ "uncertainties": [
+  "The sentence is elliptical and may continue in context."
+ ],
+ "plain_english": "We are those whose meaning follows the speech of whom."
 }
