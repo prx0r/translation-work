@@ -3,24 +3,34 @@
  "verse": 520,
  "rows": [
   {
-   "lemma": "tadbāhye'bhyantare",
-   "morph": "compound: tad+bāhya+abhyantara (n.loc.sg)",
-   "grounds": "on the outside and inside of that"
+   "lemma": "sarvaliṅgaṃ",
+   "morph": "compound=sarva+liṅga; n.acc.sg",
+   "grounds": "compound referring to the linga as encompassing all"
   },
   {
-   "lemma": "caiva",
+   "lemma": "sthāpayati",
+   "morph": "3.sg.present-active; root=sthā",
+   "grounds": "present verb in quoted formula context"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "emphatic connective"
+   "grounds": "quotation marker"
   },
   {
-   "lemma": "yogavyāso",
-   "morph": "compound: yoga+vyāsa (m.nom.sg)",
-   "grounds": "breadth of the frame"
+   "lemma": "liṅgaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "object to be placed"
   },
   {
-   "lemma": "gatāśritam",
-   "morph": "compound: gata+āśrita (n.nom.sg)",
-   "grounds": "set in accordance with that position"
+   "lemma": "nikṣipet",
+   "morph": "3.sg.optative-active; root=ni-kṣip",
+   "grounds": "optative prescribing placement"
+  },
+  {
+   "lemma": "kare",
+   "morph": "m.loc.sg",
+   "grounds": "locative specifying placement"
   }
  ]
 }

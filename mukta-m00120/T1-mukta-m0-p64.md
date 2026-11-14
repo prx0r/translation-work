@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[delight](ramaṇaṃ) [power+united](śaktisaṃyuktaṃ) [own+bodies](svadeheṣu) [special](viśeṣakam)
+[delight](ramaṇaṃ) [power+united](śakti+saṃyuktaṃ) [own+bodies](sva+deheṣu) [distinguished](viśeṣakam)
 
 ## mukta-m0-p64-v1577
-[own+power](svaśakti) [delight+for+even](ramaṇārthe'pi) [supreme+power](paraśaktiṃ) [should-enjoy](ramet) [in-śiva](śive)
+[own+power](sva+śakti) [delight+for-the-sake](ramaṇa+arthe) [even](api) [other+power](para+śaktiṃ) [should-enjoy](ramet) [in-Śiva](śive)
 
 ## mukta-m0-p64-v1578
-[own+power](svaśaktiṃ) [supreme+power](paraśaktiṃ) [or](vā) [and+one](caikāṃ) [having-known](jñātvā) [should-enjoy](ramet) [auspicious](śivām)
+[own+power](sva+śaktiṃ) [other+power](para+śaktiṃ) [or](vā) [one](caikāṃ) [having-known](jñātvā) [should-enjoy](ramet) [auspicious](śivām)
 
 ## mukta-m0-p64-v1579
-[such](tādṛk) [happiness](sukhaṃ) [of-body](śarīrasya) [ever+not+indeed](kadācinnaiva) [arises](jāyate)
+[such](tādṛk) [happiness](sukhaṃ) [of-the-body](śarīrasya) [ever](kadācit) [not+indeed](na+eva) [arises](jāyate)
 
 ## mukta-m0-p64-v1580
-[delight](ramā) [worship+mere](pūjanamātreṇa) [delight](ramā) [his](tasya) [in-hand](kare) [situated](sthitā)
+[Ramā](ramā) [worship+mere](pūjana+mātreṇa) [Ramā](ramā) [his](tasya) [in-hand](kare) [situated](sthitā)
 
 ## mukta-m0-p64-v1581
-[therefore+indeed](ata) [thus](eva) [kula+practitioner](kulācārī) [by-mouth](mukhena) [devotion+partaking](bhaktibhāg) [should-be](bhavet)
+[therefore](ata) [indeed](eva) [kula+practitioner](kula+ācārī) [by-mouth](mukhena) [devotion+partaking](bhakti+bhāg) [should-be](bhavet)
 
 ## mukta-m0-p64-v1582
-[own+will+conduct](svecchācāre) [yoni+cavity](yoni) [in-cavity](garte) [liṅga](liṅgaṃ) [should-place](dadyāt) [by-that+command](tadājñayā)
+[own-will+conduct](sva+icchā+ācāre) [vulva+cavity](yoni+garte) [liṅga](liṅgaṃ) [should-place](dadyāt) [by-her-command](tat+ājñayā)
 
 ## mukta-m0-p64-v1583
-[union](maithunaṃ) [if](cet) [power+united](śakti) [united](yuktaṃ) [only](kevalaṃ) [by-power+command](śakterājñayā)
+[sexual-union](maithunaṃ) [if](cet) [power+united](śakti+yuktaṃ) [only](kevalaṃ) [of-Śakti+by-command](śakteḥ+ājñayā)
 
 ## mukta-m0-p64-v1584
-[in-own+house](svagehe) [milk-rice](pāyasaṃ) [having-abandoned](tyaktvā) [alms](bhikṣāmaṭati) [wanders](bhikṣāmaṭati) [evil-minded](durmatiḥ)
+[own+house](sva+gehe) [rice-pudding](pāyasaṃ) [having-abandoned](tyaktvā) [alms](bhikṣām) [wanders](aṭati) [evil-minded](durmatiḥ)
 
 ## mukta-m0-p64-v1585
-[thus](iti) [śrī+sarvānandanātha+composed](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [fifty-second+chapter](dvāpañcāśadullāsaḥ)
+[thus](iti) [by-Śrī-Sarvānandanātha+composed](śrī+sarvānandanātha+viracite) [in-Sarvollāsa](sarva+ullāse) [fifty-second+chapter](dvāpañcāśat+ullāsaḥ)
 
 ## mukta-m0-p64-v1586
-[ever+blissful](sadānandaḥ) [ever+peaceful](sadā) [peaceful](śāntaḥ) [siddhānta+conduct](siddhāntācāra) [is-called](ucyate)
+[ever+blissful](sadā+ānandaḥ) [ever+peaceful](sadā+śāntaḥ) [siddhānta+conduct](siddhānta+ācāra) [is-called](ucyate)
 
 ## mukta-m0-p64-v1587
 [not](na) [they](te) [see](paśyanti) [that](taṃ) [god](devaṃ) [in-vain](vṛthā) [their](teṣāṃ) [effort](pariśramaḥ)
 
 ## mukta-m0-p64-v1588
-[family](kulaṃ) [conduct](śīlaṃ) [and](tathā) [birth+and](jātiścāṣṭau) [eight](jātiścāṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
+[family](kulaṃ) [conduct](śīlaṃ) [likewise](tathā) [birth](jātiḥ) [and-eight](ca+aṣṭau) [bonds](pāśāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p64-v1589
-[he](sa) [soul](jīvaḥ) [o-supreme-goddess](parameśāni) [śiva+indeed](śiva) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[that](sa) [soul](jīvaḥ) [O-supreme-goddess](parama+īśāni) [Śiva](śiva) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p64-v1590
-[therefore+indeed](ata) [thus](eva) [kula+practitioner](kulācārī) [self](ātmānaṃ) [should-please+with-joy](toṣayenmudā)
+[therefore](ata) [indeed](eva) [kula+practitioner](kula+ācārī) [self](ātmānaṃ) [should-satisfy](toṣayet) [with-joy](mudā)
 
 ## mukta-m0-p64-v1591
-[enjoyment+and](bhogaśca) [liberation+and](mokṣaśca) [in-hand+situated+indeed](karastha) [indeed](eva)
+[enjoyment](bhogaḥ) [and](ca) [liberation](mokṣaḥ) [and](ca) [in-hand+standing](kara+stha) [indeed](eva)
 
 ## mukta-m0-p64-v1592
-[self](ātmānaṃ) [deity](devatāṃ) [having-considered](matvā) [should-please+by-delight+etc](toṣayedramaṇādinā)
+[self](ātmānaṃ) [deity](devatāṃ) [having-considered](matvā) [should-satisfy](toṣayet) [by-delight+and-so-on](ramaṇa+ādinā)
 
 ## mukta-m0-p64-v1593
-[in-hand+situated](karasthaṃ) [kaustubha-gem](kaustubhaṃ) [having-abandoned](tyaktvā) [wanders](bhramate) [by-glass+desire](kāca) [desire](tṛṣṇayā)
+[in-hand](kara+sthaṃ) [Kaustubha-jewel](kaustubhaṃ) [having-abandoned](tyaktvā) [wanders](bhramate) [glass+craving](kāca+tṛṣṇayā)
 
 ## mukta-m0-p64-v1594
-[soul](jīvaṃ) [god+consisting](deva) [consisting](mayaṃ) [having-known](jñātvā) [should-please](toṣayed) [in-food+etc](bhojanādiṣu)
+[soul](jīvaṃ) [god+consisting-of](deva+mayaṃ) [having-known](jñātvā) [should-satisfy](toṣayet) [in-eating+and-so-on](bhojana+ādiṣu)
 
 ## mukta-m0-p64-v1595
-[pleasure+pain+etc](sukhaduḥkhādayaḥ) [all](sarve) [of-soul+also](jīvasyāpi) [o-great-goddess](maheśvari)
+[happiness+suffering+and-so-on](sukha+duḥkha+ādayaḥ) [all](sarve) [of-the-soul](jīvasya) [also](api) [O-great-goddess](mahā+īśvari)
 
 ## mukta-m0-p64-v1596
-[for-delusion](vimohanāya) [of-people](lokānāṃ) [therefore](tasmāt) [equal+minded](sama) [minded](manā) [should-be](bhavet)
+[for-deluding](vimohanāya) [of-people](lokānāṃ) [therefore](tasmāt) [equal+minded](sama+manā) [one-should-be](bhavet)
 
 ## mukta-m0-p64-v1597
-[difference+notion](bheda) [notion](bhāva) [mind](mano) [whose](yasya) [his](tasya) [liberation](mokṣo) [not](na) [arises](jāyate)
+[difference+feeling](bheda+bhāva) [mind](mano) [of-whom](yasya) [his](tasya) [liberation](mokṣo) [not](na) [arises](jāyate)
 
 ## mukta-m0-p64-v1598
-[all](sarvaṃ) [body+consisting](dehamayaṃ) [having-known](jñātvā) [body](dehaṃ) [in-śiva](śive)
+[all](sarvaṃ) [body+consisting-of](deha+mayaṃ) [having-known](jñātvā) [body](dehaṃ) [in-Śiva](śive)
 
 ## mukta-m0-p64-v1599
-[soul+knowledge](jīva) [knowledge](jñānaṃ) [without](vinā) [o-goddess](devi) [śiva+knowledge](śiva) [knowledge](jñānaṃ) [not](na) [if](cet) [anywhere](kvacit)
+[soul+knowledge](jīva+jñānaṃ) [without](vinā) [O-goddess](devi) [Śiva+knowledge](śiva+jñānaṃ) [not](na) [if](cet) [anywhere](kvacit)
 
 ## mukta-m0-p64-v1600
-[self+brahman+thus](ātmabrahmeti) [having-known](saṃjñātvā) [god+brahman+thus](devabrahmeti) [should-contemplate](bhāvayet)
+[self+Brahman+thus](ātma+brahma+iti) [having-known](saṃjñātvā) [god+Brahman+thus](deva+brahma+iti) [should-conceive](bhāvayet)

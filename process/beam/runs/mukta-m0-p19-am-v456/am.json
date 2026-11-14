@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p19",
  "verse": 456,
- "question": "What breadth and height measurements are prescribed for the rim in finger-widths?",
+ "question": "How many times should the deity's six-syllable mantra be recited at minimum?",
  "premises": [
-  "A breadth measurement is specified",
-  "A height measurement is specified",
-  "The measures are twelve and four finger-widths respectively"
+  "The mantra to be recited is the six-syllable one.",
+  "The recitation count is specified.",
+  "The count should not be less than one hundred and eight."
  ],
- "inference": "The rim should be twelve finger-widths wide and four finger-widths high.",
- "uncertainties": [
-  "The subject is implied from context as a rim or ledge of the fire-pit."
- ],
- "plain_english": "It should be twelve finger-widths wide and four finger-widths high."
+ "inference": "One should recite the six-syllable mantra no fewer than one hundred and eight times.",
+ "uncertainties": [],
+ "plain_english": "One should recite my six-syllable mantra no fewer than one hundred and eight times."
 }

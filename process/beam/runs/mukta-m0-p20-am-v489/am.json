@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 489,
- "question": "Where should a lotus seat be fashioned in relation to the pillar and platform?",
+ "question": "Which mantra is recited while contemplating the ritual petition?",
  "premises": [
-  "The location is at the pillar base.",
-  "It is above the platform."
+  "A petition is to be contemplated or expressed.",
+  "The mantra beginning 'ajāta' is recited.",
+  "Recitation accompanies the petition."
  ],
- "inference": "A lotus seat should be fashioned at the base of the pillar above the platform.",
- "uncertainties": [],
- "plain_english": "At the base of the pillar, above the platform, one should fashion a lotus seat."
+ "inference": "One should contemplate the petition while reciting the mantra beginning 'ajāta'.",
+ "uncertainties": [
+  "The sense of vibhāvayet may be to manifest, express, or contemplate."
+ ],
+ "plain_english": "Reciting the mantra beginning 'ajāta', one should contemplate the petition."
 }
