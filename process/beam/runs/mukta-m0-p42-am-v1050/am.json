@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1050,
- "question": "What observance must a mantra practitioner undertake in Durgā's abode for three nights?",
+ "question": "Which additional ritual implements must be arranged together with the enclosing sticks in this procedure?",
  "premises": [
-  "A mantra practitioner stays in Durgā's abode.",
-  "The stay lasts for three nights.",
-  "The practitioner abstains from food during this period."
+  "A ghee vessel is included among the required items.",
+  "The enclosing sticks are again specified in the arrangement.",
+  "Handfuls of kuśa grass are likewise to be included."
  ],
- "inference": "Remaining in Durgā's abode for three nights without food constitutes the prescribed observance for the mantra practitioner.",
- "uncertainties": [],
- "plain_english": "The mantra practitioner, having stayed in Durgā's abode for three nights while abstaining from food, undertakes the prescribed observance."
+ "inference": "The ritual arrangement requires the ghee vessel, the enclosing sticks, and handfuls of kuśa grass together.",
+ "uncertainties": [
+  "The exact syntactic role of kuśa+muṣṭayaḥ in the nominative alongside accusative items is context-dependent."
+ ],
+ "plain_english": "The ghee vessel, the enclosing sticks, and likewise handfuls of kuśa grass are to be arranged."
 }

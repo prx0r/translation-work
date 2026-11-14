@@ -5,73 +5,73 @@
 [having-come](āgatya) [opportunity](samayaṃ) [having-obtained](labdhvā) [by-Bhairava](bhairaveṇa) [urged](pracoditāḥ)
 
 ## mukta-m0-p02-v27
-[fruit](phalaṃ) [that](tad) [they-will-give](dāsyanti) [result](phalam)
+[fruit](phalaṃ) [that](tad) [they-will-give](dāsyanti)
 
 ## mukta-m0-p02-v28
-[by-this](anena) [accomplished](siddhāḥ) [they-will-succeed](setsyanti) [and](ca) [they-accomplish](sādhayanti) [mantra-practitioners](mantriṇaḥ)
+[by-this](anena) [accomplished](siddhāḥ) [they-will-succeed](setsyanti) [they-accomplish](sādhayanti) [and](ca) [mantra-practitioners](mantriṇaḥ)
 
 ## mukta-m0-p02-v29
-[from-absorption](samādheḥ) [and-from-aghora](aghora+) [mantra](mantrataḥ) [and](ca) [it-succeeds](siddhyati)
+[from-absorption](samādheḥ) [from-aghora-mantra](aghora+mantrataḥ) [and](ca) [it-succeeds](siddhyati)
 
 ## mukta-m0-p02-v30
-[unseen](adṛṣṭa+) [maṇḍala](maṇḍalaḥ) [even](api) [thus](evaṃ) [who](yaḥ) [something](kiñcid) [knows](vetti) [in-truth](tattvataḥ)
+[unseen-maṇḍala](adṛṣṭa+maṇḍalaḥ) [even](api) [thus](evaṃ) [who](yaḥ) [something](kiñcid) [knows](vetti) [in-reality](tattvataḥ)
 
 ## mukta-m0-p02-v31
-[from-ritual](karma+) [performance](anuṣṭhānāt) [even](api) [unsurpassed](anuttaraḥ) [most-excellent](atyutkṛṣṭaḥ)
+[from-ritual-performance](karma+anuṣṭhānāt) [even](api) [unsurpassed](anuttaraḥ) [most-excellent](atyutkṛṣṭaḥ)
 
 ## mukta-m0-p02-v32
-[by-this](anena) [known](jñāta+) [merely](matreṇa) [it-is-known](jñāyate) [by-all](sarva+) [powers](śaktibhiḥ)
+[by-this](anena) [known-merely](jñāta+mātreṇa) [it-is-known](jñāyate) [by-all-powers](sarva+śaktibhiḥ)
 
 ## mukta-m0-p02-v33
-[not-knowing](a+) [rule](vidhijñaḥ) [knowing](vidhāna+) [rule](jñaḥ) [becomes](jāyate) [worship](yajanaṃ) [towards](prati)
+[rule-unknowing](avidhijñaḥ) [rule-knowing](vidhānajñaḥ) [becomes](jāyate) [worship](yajanaṃ) [with-regard-to](prati)
 
 ## mukta-m0-p02-v34
-[of-initiation](dīkṣāyā) [worship](yajanaṃ) [towards](prati) [knowing](vidhāna+) [rule](jñaḥ) [becomes](jāyate)
+[of-initiation](dīkṣāyā) [worship](yajanaṃ) [with-regard-to](prati) [rule-knowing](vidhānajñaḥ) [becomes](jāyate)
 
 ## mukta-m0-p02-v35
-[Śiva](śivaḥ) [beginning-with-universe](viśva+) [ādi](ādi+) [ending-with-infinite](anantāntaḥ) [supreme](paraṃ) [power](śakti+) [triad](trayaṃ) [considered](matam)
+[Śiva](śivaḥ) [beginning-with-universe](viśva+ādi) [ending-with-Ananta](ananta+antaḥ) [supreme](paraṃ) [triad-of-powers](śakti+trayaṃ) [considered](matam)
 
 ## mukta-m0-p02-v36
-[peaceful](śāntā) [beyond-peace](śāntyatītā+) [ādi](ādi+) [triad](trayaṃ) [subtle](sūkṣmam) [and](ca) [excellent](utkṛṣṭaṃ) [considered](matam)
+[Śāntā](śāntā) [triad-beginning-with-Śāntyatītā](śāntyatītā+ādi+trayaṃ) [subtle](sūkṣmam) [excellent](utkṛṣṭaṃ) [and](ca) [considered](matam)
 
 ## mukta-m0-p02-v37
-[individual-soul](aṇuḥ) [fully-purified](viśuddham) [without-delay](acirāt) [lordly](aiśvaraṃ) [knowledge](jñānam) [attains](aśnute)
+[individual-soul](aṇuḥ) [purified](viśuddham) [without-delay](acirāt) [lordly](aiśvaraṃ) [knowledge](jñānam) [attains](aśnute)
 
 ## mukta-m0-p02-v38
-[to-be-expressed](vācyāḥ) [denoted](vācyāḥ) [signified](vācyāḥ) [meant](vācyāḥ)
+[to-be-expressed](vācyāḥ)
 
 ## mukta-m0-p02-v39
-[all-pervading](sarvagaḥ) [stainless](nirmalaḥ) [clear](svacchaḥ) [satisfied](tṛptaḥ) [self-abiding](svāyatanaḥ) [pure](śuciḥ)
+[all-pervading](sarvagaḥ) [stainless](nirmalaḥ) [clear](svacchaḥ) [satisfied](tṛptaḥ) [self-abiding](sva+āyatanaḥ) [pure](śuciḥ)
 
 ## mukta-m0-p02-v40
-[likewise](tathā) [in-heart](hṛdaya+) [seed](bīja+) [situated](sthaṃ) [world](jagat) [this](etat) [moving](cara+) [and-unmoving](acaram)
+[likewise](tathā) [situated-in-heart-seed](hṛdaya+bīja+sthaṃ) [world](jagat) [this](etat) [moving-and-unmoving](cara+acaram)
 
 ## mukta-m0-p02-v41
-[something](kiñcid) [incongruous](asamañjasam) [somewhat](kiñcit) [improper](asamañjasam)
+[something](kiñcid) [improper](asamañjasam)
 
 ## mukta-m0-p02-v42
-[initiation](dīkṣā) [becomes](bhavati) [doubtless](asaṃdigdhā) [sesame](tila+) [ghee](ājya+) [oblation](āhuti+) [devoid](varjitā)
+[initiation](dīkṣā) [becomes](bhavati) [doubtless](asaṃdigdhā) [devoid-of-sesame-and-ghee-oblations](tila+ājya+āhuti+varjitā)
 
 ## mukta-m0-p02-v43
-[battle](raṇam) [not-expecting](anapekṣamāṇā) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[not-expecting-battle](raṇam+anapekṣamāṇā) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p02-v44
-[placement](nyāsaṃ) [having-done](kṛtvā) [tuft](śikhāṃ) [having-tied](baddhvā) [with-twenty-seven](saptaviṃśati+) [mantra-empowered](mantritām)
+[nyāsa](nyāsaṃ) [having-performed](kṛtvā) [tuft-of-hair](śikhāṃ) [having-tied](baddhvā) [consecrated-with-twenty-seven](saptaviṃśati+mantritām)
 
 ## mukta-m0-p02-v45
-[tuft](śikhāṃ) [having-tied](baddhvā) [crest](śikhāṃ) [bound](baddhvā)
+[tuft-of-hair](śikhāṃ) [having-tied](baddhvā)
 
 ## mukta-m0-p02-v46
-[clap](tāla+) [three](trayaṃ) [first](purā) [having-given](datvā) [with-sound](saśabdaṃ) [for-obstacle](vighna+) [pacification](śāntaye)
+[three-claps](tāla+trayaṃ) [first](purā) [having-given](datvā) [with-sound](saśabdaṃ) [for-appeasement-of-obstacles](vighna+śāntaye)
 
 ## mukta-m0-p02-v47
-[thus](iti) [with-sound](saśabdaṃ) [clap](tāla+) [three](trayaṃ) [having-given](dattvā) [for-obstacle](pratyūha+) [appeasement](upaśamanāya)
+[thus](iti) [with-sound](saśabdaṃ) [three-claps](tāla+trayaṃ) [having-given](dattvā) [for-removal-of-obstacles](pratyūha+upaśamanāya)
 
 ## mukta-m0-p02-v48
-[flower](puṣpa+) [and-so-forth](ādikaṃ) [in-order](kramāt) [all](sarvaṃ) [on-liṅga](liṅge) [or](vā) [on-altar](sthaṇḍile) [or](athavā)
+[flowers-etc.](puṣpa+ādikaṃ) [in-order](kramāt) [all](sarvaṃ) [on-liṅga](liṅge) [or](vā) [on-altar](sthaṇḍile) [or](athavā)
 
 ## mukta-m0-p02-v49
-[with-flower](puṣpeṇa) [thus](iti) [flower](puṣpa+) [seat](āsana+) [and-so-forth](ādikāṃ) [worship](pūjāṃ) [one-should-perform](kuryāt)
+[with-flower](puṣpeṇa) [thus](iti) [worship-beginning-with-flower-seat](puṣpa+āsana+ādikāṃ) [worship](pūjāṃ) [one-should-perform](kuryāt)
 
 ## mukta-m0-p02-v50
 [then](tataḥ) [emanation](sṛṣṭiṃ) [should-worship](yajet) [hero](vīraḥ) [again](punar) [indeed](eva) [seat](āsanaṃ) [then](tataḥ)

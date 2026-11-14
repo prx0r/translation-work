@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p413",
+ "items": [
+  {
+   "verse": 10325,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable indicating continuation of the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "locative plural denoting the intermediate corner locations",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūjyāni",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive expressing obligation in ritual worship",
+     "morph": "n.nom.pl.gerundive (√pūj)"
+    },
+    {
+     "surface": "rakṣaḥ",
+     "gloss": "guardian-beings",
+     "grounds": "entities designated for worship in the corners",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "prāci+antara+antimam",
+     "gloss": "east-interval-ending-with",
+     "grounds": "compound specifying the sequence concluding with the eastern interval; prāci+antara+antima",
+     "morph": "compound (n.nom.pl.adj)"
+    }
+   ],
+   "question": "Which guardian beings must be worshipped in the corners and in what concluding sequence?",
+   "premises": [
+    "The ritual instruction continues with the word punaḥ.",
+    "The corners are specified as the locations for worship.",
+    "Guardian beings concluding with the eastern interval are designated as worshippable."
+   ],
+   "inference": "Guardian beings, in a sequence ending with the eastern interval, are to be worshipped again in the corners.",
+   "uncertainties": [
+    "The exact referents of rakṣaḥ in this ritual context are not specified in the verse."
+   ],
+   "plain_english": "Again, in the corners, the guardian beings are to be worshipped in order, ending with the interval of the east."
+  }
+ ]
+}
