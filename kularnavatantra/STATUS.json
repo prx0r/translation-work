@@ -1,17 +1,17 @@
 {
  "work": "kularnavatantra",
- "updated": "2026-11-13",
- "next": "minimal gold 76/77 built songs; 1 need assessor (see blocked_songs); machine-proposed, human review pending",
+ "updated": "2026-11-14",
+ "next": "minimal gold 79/79 built songs (p39 fixed, p62 hand-drafted+assembled, p11 hand-drafted+assembled); machine-proposed, human review pending",
  "counts": {
   "passages": 83,
   "passesed": 4,
   "verses": 2068,
-  "proof": "PASS 76/77 built songs (minimal, L3/L4 waived)",
+  "proof": "PASS 79/79 built songs (minimal, L3/L4 waived)",
   "staged_songs": 42,
-  "gold_songs": 76,
+  "gold_songs": 79,
   "remaining_songs": 41,
-  "built_songs": 77,
-  "blocked_songs": 1
+  "built_songs": 79,
+  "blocked_songs": 0
  },
  "gold_songs": [
   "kul-p01",
@@ -89,7 +89,10 @@
   "kul-p80",
   "kul-p81",
   "kul-p82",
-  "kul-p83"
+  "kul-p83",
+  "kul-p39",
+  "kul-p62",
+  "kul-p11"
  ],
  "built_songs": [
   "kul-p01",
@@ -135,10 +138,8 @@
   "kul-p81",
   "kul-p83"
  ],
- "blocked_songs": [
-  "kul-p39"
- ],
+ "blocked_songs": [],
  "handfix": {
-  "kul-p39-v967": "T1 omits the emphatic doublings (source yatra yatra ... tatra tatra; T1 has single). Needs T1 token addition + L0/CM; do NOT disposition as sandhi."
+  "kul-p39-v967": "RESOLVED 2026-11-14: restored yatra/tatra repetitions to T1+L0 (source has 7 tokens, T1 had 5); v967 now aligns 1.0, song PASS. (Was: T1 omits emphatic doublings; correctly never dispositioned.)"
  }
 }
