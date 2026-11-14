@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p182",
+ "items": [
+  {
+   "verse": 4550,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative option marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhikotsedhaṃ",
+     "gloss": "pedestal-height",
+     "grounds": "object whose measure is being fixed",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "brahmadaṇḍasya",
+     "gloss": "brahma-staff",
+     "grounds": "genitive source for the measurement",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mūlataḥ",
+     "gloss": "from-root",
+     "grounds": "ablative sense indicating starting point",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative measurement fixes the pedestal height when the image is not arranged in the ninefold square?",
+   "premises": [
+    "The verse offers an alternative.",
+    "Pedestal height is being measured.",
+    "Measurement starts from brahma-staff root."
+   ],
+   "inference": "Thus the pedestal height may be set from the root of the brahma-staff instead of the ninefold arrangement.",
+   "uncertainties": [
+    "The exact ritual referent of brahma-staff remains context-dependent."
+   ],
+   "plain_english": "Or, [set] the height of the pedestal from the root of the brahma-staff."
+  }
+ ]
+}

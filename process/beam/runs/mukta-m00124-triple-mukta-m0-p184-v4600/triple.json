@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p184",
+ "items": [
+  {
+   "verse": 4600,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb marking the next step in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kautukabandhaḥ",
+     "gloss": "kautuka-bandha",
+     "grounds": "compound noun naming the rite to be performed next",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of the root as, expressing prescription",
+     "morph": "3.sg.act-opt. (root as)"
+    },
+    {
+     "surface": "śayanārohaṇaṃ",
+     "gloss": "bed-ascending",
+     "grounds": "compound noun naming the subsequent rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb resuming or repeating the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which rite is prescribed immediately after vāstuhoma and before śayanārohaṇa?",
+   "premises": [
+    "tataḥ marks sequence after vāstuhoma",
+    "kautukabandhaḥ is the next rite",
+    "śayanārohaṇaṃ follows punaḥ"
+   ],
+   "inference": "The verse prescribes kautuka-bandha before bed-ascending.",
+   "uncertainties": [
+    "The exact ritual content of kautukabandha is not specified here"
+   ],
+   "plain_english": "Then there should be kautuka-bandha, and again bed-ascending."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p179",
+ "items": [
+  {
+   "verse": 4475,
+   "rows": [
+    {
+     "surface": "aśvatthadalavad",
+     "gloss": "fig-leaf-like",
+     "grounds": "compound aśvattha-dala plus vat; simile marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyākṛtir",
+     "gloss": "outer-form",
+     "grounds": "compound bāhya plus ākṛti; nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "grāhyā",
+     "gloss": "to-be-taken",
+     "grounds": "passive adjective grāhya agreeing with bāhyākṛtiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manoharā",
+     "gloss": "charming",
+     "grounds": "adjective manohara in feminine nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What outer form is to be taken as charming like a fig leaf?",
+   "premises": [
+    "outer form is fig-leaf-like",
+    "outer form is to be taken",
+    "outer form is charming"
+   ],
+   "inference": "The outer form should be taken as charming and fig-leaf-like.",
+   "uncertainties": [
+    "the exact referent of outer form is not explicit in this verse"
+   ],
+   "plain_english": "The outer form should be taken as charming, like a fig leaf."
+  }
+ ]
+}

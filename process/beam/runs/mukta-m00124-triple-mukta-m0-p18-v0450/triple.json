@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "prakṣālanāt",
+     "gloss": "by-washing",
+     "grounds": "ablative of prakṣālana",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānāt",
+     "gloss": "from-bath",
+     "grounds": "ablative of snāna",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "viśuddhiḥ",
+     "gloss": "purity",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "karādṛte",
+     "gloss": "except-hand",
+     "grounds": "ablative sense with ṛte",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does ritual purity after contact with impurity require full bathing or only washing the affected part?",
+   "premises": [
+    "washing below suffices for purity",
+    "full bath is not required",
+    "hand is excepted"
+   ],
+   "inference": "purity arises from washing the lower part, not full bath, except hand",
+   "uncertainties": [
+    "exact force of karādṛte as except-hand"
+   ],
+   "plain_english": "Purity arises from washing below, not from a full bath, except for the hand."
+  }
+ ]
+}
