@@ -1,0 +1,971 @@
+{
+ "song": "mukta-m0-p221",
+ "items": [
+  {
+   "verse": 5501,
+   "rows": [
+    {
+     "surface": "kiṃvā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣipataṅgādi",
+     "gloss": "birds-moths-and-so-on",
+     "grounds": "compound with etcetera sense",
+     "morph": "compound: pakṣi+membership, pataṅga+membership, ādi+head"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "on-seeing",
+     "grounds": "occasion of sight",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "injunctive or optative sense of causing",
+     "morph": "3.sg.act-opt/caus √kṛ"
+    }
+   ],
+   "question": "What ritual action must be avoided when birds or moths are seen?",
+   "premises": [
+    "Birds moths and similar creatures may appear",
+    "Their sighting creates a ritual circumstance",
+    "The practitioner must not cause the action"
+   ],
+   "inference": "Seeing birds, moths, or similar creatures forbids causing the prescribed ritual action.",
+   "uncertainties": [
+    "The specific action to be avoided is supplied by the surrounding context."
+   ],
+   "plain_english": "Or, if birds, moths, or the like are seen, one should not cause it to be done at all."
+  },
+  {
+   "verse": 5502,
+   "rows": [
+    {
+     "surface": "niśchidramaṇḍape",
+     "gloss": "in-seamless-pavilion",
+     "grounds": "place without openings",
+     "morph": "compound: niśchidra+membership, maṇḍapa+head; n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "obligation or fitness",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "naca",
+     "gloss": "and-not",
+     "grounds": "negative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "proximity or presence of others",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where must the ritual be performed or avoided to maintain proper conditions?",
+   "premises": [
+    "A seamless pavilion is a possible location",
+    "The ritual may be done there",
+    "It must not be done in the presence of others"
+   ],
+   "inference": "The ritual may be performed in a seamless pavilion but never in the presence of others.",
+   "uncertainties": [
+    "The subject of sannidhau is not explicitly stated."
+   ],
+   "plain_english": "It may be done in a pavilion without openings, but not in the presence of others."
+  },
+  {
+   "verse": 5503,
+   "rows": [
+    {
+     "surface": "kulaṃ",
+     "gloss": "the-lineage",
+     "grounds": "esoteric family or group",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kulapatiṃ",
+     "gloss": "the-lineage-lord",
+     "grounds": "head of the lineage",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulamālāṃ",
+     "gloss": "the-lineage-garland",
+     "grounds": "sequence or circle of the lineage",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kulākulam",
+     "gloss": "lineage-and-non-lineage",
+     "grounds": "union of lineage and beyond lineage",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which esoteric elements of the lineage must remain protected from exposure?",
+   "premises": [
+    "The lineage is a sacred element",
+    "The lineage lord and lineage garland are sacred elements",
+    "The union of lineage and non-lineage is a sacred element"
+   ],
+   "inference": "The lineage, its lord, its garland, and the union of lineage and non-lineage are all to be guarded.",
+   "uncertainties": [
+    "The governing verb is implied from the surrounding verses on secrecy."
+   ],
+   "plain_english": "The lineage, the lord of the lineage, the lineage garland, and the union of lineage and non-lineage."
+  },
+  {
+   "verse": 5504,
+   "rows": [
+    {
+     "surface": "prakāśāt",
+     "gloss": "from-publicity",
+     "grounds": "exposure or making public",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kāryahāniḥ",
+     "gloss": "loss-of-work",
+     "grounds": "failure of the ritual aim",
+     "morph": "compound: kārya+membership, hāni+head; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "prakāśānnidhanādikam",
+     "gloss": "from-publicity-death-and-so-on",
+     "grounds": "compound indicating severe consequences",
+     "morph": "compound: prakāśa+membership, nidhana+membership, ādika+head; n.nom.sg"
+    }
+   ],
+   "question": "What harmful consequences arise from making the secret rites public?",
+   "premises": [
+    "Publicity affects the ritual",
+    "Loss of the intended work can result",
+    "Death and similar harms can also result"
+   ],
+   "inference": "Public exposure of the rites leads to failure of the work and even death or worse.",
+   "uncertainties": [],
+   "plain_english": "From publicity there would be loss of the work; from publicity, death and the like would follow."
+  },
+  {
+   "verse": 5505,
+   "rows": [
+    {
+     "surface": "prakāśānmṛtyulābhaḥ",
+     "gloss": "from-publicity-gain-of-death",
+     "grounds": "obtaining death as consequence",
+     "morph": "compound: prakāśa+membership, mṛtyu+membership, lābha+head; m.nom.sg"
+    },
+    {
+     "surface": "syānna",
+     "gloss": "would-be-not",
+     "grounds": "negated potential with sandhi",
+     "morph": "3.sg.act-opt √as + (indecl.)"
+    },
+    {
+     "surface": "prakāśyaṃ",
+     "gloss": "to-be-revealed",
+     "grounds": "fit for disclosure",
+     "morph": "n.nom.sg.gerundive √prakāś"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what circumstances may the secret practice be revealed publicly?",
+   "premises": [
+    "Publicity brings the gain of death",
+    "Such a result is to be avoided",
+    "Nothing justifies disclosure at any time"
+   ],
+   "inference": "Because publicity brings death, the practice must never be revealed.",
+   "uncertainties": [
+    "The exact parsing of syānna as syāt+na is implied by sandhi."
+   ],
+   "plain_english": "From publicity comes the gain of death; therefore it should never be revealed at any time."
+  },
+  {
+   "verse": 5506,
+   "rows": [
+    {
+     "surface": "darśayed",
+     "gloss": "one-should-show",
+     "grounds": "act of displaying",
+     "morph": "3.sg.act-opt/caus √dṛś"
+    },
+    {
+     "surface": "vaiṣṇavīṃ",
+     "gloss": "vaiṣṇavī",
+     "grounds": "related to Viṣṇu",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mudrāṃ",
+     "gloss": "seal",
+     "grounds": "ritual hand gesture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viṣṇunyāsaṃ",
+     "gloss": "viṣṇu-placement",
+     "grounds": "ritual placement invoking Viṣṇu",
+     "morph": "compound: viṣṇu+membership, nyāsa+head; m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stavam",
+     "gloss": "hymn",
+     "grounds": "praise text",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which specific ritual elements must never be displayed to others?",
+   "premises": [
+    "The Vaiṣṇavī seal is a ritual element",
+    "The Viṣṇu placement is a ritual element",
+    "The hymn is a ritual element"
+   ],
+   "inference": "One must not show the Vaiṣṇavī seal, the Viṣṇu placement, or the hymn.",
+   "uncertainties": [
+    "The negation is carried over from the preceding prohibition on revealing."
+   ],
+   "plain_english": "One should not show the Vaiṣṇavī seal, the Viṣṇu placement, or likewise the hymn."
+  },
+  {
+   "verse": 5507,
+   "rows": [
+    {
+     "surface": "gopanādyadi",
+     "gloss": "if-from-concealment",
+     "grounds": "condition involving concealment",
+     "morph": "compound: gopana+membership, ādi+head + (indecl.)"
+    },
+    {
+     "surface": "vyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "becoming evident",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syānna?",
+     "gloss": "would-be",
+     "grounds": "questioned possibility",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guptirabhidhīyate",
+     "gloss": "concealment-is-called",
+     "grounds": "definition of true secrecy",
+     "morph": "compound: gupti+head, abhidhīyate+verb; 3.sg.pass-pres √abhidhā"
+    }
+   ],
+   "question": "What condition disqualifies an act from being considered true concealment?",
+   "premises": [
+    "Concealment may be attempted",
+    "Manifestation can still occur",
+    "True concealment excludes manifestation"
+   ],
+   "inference": "If manifestation occurs despite concealment, it cannot be called true concealment.",
+   "uncertainties": [
+    "The token syānna? includes a question mark in the source; its exact syntactic role is interpretive."
+   ],
+   "plain_english": "If manifestation arises despite concealment, that is not called true concealment."
+  },
+  {
+   "verse": 5508,
+   "rows": [
+    {
+     "surface": "varaṃ",
+     "gloss": "better",
+     "grounds": "preferable alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "obligation",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "vyaktirnaiva",
+     "gloss": "manifestation-not-at-all",
+     "grounds": "emphatic exclusion of exposure",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is omitting worship preferable to allowing ritual manifestation?",
+   "premises": [
+    "Worship is ordinarily to be performed",
+    "Manifestation must never occur",
+    "Avoiding manifestation takes priority over performing worship"
+   ],
+   "inference": "It is better not to perform worship than to allow the rite to become manifest.",
+   "uncertainties": [],
+   "plain_english": "It is better that worship not be done; manifestation must never occur at any time."
+  },
+  {
+   "verse": 5509,
+   "rows": [
+    {
+     "surface": "chāgalaṃ",
+     "gloss": "goat-substance",
+     "grounds": "material derived from goat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parasenyasya+stambhanāya",
+     "gloss": "for-paralyzing-enemy-army",
+     "grounds": "purpose of immobilizing hostile forces",
+     "morph": "compound: parasenya+membership, stambhana+head; n.dat.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "particular emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what specific ritual purpose is goat substance especially prescribed?",
+   "premises": [
+    "Goat substance is a ritual material",
+    "Paralyzing an enemy army is a ritual aim",
+    "This material is especially suited to that aim"
+   ],
+   "inference": "Goat substance is especially prescribed for paralyzing an enemy army.",
+   "uncertainties": [
+    "The exact substance (meat, fat, etc.) is implied by context."
+   ],
+   "plain_english": "Goat substance is especially for paralyzing an enemy army."
+  },
+  {
+   "verse": 5510,
+   "rows": [
+    {
+     "surface": "paravādimukhastambhe",
+     "gloss": "in-paralyzing-opponent-mouth",
+     "grounds": "silencing an opposing speaker",
+     "morph": "compound: paravādin+membership, mukha+membership, stambha+head; m.loc.sg"
+    },
+    {
+     "surface": "māhiṣaṃ",
+     "gloss": "buffalo-substance",
+     "grounds": "material derived from buffalo",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śasyate",
+     "gloss": "is-praised",
+     "grounds": "recommended",
+     "morph": "3.sg.pass-pres √śaṃs"
+    },
+    {
+     "surface": "palam",
+     "gloss": "measure",
+     "grounds": "a specific quantity",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which substance and measure are recommended for silencing an opponent?",
+   "premises": [
+    "Silencing an opponent is a ritual aim",
+    "Buffalo substance is recommended for this aim",
+    "A specific measure is prescribed"
+   ],
+   "inference": "A measure of buffalo substance is praised for paralyzing the mouth of an opponent.",
+   "uncertainties": [
+    "The exact weight or quantity of palam is not specified here."
+   ],
+   "plain_english": "For paralyzing the mouth of an opponent, a measure of buffalo substance is praised."
+  },
+  {
+   "verse": 5511,
+   "rows": [
+    {
+     "surface": "śaśotthaṃ",
+     "gloss": "rabbit-born",
+     "grounds": "substance derived from rabbit",
+     "morph": "compound: śaśa+membership, uttha+head; n.nom.sg"
+    },
+    {
+     "surface": "vaśyakarmādāvāvikaṃ",
+     "gloss": "in-subjugation-and-so-on-sheep-substance",
+     "grounds": "sheep-derived material for subjugation rites",
+     "morph": "compound: vaśyakarman+membership, ādi+membership, āvika+head; n.nom.sg"
+    },
+    {
+     "surface": "kṛṣṭikārakam",
+     "gloss": "causing-attraction",
+     "grounds": "producing drawing or cultivation effect",
+     "morph": "compound: kṛṣṭi+membership, kāraka+head; n.nom.sg"
+    }
+   ],
+   "question": "Which animal substances are prescribed for subjugation and attraction rites?",
+   "premises": [
+    "Rabbit-born substance has a ritual use",
+    "Sheep substance is used in subjugation and similar rites",
+    "These substances cause attraction"
+   ],
+   "inference": "Rabbit-born and sheep substances are prescribed for subjugation and attraction.",
+   "uncertainties": [
+    "The precise distinction between the uses of the two substances is compressed in the compound."
+   ],
+   "plain_english": "Rabbit-born substance, and sheep substance in subjugation and similar rites, are effective for attraction."
+  },
+  {
+   "verse": 5512,
+   "rows": [
+    {
+     "surface": "uccāṭe",
+     "gloss": "in-uprooting",
+     "grounds": "rite of driving away",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "coṣṭrajaṃ",
+     "gloss": "camel-born",
+     "grounds": "substance derived from camel",
+     "morph": "compound: uṣṭra+membership, ja+head; n.nom.sg"
+    },
+    {
+     "surface": "śastaṃ",
+     "gloss": "commended",
+     "grounds": "recommended",
+     "morph": "n.nom.sg.past-passive-participle √śaṃs"
+    },
+    {
+     "surface": "kharotthaṃ",
+     "gloss": "donkey-born",
+     "grounds": "substance derived from donkey",
+     "morph": "compound: khara+membership, uttha+head; n.nom.sg"
+    },
+    {
+     "surface": "prītināśanam",
+     "gloss": "destroying-affection",
+     "grounds": "causing loss of love",
+     "morph": "compound: prīti+membership, nāśana+head; n.nom.sg"
+    }
+   ],
+   "question": "Which substances are prescribed for uprooting and destroying affection?",
+   "premises": [
+    "Uprooting is a specific ritual aim",
+    "Camel-born substance is commended for uprooting",
+    "Donkey-born substance destroys affection"
+   ],
+   "inference": "Camel-born substance is used for uprooting, while donkey-born substance destroys affection.",
+   "uncertainties": [],
+   "plain_english": "In uprooting, camel-born substance is commended; donkey-born substance destroys affection."
+  },
+  {
+   "verse": 5513,
+   "rows": [
+    {
+     "surface": "āyuḥ+kīrti+dhana+ārogya+putra+śrī+jaya+kāntidam",
+     "gloss": "giving-life-fame-wealth-health-son-splendor-victory-radiance",
+     "grounds": "compound listing boons bestowed",
+     "morph": "compound: āyus+membership, kīrti+membership, dhana+membership, ārogya+membership, putra+membership, śrī+membership, jaya+membership, kānti+membership, da+head; n.nom.sg"
+    }
+   ],
+   "question": "What range of benefits does the prescribed offering bestow on the practitioner?",
+   "premises": [
+    "The offering is associated with multiple boons",
+    "These boons include life fame wealth and health",
+    "These boons also include son splendor victory and radiance"
+   ],
+   "inference": "The offering grants life, fame, wealth, health, sons, splendor, victory, and radiance.",
+   "uncertainties": [
+    "The subject receiving these boons is implied by context."
+   ],
+   "plain_english": "It gives life, fame, wealth, health, sons, splendor, victory, and radiance."
+  },
+  {
+   "verse": 5514,
+   "rows": [
+    {
+     "surface": "mahāmāṃsāṣṭakamidaṃ",
+     "gloss": "this-great-meat-octad",
+     "grounds": "group of eight great meats",
+     "morph": "compound: mahāmāṃsa+membership, aṣṭaka+head, idam+demonstrative; n.nom.sg"
+    },
+    {
+     "surface": "devatāprītikārakam",
+     "gloss": "causing-delight-of-deity",
+     "grounds": "pleasing to the deity",
+     "morph": "compound: devatā+membership, prīti+membership, kāraka+head; n.nom.sg"
+    }
+   ],
+   "question": "What is the ritual function of the octad of great meats?",
+   "premises": [
+    "There is an octad of great meats",
+    "This octad is ritually employed",
+    "Its effect is to please the deity"
+   ],
+   "inference": "The octad of great meats serves to delight the deity.",
+   "uncertainties": [],
+   "plain_english": "This octad of great meats causes the delight of the deity."
+  },
+  {
+   "verse": 5515,
+   "rows": [
+    {
+     "surface": "sarvamāṃsa",
+     "gloss": "all-meat",
+     "grounds": "meat of all kinds",
+     "morph": "compound: sarva+membership, māṃsa+head; n.acc.sg"
+    },
+    {
+     "surface": "surāyuktaṃ",
+     "gloss": "joined-with-liquor",
+     "grounds": "combined with ritual liquor",
+     "morph": "compound: surā+membership, yukta+head; n.acc.sg"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "one-should-give",
+     "grounds": "act of offering",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-the-goddess",
+     "grounds": "recipient deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "particular emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering should be given especially to the goddess in this rite?",
+   "premises": [
+    "All kinds of meat may be offered",
+    "The meat should be joined with liquor",
+    "The goddess is the intended recipient"
+   ],
+   "inference": "One should especially offer all meat together with liquor to the goddess.",
+   "uncertainties": [],
+   "plain_english": "One should especially give all meat together with liquor to the goddess."
+  },
+  {
+   "verse": 5516,
+   "rows": [
+    {
+     "surface": "tasyānuṣṭhānamātreṇa",
+     "gloss": "by-its-performance-alone",
+     "grounds": "mere execution of the rite",
+     "morph": "compound: tad+membership, anuṣṭhāna+membership, mātra+head; n.ins.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "by one's own state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmatvamāpnuyāt",
+     "gloss": "one-would-attain-brahmanhood",
+     "grounds": "attainment of identity with Brahman",
+     "morph": "compound: brahmatva+object, āpnuyāt+verb; 3.sg.act-opt √āp"
+    }
+   ],
+   "question": "What supreme attainment results from merely performing this prescribed rite?",
+   "premises": [
+    "The rite can be performed",
+    "Performance alone is sufficient",
+    "Brahmanhood is the stated attainment"
+   ],
+   "inference": "By merely performing this rite, one attains brahmanhood.",
+   "uncertainties": [],
+   "plain_english": "By the mere performance of it, one would oneself attain brahmanhood."
+  },
+  {
+   "verse": 5517,
+   "rows": [
+    {
+     "surface": "tatsāraṃ",
+     "gloss": "its-essence",
+     "grounds": "core meaning of the teaching",
+     "morph": "compound: tad+membership, sāra+head; n.acc.sg"
+    },
+    {
+     "surface": "tu+samālokya",
+     "gloss": "but-having-seen",
+     "grounds": "having fully understood",
+     "morph": "(indecl.) + absolutive √samālok"
+    },
+    {
+     "surface": "tathānyan",
+     "gloss": "and-also-other",
+     "grounds": "additional related material",
+     "morph": "(indecl.) + m.acc.sg"
+    },
+    {
+     "surface": "mantrasaṃgraham",
+     "gloss": "mantra-collection",
+     "grounds": "compilation of mantras",
+     "morph": "compound: mantra+membership, saṃgraha+head; m.acc.sg"
+    }
+   ],
+   "question": "What teachings must be fully understood before the transmission restriction applies?",
+   "premises": [
+    "The essence of this teaching can be seen",
+    "Another collection of mantras is also included",
+    "Understanding precedes the rule of non-disclosure"
+   ],
+   "inference": "Having fully understood its essence and the other mantra collection, one must follow the secrecy rule.",
+   "uncertainties": [
+    "The continuation of the sentence is completed in the next verse."
+   ],
+   "plain_english": "But having fully seen its essence, and likewise the other collection of mantras."
+  },
+  {
+   "verse": 5518,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "to-anyone",
+     "grounds": "no recipient at all",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "o-fair-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "proktavāṃstridaśeṣvapi",
+     "gloss": "declared-even-among-gods",
+     "grounds": "spoken even to the gods",
+     "morph": "m.nom.sg.perfect-participle √vac + compound: tridaśa+membership, locative-plural sense + (indecl.)"
+    }
+   ],
+   "question": "To whom has this secret teaching been declared according to the speaker?",
+   "premises": [
+    "The teaching is highly secret",
+    "The speaker addresses the fair one",
+    "It was not declared to anyone even among the gods"
+   ],
+   "inference": "The speaker claims never to have declared this teaching to anyone, even among the gods.",
+   "uncertainties": [
+    "The internal sandhi in proktavāṃstridaśeṣvapi is preserved as given."
+   ],
+   "plain_english": "O fair one, I have not declared it to anyone, not even among the gods."
+  },
+  {
+   "verse": 5519,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "referring to the attained state or teaching",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "punarāvṛttiḥ",
+     "gloss": "return-again",
+     "grounds": "rebirth or recurrence",
+     "morph": "compound: punar+membership, āvṛtti+head; f.nom.sg"
+    },
+    {
+     "surface": "kalpakoṭiśatairapi",
+     "gloss": "even-in-hundred-crores-of-ages",
+     "grounds": "vast cosmic duration",
+     "morph": "compound: kalpa+membership, koṭi+membership, śata+head; n.ins.pl + (indecl.)"
+    }
+   ],
+   "question": "What is the duration of freedom from return for one who attains this result?",
+   "premises": [
+    "A return or rebirth is possible in general",
+    "This attainment prevents such return",
+    "Even immense cosmic ages do not bring return"
+   ],
+   "inference": "For such a one there is no return, even across hundreds of crores of cosmic ages.",
+   "uncertainties": [
+    "Whether tasya refers to the person or the state is context-dependent."
+   ],
+   "plain_english": "There is no return for him, even in hundreds of crores of cosmic ages."
+  },
+  {
+   "verse": 5520,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇumaheśādyāstathānye",
+     "gloss": "brahma-viṣṇu-maheśa-and-others",
+     "grounds": "great deities and others",
+     "morph": "compound: brahma+membership, viṣṇu+membership, maheśa+membership, ādi+head; m.nom.pl + (indecl.) + m.nom.pl"
+    },
+    {
+     "surface": "pitṛdevatāḥ",
+     "gloss": "ancestor-deities",
+     "grounds": "manes and divine beings",
+     "morph": "compound: pitṛ+membership, devatā+head; f.nom.pl"
+    }
+   ],
+   "question": "Which divine and ancestral beings are included in the scope of this rite's effect?",
+   "premises": [
+    "Brahma Viṣṇu and Maheśa are named",
+    "Other beings are also included",
+    "Ancestor deities are included"
+   ],
+   "inference": "Brahma, Viṣṇu, Maheśa, other deities, and the ancestor deities are all encompassed.",
+   "uncertainties": [
+    "The syntactic connection to the following verses is carried across the verse boundary."
+   ],
+   "plain_english": "Brahma, Viṣṇu, Maheśa, and others, as well as the ancestor deities."
+  },
+  {
+   "verse": 5521,
+   "rows": [
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "in proper ritual manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukṛtī",
+     "gloss": "virtuous-doer",
+     "grounds": "one who has done well",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "after performing",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "dūtīyāgaṃ",
+     "gloss": "messenger-offering",
+     "grounds": "ritual worship involving the messenger",
+     "morph": "compound: dūtī+membership, yāga+head; m.acc.sg"
+    },
+    {
+     "surface": "tu+pārvati",
+     "gloss": "indeed-o-pārvatī",
+     "grounds": "emphatic address",
+     "morph": "(indecl.) + f.voc.sg"
+    }
+   ],
+   "question": "How must the virtuous practitioner perform the messenger offering addressed to Pārvatī?",
+   "premises": [
+    "The practitioner is virtuous",
+    "The messenger offering is to be performed",
+    "It must be done according to rule"
+   ],
+   "inference": "The virtuous practitioner must perform the messenger offering properly according to rule, O Pārvatī.",
+   "uncertainties": [],
+   "plain_english": "O Pārvatī, the virtuous one, having duly performed the messenger offering according to rule."
+  },
+  {
+   "verse": 5522,
+   "rows": [
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "of-whom",
+     "grounds": "those in whose case",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vaṃśe",
+     "gloss": "in-lineage",
+     "grounds": "family line",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prajāyeta",
+     "gloss": "would-be-born",
+     "grounds": "comes into being",
+     "morph": "3.sg.pass-opt √jan"
+    },
+    {
+     "surface": "dūtīyāgo",
+     "gloss": "messenger-offering",
+     "grounds": "ritual worship involving the messenger",
+     "morph": "compound: dūtī+membership, yāga+head; m.nom.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What special occurrence in a lineage is marked by the birth of the messenger offering?",
+   "premises": [
+    "A lineage is the locus of birth",
+    "The messenger offering may arise in that lineage",
+    "This is addressed to the great goddess"
+   ],
+   "inference": "In whose lineage the messenger offering is born, O great goddess, that lineage is specially marked.",
+   "uncertainties": [
+    "The consequence for that lineage is continued in the surrounding context."
+   ],
+   "plain_english": "O great goddess, in whose lineage the messenger offering would be born."
+  },
+  {
+   "verse": 5523,
+   "rows": [
+    {
+     "surface": "kāyena",
+     "gloss": "by-body",
+     "grounds": "physical means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "mental means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "by-speech",
+     "grounds": "verbal means",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "by all means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "one-should-reveal",
+     "grounds": "make public",
+     "morph": "3.sg.act-opt/caus √prakāś"
+    }
+   ],
+   "question": "By what means must the practitioner refrain from revealing the secret rite?",
+   "premises": [
+    "Body mind and speech are possible means of disclosure",
+    "Disclosure can occur in every way",
+    "All such disclosure is forbidden"
+   ],
+   "inference": "One must not reveal the rite by body, mind, speech, or in any way whatsoever.",
+   "uncertainties": [],
+   "plain_english": "One should not reveal it by body, by mind, by speech, or in any way at all."
+  },
+  {
+   "verse": 5524,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "carry out the rite",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "prayatnataścaiva",
+     "gloss": "with-effort-and-indeed",
+     "grounds": "with diligent care",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "dūtikāyajanaṃ",
+     "gloss": "messenger-worship",
+     "grounds": "ritual worship of the messenger",
+     "morph": "compound: dūtikā+membership, yajana+head; n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "With what attitude should the messenger worship be performed by the practitioner?",
+   "premises": [
+    "Messenger worship is to be performed",
+    "Effort and care are required",
+    "The instruction is addressed to the beloved"
+   ],
+   "inference": "One should perform the messenger worship with diligent effort, O beloved.",
+   "uncertainties": [],
+   "plain_english": "O beloved, one should indeed perform the worship of the messenger with effort."
+  }
+ ]
+}

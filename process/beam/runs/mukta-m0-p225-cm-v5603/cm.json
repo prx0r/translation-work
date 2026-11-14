@@ -3,29 +3,34 @@
  "verse": 5603,
  "rows": [
   {
-   "lemma": "ihaloke",
-   "morph": "m.loc.sg (compound)",
-   "grounds": "locative compound iha + loka"
+   "lemma": "kaulika",
+   "morph": "compound:kaulika+anvaya",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "sukhaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "object obtained"
+   "lemma": "anvaya",
+   "morph": "compound:anvaya+sambhūtām",
+   "grounds": "middle member of compound"
   },
   {
-   "lemma": "prāpya",
-   "morph": "gerund+√āp",
-   "grounds": "gerund of pra-āp"
+   "lemma": "sambhūtām",
+   "morph": "f.acc.sg",
+   "grounds": "arisen from lineage"
   },
   {
-   "lemma": "nṛpaṇāmapi",
-   "morph": "m.gen.pl+indecl.",
-   "grounds": "fused nṛpāṇām + api; genitive plural with particle"
+   "lemma": "dīkṣitām",
+   "morph": "f.acc.sg",
+   "grounds": "having received initiation"
   },
   {
-   "lemma": "durlabham",
-   "morph": "n.acc.sg",
-   "grounds": "describes the happiness"
+   "lemma": "krodha",
+   "morph": "compound:krodha+varjitām",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "varjitām",
+   "morph": "f.acc.sg",
+   "grounds": "devoid of anger"
   }
  ]
 }

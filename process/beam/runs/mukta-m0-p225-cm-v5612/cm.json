@@ -3,19 +3,39 @@
  "verse": 5612,
  "rows": [
   {
-   "lemma": "ābhaṅga+sahitaṃ",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound ābhaṅga + sahita"
+   "lemma": "bhaya",
+   "morph": "compound:bhaya+lajjā",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "tacca",
-   "morph": "pron.nom/acc.sg.n+indecl.",
-   "grounds": "fused tat + ca"
+   "lemma": "lajjā",
+   "morph": "compound:lajjā+ādi",
+   "grounds": "middle member of compound"
   },
   {
-   "lemma": "kolakāṅgulakairnatiḥ",
-   "morph": "f.nom.sg (compound)",
-   "grounds": "fused compound; reading uncertain, involves aṅgulaka and nati"
+   "lemma": "ādi",
+   "morph": "compound:ādi+sarvāṇi",
+   "grounds": "final member of compound"
+  },
+  {
+   "lemma": "sarvāṇi",
+   "morph": "n.acc.pl",
+   "grounds": "all such things"
+  },
+  {
+   "lemma": "parityajya",
+   "morph": "(gerund) √tyaj",
+   "grounds": "renouncing"
+  },
+  {
+   "lemma": "atha",
+   "morph": "(indecl.)",
+   "grounds": "next step"
+  },
+  {
+   "lemma": "dūtikām",
+   "morph": "f.acc.sg",
+   "grounds": "ritual female attendant"
   }
  ]
 }

@@ -3,29 +3,34 @@
  "verse": 5624,
  "rows": [
   {
-   "lemma": "śilpinaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "object to be dismissed"
+   "lemma": "udāra",
+   "morph": "compound:udāra+vaṃśa",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "lemma": "vaṃśa",
+   "morph": "compound:vaṃśa+sambhūtām",
+   "grounds": "middle member of compound"
   },
   {
-   "lemma": "visṛjyātha",
-   "morph": "gerund+√sṛj+indecl.",
-   "grounds": "fused visṛjya + atha; gerund plus particle"
+   "lemma": "sambhūtām",
+   "morph": "f.acc.sg",
+   "grounds": "arisen from family"
   },
   {
-   "lemma": "viprān",
-   "morph": "m.acc.pl",
-   "grounds": "object to be fed"
+   "lemma": "pūjā",
+   "morph": "compound:pūjā+grahaṇa",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "saṃbhojayettataḥ",
-   "morph": "3.sg.opt.act-caus+√bhuj+indecl.",
-   "grounds": "fused saṃbhojayet + tataḥ; causative optative plus adverb"
+   "lemma": "grahaṇa",
+   "morph": "compound:grahaṇa+harṣitām",
+   "grounds": "middle member of compound"
+  },
+  {
+   "lemma": "harṣitām",
+   "morph": "f.acc.sg",
+   "grounds": "joyful in receiving worship"
   }
  ]
 }

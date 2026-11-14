@@ -3,29 +3,44 @@
  "verse": 5602,
  "rows": [
   {
-   "lemma": "vinyasya",
-   "morph": "gerund+√as",
-   "grounds": "gerund of vi-ni-as"
+   "lemma": "sā",
+   "morph": "f.nom.sg",
+   "grounds": "refers to goddess"
   },
   {
-   "lemma": "sthaṇḍile",
-   "morph": "n.loc.sg",
-   "grounds": "locative of sthaṇḍila"
+   "lemma": "devī",
+   "morph": "f.nom.sg",
+   "grounds": "subject"
   },
   {
-   "lemma": "devīṃ",
-   "morph": "f.acc.sg",
-   "grounds": "object of placement"
+   "lemma": "śakti",
+   "morph": "compound:śakti+hīnā",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "karmavaivāhikaṃ",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound karma + vaivāhika"
+   "lemma": "hīnā",
+   "morph": "f.nom.sg",
+   "grounds": "lacking power"
   },
   {
-   "lemma": "nayet",
-   "morph": "3.sg.opt.act+√nī",
-   "grounds": "optative of nī"
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "contrastive particle"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "dadāti",
+   "morph": "3.sg.act-pres √dā",
+   "grounds": "main verb"
+  },
+  {
+   "lemma": "manoratham",
+   "morph": "m.acc.sg",
+   "grounds": "object"
   }
  ]
 }

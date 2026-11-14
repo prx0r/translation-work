@@ -3,29 +3,44 @@
  "verse": 5614,
  "rows": [
   {
-   "lemma": "sūtram",
-   "morph": "n.acc.sg",
-   "grounds": "measurement or marking line"
+   "lemma": "cumbana",
+   "morph": "compound:cumbana+āliṅgane",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "utpala",
-   "morph": "n.stem (compound-member)",
-   "grounds": "first member of compound in next token contextually"
+   "lemma": "āliṅgane",
+   "morph": "n.loc.du",
+   "grounds": "acts of intimacy"
   },
   {
-   "lemma": "hastoccaṃ",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound hasta + ucca"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "cūcukāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "object or location term"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
   },
   {
-   "lemma": "tadanantaram",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound tad + anantara"
+   "lemma": "nakha",
+   "morph": "compound:nakha+danta",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "danta",
+   "morph": "compound:danta+kṣatāni",
+   "grounds": "middle member of compound"
+  },
+  {
+   "lemma": "kṣatāni",
+   "morph": "n.nom.pl",
+   "grounds": "scratches and bites"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   }
  ]
 }

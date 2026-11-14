@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p224",
+ "items": [
+  {
+   "verse": 5600,
+   "rows": [
+    {
+     "surface": "putrārthī",
+     "gloss": "desiring-son",
+     "grounds": "compound of putra (son) and arthin (desiring); nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb expressing attainment by the desiring person",
+     "morph": "3.sg.pres.middle √labh"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "object of attainment for one desiring offspring",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhanārthī",
+     "gloss": "desiring-wealth",
+     "grounds": "compound of dhana (wealth) and arthin (desiring); nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb expressing attainment by the desiring person",
+     "morph": "3.sg.pres.middle √labh"
+    },
+    {
+     "surface": "dhanam",
+     "gloss": "wealth",
+     "grounds": "object of attainment for one desiring riches",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which specific worldly desires are fulfilled for practitioners seeking offspring or wealth?",
+   "premises": [
+    "A person desiring a son performs or benefits from the practice.",
+    "Such a person obtains a son.",
+    "A person desiring wealth obtains wealth."
+   ],
+   "inference": "The practice grants fulfillment of specific desires for offspring and wealth.",
+   "uncertainties": [],
+   "plain_english": "One who desires a son obtains a son, and one who desires wealth obtains wealth."
+  }
+ ]
+}

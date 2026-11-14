@@ -1,0 +1,931 @@
+{
+ "song": "mukta-m0-p226",
+ "items": [
+  {
+   "verse": 5626,
+   "rows": [
+    {
+     "surface": "surūpāṃ",
+     "gloss": "beautiful",
+     "grounds": "describes veśyāṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "taruṇīṃ",
+     "gloss": "young",
+     "grounds": "describes veśyāṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "veśyāṃ",
+     "gloss": "courtesan",
+     "grounds": "object of worship context",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yonipūjāṃ",
+     "gloss": "yoni-worship",
+     "grounds": "compound: yoni+pūjā; object of samācaret",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.optative.act √sam-ā-car"
+    }
+   ],
+   "question": "What ritual act should be performed with a beautiful young courtesan?",
+   "premises": [
+    "The ritual subject is a beautiful young courtesan.",
+    "The prescribed act is yoni-worship.",
+    "The practitioner should perform this worship."
+   ],
+   "inference": "Yoni-worship should be performed with a beautiful young courtesan.",
+   "uncertainties": [],
+   "plain_english": "One should perform yoni-worship with a beautiful young courtesan."
+  },
+  {
+   "verse": 5627,
+   "rows": [
+    {
+     "surface": "surūpāṃ",
+     "gloss": "beautiful",
+     "grounds": "describes dāsīṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "taruṇīṃ",
+     "gloss": "young",
+     "grounds": "describes dāsīṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dāsīṃ",
+     "gloss": "servant-woman",
+     "grounds": "object of worship context",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yonipūjāṃ",
+     "gloss": "yoni-worship",
+     "grounds": "compound: yoni+pūjā; object of samācaret",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.optative.act √sam-ā-car"
+    }
+   ],
+   "question": "What ritual act should be performed with a beautiful young servant woman?",
+   "premises": [
+    "The ritual subject is a beautiful young servant woman.",
+    "The prescribed act is yoni-worship.",
+    "The practitioner should perform this worship."
+   ],
+   "inference": "Yoni-worship should be performed with a beautiful young servant woman.",
+   "uncertainties": [],
+   "plain_english": "One should perform yoni-worship with a beautiful young servant woman."
+  },
+  {
+   "verse": 5628,
+   "rows": [
+    {
+     "surface": "mātaṅginyāḥ",
+     "gloss": "of-mātaṅginī",
+     "grounds": "possessive relation to ritual subject",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "surūpāyāḥ",
+     "gloss": "beautiful",
+     "grounds": "describes mātaṅginyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "suguṇāyāḥ",
+     "gloss": "virtuous",
+     "grounds": "describes mātaṅginyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "compound: tathā+eva; indicates same procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the worship procedure apply to a beautiful virtuous Mātaṅginī?",
+   "premises": [
+    "A beautiful virtuous Mātaṅginī is specified.",
+    "The word tathaiva indicates the same procedure applies.",
+    "The connective ca extends the previous instruction."
+   ],
+   "inference": "The same yoni-worship should likewise be performed for a beautiful virtuous Mātaṅginī.",
+   "uncertainties": [
+    "mātaṅginyāḥ may refer to a woman of the Mātaṅga community or a devotee of Mātaṅginī"
+   ],
+   "plain_english": "And likewise, the same should be done for a beautiful and virtuous Mātaṅginī."
+  },
+  {
+   "verse": 5629,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun referring to a woman",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "aṅge",
+     "gloss": "in-body",
+     "grounds": "locative of presence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject of asti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "states presence of deity",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "of-her",
+     "grounds": "correlative pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yoniṃ",
+     "gloss": "yoni",
+     "grounds": "object of prapūjayet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.optative.act √pra-pūj"
+    }
+   ],
+   "question": "Whose yoni must be worshipped when a deity is present in her body?",
+   "premises": [
+    "A deity may be present in a woman's body.",
+    "Such a woman is identified by that presence.",
+    "Her yoni should be worshipped."
+   ],
+   "inference": "One should worship the yoni of any woman in whose body a deity is present.",
+   "uncertainties": [],
+   "plain_english": "One should worship the yoni of that woman in whose body a deity is present."
+  },
+  {
+   "verse": 5630,
+   "rows": [
+    {
+     "surface": "surūpāyāḥ",
+     "gloss": "beautiful",
+     "grounds": "describes yoginyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "taruṇyāḥ",
+     "gloss": "young",
+     "grounds": "describes yoginyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginyāḥ",
+     "gloss": "of-yoginī",
+     "grounds": "possessive relation to worship context",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yonipūjane",
+     "gloss": "in-yoni-worship",
+     "grounds": "compound: yoni+pūjane; locative of context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what ritual context is a beautiful young yoginī specifically mentioned?",
+   "premises": [
+    "A beautiful young yoginī is specified.",
+    "The context is yoni-worship.",
+    "The verse situates her within that worship."
+   ],
+   "inference": "The context concerns yoni-worship of a beautiful young yoginī.",
+   "uncertainties": [],
+   "plain_english": "In the yoni-worship of a beautiful young yoginī."
+  },
+  {
+   "verse": 5631,
+   "rows": [
+    {
+     "surface": "madaghūrṇitanetrāyāḥ",
+     "gloss": "intoxication-rolling-eyed",
+     "grounds": "compound: mada+ghūrṇita+netrāyāḥ; describes taruṇyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "taruṇyāḥ",
+     "gloss": "young-woman",
+     "grounds": "possessive relation to worship context",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yonipūjane",
+     "gloss": "in-yoni-worship",
+     "grounds": "compound: yoni+pūjane; locative of context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What condition of a young woman is specified for yoni-worship here?",
+   "premises": [
+    "A young woman is specified.",
+    "Her eyes are rolling with intoxication.",
+    "The context is yoni-worship."
+   ],
+   "inference": "Yoni-worship is also indicated for a young woman whose eyes roll with intoxication.",
+   "uncertainties": [],
+   "plain_english": "In the yoni-worship of a young woman whose eyes are rolling with intoxication."
+  },
+  {
+   "verse": 5632,
+   "rows": [
+    {
+     "surface": "vidhavāyāḥ",
+     "gloss": "of-widow",
+     "grounds": "possessive relation to worship context",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "surūpāyāḥ",
+     "gloss": "beautiful",
+     "grounds": "describes vidhavāyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "taruṇyāḥ",
+     "gloss": "young",
+     "grounds": "describes vidhavāyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yonipūjane",
+     "gloss": "in-yoni-worship",
+     "grounds": "compound: yoni+pūjane; locative of context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What marital status of a beautiful young woman is included for yoni-worship?",
+   "premises": [
+    "A beautiful young woman is specified.",
+    "She is a widow.",
+    "The context is yoni-worship."
+   ],
+   "inference": "Yoni-worship is also indicated for a beautiful young widow.",
+   "uncertainties": [],
+   "plain_english": "In the yoni-worship of a beautiful young widow."
+  },
+  {
+   "verse": 5633,
+   "rows": [
+    {
+     "surface": "paraṃ",
+     "gloss": "but",
+     "grounds": "adversative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbhayo",
+     "gloss": "fearless",
+     "grounds": "compound: nir+bhayaḥ; describes practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior condition for action",
+     "morph": "absolutive √bhū"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "describes etat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to previously stated rites",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.optative.act √sam-ā-car"
+    }
+   ],
+   "question": "What mental state is required to perform all these prescribed rites?",
+   "premises": [
+    "All the previously mentioned rites are included.",
+    "The practitioner must become fearless.",
+    "The practitioner should then perform them."
+   ],
+   "inference": "One should perform all these rites after becoming fearless.",
+   "uncertainties": [],
+   "plain_english": "But indeed, having become fearless, one should perform all of this."
+  },
+  {
+   "verse": 5634,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the worshipped woman",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjane",
+     "gloss": "in-worship",
+     "grounds": "locative of ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvakārya",
+     "gloss": "all-tasks",
+     "grounds": "compound: sarva+kārya; qualifies siddhiḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "subject of bhaved",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "states result of worship",
+     "morph": "3.sg.optative.act √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is assured from the worship of such a woman?",
+   "premises": [
+    "The worship of that woman is performed.",
+    "Success in all tasks is the stated outcome.",
+    "The result is declared certain."
+   ],
+   "inference": "Worship of her certainly brings success in all tasks.",
+   "uncertainties": [],
+   "plain_english": "Indeed, in her worship, success in all undertakings would certainly arise."
+  },
+  {
+   "verse": 5635,
+   "rows": [
+    {
+     "surface": "bhagamālinimantreṇa",
+     "gloss": "with-bhagamālinī-mantra",
+     "grounds": "compound: bhagamālinī+mantreṇa; instrumental of means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.optative.act √kṛ"
+    },
+    {
+     "surface": "prārthanāpūrvakam",
+     "gloss": "preceded-by-prayer",
+     "grounds": "compound: prārthanā+pūrvakam; manner of action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what mantra and manner should the worship be performed?",
+   "premises": [
+    "The Bhagamālinī mantra is specified as the means.",
+    "The act should be preceded by prayer.",
+    "The practitioner should perform the worship accordingly."
+   ],
+   "inference": "The worship should be done with the Bhagamālinī mantra, preceded by prayer.",
+   "uncertainties": [],
+   "plain_english": "One should perform it with the Bhagamālinī mantra, preceded by prayer."
+  },
+  {
+   "verse": 5636,
+   "rows": [
+    {
+     "surface": "ṣoḍaśaiḥ",
+     "gloss": "with-sixteen",
+     "grounds": "qualifies upacāraiḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "upacāraiḥ",
+     "gloss": "with-offerings",
+     "grounds": "instrumental of ritual means",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject of śasyate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates general applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śasyate",
+     "gloss": "is-praised",
+     "grounds": "states authoritative recommendation",
+     "morph": "3.sg.pres.passive √śaṃs"
+    }
+   ],
+   "question": "What form of worship is universally praised in this ritual context?",
+   "premises": [
+    "Sixteen offerings are specified.",
+    "Worship performed with them is praised.",
+    "This praise applies everywhere."
+   ],
+   "inference": "Worship with the sixteen offerings is praised everywhere.",
+   "uncertainties": [],
+   "plain_english": "Indeed, worship with the sixteen offerings is praised everywhere."
+  },
+  {
+   "verse": 5637,
+   "rows": [
+    {
+     "surface": "vaśyākarṣaṇakārmāṇi",
+     "gloss": "subjugation-attraction-acts",
+     "grounds": "compound: vaśya+ākarṣaṇa+kārmāṇi; ritual aims",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "with-mind",
+     "grounds": "instrumental of intention",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yadyad",
+     "gloss": "whatever",
+     "grounds": "compound: yad+yad; distributive relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īpsitam",
+     "gloss": "desired",
+     "grounds": "past participle describing aim",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kinds of desired ritual aims are mentally intended in this practice?",
+   "premises": [
+    "Acts of subjugation and attraction are mentioned.",
+    "Whatever is desired is held in mind.",
+    "The intention is mental."
+   ],
+   "inference": "Acts of subjugation and attraction, whatever is desired, are intended mentally.",
+   "uncertainties": [],
+   "plain_english": "Acts of subjugation and attraction, whatever is desired in the mind."
+  },
+  {
+   "verse": 5638,
+   "rows": [
+    {
+     "surface": "aspṛśyāyāḥ",
+     "gloss": "of-untouchable-woman",
+     "grounds": "possessive relation to worship context",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "taruṇyāḥ",
+     "gloss": "young-woman",
+     "grounds": "describes aspṛśyāyāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject of īritā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dveṣārtham",
+     "gloss": "for-hatred",
+     "grounds": "compound: dveṣa+artham; purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "is-declared",
+     "grounds": "states ritual purpose",
+     "morph": "f.nom.sg.past-passive-participle √īr"
+    }
+   ],
+   "question": "For what purpose is the worship of a young untouchable woman declared?",
+   "premises": [
+    "A young untouchable woman is specified.",
+    "Her worship is declared.",
+    "The stated purpose is hatred."
+   ],
+   "inference": "The worship of a young untouchable woman is declared for the purpose of causing hatred.",
+   "uncertainties": [],
+   "plain_english": "But the worship of a young untouchable woman is declared to be for the purpose of hatred."
+  },
+  {
+   "verse": 5639,
+   "rows": [
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "demonstrative, repeated for emphasis",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "demonstrative, repeated for emphasis",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "ritual-applications",
+     "grounds": "object of kurvīta",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.optative.middle √kṛ"
+    },
+    {
+     "surface": "kāryasiddhiḥ",
+     "gloss": "task-success",
+     "grounds": "compound: kārya+siddhiḥ; subject of bhaved",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "states result",
+     "morph": "3.sg.optative.act √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What outcome follows from performing those various ritual applications?",
+   "premises": [
+    "Various ritual applications are to be performed.",
+    "The practitioner should undertake them.",
+    "Success in the task is declared certain."
+   ],
+   "inference": "Performing those ritual applications certainly brings success in the intended task.",
+   "uncertainties": [],
+   "plain_english": "One should perform those various ritual applications; success in the task would certainly arise."
+  },
+  {
+   "verse": 5640,
+   "rows": [
+    {
+     "surface": "meghākarṣe",
+     "gloss": "in-cloud-attraction",
+     "grounds": "compound: megha+ākarṣe; locative of ritual aim",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhayāvāptau",
+     "gloss": "in-fear-causing",
+     "grounds": "compound: bhaya+avāptau; locative of ritual aim",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarvaśatrunivarhaṇe",
+     "gloss": "in-all-enemy-destruction",
+     "grounds": "compound: sarva+śatru+nivarhaṇe; locative of ritual aim",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "For which specific ritual aims are these applications to be employed?",
+   "premises": [
+    "Cloud attraction is listed as an aim.",
+    "Causing fear is listed as an aim.",
+    "Destruction of all enemies is listed as an aim."
+   ],
+   "inference": "These applications are employed for attracting clouds, causing fear, and destroying all enemies.",
+   "uncertainties": [],
+   "plain_english": "In attracting clouds, in causing fear, and in destroying all enemies."
+  },
+  {
+   "verse": 5641,
+   "rows": [
+    {
+     "surface": "brahmarandhrasphuradbhinnamuktālekhāvirājitām",
+     "gloss": "brahmarandhra-flashing-split-pearl-line-adorned",
+     "grounds": "compound: brahmarandhra+sphurat+bhinna+muktā+lekhā+virājitām; describes the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess adorned at the brahmarandhra in this visualization?",
+   "premises": [
+    "The goddess is being described visually.",
+    "A flashing line of split pearls adorns her.",
+    "This adornment is at the brahmarandhra."
+   ],
+   "inference": "The goddess is visualized as adorned at the brahmarandhra with a flashing line of split pearls.",
+   "uncertainties": [],
+   "plain_english": "Adorned with a flashing line of split pearls at the brahmarandhra."
+  },
+  {
+   "verse": 5642,
+   "rows": [
+    {
+     "surface": "viśuddhamuktāvajrāḍhyacandralekhākirīṭinīm",
+     "gloss": "pure-pearl-diamond-rich-crescent-diademed",
+     "grounds": "compound: viśuddha+muktā+vajra+āḍhya+candra+lekhā+kirīṭinīm; describes the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of diadem does the goddess wear in this visualization?",
+   "premises": [
+    "The goddess is described as wearing a diadem.",
+    "The diadem includes a crescent.",
+    "It is rich with pure pearls and diamonds."
+   ],
+   "inference": "The goddess wears a diadem with a crescent rich in pure pearls and diamonds.",
+   "uncertainties": [],
+   "plain_english": "Wearing a diadem with a crescent rich in pure pearls and diamonds."
+  },
+  {
+   "verse": 5643,
+   "rows": [
+    {
+     "surface": "sūryabhāsvanmahāratnakuṇḍalālaṃkṛtāṃ",
+     "gloss": "sun-radiant-great-gem-earring-adorned",
+     "grounds": "compound: sūrya+bhāsvat+mahā+ratna+kuṇḍala+alaṃkṛtāṃ; describes parām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "object of visualization, refers to the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the supreme goddess adorned with earrings in this visualization?",
+   "premises": [
+    "The supreme goddess is the object of description.",
+    "She is adorned with earrings.",
+    "The earrings have great gems radiant like the sun."
+   ],
+   "inference": "The supreme goddess is adorned with earrings of great gems radiant like the sun.",
+   "uncertainties": [],
+   "plain_english": "The supreme goddess, adorned with earrings of great gems radiant like the sun."
+  },
+  {
+   "verse": 5644,
+   "rows": [
+    {
+     "surface": "graiveyāṅgadapratrālīsphuratkāntivirājitām",
+     "gloss": "necklace-armlet-bracelet-flashing-splendor-radiant",
+     "grounds": "compound: graiveya+aṅgada+pratrālī+sphurat+kānti+virājitām; describes the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What ornaments make the goddess radiant with flashing splendor?",
+   "premises": [
+    "The goddess is described as radiant.",
+    "She wears necklaces, armlets, and bracelets.",
+    "These ornaments emit flashing splendor."
+   ],
+   "inference": "The goddess is radiant with the flashing splendor of her necklaces, armlets, and bracelets.",
+   "uncertainties": [
+    "pratrālī interpreted as bracelets or a series of ornaments"
+   ],
+   "plain_english": "Radiant with the flashing splendor of her necklaces, armlets, and bracelets."
+  },
+  {
+   "verse": 5645,
+   "rows": [
+    {
+     "surface": "śrīkhaṇḍavallīsadṛśabāhuballīvirājitām",
+     "gloss": "sandal-vine-like-arm-creeper-radiant",
+     "grounds": "compound: śrīkhaṇḍa+vallī+sadṛśa+bāhu+vallī+virājitām; describes the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "To what are the goddess's arms compared in this visualization?",
+   "premises": [
+    "The goddess's arms are described.",
+    "They are compared to vines.",
+    "The comparison is to sandalwood vines."
+   ],
+   "inference": "The goddess is radiant with arms like sandalwood vines.",
+   "uncertainties": [],
+   "plain_english": "Radiant with arms like sandalwood vines."
+  },
+  {
+   "verse": 5646,
+   "rows": [
+    {
+     "surface": "pravālalatikākārapāṇipallavaśobhitām",
+     "gloss": "coral-creeper-like-hand-sprout-beautiful",
+     "grounds": "compound: pravāla+latikā+ākāra+pāṇi+pallava+śobhitām; describes the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How are the goddess's hands depicted in this visualization?",
+   "premises": [
+    "The goddess's hands are described.",
+    "They are likened to tender sprouts.",
+    "Their form resembles coral creepers."
+   ],
+   "inference": "The goddess is beautiful with hands like tender sprouts resembling coral creepers.",
+   "uncertainties": [],
+   "plain_english": "Beautiful with hands like tender sprouts resembling coral creepers."
+  },
+  {
+   "verse": 5647,
+   "rows": [
+    {
+     "surface": "raktotpaladalākārapādapallavaśobhitām",
+     "gloss": "red-lotus-petal-like-foot-sprout-beautiful",
+     "grounds": "compound: rakta+utpala+dala+ākāra+pāda+pallava+śobhitām; describes the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How are the goddess's feet depicted in this visualization?",
+   "premises": [
+    "The goddess's feet are described.",
+    "They are likened to tender sprouts.",
+    "Their form resembles red lotus petals."
+   ],
+   "inference": "The goddess is beautiful with feet like tender sprouts resembling red lotus petals.",
+   "uncertainties": [],
+   "plain_english": "Beautiful with feet like tender sprouts resembling red lotus petals."
+  },
+  {
+   "verse": 5648,
+   "rows": [
+    {
+     "surface": "vāmena",
+     "gloss": "with-left",
+     "grounds": "qualifies pāṇinā",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pāṇinā",
+     "gloss": "with-hand",
+     "grounds": "instrumental of holding",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "with-one",
+     "grounds": "qualifies pāṇinā",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pustakaṃ",
+     "gloss": "book",
+     "grounds": "object held in left hand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apareṇa",
+     "gloss": "with-other",
+     "grounds": "refers to the other left hand",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What objects does the goddess hold in her left hands?",
+   "premises": [
+    "One left hand is specified.",
+    "It holds a book.",
+    "Another left hand is also indicated."
+   ],
+   "inference": "The goddess holds a book in one left hand and another object in the other left hand.",
+   "uncertainties": [
+    "the object in the other left hand is specified in the next verse"
+   ],
+   "plain_english": "With one left hand she holds a book, and with the other left hand."
+  },
+  {
+   "verse": 5649,
+   "rows": [
+    {
+     "surface": "akṣamālāṃ",
+     "gloss": "rosary",
+     "grounds": "object held in other left hand",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varadaṃ",
+     "gloss": "boon-giving-gesture",
+     "grounds": "object/gesture held in right hands",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣapāṇidvayena",
+     "gloss": "with-right-hand-pair",
+     "grounds": "compound: dakṣa+pāṇi+dvayena; instrumental of holding",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What objects or gestures does the goddess display with her remaining hands?",
+   "premises": [
+    "A rosary is held.",
+    "A boon-giving gesture is displayed.",
+    "The right pair of hands is involved."
+   ],
+   "inference": "The goddess holds a rosary and displays the boon-giving gesture with her pair of right hands.",
+   "uncertainties": [
+    "distribution of rosary and varada between specific hands is slightly ambiguous"
+   ],
+   "plain_english": "She holds a rosary, and with her pair of right hands displays the boon-giving gesture."
+  }
+ ]
+}

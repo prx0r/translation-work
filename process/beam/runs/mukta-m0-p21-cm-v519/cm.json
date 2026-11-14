@@ -3,34 +3,39 @@
  "verse": 519,
  "rows": [
   {
-   "lemma": "ayaṃ me hasta",
-   "morph": "quotation",
-   "grounds": "quoted formula treated as a single token"
+   "lemma": "bhagaklinne",
+   "morph": "mantra element",
+   "grounds": "mantra phrase element; kept as transmitted"
   },
   {
-   "lemma": "iti",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "quotation marker"
+   "grounds": "connects mantra elements"
   },
   {
-   "lemma": "tu",
+   "lemma": "sarvāṇi",
+   "morph": "n.acc.pl",
+   "grounds": "qualifies the bhaga elements"
+  },
+  {
+   "lemma": "bhagānyatha",
+   "morph": "n.acc.pl + atha(indecl.)",
+   "grounds": "mantra phrase with following particle; internal sandhi bhagāni+atha"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle marking emphasis or transition"
+   "grounds": "connects mantra elements"
   },
   {
-   "lemma": "hastaśuddhiṃ",
-   "morph": "compound=hasta+śuddhi; f.acc.sg",
-   "grounds": "compound denoting purification of the hand"
+   "lemma": "me",
+   "morph": "pronoun.gen/dat.sg",
+   "grounds": "pronoun in mantra petition"
   },
   {
-   "lemma": "vidhāya",
-   "morph": "gerund; root=vi-dhā",
-   "grounds": "absolutive expressing prior action"
-  },
-  {
-   "lemma": "vai",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "lemma": "likhet",
+   "morph": "3.sg.act-optative √likh",
+   "grounds": "instruction to inscribe the mantra element"
   }
  ]
 }

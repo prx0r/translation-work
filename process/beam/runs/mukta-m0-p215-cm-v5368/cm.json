@@ -3,14 +3,44 @@
  "verse": 5368,
  "rows": [
   {
-   "lemma": "svanāmādyakṣareṇaiṣāṃ",
-   "morph": "compound=sva+nāma+ādya+akṣareṇa+eṣām",
-   "grounds": "fused sandhi sva-nāma-ādya-akṣareṇa + eṣām; mantra extraction rule"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "mantrāṇāmudhdṛtirbhavet",
-   "morph": "compound=mantrāṇām+uddhṛtiḥ+bhavet; verb 3.sg.opt.act √bhū",
-   "grounds": "fused sandhi mantrāṇām + uddhṛtiḥ + bhavet"
+   "lemma": "guruṃ",
+   "morph": "m.acc.sg",
+   "grounds": "person not to be stepped over"
+  },
+  {
+   "lemma": "sādhakaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "person not to be stepped over"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "liṅgacchāyāṃ",
+   "morph": "compound: liṅga+chāyā; f.acc.sg",
+   "grounds": "compound object/location not to be stepped over"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "laṅghayet",
+   "morph": "3.sg.optative-causative-active √laṅgh",
+   "grounds": "prohibited action"
   }
  ]
 }

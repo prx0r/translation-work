@@ -3,24 +3,29 @@
  "verse": 512,
  "rows": [
   {
-   "lemma": "candanodakamāpūrya",
-   "morph": "gerund; compound=candana+udaka+āpūrya; root=ā-pṛ",
-   "grounds": "absolutive compound indicating filling with sandal water"
+   "lemma": "bhaganyante",
+   "morph": "compound = bhaga+first, anta+second; m.loc.sg",
+   "grounds": "locative mantra phrase indicating placement"
+  },
+  {
+   "lemma": "pātanīti",
+   "morph": "mantra phrase element",
+   "grounds": "mantra phrase element expressing action"
+  },
+  {
+   "lemma": "vāgbhavaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "bīja mantra element"
+  },
+  {
+   "lemma": "bhagasarva",
+   "morph": "compound = bhaga+first, sarva+second",
+   "grounds": "mantra phrase element combining bhaga and all"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction linking steps"
-  },
-  {
-   "lemma": "aghoreṇa",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental specifying mantra used"
-  },
-  {
-   "lemma": "abhimantrayet",
-   "morph": "3.sg.optative-active; root=abhi-mantr",
-   "grounds": "optative prescribing mantra consecration"
+   "grounds": "connects mantra elements"
   }
  ]
 }

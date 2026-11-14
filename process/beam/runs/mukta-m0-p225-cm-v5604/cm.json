@@ -3,29 +3,44 @@
  "verse": 5604,
  "rows": [
   {
-   "lemma": "yatdagvā",
-   "morph": "gerund+√dā",
-   "grounds": "fused form; likely yat + dattvā with sandhi"
+   "lemma": "triṃśat",
+   "morph": "compound:triṃśat+saṃvatsara",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "nivartante",
-   "morph": "3.pl.pres.mid+√vṛt",
-   "grounds": "present middle of ni-vṛt"
+   "lemma": "saṃvatsara",
+   "morph": "compound:saṃvatsara+adhaḥ",
+   "grounds": "middle member of compound"
   },
   {
-   "lemma": "mama",
-   "morph": "pron.gen.sg",
-   "grounds": "possessive pronoun"
+   "lemma": "adhaḥ",
+   "morph": "compound:adhaḥ+sthām",
+   "grounds": "final member of compound"
   },
   {
-   "lemma": "bhaktā",
-   "morph": "m.nom.pl",
-   "grounds": "subject of the verb"
+   "lemma": "sthām",
+   "morph": "f.acc.sg",
+   "grounds": "being under thirty years"
   },
   {
-   "lemma": "dvijottamāḥ",
-   "morph": "m.nom.pl (compound)",
-   "grounds": "vocative or nominative compound dvija + uttama"
+   "lemma": "ṣoḍaśa",
+   "morph": "compound:ṣoḍaśa+abdā",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "abdā",
+   "morph": "compound:abdā+adhikām",
+   "grounds": "middle member of compound"
+  },
+  {
+   "lemma": "adhikām",
+   "morph": "f.acc.sg",
+   "grounds": "more than sixteen years"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive particle"
   }
  ]
 }

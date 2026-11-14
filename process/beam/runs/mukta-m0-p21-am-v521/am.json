@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 521,
- "question": "How many recitations of the six-syllabled mantra are prescribed as alternatives?",
+ "question": "What power is attributed to the vidyā when uttered with its specified ending?",
  "premises": [
-  "One may recite the six-syllabled mantra a thousand times.",
-  "Alternatively, one may recite it six hundred times."
+  "The vidyā is uttered ending in ṅe",
+  "This vidyā is identified as the subject",
+  "It brings the three worlds under control"
  ],
- "inference": "The ritual allows either one thousand or six hundred recitations of the six-syllabled mantra.",
- "uncertainties": [],
- "plain_english": "One should indeed recite the six-syllabled mantra a thousand times, or even six hundred."
+ "inference": "The properly uttered vidyā possesses the power to subdue the three worlds.",
+ "uncertainties": [
+  "Internal sandhi in ṅe'ntām and vidyeyaṃ noted but tokens kept fused as given"
+ ],
+ "plain_english": "Having uttered it ending in ‘ṅe’, this vidyā brings the three worlds under control."
 }

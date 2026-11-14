@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p220",
  "verse": 5491,
- "question": "What preparatory recitation must precede the performance of the rite?",
+ "question": "Which daily rites are listed alongside the Kula observances in this context?",
  "premises": [
-  "The gāyatrī is to be chanted",
-  "It must be chanted one hundred and eight times",
-  "The rite is performed after this chanting"
+  "Daily śrāddha is a regular duty.",
+  "Twilight prayer is a regular duty.",
+  "Libation to ancestors is a regular duty."
  ],
- "inference": "One should chant the gāyatrī 108 times before performing the rite.",
- "uncertainties": [],
- "plain_english": "Having chanted the gāyatrī one hundred and eight times, one should perform the rite."
+ "inference": "Daily śrāddha, twilight prayer, and libation to ancestors are enumerated as duties.",
+ "uncertainties": [
+  "The syntactic role in the larger sentence is incomplete in this verse alone."
+ ],
+ "plain_english": "Daily śrāddha, twilight prayer, and libation to the ancestors."
 }

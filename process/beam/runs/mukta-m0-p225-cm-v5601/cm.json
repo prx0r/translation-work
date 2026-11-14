@@ -3,29 +3,39 @@
  "verse": 5601,
  "rows": [
   {
-   "lemma": "gandhādyaiḥ",
-   "morph": "m.inst.pl",
-   "grounds": "instrumental plural of gandhādi; means fragrances etc."
+   "lemma": "mātaṅgī",
+   "morph": "f.nom.sg",
+   "grounds": "name of goddess"
   },
   {
-   "lemma": "sthaṇḍilaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "ritual ground or altar"
+   "lemma": "manmatha",
+   "morph": "compound:manmatha+upetā",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "locative adverb"
+   "lemma": "upetā",
+   "morph": "f.nom.sg",
+   "grounds": "joined with desire"
   },
   {
-   "lemma": "tānabhyarcaiva",
-   "morph": "gerund+indecl.",
-   "grounds": "fused form tān + abhyarcya + eva; internal sandhi noted"
+   "lemma": "sarva",
+   "morph": "compound:sarva+kāma",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kārayet",
-   "morph": "3.sg.opt.act-caus+√kṛ",
-   "grounds": "causative optative of kṛ"
+   "lemma": "kāma",
+   "morph": "compound:kāma+artha",
+   "grounds": "middle member of compound"
+  },
+  {
+   "lemma": "artha",
+   "morph": "compound:artha+siddhaye",
+   "grounds": "final member of compound"
+  },
+  {
+   "lemma": "siddhaye",
+   "morph": "f.dat.sg",
+   "grounds": "purpose"
   }
  ]
 }

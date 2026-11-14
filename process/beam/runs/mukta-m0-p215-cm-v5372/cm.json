@@ -3,19 +3,29 @@
  "verse": 5372,
  "rows": [
   {
-   "lemma": "pañcāgnyāyatanopeta",
-   "morph": "compound=pañca+agni+āyatana+upeta",
-   "grounds": "compound pañca-agni-āyatana-upeta; ritual setup option"
+   "lemma": "prayoktavyaḥ",
+   "morph": "m.nom.sg (gerundive)",
+   "grounds": "injunction regarding mantra use"
   },
   {
-   "lemma": "mekāgnyāyatanena",
-   "morph": "compound=eka+agni+āyatanena; n.inst.sg",
-   "grounds": "fused sandhi meka? likely eka-agni-āyatanena; alternative setup"
+   "lemma": "svamantraśca",
+   "morph": "compound: sva+mantra; m.nom.sg + (indecl.)",
+   "grounds": "compound with conjunction; sandhi at ca"
   },
   {
-   "lemma": "vā",
+   "lemma": "āpadyapi",
+   "morph": "f.loc.sg + (indecl.)",
+   "grounds": "locative with emphatic particle; sandhi at āpadi+api"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "alternative option"
+   "grounds": "negation"
+  },
+  {
+   "lemma": "cācaret",
+   "morph": "3.sg.optative-active √car",
+   "grounds": "prohibited conduct; ca here connective/emphatic in context"
   }
  ]
 }

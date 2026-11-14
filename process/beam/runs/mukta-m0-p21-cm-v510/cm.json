@@ -3,24 +3,29 @@
  "verse": 510,
  "rows": [
   {
-   "lemma": "ṣaḍaṅgair",
-   "morph": "compound=ṣaṣ+aṅga; n.inst.pl",
-   "grounds": "instrumental plural referring to six-limbed mantra"
+   "lemma": "vāgbhavaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "bīja mantra element; kept as mantra name"
   },
   {
-   "lemma": "jalamāpūrya",
-   "morph": "gerund; compound=jala+āpūrya; root=ā-pṛ",
-   "grounds": "absolutive expressing prior action of filling"
+   "lemma": "bhagaśabdānte",
+   "morph": "compound = bhaga+first, śabda+second, anta+third; m.loc.sg",
+   "grounds": "locative indicating placement after the word bhaga"
   },
   {
-   "lemma": "sadyādyair",
-   "morph": "compound=sadya+ādi; m.inst.pl",
-   "grounds": "instrumental plural referring to mantras beginning with sadyojāta"
+   "lemma": "bhuge",
+   "morph": "mantra element",
+   "grounds": "mantra syllable or phrase; kept byte-exact"
   },
   {
-   "lemma": "abhimantrayet",
-   "morph": "3.sg.optative-active; root=abhi-mantr",
-   "grounds": "optative prescribing mantra consecration"
+   "lemma": "vāgbhavameva",
+   "morph": "m.acc.sg + eva(indecl.)",
+   "grounds": "repetition of bīja with emphasis"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects mantra elements"
   }
  ]
 }

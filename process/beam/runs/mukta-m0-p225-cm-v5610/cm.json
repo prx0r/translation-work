@@ -3,24 +3,34 @@
  "verse": 5610,
  "rows": [
   {
-   "lemma": "tatpucchaṃ",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound tat + puccha"
+   "lemma": "arcane",
+   "morph": "n.loc.sg",
+   "grounds": "ritual context"
   },
   {
-   "lemma": "mukulākāraṃ",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound mukula + ākāra"
+   "lemma": "prathitā",
+   "morph": "f.nom.sg",
+   "grounds": "well-known"
   },
   {
-   "lemma": "pāde",
-   "morph": "m.loc.sg",
-   "grounds": "locative of pāda"
+   "lemma": "veśyā",
+   "morph": "f.nom.sg",
+   "grounds": "possible participant"
   },
   {
-   "lemma": "śobhāvirājitam",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound śobhā + virājita"
+   "lemma": "mantra",
+   "morph": "compound:mantra+yuktā",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "yuktā",
+   "morph": "f.nom.sg",
+   "grounds": "joined with mantra"
+  },
+  {
+   "lemma": "manoharā",
+   "morph": "f.nom.sg",
+   "grounds": "pleasing to mind"
   }
  ]
 }

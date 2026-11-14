@@ -3,24 +3,39 @@
  "verse": 516,
  "rows": [
   {
-   "surface": "āpo vā idaṃ sarvam",
-   "gloss": "water-indeed-this-all",
-   "grounds": "quoted Vedic formula treated as a single token"
-  },
-  {
-   "surface": "ityanena",
-   "gloss": "with-this-formula",
-   "grounds": "instrumental referring to the quoted formula"
-  },
-  {
-   "surface": "abhimantrya",
-   "gloss": "having-consecrated",
-   "grounds": "absolutive expressing consecration by mantra"
+   "surface": "vāgbhavaṃ",
+   "gloss": "vagbhava-seed",
+   "grounds": "bīja mantra element"
   },
   {
    "surface": "ca",
    "gloss": "and",
-   "grounds": "conjunction linking actions"
+   "grounds": "connects mantra elements"
+  },
+  {
+   "surface": "bhagablūṃ",
+   "gloss": "bhaga-blum",
+   "grounds": "mantra phrase with seed syllable; kept byte-exact"
+  },
+  {
+   "surface": "ca",
+   "gloss": "and",
+   "grounds": "connects mantra elements"
+  },
+  {
+   "surface": "vāgbhavaṃ",
+   "gloss": "vagbhava-seed",
+   "grounds": "bīja mantra element repeated"
+  },
+  {
+   "surface": "bhagajaṃ",
+   "gloss": "bhaga-born",
+   "grounds": "mantra phrase element"
+  },
+  {
+   "surface": "likhet",
+   "gloss": "should-write",
+   "grounds": "instruction to inscribe the mantra element"
   }
  ]
 }

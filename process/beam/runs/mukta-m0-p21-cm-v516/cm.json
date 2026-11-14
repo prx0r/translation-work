@@ -3,24 +3,39 @@
  "verse": 516,
  "rows": [
   {
-   "lemma": "āpo vā idaṃ sarvam",
-   "morph": "quotation",
-   "grounds": "quoted Vedic formula treated as a single token"
-  },
-  {
-   "lemma": "ityanena",
-   "morph": "compound=iti+anena; n.inst.sg",
-   "grounds": "instrumental referring to the quoted formula"
-  },
-  {
-   "lemma": "abhimantrya",
-   "morph": "gerund; root=abhi-mantr",
-   "grounds": "absolutive expressing consecration by mantra"
+   "lemma": "vāgbhavaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "bīja mantra element"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction linking actions"
+   "grounds": "connects mantra elements"
+  },
+  {
+   "lemma": "bhagablūṃ",
+   "morph": "mantra element",
+   "grounds": "mantra phrase with seed syllable; kept byte-exact"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects mantra elements"
+  },
+  {
+   "lemma": "vāgbhavaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "bīja mantra element repeated"
+  },
+  {
+   "lemma": "bhagajaṃ",
+   "morph": "compound = bhaga+first, ja+second; m.acc.sg",
+   "grounds": "mantra phrase element"
+  },
+  {
+   "lemma": "likhet",
+   "morph": "3.sg.act-optative √likh",
+   "grounds": "instruction to inscribe the mantra element"
   }
  ]
 }
