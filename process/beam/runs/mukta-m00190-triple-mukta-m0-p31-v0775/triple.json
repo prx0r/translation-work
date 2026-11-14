@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative indicating direction; continues directional enumeration from previous verses",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhiṣikāṃ",
+     "gloss": "bhiṣikā",
+     "grounds": "proper name of the goddess-form in this quarter",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "indeclinable marking designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lalajjihvāṃ",
+     "gloss": "with-lolling-tongue",
+     "grounds": "bahuvrīhi compound describing appearance; lalat (lolling) + jihvā (tongue)",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sudhāmukhīm",
+     "gloss": "with-nectar-face",
+     "grounds": "bahuvrīhi compound describing appearance; sudhā (nectar) + mukha (face)",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What name and distinguishing features identify the goddess-form stationed in the southern direction?",
+   "premises": [
+    "The southern direction is specified as the location.",
+    "The goddess-form stationed there is named Bhiṣikā.",
+    "She is characterized by a lolling tongue.",
+    "She is characterized by a nectar-like face."
+   ],
+   "inference": "Therefore the southern quarter is presided over by the goddess-form named Bhiṣikā bearing these features.",
+   "uncertainties": [
+    "The precise nuance of sudhā in sudhāmukhīm could be 'nectar' or 'pure'."
+   ],
+   "plain_english": "In the south is the one named Bhiṣikā, with a lolling tongue and a nectar-like face."
+  }
+ ]
+}
