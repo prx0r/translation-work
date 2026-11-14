@@ -3,14 +3,39 @@
  "verse": 123,
  "rows": [
   {
-   "lemma": "homasthāne",
-   "morph": "n.loc.sg",
-   "grounds": "compound: homa+sthāna"
+   "lemma": "tasya+ūrdhve",
+   "morph": "gen.sg.n + loc.sg.n",
+   "grounds": "locative expression indicating position above the previously mentioned phase; compound retained as one token"
   },
   {
-   "lemma": "svadevatāḥ",
-   "morph": "f.acc.pl",
-   "grounds": "compound: sva+devatā"
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "particle marking contrast or emphasis"
+  },
+  {
+   "lemma": "śikhā",
+   "morph": "nom.sg.f",
+   "grounds": "subject denoting the higher phase"
+  },
+  {
+   "lemma": "sūkṣmā",
+   "morph": "nom.sg.f",
+   "grounds": "qualifies the crest as subtle"
+  },
+  {
+   "lemma": "cit+rūpā",
+   "morph": "nom.sg.f (compound: cit+rūpa)",
+   "grounds": "qualifies the crest as having the nature of consciousness"
+  },
+  {
+   "lemma": "paramā",
+   "morph": "nom.sg.f",
+   "grounds": "qualifies the crest as highest"
+  },
+  {
+   "lemma": "kalā",
+   "morph": "nom.sg.f",
+   "grounds": "noun in apposition to śikhā"
   }
  ]
 }

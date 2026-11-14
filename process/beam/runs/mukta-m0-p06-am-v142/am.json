@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 142,
- "question": "What proportional width must the altar have in relation to the pavilion?",
+ "question": "Who alone is qualified and fit for attaining liberation?",
  "premises": [
-  "The pavilion provides the reference measure.",
-  "The altar's width is specified.",
-  "The width is one third of the pavilion."
+  "Qualification for liberation is being asserted.",
+  "Only that person is qualified here.",
+  "No other person is fit for liberation."
  ],
- "inference": "The width of the altar should be one third of the pavilion.",
- "uncertainties": [],
- "plain_english": "The width of the altar should be one third of the pavilion."
+ "inference": "Only that person is qualified and fit for liberation, and no other.",
+ "uncertainties": [
+  "The referent of 'he alone' depends on the preceding description."
+ ],
+ "plain_english": "He alone would be qualified here; no other is fit for liberation."
 }

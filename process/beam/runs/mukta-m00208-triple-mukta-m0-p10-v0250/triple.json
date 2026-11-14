@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "malasnānam",
+     "gloss": "impurity-bath",
+     "grounds": "compound of mala (impurity) and snāna (bath)",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the bath just described",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been taught",
+     "morph": "ppp.n.nom.sg (pra+√vac)"
+    },
+    {
+     "surface": "mantrasnām",
+     "gloss": "mantra-bath",
+     "grounds": "compound of mantra and snāna (bath); object of the next instruction",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle marking transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressed to the listener",
+     "morph": "2.sg.imp.act (√śru)"
+    }
+   ],
+   "question": "What bath has been declared complete, and what practice is introduced for hearing next?",
+   "premises": [
+    "The impurity-bath is declared as this completed teaching.",
+    "A transition marker introduces a new topic.",
+    "The listener is commanded to hear about the mantra-bath."
+   ],
+   "inference": "Having concluded the teaching on the impurity-bath, the text now directs attention to the mantra-bath.",
+   "uncertainties": [
+    "The precise ritual details of malasnāna and mantrasnāna are not specified in this verse alone."
+   ],
+   "plain_english": "This impurity-bath has now been declared; now hear about the mantra-bath."
+  }
+ ]
+}

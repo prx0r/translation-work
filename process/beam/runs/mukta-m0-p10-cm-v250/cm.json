@@ -3,24 +3,34 @@
  "verse": 250,
  "rows": [
   {
-   "lemma": "kaulikavastūnāṃ",
-   "morph": "kaulika+vastu.compound m.gen.pl",
-   "grounds": "genitive plural of compound kaulika-vastu, indicating the materials belonging to kaula practice"
+   "lemma": "malasnānam",
+   "morph": "compound.n.nom.sg",
+   "grounds": "compound of mala (impurity) and snāna (bath)"
   },
   {
-   "lemma": "piṇḍāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "nominative plural subject denoting formed lumps or balls"
+   "lemma": "idam",
+   "morph": "pron.n.nom.sg",
+   "grounds": "demonstrative pronoun referring to the bath just described"
   },
   {
-   "lemma": "ca",
+   "lemma": "proktaṃ",
+   "morph": "ppp.n.nom.sg (pra+√vac)",
+   "grounds": "past passive participle indicating what has been taught"
+  },
+  {
+   "lemma": "mantrasnām",
+   "morph": "compound.n.acc.sg",
+   "grounds": "compound of mantra and snāna (bath); object of the next instruction"
+  },
+  {
+   "lemma": "atha",
    "morph": "(indecl.)",
-   "grounds": "indeclinable conjunction adding to the preceding ritual description"
+   "grounds": "particle marking transition to a new topic"
   },
   {
-   "lemma": "rudhirokṣitāḥ",
-   "morph": "rudhira+ukṣita.compound m.nom.pl",
-   "grounds": "compound rudhira-ukṣita describing the masses as sprinkled with blood"
+   "lemma": "śṛṇu",
+   "morph": "2.sg.imp.act (√śru)",
+   "grounds": "imperative addressed to the listener"
   }
  ]
 }

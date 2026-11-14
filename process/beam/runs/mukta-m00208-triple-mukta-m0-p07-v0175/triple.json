@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "pumān",
+     "gloss": "man",
+     "grounds": "a male person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāryathavā",
+     "gloss": "or-woman",
+     "grounds": "fused form of nārī (woman) and athavā (or)",
+     "morph": "compound:f.nom.sg+indecl."
+    },
+    {
+     "surface": "klībaḥ",
+     "gloss": "neuter-person",
+     "grounds": "a person of non-male-non-female sex or impotent person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "all of them collectively",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mokṣādhikāriṇaiḥ",
+     "gloss": "entitled-to-liberation",
+     "grounds": "compound of mokṣa (liberation) and adhikārin (one entitled); surface form as given",
+     "morph": "compound:mokṣa+adhikārin; m.nom.pl"
+    }
+   ],
+   "question": "Which categories of persons are entitled to pursue liberation regardless of gender or social status?",
+   "premises": [
+    "A man is included among those eligible.",
+    "A woman or a neuter person is included among those eligible.",
+    "All such persons are entitled to liberation."
+   ],
+   "inference": "Eligibility for liberation is universal across gender categories, encompassing men, women, and neuter persons alike.",
+   "uncertainties": [
+    "The surface form 'mokṣādhikāriṇaiḥ' is non-standard for the expected nominative plural; it is analyzed functionally as nominative plural."
+   ],
+   "plain_english": "Whether a man, a woman, or a neuter person, all are entitled to liberation."
+  }
+ ]
+}

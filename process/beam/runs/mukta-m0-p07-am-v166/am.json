@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p07",
  "verse": 166,
- "question": "Which seed syllables are assigned to the western and northern directions?",
+ "question": "What fate awaits one who insults devotees and similar persons?",
  "premises": [
-  "Seed syllables are placed directionally.",
-  "The western direction receives a specific syllable.",
-  "The northern direction receives a specific syllable."
+  "A person may insult devotees and others like them.",
+  "A conditional consequence is stated.",
+  "The consequence is dwelling in hell for endless time."
  ],
- "inference": "The syllable ra is placed in the west and the syllable ya in the north.",
- "uncertainties": [],
- "plain_english": "Place the syllable ra in the western direction and the syllable ya in the northern region."
+ "inference": "One who insults devotees becomes a hell-dweller for endless time.",
+ "uncertainties": [
+  "The conditional particle 'cet' appears twice in the tokenization as listed; the condition is taken once."
+ ],
+ "plain_english": "If one insults devotees and others, he becomes a dweller in hell for endless time."
 }

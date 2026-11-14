@@ -3,24 +3,44 @@
  "verse": 189,
  "rows": [
   {
-   "lemma": "athavā",
+   "lemma": "gṛhyate",
+   "morph": "3.sg.pres.passive √grah",
+   "grounds": "passive verb"
+  },
+  {
+   "lemma": "śāmbhavī",
+   "morph": "f.nom.sg",
+   "grounds": "adjective qualifying dīkṣā"
+  },
+  {
+   "lemma": "dīkṣā",
+   "morph": "f.nom.sg",
+   "grounds": "subject of the passive verb"
+  },
+  {
+   "lemma": "bhartṛ",
+   "morph": "compound-member",
+   "grounds": "compound member in predicate condition"
+  },
+  {
+   "lemma": "cet",
    "morph": "(indecl.)",
-   "grounds": "introduces alternative rule"
+   "grounds": "conditional particle"
   },
   {
-   "lemma": "agrapādasadṛśaṃ",
-   "morph": "compound n.nom.sg",
-   "grounds": "first proportional measure"
+   "lemma": "guruḥ",
+   "morph": "m.nom.sg",
+   "grounds": "predicate nominative"
   },
   {
-   "lemma": "dviguṇadviguṇaṃ",
-   "morph": "compound n.nom.sg",
-   "grounds": "successive proportional measures"
+   "lemma": "sa",
+   "morph": "m.nom.sg",
+   "grounds": "demonstrative pronoun referring to husband"
   },
   {
-   "lemma": "tathā",
+   "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "extends the pattern"
+   "grounds": "emphatic particle"
   }
  ]
 }

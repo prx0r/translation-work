@@ -3,29 +3,34 @@
  "verse": 153,
  "rows": [
   {
-   "lemma": "mānāṃgulena",
-   "morph": "compound n.ins.sg",
-   "grounds": "standard unit of measurement"
+   "lemma": "mama",
+   "morph": "m.gen.sg",
+   "grounds": "possessive pronoun"
   },
   {
-   "lemma": "kartavyaṃ",
-   "morph": "n.nom.sg.gerundive √kṛ",
-   "grounds": "obligation"
-  },
-  {
-   "lemma": "anyamānaṃ",
-   "morph": "compound n.acc.sg",
-   "grounds": "non-standard measurement"
+   "lemma": "jñānena",
+   "morph": "n.inst.sg",
+   "grounds": "instrument"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "kārayet",
-   "morph": "3.sg.opt.caus.act √kṛ",
-   "grounds": "causative injunction"
+   "lemma": "vinā",
+   "morph": "(indecl.)",
+   "grounds": "postposition governing instrument"
+  },
+  {
+   "lemma": "matprasādo",
+   "morph": "compound: mat+first, prasāda+second; m.nom.sg",
+   "grounds": "compound subject"
+  },
+  {
+   "lemma": "bhaviṣyati",
+   "morph": "3.sg.act-fut √bhū",
+   "grounds": "future assertion"
   }
  ]
 }

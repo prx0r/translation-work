@@ -3,24 +3,29 @@
  "verse": 176,
  "rows": [
   {
-   "lemma": "sviṣṭamagneti",
+   "lemma": "matprasādavihīnāya",
    "morph": "compound",
-   "grounds": "compound/mantra-phrase used as formula name; internal sandhi preserved"
+   "grounds": "bahuvrīhi compound; dative singular masculine"
   },
   {
-   "lemma": "maṃtreṇa",
-   "morph": "m.ins.sg",
-   "grounds": "instrument by which the act is performed"
+   "lemma": "vratam",
+   "morph": "n.nom.sg",
+   "grounds": "object of rocate"
   },
   {
-   "lemma": "pūrṇāhutim",
-   "morph": "f.acc.sg",
-   "grounds": "object of the ritual action"
+   "lemma": "etat",
+   "morph": "n.nom.sg",
+   "grounds": "demonstrative pronoun qualifying vratam"
   },
   {
-   "lemma": "athācaret",
-   "morph": "3.sg.act-opt √car",
-   "grounds": "injunctive ritual instruction; sandhi atha+ācaret preserved"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "rocate",
+   "morph": "3.sg.pres.middle √ruc",
+   "grounds": "verb with dative experiencer"
   }
  ]
 }
