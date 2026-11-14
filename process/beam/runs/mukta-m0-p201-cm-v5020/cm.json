@@ -3,24 +3,34 @@
  "verse": 5020,
  "rows": [
   {
-   "lemma": "madhyodare'ṣṭamātraṃ",
-   "morph": "compound bahuvrihi n.nom.sg",
-   "grounds": "sandhi madhyodare+aṣṭamātraṃ; compound expressing measure"
+   "lemma": "madhya",
+   "morph": "compound-member madhya",
+   "grounds": "first member of compound indicating central location"
   },
   {
-   "lemma": "syācchroṇī",
-   "morph": "3.sg.optative √as + f.nom.sg",
-   "grounds": "sandhi syāt+śroṇī; optative with noun"
+   "lemma": "bhāge",
+   "morph": "m.loc.sg",
+   "grounds": "locative indicating place"
   },
   {
-   "lemma": "viśvāṅgulena",
-   "morph": "compound bahuvrihi n.inst.sg",
-   "grounds": "instrumental compound expressing measure"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "particle of specification"
+  },
+  {
+   "lemma": "vahni",
+   "morph": "compound-member vahni",
+   "grounds": "first member of compound referring to ritual fire"
+  },
+  {
+   "lemma": "sthāpanam",
+   "morph": "n.acc.sg",
+   "grounds": "act of establishing the fire"
+  },
+  {
+   "lemma": "ācaret",
+   "morph": "3.sg.opt.act √car+ā",
+   "grounds": "optative prescribing ritual action"
   }
  ]
 }
