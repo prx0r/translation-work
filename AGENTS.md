@@ -86,7 +86,7 @@ DB hookup (read-only): DB-BACKBONE.md (portable box DB + tools/dbread.py) — tr
 Lore: lore/rasa/ (Abhinavagupta grounding), lore/witnesses/ (vendored, comparison only), lore/links.json (verified URLs), lore/concepts/ (21 concept files), lore/ipvv-deepdive-2026-11-01.md
 Skills: skills/crystal-ipvv/SKILL.md (THE process), EXAMPLES.md (prompts + good/bad)
 Swarm skill (huge texts only, feeds the process, never replaces it): skills/largetext/SKILL.md + EXAMPLES.md (beam drafters + assessor gate + transmission briefs + calibration)
-MCP interface (all of the above as callable tools): mcp_server.py (19 tools) + MCP.md (full docs: when-to-use, troubleshooting, autonomy wiring) + BIBLIOGRAPHY.md (base layer: `shastra.bibliography` / `shastra.priority`)
+MCP interface (all of the above as callable tools): mcp_server.py (31 tools) + MCP.md (full docs: when-to-use, troubleshooting, autonomy wiring) + BIBLIOGRAPHY.md (base layer: `shastra.bibliography` / `shastra.priority`)
 Gate: check.py (exit 0 = canonical)
 
 ## Layer Contracts (from LAYERS.md)

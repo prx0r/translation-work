@@ -7,6 +7,24 @@ SKILL.md + EXAMPLES.md + FINAL-PROCESS.md + crystal.md + mistakes.md (all read
 and re-verified 2026-11-04 — see CANONICAL CHECKLIST below). When todos change,
 edit THIS file in the same commit — never leave it behind.*
 
+## State snapshot (verified 2026-11-14 — MCP estate + gate fix; supersedes older snapshots)
+
+- **Gate green again:** `check.py` was NOT CANONICAL (3 failures) this morning;
+  fixed by recording honest sandhi-only dispositions for sivastotravali
+  s01/s02/s03 in `tools/proof-disp.json` (details in `WHERE-WE-ARE.md`).
+  Now CANONICAL 0 failures; validate_all --quick 0 failures.
+- **MCP estate live & verified:** shastra 31 tools (200), book 22 (200),
+  patala REST 46 routes (200); **video 18 behind Cloudflare Access (401)** —
+  the one ChatGPT-connector gap. Docs reconciled to 31 (MCP.md/MCP-ESTATE/AGENTS).
+- **Fixed stale-brief bug:** `mcp_server._lore_path()` now resolves
+  `lore/<work>.md` (all burn fronts), not only Tantraloka `tal-aNN.md`.
+- **Burn state:** kularnava 76/77 gold (6 unbuilt blocked by failed-at-max;
+  kul-p39 ALIGN_NODISP); mukta-m00027 25/26; svacchandatantra 0/18 and
+  netratantra 0/5 need assessor re-intake (BUGS #12); mukta-m00124 building.
+  `queue_guard` clean; `recycle --dry` 355→0 halved (ranges already live).
+- **Distribution target (owner 2026-11-14):** get everything onto ChatGPT as
+  MCP connectors/plugins. Orientation doc: **`WHERE-WE-ARE.md`**.
+
 ## State snapshot (verified 2026-11-12 — bibliography base layer; supersedes older snapshots below)
 
 - **Final Muktabodha bibliography imported** (baseline 2026-11-12): 499 catalog /
