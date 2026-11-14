@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1942,
- "question": "Which layout lines are identified as possible locations for adjustment?",
+ "question": "What consequences follow for one who improperly hears the Veda?",
  "premises": [
-  "The grid line of plots is mentioned.",
-  "The pair of middle lines is also mentioned as an alternative."
+  "A person hears the Veda.",
+  "That person becomes without lineage.",
+  "That person becomes without wealth."
  ],
- "inference": "Adjustments may be made on the plot grid line or on the two middle lines.",
- "uncertainties": [],
- "plain_english": "On the grid line of the plots, or also on the pair of middle lines."
+ "inference": "One who improperly hears the Veda becomes without lineage and without wealth.",
+ "uncertainties": [
+  "The condition making the hearing improper is implied by context rather than stated explicitly."
+ ],
+ "plain_english": "If he hears the Veda, he becomes without lineage and without wealth."
 }

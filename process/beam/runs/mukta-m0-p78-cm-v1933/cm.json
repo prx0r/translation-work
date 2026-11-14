@@ -3,29 +3,29 @@
  "verse": 1933,
  "rows": [
   {
-   "lemma": "jyeṣṭhamadhyakaniṣṭhāḥ",
-   "morph": "compound: jyeṣṭha+madhya+kaniṣṭha (f.nom.pl)",
-   "grounds": "compound listing three grades"
-  },
-  {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "connects this step to the previous one"
   },
   {
-   "lemma": "kṣudrāḥ",
-   "morph": "f.nom.pl",
-   "grounds": "fourth grade"
-  },
-  {
-   "lemma": "ceti",
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "conjunction with quotative sense"
+   "grounds": "marks the next ritual step"
   },
   {
-   "lemma": "caturvidhāḥ",
-   "morph": "compound: catur+vidha (f.nom.pl)",
-   "grounds": "compound indicating four kinds"
+   "lemma": "prāṇāyāma",
+   "morph": "compound-member",
+   "grounds": "first member of compound specifying practice"
+  },
+  {
+   "lemma": "trayam",
+   "morph": "n.acc.sg",
+   "grounds": "specifies the number of breath-controls"
+  },
+  {
+   "lemma": "caret",
+   "morph": "3.sg.optative-active √car",
+   "grounds": "prescribes the practice"
   }
  ]
 }

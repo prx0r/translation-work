@@ -1,0 +1,835 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 1976,
+   "rows": [
+    {
+     "surface": "mantrasnānaṃ",
+     "gloss": "mantra-bathing",
+     "grounds": "compound denoting bathing performed with mantras",
+     "morph": "n.acc.sg, compound mantra+modifier snāna+head"
+    },
+    {
+     "surface": "devatāyāḥ",
+     "gloss": "of-deity",
+     "grounds": "genitive indicating the deity receiving the rite",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "object of the ritual action",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pañcopacārikām",
+     "gloss": "with-five-offerings",
+     "grounds": "compound specifying worship with five ritual offerings",
+     "morph": "f.acc.sg, compound pañca+modifier upacāra+modifier ika+head"
+    }
+   ],
+   "question": "What form of worship is prescribed after performing mantra-bathing for the deity?",
+   "premises": [
+    "Mantra-bathing of the deity is performed.",
+    "Worship is to be carried out afterward.",
+    "The worship consists of five offerings."
+   ],
+   "inference": "After mantra-bathing, the deity should be worshipped with five offerings.",
+   "uncertainties": [],
+   "plain_english": "After performing mantra-bathing for the deity, one should perform worship with five offerings."
+  },
+  {
+   "verse": 1977,
+   "rows": [
+    {
+     "surface": "japeccāṣṭottaraṃ",
+     "gloss": "should-chant-and-eight-more",
+     "grounds": "fused form combining chanting injunction and the number eight-more",
+     "morph": "3.sg.optative-active √jap + (indecl.) + n.acc.sg, compound aṣṭa+modifier uttara+head"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral completing the count of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many recitations must be chanted in this prescribed ritual sequence?",
+   "premises": [
+    "Chanting is enjoined as a ritual act.",
+    "The count specified is a hundred and eight.",
+    "The recitation follows the prior worship."
+   ],
+   "inference": "One should chant one hundred and eight recitations.",
+   "uncertainties": [],
+   "plain_english": "One should chant one hundred and eight times."
+  },
+  {
+   "verse": 1978,
+   "rows": [
+    {
+     "surface": "samprārthayeddevaṃ",
+     "gloss": "should-pray-to-deity",
+     "grounds": "fused form combining prayer injunction and its object",
+     "morph": "3.sg.optative-active √prārth + m.acc.sg"
+    },
+    {
+     "surface": "sāyaṃ",
+     "gloss": "evening",
+     "grounds": "indicates the time for the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyāṃ",
+     "gloss": "twilight-rite",
+     "grounds": "names the ritual performed at twilight",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "injunction to carry out the rite",
+     "morph": "3.sg.optative-active √car"
+    }
+   ],
+   "question": "What evening ritual actions must be performed after the prescribed recitation?",
+   "premises": [
+    "Prayer to the deity is enjoined.",
+    "The time specified is evening.",
+    "The twilight rite must be performed."
+   ],
+   "inference": "In the evening one should pray to the deity and perform the twilight rite.",
+   "uncertainties": [],
+   "plain_english": "In the evening one should pray to the deity and perform the twilight rite."
+  },
+  {
+   "verse": 1979,
+   "rows": [
+    {
+     "surface": "athāparāhnikaṃ",
+     "gloss": "then-afternoon-rite",
+     "grounds": "fused form introducing the next topic, the afternoon rite",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-declare",
+     "grounds": "speaker announces the forthcoming teaching",
+     "morph": "1.sg.future-middle √vac"
+    },
+    {
+     "surface": "tatsthānadaśake",
+     "gloss": "in-that-place-group-of-ten",
+     "grounds": "compound indicating a set of ten places for that rite",
+     "morph": "n.loc.sg, compound tat+modifier sthāna+modifier daśaka+head"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "expresses possibility or occurrence in those places",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What topic concerning the afternoon rite will be explained next in the sequence?",
+   "premises": [
+    "The speaker announces a new topic.",
+    "The topic is the afternoon rite.",
+    "It may occur in a set of ten places."
+   ],
+   "inference": "The speaker will now declare the afternoon rite as it may occur in that set of ten places.",
+   "uncertainties": [
+    "The exact referent of the ten places is not specified in this verse."
+   ],
+   "plain_english": "Now I will declare the afternoon rite, which may take place in that set of ten places."
+  },
+  {
+   "verse": 1980,
+   "rows": [
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative indicating a situation or location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarpavyāghrādije",
+     "gloss": "born-from-snake-tiger-etc",
+     "grounds": "compound describing fear arising from snakes, tigers, and similar dangers",
+     "morph": "n.loc.sg, compound sarpa+modifier vyāghra+modifier ādi+modifier ja+head"
+    },
+    {
+     "surface": "bhaye",
+     "gloss": "in-fear",
+     "grounds": "locative naming the condition of fear",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Under what dangerous circumstances must the following ritual adjustment be applied?",
+   "premises": [
+    "A place or situation is being considered.",
+    "Fear arises from snakes, tigers, and similar threats.",
+    "This condition calls for a specific response."
+   ],
+   "inference": "The following instruction applies in a situation of fear caused by snakes, tigers, and the like.",
+   "uncertainties": [],
+   "plain_english": "This applies in a place where there is fear arising from snakes, tigers, and similar dangers."
+  },
+  {
+   "verse": 1981,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers back to the dangerous situation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānādikaṃ",
+     "gloss": "bathing-and-so-forth",
+     "grounds": "compound indicating bathing and related acts",
+     "morph": "n.acc.sg, compound snāna+modifier ādi+modifier ka+head"
+    },
+    {
+     "surface": "cintyaṃ",
+     "gloss": "to-be-conceived",
+     "grounds": "prescribes mental performance of the acts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating completion of the mental act",
+     "morph": "(indecl.), absolutive √kṛ"
+    },
+    {
+     "surface": "mānasapūjanam",
+     "gloss": "mental-worship",
+     "grounds": "compound naming worship performed in the mind",
+     "morph": "n.acc.sg, compound mānasa+modifier pūjana+head"
+    }
+   ],
+   "question": "How should bathing and worship be performed when physical danger is present?",
+   "premises": [
+    "The context is a place of danger.",
+    "Bathing and related acts are required.",
+    "These acts are to be conceived mentally."
+   ],
+   "inference": "In such danger, one should mentally perform bathing and the rest, and then perform mental worship.",
+   "uncertainties": [],
+   "plain_english": "There, one should mentally perform bathing and the other rites, and then carry out mental worship."
+  },
+  {
+   "verse": 1982,
+   "rows": [
+    {
+     "surface": "pṛthivīmadhye",
+     "gloss": "in-middle-of-earth",
+     "grounds": "compound indicating a location on the earth",
+     "morph": "n.loc.sg, compound pṛthivī+modifier madhya+head"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "names the ritual act to be performed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-deity",
+     "grounds": "genitive indicating the object of worship",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cācaret",
+     "gloss": "and-should-perform",
+     "grounds": "fused form enjoining performance of the worship",
+     "morph": "(indecl.) + 3.sg.optative-active √car"
+    }
+   ],
+   "question": "Where should the worship of the deity be performed according to this instruction?",
+   "premises": [
+    "Worship of the deity is prescribed.",
+    "A specific location is indicated.",
+    "The location is the middle of the earth."
+   ],
+   "inference": "One should perform the worship of the deity in the middle of the earth.",
+   "uncertainties": [
+    "The phrase 'middle of the earth' may have a specific ritual or symbolic sense."
+   ],
+   "plain_english": "One should perform the worship of the deity in the middle of the earth."
+  },
+  {
+   "verse": 1983,
+   "rows": [
+    {
+     "surface": "kartavyā",
+     "gloss": "should-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvāśāpratipattaye",
+     "gloss": "for-attainment-of-all-desires",
+     "grounds": "compound stating the purpose of the prescribed act",
+     "morph": "f.dat.sg, compound sarva+modifier āśā+modifier pratipatti+head"
+    }
+   ],
+   "question": "For what purpose must this worship be carried out by the practitioner?",
+   "premises": [
+    "The worship is obligatory.",
+    "A purpose for the worship is stated.",
+    "The purpose is attainment of all desires."
+   ],
+   "inference": "This worship should be done for the attainment of all desires.",
+   "uncertainties": [],
+   "plain_english": "It should be performed for the attainment of all desires."
+  },
+  {
+   "verse": 1984,
+   "rows": [
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-declare",
+     "grounds": "speaker announces a new teaching",
+     "morph": "1.sg.future-middle √vac"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "indicates regularity of the rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svāsthyādhikasya",
+     "gloss": "of-one-abundant-in-health",
+     "grounds": "compound identifying the qualified practitioner",
+     "morph": "m.gen.sg, compound svāsthya+modifier adhika+head"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the rite to be declared",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "For which kind of practitioner will the daily rite now be declared?",
+   "premises": [
+    "The speaker will declare a rite.",
+    "The rite is daily.",
+    "It concerns one who is abundant in health."
+   ],
+   "inference": "The speaker will declare that daily rite for one who is in good health.",
+   "uncertainties": [],
+   "plain_english": "Now I will declare that daily rite for one who is in good health."
+  },
+  {
+   "verse": 1985,
+   "rows": [
+    {
+     "surface": "kartavyā",
+     "gloss": "should-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative indicating a ritual ground or altar",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pratimāsu",
+     "gloss": "in-images",
+     "grounds": "locative indicating images as supports",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects alternative supports for worship",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On what supports should the daily worship be performed by the healthy practitioner?",
+   "premises": [
+    "The daily worship is obligatory.",
+    "An altar is a possible support.",
+    "Images are also possible supports."
+   ],
+   "inference": "The daily worship should be performed on an altar and in images.",
+   "uncertainties": [],
+   "plain_english": "It should be performed on an altar and in images."
+  },
+  {
+   "verse": 1986,
+   "rows": [
+    {
+     "surface": "ravimaṇḍalamālokya",
+     "gloss": "having-beheld-sun-disk",
+     "grounds": "compound absolutive indicating visual contemplation of the sun's disk",
+     "morph": "(indecl.), absolutive √lok, compound ravi+modifier maṇḍala+head"
+    },
+    {
+     "surface": "pratimāmathavā",
+     "gloss": "or-image",
+     "grounds": "fused form offering an alternative object of contemplation",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates an alternative or repeated option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What objects may be contemplated as supports for completing the prescribed duty?",
+   "premises": [
+    "Contemplation of an object is prescribed.",
+    "The sun's disk may be beheld.",
+    "An image may alternatively be used."
+   ],
+   "inference": "One may behold the sun's disk or, alternatively, an image.",
+   "uncertainties": [],
+   "plain_english": "Having beheld the sun's disk, or alternatively an image again,"
+  },
+  {
+   "verse": 1987,
+   "rows": [
+    {
+     "surface": "svakartavyaṃ",
+     "gloss": "own-duty",
+     "grounds": "compound denoting one's prescribed duty",
+     "morph": "n.acc.sg, compound sva+modifier kartavya+head"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "should-complete",
+     "grounds": "injunction to bring the duty to completion",
+     "morph": "3.sg.optative-causative-active √āp"
+    }
+   ],
+   "question": "What must the practitioner do after contemplating the chosen ritual support?",
+   "premises": [
+    "A ritual support has been contemplated.",
+    "One has a prescribed duty.",
+    "Completion of that duty is enjoined."
+   ],
+   "inference": "One should complete one's own prescribed duty.",
+   "uncertainties": [],
+   "plain_english": "one should complete one's own prescribed duty."
+  },
+  {
+   "verse": 1988,
+   "rows": [
+    {
+     "surface": "gurūnviprāṃstadagre",
+     "gloss": "teachers-brahmins-before-them",
+     "grounds": "fused compound listing teachers and brahmins present before one",
+     "morph": "m.acc.pl + m.acc.pl + (indecl.), compound guru+modifier vipra+modifier tad+modifier agra+head"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the persons addressed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vākyametadudīrayet",
+     "gloss": "should-utter-this-statement",
+     "grounds": "fused form enjoining the utterance of a specific statement",
+     "morph": "n.acc.sg + n.acc.sg + 3.sg.optative-active √ud-īr"
+    }
+   ],
+   "question": "Before whom must the practitioner utter the prescribed statement during the rite?",
+   "premises": [
+    "A statement is to be uttered.",
+    "Teachers and brahmins are present.",
+    "They are addressed before the practitioner."
+   ],
+   "inference": "One should utter this statement before the teachers and brahmins.",
+   "uncertainties": [
+    "The content of the statement is not given in this verse."
+   ],
+   "plain_english": "And before the teachers and brahmins, one should utter this statement."
+  },
+  {
+   "verse": 1989,
+   "rows": [
+    {
+     "surface": "samprārthya",
+     "gloss": "having-prayed",
+     "grounds": "absolutive indicating a prior act of prayer",
+     "morph": "(indecl.), absolutive √prārth"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates resumption or repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavadācaret",
+     "gloss": "should-act-as-before",
+     "grounds": "fused form instructing performance according to the previous manner",
+     "morph": "(indecl.) + 3.sg.optative-active √car"
+    }
+   ],
+   "question": "How should the practitioner proceed after offering the prescribed prayer?",
+   "premises": [
+    "Prayer has been offered.",
+    "A prior manner of conduct exists.",
+    "The practitioner is to resume that manner."
+   ],
+   "inference": "After praying, one should again act as before.",
+   "uncertainties": [],
+   "plain_english": "Having prayed, one should again proceed as before."
+  },
+  {
+   "verse": 1990,
+   "rows": [
+    {
+     "surface": "dhyānena",
+     "gloss": "by-meditation",
+     "grounds": "instrumental indicating meditation as a means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "homena",
+     "gloss": "by-offering",
+     "grounds": "instrumental indicating fire offering as a means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dānatopi",
+     "gloss": "and-also-by-gift",
+     "grounds": "fused form adding gift as another means",
+     "morph": "n.ins.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternatives among the means",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what alternative means may the ritual acts be accomplished in this context?",
+   "premises": [
+    "Meditation is presented as a means.",
+    "Fire offering is presented as a means.",
+    "Gift is also presented as a means."
+   ],
+   "inference": "The acts may be accomplished by meditation, by offering, or also by gift.",
+   "uncertainties": [],
+   "plain_english": "By meditation, by fire offering, or also by giving gifts,"
+  },
+  {
+   "verse": 1991,
+   "rows": [
+    {
+     "surface": "tāntrikapūjādi",
+     "gloss": "tantric-worship-and-so-forth",
+     "grounds": "compound referring to tantric worship and related rites",
+     "morph": "n.acc.sg, compound tāntrika+modifier pūjā+modifier ādi+head"
+    },
+    {
+     "surface": "manasaiva",
+     "gloss": "by-mind-alone",
+     "grounds": "fused form emphasizing mental performance only",
+     "morph": "n.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "injunction to carry out the rites",
+     "morph": "3.sg.optative-active √car"
+    }
+   ],
+   "question": "How may tantric worship and related rites be performed as an alternative method?",
+   "premises": [
+    "Tantric worship and related rites are under consideration.",
+    "Performance by mind alone is specified.",
+    "Such performance is enjoined."
+   ],
+   "inference": "One should perform tantric worship and the rest by mind alone.",
+   "uncertainties": [],
+   "plain_english": "one should perform tantric worship and the rest by mind alone."
+  },
+  {
+   "verse": 1992,
+   "rows": [
+    {
+     "surface": "vāmācāre",
+     "gloss": "in-left-practice",
+     "grounds": "compound naming the left-hand ritual practice",
+     "morph": "m.loc.sg, compound vāma+modifier ācāra+head"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the applicability of impurity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtakam",
+     "gloss": "birth-impurity",
+     "grounds": "names the ritual impurity being negated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does birth impurity apply within the context of left-hand ritual practice?",
+   "premises": [
+    "The context is left-hand practice.",
+    "Birth impurity is considered.",
+    "The text negates its applicability."
+   ],
+   "inference": "In left-hand practice, birth impurity does not apply.",
+   "uncertainties": [],
+   "plain_english": "In left-hand practice, there is no birth impurity."
+  },
+  {
+   "verse": 1993,
+   "rows": [
+    {
+     "surface": "devatattvaṃ",
+     "gloss": "deity-principle",
+     "grounds": "compound denoting the true nature of the deity",
+     "morph": "n.acc.sg, compound deva+modifier tattva+head"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negates knowledge of the deity principle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "verb expressing cognitive grasp",
+     "morph": "3.sg.present-active √vid"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the person lacking knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a contrastive characterization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyakaḥ",
+     "gloss": "secret-one",
+     "grounds": "characterizes the person as hidden or secretive in a negative sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What characterizes a person who does not know the true principle of the deity?",
+   "premises": [
+    "Knowledge of the deity principle is at stake.",
+    "A person does not know it.",
+    "Such a person is characterized as a secret one."
+   ],
+   "inference": "One who does not know the deity principle is merely a secretive person.",
+   "uncertainties": [
+    "The term guhyakaḥ may carry a specific technical or pejorative nuance."
+   ],
+   "plain_english": "But he who does not know the principle of the deity is merely a secretive one."
+  },
+  {
+   "verse": 1994,
+   "rows": [
+    {
+     "surface": "kṣuttṛḍbhyāmarditaḥ",
+     "gloss": "tormented-by-hunger-thirst",
+     "grounds": "compound describing affliction by hunger and thirst",
+     "morph": "m.nom.sg, compound kṣudh+modifier tṛṣ+modifier ardita+head"
+    },
+    {
+     "surface": "pretastasmāddharmaṃ",
+     "gloss": "ghost-therefore-duty",
+     "grounds": "fused form identifying such a person as a ghost and drawing a conclusion about duty",
+     "morph": "m.nom.sg + (indecl.) + m.acc.sg"
+    },
+    {
+     "surface": "vicārayet",
+     "gloss": "should-consider",
+     "grounds": "injunction to reflect on duty",
+     "morph": "3.sg.optative-active √vicār"
+    }
+   ],
+   "question": "Why must one afflicted by hunger and thirst carefully consider proper duty?",
+   "premises": [
+    "A person is tormented by hunger and thirst.",
+    "Such a person is likened to a ghost.",
+    "Therefore duty must be considered."
+   ],
+   "inference": "One tormented by hunger and thirst is like a ghost and should therefore consider duty.",
+   "uncertainties": [],
+   "plain_english": "One tormented by hunger and thirst is like a ghost; therefore one should consider proper duty."
+  },
+  {
+   "verse": 1995,
+   "rows": [
+    {
+     "surface": "sampūjayeddevaṃ",
+     "gloss": "should-worship-deity",
+     "grounds": "fused form enjoining worship of the deity",
+     "morph": "3.sg.optative-active √pūj + m.acc.sg"
+    },
+    {
+     "surface": "bhāvanākusumādibhiḥ",
+     "gloss": "with-flowers-of-contemplation-etc",
+     "grounds": "compound indicating mental flowers and similar offerings",
+     "morph": "n.ins.pl, compound bhāvanā+modifier kusuma+modifier ādi+head"
+    }
+   ],
+   "question": "With what kind of offerings should the deity be worshipped in this mental mode?",
+   "premises": [
+    "Worship of the deity is enjoined.",
+    "The offerings are flowers of contemplation and the like.",
+    "These offerings are mental in nature."
+   ],
+   "inference": "One should worship the deity with flowers of contemplation and similar mental offerings.",
+   "uncertainties": [],
+   "plain_english": "One should worship the deity with flowers of contemplation and similar offerings."
+  },
+  {
+   "verse": 1996,
+   "rows": [
+    {
+     "surface": "jaḍānāmāhnikaṃ",
+     "gloss": "daily-rite-of-dull-ones",
+     "grounds": "fused compound naming the daily rite for the dull or unskilled",
+     "morph": "m.gen.pl + n.acc.sg, compound jaḍa+head āhnika+head"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-declare",
+     "grounds": "speaker announces a new teaching",
+     "morph": "1.sg.future-middle √vac"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indicates manner or inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepakarmaṇi",
+     "gloss": "in-brief-action",
+     "grounds": "compound indicating a condensed ritual procedure",
+     "morph": "n.loc.sg, compound saṃkṣepa+modifier karman+head"
+    }
+   ],
+   "question": "For whom and in what form will the daily rite now be declared?",
+   "premises": [
+    "A daily rite is to be declared.",
+    "It is intended for the dull or unskilled.",
+    "It is presented in a brief form."
+   ],
+   "inference": "The speaker will declare the daily rite for the dull in a brief form.",
+   "uncertainties": [],
+   "plain_english": "Now I will declare the daily rite for the dull, in a brief form of practice."
+  },
+  {
+   "verse": 1997,
+   "rows": [
+    {
+     "surface": "mūlamūrtiṣaḍaṅgāni",
+     "gloss": "root-form-six-limbs",
+     "grounds": "compound listing the root form and six limbs as objects of worship",
+     "morph": "n.acc.pl, compound mūla+modifier mūrti+modifier ṣaḍ+modifier aṅga+head"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the group for whom this worship is prescribed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pūjābhidhīyate",
+     "gloss": "worship-is-prescribed",
+     "grounds": "states that worship is designated or taught",
+     "morph": "3.sg.present-passive √dhā"
+    }
+   ],
+   "question": "What elements constitute the prescribed worship for those practitioners in the brief rite?",
+   "premises": [
+    "A form of worship is prescribed for them.",
+    "The root form is included.",
+    "The six limbs are included."
+   ],
+   "inference": "Their worship is prescribed as that of the root form and the six limbs.",
+   "uncertainties": [],
+   "plain_english": "For them, worship is prescribed as that of the root form and the six limbs."
+  },
+  {
+   "verse": 1998,
+   "rows": [
+    {
+     "surface": "nirmalenodakenaiva",
+     "gloss": "with-pure-water-alone",
+     "grounds": "fused form emphasizing pure water as the sole offering material",
+     "morph": "n.ins.sg + n.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "pūjayetsthiramānasaḥ",
+     "gloss": "should-worship-with-steady-mind",
+     "grounds": "fused form enjoining worship by one whose mind is steady",
+     "morph": "3.sg.optative-active √pūj + m.nom.sg, compound sthira+modifier mānasa+head"
+    }
+   ],
+   "question": "With what material and mental state should the simplified worship be performed?",
+   "premises": [
+    "Worship is to be performed.",
+    "Pure water alone is specified as the material.",
+    "The worshipper should have a steady mind."
+   ],
+   "inference": "One with a steady mind should worship with pure water alone.",
+   "uncertainties": [],
+   "plain_english": "With a steady mind, one should worship with pure water alone."
+  },
+  {
+   "verse": 1999,
+   "rows": [
+    {
+     "surface": "adhikārinimittābhyāṃ",
+     "gloss": "by-eligibility-and-cause",
+     "grounds": "dual compound indicating qualification and occasion as differentiating factors",
+     "morph": "n.ins.dual, compound adhikārin+modifier nimitta+head"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "is-divided",
+     "grounds": "states differentiation of the practice",
+     "morph": "3.sg.present-passive √bhid"
+    },
+    {
+     "surface": "śatadhā",
+     "gloss": "hundredfold",
+     "grounds": "indicates manifold division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "emphasizes further or repeated division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to what factors is the ritual practice further divided into many forms?",
+   "premises": [
+    "The practice undergoes division.",
+    "Eligibility and occasion are the differentiating factors.",
+    "The division is manifold."
+   ],
+   "inference": "The practice is again divided hundredfold according to eligibility and occasion.",
+   "uncertainties": [],
+   "plain_english": "Again, it is divided a hundredfold according to the practitioner's eligibility and the occasion."
+  }
+ ]
+}

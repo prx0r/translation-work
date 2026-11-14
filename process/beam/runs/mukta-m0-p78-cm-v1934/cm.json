@@ -3,9 +3,14 @@
  "verse": 1934,
  "rows": [
   {
-   "lemma": "caturdaśasahasrāt",
-   "morph": "compound: caturdaśa+sahasra (n.abl.sg)",
-   "grounds": "compound indicating upper numerical limit"
+   "lemma": "aṣṭottara",
+   "morph": "compound-member",
+   "grounds": "first member of compound specifying count"
+  },
+  {
+   "lemma": "sahasram",
+   "morph": "n.acc.sg",
+   "grounds": "specifies a large number of repetitions"
   },
   {
    "lemma": "tu",
@@ -13,9 +18,29 @@
    "grounds": "emphatic particle"
   },
   {
-   "lemma": "ṣaṭsahasradvijāntakam",
-   "morph": "compound: ṣaṭ+sahasra+dvija+antaka (n.acc.sg)",
-   "grounds": "compound indicating lower limit in brahmins"
+   "lemma": "nava",
+   "morph": "n.acc.sg",
+   "grounds": "alternative count option"
+  },
+  {
+   "lemma": "dve",
+   "morph": "n.acc.dual",
+   "grounds": "alternative count option"
+  },
+  {
+   "lemma": "triśatam",
+   "morph": "n.acc.sg",
+   "grounds": "alternative count option"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle in alternative"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "marks alternative options"
   }
  ]
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p80",
  "verse": 2000,
- "question": "What alternative heights are prescribed relative to the previously specified measure?",
+ "question": "Which grade of worship is accomplished with whatever materials are available?",
  "premises": [
-  "A height is being prescribed in relation to a previously stated measure.",
-  "One prescribed option is half of that measure.",
-  "Other prescribed options are three-quarters of that measure or equal to it."
+  "Worship can be performed using materials as they are obtained.",
+  "The materials employed determine a grade of worship.",
+  "This verse assigns a specific grade to such worship."
  ],
- "inference": "The prescribed height may be half, three-quarters, or equal to the previously specified measure.",
- "uncertainties": [
-  "The exact referent of the prior measure depends on the preceding verses."
- ],
- "plain_english": "The height should be half of that, or three-quarters, or else equal to it."
+ "inference": "Worship performed with materials obtained as available is classified as the middle grade.",
+ "uncertainties": [],
+ "plain_english": "But worship that is performed with whatever materials are available is the middle grade."
 }

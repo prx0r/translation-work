@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p78",
  "verse": 1935,
- "question": "What numerical range follows in the descending order of settlements?",
+ "question": "What action of recitation must be performed again after taking this object or text?",
  "premises": [
-  "The next range starts from five thousand.",
-  "It ends at one thousand in due order."
+  "The practitioner takes this.",
+  "Recitation is prescribed.",
+  "The recitation is to be done again."
  ],
- "inference": "The subsequent class ranges from five thousand down to one thousand.",
- "uncertainties": [],
- "plain_english": "Then, in due order, from five thousand down to one thousand."
+ "inference": "Having taken this, the practitioner should recite it again.",
+ "uncertainties": [
+  "The referent of idam is not explicitly specified in this verse."
+ ],
+ "plain_english": "Having taken this, one should recite it again."
 }
