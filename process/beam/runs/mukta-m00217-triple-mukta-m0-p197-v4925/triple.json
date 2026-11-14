@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p197",
+ "items": [
+  {
+   "verse": 4925,
+   "rows": [
+    {
+     "surface": "vaśyapratītijanikāḥ",
+     "gloss": "producing-subjugated-cognition",
+     "grounds": "bahuvrīhi/compound adjective qualifying śaktayaḥ; vaśya (subdued) + pratīti (cognition) + janikāḥ (producing)",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktayaśca",
+     "gloss": "and-powers",
+     "grounds": "śaktayaḥ (powers) + ca (and); sandhi fused in token",
+     "morph": "f.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "instrumental used adverbially to indicate order",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to śaktayaḥ, linking to preceding description",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which powers, arising in sequence, produce the cognition of subjugation?",
+   "premises": [
+    "The two instruments are characterized as consisting of attachment and aversion.",
+    "Certain powers arise in sequence from these instruments.",
+    "These powers produce the cognition of subjugation."
+   ],
+   "inference": "The sequential powers associated with attachment and aversion generate the experience of subjugation.",
+   "uncertainties": [
+    "The exact number and specific identities of the sequential powers are not stated in this verse alone."
+   ],
+   "plain_english": "And which powers, arising in sequence, produce the cognition of being brought under control."
+  }
+ ]
+}

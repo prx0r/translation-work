@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4611,
- "question": "What width is prescribed relative to the diameter measure of the liṅga?",
+ "question": "In what proportion should the fire offering and satisfaction rites be performed?",
  "premises": [
-  "The liṅga diameter provides the measure",
-  "The width is being specified",
-  "A threefold proportion is allowed"
+  "A fire offering is prescribed",
+  "A satisfaction rite is prescribed",
+  "Both are measured by a tenth part"
  ],
- "inference": "The width may be three times the liṅga diameter measure.",
- "uncertainties": [],
- "plain_english": "Or the width may be three times the measure of the liṅga’s diameter."
+ "inference": "One should offer oblations and perform satisfaction with a tenth part of the prior amount",
+ "uncertainties": [
+  "The base quantity of which a tenth is taken is not stated in this verse"
+ ],
+ "plain_english": "One should perform the fire offering with a tenth part of that, and should perform the satisfaction rite with a tenth part of that."
 }

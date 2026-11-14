@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p196",
+ "items": [
+  {
+   "verse": 4900,
+   "rows": [
+    {
+     "surface": "ādyantago",
+     "gloss": "beginning-end-reaching",
+     "grounds": "compound of ādi, anta, and ga; describes the extent of the noose",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "mahāpāśaḥ",
+     "gloss": "great-noose",
+     "grounds": "compound of mahā and pāśa; subject of the declaration",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "poruṣeyaḥ",
+     "gloss": "human-derived",
+     "grounds": "adjective qualifying mahāpāśaḥ as of human origin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what is proclaimed",
+     "morph": "m.nom.sg.ppp"
+    }
+   ],
+   "question": "What extent and origin are attributed to the great noose in this Śākta array?",
+   "premises": [
+    "The great noose is described as reaching beginning and end.",
+    "The great noose is characterized as human-derived.",
+    "This characterization is explicitly declared."
+   ],
+   "inference": "The great noose spanning beginning and end is proclaimed to be of human origin.",
+   "uncertainties": [
+    "The precise referent of beginning and end in this ritual context is not specified in this verse."
+   ],
+   "plain_english": "The great noose, reaching from beginning to end, is declared to be of human origin."
+  }
+ ]
+}

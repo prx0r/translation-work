@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p19",
  "verse": 456,
- "question": "How many times should the deity's six-syllable mantra be recited at minimum?",
+ "question": "Which sacred objects does the contemplated goddess bear in her hands?",
  "premises": [
-  "The mantra to be recited is the six-syllable one.",
-  "The recitation count is specified.",
-  "The count should not be less than one hundred and eight."
+  "The goddess bears specific objects.",
+  "The objects include knowledge, lute, nectar-pot, and rosary."
  ],
- "inference": "One should recite the six-syllable mantra no fewer than one hundred and eight times.",
- "uncertainties": [],
- "plain_english": "One should recite my six-syllable mantra no fewer than one hundred and eight times."
+ "inference": "The goddess is contemplated as bearing knowledge, a lute, a nectar-pot, and a rosary.",
+ "uncertainties": [
+  "vidyāṃ may refer to a book of knowledge rather than abstract knowledge."
+ ],
+ "plain_english": "She bears a book of knowledge, a lute, a pot of nectar, and a rosary."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p194",
  "verse": 4827,
- "question": "Which emblem should be painted on the banner during the festival, a lion or a bull?",
+ "question": "Which substances must be combined to prepare the diagram's writing medium?",
  "premises": [
-  "The context is a festival banner.",
-  "A lion is presented as one possible emblem.",
-  "A bull is presented as an alternative emblem."
+  "Arka milk is required as an ingredient.",
+  "Saffron is required as an ingredient.",
+  "Datura juice is likewise required."
  ],
- "inference": "The banner may bear either a lion or a bull as its emblem.",
- "uncertainties": [],
- "plain_english": "In the festival, should one paint a lion or a bull on the banner?"
+ "inference": "The writing medium for the diagram is prepared by combining arka milk, saffron, and datura juice.",
+ "uncertainties": [
+  "arkakṣīraṃ may refer to the milky sap of the arka plant"
+ ],
+ "plain_english": "Take arka milk, saffron, and likewise the juice of datura."
 }

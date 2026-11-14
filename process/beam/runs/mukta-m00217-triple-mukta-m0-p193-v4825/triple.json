@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p193",
+ "items": [
+  {
+   "verse": 4825,
+   "rows": [
+    {
+     "surface": "svanāmasahitaṃ",
+     "gloss": "with-own-name",
+     "grounds": "compound adjective describing what is deposited; sva (own) + nāma (name) + sahita (accompanied)",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yadi-bhūmau",
+     "gloss": "if-on-ground",
+     "grounds": "conditional particle with locative noun indicating the place of deposition",
+     "morph": "indecl.+f.loc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "should-deposit",
+     "grounds": "causative verb prescribing the act of placing",
+     "morph": "3.sg.opt.act-caus~ni-√dhā"
+    }
+   ],
+   "question": "What ritual placement is prescribed when depositing on the ground with one's own name?",
+   "premises": [
+    "The prescribed act is depositing or placing.",
+    "The stated condition is placement on the ground.",
+    "The item to be deposited is accompanied by one's own name."
+   ],
+   "inference": "When placing on the ground, one should deposit the item together with one's own name.",
+   "uncertainties": [
+    "The exact object to be deposited is not specified in this verse and depends on the preceding context."
+   ],
+   "plain_english": "O goddess, if it is to be placed on the ground, one should deposit it accompanied by one's own name."
+  }
+ ]
+}

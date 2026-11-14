@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p192",
  "verse": 4777,
- "question": "What attire is prescribed for the officiant at this stage?",
+ "question": "Under what ritual condition is the wheel worshipped by the practitioner?",
  "premises": [
-  "new cloth is worn",
-  "upper garment is included",
-  "ornamentation is present"
+  "A practitioner performs worship.",
+  "The worship follows a specific method.",
+  "The worship occurs in a particular context."
  ],
- "inference": "the officiant wears new cloth, upper garment, and adornment",
- "uncertainties": [
-  "exact garment details not specified"
- ],
- "plain_english": "The officiant is clad in new cloth, an upper garment, and adornment."
+ "inference": "Therefore, the wheel is worshipped by the practitioner according to this prescribed method.",
+ "uncertainties": [],
+ "plain_english": "Where it is worshipped by the practitioner according to this method."
 }

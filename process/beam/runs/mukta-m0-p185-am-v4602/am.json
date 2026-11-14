@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p185",
  "verse": 4602,
- "question": "What alternative sets of proportional parts are prescribed for the division?",
+ "question": "Can ritual practice yield success or failure regardless of auxiliary components?",
  "premises": [
-  "One set of parts is seven-seven-eight",
-  "Another set of parts is five-five-six",
-  "Both sets function as divisions"
+  "Practice may be without auxiliary parts",
+  "Practice may be with auxiliary parts",
+  "Either form may be fruitful or fruitless"
  ],
- "inference": "The division may be made either as seven-seven-eight parts or as five-five-six parts.",
- "uncertainties": [],
- "plain_english": "The parts are seven, seven, and eight, or alternatively five, five, and six."
+ "inference": "The presence or absence of auxiliary parts does not by itself determine the outcome",
+ "uncertainties": [
+  "The conditions determining fruitfulness are not stated here"
+ ],
+ "plain_english": "Whether done without or with its auxiliary parts, the practice may be fruitless or fruitful."
 }
