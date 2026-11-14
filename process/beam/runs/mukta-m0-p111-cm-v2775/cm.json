@@ -3,29 +3,34 @@
  "verse": 2775,
  "rows": [
   {
-   "lemma": "pratyabdaṃ",
+   "lemma": "āyāmaṃ",
+   "morph": "acc.sg.m",
+   "grounds": "token 1; legacy hint length"
+  },
+  {
+   "lemma": "caturaśraṃ",
+   "morph": "acc.sg.n",
+   "grounds": "token 2; legacy hint square"
+  },
+  {
+   "lemma": "syāc",
+   "morph": "3.sg.act-opt + as",
+   "grounds": "token 3; legacy hint may-be"
+  },
+  {
+   "lemma": "śālānāṃ",
+   "morph": "gen.pl.f",
+   "grounds": "token 4; legacy hint of-halls"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb of time; annual recurrence"
+   "grounds": "token 5; legacy hint especially"
   },
   {
-   "lemma": "vā",
+   "lemma": "viśeṣataḥ",
    "morph": "(indecl.)",
-   "grounds": "disjunctive particle"
-  },
-  {
-   "lemma": "gṛhe",
-   "morph": "n.loc.sg",
-   "grounds": "locative of gṛha"
-  },
-  {
-   "lemma": "mantrī",
-   "morph": "m.nom.sg",
-   "grounds": "agent noun in nominative"
-  },
-  {
-   "lemma": "jīvedādyāmahodayaḥ",
-   "morph": "v.3.sg.act-opt + indecl.",
-   "grounds": "fused sandhi form kept whole; internal parts not split"
+   "grounds": "token 6; legacy hint specifically"
   }
  ]
 }

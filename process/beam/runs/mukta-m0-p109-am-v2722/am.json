@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2722,
- "question": "Where in the heart of Durvāsas is the Goddess worshipped and dwelling?",
+ "question": "How wide should the four-division be with seven walls?",
  "premises": [
-  "The Goddess is worshipped in the heart of Durvāsas.",
-  "The Goddess dwells in the heart-lotus of Durvāsas."
+  "four-division is wide",
+  "seven-wall option is allowed"
  ],
- "inference": "The Goddess is the object of worship and the indwelling presence in Durvāsas's heart-lotus.",
- "uncertainties": [],
- "plain_english": "She is worshipped in the heart of Durvāsas and dwells in the heart-lotus of Durvāsas."
+ "inference": "the four-division may be wide with seven walls or otherwise",
+ "uncertainties": [
+  "exact width not stated"
+ ],
+ "plain_english": "The four-division is wide, or with seven walls, or otherwise."
 }

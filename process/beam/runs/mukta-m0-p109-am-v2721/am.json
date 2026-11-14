@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2721,
- "question": "How does the Goddess dwell within and adorn the sage Durvāsas?",
+ "question": "How should the elephant stable be made?",
  "premises": [
-  "The Goddess abides in the mind of the sage Durvāsas.",
-  "The Goddess is adorned by the sage Durvāsas."
+  "elephant stable should be made",
+  "wall measure governs it"
  ],
- "inference": "The Goddess is present within Durvāsas's mind and is outwardly honored by him.",
- "uncertainties": [],
- "plain_english": "She abides in the mind of the sage Durvāsas and is adorned by the sage Durvāsas."
+ "inference": "the elephant stable should be made by wall measure by the wise",
+ "uncertainties": [
+  "exact wall measure not stated"
+ ],
+ "plain_english": "The elephant stable should indeed be made by wall measure by the wise."
 }

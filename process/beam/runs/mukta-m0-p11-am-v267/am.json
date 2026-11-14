@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 267,
- "question": "How is an enemy killed by the rite?",
+ "question": "Which mantra syllables occupy the positions in this grid?",
  "premises": [
-  "One faces south",
-  "One burns him in fire",
-  "Death follows instantly"
+  "The verse lists syllables.",
+  "The positions are ordered.",
+  "The grid is being filled."
  ],
- "inference": "Facing south, burning him in fire kills him instantly.",
+ "inference": "The listed syllables fix the grid positions.",
  "uncertainties": [
-  "Exact enemy identification"
+  "Exact sandhi and meaning remain unclear."
  ],
- "plain_english": "Facing south, having burned him in fire, one should kill him instantly."
+ "plain_english": "This verse lists mantra syllables for the grid."
 }

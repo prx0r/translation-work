@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 265,
- "question": "Which placements are specified for the triangle-both-going goddess?",
+ "question": "Which mantra syllables occupy the positions in this grid?",
  "premises": [
-  "Triangle-both-going is named",
-  "Six-corner-going is included there",
-  "Middle-going is included",
-  "Intermediate-corner-going is excluded"
+  "The verse lists syllables.",
+  "The positions are ordered.",
+  "The grid is being filled."
  ],
- "inference": "The goddess is placed six-corner-going or middle-going, not intermediate-corner-going.",
+ "inference": "The listed syllables fix the grid positions.",
  "uncertainties": [
-  "Exact diagram layout"
+  "Exact sandhi and meaning remain unclear."
  ],
- "plain_english": "Triangle-both-going thus: six-corner-going there also, middle-going, not intermediate-corner-going."
+ "plain_english": "This verse lists mantra syllables for the grid."
 }

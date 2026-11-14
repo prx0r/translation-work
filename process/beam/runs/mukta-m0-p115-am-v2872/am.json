@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p115",
  "verse": 2872,
- "question": "By what procedure should wise men divide wealth among heirs?",
+ "question": "What is made on the sides by veda part only?",
  "premises": [
-  "A specific method has been indicated",
-  "Wise men are the agents of division",
-  "Wealth must be divided in proper order"
+  "sides pavilion is named",
+  "veda part only is named",
+  "courtyard is named"
  ],
- "inference": "Wise men should divide wealth in order according to this method.",
- "uncertainties": [],
- "plain_english": "By this method, wise men should divide wealth in due order."
+ "inference": "the side pavilion and courtyard are made by veda part only",
+ "uncertainties": [
+  "relation between pavilion and courtyard not specified"
+ ],
+ "plain_english": "On the sides, the pavilion and courtyard are made by veda part only."
 }

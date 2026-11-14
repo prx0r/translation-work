@@ -1,16 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 257,
- "question": "Where may the circle be held?",
+ "question": "Which mantra syllables occupy the positions in this grid?",
  "premises": [
-  "Holding is enjoined",
-  "Hand is one place",
-  "Throat is another",
-  "Arm root is another"
+  "The verse lists syllables.",
+  "The positions are ordered.",
+  "The grid is being filled."
  ],
- "inference": "The circle may be held in hand, throat, or from arm root.",
+ "inference": "The listed syllables fix the grid positions.",
  "uncertainties": [
-  "Which placement is primary"
+  "Exact sandhi and meaning remain unclear."
  ],
- "plain_english": "One should hold it in hand, or throat, or from the arm root."
+ "plain_english": "This verse lists mantra syllables for the grid."
 }

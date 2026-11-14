@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p111",
  "verse": 2768,
- "question": "How is the length of the lion figure determined?",
+ "question": "What great gate above the temple is without projection and face?",
  "premises": [
-  "The lion's length is specified",
-  "It is measured by half the front-neck projection",
-  "This measure is declared"
+  "The great gate is above the temple.",
+  "It is without projection and face."
  ],
- "inference": "The length of the lion is declared as half the front-neck projection.",
- "uncertainties": [],
- "plain_english": "The length of the lion is declared to be half the projection of the front neck."
+ "inference": "The great gate above the temple lacks projection and face.",
+ "uncertainties": [
+  "The exact gate type."
+ ],
+ "plain_english": "Great gate above the temple, without projection and face."
 }

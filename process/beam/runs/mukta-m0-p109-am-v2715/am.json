@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2715,
- "question": "What power does the Goddess exercise over unconquerable enemies and demons?",
+ "question": "How many stories should twice-born and kings have?",
  "premises": [
-  "The Goddess subdues unconquerable enemies.",
-  "The Goddess destroys unconquerable demons."
+  "twice-born should have nine stories",
+  "kings are considered to have seven"
  ],
- "inference": "The Goddess overcomes and destroys even those enemies and demons deemed unconquerable.",
- "uncertainties": [],
- "plain_english": "She subdues unconquerable enemies and destroys unconquerable demons."
+ "inference": "twice-born should have nine stories and kings seven",
+ "uncertainties": [
+  "whether these are maxima not stated"
+ ],
+ "plain_english": "Twice-born should have nine stories; kings are considered to have seven."
 }

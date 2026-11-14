@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "āyāmaṃ",
+     "gloss": "length",
+     "grounds": "token 1; legacy hint length",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "token 2; legacy hint square",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "syāc",
+     "gloss": "may-be",
+     "grounds": "token 3; legacy hint may-be",
+     "morph": "3.sg.act-opt + as"
+    },
+    {
+     "surface": "śālānāṃ",
+     "gloss": "of-halls",
+     "grounds": "token 4; legacy hint of-halls",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 5; legacy hint especially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "specifically",
+     "grounds": "token 6; legacy hint specifically",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shape should the length of halls take specifically?",
+   "premises": [
+    "length may be square",
+    "this applies to halls",
+    "the qualification is specific"
+   ],
+   "inference": "The verse states that the length may be square, especially and specifically for halls.",
+   "uncertainties": [
+    "exact architectural context beyond supplied tokens"
+   ],
+   "plain_english": "The length may be square, especially and specifically for halls."
+  }
+ ]
+}

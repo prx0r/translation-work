@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p111",
  "verse": 2773,
- "question": "What characteristics must the lion figures possess when made?",
+ "question": "What mixed and confused form is joined with two or many materials?",
  "premises": [
-  "Lion figures are to be made",
-  "They must have their proper marks",
-  "They must have manes"
+  "It is joined with two materials.",
+  "It is mixed and confused.",
+  "It is joined with many."
  ],
- "inference": "Lion figures should be made with their proper characteristics and manes.",
- "uncertainties": [],
- "plain_english": "Lion figures should be made endowed with their proper characteristics and with manes."
+ "inference": "The form may be joined with two or many materials and is mixed and confused.",
+ "uncertainties": [
+  "Whether two and many are alternatives."
+ ],
+ "plain_english": "Joined with two materials, mixed, confused, joined with many."
 }

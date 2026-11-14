@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p11",
  "verse": 270,
- "question": "What is the sentence meaning of throwing?",
+ "question": "Which mantra syllables occupy the positions in this grid?",
  "premises": [
-  "He is thrown",
-  "He becomes all-hated",
-  "Thus is sentence meaning"
+  "The verse lists syllables.",
+  "The positions are ordered.",
+  "The grid is being filled."
  ],
- "inference": "The sentence meaning is that the thrown person becomes all-hated.",
+ "inference": "The listed syllables fix the grid positions.",
  "uncertainties": [
-  "Exact referent of he"
+  "Exact sandhi and meaning remain unclear."
  ],
- "plain_english": "He is thrown and would be all-hated; thus is the sentence meaning."
+ "plain_english": "This verse lists mantra syllables for the grid."
 }

@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p109",
  "verse": 2719,
- "question": "How is the Goddess revered and contemplated by the sage Durvāsas?",
+ "question": "How should clay and grass-covered structures be stories?",
  "premises": [
-  "The feet of the Goddess are honored by Durvāsas.",
-  "The Goddess is contemplated by the sage Durvāsas."
+  "clay structure is grass-covered",
+  "one to three stories are endowed"
  ],
- "inference": "The Goddess is both ritually honored and inwardly contemplated by Durvāsas.",
- "uncertainties": [],
- "plain_english": "Her feet are honored by Durvāsas, and she is contemplated by the sage Durvāsas."
+ "inference": "clay grass-covered structures are endowed with one to three stories",
+ "uncertainties": [
+  "whether all three are allowed not stated"
+ ],
+ "plain_english": "Indeed clay, grass-covered, is endowed with one, two, or three stories."
 }

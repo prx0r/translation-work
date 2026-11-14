@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p111",
  "verse": 2770,
- "question": "How far should the nose tip project on the figure?",
+ "question": "What is joined with cage in the middle of the ear, inside cell and box?",
  "premises": [
-  "The nose tip is considered",
-  "Its projection is measured by the front-neck projection",
-  "This measure alone is used"
+  "It is in the middle of the ear.",
+  "It is inside cell and box.",
+  "It is joined with cage."
  ],
- "inference": "The nose tip should project by the same measure as the front-neck projection.",
- "uncertainties": [],
- "plain_english": "Its nose tip should project by the same measure as the front-neck projection."
+ "inference": "The described form is located in the ear and joined with cage.",
+ "uncertainties": [
+  "The exact architectural referent."
+ ],
+ "plain_english": "In the middle of the ear, inside cell and box, joined with cage."
 }

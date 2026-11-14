@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p117",
+ "items": [
+  {
+   "verse": 2925,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter nominative singular subject of the declaration",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭapākāraṃ",
+     "gloss": "pavilion-shaped",
+     "grounds": "neuter accusative singular complement of parikīrtitam",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "śālānāṃ",
+     "gloss": "of-halls",
+     "grounds": "feminine genitive plural qualifying the whole",
+     "morph": "fem.gen.pl"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "neuter nominative singular passive participle",
+     "morph": "neut.nom.sg"
+    }
+   ],
+   "question": "Are all halls declared to be pavilion-shaped in this temple architecture rule?",
+   "premises": [
+    "all halls are declared pavilion-shaped",
+    "the declaration concerns hall forms",
+    "pavilion shape is prescribed"
+   ],
+   "inference": "The verse states that every hall is declared to take pavilion form.",
+   "uncertainties": [
+    "isolated verse leaves exact syntactic role of sarvaṃ partly open",
+    "maṇṭapākāraṃ may be read as complement or apposition"
+   ],
+   "plain_english": "All the halls are declared to be pavilion-shaped."
+  }
+ ]
+}
