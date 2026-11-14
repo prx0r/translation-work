@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p29",
  "verse": 705,
- "question": "What foot leads the movement in the Śākta ritual context?",
+ "question": "What harmful consequence follows if others are allowed to perform the prohibited act?",
  "premises": [
-  "The rite is identified as Śākta",
-  "A leading foot is prescribed",
-  "The left foot is specified"
+  "Acting otherwise leads to destruction of the kingdom.",
+  "This consequence is undesirable.",
+  "Others must therefore not be made to do it."
  ],
- "inference": "In the Śākta rite, the movement should be led by the left foot.",
- "uncertainties": [],
- "plain_english": "in the Śākta rite, with the left foot leading."
+ "inference": "To avoid destruction of the kingdom, one must not have others perform the act.",
+ "uncertainties": [
+  "The specific act is implied from the preceding prohibition on touching the linga."
+ ],
+ "plain_english": "Otherwise there would be destruction of the kingdom; therefore one should not have it done by others."
 }

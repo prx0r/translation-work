@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p28",
  "verse": 689,
- "question": "Which chapter concludes at this point in the Aṃśumān Kāśyapa text?",
+ "question": "Does a servant become tainted by engaging in service involving that mantra?",
  "premises": [
-  "The colophon names the Aṃśumān Kāśyapa work.",
-  "The chapter concerns characteristics of measures and cords and is numbered twenty-second."
+  "A servant may engage in service involving that mantra",
+  "Such service could be suspected of causing taint",
+  "Devotional service is evaluated by rule"
  ],
- "inference": "This marks the end of the twenty-second chapter on measure and cord characteristics.",
- "uncertainties": [],
- "plain_english": "Thus ends the twenty-second chapter on the characteristics of measures and cords in the Aṃśumān Kāśyapa."
+ "inference": "The servant is not tainted by that mantra-service.",
+ "uncertainties": [
+  "The precise scope of tanmantryādeḥ (mantra, command, or service) is context-dependent."
+ ],
+ "plain_english": "And the servant is not tainted by service involving that mantra."
 }

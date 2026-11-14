@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition of the placement action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūrṇayā",
+     "gloss": "with-the-complete",
+     "grounds": "qualifies the vidyā to be placed; instrumental of accompaniment",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to the deity or practitioner",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "galordhve",
+     "gloss": "above-the-throat",
+     "grounds": "locative compound indicating the placement site; internal sandhi gala+ūrdhve",
+     "morph": "compound:gala+ūrdhva(n.loc.sg)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive ritual instruction for placement",
+     "morph": "3.sg.opt.act(vi-ni-as)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step in the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What subsequent placement of the complete vidyā above the throat is prescribed?",
+   "premises": [
+    "The instruction resumes with the word 'again', indicating a repeated placement.",
+    "The placement is to be performed with the complete vidyā.",
+    "The specified locus for this placement is above the throat."
+   ],
+   "inference": "After the previous action, the practitioner must again place the complete vidyā above the throat.",
+   "uncertainties": [
+    "Whether 'devi' addresses the goddess visualized or the human practitioner is not explicit in this verse alone."
+   ],
+   "plain_english": "O goddess, then one should again place the complete vidyā above the throat."
+  }
+ ]
+}

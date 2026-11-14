@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p28",
  "verse": 690,
- "question": "What calculation is prescribed for the mansion’s width measured in hands?",
+ "question": "Does service to another deity in daily or occasional rites cause taint?",
  "premises": [
-  "The mansion’s width in hands is taken as the base measure.",
-  "The operation involves multiplication, increase, and division by eight."
+  "Daily and occasional rites may involve service",
+  "Service to another deity may occur in such rites",
+  "Such service could be thought to cause taint"
  ],
- "inference": "The mansion width in hands must be processed by multiplying, increasing, and dividing by eight.",
- "uncertainties": [
-  "The exact sequence and operands of the calculation are compressed in the compound."
- ],
- "plain_english": "Take the mansion’s width in hands, multiply and increase it, and divide by eight."
+ "inference": "Service to another deity in daily and occasional rites does not cause taint.",
+ "uncertainties": [],
+ "plain_english": "And in daily and occasional rites, service to another deity does not cause taint."
 }

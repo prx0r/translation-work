@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p24",
  "verse": 590,
- "question": "What formal resemblance must the pot and palika-bud follow in their construction?",
+ "question": "Where should the chosen emblem be placed during this ritual step?",
  "premises": [
-  "The pot is prescribed to be like the form of the peak.",
-  "The palika-bud is included in the same prescription.",
-  "The term likewise extends the same formal principle."
+  "The chosen emblem is used in the ritual.",
+  "A mantra accompanies the placement.",
+  "The hand is the designated location."
  ],
- "inference": "The pot should be made like the form of the peak, and the palika-bud likewise.",
- "uncertainties": [],
- "plain_english": "Make the pot like the form of the peak, and likewise make the palika-bud."
+ "inference": "One should place the chosen emblem in the lotus of the hand with the mantra.",
+ "uncertainties": [
+  "Token 2 appears to fuse mantra and iṣṭaliṅga while token 3 repeats iṣṭaliṅga; the exact textual transmission is unclear."
+ ],
+ "plain_english": "Thus, with the mantra, one should place the chosen emblem in the lotus of the hand."
 }

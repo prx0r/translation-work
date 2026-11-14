@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-separated(vibhinne) śiva(śiva) power(śaktiḥ) would-be(syāt) non-separated(abhinne) chickpea(caṇakaḥ) in-śiva(śive)
+[when-separated](vibhinne) [O-Śiva](śiva) [power](śaktiḥ) [would-be](syāt) [when-not-separated](abhinne) [chickpea](caṇakaḥ) [in-Śiva](śive)
 
 ## mukta-m0-p71-v1752
-earth(kṣitiḥ) kaṃ(kaṃ) fire(pāvakaḥ) certainly(dhruvam)
+[earth](kṣitiḥ) [water](kaṃ]) [fire](pāvako) [certainly](dhruvam)
 
 ## mukta-m0-p71-v1753
-three+quality(tri+guṇa) pervaded(vyāpitaṃ) all(sarvaṃ) world(jagat) in-stationary(sthāvare) in-moving(jaṅgamam)
+[three-guṇa](triguṇa) [variant:triangle]( [j: trikoṇa]) [pervaded](vyāpitaṃ) [all](sarvaṃ) [world](jagat) [in-stationary](sthāvare) [in-moving](jaṅgamam)
 
 ## mukta-m0-p71-v1754
-of-qualityless(nirguṇasya) abode(ālayaḥ) directly(sākṣāt) great+kālī+abode(mahā+kālī+ālayaḥ) O-beloved(priye)
+[of-the-qualityless](nirguṇasya) [abode](ālayaḥ) [directly](sākṣāt) [Mahākālī-abode](mahākālyālayaḥ) [O-beloved](priye)
 
 ## mukta-m0-p71-v1755
-subtle+body(sūkṣma+dehe) arisen(samudbhūtā) in-male+bodies(puṃ+deheṣu) manifested(prakāśitā)
+[in-subtle-body](sūkṣmadeha) [variant:in-body]( [j: dehe]) [arisen](samudbhūtā) [in-male-bodies](puṃdeheṣu) [manifested](prakāśitā)
 
 ## mukta-m0-p71-v1756
-both(ubhau) both(ubhau) and(ca) having-abandoned(saṃtyaktvā) moment+measure(kṣaṇa+mātra) not(na) remains(tiṣṭhati)
+[both](ubhāv) [both](ubhau) [and](ca) [having-abandoned](saṃtyaktvā) [for-a-moment](kṣaṇamātra) [not](na) [remains](tiṣṭhati)
 
 ## mukta-m0-p71-v1757
-with-form(sākāraṃ) which(yat) would-be(bhavet) O-goddess(devi) only(kevalaṃ) knowledge+cause(bodha+hetave)
+[with-form](sākāraṃ) [which](yad) [may-be](bhaved) [O-goddess](devi) [only](kevalaṃ) [for-knowledge](bodha) [for-cause](hetave)
 
 ## mukta-m0-p71-v1758
-is-seen(dṛśyate) O-supreme-goddess(parameśāni) thus(tathā) all(sarvam) this(idam) world(jagat)
+[is-seen](dṛśyate) [O-supreme-goddess](parameśāni) [thus](tathā) [all](sarvam) [this](idaṃ) [world](jagat)
 
 ## mukta-m0-p71-v1759
-with-form(sākāraṃ) if(yadi) would-arise(jāyeta) by-own-will(sva+icchayā) even(api) then(tadā) O-beloved(priye)
+[with-form](sākāraṃ) [if](yadi) [it-arises](jāyeta) [by-own-will](svecchayā) [even](api) [then](tadā) [O-beloved](priye)
 
 ## mukta-m0-p71-v1760
-with-form(sākāraṃ) by-own-will(sva+icchayā) of-that(tasyāḥ) without-form(nirākāram) and(ca) by-own-will(sva+icchayā)
+[with-form](sākāraṃ) [by-own-will](svecchayā) [of-that](tasyā) [without-form](nirākārañ) [and](ca) [by-own-will](svecchayā)
 
 ## mukta-m0-p71-v1761
-when(yadā) and(cet) in-many-ways(bahudhā) having-become(bhūtā) then(tadā) light(jyotiḥ) thus(iti) is-called(kīrtitā)
+[when](yadā) [indeed](ced) [manifold](bahudhā) [become](bhūtā) [variant:having-become]( [j: bhūtvā]) [then](tadā) [light](jyoti) [thus](iti) [is-called](kīrtitā)
 
 ## mukta-m0-p71-v1762
-by-much(bahunā) by-sporting(ramaṇena) even(api) in-non-existence(ca+abhāve) existence+awareness(bhāba+bodhakam)
+[by-much](bahunā) [variant:manifold]( [gh, j: bahudhā]) [by-delight](ramaṇena) [even](api) [in-absence](cābhāve) [state-awareness](bhāba+bodhakam)
 
 ## mukta-m0-p71-v1763
-form+triad(rūpa+trayaṃ) existence+awareness(bhāva+bodhaṃ) creation(sṛṣṭi) maintenance(sthiti) dissolution(layaḥ) O-beloved(priye)
+[three-forms](rūpa+trayaṃ) [state-awareness](bhāva+bodhaṃ) [creation](sṛṣṭi) [maintenance](sthiti) [dissolution](layaḥ) [O-beloved](priye)
 
 ## mukta-m0-p71-v1764
-person(puruṣaṃ) in-śiva(śive)
+[the-male](puruṣaṃ) [in-Śiva](śive)
 
 ## mukta-m0-p71-v1765
-vulva(bhagam) and(ca) nature(prakṛtiṃ) to-be-known(jñeyaṃ) person(pumān) brahman(brahma) thus(iti) O-pārvatī(pārvati)
+[vulva](bhagañ) [and](ca) [nature](prakṛtiṃ) [to-be-known](jñeyaṃ) [male](pumān) [Brahman](brahma) [thus](iti) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p71-v1766
-always(sarvadā) by-wind(vāyunā) O-goddess(devi) there(tatra) love-play+two(śṛṅgārakau+ubhau)
+[always](sarvadā) [by-wind](vāyunā) [O-goddess](devi) [there](tatra) [two-erotic-delights](śṛṅgārakāv) [both](ubhau)
 
 ## mukta-m0-p71-v1767
-consisting-of-five-elements(pāñcabhautikaḥ)
+[consisting-of-five-elements](pāñcabhautikaḥ) [variant:consisting-of-five-elements]( [gh, c: -bhautikam])
 
 ## mukta-m0-p71-v1768
-kaula+knowledge(kaula+jñānam) this(idam) O-goddess(devi) beyond-kalpa(kalpa+atītaṃ) stainless(nirañjanam)
+[Kaula](kaula) [knowledge](jñānam) [this](idaṃ) [O-goddess](devi) [beyond-kalpa](kalpātītaṃ) [stainless](nirañjanam)
 
 ## mukta-m0-p71-v1769
-thus(iti) in-śrī+sarvānandanātha+composed(śrī+sarvānandanātha+viracite) in-sarvollāsa(sarvollāse) sixty-second+chapter(dvāṣaṣṭhi+ullāsaḥ)
+[thus](iti) [in-the-Sarvollāsa](śrī+sarvānandanātha+viracite sarvollāse) [sixty-second](dvāṣaṣṭhy) [chapter](ullāsaḥ)
 
 ## mukta-m0-p71-v1770
-liberation(kaivalyaṃ) of-what-kind(kīdṛśaṃ) knowledge(jñānaṃ) tell(kathaya) O-life+beloved(prāṇa+vallabha)
+[liberation](kaivalyaṃ) [of-what-kind](kīdṛśaṃ) [knowledge](jñānaṃ) [tell](kathaya) [O-life](prāṇa) [beloved](vallabha)
 
 ## mukta-m0-p71-v1771
-from-sun(raveḥ) arises(utpadyate) water(toyaṃ) from-water(toyāt) arises(utpadyate) earth(mahī)
+[from-the-sun](raver) [arises](utpadyate) [water](toyaṃ) [from-water](toyād) [arises](utpadyate) [earth](mahī)
 
 ## mukta-m0-p71-v1772
-egg-born(aṇḍajaḥ) sweat-born(svedajaḥ) and(ca) indeed(eva) sprout-born(udbhijjaḥ) and(ca) womb-born(jarāyujaḥ)
+[egg-born](aṇḍajaḥ) [sweat-born](svedajaḥ) [and](ca) [indeed](eva) [sprout-born](udbhijjaḥ) [and](ca) [womb-born](jarāyujaḥ)
 
 ## mukta-m0-p71-v1773
-tree(vṛkṣa) shrub(gulma) and-others(ādayaḥ) O-goddess(devi) sprout-born(udbhijjāḥ) indeed(hi) indeed(hi) unconscious(vicetanāḥ)
+[trees](vṛkṣa) [shrubs](gulmādayo) [O-goddess](devi) [sprout-born](udbhijjā) [indeed](hi) [indeed](hi) [unconscious](vicetanāḥ)
 
 ## mukta-m0-p71-v1774
-of-them(teṣāṃ) in-middle(madhye) among-humans(manuṣyeṣu) brahman+knowledge(brahma+jñānam) and(ca) arises(jāyate)
+[of-them](teṣāṃ) [among](madhye) [among-humans](manuṣyeṣu) [Brahman-knowledge](brahma+jñānañ) [and](ca) [arises](jāyate)
 
 ## mukta-m0-p71-v1775
-in-its-destruction(tat+nāśe) O-supreme-goddess(parameśāni) subtle-bodied(sūkṣma+dehī) manifested(prakāśitaḥ)
+[of-that](tat) [in-destruction](nāśe) [O-supreme-goddess](parameśāni) [subtle-bodied-one](sūkṣma+dehī) [manifested](prakāśitaḥ)
