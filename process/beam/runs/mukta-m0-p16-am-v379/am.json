@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p16",
  "verse": 379,
- "question": "During which solar period should the installation of deities be performed?",
+ "question": "What affliction may arise for the target from a weapon wound on the head?",
  "premises": [
-  "The prescribed time is the sun's northern course.",
-  "The action concerns the gods.",
-  "Installation and related rites are to be performed."
+  "A wound is made on the head by a weapon.",
+  "The wound belongs to the targeted person."
  ],
- "inference": "One should perform the installation and related rites of the gods during the sun's northern course.",
- "uncertainties": [],
- "plain_english": "One should perform the installation and other rites of the gods during the sun's northern course."
+ "inference": "A head disease may arise for him from a weapon wound on the head.",
+ "uncertainties": [
+  "The connection to the preceding rite is implied but not explicit."
+ ],
+ "plain_english": "He may suffer a head disease from a wound made on the head by a weapon."
 }

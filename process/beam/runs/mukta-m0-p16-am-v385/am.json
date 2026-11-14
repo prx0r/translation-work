@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p16",
  "verse": 385,
- "question": "How many fire-pits may be placed in the middle of the platform within the pavilion?",
+ "question": "For how long and by how many methods is the mantra worshipped to gain its effect?",
  "premises": [
-  "The location is the middle of the platform.",
-  "The structure is a pavilion.",
-  "The fire-pits may number five, eight, or nine."
+  "The mantra is worshipped by many kinds of methods.",
+  "The worship continues for a year."
  ],
- "inference": "A pavilion with five, eight, or nine fire-pits in the middle of the platform is specified.",
- "uncertainties": [],
- "plain_english": "Make a pavilion with five, eight, or nine fire-pits in the middle of the platform."
+ "inference": "The mantra is worshipped in many ways over the course of a year.",
+ "uncertainties": [
+  "The surface 'rāpūjyate' is unusual and may reflect a transmission or sandhi issue."
+ ],
+ "plain_english": "is worshipped in many ways, even for a year,"
 }

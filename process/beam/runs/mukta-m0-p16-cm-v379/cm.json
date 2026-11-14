@@ -3,29 +3,39 @@
  "verse": 379,
  "rows": [
   {
-   "lemma": "raveḥ",
+   "lemma": "śiraḥ",
+   "morph": "compound-member",
+   "grounds": "body part affected"
+  },
+  {
+   "lemma": "rogo",
+   "morph": "m.nom.sg",
+   "grounds": "affliction produced"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.optative.active (√bhū)",
+   "grounds": "potential result of the act"
+  },
+  {
+   "lemma": "tasya",
    "morph": "m.gen.sg",
-   "grounds": "genitive indicating the sun's course"
+   "grounds": "the targeted person"
   },
   {
-   "lemma": "saumyāyane",
+   "lemma": "braṇe",
+   "morph": "m.loc.sg",
+   "grounds": "site of application or injury"
+  },
+  {
+   "lemma": "śastreṇa",
+   "morph": "n.inst.sg",
+   "grounds": "instrument causing the wound"
+  },
+  {
+   "lemma": "mastake",
    "morph": "n.loc.sg",
-   "grounds": "locative denoting the sun's northern movement"
-  },
-  {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act-opt √kṛ",
-   "grounds": "optative prescribing action"
-  },
-  {
-   "lemma": "devānāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "genitive plural indicating the deities"
-  },
-  {
-   "lemma": "sthāpanādikam",
-   "morph": "n.acc.sg",
-   "grounds": "compound indicating installation and related rites"
+   "grounds": "location of the wound"
   }
  ]
 }
