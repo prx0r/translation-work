@@ -3,39 +3,54 @@
  "verse": 1148,
  "rows": [
   {
-   "lemma": "yā",
-   "morph": "f.nom.pl",
-   "grounds": "relative pronoun"
+   "lemma": "vāma",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "devyo",
-   "morph": "f.nom.pl",
-   "grounds": "noun plural"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "granthihīnāḥ",
-   "morph": "f.nom.pl",
-   "grounds": "compound adjective"
+   "lemma": "aṅka",
+   "morph": "compound-member",
+   "grounds": "member of compound"
   },
   {
-   "lemma": "syuḥ",
-   "morph": "3.pl.act-opt + root as",
-   "grounds": "verb of being"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "likhyate",
-   "morph": "3.sg.pass-pres + root likh",
-   "grounds": "passive verb"
+   "lemma": "gatayā",
+   "morph": "f.ins.sg (ppp. √gam)",
+   "grounds": "position of śakti"
   },
   {
-   "lemma": "tat",
-   "morph": "n.nom.sg",
-   "grounds": "pronoun"
+   "lemma": "śaktyā",
+   "morph": "f.ins.sg",
+   "grounds": "embracing figure"
   },
   {
-   "lemma": "aseṣataḥ",
-   "morph": "(indecl.)",
-   "grounds": "adverb"
+   "lemma": "āliṅgitaṃ",
+   "morph": "m.acc.sg (ppp. ā-√liṅg)",
+   "grounds": "state of the guru"
+  },
+  {
+   "lemma": "rakta",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "varṇayā",
+   "morph": "f.ins.sg",
+   "grounds": "appearance of śakti"
   }
  ]
 }

@@ -3,29 +3,64 @@
  "verse": 1140,
  "rows": [
   {
-   "lemma": "mūrdhni",
-   "morph": "m.loc.sg",
-   "grounds": "locative noun"
+   "lemma": "guru",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "trikoṇamadhye",
-   "morph": "n.loc.sg",
-   "grounds": "locative compound"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "particle"
+   "lemma": "deva",
+   "morph": "compound-member",
+   "grounds": "member of compound"
   },
   {
-   "lemma": "uttaraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "adjective"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "pascimāmukham",
-   "morph": "n.nom.sg",
-   "grounds": "compound adjective"
+   "lemma": "ātma",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "kālānāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "elements to be unified"
+  },
+  {
+   "lemma": "samyag",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "aikya",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "vibhāvanam",
+   "morph": "n.acc.sg",
+   "grounds": "meditative realization"
   }
  ]
 }

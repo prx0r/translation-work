@@ -3,29 +3,69 @@
  "verse": 1150,
  "rows": [
   {
-   "lemma": "atisārādibhiḥ",
-   "morph": "m.instr.pl",
-   "grounds": "instrumental plural of the atisāra-ādi compound; by diarrhea and similar disorders"
+   "lemma": "tat",
+   "morph": "pron.dem.n.nom.sg",
+   "grounds": "demonstrative pronoun referring to the deity described in the preceding verses"
   },
   {
-   "lemma": "doṣaiḥ",
-   "morph": "m.instr.pl",
-   "grounds": "instrumental plural of doṣa"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "audaraiḥ",
-   "morph": "m.instr.pl",
-   "grounds": "instrumental plural adjective audara"
+   "lemma": "pāda",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kleśam",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular of kleśa"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "āvahet",
-   "morph": "3.sg.act.opt.ā-vah",
-   "grounds": "optative third singular of ā-vah"
+   "lemma": "padma",
+   "morph": "compound-member",
+   "grounds": "member of compound qualifying foot"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "yugala",
+   "morph": "compound-member",
+   "grounds": "member of compound indicating two lotus feet"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "cyuta",
+   "morph": "compound-member.ppp(cyu)",
+   "grounds": "past participle as compound member describing nectar"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "pīyūṣa",
+   "morph": "compound-member",
+   "grounds": "member of compound denoting the flowing substance"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "dhārayā",
+   "morph": "f.inst.sg",
+   "grounds": "final member of compound in instrumental sense indicating means or accompaniment"
   }
  ]
 }

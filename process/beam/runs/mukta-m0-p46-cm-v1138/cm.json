@@ -3,39 +3,59 @@
  "verse": 1138,
  "rows": [
   {
-   "lemma": "mandabhāgyaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound adjective"
+   "lemma": "pīṭha",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "api",
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "pūrvāṅga",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "pūrvañ",
+   "morph": "n.nom.sg",
+   "grounds": "qualifier indicating sequence"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "niyataṃ",
-   "morph": "(indecl.)",
-   "grounds": "adverb"
+   "lemma": "ṣoḍaśa",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "sidhyate",
-   "morph": "3.sg.pass-pres + root sidh",
-   "grounds": "passive verb"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "lemma": "ādi",
+   "morph": "compound-member",
+   "grounds": "member indicating extension"
   },
   {
-   "lemma": "atra",
-   "morph": "(indecl.)",
-   "grounds": "adverb of place"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "saṃsayaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "noun of doubt"
+   "lemma": "upacārakaiḥ",
+   "morph": "m.ins.pl",
+   "grounds": "ritual services performed"
   }
  ]
 }

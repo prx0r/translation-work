@@ -3,39 +3,59 @@
  "verse": 1147,
  "rows": [
   {
-   "lemma": "bījakalpān",
-   "morph": "m.acc.pl",
-   "grounds": "compound noun"
+   "lemma": "vara",
+   "morph": "compound-member",
+   "grounds": "first member of compound chain"
   },
   {
-   "lemma": "punaḥ",
-   "morph": "(indecl.)",
-   "grounds": "adverb"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act-opt + root kṛ",
-   "grounds": "verb of doing"
+   "lemma": "abhaya",
+   "morph": "compound-member",
+   "grounds": "member of compound chain"
   },
   {
-   "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "adverb of place"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "lemma": "jñāna",
+   "morph": "compound-member",
+   "grounds": "member of compound chain"
   },
   {
-   "lemma": "asti",
-   "morph": "3.sg.act-pres + root as",
-   "grounds": "verb of being"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "vicāraṇā",
-   "morph": "f.nom.sg",
-   "grounds": "noun"
+   "lemma": "mudrā",
+   "morph": "compound-member",
+   "grounds": "member of compound chain"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "pustakaiḥ",
+   "morph": "n.ins.pl",
+   "grounds": "objects held in hands"
+  },
+  {
+   "lemma": "vyāvṛtaiḥ",
+   "morph": "m.ins.pl (ppp. vy-ā-√vṛt)",
+   "grounds": "state of the hands"
+  },
+  {
+   "lemma": "karaiḥ",
+   "morph": "m.ins.pl",
+   "grounds": "instruments bearing attributes"
   }
  ]
 }

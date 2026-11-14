@@ -1,0 +1,1103 @@
+{
+ "song": "mukta-m0-p460",
+ "items": [
+  {
+   "verse": 11476,
+   "rows": [
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative expressing prohibition in this context",
+     "morph": "3.sg.act.opt-√vṛj"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-mutter",
+     "grounds": "ritual recitation of mantra",
+     "morph": "3.sg.act.opt-√jap"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "specified number of repetitions",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "strī+mātrasya",
+     "gloss": "woman+mere",
+     "grounds": "compound qualifying the guru as only a woman",
+     "morph": "compound:strī+first,mātra+final;gen.sg.m"
+    },
+    {
+     "surface": "guror",
+     "gloss": "of-guru",
+     "grounds": "teacher in relation to whom the restriction applies",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "extends the restriction inclusively",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should a practitioner avoid reciting one hundred thousand repetitions for a guru who is merely a woman?",
+   "premises": [
+    "The act considered is muttering one hundred thousand repetitions.",
+    "The guru in question is described as merely a woman.",
+    "The verse prescribes avoidance in this case."
+   ],
+   "inference": "Recitation of one hundred thousand repetitions is to be avoided even for a guru who is merely a woman.",
+   "uncertainties": [
+    "The exact ritual or social reason for this restriction is not stated."
+   ],
+   "plain_english": "One should avoid muttering a hundred thousand repetitions even for a guru who is merely a woman."
+  },
+  {
+   "verse": 11477,
+   "rows": [
+    {
+     "surface": "tarppaṇaṃ",
+     "gloss": "libation",
+     "grounds": "ritual offering of satisfaction",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mārjjanaṃ",
+     "gloss": "cleansing",
+     "grounds": "purificatory rite",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior completion of the rites",
+     "morph": "abs-√kṛ"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "recipients of feeding",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "should-feed",
+     "grounds": "prescribed subsequent action",
+     "morph": "3.sg.act.opt-caus-√bhuj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence after prior rites",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions must follow the performance of libation and cleansing?",
+   "premises": [
+    "Libation and cleansing are performed first.",
+    "The verse gives a subsequent instruction.",
+    "Brahmins are named as recipients."
+   ],
+   "inference": "After performing libation and cleansing, one should feed brahmins.",
+   "uncertainties": [],
+   "plain_english": "Having performed libation and cleansing, one should then feed brahmins."
+  },
+  {
+   "verse": 11478,
+   "rows": [
+    {
+     "surface": "samarcayati",
+     "gloss": "he-worships",
+     "grounds": "act of worship performed by the practitioner",
+     "morph": "3.sg.act.pres-√arc"
+    },
+    {
+     "surface": "gīrvāṇāṁl",
+     "gloss": "gods",
+     "grounds": "divine beings receiving worship",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "lokānanda+karaś",
+     "gloss": "world+joy+making",
+     "grounds": "compound describing the practitioner as causing joy to the world",
+     "morph": "compound:loka+first,ānanda+second,kara+final;nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects worship and the resulting quality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the practitioner who performs the worship",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What effect accompanies the practitioner who worships the gods?",
+   "premises": [
+    "The practitioner worships the gods.",
+    "The verse attributes a quality to that practitioner.",
+    "The quality is described as bringing joy to the world."
+   ],
+   "inference": "One who worships the gods becomes a bringer of joy to the world.",
+   "uncertainties": [],
+   "plain_english": "He worships the gods and becomes one who brings joy to the world."
+  },
+  {
+   "verse": 11479,
+   "rows": [
+    {
+     "surface": "anvahaṃ",
+     "gloss": "daily",
+     "grounds": "indicates regular repetition each day",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarppayed",
+     "gloss": "should-offer-libations",
+     "grounds": "prescribed daily ritual action",
+     "morph": "3.sg.act.opt-caus-√tṛp"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "introduces the practitioner subject to the condition",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "base number of offerings",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sāgraṃ",
+     "gloss": "with-extra",
+     "grounds": "indicates the hundred is exceeded",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-be",
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.act.opt-√bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain result follows from offering more than a hundred libations daily?",
+   "premises": [
+    "A person offers libations daily.",
+    "The number offered is a hundred or more.",
+    "The verse declares a certain outcome."
+   ],
+   "inference": "One who daily offers a hundred or more libations will certainly attain the stated result.",
+   "uncertainties": [
+    "The specific result is implied by context but not named in this verse."
+   ],
+   "plain_english": "Whoever daily offers a hundred or more libations will certainly attain the result."
+  },
+  {
+   "verse": 11480,
+   "rows": [
+    {
+     "surface": "candra+candana+paṃkāktam",
+     "gloss": "moon+sandal+paste+smeared",
+     "grounds": "compound describing an object anointed with sandal paste",
+     "morph": "compound:candra+first,candana+second,paṅka+third,akta+final;acc.sg.n"
+    },
+    {
+     "surface": "ālatī+kusumair",
+     "gloss": "jasmine+flowers",
+     "grounds": "flowers used in the offering",
+     "morph": "compound:ālatī+first,kusuma+final;ins.pl.n"
+    },
+    {
+     "surface": "yavaiḥ",
+     "gloss": "with-barley",
+     "grounds": "barley grains used in the offering",
+     "morph": "ins.pl.m"
+    }
+   ],
+   "question": "What ritual substances are specified for the offering in this practice?",
+   "premises": [
+    "The verse lists materials for an offering.",
+    "Sandal paste, jasmine flowers, and barley are named.",
+    "These substances are presented together."
+   ],
+   "inference": "The offering involves something smeared with sandal paste together with jasmine flowers and barley.",
+   "uncertainties": [
+    "The object that is smeared is not explicitly named in this verse."
+   ],
+   "plain_english": "The offering uses something smeared with sandal paste, along with jasmine flowers and barley."
+  },
+  {
+   "verse": 11481,
+   "rows": [
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "the three realms as the domain of control",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tad+vaśe",
+     "gloss": "his+control",
+     "grounds": "compound indicating subjection to him",
+     "morph": "compound:tad+first,vaśa+final;loc.sg.n"
+    },
+    {
+     "surface": "tiṣṭhet",
+     "gloss": "stands",
+     "grounds": "remains in a state of subjection",
+     "morph": "3.sg.act.opt-√sthā"
+    },
+    {
+     "surface": "khyātaḥ",
+     "gloss": "renowned",
+     "grounds": "fame attained by the practitioner",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kavi+varo",
+     "gloss": "poet+best",
+     "grounds": "compound expressing excellence in poetry",
+     "morph": "compound:kavi+first,vara+final;nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "states the resulting attainment",
+     "morph": "3.sg.act.opt-√bhū"
+    }
+   ],
+   "question": "What powers and renown does the practitioner gain through this rite?",
+   "premises": [
+    "The three worlds are said to come under his control.",
+    "The practitioner becomes renowned.",
+    "The practitioner becomes the best of poets."
+   ],
+   "inference": "Through this rite the practitioner gains control over the three worlds and becomes a renowned foremost poet.",
+   "uncertainties": [],
+   "plain_english": "The three worlds would stand under his control, and he would become renowned as the best of poets."
+  },
+  {
+   "verse": 11482,
+   "rows": [
+    {
+     "surface": "vaśyā",
+     "gloss": "submissive",
+     "grounds": "state of being brought under influence",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "bhavaṃti",
+     "gloss": "become",
+     "grounds": "resulting transformation",
+     "morph": "3.pl.act.pres-√bhū"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "indicates continual effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smarārtāḥ",
+     "gloss": "love+afflicted",
+     "grounds": "compound describing torment by desire",
+     "morph": "compound:smara+first,ārta+final;nom.pl.f"
+    },
+    {
+     "surface": "sura+yoṣitaḥ",
+     "gloss": "god+women",
+     "grounds": "compound denoting celestial women",
+     "morph": "compound:sura+first,yoṣit+final;nom.pl.f"
+    }
+   ],
+   "question": "What effect does the practice have on the women of the gods?",
+   "premises": [
+    "The subjects are the women of the gods.",
+    "They become afflicted by love.",
+    "They become submissive continually."
+   ],
+   "inference": "The practice makes celestial women continually love-afflicted and submissive.",
+   "uncertainties": [],
+   "plain_english": "The women of the gods always become submissive, afflicted by love."
+  },
+  {
+   "verse": 11483,
+   "rows": [
+    {
+     "surface": "grahendirā",
+     "gloss": "planet+fortune",
+     "grounds": "compound indicating fortune associated with planets",
+     "morph": "compound:graha+first,indirā+final;nom.sg.f"
+    },
+    {
+     "surface": "sadasyā",
+     "gloss": "attending",
+     "grounds": "present and serving",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.act.opt-√as"
+    },
+    {
+     "surface": "sevane",
+     "gloss": "in-service",
+     "grounds": "context of devoted attendance",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bhakti+tatparā",
+     "gloss": "devotion+intent",
+     "grounds": "compound describing dedication to devotion",
+     "morph": "compound:bhakti+first,tatpara+final;nom.sg.f"
+    }
+   ],
+   "question": "How does planetary fortune attend the practitioner as a result of this practice?",
+   "premises": [
+    "Planetary fortune is the subject.",
+    "It becomes attending in service.",
+    "It is intent on devotion."
+   ],
+   "inference": "Planetary fortune becomes devotedly attendant in service to the practitioner.",
+   "uncertainties": [
+    "The personification of fortune as attending is figurative."
+   ],
+   "plain_english": "Planetary fortune would attend in service, intent on devotion."
+  },
+  {
+   "verse": 11484,
+   "rows": [
+    {
+     "surface": "vipatti+duḥkha+daurbhāgya+mṛtyv+ādi+rahitaḥ",
+     "gloss": "calamity+sorrow+misfortune+death+etc+devoid",
+     "grounds": "compound listing harms from which one is free",
+     "morph": "compound:vipatti+first,duḥkha+second,daurbhāgya+third,mṛtyu+fourth,ādi+fifth,rahita+final;nom.sg.m"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates permanence of the condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lasting freedom from harms is granted to the practitioner?",
+   "premises": [
+    "The verse describes a state of being devoid of certain harms.",
+    "Calamity, sorrow, misfortune, death, and similar harms are included.",
+    "This state is said to be always."
+   ],
+   "inference": "The practitioner is always free from calamity, sorrow, misfortune, death, and similar harms.",
+   "uncertainties": [],
+   "plain_english": "He is always free from calamity, sorrow, misfortune, death, and the like."
+  },
+  {
+   "verse": 11485,
+   "rows": [
+    {
+     "surface": "sampannaḥ",
+     "gloss": "endowed",
+     "grounds": "possessed of abundance",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sarva+sampatyā",
+     "gloss": "with-all+prosperity",
+     "grounds": "compound indicating complete prosperity",
+     "morph": "compound:sarva+first,sampatti+final;ins.sg.f"
+    },
+    {
+     "surface": "yaśasvī",
+     "gloss": "famous",
+     "grounds": "possessing renown",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dīrgha+jīvanaḥ",
+     "gloss": "long+living",
+     "grounds": "compound indicating long life",
+     "morph": "compound:dīrgha+first,jīvana+final;nom.sg.m"
+    }
+   ],
+   "question": "What positive attainments characterize the practitioner who gains this boon?",
+   "premises": [
+    "The practitioner is endowed with all prosperity.",
+    "The practitioner is famous.",
+    "The practitioner lives long."
+   ],
+   "inference": "The practitioner becomes prosperous in all ways, famous, and long-lived.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with all prosperity, famous, and long-lived."
+  },
+  {
+   "verse": 11486,
+   "rows": [
+    {
+     "surface": "yaj+japād",
+     "gloss": "whose+muttering",
+     "grounds": "compound referring to the muttering of this mantra",
+     "morph": "compound:yad+first,japa+final;abl.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes sufficiency of the cause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putrād+er",
+     "gloss": "son+etc",
+     "grounds": "compound indicating sons and similar offspring",
+     "morph": "compound:putra+first,ādi+final;gen.sg.m"
+    },
+    {
+     "surface": "utpattir",
+     "gloss": "birth",
+     "grounds": "arising or production of offspring",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "happens",
+     "grounds": "states the occurrence of the result",
+     "morph": "3.sg.act.pres-√bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain result arises merely from muttering this mantra?",
+   "premises": [
+    "The cause is the muttering of this mantra alone.",
+    "The result concerns the birth of a son and the like.",
+    "The verse states this happens certainly."
+   ],
+   "inference": "Muttering this mantra alone certainly brings about the birth of a son and similar offspring.",
+   "uncertainties": [],
+   "plain_english": "From the muttering of this mantra alone, the birth of a son and the like certainly comes about."
+  },
+  {
+   "verse": 11487,
+   "rows": [
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "imperative request for a boon",
+     "morph": "2.sg.act.impv-√dā"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the requested boon",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "tanayaṃ",
+     "gloss": "son",
+     "grounds": "object of the request",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "O-Krishna",
+     "grounds": "vocative address to the deity",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "tvām",
+     "gloss": "you",
+     "grounds": "deity taken as refuge",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "speaker making the plea",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "śaraṇaṃ",
+     "gloss": "refuge",
+     "grounds": "state of seeking protection",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "having taken refuge",
+     "morph": "nom.sg.m.past-part-√gam"
+    }
+   ],
+   "question": "What plea for offspring is addressed to Krishna by one seeking refuge?",
+   "premises": [
+    "The speaker addresses Krishna directly.",
+    "The speaker declares having gone to Krishna for refuge.",
+    "The speaker asks for a son."
+   ],
+   "inference": "One who has taken refuge in Krishna pleads for the gift of a son.",
+   "uncertainties": [],
+   "plain_english": "O Krishna, give me a son; I have gone to you for refuge."
+  },
+  {
+   "verse": 11488,
+   "rows": [
+    {
+     "surface": "chandonuṣṭub",
+     "gloss": "meter-anushtubh",
+     "grounds": "compound naming the metrical form",
+     "morph": "compound:chandas+first,anuṣṭubh+final;nom.sg.n"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding divine power of the mantra",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects meter and deity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "Krishna",
+     "grounds": "named deity of the mantra",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "santāna+dāyakaḥ",
+     "gloss": "progeny+giver",
+     "grounds": "compound describing Krishna as giver of offspring",
+     "morph": "compound:santāna+first,dāyaka+final;nom.sg.m"
+    }
+   ],
+   "question": "What meter and deity are assigned to the mantra that grants progeny?",
+   "premises": [
+    "The meter is identified as Anushtubh.",
+    "The deity is identified as Krishna.",
+    "Krishna is described as the giver of progeny."
+   ],
+   "inference": "The mantra uses the Anushtubh meter and has Krishna, giver of progeny, as its deity.",
+   "uncertainties": [],
+   "plain_english": "The meter is Anushtubh, and the deity is Krishna, the giver of progeny."
+  },
+  {
+   "verse": 11489,
+   "rows": [
+    {
+     "surface": "śaṅkha+cakra+dharaṃ",
+     "gloss": "conch+discus+holder",
+     "grounds": "compound describing the deity bearing conch and discus",
+     "morph": "compound:śaṅkha+first,cakra+second,dhara+final;acc.sg.m"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "the deity to be visualized",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śyāma+varṇaṃ",
+     "gloss": "dark+colored",
+     "grounds": "compound describing the deity's complexion",
+     "morph": "compound:śyāma+first,varṇa+final;acc.sg.m"
+    },
+    {
+     "surface": "catur+bhujam",
+     "gloss": "four+armed",
+     "grounds": "compound describing the deity's form",
+     "morph": "compound:catur+first,bhuja+final;acc.sg.m"
+    }
+   ],
+   "question": "What visual form of the deity is prescribed for contemplation in this mantra practice?",
+   "premises": [
+    "The deity is described as holding conch and discus.",
+    "The deity is dark-colored.",
+    "The deity is four-armed."
+   ],
+   "inference": "The deity should be contemplated as dark-colored, four-armed, and holding conch and discus.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the god as dark-colored, four-armed, and holding conch and discus."
+  },
+  {
+   "verse": 11490,
+   "rows": [
+    {
+     "surface": "samarppayantaṃ",
+     "gloss": "delivering",
+     "grounds": "present participle describing the deity's action",
+     "morph": "acc.sg.m.pres-part-caus-√ṛ"
+    },
+    {
+     "surface": "viprāya",
+     "gloss": "to-brahmin",
+     "grounds": "recipient of the restored children",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "naṣṭān",
+     "gloss": "lost",
+     "grounds": "describes the children before recovery",
+     "morph": "acc.pl.m.past-part-√naś"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "prior action of bringing back",
+     "morph": "abs-√nī"
+    },
+    {
+     "surface": "bālakān",
+     "gloss": "children",
+     "grounds": "the restored offspring",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "What restorative act of the deity is recalled in the visualization of this mantra?",
+   "premises": [
+    "The deity brings back lost children.",
+    "The children are delivered to a brahmin.",
+    "This act forms part of the deity's depiction."
+   ],
+   "inference": "The deity is visualized as bringing back lost children and delivering them to a brahmin.",
+   "uncertainties": [],
+   "plain_english": "He is seen bringing back the lost children and delivering them to the brahmin."
+  },
+  {
+   "verse": 11491,
+   "rows": [
+    {
+     "surface": "arcanā",
+     "gloss": "worship",
+     "grounds": "ritual worship procedure",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds worship to prior instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indravajrādyair",
+     "gloss": "Indra-vajra+etc",
+     "grounds": "compound indicating meters beginning with Indravajra",
+     "morph": "compound:indravajrā+first,ādi+final;ins.pl.n"
+    },
+    {
+     "surface": "uditā",
+     "gloss": "declared",
+     "grounds": "stated or taught in the tradition",
+     "morph": "nom.sg.f.past-part-√vad"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the great-souled deity or mantra",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mahātmanaḥ",
+     "gloss": "great-souled-one",
+     "grounds": "compound honoring the deity",
+     "morph": "compound:mahā+first,ātman+final;gen.sg.m"
+    }
+   ],
+   "question": "How is the worship of this great-souled deity said to be declared?",
+   "premises": [
+    "Worship is the subject.",
+    "It is declared for this great-souled one.",
+    "Meters beginning with Indravajra are mentioned."
+   ],
+   "inference": "The worship of this great-souled deity is declared using meters such as Indravajra.",
+   "uncertainties": [
+    "The precise role of the named meters in the worship is not fully specified."
+   ],
+   "plain_english": "And the worship of this great-souled one is declared with Indravajra and other meters."
+  },
+  {
+   "verse": 11492,
+   "rows": [
+    {
+     "surface": "tarppaṇ+ādi",
+     "gloss": "libation+etc",
+     "grounds": "compound indicating libation and related rites",
+     "morph": "compound:tarpaṇa+first,ādi+final;acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryyān",
+     "gloss": "should-do",
+     "grounds": "prescribed action",
+     "morph": "3.sg.act.opt-√kṛ"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula employed",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "attains efficacy or accomplishment",
+     "morph": "3.sg.act.pres-√sidh"
+    },
+    {
+     "surface": "mantriṇaḥ",
+     "gloss": "of-practitioner",
+     "grounds": "the one who employs the mantra",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "What result follows for the practitioner who performs libation and related rites?",
+   "premises": [
+    "The practitioner should perform libation and related rites.",
+    "The mantra is the means employed.",
+    "The verse states an outcome for the practitioner."
+   ],
+   "inference": "When the practitioner performs libation and related rites, the mantra succeeds for him.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform libation and the other rites; the mantra succeeds for the practitioner."
+  },
+  {
+   "verse": 11493,
+   "rows": [
+    {
+     "surface": "putrārthaṃ",
+     "gloss": "son+for-sake",
+     "grounds": "compound expressing the purpose of obtaining a son",
+     "morph": "compound:putra+first,artha+final;acc.sg.m"
+    },
+    {
+     "surface": "śāntikaṃ",
+     "gloss": "pacification",
+     "grounds": "propitiatory rite performed for the purpose",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of the pacification rite",
+     "morph": "abs-√kṛ"
+    },
+    {
+     "surface": "tatrastho",
+     "gloss": "there+staying",
+     "grounds": "compound indicating remaining in that place",
+     "morph": "compound:tatra+first,stha+final;nom.sg.m"
+    },
+    {
+     "surface": "viṣṇum",
+     "gloss": "Vishnu",
+     "grounds": "deity to be worshipped",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "arccayet",
+     "gloss": "should-worship",
+     "grounds": "prescribed act of worship",
+     "morph": "3.sg.act.opt-√arc"
+    }
+   ],
+   "question": "What worship should be performed for the sake of obtaining a son after pacification?",
+   "premises": [
+    "A pacification rite is performed for the sake of a son.",
+    "The practitioner remains in that place.",
+    "Vishnu is named as the object of worship."
+   ],
+   "inference": "After performing pacification for a son, one should remain there and worship Vishnu.",
+   "uncertainties": [],
+   "plain_english": "Having performed a pacification rite for the sake of a son, one should remain there and worship Vishnu."
+  },
+  {
+   "verse": 11494,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the practitioner who performs the worship",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "varṣāl",
+     "gloss": "within-year",
+     "grounds": "time limit for obtaining the result",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "attainment of the desired result",
+     "morph": "3.sg.mid.pres-√labh"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "the offspring obtained",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vinītaṃ",
+     "gloss": "well-behaved",
+     "grounds": "quality of the son",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "cira+jīvinam",
+     "gloss": "long+living",
+     "grounds": "compound indicating long life of the son",
+     "morph": "compound:cira+first,jīvin+final;acc.sg.m"
+    }
+   ],
+   "question": "What kind of son does the practitioner obtain within a year through this worship?",
+   "premises": [
+    "The practitioner obtains a son.",
+    "The attainment occurs within a year.",
+    "The son is described as well-behaved and long-lived."
+   ],
+   "inference": "Through this worship the practitioner obtains within a year a well-behaved, long-lived son.",
+   "uncertainties": [],
+   "plain_english": "Within a year he obtains a well-behaved, long-lived son."
+  },
+  {
+   "verse": 11495,
+   "rows": [
+    {
+     "surface": "vāsudevāya",
+     "gloss": "to-Vasudeva",
+     "grounds": "dative address forming part of the mantra",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "huṃphaṭ",
+     "gloss": "hum-phat",
+     "grounds": "mantric syllables retained as formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "ritual exclamation concluding the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃś+ārṇako",
+     "gloss": "twenty+syllabled",
+     "grounds": "compound stating the mantra's syllable count",
+     "morph": "compound:viṃśati+first,arṇaka+final;nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula being specified",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the form and syllable count of the mantra addressed to Vasudeva?",
+   "premises": [
+    "The mantra includes the address to Vasudeva.",
+    "The mantra includes the syllables hum-phat and svaha.",
+    "The mantra is described as having twenty syllables."
+   ],
+   "inference": "The mantra addressed to Vasudeva, including hum-phat and svaha, is a twenty-syllabled formula.",
+   "uncertainties": [
+    "The exact syllabic division of the full mantra is not analyzed in this verse."
+   ],
+   "plain_english": "The mantra is: to Vasudeva, hum-phat, and svaha; it is a twenty-syllabled formula."
+  },
+  {
+   "verse": 11496,
+   "rows": [
+    {
+     "surface": "nyāsa+dhyāna+japārcc+ādi",
+     "gloss": "installation+meditation+muttering+worship+etc",
+     "grounds": "compound listing ritual components",
+     "morph": "compound:nyāsa+first,dhyāna+second,japa+third,arcā+fourth,ādi+final;nom.sg.n"
+    },
+    {
+     "surface": "daśa+varṇ+okta+vad",
+     "gloss": "ten+syllable+stated+like",
+     "grounds": "compound indicating conformity with the ten-syllable mantra procedure",
+     "morph": "compound:daśa+first,varṇa+second,ukta+third,vat+final;nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescribes the manner of performance",
+     "morph": "3.sg.act.opt-√bhū"
+    }
+   ],
+   "question": "How should installation, meditation, muttering, worship, and related rites be performed for this mantra?",
+   "premises": [
+    "The verse refers to installation, meditation, muttering, worship, and related rites.",
+    "A comparison is made to what was stated for the ten-syllable mantra.",
+    "The verse prescribes following that model."
+   ],
+   "inference": "The rites of installation, meditation, muttering, worship, and so on should be performed as stated for the ten-syllable mantra.",
+   "uncertainties": [],
+   "plain_english": "Installation, meditation, muttering, worship, and the rest should be done as stated for the ten-syllable mantra."
+  },
+  {
+   "verse": 11497,
+   "rows": [
+    {
+     "surface": "kamabīj+ātmako",
+     "gloss": "kama-seed+natured",
+     "grounds": "compound describing the mantra as having the kama-bija as its essence",
+     "morph": "compound:kāmabīja+first,ātmaka+final;nom.sg.m"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "the sacred formula being identified",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "munir",
+     "gloss": "sage",
+     "grounds": "seer associated with the mantra",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mohana+nāradaḥ",
+     "gloss": "enchanting+Narada",
+     "grounds": "compound naming Narada in an enchanting aspect as the sage",
+     "morph": "compound:mohana+first,nārada+final;nom.sg.m"
+    }
+   ],
+   "question": "What is the essential nature and sage of the mantra identified here?",
+   "premises": [
+    "The mantra is described as having the kama-bija as its nature.",
+    "A sage is assigned to the mantra.",
+    "The sage is named as enchanting Narada."
+   ],
+   "inference": "This mantra is kama-bija in nature and has enchanting Narada as its sage.",
+   "uncertainties": [],
+   "plain_english": "The mantra is of the nature of the kama-seed, and its sage is enchanting Narada."
+  },
+  {
+   "verse": 11498,
+   "rows": [
+    {
+     "surface": "ṣaḍ+dīrgha+bhājā",
+     "gloss": "six+long+endowed",
+     "grounds": "compound describing the seed endowed with six long vowels",
+     "morph": "compound:ṣaṣ+first,dīrgha+second,bhāj+final;ins.sg.n"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed",
+     "grounds": "the seed syllable used in the rite",
+     "morph": "ins.sg.n"
+    },
+    {
+     "surface": "ṣaḍ+aṃgāni",
+     "gloss": "six+limbs",
+     "grounds": "compound referring to the six ritual limbs",
+     "morph": "compound:ṣaṣ+first,aṅga+final;acc.pl.n"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-form",
+     "grounds": "prescribes formation of the six limbs",
+     "morph": "3.sg.act.opt-√kḷp"
+    }
+   ],
+   "question": "How should the six ritual limbs be formed using the seed in this practice?",
+   "premises": [
+    "The seed is endowed with six long vowels.",
+    "Six ritual limbs are to be formed.",
+    "The verse prescribes using that seed for their formation."
+   ],
+   "inference": "One should form the six ritual limbs using the seed endowed with six long vowels.",
+   "uncertainties": [],
+   "plain_english": "One should form the six limbs with the seed endowed with six long vowels."
+  },
+  {
+   "verse": 11499,
+   "rows": [
+    {
+     "surface": "aṃgulīṣu",
+     "gloss": "on-fingers",
+     "grounds": "location for placement",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "nyased",
+     "gloss": "should-place",
+     "grounds": "prescribed act of ritual placement",
+     "morph": "3.sg.act.opt-√nyas"
+    },
+    {
+     "surface": "aṃgaṃ",
+     "gloss": "limb",
+     "grounds": "ritual limb to be placed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hastayos",
+     "gloss": "on-two-hands",
+     "grounds": "location on both hands",
+     "morph": "loc.du.m"
+    },
+    {
+     "surface": "talayor",
+     "gloss": "on-palms",
+     "grounds": "location on both palms",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extends placement to the palms as well",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the ritual limb be placed during this installation procedure?",
+   "premises": [
+    "The verse prescribes placing a limb.",
+    "The fingers are named as a location.",
+    "Both hands and the palms are also named."
+   ],
+   "inference": "The ritual limb should be placed on the fingers and also on the palms of both hands.",
+   "uncertainties": [],
+   "plain_english": "One should place the limb on the fingers and also on the palms of both hands."
+  }
+ ]
+}

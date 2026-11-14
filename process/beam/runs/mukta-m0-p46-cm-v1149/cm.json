@@ -3,29 +3,44 @@
  "verse": 1149,
  "rows": [
   {
-   "lemma": "tena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental pronoun"
+   "lemma": "vāma",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "ācaraṇavāsinyo",
-   "morph": "f.nom.pl",
-   "grounds": "compound adjective"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "vārāhyāḥ",
-   "morph": "f.gen.pl",
-   "grounds": "genitive noun"
+   "lemma": "līlā",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "kamalayā",
+   "morph": "f.ins.sg",
+   "grounds": "attribute held in left hand"
+  },
+  {
+   "lemma": "āliṅgaṃtyā",
+   "morph": "f.ins.sg (pres.part. ā-√liṅg)",
+   "grounds": "action of śakti"
+  },
+  {
+   "lemma": "dakṣiṇena",
+   "morph": "n.ins.sg",
+   "grounds": "side or hand involved"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "prapūjayet",
-   "morph": "3.sg.act-opt + root pūj",
-   "grounds": "verb of worship"
+   "grounds": "connective particle"
   }
  ]
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p460",
+ "items": [
+  {
+   "verse": 11500,
+   "rows": [
+    {
+     "surface": "bīja+sampuṭitān",
+     "gloss": "seed-enclosed",
+     "grounds": "compound adjective qualifying mātṛk+ārṇān; bīja = seed-syllable, sampuṭita = enclosed",
+     "morph": "compound.adj.acc.pl.m"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive participle expressing prior action",
+     "morph": "gerund.(ni-√as)"
+    },
+    {
+     "surface": "mātṛk+ārṇān",
+     "gloss": "mother-syllables",
+     "grounds": "compound object of placement; mātṛkā = mother-syllable series, arṇa = syllable",
+     "morph": "compound.n.acc.pl.m"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "afterwards",
+     "grounds": "indeclinable indicating sequence following the previous placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the mātṛkā syllables be ritually placed following the limb-nyāsa?",
+   "premises": [
+    "The mātṛkā syllables are the objects to be placed.",
+    "These syllables are enclosed by the seed syllable.",
+    "Their placement occurs immediately after the preceding act."
+   ],
+   "inference": "The mātṛkā syllables are to be installed in sequence, each framed by the seed syllable.",
+   "uncertainties": [
+    "The specific seed syllable intended is supplied by the preceding context rather than named in this verse."
+   ],
+   "plain_english": "After that, having placed them, one should place the syllables of the mātṛkā enclosed by the seed syllable."
+  }
+ ]
+}

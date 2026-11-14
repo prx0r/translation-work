@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[brahman](brahma) [offering](arpaṇam) [let-be](astu) [utterance](vākyaṃ) [drinking](pāna) [and-eating](bhojana) [of-actions](karmaṇoḥ)
+[brahma+arpaṇam](brahmārpaṇam) [be](astu) [statement](vākyaṃ) [drinking+eating+actions-of](pānabhojanakarmaṇoḥ)
 
 ## mukta-m0-p15-v352
-[that](tat) [indeed](eva) [to-be-done](kāryaṃ) [by-knowers-of-brahman](brahmajñaiḥ) [this](idaṃ) [duty](dharmaṃ) [eternal](sanātanam)
+[that](tat) [indeed](eva) [to-be-done](kāryaṃ) [by-brahman-knowers](brahmajñaiḥ) [this](idaṃ) [dharma](dharmaṃ) [eternal](sanātanam)
 
 ## mukta-m0-p15-v353
 [thus](eva) [rule](vidhiḥ) [of-this](asya) [brahman-established-one](brahmaniṣṭhasya)
 
 ## mukta-m0-p15-v354
-[of-mother](mātā) [and-father](pitroḥ)
+[of-mother+father](mātāpitroḥ)
 
 ## mukta-m0-p15-v355
-[which](yāṃ) [having-done](kṛtvā) [brahman-attainment](brahma) [attainment](sampattiṃ) [obtain](labhante) [on-earth](bhuvi) [humans](mānavāḥ)
+[which](yāṃ) [having-done](kṛtvā) [brahman+attainment](brahmasampattiṃ) [obtain](labhante) [on-earth](bhuvi) [humans](mānavāḥ)
 
 ## mukta-m0-p15-v356
-[as-before](pūrvavat) [supreme-brahman](parama) [brahman](brahma) [having-meditated](dhyātvā) [best-of-practitioners](sādhaka) [best](sattamaḥ)
+[as-before](pūrvavat) [supreme+brahman](paramabrahma) [having-meditated](dhyātvā) [practitioner+best](sādhakasattamaḥ)
 
 ## mukta-m0-p15-v357
 [recitation](japaṃ) [having-offered](samarpya) [according-to-rule](vidhivat) [as-before](pūrvavat) [should-bow](praṇamet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p15-v358
-[by-whose-performance](yad) [performance](anuṣṭhānataḥ) [mantrin](mantrī) [pure](śuddha) [inner-organ](antaḥkaraṇaḥ) [may-become](bhavet)
+[by-whose+performance](yadanuṣṭhānato) [mantra-practitioner](mantrī) [pure+inner-organ](śuddhāntaḥkaraṇo) [may-become](bhavet)
 
 ## mukta-m0-p15-v359
-[supreme-lord](parameśvaraṃ) [ṅe-ending](ṅe'ntam) [having-uttered](uktvā) [we-know](vidmahe) [after-that](tadanantaram)
+[supreme-lord](parameśvaraṃ) [ṅe+ending](ṅe'ntam) [having-said](uktvā) [we-know](vidmahe) [after-that](tadanantaram)
 
 ## mukta-m0-p15-v360
-[this](iyaṃ) [glorious](śrī) [brahman-gāyatrī](brahma) [gāyatrī](gāyatrī) [four-goals](catur) [giver](varga) [giver](pradāyinī)
+[this](iyaṃ) [auspicious+brahma+gāyatrī](śrībrahmagāyatrī) [four+goals+bestowing](caturvargapradāyinī)
 
 ## mukta-m0-p15-v361
-[whatever](yadyat) [action](karma) [one-may-perform](prakurvīta) [with-brahman-mantra](brahma) [mantra](mantreṇa) [one-should-accomplish](sādhayet)
+[whatever+action](yadyatkarma) [one-may-perform](prakurvīta) [with-brahma+mantra](brahmamantreṇa) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p15-v362
-[as-before](pūrvavat) [should-bow](praṇamet) [to-brahman](brahma) [morning](prātaḥ) [duty](kṛtyam) [this](idaṃ) [is-remembered](smṛtam)
+[as-before](pūrvavat) [should-bow](praṇamed) [to-brahman](brahma) [morning+duty](prātaḥkṛtyam) [this](idaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p15-v363
-[by-its-tenth-part](tat) [tenth-part](daśāṃśena) [oblation](havanaṃ) [libation](tarpaṇaṃ) [by-its-tenth-part](tat) [tenth-part](daśāṃśataḥ)
+[by-its+tenth-part](taddaśāṃśena) [fire-offering](havanaṃ) [libation](tarpaṇaṃ) [by-its+tenth-part](taddaśāṃśataḥ)
 
 ## mukta-m0-p15-v364
-[brāhmaṇas](brāhmaṇān) [should-feed](bhojayet) [mantrin](mantrī) [in-preliminary-rite](puraścaraṇa) [action](karmaṇi)
+[brahmins](brāhmaṇān) [should-feed](bhojayet) [mantra-practitioner](mantrī) [in-preliminary-rite+action](puraścaraṇakarmaṇi)
 
 ## mukta-m0-p15-v365
-[not](na) [time](kāla) [purity](śuddhi) [rule](niyamaḥ) [nor](na) [or](vā) [place](sthāna) [determination](nirūpaṇam)
+[not](na) [time+purity+rule](kālaśuddhiniyamo) [not](na) [or](vā) [place+determination](sthānanirūpaṇam)
 
 ## mukta-m0-p15-v366
-[beginning-with-brahma](brahma) [etc.](iti) [beginning](ādi) [mantra](mantram)
+[brahma+beginning+mantra](brahmetyādimantram)
 
 ## mukta-m0-p15-v367
-[one-should-accomplish](sādhayet) [supreme](paramaṃ) [mantra](mantraṃ) [by-own-will](sva) [conduct](icchā) [conduct](ācāreṇa) [practitioner](sādhakaḥ)
+[one-should-practice](sādhayet) [supreme](paramaṃ) [mantra](mantraṃ) [by-own-will+conduct](svecchācāreṇa) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p15-v368
-[without](vinā) [nyāsa](nyāsaṃ) [without](vinā) [mudrā](mudrāṃ) [without](vinā) [setu](setuṃ) [o-fair-faced-one](vara) [faced-one](ānane)
+[without](vinā) [nyāsa](nyāsaṃ) [without](vinā) [mudrā](mudrāṃ) [without](vinā) [setu](setuṃ) [o-fair-faced-one](varānane)
 
 ## mukta-m0-p15-v369
-[suddenly](akasmāt) [supreme-brahman](parama) [brahman](brahma) [direct-realization](sākṣātkāraḥ) [may-be](bhavet) [certainly](dhruvam)
+[suddenly](akasmāt) [supreme+brahman+realization](paramabrahmasākṣātkāro) [may-be](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p15-v370
-[in-practice](sādhane) [of-brahman-mantra](brahma) [mantra](mantrasya) [mental](bhāva) [purity](śuddhiḥ) [is-prescribed](vidhīyate)
+[in-practice](sādhane) [of-brahma+mantra](brahmamantrasya) [disposition+purity](bhāvaśuddhiḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p15-v371
-[of-great-mantra](mahā) [mantra](manoḥ) [in-practice](sādhane) [but](tu) [deficiency](vyaṅgaṃ) [with-limbs](sa) [limbed](aṅgāyate) [certainly](dhruvam)
+[of-great+mantra](mahāmanoḥ) [in-practice](sādhane) [but](tu) [deficiency](vyaṅgaṃ) [with-limbs](sāṅgāyate) [certainly](dhruvam)
 
 ## mukta-m0-p15-v372
-[deliverance](nistāra) [seed](bījam) [this-much](etāvat) [of-brahman-mantra](brahma) [mantra](mantrasya) [practice](sādhanam)
+[deliverance+seed](nistārabījam) [this-much](etāvat) [of-brahma+mantra](brahmamantrasya) [practice](sādhanam)
 
 ## mukta-m0-p15-v373
-[in-kali-age](kalau) [of-weak](durbala) [beings](jīvānām) [unaccomplishable](asādhyāni) [o-great-goddess](mahā) [goddess](īśvari)
+[in-kali-age](kalau) [of-weak+beings](durbalajīvānām) [unaccomplishable](asādhyāni) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p15-v374
-[transgression](pratyavāyaḥ) [not](na) [may-be](bhavet) [deficiency](vyaṅgam) [limb](aṅga) [devoid](hīnam) [even](api)
+[transgression](pratyavāyo) [not](na) [may-be](bhavet) [deficiency](vyaṅgam) [limb+devoid](aṅgahīnam) [even](api)
 
 ## mukta-m0-p15-v375
 [even-if](yadyapi) [nevertheless](tathāpi) [thus](iti) [to-be-supplied](adhyāhāryam)

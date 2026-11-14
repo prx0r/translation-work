@@ -3,34 +3,29 @@
  "verse": 1128,
  "rows": [
   {
-   "lemma": "damanotsave",
-   "morph": "loc.sg.m",
-   "grounds": "locative context"
+   "lemma": "lokānāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "beneficiaries of the request"
   },
   {
-   "lemma": "ca",
+   "lemma": "yācitaṃ",
+   "morph": "n.nom.sg (ppp. √yāc)",
+   "grounds": "action done on behalf of others"
+  },
+  {
+   "lemma": "deva",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "nāmataḥ",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "śravaṇyāṃ",
-   "morph": "loc.sg.f",
-   "grounds": "locative context"
-  },
-  {
-   "lemma": "grahaṇaṃ",
-   "morph": "nom.sg.n",
-   "grounds": "subject noun"
-  },
-  {
-   "lemma": "yadi",
-   "morph": "(indecl.)",
-   "grounds": "conditional"
-  },
-  {
-   "lemma": "jāyate",
-   "morph": "3.sg.act-pres+jan",
-   "grounds": "verb predicate"
+   "grounds": "manner of invocation"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[body](tanuḥ) [your](tava) [thus](iti) [ellipsis](śeṣaḥ)
+[body](tanuḥ) [your](tava) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p19-v452
-[formless](nirākārā) [even](api) [having-form](sākārā) [who](kaḥ) [you](tvāṃ) [to-know](veditum) [is-able](arhati)
+[formless](nirākārā) + [even](api) [with-form](sākārā) [who](kaḥ) + [you](tvāṃ) [to-know](veditum) + [is-able](arhati)
 
 ## mukta-m0-p19-v453
-[of-demons](dānavānāṃ) [for-destruction](vināśāya) [you-assume](dhatse) [various](nānāvidhāḥ) [bodies](tanūḥ)
+[of-demons](dānavānāṃ) [for-destruction](vināśāya) [you-assume](dhatse) [various](nānā) + [kinds](vidhāḥ) + [bodies](tanūḥ)
 
 ## mukta-m0-p19-v454
-[you](tvam) [alone](eva) [for-protection-of-universe](viśva+rakṣā+artham) [bearing-various-weapons-and-missiles](nānā+śastra+astra+dhāriṇī)
+[you](tvam) + [alone](eva) [for-world](viśva) + [protection](rakṣā) + [sake](arthaṃ) [various](nānā) + [weapons](śastra) + [missiles](astra) + [bearing](dhāriṇī)
 
 ## mukta-m0-p19-v455
-[declared](kathitam) [in-all-tantras](sarva+tantreṣu) [states](bhāvāḥ) [and](ca) [declared](kathitāḥ) [three](trayaḥ)
+[stated](kathitaṃ) [in-all](sarva) + [tantras](tantreṣu) [states](bhāvāḥ) + [and](ca) [stated](kathitāḥ) + [three](trayaḥ)
 
 ## mukta-m0-p19-v456
-[of-heroic-practice](vīra+sādhana) [actions](karmāṇi) [perceptible](pratyakṣāṇi) [in-kali-age](kalau) [age](yuge)
+[hero](vīra) + [practice](sādhana) + [acts](karmāṇi) [evident](pratyakṣāṇi) [in-kali](kalau) [age](yuge)
 
 ## mukta-m0-p19-v457
-[therefore](tasmāt) [with-all-effort](sarva+prayatnena) [one-should-practice](sādhayet) [kula-practice](kula+sādhanam)
+[therefore](tasmāt) [with-all](sarva) + [effort](prayatnena) [one-should-practice](sādhayet) [kula](kula) + [practice](sādhanam)
 
 ## mukta-m0-p19-v458
-[endowed-with-knowledge-of-brahman](brahma+jñāna+yutaḥ) [mortal](martyaḥ) [liberated-while-living](jīvan+muktaḥ) [no](na) [doubt](saṃśayaḥ)
+[brahman](brahma) + [knowledge](jñāna) + [endowed](yutaḥ) [mortal](martyaḥ) [living](jīvan) + [liberated](muktaḥ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p19-v459
-[is](bhavati) [not](na) [anyone](kaḥ) [even](api) [thus](iti) [meaning](arthaḥ)
+[is](bhavati) [not](na) [anyone](kaḥ) + [even](api) + [thus](iti) + [meaning](arthaḥ)
 
 ## mukta-m0-p19-v460
-[various](nānāvidhāḥ) [body](tanūḥ) [indeed](eva) [showing](darśayan) [says](āha) [four-armed](caturbhuja) [etcetera](ityādi) [17](|| 17)
+[various](nānā) + [kinds](vidhāḥ) + [bodies](tanūḥ) + [indeed](eva) [showing](darśayan) + [says](āha) [four-armed](caturbhuja) + [thus](iti) + [etcetera](ādi)
 
 ## mukta-m0-p19-v461
-[in-knowledge-of-brahman](brahma+jñāne) [having-arisen](samutpanne) [pure-and-impure](medhya+amedhyam) [not](na) [is-known](vidyate)
+[in-brahman](brahma) + [knowledge](jñāne) [having-arisen](samutpanne) [pure](medhya) + [impure](amedhyaṃ) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p19-v462
-[what](kim) [is](asti) [impure](amedhyam) [before-him](tasya) [before](agre) [all](sarvam) [brahman](brahma) [thus](iti) [knowing](jānataḥ)
+[what](kim) + [is](asti) + [impure](amedhyaṃ) [of-him](tasya) + [before](agre) [all](sarvaṃ) [brahman](brahma) + [thus](iti) [knowing](jānataḥ)
 
 ## mukta-m0-p19-v463
-[being-satisfied](tuṣṭāyām) [you](tvayi) [o-goddess](deveśi) [of-all](sarveṣām) [satisfaction](toṣaṇam) [would-be](bhavet)
+[being-satisfied](tuṣṭāyāṃ) [you](tvayi) [o-goddess](deveśi) [of-all](sarveṣāṃ) [satisfaction](toṣaṇaṃ) [would-be](bhavet)
 
 ## mukta-m0-p19-v464
-[from-you](tvattaḥ) [born](jātam) [world](jagat) [all](sarvam) [by-desire-to-create-supreme-brahman](para+brahma+sisṛkṣayā)
+[from-you](tvattaḥ) [born](jātaṃ) [world](jagat) [all](sarvaṃ) [with-supreme](para) + [brahman](brahma) + [desire-to-create](sisṛkṣayā)
 
 ## mukta-m0-p19-v465
-[mere-instrumental-cause](nimitta+mātram) [that](tat) [brahman](brahma) [cause-of-all-causes](sarva+kāraṇa+kāraṇam)
+[instrumental-cause](nimitta) + [mere](mātraṃ) [that](tat) + [brahman](brahma) [of-all](sarva) + [causes](kāraṇa) + [cause](kāraṇam)
 
 ## mukta-m0-p19-v466
-[ever-of-one-form](sadā+eka+rūpam) [pure-consciousness](cit+mātram) [unstained](nirliptam) [in-all-things](sarva+vastuṣu)
+[always](sadā) + [one](eka) + [form](rūpaṃ) [consciousness](cit) + [mere](mātraṃ) [unstained](nirliptaṃ) [in-all](sarva) + [things](vastuṣu)
 
 ## mukta-m0-p19-v467
-[truth](satyam) [knowledge](jñānam) [without-beginning-or-end](anādi+antam) [beyond-speech-and-mind](avāk+manasa+gocaram)
+[truth](satyaṃ) [knowledge](jñānam) + [without-beginning](anādi) + [end](antam) + [beyond-speech](avāk) + [mind](manasa) + [scope](gocaram)
 
 ## mukta-m0-p19-v468
-[because-of-absence-of-form](ākṛti+śūnyatvāt) [of-speech-and-mind](vāk+manasayoḥ) [also](api) [not-being-an-object](aviṣaya+bhūtam)
+[form](ākṛti) + [absence](śūnyatvāt) [of-speech](vāk) + [mind](manasayoḥ) + [also](api) + [not-object](aviṣaya) + [being](bhūtam)
 
 ## mukta-m0-p19-v469
-[cause](kāraṇam) [being-instrumental](nimitta+bhūtam)
+[cause](kāraṇaṃ) [instrumental](nimitta) + [being](bhūtam)
 
 ## mukta-m0-p19-v470
-[you-make](karoṣi) [you-protect](pāsi) [you-destroy](haṃsi) [in-the-end](ante) [this](etat) [world](jagat) [moving-and-unmoving](cara+acaram)
+[you-make](karoṣi) [you-protect](pāsi) [you-destroy](haṃsi) + [in-the-end](ante) [world](jagat) + [this](etat) + [moving](cara) + [unmoving](acaram)
 
 ## mukta-m0-p19-v471
-[at-time-of-great-dissolution](mahā+saṃhāra+samaye) [time](kālaḥ) [all](sarvam) [will-devour](grasiṣyati)
+[at-great](mahā) + [dissolution](saṃhāra) + [time](samaye) [time](kālaḥ) [all](sarvaṃ) [will-devour](grasiṣyati)
 
 ## mukta-m0-p19-v472
-[by-dissolving-great-time](mahā+kālasya) [by-dissolving](kalanāt) [you](tvam) [primordial](ādyā) [kali](kālikā) [supreme](parā)
+[of-great-time](mahākālasya) [by-dissolving](kalanāt) [you](tvam) + [primordial](ādyā) [kālikā](kālikā) [supreme](parā)
 
 ## mukta-m0-p19-v473
-[because-of-being-time](kālatvāt) [because-of-being-primordial](ādi+bhūtatvāt) [primordial](ādyā) [kali](kālī) [thus](iti) [is-sung](gīyate)
+[by-being-time](kālatvāt) + [by-being-primal](ādibhūtatvāt) + [primordial](ādyā) [kālī](kālī) + [thus](iti) [is-sung](gīyate)
 
 ## mukta-m0-p19-v474
-[beyond-speech](vācā+atītam) [accessible-to-mind](manaḥ+gamyam) [you](tvam) [alone](ekā) [indeed](eva) [will-remain](avaśiṣyase)
+[beyond-speech](vācā) + [transcending](atītaṃ) [to-mind](manaḥ) + [accessible](gamyaṃ) [you](tvam) + [one](ekā) + [alone](eva) + [will-remain](avaśiṣyase)
 
 ## mukta-m0-p19-v475
-[you](tvam) [origin-of-all](sarva+ādiḥ) [without-beginning](anādiḥ) [you](tvam) [creatrix](kartrī) [destroyer](hartrī) [and](ca) [protectress](pālikā)
+[you](tvaṃ) [of-all](sarva) + [beginning](ādiḥ) + [without-beginning](anādiḥ) + [you](tvaṃ) [creatrix](kartrī) [destroyer](hartrī) [and](ca) [protectress](pālikā)

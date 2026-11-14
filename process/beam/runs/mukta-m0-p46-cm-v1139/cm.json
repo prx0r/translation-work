@@ -3,34 +3,64 @@
  "verse": 1139,
  "rows": [
   {
-   "lemma": "jyotīrūpān",
-   "morph": "m.acc.pl",
-   "grounds": "compound adjective"
+   "lemma": "tat",
+   "morph": "compound-member",
+   "grounds": "demonstrative qualifier"
   },
   {
-   "lemma": "ca",
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "śāstra",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "adhyayanaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "act of learning"
+  },
+  {
+   "lemma": "samyak",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "manner of doing"
   },
   {
-   "lemma": "yoginyāṃ",
-   "morph": "f.loc.sg",
-   "grounds": "locative noun"
+   "lemma": "kṛtvā",
+   "morph": "abs. (√kṛ)",
+   "grounds": "prior action"
   },
   {
-   "lemma": "svayambhū",
-   "morph": "m.nom.sg",
-   "grounds": "compound adjective"
+   "lemma": "mantra",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "vācakaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "participle adjective"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "param",
-   "morph": "n.nom.sg",
-   "grounds": "adjective"
+   "lemma": "artha",
+   "morph": "compound-member",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "bhājanam",
+   "morph": "n.acc.sg",
+   "grounds": "resulting understanding"
   }
  ]
 }

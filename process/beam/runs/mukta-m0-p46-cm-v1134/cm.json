@@ -3,19 +3,39 @@
  "verse": 1134,
  "rows": [
   {
-   "lemma": "mārjanaṃ",
-   "morph": "nom.sg.n",
-   "grounds": "remedy noun"
+   "lemma": "sāttvikāt",
+   "morph": "n.abl.sg",
+   "grounds": "source condition"
   },
   {
-   "lemma": "taddaśāṃśena",
-   "morph": "inst.sg.m",
-   "grounds": "instrumental measure"
+   "lemma": "tāmasāt",
+   "morph": "n.abl.sg",
+   "grounds": "source condition"
   },
   {
-   "lemma": "daśāṃśenābhiṣecanam",
-   "morph": "nom.sg.n",
-   "grounds": "compound remedy"
+   "lemma": "deva",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "yonitvaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "resulting birth condition"
+  },
+  {
+   "lemma": "prāpnuyāt",
+   "morph": "3.sg.opt.act (pra-√āp)",
+   "grounds": "potential attainment"
+  },
+  {
+   "lemma": "naraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject attaining result"
   }
  ]
 }

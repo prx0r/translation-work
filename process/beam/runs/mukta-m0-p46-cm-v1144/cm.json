@@ -3,34 +3,39 @@
  "verse": 1144,
  "rows": [
   {
-   "lemma": "ūrddhvam",
+   "lemma": "nivedya",
+   "morph": "abs. (ni-√vid, caus.)",
+   "grounds": "prior ritual act"
+  },
+  {
+   "lemma": "atha",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "sequence marker"
   },
   {
-   "lemma": "tu",
+   "lemma": "dadyāt",
+   "morph": "3.sg.opt.act (√dā)",
+   "grounds": "prescribed offering"
+  },
+  {
+   "lemma": "vai",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "trivṛtaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "adjective"
+   "lemma": "danta",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kāryaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "gerundive"
+   "lemma": "+",
+   "morph": "compound-marker",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "tantutrayam",
-   "morph": "n.nom.sg",
-   "grounds": "compound noun"
-  },
-  {
-   "lemma": "adhovṛtam",
-   "morph": "n.nom.sg",
-   "grounds": "compound adjective"
+   "lemma": "dhāvanam",
+   "morph": "n.acc.sg",
+   "grounds": "object to be given"
   }
  ]
 }
