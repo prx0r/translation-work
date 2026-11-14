@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p235",
+ "items": [
+  {
+   "verse": 5875,
+   "rows": [
+    {
+     "surface": "kṛttivāso'nvitā",
+     "gloss": "hide-garment-accompanied",
+     "grounds": "Fused form kṛttivāsas + anvitā; describes attendants as accompanied by or clad in a hide garment.",
+     "morph": "compound: kṛttivāsas+anvita, m.nom.pl"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "Fused indeclinable vā + atha presenting an alternative.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍarūpadharāstu",
+     "gloss": "fierce-form-bearers-but",
+     "grounds": "Fused form caṇḍa-rūpa-dharāḥ + tu; describes attendants as bearing fierce forms.",
+     "morph": "compound: caṇḍa+rūpa+dhara, m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "Indeclinable particle presenting a further alternative.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative appearances may the described attendants manifest?",
+   "premises": [
+    "The attendants may be accompanied by a hide garment.",
+    "Alternatively, the attendants may bear fierce forms.",
+    "These descriptions are presented as alternative possibilities."
+   ],
+   "inference": "The attendants' appearance admits alternative characterizations, either as hide-garment-accompanied or as bearers of fierce forms.",
+   "uncertainties": [
+    "The exact number and gender resolution of kṛttivāso'nvitā is inferred from the preceding masculine plural context."
+   ],
+   "plain_english": "They may be clad in a hide garment, or else they may bear fierce forms."
+  }
+ ]
+}

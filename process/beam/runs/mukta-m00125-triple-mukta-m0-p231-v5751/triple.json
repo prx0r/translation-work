@@ -1,0 +1,967 @@
+{
+ "song": "mukta-m0-p231",
+ "items": [
+  {
+   "verse": 5751,
+   "rows": [
+    {
+     "surface": "varadā",
+     "gloss": "boon-giving",
+     "grounds": "first member of compound describing hand gesture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhaya",
+     "gloss": "fearlessness",
+     "grounds": "second member of compound describing hand gesture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktāḥ",
+     "gloss": "endowed-with",
+     "grounds": "describes figures joined with gestures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "khaḍga",
+     "gloss": "sword",
+     "grounds": "first member of compound naming weapon",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kheṭa",
+     "gloss": "shield",
+     "grounds": "second member of compound naming weapon",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitāḥ",
+     "gloss": "provided-with",
+     "grounds": "describes figures equipped with sword and shield",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which hand gestures and weapons characterize these attendant figures?",
+   "premises": [
+    "The figures are endowed with boon-giving and fearlessness gestures.",
+    "The figures are provided with sword and shield."
+   ],
+   "inference": "These attendant figures display boon-giving and fearlessness gestures while holding a sword and shield.",
+   "uncertainties": [],
+   "plain_english": "They are endowed with the boon-giving and fearlessness gestures, and are equipped with a sword and shield."
+  },
+  {
+   "verse": 5752,
+   "rows": [
+    {
+     "surface": "bhīmarūpāssuśāntā",
+     "gloss": "terrible-form-or-very-peaceful",
+     "grounds": "fused form giving alternative appearances",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddha keśāstu",
+     "gloss": "bound-hair-but",
+     "grounds": "fused form with particle indicating another alternative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "regarded",
+     "grounds": "states accepted options",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What alternative appearances and hairstyles are accepted for these figures?",
+   "premises": [
+    "The figures may be of terrible form or very peaceful.",
+    "The figures may alternatively be regarded as having bound hair."
+   ],
+   "inference": "Accepted depictions allow either a terrible or very peaceful form, or a form with bound hair.",
+   "uncertainties": [],
+   "plain_english": "They may be regarded as having a terrible form or a very peaceful one, or as having their hair bound up."
+  },
+  {
+   "verse": 5753,
+   "rows": [
+    {
+     "surface": "vaktramaṇḍī",
+     "gloss": "face-circled",
+     "grounds": "epithet describing a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakārī",
+     "gloss": "śakārī",
+     "grounds": "name of a deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects named deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśāntā",
+     "gloss": "niśāntā",
+     "grounds": "name of a deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "meṣadevatā",
+     "gloss": "ram-deity",
+     "grounds": "identifies the deity associated with the ram",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities are identified in this part of the arrangement?",
+   "premises": [
+    "Vaktramaṇḍī and Śakārī are named.",
+    "Niśāntā is identified as the ram deity."
+   ],
+   "inference": "The arrangement includes Vaktramaṇḍī, Śakārī, and Niśāntā as the ram deity.",
+   "uncertainties": [],
+   "plain_english": "There are Vaktramaṇḍī, Śakārī, and Niśāntā, the deity of the ram."
+  },
+  {
+   "verse": 5754,
+   "rows": [
+    {
+     "surface": "skando",
+     "gloss": "skanda",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayūra vāhassyāt",
+     "gloss": "peacock-vehicle-should-be",
+     "grounds": "fused form stating his mount",
+     "morph": "m.nom.sg + 3.sg.opt-√as"
+    },
+    {
+     "surface": "senānī",
+     "gloss": "army-leader",
+     "grounds": "epithet of Skanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktihastavān",
+     "gloss": "spear-in-hand-possessing",
+     "grounds": "describes Skanda holding a spear",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mount, role, and weapon define Skanda in this description?",
+   "premises": [
+    "Skanda should have the peacock as his vehicle.",
+    "Skanda is the army leader holding a spear in his hand."
+   ],
+   "inference": "Skanda is defined as the peacock-riding army leader who holds a spear.",
+   "uncertainties": [],
+   "plain_english": "Skanda should have a peacock as his vehicle; he is the army leader and holds a spear in his hand."
+  },
+  {
+   "verse": 5755,
+   "rows": [
+    {
+     "surface": "vajra",
+     "gloss": "thunderbolt",
+     "grounds": "first member of compound naming held objects",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "padmadharāssarve",
+     "gloss": "lotus-holders-all",
+     "grounds": "fused form stating all hold thunderbolt and lotus",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "skandoktākṣara",
+     "gloss": "skanda-spoken-syllable",
+     "grounds": "compound referring to syllables stated for Skanda",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutāḥ",
+     "gloss": "joined-with",
+     "grounds": "indicates association with those syllables",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What attributes and syllabic association are assigned to all these figures?",
+   "premises": [
+    "All the figures hold a thunderbolt and a lotus.",
+    "All are joined with the syllables spoken for Skanda."
+   ],
+   "inference": "Every figure in this group bears thunderbolt and lotus and is associated with Skanda's syllables.",
+   "uncertainties": [],
+   "plain_english": "All of them hold a thunderbolt and a lotus, and are joined with the syllables prescribed for Skanda."
+  },
+  {
+   "verse": 5756,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "refers to the previously mentioned figures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an option in placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "indicates surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpyāḥ",
+     "gloss": "to-be-installed",
+     "grounds": "prescribes installation",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "specifies sequential arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "indicates starting direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yogataḥ",
+     "gloss": "by-arrangement",
+     "grounds": "specifies placement according to arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should these figures be installed around the designated area?",
+   "premises": [
+    "These figures are to be installed all around.",
+    "Their placement should proceed in order beginning with the east."
+   ],
+   "inference": "The figures should be installed around the area in sequence starting from the east.",
+   "uncertainties": [],
+   "plain_english": "These may be installed all around in due order, arranged beginning from the east."
+  },
+  {
+   "verse": 5757,
+   "rows": [
+    {
+     "surface": "vighneśaṃ",
+     "gloss": "vighneśa",
+     "grounds": "name of deity to be installed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣetrapaṃ",
+     "gloss": "kṣetrapa",
+     "grounds": "name of guardian deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhānuṃ",
+     "gloss": "sun",
+     "grounds": "name of solar deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahāpīṭhaṃ",
+     "gloss": "great-seat",
+     "grounds": "object or locus to be arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt-√kḷp"
+    }
+   ],
+   "question": "Which deities and sacred seat should be arranged in this context?",
+   "premises": [
+    "Vighneśa, Kṣetrapa, and Bhānu are to be arranged.",
+    "The great seat should also be arranged."
+   ],
+   "inference": "One should arrange Vighneśa, Kṣetrapa, Bhānu, and the great seat.",
+   "uncertainties": [],
+   "plain_english": "One should arrange Vighneśa, Kṣetrapa, Bhānu, and the great seat."
+  },
+  {
+   "verse": 5758,
+   "rows": [
+    {
+     "surface": "balipīṭha",
+     "gloss": "offering-seat",
+     "grounds": "first member of compound locating placement",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daleṣvindra",
+     "gloss": "on-petals-indra",
+     "grounds": "fused form indicating petals beginning with Indra",
+     "morph": "n.loc.pl + compound-member"
+    },
+    {
+     "surface": "pūrvānmadhye",
+     "gloss": "beginning-with-east-in-middle",
+     "grounds": "fused form specifying directional order and center",
+     "morph": "m.acc.pl + n.loc.sg"
+    },
+    {
+     "surface": "graheśvarāḥ",
+     "gloss": "planet-lords",
+     "grounds": "deities to be placed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where should the lords of the planets be placed relative to the offering seat?",
+   "premises": [
+    "The placement is on the petals of the offering seat beginning with Indra's direction.",
+    "The lords of the planets are placed beginning with the east and in the middle."
+   ],
+   "inference": "The lords of the planets should be placed on the offering-seat petals, starting from the east and including the middle.",
+   "uncertainties": [
+    "Exact parsing of the directional sequence is compressed in the fused form."
+   ],
+   "plain_english": "The lords of the planets should be placed on the petals of the offering seat, beginning from the east and in the middle, starting with Indra's quarter."
+  },
+  {
+   "verse": 5759,
+   "rows": [
+    {
+     "surface": "dakṣa vāma",
+     "gloss": "right-left",
+     "grounds": "compound indicating two sides",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gatau",
+     "gloss": "situated",
+     "grounds": "describes placement on two sides",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvāre",
+     "gloss": "at-door",
+     "grounds": "location of the figures",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvibhujau",
+     "gloss": "two-armed",
+     "grounds": "alternative bodily form",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhujau",
+     "gloss": "four-armed",
+     "grounds": "alternative bodily form",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What placement and arm configurations are permitted for the door guardians?",
+   "premises": [
+    "The figures are situated on the right and left at the door.",
+    "They may be two-armed or four-armed."
+   ],
+   "inference": "The door guardians stand on the right and left and may be depicted with two or four arms.",
+   "uncertainties": [],
+   "plain_english": "Situated on the right and left at the door, they may be two-armed or four-armed."
+  },
+  {
+   "verse": 5760,
+   "rows": [
+    {
+     "surface": "śyāmābhau",
+     "gloss": "dark-hued",
+     "grounds": "alternative coloration of the pair",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "raktavarṇau",
+     "gloss": "red-colored",
+     "grounds": "alternative coloration of the pair",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sitakṛṣṇau",
+     "gloss": "white-black",
+     "grounds": "alternative contrasting coloration",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "bhayaṃkarau",
+     "gloss": "fearsome",
+     "grounds": "describes their appearance",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What color combinations and overall aspect are allowed for the door guardians?",
+   "premises": [
+    "The pair may be dark-hued or red-colored.",
+    "Alternatively they may be white and black, and they are fearsome."
+   ],
+   "inference": "The fearsome door guardians may be depicted in dark, red, or white-and-black color schemes.",
+   "uncertainties": [],
+   "plain_english": "They may be dark-hued or red-colored, or white and black, and they are fearsome."
+  },
+  {
+   "verse": 5761,
+   "rows": [
+    {
+     "surface": "īśāne",
+     "gloss": "in-northeast",
+     "grounds": "specifies direction of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt-√kḷp"
+    },
+    {
+     "surface": "skanda",
+     "gloss": "skanda",
+     "grounds": "first member of compound naming Skanda-Caṇḍa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "caṇḍaṃ",
+     "gloss": "caṇḍa",
+     "grounds": "deity to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedakaraṃ",
+     "gloss": "veda-handed",
+     "grounds": "epithet describing hands holding Vedas",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varam",
+     "gloss": "excellent",
+     "grounds": "qualifies the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which form of Caṇḍa should be placed in the northeast direction?",
+   "premises": [
+    "Skanda-Caṇḍa should be placed in the northeast.",
+    "He is excellent and holds the Vedas in his hands."
+   ],
+   "inference": "In the northeast one should place the excellent Skanda-Caṇḍa who holds the Vedas.",
+   "uncertainties": [],
+   "plain_english": "In the northeast one should place the excellent Skanda-Caṇḍa, who holds the Vedas in his hands."
+  },
+  {
+   "verse": 5762,
+   "rows": [
+    {
+     "surface": "śākalya",
+     "gloss": "śākalya",
+     "grounds": "first member of compound naming designation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃjñayā",
+     "gloss": "by-name",
+     "grounds": "indicates designation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "states traditional recognition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "for-that-purpose",
+     "grounds": "indicates intended use",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhameva",
+     "gloss": "seat-indeed",
+     "grounds": "fused form emphasizing the seat itself",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative designation or seat is recognized for this purpose?",
+   "premises": [
+    "The figure or seat is known by the name Śākalya.",
+    "Alternatively the seat itself may be used for that purpose."
+   ],
+   "inference": "For that purpose one may recognize the Śākalya designation or use the seat itself.",
+   "uncertainties": [
+    "The exact referent of khyātaṃ is context-dependent."
+   ],
+   "plain_english": "It is known by the name Śākalya, or alternatively the seat itself may be used for that purpose."
+  },
+  {
+   "verse": 5763,
+   "rows": [
+    {
+     "surface": "dravyaiśśilādibhiḥ",
+     "gloss": "with-materials-stone-etc",
+     "grounds": "fused form listing materials",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt-√kṛ"
+    },
+    {
+     "surface": "pratimālakṣaṇoditaiḥ",
+     "gloss": "by-image-marks-prescribed",
+     "grounds": "specifies materials or forms prescribed by image characteristics",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "From what materials and according to what standards should the image be made?",
+   "premises": [
+    "The image should be made with materials such as stone and others.",
+    "These should conform to the prescribed characteristics of images."
+   ],
+   "inference": "One should make the image from materials like stone according to the prescribed iconographic characteristics.",
+   "uncertainties": [],
+   "plain_english": "One should make it with materials such as stone and so forth, in accordance with the prescribed characteristics of images."
+  },
+  {
+   "verse": 5764,
+   "rows": [
+    {
+     "surface": "yojanīyaṃ",
+     "gloss": "to-be-furnished",
+     "grounds": "prescribes what should be provided",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative-like address to qualified practitioners",
+     "morph": "m.voc.pl"
+    },
+    {
+     "surface": "garbhadvārastambhādisaṃyutam",
+     "gloss": "sanctum-door-pillar-etc-endowed",
+     "grounds": "fused compound describing architectural features",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What architectural features must be included according to this instruction to the twice-born?",
+   "premises": [
+    "The structure is to be furnished appropriately.",
+    "It must be endowed with a sanctum, door, pillars, and other such features."
+   ],
+   "inference": "The twice-born should furnish the structure with a sanctum, door, pillars, and related elements.",
+   "uncertainties": [],
+   "plain_english": "O twice-born ones, it should be furnished with a sanctum, door, pillars, and so forth."
+  },
+  {
+   "verse": 5765,
+   "rows": [
+    {
+     "surface": "padma dhṛk",
+     "gloss": "lotus-holder",
+     "grounds": "describes holding a lotus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "savyasatpāṇi",
+     "gloss": "right-good-hand",
+     "grounds": "compound indicating the right hand",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rlambitetarasatkaraḥ",
+     "gloss": "hanging-other-good-hand",
+     "grounds": "describes the other hand hanging down",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the hands and held object arranged in this iconographic form?",
+   "premises": [
+    "The figure holds a lotus.",
+    "The right hand is properly positioned while the other good hand hangs down."
+   ],
+   "inference": "The figure holds a lotus with the right hand properly placed and the other hand hanging down.",
+   "uncertainties": [
+    "The exact nuance of savyasatpāṇi is compressed in the compound."
+   ],
+   "plain_english": "He holds a lotus, with his right hand properly placed and his other hand hanging down."
+  },
+  {
+   "verse": 5766,
+   "rows": [
+    {
+     "surface": "dvihasto",
+     "gloss": "two-handed",
+     "grounds": "states number of hands",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajñasūtrāḍhyaḥ",
+     "gloss": "sacred-thread-adorned",
+     "grounds": "describes wearing the sacrificial thread",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saśivakhassa",
+     "gloss": "with-śiva-mark",
+     "grounds": "fused form indicating a mark associated with Śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trimekhalaḥ",
+     "gloss": "three-girdled",
+     "grounds": "describes wearing three girdles",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bodily attributes and adornments characterize this two-handed form?",
+   "premises": [
+    "The figure is two-handed and adorned with the sacred thread.",
+    "He bears a Śiva-mark and wears three girdles."
+   ],
+   "inference": "This two-handed form is marked by the sacred thread, a Śiva-mark, and three girdles.",
+   "uncertainties": [
+    "The precise meaning of saśivakhassa is uncertain."
+   ],
+   "plain_english": "He is two-handed, adorned with the sacred thread, bearing a Śiva-mark, and wearing three girdles."
+  },
+  {
+   "verse": 5767,
+   "rows": [
+    {
+     "surface": "sthāpyo'yaṃ",
+     "gloss": "to-be-installed-this",
+     "grounds": "fused form prescribing installation of this figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānadaḥ",
+     "gloss": "knowledge-giver",
+     "grounds": "epithet describing Skanda's function",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "skandaḥ",
+     "gloss": "skanda",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parvateṣu",
+     "gloss": "on-mountains",
+     "grounds": "location for installation",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vanādiṣu",
+     "gloss": "in-forests-etc",
+     "grounds": "additional locations for installation",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Where should this knowledge-giving form of Skanda be installed?",
+   "premises": [
+    "This Skanda is to be installed as a giver of knowledge.",
+    "He should be installed on mountains and in forests and similar places."
+   ],
+   "inference": "The knowledge-giving Skanda should be installed in mountains, forests, and similar locations.",
+   "uncertainties": [],
+   "plain_english": "This Skanda, the giver of knowledge, should be installed on mountains, in forests, and in such places."
+  },
+  {
+   "verse": 5768,
+   "rows": [
+    {
+     "surface": "nakra kuṇḍala",
+     "gloss": "crocodile-earring",
+     "grounds": "compound describing earrings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yukto",
+     "gloss": "endowed-with",
+     "grounds": "describes wearing the earrings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hyakṣaśaktikaradvayaḥ",
+     "gloss": "rosary-spear-two-hands",
+     "grounds": "fused compound describing two hands holding rosary and spear",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative ornaments or hand-held implements may this form of Skanda bear?",
+   "premises": [
+    "The figure may be endowed with crocodile earrings.",
+    "Alternatively he may have two hands holding a rosary and a spear."
+   ],
+   "inference": "This form may be depicted with crocodile earrings or with two hands holding a rosary and spear.",
+   "uncertainties": [
+    "The exact reading of hyakṣa as rosary is interpretive."
+   ],
+   "plain_english": "He may be adorned with crocodile earrings, or have two hands holding a rosary and a spear."
+  },
+  {
+   "verse": 5769,
+   "rows": [
+    {
+     "surface": "śattayaikayā",
+     "gloss": "with-one-spear",
+     "grounds": "fused form indicating possession of a single spear",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yuto",
+     "gloss": "joined-with",
+     "grounds": "describes being equipped",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "expresses possibility",
+     "morph": "3.sg.opt-√as"
+    },
+    {
+     "surface": "tayorlakṣaṇamucyate",
+     "gloss": "of-those-two-characteristic-is-stated",
+     "grounds": "fused form introducing description of the two",
+     "morph": "n.nom.sg + 3.sg.pres.pass-√vac"
+    }
+   ],
+   "question": "What further alternative attribute leads into the description of two accompanying figures?",
+   "premises": [
+    "The figure may alternatively be equipped with a single spear.",
+    "The characteristic of those two is then stated."
+   ],
+   "inference": "Another option is a single-spear form, after which the characteristics of the two accompanying figures are described.",
+   "uncertainties": [],
+   "plain_english": "Or he may be equipped with a single spear; now the characteristics of those two are described."
+  },
+  {
+   "verse": 5770,
+   "rows": [
+    {
+     "surface": "śyāmaraktanibhe",
+     "gloss": "dark-red-resembling",
+     "grounds": "describes the colors of the two figures",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "savya vāmapārśve",
+     "gloss": "right-left-sides",
+     "grounds": "compound indicating positions on either side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyavasthite",
+     "gloss": "stationed",
+     "grounds": "describes their placement",
+     "morph": "f.nom.du"
+    }
+   ],
+   "question": "What colors and positions distinguish the two accompanying figures?",
+   "premises": [
+    "The two figures resemble dark and red hues.",
+    "They are stationed on the right and left sides."
+   ],
+   "inference": "The two accompanying figures are dark and red in hue and stand on the right and left sides.",
+   "uncertainties": [],
+   "plain_english": "Resembling dark and red hues, they are stationed on the right and left sides."
+  },
+  {
+   "verse": 5771,
+   "rows": [
+    {
+     "surface": "gajeti",
+     "gloss": "gaja-thus",
+     "grounds": "fused form giving a name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajavallīti",
+     "gloss": "gajavallī-thus",
+     "grounds": "fused form giving another name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmnākhyāte'ti",
+     "gloss": "by-name-known-thus",
+     "grounds": "fused form stating they are known by these names",
+     "morph": "f.nom.du + (indecl.)"
+    },
+    {
+     "surface": "sundare",
+     "gloss": "beautiful",
+     "grounds": "describes the two figures",
+     "morph": "f.nom.du"
+    }
+   ],
+   "question": "By what names are the two beautiful accompanying figures known?",
+   "premises": [
+    "One is known by the name Gajā.",
+    "The other is known by the name Gajavallī, and both are beautiful."
+   ],
+   "inference": "The two beautiful figures are known by the names Gajā and Gajavallī.",
+   "uncertainties": [],
+   "plain_english": "They are known by the names Gajā and Gajavallī, and they are beautiful."
+  },
+  {
+   "verse": 5772,
+   "rows": [
+    {
+     "surface": "ṣaḍānanaśca",
+     "gloss": "six-faced-and",
+     "grounds": "fused form describing Skanda as six-faced",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "ṣaḍbāhurarka",
+     "gloss": "six-armed-sun",
+     "grounds": "compound beginning a further description",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śrotre",
+     "gloss": "in-ears",
+     "grounds": "locative indicating placement at the ears",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "kṣaṇānvitaḥ",
+     "gloss": "adorned-with",
+     "grounds": "describes being furnished with ornaments or marks",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What facial, arm, and ear-related features characterize this form of Skanda?",
+   "premises": [
+    "Skanda is six-faced and six-armed.",
+    "He is adorned in relation to the ears as described."
+   ],
+   "inference": "This form of Skanda is six-faced, six-armed, and bears adornment at the ears.",
+   "uncertainties": [
+    "The compound ṣaḍbāhurarka śrotre kṣaṇānvitaḥ is compressed and partly obscure."
+   ],
+   "plain_english": "He is six-faced and six-armed, and adorned at the ears."
+  },
+  {
+   "verse": 5773,
+   "rows": [
+    {
+     "surface": "sa śaktissābhayassāsissākṣamālassakukkuṭaḥ",
+     "gloss": "with-spear-with-fearlessness-with-sword-with-rosary-with-rooster",
+     "grounds": "highly fused form listing multiple attributes held by the figure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which implements and gestures are simultaneously held by this form of Skanda?",
+   "premises": [
+    "The figure is described as possessing a spear.",
+    "The same figure possesses fearlessness gesture, sword, rosary, and a rooster."
+   ],
+   "inference": "This form of Skanda simultaneously bears spear, fearlessness gesture, sword, rosary, and rooster.",
+   "uncertainties": [
+    "The internal segmentation of this fused token follows traditional iconographic lists but is not separated in the surface."
+   ],
+   "plain_english": "He bears a spear, the fearlessness gesture, a sword, a rosary, and a rooster."
+  },
+  {
+   "verse": 5774,
+   "rows": [
+    {
+     "surface": "raktāmbara",
+     "gloss": "red-garment",
+     "grounds": "compound describing clothing",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyukto",
+     "gloss": "fully-endowed-with",
+     "grounds": "describes being clothed in red garments",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bālacandra",
+     "gloss": "young-moon",
+     "grounds": "first member of comparison compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samaprabhaḥ",
+     "gloss": "equal-radiance",
+     "grounds": "compares his radiance to the young moon",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What clothing and radiance characterize this final described form of Skanda?",
+   "premises": [
+    "The figure is fully endowed with red garments.",
+    "His radiance is equal to that of the young moon."
+   ],
+   "inference": "This form of Skanda wears red garments and shines with radiance like the young moon.",
+   "uncertainties": [],
+   "plain_english": "He is clothed in red garments and has a radiance equal to that of the young moon."
+  }
+ ]
+}
