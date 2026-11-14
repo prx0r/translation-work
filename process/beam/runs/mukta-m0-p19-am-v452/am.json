@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p19",
  "verse": 452,
- "question": "Which pair of deities is assigned to the left thigh in this arrangement?",
+ "question": "How many rims should the fire-pit have for śūdras and mixed castes?",
  "premises": [
-  "Vivasvān and Dakṣa are named together.",
-  "Both are described as going to the left thigh."
+  "A two-rimmed fire-pit is prescribed for śūdras",
+  "A single-rimmed fire-pit is prescribed for mixed castes",
+  "Rim count varies by social group"
  ],
- "inference": "Vivasvān and Dakṣa together occupy the left thigh.",
+ "inference": "The fire-pit should have two rims for śūdras and one rim for mixed castes.",
  "uncertainties": [
-  "The placement of Mitra in relation to this pair is not explicitly stated in this verse."
+  "The exact syntactic distribution between the two groups is compressed and inferred from context."
  ],
- "plain_english": "Then Vivasvān and Dakṣa, both, are located on the left thigh, and Mitra is also named."
+ "plain_english": "For śūdras the fire-pit should have two rims, and for mixed castes it should have one rim."
 }
