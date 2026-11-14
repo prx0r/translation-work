@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual vessel; accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "calati",
+     "gloss": "moves",
+     "grounds": "intransitive motion verb",
+     "morph": "3.sg.act-pres root-cal"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "devatāgre",
+     "gloss": "before-deity",
+     "grounds": "compound locative: before the deity",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "atisādaram",
+     "gloss": "with-great-reverence",
+     "grounds": "adverbial accusative of manner",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What conduct does the vessel show before the deity?",
+   "premises": [
+    "the vessel moves before the deity",
+    "the goddess is addressed directly",
+    "the movement is performed reverently"
+   ],
+   "inference": "The vessel is moved with great reverence before the deity.",
+   "uncertainties": [
+    "the internal sandhi of devatāgre is not expanded in this row"
+   ],
+   "plain_english": "O goddess of gods, the vessel moves before the deity with great reverence."
+  }
+ ]
+}

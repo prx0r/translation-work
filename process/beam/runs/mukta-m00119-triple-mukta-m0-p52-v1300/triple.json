@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "kuśapatraśatenaiva",
+     "gloss": "by-hundred-kusha-leaves-indeed",
+     "grounds": "fused instrumental form; kuśa-leaf hundred by means of, with emphatic eva",
+     "morph": "instr.sg.m/n"
+    },
+    {
+     "surface": "viṣṭaraṃ",
+     "gloss": "seat",
+     "grounds": "accusative object of kārayed",
+     "morph": "acc.sg.m/n"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "should-make",
+     "grounds": "causative optative, third person singular active, root kṛ",
+     "morph": "3.sg.opt.act (caus.) root kṛ"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "nominative subject of kārayed",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Should a wise practitioner make a seat from exactly one hundred kusha leaves?",
+   "premises": [
+    "wise practitioner should make seat",
+    "seat uses hundred kusha leaves",
+    "kusha leaves are prescribed"
+   ],
+   "inference": "ritual seat requires hundred kusha leaves",
+   "uncertainties": [
+    "exact ritual context unspecified",
+    "gender of seat ambiguous"
+   ],
+   "plain_english": "The wise one should make a seat from one hundred kusha leaves."
+  }
+ ]
+}

@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1172,
- "question": "What general principle governs the conditions of women and men?",
+ "question": "What is offered at the end of recitation?",
  "premises": [
-  "Women have an established condition",
-  "The condition applies to all women",
-  "Men likewise have an established condition"
+  "right hand is named",
+  "person is named",
+  "end of recitation is named",
+  "offering is named"
  ],
- "inference": "All women and all men are governed by established conditions.",
- "uncertainties": [],
- "plain_english": "There is a condition for all women and a condition for men."
+ "inference": "At the end of recitation, the person is offered in the right hand.",
+ "uncertainties": [
+  "whether tu marks contrast"
+ ],
+ "plain_english": "At the end of recitation, the person is offered in the right hand."
 }

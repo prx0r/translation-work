@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1160,
- "question": "What should the best practitioner utter before worship?",
+ "question": "What interval exists between worshipped and worshipper?",
  "premises": [
-  "heart mantra is uttered",
-  "best practitioner worships"
+  "interval is named",
+  "eastern direction is named",
+  "worshipped and worshipper are named"
  ],
- "inference": "The best practitioner utters the heart mantra and then worships.",
+ "inference": "An interval should be eastern between worshipped and worshipper.",
  "uncertainties": [
-  "exact heart mantra"
+  "exact spatial measure"
  ],
- "plain_english": "Having uttered the heart mantra, the best practitioner worships."
+ "plain_english": "There should be an eastern interval between worshipped and worshipper."
 }
