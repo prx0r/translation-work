@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "vāmadakṣavyatyayena",
+     "gloss": "left-right-transposition",
+     "grounds": "instrumental singular of the compound naming transposition of left and right",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vīrakaulaḥ",
+     "gloss": "hero-kaula",
+     "grounds": "nominative singular subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "passive participle agreeing with vīrakaulaḥ",
+     "morph": "m.nom.sg (ppp)"
+    }
+   ],
+   "question": "What transposition of left and right identifies a practitioner as vīra-kaula?",
+   "premises": [
+    "Left and right are transposed in ritual.",
+    "The vīra-kaula is thereby proclaimed.",
+    "The transposition marks practitioner grade."
+   ],
+   "inference": "The verse identifies vīra-kaula status through left-right ritual transposition.",
+   "uncertainties": [
+    "The exact ritual referent of the left-right transposition is not specified in this verse."
+   ],
+   "plain_english": "By the transposition of left and right, the hero-kaula is proclaimed."
+  }
+ ]
+}

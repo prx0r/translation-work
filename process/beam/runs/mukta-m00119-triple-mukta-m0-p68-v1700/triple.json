@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "āgatya",
+     "gloss": "having-come",
+     "grounds": "gerund of ā-gam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "unrecoverable-token",
+     "grounds": "source token is an asterisk with no lexical content",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-alone",
+     "grounds": "tena instrumental plus eva",
+     "morph": "instr.sg.m + (indecl.)"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "passive present of dṛś",
+     "morph": "3.sg.pass-pres + root dṛś"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverbial certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means is the deity certainly seen after arrival?",
+   "premises": [
+    "arrival precedes seeing",
+    "that alone mediates vision",
+    "certainty attaches to seeing"
+   ],
+   "inference": "The verse asserts certain vision through that alone after arrival.",
+   "uncertainties": [
+    "the asterisk token obscures a key word",
+    "the exact referent of that remains context-dependent"
+   ],
+   "plain_english": "Having come, O goddess, by that alone it is certainly seen."
+  }
+ ]
+}

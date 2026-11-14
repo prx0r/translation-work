@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "prakṛtau",
+     "gloss": "in-nature",
+     "grounds": "locative singular of prakṛti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vidyamānāyāṃ",
+     "gloss": "existing",
+     "grounds": "locative singular feminine participle of vidyamāna",
+     "morph": "f.loc.sg.part"
+    },
+    {
+     "surface": "vikṛtirna",
+     "gloss": "modification-not",
+     "grounds": "fused vikṛtiḥ + na by sandhi",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "balīyasī",
+     "gloss": "stronger",
+     "grounds": "comparative adjective balīyas in feminine nominative singular",
+     "morph": "f.nom.sg.comp"
+    }
+   ],
+   "question": "Can a modification be stronger than the original nature that persists?",
+   "premises": [
+    "prakṛti exists in its own state",
+    "vikṛti is not stronger than prakṛti",
+    "modification remains subordinate to nature"
+   ],
+   "inference": "When nature exists, modification cannot overpower it.",
+   "uncertainties": [
+    "exact doctrinal referent of prakṛti and vikṛti in this context"
+   ],
+   "plain_english": "When nature exists, modification is not stronger."
+  }
+ ]
+}
